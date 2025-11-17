@@ -5,7 +5,7 @@ theme = 'sixtyth-fortran'
 refLinksErrorLevel = 'WARNING'
 enableGitInfo = true
 timeout = 500
-disableKinds = ["taxonomy", "taxonomyTerm", "RSS", "section"] 
+disableKinds = ["taxonomy", "RSS", "section"] 
 
 [markup]
   [markup.goldmark]

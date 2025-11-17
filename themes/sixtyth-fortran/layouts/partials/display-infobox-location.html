@@ -1,7 +1,7 @@
 
   <div class="article-infobox-location">
     {{- if or (.Params.startDate) (.Params.endDate) -}}
-    <b>{{- "Operated: " -}}{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}{{-" - "-}}{{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}</b><br>
+    <b>{{- "Operated: " -}}{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}</b><br>
     {{- end -}}
 
     {{- $currentPageTitle := .Title -}} 

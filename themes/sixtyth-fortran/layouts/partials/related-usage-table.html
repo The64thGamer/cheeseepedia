@@ -106,7 +106,7 @@
             {{- /* For remodels, only show start date */ -}}
             {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}
           {{- else -}}
-            {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}{{-" - "-}}{{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}
+            {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}
           {{- end -}}
         </td>
 
