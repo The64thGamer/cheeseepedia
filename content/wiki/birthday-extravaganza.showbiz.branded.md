@@ -11,7 +11,7 @@ endDate = "1990-00-00"
 contributors = ["Ceclife13","Cybersnout"]
 +++
 
-***Birthday Extravaganza (ShowBiz Branded)*** first released in July 1989 for ShowBiz Pizza Place locations with the Pizza Time Players. It would be avaliable as a "Special" from the Cyberstar Panel until 1990 when it be removed leaving {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese's Branded)" >}} as the only option. 
+***Birthday Extravaganza (ShowBiz Branded)*** first released in July 1989 for ShowBiz Pizza Place locations with the Pizza Time Players. It would be avaliable as a "Special" from the Cyberstar Panel until 1990 when it be removed leaving {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}} as the only option. 
 
 ## Summary
 Chuck E. Cheese states "I've got an announcement to make, cause dis is a very special day!" leading to the rest of the group making their guesses with Helen finally guessing "Wait, I Know! It must be someb-b-body's birthday!". The birthday cakes are then brought out for all the birthday guests, Chuck E. Cheese then talks about the special guests and their special day followed by singing Happy Birthday to You. After blowing out their candles the Pizza Time Players sing "We Just Wanna Say Happy Birthday to You" followed by with the band singing "From ShowBiz Pizza, Where a Kid Can be a Kid!". Then Chuck E. Cheese and the rest of the Pizza Time Players letting the special guest know the "Birthday Helpers" can help! Such as cleaning your table, carry presents to your car, or even giving Munch pizza. The preformance ends with all of the Pizza Time Players shouting "HAPPY BIRTHDAY!".
