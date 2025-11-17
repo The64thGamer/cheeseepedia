@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Me & My Friends (Chucktober)"
-startDate = "2016-10-03"
+startDate = "2017-10-02"
 endDate = "2022-10-31"
 pageThumbnailFile = " "
 contributors = ["Cybersnout"]
