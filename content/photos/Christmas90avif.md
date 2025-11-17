@@ -1,7 +1,7 @@
 +++
 title = "Christmas90.avif"
 citations = ["https://www.worthpoint.com/worthopedia/chuckcheese-christmas-90-reel-reel-4883867215"]
-pages = ["CEC Christmas '90 / Wave Bday"]
+pages = ["CEC Christmas '90"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 +++
