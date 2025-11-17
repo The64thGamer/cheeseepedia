@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Werewolf-Zomba-Franke-Conga"
+title = "Werewolf-Zomba-Franken-Conga"
 startDate = "2019-09-09"
 endDate = "2022-10-31"
 pageThumbnailFile = " "
