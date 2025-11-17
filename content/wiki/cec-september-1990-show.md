@@ -6,14 +6,14 @@ categories = ["Chuck E. Cheese's"]
 
 
 startDate = "1990-09-00"
-endDate = "0000-00-00"
+endDate = "1990-11-00"
 contributors = ["The 64th Gamer","DerekCat","CyberSnout","Montfortdog"]
 citations = []
 pageThumbnailFile = "29lHVpHq3oIXqEdTdWKw.avif"
 showtapeFormats = ["C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)","Cyberamics Reel"]
 +++
 
-***CEC September 1990 Show*** is a showtape released in the Fall of 1990 for the 3-Stage and Cyberamics, it's currently the last known showtape to use the {{< wiki-link "Cyberamics Reel" >}} format.
+***CEC September 1990 Show*** is a showtape released in September 1990 for Cyberamics and October 1990 for 3-Stages.
 
 ## Low Production Count
 
