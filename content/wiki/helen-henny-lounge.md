@@ -32,10 +32,3 @@ The bot features 8 movements in total.
 | Eye Turn Left   |
 | Eyelids         |
 | Hands           |
-
-## Known Locations
-
-| Location                                                           | Date Installed | Date Removed |
-|--------------------------------------------------------------------|----------------|--------------|
-| {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}  | October 1979   | ???    |
-| {{< wiki-link "Citrus Heights, CA (7614 Greenback Lane)" >}} | January 1980   | 1982         |

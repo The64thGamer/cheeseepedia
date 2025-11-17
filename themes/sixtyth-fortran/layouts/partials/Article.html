@@ -56,6 +56,7 @@
                 {{- partial "display-page-box.html" . -}}
             {{- end -}}
         {{- end -}}
+        {{- partial "display-citations.html" . -}}
     {{- end -}}
 
 {{/* Video Page */}}
@@ -67,7 +68,7 @@
         {{- .Content -}}
 
         {{- if .Params.startDate -}}
-            <br><strong>Video taken on: </strong>{{- partial "date-to-readable-date.html" .Params.startDate -}}
+            <br><strong>Video taken on: </strong>{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}
         {{- end -}}
 
         <h2>Tagged Articles</h2>
@@ -79,6 +80,7 @@
                 {{- partial "display-page-box.html" . -}}
             {{- end -}}
         {{- end -}}
+        {{- partial "display-citations.html" . -}}
     {{- end -}}
 
 {{/* Basic Article */}}

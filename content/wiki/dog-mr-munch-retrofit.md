@@ -9,7 +9,7 @@ contributors = ["StudioC","BurgersNuggs445","PizzaEntertainmentFanX"]
 citations = []
 pageThumbnailFile = "4sbfsR4cyPXhTVUMDspg.avif"
 +++
-***Dog* (also known as ***The Dog*) was a retrofit of {{< wiki-link "Mr Munch (Cyberamic)" >}} used at the {{< wiki-link "Fun Zone & Pizza" >}} on {{< wiki-link "Chico, CA (966 East Ave)" >}}. The bot was retrofitted after the location lost its license to the CEC IP.****
+***Dog* (also known as ***The Dog*) was a retrofit of {{< wiki-link "Mr. Munch (Cyberamic)" >}} used at the {{< wiki-link "Fun Zone & Pizza" >}} on {{< wiki-link "Chico, CA (966 East Ave)" >}}. The bot was retrofitted after the location lost its license to the CEC IP.****
 
 ## History
 

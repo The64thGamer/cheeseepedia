@@ -288,11 +288,7 @@ collections:
       - { label: "File Name (Example: test_photo.avif)", name: "title", widget: "hidden", default: "" }
       - { label: "Description", name: "body", widget: "markdown" }
       - { label: "Date (YYYY-MM-DD or 0000-00-00)", name: "startdate", widget: "string", required: false }
-      - label: "Citations (List sources here!)"
-        name: "citations"
-        widget: "list"
-        required: false
-        field: { label: Source, name: source, widget: string }
+      - { label: "Citation (List source here!)", name: "citation", widget: "string", required: false }
       - label: "Pages Photo Depicts (Use Page Title)"
         name: "pages"
         widget: "list"

@@ -15,7 +15,7 @@
             </a>
             <div class="list-review-date">
                 {{- $site := .Site.RegularPages -}}
-                {{- partial "date-to-readable-date.html" .Params.startDate -}}
+                {{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}
                 {{- if .Params.contributors -}}
                     {{- " - " -}}
                     {{- $len := len .Params.contributors -}}

@@ -30,7 +30,7 @@ The Cyberamic Shelf Stages, similar to the Kooser Shelf Stage, would be placed a
 
 - {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}
 - {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}
-- {{< wiki-link "Mr Munch (Cyberamic)" >}}
+- {{< wiki-link "Mr. Munch (Cyberamic)" >}}
 - {{< wiki-link "Pasqually (Cyberamic)" >}}
 - {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}
 - {{< wiki-link "Warblettes (Cyberamic)" >}} (Removed last at Ogden's Closure)

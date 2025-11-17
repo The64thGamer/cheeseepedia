@@ -8,7 +8,7 @@
                 {{- .Content | truncate 150 "..."  -}}
             </a>
             <div class="list-page-date">
-                {{- partial "date-to-readable-date" .Params.startDate -}}
+                {{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}
             </div>
         </div>
         <div class="edit-button-container">

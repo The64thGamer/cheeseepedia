@@ -18,7 +18,7 @@
         {{ end }}
         </a>
         <div class="list-page-date">
-            {{ partial "display-date-ranges.html" . }}
+            {{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}} - {{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}
         </div>
     </div>
 
