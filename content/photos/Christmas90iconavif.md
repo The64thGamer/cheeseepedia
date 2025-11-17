@@ -1,8 +1,8 @@
 +++
 title = "Christmas90icon.avif"
-citations = ["https://youtu.be/6N70g5UFBuc"]
-pages = ["CEC Christmas '90"]
+draft = false
 tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+categories = [""]
+pages = ["CEC Christmas '90"]
+startDate = ""
 +++
-Screenshot from 'Christmas '90' Segment 1
