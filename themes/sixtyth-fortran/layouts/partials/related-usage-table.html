@@ -68,13 +68,15 @@
     <thead>
       <tr>
         <th>Location</th>
-        <th>Operating Dates</th>
+        <th>{{ if eq $paramName "remodels" }}Installed{{ else }}Operating Dates{{ end }}</th>
 
         {{- if eq $paramName "stages" -}}
           <th>Version</th>
         {{- else if eq $paramName "animatronics" -}}
           <th>Serial Number</th>
           <th>Notes</th>
+        {{- else if eq $paramName "remodels" -}}
+          {{/* no additional columns for remodels */}}
         {{- else -}}
           <th>Notes</th>
         {{- end -}}
@@ -93,14 +95,19 @@
         <!-- LOCATION -->
         <td><a href="{{ $other.RelPermalink }}">{{ $other.Title }}</a></td>
 
-        <!-- OPERATING DATES -->
+        <!-- INSTALLED / OPERATING DATES -->
         <td>
           {{- $start := "" -}}
           {{- $end := "" -}}
           {{- if ge (len $parts) 2 -}}{{- $start = index $parts 1 -}}{{- end -}}
           {{- if ge (len $parts) 3 -}}{{- $end = index $parts 2 -}}{{- end -}}
 
-          {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}} - {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}
+          {{- if eq $paramName "remodels" -}}
+            {{- /* For remodels, only show start date */ -}}
+            {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}
+          {{- else -}}
+            {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}} - {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}
+          {{- end -}}
         </td>
 
         <!-- EXTRA FIELDS -->
@@ -139,6 +146,8 @@
             {{- end -}}
           </td>
 
+        {{- else if eq $paramName "remodels" -}}
+          {{- /* remodels intentionally have no extra columns (no notes) */ -}}
         {{- else -}}
           <!-- NOTES (generic) -->
           <td>
