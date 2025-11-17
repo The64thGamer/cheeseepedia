@@ -49,7 +49,7 @@
 
         <h2>Tagged Articles</h2>
         {{- $callerPages := .Params.pages -}}
-        {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
+        {{- $pages := partialCached "grab-all-wiki-articles.html" "key"}}
         {{- range $pages -}}
             {{- $pageTitle := .Title}}
             {{- if in $callerPages $pageTitle -}}
@@ -73,7 +73,7 @@
 
         <h2>Tagged Articles</h2>
         {{- $callerPages := .Params.pages -}}
-        {{- $pages := partialCached "grab-all-wiki-articles.html" . -}}
+        {{- $pages := partialCached "grab-all-wiki-articles.html" "key"}}
         {{- range $pages -}}
             {{- $pageTitle := .Title}}
             {{- if in $callerPages $pageTitle -}}
