@@ -4,14 +4,15 @@ storeNumber = ""
 startDate = "1979-10-00"
 endDate = "1998-00-00"
 cuDate = ""
-remodels = ["PTT Standard Layout|1979-10-00","PTT Early Cyberamic Replacements|1983-00-00"]
-stages = []
+remodels = ["PTT Standard Layout|1979-10-00","PTT 1981 Exterior Update|0000-00-00","PTT Early Cyberamic Replacements|1983-00-00","SPT 1980's Remodel Program|0000-00-00"]
+stages = ["Cyberamics Portrait / Shelf Stage|1979-10-00|0000-00-00","Chuck E.'s House Facade|0000-00-00|0000-00-00","2-Stage|0000-00-00|2024-09-21"]
 franchisees = []
-attractions = []
+attractions = ["Spy Hunter|0000-00-00|0000-00-00|Played by customer in late 80's, early 90's.","Star Wars|0000-00-00|0000-00-00|Played by customer in late 80's, early 90's.","Pole Position|0000-00-00|0000-00-00|Played by customer in late 80's, early 90's.","Solar Warrior|0000-00-00|0000-00-00|Played by customer in late 80's, early 90's.","Skeet Shooting|0000-00-00|0000-00-00|Played by customer in late 80's, early 90's."]
 sqft = ""
 latitudeLongitude = ["37.98592732", "-121.324278"]
-citations = ["https://www.newspapers.com/article/oakland-tribune/82325882/","https://www.newspapers.com/article/the-peninsula-times-tribune/105027559/","https://archive.org/details/play-meter-update-volume-5-number-12-july-1st-1979/Play%20Meter%20Update%20-%20Volume%205%2C%20Number%2012%20-%20July%201st%201979/page/n1/mode/2up?q=pizza+time+theatre","https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf","https://www.newspapers.com/article/the-sacramento-union/180628029/","https://www.newspapers.com/article/the-sacramento-union/180627977/","https://www.newspapers.com/article/the-modesto-bee/124627642/","https://dn720006.ca.archive.org/0/items/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1_text.pdf","https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/page/n1/mode/2up?q=stockton","https://ia601503.us.archive.org/21/items/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1_text.pdf","https://archive.org/details/the-pizza-times-newsletters/1982%20The%20Pizza%20Times%202-4","https://archive.org/details/stockton-ports-1993-pocket-schedule-w-chuck-e-cheeses-pizza-ad/Scan_20211029.jpg"]
-contributors = []
+citations = ["https://www.newspapers.com/article/oakland-tribune/82325882/","https://www.newspapers.com/article/the-peninsula-times-tribune/105027559/","https://archive.org/details/play-meter-update-volume-5-number-12-july-1st-1979/Play%20Meter%20Update%20-%20Volume%205%2C%20Number%2012%20-%20July%201st%201979/page/n1/mode/2up?q=pizza+time+theatre","https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf","https://www.newspapers.com/article/the-sacramento-union/180628029/","https://www.newspapers.com/article/the-sacramento-union/180627977/","https://www.newspapers.com/article/the-modesto-bee/124627642/","https://dn720006.ca.archive.org/0/items/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1_text.pdf","https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/page/n1/mode/2up?q=stockton","https://ia601503.us.archive.org/21/items/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1_text.pdf","https://archive.org/details/the-pizza-times-newsletters/1982%20The%20Pizza%20Times%202-4","https://archive.org/details/stockton-ports-1993-pocket-schedule-w-chuck-e-cheeses-pizza-ad/Scan_20211029.jpg","https://www.reddit.com/r/Stockton/comments/1g70z7a/dose_anybody_have_any_photos_memories_stories_or/"]
+contributors = ["The 64th Gamer"]
+animatronics = ["Chuck E. Cheese (Cyberamic)|1979-10-06|2025-09-21|N/A|In storage at the SPT Warehouse.","Warblettes (Cyberamic)|1979-10-06|0000-00-00|N/A|Unknown","Guest Star / Helen Henny (Cyberamic)|1979-10-06|2025-09-21|N/A|In storage at the SPT Warehouse.","Mr. Munch (Cyberamic)|1979-10-06|2025-09-21|N/A|In storage at the SPT Warehouse.","Pasqually (Cyberamic)|1979-10-06|2025-09-21|N/A|In storage at the SPT Warehouse.","Jasper T. Jowls (Cyberamic)|1979-10-06|2025-09-21|N/A|In storage at the SPT Warehouse.","Dolli Dimples (Cabaret)|1979-05-00|0000-00-00|N/A|Unknown","Artie Antlers (Cabaret)|1980-00-00|0000-00-00|N/A|Unknown","Applause Board (Cyberamic)|1979-10-06|0000-00-00|N/A|Unknown","Drum Board (Cyberamic)|1979-10-06|1985-00-00|N/A|Unknown","Flag Wavers (Cyberamic)|1979-10-06|1985-00-00|N/A|Unknown","Wink (Animatronic)|0000-00-00|2025-09-21|N/A|In storage at the SPT Warehouse.","Helen Henny (Lounge)|1979-10-06|0000-00-00|N/A|Unknown"]
 downloadLinks = []
 pageThumbnailFile = "9iZgkgdFP2DqRNRmaqwJ.avif"
 tags = ["Locations"]
@@ -39,3 +40,4 @@ In late 1982 a dough rolling contest between Stockton and {{< wiki-link "Sacrame
 In early 1983 the actor John Quade would visit the location and be photographed for The Pizza Times.{{< cite 10 >}}
 
 In 1993 Chuck E. Cheese's Pizza would be advertized on a pocket schedule for the Stockton Ports.{{< cite 12 >}}
+
