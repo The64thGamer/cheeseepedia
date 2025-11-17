@@ -13,3 +13,5 @@ sales = ["$29.99|2025-05-16|https://web.archive.org/web/20250810231247/https://w
 The ***1978 Chuck E. Cheese Halloween Mask*** was a promotional item distributed alongside the {{< wiki-link "1978 Jasper T. Jowls Halloween Mask" >}}- only confirmed to have been given at the fourth Pizza Time Theatre location, {{< wiki-link "Sacramento (Florin Mall), CA (7020 Stockton Blvd)" >}}, though likely was givern or sold at other locations around the time.
 
 The only other appearance of either mask is in the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} 1979 news coverage, which depicts the Jasper mask amongst other collectables on a frame labeled "The Pizza Time Promotions", likely affirming the promotion was at least also held at the Winchester location, and seemingly dating the footage.
+
+A seller for a mask on eBay noted that "...this was from his birthday in Sacramento California.", giving credit to the idea the masks were used outside of the Halloween promotion.
