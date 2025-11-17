@@ -19,7 +19,7 @@ categories = ["Pizza Time Theatre"]
 draft = false
 +++
 
-***San Jose, CA (1371 Kooser Rd) Store #404*** was a franchised *Pizza Time Theatre* that opened on December 2, 1978, with a Portrait Show, and closed on June 25, 2020. This location is the second-ever Pizza Time Theatre location and was the oldest location in the company until 2020. Now, {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}} has the oldest Chuck E. Cheese's in the company.
+***San Jose, CA (1371 Kooser Rd) Store #404*** was a franchised *Pizza Time Theatre* that opened on December 2, 1978, with a Portrait Show, and closed on June 25, 2020. This location is the second-ever Pizza Time Theatre location and was the oldest location in the company until 2020. 
 
 ## History
 
