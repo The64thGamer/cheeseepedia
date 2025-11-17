@@ -13,7 +13,7 @@ contributors = ["Ceclife13","Cybersnout"]
 +++
 
 ***Birthday Extravaganza (Chuck E. Cheese Branded)*** first released in July 1989 for Chuck E. Cheese locations with the Pizza Time Players.
-It would be avaliable as a "Special" from the Cyberstar Panel until 1990 when it would be switched over as a "Hidden Birthday" until Feburary 1992 being replacaed by {{< wiki-link "Birthday Star '92" >}}. 
+It would be avaliable as a "Special" from the Cyberstar Panel until 1990 when it would be switched over as a "Hidden Birthday" until Feburary 1992 being replaced by {{< wiki-link "Birthday Star '92" >}}. 
 
 ## Summary
 Chuck E. Cheese states "I've got an announcement to make, cause dis is a very special day!" leading to the rest of the group making their guesses with Helen finally guessing "Wait, I Know! It must be someb-b-body's birthday!". The birthday cakes are then brought out for all the birthday guests, Chuck E. Cheese then talks about the special guests and their special day followed by singing Happy Birthday to You. 
