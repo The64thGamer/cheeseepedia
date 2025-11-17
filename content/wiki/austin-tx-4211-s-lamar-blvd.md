@@ -1,7 +1,7 @@
 +++
 title = "Austin, TX (4211 S Lamar Blvd)"
 storeNumber = ""
-startDate = "1981-00-00"
+startDate = "1981-12-00"
 endDate = "1984-02-19"
 cuDate = ""
 remodels = []

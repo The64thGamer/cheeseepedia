@@ -2,7 +2,7 @@
 title = "Boardman, OH (813 Boardman Poland Rd)"
 storeNumber = ""
 startDate = "1982-10-00"
-endDate = "1991-12-00"
+endDate = "1991-11-00"
 cuDate = ""
 remodels = []
 stages = []

@@ -1,7 +1,7 @@
 +++
 title = "San Bernardino, CA (955 South E St)"
 storeNumber = ""
-startDate = "1981-12-00"
+startDate = "1982-01-00"
 endDate = "2020-06-17"
 cuDate = ""
 remodels = []

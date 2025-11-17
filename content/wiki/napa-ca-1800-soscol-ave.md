@@ -2,7 +2,7 @@
 title = "Napa, CA (1800 Soscol Ave)"
 storeNumber = ""
 startDate = "1981-09-04"
-endDate = "1985-06-00"
+endDate = "1985-06-17"
 cuDate = ""
 remodels = []
 stages = []
