@@ -1,5 +1,23 @@
-{{- $date := . -}}
+{{- $date := .date | default "" -}}
+{{- $presentOnEmpty := .presentOnEmpty | default false -}}
+
+{{/* If completely zero → unknown date */}}
+{{- if eq $date "0000-00-00" -}}
+  ?
+  {{- return -}}
+{{- end -}}
+
+{{/* If blank → optional "Present" */}}
+{{- if eq $date "" -}}
+  {{- if $presentOnEmpty -}}
+    Present
+  {{- end -}}
+  {{- return -}}
+{{- end -}}
+
+{{/* Extract YYYY-MM-DD (ignoring any extra tokens) */}}
 {{- $dateParts := split (index (split $date " ") 0) "-" -}}
+
 {{- if ge (len $dateParts) 3 -}}
   {{- $year := default "0000" (index $dateParts 0) -}}
   {{- $month := default "00" (index $dateParts 1) -}}
@@ -77,9 +95,12 @@
 
   {{- $monthName := index $months $month -}}
   {{- $dayName := index $days $day -}}
+
   {{- $monthName -}}
   {{- $dayName -}}
-  {{- if (ne $year "0000")}}
-    {{- printf $year -}}
+
+  {{/* Only print year if not all-zero */}}
+  {{- if (ne $year "0000") -}}
+    {{- printf "%s" $year -}}
   {{- end -}}
 {{- end -}}

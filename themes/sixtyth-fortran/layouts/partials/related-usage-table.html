@@ -101,23 +101,7 @@
           {{- if ge (len $parts) 2 -}}{{- $start = index $parts 1 -}}{{- end -}}
           {{- if ge (len $parts) 3 -}}{{- $end = index $parts 2 -}}{{- end -}}
 
-          {{- $validStart := and (ne $start "") (ne $start "0000-00-00") -}}
-          {{- $validEnd := and (ne $end "") (ne $end "0000-00-00") -}}
-
-          {{- if $validStart -}}
-            {{- partial "date-to-readable-date.html" $start -}}
-            {{- if $validEnd -}}
-              – {{ partial "date-to-readable-date.html" $end }}
-            {{- else if eq $end "0000-00-00" -}}
-              – Present
-            {{- end -}}
-          {{- else if $validEnd -}}
-            {{- partial "date-to-readable-date.html" $end -}}
-          {{- else if eq $end "0000-00-00" -}}
-            Present
-          {{- else -}}
-            —
-          {{- end -}}
+          {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}} - {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}
         </td>
 
         <!-- EXTRA FIELDS -->

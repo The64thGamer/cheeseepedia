@@ -18,3 +18,9 @@
     </ol>
   </div>
 {{- end -}}
+{{- if .Params.citation -}}
+  <div class="citations">
+    <h2>Reference</h2>
+    {{- .Params.citation -}}
+  </div>
+{{- end -}}

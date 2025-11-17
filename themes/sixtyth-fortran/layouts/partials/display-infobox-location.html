@@ -1,7 +1,7 @@
 
   <div class="article-infobox-location">
     {{- if or (.Params.startDate) (.Params.endDate) -}}
-    <b>{{- "Operated: " -}}</b>{{- partial "display-date-ranges.html" . -}}<br>
+    <b>{{- "Operated: " -}}</b><br>
     {{- end -}}
 
     {{- $currentPageTitle := .Title -}} 
@@ -82,7 +82,7 @@
             {{- $parts := split . "|" -}}
             {{- $name := index $parts 0 -}}
             {{- $date := index $parts 1 -}}
-            <li>{{ partial "wiki-link.html" (dict "name" $name "context" $) }} ({{ partial "date-to-readable-date.html" $date }})</li>
+            <li>{{ partial "wiki-link.html" (dict "name" $name "context" $) }} ({{- partial "Readable_Date.html" (dict "date" $date "presentOnEmpty" false) -}})</li>
           {{- end }}
         </ul>
       </div>
@@ -100,8 +100,7 @@
             {{- $version := index $parts 3 -}}
             <li>
               {{ partial "wiki-link.html" (dict "name" $name "context" $) }}
-              ({{ partial "date-to-readable-date.html" $start }} –
-              {{ if $end }}{{ partial "date-to-readable-date.html" $end }}{{ else }}Present{{ end }})
+              ({{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}} – {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}})
               {{- if $version }}
                 ({{ $version }})
               {{- end }}
@@ -122,8 +121,7 @@
             {{- $end := index $parts 2 -}}
             <li>
               {{ $name }}
-              ({{ partial "date-to-readable-date.html" $start }} –
-              {{ if $end }}{{ partial "date-to-readable-date.html" $end }}{{ else }}Present{{ end }})
+              ({{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}} – {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}})
             </li>
           {{- end }}
         </ul>
