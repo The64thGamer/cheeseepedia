@@ -1,95 +1,74 @@
 +++
-title = "CEC Christmas '90 / Wave Bday"
+title = "CEC Christmas '90"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = "1990-11-09"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","DerekCat","Rexburg090"]
+startDate = "1990-12-00"
+endDate = "1990-12-00"
+contributors = ["The 64th Gamer","DerekCat","Rexburg090","CyberSnout"]
 citations = []
-pageThumbnailFile = "Lzc3iomHZayyfNzGDOfu.avif"
+pageThumbnailFile = "Christmas90icon.avif"
 showtapeFormats = ["C&R SVHS (Pre-93)","R12 SVHS (Pre-93)","Cyberamics Reel"]
-alsoKnownAs = ["140-1109-89(C) S. P. T. Inc.CEC Christmas 90 / Wave BdaySerial #004 Deck - 411/09/89 - Master CYBERSTAR"]
+alsoKnownAs = ["140-1109-89(C) S. P. T. Inc.CEC Christmas 90 / Wave BdaySerial #004 Deck - 411/09/89 - Master CYBERSTAR","027-1101-90 (C) S. P. T. Inc. CEC CHRISTMAS 90 Serial #0014 Deck - 6 11/01/90 - Master HEADWOUND"]
 +++
 
-***CEC Christmas '90*** is a Christmas/Holiday themed showtape that played throughout all of December 1990.
+***CEC Christmas '90*** is a Christmas/Holiday themed showtape that played throughout all of December 1990. This is the last known show produced for "Cyberamics Reel"
 
 ## Show List
-
 01. **Intermission 1**
-    
     1. 8 Minute Countdown
-       
        1. [My Favorite Things](https://en.wikipedia.org/wiki/Merry_Christmas_%28The_Supremes_album%29)
        2. Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas')
        3. [Silver Bells](https://en.wikipedia.org/wiki/Anne_Murray%27s_Christmas_Album)
     2. Cyberstar Intro
 02. **Segment 1**
-    
     1. Jingle Bells
     2. Sleigh Ride
     3. Rudolph the Red-Nosed Reindeer
 03. **Intermission 2**
-    
     1. 8 Minute Countdown
-       
        1. [Winter Wonderland](https://en.wikipedia.org/wiki/Christmas_Album_%28Herb_Alpert_album%29)
        2. [Toyland](https://en.wikipedia.org/wiki/Christmas_Eve_with_Johnny_Mathis)
        3. [Santa Claus Is Coming to Town](https://en.wikipedia.org/wiki/A_Very_Special_Christmas_%28album%29)
     2. Cyberstar Intro
 04. **Segment 2**
-    
     1. Santa Claus is Coming to Town
     2. Twas The Night Before Christmas
 05. **Intermission 3**
-    
     1. 8 Minute Countdown
-       
        1. [Christmas In the Caribbean](https://en.wikipedia.org/wiki/Boats,_Beaches,_Bars_%26_Ballads)
        2. [White Christmas Makes Me Blue](https://en.wikipedia.org/wiki/An_Old_Time_Christmas)
        3. All I Want For Christmas (From Ray Charles 'The Spirit of Christmas')
     2. It's Showtime!
 06. **Video 1**
-    
     1. [Manheim Steamroller - The Little Drummer Boy](https://en.wikipedia.org/wiki/A_Fresh_Aire_Christmas)
 07. **Intermission 4**
-    
     1. 8 Minute Countdown
-       
        1. [Run Rudolph Run](https://en.wikipedia.org/wiki/Run_Rudolph_Run)
        2. [Frosty the Snowman](https://en.wikipedia.org/wiki/Pretty_Paper)
        3. [Have Yourself a Merry Little Christmas](https://en.wikipedia.org/wiki/Jackson_5_Christmas_Album)
     2. Cyberstar Intro
 08. **Segment 3**
-    
     1. Twelve Days of Christmas
 09. **Intermission 5**
-    
     1. 8 Minute Countdown
-       
        1. [I Saw Mommy Kissing Santa Claus](https://en.wikipedia.org/wiki/A_Very_Special_Christmas_%28album%29)
        2. [White Christmas](https://en.wikipedia.org/wiki/Christmas_%28Kenny_Rogers_album%29)
        3. [What Are You Doing New Year's Eve](https://en.wikipedia.org/wiki/Ella_Wishes_You_a_Swinging_Christmas)
     2. Cyberstar Intro
 10. **Segment 4**
-    
     1. The Christmas Song (Chestnuts Roasting on an Open Fire)
     2. We Wish You a Merry Christmas
     3. Winter Wonderland
     4. Have Yourself a Merry Little Christmas
     5. We Need a Little Christmas
 11. **Intermission 6**
-    
     1. 8 Minute Countdown
-       
        1. Jingle Bells (From Smokey Robinson &amp; the Miracles's 'The Season for Miracles')
        2. [Christmas Without You](https://en.wikipedia.org/wiki/A_Shoulder_to_Cry_On_%28Tommy_Page_song%29)
        3. [You Make It Christmas](https://en.wikipedia.org/wiki/Christmas_with_The_Jets)
     2. It's Showtime!
 12. **Video 2**
-    
     1. [California Raisins - Rudolph the Red-Nosed Reindeer](https://en.wikipedia.org/wiki/A_Claymation_Christmas_Celebration)
 
 ## Production
