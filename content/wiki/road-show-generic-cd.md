@@ -2,7 +2,7 @@
 draft = false
 title = "Road Show Generic CD"
 startDate = "2008-12-00"
-endDate = "2010-00-00"
+endDate = "2009-12-00"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = []
 tags = ["Live Shows"]
