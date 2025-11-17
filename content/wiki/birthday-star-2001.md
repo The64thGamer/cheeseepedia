@@ -2,7 +2,7 @@
 title = "Birthday Star 2001"
 draft = false
 tags = ["Live Shows"]
-categories = [""]
+categories = ["Chuck E. Cheese's"]
 
 
 startDate = "2001-01-00"
