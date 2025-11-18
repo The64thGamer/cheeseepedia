@@ -4,7 +4,7 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2014-07-01"
-endDate = "0000-00-00"
+endDate = "2014-08-31"
 contributors = ["CyberSnout","Himitsu","The 64th Gamer","DerpJobi","ShowBizChuck"]
 citations = ["https://newmediarockstars.com/2014/09/chuck-e-cheese-rips-off-dude-like-hella-video/","https://www.youtube.com/watch?v=RhmUnk454MA"]
 pageThumbnailFile = "wLhQ2r_Jtj6fgp4YmOFV.avif"

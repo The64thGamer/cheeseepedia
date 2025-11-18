@@ -1,17 +1,17 @@
 +++
-title = "April 2013 Show"
+title = "Spring 2013 Show"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2013-04-00"
-endDate = "0000-00-00"
+endDate = "2013-06-00"
 contributors = ["The 64th Gamer","CyberSnout","John95","Anonymous","Anonymous","Harchambeault2026"]
 citations = []
 pageThumbnailFile = "SSyzvXIS2WmBuy81LAne.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
 ***April 2013* is the Spring show released Spring 2013, featuring six songs.
-This was created to play from April - May 2013.**
+This was created to play from April - June 2013.**
 
 ## Show List:
 
