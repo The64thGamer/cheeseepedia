@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Bella Bunny"
-startDate = "2018-01-04"
+startDate = ""
 endDate = ""
 contributors = ["CECMentor", "Capitanyoda20"]
 citations = ["https://www.instagram.com/iamandyhayward/p/C8AYMpUx7IJ/"]
