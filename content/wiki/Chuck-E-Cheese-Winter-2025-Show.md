@@ -11,7 +11,46 @@ categories = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025.
 
-## Show List 11/12 Update:
+## Show List 11/17 Update:
+1. Intermission 1
+      1. Dippin Dots & Chuck E.’s Cookie Crunch
+      2.  Paris & Pups Episode 11: Cupcake Tower for Thanksliving!
+      3.  Harlem Globetrotters - ‘Way We Celebrate’
+      4.  Blippi - ‘Use Your Imagination’
+      5.  A Chuck E. Cheese Christmas Trailer
+      6.  KIDZ BOP Kids - ‘Manchild’
+      7.  Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
+      8.  Chuck E. Cheese - 'Fly Munch Fly'
+      9.  Chuck E., Jingle & Jangle - 'Holiday Traditions'
+      10.  My Chemical Romance - 'Every Snowflake Is Different' (Just Like You)
+      11.  Chuck E. & Friends - The Holiday Party (DJ Munch)
+      12.  KIDZ BOP Kids - 'Feliz Navidad'
+      13.  Bella & Chuck E. - 'Holiday Fiesta'
+      14.  Blue's Clues & You! - 'The Dreidel Song and Game'
+      15.  Jasper T. Jowls - 'Snowman' (2014)
+      16.  Mr. Munch - 'Zorp-Ah-Glorp Dor-Bah Is Coming Tonight'
+      17.  Chuck E. & Friends - 'Holiday Medley' (2020)
+      18.  Chuck E. & Helen - 'Merry Christmastime (2016)
+      19.  KIDZ BOP - 'Santa Claus Is Coming to Town'
+      20.  Pentatonix - '12 Days of Christmas'
+      21.  KIDZ BOP - 'Merry Christmas'
+      22.  Daveed Diggs - 'Puppy for Hanukkah'
+      23.  KIDZ BOP - 'All I Want for Christmas Is You' (ASL)
+      24.  Munch & Munch - 'The Windowsill'
+      25.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
+      26.  Chuck E. & Friends - 'Dogs in Sweaters'
+      27.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
+      28.  Chuck E. & Friends - 'Cookies for Santa'
+      29.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      30.  Chuck E. & Friends - 'Share the Joy' (2014)
+
+## Lives 11/17 Update:
+1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard) (Media Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (A Chuck E. Cheese Christmas Special Endcard) (Media Navori)
+3. Chuck E.’s Yuletide Slide (A Chuck E. Cheese Christmas Special Endcard) (Media Navori)
+4. Chuck E.’s Winner Wonder Dance (A Chuck E. Cheese Christmas Special Endcard) (Media Navori)
+
+## Show List 11/11 Update:
 1. Intermission 1
       1. Dippin Dots & Chuck E.’s Cookie Crunch
       2.  Paris & Pups Episode 11: Cupcake Tower for Thanksliving!
@@ -31,24 +70,21 @@ categories = ["Chuck E. Cheese's"]
       16.  Sia - 'Santa's Coming for Us'
       17.  Mr. Munch - 'Zorp-Ah-Glorp Dor-Bah Is Coming Tonight'
       18.  Chuck E. & Friends - 'Holiday Medley' (2020)
-      19.  The Temptations - 'Rudolph the Red-Nosed Reindeer'
-      20.  Chuck E. & Helen - 'Merry Christmastime (2016)
-      21.  KIDZ BOP - 'Santa Claus Is Coming to Town'
-      22.  Pentatonix - '12 Days of Christmas'
-      23.  KIDZ BOP - 'Merry Christmas'
-      24.  Daveed Diggs - 'Puppy for Hanukkah'
-      25.  KIDZ BOP - 'All I Want for Christmas Is You' (ASL)
-      26.  Munch & Munch - 'The Windowsill'
-      27.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
-      28.  Chuck E. & Friends - 'Dogs in Sweaters'
-      29.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
-      30.  Chuck E. & Friends - 'Cookies for Santa'
-      31.  Olaf - 'That Time of Year'
-      32.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-      33.  Leslie Odom Jr. - 'Snow'
-      34.  Chuck E. & Friends - 'Share the Joy' (2014)
+      19.  Chuck E. & Helen - 'Merry Christmastime (2016)
+      20.  KIDZ BOP - 'Santa Claus Is Coming to Town'
+      21.  Pentatonix - '12 Days of Christmas'
+      22.  KIDZ BOP - 'Merry Christmas'
+      23.  Daveed Diggs - 'Puppy for Hanukkah'
+      24.  KIDZ BOP - 'All I Want for Christmas Is You' (ASL)
+      25.  Munch & Munch - 'The Windowsill'
+      26.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
+      27.  Chuck E. & Friends - 'Dogs in Sweaters'
+      28.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
+      29.  Chuck E. & Friends - 'Cookies for Santa'
+      30.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      31.  Chuck E. & Friends - 'Share the Joy' (2014)
 
-## Lives 11/12 Update:
+## Lives 11/11 Update:
 1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard) (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (A Chuck E. Cheese Christmas Special Endcard) (Media Navori)
 3. Chuck E.’s Yuletide Slide (A Chuck E. Cheese Christmas Special Endcard) (Media Navori)
@@ -279,4 +315,6 @@ categories = ["Chuck E. Cheese's"]
 2. 11/07 Update - Paris & Pups Episode 11: Cupcake Tower for Thanksliving! is added.
 3. 11/08 Update - A Chuck E. Cheese Christmas Trailer and Chuck E. Cheese Adventure World Trailer are added.
 4. 11/10 Update - KIDZ BOP Kids - ‘Manchild’ and Blippi - ‘Use Your Imagination’ are swapped and Chuck E. Cheese Adventure World Trailer is removed.
-5. 11/12 Update - OneRepublic - 'Dear Santa' is removed.
+5. 11/11 Update - OneRepublic - 'Dear Santa', Leslie Odom Jr. - 'Snow', Olaf - 'That Time of Year', and The Temptations - 'Rudolph the Red-Nosed Reindeer' is removed.
+6. 11/14 Update - Staring Contest with Chuck E. added during Live Show countdowns.
+5. 11/17 Update - Blippi - ‘Use Your Imagination’, KIDZ BOP Kids - ‘Manchild’ and A Chuck E. Cheese Christmas Trailer are swapped around. Sia - 'Santa's Coming for Us' is removed.
