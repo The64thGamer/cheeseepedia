@@ -2,7 +2,7 @@
 draft = false
 title = "CEC Future"
 startDate = "1991-03-14"
-endDate = "0000-00-00"
+endDate = "1991-05-06"
 pageThumbnailFile = "bOApj0qRJZiVVjQlnRPw.avif"
 contributors = ["DerekCat", "Anonymous", "The 64th Gamer", "CyberSnout", "Luigigamin212"]
 citations = []
