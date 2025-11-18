@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "CEC Jan '91"
-startDate = "1990-12-10"
-endDate = "0000-00-00"
+startDate = "1991-01-00"
+endDate = "1991-03-13"
 pageThumbnailFile = "p2W8qDF25CjN7xR8wUdv.avif"
 contributors = ["DerekCat", "The 64th Gamer", "Montfortdog", "Luigigamin212"]
 citations = []
