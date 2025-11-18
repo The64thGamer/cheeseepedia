@@ -3,8 +3,8 @@ title = "CEC Summertime"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1988-00-00"
-endDate = "0000-00-00"
+startDate = "1988-05-00"
+endDate = "1988-06-00"
 contributors = ["The 64th Gamer"]
 citations = []
 +++
