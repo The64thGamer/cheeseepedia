@@ -2,7 +2,7 @@
 draft = false
 title = "CEC Games"
 startDate = "1991-07-09"
-endDate = "1991-00-00"
+endDate = "1991-09-09"
 pageThumbnailFile = "UB8vJbzYgTeyI5KDNka9.avif"
 contributors = ["DerekCat", "Studio 18 Ent", "Ceclife13", "Luigigamin212"]
 citations = ["https://youtu.be/51eVZREgYZg"]
