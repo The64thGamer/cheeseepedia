@@ -2,7 +2,7 @@
 draft = false
 title = "CEC September 1991 Show"
 startDate = "1991-09-10"
-endDate = "1991-00-00"
+endDate = "1991-12-05"
 pageThumbnailFile = "n02eKh04LQEEbI5q3DMs.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "DerekCat", "Cheeseclassic", "Luigigamin212"]
 citations = ["https://www.youtube.com/watch?v=VgsROB6xwb4", "https://youtu.be/YIwEWOMB2LI", "https://youtu.be/ZbSCCVqTd0A"]
