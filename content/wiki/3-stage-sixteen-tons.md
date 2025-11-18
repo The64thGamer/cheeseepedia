@@ -4,7 +4,7 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1996-09-00"
-endDate = "0000-00-00"
+endDate = "1996-09-00"
 contributors = ["The 64th Gamer","Himitsu"]
 citations = ["","https://youtu.be/5mqJMsr_PLU?t=18056",""]
 pageThumbnailFile = "4dVHEXRU7I79wGlWOEGR.avif"
