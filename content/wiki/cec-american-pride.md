@@ -2,7 +2,7 @@
 draft = false
 title = "CEC American Pride"
 startDate = "1991-05-07"
-endDate = "1991-00-00"
+endDate = "1991-07-09"
 pageThumbnailFile = "tl9TK1X2SLt6rwFAsE8I.avif"
 contributors = ["DerekCat", "Anonymous", "The 64th Gamer", "Cy's Junk at School", "Luigigamin212"]
 citations = ["https://youtu.be/9iXXrpz24dw"]
