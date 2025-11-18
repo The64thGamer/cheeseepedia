@@ -2,7 +2,7 @@
 draft = false
 title = "CEC Movie Magic"
 startDate = "1986-12-19"
-endDate = "0000-00-00"
+endDate = "1987-02-00"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://youtu.be/oTcH12jmc0k?si=aVblekXIpz7YW2fX"]
 credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Nancy Lenihan|Voice of Helen Henny", "Joe Conti|Programmer"]
