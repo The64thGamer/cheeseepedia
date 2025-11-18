@@ -3,8 +3,8 @@ title = "CEC TV Classics (Edited)"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1990-00-00"
-endDate = "0000-00-00"
+startDate = "1990-05-00"
+endDate = "1990-06-00"
 contributors = ["DerekCat"]
 citations = []
 +++
