@@ -11,7 +11,7 @@ transcriptions = ["Salute to The Great American Railroad"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 +++
-***Foxy Colleen in Irish Stew* is a Pizza Time Theatre showtape featuring the guest star *Foxy Colleen.** **It was released in August of 1980. 
+***Foxy Colleen in Irish Stew* is a Pizza Time Theatre showtape featuring the guest star *Foxy Colleen.** **It was released in August of 1980.**
 
 ## Segments:
 
