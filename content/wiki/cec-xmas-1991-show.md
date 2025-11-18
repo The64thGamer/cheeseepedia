@@ -2,7 +2,7 @@
 draft = false
 title = "CEC Xmas 1991 Show"
 startDate = "1991-12-06"
-endDate = "0000-00-00"
+endDate = "1991-12-00"
 pageThumbnailFile = "mahDDOAbpUDYEnfAMs13.avif"
 contributors = ["DerekCat", "Montfortdog", "Luigigamin212"]
 citations = []
