@@ -30,7 +30,7 @@ The Cyberamic Shelf Stages, similar to the Kooser Shelf Stage, would be placed a
 
 - {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}
 - {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}
-- {{< wiki-link "Mr Munch (Cyberamic)" >}}
+- {{< wiki-link "Mr. Munch (Cyberamic)" >}}
 - {{< wiki-link "Pasqually (Cyberamic)" >}}
 - {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}
 - {{< wiki-link "Warblettes (Cyberamic)" >}} (Removed last at Ogden's Closure)
@@ -52,7 +52,7 @@ The Cyberamic Shelf Stages, similar to the Kooser Shelf Stage, would be placed a
 | {{< wiki-link "La Habra, CA (901 Harbor Blvd)" >}}              | May 1980                    | December 11th, 1984 |
 | {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}}(6)           | May 17th, 1980              | 1991                |
 | {{< wiki-link "Sunnyvale, CA (1247 W El Camino Real)" >}}       | Summer 1980                 | 1984                |
-| {{< wiki-link "Sun Valley, CA (8357 Laurel Canyon Blvd)" >}}    | July 1980                   | 1981/1982           |
+| {{< wiki-link "Sun Valley, CA (8375 Laurel Canyon Blvd)" >}}    | July 1980                   | 1981/1982           |
 | {{< wiki-link "Fresno, CA (5384 N Blackstone Ave)" >}}          | July/August 1980            | May 1985            |
 | {{< wiki-link "Tucson, AZ (5534 E 22nd St)" >}}                 | July 15th, 1980             | 1987                |
 | {{< wiki-link "Covina, CA (601 Azusa Ave)" >}}                  | August 1980                 | 1981/1982           |

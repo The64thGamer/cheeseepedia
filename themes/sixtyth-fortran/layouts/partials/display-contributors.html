@@ -1,6 +1,6 @@
 <aside data-pagefind-ignore>
   <div class="contributors"><strong>Article Contributed By: </strong>
-  {{- $site := .Site.RegularPages -}}
+    {{- $site := site.RegularPages -}}
       {{- if .Params.contributors -}}
         {{- $len := len .Params.contributors -}}
         {{- range $index, $element := .Params.contributors -}}
@@ -15,10 +15,11 @@
         {{- end -}}
       {{- else -}}
         <strong>Nobody has contributed to this article yet.</strong> Use the "Contribute" button above to make the first edit!
-      {{- end -}}
-      {{ with .GitInfo }}
-        <strong> | Last updated on: </strong>{{ .AuthorDate.Format "Jan. 2, 2006" }}
-      {{ end }}
-    </div>
+    {{- end -}}
+    {{ with .GitInfo }}
+    <br><strong>Last updated on: </strong>{{ .AuthorDate.Format "Jan. 2, 2006" }}
+    {{ end }}
+    <br>Search for: "<a href="https://forum.cheeseepedia.org/search?q={{ .Title | urlquery }}">{{ .Title }}</a>" on the forums!
+  </div>
   <hr>
-  </aside>
+</aside>

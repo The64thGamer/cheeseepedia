@@ -42,6 +42,7 @@ There are more locations than what is known. It is known that one arcade was ins
 | Mall of Georgia                   | {{< wiki-link "Buford, GA (3333 Buford Dr.)" >}}{{< cite 7 >}}                          | Chuck's Arcade                                             | June 27, 2025     | N/A          |
 | Cielo Vista Mall                  | {{< wiki-link "El Paso, TX (8401 Gateway Blvd)" >}}{{< cite 18 >}}                      | Chuck's Arcade                                             | July 3, 2025      | N/A          |
 | Brea Simon Center                 | {{< wiki-link "Brea, CA (1065 Brea Mall)" >}}{{< cite 14 >}}                            | Chuck's Arcade                                             | August 23, 2025   | N/A          |
+| Westgate Cocoa Beach Pier         | {{< wiki-link "Cocoa Beach, FL (401 Meade Avenue)" >}}{{< cite 14 >}}                   | Chuck's Arcade                                             | November 1, 2025  | N/A          |
 
 ## Taxidermy Animatronics
 

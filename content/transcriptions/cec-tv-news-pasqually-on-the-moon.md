@@ -1,5 +1,5 @@
 +++
-title = "CEC TV News Pasqually on the moon "
+title = "CEC TV News Pasqually on the moon"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

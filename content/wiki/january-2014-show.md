@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "January 2014 Show"
+title = "First Quarter 2014 Show"
 startDate = "2014-01-01"
 endDate = "2014-03-31"
 pageThumbnailFile = "zk2IfDQiirivpgODzHvi.avif"

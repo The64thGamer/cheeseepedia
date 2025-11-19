@@ -45,7 +45,7 @@ The shows on the discs are from October 10, 1990 to August 20, 1992, covering fu
 - {{< wiki-link "Working For A Living" >}} (September 14)
 - {{< wiki-link "Birthday Star '92" >}} (September 22)
 
-Notably two shows are missing from the lineup that were released in this period, that being King '90 I (October 1990) and King '90 II (December 1990). It is theorized these shows were recorded prior to the installation of the APS system on the older {{< wiki-link "SongCode Hardware Setup" >}}.
+Notably two shows are missing from the lineup that were released in this period, that being King '90 I (October 1990) and King '90 II (December 1990). It is theorized these shows were recorded prior to the installation of the APS system on the older {{< wiki-link "Big C's Cyberamics Center" >}}.
 
 ## Green Case 91-A
 

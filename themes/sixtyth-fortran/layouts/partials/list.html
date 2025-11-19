@@ -1,0 +1,19 @@
+{{- define "main" -}}
+  {{- $layout := "baseList" -}}
+  {{- if eq .Title "User" -}}
+    {{- $layout = "listUsers" -}}
+  {{- else if eq .Title "Animatronic News" -}}
+    {{- $layout = "listNewsArticles" -}}
+  {{- else if eq .Title "Photos" -}}
+    {{- $layout = "listPhotos" -}}
+  {{- else if eq .Title "Videos" -}}
+    {{- $layout = "listVideos" -}}
+    {{- else if eq .Title "Reviews" -}}
+    {{- $layout = "listReviews" -}}
+  {{- else if eq .Title "Locations" -}}
+    {{- $layout = "listLocations" -}}
+  {{- else if eq .Title "Cancelled Locations" -}}
+    {{- $layout = "listLocations" -}}
+  {{- end -}}
+  {{- partial $layout . -}}
+{{- end -}}

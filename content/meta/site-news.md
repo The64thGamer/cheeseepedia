@@ -20,7 +20,7 @@ On November 17th, Miraheze would lose all files to CEP, moving to a prior backup
 
 The site would continue to see improvements to its layout and functionality through plugins, alongside many more user contributions. The site would reach 1000 articles on July 4th, 2023. In May of 2024 CEP would be mentioned by *The Charlotte Ledger* in an article.
 
-In early September of 2024, plans would be made to move the wiki off of Mediawiki onto a statically generated site. This would allow the site's commit history to be backed up on Github, allow any user to backup and make local copies of the site, and let the design and layout of the site not be confined to Mediawiki's formatting. CEP would fully move over on September 24th, 2024. Many issues would arise with the move, particularly with retention of images in the migration, and issues with aquanting users to making articles through Github and Visual Studio Code.
+In early September of 2024, plans would be made to move the wiki off of Mediawiki onto a statically generated site. This would allow the site's commit history to be backed up on Github, allow any user to backup and make local copies of the site, and let the design and layout of the site not be confined to Mediawiki's formatting. CEP would fully move over on September 24th, 2024. Many issues would arise with the move, particularly with retention of images in the migration, and issues with aquainting users to making articles through Github and Visual Studio Code.
 
 By early December *Decap CMS* would be implemented on the wiki, allowing users a more easily accessible way to edit articles, now only requiring a GitHub account. 2025 would see constant iterations on the site's layout, improvements to Decap, and approval of moderators to accept article commits. Due to many issues with Decap's reliability, it was eventually discovered that a fork called Sveltia-CMS was soon to release that would hopefully alleviate the current problems, though the service was continually delayed for its launch throughout the year.
 
@@ -29,6 +29,8 @@ On April 30th, 2025, after discourse surrounding actions taken by Discord, an al
 On July 22nd, the entire wiki would have its article formats converted from HTML to Markdown to allow much easier editing. A live Markdown editor would also soon be included on Decap.
 
 On September 6th, the entirety of all articles tagged 'Location' would have their text wiped. This was due to a vast majority of the articles being old, outdated, uncited, and not within standards. Parameters for locations would be mass updated for better accuracy, and the articles would begin to be remade one by one.
+
+On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate directly into the site, and be another attempt to get off of Discord. The Discord would have its channels reduced to more bare essentials, while news and wiki discussion were moved entirely to the new forums.
 
 ### Changes Timeline
 
@@ -125,16 +127,20 @@ On September 6th, the entirety of all articles tagged 'Location' would have thei
 - **September 11th-** Loading text now animates, changed 'filenotfound.jpg' to frown design.
 - **October 3rd-** The site accidentally displays 6623 articles instead of the usual 1000+ after photo and video articles change in formatting, allowing them to be counted (in error).
 - **October 11th-** The site hits 100+ transcription pages.
-- **October 12th-** The article count display is fixed, now at 1301. Users previously from Mediawiki who just had an IP address are lumped into 'Anonymous' user.
+- **October 12th-** The article count display is fixed, now at 1301. Users previously from Mediawiki who just had an IP address are lumped into 'Anonymous' user. Users on user pages are colored by total article count.
+- **October 15th-** Cheese-E-Pedia forums are tried once again, this time on Discourse. 'Recent News' section is temporarily removed from homepage.
+- **October 16th-** CEP Discord channels are closed and reduced to the essentials. Wiki-related channels are especially closed to move conversations to the Forums.
+- **October 20th-** Forums recieve groups (roles) users can join or leave, such as Merch Owner, CEC Employee, Animatronic Owners, etc.
+- **October 21st-** Recent News section on homepage is reinstated and connected to the News posts on the Forum.
 
 ### Planned Upcoming Changes
 
-
+- Auto-link to forums searching current article (ASAP) - Planned implementation for a button of some kind on every article that will send users to the forum, auto-filling the search bar with the title of the page to find additional references and content.
 - Photo Gallery Enhancements (ASAP) - Fix the category that shows all photos to split them into pages, alongside properly sorting them by date.
 - Switch from Decap CMS to Sveltia CMS (2026) - Currently the site's editing system, Decap CMS, sucks really bad but is basically the only option for live editing with moderation tools. There is a fork of it called Sveltia CMS that's just a single link replacement to improve many aspects- but the problem is it currently hasn't implemented "Open Authoring", which allows people to automatically push updates to the site for approval. Their timeline says OA will be implemented after release in 2026, so it's just a waiting game for when that is done.
 One major flaw of Decap that will handicap moderation speeds is that image uploads are currently broken. Mods have to track down the file on the user's fork and upload it themselves through GitHub. There are also issues with pages having their live preview displayed.
-- User Page Upgrades (Unknown Time) - User pages need better implementation to allow filling out more info. Implementing profile pictures and bios mainly. User-submitted parts of the wiki need to also be applied, such as reviews. Additionally, icons or badges displayed with the user may be implemented denoting their rank by how many contributions they've done.
-- Embedded Forum / Comments (Unknown Time) - Research into embedding comments and forum posts into the site rather than them being hosted seperately. Could be done with Staticman. Other plans are to revive the CEP forum with Discourse at some point as a way to move off of Discord.
+- User Page Upgrades (Unknown Time) - Plans to connect user pages with equivalent forum accounts, at minimum with just a simple link, or hopefully being able to poll an API for user profile pictures and other statuses.
+
 
 
 ## History of CEC Information Before CEP

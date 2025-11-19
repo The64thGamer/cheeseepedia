@@ -1,0 +1,179 @@
+{{- $currentTitle := .Title -}}
+{{- $tags := .Params.tags | default (slice) -}}
+{{- $paramName := "" -}}
+
+{{- if in $tags "Animatronics" -}}
+  {{- $paramName = "animatronics" -}}
+{{- else if in $tags "Arcades and Attractions" -}}
+  {{- $paramName = "attractions" -}}
+{{- else if in $tags "Stage Variations" -}}
+  {{- $paramName = "stages" -}}
+{{- else if in $tags "Remodels and Initiatives" -}}
+  {{- $paramName = "remodels" -}}
+{{- end -}}
+
+{{- if ne $paramName "" -}}
+  {{- $allPages := partialCached "grab-all-location-articles.html" "key"}}
+  {{/* Build a sortable list of all matching entries */}}
+  {{- $entriesList := slice -}}
+
+  {{- range $allPages -}}
+    {{- $other := . -}}
+    {{- if ne $other.Title $currentTitle -}}
+      {{- $entries := index $other.Params $paramName -}}
+      {{- if $entries -}}
+        {{- range $entries -}}
+          {{- $parts := split . "|" -}}
+          {{- $name := trim (index $parts 0) " " -}}
+
+          {{/* Strict exact-match on the entire name field (no partial matches) */}}
+          {{- if eq $name $currentTitle -}}
+
+            {{/* Extract dates */}}
+            {{- $start := "" -}}
+            {{- if ge (len $parts) 2 -}}{{- $start = index $parts 1 -}}{{- end -}}
+
+            {{/* Split into YYYY MM DD and normalize zeros to 99 */}}
+            {{- $s := $start | default "9999-99-99" -}}
+            {{- $sp := split $s "-" -}}
+            {{- $year := index $sp 0 | default "9999" -}}
+            {{- $month := index $sp 1 | default "99" -}}
+            {{- $day := index $sp 2 | default "99" -}}
+
+            {{- if eq $year "0000" }}{{ $year = "9999" }}{{ end -}}
+            {{- if eq $month "00" }}{{ $month = "99" }}{{ end -}}
+            {{- if eq $day "00" }}{{ $day = "99" }}{{ end -}}
+
+            {{- $sortKey := printf "%04s%02s%02s" $year $month $day -}}
+
+            {{/* Push into sortable list */}}
+            {{- $entriesList = $entriesList | append (dict
+              "page" $other
+              "parts" $parts
+              "sort" $sortKey
+            ) -}}
+
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{/* Sort all collected entries by normalized date */}}
+  {{- $sorted := sort $entriesList "sort" -}}
+
+  <h2>Installations</h2>
+
+  <table class="related-usage-table" aria-label="Related usage table">
+    <thead>
+      <tr>
+        <th>Location</th>
+        <th>{{ if eq $paramName "remodels" }}Installed{{ else }}Operating Dates{{ end }}</th>
+
+        {{- if eq $paramName "stages" -}}
+          <th>Version</th>
+        {{- else if eq $paramName "animatronics" -}}
+          <th>Serial Number</th>
+          <th>Notes</th>
+        {{- else if eq $paramName "remodels" -}}
+          {{/* no additional columns for remodels */}}
+        {{- else -}}
+          <th>Notes</th>
+        {{- end -}}
+
+      </tr>
+    </thead>
+
+    <tbody>
+
+    {{- range $sorted -}}
+      {{- $other := .page -}}
+      {{- $parts := .parts -}}
+
+      <tr>
+
+        <!-- LOCATION -->
+        <td><a href="{{ $other.RelPermalink }}">{{ $other.Title }}</a></td>
+
+        <!-- INSTALLED / OPERATING DATES -->
+        <td>
+          {{- $start := "" -}}
+          {{- $end := "" -}}
+          {{- if ge (len $parts) 2 -}}{{- $start = index $parts 1 -}}{{- end -}}
+          {{- if ge (len $parts) 3 -}}{{- $end = index $parts 2 -}}{{- end -}}
+
+          {{- if eq $paramName "remodels" -}}
+            {{- /* For remodels, only show start date */ -}}
+            {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}
+          {{- else -}}
+            {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}
+          {{- end -}}
+        </td>
+
+        <!-- EXTRA FIELDS -->
+        {{- if eq $paramName "animatronics" -}}
+          <!-- SERIAL NUMBER -->
+          <td>
+            {{- if ge (len $parts) 4 -}}
+              {{- trim (index $parts 3) " " -}}
+            {{- else -}}
+              &nbsp;
+            {{- end -}}
+          </td>
+
+          <!-- NOTES -->
+          <td>
+            {{- $animNotes := slice -}}
+            {{- range $i, $p := $parts -}}
+              {{- if ge $i 4 -}}
+                {{- $animNotes = $animNotes | append (trim $p " ") -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if gt (len $animNotes) 0 -}}
+              {{- delimit $animNotes " | " -}}
+            {{- else -}}
+              &nbsp;
+            {{- end -}}
+          </td>
+
+        {{- else if eq $paramName "stages" -}}
+          <!-- VERSION -->
+          <td>
+            {{- if ge (len $parts) 4 -}}
+              {{- trim (index $parts 3) " " -}}
+            {{- else -}}
+              &nbsp;
+            {{- end -}}
+          </td>
+
+        {{- else if eq $paramName "remodels" -}}
+          {{- /* remodels intentionally have no extra columns (no notes) */ -}}
+        {{- else -}}
+          <!-- NOTES (generic) -->
+          <td>
+            {{- $notesStr := "" -}}
+            {{- range $i, $p := $parts -}}
+              {{- if ge $i 3 -}}
+                {{- $trim := trim $p " " -}}
+                {{- if eq $notesStr "" -}}
+                  {{- $notesStr = $trim -}}
+                {{- else -}}
+                  {{- $notesStr = printf "%s | %s" $notesStr $trim -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+            {{- if ne $notesStr "" -}}
+              {{- $notesStr -}}
+            {{- else -}}
+              &nbsp;
+            {{- end -}}
+          </td>
+        {{- end }}
+
+      </tr>
+    {{- end -}}
+
+    </tbody>
+  </table>
+
+{{- end -}}

@@ -1,10 +1,10 @@
 +++
-title = "Chuck E's Fiesta Mexicana "
+title = "Chuck E's Fiesta Mexicana"
 draft = false
 tags = ["Live Shows"]
-categories = [""]
+categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
+startDate = "1995-12-26"
+endDate = "2001-12-00"
 contributors = []
 +++

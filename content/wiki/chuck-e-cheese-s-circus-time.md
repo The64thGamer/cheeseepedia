@@ -3,13 +3,12 @@ title = "Chuck E. Cheese's Circus Time"
 draft = false
 tags = ["Arcades and Attractions"]
 categories = ["Pizza Time Theatre"]
-
-
-startDate = ""
+startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Anonymous"]
-citations = ["<a href=\"http://www.pinrepair.com/arcade/bimbo.htm\">http://www.pinrepair.com/arcade/bimbo.htm</a>"]
+citations = ["http://www.pinrepair.com/arcade/bimbo.htm"]
 downloadLinks = ["https://static.miraheze.org/decodedocdigitizewiki/d/da/Bimbo.mp3|Original Bimbo 8-Track Audio Tape"]
+pageThumbnailFile = "18879328_1524052007668474_5206356354029060096_n_(1).avif"
 +++
 
 ***Chuck E. Cheese's Circus Time*** was a custom *Chuck E. Cheese* branded version of *The Original Bimbo 3 Ring Circus* machine from *United Billiards.* The cabinet would play a single song once a coin was inserted. During the length of the song, the player could press each of the 4 buttons to control Chuck's limbs to make him dance along with the song. A light would light up Chuck while the song was playing, due to arcades of the day being usually dark. Once the song ended, the cabinet would turn off. Each play would continue to the next song on the 8-track tape inside the cabinet.
@@ -20,11 +19,11 @@ A lot of cabinet variants were produced for the original Bimbo machine, with the
 
 ## Audio Tape
 
-The cabinet would use the length of each song to determine the length of each play of the game. Between each song on the tape, a conductive splice was placed. This would normally be used to change the track in an 8-track player, but the cabinet would use this to shut itself off. (1) The Bimbo cabinet used a tape that was 9 minutes and 35 seconds long, consisting of 8 different songs. While most likely the Chuck variant used a custom tape like the Luigi variant, it is unclear the details on it. The tape's length, songs, dialogue, and voice actor for Chuck is unknown.
+The cabinet would use the length of each song to determine the length of each play of the game. Between each song on the tape, a conductive splice was placed. This would normally be used to change the track in an 8-track player, but the cabinet would use this to shut itself off.{{< cite 1 >}} The Bimbo cabinet used a tape that was 9 minutes and 35 seconds long, consisting of 8 different songs. While most likely the Chuck variant used a custom tape like the Luigi variant, it is unclear the details on it. The tape's length, songs, dialogue, and voice actor for Chuck is unknown.
 
 ## Owners / Locations
 
-| Location / Owner | Address | Condition    | Notes                |
-|------------------|---------|--------------|----------------------|
-| Private Owner    |         | Semi-working | Uses 1978 plush      |
-| Auction House    |         | Working      | Uses alternate plush |
+| Location / Owner | Condition    | Notes                |
+|------------------|--------------|----------------------|
+| Private Owner    | Semi-working | Uses 1978 plush      |
+| Private Owner    | Working      | Uses alternate plush |

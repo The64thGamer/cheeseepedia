@@ -1,5 +1,5 @@
 +++
-title = "River Boat Revue "
+title = "River Boat Revue"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

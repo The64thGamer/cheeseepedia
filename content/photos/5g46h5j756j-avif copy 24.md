@@ -1,7 +1,7 @@
 +++
 title = "ydfghjrtjt.avif"
 startdate = "2025-08-11"
-pages = ["1979 Chuck E. Cheese Halloween Mask"]
+pages = ["1978 Chuck E. Cheese Halloween Mask"]
 tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 +++

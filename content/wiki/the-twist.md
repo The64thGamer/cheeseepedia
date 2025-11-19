@@ -1,12 +1,10 @@
 +++
 title = "The Twist"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = "1997-00-00"
-endDate = "0000-00-00"
+startDate = "1997-08-05"
+endDate = "1997-11-27"
 contributors = ["StudioC","The 64th Gamer"]
 citations = []
 mediaDuration = "4:06"

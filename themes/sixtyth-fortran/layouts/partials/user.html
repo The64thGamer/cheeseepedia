@@ -1,4 +1,4 @@
-{{- partial "editButton-list.html" . -}}
+{{ partial "editButton-list.html" (dict "page" . "hasContent" (ne .Content "")) }}
 {{- partial "display-breadcrumbs.html" . -}}
 <h1 data-pagefind-weight="10">{{- .Title | safeHTML -}}</h1>
 <hr>
@@ -27,8 +27,8 @@
 <h2>I contributed to these pages!</h2>
 <div class="tri-column">
   <ul>
-    {{- $wikiPages := partialCached "grab-all-wiki-articles.html" . -}}
-    {{- $transcriptionPages := where .Site.RegularPages "Section" "transcriptions" -}}
+    {{- $wikiPages := partialCached "grab-all-wiki-articles.html" "key"}}
+    {{- $transcriptionPages := where site.RegularPages "Section" "transcriptions" -}}
     {{- $pages := union $wikiPages $transcriptionPages -}}
     {{- range $pages -}}
       {{- $page := . -}} <!-- Store the current page object in a variable -->

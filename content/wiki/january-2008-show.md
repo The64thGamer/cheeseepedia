@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "January 2008 Show"
-startDate = "2008-01-00"
-endDate = "2008-03-00"
+startDate = "2008-01-01"
+endDate = "2008-03-31"
 pageThumbnailFile = "uk2pvg1a3cbgb3rx2b3j.avif"
 contributors = ["The 64th Gamer", "Anonymous", "Dame", "AstridMascotFan2005", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/January%202008%20Studio%20C-002.ISO"]

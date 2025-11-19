@@ -7,7 +7,7 @@
       </div>
     {{- end -}}
     {{- if or (.Params.startDate) (.Params.endDate) -}}
-    <b>{{- "Release: " -}}</b>{{- partial "display-date-ranges.html" . -}}
+    <b>{{- "Release: " -}}</b>{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}
     {{- end -}}
 
     {{- $currentPageTitle := .Title -}} 

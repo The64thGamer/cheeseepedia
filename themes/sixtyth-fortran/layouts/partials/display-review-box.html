@@ -14,8 +14,8 @@
                 {{- end -}}
             </a>
             <div class="list-review-date">
-                {{- $site := .Site.RegularPages -}}
-                {{- partial "date-to-readable-date.html" .Params.startDate -}}
+                {{- $site := site.RegularPages -}}
+                {{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}
                 {{- if .Params.contributors -}}
                     {{- " - " -}}
                     {{- $len := len .Params.contributors -}}
@@ -35,7 +35,7 @@
                 {{- end -}}
                 {{- if .Params.Page -}}
                     {{- " - " -}}
-                    {{- $articles := where .Site.RegularPages "Title" .Params.Page -}}
+                    {{- $articles := where site.RegularPages "Title" .Params.Page -}}
                     {{- if gt (len $articles) 0 -}}
                         <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a>
                     {{- end -}}

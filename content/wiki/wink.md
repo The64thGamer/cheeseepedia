@@ -4,7 +4,7 @@ title = "Wink"
 startDate = "1990-06-00"
 endDate = ""
 pageThumbnailFile = "90Wink.avif"
-contributors = ["CECBowlingGreen", "Anonymous", "Bullseye123", "Rexburg090", "BurgersNuggs445", "RedaCEC", "Jaxon11", "Anonymous", "Caydenpedia", "SuperCreamPiper2008", "Newbie editor", "CECMentor", "Thecheesymanfromschool", "Stripes", "CyberSnout"]
+contributors = ["CECBowlingGreen", "Anonymous", "Bullseye123", "Rexburg090", "BurgersNuggs445", "RedaCEC", "Jaxon11", "Anonymous", "Caydenpedia", "SuperCreamPiper2008", "Newbie editor", "CECMentor", "Thecheesymanfromschool", "Stripes", "CyberSnout", "randomguyfan22"]
 citations = ["https://archive.org/details/concept-unification-installation-manual/page/1/mode/2up", "https://youtu.be/-pp3KZZ0P10?si=vyWEekXyKZ93Vccy&t=917", "https://www.showbizpizza.com/info/documents/spt/spt_2stage-install.pdf  | Page 3", "https://www.youtube.com/watch?v=Y3RwnSxGcnE", "The 1992 Wink only featured the red and white ribbons. Suggesting the change over was being done by 1992", "https://cheeseepedia.org/photos/northridgepromoposter-avif/", "http://youtube.com/post/UgkxA4ty1YSQRnFYEyGSwq8fqiQyjyznrl9L?si=rgKoS0OA1CBZMrZw", "https://cheeseepedia.org/photos/90wink-avif/", "https://cheeseepedia.org/photos/lansingwink-avif/", "https://archive.org/details/holiday-set-mobile-al-017/Vegas%20Set%20Mobile%20AL-002.jpg", "https://www.flickr.com/photos/146664847@N05/51245117466/", "https://youtu.be/FICERktkHr0?si=1Ip21I2owxzAOoyz&t=168", "https://www.flickr.com/photos/ryanrules/51103910659/", "https://www.youtube.com/watch?v=NkPYlGyBLpw", "Includes data sourced from the Every Location Ever List https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0 ", "https://www.youtube.com/watch?v=NPcdNzIPkqU"]
 manufacturer = "Diversified Designs"
 unitsProduced = "~348"
@@ -12,7 +12,6 @@ dimensions = "1990 Wink ??? 1992 Wink 52\" x 21\" x 5\""
 tags = ["Animatronics"]
 categories = ["Chuck E. Cheese's"]
 +++
-
 **Wink** is an animatronic figure created by Diversified Designs {{< cite 1 >}} for ShowBiz Pizza and Chuck E. Cheese's Pizza locations from 1990 to 1998 as a part of Concept Unification, which turned the Rock-Afire Explosion into the Chuck E. Cheese characters. The Wink is an emblem of Chuck E. colored gold and winks at the end of segments or songs. It is on the valence of center stage. The Wink mechanism used the airline from Antioch from the Rock-afire Explosion{{< cite 2 >}} and was eventually incorporated into the design of multiple Cyberamic stages.{{< cite 3 >}}
 
 ## History
@@ -23,7 +22,7 @@ The Wink debuted with the Concept Unification retrofit in 1990.{{< cite 4 >}} Th
 
 ### 1990 Wink
 
-The first version of the Wink features Chuck E. Cheese’s head in the center (who winks his left eye), the words "In Pizza We Trust" across the top, and two stars on each side. Below his head reads "Chuck E. Cheese". There is also a TM symbol under the "We" portion. This version was manufactured from 1990 to 1992. Afterward, many locations would cover the "In Pizza We Trust" text with white and red striped covers. {{< cite 8 >}}
+The first version of the Wink features Chuck E. Cheese’s head in the center (who winks his left eye), the words "In Pizza We Trust" across the top, and two stars on each side. Below his head reads "Chuck E. Cheese". There is also a TM symbol under the "We" portion. This version was manufactured from 1990 to 1992. Afterward, many locations would cover the "In Pizza We Trust" text with white and red striped covers similar to the 1992 version. {{< cite 8 >}}
 
 ### 1992 Wink
 
@@ -38,24 +37,24 @@ This version was identical to the 3-Stage Wink, except the entire Wink is painte
 The figure features 1 movement in total.
 
 | Movement                         | Bit # |
-|----------------------------------|-------|
+| -------------------------------- | ----- |
 | Wink (Concept Unification Stage) | 49    |
 | Wink (CEC Stages)                | 10    |
 
 ## Stages Used In (Including stage relocation)
 
-- 3-Stage: Installed from 1990-1992; 1996.
-- Road Stage: Installed from 1990-1992; 1994.
-- 2-Stage: Installed from 1992-1997; 2006; 2008; 2009; 2011; 2013.
-- 1-Stage: Installed from 1992-1998; 2006; 2009; 2011; 2012.
-- Cyberamic 3-Stage: Installed in 2000.
-  
+* 3-Stage: Installed from 1990-1992; 1996.
+* Road Stage: Installed from 1990-1992; 1994.
+* 2-Stage: Installed from 1992-1997; 2006; 2008; 2009; 2011; 2013.
+* 1-Stage: Installed from 1992-1998; 2006; 2009; 2011; 2012.
+* Cyberamic 3-Stage: Installed in 2000.
+
   ## Current Wink Animatronics
-  
-  | Location                                                                   | Stage Type | Wink Type                           | Debuted           | Condition / Notes         |
-  |----------------------------------------------------------------------------|------------|-------------------------------------|-------------------|---------------------------|
-  | {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}}       | 3-Stage    | 1990 Wink (In Pizza We Trust)       | Q3 1991           | Functional. Legacy Store. |
-  | {{< wiki-link "Willowdale, Ontario, Canada (2452 Sheppard Ave)" >}}  | 2-Stage    | 1992 Wink                           | 1992-1993         | Functional. Legacy Store. |
-  | {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}                | 2-Stage    | 1992 Wink                           | 1992-1993         | Functional. Legacy Store  |
-  | {{< wiki-link "Toledo, OH (5455 Airport Hwy)" >}}                    | 1-Stage    | 1992 Wink                           | September 6, 1993 | Functional.               |
-  | {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}} | 1-Stage    | 1992 Wink                           | January 24, 1994  | Functional. Legacy Store  |
+
+  | Location                                                             | Stage Type | Wink Type                     | Debuted           | Condition / Notes                                |
+  | -------------------------------------------------------------------- | ---------- | ----------------------------- | ----------------- | ------------------------------------------------ |
+  | {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}}       | 3-Stage    | 1990 Wink (In Pizza We Trust) | Q3 1991           | Functional. Legacy Store. Last 1990 Wink version |
+  | {{< wiki-link "Willowdale, Ontario, Canada (2452 Sheppard Ave)" >}}  | 2-Stage    | 1992 Wink                     | 1992-1993         | Functional. Legacy Store.                        |
+  | {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}                | 2-Stage    | 1992 Wink                     | 1992-1993         | Functional. Legacy Store                         |
+  | {{< wiki-link "Toledo, OH (5455 Airport Hwy)" >}}                    | 1-Stage    | 1992 Wink                     | September 6, 1993 | Functional. Last Non Legacy Store Wink           |
+  | {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}} | 1-Stage    | 1992 Wink                     | January 24, 1994  | Functional. Legacy Store                         |

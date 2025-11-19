@@ -1,14 +1,32 @@
 {{- $currentPageTitle := .Title -}} 
 {{- $photos := partialCached "grab-all-photos.html" "key"}}
+
+{{- $photos = slice -}}
+{{- range partialCached "grab-all-photos.html" "key" -}}
+  {{- $date := .Params.startDate | default "9999-99-99" -}}
+  {{- $parts := split $date "-" -}}
+  {{- $year := index $parts 0 | default "9999" -}}
+  {{- $month := index $parts 1 | default "99" -}}
+  {{- $day := index $parts 2 | default "99" -}}
+
+  {{- $sortKey := printf "%04s%02s%02s" $year $month $day -}}
+
+  {{- $photos = $photos | append (dict "item" . "key" $sortKey) -}}
+{{- end -}}
+
+{{- $photos = sort $photos "key" -}}
+
 {{- $hasGallery := 0 -}}
 {{- $galleryOpen := false -}}
-{{- range sort $photos "Params.startDate" -}}
-  {{- $matches := false -}} 
-  
-  {{- range .Params.pages -}}
-    {{- if eq . $currentPageTitle -}} 
+
+{{- range $photos -}}
+  {{- $photo := .item -}}
+  {{- $matches := false -}}
+
+  {{- range $photo.Params.pages -}}
+    {{- if eq . $currentPageTitle -}}
       {{- $matches = true -}}
-      {{- if eq $hasGallery 0 -}} 
+      {{- if eq $hasGallery 0 -}}
         <div class="gallery">
         {{- $galleryOpen = true -}}
       {{- end -}}
@@ -16,13 +34,13 @@
     {{- end -}}
   {{- end -}}
 
-  {{- if $matches -}} 
+  {{- if $matches -}}
     <div class="gallery-image-box">
-        {{- partial "filename-to-photo.html" .Title -}}
+      {{- partial "filename-to-photo.html" $photo.Title -}}
     </div>
   {{- end -}}
 {{- end -}}
 
-{{- if $galleryOpen -}} 
+{{- if $galleryOpen -}}
 </div>
 {{- end -}}

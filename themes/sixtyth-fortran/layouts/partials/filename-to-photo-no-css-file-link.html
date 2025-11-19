@@ -20,7 +20,7 @@
     <div class="article-photo-description">
       {{- $page.Content -}}
       {{- if $page.Params.startDate -}}
-      {{- " (" -}}{{- partial "date-to-readable-date.html" $page.Params.startDate -}}{{- ")" -}}
+      {{- " (" -}}{{- partial "Readable_Date.html" (dict "date" $page.Params.startDate "presentOnEmpty" false) -}}{{- ")" -}}
       {{- end -}}
     </div>
   {{- else -}}

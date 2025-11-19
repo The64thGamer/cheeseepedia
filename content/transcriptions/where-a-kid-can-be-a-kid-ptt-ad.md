@@ -1,5 +1,5 @@
 +++
-title = "Where a kid can be a kid PTT ad "
+title = "Where a kid can be a kid PTT ad"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

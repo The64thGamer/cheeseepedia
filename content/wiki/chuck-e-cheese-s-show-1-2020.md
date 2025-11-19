@@ -52,19 +52,20 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 
 ## Live Shows:
 
-- Birthday Star Spectacular 2018 (3stage, Cyberamic, Studio C,Weigl)
-- Birthday Star Spectacular Spanish 2018 (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Cha Cha (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Cha Cha (Spanish) (3stage, Cyberamic, Studio C,Weigl)
-- Easy Dance (3stage, Cyberamic, Studio C,Weigl)
-- Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
-- The Roll (3stage, Cyberamic, Studio C,Weigl)
-- Bingo (3stage, Cyberamic, Studio C,Weigl)
+- Birthday Star Spectacular 2018
+- Birthday Star Spectacular Spanish 2018
+- Chuck E. Cha Cha
+- Chuck E. Cha Cha Spanish
+- Easy Dance
+- Me & My Friends
+- Do The Chuck E. (Do The Roll)
+- BINGO 2013
+- Chuck E. Says 2014 (Studio C, Weigl)
 - Happy Dance (Studio C, Weigl)
 - Happy Dance Spanish (Studio C, Weigl)
 - Easy Dance Spanish (Studio C, Weigl)
-- Head Shoulders Knees and Toes (Studio C, Weigl)
-- Happy and You Know It (Studio C, Weigl)
+- Head Shoulders Knees and Toes 2013 (Studio C, Weigl)
+- Happy and You Know It 2014 (Studio C, Weigl)
 
 ## Official Releases
 

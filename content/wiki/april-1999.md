@@ -1,15 +1,15 @@
 +++
-title = "April 1999"
 draft = false
+title = "April 1999"
+startDate = "1999-04-00"
+endDate = "1999-07-00"
+pageThumbnailFile = "S2N4gk8W2iHK1iZo71ZE.avif"
+contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "EagleScout610", "Anonymous", "Bullseye123", "Cheeseclassic"]
+citations = ["https://www.youtube.com/watch?v=VTmxzgjgpmE", "https://www.youtube.com/watch?v=dSz9_hQ3ZJ4"]
+showtapeFormats = ["Studio C 4x Laserdisc + Files", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+downloadLinks = ["https://archive.org/details/april-1999-digital-audio-masters|Official Digital Audio Masters", "https://archive.org/download/3stage_post_93_svhs_signals/April%201999%203-stage-011.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1999-04-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","CyberSnout","BurgersNuggs445","EagleScout610","Anonymous","Bullseye123","Cheeseclassic"]
-citations = ["","https://www.youtube.com/watch?v=VTmxzgjgpmE","https://www.youtube.com/watch?v=dSz9_hQ3ZJ4"]
-pageThumbnailFile = "S2N4gk8W2iHK1iZo71ZE.avif"
-showtapeFormats = ["Studio C 4x Laserdisc + Files","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/details/april-1999-digital-audio-masters|Official Digital Audio Masters","https://archive.org/download/3stage_post_93_svhs_signals/April%201999%203-stage-011.iso|Post '93 3-Stage SVHS w/ Signals"]
 +++
 ***April 1999* (AKA ***Dance Party*) was a showtape that released April 1999 and ran until August 1999.
 This was the last Studio C show to run on Laserdisc.****
@@ -25,7 +25,7 @@ On December 23, 2021, all the unused footage would be uploaded to Brian's YouTub
 
 ### Digital Audio Masters
 
-The showtape's original stereo audio for all the segments and the live show would be preserved onto Digital Audio Tape. On March 4, 2022, Brian Hagan would upload the original DAT recordings to his YouTube channel{{< cite 3 >}}, while providing lossless FLACs of the audio to the community.
+The showtape's original stereo audio for all the segments and the live show would be preserved onto Digital Audio Tape. On March 4, 2022, Brian Hagan would upload the original DAT recordings to his YouTube channel{{< cite 2 >}}, while providing lossless FLACs of the audio to the community.
 
 ## Existing Show List
 

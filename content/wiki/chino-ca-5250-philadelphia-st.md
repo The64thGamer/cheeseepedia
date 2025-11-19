@@ -1,5 +1,5 @@
 +++
-title = "Chino, CA (5250 Philadelphia St) "
+title = "Chino, CA (5250 Philadelphia St)"
 storeNumber = ""
 startDate = "1988-12-30"
 endDate = ""

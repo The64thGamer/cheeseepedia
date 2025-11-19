@@ -1,12 +1,12 @@
 +++
 title = "Birthday Star '95"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 
 
-startDate = "1995-00-00"
-endDate = "0000-00-00"
+startDate = "1995-04-00"
+endDate = "2001-12-00"
 contributors = ["Pasquallytheplumber","The 64th Gamer","Anonymous","Ceclife13","Rileypaulson","RedaCEC","CEC Tinley"]
 citations = []
 mediaDuration = "3:16"

@@ -1,14 +1,15 @@
 +++
-title = "CEC Future"
 draft = false
+title = "CEC Future"
+startDate = "1991-03-14"
+endDate = "1991-05-06"
+pageThumbnailFile = "bOApj0qRJZiVVjQlnRPw.avif"
+contributors = ["DerekCat", "Anonymous", "The 64th Gamer", "CyberSnout", "Luigigamin212"]
+citations = []
+showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+transcriptions = ["March 1991 Segment 1", "March 1991 Segment 2", "March 1991 Segment 3"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1991-03-14"
-endDate = "0000-00-00"
-contributors = ["DerekCat","Anonymous","The 64th Gamer","CyberSnout"]
-citations = []
-pageThumbnailFile = "bOApj0qRJZiVVjQlnRPw.avif"
-showtapeFormats = ["R12 SVHS (Pre-93)","C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 +++
 **Future** is a showtape that played during March 14 - May 6 1991 at Chuck E. Cheese's.
 

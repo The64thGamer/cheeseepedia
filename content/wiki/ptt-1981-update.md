@@ -1,15 +1,15 @@
 +++
 draft = false
-title = "PTT 1981 Update"
+title = "PTT 1981 Exterior Update"
 startDate = "1981-00-00"
 endDate = "1988-00-00"
 pageThumbnailFile = "mTPnP5N6B2eqFFumX3Wt.avif"
-contributors = ["BurgersNuggs445", "Cy's Junk at School", "Cheeseclassic"]
+contributors = ["BurgersNuggs445", "Cy's Junk at School", "Cheeseclassic", "The 64th Gamer"]
 citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-1.pdf"]
 tags = ["Remodels and Initiatives"]
 categories = ["Pizza Time Theatre"]
 +++
-***PTT 1981 Update* was a remodel for Pizza Time Theatre locations. It was released in the summer of 1981.**
+***PTT 1981 Exterior Update*** was a change in exterior design for Pizza Time Theatre locations that were being built, with a few stores being remodeled to take on the new look. It was released in the summer of 1981. The {{< wiki-link "SPT 1980's Remodel Program" >}} would replace it from 1988-1991.
 
 ## History
 

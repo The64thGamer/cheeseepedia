@@ -1,16 +1,16 @@
 +++
-title = "Chuck E. Cheese Northridge Spring Show 2024"
+title = "Chuck E. Cheese Spring Show 2024 Legacy"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2024-04-01"
-endDate = "0000-00-00"
+endDate = "2024-04-28"
 contributors = ["CyberSnout"]
 citations = []
 pageThumbnailFile = "bJtx3flLq1RF0O0A1b25.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
+showtapeFormats = ["Legacy CEC Stage Navori"]
 +++
-***Chuck E. Cheese Spring Show 2024* was a spring show released on April 1, 2024, and was run until April 28. Features 'Together We've Got it' and 'Every Boy, Every Girl'. Chuck E. Strut makes its debut with this show.**
+***Chuck E. Cheese Spring Show 2024*** was a spring show released on April 1, 2024, and was run until April 28. Features 'Together We've Got it' and 'Every Boy, Every Girl'. Chuck E. Strut makes its debut with this show.
 
 ## Show List:
 
@@ -55,6 +55,6 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C
 
 ## Lives:
 
-- Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
-- Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
-- Chuck E. Strut (3-Stage Navori, CEC Stage Navori, Media Navori)
+- Chuck E. Cheese Birthday Extravaganza 2023 (Legacy CEC Stage Navori)
+- Chuck E. Cheese Birthday Extravaganza 2023 Spanish (Legacy CEC Stage Navori)
+- Chuck E. Strut (Legacy CEC Stage Navori)

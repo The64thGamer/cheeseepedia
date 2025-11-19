@@ -1,0 +1,58 @@
++++
+title = "Chuck E. Cheese Halloween Boo-Tacular 2024 Show International"
+startDate = "2024-10-00"
+endDate = "2024-11-00"
+pageThumbnailFile = "l8gAMQ23TqFae4Bb6Iy0.avif"
+contributors = ["CyberSnout"]
+citations = ["Dameaun / CEC Navori Player"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD","Media Navori"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
++++
+Chuck E. Cheese Halloween Boo-Tacular 2024 Show International was the fall show released in October 2024. It would be re-issued in October 2025 and play until November 2025.
+
+## Show List:
+
+1. **Skit 1**
+      1. Chuck E. Cheese – *Pumpkin Patch*
+2. **Intermission 1**
+      1. Boo-Tacular Spot 1 – *Chuck E. and Helen*
+      2. KIDZ BOP – *Halloween Party!*
+      3. KIDZ BOP – *DESPECHÁ*
+3. **Skit 2**
+      1. Jasper T. Jowls – *Howl-O-Ween*
+4. **Intermission 2**
+      1. Boo-Tacular Spot 2 – *Jasper and Munch*
+      2. China Anne McClain – *Calling All the Monsters*
+5. **Skit 3**
+      1. Helen, Bella & Dino – *Witches Crew*
+6. **Intermission 3**
+      1. Boo-Tacular Spot 3 – *Bella and Pasqually*
+      2. KIDZ BOP – *Monster Mash*
+      3. Chuck E. & Friends – *¡A Divertirnos!*
+      4. Musings with Mr. Munch Episode 5 – *Halloween*
+7. **Skit 4**
+      1. Chuck E. Cheese – *Nobody There*
+8. **Intermission 4**
+      1. Blippi – *Halloween Song*
+      2. KIDZ BOP – *Ghostbusters*
+9. **Skit 5**
+      1. Chuck E. & Friends – *It’s Gotta Be Halloween*
+10. **Intermission 5**
+      1. Jonas Blue and Joe Jonas – *I See Love*
+      2. KIDZ BOP – *SÚPER ULTRA MEGA*
+11. **Skit 6**
+      1. Chuck E. & Friends – *Pumpkins in My Pockets*
+
+## Lives
+
+1. Chuck E. Cheese Birthday Extravaganza *(Studio C, Weigl, Media Navori)*
+2. Chuck E. Cheese Birthday Extravaganza Spanish *(Studio C, Weigl, Media Navori)*
+3. Boo-Tastic Dance *(Studio C, Weigl, Media Navori)*
+4. Chuck E. Cha Cha *(Studio C, Weigl)*
+5. The Chuck E. Strut *(Studio C, Weigl)*
+6. Chuck E.'s Spooky Dance *(Studio C, Weigl)*
+7. Werewolf-Zomba-Franken-Conga *(Studio C, Weigl)*
+8. Chuck E.'s Happy Dance *(Studio C, Weigl)*
+9. Haunted House Party *(Studio C, Weigl)*
+10. Me & My Friends (Halloween) *(Studio C, Weigl)*

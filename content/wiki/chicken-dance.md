@@ -1,10 +1,10 @@
 +++
 title = "Chicken Dance"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "2007-00-00"
-endDate = "0000-00-00"
+startDate = "2007-12-01"
+endDate = "2008-11-00"
 contributors = []
 +++

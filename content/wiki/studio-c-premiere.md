@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Studio C Premiere"
-startDate = "1997-12-00"
+startDate = "1997-12-17"
 endDate = "1998-09-00"
 pageThumbnailFile = "InkBt7JwMjGRdjQFD1UA.avif"
 contributors = ["CyberSnout", "Anonymous", "The 64th Gamer"]
@@ -12,8 +12,8 @@ alsoKnownAs = ["Studio C Premiere (Final Ver)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Studio C Premiere* was released in December 1997 and ran until September 1998.
-This show was eventually modified and re-edited for MMBB stores with the {{< wiki-link "May 1998 Show" >}}.**
+***Studio C Premiere*** was released in December 1997 and ran until September 1998.
+This show was eventually modified and re-edited for MMBB stores with the {{< wiki-link "May 1998 Show" >}}.
 
 ## DVCAM Footage
 

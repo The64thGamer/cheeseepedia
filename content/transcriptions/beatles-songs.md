@@ -1,5 +1,5 @@
 +++
-title = "Beatles Songs "
+title = "Beatles Songs"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

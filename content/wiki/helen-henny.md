@@ -17,7 +17,7 @@ citations = []
 
 ### Pizza Time Theatre
 
-Initially, Helen was a guest star. She had long hair and played the guitar. Not much is known about the original version of the character, as we do not have access to her showtapes. It is possible she was similar to her second appearance, {{< wiki-link "Cabaret Helen Henny" >}}, who portrayed herself as a famous musician despite not being popular whatsoever.
+Initially, Helen was a guest star. She had long hair and played the guitar. Not much is known about the original version of the character, as we do not have access to her showtapes. It is possible she was similar to her second appearance, {{< wiki-link "Helen Henny (Lounge)" >}}, who portrayed herself as a famous musician despite not being popular whatsoever.
 
 #### Broadway
 

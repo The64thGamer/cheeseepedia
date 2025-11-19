@@ -1,17 +1,16 @@
 +++
-title = "CEC Jan '91"
 draft = false
+title = "CEC Jan '91"
+startDate = "1991-01-00"
+endDate = "1991-03-13"
+pageThumbnailFile = "p2W8qDF25CjN7xR8wUdv.avif"
+contributors = ["DerekCat", "The 64th Gamer", "Montfortdog", "Luigigamin212"]
+citations = []
+showtapeFormats = ["C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+transcriptions = ["January 1991 Segment 1", "January 1991 Segment 2", "January 1991 Segment 3"]
+alsoKnownAs = ["140-1210-90(C) S.P.T., Inc.CEC JAN 91 / WAVE BDAYSerial #0054 Deck - 912/10/90 - Master CYBERSTAR"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = "1990-12-10"
-endDate = "0000-00-00"
-contributors = ["DerekCat","The 64th Gamer","Montfortdog"]
-citations = []
-pageThumbnailFile = "p2W8qDF25CjN7xR8wUdv.avif"
-showtapeFormats = ["C&R SVHS (Pre-93)","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
-alsoKnownAs = ["140-1210-90(C) S.P.T., Inc.CEC JAN 91 / WAVE BDAYSerial #0054 Deck - 912/10/90 - Master CYBERSTAR"]
 +++
 
 ***January 1991 Show*** also known as ***Friends*** was released to all Chuck E. Cheese's locations in the beginnning of 1991. It was Nancy Lenehan's final show as Helen Henny, along being the final showtape to feature any music videos until they reintroduce them beliefly in {{< wiki-link "Holiday Special 1992" >}} to {{< wiki-link "Spring Training" >}}.

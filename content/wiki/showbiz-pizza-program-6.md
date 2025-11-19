@@ -2,7 +2,7 @@
 title = "ShowBiz Pizza Program 6"
 draft = false
 tags = ["ShowBiz Pizza Programs"]
-categories = [""]
+categories = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

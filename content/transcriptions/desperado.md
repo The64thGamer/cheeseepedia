@@ -1,5 +1,5 @@
 +++
-title = "Desperado "
+title = "Desperado"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

@@ -58,7 +58,7 @@ categories = ["Chuck E. Cheese's"]
 5. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 ## Fireables 12/09 Update:
-1. Munch’s Make Believe Band - ‘Share The Joy’ (2014) (Legacy Navori) 
+1. Munch’s Make Believe Band - ‘Share The Joy’ (2016) (Legacy Navori) 
 2. Chuck E. & Helen - ‘Merry Christmatime’ (Legacy Navori) 
 3. Chuck E. & Friends - ‘Holiday Medley’ (Legacy Navori)  
 4. Chuck E. & Friends - ‘Cookies For Santa’ (Legacy Navori) 
@@ -110,7 +110,7 @@ categories = ["Chuck E. Cheese's"]
 5. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 ## Fireables 12/03 Update:
-1. Munch’s Make Believe Band - ‘Share The Joy’ (2014) (Legacy Navori) 
+1. Munch’s Make Believe Band - ‘Share The Joy’ (2016) (Legacy Navori) 
 2. Chuck E. & Helen - ‘Merry Christmatime’ (Legacy Navori) 
 3. Chuck E. & Friends - ‘Holiday Medley’ (Legacy Navori)  
 4. Chuck E. & Friends - ‘Cookies For Santa’ (Legacy Navori) 
@@ -164,7 +164,7 @@ categories = ["Chuck E. Cheese's"]
 5. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 ## Fireables 12/02 Update:
-1. Munch’s Make Believe Band - ‘Share The Joy’ (2014) (Legacy Navori) 
+1. Munch’s Make Believe Band - ‘Share The Joy’ (2016) (Legacy Navori) 
 2. Chuck E. & Helen - ‘Merry Christmatime’ (Legacy Navori) 
 3. Chuck E. & Friends - ‘Holiday Medley’ (Legacy Navori)  
 4. Chuck E. & Friends - ‘Cookies For Santa’ (Legacy Navori) 
@@ -216,7 +216,7 @@ categories = ["Chuck E. Cheese's"]
 5. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 ## Fireables 11/20 Update:
-1. Munch’s Make Believe Band - ‘Share The Joy’ (2014) (Legacy Navori) 
+1. Munch’s Make Believe Band - ‘Share The Joy’ (2016) (Legacy Navori) 
 2. Chuck E. & Helen - ‘Merry Christmatime’ (Legacy Navori) 
 3. Chuck E. & Friends - ‘Holiday Medley’ (Legacy Navori)  
 4. Chuck E. & Friends - ‘Cookies For Santa’ (Legacy Navori) 
@@ -314,7 +314,7 @@ categories = ["Chuck E. Cheese's"]
 5. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 ## Fireables 11/05 Update:
-1. Munch’s Make Believe Band - ‘Share The Joy’ (2014) (Legacy Navori) 
+1. Munch’s Make Believe Band - ‘Share The Joy’ (2016) (Legacy Navori) 
 2. Chuck E. & Helen - ‘Merry Christmatime’ (Legacy Navori) 
 3. Chuck E. & Friends - ‘Holiday Medley’ (Legacy Navori)  
 4. Chuck E. & Friends - ‘Cookies For Santa’ (Legacy Navori) 
@@ -364,7 +364,7 @@ categories = ["Chuck E. Cheese's"]
 5. Chuck E. Bop (Media Navori, Cyberamic Navori)
 
 ## Fireables:
-1. Munch’s Make Believe Band - ‘Share The Joy’ (2014) (Legacy Navori) 
+1. Munch’s Make Believe Band - ‘Share The Joy’ (2016) (Legacy Navori) 
 2. Chuck E. & Helen - ‘Merry Christmatime’ (Legacy Navori) 
 3. Chuck E. & Friends - ‘Holiday Medley’ (Legacy Navori)  
 4. Chuck E. & Friends - ‘Cookies For Santa’ (Legacy Navori) 

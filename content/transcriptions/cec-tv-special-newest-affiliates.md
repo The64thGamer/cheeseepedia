@@ -1,5 +1,5 @@
 +++
-title = "CEC TV Special Newest Affiliates "
+title = "CEC TV Special Newest Affiliates"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

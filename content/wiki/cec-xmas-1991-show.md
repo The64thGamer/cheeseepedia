@@ -1,14 +1,15 @@
 +++
-title = "CEC Xmas 1991 Show"
 draft = false
+title = "CEC Xmas 1991 Show"
+startDate = "1991-12-06"
+endDate = "1991-12-00"
+pageThumbnailFile = "mahDDOAbpUDYEnfAMs13.avif"
+contributors = ["DerekCat", "Montfortdog", "Luigigamin212"]
+citations = []
+showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)"]
+transcriptions = ["December 1991 Segment 1", "December 1991 Segment 2", "December 1991 Segment 3"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1991-12-06"
-endDate = "0000-00-00"
-contributors = ["DerekCat","Montfortdog"]
-citations = []
-pageThumbnailFile = "mahDDOAbpUDYEnfAMs13.avif"
-showtapeFormats = ["3-Stage SVHS (Pre-93)","C&R SVHS (Pre-93)","R12 SVHS (Pre-93)"]
 +++
 **Xmas 1991 Show** is a Christmas showtape that played all December at Chuck E. Cheese's. This show is notable for being the first Munch's Make Believe Band Christmas showtape.
 
