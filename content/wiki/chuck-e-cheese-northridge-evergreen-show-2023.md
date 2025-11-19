@@ -1,17 +1,17 @@
 +++
-title = "Chuck E. Cheese Northridge Evergreen Show 2023"
+title = "Chuck E. Cheese Evergreen Show 2023 Legacy"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-11-11"
-endDate = "0000-00-00"
+endDate = "2023-11-26"
 contributors = ["CyberSnout"]
 citations = []
 pageThumbnailFile = "Wcjx9q09Fkejqa_pg0Dn.avif"
-showtapeFormats = ["Cyberamics Networking Module Files"]
+showtapeFormats = ["Legacy Cyberamic Navori"]
 +++
-***Chuck E. Cheese Northridge Evergreen Show 2023* is the generic show released on November 11, 2023 - November 26, 2023 featuring two songs from 2017.
-This was created as a unique showtape to only be played at Northridge to preserve the animatronics. This show features 2 Songs with the standard live being Me & My Friends.**
+***Chuck E. Cheese Evergreen Show 2023 Legacy*** is the generic show released on November 11, 2023 - November 26, 2023 featuring two songs from 2017.
+This was created as a unique showtape to only be played at Northridge to preserve the animatronics. This show features 2 Songs with the standard live being Me & My Friends.
 
 ## Show List:
 
@@ -48,12 +48,10 @@ This was created as a unique showtape to only be played at Northridge to preserv
 
 ## Lives:
 
-- Birthday Show (Navori)
-- Birthday Show (Spanish) (Navori)
-- Me & My Friends (Navori)
-- CEC Stage Diagnostic (Navori)
+- Birthday Star Extravaganza 2023 (Legacy Cyberamic Navori)
+- Birthday Star Extravaganza 2023 (Spanish) (Legacy Cyberamic Navori)
+- Me & My Friends (Legacy Cyberamic Navori)
 
 ## Trivia:
 
-'It's the 70s' & 'Every Boy, Every Girl' are both originally from {{< wiki-link "Chuck E. Cheese's Show 5 2017" >}}.
-Despite being the main attraction of Northridge the animatronics only preform two songs per show rotation.
+1. 'It's the 70s' & 'Every Boy, Every Girl' are both originally from {{< wiki-link "Chuck E. Cheese's Show 5 2017" >}}.
