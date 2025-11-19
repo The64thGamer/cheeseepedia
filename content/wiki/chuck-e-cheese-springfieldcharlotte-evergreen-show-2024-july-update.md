@@ -1,16 +1,16 @@
 +++
 draft = false
-title = "Chuck E. Cheese Springfield/Charlotte Evergreen Show 2024 (July Update)"
+title = "Chuck E. Cheese Evergreen Show 2024 (July Update) 3-Stage Legacy"
 startDate = "2024-07-29"
 endDate = "2024-09-29"
 pageThumbnailFile = "qOY3HuNWzWpH1_Gniu4i.avif"
 contributors = ["CyberSnout", "AstridMascotFan2005", "Dame0824", "Cheeseclassic"]
 citations = ["CEC Navori Player"]
-showtapeFormats = ["3-Stage Networking Module Files"]
+showtapeFormats = ["Legacy 3-Stage Navori"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Chuck E. Cheese Evergreen 2024 (July Update)* is the generic show released on July 29, 2024. It features a variety of songs released from 2014 to 2023. This show features 11 songs.**
+***Chuck E. Cheese Evergreen 2024 (July Update)*** is the generic show released on July 29, 2024. It features a variety of songs released from 2014 to 2023. This show features 11 songs.
 
 ## Show List
 
