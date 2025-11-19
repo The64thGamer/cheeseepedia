@@ -53,7 +53,7 @@ The Pizza Times notes that PTT was featured on the PBS TV show "Ben Wattenberg's
 ### Commercials
 In 1979 Pizza Time Theatre would do an ad campaign called the 'Great All-American Pizza Show'. This included the {{< wiki-link "The Great All-American Pizza Show! (Radio Ad)" >}}, which has been found, but also the {{< wiki-link "The Great All-American Pizza Show! (Commercial)" >}}, which has only had storyboards surface.
 
-The {{< wiki-link "Pizza Time Theatre 1979 Spot (Commercial)" >}} also premiered that year with lost footage of the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} and {{< wiki-link "Citrus Heights, CA (7614 Greenback Lane)" >}} locations.
+The {{< wiki-link "Pizza Time Theatre 1980 Spot (Commercial)" >}} also premiered the next year with lost footage of the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} and {{< wiki-link "Citrus Heights, CA (7614 Greenback Lane)" >}} locations.
 
 Finally, the {{< wiki-link "Pizza Time Theatre 1979 Animated Spot (Commercial)" >}} would have scans of its animation cels leaked online in August of 2022, featuring Chuck E. Cheese, Pasqually, and a kid. It is currently unknown if this commercial is also the prior spot filmed at Concord and Citrus Heights.
 
