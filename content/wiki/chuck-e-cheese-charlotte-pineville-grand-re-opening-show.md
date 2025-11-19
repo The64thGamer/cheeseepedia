@@ -56,12 +56,11 @@ This show features no intermissions and would play six segments on repeat from a
 
 ## Lives
 
-- Birthday Show (Navori)
-- Birthday Show (Spanish) (Navori)
-- Me & My Friends (Navori)
-- Chuck E. Bop (Navori)
-- Beach Party Bash (Navori)
-- 3-Stage Stage Diagnostic (Navori)
+- Birthday Star Extravaganza 2023 (Legacy 3-Stage Navori)
+- Birthday Star Extravaganza 2023 (Spanish) (Legacy 3-Stage Navori)
+- Me & My Friends (Legacy 3-Stage Navori)
+- Chuck E. Bop (Legacy 3-Stage Navori)
+- Beach Party Bash (Legacy 3-Stage Navori)
 
 ## Trivia
 - The countdown would start reading 'Show Starts In' with a 10-minute countdown. Once finished playing, Together We've Got It 2017 would play.
