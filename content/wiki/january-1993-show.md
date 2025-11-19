@@ -2,11 +2,12 @@
 draft = false
 title = "January 1993 Show"
 startDate = "1993-01-00"
-endDate = "1993-02-00"
+endDate = "0000-00-00"
 pageThumbnailFile = "mEDyhFjb4EiIweTCisbB.avif"
-contributors = ["DerekCat"]
+contributors = ["DerekCat", "Luigigamin212"]
 citations = []
 showtapeFormats = ["C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+transcriptions = ["CEC TV News Safety"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
