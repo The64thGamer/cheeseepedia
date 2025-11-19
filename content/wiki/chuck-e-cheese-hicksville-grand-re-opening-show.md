@@ -4,14 +4,14 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2024-07-19"
-endDate = "0000-00-00"
+endDate = "2024-07-19"
 contributors = ["CyberSnout","Dame0824"]
 citations = []
-pageThumbnailFile = "q1yfg97qrXivirzensS6.avif"
+pageThumbnailFile = "LegacyGrandOpening.avif"
 showtapeFormats = ["Cyberamics Networking Module Files"]
 +++
-***Chuck E. Cheese Hicksville Grand Re-Opening Show* is the showtape released on July 19, 2024, to play exclusively for Hicksville Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
-This show features no intermissions and would play six segments on repeat from around 5:00-7:00pm CT. After the event it would play Northridge's Summer Show part 2 from 7:00pm-closing.**
+***Chuck E. Cheese Hicksville Grand Re-Opening Show*** was released on July 19, 2024, to play exclusively for Hicksville Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
+This show features no intermissions and would play six segments on repeat from around 5:00-7:00pm CT. After the event it would play {{< wiki-link "Chuck E. Cheese Summer Show 2024 Part 2 CEC Stage Legacy" >}} from 7:00pm-closing.
 
 ## Show List
 
@@ -66,5 +66,5 @@ This show features no intermissions and would play six segments on repeat from a
 
 ## Trivia
 
-- This show is nearly identical to {{< wiki-link "Chuck E. Cheese Northridge Grand Re-Opening Show" >}} but with Segment 1 relocated to after Segment 4
+- This show is nearly identical to {{< wiki-link "Chuck E. Cheese Northridge Grand Re-Opening Show" >}} but with Segment 1 relocated to after Segment 4.
 - The countdown would start reading 'Show Starts In' with a 10 minute countdown. Once finished playing, Together We've Got It 2017 would play.

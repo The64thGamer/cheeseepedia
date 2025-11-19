@@ -4,14 +4,14 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-11-10"
-endDate = "0000-00-00"
+endDate = "2023-11-10"
 contributors = ["CyberSnout","The 64th Gamer","CyCGM","Dame0824","Ceclife13"]
 citations = []
-pageThumbnailFile = "q1yfg97qrXivirzensS6.avif"
-showtapeFormats = ["Cyberamics Networking Module Files"]
+pageThumbnailFile = "LegacyGrandOpening.avif"
+showtapeFormats = ["Legacy Cyberamic Navori"]
 +++
-***Chuck E. Cheese Northridge Grand Re-Opening Show* is the showtape released on November 10, 2023, to play exclusively for {{< wiki-link "2023 Northridge Grand Reopening Party" >}} event. The show features a variety of songs released from 2014-2023.
-This show features no intermissions and would play six segments on repeat from around 5:30 - Closing.**
+***Chuck E. Cheese Northridge Grand Re-Opening Show*** was released on November 10, 2023, to play exclusively for {{< wiki-link "2023 Northridge Grand Reopening Party" >}} event. The show features a variety of songs released from 2014-2023.
+This show features no intermissions and would play six segments on repeat from around 5:30 - Closing.
 
 ## Show List
 
@@ -54,13 +54,11 @@ This show features no intermissions and would play six segments on repeat from a
 
 ## Lives
 
-- Birthday Show (Navori)
-- Birthday Show (Spanish) (Navori)
-- Me & My Friends (Navori)
-- CEC Stage Diagnostic (Navori)
+- Birthday Show (Legacy Cyberamic Navori)
+- Birthday Show (Spanish) (Legacy Cyberamic Navori)
+- Me & My Friends (Legacy Cyberamic Navori)
 
 ## Trivia
 
 - This would be the first showtape to have curtains officially programmed since the {{< wiki-link "September 2005 Show" >}}.
-- At 7:50pm a countdown would start reading 'Show Starts In' with a 10 minute countdown. Once finished playing, Together We've Got It 2017 would play.
-- According to Logan Carreiro (Chief Animatronics Officer), before the event officially began, Segment 1 from the {{< wiki-link "SPP Concept Unification Premiere" >}} played on the stage. This is most likely false as this would require custom programming to make work.
+- At 7:50pm a countdown started reading 'Show Starts In' with a 10 minute countdown. Once finished playing, Together We've Got It 2017 would play.

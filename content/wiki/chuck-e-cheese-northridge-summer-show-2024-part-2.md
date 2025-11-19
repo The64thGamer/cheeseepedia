@@ -1,16 +1,16 @@
 +++
-title = "Chuck E. Cheese Northridge Summer Show 2024 Part 2"
+title = "Chuck E. Cheese Summer Show 2024 Part 2 CEC Stage Legacy"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2024-07-08"
-endDate = "0000-00-00"
+endDate = "2024-07-28"
 contributors = ["CyberSnout","Dame0824","AstridMascotFan2005"]
 citations = []
 pageThumbnailFile = "VObER90Kgs1fjupJvysM.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
+showtapeFormats = ["Legacy CEC Stage Navori"]
 +++
-***Chuck E. Cheese Legacy Summer Show 2024 Part 2* was an another summer show released on July 8, 2024 and was exclusively played in Northridge until July 28, 2024. It features a variety of songs released from 2017-2023. The show features "Together We've Got It" & "I Love Sparkles" as the only programmed songs in the playlist. This playlist also plays at Hicksville after their Grand Reopening on July 19th.**
+***Chuck E. Cheese Summer Show 2024 Part 2 CEC Stage Legacy*** was an another summer show released on July 8, 2024 and was exclusively played on Northridge, CA and Hicksville, NY until July 28, 2024. It features a variety of songs released from 2017-2023. The show features "Together We've Got It" & "I Love Sparkles" as the only programmed songs in the playlist. This show also played at Hicksville after their Grand Reopening on July 19th.
 
 ## Show List:
 
@@ -53,11 +53,11 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C
 
 ## Lives:
 
-- Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
-- Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
-- {{< wiki-link "Me & My Friends (New Countdown)" >}} (3-Stage Navori, CEC Stage Navori, Media Navori)
-- Beach Party Bash (3-Stage Navori, CEC Stage Navori, Media Navori)
-- Chuck E. Bop (3-Stage Navori, CEC Stage Navori, Media Navori)
+- Chuck E. Cheese Birthday Extravaganza (Legacy CEC Stage Navori)
+- Chuck E. Cheese Birthday Extravaganza Spanish (Legacy CEC Stage Navori)
+- Me & My Friends (Legacy CEC Stage Navori)
+- Beach Party Bash (Legacy CEC Stage Navori)
+- Chuck E. Bop (Legacy CEC Stage Navori)
 
 ## Trivia
 
