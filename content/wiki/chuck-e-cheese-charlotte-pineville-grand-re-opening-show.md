@@ -3,14 +3,14 @@ title = "Chuck E. Cheese Charlotte (Pineville) Grand Re-Opening Show"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2024-07-19"
-endDate = "0000-00-00"
+startDate = "2024-07-26"
+endDate = "2024-07-26"
 contributors = ["CyberSnout","Dame0824"]
 citations = []
-pageThumbnailFile = "q1yfg97qrXivirzensS6.avif"
+pageThumbnailFile = "LegacyGrandOpening.avif"
 +++
-***Chuck E. Cheese Pineville Grand Re-Opening Show* is the showtape released on July 19, 2024, to play exclusively for Pineville Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
-This show features no intermissions and would play six segments on repeat from around 5:00pm-Closing .**
+***Chuck E. Cheese Pineville Grand Re-Opening Show*** is the showtape released on July 26, 2024, to play exclusively for Pinevilles Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
+This show features no intermissions and would play six segments on repeat from around 5:00pm-7:00pm. After 7:00 {{< wiki-link "Chuck E. Cheese Evergreen Show 2024 (July Update) 3-Stage Legacy" >}} would begin playing.
 
 ## Show List
 
@@ -64,6 +64,4 @@ This show features no intermissions and would play six segments on repeat from a
 - 3-Stage Stage Diagnostic (Navori)
 
 ## Trivia
-
-- This show is identical to {{< wiki-link "Chuck E. Cheese Northridge Grand Re-Opening Show" >}} with changes done in{{< wiki-link "Chuck E. Cheese Hicksville Grand Re-Opening Show" >}} reverted back to the original copy used in Northridge for the final two legacy grand re-openings.
 - The countdown would start reading 'Show Starts In' with a 10-minute countdown. Once finished playing, Together We've Got It 2017 would play.
