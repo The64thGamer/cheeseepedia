@@ -1,5 +1,5 @@
 +++
-title = "Chuck E. Cheese Northridge/Hicksville Evergreen Show 2024 (July Update)"
+title = "Chuck E. Cheese Evergreen Show 2024 (July Update) Legacy CEC Stage"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -8,10 +8,9 @@ endDate = "0000-00-00"
 contributors = ["AstridMascotFan2005","CyberSnout","Dame0824"]
 citations = []
 pageThumbnailFile = "qOY3HuNWzWpH1_Gniu4i.avif"
-showtapeFormats = ["Cyberamics Networking Module Files"]
+showtapeFormats = ["Legacy Cyberamic Navori"]
 +++
-***Chuck E. Cheese Evergreen 2024 (July Update)*
-**Chuck E. Cheese Evergreen 2024 (July Update)** is the generic show released on July 29, 2024. It features 'Every Boy, Every Girl' and 'Most Perfect Day'.**
+**Chuck E. Cheese Evergreen 2024 (July Update)*** is the generic show released on July 29, 2024. It features 'Every Boy, Every Girl' and 'Most Perfect Day'.
 
 ## Show List
 
@@ -56,7 +55,7 @@ showtapeFormats = ["Cyberamics Networking Module Files"]
 
 ## Lives:
 
-- Chuck E. Cheese Birthday Extravaganza (CEC Stage Navori, Media Navori)
-- Chuck E. Cheese Birthday Extravaganza Spanish (CEC Stage Navori, Media Navori)
-- {{< wiki-link "Me & My Friends (New Countdown)" >}} (CEC Stage Navori, Media Navori)
-- Chuck E. Bop (CEC Stage Navori, Media Navori)
+- Chuck E. Cheese Birthday Extravaganza (Legacy Cyberamic Navori)
+- Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Cyberamic Navori)
+- Me & My Friends (Legacy Cyberamic Navori)
+- Chuck E. Bop (Legacy Cyberamic Navori)
