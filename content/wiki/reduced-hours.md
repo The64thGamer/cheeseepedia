@@ -4,7 +4,7 @@ title = "Low Volume Store Initiative"
 startDate = "2024-04-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
-citations = ["Employee Correspondance","https://www.reddit.com/r/chuckecheese/comments/1jif0e3/comment/mjnzlhf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button","https://youtu.be/JwVSL0_MOcA"]
+citations = ["Employee Correspondance","https://www.reddit.com/r/chuckecheese/comments/1jif0e3/comment/mjnzlhf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button","https://youtu.be/JwVSL0_MOcA","https://youtu.be/OX_VCvMBDek"]
 tags = ["Remodels and Initiatives"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "54zrb9pvrbsfwqb5.avif"
@@ -24,6 +24,7 @@ Stores would begin recieving instructions from corporate to reduce hours and cut
 | {{< wiki-link "Spartanburg, SC (660 Spartan Blvd Suite 250)" >}}  | Reduced store hours.{{< cite 1 >}}                         | 2023         | ???                        |
 | {{< wiki-link "Bellevue, WA (2239 148th Ave)" >}}                 | Reduced store hours.{{< cite 1 >}}                         | 2024         | Closed April 27th, 2025    |
 | {{< wiki-link "Spokane, WA (10007 N Nevada St)" >}}               | Reduced store hours.{{< cite 3 >}}                         | ???          | ???                        |
+| {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}}           | No salad bar.{{< cite 4 >}}                         | ???          | ???                        |
 
 
 
