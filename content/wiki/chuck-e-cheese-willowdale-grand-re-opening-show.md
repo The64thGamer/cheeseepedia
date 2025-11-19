@@ -2,14 +2,15 @@
 title = "Chuck E. Cheese Willowdale Grand Re-Opening Show"
 startDate = "2025-07-24"
 endDate = "2025-07-24"
-pageThumbnailFile = "q1yfg97qrXivirzensS6.avif"
+pageThumbnailFile = "LegacyGrandOpening.avif"
 contributors = ["CyberSnout"]
 citations = ["CEC Media Player"]
 showtapeFormats = ["Legacy Navori"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Chuck E. Cheese Willowdale Grand Re-Opening Show*** **was the showtape released on July 24, 2024, to play exclusively for Willowdale's Grand Re-Opening event. The show features a variety of songs released from 2014-2023. This would play starting at 5 pm, once finished, it would begin playing Legacy Summer Show 2025.**
+***Chuck E. Cheese Willowdale Grand Re-Opening Show*** was released on July 24, 2024, to play exclusively for Willowdale's Grand Re-Opening event. The show features a variety of songs released from 2014-2023. 
+This would play starting at 5:00pm, once finished, it would begin playing {{< wiki-link "Chuck E. Cheese Legacy Summer Show 2025" >}}.
 
 ## Show List
 
@@ -54,11 +55,10 @@ categories = ["Chuck E. Cheese's"]
     5.  Chuck E. & Friends - "I Love Sparkles"
 
 ## Lives
-- Chuck E. Cheese Birthday Extravaganza (3-Stage Legacy Navori)
-- Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Legacy Navori)
-- Me & My Friends (3-Stage Legacy Navori)
-- Beach Party Bash (3-Stage Legacy Navori)
+- Chuck E. Cheese Birthday Extravaganza 2023 (Legacy Navori)
+- Chuck E. Cheese Birthday Extravaganza 2023 (Spanish) (egacy Navori)
+- Me & My Friends (Legacy Navori)
+- Beach Party Bash (Legacy Navori)
 
 ## Trivia
-- This show is identical to the 2024 Legacy Grand Re-Opening Shows
 - The countdown would start reading 'Show Starts In' with a 10 minute countdown. Once finished playing, Together We've Got It 2017 would play.

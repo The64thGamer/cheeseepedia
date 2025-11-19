@@ -1,14 +1,14 @@
 +++
-title = "Chuck E. Cheese Northridge Summer Show 2024"
+title = "Chuck E. Cheese Summer Show 2024 Legacy"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2024-04-29"
-endDate = "0000-00-00"
+endDate = "2024-07-07"
 contributors = ["CyberSnout","AstridMascotFan2005"]
 citations = []
 pageThumbnailFile = "e88yJV1E44_4lC1F8T1x.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
+showtapeFormats = ["Legacy Cyberamic Navori"]
 +++
 ***Chuck E. Cheese Summer Show 2024* was a summer show released on April 29, 2024, and ran until July 7th. It features 'I Love Sparkles' and 'Together We've Got It'**
 
@@ -54,7 +54,7 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C
 
 ## Lives:
 
-- Chuck E. Cheese Birthday Extravaganza (3-Stage Navori, CEC Stage Navori, Media Navori)
-- Chuck E. Cheese Birthday Extravaganza Spanish (3-Stage Navori, CEC Stage Navori, Media Navori)
-- Yuletide Slide|Chuck E. Strut (3-Stage Navori, CEC Stage Navori, Media Navori)
-- CEC Stage Diagnostic (CEC Stage Navori)
+- Chuck E. Cheese Birthday Extravaganza 2023 (Legacy Cyberamic Navori)
+- Chuck E. Cheese Birthday Extravaganza 2023 Spanish (Legacy Cyberamic Navori)
+- Yuletide Slide (Legacy Cyberamic Navori)
+- Chuck E. Strut (Legacy Cyberamic Navori)
