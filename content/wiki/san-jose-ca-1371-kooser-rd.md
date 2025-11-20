@@ -1,22 +1,22 @@
 +++
+cuDate = ""
+draft = false
 title = "San Jose, CA (1371 Kooser Rd)"
-storeNumber = ""
 startDate = "1978-12-02"
 endDate = "2020-06-25"
-cuDate = ""
-remodels = ["PTT Standard Layout|1978-12-02","PTT Early Cyberamic Replacements|1983-00-00"]
-stages = []
-franchisees = []
-attractions = []
-sqft = "19,000"
-latitudeLongitude = ["37.24507007", "-121.8898435"]
-citations = ["http://csjpbce.sanjoseca.gov/ecmsviewer/148/836/3836148.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/474/391/3391474.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf", "https://en.wikipedia.org/wiki/Steamboat", "http://csjpbce.sanjoseca.gov/ecmsviewer/210/393/3393210.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/028/404/3404028.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/275/979/7979275.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/258/960/7960258.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/762/001/45001762.pdf", "https://www.nbcbayarea.com/news/local/making-it-in-the-bay/affordable-housing-proposed-for-former-chuck-e-cheese-site-in-san-jose-report/2479008/","https://archive.org/details/popularelectroni16unse_1/page/110/mode/2up?q=%22pizza+time+theatre%22"]
-contributors = []
-downloadLinks = ["https://archive.org/download/pizza-time-theatre-kooser-plans|Building Plans & Permits (1961-1996)","https://archive.org/details/huntington-beach-kooser-rd-building-plans/Administrative_Reviews_ARX1979029_-_Supporting_Documents-2.pdf|Kooser Road Fact Sheet (December 4th, 1978)"]
 pageThumbnailFile = "EFEMrtsXt5C6i62q1coh.avif"
+contributors = ["randomguyfan22"]
+citations = ["http://csjpbce.sanjoseca.gov/ecmsviewer/148/836/3836148.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/474/391/3391474.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf", "https://en.wikipedia.org/wiki/Steamboat", "http://csjpbce.sanjoseca.gov/ecmsviewer/210/393/3393210.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/028/404/3404028.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/275/979/7979275.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/258/960/7960258.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/762/001/45001762.pdf", "https://www.nbcbayarea.com/news/local/making-it-in-the-bay/affordable-housing-proposed-for-former-chuck-e-cheese-site-in-san-jose-report/2479008/", "https://archive.org/details/popularelectroni16unse_1/page/110/mode/2up?q=%22pizza+time+theatre%22"]
+storeNumber = ""
+sqft = "19,000"
+attractions = []
+franchisees = []
+remodels = ["PTT Standard Layout|1978-12-02", "PTT 1981 Exterior Update|1981-00-00", "PTT Early Cyberamic Replacements|1983-00-00", "SPT 1980's Remodel Program|1991-00-00", "SPT 1990's Remodel Program|1996-00-00", "CEC 2000's Remodel Program|2006-00-00", "CEC 2015 Remodel Program|2016-00-00"]
+stages = []
+downloadLinks = ["https://archive.org/download/pizza-time-theatre-kooser-plans|Building Plans & Permits (1961-1996)", "https://archive.org/details/huntington-beach-kooser-rd-building-plans/Administrative_Reviews_ARX1979029_-_Supporting_Documents-2.pdf|Kooser Road Fact Sheet (December 4th, 1978)"]
+latitudeLongitude = ["37.24507007", "-121.8898435"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-draft = false
 +++
 
 ***San Jose, CA (1371 Kooser Rd) Store #404*** was a franchised *Pizza Time Theatre* that opened on December 2, 1978, with a Portrait Show, and closed on June 25, 2020. This location is the second-ever Pizza Time Theatre location and was the oldest location in the company until 2020. 
