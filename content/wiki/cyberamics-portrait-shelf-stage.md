@@ -4,23 +4,22 @@ title = "Cyberamics Portrait / Shelf Stage"
 startDate = ""
 endDate = ""
 pageThumbnailFile = "RwtgV0kmTMjVGKYoOEbn.avif"
-contributors = ["CECBowlingGreen", "Ceclife13", "Rexburg090", "JamesLemony", "RessiduePezzzado", "Pench0782", "ChuckEPediaIsTheBest!", "BurgersNuggs445", "Anonymous", "Anonymous", "Charlesiiikingofengland", "CorrectorMan", "Saan1ty", "Mecha", "Cheeseclassic", "SuperCreamPiper2008", "PizzaEntertainmentFanX", "Midwestretail", "CyberSnout"]
+contributors = ["CECBowlingGreen", "Ceclife13", "Rexburg090", "JamesLemony", "RessiduePezzzado", "Pench0782", "ChuckEPediaIsTheBest!", "BurgersNuggs445", "Anonymous", "Anonymous", "Charlesiiikingofengland", "CorrectorMan", "Saan1ty", "Mecha", "Cheeseclassic", "SuperCreamPiper2008", "PizzaEntertainmentFanX", "Midwestretail", "CyberSnout", "randomguyfan22"]
 citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf", "https://cheeseepedia.org/photos/0_23VDH9h87hH7hh42.avif", "https://cheeseepedia.org/photos/nDD6uIolQnI6JWvWVadX.avif", "https://www.youtube.com/watch?v=wihG5BTS9L8", "https://cheeseepedia.org/photos/2UB042gGPFJOCM52gMNG.avif", "https://cheeseepedia.org/photos/ugkMSuExCeSIrbkwEjuy.avif"]
 tags = ["Stage Variations"]
 categories = ["Pizza Time Theatre"]
 +++
-
-The ***Cyberamics* **Shelf Stage**** (known commonly as the ***Cyberamics Portrait Stage***) was a stage format installed at several {{< wiki-link "Pizza Time Theatre" >}} stores from 1979 to 1981. The stage would debut at the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} location at its grand opening in May 1979 as a {{< wiki-link "Cyberamics" >}} version of the {{< wiki-link "Winchester PTT Show" >}} &amp; {{< wiki-link "Kooser PTT Show" >}} and would go extinct in Fall 2001 at the {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}} store.
+The ***Cyberamics*** Shelf Stage* ***(known commonly as the*** Cyberamics Portrait Stage\*\**) was a stage format installed at several {{< wiki-link "Pizza Time Theatre" >}} stores from 1979 to 1981. The stage would debut at the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} location at its grand opening in May 1979 as a {{< wiki-link "Cyberamics" >}} version of the {{< wiki-link "Winchester PTT Show" >}} &amp; {{< wiki-link "Kooser PTT Show" >}} and would go extinct in Fall 2001 at the {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}} store.
 
 ## History
 
 ### Pizza Time Theatre
 
-The ***Cyberamics Shelf Stage*** was first created in May 1979 for the opening of the Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}. The stage was produced for all PTT's from 1979 to Mid 1980. In May or April 1980, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} would introduce the {{< wiki-link "Cyberamics Balcony Stage" >}}(1) as a stage type on a platform instead of inside of the theatre's walls. The Portrait Stages would continue to be produced for location, though would either be on 1 wall, or be a Balcony &amp; Shelf Hybrid. The PTT on {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} would be the first one to open with a Balcony Stage, &amp; after 1981, all future locations would be set to get a Balcony Stage instead of a Shelf Stage. The Last Shelf Stage to be produced was for the PTT on {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}} In June 1981, which had the normal 2-Wall Variant.
+The ***Cyberamics Shelf Stage*** was first created in May 1979 for the opening of the Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}. The stage was produced for all PTT's from 1979 to Mid 1980. In May or April 1980, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} would introduce the {{< wiki-link "Balcony Stage" >}}(1) as a stage type on a platform instead of inside of the theatre's walls. The Portrait Stages would continue to be produced for location, though would either be on 1 wall, or be a Balcony &amp; Shelf Hybrid. The PTT on {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} would be the first one to open with a Balcony Stage, &amp; after 1981, all future locations would be set to get a Balcony Stage instead of a Shelf Stage. The Last Shelf Stage to be produced was for the PTT on {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}} In June 1981, which had the normal 2-Wall Variant.
 
 ### Chuck E. Cheese's
 
-By 1987, almost all Shelf stages had been removed, except for {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}, {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}, {{< wiki-link "Tucson, AZ (5534 E 22nd St)" >}}, {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}}, {{< wiki-link "Hayward, CA (24253 Hesperian Blvd)" >}}, &amp; {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}}. By 1990, almost all the remaining Shlef Stages had been removed except for {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}} &amp; {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}}, with Ogden's being shut off making Lake Forest, CA's the last functioning one. Lake Forest's had also been modified into a {{< wiki-link "Chuck E's House Facade" >}} &amp; Shelf Stage Hybrid with the stage looking more like a Late 1980 Shelf setup but with C-Stage decor, Making Ogden's the last full Portrait Show Remaining. sometime in 1991, {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}} would close, Making Lake Forest the last location with a Shelf Stage. The Stage remained until 2001, when the location permanently closed.
+By 1987, almost all Shelf stages had been removed, except for {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}, {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}, {{< wiki-link "Tucson, AZ (5534 E 22nd St)" >}}, {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}}, {{< wiki-link "Hayward, CA (24253 Hesperian Blvd)" >}}, &amp; {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}}. By 1990, almost all the remaining Shlef Stages had been removed except for {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}} &amp; {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}}, with Ogden's being shut off making Lake Forest, CA's the last functioning one. Lake Forest's had also been modified into a {{< wiki-link "Chuck E.'s House Facade" >}} &amp; Shelf Stage Hybrid with the stage looking more like a Late 1980 Shelf setup but with C-Stage decor, Making Ogden's the last full Portrait Show Remaining. sometime in 1991, {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}} would close, Making Lake Forest the last location with a Shelf Stage. The Stage remained until 2001, when the location permanently closed.
 
 ## Design
 
@@ -28,20 +27,20 @@ The Cyberamic Shelf Stages, similar to the Kooser Shelf Stage, would be placed a
 
 ### Animatronics Used
 
-- {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}
-- {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}
-- {{< wiki-link "Mr. Munch (Cyberamic)" >}}
-- {{< wiki-link "Pasqually (Cyberamic)" >}}
-- {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}
-- {{< wiki-link "Warblettes (Cyberamic)" >}} (Removed last at Ogden's Closure)
-- {{< wiki-link "Applause Board (Cyberamic)" >}}
-- {{< wiki-link "Drum Board (Cyberamic)" >}}
-- {{< wiki-link "Flag Wavers (Cyberamic)" >}}
+* {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}
+* {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}
+* {{< wiki-link "Mr. Munch (Cyberamic)" >}}
+* {{< wiki-link "Pasqually (Cyberamic)" >}}
+* {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}
+* {{< wiki-link "Warblettes (Cyberamic)" >}} (Removed last at Ogden's Closure)
+* {{< wiki-link "Applause Board (Cyberamic)" >}}
+* {{< wiki-link "Drum Board (Cyberamic)" >}}
+* {{< wiki-link "Flag Wavers (Cyberamic)" >}}
 
 ## Installations
 
-| Location                                                              | Opening / Installation Date | Removal Date        |
-|-----------------------------------------------------------------------|-----------------------------|---------------------|
+| Location                                                        | Opening / Installation Date | Removal Date        |
+| --------------------------------------------------------------- | --------------------------- | ------------------- |
 | {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}}(2)          | May-June 1979               | Unknown             |
 | {{< wiki-link "Sacramento , CA (7020 Stockton Blvd)" >}}(3)     | August 14th, 1979           | Late 1985           |
 | {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}(4)  | October 6th, 1979           | 1989/1990           |
