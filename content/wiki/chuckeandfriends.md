@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Chuck E. And Friends!"
-startDate = "2025-11-00"
+startDate = "2025-10-03"
 endDate = ""
 pageThumbnailFile = "chuckifhewasevilwithsanta.avif"
 contributors = ["The 64th Gamer"]
@@ -28,4 +28,4 @@ In mid-October, David McKillips would confirm that the Holiday Special would be 
 |-----------------------------------------------------------|---------|---------------------|--------------------------------------------|
 | {{< wiki-link "Pumpkins in My Pockets" >}}                | Short   | October 3rd, 2025   | [YouTube](https://youtu.be/zLqVmQcD3zQ)    |
 | {{< wiki-link "The EASY Dance... Turned IMPOSSIBLE?!" >}} | Short   | October 17th, 2025  | [YouTube](https://youtu.be/7m9F-lPSqjY)    |
-| {{< wiki-link "Chuck E. Cheese Holiday Special" >}}       | Special | November 27th, 2025 | ???                                        |
+| {{< wiki-link "Chuck E. Cheese Holiday Special" >}}       | Special | November 27th, 2025 | Youtube, Amazon Prime                      |
