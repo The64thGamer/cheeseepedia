@@ -14,7 +14,7 @@ citations = []
 contributors = []
 downloadLinks = []
 pageThumbnailFile = ""
-tags = ["Locations"]
+tags = ["Cancelled Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false
 +++

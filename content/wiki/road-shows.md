@@ -3,6 +3,7 @@ draft = false
 title = "Road Shows"
 startDate = "2000-03-00"
 endDate = "2014-00-00"
+pageThumbnailFile = "zeDQg0B95yZSikNNF_YX.avif"
 contributors = ["ChuckEPediaIsTheBest!", "Ceclife13"]
 citations = ["https://youtu.be/FYy1xFReGF0"]
 tags = ["Remodels and Initiatives"]
