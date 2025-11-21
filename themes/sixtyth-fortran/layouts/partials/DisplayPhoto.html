@@ -21,7 +21,7 @@ Behavior:
 {{- $metaMap := index $idx "meta" -}}
 
 {{- /* Lookup page if a name was provided */ -}}
-{{- $page := nil -}}
+{{- $page := "" -}}
 {{- if ne $ctxName "" -}}
   {{- $page = index $byTitle $ctxName -}}
   {{- if not $page -}}
