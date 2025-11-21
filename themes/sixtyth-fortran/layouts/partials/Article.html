@@ -7,27 +7,27 @@
         {{- $isBasicArticle := not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
 
     {{/* Article Sections */}}
-        {{- $article := false -}}
-        {{- $galleryHasContent := "" -}}
-        {{- $videos := "" -}}
-        {{- $transcriptions := "" -}}
-        {{- $reviews := "" -}}
-        {{- $sales := "" -}}
+    {{- $article := false -}}
+    {{- $galleryHasContent := "" -}}
+    {{- $videos := "" -}}
+    {{- $transcriptions := "" -}}
+    {{- $reviews := "" -}}
+    {{- $sales := "" -}}
 
-        {{- if $isBasicArticle -}}
-            {{- /* Article Sections */}}
-            {{- $videos := partial "display-video-gallery.html" . -}}
-            {{- $transcriptions := partial "display-transcriptions.html" . -}}
-            {{- $reviews := partial "display-reviews.html" . -}}
-            {{- $sales := partial "display-sales.html" . -}}
+    {{- if $isBasicArticle -}}
+        {{- /* Compute sections (assign into outer vars using = not :=) */ -}}
+        {{- $videos = partialCached "display-video-gallery.html" . -}}
+        {{- $transcriptions = partialCached "display-transcriptions.html" . -}}
+        {{- $reviews = partialCached "display-reviews.html" . -}}
+        {{- $sales = partialCached "display-sales.html" . -}}
 
-            {{- /* Determine if this page has a gallery (cheap check) */}}
-            {{- $galleryHasContent := partial "display-gallery-has-content.html" . -}}
+        {{- /* Cheap existence check for gallery — cached */ -}}
+        {{- $galleryHasContent = partialCached "display-gallery-has-content.html" . -}}
 
-            {{- /* Determine if any article sections exist */}}
-            {{- $article := or (ne $videos "") (or (ne $transcriptions "") (or (ne $reviews "") (ne $sales ""))) -}}
-            {{- /* We'll treat gallery separately for UI */ -}}
-        {{- end -}}
+        {{- /* Determine whether there is any non-gallery article content */ -}}
+        {{- $article = or (ne $videos "") (or (ne $transcriptions "") (or (ne $reviews "") (ne $sales ""))) -}}
+    {{- end -}}
+
 
 
 {{/* Article Title/Header */}}
