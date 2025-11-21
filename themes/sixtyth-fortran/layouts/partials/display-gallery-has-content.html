@@ -15,7 +15,7 @@
 {{- end -}}
 
 {{- /* build candidate keys to try exact-lookup first */ -}}
-{{- $candidates := slice $title (urlize $title) (lower (trim $title)) (urlize (lower (trim $title))) $slug $basename -}}
+{{- $candidates := slice $title (urlize $title) (lower $title) (urlize (lower $title)) $slug $basename -}}
 
 {{- /* try quick exact lookups */ -}}
 {{- range $i, $cand := $candidates -}}
@@ -29,10 +29,10 @@
 {{- end -}}
 
 {{- /* If quick lookups fail, scan keys and compare normalized forms */ -}}
-{{- $normTarget := urlize (lower (trim $title)) -}}
+{{- $normTarget := urlize (lower $title) -}}
 {{- range $k, $_ := $byPage -}}
   {{- $kStr := printf "%s" $k -}}
-  {{- $normKey := urlize (lower (trim $kStr)) -}}
+  {{- $normKey := urlize (lower $kStr) -}}
   {{- if eq $normKey $normTarget -}}
     true
     {{- return -}}
