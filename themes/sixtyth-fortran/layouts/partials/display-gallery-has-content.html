@@ -1,8 +1,3 @@
-{{- /* returns a non-empty value when there are photos for this page title */ -}}
 {{- $byPage := partialCached "grab-photos-by-page.html" "photos-by-page" -}}
 {{- $relevant := index $byPage .Title | default (slice) -}}
-{{- if gt (len $relevant) 0 -}}
-true
-{{- else -}}
-{{- "" -}}
-{{- end -}}
+{{- if gt (len $relevant) 0 -}} true {{- else -}} {{- "" -}} {{- end -}}
