@@ -15,7 +15,7 @@
 {{- $meta    := dict -}}
 
 {{- range $photos -}}
-  {{- $titleKey := .Params.title | default .Title | printf "%s" -}}
+  {{- $titleKey := .Title -}}
   {{- $filePathKey := .File.Path | default "" | printf "%s" -}}
   {{- /* compute file existence & image URL once */ -}}
   {{- $fileName := $titleKey -}}

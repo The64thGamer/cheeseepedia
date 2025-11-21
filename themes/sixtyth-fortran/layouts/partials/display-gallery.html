@@ -26,7 +26,7 @@
     {{- range $photosSlice -}}
       {{- $photo := .item -}}
       <div class="gallery-image-box">
-        {{- $thumb := $photo.Params.title | default $photo.Title -}}
+        {{- $thumb := $photo.Title -}}
         {{- $mode := "default" -}}
         {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
       </div>

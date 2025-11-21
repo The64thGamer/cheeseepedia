@@ -1,3 +1,33 @@
+
 {{- $byPage := partialCached "grab-photos-by-page.html" "photos-by-page" -}}
-{{- $relevant := index $byPage .Title | default (slice) -}}
-{{- if gt (len $relevant) 0 -}} true {{- else -}} {{- "" -}} {{- end -}}
+{{- $title := .Title | default "" -}}
+{{- $slug := .File.Slug | default "" -}}
+{{- $basename := .File.BaseFileName | default "" -}}
+
+{{- /* build candidate keys to try exact-lookup first */ -}}
+{{- $candidates := slice $title (urlize $title) (lower (trim $title)) (urlize (lower (trim $title))) $slug $basename -}}
+
+{{- /* try quick exact lookups */ -}}
+{{- range $i, $cand := $candidates -}}
+  {{- if ne $cand "" -}}
+    {{- $found := index $byPage $cand -}}
+    {{- if and $found (gt (len $found) 0) -}}
+      true
+      {{- return -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* If quick lookups fail, scan keys and compare normalized forms */ -}}
+{{- $normTarget := urlize (lower (trim $title)) -}}
+{{- range $k, $_ := $byPage -}}
+  {{- $kStr := printf "%s" $k -}}
+  {{- $normKey := urlize (lower (trim $kStr)) -}}
+  {{- if eq $normKey $normTarget -}}
+    true
+    {{- return -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* nothing found */ -}}
+{{- "" -}}
