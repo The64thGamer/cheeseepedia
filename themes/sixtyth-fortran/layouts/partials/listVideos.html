@@ -1,19 +1,38 @@
 <h1>{{- partial "emojify.html" .Title -}}</h1>
 {{- .Content | safeHTML -}}
+
 <div class="dropdown-area">
-{{- partialCached "display-dropdown-FEC.html" . -}}
-{{- partialCached "display-dropdown-manufacturer.html" . -}}
-{{- partialCached "display-dropdown-movie.html" . -}}
-{{- partialCached "display-dropdown-year.html" . -}}
+  {{- partialCached "display-dropdown-FEC.html" . -}}
+  {{- partialCached "display-dropdown-manufacturer.html" . -}}
+  {{- partialCached "display-dropdown-movie.html" . -}}
+  {{- partialCached "display-dropdown-year.html" . -}}
 </div>
+
 <div id="loadingText" class="loading-text">Loading. . .</div>
+
+{{/* Collect pages that have GitInfo */}}
+{{- $pagesWithGitInfo := where site.RegularPages "GitInfo" "ne" nil -}}
+
+{{/* Restrict to this section only */}}
+{{- $sectionPages := where $pagesWithGitInfo "Section" .Section -}}
+
+{{/* Sort videos by latest Git modification date */}}
+{{- $sortedPages := sort $sectionPages "GitInfo.AuthorDate" "desc" -}}
+
+{{/* Paginate: 50 per page */}}
+{{- $paginator := .Paginate $sortedPages 50 -}}
+
 <div id="tagsContainer" style="visibility:hidden;">
-    {{- $listPages := sort .Pages "Params.startDate" -}}
-    {{- range $listPages -}}
-      <div class="{{- delimit (apply .Params.categories "urlize" ".") " " -}}{{- " " -}}{{- partial "date-to-year.html" .Params.startDate -}}" style="display: none;">
+    {{- range $paginator.Pages -}}
+      <div class="{{ delimit (apply .Params.categories "urlize" ".") " " }} {{ partial "date-to-year.html" .Params.startDate }}" style="display:none;">
         {{- partial "display-video-box.html" . -}}
       </div>
     {{- end -}}
+</div>
+
+{{/* Pagination UI */}}
+<div class="pagination">
+    {{ template "_internal/pagination.html" . }}
 </div>
 
 {{- partialCached "display-dropdown-script.html" . -}}
