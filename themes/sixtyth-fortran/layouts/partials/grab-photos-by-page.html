@@ -1,0 +1,6 @@
+{{- /* grab-photos-by-page.html
+     Returns the reverse index: pageTitle -> slice of photo Pages
+     Use partialCached to avoid recomputing.
+*/ -}}
+{{- $idx := partialCached "build-photo-indexes.html" "photos-index" -}}
+{{- return (index $idx "byPage") -}}

@@ -1,28 +1,35 @@
 {{- $currentPageTitle := .Title -}}
 
-{{- /* Grab the full photo map once */ -}}
-{{- $allPhotos := partialCached "grab-all-photos.html" "all-photos-map" -}}
-
-{{- /* Optional: Also grab a reverse map if you build it in grab-all-photos */ -}}
+{{- /* Get reverse index: pageTitle -> []Pages */ -}}
 {{- $photosByPage := partialCached "grab-photos-by-page.html" "photos-by-page" -}}
 
-{{- /* Get only the photos for the current page */ -}}
+{{- /* Get the photos for this page (slice of Page objects) */ -}}
 {{- $relevant := index $photosByPage $currentPageTitle | default (slice) -}}
 
-{{- /* Build a slice for sorting */ -}}
-{{- $photosSlice := slice -}}
-{{- range $i, $photo := $relevant -}}
-  {{- $date := $photo.Params.startDate | default "9999-99-99" -}}
-  {{- $parts := split $date "-" -}}
-  {{- $year := index $parts 0 | default "9999" -}}
-  {{- $month := index $parts 1 | default "99" -}}
-  {{- $day := index $parts 2 | default "99" -}}
-  {{- $sortKey := printf "%04s%02s%02s" $year $month $day -}}
-  {{- $photosSlice = $photosSlice | append (dict "item" $photo "key" $sortKey) -}}
+{{- if gt (len $relevant) 0 -}}
+  {{- /* Build sortable slice with sort key derived from .Params.startDate */ -}}
+  {{- $photosSlice := slice -}}
+  {{- range $relevant -}}
+    {{- $p := . -}}
+    {{- $date := $p.Params.startDate | default "9999-99-99" -}}
+    {{- $parts := split $date "-" -}}
+    {{- $year := index $parts 0 | default "9999" -}}
+    {{- $month := index $parts 1 | default "99" -}}
+    {{- $day := index $parts 2 | default "99" -}}
+    {{- $sortKey := printf "%04s%02s%02s" $year $month $day -}}
+    {{- $photosSlice = $photosSlice | append (dict "item" $p "key" $sortKey) -}}
+  {{- end -}}
+
+  {{- $photosSlice = sort $photosSlice "key" -}}
+
+  <div class="gallery">
+    {{- range $photosSlice -}}
+      {{- $photo := .item -}}
+      <div class="gallery-image-box">
+        {{- $thumb := $photo.Params.title | default $photo.Title -}}
+        {{- /* Cache render per filename */ -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
+      </div>
+    {{- end -}}
+  </div>
 {{- end -}}
-
-{{- $photosSlice = sort $photosSlice "key" -}}
-
-{{- /* Cache the gallery HTML per page for performance */ -}}
-{{- partialCached "gallery-for-page.html" (dict "page" . "photos" $photosSlice) .Title }}
-

@@ -1,10 +1,6 @@
-{{- /* grab-all-photos.html */ -}}
-{{- $photos := where site.RegularPages "Section" "photos" -}}
-{{- $photoMap := dict -}}
-{{- range $photos -}}
-  {{- /* Use the filename (or title) as key */ -}}
-  {{- $title := .Params.title | default .Title | printf "%s" -}}  
-  {{- /* Because dict only holds interface{}, we override by converting map[string]interface{} to a nested dict with page values */ -}}
-  {{- $photoMap = merge $photoMap (dict $title .) -}}
-{{- end -}}
-{{- return $photoMap -}}
+{{- /* grab-all-photos.html
+     Backwards-compatible wrapper that returns the byTitle map (filename -> Page).
+     Use partialCached when calling.
+*/ -}}
+{{- $idx := partialCached "build-photo-indexes.html" "photos-index" -}}
+{{- return (index $idx "byTitle") -}}

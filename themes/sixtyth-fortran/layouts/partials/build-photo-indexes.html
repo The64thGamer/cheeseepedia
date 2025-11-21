@@ -1,0 +1,39 @@
+{{- /* build-photo-indexes.html
+     Returns a dict with:
+       "byTitle" : map filename -> Page
+       "byPath"  : map filePath -> Page
+       "byPage"  : map pageTitle -> slice of Pages (photos used on that page)
+     This is intentionally cached by callers (partialCached) so this runs only once per build.
+*/ -}}
+
+{{- $photos := where site.RegularPages "Section" "photos" -}}
+
+{{- $byTitle := dict -}}
+{{- $byPath  := dict -}}
+{{- $byPage  := dict -}}
+
+{{- range $photos -}}
+  {{- /* Determine canonical keys */ -}}
+  {{- $titleKey := .Params.title | default .Title | printf "%s" -}}
+  {{- $filePathKey := .File.Path | default "" -}}
+
+  {{- /* Insert into byTitle and byPath (merge preserves Page object as value) */ -}}
+  {{- $byTitle = merge $byTitle (dict $titleKey .) -}}
+  {{- if ne $filePathKey "" -}}
+    {{- $byPath = merge $byPath (dict $filePathKey .) -}}
+  {{- end -}}
+
+  {{- /* Build reverse index by page title: .Params.pages is expected to be a slice of strings */ -}}
+  {{- $pagesList := .Params.pages | default (slice) -}}
+  {{- range $p := $pagesList -}}
+    {{- $existing := index $byPage $p -}}
+    {{- if $existing -}}
+      {{- $byPage = merge $byPage (dict $p (append $existing .)) -}}
+    {{- else -}}
+      {{- $byPage = merge $byPage (dict $p (slice .)) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Return a container dict */ -}}
+{{- return (dict "byTitle" $byTitle "byPath" $byPath "byPage" $byPage) -}}

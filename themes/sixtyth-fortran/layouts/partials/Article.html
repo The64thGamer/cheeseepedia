@@ -44,7 +44,7 @@
 {{/* Photo Page */}}
     {{- if eq $pageType "Photos" -}}
         <div class="article-photo-thumbnail">
-            {{- $thumb := default "error" .Title -}}
+            {{- $thumb := default "" .Title -}}
             {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
         </div>
 

@@ -5,7 +5,7 @@
 
 {{- if .Params.pageThumbnailFile -}}
   <div class="article-thumbnail">
-    {{- $thumb := default "error" .Params.pageThumbnailFile -}}
+    {{- $thumb := default "" .Params.pageThumbnailFile -}}
     {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css") $thumb }}
   </div>
 {{- end -}}
