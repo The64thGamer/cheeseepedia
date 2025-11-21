@@ -1,7 +1,10 @@
+{{- /* grab-all-photos.html */ -}}
 {{- $photos := where site.RegularPages "Section" "photos" -}}
 {{- $photoMap := dict -}}
 {{- range $photos -}}
-  {{- $title := .Params.title | default .Title -}}
+  {{- /* Use the filename (or title) as key */ -}}
+  {{- $title := .Params.title | default .Title | printf "%s" -}}  
+  {{- /* Because dict only holds interface{}, we override by converting map[string]interface{} to a nested dict with page values */ -}}
   {{- $photoMap = merge $photoMap (dict $title .) -}}
 {{- end -}}
 {{- return $photoMap -}}

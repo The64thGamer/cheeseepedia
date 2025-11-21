@@ -1,11 +1,10 @@
-{{- /* DisplayPhoto.html — safe version */ -}}
+{{- /* layouts/partials/DisplayPhoto.html */ -}}
 
 {{- $ctxName := .name | default "" -}}
 {{- $ctxMode := .mode | default "default" -}}
 
-{{- /* Short-circuit: when name is empty */ -}}
+{{- /* If name is empty, show fallback and exit */ -}}
 {{- if eq $ctxName "" -}}
-  {{- /* Render fallback image */ -}}
   {{- if in (slice "no-link" "no-css-no-desc") $ctxMode -}}
     <img src="/UI/File Not Found.jpg" alt="File Not Found.jpg" />
   {{- else -}}
@@ -18,16 +17,13 @@
       <div class="article-photo-description">File Not Found</div>
     {{- end -}}
   {{- end -}}
-  {{- return }}  
+  {{- return }}
 {{- end -}}
 
-{{- /* Load the photos map */ -}}
 {{- $photos := partialCached "grab-all-photos.html" "all-photos-map" -}}
 
-{{- /* Try to look up the page — use "with" to run only if found */ -}}
-{{- with index $photos $ctxName }} 
+{{- with index $photos $ctxName -}}
   {{- $page := . -}}
-  {{- /* Page exists — compute alt, url, date */ -}}
   {{- $alt := $page.Content | plainify | default $ctxName -}}
   {{- $filePath := printf "static/photos/%s" $ctxName -}}
   {{- $imgURL := "/UI/File Not Found.jpg" -}}
@@ -40,14 +36,12 @@
     {{- $dateStr = partial "Readable_Date.html" (dict "date" . "presentOnEmpty" false) -}}
   {{- end }}
 
-  {{- /* Render by mode */ -}}
   {{- if eq $ctxMode "no-css-file-link" -}}
     <a href="{{ printf "/photos/%s" $ctxName }}">
       <img data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $alt }}" />
     </a>
     <div class="article-photo-description">
-      {{- $page.Content -}}
-      {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+      {{- $page.Content -}}{{ if $dateStr -}} ({{ $dateStr }}){{- end -}}
     </div>
 
   {{- else if eq $ctxMode "no-css-no-desc" -}}
@@ -60,8 +54,7 @@
       <img data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $alt }}" />
     </a>
     <div class="article-photo-description">
-      {{- $page.Content -}}
-      {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+      {{- $page.Content -}}{{ if $dateStr -}} ({{ $dateStr }}){{- end -}}
     </div>
 
   {{- else if eq $ctxMode "no-link" -}}
@@ -74,12 +67,11 @@
       </a>
     </div>
     <div class="article-photo-description">
-      {{- $page.Content -}}
-      {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+      {{- $page.Content -}}{{ if $dateStr -}} ({{ $dateStr }}){{- end -}}
     </div>
-  {{- end -}}
+  {{- end }}
 
 {{- else -}}
-  {{- /* Page not found in map — fallback */ -}}
+  {{- /* No page found for that name */ -}}
   <img src="/UI/File Not Found.jpg" alt="{{ $ctxName }}" />
 {{- end -}}
