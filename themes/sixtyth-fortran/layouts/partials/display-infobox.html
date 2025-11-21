@@ -3,8 +3,7 @@
  <div class="article-infobox">
     {{- if .Params.pageThumbnailFile -}}
       <div class="article-thumbnail">
-        {{- $thumb := cond .Params.pageThumbnailFile .Params.pageThumbnailFile "File Not Found.jpg" -}}
-        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
+          {{- partialCached "DisplayPhoto.html" (dict "name" .Params.pageThumbnailFile "mode" "no-css") .Params.pageThumbnailFile }}
       </div>
     {{- end -}}
     {{- if or (.Params.startDate) (.Params.endDate) -}}

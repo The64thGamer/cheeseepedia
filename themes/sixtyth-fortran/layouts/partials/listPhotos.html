@@ -22,8 +22,7 @@
     ">
     {{- range $paginator.Pages -}}
         <div class="gallery-image-box">
-          {{- $thumb := cond .Title .Title "File Not Found.jpg" -}}
-          {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
+          {{- partialCached "DisplayPhoto.html" (dict "name" .Title "mode" "default") .Title }}
         </div>
     {{- end -}}
   </div>
