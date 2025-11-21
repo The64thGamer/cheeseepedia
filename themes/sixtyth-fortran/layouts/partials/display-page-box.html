@@ -5,7 +5,8 @@
     <div class="list-image">
       <a href="{{ .RelPermalink }}">
         {{- $thumb := default "" .Params.pageThumbnailFile -}}
-        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
+        {{- $mode := "no-css-file-link" -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
       </a>
     </div>
 

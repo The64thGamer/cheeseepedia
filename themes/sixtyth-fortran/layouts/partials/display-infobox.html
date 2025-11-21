@@ -4,7 +4,8 @@
     {{- if .Params.pageThumbnailFile -}}
       <div class="article-thumbnail">
         {{- $thumb := default "" .Params.pageThumbnailFile -}}
-        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
+        {{- $mode := "no-css-file-link" -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
       </div>
     {{- end -}}
     {{- if or (.Params.startDate) (.Params.endDate) -}}

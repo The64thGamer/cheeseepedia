@@ -7,7 +7,8 @@
       {{- $photo := .item -}}
       <div class="gallery-image-box">
         {{- $thumb := $photo.Params.title | default $photo.Title -}}
-        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
+        {{- $mode := "no-css-file-link" -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
       </div>
     {{- end -}}
   </div>
