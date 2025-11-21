@@ -1,42 +1,39 @@
-{{- $currentPageTitle := .Title -}} 
-{{- $photos := partialCached "grab-all-photos.html" "key"}}
+{{- $currentPageTitle := .Title -}}
 
-{{- $photos = slice -}}
-{{- range partialCached "grab-all-photos.html" "key" -}}
-  {{- $date := .Params.startDate | default "9999-99-99" -}}
+{{- /* Grab the map of all photos once */ -}}
+{{- $allPhotos := partialCached "grab-all-photos.html" "all-photos-map" -}}
+
+{{- /* Build a slice of photos with sort keys */ -}}
+{{- $photosSlice := slice -}}
+{{- range $key, $photo := $allPhotos -}}
+  {{- $date := $photo.Params.startDate | default "9999-99-99" -}}
   {{- $parts := split $date "-" -}}
   {{- $year := index $parts 0 | default "9999" -}}
   {{- $month := index $parts 1 | default "99" -}}
   {{- $day := index $parts 2 | default "99" -}}
-
   {{- $sortKey := printf "%04s%02s%02s" $year $month $day -}}
-
-  {{- $photos = $photos | append (dict "item" . "key" $sortKey) -}}
+  {{- $photosSlice = $photosSlice | append (dict "item" $photo "key" $sortKey) -}}
 {{- end -}}
 
-{{- $photos = sort $photos "key" -}}
+{{- $photosSlice = sort $photosSlice "key" -}}
 
 {{- $hasGallery := 0 -}}
 {{- $galleryOpen := false -}}
 
-{{- range $photos -}}
+{{- range $photosSlice -}}
   {{- $photo := .item -}}
-  {{- $matches := false -}}
-
-  {{- range $photo.Params.pages -}}
-    {{- if eq . $currentPageTitle -}}
-      {{- $matches = true -}}
-      {{- if eq $hasGallery 0 -}}
-        <div class="gallery">
-        {{- $galleryOpen = true -}}
-      {{- end -}}
-      {{- $hasGallery = add $hasGallery 1 -}}
-    {{- end -}}
-  {{- end -}}
+  {{- $matches := in $photo.Params.pages $currentPageTitle -}}
 
   {{- if $matches -}}
+    {{- if eq $hasGallery 0 -}}
+      <div class="gallery">
+      {{- $galleryOpen = true -}}
+    {{- end -}}
+    {{- $hasGallery = add $hasGallery 1 -}}
+
     <div class="gallery-image-box">
-      {{- partial "filename-to-photo.html" $photo.Title -}}
+      {{- /* Use partialCached keyed by file path */ -}}
+      {{- partialCached "DisplayPhoto.html" (dict "name" $photo "mode" "default") $photo }}
     </div>
   {{- end -}}
 {{- end -}}

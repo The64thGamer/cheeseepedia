@@ -5,7 +5,7 @@
 
 {{- if .Params.pageThumbnailFile -}}
   <div class="article-thumbnail">
-    {{- partial "filename-to-photo-no-css.html" .Params.pageThumbnailFile -}}
+    {{- partialCached "DisplayPhoto.html" (dict "name" .Params.pageThumbnailFile "mode" "no-css") .Params.pageThumbnailFile }}
   </div>
 {{- end -}}
 {{- .Content | safeHTML}}

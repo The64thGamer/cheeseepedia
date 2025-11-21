@@ -1,2 +1,7 @@
 {{- $photos := where site.RegularPages "Section" "photos" -}}
-{{- return $photos -}}
+{{- $photoMap := dict -}}
+{{- range $photos -}}
+  {{- $title := .Params.title | default .Title -}}
+  {{- $photoMap = merge $photoMap (dict $title .) -}}
+{{- end -}}
+{{- return $photoMap -}}

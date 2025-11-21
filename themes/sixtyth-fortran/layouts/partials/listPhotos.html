@@ -22,7 +22,7 @@
     ">
     {{- range $paginator.Pages -}}
         <div class="gallery-image-box">
-          {{ partial "filename-to-photo.html" .Title }}
+          {{- partialCached "DisplayPhoto.html" (dict "name" .Title "mode" "default") .Title }}
         </div>
     {{- end -}}
   </div>
