@@ -12,9 +12,7 @@
 {{/* 4. Paginate the sorted list, e.g., 100 per page */}}
 {{- $paginator := .Paginate $sortedVideos 100 -}}
 
-<div id="loadingText" class="loading-text">Loading. . .</div>
-
-<div id="tagsContainer" style="visibility:hidden;">
+<div id="tagsContainer">
   {{- range $paginator.Pages -}}
       {{ partial "display-video-box.html" . }}
   {{- end -}}

@@ -414,6 +414,16 @@ background-color: var(--aqua);
   flex-wrap: wrap;
 }
 
+.pagination{
+  font-size: 1.5em;
+}
+
+.page-item{
+  margin-left: 1em;
+  margin-right: 1em;
+  margin-top: 1em;
+}
+
 .article-photo-thumbnail{
   border-radius: 1em;
   width: auto;
