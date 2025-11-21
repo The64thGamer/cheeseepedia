@@ -1,42 +1,45 @@
-<h1>{{- partial "emojify.html" .Title -}}</h1>
-{{- .Content | safeHTML -}}
+<h1>{{ partial "emojify.html" .Title }}</h1>
+{{ .Content | safeHTML }}
 
 <div class="dropdown-area">
-  {{- partialCached "display-dropdown-FEC.html" . -}}
-  {{- partialCached "display-dropdown-manufacturer.html" . -}}
-  {{- partialCached "display-dropdown-movie.html" . -}}
-  {{- partialCached "display-dropdown-year.html" . -}}
+  {{ partialCached "display-dropdown-FEC.html" . }}
+  {{ partialCached "display-dropdown-manufacturer.html" . }}
+  {{ partialCached "display-dropdown-movie.html" . }}
+  {{ partialCached "display-dropdown-year.html" . }}
 </div>
 
-{{/* Collect pages with GitInfo */}}
-{{- $pagesWithGitInfo := where site.RegularPages "GitInfo" "ne" nil -}}
+{{/* 1. Filter only pages in the "photos" section */}}
+{{- $photosSection := where site.RegularPages "Section" "photos" -}}
 
-{{/* Sort by Git modified date */}}
-{{- $sortedPages := sort $pagesWithGitInfo "GitInfo.AuthorDate" "desc" -}}
+{{/* 2. Further filter pages in that section that have GitInfo */}}
+{{- $photosWithGit := where $photosSection "GitInfo" "ne" nil -}}
 
-{{/* Paginate: 50 per page */}}
-{{- $paginator := .Paginate $sortedPages 50 -}}
+{{/* 3. Sort by Git last author date (or commit date) descending */}}
+{{- $sorted := sort $photosWithGit "GitInfo.AuthorDate" "desc" -}}
+
+{{/* 4. Paginate sorted list, e.g., 50 per page */}}
+{{- $paginator := .Paginate $sorted 50 -}}
 
 <div class="gallery">
-    <div id="tagsContainer" style="  
-        display: flex;
-        flex-wrap: wrap;
-        align-items: stretch;
-        justify-content: space-around;"
-    >
-        {{- range $paginator.Pages -}}
-        <div class="{{ delimit (apply .Params.categories "urlize" ".") " " }} {{ partial "date-to-year.html" .Params.startDate }}" style="display:none;">
-            <div class="gallery-image-box">
-                {{- partial "filename-to-photo.html" .Title -}}
-            </div>
+  <div id="tagsContainer" style="
+      display: flex;
+      flex-wrap: wrap;
+      align-items: stretch;
+      justify-content: space-around;
+    ">
+    {{- range $paginator.Pages -}}
+      <div class="{{ delimit (apply .Params.categories "urlize" ".") " " }} {{ partial "date-to-year.html" .Params.startDate }}" style="display: none;">
+        <div class="gallery-image-box">
+          {{ partial "filename-to-photo.html" .Title }}
         </div>
-        {{- end -}}
-    </div>
+      </div>
+    {{- end -}}
+  </div>
 </div>
 
-{{/* Pagination UI */}}
+{{/* 5. Pagination UI */}}
 <div class="pagination">
-  {{- template "_internal/pagination.html" . -}}
+  {{ template "_internal/pagination.html" . }}
 </div>
 
-{{- partialCached "display-dropdown-script.html" . -}}
+{{ partialCached "display-dropdown-script.html" . }}

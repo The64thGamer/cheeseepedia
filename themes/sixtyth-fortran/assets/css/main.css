@@ -629,6 +629,23 @@ caption {
   }
 }
 
+.pagination.pagination-default {
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+  list-style: none;
+  margin: 1em 0;
+}
+
+.pagination.pagination-default .page-item {
+  margin: 0 0.25em;
+}
+
+.pagination.pagination-default .page-link {
+  display: block;
+}
+
+
 .loading-text {
   visibility: visible;
   text-align: center;
