@@ -1,16 +1,15 @@
 {{- /*
-DisplayPhoto.html
+DisplayPhoto.html (uses the build-photo-indexes meta)
 Params:
   .name - filename string (e.g. "blah.avif")
   .mode - "default", "no-css", "no-css-no-desc", "no-css-file-link", "no-link"
-Usage example (preferred):
-  {{ partialCached "DisplayPhoto.html" (dict "name" "blah.avif" "mode" "no-css") "blah.avif" }}
+Usage:
+  {{ partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css") $thumb }}
 */ -}}
 
-{{- $ctxName := (.name | default "") | printf "%s" -}}   {{/* force string */}}
+{{- $ctxName := (.name | default "") | printf "%s" -}}
 {{- $ctxMode := (.mode | default "default") | printf "%s" -}}
 
-{{- /* immediate short-circuit for empty name */ -}}
 {{- if eq $ctxName "" -}}
   {{- if in (slice "no-link" "no-css-no-desc") $ctxMode -}}
     <img src="/UI/File Not Found.jpg" alt="File Not Found.jpg" />
@@ -27,26 +26,34 @@ Usage example (preferred):
   {{- return -}}
 {{- end -}}
 
-{{- /* fetch the combined indexes (cached inside) */ -}}
+{{- /* Fetch indexes (cached). build-photo-indexes returns a dict with meta */ -}}
 {{- $idx := partialCached "build-photo-indexes.html" "photos-index" -}}
 {{- $byTitle := index $idx "byTitle" -}}
 {{- $byPath  := index $idx "byPath" -}}
+{{- $metaMap := index $idx "meta" -}}
 
-{{- /* Try title lookup first (typical), fallback to path lookup if the caller passed a path */ -}}
+{{- /* Lookup page: try title, then path */ -}}
 {{- $page := index $byTitle $ctxName -}}
 {{- if not $page -}}
   {{- $page = index $byPath $ctxName -}}
 {{- end -}}
 
-{{- /* compute image URL by checking static/photos/<filename> */ -}}
+{{- /* Lookup precomputed meta (imageURL) */ -}}
+{{- $m := index $metaMap $ctxName -}}
 {{- $imgURL := "/UI/File Not Found.jpg" -}}
-{{- $alt := $ctxName -}}
-{{- $filePath := printf "static/photos/%s" $ctxName -}}
-{{- if fileExists $filePath -}}
-  {{- $imgURL = printf "/photos/%s" $ctxName -}}
+{{- $hasFile := false -}}
+{{- if $m -}}
+  {{- $imgURL = index $m "imageURL" | default $imgURL -}}
+  {{- $hasFile = index $m "hasFile" | default false -}}
+{{- else -}}
+  {{- /* As a fallback, check file existence once */ -}}
+  {{- if fileExists (printf "static/photos/%s" $ctxName) -}}
+    {{- $imgURL = printf "/photos/%s" $ctxName -}}
+    {{- $hasFile = true -}}
+  {{- end -}}
 {{- end -}}
 
-{{- /* if we have a page, use nicer alt and date */ -}}
+{{- $alt := $ctxName -}}
 {{- $dateStr := "" -}}
 {{- if $page -}}
   {{- $alt = ($page.Content | plainify) | default $ctxName -}}
@@ -55,7 +62,7 @@ Usage example (preferred):
   {{- end -}}
 {{- end -}}
 
-{{- /* Render modes (kept identical to previous semantics) */ -}}
+{{- /* Render modes */ -}}
 {{- if eq $ctxMode "no-css-file-link" -}}
   <a href="{{- if $page -}}{{ printf "/photos/%s" $ctxName }}{{- else -}}#{{- end -}}">
     <img data-pagefind-meta="image[src], image_alt[alt]" src="{{- $imgURL -}}" alt="{{- $alt -}}" />
@@ -80,7 +87,7 @@ Usage example (preferred):
 {{- else if eq $ctxMode "no-link" -}}
   <img src="{{- $imgURL -}}" alt="{{- $alt -}}" />
 
-{{- else -}}  {{/* default */}}
+{{- else -}}
   <div class="article-photo-image">
     <a href="{{- if $page -}}{{ $page.RelPermalink }}{{- else -}}#{{- end -}}">
       <img src="{{- $imgURL -}}" alt="{{- $alt -}}" />

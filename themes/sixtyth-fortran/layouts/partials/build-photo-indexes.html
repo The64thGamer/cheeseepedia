@@ -1,47 +1,72 @@
 {{- /*
   build-photo-indexes.html
-  Builds three indexes from content/photos:
-    - byTitle: filename/title -> Page
-    - byPath:  .File.Path -> Page
-    - byPage:  pageTitle -> slice of Page (photos that reference that page in .Params.pages)
-
-  This is intended to be called via partialCached "build-photo-indexes.html" "photos-index"
+  Builds indexes from content/photos (run once per build via partialCached).
+  Returns a dict with:
+    - "byTitle" : map filename/title -> Page
+    - "byPath"  : map .File.Path -> Page
+    - "byPage"  : map pageTitle -> slice of Pages (photos that reference that page)
+    - "meta"    : map filename/title -> dict { "imageURL":..., "hasFile": true/false, "fileName": ... }
 */ -}}
 
 {{- $photos := where site.RegularPages "Section" "photos" -}}
 {{- $byTitle := dict -}}
 {{- $byPath  := dict -}}
 {{- $byPage  := dict -}}
+{{- $meta    := dict -}}
 
 {{- range $photos -}}
-  {{- /* canonical keys */ -}}
   {{- $titleKey := .Params.title | default .Title | printf "%s" -}}
   {{- $filePathKey := .File.Path | default "" | printf "%s" -}}
+  {{- /* compute file existence & image URL once */ -}}
+  {{- $fileName := $titleKey -}}
+  {{- $hasFile := false -}}
+  {{- if ne $fileName "" -}}
+    {{- $hasFile = fileExists (printf "static/photos/%s" $fileName) -}}
+  {{- end -}}
+  {{- $imageURL := cond $hasFile (printf "/photos/%s" $fileName) "/UI/File Not Found.jpg" -}}
 
-  {{- /* store page objects (merge preserves the Page object) */ -}}
+  {{- /* store page objects */ -}}
   {{- $byTitle = merge $byTitle (dict $titleKey .) -}}
   {{- if ne $filePathKey "" -}}
     {{- $byPath = merge $byPath (dict $filePathKey .) -}}
   {{- end -}}
 
-  {{- /* Build reverse index safely: handle .Params.pages being string OR slice */ -}}
+  {{- /* meta data map */ -}}
+  {{- $meta = merge $meta (dict $titleKey (dict "imageURL" $imageURL "hasFile" $hasFile "fileName" $fileName)) -}}
+
+  {{- /* Normalize .Params.pages into a flat slice of strings (robust against string, slice, nested slices) */ -}}
   {{- $rawPages := .Params.pages -}}
   {{- $pagesList := slice -}}
   {{- if $rawPages -}}
     {{- $t := printf "%T" $rawPages -}}
     {{- if in $t "string" -}}
       {{- $pagesList = slice $rawPages -}}
+    {{- else if in $t "[]" -}}
+      {{- range $el := $rawPages -}}
+        {{- $et := printf "%T" $el -}}
+        {{- if in $et "string" -}}
+          {{- $pagesList = append $pagesList $el -}}
+        {{- else if in $et "[]" -}}
+          {{- range $inner := $el -}}
+            {{- $pagesList = append $pagesList $inner -}}
+          {{- end -}}
+        {{- else -}}
+          {{- /* fallback convert to string */ -}}
+          {{- $pagesList = append $pagesList (printf "%v" $el) -}}
+        {{- end -}}
+      {{- end -}}
     {{- else -}}
-      {{- /* assume slice-like; default ensures non-nil */ -}}
+      {{- /* anything else, try default */ -}}
       {{- $pagesList = default (slice) $rawPages -}}
     {{- end -}}
   {{- end -}}
 
+  {{- /* Merge into byPage (ensure existing is a slice) */ -}}
   {{- range $p := $pagesList -}}
-    {{- /* ensure existing is a slice (default to empty slice if absent) */ -}}
-    {{- $existing := default (slice) (index $byPage $p) -}}
-    {{- $byPage = merge $byPage (dict $p (append $existing .)) -}}
+    {{- $pStr := printf "%s" $p -}}
+    {{- $existing := default (slice) (index $byPage $pStr) -}}
+    {{- $byPage = merge $byPage (dict $pStr (append $existing .)) -}}
   {{- end -}}
 {{- end -}}
 
-{{- return (dict "byTitle" $byTitle "byPath" $byPath "byPage" $byPage) -}}
+{{- return (dict "byTitle" $byTitle "byPath" $byPath "byPage" $byPage "meta" $meta) -}}
