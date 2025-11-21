@@ -1,13 +1,5 @@
 <h1>{{ partial "emojify.html" .Title }}</h1>
 {{ .Content | safeHTML }}
-
-<div class="dropdown-area">
-  {{ partialCached "display-dropdown-FEC.html" . }}
-  {{ partialCached "display-dropdown-manufacturer.html" . }}
-  {{ partialCached "display-dropdown-movie.html" . }}
-  {{ partialCached "display-dropdown-year.html" . }}
-</div>
-
 {{/* 1. Filter to only pages in the "videos" section */}}
 {{- $videosSection := where site.RegularPages "Section" "videos" -}}
 
@@ -24,9 +16,7 @@
 
 <div id="tagsContainer" style="visibility:hidden;">
   {{- range $paginator.Pages -}}
-    <div class="{{ delimit (apply .Params.categories "urlize" ".") " " }} {{ partial "date-to-year.html" .Params.startDate }}" style="display: none;">
       {{ partial "display-video-box.html" . }}
-    </div>
   {{- end -}}
 </div>
 
@@ -34,5 +24,3 @@
 <div class="pagination">
   {{ template "_internal/pagination.html" . }}
 </div>
-
-{{ partialCached "display-dropdown-script.html" . }}
