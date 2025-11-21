@@ -13,6 +13,7 @@
 -}}
 
 {{- /* Accept either a plain string context or a dict context. */ -}}
+{{- $ctxName := .name | default "File Not Found.jpg" -}}
 {{- $raw := . -}}
 {{- $type := printf "%T" $raw -}}
 

@@ -44,7 +44,8 @@
 {{/* Photo Page */}}
     {{- if eq $pageType "Photos" -}}
         <div class="article-photo-thumbnail">
-            {{- partialCached "DisplayPhoto.html" (dict "name" .Title "mode" "no-css-file-link") .Title }}
+            {{- $thumb := cond .Title .Title "File Not Found.jpg" -}}
+            {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
         </div>
 
         <h2>Tagged Articles</h2>

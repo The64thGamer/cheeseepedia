@@ -31,7 +31,8 @@
 <div id="section-article" class="article-section">
   {{- if .Params.pageThumbnailFile -}}
     <div class="article-store-thumbnail">
-      {{- partialCached "DisplayPhoto.html" (dict "name" .Params.pageThumbnailFile "mode" "no-css-no-desc") .Params.pageThumbnailFile }}
+      {{- $thumb := cond .Params.pageThumbnailFile .Params.pageThumbnailFile "File Not Found.jpg" -}}
+      {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
     </div>
   {{- end -}}
   {{- partial "display-infobox-location.html" . -}}
