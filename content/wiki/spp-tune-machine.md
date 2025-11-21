@@ -35,7 +35,7 @@ To Do: This showtape was released on Reel, Cybervision, and CyberStar.
         3.  [Heaven is a Place on Earth](https://en.wikipedia.org/wiki/Heaven_Is_a_Place_on_Earth)
     2.  It's Showtime!
 4.  **Video 1**
-    1.  Looney Tunes - Unknown
+    1.  [Looney Tunes - By Word of Mouse](https://looneytunes.fandom.com/wiki/By_Word_of_Mouse)
 5.  **Intermission 3**
     1.  6 Minute Countdown
         1.  [Everywhere](https://en.wikipedia.org/wiki/Everywhere_(Fleetwood_Mac_song))
