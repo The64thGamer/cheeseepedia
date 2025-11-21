@@ -1,8 +1,18 @@
-
 {{- $byPage := partialCached "grab-photos-by-page.html" "photos-by-page" -}}
 {{- $title := .Title | default "" -}}
-{{- $slug := .File.Slug | default "" -}}
-{{- $basename := .File.BaseFileName | default "" -}}
+
+{{- /* compute slug safely without directly accessing .File.Slug (which may not exist) */ -}}
+{{- $slug := "" -}}
+{{- if .Slug -}}
+  {{- $slug = .Slug -}}
+{{- else if .File -}}
+  {{- $slug = .File.BaseFileName -}}
+{{- end -}}
+
+{{- $basename := "" -}}
+{{- if .File -}}
+  {{- $basename = .File.BaseFileName | default "" -}}
+{{- end -}}
 
 {{- /* build candidate keys to try exact-lookup first */ -}}
 {{- $candidates := slice $title (urlize $title) (lower (trim $title)) (urlize (lower (trim $title))) $slug $basename -}}
