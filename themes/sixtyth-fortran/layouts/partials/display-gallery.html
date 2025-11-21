@@ -33,7 +33,7 @@
 
     <div class="gallery-image-box">
       {{- /* Use partialCached keyed by file path */ -}}
-      {{- $thumb := cond $photo $photo "File Not Found.jpg" -}}
+      {{- $thumb := default "error" $photo -}}
       {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
     </div>
   {{- end -}}

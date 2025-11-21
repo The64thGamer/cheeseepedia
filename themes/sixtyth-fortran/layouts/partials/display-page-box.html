@@ -4,7 +4,7 @@
   <div class="list-page-container">
     <div class="list-image">
       <a href="{{ .RelPermalink }}">
-        {{- $thumb := cond .Params.pageThumbnailFile .Params.pageThumbnailFile "File Not Found.jpg" -}}
+        {{- $thumb := default "error" .Params.pageThumbnailFile -}}
         {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
       </a>
     </div>
