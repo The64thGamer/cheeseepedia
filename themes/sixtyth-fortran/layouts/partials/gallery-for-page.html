@@ -1,0 +1,14 @@
+{{- $page := .page -}}
+{{- $photosSlice := .photos -}}
+
+{{- if gt (len $photosSlice) 0 -}}
+  <div class="gallery">
+    {{- range $photosSlice -}}
+      {{- $photo := .item -}}
+      <div class="gallery-image-box">
+        {{- $thumb := $photo.Params.title | default $photo.Title -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
+      </div>
+    {{- end -}}
+  </div>
+{{- end -}}

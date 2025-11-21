@@ -1,11 +1,17 @@
 {{- $currentPageTitle := .Title -}}
 
-{{- /* Grab the map of all photos once */ -}}
+{{- /* Grab the full photo map once */ -}}
 {{- $allPhotos := partialCached "grab-all-photos.html" "all-photos-map" -}}
 
-{{- /* Build a slice of photos with sort keys */ -}}
+{{- /* Optional: Also grab a reverse map if you build it in grab-all-photos */ -}}
+{{- $photosByPage := partialCached "grab-photos-by-page.html" "photos-by-page" -}}
+
+{{- /* Get only the photos for the current page */ -}}
+{{- $relevant := index $photosByPage $currentPageTitle | default (slice) -}}
+
+{{- /* Build a slice for sorting */ -}}
 {{- $photosSlice := slice -}}
-{{- range $key, $photo := $allPhotos -}}
+{{- range $i, $photo := $relevant -}}
   {{- $date := $photo.Params.startDate | default "9999-99-99" -}}
   {{- $parts := split $date "-" -}}
   {{- $year := index $parts 0 | default "9999" -}}
@@ -17,28 +23,6 @@
 
 {{- $photosSlice = sort $photosSlice "key" -}}
 
-{{- $hasGallery := 0 -}}
-{{- $galleryOpen := false -}}
+{{- /* Cache the gallery HTML per page for performance */ -}}
+{{- partialCached "gallery-for-page.html" (dict "page" . "photos" $photosSlice) .Title }}
 
-{{- range $photosSlice -}}
-  {{- $photo := .item -}}
-  {{- $matches := in $photo.Params.pages $currentPageTitle -}}
-
-  {{- if $matches -}}
-    {{- if eq $hasGallery 0 -}}
-      <div class="gallery">
-      {{- $galleryOpen = true -}}
-    {{- end -}}
-    {{- $hasGallery = add $hasGallery 1 -}}
-
-    <div class="gallery-image-box">
-      {{- /* Use partialCached keyed by file path */ -}}
-      {{- $thumb := default "error" $photo -}}
-      {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
-    </div>
-  {{- end -}}
-{{- end -}}
-
-{{- if $galleryOpen -}}
-</div>
-{{- end -}}
