@@ -15,14 +15,18 @@
         {{- $sales := "" -}}
 
         {{- if $isBasicArticle -}}
-            {{- $gallery = partial "display-gallery.html" . -}}
-            {{- $videos = partial "display-video-gallery.html" . -}}
-            {{- $transcriptions = partial "display-transcriptions.html" . -}}
-            {{- $reviews = partial "display-reviews.html" . -}}
-            {{- $sales = partial "display-sales.html" . -}}
-            {{- if or (ne $gallery "") (ne $videos "") (ne $transcriptions "") (ne $reviews "") (ne $sales "") -}}
-                {{- $article = true -}}
-            {{- end -}}
+            {{- /* Article Sections */}}
+            {{- $videos := partial "display-video-gallery.html" . -}}
+            {{- $transcriptions := partial "display-transcriptions.html" . -}}
+            {{- $reviews := partial "display-reviews.html" . -}}
+            {{- $sales := partial "display-sales.html" . -}}
+
+            {{- /* Determine if this page has a gallery (cheap check) */}}
+            {{- $galleryHasContent := partial "display-gallery-has-content.html" . -}}
+
+            {{- /* Determine if any article sections exist */}}
+            {{- $article := or (ne $videos "") (or (ne $transcriptions "") (or (ne $reviews "") (ne $sales ""))) -}}
+            {{- /* We'll treat gallery separately for UI */ -}}
         {{- end -}}
 
 
@@ -92,7 +96,7 @@
                 {{- if $article -}}
                     <button class="article-button" data-target="section-article">Article</button>
                 {{- end -}}
-                {{- if ne $gallery "" -}}
+                {{- if $galleryHasContent -}}
                     <button class="article-button" data-target="section-gallery">Gallery</button>
                 {{- end -}}
                 {{- if ne $videos "" -}}
@@ -146,10 +150,10 @@
             {{ partial "related-usage-table.html" . }}
             {{- partial "display-citations.html" . -}}
         </div>
-        {{- if ne $gallery "" -}}
-        <div id="section-gallery" class="article-section">
-            {{- $gallery -}}
-        </div>
+        {{- if $galleryHasContent -}}
+            <div id="section-gallery" class="article-section">
+            {{- partial "display-gallery.html" . -}}
+            </div>
         {{- end -}}
         <div id="section-videos" class="article-section">
         {{- if ne $videos "" -}}

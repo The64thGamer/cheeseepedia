@@ -27,7 +27,6 @@
       {{- $photo := .item -}}
       <div class="gallery-image-box">
         {{- $thumb := $photo.Params.title | default $photo.Title -}}
-        {{- /* Cache render per filename */ -}}
         {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
       </div>
     {{- end -}}

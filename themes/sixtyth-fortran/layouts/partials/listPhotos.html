@@ -23,7 +23,7 @@
     {{- range $paginator.Pages -}}
         <div class="gallery-image-box">
           {{- $thumb := default "" .Title -}}
-          {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "no-css-file-link") $thumb }}
+          {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" "default") $thumb }}
         </div>
     {{- end -}}
   </div>
