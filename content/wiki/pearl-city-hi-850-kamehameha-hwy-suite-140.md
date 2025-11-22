@@ -1,16 +1,16 @@
 +++
 title = "Pearl City, HI (850 Kamehameha Hwy Suite 140)"
-storeNumber = ""
-startDate = "1994-12-00"
+storeNumber = "3194"
+startDate = "1994-11-00"
 endDate = "2025-08-10"
 cuDate = ""
 remodels = []
 stages = []
-franchisees = []
+franchisees = [Entertainment America Inc.]
 attractions = []
 sqft = ""
 latitudeLongitude = ["21.39289232", "-157.9703228"]
-citations = []
+citations = ["https://www.instagram.com/tj_sumic/p/DCNu55fv36b/?img_index=2","https://labor.hawaii.gov/wdd/files/2025/06/June-9-2025-Entertainment-America-Inc._Chuck-E.-Cheese-Pearl-City.pdf#:~:text=But%20a%20y%3A%202025%20Entertainment%20America%2C%20Inc.%20will,HI%2096782%20on%20or%20after%20August%2010%2C%202025","https://www.instagram.com/3vie23/reel/BIyupQ0Dbwq/","https://www.instagram.com/kaipoboy58/p/BJWCFnqjojW/","https://www.instagram.com/p/2M9Fpdgrn_/","https://www.youtube.com/watch?v=L8TIAubmibs","https://www.youtube.com/watch?v=asZXUIz1mPg","https://www.youtube.com/watch?v=lwDfSaGghBU","https://www.youtube.com/watch?v=U37WSpDQNLY","https://www.instagram.com/p/Bv_BUvgDTEc/?img_index=2","https://www.youtube.com/watch?v=13wTy2s4l30","https://www.instagram.com/p/BWmC_iCAG9M/","https://www.instagram.com/p/BytrfvcBuT2/?img_index=1","https://www.khon2.com/coronavirus/chuck-e-cheese-reopens-in-pearl-city/","https://www.instagram.com/p/C_WQ4A3Sz0X/?img_index=1","https://www.youtube.com/watch?v=VzOEHQ289K0","https://www.instagram.com/p/C03iUXquFx7/?img_index=1","https://www.kitv.com/video/news/chuck-e-cheese-closes-its-doors-in-pearl-city-in-august/video_33cbdd33-86b1-5226-afd5-a4d0310b9c57.html","https://alohastatedaily.com/2025/08/06/pearl-citys-chuck-e-cheese-auction-underway/","https://estatesales.org/estate-sales/hi/pearl-city/96782/cheese-e-chuck-sale-ctbids-2392727/gallery?page=2"]
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "trkhusTQjKRVt_rMQLVm.avif"
@@ -18,3 +18,16 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false
 +++
+***Pearl City, HI (850 Kamehameha Hwy Suite 140)*** Opened in November 1994 as a Chuck E. Cheese's {{< cite 1 >}} This store was run by Entertainment America Inc. until it closed on August 10, 2025 as a Chuck E. Cheese's {{< cite 2 >}}.
+
+## History
+## 1990's - 2000's
+Pearl City would open in November 1994 with a {{< wiki-link "1-Stage" >}} w/ turntable During the 2000s the Chuck E. Cheese Cyberamic would have its Tuxedo replaced with the Cool Chuck attire. In 2009 Pearl City would renovate recieving the, {{< wiki-link "CEC 2000's Remodel Program" >}}.
+
+## 2010's
+Between September 2012 and March 2014 multiple records exist of the franchise playing Party Rock Anthem from {{< wiki-link "April 2012 Show" >}}{{< cite 7 >}}{{< cite 8 >}}{{< cite 9 >}}.
+On May 2, 2015 the store played {{< wiki-link "Cupid Shuffle 2012" >}} a live show that hadn't been in rotation since December 31, 2013{{< cite 5 >}}. As early as April 2016 Pearl City debuted a custom live show it would begin with {{< wiki-link "Do the Chuck E.!" >}}, followed by LITTLE EINSTEINS (OFFICIAL TRAP REMIX), Watch Me (Whip / Nae Nae), and lastly Party Rock Anthem (from {{< wiki-link "April 2012 Show" >}}){{< cite 6 >}}. In August 2016, the turntabled permanetly turned around and walled off with the Chuck E. Cheese Cyberamic to sit behind back stage {{< cite 3 >}} {{< cite 4 >}}. As late as July 6, 2017 Pearl City was still using "BIG WINNER" Vouchers from the 1990's{{< cite 12 >}}. The last known recording of the custom live show took place on April 10, 2019, it was rumored that CEC Entertainment had been notifyied around this time about these live shows and were forced to stop.{{< cite 10 >}} As early as January 2019 Pearl City purchased the {{< wiki-link "Munch Early Rockstar (Costume Outfit)" >}}, By June 2019 Pearl City purchased the {{< wiki-link "Helen Early Rockstar (Costume Outfit)" >}} and in September 2019 Pearl City purchased {{< wiki-link "Jasper Early Rockstar (Costume Outfit)" >}} and {{< wiki-link "Pasqually Early Rockstar (Costume Outfit)" >}} In 2019 a new custom live show debuted featuring Hit the Quan, KRYPTO9095 FT. D3MSTREET WOAH, Old Town Road, and lastly Party Rock Anthem (from {{< wiki-link "April 2012 Show" >}}) It's unknown how long this played. {{< cite 11 >}}
+## 2020's
+In March 2020 Pearl City would close due to COVID-19. The Chuck E. Cheese would attempt to reopen in August 2020 before running into problems shortly after. In November 2020 it would reopen to the public. {{< cite 13 >}}. In 2022 Munch was dressed up to become "DJ Munch" and the Chuck E. Cheese Fiber Optic sign was reinstalled between Munch and Jasper{{< cite 14 >}}. In late 2022 the DJ set-up around Munch would be removed but the headphones and Chuck E. Cheese Fiber Optic sign would {{< cite 15 >}}. By December 2023 the headphones would be removed from Mr. Munch {{< cite 16 >}}. In Early 2022 Pearl City would switch from tokens to Play Pass and in Early 2024 Pearl City switched over to E-Tickets disposing of the Ticket Munchers
+## Closure
+On June 4, 2025 in an internal document sent to the State of Hawaii Department of Labor it was stated that Entertainment America, Inc would cease operations of the Pearl City Chuck E. Cheese on August 10, 2025{{< cite 2 >}}. 8 days later on June 12, 2025 the first article regarding its closure would be announced {{< cite 16 >}} and on August 7, 2025 an article would release mentioning that Entertainment America Inc. would be auctioning off various fixtures and games from the Pearl City Chuck E. Cheese with the auction ending on August 11 and pick-up on August 13th {{< cite 17 >}} {{< cite 18 >}}. 
