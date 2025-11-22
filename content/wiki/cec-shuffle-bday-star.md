@@ -3,6 +3,7 @@ title = "CEC Shuffle / Bday Star"
 draft = false
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "chuckeshuffle94.avif"
 startDate = "1994-04-00"
 endDate = "2002-11-00"
 contributors = ["The 64th Gamer", ‘Ceclife13”]
