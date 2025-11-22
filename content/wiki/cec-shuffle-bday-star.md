@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "chuckeshuffle94.avif"
 startDate = "1994-04-00"
 endDate = "2002-11-00"
-contributors = ["The 64th Gamer", ‘Ceclife13”]
+contributors = ["The 64th Gamer", "Ceclife13”]
 citations = []
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Stephanie Nadolny - Voice of Helen Henny", "Doug Teel - Voice of Mr. Munch", "Reggie Smith - Voice of Jasper T. Jowls", "Joel McCrary - Voice of Pasqually The Chef"] showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"] alsoKnownAs = ["CEC Shuffle/Bday Star
 ver. 3-STG"]
