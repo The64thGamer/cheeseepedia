@@ -12,7 +12,7 @@ downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/January%20
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Chuck E.'s Variety Show** was a showtape initially released in January 2000, which played normally through March 2000. This show was considered generic and could be used as a backup show until January 2003.
+**Chuck E.'s Variety Show** was a showtape initially released in January 2000, which played normally through March 2000. This show was considered generic and could be used as a backup show until 2003.
 This show is primarily composed of material from 1997 to 1999, with a few intermissions from 1994 as well.
 
 ## Show List:
