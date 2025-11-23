@@ -4,14 +4,14 @@ storeNumber = "3194"
 startDate = "1994-11-00"
 endDate = "2025-08-10"
 cuDate = ""
-remodels = ["SPT 1990's Remodel Program|1994-11-00","Phase 1 (1994)|1994-11-00","Phase 2 (1997)|0000-00-00","Phase 3 (2000)|000-00-00","CEC 2000's Remodel Program|2009-00-00]
+remodels = ["SPT 1990's Remodel Program|1994-11-00","Phase 1 (1994)|1994-11-00","Phase 2 (1997)|0000-00-00","Phase 3 (2000)|000-00-00","CEC 2000's Remodel Program|2009-00-00"]
 stages = ["1-Stage|1994-11-00|2025-08-10"]
-franchisees = [Entertainment America Inc.|1994-11-00|2025-08-10]
+franchisees = ["Entertainment America Inc.|1994-11-00|2025-08-10"]
 attractions = []
 sqft = ""
 latitudeLongitude = ["21.39289232", "-157.9703228"]
 citations = ["https://www.instagram.com/tj_sumic/p/DCNu55fv36b/?img_index=2","https://labor.hawaii.gov/wdd/files/2025/06/June-9-2025-Entertainment-America-Inc._Chuck-E.-Cheese-Pearl-City.pdf#:~:text=But%20a%20y%3A%202025%20Entertainment%20America%2C%20Inc.%20will,HI%2096782%20on%20or%20after%20August%2010%2C%202025","https://www.instagram.com/3vie23/reel/BIyupQ0Dbwq/","https://www.instagram.com/kaipoboy58/p/BJWCFnqjojW/","https://www.instagram.com/p/2M9Fpdgrn_/","https://www.youtube.com/watch?v=L8TIAubmibs","https://www.youtube.com/watch?v=asZXUIz1mPg","https://www.youtube.com/watch?v=lwDfSaGghBU","https://www.youtube.com/watch?v=U37WSpDQNLY","https://www.instagram.com/p/Bv_BUvgDTEc/?img_index=2","https://www.youtube.com/watch?v=13wTy2s4l30","https://www.instagram.com/p/BWmC_iCAG9M/","https://www.instagram.com/p/BytrfvcBuT2/?img_index=1","https://www.khon2.com/coronavirus/chuck-e-cheese-reopens-in-pearl-city/","https://www.instagram.com/p/C_WQ4A3Sz0X/?img_index=1","https://www.youtube.com/watch?v=VzOEHQ289K0","https://www.instagram.com/p/C03iUXquFx7/?img_index=1","https://www.kitv.com/video/news/chuck-e-cheese-closes-its-doors-in-pearl-city-in-august/video_33cbdd33-86b1-5226-afd5-a4d0310b9c57.html","https://alohastatedaily.com/2025/08/06/pearl-citys-chuck-e-cheese-auction-underway/","https://estatesales.org/estate-sales/hi/pearl-city/96782/cheese-e-chuck-sale-ctbids-2392727/gallery?page=2","Employee correspondence in Gallery"]
-animatronics = ["Chuck E. Cheese (Cyberamic)|1994-11-00|2016-08-00|Unknown|Destroyed.","Guest Star / Helen Henny (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.","Mr. Munch (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.","Pasqually (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.","Jasper T. Jowls (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.","Wink (Animatronic)|1994-11-00|2009-00-00|N/A|Destroyed."
+animatronics = ["Chuck E. Cheese (Cyberamic)|1994-11-00|2016-08-00|Unknown|Destroyed.","Guest Star / Helen Henny (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.","Mr. Munch (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.","Pasqually (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.","Jasper T. Jowls (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.","Wink (Animatronic)|1994-11-00|2009-00-00|N/A|Destroyed."]
 contributors = ["Cybersnout"]
 downloadLinks = []
 pageThumbnailFile = "trkhusTQjKRVt_rMQLVm.avif"
