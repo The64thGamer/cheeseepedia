@@ -19,54 +19,54 @@ Disclaimer: The segment list is currently incomplete, as it is unclear what the 
 
 
 1.  Segment 1
-    1.  [What Are Little Boys Made Of?](https://en.wikipedia.org/wiki/What_Are_Little_Boys_Made_Of%3F)
-    2.  [Pop Goes The Weasel](https://en.wikipedia.org/wiki/Pop_Goes_the_Weasel)
-    3.  [Talk to the Animals](https://en.wikipedia.org/wiki/Talk_to_the_Animals)
-    4.  [Kids - Bye Bye Birdie](https://en.wikipedia.org/wiki/Bye_Bye_Birdie)
+    1.  ['What Are Little Boys Made Of?'](https://en.wikipedia.org/wiki/What_Are_Little_Boys_Made_Of%3F)
+    2.  ['Pop Goes The Weasel'](https://en.wikipedia.org/wiki/Pop_Goes_the_Weasel)
+    3.  ['Talk to the Animals'](https://en.wikipedia.org/wiki/Talk_to_the_Animals)
+    4.  ['Bye Bye Birdie'](https://en.wikipedia.org/wiki/Bye_Bye_Birdie)
 2.  Segment 2
-    1.  [Rock Around the Clock](https://en.wikipedia.org/wiki/Rock_Around_the_Clock)
-    2.  [Hound Dog](https://en.wikipedia.org/wiki/Hound_Dog_(song))
-    3.  [Yakkity Yak](https://en.wikipedia.org/wiki/Yakkity_Yak)
-    4.  [Peggy Sue](https://en.wikipedia.org/wiki/Peggy_Sue)
-    5.  [Shake, Rattle and Roll](https://en.wikipedia.org/wiki/Shake,_Rattle_and_Roll)
-    6.  <https://en.wikipedia.org/wiki/Rock_and_Roll_Is_Here_to_Stay> [Rock and Roll Is Here to Stay](https://en.wikipedia.org/wiki/Shake,_Rattle_and_Roll)
-3.  Segment 4
-    1.  [Sentimental Journey](https://en.wikipedia.org/wiki/Sentimental_Journey_(song))
-    2.  [Boogie Woogie Bugle Boy](https://en.wikipedia.org/wiki/Boogie_Woogie_Bugle_Boy)
-    3.  [In the Mood](https://en.wikipedia.org/wiki/In_the_Mood)
-4.  Segment 5
-    1.  [The Shiek of Araby](https://en.wikipedia.org/wiki/The_Sheik_of_Araby)
-    2.  [I Wanna Be Loved By You](https://en.wikipedia.org/wiki/I_Wanna_Be_Loved_by_You)
-    3.  [Hey! Mr. Banjo](https://en.wikipedia.org/wiki/The_Sunnysiders)
-    4.  [Ain't She Sweet](https://en.wikipedia.org/wiki/Ain%27t_She_Sweet)
-    5.  [Sweet Georgia Brown](https://en.wikipedia.org/wiki/Sweet_Georgia_Brown)
-    6.  [Charleston](https://en.wikipedia.org/wiki/Charleston_(song))
-5.  Segment 6
-    1.  [You Oughta Be in Pictures](https://en.wikipedia.org/wiki/You_Oughta_Be_in_Pictures)
-    2.  [Singin' in the Rain](https://en.wikipedia.org/wiki/Singin%27_in_the_Rain)
-    3.  [Zip-a-Dee-Doo-Dah](https://en.wikipedia.org/wiki/Zip-a-Dee-Doo-Dah)
-    4.  [South Rampart Street Parade - Ray Bauduc](https://en.wikipedia.org/wiki/Rampart_Street#History)
-    5.  [Waiting for the Robert E. Lee](https://en.wikipedia.org/wiki/Waiting_for_the_Robert_E._Lee)
-    6.  [Basin Street Blues](https://en.wikipedia.org/wiki/Basin_Street_Blues)
-    7.  [When the Saints Go Marching In](https://en.wikipedia.org/wiki/When_the_Saints_Go_Marching_In)
-6.  Segment 7
-    1.  [Cabaret](https://en.wikipedia.org/wiki/Cabaret_(Cabaret_song))
-    2.  [Put On a Happy Face](https://en.wikipedia.org/wiki/Put_On_a_Happy_Face_(song))
-    3.  [Let Me Entertain You](https://en.wikipedia.org/wiki/Let_Me_Entertain_You_(Gypsy))
-    4.  [Hello, Dolly!](https://en.wikipedia.org/wiki/Hello,_Dolly!_(song))
-    5.  [Give My Regards to Broadway](https://en.wikipedia.org/wiki/Give_My_Regards_to_Broadway)
-7.  Segment 8
-    1.  [I Like Mountain Music - Roy Acuff](https://en.wikipedia.org/wiki/Roy_Acuff)
-    2.  [Feudin' and Fightin'](https://en.wikipedia.org/wiki/Feudin%27_and_Fightin%27)
-    3.  [Tennessee Waltz](https://en.wikipedia.org/wiki/Tennessee_Waltz)
-    4.  [Good Old Mountain Dew](https://en.wikipedia.org/wiki/Good_Old_Mountain_Dew)
-8.  Segment 9
-    1.  [Tumbling Tumbleweeds](https://en.wikipedia.org/wiki/Tumbling_Tumbleweeds)
-    2.  [Jingle Jangle Jingle](https://en.wikipedia.org/wiki/Jingle_Jangle_Jingle)
-    3.  [(Ghost) Riders in the Sky: A Cowboy Legend](https://en.wikipedia.org/wiki/(Ghost)_Riders_in_the_Sky:_A_Cowboy_Legend)
-    4.  [Ragtime Cowboy Joe](https://en.wikipedia.org/wiki/Ragtime_Cowboy_Joe)
-    5.  [Bad, Bad Leroy Brown](https://en.wikipedia.org/wiki/Bad,_Bad_Leroy_Brown)
-9.  Segment 10
+    1.  ['Rock Around the Clock'](https://en.wikipedia.org/wiki/Rock_Around_the_Clock)
+    2.  ['Hound Dog'](https://en.wikipedia.org/wiki/Hound_Dog_(song))
+    3.  ['Yakkity Yak'](https://en.wikipedia.org/wiki/Yakkity_Yak)
+    4.  ['Peggy Sue'](https://en.wikipedia.org/wiki/Peggy_Sue)
+    5.  ['Shake, Rattle and Roll'](https://en.wikipedia.org/wiki/Shake,_Rattle_and_Roll)
+    6.  ['Rock and Roll Is Here to Stay'](https://en.wikipedia.org/wiki/Shake,_Rattle_and_Roll)
+3.  Segment 3
+    1.  ['Sentimental Journey'](https://en.wikipedia.org/wiki/Sentimental_Journey_(song))
+    2.  ['Boogie Woogie Bugle Boy'](https://en.wikipedia.org/wiki/Boogie_Woogie_Bugle_Boy)
+    3.  ['In the Mood'](https://en.wikipedia.org/wiki/In_the_Mood)
+4.  Segment 4
+    1.  ['The Shiek of Araby'](https://en.wikipedia.org/wiki/The_Sheik_of_Araby)
+    2.  ['I Wanna Be Loved By You'](https://en.wikipedia.org/wiki/I_Wanna_Be_Loved_by_You)
+    3.  ['Hey! Mr. Banjo'](https://en.wikipedia.org/wiki/The_Sunnysiders)
+    4.  ['Ain't She Sweet'](https://en.wikipedia.org/wiki/Ain%27t_She_Sweet)
+    5.  ['Sweet Georgia Brown'](https://en.wikipedia.org/wiki/Sweet_Georgia_Brown)
+    6.  ['Charleston'](https://en.wikipedia.org/wiki/Charleston_(song))
+5.  Segment 5
+    1.  ['You Oughta Be in Pictures'](https://en.wikipedia.org/wiki/You_Oughta_Be_in_Pictures)
+    2.  ['Singin' in the Rain'](https://en.wikipedia.org/wiki/Singin%27_in_the_Rain)
+    3.  ['Zip-a-Dee-Doo-Dah'](https://en.wikipedia.org/wiki/Zip-a-Dee-Doo-Dah)
+    4.  ['South Rampart Street Parade - Ray Bauduc'](https://en.wikipedia.org/wiki/Rampart_Street#History)
+    5.  ['Waiting for the Robert E. Lee'](https://en.wikipedia.org/wiki/Waiting_for_the_Robert_E._Lee)
+    6.  ['Basin Street Blues'](https://en.wikipedia.org/wiki/Basin_Street_Blues)
+    7.  ['When the Saints Go Marching In'](https://en.wikipedia.org/wiki/When_the_Saints_Go_Marching_In)
+6.  Segment 6
+    1.  ['Cabaret'](https://en.wikipedia.org/wiki/Cabaret_(Cabaret_song))
+    2.  ['Put On a Happy Face'](https://en.wikipedia.org/wiki/Put_On_a_Happy_Face_(song))
+    3.  ['Let Me Entertain You'](https://en.wikipedia.org/wiki/Let_Me_Entertain_You_(Gypsy))
+    4.  ['Hello, Dolly!'](https://en.wikipedia.org/wiki/Hello,_Dolly!_(song))
+    5.  ['Give My Regards to Broadway'](https://en.wikipedia.org/wiki/Give_My_Regards_to_Broadway)
+7.  Segment 7
+    1.  ['I Like Mountain Music - Roy Acuff'](https://en.wikipedia.org/wiki/Roy_Acuff)
+    2.  ['Feudin' and Fightin''](https://en.wikipedia.org/wiki/Feudin%27_and_Fightin%27)
+    3.  ['Tennessee Waltz'](https://en.wikipedia.org/wiki/Tennessee_Waltz)
+    4.  ['Good Old Mountain Dew'](https://en.wikipedia.org/wiki/Good_Old_Mountain_Dew)
+8.  Segment 8
+    1.  ['Tumbling Tumbleweeds'](https://en.wikipedia.org/wiki/Tumbling_Tumbleweeds)
+    2.  ['Jingle Jangle Jingle'](https://en.wikipedia.org/wiki/Jingle_Jangle_Jingle)
+    3.  ['(Ghost) Riders in the Sky: A Cowboy Legend'](https://en.wikipedia.org/wiki/(Ghost)_Riders_in_the_Sky:_A_Cowboy_Legend)
+    4.  ['Ragtime Cowboy Joe'](https://en.wikipedia.org/wiki/Ragtime_Cowboy_Joe)
+    5.  ['Bad, Bad Leroy Brown'](https://en.wikipedia.org/wiki/Bad,_Bad_Leroy_Brown)
+9.  Segment 9
     1.  Outro Skit
 10.  Special 1
     1.  Birthday - Happiness is
@@ -78,16 +78,16 @@ Disclaimer: The segment list is currently incomplete, as it is unclear what the 
 12.  Special 3
     1.  Happy-Happy Birthday
 13.  Special 4
-    1.  Cheer-Trumpets
+    1.  Cheer - Trumpets
 14.  Special 5
     1.  Pasqually's Chuck E. Intro (Oink IV)
 15.  Special 6
-        1.  Christmas Medley (Oink IV)
-        2.  [The Christmas Song](https://en.wikipedia.org/wiki/The_Christmas_Song)
-        3.  [Jingle Bells](https://en.wikipedia.org/wiki/Jingle_Bells)
-        4.  [Silver Bells](https://en.wikipedia.org/wiki/Silver_Bells)
-        5.  [We Need a Little Christmas](https://en.wikipedia.org/wiki/We_Need_a_Little_Christmas)
-        6.  [White Christmas](https://en.wikipedia.org/wiki/White_Christmas_(film))
+    1.  Christmas Medley (Oink IV)
+        1.  ['The Christmas Song'](https://en.wikipedia.org/wiki/The_Christmas_Song)
+        2.  ['Jingle Bells'](https://en.wikipedia.org/wiki/Jingle_Bells)
+        3.  ['Silver Bells'](https://en.wikipedia.org/wiki/Silver_Bells)
+        4.  ['We Need a Little Christmas'](https://en.wikipedia.org/wiki/We_Need_a_Little_Christmas)
+        5.  ['White Christmas'](https://en.wikipedia.org/wiki/White_Christmas_(film))
 
 ## Trivia
 
