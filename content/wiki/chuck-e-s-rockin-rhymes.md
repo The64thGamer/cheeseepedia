@@ -72,7 +72,7 @@ The show is notable for having only one song per segment (similar to Chuck E's V
 #### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ APRIL 2001 "CHUCK E'S ROCKIN' RHYMES" SHOW UPDATE FINISHED
+" APRIL 2001 "CHUCK E'S ROCKIN' RHYMES" SHOW UPDATE FINISHED
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER"
 
 ## Live Shows:

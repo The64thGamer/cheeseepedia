@@ -5,7 +5,7 @@ contributors = ["Luigigamin212"]
 +++
 **Girl: (Voiceover)**
 
-So I said, “Let’s do lunch.”. Well, it seemed like a good idea at the time. I sure wish there was someplace I could take my friends where we all could have fun.
+So I said, "Let’s do lunch.". Well, it seemed like a good idea at the time. I sure wish there was someplace I could take my friends where we all could have fun.
 
 **Singers:**
 

@@ -106,7 +106,7 @@ categories = ["Chuck E. Cheese's"]
 #### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ HOLIDAY 2002 SHOW UPDATE FINISHED
+" HOLIDAY 2002 SHOW UPDATE FINISHED
  NEW BIRTHDAY SHOW IS INCLUDED!
  ALSO BRAND NEW HOLIDAY LIVE
  THIS SHOW IS GENERIC PLEASE KEEP FOR NEXT YEAR
@@ -116,7 +116,7 @@ A second version of the floppy was released soon after which fixed an audio dela
  LOOK FOR AN ALL NEW BEST OF SHOW IN JAN.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER".
 A third and final floppy was also released. When inserting the final version upgrade floppy, a message would appear on the screen saying
-“ HOLIDAY SHOW VERSION C UPDATE FINISHED.
+" HOLIDAY SHOW VERSION C UPDATE FINISHED.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
 
 ## Trivia:

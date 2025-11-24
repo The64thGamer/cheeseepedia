@@ -81,7 +81,7 @@ This show featured 4 segments with 8 songs and was the last show produced with J
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ SPRING 2004 SHOW UPDATE FINISHED.
+" SPRING 2004 SHOW UPDATE FINISHED.
  THIS SHOW IS VALID APRIL, MAY & JUNE 2004.
  PLEASE SEND YOUR JANUARY 2004 SHOW BACK TO THE SUPPORT CENTER.
  THIS UPDATE INCLUDES CYBRSTAR VERSION 1.30.

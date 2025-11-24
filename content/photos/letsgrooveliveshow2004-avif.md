@@ -4,4 +4,4 @@ pages = ["Let's Groove"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 +++
-Screenshot of “Let's Groove” live show
+Screenshot of "Let's Groove" live show

@@ -142,7 +142,7 @@ When Pasqually says polka
 
 **Pasqually:**
 
-When I say “polka” I mean it
+When I say "polka" I mean it
 
 **All: (Singing)**
 

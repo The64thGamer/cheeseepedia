@@ -84,7 +84,7 @@ CEC TV ID - 'Flashing Hand', CEC TV ID - 'Bubble Kids' and CEC TV ID - 'Digestio
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ APRIL 2006 SHOW UPDATE FINISHED.
+" APRIL 2006 SHOW UPDATE FINISHED.
  QUESTIONS? CALL MICHAEL HILL AT 972-258-5613.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
 

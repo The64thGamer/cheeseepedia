@@ -91,7 +91,7 @@ categories = ["Chuck E. Cheese's"]
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ JANUARY 2005 SHOW UPDATE FINISHED.
+" JANUARY 2005 SHOW UPDATE FINISHED.
  DO NOT PLAY UNTIL JANUARY 1ST, 2005.
  THIS SHOW IS VALID JANUARY, FEBRUARY & MARCH 2005.
  QUESTIONS? CALL 972-258-5613.

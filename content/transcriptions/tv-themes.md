@@ -665,7 +665,7 @@ Oooh it’s right on the tip of my beak!
 
 **Chuck E. Cheese:**
 
-I’ll give you a hint, “Hook em Dan-O!”
+I’ll give you a hint, "Hook em Dan-O!"
 
 **Helen Henny:**
 
@@ -679,7 +679,7 @@ Good memory Helen! And how bout this one?
 
 **Jasper T. Jowls:**
 
-That’s easy, he always walked into the picture and said “good evening”. That’s Alfred Hitchcock!
+That’s easy, he always walked into the picture and said "good evening". That’s Alfred Hitchcock!
 
 **Chuck E. Cheese:**
 

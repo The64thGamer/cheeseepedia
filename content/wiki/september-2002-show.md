@@ -83,7 +83,7 @@ This show featured 4 segments with 8 songs.
 #### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ SEPTEMBER 2002 SHOW UPDATE FINISHED
+" SEPTEMBER 2002 SHOW UPDATE FINISHED
  NEW BIRTHDAY SHOW IS INCLUDED!
  LOOK FOR AN ALL NEW HOLIDAY SHOW THIS YEAR!
  THANKS FOR ALL YOUR HARD WORK.

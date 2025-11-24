@@ -92,7 +92,7 @@ A lost song called 'Going On a Diet' was removed from the showtape before its re
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ SEPTEMBER 2004 SHOW UPDATE FINISHED.
+" SEPTEMBER 2004 SHOW UPDATE FINISHED.
  THIS SHOW IS VALID SEPTEMBER, OCTOBER & NOVEMBER 2004.
  HANG ON TO YOUR SUMMER SHOW TO PLAY AGAIN NEXT YEAR.
  THIS UPDATE INCLUDES CYBRSTAR VERSION 1.30.

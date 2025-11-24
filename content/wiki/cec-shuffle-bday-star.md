@@ -17,7 +17,7 @@ downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/CEC%2
 
 ## Summary
 
-At the 3-minute and 1-minute marks of the countdown, kids count down from ten until they reach the number of minutes until the live show, which an announcer then reads out. In between the announcements, footage of various pieces of CEC merch is shown. At the end of the countdown, kids are heard chanting Chuck E.’s name as he walks into the kitchen and tries to eat a pizza meant for the guests. A cast member then comes in and tells Chuck E. it’s showtime and adjusts his bowtie. As Chuck E. leaves the room, another cast member tells him to ‘break a leg”, which he finds confusing until it’s explained that it means good luck. Chuck E. then walks into the showroom, starting the live show. 
+At the 3-minute and 1-minute marks of the countdown, kids count down from ten until they reach the number of minutes until the live show, which an announcer then reads out. In between the announcements, footage of various pieces of CEC merch is shown. At the end of the countdown, kids are heard chanting Chuck E.’s name as he walks into the kitchen and tries to eat a pizza meant for the guests. A cast member then comes in and tells Chuck E. it’s showtime and adjusts his bowtie. As Chuck E. leaves the room, another cast member tells him to ‘break a leg", which he finds confusing until it’s explained that it means good luck. Chuck E. then walks into the showroom, starting the live show. 
 
 ## Live Show List:
 
@@ -28,5 +28,5 @@ At the 3-minute and 1-minute marks of the countdown, kids count down from ten un
 
 ## Live Trivia:
 
-- ‘Surfing” is reused from {{< wiki-link "You're a Star" >}}
+- ‘Surfing" is reused from {{< wiki-link "You're a Star" >}}
 

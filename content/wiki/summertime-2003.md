@@ -150,7 +150,7 @@ categories = ["Chuck E. Cheese's"]
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“  NEW SUMMER SHOW (USA VERSION) UPDATE FINISHED.
+"  NEW SUMMER SHOW (USA VERSION) UPDATE FINISHED.
  KEEP THIS SHOW TO PLAY AGAIN NEXT YEAR.
  HAVE A COOL SUMMER - DEPT. 18
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER.

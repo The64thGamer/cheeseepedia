@@ -76,7 +76,7 @@ categories = ["Chuck E. Cheese's"]
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ SEPTEMBER 2005 SHOW UPDATE FINISHED.
+" SEPTEMBER 2005 SHOW UPDATE FINISHED.
  QUESTIONS? CALL MICHAEL HILL AT 972-258-5613.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER." 
 A Version 2 of this show was released which added the Play-Doh spot. When inserting the Version 2 upgrade floppy, a message would appear on the screen saying " SEPTEMBER 2005 SHOW (VERSION 2) UPDATE COMPLETED.

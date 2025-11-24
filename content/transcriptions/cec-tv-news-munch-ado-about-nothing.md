@@ -1,5 +1,5 @@
 +++
-title = "CEC TV News “Munch ado about Nothing”"
+title = "CEC TV News "Munch ado about Nothing""
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
@@ -39,13 +39,13 @@ Chuck E, that’s *thinker*. Thinker!
 
 **Chuck E. Cheese:**
 
-Oh! Eh, sorry I mean uh- some see thoughts from a real *thinker*! Here’s “Munch ado about nothing”! 
+Oh! Eh, sorry I mean uh- some see thoughts from a real *thinker*! Here’s "Munch ado about nothing"! 
 
 **[Scene shifts to Munch sitting on a couch ]**
 
 **Mr. Munch:**
 
-Thank you Chuck E! And here’s some of the deep thoughts that I’ve been thinking on lately, do pearl onions come from oysters with bad breath? In the self check out lane, 10 items or less, can you push in a bunch a stuff if your name is Less? How come bald guys don’t spend more time at hair raising movies? And another thing, how come popcorn at the movies is so expensive when there’s gum under the seats for free? I’m Mister Munch and this is “Munch ado about nothing”! 
+Thank you Chuck E! And here’s some of the deep thoughts that I’ve been thinking on lately, do pearl onions come from oysters with bad breath? In the self check out lane, 10 items or less, can you push in a bunch a stuff if your name is Less? How come bald guys don’t spend more time at hair raising movies? And another thing, how come popcorn at the movies is so expensive when there’s gum under the seats for free? I’m Mister Munch and this is "Munch ado about nothing"! 
 
 **Chuck E. Cheese:**
 

@@ -93,7 +93,7 @@ categories = ["Chuck E. Cheese's"]
 - Studio C Floppy: 11/21/01 7:42am
 #### Studio C Floppy:
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ HOLIDAY 2001 SHOW UPDATE FINISHED
+" HOLIDAY 2001 SHOW UPDATE FINISHED
  THANKS FOR YOUR HARD WORK THIS YEAR...
  DEPT 18 WISHES YOU A GREAT HOLIDAY SEASON!
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER"

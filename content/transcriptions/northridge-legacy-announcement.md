@@ -69,7 +69,7 @@ What inspired this residency? And why Northridge?
 
 **Chuck E. Cheese:**
 
-Someone once told me: “go west young mouse!” So that’s exactly what we’re doing! 
+Someone once told me: "go west young mouse!" So that’s exactly what we’re doing! 
 
 **Jasper T. Jowls:**
 

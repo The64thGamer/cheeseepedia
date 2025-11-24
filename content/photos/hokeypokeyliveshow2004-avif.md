@@ -4,4 +4,4 @@ pages = ["Hokey Pokey"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 +++
-Screenshot of “Hokey Pokey” choreography video
+Screenshot of "Hokey Pokey" choreography video

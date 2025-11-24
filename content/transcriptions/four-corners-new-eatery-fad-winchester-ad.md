@@ -1,5 +1,5 @@
 +++
-title = "“Four Corners: New Eatery Fad” Winchester ad"
+title = ""Four Corners: New Eatery Fad" Winchester ad"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
@@ -93,7 +93,7 @@ Like what?
 
 **Chuck E. Cheese:**
 
-Like “Happy Birthday to you, Happy Birthday to you”, you get it?
+Like "Happy Birthday to you, Happy Birthday to you", you get it?
 
 **Warblettes:**
 
@@ -121,11 +121,11 @@ The children can then run off and play games, can be entertained with the animal
 
 **Narrator:**
 
-Chuck E. Cheese researchers say that the idea is very popular with workaholic dads, who are suffering from what they call “YEG”. Young executive guilt. When this guilt does drive dad into taking the kids out, guess who decides where they’ll go? 
+Chuck E. Cheese researchers say that the idea is very popular with workaholic dads, who are suffering from what they call "YEG". Young executive guilt. When this guilt does drive dad into taking the kids out, guess who decides where they’ll go? 
 
 **Gene Landrum:**
 
-In this country it’s primarily the child who’s making that decision because I think it’s the guilt orientation of dad being away, out of town on business, not spending enough time with the family and I happen to have a 4 year old and when she asks me “Hey dad, can I go to the Pizza Time Theatre?” Or McDonalds or whatever, yknow I uh- I have a tough time resisting that. 
+In this country it’s primarily the child who’s making that decision because I think it’s the guilt orientation of dad being away, out of town on business, not spending enough time with the family and I happen to have a 4 year old and when she asks me "Hey dad, can I go to the Pizza Time Theatre?" Or McDonalds or whatever, yknow I uh- I have a tough time resisting that. 
 
 **[Song: Funiculi, Funicula (Italia Mia - Mantovani)]**
 

@@ -86,7 +86,7 @@ This show is completely filmed in the DFW area.
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ SEPTEMBER 2003 SHOW UPDATE FINISHED.
+" SEPTEMBER 2003 SHOW UPDATE FINISHED.
 ECHO CYBERSTAR PROGRAM HAS ALSO BEEN UPGRADED TO VERSION 1.30
 ECHO QUESTIONS? CONCERNS? CALL 972-258-5613.
 ECHO REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER.".

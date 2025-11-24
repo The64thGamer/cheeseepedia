@@ -21,4 +21,4 @@ This big cheese is all heart.
 
 **Singers:**
 
-Smile America say “Chuck E. Cheese!”
+Smile America say "Chuck E. Cheese!"

@@ -55,17 +55,17 @@ The Arf Arf Association?
 
 **Jasper T. Jowls:**
 
-Anyway, this survey asked dogs several questions about cars. The first was “Why do dogs chase cars?”. 50% want to go for a ride, 30% want to be with the people inside the car, 15% want to bury the car in the backyard, and the other 5% had no opinion cause they were scratching fleas. 
+Anyway, this survey asked dogs several questions about cars. The first was "Why do dogs chase cars?". 50% want to go for a ride, 30% want to be with the people inside the car, 15% want to bury the car in the backyard, and the other 5% had no opinion cause they were scratching fleas. 
 
 **[Jasper scratches at his neck]**
 
-When asked “Why do dogs hang their heads out car windows?”, 60% of dogs said it was to get a nice breeze, 25% said it was so they could pretend to be Superman, 10% said because they thought they’d look silly with their tails sticking out the window, and the other 5% still had no opinion because they were scratching fleas. 
+When asked "Why do dogs hang their heads out car windows?", 60% of dogs said it was to get a nice breeze, 25% said it was so they could pretend to be Superman, 10% said because they thought they’d look silly with their tails sticking out the window, and the other 5% still had no opinion because they were scratching fleas. 
 
 **[Jasper scratches at his neck a little longer]**
 
 **Jasper T. Jowls:**
 
-And the final question was “Why don’t dogs drive cars?”.  50% of dogs said they’d rather go for a nice walk, 27% said “hey, where do I have to go? I’m a dog!”, 18% said it was hard enough getting a dog license let alone a drivers license, and the last 5%, oh- 
+And the final question was "Why don’t dogs drive cars?".  50% of dogs said they’d rather go for a nice walk, 27% said "hey, where do I have to go? I’m a dog!", 18% said it was hard enough getting a dog license let alone a drivers license, and the last 5%, oh- 
 
 **[Jasper starts to scratch at his neck even more]**
 
@@ -105,7 +105,7 @@ Oh.
 
 **Helen Henny:**
 
-Hm, anyway, the group has come up with a new bumper sticker that says “ you’re not being chicken when you buck- buck- buckle up!” Buck- buck- buckle up, get it? Hahaha.
+Hm, anyway, the group has come up with a new bumper sticker that says " you’re not being chicken when you buck- buck- buckle up!" Buck- buck- buckle up, get it? Hahaha.
 
 **Chuck E. Cheese:**
 

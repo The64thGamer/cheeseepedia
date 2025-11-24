@@ -4,4 +4,4 @@ pages = ["Them Bones (Chucktober)"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 +++
-Screenshot of “Them Bones” live show
+Screenshot of "Them Bones" live show

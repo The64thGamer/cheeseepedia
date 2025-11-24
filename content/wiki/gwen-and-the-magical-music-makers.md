@@ -23,7 +23,7 @@ Sally Industries, fresh off the success of {{< wiki-link "Daniel and the Dixie D
 
 ### Configuration Options
 
-Similar to the “Mark Twain’s Showboat” variant of *Daniel and the Dixie Diggers,* Sally offered different configuration options for *Gwen and the Magical Music Makers*. If requested, clients could convert the Merlin with Oscar Owl (Host Set) stage to operate on a turntable with alternative acts on their reverse sides. This was never implemented at any Enchanted Castle store with an installation, but is outlined by Sally as follows:
+Similar to the "Mark Twain’s Showboat" variant of *Daniel and the Dixie Diggers,* Sally offered different configuration options for *Gwen and the Magical Music Makers*. If requested, clients could convert the Merlin with Oscar Owl (Host Set) stage to operate on a turntable with alternative acts on their reverse sides. This was never implemented at any Enchanted Castle store with an installation, but is outlined by Sally as follows:
 
 **Host Set** - Santa Claus, Easter Bunny, or other animatronic characters. {{< cite 1 >}}
 

@@ -79,7 +79,7 @@ categories = ["Chuck E. Cheese's"]
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ JANUARY 2006 SHOW UPDATE FINISHED.
+" JANUARY 2006 SHOW UPDATE FINISHED.
  QUESTIONS? CALL MICHAEL HILL AT 972-258-5613.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
 

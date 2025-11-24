@@ -19,19 +19,19 @@ It’s time for the Chuck E. Cheese news!
 
 **Chuck E. Cheese:**
 
-Well hello news watchers! Y’know before we start today I wanted to answer a question that lots of you have been asking. “Chuck E” you ask, “Why are you doing a news show on tv?”. Well the answers simple, see I used to be an old newspaper man. But it wasn’t working out you see, I just can’t make any money selling old newspapers. 
+Well hello news watchers! Y’know before we start today I wanted to answer a question that lots of you have been asking. "Chuck E" you ask, "Why are you doing a news show on tv?". Well the answers simple, see I used to be an old newspaper man. But it wasn’t working out you see, I just can’t make any money selling old newspapers. 
 
 **[Newspapers crash as they land on the floor]**
 
 **Chuck E. Cheese:**
 
-And now let us go directly to this special live story from Helen Henny on “Hen on The Street”.
+And now let us go directly to this special live story from Helen Henny on "Hen on The Street".
 
 **[Scene shifts to Helen standing on the street]**
 
 **Helen Henny:**
 
-Thank you Chuck E! The news here on the street is that it would be much safer to be on the sidewalk! Oh, you boys and girls should especially remember these rules about the streets: never go into the street chasing a toy or pet, always remember to stop look and listen for cars, only cross streets at the corners, and if there’s not a stop light that tells you when to cross, make sure you have a grown up help you! This is Helen Henny, your “Hen on The Street”, getting off the street right now, woah! 
+Thank you Chuck E! The news here on the street is that it would be much safer to be on the sidewalk! Oh, you boys and girls should especially remember these rules about the streets: never go into the street chasing a toy or pet, always remember to stop look and listen for cars, only cross streets at the corners, and if there’s not a stop light that tells you when to cross, make sure you have a grown up help you! This is Helen Henny, your "Hen on The Street", getting off the street right now, woah! 
 
 **[Scene shifts back to Chuck]**
 

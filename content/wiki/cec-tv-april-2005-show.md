@@ -88,7 +88,7 @@ categories = ["Chuck E. Cheese's"]
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ APRIL 2005 SHOW UPDATE FINISHED.
+" APRIL 2005 SHOW UPDATE FINISHED.
  THIS SHOW IS VALID APRIL, MAY & JUNE 2005.
  QUESTIONS? CALL 972-258-5613.
  THIS UPDATE INCLUDES CYBRSTAR VERSION 1.31.

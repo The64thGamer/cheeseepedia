@@ -43,7 +43,7 @@ Thanks Pasqually, OW! Wow that was hot! What was the story Pasqually?
 
 **Pasqually:**
 
-“Man finds news story in pizza oven!”
+"Man finds news story in pizza oven!"
 
 **Chuck E. Cheese:**
 

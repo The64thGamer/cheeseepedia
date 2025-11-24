@@ -82,7 +82,7 @@ categories = ["Chuck E. Cheese's"]
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ JANUARY 2004 SHOW UPDATE FINISHED.
+" JANUARY 2004 SHOW UPDATE FINISHED.
  HAPPY NEW YEAR!
  KEEP YOUR HOLIDAY SHOW TO USE AGAIN IN DECEMBER 2004.
  THIS UPDATE INCLUDES CYBRSTAR VERSION 1.30

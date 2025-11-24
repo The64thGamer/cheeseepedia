@@ -5,15 +5,15 @@ contributors = ["Luigigamin212"]
 +++
 **Female Singer:**
 
-Smile America say “Chuck E. Cheese”
+Smile America say "Chuck E. Cheese"
 
-Smile America say “Chuck E. Cheese”
+Smile America say "Chuck E. Cheese"
 
 Food and games and all kinds of creatures
 
 For a taste of Pizza Time Theatre
 
-Smile America say “Chuck E. Cheese”! 
+Smile America say "Chuck E. Cheese"! 
 
 You can smile!
 
@@ -41,9 +41,9 @@ Help but smile!
 
 You can smile! 
 
-Smile America say “Chuck E. Cheese”
+Smile America say "Chuck E. Cheese"
 
-Smile America say “Chuck E. Cheese” 
+Smile America say "Chuck E. Cheese" 
 
 Food and games and all kinds of critters
 
@@ -55,7 +55,7 @@ Smile America
 
 Smile America 
 
-Smile America say “Chuck E. Cheese”
+Smile America say "Chuck E. Cheese"
 
 **Female singer:**
 

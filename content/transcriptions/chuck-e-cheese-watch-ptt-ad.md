@@ -65,4 +65,4 @@ Yeah, 30 seconds! And counting!
 
 **Female Singer:**
 
-Smile America say “Chuck E. Cheese”
+Smile America say "Chuck E. Cheese"

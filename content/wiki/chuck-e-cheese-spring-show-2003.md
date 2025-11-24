@@ -77,7 +77,7 @@ In this show, Chuck E.'s good friend Dr. Googleplex has discovered the secret to
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ SPRING 2003 SHOW (REGULAR ON HOLD VERSION) UPDATE FINISHED.
+" SPRING 2003 SHOW (REGULAR ON HOLD VERSION) UPDATE FINISHED.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
 
 

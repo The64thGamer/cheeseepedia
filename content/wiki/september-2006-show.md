@@ -82,7 +82,7 @@ CEC TV ID - 'Space Kids' was animated by Mike Michalski while working at Radical
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ SEPTEMBER 2006 SHOW UPDATE FINISHED.
+" SEPTEMBER 2006 SHOW UPDATE FINISHED.
  WARRANTY WILL EXPIRE ON 9/5/2006
  QUESTIONS? CALL MICHAEL HILL AT 972-258-5613.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER.

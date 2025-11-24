@@ -57,7 +57,7 @@ And all the people were singing
 
 **All: (Singing)**
 
-They said, "Na, na, na, na, na, na, na, na, na, na, na, na, na, na, na”
+They said, "Na, na, na, na, na, na, na, na, na, na, na, na, na, na, na"
 
 **Beach Bear: (Singing)**
 
@@ -99,7 +99,7 @@ And all the people were singing
 
 **All: (Singing)**
 
-They went, "Na, na, na, na, na, na, na, na, na, na, na, na, na, na, na”
+They went, "Na, na, na, na, na, na, na, na, na, na, na, na, na, na, na"
 
 **Beach Bear: (Singing)**
 
@@ -139,7 +139,7 @@ And all the people were singing
 
 **All: (Singing)**
 
-“Na, na, na, na, na, na, na, na, na, na, na, na, na, na, na”
+"Na, na, na, na, na, na, na, na, na, na, na, na, na, na, na"
 
 **All: (Singing)**
 
@@ -191,4 +191,4 @@ Yeeeeeeeaaaaaaah!
 
 **All: (Singing)**
 
-“Na, na, na, na, na, na, na, na, na, na, na, na, na, na, na”
+"Na, na, na, na, na, na, na, na, na, na, na, na, na, na, na"

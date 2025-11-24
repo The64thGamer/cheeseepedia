@@ -103,7 +103,7 @@ categories = ["Chuck E. Cheese's"]
 #### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ HOLIDAY SHOW 2003 UPDATE FINISHED (VERSION 1.03).
+" HOLIDAY SHOW 2003 UPDATE FINISHED (VERSION 1.03).
  THIS UPDATE INCLUDES CYBRSTAR VERSION 1.30
  QUESTIONS? CONCERNS? CALL 972-258-5613.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER.".

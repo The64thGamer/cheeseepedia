@@ -4,4 +4,4 @@ pages = ["Cupid Shuffle"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 +++
-Screenshot of “Cupid Shuffle” live show
+Screenshot of "Cupid Shuffle" live show
