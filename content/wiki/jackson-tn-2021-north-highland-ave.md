@@ -11,7 +11,7 @@ attractions = []
 animatronics = ["Chuck E. Cheese 16m (Animatronic)|2003-07-30|2025-11-23|Unknown|Unknown"]
 sqft = "7,400"
 latitudeLongitude = ["35.65531822","-88.8324472"]
-citations = ["https://www.newspapers.com/article/the-jackson-sun-chuck-e-cheese-jackson/184908859/","https://www.facebook.com/share/p/17ph5ggoBK/","https://www.newspapers.com/article/the-jackson-sun/38959649/","https://www.instagram.com/explore/locations/10548091/chuck-e-cheese/recent/","https://www.youtube.com/watch?v=e_auIC84vLQ","https://www.youtube.com/watch?v=6D8LvUzYg6M"]
+citations = ["https://www.newspapers.com/article/the-jackson-sun-chuck-e-cheese-jackson/184908859/","https://www.facebook.com/share/p/17ph5ggoBK/","https://www.newspapers.com/article/the-jackson-sun/38959649/","https://www.instagram.com/explore/locations/10548091/chuck-e-cheese/recent/","https://www.youtube.com/watch?v=e_auIC84vLQ","https://www.youtube.com/watch?v=6D8LvUzYg6M","Employee correpondance"]
 contributors = ["Cybersnout"]
 downloadLinks = []
 pageThumbnailFile = "ziveu743ofetjjh3.avif"
@@ -34,4 +34,6 @@ In 2012, Jackson would recieve the {{< wiki-link "CEC 2000's Remodel Program" >}
 March 2020 would mark the store's temporary closing due to COVID-19. As early as July 2020, the store would re-open.{{< cite 5 >}}.
 Between 2021 and 2022 the bluescreen would be painted black. Between 2023 and 2024 one of the TVs and one bar of lights above the former bluescreen would be removed.{{< cite 4 >}} The store would also be in the {{< wiki-link "Low Volume Store Initiative" >}} at some time with just the reduced hours portion.{{< cite 5 >}}
 
-In January 2025 the Trampoline Zone, Chuck E. Cheese and Mr. Munch Trampoline Zone posters would be installed{{< cite 6 >}}. On November 9, 2025 it would be announced on Facebook via 'What’s Happening In Jackson TN?' that the Jackson, TN Chuck E. Cheese's would be closing on November 23, 2025 it was stated '...the only way you can book a party is by going inside the store to speak with management since they can no longer book online or by phone'{{< cite 2 >}}
+In January 2025 the Trampoline Zone, Chuck E. Cheese and Mr. Munch Trampoline Zone posters would be installed{{< cite 6 >}}. In mid-late 2025, it would be reported that CEC Entertainment had sent employees to the location to take an inventory, alongside pictures of every single item in the store.{{< cite 7 >}}
+
+On November 9, 2025 it would be announced on Facebook via 'What’s Happening In Jackson TN?' that the Jackson, TN Chuck E. Cheese's would be closing on November 23, 2025 it was stated '...the only way you can book a party is by going inside the store to speak with management since they can no longer book online or by phone'{{< cite 2 >}} On the final day, before the store had even closed, artwork was being removed from the walls. Managers had also apparently gave items to fans visiting. It is unclear what items were given away, and what were sent into storage.{{< cite 7 >}}
