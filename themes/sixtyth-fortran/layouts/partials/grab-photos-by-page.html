@@ -1,52 +1,17 @@
-{{- /* layouts/partials/grab-photos-by-page.html
-     Returns a map: key -> slice of photo Page objects.
-     Call via: {{ $photosByPage := partialCached "grab-photos-by-page.html" . "photos-by-page-v1" }}
+{{- /*
+  grab-photos-by-page.html
+  Lightweight wrapper that returns the byPage index from build-photo-indexes.
+  Usage:
+    {{ $idx := partialCached "build-photo-indexes.html" .Site "photos-index-v1" }}
+    or
+    {{ $photosByPage := partialCached "grab-photos-by-page.html" .Site "photos-index-v1" }}
 */ -}}
 
-{{- /* cache key is passed as third arg to partialCached; here '.' is context */ -}}
-{{- /* inside this partial, '.' is the page or whatever you passed in; we rely on .Site */ -}}
-
-{{- $allPhotos := where .Site.RegularPages "Section" "photos" -}}
-{{- $map := dict -}}
-
-{{- range $i, $p := $allPhotos -}}
-  {{- /* list of wiki page titles this photo references */ -}}
-  {{- $pagesList := $p.Params.pages | default (slice) -}}
-
-  {{- if gt (len $pagesList) 0 -}}
-    {{- range $j, $pageTitle := $pagesList -}}
-
-      {{- /* build candidate keys for the wiki title */ -}}
-      {{- $cands := slice $pageTitle (urlize $pageTitle) (lower $pageTitle) (urlize (lower $pageTitle)) -}}
-
-      {{- /* also include this photo's own identifiers to make lookups robust */ -}}
-      {{- $cands = $cands | append $p.Title -}}
-      {{- if $p.Slug -}} {{- $cands = $cands | append $p.Slug -}} {{- end -}}
-      {{- if $p.File -}} {{- $cands = $cands | append ($p.File.BaseFileName | default "") -}} {{- end -}}
-
-      {{- /* deduplicate empty strings and add to map */ -}}
-      {{- range $k := $cands -}}
-        {{- if ne $k "" -}}
-          {{- $existing := index $map $k | default (slice) -}}
-          {{- $existing = $existing | append $p -}}
-          {{- $map = merge $map (dict $k $existing) -}}
-        {{- end -}}
-      {{- end -}}
-
-    {{- end -}}
-  {{- else -}}
-    {{- /* photo doesn't list pages — map under its own title/slug/basename */ -}}
-    {{- $selfKeys := slice $p.Title -}}
-    {{- if $p.Slug -}} {{- $selfKeys = $selfKeys | append $p.Slug -}} {{- end -}}
-    {{- if $p.File -}} {{- $selfKeys = $selfKeys | append ($p.File.BaseFileName | default "") -}} {{- end -}}
-    {{- range $k := $selfKeys -}}
-      {{- if ne $k "" -}}
-        {{- $existing := index $map $k | default (slice) -}}
-        {{- $existing = $existing | append $p -}}
-        {{- $map = merge $map (dict $k $existing) -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
+{{- /* normalize site context */ -}}
+{{- $site := .Site -}}
+{{- if not $site -}}
+  {{- $site = . -}}
 {{- end -}}
 
-{{- return $map -}}
+{{- $idx := partialCached "build-photo-indexes.html" $site "photos-index-v1" -}}
+{{- return (index $idx "byPage") -}}

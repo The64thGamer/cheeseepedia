@@ -1,5 +1,5 @@
 {{- /* layouts/partials/display-gallery-has-content.html */ -}}
-{{ $photosByPage := partialCached "grab-photos-by-page.html" . "photos-by-page-v1" }}
+{{ $photosByPage := partialCached "grab-photos-by-page.html" .Site "photos-by-page-v1" }}
 {{- $title := .Title | default "" -}}
 
 {{- $cands := slice $title (urlize $title) (lower $title) (urlize (lower $title)) -}}

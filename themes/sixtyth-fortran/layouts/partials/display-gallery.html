@@ -1,8 +1,5 @@
-{{- /* layouts/partials/display-gallery.html - optimized and uses DisplayPhoto.html as-is */ -}}
-
-{{- $title := .Title | default "" -}}
-{{ $photosByPage := partialCached "grab-photos-by-page.html" . "photos-by-page-v1" }}
-
+{{- $photosByPage := partialCached "grab-photos-by-page.html" .Site "photos-index-v1" -}}
+{{- $title := .Title -}}
 {{- $keys := slice $title (urlize $title) (lower $title) (urlize (lower $title)) -}}
 {{- if .Slug -}} {{- $keys = $keys | append .Slug -}} {{- else if .File -}} {{- $keys = $keys | append (.File.BaseFileName | default "") -}} {{- end -}}
 
@@ -18,9 +15,18 @@
 {{- end -}}
 
 {{- if gt (len $relevant) 0 -}}
-  {{- /* sort by startDate like before */ -}}
-  {{- $photosSlice := slice -}}
+  {{- /* Dedup (should be redundant now, but safe) */ -}}
+  {{- $uniq := slice -}}
   {{- range $p := $relevant -}}
+    {{- $exists := where $uniq "RelPermalink" $p.RelPermalink -}}
+    {{- if eq (len $exists) 0 -}}
+      {{- $uniq = $uniq | append $p -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* Sort & render (same as before) */ -}}
+  {{- $photosSlice := slice -}}
+  {{- range $p := $uniq -}}
     {{- $date := $p.Params.startDate | default "9999-99-99" -}}
     {{- $parts := split $date "-" -}}
     {{- $year := index $parts 0 | default "9999" -}}
@@ -35,9 +41,7 @@
     {{- range $photosSlice -}}
       {{- $photo := .item -}}
       <div class="gallery-image-box">
-        {{- /* pass .name as a string (photo.Title) and let your DisplayPhoto.html handle lookups via build-photo-indexes.html */ -}}
         {{- $name := $photo.Title | printf "%s" -}}
-        {{- /* cache key for DisplayPhoto can include name + mode so resized/cached outputs get reused */ -}}
         {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" "no-css-file-link") (printf "DisplayPhoto|%s|no-css-file-link" $name) -}}
       </div>
     {{- end -}}
