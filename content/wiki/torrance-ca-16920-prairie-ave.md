@@ -1,20 +1,23 @@
 +++
-title = "Torrance, CA (16920 Prairie Ave)"
-storeNumber = ""
-startDate = "1983-00-00"
-endDate = ""
 cuDate = ""
+draft = false
+title = "Torrance, CA (16920 Prairie Ave)"
+startDate = "Circa 1988"
+endDate = ""
+pageThumbnailFile = "niFpPBMmslKQECEIfKQP.avif"
+contributors = ["Californian Chuck "]
+citations = []
+storeNumber = ""
+sqft = ""
+attractions = []
+franchisees = []
 remodels = []
 stages = []
-franchisees = []
-attractions = []
-sqft = ""
-latitudeLongitude = ["33.87530502","-118.3446832"]
-citations = []
-contributors = []
 downloadLinks = []
-pageThumbnailFile = "niFpPBMmslKQECEIfKQP.avif"
+latitudeLongitude = ["33.87530502", "-118.3446832"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-draft = false
 +++
+
+
+![](4B1BC814-E6E6-4535-915C-44B882D568A3)
