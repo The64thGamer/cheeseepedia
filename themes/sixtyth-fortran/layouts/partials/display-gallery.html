@@ -1,16 +1,26 @@
-{{- $currentPageTitle := .Title -}}
+{{- /* layouts/partials/display-gallery.html - optimized and uses DisplayPhoto.html as-is */ -}}
 
-{{- /* Get reverse index: pageTitle -> []Pages */ -}}
-{{- $photosByPage := partialCached "grab-photos-by-page.html" "photos-by-page" -}}
+{{- $title := .Title | default "" -}}
+{{- $photosByPage := partialCached "grab-photos-by-page.html" "photos-by-page-v1" -}}
 
-{{- /* Get the photos for this page (slice of Page objects) */ -}}
-{{- $relevant := index $photosByPage $currentPageTitle | default (slice) -}}
+{{- $keys := slice $title (urlize $title) (lower $title) (urlize (lower $title)) -}}
+{{- if .Slug -}} {{- $keys = $keys | append .Slug -}} {{- else if .File -}} {{- $keys = $keys | append (.File.BaseFileName | default "") -}} {{- end -}}
+
+{{- $relevant := slice -}}
+{{- range $k := $keys -}}
+  {{- if ne $k "" -}}
+    {{- $list := index $photosByPage $k | default (slice) -}}
+    {{- if gt (len $list) 0 -}}
+      {{- $relevant = $list -}}
+      {{- break -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 
 {{- if gt (len $relevant) 0 -}}
-  {{- /* Build sortable slice with sort key derived from .Params.startDate */ -}}
+  {{- /* sort by startDate like before */ -}}
   {{- $photosSlice := slice -}}
-  {{- range $relevant -}}
-    {{- $p := . -}}
+  {{- range $p := $relevant -}}
     {{- $date := $p.Params.startDate | default "9999-99-99" -}}
     {{- $parts := split $date "-" -}}
     {{- $year := index $parts 0 | default "9999" -}}
@@ -19,16 +29,16 @@
     {{- $sortKey := printf "%04s%02s%02s" $year $month $day -}}
     {{- $photosSlice = $photosSlice | append (dict "item" $p "key" $sortKey) -}}
   {{- end -}}
-
   {{- $photosSlice = sort $photosSlice "key" -}}
 
   <div class="gallery">
     {{- range $photosSlice -}}
       {{- $photo := .item -}}
       <div class="gallery-image-box">
-        {{- $thumb := $photo.Title -}}
-        {{- $mode := "default" -}}
-        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
+        {{- /* pass .name as a string (photo.Title) and let your DisplayPhoto.html handle lookups via build-photo-indexes.html */ -}}
+        {{- $name := $photo.Title | printf "%s" -}}
+        {{- /* cache key for DisplayPhoto can include name + mode so resized/cached outputs get reused */ -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" "no-css-file-link") (printf "DisplayPhoto|%s|no-css-file-link" $name) -}}
       </div>
     {{- end -}}
   </div>

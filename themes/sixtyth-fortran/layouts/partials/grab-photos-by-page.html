@@ -1,6 +1,56 @@
-{{- /* grab-photos-by-page.html
-     Returns the reverse index: pageTitle -> slice of photo Pages
-     Use partialCached to avoid recomputing.
+{{- /* layouts/partials/grab-photos-by-page.html
+     Returns a dict mapping normalized keys -> slice of photo Page objects.
+     Call via: {{ $photosByPage := partialCached "grab-photos-by-page.html" "photos-by-page-v1" }}
 */ -}}
-{{- $idx := partialCached "build-photo-indexes.html" "photos-index" -}}
-{{- return (index $idx "byPage") -}}
+
+{{- $cacheKey := . | default "photos-by-page-v1" -}}
+{{- $allPhotos := where .Site.RegularPages "Section" "photos" -}}
+{{- $map := dict -}}
+
+{{- /* helper that returns candidate lookup keys for a given title string */ -}}
+{{- $keysFor := func $title -> (slice) -}}
+  {{- $title = $title | default "" -}}
+  {{- $res := slice -}}
+  {{- if ne $title "" -}}
+    {{- $res = $res | append $title -}}
+    {{- $res = $res | append (urlize $title) -}}
+    {{- $res = $res | append (lower $title) -}}
+    {{- $res = $res | append (urlize (lower $title)) -}}
+  {{- end -}}
+  {{- return $res -}}
+{{- end -}}
+
+{{- range $i, $p := $allPhotos -}}
+  {{- $pagesList := $p.Params.pages | default (slice) -}}
+  {{- /* For each wiki page title the photo lists, map the photo under multiple normalized keys */ -}}
+  {{- if gt (len $pagesList) 0 -}}
+    {{- range $j, $pageTitle := $pagesList -}}
+      {{- $cands := $keysFor $pageTitle -}}
+      {{- /* Also include the photo page's own identifying keys as candidates so lookups are robust */ -}}
+      {{- $cands = $cands | append $p.Title -}}
+      {{- if $p.Slug -}} {{- $cands = $cands | append $p.Slug -}} {{- end -}}
+      {{- if $p.File -}} {{- $cands = $cands | append ($p.File.BaseFileName | default "") -}} {{- end -}}
+      {{- range $k := $cands -}}
+        {{- if ne $k "" -}}
+          {{- $existing := index $map $k | default (slice) -}}
+          {{- $existing = $existing | append $p -}}
+          {{- $map = merge $map (dict $k $existing) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- /* If photo doesn't list pages, optionally map it under its own title/slug for direct lookup */ -}}
+    {{- $selfKeys := $keysFor $p.Title -}}
+    {{- if $p.Slug -}} {{- $selfKeys = $selfKeys | append $p.Slug -}} {{- end -}}
+    {{- if $p.File -}} {{- $selfKeys = $selfKeys | append ($p.File.BaseFileName | default "") -}} {{- end -}}
+    {{- range $k := $selfKeys -}}
+      {{- if ne $k "" -}}
+        {{- $existing := index $map $k | default (slice) -}}
+        {{- $existing = $existing | append $p -}}
+        {{- $map = merge $map (dict $k $existing) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $map -}}
