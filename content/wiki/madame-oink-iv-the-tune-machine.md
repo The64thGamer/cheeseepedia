@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer","Steven 'CEC' Master","CyCGM","Ceclife13"]
 citations = []
 pageThumbnailFile = "d7OhTHVALagdQ5JeHF5j.avif"
 showtapeFormats = ["Cyberamics Reel"]
-alsoKnownAs = ["ASSY# 027-0057-10 SKIT-MO4-"THE TUNE MACHINE" WO# 1401225000 WO QTY 200 BUILT BY: REB DATE: 3-29-83"]
+alsoKnownAs = ["ASSY# 027-0057-10 SKIT-MO4-''THE TUNE MACHINE'' WO# 1401225000 WO QTY 200 BUILT BY: REB DATE: 3-29-83"]
 +++
 ***Madame Oink IV - The Tune Machine*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with the final appearance of guest star Madame Oink.
 
