@@ -1,7 +1,7 @@
 {{- /* layouts/partials/display-gallery.html - optimized and uses DisplayPhoto.html as-is */ -}}
 
 {{- $title := .Title | default "" -}}
-{{- $photosByPage := partialCached "grab-photos-by-page.html" "photos-by-page-v1" -}}
+{{ $photosByPage := partialCached "grab-photos-by-page.html" . "photos-by-page-v1" }}
 
 {{- $keys := slice $title (urlize $title) (lower $title) (urlize (lower $title)) -}}
 {{- if .Slug -}} {{- $keys = $keys | append .Slug -}} {{- else if .File -}} {{- $keys = $keys | append (.File.BaseFileName | default "") -}} {{- end -}}
