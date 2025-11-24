@@ -1,10 +1,11 @@
 {{- /*
-  build-photo-indexes.html (optimized)
-  - Reads static/photos once (readDir) to avoid repeated fileExists calls.
-  - Deduplicates entries added to byPage (by RelPermalink).
-  - Normalizes .Params.pages robustly like your original.
-  - Return dict {byTitle, byPath, byPage, meta}
-  Usage: call via partialCached with stable context/key, see notes.
+  build-photo-indexes.html (corrected — no func)
+  - Read static/photos once (readDir) to avoid repeated fileExists calls.
+  - Normalize .Params.pages inline.
+  - Deduplicate entries added to byPage (by RelPermalink).
+  - Returns dict {byTitle, byPath, byPage, meta}.
+  Usage: call via partialCached with stable context/key, e.g.:
+    {{ $idx := partialCached "build-photo-indexes.html" .Site "photos-index-v1" }}
 */ -}}
 
 {{- /* Normalize site context if caller passed . or .Site */ -}}
@@ -32,45 +33,18 @@
 {{- $byPage  := dict -}}
 {{- $meta    := dict -}}
 
-{{- /* helper: converts possibly nested .Params.pages into flat slice of strings */ -}}
-{{- $normalizePages := func ( $raw ) -}}
-  {{- $out := slice -}}
-  {{- if not $raw -}} {{- return $out -}} {{- end -}}
-  {{- $t := printf "%T" $raw -}}
-  {{- if in $t "string" -}}
-    {{- return (slice $raw) -}}
-  {{- else if in $t "[]" -}}
-    {{- range $el := $raw -}}
-      {{- $et := printf "%T" $el -}}
-      {{- if in $et "string" -}}
-        {{- $out = $out | append $el -}}
-      {{- else if in $et "[]" -}}
-        {{- range $inner := $el -}}
-          {{- $out = $out | append (printf "%v" $inner) -}}
-        {{- end -}}
-      {{- else -}}
-        {{- $out = $out | append (printf "%v" $el) -}}
-      {{- end -}}
-    {{- end -}}
-    {{- return $out -}}
-  {{- end -}}
-  {{- /* fallback */ -}}
-  {{- return (default (slice) $raw) -}}
-{{- end -}}
-
+{{- /* iterate photo pages */ -}}
 {{- range $photos -}}
   {{- $titleKey := .Title -}}
   {{- $filePathKey := .File.Path | default "" | printf "%s" -}}
 
-  {{- /* compute file existence & image URL using the static set */ -}}
+  {{- /* compute file existence & image URL using static set; try common extensions */ -}}
   {{- $fileName := $titleKey -}}
   {{- $hasFile := false -}}
   {{- if ne $fileName "" -}}
-    {{- /* static filenames are literal; also check common extensions if exact name not present */ -}}
     {{- if eq (index $staticSet $fileName) true -}}
       {{- $hasFile = true -}}
     {{- else -}}
-      {{- /* try with common extensions */ -}}
       {{- $exts := slice ".jpg" ".jpeg" ".png" ".webp" ".avif" ".gif" -}}
       {{- range $e := $exts -}}
         {{- $candidate := printf "%s%s" $fileName $e -}}
@@ -94,14 +68,37 @@
   {{- /* meta data map */ -}}
   {{- $meta = merge $meta (dict $titleKey (dict "imageURL" $imageURL "hasFile" $hasFile "fileName" $fileName)) -}}
 
-  {{- /* Normalize .Params.pages into a flat slice of strings */ -}}
-  {{- $pagesList := $normalizePages .Params.pages -}}
+  {{- /* Inline normalization of .Params.pages -> flat $pagesList (robust to string, slice, nested slices) */ -}}
+  {{- $pagesList := slice -}}
+  {{- $rawPages := .Params.pages -}}
+  {{- if $rawPages -}}
+    {{- $t := printf "%T" $rawPages -}}
+    {{- if in $t "string" -}}
+      {{- $pagesList = slice $rawPages -}}
+    {{- else if in $t "[]" -}}
+      {{- range $el := $rawPages -}}
+        {{- $et := printf "%T" $el -}}
+        {{- if in $et "string" -}}
+          {{- $pagesList = append $pagesList $el -}}
+        {{- else if in $et "[]" -}}
+          {{- range $inner := $el -}}
+            {{- $pagesList = append $pagesList (printf "%v" $inner) -}}
+          {{- end -}}
+        {{- else -}}
+          {{- /* fallback convert to string */ -}}
+          {{- $pagesList = append $pagesList (printf "%v" $el) -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else -}}
+      {{- /* fallback: try default conversion */ -}}
+      {{- $pagesList = default (slice) $rawPages -}}
+    {{- end -}}
+  {{- end -}}
 
-  {{- /* Merge into byPage, ensure dedup by RelPermalink */ -}}
+  {{- /* Merge into byPage, dedupe by RelPermalink */ -}}
   {{- range $p := $pagesList -}}
     {{- $pStr := printf "%s" $p -}}
     {{- $existing := default (slice) (index $byPage $pStr) -}}
-    {{- /* dedupe: only append if not already present (by RelPermalink) */ -}}
     {{- $already := where $existing "RelPermalink" .RelPermalink -}}
     {{- if eq (len $already) 0 -}}
       {{- $byPage = merge $byPage (dict $pStr (append $existing .)) -}}
