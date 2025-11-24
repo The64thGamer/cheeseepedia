@@ -1,5 +1,5 @@
 +++
-title = ""My Vacation" CEC ad"
+title = "'My Vacation' CEC ad"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

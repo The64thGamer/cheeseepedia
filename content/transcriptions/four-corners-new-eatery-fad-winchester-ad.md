@@ -1,5 +1,5 @@
 +++
-title = ""Four Corners: New Eatery Fad" Winchester ad"
+title = "'Four Corners: New Eatery Fad' Winchester ad"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
