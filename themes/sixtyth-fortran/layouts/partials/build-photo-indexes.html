@@ -1,42 +1,36 @@
 {{- /* layouts/partials/build-photo-indexes.html
-     Robust build of photo indexes.
-     - Uses .Site if available, otherwise the global `site`.
+     Robust index builder for photos.
+     - Always uses global `site` (safe regardless of partial context).
+     - Returns dict { "byTitle", "byPath", "byPage", "meta" }.
      - Dedupes by RelPermalink.
-     - Returns: dict "byTitle","byPath","byPage","meta"
-     Usage (recommended):
+     - Usage (cached): partialCached "build-photo-indexes.html" site "photos-index-v1"
 */ -}}
 
-{{- /* Resolve site context safely (works even when this partial is called with a dict as dot) */ -}}
-{{- $site := .Site -}}
+{{- /* Use the global site object so this partial never depends on the passed dot */ -}}
+{{- $site := site -}}
 {{- if not $site -}}
-  {{- $site = site -}}
-{{- end -}}
-
-{{- /* Defensive: if still nil, abort early to avoid nil-pointer errors */ -}}
-{{- if not $site -}}
-  {{- /* Return empty maps if no site (should not normally happen) */ -}}
+  {{- /* Extremely defensive: if global site is not set (unexpected), return empties */ -}}
   {{- return (dict "byTitle" (dict) "byPath" (dict) "byPage" (dict) "meta" (dict)) -}}
 {{- end -}}
 
-{{- /* Gather all photo pages */ -}}
+{{- /* find photo pages */ -}}
 {{- $photos := where $site.RegularPages "Section" "photos" -}}
 {{- $byTitle := dict -}}
 {{- $byPath  := dict -}}
 {{- $byPage  := dict -}}
 {{- $meta    := dict -}}
 
-{{- /* Iterate pages once and build maps */ -}}
+{{- /* Iterate photo pages and build indexes */ -}}
 {{- range $p := $photos -}}
   {{- $titleKey := $p.Title -}}
   {{- $filePathKey := $p.File.Path | default "" | printf "%s" -}}
 
-  {{- /* Determine file presence & URL: try exact name, then common extensions */ -}}
+  {{- /* Determine static file existence & image URL (tries common extensions) */ -}}
   {{- $fileName := $titleKey -}}
   {{- $hasFile := false -}}
   {{- if ne $fileName "" -}}
-    {{- /* check static/photos first (if static exists) */ -}}
-    {{- $cand := printf "static/photos/%s" $fileName -}}
-    {{- if fileExists $cand -}}
+    {{- $firstTry := printf "static/photos/%s" $fileName -}}
+    {{- if fileExists $firstTry -}}
       {{- $hasFile = true -}}
     {{- else -}}
       {{- $exts := slice ".jpg" ".jpeg" ".png" ".webp" ".avif" ".gif" -}}
@@ -52,7 +46,7 @@
   {{- end -}}
   {{- $imageURL := cond $hasFile (printf "/photos/%s" $fileName) "/UI/File Not Found.jpg" -}}
 
-  {{- /* store page refs */ -}}
+  {{- /* store byTitle and byPath */ -}}
   {{- $byTitle = merge $byTitle (dict $titleKey $p) -}}
   {{- if ne $filePathKey "" -}}
     {{- $byPath = merge $byPath (dict $filePathKey $p) -}}
@@ -61,7 +55,7 @@
   {{- /* store meta */ -}}
   {{- $meta = merge $meta (dict $titleKey (dict "imageURL" $imageURL "hasFile" $hasFile "fileName" $fileName)) -}}
 
-  {{- /* Normalize .Params.pages into a simple string slice (robust) */ -}}
+  {{- /* Normalize .Params.pages into a flat slice of strings (robust) */ -}}
   {{- $pagesList := slice -}}
   {{- $rawPages := $p.Params.pages -}}
   {{- if $rawPages -}}
@@ -86,7 +80,7 @@
     {{- end -}}
   {{- end -}}
 
-  {{- /* Merge into byPage and dedupe by RelPermalink */ -}}
+  {{- /* Merge into byPage with dedupe by RelPermalink */ -}}
   {{- range $pRef := $pagesList -}}
     {{- $key := printf "%s" $pRef -}}
     {{- $existing := index $byPage $key | default (slice) -}}
