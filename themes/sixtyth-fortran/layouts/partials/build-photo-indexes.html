@@ -21,7 +21,7 @@
     {{- /* dedupe by RelPermalink */ -}}
     {{- $found := where $existing "RelPermalink" $p.RelPermalink -}}
     {{- if eq (len $found) 0 -}}
-      {{- $byPage = merge $byPage (dict $title (append $existing $p))) -}}
+      {{- $byPage = merge $byPage (dict $title (append $existing $p)) -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
