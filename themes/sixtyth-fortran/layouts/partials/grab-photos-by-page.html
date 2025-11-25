@@ -1,9 +1,8 @@
-{{- /* layouts/partials/get-photos-for-page.html
-     Given a wiki article page, return the slice of photo Pages for that page.
-     Usage: partialCached "get-photos-for-page.html" .Site "photo-index-v1" then index by .Title
+{{- /* layouts/partials/grab-photos-by-page.html
+     Returns the byPage map from build-photo-indexes
+     Usage:
+       {{ $photosByPage := partialCached "grab-photos-by-page.html" site "photos-index-v1" }}
 */ -}}
 
-{{- $photoIndex := partialCached "build-photo-indexes.html" .Site "photo-index-v1" -}}
-{{- $title := .Title | printf "%s" -}}
-{{- $list := index $photoIndex $title | default (slice) -}}
-{{- return $list -}}
+{{- $idx := partialCached "build-photo-indexes.html" site "photos-index-v1" -}}
+{{- return (index $idx "byPage") -}}

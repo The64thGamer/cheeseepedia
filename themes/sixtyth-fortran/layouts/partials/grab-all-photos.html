@@ -2,5 +2,5 @@
      Backwards-compatible wrapper that returns the byTitle map (filename -> Page).
      Use partialCached when calling.
 */ -}}
-{{- $idx := partialCached "build-photo-indexes.html" .Site "photo-index-v1" -}}
+{{- $idx := partialCached "build-photo-indexes.html" site "photos-index-v1" -}}
 {{- return (index $idx "byTitle") -}}
