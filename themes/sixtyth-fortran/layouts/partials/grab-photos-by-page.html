@@ -1,17 +1,9 @@
-{{- /*
-  grab-photos-by-page.html
-  Lightweight wrapper that returns the byPage index from build-photo-indexes.
-  Usage:
-    {{ $idx := partialCached "build-photo-indexes.html" .Site "photos-index-v1" }}
-    or
-    {{ $photosByPage := partialCached "grab-photos-by-page.html" .Site "photos-index-v1" }}
+{{- /* layouts/partials/get-photos-for-page.html
+     Given a wiki article page, return the slice of photo Pages for that page.
+     Usage: partialCached "get-photos-for-page.html" .Site "photo-index-v1" then index by .Title
 */ -}}
 
-{{- /* normalize site context */ -}}
-{{- $site := .Site -}}
-{{- if not $site -}}
-  {{- $site = . -}}
-{{- end -}}
-
-{{- $idx := partialCached "build-photo-indexes.html" $site "photos-index-v1" -}}
-{{- return (index $idx "byPage") -}}
+{{- $photoIndex := partialCached "build-photo-indexes.html" .Site "photo-index-v1" -}}
+{{- $title := .Title | printf "%s" -}}
+{{- $list := index $photoIndex $title | default (slice) -}}
+{{- return $list -}}

@@ -1,49 +1,25 @@
-{{- $photosByPage := partialCached "grab-photos-by-page.html" .Site "photos-index-v1" -}}
-{{- $title := .Title -}}
-{{- $keys := slice $title (urlize $title) (lower $title) (urlize (lower $title)) -}}
-{{- if .Slug -}} {{- $keys = $keys | append .Slug -}} {{- else if .File -}} {{- $keys = $keys | append (.File.BaseFileName | default "") -}} {{- end -}}
+{{- /* layouts/partials/gallery.html
+     Renders a gallery for the current page (a wiki article) by looking up photos.
+*/ -}}
 
-{{- $relevant := slice -}}
-{{- range $k := $keys -}}
-  {{- if ne $k "" -}}
-    {{- $list := index $photosByPage $k | default (slice) -}}
-    {{- if gt (len $list) 0 -}}
-      {{- $relevant = $list -}}
-      {{- break -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
-
-{{- if gt (len $relevant) 0 -}}
-  {{- /* Dedup (should be redundant now, but safe) */ -}}
+{{- $photos := partialCached "get-photos-by-page.html" . "photo-index-v1" -}}
+{{- if gt (len $photos) 0 -}}
+  {{- /* Optionally dedupe again, just in case */ -}}
   {{- $uniq := slice -}}
-  {{- range $p := $relevant -}}
+  {{- range $p := $photos -}}
     {{- $exists := where $uniq "RelPermalink" $p.RelPermalink -}}
     {{- if eq (len $exists) 0 -}}
       {{- $uniq = $uniq | append $p -}}
     {{- end -}}
   {{- end -}}
 
-  {{- /* Sort & render (same as before) */ -}}
-  {{- $photosSlice := slice -}}
-  {{- range $p := $uniq -}}
-    {{- $date := $p.Params.startDate | default "9999-99-99" -}}
-    {{- $parts := split $date "-" -}}
-    {{- $year := index $parts 0 | default "9999" -}}
-    {{- $month := index $parts 1 | default "99" -}}
-    {{- $day := index $parts 2 | default "99" -}}
-    {{- $sortKey := printf "%04s%02s%02s" $year $month $day -}}
-    {{- $photosSlice = $photosSlice | append (dict "item" $p "key" $sortKey) -}}
-  {{- end -}}
-  {{- $photosSlice = sort $photosSlice "key" -}}
+  {{- /* Sort by date (if you have a date param) */ -}}
+  {{- $sorted := sort $uniq ".Params.startDate" -}}
 
   <div class="gallery">
-    {{- range $photosSlice -}}
-      {{- $photo := .item -}}
-      <div class="gallery-image-box">
-        {{- $name := $photo.Title | printf "%s" -}}
-        {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" "no-css-file-link") (printf "DisplayPhoto|%s|no-css-file-link" $name) -}}
-      </div>
+    {{- range $p := $sorted -}}
+      {{- /* Use your DisplayPhoto partial */ -}}
+      {{- partialCached "DisplayPhoto.html" (dict "name" $p.Title "mode" "no-css-file-link") (printf "DisplayPhoto|%s" $p.Title) -}}
     {{- end -}}
   </div>
 {{- end -}}
