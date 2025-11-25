@@ -15,7 +15,7 @@ Behavior:
 {{- $ctxMode := (.mode | default "default") | printf "%s" -}}
 
 {{- /* Load cached indexes/meta (cheap when cached) */ -}}
-{{- $idx := partialCached "build-photo-indexes.html" "photos-index" -}}
+{{- $idx := partialCached "build-photo-indexes.html" .Site "photo-index-v1" -}}
 {{- $byTitle := index $idx "byTitle" -}}
 {{- $byPath  := index $idx "byPath" -}}
 {{- $metaMap := index $idx "meta" -}}
