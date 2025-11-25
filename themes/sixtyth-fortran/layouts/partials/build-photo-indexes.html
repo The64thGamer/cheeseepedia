@@ -1,17 +1,22 @@
+{{- /* layouts/partials/build-photo-indexes.html */ -}}
+
 {{- $site := .Site -}}
+{{- if not $site -}}
+  {{- $site = . -}}
+{{- end -}}
 
 {{- $photos := where $site.RegularPages "Section" "photos" -}}
 {{- $byPage := dict -}}
 
 {{- range $p := $photos -}}
-  {{- $pageRefs := $p.Params.pages | default (slice) -}}
-  {{- /* Normalize pageRefs to a slice of strings */ -}}
-  {{- $normalized := slice -}}
-  {{- range $r := $pageRefs -}}
-    {{- $normalized = $normalized | append (printf "%s" $r) -}}
+  {{- $raw := $p.Params.pages | default (slice) -}}
+  {{- $pagesList := slice -}}
+  {{- /* normalize */ -}}
+  {{- range $v := $raw -}}
+    {{- $pagesList = $pagesList | append (printf "%s" $v) -}}
   {{- end -}}
 
-  {{- range $title := $normalized -}}
+  {{- range $title := $pagesList -}}
     {{- $existing := index $byPage $title | default (slice) -}}
     {{- /* dedupe by RelPermalink */ -}}
     {{- $found := where $existing "RelPermalink" $p.RelPermalink -}}
