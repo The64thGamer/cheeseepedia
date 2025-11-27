@@ -1,25 +1,31 @@
-{{- /* layouts/partials/gallery.html
-     Renders a gallery for the current page (a wiki article) by looking up photos.
+{{- /* layouts/partials/display-gallery.html
+     Renders a gallery for the current page using prebuilt data.
+     Each item in $photos is a plain map (not a Hugo Page).
 */ -}}
 
-{{- $photos := partialCached "get-photos-by-page.html" . "photo-index-v1" -}}
+{{- $photos := partial "get-photos-from-data.html" . -}}
 {{- if gt (len $photos) 0 -}}
-  {{- /* Optionally dedupe again, just in case */ -}}
+
+  {{- /* dedupe by name just in case */ -}}
+  {{- $seen := dict -}}
   {{- $uniq := slice -}}
-  {{- range $p := $photos -}}
-    {{- $exists := where $uniq "RelPermalink" $p.RelPermalink -}}
-    {{- if eq (len $exists) 0 -}}
+  {{- range $i, $p := $photos -}}
+    {{- $name := index $p "name" | default "" -}}
+    {{- if and (ne $name "") (not (index $seen $name)) -}}
+      {{- $seen = merge $seen (dict $name true) -}}
       {{- $uniq = $uniq | append $p -}}
     {{- end -}}
   {{- end -}}
 
-  {{- /* Sort by date (if you have a date param) */ -}}
-  {{- $sorted := sort $uniq ".Params.startDate" -}}
+  {{- /* Already sorted by startDate by the prebuild script — but if not, you can sort here. */ -}}
 
   <div class="gallery">
-    {{- range $p := $sorted -}}
-      {{- /* Use your DisplayPhoto partial */ -}}
-      {{- partialCached "DisplayPhoto.html" (dict "name" $p.Title "mode" "no-css-file-link") (printf "DisplayPhoto|%s" $p.Title) -}}
+    {{- range $i, $m := $uniq -}}
+      <div class="gallery-image-box">
+        {{- /* pass the canonical photo name string to your DisplayPhoto partial */ -}}
+        {{- $name := index $m "name" -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" "no-css-file-link") (printf "DisplayPhoto|%s|no-css-file-link" $name) -}}
+      </div>
     {{- end -}}
   </div>
 {{- end -}}

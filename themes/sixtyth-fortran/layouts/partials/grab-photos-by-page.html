@@ -1,8 +1,0 @@
-{{- /* layouts/partials/grab-photos-by-page.html
-     Returns the byPage map from build-photo-indexes
-     Usage:
-       {{ $photosByPage := partialCached "grab-photos-by-page.html" site "photos-index-v1" }}
-*/ -}}
-
-{{- $idx := partialCached "build-photo-indexes.html" site "photos-index-v1" -}}
-{{- return (index $idx "byPage") -}}

@@ -1,18 +1,16 @@
-{{- /* layouts/partials/display-gallery-has-content.html */ -}}
-{{ $photosByPage := partialCached "grab-photos-by-page.html" .Site "photos-by-page-v1" }}
-{{- $title := .Title | default "" -}}
+{{- /* layouts/partials/display-gallery-has-content.html
+     Returns true if there are photos for the current page.
+*/ -}}
 
-{{- $cands := slice $title (urlize $title) (lower $title) (urlize (lower $title)) -}}
-{{- if .Slug -}} {{- $cands = $cands | append .Slug -}} {{- else if .File -}} {{- $cands = $cands | append (.File.BaseFileName | default "") -}} {{- end -}}
-
-{{- range $c := $cands -}}
-  {{- if ne $c "" -}}
-    {{- $found := index $photosByPage $c -}}
-    {{- if and $found (gt (len $found) 0) -}}
-      true
-      {{- return -}}
-    {{- end -}}
-  {{- end -}}
+{{- $data := index .Site.Data "photos-by-page" -}}
+{{- if not $data -}}
+  {{- return "" -}}
 {{- end -}}
 
-{{- "" -}}
+{{- $title := .Title | default "" -}}
+{{- $list := index $data $title -}}
+{{- if and $list (gt (len $list) 0) -}}
+  true
+{{- else -}}
+  ""
+{{- end -}}

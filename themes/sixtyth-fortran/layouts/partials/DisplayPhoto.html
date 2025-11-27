@@ -1,105 +1,115 @@
-{{- /* layouts/partials/build-photo-indexes.html (robust, drop-in)
-     - Always uses global `site`.
-     - Ensures we always treat byPage entries as slices before appending.
-     - Dedupes by RelPermalink.
-     - Returns dict {byTitle, byPath, byPage, meta}.
-     Usage (cached): {{ $idx := partialCached "build-photo-indexes.html" site "photos-index-v1" }}
+{{- /* layouts/partials/DisplayPhoto.html — data-driven variant
+     Params:
+       .name  (string)
+       .mode  (string)
+     Behavior:
+       - Prefer metadata from data/photos-by-page.json (fast).
+       - Keeps modes identical to your existing partial.
 */ -}}
 
-{{- $site := site -}}
-{{- if not $site -}}
-  {{- return (dict "byTitle" (dict) "byPath" (dict) "byPage" (dict) "meta" (dict)) -}}
-{{- end -}}
+{{- $ctxName := (.name | default "") | printf "%s" -}}
+{{- $ctxMode := (.mode | default "default") | printf "%s" -}}
 
-{{- $photos := where $site.RegularPages "Section" "photos" -}}
-{{- $byTitle := dict -}}
-{{- $byPath  := dict -}}
-{{- $byPage  := dict -}}
-{{- $meta    := dict -}}
-
-{{- range $p := $photos -}}
-  {{- $titleKey := $p.Title -}}
-  {{- $filePathKey := $p.File.Path | default "" | printf "%s" -}}
-
-  {{- /* Determine static file existence & imageURL (try extensions) */ -}}
-  {{- $fileName := $titleKey -}}
-  {{- $hasFile := false -}}
-  {{- if ne $fileName "" -}}
-    {{- $firstTry := printf "static/photos/%s" $fileName -}}
-    {{- if fileExists $firstTry -}}
-      {{- $hasFile = true -}}
-    {{- else -}}
-      {{- $exts := slice ".jpg" ".jpeg" ".png" ".webp" ".avif" ".gif" -}}
-      {{- range $e := $exts -}}
-        {{- $try := printf "static/photos/%s%s" $fileName $e -}}
-        {{- if fileExists $try -}}
-          {{- $hasFile = true -}}
-          {{- $fileName = printf "%s%s" $fileName $e -}}
-          {{- break -}}
-        {{- end -}}
+{{- /* Build a lightweight meta map keyed by photo name from site.Data if present */ -}}
+{{- $metaMap := dict -}}
+{{- $dataIdx := index site.Data "photos-by-page" -}}
+{{- if $dataIdx -}}
+  {{- range $pageKey, $arr := $dataIdx -}}
+    {{- range $i, $m := $arr -}}
+      {{- $n := index $m "name" | default "" -}}
+      {{- if ne $n "" -}}
+        {{- /* store minimal meta fields we care about */ -}}
+        {{- $metaMap = merge $metaMap (dict $n (dict "imageURL" (index $m "imageURL") "hasFile" (index $m "hasFile") "fileName" (index $m "fileName") "startDate" (index $m "startDate"))) -}}
       {{- end -}}
-    {{- end -}}
-  {{- end -}}
-  {{- $imageURL := cond $hasFile (printf "/photos/%s" $fileName) "/UI/File Not Found.jpg" -}}
-
-  {{- /* store byTitle/byPath/meta */ -}}
-  {{- $byTitle = merge $byTitle (dict $titleKey $p) -}}
-  {{- if ne $filePathKey "" -}} {{- $byPath = merge $byPath (dict $filePathKey $p) -}} {{- end -}}
-  {{- $meta = merge $meta (dict $titleKey (dict "imageURL" $imageURL "hasFile" $hasFile "fileName" $fileName)) -}}
-
-  {{- /* Normalize .Params.pages into a simple slice of strings */ -}}
-  {{- $pagesList := slice -}}
-  {{- $rawPages := $p.Params.pages -}}
-  {{- if $rawPages -}}
-    {{- $t := printf "%T" $rawPages -}}
-    {{- if in $t "string" -}}
-      {{- $pagesList = slice $rawPages -}}
-    {{- else if in $t "[]" -}}
-      {{- range $el := $rawPages -}}
-        {{- $et := printf "%T" $el -}}
-        {{- if in $et "string" -}}
-          {{- $pagesList = append $pagesList $el -}}
-        {{- else if in $et "[]" -}}
-          {{- range $inner := $el -}}
-            {{- $pagesList = append $pagesList (printf "%v" $inner) -}}
-          {{- end -}}
-        {{- else -}}
-          {{- $pagesList = append $pagesList (printf "%v" $el) -}}
-        {{- end -}}
-      {{- end -}}
-    {{- else -}}
-      {{- $pagesList = default (slice) $rawPages -}}
-    {{- end -}}
-  {{- end -}}
-
-  {{- /* For each referenced wiki page, ensure byPage[key] is a slice then append if not duplicate */ -}}
-  {{- range $pRef := $pagesList -}}
-    {{- $key := printf "%s" $pRef -}}
-
-    {{- /* Load raw existing entry (may be nil, a Page, or a slice) */ -}}
-    {{- $existingRaw := index $byPage $key -}}
-
-    {{- /* Build a guaranteed slice `$existing` from `$existingRaw` */ -}}
-    {{- $existing := slice -}}
-    {{- if $existingRaw -}}
-      {{- $typeRaw := printf "%T" $existingRaw -}}
-      {{- if in $typeRaw "[]" -}}
-        {{- /* existingRaw is a slice — iterate and append elements to $existing */ -}}
-        {{- range $i, $el := $existingRaw -}}
-          {{- $existing = append $existing $el -}}
-        {{- end -}}
-      {{- else -}}
-        {{- /* single item — append it into our slice */ -}}
-        {{- $existing = append $existing $existingRaw -}}
-      {{- end -}}
-    {{- end -}}
-
-    {{- /* dedupe by RelPermalink */ -}}
-    {{- $already := where $existing "RelPermalink" $p.RelPermalink -}}
-    {{- if eq (len $already) 0 -}}
-      {{- $byPage = merge $byPage (dict $key (append $existing $p)) -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
 
-{{- return (dict "byTitle" $byTitle "byPath" $byPath "byPage" $byPage "meta" $meta) -}}
+{{- /* fallback: if metaMap empty and you still have build-photo-indexes partial, call it */ -}}
+{{- if (eq (len $metaMap) 0) -}}
+  {{- /* Optional fallback — remove if not needed */ -}}
+  {{- with (partialCached "build-photo-indexes.html" site "photos-index-v1") -}}
+    {{- $mm := index . "meta" -}}
+    {{- if $mm -}}
+      {{- range $k, $v := $mm -}}
+        {{- $metaMap = merge $metaMap (dict $k $v) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Lookup meta; defaults */ -}}
+{{- $imgURL := "/UI/File Not Found.jpg" -}}
+{{- $hasFile := false -}}
+{{- if ne $ctxName "" -}}
+  {{- $m := index $metaMap $ctxName -}}
+  {{- if $m -}}
+    {{- $imgURL = (index $m "imageURL") | default $imgURL -}}
+    {{- $hasFile = (index $m "hasFile") | default false -}}
+  {{- else -}}
+    {{- /* Fallback path — attempt static/photos/<name> */ -}}
+    {{- $imgURL = printf "/photos/%s" $ctxName -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* alt text */ -}}
+{{- $alt := $ctxName -}}
+{{- if eq $ctxName "" -}} {{- $alt = "File Not Found" -}} {{- end -}}
+
+{{- /* Decide canonical link URL (no page objects here) */ -}}
+{{- $linkURL := "#" -}}
+{{- if $hasFile -}}
+  {{- $linkURL = $imgURL -}}
+{{- end -}}
+
+{{- /* === Render according to mode (keeps your markup) === */ -}}
+{{- if eq $ctxMode "default" -}}
+  <div class="article-photo-image">
+    <a href="{{ $linkURL }}">
+      <img src="{{ $imgURL }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]" />
+    </a>
+  </div>
+  <div class="article-photo-description">
+    {{- /* No page Content available in data-driven mode, keep photo name as description */ -}}
+    {{- if ne $ctxName "" -}}
+      {{- $clean := replace $ctxName "_" " " | replaceRE "\\.(?i)(avif|jpg|jpeg|png|gif|webp)$" "" -}}
+      {{- $clean -}}
+    {{- else -}}
+      File Not Found
+    {{- end -}}
+  </div>
+
+{{- else if eq $ctxMode "no-css-file-link" -}}
+  <a href="{{ $linkURL }}">
+    <img data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $alt }}" />
+  </a>
+  <div class="article-photo-description">
+    {{- if ne $ctxName "" -}}{{ $ctxName }}{{- else -}}File Not Found{{- end -}}
+  </div>
+
+{{- else if eq $ctxMode "no-css-no-desc" -}}
+  <a href="{{ $linkURL }}">
+    <img data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $alt }}" />
+  </a>
+
+{{- else if eq $ctxMode "no-css" -}}
+  <a href="{{ $linkURL }}">
+    <img data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $alt }}" />
+  </a>
+  <div class="article-photo-description">
+    {{- if ne $ctxName "" -}}{{ $ctxName }}{{- else -}}File Not Found{{- end -}}
+  </div>
+
+{{- else if eq $ctxMode "no-link" -}}
+  <img src="{{ $imgURL }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]" />
+
+{{- else -}}
+  <div class="article-photo-image">
+    <a href="{{ $linkURL }}">
+      <img src="{{ $imgURL }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]" />
+    </a>
+  </div>
+  <div class="article-photo-description">
+    {{- if ne $ctxName "" -}}{{ $ctxName }}{{- else -}}File Not Found{{- end -}}
+  </div>
+{{- end -}}

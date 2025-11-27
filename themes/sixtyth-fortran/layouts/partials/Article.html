@@ -22,7 +22,7 @@
         {{- $sales = partialCached "display-sales.html" . -}}
 
         {{- /* Cheap existence check for gallery — cached */ -}}
-        {{- $galleryHasContent = partialCached "display-gallery-has-content.html" . -}}
+        {{- $galleryHasContent = partialCached "display-gallery-has-content.html" . "gallery-has-content-v1" -}}
 
         {{- /* Determine whether there is any non-gallery article content */ -}}
         {{- $article = or (ne $videos "") (or (ne $transcriptions "") (or (ne $reviews "") (ne $sales ""))) -}}
@@ -46,24 +46,29 @@
     <h1 data-pagefind-weight="10">{{- .Title | safeHTML -}}</h1>
 
 {{/* Photo Page */}}
-    {{- if eq $pageType "Photos" -}}
-        <div class="article-photo-thumbnail">
-            {{- $thumb := default "" .Title -}}
-            {{- $mode := "no-css-file-link" -}}
-            {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
-        </div>
+{{- if eq $pageType "Photos" -}}
+  <div class="article-photo-thumbnail">
+    {{- $thumb := default "" .Title -}}
+    {{- $mode := "no-css-file-link" -}}
+    {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
+  </div>
 
-        <h2>Tagged Articles</h2>
-        {{- $callerPages := .Params.pages -}}
-        {{- $pages := partialCached "grab-all-wiki-articles.html" "key"}}
-        {{- range $pages -}}
-            {{- $pageTitle := .Title}}
-            {{- if in $callerPages $pageTitle -}}
-                {{- partial "display-page-box.html" . -}}
-            {{- end -}}
-        {{- end -}}
-        {{- partial "display-citations.html" . -}}
+  <h2>Tagged Articles</h2>
+  {{- $callerPages := .Params.pages | default (slice) -}}
+  {{- /* Efficiently resolve each wiki title to a Page object and render display-page-box */ -}}
+  {{- $allWiki := where .Site.RegularPages "Section" "wiki" -}}
+  {{- range $i, $title := $callerPages -}}
+    {{- $matched := first 1 (where $allWiki "Title" $title) -}}
+    {{- if $matched -}}
+      {{- partial "display-page-box.html" (index $matched 0) -}}
+    {{- else -}}
+      <div class="missing-wiki">{{ $title }}</div>
     {{- end -}}
+  {{- end -}}
+
+  {{- partial "display-citations.html" . -}}
+{{- end -}}
+
 
 {{/* Video Page */}}
     {{- if eq $pageType "Videos" -}}
@@ -152,9 +157,9 @@
             {{- partial "display-citations.html" . -}}
         </div>
         {{- if $galleryHasContent -}}
-            <div id="section-gallery" class="article-section">
-                {{- partial "display-gallery.html" . -}}
-            </div>
+        <div id="section-gallery" class="article-section">
+            {{- partial "display-gallery.html" . -}}
+        </div>
         {{- end -}}
         <div id="section-videos" class="article-section">
         {{- if ne $videos "" -}}
