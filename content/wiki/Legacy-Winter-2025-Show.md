@@ -11,6 +11,124 @@ categories = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025.
 
+## Show List 11/21 Update:
+1. Intermission 1
+      1. Dippin Dots & Chuck E.’s Cookie Crunch
+      2.  Paris & Pups Episode 11: Cupcake Tower for Thanksliving!
+      3.  Harlem Globetrotters - ‘Way We Celebrate’
+      4.  Blippi - ‘Use Your Imagination’ 
+      5.  A Chuck E. Cheese Christmas Trailer
+      6.  KIDZ BOP Kids - ‘Manchild’ 
+      7.  Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
+      8.  Chuck E. Cheese - 'Fly Munch Fly'
+      9.  Chuck E., Jingle & Jangle - 'Holiday Traditions'
+      10.  My Chemical Romance - 'Every Snowflake Is Different' (Just Like You)
+      11.  Chuck E. & Friends - The Holiday Party (DJ Munch)
+      12.  KIDZ BOP Kids - 'Feliz Navidad'
+      13.  Bella & Chuck E. - 'Holiday Fiesta'
+      14.  Blue's Clues & You! - 'The Dreidel Song and Game'
+      15.  Jasper T. Jowls - 'Snowman' (2014)
+      16.  Mr. Munch - 'Zorp-Ah-Glorp Dor-Bah Is Coming Tonight'
+2. Skit 1
+      1. Chuck E. & Friends - 'Holiday Medley' (2020)
+3. Intermission 2
+      1.  KidzBop Live - The Concert Movie Trailer
+      2.  Chuck E. & Helen - 'Merry Christmastime (2016)
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'
+      4.  Pentatonix - '12 Days of Christmas'
+      5.  KIDZ BOP - 'Merry Christmas'
+      6.  Daveed Diggs - 'Puppy for Hanukkah'
+      7.  KIDZ BOP - 'All I Want for Christmas Is You' (ASL)
+      8.  Munch & Munch - 'The Windowsill'
+      9.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
+      10.  Chuck E. & Friends - 'Dogs in Sweaters'
+      11.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'    
+2. Skit 2
+      1. Helen Henny - 'All I Want for Christmas is Snow'
+3. Intermission 3
+      1.  A Chuck E. Cheese Christmas - 'What Would We Do Without Christmas'
+      2.  Chuck E. & Friends - 'Cookies for Santa' 
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
+      4.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      5.  Chuck E. & Friends - 'Share the Joy' (2014)
+
+## Lives 11/21 Update:
+1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+3. Chuck E.’s Yuletide Slide (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+4. Chuck E.’s Winner Wonder Dance (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+
+## Fireables 11/21 Update:
+1. Chuck E. & Friends - 'Share the Joy' (Legacy Navori)
+2. Helen Henny - 'All I Want for Christmas is Snow' (Legacy Navori)
+3. Chuck E. & Helen - 'Merry Christmastime' (Legacy Navori)
+4. Chuck E. & Friends - 'Cookies for Santa' (Legacy Navori)
+5. Chuck E. & Friends - 'Holiday Medley' (Legacy Navori)
+6. Jasper T. Jowls - 'Snowman' (Legacy Navori)
+7. Pasqually The Chef - 'What Do You Get a Sasquatch for Christmas?' (Legacy Navori)
+8. Chuck E. & Friends - 'The Holiday Party' (Legacy Navori)
+9. Chuck E. & Bella - 'Holiday Fiesta' (Legacy Navori)
+10. Chuck E. & Friends - 'Let's Play Some Games for the Holidays' (Legacy Navori)
+
+
+## Show List 11/20 Update:
+1. Intermission 1
+      1. Dippin Dots & Chuck E.’s Cookie Crunch
+      2.  Paris & Pups Episode 11: Cupcake Tower for Thanksliving!
+      3.  Harlem Globetrotters - ‘Way We Celebrate’
+      4.  Blippi - ‘Use Your Imagination’ 
+      5.  A Chuck E. Cheese Christmas Trailer
+      6.  KIDZ BOP Kids - ‘Manchild’ 
+      7.  Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
+      8.  Chuck E. Cheese - 'Fly Munch Fly'
+      9.  Chuck E., Jingle & Jangle - 'Holiday Traditions'
+      10.  My Chemical Romance - 'Every Snowflake Is Different' (Just Like You)
+      11.  Chuck E. & Friends - The Holiday Party (DJ Munch)
+      12.  KIDZ BOP Kids - 'Feliz Navidad'
+      13.  Bella & Chuck E. - 'Holiday Fiesta'
+      14.  Blue's Clues & You! - 'The Dreidel Song and Game'
+      15.  Jasper T. Jowls - 'Snowman' (2014)
+      16.  Mr. Munch - 'Zorp-Ah-Glorp Dor-Bah Is Coming Tonight'
+2. Skit 1
+      1. Chuck E. & Friends - 'Holiday Medley' (2020)
+3. Intermission 2
+      1.  Chuck E. & Helen - 'Merry Christmastime (2016)
+      2.  KIDZ BOP - 'Santa Claus Is Coming to Town'
+      3.  Pentatonix - '12 Days of Christmas'
+      4.  KIDZ BOP - 'Merry Christmas'
+      5.  Daveed Diggs - 'Puppy for Hanukkah'
+      6.  KIDZ BOP - 'All I Want for Christmas Is You' (ASL)
+      7.  Munch & Munch - 'The Windowsill'
+      8.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
+      9.  Chuck E. & Friends - 'Dogs in Sweaters'
+      10.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'    
+2. Skit 2
+      1. Helen Henny - 'All I Want for Christmas is Snow'
+3. Intermission 3
+      1.  A Chuck E. Cheese Christmas - 'What Would We Do Without Christmas'
+      2.  Chuck E. & Friends - 'Cookies for Santa' 
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
+      4.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      5.  Chuck E. & Friends - 'Share the Joy' (2014)
+
+## Lives 11/20 Update:
+1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+3. Chuck E.’s Yuletide Slide (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+4. Chuck E.’s Winner Wonder Dance (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
+
+## Fireables 11/20 Update:
+1. Chuck E. & Friends - 'Share the Joy' (Legacy Navori)
+2. Helen Henny - 'All I Want for Christmas is Snow' (Legacy Navori)
+3. Chuck E. & Helen - 'Merry Christmastime' (Legacy Navori)
+4. Chuck E. & Friends - 'Cookies for Santa' (Legacy Navori)
+5. Chuck E. & Friends - 'Holiday Medley' (Legacy Navori)
+6. Jasper T. Jowls - 'Snowman' (Legacy Navori)
+7. Pasqually The Chef - 'What Do You Get a Sasquatch for Christmas?' (Legacy Navori)
+8. Chuck E. & Friends - 'The Holiday Party' (Legacy Navori)
+9. Chuck E. & Bella - 'Holiday Fiesta' (Legacy Navori)
+10. Chuck E. & Friends - 'Let's Play Some Games for the Holidays' (Legacy Navori)
+
 
 ## Show List 11/17 Update:
 1. Intermission 1
@@ -42,14 +160,14 @@ categories = ["Chuck E. Cheese's"]
       7.  Munch & Munch - 'The Windowsill'
       8.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
       9.  Chuck E. & Friends - 'Dogs in Sweaters'
-      10.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
-      11.  Chuck E. & Friends - 'Cookies for Santa'     
+      10.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'    
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
-      1.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
-      2.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-      3.  Chuck E. & Friends - 'Share the Joy' (2014)
+      1.  Chuck E. & Friends - 'Cookies for Santa' 
+      2.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
+      3.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      4.  Chuck E. & Friends - 'Share the Joy' (2014)
 
 ## Lives 11/17 Update:
 1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
@@ -102,13 +220,13 @@ categories = ["Chuck E. Cheese's"]
       8.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
       9.  Chuck E. & Friends - 'Dogs in Sweaters'
       10.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
-      11.  Chuck E. & Friends - 'Cookies for Santa'     
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
-      1.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
-      2.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-      3.  Chuck E. & Friends - 'Share the Joy' (2014)
+      1.  Chuck E. & Friends - 'Cookies for Santa' 
+      2.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
+      3.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      4.  Chuck E. & Friends - 'Share the Joy' (2014)
 
 ## Lives 11/11 Update:
 1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
@@ -167,11 +285,12 @@ categories = ["Chuck E. Cheese's"]
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
-      1.  Olaf - 'That Time of Year'
-      2.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
-      2.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-      3.  Leslie Odom Jr. - 'Snow'
-      4.  Chuck E. & Friends - 'Share the Joy' (2014)
+      1.  Chuck E. & Friends - 'Cookies for Santa'
+      2.  Olaf - 'That Time of Year'
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
+      4.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      5.  Leslie Odom Jr. - 'Snow'
+      6.  Chuck E. & Friends - 'Share the Joy' (2014)
 
 ## Lives 11/10 Update:
 1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
@@ -229,11 +348,12 @@ categories = ["Chuck E. Cheese's"]
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
-      1.  Olaf - 'That Time of Year'
-      2.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
-      2.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-      3.  Leslie Odom Jr. - 'Snow'
-      4.  Chuck E. & Friends - 'Share the Joy' (2014)
+      1.  Chuck E. & Friends - 'Cookies for Santa'
+      2.  Olaf - 'That Time of Year'
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
+      4.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      5.  Leslie Odom Jr. - 'Snow'
+      6.  Chuck E. & Friends - 'Share the Joy' (2014)
 
 ## Lives 11/08 Update:
 1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
@@ -286,15 +406,15 @@ categories = ["Chuck E. Cheese's"]
       9.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
       10.  Chuck E. & Friends - 'Dogs in Sweaters'
       11.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
-      12.  Chuck E. & Friends - 'Cookies for Santa'     
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
-      1.  Olaf - 'That Time of Year'
-      2.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
-      2.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-      3.  Leslie Odom Jr. - 'Snow'
-      4.  Chuck E. & Friends - 'Share the Joy' (2014)
+      1.  Chuck E. & Friends - 'Cookies for Santa'
+      2.  Olaf - 'That Time of Year'
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
+      4.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      5.  Leslie Odom Jr. - 'Snow'
+      6.  Chuck E. & Friends - 'Share the Joy' (2014)
 
 ## Lives 11/07 Update:
 1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
@@ -346,15 +466,15 @@ categories = ["Chuck E. Cheese's"]
       9.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
       10.  Chuck E. & Friends - 'Dogs in Sweaters'
       11.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
-      12.  Chuck E. & Friends - 'Cookies for Santa'     
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
-      1.  Olaf - 'That Time of Year'
-      2.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
-      2.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-      3.  Leslie Odom Jr. - 'Snow'
-      4.  Chuck E. & Friends - 'Share the Joy' (2014)
+      1.  Chuck E. & Friends - 'Cookies for Santa'
+      2.  Olaf - 'That Time of Year'
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
+      4.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      5.  Leslie Odom Jr. - 'Snow'
+      6.  Chuck E. & Friends - 'Share the Joy' (2014)
 
 ## Lives 11/06 Update:
 1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
@@ -406,15 +526,15 @@ categories = ["Chuck E. Cheese's"]
       9.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
       10.  Chuck E. & Friends - 'Dogs in Sweaters'
       11.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
-      12.  Chuck E. & Friends - 'Cookies for Santa'     
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
-      1.  Olaf - 'That Time of Year'
-      2.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
-      2.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-      3.  Leslie Odom Jr. - 'Snow'
-      4.  Chuck E. & Friends - 'Share the Joy' (2014)
+      1.  Chuck E. & Friends - 'Cookies for Santa'
+      2.  Olaf - 'That Time of Year'
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
+      4.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      5.  Leslie Odom Jr. - 'Snow'
+      6.  Chuck E. & Friends - 'Share the Joy' (2014)
 
 ## Lives 11/04 Update:
 1. Chuck E. Cheese Birthday Extravaganza (A Chuck E. Cheese Christmas Special Endcard)  (Legacy Navori)
@@ -460,16 +580,16 @@ categories = ["Chuck E. Cheese's"]
       8.  Munch & Munch - 'The Windowsill'
       9.  Kelly Clarkson & Ariana Grande - 'Santa, Can't You Hear Me'
       10.  Chuck E. & Friends - 'Dogs in Sweaters'
-      11.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'
-      12.  Chuck E. & Friends - 'Cookies for Santa'     
+      11.  KIDZ BOP - 'I Wish It Could Be Christmas Everyday'   
 2. Skit 2
       1. Helen Henny - 'All I Want for Christmas is Snow'
 3. Intermission 3
-      1.  Olaf - 'That Time of Year'
-      2.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
-      2.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-      3.  Leslie Odom Jr. - 'Snow'
-      4.  Chuck E. & Friends - 'Share the Joy' (2014)
+      1.  Chuck E. & Friends - 'Cookies for Santa'
+      2.  Olaf - 'That Time of Year'
+      3.  KIDZ BOP - 'Santa Claus Is Coming to Town'     
+      4.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
+      5.  Leslie Odom Jr. - 'Snow'
+      6.  Chuck E. & Friends - 'Share the Joy' (2014)
 
 ## Lives:
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
@@ -493,3 +613,5 @@ categories = ["Chuck E. Cheese's"]
 6. 11/11 Update - Chuck E. & Friends - 'Let's Play Some Games for the Holidays' is added as fireable. OneRepublic - 'Dear Santa', Leslie Odom Jr. - 'Snow', Olaf - 'That Time of Year', and The Temptations - 'Rudolph the Red-Nosed Reindeer' is removed.
 7. 11/14 Update - Staring Contest with Chuck E. added during Live Show countdowns.
 8. 11/17 Update - Blippi - ‘Use Your Imagination’, KIDZ BOP Kids - ‘Manchild’ and A Chuck E. Cheese Christmas Trailer are swapped around. Sia - 'Santa's Coming for Us' is removed.
+9. 11/20 Update - A Chuck E. Cheese Christmas - 'What Would We Do Without Christmas' is added.
+10. 11/21 Update - KidzBop Live - The Concert Movie Trailer is added.
