@@ -1,31 +1,30 @@
-{{- /* layouts/partials/display-gallery.html
-     Renders a gallery for the current page using prebuilt data.
-     Each item in $photos is a plain map (not a Hugo Page).
+{{- /*
+  layouts/partials/display-gallery.html
+  Reads prebuilt data at site.Data.photos-by-page and renders photos for the current page title.
+  Safe fallback to empty slice when data missing.
 */ -}}
 
-{{- $photos := partial "get-photos-from-data.html" . -}}
+{{- $data := index site.Data "photos-by-page" -}}
+{{- if not $data -}}
+  {{- /* No prebuilt data available — nothing to render */ -}}
+  {{- return -}}
+{{- end -}}
+
+{{- $currentTitle := .Title | default "" -}}
+{{- $photos := index $data $currentTitle | default (slice) -}}
+
 {{- if gt (len $photos) 0 -}}
-
-  {{- /* dedupe by name just in case */ -}}
-  {{- $seen := dict -}}
-  {{- $uniq := slice -}}
-  {{- range $i, $p := $photos -}}
-    {{- $name := index $p "name" | default "" -}}
-    {{- if and (ne $name "") (not (index $seen $name)) -}}
-      {{- $seen = merge $seen (dict $name true) -}}
-      {{- $uniq = $uniq | append $p -}}
-    {{- end -}}
-  {{- end -}}
-
-  {{- /* Already sorted by startDate by the prebuild script — but if not, you can sort here. */ -}}
-
   <div class="gallery">
-    {{- range $i, $m := $uniq -}}
+    {{- range $i, $p := $photos -}}
       <div class="gallery-image-box">
-        {{- /* pass the canonical photo name string to your DisplayPhoto partial */ -}}
-        {{- $name := index $m "name" -}}
+        {{- /* call your DisplayPhoto partial with the photo name. Use a deterministic cache key */ -}}
+        {{- $name := index $p "name" | default "" -}}
         {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" "no-css-file-link") (printf "DisplayPhoto|%s|no-css-file-link" $name) -}}
       </div>
     {{- end -}}
   </div>
+{{- else -}}
+  {{- /* If you want to show nothing when no photos exist, leave empty.
+       Or uncomment the line below to display a message: */ -}}
+  {{- /* <p>No gallery images.</p> */ -}}
 {{- end -}}
