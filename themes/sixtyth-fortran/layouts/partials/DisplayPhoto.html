@@ -48,7 +48,6 @@ Params:
 {{- $alt := $ctxName -}}
 {{- $dateStr := "" -}}
 {{- $desc := "" -}}
-{{- $desc = "" -}}
 {{- if (index $metaMap $ctxName) -}}
   {{- $md := index $metaMap $ctxName -}}
   {{- $alt = $ctxName -}}
@@ -72,17 +71,8 @@ Params:
     </a>
   </div>
   <div class="article-photo-description">
-    {{- if ne $desc "" -}}
-      {{- $desc -}}
-      {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
-    {{- else -}}
-      {{- if ne $ctxName "" -}}
-        {{- $clean := replace $ctxName "_" " " | replaceRE "\\.(?i)(avif|jpg|jpeg|png|gif)$" "" -}}
-        {{- $clean -}}
-      {{- else -}}
-        File Not Found
-      {{- end -}}
-    {{- end -}}
+    {{- $desc -}}
+    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
   </div>
 
 {{- else if eq $ctxMode "no-css-file-link" -}}
@@ -90,7 +80,8 @@ Params:
     <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $alt }}" />
   </a>
   <div class="article-photo-description">
-    {{- if ne $desc "" -}}{{ $desc }}{{- else -}}{{ if ne $ctxName "" }}{{ $ctxName }}{{ else }}File Not Found{{ end -}}{{- end -}}
+    {{- $desc -}}
+    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
   </div>
 
 {{- else if eq $ctxMode "no-css-no-desc" -}}
@@ -103,7 +94,8 @@ Params:
     <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $alt }}" />
   </a>
   <div class="article-photo-description">
-    {{- if ne $desc "" -}}{{ $desc }}{{- else -}}{{ if ne $ctxName "" }}{{ $ctxName }}{{ else }}File Not Found{{ end -}}{{- end -}}
+    {{- $desc -}}
+    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
   </div>
 
 {{- else if eq $ctxMode "no-link" -}}
@@ -116,6 +108,7 @@ Params:
     </a>
   </div>
   <div class="article-photo-description">
-    {{- if ne $desc "" -}}{{ $desc }}{{- else -}}{{ if ne $ctxName "" }}{{ $ctxName }}{{ else }}File Not Found{{ end -}}{{- end -}}
+    {{- $desc -}}
+    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
   </div>
 {{- end -}}

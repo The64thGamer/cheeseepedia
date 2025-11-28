@@ -19,7 +19,8 @@
       <div class="gallery-image-box">
         {{- /* call your DisplayPhoto partial with the photo name. Use a deterministic cache key */ -}}
         {{- $name := index $p "name" | default "" -}}
-        {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" "no-css-file-link") (printf "DisplayPhoto|%s|no-css-file-link" $name) -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" "default") (printf "DisplayPhoto|%s|default" $name) -}}
+        
       </div>
     {{- end -}}
   </div>
