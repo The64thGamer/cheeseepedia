@@ -1,40 +1,32 @@
 #!/usr/bin/env python3
 """
-scripts/build_photos_index.py
-
-Produces data/photos-by-page.json with structure:
-{
-  "<Wiki Page Title>": [
-     { "name": "<photoTitle>", "path": "content/photos/xxx.md", "hasFile": true/false, "imageURL": "/photos/xxx.jpg", "startDate": "YYYY-MM-DD" },
-     ...
-  ],
-  ...
-}
-
-Run: pip install python-frontmatter PyYAML
-Then: python3 scripts/build_photos_index.py
+scripts/build_photos_index.py (harder-to-miss)
+Searches both repository content/photos and themes/*/content/photos.
+Writes data/photos-by-page.json and prints counts for debug.
 """
 import os
 import json
 import frontmatter
 
 # Config
-CONTENT_PHOTOS = "content/photos"
+CONTENT_DIRS = ["content/photos"]
+# Also look inside themes/*/content/photos
+for theme_dir in [d for d in os.listdir("themes") if os.path.isdir(os.path.join("themes", d))] if os.path.isdir("themes") else []:
+    CONTENT_DIRS.append(os.path.join("themes", theme_dir, "content", "photos"))
+
 STATIC_PHOTOS_DIR = "static/photos"
 OUT_PATH = "data/photos-by-page.json"
 COMMON_EXTS = ["", ".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"]
 
 def find_static_file(name):
-    # If name already has extension, try it first; otherwise try common ext.
     candidates = [name] if os.path.splitext(name)[1] else [name + e for e in COMMON_EXTS]
     for c in candidates:
         p = os.path.join(STATIC_PHOTOS_DIR, c)
         if os.path.exists(p):
-            return c  # return filename relative to /photos
+            return c
     return None
 
 def normalize_pages_field(raw):
-    # raw may be string, list, nested lists. Return flat list of strings.
     out = []
     if raw is None:
         return out
@@ -52,51 +44,56 @@ def normalize_pages_field(raw):
         return out
     return [str(raw)]
 
+def collect_photo_files():
+    files = []
+    for base in CONTENT_DIRS:
+        if not os.path.isdir(base):
+            # no-op but show debug message
+            # print(f"DEBUG: content dir not found: {base}")
+            continue
+        for root, _, fnames in os.walk(base):
+            for fname in fnames:
+                if fname.lower().endswith((".md", ".markdown", ".mdown")):
+                    files.append(os.path.join(root, fname))
+    return files
+
 def build_index():
     index = {}
-    # Walk content/photos directory
-    for root, dirs, files in os.walk(CONTENT_PHOTOS):
-        for fname in files:
-            if not (fname.endswith(".md") or fname.endswith(".markdown") or fname.endswith(".mdown")):
-                continue
-            fpath = os.path.join(root, fname)
-            try:
-                post = frontmatter.load(fpath)
-            except Exception as e:
-                print(f"WARNING: failed to parse {fpath}: {e}")
-                continue
+    photo_files = collect_photo_files()
+    print(f"DEBUG: scanned {len(photo_files)} photo page files from dirs: {CONTENT_DIRS}")
 
-            title = post.get('title') or post.get('Title') or os.path.splitext(fname)[0]
-            pages = normalize_pages_field(post.get('pages') or post.get('Params', {}).get('pages') if isinstance(post.get('Params', {}), dict) else post.get('pages'))
-            # support startDate in frontmatter (optional)
-            start_date = post.get('startDate') or post.get('date') or None
+    for fpath in photo_files:
+        try:
+            post = frontmatter.load(fpath)
+        except Exception as e:
+            print(f"WARNING: failed to parse {fpath}: {e}")
+            continue
 
-            # detect static file presence (using title as file basename)
-            file_candidate = title
-            found_name = find_static_file(file_candidate)
-            has_file = bool(found_name)
-            imageURL = f"/photos/{found_name}" if found_name else "/UI/File Not Found.jpg"
+        title = post.get('title') or post.get('Title') or os.path.splitext(os.path.basename(fpath))[0]
+        pages = normalize_pages_field(post.get('pages') or post.get('Params', {}).get('pages') if isinstance(post.get('Params', {}), dict) else post.get('pages'))
+        start_date = post.get('startDate') or post.get('date') or None
 
-            item = {
-                "name": title,
-                "page_path": os.path.relpath(fpath).replace(os.sep, "/"),
-                "hasFile": has_file,
-                "imageURL": imageURL,
-                "startDate": start_date
-            }
+        found_name = find_static_file(title)
+        has_file = bool(found_name)
+        imageURL = f"/photos/{found_name}" if found_name else "/UI/File Not Found.jpg"
 
-            # map into index for every referenced wiki page
-            for p in pages:
-                key = str(p)
-                index.setdefault(key, []).append(item)
+        item = {
+            "name": title,
+            "page_path": os.path.relpath(fpath).replace(os.sep, "/"),
+            "hasFile": has_file,
+            "imageURL": imageURL,
+            "startDate": start_date
+        }
 
-    # Optionally sort each page's photos by startDate
+        for p in pages:
+            key = str(p)
+            index.setdefault(key, []).append(item)
+
+    # sort each list
     for k, arr in index.items():
-        # stable sort: missing dates go last
         arr.sort(key=lambda x: (x.get('startDate') is None, x.get('startDate') or "9999-99-99"))
         index[k] = arr
 
-    # Ensure data dir exists
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as fh:
         json.dump(index, fh, indent=2, ensure_ascii=False)
