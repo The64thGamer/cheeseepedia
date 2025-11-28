@@ -6,13 +6,14 @@
         {{- $pageType := (index .Params.tags 0) | default "Meta" -}}
         {{- $isBasicArticle := not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
 
-    {{/* Article Sections */}}
+    {{- /* Article Sections */ -}}
     {{- $article := false -}}
-    {{- $galleryHasContent := "" -}}
+    {{- $galleryHasContent := false -}}   <!-- declare a boolean -->
     {{- $videos := "" -}}
     {{- $transcriptions := "" -}}
     {{- $reviews := "" -}}
     {{- $sales := "" -}}
+    {{- $galleryContent := "" -}}
 
     {{- if $isBasicArticle -}}
         {{- /* Compute sections (assign into outer vars using = not :=) */ -}}
@@ -21,17 +22,15 @@
         {{- $reviews = partialCached "display-reviews.html" . -}}
         {{- $sales = partialCached "display-sales.html" . -}}
 
-        {{- /* Render gallery once and store in a variable */ -}}
-        {{- $galleryContent := partialCached "display-gallery.html" . "gallery-content-v1" -}}
+        {{- /* Render gallery once and store in a variable (assign with =) */ -}}
+        {{- $galleryContent = partialCached "display-gallery.html" . "gallery-content-v1" -}}
 
-        {{- /* Gallery button shows only if content exists */ -}}
-        {{- $galleryHasContent := ne $galleryContent "" -}}
+        {{- /* Gallery button shows only if content exists — assign, do NOT redeclare */ -}}
+        {{- $galleryHasContent = ne $galleryContent "" -}}
 
         {{- /* Determine whether there is any non-gallery article content */ -}}
         {{- $article = or (ne $videos "") (or (ne $transcriptions "") (or (ne $reviews "") (ne $sales ""))) -}}
     {{- end -}}
-
-
 
 {{/* Article Title/Header */}}
     {{/* Breadcrumb Links */}}

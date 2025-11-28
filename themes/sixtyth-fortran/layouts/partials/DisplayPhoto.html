@@ -48,12 +48,18 @@ Params:
 {{- $alt := $ctxName -}}
 {{- $dateStr := "" -}}
 {{- $desc := "" -}}
+{{- $desc = "" -}}
 {{- if (index $metaMap $ctxName) -}}
   {{- $md := index $metaMap $ctxName -}}
   {{- $alt = $ctxName -}}
-  {{- $desc = "" -}}
-  {{- with $md.startDate -}} {{- $dateStr = . -}} {{- end -}}
+  {{- with $md.content -}}
+    {{- $desc = . -}}
+  {{- end -}}
+  {{- with $md.startDate -}}
+    {{- $dateStr = . -}}
+  {{- end -}}
 {{- end -}}
+
 
 {{- /* link URL: use # (cheap) — keep behavior consistent */ -}}
 {{- $linkURL := "#" -}}

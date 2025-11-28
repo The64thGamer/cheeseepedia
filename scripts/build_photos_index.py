@@ -20,6 +20,7 @@ This script:
 import os
 import sys
 import json
+import frontmatter, re
 
 # parser libs
 try:
@@ -154,6 +155,17 @@ def collect_photo_files():
                     files.append(os.path.join(root, fname))
     return files
 
+def load_content_only(path):
+    with open(path, encoding="utf-8-sig") as f:
+        raw = f.read()
+    # Split off TOML frontmatter delimited by +++ ... +++
+    split = re.split(r"(?m)^\+{3}\s*$", raw)
+    if len(split) >= 3:
+        body = split[2]  # after the second +++
+    else:
+        body = frontmatter.load(path, encoding="utf-8-sig").content
+    return body.strip()
+
 def build_index():
     files = collect_photo_files()
     print(f"DEBUG: scanned {len(files)} photo page files from dirs: {PHOTO_DIRS}", file=sys.stderr)
@@ -176,7 +188,7 @@ def build_index():
         # pages field may be called 'pages' (as in your files) — normalize it
         pages_raw = fm.get("pages") or fm.get("Pages") or []
         pages = normalize_pages_field(pages_raw)
-
+        content = load_content_only(path)
         start_date = fm.get("startDate") or fm.get("date") or None
 
         # detect static file if available
@@ -189,7 +201,8 @@ def build_index():
             "page_path": os.path.relpath(path).replace(os.sep, "/"),
             "hasFile": has_file,
             "imageURL": imageURL,
-            "startDate": start_date
+            "startDate": start_date,
+            "content": content,
         }
 
         for p in pages:
