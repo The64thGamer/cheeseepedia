@@ -21,8 +21,11 @@
         {{- $reviews = partialCached "display-reviews.html" . -}}
         {{- $sales = partialCached "display-sales.html" . -}}
 
-        {{- /* Cheap existence check for gallery — cached */ -}}
-        {{- $galleryHasContent = partialCached "display-gallery-has-content.html" . "gallery-has-content-v1" -}}
+        {{- /* Render gallery once and store in a variable */ -}}
+        {{- $galleryContent := partialCached "display-gallery.html" . "gallery-content-v1" -}}
+
+        {{- /* Gallery button shows only if content exists */ -}}
+        {{- $galleryHasContent := ne $galleryContent "" -}}
 
         {{- /* Determine whether there is any non-gallery article content */ -}}
         {{- $article = or (ne $videos "") (or (ne $transcriptions "") (or (ne $reviews "") (ne $sales ""))) -}}
@@ -158,7 +161,7 @@
         </div>
         {{- if $galleryHasContent -}}
         <div id="section-gallery" class="article-section">
-            {{- partial "display-gallery.html" . -}}
+            {{- $galleryContent | safeHTML -}}
         </div>
         {{- end -}}
         <div id="section-videos" class="article-section">
