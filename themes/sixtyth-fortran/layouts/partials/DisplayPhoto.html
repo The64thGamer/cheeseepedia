@@ -25,19 +25,6 @@
   {{- end -}}
 {{- end -}}
 
-{{- /* fallback: if metaMap empty and you still have build-photo-indexes partial, call it */ -}}
-{{- if (eq (len $metaMap) 0) -}}
-  {{- /* Optional fallback — remove if not needed */ -}}
-  {{- with (partialCached "build-photo-indexes.html" site "photos-index-v1") -}}
-    {{- $mm := index . "meta" -}}
-    {{- if $mm -}}
-      {{- range $k, $v := $mm -}}
-        {{- $metaMap = merge $metaMap (dict $k $v) -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
-
 {{- /* Lookup meta; defaults */ -}}
 {{- $imgURL := "/UI/File Not Found.jpg" -}}
 {{- $hasFile := false -}}
