@@ -10,7 +10,7 @@ citations = []
 pageThumbnailFile = "MmPRs3ORygD_1csev3_k.avif"
 showtapeFormats = ["Media Navori"]
 +++
-***Chuck E. Cheese Throwback Show*** was released on July 18, 2024, to play exclusively for the Throwback Thursday at {{< wiki-link "Nanuet, NY (250 West Route 59)" >}}. 
+***Chuck E. Cheese Throwback Thursday Show*** was released on July 18, 2024, to play exclusively for the Throwback Thursday at {{< wiki-link "Nanuet, NY (250 West Route 59)" >}}. 
 
 
 ## Show List 11/25 Update:
@@ -284,6 +284,7 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 - 01/06 Update - reverted back to original show list
 - 11/21 Update - Added Throwback Holiday songs and intermissions. 
 
+- This show briefly played at {{< wiki-link "Kansas City, MO (8809 State Line Rd))" >}} from July 2025 till August 2025 with the introduction of {{< wiki-link "Chuck E. Cheese Throwback Show" >}} 
 - *Jolly Old Saint Nicholas*, *We Wish You A Merry Christmas*, and *Up On The Housetop* is from {{< wiki-link "Holiday 2002" >}}, *Dreidel Song* is from {{< wiki-link "Chuck E's Holiday Party 1999" >}}
 - *Chuck E.'s Place* is from the {{< wiki-link "January 2004 Show" >}}, *Jump* is from the {{< wiki-link "September 2000 Show" >}}, *The Muffin Man* is from {{< wiki-link "Just for Kids Show 2000" >}}, *Humpty Dumpty* is from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}, *That's A Deal* is from the {{< wiki-link "April 2002 Show" >}}, *What Up* is from the {{< wiki-link "September 2004" >}}, *I Love the Sunshine* is from the {{< wiki-link "Summer 2007 Show" >}}, *CEC Chuck E. Cheese* is from the {{< wiki-link "April 2002 Show" >}}, *Opposite Day* and *Colors* are from the {{< wiki-link "CEC TV April 2005 Show" >}}, and *No Other Place* is from the {{< wiki-link "September 2000 Show" >}}.
 - The only 2010s-era song or segment featured in this show is the live show *Me & My Friends*.
