@@ -1,16 +1,19 @@
-{{- /* layouts/partials/display-gallery-has-content.html
-     Returns true if there are photos for the current page.
+{{- /*
+display-gallery-has-content.html
+Return "true" (string) if there are photos for the current page Title in site.Data.photos-by-page.
+Used by Article.html to decide whether to show the Gallery button/section.
 */ -}}
 
-{{- $data := index .Site.Data "photos-by-page" -}}
-{{- if not $data -}}
-  {{- return "" -}}
-{{- end -}}
-
-{{- $title := .Title | default "" -}}
-{{- $list := index $data $title -}}
-{{- if and $list (gt (len $list) 0) -}}
-  true
+{{- $data := index site.Data "photos-by-page" -}}
+{{- if and $data (ne (len $data) 0) -}}
+  {{- $title := .Title | default "" -}}
+  {{- $list := index $data $title -}}
+  {{- if and $list (gt (len $list) 0) -}}
+    true
+  {{- else -}}
+    {{- /* nothing found */ -}}
+    {{- "" -}}
+  {{- end -}}
 {{- else -}}
-  ""
+  {{- "" -}}
 {{- end -}}
