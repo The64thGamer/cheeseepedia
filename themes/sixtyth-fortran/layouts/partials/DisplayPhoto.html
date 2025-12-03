@@ -1,14 +1,3 @@
-{{- /*
-Fast DisplayPhoto.html (fixed: include content + format date)
-Params:
-  .name - filename/title string (e.g. "blah.avif")
-  .mode - "default", "no-css", "no-css-no-desc", "no-css-file-link", "no-link"
-Behavior:
-  - Uses site.Data.photos-by-page if present (cheap)
-  - Reads content and startDate from the meta and renders them
-  - Uses markdownify for content so wiki/markdown links render
-*/ -}}
-
 {{- $ctxName := (.name | default "") | printf "%s" -}}
 {{- $ctxMode := (.mode | default "default") | printf "%s" -}}
 
