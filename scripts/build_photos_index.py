@@ -42,7 +42,7 @@ PHOTO_DIRS = [
     "themes/sixtyth-fortran/content/photos"
 ]
 STATIC_PHOTOS_DIR = "static/photos"
-OUT_PATH = "data/photos-by-page.json"
+OUT_PATH = "data/photosbypage.json"
 COMMON_EXTS = ["", ".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"]
 
 def find_static_file(basename):

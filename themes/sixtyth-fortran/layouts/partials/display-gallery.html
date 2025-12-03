@@ -1,6 +1,6 @@
 {{- /*
   layouts/partials/display-gallery.html
-  Reads prebuilt data at site.Data.photos-by-page and renders photos for the current page title.
+  Reads prebuilt data at site.Data.photosbypage and renders photos for the current page title.
   Safe fallback to empty slice when data missing.
 */ -}}
 
@@ -24,8 +24,4 @@
       </div>
     {{- end -}}
   </div>
-{{- else -}}
-  {{- /* If you want to show nothing when no photos exist, leave empty.
-       Or uncomment the line below to display a message: */ -}}
-  {{- /* <p>No gallery images.</p> */ -}}
 {{- end -}}
