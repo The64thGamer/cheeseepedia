@@ -1,7 +1,7 @@
 {{- $ctxName := (.name | default "") | printf "%s" -}}
 {{- $ctxMode := (.mode | default "default") | printf "%s" -}}
 
-{{- /* Build tiny metaMap from site.Data.photos-by-page if available */ -}}
+{{- /* Build tiny metaMap from site.Data.photos-by-page if available  */ -}}
 {{- $metaMap := dict -}}
 {{- with site.Data.photos-by-page -}}
   {{- range $pageKey, $arr := . -}}
