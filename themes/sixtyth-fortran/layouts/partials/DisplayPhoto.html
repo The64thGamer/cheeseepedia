@@ -1,32 +1,35 @@
+
 {{- /*
-Fast DisplayPhoto.html — uses site.Data.photos-by-page when present (cheap).
-Includes content (description) and startDate formatting.
+Lightweight DisplayPhoto.html — fast fallback + optional site.Data usage
+
+Behavior:
+- If site.Data.photos_by_page exists, build a tiny metaMap keyed by photo name (fast).
+- Otherwise, do NOT call expensive functions (no fileExists, no build-photo-indexes).
+- Always render according to mode, so other code relying on the partial keeps working.
+
+Params:
+  .name - filename/title string (e.g. "blah.avif")
+  .mode - "default", "no-css", "no-css-no-desc", "no-css-file-link", "no-link"
 */ -}}
 
 {{- $ctxName := (.name | default "") | printf "%s" -}}
 {{- $ctxMode := (.mode | default "default") | printf "%s" -}}
 
-{{- /* Build tiny metaMap from site.Data.photos-by-page (if present) */ -}}
+{{- /* Try to build a metadata map from site.Data.photosbypage if available (very cheap) */ -}}
 {{- $metaMap := dict -}}
-{{- with site.Data.photos-by-page -}}
+{{- with site.Data.photosbypage -}}
+  {{- /* site.Data.* values are plain maps/arrays — iterate and collect by name */ -}}
   {{- range $pageKey, $arr := . -}}
     {{- range $i, $m := $arr -}}
       {{- $n := index $m "name" | default "" -}}
       {{- if ne $n "" -}}
-        {{- $metaMap = merge $metaMap (dict $n (dict
-            "imageURL" (index $m "imageURL")
-            "hasFile"  (index $m "hasFile")
-            "fileName" (index $m "fileName")
-            "startDate" (index $m "startDate")
-            "page_path" (index $m "page_path")
-            "content" (index $m "content")
-        )) -}}
+        {{- $metaMap = merge $metaMap (dict $n (dict "imageURL" (index $m "imageURL") "hasFile" (index $m "hasFile") "fileName" (index $m "fileName") "startDate" (index $m "startDate") "page_path" (index $m "page_path")) ) -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
 
-{{- /* Image URL resolution (prefer metaMap, otherwise sane fallback) */ -}}
+{{- /* Determine image URL and hasFile (prefer metaMap when present) */ -}}
 {{- $imgURL := "/UI/File Not Found.jpg" -}}
 {{- $hasFile := false -}}
 {{- if ne $ctxName "" -}}
@@ -35,43 +38,31 @@ Includes content (description) and startDate formatting.
     {{- $imgURL = index $m "imageURL" | default $imgURL -}}
     {{- $hasFile = index $m "hasFile" | default false -}}
   {{- else -}}
+    {{- /* Keep it extremely cheap: assume /photos/<name> (no fileExists) */ -}}
     {{- $imgURL = printf "/photos/%s" $ctxName -}}
   {{- end -}}
+{{- else -}}
+  {{- $imgURL = "/UI/File Not Found.jpg" -}}
 {{- end -}}
 
-{{- /* alt, description, and formatted date */ -}}
-{{- $alt := $ctxName -}}
+{{- /* alt and description */ -}}
 {{- $dateStr := "" -}}
 {{- $desc := "" -}}
-
-{{- $md := index $metaMap $ctxName -}}
-{{- if $md -}}
-  {{- /* content may contain wiki/markdown; plainify it for safe plain text */ -}}
-  {{- with index $md "content" -}}
-    {{- $desc = . | plainify -}}
+{{- if (index $metaMap $ctxName) -}}
+  {{- $md := index $metaMap $ctxName -}}
+  {{- with $md.content -}}
+    {{- $desc = . -}}
   {{- end -}}
-
-  {{- with index $md "startDate" -}}
-    {{- if ne . "" -}}
-      {{- /* Use your readable date partial for consistent formatting */ -}}
-      {{- $dateStr = partial "Readable_Date.html" (dict "date" . "presentOnEmpty" false) -}}
-    {{- end -}}
+  {{- with $md.startDate -}}
+    {{- $dateStr = . -}}
   {{- end -}}
 {{- end -}}
 
-{{- /* If no description found, show a cleaned filename fallback */ -}}
-{{- if eq $desc "" -}}
-  {{- if ne $ctxName "" -}}
-    {{- $desc = replace $ctxName "_" " " | replaceRE "\\.(?i)(avif|jpg|jpeg|png|gif)$" "" -}}
-  {{- else -}}
-    {{- $desc = "File Not Found" -}}
-  {{- end -}}
-{{- end -}}
 
-{{- /* link URL — keep as # by default to avoid broken links; can be expanded later */ -}}
+{{- /* link URL: use # (cheap) — keep behavior consistent */ -}}
 {{- $linkURL := "#" -}}
 
-{{/* === Render according to mode === */}}
+{{- /* Render according to mode */ -}}
 {{- if eq $ctxMode "default" -}}
   <div class="article-photo-image">
     <a href="{{ $linkURL }}">
