@@ -1,9 +1,14 @@
+{{- /*
+Fast DisplayPhoto.html — uses site.Data.photos-by-page when present (cheap).
+Includes content (description) and startDate formatting.
+*/ -}}
+
 {{- $ctxName := (.name | default "") | printf "%s" -}}
 {{- $ctxMode := (.mode | default "default") | printf "%s" -}}
 
-{{- /* Build tiny metaMap from site.Data.photosbypage if available  */ -}}
+{{- /* Build tiny metaMap from site.Data.photos-by-page (if present) */ -}}
 {{- $metaMap := dict -}}
-{{- with site.Data.photosbypage -}}
+{{- with site.Data.photos-by-page -}}
   {{- range $pageKey, $arr := . -}}
     {{- range $i, $m := $arr -}}
       {{- $n := index $m "name" | default "" -}}
@@ -14,14 +19,14 @@
             "fileName" (index $m "fileName")
             "startDate" (index $m "startDate")
             "page_path" (index $m "page_path")
-            "content"   (index $m "content")
+            "content" (index $m "content")
         )) -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
 
-{{- /* Determine image URL and hasFile (prefer metaMap when present) */ -}}
+{{- /* Image URL resolution (prefer metaMap, otherwise sane fallback) */ -}}
 {{- $imgURL := "/UI/File Not Found.jpg" -}}
 {{- $hasFile := false -}}
 {{- if ne $ctxName "" -}}
@@ -34,77 +39,84 @@
   {{- end -}}
 {{- end -}}
 
-{{- /* Derive alt/description/date from metaMap if present */ -}}
+{{- /* alt, description, and formatted date */ -}}
 {{- $alt := $ctxName -}}
-{{- $desc := "" -}}
 {{- $dateStr := "" -}}
-{{- if (index $metaMap $ctxName) -}}
-  {{- $md := index $metaMap $ctxName -}}
-  {{- with (index $md "content") -}}
-    {{- $desc = . -}}
+{{- $desc := "" -}}
+
+{{- $md := index $metaMap $ctxName -}}
+{{- if $md -}}
+  {{- /* content may contain wiki/markdown; plainify it for safe plain text */ -}}
+  {{- with index $md "content" -}}
+    {{- $desc = . | plainify -}}
   {{- end -}}
-  {{- with (index $md "startDate") -}}
-    {{- /* Format date using your existing partial for consistency */ -}}
-    {{- $dateStr = partial "Readable_Date.html" (dict "date" . "presentOnEmpty" false) -}}
+
+  {{- with index $md "startDate" -}}
+    {{- if ne . "" -}}
+      {{- /* Use your readable date partial for consistent formatting */ -}}
+      {{- $dateStr = partial "Readable_Date.html" (dict "date" . "presentOnEmpty" false) -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 
-{{- /* link URL: keep as # for now; later you can use page_path->RelPermalink mapping */ -}}
+{{- /* If no description found, show a cleaned filename fallback */ -}}
+{{- if eq $desc "" -}}
+  {{- if ne $ctxName "" -}}
+    {{- $desc = replace $ctxName "_" " " | replaceRE "\\.(?i)(avif|jpg|jpeg|png|gif)$" "" -}}
+  {{- else -}}
+    {{- $desc = "File Not Found" -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* link URL — keep as # by default to avoid broken links; can be expanded later */ -}}
 {{- $linkURL := "#" -}}
 
-{{- /* Render according to mode */ -}}
+{{/* === Render according to mode === */}}
 {{- if eq $ctxMode "default" -}}
   <div class="article-photo-image">
     <a href="{{ $linkURL }}">
-      <img src="{{ $imgURL }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
+      <img src="{{ $imgURL }}" alt="{{ $desc }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
     </a>
   </div>
   <div class="article-photo-description">
-    {{- if ne $desc "" -}}
-      {{- /* render body as markdown/html */ -}}
-      {{- $desc | markdownify | safeHTML -}}
-      {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
-    {{- else -}}
-      {{- if ne $ctxName "" -}}
-        {{- $clean := replace $ctxName "_" " " | replaceRE "\\.(?i)(avif|jpg|jpeg|png|gif)$" "" -}}
-        {{- $clean -}}
-      {{- else -}}
-        File Not Found
-      {{- end -}}
-    {{- end -}}
+    {{- $desc -}}
+    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
   </div>
 
 {{- else if eq $ctxMode "no-css-file-link" -}}
   <a href="{{ $linkURL }}">
-    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $alt }}" />
+    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $desc }}" />
   </a>
   <div class="article-photo-description">
-    {{- if ne $desc "" -}}{{- $desc | markdownify | safeHTML -}}{{- if $dateStr -}} ({{ $dateStr }}){{- end -}}{{- else -}}{{- $ctxName -}}{{- end -}}
+    {{- $desc -}}
+    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
   </div>
 
 {{- else if eq $ctxMode "no-css-no-desc" -}}
   <a href="{{ $linkURL }}">
-    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $alt }}" />
+    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $desc }}" />
   </a>
 
 {{- else if eq $ctxMode "no-css" -}}
   <a href="{{ $linkURL }}">
-    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $alt }}" />
+    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $desc }}" />
   </a>
   <div class="article-photo-description">
-    {{- if ne $desc "" -}}{{- $desc | markdownify | safeHTML -}}{{- if $dateStr -}} ({{ $dateStr }}){{- end -}}{{- else -}}{{- $ctxName -}}{{- end -}}
+    {{- $desc -}}
+    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
   </div>
 
 {{- else if eq $ctxMode "no-link" -}}
-  <img loading="lazy" src="{{ $imgURL }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]" />
+  <img loading="lazy" src="{{ $imgURL }}" alt="{{ $desc }}" data-pagefind-meta="image[src], image_alt[alt]" />
 
 {{- else -}}
   <div class="article-photo-image">
     <a href="{{ $linkURL }}">
-      <img loading="lazy" src="{{ $imgURL }}" alt="{{ $alt }}" data-pagefind-meta="image[src], image_alt[alt]" />
+      <img loading="lazy" src="{{ $imgURL }}" alt="{{ $desc }}" data-pagefind-meta="image[src], image_alt[alt]" />
     </a>
   </div>
   <div class="article-photo-description">
-    {{- if ne $desc "" -}}{{- $desc | markdownify | safeHTML -}}{{- if $dateStr -}} ({{ $dateStr }}){{- end -}}{{- else -}}{{- $ctxName -}}{{- end -}}
+    {{- $desc -}}
+    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
   </div>
 {{- end -}}
