@@ -4,7 +4,7 @@
   Safe fallback to empty slice when data missing.
 */ -}}
 
-{{- $data := index site.Data "photos-by-page" -}}
+{{- $data := index site.Data "photosbypage" -}}
 {{- if not $data -}}
   {{- /* No prebuilt data available — nothing to render */ -}}
   {{- return -}}
@@ -20,7 +20,6 @@
         {{- /* call your DisplayPhoto partial with the photo name. Use a deterministic cache key */ -}}
         {{- $name := index $p "name" | default "" -}}
         {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" "default") (printf "DisplayPhoto|%s|default" $name) -}}
-        
       </div>
     {{- end -}}
   </div>
