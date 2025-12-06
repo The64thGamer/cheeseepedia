@@ -64,7 +64,7 @@ Params:
 {{- $dateStr := "" -}}
 {{- if $m -}}
   {{- with index $m "content" -}}
-    {{- $tmp := printf "%s" . | plainify | trim -}}
+    {{- $tmp := printf "%s" . | plainify | replaceRE "^\\s+|\\s+$" "" -}}
     {{- if ne $tmp "" -}}
       {{- $desc = $tmp -}}
     {{- end -}}
