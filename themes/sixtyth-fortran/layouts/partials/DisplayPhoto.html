@@ -1,113 +1,173 @@
-
 {{- /*
-Lightweight DisplayPhoto.html — fast fallback + optional site.Data usage
-
-Behavior:
-- If site.Data.photos_by_page exists, build a tiny metaMap keyed by photo name (fast).
-- Otherwise, do NOT call expensive functions (no fileExists, no build-photo-indexes).
-- Always render according to mode, so other code relying on the partial keeps working.
-
+DisplayPhoto.html — fast, stable, per-photo lookup
+- Prefers site.Data.photos (data/photos.json)
+- Falls back to site.Data.photosbypage (data/photosbypage.json) by building a tiny map
 Params:
-  .name - filename/title string (e.g. "blah.avif")
+  .name - photo filename/title (e.g. "blah.avif")
   .mode - "default", "no-css", "no-css-no-desc", "no-css-file-link", "no-link"
 */ -}}
 
 {{- $ctxName := (.name | default "") | printf "%s" -}}
 {{- $ctxMode := (.mode | default "default") | printf "%s" -}}
 
-{{- /* Try to build a metadata map from site.Data.photosbypage if available (very cheap) */ -}}
+{{- /* === Build / select meta source === */ -}}
 {{- $metaMap := dict -}}
-{{- with site.Data.photosbypage -}}
-  {{- /* site.Data.* values are plain maps/arrays — iterate and collect by name */ -}}
-  {{- range $pageKey, $arr := . -}}
-    {{- range $i, $m := $arr -}}
-      {{- $n := index $m "name" | default "" -}}
-      {{- if ne $n "" -}}
-        {{- $metaMap = merge $metaMap (dict $n (dict "imageURL" (index $m "imageURL") "hasFile" (index $m "hasFile") "fileName" (index $m "fileName") "startDate" (index $m "startDate") "page_path" (index $m "page_path")) ) -}}
+
+{{- /* Preferred: per-photo flat index at data/photos.json */ -}}
+{{- with site.Data.photos -}}
+  {{- /* site.Data.photos is a map: photoName -> object */ -}}
+  {{- $metaMap = . -}}
+{{- else -}}
+  {{- /* Fallback: data.photosbypage (pageTitle -> [items]) — build name->item map */ -}}
+  {{- with site.Data.photosbypage -}}
+    {{- range $pageKey, $arr := . -}}
+      {{- range $i, $m := $arr -}}
+        {{- $n := index $m "name" | default "" -}}
+        {{- if ne $n "" -}}
+          {{- /* include content, startDate, page_path, imageURL, hasFile, pages */ -}}
+          {{- $entry := dict
+              "name" (index $m "name")
+              "imageURL" (index $m "imageURL")
+              "hasFile" (index $m "hasFile")
+              "fileName" (index $m "fileName")
+              "startDate" (index $m "startDate")
+              "page_path" (index $m "page_path")
+              "content" (index $m "content")
+              "pages" (index $m "pages")
+          -}}
+          {{- $metaMap = merge $metaMap (dict $n $entry) -}}
+        {{- end -}}
       {{- end -}}
     {{- end -}}
   {{- end -}}
 {{- end -}}
 
-{{- /* Determine image URL and hasFile (prefer metaMap when present) */ -}}
+{{- /* === Lookup metadata for this photo === */ -}}
+{{- $m := index $metaMap $ctxName -}}
+
+{{- /* === Image URL / hasFile fallback === */ -}}
 {{- $imgURL := "/UI/File Not Found.jpg" -}}
 {{- $hasFile := false -}}
-{{- if ne $ctxName "" -}}
-  {{- $m := index $metaMap $ctxName -}}
-  {{- if $m -}}
-    {{- $imgURL = index $m "imageURL" | default $imgURL -}}
-    {{- $hasFile = index $m "hasFile" | default false -}}
-  {{- else -}}
-    {{- /* Keep it extremely cheap: assume /photos/<name> (no fileExists) */ -}}
-    {{- $imgURL = printf "/photos/%s" $ctxName -}}
+{{- if $m -}}
+  {{- with index $m "imageURL" -}}
+    {{- $imgURL = . -}}
   {{- end -}}
-{{- else -}}
-  {{- $imgURL = "/UI/File Not Found.jpg" -}}
+  {{- with index $m "hasFile" -}}
+    {{- $hasFile = . -}}
+  {{- end -}}
+{{- else if ne $ctxName "" -}}
+  {{- $imgURL = printf "/photos/%s" $ctxName -}}
 {{- end -}}
 
-{{- /* alt and description */ -}}
-{{- $dateStr := "" -}}
+{{- /* === Description (plainified) and formatted date === */ -}}
 {{- $desc := "" -}}
-{{- if (index $metaMap $ctxName) -}}
-  {{- $md := index $metaMap $ctxName -}}
-  {{- with $md.content -}}
-    {{- $desc = . -}}
+{{- $dateStr := "" -}}
+{{- if $m -}}
+  {{- with index $m "content" -}}
+    {{- $tmp := printf "%s" . | plainify | trim -}}
+    {{- if ne $tmp "" -}}
+      {{- $desc = $tmp -}}
+    {{- end -}}
   {{- end -}}
-  {{- with $md.startDate -}}
-    {{- $dateStr = . -}}
+  {{- with index $m "startDate" -}}
+    {{- if ne . "" -}}
+      {{- /* Use Readable_Date partial if present */ -}}
+      {{- $dateStr = partial "Readable_Date.html" (dict "date" . "presentOnEmpty" false) -}}
+    {{- end -}}
   {{- end -}}
 {{- end -}}
 
-
-{{- /* link URL: use # (cheap) — keep behavior consistent */ -}}
+{{- /* === Resolve link to the photo page if possible === */ -}}
 {{- $linkURL := "#" -}}
+{{- if $m -}}
+  {{- with index $m "page_path" -}}
+    {{- $pp := printf "%s" . -}}
+    {{- if ne $pp "" -}}
+      {{- /* try to find the page by File.Path */ -}}
+      {{- $match := first 1 (where site.RegularPages "File.Path" $pp) -}}
+      {{- if $match -}}
+        {{- $page := index $match 0 -}}
+        {{- $linkURL = $page.RelPermalink -}}
+      {{- else -}}
+        {{- /* also try GetPage by the relative path (content/... without extension) */ -}}
+        {{- $trimmed := replaceRE "\\.(md|markdown|mdown)$" "" $pp -}}
+        {{- $gp := site.GetPage $trimmed -}}
+        {{- if $gp -}}
+          {{- $linkURL = $gp.RelPermalink -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
 
-{{- /* Render according to mode */ -}}
+{{- /* === Render according to mode (keep same structure as before) === */}}
+
 {{- if eq $ctxMode "default" -}}
   <div class="article-photo-image">
     <a href="{{ $linkURL }}">
-      <img src="{{ $imgURL }}" alt="{{ $desc }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
+      <img src="{{ $imgURL }}" alt="{{ if ne $desc "" }}{{ $desc }}{{ else }}{{ $ctxName }}{{ end }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
     </a>
   </div>
   <div class="article-photo-description">
-    {{- $desc -}}
-    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+    {{- if ne $desc "" -}}
+      {{- $desc -}}
+      {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+    {{- else -}}
+      {{- if ne $ctxName "" -}}
+        {{- $clean := replace $ctxName "_" " " | replaceRE "\\.(?i)(avif|jpg|jpeg|png|gif|webp)$" "" -}}
+        {{- $clean -}}
+      {{- else -}}
+        File Not Found
+      {{- end -}}
+    {{- end -}}
   </div>
 
 {{- else if eq $ctxMode "no-css-file-link" -}}
   <a href="{{ $linkURL }}">
-    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $desc }}" />
+    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ if ne $desc "" }}{{ $desc }}{{ else }}{{ $ctxName }}{{ end }}" />
   </a>
   <div class="article-photo-description">
-    {{- $desc -}}
-    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+    {{- if ne $desc "" -}}
+      {{- $desc -}}
+      {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+    {{- else -}}
+      {{- if ne $ctxName "" -}}{{ $ctxName }}{{ else }}File Not Found{{ end -}}
+    {{- end -}}
   </div>
 
 {{- else if eq $ctxMode "no-css-no-desc" -}}
   <a href="{{ $linkURL }}">
-    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $desc }}" />
+    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ if ne $desc "" }}{{ $desc }}{{ else }}{{ $ctxName }}{{ end }}" />
   </a>
 
 {{- else if eq $ctxMode "no-css" -}}
   <a href="{{ $linkURL }}">
-    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ $desc }}" />
+    <img loading="lazy" data-pagefind-meta="image[src], image_alt[alt]" src="{{ $imgURL }}" alt="{{ if ne $desc "" }}{{ $desc }}{{ else }}{{ $ctxName }}{{ end }}" />
   </a>
   <div class="article-photo-description">
-    {{- $desc -}}
-    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+    {{- if ne $desc "" -}}
+      {{- $desc -}}
+      {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+    {{- else -}}
+      {{- if ne $ctxName "" -}}{{ $ctxName }}{{ else }}File Not Found{{ end -}}
+    {{- end -}}
   </div>
 
 {{- else if eq $ctxMode "no-link" -}}
-  <img loading="lazy" src="{{ $imgURL }}" alt="{{ $desc }}" data-pagefind-meta="image[src], image_alt[alt]" />
+  <img loading="lazy" src="{{ $imgURL }}" alt="{{ if ne $desc "" }}{{ $desc }}{{ else }}{{ $ctxName }}{{ end }}" data-pagefind-meta="image[src], image_alt[alt]" />
 
 {{- else -}}
   <div class="article-photo-image">
     <a href="{{ $linkURL }}">
-      <img loading="lazy" src="{{ $imgURL }}" alt="{{ $desc }}" data-pagefind-meta="image[src], image_alt[alt]" />
+      <img loading="lazy" src="{{ $imgURL }}" alt="{{ if ne $desc "" }}{{ $desc }}{{ else }}{{ $ctxName }}{{ end }}" data-pagefind-meta="image[src], image_alt[alt]" />
     </a>
   </div>
   <div class="article-photo-description">
-    {{- $desc -}}
-    {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+    {{- if ne $desc "" -}}
+      {{- $desc -}}
+      {{- if $dateStr -}} ({{ $dateStr }}){{- end -}}
+    {{- else -}}
+      {{- if ne $ctxName "" -}}{{ $ctxName }}{{ else }}File Not Found{{ end -}}
+    {{- end -}}
   </div>
 {{- end -}}

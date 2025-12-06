@@ -2,27 +2,28 @@
 """
 Robust photo index builder — manual frontmatter parsing.
 
-Writes data/photos-by-page.json mapping:
-{
-  "Wiki Page Title": [
-     { "name": "<photoTitle>", "page_path": "content/photos/xxx.md", "hasFile": true/false, "imageURL": "/photos/xxx.jpg", "startDate": "YYYY-MM-DD" },
-     ...
-  ]
-}
+Outputs:
+ - data/photosbypage.json   : mapping "Wiki Page Title" -> [photo metadata...]
+ - data/photos.json         : mapping "photoFileName" -> metadata (single object) for O(1) lookup
 
-This script:
- - detects TOML front matter wrapped in +++ ... +++,
- - detects YAML front matter wrapped in --- ... ---,
- - parses TOML via tomllib (Py3.11) or tomli (fallback),
- - parses YAML via PyYAML if available,
- - normalizes 'pages' field (string / list / nested lists).
+Each photo metadata object contains:
+  {
+    "name": "<photoFilename>",
+    "page_path": "content/photos/xxx.md",
+    "hasFile": true|false,
+    "imageURL": "/photos/xxx.avif" or "/UI/File Not Found.jpg",
+    "startDate": "YYYY-MM-DD" or "",
+    "content": "<body text>",
+    "pages": ["Wiki Title 1", ...]
+  }
 """
 import os
 import sys
 import json
-import frontmatter, re
+import re
+import frontmatter
 
-# parser libs
+# parser libs: toml/yaml used only when manually parsing frontmatter blocks
 try:
     import tomllib as toml  # Python 3.11+
 except Exception:
@@ -36,18 +37,18 @@ try:
 except Exception:
     yaml = None
 
-# Config — add more candidate dirs if you have photos elsewhere
+# Config
 PHOTO_DIRS = [
     "content/photos",
     "themes/sixtyth-fortran/content/photos"
 ]
 STATIC_PHOTOS_DIR = "static/photos"
-OUT_PATH = "data/photosbypage.json"
+OUT_PATH_BY_PAGE = "data/photosbypage.json"   # existing output (user-named)
+OUT_PATH_BY_PHOTO = "data/photos.json"       # new per-photo index for fast lookup
 COMMON_EXTS = ["", ".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"]
 
 def find_static_file(basename):
     """Try to find a static file for a given basename. Return filename (relative to /photos) or None."""
-    # if basename already has extension, try it first
     candidates = [basename] if os.path.splitext(basename)[1] else [basename + e for e in COMMON_EXTS]
     for c in candidates:
         p = os.path.join(STATIC_PHOTOS_DIR, c)
@@ -58,7 +59,6 @@ def find_static_file(basename):
 def read_frontmatter(path):
     """Read front matter from file and return a dict (or {}).
        Supports TOML (+++ ... +++) and YAML (--- ... ---).
-       If no frontmatter, returns {}.
     """
     with open(path, "rb") as fh:
         raw = fh.read()
@@ -75,15 +75,11 @@ def read_frontmatter(path):
     txt = txt.lstrip()
     if txt.startswith("+++"):
         # TOML frontmatter
-        # find closing +++
-        # allow either "+++\n" or "+++\r\n"
         end_idx = txt.find("\n+++", 3)
         if end_idx == -1:
             # try searching for '+++' on its own line
             parts = txt.splitlines()
             try:
-                # find second occurrence
-                first = 0
                 second = parts.index("+++", 1)
                 fm_lines = parts[1:second]
                 fm_text = "\n".join(fm_lines)
@@ -92,7 +88,6 @@ def read_frontmatter(path):
         else:
             fm_text = txt[3:end_idx+1].strip()
         if toml is None:
-            # toml parser not available
             print(f"WARNING: TOML frontmatter found in {path} but no toml parser available", file=sys.stderr)
             return {}
         try:
@@ -102,11 +97,8 @@ def read_frontmatter(path):
             print(f"ERROR parsing TOML frontmatter in {path}: {e}", file=sys.stderr)
             return {}
     elif txt.startswith("---"):
-        # YAML frontmatter
-        # find second '---' line
         parts = txt.splitlines()
         try:
-            # find the index of the second '---'
             second = parts.index("---", 1)
             fm_lines = parts[1:second]
             fm_text = "\n".join(fm_lines)
@@ -141,7 +133,6 @@ def normalize_pages_field(raw):
             else:
                 out.append(str(el))
         return out
-    # fallback
     return [str(raw)]
 
 def collect_photo_files():
@@ -156,21 +147,32 @@ def collect_photo_files():
     return files
 
 def load_content_only(path):
+    """Return the body (content) only. Prefer manual split for TOML (+++)."""
     with open(path, encoding="utf-8-sig") as f:
         raw = f.read()
     # Split off TOML frontmatter delimited by +++ ... +++
     split = re.split(r"(?m)^\+{3}\s*$", raw)
     if len(split) >= 3:
-        body = split[2]  # after the second +++
+        body = split[2]
     else:
-        body = frontmatter.load(path, encoding="utf-8-sig").content
+        # fallback to python-frontmatter to get body (works for YAML and many cases)
+        try:
+            post = frontmatter.load(path, encoding="utf-8-sig")
+            body = post.content or ""
+        except Exception:
+            # ultimate fallback: try to remove YAML frontmatter manually
+            parts = re.split(r"(?m)^---\s*$", raw)
+            body = parts[2] if len(parts) >= 3 else raw
     return body.strip()
 
 def build_index():
     files = collect_photo_files()
     print(f"DEBUG: scanned {len(files)} photo page files from dirs: {PHOTO_DIRS}", file=sys.stderr)
 
-    index = {}
+    by_page = {}
+    by_photo = {}   # new per-photo index
+    duplicates = 0
+
     for path in files:
         try:
             fm = read_frontmatter(path)
@@ -179,17 +181,18 @@ def build_index():
             continue
 
         if not fm:
-            # no frontmatter or parse failed — skip quietly
+            # skip files without frontmatter
             continue
 
         # title fallback to file basename if not present
         title = fm.get("title") or fm.get("Title") or os.path.splitext(os.path.basename(path))[0]
 
-        # pages field may be called 'pages' (as in your files) — normalize it
+        # pages field may be called 'pages' — normalize it
         pages_raw = fm.get("pages") or fm.get("Pages") or []
         pages = normalize_pages_field(pages_raw)
+
         content = load_content_only(path)
-        start_date = fm.get("startDate") or fm.get("date") or None
+        start_date = fm.get("startDate") or fm.get("date") or ""
 
         # detect static file if available
         found_name = find_static_file(title)
@@ -203,23 +206,40 @@ def build_index():
             "imageURL": imageURL,
             "startDate": start_date,
             "content": content,
+            "pages": pages
         }
 
+        # append to by_page mapping (one entry may belong to multiple pages)
         for p in pages:
             key = str(p)
-            index.setdefault(key, []).append(item)
+            by_page.setdefault(key, []).append(item)
 
-    # optional: sort lists by startDate (missing dates last)
-    for k, arr in list(index.items()):
-        arr.sort(key=lambda x: (x.get('startDate') is None, x.get('startDate') or "9999-99-99"))
-        index[k] = arr
+        # add to per-photo index (warning on duplicates; preserve first)
+        if title in by_photo:
+            duplicates += 1
+            # if you want to prefer later entries, replace below; for now we keep first and log
+            print(f"WARNING: duplicate photo title '{title}' found at {path}; skipping duplicate", file=sys.stderr)
+        else:
+            by_photo[title] = item
 
-    os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
-    with open(OUT_PATH, "w", encoding="utf-8") as fh:
-        json.dump(index, fh, indent=2, ensure_ascii=False)
+    # optional: sort lists in by_page by startDate (missing dates last)
+    for k, arr in list(by_page.items()):
+        arr.sort(key=lambda x: (x.get('startDate') == "" or x.get('startDate') is None, x.get('startDate') or "9999-99-99"))
+        by_page[k] = arr
 
-    print(f"Wrote {OUT_PATH} ({len(index)} page keys)", file=sys.stderr)
-    return index
+    # ensure data/ exists
+    os.makedirs(os.path.dirname(OUT_PATH_BY_PAGE), exist_ok=True)
+
+    # write by-page mapping
+    with open(OUT_PATH_BY_PAGE, "w", encoding="utf-8") as fh:
+        json.dump(by_page, fh, indent=2, ensure_ascii=False)
+
+    # write per-photo index
+    with open(OUT_PATH_BY_PHOTO, "w", encoding="utf-8") as fh:
+        json.dump(by_photo, fh, indent=2, ensure_ascii=False)
+
+    print(f"Wrote {OUT_PATH_BY_PAGE} ({len(by_page)} page keys), {OUT_PATH_BY_PHOTO} ({len(by_photo)} photos), duplicates={duplicates}", file=sys.stderr)
+    return by_page, by_photo
 
 if __name__ == "__main__":
     build_index()

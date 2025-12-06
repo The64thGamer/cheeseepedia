@@ -25,3 +25,4 @@ content/wiki/fix-latlongs.sh
 data/photos-by-page.json
 hugo-build.log
 data/photosbypage.json
+data/photos.json
