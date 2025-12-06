@@ -28,7 +28,7 @@
         {{- $galleryHasContent = ne $galleryContent "" -}}
 
         {{- /* Determine whether there is any non-gallery article content */ -}}
-        {{- $article = or (ne $videos "") (or (ne $transcriptions "") (or (ne $reviews "") (ne $sales ""))) -}}
+        {{- $article = or (ne $videos "") (ne $transcriptions "") (ne $reviews "") (ne $sales "") (ne $galleryContent "") -}}
     {{- end -}}
 
 {{/* Article Title/Header */}}
