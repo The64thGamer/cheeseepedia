@@ -22,9 +22,9 @@ showtapeFormats = ["Media Navori"]
     5.  'Train Ride'
     6.  'Concept Unification Premiere Demo' (Together We've Got It + Dialogue)
     7.  'Dreidel Song'
-    8.  'Future Segment 1'
-1.  **Intermission 1**
-    4.  CEC TV ID - 'Marx Bros'
+    8.   CEC TV ID - 'Classic'
+    9.  'Future Segment 1'
+    10.  CEC TV ID - 'Marx Bros'
 2.  **Segment 1**
     1.  'Chuck E.'s Place'
     2.  'Up On The Housetop'   
@@ -59,14 +59,34 @@ showtapeFormats = ["Media Navori"]
     1.  Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
     2. 'Ken Chuck E. Derby 1'
     3.  'Super Jasper - 'Resist the Temptation'
-    4.  'Super Jasper - Waterfall'
-    5.  CEC TV ID - 'Cell Tower'
-12. **Segment 7**
+    4.  Chuck E. Sunrise
+13. **Segment 7**
+    1.  'What Up'
+14. **Intermission 7**
+    1.  'Ken Chuck E. Derby 2'
+    2.  'Monkey Ninjas - Episode 2'
+    3.  CEC TV ID - 'Rocketship'
+15. **Segment 8**
+    1.  'I Love the Sunshine'
+16. **Intermission 8**
+    1.  'Pasqually's Polka Minute'
+    2.  CEC TV ID - 'Singing Animals'
+17. **Segment 9**
+    1.  'CEC Chuck E. Cheese'
+18. **Intermission 9**
+    1.  'Baking with Betty - Trail Mix'
+    2.  CEC TV ID - 'Bubble Kids'
+19. **Segment 10**
+    1.  'Opposite Day'
+20. **Intermission 10**
+    1.  'Super Jasper - Waterfall'
+    2.  CEC TV ID - 'Cell Tower'
+21. **Segment 11**
     1.  'Colors'
-13. **Intermission 8**
+22. **Intermission 11**
     1.  'Wildlife'
     2.  CEC TV ID - 'Blender'
-14. **Segment 9**
+23. **Segment 12**
     1.  'No Other Place'
 
 ## Show List:

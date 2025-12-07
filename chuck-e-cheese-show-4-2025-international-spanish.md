@@ -1,7 +1,7 @@
 +++
-title = "Chuck E. Cheese Show 4 2025 International"
+title = "Chuck E. Cheese Show 4 2025 International Spanish"
 startDate = "2025-09-00"
-endDate = " 2025-10-00"
+endDate = "2025-10-00"
 pageThumbnailFile = "show425int.avif"
 contributors = ["CyberSnout"]
 citations = ["Dameaun / Show 4 2025 INT DVD"]
