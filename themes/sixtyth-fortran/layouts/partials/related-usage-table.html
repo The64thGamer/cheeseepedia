@@ -14,6 +14,7 @@
 
 {{- if ne $paramName "" -}}
   {{- $index := index site.Data "locations-index" -}}
+
   {{- $mapKey := printf "%s|%s" $paramName $currentTitle -}}
   {{- $entriesList := index $index $mapKey | default (slice) -}}
   {{- $sorted := sort $entriesList "sort" -}}
@@ -45,15 +46,28 @@
         {{- $pagePath := index $entry "page_path" | default "" -}}
         {{- $pageTitle := index $entry "page_title" | default "" -}}
 
-        {{- /* Resolve Hugo page object for nicer link/title if possible */ -}}
-        {{- $other := nil -}}
+        {{/* Resolve Hugo page object for nicer link/title if possible.
+            Initialize $other to empty string (falsey), then assign page object if found. */}}
+        {{- $other := "" -}}
         {{- if ne $pageGet "" -}}
-          {{- $other = site.GetPage $pageGet -}}
+          {{- with site.GetPage $pageGet -}}
+            {{- $other = . -}}
+          {{- end -}}
         {{- end -}}
 
         {{- /* Fallbacks for link and title */ -}}
-        {{- $otherTitle := cond $other $other.Title $pageTitle -}}
-        {{- $otherLink := cond $other $other.RelPermalink (cond (ne $pageGet "") (printf "/%s/" $pageGet) (cond (ne $pagePath "") (printf "/%s/" (replaceRE "^content/" "" (replaceRE "\\.(md|markdown|mdown)$" "" $pagePath))) "#")) -}}
+        {{- $otherTitle := cond (ne $other "") (printf "%s" $other.Title) $pageTitle -}}
+        {{- $otherLink := "#" -}}
+        {{- if ne $other "" -}}
+          {{- $otherLink = $other.RelPermalink -}}
+        {{- else if ne $pageGet "" -}}
+          {{- /* assume a site-relative section path was provided (e.g. "wiki/Some_Page") */ -}}
+          {{- $otherLink = printf "/%s/" $pageGet -}}
+        {{- else if ne $pagePath "" -}}
+          {{- /* convert "content/..." path to site URL (strip content/ and extension) */ -}}
+          {{- $clean := replaceRE "^content/" "" (replaceRE "\\.(md|markdown|mdown)$" "" $pagePath) -}}
+          {{- $otherLink = printf "/%s/" $clean -}}
+        {{- end -}}
 
         <tr>
           <td><a href="{{ $otherLink }}">{{ $otherTitle }}</a></td>
