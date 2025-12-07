@@ -89,9 +89,7 @@ Params:
     {{ $displayText }}
   </div>
 {{- else if eq $ctxMode "raw-photo" -}}
-  <a href="{{ $linkURL }}">
     <img src="{{ $imgURL }}" alt="{{ $altText }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
-  </a>
 {{- else -}}
   <div class="article-photo-image">
     <a href="{{ $linkURL }}">
