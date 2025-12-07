@@ -13,16 +13,9 @@
 {{- end -}}
 
 {{- if ne $paramName "" -}}
-
-  {{/* Fetch the prebuilt index (cached).
-      The second arg is the context (we pass .), the third is the cache key.
-      Bump the cache key when you change the partial. */}}
-  {{- $index := partialCached "build-locations-index.html" . "locations-index-v1" -}}
-
+  {{- $index := site.Data.locations_index -}}
   {{- $mapKey := printf "%s|%s" $paramName $currentTitle -}}
   {{- $entriesList := index $index $mapKey | default (slice) -}}
-
-  {{- /* Sort by sort key (the partial already built the sort key) */ -}}
   {{- $sorted := sort $entriesList "sort" -}}
 
   {{- if gt (len $sorted) 0 -}}
@@ -32,29 +25,38 @@
         <tr>
           <th>Location</th>
           <th>{{ if eq $paramName "remodels" }}Installed{{ else }}Operating Dates{{ end }}</th>
-
           {{- if eq $paramName "stages" -}}
             <th>Version</th>
           {{- else if eq $paramName "animatronics" -}}
             <th>Serial Number</th>
             <th>Notes</th>
           {{- else if eq $paramName "remodels" -}}
-            {{/* no additional columns for remodels */}}
+            {{/* no extra */}}
           {{- else -}}
             <th>Notes</th>
           {{- end -}}
-
         </tr>
       </thead>
-
       <tbody>
-
       {{- range $sorted -}}
-        {{- $other := .page -}}
-        {{- $parts := .parts -}}
+        {{- $entry := . -}}
+        {{- $parts := index $entry "parts" | default (slice) -}}
+        {{- $pageGet := index $entry "page_get" | default "" -}}
+        {{- $pagePath := index $entry "page_path" | default "" -}}
+        {{- $pageTitle := index $entry "page_title" | default "" -}}
+
+        {{- /* Resolve Hugo page object for nicer link/title if possible */ -}}
+        {{- $other := nil -}}
+        {{- if ne $pageGet "" -}}
+          {{- $other = site.GetPage $pageGet -}}
+        {{- end -}}
+
+        {{- /* Fallbacks for link and title */ -}}
+        {{- $otherTitle := cond $other $other.Title $pageTitle -}}
+        {{- $otherLink := cond $other $other.RelPermalink (cond (ne $pageGet "") (printf "/%s/" $pageGet) (cond (ne $pagePath "") (printf "/%s/" (replaceRE "^content/" "" (replaceRE "\\.(md|markdown|mdown)$" "" $pagePath))) "#")) -}}
 
         <tr>
-          <td><a href="{{ $other.RelPermalink }}">{{ $other.Title }}</a></td>
+          <td><a href="{{ $otherLink }}">{{ $otherTitle }}</a></td>
 
           <td>
             {{- $start := "" -}}
@@ -65,14 +67,16 @@
             {{- if eq $paramName "remodels" -}}
               {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}
             {{- else -}}
-              {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}
+              {{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}
+              {{- " - " -}}
+              {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}
             {{- end -}}
           </td>
 
           {{- if eq $paramName "animatronics" -}}
             <td>
               {{- if ge (len $parts) 4 -}}
-                {{- trim (index $parts 3) " " -}}
+                {{- index $parts 3 | printf "%s" | plainify -}}
               {{- else -}}
                 &nbsp;
               {{- end -}}
@@ -82,7 +86,7 @@
               {{- $animNotes := slice -}}
               {{- range $i, $p := $parts -}}
                 {{- if ge $i 4 -}}
-                  {{- $animNotes = $animNotes | append (trim $p " ") -}}
+                  {{- $animNotes = $animNotes | append (printf "%s" $p | plainify) -}}
                 {{- end -}}
               {{- end -}}
               {{- if gt (len $animNotes) 0 -}}
@@ -95,7 +99,7 @@
           {{- else if eq $paramName "stages" -}}
             <td>
               {{- if ge (len $parts) 4 -}}
-                {{- trim (index $parts 3) " " -}}
+                {{- index $parts 3 | printf "%s" | plainify -}}
               {{- else -}}
                 &nbsp;
               {{- end -}}
@@ -105,19 +109,14 @@
             {{- /* no extra columns */ -}}
           {{- else -}}
             <td>
-              {{- $notesStr := "" -}}
+              {{- $notesArr := slice -}}
               {{- range $i, $p := $parts -}}
                 {{- if ge $i 3 -}}
-                  {{- $trim := trim $p " " -}}
-                  {{- if eq $notesStr "" -}}
-                    {{- $notesStr = $trim -}}
-                  {{- else -}}
-                    {{- $notesStr = printf "%s | %s" $notesStr $trim -}}
-                  {{- end -}}
+                  {{- $notesArr = $notesArr | append (printf "%s" $p | plainify) -}}
                 {{- end -}}
               {{- end -}}
-              {{- if ne $notesStr "" -}}
-                {{- $notesStr -}}
+              {{- if gt (len $notesArr) 0 -}}
+                {{- delimit $notesArr " | " -}}
               {{- else -}}
                 &nbsp;
               {{- end -}}
@@ -126,9 +125,7 @@
 
         </tr>
       {{- end -}}
-
       </tbody>
     </table>
   {{- end -}}
-
 {{- end -}}

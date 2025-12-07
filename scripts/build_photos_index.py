@@ -1,22 +1,21 @@
 #!/usr/bin/env python3
 """
-Robust photo index builder — manual frontmatter parsing.
+Robust photo & locations index builder.
 
 Outputs:
  - data/photosbypage.json   : mapping "Wiki Page Title" -> [photo metadata...]
  - data/photos.json         : mapping "photoFileName" -> metadata (single object) for O(1) lookup
-
-Each photo metadata object contains:
-  {
-    "name": "<photoFilename>",
-    "page_path": "content/photos/xxx.md",
-    "hasFile": true|false,
-    "imageURL": "/photos/xxx.avif" or "/UI/File Not Found.jpg",
-    "startDate": "YYYY-MM-DD" or "",
-    "content": "<body text>",
-    "pages": ["Wiki Title 1", ...]
-  }
+ - data/locations-index.json: mapping "<paramName>|<LocationTitle>" -> [entry...]
+    where each entry is:
+      {
+        "page_get": "locations/some-page",   # use with site.GetPage
+        "page_path": "content/locations/some-page.md",
+        "page_title": "Some Page Title",
+        "parts": ["Location Title", "YYYY-MM-DD", "..."],
+        "sort": "YYYYMMDD"  # sortable string
+      }
 """
+from __future__ import annotations
 import os
 import sys
 import json
@@ -43,11 +42,15 @@ PHOTO_DIRS = [
     "themes/sixtyth-fortran/content/photos"
 ]
 STATIC_PHOTOS_DIR = "static/photos"
-OUT_PATH_BY_PAGE = "data/photosbypage.json"   # existing output (user-named)
-OUT_PATH_BY_PHOTO = "data/photos.json"       # new per-photo index for fast lookup
+OUT_PATH_BY_PAGE = "data/photosbypage.json"
+OUT_PATH_BY_PHOTO = "data/photos.json"
+OUT_PATH_LOCATIONS = "data/locations-index.json"
 COMMON_EXTS = ["", ".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"]
 
-def find_static_file(basename):
+# The param names we care about for the locations index.
+PARAM_NAMES = ["animatronics", "attractions", "stages", "remodels"]
+
+def find_static_file(basename: str):
     """Try to find a static file for a given basename. Return filename (relative to /photos) or None."""
     candidates = [basename] if os.path.splitext(basename)[1] else [basename + e for e in COMMON_EXTS]
     for c in candidates:
@@ -56,7 +59,7 @@ def find_static_file(basename):
             return c
     return None
 
-def read_frontmatter(path):
+def read_frontmatter(path: str):
     """Read front matter from file and return a dict (or {}).
        Supports TOML (+++ ... +++) and YAML (--- ... ---).
     """
@@ -77,7 +80,6 @@ def read_frontmatter(path):
         # TOML frontmatter
         end_idx = txt.find("\n+++", 3)
         if end_idx == -1:
-            # try searching for '+++' on its own line
             parts = txt.splitlines()
             try:
                 second = parts.index("+++", 1)
@@ -146,7 +148,16 @@ def collect_photo_files():
                     files.append(os.path.join(root, fname))
     return files
 
-def load_content_only(path):
+def collect_all_content_files():
+    """Collect all .md/.markdown/.mdown files under content/ (including theme content if needed)"""
+    files = []
+    for root, _, fnames in os.walk("content"):
+        for fname in fnames:
+            if fname.lower().endswith((".md", ".markdown", ".mdown")):
+                files.append(os.path.join(root, fname))
+    return files
+
+def load_content_only(path: str):
     """Return the body (content) only. Prefer manual split for TOML (+++)."""
     with open(path, encoding="utf-8-sig") as f:
         raw = f.read()
@@ -160,17 +171,16 @@ def load_content_only(path):
             post = frontmatter.load(path, encoding="utf-8-sig")
             body = post.content or ""
         except Exception:
-            # ultimate fallback: try to remove YAML frontmatter manually
             parts = re.split(r"(?m)^---\s*$", raw)
             body = parts[2] if len(parts) >= 3 else raw
     return body.strip()
 
-def build_index():
+def build_photos_indices():
     files = collect_photo_files()
     print(f"DEBUG: scanned {len(files)} photo page files from dirs: {PHOTO_DIRS}", file=sys.stderr)
 
     by_page = {}
-    by_photo = {}   # new per-photo index
+    by_photo = {}
     duplicates = 0
 
     for path in files:
@@ -181,20 +191,14 @@ def build_index():
             continue
 
         if not fm:
-            # skip files without frontmatter
             continue
 
-        # title fallback to file basename if not present
         title = fm.get("title") or fm.get("Title") or os.path.splitext(os.path.basename(path))[0]
-
-        # pages field may be called 'pages' — normalize it
         pages_raw = fm.get("pages") or fm.get("Pages") or []
         pages = normalize_pages_field(pages_raw)
-
         content = load_content_only(path)
         start_date = fm.get("startDate") or fm.get("date") or ""
 
-        # detect static file if available
         found_name = find_static_file(title)
         has_file = bool(found_name)
         imageURL = f"/photos/{found_name}" if found_name else "/UI/File Not Found.jpg"
@@ -209,37 +213,121 @@ def build_index():
             "pages": pages
         }
 
-        # append to by_page mapping (one entry may belong to multiple pages)
         for p in pages:
             key = str(p)
             by_page.setdefault(key, []).append(item)
 
-        # add to per-photo index (warning on duplicates; preserve first)
         if title in by_photo:
             duplicates += 1
-            # if you want to prefer later entries, replace below; for now we keep first and log
             print(f"WARNING: duplicate photo title '{title}' found at {path}; skipping duplicate", file=sys.stderr)
         else:
             by_photo[title] = item
 
-    # optional: sort lists in by_page by startDate (missing dates last)
+    # sort by startDate
     for k, arr in list(by_page.items()):
-        arr.sort(key=lambda x: (x.get('startDate') == "" or x.get('startDate') is None, x.get('startDate') or "9999-99-99"))
+        arr.sort(key=lambda x: ((x.get('startDate') == "" or x.get('startDate') is None), x.get('startDate') or "9999-99-99"))
         by_page[k] = arr
 
-    # ensure data/ exists
-    os.makedirs(os.path.dirname(OUT_PATH_BY_PAGE), exist_ok=True)
+    return by_page, by_photo, duplicates
 
-    # write by-page mapping
-    with open(OUT_PATH_BY_PAGE, "w", encoding="utf-8") as fh:
-        json.dump(by_page, fh, indent=2, ensure_ascii=False)
+def build_locations_index():
+    """Scan content/ for pages with PARAM_NAMES in frontmatter and build index."""
+    files = collect_all_content_files()
+    index = {}
 
-    # write per-photo index
-    with open(OUT_PATH_BY_PHOTO, "w", encoding="utf-8") as fh:
-        json.dump(by_photo, fh, indent=2, ensure_ascii=False)
+    for path in files:
+        # skip photos content since those are handled separately
+        if os.path.commonpath([os.path.abspath(path), os.path.abspath("content/photos")]) == os.path.abspath("content/photos"):
+            continue
 
-    print(f"Wrote {OUT_PATH_BY_PAGE} ({len(by_page)} page keys), {OUT_PATH_BY_PHOTO} ({len(by_photo)} photos), duplicates={duplicates}", file=sys.stderr)
-    return by_page, by_photo
+        try:
+            fm = read_frontmatter(path)
+        except Exception as e:
+            print(f"ERROR reading frontmatter (locations) {path}: {e}", file=sys.stderr)
+            continue
+
+        if not fm:
+            continue
+
+        # normalize title
+        page_title = fm.get("title") or fm.get("Title") or ""
+        relpath = os.path.relpath(path).replace(os.sep, "/")  # e.g., content/locations/foo.md
+
+        # compute page_get value for Hugo's site.GetPage: remove leading "content/" and extension
+        page_get = re.sub(r'\.(md|markdown|mdown)$', '', relpath)
+        if page_get.startswith("content/"):
+            page_get = page_get[len("content/"):]
+
+        # for each param name, look for values
+        for param in PARAM_NAMES:
+            # allow both lowercase and Titlecase keys commonly used in frontmatter
+            entries_raw = fm.get(param) or fm.get(param.title()) or fm.get(param.upper()) or []
+            # normalize to list
+            if entries_raw is None:
+                entries = []
+            elif isinstance(entries_raw, str):
+                entries = [entries_raw]
+            elif isinstance(entries_raw, list):
+                entries = entries_raw
+            else:
+                # fallback
+                entries = [str(entries_raw)]
+
+            for entry in entries:
+                # split on '|' and strip whitespace
+                parts = [p.strip() for p in str(entry).split("|")]
+                if not parts or parts[0] == "":
+                    continue
+                name = parts[0]
+                # start date at index 1 if present
+                start = parts[1] if len(parts) > 1 else ""
+                # normalize start to sortable key
+                s = start or "9999-99-99"
+                sp = s.split("-")
+                year = sp[0] if len(sp) > 0 else "9999"
+                month = sp[1] if len(sp) > 1 else "99"
+                day = sp[2] if len(sp) > 2 else "99"
+                if year == "0000":
+                    year = "9999"
+                if month == "00":
+                    month = "99"
+                if day == "00":
+                    day = "99"
+                sort_key = f"{year:0>4}{month:0>2}{day:0>2}"
+
+                entry_dict = {
+                    "page_get": page_get,
+                    "page_path": relpath,
+                    "page_title": page_title,
+                    "parts": parts,
+                    "sort": sort_key
+                }
+
+                map_key = f"{param}|{name}"
+                index.setdefault(map_key, []).append(entry_dict)
+
+    # sort each list by sort key
+    for k, arr in list(index.items()):
+        arr.sort(key=lambda x: x.get("sort") or "99999999")
+        index[k] = arr
+
+    return index
+
+def write_json(path: str, obj):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with open(path, "w", encoding="utf-8") as fh:
+        json.dump(obj, fh, indent=2, ensure_ascii=False)
+
+def build_index():
+    by_page, by_photo, duplicates = build_photos_indices()
+    loc_index = build_locations_index()
+
+    write_json(OUT_PATH_BY_PAGE, by_page)
+    write_json(OUT_PATH_BY_PHOTO, by_photo)
+    write_json(OUT_PATH_LOCATIONS, loc_index)
+
+    print(f"Wrote {OUT_PATH_BY_PAGE} ({len(by_page)} page keys), {OUT_PATH_BY_PHOTO} ({len(by_photo)} photos), {OUT_PATH_LOCATIONS} ({len(loc_index)} keys), duplicates={duplicates}", file=sys.stderr)
+    return by_page, by_photo, loc_index
 
 if __name__ == "__main__":
     build_index()
