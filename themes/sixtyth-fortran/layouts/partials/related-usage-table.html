@@ -13,7 +13,7 @@
 {{- end -}}
 
 {{- if ne $paramName "" -}}
-  {{- $index := index site.Data "locations_index" -}}
+  {{- $index := index site.Data "locations-index" -}}
   {{- $mapKey := printf "%s|%s" $paramName $currentTitle -}}
   {{- $entriesList := index $index $mapKey | default (slice) -}}
   {{- $sorted := sort $entriesList "sort" -}}
