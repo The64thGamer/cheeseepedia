@@ -52,13 +52,15 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     9.  KIDZ BOP Kids - 'TEXAS HOLD 'EM'
 
 ## Lives:
-
 - Chuck E. Cheese Birthday Extravaganza (Legacy CEC Stage Navori)
 - Chuck E. Cheese Birthday Extravaganza Spanish (Legacy CEC Stage Navori)
 - Me & My Friends (Legacy CEC Stage Navori)
 - Beach Party Bash (Legacy CEC Stage Navori)
 - Chuck E. Bop (Legacy CEC Stage Navori)
 
-## Trivia
-
-- "Most Perfect Day","It's The 70s", and "Every Boy, Every Girl" can be used for Manuel Selection at MMBB Legacy Stores.
+## Fireables:
+1. Munch’s Make Believe Band - ‘Together We’ve Got It’ 2017 (CEC Stage Legacy Navori) 
+2. Munch’s Make Believe Band - ‘Every Boy Every Girl’ 2017 (CEC Stage Legacy Navori) 
+3. Munch’s Make Believe Band - ‘It’s the 70s’ (CEC Stage Legacy Navori) 
+4. Chuck E. & Friends - ‘Sparkles’ (CEC Stage Legacy Navori) 
+5. Chuck E. & Friends - ‘Most Perfect Day’ (CEC Stage Legacy Navori)
