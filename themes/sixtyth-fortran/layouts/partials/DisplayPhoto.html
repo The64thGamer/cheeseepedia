@@ -4,7 +4,7 @@ DisplayPhoto.html — fast, stable, per-photo lookup
 - Falls back to site.Data.photosbypage (data/photosbypage.json) by building a tiny map
 Params:
   .name - photo filename/title (e.g. "blah.avif")
-  .mode - "default", "no-css", "no-css-no-desc", "no-css-file-link", "no-link"
+  .mode - "default", "no-css", "raw-photo"
 */ -}}
 
 {{- $ctxName := (.name | default "") | printf "%s" -}}
@@ -56,10 +56,7 @@ Params:
 {{- $dateStr := "" -}}
 {{- if $m -}}
   {{- with index $m "content" -}}
-    {{- $tmp := . | plainify | replaceRE "^\\s+|\\s+$" "" -}}
-    {{- if ne $tmp "" -}}
-      {{- $desc = $tmp -}}
-    {{- end -}}
+      {{- $desc = . -}}
   {{- end -}}
   {{- with index $m "startDate" -}}
     {{- if ne . "" -}}
@@ -70,21 +67,12 @@ Params:
 
 {{- $linkURL := "#" -}}
 {{- if $m -}}
-  {{- with index $m "page_path" -}}
-    {{- $pp := printf "%s" . -}}
-    {{- if ne $pp "" -}}
-      {{- $match := first 1 (where site.RegularPages "File.Path" $pp) -}}
-      {{- if $match -}}
-        {{- $page := index $match 0 -}}
-        {{- $linkURL = $page.RelPermalink -}}
-      {{- else -}}
-        {{- $trimmed := replaceRE "\\.(md|markdown|mdown)$" "" $pp -}}
-        {{- $gp := site.GetPage $trimmed -}}
-        {{- if $gp -}}
-          {{- $linkURL = $gp.RelPermalink -}}
-        {{- end -}}
-      {{- end -}}
-    {{- end -}}
+  {{- $raw := (index $m "page_path") | default "" -}}
+  {{- if ne $raw "" -}}
+    {{- /* Strip content/ and extension */ -}}
+    {{- $p1 := replace $raw "content/" "" -}}
+    {{- $p2 := replaceRE "\\.md$" "" $p1 -}}
+    {{- $linkURL = printf "/%s/" $p2 -}}
   {{- end -}}
 {{- end -}}
 
@@ -93,23 +81,17 @@ Params:
 {{- $displayText := cond (ne $desc "") (printf "%s%s" $desc (cond (ne $dateStr "") (printf " (%s)" $dateStr) "")) (cond (ne $ctxName "") (replace $ctxName "_" " ") "File Not Found") -}}
 
 {{- /* === Render according to mode === */ -}}
-{{- if in (slice "default" "no-css" "no-css-file-link") $ctxMode -}}
-  <div class="article-photo-image">
-    <a href="{{ $linkURL }}">
-      <img src="{{ $imgURL }}" alt="{{ $altText }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
-    </a>
-  </div>
-  {{- if ne $ctxMode "no-css-file-link" -}}
-    <div class="article-photo-description">
-      {{ $displayText }}
-    </div>
-  {{- end -}}
-{{- else if eq $ctxMode "no-css-no-desc" -}}
+{{- if eq "no-css" $ctxMode -}}
   <a href="{{ $linkURL }}">
     <img src="{{ $imgURL }}" alt="{{ $altText }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
   </a>
-{{- else if eq $ctxMode "no-link" -}}
-  <img src="{{ $imgURL }}" alt="{{ $altText }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
+  <div class="article-photo-description">
+    {{ $displayText }}
+  </div>
+{{- else if eq $ctxMode "raw-photo" -}}
+  <a href="{{ $linkURL }}">
+    <img src="{{ $imgURL }}" alt="{{ $altText }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
+  </a>
 {{- else -}}
   <div class="article-photo-image">
     <a href="{{ $linkURL }}">
