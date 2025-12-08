@@ -1,16 +1,11 @@
 {{- if .IsHome -}}
-  {{- $sections := .Site.Sections }}
-  {{- range $sections -}}
-    {{- $section := .Section -}}
-    {{- $sectionData := slice -}}
-    {{- $pages := where site.RegularPages "Section" "eq" $section -}}
-    {{- range $pages -}}
-      {{- $pageData:= dict "00-title" .Title "01-content" .Content "02-permalink" .RelPermalink -}}
-      {{- $sectionData = $sectionData | append $pageData -}}
-    {{- end -}}
-    {{- $json := $sectionData | jsonify (dict "noHTMLEscape" true) -}}
-    {{- $noop := (resources.FromString (printf "/%s.json" $section) $json).Permalink -}}
+  {{- $pagesData := slice -}}
+  {{- range site.RegularPages -}}
+    {{- $pageData:= dict "00-title" .Title "01-content" .Content "02-permalink" .RelPermalink -}}
+    {{- $pagesData = $pagesData | append $pageData -}}
   {{- end -}}
+  {{- $j := $pagesData | jsonify (dict "noHTMLEscape" true) -}}
+  {{- $noop := (resources.FromString "/pages.json" $j).Permalink -}}
 {{- end -}}
 
 {{ if .IsHome }}
