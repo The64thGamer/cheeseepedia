@@ -35,8 +35,9 @@ The Studio C version of this live show does not include the countdown and instea
 | 1998         | {{< wiki-link "September 1998" >}} | Studio C 4X Laserdisc + Files|
 | 1999         | {{< wiki-link "January 1999" >}} | Studio C 4X Laserdisc + Files|
 | 1999         | {{< wiki-link "April 1999" >}} | Studio C 4X Laserdisc + Files|
-| 2000         | {{< wiki-link "August 1999" >}} | Studio C 3X DVD + Floppy|
-| 2000         | {{< wiki-link "Chuck E's Holiday Party 1999" >}} | Studio C 3X DVD + Floppy|
+| 1999         | {{< wiki-link "August 1999" >}} | Studio C 3X DVD + Floppy|
+| 1999         | {{< wiki-link "Chuck E's Holiday Party 1999" >}} | Studio C 3X DVD + Floppy|
+| 2000         | {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}} | Studio C 3X DVD + Floppy|
 | 2000         | {{< wiki-link "Just For Kids Show 2000" >}} | Studio C 3X DVD + Floppy|
 | 2000         | {{< wiki-link "Summertime 2000" >}} | Studio C 3X DVD + Floppy|
 | 2000         | {{< wiki-link "September 2000 Show" >}} | Studio C 3X DVD + Floppy|
