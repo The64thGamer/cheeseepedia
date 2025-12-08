@@ -5,14 +5,14 @@ startDate = "1979-11-00"
 endDate = "1980-00-00"
 pageThumbnailFile = "jppsdkMu1D2N3ekUopFg.avif"
 contributors = ["The 64th Gamer","Ceclife13"]
-citations = ["cfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjEwMTIzNTM3MzIsImlhdCI6MTcyOTMxNDE2NiwiZXhwIjoxNzI5NDAwNTY2fQ.3zRvf1oJwM6E8BADHDJXP5SjU0JaG-mJ5twPRfHwodQ&terms=show&match=1"]
+citations = ["cfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjEwMTIzNTM3MzIsImlhdCI6MTcyOTMxNDE2NiwiZXhwIjoxNzI5NDAwNTY2fQ.3zRvf1oJwM6E8BADHDJXP5SjU0JaG-mJ5twPRfHwodQ&terms=show&match=1","https://www.newspapers.com/image-view/1012353732/?clipping_id=135287216&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjEwMTIzNTM3MzIsImlhdCI6MTc2NTE1MTU5MiwiZXhwIjoxNzY1MjM3OTkyfQ.JIbcJH2IsSLhkhuouUEYMEGcIXwRmfBc--hFYW-MwzU"]
 showtapeFormats = ["Cyberamics Reel"]
 transcriptions = ["Salute to The Great American Railroad"]
 alsoKnownAs = ["SKIT-SALLY 1XMAS-USA 027-0019-10"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 +++
-***Sally 1 / Xmas / USA*** is a Pizza Time Theatre showtape featuring the guest star *Sally Sashay*, which played from November of 1979 to the latest confirmed showing in mid January of 1980.{{< cite 1 >}}
+***Sally 1 / Xmas / USA*** is a Pizza Time Theatre showtape featuring the guest star *Sally Sashay*, which played from November of 1979 to the latest confirmed showing in mid January of 1980.{{< cite 2 >}}
 
 ## Segments:
 
