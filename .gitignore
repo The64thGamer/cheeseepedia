@@ -27,3 +27,5 @@ hugo-build.log
 data/photosbypage.json
 data/photos.json
 data/locations-index.json
+
+cepvenv/
