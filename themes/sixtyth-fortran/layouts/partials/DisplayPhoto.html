@@ -75,6 +75,14 @@ Params:
 {{- $altText := cond (ne $desc "") $desc $ctxName -}}
 {{- $displayText := cond (ne $desc "") (printf "%s%s" $desc (cond (ne $dateStr "") (printf " (%s)" $dateStr) "")) (cond (ne $ctxName "") (replace $ctxName "_" " ") "File Not Found") -}}
 
+{{- $notFoundPath := "/UI/File Not Found.jpg" -}}
+{{- if or (eq $ctxName "") (not $m) (not $hasFile) -}}
+  {{- $imgURL = $notFoundPath -}}
+  {{- $lowResURL = $notFoundPath -}}
+  {{- $altText = "File Not Found" -}}
+  {{- $displayText = "File Not Found" -}}
+{{- end -}}
+
 {{- /* === Render according to mode with lazy-loading === */ -}}
 {{- if eq "no-css" $ctxMode -}}
   <a href="{{ $linkURL }}">
