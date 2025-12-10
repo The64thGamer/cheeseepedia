@@ -424,6 +424,25 @@ background-color: var(--aqua);
   margin-top: 1em;
 }
 
+.lazy-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  filter: blur(8px);
+  opacity: 0.5;
+  transition: filter 1.2s ease, opacity 1.2s ease;
+}
+
+.lazy-photo.loaded {
+  filter: blur(0);
+  opacity: 1;
+}
+
+.article-photo-image:hover .lazy-photo {
+  opacity: 0.9;
+  transition: opacity 0.8s ease;
+}
+
 .article-photo-thumbnail{
   border-radius: 1em;
   width: auto;
