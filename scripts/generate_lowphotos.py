@@ -27,7 +27,7 @@ def process_one(src_path: Path, dst_path: Path, size: int, fmt: str, quality: in
 
         # read with sequential access (low memory) and create thumbnail
         # pyvips.Image.thumbnail is optimized and memory-friendly
-        img = pyvips.Image.thumbnail(str(src_path), size, size=size)
+        img = pyvips.Image.thumbnail(str(src_path), size, size="down")   # only downsize
         # decide filename and write params
         if fmt == "webp":
             # Q argument controls quality for webp
@@ -52,7 +52,7 @@ def main():
     p.add_argument("--src", default="static/photos")
     p.add_argument("--dst", default="static/lowphotos")
     p.add_argument("--size", type=int, default=64)
-    p.add_argument("--format", choices=("webp","avif","jpg"), default="webp")
+    p.add_argument("--format", choices=("webp","avif","jpg"), default="avif")
     p.add_argument("--quality", type=int, default=30)
     p.add_argument("--workers", type=int, default=max(1, multiprocessing.cpu_count()))
     args = p.parse_args()

@@ -23,7 +23,6 @@ Params:
         {{- if ne $n "" -}}
           {{- $entry := dict
               "name" (index $m "name")
-              "imageURL" (index $m "imageURL")
               "hasFile" (index $m "hasFile")
               "fileName" (index $m "fileName")
               "startDate" (index $m "startDate")
@@ -42,13 +41,11 @@ Params:
 {{- $m := index $metaMap $ctxName -}}
 
 {{- /* === Image URL / hasFile fallback === */ -}}
-{{- $imgURL := "/UI/File Not Found.jpg" -}}
+{{- $imgURL := printf "/photos/%s" $ctxName -}}
+{{- $lowResURL := printf "/lowphotos/%s" $ctxName -}}
 {{- $hasFile := false -}}
 {{- if $m -}}
-  {{- $imgURL = index $m "imageURL" | default $imgURL -}}
   {{- $hasFile = index $m "hasFile" | default false -}}
-{{- else if ne $ctxName "" -}}
-  {{- $imgURL = printf "/photos/%s" $ctxName -}}
 {{- end -}}
 
 {{- /* === Description and formatted date === */ -}}
@@ -69,34 +66,28 @@ Params:
 {{- if $m -}}
   {{- $raw := (index $m "page_path") | default "" -}}
   {{- if ne $raw "" -}}
-    {{- /* Strip content/ and extension */ -}}
     {{- $p1 := replace $raw "content/" "" -}}
     {{- $p2 := replaceRE "\\.md$" "" $p1 -}}
     {{- $linkURL = printf "/%s/" $p2 -}}
   {{- end -}}
 {{- end -}}
 
-{{- /* === Helper for alt / fallback display text === */ -}}
 {{- $altText := cond (ne $desc "") $desc $ctxName -}}
 {{- $displayText := cond (ne $desc "") (printf "%s%s" $desc (cond (ne $dateStr "") (printf " (%s)" $dateStr) "")) (cond (ne $ctxName "") (replace $ctxName "_" " ") "File Not Found") -}}
 
-{{- /* === Render according to mode === */ -}}
+{{- /* === Render according to mode with lazy-loading === */ -}}
 {{- if eq "no-css" $ctxMode -}}
   <a href="{{ $linkURL }}">
-    <img src="{{ $imgURL }}" alt="{{ $altText }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
+    <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText }}" class="lazy-photo" loading="lazy" />
   </a>
-  <div class="article-photo-description">
-    {{ $displayText }}
-  </div>
+  <div class="article-photo-description">{{ $displayText }}</div>
 {{- else if eq $ctxMode "raw-photo" -}}
-    <img src="{{ $imgURL }}" alt="{{ $altText }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
+  <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText }}" class="lazy-photo" loading="lazy" />
 {{- else -}}
   <div class="article-photo-image">
     <a href="{{ $linkURL }}">
-      <img src="{{ $imgURL }}" alt="{{ $altText }}" data-pagefind-meta="image[src], image_alt[alt]" loading="lazy" />
+      <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText }}" class="lazy-photo" loading="lazy" />
     </a>
   </div>
-  <div class="article-photo-description">
-    {{ $displayText }}
-  </div>
+  <div class="article-photo-description">{{ $displayText }}</div>
 {{- end -}}
