@@ -1,7 +1,7 @@
 +++
 title = "Long Beach, CA (4706 Los Coyotes Diagonal)"
 storeNumber = ""
-startDate = "1980-00-00"
+startDate = "1980-12-00"
 endDate = "1984-00-00"
 cuDate = ""
 remodels = []
