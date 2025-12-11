@@ -7,7 +7,7 @@ pageThumbnailFile = ""
 startDate = "1980-10-06"
 endDate = "1980-10-16"
 citations = ["https://www.newspapers.com/image/621766600/?clipping_id=42660199&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjYyMTc2NjYwMCwiaWF0IjoxNzY1NDg5MzQwLCJleHAiOjE3NjU1NzU3NDB9.3H6d3yt9Plnja1Y7jXonhAHsHw1gkpfSSizpBmZyr1s"]
-contributors = ["The 64th Gamer]
+contributors = ["The 64th Gamer"]
 +++
 
 The ***1980 Roll for Multiple Sclerosis*** was a charity event at all 15 then current Pizza Time Theatre locations which lasted from October 6th to the 16th in 1980.

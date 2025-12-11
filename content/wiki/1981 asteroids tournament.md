@@ -7,7 +7,7 @@ pageThumbnailFile = ""
 startDate = "1981-08-24"
 endDate = "1980-09-03"
 citations = ["https://www.newspapers.com/image/474365024/?fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjQ3NDM2NTAyNCwiaWF0IjoxNzY1NDg2MDU5LCJleHAiOjE3NjU1NzI0NTl9.ztMdPKOgrq1L7olUQBibiXcOSYrVpb0GsP-HAPSinqo","https://www.atariarchive.org/atari-vcs-game-release-dates/","https://www.youtube.com/watch?v=Ww52x5Fo2_Y"]
-contributors = ["The 64th Gamer]
+contributors = ["The 64th Gamer"]
 +++
 
 The ***1981 Play Asteroids and Benefit Muscular Dystrophy*** was a charity event at all 50 then current Pizza Time Theatre locations which lasted from August 24th through September 3rd of 1981. The tournament would be touted as the first national sponsored video game contest.
