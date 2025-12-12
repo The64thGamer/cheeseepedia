@@ -26,7 +26,7 @@ I'm a fan of animatronics, CEC, & more.
 - {{< wiki-link "Kooser Dolli Dimples (Animatronic)" >}}
 - Kooser Applause Board (Animatronic)
 - Chuck E. Cheese (Cyberamic)
-- {{< wiki-link "The King King Kat (Lounge)" >}}
+- {{< wiki-link "The King / King Kat (Lounge)" >}}
 - {{< wiki-link "Dr Quack (Cyberamic)" >}}
 - Ox Character (Cyberamic)
 - {{< wiki-link "Beach Bear (Animatronic)" >}}

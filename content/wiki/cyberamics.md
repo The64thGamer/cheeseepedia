@@ -41,7 +41,7 @@ A large animatronic with a similar base to the main cast would be made for the C
 
 Additional unique characters would be built for the Lounge and Ice Cream Emporium sections of stores.
 
-* {{< wiki-link "The King King Kat (Lounge)" >}}
+* {{< wiki-link "The King / King Kat (Lounge)" >}}
 * {{< wiki-link "Beagles / Beach Bowsers (Lounge)" >}}
 * {{< wiki-link "Helen Henny (Lounge)" >}}
 * {{< wiki-link "Four Little Shavers (Ice Cream Emporium)" >}}

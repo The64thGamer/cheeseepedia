@@ -72,6 +72,19 @@ A collection of the earliest showtapes were produced on the {{< wiki-link "Winch
 ### Showboat
 {{< wiki-link "Showboat" >}} is another lost tape from {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, this time exlusively played during its debut of {{< wiki-link "Cyberamics" >}} in the week of April 21st-27th, 1980. A poster, advertisement, reviews, and a stage photo have been found, yet nothing from the actual tape has surfaced.
 
+### The Pizza Times & Games Examiner
+The Pizza Times was an internal magazine that is a wealth of information for everything happening with Pizza Time Theatre from 1979-1983. The Games Examiner was a spinoff magazine that focused on games and prizes, which had exclusive features for individual topics outside of the issues. Note that The Pizza Times reset their volume count going into 1981, they denote older issues with "number 1" instead of "issue 1".
+
+- It is likely more Pizza Times issues were made for 1980, as the first was December 1979, next was May 1980, and then the next one that's been found is May 1981. The rest continue with about 3 a year.
+- The Pizza Times Vol.2 Iss.1 (1982), is missing.
+- There is no indication when The Pizza Times stopped, so there may be issues past Vol.3 that are missing, though likely it did stop with the 1984 bankruptcy.
+- The Games Examiner Vol.1 Iss.1 is missing.
+- Since there is no catalog, it is likely there are other Games Examiner "Featured" issues undocumented. Two currently are found.
+- There is no indication when The Games Examiner stopped, so there may be issues past Vol.1 Iss.2 that are missing.
+
+
+Volume Two, Issue One of The Pizza Times, , is completely lost. It is also possible Vol.1 Iss.3
+
 ### Dr. Quack
 {{< wiki-link "Dr. Quack (Cyberamic)" >}} is a lost Cabaret test character that debuted at the {{< wiki-link "Simi Valley, CA (71 Tierra Rejada Rd)" >}} location in 1980. Their showtape is confirmed to have been made up children's songs and nursery rhymes. Two different designs of the character have also been seen, both at the Sunnyvale, CA offices. The character has often been confused with the name of the Pizza Time Theatre diagnostic showtapes, which are usually labeled "Dr. Dux Diagnostic" or "Dr. Duck's Diagnostic".
 

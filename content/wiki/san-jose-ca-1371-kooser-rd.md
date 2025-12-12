@@ -5,13 +5,13 @@ startDate = "1978-12-02"
 endDate = "2020-06-25"
 cuDate = ""
 remodels = ["PTT Standard Layout|1978-12-02","PTT Early Cyberamic Replacements|1983-00-00"]
-stages = []
+stages = ["Cyberamics Portrait / Shelf Stage|1978-12-02|1980-04-00|2-Wall","Balcony Stage|1980-04-00|0000-00-00","2-Stage|0000-00-00|2020-06-25"]
 franchisees = []
 attractions = []
 sqft = "19,000"
 latitudeLongitude = ["37.24507007", "-121.8898435"]
 citations = ["http://csjpbce.sanjoseca.gov/ecmsviewer/148/836/3836148.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/474/391/3391474.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf", "https://en.wikipedia.org/wiki/Steamboat", "http://csjpbce.sanjoseca.gov/ecmsviewer/210/393/3393210.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/028/404/3404028.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/275/979/7979275.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/258/960/7960258.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/762/001/45001762.pdf", "https://www.nbcbayarea.com/news/local/making-it-in-the-bay/affordable-housing-proposed-for-former-chuck-e-cheese-site-in-san-jose-report/2479008/","https://archive.org/details/popularelectroni16unse_1/page/110/mode/2up?q=%22pizza+time+theatre%22"]
-contributors = []
+contributors = ["The 64th Gamer"]
 downloadLinks = ["https://archive.org/download/pizza-time-theatre-kooser-plans|Building Plans & Permits (1961-1996)","https://archive.org/details/huntington-beach-kooser-rd-building-plans/Administrative_Reviews_ARX1979029_-_Supporting_Documents-2.pdf|Kooser Road Fact Sheet (December 4th, 1978)"]
 pageThumbnailFile = "EFEMrtsXt5C6i62q1coh.avif"
 tags = ["Locations"]
@@ -27,7 +27,7 @@ Before its debut as a Pizza Time Theatre, *1371 Kooser Rd* originally housed a g
 
 ### Chuck E. Cheese's
 
-The store would remodel once again in 1991 during the 1986 SPT Remodel Program|1986 remodel program, which completely redid the store's floorplan, most notably lowering the ceiling.(7) On March 1, 1993, the location would be purchased by ShowBiz Pizza Time and then remodeled in 1996 during the 1990s Major Remodel|1994 remodel program, in the process, also receiving {{< wiki-link "Phase 1 (1994)" >}}.http://csjpbce.sanjoseca.gov/ecmsviewer/902/940/3940902.pdf In 2006 the store would be a part of the ever-growing 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|'Cool Chuck' remodel initiative, which remodeled the store once again. (8)(9) For 2016 it was remodeled for the final time during the short-lived 2015 remodel program, which was most likely done to drive business back to the location as it lost popularity. (10) During this time it was rumored that the rectangular holes for the portrait frames the characters were placed in were still above the drop ceiling. The 2-Stage, much like its sister location on {{< wiki-link "San Jose, CA (2445 Fontaine Rd)" >}}, rapidly declined in condition, although many customizations were made to the show. Such as Chuck E. sporting a walkaround shirt for a period of time, or the rope lights that were added to the cityscape, and the fiber-optic sign being placed where the CRT TV was just like {{< wiki-link "Stafford, TX (11920 Southwest Fwy)" >}}.
+The store would remodel once again in 1991 during the 1986 SPT Remodel Program, which completely redid the store's floorplan, most notably lowering the ceiling.(7) On March 1, 1993, the location would be purchased by ShowBiz Pizza Time and then remodeled in 1996 during the 1990s Major Remodel|1994 remodel program, in the process, also receiving {{< wiki-link "Phase 1 (1994)" >}}.http://csjpbce.sanjoseca.gov/ecmsviewer/902/940/3940902.pdf In 2006 the store would be a part of the ever-growing 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|'Cool Chuck' remodel initiative, which remodeled the store once again. (8)(9) For 2016 it was remodeled for the final time during the short-lived 2015 remodel program, which was most likely done to drive business back to the location as it lost popularity. (10) During this time it was rumored that the rectangular holes for the portrait frames the characters were placed in were still above the drop ceiling. The 2-Stage, much like its sister location on {{< wiki-link "San Jose, CA (2445 Fontaine Rd)" >}}, rapidly declined in condition, although many customizations were made to the show. Such as Chuck E. sporting a walkaround shirt for a period of time, or the rope lights that were added to the cityscape, and the fiber-optic sign being placed where the CRT TV was just like {{< wiki-link "Stafford, TX (11920 Southwest Fwy)" >}}.
 
 ### Closure
 

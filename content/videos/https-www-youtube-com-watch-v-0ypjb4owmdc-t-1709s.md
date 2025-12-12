@@ -1,7 +1,7 @@
 +++
 title = "https://www.youtube.com/watch?v=0ypjB4owMdc&t=1709s"
 startdate = "1991-08-01"
-pages = ["Arlington, TX (2216 S Fielder Rd)", "Chuck E's House", "The King King Kat (Lounge)", "Jasper T. Jowls (Cyberamic)", "Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Pasqually (Cyberamic)"]
+pages = ["Arlington, TX (2216 S Fielder Rd)", "Chuck E's House", "The King / King Kat (Lounge)", "Jasper T. Jowls (Cyberamic)", "Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Pasqually (Cyberamic)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]
 +++
