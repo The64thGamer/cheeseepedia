@@ -7,7 +7,7 @@ cuDate = ""
 remodels = ["PTT Standard Layout|1978-12-02","PTT Early Cyberamic Replacements|1983-00-00"]
 stages = ["Kooser PTT Show|1978-12-02|1980-04-00|2-Wall","Balcony Stage|1980-04-00|0000-00-00","2-Stage|0000-00-00|2020-06-25"]
 franchisees = []
-attractions = []
+attractions = ["Cheese Crawl|1978-12-02|0000-00-00|Non-Standard"]
 sqft = "19,000"
 latitudeLongitude = ["37.24507007", "-121.8898435"]
 citations = ["http://csjpbce.sanjoseca.gov/ecmsviewer/148/836/3836148.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/474/391/3391474.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf", "https://en.wikipedia.org/wiki/Steamboat", "http://csjpbce.sanjoseca.gov/ecmsviewer/210/393/3393210.pdf", "https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/028/404/3404028.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/275/979/7979275.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/258/960/7960258.pdf", "http://csjpbce.sanjoseca.gov/ecmsviewer/762/001/45001762.pdf", "https://www.nbcbayarea.com/news/local/making-it-in-the-bay/affordable-housing-proposed-for-former-chuck-e-cheese-site-in-san-jose-report/2479008/","https://archive.org/details/popularelectroni16unse_1/page/110/mode/2up?q=%22pizza+time+theatre%22"]
