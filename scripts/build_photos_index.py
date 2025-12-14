@@ -1,11 +1,11 @@
-
 #!/usr/bin/env python3
 """
-Robust photo & locations index builder.
+Robust photo, video & locations index builder.
 
 Outputs:
  - data/photosbypage.json   : mapping "Wiki Page Title" -> [photo metadata...]
  - data/photos.json         : mapping "photoFileName" -> metadata (single object) for O(1) lookup
+ - data/videosbypage.json   : mapping "Wiki Page Title" -> [video metadata...]
  - data/locations-index.json: mapping "<paramName>|<LocationTitle>" -> [entry...]
     where each entry is:
       {
@@ -42,9 +42,14 @@ PHOTO_DIRS = [
     "content/photos",
     "themes/sixtyth-fortran/content/photos"
 ]
+VIDEO_DIRS = [
+    "content/videos",
+    "themes/sixtyth-fortran/content/videos"
+]
 STATIC_PHOTOS_DIR = "static/photos"
 OUT_PATH_BY_PAGE = "data/photosbypage.json"
 OUT_PATH_BY_PHOTO = "data/photos.json"
+OUT_PATH_VIDEOS_BY_PAGE = "data/videosbypage.json"
 OUT_PATH_LOCATIONS = "data/locations-index.json"
 COMMON_EXTS = ["", ".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"]
 
@@ -149,6 +154,18 @@ def collect_photo_files():
                     files.append(os.path.join(root, fname))
     return files
 
+def collect_video_files():
+    """Collect all video .md/.markdown/.mdown files under video dirs (content/videos...)"""
+    files = []
+    for base in VIDEO_DIRS:
+        if not os.path.isdir(base):
+            continue
+        for root, _, fnames in os.walk(base):
+            for fname in fnames:
+                if fname.lower().endswith((".md", ".markdown", ".mdown")):
+                    files.append(os.path.join(root, fname))
+    return files
+
 def collect_all_content_files():
     """Collect all .md/.markdown/.mdown files under content/ (including theme content if needed)"""
     files = []
@@ -210,7 +227,6 @@ def build_photos_indices():
             "hasFile": has_file,
             "startDate": start_date,
             "content": content,
-            "pages": pages
         }
 
         for p in pages:
@@ -229,6 +245,51 @@ def build_photos_indices():
         by_page[k] = arr
 
     return by_page, by_photo, duplicates
+
+def build_videos_indices():
+    """
+    Build a mapping like photosbypage but for videos.
+    Output shape: { "Page Title": [ { "name": title, "page_path": "...", "startDate": "...", "content": "...", "pages": [...], "tags": [...], "categories": [...], "draft": False }, ... ] }
+    Note: for your setup the frontmatter 'title' is the video URL (e.g. https://youtu.be/...)
+    """
+    files = collect_video_files()
+    print(f"DEBUG: scanned {len(files)} video page files from dirs: {VIDEO_DIRS}", file=sys.stderr)
+
+    by_page = {}
+
+    for path in files:
+        try:
+            fm = read_frontmatter(path)
+        except Exception as e:
+            print(f"ERROR reading frontmatter (video) {path}: {e}", file=sys.stderr)
+            continue
+
+        if not fm:
+            continue
+
+        title = fm.get("title") or fm.get("Title") or os.path.splitext(os.path.basename(path))[0]
+        pages_raw = fm.get("pages") or fm.get("Pages") or []
+        pages = normalize_pages_field(pages_raw)
+        content = load_content_only(path)
+        start_date = fm.get("startDate") or fm.get("date") or ""
+
+        item = {
+            "name": title,
+            "page_path": os.path.relpath(path).replace(os.sep, "/"),
+            "startDate": start_date,
+            "content": content,
+        }
+
+        for p in pages:
+            key = str(p)
+            by_page.setdefault(key, []).append(item)
+
+    # sort by startDate (same logic as photos)
+    for k, arr in list(by_page.items()):
+        arr.sort(key=lambda x: ((x.get('startDate') == "" or x.get('startDate') is None), x.get('startDate') or "9999-99-99"))
+        by_page[k] = arr
+
+    return by_page
 
 def build_locations_index():
     """Scan content/ for pages with PARAM_NAMES in frontmatter and build index."""
@@ -320,14 +381,19 @@ def write_json(path: str, obj):
 
 def build_index():
     by_page, by_photo, duplicates = build_photos_indices()
+    videos_by_page = build_videos_indices()
     loc_index = build_locations_index()
 
     write_json(OUT_PATH_BY_PAGE, by_page)
     write_json(OUT_PATH_BY_PHOTO, by_photo)
+    write_json(OUT_PATH_VIDEOS_BY_PAGE, videos_by_page)
     write_json(OUT_PATH_LOCATIONS, loc_index)
 
-    print(f"Wrote {OUT_PATH_BY_PAGE} ({len(by_page)} page keys), {OUT_PATH_BY_PHOTO} ({len(by_photo)} photos), {OUT_PATH_LOCATIONS} ({len(loc_index)} keys), duplicates={duplicates}", file=sys.stderr)
-    return by_page, by_photo, loc_index
+    print(f"Wrote {OUT_PATH_BY_PAGE} ({len(by_page)} page keys), "
+          f"{OUT_PATH_BY_PHOTO} ({len(by_photo)} photos), "
+          f"{OUT_PATH_VIDEOS_BY_PAGE} ({len(videos_by_page)} page keys), "
+          f"{OUT_PATH_LOCATIONS} ({len(loc_index)} keys), duplicates={duplicates}", file=sys.stderr)
+    return by_page, by_photo, videos_by_page, loc_index
 
 if __name__ == "__main__":
     build_index()

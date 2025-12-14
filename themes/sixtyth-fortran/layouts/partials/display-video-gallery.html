@@ -1,26 +1,50 @@
-{{- $currentPageTitle := .Title -}} 
-{{- $photos := partialCached "grab-all-videos.html" "key"}}
-{{- $hasGallery := 0 -}}
-{{- $galleryOpen := false -}}
-{{- range sort $photos "Params.startDate" -}}
-  {{- $matches := false -}} 
-  
-  {{- range .Params.pages -}}
-    {{- if eq . $currentPageTitle -}} 
-      {{- $matches = true -}}
-      {{- if eq $hasGallery 0 -}} 
-        <div class="gallery">
-        {{- $galleryOpen = true -}}
-      {{- end -}}
-      {{- $hasGallery = add $hasGallery 1 -}}
-    {{- end -}}
-  {{- end -}}
+{{- /*
+  layouts/partials/display-video-gallery.html
+  Renders prebuilt data at site.Data.videosbypage for the current page title.
+  Fully self-contained — no video-box partial needed.
+*/ -}}
 
-  {{- if $matches -}} 
-    {{- partial "display-video-box.html" . -}}
-  {{- end -}}
+{{- $data := index site.Data "videosbypage" -}}
+{{- if not $data -}}
+  {{- return -}}
 {{- end -}}
 
-{{- if $galleryOpen -}} 
-</div>
+{{- $currentTitle := .Title | default "" -}}
+{{- $videos := index $data $currentTitle | default (slice) -}}
+
+{{- if gt (len $videos) 0 -}}
+  <div class="gallery">
+    {{- range sort $videos "startDate" -}}
+
+      {{- $name      := index . "name" -}}        {{/* full URL like https://youtu.be/... */}}
+      {{- $content   := index . "content" -}}     {{/* plain text title */}}
+      {{- $startDate := index . "startDate" -}}
+      {{- $pagePath  := index . "page_path" -}}   {{/* content/videos/... file path */}}
+
+      <div class="list-page-block-video">
+        <div class="list-page-container">
+
+          <div class="list-video">
+            {{ partial "video-thumbnail.html" $name }}
+          </div>
+
+          <div class="list-page-video-content">
+            <a href="{{ $name }}" target="_blank" rel="noopener">
+              {{ $content | truncate 150 "..." }}
+            </a>
+
+            <div class="list-page-date">
+              {{ partial "Readable_Date.html" (dict "date" $startDate "presentOnEmpty" false) }}
+            </div>
+          </div>
+
+          <div class="edit-button-container">
+            {{ partial "editButton-list.html" (dict "page" $pagePath "hasContent" (ne $content "")) }}
+          </div>
+
+        </div>
+      </div>
+
+    {{- end -}}
+  </div>
 {{- end -}}
