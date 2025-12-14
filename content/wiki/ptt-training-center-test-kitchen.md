@@ -9,7 +9,7 @@ tags = ["Remodels and Initiatives"]
 categories = ["Pizza Time Theatre"]
 pageThumbnailFile = "7gT1GvdRdCn8Zud7S7ba.avif"
 +++
-The ***PTT Training Center & Test Kitchen* was a set of programs starting in December of 1981 at the {{< wiki-link "San Jose, CA (2445 Fontaine Rd)" >}} location, which ended sometime in 1984.{{< cite 1 >}}
+The ***PTT Training Center & Test Kitchen* was a set of programs starting in December of 1981 at the {{< wiki-link "San Jose (Tully), CA (2445 Fontaine Rd)" >}} location, which ended sometime in 1984.{{< cite 1 >}}
 The *Training Center* would be the first place employees could have proper official training, as no training videos, documents, or programs were present at *Pizza Time Theatre* stores outside of store guidelines and what a store manager would be told when attending the PTT Management Training Program.
 The *Test Kitchen* would be the first food product research lab used by the company. It would be used for new products, evaluating old products, standardizing distribution for stores, and later bringing in franchisee input for regionalization of selected products.
 Both programs would work closely with each other due to their relating fields, allowing further assistance and demonstration.**

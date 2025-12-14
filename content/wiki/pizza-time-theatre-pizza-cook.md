@@ -14,4 +14,4 @@ The tape focused on the cooking portion of an employee's job, being put on a fil
 
 ## PTT Training Center
 
-The tape was part of the {{< wiki-link "PTT Training Center & Test Kitchen" >}} program held exclusively at the {{< wiki-link "San Jose, CA (2445 Fontaine Rd)" >}} location, potentially meaning only one copy was ever made. The tape was also part of a set of training tapes, with the only other one known being the {{< wiki-link "Pizza Time Theatre Cashiering" >}} tape.
+The tape was part of the {{< wiki-link "PTT Training Center & Test Kitchen" >}} program held exclusively at the {{< wiki-link "San Jose (Tully), CA (2445 Fontaine Rd)" >}} location, potentially meaning only one copy was ever made. The tape was also part of a set of training tapes, with the only other one known being the {{< wiki-link "Pizza Time Theatre Cashiering" >}} tape.

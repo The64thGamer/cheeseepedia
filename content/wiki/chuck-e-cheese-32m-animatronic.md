@@ -115,7 +115,7 @@ After the {{< wiki-link "Awesome Adventure Machine" >}} concept failed, the one 
 | {{< wiki-link "Crystal Lake, IL (4725 Northwest Hwy)" >}}            | 105 | 4599        |
 | {{< wiki-link "Waldorf, MD (2928 Festival Way)" >}}                  | 109 | 4599        |
 | {{< wiki-link "Miamisburg, OH (30 Prestige Place)" >}}               | 110 | 4599        |
-| {{< wiki-link "San Jose, CA (2445 Fontaine Rd)" >}}                  | 111 | 4599        |
+| {{< wiki-link "San Jose (Tully), CA (2445 Fontaine Rd)" >}}                  | 111 | 4599        |
 | Clearwater, FL (25921 US-19)                                         | 114 | 4599        |
 | {{< wiki-link "Wyomissing, PA (2721 N Meridian Blvd)" >}}            | 115 | 4599        |
 | {{< wiki-link "Fresno, CA (3117 W Shaw Ave)" >}}                     | 116 | 4599        |

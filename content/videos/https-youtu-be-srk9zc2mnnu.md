@@ -1,7 +1,7 @@
 +++
 title = "https://youtu.be/srK9ZC2mNNU"
 startdate = "1990-00-00"
-pages = ["Beagles / Beach Bowsers (Lounge)", "Dolli Dimples (Cabaret)", "Chuck E's House Facade", "San Jose, CA (2445 Fontaine Rd)", "Dolli Dimples II"]
+pages = ["Beagles / Beach Bowsers (Lounge)", "Dolli Dimples (Cabaret)", "Chuck E's House Facade", "San Jose (Tully), CA (2445 Fontaine Rd)", "Dolli Dimples II"]
 tags = ["Videos"]
 categories = ["Pizza Time Theatre"]
 +++
