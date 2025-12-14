@@ -13,7 +13,7 @@ sqft = ""
 latitudeLongitude = ["37.49355032","-122.2312132"]
 citations = ["https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-2/page/n1/mode/2up?q=redwood","https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-1/page/n1/mode/2up?q=redwood","https://archive.org/details/the-pizza-times-newsletters/1982%20The%20Pizza%20Times%202-2/page/n1/mode/2up","https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-2/page/2/mode/2up?q=redwood","https://www.newspapers.com/clip/32795765/redwood-city-auction/","https://forums.arcade-museum.com/threads/mid-1980s-chuck-e-cheese-pizza-time-theater-animatronics.356457/"]
 contributors = ["The 64th Gamer","Rexburg090","CEC Tinley","CECMadison"]
-downloadLinks = []
+downloadLinks = ["https://archive.org/download/95-8431-bz-plans/-%3DFloorplan%20Archive%3D-/Pizza%20Time%20Theatre/California/RedwoodCityPTT.pdf|Building Plans"]
 pageThumbnailFile = "ESu4w1lPWZgMccAV_oEt.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
