@@ -8,27 +8,29 @@
 
     {{- /* Article Sections */ -}}
     {{- $article := false -}}
-    {{- $galleryHasContent := false -}}   <!-- declare a boolean -->
-    {{- $videos := "" -}}
+    {{- $galleryHasContent := false -}}
+    {{- $videosHaveContent := false -}}
     {{- $transcriptions := "" -}}
     {{- $reviews := "" -}}
     {{- $sales := "" -}}
     {{- $galleryContent := "" -}}
+    {{- $videoContent := "" -}}
 
     {{- if $isBasicArticle -}}
         {{- /* Compute sections (assign into outer vars using = not :=) */ -}}
-        {{- $videos = partialCached "display-video-gallery.html" . -}}
         {{- $transcriptions = partialCached "display-transcriptions.html" . -}}
         {{- $reviews = partialCached "display-reviews.html" . -}}
         {{- $sales = partialCached "display-sales.html" . -}}
 
         {{- $galleryContent = partial "display-gallery.html" . -}}
+        {{- $videoContent = partial "display-video-gallery.html" . -}}
 
         {{- /* Gallery button shows only if content exists — assign, do NOT redeclare */ -}}
         {{- $galleryHasContent = ne $galleryContent "" -}}
+        {{- $videosHaveContent = ne $videoContent "" -}}
 
         {{- /* Determine whether there is any non-gallery article content */ -}}
-        {{- $article = or (ne $videos "") (ne $transcriptions "") (ne $reviews "") (ne $sales "") (ne $galleryContent "") -}}
+        {{- $article = or (ne $videoContent "") (ne $transcriptions "") (ne $reviews "") (ne $sales "") (ne $galleryContent "") -}}
     {{- end -}}
 
 {{/* Article Title/Header */}}
@@ -106,7 +108,7 @@
                 {{- if $galleryHasContent -}}
                     <button class="article-button" data-target="section-gallery">Gallery</button>
                 {{- end -}}
-                {{- if ne $videos "" -}}
+                {{- if $videosHaveContent -}}
                     <button class="article-button" data-target="section-videos">Videos</button>
                 {{- end -}}
                 {{- if ne $transcriptions "" -}}
@@ -163,8 +165,8 @@
         </div>
         {{- end -}}
         <div id="section-videos" class="article-section">
-        {{- if ne $videos "" -}}
-            {{- $videos -}}
+        {{- if $videosHaveContent -}}
+            {{- $videoContent -}}
         {{- end -}}
         </div>
         <div id="section-transcriptions" class="article-section">
