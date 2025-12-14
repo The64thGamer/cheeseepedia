@@ -39,7 +39,8 @@
           </div>
 
           <div class="edit-button-container">
-            {{ partial "editButton-list.html" (dict "page" $pagePath "hasContent" (ne $content "")) }}
+            {{- $page := site.GetPage $pagePath -}}
+            {{ partial "editButton-list.html" (dict "page" $page "hasContent" (ne $content "")) }}
           </div>
 
         </div>
