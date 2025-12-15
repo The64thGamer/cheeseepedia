@@ -1,7 +1,7 @@
 {{- if .IsHome -}}
   {{- $pagesData := slice -}}
   {{- range site.RegularPages -}}
-    {{- $pageData:= dict "00-title" .Title "01-content" .Content "02-permalink" .RelPermalink -}}
+    {{- $pageData:= dict "00-title" .Title "01-section" .Section "02-content" .Content "03-permalink" .RelPermalink -}}
     {{- $pagesData = $pagesData | append $pageData -}}
   {{- end -}}
   {{- $j := $pagesData | jsonify (dict "noHTMLEscape" true) -}}
