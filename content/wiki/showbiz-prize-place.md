@@ -10,7 +10,7 @@ prices = ["($2,999|2026-00-00)"]
 tags = ["Arcades and Attractions"]
 categories = ["ShowBiz Pizza Place"]
 +++
-The **ShowBiz Price Place** is a claw machine with wheels that is manufactured by Orbit Games (under license from {{< wiki-link "Creative Engineering" >}}). It is planned to begin release in early 2026{{< cite 1 >}} at a price of $2,999.{{< cite 2 >}} The machine is extensively themed around the {{< wiki-link "Rock-afire Explosion" >}}, featuring a monitor on the back wall that plays footage of the band performing.{{< cite 1 >}} It is also intended to be stocked with official Rock-afire plushies (seemingly the same ones sold on Creative Engineering's BigCartel store),{{< cite 3 >}} with each purchase coming with 50 of them at no extra charge.
+The ***ShowBiz Price Place*** is a claw machine with wheels that is manufactured by Orbit Games (under license from {{< wiki-link "Creative Engineering" >}}). It is planned to begin release in early 2026{{< cite 1 >}} at a price of $2,999.{{< cite 2 >}} The machine is extensively themed around the {{< wiki-link "Rock-afire Explosion" >}}, featuring a monitor on the back wall that plays footage of the band performing.{{< cite 1 >}} It is also intended to be stocked with official Rock-afire plushies (seemingly the same ones sold on Creative Engineering's BigCartel store),{{< cite 3 >}} with each purchase coming with 50 of them at no extra charge.
 
 ## History
 
