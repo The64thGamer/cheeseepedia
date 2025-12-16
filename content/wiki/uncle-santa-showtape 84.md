@@ -1,17 +1,18 @@
 +++
 draft = false
-title = "Uncle Santa Showtape"
-startDate = "1983-11-25"
-endDate = "1983-12-00"
+title = "Uncle Santa 1984 Showtape"
+startDate = "1984-11-26"
+endDate = "1985-00-00"
 pageThumbnailFile = "498t3jtg093j34ijt.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://youtu.be/Bx3mFUs2YSQ"]
 showtapeFormats = ["CEI 4-Track Reel"]
 tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
+alsoKnownAs = ["CREATIVE ENGINEERING SST0084-112684 UNCLE SANTA SHOW TAPE 1984 LOW SPEED TAILWOUND 11/26/84"]
 +++
-***Uncle Santa Showtape*** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November 1983.
-It would be used for the {{< wiki-link "Santa On Stage Show 1983 (Event)">}}.
+***Uncle Santa 1984 Showtape*** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November 1984.
+It would be used for the {{< wiki-link "Santa On Stage Show 1984 (Event)">}} and possibly the {{< wiki-link "Santa Klunk On Stage Show 1985 (Event)">}}.
 
 ## Segment List
 

@@ -9,7 +9,7 @@ endDate = "1985-12-31"
 contributors = ["The 64th Gamer"]
 citations = []
 showtapeFormats = ["CEI 4-Track Reel"]
-alsoKnownAs = ["CREATIVE ENGINEERING XST0812-112083 CHRISTMAS 1983 SHOWTAPE LOW SPEED TAILWOUND 0112083"]
+alsoKnownAs = ["CREATIVE ENGINEERING XST0812-112083 CHRISTMAS 1983 SHOWTAPE LOW SPEED TAILWOUND 0112083","CREATIVE ENGINEERING XST0214-112083 CHRISTMAS 1983 SHOWTAPE LOW SPEED TAILWOUND 0112083"]
 +++
 ***Christmas 1983* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November
 1983.**
