@@ -7,4 +7,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 citations = ["https://store.american-pinball.com/cdn/shop/files/oRBIT_GAMES_AND_SHOWBIZ_PIZZA_23.png"]
 +++
-The ShowBiz Price Place logo.
+
+The ShowBiz Prize Place logo.
