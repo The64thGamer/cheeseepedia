@@ -24,9 +24,11 @@ go.work
 content/wiki/fix-latlongs.sh
 data/photos-by-page.json
 hugo-build.log
+
+data/
+data/locations-index.json
 data/photosbypage.json
 data/photos.json
-data/locations-index.json
-
-cepvenv/
 data/videosbypage.json
+
+.venv/
