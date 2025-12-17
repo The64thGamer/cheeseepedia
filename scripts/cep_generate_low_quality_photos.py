@@ -47,7 +47,7 @@ def gather_files(src_dir):
     files = [p for p in src_dir.rglob("*") if p.suffix.lower() in exts]
     return files
 
-def main():
+def run():
     p = argparse.ArgumentParser()
     p.add_argument("--src", default="static/photos")
     p.add_argument("--dst", default="static/lowphotos")
@@ -90,5 +90,6 @@ def main():
         for e in errs[:10]:
             print(e)
 
+
 if __name__ == "__main__":
-    main()
+    run()

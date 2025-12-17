@@ -379,7 +379,7 @@ def write_json(path: str, obj):
     with open(path, "w", encoding="utf-8") as fh:
         json.dump(obj, fh, indent=2, ensure_ascii=False)
 
-def build_index():
+def run():
     by_page, by_photo, duplicates = build_photos_indices()
     videos_by_page = build_videos_indices()
     loc_index = build_locations_index()
@@ -396,4 +396,4 @@ def build_index():
     return by_page, by_photo, videos_by_page, loc_index
 
 if __name__ == "__main__":
-    build_index()
+    run()
