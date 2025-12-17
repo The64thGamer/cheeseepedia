@@ -29,7 +29,7 @@
             {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" $mode) (printf "%s|%s" $name $mode) -}}
         </div>
         {{/* Relative time placeholder */}}
-        <div class="article-photo-description" data-added="{{ $photo.added }}">
+        <div class="article-photo-description" data-added="{{ $photo.value }}">
             <span class="relative-time">loading...</span>
         </div>
       </div>
