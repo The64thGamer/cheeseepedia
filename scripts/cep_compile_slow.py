@@ -5,7 +5,7 @@ import util.pageParser as pageParser
 import subprocess
 import enum
 import cep_generate_low_quality_photos
-import cep
+import cep_compile
 
 class ContentPaths(enum.Enum):
   META = "./content/meta"
