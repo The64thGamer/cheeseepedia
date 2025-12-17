@@ -30,4 +30,4 @@ pageParser.process(ContentPaths, OUTPUTPATH)
 
 cep_generate_low_quality_photos.run()
 
-cep.run()
+cep_compile.run()

@@ -1,0 +1,71 @@
+{{/* --- Most Recent Photos from data/photos.json --- */}}
+{{ $photosMap := site.Data.photos }}
+{{ $photos := slice }}
+
+{{/* Convert map -> slice */}}
+{{ range $key, $value := $photosMap }}
+  {{ $photos = $photos | append (dict "key" $key "value" $value) }}
+{{ end }}
+
+{{/* Sort by added date descending */}}
+{{ $sorted := sort $photos "value.added" "desc" }}
+
+{{/* Take first 20 photos */}}
+{{ $recent := first 20 $sorted }}
+
+<div class="gallery">
+  <div id="recentPhotos" style="
+      display: flex;
+      flex-wrap: wrap;
+      align-items: stretch;
+      justify-content: space-around;
+    ">
+    {{- range $recent -}}
+      {{ $photo := .value }}
+      <div class="gallery-image-box">
+        {{- $name := $photo.name -}}
+        {{- $mode := "no-css" -}}
+        <div class="article-photo-image">
+            {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" $mode) (printf "%s|%s" $name $mode) -}}
+        </div>
+        {{/* Relative time placeholder */}}
+        <div class="article-photo-description" data-added="{{ $photo.added }}">
+            <span class="relative-time">loading...</span>
+        </div>
+      </div>
+    {{- end -}}
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const timeElements = document.querySelectorAll(".article-photo-description");
+
+    timeElements.forEach(el => {
+        const addedIso = el.getAttribute("data-added");
+        if (!addedIso) return;
+
+        const addedDate = new Date(addedIso);
+        if (isNaN(addedDate.getTime())) return;
+
+        const now = new Date();
+        const diffMs = now - addedDate;
+        const diffMinutes = Math.round(diffMs / (1000 * 60));
+        const diffHours = Math.round(diffMs / (1000 * 60 * 60));
+        const diffDays = Math.round(diffHours / 24);
+
+        let timeText;
+        if (diffMinutes < 1) {
+            timeText = "Just now";
+        } else if (diffMinutes < 60) {
+            timeText = `${diffMinutes} minute${diffMinutes === 1 ? '' : 's'} ago`;
+        } else if (diffHours < 24) {
+            timeText = `${diffHours} hour${diffHours === 1 ? '' : 's'} ago`;
+        } else {
+            timeText = `${diffDays} day${diffDays === 1 ? '' : 's'} ago`;
+        }
+
+        el.querySelector(".relative-time").textContent = "📝 " + timeText;
+    });
+});
+</script>

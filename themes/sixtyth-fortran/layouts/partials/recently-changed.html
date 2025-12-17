@@ -1,6 +1,10 @@
+{{- $allowedSections := slice "meta" "reviews" "transcriptions" "users" "wiki" -}}
+
 {{- $pagesWithGitInfo := where site.RegularPages "GitInfo" "ne" nil -}}
-{{- $sortedPages := sort $pagesWithGitInfo "GitInfo.AuthorDate" "desc" -}}
+{{- $filteredPages := where $pagesWithGitInfo "Section" "in" $allowedSections -}}
+{{- $sortedPages := sort $filteredPages "GitInfo.AuthorDate" "desc" -}}
 {{- $latestPages := first 30 $sortedPages -}}
+
 
 <aside data-pagefind-ignore="all">
     <div class="tri-column">
@@ -49,14 +53,14 @@
             if (diffMinutes < 1) {
                 timeText = "Just now";
             } else if (diffMinutes < 60) {
-                timeText = `${diffMinutes} minutes ago`;
+                timeText = `${diffMinutes} minute${diffMinutes === 1 ? '' : 's'} ago`;
             } else if (diffHours < 24) {
-                timeText = `${diffHours} hours ago`;
+                timeText = `${diffHours} hour${diffHours === 1 ? '' : 's'} ago`;
             } else {
-                timeText = `${diffDays} days ago`;
+                timeText = `${diffDays} day${diffDays === 1 ? '' : 's'} ago`;
             }
     
-            element.querySelector(".relative-time").textContent = "Updated " + timeText;
+            element.querySelector(".relative-time").textContent = "📝 " + timeText;
         });
     });
     </script>

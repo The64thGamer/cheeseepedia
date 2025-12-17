@@ -22,6 +22,9 @@ import sys
 import json
 import re
 import frontmatter
+import subprocess
+import datetime
+
 
 # parser libs: toml/yaml used only when manually parsing frontmatter blocks
 try:
@@ -64,6 +67,35 @@ def find_static_file(basename: str):
         if os.path.exists(p):
             return c
     return None
+
+def get_git_added_dates_bulk():
+    """
+    Returns a dict: {relative_path: ISO_date} for all files added in git.
+    Much faster than running git log per file.
+    """
+    try:
+        res = subprocess.run(
+            ["git", "log", "--diff-filter=A", "--pretty=format:%aI", "--name-only"],
+            capture_output=True, text=True, check=True
+        )
+        out = {}
+        lines = res.stdout.splitlines()
+        current_date = None
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
+            if re.match(r"\d{4}-\d{2}-\d{2}T", line):
+                # It's a date line
+                current_date = line
+            else:
+                # It's a filename
+                out[line] = current_date
+        return out
+    except Exception as e:
+        print(f"WARNING: failed to get git added dates: {e}", file=sys.stderr)
+        return {}
+
 
 def read_frontmatter(path: str):
     """Read front matter from file and return a dict (or {}).
@@ -194,12 +226,36 @@ def load_content_only(path: str):
     return body.strip()
 
 def build_photos_indices():
+    """
+    Build photo indices by page and by photo, with added dates.
+    Uses bulk git info for speed; falls back to filesystem timestamps.
+    """
     files = collect_photo_files()
     print(f"DEBUG: scanned {len(files)} photo page files from dirs: {PHOTO_DIRS}", file=sys.stderr)
 
     by_page = {}
     by_photo = {}
     duplicates = 0
+
+    # --- bulk git added dates (for speed) ---
+    git_added_map = {}
+    try:
+        res = subprocess.run(
+            ["git", "log", "--diff-filter=A", "--pretty=format:%aI", "--name-only"],
+            capture_output=True, text=True, check=True
+        )
+        lines = res.stdout.splitlines()
+        current_date = None
+        for line in lines:
+            line = line.strip()
+            if not line:
+                continue
+            if re.match(r"\d{4}-\d{2}-\d{2}T", line):
+                current_date = line
+            else:
+                git_added_map[line] = current_date
+    except Exception:
+        print("WARNING: git info not available, will use filesystem timestamps.", file=sys.stderr)
 
     for path in files:
         try:
@@ -219,8 +275,8 @@ def build_photos_indices():
 
         found_name = find_static_file(title)
         has_file = bool(found_name)
-        imageURL = f"/photos/{found_name}" if found_name else "/UI/File Not Found.jpg"
 
+        # --- base item metadata ---
         item = {
             "name": title,
             "page_path": os.path.relpath(path).replace(os.sep, "/"),
@@ -229,22 +285,51 @@ def build_photos_indices():
             "content": content,
         }
 
+        # --- added date for content file ---
+        relpath_key = os.path.relpath(path).replace(os.sep, "/")
+        added = git_added_map.get(relpath_key)
+        if added:
+            item["added"] = added
+        else:
+            try:
+                ts = os.path.getmtime(path)
+                item["added"] = datetime.datetime.fromtimestamp(ts).astimezone().isoformat()
+            except Exception:
+                item["added"] = None
+
+        # --- added date for static image file ---
+        if found_name:
+            static_path = os.path.join(STATIC_PHOTOS_DIR, found_name)
+            static_rel = os.path.relpath(static_path).replace(os.sep, "/")
+            static_added = git_added_map.get(static_rel)
+            if static_added:
+                item["staticAdded"] = static_added
+            else:
+                try:
+                    ts2 = os.path.getmtime(static_path)
+                    item["staticAdded"] = datetime.datetime.fromtimestamp(ts2).astimezone().isoformat()
+                except Exception:
+                    item["staticAdded"] = None
+
+        # --- map to pages ---
         for p in pages:
             key = str(p)
             by_page.setdefault(key, []).append(item)
 
+        # --- map to photo title ---
         if title in by_photo:
             duplicates += 1
             print(f"WARNING: duplicate photo title '{title}' found at {path}; skipping duplicate", file=sys.stderr)
         else:
             by_photo[title] = item
 
-    # sort by startDate
+    # --- sort each page list by startDate ---
     for k, arr in list(by_page.items()):
         arr.sort(key=lambda x: ((x.get('startDate') == "" or x.get('startDate') is None), x.get('startDate') or "9999-99-99"))
         by_page[k] = arr
 
     return by_page, by_photo, duplicates
+
 
 def build_videos_indices():
     """

@@ -4,6 +4,7 @@
   <div class="tab-buttons">
     <button class="tab-button active" data-tab="news">News</button>
     <button class="tab-button" data-tab="changed">Recently Changed</button>
+    <button class="tab-button" data-tab="photos">New Photos</button>
   </div>
 
   <div class="tab-content">
@@ -13,6 +14,10 @@
 
     <div class="tab-panel" id="changed">
       {{ partial "recently-changed.html" . }}
+    </div>
+
+     <div class="tab-panel" id="photos">
+      {{ partial "Recent_Photos.html" . }}
     </div>
   </div>
 </div>
