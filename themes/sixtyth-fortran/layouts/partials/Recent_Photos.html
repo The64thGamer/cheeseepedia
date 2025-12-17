@@ -23,7 +23,7 @@
     {{- range $recent -}}
       {{ $photo := .value }}
       <div class="gallery-image-box">
-        {{- $name := $photo.name -}}
+        {{- $name := .key -}}
         {{- $mode := "no-css" -}}
         <div class="article-photo-image">
             {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" $mode) (printf "%s|%s" $name $mode) -}}
