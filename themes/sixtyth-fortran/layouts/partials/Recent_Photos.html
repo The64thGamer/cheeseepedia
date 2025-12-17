@@ -8,7 +8,7 @@
 {{ end }}
 
 {{/* Sort by added date descending */}}
-{{ $sorted := sort $photos "value.staticAdded" "desc" }}
+{{ $sorted := sort $photos "value" "desc" }}
 
 {{/* Take first 20 photos */}}
 {{ $recent := first 16 $sorted }}
