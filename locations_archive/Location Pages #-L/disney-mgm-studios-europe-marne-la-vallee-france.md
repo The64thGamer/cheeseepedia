@@ -2,7 +2,7 @@
 title = "Disney-MGM Studios Europe (Marne-la-Vallée, France)"
 draft = false
 tags = ["Locations"]
-categories = ["Disney Parks"]
+categories = ["Disney Experiences"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

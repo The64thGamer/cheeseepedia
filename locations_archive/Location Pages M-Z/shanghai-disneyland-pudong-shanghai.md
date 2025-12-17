@@ -2,7 +2,7 @@
 title = "Shanghai Disneyland (Pudong, Shanghai)"
 draft = false
 tags = ["Locations"]
-categories = ["Disney Parks"]
+categories = ["Disney Experiences"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

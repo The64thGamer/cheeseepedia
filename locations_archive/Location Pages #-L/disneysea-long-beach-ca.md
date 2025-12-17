@@ -2,7 +2,7 @@
 title = "DisneySea (Long Beach, CA)"
 draft = false
 tags = ["Locations"]
-categories = ["Disney Parks"]
+categories = ["Disney Experiences"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

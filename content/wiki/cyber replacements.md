@@ -7,7 +7,7 @@ pageThumbnailFile = "Screenshot_20251018_125248.avif"
 contributors = ["The 64th Gamer"]
 citations = [""]
 tags = ["Remodels and Initiatives"]
-categories = ["Pizza Time Theater"]
+categories = ["Pizza Time Theatre"]
 +++
 The ***PTT Early Cyberamic Replacements*** was an initiative in 1983 that that replaced early Cyberamics across stores with later variants. 
 

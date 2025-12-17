@@ -2,7 +2,7 @@
 title = "Disney's America (Haymarket, VA)"
 draft = false
 tags = ["Locations"]
-categories = ["Disney Parks"]
+categories = ["Disney Experiences"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""
