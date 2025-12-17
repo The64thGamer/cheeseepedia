@@ -4,31 +4,37 @@ title = "Strike It Up"
 startDate = "1996-08-00"
 endDate = "1996-11-00"
 pageThumbnailFile = "sVafNbqLMdTt9xdrzhaK.avif"
-contributors = ["StudioC", "The 64th Gamer", "Anonymous", "BurgersNuggs445"]
+contributors = ["StudioC", "The 64th Gamer", "Anonymous", "BurgersNuggs445", "Ceclife13"]
 citations = ["https://youtu.be/AJd7w7HWcH0", "https://archive.org/details/studio-c-premiere-show"]
 mediaDuration = "9:25"
-showtapeFormats = ["3-Stage SVHS (Pre-93)", "R12 SVHS (Pre-93)", "AAM 2x Laserdisc + Files"]
+showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = []
 alsoKnownAs = ["SHOWBIZ PIZZA TIME, INC 'CEC Live-Strike It Up/B-Day EXISTING STAGE 9 min. 25 sec. Ch. 1 & 2-Mono Mix Ch. 3-Data, Ch. 4-Gameroom"]
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***Strike It Up*** is a live show released in August of 1996, that ran until November of 1996.
+***Strike It Up*** is a live show released in August 1996 alongside the {{< wiki-link "July 1996 Show" >}}, which ran until November 1996.
 
 ## Summary
 
-The live show begins with an announcer introducing Chuck E. Cheese following up with Munch's Make Believe Band singing ['Strike It Up'](https://en.wikipedia.org/wiki/Strike_It_Up) the show ends with Chuck E. Cheese telling the audience to stay cool and he will catch them in a little while.
+The live show begins with an announcer introducing Chuck E. Cheese, followed by Munch's Make Believe Band singing ['Strike It Up'](https://en.wikipedia.org/wiki/Strike_It_Up). The show ends with Chuck E. Cheese telling the audience to stay cool and that he will catch up with them in a little while.
+
+## Live Show List:
+
+1. Countdown
+2. ['Strike It Up'](https://en.wikipedia.org/wiki/Strike_It_Up)
+3. Birthday Break
+4. {{< wiki-link "Birthday Star '95" >}}
 
 ## Showtape Releases
 
-| Release Year | Showtape                                                         | Format                    |
-|--------------|------------------------------------------------------------------|---------------------------|
-| 1996         | {{< wiki-link "Awesome Adventure Machine (Show)" >}}       | 3-stage, Cyberamics       |
-| 1996         | {{< wiki-link "Awesome Adventure Machine (Show) (AAM)" >}} | Awesome Adventure Machine |
+| Release Year | Showtape                             | Format            |
+|--------------|--------------------------------------|-------------------|
+| 1996         | {{< wiki-link "July 1996 Show (AAM)" >}} | AAM 2x Laserdisc + Files |
 
 ## Trivia
 
-- The song's audio has been found, but is missing the initial announcer voice and countdown.(1)
-- Only a single second of the tape video has been found, as it was used in the {{< wiki-link "May 1998 Show" >}} during Segment 2.(2)
-- It is believed that parts from the August 1996 show used bluescreen footage from Strike It Up. Signals are also missing for this show.
+- This live show is lost in full, as only the audio for the song and a second of footage have been found. (1)
+- A second of the footage is used in {{< wiki-link "May 1998 Studio C" >}} during Segment 2.(2)
+- It is believed that parts from the August 1996 show used bluescreen footage from Strike It Up.
