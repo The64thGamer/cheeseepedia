@@ -1,5 +1,5 @@
 +++
-title = "The Rock A Fire Explosion Documentary"
+title = "The Rock-afire Explosion (Movie)"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
