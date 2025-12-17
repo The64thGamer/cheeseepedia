@@ -1,8 +1,22 @@
 {{- define "main" -}}
 {{- .Content | safeHTML -}}
-<h2>Recent News</h2>
-{{ partial "recent-news.html" . }}
-<hr>
+<div class="tabs">
+  <div class="tab-buttons">
+    <button class="tab-button active" data-tab="news">News</button>
+    <button class="tab-button" data-tab="changed">Recently Changed</button>
+  </div>
+
+  <div class="tab-content">
+    <div class="tab-panel active" id="news">
+      {{ partial "recent-news.html" . }}
+    </div>
+
+    <div class="tab-panel" id="changed">
+      {{ partial "recently-changed.html" . }}
+    </div>
+  </div>
+</div>
+
 <h2>Our Articles</h2>
 {{- partial "list-tags-in-category.html" . -}}
 <hr>
@@ -11,8 +25,24 @@
 <hr>
 {{- partial "Random_Page.html" . -}}
 <hr>
-<h2>Recently Changed</h2>
-{{- partial "recently-changed.html" . -}}
 {{- partial "generate-site-json.html" . -}}
 {{- partial "generate-site-csv.html" . -}}
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const buttons = document.querySelectorAll(".tab-button");
+  const panels = document.querySelectorAll(".tab-panel");
+
+  buttons.forEach(button => {
+    button.addEventListener("click", () => {
+      buttons.forEach(b => b.classList.remove("active"));
+      panels.forEach(p => p.classList.remove("active"));
+
+      button.classList.add("active");
+      document.getElementById(button.dataset.tab).classList.add("active");
+    });
+  });
+});
+</script>
+
 {{- end -}}

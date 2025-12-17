@@ -322,6 +322,63 @@ background-color: var(--aqua);
   align-self: stretch;
 }
 
+.tabs {
+  margin-top: 1.5em;
+}
+
+.tab-buttons {
+  display: flex;
+  gap: 2em;
+
+  border-bottom: 2px solid var(--brown);
+  padding-bottom: 0.25em;
+}
+
+.tab-button {
+  background: none;
+  border: none;
+
+  font-family: "RockoFLF";
+  font-size: 1em;
+  letter-spacing: .1rem;
+
+  color: var(--white);
+  opacity: 0.6;
+
+  padding: 0.25em 0;
+  cursor: pointer;
+
+  position: relative;
+}
+
+.tab-button:hover {
+  opacity: 0.85;
+}
+
+.tab-button.active {
+  opacity: 1;
+}
+
+.tab-button.active::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.4em;
+
+  height: 3px;
+  background-color: var(--yellow);
+}
+
+.tab-panel {
+  display: none;
+}
+
+.tab-panel.active {
+  display: block;
+}
+
+
 .gallery{
   display: flex;
   flex-wrap: wrap;
