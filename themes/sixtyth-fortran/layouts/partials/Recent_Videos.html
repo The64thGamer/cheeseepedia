@@ -1,0 +1,43 @@
+{{- $allowedSections := slice "videos" -}}
+
+{{- $pagesWithGitInfo := where site.RegularPages "GitInfo" "ne" nil -}}
+{{- $filteredPages := where $pagesWithGitInfo "Section" "in" $allowedSections -}}
+{{- $sortedPages := sort $filteredPages "GitInfo.AuthorDate" "desc" -}}
+{{- $latestPages := first 10 $sortedPages -}}
+
+{{ range $latestPages }}
+    {{ partial "display-video-box.html" . }}
+{{ end }}
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const timeElements = document.querySelectorAll(".article-photo-description");
+
+    timeElements.forEach(el => {
+        const iso = el.getAttribute("data-updated");
+        if (!iso) return;
+
+        const d = new Date(iso);
+        if (isNaN(d.getTime())) return;
+
+        const now = new Date();
+        const diffMs = now - d;
+        const diffMinutes = Math.round(diffMs / (1000 * 60));
+        const diffHours = Math.round(diffMs / (1000 * 60 * 60));
+        const diffDays = Math.round(diffHours / 24);
+
+        let text;
+        if (diffMinutes < 1) {
+            text = "Just now";
+        } else if (diffMinutes < 60) {
+            text = `${diffMinutes} minute${diffMinutes === 1 ? '' : 's'} ago`;
+        } else if (diffHours < 24) {
+            text = `${diffHours} hour${diffHours === 1 ? '' : 's'} ago`;
+        } else {
+            text = `${diffDays} day${diffDays === 1 ? '' : 's'} ago`;
+        }
+
+        el.querySelector(".relative-time").textContent = "📝 " + text;
+    });
+});
+</script>

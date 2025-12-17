@@ -11,7 +11,7 @@
 {{ $sorted := sort $photos "value.staticAdded" "desc" }}
 
 {{/* Take first 20 photos */}}
-{{ $recent := first 20 $sorted }}
+{{ $recent := first 16 $sorted }}
 
 <div class="gallery">
   <div id="recentPhotos" style="
