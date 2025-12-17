@@ -1,7 +1,7 @@
 +++
 title = "ShowBiz Prize Place"
 startDate = "2026-00-00"
-pageThumbnailFile = "iofausd8fo6iuh321lrkjfdalf.avif‎"
+pageThumbnailFile = "jfdsalkhgsda8g907hakdsjghkj468hvjcxbvsdf6j.avif"
 contributors = ["Front-Row-Joe"]
 citations = ["https://www.facebook.com/permalink.php?story_fbid=pfbid02L3F9QrNSWjZa2jQ4XB6J19Wx1CVWnf3cfRqaxyyWWhSwAtjZhjejF8jo2fR8MeHGl&id=61579289851956", "https://store.american-pinball.com/products/showbiz-prize-place-claw-machine", "https://orbitgames.fun/showbiz-prize-place-claw", "https://www.knapparcade.org/blog/american-pinball-teases-new-showbiz-pizza-place-rockafire-explosionthemed-claw-machine-is-transformers-next-from-stern-pinball"]
 manufacturer = "Orbit Games"
