@@ -32,4 +32,4 @@ The company is most well known for its creation of the {{< wiki-link "Rock-afire
 
 #### February 2024
 
-- {{< wiki-link "The Rock-afire Explosion Documentary" >}} gets a new {{< wiki-link "The Rock-afire Explosion Documentary Blu-Ray" >}} limited edition release that includes the original SD digital video master alongside new commentary from the directors.
+- {{< wiki-link "The Rock-afire Explosion (Movie)" >}} gets a new {{< wiki-link "The Rock-afire Explosion (Movie) in Blu-ray" >}} limited edition release that includes the original SD digital video master alongside new commentary from the directors.
