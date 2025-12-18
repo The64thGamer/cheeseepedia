@@ -1,13 +1,13 @@
 +++
-title = "Awesome Adventure Machine"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Chuck E. Cheese's"]
+title = "Awesome Adventure Machine"
 startDate = "1996-08-21"
 endDate = "1997-00-00"
 pageThumbnailFile = "gini345ugn345g.avif"
-contributors = ["Nostalgia Cow","The 64th Gamer","Montfortdog","BurgersNuggs445","Stripes","BigCtheDataFinder","Anonymous","Cy's Junk at School"]
-citations = ["https://www.youtube.com/watch?v=99vsWR406xo","https://www.youtube.com/watch?v=5mqJMsr_PLU"]
+contributors = ["Nostalgia Cow", "The 64th Gamer", "Montfortdog", "BurgersNuggs445", "Stripes", "BigCtheDataFinder", "Anonymous", "Cy's Junk at School"]
+citations = ["https://www.youtube.com/watch?v=99vsWR406xo", "https://www.youtube.com/watch?v=5mqJMsr_PLU"]
+tags = ["Animatronic Shows"]
+categories = ["Chuck E. Cheese's"]
 +++
 The ***Awesome Adventure Machine,* also known internally as 'Showroom 2000,' was a test stage that was installed at {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}}.
 This was a one-of-a-kind stage that only had one major character animatronic for the show, which was a first in Chuck E. Cheese's history at that time. To make up for the absence of the other characters, the company came up with the easy solution to introduce video screens featuring the other cast in walkaround form with articulated heads that interact in show segments.
@@ -55,6 +55,7 @@ After the Awesome Adventure Machine show was removed. The show was replaced with
 
 With short-lived experiments comes lost media and the Awesome Adventure Machine is no exception. All of the Awesome Adventure Machine LaserDiscs are presumed lost. From the late 1990s to the early 2000s, Department 18 threw away many LaserDisc copies; master LaserDisc copies of shows used on the Awesome Adventure Machine stage are near-impossible to find and it is expected that these copies might not be rediscovered as LaserDiscs are infamous for degradation of quality over time.
 Footage of the Awesome Adventure Machine show in action is extreme scarcity. In March 2002, Brian Hagan (former Department 18 Studio Manager and Awesome Adventure Machine programmer) shared three never before seen video clips of the Awesome Adventure Machine and a picture of the full show to the public. These were the only known media of the Awesome Adventure Machine show for about 20 years, besides a newspaper clipping that contained an additional image of the show.
-In August 2021, Jon Rice (former Vice President of Marketing) shared new never before seen images of the Awesome Adventure Machine, and in December 2021, Brian Hagan shared the full-length Awesome Adventure Machine footage of {{< wiki-link "Chuck E. Cheese's 20th Anniversary (AAM)" >}} with LaserDisc audio from the LaserDisc player. Aside from that, those are the only found media of the show that are currently public.
-No home video or home photographs have been found or shared yet. The only known lost Awesome Adventure Machine footage is a news coverage segment circa August-September 1996, from North Dallas news team WFAA (Channel 8). The news segment focused on the Awesome Adventure Machine and included footage of the Awesome Adventure Machine's Premiere show. The segment story has not yet been found.
+In August 2021, Jon Rice (former Vice President of Marketing) shared new never before seen images of the Awesome Adventure Machine, and in December 2021, Brian Hagan shared the full-length Awesome Adventure Machine footage of {{< wiki-link "Chuck E. Cheese's 20th Anniversary (AAM)" >}} with LaserDisc audio from the LaserDisc player. Aside from that, those are the only found media of the show that are currently public. The only known lost Awesome Adventure Machine footage is a news coverage segment circa August-September 1996, from North Dallas news team WFAA (Channel 8). The news segment focused on the Awesome Adventure Machine and included footage of the Awesome Adventure Machine's Premiere show. The segment story has not yet been found.
 In March 2023, audio surfaced of the Awesome Adventure Machine premiere invitation that was presumably only sent out to mangers & employees in the Dallas & Forth Worth Texas areas. no pictures or footage has surfaced of the invitational premiere.
+
+In 2025, more Awesome Adventure Machine media were to be released including the 2 first home photographs that shows the center stage with one being taken in 1996 or early 1997, while the other being taken in October 1997. In December 2025, the first home video of the Awesome Adventure Machine would be uploaded onto YouTube that was filmed in October 1996. In the footage, it showcases the Pre-Show segment that would play right before Segment 1. This Pre-Show segment was only exclusive on Awesome Adventure Machine's LaserDisc Showtape.
