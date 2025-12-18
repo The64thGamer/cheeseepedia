@@ -6,4 +6,4 @@ pages = ["SPP The Yogi Bear Showtape"]
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 +++
-Advertisement for the Yogi Bear show.
+Advertisement for the Yogi Bear show at Omaha, NE.
