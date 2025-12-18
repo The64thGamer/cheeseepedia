@@ -351,6 +351,10 @@ background-color: var(--aqua);
   position: relative;
 }
 
+.recent-group{
+  column-count: 1 !important;
+}
+
 .tab-button:hover {
   opacity: 0.85;
 }

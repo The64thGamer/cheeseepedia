@@ -8,61 +8,78 @@
 
 <aside data-pagefind-ignore="all">
     <div class="tri-column">
-        <ul>
+        <ul id="recent-changes-list">
             {{- range $latestPages -}}
-            <li>
+            <li class="recent-item"
+                data-updated="{{ .GitInfo.AuthorDate.Format "2006-01-02T15:04:05Z07:00" }}">
                 <a href="{{ .RelPermalink }}">
-                    {{- with .Params.Tags -}}
-                        {{- partial "emojijustemoji.html" . -}}{{- " " -}}
-                    {{- end -}}
-                    {{- with .LinkTitle -}}
-                        {{ . | safeHTML }}
-                    {{- else -}}
-                        {{ .Title | safeHTML }}
-                    {{- end -}}
+                {{- with .Params.Tags -}}
+                    {{- partial "emojijustemoji.html" . -}}{{- " " -}}
+                {{- end -}}
+                {{- with .LinkTitle -}}
+                    {{ . | safeHTML }}
+                {{- else -}}
+                    {{ .Title | safeHTML }}
+                {{- end -}}
                 </a>
-                <ul class="updated-time" data-updated="{{- .GitInfo.AuthorDate.Format "2006-01-02T15:04:05Z07:00" -}}">
-                    <li class="relative-time">loading...</li>
-                </ul>
             </li>
             {{- end -}}
         </ul>
     </div>
 </aside>
 <script>
-    document.addEventListener("DOMContentLoaded", function () {
-        const timeElements = document.querySelectorAll(".updated-time");
-    
-        timeElements.forEach(element => {
-            const updatedTime = element.getAttribute("data-updated");
-            if (!updatedTime) return;
-    
-            const updatedDate = new Date(updatedTime); 
-            if (isNaN(updatedDate.getTime())) {
-                console.error("Invalid date:", updatedTime);
-                return;
-            }
-    
-            const now = new Date();
-            const diffMs = now - updatedDate;
-            const diffMinutes = Math.round(diffMs / (1000 * 60));
-            const diffHours = Math.round(diffMs / (1000 * 60 * 60));
-            const diffDays = Math.round(diffHours / 24);
-    
-            let timeText;
-            if (diffMinutes < 1) {
-                timeText = "Just now";
-            } else if (diffMinutes < 60) {
-                timeText = `${diffMinutes} minute${diffMinutes === 1 ? '' : 's'} ago`;
-            } else if (diffHours < 24) {
-                timeText = `${diffHours} hour${diffHours === 1 ? '' : 's'} ago`;
-            } else {
-                timeText = `${diffDays} day${diffDays === 1 ? '' : 's'} ago`;
-            }
-    
-            element.querySelector(".relative-time").textContent = "📝 " + timeText;
-        });
-    });
-    </script>
-    
-    
+document.addEventListener("DOMContentLoaded", () => {
+  const list = document.getElementById("recent-changes-list");
+  if (!list) return;
+
+  const items = Array.from(list.querySelectorAll(".recent-item"));
+
+  const groups = new Map();
+
+  function relativeLabel(date) {
+    const now = new Date();
+    const diffMs = now - date;
+    const mins = Math.round(diffMs / 60000);
+    const hrs  = Math.round(mins / 60);
+    const days = Math.round(hrs / 24);
+
+    if (mins < 1) return "Just now";
+    if (mins < 60) return `${mins} minute${mins === 1 ? "" : "s"} ago`;
+    if (hrs < 24) return `${hrs} hour${hrs === 1 ? "" : "s"} ago`;
+    return `${days} day${days === 1 ? "" : "s"} ago`;
+  }
+
+  items.forEach(item => {
+    const iso = item.dataset.updated;
+    if (!iso) return;
+
+    const date = new Date(iso);
+    if (isNaN(date)) return;
+
+    const label = relativeLabel(date);
+
+    if (!groups.has(label)) {
+      groups.set(label, []);
+    }
+    groups.get(label).push(item);
+  });
+
+  // Clear original list
+  list.innerHTML = "";
+
+  // Rebuild grouped structure
+  for (const [label, entries] of groups.entries()) {
+    const header = document.createElement("li");
+    header.className = "recent-group-header";
+    header.textContent = "📝 " + label;
+
+    const sublist = document.createElement("ul");
+    sublist.className = "recent-group";
+
+    entries.forEach(el => sublist.appendChild(el));
+
+    list.appendChild(header);
+    list.appendChild(sublist);
+  }
+});
+</script>
