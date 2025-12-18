@@ -1,33 +1,30 @@
 #!/usr/bin/env python3
 
-import os, sys, json, subprocess, datetime
+import os
+import sys
+import json
+import subprocess
+import datetime
+import re
 
 STATIC_PHOTOS_DIR = "static/photos"
-COMMON_EXTS = ["", ".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"]
 OUT_PATH = "data/photodates.json"
-
-def find_static_file(basename: str):
-    candidates = [basename] if os.path.splitext(basename)[1] else [basename + e for e in COMMON_EXTS]
-    for c in candidates:
-        p = os.path.join(STATIC_PHOTOS_DIR, c)
-        if os.path.exists(p):
-            return c
-    return None
 
 def get_git_added_dates_bulk():
     out = {}
     try:
         res = subprocess.run(
             ["git", "log", "--diff-filter=A", "--pretty=format:%aI", "--name-only"],
-            capture_output=True, text=True, check=True
+            capture_output=True,
+            text=True,
+            check=True,
         )
-        lines = res.stdout.splitlines()
         current_date = None
-        for line in lines:
+        for line in res.stdout.splitlines():
             line = line.strip()
             if not line:
                 continue
-            if line.startswith("20") or line.startswith("19"):
+            if re.match(r"\d{4}-\d{2}-\d{2}T", line):
                 current_date = line
             else:
                 out[line] = current_date
@@ -43,16 +40,21 @@ def run():
         path = os.path.join(STATIC_PHOTOS_DIR, fname)
         if not os.path.isfile(path):
             continue
-        title = os.path.splitext(fname)[0]
-        added = git_added_map.get(os.path.relpath(path).replace(os.sep, "/"))
+
+        rel = os.path.relpath(path).replace(os.sep, "/")
+        added = git_added_map.get(rel)
+
         if not added:
             ts = os.path.getmtime(path)
             added = datetime.datetime.fromtimestamp(ts).astimezone().isoformat()
-        photos_added[title] = added
+
+        # 🔑 USE FULL FILENAME (WITH EXTENSION)
+        photos_added[fname] = added
 
     os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
     with open(OUT_PATH, "w", encoding="utf-8") as f:
-        json.dump(photos_added, f, indent=2)
+        json.dump(photos_added, f, indent=2, ensure_ascii=False)
+
     print(f"Wrote {OUT_PATH} ({len(photos_added)} photos)")
 
 if __name__ == "__main__":

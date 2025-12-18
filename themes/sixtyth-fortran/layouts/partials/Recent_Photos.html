@@ -1,16 +1,16 @@
-{{/* --- Most Recent Photos from data/photos.json --- */}}
+{{/* --- Most Recent Photos from data/photodates.json --- */}}
 {{ $photosMap := site.Data.photodates }}
 {{ $photos := slice }}
 
-{{/* Convert map -> slice */}}
+{{/* Convert map -> sortable slice */}}
 {{ range $key, $value := $photosMap }}
-  {{ $photos = $photos | append (dict "key" $key "value" $value) }}
+  {{ $photos = $photos | append (dict "key" $key "added" $value) }}
 {{ end }}
 
-{{/* Sort by added date descending */}}
-{{ $sorted := sort $photos "value" "desc" }}
+{{/* Sort newest first */}}
+{{ $sorted := sort $photos "added" "desc" }}
 
-{{/* Take first 20 photos */}}
+{{/* Take first 16 */}}
 {{ $recent := first 16 $sorted }}
 
 <div class="gallery">
@@ -21,16 +21,20 @@
       justify-content: space-around;
     ">
     {{- range $recent -}}
-      {{ $photo := .value }}
+      {{- $name := .key -}}
+      {{- $added := .added -}}
+      {{- $mode := "no-css" -}}
+
       <div class="gallery-image-box">
-        {{- $name := .key -}}
-        {{- $mode := "no-css" -}}
         <div class="article-photo-image">
-            {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" $mode) (printf "%s|%s" $name $mode) -}}
+          {{- partialCached "DisplayPhoto.html"
+              (dict "name" $name "mode" $mode)
+              (printf "%s|%s" $name $mode)
+          -}}
         </div>
-        {{/* Relative time placeholder */}}
-        <div class="article-photo-description" data-added="{{ $photo.value }}">
-            <span class="relative-time">loading...</span>
+
+        <div class="article-photo-description" data-added="{{ $added }}">
+          <span class="relative-time">loading...</span>
         </div>
       </div>
     {{- end -}}
@@ -39,33 +43,25 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-    const timeElements = document.querySelectorAll(".article-photo-description");
+  document.querySelectorAll(".article-photo-description").forEach(el => {
+    const iso = el.dataset.added;
+    if (!iso) return;
 
-    timeElements.forEach(el => {
-        const addedIso = el.getAttribute("data-added");
-        if (!addedIso) return;
+    const d = new Date(iso);
+    if (isNaN(d)) return;
 
-        const addedDate = new Date(addedIso);
-        if (isNaN(addedDate.getTime())) return;
+    const now = new Date();
+    const mins = Math.round((now - d) / 60000);
+    const hrs  = Math.round(mins / 60);
+    const days = Math.round(hrs / 24);
 
-        const now = new Date();
-        const diffMs = now - addedDate;
-        const diffMinutes = Math.round(diffMs / (1000 * 60));
-        const diffHours = Math.round(diffMs / (1000 * 60 * 60));
-        const diffDays = Math.round(diffHours / 24);
+    let txt;
+    if (mins < 1) txt = "Just now";
+    else if (mins < 60) txt = `${mins} minute${mins === 1 ? "" : "s"} ago`;
+    else if (hrs < 24) txt = `${hrs} hour${hrs === 1 ? "" : "s"} ago`;
+    else txt = `${days} day${days === 1 ? "" : "s"} ago`;
 
-        let timeText;
-        if (diffMinutes < 1) {
-            timeText = "Just now";
-        } else if (diffMinutes < 60) {
-            timeText = `${diffMinutes} minute${diffMinutes === 1 ? '' : 's'} ago`;
-        } else if (diffHours < 24) {
-            timeText = `${diffHours} hour${diffHours === 1 ? '' : 's'} ago`;
-        } else {
-            timeText = `${diffDays} day${diffDays === 1 ? '' : 's'} ago`;
-        }
-
-        el.querySelector(".relative-time").textContent = "📝 " + timeText;
-    });
+    el.querySelector(".relative-time").textContent = "📝 " + txt;
+  });
 });
 </script>
