@@ -4,13 +4,14 @@ draft = false
 tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
 startDate = "1987-06-00"
-endDate = "0000-00-00"
-contributors = ["EagleScout610","Anonymous","The 64th Gamer"]
-citations = []
+endDate = "1987-11-00"
+pageThumbnailFile = "5ddZ2GY8x9TqXWjppj0r.avif"
+contributors = ["EagleScout610","Anonymous","The 64th Gamer","CyberSnout"]
+citations = ["https://www.showbizpizza.com/info/documents/spt/spt_horizons04-yogi.pdf","https://www.newspapers.com/article/omaha-world-herald/114529089/"]
 credits = ["Daws Butler|Yogi Bear","Don Messick|Boo Boo","Unindentified ShowBiz Pizza Cast|Mitzi, Dook, Beach Bear, Fatz"]
 showtapeFormats = ["CEI 8-Track Reel"]
 +++
-The ***SPP* *Yogi Bear Showtape* was a showtape that ran in three ShowBiz Pizza Place locations (Omaha, NE, Colorado Springs, CO, and Augusta, GA) in June 1987 as part of a test to bring licensed characters to ShowBiz Pizza in the hopes to eventually phase The Rock Afire Explosion out of restaurants.**
+The ***SPP Yogi Bear Showtape*** was a showtape that ran in three ShowBiz Pizza Place locations (Omaha, NE, Colorado Springs, CO, and Augusta, GA) in June 1987 as part of a test to bring licensed characters to ShowBiz Pizza in the hopes to eventually phase The Rock Afire Explosion out of restaurants. {{< cite 1 >}} The Yogi Bear show would end in November 1987. Plans originally intended for them to return in January 1988 along with a Mr. Ranger animatronic but this would up not happening. {{< cite 2 >}} 
 
 ## Discovery
 
