@@ -2,7 +2,6 @@ import sys
 sys.dont_write_bytecode = True
 
 import util.pageParser as pageParser
-import subprocess
 import enum
 
 class ContentPaths(enum.Enum):
@@ -19,7 +18,8 @@ class StaticPaths(enum.Enum):
 
 OUTPUTPATH = "./data"
 
-print("=== Cheese E. Pedia ===")
+print("\n=== Cheese E. Pedia ===\n")
 print("Running pageParser to create base data...")
-
-pageParser.process(ContentPaths, OUTPUTPATH)
+pages = pageParser.process(ContentPaths, OUTPUTPATH)
+print(f"{pages} pages parsed")
+print("\n=== Process Complete ===\n")
