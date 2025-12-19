@@ -1,7 +1,7 @@
 import sys
 sys.dont_write_bytecode = True
 
-import util.pageParser as pageParser
+import util.siteCollector as siteCollector
 import enum
 
 class ContentPaths(enum.Enum):
@@ -18,8 +18,15 @@ class StaticPaths(enum.Enum):
 
 OUTPUTPATH = "./data"
 
-print("\n=== Cheese E. Pedia ===\n")
-print("Running pageParser to create base data...")
-pages = pageParser.process(ContentPaths, OUTPUTPATH)
-print(f"{pages} pages parsed")
-print("\n=== Process Complete ===\n")
+print(f"\n=== CEP Compilation Script ===\n")
+
+print(f"Running siteCollector to store site data...")
+site = siteCollector.Site(ContentPaths, OUTPUTPATH)
+print(f"{site.total} pages collected!\n")
+
+print(f"Next step goes here...")
+
+for section in site.sections:
+  print(f"    -> {section} - {len(site.sections[section])}")
+
+print(f"\n=== Compilation process complete ===\n")
