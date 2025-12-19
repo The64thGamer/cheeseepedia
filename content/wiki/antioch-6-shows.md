@@ -10,7 +10,7 @@ contributors = ["The 64th Gamer"]
 +++
 ***Antioch 6 Shows*** (Also known as ***Wolfpack 5 1st ShowBiz Show***) is a rerelease of the {{< wiki-link "Wolf Pack 5 ShowBiz Tape" >}} two years later in 1982 for the {{< wiki-link "Dublin, CA (7590 Amador Valley Blvd)">}} location's Wolf Pack 5.
 
-The only known rips of the ShowBiz Wolf Pack 5 segments come from this tape and not the original reel, however- footage exists of the Wolf Pack 5 performing the tape in its entirety at the {{< wiki-link "Kansas City, MO (2726 NE Vivion Rd)">}} location, confirming no changes were made between the original and the rerelease.
+The only known rips of the ShowBiz Wolf Pack 5 segments come from this tape and not the original reel, however- footage exists of the Wolf Pack 5 performing the tape in its entirety at the {{< wiki-link "Kansas City (Antioch), MO (2726 NE Vivion Rd)">}} location, confirming no changes were made between the original and the rerelease.
 
 ## Segments
 

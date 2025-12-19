@@ -13,7 +13,7 @@ pageThumbnailFile = "eJ5vAm2V5v9WkoPJM0fA.avif"
 latitudeLongitude = ["39.25915622","-94.65913023"]
 +++
 
-***Kansas City, MO (9196 N Skyview Ave), Store #747*** is a *Chuck E. Cheese's* that opened on August 4, 2008, with a Studio C Beta, 16M. This store is a relocation of the {{< wiki-link "Kansas City, MO (2726 NE Vivion Rd)" >}} location which opened on March 3rd, 1980, with the only {{< wiki-link "Wolf Pack 5" >}} in a ShowBiz location and closed in the Spring of 2007 with a 3-Stage.
+***Kansas City, MO (9196 N Skyview Ave), Store #747*** is a *Chuck E. Cheese's* that opened on August 4, 2008, with a Studio C Beta, 16M. This store is a relocation of the {{< wiki-link "Kansas City (Antioch), MO (2726 NE Vivion Rd)" >}} location which opened on March 3rd, 1980, with the only {{< wiki-link "Wolf Pack 5" >}} in a ShowBiz location and closed in the Spring of 2007 with a 3-Stage.
 
 ## Stage
 

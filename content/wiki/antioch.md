@@ -17,7 +17,7 @@ citations = []
 
 ### Origins &amp; ShowBiz Pizza Place
 
-Antioch was originally referred to as the Birthday Spider, and held a cake in-between his hands. Over time, he would become {{< wiki-link "Fatz Geronimo (Animatronic)" >}}'s pet spider. He would pop down occasionally and speak to Fatz in a garbled language that only they could understand. During {{< wiki-link "Concept Unification" >}}, Antioch would be destroyed. Antioch was named after the first ShowBiz Pizza Place location in {{< wiki-link "Kansas City, MO (2726 NE Vivion Rd)" >}}.
+Antioch was originally referred to as the Birthday Spider, and held a cake in-between his hands. Over time, he would become {{< wiki-link "Fatz Geronimo (Animatronic)" >}}'s pet spider. He would pop down occasionally and speak to Fatz in a garbled language that only they could understand. During {{< wiki-link "Concept Unification" >}}, Antioch would be destroyed. Antioch was named after the first ShowBiz Pizza Place location in {{< wiki-link "Kansas City (Antioch), MO (2726 NE Vivion Rd)" >}}.
 
 ### Present Day
 

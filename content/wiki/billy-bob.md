@@ -11,7 +11,7 @@ contributors = ["CECMentor"]
 citations = []
 +++
 
-***Billy Bob***, full name ***Billy Bob Brockali***, is the mascot of the ShowBiz Pizza Place franchise, having made his debut as a mascot at {{< wiki-link "Kansas City, MO (2726 NE Vivion Rd)" >}}.
+***Billy Bob***, full name ***Billy Bob Brockali***, is the mascot of the ShowBiz Pizza Place franchise, having made his debut as a mascot at {{< wiki-link "Kansas City (Antioch), MO (2726 NE Vivion Rd)" >}}.
 
 ## History
 

@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Kansas City, MO (2726 NE Vivion Rd)"
+title = "Kansas City (Antioch), MO (2726 NE Vivion Rd)"
 startDate = "1980-03-02"
 endDate = "2007-00-00"
 pageThumbnailFile = "vZRhhfXxiWkJ6j7eMwhY.avif"

@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer"]
 citations = ["Measurements from the Jacksonville Plans","Jacksonville Plans, Sheet A5, Note 29","Jacksonville Plans, Sheet A8, Note 34","A5: #17,#25,#37","Note A5: #37","Sheet A8, Note 35.","A5, Note #9. The note itself says to refer to 'ID-1'.","http://www.showbizpizza.com/rae/history/index.html","https://www.youtube.com/watch?v=GbesEWSt8Jo","https://archive.org/details/jax-atlantic-80"]
 pageThumbnailFile = "UGKV_QPr99dPIF50Mc53.avif"
 +++
-The ***Wolfman Show* (Official name unknown) was a side-act to the {{< wiki-link "Wolf Pack 5" >}} present in the first {{< wiki-link "ShowBiz Pizza Place" >}} in {{< wiki-link "Kansas City, MO (2726 NE Vivion Rd)" >}} from March 2, 1980, to an unknown time after.
+The ***Wolfman Show* (Official name unknown) was a side-act to the {{< wiki-link "Wolf Pack 5" >}} present in the first {{< wiki-link "ShowBiz Pizza Place" >}} in {{< wiki-link "Kansas City (Antioch), MO (2726 NE Vivion Rd)" >}} from March 2, 1980, to an unknown time after.
 The stage would feature {{< wiki-link "The Wolfman (Animatronic)" >}} on a single platform, and would only play the {{< wiki-link "Wolfman Showtape" >}} consisting of 10 segments.**
 
 ## Stage
@@ -27,7 +27,7 @@ The only notes of the stage design come from the cancelled {{< wiki-link "Jackso
 
 ### First Installation
 
-The only installed show would appear in {{< wiki-link "Kansas City, MO (2726 NE Vivion Rd)" >}} in March of 1980. This would be installed in the Electric Roomhttps://youtu.be/l8klZSSvZcA?t=2551, also referred to as the 'electric theatre room' and the 'disco room'.{{< cite 8 >}} In 1981, the {{< wiki-link "Wolf Pack 5" >}} present at the store would be replaced with a {{< wiki-link "Rock-afire Explosion" >}}, suggesting the Wolfman act could have also been removed at the same time, but not a confirmation. The Wolf Pack 5 was sent to Creative Engineering.
+The only installed show would appear in {{< wiki-link "Kansas City (Antioch), MO (2726 NE Vivion Rd)" >}} in March of 1980. This would be installed in the Electric Roomhttps://youtu.be/l8klZSSvZcA?t=2551, also referred to as the 'electric theatre room' and the 'disco room'.{{< cite 8 >}} In 1981, the {{< wiki-link "Wolf Pack 5" >}} present at the store would be replaced with a {{< wiki-link "Rock-afire Explosion" >}}, suggesting the Wolfman act could have also been removed at the same time, but not a confirmation. The Wolf Pack 5 was sent to Creative Engineering.
 In March of 2015, the WP5 would be brought out of storage for the first time, but only one of the two Wolfman animatronics were present. This Wolfman however had 'Disco TIM' written on his cosmetic shells. This could be a general nickname for the Wolfman character, or could imply the Wolfman returned was the one from the disco room.{{< cite 9 >}}
 
 ### Second Planned Show
