@@ -6,3 +6,4 @@ categories = ["ShowBiz Pizza Place"]
 pages = ["Yogi Bear Stage","Yogi Bear (Animatronic)"]
 startDate = "1987-00-00"
 +++
+Construction of Yogi Bears cosmetics with Jul Kamen
