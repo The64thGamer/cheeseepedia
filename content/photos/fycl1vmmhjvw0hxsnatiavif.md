@@ -4,6 +4,7 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "2019-09-22"
+citations = ["Photo by Chuck E. Entertainment"]
 +++
-The 3-Stage show on its last day with Show Room lights turned off (September 22, 2019)
+The 3-Stage show on its last day with show room lights turned off (September 22, 2019)
