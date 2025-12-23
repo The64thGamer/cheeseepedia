@@ -5,5 +5,6 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
+citations = ["https://www.facebook.com/photo/?fbid=10224824671351060&set=gm.4879274608781616/"]
 +++
-Center Stage of the RAE (88-90)https://www.facebook.com/photo/?fbid=10224824671351060&set=gm.4879274608781616/
+Center Stage of the RAE (88-90)
