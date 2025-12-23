@@ -4,6 +4,6 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "1998-00-00"
 +++
 Helen, Munch Jr removed, Walkaround (Late 90s)
