@@ -2,8 +2,9 @@
 title = "DFLTfhczbSSKSllby9ag.avif"
 draft = false
 tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+categories = ["Chuck E. Cheese's"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "2019-09-22"
+citations = ["Photo by Chuck E. Entertainment"]
 +++
-Right side view of the exterior. (September 22, 2019)
+Right side view of the exterior.
