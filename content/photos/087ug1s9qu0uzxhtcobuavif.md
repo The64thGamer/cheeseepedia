@@ -4,6 +4,7 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "2009-02-16"
+citations = ["http://www.citykin.com/2009/02/chuck-e-cheese.html/"]
 +++
-Colerain's Showroom (February 16, 2009) http://www.citykin.com/2009/02/chuck-e-cheese.html/
+Colerain's Showroom (February 16, 2009)
