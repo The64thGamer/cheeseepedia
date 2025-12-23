@@ -4,6 +4,7 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "2019-09-22"
+citations = ["Photo by Chuck E. Entertainment"]
 +++
-Bottom of Colerains Show Room chairs dated 'April 8, 1996'. Several of these chairs were taken to Eastgate (September 22, 2019)
+Bottom of Colerains Show Room chairs dated 'April 8, 1996'. Several of these chairs were taken to Eastgate (have since been trashed).
