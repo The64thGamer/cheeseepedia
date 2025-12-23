@@ -4,6 +4,7 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "2010-00-00"
+citations = ["https://archive.org/details/CEC_Colerain_Photos/CECcolerain107.JPG/"]
 +++
-The 3-Stage left hal (Spring 2010)fhttps://archive.org/details/CEC_Colerain_Photos/CECcolerain107.JPG/
+The 3-Stage left half (Spring 2010)
