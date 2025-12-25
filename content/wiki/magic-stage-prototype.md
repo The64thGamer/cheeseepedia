@@ -3,8 +3,8 @@ title = "Magic Stage Prototype"
 draft = false
 tags = ["Stage Variations"]
 categories = ["ShowBiz Pizza Place"]
-startDate = ""
-endDate = ""
+startDate = "1985-11-00"
+endDate = "1986-04-00"
 contributors = ["Emcaacme","Anonymous","CEC Tinley","Tux Chuck","CECMentor","Jaxonia"]
 citations = []
 +++
