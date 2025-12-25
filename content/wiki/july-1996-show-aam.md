@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "July 1996 Show (AAM)"
+title = "August 1996 Show (AAM)"
 startDate = "1996-08-21"
 endDate = "1997-03-31"
 contributors = ["The 64th Gamer", "CyCGM", "Ceclife13"]
@@ -10,7 +10,7 @@ showtapeFormats = ["AAM 2x Laserdisc + Files"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-The ***July 1996 Show (AAM)*** is the premiere showtape for the {{< wiki-link "Awesome Adventure Machine" >}} stage.
+The ***August 1996 Show (AAM)*** is the premiere showtape for the {{< wiki-link "Awesome Adventure Machine" >}} stage.
 
 ## Show List
 

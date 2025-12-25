@@ -15,7 +15,7 @@ tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***Strike It Up*** is a live show released in August 1996 alongside the {{< wiki-link "July 1996 Show" >}}, which ran until November 1996.
+***Strike It Up*** is a live show released in August 1996 alongside the {{< wiki-link "August 1996 Show" >}}, which ran until November 1996.
 
 ## Summary
 
@@ -32,7 +32,7 @@ The live show begins with an announcer introducing Chuck E. Cheese, followed by 
 
 | Release Year | Showtape                             | Format            |
 |--------------|--------------------------------------|-------------------|
-| 1996         | {{< wiki-link "July 1996 Show (AAM)" >}} | AAM 2x Laserdisc + Files |
+| 1996         | {{< wiki-link "August 1996 Show (AAM)" >}} | AAM 2x Laserdisc + Files |
 
 ## Trivia
 
