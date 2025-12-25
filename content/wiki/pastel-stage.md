@@ -3,13 +3,13 @@ title = "Pastel Stage"
 draft = false
 tags = ["Stage Variations"]
 categories = ["ShowBiz Pizza Place"]
-startDate = ""
-endDate = ""
+startDate = 0000-00-00"
+endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
 +++
-The ***Pastel Stage* is a custom stage for the *Rock-afire Explosion* seen at an unknown *ShowBiz Pizza Fiesta* location.
-It is presumed to have been in one of the two Guadalajara stores, namely the one that is known to have had a The King / King Kat (Cabaret)|King animatronic, as the King's guitar is seen used on *Billy Bob.***
+The ***Pastel Stage*** is a custom stage for the *Rock-afire Explosion* seen at an unknown *ShowBiz Pizza Fiesta* location.
+It is presumed to have been in one of the two Guadalajara stores, namely the one that is known to have had a The King / King Kat (Cabaret)|King animatronic, as the King's guitar is seen used on Billy Bob.
 
 ## Design
 
