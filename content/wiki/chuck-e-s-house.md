@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "Chuck E.'s House"
-startDate = ""
-endDate = ""
+startDate = "1987-02-01"
+endDate = "2022-06-12"
 pageThumbnailFile = "I1bU0zBfKtZssmBpq9dR.avif"
 contributors = ["CECBowlingGreen", "BurgersNuggs445", "The 64th Gamer", "ChuckEPediaIsTheBest!", "Ceclife13", "RedaCEC", "Rexburg090", "ShowBizMidwest", "Anonymous", "BigCtheDataFinder", "CECCheese", "CorrectorMan", "Cheeseclassic", "Midwestretail", "CyberSnout", "CEC1988", "Caydenpedia", "randomguyfan22"]
 citations = ["<a href=\"http://showbizpizza.com/info/documents/spt/spt_adp-binder.pdf\">http://showbizpizza.com/info/documents/spt/spt_adp-binder.pdf</a>"]
