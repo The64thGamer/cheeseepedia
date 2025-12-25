@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Studio C Alpha"
-startDate = "1997-00-00"
+startDate = "1997-12-17"
 endDate = ""
 contributors = ["ShowBizMidwest","Maddox121","The 64th Gamer","BurgersNuggs445","Sponch man","CECBowlingGreen","EagleScout610","Destinationimagination95","Rexburg090","Anonymous","Jaxon11","Pasquallytheplumber","ThatBoiCydalan","CEC Tinley","CorrectorMan","Ceclife13","Chuckstar69","Chucke.show","Chucke","Anonymous","Cheeseclassic","CyberSnout","CECgamer","MasterMike","John95","AstridMascotFan2005","Thecheesymanfromschool","ConceptUnification2.0","Chuckatronics","Livelycheese","Nerdychucke","Caydenpedia","Ilikethisfanbase","CEC1988"]
 pageThumbnailFile = "Pgsmr42LUCJVhFZ0qxuu.avif"
