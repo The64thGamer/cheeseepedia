@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Concept Unification 1-Stage"
-startDate = ""
+startDate = "2010-09-00"
 endDate = ""
 pageThumbnailFile = "6tOW79wZ7w4pl45dbEdH.avif"
 contributors = ["CyberSnout", "BigCtheDataFinder", "The 64th Gamer", "ShowBizMidwest", "CEC Tinley", "ThatBoiCydalan", "CorrectorMan", "CECMentor", "Livelycheese", "BurgersNuggs445", "Veronancy", "AstridMascotFan2005", "Caydenpedia", "Cy's Junk at School"]
