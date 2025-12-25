@@ -3,7 +3,7 @@ title = "Bear-A-Dice Stage"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Creative Engineering"]
-startDate = ""
+startDate = "1998-00-00"
 endDate = ""
 contributors = ["BigCtheDataFinder","Tobsters ;-;","Destinationimagination95"]
 citations = ["https://www.showbizpizza.com/photos/rae/bearadice/index.html","https://youtu.be/IO0LGPdepZI?t=54","https://www.youtube.com/watch?v=N9rFPTTYNxE","https://youtu.be/Ruvo6Bzw660","https://youtu.be/AbalXfX9KTY"]
