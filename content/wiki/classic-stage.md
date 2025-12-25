@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Classic Stage"
-startDate = "08-14-1980"
+startDate = "1980-08-14"
 endDate = ""
 pageThumbnailFile = "ApgnsSAhshObPkd7J5hd.avif"
 contributors = ["RockafireFan123", "The 64th Gamer", "Anonymous", "Anonymous", "Anonymous", "ShowBizMidwest", "Bowling for Cheese", "Sonichacker", "Cheeseclassic", "Cy's Junk at School", "CECMentor", "Livelycheese", "Caydenpedia", "Destinationimagination95", "CyberSnout", "Nickzrss"]
