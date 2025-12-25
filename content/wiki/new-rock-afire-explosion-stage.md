@@ -1,10 +1,10 @@
 +++
-title = "NRAE Stage"
+title = "New Rock Afire Explosion Stage"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Creative Engineering"]
-startDate = ""
-endDate = ""
+startDate = "1992-00-00"
+endDate = "2019-01-00"
 contributors = ["GallaRBX2"]
 citations = []
 pageThumbnailFile = "PGzhiv8VwxvCu76VdYR2.avif"
