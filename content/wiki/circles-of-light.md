@@ -5,7 +5,7 @@ tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 
 
-startDate = ""
+startDate = "2012-08-00"
 endDate = ""
 contributors = ["CECBowlingGreen","ShowBizMidwest","ShowBiz Pizza International","The 64th Gamer","Bowling for Cheese","ThatBoiCydalan","CEC Tinley","Rexburg090","Anonymous","GabrielPennington9864","CECgamer","Caydenpedia","BenTrainFan2000","Cheeseslicez","AstridMascotFan2005"]
 citations = []

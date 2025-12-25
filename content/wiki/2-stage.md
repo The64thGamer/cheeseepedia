@@ -5,7 +5,7 @@ tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 
 
-startDate = ""
+startDate = "1992-02-00"
 endDate = ""
 contributors = ["CECBowlingGreen","ShowBizMidwest","Anonymous","EagleScout610","Rexburg090","The 64th Gamer","Jaxon11","Noahrbxt","BurgersNuggs445","Anonymous","Anonymous","ThatBoiCydalan","CorrectorMan","Agent 5","Cheeseclassic","Chez","Slussier1","Saan1ty","AstridMascotFan2005","Stripes","CEC1988","Caydenpedia","Destinationimagination95"]
 citations = []

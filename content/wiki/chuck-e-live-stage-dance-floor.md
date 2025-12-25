@@ -5,7 +5,7 @@ tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 
 
-startDate = "2015-00-00"
+startDate = "2015-05-00"
 endDate = ""
 contributors = ["CECBowlingGreen","StudioC","CyberSnout","JupiterMutt","BurgersNuggs445","ThatBoiCydalan","RPCEC Backup","The 64th Gamer","Rexburg090","Anonymous","Montfortdog","Rileypaulson","Anonymous","Bowling for Cheese","Ceclife13","Anonymous","ChuckECool","Jaxon11","Awesome Dawson Films YT","LolMarklosthisaccountalready","ChuckEPediaIsTheBest!","Pasquallytheplumber","Anonymous","Anonymous","CECFan2023","CEC Tinley","Anonymous","Anonymous","Anonymous","Anonymous","Anonymous","GabrielPennington9864","Anonymous","CorrectorMan","Anonymous","Anonymous","Icantbelieveitsnotbutter","Chuckstar69","Anonymous","Anonymous","Blowseborg062","Anonymous","Anonymous","Anonymous","Anonymous","CEC New Jersey","Noahrbxt","Anonymous","Anonymous","Anonymous","Anonymous","Cheeseclassic","Anonymous","Anonymous","Anonymous","Anonymous","Anonymous","Anonymous","Anonymous","Anonymous","Anonymous","Anonymous","Anonymous","Anonymous","Anonymous","SuperCreamPiper2008","Harchambeault2026","AstridMascotFan2005","AlexisCEC"]
 citations = []
