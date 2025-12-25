@@ -4,6 +4,7 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "2019-09-25"
+citations = ["Photo by Chuck E. Entertainment"]
 +++
 Colerain after being cleared out (September 25, 2019)
