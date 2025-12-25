@@ -5,6 +5,6 @@ tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "2021-11-15"
-endDate = "0000-00-00"
+endDate = ""
 contributors = ["Ceclife13"]
 +++
