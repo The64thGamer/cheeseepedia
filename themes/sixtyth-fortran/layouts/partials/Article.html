@@ -18,9 +18,9 @@
 
     {{- if $isBasicArticle -}}
         {{- /* Compute sections (assign into outer vars using = not :=) */ -}}
-        {{- $transcriptions = partialCached "display-transcriptions.html" . -}}
-        {{- $reviews = partialCached "display-reviews.html" . -}}
-        {{- $sales = partialCached "display-sales.html" . -}}
+        {{- $transcriptions = partial "display-transcriptions.html" . -}}
+        {{- $reviews = partial "display-reviews.html" . -}}
+        {{- $sales = partial "display-sales.html" . -}}
 
         {{- $galleryContent = partial "display-gallery.html" . -}}
         {{- $videoContent = partial "display-video-gallery.html" . -}}
