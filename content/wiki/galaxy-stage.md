@@ -3,8 +3,8 @@ title = "Galaxy Stage"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
-startDate = ""
-endDate = ""
+startDate = "2011-04-26"
+endDate = "2023-04-09"
 contributors = ["CECBowlingGreen","John95","ThatBoiCydalan","Anonymous","CyberSnout","Ceclife13","Chuckstar69"]
 citations = []
 +++
