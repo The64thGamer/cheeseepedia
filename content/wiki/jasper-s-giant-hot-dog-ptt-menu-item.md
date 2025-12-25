@@ -6,11 +6,12 @@ categories = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "1984-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["https://www.showbizpizza.com/info/promo/ptt//ptt_program_nc.pdf","https://www.newspapers.com/article/the-napa-valley-register/49903763/","https://www.newspapers.com/article/the-press-democrat/50027079/","https://www.newspapers.com/article/fort-worth-star-telegram/55139481/","https://www.newspapers.com/article/the-cincinnati-post/98317675/","https://www.newspapers.com/newspage/135015382/?terms=%22Kiddie%20Dog%22%20%22pizza%20time%20theatre%22&match=2"]
+citations = ["https://www.showbizpizza.com/info/promo/ptt//ptt_program_nc.pdf","https://www.newspapers.com/article/the-napa-valley-register/49903763/","https://www.newspapers.com/article/the-press-democrat/50027079/","https://www.newspapers.com/article/fort-worth-star-telegram/55139481/","https://www.newspapers.com/article/the-cincinnati-post/98317675/","https://www.newspapers.com/newspage/135015382/?terms=%22Kiddie%20Dog%22%20%22pizza%20time%20theatre%22&match=2","https://texasarchive.org/2017_00873"]
 pageThumbnailFile = "GmDaSkw92DJzHmeMfpMn.avif"
 +++
-***Jasper's Giant Hot Dog* was a Pizza Time Theatre menu item introduced in 1979.<sup>(1)(2)(3)(4)</sup>
-The item was a large hot-dog that came in a food basket with a cornichon pickle and chips. A smaller variant called the {{< wiki-link "Kiddie Dog (PTT Menu Item)" >}} would be released laterhttps://texasarchive.org/2017_00873**
+***Jasper's Giant Hot Dog* was a Pizza Time Theatre menu item introduced in 1979.{{< cite 1 >}}{{< cite 2 >}}{{< cite 3 >}}{{< cite 4 >}}
+
+The item was a large hot-dog that came in a food basket with a cornichon pickle and chips. A smaller variant called the {{< wiki-link "Kiddie Dog (PTT Menu Item)" >}} would be released later.
 
 ## History
 
