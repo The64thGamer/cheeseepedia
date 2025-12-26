@@ -25,26 +25,26 @@ Bob Dolls for sale up in the gift shop' then at the very end Earl says 'Can you 
 It is unclear the original order that the segments were played in.
 
 - **Segment 1**
-- Rolfe & Earl Show
+    - Rolfe & Earl Show
 - **Segment 2**
-- Disco Christmas
+    - Disco Christmas
 - **Segment 3**
-- Do You Love Me
+    - Do You Love Me
 - **Segment 4**
-- School Days (No Intro)
+    - School Days (No Intro)
 - **Segment 5**
-- In December (Demo)
+    - In December (Demo)
 - **Segment 6**
-- Beatles Medley
+    - Beatles Medley
 - **Segment 7**
-- Hit the Cymbal
+    - Hit the Cymbal
 - **Segment 8**
-- Mr. Bassman
+    - Mr. Bassman
 - **Segment 9**
-- Unchained Medley
+    - Unchained Medley
 - **Segment 10**
-- Catch a Wave
+    - Catch a Wave
 - **Segment 11**
-- Why Can't Every Day Be Like Christmas
+    - Why Can't Every Day Be Like Christmas
 
 ## References:
