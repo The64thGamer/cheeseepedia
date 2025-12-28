@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Winter 2025 Show"
 startDate = "2025-11-03"
-endDate = ""
+endDate = "2025-12-28"
 pageThumbnailFile = "winter2025.avif"
 contributors = ["CyberSnout"]
 citations = ["Dameaun / CEC Navori Player"]
@@ -9,7 +9,7 @@ showtapeFormats = ["Media Navori"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025.
+**Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025 and played through December 28, 2025.
 
 ## Show List 12/24 Update:
 1. Intermission 1
