@@ -26,31 +26,31 @@ categories = ["Chuck E. Cheese's"]
       11. KIDZ BOP Kids - 'Manchild'
       12. Chuck E. & Friends - 'Fun For All' (2025)
 2. Skit 1
-      13. Chuck E. & Friends - 'Stay Positive'
+      1. Chuck E. & Friends - 'Stay Positive'
 3. Intermission 2
-      14. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
-      15. KID BOP Kids - 'Good 4 U'
-      16. Bella B. - 'El Rey Guitarrista'
-      17. Helen Henny - 'Game On!'
-      18. Chuck E. Cheese Silly Song - 'Hippo Playpus'
-      19. NewJeans - 'Right Now'
-      20. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
-      21. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+      1. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+      2. KID BOP Kids - 'Good 4 U'
+      3. Bella B. - 'El Rey Guitarrista'
+      4. Helen Henny - 'Game On!'
+      5. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+      6. NewJeans - 'Right Now'
+      7. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+      8. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
 4. Skit 2
-      22. Chuck E. Cheese - 'Lend a Helping Hand'
+      1. Chuck E. Cheese - 'Lend a Helping Hand'
 5. Intermission 3
-      23. Chuck E. Cheese - 'Listen To The Rock'
-      24. KIDZ BOP Kids - 'Contigo'
-      25. Chuck E. Cheese Silly Songs - 'Banana Dog'
-      26. Chuck E. & Munch - Animated Easy Dance
-      27. Chuck E. Cheese - 'Water Buffalo' (ASL)
-      28. KIDZ BOP Kids - 'Million Dollar Baby'
-      29. Chuck E. & Friends - 'Most Perfect Day'
-      30. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
-      31. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
-      23. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
-      24. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
-      25. KIDZ BOP Kids - 'Certified Bop'
+      1. Chuck E. Cheese - 'Listen To The Rock'
+      2. KIDZ BOP Kids - 'Contigo'
+      3. Chuck E. Cheese Silly Songs - 'Banana Dog'
+      4. Chuck E. & Munch - Animated Easy Dance
+      5. Chuck E. Cheese - 'Water Buffalo' (ASL)
+      6. KIDZ BOP Kids - 'Million Dollar Baby'
+      7. Chuck E. & Friends - 'Most Perfect Day'
+      8. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+      9. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+      10. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+      11. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+      12. KIDZ BOP Kids - 'Certified Bop'
     
 
 ## Lives:
