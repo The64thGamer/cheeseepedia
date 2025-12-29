@@ -652,4 +652,4 @@ categories = ["Chuck E. Cheese's"]
 12. 12/09 - A Chuck E. Cheese Christmas Trailer is re-added.
 13. 12/17 Update - Chuck E. & Friends - 'Cookies for Santa' is replaced with Chuck E. & Friends - 'Cookies for Santa' (ASL)
 14. 12/19 Update - KIDZ BOP - 'Santa Claus Is Coming to Town' after Chuck E. & Helen - 'Merry Christmastime is removed
-14. 12/14 Update - KIDZ BOP Kids - ‘Manchild’ is moved to after Dippin Dots & Chuck E.’s Cookie Crunch
+14. 12/24 Update - KIDZ BOP Kids - ‘Manchild’ is moved to after Dippin Dots & Chuck E.’s Cookie Crunch
