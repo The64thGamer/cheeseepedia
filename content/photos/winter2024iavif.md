@@ -5,4 +5,4 @@ pages = ["Chuck E. Cheese International Holiday 2024"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 +++
-Winter International 2024
+Screenshot of 'Let's Play Some Games for the Holidays'
