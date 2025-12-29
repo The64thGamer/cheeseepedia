@@ -23,7 +23,7 @@ categories = ["Chuck E. Cheese's"]
       8. Helen Henny - 'Disco Dancing Dinosaur Party'
       9. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
       10. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
-      11. KIDZ BOP Kids - 'Manchild'
+      11. KIDZ BOP Kids - 'Manchild' (ASL)
       12. Chuck E. & Friends - 'Fun For All' (2025)
 2. Skit 1
       1. Chuck E. & Friends - 'Stay Positive'
@@ -48,9 +48,10 @@ categories = ["Chuck E. Cheese's"]
       7. Chuck E. & Friends - 'Most Perfect Day'
       8. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
       9. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
-      10. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
-      11. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
-      12. KIDZ BOP Kids - 'Certified Bop'
+      10. Chuck E. Cheese - 'Another Chuck E. Day'
+      11. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+      12. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+      13. KIDZ BOP Kids - 'Certified Bop'
     
 
 ## Lives:
