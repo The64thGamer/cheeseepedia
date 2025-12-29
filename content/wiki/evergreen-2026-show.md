@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Evergreen 2026 Show"
 startDate = "2025-12-29"
-endDate = "0000-00-00"
+endDate = ""
 pageThumbnailFile = "evergreen2026.avif"
 contributors = ["CyberSnout"]
 citations = ["Dameaun / CEC Navori Player"]
