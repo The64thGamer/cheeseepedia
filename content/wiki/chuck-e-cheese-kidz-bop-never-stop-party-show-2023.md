@@ -7,7 +7,7 @@ startDate = "2023-07-25"
 endDate = "2023-09-30"
 contributors = ["Bowling for Cheese","Anonymous","Anonymous","Anonymous","Dame","The 64th Gamer","CyberSnout"]
 citations = []
-pageThumbnailFile = "sCDC25gfzuL1ULFdgZRR.avif"
+pageThumbnailFile = "KidzBopTour2023.avif"
 showtapeFormats = ["Media Navori","Cyberamics Navori","3-Stage Navori"]
 +++
 ***Chuck E. Cheese KIDZ BOP Never Stop Party Show 2023*** is the night summer show released July 26, 2023.
