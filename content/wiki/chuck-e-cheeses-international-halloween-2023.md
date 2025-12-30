@@ -2,7 +2,7 @@
 title = "Chuck E. Cheese's International Halloween 2023"
 startDate = "2023-10-00"
 endDate = "2023-10-00"
-pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
+pageThumbnailFile = "Halloween2023int.avif"
 contributors = ["Ceclife13"]
 showtapeFormats = ["Studio C 3X DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
 tags = ["Showtapes"]
