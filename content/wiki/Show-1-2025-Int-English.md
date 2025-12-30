@@ -21,7 +21,7 @@ categories = ["Chuck E. Cheese's"]
 3. Intermission 2:
       1.  Chuck E. and Bella's 'Flower Fiesta'
 4. Segment 2:
-      1.  Pasqually the Chef - Funnin's Day'
+      1.  Pasqually the Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day'
 5. Intermission 3:
       1.  Chuck E. Cheese - 'Lend a Helping Hand' (DJ Munch Remix)
       2.  KIDZ BOP - 'HOT TO GO!'
