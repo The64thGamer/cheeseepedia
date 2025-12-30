@@ -9,6 +9,7 @@ mediaDuration = "22:39"
 showtapeFormats = ["RSHW"]
 tags = ["Showtapes"]
 categories = ["Creative Engineering"]
+pageThumbnailFile = "37o9n4g9dxblz3fy.avif"
 +++
 ***A Christmas Gift Show for Rock-Afire Savages and Fans*** is a showtape uploaded to the Creative Engineering YouTube channel for Christmas of 2025.{{< cite 2 >}}
 
