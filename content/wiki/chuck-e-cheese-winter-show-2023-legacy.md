@@ -66,15 +66,18 @@ This was created as a unique showtape to only be played at Northridge to preserv
     9.  Rend Co. Kids - "I Want A Hippopotamus for Christmas"
     10. KIDZ Bop Kids - "Santa Claus is Coming to Town"
     11. Mr. Munch - "Zorp-Ah-Glorp Dor-Bah is Coming Tonight"
-    12. VeeFriends - "Analysis Paralysis/Rare Robot"
-    13. Piñata Smashlings - "Smash-A-Pult"
-    14. Brenda Lee - "Rockin' Around the Christmas Tree"
-    15. The Ronettes - "Sleigh Ride"
-    16. KIDZ BOP Kids - "All I Want for Christmas is You"
-    17. KIDZ BOP Kids - "I Wish It Could Be Christmas Every Day"
-    18. Chuck E. & Friends - "Cookies for Santa"
-    19. Idina Menzel & Josh Gad - "We Wish You the Merriest"
-    20. Chuck E. & Helen - Merry Christmastime"
+2.  **Skit 1**
+    1. Helen Henny - 'All I Want For Christmas is Snow'
+3.  **Intermission 2**
+    1. VeeFriends - "Analysis Paralysis/Rare Robot"
+    2. Piñata Smashlings - "Smash-A-Pult"
+    3. Brenda Lee - "Rockin' Around the Christmas Tree"
+    4. The Ronettes - "Sleigh Ride"
+    5. KIDZ BOP Kids - "All I Want for Christmas is You"
+    6. KIDZ BOP Kids - "I Wish It Could Be Christmas Every Day"
+    7. Chuck E. & Friends - "Cookies for Santa"
+    8. Idina Menzel & Josh Gad - "We Wish You the Merriest"
+    9. Chuck E. & Helen - Merry Christmastime"
 
 ### Lives:
 
