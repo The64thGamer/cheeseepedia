@@ -4,14 +4,14 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-01-09"
-endDate = "0000-00-00"
+endDate = "2023-04-02"
 contributors = ["Studio 18 Ent","Bowling for Cheese","CyberSnout","The 64th Gamer","CyCGM","CEC Denver","BurgersNuggs445","CEC Tinley","Dame","YoyoandRonnie"]
 citations = []
 pageThumbnailFile = "Wcjx9q09Fkejqa_pg0Dn.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
 +++
-***Chuck E. Cheese Evergreen 2023* is the generic show released on January 9, 2023 - April 2, 2023 & May 1, 2023 - June 4, 2023 / until the store installed Navori. featuring a variety of songs released from 2017-2022.
-This was created with the idea to play between promotional events. This show features 8 Songs with the automatic live being Me & My Friends.**
+***Chuck E. Cheese Evergreen 2023*** is the generic show released on January 9, 2023 - April 2, 2023 & May 1, 2023 - June 4, 2023 / until the store installed Navori. featuring a variety of songs released from 2017-2022.
+This was created with the idea to play between promotional events. This show features 8 Songs with the automatic live being Me & My Friends.
 
 ## Show List:
 

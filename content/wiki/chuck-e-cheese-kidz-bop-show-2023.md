@@ -3,7 +3,7 @@ draft = false
 title = "Chuck E. Cheese Kidz Bop Show 2023"
 startDate = "2023-04-03"
 endDate = "2023-04-00"
-pageThumbnailFile = "1XxfCfFvnzrtEdgnfrC6.avif"
+pageThumbnailFile = "KidzBop2023.avif"
 contributors = ["Ceclife13", "ShowBiz Pizza International", "Bowling for Cheese", "ElWarlos35"]
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD"]
@@ -14,7 +14,6 @@ categories = ["Chuck E. Cheese's"]
 This show is only for locations in Mexico during the month of April. This show features 7 Songs with the automatic live being Spring Break Break Dance.
 
 ## Show List
-
 1.  **Intermission 1**
     1.  KIDZ BOP 2023 Album Spot
     2.  KIDZ BOP Kids - 'Despechá'
@@ -52,7 +51,6 @@ This show is only for locations in Mexico during the month of April. This show f
     1.  Chuck E. Cheese - 'Lend A Helping Hand'
 
 ## Lives
-
 - Birthday Show (Studio C, Weigl)
 - Birthday Show (Spanish) (Studio C, Weigl)
 - Spring Break Break Dance (Studio C, Weigl)

@@ -4,14 +4,14 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-10-02"
-endDate = "0000-00-00"
+endDate = "2023-10-31"
 contributors = ["Cheeseclassic","Bowling for Cheese"]
 citations = []
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
 +++
-***Halloween Boo-Tacular 2023* was a Fall show released on October 2, 2023.
-This was created in conjunction with the Halloween Boo-Tacular promotion. It ran from October 2, 2023 - October 31, 2023. This show features 7 songs with the automatic live being Haunted House Party.**
+***Halloween Boo-Tacular 2023*** was a Fall show released on October 2, 2023.
+This was created in conjunction with the Halloween Boo-Tacular promotion. It ran from October 2, 2023 - October 31, 2023. This show features 7 songs with the automatic live being Haunted House Party.
 
 ## Show List:
 
@@ -53,7 +53,6 @@ This was created in conjunction with the Halloween Boo-Tacular promotion. It ran
     3.  KIDZ BOP - 'Bones'
 
 ## Lives:
-
-- Birthday Show
-- Birthday Show (Spanish)
-- Haunted House Party
+- Birthday Star Extravaganza 2023 (Media Navori, CEC Stage Navori, 3-Stage Navori)
+- Birthday Star Extravaganza 2023 (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori)
+- Haunted House Party (Media Navori, CEC Stage Navori, 3-Stage Navori)

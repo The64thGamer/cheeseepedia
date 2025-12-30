@@ -4,17 +4,16 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-04-17"
-endDate = "0000-00-00"
+endDate = "2023-06-00"
 contributors = ["Bowling for Cheese","ShowBiz Pizza International","The 64th Gamer"]
 citations = []
-pageThumbnailFile = "1XxfCfFvnzrtEdgnfrC6.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]
+pageThumbnailFile = "Show22023Int.avif"
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]
 +++
-***Chuck E. Cheese International Show 2 2023* is the Spring show released on April 17, 2023 featuring a variety of songs released from 2016-2019.
-This show is intended for all international locations to play. (Excluding Canada, Puerto Rico, and Mexico) Mexico will play the {{< wiki-link "Chuck E. Cheese Kidz Bop Show 2023" >}} while Canada and Puerto Rico play the {{< wiki-link "Chuck E. Cheese Spring Show 2023" >}} The automatic live is Spring Break Break Dance.**
+***Chuck E. Cheese International Show 2 2023*** is the Spring show released on April 17, 2023 featuring a variety of songs released from 2016-2019.
+This show is intended for all international locations to play. (Excluding Canada, Puerto Rico, and Mexico) Mexico will play the {{< wiki-link "Chuck E. Cheese Kidz Bop Show 2023" >}} while Canada and Puerto Rico play the {{< wiki-link "Chuck E. Cheese Spring Show 2023" >}} The automatic live is Spring Break Break Dance.
 
 ## Show List:
-
 1.  **Intermission 1**
     1.  Safety Message
     2.  KIDZ BOP Kids - 'Break My Heart'
@@ -49,7 +48,6 @@ This show is intended for all international locations to play. (Excluding Canada
     1.  Chuck E. Cheese - 'More Cheese'
 
 ## Lives:
-
 - Birthday Show (Cyberamic, Studio C, Weigl)
 - Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)
 - Spring Break Break Dance 2022 (Cyberamic, Studio C, Weigl)

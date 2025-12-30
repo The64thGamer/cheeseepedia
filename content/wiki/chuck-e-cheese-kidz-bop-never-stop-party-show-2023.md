@@ -7,7 +7,7 @@ startDate = "2023-07-25"
 endDate = "2023-09-30"
 contributors = ["Bowling for Cheese","Anonymous","Anonymous","Anonymous","Dame","The 64th Gamer","CyberSnout"]
 citations = []
-pageThumbnailFile = "sCDC25gfzuL1ULFdgZRR.avif"
+pageThumbnailFile = "KidzBopTour2023.avif"
 showtapeFormats = ["Media Navori","Cyberamics Navori","3-Stage Navori"]
 +++
 ***Chuck E. Cheese KIDZ BOP Never Stop Party Show 2023*** is the night summer show released July 26, 2023.
@@ -41,9 +41,9 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
     1.  Chuck E., Mr. Munch & Bella B. - 'Play All You Can Play'
 
 ### Lives 08/22 Update:
-    1.  Birthday Star Spectacular (Media Navori, CEC Stage Navori, 3-Stage Navori)
-    2.  Birthday Star Spectacular (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori) 
-    3.  Chuck E.'s Beach Party Bash (Media Navori, CEC Stage Navori, 3-Stage Navori)
+1.  Birthday Star Spectacular (Media Navori, CEC Stage Navori, 3-Stage Navori)
+2.  Birthday Star Spectacular (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori) 
+3.  Chuck E.'s Beach Party Bash (Media Navori, CEC Stage Navori, 3-Stage Navori)
 
 ### Show List 08/22 Update:
 
@@ -132,9 +132,9 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
 
 
 ### Lives 08/10 Update:
-    1.  Birthday Star Spectacular (Media Navori, CEC Stage Navori, 3-Stage Navori)
-    2.  Birthday Star Spectacular (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori) 
-    3.  Chuck E.'s Beach Party Bash (Media Navori, CEC Stage Navori, 3-Stage Navori)
+1.  Birthday Star Spectacular (Media Navori, CEC Stage Navori, 3-Stage Navori)
+2.  Birthday Star Spectacular (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori) 
+3.  Chuck E.'s Beach Party Bash (Media Navori, CEC Stage Navori, 3-Stage Navori)
 
 
 ### Show List:
@@ -190,11 +190,11 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
     3.  Fundraising and Group Events
 
 ### Lives:
-    1.  Birthday Star Spectacular (Media Navori, CEC Stage Navori, 3-Stage Navori)
-    2.  Birthday Star Spectacular (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori) 
-    3.  Chuck E.'s Beach Party Bash (Media Navori, CEC Stage Navori, 3-Stage Navori)
+1.  Birthday Star Spectacular (Media Navori, CEC Stage Navori, 3-Stage Navori)
+2.  Birthday Star Spectacular (Spanish) (Media Navori, CEC Stage Navori, 3-Stage Navori) 
+3.  Chuck E.'s Beach Party Bash (Media Navori, CEC Stage Navori, 3-Stage Navori)
 
 ### Trivia:
     1.  8/10 Update - Koo Koo Kangaroo - 'Backyard Swimsuit'is replaced with Chuck E. & Friends - 'Out of This World' (DJ Munch)
     2.  08/22 Update - 'Ad Break' are removed as spots on the show. Instead now being every 60 second ad breaks are scheduled to play every 10 minutes.
-    3.  09/05 Update - 
+    3.  09/05 Update - DJ Munch Song of summer replaced with DJ Munch Do The Chuck E 2023 & DJ Munch Out of This World replaced with Dance with Chuck E-Chuck E Says 2023

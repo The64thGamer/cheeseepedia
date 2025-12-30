@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's International Halloween 2023"
-startDate = "2023-00-00"
-endDate = "2023-00-00"
-pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
+startDate = "2023-10-00"
+endDate = "2023-10-00"
+pageThumbnailFile = "Halloween2023int.avif"
 contributors = ["Ceclife13"]
 showtapeFormats = ["Studio C 3X DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
 tags = ["Showtapes"]
@@ -11,7 +11,6 @@ categories = ["Chuck E. Cheese's"]
 ***International Halloween 2023*** was a Halloween-themed show for international locations only.
 
 ## Show List:
-
 1.  **Intermission 1**
     1.  Jonas Blue and Joe Jonas - 'I See Love'
     2.  KIDZ BOP - 'This is Halloween'
@@ -54,3 +53,6 @@ categories = ["Chuck E. Cheese's"]
     2.  KIDZ BOP - 'Halloween Party!'
 16. **Skit 8**
     1.  Chuck E. Cheese - 'If Every Day Was Halloween'
+
+    ## Lives:
+    Lives for this show are unknown.

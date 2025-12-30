@@ -4,14 +4,14 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-04-03"
-endDate = "0000-00-00"
+endDate = "2023-06-04"
 contributors = ["Bowling for Cheese","CEC Denver","The 64th Gamer","CyberSnout","Pasquallytheplumber","Anonymous","Cy's Junk at School"]
 citations = []
-pageThumbnailFile = "1XxfCfFvnzrtEdgnfrC6.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files","Cyberamics Networking Module Files"]
+pageThumbnailFile = Tm6B9sxQBMIBqES0o69x.avif"
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
 +++
-***Chuck E. Cheese Spring Show 2023* is the spring show released on April 3, 2023 - June 4, 2023. featuring a variety of songs released from 2015-2021.
-This is the final physical show to be released in the domestic market due to the upcoming installation of the {{< wiki-link "Navori System" >}} in all domestic stores. This show features 7 Songs with the automatic live being Spring Break Break Dance.**
+***Chuck E. Cheese Spring Show 2023*** is the spring show released on April 3, 2023 - June 4, 2023. featuring a variety of songs released from 2015-2021.
+This is the final physical show to be released in the domestic market due to the installation of the {{< wiki-link "Navori System" >}} in all domestic stores. This show features 7 Songs with the automatic live being Spring Break Break Dance.
 
 ## Physical Release Show List
 

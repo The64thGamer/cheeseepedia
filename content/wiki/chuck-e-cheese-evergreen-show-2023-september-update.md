@@ -4,14 +4,14 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-09-05"
-endDate = "0000-00-00"
+endDate = "2023-10-01"
 contributors = ["CyberSnout"]
 citations = []
 pageThumbnailFile = "Wcjx9q09Fkejqa_pg0Dn.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
 +++
-***Chuck E. Cheese Evergreen 2023* is the generic show released on September 5, 2023 - October 1, 202. featuring a variety of songs released from 2017-2022.
-This was created with the idea to play between promotional events. This show features 8 Songs with the automatic live being Me & My Friends.**
+***Chuck E. Cheese Evergreen 2023*** is the generic show released on September 5, 2023 - October 1, 2023. featuring a variety of songs released from 2017-2022.
+This was created with the idea to play between promotional events.
 
 ## Show List:
 
@@ -49,10 +49,8 @@ This was created with the idea to play between promotional events. This show fea
 
 ## Lives:
 
-- Birthday Show 2018 (Navori)
-- Birthday Show 2018 (Spanish) (Navori)
-- Birthday Show 2023 (Navori) (After November 12th)
-- Birthday Show 2023 (Spanish) (Navori) (After November 12th)
+- Birthday Star Spectacular (Navori)
+- Birthday Star Spectacular (Spanish) (Navori)
+- Birthday Star Extravaganza 2023 (Navori) (After November 12th)
+- Birthday Star Extravaganza 2023 (Spanish) (Navori) (After November 12th)
 - Me & My Friends (Navori)
-- CEC Stage Diagnostic (Navori)
-- 3-Stage Diagnostic (Navori)

@@ -4,13 +4,13 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-11-27"
-endDate = "0000-00-00"
+endDate = "2024-01-02"
 contributors = ["Cheeseclassic","ShowBiz Pizza International"]
 citations = []
-pageThumbnailFile = "d1EpVQsJE3ZTiIqUOTpM.avif"
+pageThumbnailFile = "Winter2023Int.avif"
 showtapeFormats = ["Cyberamics DVD"]
 +++
-***Chuck E. Cheese International Holiday Show 2023* is a holiday show released on November 27, 2023, and was played until January 2, 2024. This show features eight Holiday songs, of which all were reused.**
+***Chuck E. Cheese International Holiday Show 2023** is a holiday show released on November 27, 2023, and was played until January 2, 2024. This show features eight Holiday songs, of which all were reused.
 
 ## Show List:
 
@@ -56,3 +56,6 @@ showtapeFormats = ["Cyberamics DVD"]
     1.  Musings With Mr. Munch - Christmas
     2.  Asher Angel - Snow Globe Wonderland
     3.  Chuck E. & Friends - Holiday Medley (2020)
+
+## Lives:
+Lives for this showtape are unknown.
