@@ -1,11 +1,12 @@
 +++
 title = "Chuck E. Cheese International Summer 2024"
-startDate = "2024-00-00"
+startDate = "2024-05-00"
 endDate = "2024-00-00"
 contributors = ["Ceclife13"]
 showtapeFormats = ["Studio C 3X DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "KidzBopTour2023.avif"
 +++
 ***Chuck E. Cheese International Summer 2024*** was a summer show released for international locations only.
 
@@ -39,3 +40,6 @@ categories = ["Chuck E. Cheese's"]
     2.  Chuck E. Cheese - 'Water Buffalo'
     2.  KIDZ BOP - 'Greedy'
     3.  DJ Munch - 'Join the Party' (Remix)
+
+## Lives:
+Lives are unknown for this showtape.
