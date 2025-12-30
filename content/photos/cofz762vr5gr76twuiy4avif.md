@@ -6,3 +6,4 @@ categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Cheese's Show 4 2021 (Existing Stages)"]
 startDate = ""
 +++
+'Chuck E. Cheese Halloween Boo-Tacular' Logo
