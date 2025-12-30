@@ -7,7 +7,7 @@ startDate = "2023-04-03"
 endDate = "2023-06-04"
 contributors = ["Bowling for Cheese","CEC Denver","The 64th Gamer","CyberSnout","Pasquallytheplumber","Anonymous","Cy's Junk at School"]
 citations = []
-pageThumbnailFile = Tm6B9sxQBMIBqES0o69x.avif"
+pageThumbnailFile = "Tm6B9sxQBMIBqES0o69x.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD","Studio C Networking Module Files","Cyberamics Networking Module Files","3-Stage Networking Module Files"]
 +++
 ***Chuck E. Cheese Spring Show 2023*** is the spring show released on April 3, 2023 - June 4, 2023. featuring a variety of songs released from 2015-2021.
