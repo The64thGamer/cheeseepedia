@@ -4,13 +4,78 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2024-07-18"
-endDate = " "
+endDate = ""
 contributors = ["CyberSnout","Dame0824","Cy's Junk at School","Ceclife13"]
 citations = []
 pageThumbnailFile = "MmPRs3ORygD_1csev3_k.avif"
 showtapeFormats = ["Media Navori"]
 +++
 ***Chuck E. Cheese Throwback Thursday Show*** was released on July 18, 2024, to play exclusively for the Throwback Thursday at {{< wiki-link "Nanuet, NY (250 West Route 59)" >}}. 
+
+## Show List 12/29 Update:
+1.  **Intermission 1**
+    1.  CEC TV ID - 'Couch'
+    2.  'Ratings'
+    3.  'Drawing Chuck E.'
+    4.  CEC TV ID - 'Marx Bros'
+2.  **Segment 1**
+    1.  'Chuck E.'s Place'
+3.  **Intermission 2**
+    1.  'The Lonesome Cowboy'
+    2.  CEC TV ID - 'Cows'
+4.  **Segment 2**
+    1.  'Jump'
+5.  **Intermission 3**
+    1.  'Amphicar'
+    2.  CEC TV ID - 'Skateboarding'
+6.  **Segment 3**
+    1.  'The Muffin Man'
+7.  **Intermission 4**
+    1.  'WFW Babysitter'
+    2.  CEC TV ID - 'Janitor'
+8.  **Segment 4**
+    1.  'Humpty Dumpty'
+9.  **Intermission 5**
+    1.  'Baking with Betty - Letters'
+    2.  CEC TV ID - 'Singing Fish'
+10. **Segment 5**
+    1.  'That's A Deal'
+11. **Intermission 6**
+    1.  'Super Jasper - Resist the Temptation'
+    2.  Chuck E. Sunrise
+12. **Segment 6**
+    1.  'What Up'
+13. **Intermission 7**
+    1.  'Monkey Ninjas - Episode 2'
+    2.  CEC TV ID - 'Rocketship'
+14. **Segment 7**
+    1.  'I Love the Sunshine'
+15. **Intermission 8**
+    1.  'Pasqually's Polka Minute'
+    2.  CEC TV ID - 'Singing Animals'
+16. **Segment 8**
+    1.  'CEC Chuck E. Cheese'
+17. **Intermission 9**
+    1.  'Baking with Betty - Trail Mix'
+    2.  CEC TV ID - 'Bubble Kids'
+18. **Segment 9**
+    1.  'Opposite Day'
+19. **Intermission 10**
+    1.  'Super Jasper - Waterfall'
+    2.  CEC TV ID - 'Cell Tower'
+20. **Segment 10**
+    1.  'Colors'
+21. **Intermission 11**
+    1.  'Wildlife'
+    2.  CEC TV ID - 'Blender'
+22. **Segment 11**
+    1.  'No Other Place'
+
+## Lives 12/29 Update:
+NOTE: The standard live shows apart of the main show are still avaliable at Nanuet, NY. 
+- Birthday Star 01
+- Havin' A Party 01
+- If You're Happy and You Know It
 
 
 ## Show List 11/25 Update:
@@ -54,14 +119,33 @@ showtapeFormats = ["Media Navori"]
     1.  Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
     2. 'Ken Chuck E. Derby 1'
     3.  'Super Jasper - 'Resist the Temptation'
-    4.  'Super Jasper - Waterfall'
-    5.  CEC TV ID - 'Cell Tower'
-12. **Segment 7**
+    4.  Chuck E. Sunrise
+12. **Segment 6**
+    1.  'What Up'
+13. **Intermission 7**
+    1.  'Monkey Ninjas - Episode 2'
+    2.  CEC TV ID - 'Rocketship'
+14. **Segment 7**
+    1.  'I Love the Sunshine'
+15. **Intermission 8**
+    1.  'Pasqually's Polka Minute'
+    2.  CEC TV ID - 'Singing Animals'
+16. **Segment 8**
+    1.  'CEC Chuck E. Cheese'
+17. **Intermission 9**
+    1.  'Baking with Betty - Trail Mix'
+    2.  CEC TV ID - 'Bubble Kids'
+18. **Segment 9**
+    1.  'Opposite Day'
+19. **Intermission 10**
+    1.  'Super Jasper - Waterfall'
+    2.  CEC TV ID - 'Cell Tower'
+20. **Segment 10**
     1.  'Colors'
-13. **Intermission 8**
+21. **Intermission 11**
     1.  'Wildlife'
     2.  CEC TV ID - 'Blender'
-14. **Segment 9**
+22. **Segment 11**
     1.  'No Other Place'
 
 ## Lives 11/25 Update:
@@ -279,10 +363,11 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 - If You're Happy and You Know It
 
 ## Trivia
+1. 11/21/24 Update - Added Throwback Holiday songs and intermissions. 
+2. 01/06/25 Update - Reverted back to original show list
+3. 11/21/25 Update - Throwback Holiday songs and intermissions are added back from 2024, Larry The Technician - ‘Decorating The Tree’ is added
+4. 12/29 Update - Reverted back to 01/06/25 Update.
 
-- 11/25 Update - Throwback Holiday songs and intermissions are added back from 2024, Larry The Technician - ‘Decorating The Tree’ is added, all segments/intermissions between 'Chuck E. Sunrise' and 'Opposite Day' are removed.
-- 01/06 Update - reverted back to original show list
-- 11/21 Update - Added Throwback Holiday songs and intermissions. 
 
 - This show briefly played at {{< wiki-link "Kansas City, MO (8809 State Line Rd))" >}} from July 2025 till August 2025 with the introduction of {{< wiki-link "Chuck E. Cheese Throwback Show" >}} 
 - *Jolly Old Saint Nicholas*, *We Wish You A Merry Christmas*, and *Up On The Housetop* is from {{< wiki-link "Holiday 2002" >}}, *Dreidel Song* is from {{< wiki-link "Chuck E's Holiday Party 1999" >}}

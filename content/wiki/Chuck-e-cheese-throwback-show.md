@@ -4,13 +4,78 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2025-08-28"
-endDate = " "
+endDate = ""
 contributors = ["CyberSnout"]
 citations = []
 pageThumbnailFile = "awtPcwDXLQnV4zLqi8oZ.avif"
 showtapeFormats = ["Media Navori"]
 +++
 ***Chuck E. Cheese Throwback Show*** was released on August 28, 2025, to play exclusively at {{< wiki-link "Kansas City, MO (8809 State Line Rd))" >}}. 
+
+## Show List 12/29 Update:
+1.  **Segment 1**
+    1.  'Kids Segment 2'
+    2.  'Fractured Classics'
+    3.  'Concept Unification Premiere Demo' (Together We've Got It + Dialogue)
+    4.  'Future Segment 1'
+    5.  'Train Ride'
+2.  **Intermission 1**
+    1.  CEC TV ID - 'Couch'
+    2.  'Ratings'
+    3.  'Drawing Chuck E.'
+    4.  CEC TV ID - 'Marx Bros'
+3.  **Segment 2**
+    1.  'Chuck E.'s Place'
+4.  **Intermission 2**
+    1.  'The Lonesome Cowboy'
+    2.  CEC TV ID - 'Cows'
+5.  **Segment 3**
+    1.  'Jump'
+6.  **Intermission 3**
+    1.  'Amphicar'
+    2.  CEC TV ID - 'Skateboarding'
+7.  **Segment 4**
+    1.  'The Muffin Man'
+8.  **Intermission 4**
+    1.  'WFW Babysitter'
+    2.  CEC TV ID - 'Janitor'
+9.  **Segment 5**
+    1.  'Humpty Dumpty'
+10.  **Intermission 5**
+    1.  'Baking with Betty - Letters'
+    2.  CEC TV ID - 'Singing Fish'
+11. **Segment 6**
+    1.  'That's A Deal'
+12. **Intermission 6**
+    1.  'Super Jasper - Resist the Temptation'
+    2.  Chuck E. Sunrise
+13. **Segment 7**
+    1.  'What Up'
+14. **Intermission 7**
+    1.  'Monkey Ninjas - Episode 2'
+    2.  CEC TV ID - 'Rocketship'
+15. **Segment 8**
+    1.  'I Love the Sunshine'
+16. **Intermission 8**
+    1.  'Pasqually's Polka Minute'
+    2.  CEC TV ID - 'Singing Animals'
+17. **Segment 9**
+    1.  'CEC Chuck E. Cheese'
+18. **Intermission 9**
+    1.  'Baking with Betty - Trail Mix'
+    2.  CEC TV ID - 'Bubble Kids'
+19. **Segment 10**
+    1.  'Opposite Day'
+20. **Intermission 10**
+    1.  'Super Jasper - Waterfall'
+    2.  CEC TV ID - 'Cell Tower'
+21. **Segment 11**
+    1.  'Colors'
+22. **Intermission 11**
+    1.  'Wildlife'
+    2.  CEC TV ID - 'Blender'
+23. **Segment 12**
+    1.  'No Other Place'
 
 
 ## Show List 11/25 Update:
@@ -155,5 +220,5 @@ showtapeFormats = ["Media Navori"]
     1.  'No Other Place'
 
     ## Trivia
-
-- 11/25 Update - Throwback Holiday songs and intermissions are added, all segments/intermissions between 'Chuck E. Sunrise' and 'Opposite Day' are removed.
+1. 11/25 Update - Throwback Holiday songs and intermissions are added.
+2. 12/29 Update - Reverts to previous update, removing all holiday songs and intermissions.
