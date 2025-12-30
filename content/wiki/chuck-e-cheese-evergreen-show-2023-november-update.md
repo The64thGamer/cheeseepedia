@@ -10,8 +10,8 @@ citations = []
 pageThumbnailFile = "Wcjx9q09Fkejqa_pg0Dn.avif"
 showtapeFormats = ["Media Navori","Cyberamics Navori","3-Stage Navori"]
 +++
-***Chuck E. Cheese Evergreen 2023 (November 2023)* is a updated version of the Chuck E. Cheese Evergreen 2023 released on November 1, 2023, and would played until November 26, 2023, featuring a variety of songs released from 2017-2023.
-This was created with the idea to play between promotional events. This show features 8 Songs with the automatic live being Me & My Friends.**
+***Chuck E. Cheese Evergreen 2023 (November 2023)*** is a updated version of the Chuck E. Cheese Evergreen 2023 released on November 1, 2023, and would played until November 26, 2023, featuring a variety of songs released from 2017-2023.
+This was created with the idea to play between promotional events. This show features 8 Songs with the automatic live being Me & My Friends.
 
 ## Show List:
 
