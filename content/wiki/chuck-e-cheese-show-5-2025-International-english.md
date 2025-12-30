@@ -1,5 +1,5 @@
 +++
-title = "Chuck E. Cheese Show 5 2025 International Spanish"
+title = "Chuck E. Cheese Show 5 2025 International English"
 startDate = "2025-12-00"
 endDate = ""
 pageThumbnailFile = "winter2024int.avif"
@@ -14,10 +14,9 @@ The ***Chuck E. Cheese Show 5 2025 International*** released in December 2025.
 ## Show List:
 
 1. **Intermission 1**
-      1. KIDZ BOP Kids - 'All I Want for Christmas Is You' (Español)
+      1.KIDZ BOP Kids - 'Jingle Bells' (Acapella)
       2. Rend Co. Kids - 'I Want A Hippopotamus For Christmas'
-      3. KIDZ BOP Kids - 'Jingle Bells' (Acapella)
-      4. A Chuck E. Cheese Christmas - ‘Robot Christmas Banana’ (Español)
+      3. A Chuck E. Cheese Christmas - ‘Robot Christmas Banana’ (English)
 2. **Skit 1**
       1. Chuck E. & Friends - 'The Holiday Party'
 3. **Intermission 2**
@@ -28,9 +27,8 @@ The ***Chuck E. Cheese Show 5 2025 International*** released in December 2025.
       1. Chuck E. & Friends - 'Share The Joy'
 5. **Intermission 3**
       1. The Ronettes - 'Sleigh Ride'
-      2. A Chuck E. Cheese Christmas - ‘What Would We Do Without Christmas’ (Español)
+      2. A Chuck E. Cheese Christmas - ‘What Would We Do Without Christmas’ (English)
       3. Tails of Friendship with Jasper T. Jowls Episode 2 - 'Munch's First Christmas'
-      4. KIDZ BOP Kids - 'Feliz Navidad'
 4. **Skit 3**
       1. Chuck E. Cheese - 'Let's Play Some Games for the Holidays'
 5. **Intermission 4**
@@ -40,7 +38,7 @@ The ***Chuck E. Cheese Show 5 2025 International*** released in December 2025.
 6. **Skit 4**
       1. Helen Henny - 'All I Want for Christmas is Snow'
 7. **Intermission 5**
-      1. A Chuck E. Cheese Christmas - 'Especial de Navidad Tráiler Oficial'
+      1. A Chuck E. Cheese Christmas Trailer
       2. The Temptations - 'Rudolph, The Red-Nosed Reindeer'
       3. Disney Channel - 'Puppy for Hanukkah'
       4. The Supremes - 'My Favorite Things'
@@ -58,6 +56,3 @@ The ***Chuck E. Cheese Show 5 2025 International*** released in December 2025.
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Studio C, Weigl)
 3. Chuck E.'s Winner Wonder Dance (Studio C, Weigl)
 4. Chuck E.'s Yuletide Slide (Studio C, Weigl)
-
-
-

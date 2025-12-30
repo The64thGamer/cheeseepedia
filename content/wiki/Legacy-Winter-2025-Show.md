@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese Legacy Winter 2025 Show"
 startDate = "2025-11-03"
-endDate = ""
+endDate = "2025-12-28"
 pageThumbnailFile = "winter2025.avif"
 contributors = ["CyberSnout"]
 citations = ["Dameaun / CEC Navori Player"]
@@ -9,7 +9,7 @@ showtapeFormats = ["Legacy Navori"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025.
+**Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025 and played through December 28, 2025.
 
 ## Show List 12/24 Update:
 1. Intermission 1
@@ -971,4 +971,4 @@ categories = ["Chuck E. Cheese's"]
 14. 12/09 Update - A Chuck E. Cheese Christmas Trailer is re-added.
 15. 12/17 Update - Chuck E. & Friends - 'Cookies for Santa' is replaced with Chuck E. & Friends - 'Cookies for Santa' (ASL)
 16. 12/19 Update - KIDZ BOP - 'Santa Claus Is Coming to Town' after Chuck E. & Helen - 'Merry Christmastime is removed
-17. 12/14 Update - KIDZ BOP Kids - ‘Manchild’ is moved to after Dippin Dots & Chuck E.’s Cookie Crunch
+17. 12/24 Update - KIDZ BOP Kids - ‘Manchild’ is moved to after Dippin Dots & Chuck E.’s Cookie Crunch
