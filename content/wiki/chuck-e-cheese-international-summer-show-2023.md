@@ -1,16 +1,17 @@
 +++
 title = "Chuck E. Cheese International Summer Show 2023"
-pageThumbnailFile = "sCDC25gfzuL1ULFdgZRR.avif"
+pageThumbnailFile = "Summer2023Int.avif"
 contributors = ["Ceclife13"]
 showtapeFormats = ["Studio C 3X DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
+startDate = "2023-06-00"
+endDate = "2023-09-00"
 +++
 ***Chuck E. Cheese International Summer Show 2023*** is a summer show released exclusively for international locations.
 
 
 ## Show List:
-
 1.  Intermission 1
     1.  Safety Message
     2.  KIDZ BOP - 'Cuff It'
@@ -44,4 +45,7 @@ categories = ["Chuck E. Cheese's"]
     2.  Chuck E. & Bella - 'Bella's Garden'
 12. **Skit 6**
     1.  Chuck E. Cheese - 'Down The Road'
+
+## Lives:
+Lives for this showtape are unknown.
 
