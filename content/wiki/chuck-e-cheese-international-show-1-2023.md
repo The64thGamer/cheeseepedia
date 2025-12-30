@@ -4,16 +4,15 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-01-00"
-endDate = "0000-00-00"
+endDate = "2023-04-17"
 contributors = ["CyberSnout","ShowBiz Pizza International"]
 citations = []
 pageThumbnailFile = "Wcjx9q09Fkejqa_pg0Dn.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]
 +++
-***Chuck E. Cheese International Show 1, 2023* is the generic show released January 2023 featuring a variety of songs released from 2014-2021.**
+***Chuck E. Cheese International Show 1, 2023*** is the generic show released January 2023 featuring a variety of songs released from 2014-2021.
 
 ## Show List:
-
 1.  **Intermission 1**
     1.  Safety Message
     2.  KIDZ BOP Kids - 'About That Time'
@@ -49,7 +48,6 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
     1.  Chuck E. Cheese & Friends - El Rey Guitarrista
 
 ## Lives:
-
 - Birthday Show (Cyberamic, Studio C, Weigl)
 - Birthday Show (Spanish) (Cyberamic, Studio C, Weigl)
 - Me & My Friends (Cyberamic, Studio C, Weigl)
