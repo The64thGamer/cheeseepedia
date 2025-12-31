@@ -13,10 +13,11 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show list:
 1. Intermission 1
-      1.  Harlem Globetrotters - 'Ways We Celebrate'
-      2.  Dippin' Dots + Chuck E.'s Cookie Crunch
-      3.  A Chuck E. Cheese Christmas Trailer
-      4.  Paris & Pups - Sliving in The Snow
+      1. Harlem Globetrotters - 'Ways We Celebrate'
+      2. Dippin' Dots + Chuck E.'s Cookie Crunch
+      3. A Chuck E. Cheese Christmas Trailer
+      4. KIDZ BOP Live The Concert Movie
+      4. Paris & Pups - Sliving in The Snow
       5. Chuck E. Cheese - 'Rainbow Hamster Family'
       6. Chuck E. & Friends - 'Because We're Friends' (2025)
       7. KIDZ BOP Kids - 'Birds of Feather'
