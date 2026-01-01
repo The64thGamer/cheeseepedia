@@ -16,15 +16,16 @@ categories = ["Chuck E. Cheese's"]
       1.  Harlem Globetrotters - 'Ways We Celebrate'
       2.  Dippin' Dots + Chuck E.'s Cookie Crunch
       3.  A Chuck E. Cheese Christmas Trailer
-      4.  Paris & Pups - Sliving in The Snow
-      5. Chuck E. Cheese - 'Rainbow Hamster Family'
-      6. Chuck E. & Friends - 'Because We're Friends' (2025)
-      7. KIDZ BOP Kids - 'Birds of Feather'
-      8. Helen Henny - 'Disco Dancing Dinosaur Party'
-      9. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
-      10. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
-      11. KIDZ BOP Kids - 'Manchild' (ASL)
-      12. Chuck E. & Friends - 'Fun For All' (2025)
+      4. KIDZ BOP Live The Concert Movie
+      5.  Paris & Pups - Sliving in The Snow
+      6. Chuck E. Cheese - 'Rainbow Hamster Family'
+      7. Chuck E. & Friends - 'Because We're Friends' (2025)
+      8. KIDZ BOP Kids - 'Birds of Feather'
+      9. Helen Henny - 'Disco Dancing Dinosaur Party'
+      10. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+      11. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+      12. KIDZ BOP Kids - 'Manchild' (ASL)
+      13. Chuck E. & Friends - 'Fun For All' (2025)
 2. Skit 1
       1. Chuck E. & Friends - 'Stay Positive'
 3. Intermission 2

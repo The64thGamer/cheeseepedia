@@ -35,3 +35,6 @@ section = []
 
 [params]
   dateFormat = "2006-1-2"
+
+[security]
+  enableInlineShortcodes = true
