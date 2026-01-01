@@ -3,8 +3,8 @@ title = "CEC Summer Days"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1990-07-00"
-endDate = "1990-08-00"
+startDate = "1990-05-00"
+endDate = "1990-06-00"
 contributors = ["DerekCat"]
 citations = []
 +++
