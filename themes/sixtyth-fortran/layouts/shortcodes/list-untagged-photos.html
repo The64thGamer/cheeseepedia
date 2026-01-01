@@ -1,9 +1,0 @@
-<div class="tri-column">
-  <ul>
-    {{ range where site.RegularPages "Section" "photos" }}
-      {{ if not .Params.pages }}
-        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-      {{ end }}
-    {{ end }}
-  </ul>
-</div>

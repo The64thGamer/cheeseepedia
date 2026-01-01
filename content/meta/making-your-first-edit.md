@@ -22,7 +22,7 @@ Thanks for wanting to contribute to Cheese-E-Pedia! Thankfully this process is e
 
 ## I submitted! Now what?
 
-- Your edit is now in the review process by the mod team. When we have the time we'll go over your edits and ensure they meet wiki standards and won't break anything. This is done over on the {{< github-repository >}} in the "Pull Requests" section. We may leave a comment on the edit asking for more info or letting you know to change something before it's merged, so check on your contributions or set up email notifications!
+- Your edit is now in the review process by the mod team. When we have the time we'll go over your edits and ensure they meet wiki standards and won't break anything. This is done over on the {{< github >}} in the "Pull Requests" section. We may leave a comment on the edit asking for more info or letting you know to change something before it's merged, so check on your contributions or set up email notifications!
 - Once your edit is approved, it'll be added to the site. The site automatically updates when any changes are merged, but this can take between 5 and 10 minutes to appear on the live site.
 
 And that's it! For more complex article editing such as tags, categories, parameters, image insertions, creating new pages, ect, check the rest of the tutorials!
