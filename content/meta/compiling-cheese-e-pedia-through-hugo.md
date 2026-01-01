@@ -19,7 +19,7 @@ You will need just 3 things for this process: Visual Studio Code, Hugo, and GitH
 
 ## Steps
 
-- The repository is not the Cheese-E-Pedia website itself, rather a collection of files that will be compiled into a static site. First download the repository from the {{< github-repository >}}.
+- The repository is not the Cheese-E-Pedia website itself, rather a collection of files that will be compiled into a static site. First download the repository from the {{< github >}}.
 - It is recommended to fork the site and have [GitHub Desktop](https://desktop.github.com/download/) download the project to your computer, that way any changes can be pushed as Pull Requests to this repository for inclusion.
 - Download [Hugo v0.92.2+extended](https://github.com/gohugoio/hugo/releases/tag/v0.92.2) which is the compiler for the site.
 - Download Visual Studio Code from your store of choice. Go to `File>Open Folder` and open the `Cheeseepedia` folder.
