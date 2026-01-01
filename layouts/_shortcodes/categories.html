@@ -1,0 +1,13 @@
+<div class="tri-column">
+  <ul>
+    {{- range $name, $taxonomy := .Site.Taxonomies.categories -}}
+      {{- $cnt := len $taxonomy -}}
+      {{- with $.Site.GetPage (printf "/categories/%s" $name) -}}
+        <li>
+          <a href="{{- .RelPermalink -}}" title="All pages with tag <i>{{- .Title -}}</i>">{{- .Title -}}</a>
+          <sup> {{- $cnt -}}</sup>
+        </li>
+      {{- end -}}
+    {{- end -}}
+  </ul>
+</div>
