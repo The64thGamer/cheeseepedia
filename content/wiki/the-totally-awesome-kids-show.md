@@ -11,8 +11,9 @@ showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-
 alsoKnownAs = ["Apr 96 San Antonio 417 Playdates: April 22 - Aug 96 Stage Type: C Stage"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
+downloadLinks = ["https://archive.org/details/rollin_202512|Early Showtape Cut"]
 +++
-***The Totally Awesome Kids Show* was a show that released April 22, 1996 at Chuck E. Cheese's locations. It was the last showtape to be entirely produced by Disney.**
+***The Totally Awesome Kids Show*** was a show that released April 22, 1996 at Chuck E. Cheese's locations. It was the last showtape to be entirely produced by Disney.
 
 ## Show List
 
