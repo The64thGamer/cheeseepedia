@@ -25,9 +25,8 @@ content/wiki/fix-latlongs.sh
 data/photos-by-page.json
 hugo-build.log
 
-data/locations-index.json
-data/photosbypage.json
-data/photos.json
-data/videosbypage.json
+data/*.json
 
 .venv/
+
+.hugo_build.lock
