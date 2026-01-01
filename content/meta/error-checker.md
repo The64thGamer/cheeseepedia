@@ -31,8 +31,6 @@ These pages need categories otherwise it's hard to filter!
 ## Uncategorized Photos
 
 These photos need categories otherwise it's hard to filter!
-{{< list-uncategorized-photos.inline >}}
-
 {{< uncategorized-photos >}}
 
 ------------------------------------------------------------------------
