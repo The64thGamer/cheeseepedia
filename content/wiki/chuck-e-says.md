@@ -12,11 +12,11 @@ credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Jennifer - Lead Chucket
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"] 
 downloadLinks = []
 +++
-***Chuck E. Says*** is a generic live show released alongside {{< wiki-link "The Totally Awesome Kids Show" >}} which could be played through August 2002. 
+***Chuck E. Says*** is a generic live show released alongside {{< wiki-link "The Chuck E. Cheese Totally Awesome Kids Show" >}} which could be played through August 2002. 
 
 ## Summary
 
-The show starts with the Totally Awesome Kids Show intro. Then the lead Chuckettes do warm-ups and show the audience the dance moves for the song. After this, the song begins. In the song, Chuck E. instructs the audience to clap their hands, do the Twist, do the Jerk, do the Monkey, do the Swim, and do the Boogaloo after saying ‘Chuck E. Cheese Please’.
+The show starts with The Chuck E. Cheese Totally Awesome Kids Show intro. Then the lead Chuckettes do warm-ups and show the audience the dance moves for the song. After this, the song begins. In the song, Chuck E. instructs the audience to clap their hands, do the Twist, do the Jerk, do the Monkey, do the Swim, and do the Boogaloo after saying ‘Chuck E. Cheese Please’.
 
 ## Live Show List:
 
