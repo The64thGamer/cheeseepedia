@@ -10,6 +10,14 @@ citations = ["https://cheeseepedia.org", "Cheese-E-Pedia"]
 
 This page provides an overview of the steps required to edit Cheese-E-Pedia on the web using DecapCMS. This is the primary method of editing content on Cheese-E-Pedia.
 
+Jump to Section:
+* [Intro to DecapCMS](#intro-to-decapcms)
+* [First Step: Credit Yourself!](#first-step-credit-yourself)
+* [Second Step: Understand Parameters](#second-step-understand-parameters)
+* [Third Step: Editing Markdown and Using Shortcodes](#third-step-editing-markdown-and-using-shortcodes)
+* [Fourth Step: Save and Mark Ready!](#fourth-step-save-and-mark-ready)
+* [What's Next?](#whats-next)
+
 ---
 
 Here is the general flow for editing a page:
