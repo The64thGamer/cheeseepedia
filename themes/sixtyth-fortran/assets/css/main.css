@@ -822,6 +822,62 @@ img.remoji:hover {
 .article-infobox-linkbox ul {
   margin: 0;
 }
+/* =========================
+   GRAPHS
+   ========================= */
+.hugochart-svg{ 
+  color:var(--yellow);
+}
+
+.hugochart .axis { 
+  stroke: var(--yellow);
+  stroke-width: 1;
+ }
+
+.hugochart .grid {
+   stroke: var(--white);
+   stroke-width: 1;
+   stroke-dasharray: 2 3;
+   opacity: 0.9; }
+
+.hugochart .tick-label {
+   fill: var(--yellow);
+   }
+
+.hugochart .chart-title {
+   fill: var(--yellow);
+   }
+
+.hugochart-line {
+   stroke-linecap: round;
+   stroke-linejoin: round;
+   }
+
+.hugochart-point {
+   stroke: none; 
+  }
+
+.hugochart-legend{
+  max-height:9.5rem;
+  overflow-y:auto;
+  margin-left: 5rem;
+  width: 20rem;
+}
+
+.series-total {
+   stroke-width: 2 !important;
+  }
+
+  .x-tick-label {
+  font-size: 10px;
+  letter-spacing: 0.2px;
+}
+
+.x-tick {
+  stroke: var(--hugochart-axis, #bdbdbd);
+  stroke-width: 1;
+}
+
 
 /* =========================
    TABS
