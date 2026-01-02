@@ -143,7 +143,7 @@ On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate di
 
 #### 2026
 
-- **January 2nd-** New card version of article previews created and used for various parts of the site. Random articles optimized and increased to 10 per page. Entire site CSS reevaluated and tweaked.
+- **January 2nd-** New card version of article previews created and used for various parts of the site. Random articles optimized and increased to 10 per page. Entire site CSS reevaluated and tweaked. Fixed many showtape segment lists not having correct indentation.
 
 
 
