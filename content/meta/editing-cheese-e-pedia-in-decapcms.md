@@ -30,7 +30,7 @@ Here is the general flow for editing a page:
 
 ---
 
-**Please note that DecapCMS is unfortunately a system with quite a few issues that we are aware of but cannot solve.** An alternative editor, [SveltiaCMS](https://github.com/sveltia/sveltia-cms), is available but does not support the functionality that allows anyone to edit and submit for review. We are expecting that to be ready in early-to-mid 2026. Stay tuned!
+**Please note that DecapCMS is unfortunately a system with quite a few issues that we are aware of but cannot solve.** An alternative editor, [Sveltia CMS](https://github.com/sveltia/sveltia-cms), is available but does not support the functionality that allows anyone to edit and submit for review. We are expecting that to be ready in early-to-mid 2026. Stay tuned!
 
 **We _highly_ reccommend that you store your content in a text file or a notes application if you are making significant edits, just in case you are unable to save and need to try again later.**
 * If you use Google Docs or another word processor, make sure that "curly"/"curved" quotes are replaced with "straight" quotes or else that will cause issues when the wiki gets rebuilt with your changes.
