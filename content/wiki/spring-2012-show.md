@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "April 2012 Show"
+title = "Spring 2012 Show"
 startDate = "2012-04-01"
 endDate = "2012-06-30"
 pageThumbnailFile = "Q2ACAtK2FHzatwvmNuGQ.avif"
@@ -11,8 +11,7 @@ showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Stud
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Spring / April 2012** is the spring show released April 2012, featuring eight new songs
-This was created to play from April 1, 2012 - June 30, 2012.
+**Spring 2012 Show** is a showtape which released in April 2012 and played through the spring. This was the last new showtape released to feature Duncan Brannan as Chuck E. Cheese.
 
 ## Summary
 
@@ -87,9 +86,9 @@ In 'Party Rock' The Break Dancing Teddy Bear is seen in areas not included in th
 
 - All of the chillouts are reused. 'Shopping Cart' is from April 2005, 'Flying' and 'Green Room' are from September 2006, and 'Animals' is from September 2011.
 - This would be the last show released with Duncan Brannan as the voice of Chuck E. Cheese and Larry the Technician.
-- This show Introduced five new characters: Steve Waters, Hard Hat Hank, Zoey, Alowicious Dimpleton, and Marvin the Technology Guru.
+- This show introduced five new characters: Steve Waters, Hard Hat Hank, Zoey, Alowicious Dimpleton, and Marvin the Technology Guru.
 - The footage of 'Best of My Love' is reused from 'Respect' from {{< wiki-link "September 2003 Show" >}}.
 - Pizza Oven reuses footage from 'Ain't That a Shame' from {{< wiki-link "January 2004 Show" >}} & 'You'll Never Find' from April 2007 Show.
-- Camouflage' reuses footage from 'On The Road Again' from January 2002.
+- 'Camouflage' reuses footage from 'On The Road Again' from January 2002.
 - Larry's appearance in this show reuses animation from January 2000.
 - A clip of Steve Waters drinking Pepsi Max is hidden at the end of the Studio C version.

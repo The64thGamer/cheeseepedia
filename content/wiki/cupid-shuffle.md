@@ -31,7 +31,7 @@ The only video for this live show on Studio C was the ‘Chuck E. Live’ logo f
 | 2011         | {{< wiki-link "September 2011 Show" >}}                  | Studio C 3X DVD + Floppy |
 | 2011         | {{< wiki-link "Happy Holidays 2011" >}}                  | Studio C 3X DVD + Floppy |
 | 2012         | {{< wiki-link "January 2012 Show" >}}                  | Studio C 3X DVD + Floppy |
-| 2012         | {{< wiki-link "April 2012 Show" >}}                  | Studio C 3X DVD + Floppy |
+| 2012         | {{< wiki-link "Spring 2012 Show" >}}                  | Studio C 3X DVD + Floppy |
 | 2012         | {{< wiki-link "Summer 2012" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2012         | {{< wiki-link "Summer 2012 (International)" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2012         | {{< wiki-link "Fall 2012 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
