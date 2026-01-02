@@ -16,7 +16,7 @@ This was created as a unique showtape to only be played at Northridge to preserv
 
 ### Show List 11/28 Update
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Disney Channel - "Put the Happy in the Holidays
     2.  Chuck E. Friends - The Holiday Party
     3.  John Legend - "You Deserve it All"
@@ -25,9 +25,9 @@ This was created as a unique showtape to only be played at Northridge to preserv
     6.  Disney Channel - "Puppy for Hanukkah"
     7.  KIDZ BOP Kids - "Merry Christmas"
     8.  Piñata Smashlings - "Jet's Showdown"
-2.  **Skit 1**
+2.**Skit 1**
     1.  Munch's Make Believe Band - 'Share the Joy'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Rend Co. Kids - "I Want A Hippopotamus for Christmas"
     2.  KIDZ Bop Kids - "Santa Claus is Coming to Town"
     3.  Mr. Munch - "Zorp-Ah-Glorp Dor-Bah is Coming Tonight"
@@ -38,9 +38,9 @@ This was created as a unique showtape to only be played at Northridge to preserv
     8.  The Ronettes - "Sleigh Ride"
     9.  KIDZ BOP Kids - "All I want for Christmas is You"
     10. KIDZ BOP Kids - "I Wish It Could Be Christmas Every Day"
-4.  **Skit 2**
+4.**Skit 2**
     1.  Munch's Make Believe Band - 'Holiday Medley'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Chuck E. & Friends - "Cookies for Santa"
     2.  Idina Menzel & Josh Gad - "We Wish You the Merriest"
     3.  Chuck E. & Helen - Merry Christmastime"
@@ -54,7 +54,7 @@ This was created as a unique showtape to only be played at Northridge to preserv
 
 ### Show List
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Disney Channel - 'Put the Happy in the Holidays'
     2.  Chuck E. Friends - The Holiday Party
     3.  John Legend - "You Deserve it All"
@@ -66,9 +66,9 @@ This was created as a unique showtape to only be played at Northridge to preserv
     9.  Rend Co. Kids - "I Want A Hippopotamus for Christmas"
     10. KIDZ Bop Kids - "Santa Claus is Coming to Town"
     11. Mr. Munch - "Zorp-Ah-Glorp Dor-Bah is Coming Tonight"
-2.  **Skit 1**
+2.**Skit 1**
     1. Helen Henny - 'All I Want For Christmas is Snow'
-3.  **Intermission 2**
+3.**Intermission 2**
     1. VeeFriends - "Analysis Paralysis/Rare Robot"
     2. Piñata Smashlings - "Smash-A-Pult"
     3. Brenda Lee - "Rockin' Around the Christmas Tree"

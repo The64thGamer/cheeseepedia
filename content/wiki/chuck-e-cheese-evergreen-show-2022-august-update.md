@@ -15,33 +15,33 @@ This was created with the idea to play between promotional events. Runs from Aug
 
 ## Show List
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Safety Message
     2.  Food & Drink Combos
     3.  CEC YouTube & Music Streaming
     4.  "It's Chuck E!"
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'Chuck E.'s Middle Name'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Katy Perry - "Electric"
     2.  KIDZ BOP Kids - "Telepatía"
     3.  Kid Cudi - "Stars In The Sky"
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese - "Crochet All Day"
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Dippin' Dots
     2.  Food & Drink Combos
     3.  CEC YouTube & Music Streaming
     4.  "Oh Helen Henny!"
-6.  **Skit 3**
+6.**Skit 3**
     1.  Helen Henny - "Dream Big"
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Danny Weinkauf - "Tricycle"
     2.  KIDZ BOP Kids - "Levitating"
     3.  "He's Mr. Munch"
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E., Munch & Bella - "Play All You Can Play"
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Safety Message
     2.  Food & Drink Combos
     3.  Dippin' Dots

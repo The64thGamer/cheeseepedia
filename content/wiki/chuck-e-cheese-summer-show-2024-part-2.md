@@ -14,32 +14,32 @@ showtapeFormats = ["Media Navori","CEC Stage Navori","3-Stage Navori"]
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Zigazoo Star Showcase 'Play All You Can Play'
     2.  Off Road with Chuck E. - Episode 4
     3.  Chuck E. & Friends - 'The Garden Gnome'
     4.  NewJeans - 'BubbleGum'
     5.  KIDZ BOP Kids - 'Houdini'
     6.  Chuck E. & Friends - 'Bubble Bubble Pop!'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Down the Road'
     2.  Chuck E. & Friends - 'I Love Sparkles'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  KIDZ BOP Kids - 'KIDZ BOP Never Stop'
     2.  Chuck E. & Bella - 'Bella's Garden'
     3.  Chuck E. Cheese - 'Water Buffalo'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'Stay Positive'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'Is It Over Now?'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Bella & Helen - 'Bailando'
     2.  Helen Henny - 'Game On!'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Off Road with Chuck E. - Episode 1
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Friends - 'Trio'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  High School Musical 2 Cast - 'What Time Is It?'
     2.  Summer Concert Roadshow - 'Song of Summer'
     3.  Bella B. & Mike Wolf - 'El Rey Guitarrista'

@@ -20,32 +20,32 @@ One tape is marked as being made on February 15, 1983, which shows the tape last
 
 ## Segments
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Love Makes the World Go Round'
     2.  'Brotherhood of Man'
-2.  **Segment 2**
+2.**Segment 2**
     1.  'South of the Border'
     2.  'Al Rancho Grande'
     3.  'La Cucaracha'
     4.  'Beseme Mucho'
     5.  'Mexican Hat Dance'
-3.  **Segment 3**
+3.**Segment 3**
     1.  'Canaday-I-O'
     2.  'If You Will Come and Dance With Me'
     3.  'Canadian Capers'
-4.  **Segment 4**
+4.**Segment 4**
     1.  'Click Go the Shears'
     2.  'Waltzing Matilda'
     3.  'Sioux City Sue'
-5.  **Special 1**
+5.**Special 1**
     1.  'Happy-Happy Birthday'
-6.  **Special 2**
+6.**Special 2**
     1.  'It's a Special Day' (CEC 5th Birthday)
-7.  **Special 3**
+7.**Special 3**
     1.  'It's Somebody's Birthday' (feat. Madame Oink)
-8.  **Special 4**
+8.**Special 4**
     1.  Cheer - Trumpets
-9.  **Special 5**
+9.**Special 5**
     1.  Christmas Medley
         1.  'Silver Bells'
         2.  'Fa-La-La'

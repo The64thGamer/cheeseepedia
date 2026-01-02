@@ -15,35 +15,35 @@ This show features six Holiday songs, of which all were reused. The standard liv
 
 ## Show List 12/05 Update
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Disney Channel - 'Put the Happy in the Holidays'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'The Holiday Party'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  John Legend - 'You Deserve it All'
     2.  Backstreet Boys - Last Christmas
     3.  VeeFriends - Be the Bigger Person/Lit Lamb
     4.  Disney Channel - 'Puppy for Hanukkah'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Bella B. - 'Holiday Fiesta'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'Merry Christmas'
     2.  Piñata Smashlings - 'Jet's Showdown'
     3.  Rend Co. Kids - 'I Want A Hippopotamus for Christmas'
     4.  KIDZ Bop Kids - 'Santa Claus is Coming to Town'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Mr. Munch - 'Zorp-Ah-Glorp Dor-Bah is Coming Tonight'
     2.  Helen Henny - 'All I Want for Christmas is Snow'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  VeeFriends - 'Analysis Paralysis/Rare Robot'
     2.  Piñata Smashlings - 'Smash-A-Pult'
     3.  Brenda Lee - 'Rockin' Around the Christmas Tree'
     4.  The Ronettes - Sleigh Ride
     5.  KIDZ Bop Kids - Christmas is You'
     6.  KIDZ BOP Kids - 'I Wish It Could Be Christmas Every Day'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Friends - 'Cookies for Santa'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Idina Menzel & Josh Gad - 'We Wish You the Merriest'
 10. **Skit 5**
     1.  Chuck E. & Helen - 'Merry Christmastime'
@@ -59,34 +59,34 @@ This show features six Holiday songs, of which all were reused. The standard liv
 
 ## Show List
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Disney Channel - 'Put the Happy in the Holidays'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'The Holiday Party'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  John Legend - 'You Deserve it All'
     2.  Backstreet Boys - Last Christmas
     3.  VeeFriends - Be the Bigger Person/Lit Lamb
     4.  Disney Channel - 'Puppy for Hanukkah'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Bella B. - 'Holiday Fiesta'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'Merry Christmas'
     2.  Piñata Smashlings - 'Jet's Showdown'
     3.  Rend Co. Kids - 'I Want A Hippopotamus for Christmas'
     4.  KIDZ Bop Kids - 'Santa Claus is Coming to Town'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Mr. Munch - 'Zorp-Ah-Glorp Dor-Bah is Coming Tonight'
     2.  Helen Henny - 'All I Want for Christmas is Snow'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  VeeFriends - 'Analysis Paralysis/Rare Robot'
     2.  Piñata Smashlings - 'Smash-A-Pult'
     3.  Brenda Lee - 'Rockin' Around the Christmas Tree'
     4.  KIDZ Bop Kids - Christmas is You'
     5.  KIDZ BOP Kids - 'I Wish It Could Be Christmas Every Day'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Friends - 'Cookies for Santa'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Idina Menzel & Josh Gad - 'We Wish You the Merriest'
 10. **Skit 5**
     1.  Chuck E. & Helen - 'Merry Christmastime'

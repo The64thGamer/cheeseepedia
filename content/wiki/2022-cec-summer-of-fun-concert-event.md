@@ -26,25 +26,25 @@ With the help of Jessi & Chuck E.'s Crew, the band puts on a summer-themed show.
 
 **Note:** Concert remixes refer to older CEC content that has been updated or otherwise remixed for the show.
 
-1.  **Dialogue**
+1.**Dialogue**
     1.  Introduction for Jessi, Chuck E. and 'DJ Munch'
-2.  **Song**
+2.**Song**
     1.  Beach Party Bash
-3.  **Dialogue**
+3.**Dialogue**
     1.  Thanking DJ Munch, Jessi wanting to see 'Song of Summer' preformed then getting disappointed it's not happening yet, Introduction for Helen & Jasper.
-4.  **Song**
+4.**Song**
     1.  Play All You Can Play (Concert Remix)
-5.  **Dialogue**
+5.**Dialogue**
     1.  Jessi asking about 'Song of Summer' again.
-6.  **Song**
+6.**Song**
     1.  Dog Days of Summer (Concert Remix)
-7.  **Dialogue**
+7.**Dialogue**
     1.  DJ Munch, Helen, Jasper, and Jessi (who asksa again about) discuss birthdays this month, this summer, then this year, and how to do the Chuck E. Cheese's Birthday Song
-8.  **Song**
+8.**Song**
     1.  Chuck E. Cheese's Birthday Song (Concert Remix)
     2.  Happy Birthday
     3.  Happy Birthday (Spanish) (Concert Remix)
-9.  **Dialogue**
+9.**Dialogue**
     1.  Jessi asks again about the song, and Chuck explains his thinking that if he sings the song, the fun of summer will end.
 10. **Song**
     1.  Song of Summer (Concert Remix)

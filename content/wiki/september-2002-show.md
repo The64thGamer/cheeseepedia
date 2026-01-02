@@ -17,34 +17,34 @@ This show featured 4 segments with 8 songs.
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  ['That's The Way (I Like It)'](https://en.wikipedia.org/wiki/That%27s_the_Way_(I_Like_It))
     2.  'Chase After Your Dreams'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Dancing Food'
     2.  Pizza Survivor
     3.  Countdown - CEC TV Special Report
     4.  CEC TV ID - 'Singing Animals'
-3.  **Segment 2**
+3.**Segment 2**
     1.  ['Living In America'](https://en.wikipedia.org/wiki/Living_in_America_(James_Brown_song))
     2.  'Try It Again'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV ID - 'Blender'
     2.  The Tube Explorer - 'Tickets & Prizes'
     3.  Countdown - Jason
     4.  CEC TV ID - 'Janitor'
-5.  **Segment 3**
+5.**Segment 3**
     1.  ['Shining Star'](https://en.wikipedia.org/wiki/Shining_Star_(Earth,_Wind_%26_Fire_song))
     2.  'Roll The Pizza Dough' (parody of ['Good Times Roll'](https://en.wikipedia.org/wiki/Good_Times_Roll))
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Dancing Food'
     2.  Eddie Coker - 'Keep Shining'
     3.  Countdown - Betty
     4.  CEC TV ID - 'Haircut'
-7.  **Segment 4**
+7.**Segment 4**
     1.  ['Shout'](https://en.wikipedia.org/wiki/Shout_(Isley_Brothers_song))
     2.  ['ABC'](https://en.wikipedia.org/wiki/ABC_(The_Jackson_5_song))
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Blender'
     2.  Monkey Ninjas - Episode 3
     3.  Countdown - Jason (Studio C)

@@ -15,13 +15,13 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  OK GO - 'Upside Down and Inside Out'
     2.  CEC Buffet Spot
     3.  Nickelodeon - 'Spongebob Squarepants Remix'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'Rainy Day' (New)
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Cassadee Pope - 'I Am Invincible'
     2.  Fun Facts with Chuck E. - 'Favorite Foods' (New)
     3.  Caspar Babypants - 'Stompy The Bear'
@@ -29,9 +29,9 @@ categories = ["Chuck E. Cheese's"]
     5.  Gwen Stefani - 'Make Me Like You'
     6.  Dell/Golden Ticket Spot
     7.  Nickelodeon - 'Paw Patrol'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Helen Henny - 'Gamin' Time' (New)
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Avicii - 'Wake Me Up'
     2.  Fun Facts with Chuck E. - 'Maths'
     3.  Josh & The Jamtones - 'Tailfeather
@@ -41,16 +41,16 @@ categories = ["Chuck E. Cheese's"]
     7.  One Direction - 'History'
     8.  Fun Facts with Chuck E. - 'Outer Space' (New)
     9.  Caspar Babypants - 'Mr. Rabbit'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. & Friends - 'Cowboy's Life For Me' (New)
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  NYC CEC Food Truck Video
     2.  Jokes from Pasqually - 'Soccer' (New)
     3.  Nickelodeon - 'Dora & Friends'
     4.  Owl City - 'Fireflies'
     5.  Fun Facts with Chuck E. - 'Favorite Songs' (New)
     6.  Nickelodeon - 'Shimmer & The Shine'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. Cheese - 'Your Birthdays Are Special' (New)
 
 ## Live Shows:

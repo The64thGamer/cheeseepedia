@@ -19,7 +19,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 
 ## Show List
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  8 Minute Countdown
         1.  [Help Me Rhonda](https://en.wikipedia.org/wiki/Help_Me,_Rhonda)
         2.  [Every Little Thing She Does Is Magic](https://en.wikipedia.org/wiki/Every_Little_Thing_She_Does_Is_Magic)
@@ -30,7 +30,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 2.   **Segment 1**
     1.  The Future Looks Fun To Me
     2.  Tech-No-Rific!
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  8 Minute Countdown
         1.  [Straight Up](https://en.wikipedia.org/wiki/Straight_Up_(Paula_Abdul_song))
         2.  Birthday Extravaganza
@@ -41,7 +41,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 4.   **Segment 2**
     1.  There's Nothing You Can't Do
     2.  Possibilities
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  8 Minute Countdown
         1.  [Silly Love Songs](https://en.wikipedia.org/wiki/Silly_Love_Songs)
         2.  Birthday Extravaganza
@@ -51,7 +51,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 6.   **Segment 3**
     1.  Guessing Game
     2.  See You Soon My Friend
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  8 Minute Countdown
         1.  [The Lonely Bull (El Solo Toro)](https://en.wikipedia.org/wiki/The_Lonely_Bull)
         2.  [Put Yourself In My Shoes](https://en.wikipedia.org/wiki/Put_Yourself_in_My_Shoes)
@@ -63,7 +63,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
 8.   **Segment 1**
     1.  The Future Looks Fun To Me
     2.  Tech-No-Rific!
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  8 Minute Countdown
         1.  [Don't Stop Thinking About Tomorrow](https://en.wikipedia.org/wiki/Don%27t_Stop_(Fleetwood_Mac_song))
         2.  Birthday Extravaganza
@@ -71,7 +71,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
         4.  [The Locomotion (By Little Eva)](https://en.wikipedia.org/wiki/The_Loco-Motion)
     2.  CEC-TV Intro
     3.  
-10.  **Segment 2**
+10.**Segment 2**
     1.  There's Nothing You Can't Do
     2.  Possibilities
 11. **Intermission 6**
@@ -81,7 +81,7 @@ The showtape's theme is about the world of tomorrow, from the newest technology,
         3.  [We Are The World](https://en.wikipedia.org/wiki/We_Are_the_World)
     2.  CEC-TV Intro
     3.  
-12.  **Segment 3**
+12.**Segment 3**
     1.  Guessing Game
     2.  See You Soon My Friend
 

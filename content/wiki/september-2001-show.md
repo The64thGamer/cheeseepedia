@@ -18,35 +18,35 @@ This show featured 4 segments with 8 songs.
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  ['Boogie Shoes'](https://en.wikipedia.org/wiki/Boogie_Shoes)
     2.  ['Everlasting Love'](https://en.wikipedia.org/wiki/Everlasting_Love)
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  VeggieTales - 'His Cheeseburger'
     2.  Skateboarding
     3.  Store Intro - 'Orlando FL, CEC'
     4.  CEC TV ID - 'Couch'
-3.  **Segment 2**
+3.**Segment 2**
     1.  ['Louie Louie'](https://en.wikipedia.org/wiki/Louie_Louie)
     2.  ['How Sweet It Is (To Be Loved By You'](https://en.wikipedia.org/wiki/How_Sweet_It_Is_(To_Be_Loved_by_You))
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV ID - 'Marx Bros'
     2.  Eddie Coker - 'I Believe'
     3.  Store Intro - 'Spokane WA, CEC'
     4.  CEC TV ID - 'Rocketship'
     5.  Ski Time! (Studio C)
-5.  **Segment 3**
+5.**Segment 3**
     1.  'Paper or Plastic' (Parody of ['Paperback Writer'](https://en.wikipedia.org/wiki/Paperback_Writer))
     2.  ['Do You Love Me?'](https://en.wikipedia.org/wiki/Do_You_Love_Me)
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Amphicar
     2.  Baking With Betty - 'Mad Cows'
     3.  Store Intro - 'Spokane WA, CEC'
     4.  CEC TV ID - 'Cows'
-7.  **Segment 4**
+7.**Segment 4**
     1.  ['I Can Help'](https://en.wikipedia.org/wiki/I_Can_Help)
     2.  ['My Girl'](https://en.wikipedia.org/wiki/My_Girl_(The_Temptations_song))
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  VeggieTales - 'My Share'
     2.  VeggieTales - Jonah Movie Trailer
     3.  Sing-Along Guys - 'Old MacDonald'

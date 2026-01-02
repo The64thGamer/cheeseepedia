@@ -20,25 +20,25 @@ This was the last Awesome Adventure Machine showtape, but wasn't programmed or p
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  Walk The Dinosaur
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Pink Panther - 'The Pink Flea'
-3.  **Segment 2**
+3.**Segment 2**
     1.  Sharp Dressed Mouse (Parody of [Sharp Dressed Man](https://en.wikipedia.org/wiki/Sharp_Dressed_Man))
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV News - 'The Tater'
     2.  Virtual Video
-5.  **Segment 3**
+5.**Segment 3**
     1.  Secret Agent Man
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Pink Panther - 'In The Pink'
-7.  **Segment 4**
+7.**Segment 4**
     1.  I Like It Like That
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV News - 'Deep Thoughts'
     2.  Dancing
-9.  **Segment 5**
+9.**Segment 5**
     1.  Deep Freeze
 10. **Intermission 5**
     1.  Pink Panther - 'Pink Sphinx'

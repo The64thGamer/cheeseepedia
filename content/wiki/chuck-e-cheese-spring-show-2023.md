@@ -15,33 +15,33 @@ This is the final physical show to be released in the domestic market due to the
 
 ## Physical Release Show List
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Ecolab
     2.  Food & Drink Combos
     3.  CEC YouTube & Music Streaming
     4.  KIDZ BOP Kids - 'KIDZ BOP Never Stop'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Let's Have A Party'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  CEC Online Store
     2.  Samsung
     3.  Black Eyed Peas, Shakira, David Guetta - 'Don't You Worry'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese & Friends - 'In the Future'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  CEC Group Events & Fundraisers
     2.  Food & Drink Combos
     3.  Dippin' Dots
     4.  KIDZ BOP Kids - 'Break My Heart'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  CEC Birthdays
     2.  CEC YouTube & Music Streaming
     3.  KIDZ BOP Kids - 'Sunroof'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Jasper T. Jowls - 'The Tail of Jasper T.'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  LankyBox - 'Pizza Song'
     2.  Haribo Goldbears
     3.  KIDZ BOP Kids - 'Space Man'
@@ -65,25 +65,25 @@ This is the final physical show to be released in the domestic market due to the
 
 ### Advertising
 
-1.  **Ad 1**
+1.**Ad 1**
     1.  Ecolab
-2.  **Ad 2**
+2.**Ad 2**
     1.  Samsung
     2.  Food & Drink Combos
-3.  **Ad 3**
+3.**Ad 3**
     1.  Dippin' Dots
-4.  **Ad 4**
+4.**Ad 4**
     1.  CEC Online Store
-5.  **Ad 5**
+5.**Ad 5**
     1.  Updated CEC Group Events & Fundraisers
-6.  **Ad 6**
+6.**Ad 6**
     1.  PPG
     2.  Food & Drink Combos
-7.  **Ad 7**
+7.**Ad 7**
     1.  Ecolab
-8.  **Ad 8**
+8.**Ad 8**
     1.  Dippin' Dots
-9.  **Ad 9**
+9.**Ad 9**
     1.  CEC YouTube & Music Streaming
     2.  Food & Drink Combos
 10. **Ad 10**
@@ -119,25 +119,25 @@ This is the final physical show to be released in the domestic market due to the
 
 ### Advertising
 
-1.  **Ad 1**
+1.**Ad 1**
     1.  Ecolab
-2.  **Ad 2**
+2.**Ad 2**
     1.  Samsung
     2.  Food & Drink Combos
-3.  **Ad 3**
+3.**Ad 3**
     1.  Dippin' Dots
-4.  **Ad 4**
+4.**Ad 4**
     1.  CEC Online Store
-5.  **Ad 5**
+5.**Ad 5**
     1.  CEC Group Events & Fundraisers
-6.  **Ad 6**
+6.**Ad 6**
     1.  PPG
     2.  Food & Drink Combos
-7.  **Ad 7**
+7.**Ad 7**
     1.  Ecolab
-8.  **Ad 8**
+8.**Ad 8**
     1.  Dippin' Dots
-9.  **Ad 9**
+9.**Ad 9**
     1.  CEC YouTube & Music Streaming
     2.  Food & Drink Combos
 10. **Ad 10**
@@ -151,13 +151,13 @@ This is the final physical show to be released in the domestic market due to the
 ### Entertainment
 
 1.  KIDZ BOP Kids - 'Late Night Talking'
-2.  **Chuck E. Cheese - 'Let's Have A Party**'
+2.**Chuck E. Cheese - 'Let's Have A Party**'
 3.  Black Eyed Peas, Shakira, David Guetta - 'Don't You Worry'
-4.  **Chuck E. Cheese & Friends - 'In The Future**'
+4.**Chuck E. Cheese & Friends - 'In The Future**'
 5.  KIDZ BOP Kids - 'Break My Heart'
-6.  **Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name**'
+6.**Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name**'
 7.  KIDZ BOP Kids - 'Sunroof'
-8.  **Jasper T. Jowls - 'The Tail Of Jasper T.**'
+8.**Jasper T. Jowls - 'The Tail Of Jasper T.**'
 9.  LankyBox - 'Pizza Song'
 10. KIDZ BOP Kids - 'Spaceman'
 11. **Helen Henny - 'Gamin' Time**'

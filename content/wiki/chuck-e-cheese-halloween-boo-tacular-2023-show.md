@@ -15,25 +15,25 @@ This was created in conjunction with the Halloween Boo-Tacular promotion. It ran
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Boo-Tacular Bumper feat. Chuck E. & Helen
     2.  KIDZ BOP - 'This is Halloween'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Helen Henny - 'Witches Crew'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Koo Koo Kanga Roo - 'Monster Moves'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese - 'Halloween Night'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP - 'Halloween Party!'
     2.  Boo-Tacular Bumper feat. Jasper & Munch
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. Cheese - 'If Every Day Was Halloween'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  China Anne McClain - 'Calling All The Monsters'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Friends - 'Gotta Be Halloween'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Blippi - 'Halloween'
     2.  Boo-Tacular Bumper feat. Bella & Pasqually
     3.  KIDZ BOP - 'Ghostbusters'

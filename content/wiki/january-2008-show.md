@@ -16,36 +16,36 @@ The **January 2008 Show** was a showtape released in 2008 with eight songs.
 
 ## Show List
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  ['Bad Case of Loving You (Doctor, Doctor)'](https://en.wikipedia.org/wiki/Bad_Case_of_Loving_You_(Doctor,_Doctor))
     2.  ['Hit Me with Your Best Shot'](https://en.wikipedia.org/wiki/Hit_Me_with_Your_Best_Shot)
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Cows'
     2.  Bee Movie Spot
     3.  CEC TV ID - 'Singing Animals'
-3.  **Segment 2**
+3.**Segment 2**
     1.  ['Takin' Care of Business'](https://en.wikipedia.org/wiki/Takin%27_Care_of_Business_(song))
     2.  ['Burning Love'](https://en.wikipedia.org/wiki/Burning_Love)
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV ID - 'Haircut'
     2.  Super Jasper - 'Cadilac Ranch'
     3.  Bday Promo
     4.  CEC TV ID - 'NBC Chime'
     5.  Flying
     6.  PBS Kids Spot
-5.  **Segment 3**
+5.**Segment 3**
     1.  ['Take On Me'](https://en.wikipedia.org/wiki/Take_On_Me)
     2.  ['Crazy'](https://en.wikipedia.org/wiki/Crazy_(Willie_Nelson_song))
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Astronaut Chuck E.'
     2.  Minute Maid Spot
     3.  VeggieTales - 'Gated Community'
     4.  Fundraising Promo
     5.  CEC TV ID - 'Color The Numbers'
-7.  **Segment 4**
+7.**Segment 4**
     1.  ['You Ain't Seen Nothing Yet'](https://en.wikipedia.org/wiki/You_Ain%27t_Seen_Nothing_Yet_(Bachman%E2%80%93Turner_Overdrive_song))
     2.  ['The ABC Song'](https://en.wikipedia.org/wiki/The_ABC_Song)
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Digestion'
     2.  Bee Movie Spot
     3.  PBS Kids Spot

@@ -15,36 +15,36 @@ This was created in conjunction with the Halloween Boo-Tacular promotion. Runs f
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Safety Message
     2.  Food & Drink Combos
     3.  Chuck E. Cheese YouTube & Music Streaming
     4.  Boo-Tacular Bumper feat. Chuck E. & Helen
     5.  KIDZ BOP - "This Is Halloween"
-2.  **Skit 1**
+2.**Skit 1**
     1.  Helen Henny & Friends - "Witches Crew"
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Boo-Tacular Menu & Merch
     2.  Chupa Chups
     3.  CEC Online Store
     4.  Koo Koo Kanga Roo - "Monster Moves"
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese - "Halloween Night"
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Samsung
     2.  Hi-Chew
     3.  KIDZ BOP - "Halloween Party"
     4.  Boo-Tacular Bumper feat. Jasper & Munch
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. Cheese - "If Every Day Was Halloween"
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Safety Message
     2.  Food & Drinks
     3.  Dippin' Dots
     4.  China Anne McClain - "Calling All the Monsters"
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. Cheese & Friends - "Gotta Be Halloween"
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Blippi - "Halloween"
     2.  Boo-Tacular Bumper feat. Bella & Pasqually
     3.  KIDZ BOP - "Ghostbusters"

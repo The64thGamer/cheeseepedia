@@ -19,7 +19,7 @@ categories = ["Chuck E. Cheese's"]
 1.   **Segment 1**
     1.   ['Sing A Song'](https://en.wikipedia.org/wiki/Sing_a_Song_(Earth,_Wind_%26_Fire_song))
     2.   ['Somebody's Watching Me'](https://en.wikipedia.org/wiki/Somebody%27s_Watching_Me)
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Marquee'
     2.   Coke Groove
     3.   Veggietales - 'Boids'
@@ -28,7 +28,7 @@ categories = ["Chuck E. Cheese's"]
 3.   **Segment 2**
     1.   ['Who Put The Bomp'](https://en.wikipedia.org/wiki/Who_Put_the_Bomp_(in_the_Bomp,_Bomp,_Bomp))
     2.   ['Breakout'](https://en.wikipedia.org/wiki/Breakout_(Swing_Out_Sister_song))
-4.  **Intermission 2**
+4.**Intermission 2**
     1.   CEC TV ID - 'Parachute'
     2.   More Fun Spot
     3.   Eddie Coker - 'Play With Me'
@@ -38,7 +38,7 @@ categories = ["Chuck E. Cheese's"]
 5.   **Segment 3**
     1.   ['I'm Walkin''](https://en.wikipedia.org/wiki/I%27m_Walkin%27)
     2.   ['September'](https://en.wikipedia.org/wiki/September_(Earth,_Wind_%26_Fire_song))
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Pool Plug'
     2.   Coke Groove
     3.   Tube Explorer - 'The Coolest'
@@ -47,7 +47,7 @@ categories = ["Chuck E. Cheese's"]
 7.   **Segment 4**
     1.   ['Ain't That A Shame'](https://en.wikipedia.org/wiki/Ain%27t_That_a_Shame)
     2.   'Chuck E.'s Place'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Sunrise'
     2.   More Fun Spot
     3.   Monkey Ninjas - Episode 5

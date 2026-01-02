@@ -19,7 +19,7 @@ categories = ["Chuck E. Cheese's"]
 1.   **Segment 1**
     1.   ['Soul Man'](https://en.wikipedia.org/wiki/Soul_Man_(song))
     2.   ['Respect'](https://en.wikipedia.org/wiki/Respect_(song))
-2.  **Intermission 1**
+2.**Intermission 1**
     1.   CEC TV ID - 'Marquee'
     2.   Eddie Coker - 'Bob'
     3.   Countdown
@@ -27,7 +27,7 @@ categories = ["Chuck E. Cheese's"]
 3.   **Segment 2**
     1.   ['Hold On, I'm Comin''](https://en.wikipedia.org/wiki/Hold_On,_I%27m_Comin%27_(song))
     2.   ['I Thank You'](https://en.wikipedia.org/wiki/I_Thank_You_(song))
-4.  **Intermission 2**
+4.**Intermission 2**
     1.   CEC TV ID - 'Parachute'
     2.   VeggieTales - 'BellyButton'
     3.   Countdown
@@ -35,7 +35,7 @@ categories = ["Chuck E. Cheese's"]
 5.   **Segment 3**
     1.   ['Boogie Fever'](https://en.wikipedia.org/wiki/Boogie_Fever)
     2.  'Our Mouse' (parody of ['Our House'](https://en.wikipedia.org/wiki/Our_House_(Madness_song)))
-6.  **Intermission 3**
+6.**Intermission 3**
     1.   CEC TV ID - 'Pool'
     2.   Eddie Coker - 'Save Our Planet'
     3.   Countdown
@@ -43,7 +43,7 @@ categories = ["Chuck E. Cheese's"]
 7.   **Segment 4**
     1.   ['I Will Survive'](https://en.wikipedia.org/wiki/I_Will_Survive)
     2.  ['I'll Take You There'](https://en.wikipedia.org/wiki/I%27ll_Take_You_There)
-8.  **Intermission 4**
+8.**Intermission 4**
     1.   CEC TV ID - 'Sunrise'
     2.   Monkey Ninjas - Episode 4
     3.  CEC TV ID - 'Blender'

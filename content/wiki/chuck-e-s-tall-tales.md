@@ -36,10 +36,10 @@ categories = ["Chuck E. Cheese's"]
     2.  Techno Dreams
 9.   **Segment 5**
     1.  'Hansel and Gretel'
-10.  **Intermission 5**
+10.**Intermission 5**
     1.  Tuneland Starring Howie Mandel
     2.  Food Frolics
-11.  **Segment 6**
+11.**Segment 6**
     1.  'Outro'
 
 ## Trivia:

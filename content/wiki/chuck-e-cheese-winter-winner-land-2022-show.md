@@ -15,36 +15,36 @@ This show features seven Holiday songs, of which all were reused. The automatic 
 
 ## Show List
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.   Ecolab
     2.   Winter Food and Drink combo
     3.  YouTube and Music Streaming Spot
     4.  Winter Winner-Land Host Spot 1 - (Chuck E. & Helen)
     5.  Disney Channel Stars - "Put the Happy in the Holidays'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - "The Holiday Party"
-3.  **Intermission 2**
+3.**Intermission 2**
     1.   Winter Winner-Land Deserts
     2.  Hi-Chew
     3.   CEC Online Store
     4.  KIDZ BOP Kids - 'Let It Snow'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Munch - 'Zorp-Ah-Glorp Dor-Bah Is Coming Tonight'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.   Samsung
     2.   Lanky Box - 'Pizza Song'
     3.  Daveed Diggs - 'Puppy for Hanukkah'
     4.  Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
-6.  **Skit 3**
+6.**Skit 3**
     1.  Bella B. & Chuck E. - "Holiday Fiesta"
-7.  **Intermission 4**
+7.**Intermission 4**
     1.   Ecolab
     2.   Winter Food and Drink combo
     3.  Dippin' Dots
     4.   KIDZ BOP Kids - 'Jingle Bells'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Friends - 'Cookies for Santa'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.   The Ronnettes - 'Sleigh Ride'
     2.  Winter Winner-Land Host Spot 3 (Chuck E. & Pasqually)
     3.  KIDZ Bop Kids - 'Deck The Halls'
@@ -56,7 +56,7 @@ This show features seven Holiday songs, of which all were reused. The automatic 
     3.  Idina Menzel - "We Wish You the Merriest"
 12. **Skit 6**
     1.  Chuck E. & Helen - 'Merry Christmastime'
-13.  **Intermission 7**
+13.**Intermission 7**
     1.  Group Events and Fundraisers
     2.  Happy Holidays from Hi-Chew
     3.  Lanky Box - 'Donut Song'

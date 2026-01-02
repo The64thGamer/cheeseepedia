@@ -25,16 +25,16 @@ Segment four starts with Alowicious introducing the band. Then Chuck E. sadly gr
 1.   **Segment 1**
     1.  ['Party Rock Anthem'](https://en.wikipedia.org/wiki/Party_Rock_Anthem)
     2.  ['The Final Countdown'](https://en.wikipedia.org/wiki/The_Final_Countdown_(song))
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Hard Hat Hank - 'Door Frame'
     2.  Fraggle Rock - 'The Friendship Song'
     3.  Magic Ticket Spot
     4.  Chillout - 'Animals'
     5.  CEC TV ID - 'Rocketship'
-3.  **Segment 2**
+3.**Segment 2**
     1.  ['Everybody Have Fun Tonight'](https://en.wikipedia.org/wiki/Everybody_Have_Fun_Tonight)
     2.  ['Camouflage'](https://en.wikipedia.org/wiki/Camouflage_(Brad_Paisley_song))
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  VeggieTales - 'Bubble Rap'
     2.  The Dirty Sock Funtime Band - 'Love It'
     3.  Chillout - 'Flying'
@@ -42,15 +42,15 @@ Segment four starts with Alowicious introducing the band. Then Chuck E. sadly gr
 5.   **Segment 3**
     1.  ['Love Story'](https://en.wikipedia.org/wiki/Love_Story_(Taylor_Swift_song))
     2.  'Pizza Oven' (Parody of ['Evil Woman'](https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song)))
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Fraggle Rock - 'Gonna Have Fun Tonight'
     2.  Fundraising Spot
     3.  Chillout - 'Shopping Cart'
     4.  CEC TV ID - 'Blue'
-7.  **Segment 4**
+7.**Segment 4**
     1.  'I Need A New Wheel' (Parody of ['Head Over Heels'](https://en.wikipedia.org/wiki/Head_over_Heels_(Tears_for_Fears_song)))
     2.  ['Best of My Love'](https://en.wikipedia.org/wiki/Best_of_My_Love_(The_Emotions_song))
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Color The Numbers'
     2.  Fraggle Rock - 'Wembley & the Gorgs'
     3.  The Dirty Sock Funtime Band - 'Rest Stop'

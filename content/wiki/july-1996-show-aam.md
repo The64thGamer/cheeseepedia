@@ -36,8 +36,8 @@ Disclaimer: The show list is currently incomplete, as only some intermissions ar
     1.  'It's a Jungle Out There'
 10.   **Intermission 5**
     1.  Chuck E. Cheese Club
-11.  **Segment 5**
+11.**Segment 5**
     1.  ['Walk Like an Egyptian'](https://en.wikipedia.org/wiki/Walk_Like_an_Egyptian)
-12.  **Intermission 6**
+12.**Intermission 6**
     1.  Chuck E. Cheese Club
     2.  Message from Chuck E. Cheese

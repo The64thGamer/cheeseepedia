@@ -15,35 +15,35 @@ This was created to play from April 16, 2018 - June 25, 2018. Featuring 5 songs 
 
 ## Show List:
 
-1.  **Skit 1**
+1.**Skit 1**
     1.  'Happy Birthday, Helen Henny!'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Zedd, Maren Morris, Grey - 'The Middle'
     2.  Floogals - 'Flowers'
-3.  **Skit 2**
+3.**Skit 2**
     1.  Helen Henny - 'Dream Big'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Battery Pop - 'OmNom Stories Episode 2'
     2.  Coco Jones - 'Holla At The DJ'
     3.  Chuck E. Cheese's Birthday - 'Unlimited Games/Play Band'
     4.  Nina's World - 'Star Amigos'
     5.  Alice Merton - 'No Roots'
     6.  Chuck E. Cheese's More Cheese Rewards
-5.  **Skit 3**
+5.**Skit 3**
     1.  Chuck E. Cheese - 'More Cheese'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Lisa Loeb - 'Wiggle'
     2.  Chuck E. Cheese's Buffet
     3.  DJ Snake, Luav - 'A Different Way'
     4.  Chuck E. Cheese's Fun-Ticket-Tastic
     5.  Ocean Park Standoff - 'Lost Boys'
     6.  Battery Pop - 'Charlie Freaks Out - Rubix Cube'
-7.  **Skit 4**
+7.**Skit 4**
     1.  Chuck E. Cheese & Jasper T. Jowls - 'Jasper's Country Classic'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  Marlon Roudette - 'Ultra Love'
     2.  UPTV - Birthday at Chuck E. Cheese's
-9.  **Skit 5**
+9.**Skit 5**
     1.  Chuck E. Cheese & Friends - 'Fun!'
 10. **Intermission 5**
     1.  Fun Facts with Chuck E. Cheese - 'Chili's'

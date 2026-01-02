@@ -15,40 +15,40 @@ This was created to play from June 19, 2017. - August 20, 2017. This show featur
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Kool & The Gang - 'Celebration' (1970s)
     2.  CEC Promo - 'Carl Clean'
     3.  Sprout - 'Ollie and Moon'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Let's Have A Party'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Electrical Light Orchestra - 'Mr. Blue Sky' (1970s)
     2.  Jim Henson - 'Splash & Bubbles'
     3.  CEC Sketch - 'Fun Check'
     4.  CEC Promo - TV Spot - 'Summer of Fun'
     5.  Lionel Richie - 'Dancing On The Ceiling' (1980s)
     6.  CEC Promo - 'Ticket Dance'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese & Friends - 'Friendship Never Ends'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  a-ha - 'Take On Me' (1980s)
     2.  CEC Promo - 'Buffet'
     3.  Backstreet Boys - 'I Want It That Way' (1990s)
     4.  CEC Promo - Birthday TV Spot - 'Cotton Candy'
     5.  Spin Doctors - 'Two Princes' (1990s)
     6.  Discovery Family - 'My Little Pony Friendship Is Magic'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. Cheese & Friends - 'Chuck E.'s Place'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Kelly Clarkson - 'Since U Been Gone' (2000s)
     2.  CEC Promo - TV Spot - 'Fundraisers'
     3.  Vanessa Carlton - 'A Thousand Miles' (2000s)
     4.  Battery Pop - 'Super Pets'
     5.  Taylor Swift - 'I'm Only Me When I'm With You' (2010s)
     6.  Space Pop - 'Have A Good Time'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. Cheese & Friends - 'Out Of This World'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Sabrina Carpenter - 'Thumbs' (2010s)
     2.  CEC Promo - 'Sensory Sensitive Sundays'
     3.  1990s Munch Countdown

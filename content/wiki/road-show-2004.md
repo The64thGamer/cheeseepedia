@@ -12,7 +12,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live List:
 
-1.  **Live 1**
+1.**Live 1**
     1.  Limbo Rock
-2.  **Live 2**
+2.**Live 2**
     1.  Hokey Pokey

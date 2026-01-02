@@ -15,29 +15,29 @@ This was created to play from December 29th 2014 - March 15th 2015. This show fe
 
 ## Show List:
 
-1.  **Skit 1**
+1.**Skit 1**
     1.  Music Video - 'Fun For All' (Chuck E.)
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Act 1 - 'Wolf in Sheep's Clothing'
     2.  Josh and the Jamtones - 'John Jacob'
     3.  Sketch - Hard Hat Hank - 'Box'
     4.  Act 2 - 'Where Are They Now?'
-3.  **Skit 2**
+3.**Skit 2**
     1.  Music Video - 'Chasin' Me a Truck' (Jasper)
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Josh and the Jamtones - 'Bear Hunt Lodge'
     2.  CEC Social Media Promo
     3.  Show Break - 'Driving Time Lapse'
     4.  Act 3 - 'We Gotta Get The Band Back Together'
-5.  **Skit 3**
+5.**Skit 3**
     1.  Music Video - 'Dancin' Kitten' (Chuck E.)
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC Live Promo
     2.  Josh and the Jamtones - 'Iko Iko'
     3.  Act 4 Part 1 - 'Battle of the Bands'
-7.  **Skit 4**
+7.**Skit 4**
     1.  Music Video - 'Party With You' (Helen)
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  Act 4 Part 2 - 'The End'
     2.  Josh and the Jamtones - 'Jump Up!'
     3.  Sketch - Jokes From Pasqually - 'Bananas'

@@ -15,7 +15,7 @@ This was created to play from August 21, 2017. - October 1, 2017 then was extend
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  DJ Chuck E. Skit 1
     2.  Junior Senior - 'Move Your Feet'
     3.  Bruno Mars - 'Treasure'
@@ -26,7 +26,7 @@ This was created to play from August 21, 2017. - October 1, 2017 then was extend
     8.  Coldplay - 'Adventure Of A Lifetime'
     9.  Janet Jackson - 'Miss You Much'
     10. Silento - 'Watch Me (Whip/Nae Nae)'
-2.  **Intermission 2**
+2.**Intermission 2**
     1.  DJ Chuck E. Skit 2
     2.  Patti Labelle - 'New Attitude'
     3.  A-Ha - 'Take On Me'

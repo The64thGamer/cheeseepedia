@@ -20,35 +20,35 @@ categories = ["Chuck E. Cheese's"]
 
 **Show plays in full twice on the tape. The Store Intro in intermission 4 does not play on the second loop.**
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  Chuck E.'s Dance Party
     2.  [Dancing on the Ceiling](https://en.m.wikipedia.org/wiki/Dancing_on_the_Ceiling_(Lionel_Richie_song))
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Abstract'
     2.  VeggieTales - 'I Love My Lips'
     3.  Ratings
     4.  Super Jasper - 'Cadillac Ranch'
     5.  Store Intro - 'Irving, TX'
-3.  **Segment 2**
+3.**Segment 2**
     1.  Chuck E. Town (Parody of [Funky Town](https://en.wikipedia.org/wiki/Funkytown))
     2.  Dancin' and Singin'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV ID - 'Abstract'
     2.  Eddie Coker - 'Happy One'
     3.  Singing Cowboy
     4.  Store Intro - 'North Richland Hills, TX'
-5.  **Segment 3**
+5.**Segment 3**
     1.  Pizza Serenade
     2.  Hip Mouse (Parody of [Brick House](https://en.wikipedia.org/wiki/Brick_House_(song)))
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Abstract'
     2.  VeggieTales - 'The Hairbrush Song'
     3.  Memories Are Forever
     4.  Store Into - 'Arlington, TX (Fielder)'
-7.  **Segment 4**
+7.**Segment 4**
     1.  Let's Dance
     2.  Dancin' On The Moon
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Abstract'
     2.  Eddie Coker - 'Interaction'
     3.  Super Jasper - 'Staring Contest'

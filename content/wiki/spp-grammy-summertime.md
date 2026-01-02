@@ -14,31 +14,31 @@ showtapeFormats = ["ShowBiz SVHS","CEI 4-Track Reel"]
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  ???
     2.  Birthday Spectacular
     3.  ???
     4.  Cyberstar Intro
-2.  **Segment 1**
+2.**Segment 1**
     1.  Grammys (Cyberstar Segment)|Grammys
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  ???
     2.  Birthday Spectacular
     3.  ???
     4.  Cyberstar Intro
-4.  **Segment 2**
+4.**Segment 2**
     1.  Michael Jackson (Cyberstar Segment)|Michael Jackson
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  ???
     2.  Birthday Spectacular
     3.  ???
     4.  Cyberstar Intro
-6.  **Segment 3**
+6.**Segment 3**
     1.  Summer Love (Cyberstar Segment)|Summer Love
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  ???
     2.  Birthday Spectacular
     3.  ???
     4.  Cyberstar Intro
-8.  **Segment 4**
+8.**Segment 4**
     1.  Summer Safety (Cyberstar Segment)|Summer Safety

@@ -15,7 +15,7 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  American Authors - 'Best Day Of My Life'
     2.  CEC Promo - 'School Fundraiser'
     3.  Josh & The Jamtones - 'Iko Iko'
@@ -24,9 +24,9 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
     6.  Cartoon Network - Clarence - 'New Dog'
     7.  Silentó - Watch Me (Whip/Nae Nae)
     8.  CEC Promo - 'Moms Spot'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'All For Fun, Fun For All' (Animatronic/Lights Segment)
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Bea Miller - 'Fire N' Gold'
     2.  CEC Sketch-'Pasqually's Brother' (New)
     3.  Cartoon Network - Gumball Universe - 'Gym Band'
@@ -41,7 +41,7 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
     12. CEC Promo - 'Dads Spot'
     13. The Black Keys - 'Gold On The Ceiling'
     14. Cartoon Network - Steven Universe - 'The Crystal Gems'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese - 'Dancin' Kitten' (Animatronic/Lights Segment)
 
 ## Lives:

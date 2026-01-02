@@ -15,35 +15,35 @@ This show was released in July 2008 and played until August.
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Best Friend'
     2.  'Summertime'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Couch'
     2.  E-TV - 'Run, Jump, Skip & Play'
     3.  VeggieTales - 'Belly Button'
-3.  **Segment 2**
+3.**Segment 2**
     1.  'Livin Life'
     2.  'In The Summertime'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV ID - 'Singing Fish'
     2.  Go-Paint! Promo
     3.  Let's Ski!!!
     4.  E-TV - 'Ball Remix'
     5.  CEC TV ID - 'Cows'
     6.  The Announcer
-5.  **Segment 3**
+5.**Segment 3**
     1.  'Hot Sauce' (Parody of [Hot Stuff](https://en.wikipedia.org/wiki/Hot_Stuff_(Donna_Summer_song)))
     2.  'SPF'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Haircut'
     2.  Bday Promo
     3.  Monkey Ninjas Episode 4
     4.  CEC TV ID - 'Chuck E. Skateboarding'
-7.  **Segment 4**
+7.**Segment 4**
     1.  'I Love the Sunshine'
     2.  'Chuck E. Cheese' (Parody of [I Feel for You](https://en.wikipedia.org/wiki/I_Feel_for_You))
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Flashing Hand'
     2.  PBS Kids Spot
     3.  Shrek Promo

@@ -15,26 +15,26 @@ This was created with the idea to play between promotional events.
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Jasper T. Jowls - 'Wash the Bus'
     2.  KIDZ BOP - 'Made You Look'
     3.  KIDZ BOP - 'Flowers'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'Most Perfect Day'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Chuck E. & Bella - 'Bella's Garden'
     2.  KIDZ BOP - 'CUFF IT'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'I Love Sparkles!'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Chuck E. & Friends - 'Water Buffalo'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. & Friends - 'Ves Al Ratoncito'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Chuck E. Cheese - 'Banana Dog'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. Cheese - 'Do Re Mi'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  KIDZ BOP - 'Sunroof'
     2.  Silly Song - 'Little Bitty Kitty Cat'
 10. **Skit 5**

@@ -14,14 +14,14 @@ showtapeFormats = ["CEI 4-Track Reel"]
 
 ## Segment List
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  Klunk Theme Song
     2.  Calisthenics Skit
     3.  News Skit
     4.  Mother's Phone Call Skit
     5.  Sports Time Skit
     6.  Culture Corner Skit
-2.  **Segment 2**
+2.**Segment 2**
     1.  Klunk Theme Song
     2.  News Skit
     3.  Music Fest - Chantilly Lace

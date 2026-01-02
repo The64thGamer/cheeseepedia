@@ -16,27 +16,27 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.  **Skit 1**
+1.**Skit 1**
     1.  'Deck the Halls'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  VeggieTales - 'Donuts for Benny'
     2.  Chillout 1
-3.  **Skit 2**
+3.**Skit 2**
     1.  'Up on the Housetop'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Fraggle Rock - 'Traveling Matt 1'
     2.  Chillout 2
-5.  **Skit 3**
+5.**Skit 3**
     1.  'Jolly Old St. Nicholas'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  My Little Pony - 'Christmas Pageant'
     2.  Chillout 3
-7.  **Skit 4**
+7.**Skit 4**
     1.  'Oh Christmas Tree'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  Veggie Tales - 'The 8 Polish Foods of Christmas'
     2.  Chillout 4
-9.  **Skit 5**
+9.**Skit 5**
     1.  'Jingle Bells'
 10. **Intermission 5**
     1.  'Fraggle Rock' - 'Snow Song'

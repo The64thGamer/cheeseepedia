@@ -21,31 +21,31 @@ This was created to play during the 'Winter Winner-Land'. This show played from 
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Social Distancing Message
     2.  Chuck E. & Helen Winter Winner-Land Spot
     3.  Idina Menzel - 'We Wish You the Merriest' ft. Josh Gad
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'Cookies For Santa'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Winter Winner-Land Food & Masks Promo
     2.  KIDZ BOP Kids - 'Santa Tell Me'
     3.  Brady Rhymer - 'Hanukah Rocks'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Helen Henny - 'All I Want for Christmas is Snow'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Social Distancing Message
     2.  Holiday Jokes from Pasqually
     3.  Asher Angel - 'Snow Globe Wonderland'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Bella B. - 'Holiday Fiesta'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Chuck E. & Munch Winter Winner-Land Spot
     2.  KIDZ BOP Kids - 'Christmas (Baby Please Come Home)
     3.  Holiday Musings with Mr. Munch
-8.  **Skit 4**
+8.**Skit 4**
     1.  Mr. Munch - 'Zorp-Ah-Dorp-Dor-Blah is Coming Tonight'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  The Winter Winner Dance (Every Hour on the Thirty)
     2.  Social Distancing Message
     3.  Brad Rhymer - 'Can't Sit Still'

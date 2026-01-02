@@ -51,7 +51,7 @@ This show was created to introduce the Chuck E. Cheese characters for ShowBiz Pi
 
 ## Segment List
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  8 Minute Countdown
         1.  [My Generation](https://en.wikipedia.org/wiki/My_Generation)
         2.  Birthday Extravaganza
@@ -60,16 +60,16 @@ This show was created to introduce the Chuck E. Cheese characters for ShowBiz Pi
 2.   **Segment 1**
     1.  Together We Got It
     2.  Heart of Rock & Roll
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  8 Minute Countdown
         1.  [Walk of Life](https://en.wikipedia.org/wiki/Walk_of_Life)
         2.  Birthday Extravaganza
         3.  [Forever and Ever, Amen](https://en.wikipedia.org/wiki/Forever_and_Ever,_Amen)
         4.  [California Girls](https://en.wikipedia.org/wiki/California_Girls)
     2.  It's Showtime!
-4.  **Video 1**
+4.**Video 1**
     1.  Animal Babies in the Wild - Let's All Do the Hop
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  8 Minute Countdown
         1.  [California Girls](https://en.wikipedia.org/wiki/California_Girls)
         2.  [She Drives Me Crazy](https://en.wikipedia.org/wiki/She_Drives_Me_Crazy)
@@ -79,23 +79,23 @@ This show was created to introduce the Chuck E. Cheese characters for ShowBiz Pi
 6.   **Segment 2**
     1.  The Right Stuff
     2.  I Wanna Dance with Somebody
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  8 Minute Countdown
         1.  [Twist and Shout](https://en.wikipedia.org/wiki/Please_Please_Me)
         2.  [Vogue](https://en.wikipedia.org/wiki/Vogue_(Madonna_song))
         3.  Birthday Extravaganza
         4.  [Oh, Pretty Woman](https://en.wikipedia.org/wiki/Oh,_Pretty_Woman)
     2.  It's Showtime!
-8.  **Video 2**
+8.**Video 2**
     1.  Song City U.S.A - Dinosaurs (We Adore Dinosaurs)
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  8 Minute Countdown
         1.  [A Better Man](https://en.wikipedia.org/wiki/A_Better_Man_(Clint_Black_song))
         2.  [Rock Around the Clock](https://en.wikipedia.org/wiki/Rock_Around_the_Clock)
         3.  Birthday Extravaganza
         4.  [Your Mama Don't Dance](https://en.wikipedia.org/wiki/Your_Mama_Don%27t_Dance)
     2.  Cyberstar Intro
-10.  **Segment 3**
+10.**Segment 3**
     1.  Simply Irresistible
     2.  Footloose
 11. **Intermission 6**

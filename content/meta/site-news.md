@@ -118,6 +118,7 @@ On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate di
 - **April 30th -** New Revolt server as an alternative to the Discord server opens up, reaches 70 members in the first 2 days.
 - **May 24th -** CEP Discord server updated with new ticketing system and many changes to the server set it to be closer to the Revolt one.
 - **May 26th -** Revolt and Discord server linked with a bridging bot, has many issues but begins efforts to sync both.
+- **June 2nd -** CEP appears in the news again: https://www.metrosiliconvalley.com/pizza-time-theater-kooser-chuck-e-cheese/
 - **July 3rd -** Revolt server removed after low activity.
 - **July 22nd -** All articles moved from HTML to Markdown.
 - **August 10th -** 'cite' shortcode added.
@@ -132,11 +133,22 @@ On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate di
 - **October 16th-** CEP Discord channels are closed and reduced to the essentials. Wiki-related channels are especially closed to move conversations to the Forums.
 - **October 20th-** Forums recieve groups (roles) users can join or leave, such as Merch Owner, CEC Employee, Animatronic Owners, etc.
 - **October 21st-** Recent News section on homepage is reinstated and connected to the News posts on the Forum.
+- **November 8th-** Locations map is fixed due to multiple page errors previously breaking it
+- **November 15th-** Auto-generated tables for arcade, remodel, animatronic, and stage pages are added that link to locatiosn that have them.
+- **November 26th-** Photo galleries become broken.
+- **December 7th-** After a month of changes, the wiki goes from 28 minutes to compile (after auto-generated tables were introduced) down to 9 minutes. The Photos category is also paginated. Wiki compilation begins to be split into python files that need to run before Hugo.
+- **December 9th-** Bash scripts for compiling introduced, low-res image previews introduced.
+- **December 18th-** Bash scripts replaced with Python scripts, scripts split out further to each function, and more are introduced for optimization. News and recent changes are compiled into one section, while also adding New Photos and New Videos. Recent Changes are also dynamically grouped by changed time.
+- **December 31st-** Many back-end changes made to clean up the site and prepare it for multiple Hugo themes.
+
+#### 2026
+
+- **January 2nd-** New card version of article previews created and used for various parts of the site. Random articles optimized and increased to 10 per page. Entire site CSS reevaluated and tweaked.
+
+
 
 ### Planned Upcoming Changes
 
-- Auto-link to forums searching current article (ASAP) - Planned implementation for a button of some kind on every article that will send users to the forum, auto-filling the search bar with the title of the page to find additional references and content.
-- Photo Gallery Enhancements (ASAP) - Fix the category that shows all photos to split them into pages, alongside properly sorting them by date.
 - Switch from Decap CMS to Sveltia CMS (2026) - Currently the site's editing system, Decap CMS, sucks really bad but is basically the only option for live editing with moderation tools. There is a fork of it called Sveltia CMS that's just a single link replacement to improve many aspects- but the problem is it currently hasn't implemented "Open Authoring", which allows people to automatically push updates to the site for approval. Their timeline says OA will be implemented after release in 2026, so it's just a waiting game for when that is done.
 One major flaw of Decap that will handicap moderation speeds is that image uploads are currently broken. Mods have to track down the file on the user's fork and upload it themselves through GitHub. There are also issues with pages having their live preview displayed.
 - User Page Upgrades (Unknown Time) - Plans to connect user pages with equivalent forum accounts, at minimum with just a simple link, or hopefully being able to poll an API for user profile pictures and other statuses.

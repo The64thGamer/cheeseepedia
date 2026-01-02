@@ -15,28 +15,28 @@ Unlike the US shows this was not created as a generic show but was instead just 
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Safety Message
     2.  KIDZ BOP Kids - 'Say So'
-2.  **Skit 1**
+2.**Skit 1**
     1.  DJ Munch - 'DJ Munch'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Katy Perry - 'Never Really Over'
     2.  Jokes From Pasqually - 'Anchor'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Pasqually the Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Safety Message
     2.  The Whizpops - 'Sea Turtle'
     3.  KIDZ BOP Kids - 'The Git Up'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Helen & Bella B. - 'Bailando'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Musing with Mr. Munch Ep1
     2.  KIDZ BOP Kids - 'Blinding Lights'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. Cheese, Mr. Munch feat Bella B. - 'Play All You Can Play'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Safety Message
     2.  Rockalingua - Las Partes del Cuerpo'
     3.  KIDZ BOP Kids - 'Wings'

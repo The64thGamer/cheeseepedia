@@ -12,37 +12,37 @@ categories = ["Chuck E. Cheese's"]
 ***DJ Munch's Haunted House Party Show 2024*** was the fall show that would play after 6 pm. It was created to go along with the Boo-tacular showtape during the day. This show ran from September 30, 2024 - November 3, 2024.
 
 ## Show List 10/24 Update:
-1.  **Skit 1**
+1.**Skit 1**
     1.  Chuck E. Cheese - 'Halloween Night'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Chuck E. & Friends - 'Lend a Helping Hand' (DJ Munch Remix)
     2.  Descendants - 'Red'
     3.  Chuck E. and Munch - Trick or Treat' (2024)
     4.  KIDZ BOP - 'This is Halloween'
-3.  **Skit 2**
+3.**Skit 2**
     1.  Chuck E. and Helen - 'Sammy the Skateboarding Skeleton'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Chuck E. & Friends - 'Just Like This'
     2.  Chuck E. & Friends - 'Play All You Can Play' (DJ Munch Remix)
     3.  KIDZ BOP - 'Disturbia'
-5.  **Skit 3**
+5.**Skit 3**
     1.  Chuck E. - 'Nobody There'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  DJ Munch - 'Join the Party' (DJ Munch Remix)
-7.  **Skit 4**
+7.**Skit 4**
     1.  Chuck E. Cheese - 'Be Yourself'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  KIDZ BOP - 'Thriller'
     2.  Helen Henny - Witches Crew' (DJ Munch Remix)
-9.  **Skit 5**
+9.**Skit 5**
     1.  Chuck E. and Munch - 'I Don't Need to be Afraid'
     2.  Chuck E. Cheese - 'Pumpkin Patch'
-10.  **Intermission 5**
+10.**Intermission 5**
     1.  Blippi - 'Halloween Countdown'
     2.  Chuck E. & Friends - Let's Have A Party' (DJ Munch)
-11.  **Skit 6**
+11.**Skit 6**
     1.  Jasper T. Jowls - 'Howl-O-Ween'
-12.  **Intermission 6**
+12.**Intermission 6**
     1.  Chuck E. & Friends - Do The Chuck E.' (DJ Munch Remix)
     2.  KIDZ BOP - 'Ghostbusters'
     3.  Chuck E. Cheese - 'If Everyday Was Halloween'
@@ -51,13 +51,13 @@ categories = ["Chuck E. Cheese's"]
     6.  KIDZ BOP - 'Shivers'
     7.  Chuck E. Cheese - Dancin' Kitten' (DJ Munch Remix)
     8.  Jasper T. Jowls - 'This Friendship Ain't No Accident'
-13.  **Skit 7**
+13.**Skit 7**
     1.  Chuck E. and Friends - 'Gotta Be Halloween'
-14.  **Intermission 7**
+14.**Intermission 7**
     1.  KIDZ BOP - 'Monster Mash'
-15.  **Skit 8**
+15.**Skit 8**
     1.  Chuck E. and Friends - 'I Love Sparkles'
-16.  **Intermission 8**
+16.**Intermission 8**
     1.  Chuck E Cheese - 'Vampire Kittens from Outer Space'
     2.  Chuck E. & Friends - 'Pumpkins in My Pockets' (DJ Munch Remix)
     
@@ -70,39 +70,39 @@ Chuck E.’s Haunted House Party (Media Navori, CEC Stage Navori)
 
 
 ## Show List 10/22 Update:
-1.  **Skit 1**
+1.**Skit 1**
     1.  Chuck E. Cheese - 'Halloween Night'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Chuck E. & Friends - 'Lend a Helping Hand' (DJ Munch Remix)
     2.  Descendants - 'Red'
-3.  **Skit 2**
+3.**Skit 2**
     1.  Chuck E. and Munch - Trick or Treat'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  KIDZ BOP - 'This is Halloween'
-5.  **Skit 3**
+5.**Skit 3**
     1.  Chuck E. and Helen - 'Sammy the Skateboarding Skeleton'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Chuck E. & Friends - 'Just Like This'
     2.  Chuck E. & Friends - 'Play All You Can Play' (DJ Munch Remix)
     3.  KIDZ BOP - 'Disturbia'
-7.  **Skit 4**
+7.**Skit 4**
     1.  Chuck E. - 'Nobody There'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  DJ Munch - 'Join the Party' (DJ Munch Remix)
-9.  **Skit 5**
+9.**Skit 5**
     1.  Chuck E. Cheese - 'Be Yourself'
-10.  **Intermission 5**
+10.**Intermission 5**
     1.  KIDZ BOP - 'Thriller'
     2.  Helen Henny - Witches Crew' (DJ Munch Remix)
-11.  **Skit 6**
+11.**Skit 6**
     1.  Chuck E. and Munch - 'I Don't Need to be Afraid'
     2.  Chuck E. Cheese - 'Pumpkin Patch'
-12.  **Intermission 6**
+12.**Intermission 6**
     1.  Blippi - 'Halloween Countdown'
     2.  Chuck E. & Friends - Let's Have A Party' (DJ Munch)
-13.  **Skit 7**
+13.**Skit 7**
     1.  Jasper T. Jowls - 'Howl-O-Ween'
-14.  **Intermission 7**
+14.**Intermission 7**
     1.  Chuck E. & Friends - Do The Chuck E.' (DJ Munch Remix)
     2.  KIDZ BOP - 'Ghostbusters'
     3.  Chuck E. Cheese - 'If Everyday Was Halloween'
@@ -111,13 +111,13 @@ Chuck E.’s Haunted House Party (Media Navori, CEC Stage Navori)
     6.  KIDZ BOP - 'Shivers'
     7.  Chuck E. Cheese - Dancin' Kitten' (DJ Munch Remix)
     8.  Jasper T. Jowls - 'This Friendship Ain't No Accident'
-15.  **Skit 8**
+15.**Skit 8**
     1.  Chuck E. and Friends - 'Gotta Be Halloween'
-16.  **Intermission 8**
+16.**Intermission 8**
     1.  KIDZ BOP - 'Monster Mash'
-17.  **Skit 9**
+17.**Skit 9**
     1.  Chuck E. and Friends - 'I Love Sparkles'
-18.  **Intermission 9**
+18.**Intermission 9**
     1.  Chuck E Cheese - 'Vampire Kittens from Outer Space'
     2.  Chuck E. & Friends - 'Pumpkins in My Pockets' (DJ Munch Remix)
     
@@ -129,38 +129,38 @@ Chuck E.’s Bootastic Dance (Media Navori, CEC Stage Navori)
 Chuck E.’s Haunted House Party (Media Navori, CEC Stage Navori)
 
 ## Show List 10/14 Update:
-1.  **Skit 1**
+1.**Skit 1**
     1.  Chuck E. Cheese - 'Halloween Night'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Chuck E. & Friends - 'Lend a Helping Hand' (DJ Munch Remix)
     2.  Descendants - 'Red'
-3.  **Skit 2**
+3.**Skit 2**
     1.  Chuck E. and Munch - Trick or Treat'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  KIDZ BOP - 'This is Halloween'
-5.  **Skit 3**
+5.**Skit 3**
     1.  Chuck E. and Helen - 'Sammy the Skateboarding Skeleton'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Chuck E. & Friends - 'Just Like This'
     2.  Chuck E. & Friends - 'Play All You Can Play' (DJ Munch Remix)
     3.  KIDZ BOP - 'Disturbia'
-7.  **Skit 4**
+7.**Skit 4**
     1.  Chuck E. - 'Nobody There'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  DJ Munch - 'Join the Party' (DJ Munch Remix)
-9.  **Skit 5**
+9.**Skit 5**
     1.  Chuck E. Cheese - 'Be Yourself'
-10.  **Intermission 5**
+10.**Intermission 5**
     1.  KIDZ BOP - 'Thriller'
     2.  Helen Henny - Witches Crew' (DJ Munch Remix)
-11.  **Skit 6**
+11.**Skit 6**
     1.  Chuck E. and Munch - 'I Don't Need to be Afraid'
     2.  Chuck E. Cheese - 'Pumpkin Patch'
-12.  **Intermission 6**
+12.**Intermission 6**
     1.  Chuck E. & Friends - Let's Have A Party' (DJ Munch)
-13.  **Skit 7**
+13.**Skit 7**
     1.  Jasper T. Jowls - 'Howl-O-Ween'
-14.  **Intermission 7**
+14.**Intermission 7**
     1.  Chuck E. & Friends - Do The Chuck E.' (DJ Munch Remix)
     2.  KIDZ BOP - 'Ghostbusters'
     3.  Chuck E. Cheese - 'If Everyday Was Halloween'
@@ -169,13 +169,13 @@ Chuck E.’s Haunted House Party (Media Navori, CEC Stage Navori)
     6.  KIDZ BOP - 'Shivers'
     7.  Chuck E. Cheese - Dancin' Kitten' (DJ Munch Remix)
     8.  Jasper T. Jowls - 'This Friendship Ain't No Accident'
-15.  **Skit 8**
+15.**Skit 8**
     1.  Chuck E. and Friends - 'Gotta Be Halloween'
-16.  **Intermission 8**
+16.**Intermission 8**
     1.  KIDZ BOP - 'Monster Mash'
-17.  **Skit 9**
+17.**Skit 9**
     1.  Chuck E. and Friends - 'I Love Sparkles'
-18.  **Intermission 9**
+18.**Intermission 9**
     1.  Chuck E Cheese - 'Vampire Kittens from Outer Space'
     2.  Chuck E. & Friends - 'Pumpkins in My Pockets' (DJ Munch Remix)
     
@@ -187,38 +187,38 @@ Chuck E.’s Bootastic Dance (Media Navori, CEC Stage Navori)
 Chuck E.’s Haunted House Party (Media Navori, CEC Stage Navori)
 
 ## Show List:
-1.  **Skit 1**
+1.**Skit 1**
     1.  Chuck E. Cheese - 'Halloween Night'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Chuck E. & Friends - 'Lend a Helping Hand' (DJ Munch Remix)
     2.  Descendants - 'Red'
-3.  **Skit 2**
+3.**Skit 2**
     1.  Chuck E. and Munch - Trick or Treat'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  KIDZ BOP - 'This is Halloween'
-5.  **Skit 3**
+5.**Skit 3**
     1.  Chuck E. and Helen - 'Sammy the Skateboarding Skeleton'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Chuck E. & Friends - 'Just Like This'
     2.  Chuck E. & Friends - 'Play All You Can Play' (DJ Munch Remix)
     3.  KIDZ BOP - 'Disturbia'
-7.  **Skit 4**
+7.**Skit 4**
     1.  Chuck E. - 'Nobody There'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  DJ Munch - 'Join the Party' (DJ Munch Remix)
-9.  **Skit 5**
+9.**Skit 5**
     1.  Chuck E. Cheese - 'Be Yourself'
-10.  **Intermission 5**
+10.**Intermission 5**
     1.  KIDZ BOP - 'Thriller'
     2.  Helen Henny - Witches Crew' (DJ Munch Remix)
-11.  **Skit 6**
+11.**Skit 6**
     1.  Chuck E. and Munch - 'I Don't Need to be Afraid'
     2.  Chuck E. Cheese - 'Pumpkin Patch'
-12.  **Intermission 6**
+12.**Intermission 6**
     1.  Chuck E. & Friends - Let's Have A Party' (DJ Munch)
-13.  **Skit 7**
+13.**Skit 7**
     1.  Jasper T. Jowls - 'Howl-O-Ween'
-14.  **Intermission 7**
+14.**Intermission 7**
     1.  Chuck E. & Friends - Do The Chuck E.' (DJ Munch Remix)
     2.  KIDZ BOP - 'Ghostbusters'
     3.  Chuck E. Cheese - 'If Everyday Was Halloween'
@@ -227,13 +227,13 @@ Chuck E.’s Haunted House Party (Media Navori, CEC Stage Navori)
     6.  KIDZ BOP - 'Shivers'
     7.  Chuck E. Cheese - Dancin' Kitten' (DJ Munch Remix)
     8.  Jasper T. Jowls - 'This Friendship Ain't No Accident'
-15.  **Skit 8**
+15.**Skit 8**
     1.  Chuck E. and Friends - 'Gotta Be Halloween'
-16.  **Intermission 8**
+16.**Intermission 8**
     1.  KIDZ BOP - 'Monster Mash'
-17.  **Skit 9**
+17.**Skit 9**
     1.  Chuck E. and Friends - 'I Love Sparkles'
-18.  **Intermission 9**
+18.**Intermission 9**
     1.  Chuck E. & Friends - 'Pumpkins in My Pockets' (DJ Munch Remix)
     
 ## Lives:

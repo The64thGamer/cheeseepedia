@@ -16,40 +16,40 @@ This was created to play from January 3rd, 2017 - February 26th, 2017. This show
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Spencer Ludwig - 'Diggy'
     2.  Secret Agent 23 Skidoo - 'Pillowfort Pillowfight'
     3.  Chef Gregory Part 1
     4.  'Rip It, Win It' TV Spot (USA Only)
-2.  **Skit 1**
+2.**Skit 1**
     1.  Munch's Make Believe Band - 'Together We've Got It'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Chef Gregory Part 2
     2.  Blake Shelton - 'Friends'
     3.  Josh & The Jamtones - 'Monkey Man'
     4.  Ingrid Michaelson - 'Still the One'
     5.  Skylanders Video Game Trailer
     6.  Thomas Edison's Secret Lab - 'Pizza Song'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Munch's Make Believe Band - 'Song Title'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Avicii - 'The Nights'
     2.  SpacePop - 'Start Something Big'
     3.  Terrific Trucks - 'Car Crush'
     4.  Alicia Keys - 'Blended Family'
     5.  Buffet Promo
     6.  Michael & The Rockness Monsters - 'Pirate Song'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. & Friends - 'Remember That Time'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Fergie - 'Clumsy'
     2.  CEC Birthday T.V. Spot
     3.  Fun Facts with Chuck E. - 'Bears'
     4.  CEC Fundraising Promo
     5.  Caspar Babypants - 'Googly Eyes'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. Cheese - 'Your Birthdays Are Special'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Lunch Money Lewis - 'Ain't Too Cool'
     2.  Michael & The Rockness Monster - 'Cosmic Vacation'
     3.  My Little Pony - 'Party Pony Cheese'

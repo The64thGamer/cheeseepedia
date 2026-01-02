@@ -22,39 +22,39 @@ The footage would be copyright-striked minutes after upload, but was able to be 
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  Studio C Bumper
     2.  Intro to the Show
     3.  Introduction to Swinging Blue Jeans - 'Hippy Hippy Shake'
     4.  Swinging Blue Jeans - 'Hippy Hippy Shake' (No Animatronic/lights)
     5.  Introduction to Studio C
     6.  Introduction to Steve Martin - 'King Tut'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Steve Martin - 'King Tut'
     2.  Louis Armstrong - 'What A Wonderful World'
-3.  **Segment 2**
+3.**Segment 2**
     1.  Who's Got My Master Remote
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Pondwatch
     2.  Coca Cola Spot 1
-5.  **Segment 3**
+5.**Segment 3**
     1.  Larry The Technician - 'Stage Curtains'
     2.  NFL's 100 Greatest Follies
     3.  Introduction to Tim McGraw - 'I Like It, I Love It'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Tim McGraw - 'I Like It, I Love It'
     2.  Name That Cheese
-7.  **Segment 4**
+7.**Segment 4**
     1.  Introduction to Go-Go's - 'Our Lips Are Sealed'
     2.  Go-Go's - 'Our Lips Are Sealed' (No Animatronic/Lights)
     3.  Chuck E. Cheese News
     4.  Hanson - 'MmmBop'
     5.  Mystery Guest
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  Will Frye The Nutrition Guy - 'Food Pyramid'
     2.  Leann Rimes - 'How Do I Live'
     3.  Station Break
-9.  **Segment 5**
+9.**Segment 5**
     1.  Studio C Bumper
     2.  Amy Grant - 'Good for Me'
 10. **Intermission 5**

@@ -80,31 +80,31 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
 ### Show List 08/10 Update:
 
 1. Intermission 1  
-    1.  **Ad Break**
+    1.**Ad Break**
     2.  DJ Munch - 'Song Of Summer Remix'
     3.  KIDZ BOP Bumper 1
     4.  KIDZ BOP Kids - 'ABC'
-    5.  **Ad Break**
+    5.**Ad Break**
 2. Skit 1  
     1.  Chuck E. Cheese & Friends - 'I Love Sparkles!'
     2.  Helen Henny - 'Disco Dancing Dinosaur Party'
 3. Intermission 2  
     1.  Chuck E. & Friends - 'Out of This World' (DJ Munch)
-    2.  **Ad Break**
+    2.**Ad Break**
     3.  KIDZ BOP Kids - 'Cuff It'
     4.  KIDZ BOP Bumper 2
     5.  KIDZ BOP Kids - 'Unstoppable'
-    6.  **Ad Break**
+    6.**Ad Break**
     7.  KIDZ BOP Kids - 'Flowers'
     8.  Chuck E. Cheese - 'Happy Dance' (DJ Munch)
 4. Skit 2  
     1.  Chuck E. Cheese - 'Let's Have A Party'
 5. Intermission 3  
-    1.  **Ad Break**
+    1.**Ad Break**
     2.  KIDZ BOP Kids - 'River'
     3.  KIDZ BOP Kids - 'Savage Love'
     4.  KIDZ BOP Bumper 3
-    5.  **Ad Break**
+    5.**Ad Break**
     6.  KIDZ BOP Kids - 'Sunroof'
     7.  KIDZ BOP Kids - 'Trustfall'
 6, Skit 3  
@@ -113,19 +113,19 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
 
 ### Advertising 08/10 Update:
 
-1.  **Ad 1**
+1.**Ad 1**
     1.  Ecolab
     2.  Samsung & Summer Food & Drink Combos
     3.  Dippin Dots
-2.  **Ad 2**
+2.**Ad 2**
     1.  CEC Birthdays
     2.  Youtube & Summer Food and Drink Combos
     3.  Fundraising and Group Events
-3.  **Ad 3**
+3.**Ad 3**
     1.  KIDZ BOP Album 2023 Vol. 2 Spot
     2.  Race World: They Win, You Win! & Food and Drink Combos
     3.  Zigzaoo Spot
-4.  **Ad 4**
+4.**Ad 4**
     1.  Online Store
     2.  Birthdays & Youtube Spot
     3.  Fundraising and Group Events
@@ -140,31 +140,31 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
 ### Show List:
 
 1. Intermission 1  
-    1.  **Ad Break**
+    1.**Ad Break**
     2.  DJ Munch - 'Song Of Summer Remix'
     3.  KIDZ BOP Bumper 1
     4.  KIDZ BOP Kids - 'ABC'
-    5.  **Ad Break**
+    5.**Ad Break**
 2. Skit 1  
     1.  Chuck E. Cheese & Friends - 'I Love Sparkles!'
     2.  Helen Henny - 'Disco Dancing Dinosaur Party'
 3. Intermission 2  
     1.  Koo Koo Kangaroo - 'Backyard Swimsuit'
-    2.  **Ad Break**
+    2.**Ad Break**
     3.  KIDZ BOP Kids - 'Cuff It'
     4.  KIDZ BOP Bumper 2
     5.  KIDZ BOP Kids - 'Unstoppable'
-    6.  **Ad Break**
+    6.**Ad Break**
     7.  KIDZ BOP Kids - 'Flowers'
     8.  Chuck E. Cheese - 'Happy Dance' (DJ Munch)
 4. Skit 2  
     1.  Chuck E. Cheese - 'Let's Have A Party'
 5. Intermission 3  
-    1.  **Ad Break**
+    1.**Ad Break**
     2.  KIDZ BOP Kids - 'River'
     3.  KIDZ BOP Kids - 'Savage Love'
     4.  KIDZ BOP Bumper 3
-    5.  **Ad Break**
+    5.**Ad Break**
     6.  KIDZ BOP Kids - 'Sunroof'
     7.  KIDZ BOP Kids - 'Trustfall'
 6, Skit 3  
@@ -172,19 +172,19 @@ This showtape was created to promote the KIDZ BOP Never Stop Party series of con
 
 ### Advertising:
 
-1.  **Ad 1**
+1.**Ad 1**
     1.  Ecolab
     2.  Samsung & Summer Food & Drink Combos
     3.  Dippin Dots
-2.  **Ad 2**
+2.**Ad 2**
     1.  CEC Birthdays
     2.  Youtube & Summer Food and Drink Combos
     3.  Fundraising and Group Events
-3.  **Ad 3**
+3.**Ad 3**
     1.  KIDZ BOP Album 2023 Vol. 2 Spot
     2.  Race World: They Win, You Win! & Food and Drink Combos
     3.  Zigzaoo Spot
-4.  **Ad 4**
+4.**Ad 4**
     1.  Online Store
     2.  Birthdays & Youtube Spot
     3.  Fundraising and Group Events

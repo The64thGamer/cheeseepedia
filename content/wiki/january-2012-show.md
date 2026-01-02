@@ -20,16 +20,16 @@ This was created to play from January 1, 2012 - March 31, 2012, though was valid
 An unused version of this show exists with every song after The Weekend being completely different, though most of the dialogue between songs is the same with a few differences. The show also featured Robert Gotcher in the role of Jasper, though the reused songs would still use Jeremy Blaido's voice. The Showtime intro at the beginning of each segment would also have Robert's voice, unlike the final version which had Matt Daniel dub over him. The final segment also contained two brand new songs, 'That's How It Would Go' and 'You Are My Best Friend'.
 Prior to being rerecorded, the segments (excluding intermissions) were:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  'First Impression'
     2.  'Imagine Nation'
-2.  **Segment 2**
+2.**Segment 2**
     1.  'The Weekend'
     2.  'I'm Gonna Dream'
-3.  **Segment 3**
+3.**Segment 3**
     1.  'Toppings'
     2.  'Cleaning Up My Room'
-4.  **Segment 4**
+4.**Segment 4**
     1.  'That's How It Would Go'
     2.  'You Are My Best Friend'
 
@@ -37,34 +37,34 @@ After Robert Gotcher was fired as Director of Entertainment, the songs he wrote 
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  'First Impression'
     2.  'Imagine Nation'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Pizza Parachute'
     2.  Monkey Ninjas - Episode 5
     3.  The Dirty Sock Funtime Band - 'Dino-Soaring'
     4.  Chillout - 'Cheese Pizza is Pure Delight' Footage
-3.  **Segment 2**
+3.**Segment 2**
     1.  'The Weekend'
     2.  'Jack and Jill'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV ID - 'Apple'
     2.  Pocoyo Spot
     3.  Super Jasper - 'Resist The Tempation'
     4.  Chillout - 'Don't Let Your Feet Touch Ground' Footage
-5.  **Segment 3**
+5.**Segment 3**
     1.  'I Want My Chuck E. Cheese'
     2.  'Row Your Boat'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Chef'
     2.  Hot Air Balloon
     3.  WFW Babysitter
     4.  Chillout - 'Hip Mouse' Footage
-7.  **Segment 4**
+7.**Segment 4**
     1.  'I Don't Wanna Work'
     2.  'Disco Chuck'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Sports'
     2.  Pasqually's Polka Minute
     3.  Puss In Boots Spot

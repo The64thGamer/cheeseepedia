@@ -64,7 +64,7 @@ categories = ["Chuck E. Cheese's"]
     8.  VJ Spot
 8.   **Segment 4**
     1.  'Party Place (Encore)'
-9.  **Intermission 5 - Magic**
+9.**Intermission 5 - Magic**
     1.  CEC TV '94 ID
     2.  [Beyond The Mind's Eye](https://en.wikipedia.org/wiki/Mind%27s_Eye_(film_series))
 

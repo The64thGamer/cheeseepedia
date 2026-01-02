@@ -16,35 +16,35 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  ['Crocodile Rock'](https://en.wikipedia.org/wiki/Crocodile_Rock)
     2.  ['Forever Your Girl'](https://en.wikipedia.org/wiki/Forever_Your_Girl_(song))
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Parachute'
     2.  Blockbuster Spot
     3.  VeggieTales - 'Pizza Angel'
     4.  Fundraising Spot
     5.  Countdown (Roller-Skating)
-3.  **Segment 2**
+3.**Segment 2**
     1.  ['Who Can It Be Now?'](https://en.wikipedia.org/wiki/Who_Can_It_Be_Now%3F)
     2.  ['Mayberry'](https://en.wikipedia.org/wiki/Mayberry_(song))
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV Classic ID
     2.  Spring Cleaning
     3.  Teenage Mutant Ninja Turtles
     4.  Countdown ('Ease On Down The Road' footage)
-5.  **Segment 3**
+5.**Segment 3**
     1.  ['I Love A Rainy Night'](https://en.wikipedia.org/wiki/I_Love_a_Rainy_Night)
     2.  'Might Take Some Time'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Marquee'
     2.  Robots DVD Promo
     3.  Monkey Ninjas - Episode 6
     4.  Countdown (Kaleidoscope)
-7.  **Segment 4**
+7.**Segment 4**
     1.  ['Grandma's Feather Bed'](https://en.wikipedia.org/wiki/Back_Home_Again_(John_Denver_album))
     2.  'Homework'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Astronaut'
     2.  Teenage Mutant Ninja Turtles
     3.  Play-Doh Spot

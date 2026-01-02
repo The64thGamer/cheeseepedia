@@ -16,34 +16,34 @@ This show had a different show list for Existing/SD and HD this would only effec
 
 ## Existing/Studio C SD Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Tails of Friendship with Jasper T. Jowls Episode 1
     2.  Kabillion - 'The OddBods'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese & Friends - 'Ves Al Ratoncito'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  YouTube Promo 1
     2.  Barbie Blogs - "Favorite Fashion And Hairstyles"
     3.  Post Malone feat. Swea Lee - 'Sunflower'
     4.  "Kitten In The Kitchen Wearing Mittens"
     5.  CEC TV ID - "Singin Animals"
     6.  Mr. Munch 1 Minute Countdown (Retro)
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese - 'Dancin' Kitten'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Fun Facts With Chuck E. Cheese - 'Math'
     2.  Universal Kids - 'Nina's World'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. Cheese - 'More Cheese'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  YouTube Promo 2
     2.  Kabillion - 'The OddBods'
     3.  New Hope Club - "Good Day"
     4.  Musings With Mr. Munch Ep.1
     5.  Mr. Munch 1 Minute Countdown (Retro)
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. Cheese & Friends - 'Laughter Is The Best Medicine'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Barbie Blogs - "Finger Tutting"
     2.  Universal Kids - 'Nina's World'
     3.  Show Break 1
@@ -59,34 +59,34 @@ This show had a different show list for Existing/SD and HD this would only effec
 
 ## Studio C HD Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Tails of Friendship with Jasper T. Jowls Episode 1
     2.  Kabillion - 'The OddBods'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese & Friends - 'Ves Al Ratoncito'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  YouTube Promo 1
     2.  Barbie Blogs - "Favorite Fashion And Hairstyles"
     3.  Post Malone feat. Swea Lee - 'Sunflower'
     4.  "Kitten In The Kitchen Wearing Mittens"
     5.  CEC TV ID - "Singin Animals"
     6.  Mr. Munch 1 Minute Countdown (Retro)
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese - 'Dancin' Kitten'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Fun Facts With Chuck E. Cheese - 'Math'
     2.  Universal Kids - 'Nina's World'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. Cheese - 'More Cheese'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  YouTube Promo 2
     2.  Kabillion - 'The OddBods'
     3.  New Hope Club - "Good Day"
     4.  Musings With Mr. Munch Ep.1
     5.  Mr. Munch 1 Minute Countdown (Retro)
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. Cheese & Friends - 'Laughter Is The Best Medicine'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Barbie Blogs - "Finger Tutting"
     2.  Universal Kids - 'Nina's World'
     3.  Show Break 1

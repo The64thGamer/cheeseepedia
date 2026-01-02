@@ -15,31 +15,31 @@ This was created to play from May 23th, 2016 - June 26th, 2016. This show featur
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Silento - 'Watch Me (Whip/Nae Nae)'
     2.  CEC Promo - 'Buffet'
     3.  Chef Gregory Video Part 1
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'In The Future'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Demi Lovato - 'Let It Go'
     2.  Chef Gregory Video Part 2
-4.  **Skit 2**
+4.**Skit 2**
     1.  Happy Birthday, Helen
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  One Direction - 'History'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Mr. Munch - 'Nobody Knows'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Coldplay - 'Adventure of a Lifetime'
     2.  CEC Sketch - 'Pizza Plant'
     3.  Josh & The Jamtones - 'Bear Hunt'
     4.  Walk The Moon - 'Different Colors'
     5.  CEC Promo - 'Birthdays'
     6.  Caspar Babypants - 'I Found You'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Jasper T. Jowls - 'Arizona'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Sigala - 'Easy Love'
     2.  Josh & The Jamtones - 'Sloop John B'
 10. **Skit 5**

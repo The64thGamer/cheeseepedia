@@ -15,33 +15,33 @@ This was created with the idea to play between promotional events. This show fea
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Ecolab
     2.  Food & Drink Combo
     3.  CEC YouTube & Music Streaming
     4.  KIDZ BOP Kids- 'About That Time'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'Join the Party'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  CEC Online Store
     2.  Samsung
     3.  Coldplay - 'Humankind'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'Trio'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  CEC Group Events & Fundraisers
     2.  Food & Drink Combos
     3.  Dippin Dots
     4.  KIDZ BOP Kids - 'We Don't Talk About Bruno'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Helen Henny - 'Game On!'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  CEC Birthdays
     2.  CEC YouTube & Music Streaming
     3.  KIDZ BOP Kids - 'Meet Me at our Spot.'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. Cheese & Friends - 'Ves Al Ratoncito'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Lanky Box - 'The Pizza Song'
     2.  Chuck E. Cheese - 'Mary Had a Rockin' Lamb'
     3.  KIDZ BOP Kids - 'Late Night Talkin''
@@ -70,25 +70,25 @@ This was created with the idea to play between promotional events. This show fea
 
 ### Advertising
 
-1.  **Ad 1**
+1.**Ad 1**
     1.  Ecolab
-2.  **Ad 2**
+2.**Ad 2**
     1.  Dippin Dots
-3.  **Ad 3**
+3.**Ad 3**
     1.  Samsung
     2.  Food & Drink Combos
-4.  **Ad 4**
+4.**Ad 4**
     1.  CEC Online Store
-5.  **Ad 5**
+5.**Ad 5**
     1.  CEC Group Events & Fundraisers
-6.  **Ad 6**
+6.**Ad 6**
     1.  PPG
     2.  Food & Drink Combos
-7.  **Ad 7**
+7.**Ad 7**
     1.  Ecolab
-8.  **Ad 8**
+8.**Ad 8**
     1.  Dippin Dots
-9.  **Ad 9**
+9.**Ad 9**
     1.  CEC YouTube & Music Streaming
     2.  Food & Drink Combos
 10. **Ad 10**
@@ -102,12 +102,12 @@ This was created with the idea to play between promotional events. This show fea
 ### Entertainment
 
 1.  KIDZ BOP Kids- 'About That Time'
-2.  **Chuck E. & Friends - 'Join the Party**'
+2.**Chuck E. & Friends - 'Join the Party**'
 3.  Coldplay - 'Humankind'
 4.  KIDZ BOP Kids - 'Late Night Talkin''
 5.  Lanky Box - 'The Donut Song'
-6.  **Chuck E. Cheese & Friends - 'Stay Positive**'
-7.  **Chuck E. & Friends - 'Trio**'
+6.**Chuck E. Cheese & Friends - 'Stay Positive**'
+7.**Chuck E. & Friends - 'Trio**'
 8.  KIDZ BOP Kids - 'We Don't Talk About Bruno'
 9.  Lanky Box - 'The Pizza Song'
 10. Koo Koo Kangaroo - 'Glitter'
@@ -126,25 +126,25 @@ This was created with the idea to play between promotional events. This show fea
 
 ### Advertising
 
-1.  **Ad 1**
+1.**Ad 1**
     1.  Ecolab
-2.  **Ad 2**
+2.**Ad 2**
     1.  Dippin Dots
-3.  **Ad 3**
+3.**Ad 3**
     1.  Samsung
     2.  Food & Drink Combos
-4.  **Ad 4**
+4.**Ad 4**
     1.  CEC Online Store
-5.  **Ad 5**
+5.**Ad 5**
     1.  CEC Group Events & Fundraisers
-6.  **Ad 6**
+6.**Ad 6**
     1.  PPG
     2.  Food & Drink Combos
-7.  **Ad 7**
+7.**Ad 7**
     1.  Ecolab
-8.  **Ad 8**
+8.**Ad 8**
     1.  Dippin Dots
-9.  **Ad 9**
+9.**Ad 9**
     1.  CEC YouTube & Music Streaming
     2.  Food & Drink Combos
 10. **Ad 10**

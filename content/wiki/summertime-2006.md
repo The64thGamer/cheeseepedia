@@ -16,35 +16,35 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Summertime Groove'
     2.  'Fishin''
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Blender'
     2.  Wildlife
     3.  Coke Groove
     4.  Countdown
-3.  **Segment 2**
+3.**Segment 2**
     1.  'In My Pool' (parody of ['In My Room'](https://en.wikipedia.org/wiki/In_My_Room))
     2.  'Havin' Fun at The Beach'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV ID - 'Janitor'
     2.  Arthur's Missing Pal DVD Promo
     3.  Baking With Betty - 'Letters'
     4.  CEC TV ID - 'Rocket Racer'
     5.  Countdown
-5.  **Segment 3**
+5.**Segment 3**
     1.  'Baseball Diamond Dreams'
     2.  'Dog Jammin''
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Super Jasper - 'One Token'
     2.  CEC TV ID - 'Stars'
     3.  Coke Groove
     4.  Countdown
-7.  **Segment 4**
+7.**Segment 4**
     1.  ['Picnic'](https://raffi.fandom.com/wiki/Going_On_a_Picnic)
     2.  'Barbeque' (parody of ['Rock With You'](https://en.wikipedia.org/wiki/Rock_with_You))
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  Cinemark Summer Movie Clubhouse Spot
     2.  Saving Shiloh DVD Promo
     3.  CEC TV ID - 'Haircut'

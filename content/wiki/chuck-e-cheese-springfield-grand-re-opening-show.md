@@ -14,40 +14,40 @@ This show features no intermissions and would play six segments on repeat from a
 
 ## Show List
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  10 Minute Countdown
     2.  Munch's Make Believe Band - 'Together We've Got It'
-2.  **Segment 2**
+2.**Segment 2**
     1.  Next Show Starts Soon
     2.  Munch's Make Believe Band Logo Intro
     3.  Munch's Make Believe Band - "Chuck E,'s Place 2017"
     4.  Munch's Make Believe Band - "Every Boy, Every Girl 2017"
     5.  Munch's Make Believe Band - "It's the 70s"
-3.  **Segment 3**
+3.**Segment 3**
     1.  Next Show Starts Soon
     2.  Munch's Make Believe Band Logo Intro
     3.  Chuck E. Cheese & Mr. Munch - "Rockin' Robot"
     4.  Munch's Make Believe Band - "Fun For All"
     5.  Chuck E. Cheese - "Dancin' Kitten"
-4.  **Segment 4**
+4.**Segment 4**
     1.  Next Show Starts Soon
     2.  Munch's Make Believe Band Logo Intro
     3.  Munch's Make Believe Band - "In The Future"
     4.  Chuck E. Cheese - "Let's Have A Party"
     5.  Pasqually the Chef - "Keep Drummin'"
-5.  **Segment 5**
+5.**Segment 5**
     1.  Next Show Starts Soon
     2.  Munch's Make Believe Band Logo Intro
     3.  Chuck E. & Friends - "Giant Armadillo Named Phil"
     4.  Helen Henny - "Dream Big"
     5.  Munch's Make Believe Band - "Another Chuck E. Day"
-6.  **Segment 6**
+6.**Segment 6**
     1.  Next Show Starts Soon
     2.  Munch's Make Believe Band Logo Intro
     3.  Chuck E. Cheese - "Lend A Helping Hand"
     4.  Jasper T. Jowls - "Tail of Jasper T."
     5.  Chuck E. Cheese & Friends-"My Family"
-7.  **Segment 7**
+7.**Segment 7**
     1.  Next Show Starts Soon
     2.  Munch's Make Believe Band Logo Intro
     3.  Helen Henny - "Game On!"

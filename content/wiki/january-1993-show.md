@@ -15,17 +15,17 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Geography Rap - Mexico
     2.  3 Minute Countdown
     3.  Birthday Star
     4.  3 Minutes Till Next Show
     5.  CEC TV News - Safety
     6.  VJ Spot
-2.  **Segment 1**
+2.**Segment 1**
     1.  Soul Man
     2.  Gimmie Some Lovin'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Goin' Sight Seein'
     2.  6 Minute Countdown
     3.  6 Minutes Till Next Show
@@ -34,10 +34,10 @@ categories = ["Chuck E. Cheese's"]
     6.  CEC TV '93 ID
     7.  Helen Henny's Hollywood - New Kids On The Block
     8.  VJ Spot
-4.  **Segment 2**
+4.**Segment 2**
     1.  Mountain Music
     2.  Bingo
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  VJ Spot
     2.  7 Minute Countdown
     3.  7 Minutes Till Next Show
@@ -45,10 +45,10 @@ categories = ["Chuck E. Cheese's"]
     5.  Guessing Game
     6.  Home On The Range
     7.  1 Minute Countdown
-6.  **Segment 3**
+6.**Segment 3**
     1.  Vamos A Bailar
     2.  Get On Your Feet
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  [Little Richard - Itsy Bitsy Spider](https://en.wikipedia.org/wiki/Itsy_Bitsy_Spider)
     2.  8 Minutes Till Next Show
     3.  CEC TV News - Triple A
@@ -58,10 +58,10 @@ categories = ["Chuck E. Cheese's"]
     7.  1 Minute Countdown
     8.  CEC TV '93 ID
     9.  VJ Spot
-8.  **Segment 1**
+8.**Segment 1**
     1.  Soul Man
     2.  Gimmie Some Lovin'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  VJ Spot
     2.  [Quincy Jones Featuring Tevin Campbell - Tomorrow (A Better You A Better Me)](https://en.wikipedia.org/wiki/Tomorrow_(A_Better_You,_Better_Me))
     3.  Birthday Star

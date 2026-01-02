@@ -17,34 +17,34 @@ The **September 2000 Show** (also known as ***The Chuck E. Cheese Show*) was a s
 
 ## Show Tape:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  Behind The Video
     2.  'Chuck E.' (Parody of ['(You Drive Me) Crazy'](https://en.wikipedia.org/wiki/(You_Drive_Me)_Crazy))
     3.  'Drinkin' A Coca-Cola'(Parody of ['Livin' La Vida Loca'](https://en.wikipedia.org/wiki/Livin%27_la_Vida_Loca))
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Eddie Coker - 'The Words'
     2.  Flyball
     3.  Store Intro - 'Springfield MO, CEC'
     4.  CEC TV ID - 'Rocketship'
-3.  **Segment 2**
+3.**Segment 2**
     1.  'Jump'
     2.  ['Good Vibrations'](https://en.wikipedia.org/wiki/Good_Vibrations)
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Veggietales - 'Larry-Boy Theme Song'
     2.  Football
     3.  Store Intro - 'Springfield MO, CEC'
     4.  CEC TV ID - 'Cows'
-5.  **Segment 3**
+5.**Segment 3**
     1.  ['Only In My Dreams'](https://en.wikipedia.org/wiki/Only_in_My_Dreams)
     2.  ['I Can Count On You'](https://en.wikipedia.org/wiki/Big_Tent_Revival)
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Eddie Coker - 'Nine Inch Whales'
     2.  Store Intro - 'Springfield MO, CEC'
     3.  CEC TV ID - 'Rocketship'
-7.  **Segment 4**
+7.**Segment 4**
     1.  ['M.O.T.H.E.R.'](https://en.wikipedia.org/wiki/Howard_Johnson_(lyricist))
     2.  'No Other Place'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  VeggieTales - 'I Love My Duck'
     2.  Closing Time?
     3.  Store Intro - 'Springfield MO, CEC'

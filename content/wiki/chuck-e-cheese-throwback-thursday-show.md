@@ -13,29 +13,29 @@ showtapeFormats = ["Media Navori"]
 ***Chuck E. Cheese Throwback Thursday Show*** was released on July 18, 2024, to play exclusively for the Throwback Thursday at {{< wiki-link "Nanuet, NY (250 West Route 59)" >}}. 
 
 ## Show List 12/29 Update:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  CEC TV ID - 'Couch'
     2.  'Ratings'
     3.  'Drawing Chuck E.'
     4.  CEC TV ID - 'Marx Bros'
-2.  **Segment 1**
+2.**Segment 1**
     1.  'Chuck E.'s Place'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  'The Lonesome Cowboy'
     2.  CEC TV ID - 'Cows'
-4.  **Segment 2**
+4.**Segment 2**
     1.  'Jump'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  'Amphicar'
     2.  CEC TV ID - 'Skateboarding'
-6.  **Segment 3**
+6.**Segment 3**
     1.  'The Muffin Man'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  'WFW Babysitter'
     2.  CEC TV ID - 'Janitor'
-8.  **Segment 4**
+8.**Segment 4**
     1.  'Humpty Dumpty'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  'Baking with Betty - Letters'
     2.  CEC TV ID - 'Singing Fish'
 10. **Segment 5**
@@ -79,37 +79,37 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 
 
 ## Show List 11/25 Update:
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Jolly Old Saint Nicholas'
     2.  'We Wish You A Merry Christmas'
     3.  'Dreidel Song'
-1.  **Intermission 1**
+1.**Intermission 1**
     4.  CEC TV ID - 'Marx Bros'
-2.  **Segment 1**
+2.**Segment 1**
     1.  'Chuck E.'s Place'
     2.  'Up On The Housetop'   
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  'The Lonesome Cowboy'
     2.  'Amphicar'
     3.  Super Jasper - 'Canine Snowball'
     4.  CEC TV ID - 'Cows'
-4.  **Segment 2**
+4.**Segment 2**
     1.  'Jump'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Baking With Betty - 'Potato Latkes'
     2.  CEC TV ID - 'Couch'
     3.  'Ratings'
     4.  'Drawing Chuck E.'
     5.  CEC TV ID - 'Skateboarding'
-6.  **Segment 3**
+6.**Segment 3**
     1.  'The Muffin Man'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  'Chuck E.'s Ski Trip'
     2.  'WFW Babysitter'
     3.  CEC TV ID - 'Janitor'
-8.  **Segment 4**
+8.**Segment 4**
     1.  'Humpty Dumpty'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Larry The Technician - ‘Decorating The Tree’
     2.  'Baking with Betty - Letters'
     3.  CEC TV ID - 'Singing Fish'
@@ -156,29 +156,29 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 
 
 ## Show List 01/06 Update:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  CEC TV ID - 'Couch'
     2.  'Ratings'
     3.  'Drawing Chuck E.'
     4.  CEC TV ID - 'Marx Bros'
-2.  **Segment 1**
+2.**Segment 1**
     1.  'Chuck E.'s Place'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  'The Lonesome Cowboy'
     2.  CEC TV ID - 'Cows'
-4.  **Segment 2**
+4.**Segment 2**
     1.  'Jump'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  'Amphicar'
     2.  CEC TV ID - 'Skateboarding'
-6.  **Segment 3**
+6.**Segment 3**
     1.  'The Muffin Man'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  'WFW Babysitter'
     2.  CEC TV ID - 'Janitor'
-8.  **Segment 4**
+8.**Segment 4**
     1.  'Humpty Dumpty'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  'Baking with Betty - Letters'
     2.  CEC TV ID - 'Singing Fish'
 10. **Segment 5**
@@ -221,41 +221,41 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 - If You're Happy and You Know It
 
 ## Show List 11/21 Update:
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Jolly Old Saint Nicholas'
     2.  'We Wish You A Merry Christmas'
     3.  'Up On The Housetop'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Baking With Betty - 'Potato Latkes'
     2.  'Chuck E.'s Ski Trip'
     3.  'Ken Chuck E. Derby 1'
-3.  **Segment 2**
+3.**Segment 2**
     1.  'Dreidel Song'
-4.  **Intermission 3**
+4.**Intermission 3**
     1.  Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
     2.  Super Jasper - 'Canine Snowball'
     3.  CEC TV ID - 'Couch'
     4.  'Ratings'
     5.  'Drawing Chuck E.'
     6.  CEC TV ID - 'Marx Bros'
-5.  **Segment 3**
+5.**Segment 3**
     1.  'Chuck E.'s Place'
-6.  **Intermission 4**
+6.**Intermission 4**
    1.  'The Lonesome Cowboy'
     2.  CEC TV ID - 'Cows'
-7.  **Segment 4**
+7.**Segment 4**
     1.  'Jump'
-8.  **Intermission 5**
+8.**Intermission 5**
     1.  'Amphicar'
     2.  CEC TV ID - 'Skateboarding'
-9.  **Segment 5**
+9.**Segment 5**
     1.  'The Muffin Man'
-10.  **Intermission 6**
+10.**Intermission 6**
     1.  'WFW Babysitter'
     2.  CEC TV ID - 'Janitor'
-11.  **Segment 6**
+11.**Segment 6**
     1.  'Humpty Dumpty'
-12.  **Intermission 7**
+12.**Intermission 7**
     1.  'Baking with Betty - Letters'
     2.  CEC TV ID - 'Singing Fish'
 13. **Segment 7**
@@ -298,29 +298,29 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 - If You're Happy and You Know It
 
 ## Show List:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  CEC TV ID - 'Couch'
     2.  'Ratings'
     3.  'Drawing Chuck E.'
     4.  CEC TV ID - 'Marx Bros'
-2.  **Segment 1**
+2.**Segment 1**
     1.  'Chuck E.'s Place'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  'The Lonesome Cowboy'
     2.  CEC TV ID - 'Cows'
-4.  **Segment 2**
+4.**Segment 2**
     1.  'Jump'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  'Amphicar'
     2.  CEC TV ID - 'Skateboarding'
-6.  **Segment 3**
+6.**Segment 3**
     1.  'The Muffin Man'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  'WFW Babysitter'
     2.  CEC TV ID - 'Janitor'
-8.  **Segment 4**
+8.**Segment 4**
     1.  'Humpty Dumpty'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  'Baking with Betty - Letters'
     2.  CEC TV ID - 'Singing Fish'
 10. **Segment 5**

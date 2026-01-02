@@ -16,7 +16,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  8 Minute Countdown
         1.  [Good Vibrations](https://en.wikipedia.org/wiki/Good_Vibrations)
         2.  Birthday Extravaganza
@@ -24,12 +24,12 @@ categories = ["Chuck E. Cheese's"]
         4.  [Those Lazy, Hazy, Crazy Days Of Summer](https://en.wikipedia.org/wiki/Those_Lazy-Hazy-Crazy_Days_of_Summer_(song))
     2.  Geography Rap - Australia
     3.  CEC-TV Intro
-2.  **Segment 1**
+2.**Segment 1**
     1.  America The Beautiful
     2.  Yankee Doodle
     3.  Oh Susanna
     4.  Children Of America
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  8 Minute Countdown
         1.  [Uptown Girl](https://en.wikipedia.org/wiki/Uptown_Girl)
         2.  Birthday Extravaganza
@@ -37,11 +37,11 @@ categories = ["Chuck E. Cheese's"]
         4.  [I'm Walkin'](https://en.wikipedia.org/wiki/I%27m_Walkin%27)
     2.  Helen Henny's Hollywood - Lassie
     3.  CEC-TV Intro
-4.  **Segment 2**
+4.**Segment 2**
     1.  Rockin' State
     2.  My Country
     3.  This Land Is My Land
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  8 Minute Countdown
         1.  [Walkin' After Midnight](https://en.wikipedia.org/wiki/Walkin%27_After_Midnight)
         2.  [I Wanna Dance with Somebody](https://en.wikipedia.org/wiki/I_Wanna_Dance_with_Somebody_(Who_Loves_Me))
@@ -49,10 +49,10 @@ categories = ["Chuck E. Cheese's"]
         4.  [Hit the Road Jack](https://en.wikipedia.org/wiki/Hit_the_Road_Jack)
     2.  CEC-TV News - Pasqually's Phone Call
     3.  CEC-TV Intro
-6.  **Segment 3**
+6.**Segment 3**
     1.  Oh I Think My Pride Is Showing Again
     2.  You're A Grand Old Flag
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  8 Minute Countdown
         1.  [Sussudio](https://en.wikipedia.org/wiki/Sussudio)
         2.  Birthday Extravaganza
@@ -60,12 +60,12 @@ categories = ["Chuck E. Cheese's"]
         4.  [Rock'n Me](https://en.wikipedia.org/wiki/Rock%27n_Me)
     2.  Geography Rap - Australia
     3.  CEC-TV Intro
-8.  **Segment 1**
+8.**Segment 1**
     1.  America The Beautiful
     2.  Yankee Doodle
     3.  Oh Susanna
     4.  Children Of America
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  8 Minute Countdown
         1.  [Rock'n Me](https://en.wikipedia.org/wiki/Rock%27n_Me)
         2.  Birthday Extravaganza

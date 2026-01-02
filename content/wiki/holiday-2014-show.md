@@ -15,31 +15,31 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.  **Skit 1**
+1.**Skit 1**
     1.  'Let's Play Some Games For The Holidays'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Act 1
-3.  **Skit 2**
+3.**Skit 2**
     1.  'What Do You Get a Sasquatch for Christmas?'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Social Media Promo
     2.  Show Break 1 - 'Deck the Halls'
     3.  Act 2
-5.  **Skit 3**
+5.**Skit 3**
     1.  'Snowman'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Show Break 2 - 'Rudolph'
     2.  Act 3
-7.  **Skit 4**
+7.**Skit 4**
     1.  'Very Merry Christmas'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  Paddington Trailer
     2.  Show Break 3 - 'Jolly Old Saint Nicholas'
     3.  Act 4
     4.  Social Media Promo
     5.  Show Break 4 - 'Oh Christmas Tree'
     6.  Act 5
-9.  **Skit 5**
+9.**Skit 5**
     1.  'Holiday Medley'
         1.  Jingle Bells
         2.  Jolly Old St. Nicholas

@@ -13,26 +13,26 @@ showtapeFormats = ["Media Navori","CEC Stage Navori","3-Stage Navori"]
 ***Chuck E. Cheese Evergreen 2024 (July Update)*** was the generic show released on July 29, 2024 and played until September 29, 2024. It features a variety of songs released from 2014-2023. The show features 8 songs.
 
 ## Show List 09/23 Update:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Off Road with Chuck E. - Episode 4
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Chuck E's Middle Name'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  NewJeans - 'Bubble Gum'
     2.  KIDZ BOP Kids - 'Houdini'
     3.  Chuck E. & Friends - 'Bubble Bubble Pop!'
     4.  Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'I Love Sparkles!'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'we can't be friends (wait for your love)
-6.  **Skit 3**
+6.**Skit 3**
     1.  Pasqually - 'It's the 70s'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Chuck E. Cheese - 'Water Buffalo'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Friends - 'Stay Positive'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  KIDZ BOP Kids - 'Is It Over Now?
 10. **Skit 5**
     1.  Helen & Bella B. - 'Bailando'
@@ -67,27 +67,27 @@ showtapeFormats = ["Media Navori","CEC Stage Navori","3-Stage Navori"]
 - Chuck E. Bop (3-Stage Navori, CEC Stage Navori, Media Navori)
 
 ## Show List 09/02 Update:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Zigazoo Star Showcase - 'Bubble Bubble Bop!'
     2.  Off Road with Chuck E. - Episode 4
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Chuck E's Middle Name'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  NewJeans - 'Bubble Gum'
     2.  KIDZ BOP Kids - 'Houdini'
     3.  Chuck E. & Friends - 'Bubble Bubble Pop!'
     4.  Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'I Love Sparkles!'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'we can't be friends (wait for your love)
-6.  **Skit 3**
+6.**Skit 3**
     1.  Pasqually - 'It's the 70s'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Chuck E. Cheese - 'Water Buffalo'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Friends - 'Stay Positive'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  KIDZ BOP Kids - 'Is It Over Now?
 10. **Skit 5**
     1.  Helen & Bella B. - 'Bailando'
@@ -123,28 +123,28 @@ showtapeFormats = ["Media Navori","CEC Stage Navori","3-Stage Navori"]
 
 
 ## Show List 08/26 Update:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Zigazoo Star Showcase - 'Bubble Bubble Bop!'
     2.  Off Road with Chuck E. - Episode 4
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Chuck E's Middle Name'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  NewJeans - 'Bubble Gum'
     2.  KIDZ BOP Kids - 'Houdini'
     3.  Chuck E. & Friends - 'Bubble Bubble Pop!'
     4.  Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'I Love Sparkles!'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'we can't be friends (wait for your love)
-6.  **Skit 3**
+6.**Skit 3**
     1.  Pasqually - 'It's the 70s'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Ryan's World The Movie Trailer
     2.  Chuck E. Cheese - 'Water Buffalo'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Friends - 'Stay Positive'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  KIDZ BOP Kids - 'Is It Over Now?
 10. **Skit 5**
     1.  Helen & Bella B. - 'Bailando'
@@ -180,28 +180,28 @@ showtapeFormats = ["Media Navori","CEC Stage Navori","3-Stage Navori"]
 
 
 ## Show List
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Zigazoo Star Showcase - 'Song of Summer (DJ Munch Remix)'
     2.  Off Road with Chuck E. - Episode 4
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Chuck E's Middle Name'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  NewJeans - 'Bubble Gum'
     2.  KIDZ BOP Kids - 'Houdini'
     3.  Chuck E. & Friends - 'Bubble Bubble Pop!'
     4.  Chuck E. Cheese Silly Song - 'Little Bitty Kitty Cat'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'I Love Sparkles!'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'we can't be friends (wait for your love)
-6.  **Skit 3**
+6.**Skit 3**
     1.  Pasqually - 'It's the 70s'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Ryan's World The Movie Trailer
     2.  Chuck E. Cheese - 'Water Buffalo'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Friends - 'Stay Positive'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  KIDZ BOP Kids - 'Is It Over Now?
 10. **Skit 5**
     1.  Helen & Bella B. - 'Bailando'

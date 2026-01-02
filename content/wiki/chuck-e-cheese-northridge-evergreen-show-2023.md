@@ -15,7 +15,7 @@ This was created as a unique showtape to only be played at Northridge to preserv
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Jasper T. Jowls - "Wash the Bus"
     2.  KIDZ BOP Kids - "Made You Look"
     3.  Chuck E. & Friends - "Water Buffalo"
@@ -26,9 +26,9 @@ This was created as a unique showtape to only be played at Northridge to preserv
     8.  Chuck E. Cheese - "Banana Dog"
     9.  KIDZ BOP Kids - "Sunroof"
     10. KIDZ BOP Kids - "golden hour"
-2.  **Skit 1**
+2.**Skit 1**
     1.  Munch's Make Believe Band - "It's the 70s'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Chuck E. Cheese - "Do Re Mi"
     2.  KIDZ BOP Kids - "abc"
     3.  Bella B., Chuck E. & Mike Wolf - "El Rey Guitarrista"
@@ -40,9 +40,9 @@ This was created as a unique showtape to only be played at Northridge to preserv
     9.  KIDZ BOP Kids - "TRUSTFALL"
     10. KIDZ BOP Kids - "Space Man"
     11. KIDZ BOP Kids - "Cupid"
-4.  **Skit 2**
+4.**Skit 2**
     1.  Munch's Make Believe Band - "Every Boy, Every Girl 2017"
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Helen Henny - "Disco Dancing Dinosaur Party"
     2.  KIDZ BOP Kids - "Karma"
 

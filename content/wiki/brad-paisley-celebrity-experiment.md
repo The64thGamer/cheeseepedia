@@ -19,5 +19,5 @@ An employee of Brad Paisley contacted Creative Engineering in the Summer of 2021
 
 ## Show List:
 
-1.  **Segment** **1**
+1.**Segment** **1**
     1.  [Celebrity](https://en.wikipedia.org/wiki/Celebrity_(Brad_Paisley_song))

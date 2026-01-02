@@ -13,7 +13,7 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
 **Chuck E. Cheese Evergreen 2024 (July Update)*** was the generic show released on July 29, 2024 and played until September 9, 2024. It features 'Every Boy, Every Girl' and 'Most Perfect Day'.
 
 ## Show List 09/23 Update:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Off Road with Chuck E. - Episode 4
     2.  Munch's Make Believe Band - 'Chuck E's Middle Name'
     3.  NewJeans - 'Bubble Gum'
@@ -24,9 +24,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     8.  KIDZ BOP Kids - 'we can't be friends (wait for your love)
     9. Pasqually - 'It's the 70s'
     10. Chuck E. Cheese - 'Water Buffalo'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Munch's Make Believe Band - "Every Boy, Every Girl 2017"
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Chuck E. & Friends - 'Stay Positive'
     2.  KIDZ BOP Kids - 'Is It Over Now?
     3.  Helen & Bella B. - 'Bailando'
@@ -38,9 +38,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     9.  Bella B. 'El Rey Guitarrista'
     10. DJ Munch - 'Lend a Helping Hand'
     11. Jasper T. Jowls - 'Arizona'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - "Most Perfect Day"
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'Si No Estás
     2.  Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
     3.  DJ Munch - 'Play All You Can Play'
@@ -65,7 +65,7 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
 
 
 ## Show List 09/02 Update:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Zigazoo Star Showcase - 'Bubble Bubble Pop!'
     2.  Off Road with Chuck E. - Episode 4
     3.  Munch's Make Believe Band - 'Chuck E's Middle Name'
@@ -77,9 +77,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     9.  KIDZ BOP Kids - 'we can't be friends (wait for your love)
     10. Pasqually - 'It's the 70s'
     11. Chuck E. Cheese - 'Water Buffalo'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Munch's Make Believe Band - "Every Boy, Every Girl 2017"
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Chuck E. & Friends - 'Stay Positive'
     2.  KIDZ BOP Kids - 'Is It Over Now?
     3.  Helen & Bella B. - 'Bailando'
@@ -91,9 +91,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     9.  Bella B. 'El Rey Guitarrista'
     10. DJ Munch - 'Lend a Helping Hand'
     11. Jasper T. Jowls - 'Arizona'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - "Most Perfect Day"
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'Si No Estás
     2.  Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
     3.  DJ Munch - 'Play All You Can Play'
@@ -117,7 +117,7 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
 5. Chuck E. & Friends - ‘Most Perfect Day’ (Legacy CEC Stage Navori)
 
 ## Show List 08/26 Update:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Zigazoo Star Showcase - 'Bubble Bubble Pop!'
     2.  Off Road with Chuck E. - Episode 4
     3.  Munch's Make Believe Band - 'Chuck E's Middle Name'
@@ -130,9 +130,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     10. Pasqually - 'It's the 70s'
     11. Ryan's World The Movie Trailer
     12. Chuck E. Cheese - 'Water Buffalo'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Munch's Make Believe Band - "Every Boy, Every Girl 2017"
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Chuck E. & Friends - 'Stay Positive'
     2.  KIDZ BOP Kids - 'Is It Over Now?
     3.  Helen & Bella B. - 'Bailando'
@@ -144,9 +144,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     9.  Bella B. 'El Rey Guitarrista'
     10. DJ Munch - 'Lend a Helping Hand'
     11. Jasper T. Jowls - 'Arizona'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - "Most Perfect Day"
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'Si No Estás
     2.  Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
     3.  DJ Munch - 'Play All You Can Play'
@@ -171,7 +171,7 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
 
 
 ## Show List
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Zigazoo Star Showcase - 'Song of Summer (DJ Munch Remix)'
     2.  Off Road with Chuck E. - Episode 4
     3.  Munch's Make Believe Band - 'Chuck E's Middle Name'
@@ -184,9 +184,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     10. Pasqually - 'It's the 70s'
     11. Ryan's World The Movie Trailer
     12. Chuck E. Cheese - 'Water Buffalo'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Munch's Make Believe Band - "Every Boy, Every Girl 2017"
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Chuck E. & Friends - 'Stay Positive'
     2.  KIDZ BOP Kids - 'Is It Over Now?
     3.  Helen & Bella B. - 'Bailando'
@@ -198,9 +198,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     9.  Bella B. 'El Rey Guitarrista'
     10. DJ Munch - 'Lend a Helping Hand'
     11. Jasper T. Jowls - 'Arizona'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - "Most Perfect Day"
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'Si No Estás
     2.  Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!'
     3.  DJ Munch - 'Play All You Can Play'

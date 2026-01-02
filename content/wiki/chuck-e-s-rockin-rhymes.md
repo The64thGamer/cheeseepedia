@@ -17,27 +17,27 @@ The show is notable for having only one song per segment (similar to Chuck E's V
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  Party Place
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  VeggieTales - 'We're Vikings'
-3.  **Segment 2**
+3.**Segment 2**
     1.  Humpty Dumpty
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Eddie Coker - 'The Dog'
     2.  Store Intro - 'Spokane, WA'
     3.  CEC TV ID - 'Couch'
-5.  **Segment 3**
+5.**Segment 3**
     1.  Sharing
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  The Wiggles - 'Get Ready to Wiggle'
-7.  **Segment 4**
+7.**Segment 4**
     1.  Little Red Riding Hood
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  Super Jasper - 'Resist The Temptation'
     2.  Store Intro - 'Santiago, Chile'
     3.  CEC TV ID - 'Couch'
-9.  **Segment 5**
+9.**Segment 5**
     1.  Think Happy
 10. **Intermission 4**
     1.  VeggieTales - 'Larry's High Silk Hat'

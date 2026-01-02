@@ -18,15 +18,15 @@ categories = ["Chuck E. Cheese's"]
 
 It is currently unclear if the known segment list is the exact order from the showtape.
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  Go Chuck E. Go
-2.  **Segment 2**
+2.**Segment 2**
     1.  Party Place
-3.  **Segment 3**
+3.**Segment 3**
     1.  Chuck E. Shuffle
-4.  **Segment 4**
+4.**Segment 4**
     1.  Baseball Diamond Dreams
-5.  **Segment 5**
+5.**Segment 5**
     1.  I Won't Give Up
 
 ## Trivia:

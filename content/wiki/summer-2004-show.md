@@ -16,39 +16,39 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Summertime Groove'
     2.  'Fishin''
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Summer of Fun VJ Spot - Matt
     2.  CEC TV ID - 'Blender'
     3.  Wildlife
     4.  Coke Groove
     5.  Countdown
-3.  **Segment 2**
+3.**Segment 2**
     1.  'In My Pool' (parody of ['In My Room'](https://en.wikipedia.org/wiki/In_My_Room))
     2.  'Havin' Fun at The Beach'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Summer of Fun VJ Spot - Jared
     2.  CEC TV ID - 'Janitor'
     3.  Baking With Betty - 'Letters'
     4.  CEC TV ID - 'Rocket Racer'
     5.  Kool-Aid Spot
     6.  Countdown
-5.  **Segment 3**
+5.**Segment 3**
     1.  'Baseball Diamond Dreams'
     2.  'Dog Jammin''
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Summer of Fun VJ Spot - Jason
     2.  Super Jasper - 'One Token'
     3.  'America' (USA Stores)
     4.  CEC TV ID - 'Stars'
     5.  Coke Groove
     6.  Countdown
-7.  **Segment 4**
+7.**Segment 4**
     1.  ['Picnic'](https://raffi.fandom.com/wiki/Going_On_a_Picnic)
     2.  'Barbeque' (parody of ['Rock With You'](https://en.wikipedia.org/wiki/Rock_with_You))
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  Cinemark Summer Movie Clubhouse Spot
     2.  Summer of Fun VJ Spot - Hank Howdy
     3.  CEC TV ID - 'Haircut'

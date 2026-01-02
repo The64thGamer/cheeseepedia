@@ -15,32 +15,32 @@ This was created to play during the Spring-Tastic Celebration Promotion. Runs fr
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  KIDZ BOP Kids - "Shivers"
     2.  Spring-Tastic Bumper feat. Helen & Bella
     3.  Keith Urban - "Out the Cage"
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - "Stay Positive"
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Safety Message
     2.  Spring-Tastic Food & Drink Combos
     3.  YouTube & Music Streaming
     4.  Stephanie Beatriz, Olga Merediz - "The Family Madrigal"
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese & Friends - "Together We've Got It"
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Spring-Tastic Bumper feat. Bella & Ronnie
     2.  KIDZ BOP Kids - "Truth Hurts"
     3.  "Unicorn, Unicorn!"
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. Cheese & Friends - "My Family"
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Spring-Tastic Food & Drink Combos
     2.  Spring-Tastic 30 Minutes of Free Game Play
     3.  Rend Co. Kids - "Feels Good (Upbeat Song)"
-8.  **Skit 4**
+8.**Skit 4**
     1.  Pasqually the Chef - "It's the 70s"
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Spring-Tastic Bumper feat. Helen & Chuck E.
     2.  KIDZ BOP Kids - "Butter"
 10. **Skit 5**

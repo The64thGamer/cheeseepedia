@@ -44,36 +44,36 @@ The fourth segment begins with Earl saying his answer to the mystery character. 
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  6 Minute Countdown
         1.  [Waiting Game](https://en.wikipedia.org/wiki/Waiting_Game_(Swing_Out_Sister_song))
         2.  Rolfe & Earl Birthday
     2.  Cyberstar Intro
-2.  **Segment 1**
+2.**Segment 1**
     1.  Rolfe & Earl 1
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  6 Minute Countdown
         1.  [Rooms on Fire](https://en.wikipedia.org/wiki/Rooms_on_Fire)
         2.  [My Brave Face](https://en.wikipedia.org/wiki/My_Brave_Face)
     2.  Cyberstar Intro
-4.  **Segment 2**
+4.**Segment 2**
     1.  Rolfe & Earl 2
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  6 Minute Countdown
         1.  [Complicated Girl](https://en.wikipedia.org/wiki/Everything_(The_Bangles_album))
         2.  [Keep Each Other Warm](https://en.wikipedia.org/wiki/Barry_Manilow_(1989_album))
     2.  It's Showtime!
-6.  **Video 1**
+6.**Video 1**
     1.  Animal Babies In The Wild - Let's All Do The Hop
     2.  The Pink Panther - Come on In! The Water's Pink
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  6 Minute Countdown
         1.  [Soul Provider (Single Version)](https://en.wikipedia.org/wiki/Soul_Provider)
         2.  [Everything](https://en.wikipedia.org/wiki/Everything_(Jody_Watley_song))
     2.  Cyberstar Intro
-8.  **Segment 3**
+8.**Segment 3**
     1.  Rolfe & Earl 3
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  6 Minute Countdown
         1.  [Sacred Emotion](https://en.wikipedia.org/wiki/Sacred_Emotion)
         2.  [Don't Wanna Lose You](https://en.wikipedia.org/wiki/Don%27t_Wanna_Lose_You)

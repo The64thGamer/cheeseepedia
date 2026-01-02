@@ -21,38 +21,38 @@ This was created to play from October 1, 2018 - November 4, 2018. Featuring 4 so
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Happy Halloween from Chuck E. Cheese's
     2.  U2 - 'Love is bigger than Anything in Its Way (Beck Remix)'
     3.  Nina World - 'Día de Muertos'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese & Mr. Munch - 'Trick or Treat'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  My Little Pony 1
     2.  MIKA feat. Ariana Grande - 'Popular Song'
     3.  Show Break 1 - 'Pumpkins'
     4.  Miguel - 'Remember Me feat. Natalia Lafourcade'
     5.  Chuck E. Cheese - 'Cheesy Things'
     6.  Pac Man - 'Felonious Flea'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese & Friends - 'Costume Party'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  American Authors - 'Best Day of My Life'
     2.  My Little Pony 2
     3.  Kidz Bop - 'Ghostbusters'
     4.  Jokes from Pasqually - 'Halloween'
     5.  Monster High - 'Ghoul Squad'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. Cheese & Munch - 'I Didn't Need To Be Afraid'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Om Nom Stories - 'Halloween'
     2.  Eric Nam - 'Float' (From Hotel Transylvania 3)
     3.  Show Break 2 - 'Autumn'
     4.  My Little Pony 3
     5.  Girls with Glasses - 'Play All You Can Play'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. Cheese - 'Pumpkin Patch'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Secret Ingredient Slime - 'Eyeball Monster'
     2.  Musing with Mr. Munch - 'Episode 5 (Halloween)'
     3.  Battery Pop - 'Ghost Boy'

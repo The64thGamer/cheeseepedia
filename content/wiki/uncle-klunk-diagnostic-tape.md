@@ -15,5 +15,5 @@ The only segment, *Pizza Expert*, was reused from the {{< wiki-link "Uncle Klunk
 
 ## Segment List
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  Klunk Skit - Pizza Expert

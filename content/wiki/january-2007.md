@@ -16,38 +16,38 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  ['Good Life'](https://en.wikipedia.org/wiki/Beautiful_Soul_(Jesse_McCartney_album))
     2.  ['It's Your Thing'](https://en.wikipedia.org/wiki/It%27s_Your_Thing)
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Parachute'
     2.  Coke Spot
     3.  Flushed Away Promo
     4.  CEC TV ID - 'Digestion'
     5.  Chillout - 'Arctic Life'
-3.  **Segment 2**
+3.**Segment 2**
     1.  ['I Want You To Want Me'](https://en.wikipedia.org/wiki/I_Want_You_to_Want_Me)
     2.  ['Right On The Money'](https://en.wikipedia.org/wiki/Right_on_the_Money)
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV ID - 'Flashing Hand'
     2.  Sing-along Guys - 'BINGO'
     3.  PBS Kids Spot
     4.  Super Jasper - 'Cadilac Ranch'
     5.  CEC TV ID - 'Sing-along Guys'
     6.  Chillout - 'Landscapes'
-5.  **Segment 3**
+5.**Segment 3**
     1.  ['Fame'](https://en.wikipedia.org/wiki/Fame_(Irene_Cara_song))
     2.  ['Crazy For This Girl'](https://en.wikipedia.org/wiki/Crazy_for_This_Girl)
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Dancing Food'
     2.  Coke Spot
     3.  VeggieTales - 'Lance The Turtle'
     4.  CEC TV ID - 'Space Kids'
     5.  Chillout - 'Fish'
-7.  **Segment 4**
+7.**Segment 4**
     1.  ['Still The One'](https://en.wikipedia.org/wiki/Still_the_One)
     2.  'The Trashman' (parody of ['Taxman'](https://en.wikipedia.org/wiki/Taxman))
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Marquee'
     2.  Flushed Away Promo
     3.  CEC TV ID - 'Stars'

@@ -13,35 +13,35 @@ showtapeFormats = ["Media Navori"]
 ***Chuck E. Cheese Throwback Show*** was released on August 28, 2025, to play exclusively at {{< wiki-link "Kansas City, MO (8809 State Line Rd))" >}}. 
 
 ## Show List 12/29 Update:
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Kids Segment 2'
     2.  'Fractured Classics'
     3.  'Concept Unification Premiere Demo' (Together We've Got It + Dialogue)
     4.  'Future Segment 1'
     5.  'Train Ride'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Couch'
     2.  'Ratings'
     3.  'Drawing Chuck E.'
     4.  CEC TV ID - 'Marx Bros'
-3.  **Segment 2**
+3.**Segment 2**
     1.  'Chuck E.'s Place'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  'The Lonesome Cowboy'
     2.  CEC TV ID - 'Cows'
-5.  **Segment 3**
+5.**Segment 3**
     1.  'Jump'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  'Amphicar'
     2.  CEC TV ID - 'Skateboarding'
-7.  **Segment 4**
+7.**Segment 4**
     1.  'The Muffin Man'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  'WFW Babysitter'
     2.  CEC TV ID - 'Janitor'
-9.  **Segment 5**
+9.**Segment 5**
     1.  'Humpty Dumpty'
-10.  **Intermission 5**
+10.**Intermission 5**
     1.  'Baking with Betty - Letters'
     2.  CEC TV ID - 'Singing Fish'
 11. **Segment 6**
@@ -79,7 +79,7 @@ showtapeFormats = ["Media Navori"]
 
 
 ## Show List 11/25 Update:
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Jolly Old Saint Nicholas'
     2.  'Fractured Classics'
     3.  'Kids Segment 2'
@@ -90,31 +90,31 @@ showtapeFormats = ["Media Navori"]
     8.   CEC TV ID - 'Classic'
     9.  'Future Segment 1'
     10.  CEC TV ID - 'Marx Bros'
-2.  **Segment 1**
+2.**Segment 1**
     1.  'Chuck E.'s Place'
     2.  'Up On The Housetop'   
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  'The Lonesome Cowboy'
     2.  'Amphicar'
     3.  Super Jasper - 'Canine Snowball'
     4.  CEC TV ID - 'Cows'
-4.  **Segment 2**
+4.**Segment 2**
     1.  'Jump'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Baking With Betty - 'Potato Latkes'
     2.  CEC TV ID - 'Couch'
     3.  'Ratings'
     4.  'Drawing Chuck E.'
     5.  CEC TV ID - 'Skateboarding'
-6.  **Segment 3**
+6.**Segment 3**
     1.  'The Muffin Man'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  'Chuck E.'s Ski Trip'
     2.  'WFW Babysitter'
     3.  CEC TV ID - 'Janitor'
-8.  **Segment 4**
+8.**Segment 4**
     1.  'Humpty Dumpty'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Larry The Technician - ‘Decorating The Tree’
     2.  'Baking with Betty - Letters'
     3.  CEC TV ID - 'Singing Fish'
@@ -155,35 +155,35 @@ showtapeFormats = ["Media Navori"]
     1.  'No Other Place'
 
 ## Show List:
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Kids Segment 2'
     2.  'Fractured Classics'
     3.  'Concept Unification Premiere Demo' (Together We've Got It + Dialogue)
     4.  'Future Segment 1'
     5.  'Train Ride'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Couch'
     2.  'Ratings'
     3.  'Drawing Chuck E.'
     4.  CEC TV ID - 'Marx Bros'
-3.  **Segment 2**
+3.**Segment 2**
     1.  'Chuck E.'s Place'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  'The Lonesome Cowboy'
     2.  CEC TV ID - 'Cows'
-5.  **Segment 3**
+5.**Segment 3**
     1.  'Jump'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  'Amphicar'
     2.  CEC TV ID - 'Skateboarding'
-7.  **Segment 4**
+7.**Segment 4**
     1.  'The Muffin Man'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  'WFW Babysitter'
     2.  CEC TV ID - 'Janitor'
-9.  **Segment 5**
+9.**Segment 5**
     1.  'Humpty Dumpty'
-10.  **Intermission 5**
+10.**Intermission 5**
     1.  'Baking with Betty - Letters'
     2.  CEC TV ID - 'Singing Fish'
 11. **Segment 6**

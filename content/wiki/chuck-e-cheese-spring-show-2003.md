@@ -20,13 +20,13 @@ In this show, Chuck E.'s good friend Dr. Googleplex has discovered the secret to
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.   Tube Explorer - 'Minute Maid'
     2.  Countdown - 'Clementine'
 2.   **Segment 1**
     1.   ['I've Got The Music In Me'](https://en.wikipedia.org/wiki/I%27ve_Got_the_Music_in_Me)
     2.   ['Live It Up'](https://en.wikipedia.org/wiki/Live_It_Up_(Marshall_Dyllon_song))
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  CEC TV ID - 'Janitor'
     2.   Eddie Coker - 'Give It Away'
     3.   ['Italian Street Song'](https://en.wikipedia.org/wiki/Italian_Street_Song)
@@ -35,14 +35,14 @@ In this show, Chuck E.'s good friend Dr. Googleplex has discovered the secret to
     1.   ['Just One Look'](https://en.wikipedia.org/wiki/Just_One_Look_(song))
     2.   ['Please Mr. Postman'](https://en.wikipedia.org/wiki/Please_Mr._Postman)
     3.   ['Let's Go'](https://en.wikipedia.org/wiki/Let%27s_Go_(The_Cars_song))
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  CEC TV ID - 'Blender'
     2.   Clifford The Big Red Dog
     3.  Countdown - 'Jack & Jill'
 6.   **Segment 3**
     1.   ['Pop Muzik'](https://en.wikipedia.org/wiki/Pop_Muzik)
     2.   ['Shake It Up'](https://en.wikipedia.org/wiki/Shake_It_Up_(The_Cars_song))
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  CEC TV ID - 'Couch'
     2.   PBS Kids Promo
     3.   'Who Framed Roger Rabbit?' DVD Promo

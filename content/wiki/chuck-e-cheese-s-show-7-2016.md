@@ -15,39 +15,39 @@ This was created to play from October 3rd, 2016 - October 31st, 2016. This show 
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  CEC Sketch - 'Happy Halloween'
     2.  5 Seconds of Summer - 'Girls Talk Boys'
     3.  Floogals - 'Halloween'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese, Whatnots - 'Speak Up Stop Bullying' (Billy & The Bully)
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Rachel Platten - 'Fight Song'
     2.  Spacepop - 'Unstoppable'
     3.  Lukas Graham - 'Mama Said'
     4.  Terrific Trucks - 'Clean Up'
     5.  CEC Promo - 'Chucktober'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'Costume Party'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  China Anne McClain - 'Calling All The Monsters'
     2.  CEC Promo - 'Buffet'
     3.  CEC Sketch - 'Counting Sheep'
     4.  OneRepublic - 'Kids'
     5.  CEC Promo - 'Mac Cheesy'
     6.  CEC Sketch - 'Carl Clean'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. and Friends - 'Most Epic Mouse'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Take the Pledge Stop Bullying
     2.  Galantis - 'No Money'
     3.  Nina's World - 'Bully'
     4.  Chucktober TV Spot
     5.  Casper BabyPants - 'Creatures Under My Bed'
     6.  Chuck E. Goes to Washington D.C.
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Munch - 'Trick or Treat'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Fifth Harmony - 'I'm in Love with a Monster'
     2.  Josh & The Jamtones - 'Tailfeather (Live at CEC)'
     3.  CEC Promo - 'New Cakes/Big Brothers'

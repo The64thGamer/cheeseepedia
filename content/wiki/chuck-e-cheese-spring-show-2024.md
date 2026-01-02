@@ -13,30 +13,30 @@ showtapeFormats = ["Media Navori","CEC Stage Navori","3-Stage Navori"]
 ***Chuck E. Cheese Spring Show 2024*** was a spring show released on April 1, 2024, and ran until April 28. It features a variety of songs released from 2014-2023.
 
 ## Show list 04/11 Update:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Chuck E. Cheese - 'Off Road with Chuck E. Episode 3'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Most Perfect Day'
     2.  Chuck E. Cheese - 'Dancin' Kitten"
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Kidz Pop - 'We're Taking Over'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Helen Henny - 'Dream Big'
     2.  Chuck E. & Friends - 'It's the 70s'
     3.  Jasper T. Jowls - 'Arizona'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Kidz Bop - 'Golden Hour'
     2.  Chuck E. & Bella - 'Bella's Garden'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chcuk E. & Friends - 'Remember That Time'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Silly Song - 'Little Bitty Kitty Cat'
     2.  Kidz Pop - 'Tatto'
     3.  Chuck E. Cheese - 'Listen to the Rock!'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Helen Henny - 'Game On!'
     2.  Chuck E. Cheese - 'Lend A Helping Hand'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Kidz Bop Kids - 'ABC'
     2.  Silly Song - 'Unicorn, Unicorn!'
     3.  Chuck E. Cheese - 'Off Road with Chuck E. Episode 2'
@@ -68,30 +68,30 @@ showtapeFormats = ["Media Navori","CEC Stage Navori","3-Stage Navori"]
 
 
 ## Show list 04/07 Update:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Chuck E. Cheese - 'Off Road with Chuck E. Episode 3'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Most Perfect Day'
     2.  Chuck E. Cheese - 'Dancin' Kitten"
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Kidz Pop - 'We're Taking Over'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Helen Henny - 'Dream Big'
     2.  Chuck E. & Friends - 'It's the 70s'
     3.  Jasper T. Jowls - 'Arizona'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Kidz Bop - 'Golden Hour'
     2.  Chuck E. & Bella - 'Bella's Garden'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chcuk E. & Friends - 'Remember That Time'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Silly Song - 'Little Bitty Kitty Cat'
     2.  Kidz Pop - 'Tatto'
     3.  Chuck E. Cheese - 'Listen to the Rock!'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Helen Henny - 'Game On!'
     2.  Chuck E. Cheese - 'Lend A Helping Hand'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Kidz Bop Kids - 'ABC'
     2.  Silly Song - 'Unicorn, Unicorn!'
 10. **Skit 5**
@@ -122,30 +122,30 @@ showtapeFormats = ["Media Navori","CEC Stage Navori","3-Stage Navori"]
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Chuck E. Cheese - 'Off Road with Chuck E. Episode 2'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Most Perfect Day'
     2.  Chuck E. Cheese - 'Dancin' Kitten"
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Kidz Pop - 'We're Taking Over'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Helen Henny - 'Dream Big'
     2.  Chuck E. & Friends - 'It's the 70s'
     3.  Jasper T. Jowls - 'Arizona'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Kidz Bop - 'Golden Hour'
     2.  Chuck E. & Bella - 'Bella's Garden'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chcuk E. & Friends - 'Remember That Time'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Silly Song - 'Little Bitty Kitty Cat'
     2.  Kidz Pop - 'Tatto'
     3.  Chuck E. Cheese - 'Listen to the Rock!'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Helen Henny - 'Game On!'
     2.  Chuck E. Cheese - 'Lend A Helping Hand'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  NewJeans - 'Ditto'
     2.  Silly Song - 'Unicorn, Unicorn!'
 10. **Skit 5**

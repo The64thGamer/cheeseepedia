@@ -21,35 +21,35 @@ This show has a small story in which Pasqually gains a concussion and believes t
 
 ## Show List
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  ['Get Down On It'](https://en.wikipedia.org/wiki/Get_Down_on_It)
     2.  ['Listen To The Music'](https://en.wikipedia.org/wiki/Listen_to_the_Music)
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Digestion'
     2.  VeggieTales - 'Belly Button'
     3.  Juggling
     4.  CEC TV ID - 'Couch'
-3.  **Segment 2**
+3.**Segment 2**
     1.  ['China Grove'](https://en.wikipedia.org/wiki/China_Grove_(song))
     2.  ['I've Been Everywhere'](https://en.wikipedia.org/wiki/I%27ve_Been_Everywhere)
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV ID - 'Bubble Kids'
     2.  CEC TV Artist Spotlight: Kidz Bop Kids - 'Breakaway'
     3.  Coke Spot
     4.  Time To Skydive!!
     5.  CEC TV ID - 'Radio Towers'
-5.  **Segment 3**
+5.**Segment 3**
     1.  ['Celebration'](https://en.wikipedia.org/wiki/Celebration_(Kool_%26_the_Gang_song))
     2.  ['You'll Never Find Another Love Like Mine'](https://en.wikipedia.org/wiki/You%27ll_Never_Find_Another_Love_Like_Mine)
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Space Kids'
     2.  VeggieTales - 'I Love My Lips'
     3.  Skateboarding
     4.  CEC TV ID - 'Singing Animals'
-7.  **Segment 4**
+7.**Segment 4**
     1.  ['Is It Love'](https://en.wikipedia.org/wiki/Is_It_Love_(Mr._Mister_song))
     2.  ['Wrapped Up in You'](https://en.wikipedia.org/wiki/Wrapped_Up_in_You)
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Flashing Hand'
     2.  PBS Kids Spot
     3.  Maya & Maguel

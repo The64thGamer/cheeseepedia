@@ -17,29 +17,29 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  ['I Just Want To Celebrate'](https://en.wikipedia.org/wiki/I_Just_Want_to_Celebrate)
     2.  ['Nowhere To Run'](https://en.wikipedia.org/wiki/Nowhere_to_Run_(song))
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Bubble Kids'
     2.  Minute Maid Spot
     3.  VeggieTales - 'His Cheeseburger'
     4.  Countdown 1
     5.  CEC TV ID - 'Skateboarding'
-3.  **Segment 2**
+3.**Segment 2**
     1.  ['I Want You Back'](https://en.wikipedia.org/wiki/I_Want_You_Back)
     2.  ['Baby I Need Your Loving'](https://en.wikipedia.org/wiki/Baby_I_Need_Your_Loving)
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  VJ Spot - 'Eddie Coker'
     2.  CEC TV ID - 'Astronaut'
     3.  CEC TV Artist Spotlight: Eddie Coker - 'Play With Me' / 'Welcome To The Island'
     4.  Skateboarding
     5.  CEC TV ID - 'Blender'
     6.  Countdown 2
-5.  **Segment 3**
+5.**Segment 3**
     1.  ['Getaway'](https://en.wikipedia.org/wiki/Getaway_(Earth,_Wind_%26_Fire_song))
     2.  ['Come See About Me'](https://en.wikipedia.org/wiki/Come_See_About_Me)
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Digestion'
     2.  Drawing Chuck E.
     3.  Maya & Miguel - 'La Calavera'
@@ -47,10 +47,10 @@ categories = ["Chuck E. Cheese's"]
     5.  CEC News - 'Kraft Mac & Cheese'
     6.  CEC TV ID - 'Rocket Racer'
     7.  Countdown 3
-2.  **Segment 4**
+2.**Segment 4**
     1.  ['Reach Out I'll Be There'](https://en.wikipedia.org/wiki/Reach_Out_I%27ll_Be_There)
     2.  ['For Once in My Life'](https://en.wikipedia.org/wiki/For_Once_in_My_Life)
-3.  **Intermission 4**
+3.**Intermission 4**
     1.  CEC TV ID - 'Flashing Hand'
     2.  Ice Age Extreme Cool View
     3.  Will Frye The Nutrition Guy

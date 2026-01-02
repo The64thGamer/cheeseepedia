@@ -19,5 +19,5 @@ The segment was programmed sometime between mid to late 2004 and mid-2005, as th
 
 ## Show List:
 
-1.  **Segment** **1**
+1.**Segment** **1**
     1.  Tree Tops

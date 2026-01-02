@@ -17,46 +17,46 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 
 ### Advertising
 
-1.  **Ad 1**
+1.**Ad 1**
     1.  Ecolab
     2.  Samsung & Food and Drink Combos
     3.  Dippin Dots
-2.  **Ad 2**
+2.**Ad 2**
     1.  CEC Birthdays
     2.  Race World & Food and Drink Combos
     3.  Fundraising and Group Events
-3.  **Ad 3**
+3.**Ad 3**
     1.  CEC Online Store
     2.  Zigazoo Spot & Food and Drink Combos
     3.  Ecolab
-4.  **Ad 4**
+4.**Ad 4**
     1.  Race World: They Win, You Win!
     2.  KIDZ Bop 2023 Album Spot & YouTube
     3.  Fundraising and Group Events
 
 ### Entertainment
 
-1.  **Ad Break**
+1.**Ad Break**
     1.  Chuck E. & Friends - 'Song Of Summer'
     2.  Koo Koo Kangaroo - 'Backyard Swimsuit'
     3.  KIDZ BOP Kids - 'Made You Look'
-2.  **Ad Break**
+2.**Ad Break**
     1.  KIDZ BOP Kids - 'Flowers
     2.  Chuck E. & Friends - 'Most Perfect Day'
     3.  Chuck E. & Friends - "I Love Sparkles"
-3.  **Ad Break**
+3.**Ad Break**
     1.  Chuck E. Cheese - 'Down The Road'
     2.  High School Musical 2 Cast - "What Time is it?"
     3.  KIDZ BOP Kids - 'Cuff It'
-4.  **Ad Break**
+4.**Ad Break**
     1.  Milo Manheim - "We Own the Summer"
     2.  Marshmellow - 'Summer'
     3.  Chuck E. Cheese - 'Let's Be Friends'
-5.  **Ad Break**
+5.**Ad Break**
     1.  Chuck E. & Friends - "Do Re Mi"
     2.  KIDZ BOP Kids - 'Sunroof'
     3.  Chuck E. & Friends - 'Out Of This World'
-6.  **Ad Break**
+6.**Ad Break**
     1.  Jasper T. Jowls - 'Dog Days Of Summer'
     2.  KIDZ BOP Kids - 'Golden Hour'
     3.  KIDZ BOP Kids - 'Spaceman'
@@ -73,46 +73,46 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 
 ### Advertising
 
-1.  **Ad 1**
+1.**Ad 1**
     1.  Ecolab
     2.  Samsung & Food and Drink Combos
     3.  Dippin Dots
-2.  **Ad 2**
+2.**Ad 2**
     1.  CEC Online Store
     2.  Dippin' Dots Summer Crunch & Food and Drink Combos
     3.  Fundraising and Group Events
-3.  **Ad 3**
+3.**Ad 3**
     1.  CEC Online Store
     2.  Race World & Food and Drink Combos
     3.  Ecolab
-4.  **Ad 4**
+4.**Ad 4**
     1.  Race World: They Win, You Win!
     2.  CEC Birthdays & YouTube
     3.  Fundraising and Group Events
 
 ### Entertainment
 
-1.  **Ad Break**
+1.**Ad Break**
     1.  Chuck E. & Friends - 'Song Of Summer'
     2.  Koo Koo Kangaroo - 'Backyard Swimsuit'
     3.  KIDZ BOP Kids - 'Made You Look'
-2.  **Ad Break**
+2.**Ad Break**
     1.  KIDZ BOP Kids - 'Flowers
     2.  Chuck E. & Friends - 'Most Perfect Day'
     3.  Lanky Box - 'The Donut Song'
-3.  **Ad Break**
+3.**Ad Break**
     1.  Chuck E. Cheese - 'Down The Road'
     2.  High School Musical 2 Cast - "What Time is it?"
     3.  KIDZ BOP Kids - 'Cuff It'
-4.  **Ad Break**
+4.**Ad Break**
     1.  Milo Manheim - "We Own the Summer"
     2.  Marshmellow - 'Summer'
     3.  Chuck E. Cheese - 'Let's Be Friends'
-5.  **Ad Break**
+5.**Ad Break**
     1.  Lanky Box - 'The Pizza Song'
     2.  KIDZ BOP Kids - 'Sunroof'
     3.  Chuck E. & Friends - 'Out Of This World'
-6.  **Ad Break**
+6.**Ad Break**
     1.  Jasper T. Jowls - 'Dog Days Of Summer'
     2.  KIDZ BOP Kids - 'Golden Hour'
     3.  KIDZ BOP Kids - 'Spaceman'
@@ -129,46 +129,46 @@ This show released with 6 songs, with 2 more songs added in a later update. This
 
 ### Advertising
 
-1.  **Ad 1**
+1.**Ad 1**
     1.  Ecolab
     2.  Samsung & Food and Drink Combos
     3.  Dippin Dots
-2.  **Ad 2**
+2.**Ad 2**
     1.  CEC Online Store
     2.  YouTube & Food and Drink Combos
     3.  Fundraising and Group Events
-3.  **Ad 3**
+3.**Ad 3**
     1.  CEC Online Store
     2.  Race World & Food and Drink Combos
     3.  Ecolab
-4.  **Ad 4**
+4.**Ad 4**
     1.  Dippin Dots
     2.  CEC Birthdays & YouTube
     3.  Fundraising and Group Events
 
 ### Entertainment
 
-1.  **Ad Break**
+1.**Ad Break**
     1.  Chuck E. & Friends - 'Song Of Summer'
     2.  Koo Koo Kangaroo - 'Backyard Swimsuit'
     3.  KIDZ BOP Kids - 'Made You Look'
-2.  **Ad Break**
+2.**Ad Break**
     1.  KIDZ BOP Kids - 'Flowers
     2.  Chuck E. & Friends - 'Most Perfect Day'
     3.  Lanky Box - 'The Donut Song'
-3.  **Ad Break**
+3.**Ad Break**
     1.  Chuck E. Cheese - 'Down The Road'
     2.  High School Musical 2 Cast - "What Time is it?"
     3.  KIDZ BOP Kids - 'Cuff It'
-4.  **Ad Break**
+4.**Ad Break**
     1.  Milo Manheim - "We Own the Summer"
     2.  Marshmellow - 'Summer'
     3.  Chuck E. Cheese - 'Let's Be Friends'
-5.  **Ad Break**
+5.**Ad Break**
     1.  Lanky Box - 'The Pizza Song'
     2.  KIDZ BOP Kids - 'Sunroof'
     3.  Chuck E. & Friends - 'Out Of This World'
-6.  **Ad Break**
+6.**Ad Break**
     1.  Jasper T. Jowls - 'Dog Days Of Summer'
     2.  KIDZ BOP Kids - 'Golden Hour'
     3.  KIDZ BOP Kids - 'Spaceman'

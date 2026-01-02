@@ -15,37 +15,37 @@ This was created to play from February 27th 2017. - April 9th, 2017. This show f
 
 ## Show List:
 
-1.  **Skit 1**
+1.**Skit 1**
     1.  Happy Birthday Munch!
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Imagine Dragons - 'On Top of the World'
     2.  Ruff Ruff Tweet & Dave - 'Magic Show'
     3.  CEC Promo - 'Carl Clean'
-3.  **Skit 2**
+3.**Skit 2**
     1.  Munch & Chuck E. - 'Purple Planet Point of View'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Train - 'Play That Song'
     2.  Strawberry Shortcake
     3.  Fun Facts With Chuck E. - 'Favorite Song'
     4.  Olivia Holt - 'Phoenix'
     5.  CEC Promo - 'Ticket Dance'
-5.  **Skit 3**
+5.**Skit 3**
     1.  Chuck E. & Friends - 'Rainy Day'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Marshmello - 'Summer'
     2.  CEC Promo - 'Buffet'
     3.  Thomas Rhett - 'Star of the Show'
     4.  CEC Birthday TV Spot - 'Fishing'
     5.  Secret Agent 23 Skidoo - 'Secret Superhero'
-7.  **Skit 4**
+7.**Skit 4**
     1.  Chuck E. & Pasqually - 'Keep Drummin''
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  Flor - 'Hold On'
     2.  Caspar Babypants - 'Jellyfish Jones'
     3.  CEC Sketch - 'Pizza Plant'
     4.  Michael & The Rockness Monsters - 'Fisherman'
     5.  SpacePop - 'Not Your Average Girls'
-9.  **Skit 5**
+9.**Skit 5**
     1.  Chuck E. & Friends - 'All For Fun, Fun For All'
 10. **Intermission 5**
     1.  CEC Promo - 'New Cakes'

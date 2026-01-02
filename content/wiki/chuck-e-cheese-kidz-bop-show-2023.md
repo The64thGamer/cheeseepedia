@@ -14,27 +14,27 @@ categories = ["Chuck E. Cheese's"]
 This show is only for locations in Mexico during the month of April. This show features 7 Songs with the automatic live being Spring Break Break Dance.
 
 ## Show List
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  KIDZ BOP 2023 Album Spot
     2.  KIDZ BOP Kids - 'Despechá'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Let's Have A Party'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  KIDZ BOP Kids - 'Girl Like Me'
     2.  KIDZ BOP Kids - 'KESI Remix'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Bella B., Chuck E. and Mike Wolf - 'El Rey Guitarrista'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  KIDZ BOP Kids - 'LA FAMA'
     2.  KIDZ BOP Kids - 'Tacones Rojos'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. Cheese & Friends - 'Chuck E.'s Middle Name'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  KIDZ BOP Kids - 'Vivir Mi Vida'
     2.  KIDZ BOP Kids - 'Bam Bam'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Bella B. & Helen Henny - 'Bailando'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  KIDZ BOP 2023 Album Spot
     2.  KIDZ BOP Kids - 'MAMACITA'
 10. **Skit 5**

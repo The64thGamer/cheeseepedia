@@ -15,31 +15,31 @@ This was created as an option for international stores that don't celebrate Hall
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Spanish Safety Message
     2.  BTS - 'Lights'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Jasper & Munch - 'Song Title'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  KIDZ BOP Kids - 'Dance Monkey'
     2.  Musing With Mr. Munch Ep4
     3.  KIDZ BOP Kids - 'Kings and Queens'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. Cheese - 'Let's Have A Party'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Spanish Safety Message
     2.  Koo Koo Kanga Roo
     3.  Juicebox Jukebox - 'Clean it Up'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Helen Henny - 'Dream Big
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Martis - 'Keep It Low'
     2.  Jokes from Pasqually - 'Early Bird'
     3.  Silly Songs - Unicorn!, Unicorn!
     4.  X Ambassador - 'BOOM'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Jasper T. Jowls - 'Jasper's Country Classic'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Spanish Safety Message
     2.  American Authors - 'Best Day of My Life'
     3.  Juicebox Jukebox - 'ABC's of You'

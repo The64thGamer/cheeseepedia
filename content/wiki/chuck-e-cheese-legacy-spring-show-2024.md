@@ -13,7 +13,7 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
 ***Chuck E. Cheese Spring Show 2024*** was a spring show released on April 1, 2024, and ran until April 28. Features 'Together We've Got it' and 'Every Boy, Every Girl'. Chuck E. Strut makes its debut with this show.
 
 ## Show List Update 04/11:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Chuck E. Cheese - 'Off Road with Chuck E. Episode 3'
     2.  Chuck E. Cheese - 'Most Perfect Day'
     3.  Chuck E. Cheese - 'Dancin' Kitten"
@@ -26,9 +26,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     10. Chcuk E. & Friends - 'Remember That Time'
     11. Silly Song - 'Little Bitty Kitty Cat'
     12. Kidz Pop - 'Tatto'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'Together We've Got It'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Chuck E. Cheese - 'Listen to the Rock!'
     2.  Helen Henny - 'Game On!'
     3.  Chuck E. Cheese - 'Lend A Helping Hand'
@@ -43,9 +43,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     12. Chuck E. Cheese & Jasper T. Jowls - 'Nothing Like A Walk'
     13. Kidz Bop - 'If We Ever Broke Up'
     14. Chuck E. & Friends - 'Play All You Can Play'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'Every Boy, Every Girl'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Chuck E. Cheese - 'Crochet All Day'
     2.  Chuck E. & Friends - 'Water Buffalo'
     3.  Kidz Bop - 'Barbie World'
@@ -63,7 +63,7 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
 5. Chuck E. & Friends - ‘Most Perfect Day’ (CEC Stage Legacy Navori)
 
 ## Show List Update 04/07:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Chuck E. Cheese - 'Off Road with Chuck E. Episode 3'
     2.  Chuck E. Cheese - 'Most Perfect Day'
     3.  Chuck E. Cheese - 'Dancin' Kitten"
@@ -76,9 +76,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     10. Chcuk E. & Friends - 'Remember That Time'
     11. Silly Song - 'Little Bitty Kitty Cat'
     12. Kidz Pop - 'Tatto'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'Together We've Got It'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Chuck E. Cheese - 'Listen to the Rock!'
     2.  Helen Henny - 'Game On!'
     3.  Chuck E. Cheese - 'Lend A Helping Hand'
@@ -93,9 +93,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     12. Chuck E. Cheese & Jasper T. Jowls - 'Nothing Like A Walk'
     13. Kidz Bop - 'If We Ever Broke Up'
     14. Chuck E. & Friends - 'Play All You Can Play'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'Every Boy, Every Girl'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Chuck E. Cheese - 'Crochet All Day'
     2.  Chuck E. & Friends - 'Water Buffalo'
     3.  Kidz Bop - 'Barbie World'
@@ -113,7 +113,7 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
 5. Chuck E. & Friends - ‘Most Perfect Day’ (CEC Stage Legacy Navori)
 
 ## Show List:
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Chuck E. Cheese - 'Off Road with Chuck E. Episode 2'
     2.  Chuck E. Cheese - 'Most Perfect Day'
     3.  Chuck E. Cheese - 'Dancin' Kitten"
@@ -126,9 +126,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     10. Chcuk E. & Friends - 'Remember That Time'
     11. Silly Song - 'Little Bitty Kitty Cat'
     12. Kidz Pop - 'Tatto'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. & Friends - 'Together We've Got It'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Chuck E. Cheese - 'Listen to the Rock!'
     2.  Helen Henny - 'Game On!'
     3.  Chuck E. Cheese - 'Lend A Helping Hand'
@@ -144,9 +144,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     13. Chuck E. Cheese & Jasper T. Jowls - 'Nothing Like A Walk'
     14. Kidz Bop - 'If We Ever Broke Up'
     15. Chuck E. & Friends - 'Play All You Can Play'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'Every Boy, Every Girl'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Chuck E. Cheese - 'Crochet All Day'
     2.  Chuck E. & Friends - 'Water Buffalo'
     3.  Kidz Bop - 'Barbie World'

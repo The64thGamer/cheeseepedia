@@ -16,37 +16,37 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  ['These Words'](https://en.wikipedia.org/wiki/These_Words)
     2.  ['The Way You Do The Things You Do'](https://en.wikipedia.org/wiki/The_Way_You_Do_the_Things_You_Do)
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  CEC TV ID - 'Bubble Kids'
     2.  Hi-C Drawing
     3.  Over The Hedge 1
     4.  CEC TV ID - 'Radio Towers'
     5.  Countdown 1
-3.  **Segment 2**
+3.**Segment 2**
     1.  ['Hold My Hand'](https://en.wikipedia.org/wiki/Hold_My_Hand_(Hootie_%26_the_Blowfish_song))
     2.  ['Only Wanna Be With You'](https://en.wikipedia.org/wiki/Only_Wanna_Be_with_You)
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  CEC TV ID - 'Flashing Hand'
     2.  CEC TV Artist Spotlight: Angel Faith - 'Beautiful Thing'
     3.  CEC TV ID - 'Cows'
     4.  Countdown 2
-5.  **Segment 3**
+5.**Segment 3**
     1.  ['Put A Little Love In Your Heart'](https://en.wikipedia.org/wiki/Put_a_Little_Love_in_Your_Heart)
     2.  ['She's Got The Look'](https://en.wikipedia.org/wiki/The_Look)
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  CEC TV ID - 'Digestion'
     2.  Hi-C Playground
     3.  VeggieTales - 'Rock On, LarryBoy'
     4.  CEC TV ID - 'Rocket Racer'
     5.  Fundraising Spot
     6.  Countdown 3
-7.  **Segment 4**
+7.**Segment 4**
     1.  'That's A Deal'
     2.  'Dreamin''
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC TV ID - 'Space Kids'
     2.  Over The Hedge 2
     3.  Flying

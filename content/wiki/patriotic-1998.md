@@ -19,24 +19,24 @@ An additional letter and video tape would come with this tape, stating to keep t
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Bruce Springsteen - 'Born In The USA'
-2.  **Segment 1**
+2.**Segment 1**
     1.  Introduction to John Mellencamp - 'Rock In The USA'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  John Mellencamp - 'Rock In The USA'
-4.  **Segment 2**
+4.**Segment 2**
     1.  Introduction to Stars And Stripes Forever
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Stars And Stripes Forever
-6.  **Segment 4**
+6.**Segment 4**
     1.  Introduction to Lee Greenwood - 'God Bless The USA'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Lee Greenwood - 'God Bless The USA'
     2.  Whitney Houston - 'The Star Spangled Banner'
-8.  **Segment 5**
+8.**Segment 5**
     1.  Introduction to Waylon Jennings - 'America'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  Waylon Jennings - 'America'
 10. **Segment 6**
     1.  Introduction to 'In America'

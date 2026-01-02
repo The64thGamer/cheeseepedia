@@ -16,26 +16,26 @@ This show includes a mix of Skits from 2014 - 2018 and new 'Show Breaks!'. This 
 
 1.   **Skit 1**
     1.  Chuck E. Cheese - 'Lend A Helping Hand'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Jokes from Pasqually - Anchor
     2.  Kabillion - Sabrina: Secrets of a teenage witch
     3.  CECTV ID - Singing Animals
     4.  Mr. Munch 1 Minute Countdown (Retro)
-3.  **Skit 2**
+3.**Skit 2**
     1.  Chuck E. & Friends - 'Giant Armadillo Named Phil'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Musings with Mr. Munch - Episode 4
     2.  Battery Pop - Charlie Freaks Out - Broccoli
     3.  Show Break #1 - National Parks Time Lapse
-5.  **Skit 3**
+5.**Skit 3**
     1.  Helen Henny - 'Gaming Time'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Kidz Bop Kids - 'Finesse'
     2.  Fun Facts with Chuck E. Cheese - 'Play'
     3.  Kabillion - 'Chloe's Closet'
-7.  **Skit 4**
+7.**Skit 4**
     1.  Chuck E. Cheese & Munch's Make Believe Band - 'Together We've Got It'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  CEC Short - Red & Rex
     2.  Kabillion - Sabrina: Secrets Of A Teenage Witch
     3.  Mr. Munch 1 Minute Countdown (Retro)

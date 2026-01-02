@@ -15,20 +15,20 @@ The majority of this show's content would end up being reused for {{< wiki-link 
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  CEC TV Intro
-2.  **Segment 1**
+2.**Segment 1**
     1.  Santa Claus is Coming To Town
     2.  Rudolph The Red-Nosed Reindeer
-3.  **Intermission 2**
-4.  **Segment 2**
+3.**Intermission 2**
+4.**Segment 2**
     1.  Here We Come A Caroling
     2.  Silver Bells
-5.  **Intermission 3**
-6.  **Segment 3**
+5.**Intermission 3**
+6.**Segment 3**
     1.  Share The Joy
     2.  Rockin' Around The Christmas Tree
-7.  **Intermission 4**
+7.**Intermission 4**
 
 ## Trivia
 

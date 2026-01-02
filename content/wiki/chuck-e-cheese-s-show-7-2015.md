@@ -15,32 +15,32 @@ This was created to play from November 2nd 2015 - December 27th 2015. This show 
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  One Direction - 'Drag Me Down'
     2.  CEC Promo - 'Fundraising'
     3.  Josh & The Jamtones - 'Great Big World' (Live at Chuck E. Cheese's)
-2.  **Skit 1**
+2.**Skit 1**
     1.  Chuck E. Cheese - 'Let's Play Some Games'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Pentatonix feat. Tori Kelly - 'Winter Wonderland/Don't Worry Be Happy'
     2.  Cartoon Network - Adventure Time - 'Once a Year'
     3.  Bruno Mars - 'Treasure'
     4.  CEC Promo - 'Mac Cheesy'
     5.  Train - 'Shake up Christmas'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Pasqually The Chef - 'What Do You Get a Sasquatch for Christmas?'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  Ed Sheeran - 'Photograph'
     2.  Cartoon Network - Teen Titans Go - 'Christmas'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Jasper T. Jowls - 'Snowman'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Mariah Carey - 'All I Want For Christmas Is You'
     2.  Josh & The Jamtones - 'Chanukah Time'
     3.  CEC Promo - 'Party Galaxy App'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Helen - 'Very Merry Christmas'
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  American Authors - 'Go Big or Go Home'
     2.  Cartoon Network - We Bare Bears - 'Feel Good Montage'
     3.  CEC Promo - 'Birthday Spot'

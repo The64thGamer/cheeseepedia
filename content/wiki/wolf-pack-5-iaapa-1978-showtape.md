@@ -21,7 +21,7 @@ Footage of this showtape can be viewed [here](https://www.youtube.com/watch?v=lv
 
 ## Segments
 
-1.  **Segment 1**\
+1.**Segment 1**\
     1.  Clap for the Wolfman
     2.  Sing a Simple Song ( [Rock and Roll is Here to Stay](https://en.wikipedia.org/wiki/Rock_and_Roll_Is_Here_to_Stay) Parody)
     3.  Banana Hill (' [Blueberry Hill](https://en.wikipedia.org/wiki/Blueberry_Hill) Parody)

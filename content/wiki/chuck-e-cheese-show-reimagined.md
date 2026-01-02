@@ -12,25 +12,25 @@ pageThumbnailFile = "CECShowReimagine.avif"
 ***Chuck E. Cheese Show Reimagined*** is a series of songs re-programmed by Donovan Marcelle on the 3-Stage using {{< wiki-link "Animation Programming System" >}}. In total he would do 14 songs/segments. 
 
 ## Show list:
-1.  **Segment 1**
+1.**Segment 1**
     1.  'When You're Here'
-2.  **Segment 2**
+2.**Segment 2**
     1.  'Turn the Beat Around'
-3.  **Segment 3**
+3.**Segment 3**
     1.  'These Hands'
-4.  **Segment 4**
+4.**Segment 4**
     1.  'Take Me Out To The Ballgame'
-5.  **Segment 5**
+5.**Segment 5**
     1.  'Shake Your Groove Thing'
     2.  'Dancing On The Moon'
-6.  **Segment 6**
+6.**Segment 6**
     1.  'Party Rock'   
-7.  **Segment 7**
+7.**Segment 7**
     1.  'In The Still Of The Night'
     2.  'Midnight Special' 
-8.  **Segment 8**
+8.**Segment 8**
     1.  'In My Pool'
-9.  **Segment 9**
+9.**Segment 9**
     1.  'I've Been Working On The Railroad'
     2.  'The Train Song' (Train Ride)
 10. **Segment 10**

@@ -20,20 +20,20 @@ The ***Chuck E. Cheese's 20th Anniversary Show (AAM Version)* was a modified ver
 
 ## Show List
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  Dolby Surround Trailer
     2.  Whoomp! (There It Is)
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  The Worry Song
-3.  **Segment 2**
+3.**Segment 2**
     1.  Dolby Surround Trailer
     2.  Don't Hurry To Worry
-4.  **Segment 3**
+4.**Segment 3**
     1.  Dolby Surround Trailer
     2.  Car Wash
-5.  **Segment 4**
+5.**Segment 4**
     1.  Dolby Surround Trailer
     2.  Oh Yeah!
-6.  **Segment 5**
+6.**Segment 5**
     1.  Dolby Surround Trailer
     2.  Every Boy / Every Girl 20th Anniversary Theme Song

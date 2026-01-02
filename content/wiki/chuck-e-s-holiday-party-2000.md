@@ -16,63 +16,63 @@ categories = ["Chuck E. Cheese's"]
 
 ## Existing Stages Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Holly Jolly Christmas'
     2.  'White Christmas'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Chuck E.'s Ski Trip
     2.  The Durby
-3.  **Segment 2**
+3.**Segment 2**
     1.  'Mele Kalikimaka'
     2.  'Feliz Navidad'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Veggietales - 'Oh Santa!'
     2.  Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
-5.  **Segment 3**
+5.**Segment 3**
     1.  '12 Days of Christmas'
     2.  'Dreidel Song'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Baking With Betty - 'Potato Latkes'
     2.  Super Jasper - 'Canine Snowball'
-7.  **Segment 4**
+7.**Segment 4**
     1.  'Big Band Santa'
     2.  'Holiday Medley'
         1.  'Jingle Bells'
         2.  'Deck The Halls'
         3.  'We Wish You A Merry Christmas'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  Book Your Party Online Promo
     2.  Up On The Housetop
 
 ## Studio C Show List:
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Holly Jolly Christmas'
     2.  'White Christmas'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Karaoke Promo
     2.  Chuck E.'s Ski Trip
     3.  Karaoke Break
-3.  **Segment 2**
+3.**Segment 2**
     1.  'Mele Kalikimaka'
     2.  'Feliz Navidad'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Veggietales - 'Oh Santa!'
     2.  Karaoke Break
-5.  **Segment 3**
+5.**Segment 3**
     1.  '12 Days of Christmas'
     2.  'Dreidel Song'
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Karaoke Promo
     2.  Baking With Betty - 'Potato Latkes'
     3.  Karaoke Break
-7.  **Segment 4**
+7.**Segment 4**
     1.  'Big Band Santa'
     2.  'Holiday Medley'
         1.  'Jingle Bells'
         2.  'Deck The Halls'
         3.  'We Wish You A Merry Christmas'
-8.  **Intermission 4**
+8.**Intermission 4**
     1.  The Durby
     2.  Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
     3.  Karaoke Break

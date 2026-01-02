@@ -16,38 +16,38 @@ Of the four songs. two were new and two were reused. Additionally, the Birthday 
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  Social Distancing PSA
     2.  Welcome back to CEC Spot
     3.  American Authors - 'Bring It On Home' ft. Phillip Phillips
     4.   Fun Facts with Chuck E. Cheese 'Dreams'
-2.  **Skit 1**
+2.**Skit 1**
     1.  Bella B. & Mike Wolf - 'El Rey Guitarrista'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.   Universal Kids - 'Norman Picklestripes'
     2.  KIDZ BOP Kids - 'Havana'
     3.   Video Chat with Chuck E, Helen and Jasper
     4.  Social Distancing PSA
     5.   Devon Gilfillian - 'Unchained'
     6.  Wheel of Whatever - 'Oven Mitt Art'
-4.  **Skit 2**
+4.**Skit 2**
     1.  Chuck E. & Friends - 'My Family'
-5.  **Intermission 3**
+5.**Intermission 3**
     1.   Universal Kids - 'Remy & Roo'
     2.   Chris Stapleton - 'Second One To Know'
     3.   Video Chat with Chuck E. & Bella
     4.  Social Distancing PSA
     5.   Universal Kids - 'American Ninja Warrior Jr'
     6.  Louis the Child Ft. Drew Love - 'Free'
-6.  **Skit 3**
+6.**Skit 3**
     1.  Chuck E. & Friends - 'Barbra the Barnyard Barber'
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  Kelly Rowland - 'Crown'
     2.   Universal Kids - 'Remy & Roo'
     3.   Gift Shop Guru - 'Dinosaur Pets'
-8.  **Skit 4**
+8.**Skit 4**
     1.  Chuck E. & Friends - 'Out of This World'
-9.  **Intermission 4**
+9.**Intermission 4**
     1.  Social Distancing PSA
     2.   Video Chat with Nigel & Ronnie
     3.   KIDZ BOP Kids - 'Friends'

@@ -16,7 +16,7 @@ One rip of the tape is dated 1986, despite the Cyberstar name not being coined u
 
 ## Show List
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  BILLY BOB & LOONEY BIRD
     2.  MITZI MOZZARELLA
     3.  BEACH BEAR

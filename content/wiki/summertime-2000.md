@@ -21,27 +21,27 @@ Featured 3 segments with songs themed around Summertime and America.**
 
 ## Show Segments
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  'Summertime'
     2.  'Fun, Fun, Fun'
-2.  **Intermission 1**
+2.**Intermission 1**
     1.  Kids Karaoke Spot (Studio C only)
     2.  For The Birds
     3.  Time To Fly! (Studio C only)
     4.  Store Intro - 'Brick NJ, CEC'
     5.  CEC TV ID - 'Rocketship'
-3.  **Segment 2**
+3.**Segment 2**
     1.  'Celebrate America'
     2.  'America'
-4.  **Intermission 2**
+4.**Intermission 2**
     1.  Kids Karaoke Spot (Studio C only)
     2.  Chuck E.'s Home Movies at The Beach
     3.  CEC TV ID - 'Cows'
     4.  Store Intro - 'Brick NJ, CEC'
-5.  **Segment 3**
+5.**Segment 3**
     1.  'Good Old Summertime'
     2.  'Local Pizza Cabana' (Parody of ['Copacabana'](https://en.wikipedia.org/wiki/Copacabana_(song)))
-6.  **Intermission 3**
+6.**Intermission 3**
     1.  Kids Karaoke Spot (Studio C only)
     2.  At The Zoo
     3.  CEC TV ID - 'Rocketship'

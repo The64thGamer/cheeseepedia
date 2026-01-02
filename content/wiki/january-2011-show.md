@@ -16,13 +16,13 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  CEC TV ID - 'Blender'
     2.  Countdown 1
-2.  **Segment 1**
+2.**Segment 1**
     1.  ['Party in the U.S.A.'](https://en.wikipedia.org/wiki/Party_in_the_U.S.A.)
     2.  'Dancin' In The Sun'
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  Backstage Pass - 'Cody Simpson'
     2.  Fun Facts - 'Sound Travels Faster in Water'
     3.  CEC TV ID - 'Couch'
@@ -36,10 +36,10 @@ categories = ["Chuck E. Cheese's"]
     11. Chuggington - 'Badge Quest'
     12. CEC TV ID - 'Chuck E. Skateboarding'
     13. Countdown 2
-4.  **Segment 2**
+4.**Segment 2**
     1.  ['Perfect Day'](https://en.wikipedia.org/wiki/Legally_Blonde_(soundtrack))
     2.  'Imagination'
-5.  **Intermission 2**
+5.**Intermission 2**
     1.  Fun Facts - 'Starfish Don't Have Brains'
     2.  CEC TV ID - 'Sunrise'
     3.  Wow Wow Wubbzy! - 'All Bottled Up'
@@ -50,10 +50,10 @@ categories = ["Chuck E. Cheese's"]
     8.  Shout! Factory Presents: 'Leave It To Beaver'
     9.  Fun Facts - 'Iguana'
     10.  Countdown 3
-6.  **Segment 3**
+6.**Segment 3**
     1.  ['1, 2, 3, 4'](https://en.wikipedia.org/wiki/1,_2,_3,_4_(Plain_White_T%27s_song))
     2.  'Cleaning Up My Room'
-7.  **Intermission 3**
+7.**Intermission 3**
     1.  CEC TV ID - 'Janitor'
     2.  Yo Gabba Gabba! - 'Cool Tricks' 
     3.  The Zone - 'Motocross'
@@ -65,10 +65,10 @@ categories = ["Chuck E. Cheese's"]
     9.  Sound Splosion: Caspar Babypants - 'Googly Eyes'
     10. VeggieTales - 'The Pirates Who Don't Do Anything'
     11. Countdown 4
-8.  **Segment 4**
+8.**Segment 4**
     1.  ['Perfect Day'](https://en.wikipedia.org/wiki/Baby_(Justin_Bieber_song))
     2.  'On The Brightside'
-9.  **Intermission 4**
+9.**Intermission 4**
     1.  CEC TV ID - 'Pizza Parachute'
     2.  Trivia - 'Giant Pandas'
     3.  Animal Atlas - 'Animal Passport'

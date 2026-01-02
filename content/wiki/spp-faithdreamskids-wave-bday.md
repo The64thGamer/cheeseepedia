@@ -22,46 +22,46 @@ A birthday promotion inserted before the Cyberstar Intro on Intermission 2 was f
 
 ## Show List
 
-1.  **Intermission 1**
+1.**Intermission 1**
     1.  6 Minute Countdown
         1.  [Waiting Game](https://en.wikipedia.org/wiki/Waiting_Game_(Swing_Out_Sister_song))
         2.  Birthday Spectacular
         3.  Please Please Me (From Scotti Bros. Records 'Gigi On The Beach')
     2.  Cyberstar Intro
-2.  **Segment 1**
+2.**Segment 1**
     1.  Faith
         1.  [Faith](https://en.wikipedia.org/wiki/Faith_(George_Michael_song))
         2.  [Wishing Well](https://en.wikipedia.org/wiki/Wishing_Well_(Terence_Trent_D%27Arby_song))
         3.  [Got My Mind Set On You](https://en.wikipedia.org/wiki/Cloud_Nine_(George_Harrison_album))
         4.  [Smooth Criminal](https://en.wikipedia.org/wiki/Smooth_Criminal)
-3.  **Intermission 2**
+3.**Intermission 2**
     1.  6 Minute Countdown
         1.  [Rooms on Fire](https://en.wikipedia.org/wiki/Rooms_on_Fire)
         2.  Birthday Spectacular
         3.  [My Brave Face](https://en.wikipedia.org/wiki/My_Brave_Face)
     2.  Birthday Promo
     3.  Cyberstar Intro
-4.  **Segment 2**
+4.**Segment 2**
     1.  Dreams
         1.  [High Hopes](https://en.wikipedia.org/wiki/High_Hopes_(Frank_Sinatra_song))
         2.  Dreamer
         3.  [When You Wish Upon a Star](https://en.wikipedia.org/wiki/When_You_Wish_Upon_a_Star)
-5.  **Intermission 3**
+5.**Intermission 3**
     1.  6 Minute Countdown
         1.  [Complicated Girl](https://en.wikipedia.org/wiki/Everything_(The_Bangles_album))
         2.  Birthday Spectacular
         3.  [Keep Each Other Warm](https://en.wikipedia.org/wiki/Barry_Manilow_(1989_album))
     2.  It's Showtime!
-6.  **Video 1**
+6.**Video 1**
     1.  Animal Babies In The Wild - Let's All Do The Hop
     2.  The Pink Panther - Come on In! The Water's Pink
-7.  **Intermission 4**
+7.**Intermission 4**
     1.  6 Minute Countdown
         1.  [Soul Provider (Single Version)](https://en.wikipedia.org/wiki/Soul_Provider)
         2.  Birthday Spectacular
         3.  [Everything](https://en.wikipedia.org/wiki/Everything_(Jody_Watley_song))
     2.  Cyberstar Intro
-8.  **Segment 3**
+8.**Segment 3**
     1.  Kids 1
         1.  [Row Row Row Your Boat](https://en.wikipedia.org/wiki/Row,_Row,_Row_Your_Boat)
         2.  [Mockingbird (Hush Little Baby)](https://en.wikipedia.org/wiki/Hush,_Little_Baby)
@@ -71,7 +71,7 @@ A birthday promotion inserted before the Cyberstar Intro on Intermission 2 was f
         6.  [Jack and Jill](https://en.wikipedia.org/wiki/Jack_and_Jill)
         7.  [This Old Man](https://en.wikipedia.org/wiki/This_Old_Man)
         8.  [Here We Go Loop de Loop](https://en.wikipedia.org/wiki/Loop_de_Loop)
-9.  **Intermission 5**
+9.**Intermission 5**
     1.  6 Minute Countdown
         1.  [Sacred Emotion](https://en.wikipedia.org/wiki/Sacred_Emotion)
         2.  Birthday Spectacular

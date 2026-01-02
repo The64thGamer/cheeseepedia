@@ -23,23 +23,23 @@ King I was the first showtape released for the {{< wiki-link "The King / King Ka
 
 ## Show Segments
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  Hound Dog
-2.  **Segment 2**
+2.**Segment 2**
     1.  Jailhouse Rock
-3.  **Segment 3**
+3.**Segment 3**
     1.  All Shook Up
-4.  **Segment 4**
+4.**Segment 4**
     1.  Devil In Disguise
-5.  **Segment 5**
+5.**Segment 5**
     1.  Can't Help Falling In Love
-6.  **Segment 6**
+6.**Segment 6**
     1.  Return to Sender
-7.  **Segment 7**
+7.**Segment 7**
     1.  Good Luck Charm
-8.  **Segment 8**
+8.**Segment 8**
     1.  Kissin' Cousins
-9.  **Segment 9**
+9.**Segment 9**
     1.  Love Me Tender
 10. **Segment 10**
     1.  It's Now or Never

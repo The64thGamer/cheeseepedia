@@ -49,7 +49,7 @@ categories = ["Chuck E. Cheese's"]
     1.  'We Wish You A Merry Christmas'
     2.  The Night Before Christmas
     3.  'We Wish You A Merry Christmas'
-10.  **Intermission 5**
+10.**Intermission 5**
     1.  'Deck The Halls'
 
 ## Trivia:

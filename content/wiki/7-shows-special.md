@@ -15,17 +15,17 @@ alsoKnownAs = ["7 Shows Special 092181"]
 
 ## Show List
 
-1.  **Segment 1**
+1.**Segment 1**
     1.  ???
-2.  **Segment 2**
+2.**Segment 2**
     1.  ???
-3.  **Segment 3**
+3.**Segment 3**
     1.  ???
-4.  **Segment 4**
+4.**Segment 4**
     1.  ???
-5.  **Segment 5**
+5.**Segment 5**
     1.  ???
-6.  **Segment 6**
+6.**Segment 6**
     1.  ???
-7.  **Segment 7**
+7.**Segment 7**
     1.  ???
