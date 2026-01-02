@@ -3,7 +3,7 @@ title = "NjlefOpVDcocPvlyOEf0.avif"
 draft = false
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
-pages = ["April 2012 Show"]
+pages = ["Spring 2012 Show"]
 startDate = ""
 +++
 Marvin The Technology Guru
