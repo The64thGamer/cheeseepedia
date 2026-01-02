@@ -888,6 +888,7 @@ img.remoji:hover {
 
 .pagination {
   font-size: 1.5rem;
+  letter-spacing: 1rem;
 }
 
 .pagination.pagination-default {
