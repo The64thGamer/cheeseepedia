@@ -9,10 +9,13 @@
   {{ warnf "Could not fetch Discourse JSON from %s" $url }}
 {{ end }}
 
+<div class="horizontal-pagebox-scroll">
 {{ with $data.topic_list.topics }}
-  {{ range first 3 . }}
+  {{ range first 8 . }}
     {{ $topic := . }}
     {{ $id := int $topic.id }}
+    {{ $title := $topic.title }}
+    {{ $titleLen := len $title }}
     {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" $topic.slug $id }}
 
     {{/* Handle image URL safely */}}
@@ -27,26 +30,33 @@
       {{ $img = "images/news-fallback.jpg" | relURL }}
     {{ end }}
 
-    {{/* Match your list-page block structure */}}
-    <div class="list-page-block">
-      <div class="list-page-container">
-        <div class="list-image">
+    <div class="alt-list-page-block">
+      <div class="alt-list-page-container">
+
+        <div class="alt-list-image">
           <a href="{{ $topicURL }}">
-            <img src="{{ $img }}" alt="{{ $topic.title }}">
+            <img src="{{ $img }}" alt="{{ $title }}">
           </a>
         </div>
-        <div class="list-page-content">
+
+        <div class="alt-list-page-content">
           <a href="{{ $topicURL }}">
-            {{ $topic.title | safeHTML }}
+            {{- if gt $titleLen 20 -}}
+              <span>{{ $title | safeHTML }}</span>
+            {{- else -}}
+              {{ $title | safeHTML }}
+            {{- end -}}
           </a>
-          <div class="list-page-date">
+
+          <div class="alt-list-page-date">
             {{ (time $topic.created_at).Format "Jan 2, 2006" }}
           </div>
         </div>
+
       </div>
     </div>
   {{ end }}
 {{ else }}
   <p>No recent news found.</p>
 {{ end }}
-<a href="https://forum.cheeseepedia.org/c/news/">read more...</a> 
+</div>

@@ -1,9 +1,12 @@
 <aside data-pagefind-ignore="all">
     <h2>Random Articles</h2>
-    {{- $pages := partialCached "grab-all-non-empty-wiki-articles.html" . -}}
-    {{- $totalPages := len $pages -}}
-    {{- $randomIndex1 := math.Floor (mul (math.Rand) $totalPages) | int -}} 
-    {{- $randomIndex2 := math.Floor (mul (math.Rand) $totalPages) | int -}}
-    {{- partial "display-page-box.html" (index $pages $randomIndex1) -}}
-    {{- partial "display-page-box.html" (index $pages $randomIndex2) -}}
+
+    <div class="horizontal-pagebox-scroll">
+        {{- $pages := partialCached "grab-all-non-empty-wiki-articles.html" . -}}
+        {{- $shuffled := shuffle $pages -}}
+
+        {{- range first 10 $shuffled }}
+            {{- partial "PageBox.html" . -}}
+        {{- end }}
+    </div>
 </aside>
