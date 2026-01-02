@@ -143,17 +143,13 @@ On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate di
 
 #### 2026
 
-- **January 2nd-** New card version of article previews created and used for various parts of the site. Random articles optimized and increased to 10 per page. Entire site CSS reevaluated and tweaked. Fixed many showtape segment lists not having correct indentation.
-
-
+- **January 2nd-** New card version of article previews created and used for various parts of the site. Random articles optimized and increased to 10 per page. Entire site CSS reevaluated and tweaked. Fixed many showtape segment lists not having correct indentation. Added graphs and statistics on homepage.
 
 ### Planned Upcoming Changes
 
 - Switch from Decap CMS to Sveltia CMS (2026) - Currently the site's editing system, Decap CMS, sucks really bad but is basically the only option for live editing with moderation tools. There is a fork of it called Sveltia CMS that's just a single link replacement to improve many aspects- but the problem is it currently hasn't implemented "Open Authoring", which allows people to automatically push updates to the site for approval. Their timeline says OA will be implemented after release in 2026, so it's just a waiting game for when that is done.
 One major flaw of Decap that will handicap moderation speeds is that image uploads are currently broken. Mods have to track down the file on the user's fork and upload it themselves through GitHub. There are also issues with pages having their live preview displayed.
 - User Page Upgrades (Unknown Time) - Plans to connect user pages with equivalent forum accounts, at minimum with just a simple link, or hopefully being able to poll an API for user profile pictures and other statuses.
-
-
 
 ## History of CEC Information Before CEP
 
