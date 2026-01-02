@@ -136,9 +136,3 @@ Once the site has been properly compiled and confirmed working, we recommend run
 To run Pagefind, run the following command: `./pagefind --site "public" --output-subdir ../static/pagefind --glob "wiki/**/*.{html}"`
 
 You can then re-run one of the compilation scripts and test the search functionality on the live site.
-
----
-
-Thank you for contributing to Cheese-E-Pedia!
-
----
