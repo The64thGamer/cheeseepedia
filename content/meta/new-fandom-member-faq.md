@@ -97,8 +97,8 @@ After SPP lost the rights to the Rock-afire Explosion, they had to pivot back to
 
 ## Where can I communicate with the Cheese-E-Pedia Community or its Admins?
 
-The main place to go is the officially run *[Discord Server](https://discord.gg/TNqHGpAr8j)**,*** where community efforts are made to create pages, find sources, archive lost media, and have general discussion. Some users on the Wiki will also have links to their contact pages on their user profile page, alongside discussion being done on an article's *Discussion Tab*.
+The main place to go is the officially run {{< forums >}}, where community efforts are made to create pages, find sources, archive lost media, and have general discussion. Some users on the Wiki will also have links to their contact pages on their user profile page, alongside discussion being done on an article's *Discussion Tab*.
 
 ## I have Lost Media in my possession, where can I upload it?
 
-If the item is an image or scan, feel free to upload it to the relevant article on the site. If it is a document, video file, audio, or anything else that cannot be hosted directly on Cheese-E-Pedia, join the officially run *[Discord Server](https://discord.gg/TNqHGpAr8j)* and contact the admins about getting the item uploaded to our [archive](https://archive.org/details/@decode_document_digitize). If you own an item that you do not have the resources to archive, notify the Discord Server to see if someone may be able to cooperate with you. The Cheese-E-Pedia community will do what it can to see all media preserved.
+If the item is an image or scan, feel free to upload it to the relevant article on the site. If it is a document, video file, audio, or anything else that cannot be hosted directly on Cheese-E-Pedia, join the {{< forums >}} and contact the admins about getting the item uploaded to our [archive](https://archive.org/details/@decode_document_digitize). If you own an item that you do not have the resources to archive, notify the {{< forums >}} to see if someone may be able to cooperate with you. The Cheese-E-Pedia community will do what it can to see all media preserved.
