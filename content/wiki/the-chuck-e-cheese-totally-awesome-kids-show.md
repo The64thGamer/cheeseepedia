@@ -11,6 +11,7 @@ showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Po
 alsoKnownAs = ["Apr 96 San Antonio 417 Playdates: April 22 - Aug 96 Stage Type: C Stage"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
+downloadLinks = ["https://archive.org/details/rollin_202512|Early Showtape Cut"]
 +++
 ***The Chuck E. Cheese Totally Awesome Kids Show*** was a showtape that was released on April 23, 1996, at Chuck E. Cheese's locations. It was the last showtape produced by Disney{{< cite 1 >}} and focused on the band and R.O.S.E. helping kids with various means of transportation.
 
