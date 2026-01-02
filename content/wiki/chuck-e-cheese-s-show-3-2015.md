@@ -15,13 +15,13 @@ This was created to play from April 20th 2015 - June 14th 2015. This show featur
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Carly Rae Jepson - 'I Really Like You'
     2.  Decoder Joke 1
     3.  Josh & The Jamtones - 'Bear Hunt: The Final Skit'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese - 'Giant Armadillo Named Phil'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Sabrina Carpenter - 'We'll Be The Stars'
     2.  Cartoon Network - 'Steven Universe 1'
     3.  CEC Promo - 'Reading with Chuck E.'
@@ -37,9 +37,9 @@ This was created to play from April 20th 2015 - June 14th 2015. This show featur
     13. Coldplay - 'Sky Full of Stars
     14. Decoder Joke 3
     15. Cartoon Network - 'Uncle Grandpa 1'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese - 'In The Future'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Josh & The Jamtones - 'John Jacob'
     2.  CEC Promo - 'Fundraiser'
     3.  Cartoon Network - 'Steven Universe 2'

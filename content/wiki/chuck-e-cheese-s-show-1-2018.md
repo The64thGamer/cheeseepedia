@@ -15,36 +15,36 @@ This was created to play from January 4, 2018 - February 25, 2018. Featuring 4 s
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  DJ Snake, Luav - 'A Different Way'
     2.  CEC Promo - 'Rip It, Win It, Play It'
     3.  Carly Rae Jepson - 'Cut To The Feeling'
-2.**Skit 1**
+2. **Skit 1**
     1.  Pasqually - 'Loopins-Boopin-Fakin-Doopin-Floppen-Loopen-Funnin's Day'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Sonic Forces
     2.  Keith Urban & Carrie Underwood - 'The Fighter'
     3.  Nina's World - 'Everything Store'
     4.  Sofia Carson - 'Love Is The Name'
     5.  DC Super Pets - 'Farm'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese - 'Let's Have a Party'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Phillip Phillips - 'Home'
     2.  Floogals - 'Umbrella'
     3.  RAC feat. Rivers Cuomo - 'I Still Wanna Know'
     4.  Life Style List - 'Birthdays at Chuck E. Cheese's'
     5.  Bridget Mendler - 'Ready or Not'
     6.  DC Super Pets - 'Squirrel'
-6.**Skit 3**
+6. **Skit 3**
     1.  Helen and introducing, Bella - 'Bailando'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  MisterWives - 'Our Own House'
     2.  Nina's World - 'Necklace'
     3.  Oh Wonder - 'Ultralife'
     4.  Chuck E. Cheese's Birthday - 'Just Tap'
     5.  Taylor Swift - 'You Belong With Me'
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese - 'Another Chuck E. Day'
 
 ## Lives:

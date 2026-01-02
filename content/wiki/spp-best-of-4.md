@@ -21,7 +21,7 @@ had without sticking to the most recent show. The *Best of* series could be seen
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  8 Minute Countdown
         1.  [Good Vibrations](https://en.wikipedia.org/wiki/Good_Vibrations)
         2.  Birthday Spectacular
@@ -29,9 +29,9 @@ had without sticking to the most recent show. The *Best of* series could be seen
         4.  [Those Lazy,
             Hazy, Crazy Days Of Summer](https://en.wikipedia.org/wiki/Those_Lazy-Hazy-Crazy_Days_of_Summer_(song))
     2.  Cyberstar Intro
-2.**Segment 1**
+2. **Segment 1**
     1.  Summer Safety
-3.**Intermission 2**
+3. **Intermission 2**
     1.  8 Minute Countdown
         1.  [Uptown Girl](https://en.wikipedia.org/wiki/Uptown_Girl)
         2.  Birthday Spectacular
@@ -39,12 +39,12 @@ had without sticking to the most recent show. The *Best of* series could be seen
             Ceiling](https://en.wikipedia.org/wiki/Dancing_on_the_Ceiling_(Lionel_Richie_song))
         4.  [I'm Walkin'](https://en.wikipedia.org/wiki/I%27m_Walkin%27)
     2.  Cyberstar Intro
-4.**Segment 2**
+4. **Segment 2**
     1.  Dreams
         1.  [High Hopes](https://en.wikipedia.org/wiki/High_Hopes_(Frank_Sinatra_song))
         2.  Dreamer
         3.  [When You Wish Upon a Star](https://en.wikipedia.org/wiki/When_You_Wish_Upon_a_Star)
-5.**Intermission 3**
+5. **Intermission 3**
     1.  8 Minute Countdown
         1.  [Walkin' After Midnight](https://en.wikipedia.org/wiki/Walkin%27_After_Midnight)
         2.  [I Wanna Dance
@@ -52,7 +52,7 @@ had without sticking to the most recent show. The *Best of* series could be seen
         3.  Birthday Spectacular
         4.  [Hit the Road Jack](https://en.wikipedia.org/wiki/Hit_the_Road_Jack)
     2.  Cyberstar Intro
-6.**Segment 3**
+6. **Segment 3**
     1.  Tune Machine 1
         1.  [Our
             House](https://en.wikipedia.org/wiki/Our_House_(Crosby,_Stills,_Nash_%26_Young_song))
@@ -61,14 +61,14 @@ had without sticking to the most recent show. The *Best of* series could be seen
             1.  # [Louie Louie](https://en.wikipedia.org/wiki/The_Kingsmen_In_Person)
             2.  # [Hang on Sloopy](https://en.wikipedia.org/wiki/Hang_On_Sloopy)
             3.  # [Doo Wah Diddy](https://en.wikipedia.org/wiki/Do_Wah_Diddy_Diddy)
-7.**Intermission 4**
+7. **Intermission 4**
     1.  8 Minute Countdown
         1.  [Sussudio](https://en.wikipedia.org/wiki/Sussudio)
         2.  Birthday Spectacular
         3.  [Heatwave](https://en.wikipedia.org/wiki/Heat_Wave_(1963_song))
         4.  [Rock'n Me](https://en.wikipedia.org/wiki/Rock%27n_Me)
     2.  Cyberstar Intro
-8.**Segment 4**
+8. **Segment 4**
     1.  Tune Machine 2
         1.  [(Lime in the) Coconut](https://en.wikipedia.org/wiki/Coconut_(song))
         2.  Looney Fixes Tune Machine Skit

@@ -17,5 +17,5 @@ The tape was part of a diagnostic package also containing the Billy Bob Diagnost
 
 1.**'** Segment 1'''
     1.  *Beach Bear Diagnostics*
-2.**Segment 2**
+2. **Segment 2**
     1.  *Do You Love Me*

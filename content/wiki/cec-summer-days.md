@@ -12,18 +12,18 @@ To Do:
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  8 Minute Countdown
         1.  ?
         2.  Birthday Extravaganza
         3.  ?
         4.  ?
     2.  Cyberstar Intro
-2.**Segment 1**
+2. **Segment 1**
     1.  [I'm Bored (Parody of I'm Down)](https://en.wikipedia.org/wiki/I%27m_Down)
     2.  The Chuck E. Cheese Summertime Couch Potato Quiz Skit
     3.  [Get on Your Feet](https://en.wikipedia.org/wiki/Get_on_Your_Feet)
-3.**Intermission 2**
+3. **Intermission 2**
     1.  8 Minute Countdown
         1.  ?
         2.  Birthday Extravaganza
@@ -32,18 +32,18 @@ To Do:
     2.  It's Showtime!
 4.**Video 1**
     1.  ?
-5.**Intermission 3**
+5. **Intermission 3**
     1.  8 Minute Countdown
         1.  ?
         2.  Birthday Extravaganza
         3.  ?
         4.  ?
     2.  Cyberstar Intro
-6.**Segment 2**
+6. **Segment 2**
     1.  [Hot Fun in the Summertime](https://en.wikipedia.org/wiki/Hot_Fun_in_the_Summertime)
     2.  Get Up & Go Travel Skit
     3.  [Kokomo](https://en.wikipedia.org/wiki/Kokomo_(song))
-7.**Intermission 4**
+7. **Intermission 4**
     1.  8 Minute Countdown
         1.  ?
         2.  Birthday Extravaganza
@@ -52,7 +52,7 @@ To Do:
     2.  It's Showtime!
 8.**Video 2**
     1.  ?
-9.**Intermission 5**
+9. **Intermission 5**
     1.  8 Minute Countdown
         1.  ?
         2.  Birthday Extravaganza

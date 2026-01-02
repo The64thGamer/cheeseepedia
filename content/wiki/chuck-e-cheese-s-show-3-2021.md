@@ -15,31 +15,31 @@ This was created with conjunction with the Summer of Fun promotion and would pla
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Social Distancing Safety Message
     2.  Summer of Fun Bumper feat. Chuck E. & Jasper
     3.  KIDZ BOP Kids - 'Uptown Funk'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'Song of Summer'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Marshmello - 'Summer'
     2.  Ants Ants Ants - 'Blue'
     3.  Summer Fun Pass Promo
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - "Out of This World"
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Social Distancing Safety Message
     2.  Danny Weinkauf - 'Ice Cream'
     3.  KIDZ BOP Kids - 'I Love It'
-6.**Skit 3**
+6. **Skit 3**
     1.  Jasper T. Jowls - 'Dog Days of Summer'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Summer of Fun Bumper Feat. Chuck E. & Helen
     2.  Milo Manheim - 'We Own the summer'
     3.  Tails of Friendship with Jasper T. Jowls Episode 3 - 'Ronnie the Unicorn'
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese - 'Chuck E. Cheese is All About Fun!'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  The Whizpops - 'Sea Turtle'
     2.  KIDZ BOP Kids - 'Cake by The Ocean'
 10. **Skit 5**

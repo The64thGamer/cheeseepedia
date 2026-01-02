@@ -15,25 +15,25 @@ This was created to play from July 1st - August 31st 2014. This show features Si
 
 ## Show List:
 
-1.**Skit 1**
+1. **Skit 1**
     1.  Music Video - 'Friendship Never Ends' (Chuck E.)
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Sketch - 'Where's Steve Waters'
     2.  Sketch - Hard Hat Hank - 'Box'
     3.  Show Break 1 - 'Cats'
-3.**Skit 2**
+3. **Skit 2**
     1.  Music Video - 'Dare To Be You' (Helen)
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Sketch - 'A Joke From Pasqually'
-5.**Skit 3**
+5. **Skit 3**
     1.  Music Video - 'Rockin' Robot' (Chuck E.)
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Sketch - 'Steve Water Auditions'
-7.**Skit 4**
+7. **Skit 4**
     1.  Music Video - 'Arizona' (Jasper)
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Show Break 2 - 'City Time Lapse'
-9.**Skit 5**
+9. **Skit 5**
     1.  Music Video - 'Nobody Knows' (Munch)
 10. **Intermission 5**
     1.  Show Break 3 - 'Driving Through The City'

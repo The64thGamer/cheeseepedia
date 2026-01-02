@@ -15,27 +15,27 @@ downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/Septe
 
 ## Existing Show List:
 
-1.**Skit 1**
+1. **Skit 1**
     1.  Chuck E. Cheese - International Mouse Of Mystery
     2.  Introduction to Elvis Presley - 'Jailhouse Rock'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Elvis Presley - 'Jailhouse Rock'
-3.**Skit 2**
+3. **Skit 2**
     1.  Introduction to Bill Haley & The Comets - 'Rock Around The Clock'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Bill Haley & The Comets - 'Rock Around The Clock'
-5.**Skit 3**
+5. **Skit 3**
     1.  The Band is Taking a Break/Drink some Coca Cola
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Studio C Bumper
     2.  I Like This Game
     3.  Coca Cola Spot 1
     4.  Announcer
-7.**Skit 4**
+7. **Skit 4**
     1.  Introduction to Mary Chapin Carpenter - 'Down At The Twist & Shout'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Mary Chapin Carpenter - 'Down At The Twist & Shout'
-9.**Skit 5**
+9. **Skit 5**
     1.  Introduction to Muppets - 'Hey A Movie!'
 10. **Intermission 5**
     1.  Muppets - 'Hey A Movie!'

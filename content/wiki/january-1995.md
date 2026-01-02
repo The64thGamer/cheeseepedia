@@ -21,7 +21,7 @@ categories = ["Chuck E. Cheese's"]
     2.  Game Plan
     3.  Secret Handshake
     4.  'Go Chuck E. Go'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  The Pagemaster Trailer
     2.  Did You Know?
     3.  VJ Spot
@@ -55,7 +55,7 @@ categories = ["Chuck E. Cheese's"]
     2.  The Flintstones - 'Bedrock Twist'
 9.   **Segment 5**
     1.  The Chuck E. Cheese Workout
-10.**Intermission 5**
+10. **Intermission 5**
     1.  Goof Troop - 'Gotta Be Gettin' Goofy'
     2.  America's Funniest Home Videos
     3.  Garfield

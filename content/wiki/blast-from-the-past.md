@@ -15,34 +15,34 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  CEC TV '94 ID
     2.   VJ Spot
-2.**Segment 1**
+2. **Segment 1**
     1.  'Route 66'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Name That Cheese
     2.  Pondwatch
     3.  Coke Spot
     4.  The Ballgame
     5.   VJ Spot
-4.**Segment 2**
+4. **Segment 2**
     1.  'Wooly Bully'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Will Frye The Nutrition Guy
     2.  CEC TV News - 'Particle Travel'
     3.  Larry The Technician
     4.   VJ Spot
-6.**Segment 3**
+6. **Segment 3**
     1.  'Turn The Beat Around'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Director's Cut
     2.  CEC TV '94 ID
     3.   VJ Spot
-8.**Segment 4**
+8. **Segment 4**
     1.  'Mountain Music'
     2.  'BINGO'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  CEC Promo
     2.  Coke Spot
     3.  CEC TV '94 ID

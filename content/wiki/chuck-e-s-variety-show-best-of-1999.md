@@ -17,27 +17,27 @@ This show is primarily composed of material from 1997 to 1999, with a few interm
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Chuck E.'s Dance Party'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Will Frye The Nutrition Guy
-3.**Segment 2**
+3. **Segment 2**
     1.  'Dancin' and Singin''
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Laugh Tracks
     2.  The Announcer
     3.  CEC TV ID - 'Cows'
-5.**Segment 3**
+5. **Segment 3**
     1.  'Disco Chuck' (Parody of ['Disco Duck'](https://en.wikipedia.org/wiki/Disco_Duck))
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Singing Cowboy
-7.**Segment 4**
+7. **Segment 4**
     1.  'Safety Pin' (Parody of ['The Safety Dance'](https://en.wikipedia.org/wiki/The_Safety_Dance))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  A Day At The Movies
     2.  Drawing Chuck E.
     3.  CEC TV ID - 'Cows'
-9.**Segment 5**
+9. **Segment 5**
     1.  ['Rockin' Robin'](https://en.wikipedia.org/wiki/Rockin%27_Robin_(song))
 10. **Intermission 5**
     1.  Chuck E.'s Big Bowling Date

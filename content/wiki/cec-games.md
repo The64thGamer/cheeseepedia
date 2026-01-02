@@ -20,7 +20,7 @@ This is fourth summer show by Chuck E. Cheese's, the previous summer themed show
 
 ## Show List
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  8 Minute Countdown
         1.  [Bo Diddley](https://en.wikipedia.org/wiki/Bo_Diddley_(Bo_Diddley_song))
         2.  [Daydream](https://en.wikipedia.org/wiki/Daydream_(The_Lovin%27_Spoonful_song))
@@ -32,7 +32,7 @@ This is fourth summer show by Chuck E. Cheese's, the previous summer themed show
 2.   **Segment 1**
     1.  Summer Fun
     2.  Skip Rope Scat
-3.**Intermission 2**
+3. **Intermission 2**
     1.  8 Minute Countdown
         1.  [Real Love](https://en.wikipedia.org/wiki/Real_Love_(Jody_Watley_song))
         2.  Birthday Extravaganza
@@ -42,7 +42,7 @@ This is fourth summer show by Chuck E. Cheese's, the previous summer themed show
 4.   **Segment 2**
     1.  Pasqually's Polka
     2.  Be A Sport
-5.**Intermission 3**
+5. **Intermission 3**
     1.  8 Minute Countdown
         1.  [The Heart of Rock and Roll (Album Version)](https://en.wikipedia.org/wiki/The_Heart_of_Rock_%26_Roll)
         2.  Birthday Extravaganza
@@ -52,7 +52,7 @@ This is fourth summer show by Chuck E. Cheese's, the previous summer themed show
 6.   **Segment 3**
     1.  Home On The Range
     2.  Having Fun With You
-7.**Intermission 4**
+7. **Intermission 4**
     1.  8 Minute Countdown
         1.  [I Get Around](https://en.wikipedia.org/wiki/I_Get_Around)
         2.  [Music! Music! Music!](https://en.wikipedia.org/wiki/Music!_Music!_Music!)
@@ -63,7 +63,7 @@ This is fourth summer show by Chuck E. Cheese's, the previous summer themed show
 8.   **Segment 1**
     1.  Summer Fun
     2.  Skip Rope Scat
-9.**Intermission 5**
+9. **Intermission 5**
     1.  8 Minute Countdown
         1.  [Raindrops Keep Falling on my Head](https://en.wikipedia.org/wiki/Raindrops_Keep_Fallin%27_on_My_Head)
         2.  [You Might Think](https://en.wikipedia.org/wiki/You_Might_Think)
@@ -71,7 +71,7 @@ This is fourth summer show by Chuck E. Cheese's, the previous summer themed show
         4.  [Invisible Touch](https://en.wikipedia.org/wiki/Invisible_Touch)
     2.  Helen Henny's Hollywood - Honey I Shrunk The Keds
     3.  CEC-TV Intro
-10.**Segment 2**
+10. **Segment 2**
     1.  Pasqually's Polka
     2.  Be A Sport
 11. **Intermission 6**
@@ -82,7 +82,7 @@ This is fourth summer show by Chuck E. Cheese's, the previous summer themed show
         4.  [Don't Be Cruel](https://en.wikipedia.org/wiki/Don%27t_Be_Cruel)
     2.  CEC TV News - Scoop
     3.  CEC-TV Intro
-12.**Segment 3**
+12. **Segment 3**
     1.  Home On The Range
     2.  Having Fun With You
 

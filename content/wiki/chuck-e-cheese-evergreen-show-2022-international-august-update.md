@@ -13,29 +13,29 @@ This show didn't have any files compatible with the Pro Commanders. Also missing
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Safety Message
     2.  KIDZ Bop Kids - 'Telepatía'
-2.**Skit 1**
+2. **Skit 1**
     1.  Helen Henny - 'Game On!'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Kidloom - 'A Funny Band'
     2.  Tails of Friendship with Jasper T. Jowls - Episode #1
     3.  KIDZ Bop Kids - 'Reggatón Lento'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Pasqually - 'Keep Drummin''
-5.**Intermission 2**
+5. **Intermission 2**
     1.  Safety Message
     2.  Dany Weinkauf - 'Tricycle'
     3.  Kidz Bop Kids - 'Levitating'
-6.**Skit 3**
+6. **Skit 3**
     1.  DJ Munch - 'DJ Munch Mashup'
-7.**Intermission 3**
+7. **Intermission 3**
     1.  Juicebox Jukebox - 'Shh, Apes!'
     2.  One Republic - 'Recuse Me'
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese - 'Rockin' Robot'
-9.**Intermission 4**
+9. **Intermission 4**
     1.  Safety Message
     2.  Danny Weinkauf - 'Marsupial'
     3.  Kidz Bop - 'Drivers License'

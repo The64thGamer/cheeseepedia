@@ -17,34 +17,34 @@ categories = ["Chuck E. Cheese's"]
 
 ## Existing Show List
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['Rhythm is Gonna Get You'](https://en.wikipedia.org/wiki/Rhythm_Is_Gonna_Get_You)
     2.  'Cheese Pizza is Pure Delight' (Parody of ['Cheeseburger in Paradise'](https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise))
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Eddie Coker - 'The Morning Dance'
     2.  Wear Your Helmet Spot
     3.  CEC TV ID - 'Abstract'
     4.  Store Intro - 'Oklahoma City (Walker), CEC' 
-3.**Segment 2**
+3. **Segment 2**
     1.  ['Down Under'](https://en.wikipedia.org/wiki/Down_Under_(song))
     2.  'We Are The Same'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  VeggieTales - 'Dance of the Cucumber'
     2.  Coke Spot
     3.  CEC TV ID - 'Abstract'
     4.  Store Intro - 'Oklahoma City (Walker), CEC' 
-5.**Segment 3**
+5. **Segment 3**
     1.  European Medley
     2.  ['The Lion Sleeps Tonight'](https://en.wikipedia.org/wiki/The_Lion_Sleeps_Tonight)
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Eddie Coker - 'Say Hello'
     2.  CEC TV ID - 'Abstract'
     3.  Store Intro - 'Oklahoma City (Walker), CEC' 
-7.**Segment 4**
+7. **Segment 4**
     1.  'Boat of Love'
     2.  'We Sail the Ocean Blue'
     3.  'We All Love Music'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  VeggieTales - 'The Yodeling Veterinarian of the Alps'
     2.  Chuck E. Cheese in the Galaxy 5000 Trailer
     3.  Drawing Chuck E.
@@ -52,34 +52,34 @@ categories = ["Chuck E. Cheese's"]
 
 ## Studio C Show List
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['Rhythm is Gonna Get You'](https://en.wikipedia.org/wiki/Rhythm_Is_Gonna_Get_You)
     2.  'Cheese Pizza is Pure Delight' (Parody of ['Cheeseburger in Paradise'](https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise))
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Eddie Coker - 'The Morning Dance'
     2.  Wear Your Helmet Spot
     3.  Drawing Chuck E.
     4.  CEC TV ID - 'Abstract'
-3.**Segment 2**
+3. **Segment 2**
     1.  ['Down Under'](https://en.wikipedia.org/wiki/Down_Under_(song))
     2.  'We Are The Same'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  VeggieTales - 'Dance of the Cucumber'
     2.  Coke Spot
     3.  Baking With Betty - 'Vegetable Medley'
     4.  CEC TV ID - 'Abstract'
-5.**Segment 3**
+5. **Segment 3**
     1.  European Medley
     2.  ['The Lion Sleeps Tonight'](https://en.wikipedia.org/wiki/The_Lion_Sleeps_Tonight)
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Eddie Coker - 'Say Hello'
     2.  Clowns Making a Sandwich
     3.  CEC TV ID - 'Abstract'
-7.**Segment 4**
+7. **Segment 4**
     1.  'Boat of Love'
     2.  'We Sail the Ocean Blue'
     3.  'We All Love Music'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  VeggieTales - 'The Yodeling Veterinarian of the Alps'
     2.  Chuck E. Cheese in the Galaxy 5000 Trailer
     3.  CEC TV ID - 'Abstract'

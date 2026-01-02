@@ -16,38 +16,38 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['Hourglass'](https://en.wikipedia.org/wiki/Hourglass_(Squeeze_song))
     2.  'Let's Dance'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Breakdance'
     2.  Monsters Vs Aliens DVD Promo
     3.  PBS Kids Spot
     4.  Juggling
     5.  Coke Spot (Existing Stages)
     6.  CEC TV ID - 'Space Kids'
-3.**Segment 2**
+3. **Segment 2**
     1.  'Good To Be Alive'
     2.  ['Someday, Someway'](https://en.wikipedia.org/wiki/Someday,_Someway)
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'NBC Chime'
     2.  Sing-along Guys - 'Itsy Bitsy Spider'
     3.  Amphicar
     4.  Bday Promo
     5.  CEC TV ID - 'Pizza Fan'
-5.**Segment 3**
+5. **Segment 3**
     1.  'Toppings'
     2.  'Fall For Everyone'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Monster Skateboard'
     2.  CEC TV Artist Spotlight: Ziggy Marley - 'Family Time'
     3.  Monsters Vs Aliens DVD Promo
     4.  Coke Spot
     5.  CEC TV ID - 'Sports'
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Don't Let Your Feet Touch Ground'](https://en.wikipedia.org/wiki/Ash_Koley)
     2.  'I'm Gonna Dream'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Astronaut Chuck E.'
     2.  NASA Footage
     3.  Baking With Betty - 'Mad Cows'

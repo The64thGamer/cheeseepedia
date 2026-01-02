@@ -15,13 +15,13 @@ This was created to play during 'Mr. Munch's Glow Party' Promotion from Septembe
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Social Distancing Message & Face Masks Promo
     2.  DJ Munch Halloween Spot 1
     3.  KIDZ BOP Kids - 'This is Halloween'
-2.**Skit 1**
+2. **Skit 1**
     1.  CEC Music Video - 'Nobody There'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Juicebox Jukebox - 'Happy Halloween'
     2.  Jonas Blue - 'I See Love'
     3.  CEC Silly Song - 'Ballerina Ghost'
@@ -29,24 +29,24 @@ This was created to play during 'Mr. Munch's Glow Party' Promotion from Septembe
     5.  Halloween Menu Items Promo
     6.  DJ Munch Halloween Spot 2
     7.  KIDZ BOP Kids - 'Monster Mash'
-4.**Skit 2**
+4. **Skit 2**
     1.  CEC Music Video - 'Sammy the Skateboarding Skeleton'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Caspar Babypants - 'Creatures Under My Bed'
     2.  KIDZ BOP Kids - 'Disturbia'
     3.  CEC Short - Musing with Mr. Munch 'Halloween'
     4.  Social Distancing Message & Face Masks Promo
     5.  Sara Lovell - 'The Skeleton Band'
     6.  KIDZ BOP Kids - 'Ghostbusters'
-6.**Skit 3**
+6. **Skit 3**
     1.  CEC Music Video - 'Be Yourself'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  DJ Munch Halloween Spot 3
     2.  Migel - 'Remember Me (Duo) ft. Natalia Lafourcade'
     3.  CEC Short - 'Halloween Jokes from Pasqually'
-8.**Skit 4**
+8. **Skit 4**
     1.  CEC Music Video - 'I Didn't Need to be Afraid'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Social Distancing Message
     2.  Halloween Menu Items Promo
     3.  CEC Silly Songs - 'Pumpkins in my Pockets'
@@ -54,32 +54,32 @@ This was created to play during 'Mr. Munch's Glow Party' Promotion from Septembe
 
 ## Mr. Munch's Glow Party Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  DJ Munch Spot 1
     2.  KIDZ BOP Kids - '2020 Vision'
     3.  KIDZ BOP Kids - 'Disturbia'
     4.  KIDZ BOP Kids - 'I Like it Like That'
-2.**Intermission 2**
+2. **Intermission 2**
     1.  Katy Perry - 'Smile'
     2.  Danny Ardi - 'Let Go'
     3.  Daft Punk - 'Around the World'
-3.**Intermission 3**
+3. **Intermission 3**
     1.  Social Distancing Message
     2.  Halloween Menu Items Promo
     3.  DJ Munch Spot #2
     4.  KIDZ BOP Kids - 'This is Halloween'
     5.  KIDZ BOP Kids - 'Thunder'
     6.  KIDZ BOP Kids - 'Havanna'
-4.**Intermission 4**
+4. **Intermission 4**
     1.  Jax Jones, Years & Years - 'Play'
     2.  MOTi - 'Just Don't Know It Yet'
-5.**Intermission 5**
+5. **Intermission 5**
     1.  Social Distancing Message & Face Mask Promo
     2.  DJ Munch Spot #3
     3.  KIDZ BOP Kids - 'Ghostbusters'
     4.  KIDZ BOP Kids - 'Life of the Party'
     5.  KIDZ BOP Kids - 'Monster Mash'
-6.**Intermission 6**
+6. **Intermission 6**
     1.  Post Malone - 'Sunflower'
     2.  Louis The Child with Max - 'Dear Sense'
     3.  Imagine Dragon - 'Zero'

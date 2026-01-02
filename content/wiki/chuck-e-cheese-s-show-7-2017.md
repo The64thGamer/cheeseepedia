@@ -15,34 +15,34 @@ This was created to play from November 1, 2017 - November, 19 2017. This show fe
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  CEC Sketch - 'Thanksgiving'
     2.  Carly Rae Jepsen - 'Cut To The Feeling'
     3.  CEC Fundraiser Spot
-2.**Skit 1**
+2. **Skit 1**
     1.  Helen Henny - 'Dream Big'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  My Little Pony - 'The Perfect Pear'
     2.  Spencer Ludwig - 'Diggy'
     3.  Splash & Bubbles - 'Hangin' With Friends'
-4.**Skit 2**
+4. **Skit 2**
     1.  Mr. Munch - 'Nobody Knows'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Universal Kids - 'The Noise'
     2.  Echosmith - 'Right Now'
     3.  Angry Birds - 'Change'
-6.**Skit 3**
+6. **Skit 3**
     1.  Munch & Jasper - 'If Everyone We're Chuck E.' (USA Cooperate Locations Only)
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Saving Forever - 'Million Ways'
     2.  CEC Buffet Spot
     3.  Keith Urban feat. Carrie Underwood - 'The Fighter'
     4.  Walk The Moon - 'One Foot'
     5.  CEC Mac Cheesy Spot
     6.  Winx - 'Hands Off Kiko'
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese & Friends - 'Every Boy, Every Girl'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Weekday Express Spot
     2.  Alicia Keys - 'Blended Family'
     3.  Universal Kids - 'Top Chef Jr'

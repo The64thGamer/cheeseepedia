@@ -20,10 +20,10 @@ An "Appearing Now" insert card containing most of the segments of the show would
 
 ## Segment List
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Monkeyman Chewing Tobacco Skit'
     2.  'Redneck Friend'
-2.**Segment 2**
+2. **Segment 2**
     1.  'Country Bird Songs Skit'
     2.  'Country Medley'
         1.  'Come On In'
@@ -34,22 +34,22 @@ An "Appearing Now" insert card containing most of the segments of the show would
         6.  'Proud To Be A Rebel'
         7.  'Act Naturally'
         8.  'Mountain Music'
-3.**Segment 3**
+3. **Segment 3**
     1.  'Jackson Intro Skit'
     2.  'Jackson'
-4.**Segment 4**
+4. **Segment 4**
     1.  'You Never Even Call Me By My Name'
-5.**Segment 5**
+5. **Segment 5**
     1.  'Dixie Down Intro Skit'
     2.  'The Night They Drove Old Dixie Down'
-6.**Segment 6**
+6. **Segment 6**
     1.  'Presidential Skit'
     2.  'Guitarzan'
-7.**Segment 7**
+7. **Segment 7**
     1.  'Desperado'
-8.**Segment 8**
+8. **Segment 8**
     1.  'Stranded In The Jungle'
-9.**Segment 9**
+9. **Segment 9**
     1.  'Swingin Intro Skit'
     2.  'Swingin'
 10. **Segment 10**

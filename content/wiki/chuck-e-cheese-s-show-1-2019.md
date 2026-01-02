@@ -14,34 +14,34 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Janet Jackson - 'Made For Now'
     2.  American Ninja Warriors Junior
-2.**Skit 1**
+2. **Skit 1**
     1.  Pasqually - 'loppinsboopinfakindoopinfloppenloopenfunnin's Day'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Jungle Book
     2.  Ahmad Abdul - 'Coming Home'
     3.  Show Break 1 - 'Night City'
     4.  Fun Facts with Chuck E. - 'Vacuum'
     5.  Max & Harvey - 'Trade Hearts'
-4.**Skit 2**
+4. **Skit 2**
     1.  Jasper T. Jowls - 'Tail of Jasper T.'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Barbie Dreamtopia
     2.  Alessia Cara - 'Trust My Lonely'
     3.  Show Break 2 - 'Red & Rex'
     4.  Imagine Dragons - 'Zero'
     5.  Nina's World
-6.**Skit 3**
+6. **Skit 3**
     1.  Chuck E. Cheese - 'Lend a Helping Hand'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Mamma Mia! Here We Go Again - 'Dancing Queen'
     2.  Pac Man
     3.  Show Break 3 - 'National Parks'
-8.**Skit 4**
+8. **Skit 4**
     1.  Helen Henny - 'Nice Enough'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Niall Horan - 'Finally Free'
     2.  Jokes from Pasqually - 'Early Bird'
     3.  Maddie Poppe - 'Going Going Gone'

@@ -14,28 +14,28 @@ showtapeFormats = ["Cyberamics DVD"]
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  KidzBop Kids - Santa Claus Is Coming To Town
     2.  The Ronettes - Sleigh Ride
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Bella B - Holiday Fiesta
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Davees Digs - Puppy For Hanukkah
     2.  KidzBop Kids - Deck The Halls
-4.**Skit 2**
+4. **Skit 2**
     1.  Pasqually The Chef - What Do You Get A Sasquatch For Christmas?
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Holiday Jokes From Pasqually
     2.  Brenda Lee - Rockin' Around The Christmas Three
     3.  Backstreet Boys - Last Christmas
-6.**Skit 4**
+6. **Skit 4**
     1.  Chuck E. & Friends - The Holiday Party
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Ella Fitzgerald - Frosty The Snowman
     2.  John Legend - You Deserve It All
-8.**Skit 5**
+8. **Skit 5**
     1.  Chuck E. & Helen - Merry Christmas Time
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Disney Channel Stars - Put The Happy In The Holidays
     2.  The Temptations - Rudolph The Red Nose Reindeer
 10. **Skit 6**

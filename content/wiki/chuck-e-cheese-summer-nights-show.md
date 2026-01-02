@@ -21,15 +21,15 @@ This was created in conjunction with the Summer Nights promotion. This runs from
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  DJ Munch & KIDZ BOP Summer Nights Spot 1
     2.  KIDZ BOP Kids - "Dance Monkey"
     3.  Safety Message
     4.  Summer Food and Drink Combos
     5.  Chuck E. Cheese YouTube & Music Streaming
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese & Friends - "Song of Summer'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Summer of Fun Desserts
     2.  KIDZ BOP Kids - "Shivers"
     3.  KIDZ BOP Kids - "ABC"
@@ -41,18 +41,18 @@ This was created in conjunction with the Summer Nights promotion. This runs from
     9.  Dippin' Dots
     10. DJ Munch & KIDZ BOP Summer Nights Spot 2
     11. KIDZ BOP Kids - "We Don't Talk About Bruno"
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese & Friends - "Join the Party"
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Summer Fun Pass
     2.  KIDZ BOP Kids - "Preaches"
     3.  KIDZ BOP Kids - "Blinding Lights"
     4.  KIDZ BOP Kids - "Levitating"
     5.  KIDZ BOP Kids - "Heat Waves"
     6.  KIDZ BOP Live 2022
-6.**Skit 3**
+6. **Skit 3**
     1.  Helen Henny - "Disco Dancing Dinosaur Party"
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Dippin' Dots
     2.  Summer Food and Drink Combos
     3.  Chuck E. Cheese YouTube & Music Streaming
@@ -61,7 +61,7 @@ This was created in conjunction with the Summer Nights promotion. This runs from
     6.  KIDZ BOP Kids - "Telepatia"
     7.  KIDZ BOP Kids - "Better Days"
     8.  KIDZ BOP Live 2022
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese & Friends - 'Out of This World'
 
 ## Lives:

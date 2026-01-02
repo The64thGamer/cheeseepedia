@@ -15,38 +15,38 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Ken Chuck E. Derby
     2.  Funimation: 'Santa Claus Bros.'
     3.  Countdown (1995 Holiday footage)
     4.  Holiday VJ Spot - Michael
-2.**Segment 1**
+2. **Segment 1**
     1.  'Deck the Halls
     2.  'Up On The Housetop'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Coke Spot
     2.  Larry The Technician - 'Decorating The Tree'
     3.  'Boar's Head Carol'
     4.  Countdown (Holiday Lights)
     5.  Holiday VJ Spot - Laura
-4.**Segment 2**
+4. **Segment 2**
     1.  'Jolly Old St. Nicholas'
     2.  'Oh Christmas Tree'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Eddie Coker - 'Happy Holidays'
     2.  Funimation: 'A Wobots Christmas'
     3.  Countdown ('Holly Jolly Christmas' footage)
     4.  Holiday VJ Spot - Evan
-6.**Segment 3**
+6. **Segment 3**
     1.  'Jingle Bells'
     2.  'I Heard The Bells'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Ken Chuck E. Derby
     2.  Coke Spot
     3.  Funimation: 'Connie The Cow'
     4.  Countdown ('Silver Bells' footage / Holiday Party backgrounds)
     5.  Holiday VJ Spot - Laura
-8.**Segment 4**
+8. **Segment 4**
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 

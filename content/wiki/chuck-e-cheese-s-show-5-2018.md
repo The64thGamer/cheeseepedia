@@ -21,36 +21,36 @@ This was created to play from July 30, 2018 - September 30, 2018. Featuring 4 so
 
 ## Show List
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Kidz Bop - 'Finesse'
     2.  Floogals - 'Puppet Theater Part 1'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese - 'Lend a Helping Hand'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Andrew McMahon - 'So Close'
     2.  Jokes From Pasqually - 'Anchor'
     3.  Show Break 1 - 'National Parks Time Lapse'
     4.  My Little Pony - 'Fundamentals of Magic'
     5.  Tritonal - 'Out of My Mind feat. Riley Clemmons'
     6.  Kids Click - 'Miraculous Tales of Ladybug & Cat Noir'
-4.**Skit 2**
+4. **Skit 2**
     1.  Jasper T. Jowls & Chuck E. Cheese - 'Jasper's Country Classic'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Lisa Loeb - 'Ooh Child'
     2.  Niall Horan & Maren Morris - 'Seeing Blind'
     3.  Show Break 2 - 'Red & Rex'
     4.  Ariana Grande - 'No Tears Left To Cry'
     5.  Musing with Mr. Munch Episode 4
     6.  Floogals - 'Puppet Theater Part 2'
-6.**Skit 3**
+6. **Skit 3**
     1.  Pasqually & Armadillo Phil - 'Chuck E. World'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Jessica Sanchez - 'Stronger Together'
     2.  Fun Facts with Chuck E. - 'Play'
     3.  Charlie Freaks Out - 'Broccoli'
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. & Friends - 'Because We're Friends'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Britt Nicole - 'Gold'
     2.  Small Foot Trailer
     3.  Show Break 3 - 'Night City Time Lapse'

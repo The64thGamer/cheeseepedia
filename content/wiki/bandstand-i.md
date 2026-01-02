@@ -18,33 +18,33 @@ categories = ["Pizza Time Theatre"]
 
 Disclaimer: The segment list is currently incomplete, as it is unclear what the original order of special and birthday tapes was within the original showtape reel.
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Be Good Johnny (Chuck E.)'
     2.  'Theme to Fame'
     3.  'Whip It'
     4.  'Rock This Town'
-1.**Segment 2**
+1. **Segment 2**
     1.  'Those Oldies but Goodies'
     2.  'At the Hop'
     3.  'I'm Walking'
     4.  'Get a Job'
     5.  'Sha Boom'
-1.**Segment 3**
+1. **Segment 3**
     1.  'Henry the Eighth'
     2.  'Satisfaction'
     3.  'Bus Stop'
     4.  'Jumpin' Jack Flash'
-1.**Segment 4**
+1. **Segment 4**
     1.  'I Gotcha'
     2.  'Respect'
     3.  'Stop in the Name of Love'
     4.  'Soul Man'
     5.  'Proud Mary'
-1.**Segment 5**
+1. **Segment 5**
     1.  'G.T.O.'
     2.  'Custom Machine'
     3.  'Born to Be Wild'
-1.**Segment 6**
+1. **Segment 6**
     1.  'The Sound of Philadelphia'
     2.  'Rock the Boat'
     3.  'Higher and Higher'

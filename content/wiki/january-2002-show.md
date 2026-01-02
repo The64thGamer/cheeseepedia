@@ -19,14 +19,14 @@ categories = ["Chuck E. Cheese's"]
 1.   **Segment 1**
     1.   ['Walking On Sunshine'](https://en.wikipedia.org/wiki/Walking_on_Sunshine_(Katrina_and_the_Waves_song))
     2.   ['Dancing In The Street'](https://en.wikipedia.org/wiki/Dancing_in_the_Street)
-2.**Intermission 1**
+2. **Intermission 1**
     1.   Pasqually's Polka Minute
     2.  VeggieTales - 'The Song Of The Cebu'
     3.  CEC TV ID - 'Marx Bros'
 3.   **Segment 2**
     1.   ['La Bamba'](https://en.wikipedia.org/wiki/La_Bamba_(song))
     2.   ['Last Train To Clarksville'](https://en.wikipedia.org/wiki/Last_Train_to_Clarksville)
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Couch'
     2.  Eddie Coker - 'Life Is What You Make It'
     3.  The Tube Explorer
@@ -34,14 +34,14 @@ categories = ["Chuck E. Cheese's"]
 5.   **Segment 3**
     1.   ['Bring The House Down'](https://en.wikipedia.org/wiki/7_(S_Club_7_album))
     2.   'Dinner' (Parody of ['Thriller'](https://en.wikipedia.org/wiki/Thriller_(song)))
-6.**Intermission 3**
+6. **Intermission 3**
     1.   Will Frye The Nutrition Guy
     2.   Trout Fishing In America: 'Pico De Gallo'
     3.   CEC TV ID - 'Rocket Racer'
 7.   **Segment 4**
     1.   ['Let Me Be There'](https://en.wikipedia.org/wiki/Let_Me_Be_There)
     2.   ['On The Road Again'](https://en.wikipedia.org/wiki/On_the_Road_Again_(Willie_Nelson_song))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Cow Abduction'
     2.  VeggieTales - 'The Pirates Who Don't Do Anything'
     3.   Monkey Ninjas - Episode 1

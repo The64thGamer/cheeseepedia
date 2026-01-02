@@ -17,15 +17,15 @@ categories = ["Chuck E. Cheese's"]
 
 **Show plays in full twice on the tape**
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  3-Minute Countdown
     2.  'Birthday Star' (Walk-In)
     3.  'Holiday Cheer'
     4.  CEC TV '93 ID
-2.**Segment 1**
+2. **Segment 1**
     1.  'Santa Claus Is Coming To Town'
     2.  'Rudolph The Red-Nosed Reindeer'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Manheim Steamroller - 'Deck The Halls'
     2.  'Birthday Star'
     3.  Helen Henny's Hollywood - 'Rudolph'
@@ -34,10 +34,10 @@ categories = ["Chuck E. Cheese's"]
     6.  'Birthday Star' (Walk-In)
     7.  3-Minute Countdown
     8.  Geography Rap - 'North Pole'
-4.**Segment 2**
+4. **Segment 2**
     1.  'Here We Come A Caroling'
     2.  'Silver Bells'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Ken Chuck E. Derby Announcement 1
     2.  'Christmas Countdown'
     3.  'Birthday Star'
@@ -47,10 +47,10 @@ categories = ["Chuck E. Cheese's"]
     7.  3-Minute Countdown
     8.  VJ Spot
     9. 'Deck The Halls / O Christmas Tree / We Wish You A Merry Christmas'
-6.**Segment 3**
+6. **Segment 3**
     1.  'Share The Joy'
     2.  'Rockin' Around The Christmas Tree'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Manheim Steamroller - 'Little Drummer Boy'
     2.  'Birthday Star'
     3.  CEC TV News - 'Holiday Special'

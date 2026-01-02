@@ -26,17 +26,17 @@ None of the showtape songs were edited to fix character names, so characters are
 During the intro skits exclusive to the tape, the characters comment on the Okefenokee Swamp Park and its attractions, giving guests times for them alongside tips for attending. These intros immediately transition to a selection of previously recorded songs with no mention or buildup to what will be performed.
 |-|Segment List=
 
-1.**Segment 1**
+1. **Segment 1**
     1.  Intro Skit 1
     2.  Audubon Zoo
     3.  Friends In Low Places
     4.  Rocky Top
-2.**Segment 2**
+2. **Segment 2**
     1.  Intro Skit 2
     2.  Sixteen Tons
     3.  Let's Go To Vegas
     4.  Thank God I'm A Country Bear
-3.**Segment 3**
+3. **Segment 3**
     1.  Intro Skit 3
     2.  Lion Sleeps Tonight
     3.  Grandma's Feather Bed
@@ -44,12 +44,12 @@ During the intro skits exclusive to the tape, the characters comment on the Okef
         1.  Come On In
         2.  Heaven's Just a Sin Away
         3.  Good Hearted Woman
-4.**Segment 4**
+4. **Segment 4**
     1.  Intro Skit 4
     2.  Swingin'
     3.  Viva Las Vegas
     4.  Achy Breaky Heart
-5.**Segment 5**
+5. **Segment 5**
     1.  Beatles Birthday
 
 |-|Transcriptions=

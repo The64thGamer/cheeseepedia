@@ -17,30 +17,30 @@ This show featured five segments, each themed around a different decade from the
 
 ## Existing Stages Show List:
 
-1.**Segment 1 (1950s)**
+1. **Segment 1 (1950s)**
     1.  ['Rockin' Robin'](https://en.wikipedia.org/wiki/Rockin%27_Robin_(song))
     2.  ['Yakety Yak'](https://en.wikipedia.org/wiki/Yakety_Yak)
-2.**Intermission 1 (1950s)**
+2. **Intermission 1 (1950s)**
     1.  [Frank Sinatra - 'I've Got A Crush On You'](https://en.wikipedia.org/wiki/I%27ve_Got_a_Crush_on_You)
     2.  [Count Basie & His Orchestra - 'One O'Clock Jump'](https://en.wikipedia.org/wiki/One_O%27Clock_Jump)
     3.  Station Wagon Of The Future
-3.**Segment 2 (1960s)**
+3. **Segment 2 (1960s)**
     1.  Tokens To Ride (Parody of ['Ticket To Ride'](https://en.wikipedia.org/wiki/Ticket_to_Ride_(song)))
     2.  ['Stay'](https://en.wikipedia.org/wiki/Stay_(Maurice_Williams_song))
-4.**Intermission 2 (1960s)**
+4. **Intermission 2 (1960s)**
     1.  [The Temptations - 'My Girl'](https://en.wikipedia.org/wiki/My_Girl_(The_Temptations_song))
     2.  Beatles In Dutch
-5.**Segment 3 (1970s)**
+5. **Segment 3 (1970s)**
     1.  Disco Chuck (Parody of ['Disco Duck'](https://en.wikipedia.org/wiki/Disco_Duck))
     2.  ['Knock On Wood'](https://en.wikipedia.org/wiki/Knock_on_Wood_(Eddie_Floyd_song))
-6.**Intermission 3 (1970s)**
+6. **Intermission 3 (1970s)**
     1.  [Earth, Wind & Fire - 'Getaway'](https://en.wikipedia.org/wiki/Getaway_(Earth,_Wind_%26_Fire_song))
-7.**Segment 4 (1980s)**
+7. **Segment 4 (1980s)**
     1.  ['Let's Hear It for the Boy'](https://en.wikipedia.org/wiki/Let%27s_Hear_It_for_the_Boy)
     2.  Safety Pin (Parody of ['The Safety Dance'](https://en.wikipedia.org/wiki/The_Safety_Dance))
-8.**Intermission 4 (1980s)**
+8. **Intermission 4 (1980s)**
     1.  [The Kinks - 'Come Dancing'](https://en.wikipedia.org/wiki/Come_Dancing_(song))
-9.**Segment 5 (1990s)**
+9. **Segment 5 (1990s)**
     1.  The Future Looks Fun To Me
 10. **Intermission 5 (1990s)**
     1.  [Garth Brooks - 'The River'](https://en.wikipedia.org/wiki/The_River_(Garth_Brooks_song))

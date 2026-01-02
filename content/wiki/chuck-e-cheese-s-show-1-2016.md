@@ -15,20 +15,20 @@ This was created to play from December 28th, 2015 - February 28th, 2016. This sh
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  5 Seconds of Summer - 'Hey Everybody'
     2.  CEC Promo - 'Rip It, Win It'
     3.  Caspar Babypants - 'My Flea Has Dogs'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese & Pasqually - 'Keep Drummin' (New)
-3.**Intermission 2**
+3. **Intermission 2**
     1.  LOCASH - 'I Love This Life'
     2.  Cartoon Network - We Bare Bears - 'Jean Jacket'
     3.  Meghan Trainor - 'Better When I'm Dancin'
     4.  Hotel Transylvania 2 Film Trailer
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - 'Giant Armadillo Named Phil'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Kidz Bop - 'Make Some Noise'
     2.  CEC Sketch - Helen Henny's Hollywood - 'Sean's Pen'
     3.  Cartoon Network - Clarence - 'Lunch'
@@ -36,15 +36,15 @@ This was created to play from December 28th, 2015 - February 28th, 2016. This sh
     5.  CEC Promo - 'Birthdays'
     6.  Sara Bareilles - 'Brave'
     7.  Cartoon Network - Steven Universe - 'Guitar Dad'
-6.**Skit 3**
+6. **Skit 3**
     1.  Chuck E. Cheese - 'Let's Have a Party' (New)
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Caspar Babypants - 'The Creatures Under My Bed'
     2.  CEC Promo - 'Fundraisers'
     3.  CEC Sketch - Jokes From Pasqually - 'Bees'
     4.  Daft Punk - 'Around The World'
     5.  Cartoon Network - Teen Titans Go - 'Robins Sandwich'
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese - 'Most Epic Mouse'
 
 ## Lives:

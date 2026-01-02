@@ -16,29 +16,29 @@ This show is made up of songs and intermissions reused from various 2000 - 2002 
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['Larger Than Life'](https://en.wikipedia.org/wiki/Larger_than_Life_(song))
-2.**Intermission 1**
+2. **Intermission 1**
     1.  The Tube Explorer
     2.  WFW Babysitter
     3.  CEC TV ID - 'Janitor'
-3.**Segment 2**
+3. **Segment 2**
     1.  'Chuck E.' (Parody of ['(You Drive Me) Crazy'](https://en.wikipedia.org/wiki/(You_Drive_Me)_Crazy))
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Cows'
     2.  Eddie Coker - 'I Believe'
-5.**Segment 3**
+5. **Segment 3**
     1.  'Paper or Plastic' (Parody of ['Paperback Writer'](https://en.wikipedia.org/wiki/Paperback_Writer))
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - Marx Bros
     2.  Baking With Betty - 'Trail Mix'
     3.  Super Jasper - 'Resist The Temptation'
     4.  CEC TV ID - 'Rocket'
-7.**Segment 4**
+7. **Segment 4**
     1.  'Drinkin' A Coca-Cola (Parody of ['Livin' La Vida Loca'](https://en.wikipedia.org/wiki/Livin%27_la_Vida_Loca))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Monkey Ninjas - Episode 2
-9.**Segment 5**
+9. **Segment 5**
     1.  'Jump'
 10. **Intermission 5**
     1.  CEC TV ID - 'Haircut'

@@ -17,10 +17,10 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Deck the Halls
     2.  'Up On The Housetop'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Rocket Racer'
     2.  Online Skee Ball Spot
     3.  Dinosaur Train - 'Dinosaurs In The Snow'
@@ -29,20 +29,20 @@ categories = ["Chuck E. Cheese's"]
     6.  Pocoyo
     7.  Chillout (1995 Holiday footage)
     8.  CEC TV ID - 'Snow Blizzard'
-3.**Segment 2**
+3. **Segment 2**
     1.  'Jolly Old St. Nicholas'
     2.  'Oh Christmas Tree'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'NBC Chime'
     2.  VeggieTales - 'The 8 Polish Foods of Christmas'
     3.  CEC TV Classic ID
     4.  CEC TV RETRO: CEC TV News - 'Holiday Edition'
     5.  Chillout ('Silver Bells' footage)
     6.  CEC TV ID - 'Space Kids'
-5.**Segment 3**
+5. **Segment 3**
     1.  'Jingle Bells'
     2.  'I Heard The Bells'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Cows'
     2.  Sid the Science Kid
     3.  Chuck E. Live! Spot
@@ -51,10 +51,10 @@ categories = ["Chuck E. Cheese's"]
     6.  Larry The Technician - 'Decorating The Tree'
     7.  Chillout ('Holly Jolly Christmas' footage)
     8.  CEC TV ID - 'Bubble Kids'
-7.**Segment 4**
+7. **Segment 4**
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Monster Skateboard'
     2.  Kung Fu Panda 2 DVD Promo
     3.  Fraggle Rock - 'The Bells of Fraggle Rock'

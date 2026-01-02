@@ -14,31 +14,31 @@ Show 2 2021 is the spring show released May 2021 featuring a variety of songs. T
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Safety Message
     2.  Ants Ants Ants - 'Pin Wheel'
     3.  KIDZ BOP Kids - 'Paradise'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'Chuck E.'s Middle Name'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  HiDino - 'King of Dinosaur'
     2.  BTS - 'Dynamite'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - 'Stay Positive'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Safety Message
     2.  Danny Weinkauf - 'Marsupial'
     3.  KIDZ BOP Kids - 'Better Now'
     4.  Silly Songs - Unicorn, Unicorn!
-6.**Skit 3**
+6. **Skit 3**
     1.  Helen Henny - 'Gamin' Time'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  HiDino - 'The Planets Song'
     2.  KIDZ BOP Kids - 'Mood'
     3.  Musing with Mr. Munch Ep8
-8.**Skit 4**
+8. **Skit 4**
     1.  Jasper T. Jowls - 'Tail of Jasper T.'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Safety Message
     2.  Danny Weinkauf - 'Tricycle'
     3.  One Republic - 'Recuse Me'

@@ -22,32 +22,32 @@ until that store received *Concept Unification*.**
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  6 Minute Countdown
         1.  [When I Dream of You](https://en.wikipedia.org/wiki/Paintings_in_My_Mind)
         2.  Birthday Spectacular
         3.  [Nick Of Time](https://en.wikipedia.org/wiki/Nick_of_Time_(song))
     2.  Cyberstar Intro
-2.**Segment 1**
+2. **Segment 1**
     1.  Friends
         1.  *[Why Can't We Be
             Friends?](https://en.wikipedia.org/wiki/Why_Can%27t_We_Be_Friends%3F)*
         2.  [The Name Game](https://en.wikipedia.org/wiki/The_Name_Game)
         3.  [You Can Call Me Al](https://en.wikipedia.org/wiki/You_Can_Call_Me_Al)
-3.**Intermission 2**
+3. **Intermission 2**
     1.  6 Minute Countdown
         1.  [You Can't Deny It](https://en.wikipedia.org/wiki/You_Can%27t_Deny_It)
         2.  Birthday Spectacular
         3.  [Do You Remember](https://en.wikipedia.org/wiki/Do_You_Remember%3F_(Phil_Collins_song))
     2.  Cyberstar Intro
-4.**Segment 2**
+4. **Segment 2**
     1.  Rock & Roll Tribute
         1.  [It's Still Rock and Roll
             to Me](https://en.wikipedia.org/wiki/It%27s_Still_Rock_and_Roll_to_Me)
         2.  [(I Can't Get No)
             Satisfaction](https://en.wikipedia.org/wiki/(I_Can%27t_Get_No)_Satisfaction)
         3.  [Hey Jude](https://en.wikipedia.org/wiki/Hey_Jude)
-5.**Intermission 3**
+5. **Intermission 3**
     1.  6 Minute Countdown
         1.  [Hold On](https://en.wikipedia.org/wiki/Hold_On_(Wilson_Phillips_song))
         2.  Birthday Spectacular
@@ -57,16 +57,16 @@ until that store received *Concept Unification*.**
     1.  [CGI Animated Graphics](https://en.wikipedia.org/wiki/Odyssey_Productions)
         1.  Cosmic Zoom
         2.  Metafable
-7.**Intermission 4**
+7. **Intermission 4**
     1.  6 Minute Countdown
         1.  [Wouldn't
             Change a Thing](https://en.wikipedia.org/wiki/Wouldn%27t_Change_a_Thing_(Kylie_Minogue_song))
         2.  Birthday Spectacular
         3.  [Save Me](https://en.wikipedia.org/wiki/Save_Me_(Fleetwood_Mac_song))
     2.  Cyberstar Intro
-8.**Segment 3**
+8. **Segment 3**
     1.  Moms
-9.**Intermission 5**
+9. **Intermission 5**
     1.  6 Minute Countdown
         1.  [Nothing Compares 2 U](https://en.wikipedia.org/wiki/Nothing_Compares_2_U)
         2.  Birthday Spectacular

@@ -15,32 +15,32 @@ This show was a modified version of the Studio C Premiere show with retooled dia
 
 ## Show List
 
-1.**Segment 1**
+1. **Segment 1**
     1.  Studio C Bumper
     2.  Studio C Intro Skit
     3.  The Beatles - 'Hippy Hippy Shake'
     4.  'King Tut' Intro Skit
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Steve Martin - 'King Tut'
     2.  Louis Armstrong - 'What A Wonderful World'
-3.**Segment 2**
+3. **Segment 2**
     1.  Master Remote Skit
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Pondwatch
     2.  Coca Cola Spot 1
-5.**Segment 3**
+5. **Segment 3**
     1.  Larry The Technician Skit
     2.  NFL's 100 Greatest Follies
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Tim McGraw - 'I Like It, I Love It'
-7.**Segment 4**
+7. **Segment 4**
     1.  Go-Go's - 'Our Lips Are Sealed'
     2.  Chuck E. Cheese News
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Hanson - 'MmmBop'
     2.  Will Frye The Nutrition Guy - 'Food Pyramid'
     3.  Leann Rimes - 'How Do I Live'
-9.**Segment 5**
+9. **Segment 5**
     1.  NFL's 100 Greatest Follies
 10. **Intermission 5**
     1.  Station Break

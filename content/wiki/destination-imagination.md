@@ -28,7 +28,7 @@ categories = ["Chuck E. Cheese's"]
 1.   **Segment 1**
     1.  'Destination Imagination'
     2.  'Imaginary Getaway'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Tricks For Treats
     2.  Darkwing Duck
 3.   **Segment 2**
@@ -40,14 +40,14 @@ categories = ["Chuck E. Cheese's"]
 5.   **Segment 3**
     1.  'Destination Imagination'
     2.  'Do Something Giant'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Joke Pizza Wall - 'Movies'
     2.  A Game Of Horseshoes
     3.  State-Of-The-Art Computer Animation
 7.   **Segment 4**
     1.  'Destination Imagination'
     2.  'The United States Of You'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Joke Pizza Wall - 'Music'
     2.  The Virtuoso
     3.  Joke Pizza Wall - 'School'
@@ -55,7 +55,7 @@ categories = ["Chuck E. Cheese's"]
 9.   **Segment 5**
     1.  'Destination Imagination'
     2.  'The Battle'
-10.**Intermission 5**
+10. **Intermission 5**
     1.  Movie Clips
     2.  America's Funniest Home Videos
 

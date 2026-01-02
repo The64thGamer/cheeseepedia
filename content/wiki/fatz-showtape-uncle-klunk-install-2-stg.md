@@ -13,22 +13,22 @@ showtapeFormats = ["CEI 4-Track Reel"]
 
 ## Segment List
 
-1.**Segment 1**
+1. **Segment 1**
     1.  Banana Hill
-2.**Segment 2**
+2. **Segment 2**
     1.  School Days
-3.**Segment 3**
+3. **Segment 3**
     1.  Music Goes Round and Round
-4.**Segment 4**
+4. **Segment 4**
     1.  Mr. Bass Man
-5.**Segment 5**
+5. **Segment 5**
     1.  Louisiana
-6.**Segment 6**
+6. **Segment 6**
     1.  My Gal is Red Hot
-7.**Segment 7**
+7. **Segment 7**
     1.  Rubber Biscuit
-8.**Segment 8**
+8. **Segment 8**
     1.  Happy Together
     2.  Elvira
-9.**Segment 9**
+9. **Segment 9**
     1.  'You May Be Right'

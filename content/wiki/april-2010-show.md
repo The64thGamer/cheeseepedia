@@ -17,35 +17,35 @@ This show played from April - June 2010.
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  CEC TV ID - 'Crane Game'
-2.**Segment 1**
+2. **Segment 1**
     1.  'Ray Of Sunshine'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Backstage Pass - 'Mitchel Musso'
     2.  Fun Facts - 'Statue of Liberty Gum'
     3.  The Zula Patrol - 'Animal Adventures In Space'
     4.  Sound Splosion: Kidz BOP - 'Say Hey (I Love You)'
     5.  CEC TV ID - 'Breakdancer'
-4.**Segment 2**
+4. **Segment 2**
     1.  'Imagine Nation'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Puppy Party
     2.  Caspar Babypants - 'Itsy Bitzy Spider'
     3.  The Zone - 'Amateur Beat Boxing'
     4.  Trivia - 'Largest Ocean'
     5.  The Dirty Sock Funtime Band - 'Treasure'
     6.  CEC TV ID - 'Aquarium'
-6.**Segment 3**
+6. **Segment 3**
     1.  'A Million Tries'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  CEC TV ID - 'Bubble Kids'
     2.  Word World - 'Runaway O'
     3.  Sound Splosion: Mitchel Musso - 'Shout It'
     4.  Busytown Mysteries - 'The Invisible Cake Snatcher'
-8.**Segment 4**
+8. **Segment 4**
     1.  'Poor Little Pluto'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Fun Facts - 'Dolphins'
     2.  VeggieTales - 'Where Have All The Staplers Gone?'
     3.  Dan Zanes - 'All Around The Kitchen'
@@ -54,9 +54,9 @@ This show played from April - June 2010.
     6.  CEC TV ID - 'NBC Chime'
     7.  Will & Dewitt - 'My New Boots'
     8.  CEC TV ID - 'Skee Ball'
-10.**Segment 5**
+10. **Segment 5**
     1.  ['Ain't Nothing Wrong With That'](https://en.wikipedia.org/wiki/Colorblind_(Robert_Randolph_album))
-11.**Intermission 6**
+11. **Intermission 6**
     1.  Backstage Pass - 'Justin Bieber'
     2.  Fun Facts - 'The Queen of England's Birthday'
     3.  Dive Olly Dive! - 'Beth's Backfire'

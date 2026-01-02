@@ -24,5 +24,5 @@ In a later email{{< cite 1 >}}, Brian would mention the showtape's creation to b
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  Sixteen Tons

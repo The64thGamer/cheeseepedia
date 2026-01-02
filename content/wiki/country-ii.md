@@ -14,34 +14,34 @@ Country II is a Rock-afire Explosion showtape released in ShowBiz Pizza Place lo
 
 ## Segment List
 
-1.**Segment 1**
+1. **Segment 1**
     1.  Ricky Scaggs Intro Skit
     2.  Ricky Scaggs Medley
         1.  Heartbroke
         2.  You've Got a Lover
         3.  Highway 40 Blues
-2.**Segment 2**
+2. **Segment 2**
     1.  *Arguing Skit*
     2.  *Going Downhill*
-3.**Segment 3**
+3. **Segment 3**
     1.  *Middle of the Night*
-4.**Segment 4**
+4. **Segment 4**
     1.  *The Ride Intro Skit*
     2.  *The Ride*
-5.**Segment 5**
+5. **Segment 5**
     1.  *Islands in the Stream Intro Skit*
     2.  *Islands in the Stream*
-6.**Segment 6**
+6. **Segment 6**
     1.  *Letters to Looney Bird*
     2.  *I Wouldn't Change You If I Could*
     3.  *Houston*
-7.**Segment 7**
+7. **Segment 7**
     1.  *We Didn't See a Thing Intro Skit*
     2.  *We Didn't See a Thing*
-8.**Segment 8**
+8. **Segment 8**
     1.  *Ain't Used Up Intro Skit*
     2.  *Ain't Used Up*
-9.**Segment 9**
+9. **Segment 9**
     1.  *Fun Songs Skit*
     2.  *Girls Just Wanna Have Fun*
 10. **Segment 10**

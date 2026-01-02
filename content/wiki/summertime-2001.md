@@ -19,58 +19,58 @@ This show featured all of the songs and intermissions from {{< wiki-link "Summer
 
 **Show plays in full twice on the tape**
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Summertime'
     2.  'Fun, Fun, Fun!'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  'Wildlife'
     2.  CEC TV ID - 'Rocketship'
     3.  Store Intro - 'Brick, NJ' (Cookie)
-3.**Segment 2**
+3. **Segment 2**
     1.  'Celebrate America'
     2.  'America'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Chuck E.'s Home Movies at The Beach
     2.  CEC TV ID - 'Cows'
     3.  Store Intro - 'Brick, NJ' (Steve)
-5.**Segment 3**
+5. **Segment 3**
     1.  'Good Old Summertime'
     2.  'Local Pizza Cabana'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  'At The Zoo'
     2.  CEC TV ID - 'Rocketship'
     3.  Store Intro - 'Brick, NJ' (Abby)
-7.**Segment 4**
+7. **Segment 4**
     1.  'Don't Hurry to Worry'
     2.  'Row Your Boat'
 
 ## Studio C Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Summertime'
     2.  'Fun, Fun, Fun!'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  'Time To Fly!'
     2.  CEC TV ID - 'Rocketship'
     3.  Store Intro - Brick, NJ' (Cookie)
-3.**Segment 2**
+3. **Segment 2**
     1.  'Celebrate America'
     2.  'America'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  'At The Zoo'
     2.  'Ski Time!'
-5.**Segment 3**
+5. **Segment 3**
     1.  'Good Old Summertime'
     2.  'Local Pizza Cabana'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  'Wildlife'
     2.  Chuck E.'s Home Movies at the Beach
     3.  CEC TV ID - 'Cows'
     4.  CEC TV ID - 'Brick, NJ' (Steve)
-7.**Segment 4**
+7. **Segment 4**
     1.  'Don't Hurry to Worry'
     2.  'Row Your Boat'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  'Underwater Adventure!'
     2.  'Let's Take Flight!'
     3.  CEC TV ID - 'Rocketship'

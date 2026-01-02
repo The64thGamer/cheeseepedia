@@ -25,31 +25,31 @@ The initial DVD release for Show 2 2021 was missing the programming for 'Stay Po
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Social Distancing Safety Message
     2.  Spring-Tastic Bumper feat. Helen & Bella
     3.  Ants Ants Ants - 'Pinwheel'
     4.  Panic! at the Disco - 'High Hopes'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese - 'Stay Positive'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  KIDZ BOP Kids - 'Paradise'
     2.  HiDino - 'The King of Dinosaur'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E., Bella and Mike Wolf - 'El Rey Guitarrista'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Social Distancing Safety Message
     2.  No School Today - 'Marsupial'
     3.  BTS - 'Dynamite'
-6.**Skit 3**
+6. **Skit 3**
     1.  Helen Henny - 'Game On!'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Spring-Tastic Bumper feat. Bella and Ronnie the Unicorn
     2.  KIDZ BOP Kids - 'Better Now'
     3.  Unicorn, Unicorn!
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese - 'Crochet All Day'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Social Distancing Safety Message
     2.  HiDino - 'The Planet Song'
     3.  Andy Grammer - 'She'd Say'

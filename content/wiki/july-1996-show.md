@@ -16,25 +16,25 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Chuck E. Cheese Club
-2.**Segment 1**
+2. **Segment 1**
     1.  ['Get Ready for This'](https://en.wikipedia.org/wiki/Get_Ready_for_This)
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Planets Song
     2.  Chuck E. Cheese Club
-4.**Segment 2**
+4. **Segment 2**
     1.  'Silicon Valley Showdown'
 5 **Intermission 3**
     1.  Chuck E. Cheese Club
-6.**Segment 3**
+6. **Segment 3**
     1.  ['Turn the Beat Around'](https://en.wikipedia.org/wiki/Turn_the_Beat_Around)
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Liquid Images
     2.  Chuck E. Cheese Club
-8.**Segment 4**
+8. **Segment 4**
     1.  'It's A Jungle Out There'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Chuck E. Cheese Club
 10**Segment 5**
     1.  ['Walk Like an Egyptian'](https://en.wikipedia.org/wiki/Walk_Like_an_Egyptian)

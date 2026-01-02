@@ -15,14 +15,14 @@ This was created to play from July 1, - September 1, 2019. Featuring 4 songs. 2 
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  'It's Chuck E.'
     2.  Marshmello Featuring. Bastille - 'Happier'
     3.  Norman Picklestripes - 'Happy Baking!'
     4.  Barbie Vlog - 'What Type of Song are you?'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese & Friends - 'My Family'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  YouTube Promo 1
     2.  Kelly Rowland - 'Crown'
     3.  RockALingua - 'Las Partes Del Cuerpo'
@@ -31,9 +31,9 @@ This was created to play from July 1, - September 1, 2019. Featuring 4 songs. 2 
     6.  Odd Bods - 'Desert Island'
     7.  Jax Jones, Years & Years - 'Play'
     8.  Floogals - 'Ice Cub'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese & Friends - 'Out of This World'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Barbie Vlog - 'Draw My Life'
     2.  Unicorn, Unicorn
     3.  X Ambassadors - 'Boom'
@@ -42,16 +42,16 @@ This was created to play from July 1, - September 1, 2019. Featuring 4 songs. 2 
     6.  Kidz Bop - 'Havana'
     7.  American Ninja Warrior Jr.
     8.  The Whizpops - 'Sea Turtle'
-6.**Skit 3**
+6. **Skit 3**
     1.  Chuck E., Mr. Munch & Bella - 'Play All You Can Play'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  YouTube Promo 2
     2.  Not Ur Girlfrenz - 'No One Asked You Anyways'
     3.  'Little Bitty Kitty Cat'
     4.  Odd bods - 'Basket Ball'
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese - 'Rockin' Robot'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Cups for a Cause (At Participating Locations)
     2.  Carrie Underwood - 'Love Wins' (Studio C SD Only)
     3.  Nigel & Ronnie - 'Episode 1. Hide & Seek'

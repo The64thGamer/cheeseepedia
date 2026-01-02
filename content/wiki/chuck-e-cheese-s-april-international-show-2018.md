@@ -16,32 +16,32 @@ This show includes new footage of the corporate office MMBB bots performing the 
 
 1.   **Skit 1**
     1.  Chuck E. Cheese - 'Fun!'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Kabilion - Chloes Closet
     2.  Jokes from Pasqually
     3.  Mr. Munch 1 Minute Countdown (Retro)
-3.**Skit 2**
+3. **Skit 2**
     1.  Pasqually The Chef - 'It's The 70s'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Battery Pop - Om Nom Stories Ep.1
     2.  Show Break #1 - Flyover
-5.**Skit 3**
+5. **Skit 3**
     1.  Munch´s Make Believe Band - 'In My Pool'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Fun Facts with Chuck E. Cheese - 'Spicy Chili'
     2.  Battery Pop - Charlie Freaks Out - 'Rubix Cube'
-7.**Skit 4**
+7. **Skit 4**
     1.  Chuck E. Cheese - 'More Cheese'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Show Break #2 - Space
     2.  Mr. Munch 1 Minute Countdown
-9.**Skit 5**
+9. **Skit 5**
     1.  Chuck E. Cheese & Friends - 'Out Of This World'
 10. **Intermission 5**
     1.  Kabillion - Chloe's Closet
     2.  CEC Sketch - Coconut?
     3.  Battery Pop - Om Nom Stories Ep. 2
-11.**Skit 6**
+11. **Skit 6**
     1.  Jasper T. Jowls - 'Jasper's Country Clasic'
 12. **Intermission 6**
     1.  Kabillion - Chloe's Closet

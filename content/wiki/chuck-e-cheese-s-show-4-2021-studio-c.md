@@ -15,14 +15,14 @@ This was created with conjunction with the Halloween Boo-tacular promotion. This
 
 ## Day Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Safety Message
     2.  Boo-Tacular Bumper 1
     3.  KIDZ BOP Kids - 'This is Halloween'
     4.  Boo-Tacular Menu
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese - 'Halloween Night'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Chupa Chupas
     2.  Magic with Sara - 'Los Monstruos'
     3.  Koo Koo Kanga Roo - 'Monster Moves'
@@ -30,9 +30,9 @@ This was created with conjunction with the Halloween Boo-tacular promotion. This
     5.  Safety Message
     6.  Boo-Tacular Bumper 2
     7.  China Anne McClain - 'Calling All The Monsters'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese - 'Nobody There'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Juicebox Jukebox - 'Happy Halloween'
     2.  Jonas Blue - 'I See Love'
     3.  CEC Silly Song - 'Ballerina Ghost'
@@ -40,53 +40,53 @@ This was created with conjunction with the Halloween Boo-tacular promotion. This
     5.  Sara Lovell - 'Tell Me Who's The Monster'
     6.  KIDZ BOP Kids - 'Ghostbusters'
     7.  Boo-Tacular Menu
-6.**Skit 3**
+6. **Skit 3**
     1.  Chuck E. Cheese & Helen Henny - 'It's Gotta Be Halloween'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Chupa Chupas
     2.  Boo-Tacular Bumper 3
     3.  Caspar Babypants - 'The Creature Under My Bed'
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese - 'Be Yourself'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Boo-Tacular Halloween Weekend
     2.  KIDZ BOP Kids - 'Halloween Party'
     3.  Chuck E. Cheese YouTube & Music Streaming.
 
 ## Night Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Chupa Chupas
     2.  Safety Message
     3.  Boo-Tacular Bumper 1
     4.  KIDZ BOP Kids - 'Monster Mash'
     5.  Koo Koo Kanga Roo - 'Glitter'
     6.  Chuck E. Cheese - 'Pumpkins In My Pockets'
-2.**Intermission 2**
+2. **Intermission 2**
     1.  Boo-Tacular Menu
     2.  Justin Bieber - 'Baby'
     3.  KIDZ BOP Kids - 'Kings and Queens'
     4.  China Anne McClain - 'Calling All The Monsters'
-3.**Intermission 3**
+3. **Intermission 3**
     1.  Boo-Tacular Halloween Weekend
     2.  Safety Message
     3.  Boo-Tacular Bumper 2
     4.  KIDZ BOP Kids - 'Disturbia'
     5.  Koo Koo Kanga Roo - 'Monster Moves'
     6.  Daft Punk - 'Around the World'
-4.**Intermission 4**
+4. **Intermission 4**
     1.  Chupa Chupas
     2.  Chuck E. Cheese - 'Sammy the Skateboarding Skeleton'
     3.  KIDZ BOP Kids - 'Blinding Lights'
     4.  KIDZ BOP Kids - 'This is Halloween'
-5.**Intermission 5**
+5. **Intermission 5**
     1.  Boo-Tacular Menu
     2.  Safety Message
     3.  Boo-Tacular Bumper 3
     4.  Mr. C Man - 'Cha Cha Slide'
     5.  BTS - 'Dynamite'
     6.  Chuck E. Cheese - 'Bootastic Dance'
-6.**Intermission 6**
+6. **Intermission 6**
     1.  Boo-Tacular Halloween Weekend
     2.  KIDZ BOP Kids - Uptown Funk'
     3.  Martis - 'Keep It Low'

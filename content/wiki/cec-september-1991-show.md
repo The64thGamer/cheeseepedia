@@ -28,14 +28,14 @@ A show called cmds./clean (Likely ***Comrade of Clean* from a direct lyric) was 
 The show was specifically requested removal from upper management at CEC Corporate. This is likely due to the Soviet undertones of the song, as the Soviet Union was already beginning to collapse by the release of the tape.
 Prior to the song being removed, the segments (excluding intermissions for clarity) were:**
 
-> 1.**Segment 1**
+> 1. **Segment 1**
 >     1.  Responsibility
 >     2.  My Good Name
-> 2.**Segment 2**
+> 2. **Segment 2**
 >     1.  Comrade of Clean
 >     2.  Happy and You Know It
 >     3.  This Old Man
-> 3.**Segment 3**
+> 3. **Segment 3**
 >     1.  Kid's Song Medley
 >         1.  Skip To My Lou
 >         2.  Little Liza Jane
@@ -49,7 +49,7 @@ The {{< wiki-link "Data" >}} for the show would be discovered in 2022 on the {{<
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  8 Minute Countdown
         1.  [You Can Call Me Al](https://en.wikipedia.org/wiki/You_Can_Call_Me_Al)
         2.  Birthday Extravaganza
@@ -57,10 +57,10 @@ The {{< wiki-link "Data" >}} for the show would be discovered in 2022 on the {{<
         4.  [My Blue Heaven](https://en.wikipedia.org/wiki/Fats_Domino_Rock_and_Rollin%27)
     2.  Geography Rap - Italy
     3.  CEC-TV Intro
-2.**Segment 1**
+2. **Segment 1**
     1.  [Rhythm of The Night](https://en.m.wikipedia.org/wiki/Rhythm_of_the_Night_(song))
     2.  My Good Name
-3.**Intermission 2**
+3. **Intermission 2**
     1.  8 Minute Countdown
         1.  [My Blue Heaven](https://en.wikipedia.org/wiki/Fats_Domino_Rock_and_Rollin%27)
         2.  [Coming Up (Live In Glasgow)](https://en.wikipedia.org/wiki/Coming_Up_(song))
@@ -68,11 +68,11 @@ The {{< wiki-link "Data" >}} for the show would be discovered in 2022 on the {{<
         4.  [Rock With You](https://en.wikipedia.org/wiki/Rock_with_You)
     2.  Helen Henny's Hollywood - New Kids On The Block
     3.  CEC-TV Intro
-4.**Segment 2**
+4. **Segment 2**
     1.  Responsibility
     2.  If You're Happy And You Know It
     3.  This Old Man
-5.**Intermission 3**
+5. **Intermission 3**
     1.  8 Minute Countdown
         1.  [Big Girls Don't Cry](https://en.wikipedia.org/wiki/Big_Girls_Don%27t_Cry_(The_Four_Seasons_song))
         2.  [Kokomo](https://en.wikipedia.org/wiki/Kokomo_(song))
@@ -80,7 +80,7 @@ The {{< wiki-link "Data" >}} for the show would be discovered in 2022 on the {{<
         4.  [Jennifer Juniper](https://en.wikipedia.org/wiki/Jennifer_Juniper)
     2.  CEC TV News - Safety
     3.  CEC-TV Intro
-6.**Segment 3**
+6. **Segment 3**
     1.  Kid's Song Medley
         1.  Skip To My Lou
         2.  Little Liza Jane
@@ -88,7 +88,7 @@ The {{< wiki-link "Data" >}} for the show would be discovered in 2022 on the {{<
         4.  Oh Them Golden Slippers
         5.  Jimmy Crack Corn And I Don't Care
     2.  Daddy's Daddy
-7.**Intermission 4**
+7. **Intermission 4**
     1.  8 Minute Countdown
         1.  [Walk on By](https://en.wikipedia.org/wiki/Walk_On_By_(song))
         2.  [Old Days](https://en.wikipedia.org/wiki/Old_Days)
@@ -96,10 +96,10 @@ The {{< wiki-link "Data" >}} for the show would be discovered in 2022 on the {{<
         4.  [U Can't Touch This](https://en.wikipedia.org/wiki/U_Can%27t_Touch_This)
     2.  Geography Rap - Italy
     3.  CEC-TV Intro
-8.**Segment 1**
+8. **Segment 1**
     1.  [Rhythm of The Night](https://en.m.wikipedia.org/wiki/Rhythm_of_the_Night_(song))
     2.  My Good Name
-9.**Intermission 5**
+9. **Intermission 5**
     1.  8 Minute Countdown
         1.  [Blue Suede Shoes](https://en.wikipedia.org/wiki/G.I._Blues_(soundtrack))
         2.  [In My Life](https://en.wikipedia.org/wiki/In_My_Life)

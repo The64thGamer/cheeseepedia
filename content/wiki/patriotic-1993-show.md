@@ -16,23 +16,23 @@ The ***Patriotic 1993 Show* was the final rerelease of the segments from {{< wik
 
 ## Show List
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  'My Daddy's Daddy'
     2.  VJ Spot
-2.**Segment 1**
+2. **Segment 1**
     1.  'America The Beautiful / Yankee Doodle / Oh Susanna'
     2.  'Children of America'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  'Tech-no-Rific'
     2.  'Birthday Star'
     3.  CEC TV '93 ID
     4.  'One World'
     5.  VJ Spot
     6.  CEC TV News - 'Safety'
-4.**Segment 2**
+4. **Segment 2**
     1.  'Rockin' State'
     2.  'My Country / This Land Is Your Land'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  'Skip Rope Skat'
     2.  'Birthday Star'
     3.  'Alphabetical'
@@ -40,20 +40,20 @@ The ***Patriotic 1993 Show* was the final rerelease of the segments from {{< wik
     5.  2 Minute Countdown
     6.  VJ Spot
     7.  CEC TV '93 ID
-6.**Segment 3**
+6. **Segment 3**
     1.  'Oh I Think My Pride is Showing Again'
     2.  'Grand Old Flag'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  'Don't Ever Give Up'
     2.  'Birthday Star'
     3.  'BINGO'
     4.  Helen Henny's Hollywood - 'New Kids On The Block'
     5.  CEC TV '93 ID
     6.  1 Minute Countdown
-8.**Segment 4**
+8. **Segment 4**
     1.  'America The Beautiful / Yankee Doodle / Oh Susanna'
     2.  'Children of America'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  'If You're Happy and You Know It'
     2.  'Birthday Star'
     3.  'Responsibility'

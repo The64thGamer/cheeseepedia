@@ -15,23 +15,23 @@ categories = ["ShowBiz Pizza Place", "Creative Engineering"]
 
 ## Show List
 
-1.**Segment 1**
+1. **Segment 1**
     1.  Heartaches
-2.**Segment 2**
+2. **Segment 2**
     1.  Catch A Wave
-3.**Segment 3**
+3. **Segment 3**
     1.  Hit the Cymbal
-4.**Segment 4**
+4. **Segment 4**
     1.  Roast Beef Sandwich
-5.**Segment 5**
+5. **Segment 5**
     1.  School Days
-6.**Segment 6**
+6. **Segment 6**
     1.  Beatles Medley
-7.**Segment 7**
+7. **Segment 7**
     1.  My Boyfriend's Back
-8.**Segment 8**
+8. **Segment 8**
     1.  Banana Hill
-9.**Segment 9**
+9. **Segment 9**
     1.  Rolfe & Earl Show #2
 10. **Segment 10**
     1.  Do You Love Me

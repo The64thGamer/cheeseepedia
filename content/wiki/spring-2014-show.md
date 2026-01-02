@@ -15,34 +15,34 @@ showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stag
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['Shake Your Groove Thing'](https://en.wikipedia.org/wiki/Shake_Your_Groove_Thing)
     2.  'My Karate Kid' (parody of ['My Prerogative'](https://en.wikipedia.org/wiki/My_Prerogative))
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Littlest Pet Shop (USA Only)
     2.  Hard Hat Hank 'Nu-cu-lar'
     3.  Show Break - 'New Shoes'
     4.  CEC TV ID - 'Fireworks'
-3.**Segment 2**
+3. **Segment 2**
     1.  'Larry Go To The Store' (parody of ['Every Rose Has Its Thorn'](https://en.wikipedia.org/wiki/Every_Rose_Has_Its_Thorn))
     2.  ['Everybody Have Fun Tonight'](https://en.wikipedia.org/wiki/Everybody_Have_Fun_Tonight)
-4.**Intermission 2**
+4. **Intermission 2**
     1.  VeggieTales - 'Asteroid Cowboys'
     2.  Marvin The Technology Guru - 'Beards'
     3.  Show Break - 'Cloudy Timelapse'
     4.  CEC TV ID - 'Claw Machine'
-5.**Segment 3**
+5. **Segment 3**
     1.  ['It's Tricky'](https://en.wikipedia.org/wiki/It%27s_Tricky)
     2.  ['Back in Time'](https://en.wikipedia.org/wiki/Back_in_Time_(Huey_Lewis_and_the_News_song))
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Transformers Rescue Bots (USA Only)
     2.  Chuck E. Cheese Cast Member Remix
     3.  Show Break - 'Motorcycle'
     4.  CEC TV ID - 'Pizza Parachute'
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Good Time'](https://en.wikipedia.org/wiki/Good_Time_(Owl_City_and_Carly_Rae_Jepsen_song))
     2.  ['The Final Countdown'](https://en.wikipedia.org/wiki/The_Final_Countdown_(song))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  My Little Pony, Friendship is Magic (USA Only)
     2.  Bobby Bear - 'Three Blind Mice'
     3.  Show Break - 'Girls Skipping'

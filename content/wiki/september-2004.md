@@ -18,10 +18,10 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Born To Be Wild'
     2.  'Pepperoni' (parody of ['My Sharona'](https://en.wikipedia.org/wiki/My_Sharona))
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Abstract'
     2.  Super Jasper - 'Staring Contest'
     3.  Countdown ('Twinkle, Twinkle')
@@ -29,10 +29,10 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
     5.  Countdown ('Rockin' Robin' footage)
     6.  Sprite Spot
     7.  Countdown ('Rock Around The Clock' footage)
-3.**Segment 2**
+3. **Segment 2**
     1.  'Go To Chuck E. Cheese' (Parody of ['Turning Japanese'](https://en.wikipedia.org/wiki/Turning_Japanese))
     2.  'Do Ya'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Couch'
     2.  Ratings
     3.  Drawing Chuck E.
@@ -40,20 +40,20 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
     5.  Fundraising Spot
     6.  Baking With Betty - 'Vegetable Medley'
     7.  Countdown ('Old MacDonald')
-5.**Segment 3**
+5. **Segment 3**
     1.  'What A Wonderful World'
     2.  'Smile'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Sunrise'
     2.  Flyball
     3.  Countdown ('Midnight Special')
     4.  Larry The Technician
     5.  Coke Spot
     6.  Countdown
-7.**Segment 4**
+7. **Segment 4**
     1.  'What Up'
     2.  'I Want My Chuck E. Cheese' (parody of ['Money For Nothing'](https://en.wikipedia.org/wiki/Money_for_Nothing_(song)))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Marx Bros'
     2.  Singing Cowboy
     3.  Countdown ('Ease On Down The Road' footage)

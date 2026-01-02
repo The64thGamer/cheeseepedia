@@ -16,105 +16,105 @@ categories = ["Chuck E. Cheese's"]
 
 ## Studio C Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Summertime Groove'
     2.  'Fishin''
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Blender'
     2.  'Boat of Love' / 'We Sail The Ocean Blue'
     3.  CEC TV ID - 'Singing Animals'
     4.  Countdown
-3.**Segment 2**
+3. **Segment 2**
     1.  'In My Pool' (parody of ['In My Room'](https://en.wikipedia.org/wiki/In_My_Room))
     2.  'Havin' Fun at The Beach'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Janitor'
     2.  Baking With Betty - 'Letters'
     3.  CEC TV ID - 'Dancing Food'
     4.  Kool-Aid Spot
     5.  Countdown
-5.**Segment 3**
+5. **Segment 3**
     1.  'Baseball Diamond Dreams'
     2.  'Dog Jammin''
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Blender'
     2.  Super Jasper - 'One Token'
     3.  'America' (USA Stores)
     4.  CEC TV ID - 'Haircut'
     5.  Countdown
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Picnic'](https://raffi.fandom.com/wiki/Going_On_a_Picnic)
     2.  'Barbeque' (parody of ['Rock With You'](https://en.wikipedia.org/wiki/Rock_with_You))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Stars'
     2.  Monkey Ninjas - Episode 3
     3.  CEC TV ID - 'Dancing Food'
 
 ## Studio C V1.2 Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Summertime Groove'
     2.  'Fishin''
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Blender'
     2.  'Boat of Love' / 'We Sail The Ocean Blue'
     3.  CEC TV ID - 'Singing Animals'
     4.  Countdown
-3.**Segment 2**
+3. **Segment 2**
     1.  'In My Pool' (parody of ['In My Room'](https://en.wikipedia.org/wiki/In_My_Room))
     2.  'Havin' Fun at The Beach'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Janitor'
     2.  Baking With Betty - 'Letters'
     3.  CEC TV ID - 'Dancing Food'
     4.  'America' (USA Stores)
     5.  Countdown
-5.**Segment 3**
+5. **Segment 3**
     1.  'Baseball Diamond Dreams'
     2.  'Dog Jammin''
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Blender'
     2.  Super Jasper - 'One Token'
     4.  CEC TV ID - 'Haircut'
     5.  Countdown
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Picnic'](https://raffi.fandom.com/wiki/Going_On_a_Picnic)
     2.  'Barbeque' (parody of ['Rock With You'](https://en.wikipedia.org/wiki/Rock_with_You))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Stars'
     2.  Monkey Ninjas - Episode 3
     3.  CEC TV ID - 'Dancing Food'
 
 ## Existing Stage Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Summertime Groove'
     2.  'Fishin''
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Blender'
     2.  'Boat of Love' / 'We Sail The Ocean Blue'
     3.  CEC TV ID - 'Singing Animals'
     4.  Countdown
-3.**Segment 2**
+3. **Segment 2**
     1.  'In My Pool' (parody of ['In My Room'](https://en.wikipedia.org/wiki/In_My_Room))
     2.  'Havin' Fun at The Beach'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Janitor'
     2.  Baking With Betty - 'Letters'
     3.  CEC TV ID - 'Dancing Food'
     4.  Countdown
-5.**Segment 3**
+5. **Segment 3**
     1.  'Baseball Diamond Dreams'
     2.  'Dog Jammin''
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Blender'
     2.  Super Jasper - 'One Token'
     3.  CEC TV ID - 'Haircut'
     4.  Countdown
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Picnic'](https://raffi.fandom.com/wiki/Going_On_a_Picnic)
     2.  'Barbeque' (parody of ['Rock with You'](https://en.wikipedia.org/wiki/Rock_with_You))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Stars'
     2.  Monkey Ninjas - Episode 3
     5.  CEC TV ID - 'Dancing Food'

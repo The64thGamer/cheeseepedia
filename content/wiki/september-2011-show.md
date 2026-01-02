@@ -16,10 +16,10 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['You Make My Dreams'](https://en.wikipedia.org/wiki/You_Make_My_Dreams)
     2.  ['Workin' For a Livin''](https://en.wikipedia.org/wiki/Workin%27_for_a_Livin%27)
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Couch'
     2.  VeggieTales - 'Bob Lends a Helping Hand'
     3.  Quaker Chewy Bar Spot
@@ -28,10 +28,10 @@ categories = ["Chuck E. Cheese's"]
     6.  Chuck E. Live! Spot
     7.  Chillout - 'Landscapes'
     8.  CEC TV ID - 'Marquee'
-3.**Segment 2**
+3. **Segment 2**
     1.  ['Bang the Drum All Day'](https://en.wikipedia.org/wiki/Bang_the_Drum_All_Day)
     2.  'Come On Let's Go'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Breakdancer'
     2.  Kung Fu Panda 2 Promo
     3.  Monkey Ninjas Episode 1
@@ -39,10 +39,10 @@ categories = ["Chuck E. Cheese's"]
     5.  PBS Kids Spot
     6.  Chillout - 'Animals'
     7.  CEC TV ID - 'Singing Animals'
-5.**Segment 3**
+5. **Segment 3**
     1.  ['Hip to Be Square'](https://en.wikipedia.org/wiki/Hip_to_Be_Square)
     2.  ['New Shoes'](https://en.wikipedia.org/wiki/New_Shoes)
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Digestion'
     2.  VeggieTales - 'Larry Learns To Listen'
     3.  Logan 'Robot' Gladden Interview
@@ -51,10 +51,10 @@ categories = ["Chuck E. Cheese's"]
     6.  CEC TV RETRO: Geography Rap - 'Australia'
     7.  Chillout - 'Wildlife'
     8.  CEC TV ID - 'Chuck E. Sunrise'
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Funkytown'](https://en.wikipedia.org/wiki/Funkytown)
     2.  'Keep Your Head Up'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Pizza Fan'
     2.  Veggie Tales - 'Astonishing Wigs'
     3.  Monkey Ninjas Episode 2

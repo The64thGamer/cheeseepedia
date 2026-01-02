@@ -17,34 +17,34 @@ This show featured 4 segments with 8 songs and was the last show produced with J
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['Help!'](https://en.wikipedia.org/wiki/Help!_(song))
     2.  ['Can't Buy Me Love'](https://en.wikipedia.org/wiki/Can%27t_Buy_Me_Love)
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Sunrise'
     2.  VeggieTales - 'The Hairbrush Song'
     3.  Countdown
     4.  CEC TV ID - 'Marx Bros'
-3.**Segment 2**
+3. **Segment 2**
     1.  'First Impression'
     2.  'Just Being Me'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Pool Plug'
     2.  Super Jasper - 'Arm Wrestling'
     3.  Countdown
     4.  CEC TV ID - 'Abstract'
-5.**Segment 3**
+5. **Segment 3**
     1.  'Dreamin''
     2.  'Rockin' Grandma'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Parachute'
     2.  VeggieTales - 'I Love My Lips'
     3.  Countdown
     4.  CEC TV ID - 'Couch'
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Eight Days A Week'](https://en.wikipedia.org/wiki/Eight_Days_a_Week)
     2.  ['All You Need Is Love'](https://en.wikipedia.org/wiki/All_You_Need_Is_Love)
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Marquee'
     2.  Baking With Betty - 'Baking With Joyce'
     3.  CEC TV ID - 'Haircut'

@@ -15,33 +15,33 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Party Place'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Charlie Rockit - 'Baseball'
     2.  Comedy Club
     3.  Did You Know?
-3.**Segment 2**
+3. **Segment 2**
     1.  'Baseball Diamond Dreams'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  The Ballgame
     2.  CEC Sports
     3.  Comedy Club
-5.**Segment 3**
+5. **Segment 3**
     1.  'Take Me Out To The Ballgame'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Tricks For Treats
     2.  Comedy Club
     3.   Fluke Trailer
     4.  Munch and The Picnic Basket
     5.  Comedy Club
-7.**Segment 4**
+7. **Segment 4**
     1.  'The Midnight Special'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Charlie Rockit - 'Waterskiing'
     2.  Chuck E.'s Big Bowling Date
     3.  Comedy Club
-9.**Segment 5**
+9. **Segment 5**
     1.  'Ball Crawl'
     2.  'Hand Jive
 10. **Intermission 5**

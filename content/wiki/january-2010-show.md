@@ -21,41 +21,41 @@ This update created contained a provision for initiating an alternate show sched
 
 ## Studio C AM Schedule
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Where is Chuck E.' (Parody of ['Where is Thumbkin?'](https://barney.fandom.com/wiki/Where_is_Thumbkin%3F))
     2.  'More We Get Together'
     3.  'If You're Happy And You Know It'
     4.  'Pen Pal' (Parody of ['My Bonnie Lies Over The Ocean'](https://en.wikipedia.org/wiki/My_Bonnie_Lies_over_the_Ocean))
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Pizza Parachute'
     2.  Veggietales - 'Where Have All The Staplers Gone'
     3.  Storytime w/ Chuck E.
     4.  Trivia
     5.  CEC TV ID - 'Falling Apple'
-3.**Segment 2**
+3. **Segment 2**
     1.  'Home With The Range' (Parody of ['Home On The Range'](https://en.wikipedia.org/wiki/Home_on_the_Range))
     2.  'Do Your Ears Hang Low'
     3.  'Are You Eating Mr Munch' (Parody of ' [Are You Sleeping Brother John](https://en.wikipedia.org/wiki/Fr%C3%A8re_Jacques)')
     4.  'On Top of a Pizza' (Parody of [On Top of Old Smokey](https://en.wikipedia.org/wiki/On_Top_of_Old_Smoky))
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Radio Towers'
     2.  Artist Spotlight: Dan Zanes - 'Wonder Wheel'
     3.  It's Time For The Bluescreen: Flyover
     4.  Bday Promo
     5.  Charlie Rockit - 'Cooler Downer'
     6.  CEC TV ID - 'Jawbreaker'
-5.**Segment 3**
+5. **Segment 3**
     1.  'And The Green Grass Grows All Around'
     2.  'Our Friend Munch' (Parody of ['This Old Man'](https://en.wikipedia.org/wiki/This_Old_Man))
     3.  'Clementine'
     4.  'The Muffin Man'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Astronauts'
     2.  Singing Cowboy
     3.  Coke Spot
     4.  Trivia
     5.  CEC TV ID - 'Chuck E. Skateboarding'
-7.**Segment 4**
+7. **Segment 4**
     1.  'Big Rock Candy Mountain'
     2.  'She'll Be Coming Around The Mountain'
     3.  'I've Been Working On The Railroad'
@@ -64,7 +64,7 @@ This update created contained a provision for initiating an alternate show sched
     6.  'Bah Bah Black Sheep'
     7.  'Alphabet Song'
     8.  'Twinkle Twinkle Little Star'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Chuck E. Sunrise'
     2.  Chuck E.'s Zoo View
     3.  Chuck E.'s Big Bowling Date
@@ -72,34 +72,34 @@ This update created contained a provision for initiating an alternate show sched
 
 ## Studio C PM Schedule
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['Free Ride'](https://en.wikipedia.org/wiki/Free_Ride_(song))
     2.  ['Splish Splash'](https://en.wikipedia.org/wiki/Splish_Splash_(song))
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Skeeball'
     2.  Snowboarding
     3.  Coke Spot
     4.  Chillout - Arctic Life
-3.**Segment 2**
+3. **Segment 2**
     1.  'Pollution Is Crazy' (parody of ['She Drives Me Crazy'](https://en.wikipedia.org/wiki/She_Drives_Me_Crazy))
     2.  'Opposite Day'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Bubble Kids'
     2.  Jonas Brothers: 'Love Bug'
     3.  Chillout - Landscapes
     4.  The Announcer
-5.**Segment 3**
+5. **Segment 3**
     1.  ['Girls Just Wanna Have Fun'](https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun)
     2.  'Colors'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Flashing Hand'
     2.  Pasqually's Polka Minute
     3.  Coke Spot 2
     4.  It's Time For The Bluescreen: Underwater
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Disco Inferno'](https://en.wikipedia.org/wiki/Disco_Inferno)
     2.  ['Stand By Me'](https://en.wikipedia.org/wiki/Stand_by_Me_(Ben_E._King_song))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Sports'
     2.  Cloudy With A Chance of Meatballs
     3.  Chillout - Fish
@@ -107,36 +107,36 @@ This update created contained a provision for initiating an alternate show sched
 
 ## Existing Stage Schedule
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['Free Ride'](https://en.wikipedia.org/wiki/Free_Ride_(song))
     2.  ['Splish Splash'](https://en.wikipedia.org/wiki/Splish_Splash_(song))
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Skeeball'
     2.  Coke Spot
     3.  Snowboarding
     4.  VeggieTales - 'Where Have All The Staplers Gone'
     5.  Chillout - 'Landscapes'
-3.**Segment 2**
+3. **Segment 2**
     1.  'Pollution Is Crazy' (parody of ['She Drives Me Crazy'](https://en.wikipedia.org/wiki/She_Drives_Me_Crazy))
     2.  'Opposite Day'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Jawbreaker'
     2.  Artist Spotlight: Dan Zanes - 'Wonder Wheel'
     3.  Singing Cowboy
     4.  Cloudy With A Chance of Meatballs
-5.**Segment 3**
+5. **Segment 3**
     1.  ['Girls Just Wanna Have Fun'](https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun)
     2.  'Colors'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Flashing Hand'
     2.  Jonas Brothers: 'Love Bug'
     3.  Pasqually's Polka Minute
     4.  Coke Spot 2
     5.  The Announcer
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Disco Inferno'](https://en.wikipedia.org/wiki/Disco_Inferno)
     2.  ['Stand By Me'](https://en.wikipedia.org/wiki/Stand_by_Me_(Ben_E._King_song))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Sports'
     2.  Bday Promo
     3.  Chuck E.'s Big Bowling Date

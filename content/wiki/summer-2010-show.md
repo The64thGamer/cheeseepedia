@@ -17,21 +17,21 @@ This show played from July - August 31, 2010.
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  CEC TV ID - 'Aquarium'
-2.**Segment 1**
+2. **Segment 1**
     1.  'Best Friends'
     2.  'Summertime'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Backstage Pass - 'Kicking Daisies'
     2.  CEC TV ID - 'Dancing Food'
     3.  Fun Facts - 'The Human Eye'
     4.  The Zula Patrol - 'The Canyon'
     5.  Sound Splosion: Anna Margaret - 'Something About The Sunshine'
     6.  CEC TV ID - 'Parachute'
-4.**Segment 2**
+4. **Segment 2**
     1.  ['Ain't Nothing Wrong With That'](https://en.wikipedia.org/wiki/Colorblind_(Robert_Randolph_album))
-5.**Intermission 3**
+5. **Intermission 3**
     1.  CEC TV ID - 'Crane Game'
     2.  Ralph's World - 'Gotta Be Good'
     3.  CEC TV ID - 'Color The Numbers'
@@ -42,9 +42,9 @@ This show played from July - August 31, 2010.
     8.  CEC TV ID - 'Pizza Parachute'
     9.  VeggieTales - 'Song of the Cebu'
     10. Busytown Mysteries - 'The Cheese Car Chomp Mystery'
-6.**Segment 3**
+6. **Segment 3**
     1.  'Ray of Sunshine'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Fun Facts - 'Emperor Penguins'
     2.  Noonbory & The Super 7 - 'A Honey Of A Tale'
     3.  Wild Animal Baby - 'A Tall Tail'
@@ -52,9 +52,9 @@ This show played from July - August 31, 2010.
     5.  Pocoyo - 'The Big Sneeze'
     6.  CEC TV ID - 'Space Kids'
     7.  Will & Dewitt - 'My New Boots'
-8.**Segment 4**
+8. **Segment 4**
     1.  ['Hey, Soul Sister'](https://en.wikipedia.org/wiki/Hey,_Soul_Sister)
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Fun Facts - 'Porcupines Float in Water'
     2.  CEC TV ID - 'Skeeball'
     3.  Dive Olly Dive! - 'Everyone Makes Mistakes'

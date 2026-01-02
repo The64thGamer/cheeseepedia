@@ -14,31 +14,31 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['Larger Than Life'](https://en.wikipedia.org/wiki/Larger_than_Life_(song))
     2.  ['House of Bamboo'](https://en.wikipedia.org/wiki/The_Essential_Andy_Williams)
-2.**Intermission 1**
+2. **Intermission 1**
     1.  VeggieTales - 'I Can Be Your Friend.'
     2.  Baking with Betty - 'Trail Mix'
     3.  CEC TV ID - 'Cows'
-3.**Segment 2**
+3. **Segment 2**
     1.  [Little Angel Eyes'](https://en.wikipedia.org/wiki/Pretty_Little_Angel_Eyes'Pretty)
     2.  ['Ace In The Hole'](https://en.wikipedia.org/wiki/Ace_in_the_Hole_(George_Strait_song))
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Eddie Coker - 'One Big Family'
     2.  WFW Babysitter
     3.  CEC TV ID - 'Rocketship'
-5.**Segment 3**
+5. **Segment 3**
     1.  'Combo #5' (parody of [Mambo No. 5'](https://en.wikipedia.org/wiki/Mambo_No._5#Lou_Bega_version))
     2.  ['We Got The Beat'](https://en.wikipedia.org/wiki/We_Got_the_Beat)
-6.**Intermission 3**
+6. **Intermission 3**
     1.  VeggieTales - 'The Water Buffalo Song'
     2.  Wacky Pirates in the Outfield
     3.  CEC TV ID - 'Cows'
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Ready To Run'](https://en.wikipedia.org/wiki/Ready_to_Run_(song))
     2.  ['Jump Shout Boogie'](https://en.wikipedia.org/wiki/This_One%27s_for_You_(Barry_Manilow_album))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  VeggieTales - 'Endangered Love'
     2.  Vintage Planes
     3.  CEC TV ID - 'Rocketship'

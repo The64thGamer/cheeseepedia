@@ -15,7 +15,7 @@ This was created with the idea to play between promotional events.
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Jasper T. Jowls - 'Wash the Bus'
     2.  KIDZ BOP Kids - 'Made You Look'
     3.  Vee Friends - 'Be the Bigger Person/Lil Lit Lamb'
@@ -24,23 +24,23 @@ This was created with the idea to play between promotional events.
     6.  KIDZ BOP Kids - 'CUFF IT'
     7.  Chuck E. Cheese - 'Banana Dog'
     8.  KIDZ BOP Kids - 'Sunroof'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'I Love Sparkles'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  KIDZ BOP Kids - 'Golden Hour'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - 'Do Re Mi'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  KIDZ BOP Kids - 'Space Man'
-6.**Skit 3**
+6. **Skit 3**
     1.  Helen Henny - 'Ves Al Ratoncito'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  KIDZ BOP Kids - 'ABC'
     2.  Vee Friends - 'Analysis Paralysis/Rare Robot'
     3.  KIDZ BOP Kids - 'Unstoppable'
-8.**Skit 4**
+8. **Skit 4**
     1.  Bella B., Mike Wolf, & Chuck E. - 'El Rey Guitarrista'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  KIDZ BOP - 'River'
 10. **Skit 5**
     2.  Chuck E. & Friends - 'Join The Party'

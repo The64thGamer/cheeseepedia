@@ -14,12 +14,12 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberami
 This show is intended for all international locations to play. (Excluding Canada, Puerto Rico, and Mexico) Mexico will play the {{< wiki-link "Chuck E. Cheese Kidz Bop Show 2023" >}} while Canada and Puerto Rico play the {{< wiki-link "Chuck E. Cheese Spring Show 2023" >}} The automatic live is Spring Break Break Dance.
 
 ## Show List:
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Safety Message
     2.  KIDZ BOP Kids - 'Break My Heart'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'Ves Al Ratoncito'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Keith Urban - 'Out Of The Cage'
     2.  KIDZ BOP Kids - 'KIDZ BOP Never Stop'
 4.  Skit 2

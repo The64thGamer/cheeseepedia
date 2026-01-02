@@ -42,7 +42,7 @@ On November 10th, 2024, exactly one year from the original Northridge Grand Re-O
 
 ## Show Segments
 
-1.**Segment 1**
+1. **Segment 1**
     1.  Northridge Skit
-2.**Segment 2**
+2. **Segment 2**
     1.  Together We Got It

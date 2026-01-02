@@ -37,19 +37,19 @@ The ***Artie Antlers Showtape* is a showtape released for the {{< wiki-link "Art
     1.  A Chicken Ain't Nothin' But a Bird
 9.   **Segment** **9**
     1.  Bessie
-10.**Segment** **10**
+10. **Segment** **10**
     1.  Sad Sap Sucker
     2.  Don't Let it Bother You
-11.**Segment** **11**
+11. **Segment** **11**
     1.  Great Balls of Fire
-12.**Segment** **12**
+12. **Segment** **12**
     1.  Tiptoe Through the Tulips
     2.  Tea for Two
     3.  Rock Around the Clock
-13.**Segment** **13**
+13. **Segment** **13**
     1.  Be Kind to Your Web Footed Friends
     2.  Three Little Fishes
-14.**Segment** **14**
+14. **Segment** **14**
     1.  Yankee Doodle Dandy
     2.  Dixie
     3.  Grand Old Flag

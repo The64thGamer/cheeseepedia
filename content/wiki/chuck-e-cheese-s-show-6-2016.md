@@ -15,31 +15,31 @@ This was created to play from August 22nd, 2016 - October 2nd, 2016. This show f
 
 ## Show List:
 
-1.**Skit 1**
+1. **Skit 1**
     1.  CEC Promo - 'Happy Birthday, Jasper!'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Simple Plans - 'Singing In The Rain'
     2.  CEC Promo - 'Chef Gregory Part 1'
     3.  Caspar Babypants - 'My Flea Has Dogs'
-3.**Skit 2**
+3. **Skit 2**
     1.  Chuck E. & Jasper - 'Nothing Like A Walk'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Shakira - 'Try Everything'
     2.  CEC Promo - 'Chef Gregory Part 2'
     3.  David Guetta feat. Zara Larsson - 'That One's For You'
     4.  Space Pop - 'Start Something Big'
-5.**Skit 3**
+5. **Skit 3**
     1.  Chuck E. & Friends - 'Cowboy's Life For Me'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Katy Perry - 'Rise'
     2.  CEC Promo - 'Buffet'
     3.  Fun Facts With Chuck E. - 'Cardiff Giant'
-7.**Skit 4**
+7. **Skit 4**
     1.  CEC Promo - 'Happy Birthday, Jasper!'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Calvin Harris feat. Rihanna - 'This is What You Came For'
     2.  CEC Promo - Birthday Commercial(Magic Ticket)
-9.**Skit 5**
+9. **Skit 5**
     1.  Chuck E. Cheese - 'Let's Have A Party'
 10. **Intermission 5**
     1.  The 1975 - 'The Sound'

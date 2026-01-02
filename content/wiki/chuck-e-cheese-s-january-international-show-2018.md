@@ -17,29 +17,29 @@ This show introduces a new character to the band. A hispanic bunny called Bella 
 
 ## Show List:
 
-1.**Skit 1**
+1. **Skit 1**
     1.  Chuck E. Cheese - 'Let's Have A Party'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Musings with Mr. Munch - Episode 1
     2.  Show Break 1
     3.  Jokes from Pasqually - 'Gorilas'
-3.**Skit 2**
+3. **Skit 2**
     1.  Pasqually The Chef - 'LoopinsBoopinFakinDoopinFloppenLoopen Funnin´s Day'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Fun Facts with Chuck E. Cheese - 'Full Moon'
     2.  Show Break 2
     3.  Mr. Munch 1 Minute Countdown (Retro)
-5.**Skit 3**
+5. **Skit 3**
     1.  Chuck E. & Friends - 'Song Title'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC Sketch - 'Steve Waters Journey'
     2.  CEC Sketch - Helen Henny´s Hollywood
-7.**Skit 4**
+7. **Skit 4**
     1.  Hellen Henny & Bella The Bunny 'Bailando'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC Sketch - Counting Sheep
     2.  CEC Sketch - Pizza Plant
-9.**Skit 5**
+9. **Skit 5**
     1.  Chuck E. Cheese & Friends - 'Cowboys Life'
 10. **Intermission 5**
     1.  Jokes from Pasqually - 'Spots'

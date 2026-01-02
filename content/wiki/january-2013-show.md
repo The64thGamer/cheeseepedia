@@ -17,26 +17,26 @@ categories = ["Chuck E. Cheese's"]
 
 1.**Song 1**
     1.  [Working For The Weekend](https://en.wikipedia.org/wiki/Working_for_the_Weekend)
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Veggietales - 'Happy Toothday'
     2.  Chillout 1 - Circle of Life
     3.  CEC TV ID - 'Singing Animals'
 3.**Song 2**
     1.  Need a New Wheel (Parody of [Head Over Heels](https://en.wikipedia.org/wiki/Head_over_Heels_(Tears_for_Fears_song)))
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Fraggle Rock - 'Pass It On'
     2.  Chillout 2 - 'Electro Space'
     3.  CEC TV ID - 'Jawbreaker'
 5.**Song 3**
     1.  [Crocodile Rock](https://en.wikipedia.org/wiki/Crocodile_Rock)
-6.**Intermission 3**
+6. **Intermission 3**
     1.  My Little Pony - 'Winter Wrap Up'
     2.  Super Jasper - 'Break the Record'
     3.  Chillout 3 - 'Rock Climbing'
     4.  CEC TV ID - 'Digestion'
 7.**Song 4**
     1.  [Sing a Song](https://en.wikipedia.org/wiki/Sing_a_Song_(Earth,_Wind_%26_Fire_song))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Tim & the Space Cadets - 'Super Hero'
     2.  Chillout 4 - 'Underwater'
     3.  CEC TV ID - 'Flashing Hand'

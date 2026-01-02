@@ -19,7 +19,7 @@ categories = ["Chuck E. Cheese's"]
 1.   **Segment 1**
     1.  ['Old Time Rock & Roll'](https://en.wikipedia.org/wiki/Old_Time_Rock_and_Roll)
     2.  'Chores'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Coke Spot 1
     2.  VeggieTales: 'Larry Sings The Blues'
     3.  CEC TV ID - 'Radio Towers'
@@ -30,7 +30,7 @@ categories = ["Chuck E. Cheese's"]
 3.   **Segment 2**
     1.  ['All For You'](https://en.wikipedia.org/wiki/All_for_You_(Sister_Hazel_song))
     2.  'Keep It Groovin''
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Funimation: 'Marvin The Tap-Dancing Horse'
     2.  CEC TV ID - 'NBC Chime'
     3.  Countdown 3
@@ -51,7 +51,7 @@ categories = ["Chuck E. Cheese's"]
 7.   **Segment 4**
     1.  'Ranchin'' (parody of ['You Should Be Dancing'](https://en.wikipedia.org/wiki/You_Should_Be_Dancing)
     2.  ['Blue Suede Shoes'](https://en.wikipedia.org/wiki/Blue_Suede_Shoes)
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Funimation: 'Marvin The Tap-Dancing Horse'
     2.  Skateboarding
     3.  CEC TV ID - 'Chuck E. Skateboarding'

@@ -20,9 +20,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     4.  Chuck E. & Friends - 'Fireworks Tonight'
     5.  KIDZ BOP Kids - 'Yes, And'
     6.  Chuck E. & Helen - 'I Dare You Not to Laugh'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'I Love Sparkes'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Down the Road'
     2.  Chuck E. & Friends - 'Most Perfect Day'
     3.  KIDZ BOP Never Stop
@@ -38,9 +38,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     13. Chuck E. & Friends - 'Song of Summer'
     14. Chuck E. & Friends - 'Ves Al Ratoncito'
     15. DJ Munch - 'Join the Party'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - 'Together We've Got It'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Jasper T. Jowls - 'Wash the Bus'
     2.  KIDZ BOP Kids - 'TQG'
     3.  Chuck E. & Friends - 'Barbara the Barnyard Barber'
@@ -72,9 +72,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     3.  Chuck E. & Friends - 'Fireworks Tonight'
     4.  KIDZ BOP Kids - 'Yes, And'
     5.  Chuck E. & Helen - 'I Dare You Not to Laugh'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'I Love Sparkes'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Down the Road'
     2.  Chuck E. & Friends - 'Most Perfect Day'
     3.  KIDZ BOP Never Stop
@@ -90,9 +90,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     13. Chuck E. & Friends - 'Song of Summer'
     14. Chuck E. & Friends - 'Ves Al Ratoncito'
     15. DJ Munch - 'Join the Party'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - 'Together We've Got It'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Jasper T. Jowls - 'Wash the Bus'
     2.  KIDZ BOP Kids - 'TQG'
     3.  Chuck E. & Friends - 'Barbara the Barnyard Barber'
@@ -125,9 +125,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     4.  Chuck E. & Friends - 'Fireworks Tonight'
     5.  KIDZ BOP Kids - 'Yes, And'
     6.  Chuck E. & Helen - 'I Dare You Not to Laugh'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'I Love Sparkes'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Down the Road'
     2.  Chuck E. & Friends - 'Most Perfect Day'
     3.  KIDZ BOP Never Stop
@@ -143,9 +143,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     13. Chuck E. & Friends - 'Song of Summer'
     14. Chuck E. & Friends - 'Ves Al Ratoncito'
     15. DJ Munch - 'Join the Party'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - 'Together We've Got It'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Jasper T. Jowls - 'Wash the Bus'
     2.  KIDZ BOP Kids - 'TQG'
     3.  Chuck E. & Friends - 'Barbara the Barnyard Barber'
@@ -177,9 +177,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     3.  Chuck E. & Friends - 'Fireworks Tonight'
     4.  KIDZ BOP Kids - 'Yes, And'
     5.  Chuck E. & Helen - 'I Dare You Not to Laugh'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'I Love Sparkes'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Down the Road'
     2.  Chuck E. & Friends - 'Most Perfect Day'
     3.  KIDZ BOP Never Stop
@@ -195,9 +195,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     13. Chuck E. & Friends - 'Song of Summer'
     14. Chuck E. & Friends - 'Ves Al Ratoncito'
     15. DJ Munch - 'Join the Party'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - 'Together We've Got It'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Jasper T. Jowls - 'Wash the Bus'
     2.  KIDZ BOP Kids - 'TQG'
     3.  Chuck E. & Friends - 'Barbara the Barnyard Barber'
@@ -230,9 +230,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     4.  Chuck E. & Friends - 'Fireworks Tonight'
     5.  KIDZ BOP Kids - 'Yes, And'
     6.  Chuck E. & Helen - 'I Dare You Not to Laugh'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'I Love Sparkes'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Down the Road'
     2.  Chuck E. & Friends - 'Most Perfect Day'
     3.  KIDZ BOP Never Stop
@@ -248,9 +248,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     13. Chuck E. & Friends - 'Song of Summer'
     14. Chuck E. & Friends - 'Ves Al Ratoncito'
     15. DJ Munch - 'Join the Party'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - 'Together We've Got It'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Jasper T. Jowls - 'Wash the Bus'
     2.  KIDZ BOP Kids - 'TQG'
     3.  Chuck E. & Friends - 'Barbara the Barnyard Barber'
@@ -283,9 +283,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     4.  Chuck E. & Friends - 'Fireworks Tonight'
     5.  KIDZ BOP Kids - 'Yes, And'
     6.  Chuck E. & Helen - 'I Dare You Not to Laugh'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'I Love Sparkes'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Down the Road'
     2.  Chuck E. & Friends - 'Most Perfect Day'
     3.  Tenacious D - 'Baby One More Time'
@@ -301,9 +301,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     13. Chuck E. & Friends - 'Song of Summer'
     14. Chuck E. & Friends - 'Ves Al Ratoncito'
     15. DJ Munch - 'Join the Party'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - 'Together We've Got It'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Jasper T. Jowls - 'Wash the Bus'
     2.  KIDZ BOP Kids - 'TQG'
     3.  Chuck E. & Friends - 'Barbara the Barnyard Barber'
@@ -334,9 +334,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     3.  Chuck E. & Friends - 'Fireworks Tonight'
     4.  KIDZ BOP Kids - 'Yes, And'
     5.  Chuck E. & Helen - 'I Dare You Not to Laugh'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'I Love Sparkes'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Down the Road'
     2.  Chuck E. & Friends - 'Most Perfect Day'
     3.  Tenacious D - 'Baby One More Time'
@@ -352,9 +352,9 @@ showtapeFormats = ["Legacy CEC Stage Navori"]
     13. Chuck E. & Friends - 'Song of Summer'
     14. Chuck E. & Friends - 'Ves Al Ratoncito'
     15. DJ Munch - 'Join the Party'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - 'Together We've Got It'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Jasper T. Jowls - 'Wash the Bus'
     2.  KIDZ BOP Kids - 'TQG'
     3.  Chuck E. & Friends - 'Barbara the Barnyard Barber'

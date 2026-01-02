@@ -16,10 +16,10 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['Free Ride'](https://en.wikipedia.org/wiki/Free_Ride_(song))
     2.  ['Splish Splash'](https://en.wikipedia.org/wiki/Splish_Splash_(song))
-2.**Intermission 1**
+2. **Intermission 1**
     1.   CEC TV ID - 'Singing Fish'
     2.   Minute Maid Spot
     3.   VeggieTales - 'Sport Utility Vehicle (SUV)'
@@ -27,10 +27,10 @@ categories = ["Chuck E. Cheese's"]
     5.  Charlie Rockit - 'Charlie Chorebot'
     6.  CEC TV ID - 'Chuck E. Skateboarding'
     7.  Countdown 2 ('Hip Mouse' footage)
-3.**Segment 2**
+3. **Segment 2**
     1.  'Pollution Is Crazy' (parody of ['She Drives Me Crazy'](https://en.wikipedia.org/wiki/She_Drives_Me_Crazy))
     2.  'Opposite Day'
-4.**Intermission 2**
+4. **Intermission 2**
     1.   CEC TV ID - 'Astronaut'
     2.   NASA Footage
     3.  Pasqually's Polka Minute
@@ -38,10 +38,10 @@ categories = ["Chuck E. Cheese's"]
     5.  Chuck E.'s Zoo View
     6.  CEC TV ID - 'Cell Tower'
     7.   Countdown 4 (Workout Time)
-5.**Segment 3**
+5. **Segment 3**
     1.  ['Girls Just Wanna Have Fun'](https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun)
     2.  'Colors'
-6.**Intermission 3**
+6. **Intermission 3**
     1.   CEC TV ID - 'Fireworks'
     2.   Coke Spot
     3.  VeggieTales - 'Belly Button'
@@ -49,10 +49,10 @@ categories = ["Chuck E. Cheese's"]
     5.  Super Jasper - 'Resist The Temptation'
     6.  CEC TV ID - 'NBC Chime'
     7.  Countdown 6 ('Do You Love Me' footage)
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Disco Inferno'](https://en.wikipedia.org/wiki/Disco_Inferno)
     2.  ['Stand By Me'](https://en.wikipedia.org/wiki/Stand_by_Me_(Ben_E._King_song))
-8.**Intermission 4**
+8. **Intermission 4**
     1.   CEC TV ID - 'Color The Numbers'
     2.  Pizza Survivor
     3.  Charlie Rockit - 'Cooler Downer'

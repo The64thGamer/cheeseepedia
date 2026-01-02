@@ -19,35 +19,35 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.**Segment 1**
+1. **Segment 1**
     1.  VJ Spot
     2.  'Go To Chuck E. Cheese'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID 'Pool Plug'
     2.  Monkey Ninjas - Episode 5
     3.  Sing-along Guys - 'BINGO'
-3.**Segment 2**
+3. **Segment 2**
     1.  'Keep It Groovin''
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID 'Sunrise'
     2.  Exercise TV Spot
     3.  Wow Wow Wubbzy Spot
-5.**Segment 3**
+5. **Segment 3**
     1.  VJ Spot
     2.  'Opposite Day'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID 'Marx Bros'
     2.  Kung Fu Panda Spot
     3.  Shrek The Halls Spot
     4.  Super Jasper - 'Staring Contest'
     5.  CEC Birthday Promo
-7.**Segment 4**
+7. **Segment 4**
     1.  'Trashman'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID 'Radio Towers'
     2.  Skateboarding
     3.  Exercise TV Spot
-9.**Segment 5**
+9. **Segment 5**
     1.  VJ Spot
     2.  'What Up'
 10. **Intermission 5**

@@ -16,34 +16,34 @@ This was created to play from April 10th 2017. - May 20th 2017. This show featur
 
 ## Show List:
 
-1.**Skit 1**
+1. **Skit 1**
     1.  40 Years of Fun - '1970s'
-2.**Intermission 2**
+2. **Intermission 2**
     1.  Bee Gees - 'Stayin' Alive'
     2.  1977 Pizza Time Theater Montage
     3.  Floogals - 'Birthday Cake'
     4.  Chef Gregory & Ronnie the Unicorn
-3.**Skit 2**
+3. **Skit 2**
     1.  Chuck E. & Friends - 'Remember That Time'
-4.**Intermission 3**
+4. **Intermission 3**
     1.  Splash & Bubbles - 'Rhythm of the Reef'
     2.  Jo Jo & The Pinecones - 'Breakfast For Dinner'
     3.  40 Years of Fun TV Spot
     4.  ShowBiz Pizza Cyberstar Intro
-5.**Skit 3**
+5. **Skit 3**
     1.  40 Years of Fun - '1980s'
-6.**Intermission 4**
+6. **Intermission 4**
     1.  Whitney Houston - 'I Wanna Dance With Somebody'
     2.  1980s Chuck E. Cheese's Pizza Time Theatre Commercial
     3.  Musing With Munch: Episode 1
     4.  Ticket Dance
-7.**Skit 4**
+7. **Skit 4**
     1.  Chuck E. & Munch's Make Believe Band - 'Together We've Got It'
-8.**Intermission 5**
+8. **Intermission 5**
     1.  Secret Agent 23 Skidoo - 'Family Tree'
     2.  Buffet
     3.  CEC TV 1990s Promo
-9.**Skit 5**
+9. **Skit 5**
     1.  40 Years of Fun - '1990s'
 10. **Intermission 6**
     1.  The Rembrandts - 'I'll Be There For You'

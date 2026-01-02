@@ -14,13 +14,13 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Fall Out Boy - 'Uma Thurman'
     2.  CEC Promo - 'Moms Spot'
     3.  Josh & The Jamtones - 'Jump Up!' (Live at Chuck E. Cheese's)
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese & Mr. Munch - 'Trick or Treat'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Maddie and Tae - 'Fly'
     2.  Cartoon Network - We Bare Bears - 'Breakfast'
     3.  Shawn Mendes - 'I Believe'
@@ -33,9 +33,9 @@ categories = ["Chuck E. Cheese's"]
     10. CEC Promo - 'Birthday'
     11. Kidz Bop - 'Ghostbusters'
     12. Cartoon Network - Gumball - 'Halloween'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese and Friends - 'Costume Party'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Josh & The Jamtones - 'Rock Steady'
     2.  Cartoon Network - We Bare Bears - 'Basketball'
     3.  CEC Promo - 'Dads Promo'

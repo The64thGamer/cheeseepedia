@@ -14,37 +14,37 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Justin Timberlake - 'Can't Stop the Feeling'
     2.  CEC Sketch - 'Carl Clean'
     3.  Casper Babypants - 'Pretty Crabby'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'Song Title'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Meghan Trainor - 'Me Too'
     2.  Fraggle Rock - 'Wembley & the Gorgs'
     3.  Sofia Carson - 'Love is the Name'
     4.  Ice Age 'Collison Course' Trailer
     5.  Josh & The Jamtones - 'Vamos a la Playa'
-4.**Skit 2**
+4. **Skit 2**
     1.  Helen Henny - 'Dream Big'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Ne-Yo - 'Friend Like Me'
     2.  CEC Promo - 'Buffet'
     3.  Alessia Cara - 'Wild Things'
     4.  CEC Promo - 'Birthdays'
     5.  Casper Babypants - 'Too Dirty To Love'
-6.**Skit 3**
+6. **Skit 3**
     1.  Chuck E. & Jasper - 'Nothing Like A Walk'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  American Authors - 'Go Big Or Go Home'
     2.  Fraggle Rock - 'Fun is Here to Stay'
     3.  CEC Food Truck Promo
     4.  Fun Facts with CEC - 'Yawning'
     5.  CEC Promo - 'Out of This World Fun'
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. & Friends - 'Out of This World'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Josh & The Jamtones - 'Clap It'
     2.  Janet Jackson - 'Escapade'
     3.  CEC TV Bumper (Animals)

@@ -18,35 +18,35 @@ The **April 2009 Show** was a show released in April of 2009 which featured eigh
 
 ## Studio C Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['On Top of The World'](https://en.wikipedia.org/wiki/Boys_Like_Girls_(album))
     2.  ['When Did Your Heart Go Missing?'](https://en.wikipedia.org/wiki/When_Did_Your_Heart_Go_Missing%3F)
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Sports'
     2.  Coke Spot
     3.  Chuck E. Cheese News - 'The Tater'
     4.  CEC TV ID - Color The Numbers
-3.**Segment 2**
+3. **Segment 2**
     1.  'Super Chuck E.' (parody of ['Jungle Boogie'](https://en.wikipedia.org/wiki/Jungle_Boogie))
     2.  ['Pocketful of Sunshine'](https://en.wikipedia.org/wiki/Pocketful_of_Sunshine)
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - Pizza Parachute
     2.  VeggieTales - 'Sneeze If You Need To'
     3.  Chillout ('Eight Days A Week' footage)
     4.  PBS Kids Spot
     5.  CEC TV ID - 'Movie Refreshments'
-5.**Segment 3**
+5. **Segment 3**
     1.  ['Year 3000'](https://en.wikipedia.org/wiki/Year_3000)
     2.  ['I Need a Holiday'](https://en.wikipedia.org/wiki/Scouting_for_Girls_(album))
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - Skeeball
     2.  Alvin & The Chipmunks
     3.  Storytime With Chuck E.
     4.  CEC TV ID - Cell Tower
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Friend'](https://en.wikipedia.org/wiki/Year_3000)
     2.  ['I'm Shakin''](https://en.wikipedia.org/wiki/Rooney_(album))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - Jawbreaker
     2.  Coke Spot
     3.  Bluescreen Time
@@ -55,35 +55,35 @@ The **April 2009 Show** was a show released in April of 2009 which featured eigh
 
 ## Existing Stage Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  ['On Top of The World'](https://en.wikipedia.org/wiki/Boys_Like_Girls_(album))
     2.  ['When Did Your Heart Go Missing?'](https://en.wikipedia.org/wiki/When_Did_Your_Heart_Go_Missing%3F)
-2.**Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Sports'
     2.  Coke Spot
     3.  Chuck E. Cheese News - 'The Tater'
     4.  CEC TV ID - 'Color The Numbers'
-3.**Segment 2**
+3. **Segment 2**
     1.  'Super Chuck E.' (parody of ['Jungle Boogie'](https://en.wikipedia.org/wiki/Jungle_Boogie))
     2.  ['Pocketful of Sunshine'](https://en.wikipedia.org/wiki/Pocketful_of_Sunshine)
-4.**Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - Pizza Parachute
     2.  VeggieTales - 'Sneeze If You Need To'
     3.  PBS Kids Spot
     4.  CEC TV ID - 'Dancing Food'
-5.**Segment 3**
+5. **Segment 3**
     1.  ['Year 3000'](https://en.wikipedia.org/wiki/Year_3000)
     2.  ['I Need a Holiday'](https://en.wikipedia.org/wiki/Scouting_for_Girls_(album))
-6.**Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - Skeeball
     2.  Alvin & The Chipmunks
     3.  Storytime With Chuck E.
     4.  Chillout ('Eight Days A Week' footage)
     5.  CEC TV ID - Cell Tower
-7.**Segment 4**
+7. **Segment 4**
     1.  ['Friend'](https://en.wikipedia.org/wiki/Year_3000)
     2.  ['I'm Shakin''](https://en.wikipedia.org/wiki/Rooney_(album))
-8.**Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - Jawbreaker
     2.  Coke Spot
     3.  CEC TV Artist Spotlight: KIDZ Bop Kids - 'Take You There (Feat. Sean Kingston)'

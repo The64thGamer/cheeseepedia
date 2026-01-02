@@ -19,23 +19,23 @@ To Do:
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  6 Minute Countdown
         1.  [You're Not Alone](https://en.wikipedia.org/wiki/You%27re_Not_Alone_(Chicago_song))
         2.  Birthday Spectacular
         3.  [Eternal Flame](https://en.wikipedia.org/wiki/Eternal_Flame_(song))
     2.  Cyberstar Intro
-2.**Segment 1**
+2. **Segment 1**
     1.  Summer Safety
-3.**Intermission 2**
+3. **Intermission 2**
     1.  6 Minute Countdown
         1.  [We've Saved the Best for Last](https://en.wikipedia.org/wiki/We%27ve_Saved_the_Best_for_Last)
         2.  Birthday Spectacular
         3.  [The Living Years](https://en.wikipedia.org/wiki/The_Living_Years)
     2.  Cyberstar Intro
-4.**Segment 2**
+4. **Segment 2**
     1.  Liberty
-5.**Intermission 3**
+5. **Intermission 3**
     1.  6 Minute Countdown
         1.  [Lost in Your Eyes](https://en.wikipedia.org/wiki/Lost_in_Your_Eyes)
         2.  Birthday Spectacular

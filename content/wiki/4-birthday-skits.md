@@ -14,11 +14,11 @@ categories = ["ShowBiz Pizza Place"]
 
 ## Segment List
 
-1.**Segment 1**
+1. **Segment 1**
     1.  Earl's Birthday Intro
-2.**Segment 2**
+2. **Segment 2**
     1.  Billy Bob's Birthday Intro
-3.**Segment 3**
+3. **Segment 3**
     1.  Mitzi's Birthday Intro
-4.**Segment 4**
+4. **Segment 4**
     1.  Birthday Medley

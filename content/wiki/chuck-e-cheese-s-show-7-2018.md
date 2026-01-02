@@ -21,32 +21,32 @@ This was created to play from November 5, 2018 - December 30, 2018. Featuring 4 
 
 ## Show List:
 
-1.**Skit 1**
+1. **Skit 1**
     1.  Chuck E. Cheese & Friends - 'Share The Joy'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  Oddbods - 'Gift Thief'
     2.  Mariah Carey - 'Oh Santa!'
     3.  Nina's World - 'Favorite Thing about Christmas'
-3.**Skit 2**
+3. **Skit 2**
     1.  Chuck E. Cheese & Helen - 'Merry Christmas Time'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Littlest Pet Shop - 'Call of the Wild Retreat'
     2.  Asher Angel - 'Snow Globe Wonderland'
-5.**Skit 3**
+5. **Skit 3**
     1.  Helen Henny - 'All I Want for Christmas'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Lindsey Stirling - 'Dance of the Sugar Plum Fairy'
     2.  Fun Facts with Chuck E. - 'Santa Claus'
     3.  Monster High Ghoul Squad - 'Snowball Fight'
     4.  In Real Life - 'I'll Be Home for Christmas'
     5.  Musing with Mr. Munch - 'Episode 6 (The Holidays)'
     6.  Brady Rhymer - 'Hanukkah Rocks'
-7.**Skit 4**
+7. **Skit 4**
     1.  Pasqually - 'What Do You Get a Sasquatch for Christmas?'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Littlest Pet Shop - 'Classy & Refined'
     2.  Kidz Bop - 'Go Christmas'
-9.**Skit 5**
+9. **Skit 5**
     1.  Chuck E. Cheese & Friends - 'Holiday Medley'
         1.  Jingle Bells
         2.  Jolly Old St. Nicholas

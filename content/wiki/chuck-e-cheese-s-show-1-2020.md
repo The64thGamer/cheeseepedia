@@ -14,36 +14,36 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Fun Songs - 'It's Chuck E.'
     2.   KIDZ BOP Kids - 'Sorry Not Sorry'
     3.   Discovery Familia - Doki - 'Expression 80's'
-2.**Skit 1**
+2. **Skit 1**
     1.  Helen Henny's - 'Game On!'
-3.**Intermission 2**
+3. **Intermission 2**
     1.   Universal Kids - 'Power Birds 1'
     2.   Andy Grammer - 'She'd Say'
     3.  Fun Songs - 'Oh Helen Henny'
     4.   Panic! At the Disco - 'Into The Unknown'
     5.   Tails of Friendship Ep3, - 'Pink Frosted Donuts'
-4.**Skit 2**
+4. **Skit 2**
     1.  Pasqually - 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day'
-5.**Intermission 3**
+5. **Intermission 3**
     1.   Universal Kids - 'Floogals'
     2.   Dandy Aridi - 'Let Go'
     3.  Fun Songs - 'Oh Oh Oh Pasqually'
     4.   Matt Nathanson - 'Modern Love:
     5.   Universal Kids - 'American Ninja Warrior Jr'
     6.  Fun Songs - 'Unicorn, Unicorn!'
-6.**Skit 3**
+6. **Skit 3**
     1.  Chuck E. & Friends - 'Play All You Can Play'
-7.**Intermission 4**
+7. **Intermission 4**
     1.   MOTi - 'Just Don't Know It Yet'
     2.   Universal Kids - 'Power Birds 2'
     3.  Fun Songs - 'He's Mr. Munch'
-8.**Skit 4**
+8. **Skit 4**
     1.  Helen Henny - 'Disco Dancing Dinosaur Party'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Fun Songs - 'Jasper T. Jowls'
     2.  JD McCary - 'Keep In Touch'
     3.   Nigel & Ronnie - 'The Fly'

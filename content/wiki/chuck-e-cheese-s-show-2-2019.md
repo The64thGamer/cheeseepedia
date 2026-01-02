@@ -21,13 +21,13 @@ This was created to play from April 1, 2019 - June 31, 2019. Featuring 4 songs. 
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Post Malone feat. Swea Lee - 'Sunflower'
     2.  American Ninja Warrior Junior
     3.  Kabillion - 'Oddbods'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese & Friends - 'Ves Al Ratoncito'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  YouTube Promo 1
     2.  Alesso - 'Remedy'
     3.  Kabillion - 'Barbie'
@@ -35,9 +35,9 @@ This was created to play from April 1, 2019 - June 31, 2019. Featuring 4 songs. 
     5.  Fun Facts With Chuck E. - 'Math'
     6.  Louis The Child With Max - 'Dear Sense'
     7.  Nina's World
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese & Friends - 'Fun!'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  YouTube Promo 2
     2.  Kabillion - 'Oddbods'
     3.  New Hope Club - 'Good Day'
@@ -45,16 +45,16 @@ This was created to play from April 1, 2019 - June 31, 2019. Featuring 4 songs. 
     5.  Jonas Blue, Liam Payne, Lennon Stella - 'Polaroid'
     6.  American Ninja Warrior Junior
     7.  Kit 'N Kate - 'The Big Bouquet'
-6.**Skit 3**
+6. **Skit 3**
     1.  Chuck E. Cheese & Friends - 'Laughter Is The Best Medicine'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  YouTube Promo 3
     2.  Switchfoot - 'All I Need'
     3.  Counting Sheep
     4.  Kabillion - 'Barbie'
-8.**Skit 4**
+8. **Skit 4**
     1.  Helen Henny - 'Gamin' Time'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  YouTube Promo 4
     2.  Zedd, Maren Morris, Grey - 'The Middle'
     3.  Tails of Friendship with Jasper T. Jowls

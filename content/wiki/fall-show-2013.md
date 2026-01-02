@@ -15,29 +15,29 @@ This was created to play from September 1st - December 1, 2013.
 
 ## Show List:
 
-1.**Segment 1**
+1. **Segment 1**
     1.  'Tricky'
-2.**Intermission 1**
+2. **Intermission 1**
     1.  'Fraggle Rock 'Wembley & The Grogs'
     2.  Chill Out 1
-3.**Segment 2**
+3. **Segment 2**
     1.  'Good Time'
     2.  'Eye Of The Tiger'
-4.**Intermission 2**
+4. **Intermission 2**
     1.  Hard Hat Hank - 'Time Machine'
     2.  'Free Birds' Promo
     3.  CEC Live Promo
     4.  Chill Out 2
-5.**Segment 3**
+5. **Segment 3**
     1.  'Home'
-6.**Intermission 3**
+6. **Intermission 3**
     1.  Tim & The Space Cadets - '2nd Grade Show'
     2.  Veggietales - 'Stilts & Kilts'
     3.  Chill Out 3
-7.**Segment 4**
+7. **Segment 4**
     1.  '1985'
     2.  'Cars'
-8.**Intermission 4**
+8. **Intermission 4**
     1.  Marvin The Tech Guru - 'Beards'
     2.  Pajanimals - 'Pajamarama Bounce'
     3.  'Free Birds' Trailer

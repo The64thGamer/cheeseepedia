@@ -16,33 +16,33 @@ This was created to play from June 26, 2018 - July 29, 2018. Featuring 4 reused 
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  The Revivalists - 'Wish I Knew You'
     2.  Floogals - 'Training Wheels'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese & Friends - 'Giant Armadillo Named, Phil'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  Kids Click - 'Pac Man'
     2.  Alex Aiono - 'Doesn't Get Better
     3.  Show Break - 'Underwater'
     4.  My Little Pony - 'Photos'
     5.  Olivia Holt - 'Phoenix'
-4.**Skit 2**
+4. **Skit 2**
     1.  Pasqually The Chef - 'It's The 70s'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Lisa Loeb - 'In My Room'
     2.  Andy Grammer - 'Give Love'
     3.  Show Break - 'Time Lapse in the City'
     4.  Asher Angel - 'Getaway'
-6.**Skit 3**
+6. **Skit 3**
     1.  Chuck E. Cheese - 'Your Birthdays Are Special'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  Jessie Baylin - 'It's the Summertime'
     2.  Secret Ingredient Slime - 'Beach Day'
     3.  Show Break - 'Beach Flyover'
-8.**Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese & Friends - 'Out of This World'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Imagine Dragons - 'On Top of the World'
     2.  Fun Facts With Chuck E. - 'Math'
     3.  Show Break - 'Over Land & Sea'

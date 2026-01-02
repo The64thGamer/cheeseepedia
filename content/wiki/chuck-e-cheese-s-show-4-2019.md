@@ -21,14 +21,14 @@ This was created to play from September 9, 2019 - November 3, 2019. Featuring 4 
 
 ## Show List:
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  Happy Halloween from Chuck E. Cheese
     2.  Kidz Bop - 'Monster Mash'
     3.  Where's Waldo - 'Ghost Town'
     4.  Barbie Vlog - 'Animal Challenge'
-2.**Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese - 'Just Be Yourself'
-3.**Intermission 2**
+3. **Intermission 2**
     1.  YouTube Promo
     2.  Jonas Blue - 'I See Love'
     3.  OmNom Stories - 'Halloween'
@@ -37,9 +37,9 @@ This was created to play from September 9, 2019 - November 3, 2019. Featuring 4 
     6.  Odd Bods - 'Angry at Nature'
     7.  Alessia Cara - 'Wild Things'
     8.  Jokes from Pasqually - 'Halloween'
-4.**Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese - 'Pumpkin Patch'
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Cheesy Things
     2.  Chris Burton - 'Little Sister'
     3.  The Brightside with Helen Henny - 'Episode 2'
@@ -47,16 +47,16 @@ This was created to play from September 9, 2019 - November 3, 2019. Featuring 4 
     5.  Miguel feat. Natalia Lafourcade - 'Remember Me'
     6.  Normal Picklestripes - 'Smell'
     7.  Angus & Cheryl - 'La Peli de Miedo'
-6.**Skit 3**
+6. **Skit 3**
     1.  Chuck E. Cheese and Mr. Munch - 'I Didn't Need To Be Afraid'
-7.**Intermission 4**
+7. **Intermission 4**
     1.  YouTube Promo
     2.  Not Ur Girlfrienz - 'New Kids in America'
     3.  'Ballerina Ghost'
     4.  Barbie Vlog - 'Audition'
-8.**Skit 4**
+8. **Skit 4**
     1.  Pasqually The Chef - 'Cat-Sitting'
-9.**Intermission 5**
+9. **Intermission 5**
     1.  Nigel & Ronnie - 'Episode 2, Job Interview'
     2.  Musing with Mr. Munch - 'Halloween'
     3.  Halloween at the Pizza Time Theatre

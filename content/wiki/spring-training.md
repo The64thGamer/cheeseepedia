@@ -14,7 +14,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.**Intermission 1**
+1. **Intermission 1**
     1.  5 Minute Countdown
     2.  VJ Spot
     3.  Geography Rap - Japan
@@ -22,10 +22,10 @@ categories = ["Chuck E. Cheese's"]
     5.  The Mailman
     6.  2 Minutes Till Next Show
     7.  Bicycle Built For Two
-2.**Segment 1**
+2. **Segment 1**
     1.  Roll With It
     2.  Good Love
-3.**Intermission 2**
+3. **Intermission 2**
     1.  VJ Spot
     2.  Rock It Up
     3.  Birthday Star
@@ -35,9 +35,9 @@ categories = ["Chuck E. Cheese's"]
     7.  [Jeff Lynne - Every Little Thing](https://en.wikipedia.org/wiki/Every_Little_Thing_(Jeff_Lynne_song))
     8.  CEC TV '93 ID
     9.  VJ Spot
-4.**Segment 2**
+4. **Segment 2**
     1.  Take Me Out To The Ballgame
-5.**Intermission 3**
+5. **Intermission 3**
     1.  Save Us From Extinction
     2.  6 Minute Countdown
     3.  Birthday Star
@@ -46,10 +46,10 @@ categories = ["Chuck E. Cheese's"]
     6.  CEC TV Classic ID
     7.  VJ Spot
     8.  1 Minute Countdown
-6.**Segment 3**
+6. **Segment 3**
     1.  In The Still Of The Night
     2.  Midnight Special
-7.**Intermission 4**
+7. **Intermission 4**
     1.  [Deee-Lite - Groove Is In The Heart](https://en.wikipedia.org/wiki/Groove_Is_in_the_Heart)
     2.  Birthday Star
     3.  Plane, Train, Or Automobile
@@ -57,10 +57,10 @@ categories = ["Chuck E. Cheese's"]
     5.  4 Minutes Till Next Show
     6.  CEC TV News - Munch For President
     7.  VJ Spot
-8.**Segment 1**
+8. **Segment 1**
     1.  Roll With It
     2.  Good Love
-9.**Intermission 5**
+9. **Intermission 5**
     1.  VJ Spot
     2.  Country Dancin'
     3.  Birthday Star
