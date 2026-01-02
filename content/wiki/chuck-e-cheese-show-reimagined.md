@@ -54,7 +54,7 @@ pageThumbnailFile = "CECShowReimagine.avif"
 - 'Take Me Out To The Ballgame' is originally from {{< wiki-link "Spring Training" >}} Segment 2.
 - 'Shake Your Grove Thing' is originally from {{< wiki-link "Fall 2012 Show" >}} Segment 3.
 - 'Dancing On The Moon' is originally from {{< wiki-link "CEC Rock It In Space" >}} Segment 3.
-- 'Party Rock' is originally from {{< wiki-link "April 2012 Show" >}} Segment 1.
+- 'Party Rock' is originally from {{< wiki-link "Spring 2012 Show" >}} Segment 1.
 - 'In The Still Of The Night' and 'Midnight Special' are originally from {{< wiki-link "Spring Training" >}} Segment 3.
 - 'In My Pool' is originally from {{< wiki-link "Summertime 2003" >}} Segment 2.
 - 'I've Been Working On The Railroad' is originally from {{< wiki-link "Working For A Living" >}} Segment 1.
