@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "HistoryofRockandRoll.avif"
 startDate = "1986-04-00"
-endDate = "1986-08-00"
+endDate = "1986-09-01"
 contributors = []
 +++
 ***CEC History of Rock and Roll*** was released in April 1986.
