@@ -6086,18 +6086,6 @@
       "sort": "19889999"
     },
     {
-      "page_get": "wiki/richmond-va-10430-midlothian-turnpike",
-      "page_path": "content/wiki/richmond-va-10430-midlothian-turnpike.md",
-      "page_title": "Richmond, VA (10430 Midlothian Turnpike)",
-      "parts": [
-        "Classic Stage",
-        "1990-05-01",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "19900501"
-    },
-    {
       "page_get": "wiki/farmingdale-ny-229-broadhollow-rd-rt-110",
       "page_path": "content/wiki/farmingdale-ny-229-broadhollow-rd-rt-110.md",
       "page_title": "Farmingdale, NY (229 Broadhollow Rd./Rt. 110)",
@@ -10785,19 +10773,6 @@
       "sort": "20230199"
     },
     {
-      "page_get": "wiki/richmond-va-10430-midlothian-turnpike",
-      "page_path": "content/wiki/richmond-va-10430-midlothian-turnpike.md",
-      "page_title": "Richmond, VA (10430 Midlothian Turnpike)",
-      "parts": [
-        "Chuck E. Live Stage (Dance Floor)",
-        "2023-01-00",
-        "",
-        "2021 Model",
-        ""
-      ],
-      "sort": "20230199"
-    },
-    {
       "page_get": "wiki/valencia-ca-25955-north-the-old-rd",
       "page_path": "content/wiki/valencia-ca-25955-north-the-old-rd.md",
       "page_title": "Valencia, CA (25955 North The Old Rd)",
@@ -15309,16 +15284,95 @@
   ],
   "stages|Concept Unification Stage": [
     {
+      "page_get": "wiki/dallas-tx-13125-montfort-dr",
+      "page_path": "content/wiki/dallas-tx-13125-montfort-dr.md",
+      "page_title": "Dallas, TX (13125 Montfort Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1990-06-00",
+        "1996-08-11",
+        "Was the first ever 3-Stage to undergo Concept Unification. First of 17 3-Stages in Texas to undergo Concept Unification from 1990 to 1992. Replaced the Concept Unification Prototype Stage. This 3-Stage was later replaced by the one and only Awesome Adventure Machine in August 1996.",
+        ""
+      ],
+      "sort": "19900699"
+    },
+    {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
       "page_path": "content/wiki/phoenix-az-8039-north-35th-ave.md",
       "page_title": "Phoenix, AZ (8039 North 35th Ave)",
       "parts": [
         "Concept Unification Stage",
-        "1990-10-00",
-        "",
+        "1990-11-00",
+        "2023-12-28",
+        "One of 2 3-Stages in Arizona to undergo Concept Unification. Oldest CU 3-Stage conversion show in operation from summer 2001 until being removed between late 2022 and early 2023. Last 3-Stage in Arizona from 1998 until stage removal between late 2022/early 2023. Last 3-Stage with early CU backgrounds. Was in decent condition. Chuck had rare 'Cool Chuck' outfit, stage lacked Munch's Make Believe Band Sign for some time, and Wink had the 'In Pizza We Trust' slogan.",
         ""
       ],
-      "sort": "19901099"
+      "sort": "19901199"
+    },
+    {
+      "page_get": "wiki/arlington-tx-3200-justiss-dr",
+      "page_path": "content/wiki/arlington-tx-3200-justiss-dr.md",
+      "page_title": "Arlington, TX (3200 Justiss Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1990-00-00",
+        "2001-00-00",
+        "One of 17 3-Stages in Texas to undergo Concept Unification. Oldest CU 3-Stage conversion show in operation from August 1996 until summer 2001 when the Justiss Dr. store closed.",
+        ""
+      ],
+      "sort": "19909999"
+    },
+    {
+      "page_get": "wiki/altamonte-springs-fl-541-w-hwy-436",
+      "page_path": "content/wiki/altamonte-springs-fl-541-w-hwy-436.md",
+      "page_title": "Altamonte Springs, FL (541 W Hwy 436)",
+      "parts": [
+        "Concept Unification Stage",
+        "1990-00-00",
+        "1998-00-00",
+        "One of 7 3-Stages in Florida to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19909999"
+    },
+    {
+      "page_get": "wiki/orlando-fl-7419-international-dr",
+      "page_path": "content/wiki/orlando-fl-7419-international-dr.md",
+      "page_title": "Orlando, FL (7419 International Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1990-00-00",
+        "1998-00-00",
+        "One of 7 3-Stages in Florida to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha. Jasper had Beach Bear Guitar.",
+        ""
+      ],
+      "sort": "19909999"
+    },
+    {
+      "page_get": "wiki/honolulu-hi-820-w-hind-dr",
+      "page_path": "content/wiki/honolulu-hi-820-w-hind-dr.md",
+      "page_title": "Honolulu, HI (820 W Hind Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-03-00",
+        "2009-05-00",
+        "Only 3-Stage in Hawaii until stage removal and store closure in 2009. Poor Condition. Chuck had full 'Cool Chuck' outfit, Wink had the visible 'In Pizza We Trust' slogan, kept CU carpet, kept Munch Jr., and stage had short height.",
+        ""
+      ],
+      "sort": "19910399"
+    },
+    {
+      "page_get": "wiki/parkersburg-wv-3500-murdoch-ave",
+      "page_path": "content/wiki/parkersburg-wv-3500-murdoch-ave.md",
+      "page_title": "Parkersburg, WV (3500 Murdoch Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-03-00",
+        "1998-00-00",
+        "Only 3-Stage in West Virginia to undergo Concept Unification. Animatronics went to storage at Barboursville, WV (5 Cracker Barrel Dr) in Barboursville, WV for spare parts sometime after the CEC store closure.",
+        ""
+      ],
+      "sort": "19910399"
     },
     {
       "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
@@ -15326,19 +15380,166 @@
       "page_title": "Cincinnati, OH (8801 Colerain Ave)",
       "parts": [
         "Concept Unification Stage",
-        "1991-05-03",
-        "2019-09-22"
+        "1991-04-28",
+        "2019-09-24",
+        "One of 4 3-Stages in Ohio to receive Concept Unification. Was in Poor Condition. Chuck lacked his teeth, Munch had Sunrise organ, and Stage lacked Munch's Make Believe Band sign.",
+        ""
       ],
-      "sort": "19910503"
+      "sort": "19910428"
     },
     {
-      "page_get": "wiki/lexington-ky-1555-new-circle-rd",
-      "page_path": "content/wiki/lexington-ky-1555-new-circle-rd.md",
-      "page_title": "Lexington, KY (1555 New Circle Rd)",
+      "page_get": "wiki/davenport-ia-903-e-kimberly-rd",
+      "page_path": "content/wiki/davenport-ia-903-e-kimberly-rd.md",
+      "page_title": "Davenport, IA (903 E Kimberly Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-04-00",
+        "2019-09-00",
+        "One of 4 3-Stages in Iowa to undergo Concept Unification. Was in decent condition. Chuck had rare 'Cool Chuck' outfit.",
+        ""
+      ],
+      "sort": "19910499"
+    },
+    {
+      "page_get": "wiki/west-des-moines-ia-1431-22nd-st",
+      "page_path": "content/wiki/west-des-moines-ia-1431-22nd-st.md",
+      "page_title": "West Des Moines, IA (1431 22nd St)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-04-00",
+        "2023-07-16",
+        "One of 4 3-Stages in Iowa to undergo Concept Unification. Last 3-Stage from 1980. Oldest CEI bots in a CEC location from March 2023 to July 2023. Last animatronic stage in Iowa. Was in Good Condition. Stage lacked Wink, Chuck had rare 'Cool Chuck' outfit, Munch had Cyberamic organ, and Pasqually had blue explosion drumfront.",
+        ""
+      ],
+      "sort": "19910499"
+    },
+    {
+      "page_get": "wiki/mobile-al-710-downtowner-loop",
+      "page_path": "content/wiki/mobile-al-710-downtowner-loop.md",
+      "page_title": "Mobile, AL (710 Downtowner Loop)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-05-00",
+        "2019-10-00",
+        "One of 7 3-Stages in Alabama to receive Concept Unification. 3-Stage received many customizations during the mid-to-late 1990s. 3rd-to-last 3-Stage in Alabama from August 2013 until stage removal in October 2019. Was in Poor Condition. Pasqually was on Pizzacam's side of stage.",
+        ""
+      ],
+      "sort": "19910599"
+    },
+    {
+      "page_get": "wiki/greensboro-nc-702-a-pembroke-rd",
+      "page_path": "content/wiki/greensboro-nc-702-a-pembroke-rd.md",
+      "page_title": "Greensboro, NC (702-A Pembroke Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-05-00",
+        "2022-06-00",
+        "One of 6 3-Stages in North Carolina to undergo Concept Unification. Third-to-last 3-Stage in North Carolina from October 2020 until stage removal in June 2022. Was in Decent Condition. Chuck had Rockstar jeans and shoes, and Jasper had Beach Bear Guitar.",
+        ""
+      ],
+      "sort": "19910599"
+    },
+    {
+      "page_get": "wiki/panama-city-fl-4432-us-98",
+      "page_path": "content/wiki/panama-city-fl-4432-us-98.md",
+      "page_title": "Panama City, FL (4432 US-98)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-06-21",
+        "2007-00-00",
+        "One of 7 3-Stages in Florida to undergo Concept Unification. Munch Jr. would remain until closure.",
+        ""
+      ],
+      "sort": "19910621"
+    },
+    {
+      "page_get": "wiki/lafayette-la-3221-ambassador-caffery-pkwy",
+      "page_path": "content/wiki/lafayette-la-3221-ambassador-caffery-pkwy.md",
+      "page_title": "Lafayette, LA (3221 Ambassador Caffery Pkwy)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-07-00",
+        "1995-01-00",
+        "One of 5 3-Stages in Louisiana to undergo Concept Unification.",
+        ""
+      ],
+      "sort": "19910799"
+    },
+    {
+      "page_get": "wiki/madison-wi-438-grand-canyon-dr",
+      "page_path": "content/wiki/madison-wi-438-grand-canyon-dr.md",
+      "page_title": "Madison, WI (438 Grand Canyon Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-08-00",
+        "2021-07-07",
+        "One of 3 3-Stages in Wisconsin to undergo Concept Unification. 2nd-to-last 3-Stage in Wisconsin from fall 2000 until stage removal in July 2021. Was in Decent Condition, Jasper had blue Beach Bear Guitar, Pasqually had blue explosion drumfront.",
+        ""
+      ],
+      "sort": "19910899"
+    },
+    {
+      "page_get": "wiki/wichita-falls-tx-2935-southwest-pkwy",
+      "page_path": "content/wiki/wichita-falls-tx-2935-southwest-pkwy.md",
+      "page_title": "Wichita Falls, TX (2935 Southwest Pkwy)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-09-00",
+        "2020-02-00",
+        "One of 17 3-Stages in Texas to undergo Concept Unification. Was in good condition. 2nd-to-last 3-Stage in Texas from September 2018 until stage removal in February 2020.",
+        ""
+      ],
+      "sort": "19910999"
+    },
+    {
+      "page_get": "wiki/pensacola-fl-7350-plantation-rd",
+      "page_path": "content/wiki/pensacola-fl-7350-plantation-rd.md",
+      "page_title": "Pensacola, FL (7350 Plantation Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-09-00",
+        "2018-07-00",
+        "One of 7 3-Stages in Florida to undergo Concept Unification. 2nd-to-last 3-Stage in Florida until stage removal in July 2018. Was in Good Condition, Jasper had red Beach Bear Guitar, Ticket Blaster was placed between Jasper &amp; Pasqually.",
+        ""
+      ],
+      "sort": "19910999"
+    },
+    {
+      "page_get": "wiki/augusta-ga-3435-wrightsboro-rd",
+      "page_path": "content/wiki/augusta-ga-3435-wrightsboro-rd.md",
+      "page_title": "Augusta, GA (3435 Wrightsboro Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-10-13",
+        "2023-04-25",
+        "One of 6 3-Stages in Georgia to receive Concept Unification. Last 3-Stage in Georgia from late 2011 until stage removal in April 2023. Last pair of CEI bots in Georgia from April 24 to April 25, 2023. Was in Good Condition. Chuck had Rockstar jeans, and Pasqually had blue explosion drumfront.",
+        ""
+      ],
+      "sort": "19911013"
+    },
+    {
+      "page_get": "wiki/fargo-nd-1202-nodak-dr",
+      "page_path": "content/wiki/fargo-nd-1202-nodak-dr.md",
+      "page_title": "Fargo, ND (1202 Nodak Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-10-00",
+        "2022-12-00",
+        "Only 3-Stage in North Dakota. Was in Very Poor Condition, Chuck had full rare 'Cool Chuck' outfit, and Jasper had Beach Bear Guitar. Last location to have 'Cool Chuck' cap on a 3-Stage Chuck E. Cheese animatronic. The Wink from this stage is now at SPT Distribution.",
+        ""
+      ],
+      "sort": "19911099"
+    },
+    {
+      "page_get": "wiki/darien-il-7409-cass-ave",
+      "page_path": "content/wiki/darien-il-7409-cass-ave.md",
+      "page_title": "Darien, IL (7409 Cass Ave)",
       "parts": [
         "Concept Unification Stage",
         "1991-11-00",
-        "2007-00-00"
+        "2023-00-00",
+        "One of 10 3-Stages in Illinois to undergo Concept Unification. Second-to-last 3-Stage in Illinois from August 2019 until stage removal between June/July 2020. Replaced with the first CU Beta 16M stage due to the 3-Stage air compressor malfunctioning. 3-Stage characters were given to collectors after stage removal. Was in very poor condition, Jasper had Beach Bear Guitar, and Pasqually was in center of his stage after Pizzacam was removed.",
+        ""
       ],
       "sort": "19911199"
     },
@@ -15349,10 +15550,570 @@
       "parts": [
         "Concept Unification Stage",
         "1991-12-17",
-        "0000-00-00",
+        "2007-05-00",
+        "One of 10 3-Stages in California to undergo Concept Unification. 3-Stage converted from a stage that came from Creative Engineering. First 3-Stage installed in a new Chuck E. Cheese's location.",
         ""
       ],
       "sort": "19911217"
+    },
+    {
+      "page_get": "wiki/dallas-tx-7110-s-westmoreland-rd",
+      "page_path": "content/wiki/dallas-tx-7110-s-westmoreland-rd.md",
+      "page_title": "Dallas, TX (7110 S Westmoreland Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2022-08-00",
+        "One of 17 3-Stages in Texas to undergo Concept Unification. Last 3-Stage in Texas from early 2020 until stage removal in August 2022. Was in Very Poor Condition.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/owensboro-ky-4736-frederica-st",
+      "page_path": "content/wiki/owensboro-ky-4736-frederica-st.md",
+      "page_title": "Owensboro, KY (4736 Frederica St)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1995-11-00",
+        "One of 3 3-Stages in Kentucky to undergo Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/jacksonville-fl-6065-youngerman-circle",
+      "page_path": "content/wiki/jacksonville-fl-6065-youngerman-circle.md",
+      "page_title": "Jacksonville, FL (6065 Youngerman Circle)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1999-00-00",
+        "One of 7 3-Stages in Florida to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/dearborn-mi-24399-michigan-ave",
+      "page_path": "content/wiki/dearborn-mi-24399-michigan-ave.md",
+      "page_title": "Dearborn, MI (24399 Michigan Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2015-05-00",
+        "One of 6 3-Stages in Michigan to undergo Concept Unification. 3rd-to-last 3-Stage in Michigan until stage removal in May 2015. Last 3-Stage to be replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/springfield-ma-1716-boston-rd",
+      "page_path": "content/wiki/springfield-ma-1716-boston-rd.md",
+      "page_title": "Springfield, MA (1716 Boston Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2017-11-00",
+        "Only 3-Stage in New England and only one to get Concept Unification. Only 3-Stage in New England. CEI bots were replaced with Cyberamics from Burlington, MA (10 Wall St) in 2017. Was in Poor Condition. Stage lacked Munch's Make Believe Band Sign and CEC Neon Sign.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/peoria-il-2601-w-lake-ave",
+      "page_path": "content/wiki/peoria-il-2601-w-lake-ave.md",
+      "page_title": "Peoria, IL (2601 W Lake Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2019-08-00",
+        "One of 10 3-Stagess in Illinois to undergo Concept Unification. 3rd-to-last 3-Stage in Illinois.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/austin-tx-8038-burnet-rd",
+      "page_path": "content/wiki/austin-tx-8038-burnet-rd.md",
+      "page_title": "Austin, TX (8038 Burnet Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2006-10-00",
+        "One of 17 3-Stages in Texas to undergo Concept Unification. Was in Good Condition, Chuck had full rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, and Stage had Pizzacam.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/savannah-ga-6700-abercorn-st",
+      "page_path": "content/wiki/savannah-ga-6700-abercorn-st.md",
+      "page_title": "Savannah, GA (6700 Abercorn St)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2021-12-11",
+        "One of 6 3-Stages in Georgia to receive Concept Unification. 2nd-to-last 3-Stage in Georgia until stage removal in December 2021. 3rd-to-last set of CEI bots in Georgia until stage removal.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/roanoke-va-4059-electric-rd",
+      "page_path": "content/wiki/roanoke-va-4059-electric-rd.md",
+      "page_title": "Roanoke, VA (4059 Electric Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2022-08-00",
+        "One of 5 3-Stages in Virginia to undergo Concept Unification. Was in Very Poor Condition. Jasper had Beach Bear Guitar, Pasqually had blue explosion drumfront, stage lacked the Wink, and had black Pizzacam.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/matteson-il-106-town-center-rd",
+      "page_path": "content/wiki/matteson-il-106-town-center-rd.md",
+      "page_title": "Matteson, IL (106 Town Center Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2015-02-22",
+        "One of 10 3-Stages in Illinois to undergo Concept Unification. Stage was damaged during a store fire in 2015, and was replaced with a Circles of Light stage. Was in Good Condition. Chuck had rare 'Cool Chuck' hat and shirt.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/lakewood-ca-5151-lakewood-blvd",
+      "page_path": "content/wiki/lakewood-ca-5151-lakewood-blvd.md",
+      "page_title": "Lakewood, CA (5151 Lakewood Blvd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2000-00-00",
+        "One of 10 3-Stages in California to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/green-bay-wi-1273-lombardi-access",
+      "page_path": "content/wiki/green-bay-wi-1273-lombardi-access.md",
+      "page_title": "Green Bay, WI (1273 Lombardi Access)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2000-00-00",
+        "One of 3 3-Stages in Wisconsin to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Beta.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/memphis-tn-3649-hickory-hill-rd",
+      "page_path": "content/wiki/memphis-tn-3649-hickory-hill-rd.md",
+      "page_title": "Memphis, TN (3649 Hickory Hill Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2020-10-27",
+        "One of 8 3-Stages in Tennessee to get Concept Unification. 2nd-to-last 3-Stage in Tennessee from April 2013 until store closure in October 2020. Was in Good Condition. Pasqually had blue explosion drumfront.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/visalia-ca-4345-w-noble-ave",
+      "page_path": "content/wiki/visalia-ca-4345-w-noble-ave.md",
+      "page_title": "Visalia, CA (4345 W Noble Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2024-02-04",
+        "One of 10 3-Stages in California to undergo Concept Unification. Last 3-Stage in California from May 2007 until stage removal in February 2024. Was in Very Poor Condition, Chuck had rare 'Cool Chuck' outfit with walkaround shoes, Jasper had Beach Bear Guitar.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/grand-rapids-mi-3671-28th-st",
+      "page_path": "content/wiki/grand-rapids-mi-3671-28th-st.md",
+      "page_title": "Grand Rapids, MI (3671 28th St)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "",
+        "One of 6 3-Stages in Michigan to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/madison-tn-2070-gallatin-pike",
+      "page_path": "content/wiki/madison-tn-2070-gallatin-pike.md",
+      "page_title": "Madison, TN (2070 Gallatin Pike)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2022-04-00",
+        "One of 8 3-Stages in Tennessee to get Concept Unification. Last 3-Stage in Tennessee from October 2020 until stage removal in April 2022. Was in Good Condition. Chuck had rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, Stage had colored Wink &amp; black Pizzacam.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/oceanside-ca-2481-vista-way",
+      "page_path": "content/wiki/oceanside-ca-2481-vista-way.md",
+      "page_title": "Oceanside, CA (2481 Vista Way)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2000-00-00",
+        "One of 10 3-Stages in California to undergo Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/north-richland-hills-tx-7935-grapevine-hwy",
+      "page_path": "content/wiki/north-richland-hills-tx-7935-grapevine-hwy.md",
+      "page_title": "North Richland Hills, TX (7935 Grapevine Hwy)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2000-00-00",
+        "One of 17 3-Stages in Texas to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/pasadena-tx-154-fairmont-pkwy",
+      "page_path": "content/wiki/pasadena-tx-154-fairmont-pkwy.md",
+      "page_title": "Pasadena, TX (154 Fairmont Pkwy)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2007-02-00",
+        "One of 17 3-Stages in Texas to undergo Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/arvada-co-9301-ralston-rd",
+      "page_path": "content/wiki/arvada-co-9301-ralston-rd.md",
+      "page_title": "Arvada, CO (9301 Ralston Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2017-09-20",
+        "Underwent Concept Unification just like the others in the state. 2nd-to-last 3-Stage in Colorado until stage removal and store closure in September 2017. Was in Very Poor Condition. Jasper had Beach Bear Guitar.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/garland-tx-1340-w-centerville-rd",
+      "page_path": "content/wiki/garland-tx-1340-w-centerville-rd.md",
+      "page_title": "Garland, TX (1340 W Centerville Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1999-00-00",
+        "One of 17 3-Stages in Texas to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/columbia-sc-1775-burning-tree-dr",
+      "page_path": "content/wiki/columbia-sc-1775-burning-tree-dr.md",
+      "page_title": "Columbia, SC (1775 Burning Tree Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2022-11-02",
+        "One of 4 3-Stages in South Carolina to receive Concept Unification. Last 3-Stage in South Carolina from June 2020 until stage removal in November 2022. Was in Very Poor Condition. Pasqually had plain white drumfront.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/sheffield-al-4700-hatch-blvd",
+      "page_path": "content/wiki/sheffield-al-4700-hatch-blvd.md",
+      "page_title": "Sheffield, AL (4700 Hatch Blvd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2020-00-00",
+        "One of 7 3-Stages in Alabama to receive Concept Unification. Was in Very Poor Condition. Chuck had long khakis and Pasqually had CU drumfront.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/new-orleans-la-3701-general-degaulle-dr",
+      "page_path": "content/wiki/new-orleans-la-3701-general-degaulle-dr.md",
+      "page_title": "New Orleans, LA (3701 General DeGaulle Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2023-03-07",
+        "One of 5 3-Stages in Louisiana to undergo Concept Unification. Last 3-Stage and MMBB stage in Louisiana from November 2021 until removal in March 2023. Was in decent condition, stage had lighting similar to the former Wilmington, Delaware 3-Stage, Chuck had Rockstar Jeans, and Pasqually had clear drumfront with explosion logo.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/richardson-tx-1235-e-belt-line-rd",
+      "page_path": "content/wiki/richardson-tx-1235-e-belt-line-rd.md",
+      "page_title": "Richardson, TX (1235 E Belt Line Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2006-11-00",
+        "One of 17 3-Stages in Texas to undergo Concept Unification. Was in Good Condition. Chuck had full rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, and Wink had 'In Pizza We Trust' Slogan.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/houston-tx-7735-w-bellfort-ave",
+      "page_path": "content/wiki/houston-tx-7735-w-bellfort-ave.md",
+      "page_title": "Houston, TX (7735 W Bellfort Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1993-00-00",
+        "One of 17 3-Stages in Texas to get Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/omaha-ne-225-n-76th-st",
+      "page_path": "content/wiki/omaha-ne-225-n-76th-st.md",
+      "page_title": "Omaha, NE (225 N 76th St)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2022-04-00",
+        "One of 2 3-Stages in Nebraska to receive Concept Unification. Last 3-Stage in Nebraska from June 2020 until removal in April 2022. Was in Very Poor Condition, Chuck had rare 'Cool Chuck' outfit, and Stage lacked Munch's Make Believe Band sign.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/oklahoma-city-ok-6817-nw-expressway",
+      "page_path": "content/wiki/oklahoma-city-ok-6817-nw-expressway.md",
+      "page_title": "Oklahoma City, OK (6817 NW Expressway)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2006-00-00",
+        "One of 3 3-Stages in Oklahoma to receive Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/huntsville-al-1220-jordan-lane",
+      "page_path": "content/wiki/huntsville-al-1220-jordan-lane.md",
+      "page_title": "Huntsville, AL (1220 Jordan Lane)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2023-03-29",
+        "One of 7 3-Stages in Alabama to receive Concept Unification. Last 3-Stage and MMBB stage in Alabama from 2020 until stage removal in March 2023. Last stage with Black Plastic Pizzacam and originally the last Pizzacam. Was in Good Condition. Helen had green cheerleader outfit and blonde hair, Munch had with initials 'CEC' similar to the Charlotte, NC 3-Stage, Jasper had Custom Red, White, &amp; Blue Beach Bear Guitar, and Stage had colored wink.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/mishawaka-in-822-w-mckinley-ave",
+      "page_path": "content/wiki/mishawaka-in-822-w-mckinley-ave.md",
+      "page_title": "Mishawaka, IN (822 W McKinley Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2019-07-00",
+        "One of 7 3-Stages in Indiana to get Concept Unification. Last 3-Stage in Indiana from December 2011 to July 2019. Stage caught fire in mid 2018.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/murray-ut-4425-state-st",
+      "page_path": "content/wiki/murray-ut-4425-state-st.md",
+      "page_title": "Murray, UT (4425 State St)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1997-07-00",
+        "One of 2 3-Stages in Utah to get Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/fayetteville-ar-1330-n-college-ave",
+      "page_path": "content/wiki/fayetteville-ar-1330-n-college-ave.md",
+      "page_title": "Fayetteville, AR (1330 N College Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2010-09-00",
+        "One of 4 3-Stages in Arkansas to undergo Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/cedar-rapids-ia-170-collins-rd",
+      "page_path": "content/wiki/cedar-rapids-ia-170-collins-rd.md",
+      "page_title": "Cedar Rapids, IA (170 Collins Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2013-11-18",
+        "One of 4 3-Stages in Iowa to undergo Concept Unification. Was in Good Condition, Chuck had a full rare 'Cool Chuck' outfit and Pasqually had plain white drumfront.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/baton-rouge-la-11324-boardwalk-dr",
+      "page_path": "content/wiki/baton-rouge-la-11324-boardwalk-dr.md",
+      "page_title": "Baton Rouge, LA (11324 Boardwalk Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2021-11-00",
+        "One of 5 3-Stages in Louisiana to undergo Concept Unification. 2nd-to-last 3-Stage in Louisiana from April 2009 until store closure and stage removal in November 2021. Was in Very Poor Condition. Chuck had rare 'Cool Chuck' khakis.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/escondido-ca-624-w-mission-ave",
+      "page_path": "content/wiki/escondido-ca-624-w-mission-ave.md",
+      "page_title": "Escondido, CA (624 W Mission Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2007-03-00",
+        "One of 8 ShowBiz stores in California to undergo Concept Unification. (Fullerton opened as a new store with the stage undergoing Concept Unification while the store was under construction.)",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/springfield-il-2369-mcarthur-ave",
+      "page_path": "content/wiki/springfield-il-2369-mcarthur-ave.md",
+      "page_title": "Springfield, IL (2369 McArthur Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2011-00-00",
+        "One of 10 3-Stages in Illinois to undergo Concept Unification. 3-Stage was converted into the second ever CU 1-Stage in 2011. Animatronics still in operation on their current CU 1-Stage, one of 2 sets of CEI animatronics left in CEC locations. Was in Good Condition. Chuck had full rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, Pasqually had CU Drumfront, and Stage had Pizzacam.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/saginaw-mi-5105-bay-rd",
+      "page_path": "content/wiki/saginaw-mi-5105-bay-rd.md",
+      "page_title": "Saginaw, MI (5105 Bay Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1999-00-00",
+        "One of 6 3-Stages in Michigan to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/boise-id-6255-fairview-ave",
+      "page_path": "content/wiki/boise-id-6255-fairview-ave.md",
+      "page_title": "Boise, ID (6255 Fairview Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2022-08-00",
+        "Only 3-Stage in Idaho. Was in Poor Condition. Chuck had rare 'Cool Chuck' outfit.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/antioch-tn-5312-hickory-hollow-lane",
+      "page_path": "content/wiki/antioch-tn-5312-hickory-hollow-lane.md",
+      "page_title": "Antioch, TN (5312 Hickory Hollow Lane)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "",
+        "One of 8 3-Stages in Tennessee to get Concept Unification. One of many 3-Stages replaced with a Studio C Beta.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/memphis-tn-3268-austin-peay-hwy",
+      "page_path": "content/wiki/memphis-tn-3268-austin-peay-hwy.md",
+      "page_title": "Memphis, TN (3268 Austin Peay Hwy)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2013-04-01",
+        "One of 8 3-Stages in Tennessee to get Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/torrance-ca-2821-pacific-coast-hwy",
+      "page_path": "content/wiki/torrance-ca-2821-pacific-coast-hwy.md",
+      "page_title": "Torrance, CA (2821 Pacific Coast Hwy)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2000-00-00",
+        "One of 10 3-Stages in California to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/la-crosse-wi-4444-state-rd",
+      "page_path": "content/wiki/la-crosse-wi-4444-state-rd.md",
+      "page_title": "La Crosse, WI (4444 State Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2022-06-00",
+        "One of 3 3-Stages in Wisconsin to undergo Concept Unification. Last 3-Stage in Wisconsin from July 2021 until stage removal in June 2022. Was in decent condition. Chuck had rare 'Cool Chuck' outfit, Pasqually had blue explosion drumfront.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/lynchburg-va-312-border-st",
+      "page_path": "content/wiki/lynchburg-va-312-border-st.md",
+      "page_title": "Lynchburg, VA (312 Border St)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1994-00-00",
+        "One of 5 3-Stages in Virginia to undergo Concept Unification. CU 3-Stage was reverted back into a Rock-afire Explosion show by Creative Engineering after the Lynchburg CEC closed and rebranded as Billy Bob's Pizza under its franchisee. Animatronics were auctioned off in August 1999 following BBP's closure.",
+        ""
+      ],
+      "sort": "19919999"
     },
     {
       "page_get": "wiki/st-louis-mo-2805-target-dr",
@@ -15361,7 +16122,139 @@
       "parts": [
         "Concept Unification Stage",
         "1991-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        "One of 6 3-Stages in Missouri to undergo Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/fayetteville-nc-511-north-mcpherson-church-rd",
+      "page_path": "content/wiki/fayetteville-nc-511-north-mcpherson-church-rd.md",
+      "page_title": "Fayetteville, NC (511 North McPherson Church Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1995-00-00",
+        "One of 6 3-Stages in North Carolina to undergo Concept Unification. 6th to Last 3-Stage in North Carolina. 3-Stage was reverted back into a Rock-afire Explosion show after the Fayetteville CEC closed and rebranded as Billy Bob's. The same store would reopen as a new CEC in 1998.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/greenville-sc-253-congaree-rd",
+      "page_path": "content/wiki/greenville-sc-253-congaree-rd.md",
+      "page_title": "Greenville, SC (253 Congaree Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2000-00-00",
+        "One of 4 3-Stages in South Carolina to receive Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/naperville-il-1154-e-ogden-ave",
+      "page_path": "content/wiki/naperville-il-1154-e-ogden-ave.md",
+      "page_title": "Naperville, IL (1154 E Ogden Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2000-00-00",
+        "One of 10 3-Stages in Illinois to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/laurel-md-936-fairlawn-ave",
+      "page_path": "content/wiki/laurel-md-936-fairlawn-ave.md",
+      "page_title": "Laurel, MD (936 Fairlawn Ave)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2022-06-00",
+        "Only 3-Stage in Maryland.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/houston-tx-14637-memorial-dr",
+      "page_path": "content/wiki/houston-tx-14637-memorial-dr.md",
+      "page_title": "Houston, TX (14637 Memorial Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2012-10-24",
+        "One of 17 3-Stages in Texas to undergo Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/southgate-mi-15300-toledo-rd",
+      "page_path": "content/wiki/southgate-mi-15300-toledo-rd.md",
+      "page_title": "Southgate, MI (15300 Toledo Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2019-08-00",
+        "One of 6 3-Stages in Michigan to undergo Concept Unification. 2nd-to-last 3-Stage in Michigan from May 2015 to August 2019. Was in Poor Condition. Chuck's stage had blue curtains, center stage lacked Munch's Make Believe Band sign and had lighting similar to the former Wilmington, Delaware 3-Stage, and Pasqually was in the middle of his stage and had the blue explosion drumfront.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/fort-collins-co-105-w-prospect-rd",
+      "page_path": "content/wiki/fort-collins-co-105-w-prospect-rd.md",
+      "page_title": "Fort Collins, CO (105 W Prospect Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2020-04-13",
+        "Underwent Concept Unification just like the others in the state. Last 3-Stage in Colorado from September 2017 until store closure and stage removal in April 2020. Was in Good Condition. Jasper had Beach Bear Guitar and Pasqually had CU Drumfront.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/maryville-tn-141-foothills-mall",
+      "page_path": "content/wiki/maryville-tn-141-foothills-mall.md",
+      "page_title": "Maryville, TN (141 Foothills Mall)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1995-00-00",
+        "One of 8 3-Stages in Tennessee to get Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/charleston-sc-1610-sam-rittenburg-blvd",
+      "page_path": "content/wiki/charleston-sc-1610-sam-rittenburg-blvd.md",
+      "page_title": "Charleston, SC (1610 Sam Rittenburg Blvd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2020-06-18",
+        "One of 4 3-Stages in South Carolina to receive Concept Unification. One of many 3-Stages replaced with a Studio C Alpha. 2nd-to-last 3-Stage in South Carolina from 2000 until stage removal and store closure in June 2020.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/chattanooga-tn-22-northgate-park",
+      "page_path": "content/wiki/chattanooga-tn-22-northgate-park.md",
+      "page_title": "Chattanooga, TN (22 Northgate Park)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2006-00-00",
+        "One of 8 3-Stages in Tennessee to get Concept Unification. One of many 3-Stages replaced with a Studio C Beta.",
+        ""
       ],
       "sort": "19919999"
     },
@@ -15372,7 +16265,61 @@
       "parts": [
         "Concept Unification Stage",
         "1991-00-00",
-        "2013-08-00"
+        "2013-08-00",
+        "One of 7 3-Stages in Alabama to receive Concept Unification. 4th-to-last 3-Stage in Alabama until store removal and stage removal in August 2013.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/arlington-heights-il-955-w-dundee-rd",
+      "page_path": "content/wiki/arlington-heights-il-955-w-dundee-rd.md",
+      "page_title": "Arlington Heights, IL (955 W Dundee Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1998-00-00",
+        "One of 10 3-Stages in Illinois to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/lynnwood-wa-3717-196th-st-suite-100",
+      "page_path": "content/wiki/lynnwood-wa-3717-196th-st-suite-100.md",
+      "page_title": "Lynnwood, WA (3717 196th St Suite 100)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2023-07-23",
+        "Only 3-Stage to undergo Concept Unification in Washington State. Was in Very Poor Condition. 3-Stage animatronics replaced with recycled Cyberamics from Spokane, WA (2301 W Wellesley Ave) in 2000 during the stage's conversion into the first ever Cyberamic 3-Stage. Cyberamic 3-Stage animatronics now at SPT Distribution.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/flint-mi-3489-miller-rd",
+      "page_path": "content/wiki/flint-mi-3489-miller-rd.md",
+      "page_title": "Flint, MI (3489 Miller Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2020-06-25",
+        "One of 6 3-Stages in Michigan to undergo Concept Unification. Last 3-Stage in Michigan from August 2019 until stage removal and store closure in June 2020.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/york-pa-2801-e-market-st",
+      "page_path": "content/wiki/york-pa-2801-e-market-st.md",
+      "page_title": "York, PA (2801 E Market St)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2018-09-00",
+        "One of 3 3-Stages in Pennsylvania to get Concept Unification.",
+        ""
       ],
       "sort": "19919999"
     },
@@ -15383,9 +16330,76 @@
       "parts": [
         "Concept Unification Stage",
         "1991-00-00",
-        "2006-00-00"
+        "2006-09-00",
+        "One of 17 Texas 3-Stages to undergo Concept Unification. Jasper animatronic was sent to the Houston, TX (5535 Weslayan St) location following Antoine Dr's closure. Antoine Dr.'s Jasper bot was destroyed following Weslayan St.'s store closure in September 2018. Chuck had full rare 'Cool Chuck' outfit and Pasqually had CU Drumfront.",
+        ""
       ],
       "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/jacksonville-fl-9820-atlantic-blvd",
+      "page_path": "content/wiki/jacksonville-fl-9820-atlantic-blvd.md",
+      "page_title": "Jacksonville, FL (9820 Atlantic Blvd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1999-00-00",
+        "One of 7 3-Stages in Florida to undergo Concept Unification. Was in good condition. Munch had Sunrise Organ, Jasper had Beach Bear Guitar, Pasqually had White Drumset. One of many 3-Stages replaced with a Studio C Alpha.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/knoxville-tn-7522-kingston-pike",
+      "page_path": "content/wiki/knoxville-tn-7522-kingston-pike.md",
+      "page_title": "Knoxville, TN (7522 Kingston Pike)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1997-00-00",
+        "One of 8 3-Stages in Tennessee to get Concept Unification.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/lexington-ky-1555-new-circle-rd",
+      "page_path": "content/wiki/lexington-ky-1555-new-circle-rd.md",
+      "page_title": "Lexington, KY (1555 New Circle Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2006-00-00",
+        "One of 3 3-Stages in Kentucky to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Beta.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/manhattan-ks-519-richards-dr",
+      "page_path": "content/wiki/manhattan-ks-519-richards-dr.md",
+      "page_title": "Manhattan, KS (519 Richards Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "1993-00-00",
+        "One of 2 3-Stages in Kansas to undergo Concept Unification. Shortest lived 3-Stage.",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/lincoln-ne-221-n-66th-st",
+      "page_path": "content/wiki/lincoln-ne-221-n-66th-st.md",
+      "page_title": "Lincoln, NE (221 N 66th St)",
+      "parts": [
+        "Concept Unification Stage",
+        "1992-01-00",
+        "2020-06-00",
+        "One of 2 3-Stages in Nebraska to receive Concept Unification. Second to Last 3-Stage in Nebraska. Was in Very Poor Condition.",
+        ""
+      ],
+      "sort": "19920199"
     },
     {
       "page_get": "wiki/tallahassee-fl-2810-sharer-rd",
@@ -15393,23 +16407,38 @@
       "page_title": "Tallahassee, FL (2810 Sharer Rd)",
       "parts": [
         "Concept Unification Stage",
-        "1992-04-07",
-        "0000-00-00",
+        "1992-04-00",
+        "2024-05-05",
+        "One of 7 3-Stages in Florida to undergo Concept Unification. Last 3-Stage in Florida from July 2018 until stage removal in May 2024 and Last MMBB Stage in Florida until stage removal. Second 3-Stage installed a new Chuck E. Cheese's location. Stage was in poor condition cosmetically before removal.",
         ""
       ],
-      "sort": "19920407"
+      "sort": "19920499"
     },
     {
-      "page_get": "wiki/dallas-tx-7110-s-westmoreland-rd",
-      "page_path": "content/wiki/dallas-tx-7110-s-westmoreland-rd.md",
-      "page_title": "Dallas, TX (7110 S Westmoreland Rd)",
+      "page_get": "wiki/paducah-ky-5141-hinkleville-rd",
+      "page_path": "content/wiki/paducah-ky-5141-hinkleville-rd.md",
+      "page_title": "Paducah, KY (5141 Hinkleville Rd)",
       "parts": [
         "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "1992-09-00",
+        "2018-12-00",
+        "One of 3 3-Stages in Kentucky to undergo Concept Unification. Last 3-Stage in Kentucky from mid 2000s until stage removal in December 2018. Was in Decent Condition. Last 3-Stage to have ShowBiz side wood paneling, Jasper had Beach Bear Guitar, and Pasqually had TKO Drumfront.",
         ""
       ],
-      "sort": "99999999"
+      "sort": "19920999"
+    },
+    {
+      "page_get": "wiki/pasadena-ca-3765-e-foothill-blvd",
+      "page_path": "content/wiki/pasadena-ca-3765-e-foothill-blvd.md",
+      "page_title": "Pasadena, CA (3765 E Foothill Blvd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1993-03-00",
+        "1993-10-00",
+        "One of 10 3-Stages in California to undergo Concept Unification. Last 3-Stage to converted during Concept Unification's lifetime. One of the first 3-Stages to be removed. Only 3-Stage to not last for more than a year. Shortest lived 3-Stage.",
+        ""
+      ],
+      "sort": "19930399"
     },
     {
       "page_get": "wiki/st-charles-mo-2669-veterans-memorial-pkwy",
@@ -15418,67 +16447,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/owensboro-ky-4736-frederica-st",
-      "page_path": "content/wiki/owensboro-ky-4736-frederica-st.md",
-      "page_title": "Owensboro, KY (4736 Frederica St)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "1995-11-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/jacksonville-fl-6065-youngerman-circle",
-      "page_path": "content/wiki/jacksonville-fl-6065-youngerman-circle.md",
-      "page_title": "Jacksonville, FL (6065 Youngerman Circle)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/dearborn-mi-24399-michigan-ave",
-      "page_path": "content/wiki/dearborn-mi-24399-michigan-ave.md",
-      "page_title": "Dearborn, MI (24399 Michigan Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/springfield-ma-1716-boston-rd",
-      "page_path": "content/wiki/springfield-ma-1716-boston-rd.md",
-      "page_title": "Springfield, MA (1716 Boston Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/peoria-il-2601-w-lake-ave",
-      "page_path": "content/wiki/peoria-il-2601-w-lake-ave.md",
-      "page_title": "Peoria, IL (2601 W Lake Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2000-00-00",
+        "One of 5 3-Stages in Missouri to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
         ""
       ],
       "sort": "99999999"
@@ -15491,6 +16461,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "2007-00-00",
+        "One of 5 3-Stages in Missouri to undergo Concept Unification. Was in Good Condition. Chuck had Tuxedo.",
         ""
       ],
       "sort": "99999999"
@@ -15502,7 +16473,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "1996-06-30",
+        "1996-06-00",
+        "Only 3-Stage in Mississippi.",
         ""
       ],
       "sort": "99999999"
@@ -15515,30 +16487,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "2001-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/austin-tx-8038-burnet-rd",
-      "page_path": "content/wiki/austin-tx-8038-burnet-rd.md",
-      "page_title": "Austin, TX (8038 Burnet Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2006-10-29",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/madison-wi-438-grand-canyon-dr",
-      "page_path": "content/wiki/madison-wi-438-grand-canyon-dr.md",
-      "page_title": "Madison, WI (438 Grand Canyon Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "One of 8 3-Stages in Tennessee to get Concept Unification.",
         ""
       ],
       "sort": "99999999"
@@ -15563,6 +16512,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "1998-00-00",
+        "One of six 3-Stages in Missouri to undergo Concept Unification.",
         ""
       ],
       "sort": "99999999"
@@ -15580,49 +16530,14 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/panama-city-fl-4432-us-98",
-      "page_path": "content/wiki/panama-city-fl-4432-us-98.md",
-      "page_title": "Panama City, FL (4432 US-98)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2007-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/honolulu-hi-820-w-hind-dr",
-      "page_path": "content/wiki/honolulu-hi-820-w-hind-dr.md",
-      "page_title": "Honolulu, HI (820 W Hind Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2009-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/savannah-ga-6700-abercorn-st",
-      "page_path": "content/wiki/savannah-ga-6700-abercorn-st.md",
-      "page_title": "Savannah, GA (6700 Abercorn St)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/columbus-ga-3201-macon-rd",
       "page_path": "content/wiki/columbus-ga-3201-macon-rd.md",
       "page_title": "Columbus, GA (3201 Macon Rd)",
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2011-00-00",
+        "One of 6 3-Stages in Georgia. Installed on Left Side Wall. 3rd-to-last 3-Stage in Georgia. 3-Stage converted in the third and last CU 1-Stage. Animatronics became the second-to-last pair of CEI animatronics in Georgia from December 2021 until CU-1 Stage removal and destruction in April 2023.",
         ""
       ],
       "sort": "99999999"
@@ -15634,19 +16549,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "2011-12-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/roanoke-va-4059-electric-rd",
-      "page_path": "content/wiki/roanoke-va-4059-electric-rd.md",
-      "page_title": "Roanoke, VA (4059 Electric Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2011-12-19",
+        "One of 7 3-Stages in Indiana to get Concept Unification. 2nd to Last 3-Stage in Indiana until stage removal in December 2011. Store located to the current Indianapolis, IN (10021 E Washington St) location that same year with a Studio C Beta, 16m.",
         ""
       ],
       "sort": "99999999"
@@ -15658,7 +16562,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2000-00-00",
+        "One of 3 3-Stages in Oklahoma to get Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
         ""
       ],
       "sort": "99999999"
@@ -15670,55 +16575,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/matteson-il-106-town-center-rd",
-      "page_path": "content/wiki/matteson-il-106-town-center-rd.md",
-      "page_title": "Matteson, IL (106 Town Center Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/lakewood-ca-5151-lakewood-blvd",
-      "page_path": "content/wiki/lakewood-ca-5151-lakewood-blvd.md",
-      "page_title": "Lakewood, CA (5151 Lakewood Blvd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/green-bay-wi-1273-lombardi-access",
-      "page_path": "content/wiki/green-bay-wi-1273-lombardi-access.md",
-      "page_title": "Green Bay, WI (1273 Lombardi Access)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/memphis-tn-3649-hickory-hill-rd",
-      "page_path": "content/wiki/memphis-tn-3649-hickory-hill-rd.md",
-      "page_title": "Memphis, TN (3649 Hickory Hill Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2020-10-26",
+        "2000-00-00",
+        "Underwent Concept Unification just like the others in the state. One of many 3-Stages replaced with a Studio C Alpha.",
         ""
       ],
       "sort": "99999999"
@@ -15736,30 +16594,6 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/visalia-ca-4345-w-noble-ave",
-      "page_path": "content/wiki/visalia-ca-4345-w-noble-ave.md",
-      "page_title": "Visalia, CA (4345 W Noble Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/grand-rapids-mi-3671-28th-st",
-      "page_path": "content/wiki/grand-rapids-mi-3671-28th-st.md",
-      "page_title": "Grand Rapids, MI (3671 28th St)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/independence-mo-4039-s-noland-rd",
       "page_path": "content/wiki/independence-mo-4039-s-noland-rd.md",
       "page_title": "Independence, MO (4039 S Noland Rd)",
@@ -15767,6 +16601,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "2012-05-00",
+        "One of 6 3-Stages in Missouri to undergo Concept Unification. Last 3-Stage in Missouri. Was in Good Condition. Stage lacked Munch's Make Believe Band Sign, and Jasper had Beach Bear Guitar. Location relocated in 2012 to the Independence, MO (18701 E 39th St) with a Studio C Beta, 16M.",
         ""
       ],
       "sort": "99999999"
@@ -15778,7 +16613,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "2020-06-16",
+        "2020-06-18",
+        "One of 3-Stages in Ohio to receive Concept Unification. 2nd to last 3-Stage in Ohio. Was in Decent Condition. Center Stage had lighting similar to New Orleans, Louisiana's former 3-Stage.",
         ""
       ],
       "sort": "99999999"
@@ -15796,61 +16632,14 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/madison-tn-2070-gallatin-pike",
-      "page_path": "content/wiki/madison-tn-2070-gallatin-pike.md",
-      "page_title": "Madison, TN (2070 Gallatin Pike)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/arlington-tx-3200-justiss-dr",
-      "page_path": "content/wiki/arlington-tx-3200-justiss-dr.md",
-      "page_title": "Arlington, TX (3200 Justiss Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2001-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/oceanside-ca-2481-vista-way",
-      "page_path": "content/wiki/oceanside-ca-2481-vista-way.md",
-      "page_title": "Oceanside, CA (2481 Vista Way)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/north-richland-hills-tx-7935-grapevine-hwy",
-      "page_path": "content/wiki/north-richland-hills-tx-7935-grapevine-hwy.md",
-      "page_title": "North Richland Hills, TX (7935 Grapevine Hwy)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/atlanta-ga-2990-cumberland-blvd",
       "page_path": "content/wiki/atlanta-ga-2990-cumberland-blvd.md",
       "page_title": "Atlanta, GA (2990 Cumberland Blvd)",
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "1999-00-00",
+        "One of 6 3-Stages in Georgia to undergo Concept Unification. One of 6 3-Stages in Georgia. One of many 3-Stages replaced with a Studio C Alpha.",
         ""
       ],
       "sort": "99999999"
@@ -15862,43 +16651,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/mobile-al-710-downtowner-loop",
-      "page_path": "content/wiki/mobile-al-710-downtowner-loop.md",
-      "page_title": "Mobile, AL (710 Downtowner Loop)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/pasadena-tx-154-fairmont-pkwy",
-      "page_path": "content/wiki/pasadena-tx-154-fairmont-pkwy.md",
-      "page_title": "Pasadena, TX (154 Fairmont Pkwy)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2007-02-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/davenport-ia-903-e-kimberly-rd",
-      "page_path": "content/wiki/davenport-ia-903-e-kimberly-rd.md",
-      "page_title": "Davenport, IA (903 E Kimberly Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2024-08-00",
+        "One of 10 3-Stages in Illinois to undergo Concept Unification. Last 3-Stage in Illinois from  2020 until November 2020. Was in Good Condition. 3-Stage animatronics replaced with the Studio C animatronic from the now closed Lafayette, Indiana store, with the stage becoming the second CU Beta 16M installed.",
         ""
       ],
       "sort": "99999999"
@@ -15916,61 +16670,14 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/altamonte-springs-fl-541-w-hwy-436",
-      "page_path": "content/wiki/altamonte-springs-fl-541-w-hwy-436.md",
-      "page_title": "Altamonte Springs, FL (541 W Hwy 436)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/arvada-co-9301-ralston-rd",
-      "page_path": "content/wiki/arvada-co-9301-ralston-rd.md",
-      "page_title": "Arvada, CO (9301 Ralston Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2017-09-17",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/colorado-springs-co-5156-n-academy-blvd",
       "page_path": "content/wiki/colorado-springs-co-5156-n-academy-blvd.md",
       "page_title": "Colorado Springs, CO (5156 N Academy Blvd)",
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/garland-tx-1340-w-centerville-rd",
-      "page_path": "content/wiki/garland-tx-1340-w-centerville-rd.md",
-      "page_title": "Garland, TX (1340 W Centerville Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/richmond-va-10430-midlothian-turnpike",
-      "page_path": "content/wiki/richmond-va-10430-midlothian-turnpike.md",
-      "page_title": "Richmond, VA (10430 Midlothian Turnpike)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2001-00-00",
+        "One of 5 3-Stages in Colorado to undergo Concept Unification. One of many 3-Stages replaced by a Studio C Alpha.",
         ""
       ],
       "sort": "99999999"
@@ -15982,7 +16689,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "1998-00-00",
+        "One of 10 3-Stages in California to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
         ""
       ],
       "sort": "99999999"
@@ -15994,7 +16702,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2000-00-00",
+        "One of 10 3-Stages in California to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
         ""
       ],
       "sort": "99999999"
@@ -16006,7 +16715,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "",
+        "1995-00-00",
+        "One of 5 3-Stages in Virginia to undergo Concept Unification. CU 3-Stage was reverted back into a Rock-afire Explosion show by Creative Engineering after the Virginia Beach CEC closed and rebranded as Billy Bob's. The same store would reopen as a new CEC in 1997.",
         ""
       ],
       "sort": "99999999"
@@ -16018,43 +16728,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "2005-01-09",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/columbia-sc-1775-burning-tree-dr",
-      "page_path": "content/wiki/columbia-sc-1775-burning-tree-dr.md",
-      "page_title": "Columbia, SC (1775 Burning Tree Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/pasadena-ca-3765-e-foothill-blvd",
-      "page_path": "content/wiki/pasadena-ca-3765-e-foothill-blvd.md",
-      "page_title": "Pasadena, CA (3765 E Foothill Blvd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "1993-10-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/orlando-fl-7419-international-dr",
-      "page_path": "content/wiki/orlando-fl-7419-international-dr.md",
-      "page_title": "Orlando, FL (7419 International Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2005-01-00",
+        "One of 7 3-Stages in Florida to undergo Concept Unification.",
         ""
       ],
       "sort": "99999999"
@@ -16066,7 +16741,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "1998-12-00",
+        "One of 7 3-Stages in Indiana to get Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
         ""
       ],
       "sort": "99999999"
@@ -16078,31 +16754,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/sheffield-al-4700-hatch-blvd",
-      "page_path": "content/wiki/sheffield-al-4700-hatch-blvd.md",
-      "page_title": "Sheffield, AL (4700 Hatch Blvd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/new-orleans-la-3701-general-degaulle-dr",
-      "page_path": "content/wiki/new-orleans-la-3701-general-degaulle-dr.md",
-      "page_title": "New Orleans, LA (3701 General DeGaulle Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2024-05-13",
+        "One of 3 3-Stages in Pennsylvania to get Concept Unification. Last 3-Stage in Pennsylvania from September 2018 until stage removal in May 2024 and the Northeast United States before removal. Second-to-last 3-Stage to be removed (the last being Billings, MT (100 24th St)). Stage was in decent condition.",
         ""
       ],
       "sort": "99999999"
@@ -16120,69 +16773,9 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/richardson-tx-1235-e-belt-line-rd",
-      "page_path": "content/wiki/richardson-tx-1235-e-belt-line-rd.md",
-      "page_title": "Richardson, TX (1235 E Belt Line Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2006-11-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/lafayette-la-3221-ambassador-caffery-pkwy",
-      "page_path": "content/wiki/lafayette-la-3221-ambassador-caffery-pkwy.md",
-      "page_title": "Lafayette, LA (3221 Ambassador Caffery Pkwy)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "1995-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/houston-tx-7735-w-bellfort-ave",
-      "page_path": "content/wiki/houston-tx-7735-w-bellfort-ave.md",
-      "page_title": "Houston, TX (7735 W Bellfort Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "1993-09-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/indianapolis-in-5501-e-82nd-st",
       "page_path": "content/wiki/indianapolis-in-5501-e-82nd-st.md",
       "page_title": "Indianapolis (Castleton), IN (5501 E 82nd St)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/omaha-ne-225-n-76th-st",
-      "page_path": "content/wiki/omaha-ne-225-n-76th-st.md",
-      "page_title": "Omaha, NE (225 N 76th St)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/oklahoma-city-ok-6817-nw-expressway",
-      "page_path": "content/wiki/oklahoma-city-ok-6817-nw-expressway.md",
-      "page_title": "Oklahoma City, OK (6817 NW Expressway)",
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
@@ -16199,18 +16792,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "2013-05-12",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/huntsville-al-1220-jordan-lane",
-      "page_path": "content/wiki/huntsville-al-1220-jordan-lane.md",
-      "page_title": "Huntsville, AL (1220 Jordan Lane)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "One of 17 3-Stages in Texas to receive Concept Unification. Was in Good Condition. Chuck had full rare 'Cool Chuck' outfit. Location relocated in 2013 to the current location with a Circles of Light show with formerly an 16M animatronic.",
         ""
       ],
       "sort": "99999999"
@@ -16222,7 +16804,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2019-08-00",
+        "One of 4 3-Stages in Arkansas to undergo Concept Unification. Last MMBB stage and 3-Stage in Arkansas. Was in Very Poor Condition. Chuck had rare 'Cool Chuck' outfit and Wink had 'In Pizza We Trust' slogan.",
         ""
       ],
       "sort": "99999999"
@@ -16235,42 +16818,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "1999-04-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/mishawaka-in-822-w-mckinley-ave",
-      "page_path": "content/wiki/mishawaka-in-822-w-mckinley-ave.md",
-      "page_title": "Mishawaka, IN (822 W McKinley Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/augusta-ga-3435-wrightsboro-rd",
-      "page_path": "content/wiki/augusta-ga-3435-wrightsboro-rd.md",
-      "page_title": "Augusta, GA (3435 Wrightsboro Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/murray-ut-4425-state-st",
-      "page_path": "content/wiki/murray-ut-4425-state-st.md",
-      "page_title": "Murray, UT (4425 State St)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "1997-07-00",
+        "One of 5 3-Stages in Missouri to undergo Concept Unification.",
         ""
       ],
       "sort": "99999999"
@@ -16282,7 +16830,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2009-04-00",
+        "One of 5 3-Stages in Louisiana to undergo Concept Unification. Stage replaced with the last ever installed Studio C Cappa in April 2009.",
         ""
       ],
       "sort": "99999999"
@@ -16294,7 +16843,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2022-08-10",
+        "One of 4 3-Stages in Ohio to receive Concept Unification. Last 3-Stage in Ohio from June 2020 until show removal in August 2022. Was in Poor Condition.",
         ""
       ],
       "sort": "99999999"
@@ -16307,18 +16857,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "2020-10-13",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/fayetteville-ar-1330-n-college-ave",
-      "page_path": "content/wiki/fayetteville-ar-1330-n-college-ave.md",
-      "page_title": "Fayetteville, AR (1330 N College Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2010-00-00",
+        "One of 6 3-Stages in North Carolina to undergo Concept Unification. Fourth-to-last 3-Stage in North Carolina from March 1996 until stage removal and store closure in October 2020. Last location to have all prop characters, including Munch Jr. Was in Decent Condition, Helen had ginger hair, Pasqually had TKO drumfront, stage had Pizzacam. Animatronics from this store, minus the Wink, are now privately owned by the store's tech, [CEC TechMan](https://www.youtube.com/@cectechman).",
         ""
       ],
       "sort": "99999999"
@@ -16336,37 +16875,14 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/greensboro-nc-702-a-pembroke-rd",
-      "page_path": "content/wiki/greensboro-nc-702-a-pembroke-rd.md",
-      "page_title": "Greensboro, NC (702-A Pembroke Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/cedar-rapids-ia-170-collins-rd",
-      "page_path": "content/wiki/cedar-rapids-ia-170-collins-rd.md",
-      "page_title": "Cedar Rapids, IA (170 Collins Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2013-11-17",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/indianapolis-in-4910-w-38th-st",
       "page_path": "content/wiki/indianapolis-in-4910-w-38th-st.md",
       "page_title": "Indianapolis, IN (4910 W 38th St)",
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "2011-11-00",
+        "2011-12-19",
+        "One of 7 3-Stages in Indiana to get Concept Unification. 3rd-to-last 3-Stage in Indiana. Was in Good Condition. Chuck had full rare 'Cool Chuck' outfit and Jasper had Beach Bear Guitar.",
         ""
       ],
       "sort": "99999999"
@@ -16379,18 +16895,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "2001-01-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/baton-rouge-la-11324-boardwalk-dr",
-      "page_path": "content/wiki/baton-rouge-la-11324-boardwalk-dr.md",
-      "page_title": "Baton Rouge, LA (11324 Boardwalk Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2021-11-03",
+        "One of 4 3-Stages in Iowa to undergo Concept Unification. Location relocated in 2001 to the Cedar Falls, IA (5911 University Ave) with formerly a Studio C Beta, 32M.",
         ""
       ],
       "sort": "99999999"
@@ -16403,18 +16908,6 @@
         "Concept Unification Stage",
         "0000-00-00",
         "2002-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/escondido-ca-624-w-mission-ave",
-      "page_path": "content/wiki/escondido-ca-624-w-mission-ave.md",
-      "page_title": "Escondido, CA (624 W Mission Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2006-03-00",
         ""
       ],
       "sort": "99999999"
@@ -16444,25 +16937,14 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/springfield-il-2369-mcarthur-ave",
-      "page_path": "content/wiki/springfield-il-2369-mcarthur-ave.md",
-      "page_title": "Springfield, IL (2369 McArthur Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/miamisburg-oh-30-prestige-place",
       "page_path": "content/wiki/miamisburg-oh-30-prestige-place.md",
       "page_title": "Miamisburg, OH (30 Prestige Place)",
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2001-00-00",
+        "One of 4 3-Stages in Ohio to receive Concept Unification. One of many 3-Stages replaced with a Studio C Beta.",
         ""
       ],
       "sort": "99999999"
@@ -16474,7 +16956,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2006-07-00",
+        "One of 10 3-Stages in Illinois to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Beta.",
         ""
       ],
       "sort": "99999999"
@@ -16486,79 +16969,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "1998-04-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/saginaw-mi-5105-bay-rd",
-      "page_path": "content/wiki/saginaw-mi-5105-bay-rd.md",
-      "page_title": "Saginaw, MI (5105 Bay Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/boise-id-6255-fairview-ave",
-      "page_path": "content/wiki/boise-id-6255-fairview-ave.md",
-      "page_title": "Boise, ID (6255 Fairview Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/antioch-tn-5312-hickory-hollow-lane",
-      "page_path": "content/wiki/antioch-tn-5312-hickory-hollow-lane.md",
-      "page_title": "Antioch, TN (5312 Hickory Hollow Lane)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/memphis-tn-3268-austin-peay-hwy",
-      "page_path": "content/wiki/memphis-tn-3268-austin-peay-hwy.md",
-      "page_title": "Memphis, TN (3268 Austin Peay Hwy)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2013-03-31",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/torrance-ca-2821-pacific-coast-hwy",
-      "page_path": "content/wiki/torrance-ca-2821-pacific-coast-hwy.md",
-      "page_title": "Torrance, CA (2821 Pacific Coast Hwy)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/wichita-falls-tx-2935-southwest-pkwy",
-      "page_path": "content/wiki/wichita-falls-tx-2935-southwest-pkwy.md",
-      "page_title": "Wichita Falls, TX (2935 Southwest Pkwy)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "1998-04-22",
+        "One of 7 3-Stages in Alabama to undergo Concept Unification.",
         ""
       ],
       "sort": "99999999"
@@ -16570,31 +16982,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "1995-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/la-crosse-wi-4444-state-rd",
-      "page_path": "content/wiki/la-crosse-wi-4444-state-rd.md",
-      "page_title": "La Crosse, WI (4444 State Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/lynchburg-va-312-border-st",
-      "page_path": "content/wiki/lynchburg-va-312-border-st.md",
-      "page_title": "Lynchburg, VA (312 Border St)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "1994-00-00",
+        "1994-09-00",
+        "One of 17 3-Stages in Texas to undergo Concept Unification.",
         ""
       ],
       "sort": "99999999"
@@ -16612,73 +17001,14 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/west-des-moines-ia-1431-22nd-st",
-      "page_path": "content/wiki/west-des-moines-ia-1431-22nd-st.md",
-      "page_title": "West Des Moines, IA (1431 22nd St)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/parkersburg-wv-3500-murdoch-ave",
-      "page_path": "content/wiki/parkersburg-wv-3500-murdoch-ave.md",
-      "page_title": "Parkersburg, WV (3500 Murdoch Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "1998-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/fayetteville-nc-511-north-mcpherson-church-rd",
-      "page_path": "content/wiki/fayetteville-nc-511-north-mcpherson-church-rd.md",
-      "page_title": "Fayetteville, NC (511 North McPherson Church Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/greenville-sc-253-congaree-rd",
-      "page_path": "content/wiki/greenville-sc-253-congaree-rd.md",
-      "page_title": "Greenville, SC (253 Congaree Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/asheville-nc-34-tunnel-rd",
       "page_path": "content/wiki/asheville-nc-34-tunnel-rd.md",
       "page_title": "Asheville, NC (34 Tunnel Rd)",
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "1996-03-15",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/naperville-il-1154-e-ogden-ave",
-      "page_path": "content/wiki/naperville-il-1154-e-ogden-ave.md",
-      "page_title": "Naperville, IL (1154 E Ogden Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "1996-03-00",
+        "One of 6 3-Stages in North Carolina to undergo Concept Unification.",
         ""
       ],
       "sort": "99999999"
@@ -16690,7 +17020,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2017-09-00",
+        "Only 3-Stage in Delaware until show removal in September 2017. Was in Decent Condition, Chuck had rare 'Cool Chuck' khakis, stage had lighting similar to New Orleans, LA's former 3-Stage. Show was replaced by a recycled Circles of Light show from the San Antonio, TX (Ingram Dr) location.",
         ""
       ],
       "sort": "99999999"
@@ -16702,7 +17033,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2000-00-00",
+        "One of 6 3-Stages in Georgia to receive Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.",
         ""
       ],
       "sort": "99999999"
@@ -16715,30 +17047,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "1997-10-26",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/laurel-md-936-fairlawn-ave",
-      "page_path": "content/wiki/laurel-md-936-fairlawn-ave.md",
-      "page_title": "Laurel, MD (936 Fairlawn Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/houston-tx-14637-memorial-dr",
-      "page_path": "content/wiki/houston-tx-14637-memorial-dr.md",
-      "page_title": "Houston, TX (14637 Memorial Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2012-10-14",
+        "One of 4 3-Stages in South Carolina to receive Concept Unification.",
         ""
       ],
       "sort": "99999999"
@@ -16751,6 +17060,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "2018-09-23",
+        "One of 17 3-Stages in Texas to receive Concept Unification. Last 3-Stage store in Houston area. Was in very good condition. Building and Moon prop characters from this stage are now on the show programming CU 1-Stage at the Chuck E. Cheese's Corporate Office.",
         ""
       ],
       "sort": "99999999"
@@ -16763,54 +17073,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "2007-01-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/southgate-mi-15300-toledo-rd",
-      "page_path": "content/wiki/southgate-mi-15300-toledo-rd.md",
-      "page_title": "Southgate, MI (15300 Toledo Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/fort-collins-co-105-w-prospect-rd",
-      "page_path": "content/wiki/fort-collins-co-105-w-prospect-rd.md",
-      "page_title": "Fort Collins, CO (105 W Prospect Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2020-04-18",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/maryville-tn-141-foothills-mall",
-      "page_path": "content/wiki/maryville-tn-141-foothills-mall.md",
-      "page_title": "Maryville, TN (141 Foothills Mall)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "1995-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/charleston-sc-1610-sam-rittenburg-blvd",
-      "page_path": "content/wiki/charleston-sc-1610-sam-rittenburg-blvd.md",
-      "page_title": "Charleston, SC (1610 Sam Rittenburg Blvd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2020-06-18",
+        "One of 10 3-Stages in Illinois to undergo Concept Unification. Animatronics sent to Mishawaka, IN (822 W McKinley Ave) after stage removal and store closure in 2007.",
         ""
       ],
       "sort": "99999999"
@@ -16822,31 +17085,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/chattanooga-tn-22-northgate-park",
-      "page_path": "content/wiki/chattanooga-tn-22-northgate-park.md",
-      "page_title": "Chattanooga, TN (22 Northgate Park)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/lincoln-ne-221-n-66th-st",
-      "page_path": "content/wiki/lincoln-ne-221-n-66th-st.md",
-      "page_title": "Lincoln, NE (221 N 66th St)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2020-06-15",
+        "",
+        "One of 10 3-Stages in Illinois to undergo Concept Unification. 3-Stage was replaced with a recycled 1-Stage from Waukegan, IL (2211 Grand Ave) between 1997 and 2005.",
         ""
       ],
       "sort": "99999999"
@@ -16859,54 +17099,7 @@
         "Concept Unification Stage",
         "0000-00-00",
         "1994-04-20",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/darien-il-7409-cass-ave",
-      "page_path": "content/wiki/darien-il-7409-cass-ave.md",
-      "page_title": "Darien, IL (7409 Cass Ave)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/arlington-heights-il-955-w-dundee-rd",
-      "page_path": "content/wiki/arlington-heights-il-955-w-dundee-rd.md",
-      "page_title": "Arlington Heights, IL (955 W Dundee Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/lynnwood-wa-3717-196th-st-suite-100",
-      "page_path": "content/wiki/lynnwood-wa-3717-196th-st-suite-100.md",
-      "page_title": "Lynnwood, WA (3717 196th St Suite 100)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/flint-mi-3489-miller-rd",
-      "page_path": "content/wiki/flint-mi-3489-miller-rd.md",
-      "page_title": "Flint, MI (3489 Miller Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "2020-06-25",
+        "Underwent Concept Unification just like the others in the state. Stage's location now infamous for the December 1993 mass shooting that took place there.",
         ""
       ],
       "sort": "99999999"
@@ -16918,19 +17111,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/york-pa-2801-e-market-st",
-      "page_path": "content/wiki/york-pa-2801-e-market-st.md",
-      "page_title": "York, PA (2801 E Market St)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2000-00-00",
+        "One of 5 3-Stages in Louisiana to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha. Helen had cheerleader outfit.",
         ""
       ],
       "sort": "99999999"
@@ -16942,55 +17124,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/jacksonville-fl-9820-atlantic-blvd",
-      "page_path": "content/wiki/jacksonville-fl-9820-atlantic-blvd.md",
-      "page_title": "Jacksonville, FL (9820 Atlantic Blvd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/fargo-nd-1202-nodak-dr",
-      "page_path": "content/wiki/fargo-nd-1202-nodak-dr.md",
-      "page_title": "Fargo, ND (1202 Nodak Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/pensacola-fl-7350-plantation-rd",
-      "page_path": "content/wiki/pensacola-fl-7350-plantation-rd.md",
-      "page_title": "Pensacola, FL (7350 Plantation Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/paducah-ky-5141-hinkleville-rd",
-      "page_path": "content/wiki/paducah-ky-5141-hinkleville-rd.md",
-      "page_title": "Paducah, KY (5141 Hinkleville Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2024-07-28",
+        "Only 3-Stage in Montana. One of 2 remaining Concept Unification stages before removal in May 2024. Last CU 3-Stage to be removed. Was in Decent Condition. Chuck had rare 'Cool Chuck' outfit, Munch had 90s hat, and Pasqually had CU drumfront. Animatronics now at SPT Distribution.",
         ""
       ],
       "sort": "99999999"
@@ -17002,19 +17137,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/knoxville-tn-7522-kingston-pike",
-      "page_path": "content/wiki/knoxville-tn-7522-kingston-pike.md",
-      "page_title": "Knoxville, TN (7522 Kingston Pike)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "1997-00-00",
+        "2006-00-00",
+        "One of 7 3-Stages in Indiana to undergo Concept Unification. one of a dozen 3-Stages replaced with a Studio C Cappa.",
         ""
       ],
       "sort": "99999999"
@@ -17026,31 +17150,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/manhattan-ks-519-richards-dr",
-      "page_path": "content/wiki/manhattan-ks-519-richards-dr.md",
-      "page_title": "Manhattan, KS (519 Richards Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "1992-12-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/dallas-tx-13125-montfort-dr",
-      "page_path": "content/wiki/dallas-tx-13125-montfort-dr.md",
-      "page_title": "Dallas, TX (13125 Montfort Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2000-00-00",
+        "One of 5 3-Stages in Virginia to undergo Concept Unification.",
         ""
       ],
       "sort": "99999999"
@@ -17062,7 +17163,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "1993-00-00",
+        "One of 6 3-Stages in Georgia to receive Concept Unification.",
         ""
       ],
       "sort": "99999999"
@@ -17074,7 +17176,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2010-09-00",
+        "One of 3-Stages in Pennsylvania to undergo Concept Unification. 3-Stage was converted into the first ever CU 1-Stage. Was in Good Condition. Chuck had full rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, Pasqually had CU Drumfront, and Stage had Pizzacam. Animatronics now at SPT Distribution.",
         ""
       ],
       "sort": "99999999"
@@ -17086,7 +17189,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2009-00-00",
+        "One of 17 3-Stages in Texas to receive Concept Unification. One of many 3-Stages replaced with a Studio C Beta. Munch had different organ and Jasper had Beach Bear guitar. One of many 3-Stages replaced with a Studio C Beta. Location relocated in 2018 to the current location as a 2.0 store with the Dance Floor.",
         ""
       ],
       "sort": "99999999"
@@ -17098,7 +17202,8 @@
       "parts": [
         "Concept Unification Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2000-00-00",
+        "One of 2 3-Stages in Kansas to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Beta.",
         ""
       ],
       "sort": "99999999"

@@ -29,14 +29,15 @@
     <div class="tab-panel" id="graphs">
       <h2>Store Openings vs Closings</h2>
       {{ partial "HomepageGraphs.html" (dict "id" "openings-1" "data" .Site.Data.graphs.openings_vs_closings "type" "auto" "height" 300 "width" 900) }}
-      <h2>Average Store Sqft. Per Year</h2>
-      {{ partial "HomepageGraphs.html" (dict "id" "openings-2" "data" .Site.Data.graphs.avg_sqft_by_opening_year "type" "auto" "height" 300 "width" 900) }}
-      <h2>Average Total Years Stores Operated By Opening Year (Closed Locations Only)</h2>
-      {{ partial "HomepageGraphs.html" (dict "id" "openings-3" "data" .Site.Data.graphs.avg_years_open_by_opening_year "type" "auto" "height" 300 "width" 900) }}
-      <h2>Remodels & Initiatives Count for Each Year</h2>
-      {{ partial "HomepageGraphs.html" (dict "id" "openings-4" "data" .Site.Data.graphs.remodels_by_start_year "type" "auto" "height" 300 "width" 900) }}
       <h2>Store Stages Over Time</h2>
       {{ partial "HomepageGraphs.html" (dict "id" "openings-5" "data" .Site.Data.graphs.open_by_stage "type" "auto" "height" 300 "width" 900) }}
+      <h2>Average Total Years Stores Operated By Opening Year (Closed Locations Only)</h2>
+      {{ partial "HomepageGraphs.html" (dict "id" "openings-3" "data" .Site.Data.graphs.avg_years_open_by_opening_year "type" "auto" "height" 300 "width" 900) }}
+      <h2>Average Store Sqft. Per Year</h2>
+      {{ partial "HomepageGraphs.html" (dict "id" "openings-2" "data" .Site.Data.graphs.avg_sqft_by_opening_year "type" "auto" "height" 300 "width" 900) }}
+      <h2>Remodels & Initiatives Count for Each Year</h2>
+      {{ partial "HomepageGraphs.html" (dict "id" "openings-4" "data" .Site.Data.graphs.remodels_by_start_year "type" "auto" "height" 300 "width" 900) }}
+      
     </div>
 
   </div>
