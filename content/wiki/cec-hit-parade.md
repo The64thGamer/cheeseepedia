@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "CEC Hit Parade"
-startDate = "1985-00-00"
-endDate = "1985-00-00"
+startDate = "1985-04-00"
+endDate = "1985-06-00"
 pageThumbnailFile = "hitparade.avif"
 contributors = ["Luigigamin212","CyberSnout"]
 citations = ["https://www.youtube.com/playlist?list=PLz0bp-Ui5yPAIMbt2vRMLLnm2FKinNWpV"]
