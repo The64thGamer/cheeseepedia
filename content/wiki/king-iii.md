@@ -23,17 +23,17 @@ contributors = ["CyberSnout"]
       1. Blue Suede Shoes
 6. Segment 6
       1. That's Allright
-6. Segment 6
+7. Segment 7
       1. All Shook Up
-6. Segment 6
+8. Segment 8
       1. Heartbreak Hotel
-6. Segment 6
+9. Segment 9
       1. Heard Headed Woman
-6. Segment 6
+10. Segment 10
       1. Don't Be Cruel
-6. Segment 6
+11. Segment 11
       1. Jailhouse Rock
-6. Segment 7
+12. Segment 12
       1. Good Rockin' Tonight
 
 ### Specials:
