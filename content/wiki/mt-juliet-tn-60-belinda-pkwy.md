@@ -5,7 +5,7 @@ startDate = "2014-12-15"
 endDate = ""
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Circles of Light|2014-12-15|0000-00-00|"]
 franchisees = []
 attractions = []
 sqft = ""
@@ -18,4 +18,3 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false
 +++
-

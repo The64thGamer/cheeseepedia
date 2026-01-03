@@ -5,7 +5,7 @@ startDate = "1981-08-00"
 endDate = "1986-00-00"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Balcony Stage|1981-08-00|1986-00-00|"]
 franchisees = ["RSKT, Inc.|1981-08-00|0000-00-00"]
 animatronics = ["Chuck E. Cheese (Cyberamic)|1981-00-00|0000-00-00|N/A|Owned by 80's Girl / Kobun37","Guest Star Helen Henny (Cyberamic)|1981-00-00|0000-00-00|N/A|Owned by Damon E. Breland","Mr Munch (Cyberamic)|1981-00-00|0000-00-00|N/A|Owned by Damon E. Breland","Jasper T Jowls (Cyberamic)|1981-00-00|0000-00-00|N/A|Owned by Damon E. Breland","Pasqually (Cyberamic)|1981-00-00|0000-00-00|N/A|Owned by Damon E. Breland","Drum Board (Cyberamic)|1981-00-00|0000-00-00|N/A|Owned by Damon E. Breland","Applause Board (Cyberamic)|1981-00-00|0000-00-00|N/A|Owned by Damon E. Breland","Warblettes (Cyberamic)|1981-00-00|0000-00-00|N/A|Unknown","Dolli Dimples (Cyberamic)|1981-00-00|0000-00-00|N/A|Unknown"]
 attractions = []
@@ -19,7 +19,6 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
 +++
-
 ***Redwood City, CA (380 Convention Way)*** (also known as ***San Mateo***) was a two-story {{< wiki-link "Pizza Time Theatre" >}} location that opened in August of 1981, and closed in early 1986{{< cite 2 >}}{{< cite 6 >}} 
 
 ## History

@@ -5,7 +5,7 @@ startDate = "1983-05-02"
 endDate = "1995-00-00"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Balcony Stage|1983-05-02|0000-00-00|", "Chuck E.'s House Facade|0000-00-00|1995-00-00|"]
 franchisees = []
 attractions = []
 sqft = ""
@@ -18,7 +18,6 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
 +++
-
 ***Marinwood / San Rafael, CA (175 Marinwood Ave)*** was a Pizza Time Theatre that lasted from May 2nd, 1983 to 1995.
 
 ## History

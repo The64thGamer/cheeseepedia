@@ -5,7 +5,7 @@ startDate = "2024-08-30"
 endDate = ""
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Chuck E. Live Stage (Dance Floor)|2024-08-30|0000-00-00|"]
 franchisees = []
 attractions = []
 sqft = ""
@@ -18,4 +18,3 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false
 +++
-
