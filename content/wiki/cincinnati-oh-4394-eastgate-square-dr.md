@@ -13,13 +13,12 @@ attractions = []
 animatronics = ["Mr. Munch (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown", "Jasper T. Jowls (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown", "Chuck E. Cheese (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown", "Guest Star / Helen Henny (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown", "Pasqually (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown", "Chuck E. Cheese 16m (Animatronic)|2005-00-00|2024-04-07|1106|Dismantled, thrown into dumpster"]
 franchisees = ["Bernstein Restaurant Group|1990-06-17|2008-08-25"]
 remodels = ["SPT 1980's Remodel Program|1990-06-17", "SPT 1990's Remodel Program|1998-00-00", "CEC 2000's Remodel Program|2005-11-00", "CEC 2.0 Remodel Program|2024-05-29"]
-stages = ["Chuck E.'s House|1990-06-16|2005-00-00", "Studio C Cappa|2005-00-00|2012-00-00", "Studio C Beta|2012-00-00|2024-04-07", "Chuck E. Live Stage (Dance Floor)|2024-04-09| ", "Video Wall|2024-04-09| "]
+stages = ["Chuck E.'s House|1990-06-16|2005-00-00", "Studio C Cappa|2005-00-00|2012-00-00", "Studio C Beta|2012-00-00|2024-04-07", "Chuck E. Live Stage (Dance Floor)|2024-04-09| ", "Video Wall|2024-04-09||"]
 downloadLinks = []
 latitudeLongitude = ["39.09249612", "-84.26932168"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-
 ***Cincinnati, OH (4394 Eastgate Square Dr), Store #211/102*** is a *Chuck E. Cheese's Pizza* that opened June 17, 1990 with a {{< wiki-link "Chuck E.'s House" >}} {{< cite 1 >}} and is currently a Chuck E. Cheese with a {{< wiki-link "Chuck E. Live Stage (Dance Floor)" >}}.{{< cite 2 >}}
 
 ## History

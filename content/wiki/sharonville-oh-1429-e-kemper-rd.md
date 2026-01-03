@@ -5,7 +5,7 @@ startDate = "1981-10-21"
 endDate = ""
 cuDate = ""
 remodels = ["SPT 1990's Remodel Program|1992-09-08","CEC 2000's Remodel Program|2005-00-00","CEC 2.0 Remodel Program|2019-12-12"]
-stages = ["Classic Stage|1981-10-21|1984-01-08","2-Stage|1992-09-08|2019-10-30","Chuck E. Live Stage (Dance Floor)|2019-10-30|2024-08-12","Chuck E. Live Stage (Dance Floor)|2024-08-12)| "]
+stages = ["Classic Stage|1981-10-21|1984-01-08", "2-Stage|1992-09-08|2019-10-30", "Chuck E. Live Stage (Dance Floor)|2019-10-30|2024-08-12", "Chuck E. Live Stage (Dance Floor)|2024-08-12)||"]
 franchisees = []
 attractions = []
 animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-10-21|1984-01-08|4-81 1-5|Sent to Miami, FL (19191 S Dixie Hwy)","Dook Larue (Animatronic)|1981-10-21|1984-01-08|4-81 2-5|Sent to Miami, FL (19191 S Dixie Hwy)","Fatz Geronimo (Animatronic)|1981-10-21|1984-01-08|4-81 3-5|Sent to Miami, FL (19191 S Dixie Hwy)","Beach Bear (Animatronic)|1981-10-21|1984-01-08|4-81 4-5|Sent to Miami, FL (19191 S Dixie Hwy)","Mitzi Mozzarella (Animatronic)|1981-10-21|1984-01-08|4-81 5-5|Sent to Miami, FL (19191 S Dixie Hwy)","Billy Bob (Animatronic)|1981-10-21|1984-01-08|4-81 6-5|Sent to Miami, FL (19191 S Dixie Hwy)","Looney Bird (Animatronic)|1981-10-21|1984-01-08|4-81 7-5|Sent to Miami, FL (19191 S Dixie Hwy)","Choo Choo (Animatronic)|1981-10-21|1984-01-08|4-81 8-5|Sent to Miami, FL (19191 S Dixie Hwy)","Sun (Animatronic)|1981-10-21|1984-01-08|4-81 11-5|Sent to Miami, FL (19191 S Dixie Hwy)","Moon (Animatronic)|1981-10-21|1984-01-08|4-81 11-5|Sent to Miami, FL (19191 S Dixie Hwy)","Antioch (Animatronic)|1981-10-21|1984-01-08|N/A|Sent to Miami, FL (19191 S Dixie Hwy)","Uncle Klunk (Animatronic)|1983-00-00|1984-01-08|N/A|Unknown","Chuck E. Cheese (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Guest Star / Helen Henny (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Mr. Munch (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Jasper T. Jowls (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Pasqually (Cyberamic)|1992-09-08|2019-10-30|Unknown|Sent to Florence, KY (7635 Mall Rd) for parts","Wink|1992-09-08|2019-10-30|N/A|Unknown"]
@@ -19,7 +19,6 @@ tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false
 +++
-
 ***Sharonville, OH (1429 E Kemper Rd) #738*** originally opened up on October 21, 1981, as a ShowBiz Pizza Place {{< cite 1 >}} and then closed its doors on January 8, 1984. {{< cite 2 >}} The store would then re-open on September 8, 1992, as a Chuck E. Cheese's Pizza, still open to this day now as a Chuck E. Cheese.{{< cite 3 >}}
 ﻿
 ## History

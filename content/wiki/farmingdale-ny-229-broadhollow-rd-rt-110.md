@@ -2,7 +2,7 @@
 title = "Farmingdale, NY (229 Broadhollow Rd./Rt. 110)"
 startDate = "1993-00-00"
 endDate = "2014-00-00"
-stages = ["Classic Stage|1993-00-00|2011-00-00"]
+stages = ["Classic Stage|1993-00-00|2014-00-00|"]
 franchisees = []
 animatronics = [
   "Rolfe Dewolfe & Earl Schmerle (Animatronic)|1993-00-00|2011-00-00|1-83 1-47|Owned by private collector.",
