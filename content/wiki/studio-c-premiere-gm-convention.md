@@ -19,4 +19,4 @@ contributors = ["CyberSnout"]
       1. Chuck E. Cheese and Bird Profitable Afternoon skit
       2. Larry the Tech can't find the tape (When the Chips Are Down skit)
       3. Top 10. Reasons to go to the GM Convention skit
-      4. Capture Moments of the GM Convention in Las Vegas
+      4. Capture Moments of the GM Convention in Las Vegas 
