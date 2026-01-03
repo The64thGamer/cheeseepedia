@@ -13,9 +13,9 @@ categories = ["Chuck E. Cheese's"]
 ## Show List:
 1. Segment 1
       1.  Ragtime 20's Hits
-             1.  1. Alexander's Ragtime Band
-             2.  2. The Sheik of Araby
-             3.  3. Charleston
+             1. Alexander's Ragtime Band
+             2. The Sheik of Araby
+             3. Charleston
 2. Segment 2
       1.  The Swinging 40's Sound
              1. (I've Got a Gal In) Kalamazoo 
