@@ -3,14 +3,15 @@ title = "Beach Bowzers"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1985-00-00"
-endDate = "0000-00-00"
+startDate = "1985-10-00"
+endDate = "1991-00-00"
+pageThumbnailFile = "j0FYtzluIACO31GvDe7v.avif"
 contributors = ["The 64th Gamer","CoolerDude"]
 citations = []
 +++
+**Beach Bowzers** was released in October 1985. It would play until 1991 when {{< wiki-link "Beach Bowzers '91 I" >}} would release.
 
 ## Show List
-
 1. **Segment 1**
     1.  Surfin' U.S.A.
 2. **Segment 2**
