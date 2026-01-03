@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "CEC Movie Magic"
-startDate = "1986-12-19"
+startDate = "1987-01-00"
 endDate = "1987-02-00"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://youtu.be/oTcH12jmc0k?si=aVblekXIpz7YW2fX"]
@@ -11,7 +11,7 @@ transcriptions = ["TV Themes"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***CEC Movie Magic* is a show consisting of three 15 minute segments which released on December 19, 1986. It was the first show to use Cybervision.**
+***CEC Movie Magic*** is a show consisting of three 15 minute segments which released in January 1987 and was mastered on December 19, 1986. It was the first show to use Cybervision.
 
 ## Segments:
 
