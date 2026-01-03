@@ -23925,6 +23925,15 @@
       "content": "Photo of the logo on the cabinet (Unknown Year)"
     }
   ],
+  "CEC Salute to Kids": [
+    {
+      "name": "SalutetoKids.avif",
+      "page_path": "content/photos/SalutetoKidsavif.md",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Unknown Pizza Time Theatre with the Salute to Kids theme."
+    }
+  ],
   "Star Cast Member of the Month 2014 Pin": [
     {
       "name": "Klsw6wzjuzX8fOeoFA4f.avif",
@@ -35356,6 +35365,15 @@
       "hasFile": true,
       "startDate": "",
       "content": "The location of Olmsted's Cappa after 2.0"
+    }
+  ],
+  "CEC Hit Parade": [
+    {
+      "name": "hitparade.avif",
+      "page_path": "content/photos/hitparadeavif.md",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Hoffman Estates, IL Pizza Time Theatre in 1986"
     }
   ],
   "Animation Programming System": [

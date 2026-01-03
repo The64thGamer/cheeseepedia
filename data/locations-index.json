@@ -21374,28 +21374,28 @@
   ],
   "stages|Road Stage": [
     {
-      "page_get": "wiki/sun-valley-ca-8357-laurel-canyon-blvd",
-      "page_path": "content/wiki/sun-valley-ca-8357-laurel-canyon-blvd.md",
-      "page_title": "Sun Valley, CA (8375 Laurel Canyon Blvd)",
-      "parts": [
-        "Road Stage",
-        "1980-07-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "19800799"
-    },
-    {
       "page_get": "wiki/jonesboro-ga-335-upper-riverdale-rd",
       "page_path": "content/wiki/jonesboro-ga-335-upper-riverdale-rd.md",
       "page_title": "Jonesboro, GA (335 Upper Riverdale Rd)",
       "parts": [
         "Road Stage",
         "1990-11-20",
-        "0000-00-00",
+        "1996-00-00",
         ""
       ],
       "sort": "19901120"
+    },
+    {
+      "page_get": "wiki/topeka-ks-2215-sw-wanamaker-rd",
+      "page_path": "content/wiki/topeka-ks-2215-sw-wanamaker-rd.md",
+      "page_title": "Topeka, KS (2215 SW Wanamaker Rd)",
+      "parts": [
+        "Road Stage",
+        "1990-11-26",
+        "2022-07-00",
+        ""
+      ],
+      "sort": "19901126"
     },
     {
       "page_get": "wiki/springfield-pa-381-baltimore-pike",
@@ -21404,7 +21404,7 @@
       "parts": [
         "Road Stage",
         "1990-12-04",
-        "0000-00-00",
+        "1995-00-00",
         ""
       ],
       "sort": "19901204"
@@ -21422,25 +21422,13 @@
       "sort": "19901218"
     },
     {
-      "page_get": "wiki/topeka-ks-2215-sw-wanamaker-rd",
-      "page_path": "content/wiki/topeka-ks-2215-sw-wanamaker-rd.md",
-      "page_title": "Topeka, KS (2215 SW Wanamaker Rd)",
-      "parts": [
-        "Road Stage",
-        "1990-12-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "19901299"
-    },
-    {
       "page_get": "wiki/mississauga-ontario-canada-4141-dixie-rd",
       "page_path": "content/wiki/mississauga-ontario-canada-4141-dixie-rd.md",
       "page_title": "Mississauga, Ontario, Canada (4141 Dixie Rd)",
       "parts": [
         "Road Stage",
         "1991-03-11",
-        "0000-00-00",
+        "2025-06-15",
         ""
       ],
       "sort": "19910311"
@@ -21452,7 +21440,7 @@
       "parts": [
         "Road Stage",
         "1991-04-02",
-        "0000-00-00",
+        "2022-11-00",
         ""
       ],
       "sort": "19910402"
@@ -21464,7 +21452,7 @@
       "parts": [
         "Road Stage",
         "1991-04-16",
-        "0000-00-00",
+        "2022-06-00",
         ""
       ],
       "sort": "19910416"
@@ -21476,7 +21464,7 @@
       "parts": [
         "Road Stage",
         "1991-04-22",
-        "0000-00-00",
+        "1995-00-00",
         ""
       ],
       "sort": "19910422"
@@ -21488,7 +21476,7 @@
       "parts": [
         "Road Stage",
         "1991-07-01",
-        "0000-00-00",
+        "1995-00-00",
         ""
       ],
       "sort": "19910701"
@@ -21512,7 +21500,7 @@
       "parts": [
         "Road Stage",
         "1991-08-20",
-        "0000-00-00",
+        "1994-00-00",
         ""
       ],
       "sort": "19910820"
@@ -21536,7 +21524,7 @@
       "parts": [
         "Road Stage",
         "1991-09-11",
-        "0000-00-00",
+        "2022-04-00",
         ""
       ],
       "sort": "19910911"
@@ -21548,7 +21536,7 @@
       "parts": [
         "Road Stage",
         "1991-09-24",
-        "0000-00-00",
+        "1994-00-00",
         ""
       ],
       "sort": "19910924"
@@ -21560,7 +21548,7 @@
       "parts": [
         "Road Stage",
         "1991-09-24",
-        "0000-00-00",
+        "2023-04-00",
         ""
       ],
       "sort": "19910924"
@@ -21584,7 +21572,7 @@
       "parts": [
         "Road Stage",
         "1991-10-29",
-        "0000-00-00",
+        "1995-00-00",
         ""
       ],
       "sort": "19911029"
@@ -21596,7 +21584,7 @@
       "parts": [
         "Road Stage",
         "1991-10-29",
-        "0000-00-00",
+        "2024-02-00",
         ""
       ],
       "sort": "19911029"
@@ -21608,7 +21596,7 @@
       "parts": [
         "Road Stage",
         "1991-11-12",
-        "0000-00-00",
+        "1995-00-00",
         ""
       ],
       "sort": "19911112"
@@ -21620,7 +21608,7 @@
       "parts": [
         "Road Stage",
         "1991-11-00",
-        "0000-00-00",
+        "2024-06-02",
         ""
       ],
       "sort": "19911199"
@@ -21632,10 +21620,58 @@
       "parts": [
         "Road Stage",
         "1991-12-16",
-        "0000-00-00",
+        "2022-09-00",
         ""
       ],
       "sort": "19911216"
+    },
+    {
+      "page_get": "wiki/granada-hills-ca-16269-san-fernando-mission",
+      "page_path": "content/wiki/granada-hills-ca-16269-san-fernando-mission.md",
+      "page_title": "Granada Hills, CA (16269 San Fernando Mission)",
+      "parts": [
+        "Road Stage",
+        "1991-00-00",
+        "1994-04-00",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/gaithersburg-md-516-n-frederick-ave",
+      "page_path": "content/wiki/gaithersburg-md-516-n-frederick-ave.md",
+      "page_title": "Gaithersburg, MD (516 N Frederick Ave)",
+      "parts": [
+        "Road Stage",
+        "1991-00-00",
+        "1995-00-00",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/richland-wa-2610-n-columbia-center-blvd",
+      "page_path": "content/wiki/richland-wa-2610-n-columbia-center-blvd.md",
+      "page_title": "Richland, WA (2610 N Columbia Center Blvd)",
+      "parts": [
+        "Road Stage",
+        "1991-00-00",
+        "2018-09-09",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
+      "page_get": "wiki/citrus-heights-ca-6251-sunrise-blvd",
+      "page_path": "content/wiki/citrus-heights-ca-6251-sunrise-blvd.md",
+      "page_title": "Citrus Heights, CA (6251 Sunrise Blvd)",
+      "parts": [
+        "Road Stage",
+        "1991-00-00",
+        "2015-00-00",
+        ""
+      ],
+      "sort": "19919999"
     },
     {
       "page_get": "wiki/catonsville-md-5912-baltimore-national-pike",
@@ -21644,7 +21680,7 @@
       "parts": [
         "Road Stage",
         "1992-02-25",
-        "0000-00-00",
+        "1995-00-00",
         ""
       ],
       "sort": "19920225"
@@ -21656,7 +21692,7 @@
       "parts": [
         "Road Stage",
         "1992-02-25",
-        "0000-00-00",
+        "2022-11-00",
         ""
       ],
       "sort": "19920225"
@@ -21668,7 +21704,7 @@
       "parts": [
         "Road Stage",
         "1992-04-20",
-        "0000-00-00",
+        "2022-11-01",
         ""
       ],
       "sort": "19920420"
@@ -21680,7 +21716,7 @@
       "parts": [
         "Road Stage",
         "1992-05-19",
-        "0000-00-00",
+        "2024-02-11",
         ""
       ],
       "sort": "19920519"
@@ -21692,7 +21728,7 @@
       "parts": [
         "Road Stage",
         "1992-06-23",
-        "0000-00-00",
+        "2024-02-11",
         ""
       ],
       "sort": "19920623"
@@ -21704,22 +21740,22 @@
       "parts": [
         "Road Stage",
         "1992-07-21",
-        "0000-00-00",
+        "2000-00-00",
         ""
       ],
       "sort": "19920721"
     },
     {
-      "page_get": "wiki/granada-hills-ca-16269-san-fernando-mission",
-      "page_path": "content/wiki/granada-hills-ca-16269-san-fernando-mission.md",
-      "page_title": "Granada Hills, CA (16269 San Fernando Mission)",
+      "page_get": "wiki/sun-valley-ca-8357-laurel-canyon-blvd",
+      "page_path": "content/wiki/sun-valley-ca-8357-laurel-canyon-blvd.md",
+      "page_title": "Sun Valley, CA (8375 Laurel Canyon Blvd)",
       "parts": [
         "Road Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "1992-00-00",
+        "2023-11-05",
         ""
       ],
-      "sort": "99999999"
+      "sort": "19929999"
     },
     {
       "page_get": "wiki/calgary-alberta-canada-2770-32nd-ave",
@@ -21727,47 +21763,11 @@
       "page_title": "Calgary, Alberta, Canada (2770 32nd Ave)",
       "parts": [
         "Road Stage",
-        "0000-00-00",
+        "1994-00-00",
         "2003-00-00",
         ""
       ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/gaithersburg-md-516-n-frederick-ave",
-      "page_path": "content/wiki/gaithersburg-md-516-n-frederick-ave.md",
-      "page_title": "Gaithersburg, MD (516 N Frederick Ave)",
-      "parts": [
-        "Road Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/richland-wa-2610-n-columbia-center-blvd",
-      "page_path": "content/wiki/richland-wa-2610-n-columbia-center-blvd.md",
-      "page_title": "Richland, WA (2610 N Columbia Center Blvd)",
-      "parts": [
-        "Road Stage",
-        "0000-00-00",
-        "2018-09-09",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/citrus-heights-ca-6251-sunrise-blvd",
-      "page_path": "content/wiki/citrus-heights-ca-6251-sunrise-blvd.md",
-      "page_title": "Citrus Heights, CA (6251 Sunrise Blvd)",
-      "parts": [
-        "Road Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
+      "sort": "19949999"
     }
   ],
   "stages|1-Stage": [
