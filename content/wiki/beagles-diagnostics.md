@@ -2,12 +2,12 @@
 title = "Beagles Diagnostics"
 draft = false
 tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
-startDate = "1985-00-00"
+categories = ["Pizza Time Theatre"]
+startDate = "1980-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "BeaglesPromo.avif"
-contributors = ["The 64th Gamer"]
-citations = ["CyberSnout"]
+contributors = ["The 64th Gamer","CyberSnout"]
+citations = [""]
 +++
 **Beagles Diagnostics** was released in 1985. Each movement would be tested 10 times. 
 
