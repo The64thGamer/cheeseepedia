@@ -7,7 +7,7 @@ cuDate = ""
 remodels = [
   "SPT 1990's Remodel Program|1993-00-00"
 ]
-stages = ["2-Stage|1993-00-00|2003-00-00", "Studio C Beta|2003-00-00||"]
+stages = ["2-Stage|1993-03-00|2000-00-00|Replaced by a Studio C Beta 16M.|", "Studio C Beta|2003-00-00||"]
 animatronics = [
 
 ]

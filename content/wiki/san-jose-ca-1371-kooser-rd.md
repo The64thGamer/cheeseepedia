@@ -5,7 +5,7 @@ startDate = "1978-12-02"
 endDate = "2020-06-25"
 cuDate = ""
 remodels = ["PTT Standard Layout|1978-12-02","PTT Early Cyberamic Replacements|1983-00-00"]
-stages = ["Kooser PTT Show|1978-12-02|1980-04-00|2-Wall","Balcony Stage|1980-04-00|0000-00-00","2-Stage|0000-00-00|2020-06-25"]
+stages = ["Kooser PTT Show|1978-12-02|1980-04-00|2-Wall", "Balcony Stage|1980-04-00|0000-00-00", "2-Stage|1993-00-00|2020-06-00|One of many installed in California. Second CEC to ever open.|"]
 franchisees = []
 attractions = ["Cheese Crawl|1978-12-02|0000-00-00|Non-Standard"]
 sqft = "19,000"
@@ -18,7 +18,6 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
 +++
-
 ***San Jose, CA (1371 Kooser Rd) Store #404*** was a franchised *Pizza Time Theatre* that opened on December 2, 1978, with a Portrait Show, and closed on June 25, 2020. This location is the second-ever Pizza Time Theatre location and was the oldest location in the company until 2020. 
 
 ## History
