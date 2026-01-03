@@ -17910,16 +17910,17 @@
   ],
   "stages|2-Stage": [
     {
-      "page_get": "wiki/herndon-va-2465-centreville-rd",
-      "page_path": "content/wiki/herndon-va-2465-centreville-rd.md",
-      "page_title": "Herndon, VA (2465 Centreville Rd)",
+      "page_get": "wiki/merced-ca-721-w-olive-ave",
+      "page_path": "content/wiki/merced-ca-721-w-olive-ave.md",
+      "page_title": "Merced, CA (721 W Olive Ave)",
       "parts": [
         "2-Stage",
-        "1992-05-19",
-        "0000-00-00",
+        "1992-04-00",
+        "1995-00-00",
+        "One of many installed in California. One of the first 2-Stages installed. Sent to Chesapeake, VA (1528 Sam's Circle)",
         ""
       ],
-      "sort": "19920519"
+      "sort": "19920499"
     },
     {
       "page_get": "wiki/reno-nv-5000-smithridge-dr",
@@ -17934,28 +17935,17 @@
       "sort": "19920525"
     },
     {
-      "page_get": "wiki/lansing-mi-5451-l-west-saginaw-hwy",
-      "page_path": "content/wiki/lansing-mi-5451-l-west-saginaw-hwy.md",
-      "page_title": "Lansing, MI (5451 L West Saginaw Hwy)",
+      "page_get": "wiki/herndon-va-2465-centreville-rd",
+      "page_path": "content/wiki/herndon-va-2465-centreville-rd.md",
+      "page_title": "Herndon, VA (2465 Centreville Rd)",
       "parts": [
         "2-Stage",
-        "1992-06-16",
-        "0000-00-00",
+        "1992-05-00",
+        "2005-00-00",
+        "One of six 2-Stages installed in Virginia. Replaced by Studio C Beta 16M.",
         ""
       ],
-      "sort": "19920616"
-    },
-    {
-      "page_get": "wiki/orange-ct-82-boston-post-rd",
-      "page_path": "content/wiki/orange-ct-82-boston-post-rd.md",
-      "page_title": "Orange, CT (82 Boston Post Rd)",
-      "parts": [
-        "2-Stage",
-        "1992-06-16",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "19920616"
+      "sort": "19920599"
     },
     {
       "page_get": "wiki/harrisburg-pa-3883-union-deposit-rd",
@@ -17963,11 +17953,38 @@
       "page_title": "Harrisburg, PA (3883 Union Deposit Rd)",
       "parts": [
         "2-Stage",
-        "1992-06-29",
-        "0000-00-00",
+        "1992-06-00",
+        "2001-00-00",
+        "Replaced by a Studio C Beta 32M.",
         ""
       ],
-      "sort": "19920629"
+      "sort": "19920699"
+    },
+    {
+      "page_get": "wiki/lansing-mi-5451-l-west-saginaw-hwy",
+      "page_path": "content/wiki/lansing-mi-5451-l-west-saginaw-hwy.md",
+      "page_title": "Lansing, MI (5451 L West Saginaw Hwy)",
+      "parts": [
+        "2-Stage",
+        "1992-06-00",
+        "2023-08-00",
+        "Replaced by Dance Floor + Video Wall. Last 2-Stage in the state.",
+        ""
+      ],
+      "sort": "19920699"
+    },
+    {
+      "page_get": "wiki/orange-ct-82-boston-post-rd",
+      "page_path": "content/wiki/orange-ct-82-boston-post-rd.md",
+      "page_title": "Orange, CT (82 Boston Post Rd)",
+      "parts": [
+        "2-Stage",
+        "1992-06-00",
+        "2006-08-00",
+        "One of two in Connecticut. Replaced by Studio C Beta 16M.",
+        ""
+      ],
+      "sort": "19920699"
     },
     {
       "page_get": "wiki/rochester-hills-mi-201-east-auburn-rd",
@@ -17982,28 +17999,17 @@
       "sort": "19920714"
     },
     {
-      "page_get": "wiki/burlington-ma-10-wall-st",
-      "page_path": "content/wiki/burlington-ma-10-wall-st.md",
-      "page_title": "Burlington, MA (10 Wall St)",
+      "page_get": "wiki/erie-pa-7200-peach-st",
+      "page_path": "content/wiki/erie-pa-7200-peach-st.md",
+      "page_title": "Erie, PA (7200 Peach St)",
       "parts": [
         "2-Stage",
-        "1992-08-04",
-        "2017-07-16",
+        "1992-07-00",
+        "2023-10-00",
+        "Last 2-Stage in the state. Replaced by Dance Floor + Video Wall.",
         ""
       ],
-      "sort": "19920804"
-    },
-    {
-      "page_get": "wiki/worcester-ma-50-southwest-cutoff",
-      "page_path": "content/wiki/worcester-ma-50-southwest-cutoff.md",
-      "page_title": "Worcester, MA (50 Southwest Cutoff)",
-      "parts": [
-        "2-Stage",
-        "1992-08-18",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "19920818"
+      "sort": "19920799"
     },
     {
       "page_get": "wiki/cherry-hill-nj-2100-rt-38",
@@ -18011,11 +18017,38 @@
       "page_title": "Cherry Hill, NJ (2100 Rt 38)",
       "parts": [
         "2-Stage",
-        "1992-08-25",
-        "0000-00-00",
+        "1992-08-00",
+        "2023-08-00",
+        "Replaced by Dance Floor + Video Wall. Last 2-Stage in the state.",
         ""
       ],
-      "sort": "19920825"
+      "sort": "19920899"
+    },
+    {
+      "page_get": "wiki/worcester-ma-50-southwest-cutoff",
+      "page_path": "content/wiki/worcester-ma-50-southwest-cutoff.md",
+      "page_title": "Worcester, MA (50 Southwest Cutoff)",
+      "parts": [
+        "2-Stage",
+        "1992-08-00",
+        "2021-10-00",
+        "One of 5 installed in Massachusetts. Replaced by Dance Floor + Video Wall. Last 2-Stage in the state.",
+        ""
+      ],
+      "sort": "19920899"
+    },
+    {
+      "page_get": "wiki/burlington-ma-10-wall-st",
+      "page_path": "content/wiki/burlington-ma-10-wall-st.md",
+      "page_title": "Burlington, MA (10 Wall St)",
+      "parts": [
+        "2-Stage",
+        "1992-08-00",
+        "2017-07-00",
+        "One of 5 installed in Massachusetts.",
+        ""
+      ],
+      "sort": "19920899"
     },
     {
       "page_get": "wiki/sharonville-oh-1429-e-kemper-rd",
@@ -18023,22 +18056,12 @@
       "page_title": "Sharonville, OH (1429 E Kemper Rd)",
       "parts": [
         "2-Stage",
-        "1992-09-08",
-        "2019-10-30"
-      ],
-      "sort": "19920908"
-    },
-    {
-      "page_get": "wiki/philadelphia-pa-9-snyder-ave",
-      "page_path": "content/wiki/philadelphia-pa-9-snyder-ave.md",
-      "page_title": "Philadelphia, PA (9 Snyder Ave)",
-      "parts": [
-        "2-Stage",
-        "1992-09-15",
-        "0000-00-00",
+        "1992-09-00",
+        "2019-10-30",
+        "Replaced by Dance Floor. Last 2-Stage in the state.",
         ""
       ],
-      "sort": "19920915"
+      "sort": "19920999"
     },
     {
       "page_get": "wiki/stafford-tx-11920-southwest-fwy",
@@ -18046,11 +18069,24 @@
       "page_title": "Stafford, TX (11920 Southwest Fwy)",
       "parts": [
         "2-Stage",
-        "1992-09-22",
-        "0000-00-00",
+        "1992-09-00",
+        "2022-07-00",
+        "Replaced by Dance Floor + Video Wall.",
         ""
       ],
-      "sort": "19920922"
+      "sort": "19920999"
+    },
+    {
+      "page_get": "wiki/philadelphia-pa-9-snyder-ave",
+      "page_path": "content/wiki/philadelphia-pa-9-snyder-ave.md",
+      "page_title": "Philadelphia, PA (9 Snyder Ave)",
+      "parts": [
+        "2-Stage",
+        "1992-09-00",
+        "2022-07-00",
+        ""
+      ],
+      "sort": "19920999"
     },
     {
       "page_get": "wiki/waterbury-ct-650-wolcott-st",
@@ -18058,11 +18094,12 @@
       "page_title": "Waterbury, CT (650 Wolcott St)",
       "parts": [
         "2-Stage",
-        "1992-09-29",
-        "2020-06-25",
+        "1992-09-00",
+        "2020-06-00",
+        "One of two in Connecticut. Last 2-Stage to feature the tuxedo and derby, as well as the last in the state.",
         ""
       ],
-      "sort": "19920929"
+      "sort": "19920999"
     },
     {
       "page_get": "wiki/lewisville-tx-2402-s-stemmons-fwy",
@@ -18070,11 +18107,12 @@
       "page_title": "Lewisville, TX (2402 S Stemmons Fwy)",
       "parts": [
         "2-Stage",
-        "1992-10-27",
-        "0000-00-00",
+        "1992-10-00",
+        "2004-00-00",
+        "Replaced by a Studio C Cappa.",
         ""
       ],
-      "sort": "19921027"
+      "sort": "19921099"
     },
     {
       "page_get": "wiki/natick-ma-801-worcester-st",
@@ -18082,11 +18120,12 @@
       "page_title": "Natick, MA (801 Worcester St)",
       "parts": [
         "2-Stage",
-        "1992-11-17",
-        "2020-05-06",
+        "1992-11-00",
+        "2020-05-00",
+        "One of 5 installed in Massachusetts.",
         ""
       ],
-      "sort": "19921117"
+      "sort": "19921199"
     },
     {
       "page_get": "wiki/bossier-city-la-2001-airline-dr",
@@ -18094,11 +18133,12 @@
       "page_title": "Bossier City, LA (2001 Airline Dr)",
       "parts": [
         "2-Stage",
-        "1992-11-23",
-        "2013-00-00",
+        "1992-11-00",
+        "2013-05-00",
+        "Only 2-Stage installed in Louisiana.",
         ""
       ],
-      "sort": "19921123"
+      "sort": "19921199"
     },
     {
       "page_get": "wiki/north-wales-pa-1210-bethlehem-pike",
@@ -18106,20 +18146,85 @@
       "page_title": "North Wales, PA (1210 Bethlehem Pike)",
       "parts": [
         "2-Stage",
-        "1992-12-08",
-        "0000-00-00",
+        "1992-12-00",
+        "2010-00-00",
+        "Converted to a 1-Stage.",
         ""
       ],
-      "sort": "19921208"
+      "sort": "19921299"
     },
     {
-      "page_get": "wiki/erie-pa-7200-peach-st",
-      "page_path": "content/wiki/erie-pa-7200-peach-st.md",
-      "page_title": "Erie, PA (7200 Peach St)",
+      "page_get": "wiki/greece-rochester-ny-3160-w-ridge-rd",
+      "page_path": "content/wiki/greece-rochester-ny-3160-w-ridge-rd.md",
+      "page_title": "Greece / Rochester, NY (3160 W Ridge Rd)",
       "parts": [
         "2-Stage",
         "1992-00-00",
-        "0000-00-00",
+        "1996-11-00",
+        ""
+      ],
+      "sort": "19929999"
+    },
+    {
+      "page_get": "wiki/union-nj-1660-us-22",
+      "page_path": "content/wiki/union-nj-1660-us-22.md",
+      "page_title": "Union, NJ (1660 US-22)",
+      "parts": [
+        "2-Stage",
+        "1992-00-00",
+        "2005-00-00",
+        "Replaced by a Studio C Beta 16M.",
+        ""
+      ],
+      "sort": "19929999"
+    },
+    {
+      "page_get": "wiki/alexandria-va-6303-richmond-hwy",
+      "page_path": "content/wiki/alexandria-va-6303-richmond-hwy.md",
+      "page_title": "Alexandria, VA (6303 Richmond Hwy)",
+      "parts": [
+        "2-Stage",
+        "1992-00-00",
+        "2009-11-00",
+        "One of six 2-Stages installed in Virginia.",
+        ""
+      ],
+      "sort": "19929999"
+    },
+    {
+      "page_get": "wiki/johnson-city-ny-365-harry-l-dr",
+      "page_path": "content/wiki/johnson-city-ny-365-harry-l-dr.md",
+      "page_title": "Johnson City, NY (365 Harry L Dr)",
+      "parts": [
+        "2-Stage",
+        "1992-00-00",
+        "1996-09-00",
+        "Possibly sent to Virginia Beach, VA (2699 Lishelle Place)",
+        ""
+      ],
+      "sort": "19929999"
+    },
+    {
+      "page_get": "wiki/penfield-rochester-ny-1614-penfield-rd",
+      "page_path": "content/wiki/penfield-rochester-ny-1614-penfield-rd.md",
+      "page_title": "Penfield / Rochester, NY (1614 Penfield Rd)",
+      "parts": [
+        "2-Stage",
+        "1992-00-00",
+        "1996-09-00",
+        "One of four 2-Stages installed in New York. One of the first 2-Stages installed.",
+        ""
+      ],
+      "sort": "19929999"
+    },
+    {
+      "page_get": "wiki/bridgeville-pa-1025-washington-pike",
+      "page_path": "content/wiki/bridgeville-pa-1025-washington-pike.md",
+      "page_title": "Bridgeville, PA (1025 Washington Pike)",
+      "parts": [
+        "2-Stage",
+        "1992-00-00",
+        "2002-00-00",
         ""
       ],
       "sort": "19929999"
@@ -18142,11 +18247,12 @@
       "page_title": "Brick, NJ (56 Chambers Bridge Rd)",
       "parts": [
         "2-Stage",
-        "1993-01-19",
-        "0000-00-00",
+        "1993-01-00",
+        "2007-00-00",
+        "Replaced by Studio C Beta 16M.",
         ""
       ],
-      "sort": "19930119"
+      "sort": "19930199"
     },
     {
       "page_get": "wiki/dale-city-va-14085-shoppers-best-way",
@@ -18154,11 +18260,12 @@
       "page_title": "Dale City, VA (14085 Shoppers Best Way)",
       "parts": [
         "2-Stage",
-        "1993-02-15",
-        "0000-00-00",
+        "1993-02-00",
+        "2018-03-00",
+        "One of six 2-Stages installed in Virginia. Replaced by Dance Floor.",
         ""
       ],
-      "sort": "19930215"
+      "sort": "19930299"
     },
     {
       "page_get": "wiki/webster-tx-1541-west-bay-area-blvd",
@@ -18166,11 +18273,12 @@
       "page_title": "Webster, TX (1541 West Bay Area Blvd)",
       "parts": [
         "2-Stage",
-        "1993-03-15",
-        "0000-00-00",
+        "1993-03-00",
+        "1999-00-00",
+        "Replaced with a Studio C Alpha.",
         ""
       ],
-      "sort": "19930315"
+      "sort": "19930399"
     },
     {
       "page_get": "wiki/monroeville-pa-3800-william-penn-hwy",
@@ -18179,22 +18287,24 @@
       "parts": [
         "2-Stage",
         "1993-03-00",
-        "0000-00-00",
+        "2018-08-00",
+        "Replaced by Dance Floor.",
         ""
       ],
       "sort": "19930399"
     },
     {
-      "page_get": "wiki/annapolis-md-2333-a-forest-dr",
-      "page_path": "content/wiki/annapolis-md-2333-a-forest-dr.md",
-      "page_title": "Annapolis, MD (2333-A Forest Dr)",
+      "page_get": "wiki/patchogue-ny-121-sunrise-hwy",
+      "page_path": "content/wiki/patchogue-ny-121-sunrise-hwy.md",
+      "page_title": "Patchogue, NY (121 Sunrise Hwy)",
       "parts": [
         "2-Stage",
-        "1993-04-10",
-        "2025-09-01",
+        "1993-03-00",
+        "2000-00-00",
+        "Replaced by a Studio C Beta 16M.",
         ""
       ],
-      "sort": "19930410"
+      "sort": "19930399"
     },
     {
       "page_get": "wiki/miami-fl-20335-biscayne-blvd",
@@ -18202,11 +18312,25 @@
       "page_title": "Miami, FL (20335 Biscayne Blvd)",
       "parts": [
         "2-Stage",
-        "1993-05-27",
-        "0000-00-00",
+        "1993-05-00",
+        "2022-04-00",
+        "One of 4 installed in Florida. Replaced by Dance Floor + Video Wall. Last 2-Stage in the state.",
         ""
       ],
-      "sort": "19930527"
+      "sort": "19930599"
+    },
+    {
+      "page_get": "wiki/danvers-ma-139-endicott-st",
+      "page_path": "content/wiki/danvers-ma-139-endicott-st.md",
+      "page_title": "Danvers, MA (139 Endicott St)",
+      "parts": [
+        "2-Stage",
+        "1993-06-00",
+        "2020-04-00",
+        "One of 5 installed in Massachusetts.",
+        ""
+      ],
+      "sort": "19930699"
     },
     {
       "page_get": "wiki/pasadena-ca-3737-e-foothill-blvd",
@@ -18214,11 +18338,141 @@
       "page_title": "Pasadena, CA (3737 E Foothill Blvd)",
       "parts": [
         "2-Stage",
-        "1993-10-14",
-        "0000-00-00",
+        "1993-10-00",
+        "2024-02-05",
+        "One of many installed in California. Replaced by Dance Floor + Video Wall.",
         ""
       ],
-      "sort": "19931014"
+      "sort": "19931099"
+    },
+    {
+      "page_get": "wiki/edmonton-alberta-canada-9271-34th-ave",
+      "page_path": "content/wiki/edmonton-alberta-canada-9271-34th-ave.md",
+      "page_title": "Edmonton, Alberta, Canada (9271 34th Ave)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "1995-00-00",
+        "Only 2-Stage in Alberta.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/hampton-va-4027-w-mercury-blvd",
+      "page_path": "content/wiki/hampton-va-4027-w-mercury-blvd.md",
+      "page_title": "Hampton, VA (4027 W Mercury Blvd)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2002-05-00",
+        "One of six 2-Stages installed in Virginia. Sent to Florence, KY (7635 Mall Rd) after closure.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/fairfield-ca-1027-oliver-rd",
+      "page_path": "content/wiki/fairfield-ca-1027-oliver-rd.md",
+      "page_title": "Fairfield, CA (1027 Oliver Rd)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2021-01-00",
+        "One of many installed in California.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/san-jose-ca-1371-kooser-rd",
+      "page_path": "content/wiki/san-jose-ca-1371-kooser-rd.md",
+      "page_title": "San Jose, CA (1371 Kooser Rd)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2020-06-00",
+        "One of many installed in California. Second CEC to ever open.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/albuquerque-nm-4418-wyoming-blvd",
+      "page_path": "content/wiki/albuquerque-nm-4418-wyoming-blvd.md",
+      "page_title": "Albuquerque, NM (4418 Wyoming Blvd)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2022-09-00",
+        "Only 2-Stage in New Mexico. Replaced by Dance Floor + Video Wall.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/philadelphia-pa-9175-roosevelt-blvd",
+      "page_path": "content/wiki/philadelphia-pa-9175-roosevelt-blvd.md",
+      "page_title": "Philadelphia, PA (9175 Roosevelt Blvd)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2019-08-00",
+        "One of 7/8 2-Stages installed in Pennsylvania. Relocated to a different part of the store during the 2005 Update. Destroyed in 2019 flood and Replaced by Dance Floor + Video Wall.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/bell-ca-5089-e-florence-ave",
+      "page_path": "content/wiki/bell-ca-5089-e-florence-ave.md",
+      "page_title": "Bell, CA (5089 E Florence Ave)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2023-10-00",
+        "One of many installed in California. Replaced by Dance Floor + Video Wall in October 2023.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/silver-spring-md-13807-outlet-dr",
+      "page_path": "content/wiki/silver-spring-md-13807-outlet-dr.md",
+      "page_title": "Silver Spring, MD (13807 Outlet Dr)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2016-08-00",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/northridge-ca-8425-reseda-blvd",
+      "page_path": "content/wiki/northridge-ca-8425-reseda-blvd.md",
+      "page_title": "Northridge, CA (8425 Reseda Blvd)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "",
+        "Former PTT. Currently operating with Chuck E Live Stage (Dance Floor) as of August 9, 2023. One of last two 2-Stage's operating in California. One of five animatronic stages to remain intact, those being the Nanuet, NY (250 West Route 59) Studio C Beta, Springfield, IL (2369 McArthur Ave) Concept Unification 1-Stage, Charlotte, NC (7701 Pineville-Matthews Rd) Concept Unification Stage, and Hicksville, NY (Delco Plaza 11-15 Hanover Place) 1-Stage.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/spokane-wa-2301-w-wellesley-ave",
+      "page_path": "content/wiki/spokane-wa-2301-w-wellesley-ave.md",
+      "page_title": "Spokane, WA (2301 W Wellesley Ave)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2000-03-00",
+        "Only 2-Stage in Washington.",
+        ""
+      ],
+      "sort": "19939999"
     },
     {
       "page_get": "wiki/brockton-ma-200-westgate-dr",
@@ -18228,20 +18482,294 @@
         "2-Stage",
         "1993-00-00",
         "2003-04-00",
+        "One of 5 installed in Massachusetts.",
         ""
       ],
       "sort": "19939999"
     },
     {
-      "page_get": "wiki/patchogue-ny-121-sunrise-hwy",
-      "page_path": "content/wiki/patchogue-ny-121-sunrise-hwy.md",
-      "page_title": "Patchogue, NY (121 Sunrise Hwy)",
+      "page_get": "wiki/canton-mi-42001-ford-rd",
+      "page_path": "content/wiki/canton-mi-42001-ford-rd.md",
+      "page_title": "Canton, MI (42001 Ford Rd)",
       "parts": [
         "2-Stage",
         "1993-00-00",
-        "2003-00-00"
+        "2022-08-00",
+        "Replaced by Dance Floor + Video Wall.",
+        ""
       ],
       "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/manchester-nh-1525-s-willow-st",
+      "page_path": "content/wiki/manchester-nh-1525-s-willow-st.md",
+      "page_title": "Manchester, NH (1525 S Willow St)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2006-01-00",
+        "One of two installed in New Hampshire. Replaced by Studio C Beta 16M.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/glen-burnie-md-6637-governor-ritchie-hwy",
+      "page_path": "content/wiki/glen-burnie-md-6637-governor-ritchie-hwy.md",
+      "page_title": "Glen Burnie, MD (6637 Governor Ritchie Hwy)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2018-08-00",
+        "Replaced by Dance Floor.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/anchorage-ak-308-e-northern-lights-blvd",
+      "page_path": "content/wiki/anchorage-ak-308-e-northern-lights-blvd.md",
+      "page_title": "Anchorage, AK (308 E Northern Lights Blvd)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2006-00-00",
+        "Only 2-Stage installed in Alaska. Replaced with Studio C Beta in 2006.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/san-jose-ca-2445-fontaine-rd",
+      "page_path": "content/wiki/san-jose-ca-2445-fontaine-rd.md",
+      "page_title": "San Jose (Tully), CA (2445 Fontaine Rd)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2001-00-00",
+        "One of many installed in California. Replaced by Studio C Alpha.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/covina-ca-601-azusa-ave",
+      "page_path": "content/wiki/covina-ca-601-azusa-ave.md",
+      "page_title": "Covina, CA (601 Azusa Ave)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2023-00-00",
+        "One of many installed in California.Replaced by Dance Floor + Video Wall.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/san-bernardino-ca-955-south-e-st",
+      "page_path": "content/wiki/san-bernardino-ca-955-south-e-st.md",
+      "page_title": "San Bernardino, CA (955 South E St)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2020-06-00",
+        "One of many installed in California.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
+      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave.md",
+      "page_title": "Stockton, CA (4555 N Pershing Ave)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "1998-12-00",
+        "One of many installed in California.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/annapolis-md-2333-a-forest-dr",
+      "page_path": "content/wiki/annapolis-md-2333-a-forest-dr.md",
+      "page_title": "Annapolis, MD (2333-A Forest Dr)",
+      "parts": [
+        "2-Stage",
+        "1993-00-00",
+        "2025-09-01",
+        "Last 2-Stage in Maryland. Pasqually's Brick Wall isn't present in this location.",
+        ""
+      ],
+      "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/chino-ca-5250-philadelphia-st",
+      "page_path": "content/wiki/chino-ca-5250-philadelphia-st.md",
+      "page_title": "Chino, CA (5250 Philadelphia St)",
+      "parts": [
+        "2-Stage",
+        "1994-05-02",
+        "2022-11-18",
+        "One of many installed in California. Replaced by Dance Floor + Video Wall.",
+        ""
+      ],
+      "sort": "19940502"
+    },
+    {
+      "page_get": "wiki/melrose-park-il-1315-w-north-ave",
+      "page_path": "content/wiki/melrose-park-il-1315-w-north-ave.md",
+      "page_title": "Melrose Park, IL (1315 W North Ave)",
+      "parts": [
+        "2-Stage",
+        "1994-00-00",
+        "2012-08-00",
+        ""
+      ],
+      "sort": "19949999"
+    },
+    {
+      "page_get": "wiki/tinley-park-il-16090-s-harlem-ave",
+      "page_path": "content/wiki/tinley-park-il-16090-s-harlem-ave.md",
+      "page_title": "Tinley Park, IL (16090 S Harlem Ave)",
+      "parts": [
+        "2-Stage",
+        "1994-00-00",
+        "2023-11-26",
+        "Last 2-Stage in the state. Replaced by Dance Floor + Video Wall.",
+        ""
+      ],
+      "sort": "19949999"
+    },
+    {
+      "page_get": "wiki/skokie-il-7142-carpenter-rd",
+      "page_path": "content/wiki/skokie-il-7142-carpenter-rd.md",
+      "page_title": "Skokie, IL (7142 Carpenter Rd)",
+      "parts": [
+        "2-Stage",
+        "1994-00-00",
+        "2019-00-00",
+        "Replaced by Dance Floor.",
+        ""
+      ],
+      "sort": "19949999"
+    },
+    {
+      "page_get": "wiki/gaithersburg-md-516-n-frederick-ave",
+      "page_path": "content/wiki/gaithersburg-md-516-n-frederick-ave.md",
+      "page_title": "Gaithersburg, MD (516 N Frederick Ave)",
+      "parts": [
+        "2-Stage",
+        "1994-00-00",
+        "2005-00-00",
+        "Replaced by Studio C Beta 16M.",
+        ""
+      ],
+      "sort": "19949999"
+    },
+    {
+      "page_get": "wiki/national-city-ca-1143-highland-ave",
+      "page_path": "content/wiki/national-city-ca-1143-highland-ave.md",
+      "page_title": "National City, CA (1143 Highland Ave)",
+      "parts": [
+        "2-Stage",
+        "1994-00-00",
+        "2011-00-00",
+        "One of many installed in California. Converted to 1-Stage in 2011.",
+        ""
+      ],
+      "sort": "19949999"
+    },
+    {
+      "page_get": "wiki/tampa-fl-14308-dale-mabry-hwy",
+      "page_path": "content/wiki/tampa-fl-14308-dale-mabry-hwy.md",
+      "page_title": "Tampa, FL (14308 Dale Mabry Hwy)",
+      "parts": [
+        "2-Stage",
+        "1994-00-00",
+        "2019-08-28",
+        "One of 4 installed in Florida. Replaced by Dance Floor.",
+        ""
+      ],
+      "sort": "19949999"
+    },
+    {
+      "page_get": "wiki/fontana-ca-17069-valley-blvd",
+      "page_path": "content/wiki/fontana-ca-17069-valley-blvd.md",
+      "page_title": "Fontana, CA (17069 Valley Blvd)",
+      "parts": [
+        "2-Stage",
+        "1994-00-00",
+        "2006-00-00",
+        "One of many installed in California. Replaced by Studio C Beta 16M in 2006.",
+        ""
+      ],
+      "sort": "19949999"
+    },
+    {
+      "page_get": "wiki/waukegan-il-2211-grand-ave",
+      "page_path": "content/wiki/waukegan-il-2211-grand-ave.md",
+      "page_title": "Waukegan, IL (2211 Grand Ave)",
+      "parts": [
+        "2-Stage",
+        "1994-00-00",
+        "1997-01-00",
+        "Sent to Fairview Heights, IL (10850 Lincoln Trail) to convert into a 1-Stage.",
+        ""
+      ],
+      "sort": "19949999"
+    },
+    {
+      "page_get": "wiki/portland-or-9120-se-powell-blvd",
+      "page_path": "content/wiki/portland-or-9120-se-powell-blvd.md",
+      "page_title": "Portland, OR (9120 SE Powell Blvd)",
+      "parts": [
+        "2-Stage",
+        "1994-00-00",
+        "2020-10-00",
+        "Only 2-Stage in Oregon.",
+        ""
+      ],
+      "sort": "19949999"
+    },
+    {
+      "page_get": "wiki/st-petersburg-fl-1024-58th-st",
+      "page_path": "content/wiki/st-petersburg-fl-1024-58th-st.md",
+      "page_title": "St. Petersburg, FL (1024 58th St)",
+      "parts": [
+        "2-Stage",
+        "1995-00-00",
+        "2005-00-00",
+        "One of 4 installed in Florida. Replaced by Studio C Beta 16M.",
+        ""
+      ],
+      "sort": "19959999"
+    },
+    {
+      "page_get": "wiki/springfield-pa-381-baltimore-pike",
+      "page_path": "content/wiki/springfield-pa-381-baltimore-pike.md",
+      "page_title": "Springfield, PA (381 Baltimore Pike)",
+      "parts": [
+        "2-Stage",
+        "1995-00-00",
+        "2012-04-00",
+        ""
+      ],
+      "sort": "19959999"
+    },
+    {
+      "page_get": "wiki/corpus-christi-tx-5118-s-staples-st",
+      "page_path": "content/wiki/corpus-christi-tx-5118-s-staples-st.md",
+      "page_title": "Corpus Christi, TX (5118 S Staples St)",
+      "parts": [
+        "2-Stage",
+        "1996-11-00",
+        "2003-10-00",
+        "Replaced by a Studio C Beta 16M.",
+        ""
+      ],
+      "sort": "19961199"
     },
     {
       "page_get": "wiki/chesapeake-va-1528-sam-s-circle",
@@ -18250,10 +18778,50 @@
       "parts": [
         "2-Stage",
         "1996-12-00",
-        "0000-00-00",
+        "2023-07-11",
+        "One of six 2-Stages installed in Virginia. Originally from Merced, CA (721 W Olive Ave). Replaced by Dance Floor + Video Wall. Last 2-Stage in the state.",
         ""
       ],
       "sort": "19961299"
+    },
+    {
+      "page_get": "wiki/ventura-ca-4714-telephone-rd",
+      "page_path": "content/wiki/ventura-ca-4714-telephone-rd.md",
+      "page_title": "Ventura, CA (4714 Telephone Rd)",
+      "parts": [
+        "2-Stage",
+        "1996-00-00",
+        "2023-10-01",
+        "One of many installed in California. Replaced by Dance Floor + Video Wall.",
+        ""
+      ],
+      "sort": "19969999"
+    },
+    {
+      "page_get": "wiki/newington-nh-30-fox-run-rd",
+      "page_path": "content/wiki/newington-nh-30-fox-run-rd.md",
+      "page_title": "Newington, NH (30 Fox Run Rd)",
+      "parts": [
+        "2-Stage",
+        "1996-00-00",
+        "2018-03-31",
+        "One of two installed in New Hampshire. Last 2-Stage in the state.",
+        ""
+      ],
+      "sort": "19969999"
+    },
+    {
+      "page_get": "wiki/roseville-mi-31920-gratiot-ave",
+      "page_path": "content/wiki/roseville-mi-31920-gratiot-ave.md",
+      "page_title": "Roseville, MI (31920 Gratiot Ave)",
+      "parts": [
+        "2-Stage",
+        "1996-00-00",
+        "2021-00-00",
+        "Replaced by Dance Floor + Video Wall.",
+        ""
+      ],
+      "sort": "19969999"
     },
     {
       "page_get": "wiki/santiago-mall-plaza-vespucio-chile",
@@ -18268,27 +18836,30 @@
       "sort": "19969999"
     },
     {
+      "page_get": "wiki/arlington-tx-2216-s-fielder-rd",
+      "page_path": "content/wiki/arlington-tx-2216-s-fielder-rd.md",
+      "page_title": "Arlington, TX (2216 S Fielder Rd)",
+      "parts": [
+        "2-Stage",
+        "1997-00-00",
+        "2022-10-00",
+        "Replaced by Dance Floor + Video Wall. Last 2-Stage in the state.",
+        ""
+      ],
+      "sort": "19979999"
+    },
+    {
       "page_get": "wiki/florence-ky-7635-mall-rd",
       "page_path": "content/wiki/florence-ky-7635-mall-rd.md",
       "page_title": "Florence, KY (7635 Mall Rd)",
       "parts": [
         "2-Stage",
-        "2003-00-00",
-        "2022-03-31"
-      ],
-      "sort": "20039999"
-    },
-    {
-      "page_get": "wiki/greece-rochester-ny-3160-w-ridge-rd",
-      "page_path": "content/wiki/greece-rochester-ny-3160-w-ridge-rd.md",
-      "page_title": "Greece / Rochester, NY (3160 W Ridge Rd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "1996-11-00",
+        "2002-00-00",
+        "2022-03-31",
+        "Only 2-Stage installed in Kentucky. Originally from Hampton, VA (4027 W Mercury Blvd). Replaced by Dance Floor + Video Wall.",
         ""
       ],
-      "sort": "99999999"
+      "sort": "20029999"
     },
     {
       "page_get": "wiki/brandon-fl-1540-w-brandon-blvd",
@@ -18297,19 +18868,8 @@
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/edmonton-alberta-canada-9271-34th-ave",
-      "page_path": "content/wiki/edmonton-alberta-canada-9271-34th-ave.md",
-      "page_title": "Edmonton, Alberta, Canada (9271 34th Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "1995-00-00",
+        "2021-04-15",
+        "One of 4 installed in Florida. Replaced by Dance Floor + Video Wall.",
         ""
       ],
       "sort": "99999999"
@@ -18321,18 +18881,8 @@
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "2025-09-21"
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/ventura-ca-4714-telephone-rd",
-      "page_path": "content/wiki/ventura-ca-4714-telephone-rd.md",
-      "page_title": "Ventura, CA (4714 Telephone Rd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2025-09-21",
+        "Oldest CEC location currently. Opened in October 1979 as the 5th Pizza Time Theatre with a Portrait Stage. Last store from the 1970's that is still open. One of last two 2-Stage's operating in California.",
         ""
       ],
       "sort": "99999999"
@@ -18344,31 +18894,8 @@
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "2020-06-17",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/newington-nh-30-fox-run-rd",
-      "page_path": "content/wiki/newington-nh-30-fox-run-rd.md",
-      "page_title": "Newington, NH (30 Fox Run Rd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2018-03-31",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/hampton-va-4027-w-mercury-blvd",
-      "page_path": "content/wiki/hampton-va-4027-w-mercury-blvd.md",
-      "page_title": "Hampton, VA (4027 W Mercury Blvd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2002-05-00",
+        "2020-06-00",
+        "One of many installed in California.",
         ""
       ],
       "sort": "99999999"
@@ -18380,19 +18907,8 @@
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/fairfield-ca-1027-oliver-rd",
-      "page_path": "content/wiki/fairfield-ca-1027-oliver-rd.md",
-      "page_title": "Fairfield, CA (1027 Oliver Rd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "",
+        "2010-00-00",
+        "One of many installed in California. Converted into 1-Stage in 2010.",
         ""
       ],
       "sort": "99999999"
@@ -18404,7 +18920,8 @@
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2023-01-00",
+        "One of many installed in California. Replaced by Dance Floor + Video Wall.",
         ""
       ],
       "sort": "99999999"
@@ -18418,17 +18935,6 @@
         "0000-00-00",
         "2018-10-28",
         ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/san-jose-ca-1371-kooser-rd",
-      "page_path": "content/wiki/san-jose-ca-1371-kooser-rd.md",
-      "page_title": "San Jose, CA (1371 Kooser Rd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2020-06-25"
       ],
       "sort": "99999999"
     },
@@ -18452,54 +18958,7 @@
         "2-Stage",
         "0000-00-00",
         "2006-12-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/albuquerque-nm-4418-wyoming-blvd",
-      "page_path": "content/wiki/albuquerque-nm-4418-wyoming-blvd.md",
-      "page_title": "Albuquerque, NM (4418 Wyoming Blvd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/st-petersburg-fl-1024-58th-st",
-      "page_path": "content/wiki/st-petersburg-fl-1024-58th-st.md",
-      "page_title": "St. Petersburg, FL (1024 58th St)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/philadelphia-pa-9175-roosevelt-blvd",
-      "page_path": "content/wiki/philadelphia-pa-9175-roosevelt-blvd.md",
-      "page_title": "Philadelphia, PA (9175 Roosevelt Blvd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/bell-ca-5089-e-florence-ave",
-      "page_path": "content/wiki/bell-ca-5089-e-florence-ave.md",
-      "page_title": "Bell, CA (5089 E Florence Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "One of many installed in California.",
         ""
       ],
       "sort": "99999999"
@@ -18511,19 +18970,8 @@
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/melrose-park-il-1315-w-north-ave",
-      "page_path": "content/wiki/melrose-park-il-1315-w-north-ave.md",
-      "page_title": "Melrose Park, IL (1315 W North Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2012-08-00",
+        "2023-10-00",
+        "One of many installed in California. Replaced by Dance Floor + Video Wall.",
         ""
       ],
       "sort": "99999999"
@@ -18535,31 +18983,8 @@
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/roseville-mi-31920-gratiot-ave",
-      "page_path": "content/wiki/roseville-mi-31920-gratiot-ave.md",
-      "page_title": "Roseville, MI (31920 Gratiot Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/silver-spring-md-13807-outlet-dr",
-      "page_path": "content/wiki/silver-spring-md-13807-outlet-dr.md",
-      "page_title": "Silver Spring, MD (13807 Outlet Dr)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2016-08-07",
+        "2007-00-00",
+        "One of many installed in California. Replaced by Studio C Beta 16M in 2007.",
         ""
       ],
       "sort": "99999999"
@@ -18572,42 +18997,7 @@
         "2-Stage",
         "0000-00-00",
         "",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/tinley-park-il-16090-s-harlem-ave",
-      "page_path": "content/wiki/tinley-park-il-16090-s-harlem-ave.md",
-      "page_title": "Tinley Park, IL (16090 S Harlem Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/northridge-ca-8425-reseda-blvd",
-      "page_path": "content/wiki/northridge-ca-8425-reseda-blvd.md",
-      "page_title": "Northridge, CA (8425 Reseda Blvd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/arlington-tx-2216-s-fielder-rd",
-      "page_path": "content/wiki/arlington-tx-2216-s-fielder-rd.md",
-      "page_title": "Arlington, TX (2216 S Fielder Rd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "Former PTT. Opened in 1983 with Balcony Stage, converted to C-Stage, then to 2-Stage. Only 2-Stage outside of the United States. Last PTT Jasper mask.",
         ""
       ],
       "sort": "99999999"
@@ -18619,67 +19009,8 @@
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/spokane-wa-2301-w-wellesley-ave",
-      "page_path": "content/wiki/spokane-wa-2301-w-wellesley-ave.md",
-      "page_title": "Spokane, WA (2301 W Wellesley Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/union-nj-1660-us-22",
-      "page_path": "content/wiki/union-nj-1660-us-22.md",
-      "page_title": "Union, NJ (1660 US-22)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/skokie-il-7142-carpenter-rd",
-      "page_path": "content/wiki/skokie-il-7142-carpenter-rd.md",
-      "page_title": "Skokie, IL (7142 Carpenter Rd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/springfield-pa-381-baltimore-pike",
-      "page_path": "content/wiki/springfield-pa-381-baltimore-pike.md",
-      "page_title": "Springfield, PA (381 Baltimore Pike)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2012-04-15",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/alexandria-va-6303-richmond-hwy",
-      "page_path": "content/wiki/alexandria-va-6303-richmond-hwy.md",
-      "page_title": "Alexandria, VA (6303 Richmond Hwy)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2009-00-00",
+        "2022-01-00",
+        "One of many installed in California. Replaced by Dance Floor + Video Wall.",
         ""
       ],
       "sort": "99999999"
@@ -18697,78 +19028,6 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/gaithersburg-md-516-n-frederick-ave",
-      "page_path": "content/wiki/gaithersburg-md-516-n-frederick-ave.md",
-      "page_title": "Gaithersburg, MD (516 N Frederick Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/national-city-ca-1143-highland-ave",
-      "page_path": "content/wiki/national-city-ca-1143-highland-ave.md",
-      "page_title": "National City, CA (1143 Highland Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/tampa-fl-14308-dale-mabry-hwy",
-      "page_path": "content/wiki/tampa-fl-14308-dale-mabry-hwy.md",
-      "page_title": "Tampa, FL (14308 Dale Mabry Hwy)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/corpus-christi-tx-5118-s-staples-st",
-      "page_path": "content/wiki/corpus-christi-tx-5118-s-staples-st.md",
-      "page_title": "Corpus Christi, TX (5118 S Staples St)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/canton-mi-42001-ford-rd",
-      "page_path": "content/wiki/canton-mi-42001-ford-rd.md",
-      "page_title": "Canton, MI (42001 Ford Rd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/fontana-ca-17069-valley-blvd",
-      "page_path": "content/wiki/fontana-ca-17069-valley-blvd.md",
-      "page_title": "Fontana, CA (17069 Valley Blvd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/syracuse-mattydale-ny-2803-brewerton-rd",
       "page_path": "content/wiki/syracuse-mattydale-ny-2803-brewerton-rd.md",
       "page_title": "Syracuse (Mattydale), NY (2803 Brewerton Rd)",
@@ -18781,25 +19040,14 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/manchester-nh-1525-s-willow-st",
-      "page_path": "content/wiki/manchester-nh-1525-s-willow-st.md",
-      "page_title": "Manchester, NH (1525 S Willow St)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/garden-grove-ca-13101-harbor-blvd",
       "page_path": "content/wiki/garden-grove-ca-13101-harbor-blvd.md",
       "page_title": "Garden Grove, CA (13101 Harbor Blvd)",
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2022-08-00",
+        "One of many installed in California. Replaced by Dance Floor + Video Wall.",
         ""
       ],
       "sort": "99999999"
@@ -18823,55 +19071,8 @@
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/waukegan-il-2211-grand-ave",
-      "page_path": "content/wiki/waukegan-il-2211-grand-ave.md",
-      "page_title": "Waukegan, IL (2211 Grand Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "1997-01-01",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/glen-burnie-md-6637-governor-ritchie-hwy",
-      "page_path": "content/wiki/glen-burnie-md-6637-governor-ritchie-hwy.md",
-      "page_title": "Glen Burnie, MD (6637 Governor Ritchie Hwy)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/anchorage-ak-308-e-northern-lights-blvd",
-      "page_path": "content/wiki/anchorage-ak-308-e-northern-lights-blvd.md",
-      "page_title": "Anchorage, AK (308 E Northern Lights Blvd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/san-jose-ca-2445-fontaine-rd",
-      "page_path": "content/wiki/san-jose-ca-2445-fontaine-rd.md",
-      "page_title": "San Jose (Tully), CA (2445 Fontaine Rd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
+        "2019-00-00",
+        "One of many installed in California. Replaced by Dance Floor.",
         ""
       ],
       "sort": "99999999"
@@ -18889,42 +19090,6 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/chino-ca-5250-philadelphia-st",
-      "page_path": "content/wiki/chino-ca-5250-philadelphia-st.md",
-      "page_title": "Chino, CA (5250 Philadelphia St)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/danvers-ma-139-endicott-st",
-      "page_path": "content/wiki/danvers-ma-139-endicott-st.md",
-      "page_title": "Danvers, MA (139 Endicott St)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2020-04-15",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/covina-ca-601-azusa-ave",
-      "page_path": "content/wiki/covina-ca-601-azusa-ave.md",
-      "page_title": "Covina, CA (601 Azusa Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/albany-ny-1440-central-ave",
       "page_path": "content/wiki/albany-ny-1440-central-ave.md",
       "page_title": "Albany, NY (1440 Central Ave)",
@@ -18937,37 +19102,14 @@
       "sort": "99999999"
     },
     {
-      "page_get": "wiki/merced-ca-721-w-olive-ave",
-      "page_path": "content/wiki/merced-ca-721-w-olive-ave.md",
-      "page_title": "Merced, CA (721 W Olive Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "1995-00-00",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/san-bernardino-ca-955-south-e-st",
-      "page_path": "content/wiki/san-bernardino-ca-955-south-e-st.md",
-      "page_title": "San Bernardino, CA (955 South E St)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2020-06-17",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
       "page_get": "wiki/catonsville-md-5912-baltimore-national-pike",
       "page_path": "content/wiki/catonsville-md-5912-baltimore-national-pike.md",
       "page_title": "Catonsville, MD (5912 Baltimore National Pike)",
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "0000-00-00",
+        "2024-05-00",
+        "Replaced by Dance Floor + Video Wall.",
         ""
       ],
       "sort": "99999999"
@@ -18979,66 +19121,8 @@
       "parts": [
         "2-Stage",
         "0000-00-00",
-        "2011-01-11",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/johnson-city-ny-365-harry-l-dr",
-      "page_path": "content/wiki/johnson-city-ny-365-harry-l-dr.md",
-      "page_title": "Johnson City, NY (365 Harry L Dr)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "1996-11-17",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
-      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave.md",
-      "page_title": "Stockton, CA (4555 N Pershing Ave)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "1998-00-00"
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/penfield-rochester-ny-1614-penfield-rd",
-      "page_path": "content/wiki/penfield-rochester-ny-1614-penfield-rd.md",
-      "page_title": "Penfield / Rochester, NY (1614 Penfield Rd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "1996-09-16",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/portland-or-9120-se-powell-blvd",
-      "page_path": "content/wiki/portland-or-9120-se-powell-blvd.md",
-      "page_title": "Portland, OR (9120 SE Powell Blvd)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2020-10-12",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/bridgeville-pa-1025-washington-pike",
-      "page_path": "content/wiki/bridgeville-pa-1025-washington-pike.md",
-      "page_title": "Bridgeville, PA (1025 Washington Pike)",
-      "parts": [
-        "2-Stage",
-        "0000-00-00",
-        "2002-00-00",
+        "2011-01-00",
+        "One of many installed in California.",
         ""
       ],
       "sort": "99999999"
