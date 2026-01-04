@@ -1024,10 +1024,6 @@ color:var(--yellow);
   column-count: 3;
 }
 
-.tri-column ul {
-  column-count: 1;
-}
-
 .fun-text {
   text-align: center;
   margin: 0;
