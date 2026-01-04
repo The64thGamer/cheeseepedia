@@ -720,37 +720,70 @@ def build_total_rating_by_year(entries):
     totals = [buckets.get(y, 0) for y in years]
     return {"years": years, "Total Rating": totals}
 
-def build_total_rating_by_category(entries):
+def build_avg_rating_by_category(entries):
     """
-    Sum of rating numbers grouped by first category.
+    Average rating grouped by first category.
     Accepts entries containing keys: 'first_category', 'category', or 'categories' (string or list).
-    Returns: {"series": {category: total, ...}}
+    Returns: {"series": {category: average_rating, ...}}
     """
-    buckets = defaultdict(int)
+    rating_sum = defaultdict(int)
+    count = defaultdict(int)
+
     for e in entries:
         cat = _get_first_field(e, ("first_category", "category", "categories"))
         if not cat:
             cat = "uncategorized"
-        buckets[cat] += int(e.get("rating") or 0)
-    # sorted by value descending for nicer pies/lists
-    sorted_items = sorted(buckets.items(), key=lambda kv: kv[1], reverse=True)
-    series = OrderedDict(sorted_items)
+
+        r = e.get("rating")
+        if r is None:
+            continue
+
+        rating_sum[cat] += int(r)
+        count[cat] += 1
+
+    series = {}
+    for cat in rating_sum:
+        if count[cat] > 0:
+            series[cat] = rating_sum[cat] / count[cat]
+
+    # sort by average rating (descending)
+    series = OrderedDict(
+        sorted(series.items(), key=lambda kv: kv[1], reverse=True)
+    )
+
     return {"series": series}
 
-def build_total_rating_by_tag(entries):
+def build_avg_rating_by_tag(entries):
     """
-    Sum of rating numbers grouped by first tag.
+    Average rating grouped by first tag.
     Accepts entries containing keys: 'first_tag', 'tag', or 'tags' (string or list).
-    Returns: {"series": {tag: total, ...}}
+    Returns: {"series": {tag: average_rating, ...}}
     """
-    buckets = defaultdict(int)
+    rating_sum = defaultdict(int)
+    count = defaultdict(int)
+
     for e in entries:
         tag = _get_first_field(e, ("first_tag", "tag", "tags"))
         if not tag:
             tag = "untagged"
-        buckets[tag] += int(e.get("rating") or 0)
-    sorted_items = sorted(buckets.items(), key=lambda kv: kv[1], reverse=True)
-    series = OrderedDict(sorted_items)
+
+        r = e.get("rating")
+        if r is None:
+            continue
+
+        rating_sum[tag] += int(r)
+        count[tag] += 1
+
+    series = {}
+    for tag in rating_sum:
+        if count[tag] > 0:
+            series[tag] = rating_sum[tag] / count[tag]
+
+    # sort by average rating (descending)
+    series = OrderedDict(
+        sorted(series.items(), key=lambda kv: kv[1], reverse=True)
+    )
+
     return {"series": series}
 
 
@@ -816,12 +849,12 @@ def run():
         print("Wrote article_ratings_score_by_year.json", file=sys.stderr)
 
         # 3) scoring by category
-        by_cat_json = build_total_rating_by_category(entries)
+        by_cat_json = build_avg_rating_by_category(entries)
         write_json(os.path.join(OUT_JSON_DIR, "article_ratings_score_by_category.json"), by_cat_json)
         print("Wrote article_ratings_score_by_category.json", file=sys.stderr)
 
         # 4) scoring by tags
-        by_tag_json = build_total_rating_by_tag(entries)
+        by_tag_json = build_avg_rating_by_tag(entries)
         write_json(os.path.join(OUT_JSON_DIR, "article_ratings_score_by_tag.json"), by_tag_json)
         print("Wrote article_ratings_score_by_tag.json", file=sys.stderr)
 
