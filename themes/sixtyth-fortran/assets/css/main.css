@@ -878,18 +878,35 @@ img.remoji:hover {
   width: 20rem;
 }
 
+.hugochart-pie-inline-label { 
+  font-size: 12px; 
+  fill: #111; font-weight: 600; 
+  pointer-events: none;
+}
+.hugochart-empty-label { 
+  font-size: 14px; 
+  fill: #666;
+}
+.hugochart-pie-center-label { 
+  fill: #111; 
+  pointer-events: none;
+}
+
 .series-total {
    stroke-width: 2 !important;
   }
 
-  .x-tick-label {
-  font-size: 10px;
-  letter-spacing: 0.2px;
+.x-tick-label {
+font-size: 10px;
+letter-spacing: 0.2px;
+color:var(--yellow);
+
 }
 
 .x-tick {
   stroke: var(--hugochart-axis, #bdbdbd);
   stroke-width: 1;
+  color:var(--yellow);
 }
 
 
@@ -1000,6 +1017,15 @@ img.remoji:hover {
   width: 100%;
   margin-top: -1.5rem;
   margin-bottom: -2.5rem;
+}
+
+
+.tri-column{
+  column-count: 3;
+}
+
+.tri-column ul {
+  column-count: 1;
 }
 
 .fun-text {
@@ -1207,11 +1233,11 @@ sup {
     transform: translate(0%, -4rem);
   }
 
-  .tri-column{
-    column-count: 3!;
+  .tab-buttons{
+    gap: 1rem;
   }
 
-  .tri-column ul {
+  .tri-column{
     column-count: 1;
   }
 

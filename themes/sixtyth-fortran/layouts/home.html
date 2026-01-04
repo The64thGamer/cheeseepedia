@@ -7,6 +7,7 @@
     <button class="tab-button" data-tab="photos">New Photos</button>
     <button class="tab-button" data-tab="videos">New Videos</button>
     <button class="tab-button" data-tab="graphs">Stats</button>
+    <button class="tab-button" data-tab="wikigraphs">Wiki Stats</button>
   </div>
 
   <div class="tab-content">
@@ -39,9 +40,21 @@
       {{ partial "LineGraphs.html" (dict "id" "openings-2" "data" .Site.Data.graphs.avg_sqft_by_opening_year "type" "auto" "height" 300 "width" 900) }}
       <h2>Remodels & Initiatives Count for Each Year</h2>
       {{ partial "LineGraphs.html" (dict "id" "openings-4" "data" .Site.Data.graphs.remodels_by_start_year "type" "auto" "height" 300 "width" 900) }}
-      
+      <h2>Average Showtape Length for the Rock-afire</h2>
+      {{ partial "LineGraphs.html" (dict "id" "showtapes-1" "data" .Site.Data.graphs.avg_media_duration_ce_showbiz "height" 300 "width" 900) }}
+      <h2>Average Showtape Length for Chuck E. Cheese's</h2>
+      {{ partial "LineGraphs.html" (dict "id" "showtapes-2" "data" .Site.Data.graphs.avg_media_duration_ptt_cec "height" 300 "width" 900) }}
     </div>
-
+    <div class="tab-panel" id="wikigraphs">
+      <h2>Articles Scored by Quality</h2>
+      {{ partial "PieChart.html" (dict "id" "openings-8" "data" .Site.Data.graphs.article_ratings_counts "type" "auto" "height" 300 "width" 300) }}
+      <h2>Categories Scored by Quality</h2>
+      {{ partial "PieChart.html" (dict "id" "openings-9" "data" .Site.Data.graphs.article_ratings_score_by_category "type" "auto" "height" 300 "width" 300) }}
+      <h2>Tags Scored by Quality</h2>
+      {{ partial "PieChart.html" (dict "id" "openings-10" "data" .Site.Data.graphs.article_ratings_score_by_tag "type" "auto" "height" 300 "width" 300) }}
+      <h2>Article Quality by Historical Date</h2>
+      {{ partial "LineGraphs.html" (dict "id" "openings-11" "data" .Site.Data.graphs.article_ratings_score_by_year "height" 300 "width" 900) }}
+    </div>  
   </div>
 </div>
 
