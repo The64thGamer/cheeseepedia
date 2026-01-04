@@ -1,5 +1,5 @@
 +++
-title = "Tunnel of Love (PTT Theme)"
+title = "Tunnel of Love (Balcony Stage Theme)"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Pizza Time Theatre"]

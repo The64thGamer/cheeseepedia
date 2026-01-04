@@ -1,5 +1,5 @@
 +++
-title = "Broadway (PTT Theme)"
+title = "Broadway (Balcony Stage Theme)"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Pizza Time Theatre"]

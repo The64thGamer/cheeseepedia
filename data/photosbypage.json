@@ -9145,7 +9145,7 @@
       "content": "A photo of the store's 1-Stage back in 2001 (PC: showbizpizza.com)"
     }
   ],
-  "Country (PTT Theme)": [
+  "Country (Balcony Stage Theme)": [
     {
       "name": "7ciKHvSbhVYxicT7DL9d.avif",
       "page_path": "content/photos/7cikhvsbhvyxict7dl9davif.md",
@@ -39385,7 +39385,7 @@
       "content": "Cyberamics at Sacramento, CA (7020 Stockton Blvd)"
     }
   ],
-  "Around the World (PTT Theme)": [
+  "Around the World (Balcony Stage Theme)": [
     {
       "name": "WNkwc5rDGhGj45WGOr3W.avif",
       "page_path": "content/photos/wnkwc5rdghgj45wgor3wavif.md",
@@ -40699,7 +40699,7 @@
       "content": "Prototype Building mask."
     }
   ],
-  "Broadway (PTT Theme)": [
+  "Broadway (Balcony Stage Theme)": [
     {
       "name": "HO1V6aXkQu_WIj86ITdh.avif",
       "page_path": "content/photos/ho1v6axkqu-wij86itdhavif.md",
@@ -46978,6 +46978,15 @@
       "content": "The stage decorated for Christmas"
     }
   ],
+  "CEC History of Rock and Roll": [
+    {
+      "name": "HistoryofRockandRoll.avif",
+      "page_path": "content/photos/HistoryofRockandRollavif.md",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Unknown New Mexico Pizza Time Theatre."
+    }
+  ],
   "2022 CEC Summer of Fun Concert (Event)": [
     {
       "name": "hOULC04X8Z5vwC9hDgF7.avif",
@@ -49504,7 +49513,7 @@
       "content": ""
     }
   ],
-  "Salute to America (PTT Theme)": [
+  "Salute to America (Balcony Stage Theme)": [
     {
       "name": "MWoJsZG3fMS35fTt6v38.avif",
       "page_path": "content/photos/mwojszg3fms35ftt6v38avif.md",
@@ -50040,6 +50049,15 @@
       "hasFile": true,
       "startDate": "",
       "content": "West Mesa's exterior in 2014. (PC: Google Maps)"
+    }
+  ],
+  "CEC History of Rock and Roll Part 2": [
+    {
+      "name": "HistoryofRockandRoll2.avif",
+      "page_path": "content/photos/HistoryofRockandRoll2avif.md",
+      "hasFile": true,
+      "startDate": "",
+      "content": "An unknown location playing History of Rock and Roll."
     }
   ],
   "Blast From The Past": [
@@ -53624,6 +53642,15 @@
       "hasFile": true,
       "startDate": "",
       "content": ""
+    }
+  ],
+  "CEC World of Kids": [
+    {
+      "name": "WorldofKids.avif",
+      "page_path": "content/photos/WorldofKidsavif.md",
+      "hasFile": true,
+      "startDate": "",
+      "content": "A Pizza Time Theatre in March 1986."
     }
   ],
   "Moon (Animatronic)": [

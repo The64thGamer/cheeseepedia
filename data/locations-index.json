@@ -4498,8 +4498,7 @@
       "parts": [
         "Classic Stage",
         "1982-10-20",
-        "0000-00-00",
-        ""
+        "1991-00-00"
       ],
       "sort": "19821020"
     },
@@ -12052,6 +12051,19 @@
       "sort": "20240606"
     },
     {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Chuck E. Live Stage (Dance Floor)",
+        "2024-06-00",
+        "",
+        "2021 Model",
+        ""
+      ],
+      "sort": "20240699"
+    },
+    {
       "page_get": "wiki/middletown-nj-1107-route-35",
       "page_path": "content/wiki/middletown-nj-1107-route-35.md",
       "page_title": "Middletown, NJ (1107 Route 35)",
@@ -15829,6 +15841,18 @@
       "sort": "19919999"
     },
     {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "",
+        ""
+      ],
+      "sort": "19919999"
+    },
+    {
       "page_get": "wiki/arvada-co-9301-ralston-rd",
       "page_path": "content/wiki/arvada-co-9301-ralston-rd.md",
       "page_title": "Arvada, CO (9301 Ralston Rd)",
@@ -16691,18 +16715,6 @@
         "0000-00-00",
         "2024-08-00",
         "One of 10 3-Stages in Illinois to undergo Concept Unification. Last 3-Stage in Illinois from  2020 until November 2020. Was in Good Condition. 3-Stage animatronics replaced with the Studio C animatronic from the now closed Lafayette, Indiana store, with the stage becoming the second CU Beta 16M installed.",
-        ""
-      ],
-      "sort": "99999999"
-    },
-    {
-      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
-      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
-      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
-      "parts": [
-        "Concept Unification Stage",
-        "0000-00-00",
-        "",
         ""
       ],
       "sort": "99999999"
@@ -26210,6 +26222,16 @@
       "sort": "99999999"
     },
     {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "SPT 1980's Remodel Program",
+        "0000-00-00"
+      ],
+      "sort": "99999999"
+    },
+    {
       "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
       "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave.md",
       "page_title": "Stockton, CA (4555 N Pershing Ave)",
@@ -26355,6 +26377,16 @@
       "page_get": "wiki/huntington-beach-ca-15511-edwards-st",
       "page_path": "content/wiki/huntington-beach-ca-15511-edwards-st.md",
       "page_title": "Huntington Beach, CA (15511 Edwards St)",
+      "parts": [
+        "SPT 1990's Remodel Program",
+        "0000-00-00"
+      ],
+      "sort": "99999999"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
       "parts": [
         "SPT 1990's Remodel Program",
         "0000-00-00"
@@ -26551,6 +26583,16 @@
       "page_get": "wiki/huntington-beach-ca-15511-edwards-st",
       "page_path": "content/wiki/huntington-beach-ca-15511-edwards-st.md",
       "page_title": "Huntington Beach, CA (15511 Edwards St)",
+      "parts": [
+        "CEC 2000's Remodel Program",
+        "0000-00-00"
+      ],
+      "sort": "99999999"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
       "parts": [
         "CEC 2000's Remodel Program",
         "0000-00-00"
@@ -27396,6 +27438,19 @@
       "sort": "19820930"
     },
     {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+        "1982-10-20",
+        "",
+        "1-82 1-23",
+        "In store"
+      ],
+      "sort": "19821020"
+    },
+    {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
       "page_path": "content/wiki/phoenix-az-8039-north-35th-ave.md",
       "page_title": "Phoenix, AZ (8039 North 35th Ave)",
@@ -27513,6 +27568,19 @@
         "Unknown"
       ],
       "sort": "19820930"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Dook Larue (Animatronic)",
+        "1982-10-20",
+        "",
+        "1-82 2-23",
+        "In store"
+      ],
+      "sort": "19821020"
     },
     {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
@@ -27634,6 +27702,19 @@
       "sort": "19820930"
     },
     {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Fatz Geronimo (Animatronic)",
+        "1982-10-20",
+        "",
+        "1-82 3-23",
+        "In store"
+      ],
+      "sort": "19821020"
+    },
+    {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
       "page_path": "content/wiki/phoenix-az-8039-north-35th-ave.md",
       "page_title": "Phoenix, AZ (8039 North 35th Ave)",
@@ -27738,6 +27819,19 @@
         "Unknown"
       ],
       "sort": "19820930"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Beach Bear (Animatronic)",
+        "1982-10-20",
+        "",
+        "1-82 4-23",
+        "In store"
+      ],
+      "sort": "19821020"
     },
     {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
@@ -27859,6 +27953,19 @@
       "sort": "19820930"
     },
     {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Mitzi Mozzarella (Animatronic)",
+        "1982-10-20",
+        "",
+        "1-82 5-23",
+        "In store"
+      ],
+      "sort": "19821020"
+    },
+    {
       "page_get": "wiki/lexington-ky-1555-new-circle-rd",
       "page_path": "content/wiki/lexington-ky-1555-new-circle-rd.md",
       "page_title": "Lexington, KY (1555 New Circle Rd)",
@@ -27937,6 +28044,19 @@
         "Unknown"
       ],
       "sort": "19820930"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Billy Bob (Animatronic)",
+        "1982-10-20",
+        "1991-00-00",
+        "1-82 6-23",
+        "Unknown"
+      ],
+      "sort": "19821020"
     },
     {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
@@ -28058,6 +28178,19 @@
       "sort": "19820930"
     },
     {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Looney Bird (Animatronic)",
+        "1982-10-20",
+        "2010s-00-00",
+        "1-82 7-23",
+        "Dismantled"
+      ],
+      "sort": "19821020"
+    },
+    {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
       "page_path": "content/wiki/phoenix-az-8039-north-35th-ave.md",
       "page_title": "Phoenix, AZ (8039 North 35th Ave)",
@@ -28108,6 +28241,19 @@
         "Owned by private collector."
       ],
       "sort": "19939999"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Looney Bird (Animatronic)",
+        "2024-06-20",
+        "",
+        "1-82 7-24",
+        "In store; Re-located from {{< wiki-link \"Laurel, MD (936 Fairlawn Ave)\" >}}."
+      ],
+      "sort": "20240620"
     }
   ],
   "animatronics|Choo Choo (Animatronic)": [
@@ -28175,6 +28321,19 @@
         "Unknown"
       ],
       "sort": "19820930"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1982-10-20",
+        "2000s-00-00",
+        "1-82 8-23",
+        "Unknown; Custom replica in store."
+      ],
+      "sort": "19821020"
     },
     {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
@@ -28281,6 +28440,19 @@
         "Unknown"
       ],
       "sort": "19820930"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Sun (Animatronic)",
+        "1982-10-20",
+        "",
+        "1-82 10-23",
+        "In store"
+      ],
+      "sort": "19821020"
     },
     {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
@@ -28400,6 +28572,19 @@
         "Unknown"
       ],
       "sort": "19820930"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Moon (Animatronic)",
+        "1982-10-20",
+        "",
+        "1-82 11-23",
+        "In store"
+      ],
+      "sort": "19821020"
     },
     {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
@@ -28534,6 +28719,19 @@
       "sort": "19820930"
     },
     {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Antioch (Animatronic)",
+        "1982-10-20",
+        "1991-00-00",
+        "N/A",
+        "Unknown"
+      ],
+      "sort": "19821020"
+    },
+    {
       "page_get": "wiki/phoenix-az-8039-north-35th-ave",
       "page_path": "content/wiki/phoenix-az-8039-north-35th-ave.md",
       "page_title": "Phoenix, AZ (8039 North 35th Ave)",
@@ -28627,6 +28825,19 @@
         "Unknown"
       ],
       "sort": "19911199"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Wink",
+        "1991-00-00",
+        "",
+        "N/A",
+        "In store"
+      ],
+      "sort": "19919999"
     },
     {
       "page_get": "wiki/st-louis-mo-2805-target-dr",
@@ -28753,6 +28964,16 @@
       "sort": "20240529"
     },
     {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2024-07-26"
+      ],
+      "sort": "20240726"
+    },
+    {
       "page_get": "wiki/2025locationandsuch copy 4",
       "page_path": "content/wiki/2025locationandsuch copy 4.md",
       "page_title": "Huntington Beach, CA (15031 Goldenwest St)",
@@ -28867,6 +29088,297 @@
         ""
       ],
       "sort": "99999999"
+    }
+  ],
+  "animatronics|Bird (Animatronic)": [
+    {
+      "page_get": "wiki/mesa-az-856-s-alma-school-rd",
+      "page_path": "content/wiki/mesa-az-856-s-alma-school-rd.md",
+      "page_title": "Mesa (West), AZ (856 S Alma School Rd)",
+      "parts": [
+        "Bird (Animatronic)",
+        "1998-00-00",
+        "2015-08-24",
+        "unknown",
+        "unknown/destroyed"
+      ],
+      "sort": "19989999"
+    },
+    {
+      "page_get": "wiki/phoenix-az-3329-e-bell-rd",
+      "page_path": "content/wiki/phoenix-az-3329-e-bell-rd.md",
+      "page_title": "Phoenix, AZ (3329 E Bell Rd)",
+      "parts": [
+        "Bird (Animatronic)",
+        "1999-03-29",
+        "2015-01-00",
+        "unknown",
+        "unknown"
+      ],
+      "sort": "19990329"
+    },
+    {
+      "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
+      "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle.md",
+      "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
+      "parts": [
+        "Bird (Animatronic)",
+        "2000-02-02",
+        "2023-08-13",
+        "Unknown",
+        "Unknown"
+      ],
+      "sort": "20000202"
+    },
+    {
+      "page_get": "wiki/portage-mi-6175-s-westnedge-ave",
+      "page_path": "content/wiki/portage-mi-6175-s-westnedge-ave.md",
+      "page_title": "Portage, MI (6175 S Westnedge Ave)",
+      "parts": [
+        "Bird (Animatronic)",
+        "2000-09-26",
+        "2018-08-00",
+        "Unknown",
+        "Unknown"
+      ],
+      "sort": "20000926"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Bird (Animatronic)",
+        "2024-00-00",
+        "",
+        "Unknown",
+        "In store, static display; Re-located from {{< wiki-link \"Spartanburg, SC (660 Spartan Blvd #250)\" >}}."
+      ],
+      "sort": "20249999"
+    }
+  ],
+  "attractions|Black Hole": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Black Hole",
+        "2024-06-18",
+        "",
+        ""
+      ],
+      "sort": "20240618"
+    }
+  ],
+  "attractions|Crab Rush": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Crab Rush",
+        "2024-06-18",
+        "",
+        ""
+      ],
+      "sort": "20240618"
+    }
+  ],
+  "attractions|Drop It Drop It": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Drop It Drop It",
+        "2024-06-18",
+        "",
+        ""
+      ],
+      "sort": "20240618"
+    }
+  ],
+  "attractions|FGTEEV: Out of Time": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "FGTEEV: Out of Time",
+        "2024-06-18",
+        "",
+        ""
+      ],
+      "sort": "20240618"
+    }
+  ],
+  "attractions|Halo: Fireteam Raven": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Halo: Fireteam Raven",
+        "2024-06-18",
+        "",
+        ""
+      ],
+      "sort": "20240618"
+    }
+  ],
+  "attractions|Lumber Jack": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Lumber Jack",
+        "2024-06-18",
+        "",
+        ""
+      ],
+      "sort": "20240618"
+    }
+  ],
+  "attractions|Mega Blaster": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Mega Blaster",
+        "2024-06-18",
+        "",
+        ""
+      ],
+      "sort": "20240618"
+    }
+  ],
+  "attractions|SpongeBob SquarePants: Ticket Coaster": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "SpongeBob SquarePants: Ticket Coaster",
+        "2024-06-18",
+        "",
+        ""
+      ],
+      "sort": "20240618"
+    }
+  ],
+  "attractions|Teenage Mutant Ninja Turtles (2017)": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Teenage Mutant Ninja Turtles (2017)",
+        "2024-06-18",
+        "",
+        ""
+      ],
+      "sort": "20240618"
+    }
+  ],
+  "attractions|Tons of Tickets": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Tons of Tickets",
+        "2024-06-18",
+        "",
+        ""
+      ],
+      "sort": "20240618"
+    }
+  ],
+  "stages|Video Wall": [
+    {
+      "page_get": "wiki/florence-ky-7635-mall-rd",
+      "page_path": "content/wiki/florence-ky-7635-mall-rd.md",
+      "page_title": "Florence, KY (7635 Mall Rd)",
+      "parts": [
+        "Video Wall",
+        "2022-04-00",
+        "",
+        ""
+      ],
+      "sort": "20220499"
+    },
+    {
+      "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
+      "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle.md",
+      "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
+      "parts": [
+        "Video Wall",
+        "2023-08-00",
+        "",
+        ""
+      ],
+      "sort": "20230899"
+    },
+    {
+      "page_get": "wiki/portage-mi-6175-s-westnedge-ave",
+      "page_path": "content/wiki/portage-mi-6175-s-westnedge-ave.md",
+      "page_title": "Portage, MI (6175 S Westnedge Ave)",
+      "parts": [
+        "Video Wall",
+        "2023-08-00",
+        "2025-09-07"
+      ],
+      "sort": "20230899"
+    },
+    {
+      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr.md",
+      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
+      "parts": [
+        "Video Wall",
+        "2024-04-09",
+        "",
+        ""
+      ],
+      "sort": "20240409"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Video Wall",
+        "2024-06-00",
+        "",
+        ""
+      ],
+      "sort": "20240699"
+    },
+    {
+      "page_get": "wiki/2025locationandsuch copy 4",
+      "page_path": "content/wiki/2025locationandsuch copy 4.md",
+      "page_title": "Huntington Beach, CA (15031 Goldenwest St)",
+      "parts": [
+        "Video Wall",
+        "2025-09-25",
+        ""
+      ],
+      "sort": "20250925"
+    }
+  ],
+  "remodels|SPP Standard Layout": [
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd.md",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "SPP Standard Layout",
+        "1982-10-20"
+      ],
+      "sort": "19821020"
     }
   ],
   "animatronics|Guest Star Helen Henny (Cyberamic)": [
@@ -28989,60 +29501,6 @@
         "moved to Chandler, AZ)"
       ],
       "sort": "19990329"
-    }
-  ],
-  "animatronics|Bird (Animatronic)": [
-    {
-      "page_get": "wiki/mesa-az-856-s-alma-school-rd",
-      "page_path": "content/wiki/mesa-az-856-s-alma-school-rd.md",
-      "page_title": "Mesa (West), AZ (856 S Alma School Rd)",
-      "parts": [
-        "Bird (Animatronic)",
-        "1998-00-00",
-        "2015-08-24",
-        "unknown",
-        "unknown/destroyed"
-      ],
-      "sort": "19989999"
-    },
-    {
-      "page_get": "wiki/phoenix-az-3329-e-bell-rd",
-      "page_path": "content/wiki/phoenix-az-3329-e-bell-rd.md",
-      "page_title": "Phoenix, AZ (3329 E Bell Rd)",
-      "parts": [
-        "Bird (Animatronic)",
-        "1999-03-29",
-        "2015-01-00",
-        "unknown",
-        "unknown"
-      ],
-      "sort": "19990329"
-    },
-    {
-      "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
-      "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle.md",
-      "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
-      "parts": [
-        "Bird (Animatronic)",
-        "2000-02-02",
-        "2023-08-13",
-        "Unknown",
-        "Unknown"
-      ],
-      "sort": "20000202"
-    },
-    {
-      "page_get": "wiki/portage-mi-6175-s-westnedge-ave",
-      "page_path": "content/wiki/portage-mi-6175-s-westnedge-ave.md",
-      "page_title": "Portage, MI (6175 S Westnedge Ave)",
-      "parts": [
-        "Bird (Animatronic)",
-        "2000-09-26",
-        "2018-08-00",
-        "Unknown",
-        "Unknown"
-      ],
-      "sort": "20000926"
     }
   ],
   "animatronics|Pizza Time Clock (Animatronic)": [
@@ -30489,66 +30947,6 @@
         ""
       ],
       "sort": "19930430"
-    }
-  ],
-  "stages|Video Wall": [
-    {
-      "page_get": "wiki/florence-ky-7635-mall-rd",
-      "page_path": "content/wiki/florence-ky-7635-mall-rd.md",
-      "page_title": "Florence, KY (7635 Mall Rd)",
-      "parts": [
-        "Video Wall",
-        "2022-04-00",
-        "",
-        ""
-      ],
-      "sort": "20220499"
-    },
-    {
-      "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
-      "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle.md",
-      "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
-      "parts": [
-        "Video Wall",
-        "2023-08-00",
-        "",
-        ""
-      ],
-      "sort": "20230899"
-    },
-    {
-      "page_get": "wiki/portage-mi-6175-s-westnedge-ave",
-      "page_path": "content/wiki/portage-mi-6175-s-westnedge-ave.md",
-      "page_title": "Portage, MI (6175 S Westnedge Ave)",
-      "parts": [
-        "Video Wall",
-        "2023-08-00",
-        "2025-09-07"
-      ],
-      "sort": "20230899"
-    },
-    {
-      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
-      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr.md",
-      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
-      "parts": [
-        "Video Wall",
-        "2024-04-09",
-        "",
-        ""
-      ],
-      "sort": "20240409"
-    },
-    {
-      "page_get": "wiki/2025locationandsuch copy 4",
-      "page_path": "content/wiki/2025locationandsuch copy 4.md",
-      "page_title": "Huntington Beach, CA (15031 Goldenwest St)",
-      "parts": [
-        "Video Wall",
-        "2025-09-25",
-        ""
-      ],
-      "sort": "20250925"
     }
   ],
   "animatronics|Fatz Geromino (Animatronic)": [

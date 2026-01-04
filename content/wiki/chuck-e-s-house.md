@@ -8,7 +8,7 @@ contributors = ["CECBowlingGreen", "BurgersNuggs445", "The 64th Gamer", "ChuckEP
 citations = ["<a href=\"http://showbizpizza.com/info/documents/spt/spt_adp-binder.pdf\">http://showbizpizza.com/info/documents/spt/spt_adp-binder.pdf</a>"]
 alsoKnownAs = ["Rocker Stage"]
 tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+categories = ["Chuck E. Cheese's"]
 +++
 **Chuck E.'s House,** also known as the **Rocker Stage,** was a Cyberamic stage setup that was installed in existing and new locations between 1987 and 1990. It was the first stage that utilized full-bodied Chuck E, Helen, and Jasper Cyberamics. Meanwhile, Munch and Pasqually remained as half-bodied figures. It was also the first new CEC stage to be created after the 1985 ShowBiz Pizza Time, Inc. merger and the Second to last stage to follow the Pizza Time Players format.
 

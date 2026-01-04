@@ -1,5 +1,5 @@
 +++
-title = "Around the World (PTT Theme)"
+title = "Around the World (Balcony Stage Theme)"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Pizza Time Theatre"]

@@ -1,8 +1,8 @@
 +++
-title = "Back to School (PTT Theme)"
+title = "Back to School (Balcony Stage Theme)"
 draft = false
 tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+categories = ["Chuck E. Cheese's"]
 startDate = "1985-09-00"
 endDate = "1985-11-00"
 contributors = ["CyberSnout"]

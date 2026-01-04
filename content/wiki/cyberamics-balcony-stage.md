@@ -27,7 +27,7 @@ Most locations still opened with a Balcony Stage until December 1980. The Balcon
 
 #### Later Balcony Stages
 
-The 'Irish Stew' & '{{< wiki-link "Around the World (PTT Theme)" >}}' Showtapes would have special theme for Balcony Stages. The Balcony Stage would have variants for most other Showtapes following. A Balcony Stage would be installed at the Amusement Park, 'Kids World' in the early to mid 80's, The stage wasn't segmented, meaning their were no barriers between the bots, & there was a strange backdrop behind the characters.
+The 'Irish Stew' & '{{< wiki-link "Around the World (Balcony Stage Theme)" >}}' Showtapes would have special theme for Balcony Stages. The Balcony Stage would have variants for most other Showtapes following. A Balcony Stage would be installed at the Amusement Park, 'Kids World' in the early to mid 80's, The stage wasn't segmented, meaning their were no barriers between the bots, & there was a strange backdrop behind the characters.
 
 ### ShowBiz Pizza Time / Chuck E. Cheese's
 

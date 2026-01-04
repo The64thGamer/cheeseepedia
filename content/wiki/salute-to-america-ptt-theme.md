@@ -1,8 +1,8 @@
 +++
-title = "Salute to America (PTT Theme)"
+title = "Salute to America (Balcony Stage Theme)"
 draft = false
 tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+categories = ["Chuck E. Cheese's"]
 startDate = "1985-06-00"
 endDate = "1985-07-00"
 contributors = ["Jonn","PizzaEntertainmentFanX","CECMentor"]
