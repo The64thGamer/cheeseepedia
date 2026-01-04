@@ -1,4 +1,4 @@
-{{- /* Partial: graph.html (stacked area + legend outside + scrollable, ignoring any series labeled "total") */ -}}
+{{- /* Partial: graph.html (stacked area + legend outside + ignores "Total") */ -}}
 
 {{ $id := .id | default (printf "graph-%d" (now.UnixNano) ) }}
 {{ $json := .data | jsonify }}
@@ -7,19 +7,19 @@
 {{ $width := .width | default 800 }}
 
 <div id="{{ $id }}-container" style="display:flex; flex-direction:column; max-width:100%;">
-  <div id="{{ $id }}" class="hugochart" role="img" aria-label="Stacked area chart"
+<div id="{{ $id }}" class="hugochart-area" role="img" aria-label="Data chart"
        data-chart='{{ $json | safeJS }}' data-chart-type="{{ $type }}"
        style="max-width:100%;"></div>
 
-  <div id="{{ $id }}-legend" class="hugochart-legend">
+  <div id="{{ $id }}-legend" class="hugochart-legend" style="overflow:auto; max-height:200px;">
     <!-- legend items inserted via JS -->
   </div>
 </div>
 
 <script>
 (function(){
-  if (window.__hugochart_inited === undefined) {
-    window.__hugochart_inited = true;
+if (window.__hugochart_area_inited === undefined) {
+    window.__hugochart_area_inited = true;
 
     function slug(s){ return String(s||"").toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,''); }
 
@@ -40,51 +40,56 @@
 
       var years = (data.years || []).map(y => +y);
 
-      // Build series map (same heuristics as before)
+      // BUILD seriesMap while ignoring keys named "total" (case-insensitive)
       var seriesMap = {};
       if (data.openings && data.closings && data.openings.length === years.length){
-        seriesMap["Openings"] = data.openings;
-        seriesMap["Closings"] = data.closings;
+        if (String("Openings").toLowerCase() !== "total") seriesMap["Openings"] = data.openings;
+        if (String("Closings").toLowerCase() !== "total") seriesMap["Closings"] = data.closings;
       } else if (data.series){
-        seriesMap = Object.assign({}, data.series);
+        Object.keys(data.series).forEach(function(k){
+          if (k == null) return;
+          if (String(k).toLowerCase() === "total") return; // ignore Total
+          seriesMap[k] = data.series[k];
+        });
       } else {
         for (var k in data) {
           if (!Array.isArray(data[k])) continue;
-          if (k === "years") continue;
-          if (k === "y") continue;
+          if (k === "years") continue;          // skip the x-axis
+          if (k === "y") continue;              // optional: skip generic y arrays
+          if (String(k).toLowerCase() === "total") continue; // ignore Total
           if (data[k].length === years.length) seriesMap[k] = data[k];
         }
       }
 
-      // === IGNORE any series labeled exactly "total" (case-insensitive, trimmed) ===
-      Object.keys(seriesMap).forEach(function(k){
-        if (String(k).trim().toLowerCase() === "total") {
-          delete seriesMap[k];
+      // Convert values to numbers; treat null/"" as 0 for stacking
+      var seriesNames = Object.keys(seriesMap || {});
+      var nYears = years.length;
+      var values = {}; // values[name] = [num,...]
+      seriesNames.forEach(function(name){
+        values[name] = (seriesMap[name] || []).map(function(v){
+          if (v == null || v === "") return 0; // treat missing as 0 for stacking
+          var n = +v;
+          return isNaN(n) ? 0 : n;
+        });
+      });
+
+      // Compute stacked totals per year
+      var cumPerYear = new Array(nYears).fill(0);
+      var stacks = {}; // stacks[name] = [{y0:, y1:},...]
+      seriesNames.forEach(function(name){
+        stacks[name] = new Array(nYears);
+        for (var i=0;i<nYears;i++){
+          var y0 = cumPerYear[i];
+          var y1 = y0 + (values[name][i] || 0);
+          stacks[name][i] = { y0: y0, y1: y1 };
+          cumPerYear[i] = y1;
         }
       });
 
-      var seriesNames = Object.keys(seriesMap);
-
-      // Convert values to numbers, treat null/"" as zero for stacking
-      seriesNames.forEach(function(k){
-        seriesMap[k] = seriesMap[k].map(function(v){ if (v==null || v==="") return 0; return +v; });
-      });
-
-      // Compute per-year stacked totals to determine y-domain
-      var totals = [];
-      for (var i=0;i<years.length;i++){
-        var sum = 0;
-        for (var s=0;s<seriesNames.length;s++){
-          var v = seriesMap[seriesNames[s]][i];
-          if (v == null || isNaN(v)) v = 0;
-          sum += v;
-        }
-        totals.push(sum);
-      }
-      var yMax = extent(totals)[1];
-      if (yMax === null || isNaN(yMax)) yMax = 1;
-      var ydomain = [0, yMax];
-
+      // y domain from 0 to max cumulative
+      var maxCum = 0;
+      for (var i=0;i<nYears;i++) maxCum = Math.max(maxCum, cumPerYear[i] || 0);
+      var ydomain = [0, maxCum === 0 ? 1 : maxCum];
       var xdomain = extent(years); if(xdomain[0]===null) xdomain=[0,(years.length?years.length-1:1)];
 
       var svgNS="http://www.w3.org/2000/svg";
@@ -99,7 +104,6 @@
       var xScale=linearScale(xdomain[0], xdomain[1], padding.left, padding.left+innerW);
       var yScale=linearScale(ydomain[0], ydomain[1], padding.top+innerH, padding.top);
 
-      // Axes
       svg.appendChild(el("line",{x1:padding.left, y1:padding.top+innerH, x2:padding.left+innerW, y2:padding.top+innerH, class:"axis x-axis"}));
       svg.appendChild(el("line",{x1:padding.left, y1:padding.top, x2:padding.left, y2:padding.top+innerH, class:"axis y-axis"}));
 
@@ -112,7 +116,7 @@
         var tx=el("text",{x:x,y:y+22,"text-anchor":"middle",class:"tick-label x-tick-label"}); tx.textContent=t; svg.appendChild(tx);
       });
 
-      // Y ticks & grid
+      // Y ticks
       var yTicksCount=4;
       for(var i=0;i<=yTicksCount;i++){ var v=ydomain[0]+((ydomain[1]-ydomain[0])*(i/yTicksCount)); var y=yScale(v);
         svg.appendChild(el("line",{x1:padding.left-6,y1:y,x2:padding.left,y2:y,class:"tick y-tick"}));
@@ -120,87 +124,88 @@
         var ty=el("text",{x:padding.left-10,y:y+4,"text-anchor":"end",class:"tick-label y-tick-label"}); ty.textContent=fmtInt(v); svg.appendChild(ty);
       }
 
-      // palette
       var palette = [
-        "#6bffd3",  "#ff6b6b", "#ff9f43", "#ffe66d", "#8dff6b", "#6b9fff", "#8d6bff",
-        "#ff0000", "#ff7f00", "#ffff00", "#7fff00", "#00ff00", "#00ff7f", "#00ffff",
-        "#007fff", "#0000ff", "#7f00ff", "#ff00ff", "#ff007f", "#ff4500", "#ffd700",
-        "#32cd32", "#00fa9a", "#1e90ff", "#8a2be2", "#ff1493", "#ff6347", "#7cfc00",
-        "#40e0d0", "#6a5acd", "#ff69b4"
+        "#6bffd3",  // seafoam
+        "#ff6b6b", // soft red
+        "#ff9f43", // soft orange
+        "#ffe66d", // soft yellow
+        "#8dff6b", // light green
+        "#6b9fff", // soft blue
+        "#8d6bff", // light violet
+        "#ff0000", // red
+        "#ff7f00", // orange
+        "#ffff00", // yellow
+        "#7fff00", // chartreuse green
+        "#00ff00", // green
+        "#00ff7f", // spring green
+        "#00ffff", // cyan
+        "#007fff", // azure
+        "#0000ff", // blue
+        "#7f00ff", // violet
+        "#ff00ff", // magenta
+        "#ff007f", // rose
+        "#ff4500", // orange red
+        "#ffd700", // gold
+        "#32cd32", // lime green
+        "#00fa9a", // medium spring green
+        "#1e90ff", // dodger blue
+        "#8a2be2", // blue violet
+        "#ff1493", // deep pink
+        "#ff6347", // tomato
+        "#7cfc00", // lawn green
+        "#40e0d0", // turquoise
+        "#6a5acd", // slate blue
+        "#ff69b4"  // hot pink
       ];
 
-      // Build cumulative lower/upper bounds for each series (stack order = seriesNames order)
-      var lower = []; var upper = [];
-      var running = new Array(years.length).fill(0);
-      for (var s=0;s<seriesNames.length;s++){
-        var vals = seriesMap[seriesNames[s]];
-        lower[s] = running.slice(); // copy current baseline
-        upper[s] = new Array(years.length);
-        for (var i=0;i<years.length;i++){
-          var v = vals[i]; if (v==null || isNaN(v)) v = 0;
-          upper[s][i] = running[i] + v;
+      // Draw stacks in order (bottom to top)
+      seriesNames.forEach(function(name, idx){
+        if (!stacks[name]) return;
+        var d = "";
+        // top edge (y1) left->right
+        for (var i=0;i<nYears;i++){
+          var x = xScale(years[i]);
+          var y = yScale(stacks[name][i].y1);
+          if (i===0) d += "M "+x+" "+y+" ";
+          else d += "L "+x+" "+y+" ";
         }
-        for (var i=0;i<years.length;i++) running[i] = upper[s][i];
-      }
-
-      // Draw stacked areas (from bottom series to top)
-      for (var s=0;s<seriesNames.length;s++){
-        var name = seriesNames[s];
-        var top = upper[s];
-        var bot = lower[s];
-        var pathD = "";
-        var first = true;
-        for (var i=0;i<years.length;i++){
-          var xv = xScale(years[i]);
-          var yv = yScale(top[i]);
-          if (first){ pathD += "M " + xv + " " + yv + " "; first=false; }
-          else { pathD += "L " + xv + " " + yv + " "; }
+        // bottom edge (y0) right->left
+        for (var i=nYears-1;i>=0;i--){
+          var x = xScale(years[i]);
+          var y = yScale(stacks[name][i].y0);
+          d += "L "+x+" "+y+" ";
         }
-        for (var i=years.length-1;i>=0;i--){
-          var xv = xScale(years[i]);
-          var yv = yScale(bot[i]);
-          pathD += "L " + xv + " " + yv + " ";
-        }
-        pathD += "Z";
+        d += "Z";
 
-        var fillColor = palette[s % palette.length];
-        var area = el("path",{d:pathD, fill: fillColor, "fill-opacity":"0.8", "data-series":name, class:"hugochart-area series-"+slug(name)});
-        svg.appendChild(area);
+        var path = el("path",{d:d, "data-series":name, class:"hugochart-area series-"+slug(name)});
+        path.style.fill = palette[idx % palette.length];
+        path.style.fillOpacity = 0.85;
+        path.style.stroke = palette[idx % palette.length];
+        path.style.strokeWidth = 0.6;
+        svg.appendChild(path);
+      });
 
-        // draw thin top edge for visual separation
-        var edgeD = "";
-        var edgeFirst=true;
-        for (var i=0;i<years.length;i++){
-          var xv = xScale(years[i]);
-          var yv = yScale(top[i]);
-          if (edgeFirst){ edgeD += "M " + xv + " " + yv + " "; edgeFirst=false; }
-          else { edgeD += "L " + xv + " " + yv + " "; }
-        }
-        var edge = el("path",{d:edgeD, fill:"none", stroke: shadeColor(fillColor, -20), "stroke-width":"1", class:"hugochart-edge series-"+slug(name)});
-        svg.appendChild(edge);
-      }
-
+      // Optional center title
       if(opts.title){ var t=el("text",{x:padding.left+innerW/2,y:padding.top-6,"text-anchor":"middle",class:"chart-title"}); t.textContent=opts.title; svg.appendChild(t); }
 
-      // OUTSIDE LEGEND (note: 'total' series has already been removed)
+      // OUTSIDE LEGEND (ignores Total)
       var legendDiv = document.getElementById(opts.containerId + "-legend");
       if (legendDiv) {
         legendDiv.innerHTML = "";
 
-        // sort series: 'Total' first (not present anymore) then keep order
-        var sortedSeries = seriesNames.slice();
-
-        sortedSeries.forEach(function(name, idx){
+        // Use the same order as seriesNames
+        seriesNames.forEach(function(name, idx){
           var item = document.createElement("div");
           item.style.display = "flex";
           item.style.alignItems = "center";
-          item.style.marginBottom = "4px";
+          item.style.marginBottom = "6px";
+          item.style.paddingRight = "8px";
 
           var swatch = document.createElement("div");
-          swatch.style.width = "12px";
-          swatch.style.height = "12px";
-          swatch.style.backgroundColor = palette[seriesNames.indexOf(name) % palette.length];
-          swatch.style.marginRight = "6px";
+          swatch.style.width = "14px";
+          swatch.style.height = "14px";
+          swatch.style.backgroundColor = palette[idx % palette.length];
+          swatch.style.marginRight = "8px";
           swatch.style.borderRadius = "2px";
 
           var label = document.createElement("div");
@@ -212,27 +217,11 @@
           legendDiv.appendChild(item);
         });
       }
-
-      // small helper to darken stroke color for edges (hex)
-      function shadeColor(hexColor, percent) {
-        try {
-          var c = hexColor.replace('#','');
-          if (c.length===3) c = c.split('').map(function(x){return x+x;}).join('');
-          var r = parseInt(c.substr(0,2),16);
-          var g = parseInt(c.substr(2,2),16);
-          var b = parseInt(c.substr(4,2),16);
-          r = Math.min(255, Math.max(0, r + Math.round(255 * (percent/100))));
-          g = Math.min(255, Math.max(0, g + Math.round(255 * (percent/100))));
-          b = Math.min(255, Math.max(0, b + Math.round(255 * (percent/100))));
-          return "#" + [r,g,b].map(function(n){ return n.toString(16).padStart(2,'0'); }).join('');
-        } catch(e){ return hexColor; }
-      }
-
-    } // drawChart
+    }
 
     function initAll(){
-      var nodes=document.querySelectorAll(".hugochart");
-      nodes.forEach(function(node){
+        var nodes = document.querySelectorAll(".hugochart-area");
+        nodes.forEach(function(node){
         if(node.getAttribute("data-hugochart-rendered")) return;
         try{
           var raw=node.getAttribute("data-chart"); if(!raw) return;
