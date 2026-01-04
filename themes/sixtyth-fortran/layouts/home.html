@@ -47,6 +47,8 @@
     </div>
     <div class="tab-panel" id="wikigraphs">
       <h2>Articles Scored by Quality</h2>
+      Pages scored by length and number of citations, whichever is lesser.
+      <br><br>
       {{ partial "PieChart.html" (dict "id" "openings-8" "data" .Site.Data.graphs.article_ratings_counts "type" "auto" "height" 300 "width" 300) }}
       <h2>Categories Scored by Quality</h2>
       {{ partial "PieChart.html" (dict "id" "openings-9" "data" .Site.Data.graphs.article_ratings_score_by_category "type" "auto" "height" 300 "width" 300) }}
