@@ -46,14 +46,24 @@
       {{ partial "LineGraphs.html" (dict "id" "showtapes-2" "data" .Site.Data.graphs.avg_media_duration_ptt_cec "height" 300 "width" 900) }}
     </div>
     <div class="tab-panel" id="wikigraphs">
-      <h2>Articles Scored by Quality</h2>
-      Pages scored by length and number of citations, whichever is lesser.
-      <br><br>
-      {{ partial "PieChart.html" (dict "id" "openings-8" "data" .Site.Data.graphs.article_ratings_counts "type" "auto" "height" 300 "width" 300) }}
-      <h2>Categories Scored by Average Quality</h2>
-      {{ partial "PieChart.html" (dict "id" "openings-9" "data" .Site.Data.graphs.article_ratings_score_by_category "type" "auto" "height" 300 "width" 300) }}
-      <h2>Tags Scored by Average Quality</h2>
-      {{ partial "PieChart.html" (dict "id" "openings-10" "data" .Site.Data.graphs.article_ratings_score_by_tag "type" "auto" "height" 300 "width" 300) }}
+      <div class="row" style="display: flex;">
+        <div class="column" style="flex: 50%; max-width:50%">
+          <h2>Articles Scored by Quality</h2>
+          Pages scored by length and number of citations, whichever is lesser.
+          <br><br>
+          {{ partial "PieChart.html" (dict "id" "openings-8" "data" .Site.Data.graphs.article_ratings_counts "type" "auto" "height" 250 "width" 250) }}
+          <h2>Categories Scored by Average Quality</h2>
+          Ignores empty pages, 4 is a perfect score.
+          <br><br>
+          {{ partial "PieChart.html" (dict "id" "openings-9" "data" .Site.Data.graphs.article_ratings_score_by_category "type" "auto" "height" 250 "width" 250) }}
+        </div>
+          <div class="column" style="flex: 50%; max-width:50%">
+          <h2>Tags Scored by Average Quality</h2>
+          Ignores empty pages, 4 is a perfect score.
+          <br><br>
+          {{ partial "PieChart.html" (dict "id" "openings-10" "data" .Site.Data.graphs.article_ratings_score_by_tag "type" "auto" "height" 250 "width" 250) }}
+        </div>
+      </div>
       <h2>Article Quality by Historical Date</h2>
       {{ partial "LineGraphs.html" (dict "id" "openings-11" "data" .Site.Data.graphs.article_ratings_score_by_year "height" 300 "width" 900) }}
     </div>  

@@ -723,8 +723,8 @@ def build_total_rating_by_year(entries):
 def build_avg_rating_by_category(entries):
     """
     Average rating grouped by first category.
-    Accepts entries containing keys: 'first_category', 'category', or 'categories' (string or list).
-    Returns: {"series": {category: average_rating, ...}}
+    Rating 0 articles are ignored (not summed and not counted).
+    Returns: {"series": {category: avg_rating}}
     """
     rating_sum = defaultdict(int)
     count = defaultdict(int)
@@ -738,26 +738,30 @@ def build_avg_rating_by_category(entries):
         if r is None:
             continue
 
-        rating_sum[cat] += int(r)
+        r = int(r)
+        if r <= 0:
+            continue  # <-- ignore empty / unrated articles
+
+        rating_sum[cat] += r
         count[cat] += 1
 
     series = {}
     for cat in rating_sum:
         if count[cat] > 0:
-            series[cat] = rating_sum[cat] / count[cat]
+            series[cat] = round(rating_sum[cat] / count[cat], 2)
 
-    # sort by average rating (descending)
     series = OrderedDict(
         sorted(series.items(), key=lambda kv: kv[1], reverse=True)
     )
 
     return {"series": series}
 
+
 def build_avg_rating_by_tag(entries):
     """
     Average rating grouped by first tag.
-    Accepts entries containing keys: 'first_tag', 'tag', or 'tags' (string or list).
-    Returns: {"series": {tag: average_rating, ...}}
+    Rating 0 articles are ignored (not summed and not counted).
+    Returns: {"series": {tag: avg_rating}}
     """
     rating_sum = defaultdict(int)
     count = defaultdict(int)
@@ -771,15 +775,18 @@ def build_avg_rating_by_tag(entries):
         if r is None:
             continue
 
-        rating_sum[tag] += int(r)
+        r = int(r)
+        if r <= 0:
+            continue  # <-- ignore empty / unrated articles
+
+        rating_sum[tag] += r
         count[tag] += 1
 
     series = {}
     for tag in rating_sum:
         if count[tag] > 0:
-            series[tag] = rating_sum[tag] / count[tag]
+            series[tag] = round(rating_sum[tag] / count[tag], 2)
 
-    # sort by average rating (descending)
     series = OrderedDict(
         sorted(series.items(), key=lambda kv: kv[1], reverse=True)
     )

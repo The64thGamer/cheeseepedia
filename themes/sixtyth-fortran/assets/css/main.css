@@ -862,6 +862,11 @@ img.remoji:hover {
    fill: var(--yellow);
    }
 
+      .hugochart-area .tick-label,
+.hugochart-area .chart-title {
+  fill: var(--yellow);
+}
+
 .hugochart-line {
    stroke-linecap: round;
    stroke-linejoin: round;
