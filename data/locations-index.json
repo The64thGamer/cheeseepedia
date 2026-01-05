@@ -25867,9 +25867,8 @@
       "parts": [
         "Cyberamics Portrait / Shelf Stage",
         "1979-05-00",
-        "1994-01-00",
-        "2-Wall",
-        ""
+        "0000-00-00",
+        "2-Wall"
       ],
       "sort": "19790599"
     },
@@ -26076,6 +26075,18 @@
         ""
       ],
       "sort": "19810699"
+    },
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Cyberamics Portrait / Shelf Stage",
+        "0000-00-00",
+        "1994-01-00",
+        "1-Wall, other side taken up by large plushes."
+      ],
+      "sort": "99999999"
     }
   ],
   "remodels|PTT Early Cyberamic Replacements": [
@@ -27164,7 +27175,7 @@
         "Pac-Man",
         "0000-00-00",
         "0000-00-00",
-        "Seen in 1992 (2 units)"
+        "Seen in Oct. 25, 1986 footage (1 unit) and seen in 1992 (2 units)"
       ],
       "sort": "99999999"
     }
@@ -27209,16 +27220,28 @@
       "sort": "99999999"
     }
   ],
-  "attractions|Unknown Helicopter Simulator": [
+  "attractions|Rondina Helicopter Kiddie Ride": [
     {
       "page_get": "wiki/concord-ca-1975-diamond-blvd",
       "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
       "page_title": "Concord, CA (1975 Diamond Blvd)",
       "parts": [
-        "Unknown Helicopter Simulator",
+        "Rondina Helicopter Kiddie Ride",
         "0000-00-00",
         "0000-00-00",
-        "Noted by a customer there in the early 90's"
+        "Yellow variant, seen in Oct. 25, 1986 footage and noted by a customer there in the early 90's"
+      ],
+      "sort": "99999999"
+    },
+    {
+      "page_get": "wiki/sparks-nv-530-greenbrae-dr",
+      "page_path": "content/wiki/sparks-nv-530-greenbrae-dr.md",
+      "page_title": "Sparks, NV (530 Greenbrae Dr)",
+      "parts": [
+        "Rondina Helicopter Kiddie Ride",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in January 1982."
       ],
       "sort": "99999999"
     }
@@ -27261,6 +27284,376 @@
         "0000-00-00",
         "0000-00-00",
         "Seen in 1992."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Fanky Malloon": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Fanky Malloon",
+        "0000-00-00",
+        "0000-00-00",
+        "'Flying Fun Balloons' marquee, seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Cotton Candy Machine": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Cotton Candy Machine",
+        "0000-00-00",
+        "0000-00-00",
+        "Yellow cabinet labeled 'Cotton Candy' with clown face, unknown manufacturer, seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Pizza Time Theatre Musical Ferris Wheel": [
+    {
+      "page_get": "wiki/citrus-heights-ca-7614-greenback-lane",
+      "page_path": "content/wiki/citrus-heights-ca-7614-greenback-lane.md",
+      "page_title": "Citrus Heights, CA (7614 Greenback Lane)",
+      "parts": [
+        "Pizza Time Theatre Musical Ferris Wheel",
+        "1979-12-26",
+        "0000-00-00",
+        "Early head variant, seen at the opening."
+      ],
+      "sort": "19791226"
+    },
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Pizza Time Theatre Musical Ferris Wheel",
+        "0000-00-00",
+        "0000-00-00",
+        "Cane variant, seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Elektro-Mobiltechnik Santa Fe Train Kiddie Ride": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Elektro-Mobiltechnik Santa Fe Train Kiddie Ride",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Unknown Crane Game": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Unknown Crane Game",
+        "0000-00-00",
+        "0000-00-00",
+        "Large red crane game, seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Wedges & Ledges": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Wedges & Ledges",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Rondina Space Shuttle Kiddie Ride": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Rondina Space Shuttle Kiddie Ride",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Skee-Roll": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Skee-Roll",
+        "0000-00-00",
+        "0000-00-00",
+        "6 alleys with cages, seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Unknown Spinning Prize Game": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Unknown Spinning Prize Game",
+        "0000-00-00",
+        "0000-00-00",
+        "Multi-player redemption game in octagonal shape with jewlery as prizes, seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Unknown Black F1 Kiddie Ride": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Unknown Black F1 Kiddie Ride",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Unknown Fire Truck Kiddie Ride": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Unknown Fire Truck Kiddie Ride",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Pizza Time Theatre Hot Air Balloon Kiddie Ride": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Pizza Time Theatre Hot Air Balloon Kiddie Ride",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Rondina Scout Ball Kiddie Ride": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Rondina Scout Ball Kiddie Ride",
+        "0000-00-00",
+        "0000-00-00",
+        "Silver variant, seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Sega Turbo": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Sega Turbo",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Unknown Video Jukebox": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Unknown Video Jukebox",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    },
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Unknown Video Jukebox",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Spy Hunter": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Spy Hunter",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    },
+    {
+      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
+      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave.md",
+      "page_title": "Stockton, CA (4555 N Pershing Ave)",
+      "parts": [
+        "Spy Hunter",
+        "0000-00-00",
+        "0000-00-00",
+        "Played by customer in late 80's, early 90's."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Shoot Away": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Shoot Away",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Centipede": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Centipede",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Super Chexx": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Super Chexx",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Pole Position": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Pole Position",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    },
+    {
+      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
+      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave.md",
+      "page_title": "Stockton, CA (4555 N Pershing Ave)",
+      "parts": [
+        "Pole Position",
+        "0000-00-00",
+        "0000-00-00",
+        "Played by customer in late 80's, early 90's."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Nintendo Vs. Double Cabinet": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Nintendo Vs. Double Cabinet",
+        "0000-00-00",
+        "0000-00-00",
+        "Vs. Hogans Alley + Vs. Super Mario Bros, seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Tapper": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Tapper",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Cliff Hanger": [
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd.md",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Cliff Hanger",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in Oct. 25, 1986 footage."
       ],
       "sort": "99999999"
     }
@@ -30921,20 +31314,6 @@
       "sort": "99999999"
     }
   ],
-  "attractions|Rondina Helicopter Kiddie Ride": [
-    {
-      "page_get": "wiki/sparks-nv-530-greenbrae-dr",
-      "page_path": "content/wiki/sparks-nv-530-greenbrae-dr.md",
-      "page_title": "Sparks, NV (530 Greenbrae Dr)",
-      "parts": [
-        "Rondina Helicopter Kiddie Ride",
-        "0000-00-00",
-        "0000-00-00",
-        "Seen in January 1982."
-      ],
-      "sort": "99999999"
-    }
-  ],
   "stages|Unique 1-Stage": [
     {
       "page_get": "wiki/staten-island-ny-1775-south-ave",
@@ -31260,20 +31639,6 @@
       "sort": "99999999"
     }
   ],
-  "attractions|Spy Hunter": [
-    {
-      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
-      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave.md",
-      "page_title": "Stockton, CA (4555 N Pershing Ave)",
-      "parts": [
-        "Spy Hunter",
-        "0000-00-00",
-        "0000-00-00",
-        "Played by customer in late 80's, early 90's."
-      ],
-      "sort": "99999999"
-    }
-  ],
   "attractions|Star Wars": [
     {
       "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
@@ -31281,20 +31646,6 @@
       "page_title": "Stockton, CA (4555 N Pershing Ave)",
       "parts": [
         "Star Wars",
-        "0000-00-00",
-        "0000-00-00",
-        "Played by customer in late 80's, early 90's."
-      ],
-      "sort": "99999999"
-    }
-  ],
-  "attractions|Pole Position": [
-    {
-      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
-      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave.md",
-      "page_title": "Stockton, CA (4555 N Pershing Ave)",
-      "parts": [
-        "Pole Position",
         "0000-00-00",
         "0000-00-00",
         "Played by customer in late 80's, early 90's."
@@ -31456,20 +31807,6 @@
         "Seen in 1981."
       ],
       "sort": "99999999"
-    }
-  ],
-  "attractions|Pizza Time Theatre Musical Ferris Wheel": [
-    {
-      "page_get": "wiki/citrus-heights-ca-7614-greenback-lane",
-      "page_path": "content/wiki/citrus-heights-ca-7614-greenback-lane.md",
-      "page_title": "Citrus Heights, CA (7614 Greenback Lane)",
-      "parts": [
-        "Pizza Time Theatre Musical Ferris Wheel",
-        "1979-12-26",
-        "0000-00-00",
-        "Seen at the opening."
-      ],
-      "sort": "19791226"
     }
   ],
   "attractions|Zaxxon": [
