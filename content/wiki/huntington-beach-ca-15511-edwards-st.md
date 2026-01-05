@@ -39,7 +39,7 @@ On July 1st, the first direct mention of a location in Huntington Beach would oc
 
 On July 7th an ad would appear for an electrical technician for both the Huntington Beach and an unopened Santa Ana location.{{< cite 5 >}} 
 
-The latest known plans submitted for the building would be by September 7th, 1979.{{< cite 20 >}} The same month Phil Stewart would join PTT as an installer of Cyberamics (and later named Cyberamics Field Services Product Specialist), with his first job being the installation at Huntington Beach.{{< cite 22 >}}
+The latest known plans submitted for the building would be by September 7th, 1979.{{< cite 20 >}} The plans feature a fake "Ticket Booth" fixture near the entrance that was also seen at the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} location. The same month Phil Stewart would join PTT as an installer of Cyberamics (and later named Cyberamics Field Services Product Specialist), with his first job being the installation at Huntington Beach.{{< cite 22 >}}
 
 ### Opening
 
