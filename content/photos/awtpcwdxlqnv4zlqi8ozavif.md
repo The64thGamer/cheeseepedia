@@ -6,3 +6,4 @@ categories = ["Chuck E. Cheese's"]
 pages = ["April 2002 Show"]
 startDate = ""
 +++
+Chuck E. Cheese Jungle Temple theme
