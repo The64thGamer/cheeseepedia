@@ -71,13 +71,6 @@ showtapeFormats = ["Media Navori"]
 22. **Segment 11**
     1.  'No Other Place'
 
-## Lives 12/29 Update:
-NOTE: The standard live shows apart of the main show are still avaliable at Nanuet, NY. 
-- Birthday Star 01
-- Havin' A Party 01
-- If You're Happy and You Know It
-
-
 ## Show List 11/25 Update:
 1. **Segment 1**
     1.  'Jolly Old Saint Nicholas'
@@ -148,13 +141,6 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 22. **Segment 11**
     1.  'No Other Place'
 
-## Lives 11/25 Update:
-NOTE: The standard live shows apart of the main show are still avaliable at Nanuet, NY. 
-- Birthday Star 01
-- Havin' A Party 01
-- If You're Happy and You Know It
-
-
 ## Show List 01/06 Update:
 1. **Intermission 1**
     1.  CEC TV ID - 'Couch'
@@ -213,12 +199,6 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
     2.  CEC TV ID - 'Blender'
 22. **Segment 11**
     1.  'No Other Place'
-
-## Lives 01/06 Update:
-NOTE: The standard live shows apart of the main show are still avaliable at Nanuet, NY. 
-- Birthday Star 01
-- Havin' A Party 01
-- If You're Happy and You Know It
 
 ## Show List 11/21 Update:
 1. **Segment 1**
@@ -291,12 +271,6 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 25. **Segment 14**
     1.  'No Other Place'
 
-## Lives 11/21 Update:
-NOTE: The standard live shows apart of the main show are still avaliable at Nanuet, NY. 
-- Birthday Star 01
-- Havin' A Party 01
-- If You're Happy and You Know It
-
 ## Show List:
 1. **Intermission 1**
     1.  CEC TV ID - 'Couch'
@@ -363,7 +337,7 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 - If You're Happy and You Know It
 
 ## Trivia
-1. 11/21/24 Update - Added Throwback Holiday songs and intermissions. 
+1. 11/21/24 Update - Added Throwback Holiday songs and intermissions, live shows removed.
 2. 01/06/25 Update - Reverted back to original show list
 3. 11/21/25 Update - Throwback Holiday songs and intermissions are added back from 2024, Larry The Technician - ‘Decorating The Tree’ is added
 4. 01/04 Update - Reverted back to 01/06/25 Update.
