@@ -12,7 +12,7 @@ showtapeFormats = ["Media Navori"]
 +++
 ***Chuck E. Cheese Throwback Thursday Show*** was released on July 18, 2024, to play exclusively for the Throwback Thursday at {{< wiki-link "Nanuet, NY (250 West Route 59)" >}}. 
 
-## Show List 12/29 Update:
+## Show List 01/04 Update:
 1. **Intermission 1**
     1.  CEC TV ID - 'Couch'
     2.  'Ratings'
@@ -366,7 +366,7 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 1. 11/21/24 Update - Added Throwback Holiday songs and intermissions. 
 2. 01/06/25 Update - Reverted back to original show list
 3. 11/21/25 Update - Throwback Holiday songs and intermissions are added back from 2024, Larry The Technician - ‘Decorating The Tree’ is added
-4. 12/29 Update - Reverted back to 01/06/25 Update.
+4. 01/04 Update - Reverted back to 01/06/25 Update.
 
 
 - This show briefly played at {{< wiki-link "Kansas City, MO (8809 State Line Rd))" >}} from July 2025 till August 2025 with the introduction of {{< wiki-link "Chuck E. Cheese Throwback Show" >}} 
