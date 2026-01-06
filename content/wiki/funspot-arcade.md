@@ -26,23 +26,23 @@ CEC Corporate officially announced Chuck's Arcade on June 30th, 2025, which also
 
 There are more locations than what is known. It is known that one arcade was installed in June of 2023 alongside that month's Orlando store refreshes.
 
-| Location                          | Address                                                                                 | Arcade Name                                                | Opening Date      | Closing Date |
-| --------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------- | ------------ |
-| Holiday Inn Resort Orlando Suites | {{< wiki-link "Orlando, FL (14500 Continental Gateway)" >}}                             | Chuck E. Cheese's Fun Zone/Arcade                          | May 2022          | N/A          |
-| Embassy Suites                    | {{< wiki-link "Anaheim, CA (3100 East Frontera)" >}}                                    | Mister Pixel                                               | December 30, 2024 | N/A          |
-| Eastview Mall                     | {{< wiki-link "Victor, NY (7979 Pittsford-Victor Rd)" >}}                               | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | October 2024      | N/A          |
-| Rockingham Park Mall              | {{< wiki-link "Salem, NH (99 Rockingham Park Blvd, E173)" >}}                           | Fun Spot Arcade (rebranded to Chuck's Arcade in June 2025) | December 13, 2024 | N/A          |
-| Springhill Suites                 | Springhill Suites, Orlando (???) (Unclear if its the Seaworld or Convention Center one) | ???                                                        | ???               | N/A          |
-| Trumbull Mall                     | {{< wiki-link "Trumbull, CT (5065 Main St)" >}}                                         | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | September 6, 2024 | N/A          |
-| Tyrone Square                     | {{< wiki-link "St. Petersburg, FL (6901 22nd Ave N)" >}}{{< cite 7 >}}                  | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | September 2024    | N/A          |
-| Penn Square Mall                  | {{< wiki-link "Oklahoma City, OK (1901 Northwest Expy, Suite 2106A)" >}}                | Fun Spot Arcade                                            | January 2025      | N/A          |
-| Pheasant Lane Mall                | {{< wiki-link "Nashua, NH (310 Daniel Webster Hwy)" >}}{{< cite 7 >}}                   | Chuck's Arcade                                             | April 2025        | N/A          |
-| Woodland Hills Mall               | {{< wiki-link "Tulsa, OK (7021 S Memorial Dr.)" >}}{{< cite 17 >}}                      | Chuck's Arcade                                             | May 29, 2025      | N/A          |
-| Ward Parkway Center               | {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >}}                                | Chuck's Arcade and Pizzeria                                | June 26, 2025     | N/A          |
-| Mall of Georgia                   | {{< wiki-link "Buford, GA (3333 Buford Dr.)" >}}{{< cite 7 >}}                          | Chuck's Arcade                                             | June 27, 2025     | N/A          |
-| Cielo Vista Mall                  | {{< wiki-link "El Paso, TX (8401 Gateway Blvd)" >}}{{< cite 18 >}}                      | Chuck's Arcade                                             | July 3, 2025      | N/A          |
-| Brea Simon Center                 | {{< wiki-link "Brea, CA (1065 Brea Mall)" >}}{{< cite 14 >}}                            | Chuck's Arcade                                             | August 23, 2025   | N/A          |
-| Westgate Cocoa Beach Pier         | {{< wiki-link "Cocoa Beach, FL (401 Meade Avenue)" >}}{{< cite 14 >}}                   | Chuck's Arcade                                             | November 1, 2025  | N/A          |
+| Location                          | Address                                                                                 | Arcade Name                                                | Opening Date      | Closing Date     |
+| --------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ----------------- | ---------------- |
+| Holiday Inn Resort Orlando Suites | {{< wiki-link "Orlando, FL (14500 Continental Gateway)" >}}                             | Chuck E. Cheese's Fun Zone/Arcade                          | May 2022          | N/A              |
+| Embassy Suites                    | {{< wiki-link "Anaheim, CA (3100 East Frontera)" >}}                                    | Mister Pixel                                               | December 30, 2024 | N/A              |
+| Eastview Mall                     | {{< wiki-link "Victor, NY (7979 Pittsford-Victor Rd)" >}}                               | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | October 2024      | N/A              |
+| Rockingham Park Mall              | {{< wiki-link "Salem, NH (99 Rockingham Park Blvd, E173)" >}}                           | Fun Spot Arcade (rebranded to Chuck's Arcade in June 2025) | December 13, 2024 | N/A              |
+| Springhill Suites                 | Springhill Suites, Orlando (???) (Unclear if its the Seaworld or Convention Center one) | ???                                                        | ???               | N/A              |
+| Trumbull Mall                     | {{< wiki-link "Trumbull, CT (5065 Main St)" >}}                                         | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | September 6, 2024 | N/A              |
+| Tyrone Square                     | {{< wiki-link "St. Petersburg, FL (6901 22nd Ave N)" >}}{{< cite 7 >}}                  | Fun Spot Arcade (rebranded to Chuck's Arcade in July 2025) | September 2024    | N/A              |
+| Penn Square Mall                  | {{< wiki-link "Oklahoma City, OK (1901 Northwest Expy, Suite 2106A)" >}}                | Fun Spot Arcade                                            | January 2025      | N/A              |
+| Pheasant Lane Mall                | {{< wiki-link "Nashua, NH (310 Daniel Webster Hwy)" >}}{{< cite 7 >}}                   | Chuck's Arcade                                             | April 2025        | N/A              |
+| Woodland Hills Mall               | {{< wiki-link "Tulsa, OK (7021 S Memorial Dr.)" >}}{{< cite 17 >}}                      | Chuck's Arcade                                             | May 29, 2025      | N/A              |
+| Ward Parkway Center               | {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >}}                                | Chuck's Arcade and Pizzeria                                | June 26, 2025     | January 6, 2026  |
+| Mall of Georgia                   | {{< wiki-link "Buford, GA (3333 Buford Dr.)" >}}{{< cite 7 >}}                          | Chuck's Arcade                                             | June 27, 2025     | N/A              |
+| Cielo Vista Mall                  | {{< wiki-link "El Paso, TX (8401 Gateway Blvd)" >}}{{< cite 18 >}}                      | Chuck's Arcade                                             | July 3, 2025      | N/A              |
+| Brea Simon Center                 | {{< wiki-link "Brea, CA (1065 Brea Mall)" >}}{{< cite 14 >}}                            | Chuck's Arcade                                             | August 23, 2025   | N/A              |
+| Westgate Cocoa Beach Pier         | {{< wiki-link "Cocoa Beach, FL (401 Meade Avenue)" >}}{{< cite 14 >}}                   | Chuck's Arcade                                             | November 1, 2025  | N/A              |
 
 ## Taxidermy Animatronics
 
