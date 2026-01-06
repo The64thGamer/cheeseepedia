@@ -4,15 +4,15 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2025-08-28"
-endDate = ""
+endDate = "2026-01-06"
 contributors = ["CyberSnout"]
 citations = []
 pageThumbnailFile = "awtPcwDXLQnV4zLqi8oZ.avif"
 showtapeFormats = ["Media Navori"]
 +++
-***Chuck E. Cheese Throwback Show*** was released on August 28, 2025, to play exclusively at {{< wiki-link "Kansas City, MO (8809 State Line Rd))" >}}. 
+***Chuck E. Cheese Throwback Show*** was released on August 28, 2025, to play exclusively at {{< wiki-link "Kansas City, MO (8809 State Line Rd))" >}} on January 6, 2026 the show would end with the closing of the only location this played at. 
 
-## Show List 12/29 Update:
+## Show List 01/04 Update:
 1. **Segment 1**
     1.  'Kids Segment 2'
     2.  'Fractured Classics'
@@ -221,4 +221,4 @@ showtapeFormats = ["Media Navori"]
 
     ## Trivia
 1. 11/25 Update - Throwback Holiday songs and intermissions are added.
-2. 12/29 Update - Reverts to previous update, removing all holiday songs and intermissions.
+2. 01/04 Update - Reverts to previous update, removing all holiday songs and intermissions.
