@@ -10,7 +10,7 @@ citations = []
 pageThumbnailFile = "awtPcwDXLQnV4zLqi8oZ.avif"
 showtapeFormats = ["Media Navori"]
 +++
-***Chuck E. Cheese Throwback Show*** was released on August 28, 2025, to play exclusively at {{< wiki-link "Kansas City, MO (8809 State Line Rd))" >}} on January 6, 2026 the show would end with the closing of the only location this played at. 
+***Chuck E. Cheese Throwback Show*** was released on August 28, 2025, to play exclusively at {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >}} on January 6, 2026 the show would end with the closing of the only location this played at. 
 
 ## Show List 01/04 Update:
 1. **Segment 1**
