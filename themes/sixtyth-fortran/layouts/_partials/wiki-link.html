@@ -1,8 +1,0 @@
-{{- $lookup := .name -}}
-{{- $ctx := .context -}}
-{{- $articles := where site.RegularPages "Title" $lookup -}}
-{{- if gt (len $articles) 0 -}} 
-  <a href="{{ (index $articles 0).RelPermalink }}">{{ $lookup }}</a>
-{{- else -}} 
-  <a href="#" class="linkerror">{{ $lookup }}</a>
-{{- end -}}

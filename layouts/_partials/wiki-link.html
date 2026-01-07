@@ -1,0 +1,9 @@
+{{- $name := .name -}}
+{{- $articles := where site.RegularPages "Title" $name -}}
+{{- $context := or .context $name -}}
+
+{{- with index $articles 0 -}}
+  <a href="{{ .RelPermalink }}">{{ $context }}</a>
+{{- else -}}
+  <a href="#" class="linkerror">{{ $name }}</a>
+{{- end -}}
