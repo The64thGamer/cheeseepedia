@@ -63,7 +63,6 @@ This show featured 4 segments with 8 songs and was the last show produced with J
 - Chuck E Says 2002
 - Havin' A Party 2001
 - Happy and You Know It
-- Chuck E. Shuffle (Existing Stages)
 - Go Santa Go (Existing Stages)
 
 **Birthday Break**: CEC Show logo with music set to a 1 or 2-minute countdown, which would then lead to the Birthday show.
