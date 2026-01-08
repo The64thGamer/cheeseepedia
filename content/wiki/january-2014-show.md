@@ -7,6 +7,7 @@ pageThumbnailFile = "zk2IfDQiirivpgODzHvi.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Himitsu", "CyCGM", "RedaCEC", "Cy's Junk at School", "Ceclife13"]
 citations = ["https://youtu.be/qCyoDhgTEts"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
+mediaDuration = "1:13:07"
 transcriptions = ["January 2014 Segment 1"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -16,38 +17,38 @@ categories = ["Chuck E. Cheese's"]
 ## Show List:
 
 1.  **Segment 1**
-    1.  - 'She Loves You'
+    1. 'She Loves You'
 2.  **Intermission 1**
-    1.  - Transformers Recuse Bots (USA Only)
-    2.  - Helen Henny's Hollywood - 'Sean's Pen'
-    3.  - Show Break 1
-    4.  CEC TV ID 'Break Dance'
+    1.  Transformers Recuse Bots (USA Only)
+    2.  Helen Henny's Hollywood - 'Sean's Pen'
+    3.  Show Break 1
+    4.  CEC TV ID - 'Breakdance'
 3.  **Segment 2**
-    1.  - 'Good Vibrations
-    2.  - 'Rock N' Roll All Nite'
+    1.  'Good Vibrations
+    2.  'Rock N' Roll All Nite'
 4.  **Intermission 2**
-    1.  - My Little Pony (USA Only)
-    2.  - Cloudy With A Chance of Meatballs 2 Promo
-    3.  - CEC Live Promo
-    4.  - Show Break 2
-    5.  - CEC TV ID 'Couch'
+    1.  My Little Pony (USA Only)
+    2.  Cloudy With A Chance of Meatballs 2 Promo
+    3.  CEC Live Promo
+    4.  Show Break 2
+    5.  CEC TV ID - 'Couch'
 5.  **Segment 3**
-    1.  - 'I Want Crazy'
+    1.  'I Want Crazy'
 6.  **Intermission 3**
-    1.  - Littlest Pet Shop (USA Only)
-    2.  - Baking with Betty - 'Topas'
-    3.  - Show Break 3
+    1.  Littlest Pet Shop (USA Only)
+    2.  Baking with Betty - 'Tapas'
+    3.  Show Break 3
     4.  CEC TV ID - 'Skeeball'
 7.  **Segment 4**
-    1.  - 'Carry On Wayward Son'
-    2.  - 'I Melt With You'
+    1.  'Carry On Wayward Son'
+    2.  'I Melt With You'
 8.  **Intermission 4**
-    1.  - Kittens In The Kitchen Wearing Mittens
-    2.  - Cloudy With A Chance of Meatballs 2 Trailer
-    3.  - Chill Out 4
-    4.  - CEC Live Show Promo
-    5.  - Show Break 4
-    6.  - CEC TV ID 'UFO'
+    1.  Kittens In The Kitchen Wearing Mittens
+    2.  Cloudy With A Chance of Meatballs 2 Trailer
+    3.  Chill Out 4
+    4.  CEC Live Show Promo
+    5.  Show Break 4
+    6.  CEC TV ID - 'Cows'
 
 ## Live Shows:
 
