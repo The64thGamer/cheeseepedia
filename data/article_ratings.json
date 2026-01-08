@@ -11994,7 +11994,7 @@
     "page_path": "content/wiki/peter-piper-pizza.md",
     "startDate": "",
     "start_year": null,
-    "category": "Chuck E. Cheese's",
+    "category": "Peter Piper Pizza",
     "tag": "Restaurants/FECs",
     "contributors_count": 4,
     "rating": 0
@@ -12082,12 +12082,12 @@
   {
     "title": "Kansas City, MO (8809 State Line Rd)",
     "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd.md",
-    "startDate": "2023-06-20",
+    "startDate": "2023-06-22",
     "start_year": 2023,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 1,
-    "rating": 0
+    "contributors_count": 3,
+    "rating": 2
   },
   {
     "title": "Chuck E. Cheese's Gameroom",
@@ -27578,6 +27578,16 @@
     "tag": "Tokens",
     "contributors_count": 0,
     "rating": 0
+  },
+  {
+    "title": "Peter Piper Pizza 2.0 Remodel Program",
+    "page_path": "content/wiki/peterpipertwopointohhh.md",
+    "startDate": "2013-04-00",
+    "start_year": 2013,
+    "category": "Chuck E. Cheese's",
+    "tag": "Remodels and Initiatives",
+    "contributors_count": 1,
+    "rating": 2
   },
   {
     "title": "Mony Mony",

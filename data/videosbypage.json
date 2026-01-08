@@ -3419,6 +3419,98 @@
       "content": "Birthday party at San Jose, CA (1371 Kooser Rd)."
     }
   ],
+  "Kansas City, MO (8809 State Line Rd)": [
+    {
+      "name": "https://youtu.be/1lC7mgVgMqs",
+      "page_path": "content/videos/tourster copy 6.md",
+      "startDate": "",
+      "content": "Footage of Kansas City Chuck E. Cheese's"
+    },
+    {
+      "name": "https://youtu.be/Ps0zO9QLWGs",
+      "page_path": "content/videos/tourster copy 10.md",
+      "startDate": "",
+      "content": "Footage of Kansas City Chuck E. Cheese's"
+    },
+    {
+      "name": "https://youtu.be/f4juanHc0Wc",
+      "page_path": "content/videos/tourster copy 9.md",
+      "startDate": "",
+      "content": "Footage of Kansas City Chuck E. Cheese's"
+    },
+    {
+      "name": "https://youtu.be/RjdHujdkOb0",
+      "page_path": "content/videos/tourster copy 12.md",
+      "startDate": "",
+      "content": "Footage of Kansas City Chuck E. Cheese's"
+    },
+    {
+      "name": "https://youtu.be/-61NWhBxnJE",
+      "page_path": "content/videos/tourster copy 7.md",
+      "startDate": "",
+      "content": "Footage of Kansas City Chuck E. Cheese's"
+    },
+    {
+      "name": "https://youtu.be/7HQuhvvdxtc",
+      "page_path": "content/videos/tourster copy 3.md",
+      "startDate": "",
+      "content": "Footage of Kansas City Peter Piper Pizza"
+    },
+    {
+      "name": "https://youtu.be/DzwgS0WmN0I",
+      "page_path": "content/videos/tourster copy 13.md",
+      "startDate": "",
+      "content": "Footage of Kansas City CEC Throwback Thursday Show"
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=DzwgS0WmN0I",
+      "page_path": "content/videos/tourster copy 15.md",
+      "startDate": "",
+      "content": "Footage of Kansas City CEC Throwback Thursday Show"
+    },
+    {
+      "name": "https://youtu.be/1lI0vtqBTNM",
+      "page_path": "content/videos/tourster copy 5.md",
+      "startDate": "",
+      "content": "Footage of Kansas City Peter Piper Pizza"
+    },
+    {
+      "name": "https://youtu.be/V1QChFW2ADs",
+      "page_path": "content/videos/tourster copy 8.md",
+      "startDate": "",
+      "content": "Footage of Kansas City Chuck E. Cheese's"
+    },
+    {
+      "name": "https://youtu.be/LJK0JEy8EZE",
+      "page_path": "content/videos/tourster copy 14.md",
+      "startDate": "",
+      "content": "Footage of Kansas City CEC Throwback Thursday Show"
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=qSAPK-BcrEY",
+      "page_path": "content/videos/tourster copy 17.md",
+      "startDate": "",
+      "content": "Footage of Kansas City CEC Throwback Thursday Show"
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=Lqar2E_3YYs",
+      "page_path": "content/videos/tourster copy 16.md",
+      "startDate": "",
+      "content": "Footage of Kansas City CEC Throwback Thursday Show"
+    },
+    {
+      "name": "https://youtu.be/Ym4O3OQG3pc",
+      "page_path": "content/videos/tourster copy 11.md",
+      "startDate": "",
+      "content": "Review of Kansas City Chuck E. Cheese's"
+    },
+    {
+      "name": "https://youtu.be/cGy8MTpBDWE",
+      "page_path": "content/videos/tourster copy 4.md",
+      "startDate": "",
+      "content": "Footage of Kansas City Peter Piper Pizza Opening"
+    }
+  ],
   "Cyberamics": [
     {
       "name": "https://youtu.be/ZuE40XxtBM0?t=819",
@@ -8849,6 +8941,38 @@
       "page_path": "content/videos/https-youtu-be-8lkvqqakgqy.md",
       "startDate": "",
       "content": "The ending scene of the 2001 movie 'Made' Features some footage of Northridge and Jasper performing Ace in The Hole from the January 2001 Show . Song continues to play over the credits."
+    }
+  ],
+  "Chuck E. Cheese Throwback Thursday Show": [
+    {
+      "name": "https://youtu.be/DzwgS0WmN0I",
+      "page_path": "content/videos/tourster copy 13.md",
+      "startDate": "",
+      "content": "Footage of Kansas City CEC Throwback Thursday Show"
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=DzwgS0WmN0I",
+      "page_path": "content/videos/tourster copy 15.md",
+      "startDate": "",
+      "content": "Footage of Kansas City CEC Throwback Thursday Show"
+    },
+    {
+      "name": "https://youtu.be/LJK0JEy8EZE",
+      "page_path": "content/videos/tourster copy 14.md",
+      "startDate": "",
+      "content": "Footage of Kansas City CEC Throwback Thursday Show"
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=qSAPK-BcrEY",
+      "page_path": "content/videos/tourster copy 17.md",
+      "startDate": "",
+      "content": "Footage of Kansas City CEC Throwback Thursday Show"
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=Lqar2E_3YYs",
+      "page_path": "content/videos/tourster copy 16.md",
+      "startDate": "",
+      "content": "Footage of Kansas City CEC Throwback Thursday Show"
     }
   ],
   "CEC Tune Machine / Country": [

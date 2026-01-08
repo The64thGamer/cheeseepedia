@@ -12627,11 +12627,53 @@
   ],
   "Irving, TX (4441 W Airport Fwy Ste 215)": [
     {
+      "name": "34rdp3386tim76i9.avif",
+      "page_path": "content/photos/34rdp3386tim76i9.md",
+      "hasFile": true,
+      "startDate": "0000-00-00",
+      "content": "CEC Corporate around 1998-1999"
+    },
+    {
       "name": "tmfkFXHNcGhZ4TZi42X2.avif",
       "page_path": "content/photos/tmfkfxhncghz4tzi42x2avif.md",
       "hasFile": true,
       "startDate": "0000-00-00",
       "content": "Winchester Pasqually animatronic at CEC Corporate headquarters."
+    },
+    {
+      "name": "tx6944gdh6bk2crq.avif",
+      "page_path": "content/photos/tx6944gdh6bk2crq.md",
+      "hasFile": true,
+      "startDate": "0000-00-00",
+      "content": "CEC Corporate around 1998-1999"
+    },
+    {
+      "name": "1l6ioaiwxad01476.avif",
+      "page_path": "content/photos/1l6ioaiwxad01476.md",
+      "hasFile": true,
+      "startDate": "0000-00-00",
+      "content": "CEC Corporate around 1998-1999"
+    },
+    {
+      "name": "6szaigku5z2ml3u7.avif",
+      "page_path": "content/photos/6szaigku5z2ml3u7.md",
+      "hasFile": true,
+      "startDate": "0000-00-00",
+      "content": "CEC Corporate around 1998-1999"
+    },
+    {
+      "name": "athb0jkszs2fubzb.avif",
+      "page_path": "content/photos/athb0jkszs2fubzb.md",
+      "hasFile": true,
+      "startDate": "0000-00-00",
+      "content": "CEC Corporate around 1998-1999"
+    },
+    {
+      "name": "1opxn2h0fscskcv5.avif",
+      "page_path": "content/photos/1opxn2h0fscskcv5.md",
+      "hasFile": true,
+      "startDate": "0000-00-00",
+      "content": "CEC Corporate around 1998-1999"
     },
     {
       "name": "P5nB91Mfiv35HjekKlaH.avif",
@@ -18537,6 +18579,13 @@
       "hasFile": true,
       "startDate": "1993-00-00",
       "content": "Prop Characters"
+    },
+    {
+      "name": "99f9ufqlmpvdkdga.avif",
+      "page_path": "content/photos/99f9ufqlmpvdkdga.md",
+      "hasFile": true,
+      "startDate": "1997-00-00",
+      "content": "Knoxville's parts in a storage unit shortly after the closure of the store. Possibly dumpster dived from the damaged parts."
     },
     {
       "name": "3n2aj0lIfqfbaSK6_5k6.avif",
@@ -35372,6 +35421,29 @@
       "content": "The Kings stage replaced with The Video Velociter"
     }
   ],
+  "Kansas City, MO (8809 State Line Rd)": [
+    {
+      "name": "ChucksArcadeStateLine.avif",
+      "page_path": "content/photos/ChucksArcadeStateLineavif.md",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Exterior of the Chuck's Arcade in Kansas City at night (PC:The Carpetbagger)"
+    },
+    {
+      "name": "mTyX2crcuRg6Zii_Wzvb.avif",
+      "page_path": "content/photos/mtyx2crcurg6zii-wzvbavif.md",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Exterior as a Peter Piper Pizzeria, June 2023. (PC: dmckill on Instagram)"
+    },
+    {
+      "name": "FH0Lgb_5vnHjzYRDm178.avif",
+      "page_path": "content/photos/fh0lgb-5vnhjzyrdm178avif.md",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Exterior, August 2024 (PC: dmckill on Instagram)"
+    }
+  ],
   "Sterling Heights, MI (13745 Lakeside Circle)": [
     {
       "name": "sterlingheightsexterior2025.avif",
@@ -44459,7 +44531,7 @@
       "page_path": "content/photos/awtpcwdxlqnv4zlqi8ozavif.md",
       "hasFile": true,
       "startDate": "",
-      "content": ""
+      "content": "Chuck E. Cheese Jungle Temple theme"
     },
     {
       "name": "svusq8wij01eq95dksyq.avif",
@@ -49403,22 +49475,6 @@
       "content": "An unknown Pizza Time Theatre playing 'Happy Holidays'"
     }
   ],
-  "Kansas City, MO (8809 State Line Rd)": [
-    {
-      "name": "mTyX2crcuRg6Zii_Wzvb.avif",
-      "page_path": "content/photos/mtyx2crcurg6zii-wzvbavif.md",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Exterior as a Peter Piper Pizzeria, June 2023. (PC: dmckill on Instagram)"
-    },
-    {
-      "name": "FH0Lgb_5vnHjzYRDm178.avif",
-      "page_path": "content/photos/fh0lgb-5vnhjzyrdm178avif.md",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Exterior, August 2024 (PC: dmckill on Instagram)"
-    }
-  ],
   "Cyberamic Eye Assembly": [
     {
       "name": "56u56u56345.avif",
@@ -51956,6 +52012,15 @@
       "hasFile": true,
       "startDate": "",
       "content": ""
+    }
+  ],
+  "Knoxville, TN (7522 Kingston Pike)": [
+    {
+      "name": "99f9ufqlmpvdkdga.avif",
+      "page_path": "content/photos/99f9ufqlmpvdkdga.md",
+      "hasFile": true,
+      "startDate": "1997-00-00",
+      "content": "Knoxville's parts in a storage unit shortly after the closure of the store. Possibly dumpster dived from the damaged parts."
     }
   ],
   "Chuck E. Cheese Shows (CEC Best of 1988)": [
