@@ -7,6 +7,7 @@ pageThumbnailFile = "Mn5SDKAE31xlkb6iL7Hs.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Mousester", "Anonymous"]
 citations = ["Showtape Stock Music"]
 credits = ["Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator"]
+mediaDuration = "1:22:49"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -17,13 +18,10 @@ This show featured eight songs from various shows released throughout the 2000s.
 ## Show List
 
 1. **Intermission 1**
-
    1. 'CEC TV ID - 'Dancing Food'
 2. **Segment 1**
-
-   1. 'Roll The Pizza Dough'
+   1. 'Roll The Pizza Dough' (parody of ['Good Times Roll'](https://en.wikipedia.org/wiki/Good_Times_Roll))
 3. **Intermission 1**
-
    1. Backstage Pass - 'Hanson'
    2. Hanson - 'Thinking 'Bout Somethin''
    3. Sound Splosion: Yo Gabba Gabba! - 'It's A Party For Brobee'
@@ -32,48 +30,38 @@ This show featured eight songs from various shows released throughout the 2000s.
    6. The Zone - 'Drifting'
    7. CEC TV ID - 'Parachute'
 4. **Segment 2**
-
    1. 'Mailman'
 5. **Intermission 2**
-
    1. CEC TV ID - 'Crane Game'
    2. Sound Splosion: Ralph's World - 'My Magic Trick'
    3. Animal Atlas - 'Animal Passport'
    4. Trivia - 'Continent'
    5. CEC TV ID - 'Pizza Parachute'
 6. **Segment 3**
-
    1. 'No Other Place'
 7. **Intermission 3**
-
    1. CEC TV ID - 'Color The Numbers'
    2. Yo Gabba Gabba! - 'A Flower's Power'
    3. How to Train Your Dragon DVD Promo
    4. Caspar Babypants - '$9.99'
    5. Wow Wow Wubbzy! - 'Everyone in Wuzzleburg is Excited to Learn! Learn! Learn!'
 8. **Segment 4**
-
-   1. 'Our Mouse'
+   1. 'Our Mouse' (parody of ['Our House'](https://en.wikipedia.org/wiki/Our_House_(Madness_song)))
 9. **Intermission 4**
-
    1. Fun Facts - 'Bats'
    2. Backstage Pass: Dan Zanes - 'Catch That Train'
    3. Noonbory & The Super 7 - 'A Honey Of A Tale'
    4. Sid The Science Kid - 'Don't Forget The Leaves'
 10. **Segment 5**
-
-    1. 'Dinner'
+    1. 'Dinner' (Parody of ['Thriller'](https://en.wikipedia.org/wiki/Thriller_(song)))
 11. **Intermission 5**
-
     1. Fun Facts - 'Lobsters'
     2. CEC TV ID - 'Skee Ball'
     3. Dive Olly Dive! - 'Uma Under The Weather!'
     4. Shout Factory Presents: Leave It To Beaver
 12. **Segment 6**
-
     1. 'Three Little Investors'
 13. **Intermission 6**
-
     1. CEC TV ID - 'Radio Towers'
     2. Wow Wow Wubbzy! - 'Everyone in Wuzzleburg is Excited to Learn! Learn! Learn!'
     3. CEC TV ID - 'Astronaut Chuck E.'
@@ -81,10 +69,8 @@ This show featured eight songs from various shows released throughout the 2000s.
     5. 1 Minute 'Til Next Show Countdown
     6. Cyberstar Intro
 14. **Segment 7**
-
     1. 'Little Bit Of 80's'
 15. **Intermission 7**
-
     1. CEC TV ID - 'NBC Chime'
     2. Sound Splosion: Yo Gabba Gabba! - 'Happy Birthday'
     3. Backstage Pass - 'KSM'
@@ -95,10 +81,8 @@ This show featured eight songs from various shows released throughout the 2000s.
     8. CEC TV ID - 'Jawbreaker'
     9. Trivia - 'Capital of Mexico'
 16. **Segment 8**
-
     1. 'Think Happy'
 17. **Intermission 8**
-
     1. Pajanimals - 'Jiggle, Jumble, Jump'
 
 ## Lives:
