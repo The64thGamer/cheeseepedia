@@ -64,12 +64,12 @@ This show featured eight songs from various shows released throughout the 2000s.
 13. **Intermission 6**
     1. CEC TV ID - 'Radio Towers'
     2. Wow Wow Wubbzy! - 'Everyone in Wuzzleburg is Excited to Learn! Learn! Learn!'
-    3. CEC TV ID - 'Astronaut Chuck E.'
+    3. CEC TV ID - 'Astronauts'
     4. Fun Facts - 'Largest Man-Made Lake'
-    5. 1 Minute 'Til Next Show Countdown
+    5. Cyberstar 1 Minute Countdown
     6. Cyberstar Intro
 14. **Segment 7**
-    1. 'Little Bit Of 80's'
+    1. 'Little Bit Of 80s'
 15. **Intermission 7**
     1. CEC TV ID - 'NBC Chime'
     2. Sound Splosion: Yo Gabba Gabba! - 'Happy Birthday'
