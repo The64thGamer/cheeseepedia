@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Kennesaw, GA (824 Earnest W Barrett Pkwy)"]
 
 citations = []
 +++

@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Bendable Chuck E. Cheese Figure (1992)"]
 
 citations = []
 +++

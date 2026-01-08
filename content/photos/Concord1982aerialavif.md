@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Concord, CA (1975 Diamond Blvd)"]
 
 citations = []
 +++
