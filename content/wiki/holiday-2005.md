@@ -21,7 +21,7 @@ categories = ["Chuck E. Cheese's"]
     4.  Holiday VJ Spot - Michael
 2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
+    2.  'Up On The Housetop'
 3.  **Intermission 2**
     1.  'Coke Spot
     2.  Larry The Technician - 'Decorating The Tree'
@@ -49,7 +49,7 @@ categories = ["Chuck E. Cheese's"]
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Lives:
+## Live Shows:
 
 - Chuck E. March 01
 - Havin' A Party 01
@@ -63,4 +63,5 @@ categories = ["Chuck E. Cheese's"]
 - New Birthday
 - Go Santa Go
 
-**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 or 2-minute countdown, which would then lead to the Birthday show.
+
