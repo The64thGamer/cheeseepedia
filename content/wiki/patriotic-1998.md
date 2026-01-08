@@ -4,18 +4,18 @@ title = "Patriotic 1998"
 startDate = "1998-06-23"
 endDate = "1998-07-06"
 pageThumbnailFile = "nKdnktH7tMqpuqZk0Ewg.avif"
-contributors = ["CyberSnout", "The 64th Gamer"]
+contributors = ["CyberSnout", "The 64th Gamer","Ceclife13"]
 citations = []
 showtapeFormats = ["R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Patriotic 1998 (June 1998)** Played from June 23, 1998 - July 6, 1998 after which {{< wiki-link "May 1998 Studio C" >}} would play again.
+**Patriotic 1998 (June 1998)** Played from June 23, 1998 - July 6, 1998, after which {{< wiki-link "May 1998 Studio C" >}} would play again.
 
 ## History
 
-This show only ever played on existing stages, with Studio C the stores would just continue to use Studio C Premiere (Final Ver)|Studio C Premiere.
-An additional letter and video tape would come with this tape, stating to keep the May 1998 tape for subsequent reuse, and to keep the Patriotic show for 3 more years for reuse.
+This show only ever played on existing stages, as stores with Studio C would continue to use Studio C Premiere.
+An additional letter and videotape would come with this tape, stating to keep the May 1998 tape for subsequent reuse, and to keep the Patriotic show for 3 more years for reuse.
 
 ## Show List:
 
@@ -55,9 +55,9 @@ An additional letter and video tape would come with this tape, stating to keep t
     1.  'Pledge Of Allegiance'
     2.  'You're A Grand Old Flag'
 
-## Lives:
+## Live Shows:
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Birthday Star 95'
 - Chuck E. March
@@ -69,6 +69,5 @@ An additional letter and video tape would come with this tape, stating to keep t
 
 ## Trivia
 
-- This show is very weird as the characters are barely used or seen during this show. The only time footage the characters is used is during John Mellencamp - 'Rock In The USA'
-- The only proper segment in this show is Segment 9 with the rest just being roughly a minute long skit introducing the next song.
-- 
+
+- The only proper segment in this show is Segment 9, with the rest just being roughly a minute-long skit introducing the next song. The only footage of the characters is used during John Mellencamp - 'Rock In The USA'
