@@ -7,6 +7,7 @@ pageThumbnailFile = "Ow2_Rl6uPT7cXdfhFzOv.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://archive.org/download/studio-c-floppy-discs-rips/Summer2002ShowUpgrade.img"]
 credits = ["Jeremy Blaido - Director", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator"]
+mediaDuration = "35:22"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Summer2002ShowUpgrade.img|Studio C Floppy Disk"]
 tags = ["Showtapes"]
@@ -23,7 +24,7 @@ categories = ["Chuck E. Cheese's"]
     2.  'Fun, Fun, Fun!'
 2.  **Intermission 1**
     1.  'For The Birds'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
     3.  Store Intro - 'Brick, NJ' (Cookie)
 3.  **Segment 2**
     1.  'Celebrate America'
@@ -37,7 +38,7 @@ categories = ["Chuck E. Cheese's"]
     2.  'Local Pizza Cabana'
 6.  **Intermission 3**
     1.  'At The Zoo'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
     3.  Store Intro - 'Brick, NJ' (Abby)
 7.  **Segment 4**
     1.  'Don't Hurry to Worry'
@@ -50,7 +51,7 @@ categories = ["Chuck E. Cheese's"]
     2.  'Fun, Fun, Fun!'
 2.  **Intermission 1**
     1.  'Time To Fly!'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
     3.  Store Intro - Brick, NJ' (Cookie)
 3.  **Segment 2**
     1.  'Celebrate America'
@@ -72,12 +73,12 @@ categories = ["Chuck E. Cheese's"]
 8.  **Intermission 4**
     1.  'Underwater Adventure!'
     2.  'Let's Take Flight!'
-    3.  CEC TV ID - 'Rocketship'
+    3.  CEC TV ID - 'Rocket'
     4.  Store Intro - 'Brick, NJ' (Abby)
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Birthday Star 2001
 - Spanish Birthday
@@ -91,7 +92,7 @@ categories = ["Chuck E. Cheese's"]
 - Chuck E. Swing
 - Give My Regards to Broadway (Existing Stages)
 
-**Birthday Break**: The Birthday Break is reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}. It could be set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+**Birthday Break**: The Birthday Break is reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}. It could be set to a 1 or 2 minute countdown, which would then lead into the Birthday show.
 
 ## Production
 
