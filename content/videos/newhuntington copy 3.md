@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/B2MPQ1pDzWs"
-startdate = "2025-03-23"
+startDate = "2025-03-23"
 pages = ["Huntington Beach, CA (15031 Goldenwest St)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

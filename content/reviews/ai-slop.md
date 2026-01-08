@@ -1,7 +1,7 @@
 +++
 recommend = false
 title = "AI Slop"
-startdate = "2025-11-09"
+startDate = "2025-11-09"
 page = "Chuck E. Cheese Adventure World"
 contributors = ["The 64th Gamer"]
 tags = ["Reviews"]

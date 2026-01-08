@@ -1,6 +1,6 @@
 +++
 title = "Upcoming Australian CEC Confirmed In Perth, AU Socials & Newsletter Arrive"
-startdate = "2025-03-18"
+startDate = "2025-03-18"
 pageThumbnailFile = "auuuuuuuuussiecharles.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://chuckecheese.com.au/","https://www.facebook.com/chuckecheeseau"]

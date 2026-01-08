@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/-4vjbhHOcWw"
-startdate = "2025-10-21"
+startDate = "2025-10-21"
 pages = ["Sterling Heights, MI (13745 Lakeside Circle)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

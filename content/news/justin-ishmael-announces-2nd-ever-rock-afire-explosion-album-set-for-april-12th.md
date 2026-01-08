@@ -1,6 +1,6 @@
 +++
 title = "Justin Ishmael Announces 2nd Ever Rock-afire Explosion Album, Set For April 12th"
-startdate = "2025-02-06"
+startDate = "2025-02-06"
 pageThumbnailFile = "4763bnnmmzzz3g23gf234g_n.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.instagram.com/justinishmael/p/DFvZ7g8JKbH/", "https://youtu.be/EeOXdM5FLIM?t=332", "https://recordstoreday.com/SpecialRelease/18877"]

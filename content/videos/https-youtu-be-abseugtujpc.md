@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/ABSeuGtUjPc"
-startdate = "1985-05-18"
+startDate = "1985-05-18"
 pages = ["Baton Rouge, LA (11324 Boardwalk Dr)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

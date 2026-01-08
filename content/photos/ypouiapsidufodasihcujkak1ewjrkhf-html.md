@@ -1,6 +1,6 @@
 +++
 title = "ypouiapsidufodasihcujkak1ewjrkhf.avif"
-startdate = "2025-07-07"
+startDate = "2025-07-07"
 pages = ["Chuck's Arcade","Chuck's Arcade Website"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]

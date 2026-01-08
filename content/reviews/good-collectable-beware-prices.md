@@ -1,7 +1,7 @@
 +++
 recommend = true
 title = "Good Collectable, Beware Prices"
-startdate = "2025-10-12"
+startDate = "2025-10-12"
 page = "Chuck E. Cheese Baby Pony (1989)"
 contributors = ["The 64th Gamer"]
 tags = ["Reviews"]

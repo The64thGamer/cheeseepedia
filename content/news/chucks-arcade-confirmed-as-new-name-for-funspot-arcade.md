@@ -1,6 +1,6 @@
 +++
 title = " 'Chuck's Arcade' Confirmed As New Rebrand For Funspot Arcade"
-startdate = "2025-02-15"
+startDate = "2025-02-15"
 pageThumbnailFile = "093j4g90i34jg23334.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.simon.com/brands/chucks-arcade", "https://www.reddit.com/r/chuckecheese/comments/1ip3omg/comment/mcxyxvt/"]

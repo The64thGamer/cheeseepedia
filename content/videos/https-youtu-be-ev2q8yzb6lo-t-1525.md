@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/EV2Q8Yzb6Lo?t=1525"
-startdate = "1993-07-00"
+startDate = "1993-07-00"
 pages = ["Northridge, CA (8425 Reseda Blvd)", "July 1993 Show"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

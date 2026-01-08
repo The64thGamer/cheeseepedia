@@ -1,6 +1,6 @@
 +++
 title = "345y4hrth45h4h.avif"
-startdate = "2025-01-30"
+startDate = "2025-01-30"
 pages = ["Lo Barnechea (Cantagallo), Chile"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]

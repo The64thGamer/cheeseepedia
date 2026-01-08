@@ -1,7 +1,7 @@
 +++
 recommend = true
 title = "Fine Release"
-startdate = "2025-10-15"
+startDate = "2025-10-15"
 page = "Original Dreams: Songs from ShowBiz"
 contributors = ["The 64th Gamer"]
 tags = ["Reviews"]

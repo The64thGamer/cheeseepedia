@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/crITWXJYIaA"
-startdate = "2023-06-00"
+startDate = "2023-06-00"
 pages = ["Northridge, CA (8425 Reseda Blvd)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

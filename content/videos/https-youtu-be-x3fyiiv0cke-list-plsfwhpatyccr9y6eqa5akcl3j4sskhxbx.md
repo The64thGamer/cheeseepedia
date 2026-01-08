@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/X3fyIIV0CkE"
-startdate = "1996-00-00"
+startDate = "1996-00-00"
 pages = ["Country Klunk", "Uncle Klunk (Animatronic)"]
 tags = ["Videos"]
 categories = ["Creative Engineering", "ShowBiz Pizza Place","Circus Pizza"]

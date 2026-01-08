@@ -2,9 +2,9 @@
 title = "hmynwfm81v6mychn.avif"
 draft = false
 tags = ["Photos"]
-category = "Chuck E. Cheese's"
+categories = ["Chuck E. Cheese's"]
 pages = ["Huntington Beach, CA (15031 Goldenwest St)", "Huntington Beach, CA (15511 Edwards St)"]
 startDate = "2024-02-18"
-citation = "YouTube Community Post"
+citations = ["YouTube Community Post"]
 +++
 Citation on Huntington's relocation.

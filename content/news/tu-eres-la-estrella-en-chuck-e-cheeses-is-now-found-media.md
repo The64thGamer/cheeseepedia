@@ -1,6 +1,6 @@
 +++
 title = "'Tu Eres La Estrella En Chuck E. Cheese's' Is Now Found Media!"
-startdate = "2025-02-05"
+startDate = "2025-02-05"
 pageThumbnailFile = "bday10-239urj23r.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://youtu.be/Bg3SLYC-VmM"]

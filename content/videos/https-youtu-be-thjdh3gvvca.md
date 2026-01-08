@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/tHJdh3GvvcA"
-startdate = "2004-00-00"
+startDate = "2004-00-00"
 pages = ["September 2004", "San Antonio, TX (6874 Ingram Rd)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

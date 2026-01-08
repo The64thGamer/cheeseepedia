@@ -1,7 +1,7 @@
 +++
 recommend = false
 title = "Worst Commercial EVER!?!"
-startdate = "2025-10-12"
+startDate = "2025-10-12"
 page = "BOOTACULAR Chuck E. Cheese (Commercial)"
 contributors = ["PizzaEntertainmentFan"]
 tags = ["Reviews"]

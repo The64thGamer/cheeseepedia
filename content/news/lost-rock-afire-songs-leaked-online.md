@@ -1,6 +1,6 @@
 +++
 title = "Lost Rock-afire Songs Leaked Online"
-startdate = "2025-02-28"
+startDate = "2025-02-28"
 pageThumbnailFile = "0RiCj7VCqe9tLeis_kBt.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://archive.org/details/lost-rae-songs-feb.-2025", "https://youtu.be/Q7FZwE1lysc", "https://youtu.be/PQG1gKpmYxo?si=3YmGedsFje_pyfn9"]

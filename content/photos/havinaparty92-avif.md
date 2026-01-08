@@ -1,6 +1,6 @@
 +++
 title = "havinaparty92.avif"
-startdate = "1992-09-00"
+startDate = "1992-09-00"
 citations = ["https://www.youtube.com/watch?v=R78H7Hh9K2A"]
 pages = ["Havin' A Party"]
 tags = ["Photos"]

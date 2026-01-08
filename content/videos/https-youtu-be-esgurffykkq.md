@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/esGURFFykKQ"
-startdate = "2016-06-30"
+startDate = "2016-06-30"
 pages = ["San Jose (Tully), CA (2445 Fontaine Rd)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

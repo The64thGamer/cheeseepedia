@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/LJK0JEy8EZE"
-startdate = "2025-07-17"
+startDate = "2025-07-17"
 pages = ["Kansas City, MO (8809 State Line Rd)","Chuck E. Cheese Throwback Thursday Show"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

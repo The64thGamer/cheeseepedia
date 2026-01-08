@@ -1,6 +1,6 @@
 +++
 title = "Pasqually's Shutting Down, Grown-Up Menu Discontinuing, Chuck's Arcade Merch, & More."
-startdate = "2025-03-22"
+startDate = "2025-03-22"
 pageThumbnailFile = "bellashop.avif"
 contributors = ["The 64th Gamer"]
 citations = ["Correspondance with employees", "https://www.chuckecheese.com/darien-il/blogs/chuck-e-cheese-unveils-new-grown-up-menu/"]

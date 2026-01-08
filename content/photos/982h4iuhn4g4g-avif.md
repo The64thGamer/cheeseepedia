@@ -1,6 +1,6 @@
 +++
 title = "982h4iuhn4g4g.avif"
-startdate = "2025-03-12"
+startDate = "2025-03-12"
 pages = ["King I", "King II", "King-Combo-Birthday"]
 tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
