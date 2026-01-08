@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Grand Rapids, MI (3671 28th St)"]
 
 citations = []
 +++

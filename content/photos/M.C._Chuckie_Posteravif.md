@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["'M.C. Chuckie' (CD Award)"]
 
 citations = []
 +++

@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Augusta, GA (3435 Wrightsboro Rd)"]
 
 citations = []
 +++

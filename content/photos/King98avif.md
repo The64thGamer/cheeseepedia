@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Elvis (The King Retrofit)"]
 
 citations = []
 +++

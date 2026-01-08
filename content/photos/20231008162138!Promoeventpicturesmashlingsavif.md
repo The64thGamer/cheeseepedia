@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["2023 Piñata Smashlings CEC Promo Campaign (Event)"]
 
 citations = []
 +++

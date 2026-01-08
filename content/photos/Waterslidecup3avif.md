@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Chuck E. Cheese's Waterslide Promo Cup (2004)"]
 
 citations = []
 +++

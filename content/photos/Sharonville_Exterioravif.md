@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Sharonville, OH (1429 E Kemper Rd)"]
 
 citations = []
 +++

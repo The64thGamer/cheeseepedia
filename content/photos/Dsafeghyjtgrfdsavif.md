@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Mommy, Me & Chuck E. Class CD"]
 
 citations = []
 +++
