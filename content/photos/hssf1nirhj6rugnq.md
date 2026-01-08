@@ -2,7 +2,7 @@
 title = "hssf1nirhj6rugnq.avif"
 draft = false
 tags = ["Photos"]
-category = "Pizza Time Theatre"
+categories = ["Pizza Time Theatre"]
 pages = ["Citrus Heights, CA (7614 Greenback Lane)", "Helen Henny (Lounge)"]
 startDate = "1979-12-26"
 citation = "https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/page/n1/mode/2up?q=Citrus+Heights"

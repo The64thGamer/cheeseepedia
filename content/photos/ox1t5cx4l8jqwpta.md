@@ -2,7 +2,7 @@
 title = "ox1t5cx4l8jqwpta.avif"
 draft = false
 tags = ["Photos"]
-category = "Pizza Time Theatre"
+categories = ["Pizza Time Theatre"]
 pages = ["Citrus Heights, CA (7614 Greenback Lane)"]
 startDate = "1981-00-00"
 citation = "https://web.archive.org/web/20251211203606/https://www.ebay.com/itm/286918092120"

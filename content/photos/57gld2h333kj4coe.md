@@ -2,7 +2,7 @@
 title = "57gld2h333kj4coe.avif"
 draft = false
 tags = ["Photos"]
-category = "Pizza Time Theatre"
+categories = ["Pizza Time Theatre"]
 pages = ["Concord, CA (1975 Diamond Blvd)"]
 startDate = "1986-10-25"
 citation = "https://youtu.be/2yr3tlSLcwE"
