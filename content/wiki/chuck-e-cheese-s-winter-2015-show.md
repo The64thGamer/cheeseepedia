@@ -6,12 +6,12 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2014-12-29"
 endDate = "2015-03-15"
 contributors = ["CyberSnout","Himitsu","John95"]
+mediaDuration = "51:08"
 citations = []
 pageThumbnailFile = "QZNxg_ThrcFoz3JkP1c8.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***Winter 2015* is the Winter show released December 29th 2014 featuring six songs
-This was created to play from December 29th 2014 - March 15th 2015. This show features four songs with a new live called Do the Chuck E. (2015) and a new Birthday called Chuck E.'s Birthday 2015 Show.**
+***Winter 2015*** is a showtape that played through the winter of 2015 and featured four songs as well as a new live show and birthday show.
 
 ## Show List:
 
@@ -47,14 +47,14 @@ This was created to play from December 29th 2014 - March 15th 2015. This show fe
 
 ## Live Shows:
 
-- Chuck E. Birthday 2015 (New) (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Do The Chuck E. 2015 (New) (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
-- Old Mac Donald (3stage, Cyberamic, Studio C,Weigl)
-- The Chuck E. (Do The Roll) (3stage, Cyberamic, Studio C,Weigl)
-- Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
-- Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
+- Chuck E. Birthday 2015 (New)
+- Spanish Rockstar Birthday
+- Do The Chuck E. 2015 (New)
+- Chuck E. Says
+- Old MacDonald
+- The Chuck E. (Do The Roll)
+- Happy & You Know It
+- Head, Shoulders, Knees & Toes
 
 ## Official Releases
 
@@ -73,10 +73,10 @@ This was created to play from December 29th 2014 - March 15th 2015. This show fe
   - To feature Mike Manly, Corby, Hard Hat Hank and Zoey, though the latter two through reused material.
   - To use Mike Wolf's original puppet, as well as his last appearance before Show 2, 2020.
   - To have a Hard Hat Hank intermission.
-- Winter 2015 was originally run until February 22nd 2015 but was extended till March 15th 2015.
+- Winter 2015 was originally supposed to run until February 22nd, 2015, but the end date was extended to March 15th 2015.
 - The Show Breaks in this show are originally from Summer 2014.
 - Hard Hat Hank - 'Box' is also originally from Summer 2014.
-- During Act 3 when scenes feature Chuck E. Cheese you can see the Pizza Time Theater logo on his shirt.
-- Mike Wolf & Corby were originally seen during September 2014 during flash back with Justin Beaver.
-- This show was originally planned to include six songs like most shows since April 2013, the latter two would've been covers. However, following the entertainment department's budget cut after the cat video lawsuit they were removed leaving the show with only four songs. This would've included Helen singing a new version of 'Crazy' from January 2008 and the other cover currently unknown.
+- The Pizza Time Theatre logo can be seen on Chuck E.'s shirt during scenes that take place in his home.
+- Mike Wolf & Corby were originally seen during September 2014 during flashback with Justin Beaver.
+- This show was originally planned to include six songs, like most shows since April 2013; the latter two would've been covers. However, following the entertainment department's budget cut after the cat video lawsuit, they were removed, leaving the show with only four songs. This would've included Helen singing a new version of 'Crazy' from January 2008, and the other cover is currently unknown.
 - Eric Neal wrote 'Dancin' Kitten'.
