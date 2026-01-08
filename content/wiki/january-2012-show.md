@@ -7,6 +7,7 @@ pageThumbnailFile = "yiyeZ9uOGZM5QAbMVtA8.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13", "Anonymous", "MultiMonorail"]
 citations = ["http://showbizpizza.com/info/documents/cec/cec_dept18-2012-12.pdf"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator, Show Announcer", "Robert Gotcher - Director, Voice of Jasper T. Jowls, Show Announcer (Unused version only)"]
+mediaDuration = "1:18:41"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/compress/january-show-2012-unused|Unused Original Audio", "https://archive.org/download/3stage_dvd_signals/January%202012%203-Stage-004.iso|3-Stage DVD ISO w/ Signals"]
 tags = ["Showtapes"]
@@ -15,25 +16,7 @@ categories = ["Chuck E. Cheese's"]
 **January 2012** is a compilation show featuring eight reused songs from 1999 - 2011 alongside newly recorded dialogue.
 This was created to play from January 1, 2012 - March 31, 2012, though was valid as a backup show until the end of 2012.{{< cite 1 >}} This was the final showtape to have Robert Gotcher involved in any capacity, though much of his work was altered or removed in the final release.
 
-## Unused Version
 
-An unused version of this show exists with every song after The Weekend being completely different, though most of the dialogue between songs is the same with a few differences. The show also featured Robert Gotcher in the role of Jasper, though the reused songs would still use Jeremy Blaido's voice. The Showtime intro at the beginning of each segment would also have Robert's voice, unlike the final version which had Matt Daniel dub over him. The final segment also contained two brand new songs, 'That's How It Would Go' and 'You Are My Best Friend'.
-Prior to being rerecorded, the segments (excluding intermissions) were:
-
-1.  **Segment 1**
-    1.  'First Impression'
-    2.  'Imagine Nation'
-2.  **Segment 2**
-    1.  'The Weekend'
-    2.  'I'm Gonna Dream'
-3.  **Segment 3**
-    1.  'Toppings'
-    2.  'Cleaning Up My Room'
-4.  **Segment 4**
-    1.  'That's How It Would Go'
-    2.  'You Are My Best Friend'
-
-After Robert Gotcher was fired as Director of Entertainment, the songs he wrote and his voice were removed from the show. Jeremy was brought back to record over his lines, Matt Daniel recorded a new version of the showtime intro, and most of the songs were replaced. 'First Impression', 'Imagine Nation', and 'The Weekend' were also altered, with the instrumentals being rerecorded for the former and new vocals for Jasper being recorded for the later. It is unknown if there were any intermission differences.
 
 ## Show List:
 
@@ -49,7 +32,7 @@ After Robert Gotcher was fired as Director of Entertainment, the songs he wrote 
     1.  'The Weekend'
     2.  'Jack and Jill'
 4.  **Intermission 2**
-    1.  CEC TV ID - 'Apple'
+    1.  CEC TV ID - 'Falling Apple'
     2.  Pocoyo Spot
     3.  Super Jasper - 'Resist The Tempation'
     4.  Chillout - 'Don't Let Your Feet Touch Ground' Footage
@@ -57,7 +40,7 @@ After Robert Gotcher was fired as Director of Entertainment, the songs he wrote 
     1.  'I Want My Chuck E. Cheese'
     2.  'Row Your Boat'
 6.  **Intermission 3**
-    1.  CEC TV ID - 'Chef'
+    1.  CEC TV ID - 'Pasta Chef'
     2.  Hot Air Balloon
     3.  WFW Babysitter
     4.  Chillout - 'Hip Mouse' Footage
@@ -81,7 +64,28 @@ After Robert Gotcher was fired as Director of Entertainment, the songs he wrote 
 
 ## Production
 
+## Unused Version
+
+An unused version of this show exists with every song after The Weekend being completely different, though most of the dialogue between songs is the same with a few differences. The show also featured Robert Gotcher in the role of Jasper, though the reused songs would still use Jeremy Blaido's voice. The Showtime intro at the beginning of each segment would also have Robert's voice, unlike the final version which had Matt Daniel dub over him. The final segment also contained two brand new songs, 'That's How It Would Go' and 'You Are My Best Friend'.
+Prior to being rerecorded, the segments (excluding intermissions) were:
+
+1.  **Segment 1**
+    1.  'First Impression'
+    2.  'Imagine Nation'
+2.  **Segment 2**
+    1.  'The Weekend'
+    2.  'I'm Gonna Dream'
+3.  **Segment 3**
+    1.  'Toppings'
+    2.  'Cleaning Up My Room'
+4.  **Segment 4**
+    1.  'That's How It Would Go'
+    2.  'You Are My Best Friend'
+
+Before release, Jeremy was brought back to record over Robert's lines, Matt Daniel recorded a new version of the showtime intro, and most of the songs were replaced. 'First Impression', 'Imagine Nation', and 'The Weekend' were also altered, with the instrumentals being rerecorded for the former and new vocals for Jasper being recorded for the latter. It is unknown if there were any intermission differences.
+
 ### File Dates
+
 
 - Studio C DVD: 12/07/11 1:01pm-1:02pm
 - 3-Stage DVD: 12/19/11 6:47pm-6:50pm
