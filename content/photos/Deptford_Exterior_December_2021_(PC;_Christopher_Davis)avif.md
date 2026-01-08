@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Deptford, NJ (1500 Almonesson Rd)"]
 
 citations = []
 +++

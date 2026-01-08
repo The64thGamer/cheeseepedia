@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Rocky Mount, NC (730 Sutters Creek Blvd)"]
 
 citations = []
 +++

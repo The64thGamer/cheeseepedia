@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Winchester Crusty the Cat V2 (Animatronic)"]
 
 citations = []
 +++
