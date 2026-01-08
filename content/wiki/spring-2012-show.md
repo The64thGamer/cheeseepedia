@@ -7,6 +7,7 @@ pageThumbnailFile = "Q2ACAtK2FHzatwvmNuGQ.avif"
 contributors = ["The 64th Gamer", "CEC Washington", "CyberSnout", "BurgersNuggs445", "Ceclife13", "Dame0824"]
 citations = ["https://www.youtube.com/watch?v=Abvo8H4Cnvc"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Larry the Technician", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Producer, Voice of Jasper, singing Voice of Pasqually", "Earl Fisher|Voice of Pasqually The Chef", "Matt Daniel|Director, Producer, Voice of Alowicious Dimpleton, Marvin The Technology Guru, Hard Hat Hank", "Ryan Hollingsworth|Voice of Zoey, Steve Waters", "Matt Rivera|Video Editor, Assistant", "T. Graybael|Camera"]
+mediaDuration = "1:34:59"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -15,10 +16,10 @@ categories = ["Chuck E. Cheese's"]
 
 ## Summary
 
-At the start of segment one, the Intro unexpectedly cuts to the Announcer (Alowicious Dimpleton) stating that he's unhappy with his life and that he's been envisioning to become a werewolf since he was a little boy, but since it was unattainable in his eyes he decides to set his goal into becoming a break dancing Teddy Bear. After telling the band this, Pasqually gives his own Teddy Bear costume to Alowicious. This costume would appear throughout the show. After the band sings 'Party Rock' we are Introduced to Steve Waters, Pasqually's vocal Coach, who advertises Pepsi Max throughout the segment. Steve convinces Pasqually to sing a song that they've been practicing, 'The Final Countdown'. Partly through the song, it is revealed that Pasqually has actually been lip-syncing Steve Waters. The band and Steve encourage Pasqually to get over his fears and finish the song, which he does successfully. After the song, Steve says goodbye and leaves on a jet-ski. At the end of the segment, Larry asks Chuck if he can change the channel to watch his new favorite show 'Hard Hat Hank'.
-In segment two, Munch receives an email from a fan on his keyboard which asks the band what they like to do in their free time. The band takes turns answering the question. After Pasqually's answers weirds out the rest of the band, they perform 'Camouflage'. After the song the band discusses how they are all unique, then Chuck E. introduces VeggieTales.
-Segment three starts with Chuck E. introducing the band. Then Helen talks about a romantic dream she had which leads into 'Love Story'. After the song, the show gets interrupted by Alowicious who is looking for his keys. Pasqually then asks Munch to sing a song he's been working on. After the song, Marvin The Technology Guru shows up and Chuck E. introduces him to the audience. Marvin showcases various inventions he has discovered, though all of the inventions are well-known things that already exist.
-Segment four starts with Alowicious introducing the band. Then Chuck E. sadly greets the audience and reveals that he wanted to go for a bike ride but something was wrong with his wheel. He tells the story by singing 'Need A New Wheel', and by the end of the song everything is better. The band then discusses how all of their problems seem to get solved by singing. Pasqually tells the band it's time for a joke, and a new theme song plays which also announces that it's time for a joke. After the joke, Chuck E. convinces Helen to sing a new song she's been practicing. After she sings 'Best of My Love', the band tells the audience how much they appreciate them. This leads Pasqually into talking about how he used to be in a band of squirrels that rarely had an audience. As the segment ends, Munch finally figures out the joke Pasqually told earlier.
+   At the start of segment one, the Announcer (Alowicious Dimpleton) stops in the middle of the showtime intro, stating that he's unhappy with his life and wants to become a break dancing Teddy Bear. Pasqually gives his own Teddy Bear costume to Alowicious, and this costume would appear throughout the show. After the band sings 'Party Rock' the band is introduced to Steve Waters, Pasqually's vocal Coach, who advertises Pepsi Max throughout the segment. Steve convinces Pasqually to sing a song that they've been practicing, 'The Final Countdown'. Partly through the song, it is revealed that Pasqually has actually been lip-syncing to Steve Waters. The band and Steve encourage Pasqually to get over his fears and finish the song, which he does successfully. After the song, Steve says goodbye and leaves on a jet ski. At the end of the segment, Larry the Technician asks Chuck if he can change the channel to watch his new favorite show, 'Hard Hat Hank'.
+   In segment two, Munch receives an email from a fan on his keyboard, which asks the band what they like to do in their free time. The band takes turns answering the question. After Pasqually's answers weird out the rest of the band, they perform 'Camouflage'. After the song, the band discusses how they are all unique, then Chuck E. introduces VeggieTales.
+   Segment three starts with Chuck E. introducing the band. Then Helen talks about a romantic dream she had, which leads into 'Love Story'. After the song, the show gets interrupted by Alowicious, who is looking for his keys. Pasqually then asks Munch to sing a song he's been working on. After the song, Marvin the Technology Guru shows up, and Chuck E. introduces him to the audience. Marvin showcases various inventions he has discovered, though all of the inventions are well-known things that already exist.
+   Segment four starts with Alowicious introducing the band. Then Chuck E. sadly greets the audience and reveals that he wanted to go for a bike ride, but something was wrong with his wheel. He tells the story by singing 'Need A New Wheel', and by the end of the song, everything is better. The band then discusses how all of their problems seem to get solved by singing. Pasqually tells the band it's time for a joke, and a new theme song plays, which also announces that it's time for a joke. After the joke, Chuck E. convinces Helen to sing a new song she's been practicing. After she sings 'Best of My Love', the band tells the audience how much they appreciate them. This leads Pasqually into talking about how he used to be in a band of squirrels that rarely had an audience. As the segment ends, Munch finally figures out the joke Pasqually told earlier.
 
 ## Show List
 
@@ -30,7 +31,7 @@ Segment four starts with Alowicious introducing the band. Then Chuck E. sadly gr
     2.  Fraggle Rock - 'The Friendship Song'
     3.  Magic Ticket Spot
     4.  Chillout - 'Animals'
-    5.  CEC TV ID - 'Rocketship'
+    5.  CEC TV ID - 'Rocket'
 3.  **Segment 2**
     1.  ['Everybody Have Fun Tonight'](https://en.wikipedia.org/wiki/Everybody_Have_Fun_Tonight)
     2.  ['Camouflage'](https://en.wikipedia.org/wiki/Camouflage_(Brad_Paisley_song))
@@ -38,7 +39,7 @@ Segment four starts with Alowicious introducing the band. Then Chuck E. sadly gr
     1.  VeggieTales - 'Bubble Rap'
     2.  The Dirty Sock Funtime Band - 'Love It'
     3.  Chillout - 'Flying'
-    4.  CEC TV ID - 'Astronaut'
+    4.  CEC TV ID - 'Astronauts'
 5.   **Segment 3**
     1.  ['Love Story'](https://en.wikipedia.org/wiki/Love_Story_(Taylor_Swift_song))
     2.  'Pizza Oven' (Parody of ['Evil Woman'](https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song)))
@@ -46,7 +47,7 @@ Segment four starts with Alowicious introducing the band. Then Chuck E. sadly gr
     1.  Fraggle Rock - 'Gonna Have Fun Tonight'
     2.  Fundraising Spot
     3.  Chillout - 'Shopping Cart'
-    4.  CEC TV ID - 'Blue'
+    4.  CEC TV ID - 'Flashing Hand'
 7.  **Segment 4**
     1.  'I Need A New Wheel' (Parody of ['Head Over Heels'](https://en.wikipedia.org/wiki/Head_over_Heels_(Tears_for_Fears_song)))
     2.  ['Best of My Love'](https://en.wikipedia.org/wiki/Best_of_My_Love_(The_Emotions_song))
@@ -58,12 +59,12 @@ Segment four starts with Alowicious introducing the band. Then Chuck E. sadly gr
     5.  Chillout - 'Green Room'
     6.  CEC TV ID - 'Marx Bros'
 
-## Lives:
+## Live Shows:
 
 - Birthday 2009
 - Spanish Birthday 2010
-- {{< wiki-link "Bingo" >}}
-- {{< wiki-link "Chuck E Says 02" >}}
+- {{< wiki-link "BINGO" >}}
+- {{< wiki-link "Chuck E Says 2002" >}}
 - If You're Happy & You Know It
 - Old MacDonald
 
