@@ -5,6 +5,6 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Huntington Beach, CA (15031 Goldenwest St)"]
 startDate = "2025-09-28"
-citation = "https://youtu.be/ZxXS__w51lI"
+citations = ["https://youtu.be/ZxXS__w51lI"]
 +++
 Huntington Beach's Exterior

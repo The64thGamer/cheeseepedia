@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/B-hzfF7TwSc"
-startdate = "2004-11-29"
+startDate = "2004-11-29"
 pages = ["New Orleans, LA (3701 General DeGaulle Dr)", "Concept Unification Stage"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

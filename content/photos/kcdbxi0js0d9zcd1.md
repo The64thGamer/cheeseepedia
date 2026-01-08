@@ -5,6 +5,6 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Stockton, CA (4555 N Pershing Ave)", "Chuck E.'s House Facade"]
 startDate = "0000-00-00"
-citation = "CEP Discord"
+citations = ["CEP Discord"]
 +++
 Birthday Party at Stockton

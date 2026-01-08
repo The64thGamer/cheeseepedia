@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/32VZK1JUwxk"
-startdate = "2022-11-21"
+startDate = "2022-11-21"
 pages = ["Country Klunk", "Classic Stage", "Rolfe Dewolfe & Earl Schmerle (Animatronic)"]
 tags = ["Videos"]
 categories = ["ShowBiz Pizza Place", "Creative Engineering"]

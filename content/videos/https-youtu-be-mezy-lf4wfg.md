@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/mEZy-LF4WFg"
-startdate = "2017-02-23"
+startDate = "2017-02-23"
 pages = ["Arlington, TX (2216 S Fielder Rd)", "Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Mr. Munch (Cyberamic)", "Jasper T. Jowls (Cyberamic)", "Pasqually (Cyberamic)", "Wink (Cyberamic)", "2-Stage", "Chuck E. Cheese's Show 1 2017"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

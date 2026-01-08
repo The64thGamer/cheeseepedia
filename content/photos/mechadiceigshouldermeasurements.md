@@ -1,6 +1,6 @@
 +++
 title = "Mechadiceigshouldermeasurements.avif"
-startdate = "2025-03-11"
+startDate = "2025-03-11"
 citations = ["EnderSkippy"]
 pages = ["Cyberamic Shoulder Bar"]
 tags = ["Photos"]

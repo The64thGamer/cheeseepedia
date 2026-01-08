@@ -1,6 +1,6 @@
 +++
 title = "Site Changes: Work in Progress!"
-startdate = "2025-07-22"
+startDate = "2025-07-22"
 pageThumbnailFile = "GnoV9ijC2b_NYaIy5vFS.avif"
 contributors = ["Stripes"]
 citations = []

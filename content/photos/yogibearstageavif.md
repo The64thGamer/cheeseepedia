@@ -1,6 +1,6 @@
 +++
 title = "yogibearstage.avif"
-startdate = "1987-00-00"
+startDate = "1987-00-00"
 citations = []
 pages = ["Yogi Bear Stage","Yogi Bear (Animatronic)"]
 tags = ["Photos"]

@@ -1,6 +1,6 @@
 +++
 title = "Cantagallo, Chile Chuck E. Cheese Store Installs Animatronic Ad Above Storefront"
-startdate = "2025-01-30"
+startDate = "2025-01-30"
 pageThumbnailFile = "345y4hrth45h4h.avif"
 contributors = ["The 64th Gamer"]
 citations = ["cheeseepedia.org/photos/9283uh94h9h.avif"]

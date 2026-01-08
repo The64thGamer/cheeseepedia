@@ -1,6 +1,6 @@
 +++
 title = "Bull Airs Cancelled Billy Bob Nike & SneakerHeadz"
-startdate = "2025-01-21"
+startDate = "2025-01-21"
 pageThumbnailFile = "897heriu34ivn34.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.instagram.com/bull_airs_official/reel/DE5OXiQpHol/"]

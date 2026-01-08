@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/YuPsiJM7q4o"
-startdate = "1982-00-00"
+startDate = "1982-00-00"
 pages = ["Sacramento (Florin Mall), CA (7020 Stockton Blvd)"]
 tags = ["Videos"]
 categories = ["Pizza Time Theatre"]

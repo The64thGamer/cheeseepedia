@@ -5,6 +5,6 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Huntington Beach, CA (15031 Goldenwest St)"]
 startDate = "2025-05-00"
-citation = "Google Maps"
+citations = ["Google Maps"]
 +++
 Huntington Beach exterior under construction.

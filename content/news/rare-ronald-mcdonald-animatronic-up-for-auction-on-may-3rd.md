@@ -1,6 +1,6 @@
 +++
 title = "Rare Ronald Mcdonald Animatronic Up For Auction On May 3rd"
-startdate = "2025-05-01"
+startDate = "2025-05-01"
 pageThumbnailFile = "ronalthedonal.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.liveauctioneers.com/item/204862584_rare-ronald-mcdonald-original-robot-figure/?utm_source=LA_Mobile_Share&utm_medium=mobile&utm_campaign=LAiOSshare"]

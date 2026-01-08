@@ -1,6 +1,6 @@
 +++
 title = "09kojeonvev.avif"
-startdate = "2024-12-19"
+startDate = "2024-12-19"
 citations = []
 pages = ["Showtape"]
 tags = ["Photos"]

@@ -1,6 +1,6 @@
 +++
 title = "New Info on CEI's Upcoming Volo Showtape"
-startdate = "2025-04-22"
+startDate = "2025-04-22"
 pageThumbnailFile = "volo94ut0349ut3oij.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://youtu.be/TXpXiDj2Z8s", "Correspondance with CEI and Volo employees."]

@@ -4,28 +4,10 @@ startDate = "1993-00-00"
 endDate = "2014-00-00"
 stages = ["Classic Stage|1993-00-00|2014-00-00|"]
 franchisees = []
-animatronics = [
-  "Rolfe Dewolfe & Earl Schmerle (Animatronic)|1993-00-00|2011-00-00|1-83 1-47|Owned by private collector.",
-  "Dook Larue (Animatronic)|1993-00-00|2011-00-00|1-83 2-47|Owned by private collector.",
-  "Fatz Geromino (Animatronic)|1993-00-00|2011-00-00|1-83 3-47|Owned by private collector.",
-  "Beach Bear (Animatronic)|1993-00-00|2011-00-00|1-83 4-47|Owned by private collector.",
-  "Mitzi Mozzerella (Animatronic)|1993-00-00|2011-00-00|1-83 5-47|Owned by private collector.",
-  "Billy Bob (Animatronic)|1993-00-00|2011-00-00|1-83 6-47|Owned by private collector.",
-  "Looney Bird (Animatronic)|1993-00-00|2011-00-00|1-83 7-47|Owned by private collector.",
-  "Choo-Choo (Animatronic)|1993-00-00|2011-00-00|1-83 8-47|Owned by private collector.",
-  "Antioch (Animatronic)|1993-00-00|2011-00-00|1-83 9-47|Owned by private collector.",
-  "Sun (Animatronic)|1993-00-00|2011-00-00|1-83 10-47|Owned by private collector.",
-  "Moon (Animatronic)|1993-00-00|2011-00-00|1-83 11-47|Owned by private collector."
-]
+animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1993-00-00|2011-00-00|1-83 1-47|Owned by private collector.", "Dook Larue (Animatronic)|1993-00-00|2011-00-00|1-83 2-47|Owned by private collector.", "Fatz Geromino (Animatronic)|1993-00-00|2011-00-00|1-83 3-47|Owned by private collector.", "Beach Bear (Animatronic)|1993-00-00|2011-00-00|1-83 4-47|Owned by private collector.", "Mitzi Mozzerella (Animatronic)|1993-00-00|2011-00-00|1-83 5-47|Owned by private collector.", "Billy Bob (Animatronic)|1993-00-00|2011-00-00|1-83 6-47|Owned by private collector.", "Looney Bird (Animatronic)|1993-00-00|2011-00-00|1-83 7-47|Owned by private collector.", "Choo-Choo (Animatronic)|1993-00-00|2011-00-00|1-83 8-47|Owned by private collector.", "Antioch (Animatronic)|1993-00-00|2011-00-00|1-83 9-47|Owned by private collector.", "Sun (Animatronic)|1993-00-00|2011-00-00|1-83 10-47|Owned by private collector.", "Moon (Animatronic)|1993-00-00|2011-00-00|1-83 11-47|Owned by private collector."]
 sqft = ""
 latitudeLongitude = ["40.71481886138825","-73.42656605338004"]
-citations = [
-  "Newspapers.com, Newsday, 1993-2011", 
-  "https://www.youtube.com/watch?v=5AHHayUEAa4",
-  "https://web.archive.org/web/*/http://www.funzoneamusements.com/",
-  "https://www.facebook.com/funzonefarmingdaleny/",
-  "https://www.tapatalk.com/groups/retro_pizza_zone/tills-totally-terrible-thotos-t6527-s460.html",
-  "https://westseattleblog.com/2012/02/west-seattle-businesses-whats-up-in-the-former-petco-space/"
+citations = ["Newspapers.com, Newsday, 1993-2011", "https://www.youtube.com/watch?v=5AHHayUEAa4", "https://web.archive.org/web/*/http://www.funzoneamusements.com/", "https://www.facebook.com/funzonefarmingdaleny/", "https://www.tapatalk.com/groups/retro_pizza_zone/tills-totally-terrible-thotos-t6527-s460.html", "https://westseattleblog.com/2012/02/west-seattle-businesses-whats-up-in-the-former-petco-space/"
 ]
 contributors = ["Stripes"]
 downloadLinks = []

@@ -5,6 +5,6 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["ShowBiz Prize Place"]
 startDate = "2025-12-03"
-citation = "Twitter"
+citations = ["Twitter"]
 +++
 Twitter Ad featuring a fan-render.

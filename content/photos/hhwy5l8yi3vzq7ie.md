@@ -5,6 +5,6 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Huntington Beach, CA (15031 Goldenwest St)"]
 startDate = "2025-09-00"
-citation = "CEC Website"
+citations = ["CEC Website"]
 +++
 Opening dates for Huntington Beach.

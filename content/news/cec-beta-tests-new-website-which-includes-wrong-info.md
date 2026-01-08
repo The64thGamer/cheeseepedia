@@ -1,6 +1,6 @@
 +++
 title = "CEC Beta Tests New Website, Which Includes Wrong Info"
-startdate = "2025-02-16"
+startDate = "2025-02-16"
 pageThumbnailFile = "eeutKPgGC197i2lCDe1z.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://ww2.chuckecheese.com/our-history/", "https://ww2.chuckecheese.com/new/"]

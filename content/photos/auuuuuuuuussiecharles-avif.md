@@ -1,6 +1,6 @@
 +++
 title = "auuuuuuuuussiecharles.avif"
-startdate = "2025-03-17"
+startDate = "2025-03-17"
 pages = ["Perth, Australia"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]

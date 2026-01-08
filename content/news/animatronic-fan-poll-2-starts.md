@@ -1,6 +1,6 @@
 +++
 title = "Animatronic Fan Poll 2 Starts!"
-startdate = "2025-05-30"
+startDate = "2025-05-30"
 pageThumbnailFile = "Mn5SDKAE31xlkb6iL7Hs.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://docs.google.com/forms/d/e/1FAIpQLSfGD7p11lEgATIrGB6Z4Opt2tE0MyPkpzrJAfAxHXA0gdOQKw/viewform?usp=header", "https://docs.google.com/spreadsheets/d/1qRNedJYaAhRyiSuFHZPH8bSTA1WjjoU3aO3b2eQcJdE/edit?usp=sharing"]

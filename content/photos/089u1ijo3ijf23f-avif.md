@@ -1,6 +1,6 @@
 +++
 title = "089u1ijo3ijf23f.avif"
-startdate = "2024-12-19"
+startDate = "2024-12-19"
 citations = []
 pages = ["Showtape"]
 tags = ["Photos"]

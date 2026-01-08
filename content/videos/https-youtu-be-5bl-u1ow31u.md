@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/5bL-U1Ow31U"
-startdate = "2006-00-00"
+startDate = "2006-00-00"
 pages = ["Orlando, FL (47 W Jefferson St)", "Country Klunk", "Rolfe Dewolfe & Earl Schmerle (Animatronic)", "Classic Stage", "Dook Larue (Animatronic)", "Fatz Geronimo (Animatronic)"]
 tags = ["Videos"]
 categories = ["ShowBiz Pizza Place", "Creative Engineering"]

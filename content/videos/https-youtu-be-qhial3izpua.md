@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/QHIal3IZPUA"
-startdate = "1989-00-00"
+startDate = "1989-00-00"
 pages = ["San Jose, CA (2445 Fontaine Rd", "Half-A-Chuck (Cyberamic)", "Half-A-Chuck San Jose Museum Showtape"]
 tags = ["Videos"]
 categories = ["Pizza Time Theatre"]

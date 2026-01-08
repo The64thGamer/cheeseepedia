@@ -5,6 +5,6 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Huntington Beach, CA (15031 Goldenwest St)"]
 startDate = "2025-00-00"
-citation = "CEP Discord"
+citations = ["CEP Discord"]
 +++
 Grand Reopening Ad
