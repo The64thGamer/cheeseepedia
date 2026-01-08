@@ -5,6 +5,6 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Citrus Heights, CA (7614 Greenback Lane)"]
 startDate = "1985-01-00"
-citation = ""
+citations = []
 +++
 Citrus Heights Auction Results

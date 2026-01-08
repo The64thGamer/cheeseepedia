@@ -5,6 +5,6 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Awesome Adventure Machine", "Dallas, TX (13125 Montfort Dr)"]
 startDate = "0000-00-00"
-citation = ""
+citations = []
 +++
 Awesome Adventure Machine

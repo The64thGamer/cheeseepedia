@@ -5,6 +5,6 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Sparks, NV (530 Greenbrae Dr)"]
 startDate = "1982-05-21"
-citation = ""
+citations = []
 +++
 Sparks Exterior in Remodel Plans
