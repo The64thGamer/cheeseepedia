@@ -7,6 +7,7 @@ pageThumbnailFile = "xiwL0CJmrk8qDmYDYinW.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/September%202002%20Studio%20C.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Mike Manley, Wick Ladderback, Betty, Show Announcer", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator, Shining Star, DJ", "Ryan Hollingsworth - Hank Howdy", "Sammy Davenport - Music Director"]
+mediaDuration = "1:17:07"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/September%202002%203-Stage-001.ISO|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio-c-floppy-discs-rips/Sept2002ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/September%202002%20Studio%20C.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
@@ -52,7 +53,7 @@ This show featured 4 segments with 8 songs.
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Locomotion
 - Chuck E. March 2001
