@@ -8,7 +8,8 @@ contributors = ["CyberSnout", "Montfortdog", "John95", "Ceclife13", "The 64th Ga
 citations = []
 credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Matt Daniel - Production Coordinator", "Michael Hill - Studio Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-alsoKnownAs = ["Chuck E. Cheese Happy Holidays 2012*USA VERSION*This DVD is only to be played at Chuck E. Cheese's locations with the CEC Stage DVD ShowPlay only during the month of December 20102.(C) Copyright 2012 CEC Entertainment Concepts L.P.All rights reserved.The more you give,the more you get."]
+alsoKnownAs = ["Chuck E. Cheese Happy Holidays 2012*USA VERSION*This DVD is only to be played at Chuck E. Cheese's locations with the CEC Stage DVD ShowPlay only during the month of December 2012.(C) Copyright 2012 CEC Entertainment Concepts L.P.All rights reserved.The more you give,the more you get."]
+mediaDuration = "1:31:40"
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
