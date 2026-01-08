@@ -12,8 +12,8 @@ showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***September 2010* was a 'best of' show which released on September 1, 2010 and played through November 30th.
-This show featured eight songs from various shows released throughout the 2000s.**
+***September 2010*** was a 'best of' show which played through the fall of 2010.
+This show featured eight songs from various shows released throughout the 2000s.
 
 ## Show List
 
