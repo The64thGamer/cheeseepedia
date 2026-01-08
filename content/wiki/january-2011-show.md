@@ -35,7 +35,7 @@ categories = ["Chuck E. Cheese's"]
     9.  Animal Atlas - 'Animal Passport'
     10.  Dive Olly Dive! - 'Uma Under The Weather'
     11. Chuggington - 'Badge Quest'
-    12. CEC TV ID - 'Chuck E. Skateboarding'
+    12. CEC TV ID - 'Skateboarding'
     13. Countdown 2
 4.  **Segment 2**
     1.  ['Perfect Day'](https://en.wikipedia.org/wiki/Legally_Blonde_(soundtrack))
