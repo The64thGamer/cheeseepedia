@@ -7,12 +7,13 @@ pageThumbnailFile = "Xgh0u6_q8k_M2CLrC70O.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "BurgersNuggs445", "RedaCEC"]
 citations = ["https://www.showbizpizza.com/info/documents/cec/cec_dept18-2001-09.pdf"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Betty", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator", "Brian Hagan - Studio Manager", "Brent Gray - Studio Coordinator", "Sammy Davenport - Music Director"]
+mediaDuration = "51:40"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept2001Upgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/Sept2001Version2.img|Studio C Floppy Disk (Ver. 2)", "https://archive.org/download/studio_c_showtape_dvds/September%202001%20Studio%20C.iso|Studio C DVD ISO", "https://archive.org/download/cyberamics_post_93_svhs_signals/September%202001%20CEC-Stage.iso|CEC-Stage SVHS"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**September 2001 Show** was a show that released in September 2001 and ran through November 2001.
+**September 2001 Show** was a show that was released in September 2001 and ran through November 2001.
 This show featured 4 segments with 8 songs.
 
 
@@ -33,7 +34,7 @@ This show featured 4 segments with 8 songs.
     1.  CEC TV ID - 'Marx Bros'
     2.  Eddie Coker - 'I Believe'
     3.  Store Intro - 'Spokane WA, CEC'
-    4.  CEC TV ID - 'Rocketship'
+    4.  CEC TV ID - 'Rocket'
     5.  Ski Time! (Studio C)
 5.  **Segment 3**
     1.  'Paper or Plastic' (Parody of ['Paperback Writer'](https://en.wikipedia.org/wiki/Paperback_Writer))
@@ -56,7 +57,7 @@ This show featured 4 segments with 8 songs.
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - What I Like About You
 - Chuck E. Says
