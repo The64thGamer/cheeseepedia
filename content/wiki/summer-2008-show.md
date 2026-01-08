@@ -39,7 +39,7 @@ This show was released in July 2008 and played until August.
     1.  CEC TV ID - 'Haircut'
     2.  Bday Promo
     3.  Monkey Ninjas Episode 4
-    4.  CEC TV ID - 'Chuck E. Skateboarding'
+    4.  CEC TV ID - 'Skateboarding'
 7.  **Segment 4**
     1.  'I Love the Sunshine'
     2.  'Chuck E. Cheese' (Parody of [I Feel for You](https://en.wikipedia.org/wiki/I_Feel_for_You))
@@ -47,7 +47,7 @@ This show was released in July 2008 and played until August.
     1.  CEC TV ID - 'Flashing Hand'
     2.  PBS Kids Spot
     3.  Shrek Promo
-    4.  CEC TV ID - 'Chuck E. Sunrise'
+    4.  CEC TV ID - 'Sunrise'
 
 ## Lives:
 
