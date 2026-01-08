@@ -7,12 +7,13 @@ pageThumbnailFile = "KDKawL5m8G0dd0I_B1vZ.avif"
 contributors = ["The 64th Gamer", "Agent 5", "Ceclife13", "John95"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/January%202002%20Studio%20C-006.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Polka Minute Announcer, Will Frye", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator, Show Announcer", "Ryan Hollingsworth - Hank Howdy"]
+mediaDuration = "56:58"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Jan2002ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/January%202002%20Studio%20C-006.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***January 2002 Show* was a show that released in January of 2002 at Chuck E. Cheese's locations.**
+***January 2002 Show*** was a show that was released in January of 2002 at Chuck E. Cheese's locations.
 
 ## Show List
 
@@ -42,14 +43,14 @@ categories = ["Chuck E. Cheese's"]
         1.   ['Let Me Be There'](https://en.wikipedia.org/wiki/Let_Me_Be_There)
         2.   ['On The Road Again'](https://en.wikipedia.org/wiki/On_the_Road_Again_(Willie_Nelson_song))
 8.  **Intermission 4**
-    1.  CEC TV ID - 'Cow Abduction'
+    1.  CEC TV ID - 'Cows'
     2.  VeggieTales - 'The Pirates Who Don't Do Anything'
     3.   Monkey Ninjas - Episode 1
     4.  CEC TV ID - 'Rocket'
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Land of 1000 Dances
 - Chuck E Says 2002
