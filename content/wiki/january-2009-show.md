@@ -29,7 +29,7 @@ This was created to play from January to March 2009.
     1. ['Working In The Coal Mine'](https://en.wikipedia.org/wiki/Working_in_the_Coal_Mine)
     2. ['Overkill'](https://en.wikipedia.org/wiki/Overkill_(Men_at_Work_song))
 4. **Intermission 2**
-    1. CEC TV ID - 'Astronaut'
+    1. CEC TV ID - 'Astronauts'
     2. Exercise TV Spot
     3. 3-2-1 Penguins Promo
 5. **Segment 3**
