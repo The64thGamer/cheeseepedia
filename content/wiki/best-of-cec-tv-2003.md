@@ -65,7 +65,7 @@ This show is made up of songs and intermissions reused from various 2000 - 2002 
 
 ## Lives:
 
-**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - {{< wiki-link "Birthday Star 01" >}}
 - Spanish Birthday 01
