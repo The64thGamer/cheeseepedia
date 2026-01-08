@@ -7,12 +7,13 @@ pageThumbnailFile = "VWyaqvxIywrhnGFIhu0b.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Haywardmaster", "Anonymous", "Dame0824", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/September%202009%20Studio%20C.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls ", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Ryan Hollingsworth - Production Specialist", "Michael Hill - Studio Coordinator", "Dave Wilson - Songwriter (\"Toppings\", \"Fall For Everyone\", \"Let's Dance\")"]
+mediaDuration = "53:28"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/September%202009%20Studio%20C.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/September%202009%203-Stage-002.iso|3-Stage DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**September 2009** was a showtape with eight songs which played through the fall of 2009.
+**September 2009** was a showtape with eight songs that played through the fall of 2009.
 
 ## Show List:
 
@@ -34,7 +35,7 @@ categories = ["Chuck E. Cheese's"]
     2.  Sing-along Guys - 'Itsy Bitsy Spider'
     3.  Amphicar
     4.  Bday Promo
-    5.  CEC TV ID - 'Pizza Fan'
+    5.  CEC TV ID - 'Pasta Fan'
 5.  **Segment 3**
     1.  'Toppings'
     2.  'Fall For Everyone'
@@ -48,7 +49,7 @@ categories = ["Chuck E. Cheese's"]
     1.  ['Don't Let Your Feet Touch Ground'](https://en.wikipedia.org/wiki/Ash_Koley)
     2.  'I'm Gonna Dream'
 8.  **Intermission 4**
-    1.  CEC TV ID - 'Astronaut Chuck E.'
+    1.  CEC TV ID - 'Astronauts'
     2.  NASA Footage
     3.  Baking With Betty - 'Mad Cows'
     4.  CEC TV ID - 'Claw Machine'
