@@ -7,13 +7,14 @@ pageThumbnailFile = "svusq8wij01eq95dksyq.avif"
 contributors = ["The 64th Gamer", "Agent 5", "Ceclife13", "John95", "Tux Chuck"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/April%202002%20Studio%20C-008.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper, Mike Manly, Betty", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator", "Ryan Hollingsworth - Hank Howdy"]
+mediaDuration = "53:47"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/April%202002%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio-c-floppy-discs-rips/April2002VerB.img|Studio C Floppy Disk (Ver. B)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***April 2002 Show* was a show that released in April and ran through June 2002.
-This show featured 4 segments with 8 songs.**
+***April 2002 Show*** was a show that released in April and ran through June 2002.
+This show featured 4 segments with 8 songs.
 
 
 ## Show List:
@@ -56,7 +57,7 @@ This show featured 4 segments with 8 songs.**
 
 ## Lives
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Chuck E. March 2001
 - Havin' A Party 2001
@@ -92,6 +93,6 @@ This show received a 'Version B' floppy disk for Studio C which fixed an issue t
 ## Trivia
 
 - Eddie Coker's 'Woo Woo Dance' was reused from the {{< wiki-link "Just for Kids Show 2000" >}} and 'Time to Fly' was reused from {{< wiki-link "Summertime 2000" >}}.
-- In 'Go to Chuck E. Cheese' Chuck E. yells 'Come on Rob!'. This is a reference to Robert Gotcher.
+- In 'Go to Chuck E. Cheese', Chuck E. yells, 'Come on Rob!' This is a reference to Robert Gotcher.
 - Chuck's curtains close during 'Everywhere' on all versions of the show.
-- ‘Rockin’ Christmas Eve’ and ‘Patriotic Live 2000’ both appear on the Studio C DVDs but could not be played.
+- ‘Rockin’ Christmas Eve’ and ‘Patriotic Live 2000’ both appear on the Studio C DVDs, but could not be played.
