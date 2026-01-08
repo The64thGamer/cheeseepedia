@@ -76,7 +76,6 @@ categories = ["Chuck E. Cheese's"]
 - Happy and You Know It
 - BINGO
 - Chuck E. Says 2002
-- Chuck E. Shuffle (Existing Stages)
 - Go Santa Go (Existing Stages)
 
 **Birthday Break**: January 2005 logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
