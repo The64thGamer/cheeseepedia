@@ -22,7 +22,7 @@ categories = ["Chuck E. Cheese's"]
     4.  Holiday VJ Spot - Michael
 2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
+    2.  'Up On The Housetop'
 3.  **Intermission 2**
     1.  'Coke Spot
     2.  Larry The Technician - 'Decorating The Tree'
@@ -65,4 +65,5 @@ categories = ["Chuck E. Cheese's"]
 - New Birthday (Birthday 2002)
 - Go Santa Go
 
-**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 or 2-minute countdown, which would then lead to the Birthday show.
+
