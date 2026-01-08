@@ -7,12 +7,13 @@ pageThumbnailFile = "xsnNiuQl_cCCmD4pnzpy.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "CyCGM"]
 citations = ["https://youtu.be/Xfk9e0scyY4"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist", "Sammy Davenport - Music Director"]
+mediaDuration = "1:00:12"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/September2006.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/September%202006%20Studio%20C.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/September%202006%203-Stage-005.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**September 2006 Show** was a showtape released in September 2006.
+**September 2006 Show** was a showtape released in the fall of 2006 featuring six new song covers and two originals from previous shows.
 
 ## Show List:
 
@@ -67,7 +68,7 @@ categories = ["Chuck E. Cheese's"]
 - Happy and You Know It
 - Chuck E. Swing 
 
-**Birthday Break**: April 2005 show logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+**Birthday Break**: April 2005 show logo with music set to a 1 or 2 minute countdown, which would then lead into the Birthday show.
 
 ## Production
 
