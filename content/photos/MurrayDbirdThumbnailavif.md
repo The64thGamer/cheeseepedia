@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Click / Murray D. Bird (Animatronic)"]
 
 citations = []
 +++

@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Everett, MA (29 Mystic View Rd)"]
 
 citations = []
 +++

@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Prototype Octopus (Cyberamic)"]
 
 citations = []
 +++

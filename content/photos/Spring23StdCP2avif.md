@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Chuck E. Cheese Spring Show 2023"]
 
 citations = []
 +++

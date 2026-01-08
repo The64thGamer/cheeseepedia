@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["5-1-96 (Manager)"]
 
 citations = []
 +++
