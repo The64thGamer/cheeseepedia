@@ -1,6 +1,6 @@
 +++
 title = "YogiBearAdvert.avif"
-startdate = "1987-10-00"
+startDate = "1987-10-00"
 citations = ["https://www.newspapers.com/article/omaha-world-herald-yogi/164127100/"]
 pages = ["Introducing: Yogi Bear!"]
 tags = ["Photos"]

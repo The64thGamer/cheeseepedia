@@ -1,7 +1,7 @@
 +++
 recommend = true
 title = "Good start, but not future proof."
-startdate = "2025-02-22"
+startDate = "2025-02-22"
 page = "San Jose, CA (370 S Winchester Blvd)"
 contributors = ["Chouts1"]
 tags = ["Reviews"]

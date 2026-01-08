@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/j9p-h4UeRxU"
-startdate = "2006-06-21"
+startDate = "2006-06-21"
 pages = ["San Antonio, TX (6874 Ingram Rd)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

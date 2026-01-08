@@ -1,6 +1,6 @@
 +++
 title = "ojnerfgojn34otjn.avif"
-startdate = "1983-00-00"
+startDate = "1983-00-00"
 citations = ["https://youtu.be/kOEfBdSU6WA"]
 pages = ["Guest Star / Helen Henny (Cyberamic)"]
 tags = ["Photos"]

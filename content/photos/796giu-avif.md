@@ -1,6 +1,6 @@
 +++
 title = "796giu.avif"
-startdate = "2024-12-19"
+startDate = "2024-12-19"
 citations = []
 pages = ["60 Minute Emergency Back-Up (Best of 93)"]
 tags = ["Photos"]

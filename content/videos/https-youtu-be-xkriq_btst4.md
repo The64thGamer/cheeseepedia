@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/xKRIQ_bTST4"
-startdate = "1992-05-30"
+startDate = "1992-05-30"
 pages = ["Brandon, FL (1540 W Brandon Blvd)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

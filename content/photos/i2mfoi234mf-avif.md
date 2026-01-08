@@ -1,6 +1,6 @@
 +++
 title = "i2mfoi234mf.avif"
-startdate = "0000-00-00"
+startDate = "0000-00-00"
 pages = ["Animatronic Measurements & Parts Catalogue"]
 tags = ["Photos"]
 categories = ["Pizza Time Theatre"]

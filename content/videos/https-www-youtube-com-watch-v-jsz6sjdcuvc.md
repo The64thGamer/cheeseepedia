@@ -1,6 +1,6 @@
 +++
 title = "https://www.youtube.com/watch?v=JSZ6SJDCuvc"
-startdate = "1980-00-00"
+startDate = "1980-00-00"
 pages = ["Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Mr. Munch (Cyberamic)", "Pasqually (Cyberamic)", "Jasper T. Jowls (Cyberamic)", "Dolli Dimples (Cabaret)", "Cyberamics Portrait / Shelf Stage", "Maple Heights, OH (5376 Northfield Rd)"]
 mirroredLinks = ["https://youtu.be/1PnSUzr1Aek"]
 tags = ["Videos"]

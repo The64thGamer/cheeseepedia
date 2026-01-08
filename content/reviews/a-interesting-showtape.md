@@ -1,7 +1,7 @@
 +++
 recommend = true
 title = "A interesting showtape"
-startdate = "2025-10-19"
+startDate = "2025-10-19"
 page = "Chuck E's Jukebox Jam Show"
 contributors = ["Avengerchuck2010"]
 tags = ["Reviews"]

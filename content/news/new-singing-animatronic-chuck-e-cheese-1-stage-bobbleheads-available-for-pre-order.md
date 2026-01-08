@@ -1,6 +1,6 @@
 +++
 title = "New Singing Animatronic Chuck E. Cheese 1-Stage Bobbleheads Available for Pre-Order"
-startdate = "2025-01-07"
+startDate = "2025-01-07"
 pageThumbnailFile = "NationalBobbleheadHOF_ChuckECheeseFeatured.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://toybook.com/chuck-e-cheese-bobbleheads-launch/", "https://store.bobbleheadhall.com/products/munchsband", "https://store.bobbleheadhall.com/collections/bobbleheads/products/chuckecheese", "https://www.instagram.com/bobbleheadhall/p/DEiDDVBvvE4/"]

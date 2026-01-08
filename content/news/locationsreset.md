@@ -1,6 +1,6 @@
 +++
 title = "The Location Articles Reset"
-startdate = "2025-09-06"
+startDate = "2025-09-06"
 pageThumbnailFile = "_sMURLza57nz74DlEu7w.avif"
 contributors = ["The 64th Gamer"]
 tags = ["Animatronic News"]

@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/1vTM6OywxUM"
-startdate = "1992-04-27"
+startDate = "1992-04-27"
 pages = ["Independence, MO (4039 S Noland Rd)", "Concept Unification Stage"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

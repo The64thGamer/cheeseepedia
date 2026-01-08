@@ -1,6 +1,6 @@
 +++
 title = "CyberamicShoulderBarandbottombracket.avif"
-startdate = "2025-03-10"
+startDate = "2025-03-10"
 citations = []
 pages = ["Cyberamic Shoulder Bar"]
 tags = ["Photos"]

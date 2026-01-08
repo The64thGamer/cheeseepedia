@@ -1,6 +1,6 @@
 +++
 title = "assWallys.avif"
-startdate = "2020-03-00"
+startDate = "2020-03-00"
 citations = ["https://www.pasquallyspizza.com/"]
 pages = ["Pasqually's Pizza & Wings Logo"]
 tags = ["Photos"]

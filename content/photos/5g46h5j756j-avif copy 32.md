@@ -1,6 +1,6 @@
 +++
 title = "98jn34gn34jgn.avif"
-startdate = "0000-00-00"
+startDate = "0000-00-00"
 pages = ["Awesome Adventure Machine","Dallas, TX (13125 Montfort Dr)","AAM Chuck E. Cheese (Animatronic)","Chuck AAM (Costume Outfit)"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]

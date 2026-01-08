@@ -1,6 +1,6 @@
 +++
 title = "CEC Legacy Locations Move To 3-Stage Programming, Local Showtape Ads Now Appearing"
-startdate = "2025-03-21"
+startDate = "2025-03-21"
 pageThumbnailFile = "98uh239uioj293o4tihj.avif"
 contributors = ["The 64th Gamer"]
 citations = ["Correspondance with Hicksville's tech & other employees."]

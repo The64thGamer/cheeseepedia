@@ -1,7 +1,7 @@
 +++
 recommend = false
 title = "Such a weird showtape"
-startdate = "2025-07-21"
+startDate = "2025-07-21"
 page = "SPP Circus - Monkees"
 contributors = ["The 64th Gamer"]
 tags = ["Reviews"]

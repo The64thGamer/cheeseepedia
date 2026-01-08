@@ -8,7 +8,7 @@ contributors = ["The 64th Gamer"]
 citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf", "https://www.instagram.com/p/91oWwwt12S/", "https://longbeachantiquemall.com/", "https://www.youtube.com/watch?v=8oh-LxatDdg", "https://www.instagram.com/p/Bjw9-SOnM-9/?utm_source=ig_web_copy_link"]
 tags = ["Arcades and Attractions"]
 categories = ["Pizza Time Theatre"]
-unitsProducted = ">= 3"
+unitsProduced = ">= 3"
 +++
 ***Munch, the Trash Eater*** was a test attraction found at an unknown selection of Pizza Time Theatres, likely around 1982, that tried to gamify trash disposal.
 

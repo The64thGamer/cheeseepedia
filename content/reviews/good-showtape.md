@@ -1,7 +1,7 @@
 +++
 recommend = true
 title = "Good showtape!"
-startdate = "2025-09-02"
+startDate = "2025-09-02"
 page = "CEC Movie Magic"
 contributors = ["crowdigger18"]
 tags = ["Reviews"]

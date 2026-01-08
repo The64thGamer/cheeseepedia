@@ -1,6 +1,6 @@
 +++
 title = "563913200_17992307642846196_7280996400221995128_n.avif"
-startdate = "2025-10-14"
+startDate = "2025-10-14"
 pages = ["Chuck E. Cheese Adventure World","Arlington, TX (1536 W Interstate 20)"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]

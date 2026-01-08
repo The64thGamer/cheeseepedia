@@ -1,6 +1,6 @@
 +++
 title = "'Chuck's Arcade' branded Funspot Arcade Opening in Mall of Georgia"
-startdate = "2025-02-13"
+startDate = "2025-02-13"
 pageThumbnailFile = "093j4g90i34jg23334.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.simon.com/brands/chucks-arcade"]

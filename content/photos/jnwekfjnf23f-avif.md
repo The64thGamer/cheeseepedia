@@ -1,6 +1,6 @@
 +++
 title = "jnwekfjnf23f.avif"
-startdate = "2024-12-19"
+startDate = "2024-12-19"
 citations = []
 pages = ["CEC Rock It In Space"]
 tags = ["Photos"]
