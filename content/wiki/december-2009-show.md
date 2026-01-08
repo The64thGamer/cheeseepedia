@@ -7,12 +7,13 @@ pageThumbnailFile = "J6XWHPOYJ_ciVKSfwCIt.avif"
 contributors = ["The 64th Gamer", "AstridMascotFan2005", "Ceclife13"]
 citations = ["https://archive.org/download/3stage_dvd_signals/December%202009%203-stage-001.iso"]
 credits = ["Robert Gotcher: Director", "Michael Hill: Studio Coordinator", "Ryan Hollingsworth: Production Specialist"]
+mediaDuration = "56:21"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/December%202009%203-stage-001.iso|3-Stage DVD ISO w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***December 2009 Show* was a show which reused the segments and intermissions of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2009 holiday season.**
+***December 2009 Show*** was a show which reused the segments and intermissions of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2009 holiday season.
 
 ## Show List:
 
@@ -50,7 +51,7 @@ categories = ["Chuck E. Cheese's"]
     4.  Coke Groove
     5.  Countdown (Holiday Lights)
 
-## Lives:
+## Live Shows:
 
 - Bingo
 - Chuck E. March
