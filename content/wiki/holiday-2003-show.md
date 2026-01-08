@@ -78,7 +78,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Go Santa Go
 - Chuck E. March 2001
