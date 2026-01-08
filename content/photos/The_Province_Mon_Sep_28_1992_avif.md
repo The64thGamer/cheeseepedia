@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Salem, OR (3180 Lancaster Dr)"]
 
 citations = []
 +++
