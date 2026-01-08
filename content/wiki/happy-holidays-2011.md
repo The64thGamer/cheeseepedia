@@ -7,12 +7,13 @@ pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "StudioC", "Ceclife13"]
 citations = ["https://archive.org/download/3stage_dvd_signals/December%202011%203-stage-002.iso"]
 credits = ["Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator"]
+mediaDuration = "1:21:34"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/December%202011%203-stage-002.iso|3-Stage DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Happy Holiday 2011** was a holiday show which released on November 25, 2011 featuring all the segments originally from {{< wiki-link "Holiday 2002" >}}. This would be the final show to use the original versions of these segments.
+**Happy Holidays 2011** was a holiday show which released on November 25, 2011, featuring all the segments originally from {{< wiki-link "Holiday 2002" >}}. This would be the final show to use the original versions of these segments.
 
 
 ## Show List:
@@ -61,7 +62,7 @@ categories = ["Chuck E. Cheese's"]
     4.  Monkey Ninjas Episode 3
     5.  Super Jasper - 'Cookies for Santa'
     6.  Chillout (Holiday Lights)
-    7.  CEC TV ID - 'Cell Tower'
+    7.  CEC TV ID - 'Radio Towers'
 
 ## Live Shows:
 
