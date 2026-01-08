@@ -7,12 +7,13 @@ pageThumbnailFile = "L_78QNChS6VU4XIOSgzJ.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Mousester", "Anonymous", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/January%202011%20Studio%20C-002.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Annagrey Weichman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Munch's Mom", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator, Show Announcer", "Dave Wilson - Songwriter 'Dancin' In The Sun', 'On The Brightside'"]
+mediaDuration = "1:51:09"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/January%202011%20Studio%20C-002.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/January%202011%203-Stage-007.iso|3-Stage DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**January 2011** is the winter/spring show which released in January 2011 and featured eight new songs.
+**January 2011** was a showtape featuring eight new songs, which was released in January 2011 and played through the spring.
 
 ## Show List:
 
