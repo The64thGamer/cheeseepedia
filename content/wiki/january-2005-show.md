@@ -13,7 +13,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Jan200
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***January 2005 Show*** is the first show produced in 2005. This show was used to promote CEC's Winter 1-derland event.
+***January 2005 Show*** was the first show released in 2005. This show was used to promote CEC's Winter 1-derland event.
 
 ## Show List:
 
@@ -64,7 +64,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Born To Hand Jive
 - New Birthday (Birthday 2002)
