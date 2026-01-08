@@ -12,7 +12,7 @@ mediaDuration = "1:01:11"
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Best of CEC TV 2008* is a showtape released in September 2008 for Studio C, Cyberamics, and 3-Stage which compiled various songs from previous showtapes. This show was able to be used as an emergency backup until December 2012.**
+***Best of CEC TV 2008*** is a showtape released in September 2008 for Studio C, Cyberamics, and 3-Stage, which compiled various songs from previous showtapes. This show was able to be used as an emergency backup until December 2012.
 
 ### File Dates
 
