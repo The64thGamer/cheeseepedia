@@ -58,7 +58,7 @@
           {{- $serial := index $parts 3 -}}
           {{- $status := index $parts 4 -}}
           <tr>
-            <td>{{ partial "wiki-link.html" (dict "name" $name "context" $) }}</td>
+            <td>{{ partial "wiki-link.html" (dict "name" $name) }}</td>
             <td>{{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}</td>
             <td>{{ $serial }}</td>
             <td>{{ $status }}</td>
@@ -85,7 +85,7 @@
           {{- $end := index $parts 2 -}}
           {{- $notes := index $parts 3 -}}
           <tr>
-              <td>{{ partial "wiki-link.html" (dict "name" $name "context" $) }}</td>
+              <td>{{ partial "wiki-link.html" (dict "name" $name) }}</td>
               <td>{{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}</td>
               <td>{{ $notes }}</td>
           </tr>

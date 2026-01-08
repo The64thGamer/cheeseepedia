@@ -82,7 +82,7 @@
             {{- $parts := split . "|" -}}
             {{- $name := index $parts 0 -}}
             {{- $date := index $parts 1 -}}
-            <li>{{ partial "wiki-link.html" (dict "name" $name "context" $) }} ({{- partial "Readable_Date.html" (dict "date" $date "presentOnEmpty" false) -}})</li>
+            <li>{{ partial "wiki-link.html" (dict "name" $name) }} ({{- partial "Readable_Date.html" (dict "date" $date "presentOnEmpty" false) -}})</li>
           {{- end }}
         </ul>
       </div>
@@ -99,7 +99,7 @@
             {{- $end := index $parts 2 -}}
             {{- $version := index $parts 3 -}}
             <li>
-              {{ partial "wiki-link.html" (dict "name" $name "context" $) }}
+              {{ partial "wiki-link.html" (dict "name" $name) }}
               ({{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}} – {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}})
               {{- if $version }}
                 ({{ $version }})
