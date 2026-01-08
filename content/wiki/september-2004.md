@@ -75,7 +75,6 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
 - Happy and You Know It
 - BINGO
 - Chuck E. Says 2002
-- Chuck E. Shuffle (Existing Stages)
 - Go Santa Go (Existing Stages)
 
 **Birthday Break**: April 2004 show logo with music set to a 1 or 2-minute countdown, which would then lead to the Birthday show.
