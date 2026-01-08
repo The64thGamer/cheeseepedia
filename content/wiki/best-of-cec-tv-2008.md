@@ -8,6 +8,7 @@ contributors = ["The 64th Gamer", "Ceclife13", "Bullseye123", "Anonymous", "Anon
 citations = ["https://archive.org/download/cyberamics_post_93_dvd_signals/September%202008%20CEC-Stage-005.ISO"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_dvd_signals/September%202008%20CEC-Stage-005.ISO|CEC-Stage DVD ISO w/ Signals"]
+mediaDuration = "1:01:11"
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
@@ -21,30 +22,30 @@ categories = ["Chuck E. Cheese's"]
 
 1.  **Segment 1**
     1.  VJ Spot
-    2.  'Go To Chuck E. Cheese'
+    2.  'Go To Chuck E. Cheese' (Parody of ['Turning Japanese'](https://en.wikipedia.org/wiki/Turning_Japanese))
 2.  **Intermission 1**
-    1.  CEC TV ID 'Pool Plug'
+    1.  CEC TV ID - 'Pool Plug'
     2.  Monkey Ninjas - Episode 5
     3.  Sing-along Guys - 'BINGO'
 3.  **Segment 2**
     1.  'Keep It Groovin''
 4.  **Intermission 2**
-    1.  CEC TV ID 'Sunrise'
+    1.  CEC TV ID - 'Sunrise'
     2.  Exercise TV Spot
     3.  Wow Wow Wubbzy Spot
 5.  **Segment 3**
     1.  VJ Spot
     2.  'Opposite Day'
 6.  **Intermission 3**
-    1.  CEC TV ID 'Marx Bros'
+    1.  CEC TV ID - 'Marx Bros'
     2.  Kung Fu Panda Spot
     3.  Shrek The Halls Spot
     4.  Super Jasper - 'Staring Contest'
     5.  CEC Birthday Promo
 7.  **Segment 4**
-    1.  'Trashman'
+    1.  'The Trashman' (parody of ['Taxman'](https://en.wikipedia.org/wiki/Taxman))
 8.  **Intermission 4**
-    1.  CEC TV ID 'Radio Towers'
+    1.  CEC TV ID - 'Radio Towers'
     2.  Skateboarding
     3.  Exercise TV Spot
 9.  **Segment 5**
@@ -90,5 +91,5 @@ categories = ["Chuck E. Cheese's"]
 ## Trivia
 
 - The VJ spots in this show feature Matt Daniel. The VJ spot in Segment 5 is interesting as 'Going On A Diet', a cut song from {{< wiki-link "September 2004" >}}, can be heard in the background.
-- Most of the songs in this show use single versions which don't include intro dialogue or the ending applause.
-- A Generic Version of Best of 2008 with a different lineup is rumored to exist presumably it is the same lineup with the adverts removed.
+- Most of the songs in this show use single versions, which don't include the intro dialogue or applause sound effects from the original shows.
+- A Generic Version of Best of 2008 with a different lineup is rumoured to exist; presumably, it is the same show with the adverts removed.
