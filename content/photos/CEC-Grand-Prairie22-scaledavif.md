@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Grand Prairie, TX (2760 W I-20)"]
 
 citations = []
 +++

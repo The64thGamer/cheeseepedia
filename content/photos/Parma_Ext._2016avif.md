@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Parma, OH (7601 W Ridgewood Rd)"]
 
 citations = []
 +++
