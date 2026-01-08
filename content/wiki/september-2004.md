@@ -85,7 +85,7 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
 
 ## Going On a Diet
 
-A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of ['She Blinded Me With Science'](https://en.wikipedia.org/wiki/She_Blinded_Me_with_Science) and was sung by Munch with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese' reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.{{< cite 1 >}}
+A lost song called 'Going On a Diet' was removed from the showtape before its release. The song was a parody of ['She Blinded Me With Science'](https://en.wikipedia.org/wiki/She_Blinded_Me_with_Science) and was sung by Munch, with Pasqually also having a small part. The video footage featured the band working out at a gym. The footage was later used with stock music in the April 2005 Show, and a small clip of the song itself can be heard in a VJ spot in Best of CEC TV 2008. The song was intended for Segment 2 and was replaced by 'Go To Chuck E. Cheese', which was reused from the April 2002 show. It was cut due to corporate executives thinking it was insensitive.{{< cite 1 >}}
 
 ### File Dates
 - Studio C DVD: 8/10/04 7:28am
@@ -104,12 +104,12 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 ## Trivia:
 
 - The show logos are reused from September 2000.
-- This show features countdowns which use footage or intermissions from previous shows. The first, fifth and sixth countdowns have their original show audio. Since those three songs are from 1992-1993 shows, the character voices from that time can be heard.
+- This show features countdowns that use footage or intermissions from previous shows. The first, fifth, and sixth countdowns have their original show audio. Since those three songs are from 1992-1993 shows, the character voices from that time can be heard.
 - The footage for 'Born to Be Wild' is reused from 'Living in America' from September 2002.
 - 'Go to Chuck E. Cheese' is reused from April 2002.
 - Clowns Making a Sandwich (reused from August 1999) has added background music for this show.
 - Chuck E's curtains close during 'Smile' on all versions of the show.
 - Chuck E. is programmed during the Fundraising spot and the reused Larry the Technician intermission on all versions of the show.
-- Just like in the April 2004 Show, the Studio C puppets only appear during the dialogue portions in-between songs.
+- Just like in the April 2004 Show, the Studio C puppets only appear during the dialogue portions in between songs.
 - Instead of their usual backgrounds, the Studio C puppets are shown in a children's play area from a local church.
-- ‘Chuck E. Shuffle’ and ‘Go Santa Go’ both appear on the Studio C DVDs but could not be played.
+- ‘Chuck E. Shuffle’ and ‘Go Santa Go’ both appear on the Studio C DVDs, but could not be played.
