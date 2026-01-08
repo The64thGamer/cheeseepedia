@@ -13,7 +13,7 @@ downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Jan200
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***January 2004 Show* is a showtape released in January 2004 which ran through March 2004.**
+***January 2004 Show*** is a showtape released in January 2004, which ran through March 2004.
 
 ## Show List:
 
