@@ -7,12 +7,13 @@ pageThumbnailFile = "3_e7wufh1rgY2THzUe0S.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/July%202005%20Studio%20C.iso"]
 credits = ["Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist"]
+mediaDuration = "1:10:33"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Summer2005USAVersion.img|Studio C Floppy Disk (USA Ver.)", "https://archive.org/download/studio_c_showtape_dvds/July%202005%20Studio%20C.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/June%202005%203-Stage-007.iso|3-Stage DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Super Chuck Summer Show 2005** was a rerelease of {{< wiki-link "Summertime 2003" >}} with new and revised intermissions promoting 2005 Super Chuck Summer Event. It is the first known show to release on the DVD format for Existing Stages.
+**Super Chuck Summer Show 2005** was a rerelease of {{< wiki-link "Summertime 2003" >}} with new and revised intermissions promoting the 2005 Super Chuck Summer Event. It is the first known show to be released on the DVD format for Existing Stages.
 
 ## Studio C Show List:
 
