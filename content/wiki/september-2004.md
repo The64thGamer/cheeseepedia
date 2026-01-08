@@ -7,13 +7,14 @@ pageThumbnailFile = "uUQilnJLlI9ds0l2teVt.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Anonymous", "Hollyb", "CyberSnout", "John95", "BurgersNuggs445"]
 citations = ["https://youtu.be/iGoWidEOlbc"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Voice of Jasper T. Jowls, Pepperoni", "Robert Gotcher - Director, Show Announcer (Segment 3)", "Matt Daniel - Production Coordinator, Show Announcer (Segment 1), Songwriter 'What Up'", "Ryan Hollingsworth - Production Specialist"]
+mediaDuration = "1:15:55"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept2004ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/September%202004%20Studio%20C.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***September 2004 Show* is the show that released September 2004 and played until the end of November 2004.
-This show was the first released with Robert Gotcher as Director of Entertainment. The show is also known for the cut song 'Going On A Diet', which was removed sometime before its final release.**
+***September 2004 Show*** is the show that was released in September 2004 and played until the end of November 2004.
+This show was the first released with Robert Gotcher as Director of Entertainment. 
 
 
 ## Show List:
@@ -22,7 +23,7 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
     1.  'Born To Be Wild'
     2.  'Pepperoni' (parody of ['My Sharona'](https://en.wikipedia.org/wiki/My_Sharona))
 2.  **Intermission 1**
-    1.  CEC TV ID - 'Abstract'
+    1.  CEC TV ID - 'Abstract '04'
     2.  Super Jasper - 'Staring Contest'
     3.  Countdown ('Twinkle, Twinkle')
     4.  Clowns Making A Sandwich
@@ -62,7 +63,7 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Born To Hand Jive
 - New Birthday (Birthday 2002)
@@ -77,7 +78,8 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
 - Chuck E. Shuffle (Existing Stages)
 - Go Santa Go (Existing Stages)
 
-**Birthday Break**: April 2004 show logo set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: April 2004 show logo with music set to a 1 or 2-minute countdown, which would then lead to the Birthday show.
+
 
 ## Production
 
