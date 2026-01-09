@@ -52,10 +52,10 @@ The ***April 2008 Show*** is a showtape featuring nine songs that played through
     2.  ['Be Near Me'](https://en.wikipedia.org/wiki/Be_Near_Me)
 10. Intermission 5
     1.  Hi-C Time Lapse Drawing
-    2.  Pizza Survivor (Studio C only)
+    2.  Pizza Survivor (Studio C)
     3.  CEC TV ID - 'Flashing Hand'
 
-## Lives:
+## Live Shows:
 
 - Birthday Star Extravaganza (2min)
 - Birthday Star Extravaganza (5min)
