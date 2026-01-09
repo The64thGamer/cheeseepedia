@@ -406,6 +406,7 @@ select:hover {
 
 .emoji{
   width: 1rem;
+  margin-right: 0.5em;
 }
 
 .horizontal-pagebox-scroll {
@@ -1225,13 +1226,28 @@ sup {
   align-items: flex-start;
 }
 
-.search-left-col {
-  width: 210px;
-}
-
 .search-results-col {
   flex: 1;
 }
+.predef-scroll {
+  display: flex;
+  flex-direction: column;   /* vertical stack */
+  gap: 0.5rem;
+  padding: 0.25rem;
+  max-height: 30rem;        /* adjust to how tall you want */
+  overflow-y: auto;         /* vertical scroll */
+  scrollbar-width: thin;
+}
+
+.predef-scroll::-webkit-scrollbar {
+  width: 6px;               /* vertical scrollbar width */
+}
+
+.predef-scroll::-webkit-scrollbar-thumb {
+  background-color: rgba(0,0,0,0.3);
+  border-radius: 3px;
+}
+
 
 .predef-tags{
   color: var(--yellow);
@@ -1241,9 +1257,12 @@ sup {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
+  width: 14rem;
 }
 
 .predef-tag-btn {
+  white-space: nowrap;
+  display: flex;
   color: var(--white);
   padding: 0.5rem 0.75rem;
   border-radius: 1rem;
@@ -1267,8 +1286,6 @@ sup {
 .results-list > * {
   margin-bottom: 0.5rem;
 }
-
-
 
 /* =========================
    SPLASH

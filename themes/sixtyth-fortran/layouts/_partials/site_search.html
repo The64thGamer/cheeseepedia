@@ -7,6 +7,62 @@ Notes:
 - Loads search JSON data from /data/*.json via fetch.
 */ -}}
 
+{{- $dictionary := dict
+"Animatronic Preservation" "<img src=\"/UI/Emojis/wrench.svg\" class=\"emoji\">"
+"Animatronic Shows" "<img src=\"/UI/Emojis/bang.svg\" class=\"emoji\">"
+"Animatronics" "<img src=\"/UI/Emojis/spiky_speech_bubble.svg\" class=\"emoji\">"
+"Costumed Characters" "<img src=\"/UI/Emojis/back_of_hand_hoof_d1.svg\" class=\"emoji\">"
+"Animatronic Parts" "<img src=\"/UI/Emojis/factory.svg\" class=\"emoji\">"
+"Retrofits" "<img src=\"/UI/Emojis/pirate_flag.svg\" class=\"emoji\">"
+"Stage Variations" "<img src=\"/UI/Emojis/speaker.svg\" class=\"emoji\">"
+"Corporate Documents" "<img src=\"/UI/Emojis/page_with_pencil.svg\" class=\"emoji\">"
+"Social Media and Websites" "<img src=\"/UI/Emojis/globe.svg\" class=\"emoji\">"
+"Documents" "<img src=\"/UI/Emojis/page.svg\" class=\"emoji\">"
+"Promotional Material" "<img src=\"/UI/Emojis/curled_page.svg\" class=\"emoji\">"
+"Animatronic Control Systems" "<img src=\"/UI/Emojis/control_knobs.svg\" class=\"emoji\">"
+"Other Systems" "<img src=\"/UI/Emojis/crt_test_pattern.svg\" class=\"emoji\">"
+"Simulators" "<img src=\"/UI/Emojis/crt_noise.svg\" class=\"emoji\">"
+"Programming Systems" "<img src=\"/UI/Emojis/crt_prompt.svg\" class=\"emoji\">"
+"Characters" "<img src=\"/UI/Emojis/thumbs_up_paw.svg\" class=\"emoji\">"
+"Events" "<img src=\"/UI/Emojis/tada.svg\" class=\"emoji\">"
+"History" "<img src=\"/UI/Emojis/spider_web.svg\" class=\"emoji\">"
+"Ad Vehicles" "<img src=\"/UI/Emojis/bus.svg\" class=\"emoji\">"
+"Arcades and Attractions" "<img src=\"/UI/Emojis/arcade_stick.svg\" class=\"emoji\">"
+"Employee Wear" "<img src=\"/UI/Emojis/chef_v1.svg\" class=\"emoji\">"
+"Locations" "<img src=\"/UI/Emojis/world_map.svg\" class=\"emoji\">"
+"Cancelled Locations" "<img src=\"/UI/Emojis/bomb.svg\" class=\"emoji\">"
+"Remodels and Initiatives" "<img src=\"/UI/Emojis/construction_sign.svg\" class=\"emoji\">"
+"Store Fixtures" "<img src=\"/UI/Emojis/package.svg\" class=\"emoji\">"
+"Commercials" "<img src=\"/UI/Emojis/movie_camera.svg\" class=\"emoji\">"
+"News Footage" "<img src=\"/UI/Emojis/tv.svg\" class=\"emoji\">"
+"Photos" "<img src=\"/UI/Emojis/camera_with_flash.svg\" class=\"emoji\">"
+"Videos" "<img src=\"/UI/Emojis/film_frames.svg\" class=\"emoji\">"
+"Company Media" "<img src=\"/UI/Emojis/dvd.svg\" class=\"emoji\">"
+"In-Store Merchandise" "<img src=\"/UI/Emojis/free.svg\" class=\"emoji\">"
+"Products" "<img src=\"/UI/Emojis/dollar.svg\" class=\"emoji\">"
+"Menu Items" "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">"
+"ShowBiz Pizza Place" "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">"
+"Pizza Time Theatre" "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">"
+"Chuck E. Cheese's" "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">"
+"Movies" "<img src=\"/UI/Emojis/cinema.svg\" class=\"emoji\">"
+"Tickets" "<img src=\"/UI/Emojis/cross.svg\" class=\"emoji\">"
+"Tokens" "<img src=\"/UI/Emojis/cross.svg\" class=\"emoji\">"
+"Video Games" "<img src=\"/UI/Emojis/gamepad.svg\" class=\"emoji\">"
+"Family Vision" "<img src=\"/UI/Emojis/projector.svg\" class=\"emoji\">"
+"Live Shows" "<img src=\"/UI/Emojis/music_note.svg\" class=\"emoji\">"
+"ShowBiz Pizza Programs" "<img src=\"/UI/Emojis/cassette.svg\" class=\"emoji\">"
+"Showtape Formats" "<img src=\"/UI/Emojis/vhs.svg\" class=\"emoji\">"
+"Puppets" "<img src=\"/UI/Emojis/back_of_hand_paw_k2.svg\" class=\"emoji\">"
+"Showtapes" "<img src=\"/UI/Emojis/music_notes.svg\" class=\"emoji\">"
+"Animatronic News" "<img src=\"/UI/Emojis/decreasing_graph.svg\" class=\"emoji\">"
+"Meta" "<img src=\"/UI/Emojis/zzz.svg\" class=\"emoji\">"
+"Reviews" "<img src=\"/UI/Emojis/fire.svg\" class=\"emoji\">"
+"Transcriptions" "<img src=\"/UI/Emojis/pencil.svg\" class=\"emoji\">"
+"User" "<img src=\"/UI/Emojis/furry_pride.svg\" class=\"emoji\">"
+"Restaurants/FECs" "<img src=\"/UI/Emojis/plate.svg\" class=\"emoji\">"
+-}}
+
+
 <div class="search-ui-container">
   <div class="search-controls">
     <div class="search-fuzzy-wrapper">
@@ -23,14 +79,72 @@ Notes:
 
   <div class="search-layout">
     <aside class="search-left-col">
-      <div class="predef-tags">
-        <h4>Quick Tags</h4>
-        <div class="predef-list">
-          {{- $predef := slice "Chuck E. Cheese's" "Pizza Time Theatre" "ShowBiz Pizza Place" "Locations" "Showtapes"
-          -}}
-          {{- range $i, $t := $predef -}}
-          <button class="predef-tag-btn" type="button" data-tag="{{ $t | html }}" title="Add tag">{{ $t }}</button>
-          {{- end -}}
+      <div class="predef-list">
+        {{- $predef := slice
+        "Pizza Time Theatre"
+        "ShowBiz Pizza Place"
+        "Chuck E. Cheese's"
+        "Locations"
+        "Showtapes"
+        "Animatronic Shows"
+        "Stage Variations"
+        "Animatronics"
+        "History"
+        "Cancelled Locations"
+        "Remodels and Initiatives"
+        "Store Fixtures"
+        "Restaurants/FECs"
+        "Characters"
+        "Costumed Characters"
+        "Puppets"
+        "Live Shows"
+        "Events"
+        "Animatronic Parts"
+        "Animatronic Control Systems"
+        "Animatronic Preservation"
+        "Retrofits"
+        "Other Systems"
+        "Simulators"
+        "Programming Systems"
+        "Photos"
+        "Videos"
+        "Commercials"
+        "News Footage"
+        "Company Media"
+        "Movies"
+        "ShowBiz Pizza Programs"
+        "Showtape Formats"
+        "Arcades and Attractions"
+        "Video Games"
+        "Family Vision"
+        "Corporate Documents"
+        "Documents"
+        "Promotional Material"
+        "Social Media and Websites"
+        "Ad Vehicles"
+        "In-Store Merchandise"
+        "Products"
+        "Menu Items"
+        "Tickets"
+        "Tokens"
+        "Employee Wear"
+        "Reviews"
+        "Transcriptions"
+        "User"
+        "Meta"
+        -}}
+        <div class="predef-tags">
+          <h4>Quick Tags</h4>
+          <div class="predef-scroll">
+            <div class="predef-list">
+              {{- range $i, $t := $predef -}}
+              {{- $emoji := index $dictionary $t -}}
+              <button class="predef-tag-btn" type="button" data-tag="{{ $t | html }}" title="Add tag">
+                {{ if $emoji }}{{ $emoji | safeHTML }} {{ end }}{{ $t }}
+              </button>
+              {{- end -}}
+            </div>
+          </div>
         </div>
       </div>
     </aside>
@@ -266,11 +380,11 @@ Notes:
     document.addEventListener("click", e => { if (!tagSuggestions.contains(e.target) && e.target !== tagInput) hideSuggestions(); });
 
     // --- SEARCH LOGIC ---
-function docHasTag(doc, tag) {
-  const tags = TAGS_BY_PAGE[doc.path] || [];
-  const want = tag.toLowerCase();
-  return tags.some(t => String(t).toLowerCase() === want);
-}
+    function docHasTag(doc, tag) {
+      const tags = TAGS_BY_PAGE[doc.path] || [];
+      const want = tag.toLowerCase();
+      return tags.some(t => String(t).toLowerCase() === want);
+    }
 
     function scoreDocForQuery(doc, qTokens, qTris) {
       const docTris = new Set(doc.trigrams || []), docTokens = new Set(doc.tokens || []);
@@ -289,7 +403,7 @@ function docHasTag(doc, tag) {
       const isFuzzyEmpty = !fuzzyQuery || !fuzzyQuery.trim();
       console.log("search called", { fuzzyQuery, tagFilters });
       const qTokens = isFuzzyEmpty ? [] : tokenize(fuzzyQuery);
-      const qTris   = isFuzzyEmpty ? new Set() : charTrigrams(fuzzyQuery);
+      const qTris = isFuzzyEmpty ? new Set() : charTrigrams(fuzzyQuery);
 
       if (isFuzzyEmpty && tagFilters.length > 0) {
         // tag-only search
@@ -379,7 +493,7 @@ function docHasTag(doc, tag) {
       }
 
 
-      const results = search(q, tagFilters, 200);
+      const results = search(q, tagFilters, 500);
 
       const articles = [], photos = [], videos = [], reviews = [];
       for (const r of results) {
