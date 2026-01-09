@@ -49,7 +49,7 @@ This was created to play from January to March 2009.
 
 ## Studio C DVD #3
 
-DVD #3 is a DVD used for Studio C showtapes when the main show is too big to feature all lives. So a third DVD is installed with the show to bring the normal amount.
+DVD #3 is a DVD used for Studio C showtapes when the main show is too big to feature all live shows. 
 
 - Studio C Diagnostics
 - Birthday Extravaganza w/ 5 Minute Countdown
