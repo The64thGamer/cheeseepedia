@@ -37,7 +37,16 @@
         {{- $contributorCounts = merge $contributorCounts (dict . (add (index $contributorCounts .) 1)) -}}
       {{- end -}}
     {{- end -}}
-@ -50,26 +34,25 @@
+  {{- end -}}
+{{- end -}}
+
+<!-- Sorting contributors -->
+{{- $sortedContributors := slice -}}
+{{- range $key, $value := $contributorCounts -}}
+  {{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
+{{- end -}}
+{{- $sortedContributors = sort $sortedContributors "count" "desc" -}}
+
 {{- $contributorCount := len $sortedContributors -}}
 
 {{- $count := 0 -}}
@@ -63,5 +72,4 @@
 </div>
 
 <div id="search"></div>
-<br>
 </aside>
