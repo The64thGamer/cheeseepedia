@@ -266,7 +266,11 @@ Notes:
     document.addEventListener("click", e => { if (!tagSuggestions.contains(e.target) && e.target !== tagInput) hideSuggestions(); });
 
     // --- SEARCH LOGIC ---
-    function docHasTag(doc, tag) { return (DOC_TAGS[doc.path] || []).some(t => t.toLowerCase() === tag.toLowerCase()); }
+function docHasTag(doc, tag) {
+  const tags = TAGS_BY_PAGE[doc.path] || [];
+  const want = tag.toLowerCase();
+  return tags.some(t => String(t).toLowerCase() === want);
+}
 
     function scoreDocForQuery(doc, qTokens, qTris) {
       const docTris = new Set(doc.trigrams || []), docTokens = new Set(doc.tokens || []);
@@ -284,6 +288,8 @@ Notes:
 
       const isFuzzyEmpty = !fuzzyQuery || !fuzzyQuery.trim();
       console.log("search called", { fuzzyQuery, tagFilters });
+      const qTokens = isFuzzyEmpty ? [] : tokenize(fuzzyQuery);
+      const qTris   = isFuzzyEmpty ? new Set() : charTrigrams(fuzzyQuery);
 
       if (isFuzzyEmpty && tagFilters.length > 0) {
         // tag-only search
@@ -368,7 +374,6 @@ Notes:
           c.innerHTML = "";
         });
 
-        // 🔑 Ensure Articles tab stays active
         activateTab("results-tabs", "tab-articles");
         return;
       }
