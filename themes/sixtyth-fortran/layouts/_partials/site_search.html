@@ -35,8 +35,6 @@ Notes:
 "Store Fixtures" "<img src=\"/UI/Emojis/package.svg\" class=\"emoji\">"
 "Commercials" "<img src=\"/UI/Emojis/movie_camera.svg\" class=\"emoji\">"
 "News Footage" "<img src=\"/UI/Emojis/tv.svg\" class=\"emoji\">"
-"Photos" "<img src=\"/UI/Emojis/camera_with_flash.svg\" class=\"emoji\">"
-"Videos" "<img src=\"/UI/Emojis/film_frames.svg\" class=\"emoji\">"
 "Company Media" "<img src=\"/UI/Emojis/dvd.svg\" class=\"emoji\">"
 "In-Store Merchandise" "<img src=\"/UI/Emojis/free.svg\" class=\"emoji\">"
 "Products" "<img src=\"/UI/Emojis/dollar.svg\" class=\"emoji\">"
@@ -56,7 +54,6 @@ Notes:
 "Showtapes" "<img src=\"/UI/Emojis/music_notes.svg\" class=\"emoji\">"
 "Animatronic News" "<img src=\"/UI/Emojis/decreasing_graph.svg\" class=\"emoji\">"
 "Meta" "<img src=\"/UI/Emojis/zzz.svg\" class=\"emoji\">"
-"Reviews" "<img src=\"/UI/Emojis/fire.svg\" class=\"emoji\">"
 "Transcriptions" "<img src=\"/UI/Emojis/pencil.svg\" class=\"emoji\">"
 "User" "<img src=\"/UI/Emojis/furry_pride.svg\" class=\"emoji\">"
 "Restaurants/FECs" "<img src=\"/UI/Emojis/plate.svg\" class=\"emoji\">"
@@ -105,8 +102,6 @@ Notes:
         "Other Systems"
         "Simulators"
         "Programming Systems"
-        "Photos"
-        "Videos"
         "Commercials"
         "News Footage"
         "Company Media"
@@ -127,7 +122,6 @@ Notes:
         "Tickets"
         "Tokens"
         "Employee Wear"
-        "Reviews"
         "Transcriptions"
         "User"
         "Meta"
@@ -400,46 +394,62 @@ Notes:
       let results = [];
 
       const isFuzzyEmpty = !fuzzyQuery || !fuzzyQuery.trim();
-      console.log("search called", { fuzzyQuery, tagFilters });
-      const qTokens = isFuzzyEmpty ? [] : tokenize(fuzzyQuery);
-      const qTris = isFuzzyEmpty ? new Set() : charTrigrams(fuzzyQuery);
+      const isTagOnly = isFuzzyEmpty && tagFilters.length > 0;
 
-      if (isFuzzyEmpty && tagFilters.length > 0) {
-        // tag-only search
-        console.log("tag-only branch");
+      if (isTagOnly) {
+        // --- TAG-ONLY SEARCH ---
         let candidatePaths = null;
 
         tagFilters.forEach(tf => {
-          const tagKey = tf.tag; // exact casing from ALL_TAGS / TAG_COUNTS
+          const tagKey = tf.tag; // exact casing
           const pagesForTagObjs = PAGES_BY_TAG[tagKey] || [];
-          const pagesForTag = pagesForTagObjs.map(p => p.path || p); // normalize to string paths
-          console.log(`tag: ${tagKey}, pages:`, pagesForTag);
+          const pagesForTag = pagesForTagObjs.map(p => p.path || p);
 
           if (tf.negative) {
-            if (!candidatePaths) {
-              candidatePaths = Object.values(PAGES_BY_TAG).flat().map(p => p.path || p);
-            }
+            if (!candidatePaths) candidatePaths = Object.values(PAGES_BY_TAG).flat().map(p => p.path || p);
             candidatePaths = candidatePaths.filter(p => !pagesForTag.includes(p));
           } else {
-            if (!candidatePaths) {
-              candidatePaths = [...pagesForTag];
-            } else {
-              candidatePaths = candidatePaths.filter(p => pagesForTag.includes(p));
-            }
+            if (!candidatePaths) candidatePaths = [...pagesForTag];
+            else candidatePaths = candidatePaths.filter(p => pagesForTag.includes(p));
           }
         });
 
         if (!candidatePaths) candidatePaths = [];
-        console.log("candidatePaths:", candidatePaths);
 
         results = candidatePaths.map(p => {
-          const doc = DOCS.find(d => d.path === p) || { path: p, title: p };
+          const doc = DOCS.find(d => d.path === p) || { path: p, title: p, frontmatter: {} };
           return { score: 1, doc };
         });
+
+        // --- SORT TAG-ONLY RESULTS BY startDate ASCENDING ---
+        results.sort((a, b) => {
+          const aStart = a.doc.frontmatter?.startDate || "0000-00-00";
+          const bStart = b.doc.frontmatter?.startDate || "0000-00-00";
+
+          // Push unknown (0000) dates to bottom
+          if (aStart.startsWith("0000") && !bStart.startsWith("0000")) return 1;
+          if (bStart.startsWith("0000") && !aStart.startsWith("0000")) return -1;
+
+          // Otherwise compare normally
+          return aStart.localeCompare(bStart);
+        });
+
+        // --- EXCEPTION: if doc title exactly matches any searched tag, move it to the top ---
+        tagFilters.forEach(tf => {
+          if (tf.negative) return; // only for positive tags
+          const idx = results.findIndex(r => r.doc.title === tf.tag);
+          if (idx > 0) {
+            const [exactMatch] = results.splice(idx, 1);
+            results.unshift(exactMatch);
+          }
+        });
+
       } else {
-        // --- FUZZY SEARCH (with optional tags) ---
+        // --- FUZZY SEARCH WITH OPTIONAL TAG FILTERS ---
+        const qTokens = tokenize(fuzzyQuery);
+        const qTris = charTrigrams(fuzzyQuery);
+
         for (const doc of DOCS) {
-          // --- check tag filters ---
           let ok = true;
           for (const tf of tagFilters) {
             const want = tf.tag;
@@ -451,15 +461,16 @@ Notes:
           }
           if (!ok) continue;
 
-          // --- fuzzy scoring ---
           const score = scoreDocForQuery(doc, qTokens, qTris);
           if (score > 0) results.push({ score, doc });
         }
+
+        results.sort((a, b) => b.score - a.score);
       }
 
-      results.sort((a, b) => b.score - a.score);
       return results.slice(0, maxResults);
     }
+
 
 
     function scheduleSearch() { if (searchTimer) clearTimeout(searchTimer); searchTimer = setTimeout(executeSearch, 150); }
@@ -467,44 +478,44 @@ Notes:
     fuzzyInput.addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); executeSearch(); } });
 
     // --- RENDERING ---
-function renderArticle(doc) {
-  const fm = doc.frontmatter || {};
+    function renderArticle(doc) {
+      const fm = doc.frontmatter || {};
 
-  const hasContent = !!(doc.content || doc.excerpt || doc.title);
-  const wrapper = document.createElement("div");
-  wrapper.className = hasContent ? "list-page-block" : "list-page-empty-block";
+      const hasContent = !!(doc.content || doc.excerpt || doc.title);
+      const wrapper = document.createElement("div");
+      wrapper.className = hasContent ? "list-page-block" : "list-page-empty-block";
 
-  // Helper: format date like your Hugo partial
-  const formatDate = dateStr => {
-    if (!dateStr || dateStr === "0000-00-00") return "?";
-    const parts = dateStr.split(" ")[0].split("-");
-    const year = parts[0] || "0000";
-    const month = parts[1] || "00";
-    const day = parts[2] || "00";
+      // Helper: format date like your Hugo partial
+      const formatDate = dateStr => {
+        if (!dateStr || dateStr === "0000-00-00") return "?";
+        const parts = dateStr.split(" ")[0].split("-");
+        const year = parts[0] || "0000";
+        const month = parts[1] || "00";
+        const day = parts[2] || "00";
 
-    const months = {
-      "00": "", "01": "Jan. ", "02": "Feb. ", "03": "Mar. ", "04": "Apr. ",
-      "05": "May ", "06": "Jun. ", "07": "Jul. ", "08": "Aug. ", "09": "Sep. ",
-      "10": "Oct. ", "11": "Nov. ", "12": "Dec."
-    };
-    const days = {
-      "00": "", "01": "1, ", "02": "2, ", "03": "3, ", "04": "4, ", "05": "5, ",
-      "06": "6, ", "07": "7, ", "08": "8, ", "09": "9, ", "10": "10, ", "11": "11, ",
-      "12": "12, ", "13": "13, ", "14": "14, ", "15": "15, ", "16": "16, ", "17": "17, ",
-      "18": "18, ", "19": "19, ", "20": "20, ", "21": "21, ", "22": "22, ", "23": "23, ",
-      "24": "24, ", "25": "25, ", "26": "26, ", "27": "27, ", "28": "28, ", "29": "29, ",
-      "30": "30, ", "31": "31, "
-    };
-    return `${months[month]}${days[day]}${year !== "0000" ? year : ""}`;
-  };
+        const months = {
+          "00": "", "01": "Jan. ", "02": "Feb. ", "03": "Mar. ", "04": "Apr. ",
+          "05": "May ", "06": "Jun. ", "07": "Jul. ", "08": "Aug. ", "09": "Sep. ",
+          "10": "Oct. ", "11": "Nov. ", "12": "Dec."
+        };
+        const days = {
+          "00": "", "01": "1, ", "02": "2, ", "03": "3, ", "04": "4, ", "05": "5, ",
+          "06": "6, ", "07": "7, ", "08": "8, ", "09": "9, ", "10": "10, ", "11": "11, ",
+          "12": "12, ", "13": "13, ", "14": "14, ", "15": "15, ", "16": "16, ", "17": "17, ",
+          "18": "18, ", "19": "19, ", "20": "20, ", "21": "21, ", "22": "22, ", "23": "23, ",
+          "24": "24, ", "25": "25, ", "26": "26, ", "27": "27, ", "28": "28, ", "29": "29, ",
+          "30": "30, ", "31": "31, "
+        };
+        return `${months[month]}${days[day]}${year !== "0000" ? year : ""}`;
+      };
 
-  const startDate = formatDate(fm.startDate);
-  const endDate = formatDate(fm.endDate);
+      const startDate = formatDate(fm.startDate);
+      const endDate = formatDate(fm.endDate);
 
-  // Use pageThumbnailFile if it exists, otherwise fallback image
-  const imgSrc = fm.pageThumbnailFile ? `/photos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
+      // Use pageThumbnailFile if it exists, otherwise fallback image
+      const imgSrc = fm.pageThumbnailFile ? `/photos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
 
-  wrapper.innerHTML = `
+      wrapper.innerHTML = `
     <div class="list-page-container">
       <div class="list-image">
         <a href="${doc.path}">
@@ -524,92 +535,132 @@ function renderArticle(doc) {
     </div>
   `;
 
-  return wrapper;
-}
+      return wrapper;
+    }
 
-    function renderPhoto(doc) { const w = document.createElement("div"); w.className = "article-photo-block"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
+    function renderPhoto(doc) {
+      const wrapper = document.createElement("div");
+      wrapper.className = "gallery-image-box";
+
+      // Use title as filename
+      let fileName = doc.title || "";
+      let imgURL = fileName ? `/photos/${fileName}` : "/UI/File Not Found.jpg";
+
+      // Use startDate for description if available
+      let startDate = doc.frontmatter?.startDate || "";
+      let endDate = doc.frontmatter?.endDate || "";
+      let dateStr = "";
+
+      function formatDate(date) {
+        if (!date || date === "0000-00-00") return "";
+        const parts = date.split("-");
+        if (parts.length < 3) return date;
+        const year = parts[0];
+        const months = ["", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
+        const monthName = months[Number(parts[1])] || "";
+        return `${monthName} ${Number(parts[2])}, ${year}`;
+      }
+
+      const formattedStart = formatDate(startDate);
+      const formattedEnd = formatDate(endDate);
+      if (formattedStart || formattedEnd) dateStr = `${formattedStart} - ${formattedEnd}`.trim();
+
+      // Description is title + date
+      const displayText = doc.title + (dateStr ? ` (${dateStr})` : "");
+
+      // Build inner HTML
+      wrapper.innerHTML = `
+    <div class="article-photo-image">
+      <a href="${doc.path || "#"}">
+        <img src="${imgURL}" alt="${doc.title || "File Not Found"}" loading="lazy" />
+      </a>
+    </div>
+    <div class="article-photo-description">${displayText}</div>
+  `;
+
+      return wrapper;
+    }
     function renderVideo(doc) { const w = document.createElement("div"); w.className = "list-page-block-video"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
     function renderReview(doc) { const w = document.createElement("div"); w.className = "list-review-block"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
 
     function executeSearch() {
-  if (!DOCS || !DOCS.length) return;
+      if (!DOCS || !DOCS.length) {
+        console.warn("Search data not yet loaded or empty");
+        return;
+      }
 
-  const q = fuzzyInput.value.trim();
-  const tagFilters = activeTags.map(t => ({ tag: t.tag, negative: !!t.negative }));
+      const q = fuzzyInput.value.trim();
+      const tagFilters = activeTags.map(t => ({ tag: t.tag, negative: !!t.negative }));
 
-  // --- special case: both bars empty -> show nothing ---
-  if (!q && !tagFilters.length) {
-    [listArticles, listPhotos, listVideos, listReviews].forEach(c => c.innerHTML = "");
-    activateTab("results-tabs", "tab-articles");
-    return;
-  }
+      // --- special case: both bars empty -> show nothing ---
+      if (!q && !tagFilters.length) {
+        [listArticles, listPhotos, listVideos, listReviews].forEach(c => (c.innerHTML = ""));
+        activateTab("results-tabs", "tab-articles");
+        return;
+      }
 
-  let results = search(q, tagFilters, 2000);
+      const results = search(q, tagFilters, 200);
 
-  // --- TAG ONLY SORTING BY startDate ASC ---
-  if (!q && tagFilters.length) {
-    results.sort((a, b) => {
-      const da = a.doc.frontmatter?.startDate || "0000-00-00";
-      const db = b.doc.frontmatter?.startDate || "0000-00-00";
+      const articles = [], photos = [], videos = [], reviews = [];
+      for (const r of results) {
+        const doc = r.doc;
+        const tags = (TAGS_BY_PAGE[doc.path] || []).map(t => t.toLowerCase());
+        if (tags.includes("photos")) photos.push({ score: r.score, doc });
+        else if (tags.includes("videos")) videos.push({ score: r.score, doc });
+        else if (tags.includes("reviews")) reviews.push({ score: r.score, doc });
+        else articles.push({ score: r.score, doc });
+      }
 
-      // Push unknown/0000 dates to the bottom
-      if (da.startsWith("0000") && db.startsWith("0000")) return 0;
-      if (da.startsWith("0000")) return 1;
-      if (db.startsWith("0000")) return -1;
+      function clearAndRender(container, arr, renderer) {
+        container.innerHTML = "";
+        if (!arr.length) {
+          container.innerHTML = `<div class="no-results">No results</div>`;
+          return;
+        }
 
-      // Compare as strings "YYYY-MM-DD" works naturally
-      return da.localeCompare(db);
-    });
-  }
+        // --- For photos, wrap in gallery container ---
+        if (renderer === renderPhoto) {
+          const gallery = document.createElement("div");
+          gallery.className = "gallery";
+          arr.slice(0, 200).forEach(item => {
+            const node = renderer(item.doc);
+            gallery.appendChild(node);
+          });
+          container.appendChild(gallery);
+        } else {
+          arr.slice(0, 200).forEach(item => {
+            const node = renderer(item.doc);
+            container.appendChild(node);
+          });
+        }
+      }
 
-  // --- split into tabs ---
-  const articles = [], photos = [], videos = [], reviews = [];
-  for (const r of results) {
-    const doc = r.doc;
-    const tags = (TAGS_BY_PAGE[doc.path] || []).map(t => t.toLowerCase());
+      clearAndRender(listArticles, articles, renderArticle);
+      clearAndRender(listPhotos, photos, renderPhoto);
+      clearAndRender(listVideos, videos, renderVideo);
+      clearAndRender(listReviews, reviews, renderReview);
 
-    if (tags.includes("photos")) photos.push({ score: r.score, doc });
-    else if (tags.includes("videos")) videos.push({ score: r.score, doc });
-    else if (tags.includes("reviews")) reviews.push({ score: r.score, doc });
-    else articles.push({ score: r.score, doc });
-  }
+      // --- update tab labels with counts ---
+      const tabCounts = {
+        "tab-articles": articles.length,
+        "tab-photos": photos.length,
+        "tab-videos": videos.length,
+        "tab-reviews": reviews.length
+      };
 
-  // --- render tabs ---
-  function clearAndRender(container, arr, renderer) {
-    container.innerHTML = "";
-    if (!arr.length) {
-      container.innerHTML = `<div class="no-results">No results</div>`;
-      return;
+      SEARCH_TABS.forEach(key => {
+        const btn = tabButtons.find(b => b.dataset.tab === key);
+        if (!btn) return;
+        const labelMap = {
+          "tab-articles": "Articles",
+          "tab-photos": "Photos",
+          "tab-videos": "Videos",
+          "tab-reviews": "Reviews"
+        };
+        btn.textContent = `${labelMap[key]} (${tabCounts[key] || 0})`;
+      });
     }
-    for (const item of arr.slice(0, 200)) {
-      container.appendChild(renderer(item.doc));
-    }
-  }
 
-  clearAndRender(listArticles, articles, renderArticle);
-  clearAndRender(listPhotos, photos, renderPhoto);
-  clearAndRender(listVideos, videos, renderVideo);
-  clearAndRender(listReviews, reviews, renderReview);
-
-  // --- update tab counts ---
-  const tabCounts = {
-    "tab-articles": articles.length,
-    "tab-photos": photos.length,
-    "tab-videos": videos.length,
-    "tab-reviews": reviews.length
-  };
-  SEARCH_TABS.forEach(key => {
-    const btn = tabButtons.find(b => b.dataset.tab === key);
-    if (!btn) return;
-    const labelMap = {
-      "tab-articles": "Articles",
-      "tab-photos": "Photos",
-      "tab-videos": "Videos",
-      "tab-reviews": "Reviews"
-    };
-    btn.textContent = `${labelMap[key]} (${tabCounts[key] || 0})`;
-  });
-}
 
 
     // --- INIT ---
