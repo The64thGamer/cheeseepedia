@@ -2,6 +2,7 @@
 title = "Intro to Lost Media"
 draft = false
 tags = ["Meta"]
+categories = ["Cheese-E-Pedia", "Pizza Time Theatre", "Chuck E. Cheese's", "ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

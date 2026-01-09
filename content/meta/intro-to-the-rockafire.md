@@ -2,6 +2,7 @@
 title = "Intro to the Rock-afire Explosion"
 draft = false
 tags = ["Meta"]
+categories = ["Cheese-E-Pedia", "ShowBiz Pizza Place", "Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

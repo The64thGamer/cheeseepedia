@@ -1,6 +1,7 @@
 +++
 title = "The Nefarious Pizza Perpetrator"
 tags = ["User"]
+categories = ["User-Generated Content"]
 +++
 Animatronics fan from Oregon, US.
 

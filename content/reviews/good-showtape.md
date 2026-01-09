@@ -5,6 +5,7 @@ startDate = "2025-09-02"
 page = "CEC Movie Magic"
 contributors = ["crowdigger18"]
 tags = ["Reviews"]
+categories = ["User-Generated Content"]
 +++
 This is a great showtape, period. 
 

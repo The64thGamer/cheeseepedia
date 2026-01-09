@@ -2,7 +2,7 @@
 title= "Error Checker"
 draft= false
 tags = ["Meta"]
-categories = []
+categories = ["Cheese-E-Pedia"]
 contributors = ["The 64th Gamer"]
 +++
 

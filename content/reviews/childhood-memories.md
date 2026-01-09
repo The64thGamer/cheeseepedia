@@ -5,6 +5,7 @@ startDate = "2025-03-17"
 page = "Patchogue, NY (121 Sunrise Hwy)"
 contributors = ["Stripes"]
 tags = ["Reviews"]
+categories = ["User-Generated Content"]
 +++
 I am fond of the Patchogue location, but like most, it's prime was in the early 2000s. My first time going here was in first grade (2003-2004?) and I saw the Studio C Beta. This was when CEC was known for dim lights and bright, flashy shows. I was enamored by Chuck, TBH.
 
