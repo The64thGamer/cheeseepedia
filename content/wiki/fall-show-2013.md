@@ -45,16 +45,16 @@ This was created to play from September 1st - December 1, 2013.
     4.  CEC Live Promo
     5.  Chill Out 4
 
-## Lives:
+## Live Shows:
 
-- Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Do The Chuck E. (New) (3stage, Cyberamic, Studio C,Weigl)
-- Head, Shoulders, Knees And Toes (New) (3stage, Cyberamic, Studio C,Weigl)
-- Cupid Shuffle (3stage, Cyberamic, Studio C,Weigl)
-- Old Mac Donald (3stage, Cyberamic, Studio C,Weigl)
-- Happy & U Know It (3stage, Cyberamic, Studio C,Weigl)
-- BINGO (3stage, Cyberamic, Studio C,Weigl)
+- Rockstar Birthday
+- Spanish Rockstar Birthday
+- Do The Chuck E. (New)
+- Head, Shoulders, Knees And Toes (New)
+- Cupid Shuffle
+- Old MacDonald
+- Happy & U Know It
+- BINGO
 
 ## Trivia:
 
