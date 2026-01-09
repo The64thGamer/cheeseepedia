@@ -48,7 +48,7 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD"]
     3.  Closing Time?
     4.  Dog Party
 
-## Lives:
+## Live Shows:
 
 - Birthday
 - Spanish Birthday
