@@ -5,12 +5,13 @@ startDate = "2001-01-00"
 endDate = "2001-03-00"
 pageThumbnailFile = "MmPRs3ORygD_1csev3_k.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Tux Chuck"]
+mediaDuration = "48:41"
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***January 2001 Show* was the first showtape released in 2001.**
+***January 2001 Show*** was the first showtape released in 2001.
 
 ## Show List:
 
@@ -27,7 +28,7 @@ categories = ["Chuck E. Cheese's"]
 4.  **Intermission 2**
     1.  Eddie Coker - 'One Big Family'
     2.  WFW Babysitter
-    3.  CEC TV ID - 'Rocketship'
+    3.  CEC TV ID - 'Rocket'
 5.  **Segment 3**
     1.  'Combo #5' (parody of [Mambo No. 5'](https://en.wikipedia.org/wiki/Mambo_No._5#Lou_Bega_version))
     2.  ['We Got The Beat'](https://en.wikipedia.org/wiki/We_Got_the_Beat)
@@ -41,12 +42,12 @@ categories = ["Chuck E. Cheese's"]
 8.  **Intermission 4**
     1.  VeggieTales - 'Endangered Love'
     2.  Vintage Planes
-    3.  CEC TV ID - 'Rocketship'
+    3.  CEC TV ID - 'Rocket'
     4.  Book Your Party Online Promo
 
 ## Lives:
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Chuck E. Says
 - Chuck E. Shuffle
@@ -66,4 +67,4 @@ categories = ["Chuck E. Cheese's"]
 
 - The Department 18 logo appears in 'Wacky Pirates in The Outfield.'
 - This show's logo reuses clips from various shows released in 1999-2000. This includes 'Hip Mouse' from {{< wiki-link "April 1999" >}}, 'Do Your Ears Hang Low' 'Are You Eating Mr. Munch' 'The Muffin Man' and 'Song of Sixpence' from {{< wiki-link "Just for Kids Show 2000" >}}, 'Pizza Cabana' from {{< wiki-link "Summertime 2000" >}}, and 'Chuck E.' from {{< wiki-link "September 2000 Show" >}}.
-- The Studio C version of the show logo has the Studio C logo. This is edited out in the Existing Stage version though it can still be seen faintly in the background.
+- The Studio C version of the show logo has the Studio C logo. This is edited out in the Existing Stage version, though it can still be seen faintly in the background.
