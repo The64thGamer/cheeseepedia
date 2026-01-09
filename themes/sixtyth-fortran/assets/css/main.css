@@ -1100,6 +1100,175 @@ sup {
   opacity: 1;
   animation: none;
 }
+/* =========================
+   NEW SEARCH 
+   ========================= */
+.search-ui-container {
+  margin: 1rem 0;
+  font-family: "RockoFLF", "Aleo", system-ui, -apple-system, "Segoe UI", Roboto;
+}
+
+.search-controls {
+  margin-bottom: 1rem;
+}
+
+.search-fuzzy {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border-radius: 1rem;
+  border: 0.25rem solid var(--brown);
+  background-color: var(--deep-white);
+  color: var(--white);
+  outline: none;
+  margin-bottom: 1rem;
+}
+
+.search-tags-wrapper {
+  position: relative;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.tag-chip-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border: 0.25rem solid var(--brown);
+  border-radius: 1rem;
+  min-height: 3rem;
+  cursor: text;
+  background-color: var(--deep-white);
+}
+
+.tag-input {
+  border: none;
+  outline: none;
+  padding: 0.5rem;
+  font-size: 0.95rem;
+  background: transparent;
+  color: var(--white);
+  font-family: "RockoFLF";
+}
+
+.tag-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.25rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  background-color: var(--orange);
+  color: var(--white);
+}
+
+.tag-chip-neg {
+  background-color: var(--deep-orange);
+  color: var(--yellow);
+}
+
+.tag-chip-pos {
+  background-color: var(--aqua);
+  color: var(--blue);
+}
+
+.tag-chip-close {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.75rem;
+  margin-left: 0.25rem;
+}
+
+.tag-suggestions {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  margin-top: 0.5rem;
+  z-index: 80;
+  max-height: 15rem;
+  overflow-y: auto;
+  border: 0.25rem solid var(--brown);
+  border-radius: 1rem;
+  background-color: var(--blue);
+  box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+  display: none;
+}
+
+.tag-suggestion {
+  padding: 0.5rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+  color: var(--white);
+  font-family: "RockoFLF";
+}
+
+.tag-suggestion.active,
+.tag-suggestion:hover {
+  background-color: var(--orange);
+  color: var(--white);
+}
+
+.suggest-count {
+  font-size: 0.75rem;
+  color: var(--yellow);
+  margin-left: 0.5rem;
+}
+
+.search-layout {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.search-left-col {
+  width: 210px;
+}
+
+.search-results-col {
+  flex: 1;
+}
+
+.predef-tags{
+  color: var(--yellow);
+}
+
+.predef-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.predef-tag-btn {
+  color: var(--white);
+  padding: 0.5rem 0.75rem;
+  border-radius: 1rem;
+  border: 0.25rem solid var(--brown);
+  background-color: var(--deep-white);
+  font-size: 0.85rem;
+  cursor: pointer;
+  font-family: "RockoFLF";
+}
+
+.results-summary {
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  color: var(--yellow);
+}
+
+.results-section {
+  margin-bottom: 1rem;
+}
+
+.results-list > * {
+  margin-bottom: 0.5rem;
+}
+
+
 
 /* =========================
    SPLASH

@@ -45,7 +45,6 @@ import matplotlib.pyplot as plt
 # ---------- config ----------
 BASE_CONTENT_DIR = "content/wiki"
 OUT_JSON_DIR = "data/graphs"
-OUT_IMG_DIR = "static/graphs"
 ARTICLE_RATINGS_JSON = os.path.join("data", "article_ratings.json")
 
 # ---------- helpers ----------
@@ -797,7 +796,6 @@ def build_avg_rating_by_tag(entries):
 # ---------- IO ----------
 def ensure_dirs():
     os.makedirs(OUT_JSON_DIR, exist_ok=True)
-    os.makedirs(OUT_IMG_DIR, exist_ok=True)
 
 def write_json(path, obj):
     with open(path, "w", encoding="utf-8") as fh:

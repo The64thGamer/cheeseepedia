@@ -26,3 +26,6 @@ hugo-build.log
 .hugo_build.lock
 
 .venv/
+/data/search
+/data/tags
+/static/data
