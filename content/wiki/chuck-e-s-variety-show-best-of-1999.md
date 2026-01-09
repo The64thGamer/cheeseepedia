@@ -91,7 +91,7 @@ This show is primarily composed of material from 1997 to 1999, with a few interm
 
 ## Live Shows:
 
-**During this time, live shows would be on separate VHS tapes for Existing Stage stores.**
+**Live shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Celebration 2000
 - Birthday Star '98
