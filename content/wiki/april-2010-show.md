@@ -91,7 +91,7 @@ This show played from April - June 2010.
     2.  Busytown Mysteries - 'Huckle! Where's My Apple Car?'
     3.  The Zula Patrol - 'Hey!, I'm A Butterfly'
 
-## Lives:
+## Live Shows:
 
 - Birthday Program
 - Chuck E. Says (Studio C)
@@ -106,9 +106,9 @@ This show played from April - June 2010.
 
 ## Trivia:
 
-- There is no CEC TV logo for this show. Instead, the footage of the Studio C puppets appear on all versions of this show including those for Existing Stages. This would also mark the beginning of Studio C shows only having one video feed during segments. Puppet footage going forward would be part of the main footage and not a separate feed.
-- This was the only show that was specifically programmed for it's {{< wiki-link "Star Stage" >}} equivalent which was being tested at the time.
-- Due to the amount of content on the existing DVD the live shows had to be put on a separate DVD, and stores were also allowed to use the January 2010 DVD for live shows. It is currently unknown what lives were on the DVD.
-- According to the *Valid Shows* section of the newsletter it states that the 'January Show Floppy' was allowed but doesn't mention the DVD for Studio C.
+- There is no CEC TV logo for this show. Instead, the footage of the Studio C puppets appears on all versions of this show, including those for Existing Stages. This would also mark the beginning of Studio C shows only having one video feed during segments. Puppet footage going forward would be part of the main footage and not a separate feed.
+- This was the only show that was specifically programmed for its {{< wiki-link "Star Stage" >}} equivalent, which was being tested at the time.
+- Due to the amount of content on the existing stage DVD, the live shows had to be put on a separate DVD, and stores were also allowed to use the January 2010 DVD for live shows. It is currently unknown what live shows were on the DVD.
+- According to the *Valid Shows* section of the newsletter, it states that the 'January Show Floppy' was allowed, but doesn't mention the DVD for Studio C.
 - This is the only show in 2010 to have featured new content.
-- A brand new DVD #3 for Studio C was released for this show adding the current birthday show (Birthday 09) and new diagnostics for 16m and 32m bots. {{< cite 1 >}}
+- A brand new DVD #3 for Studio C was released for this show, adding the current birthday show (Birthday 09) and new diagnostics for 16m and 32m bots. {{< cite 1 >}}
