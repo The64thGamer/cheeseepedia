@@ -52,7 +52,7 @@ The **January 2008 Show** was a showtape released in 2008 with eight songs.
     3.  PBS Kids Spot
     4.  CEC TV ID - 'Dancing Food'
 
-## Lives:
+## Live Shows:
 
 - Birthday Star Extravaganza (2min)
 - Birthday Star Extravaganza (5min)
