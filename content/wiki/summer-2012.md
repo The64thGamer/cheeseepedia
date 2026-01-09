@@ -48,7 +48,7 @@ mediaDuration = "59:25"
     3.  Pound Puppies
     4.  Dog Party
 
-## Lives:
+## Live Shows:
 
 - Birthday
 - Spanish Birthday
