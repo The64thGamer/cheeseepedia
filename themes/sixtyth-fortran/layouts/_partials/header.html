@@ -1,3 +1,19 @@
+<!--<link href="/pagefind/pagefind-ui.css" rel="stylesheet">-->
+<script src="/pagefind/pagefind-ui.js"></script>
+
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const query = urlParams.get('q');
+
+        if (query) {
+            document.querySelector("#search input").value = query;
+            document.querySelector("#search input").dispatchEvent(new Event('input'));
+        }
+    });
+</script>
 
 <aside data-pagefind-ignore="all">
 <div id="snow_wrap" style= "display:none">
@@ -21,16 +37,7 @@
         {{- $contributorCounts = merge $contributorCounts (dict . (add (index $contributorCounts .) 1)) -}}
       {{- end -}}
     {{- end -}}
-  {{- end -}}
-{{- end -}}
-
-<!-- Sorting contributors -->
-{{- $sortedContributors := slice -}}
-{{- range $key, $value := $contributorCounts -}}
-  {{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
-{{- end -}}
-{{- $sortedContributors = sort $sortedContributors "count" "desc" -}}
-
+@ -50,26 +34,25 @@
 {{- $contributorCount := len $sortedContributors -}}
 
 {{- $count := 0 -}}
@@ -54,5 +61,7 @@
     Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
   </div>
 </div>
+
+<div id="search"></div>
 <br>
 </aside>
