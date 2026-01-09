@@ -6,12 +6,13 @@ endDate = "1998-08-00"
 pageThumbnailFile = "n6N3Ri2j2SKwJvCKkYUq.avif"
 contributors = ["CyberSnout", "The 64th Gamer", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=6QRS--fDlbQ&t=649s"]
-showtapeFormats = ["R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+mediaDuration = "51:28"
+showtapeFormats = ["R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 **May 1998 Studio C** released May 1998 and ran until June 23rd, 1998. It would then be played again from July 7th, 1998 until September 1998.
-This show was a modified version of the Studio C Premiere show with retooled dialogue to better fit stages with the full band setup.
+This show was a modified version of the Studio C Premiere show with retooled dialogue to better fit Existing Stages.
 
 ## Show List
 
@@ -27,9 +28,9 @@ This show was a modified version of the Studio C Premiere show with retooled dia
     1.  Master Remote Skit
 4.  **Intermission 2**
     1.  Pondwatch
-    2.  Coca Cola Spot 1
+    2.  Coke Spot
 5.  **Segment 3**
-    1.  Larry The Technician Skit
+    1.  Larry The Technician - 'Video Feed'
     2.  NFL's 100 Greatest Follies
 6.  **Intermission 3**
     1.  Tim McGraw - 'I Like It, I Love It'
@@ -47,17 +48,17 @@ This show was a modified version of the Studio C Premiere show with retooled dia
     2.  Studio C Bumper
     3.  Amy Grant - 'Good For Me'
     4.  Chuck E. Cheese's Promo
-    5.  Coca Cola Spot 2
+    5.  Coke Spot
 11. **Segment 6**
-    1.  Announcer
+    1.  The Announcer
     2.  Seal - 'Fly Like An Eagle'
 12. **Intermission 6**
     1.  Bugs Bunny - 'Ali Baba Bunny'
     2.  Jackson Five - 'ABC'
 
-## Lives
+## Live Shows
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**Lives would be on separate VHS tapes for Existing Stage stores.**
 
 - Birthday Star 95'
 - Chuck E. March (Reissued)
@@ -67,4 +68,3 @@ This show was a modified version of the Studio C Premiere show with retooled dia
 - Chuck E. Shuffle
 - Patriotic Live
 
-**Birthday Break**: Is currently unknown.
