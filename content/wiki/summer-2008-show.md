@@ -49,7 +49,7 @@ This show was released in July 2008 and played until August.
     3.  Shrek Promo
     4.  CEC TV ID - 'Sunrise'
 
-## Lives:
+## Live Shows:
 
 - BINGO
 - Chuck E. Shuffle
