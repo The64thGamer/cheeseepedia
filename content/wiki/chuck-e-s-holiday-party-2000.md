@@ -7,6 +7,7 @@ pageThumbnailFile = "J6XWHPOYJ_ciVKSfwCIt.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "CyberSnout"]
 citations = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2000ShowUpdateKaraoke.img"]
 credits = ["Jeremy Blaido - Director", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
+mediaDuration = "48:32"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2000ShowUpdateKaraoke.img|Studio C Floppy Disk (Karaoke)"]
 tags = ["Showtapes"]
@@ -81,7 +82,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Rockin' Christmas Eve
 - Chuck E. Says
