@@ -1,7 +1,7 @@
 +++
 title = "Costume Character Cleaning & Preservation"
 draft = false
-tags = ["meta"]
+tags = ["Costume Preservation"]
 categories = [""]
 startDate = ""
 endDate = ""

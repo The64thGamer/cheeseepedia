@@ -2,7 +2,7 @@
 title = "ShowBiz Pizza Master"
 draft = false
 tags = ["User"]
-categories = []
+categories = ["User-Generated Content"]
 startDate = "2022-09-11"
 endDate = ""
 contributors = ["ShowBiz Pizza Master"]

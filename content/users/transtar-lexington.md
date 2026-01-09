@@ -2,11 +2,11 @@
 title = "TRANSTAR-LEXINGTON"
 draft = false
 tags = ["User"]
-categories = []
+categories = ["User-Generated Content"]
 startDate = "2023-02-09"
 endDate = ""
 contributors = ["TRANSTAR-LEXINGTON"]
 citations = []
 +++
-Page)
+Page
 2014.

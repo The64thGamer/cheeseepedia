@@ -5,6 +5,7 @@ startDate = "2025-10-12"
 page = "Chuck E. Cheese Baby Pony (1989)"
 contributors = ["The 64th Gamer"]
 tags = ["Reviews"]
+categories = ["User-Generated Content"]
 +++
 I happen to have this item from a Christmas present so might as well review. Its a great time capsule of the era- yet also such a strange merch item with the giant logo and the not very CEC-esque coloring. 
 

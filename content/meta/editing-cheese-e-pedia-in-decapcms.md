@@ -2,7 +2,7 @@
 title = "Editing Cheese-E-Pedia in DecapCMS"
 draft = false
 tags = ["Meta"]
-categories = []
+categories = ["Cheese-E-Pedia"]
 contributors = ["Stripes"]
 citations = ["https://cheeseepedia.org", "Cheese-E-Pedia"]
 +++

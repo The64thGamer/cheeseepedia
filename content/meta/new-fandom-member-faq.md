@@ -2,9 +2,8 @@
 title = "New Fandom Member FAQ"
 draft = false
 tags = ["Meta"]
-startDate = "2024-08-17"
+categories = ["Cheese-E-Pedia"]
 contributors = ["The 64th Gamer"]
-gallery = [""]
 +++
 
 ## What is/are?
