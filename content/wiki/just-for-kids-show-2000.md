@@ -24,7 +24,7 @@ Featured 4 segments singing various kids' songs and parodies of kids songs.
 2.  **Intermission 1**
     1.  Veggietales - 'The Song of the Cebú
     2.  Store Intro - 'Lewisville TX, CEC'
-    3.  CEC TV ID - 'Rocketship'
+    3.  CEC TV ID - 'Rocket'
 3.  **Segment 2**
     1.  'Home With The Range' (Parody of ['Home On The Range'](https://en.wikipedia.org/wiki/Home_on_the_Range))
     2.  'Do Your Ears Hang Low'
@@ -43,7 +43,7 @@ Featured 4 segments singing various kids' songs and parodies of kids songs.
 6.  **Intermission 3**
     1.  Veggietales - 'The Pirates Who Don't Do Anything'
     2.  Store Intro - 'Lewisville TX, CEC'
-    3.  CEC TV ID - 'Rocketship'
+    3.  CEC TV ID - 'Rocket'
 7.  **Segment 4**
     1.  'Big Rock Candy Mountain'
     2.  'She'll Be Coming Around The Mountain'
