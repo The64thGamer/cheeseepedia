@@ -1,10 +1,10 @@
 {{- /*
 Partial: site_search.html
 Usage:
-  {{ partial "site_search.html" . }}
+{{ partial "site_search.html" . }}
 
 Notes:
-  - Loads search JSON data from /data/*.json via fetch.
+- Loads search JSON data from /data/*.json via fetch.
 */ -}}
 
 <div class="search-ui-container">
@@ -26,413 +26,418 @@ Notes:
       <div class="predef-tags">
         <h4>Quick Tags</h4>
         <div class="predef-list">
-          {{- $predef := slice "Chuck E. Cheese's" "Pizza Time Theatre" "ShowBiz Pizza Place" "Locations" "Showtapes" -}}
+          {{- $predef := slice "Chuck E. Cheese's" "Pizza Time Theatre" "ShowBiz Pizza Place" "Locations" "Showtapes"
+          -}}
           {{- range $i, $t := $predef -}}
-            <button class="predef-tag-btn" type="button" data-tag="{{ $t | html }}" title="Add tag">{{ $t }}</button>
+          <button class="predef-tag-btn" type="button" data-tag="{{ $t | html }}" title="Add tag">{{ $t }}</button>
           {{- end -}}
         </div>
       </div>
     </aside>
+    <div class="tabs" id="results-tabs">
+      <div class="tab-buttons">
+        <button class="tab-button active" data-tab="tab-articles">Articles</button>
+        <button class="tab-button" data-tab="tab-photos">Photos</button>
+        <button class="tab-button" data-tab="tab-videos">Videos</button>
+        <button class="tab-button" data-tab="tab-reviews">Reviews</button>
+      </div>
 
-    <div class="search-results-tabs">
-  <div class="tab-buttons">
-    <button class="tab-button active" data-tab="tab-articles">Articles</button>
-    <button class="tab-button" data-tab="tab-photos">Photos</button>
-    <button class="tab-button" data-tab="tab-videos">Videos</button>
-    <button class="tab-button" data-tab="tab-reviews">Reviews</button>
-  </div>
+      <div class="tab-content">
+        <div class="tab-panel active" id="tab-articles">
+          <div class="results-summary" aria-live="polite"></div>
+          <div class="results-list" id="list-articles"></div>
+        </div>
 
-  <div class="tab-content">
-    <div class="tab-panel active" id="tab-articles">
-      <div class="results-summary" aria-live="polite"></div>
-      <div class="results-list" id="list-articles"></div>
+        <div class="tab-panel" id="tab-photos">
+          <div class="results-list" id="list-photos"></div>
+        </div>
+
+        <div class="tab-panel" id="tab-videos">
+          <div class="results-list" id="list-videos"></div>
+        </div>
+
+        <div class="tab-panel" id="tab-reviews">
+          <div class="results-list" id="list-reviews"></div>
+        </div>
+      </div>
     </div>
-
-    <div class="tab-panel" id="tab-photos">
-      <div class="results-list" id="list-photos"></div>
-    </div>
-
-    <div class="tab-panel" id="tab-videos">
-      <div class="results-list" id="list-videos"></div>
-    </div>
-
-    <div class="tab-panel" id="tab-reviews">
-      <div class="results-list" id="list-reviews"></div>
-    </div>
-  </div>
-</div>
-
   </div>
 </div>
 
 <script>
-document.addEventListener("DOMContentLoaded", () => {
-  // --- DATA STORAGE ---
-  let DOCS = [], TAGS_BY_PAGE = {}, PAGES_BY_TAG = {}, TAG_COUNTS = {}, ALL_TAGS = [];
-  const DOC_TAGS = {}; // map of page path -> [tags]
-  const SEARCH_TABS = ["tab-articles", "tab-photos", "tab-videos", "tab-reviews"];
-  let activeTags = [];
-  let searchTimer = null;
+  document.addEventListener("DOMContentLoaded", () => {
+    // --- DATA STORAGE ---
+    let DOCS = [], TAGS_BY_PAGE = {}, PAGES_BY_TAG = {}, TAG_COUNTS = {}, ALL_TAGS = [];
+    const DOC_TAGS = {}; // map of page path -> [tags]
+    const SEARCH_TABS = ["tab-articles", "tab-photos", "tab-videos", "tab-reviews"];
+    let activeTags = [];
+    let searchTimer = null;
 
-  // --- DOM ELEMENTS ---
-  
-  const tabButtons = Array.from(document.querySelectorAll(".tab-button"));
-  const fuzzyInput = document.getElementById("fuzzy-q");
-  const tagInput = document.getElementById("tag-input");
-  const tagChipContainer = document.getElementById("tag-chip-container");
-  const tagSuggestions = document.getElementById("tag-suggestions");
-  const listArticles = document.getElementById("list-articles");
-  const listPhotos = document.getElementById("list-photos");
-  const listVideos = document.getElementById("list-videos");
-  const listReviews = document.getElementById("list-reviews");
-  const predefButtons = document.querySelectorAll(".predef-tag-btn");
+    // --- DOM ELEMENTS ---
 
-  // --- UTILITY FUNCTIONS ---
-  const reNonWord = /[^\w\s]/g, reSpace = /\s+/g;
+    const tabButtons = Array.from(document.querySelectorAll(".tab-button"));
+    const fuzzyInput = document.getElementById("fuzzy-q");
+    const tagInput = document.getElementById("tag-input");
+    const tagChipContainer = document.getElementById("tag-chip-container");
+    const tagSuggestions = document.getElementById("tag-suggestions");
+    const listArticles = document.getElementById("list-articles");
+    const listPhotos = document.getElementById("list-photos");
+    const listVideos = document.getElementById("list-videos");
+    const listReviews = document.getElementById("list-reviews");
+    const predefButtons = document.querySelectorAll(".predef-tag-btn");
 
-  function normalizeText(s){
-    if(!s) return "";
-    return String(s).toLowerCase().replace(reNonWord, " ").replace(reSpace, " ").trim();
-  }
+    // --- UTILITY FUNCTIONS ---
+    const reNonWord = /[^\w\s]/g, reSpace = /\s+/g;
 
-  function tokenize(s){
-    if(!s) return [];
-    return normalizeText(s).split(/\s+/).filter(Boolean);
-  }
+    function normalizeText(s) {
+      if (!s) return "";
+      return String(s).toLowerCase().replace(reNonWord, " ").replace(reSpace, " ").trim();
+    }
 
-  function charTrigrams(s){
-    s = "  " + normalizeText(s) + "  ";
-    const out = new Set();
-    for(let i=0;i+3<=s.length;i++) out.add(s.slice(i,i+3));
-    return out;
-  }
+    function tokenize(s) {
+      if (!s) return [];
+      return normalizeText(s).split(/\s+/).filter(Boolean);
+    }
 
-  function jaccard(a,b){
-    if(!a.size || !b.size) return 0;
-    let inter=0;
-    for(const x of a) if(b.has(x)) inter++;
-    return inter/(a.size + b.size - inter);
-  }
+    function charTrigrams(s) {
+      s = "  " + normalizeText(s) + "  ";
+      const out = new Set();
+      for (let i = 0; i + 3 <= s.length; i++) out.add(s.slice(i, i + 3));
+      return out;
+    }
 
-  function escapeHtml(s){
-    if(!s) return "";
-    return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;");
-  }
+    function jaccard(a, b) {
+      if (!a.size || !b.size) return 0;
+      let inter = 0;
+      for (const x of a) if (b.has(x)) inter++;
+      return inter / (a.size + b.size - inter);
+    }
 
-  // --- FETCH AND INITIALIZE DATA ---
-  async function loadSearchData(){
-    const [docsRes, tagsRes, pagsRes, countsRes] = await Promise.all([
-      fetch("/data/search/docs.json"),
-      fetch("/data/tags/tags_by_page.json"),
-      fetch("/data/tags/pages_by_tag.json"),
-      fetch("/data/tags/tag_counts.json")
-    ]);
-    DOCS = await docsRes.json();
-    TAGS_BY_PAGE = await tagsRes.json();
-    TAG_COUNTS = await countsRes.json();
-    PAGES_BY_TAG = await pagsRes.json();
+    function escapeHtml(s) {
+      if (!s) return "";
+      return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
+    }
 
-    ALL_TAGS = Object.keys(TAG_COUNTS || {}).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'}));
+    // --- FETCH AND INITIALIZE DATA ---
+    async function loadSearchData() {
+      const [docsRes, tagsRes, pagsRes, countsRes] = await Promise.all([
+        fetch("/data/search/docs.json"),
+        fetch("/data/tags/tags_by_page.json"),
+        fetch("/data/tags/pages_by_tag.json"),
+        fetch("/data/tags/tag_counts.json")
+      ]);
+      DOCS = await docsRes.json();
+      TAGS_BY_PAGE = await tagsRes.json();
+      TAG_COUNTS = await countsRes.json();
+      PAGES_BY_TAG = await pagsRes.json();
 
-    // preprocess docs for tokens/trigrams
-    DOCS.forEach(doc=>{
-      const text = [doc.title||"", doc.excerpt||"", doc.content||"", doc.summary||""].join(" ");
-      doc.tokens = doc.tokens || Array.from(new Set(tokenize(text)));
-      doc.trigrams = doc.trigrams || Array.from(charTrigrams(text));
-      if(doc.path && doc.path.startsWith("/")) doc.path = doc.path.slice(1);
-    });
+      ALL_TAGS = Object.keys(TAG_COUNTS || {}).sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
 
-    console.log("Search data loaded", { DOCS, TAGS_BY_PAGE, PAGES_BY_TAG, TAG_COUNTS, ALL_TAGS });
-  }
+      // preprocess docs for tokens/trigrams
+      DOCS.forEach(doc => {
+        const text = [doc.title || "", doc.excerpt || "", doc.content || "", doc.summary || ""].join(" ");
+        doc.tokens = doc.tokens || Array.from(new Set(tokenize(text)));
+        doc.trigrams = doc.trigrams || Array.from(charTrigrams(text));
+        if (doc.path && doc.path.startsWith("/")) doc.path = doc.path.slice(1);
+      });
 
-  // --- TAG HANDLING ---
-  function addTag(tagStr, negative=false){
-    if(!tagStr) return;
-    const found = ALL_TAGS.find(t=>t.toLowerCase()===tagStr.toLowerCase());
-    const canon = found || tagStr;
-    const idx = activeTags.findIndex(t=>t.tag.toLowerCase()===canon.toLowerCase() && t.negative===negative);
-    if(idx!==-1) return;
-    const opp = activeTags.findIndex(t=>t.tag.toLowerCase()===canon.toLowerCase() && t.negative!==negative);
-    if(opp!==-1) activeTags.splice(opp,1);
-    activeTags.push({tag: canon, negative});
-    renderTagChips();
-  }
+      console.log("Search data loaded", { DOCS, TAGS_BY_PAGE, PAGES_BY_TAG, TAG_COUNTS, ALL_TAGS });
+    }
 
-  function renderTagChips(){
-    Array.from(tagChipContainer.querySelectorAll(".tag-chip")).forEach(n=>n.remove());
-    activeTags.forEach((t,i)=>{
-      const chip = document.createElement("span");
-      chip.className = "tag-chip " + (t.negative?"tag-chip-neg":"tag-chip-pos");
-      chip.setAttribute("data-tag", t.tag);
-      chip.innerHTML = `<button class="tag-chip-close" aria-label="Remove tag" data-idx="${i}">✕</button><span class="tag-chip-label">${t.negative?'-':''}${escapeHtml(t.tag)}</span>`;
-      tagChipContainer.insertBefore(chip, tagInput);
-    });
-    tagInput.value="";
-    tagInput.focus();
-    scheduleSearch();
-  }
-
-  tagChipContainer.addEventListener("click", e=>{
-    const btn = e.target.closest(".tag-chip-close");
-    if(!btn) return;
-    const idx = Number(btn.dataset.idx);
-    if(!Number.isNaN(idx)){
-      activeTags.splice(idx,1);
+    // --- TAG HANDLING ---
+    function addTag(tagStr, negative = false) {
+      if (!tagStr) return;
+      const found = ALL_TAGS.find(t => t.toLowerCase() === tagStr.toLowerCase());
+      const canon = found || tagStr;
+      const idx = activeTags.findIndex(t => t.tag.toLowerCase() === canon.toLowerCase() && t.negative === negative);
+      if (idx !== -1) return;
+      const opp = activeTags.findIndex(t => t.tag.toLowerCase() === canon.toLowerCase() && t.negative !== negative);
+      if (opp !== -1) activeTags.splice(opp, 1);
+      activeTags.push({ tag: canon, negative });
       renderTagChips();
     }
-  });
 
-  predefButtons.forEach(b=>{
-    b.addEventListener("click", function(){ addTag(this.dataset.tag,false); });
-  });
+    function renderTagChips() {
+      Array.from(tagChipContainer.querySelectorAll(".tag-chip")).forEach(n => n.remove());
+      activeTags.forEach((t, i) => {
+        const chip = document.createElement("span");
+        chip.className = "tag-chip " + (t.negative ? "tag-chip-neg" : "tag-chip-pos");
+        chip.setAttribute("data-tag", t.tag);
+        chip.innerHTML = `<button class="tag-chip-close" aria-label="Remove tag" data-idx="${i}">✕</button><span class="tag-chip-label">${t.negative ? '-' : ''}${escapeHtml(t.tag)}</span>`;
+        tagChipContainer.insertBefore(chip, tagInput);
+      });
+      tagInput.value = "";
+      tagInput.focus();
+      scheduleSearch();
+    }
 
-  // --- TAG SUGGESTIONS ---
-  let suggestionIndex=-1;
-function suggestTags(prefix, limit = 10) {
-  if (!prefix) return [];
-
-  let isNeg = false;
-  if (prefix.startsWith("-")) {
-    isNeg = true;
-    prefix = prefix.slice(1).trim();
-  }
-
-  const q = normalizeText(prefix);
-  if (!q) return [];
-
-  // Only use ALL_TAGS (from TAG_COUNTS)
-  const matches = ALL_TAGS
-    .map(tag => ({
-      tag,
-      count: TAG_COUNTS[tag] || 0,
-      negative: isNeg
-    }))
-    .filter(t => normalizeText(t.tag).includes(q))  // partial match
-    .sort((a, b) => {
-      // Sort by count descending, then alphabetical
-      if (b.count !== a.count) return b.count - a.count;
-      return a.tag.localeCompare(b.tag);
-    })
-    .slice(0, limit);
-
-  return matches;
-}
-
-function showSuggestions(list) {
-  tagSuggestions.innerHTML = ""; // rebuild
-  if (!list || !list.length) {
-    tagSuggestions.style.display = "none";
-    tagSuggestions.setAttribute("aria-hidden", "true");
-    return;
-  }
-
-  tagSuggestions.style.display = "block";
-  tagSuggestions.setAttribute("aria-hidden", "false");
-
-  list.forEach((s, i) => {
-    const el = document.createElement("div");
-    el.className = "tag-suggestion";
-    el.dataset.i = i;
-    el.innerHTML = `<span class="suggest-tag">${s.negative ? "-" : ""}${escapeHtml(s.tag)}</span> <span class="suggest-count">(${s.count || 0})</span>`;
-    el.addEventListener("mousedown", ev => {
-      ev.preventDefault();
-      addTag(s.tag, s.negative);
-      hideSuggestions();
+    tagChipContainer.addEventListener("click", e => {
+      const btn = e.target.closest(".tag-chip-close");
+      if (!btn) return;
+      const idx = Number(btn.dataset.idx);
+      if (!Number.isNaN(idx)) {
+        activeTags.splice(idx, 1);
+        renderTagChips();
+      }
     });
-    tagSuggestions.appendChild(el);
-  });
 
-  suggestionIndex = -1;
-  tagSuggestions.scrollTop = 0; // <-- force scrollbar to top every time
-}
+    predefButtons.forEach(b => {
+      b.addEventListener("click", function () { addTag(this.dataset.tag, false); });
+    });
 
-  function hideSuggestions(){ tagSuggestions.innerHTML=""; tagSuggestions.style.display="none"; tagSuggestions.setAttribute("aria-hidden","true"); }
+    // --- TAG SUGGESTIONS ---
+    let suggestionIndex = -1;
+    function suggestTags(prefix, limit = 10) {
+      if (!prefix) return [];
 
-  tagInput.addEventListener("input", ()=>{ 
-    const v=tagInput.value||""; 
-    if(!v.trim()){ hideSuggestions(); return; }
-    showSuggestions(suggestTags(v,12));
-  });
+      let isNeg = false;
+      if (prefix.startsWith("-")) {
+        isNeg = true;
+        prefix = prefix.slice(1).trim();
+      }
 
-  tagInput.addEventListener("keydown", e=>{
-    const v=tagInput.value||"";
-    const items=Array.from(tagSuggestions.querySelectorAll(".tag-suggestion"));
-    if(e.key==="Enter"){ e.preventDefault(); addTag(v.trim().startsWith("-")?v.trim().slice(1):v.trim(),v.trim().startsWith("-")); hideSuggestions(); }
-    else if(e.key==="Tab"){ if(items.length){ e.preventDefault(); const txt=items[0].querySelector(".suggest-tag").textContent; addTag(txt.startsWith("-")?txt.slice(1):txt,txt.startsWith("-")); hideSuggestions(); } }
-    else if(e.key==="ArrowDown"){ if(items.length){ e.preventDefault(); suggestionIndex=Math.min(suggestionIndex+1,items.length-1); items.forEach((it,i)=>it.classList.toggle("active",i===suggestionIndex)); items[suggestionIndex].scrollIntoView({block:"nearest"}); } }
-    else if(e.key==="ArrowUp"){ if(items.length){ e.preventDefault(); suggestionIndex=Math.max(suggestionIndex-1,0); items.forEach((it,i)=>it.classList.toggle("active",i===suggestionIndex)); items[suggestionIndex].scrollIntoView({block:"nearest"}); } }
-    else if(e.key==="Escape"){ hideSuggestions(); }
-  });
+      const q = normalizeText(prefix);
+      if (!q) return [];
 
-  document.addEventListener("click", e=>{ if(!tagSuggestions.contains(e.target)&&e.target!==tagInput) hideSuggestions(); });
+      // Only use ALL_TAGS (from TAG_COUNTS)
+      const matches = ALL_TAGS
+        .map(tag => ({
+          tag,
+          count: TAG_COUNTS[tag] || 0,
+          negative: isNeg
+        }))
+        .filter(t => normalizeText(t.tag).includes(q))  // partial match
+        .sort((a, b) => {
+          // Sort by count descending, then alphabetical
+          if (b.count !== a.count) return b.count - a.count;
+          return a.tag.localeCompare(b.tag);
+        })
+        .slice(0, limit);
 
-  // --- SEARCH LOGIC ---
-  function docHasTag(doc, tag){ return (DOC_TAGS[doc.path]||[]).some(t=>t.toLowerCase()===tag.toLowerCase()); }
+      return matches;
+    }
 
-  function scoreDocForQuery(doc,qTokens,qTris){
-    const docTris=new Set(doc.trigrams||[]), docTokens=new Set(doc.tokens||[]);
-    let tJ = jaccard(qTris,docTris);
-    let tokOverlap=0;
-    if(qTokens.length){ tokOverlap=qTokens.filter(t=>docTokens.has(t)).length/qTokens.length; }
-    let titleBoost=0;
-    const titleLower=(doc.title||"").toLowerCase();
-    for(const t of qTokens) if(titleLower.includes(t)){ titleBoost=0.12; break; }
-    return 0.72*tJ + 0.26*tokOverlap + titleBoost;
-  }
+    function showSuggestions(list) {
+      tagSuggestions.innerHTML = ""; // rebuild
+      if (!list || !list.length) {
+        tagSuggestions.style.display = "none";
+        tagSuggestions.setAttribute("aria-hidden", "true");
+        return;
+      }
 
-function search(fuzzyQuery, tagFilters, maxResults=500){
-  let results = [];
+      tagSuggestions.style.display = "block";
+      tagSuggestions.setAttribute("aria-hidden", "false");
 
-  const isFuzzyEmpty = !fuzzyQuery || !fuzzyQuery.trim();
-  console.log("search called", { fuzzyQuery, tagFilters });
+      list.forEach((s, i) => {
+        const el = document.createElement("div");
+        el.className = "tag-suggestion";
+        el.dataset.i = i;
+        el.innerHTML = `<span class="suggest-tag">${s.negative ? "-" : ""}${escapeHtml(s.tag)}</span> <span class="suggest-count">(${s.count || 0})</span>`;
+        el.addEventListener("mousedown", ev => {
+          ev.preventDefault();
+          addTag(s.tag, s.negative);
+          hideSuggestions();
+        });
+        tagSuggestions.appendChild(el);
+      });
 
-  if(isFuzzyEmpty && tagFilters.length > 0){
-    // tag-only search
-    console.log("tag-only branch");
-    let candidatePaths = null;
+      suggestionIndex = -1;
+      tagSuggestions.scrollTop = 0; // <-- force scrollbar to top every time
+    }
 
-    tagFilters.forEach(tf => {
-      const tagKey = tf.tag; // exact casing from ALL_TAGS / TAG_COUNTS
-      const pagesForTagObjs = PAGES_BY_TAG[tagKey] || [];
-      const pagesForTag = pagesForTagObjs.map(p => p.path || p); // normalize to string paths
-      console.log(`tag: ${tagKey}, pages:`, pagesForTag);
+    function hideSuggestions() { tagSuggestions.innerHTML = ""; tagSuggestions.style.display = "none"; tagSuggestions.setAttribute("aria-hidden", "true"); }
 
-      if(tf.negative){
-        if(!candidatePaths){
-          candidatePaths = Object.values(PAGES_BY_TAG).flat().map(p => p.path || p);
-        }
-        candidatePaths = candidatePaths.filter(p => !pagesForTag.includes(p));
+    tagInput.addEventListener("input", () => {
+      const v = tagInput.value || "";
+      if (!v.trim()) { hideSuggestions(); return; }
+      showSuggestions(suggestTags(v, 12));
+    });
+
+    tagInput.addEventListener("keydown", e => {
+      const v = tagInput.value || "";
+      const items = Array.from(tagSuggestions.querySelectorAll(".tag-suggestion"));
+      if (e.key === "Enter") { e.preventDefault(); addTag(v.trim().startsWith("-") ? v.trim().slice(1) : v.trim(), v.trim().startsWith("-")); hideSuggestions(); }
+      else if (e.key === "Tab") { if (items.length) { e.preventDefault(); const txt = items[0].querySelector(".suggest-tag").textContent; addTag(txt.startsWith("-") ? txt.slice(1) : txt, txt.startsWith("-")); hideSuggestions(); } }
+      else if (e.key === "ArrowDown") { if (items.length) { e.preventDefault(); suggestionIndex = Math.min(suggestionIndex + 1, items.length - 1); items.forEach((it, i) => it.classList.toggle("active", i === suggestionIndex)); items[suggestionIndex].scrollIntoView({ block: "nearest" }); } }
+      else if (e.key === "ArrowUp") { if (items.length) { e.preventDefault(); suggestionIndex = Math.max(suggestionIndex - 1, 0); items.forEach((it, i) => it.classList.toggle("active", i === suggestionIndex)); items[suggestionIndex].scrollIntoView({ block: "nearest" }); } }
+      else if (e.key === "Escape") { hideSuggestions(); }
+    });
+
+    document.addEventListener("click", e => { if (!tagSuggestions.contains(e.target) && e.target !== tagInput) hideSuggestions(); });
+
+    // --- SEARCH LOGIC ---
+    function docHasTag(doc, tag) { return (DOC_TAGS[doc.path] || []).some(t => t.toLowerCase() === tag.toLowerCase()); }
+
+    function scoreDocForQuery(doc, qTokens, qTris) {
+      const docTris = new Set(doc.trigrams || []), docTokens = new Set(doc.tokens || []);
+      let tJ = jaccard(qTris, docTris);
+      let tokOverlap = 0;
+      if (qTokens.length) { tokOverlap = qTokens.filter(t => docTokens.has(t)).length / qTokens.length; }
+      let titleBoost = 0;
+      const titleLower = (doc.title || "").toLowerCase();
+      for (const t of qTokens) if (titleLower.includes(t)) { titleBoost = 0.12; break; }
+      return 0.72 * tJ + 0.26 * tokOverlap + titleBoost;
+    }
+
+    function search(fuzzyQuery, tagFilters, maxResults = 500) {
+      let results = [];
+
+      const isFuzzyEmpty = !fuzzyQuery || !fuzzyQuery.trim();
+      console.log("search called", { fuzzyQuery, tagFilters });
+
+      if (isFuzzyEmpty && tagFilters.length > 0) {
+        // tag-only search
+        console.log("tag-only branch");
+        let candidatePaths = null;
+
+        tagFilters.forEach(tf => {
+          const tagKey = tf.tag; // exact casing from ALL_TAGS / TAG_COUNTS
+          const pagesForTagObjs = PAGES_BY_TAG[tagKey] || [];
+          const pagesForTag = pagesForTagObjs.map(p => p.path || p); // normalize to string paths
+          console.log(`tag: ${tagKey}, pages:`, pagesForTag);
+
+          if (tf.negative) {
+            if (!candidatePaths) {
+              candidatePaths = Object.values(PAGES_BY_TAG).flat().map(p => p.path || p);
+            }
+            candidatePaths = candidatePaths.filter(p => !pagesForTag.includes(p));
+          } else {
+            if (!candidatePaths) {
+              candidatePaths = [...pagesForTag];
+            } else {
+              candidatePaths = candidatePaths.filter(p => pagesForTag.includes(p));
+            }
+          }
+        });
+
+        if (!candidatePaths) candidatePaths = [];
+        console.log("candidatePaths:", candidatePaths);
+
+        results = candidatePaths.map(p => {
+          const doc = DOCS.find(d => d.path === p) || { path: p, title: p };
+          return { score: 1, doc };
+        });
       } else {
-        if(!candidatePaths){
-          candidatePaths = [...pagesForTag];
-        } else {
-          candidatePaths = candidatePaths.filter(p => pagesForTag.includes(p));
+        // --- FUZZY SEARCH (with optional tags) ---
+        for (const doc of DOCS) {
+          // --- check tag filters ---
+          let ok = true;
+          for (const tf of tagFilters) {
+            const want = tf.tag;
+            if (tf.negative) {
+              if (docHasTag(doc, want)) { ok = false; break; }
+            } else {
+              if (!docHasTag(doc, want)) { ok = false; break; }
+            }
+          }
+          if (!ok) continue;
+
+          // --- fuzzy scoring ---
+          const score = scoreDocForQuery(doc, qTokens, qTris);
+          if (score > 0) results.push({ score, doc });
         }
       }
-    });
 
-    if(!candidatePaths) candidatePaths = [];
-    console.log("candidatePaths:", candidatePaths);
+      results.sort((a, b) => b.score - a.score);
+      return results.slice(0, maxResults);
+    }
 
-    results = candidatePaths.map(p => {
-      const doc = DOCS.find(d => d.path === p) || { path: p, title: p };
-      return { score: 1, doc };
-    });
-  } else {
-    // --- FUZZY SEARCH (with optional tags) ---
-    for (const doc of DOCS) {
-      // --- check tag filters ---
-      let ok = true;
-      for (const tf of tagFilters) {
-        const want = tf.tag;
-        if (tf.negative) {
-          if (docHasTag(doc, want)) { ok = false; break; }
-        } else {
-          if (!docHasTag(doc, want)) { ok = false; break; }
+
+    function scheduleSearch() { if (searchTimer) clearTimeout(searchTimer); searchTimer = setTimeout(executeSearch, 150); }
+    fuzzyInput.addEventListener("input", scheduleSearch);
+    fuzzyInput.addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); executeSearch(); } });
+
+    // --- RENDERING ---
+    function renderArticle(doc) { /* simplified: use escapeHtml as before */ const wrapper = document.createElement("div"); wrapper.className = "list-page-block"; wrapper.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return wrapper; }
+    function renderPhoto(doc) { const w = document.createElement("div"); w.className = "article-photo-block"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
+    function renderVideo(doc) { const w = document.createElement("div"); w.className = "list-page-block-video"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
+    function renderReview(doc) { const w = document.createElement("div"); w.className = "list-review-block"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
+
+    function executeSearch() {
+      if (!DOCS || !DOCS.length) {
+        console.warn("Search data not yet loaded or empty");
+        return;
+      }
+
+      const q = fuzzyInput.value.trim();
+      const tagFilters = activeTags.map(t => ({ tag: t.tag, negative: !!t.negative }));
+
+      // --- special case: both bars empty -> show nothing ---
+      if (!q && !tagFilters.length) {
+        [listArticles, listPhotos, listVideos, listReviews].forEach(c => {
+          c.innerHTML = "";
+        });
+
+        // 🔑 Ensure Articles tab stays active
+        activateTab("results-tabs", "tab-articles");
+        return;
+      }
+
+
+      const results = search(q, tagFilters, 200);
+
+      const articles = [], photos = [], videos = [], reviews = [];
+      for (const r of results) {
+        const doc = r.doc;
+
+        const tags = (TAGS_BY_PAGE[doc.path] || []).map(t => t.toLowerCase());
+
+        if (tags.includes("photos")) photos.push({ score: r.score, doc });
+        else if (tags.includes("videos")) videos.push({ score: r.score, doc });
+        else if (tags.includes("reviews")) reviews.push({ score: r.score, doc });
+        else articles.push({ score: r.score, doc });
+      }
+
+
+      const total = results.length;
+
+      function clearAndRender(container, arr, renderer) {
+        container.innerHTML = "";
+        if (!arr.length) {
+          container.innerHTML = `<div class="no-results">No results</div>`;
+          return;
+        }
+        for (const item of arr.slice(0, 200)) {
+          const node = renderer(item.doc);
+          container.appendChild(node);
         }
       }
-      if (!ok) continue;
 
-      // --- fuzzy scoring ---
-      const score = scoreDocForQuery(doc, qTokens, qTris);
-      if (score > 0) results.push({ score, doc });
+      clearAndRender(listArticles, articles, renderArticle);
+      clearAndRender(listPhotos, photos, renderPhoto);
+      clearAndRender(listVideos, videos, renderVideo);
+      clearAndRender(listReviews, reviews, renderReview);
+
+      // --- update tab labels with counts ---
+      const tabCounts = {
+        "tab-articles": articles.length,
+        "tab-photos": photos.length,
+        "tab-videos": videos.length,
+        "tab-reviews": reviews.length
+      };
+
+      SEARCH_TABS.forEach(key => {
+        const btn = tabButtons.find(b => b.dataset.tab === key);
+        if (!btn) return;
+        const count = tabCounts[key] || 0;
+        const labelMap = {
+          "tab-articles": "Articles",
+          "tab-photos": "Photos",
+          "tab-videos": "Videos",
+          "tab-reviews": "Reviews"
+        };
+        btn.textContent = `${labelMap[key]} (${count})`;
+      });
+
+
     }
-  }
-
-  results.sort((a, b) => b.score - a.score);
-  return results.slice(0, maxResults);
-}
 
 
-function scheduleSearch(){ if(searchTimer) clearTimeout(searchTimer); searchTimer=setTimeout(executeSearch,150); }
-  fuzzyInput.addEventListener("input", scheduleSearch);
-  fuzzyInput.addEventListener("keydown", e=>{ if(e.key==="Enter"){ e.preventDefault(); executeSearch(); } });
+    // --- INIT ---
+    (async function init() {
+      await loadSearchData();
+      executeSearch();
+    })();
 
-  // --- RENDERING ---
-  function renderArticle(doc){ /* simplified: use escapeHtml as before */ const wrapper=document.createElement("div"); wrapper.className="list-page-block"; wrapper.innerHTML=`<div>${escapeHtml(doc.title||"")}</div>`; return wrapper; }
-  function renderPhoto(doc){ const w=document.createElement("div"); w.className="article-photo-block"; w.innerHTML=`<div>${escapeHtml(doc.title||"")}</div>`; return w; }
-  function renderVideo(doc){ const w=document.createElement("div"); w.className="list-page-block-video"; w.innerHTML=`<div>${escapeHtml(doc.title||"")}</div>`; return w; }
-  function renderReview(doc){ const w=document.createElement("div"); w.className="list-review-block"; w.innerHTML=`<div>${escapeHtml(doc.title||"")}</div>`; return w; }
-
- function executeSearch() {
-  if (!DOCS || !DOCS.length) {
-    console.warn("Search data not yet loaded or empty");
-    return;
-  }
-
-  const q = fuzzyInput.value.trim();
-  const tagFilters = activeTags.map(t => ({ tag: t.tag, negative: !!t.negative }));
-
-  // --- special case: both bars empty -> show nothing ---
-  if (!q && !tagFilters.length) {
-    [listArticles, listPhotos, listVideos, listReviews].forEach(c => c.innerHTML = "");
-    return;
-  }
-
-  const results = search(q, tagFilters, 200); 
-
-  const articles = [], photos = [], videos = [], reviews = [];
-for (const r of results) {
-  const doc = r.doc;
-
-  const tags = (TAGS_BY_PAGE[doc.path] || []).map(t => t.toLowerCase());
-
-  if (tags.includes("photos")) photos.push({ score: r.score, doc });
-  else if (tags.includes("videos")) videos.push({ score: r.score, doc });
-  else if (tags.includes("reviews")) reviews.push({ score: r.score, doc });
-  else articles.push({ score: r.score, doc });
-}
-
-
-  const total = results.length;
-
-  function clearAndRender(container, arr, renderer) {
-    container.innerHTML = "";
-    if (!arr.length) {
-      container.innerHTML = `<div class="no-results">No results</div>`;
-      return;
-    }
-    for (const item of arr.slice(0, 200)) {
-      const node = renderer(item.doc);
-      container.appendChild(node);
-    }
-  }
-
-  clearAndRender(listArticles, articles, renderArticle);
-  clearAndRender(listPhotos, photos, renderPhoto);
-  clearAndRender(listVideos, videos, renderVideo);
-  clearAndRender(listReviews, reviews, renderReview);
-
-    // --- update tab labels with counts ---
-  const tabCounts = {
-    "tab-articles": articles.length,
-    "tab-photos": photos.length,
-    "tab-videos": videos.length,
-    "tab-reviews": reviews.length
-  };
-
-SEARCH_TABS.forEach(key => {
-  const btn = tabButtons.find(b => b.dataset.tab === key);
-  if (!btn) return;
-  const count = tabCounts[key] || 0;
-  const labelMap = {
-    "tab-articles": "Articles",
-    "tab-photos": "Photos",
-    "tab-videos": "Videos",
-    "tab-reviews": "Reviews"
-  };
-  btn.textContent = `${labelMap[key]} (${count})`;
-});
-
-
-}
-
-
-  // --- INIT ---
-  (async function init(){
-    await loadSearchData();
-    executeSearch();
-  })();
-
-});
+  });
 </script>

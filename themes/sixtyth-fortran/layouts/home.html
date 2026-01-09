@@ -1,6 +1,6 @@
 {{- define "main" -}}
 {{- .Content | safeHTML -}}
-<div class="tabs">
+<div class="tabs" id="news-tabs">
   <div class="tab-buttons">
     <button class="tab-button active" data-tab="news">News</button>
     <button class="tab-button" data-tab="changed">Recently Changed</button>
@@ -71,10 +71,10 @@
 </div>
 
 <h2>Our Articles</h2>
-<div class="tabs">
+<div class="tabs" id="navigation-tabs">
   <div class="tab-buttons">
     <button class="tab-button active" data-tab="hierarchy">Hierarchy</button>
-    <button class="tab-button" data-tab="search">Search (Beta)</button>
+    <button class="tab-button" data-tab="search">Search (Test)</button>
   </div>
 
   <div class="tab-content">
@@ -96,19 +96,66 @@
 
 <script>
 document.addEventListener("DOMContentLoaded", () => {
-  const buttons = document.querySelectorAll(".tab-button");
-  const panels = document.querySelectorAll(".tab-panel");
-
-  buttons.forEach(button => {
-    button.addEventListener("click", () => {
-      buttons.forEach(b => b.classList.remove("active"));
-      panels.forEach(p => p.classList.remove("active"));
-
-      button.classList.add("active");
-      document.getElementById(button.dataset.tab).classList.add("active");
-    });
-  });
+  initTabs("news-tabs");
+  initTabs("navigation-tabs");
+  initTabs("results-tabs");
+  activateTab("results-tabs", "tab-articles");
 });
+
+function initTabs(containerId) {
+  const container = document.getElementById(containerId);
+  if (!container) return;
+
+  // Ensure a default active tab exists
+  const buttons = container.querySelectorAll(".tab-button");
+  const panels = container.querySelectorAll(".tab-panel");
+
+  if (!container.querySelector(".tab-button.active") && buttons.length) {
+    buttons[0].classList.add("active");
+    const firstPanel = container.querySelector(
+      `#${CSS.escape(buttons[0].dataset.tab)}`
+    );
+    if (firstPanel) firstPanel.classList.add("active");
+  }
+
+  container.addEventListener("click", (e) => {
+    const btn = e.target.closest(".tab-button");
+    if (!btn || !container.contains(btn)) return;
+
+    // 🔑 CRITICAL: prevent parent tab groups from handling this click
+    e.stopPropagation();
+
+    const targetId = btn.dataset.tab;
+    if (!targetId) return;
+
+    buttons.forEach(b => b.classList.remove("active"));
+    panels.forEach(p => p.classList.remove("active"));
+
+    btn.classList.add("active");
+
+    const panel = container.querySelector(`#${CSS.escape(targetId)}`);
+    if (panel) panel.classList.add("active");
+  });
+}
+
+function activateTab(containerId, tabId) {
+  const container = document.getElementById(containerId);
+  if (!container) return;
+
+  const buttons = container.querySelectorAll(".tab-button");
+  const panels = container.querySelectorAll(".tab-panel");
+
+  buttons.forEach(b => b.classList.remove("active"));
+  panels.forEach(p => p.classList.remove("active"));
+
+  const btn = container.querySelector(`.tab-button[data-tab="${tabId}"]`);
+  const panel = container.querySelector(`#${CSS.escape(tabId)}`);
+
+  if (btn) btn.classList.add("active");
+  if (panel) panel.classList.add("active");
+}
+
+
 </script>
 
 {{- end -}}
