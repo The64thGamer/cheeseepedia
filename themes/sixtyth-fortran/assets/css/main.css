@@ -1263,7 +1263,6 @@ sup {
   border-radius: 3px;
 }
 
-
 .predef-tags{
   color: var(--yellow);
 }
@@ -1272,7 +1271,6 @@ sup {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-  width: 14rem;
 }
 
 .predef-tag-btn {
@@ -1299,7 +1297,7 @@ sup {
 }
 
 .results-list > * {
-  margin-bottom: 0.5rem;
+  margin: 1rem;
 }
 
 /* =========================
