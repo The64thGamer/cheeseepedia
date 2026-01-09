@@ -9,7 +9,7 @@ contributors = ["CyberSnout","Cy's Junk at School"]
 mediaDuration = "1:00:37"
 citations = []
 pageThumbnailFile = "TndnNM07cXDXau80frxy.avif"
-showtapeFormats = ["Studio C 4x Laserdisc + Files","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["Studio C 4x Laserdisc + Files","R12 SVHS (Post-93)","3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/September%201998%203-Stage-010.iso|Post '93 3-Stage SVHS w/ Signals"]
 +++
 **September 1998** released September 1998 and ran until December 1998.
