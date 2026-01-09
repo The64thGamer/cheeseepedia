@@ -192,13 +192,15 @@ def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
 
         # prefer explicit frontmatter title else file basename
         title = fm.get("title") or fm.get("Title") or Path(path).stem
-        # tags/categories if available (keep as-is; frontmatter may be dict/list)
         tags = fm.get("tags") or fm.get("Tags") or fm.get("categories") or fm.get("Categories") or []
-        # We will also include the entire frontmatter serialized for context if parsers worked
         fm_parsed = fm if isinstance(fm, dict) else {"__raw": str(fm)}
 
+        # --- PHOTO DESCRIPTION HANDLING ---
+        if "photos" in [t.lower() for t in tags]:
+            # store content in frontmatter for search/render use
+            fm_parsed["photoDescription"] = body
+
         # combine body + frontmatter textual params into a single "searchable" blob
-        # include common frontmatter keys that are often useful as text context
         fm_text_parts = []
         for k in ("title","storeNumber","startDate","endDate","sqft","stages","remodels"):
             v = fm.get(k) or fm.get(k.title()) or fm.get(k.upper())
@@ -229,9 +231,9 @@ def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
                 continue
             inverted_tokens[t].append(doc_id)
             seen_tokens.add(t)
-        # trigrams
         for tri in trigs:
             inverted_trigrams[tri].append(doc_id)
+
 
     # Optionally prune trigrams that are too rare (keeps index size lower)
     if TRIGRAM_MIN_DOC_FREQ > 1:

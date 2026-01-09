@@ -538,38 +538,48 @@ Notes:
       return wrapper;
     }
 
-    function renderPhoto(doc) {
-      const wrapper = document.createElement("div");
-      wrapper.className = "gallery-image-box";
+// --- Unified date formatter ---
+function formatDate(date) {
+  if (!date || date === "0000-00-00") return "?";
+  const parts = date.split("-");
+  if (parts.length !== 3) return date;
 
-      // Use title as filename
-      let fileName = doc.title || "";
-      let imgURL = fileName ? `/photos/${fileName}` : "/UI/File Not Found.jpg";
+  const year = parts[0] === "0000" ? "?" : parts[0];
+  const monthNum = Number(parts[1]);
+  const dayNum = Number(parts[2]);
 
-      // Use startDate for description if available
-      let startDate = doc.frontmatter?.startDate || "";
-      let endDate = doc.frontmatter?.endDate || "";
-      let dateStr = "";
+  const months = ["", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.",
+                  "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
 
-      function formatDate(date) {
-        if (!date || date === "0000-00-00") return "";
-        const parts = date.split("-");
-        if (parts.length < 3) return date;
-        const year = parts[0];
-        const months = ["", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
-        const monthName = months[Number(parts[1])] || "";
-        return `${monthName} ${Number(parts[2])}, ${year}`;
-      }
+  let monthStr = months[monthNum] || "";
+  let dayStr = dayNum ? `${dayNum}` : "";
 
-      const formattedStart = formatDate(startDate);
-      const formattedEnd = formatDate(endDate);
-      if (formattedStart || formattedEnd) dateStr = `${formattedStart} - ${formattedEnd}`.trim();
+  if (!monthStr && !dayStr) return year;
+  if (monthStr && !dayStr) return `${monthStr} ${year}`;
+  if (!monthStr && dayStr) return `${dayStr} ${year}`;
+  return `${monthStr} ${dayStr}, ${year}`;
+}
 
-      // Description is title + date
-      const displayText = doc.title + (dateStr ? ` (${dateStr})` : "");
+// --- Photo renderer ---
+function renderPhoto(doc) {
+  const wrapper = document.createElement("div");
+  wrapper.className = "gallery-image-box";
 
-      // Build inner HTML
-      wrapper.innerHTML = `
+  let fileName = doc.title || "";
+  let imgURL = fileName ? `/photos/${fileName}` : "/UI/File Not Found.jpg";
+
+  const startDate = doc.frontmatter?.startDate || "";
+  const endDate = doc.frontmatter?.endDate || "";
+  const formattedStart = formatDate(startDate);
+  const formattedEnd = formatDate(endDate);
+  const dateStr = formattedStart || formattedEnd
+                  ? `${formattedStart}${formattedEnd ? ` - ${formattedEnd}` : ""}`
+                  : "";
+
+  const photoDesc = doc.frontmatter?.photoDescription?.trim();
+  const displayText = photoDesc || doc.title + (dateStr ? ` (${dateStr})` : "");
+
+  wrapper.innerHTML = `
     <div class="article-photo-image">
       <a href="${doc.path || "#"}">
         <img src="${imgURL}" alt="${doc.title || "File Not Found"}" loading="lazy" />
@@ -577,10 +587,68 @@ Notes:
     </div>
     <div class="article-photo-description">${displayText}</div>
   `;
+  return wrapper;
+}
 
-      return wrapper;
-    }
-    function renderVideo(doc) { const w = document.createElement("div"); w.className = "list-page-block-video"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
+// --- Video renderer ---
+function renderVideo(doc) {
+  const wrapper = document.createElement("div");
+  wrapper.className = "list-page-block-video";
+
+  const container = document.createElement("div");
+  container.className = "list-page-container";
+
+  // Video thumbnail
+  const videoDiv = document.createElement("div");
+  videoDiv.className = "list-video";
+
+  const videoURL = doc.title || "";
+  let thumbURL = "/UI/File Not Found.jpg";
+
+  if (videoURL.includes("youtube.com")) {
+    const videoID = videoURL.replace("https://www.youtube.com/watch?v=", "");
+    thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
+  } else if (videoURL.includes("youtu.be")) {
+    const parts = videoURL.split("/");
+    const videoID = parts[parts.length - 1];
+    thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
+  } else if (videoURL.includes("archive.org")) {
+    const parts = videoURL.split("/");
+    const videoID = parts[4] || "";
+    if (videoID) thumbURL = `https://archive.org/services/img/${videoID}`;
+  }
+
+  const thumbLink = document.createElement("a");
+  thumbLink.href = videoURL;
+  thumbLink.target = "_blank";
+  const thumbImg = document.createElement("img");
+  thumbImg.src = thumbURL;
+  thumbImg.alt = "Video Thumbnail";
+  thumbLink.appendChild(thumbImg);
+  videoDiv.appendChild(thumbLink);
+
+  // Video content
+  const contentDiv = document.createElement("div");
+  contentDiv.className = "list-page-video-content";
+
+  const aLink = document.createElement("a");
+  aLink.href = doc.path || "#";
+  const excerpt = (doc.excerpt || "").substring(0, 150);
+  aLink.textContent = excerpt.length < (doc.excerpt || "").length ? excerpt + "..." : excerpt;
+  contentDiv.appendChild(aLink);
+
+  const dateDiv = document.createElement("div");
+  dateDiv.className = "list-page-date";
+  dateDiv.textContent = formatDate(doc.frontmatter?.startDate || "");
+  contentDiv.appendChild(dateDiv);
+
+  container.appendChild(videoDiv);
+  container.appendChild(contentDiv);
+  wrapper.appendChild(container);
+
+  return wrapper;
+}
+
     function renderReview(doc) { const w = document.createElement("div"); w.className = "list-review-block"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
 
     function executeSearch() {

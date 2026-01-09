@@ -311,18 +311,15 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
         # Determine whether to add title as a tag:
         # If any frontmatter tag is a media tag, DO NOT include title.
         has_media_tag = False
-        # find frontmatter tags raw for checking (case-insensitive)
         for key in ("tags", "Tags"):
             if key in fm and fm[key]:
                 raw = fm[key]
-                # if list
                 if isinstance(raw, (list, tuple)):
                     for v in raw:
                         if isinstance(v, str) and v.strip().lower() in MEDIA_TAGS_LOWER:
                             has_media_tag = True
                             break
                 elif isinstance(raw, str):
-                    # split string
                     parts = re.split(r"[;,]", raw)
                     for p in parts:
                         if p.strip().lower() in MEDIA_TAGS_LOWER:
@@ -337,6 +334,18 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             if t_title:
                 raw_tags.append(t_title)
 
+        # --- NEW: add startDate year as a tag ---
+        startDate = fm.get("startDate") or fm.get("StartDate") or ""
+        year_tag = "Unknown Year"
+        if startDate and startDate != "0000-00-00":
+            parts = startDate.split("-")
+            if parts and len(parts) >= 1 and parts[0].isdigit() and parts[0] != "0000":
+                year_tag = parts[0]
+        t_year = normalize_tag_preserve_case(year_tag, canonical_map)
+        if t_year:
+            raw_tags.append(t_year)
+        # --- END NEW ---
+
         # dedupe case-insensitively while preserving canonical_case
         seen = set()
         final_tags = []
@@ -348,9 +357,11 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
                 continue
             seen.add(lk)
             final_tags.append(canonical_map.get(lk, t))
+
         relpath = normalize_page_path(f)
         tags_by_page[relpath] = final_tags
         pages_meta[relpath] = {"title": str(title), "path": relpath}
+
 
     # load infer map and compute closure
     infer_raw = load_infer_map(infer_file)
