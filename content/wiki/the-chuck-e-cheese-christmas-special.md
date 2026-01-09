@@ -6,11 +6,12 @@ endDate = "1995-12-25"
 pageThumbnailFile = "etkug0X4vJoQz_qx1VoX.avif"
 contributors = ["Ceclife13", "CyberSnout"]
 citations = ["https://youtu.be/AXE3B5upD3M"]
-showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+mediaDuration = "50:17"
+showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***The Chuck E. Cheese Christmas Special* was released on November 20, 1995, at Chuck E. Cheese's locations.**
+***The Chuck E. Cheese Christmas Special*** was released on November 20, 1995, at Chuck E. Cheese's locations.
 
 ## Show List
 
