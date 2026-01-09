@@ -57,13 +57,14 @@ This was created to play from April - June 2013.
     3.  Bobby Bear - 'Three Mice'
     4.  CEC TV ID - 'Pasta Fan'
 
-## Lives
+## Live Shows
 
-- Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Cupid Shuffle (3stage, Cyberamic, Studio C,Weigl)
-- BINGO (3stage, Cyberamic, Studio C,Weigl)
-- Happy And You Know It (3stage, Cyberamic, Studio C,Weigl)
+- Birthday
+- Spanish Birthday
+- Cupid Shuffle 
+- BINGO
+- Happy And You Know It
+- Old MacDonald (Studio C)
 
 ## Trivia:
 
