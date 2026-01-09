@@ -44,6 +44,7 @@ Notes:
 "Chuck E. Cheese's" "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">"
 "Movies" "<img src=\"/UI/Emojis/cinema.svg\" class=\"emoji\">"
 "Tickets" "<img src=\"/UI/Emojis/cross.svg\" class=\"emoji\">"
+"Unknown Year" "<img src=\"/UI/Emojis/cross.svg\" class=\"emoji\">"
 "Tokens" "<img src=\"/UI/Emojis/cross.svg\" class=\"emoji\">"
 "Video Games" "<img src=\"/UI/Emojis/gamepad.svg\" class=\"emoji\">"
 "Family Vision" "<img src=\"/UI/Emojis/projector.svg\" class=\"emoji\">"
@@ -68,103 +69,109 @@ Notes:
       </div>
       <div id="tag-suggestions" class="tag-suggestions" aria-hidden="true"></div>
     </div>
-    <div class="search-fuzzy-wrapper">
-      <input id="fuzzy-q" class="search-fuzzy" placeholder="Search Text Contents" autocomplete="off" />
-    </div>
-  </div>
 
-  <div class="search-layout">
-    <aside class="search-left-col">
-      <div class="predef-list">
-        {{- $predef := slice
-        "Pizza Time Theatre"
-        "ShowBiz Pizza Place"
-        "Chuck E. Cheese's"
-        "Locations"
-        "Showtapes"
-        "Animatronic Shows"
-        "Stage Variations"
-        "Animatronics"
-        "History"
-        "Cancelled Locations"
-        "Remodels and Initiatives"
-        "Store Fixtures"
-        "Restaurants/FECs"
-        "Characters"
-        "Costumed Characters"
-        "Puppets"
-        "Live Shows"
-        "Events"
-        "Animatronic Parts"
-        "Animatronic Control Systems"
-        "Animatronic Preservation"
-        "Retrofits"
-        "Other Systems"
-        "Simulators"
-        "Programming Systems"
-        "Commercials"
-        "News Footage"
-        "Company Media"
-        "Movies"
-        "ShowBiz Pizza Programs"
-        "Showtape Formats"
-        "Arcades and Attractions"
-        "Video Games"
-        "Family Vision"
-        "Corporate Documents"
-        "Documents"
-        "Promotional Material"
-        "Social Media and Websites"
-        "Ad Vehicles"
-        "In-Store Merchandise"
-        "Products"
-        "Menu Items"
-        "Tickets"
-        "Tokens"
-        "Employee Wear"
-        "Transcriptions"
-        "User"
-        "Meta"
-        -}}
-        <div class="predef-tags">
-          <h4>Quick Tags</h4>
-          <div class="predef-scroll">
-            <div class="predef-list">
-              {{- range $i, $t := $predef -}}
-              {{- $emoji := index $dictionary $t -}}
-              <button class="predef-tag-btn" type="button" data-tag="{{ $t | html }}" title="Add tag">
-                {{ if $emoji }}{{ $emoji | safeHTML }} {{ end }}{{ $t }}
-              </button>
-              {{- end -}}
+    <div class="search-collapsible" id="search-collapsible">
+      <div class="search-fuzzy-wrapper">
+        <input id="fuzzy-q" class="search-fuzzy" placeholder="Search Text Contents" autocomplete="off" />
+      </div>
+
+      <div class="search-layout">
+        <aside class="search-left-col">
+          <div class="predef-list">
+            {{- $predef := slice
+            "Pizza Time Theatre"
+            "ShowBiz Pizza Place"
+            "Chuck E. Cheese's"
+            "2026"
+            "1977"
+            "Locations"
+            "Showtapes"
+            "Animatronic Shows"
+            "Stage Variations"
+            "Animatronics"
+            "History"
+            "Cancelled Locations"
+            "Remodels and Initiatives"
+            "Store Fixtures"
+            "Restaurants/FECs"
+            "Characters"
+            "Costumed Characters"
+            "Puppets"
+            "Live Shows"
+            "Events"
+            "Animatronic Parts"
+            "Animatronic Control Systems"
+            "Animatronic Preservation"
+            "Retrofits"
+            "Other Systems"
+            "Simulators"
+            "Programming Systems"
+            "Commercials"
+            "News Footage"
+            "Company Media"
+            "Movies"
+            "ShowBiz Pizza Programs"
+            "Showtape Formats"
+            "Arcades and Attractions"
+            "Video Games"
+            "Family Vision"
+            "Corporate Documents"
+            "Documents"
+            "Promotional Material"
+            "Social Media and Websites"
+            "Ad Vehicles"
+            "In-Store Merchandise"
+            "Products"
+            "Menu Items"
+            "Tickets"
+            "Tokens"
+            "Employee Wear"
+            "Transcriptions"
+            "Unknown Year"
+            "User"
+            "Meta"
+            -}}
+            <div class="predef-tags">
+              <h4>Quick Tags</h4>
+              <div class="predef-scroll">
+                <div class="predef-list">
+                  {{- range $i, $t := $predef -}}
+                  {{- $emoji := index $dictionary $t -}}
+                  <button class="predef-tag-btn" type="button" data-tag="{{ $t | html }}" title="Add tag">
+                    {{ if $emoji }}{{ $emoji | safeHTML }} {{ end }}{{ $t }}
+                  </button>
+                  {{- end -}}
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
-    </aside>
-    <div class="tabs" id="results-tabs">
-      <div class="tab-buttons">
-        <button class="tab-button active" data-tab="tab-articles">Articles</button>
-        <button class="tab-button" data-tab="tab-photos">Photos</button>
-        <button class="tab-button" data-tab="tab-videos">Videos</button>
-        <button class="tab-button" data-tab="tab-reviews">Reviews</button>
-      </div>
+        </aside>
+        <div class="tabs" id="results-tabs">
+          <div class="tab-buttons">
+            <button class="tab-button active" data-tab="tab-articles">Articles</button>
+            <button class="tab-button" data-tab="tab-photos">Photos</button>
+            <button class="tab-button" data-tab="tab-videos">Videos</button>
+            <button class="tab-button" data-tab="tab-reviews">Reviews</button>
+          </div>
 
-      <div class="tab-content">
-        <div class="tab-panel active" id="tab-articles">
-          <div class="results-summary" aria-live="polite"></div>
-          <div class="results-list" id="list-articles"></div>
-        </div>
+          <div class="tab-content">
+            <div class="tab-panel active" id="tab-articles">
+              <div class="results-summary" aria-live="polite"></div>
+              <div class="results-list" id="list-articles"></div>
+            </div>
 
-        <div class="tab-panel" id="tab-photos">
-          <div class="results-list" id="list-photos"></div>
-        </div>
+            <div class="tab-panel" id="tab-photos">
+              <div class="results-list" id="list-photos"></div>
+            </div>
 
-        <div class="tab-panel" id="tab-videos">
-          <div class="results-list" id="list-videos"></div>
-        </div>
+            <div class="tab-panel" id="tab-videos">
+              <div class="results-list" id="list-videos"></div>
+            </div>
 
-        <div class="tab-panel" id="tab-reviews">
-          <div class="results-list" id="list-reviews"></div>
+            <div class="tab-panel" id="tab-reviews">
+              <div class="results-list" id="list-reviews"></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -192,6 +199,35 @@ Notes:
     const listVideos = document.getElementById("list-videos");
     const listReviews = document.getElementById("list-reviews");
     const predefButtons = document.querySelectorAll(".predef-tag-btn");
+
+  const collapsible = document.getElementById("search-collapsible");
+
+  let isExpanded = false;
+
+  function expand() {
+    collapsible.style.maxHeight = collapsible.scrollHeight + "px";
+    isExpanded = true;
+  }
+
+  function collapse() {
+    collapsible.style.maxHeight = "0px";
+    isExpanded = false;
+  }
+
+  // Expand on focus
+  tagInput.addEventListener("focus", expand);
+
+  // Collapse if clicked outside
+  document.addEventListener("click", (e) => {
+    if (!tagInput.contains(e.target) && !collapsible.contains(e.target)) {
+      collapse();
+    }
+  });
+
+  // Optional: recalc height if window resizes
+  window.addEventListener("resize", () => {
+    if (isExpanded) collapsible.style.maxHeight = collapsible.scrollHeight + "px";
+  });
 
     // --- UTILITY FUNCTIONS ---
     const reNonWord = /[^\w\s]/g, reSpace = /\s+/g;
@@ -538,48 +574,48 @@ Notes:
       return wrapper;
     }
 
-// --- Unified date formatter ---
-function formatDate(date) {
-  if (!date || date === "0000-00-00") return "?";
-  const parts = date.split("-");
-  if (parts.length !== 3) return date;
+    // --- Unified date formatter ---
+    function formatDate(date) {
+      if (!date || date === "0000-00-00") return "?";
+      const parts = date.split("-");
+      if (parts.length !== 3) return date;
 
-  const year = parts[0] === "0000" ? "?" : parts[0];
-  const monthNum = Number(parts[1]);
-  const dayNum = Number(parts[2]);
+      const year = parts[0] === "0000" ? "?" : parts[0];
+      const monthNum = Number(parts[1]);
+      const dayNum = Number(parts[2]);
 
-  const months = ["", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.",
-                  "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
+      const months = ["", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.",
+        "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
 
-  let monthStr = months[monthNum] || "";
-  let dayStr = dayNum ? `${dayNum}` : "";
+      let monthStr = months[monthNum] || "";
+      let dayStr = dayNum ? `${dayNum}` : "";
 
-  if (!monthStr && !dayStr) return year;
-  if (monthStr && !dayStr) return `${monthStr} ${year}`;
-  if (!monthStr && dayStr) return `${dayStr} ${year}`;
-  return `${monthStr} ${dayStr}, ${year}`;
-}
+      if (!monthStr && !dayStr) return year;
+      if (monthStr && !dayStr) return `${monthStr} ${year}`;
+      if (!monthStr && dayStr) return `${dayStr} ${year}`;
+      return `${monthStr} ${dayStr}, ${year}`;
+    }
 
-// --- Photo renderer ---
-function renderPhoto(doc) {
-  const wrapper = document.createElement("div");
-  wrapper.className = "gallery-image-box";
+    // --- Photo renderer ---
+    function renderPhoto(doc) {
+      const wrapper = document.createElement("div");
+      wrapper.className = "gallery-image-box";
 
-  let fileName = doc.title || "";
-  let imgURL = fileName ? `/photos/${fileName}` : "/UI/File Not Found.jpg";
+      let fileName = doc.title || "";
+      let imgURL = fileName ? `/photos/${fileName}` : "/UI/File Not Found.jpg";
 
-  const startDate = doc.frontmatter?.startDate || "";
-  const endDate = doc.frontmatter?.endDate || "";
-  const formattedStart = formatDate(startDate);
-  const formattedEnd = formatDate(endDate);
-  const dateStr = formattedStart || formattedEnd
-                  ? `${formattedStart}${formattedEnd ? ` - ${formattedEnd}` : ""}`
-                  : "";
+      const startDate = doc.frontmatter?.startDate || "";
+      const endDate = doc.frontmatter?.endDate || "";
+      const formattedStart = formatDate(startDate);
+      const formattedEnd = formatDate(endDate);
+      const dateStr = formattedStart || formattedEnd
+        ? `${formattedStart}${formattedEnd ? ` - ${formattedEnd}` : ""}`
+        : "";
 
-  const photoDesc = doc.frontmatter?.photoDescription?.trim();
-  const displayText = photoDesc || doc.title + (dateStr ? ` (${dateStr})` : "");
+      const photoDesc = doc.frontmatter?.photoDescription?.trim();
+      const displayText = photoDesc || doc.title + (dateStr ? ` (${dateStr})` : "");
 
-  wrapper.innerHTML = `
+      wrapper.innerHTML = `
     <div class="article-photo-image">
       <a href="${doc.path || "#"}">
         <img src="${imgURL}" alt="${doc.title || "File Not Found"}" loading="lazy" />
@@ -587,69 +623,136 @@ function renderPhoto(doc) {
     </div>
     <div class="article-photo-description">${displayText}</div>
   `;
-  return wrapper;
-}
+      return wrapper;
+    }
 
-// --- Video renderer ---
-function renderVideo(doc) {
-  const wrapper = document.createElement("div");
-  wrapper.className = "list-page-block-video";
+    // --- Video renderer ---
+    function renderVideo(doc) {
+      const wrapper = document.createElement("div");
+      wrapper.className = "list-page-block-video";
 
-  const container = document.createElement("div");
-  container.className = "list-page-container";
+      const container = document.createElement("div");
+      container.className = "list-page-container";
 
-  // Video thumbnail
-  const videoDiv = document.createElement("div");
-  videoDiv.className = "list-video";
+      // Video thumbnail
+      const videoDiv = document.createElement("div");
+      videoDiv.className = "list-video";
 
-  const videoURL = doc.title || "";
-  let thumbURL = "/UI/File Not Found.jpg";
+      const videoURL = doc.title || "";
+      let thumbURL = "/UI/File Not Found.jpg";
 
-  if (videoURL.includes("youtube.com")) {
-    const videoID = videoURL.replace("https://www.youtube.com/watch?v=", "");
-    thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
-  } else if (videoURL.includes("youtu.be")) {
-    const parts = videoURL.split("/");
-    const videoID = parts[parts.length - 1];
-    thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
-  } else if (videoURL.includes("archive.org")) {
-    const parts = videoURL.split("/");
-    const videoID = parts[4] || "";
-    if (videoID) thumbURL = `https://archive.org/services/img/${videoID}`;
-  }
+      if (videoURL.includes("youtube.com")) {
+        const videoID = videoURL.replace("https://www.youtube.com/watch?v=", "");
+        thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
+      } else if (videoURL.includes("youtu.be")) {
+        const parts = videoURL.split("/");
+        const videoID = parts[parts.length - 1];
+        thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
+      } else if (videoURL.includes("archive.org")) {
+        const parts = videoURL.split("/");
+        const videoID = parts[4] || "";
+        if (videoID) thumbURL = `https://archive.org/services/img/${videoID}`;
+      }
 
-  const thumbLink = document.createElement("a");
-  thumbLink.href = videoURL;
-  thumbLink.target = "_blank";
-  const thumbImg = document.createElement("img");
-  thumbImg.src = thumbURL;
-  thumbImg.alt = "Video Thumbnail";
-  thumbLink.appendChild(thumbImg);
-  videoDiv.appendChild(thumbLink);
+      const thumbLink = document.createElement("a");
+      thumbLink.href = videoURL;
+      thumbLink.target = "_blank";
+      const thumbImg = document.createElement("img");
+      thumbImg.src = thumbURL;
+      thumbImg.alt = "Video Thumbnail";
+      thumbLink.appendChild(thumbImg);
+      videoDiv.appendChild(thumbLink);
 
-  // Video content
-  const contentDiv = document.createElement("div");
-  contentDiv.className = "list-page-video-content";
+      // Video content
+      const contentDiv = document.createElement("div");
+      contentDiv.className = "list-page-video-content";
 
-  const aLink = document.createElement("a");
-  aLink.href = doc.path || "#";
-  const excerpt = (doc.excerpt || "").substring(0, 150);
-  aLink.textContent = excerpt.length < (doc.excerpt || "").length ? excerpt + "..." : excerpt;
-  contentDiv.appendChild(aLink);
+      const aLink = document.createElement("a");
+      aLink.href = doc.path || "#";
+      const excerpt = (doc.excerpt || "").substring(0, 150);
+      aLink.textContent = excerpt.length < (doc.excerpt || "").length ? excerpt + "..." : excerpt;
+      contentDiv.appendChild(aLink);
 
-  const dateDiv = document.createElement("div");
-  dateDiv.className = "list-page-date";
-  dateDiv.textContent = formatDate(doc.frontmatter?.startDate || "");
-  contentDiv.appendChild(dateDiv);
+      const dateDiv = document.createElement("div");
+      dateDiv.className = "list-page-date";
+      dateDiv.textContent = formatDate(doc.frontmatter?.startDate || "");
+      contentDiv.appendChild(dateDiv);
 
-  container.appendChild(videoDiv);
-  container.appendChild(contentDiv);
-  wrapper.appendChild(container);
+      container.appendChild(videoDiv);
+      container.appendChild(contentDiv);
+      wrapper.appendChild(container);
 
-  return wrapper;
-}
+      return wrapper;
+    }
 
-    function renderReview(doc) { const w = document.createElement("div"); w.className = "list-review-block"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
+    function renderReview(doc, allDocs = []) {
+      const wrapper = document.createElement("div");
+      wrapper.className = "list-review-block";
+
+      const container = document.createElement("div");
+      container.className = "list-review-container";
+
+      const contentDiv = document.createElement("div");
+      contentDiv.className = "list-review-content";
+
+      // --- Review title + reviewed page ---
+      const aLink = document.createElement("a");
+      aLink.href = doc.path || "#";
+
+      const recommend = doc.frontmatter?.recommend;
+      const baseTitle = doc.frontmatter?.LinkTitle || doc.title || "";
+
+      // If a page is being reviewed, append it
+      let reviewedPageStr = "";
+      const pageTitle = doc.frontmatter?.Page;
+      if (pageTitle) {
+        const match = allDocs.find(d => d.title === pageTitle);
+        if (match) {
+          reviewedPageStr = ` - <a href="${match.path}">${match.title}</a>`;
+        } else {
+          reviewedPageStr = ` - ${pageTitle}`;
+        }
+      }
+
+      aLink.innerHTML = (recommend === true ? "👍 " : "👎 ") + baseTitle + reviewedPageStr;
+      contentDiv.appendChild(aLink);
+
+      // --- Review date & contributors ---
+      const dateDiv = document.createElement("div");
+      dateDiv.className = "list-review-date";
+
+      const startDate = doc.frontmatter?.startDate || "";
+      let dateText = formatDate(startDate);
+
+      // Contributors
+      const contributors = doc.frontmatter?.contributors || [];
+      if (contributors.length > 0) {
+        const contribLinks = contributors.map(c => {
+          const match = allDocs.find(d => d.title === c);
+          if (match) {
+            return `<a href="${match.path}">${match.title}</a>`;
+          } else {
+            return c;
+          }
+        }).join(", ");
+        dateText += ` - ${contribLinks}`;
+      } else {
+        dateText += " - Anonymous";
+      }
+
+      dateDiv.innerHTML = dateText;
+      contentDiv.appendChild(dateDiv);
+
+      // --- Review body ---
+      const bodyDiv = document.createElement("div");
+      bodyDiv.className = "list-review-body";
+      bodyDiv.innerHTML = doc.excerpt || doc.content || "";
+      contentDiv.appendChild(bodyDiv);
+
+      container.appendChild(contentDiv);
+      wrapper.appendChild(container);
+      return wrapper;
+    }
 
     function executeSearch() {
       if (!DOCS || !DOCS.length) {

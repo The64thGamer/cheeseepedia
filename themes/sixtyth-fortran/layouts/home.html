@@ -71,23 +71,7 @@
 </div>
 
 <h2>Our Articles</h2>
-<div class="tabs" id="navigation-tabs">
-  <div class="tab-buttons">
-    <button class="tab-button active" data-tab="hierarchy">Hierarchy</button>
-    <button class="tab-button" data-tab="search">Search (Test)</button>
-  </div>
-
-  <div class="tab-content">
-    <div class="tab-panel active" id="hierarchy">
-      {{- partial "list-tags-in-category.html" . -}}
-    </div>
-
-    <div class="tab-panel" id="search">
-      {{ partial "site_search.html" . }}
-
-    </div>
-  </div>
-</div>
+{{- partial "list-tags-in-category.html" . -}}
 <hr>
 <h2>Introductions</h2>
 {{- partial "introductions.html" . -}}
@@ -97,7 +81,6 @@
 <script>
 document.addEventListener("DOMContentLoaded", () => {
   initTabs("news-tabs");
-  initTabs("navigation-tabs");
   initTabs("results-tabs");
   activateTab("results-tabs", "tab-articles");
 });

@@ -1105,6 +1105,17 @@ sup {
 /* =========================
    NEW SEARCH 
    ========================= */
+
+.search-collapsible {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.35s ease;
+}
+
+.search-collapsible.expanded {
+  max-height: 2000rem;
+}
+
 .search-ui-container {
   margin: 1rem 0;
   font-family: "RockoFLF", "Aleo", system-ui, -apple-system, "Segoe UI", Roboto;
