@@ -2,16 +2,17 @@
 draft = false
 title = "Just for Kids Show 2000"
 startDate = "2000-04-00"
-endDate = "2000-07-00"
+endDate = "2000-06-00"
 pageThumbnailFile = "aefaRZPxDztOsnfqtfGt.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "Anonymous", "Cheeseclassic", "Jaxonia"]
+contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "Anonymous", "Cheeseclassic", "Jaxonia", "Ceclife13"]
+mediaDuration = "1:18:18"
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Just for Kids Show (April 2000)** released April 2000 and ran until July 2000.
-Featured 4 segments singing various kids songs and parodies of kid songs.
+**Just for Kids Show (April 2000)** was released in April 2000 and ran until July 2000.
+Featured 4 segments singing various kids' songs and parodies of kids songs.
 
 ## Show Tape:
 
@@ -60,20 +61,24 @@ Featured 4 segments singing various kids songs and parodies of kid songs.
 
 ## Lives
 
-**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
-- Birthday Star
 - Bingo
-- Patriotic Live (America)
+- Birthday Star '98
+- Chuck E. March
+- Havin' A Party at Chuck E.'s Place
+- Chuck E. Says
+- Chuck E. Shuffle
+- America '99
 - Chuck E. Swing
-- Give My Regards to Broadway
-- Rockin' Christmas Eve TOFINISH
+- Rockin' Christmas Eve
+- Give My Regards to Broadway (Existing Stages)
 
 **Birthday Break**: Just for Kids Show logo with music (reused from {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}}) set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
 
 ## Production
 
-- The Lakewood Theater in Dallas, TX is featured in 'Are you eating?'.
+- The Lakewood Theater in Dallas, TX, is featured in 'Are you eating?'.
 - There was a special shirt made with the show's logo for the production crew.
 
 ## Trivia:
