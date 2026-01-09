@@ -12,7 +12,7 @@ transcriptions = ["January 2014 Segment 1"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***January 2014* is a show created to play from January 1st - March 31st 2014 featuring six songs.**
+***January 2014*** is a show created to play from January 1st - March 31st 2014 featuring six songs.
 
 ## Show List:
 
@@ -65,8 +65,8 @@ categories = ["Chuck E. Cheese's"]
 
 - The Studio C Puppets backdrop goes back to the old 2000s look.
 - The backdrop colors are as follows: Pasqually's is Red, Helen's is Green, Jasper's is Blue and Munch's is Orange.
-- The logo used between songs is the [April 2005](https://decodedocdigitize.miraheze.org/wiki/CEC_TV_April_2005_Show) shows mechanical looking CEC TV.
+- The CEC TV logo used between songs is reused from April 2005.
 - This show brought back Helen Henny's Hollywood for the first time in 20 years.
 - This show also created a new Baking with Betty after almost a decade.
 - On the Studio C SD copy of the show at the end is a clip from the 'Kittens In The Kitchen Wearing Mittens' Intermission.
-- This is the last show with curtain and gobo signals appearing in reused live shows. After this show, these stage effects would be left unused due to older lives being reprogrammed.
+- This is the last show with curtain and gobo signals appearing in reused live shows. After this show, these stage effects would be left unused due to older live shows being reprogrammed.
