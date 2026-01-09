@@ -55,16 +55,3 @@ This show was a modified version of the Studio C Premiere show with retooled dia
 12. **Intermission 6**
     1.  Bugs Bunny - 'Ali Baba Bunny'
     2.  Jackson Five - 'ABC'
-
-## Live Shows
-
-**Lives would be on separate VHS tapes for Existing Stage stores.**
-
-- Birthday Star 95'
-- Chuck E. March (Reissued)
-- Havin' A Party
-- Chuck E's Fiesta Mexicana
-- Chuck E. Says
-- Chuck E. Shuffle
-- Patriotic Live
-
