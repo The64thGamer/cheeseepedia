@@ -63,7 +63,7 @@ This show is made up of songs and intermissions reused from various 2000 - 2002 
     1.  Wildlife
     2.  Skydiving (Studio C)
 
-## Lives:
+## Live Shows:
 
 **Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
