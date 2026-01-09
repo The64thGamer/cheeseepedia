@@ -22,8 +22,8 @@ The ***July 1993 Show*** was the segmented show which played during the summer o
     1.  'Guessing Game'
     2.  VJ Spot
 2.   **Segment 1**
-    1.  'Ball Crawl'
-    2.  'Hand Jive'
+        1.  'Ball Crawl'
+        2.  'Hand Jive'
 3.  **Intermission 2**
     1.  'Twinkle Twinkle'
     2.  CEC TV ID - 'Abstract'
@@ -32,8 +32,8 @@ The ***July 1993 Show*** was the segmented show which played during the summer o
     5.  VJ Spot
     6.  Geography Rap - 'Oceans'
 4.   **Segment 2**
-    1.  'Feel The Rhythm'
-    2.  'Do You Believe In Magic'
+        1.  'Feel The Rhythm'
+        2.  'Do You Believe In Magic'
 5.  **Intermission 3**
     1.  'These Hands'
     2.  'Birthday Star'
@@ -42,8 +42,8 @@ The ***July 1993 Show*** was the segmented show which played during the summer o
     5.  CEC TV Classic ID
     6.  1 Minute Countdown
 6.   **Segment 3**
-    1.  Clock Tells Me (Time for Chuck E.'s Place)
-    2.  I Feel Good
+        1.  Clock Tells Me (Time for Chuck E.'s Place)
+        2.  I Feel Good
 7.  **Intermission 4**
     1.  'Train Ride'
     2.  'Birthday Star'
@@ -52,8 +52,8 @@ The ***July 1993 Show*** was the segmented show which played during the summer o
     5.  Helen Henny's Hollywood - 'Honey I Shrunk The Keds'
     6.  1 Minute Countdown
 8.   **Segment 1**
-    1.  'Ball Crawl'
-    2.  'Hand Jive'
+        1.  'Ball Crawl'
+        2.  'Hand Jive'
 9.  **Intermission 5**
     1.  'Rock It Up'
     2.  'Birthday Star'
@@ -62,16 +62,16 @@ The ***July 1993 Show*** was the segmented show which played during the summer o
     5.  'What-Do-You-Want-To Bee'
     6.  VJ Spot
 10.  **Segment 2**
-    1.  'Feel The Rhythm'
-    2.  'Do You Believe In Magic'
+        1.  'Feel The Rhythm'
+        2.  'Do You Believe In Magic'
 11. **Intermission 6**
     1.  'Take Me Out To The Ballgame'
     2.  'Birthday Star'
     3.  2 Minute Countdown
     4.  'Vamos A Bailar'
 12.  **Segment 3**
-    1.  'Clock Tells Me (Time for Chuck E.'s Place)'
-    2.  'I Feel Good'
+        1.  'Clock Tells Me (Time for Chuck E.'s Place)'
+        2.  'I Feel Good'
 13. **Intermission 7**
     1.  'Dancing On The Moon'
     2.  VJ Spot
