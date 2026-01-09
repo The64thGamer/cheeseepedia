@@ -80,7 +80,7 @@ categories = ["Chuck E. Cheese's"]
     7.  Wow Wow Wubbzy! - 'All Bottled Up' 
     8.  The Zone - 'Downhill Skier'
  
-## Lives
+## Live Shows
 
 - Birthday 2009
 - Spanish Birthday 2010
