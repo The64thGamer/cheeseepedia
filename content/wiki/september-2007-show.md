@@ -52,7 +52,7 @@ The **September 2007 Show** was a showtape released in 2007 to celebrate the 30t
     4.  Singing Cowboy
     5.  CEC TV ID - 'Blender'
 
-## Lives:
+## Live Shows:
 
 - Birthday Star Extravaganza (2min)
 - Birthday Star Extravaganza (5min)
