@@ -66,7 +66,7 @@ Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. 
 - Tube Explorer - 'Chuck E-Tickets' (Coming Soon)
 - Tube Explorer - 'Chuck E-Tickets' (Here Right Now)
 
-## Lives:
+## Live Shows:
 
 - Old MacDonald
 - Jumpin'
