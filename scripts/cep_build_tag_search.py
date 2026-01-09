@@ -22,6 +22,7 @@ import os
 import re
 import sys
 import json
+import unicodedata
 from pathlib import Path
 from collections import defaultdict, OrderedDict
 
@@ -266,19 +267,53 @@ def expand_tags_with_inference(tags_in: list, infer_closure: dict, canonical_map
                         changed = True
     out = sorted(out_set, key=lambda s: s.lower())
     return out
+
+# ----------------- Path slugification (Hugo-like) -----------------
+# Approximate Hugo slugification for page paths:
+#  - Unicode NFKD decomposition + remove combining marks
+#  - Replace whitespace/punctuation with hyphens
+#  - Collapse multiple hyphens, trim leading/trailing hyphens
+#  - Lowercase
+# Preserve segments beginning with '_' (e.g. _index)
+_re_non_alnum = re.compile(r"[^a-z0-9\-]+", re.IGNORECASE)
+_re_hyphens = re.compile(r"-{2,}")
+
+def slugify_segment(s: str) -> str:
+    if not s:
+        return ""
+    s = unicodedata.normalize("NFKD", str(s))
+    s = "".join(ch for ch in s if not unicodedata.category(ch).startswith("M"))
+    s = s.lower()
+    s = re.sub(r"\s+", "-", s)
+    s = _re_non_alnum.sub("-", s)
+    s = _re_hyphens.sub("-", s)
+    s = s.strip("-")
+    return s
+
 def normalize_page_path(path: str):
     """
-    Convert 'content/foo/bar.md' -> 'foo/bar'
-    Removes BASE_CONTENT_DIR prefix and extension.
+    Convert 'content/foo/bar.md' -> 'foo/bar' and slugify segments:
+     - remove BASE_CONTENT_DIR prefix
+     - remove extension
+     - split path segments and slugify each (except segments starting with '_')
+     - return joined path (no leading slash)
     """
-    # convert to forward slashes
+    if not path:
+        return ""
     rel = os.path.relpath(path).replace(os.sep, "/")
-    # remove base content dir
     if rel.startswith(BASE_CONTENT_DIR + "/"):
         rel = rel[len(BASE_CONTENT_DIR)+1:]
-    # remove extension
+    if rel.startswith("/"):
+        rel = rel[1:]
     rel = re.sub(r"\.(md|markdown|mdown)$", "", rel, flags=re.IGNORECASE)
-    return rel
+    parts = [p for p in rel.split("/") if p != ""]
+    out_parts = []
+    for seg in parts:
+        if seg.startswith("_"):
+            out_parts.append(seg)
+        else:
+            out_parts.append(slugify_segment(seg))
+    return "/".join(out_parts)
 
 # ---- Main builder ----
 def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_DEFAULT):
@@ -334,7 +369,7 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             if t_title:
                 raw_tags.append(t_title)
 
-        # --- NEW: add startDate year as a tag ---
+        # --- add startDate year as a tag (Unknown Year for 0000) ---
         startDate = fm.get("startDate") or fm.get("StartDate") or ""
         year_tag = "Unknown Year"
         if startDate and startDate != "0000-00-00":
@@ -344,7 +379,7 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
         t_year = normalize_tag_preserve_case(year_tag, canonical_map)
         if t_year:
             raw_tags.append(t_year)
-        # --- END NEW ---
+        # --- end year tag ---
 
         # dedupe case-insensitively while preserving canonical_case
         seen = set()
@@ -361,7 +396,6 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
         relpath = normalize_page_path(f)
         tags_by_page[relpath] = final_tags
         pages_meta[relpath] = {"title": str(title), "path": relpath}
-
 
     # load infer map and compute closure
     infer_raw = load_infer_map(infer_file)
