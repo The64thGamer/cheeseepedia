@@ -36,10 +36,10 @@ This show was a modified version of the Studio C Premiere show with retooled dia
     1.  Tim McGraw - 'I Like It, I Love It'
 7.  **Segment 4**
     1.  Go-Go's - 'Our Lips Are Sealed'
-    2.  Chuck E. Cheese News
+    2.  Chuck E. Cheese News - 'Particle Travel'
 8.  **Intermission 4**
     1.  Hanson - 'MmmBop'
-    2.  Will Frye The Nutrition Guy - 'Food Pyramid'
+    2.  Will Frye The Nutrition Guy
     3.  Leann Rimes - 'How Do I Live'
 9.  **Segment 5**
     1.  NFL's 100 Greatest Follies
