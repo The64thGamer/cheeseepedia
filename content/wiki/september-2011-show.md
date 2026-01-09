@@ -63,7 +63,7 @@ categories = ["Chuck E. Cheese's"]
     5.  Chillout - 'Space'
     6.  CEC TV ID - 'NBC Chime'
 
-## Lives:
+## Live Shows:
 
 - Birthday 2009
 - Spanish Birthday 2010
