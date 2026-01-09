@@ -12,7 +12,7 @@ Where did I go wrong? Compose yourself, Whiplash, you’ll get to the seat of th
 
 **Narrator:**
 
-His comic comments are a distraction for all on their tour to the food order counter. Bullwinkle’s customers choose from our wide variety of delicious menu items including: Bullwinkle’s Fa-Moose Pizza, our own special deep dish, double crusted, stuffed pizza. Family style Klondike Fried Chicken. Sweet Polly’s self-serve salad side board which features: garden fresh salad, salsa macaroni salad, fresh fruit salad, and daily pasta with four Moose-ellaneous dressings including our own house special. Bullwinkle’s traditional thin crust pizzas are called Dudley Do-Right’s Done-Right Pizza’s. The house specials are appropriately named, Mother-Lode Pizza, Garden Cache Pizza, and our unique Pizza Of The Sea. Bullwinkle’s menu also features Underdog’s Heroic Sandwiches, beverages, and 8 delicious desserts with character like Rocky’s Road, Snidley’s Whiplash, and of course, Bullwinkle Mousse. Food orders are received on  remote kitchen printer to expedite customer meal preparations. When ready, order numbers appear on television monitors located throughout the restaurant notifying customers to come to the pick up window for their freshly prepared meal. Bullwinkle’s tempting desserts and beverages are prepared for customer pick up at the adjacent counter. The main dining room is Bullwinkle’s Showroom. It is themed with a variety of rustic looking but attractive lamps, dozens of eye-catching nicknacks and some not so likely graffiti. Employees wear an attractive deputy mountie uniform in theme with the restaurant decor and our co-star, Dudley Do-Right of the Royal Canadian Mountie’s. The tiered seating and theatre shape of Bullwinkle’s showroom provides a comfortable atmosphere for families while they dine and watch the Bullwinkle show. When the curtains rise on the animated, computer controlled Bullwinkle show the audience is in for the kind of humour they’ve come to expect from Bullwinkle, Rocky, and the forever blundering Dudley Do-Right. 
+His comic comments are a distraction for all on their tour to the food order counter. Bullwinkle’s customers choose from our wide variety of delicious menu items including: Bullwinkle’s Fa-Moose Pizza, our own special deep dish, double crusted, stuffed pizza. Family style Klondike Fried Chicken. Sweet Polly’s self-serve salad side board which features: garden fresh salad, salsa macaroni salad, fresh fruit salad, and daily pasta with four Moose-ellaneous dressings including our own house special. Bullwinkle’s traditional thin crust pizzas are called Dudley Do-Right’s Done-Right Pizza’s. The house specials are appropriately named, Mother-Lode Pizza, Garden Cache Pizza, and our unique Pizza Of The Sea. Bullwinkle’s menu also features Underdog’s Heroic Sandwiches, beverages, and 8 delicious desserts with character like Rocky’s Road, Snidley’s Whiplash, and of course, Bullwinkle Mousse. Food orders are received on  remote kitchen printer to expedite customer meal preparations. When ready, order numbers appear on television monitors located throughout the restaurant notifying customers to come to the pick up window for their freshly prepared meal. Bullwinkle’s tempting desserts and beverages are prepared for customer pick up at the adjacent counter. The main dining room is Bullwinkle’s Showroom. It is themed with a variety of rustic looking but attractive lamps, dozens of eye-catching nicknacks and some not so likely graffiti. Employees wear an attractive deputy mountie uniform in theme with the restaurant decor and our co-star, Dudley Do-Right of the Royal Canadian Mountie’s. The tiered seating and theatre shape of Bullwinkle’s showroom provides a comfortable atmosphere for families while they dine and watch the Bullwinkle show. When the curtains rise on the animated, computer controlled Bullwinkle show the audience is in for the kind of humor they’ve come to expect from Bullwinkle, Rocky, and the forever blundering Dudley Do-Right. 
 
 **Dudley Do-Right:**
 
@@ -69,6 +69,7 @@ Hey now! What’s going on? Oh, water! Oh fudge. Well, two can play at this game
 **[Dudley starts to poorly sing]**
 
 **Dudley Do-Right: (Singing)**
+
 By a waterfall, at Camp Resolution!
 
 **Dudley Do-Right:**
@@ -77,7 +78,7 @@ Oh darn, it looks like I’m all “washed up”.
 
 **Narrator:**
 
-Bullwinkle’s brand of humour even extends to poetry recitals.
+Bullwinkle’s brand of humor even extends to poetry recitals.
 
 **Bullwinkle:**
 
