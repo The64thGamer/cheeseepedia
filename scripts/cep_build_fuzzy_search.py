@@ -13,10 +13,6 @@ Indexing approach:
  - Search scoring: weighted combination of trigram Jaccard and token overlap, with a title match boost.
  - Supports minus-exclusions in queries: tokens prefixed with '-' will remove docs containing that token.
 
-Usage:
-  python3 scripts/build_search_index.py --build
-  python3 scripts/build_search_index.py --query "pizza -concord"
-
 Config (at top of script): adjust BASE_CONTENT_DIR, OUT_DIR, MIN_TOKEN_LEN etc.
 """
 from __future__ import annotations
@@ -27,6 +23,7 @@ import json
 import argparse
 from collections import defaultdict, Counter
 from pathlib import Path
+import unicodedata
 
 # Try to import TOML/YAML parsers for frontmatter; optional
 try:
@@ -66,18 +63,63 @@ def decode_text(raw: bytes) -> str:
             continue
     # fallback
     return raw.decode("utf-8", errors="ignore")
+
+# ----------------- Path slugification (Hugo-like) -----------------
+# This approximates Hugo's slugification:
+#  - Unicode NFKD decomposition + remove combining marks
+#  - Replace any non-alphanumeric characters with hyphen
+#  - Collapse multiple hyphens, trim leading/trailing hyphens
+#  - Lowercase
+# Preserve segments beginning with '_' (e.g. _index)
+_re_non_alnum = re.compile(r"[^a-z0-9\-]+", re.IGNORECASE)
+_re_hyphens = re.compile(r"-{2,}")
+
+def slugify_segment(s: str) -> str:
+    if not s:
+        return ""
+    # Normalize unicode (separate diacritics), remove combining marks
+    s = unicodedata.normalize("NFKD", str(s))
+    s = "".join(ch for ch in s if not unicodedata.category(ch).startswith("M"))
+    s = s.lower()
+    # Replace any group of non-alphanumeric characters with hyphen
+    # First replace whitespace/punctuation with hyphen
+    s = re.sub(r"\s+", "-", s)
+    s = _re_non_alnum.sub("-", s)
+    # collapse multiple hyphens
+    s = _re_hyphens.sub("-", s)
+    # strip leading/trailing hyphens
+    s = s.strip("-")
+    return s
+
 def normalize_page_path(path: str):
     """
-    Convert 'content/foo/bar.md' -> 'foo/bar'
-    Removes BASE_CONTENT_DIR prefix and markdown extension.
+    Convert 'content/foo/bar.md' -> 'foo/bar' and slugify segments:
+     - remove BASE_CONTENT_DIR prefix
+     - remove markdown extension
+     - split path segments and slugify each (except segments starting with '_')
+     - return joined path (no leading slash)
     """
+    if not path:
+        return ""
     rel = os.path.relpath(path).replace(os.sep, "/")
     # remove base content dir
     if rel.startswith(BASE_CONTENT_DIR + "/"):
         rel = rel[len(BASE_CONTENT_DIR)+1:]
+    # strip leading slash if any
+    if rel.startswith("/"):
+        rel = rel[1:]
     # remove extension
     rel = re.sub(r"\.(md|markdown|mdown)$", "", rel, flags=re.IGNORECASE)
-    return rel
+    # break into segments and slugify each (preserve leading underscore segments like _index)
+    parts = [p for p in rel.split("/") if p != ""]
+    out_parts = []
+    for seg in parts:
+        if seg.startswith("_"):
+            # keep underscore segments as-is (common for _index)
+            out_parts.append(seg)
+        else:
+            out_parts.append(slugify_segment(seg))
+    return "/".join(out_parts)
 
 # Frontmatter parsing: support TOML (+++ ... +++) and YAML (--- ... ---).
 def read_frontmatter_and_body(path: str):
@@ -192,12 +234,20 @@ def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
 
         # prefer explicit frontmatter title else file basename
         title = fm.get("title") or fm.get("Title") or Path(path).stem
+
+        # tags/categories if available (keep as-is; frontmatter may be dict/list)
         tags = fm.get("tags") or fm.get("Tags") or fm.get("categories") or fm.get("Categories") or []
+
+        # We will also include the entire frontmatter serialized for context if parsers worked
         fm_parsed = fm if isinstance(fm, dict) else {"__raw": str(fm)}
 
         # --- PHOTO DESCRIPTION HANDLING ---
-        if "photos" in [t.lower() for t in tags]:
-            # store content in frontmatter for search/render use
+        # If the page claims it's a photo page (tags contains "photos"), stash the body into frontmatter.photoDescription
+        try:
+            tags_lc = [t.lower() for t in tags] if isinstance(tags, (list, tuple)) else [str(tags).lower()]
+        except Exception:
+            tags_lc = []
+        if "photos" in tags_lc:
             fm_parsed["photoDescription"] = body
 
         # combine body + frontmatter textual params into a single "searchable" blob
@@ -233,7 +283,6 @@ def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
             seen_tokens.add(t)
         for tri in trigs:
             inverted_trigrams[tri].append(doc_id)
-
 
     # Optionally prune trigrams that are too rare (keeps index size lower)
     if TRIGRAM_MIN_DOC_FREQ > 1:

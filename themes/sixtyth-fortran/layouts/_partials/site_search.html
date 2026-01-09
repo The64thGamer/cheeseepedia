@@ -181,7 +181,7 @@ Notes:
 document.addEventListener("DOMContentLoaded", () => {
   // --- DATA STORAGE ---
   let DOCS = [], TAGS_BY_PAGE = {}, PAGES_BY_TAG = {}, TAG_COUNTS = {}, ALL_TAGS = [];
-  const DOC_TAGS = {}; // map of page path -> [tags]
+  const DOC_TAGS = {}; // map normalized page path -> [tags]
   const SEARCH_TABS = ["tab-articles", "tab-photos", "tab-videos", "tab-reviews"];
   let activeTags = [];
   let searchTimer = null;
@@ -198,66 +198,67 @@ document.addEventListener("DOMContentLoaded", () => {
   const listReviews = document.getElementById("list-reviews");
   const predefButtons = document.querySelectorAll(".predef-tag-btn");
 
-  // collapsible trigger & container (may exist)
+  // collapsible support
   const trigger = document.getElementById("tag-input");
   const collapsible = document.getElementById("search-collapsible");
 
-  if (!trigger || !collapsible) {
-    console.warn("Search collapsible trigger or container not found (continuing without collapse warnings).");
-    // continue — we don't return because the rest of the search must still work
+  // --- Helpers for path normalization & permalinks ---
+  function normalizePageKey(raw) {
+    // raw may be object {path: "..."} or a string like "content/foo/bar.md" or "/content/foo/bar.md"
+    if (!raw) return "";
+    let p = (typeof raw === "object") ? (raw.path || "") : String(raw);
+    p = p.trim();
+    // if it's an absolute URL, return it unchanged (we won't use it as a key)
+    if (/^https?:\/\//i.test(p)) return p;
+    // strip leading slash
+    if (p.startsWith("/")) p = p.slice(1);
+    // strip leading content/ prefix
+    if (p.startsWith("content/")) p = p.slice("content/".length);
+    // remove trailing slash
+    if (p.endsWith("/")) p = p.slice(0, -1);
+    // strip .md or other markdown extensions
+    p = p.replace(/\.(md|markdown|mdown)$/i, "");
+    return p;
   }
 
-  // --- collapsible open-once behavior ---
+  function makePermalink(rawPath) {
+    if (!rawPath) return "#";
+    // If absolute URL, leave as-is
+    if (/^https?:\/\//i.test(rawPath)) return rawPath;
+    const key = normalizePageKey(rawPath);
+    if (!key) return "/";
+    // special-case index page (root)
+    if (key === "_index" || key === "") return "/";
+    // return with leading and trailing slash
+    return "/" + key + (key.endsWith("/") ? "" : "/");
+  }
+
+  // --- collapsible open-once ---
   let opened = false;
   function openOnce() {
     if (!collapsible) return;
     if (opened) return;
     opened = true;
-    // animate to scrollHeight then remove restriction
+    // animate: set maxHeight -> scrollHeight, then remove restriction
     collapsible.style.maxHeight = collapsible.scrollHeight + "px";
-    collapsible.addEventListener(
-      "transitionend",
-      () => {
-        // allow natural growth after animation
-        collapsible.style.maxHeight = "none";
-      },
-      { once: true }
-    );
+    collapsible.addEventListener("transitionend", () => {
+      collapsible.style.maxHeight = "none";
+    }, { once: true });
   }
-  // trigger by click/focus (robust)
   if (trigger) {
     trigger.addEventListener("click", openOnce);
     trigger.addEventListener("focus", openOnce);
   }
 
-  // --- UTILITY FUNCTIONS ---
+  // --- Basic text utilities ---
   const reNonWord = /[^\w\s]/g, reSpace = /\s+/g;
-  function normalizeText(s) {
-    if (!s) return "";
-    return String(s).toLowerCase().replace(reNonWord, " ").replace(reSpace, " ").trim();
-  }
-  function tokenize(s) {
-    if (!s) return [];
-    return normalizeText(s).split(/\s+/).filter(Boolean);
-  }
-  function charTrigrams(s) {
-    s = "  " + normalizeText(s) + "  ";
-    const out = new Set();
-    for (let i = 0; i + 3 <= s.length; i++) out.add(s.slice(i, i + 3));
-    return out;
-  }
-  function jaccard(a, b) {
-    if (!a.size || !b.size) return 0;
-    let inter = 0;
-    for (const x of a) if (b.has(x)) inter++;
-    return inter / (a.size + b.size - inter);
-  }
-  function escapeHtml(s) {
-    if (!s) return "";
-    return String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&#39;");
-  }
+  function normalizeText(s) { if (!s) return ""; return String(s).toLowerCase().replace(reNonWord, " ").replace(reSpace, " ").trim(); }
+  function tokenize(s) { if (!s) return []; return normalizeText(s).split(/\s+/).filter(Boolean); }
+  function charTrigrams(s) { s = "  " + normalizeText(s) + "  "; const out = new Set(); for (let i = 0; i + 3 <= s.length; i++) out.add(s.slice(i, i + 3)); return out; }
+  function jaccard(a, b) { if (!a.size || !b.size) return 0; let inter = 0; for (const x of a) if (b.has(x)) inter++; return inter / (a.size + b.size - inter); }
+  function escapeHtml(s) { if (!s) return ""; return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;"); }
 
-  // --- TAB / PANEL HELPERS ---
+  // --- Tab activation helper ---
   function activateTab(containerId, panelId) {
     const container = document.getElementById(containerId);
     if (!container) return;
@@ -266,15 +267,9 @@ document.addEventListener("DOMContentLoaded", () => {
     btns.forEach(b => b.classList.toggle("active", b.dataset.tab === panelId));
     panels.forEach(p => p.classList.toggle("active", p.id === panelId));
   }
-  // wire up clicks on tab buttons
-  tabButtons.forEach(b => {
-    b.addEventListener("click", (ev) => {
-      const tab = b.dataset.tab;
-      activateTab("results-tabs", tab);
-    });
-  });
+  tabButtons.forEach(b => b.addEventListener("click", () => activateTab("results-tabs", b.dataset.tab)));
 
-  // --- FETCH AND INITIALIZE DATA ---
+  // --- Load JSON data and normalize keys ---
   async function loadSearchData() {
     const [docsRes, tagsRes, pagsRes, countsRes] = await Promise.all([
       fetch("/data/search/docs.json"),
@@ -284,30 +279,32 @@ document.addEventListener("DOMContentLoaded", () => {
     ]);
     DOCS = await docsRes.json();
     TAGS_BY_PAGE = await tagsRes.json();
-    TAG_COUNTS = await countsRes.json();
     PAGES_BY_TAG = await pagsRes.json();
+    TAG_COUNTS = await countsRes.json();
 
-    ALL_TAGS = Object.keys(TAG_COUNTS || {}).sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
+    // build ALL_TAGS
+    ALL_TAGS = Object.keys(TAG_COUNTS || {}).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'}));
 
-    // preprocess docs for tokens/trigrams and normalize path
+    // preprocess docs (tokens/trigrams) and ensure doc.path is normalized key form
     DOCS.forEach(doc => {
       const text = [doc.title || "", doc.excerpt || "", doc.content || "", doc.summary || ""].join(" ");
       doc.tokens = doc.tokens || Array.from(new Set(tokenize(text)));
       doc.trigrams = doc.trigrams || Array.from(charTrigrams(text));
-      if (doc.path && doc.path.startsWith("/")) doc.path = doc.path.slice(1);
+      // Normalize doc.path to key style (no leading slash, no content/ prefix, no extension)
+      if (doc.path) doc.path = normalizePageKey(doc.path);
     });
 
-    // build DOC_TAGS from TAGS_BY_PAGE for faster docHasTag usage (keys normalized to doc.path form)
-    for (const p in TAGS_BY_PAGE) {
-      const key = p && p.startsWith("/") ? p.slice(1) : p;
-      DOC_TAGS[key] = TAGS_BY_PAGE[p] || [];
+    // Build DOC_TAGS by normalizing keys from TAGS_BY_PAGE
+    for (const rawKey in TAGS_BY_PAGE) {
+      const normKey = normalizePageKey(rawKey);
+      DOC_TAGS[normKey] = TAGS_BY_PAGE[rawKey] || [];
     }
 
     console.log("Search data loaded", { DOCS, TAGS_BY_PAGE, PAGES_BY_TAG, TAG_COUNTS, ALL_TAGS });
   }
 
-  // --- TAG HANDLING ---
-  function addTag(tagStr, negative = false) {
+  // --- Tag UI: chips, suggestions, add/remove ---
+  function addTag(tagStr, negative=false) {
     if (!tagStr) return;
     const found = ALL_TAGS.find(t => t.toLowerCase() === tagStr.toLowerCase());
     const canon = found || tagStr;
@@ -326,22 +323,19 @@ document.addEventListener("DOMContentLoaded", () => {
       const chip = document.createElement("span");
       chip.className = "tag-chip " + (t.negative ? "tag-chip-neg" : "tag-chip-pos");
       chip.setAttribute("data-tag", t.tag);
-      chip.innerHTML = `<button class="tag-chip-close" aria-label="Remove tag" data-idx="${i}">✕</button><span class="tag-chip-label">${t.negative ? '-' : ''}${escapeHtml(t.tag)}</span>`;
+      chip.innerHTML = `<button class="tag-chip-close" aria-label="Remove tag" data-idx="${i}">✕</button><span class="tag-chip-label">${t.negative?'-':''}${escapeHtml(t.tag)}</span>`;
       tagChipContainer.insertBefore(chip, tagInput);
     });
-    if (tagInput) tagInput.value = "";
-    if (tagInput) tagInput.focus();
-
-    // schedule search and update layout
+    if (tagInput) { tagInput.value = ""; tagInput.focus(); }
     scheduleSearch();
     updateSearchLayout();
   }
 
   if (tagChipContainer) {
-    tagChipContainer.addEventListener("click", e => {
+    tagChipContainer.addEventListener("click", (e) => {
       const btn = e.target.closest(".tag-chip-close");
       if (!btn) return;
-      const idx = Number(btn.dataset.idx);
+      const idx = Number(btn.getAttribute("data-idx"));
       if (!Number.isNaN(idx)) {
         activeTags.splice(idx, 1);
         renderTagChips();
@@ -349,25 +343,20 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  predefButtons.forEach(b => {
-    b.addEventListener("click", function () { addTag(this.dataset.tag, false); });
-  });
+  predefButtons.forEach(b => b.addEventListener("click", function(){ addTag(this.dataset.tag, false); }));
 
-  // --- TAG SUGGESTIONS ---
+  // --- Tag suggestion logic (only from TAG_COUNTS / ALL_TAGS) ---
   let suggestionIndex = -1;
-  function suggestTags(prefix, limit = 10) {
+  function suggestTags(prefix, limit=10) {
     if (!prefix) return [];
     let isNeg = false;
-    if (prefix.startsWith("-")) {
-      isNeg = true;
-      prefix = prefix.slice(1).trim();
-    }
+    if (prefix.startsWith("-")) { isNeg = true; prefix = prefix.slice(1).trim(); }
     const q = normalizeText(prefix);
     if (!q) return [];
     const matches = ALL_TAGS
       .map(tag => ({ tag, count: TAG_COUNTS[tag] || 0, negative: isNeg }))
       .filter(t => normalizeText(t.tag).includes(q))
-      .sort((a, b) => {
+      .sort((a,b) => {
         if (b.count !== a.count) return b.count - a.count;
         return a.tag.localeCompare(b.tag);
       })
@@ -380,33 +369,24 @@ document.addEventListener("DOMContentLoaded", () => {
     tagSuggestions.innerHTML = "";
     if (!list || !list.length) {
       tagSuggestions.style.display = "none";
-      tagSuggestions.setAttribute("aria-hidden", "true");
+      tagSuggestions.setAttribute("aria-hidden","true");
       return;
     }
     tagSuggestions.style.display = "block";
-    tagSuggestions.setAttribute("aria-hidden", "false");
-    list.forEach((s, i) => {
+    tagSuggestions.setAttribute("aria-hidden","false");
+    list.forEach((s,i) => {
       const el = document.createElement("div");
       el.className = "tag-suggestion";
       el.dataset.i = i;
-      el.innerHTML = `<span class="suggest-tag">${s.negative ? "-" : ""}${escapeHtml(s.tag)}</span> <span class="suggest-count">(${s.count || 0})</span>`;
-      el.addEventListener("mousedown", ev => {
-        ev.preventDefault();
-        addTag(s.tag, s.negative);
-        hideSuggestions();
-      });
+      el.innerHTML = `<span class="suggest-tag">${s.negative?'-':''}${escapeHtml(s.tag)}</span> <span class="suggest-count">(${s.count||0})</span>`;
+      el.addEventListener("mousedown", ev => { ev.preventDefault(); addTag(s.tag, s.negative); hideSuggestions(); });
       tagSuggestions.appendChild(el);
     });
     suggestionIndex = -1;
-    tagSuggestions.scrollTop = 0; // reset scrollbar position each time
+    tagSuggestions.scrollTop = 0; // reset scrollbar to top per your request
   }
 
-  function hideSuggestions() {
-    if (!tagSuggestions) return;
-    tagSuggestions.innerHTML = "";
-    tagSuggestions.style.display = "none";
-    tagSuggestions.setAttribute("aria-hidden", "true");
-  }
+  function hideSuggestions() { if (!tagSuggestions) return; tagSuggestions.innerHTML=""; tagSuggestions.style.display="none"; tagSuggestions.setAttribute("aria-hidden","true"); }
 
   if (tagInput) {
     tagInput.addEventListener("input", () => {
@@ -415,7 +395,7 @@ document.addEventListener("DOMContentLoaded", () => {
       showSuggestions(suggestTags(v, 12));
     });
 
-    tagInput.addEventListener("keydown", e => {
+    tagInput.addEventListener("keydown", (e) => {
       const v = tagInput.value || "";
       const items = tagSuggestions ? Array.from(tagSuggestions.querySelectorAll(".tag-suggestion")) : [];
       if (e.key === "Enter") {
@@ -433,97 +413,92 @@ document.addEventListener("DOMContentLoaded", () => {
         if (items.length) {
           e.preventDefault();
           suggestionIndex = Math.min(suggestionIndex + 1, items.length - 1);
-          items.forEach((it, i) => it.classList.toggle("active", i === suggestionIndex));
-          items[suggestionIndex].scrollIntoView({ block: "nearest" });
+          items.forEach((it,i)=> it.classList.toggle("active", i===suggestionIndex));
+          items[suggestionIndex].scrollIntoView({block:"nearest"});
         }
       } else if (e.key === "ArrowUp") {
         if (items.length) {
           e.preventDefault();
           suggestionIndex = Math.max(suggestionIndex - 1, 0);
-          items.forEach((it, i) => it.classList.toggle("active", i === suggestionIndex));
-          items[suggestionIndex].scrollIntoView({ block: "nearest" });
+          items.forEach((it,i)=> it.classList.toggle("active", i===suggestionIndex));
+          items[suggestionIndex].scrollIntoView({block:"nearest"});
         }
       } else if (e.key === "Escape") {
         hideSuggestions();
       }
     });
 
-    document.addEventListener("click", e => {
+    document.addEventListener("click", (e) => {
       if (!tagSuggestions || !tagInput) return;
       if (!tagSuggestions.contains(e.target) && e.target !== tagInput) hideSuggestions();
     });
   }
 
-  // --- SEARCH LAYOUT CONTROL (show tags OR results) ---
+  // --- Layout control: show tags vs show results ---
   function updateSearchLayout() {
     const textInput = fuzzyInput;
-    const tagPanel = document.querySelector(".search-left-col"); // use class
+    const tagPanel = document.querySelector(".search-left-col");
     const resultsPanel = document.getElementById("results-tabs");
-
+    if (!tagPanel || !resultsPanel) return;
     const hasText = textInput && textInput.value.trim().length > 0;
     const hasTags = activeTags.length > 0;
-
     const showResults = hasText || hasTags;
-
-    // Safeguard: if panels not found, do nothing
-    if (!tagPanel || !resultsPanel) return;
-
-    if (showResults) {
-      tagPanel.hidden = true;
-      resultsPanel.hidden = false;
-    } else {
-      tagPanel.hidden = false;
-      resultsPanel.hidden = true;
-    }
+    if (showResults) { tagPanel.hidden = true; resultsPanel.hidden = false; }
+    else { tagPanel.hidden = false; resultsPanel.hidden = true; }
   }
 
   // --- Scoring & search helpers ---
   function docHasTag(doc, tag) {
-    const tags = TAGS_BY_PAGE[doc.path] || [];
-    const want = tag.toLowerCase();
-    return tags.some(t => String(t).toLowerCase() === want);
+    if (!doc || !doc.path) return false;
+    const tags = DOC_TAGS[doc.path] || [];
+    const lk = tag.toLowerCase();
+    for (const t of tags) if (String(t).toLowerCase() === lk) return true;
+    return false;
   }
 
   function scoreDocForQuery(doc, qTokens, qTris) {
     const docTris = new Set(doc.trigrams || []), docTokens = new Set(doc.tokens || []);
     let tJ = jaccard(qTris, docTris);
     let tokOverlap = 0;
-    if (qTokens.length) { tokOverlap = qTokens.filter(t => docTokens.has(t)).length / qTokens.length; }
+    if (qTokens.length) tokOverlap = qTokens.filter(t => docTokens.has(t)).length / qTokens.length;
     let titleBoost = 0;
     const titleLower = (doc.title || "").toLowerCase();
     for (const t of qTokens) if (titleLower.includes(t)) { titleBoost = 0.12; break; }
     return 0.72 * tJ + 0.26 * tokOverlap + titleBoost;
   }
 
-  // --- SEARCH (tag-only or fuzzy+tags) ---
-  function search(fuzzyQuery, tagFilters, maxResults = 500) {
+  // --- SEARCH (handles tag-only and fuzzy+tags) ---
+  function search(fuzzyQuery, tagFilters, maxResults=500) {
     let results = [];
     const isFuzzyEmpty = !fuzzyQuery || !fuzzyQuery.trim();
     const isTagOnly = isFuzzyEmpty && tagFilters.length > 0;
 
     if (isTagOnly) {
-      // TAG-ONLY branch
+      // TAG-ONLY: use PAGES_BY_TAG but normalize page keys
       let candidatePaths = null;
       tagFilters.forEach(tf => {
         const tagKey = tf.tag;
         const pagesForTagObjs = PAGES_BY_TAG[tagKey] || [];
-        const pagesForTag = pagesForTagObjs.map(p => p.path || p);
+        // normalize page paths from pagesByTag entries
+        const pagesForTag = pagesForTagObjs.map(p => normalizePageKey(p.path || p));
         if (tf.negative) {
-          if (!candidatePaths) candidatePaths = Object.values(PAGES_BY_TAG).flat().map(p => p.path || p);
+          if (!candidatePaths) candidatePaths = Object.values(PAGES_BY_TAG).flat().map(p => normalizePageKey(p.path || p));
           candidatePaths = candidatePaths.filter(p => !pagesForTag.includes(p));
         } else {
           if (!candidatePaths) candidatePaths = [...pagesForTag];
           else candidatePaths = candidatePaths.filter(p => pagesForTag.includes(p));
         }
       });
+
       if (!candidatePaths) candidatePaths = [];
+
       results = candidatePaths.map(p => {
         const doc = DOCS.find(d => d.path === p) || { path: p, title: p, frontmatter: {} };
         return { score: 1, doc };
       });
 
-      // Sort tag-only by startDate ascending; push 0000 to bottom
-      results.sort((a, b) => {
+      // sort tag-only by startDate ascending; push 0000 to bottom
+      results.sort((a,b) => {
         const aStart = a.doc.frontmatter?.startDate || "0000-00-00";
         const bStart = b.doc.frontmatter?.startDate || "0000-00-00";
         if (aStart.startsWith("0000") && !bStart.startsWith("0000")) return 1;
@@ -531,18 +506,18 @@ document.addEventListener("DOMContentLoaded", () => {
         return aStart.localeCompare(bStart);
       });
 
-      // Exception: if doc title exactly matches a searched positive tag, move it to top
+      // exception: if a doc title exactly matches a searched tag, move to top
       tagFilters.forEach(tf => {
         if (tf.negative) return;
         const idx = results.findIndex(r => r.doc.title === tf.tag);
         if (idx > 0) {
-          const [exactMatch] = results.splice(idx, 1);
+          const [exactMatch] = results.splice(idx,1);
           results.unshift(exactMatch);
         }
       });
 
     } else {
-      // FUZZY branch (with optional tag filters)
+      // FUZZY + optional tag filters
       const qTokens = tokenize(fuzzyQuery);
       const qTris = charTrigrams(fuzzyQuery);
       for (const doc of DOCS) {
@@ -559,23 +534,19 @@ document.addEventListener("DOMContentLoaded", () => {
         const score = scoreDocForQuery(doc, qTokens, qTris);
         if (score > 0) results.push({ score, doc });
       }
-      results.sort((a, b) => b.score - a.score);
+      results.sort((a,b) => b.score - a.score);
     }
 
     return results.slice(0, maxResults);
   }
 
-  // --- schedule / search wiring ---
   function scheduleSearch() { if (searchTimer) clearTimeout(searchTimer); searchTimer = setTimeout(executeSearch, 150); }
   if (fuzzyInput) {
-    fuzzyInput.addEventListener("input", () => {
-      scheduleSearch();
-      updateSearchLayout();
-    });
+    fuzzyInput.addEventListener("input", () => { scheduleSearch(); updateSearchLayout(); });
     fuzzyInput.addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); executeSearch(); } });
   }
 
-  // --- RENDERERS (articles/photos/videos/reviews) ---
+  // --- Renderers (use makePermalink for internal links) ---
   function renderArticle(doc) {
     const fm = doc.frontmatter || {};
     const hasContent = !!(doc.content || doc.excerpt || doc.title);
@@ -584,39 +555,29 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const formatDateShort = dateStr => {
       if (!dateStr || dateStr === "0000-00-00") return "?";
-      const parts = (dateStr.split(" ")[0] || "").split("-");
+      const parts = (dateStr.split(" ")[0]||"").split("-");
       const year = parts[0] || "0000";
       const month = parts[1] || "00";
       const day = parts[2] || "00";
-      const months = {
-        "00": "", "01": "Jan. ", "02": "Feb. ", "03": "Mar. ", "04": "Apr. ",
-        "05": "May ", "06": "Jun. ", "07": "Jul. ", "08": "Aug. ", "09": "Sep. ",
-        "10": "Oct. ", "11": "Nov. ", "12": "Dec."
-      };
-      const days = {
-        "00": "", "01": "1, ", "02": "2, ", "03": "3, ", "04": "4, ", "05": "5, ",
-        "06": "6, ", "07": "7, ", "08": "8, ", "09": "9, ", "10": "10, ", "11": "11, ",
-        "12": "12, ", "13": "13, ", "14": "14, ", "15": "15, ", "16": "16, ", "17": "17, ",
-        "18": "18, ", "19": "19, ", "20": "20, ", "21": "21, ", "22": "22, ", "23": "23, ",
-        "24": "24, ", "25": "25, ", "26": "26, ", "27": "27, ", "28": "28, ", "29": "29, ",
-        "30": "30, ", "31": "31, "
-      };
-      return `${months[month]}${days[day]}${year !== "0000" ? year : ""}`;
+      const months = { "00": "", "01":"Jan. ", "02":"Feb. ", "03":"Mar. ", "04":"Apr. ", "05":"May ", "06":"Jun. ", "07":"Jul. ", "08":"Aug. ", "09":"Sep. ", "10":"Oct. ", "11":"Nov. ", "12":"Dec." };
+      const days = { "00":"", "01":"1, ", "02":"2, ", "03":"3, ", "04":"4, ", "05":"5, ", "06":"6, ", "07":"7, ", "08":"8, ", "09":"9, " };
+      return `${months[month] || ""}${(days[day]||"")}${year !== "0000" ? year : ""}`;
     };
 
     const startDate = formatDateShort(fm.startDate);
     const endDate = formatDateShort(fm.endDate);
     const imgSrc = fm.pageThumbnailFile ? `/photos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
+    const href = makePermalink(doc.path);
 
     wrapper.innerHTML = `
       <div class="list-page-container">
         <div class="list-image">
-          <a href="${doc.path}">
+          <a href="${href}">
             <img src="${imgSrc}" class="thumbnail" />
           </a>
         </div>
         <div class="list-page-content">
-          <a href="${doc.path}">
+          <a href="${href}">
             ${escapeHtml(fm.title || doc.title || doc.path)}
             ${fm.downloadLinks && fm.downloadLinks.length ? '<img src="/UI/Emojis/inbox.svg" class="emoji">' : ""}
           </a>
@@ -629,7 +590,6 @@ document.addEventListener("DOMContentLoaded", () => {
     return wrapper;
   }
 
-  // unified formatter (used by photo/video/review)
   function formatDate(date) {
     if (!date || date === "0000-00-00") return "?";
     const parts = (date || "").split("-");
@@ -637,7 +597,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const year = parts[0] === "0000" ? "?" : parts[0];
     const monthNum = Number(parts[1]);
     const dayNum = Number(parts[2]);
-    const months = ["", "Jan.", "Feb.", "Mar.", "Apr.", "May", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."];
+    const months = ["","Jan.","Feb.","Mar.","Apr.","May","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
     let monthStr = months[monthNum] || "";
     let dayStr = dayNum ? `${dayNum}` : "";
     if (!monthStr && !dayStr) return year;
@@ -652,17 +612,17 @@ document.addEventListener("DOMContentLoaded", () => {
     let fileName = doc.title || "";
     let imgURL = fileName ? `/photos/${fileName}` : "/UI/File Not Found.jpg";
     if (!fileName) imgURL = "/UI/File Not Found.jpg";
-    const startDate = doc.frontmatter?.startDate || "";
-    const endDate = doc.frontmatter?.endDate || "";
-    const formattedStart = formatDate(startDate);
-    const formattedEnd = formatDate(endDate);
+    const formattedStart = formatDate(doc.frontmatter?.startDate || "");
+    const formattedEnd = formatDate(doc.frontmatter?.endDate || "");
     const dateStr = formattedStart || formattedEnd ? `${formattedStart}${formattedEnd ? ` - ${formattedEnd}` : ""}` : "";
     const photoDesc = doc.frontmatter?.photoDescription?.trim();
     const displayText = photoDesc || doc.title + (dateStr ? ` (${dateStr})` : "");
+    const href = makePermalink(doc.path);
+
     wrapper.innerHTML = `
       <div class="article-photo-image">
-        <a href="${doc.path || "#"}">
-          <img src="${imgURL}" alt="${doc.title || "File Not Found"}" loading="lazy" />
+        <a href="${href}">
+          <img src="${imgURL}" alt="${escapeHtml(doc.title || "File Not Found")}" loading="lazy" />
         </a>
       </div>
       <div class="article-photo-description">${escapeHtml(displayText)}</div>
@@ -673,84 +633,65 @@ document.addEventListener("DOMContentLoaded", () => {
   function renderVideo(doc) {
     const wrapper = document.createElement("div");
     wrapper.className = "list-page-block-video";
-    const container = document.createElement("div");
-    container.className = "list-page-container";
+    const container = document.createElement("div"); container.className = "list-page-container";
 
-    const videoDiv = document.createElement("div");
-    videoDiv.className = "list-video";
+    const videoDiv = document.createElement("div"); videoDiv.className = "list-video";
     const videoURL = doc.title || "";
     let thumbURL = "/UI/File Not Found.jpg";
     if (videoURL.includes("youtube.com")) {
-      const videoID = videoURL.replace("https://www.youtube.com/watch?v=", "");
+      const videoID = videoURL.replace("https://www.youtube.com/watch?v=","").split("&")[0];
       thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
     } else if (videoURL.includes("youtu.be")) {
-      const parts = videoURL.split("/");
-      const videoID = parts[parts.length - 1];
-      thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
+      const parts = videoURL.split("/"); const videoID = parts[parts.length-1]; thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
     } else if (videoURL.includes("archive.org")) {
-      const parts = videoURL.split("/");
-      const videoID = parts[4] || "";
-      if (videoID) thumbURL = `https://archive.org/services/img/${videoID}`;
+      const parts = videoURL.split("/"); const videoID = parts[4] || ""; if (videoID) thumbURL = `https://archive.org/services/img/${videoID}`;
     }
-    const thumbLink = document.createElement("a");
-    thumbLink.href = videoURL;
-    thumbLink.target = "_blank";
-    const thumbImg = document.createElement("img");
-    thumbImg.src = thumbURL;
-    thumbImg.alt = "Video Thumbnail";
-    thumbLink.appendChild(thumbImg);
-    videoDiv.appendChild(thumbLink);
+    const thumbLink = document.createElement("a"); thumbLink.href = videoURL; thumbLink.target = "_blank";
+    const thumbImg = document.createElement("img"); thumbImg.src = thumbURL; thumbImg.alt = "Video Thumbnail";
+    thumbLink.appendChild(thumbImg); videoDiv.appendChild(thumbLink);
 
-    const contentDiv = document.createElement("div");
-    contentDiv.className = "list-page-video-content";
-    const aLink = document.createElement("a");
-    aLink.href = doc.path || "#";
-    const excerpt = (doc.excerpt || "").substring(0, 150);
+    const contentDiv = document.createElement("div"); contentDiv.className = "list-page-video-content";
+    const aLink = document.createElement("a"); aLink.href = makePermalink(doc.path || "#");
+    const excerpt = (doc.excerpt || "").substring(0,150);
     aLink.textContent = excerpt.length < (doc.excerpt || "").length ? excerpt + "..." : excerpt;
     contentDiv.appendChild(aLink);
-    const dateDiv = document.createElement("div");
-    dateDiv.className = "list-page-date";
+    const dateDiv = document.createElement("div"); dateDiv.className = "list-page-date";
     dateDiv.textContent = formatDate(doc.frontmatter?.startDate || "");
     contentDiv.appendChild(dateDiv);
 
-    container.appendChild(videoDiv);
-    container.appendChild(contentDiv);
-    wrapper.appendChild(container);
+    container.appendChild(videoDiv); container.appendChild(contentDiv); wrapper.appendChild(container);
     return wrapper;
   }
 
-  function renderReview(doc, allDocs = []) {
+  function renderReview(doc) {
     const wrapper = document.createElement("div");
     wrapper.className = "list-review-block";
-    const container = document.createElement("div");
-    container.className = "list-review-container";
-    const contentDiv = document.createElement("div");
-    contentDiv.className = "list-review-content";
+    const container = document.createElement("div"); container.className = "list-review-container";
+    const contentDiv = document.createElement("div"); contentDiv.className = "list-review-content";
 
-    const aLink = document.createElement("a");
-    aLink.href = doc.path || "#";
+    const aLink = document.createElement("a"); aLink.href = makePermalink(doc.path || "#");
     const recommend = doc.frontmatter?.recommend;
     const baseTitle = doc.frontmatter?.LinkTitle || doc.title || "";
 
+    // append reviewed page (Page param) if present
     let reviewedPageStr = "";
     const pageTitle = doc.frontmatter?.Page;
     if (pageTitle) {
       const match = DOCS.find(d => d.title === pageTitle);
-      if (match) reviewedPageStr = ` - <a href="${match.path}">${escapeHtml(match.title)}</a>`;
+      if (match) reviewedPageStr = ` - <a href="${makePermalink(match.path)}">${escapeHtml(match.title)}</a>`;
       else reviewedPageStr = ` - ${escapeHtml(pageTitle)}`;
     }
     aLink.innerHTML = (recommend === true ? "👍 " : "👎 ") + escapeHtml(baseTitle) + reviewedPageStr;
     contentDiv.appendChild(aLink);
 
-    const dateDiv = document.createElement("div");
-    dateDiv.className = "list-review-date";
+    const dateDiv = document.createElement("div"); dateDiv.className = "list-review-date";
     const startDate = doc.frontmatter?.startDate || "";
     let dateText = formatDate(startDate);
     const contributors = doc.frontmatter?.contributors || [];
     if (contributors.length > 0) {
       const contribLinks = contributors.map(c => {
         const match = DOCS.find(d => d.title === c);
-        if (match) return `<a href="${match.path}">${escapeHtml(match.title)}</a>`;
+        if (match) return `<a href="${makePermalink(match.path)}">${escapeHtml(match.title)}</a>`;
         return escapeHtml(c);
       }).join(", ");
       dateText += ` - ${contribLinks}`;
@@ -760,17 +701,15 @@ document.addEventListener("DOMContentLoaded", () => {
     dateDiv.innerHTML = dateText;
     contentDiv.appendChild(dateDiv);
 
-    const bodyDiv = document.createElement("div");
-    bodyDiv.className = "list-review-body";
+    const bodyDiv = document.createElement("div"); bodyDiv.className = "list-review-body";
     bodyDiv.innerHTML = escapeHtml(doc.excerpt || doc.content || "");
     contentDiv.appendChild(bodyDiv);
 
-    container.appendChild(contentDiv);
-    wrapper.appendChild(container);
+    container.appendChild(contentDiv); wrapper.appendChild(container);
     return wrapper;
   }
 
-  // --- MAIN executeSearch & rendering ---
+  // --- executeSearch & rendering control ---
   function executeSearch() {
     if (!DOCS || !DOCS.length) {
       console.warn("Search data not yet loaded or empty");
@@ -780,7 +719,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const q = fuzzyInput ? fuzzyInput.value.trim() : "";
     const tagFilters = activeTags.map(t => ({ tag: t.tag, negative: !!t.negative }));
 
-    // special case: both bars empty -> clear and show tag panel
+    // both empty -> clear results and show tag panel
     if (!q && !tagFilters.length) {
       [listArticles, listPhotos, listVideos, listReviews].forEach(c => { if (c) c.innerHTML = ""; });
       activateTab("results-tabs", "tab-articles");
@@ -790,36 +729,26 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const results = search(q, tagFilters, 2000);
 
-    const articles = [], photos = [], videos = [], reviews = [];
+    const articles=[], photos=[], videos=[], reviews=[];
     for (const r of results) {
       const doc = r.doc;
-      const tags = (TAGS_BY_PAGE[doc.path] || []).map(t => t.toLowerCase());
-      if (tags.includes("photos")) photos.push({ score: r.score, doc });
-      else if (tags.includes("videos")) videos.push({ score: r.score, doc });
-      else if (tags.includes("reviews")) reviews.push({ score: r.score, doc });
-      else articles.push({ score: r.score, doc });
+      const tags = (DOC_TAGS[doc.path] || []).map(t=>String(t).toLowerCase());
+      if (tags.includes("photos")) photos.push({score:r.score, doc});
+      else if (tags.includes("videos")) videos.push({score:r.score, doc});
+      else if (tags.includes("reviews")) reviews.push({score:r.score, doc});
+      else articles.push({score:r.score, doc});
     }
 
     function clearAndRender(container, arr, renderer) {
       if (!container) return;
       container.innerHTML = "";
-      if (!arr.length) {
-        container.innerHTML = `<div class="no-results">No results</div>`;
-        return;
-      }
+      if (!arr.length) { container.innerHTML = `<div class="no-results">No results</div>`; return; }
       if (renderer === renderPhoto) {
-        const gallery = document.createElement("div");
-        gallery.className = "gallery";
-        arr.slice(0, 200).forEach(item => {
-          const node = renderer(item.doc);
-          gallery.appendChild(node);
-        });
+        const gallery = document.createElement("div"); gallery.className = "gallery";
+        arr.slice(0,200).forEach(item => gallery.appendChild(renderer(item.doc)));
         container.appendChild(gallery);
       } else {
-        arr.slice(0, 200).forEach(item => {
-          const node = renderer(item.doc, DOCS);
-          container.appendChild(node);
-        });
+        arr.slice(0,200).forEach(item => container.appendChild(renderer(item.doc)));
       }
     }
 
@@ -828,32 +757,25 @@ document.addEventListener("DOMContentLoaded", () => {
     clearAndRender(listVideos, videos, renderVideo);
     clearAndRender(listReviews, reviews, renderReview);
 
-    // update tab labels with counts
-    const tabCounts = {
-      "tab-articles": articles.length,
-      "tab-photos": photos.length,
-      "tab-videos": videos.length,
-      "tab-reviews": reviews.length
-    };
+    // update tab counts
+    const tabCounts = { "tab-articles": articles.length, "tab-photos": photos.length, "tab-videos": videos.length, "tab-reviews": reviews.length };
     SEARCH_TABS.forEach(key => {
-      const btn = tabButtons.find(b => b.dataset.tab === key);
+      const btn = tabButtons.find(b=>b.dataset.tab===key);
       if (!btn) return;
-      const labelMap = { "tab-articles": "Articles", "tab-photos": "Photos", "tab-videos": "Videos", "tab-reviews": "Reviews" };
-      btn.textContent = `${labelMap[key]} (${tabCounts[key] || 0})`;
+      const labelMap = { "tab-articles":"Articles", "tab-photos":"Photos", "tab-videos":"Videos", "tab-reviews":"Reviews" };
+      btn.textContent = `${labelMap[key]} (${tabCounts[key]||0})`;
     });
 
-    // Ensure layout updates after rendering
     updateSearchLayout();
   }
 
-  // --- attach schedule/search triggers from tag UI (renderTagChips calls scheduleSearch already) ---
+  // --- wire fuzzy input scheduling (tag changes call schedule via renderTagChips) ---
   function scheduleSearchAndLayout() { scheduleSearch(); updateSearchLayout(); }
 
   // --- INIT ---
   (async function init() {
     await loadSearchData();
     executeSearch();
-    // initial layout update to ensure tag panel visible
     updateSearchLayout();
   })();
 
