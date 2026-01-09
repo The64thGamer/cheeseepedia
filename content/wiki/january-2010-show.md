@@ -144,7 +144,7 @@ This update contained a provision for initiating an alternate show schedule at a
     4.  PBS Kids
     5.  Chillout - Fish
 
-## Lives:
+## Live Shows:
 
 - BDAY 10 Program
 - BDAY 10 Training
