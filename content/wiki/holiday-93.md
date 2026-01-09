@@ -7,6 +7,7 @@ pageThumbnailFile = "O6fYlddmFz1sOTSNTakA.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Saan1ty"]
 citations = ["https://youtu.be/lExPyEo1u6s"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+mediaDuration = "58:24"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/December%201993%203-stage-006.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -21,7 +22,7 @@ categories = ["Chuck E. Cheese's"]
     1.  3-Minute Countdown
     2.  'Birthday Star' (Walk-In)
     3.  'Holiday Cheer'
-    4.  CEC TV '93 ID
+    4.  CEC TV ID - 'Abstract'
 2.  **Segment 1**
     1.  'Santa Claus Is Coming To Town'
     2.  'Rudolph The Red-Nosed Reindeer'
