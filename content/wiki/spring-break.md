@@ -4,17 +4,18 @@ title = "Spring Break"
 startDate = "1994-04-00"
 endDate = "1994-06-00"
 pageThumbnailFile = "SpringBreak94.avif"
-contributors = ["The 64th Gamer", "Anonymous", "Cy's Junk at School", "MultiMonorail"]
+contributors = ["The 64th Gamer", "Anonymous", "Cy's Junk at School", "MultiMonorail", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=8BErEtQIxuw"]
-showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+mediaDuration = "55:32"
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Spring Break* was a show that released in April of 1994 at Chuck E. Cheese's.**
+***Spring Break*** was a show that was released in April of 1994 at Chuck E. Cheese's.
 
 ## Show List
 
-**Intermission 1 - Spring Cleaning**
+**Intermission 1**
 
 1.  'Flight of the Dream Team'
 2.  CEC TV '94 ID
@@ -86,5 +87,5 @@ categories = ["Chuck E. Cheese's"]
 
 ## Trivia
 
-- This is the first CEC showtape where Disney was completely involved with the showtape's production.
+- This is the first CEC showtape where Disney was involved with the showtape's production.
   - Looking closely at 'Party Place' in particular, you can see it was filmed at Disney-MGM Studios' Streets of America, Bay Lake, Disney's Fort Wilderness Campgrounds and the mascots on stage scenes were likely filmed at Disney Village's Pleasure Island.
