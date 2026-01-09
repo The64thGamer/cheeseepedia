@@ -7,6 +7,7 @@ pageThumbnailFile = "hzwqBS_ykHsQIyUQG1hA.avif"
 contributors = ["The 64th Gamer", "John95", "Anastasia.laguardia", "CyberSnout", "Ceclife13", "CECMadison"]
 citations = ["https://vimeo.com/33748276"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper, Mike Manly, Betty, Show Announcer", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
+mediaDuration = "59:38"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2001Upgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202001%20Studio%20C-005.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
@@ -77,7 +78,7 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 ## Live Shows:
 
-During this time live shows would be on separate VHS tapes for MMBB based stores.
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Chuck E. Says
 - Chuck E Shuffle
