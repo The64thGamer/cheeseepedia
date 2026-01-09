@@ -14,9 +14,7 @@ categories = ["Chuck E. Cheese's"]
 +++
 ***Best of CEC TV 2008*** is a showtape released in September 2008 for Studio C, Cyberamics, and 3-Stage, which compiled various songs from previous showtapes. This show was able to be used as an emergency backup until December 2012.
 
-### File Dates
 
-- (Existing Stage) DVD: 8/11/2008
 
 ## Show List
 
@@ -69,24 +67,28 @@ categories = ["Chuck E. Cheese's"]
 14. **Intermission 7**
     1.  CEC TV ID - 'Falling Apple'
     2.  CEC TV Artist Spotlight: Sara Hickman - 'Always A Saint'
-    3.  CEC PBS Kids Spot
+    3.  PBS Kids Spot
     4.  Will Frye The Nutrition Guy
     5.  CEC TV ID - 'Singing Fish'
 
-## Lives
+## Live Shows
 
-1.  2min BDAY
-2.  5min BDAY
-3.  BINGO
-4.  Chicken Dance
-5.  Happy and You Know It
-6.  Jumpin'
-7.  Chuck E. March
-8.  Chuck E. Shuffle
-9.  Havin' A Party
-10. Chuck E. Says
-11. Old MacDonald
-12. Storytime With Chuck E.
+-  2min BDAY
+-  5min BDAY
+-  BINGO
+-  Chicken Dance
+-  Happy and You Know It
+-  Jumpin'
+-  Chuck E. March
+-  Chuck E. Shuffle
+-  Havin' A Party
+-  Chuck E. Says
+-  Old MacDonald
+-  Storytime With Chuck E.
+
+### File Dates
+
+- (Existing Stage) DVD: 8/11/2008
 
 ## Trivia
 
