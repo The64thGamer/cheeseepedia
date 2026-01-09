@@ -45,7 +45,7 @@ categories = ["Chuck E. Cheese's"]
     3.  CEC TV ID - 'Rocket'
     4.  Book Your Party Online Promo
 
-## Lives:
+## Live Shows:
 
 **Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
