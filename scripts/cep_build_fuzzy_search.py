@@ -66,6 +66,18 @@ def decode_text(raw: bytes) -> str:
             continue
     # fallback
     return raw.decode("utf-8", errors="ignore")
+def normalize_page_path(path: str):
+    """
+    Convert 'content/foo/bar.md' -> 'foo/bar'
+    Removes BASE_CONTENT_DIR prefix and markdown extension.
+    """
+    rel = os.path.relpath(path).replace(os.sep, "/")
+    # remove base content dir
+    if rel.startswith(BASE_CONTENT_DIR + "/"):
+        rel = rel[len(BASE_CONTENT_DIR)+1:]
+    # remove extension
+    rel = re.sub(r"\.(md|markdown|mdown)$", "", rel, flags=re.IGNORECASE)
+    return rel
 
 # Frontmatter parsing: support TOML (+++ ... +++) and YAML (--- ... ---).
 def read_frontmatter_and_body(path: str):
@@ -201,7 +213,7 @@ def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
         doc = {
             "id": doc_id,
             "title": str(title),
-            "path": os.path.relpath(path).replace(os.sep, "/"),
+            "path": normalize_page_path(path),
             "excerpt": excerpt_text(body),
             "tokens": toks,
             "trigrams": list(trigs),

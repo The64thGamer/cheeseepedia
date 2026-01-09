@@ -1122,13 +1122,13 @@ sup {
   background-color: var(--deep-white);
   color: var(--white);
   outline: none;
-  margin-bottom: 1rem;
+    margin-left: 1rem;
+  margin-right: 1rem;
 }
 
 .search-tags-wrapper {
   position: relative;
-  margin-left: 1rem;
-  margin-right: 1rem;
+    margin-bottom: 1rem;
 }
 
 .tag-chip-container {

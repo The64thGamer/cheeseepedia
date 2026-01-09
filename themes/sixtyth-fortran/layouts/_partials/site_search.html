@@ -65,15 +65,14 @@ Notes:
 
 <div class="search-ui-container">
   <div class="search-controls">
-    <div class="search-fuzzy-wrapper">
-      <input id="fuzzy-q" class="search-fuzzy" placeholder="Search Text Contents" autocomplete="off" />
-    </div>
-
     <div class="search-tags-wrapper">
       <div id="tag-chip-container" class="tag-chip-container" tabindex="0">
         <input id="tag-input" class="tag-input" placeholder="Search Tags" autocomplete="off" />
       </div>
       <div id="tag-suggestions" class="tag-suggestions" aria-hidden="true"></div>
+    </div>
+    <div class="search-fuzzy-wrapper">
+      <input id="fuzzy-q" class="search-fuzzy" placeholder="Search Text Contents" autocomplete="off" />
     </div>
   </div>
 
@@ -468,7 +467,64 @@ Notes:
     fuzzyInput.addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); executeSearch(); } });
 
     // --- RENDERING ---
-    function renderArticle(doc) { /* simplified: use escapeHtml as before */ const wrapper = document.createElement("div"); wrapper.className = "list-page-block"; wrapper.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return wrapper; }
+function renderArticle(doc) {
+  // Determine block class (like Hugo's empty vs. block)
+  const hasContent = !!(doc.content || doc.excerpt || doc.title);
+  const wrapper = document.createElement("div");
+  wrapper.className = hasContent ? "list-page-block" : "list-page-empty-block";
+
+  // Build dates
+  const formatDate = dateStr => {
+    if (!dateStr || dateStr === "0000-00-00") return "?";
+    const parts = dateStr.split(" ")[0].split("-");
+    const year = parts[0] || "0000";
+    const month = parts[1] || "00";
+    const day = parts[2] || "00";
+
+    const months = {
+      "00": "", "01": "Jan. ", "02": "Feb. ", "03": "Mar. ", "04": "Apr. ", "05": "May ",
+      "06": "Jun. ", "07": "Jul. ", "08": "Aug. ", "09": "Sep. ", "10": "Oct. ", "11": "Nov. ", "12": "Dec."
+    };
+    const days = {
+      "00": "", "01": "1, ", "02": "2, ", "03": "3, ", "04": "4, ", "05": "5, ", "06": "6, ",
+      "07": "7, ", "08": "8, ", "09": "9, ", "10": "10, ", "11": "11, ", "12": "12, ", "13": "13, ",
+      "14": "14, ", "15": "15, ", "16": "16, ", "17": "17, ", "18": "18, ", "19": "19, ", "20": "20, ",
+      "21": "21, ", "22": "22, ", "23": "23, ", "24": "24, ", "25": "25, ", "26": "26, ", "27": "27, ",
+      "28": "28, ", "29": "29, ", "30": "30, ", "31": "31, "
+    };
+    return `${months[month]}${days[day]}${year !== "0000" ? year : ""}`;
+  };
+
+  const startDate = formatDate(doc.startDate);
+  const endDate = formatDate(doc.endDate);
+
+  wrapper.innerHTML = `
+    <div class="list-page-container">
+      <div class="list-image">
+        <a href="${doc.path}">
+          ${doc.pageThumbnailFile ? `<img src="${doc.pageThumbnailFile}" class="thumbnail" />` : ""}
+        </a>
+      </div>
+
+      <div class="list-page-content">
+        <a href="${doc.path}">
+          ${escapeHtml(doc.linkTitle || doc.title || doc.path)}
+          ${doc.downloadLinks ? '<img src="/UI/Emojis/inbox.svg" class="emoji">' : ""}
+        </a>
+        <div class="list-page-date">
+          ${startDate}${endDate ? " - " + endDate : ""}
+        </div>
+      </div>
+
+      <div class="edit-button-container">
+        <button class="edit-button">Edit</button>
+      </div>
+    </div>
+  `;
+
+  return wrapper;
+}
+
     function renderPhoto(doc) { const w = document.createElement("div"); w.className = "article-photo-block"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
     function renderVideo(doc) { const w = document.createElement("div"); w.className = "list-page-block-video"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }
     function renderReview(doc) { const w = document.createElement("div"); w.className = "list-review-block"; w.innerHTML = `<div>${escapeHtml(doc.title || "")}</div>`; return w; }

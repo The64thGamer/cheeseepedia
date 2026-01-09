@@ -266,6 +266,19 @@ def expand_tags_with_inference(tags_in: list, infer_closure: dict, canonical_map
                         changed = True
     out = sorted(out_set, key=lambda s: s.lower())
     return out
+def normalize_page_path(path: str):
+    """
+    Convert 'content/foo/bar.md' -> 'foo/bar'
+    Removes BASE_CONTENT_DIR prefix and extension.
+    """
+    # convert to forward slashes
+    rel = os.path.relpath(path).replace(os.sep, "/")
+    # remove base content dir
+    if rel.startswith(BASE_CONTENT_DIR + "/"):
+        rel = rel[len(BASE_CONTENT_DIR)+1:]
+    # remove extension
+    rel = re.sub(r"\.(md|markdown|mdown)$", "", rel, flags=re.IGNORECASE)
+    return rel
 
 # ---- Main builder ----
 def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_DEFAULT):
@@ -335,7 +348,7 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
                 continue
             seen.add(lk)
             final_tags.append(canonical_map.get(lk, t))
-        relpath = os.path.relpath(f).replace(os.sep, "/")
+        relpath = normalize_page_path(f)
         tags_by_page[relpath] = final_tags
         pages_meta[relpath] = {"title": str(title), "path": relpath}
 
