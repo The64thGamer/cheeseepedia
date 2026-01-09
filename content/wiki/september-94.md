@@ -7,6 +7,7 @@ pageThumbnailFile = "3JtRjLBNWRULsmJhsTrS.avif"
 contributors = ["The 64th Gamer", "DerekCat", "Anonymous"]
 citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/September%201994%20C-Stage-004.iso"]
 showtapeFormats = ["3-Stage SVHS (Post-93)", "C&R SVHS (Post-93)", "R12 SVHS (Post-93)"]
+mediaDuration = "1:08:33"
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_svhs_signals/September%201994%20C-Stage-004.iso|C&R SVHS w/ Signals", "https://archive.org/download/3stage_post_93_svhs_signals/September%201994%203-Stage-014.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
