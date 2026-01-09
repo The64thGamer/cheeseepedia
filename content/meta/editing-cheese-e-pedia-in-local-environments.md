@@ -21,7 +21,6 @@ Jump to Section:
 * [Creating a User Page](#creating-a-user-page)
 * [Creating a Photo Page](#creating-a-photo-page)
 * [Compiling Cheese-E-Pedia](#compiling-cheese-e-pedia)
-* [Updating Pagefind](#updating-pagefind)
 ---
 
 Here is the general flow for making local edits:
@@ -39,9 +38,7 @@ You must have (at minimum): Hugo (refer to the footer of the website for the cor
 
 ---
 
-**Please note that we are looking to replace Pagefind with an alternative solution.** We're hoping that we can use Hugo to help us create the data needed to create our own in-house search functionality, so that updating the search index is not necessary and that the search functionality works better in a general sense.
-
-**Also please note that this advice is provided without specific operating system requirements!** How you decide to set up your local environment is up to you, but the recommendations below are most suited for Windows users, and can be tailored to other OSes such as macOS and Linux distributions.
+**Please note that this advice is provided without specific operating system requirements!** How you decide to set up your local environment is up to you, but the recommendations below are most suited for Windows users, and can be tailored to other OSes such as macOS and Linux distributions.
 
 ---
 
@@ -126,12 +123,3 @@ After activating the virtual environment, use Pip to install the dependencies ba
 If the build is successful, you can browse the site using the URL provided in the command line. The site will be located in a folder called `public` which is ignored by Git, and can be copied elsewhere without consequence once the server is stopped.
 
 You can stop the server with a `Ctrl+C` interrupt, or by closing the terminal.
-
-## Updating Pagefind
-Once the site has been properly compiled and confirmed working, we recommend running the Pagefind command on occasion to ensure that it has the most up-to-date search index.
-
-**At this moment, Pagefind cannot be run on Windows.**
-
-To run Pagefind, run the following command: `./pagefind --site "public" --output-subdir ../static/pagefind --glob "wiki/**/*.{html}"`
-
-You can then re-run one of the compilation scripts and test the search functionality on the live site.
