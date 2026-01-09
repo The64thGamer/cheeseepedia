@@ -2,7 +2,7 @@
 title = "Caydenpedia"
 draft = false
 tags = ["User"]
-categories = []
+categories = ["User-Generated Content"]
 startDate = "2024-09-05"
 endDate = ""
 contributors = ["Anonymous","Caydenpedia"]

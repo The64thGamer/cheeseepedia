@@ -2,7 +2,7 @@
 title = "FileFickle"
 draft = false
 tags = ["User"]
-categories = []
+categories = ["User-Generated Content"]
 startDate = "2024-07-25"
 endDate = ""
 contributors = ["FileFickle"]

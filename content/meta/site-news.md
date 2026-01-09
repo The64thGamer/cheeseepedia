@@ -2,8 +2,7 @@
 title = "Cheese-E-Pedia"
 draft = false
 tags = ["Meta"]
-startDate = "2022-07-14"
-endDate = ""
+categories = ["Cheese-E-Pedia"]
 contributors = ["The 64th Gamer", "Lelmaster", "Stripes"]
 pageThumbnailFile = "CEPLogo.avif"
 +++
