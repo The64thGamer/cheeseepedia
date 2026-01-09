@@ -7,7 +7,7 @@ pageThumbnailFile = "aefaRZPxDztOsnfqtfGt.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "Anonymous", "Cheeseclassic", "Jaxonia", "Ceclife13"]
 mediaDuration = "1:18:18"
 citations = []
-showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
