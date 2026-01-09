@@ -7,7 +7,7 @@ pageThumbnailFile = "hAczHtQW0ncEFSA6bENH.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "RedaCEC", "CyberSnout"]
 citations = ["https://archive.org/details/january-1994"]
 mediaDuration = "1:00:48"
-showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
