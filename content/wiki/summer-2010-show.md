@@ -85,7 +85,7 @@ This show played from July - August 31, 2010.
     7.  The Zone - 'Amateur Kiteboarder'
     8.  Pajanimals - 'Stick To The Plan'
 
-## Lives:
+## Live Shows:
 
 - Birthday Program 2009
 - BINGO
