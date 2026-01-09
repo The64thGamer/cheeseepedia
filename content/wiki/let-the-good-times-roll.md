@@ -6,6 +6,7 @@ endDate = "1994-03-00"
 pageThumbnailFile = "hAczHtQW0ncEFSA6bENH.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "RedaCEC", "CyberSnout"]
 citations = ["https://archive.org/details/january-1994"]
+mediaDuration = "1:00:48"
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -39,7 +40,7 @@ categories = ["Chuck E. Cheese's"]
     1.  Chuck E.'s Zoo View
     2.  'Birthday Star'
     3.  Trivia
-    4.  Charlie Rockit - 'Fanmail'
+    4.  Charlie Rockit - 'Fan Mail'
     5.  CEC Sports
     6.  'Birthday Star (Walk-In)'
     7.  Trivia
@@ -54,7 +55,7 @@ categories = ["Chuck E. Cheese's"]
     2.  'Birthday Star'
     3.  Snow Daze - A Season of Shredding
     4.  CEC TV '94 ID
-    5.  CEC Special Report
+    5.  CEC Special Report - 'Newest Affiliates'
     6.  VJ Spot
 8.   **Segment 4**
     1.  'When You're Here'
