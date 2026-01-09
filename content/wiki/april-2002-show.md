@@ -55,7 +55,7 @@ This show featured 4 segments with 8 songs.
     4.  CEC TV ID - 'Dancing Food'
     4.  Psychadelic (Studio C)
 
-## Lives
+## Live Shows
 
 **Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
