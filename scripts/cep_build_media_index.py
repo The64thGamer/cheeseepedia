@@ -87,30 +87,39 @@ def find_static_file(basename: str):
     return None
 
 def read_frontmatter(path: str):
+    """Return frontmatter dict, robust to line endings."""
     with open(path, "rb") as fh:
         raw = fh.read()
 
     try:
-        txt = raw.decode("utf-8")
+        txt = raw.decode("utf-8-sig")  # remove BOM if exists
     except Exception:
         txt = raw.decode("latin-1", errors="ignore")
 
-    txt = txt.lstrip()
+    # normalize line endings
+    txt = txt.replace("\r\n", "\n").replace("\r", "\n").lstrip()
+
+    # TOML frontmatter
     if txt.startswith("+++"):
         parts = re.split(r"(?m)^\+{3}\s*$", txt)
         if len(parts) >= 3 and toml:
+            fm_txt = parts[1].strip()
             try:
-                return toml.loads(parts[1])
+                return toml.loads(fm_txt)
             except Exception:
                 return {}
+    # YAML frontmatter
     elif txt.startswith("---"):
         parts = re.split(r"(?m)^---\s*$", txt)
         if len(parts) >= 3 and yaml:
+            fm_txt = parts[1].strip()
             try:
-                return yaml.safe_load(parts[1]) or {}
+                return yaml.safe_load(fm_txt) or {}
             except Exception:
                 return {}
+
     return {}
+
 
 def normalize_pages_field(raw):
     if raw is None:
@@ -133,11 +142,29 @@ def collect_md_files(base_dirs):
     return out
 
 def load_content_only(path: str):
+    """Return content after frontmatter."""
+    with open(path, "rb") as fh:
+        raw = fh.read()
     try:
-        post = frontmatter.load(path)
-        return post.content.strip()
+        txt = raw.decode("utf-8-sig")
     except Exception:
-        return ""
+        txt = raw.decode("latin-1", errors="ignore")
+
+    txt = txt.replace("\r\n", "\n").replace("\r", "\n").lstrip()
+
+    # remove TOML frontmatter
+    if txt.startswith("+++"):
+        parts = re.split(r"(?m)^\+{3}\s*$", txt)
+        if len(parts) >= 3:
+            return parts[2].strip()
+    # remove YAML frontmatter
+    elif txt.startswith("---"):
+        parts = re.split(r"(?m)^---\s*$", txt)
+        if len(parts) >= 3:
+            return parts[2].strip()
+
+    return txt.strip()
+
 
 # ---------------- Builders ----------------
 
