@@ -1,7 +1,5 @@
 {{- /*
-DisplayPhoto.html — fast, stable, per-photo lookup
-- Prefers site.Data.photos (data/photos.json)
-- Falls back to site.Data.photosbypage (data/photosbypage.json) by building a tiny map
+DisplayPhoto.html — lookup only in site.Data.photos (data/photos.json)
 Params:
   .name - photo filename/title (e.g. "blah.avif")
   .mode - "default", "no-css", "raw-photo"
@@ -10,31 +8,10 @@ Params:
 {{- $ctxName := (.name | default "") | printf "%s" -}}
 {{- $ctxMode := (.mode | default "default") | printf "%s" -}}
 
-{{- /* === Build / select meta source === */ -}}
+{{- /* === Build / select meta source (only site.Data.photos) === */ -}}
 {{- $metaMap := dict -}}
-
 {{- with site.Data.photos -}}
   {{- $metaMap = . -}}
-{{- else -}}
-  {{- with site.Data.photosbypage -}}
-    {{- range $pageKey, $arr := . -}}
-      {{- range $i, $m := $arr -}}
-        {{- $n := index $m "name" | default "" -}}
-        {{- if ne $n "" -}}
-          {{- $entry := dict
-              "name" (index $m "name")
-              "hasFile" (index $m "hasFile")
-              "fileName" (index $m "fileName")
-              "startDate" (index $m "startDate")
-              "page_path" (index $m "page_path")
-              "content" (index $m "content")
-              "pages" (index $m "pages")
-          -}}
-          {{- $metaMap = merge $metaMap (dict $n $entry) -}}
-        {{- end -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
 {{- end -}}
 
 {{- /* === Lookup metadata for this photo === */ -}}
@@ -61,10 +38,7 @@ Params:
   {{- $desc = replaceRE `(?s)^\+{3}.*?\+{3}` "" $desc -}}
   {{- /* strip YAML block --- ... --- */ -}}
   {{- $desc = replaceRE `(?s)^-{3}.*?-{3}` "" $desc -}}
-  {{- /* If content still starts with key = value style (flattened frontmatter), remove leading chunk
-        up to first blank line or up to next +++ if that exists. This handles things like:
-        +++ title = "..." draft = false ... +++ Rest of content
-  */ -}}
+  {{- /* If content still looks like flattened frontmatter (key = value), remove leading chunk */ -}}
   {{- if or (in $descRaw "title =") (in $descRaw "draft =") (in $descRaw "tags =") -}}
     {{- if in $descRaw "+++" -}}
       {{- /* remove everything up to and including the first closing +++ */ -}}
@@ -80,6 +54,7 @@ Params:
 
 {{- /* fallback alt/description */ -}}
 {{- $altText := cond (ne $desc "") $desc $ctxName -}}
+
 {{- /* format date if present */ -}}
 {{- $dateStr := "" -}}
 {{- if $m -}}
@@ -104,6 +79,7 @@ Params:
   {{- if ne $raw "" -}}
     {{- $p1 := replace $raw "content/" "" -}}
     {{- $p2 := replaceRE "\\.md$" "" $p1 -}}
+    {{- /* ensure leading slash so links are always root-relative */ -}}
     {{- $linkURL = printf "/%s/" $p2 -}}
   {{- end -}}
 {{- end -}}
