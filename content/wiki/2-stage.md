@@ -16,7 +16,7 @@ The ***2-Stage*** is a stage format found at {{< wiki-link "Chuck E. Cheese's" >
 
 ## History
 
-The 2-Stage was created in 1992 to unify all {{< wiki-link "Chuck E's House Facade" >}} and {{< wiki-link "Cyberamics Road Stage" >}} locations to one setup and to be consistent with {{< wiki-link "Concept Unification" >}} and the company's future plans. The first 2-Stage was installed at the {{< wiki-link "White Settlement, TX (7750 Scott St)" >}} location in February 1992. After that, it would go on to be installed in approximately 100 CEC locations across the United States, Canada, Chile, and Guatemala.
+The 2-Stage was created in 1992 to unify all {{< wiki-link "Chuck E's House Facade" >}} and {{< wiki-link "Road Stage" >}} locations to one setup and to be consistent with {{< wiki-link "Concept Unification" >}} and the company's future plans. The first 2-Stage was installed at the {{< wiki-link "White Settlement, TX (7750 Scott St)" >}} location in February 1992. After that, it would go on to be installed in approximately 100 CEC locations across the United States, Canada, Chile, and Guatemala.
 
 ## Design
 
@@ -24,7 +24,7 @@ The 2-Stage has had multiple different design variations.
 
 ### Prototypes
 
-{{< wiki-link "White Settlement, TX (7750 Scott St)" >}} 2-Stage had 3-Stage buildings and Jasper's can, a solid blue valance, and a {{< wiki-link "Cyberamics Road Stage" >}} Munch organ. {{< wiki-link "San Antonio, TX (8220 Windsor Cross)" >}} and {{< wiki-link "Merced, CA (721 W Olive Ave)" >}} (Later at {{< wiki-link "Chesapeake, VA (1528 Sam's Circle)" >}}) 2-Stages, like White Settlement, also had {{< wiki-link "Concept Unification Stage" >}} buildings. Chuck also stood on top of a red platform. {{< wiki-link "Herndon, VA (2465 Centreville Rd)" >}} 2-Stage had unique buildings that no other 2-Stage had.
+{{< wiki-link "White Settlement, TX (7750 Scott St)" >}} 2-Stage had 3-Stage buildings and Jasper's can, a solid blue valance, and a {{< wiki-link "Road Stage" >}} Munch organ. {{< wiki-link "San Antonio, TX (8220 Windsor Cross)" >}} and {{< wiki-link "Merced, CA (721 W Olive Ave)" >}} (Later at {{< wiki-link "Chesapeake, VA (1528 Sam's Circle)" >}}) 2-Stages, like White Settlement, also had {{< wiki-link "Concept Unification Stage" >}} buildings. Chuck also stood on top of a red platform. {{< wiki-link "Herndon, VA (2465 Centreville Rd)" >}} 2-Stage had unique buildings that no other 2-Stage had.
 
 ### Standard
 

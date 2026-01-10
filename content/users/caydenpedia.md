@@ -23,7 +23,7 @@ Also here's a countdown tier list of my Top 10 Least/Most Favorite current CEC S
 7. {{< wiki-link "Circles of Light" >}} (16M, 32M, or no bot)
 6. {{< wiki-link "2-Stage" >}} (the backdrops on the center stage are too close to each other, like the MMBB sign and the brick wall; still a decent stage though)
 5. {{< wiki-link "Concept Unification 1-Stage" >}} (it is a unique test show concept in my opinion)
-4. {{< wiki-link "Cyberamics Road Stage" >}} (the half-bodied bots give me 1980s Pizza Time Theatre vibes, in a good way)
+4. {{< wiki-link "Road Stage" >}} (the half-bodied bots give me 1980s Pizza Time Theatre vibes, in a good way)
 3. {{< wiki-link "Studio C Alpha" >}} (a nice looking late night themed stage)
 2. {{< wiki-link "1-Stage" >}} (well layed out and has been at my 2nd local store since 1994, and that rhymes)
 1. {{< wiki-link "Concept Unification Stage" >}} (was at my local store until August 2022)

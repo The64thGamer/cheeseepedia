@@ -3397,6 +3397,18 @@
       "page_path": "content/videos/https-youtu-be-0rtuub_jk90",
       "startDate": "2022-04-29",
       "content": "Together We've Got It at West Des Moines, IA (1431 22nd St)"
+    },
+    {
+      "name": "https://youtu.be/RJP-YzoopzY",
+      "page_path": "content/videos/showtapespam1-copy",
+      "startDate": "2024-08-15",
+      "content": "3-Stage, April 2006: Segment 1, Official Signals in Retromation"
+    },
+    {
+      "name": "https://youtu.be/k4OWKtDeVqc",
+      "page_path": "content/videos/showtapespam1-copy-5",
+      "startDate": "2024-10-12",
+      "content": "3-Stage, April 2006: Segment 1, Official Signals in Retromation"
     }
   ],
   "Chuck E. March": [
@@ -4107,7 +4119,7 @@
       "content": "'Painting By Numbers' episode of BBC documentary series 'Horizon'. Features footage of Sunnyvale, CA (1247 W El Camino Real) and an interview with Nolan Bushnell. PTT segment begins at 6:09."
     }
   ],
-  "Cyberamics Portrait / Shelf Stage": [
+  "Portrait / Shelf Stage": [
     {
       "name": "https://www.youtube.com/watch?v=JSZ6SJDCuvc",
       "page_path": "content/videos/https-www-youtube-com-watch-v-jsz6sjdcuvc",
@@ -6351,6 +6363,44 @@
       "page_path": "content/videos/https-youtu-be-kfawfonwjvc",
       "startDate": "2018-09-02",
       "content": "Jasper's Country Classic preformed at San Bernardino, CA."
+    }
+  ],
+  "April 2006 Show": [
+    {
+      "name": "https://youtu.be/mzUcqT51NBM",
+      "page_path": "content/videos/showtapespam1-copy-3",
+      "startDate": "2020-06-21",
+      "content": "Upload of April 2006 Showtape Video (Studio C)"
+    },
+    {
+      "name": "https://youtu.be/4rwVlB5fDSo",
+      "page_path": "content/videos/showtapespam1-copy-4",
+      "startDate": "2020-09-02",
+      "content": "Upload of April 2006: Segment 3 Showtape Video (Studio C Split-view)"
+    },
+    {
+      "name": "https://youtu.be/nA5YxQotsyc",
+      "page_path": "content/videos/showtapespam1-copy-2",
+      "startDate": "2022-11-19",
+      "content": "Upload of April 2006 Showtape Video"
+    },
+    {
+      "name": "https://youtu.be/RJP-YzoopzY",
+      "page_path": "content/videos/showtapespam1-copy",
+      "startDate": "2024-08-15",
+      "content": "3-Stage, April 2006: Segment 1, Official Signals in Retromation"
+    },
+    {
+      "name": "https://youtu.be/k4OWKtDeVqc",
+      "page_path": "content/videos/showtapespam1-copy-5",
+      "startDate": "2024-10-12",
+      "content": "3-Stage, April 2006: Segment 1, Official Signals in Retromation"
+    },
+    {
+      "name": "https://youtu.be/RJP-YzoopzY",
+      "page_path": "content/videos/showtapespam1",
+      "startDate": "2025-08-24",
+      "content": "Road Stage, April 2006: Segment 3, Official Signals in Retromation"
     }
   ],
   "Metairie, LA (7000 Veterans Blvd)": [
@@ -8871,6 +8921,34 @@
       "page_path": "content/videos/https-youtu-be-g0ndxmh5sog",
       "startDate": "1980-00-00",
       "content": "VHS footage of the Wolf Pack 5 at Kansas City, MO (2726 NE Vivion Rd). Part 3 of 3."
+    }
+  ],
+  "RetroMation": [
+    {
+      "name": "https://youtu.be/RJP-YzoopzY",
+      "page_path": "content/videos/showtapespam1-copy",
+      "startDate": "2024-08-15",
+      "content": "3-Stage, April 2006: Segment 1, Official Signals in Retromation"
+    },
+    {
+      "name": "https://youtu.be/k4OWKtDeVqc",
+      "page_path": "content/videos/showtapespam1-copy-5",
+      "startDate": "2024-10-12",
+      "content": "3-Stage, April 2006: Segment 1, Official Signals in Retromation"
+    },
+    {
+      "name": "https://youtu.be/RJP-YzoopzY",
+      "page_path": "content/videos/showtapespam1",
+      "startDate": "2025-08-24",
+      "content": "Road Stage, April 2006: Segment 3, Official Signals in Retromation"
+    }
+  ],
+  "Road Stage": [
+    {
+      "name": "https://youtu.be/RJP-YzoopzY",
+      "page_path": "content/videos/showtapespam1",
+      "startDate": "2025-08-24",
+      "content": "Road Stage, April 2006: Segment 3, Official Signals in Retromation"
     }
   ],
   "Ogden, UT (3155 Harrison Blvd)": [

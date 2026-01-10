@@ -13,7 +13,7 @@ pageThumbnailFile = "n5oDAsBhcH_r040SjeSN.avif"
 latitudeLongitude = ["26.70500192","-80.11451788"]
 +++
 
-***4646 Okeechobee Blvd, Store #432*** was a *Chuck E. Cheese's Pizza*/*Chuck E. Cheeses* in West Palm Beach, Florida. The store opened on December 18, 1990, with a {{< wiki-link "Cyberamics Road Stage" >}} and closed in December 2004 due to a hurricane. This is not to be confused with the Pizza Time Theatre on West Palm Beach, FL (2101 Palm Beach Lakes)|2101 Palm Beach Lakes which opened in December 1982 (Unknown Day) and closed in late 1984 (Unknown Month and Day) with a {{< wiki-link "Cyberamics Balcony Stage" >}} or the current location on {{< wiki-link "West Palm Beach, FL (2471 Okeechobee Blvd)" >}} which opened on December 26, 2013 with a {{< wiki-link "Circles of Light" >}} and received 2.0 in March 2022, which is still open to this day.
+***4646 Okeechobee Blvd, Store #432*** was a *Chuck E. Cheese's Pizza*/*Chuck E. Cheeses* in West Palm Beach, Florida. The store opened on December 18, 1990, with a {{< wiki-link "Road Stage" >}} and closed in December 2004 due to a hurricane. This is not to be confused with the Pizza Time Theatre on West Palm Beach, FL (2101 Palm Beach Lakes)|2101 Palm Beach Lakes which opened in December 1982 (Unknown Day) and closed in late 1984 (Unknown Month and Day) with a {{< wiki-link "Cyberamics Balcony Stage" >}} or the current location on {{< wiki-link "West Palm Beach, FL (2471 Okeechobee Blvd)" >}} which opened on December 26, 2013 with a {{< wiki-link "Circles of Light" >}} and received 2.0 in March 2022, which is still open to this day.
 
 ## History
 
@@ -23,8 +23,8 @@ West Palm Beach opened on December 18th, 1990, with one of three (Excluding Corp
 
 | Stage                                           | Installed     | Removed       | Notes                                                                                                                                                     |
 |-------------------------------------------------|---------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}} | December 1990 | 1991/1992     | Third and final Road Stage Prototype Installed (Excluding Corporate). One of 4 Prototypes produced. Converted into the finalized Road Stage in 1991/1992. |
-| {{< wiki-link "Cyberamics Road Stage" >}} | 1991/1992     | December 2004 | One of many Road Stages in Florida.                                                                                                                       |
+| {{< wiki-link "Road Stage" >}} | December 1990 | 1991/1992     | Third and final Road Stage Prototype Installed (Excluding Corporate). One of 4 Prototypes produced. Converted into the finalized Road Stage in 1991/1992. |
+| {{< wiki-link "Road Stage" >}} | 1991/1992     | December 2004 | One of many Road Stages in Florida.                                                                                                                       |
 
 ## Animatronics
 

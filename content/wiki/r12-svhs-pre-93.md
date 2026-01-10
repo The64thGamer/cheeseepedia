@@ -10,7 +10,7 @@ citations = []
 pageThumbnailFile = "3N97plKFufTD5DtpJgoJ.avif"
 +++
 The ***R12 SVHS (Pre-93)* format is a physical showtape medium holding the {{< wiki-link "Biphase Cyberstar Data Format" >}} that lasted from November 1990 to May 1993.
-The format is used for three specific {{< wiki-link "Cyberamics" >}} stages, that being the {{< wiki-link "Cyberamics Road Stage" >}}, {{< wiki-link "1-Stage" >}}, and {{< wiki-link "2-Stage" >}}, hence the 'R12'. The 'Pre-93' refers to it being of the original showtape format for Cyberstar before a switch to a new format in May of 1993 with the release of {{< wiki-link "Best of CEC TV 1993" >}}.**
+The format is used for three specific {{< wiki-link "Cyberamics" >}} stages, that being the {{< wiki-link "Road Stage" >}}, {{< wiki-link "1-Stage" >}}, and {{< wiki-link "2-Stage" >}}, hence the 'R12'. The 'Pre-93' refers to it being of the original showtape format for Cyberstar before a switch to a new format in May of 1993 with the release of {{< wiki-link "Best of CEC TV 1993" >}}.**
 
 ## Format
 

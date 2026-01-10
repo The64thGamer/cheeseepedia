@@ -11,7 +11,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***Mississauga, Ontario, Canada (4141 Dixie Rd)*** is a Chuck E. Cheese's that opened in the Spring of 1991 with a {{< wiki-link "Cyberamics Road Stage" >}}.  
+***Mississauga, Ontario, Canada (4141 Dixie Rd)*** is a Chuck E. Cheese's that opened in the Spring of 1991 with a {{< wiki-link "Road Stage" >}}.  
 This location had the last Road Stage, as well as being the **longest** operating Road Stage, after Topeka, Kansas, which received 2.0 in July 2022. The location is also the 10th location in Canada. It should not be confused with {{< wiki-link "Mississauga, Ontario, Canada (2945 Argentia Rd)" >}} which opened on January 12th, 2006.
 
 ## History
@@ -25,7 +25,7 @@ Originally, Mississauga (Dixie) featured a Road Stage which they still have to t
 
 | Stage                                           | Installed   | Removed   | Notes                                                                                         |
 |-------------------------------------------------|-------------|-----------|-----------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}} | Spring 1991 | June 2025 | Poor Condition. Oldest Road Stage and last one in existence. One of two installed in Canada.. |
+| {{< wiki-link "Road Stage" >}} | Spring 1991 | June 2025 | Poor Condition. Oldest Road Stage and last one in existence. One of two installed in Canada.. |
 
 ## Animatronics
 

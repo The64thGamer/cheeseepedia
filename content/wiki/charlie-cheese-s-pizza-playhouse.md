@@ -13,7 +13,7 @@ categories = ["Pizza Time Theatre"]
 
 ## History
 
-In 1981, PTT opened their first Charlie Cheese's in {{< wiki-link "Surfer's Paradise, Queensland, Australia" >}} with a {{< wiki-link "Cyberamics Portrait / Shelf Stage" >}}. The name was changed from Chuck to Charlie due to Chuck meaning 'throw up' in Australian. The Cavil Location closed in 1982. Another location opened the same year in {{< wiki-link "Carina, Queensland, Australia" >}} with a {{< wiki-link "Cyberamics Balcony Stage" >}}. The location closed around 1984 to 1986, making Charlie Cheese's defunct.
+In 1981, PTT opened their first Charlie Cheese's in {{< wiki-link "Surfer's Paradise, Queensland, Australia" >}} with a {{< wiki-link "Portrait / Shelf Stage" >}}. The name was changed from Chuck to Charlie due to Chuck meaning 'throw up' in Australian. The Cavil Location closed in 1982. Another location opened the same year in {{< wiki-link "Carina, Queensland, Australia" >}} with a {{< wiki-link "Cyberamics Balcony Stage" >}}. The location closed around 1984 to 1986, making Charlie Cheese's defunct.
 
 ## Merchandise
 
@@ -30,5 +30,5 @@ The only merchandise released for Charlie Cheese's were a plush with brown fur i
 
 | Name                                                  | **First Installed**                                                      | Last Removed                                                       | Notes                                |
 | ----------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------ |
-| {{< wiki-link "Cyberamics Portrait / Shelf Stage" >}} | March 1981, {{< wiki-link "Surfer's Paradise, Queensland, Australia" >}} | 1982, {{< wiki-link "Surfer's Paradise, Queensland, Australia" >}} | Modified stage.                      |
+| {{< wiki-link "Portrait / Shelf Stage" >}} | March 1981, {{< wiki-link "Surfer's Paradise, Queensland, Australia" >}} | 1982, {{< wiki-link "Surfer's Paradise, Queensland, Australia" >}} | Modified stage.                      |
 | {{< wiki-link "Cyberamics Balcony Stage" >}}          | 1982, {{< wiki-link "Carina, Queensland, Australia" >}}                  | 1984 - 1986, {{< wiki-link "Carina, Queensland, Australia" >}}     | Last Stage used for Charlie Cheese's |

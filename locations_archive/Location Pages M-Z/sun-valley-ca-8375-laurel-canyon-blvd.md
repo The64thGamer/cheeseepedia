@@ -13,7 +13,7 @@ pageThumbnailFile = "jXsPT9R_4aLos9TIPh1_.avif"
 latitudeLongitude = ["34.22236247","-118.4003427"]
 +++
 
-***8375 Laurel Canyon Blvd, Store #418*** is a *Chuck E. Cheese* that opened in July 1992 (day unknown) with a {{< wiki-link "Cyberamics Road Stage" >}}, and is still open to this day with their 2.0 Remodel. It is located in the Canyon Plaza Shopping Center and is the relocation of the {{< wiki-link "Sun Valley, CA (8375 Laurel Canyon Blvd)" >}} which opened in July 1980 with a Portrait Stage and closed in July 1992 with {{< wiki-link "Chuck E's House Facade" >}}.
+***8375 Laurel Canyon Blvd, Store #418*** is a *Chuck E. Cheese* that opened in July 1992 (day unknown) with a {{< wiki-link "Road Stage" >}}, and is still open to this day with their 2.0 Remodel. It is located in the Canyon Plaza Shopping Center and is the relocation of the {{< wiki-link "Sun Valley, CA (8375 Laurel Canyon Blvd)" >}} which opened in July 1980 with a Portrait Stage and closed in July 1992 with {{< wiki-link "Chuck E's House Facade" >}}.
 
 ## Stages
 
@@ -21,7 +21,7 @@ Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. Lift
 
 | Stage                                           | Installed     | Removed       |
 |-------------------------------------------------|---------------|---------------|
-| {{< wiki-link "Cyberamics Road Stage" >}} | July 1992     | November 2023 |
+| {{< wiki-link "Road Stage" >}} | July 1992     | November 2023 |
 | {{< wiki-link "Video Wall" >}}            | November 2023 | Still in Use. |
 | Dance Floor                                     | 2024          | Still in Use. |
 

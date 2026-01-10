@@ -25,7 +25,7 @@ Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. The 
 
 | Stage                                           | Installed     | Removed           |
 |-------------------------------------------------|---------------|-------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}} | June 1992     | February 12, 2024 |
+| {{< wiki-link "Road Stage" >}} | June 1992     | February 12, 2024 |
 | Dance Floor + Video Wall                        | February 2024 | Still in use.     |
 
 ## Animatronics

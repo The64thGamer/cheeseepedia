@@ -10,7 +10,7 @@ citations = []
 pageThumbnailFile = "feibd5bLbxyU5gEVs3J9.avif"
 +++
 
-***8354 Eastern Ave, Store #403***, also known as ***Essex*** and ***Dundalk*** was a Chuck E. Cheese's Pizza/Chuck E. Cheese's that opened on August 6th, 1991, in the Diamond Point Plaza with a {{< wiki-link "Cyberamics Road Stage" >}} and closed on October 28th, 2018, with a {{< wiki-link "2-Stage" >}}.
+***8354 Eastern Ave, Store #403***, also known as ***Essex*** and ***Dundalk*** was a Chuck E. Cheese's Pizza/Chuck E. Cheese's that opened on August 6th, 1991, in the Diamond Point Plaza with a {{< wiki-link "Road Stage" >}} and closed on October 28th, 2018, with a {{< wiki-link "2-Stage" >}}.
 
 ## History
 
@@ -26,7 +26,7 @@ The Essex stage opened as a Road Stage for about 2-3 years before changing to th
 
 | Stage                                           | Installed   | Removed      | Notes                                           |
 |-------------------------------------------------|-------------|--------------|-------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}} | August 1991 | 1993-1994    | One of three Road Stages installed in Maryland. |
+| {{< wiki-link "Road Stage" >}} | August 1991 | 1993-1994    | One of three Road Stages installed in Maryland. |
 | {{< wiki-link "2-Stage" >}}               | 1993-1994   | October 2018 | One of five 2-Stages installed in Maryland.     |
 
 ## Animatronics

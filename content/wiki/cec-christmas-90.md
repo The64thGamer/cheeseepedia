@@ -77,7 +77,7 @@ This show started out as a Christmas showtape called {{< wiki-link "CEC Home for
 
 ### Road Stage Version
 
-The 1990 release would be the first ever showtape released for the {{< wiki-link "Cyberamics Road Stage" >}}, having new programming made in the {{< wiki-link "Animation Programming System" >}}. This would be the only full showtape to have been programmed in {{< wiki-link "SongCode" >}} and APS.
+The 1990 release would be the first ever showtape released for the {{< wiki-link "Road Stage" >}}, having new programming made in the {{< wiki-link "Animation Programming System" >}}. This would be the only full showtape to have been programmed in {{< wiki-link "SongCode" >}} and APS.
 
 ### APS Files
 

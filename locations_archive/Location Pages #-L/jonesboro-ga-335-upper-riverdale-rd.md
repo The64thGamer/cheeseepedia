@@ -13,14 +13,14 @@ pageThumbnailFile = "AkiycK0123w4Iiv0gOnq.avif"
 latitudeLongitude = ["33.58039417","-84.38279328"]
 +++
 
-***335 Upper Riverdale Rd, Store #601*** is a *Chuck E. Cheese* that opened on November 20, 1990, with a {{< wiki-link "Cyberamics Road Stage" >}} and is still open to this day. It is located in the Tara Crossings Shopping Center.
+***335 Upper Riverdale Rd, Store #601*** is a *Chuck E. Cheese* that opened on November 20, 1990, with a {{< wiki-link "Road Stage" >}} and is still open to this day. It is located in the Tara Crossings Shopping Center.
 
 ## Stages
 
 | Stage                                                                   | Installed     | Removed      | Notes                                                                                                                                 |
 |-------------------------------------------------------------------------|---------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}                         | November 1990 | 1991/1992    | First Road Stage Installed (Excluding Corporate). One of 4 Prototypes produced. Converted into the finalized Road Stage in 1991/1992. |
-| {{< wiki-link "Cyberamics Road Stage" >}}                         | 1991/1992     | 1994/1995    | Only Road Stage in Georgia.                                                                                                           |
+| {{< wiki-link "Road Stage" >}}                         | November 1990 | 1991/1992    | First Road Stage Installed (Excluding Corporate). One of 4 Prototypes produced. Converted into the finalized Road Stage in 1991/1992. |
+| {{< wiki-link "Road Stage" >}}                         | 1991/1992     | 1994/1995    | Only Road Stage in Georgia.                                                                                                           |
 | {{< wiki-link "1-Stage" >}}                                       | 1994/1995     | 2000         | One of two 1-Stages in Georgia.                                                                                                       |
 | Studio C (1997)                                                         | 2000          | July 2022    | One of 5 Studio C Alphas in Georgia.                                                                                                  |
 | {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + Video Wall | July 2022     | Still In Use | 2021 Model                                                                                                                            |

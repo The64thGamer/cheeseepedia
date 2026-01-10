@@ -1,7 +1,7 @@
 +++
 title = "https://youtu.be/q5KJ9Vi5-eI"
 startDate = "1981-00-00"
-pages = ["Surfer's Paradise, Queensland, Australia", "Cyberamics Portrait / Shelf Stage", "Dolli Dimples (Cabaret)"]
+pages = ["Surfer's Paradise, Queensland, Australia", "Portrait / Shelf Stage", "Dolli Dimples (Cabaret)"]
 tags = ["Videos"]
 categories = ["Pizza Time Theatre"]
 +++

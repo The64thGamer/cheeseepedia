@@ -5,7 +5,7 @@ startDate = "1979-10-06"
 endDate = "2025-09-21"
 cuDate = ""
 remodels = ["PTT Standard Layout|1979-10-06","PTT Early Cyberamic Replacements|1983-00-00","SPT 1980's Remodel Program|0000-00-00","SPT 1990's Remodel Program|0000-00-00","Phase 1 (1994)|0000-00-00","Phase 2 (1997)|0000-00-00","CEC 2000's Remodel Program|0000-00-00","Phase 3 (2000)|0000-00-00","2020 COVID-19 Removals|0000-00-00"]
-stages = ["Cyberamics Portrait / Shelf Stage|1979-10-06|0000-00-00|2-Wall", "Chuck E.'s House Facade|0000-00-00|0000-00-00", "2-Stage|0000-00-00|2025-09-21|Oldest CEC location currently. Opened in October 1979 as the 5th Pizza Time Theatre with a Portrait Stage. Last store from the 1970's that is still open. One of last two 2-Stage's operating in California.|"]
+stages = ["Portrait / Shelf Stage|1979-10-06|0000-00-00|2-Wall", "Chuck E.'s House Facade|0000-00-00|0000-00-00", "2-Stage|0000-00-00|2025-09-21|Oldest CEC location currently. Opened in October 1979 as the 5th Pizza Time Theatre with a Portrait Stage. Last store from the 1970's that is still open. One of last two 2-Stage's operating in California.|"]
 franchisees = []
 attractions = ["Depth Charge|0000-00-00|0000-00-00","Star Hawk|0000-00-00|0000-00-00","Cheese Crawl|1979-10-06|0000-00-00","Warlords|0000-00-00|0000-00-00","Skee Ball|0000-00-00|0000-00-00|12 Lanes","Bumper Cars|1979-10-06|0000-00-00|12x18ft concrete pad with six bumper cars.","Ball Pit|0000-00-00|0000-00-00","Jasper's General Store|0000-00-00|0000-00-00|Mentioned June 22nd, 1981.","Bella's Snack Bar|2025-06-00|2025-09-21"]
 sqft = "17,000"
@@ -69,7 +69,7 @@ On September 14th, 1985, the Huntington Beach Jaycees would hold a children's fi
 
 ## 1990's - 2010's
 
-Some time between 1987 to 1991 (likely within the range of 1989-1990), the store would convert from a {{< wiki-link "Cyberamics Portrait / Shelf Stage" >}} to {{< wiki-link "Chuck E.'s House Facade" >}}.{{< cite 28 >}}{{< cite 29 >}} Some time in the 1990's the store would recieve a {{< wiki-link "2-Stage" >}}, the {{< wiki-link "SPT 1990's Remodel Program" >}}, and a drop ceiling. The stage would also be moved from the left showroom wall, where it previously was as the C-Stage, to the back wall. It is unclear if this happened before, during, or after the 2-Stage conversion. Some time after 2003 the store would also recieve the {{< wiki-link "CEC 2000's Remodel Program" >}}.{{< cite 34 >}} 
+Some time between 1987 to 1991 (likely within the range of 1989-1990), the store would convert from a {{< wiki-link "Portrait / Shelf Stage" >}} to {{< wiki-link "Chuck E.'s House Facade" >}}.{{< cite 28 >}}{{< cite 29 >}} Some time in the 1990's the store would recieve a {{< wiki-link "2-Stage" >}}, the {{< wiki-link "SPT 1990's Remodel Program" >}}, and a drop ceiling. The stage would also be moved from the left showroom wall, where it previously was as the C-Stage, to the back wall. It is unclear if this happened before, during, or after the 2-Stage conversion. Some time after 2003 the store would also recieve the {{< wiki-link "CEC 2000's Remodel Program" >}}.{{< cite 34 >}} 
 
 ## 2020's & Closure
 

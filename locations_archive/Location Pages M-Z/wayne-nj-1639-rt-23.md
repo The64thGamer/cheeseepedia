@@ -35,7 +35,7 @@ On July 30th, 2022, an incident occurred where a black girl was ignored by a per
 
 | Stage                                                        | Installed     | Removed       | Notes                                           |
 |--------------------------------------------------------------|---------------|---------------|-------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}              | April 1992    | November 2022 | One of two Road Stages installed in New Jersey. |
+| {{< wiki-link "Road Stage" >}}              | April 1992    | November 2022 | One of two Road Stages installed in New Jersey. |
 | \|{{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | November 2022 | Still In Use  | 2019 Model.                                     |
 
 [2007](https://www.showbizpizza.com/photos/cec/nj_wayne/index.html)

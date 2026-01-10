@@ -37,7 +37,7 @@ Carson at first had a Balcony Stage. Not much is known about it, and it was repl
 
 ## Animatronics
 
-The characters would be sent to {{< wiki-link "West Hills, CA (22940 Van Owen St)" >}} following the closure where they would then be dismantled to use as parts for the {{< wiki-link "Cyberamics Road Stage" >}}, with two masks being sent to {{< wiki-link "Garden Grove, CA (13101 Harbor Blvd)" >}}. Various cosmetic and mech pieces from Carson are now under private ownership.
+The characters would be sent to {{< wiki-link "West Hills, CA (22940 Van Owen St)" >}} following the closure where they would then be dismantled to use as parts for the {{< wiki-link "Road Stage" >}}, with two masks being sent to {{< wiki-link "Garden Grove, CA (13101 Harbor Blvd)" >}}. Various cosmetic and mech pieces from Carson are now under private ownership.
 
 | Animatronic                                                  | Whereabouts                                                                                            |
 |--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|

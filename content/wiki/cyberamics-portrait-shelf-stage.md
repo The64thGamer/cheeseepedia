@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Cyberamics Portrait / Shelf Stage"
+title = "Portrait / Shelf Stage"
 startDate = "1979-05-00"
 endDate = "2001-00-00"
 pageThumbnailFile = "RwtgV0kmTMjVGKYoOEbn.avif"

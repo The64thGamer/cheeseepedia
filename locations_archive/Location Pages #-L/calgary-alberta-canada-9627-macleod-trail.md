@@ -25,7 +25,7 @@ This location opened up on August 31st, 1991, as one of two Road Stages installe
 
 | Stage                                           | Installed   | Removed | Notes                                                                                                                                                                                     |
 |-------------------------------------------------|-------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}} | August 1991 | 1994    | One of two Road Stages installed in Canada. Later reinstalled at {{< wiki-link "Calgary, Alberta, Canada (2770 32nd Ave)" >}} to replace {{< wiki-link "Chuck E's House" >}}. |
+| {{< wiki-link "Road Stage" >}} | August 1991 | 1994    | One of two Road Stages installed in Canada. Later reinstalled at {{< wiki-link "Calgary, Alberta, Canada (2770 32nd Ave)" >}} to replace {{< wiki-link "Chuck E's House" >}}. |
 
 ## Animatronics
 

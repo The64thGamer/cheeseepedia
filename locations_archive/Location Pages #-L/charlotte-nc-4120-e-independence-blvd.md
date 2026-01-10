@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["35.19643342","-80.77108308"]
 +++
 
-***4120 E Independence Blvd*** was a *Pizza Time Theatre* in Charlotte, North Carolina that opened on March 30th, 1982, and closed in October 1984. This is not to be confused with the Chuck E. Cheese's on {{< wiki-link "Charlotte, NC (5612 Albemarle Rd)" >}} (which is 5-7 minutes from this location) that opened in November 1991 with a {{< wiki-link "Cyberamics Road Stage" >}}. It should also not be confused with the ShowBiz Pizza Place on {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} which opened on October 11th, 1982, with a Rock-afire Explosion, and is still open to this day with a 3-Stage.
+***4120 E Independence Blvd*** was a *Pizza Time Theatre* in Charlotte, North Carolina that opened on March 30th, 1982, and closed in October 1984. This is not to be confused with the Chuck E. Cheese's on {{< wiki-link "Charlotte, NC (5612 Albemarle Rd)" >}} (which is 5-7 minutes from this location) that opened in November 1991 with a {{< wiki-link "Road Stage" >}}. It should also not be confused with the ShowBiz Pizza Place on {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} which opened on October 11th, 1982, with a Rock-afire Explosion, and is still open to this day with a 3-Stage.
 
 ## History
 

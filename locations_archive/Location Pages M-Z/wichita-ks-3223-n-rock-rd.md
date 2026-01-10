@@ -25,7 +25,7 @@ Wichita premiered with a Road Stage, as did other CEC locations between 1990 and
 
 | Stage                                                                                             | Installed      | Removed        | Notes                                                                  |
 |---------------------------------------------------------------------------------------------------|----------------|----------------|------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}                                                   | December 1991  | September 2022 | 2nd Chuck E. Cheese in Kansas. 1 of 2 Road Stages installed in Kansas. |
+| {{< wiki-link "Road Stage" >}}                                                   | December 1991  | September 2022 | 2nd Chuck E. Cheese in Kansas. 1 of 2 Road Stages installed in Kansas. |
 | {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | September 2022 | Still In Use   | 2021 Model.                                                            |
 
 ## Animatronics

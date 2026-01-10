@@ -14,7 +14,7 @@ pageThumbnailFile = "g1XE766lYTMXdsgIAOrN.avif"
 
 ## History
 
-Little is known about this particular variant, however, it is known that it originally replaced shows in locations with the {{< wiki-link "Concept Unification Stage" >}} in Fall 2000, although it also replaced a {{< wiki-link "Cyberamics Road Stage" >}} in {{< wiki-link "Clearwater, FL (25921 US Hwy 19)" >}} around the same time.
+Little is known about this particular variant, however, it is known that it originally replaced shows in locations with the {{< wiki-link "Concept Unification Stage" >}} in Fall 2000, although it also replaced a {{< wiki-link "Road Stage" >}} in {{< wiki-link "Clearwater, FL (25921 US Hwy 19)" >}} around the same time.
 
 ### Nomenclature
 

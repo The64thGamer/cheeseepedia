@@ -20,7 +20,7 @@ Originally when the store opened, they had a Road Stage, the only one installed 
 
 | Stage                                                                                             | Installed             | Removed               | Notes                                       |
 |---------------------------------------------------------------------------------------------------|-----------------------|-----------------------|---------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}                                                   | April 1991            | 1996                  | Only Road Stage in Michigan.                |
+| {{< wiki-link "Road Stage" >}}                                                   | April 1991            | 1996                  | Only Road Stage in Michigan.                |
 | {{< wiki-link "2-Stage" >}}                                                                 | 1996                  | August/September 2021 | One of four 2-Stages installed in Michigan. |
 | {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | August/September 2021 | Still In Use          | 2021 Model.                                 |
 
