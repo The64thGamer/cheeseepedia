@@ -306,7 +306,7 @@
     "start_year": 2014,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 5,
+    "contributors_count": 6,
     "rating": 0
   },
   {
@@ -3286,7 +3286,7 @@
     "start_year": 1997,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 1
   },
   {
@@ -4816,7 +4816,7 @@
     "start_year": 1994,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 1
   },
   {
@@ -5627,6 +5627,16 @@
     "category": "Pizza Time Theatre",
     "tag": "Stage Variations",
     "contributors_count": 2,
+    "rating": 0
+  },
+  {
+    "title": "1996 Wick Ladderback Puppet",
+    "page_path": "content/wiki/1996-wick-ladderback-puppet.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "",
+    "tag": "Puppets",
+    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -7262,7 +7272,7 @@
   {
     "title": "CEC 1991 Blue Visor (1991)",
     "page_path": "content/wiki/cec-1991-blue-visor-1991.md",
-    "startDate": "Hats-00-00",
+    "startDate": "0000-00-00",
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
@@ -8956,7 +8966,7 @@
     "start_year": 2000,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 6,
+    "contributors_count": 7,
     "rating": 0
   },
   {
@@ -8982,7 +8992,7 @@
   {
     "title": "CEC R.A.T. Pack Hat. (90's)",
     "page_path": "content/wiki/cec-rat-pack-hat-90-s.md",
-    "startDate": "Hats-00-00",
+    "startDate": "0000-00-00",
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
@@ -13196,7 +13206,7 @@
     "start_year": 1998,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -15956,7 +15966,7 @@
     "start_year": 2013,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 0
   },
   {
@@ -16966,7 +16976,7 @@
     "start_year": 2012,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -23610,6 +23620,16 @@
     "rating": 0
   },
   {
+    "title": "Wick Ladderback",
+    "page_path": "content/wiki/wick-ladderback.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "Characters",
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
     "title": "'1 Token Starts Our Show' (PTT Signage)",
     "page_path": "content/wiki/1-token-starts-our-show-ptt-signage.md",
     "startDate": "0000-00-00",
@@ -25042,7 +25062,7 @@
   {
     "title": "CEC Sauce Boss Hat (Rockstar)",
     "page_path": "content/wiki/cec-sauce-boss-hat-rockstar.md",
-    "startDate": "Hats-00-00",
+    "startDate": "0000-00-00",
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
@@ -27186,7 +27206,7 @@
     "start_year": 2013,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 6,
+    "contributors_count": 7,
     "rating": 0
   },
   {
@@ -37380,16 +37400,6 @@
     "rating": 0
   },
   {
-    "title": "Wick Letterback",
-    "page_path": "content/wiki/wick-letterback.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "Characters",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Hard Hat Hank and Zoey",
     "page_path": "content/wiki/hard-hat-hank-and-zoey.md",
     "startDate": "",
@@ -40442,7 +40452,7 @@
   {
     "title": "CEC Chuck E. Cheese Please Hat (90's)",
     "page_path": "content/wiki/cec-chuck-e-cheese-please-hat-90-s.md",
-    "startDate": "Hats-00-00",
+    "startDate": "0000-00-00",
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
@@ -46502,7 +46512,7 @@
   {
     "title": "CEC Thumb Chuck Visor (90's)",
     "page_path": "content/wiki/cec-thumb-chuck-visor-90-s.md",
-    "startDate": "Hats-00-00",
+    "startDate": "0000-00-00",
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
@@ -50822,7 +50832,7 @@
   {
     "title": "CEC Red Kitchen Staff Hat (Rockstar)",
     "page_path": "content/wiki/cec-red-kitchen-staff-hat-rockstar.md",
-    "startDate": "Hats-00-00",
+    "startDate": "0000-00-00",
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
@@ -53496,16 +53506,6 @@
     "start_year": null,
     "category": "Creative Engineering",
     "tag": "Animatronics",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "1996 Wick Letterback Puppet",
-    "page_path": "content/wiki/1996-wick-letterback-puppet.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "",
-    "tag": "Puppets",
     "contributors_count": 0,
     "rating": 0
   },
@@ -56762,7 +56762,7 @@
   {
     "title": "CEC Team 2 Trainer Hat (90's)",
     "page_path": "content/wiki/cec-team-2-trainer-hat-90-s.md",
-    "startDate": "Hats-00-00",
+    "startDate": "0000-00-00",
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",

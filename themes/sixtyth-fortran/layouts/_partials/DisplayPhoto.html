@@ -48,18 +48,54 @@ Params:
   {{- $hasFile = index $m "hasFile" | default false -}}
 {{- end -}}
 
-{{- /* === Description and formatted date === */ -}}
-{{- $desc := "" -}}
+{{- /* === Description and formatted date (clean content) === */ -}}
+{{- $descRaw := "" -}}
+{{- if $m -}}
+  {{- $descRaw = (index $m "content") | default "" -}}
+{{- end -}}
+
+{{- /* If descRaw appears to contain frontmatter / inline TOML/YAML, strip it. */ -}}
+{{- $desc := $descRaw -}}
+{{- if gt (len $desc) 0 -}}
+  {{- /* strip TOML block +++ ... +++ */ -}}
+  {{- $desc = replaceRE `(?s)^\+{3}.*?\+{3}` "" $desc -}}
+  {{- /* strip YAML block --- ... --- */ -}}
+  {{- $desc = replaceRE `(?s)^-{3}.*?-{3}` "" $desc -}}
+  {{- /* If content still starts with key = value style (flattened frontmatter), remove leading chunk
+        up to first blank line or up to next +++ if that exists. This handles things like:
+        +++ title = "..." draft = false ... +++ Rest of content
+  */ -}}
+  {{- if or (in $descRaw "title =") (in $descRaw "draft =") (in $descRaw "tags =") -}}
+    {{- if in $descRaw "+++" -}}
+      {{- /* remove everything up to and including the first closing +++ */ -}}
+      {{- $desc = replaceRE `(?s)^.*?\+{3}` "" $descRaw -}}
+    {{- else -}}
+      {{- /* remove up to the first blank line */ -}}
+      {{- $desc = replaceRE `(?s)^[^\n]*\n` "" $desc -}}
+    {{- end -}}
+  {{- end -}}
+  {{- /* final trim */ -}}
+  {{- $desc = trim $desc " \r\n\t" -}}
+{{- end -}}
+
+{{- /* fallback alt/description */ -}}
+{{- $altText := cond (ne $desc "") $desc $ctxName -}}
+{{- /* format date if present */ -}}
 {{- $dateStr := "" -}}
 {{- if $m -}}
-  {{- with index $m "content" -}}
-      {{- $desc = . -}}
-  {{- end -}}
   {{- with index $m "startDate" -}}
     {{- if ne . "" -}}
       {{- $dateStr = partial "Readable_Date.html" (dict "date" . "presentOnEmpty" false) -}}
     {{- end -}}
   {{- end -}}
+{{- end -}}
+
+{{- /* display text prefers cleaned description, append date if present */ -}}
+{{- $displayText := "" -}}
+{{- if ne $desc "" -}}
+  {{- $displayText = printf "%s%s" $desc (cond (ne $dateStr "") (printf " (%s)" $dateStr) "") -}}
+{{- else -}}
+  {{- $displayText = cond (ne $ctxName "") (replace $ctxName "_" " ") "File Not Found" -}}
 {{- end -}}
 
 {{- $linkURL := "#" -}}
@@ -72,9 +108,6 @@ Params:
   {{- end -}}
 {{- end -}}
 
-{{- $altText := cond (ne $desc "") $desc $ctxName -}}
-{{- $displayText := cond (ne $desc "") (printf "%s%s" $desc (cond (ne $dateStr "") (printf " (%s)" $dateStr) "")) (cond (ne $ctxName "") (replace $ctxName "_" " ") "File Not Found") -}}
-
 {{- $notFoundPath := "/UI/File Not Found.jpg" -}}
 {{- if or (eq $ctxName "") (not $m) (not $hasFile) -}}
   {{- $imgURL = $notFoundPath -}}
@@ -86,15 +119,15 @@ Params:
 {{- /* === Render according to mode with lazy-loading === */ -}}
 {{- if eq "no-css" $ctxMode -}}
   <a href="{{ $linkURL }}">
-    <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText }}" class="lazy-photo" loading="lazy" />
+    <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText | html }}" class="lazy-photo" loading="lazy" />
   </a>
   <div class="article-photo-description">{{ $displayText }}</div>
 {{- else if eq $ctxMode "raw-photo" -}}
-  <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText }}" class="lazy-photo" loading="lazy" />
+  <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText | html }}" class="lazy-photo" loading="lazy" />
 {{- else -}}
   <div class="article-photo-image">
     <a href="{{ $linkURL }}">
-      <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText }}" class="lazy-photo" loading="lazy" />
+      <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText | html }}" class="lazy-photo" loading="lazy" />
     </a>
   </div>
   <div class="article-photo-description">{{ $displayText }}</div>
