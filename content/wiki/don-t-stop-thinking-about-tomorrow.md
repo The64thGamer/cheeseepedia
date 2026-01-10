@@ -7,12 +7,13 @@ pageThumbnailFile = "2IymNWgRxkXpjhP4kPhj.avif"
 contributors = ["Ceclife13", "BurgersNuggs445", "RedaCEC", "Awesome Dawson Films YT", "The 64th Gamer", "Agent 5"]
 citations = ["https://www.youtube.com/watch?v=M15CKSyRJKg"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Stephanie Nadolny|Voice of Helen Henny", "Doug Teel|Voice of Mr. Munch", "Reggie Smith|Voice of Jasper", "Joel McCrary|Voice of Pasqually The Chef", "Ron Schneider|Writer, Voice of Mr. Mouth https://youtu.be/JGPhPDRzQvY?t", "Jeff Palmer|Producer, Director"]
-showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+mediaDuration = "55:03"
 downloadLinks = ["https://archive.org/download/chuck-e-cheese-1995-singles-stereo-mixes/I_Wont_Give_Up.mp3|'I Won't Give Up' Stereo Mix"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Don't Stop Thinking About Tomorrow* was a show that released in April of 1995 at Chuck E. Cheese's locations.**
+***Don't Stop Thinking About Tomorrow*** was a show released in April of 1995 at Chuck E. Cheese's locations.
 
 ## Show List
 

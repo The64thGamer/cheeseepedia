@@ -9,6 +9,7 @@ citations = ["https://archive.org/download/3stage_dvd_signals/June%202006%203-St
 credits = ["Robert Gotcher - Director", "Michael Hill - Production Coordinator", "Ryan Hollingsworth - Production Specialist"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/June%202006%203-Stage-005.iso|3-Stage DVD ISO"]
+mediaDuration = "1:16:19"
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
@@ -65,7 +66,7 @@ categories = ["Chuck E. Cheese's"]
 - Happy and You Know It
 - Chuck E. Swing 
 
-**Birthday Break**: April 2005 show logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+**Birthday Break**: April 2005 show logo with music set to a 1 or 2 minute countdown, which would then lead into the Birthday show.
 
 ## Production
 

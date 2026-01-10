@@ -7,6 +7,7 @@ pageThumbnailFile = "Ow2_Rl6uPT7cXdfhFzOv.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Tux Chuck", "Ceclife13"]
 citations = ["https://youtu.be/-4s6eWFx5Ig", "https://archive.org/download/studio-c-floppy-discs-rips/July2001Upgrade.img"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Voice of Jasper T. Jowls, Director", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
+mediaDuration = "35:22"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/June%202001%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio-c-floppy-discs-rips/July2001Upgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/July%202001%20Studio%20C.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
@@ -24,7 +25,7 @@ This show featured all of the songs and intermissions from {{< wiki-link "Summer
     2.  'Fun, Fun, Fun!'
 2. **Intermission 1**
     1.  'Wildlife'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
     3.  Store Intro - 'Brick, NJ' (Cookie)
 3. **Segment 2**
     1.  'Celebrate America'
@@ -38,7 +39,7 @@ This show featured all of the songs and intermissions from {{< wiki-link "Summer
     2.  'Local Pizza Cabana'
 6. **Intermission 3**
     1.  'At The Zoo'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
     3.  Store Intro - 'Brick, NJ' (Abby)
 7. **Segment 4**
     1.  'Don't Hurry to Worry'
@@ -51,7 +52,7 @@ This show featured all of the songs and intermissions from {{< wiki-link "Summer
     2.  'Fun, Fun, Fun!'
 2. **Intermission 1**
     1.  'Time To Fly!'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
     3.  Store Intro - Brick, NJ' (Cookie)
 3. **Segment 2**
     1.  'Celebrate America'
@@ -73,12 +74,12 @@ This show featured all of the songs and intermissions from {{< wiki-link "Summer
 8. **Intermission 4**
     1.  'Underwater Adventure!'
     2.  'Let's Take Flight!'
-    3.  CEC TV ID - 'Rocketship'
+    3.  CEC TV ID - 'Rocket'
     4.  Store Intro - 'Brick, NJ' (Abby)
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Birthday Star 2001
 - Spanish Birthday

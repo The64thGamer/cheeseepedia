@@ -50,9 +50,9 @@ categories = ["Chuck E. Cheese's"]
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Lives:
+## Live Shows:
 
-**During this time Live Shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Go Santa Go
 - Chuck E. March 2001
@@ -64,6 +64,5 @@ categories = ["Chuck E. Cheese's"]
 - Spanish Birthday 2001
 - Chuck E Says 2002
 - New Birthday (Birthday 2002)
-- Chuck E. Shuffle (Existing Stages)
 
-**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 or 2-minute countdown, which would then lead to the Birthday show.

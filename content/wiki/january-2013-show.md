@@ -7,6 +7,7 @@ pageThumbnailFile = "0b9OPr3voJX8NDYLv9xZ.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "John95", "Ceclife13", "RedaCEC", "Anonymous", "Anonymous"]
 citations = []
 credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Jeremy Blaido - Voice of Jasper T. Jowls, Mike Manly, Singing Voice of Pasqually The Chef", "Matt Daniel - Production Coordinator, Singer ('Working For The Weekend'), Voice of Hard Hat Hank", "Michael Hill - Studio Coordinator, Nigel The Sasquatch"]
+mediaDuration = "1:33:15"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -45,14 +46,14 @@ categories = ["Chuck E. Cheese's"]
 10. **Intermission 5**
     1.  Pajanimals - 'Super Squacky'
     2.  Chillout 5 - 'Time Lapse'
-    3.  CEC TV ID - 'Pizza Fan'
+    3.  CEC TV ID - 'Pasta Fan'
 11. **Song 6**
     1.  Pizza Oven (Parody of [Evil Women](https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song)))
 12. **Intermission 6**
     1.  Pound Puppies - 'McLeash'
     2.  Hard Hat Hank - 'Door Frame'
     3.  Chillout 6 - 'Water Fly Over'
-    4.  CEC TV ID - 'Skee-Ball'
+    4.  CEC TV ID - 'Skeeball'
 13. **Song 7**
     1.  Come on, Let's Go
 14. **Intermission 7**

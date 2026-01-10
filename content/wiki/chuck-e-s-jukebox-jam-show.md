@@ -6,12 +6,13 @@ endDate = "1997-03-31"
 pageThumbnailFile = "oroLxdSvWeJ81OSIr0Aj.avif"
 contributors = ["Ceclife13", "BurgersNuggs445"]
 citations = ["https://youtu.be/oQGODcEvemk"]
-showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+mediaDuration = "1:59:01"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/January%201997%203-Stage-008.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Chuck E.'s Jukebox Jam Show**'' was a compilation show that released in January of 1997 at Chuck E. Cheese's. It would feature songs and intermissions reused from various 1992 - 1995 shows.
+**Chuck E.'s Jukebox Jam Show** was a compilation show released in January of 1997 at Chuck E. Cheese's. It would feature songs and intermissions reused from various 1992 - 1995 shows.
 
 ## Show List
 
@@ -104,5 +105,5 @@ categories = ["Chuck E. Cheese's"]
 
 - All of the segments include newly recorded intros and outros as well as the Jukebox Jam logo.
 - Munch, Jasper, and Pasqually are all voiced by Duncan Brannan for this show.
-- 'Freeze Frame' has different footage in this show which is reused from July 1994.
+- 'Freeze Frame' has different footage in this show, which is reused from July 1994.
 - 'I Won't Give Up' is completely different from when it was originally used in March 1995. In this show it is the complete song with a line of dialogue by Chuck which was also not in the original show. The beginning of the footage shows part of a live show countdown, suggesting this may be a live show version of the song.

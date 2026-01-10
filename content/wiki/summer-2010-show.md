@@ -7,6 +7,7 @@ pageThumbnailFile = "RWEu4smi_OaDa7B0zYPf.avif"
 contributors = ["CyberSnout", "Anonymous", "The 64th Gamer", "Anonymous", "John95", "Anonymous", "Ceclife13", "Anonymous", "Anonymous", "Dame0824"]
 citations = ["http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-07.pdf"]
 credits = ["Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator"]
+mediaDuration = "1:20:05"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/June%202010%203-Stage-003.iso|3-Stage DVD ISO w/ Signals"]
 tags = ["Showtapes"]
@@ -66,7 +67,7 @@ This show played from July - August 31, 2010.
     1.  CEC TV ID - 'Radio Towers'
     2.  Animal Atlas - 'Animals And Us'
     3.  Sound Splosion: Joe Jonas and Demi Lovato - 'Make A Wave'
-    4.  CEC TV ID - 'Astronaut Chuck E.'
+    4.  CEC TV ID - 'Astronauts'
     5.  Wow Wow Wubbzy! - 'Come Play With Me'
     6.  Fun Facts - 'First Coast to Coast Telephone'
     7.  The Zone - 'Amateur Skateboarder'
@@ -84,7 +85,7 @@ This show played from July - August 31, 2010.
     7.  The Zone - 'Amateur Kiteboarder'
     8.  Pajanimals - 'Stick To The Plan'
 
-## Lives:
+## Live Shows:
 
 - Birthday Program 2009
 - BINGO

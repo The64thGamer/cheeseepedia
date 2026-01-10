@@ -7,6 +7,7 @@ pageThumbnailFile = "uDsVmoVLrg1XCX13a2WP.avif"
 contributors = ["CyberSnout", "The 64th Gamer", "Ceclife13", "John95", "Cy's Junk at School"]
 citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/January%202000%20CEC-Stage-002.iso|CEC-Stage SVHS w/ Signals"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Karlisa Burleson - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls", "Robert Gotcher - Production Coordinator", "Brian Hagan - Studio Manager", "Brent Gray - Studio Coordinator"]
+mediaDuration = "1:31:00"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/January%202000%20Studio%20C-005.iso|Studio C DVD ISO (Disc 1 / 2)", "https://archive.org/download/variety-disc-3/Variety%20Disc%203.iso|Studio C DVD ISO (Disc 3)", "https://archive.org/download/cyberamics_post_93_svhs_signals/January%202000%20CEC-Stage-002.iso|Post '93 CEC-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
@@ -90,7 +91,7 @@ This show is primarily composed of material from 1997 to 1999, with a few interm
 
 ## Live Shows:
 
-**During this time, live shows would be on separate VHS tapes for Existing Stage stores.**
+**Live shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Celebration 2000
 - Birthday Star '98

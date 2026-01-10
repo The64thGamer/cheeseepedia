@@ -7,6 +7,7 @@ pageThumbnailFile = "brnaurys7ldzrwabd1bg.avif"
 contributors = ["The 64th Gamer", "Anonymous", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/January%202007%20Studio%20C-008.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist"]
+mediaDuration = "58:46"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/January%202007%203-Stage-003.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/January%202007%20Studio%20C-008.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
@@ -56,7 +57,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Token Card Promos
 
-Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. Each promo has a version for stores about to receive the cards and a version for stores that already have it. It is unknown when they would play in the show.
+Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. Each promo has a version for stores about to receive the cards and a version for stores that already have them. It is unknown when they would play in the show.
 
 - Tube Explorer - 'Token Cards' (Coming Soon)
 - Tube Explorer - 'Token Cards' (Here Right Now)

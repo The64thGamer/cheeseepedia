@@ -2,48 +2,49 @@
 draft = false
 title = "Just for Kids Show 2000"
 startDate = "2000-04-00"
-endDate = "2000-07-00"
+endDate = "2000-06-00"
 pageThumbnailFile = "aefaRZPxDztOsnfqtfGt.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "Anonymous", "Cheeseclassic", "Jaxonia"]
+contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "Anonymous", "Cheeseclassic", "Jaxonia", "Ceclife13"]
+mediaDuration = "1:18:18"
 citations = []
-showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Just for Kids Show (April 2000)** released April 2000 and ran until July 2000.
-Featured 4 segments singing various kids songs and parodies of kid songs.
+**Just for Kids Show (April 2000)** was released in April 2000 and ran until July 2000.
+Featured 4 segments singing various kids' songs and parodies of kids songs.
 
 ## Show Tape:
 
-1. **Segment 1**
+1.  **Segment 1**
     1.  'Where is Chuck E.' (Parody of ['Where is Thumbkin?'](https://barney.fandom.com/wiki/Where_is_Thumbkin%3F))
     2.  'The More We Get Together'
     3.  'If You're Happy And You Know It'
     4.  'Pen Pal' (Parody of ['My Bonnie Lies Over The Ocean'](https://en.wikipedia.org/wiki/My_Bonnie_Lies_over_the_Ocean))
-2. **Intermission 1**
+2.  **Intermission 1**
     1.  Veggietales - 'The Song of the Cebú
     2.  Store Intro - 'Lewisville TX, CEC'
-    3.  CEC TV ID - 'Rocketship'
-3. **Segment 2**
+    3.  CEC TV ID - 'Rocket'
+3.  **Segment 2**
     1.  'Home With The Range' (Parody of ['Home On The Range'](https://en.wikipedia.org/wiki/Home_on_the_Range))
     2.  'Do Your Ears Hang Low'
     3.  'Are You Eating Mr. Munch' (Parody of ' [Are You Sleeping Brother John](https://en.wikipedia.org/wiki/Fr%C3%A8re_Jacques)')
     4.  'On Top of a Pizza' (Parody of [On Top of Old Smokey](https://en.wikipedia.org/wiki/On_Top_of_Old_Smoky))
-4. **Intermission 2**
+4.  **Intermission 2**
     1.  Eddie Coker - 'The H Word'
     2.  Nascar Racers Promo
     3.  Store Intro - 'Lewisville TX, CEC'
     4.  CEC TV ID - 'Cows'
-5. **Segment 3**
+5.  **Segment 3**
     1.  'And The Green Grass Grows All Around'
     2.  'Our Friend Munch' (Parody of ['This Old Man'](https://en.wikipedia.org/wiki/This_Old_Man))
     3.  'Clementine'
     4.  'The Muffin Man'
-6. **Intermission 3**
+6.  **Intermission 3**
     1.  Veggietales - 'The Pirates Who Don't Do Anything'
     2.  Store Intro - 'Lewisville TX, CEC'
-    3.  CEC TV ID - 'Rocketship'
-7. **Segment 4**
+    3.  CEC TV ID - 'Rocket'
+7.  **Segment 4**
     1.  'Big Rock Candy Mountain'
     2.  'She'll Be Coming Around The Mountain'
     3.  'I've Been Working On The Railroad'
@@ -52,7 +53,7 @@ Featured 4 segments singing various kids songs and parodies of kid songs.
     6.  'Bah Bah Black Sheep'
     7.  'Alphabet Song'
     8.  'Twinkle Twinkle Little Star'
-8. **Intermission 4**
+8.  **Intermission 4**
     1.  Eddie Coker: 'The Woo Woo Dance'
     2.  Store Intro - 'Lewisville TX, CEC'
     3.  CEC TV ID - 'Cows'
@@ -60,20 +61,24 @@ Featured 4 segments singing various kids songs and parodies of kid songs.
 
 ## Lives
 
-**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
-- Birthday Star
 - Bingo
-- Patriotic Live (America)
+- Birthday Star '98
+- Chuck E. March
+- Havin' A Party at Chuck E.'s Place
+- Chuck E. Says
+- Chuck E. Shuffle
+- America '99
 - Chuck E. Swing
-- Give My Regards to Broadway
-- Rockin' Christmas Eve TOFINISH
+- Rockin' Christmas Eve
+- Give My Regards to Broadway (Existing Stages)
 
 **Birthday Break**: Just for Kids Show logo with music (reused from {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}}) set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
 
 ## Production
 
-- The Lakewood Theater in Dallas, TX is featured in 'Are you eating?'.
+- The Lakewood Theater in Dallas, TX, is featured in 'Are you eating?'.
 - There was a special shirt made with the show's logo for the production crew.
 
 ## Trivia:

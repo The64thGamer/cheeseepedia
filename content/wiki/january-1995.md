@@ -7,12 +7,13 @@ pageThumbnailFile = "oDJX8bzyCk3CJTUIeuz3.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "BurgersNuggs445", "Anonymous"]
 citations = ["https://youtu.be/1GC1Bt_onpE"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Stephanie Nadolny|Voice of Helen Henny", "Doug Teel|Voice of Mr. Munch", "Reggie Smith|Voice of Jasper", "Joel McCrary|Voice of Pasqually The Chef", "Ron Schneider|Writer, Voice of Mr. Mouth https://youtu.be/JGPhPDRzQvY?t", "Jeff Palmer|Producer, Director"]
-showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+mediaDuration = "58:16"
 alsoKnownAs = ["Jan 1995 Release 241.11 ver. CEC CS-0036Playdates: Jan 2 - April 10.Validation Code: 01091"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***January 1995* was a show that released in January of 1995 at Chuck E. Cheese's locations.**
+***January 1995*** was a show that released in January of 1995 at Chuck E. Cheese's locations.
 
 ## Show List
 

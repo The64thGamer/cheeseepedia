@@ -58,7 +58,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Birthday Star 2001
 - Spanish Birthday 2001
@@ -69,7 +69,6 @@ categories = ["Chuck E. Cheese's"]
 - Chuck E. Says 2002
 - Havin' A Party 2001
 - Happy and You Know It
-- Chuck E. Shuffle (Existing Stages)
 - Go Santa Go (Existing Stages)
 
 **Birthday Break**: April 2004 show logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.

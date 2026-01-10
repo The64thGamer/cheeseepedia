@@ -7,6 +7,7 @@ pageThumbnailFile = "YQhq5K1pLAeN8HqVZs4G.avif"
 contributors = ["CyberSnout", "The 64th Gamer", "Anastasia.laguardia", "Anonymous", "Ceclife13"]
 citations = ["https://youtu.be/YvjpHQMbRMI"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Annagrey Wiechman - Singing Voice of Helen Henny", "Karlisa Burleson - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef, Bird", "Eddie Coker - Opera Singer, Opera Audience, Wilson Hackett", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Betty, Mike Manley, Opera Announcer", "Robert Gotcher - Production Coordinator, Pirate", "Brian Hagan - Studio Manager, Pirate", "Brent Gray - Studio Coordinator, Pirate", "Brett Roberts - Puppeteer"]
+mediaDuration = "1:01:06"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/September%201999%203-Stage-012.iso|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/August%201999%20Studio%20C.iso|Studio C DVD ISO"]
 transcriptions = ["Rhythm Is Gonna Get You (August 1999)"]
@@ -86,7 +87,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows
 
-**During this time, live shows would be on separate VHS tapes for existing stage stores.**
+**Live shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Birthday Star '98
 - Footloose

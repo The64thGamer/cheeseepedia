@@ -9,52 +9,52 @@ contributors = ["The 64th Gamer","CyberSnout"]
 citations = []
 pageThumbnailFile = "iolFogMS1MY5iGWu6ECc.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
+mediaDuration = "59:25"
 +++
-***Summer 2012* is the summer show released July 1, 2012, featuring eight songs.
-This was created to play from from July 1 - August 31, 2012.**
+***Summer 2012*** is the summer show released in 2012, featuring various songs from all three summer shows released in the 2000s.
 
 ## Show List:
 
-1. **Segment 1**
+1.  **Segment 1**
     1.  'Summertime Groove'
     2.  'Fun, Fun, Fun!'
-2. **Intermission 1**
+2.  **Intermission 1**
     1.  CEC TV ID - 'Singing Fish'
     2.  Summer Safety With Steve Waters - 'Wear Sunscreen'
     3.  My Little Pony
-    4.  Animals
-3. **Segment 2**
+    4.  Wildlife
+3.  **Segment 2**
     1.  'In My Pool' (Parody of [In My Room](https://en.wikipedia.org/wiki/In_My_Room))
     2.  'Summertime'
-4. **Intermission 2**
-    1.  CEC TV ID - 'Swimming Pool'
+4.  **Intermission 2**
+    1.  CEC TV ID - 'Pool Plug'
     2.  Pizza Survivor
     3.  Veggie Tales - 'Silly Song with Best Friends Forever'
     4.  Firehouse
-5. **Segment 3**
+5.  **Segment 3**
     1.  'Goin' on a Picnic"
     2.  'Barbecue"
-6. **Intermission 3**
-    1.  CEC TV ID - 'Barber'
+6.  **Intermission 3**
+    1.  CEC TV ID - 'Haircut'
     2.  Summer Safety With Steve Waters - 'Leave Bricks on the Beach'
     3.  Baking with Betty - 'Trail Mix'
     4.  Baseball
-7. **Segment 4**
+7.  **Segment 4**
     1.  'Good Old Summertime'
     2.  'SPF'
-8. **Intermission 4**
+8.  **Intermission 4**
     1.  CEC TV ID - 'Blender'
     2.  The Ballgame
     3.  Pound Puppies
     4.  Dog Party
 
-## Lives:
+## Live Shows:
 
-- Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Cupid Shuffle (3stage, Cyberamic, Studio C)
-- Chuck E.'s March Live (3stage, Cyberamic, Studio C)
-- Happy & U Know It Live (3stage, Cyberamic, Studio C)
+- Birthday
+- Spanish Birthday
+- Cupid Shuffle
+- Chuck E.'s March Live
+- Happy & U Know It Live
 
 ## Trivia:
 

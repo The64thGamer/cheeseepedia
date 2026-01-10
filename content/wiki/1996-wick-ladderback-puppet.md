@@ -1,5 +1,5 @@
 +++
-title = "1996 Wick Letterback Puppet"
+title = "1996 Wick Ladderback Puppet"
 draft = false
 tags = ["Puppets"]
 categories = [""]

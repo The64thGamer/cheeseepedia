@@ -7,7 +7,7 @@ pageThumbnailFile = "x3Jq_DI5eSGn1ZKCfxbW.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Anonymous", "John95"]
 citations = ["https://youtu.be/Xfk9e0scyY4"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls, Mike Manly, Wick Ladderback", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist, Richard Hunderton", "Sammy Davenport - Music Director", "Matt Daniel - Scriptwriter"]
-mediaDuration = ""
+mediaDuration = "1:18:22"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2006.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202006%20Studio%20c-003.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/April%202006%203-stage-003.iso|3-Stage DVD ISO"]
 tags = ["Showtapes"]
@@ -31,7 +31,7 @@ categories = ["Chuck E. Cheese's"]
     2.  ['Baby I Need Your Loving'](https://en.wikipedia.org/wiki/Baby_I_Need_Your_Loving)
 4. **Intermission 2**
     1.  VJ Spot - 'Eddie Coker'
-    2.  CEC TV ID - 'Astronaut'
+    2.  CEC TV ID - 'Astronauts'
     3.  CEC TV Artist Spotlight: Eddie Coker - 'Play With Me' / 'Welcome To The Island'
     4.  Skateboarding
     5.  CEC TV ID - 'Blender'
@@ -74,7 +74,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Production
 
-CEC TV ID - 'Flashing Hand', CEC TV ID - 'Bubble Kids' and CEC TV ID - 'Digestion' were animated by Mike Michalski while working at Radical Axis {{< cite 1 >}}
+CEC TV ID - 'Flashing Hand', CEC TV ID - 'Bubble Kids', and CEC TV ID - 'Digestion' were animated by Mike Michalski while working at Radical Axis {{< cite 1 >}}
 
 ### File Dates
 
@@ -92,5 +92,5 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 ## Trivia:
 
 - The countdowns are reused from {{< wiki-link "September 2002 Show" >}}, 'Skateboarding' is reused from {{< wiki-link "January 2005 Show" >}}, 'Drawing Chuck E.' is reused from {{< wiki-link "August 1999" >}}, VeggieTales - 'His Cheeseburger' is reused from {{< wiki-link "September 2001 Show" >}} and 'Will Frye The Nutrition Guy' is reused from {{< wiki-link "Studio C Premiere" >}}.
-- Munch was originally going to sing 'Baby I Need Your Loving' which is still alluded to in the dialogue both leading into and coming out of the song.
+- Munch was originally going to sing 'Baby I Need Your Loving', which is still alluded to in the dialogue both leading into and coming out of the song.
 - ‘Old MacDonald’ and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.

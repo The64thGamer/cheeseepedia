@@ -8,6 +8,7 @@ contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "EagleScout61
 citations = ["https://www.youtube.com/watch?v=VTmxzgjgpmE", "https://www.youtube.com/watch?v=dSz9_hQ3ZJ4"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Annagrey Weichman - Singing Voice of Helen Henny", "Karlisa Burleson - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef, Bird", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Mike Manley, Singing Cowboy", "Robert Gotcher - Production Coordinator", "Brian Hagan - Studio Manager", "Brent Gray - Studio Coordinator", "Brett Roberts - Puppeteer"]
 showtapeFormats = ["Studio C 4x Laserdisc + Files", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+mediaDuration = "59:17"
 downloadLinks = ["https://archive.org/details/april-1999-digital-audio-masters|Official Digital Audio Masters", "https://archive.org/download/3stage_post_93_svhs_signals/April%201999%203-stage-011.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -56,7 +57,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows
 
-**During this time, Lives would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Chuck E. Swing
 - America

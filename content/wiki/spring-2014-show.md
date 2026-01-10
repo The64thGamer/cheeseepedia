@@ -8,6 +8,7 @@ endDate = "2014-06-30"
 contributors = ["The 64th Gamer", "CyberSnout", "Himitsu", "Ceclife13"]
 citations = []
 credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Jeremy Blaido - Voice of Jasper T. Jowls, Singing Voice of Pasqually The Chef", "Matt Daniel - Production Manager, Voice of Hard Hat Hank", "Michael Hill - Studio Coordinator, Studio C Programmer", "Donovan Marcelle - Existing Stage Programmer"]
+mediaDuration = "1:19:55"
 pageThumbnailFile = "v0wlTBzkJ6Djd6q5Bccf.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 +++

@@ -5,58 +5,58 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2014-09-01"
 endDate = "2014-11-17"
-contributors = ["The 64th Gamer","CyberSnout","Himitsu","MultiMonorail","Cheeseclassic"]
+contributors = ["The 64th Gamer","CyberSnout","Himitsu","MultiMonorail","Cheeseclassic","Ceclife13"]
+mediaDuration = "56:28"
 citations = []
 pageThumbnailFile = "G1SRzYjw08bGH3DH1J7h.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***September 2014* is the Fall show released September 1st 2014 featuring six songs
-This was created to play from September 1st - November 16th 2014. This show features Six songs and a new live show Them Bones programmed for non Weigl stores.**
+***Fall 2014*** is a showtape released in fall 2014 featuring six songs. This was the last show to feature song covers.
 
 ## Show List:
 
-1. **Skit 1**
+1.  **Skit 1**
     1.  CEC Music Video - ['Safe & Sound'](https://en.m.wikipedia.org/wiki/Safe_and_Sound_(Capital_Cities_song)) (Chuck E.)
-2. **Intermission 1**
-    1.  CEC Sketch - 'Justin the Pranker Part 1'
+2.  **Intermission 1**
+    1.  CEC Sketch - 'Justin the Prankster Part 1'
     2.  Guest Spot - Veggie Tales - 'The Perfect Puppy'
     3.  CEC Promo - 'Playtime Spot'
-3. **Skit 2**
+3.  **Skit 2**
     1.  CEC Music Video - ['You Gonna Fly'](https://en.m.wikipedia.org/wiki/You_Gonna_Fly) (Jasper)
-4. **Intermission 2**
+4.  **Intermission 2**
     1.  Guest Spot - Caspar Babypants - 'Stump Hotel'
     2.  Show Break - 'Flyover'
-    3.  CEC Sketch - 'Justin the Pranker Part 2'
-5. **Skit 3**
+    3.  CEC Sketch - 'Justin the Prankster Part 2'
+5.  **Skit 3**
     1.  CEC Music Video - ['I Knew You Were Trouble'](https://en.m.wikipedia.org/wiki/I_Knew_You_Were_Trouble) (Helen)
-6. **Intermission 3**
+6.  **Intermission 3**
     1.  Guest Spot - Veggie Tales - 'Together'
-7. **Skit 4**
+7.  **Skit 4**
     1.  CEC Music Video - ['Maniac'](https://en.m.wikipedia.org/wiki/Maniac_(Michael_Sembello_song)) (Chuck E.)
-8. **Intermission 4**
+8.  **Intermission 4**
     1.  Guest Spot - Caspar Babypants - 'Stompy The Bear'
     2.  CEC Promo - 'Playtime Spot'
     3.  Show Break 2 - 'Vintage NASA'
-9. **Skit 5**
+9.  **Skit 5**
     1.  CEC Music Video - ['Best Song Ever'](https://en.m.wikipedia.org/wiki/Best_Song_Ever)
 10. **Intermission 5**
-    1.  CEC Sketch - 'Justin the Pranker Part 3'
+    1.  CEC Sketch - 'Justin the Prankster Part 3'
 11. **Skit 6**
     1.  CEC Music Video - 'Because We're Friends'
 12. **Intermission 6**
-    1.  CEC Sketch - 'Coconuts'
+    1.  CEC Sketch - 'Coconut'
     2.  Show Break 3 - 'NYC Night Drive'
 
 ## Live Shows:
 
-- Rockstar Birthday 2014 (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Rockstar Birthday 2014 (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
-- Head Shoulders Knees and Toes (3stage, Cyberamic, Studio C,Weigl)
-- Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
-- Happy and You Know It (3stage, Cyberamic, Studio C,Weigl)
-- Old Macdonald (3stage, Cyberamic, Studio C,Weigl)
-- Them Bones (3stage, Cyberamic, Studio C,Weigl)
+- Rockstar Birthday 2014
+- Spanish Rockstar Birthday 2014
+- Chuck E. Says
+- Head Shoulders Knees and Toes
+- Do The Chuck E.
+- Happy and You Know It
+- Old MacDonald
+- Them Bones
 
 ## Official Releases:
 
@@ -64,7 +64,6 @@ This was created to play from September 1st - November 16th 2014. This show feat
 
 ## Trivia
 
-- This was the final CEC Showtape to use Covers.
 - Them Bones was programmed for Existing Stages, and Studio C SD stores.
 - The footage for 'Safe and Sound' is reused from {{< wiki-link "April 2013 Show" >}} originally being used during the song 'Take a Walk'. Though there were originally plans to make unique footage for it featuring the Chuck puppet.
 - The DVD Menu for Existing Stages uses the instrumental for Because We're Friends

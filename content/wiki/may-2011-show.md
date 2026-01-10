@@ -7,6 +7,7 @@ pageThumbnailFile = "1fCBkSlMpiy_YLP5B1q9.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "Mousester", "Chuck E. Cheese's Illinois", "John95", "Anonymous", "Anonymous", "Anonymous", "Ceclife13"]
 citations = ["https://archive.org/download/studio-c-floppy-discs-rips/MAY11.EXE"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Voice of Jasper T. Jowls, Show Announcer, Songwriter ('The Place To Be')", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator, 'Jiggawatt'", "Sammy Davenport - Music Director", "Dave Wilson - Songwriter ('Don't You Wanna Share', 'The Weekend', 'Never A Long Goodbye')"]
+mediaDuration = "1:30:29"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/MAY11.EXE|Partial Studio C Floppy Disk Rip", "https://archive.org/download/studio_c_showtape_dvds/May%202011%20Studio%20C.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/May%202011%203-Stage-002.iso|3-Stage DVD ISO w/ Signals"]
 tags = ["Showtapes"]
@@ -16,12 +17,12 @@ The **May 2011 Show** was the spring & summer show for the year of 2011, and the
 
 ## Show List:
 
-1. **Intermission 1**
+1.  **Intermission 1**
     1.  CEC TV ID - 'Fireworks'
-2. **Segment 1**
+2.  **Segment 1**
     1.  ['Word Up'](https://en.wikipedia.org/wiki/Word_Up!_(song))
     2.  ['I Ran (So Far Away)'](https://en.wikipedia.org/wiki/I_Ran_(So_Far_Away))
-3. **Intermission 2**
+3.  **Intermission 2**
     1.  Backstage Pass - 'New Hollow'
     2.  Fun Facts - 'Snails'
     3.  CEC TV ID - 'Bubble Kids'
@@ -37,41 +38,41 @@ The **May 2011 Show** was the spring & summer show for the year of 2011, and the
     13. Quaker Chewy Spot
     14. Wow Wow Wubbzy! - 'Fly Us To The Moon'
     15. CEC TV ID - 'Color The Numbers'
-4. **Segment 2**
+4.  **Segment 2**
     1.  ['We Got the Beat'](https://en.wikipedia.org/wiki/We_Got_the_Beat)
     2.  'Don't You Wanna Share'
-5. **Intermission 3**
+5.  **Intermission 3**
     1.  Shout! Factory Presents: 'Dennis the Menace'
     2.  Fun Facts - 'Venus' 
     3.  The Zone - 'Le Petit Cirque'
     4.  The Baby Grands - 'Robot'
     5.  The Cat In The Hat Knows A Lot About That - 'Tales About Tails'
-    6.  Dole CEC Promo
+    6.  Dole Spot
     7.  The Zula Patrol - 'Day for Night'
     8.  Trivia - 'Jellyfish'
     9.  CEC TV ID - 'Pool Plug'
-6. **Segment 3**
+6.  **Segment 3**
     1.  ['Walk the Dinosaur'](https://en.wikipedia.org/wiki/Walk_the_Dinosaur)
     2.  'The Place to Be'
-7. **Intermission 4**
+7.  **Intermission 4**
     1.  Pearlie - 'Bongo Boy'
     2.  Yo Gabba Gabba! - 'Balloons'
-    3.  CEC TV ID - 'Rocketship'
+    3.  CEC TV ID - 'Rocket'
     4.  Chuck E. Live! Spot
     5.  Sound Splosion: Ralph's World - 'Wiggle Your Lah-De-Dah'
     6.  Fun Facts - 'Ants Don't Sleep'
     7.  Wow Wow Wubbzy! - 'Fly Us To The Moon'
     8.  Backstage Pass - 'Greyson Chance'
     9.  VeggieTales - 'The Ballad of Little Joe'
-8. **Segment 4**
+8.  **Segment 4**
     1.  'The Weekend'
     2.  'Never a Long Goodbye'
-9. **Intermission 5**
-    1.  Dole Promo
+9.  **Intermission 5**
+    1.  Dole Spot
     2.  The Zone - 'Grant Johnson'
     3.  Shelldon - 'Pass It Along'
 
-## Lives:
+## Live Shows:
 
 - Bday Program
 - Spanish Bday

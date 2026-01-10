@@ -7,12 +7,13 @@ pageThumbnailFile = "xtTy7iCQBlJJCf40JMlv.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/July%202003%20Studio%20C.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Mike Manly", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator", "Sammy Davenport - Music Director"]
+mediaDuration = "1:01:36"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/SummertimeShowUpgradeUSAVersion.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/SummertimeV12.img|Studio C Floppy Disk (Ver. 1.2)", "https://archive.org/download/studio_c_showtape_dvds/July%202003%20Studio%20C.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Summertime 2003** was a showtape released in July 2003 which ran through August 2003.
+**Summertime 2003** was a showtape released in July 2003, which ran through August 2003.
 
 ## Studio C Show List:
 
@@ -122,7 +123,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - YMCA
 - Birthday Star 2001
@@ -134,7 +135,6 @@ categories = ["Chuck E. Cheese's"]
 - Chuck E Says 2002
 - Havin' A Party 2001
 - Happy and You Know It
-- Chuck E. Shuffle (Existing Stages)
 - Go Santa Go (Existing Stages)
 
 **Birthday Break**: CEC TV text with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.

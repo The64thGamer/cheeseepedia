@@ -7,6 +7,7 @@ pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["Ceclife13", "CyberSnout"]
 citations = ["https://archive.org/download/3stage_dvd_signals/December%202007%203-stage.iso"]
 credits = ["Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist"]
+mediaDuration = "59:28"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/December%202007%203-stage.iso|3-Stage DVD ISO w/ Signals"]
 tags = ["Showtapes"]
@@ -16,40 +17,40 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1. **Intermission 1**
+1.  **Intermission 1**
     1.  Ken Chuck E. Derby
     2.  Super Jasper - 'Canine Snowball'
     3.  Veggietales - 'Oh Santa!'
     4.  Holiday VJ Spot - Michael
-2. **Segment 1**
+2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
-3. **Intermission 2**
+    2.  'Up On The Housetop'
+3.  **Intermission 2**
     1.  Coke Spot
     2.  Larry The Technician - 'Decorating The Tree'
     3.  Maya & Miguel
     4.  Holiday VJ Spot - Laura
-4. **Segment 2**
+4.  **Segment 2**
     1.  'Jolly Old St. Nicholas'
     2.  'Oh Christmas Tree'
-5. **Intermission 3**
+5.  **Intermission 3**
     1.  Eddie Coker - 'Happy Holidays'
     2.  Clifford The Big Red Dog
     3.  Chuck E.'s Ski Trip
     4.  Holiday VJ Spot - Evan
-6. **Segment 3**
+6.  **Segment 3**
     1.  'Jingle Bells'
     2.  'I Heard The Bells'
-7. **Intermission 4**
+7.  **Intermission 4**
     1.  Ken Chuck E. Derby
     2.  Coke Spot
     3.  Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
     4.  Holiday VJ Spot - Laura
-8. **Segment 4**
+8.  **Segment 4**
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Lives:
+## Live Shows:
 
 - Chicken Dance
 - Birthday Star 2001

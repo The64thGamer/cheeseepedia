@@ -7,17 +7,18 @@ pageThumbnailFile = "IcvRObASccnL7qxSIw4I.avif"
 contributors = ["The 64th Gamer", "BurgersNuggs445", "RedaCEC", "Anonymous", "Ceclife13"]
 citations = ["https://showbizpizza.com/info/documents/cec/cec_focus-2007-01.pdf"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls, Show Announcer (Segment 1)", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer (Segment 4)", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist", "Sammy Davenport - Music Director", "Deva George - Animator", "Matt Daniel - Scriptwriter"]
+mediaDuration = "1:07:13"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/April%202007%203-stage-006.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/April%202007%20Studio%20C.iso|Studio C DVD ISO"]
-alsoKnownAs = ["Studio CValid April 1st - June 30th, 2007"]
+alsoKnownAs = ["Studio C Valid April 1st - June 30th, 2007"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-The **April 2007 Show** is a showtape released on April 1, 2007 that was valid up to June 30, 2007.
+The **April 2007 Show** is a showtape released on April 1, 2007, that was valid up to June 30, 2007.
 
 ## Summary
 
-This show has a small story in which Pasqually gains a concussion and believes that he's one of the other band members throughout the show, the rest of the band members try to have Pasqually to remember who he is while he's in delusion.
+This show has a small story in which Pasqually does 'crazy dancing' throughout the show. In Segment 3, he hits his head on the stage and gains a concussion, causing him to believe that he's one of the other band members; the rest of the band members try to help Pasqually remember who he is. In Segment 4, he gets his memory back, but then injures himself again.
 
 ## Show List
 
@@ -54,18 +55,18 @@ This show has a small story in which Pasqually gains a concussion and believes t
     2.  PBS Kids Spot
     3.  Maya & Maguel
     4.  Minute Maid Spot
-    5.  CEC TV ID - 'Chuck E. Sunrise'
+    5.  CEC TV ID - 'Sunrise'
 
 ## Token Card Promos
 
-Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. Each promo has a version for stores about to receive the cards and a version for stores that already have it. It is unknown when they would play in the show.
+Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. Each promo has a version for stores about to receive the cards and a version for stores that already have them. It is unknown when they would play in the show.
 
 - Tube Explorer - 'Token Cards' (Coming Soon)
 - Tube Explorer - 'Token Cards' (Here Right Now)
 - Tube Explorer - 'Chuck E-Tickets' (Coming Soon)
 - Tube Explorer - 'Chuck E-Tickets' (Here Right Now)
 
-## Lives:
+## Live Shows:
 
 - Old MacDonald
 - Jumpin'
@@ -90,7 +91,7 @@ Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. 
 
 ### Store Submitted Videos
 
-- In the January 19th, 2007 issue of Chuck E. Focus, an ad invited stores to submit videos for inclusion during the song 'You'll Never Find Another Love Like Mine'. Cast members were to record videos of themselves lip-syncing to the song whilst doing their job. The deadline for submissions was February 12th, 2007. The final video seems to only include reused location footage from previous shows along with newly filmed footage of Munch.
+- In the January 19th, 2007 issue of Chuck E. Focus, an ad invited stores to submit videos for inclusion during the song 'You'll Never Find Another Love Like Mine'. Cast members were to record videos of themselves lip-syncing to the song while doing their job. The deadline for submissions was February 12th, 2007. The final video seems to only include reused location footage from previous shows, along with newly filmed footage of Munch.
 
 ### Filming Locations
 
@@ -100,7 +101,7 @@ Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. 
 
 ## Trivia:
 
-- This is the first show to feature Birthday Extravaganza 2007, though it is only on Studio C and it is unknown if it was playable. The version in this show lacks a countdown and has several other editing differences.
+- This is the first show to feature Birthday Extravaganza 2007, though it is only on Studio C, and it is unknown if it was playable. The version in this show lacks a countdown and has several other editing differences.
 - Rob Gotcher and Michael Hill are seen working at the Movie Theatre in 'Listen To The Music'
 - The Studio C puppets remain on-screen during 'Is It Love'.
 - VeggieTales - 'I Love My Lips' is reused from {{< wiki-link "April 1999" >}}, VeggieTales - 'Belly Button' is reused from {{< wiki-link "September 2003 Show" >}}, Skateboarding is reused from {{< wiki-link "January 2005 Show" >}}, and the Minute Maid Spot is reused from {{< wiki-link "CEC TV April 2005 Show" >}}.
