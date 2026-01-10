@@ -29,7 +29,9 @@ On July 22nd, the entire wiki would have its article formats converted from HTML
 
 On September 6th, the entirety of all articles tagged 'Location' would have their text wiped. This was due to a vast majority of the articles being old, outdated, uncited, and not within standards. Parameters for locations would be mass updated for better accuracy, and the articles would begin to be remade one by one.
 
-On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate directly into the site, and be another attempt to get off of Discord. The Discord would have its channels reduced to more bare essentials, while news and wiki discussion were moved entirely to the new forums.
+On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate directly into the site, and be another attempt to get off of Discord. The Discord would have its channels reduced to more bare essentials, while news and wiki discussion were moved entirely to the new forums. Later on the Discord would have all invites closed.
+
+In late December 2025 to January 2026, the site would recieve many CSS changes, homepage graphs, and a new search engine.
 
 ### Changes Timeline
 
@@ -143,6 +145,8 @@ On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate di
 #### 2026
 
 - **January 2nd-** New card version of article previews created and used for various parts of the site. Random articles optimized and increased to 10 per page. Entire site CSS reevaluated and tweaked. Fixed many showtape segment lists not having correct indentation. Added graphs and statistics on homepage.
+- **January 8th-** New robust searching feature is implemented to get away from the rigid tags and categories navigation, now with its own auto-tagging system based on article contents, linked articles, and page parameters.
+- **January 10th-** All Animatronic News articles are deleted and moved to the forums.
 
 ### Planned Upcoming Changes
 

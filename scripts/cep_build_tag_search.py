@@ -119,9 +119,39 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
     """
     Extract tags/categories/pages from frontmatter.
     Returns a list (may have duplicates — caller dedupes).
+
+    NEW: For the parameter fields that can contain 'pipe' metadata
+    (remodels, stages, animatronics, franchisees, attractions), only
+    the left-most part before the first '|' is used as the tag.
     """
     tags = []
-    # tags
+
+    # Helper: push a raw value (string) into tags after normalization
+    def _push_raw_val(val):
+        if val is None:
+            return
+        s = str(val).strip()
+        if s == "":
+            return
+        n = normalize_tag_preserve_case(s, canonical_map)
+        if n:
+            tags.append(n)
+
+    # Helper: handle list-or-string values defensively
+    def _iter_values(raw):
+        if raw is None:
+            return []
+        if isinstance(raw, (list, tuple)):
+            return list(raw)
+        # if it's a string, treat it as either a single tag or comma-separated list
+        if isinstance(raw, str):
+            # treat semicolons/commas as separators for defensive parsing
+            parts = re.split(r"[;,]", raw)
+            return [p for p in (p.strip() for p in parts) if p]
+        # fallback: coerce
+        return [str(raw)]
+
+    # --- tags ---
     for key in ("tags", "Tags"):
         if key in fm and fm[key]:
             raw = fm[key]
@@ -138,7 +168,8 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                         n = normalize_tag_preserve_case(p, canonical_map)
                         if n:
                             tags.append(n)
-    # categories
+
+    # --- categories ---
     for key in ("categories", "Categories"):
         if key in fm and fm[key]:
             raw = fm[key]
@@ -155,7 +186,8 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                         n = normalize_tag_preserve_case(p, canonical_map)
                         if n:
                             tags.append(n)
-    # pages param (new requirement) — treat like tags
+
+    # --- pages param (treat like tags) ---
     for key in ("pages", "Pages"):
         if key in fm and fm[key]:
             raw = fm[key]
@@ -173,6 +205,27 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                         n = normalize_tag_preserve_case(p, canonical_map)
                         if n:
                             tags.append(n)
+
+    # --- NEW: handle pipe-delimited parameter fields (take first part before '|') ---
+    special_params = [
+        ("remodels", "Remodels"),
+        ("stages", "Stages"),
+        ("animatronics", "Animatronics"),
+        ("franchisees", "Franchisees"),
+        ("attractions", "Attractions"),
+    ]
+    for lower_key, alt_key in special_params:
+        for key in (lower_key, alt_key):
+            if key in fm and fm[key]:
+                raw = fm[key]
+                for val in _iter_values(raw):
+                    if not val:
+                        continue
+                    # take left-most piece before first pipe
+                    first_piece = str(val).split("|", 1)[0].strip()
+                    if first_piece:
+                        _push_raw_val(first_piece)
+
     return tags
 
 def extract_wikilinks_from_body(body: str, canonical_map: dict):

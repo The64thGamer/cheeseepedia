@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/vvwMfpdcTng"
-startDate = "2006-01-00"
+startDate = "2020-11-07"
 pages = ["January 2006 Show"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]
