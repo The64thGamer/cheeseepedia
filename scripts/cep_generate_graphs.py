@@ -423,14 +423,9 @@ def build_avg_sqft_by_opening_year(locations):
     return {"years": years, "Average Sqft.": avg}
 
 # ---------- NEW: mediaDuration parsing & showtapes loading ----------
-def parse_media_duration_to_hours(s: str):
+def parse_media_duration_to_minutes(s: str):
     """
-    Parse a duration like "1:52:23", "42:52", "4:20", ":52", "52" into decimal hours.
-    Rules:
-      - "H:MM:SS" -> hours, minutes, seconds
-      - "MM:SS" or "M:SS" -> minutes, seconds
-      - ":SS" or "SS" -> seconds
-    Returns float hours or None if unparsable.
+    Parse a duration like "1:52:23", "42:52", "4:20", ":52", "52" into total minutes (float).
     """
     if s is None:
         return None
@@ -440,51 +435,30 @@ def parse_media_duration_to_hours(s: str):
     if s == "":
         return None
 
-    # Keep only digits and colons and possible whitespace; allow trailing labels like "1:23 (approx)" by cutting at first non-digit/colon/space
     m = re.match(r"^([\d:\s]+)", s)
     core = m.group(1).strip() if m else s
 
     parts = [p.strip() for p in core.split(":")]
-    # drop purely empty parts (e.g., leading ":52" -> ['', '52'] -> ['52'])
     parts = [p for p in parts if p != ""]
+
     nums = []
     for p in parts:
         mm = re.search(r"(\d+)", p)
         if mm:
-            try:
-                nums.append(int(mm.group(1)))
-            except Exception:
-                pass
+            nums.append(int(mm.group(1)))
 
-    h = 0
-    m = 0
-    sec = 0
+    h = m = sec = 0
     if len(nums) >= 3:
         h, m, sec = nums[-3], nums[-2], nums[-1]
     elif len(nums) == 2:
-        m, sec = nums[0], nums[1]
+        m, sec = nums
     elif len(nums) == 1:
-        # Ambiguous single number: treat as seconds (per user's allowed forms like ":SS" or "SS")
         sec = nums[0]
     else:
         return None
 
-    # normalize values (guard against weird values)
-    try:
-        h = int(h) if h is not None else 0
-    except Exception:
-        h = 0
-    try:
-        m = int(m) if m is not None else 0
-    except Exception:
-        m = 0
-    try:
-        sec = int(sec) if sec is not None else 0
-    except Exception:
-        sec = 0
-
-    total_hours = h + (m / 60.0) + (sec / 3600.0)
-    return total_hours
+    total_minutes = (h * 60) + m + (sec / 60.0)
+    return total_minutes
 
 def load_showtapes_pages(base_dir=BASE_CONTENT_DIR):
     """
@@ -506,8 +480,12 @@ def load_showtapes_pages(base_dir=BASE_CONTENT_DIR):
             continue
         if not fm:
             continue
-        if not has_exact_tag(fm, "Showtapes"):
+        is_showtape = has_exact_tag(fm, "Showtapes")
+        is_live = has_exact_tag(fm, "Live Shows")
+
+        if not (is_showtape or is_live):
             continue
+
         relpath = os.path.relpath(f).replace(os.sep, "/")
         if relpath in seen:
             continue
@@ -520,50 +498,86 @@ def load_showtapes_pages(base_dir=BASE_CONTENT_DIR):
             continue
         categories = normalize_categories(fm.get("categories") or fm.get("Categories") or fm.get("category") or fm.get("Category"))
         media_raw = fm.get("mediaDuration") or fm.get("media_duration") or fm.get("duration") or fm.get("MediaDuration")
-        media_hours = parse_media_duration_to_hours(media_raw)
+        media_minutes = parse_media_duration_to_minutes(media_raw)
         page = {
             "title": title,
             "page_path": relpath,
             "start_raw": start_raw,
             "start_comp": (sy, sm, sd),
             "categories": categories,
+            "tags": fm.get("tags") or fm.get("Tags") or [],
             "mediaDuration_raw": media_raw,
-            "mediaDuration_hours": media_hours
+            "mediaDuration_minutes": media_minutes
         }
         pages.append(page)
     return pages
 
-# ---------- NEW: build average media duration by start year ----------
-def build_avg_media_duration_by_start_year(pages, category_filter_set):
-    """
-    pages: list of page dicts from load_showtapes_pages()
-    category_filter_set: set of category names to include (match exact after stripping)
-    Returns: {"years": [...], "Average Media Duration Hours": [...]}
-    """
+def build_avg_media_duration_live_shows(pages, category_filter_set):
     buckets = defaultdict(list)
+
     for p in pages:
-        # check category intersection
-        cats = [c.strip() for c in (p.get("categories") or []) if c and isinstance(c, str)]
-        # If categories list is empty, don't include
-        if not cats:
+        tags = p.get("tags") or []
+        if "Live Shows" not in tags:
             continue
-        # exact match any of the categories in filter
-        matched = any((c in category_filter_set) for c in cats)
-        if not matched:
+
+        cats = p.get("categories") or []
+        if not any(c in category_filter_set for c in cats):
             continue
+
         sy = year_of(p.get("start_comp"))
         if sy is None:
             continue
-        mh = p.get("mediaDuration_hours")
-        if mh is None:
+
+        minutes = p.get("mediaDuration_minutes")
+        if not minutes or minutes <= 0:
             continue
-        # ignore zero-length durations
-        if mh == 0:
-            continue
-        buckets[sy].append(mh)
+
+        buckets[sy].append(minutes)
+
     years = sorted(buckets.keys())
-    avg = [sum(buckets[y]) / len(buckets[y]) for y in years]
-    return {"years": years, "Average Media Duration Hours": avg}
+    avg = [round(sum(buckets[y]) / len(buckets[y]), 2) for y in years]
+
+    return {
+        "years": years,
+        "Average Media Duration (Minutes)": avg
+    }
+
+
+# ---------- NEW: build average media duration by start year ----------
+def build_avg_media_duration_by_start_year(pages, category_filter_set, require_live_shows=False):
+    """
+    Returns average media duration in MINUTES.
+    """
+    buckets = defaultdict(list)
+
+    for p in pages:
+        cats = [c.strip() for c in (p.get("categories") or []) if isinstance(c, str)]
+        if not cats:
+            continue
+
+        if not any(c in category_filter_set for c in cats):
+            continue
+
+        if require_live_shows and "Live Shows" not in (p.get("tags") or []):
+            continue
+
+        sy = year_of(p.get("start_comp"))
+        if sy is None:
+            continue
+
+        minutes = p.get("mediaDuration_minutes")
+        if not minutes or minutes <= 0:
+            continue
+
+        buckets[sy].append(minutes)
+
+    years = sorted(buckets.keys())
+    avg = [round(sum(buckets[y]) / len(buckets[y]), 2) for y in years]
+
+    return {
+        "years": years,
+        "Average Media Duration (Minutes)": avg
+    }
 
 # ---------- plotting utils (preserved) ----------
 def find_trim_indices(years, series_map, extra_year_lists=None):
@@ -831,9 +845,18 @@ def run():
         a_json = build_avg_media_duration_by_start_year(showtapes_pages, group_a)
         b_json = build_avg_media_duration_by_start_year(showtapes_pages, group_b)
 
+        live_categories = {"Chuck E. Cheese's", "Pizza Time Theatre"}
+
+        live_json = build_avg_media_duration_live_shows(
+            showtapes_pages,
+            live_categories
+        )
+
         write_json(os.path.join(OUT_JSON_DIR, "avg_media_duration_ce_showbiz.json"), a_json)
         write_json(os.path.join(OUT_JSON_DIR, "avg_media_duration_ptt_cec.json"), b_json)
+        write_json(os.path.join(OUT_JSON_DIR, "avg_media_duration_live_shows.json"),live_json)
 
+        print(" - avg_media_duration_live_shows.json", file=sys.stderr)
         print("Wrote Showtapes media duration JSON -> data/graphs:", file=sys.stderr)
         print(" - avg_media_duration_ce_showbiz.json", file=sys.stderr)
         print(" - avg_media_duration_ptt_cec.json", file=sys.stderr)

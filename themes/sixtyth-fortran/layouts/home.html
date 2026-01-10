@@ -44,6 +44,8 @@
       {{ partial "LineGraphs.html" (dict "id" "showtapes-1" "data" .Site.Data.graphs.avg_media_duration_ce_showbiz "height" 300 "width" 900) }}
       <h2>Average Showtape Length for Chuck E. Cheese's</h2>
       {{ partial "LineGraphs.html" (dict "id" "showtapes-2" "data" .Site.Data.graphs.avg_media_duration_ptt_cec "height" 300 "width" 900) }}
+      <h2>Average Live Show Length for Chuck E. Cheese's</h2>
+      {{ partial "LineGraphs.html" (dict "id" "showtapes-2" "data" .Site.Data.graphs.avg_media_duration_live_shows "height" 300 "width" 900) }}
     </div>
     <div class="tab-panel" id="wikigraphs">
       <div class="row" style="display: flex;">
