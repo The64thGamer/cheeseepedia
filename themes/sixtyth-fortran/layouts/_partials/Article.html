@@ -35,7 +35,7 @@
 
 {{/* Article Title/Header */}}
     {{/* Breadcrumb Links */}}
-    <aside data-pagefind-ignore="all">
+    <aside>
         {{- range .Params.categories -}}
             <a href="{{- "/categories/" | relLangURL -}}{{- . | urlize -}}">{{- . -}}</a>
             {{- " > " -}}
@@ -46,7 +46,7 @@
     </aside>
 
     {{/* Title */}}
-    <h1 data-pagefind-weight="10">{{- .Title | safeHTML -}}</h1>
+    <h1>{{- .Title | safeHTML -}}</h1>
 
 {{/* Photo Page */}}
 {{- if eq $pageType "Photos" -}}
@@ -100,7 +100,7 @@
 {{/* Basic Article */}}
     {{- if $isBasicArticle -}}
         {{/* Top Bar */}}
-            <aside data-pagefind-ignore="all">
+            <aside>
                 <div class="article-topBar">
                 {{- if $article -}}
                     <button class="article-button" data-target="section-article">Article</button>
@@ -188,7 +188,7 @@
 
 {{/* Article Footer */}}
     <hr>
-    <aside data-pagefind-ignore>
+    <aside>
 
         {{/* Contributors */}}
             <div class="contributors"><strong>Article Contributed By: </strong>

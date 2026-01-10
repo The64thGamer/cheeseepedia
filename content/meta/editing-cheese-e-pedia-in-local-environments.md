@@ -12,8 +12,6 @@ Edits that can be made in a local environment are far greater than simple page e
 
 In a local environment, you have the benefit of compiling Cheese-E-Pedia before uploading your changes -- this is important because you can identify problems before submitting a pull request.
 
-You can also use the local environment to update the Pagefind search index which powers our search tool.
-
 Jump to Section:
 * [Understanding Hugo](#understanding-hugo)
     * [Folder Structure](#folder-structure)
@@ -69,7 +67,6 @@ In basic terms, templates (HTML mixed with custom code mixed in) are created and
 | static | Files that are not changed, and available to all themes (see `themes` below) -- any files are served on the website root (replace `static` with `cheeseepedia.org`). |
 | static/admin | The directory in which DecapCMS resides (`cheeseepedia.org/admin`). |
 | static/lowphotos | Low-res versions of all of the site's photos (`cheeseepedia.org/lowphotos/*.avif`). |
-| static/pagefind | The directory in which the Pagefind search index resides. |
 | static/photos | Original versions of all of the site's photos (`cheeseepedia.org/photos/*.avif`). |
 | themes | A directory containing all of the themes available on compile. The theme can be switched in `config.toml` -- only one theme can be used at a time, and is only switchable on the backend, not to the user. Themes may have their own folders that act the same as the root folders and included in the build. |
 | themes/sixtyth-fortran | The directory containing the current theme, built by {{< wiki-link "The 64th Gamer" >}} |

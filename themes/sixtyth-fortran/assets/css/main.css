@@ -447,8 +447,7 @@ select:hover {
 
 .list-page-block,
 .list-page-empty-block,
-.list-page-block-video,
-.pagefind-ui__result {
+.list-page-block-video {
   display: flex;
   flex-direction: row;
   position: relative;
@@ -478,8 +477,7 @@ select:hover {
 }
 
 .list-page-block,
-.list-page-block-video,
-.pagefind-ui__result {
+.list-page-block-video {
   box-shadow: 0 0 0 0.25rem var(--orange);
 }
 
@@ -528,8 +526,7 @@ select:hover {
 }
 
 .list-page-content,
-.list-page-video-content,
-.pagefind-ui__result-title {
+.list-page-video-content{
   flex-grow: 1;
   display: flex;
   flex-direction: column;
@@ -579,37 +576,10 @@ select:hover {
   margin-right: 1rem;
 }
 
-.pagefind-ui__result-thumb {
-  min-width: 9rem;
-}
-
-.pagefind-ui__search-input {
-  background-color: var(--blue);
-  border-color: var(--brown);
-  color: var(--white);
-  border-width: 0.25rem;
-  border-radius: 1rem;
-  padding: 0.75rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  width: 100%;
-}
-
-.pagefind-ui__result-excerpt {
-  font-family: "Aleo";
-  font-size: 1rem;
-  line-height: 1.5;
-  color: var(--white);
-}
-
-.pagefind-ui__search-clear {
-  display: none;
-}
 
 .list-page-block:hover,
 .alt-list-page-block:hover,
-.list-page-empty-block:hover,
-.pagefind-ui__result:hover {
+.list-page-empty-block:hover {
   box-shadow: 0 0 0 0.25rem var(--aqua);
 }
 
@@ -639,8 +609,7 @@ img.remoji:hover {
   z-index: 10000;
 }
 
-.list-image img,
-.pagefind-ui__result-thumb img {
+.list-image img {
   border-radius: 1rem;
   max-width: 8rem;
   min-width: 8rem;
@@ -1010,12 +979,6 @@ color:var(--yellow);
   animation: pulse-spacing 1.5s ease-in-out infinite;
 }
 
-.pagefind-ui__result-excerpt {
-  font-family: "Aleo";
-  font-size: 1rem;
-  line-height: 1.5;
-  color: var(--white);
-}
 
 /* =========================
    GALLERY / FUN / LOGO
@@ -1078,9 +1041,6 @@ sup {
   display: inline-block;
 }
 
-.pagefind-ui__search-clear {
-  display: none;
-}
 
 /* =========================
    LAZY IMAGES
@@ -1445,8 +1405,7 @@ sup {
 
   .list-page-content,
   .list-review-content,
-  .list-page-video-content,
-  .pagefind-ui__result-title {
+  .list-page-video-content {
     margin: auto;
   }
 
