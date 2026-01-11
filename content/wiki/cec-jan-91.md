@@ -4,7 +4,8 @@ title = "CEC Jan '91"
 startDate = "1991-01-00"
 endDate = "1991-03-13"
 pageThumbnailFile = "p2W8qDF25CjN7xR8wUdv.avif"
-contributors = ["DerekCat", "The 64th Gamer", "Montfortdog", "Luigigamin212"]
+contributors = ["DerekCat", "The 64th Gamer", "Montfortdog", "Luigigamin212", "Ceclife13"]
+credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Connie Nelson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef"]
 citations = []
 showtapeFormats = ["C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 transcriptions = ["January 1991 Segment 1", "January 1991 Segment 2", "January 1991 Segment 3"]
@@ -13,86 +14,68 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***January 1991 Show*** also known as ***Friends*** was released to all Chuck E. Cheese's locations in the beginnning of 1991. It was Nancy Lenehan's final show as Helen Henny, along being the final showtape to feature any music videos until they reintroduce them beliefly in {{< wiki-link "Holiday Special 1992" >}} to {{< wiki-link "Spring Training" >}}.
+***January 1991 Show***, also known as ***Friends**,* was released to all Chuck E. Cheese's locations at the beginning of 1991. It was Connie Nelson's final show as Helen Henny.
 
 ## Show List
 
 01. **Intermission 1**
-    
     1. 8 Minute Countdown
-       
-       1. [Hot Diggity (Dog Ziggity Boom)](https://en.wikipedia.org/wiki/Hot_Diggity_%28Dog_Ziggity_Boom%29)
-       2. [Happy Together](https://en.wikipedia.org/wiki/Happy_Together_%28song%29)
-       3. Birthday Extravaganza
-       4. [Puttin On The Ritz](https://en.wikipedia.org/wiki/After_Eight_%28album%29)
+       1. ['Hot Diggity (Dog Ziggity Boom)'](https://en.wikipedia.org/wiki/Hot_Diggity_%28Dog_Ziggity_Boom%29)
+       2. ['Happy Together'](https://en.wikipedia.org/wiki/Happy_Together_%28song%29)
+       3. 'Birthday Extravaganza'
+       4. ['Puttin On The Ritz'](https://en.wikipedia.org/wiki/After_Eight_%28album%29)
     2. Cyberstar Intro
 02. **Segment 1**
-    
-    1. A World Of Ways To Say Hi
-    2. Treat 'Em Like You Wanna Be Treated
-    3. Stand By Your Friends
+    1. 'A World Of Ways To Say Hi'
+    2. 'Treat 'Em Like You Wanna Be Treated'
+    3. 'Stand By Your Friends'
 03. **Intermission 2**
-    
     1. 8 Minute Countdown
-       
-       1. [When I Think Of You](https://en.wikipedia.org/wiki/When_I_Think_of_You)
-       2. Birthday Extravaganza
-       3. [Yakety Yak](https://en.wikipedia.org/wiki/Yakety_Yak)
-       4. [Mony Mony](https://en.wikipedia.org/wiki/Mony_Mony_%28album%29)
+       1. ['When I Think Of You'](https://en.wikipedia.org/wiki/When_I_Think_of_You)
+       2. 'Birthday Extravaganza'
+       3. ['Yakety Yak'](https://en.wikipedia.org/wiki/Yakety_Yak)
+       4. ['Mony Mony'](https://en.wikipedia.org/wiki/Mony_Mony_%28album%29)
     2. It's Showtime!
 04. **Video 1**
-    
     1. [Edie Brickell &amp; The New Bohemians - Love Like We Do](https://en.wikipedia.org/wiki/Shooting_Rubberbands_at_the_Stars)
 05. **Intermission 3**
-    
     1. 8 Minute Countdown
-       
-       1. [Rock The Boat](https://en.wikipedia.org/wiki/Rock_the_Boat_%28The_Hues_Corporation_song%29)
-       2. [The Love You Save](https://en.wikipedia.org/wiki/The_Love_You_Save)
-       3. Birthday Extravaganza
-       4. [Do You Believe In Magic](https://en.wikipedia.org/wiki/Do_You_Believe_in_Magic_%28album%29)
+       1. ['Rock The Boat'](https://en.wikipedia.org/wiki/Rock_the_Boat_%28The_Hues_Corporation_song%29)
+       2. ['The Love You Save'](https://en.wikipedia.org/wiki/The_Love_You_Save)
+       3. 'Birthday Extravaganza'
+       4. ['Do You Believe In Magic'](https://en.wikipedia.org/wiki/Do_You_Believe_in_Magic_%28album%29)
     2. Cyberstar Intro
 06. **Segment 2**
-    
-    1. Whoops, Wow, Who Me?
-    2. We're Proud To Be Unique
+    1. 'Whoops, Wow, Who Me?'
+    2. 'Proud To Be Unique'
 07. **Intermission 4**
-    
     1. 8 Minute Countdown
-       
-       1. [Higher &amp; Higher (By Jackie Wilson)](https://en.wikipedia.org/wiki/%28Your_Love_Keeps_Lifting_Me%29_Higher_and_Higher)
-       2. [25 or 6 to 4](https://en.wikipedia.org/wiki/25_or_6_to_4)
-       3. Birthday Extravaganza
-       4. [Banana Boat Song (Day-O)](https://en.wikipedia.org/wiki/Calypso_%28album%29)
+       1. ['Higher &amp; Higher (By Jackie Wilson)'](https://en.wikipedia.org/wiki/%28Your_Love_Keeps_Lifting_Me%29_Higher_and_Higher)
+       2. ['25 or 6 to 4'](https://en.wikipedia.org/wiki/25_or_6_to_4)
+       3. 'Birthday Extravaganza'
+       4. ['Banana Boat Song (Day-O)'](https://en.wikipedia.org/wiki/Calypso_%28album%29)
     2. It's Showtime!
 08. **Video 2**
-    
-    1. [Quincy Jones Feat Tevin Campbell - Tomorrow](https://en.wikipedia.org/wiki/Tomorrow_%28A_Better_You,_Better_Me%29)
+    1. [Quincy Jones Feat Tevin Campbell - 'Tomorrow'](https://en.wikipedia.org/wiki/Tomorrow_%28A_Better_You,_Better_Me%29)
 09. **Intermission 5**
-    
     1. 8 Minute Countdown
-       
-       1. [Banana Boat Song (Day-O)](https://en.wikipedia.org/wiki/Calypso_%28album%29)
-       2. [That'll Be the Day](https://en.wikipedia.org/wiki/Hasten_Down_the_Wind)
-       3. Birthday Extravaganza
-       4. [Shop Around](https://en.wikipedia.org/wiki/Shop_Around)
+       1. ['Banana Boat Song (Day-O)'](https://en.wikipedia.org/wiki/Calypso_%28album%29)
+       2. ['That'll Be the Day'](https://en.wikipedia.org/wiki/Hasten_Down_the_Wind)
+       3. 'Birthday Extravaganza'
+       4. ['Shop Around'](https://en.wikipedia.org/wiki/Shop_Around)
     2. Cyberstar Intro
 10. **Segment 3**
-    
-    1. You're A Winner
-    2. Chuck E's Place
+    1. 'You're A Winner'
+    2. 'Chuck E's Place'
 11. **Intermission 6**
-    
     1. 8 Minute Countdown
-       
-       1. [The Love You Save](https://en.wikipedia.org/wiki/The_Love_You_Save)
-       2. [Do You Believe In Magic](https://en.wikipedia.org/wiki/Do_You_Believe_in_Magic_%28album%29)
-       3. Birthday Extravaganza
-       4. [Higher &amp; Higher (By Jackie Wilson)](https://en.wikipedia.org/wiki/%28Your_Love_Keeps_Lifting_Me%29_Higher_and_Higher)
+       1. ['The Love You Save'](https://en.wikipedia.org/wiki/The_Love_You_Save)
+       2. ['Do You Believe In Magic'](https://en.wikipedia.org/wiki/Do_You_Believe_in_Magic_%28album%29)
+       3. 'Birthday Extravaganza'
+       4. ['Higher &amp; Higher' (By Jackie Wilson)](https://en.wikipedia.org/wiki/%28Your_Love_Keeps_Lifting_Me%29_Higher_and_Higher)
     2. It's Showtime!
 12. **Video 3**
-    
-    1. [Elton John - Club At The End Of The Street](https://en.wikipedia.org/wiki/Club_at_the_End_of_the_Street)
+    1. [Elton John - 'Club At The End Of The Street'](https://en.wikipedia.org/wiki/Club_at_the_End_of_the_Street)
 
 ## Production
 
@@ -106,7 +89,7 @@ categories = ["Chuck E. Cheese's"]
 
 ### APS Files
 
-The show was a part of the {{< wiki-link "1990-1992 APS Floppy Cases" >}}, being the third tape known to be made using APS.
+The show was part of the {{< wiki-link "1990-1992 APS Floppy Cases" >}}, being the third tape known to have been made using APS.
 
 #### Floppy Disk Labels
 
@@ -139,6 +122,5 @@ The entry '#an-1.atl' was recovered from a deleted section of the disk, with the
 
 ## Trivia:
 
-- It's Showtime! bumper which was introduced back in 1988, along with the Cyberstar Intro retires in favor for the new animated intro for CEC-TV debuting in {{< wiki-link "CEC Future" >}}.
-- Chuck E's Place would be reused in the future starting with the live show Land of 1000 Dances 1991, and most famously Havin' A Party in 1992.
-- The intermission music is the same as {{< wiki-link "SPP Best Of 2" >}} (except it excluded a couple songs for that show).
+- This was the final show to use the 'It's Showtime' bumper and Cyberstar Intro.
+- The intermission music is the same as {{< wiki-link "SPP Best Of 2" >}} (except it excludes a couple of songs for that show).

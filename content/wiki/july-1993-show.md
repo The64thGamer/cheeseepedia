@@ -9,76 +9,77 @@ citations = ["https://www.youtube.com/watch?v=lLhUVq8r3Xg"]
 credits = []
 mediaDuration = "1:23:16"
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Annagrey Wiechman|Singing Voice of Helen Henny", "Charles Stewart|Songwriter, Singing Voice of Jasper T. Jowls", "Darby Orr|Songwriter"]
 downloadLinks = ["https://ia801709.us.archive.org/9/items/pasqually/IMG_7827.mp4|Original Cut Segment 2 Audio (Do You Believe In Magic / Pasqually Come Home)", "https://archive.org/download/3stage_post_93_svhs_signals/June%201993%203-Stage-004.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-The ***July 1993 Show*** was the segmented show which played during the summer of 1993 at Chuck E. Cheese's.
+The ***July 1993 Show*** was the segmented show that played during the summer of 1993 at Chuck E. Cheese's.
 
 
 ## Show List
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  'Guessing Game'
     2.  VJ Spot
-2.   **Segment 1**
-        1.  'Ball Crawl'
-        2.  'Hand Jive'
-3.  **Intermission 2**
+2. **Segment 1**
+   1.  'Ball Crawl'
+    2.  ['Willie and the Hand Jive'](https://en.wikipedia.org/wiki/Willie_and_the_Hand_Jive)
+3. **Intermission 2**
     1.  'Twinkle Twinkle'
     2.  CEC TV ID - 'Abstract'
     3.  'Birthday Star'
     4.  'Mailman'
     5.  VJ Spot
     6.  Geography Rap - 'Oceans'
-4.   **Segment 2**
-        1.  'Feel The Rhythm'
-        2.  'Do You Believe In Magic'
-5.  **Intermission 3**
+4. **Segment 2**
+   1.  'Feel The Rhythm'
+    2.  ['Do You Believe in Magic'](https://en.wikipedia.org/wiki/Do_You_Believe_in_Magic_(song))
+5. **Intermission 3**
     1.  'These Hands'
     2.  'Birthday Star'
     3.  'Midnight Special'
     4.  VJ Spot
     5.  CEC TV Classic ID
     6.  1 Minute Countdown
-6.   **Segment 3**
-        1.  Clock Tells Me (Time for Chuck E.'s Place)
-        2.  I Feel Good
-7.  **Intermission 4**
+6. **Segment 3**
+   1.  Clock Tells Me (Time for Chuck E.'s Place)
+    2.  ['I Got You (I Feel Good)'](https://en.wikipedia.org/wiki/I_Got_You_(I_Feel_Good))
+7. **Intermission 4**
     1.  'Train Ride'
     2.  'Birthday Star'
     3.  CEC TV Classic ID
     4.  'Home On The Range'
     5.  Helen Henny's Hollywood - 'Honey I Shrunk The Keds'
     6.  1 Minute Countdown
-8.   **Segment 1**
-        1.  'Ball Crawl'
-        2.  'Hand Jive'
-9.  **Intermission 5**
+8. **Segment 1**
+   1.  'Ball Crawl'
+   2.  ['Willie and the Hand Jive'](https://en.wikipedia.org/wiki/Willie_and_the_Hand_Jive)
+9. **Intermission 5**
     1.  'Rock It Up'
     2.  'Birthday Star'
     3.  'Possibilities'
     4.  3 Minute Countdown
     5.  'What-Do-You-Want-To Bee'
     6.  VJ Spot
-10.  **Segment 2**
-        1.  'Feel The Rhythm'
-        2.  'Do You Believe In Magic'
+10. **Segment 2**
+    1.  'Feel The Rhythm'
+    2.  ['Do You Believe in Magic'](https://en.wikipedia.org/wiki/Do_You_Believe_in_Magic_(song))
 11. **Intermission 6**
     1.  'Take Me Out To The Ballgame'
     2.  'Birthday Star'
     3.  2 Minute Countdown
     4.  'Vamos A Bailar'
-12.  **Segment 3**
-        1.  'Clock Tells Me (Time for Chuck E.'s Place)'
-        2.  'I Feel Good'
+12. **Segment 3**
+    1.  'Clock Tells Me (Time for Chuck E.'s Place)'
+    2.  ['I Got You (I Feel Good)'](https://en.wikipedia.org/wiki/I_Got_You_(I_Feel_Good))
 13. **Intermission 7**
     1.  'Dancing On The Moon'
     2.  VJ Spot
 
 ## Production
 
-During development, the show was originally going to be set for May of 1993, but was delayed to July.https://youtu.be/teR6WipX_5s
+This show was originally going to be released May of 1993, but was delayed to July.https://youtu.be/teR6WipX_5s
 
 ### Cut Song
 

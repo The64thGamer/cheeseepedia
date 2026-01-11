@@ -1,5 +1,5 @@
 +++
-title = "CEC TV News Christmas"
+title = "CEC TV News - Holiday Edition"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
