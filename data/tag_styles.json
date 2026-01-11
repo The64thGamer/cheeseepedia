@@ -25,6 +25,7 @@
   },
   "Simulators": {
     "emoji": "<img src=\"/UI/Emojis/crt_noise.svg\" class=\"emoji\">",
+    "color": "#99852aff"
   },
   "Programming Systems": {
     "emoji": "<img src=\"/UI/Emojis/crt_prompt.svg\" class=\"emoji\">",
