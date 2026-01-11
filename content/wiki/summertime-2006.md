@@ -43,7 +43,7 @@ categories = ["Chuck E. Cheese's"]
     3.  Coke Groove
     4.  Countdown
 7. **Segment 4**
-    1.  ['Picnic'](https://raffi.fandom.com/wiki/Going_On_a_Picnic)
+    1.  'Going on a Picnic'
     2.  'Barbeque' (parody of ['Rock With You'](https://en.wikipedia.org/wiki/Rock_with_You))
 8. **Intermission 4**
     1.  Cinemark Summer Movie Clubhouse Spot
