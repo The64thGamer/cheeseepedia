@@ -2,29 +2,25 @@
 draft = false
 title = "60 Minute Emergency Back-Up (Best of 93)"
 startDate = "1993-05-00"
-endDate = "2000-01-00"
+endDate = "1999-12-00"
 pageThumbnailFile = "VmUfq9vpt5iMrmsboPLA.avif"
 contributors = ["Ceclife13", "The 64th Gamer", "Luigigamin212"]
 citations = ["Viewing of the 3-Stage version of the tape by Documentor"]
 mediaDuration = "1:01:11"
-showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 transcriptions = ["CEC TV News Safety", "CEC TV News Pasqually on the moon"]
 alsoKnownAs = ["Chuck E. Cheese's Pizza 60 MIN. EMR. BACK-UP 31.6 ver. R12 PLAY DATES .GENERIC VALIDATION CODE SSC"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***60 Minute Emergency Back-Up* was a shortened emergency backup version of the {{< wiki-link "Best of CEC TV 1993">}}, lasting from May 1993 to the {{< wiki-link "Chuck E's Variety Show - Best of 1999">}} in January 2000.
-The tape is only 60 minutes compared to the full tape's 84 minutes. It cuts off just before the 1 minute countdown into Segment 5.{{< cite 1 >}}**
-
-## Emergency Backup Format
-
-As stated in the {{< wiki-link "Concept Unification Installation Manual">}}, the emergency backup tapes were used in the event of a deck failure. A deck failure would mean the store would need to order a consumer stereo deck as a replacement, which could not support the 4-channel audio of a standard showtape. A standard tape had audio on Hifi left/right, with the programming signals on linear left/right, while the emergency tape duplicated the signals to both linear and Hifi left, and the audio to both linear and Hifi right. This resulted in the birthday signals being lost, with only the standard shows being able to play.
+***60 Minute Emergency Back-Up*** was a shortened emergency backup version of the {{< wiki-link "Best of CEC TV 1993">}}, lasting from May 1993 to the {{< wiki-link "Chuck E's Variety Show - Best of 1999">}} in January 2000.
+The tape is only 60 minutes compared to the full tape's 84 minutes. It cuts off just before the 1 minute countdown into Segment 5.{{< cite 1 >}}
 
 ## Show List
 
 1. **Intermission 1**
     1.  6 Minute Countdown
-    2.  CEC TV '93 ID
+    2.  CEC TV ID - 'Abstract'
     3.  'Birthday Star'
     4.  'Twinkle, Twinkle'
     5.  CEC TV News - 'Safety'
@@ -38,19 +34,23 @@ As stated in the {{< wiki-link "Concept Unification Installation Manual">}}, the
     2.  'Birthday Star'
     3.  Helen Henny's Hollywood - 'Lassie'
     4.  3 Minute Countdown
-    5.  CEC TV '93 ID
+    5.  CEC TV ID - 'Abstract'
     6.  Geography Rap - 'Australia'
 4. **Segment 2**
-    1.  'Skip To My Lou / Little Liza Jane / She'll Be Coming 'Round The Mountain / Golden Slippers /
-        Jimmy Crack Corn'
+    1.  Folk Songs Medley
+        1.  'Skip To My Lou'
+        2.  'Little Liza Jane'
+        3.  'She'll Be Coming Around The Mountain'
+        4.  'Oh Them Golden Slippers'
+        5.  'Jimmy Crack Corn And I Don't Care'
     2.  'My Daddy's Daddy'
 5. **Intermission 3**
-    1.  'What-Do-You-Want-To Bee'
+    1.  'What-do-you-want-to Bee'
     2.  'Birthday Star'
     3.  6 Minute Countdown
-    4.  'Vamos A Bailar'
+    4.  'Vamos a Bailar'
     5.  4 Minute Countdown
-    6.  CEC TV '93 ID
+    6.  CEC TV ID - 'Abstract'
     7.  1 Minute Countdown
 6. **Segment 3**
     1.  'Old MacDonald'
@@ -69,7 +69,11 @@ As stated in the {{< wiki-link "Concept Unification Installation Manual">}}, the
     2.  'Birthday Star'
     3.  'Don't Ever Give Up'
     4.  2 Minute Countdown
-    5.  CEC TV '93 ID
+    5.  CEC TV ID - 'Abstract'
+
+## Emergency Backup Format
+
+As stated in the {{< wiki-link "Concept Unification Installation Manual">}}, the emergency backup tapes were used in the event of a deck failure. A deck failure would mean the store would need to order a consumer stereo deck as a replacement, which could not support the 4-channel audio of a standard showtape. A standard tape had audio on Hifi left/right, with the programming signals on linear left/right, while the emergency tape duplicated the signals to both linear and Hifi left, and the audio to both linear and Hifi right. This resulted in the birthday signals being lost, with only the standard shows being able to play.
 
 ## Trivia:
 
