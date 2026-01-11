@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "September 2000 Show"
-startDate = "2000-09-00"
-endDate = "2000-11-00"
+startDate = "2000-09-01"
+endDate = "2000-11-26"
 pageThumbnailFile = "II_jNqmGA1F7FlfiC2f2.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=k3lJRDHOySQ"]
