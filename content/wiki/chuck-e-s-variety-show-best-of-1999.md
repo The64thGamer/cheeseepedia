@@ -95,6 +95,7 @@ This show is primarily composed of material from 1997 to 1999, with a few interm
 
 - Celebration 2000
 - Birthday Star '98
+- Spanish Birthday
 - Chuck E. March
 - Havin' A Party at Chuck E.'s Place
 - Chuck E's Fiesta Mexicana
