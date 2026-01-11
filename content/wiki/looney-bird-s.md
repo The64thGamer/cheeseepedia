@@ -2,7 +2,7 @@
 
 title = "Looney Bird's"
 draft = false
-tags = ["Restaurants/FECs"]
+tags = ["Companies/Brands"]
 categories = ["Creative Engineering"]
 pageThumbnailFile = "LBvertical.avif"
 startDate = ""

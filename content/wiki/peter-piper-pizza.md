@@ -1,7 +1,7 @@
 +++
 title = "Peter Piper Pizza"
 draft = false
-tags = ["Restaurants/FECs"]
+tags = ["Companies/Brands"]
 categories = ["Peter Piper Pizza"]
 startDate = ""
 endDate = ""

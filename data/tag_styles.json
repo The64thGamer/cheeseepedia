@@ -1,0 +1,229 @@
+{
+  "Animatronic Preservation": {
+    "emoji": "<img src=\"/UI/Emojis/wrench.svg\" class=\"emoji\">",
+    "color": "#4a7bd1"
+  },
+  "Animatronic Shows": {
+    "emoji": "<img src=\"/UI/Emojis/bang.svg\" class=\"emoji\">",
+    "color": "#4a7bd1"
+  },
+  "Animatronics": {
+    "emoji": "<img src=\"/UI/Emojis/spiky_speech_bubble.svg\" class=\"emoji\">",
+    "color": "#4a7bd1"
+  },
+  "Animatronic Parts": {
+    "emoji": "<img src=\"/UI/Emojis/factory.svg\" class=\"emoji\">",
+    "color": "#4a7bd1"
+  },
+  "Animatronic Control Systems": {
+    "emoji": "<img src=\"/UI/Emojis/control_knobs.svg\" class=\"emoji\">",
+    "color": "#99852aff"
+  },
+  "Other Systems": {
+    "emoji": "<img src=\"/UI/Emojis/crt_test_pattern.svg\" class=\"emoji\">",
+    "color": "#99852aff"
+  },
+  "Simulators": {
+    "emoji": "<img src=\"/UI/Emojis/crt_noise.svg\" class=\"emoji\">",
+  },
+  "Programming Systems": {
+    "emoji": "<img src=\"/UI/Emojis/crt_prompt.svg\" class=\"emoji\">",
+    "color": "#99852aff"
+  },
+
+  "Characters": {
+    "emoji": "<img src=\"/UI/Emojis/thumbs_up_paw.svg\" class=\"emoji\">",
+    "color": "#2e8857ff"
+  },
+  "Costumed Characters": {
+    "emoji": "<img src=\"/UI/Emojis/back_of_hand_hoof_d1.svg\" class=\"emoji\">",
+    "color": "#4a7bd1"
+  },
+  "Retrofits": {
+    "emoji": "<img src=\"/UI/Emojis/back_of_hand_hoof_d1.svg\" class=\"emoji\">",
+    "color": "#4a7bd1"
+  },
+  "Live Shows": {
+    "emoji": "<img src=\"/UI/Emojis/music_note.svg\" class=\"emoji\">",
+    "color": "#7b4fd6"
+  },
+  "Puppets": {
+    "emoji": "<img src=\"/UI/Emojis/back_of_hand_paw_k2.svg\" class=\"emoji\">",
+    "color": "#7b4fd6"
+  },
+  "Showtapes": {
+    "emoji": "<img src=\"/UI/Emojis/music_notes.svg\" class=\"emoji\">",
+    "color": "#7b4fd6"
+  },
+  "Showtape Formats": {
+    "emoji": "<img src=\"/UI/Emojis/vhs.svg\" class=\"emoji\">",
+    "color": "#7b4fd6"
+  },
+  "ShowBiz Pizza Programs": {
+    "emoji": "<img src=\"/UI/Emojis/cassette.svg\" class=\"emoji\">",
+    "color": "#7b4fd6"
+  },
+  "Stage Variations": {
+    "emoji": "<img src=\"/UI/Emojis/speaker.svg\" class=\"emoji\">",
+    "color": "#4a7bd1"
+  },
+
+  "Locations": {
+    "emoji": "<img src=\"/UI/Emojis/world_map.svg\" class=\"emoji\">",
+    "color": "#c26827ff"
+  },
+  "Cancelled Locations": {
+    "emoji": "<img src=\"/UI/Emojis/bomb.svg\" class=\"emoji\">",
+    "color": "#c26827ff"
+  },
+  "Remodels and Initiatives": {
+    "emoji": "<img src=\"/UI/Emojis/construction_sign.svg\" class=\"emoji\">",
+    "color": "#c26827ff"
+  },
+  "Store Fixtures": {
+    "emoji": "<img src=\"/UI/Emojis/package.svg\" class=\"emoji\">",
+    "color": "#c26827ff"
+  },
+  "Employee Wear": {
+    "emoji": "<img src=\"/UI/Emojis/chef_v1.svg\" class=\"emoji\">",
+    "color": "#0d9488"
+  },
+
+  "Corporate Documents": {
+    "emoji": "<img src=\"/UI/Emojis/page_with_pencil.svg\" class=\"emoji\">",
+    "color": "#607f77ff"
+  },
+  "Documents": {
+    "emoji": "<img src=\"/UI/Emojis/page.svg\" class=\"emoji\">",
+    "color": "#607f77ff"
+  },
+  "Promotional Material": {
+    "emoji": "<img src=\"/UI/Emojis/curled_page.svg\" class=\"emoji\">",
+    "color": "#607f77ff"
+  },
+  "Social Media and Websites": {
+    "emoji": "<img src=\"/UI/Emojis/globe.svg\" class=\"emoji\">",
+    "color": "#607f77ff"
+  },
+  "Meta": {
+    "emoji": "<img src=\"/UI/Emojis/zzz.svg\" class=\"emoji\">",
+    "color": "#535155ff"
+  },
+  "Transcriptions": {
+    "emoji": "<img src=\"/UI/Emojis/pencil.svg\" class=\"emoji\">",
+    "color": "#535155ff"
+  },
+
+  "Commercials": {
+    "emoji": "<img src=\"/UI/Emojis/movie_camera.svg\" class=\"emoji\">",
+    "color": "#d14a4a"
+  },
+  "News Footage": {
+    "emoji": "<img src=\"/UI/Emojis/tv.svg\" class=\"emoji\">",
+    "color": "#d14a4a"
+  },
+  "Company Media": {
+    "emoji": "<img src=\"/UI/Emojis/dvd.svg\" class=\"emoji\">",
+    "color": "#d14a4a"
+  },
+  "Movies": {
+    "emoji": "<img src=\"/UI/Emojis/cinema.svg\" class=\"emoji\">",
+    "color": "#d14a4a"
+  },
+  "Family Vision": {
+    "emoji": "<img src=\"/UI/Emojis/projector.svg\" class=\"emoji\">",
+    "color": "#7b4fd6"
+  },
+
+  "Arcades and Attractions": {
+    "emoji": "<img src=\"/UI/Emojis/arcade_stick.svg\" class=\"emoji\">",
+    "color": "#c26827ff"
+  },
+  "Video Games": {
+    "emoji": "<img src=\"/UI/Emojis/gamepad.svg\" class=\"emoji\">",
+    "color": "#0d9488"
+  },
+  "Ad Vehicles": {
+    "emoji": "<img src=\"/UI/Emojis/bus.svg\" class=\"emoji\">",
+    "color": "#607f77ff"
+  },
+  "Events": {
+    "emoji": "<img src=\"/UI/Emojis/tada.svg\" class=\"emoji\">",
+    "color": "#2e8857ff"
+  },
+
+  "Menu Items": {
+    "emoji": "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">",
+    "color": "#0d9488"
+  },
+  "ShowBiz Pizza Place": {
+    "emoji": "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">",
+    "color": "#c2410c"
+  },
+  "Pizza Time Theatre": {
+    "emoji": "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">",
+    "color": "#b7471bff"
+  },
+  "Sally Corporation": {
+    "emoji": "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">",
+    "color": "#b7471bff"
+  },
+  "Jim Henson's Creature Shop": {
+    "emoji": "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">",
+    "color": "#b7471bff"
+  },
+  "Walt Disney Imagineering": {
+    "emoji": "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">",
+    "color": "#b7471bff"
+  },
+  "Five Nights at Freddy's": {
+    "emoji": "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">",
+    "color": "#b7471bff"
+  },
+  "Chuck E. Cheese's": {
+    "emoji": "<img src=\"/UI/Emojis/birthday_cake.svg\" class=\"emoji\">",
+    "color": "#c2410c"
+  },
+  "Companies/Brands": {
+    "emoji": "<img src=\"/UI/Emojis/plate.svg\" class=\"emoji\">",
+    "color": "#2e8857ff"
+  },
+
+  "Products": {
+    "emoji": "<img src=\"/UI/Emojis/dollar.svg\" class=\"emoji\">",
+    "color": "#0d9488"
+  },
+  "In-Store Merchandise": {
+    "emoji": "<img src=\"/UI/Emojis/free.svg\" class=\"emoji\">",
+    "color": "#0d9488"
+  },
+  "Tokens": {
+    "emoji": "<img src=\"/UI/Emojis/cross.svg\" class=\"emoji\">",
+    "color": "#0d9488"
+  },
+  "Tickets": {
+    "emoji": "<img src=\"/UI/Emojis/cross.svg\" class=\"emoji\">",
+    "color": "#0d9488"
+  },
+
+  "User": {
+    "emoji": "<img src=\"/UI/Emojis/furry_pride.svg\" class=\"emoji\">",
+    "color": "#535155ff"
+  },
+  "History": {
+    "emoji": "<img src=\"/UI/Emojis/spider_web.svg\" class=\"emoji\">",
+    "color": "#c26827ff"
+  },
+  "Unknown Year": {
+    "emoji": "<img src=\"/UI/Emojis/calendar_spiral.svg\" class=\"emoji\">",
+    "color": "#535155ff"
+  },
+  "1977": {
+    "emoji": "<img src=\"/UI/Emojis/calendar_spiral.svg\" class=\"emoji\">",
+    "color": "#535155ff"
+  },
+  "2026": {
+    "emoji": "<img src=\"/UI/Emojis/calendar_spiral.svg\" class=\"emoji\">",
+    "color": "#535155ff"
+  }
+}

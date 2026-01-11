@@ -2,7 +2,7 @@
 
 title = "Billy Bob's Wonderland"
 draft = false
-tags = ["Restaurants/FECs"]
+tags = ["Companies/Brands"]
 categories = ["Creative Engineering"]
 startDate = ""
 endDate = ""

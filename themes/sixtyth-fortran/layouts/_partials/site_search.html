@@ -7,57 +7,8 @@ Notes:
 - Loads search JSON data from /data/*.json via fetch.
 */ -}}
 
-{{- $dictionary := dict
-"Animatronic Preservation" "<img src=\"/UI/Emojis/wrench.svg\" class=\"emoji\">"
-"Animatronic Shows" "<img src=\"/UI/Emojis/bang.svg\" class=\"emoji\">"
-"Animatronics" "<img src=\"/UI/Emojis/spiky_speech_bubble.svg\" class=\"emoji\">"
-"Costumed Characters" "<img src=\"/UI/Emojis/back_of_hand_hoof_d1.svg\" class=\"emoji\">"
-"Animatronic Parts" "<img src=\"/UI/Emojis/factory.svg\" class=\"emoji\">"
-"Retrofits" "<img src=\"/UI/Emojis/pirate_flag.svg\" class=\"emoji\">"
-"Stage Variations" "<img src=\"/UI/Emojis/speaker.svg\" class=\"emoji\">"
-"Corporate Documents" "<img src=\"/UI/Emojis/page_with_pencil.svg\" class=\"emoji\">"
-"Social Media and Websites" "<img src=\"/UI/Emojis/globe.svg\" class=\"emoji\">"
-"Documents" "<img src=\"/UI/Emojis/page.svg\" class=\"emoji\">"
-"Promotional Material" "<img src=\"/UI/Emojis/curled_page.svg\" class=\"emoji\">"
-"Animatronic Control Systems" "<img src=\"/UI/Emojis/control_knobs.svg\" class=\"emoji\">"
-"Other Systems" "<img src=\"/UI/Emojis/crt_test_pattern.svg\" class=\"emoji\">"
-"Simulators" "<img src=\"/UI/Emojis/crt_noise.svg\" class=\"emoji\">"
-"Programming Systems" "<img src=\"/UI/Emojis/crt_prompt.svg\" class=\"emoji\">"
-"Characters" "<img src=\"/UI/Emojis/thumbs_up_paw.svg\" class=\"emoji\">"
-"Events" "<img src=\"/UI/Emojis/tada.svg\" class=\"emoji\">"
-"History" "<img src=\"/UI/Emojis/spider_web.svg\" class=\"emoji\">"
-"Ad Vehicles" "<img src=\"/UI/Emojis/bus.svg\" class=\"emoji\">"
-"Arcades and Attractions" "<img src=\"/UI/Emojis/arcade_stick.svg\" class=\"emoji\">"
-"Employee Wear" "<img src=\"/UI/Emojis/chef_v1.svg\" class=\"emoji\">"
-"Locations" "<img src=\"/UI/Emojis/world_map.svg\" class=\"emoji\">"
-"Cancelled Locations" "<img src=\"/UI/Emojis/bomb.svg\" class=\"emoji\">"
-"Remodels and Initiatives" "<img src=\"/UI/Emojis/construction_sign.svg\" class=\"emoji\">"
-"Store Fixtures" "<img src=\"/UI/Emojis/package.svg\" class=\"emoji\">"
-"Commercials" "<img src=\"/UI/Emojis/movie_camera.svg\" class=\"emoji\">"
-"News Footage" "<img src=\"/UI/Emojis/tv.svg\" class=\"emoji\">"
-"Company Media" "<img src=\"/UI/Emojis/dvd.svg\" class=\"emoji\">"
-"In-Store Merchandise" "<img src=\"/UI/Emojis/free.svg\" class=\"emoji\">"
-"Products" "<img src=\"/UI/Emojis/dollar.svg\" class=\"emoji\">"
-"Menu Items" "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">"
-"ShowBiz Pizza Place" "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">"
-"Pizza Time Theatre" "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">"
-"Chuck E. Cheese's" "<img src=\"/UI/Emojis/pizza.svg\" class=\"emoji\">"
-"Movies" "<img src=\"/UI/Emojis/cinema.svg\" class=\"emoji\">"
-"Tickets" "<img src=\"/UI/Emojis/cross.svg\" class=\"emoji\">"
-"Unknown Year" "<img src=\"/UI/Emojis/cross.svg\" class=\"emoji\">"
-"Tokens" "<img src=\"/UI/Emojis/cross.svg\" class=\"emoji\">"
-"Video Games" "<img src=\"/UI/Emojis/gamepad.svg\" class=\"emoji\">"
-"Family Vision" "<img src=\"/UI/Emojis/projector.svg\" class=\"emoji\">"
-"Live Shows" "<img src=\"/UI/Emojis/music_note.svg\" class=\"emoji\">"
-"ShowBiz Pizza Programs" "<img src=\"/UI/Emojis/cassette.svg\" class=\"emoji\">"
-"Showtape Formats" "<img src=\"/UI/Emojis/vhs.svg\" class=\"emoji\">"
-"Puppets" "<img src=\"/UI/Emojis/back_of_hand_paw_k2.svg\" class=\"emoji\">"
-"Showtapes" "<img src=\"/UI/Emojis/music_notes.svg\" class=\"emoji\">"
-"Meta" "<img src=\"/UI/Emojis/zzz.svg\" class=\"emoji\">"
-"Transcriptions" "<img src=\"/UI/Emojis/pencil.svg\" class=\"emoji\">"
-"User" "<img src=\"/UI/Emojis/furry_pride.svg\" class=\"emoji\">"
-"Restaurants/FECs" "<img src=\"/UI/Emojis/plate.svg\" class=\"emoji\">"
--}}
+{{- $tagStyles := site.Data.tag_styles -}}
+{{- $tagCounts := site.Data.tags.tag_counts -}}
 
 <div class="search-ui-container">
   <div class="search-controls">
@@ -87,20 +38,19 @@ Notes:
             "Animatronic Shows"
             "Stage Variations"
             "Animatronics"
+            "Animatronic Parts"
+            "Animatronic Preservation"
+            "Costumed Characters"
+            "Retrofits"
             "History"
             "Cancelled Locations"
             "Remodels and Initiatives"
+            "Arcades and Attractions"
             "Store Fixtures"
-            "Restaurants/FECs"
+            "Companies/Brands"
             "Characters"
-            "Costumed Characters"
-            "Puppets"
-            "Live Shows"
             "Events"
-            "Animatronic Parts"
             "Animatronic Control Systems"
-            "Animatronic Preservation"
-            "Retrofits"
             "Other Systems"
             "Simulators"
             "Programming Systems"
@@ -108,10 +58,10 @@ Notes:
             "News Footage"
             "Company Media"
             "Movies"
+            "Puppets"
+            "Live Shows"
             "ShowBiz Pizza Programs"
             "Showtape Formats"
-            "Arcades and Attractions"
-            "Video Games"
             "Family Vision"
             "Corporate Documents"
             "Documents"
@@ -124,6 +74,11 @@ Notes:
             "Tickets"
             "Tokens"
             "Employee Wear"
+            "Video Games"
+            "Sally Corporation"
+            "Jim Henson's Creature Shop"
+            "Walt Disney Imagineering"
+            "Five Nights at Freddy's"
             "Transcriptions"
             "Unknown Year"
             "User"
@@ -134,16 +89,34 @@ Notes:
               <div class="predef-scroll">
                 <div class="predef-list">
                   {{- range $i, $t := $predef -}}
-                  {{- $emoji := index $dictionary $t -}}
-                  <button class="predef-tag-btn" type="button" data-tag="{{ $t | html }}" title="Add tag">
-                    {{ if $emoji }}{{ $emoji | safeHTML }} {{ end }}{{ $t }}
-                  </button>
+                    {{- $entry := index $tagStyles $t -}}
+                    {{- $emoji := "" -}}
+                    {{- $color := "" -}}
+                    {{- if $entry -}}
+                      {{- with $entry }}
+                        {{- $emoji = .emoji -}}
+                        {{- $color = .color -}}
+                      {{- end -}}
+                    {{- end -}}
+                    {{- $count := index $tagCounts $t -}}
+                    <button
+                      class="predef-tag-btn"
+                      type="button"
+                      data-tag="{{ $t | html }}"
+                      title="Add tag"
+                      {{- if $color }}style="--tag-bg: {{ $color }};"{{- end -}}
+                    >
+                      {{- if $emoji }}{{ $emoji | safeHTML }} {{- end -}}
+                      {{- $t -}}
+                      {{- with $count -}} <span class="tag-count">({{ . }})</span>{{- end -}}
+                    </button>
                   {{- end -}}
                 </div>
               </div>
             </div>
           </div>
         </aside>
+
         <div class="tabs" id="results-tabs" hidden>
           <div class="tab-buttons">
             <button class="tab-button active" data-tab="tab-articles">Articles</button>
@@ -203,32 +176,23 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // --- Helpers for path normalization & permalinks ---
   function normalizePageKey(raw) {
-    // raw may be object {path: "..."} or a string like "content/foo/bar.md" or "/content/foo/bar.md"
     if (!raw) return "";
     let p = (typeof raw === "object") ? (raw.path || "") : String(raw);
     p = p.trim();
-    // if it's an absolute URL, return it unchanged (we won't use it as a key)
     if (/^https?:\/\//i.test(p)) return p;
-    // strip leading slash
     if (p.startsWith("/")) p = p.slice(1);
-    // strip leading content/ prefix
     if (p.startsWith("content/")) p = p.slice("content/".length);
-    // remove trailing slash
     if (p.endsWith("/")) p = p.slice(0, -1);
-    // strip .md or other markdown extensions
     p = p.replace(/\.(md|markdown|mdown)$/i, "");
     return p;
   }
 
   function makePermalink(rawPath) {
     if (!rawPath) return "#";
-    // If absolute URL, leave as-is
     if (/^https?:\/\//i.test(rawPath)) return rawPath;
     const key = normalizePageKey(rawPath);
     if (!key) return "/";
-    // special-case index page (root)
     if (key === "_index" || key === "") return "/";
-    // return with leading and trailing slash
     return "/" + key + (key.endsWith("/") ? "" : "/");
   }
 
@@ -238,7 +202,6 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!collapsible) return;
     if (opened) return;
     opened = true;
-    // animate: set maxHeight -> scrollHeight, then remove restriction
     collapsible.style.maxHeight = collapsible.scrollHeight + "px";
     collapsible.addEventListener("transitionend", () => {
       collapsible.style.maxHeight = "none";
@@ -289,7 +252,6 @@ document.addEventListener("DOMContentLoaded", () => {
       const text = [doc.title || "", doc.excerpt || "", doc.content || "", doc.summary || ""].join(" ");
       doc.tokens = doc.tokens || Array.from(new Set(tokenize(text)));
       doc.trigrams = doc.trigrams || Array.from(charTrigrams(text));
-      // Normalize doc.path to key style (no leading slash, no content/ prefix, no extension)
       if (doc.path) doc.path = normalizePageKey(doc.path);
     });
 
@@ -298,6 +260,10 @@ document.addEventListener("DOMContentLoaded", () => {
       const normKey = normalizePageKey(rawKey);
       DOC_TAGS[normKey] = TAGS_BY_PAGE[rawKey] || [];
     }
+
+    // wire predef buttons (they were rendered server-side with counts/colors)
+    const predefBtnsNow = document.querySelectorAll(".predef-tag-btn");
+    predefBtnsNow.forEach(b => b.addEventListener("click", function(){ addTag(this.dataset.tag, false); }));
 
     console.log("Search data loaded", { DOCS, TAGS_BY_PAGE, PAGES_BY_TAG, TAG_COUNTS, ALL_TAGS });
   }
@@ -342,8 +308,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  predefButtons.forEach(b => b.addEventListener("click", function(){ addTag(this.dataset.tag, false); }));
-
   // --- Tag suggestion logic (only from TAG_COUNTS / ALL_TAGS) ---
   let suggestionIndex = -1;
   function suggestTags(prefix, limit=10) {
@@ -382,7 +346,7 @@ document.addEventListener("DOMContentLoaded", () => {
       tagSuggestions.appendChild(el);
     });
     suggestionIndex = -1;
-    tagSuggestions.scrollTop = 0; // reset scrollbar to top per your request
+    tagSuggestions.scrollTop = 0;
   }
 
   function hideSuggestions() { if (!tagSuggestions) return; tagSuggestions.innerHTML=""; tagSuggestions.style.display="none"; tagSuggestions.setAttribute("aria-hidden","true"); }
@@ -432,6 +396,20 @@ document.addEventListener("DOMContentLoaded", () => {
       if (!tagSuggestions.contains(e.target) && e.target !== tagInput) hideSuggestions();
     });
   }
+
+
+  function scheduleSearch() { if (searchTimer) clearTimeout(searchTimer); searchTimer = setTimeout(executeSearch, 150); }
+  if (fuzzyInput) {
+    fuzzyInput.addEventListener("input", () => { scheduleSearch(); updateSearchLayout(); });
+    fuzzyInput.addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); executeSearch(); } });
+  }
+
+  (async function init() {
+    await loadSearchData();
+    executeSearch();
+    updateSearchLayout();
+  })();
+
 
   // --- Layout control: show tags vs show results ---
   function updateSearchLayout() {

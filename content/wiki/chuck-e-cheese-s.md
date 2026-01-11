@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese's"
 draft = false
-tags = ["Restaurants/FECs"]
+tags = ["Companies/Brands"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
