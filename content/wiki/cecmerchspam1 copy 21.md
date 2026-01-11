@@ -1,13 +1,12 @@
 +++
-title = "1991 CEC Tux Cup"
+title = "1993 Red Corvette Cup"
 draft = false
 tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = "54sjzmfv69k2qupj.avif"
-startDate = "1991-00-00"
+pageThumbnailFile = "snt0djg9085zyeko.avif"
+startDate = "1993-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
-alsoKnownAs = []
 manufacturer = ""
 +++
