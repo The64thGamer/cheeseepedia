@@ -37,7 +37,7 @@ categories = ["Chuck E. Cheese's"]
 6. **Segment 3**
     1.  ['Turn the Beat Around'](https://en.wikipedia.org/wiki/Turn_the_Beat_Around)
 7. **Intermission 4**
-    1.  Director's Cut
+    1.  Station Break
     2.  CEC TV '94 ID
     3.   VJ Spot
 8. **Segment 4**
