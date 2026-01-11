@@ -176,7 +176,7 @@
     "start_year": 1990,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 0
   },
   {
@@ -1546,7 +1546,7 @@
     "start_year": 1991,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 0
   },
   {
@@ -6030,6 +6030,16 @@
     "rating": 0
   },
   {
+    "title": "2005 Red/Yellow Plush Hammer",
+    "page_path": "content/wiki/cecmerchspam1 copy 9.md",
+    "startDate": "2005-00-00",
+    "start_year": 2005,
+    "category": "Chuck E. Cheese's",
+    "tag": "Products",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Babe Ruth Poster (Shelf Item)",
     "page_path": "content/wiki/babe-ruth-poster-shelf-item.md",
     "startDate": "",
@@ -7107,16 +7117,6 @@
     "category": "Creative Engineering",
     "tag": "Showtapes",
     "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "1999 Studio C Plush Hammer",
-    "page_path": "content/wiki/cecmerchspam1 copy 3.md",
-    "startDate": "1999-00-00",
-    "start_year": 1999,
-    "category": "Chuck E. Cheese's",
-    "tag": "Products",
-    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -11856,7 +11856,7 @@
     "start_year": 1994,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 1
   },
   {
@@ -14416,7 +14416,7 @@
     "start_year": 1991,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 0
   },
   {
@@ -17056,7 +17056,7 @@
     "start_year": 1991,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 5,
+    "contributors_count": 6,
     "rating": 2
   },
   {
@@ -17517,6 +17517,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "Spring Training Revised",
+    "page_path": "content/wiki/spring-training-revised.md",
+    "startDate": "1993-03-00",
+    "start_year": 1993,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -18466,6 +18476,16 @@
     "start_year": null,
     "category": null,
     "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
+    "title": "2006 Checkered Plush Hammer",
+    "page_path": "content/wiki/cecmerchspam1 copy 10.md",
+    "startDate": "2006-00-00",
+    "start_year": 2006,
+    "category": "Chuck E. Cheese's",
+    "tag": "Products",
     "contributors_count": 1,
     "rating": 0
   },
@@ -19766,7 +19786,7 @@
     "start_year": 1993,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -23340,16 +23360,6 @@
     "rating": 0
   },
   {
-    "title": "Purple Floppy Chuck E.",
-    "page_path": "content/wiki/cecmerchspam1 copy 2.md",
-    "startDate": "2011-00-00",
-    "start_year": 2011,
-    "category": "Chuck E. Cheese's",
-    "tag": "Products",
-    "contributors_count": 1,
-    "rating": 0
-  },
-  {
     "title": "Freddy (Walkaround)",
     "page_path": "content/wiki/freddy-walkaround.md",
     "startDate": "2022-00-00",
@@ -25280,6 +25290,16 @@
     "rating": 0
   },
   {
+    "title": "2003 Token Pile Plush Hammer",
+    "page_path": "content/wiki/cecmerchspam1 copy 7.md",
+    "startDate": "2003-00-00",
+    "start_year": 2003,
+    "category": "Chuck E. Cheese's",
+    "tag": "Products",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Chuck Hug Me Sweater (Costume Outfit)",
     "page_path": "content/wiki/chuck-hug-me-sweater-costume-outfit.md",
     "startDate": "",
@@ -26676,7 +26696,7 @@
     "start_year": 1992,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 5,
+    "contributors_count": 6,
     "rating": 1
   },
   {
@@ -33060,16 +33080,6 @@
     "rating": 0
   },
   {
-    "title": "CEC Rock It In Space",
-    "page_path": "content/wiki/cec-rock-it-in-space.md",
-    "startDate": "1992-01-00",
-    "start_year": 1992,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 4,
-    "rating": 1
-  },
-  {
     "title": "CEC Token 328 (B, N)",
     "page_path": "content/wiki/cec-token-328-b-n.md",
     "startDate": "",
@@ -33608,6 +33618,16 @@
     "tag": "Company Media",
     "contributors_count": 0,
     "rating": 0
+  },
+  {
+    "title": "CEC Rock It Into Space",
+    "page_path": "content/wiki/cec-rock-it-into-space.md",
+    "startDate": "1992-01-00",
+    "start_year": 1992,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 5,
+    "rating": 1
   },
   {
     "title": "1982 PTT Convention (Event)",
@@ -34486,7 +34506,7 @@
     "start_year": 1998,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -34996,7 +35016,7 @@
     "start_year": 1991,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 5,
+    "contributors_count": 6,
     "rating": 0
   },
   {
@@ -35536,7 +35556,7 @@
     "start_year": 1992,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -45530,6 +45550,16 @@
     "rating": 0
   },
   {
+    "title": "2006 Where A Kid Can Be A Kid Plush Hammer",
+    "page_path": "content/wiki/cecmerchspam1 copy 12.md",
+    "startDate": "2006-00-00",
+    "start_year": 2006,
+    "category": "Chuck E. Cheese's",
+    "tag": "Products",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Say Cheese App Ad - Tablet & Phone (Commercial)",
     "page_path": "content/wiki/say-cheese-app-ad-tablet-phone-commercial.md",
     "startDate": "2013-00-00",
@@ -49737,6 +49767,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2005 Green/Yellow Plush Hammer",
+    "page_path": "content/wiki/cecmerchspam1 copy 8.md",
+    "startDate": "2005-00-00",
+    "start_year": 2005,
+    "category": "Chuck E. Cheese's",
+    "tag": "Products",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -55312,7 +55352,7 @@
   {
     "title": "SPP Concept Unification Premiere",
     "page_path": "content/wiki/spp-concept-unification-premiere.md",
-    "startDate": "1990-06-21",
+    "startDate": "1990-06-00",
     "start_year": 1990,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
@@ -55786,7 +55826,7 @@
     "start_year": 1992,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 1
   },
   {
@@ -56196,7 +56236,7 @@
     "start_year": 1991,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 5,
+    "contributors_count": 6,
     "rating": 1
   },
   {
@@ -57406,7 +57446,7 @@
     "start_year": 1993,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 0
   },
   {
@@ -58377,6 +58417,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2000 Stripes Plush Hammer",
+    "page_path": "content/wiki/cecmerchspam1 copy 6.md",
+    "startDate": "2000-00-00",
+    "start_year": 2000,
+    "category": "Chuck E. Cheese's",
+    "tag": "Products",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -59650,6 +59700,16 @@
     "rating": 0
   },
   {
+    "title": "2006 Super Chuck Plush Hammer",
+    "page_path": "content/wiki/cecmerchspam1 copy 11.md",
+    "startDate": "2006-00-00",
+    "start_year": 2006,
+    "category": "Chuck E. Cheese's",
+    "tag": "Products",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "CEC 2000 Annual Report",
     "page_path": "content/wiki/cec-2000-annual-report.md",
     "startDate": "2000-00-00",
@@ -59796,7 +59856,7 @@
     "start_year": 1992,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 1
   },
   {
@@ -60147,16 +60207,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Spring Training Final Version",
-    "page_path": "content/wiki/spring-training-final-version.md",
-    "startDate": "1993-03-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 1,
     "rating": 0
   },
   {
