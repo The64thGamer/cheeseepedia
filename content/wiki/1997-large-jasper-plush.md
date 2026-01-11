@@ -5,6 +5,7 @@ citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97
 wholesalePrice = "$9.99"
 tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
+startDate = "1997-00-00"
 +++
 Item Number: 5421
 
