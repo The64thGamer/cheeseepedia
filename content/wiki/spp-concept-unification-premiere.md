@@ -15,36 +15,6 @@ categories = ["Chuck E. Cheese's"]
 +++
 The ***SPP Concept Unification Premiere Show*** was the first showtape released for 3-Stage shows, which introduced Munch's Make Believe Band. It would be played at each store after undergoing Concept Unification until 1993.
 
-## Concept Unification
-
-The tape came with the entire {{< wiki-link "Concept Unification" >}} package, which included a special backup {{< wiki-link "SPP Concept Unification Emergency Backup Tape" >}}, the last Rock-afire showtape {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}, and its own backup tape, being SPP Rolfe & Earl Emergency Backup Tape, along with other material.
-During the Concept Unification conversion process, the Rolfe & Earl stage would be kept up while the store was open, so the character could perform alongside this tape. A special Rolfe & Earl birthday was included for any potential birthday parties while the other stages were still under construction. The Rolfe & Earl stage would then be dismantled and turned into Chuck E.'s stage overnight, allowing Concept Unification Premiere to be ready the next morning.
-Concept Unification Premiere was the only full showtape to be agnostic from any set premiere dates. Stores would always play this as their first 3-Stage tape, then switch to the current showtape after a few weeks. This lasted from 1990 to 1993 throughout the Concept Unification process.
-
-## Production
-
-### Filming Locations
-
-Animatronic footage for the show was filmed in the Entertainment Dept. at {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
-The only 'On Location' footage featured is the {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}} location and Kroger Grocery Store in Arlington, TX.
-
-### Recycled Video Intermissions
-
-This showtape included video segments from other ShowBiz Pizza Place & Chuck E. Cheese's showtapes.
-
-- *Animal Babies in the Wild - Let's All Do the Hop*
-  - CEC Neighbors / Dreams
-  - {{< wiki-link "SPP FaithDreamsKids Wave Bday" >}}
-  - {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}
-  - {{< wiki-link "SPP Emergency Backup Tape" >}}
-- *Song City U.S.A - Dinosaurs (We Adore Dinosaurs)*
-  - CEC Kids / American Pride
-  - {{< wiki-link "SPP April 1990 Show" >}}
-  - {{< wiki-link "SPP Emergency Backup Tape" >}}
-- [*CGI Animated Graphics*](https://en.wikipedia.org/wiki/Odyssey_Productions)
-  - CEC ???
-  - {{< wiki-link "SPP FriendsMomsTVThemes" >}}
-
 ## Summary
 
 This show was created to introduce the Chuck E. Cheese characters for ShowBiz Pizza Place locations that received {{< wiki-link "Concept Unification" >}}.
@@ -108,6 +78,37 @@ This show was created to introduce the Chuck E. Cheese characters for ShowBiz Pi
     1.  [CGI Animated Graphics](https://en.wikipedia.org/wiki/Odyssey_Productions)
         1.  Cosmic Zoom
         2.  Metafable
+      
+## Production
+
+### Concept Unification
+
+The tape came with the entire {{< wiki-link "Concept Unification" >}} package, which included a special backup {{< wiki-link "SPP Concept Unification Emergency Backup Tape" >}}, the last Rock-afire showtape {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}, and its own backup tape, being SPP Rolfe & Earl Emergency Backup Tape, along with other material.
+During the Concept Unification conversion process, the Rolfe & Earl stage would be kept up while the store was open, so the character could perform alongside this tape. A special Rolfe & Earl birthday was included for any potential birthday parties while the other stages were still under construction. The Rolfe & Earl stage would then be dismantled and turned into Chuck E.'s stage overnight, allowing Concept Unification Premiere to be ready the next morning.
+Concept Unification Premiere was the only full showtape to be agnostic from any set premiere dates. Stores would always play this as their first 3-Stage tape, then switch to the current showtape after a few weeks. This lasted from 1990 to 1993 throughout the Concept Unification process.
+
+### Filming Locations
+
+Animatronic footage for the show was filmed in the Entertainment Dept. at {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
+The only 'On Location' footage featured is the {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}} location and Kroger Grocery Store in Arlington, TX.
+
+### Recycled Video Intermissions
+
+This showtape included video segments from other ShowBiz Pizza Place & Chuck E. Cheese's showtapes.
+
+- *Animal Babies in the Wild - Let's All Do the Hop*
+  - CEC Neighbors / Dreams
+  - {{< wiki-link "SPP FaithDreamsKids Wave Bday" >}}
+  - {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}
+  - {{< wiki-link "SPP Emergency Backup Tape" >}}
+- *Song City U.S.A - Dinosaurs (We Adore Dinosaurs)*
+  - CEC Kids / American Pride
+  - {{< wiki-link "SPP April 1990 Show" >}}
+  - {{< wiki-link "SPP Emergency Backup Tape" >}}
+- [*CGI Animated Graphics*](https://en.wikipedia.org/wiki/Odyssey_Productions)
+  - CEC ???
+  - {{< wiki-link "SPP FriendsMomsTVThemes" >}}
+
 
 ## Trivia
 
