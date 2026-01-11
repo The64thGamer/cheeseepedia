@@ -6,6 +6,7 @@ endDate = "1996-12-00"
 pageThumbnailFile = "zvhhpm1wFC0UFJTOL2N3.avif"
 contributors = ["Ceclife13"]
 citations = []
+credits = ["Duncan Brannan - Programmer, Voice of Chuck E. Cheese, Mr. Munch, Jasper T. Jowls, Pasqually"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "50:17"
 tags = ["Showtapes"]
@@ -52,7 +53,3 @@ categories = ["Chuck E. Cheese's"]
     3.  'We Wish You A Merry Christmas'
 10. **Intermission 5**
     1.  'Deck The Halls'
-
-## Trivia:
-
-- 
