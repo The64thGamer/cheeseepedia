@@ -744,10 +744,10 @@ document.addEventListener("DOMContentLoaded", () => {
       if (!arr.length) { container.innerHTML = `<div class="no-results">No results</div>`; return; }
       if (renderer === renderPhoto) {
         const gallery = document.createElement("div"); gallery.className = "gallery";
-        arr.slice(0,200).forEach(item => gallery.appendChild(renderer(item.doc)));
+        arr.slice(0,2000).forEach(item => gallery.appendChild(renderer(item.doc)));
         container.appendChild(gallery);
       } else {
-        arr.slice(0,200).forEach(item => container.appendChild(renderer(item.doc)));
+        arr.slice(0,2000).forEach(item => container.appendChild(renderer(item.doc)));
       }
     }
 

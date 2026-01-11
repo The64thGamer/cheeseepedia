@@ -1,4 +1,5 @@
 +++
+
 title = "Earl Schmerle"
 draft = false
 tags = ["Characters"]
@@ -9,8 +10,8 @@ startDate = ""
 endDate = ""
 contributors = ["CECMentor"]
 citations = []
+pageThumbnailFile = "C1n1AguoTtTZbLUmuoRD.avif"
 +++
-
 ***Earl Schmerle*** is one of the supporting characters of the ShowBiz Pizza Place franchise, having made his debut as an animatronic at {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}}.
 
 ## History

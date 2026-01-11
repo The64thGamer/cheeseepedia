@@ -1,4 +1,5 @@
 +++
+
 title = "Kennesaw, GA (824 Earnest W Barrett Pkwy)"
 storeNumber = ""
 startDate = "1999-11-19"
@@ -13,7 +14,7 @@ latitudeLongitude = ["34.00504727","-84.57603663"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "SBSPJF_CEC_KENNESAWGA.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese's Limited Edition Super Chuck Plush (2005)"
 draft = false
 tags = ["In-Store Merchandise"]
@@ -7,6 +8,7 @@ startDate = "2005-00-00"
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445","CEC Tinley"]
 citations = ["https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-07.pdf","https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-08.pdf",""]
+pageThumbnailFile = "i5gOrcLsaFWSLXd9IJ2R.avif"
 +++
 The ***Chuck E. Cheese's Limited Edition Super Chuck Plush* was an official product produced for the prize counter in *2005* during the 'Super Chuck Summer' promotion.**
 

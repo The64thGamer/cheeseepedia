@@ -1,21 +1,16 @@
 #!/usr/bin/env python3
 """
-build_tag_map.py
+build_tag_map.py (media-last variant)
 
-Build a tag map for a Hugo site:
-
-- Extract tags from frontmatter 'tags' and 'categories', page title, pages param, and wiki-link shortcodes in body.
-- If a page's frontmatter tags include any of the media tags (Photos, Videos, Transcriptions, Reviews),
-  the page title will NOT be added as a tag.
-- Apply recursive tag inference using data/tag_infer.json (if present).
-- Output:
-    data/tags/tags_by_page.json   -> { "content/wiki/some-page.md": ["Tag A", "Tag B", ...], ... }
-    data/tags/pages_by_tag.json   -> { "Tag A": [ {"path":"content/wiki/..","title":"..."}, ... ], ... }
-    data/tags/tag_counts.json     -> { "Tag A": 12, ... }
-
-Usage:
-  import and call run() from your pipeline (preferred),
-  or run this file directly.
+Behavior changes vs previous version:
+ - Process non-media content first (everything except content/{photos,videos,transcriptions,reviews})
+ - Write the initial tags JSONs after that first pass (pregenerated tags available)
+ - Then process media folders (photos, videos, transcriptions, reviews) last.
+   For each media page, read its 'pages' param (an array of page titles/identifiers),
+   find the matching pregenerated page key, pull that page's pregenerated tags,
+   and add those tags onto the media page before final inference.
+ - Finally write the final JSON outputs (overwriting the earlier ones).
+ - Logs extensively which pages were matched and what tags were merged.
 """
 from __future__ import annotations
 import os
@@ -24,7 +19,7 @@ import sys
 import json
 import unicodedata
 from pathlib import Path
-from collections import defaultdict, OrderedDict
+from collections import defaultdict
 
 # try tomllib (py3.11+) or tomli; yaml optional
 try:
@@ -43,7 +38,17 @@ except Exception:
 # ---- Config (change if needed) ----
 BASE_CONTENT_DIR = "content"
 OUT_DIR = "static/data/tags"
+OUT_DIR_COPY = "data/tags"
 INFER_DEFAULT = "scripts/cep_tag_inference.json"   # user-provided inference file (optional)
+
+# Media folders which should be processed last and whose pages should
+# inherit tags from referenced pages in their 'pages' frontmatter.
+MEDIA_DIRS = (
+    os.path.join("content", "photos"),
+    os.path.join("content", "videos"),
+    os.path.join("content", "transcriptions"),
+    os.path.join("content", "reviews"),
+)
 # ------------------------------------
 
 # Regexes to find wiki-link shortcode occurrences.
@@ -58,7 +63,22 @@ WIKI_LINK_RE = re.compile(r"""
     [^>]*>?\s*\}\}
 """, re.IGNORECASE | re.VERBOSE)
 
-# Frontmatter splitting: TOML +++...+++ or YAML ---...---
+# ---------------- utility helpers ----------------
+
+def is_in_media_dir(path_str: str) -> bool:
+    p = Path(path_str).resolve()
+    for md in MEDIA_DIRS:
+        # compare resolved suffix (works also if media dir doesn't exist)
+        try:
+            if str(p).startswith(str(Path(md).resolve())):
+                return True
+        except Exception:
+            # fallback: simpler substring check
+            if md in str(path_str):
+                return True
+    return False
+
+# Frontmatter parsing (Toml +++ or YAML ---)
 def read_frontmatter(path: str):
     b = Path(path).read_bytes()
     try:
@@ -95,15 +115,31 @@ def read_frontmatter(path: str):
             else:
                 fm = {"__raw": fm_text}
             return fm, body
-    # no frontmatter
+    # no frontmatter -> empty fm, full text as body
     return {}, txt
 
+# Normalize/canonicalization helpers (same as before)
+RE_NON_URL = re.compile(r"[^\w\-]+", re.UNICODE)
+RE_DASHES = re.compile(r"-{2,}")
+
+def hugo_slugify(s: str) -> str:
+    if not s:
+        return ""
+    s = s.strip().lower()
+    s = s.replace(" ", "-")
+    s = RE_NON_URL.sub("-", s)
+    s = RE_DASHES.sub("-", s)
+    return s.strip("-")
+
+def sanitize_page_path(path: str) -> str:
+    path = path.replace(os.sep, "/")
+    path = re.sub(r"\.(md|markdown|mdown)$", "", path, flags=re.IGNORECASE)
+    segments = path.split("/")
+    sanitized = [hugo_slugify(seg) for seg in segments if seg]
+    return "/".join(sanitized)
+
+# tag normalization
 def normalize_tag_preserve_case(tag: str, canonical_map: dict):
-    """
-    Normalize whitespace/trimming; dedupe case-insensitively using canonical_map.
-    canonical_map: lowercase -> canonical-cased tag
-    Returns canonical-cased tag string (adds to canonical_map if new).
-    """
     if tag is None:
         return None
     t = str(tag).strip()
@@ -115,18 +151,10 @@ def normalize_tag_preserve_case(tag: str, canonical_map: dict):
     canonical_map[key] = t
     return t
 
+# parse/collect tag-like fields (with pipe handling)
 def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
-    """
-    Extract tags/categories/pages from frontmatter.
-    Returns a list (may have duplicates — caller dedupes).
-
-    NEW: For the parameter fields that can contain 'pipe' metadata
-    (remodels, stages, animatronics, franchisees, attractions), only
-    the left-most part before the first '|' is used as the tag.
-    """
     tags = []
 
-    # Helper: push a raw value (string) into tags after normalization
     def _push_raw_val(val):
         if val is None:
             return
@@ -137,21 +165,17 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
         if n:
             tags.append(n)
 
-    # Helper: handle list-or-string values defensively
     def _iter_values(raw):
         if raw is None:
             return []
         if isinstance(raw, (list, tuple)):
             return list(raw)
-        # if it's a string, treat it as either a single tag or comma-separated list
         if isinstance(raw, str):
-            # treat semicolons/commas as separators for defensive parsing
             parts = re.split(r"[;,]", raw)
             return [p for p in (p.strip() for p in parts) if p]
-        # fallback: coerce
         return [str(raw)]
 
-    # --- tags ---
+    # tags and categories (as before)
     for key in ("tags", "Tags"):
         if key in fm and fm[key]:
             raw = fm[key]
@@ -169,7 +193,6 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                         if n:
                             tags.append(n)
 
-    # --- categories ---
     for key in ("categories", "Categories"):
         if key in fm and fm[key]:
             raw = fm[key]
@@ -187,7 +210,7 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                         if n:
                             tags.append(n)
 
-    # --- pages param (treat like tags) ---
+    # pages param treated like tags
     for key in ("pages", "Pages"):
         if key in fm and fm[key]:
             raw = fm[key]
@@ -197,7 +220,6 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                     if n:
                         tags.append(n)
             elif isinstance(raw, str):
-                # pages usually single items but handle comma-separated defensively
                 parts = re.split(r"[;,]", raw)
                 for p in parts:
                     p = p.strip()
@@ -206,7 +228,7 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                         if n:
                             tags.append(n)
 
-    # --- NEW: handle pipe-delimited parameter fields (take first part before '|') ---
+    # handle pipe-delimited parameter fields (take first piece)
     special_params = [
         ("remodels", "Remodels"),
         ("stages", "Stages"),
@@ -221,7 +243,6 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                 for val in _iter_values(raw):
                     if not val:
                         continue
-                    # take left-most piece before first pipe
                     first_piece = str(val).split("|", 1)[0].strip()
                     if first_piece:
                         _push_raw_val(first_piece)
@@ -249,10 +270,9 @@ def collect_content_files(base_dir=BASE_CONTENT_DIR):
     for ext in ("*.md", "*.markdown", "*.mdown"):
         for f in p.rglob(ext):
             out.append(str(f))
-    out = sorted(set(out))
-    return out
+    return sorted(set(out))
 
-# ---- Tag inference (transitive closure) ----
+# inference functions (unchanged)
 def load_infer_map(path=INFER_DEFAULT):
     p = Path(path)
     if not p.exists():
@@ -281,7 +301,6 @@ def compute_transitive_inference_map(infer_map_raw):
 
     closure = {}
     for node in adj.keys():
-        # BFS/DFS for transitive closure with cycle safety
         seen = set()
         stack = list(adj.get(node, []))
         result = set()
@@ -303,7 +322,6 @@ def expand_tags_with_inference(tags_in: list, infer_closure: dict, canonical_map
     out_set = set()
     for t in tags_in:
         out_set.add(t)
-    # lowercase map for infer_closure lookup
     lower_to_key = {k.lower(): k for k in infer_closure.keys()}
     changed = True
     while changed:
@@ -321,13 +339,7 @@ def expand_tags_with_inference(tags_in: list, infer_closure: dict, canonical_map
     out = sorted(out_set, key=lambda s: s.lower())
     return out
 
-# ----------------- Path slugification (Hugo-like) -----------------
-# Approximate Hugo slugification for page paths:
-#  - Unicode NFKD decomposition + remove combining marks
-#  - Replace whitespace/punctuation with hyphens
-#  - Collapse multiple hyphens, trim leading/trailing hyphens
-#  - Lowercase
-# Preserve segments beginning with '_' (e.g. _index)
+# slugification for page path normalization (Hugo-like)
 _re_non_alnum = re.compile(r"[^a-z0-9\-]+", re.IGNORECASE)
 _re_hyphens = re.compile(r"-{2,}")
 
@@ -344,13 +356,6 @@ def slugify_segment(s: str) -> str:
     return s
 
 def normalize_page_path(path: str):
-    """
-    Convert 'content/foo/bar.md' -> 'foo/bar' and slugify segments:
-     - remove BASE_CONTENT_DIR prefix
-     - remove extension
-     - split path segments and slugify each (except segments starting with '_')
-     - return joined path (no leading slash)
-    """
     if not path:
         return ""
     rel = os.path.relpath(path).replace(os.sep, "/")
@@ -368,10 +373,68 @@ def normalize_page_path(path: str):
             out_parts.append(slugify_segment(seg))
     return "/".join(out_parts)
 
-# ---- Main builder ----
+# --- matching helpers to map a 'pages' string to pregenerated page key ---
+_nonword_re = re.compile(r"[^\w\s]", flags=re.UNICODE)
+_multispace_re = re.compile(r"\s+")
+
+def normalize_text_for_match(s: str) -> str:
+    if s is None:
+        return ""
+    s = str(s).strip().lower()
+    s = _nonword_re.sub(" ", s)
+    s = _multispace_re.sub(" ", s)
+    return s.strip()
+
+def find_key_by_title_or_normalized(title: str, title_to_key_map: dict, tags_by_page_keys_norm: dict):
+    """
+    Try:
+     1) exact title match (case-preserving map)
+     2) case-insensitive title match
+     3) normalized-title match (punctuation removed, collapsed spaces)
+     4) fallback: try checking normalized page keys (if title looks like a path)
+    Returns matched key or None.
+    """
+    if not title:
+        return None
+    t = title.strip()
+    # 1) exact (title_to_key_map may hold exact)
+    if t in title_to_key_map:
+        return title_to_key_map[t]
+    # 2) ci
+    tl = t.lower()
+    for ktitle, key in title_to_key_map.items():
+        if ktitle.lower() == tl:
+            return key
+    # 3) normalized
+    nt = normalize_text_for_match(t)
+    if nt:
+        for ktitle, key in title_to_key_map.items():
+            if normalize_text_for_match(ktitle) == nt:
+                return key
+    # 4) maybe input already looks like a page key or path, try to normalize and compare with tags_by_page keys
+    candidate = t.replace("\\", "/").lstrip("/")
+    candidate = re.sub(r"\.(md|markdown|mdown)$", "", candidate, flags=re.IGNORECASE)
+    candidate = "/".join([slugify_segment(p) for p in candidate.split("/") if p])
+    if candidate and candidate in tags_by_page_keys_norm:
+        return candidate
+    return None
+
+# ---------------- Main builder (split phases) ----------------
 def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_DEFAULT):
     files = collect_content_files(base_dir)
     print(f"[INFO] scanning {len(files)} files under {base_dir}")
+
+    # split files into normal vs media
+    normal_files = []
+    media_files = []
+    for f in files:
+        # if path starts with any MEDIA_DIR, treat as media
+        if is_in_media_dir(f):
+            media_files.append(f)
+        else:
+            normal_files.append(f)
+
+    print(f"[INFO] normal files: {len(normal_files)}, media files (deferred): {len(media_files)}")
 
     canonical_map = {}  # lower -> canonical-case first seen
     tags_by_page = {}   # page_path -> list of tags (before inference)
@@ -379,8 +442,8 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
 
     MEDIA_TAGS_LOWER = {"photos", "videos", "transcriptions", "reviews"}
 
-    # scan pages
-    for f in files:
+    # === Phase 1: process normal files ===
+    for f in normal_files:
         try:
             fm, body = read_frontmatter(f)
         except Exception as e:
@@ -389,15 +452,12 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
 
         title = fm.get("title") or fm.get("Title") or Path(f).stem
 
-        # collect tags/categories/pages
         raw_tags = extract_tags_from_frontmatter(fm, canonical_map)
 
-        # wiki-link targets from body
         wikilinks = extract_wikilinks_from_body(body, canonical_map)
         raw_tags.extend(wikilinks)
 
-        # Determine whether to add title as a tag:
-        # If any frontmatter tag is a media tag, DO NOT include title.
+        # skip adding title for media-tagged pages (not relevant in normal phase)
         has_media_tag = False
         for key in ("tags", "Tags"):
             if key in fm and fm[key]:
@@ -416,13 +476,12 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             if has_media_tag:
                 break
 
-        # Only add title if there is NO media tag
         if not has_media_tag:
             t_title = normalize_tag_preserve_case(str(title), canonical_map)
             if t_title:
                 raw_tags.append(t_title)
 
-        # --- add startDate year as a tag (Unknown Year for 0000) ---
+        # year tag
         startDate = fm.get("startDate") or fm.get("StartDate") or ""
         year_tag = "Unknown Year"
         if startDate and startDate != "0000-00-00":
@@ -432,9 +491,8 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
         t_year = normalize_tag_preserve_case(year_tag, canonical_map)
         if t_year:
             raw_tags.append(t_year)
-        # --- end year tag ---
 
-        # dedupe case-insensitively while preserving canonical_case
+        # dedupe case-insensitively preserving canonical
         seen = set()
         final_tags = []
         for t in raw_tags:
@@ -450,13 +508,12 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
         tags_by_page[relpath] = final_tags
         pages_meta[relpath] = {"title": str(title), "path": relpath}
 
-    # load infer map and compute closure
+    # ==== After normal files: compute inference closure and expand, then write initial JSONs ====
     infer_raw = load_infer_map(infer_file)
-    if not infer_raw:
-        infer_closure = {}
-    else:
-        infer_closure = compute_transitive_inference_map(infer_raw)
-        # normalize infer_closure keys/values to canonical casing when possible
+    infer_closure = compute_transitive_inference_map(infer_raw) if infer_raw else {}
+
+    # normalize infer_closure to canonical casing when possible
+    if infer_closure:
         norm_closure = {}
         for k, vals in infer_closure.items():
             kc = canonical_map.get(k.lower(), k)
@@ -465,7 +522,163 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
         infer_closure = norm_closure
         print(f"[INFO] loaded inference map ({len(infer_closure)} keys)")
 
-    # expand tags for each page using inference
+    # Expand tags for normal pages now (pregenerated)
+    tags_by_page_expanded = {}
+    pages_by_tag = defaultdict(list)
+    for path, tags in tags_by_page.items():
+        expanded = expand_tags_with_inference(tags, infer_closure, canonical_map)
+        tags_by_page_expanded[path] = expanded
+        for t in expanded:
+            pages_by_tag[t].append({"path": path, "title": pages_meta[path]["title"]})
+
+    # dedupe pages_by_tag
+    pages_by_tag_sorted = {}
+    for tag, arr in pages_by_tag.items():
+        seenp = set()
+        uniq = []
+        for o in arr:
+            if o["path"] in seenp:
+                continue
+            seenp.add(o["path"])
+            uniq.append(o)
+        uniq.sort(key=lambda x: (x["title"].lower(), x["path"]))
+        pages_by_tag_sorted[tag] = uniq
+
+    tag_counts = {tag: len(arr) for tag, arr in pages_by_tag_sorted.items()}
+
+    # write initial pregenerated JSONs (so we can read them when processing media files)
+    os.makedirs(out_dir, exist_ok=True)
+    os.makedirs(OUT_DIR_COPY, exist_ok=True)
+    with open(os.path.join(out_dir, "tags_by_page.json"), "w", encoding="utf-8") as fh:
+        json.dump(tags_by_page_expanded, fh, indent=2, ensure_ascii=False)
+    with open(os.path.join(OUT_DIR_COPY, "tags_by_page.json"), "w", encoding="utf-8") as fh:
+        json.dump(tags_by_page_expanded, fh, indent=2, ensure_ascii=False)
+    with open(os.path.join(out_dir, "pages_by_tag.json"), "w", encoding="utf-8") as fh:
+        json.dump(pages_by_tag_sorted, fh, indent=2, ensure_ascii=False)
+    with open(os.path.join(out_dir, "tag_counts.json"), "w", encoding="utf-8") as fh:
+        json.dump(tag_counts, fh, indent=2, ensure_ascii=False)
+
+    print(f"[INFO] wrote initial outputs in {out_dir}: {len(tags_by_page_expanded)} pages, {len(pages_by_tag_sorted)} tags (normal pages only)")
+
+    # build helper maps for lookup by title
+    title_to_key_map = {}
+    for key, meta in pages_meta.items():
+        t = meta.get("title", "")
+        if t:
+            title_to_key_map[t] = key
+
+    # Also build a normalized-keys dict for matching candidate path-like inputs
+    tags_by_page_keys_norm = {k: normalize_text_for_match(k) for k in tags_by_page_expanded.keys()}
+
+    # ==== Phase 2: process media files (deferred) ====
+    # We'll extend tags_by_page (and pages_meta) with media file entries.
+    for f in media_files:
+        try:
+            fm, body = read_frontmatter(f)
+        except Exception as e:
+            print(f"[WARN] failed to read {f}: {e}", file=sys.stderr)
+            fm, body = {}, ""
+
+        title = fm.get("title") or fm.get("Title") or Path(f).stem
+
+        raw_tags = extract_tags_from_frontmatter(fm, canonical_map)
+        wikilinks = extract_wikilinks_from_body(body, canonical_map)
+        raw_tags.extend(wikilinks)
+
+        # media pages normally have media tags — determine and do not add title as tag
+        has_media_tag = False
+        for key in ("tags", "Tags"):
+            if key in fm and fm[key]:
+                raw = fm[key]
+                if isinstance(raw, (list, tuple)):
+                    for v in raw:
+                        if isinstance(v, str) and v.strip().lower() in MEDIA_TAGS_LOWER:
+                            has_media_tag = True
+                            break
+                elif isinstance(raw, str):
+                    parts = re.split(r"[;,]", raw)
+                    for p in parts:
+                        if p.strip().lower() in MEDIA_TAGS_LOWER:
+                            has_media_tag = True
+                            break
+            if has_media_tag:
+                break
+
+        if not has_media_tag:
+            tt = normalize_tag_preserve_case(str(title), canonical_map)
+            if tt:
+                raw_tags.append(tt)
+
+        # year tag for media too
+        startDate = fm.get("startDate") or fm.get("StartDate") or ""
+        year_tag = "Unknown Year"
+        if startDate and startDate != "0000-00-00":
+            parts = startDate.split("-")
+            if parts and len(parts) >= 1 and parts[0].isdigit() and parts[0] != "0000":
+                year_tag = parts[0]
+        t_year = normalize_tag_preserve_case(year_tag, canonical_map)
+        if t_year:
+            raw_tags.append(t_year)
+
+        # --- NEW: inherit tags from pages referenced in this media page ---
+        pages_field = fm.get("pages") or fm.get("Pages") or []
+        if isinstance(pages_field, str):
+            # defensive parse like earlier behavior
+            pages_field = [p.strip() for p in re.split(r"[;,]", pages_field) if p.strip()]
+
+        inherited_tags = []
+        for page_ref in (pages_field or []):
+            if not page_ref:
+                continue
+            # Try to find the pregenerated page key matching this page_ref
+            matched_key = find_key_by_title_or_normalized(str(page_ref), title_to_key_map, tags_by_page_keys_norm)
+            if matched_key:
+                # pull pregenerated tags for that key
+                pulled = tags_by_page_expanded.get(matched_key, [])
+                if pulled:
+                    inherited_tags.extend(pulled)
+
+        # append inherited tags to raw_tags (they are canonical-case strings already)
+        raw_tags.extend(inherited_tags)
+
+        # dedupe and preserve canonical casing (update canonical_map for any new tags)
+        seen = set()
+        final_tags = []
+        for t in raw_tags:
+            if not t:
+                continue
+            # if it's not canonical yet, add to canonical_map
+            canon = normalize_tag_preserve_case(str(t), canonical_map)
+            lk = canon.lower()
+            if lk in seen:
+                continue
+            seen.add(lk)
+            final_tags.append(canonical_map.get(lk, canon))
+
+        # update in-memory maps
+        relpath = normalize_page_path(f)
+        tags_by_page[relpath] = final_tags
+        pages_meta[relpath] = {"title": str(title), "path": relpath}
+
+        # also update title->key map for subsequent lookups (media pages could be referenced by later media)
+        if title:
+            title_to_key_map[title] = relpath
+
+    # ==== After media pass: re-run inference expansion and produce final JSON outputs ====
+    # Recompute infer_closure normalized to canonical_map (in case canonical_map got new entries)
+    infer_raw = load_infer_map(infer_file)
+    if not infer_raw:
+        infer_closure = {}
+    else:
+        infer_closure = compute_transitive_inference_map(infer_raw)
+        norm_closure = {}
+        for k, vals in infer_closure.items():
+            kc = canonical_map.get(k.lower(), k)
+            norm_vals = [canonical_map.get(v.lower(), v) for v in vals]
+            norm_closure[kc] = norm_vals
+        infer_closure = norm_closure
+
+    # Expand tags for all pages (including media) using final canonical_map and infer_closure
     tags_by_page_expanded = {}
     pages_by_tag = defaultdict(list)
     for path, tags in tags_by_page.items():
@@ -490,16 +703,17 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
     # counts
     tag_counts = {tag: len(arr) for tag, arr in pages_by_tag_sorted.items()}
 
-    # write outputs
-    os.makedirs(out_dir, exist_ok=True)
+    # write final outputs (overwrite)
     with open(os.path.join(out_dir, "tags_by_page.json"), "w", encoding="utf-8") as fh:
+        json.dump(tags_by_page_expanded, fh, indent=2, ensure_ascii=False)
+    with open(os.path.join(OUT_DIR_COPY, "tags_by_page.json"), "w", encoding="utf-8") as fh:
         json.dump(tags_by_page_expanded, fh, indent=2, ensure_ascii=False)
     with open(os.path.join(out_dir, "pages_by_tag.json"), "w", encoding="utf-8") as fh:
         json.dump(pages_by_tag_sorted, fh, indent=2, ensure_ascii=False)
     with open(os.path.join(out_dir, "tag_counts.json"), "w", encoding="utf-8") as fh:
         json.dump(tag_counts, fh, indent=2, ensure_ascii=False)
 
-    print(f"[INFO] wrote outputs in {out_dir}: {len(tags_by_page_expanded)} pages, {len(pages_by_tag_sorted)} tags")
+    print(f"[INFO] wrote final outputs in {out_dir}: {len(tags_by_page_expanded)} pages, {len(pages_by_tag_sorted)} tags (including media pages)")
 
     return tags_by_page_expanded, pages_by_tag_sorted, tag_counts
 

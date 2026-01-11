@@ -1,4 +1,5 @@
 +++
+
 title = "Arlington, TX (2216 S Fielder Rd)"
 storeNumber = ""
 startDate = "1980-10-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["32.70600557", "-97.13506548"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "KfMBM7YPRjHLGXCWST5p.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

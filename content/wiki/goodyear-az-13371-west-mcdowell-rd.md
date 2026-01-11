@@ -1,4 +1,5 @@
 +++
+
 title = "Goodyear, AZ (13371 West McDowell Rd)"
 storeNumber = ""
 startDate = "2009-11-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["33.46042802","-112.348071"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "jaIVuI3dy0iAg7L_QPdi.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

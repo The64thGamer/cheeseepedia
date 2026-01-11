@@ -1,4 +1,5 @@
 +++
+
 title = "Sunnyvale, CA (1213 Innsbruck Drive)"
 storeNumber = ""
 startDate = "1980-05-00"
@@ -16,5 +17,6 @@ downloadLinks = []
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
+pageThumbnailFile = "VKhiaHChGEf69tMTXeyO.avif"
 +++
 ***Sunnyvale, CA (1213 Innsbruck Drive)*** was the Pizza Time Theatre main offices from May of 1980 to an unknown date. {{< cite 1 >}}

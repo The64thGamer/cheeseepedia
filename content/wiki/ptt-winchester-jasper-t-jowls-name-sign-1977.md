@@ -1,4 +1,5 @@
 +++
+
 title = "PTT Winchester Jasper T. Jowls Name Sign (1977)"
 draft = false
 tags = ["Store Fixtures"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["Concordio"]
 citations = []
+pageThumbnailFile = "gpDkRA0bXOFM2a5sNk83.avif"
 +++
 The ***Winchester Jasper T. Jowls Nameplate* was only used at the first Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} located in the Town & Country Shopping Center in San Jose, California; for the purpose of identifying the {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}} animatronic from 1977 to presumably 1981.**
 

@@ -1,4 +1,5 @@
 +++
+
 title = "Biphase Mark Code"
 draft = false
 tags = ["Showtape Formats"]
@@ -7,8 +8,8 @@ startDate = ""
 endDate = ""
 contributors = ["BattleXGamer"]
 citations = []
+pageThumbnailFile = "awVqy2v96FRN_hUbSABO.avif"
 +++
-
 ### History
 
 The History behind why Biphase Mark Code was made is pretty simple, Biphase mark coding (BMC) was developed to address a difficulty in traditional digital signals. Like a traditional digital signal, one bit is transmitted for each clock cycle. Unlike a traditional digital signal, between each bit a transition in polarity (from high to low or low to high) occurs. In order to transmit a "1" value, a transition also occurs after half a clock cycle (a clock cycle can also be referred to as a cell). This fixed the issue of clock rates being out of sync between the transmitter and receiver.

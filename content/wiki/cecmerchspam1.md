@@ -1,7 +1,7 @@
 +++
 title = "Green Floppy Chuck E."
 draft = false
-tags = ["Products"]
+tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "t1r9zokhtco4v8ca.avif"
 startDate = "2011-00-00"

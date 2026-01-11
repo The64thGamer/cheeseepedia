@@ -1,4 +1,5 @@
 +++
+
 title = "Cincinnati, OH (9712 Colerain Ave)"
 storeNumber = ""
 startDate = "1982-07-00"
@@ -14,7 +15,7 @@ latitudeLongitude = ["39.24633332","-84.59723658"]
 citations = ["https://www.newspapers.com/article/the-cincinnati-enquirer-cinci-colerain-p/39076663/","https://www.newspapers.com/article/the-cincinnati-enquirer-colerain-ptt-ope/187475244/","Source has currently been lost, was previously closing article.","https://www.newspapers.com/article/the-cincinnati-enquirer/52398085/","https://www.newspapers.com/image/101612220/","https://www.newspapers.com/article/dayton-daily-news-former-colerain-ptt-de/187476458/"]
 contributors = ["CyberSnout"]
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "K0ql2KbQk252wzzPEtCL.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

@@ -1,4 +1,5 @@
 +++
+
 title = "Fatz Showtape (Uncle Klunk Install 2 Stg)"
 draft = false
 tags = ["Showtapes"]
@@ -8,6 +9,7 @@ endDate = "1983-11-24"
 contributors = ["The 64th Gamer"]
 citations = []
 showtapeFormats = ["CEI 4-Track Reel"]
+pageThumbnailFile = "134t45wyh4w6u45.avif"
 +++
 ***Fatz Showtape* (aka ***Klunk Installation Tape*, not to be confused by the similar {{< wiki-link "SPP Uncle Klunk Installation (1983)" >}} and {{< wiki-link "SPP Uncle Klunk Pre-Installation (1983)" >}} tapes) is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in July of 1983 that were participating in {{< wiki-link "The Amazing Uncle Klunk Traveling Show (Event)" >}}. It would later release to all stores for the {{< wiki-link "ShowBiz's Fabulous Fall Festival (Event)" >}} on September 5th, where it would play every Monday night from 5pm to closing until November 24th, 1983.****
 

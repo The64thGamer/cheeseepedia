@@ -1,4 +1,5 @@
 +++
+
 title = "Scottsdale, AZ (8890 E Indian Bend Rd)"
 storeNumber = ""
 startDate = "1999-09-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["33.53680687","-111.8880555"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "_0zOCSFt5J2wSSn75Hxk.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

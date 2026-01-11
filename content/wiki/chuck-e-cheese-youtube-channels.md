@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese YouTube Channels"
 draft = false
 tags = ["Social Media and Websites"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","CECBowlingGreen","Rexburg090","ChuckEPediaIsTheBest!"]
 citations = []
+pageThumbnailFile = "N1Waw3nfCMXAsu5utyjo.avif"
 +++
 For a list on all videos uploaded to the channels, go to this page. :Category:Chuck E. Cheese's Official YouTube Videos|Category:Chuck E. Cheese's Official YouTube Videos.
 The **Chuck E. Cheese Youtube Channel** is the account hosted on the *YouTube* video sharing platform, under just [Chuck E. Cheese](https://www.youtube.com/c/chuckecheese).

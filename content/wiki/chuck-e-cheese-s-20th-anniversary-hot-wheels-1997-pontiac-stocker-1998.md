@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese's 20th Anniversary Hot Wheels 1997 Pontiac Stocker (1998)"
 draft = false
 tags = ["In-Store Merchandise"]
@@ -7,6 +8,7 @@ startDate = "1998-00-00"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","BurgersNuggs445","CEC Tinley"]
 citations = []
+pageThumbnailFile = "9w3OMfkKIfiHJgpXLq7G.avif"
 +++
 The **Chuck E. Cheese's 20th Anniversary Hot Wheels 1997 Pontiac Stocker is** a Hot Wheels car made exclusively for Chuck E. Cheese locations in 1997-1998. These were sold in the prize counter. These were also sold because of CEC's 20th anniversary, which was in 1997.
 

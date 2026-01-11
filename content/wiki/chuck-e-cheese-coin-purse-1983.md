@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese Coin Purse (1983)"
 draft = false
 tags = ["In-Store Merchandise"]
@@ -7,4 +8,5 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["CEC Tinley"]
 citations = []
+pageThumbnailFile = "82kKbosnKtkLIA39YYcK.avif"
 +++

@@ -1,4 +1,5 @@
 +++
+
 title = "CEC Dreams/Kids Showtape"
 draft = false
 tags = ["Showtapes"]
@@ -7,4 +8,5 @@ startDate = "1989-07-00"
 endDate = "1989-08-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "Updated_Reel_Cover.avif"
 +++

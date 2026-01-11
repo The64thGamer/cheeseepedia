@@ -1,4 +1,5 @@
 +++
+
 title = "Flushing, NY (40-24 College Point Blvd)"
 storeNumber = ""
 startDate = "2010-12-28"
@@ -13,7 +14,7 @@ latitudeLongitude = ["40.75627607","-73.83686288"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "2kl_kuJO0KBWmUQ7YBm2.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

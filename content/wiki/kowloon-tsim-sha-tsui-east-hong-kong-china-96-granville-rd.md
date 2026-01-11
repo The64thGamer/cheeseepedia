@@ -1,4 +1,5 @@
 +++
+
 title = "Kowloon, Hong Kong, China"
 storeNumber = ""
 startDate = "1982-12-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["22.29820947","114.175802"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "KOWLOON2.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

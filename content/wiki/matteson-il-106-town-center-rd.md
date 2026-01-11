@@ -1,4 +1,5 @@
 +++
+
 title = "Matteson, IL (106 Town Center Rd)"
 storeNumber = ""
 startDate = "1983-05-23"
@@ -13,7 +14,7 @@ latitudeLongitude = ["41.50345172","-87.73742633"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "wyELLBLbOpefUoQkXEkH.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

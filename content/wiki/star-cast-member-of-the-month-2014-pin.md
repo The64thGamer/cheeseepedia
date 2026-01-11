@@ -1,4 +1,5 @@
 +++
+
 title = "Star Cast Member of the Month 2014 Pin"
 draft = false
 tags = ["Employee Wear"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "Klsw6wzjuzX8fOeoFA4f.avif"
 +++
 The ***Star Cast Member of the Month 2014 Pin* was given to CEC employees for their contributions in the store, to be worn on their lanyard.**
 

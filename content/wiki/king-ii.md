@@ -1,9 +1,10 @@
 +++
+
 draft = false
 title = "King II"
 startDate = "1983-04-24"
 endDate = "0000-00-00"
-pageThumbnailFile = ""
+pageThumbnailFile = "982h4iuhn4g4g.avif"
 contributors = ["The 64th Gamer", "Luigigamin212"]
 citations = ["Showtape Image"]
 showtapeFormats = ["Cyberamics Reel"]

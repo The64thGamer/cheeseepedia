@@ -1,7 +1,7 @@
 +++
 title = "Purple Floppy Chuck E."
 draft = false
-tags = ["Products"]
+tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "ly8fwdaj29aaqgdk.avif"
 startDate = "2011-00-00"

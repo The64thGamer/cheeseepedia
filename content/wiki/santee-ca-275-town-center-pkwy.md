@@ -1,4 +1,5 @@
 +++
+
 title = "Santee, CA (265 Town Center Pkwy)"
 storeNumber = ""
 startDate = "2023-09-18"
@@ -13,7 +14,7 @@ latitudeLongitude = ["32.84114272","-116.9865602"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "Santee_ca_7_3_2023_n1.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

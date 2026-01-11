@@ -1,4 +1,5 @@
 +++
+
 title = "Louisville, KY (5000 Shelbyville Rd)"
 storeNumber = ""
 startDate = "1983-12-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["38.2450893","-85.6259132"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "0u85tyrY7etoHYS1janC.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

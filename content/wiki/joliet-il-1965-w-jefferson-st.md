@@ -1,4 +1,5 @@
 +++
+
 title = "Joliet, IL (1965 W Jefferson St)"
 storeNumber = ""
 startDate = "1983-07-13"
@@ -13,7 +14,7 @@ latitudeLongitude = ["41.52122432","-88.12775883"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "K4HtaY29SVPIsIrLB1RW.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

@@ -1,4 +1,5 @@
 +++
+
 title = "Middleburg Heights, OH (6920 W 130th St)"
 storeNumber = ""
 startDate = "1981-05-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["41.37283617", "-81.78675578"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "CV7UatCu6dLZTAYa6s89.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

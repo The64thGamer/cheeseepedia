@@ -1,4 +1,5 @@
 +++
+
 title = "Southington, CT (774 Queen St)"
 storeNumber = ""
 startDate = "1983-06-15"
@@ -13,7 +14,7 @@ latitudeLongitude = ["41.63422572","-72.87626833"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "9dWIF5TzF6xAoXoU8yws.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

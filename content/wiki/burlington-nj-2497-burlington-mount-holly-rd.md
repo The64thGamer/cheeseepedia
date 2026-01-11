@@ -1,4 +1,5 @@
 +++
+
 title = "Burlington, NJ (2497 Burlington-Mount Holly Rd)"
 storeNumber = ""
 startDate = "2002-01-31"
@@ -13,7 +14,7 @@ latitudeLongitude = ["40.03831892","-74.82947068"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "4IUG7bdoPNjUOAEellzK.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

@@ -1,4 +1,5 @@
 +++
+
 title = "Magic Night"
 draft = false
 tags = ["Showtapes"]
@@ -9,6 +10,7 @@ contributors = ["The 64th Gamer"]
 citations = ["http://www.showbizpizza.com/review/rae/1984_magic.html"]
 showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = ["CREATIVE ENGINEERING MMST0113-10484 MAGIC SHOWTAPE LOW SPEED TAILWOUND 100484","CREATIVE ENGINEERING MAGIC SHOWTAPE WITH MICHAEL JACKSON MEDLEY 022284"]
+pageThumbnailFile = "67ytjrtg56y5683567854.avif"
 +++
 ***Magic Night*** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations from February to April of 1984, with a rerelease happening in October of 1984.
 

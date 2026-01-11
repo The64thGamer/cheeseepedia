@@ -1,4 +1,5 @@
 +++
+
 title = "Pianocorder Data Format"
 draft = false
 tags = ["Showtape Formats"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["BattleXGamer","Himitsu","The 64th Gamer"]
 citations = []
+pageThumbnailFile = "l_PiX44pHeOJSvMmvEa2.avif"
 +++
 The **Pianocorder Data Format** defines the format of Pianocorder serial data frames. This subsequently defines the base frame format as used in the {{< wiki-link "Rock-afire Explosion Control System" >}}, as the data decoding in the control system is handled by original Pianocorder playback boards.
 In contrast with the original Pianocorder which only used one channel of data, the Rock-afire Explosion Control System uses two channels, decoded entirely independently. The only difference between the channels is the assignment of data bit to controlled show element.

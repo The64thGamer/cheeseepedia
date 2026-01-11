@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese Pencil Pouch (1991)"
 draft = false
 tags = ["In-Store Merchandise"]
@@ -7,6 +8,7 @@ startDate = "1991-00-00"
 endDate = "0000-00-00"
 contributors = ["CEC Tinley","The 64th Gamer"]
 citations = []
+pageThumbnailFile = "ScseV48Dg8gt2GYHMxQw.avif"
 +++
 The ***Chuck E. Cheese Pencil Pouch* was a prize counter item released in 1991.**
 

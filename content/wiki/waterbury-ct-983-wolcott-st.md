@@ -1,4 +1,5 @@
 +++
+
 title = "Waterbury, CT (983 Wolcott St)"
 storeNumber = ""
 startDate = "1982-04-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["41.56719462","-73.00999973"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "id_7qXnLMbzUrCdb_LrW.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

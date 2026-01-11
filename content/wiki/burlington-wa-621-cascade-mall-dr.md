@@ -1,4 +1,5 @@
 +++
+
 title = "Burlington, WA (621 Cascade Mall Dr)"
 storeNumber = ""
 startDate = "2002-10-16"
@@ -13,7 +14,7 @@ latitudeLongitude = ["48.4611284","-122.3394611"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "z58bdfx785bppgko.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

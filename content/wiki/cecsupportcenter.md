@@ -1,4 +1,5 @@
 +++
+
 title = "Irving, TX (1707 Market Pl Blvd 200)"
 storeNumber = ""
 startDate = "2015-07-00"
@@ -13,12 +14,11 @@ latitudeLongitude = ["32.920617","-96.969959"]
 citations = []
 contributors = ["The 64th Gamer"]
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "Boig0fjJ8j51Gv4AhiGx.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false
 +++
-
 The ***Chuck E. Cheese's Corporate Office***, Irving, TX (1707 Market Pl Blvd 200), is the current headquarters used by CEC Entertainment and the CEC Support Center. They moved into the building in July 2015, after moving from the old {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
 
 ## Animatronics
