@@ -50,7 +50,7 @@ categories = ["Chuck E. Cheese's"]
    4. CEC TV Classic ID
 6. **Segment 3**
    1. 'Dem Bones'
-   2. 'Muncho Man'
+   2. 'Muncho Man' (parody of ['Macho Man'](https://en.wikipedia.org/wiki/Macho_Man_(song)))
 7. **Intermission 4**
    1. CEC TV Special Intro
    2. Helen Henny's Hollywood - 'Arnold Schwarzenegger'
@@ -85,7 +85,7 @@ categories = ["Chuck E. Cheese's"]
     4. CEC TV Classic ID
 12. **Segment 3**
     1. 'Dem Bones'
-    2. 'Muncho Man'
+    2. 'Muncho Man' (parody of ['Macho Man'](https://en.wikipedia.org/wiki/Macho_Man_(song)))
 13. **Intermission 7**
     1. CEC TV Special Intro
     2. Helen Henny's Hollywood - 'Arnold Schwarzenegger'
