@@ -6,6 +6,7 @@ endDate = "1998-09-00"
 pageThumbnailFile = "InkBt7JwMjGRdjQFD1UA.avif"
 contributors = ["CyberSnout", "Anonymous", "The 64th Gamer", "Ceclife13"]
 citations = ["https://youtu.be/9xgTdyDk2Pc", "https://youtu.be/sB1_nX3Ydpc"]
+credits = ["Jeremy Blaido - Voice of Chuck E. Cheese, Wick Ladderback, Announcer, Dr. Googleplex, Will Frye The Nutrition Guy", "Duncan Brannan - Voice of Mr. Munch, Announcer, Larry The Technician, Blip Flibben", "Karlisa Burleson - Voice of Helen Henny", "Bob West - Voice of Jasper T. Jowls", "Brian Hagan - Programmer", "Robert Gotcher - Voice of Bird"]
 showtapeFormats = ["Studio C 4x Laserdisc + Files"]
 downloadLinks = ["https://archive.org/download/studio-c-premiere-show/Studio%20C%20Premiere%20Show.mp4|DVCAM Full Premiere Recording (AI Upscaled)"]
 alsoKnownAs = ["Studio C Premiere (Final Ver)"]
@@ -14,54 +15,62 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***Studio C Premiere*** was released in December 1997 and ran until September 1998.
-This show was eventually modified and re-edited for MMBB stores with the {{< wiki-link "May 1998 Show" >}}.
+This show was eventually modified and re-edited for MMBB stores with the {{< wiki-link "May 1998 Studio C" >}}.
 
 ## Show List:
 
-1.  **Segment 1**
+1.  **Skit 1**
     1.  Studio C Bumper
-    2.  Intro to the Show
-    3.  Introduction to Swinging Blue Jeans - 'Hippy Hippy Shake'
-    4.  Swinging Blue Jeans - 'Hippy Hippy Shake' (No Animatronic/lights)
-    5.  Introduction to Studio C
-    6.  Introduction to Steve Martin - 'King Tut'
+    2.  Studio C Intro Skit
 2.  **Intermission 1**
+    1.  The Beatles - 'Hippy Hippy Shake'
+3.  **Skit 2**
+    1.  Announcer Skit
+4.  **Intermission 2**
     1.  Steve Martin - 'King Tut'
     2.  Louis Armstrong - 'What A Wonderful World'
-3.  **Segment 2**
-    1.  Who's Got My Master Remote
-4.  **Intermission 2**
+5.  **Skit 3**
+    1.  Master Remote Skit
+6.  **Intermission 3**
     1.  Pondwatch
     2.  Coke Spot
-5.  **Segment 3**
+7.  **Skit 4**
     1.  Larry The Technician - 'Video Feed'
     2.  NFL's 100 Greatest Follies
-    3.  Introduction to Tim McGraw - 'I Like It, I Love It'
-6.  **Intermission 3**
+    3.  'I Like It, I Love It' Intro
+8.  **Intermission 4**
     1.  Tim McGraw - 'I Like It, I Love It'
     2.  Name That Cheese
-7.  **Segment 4**
-    1.  Introduction to Go-Go's - 'Our Lips Are Sealed'
-    2.  Go-Go's - 'Our Lips Are Sealed' (No Animatronic/Lights)
-    3.  Chuck E. Cheese News - 'Particle Travel'
-    4.  Hanson - 'MmmBop'
-    5.  Mystery Guest
-8.  **Intermission 4**
+9.  **Skit 5**
+    1.  'Our Lips Are Sealed' Intro
+10.  **Intermission 5**
+    1.  Go-Go's - 'Our Lips Are Sealed'
+11.  **Skit 6**
+    1.  Chuck E. Cheese News - 'Particle Travel'
+    2.  Hanson - 'MmmBop'
+    3.  Mystery Guest
+12.  **Intermission 6**
     1.  Will Frye The Nutrition Guy - 'Food Pyramid'
     2.  Leann Rimes - 'How Do I Live'
-    3.  Station Break
-9.  **Segment 5**
-    1.  Studio C Bumper
-    2.  Amy Grant - 'Good for Me'
-10. **Intermission 5**
+13.  **Skit 7**
+    1.  Thank You Skit
+14.  **Intermission 7**
+    1.  Station Break
+    2.  Studio C Bumper
+15.  **Skit 8**
+    1.  Amy Grant - 'Good for Me'
+16. **Intermission 8**
     1.  Chuck E. Cheese's Promo
     2.  Coke Spot
-    3.  Announcer
-11. **Segment 6**
-    1.  Introduction to Seal - 'Fly Like an Eagle'
-    2.  Seal - 'Fly Like an Eagle' (No Animatronic/Lights)
-    3.  Introduction to Jackson Five - 'ABC'
-    4.  Jackson Five - 'ABC' (No Animatronic/Lights)
+    3.  The Announcer
+17. **Skit 9**
+    1.  'Fly Like an Eagle' Intro
+18. **Intermission 9**
+    1.  Seal - 'Fly Like an Eagle'
+19. **Skit 10**
+    1.  'ABC' Intro
+20. **Intermission 10**
+    1.  Jackson Five - 'ABC'
 
 ## Live Shows:
 
@@ -82,5 +91,4 @@ The footage would be copyright-claimed minutes after upload, but was able to be 
 
 ## Trivia:
 
-- This was the second Studio C Premiere created the first being created in October 1997, with nothing known about its existence. Studio C originally lacked Bird, meaning it would have to be very different than what eventually came.
-- This show officially played at any Studio C store that opened from December 1997 to September 1998.
+- This was the second version of Studio C Premiere created, the first being created in October 1997, with nothing known about its existence. Studio C originally lacked Bird, meaning it would have to be very different than what eventually came.
