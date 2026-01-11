@@ -20,39 +20,39 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.   **Segment 1**
-        1.  'Destination Imagination'
-        2.  'Imaginary Getaway'
-2.  **Intermission 1**
-       1.  Tricks For Treats
-       2.  Darkwing Duck
-3.   **Segment 2**
-        1.  'Destination Imagination'
-        2.  'Planetary Ranger'
-4.   **Intermission 2**
-        1.  Runaway Mine Car
-        2.  Sports Bloopers
-5.   **Segment 3**
-        1.  'Destination Imagination'
-        2.  'Do Something Giant'
-6.  **Intermission 3**
-       1.  Joke Pizza Wall - 'Movies'
-       2.  A Game Of Horseshoes
-       3.  State-Of-The-Art Computer Animation
-8.   **Segment 4**
-        1.  'Destination Imagination'
-        2.  'The United States Of You'
-9.  **Intermission 4**
-       1.  Joke Pizza Wall - 'Music'
-       2.  The Virtuoso
-       3.  Joke Pizza Wall - 'School'
-       4.  On The Edge
-10.   **Segment 5**
-        1.  'Destination Imagination'
-        2.  'The Battle'
-11.  **Intermission 5**
-        1.  Movie Clips
-        2.  America's Funniest Home Videos
+1. **Segment 1**
+   1.  'Destination Imagination'
+   2.  'Imaginary Getaway'
+2. **Intermission 1**
+   1.  Tricks For Treats
+   2.  Darkwing Duck
+3. **Segment 2**
+   1.  'Destination Imagination'
+   2.  'Planetary Ranger'
+4. **Intermission 2**
+   1.  Runaway Mine Car
+   2.  Sports Bloopers
+5. **Segment 3**
+   1.  'Destination Imagination'
+   2.  'Do Something Giant'
+6. **Intermission 3**
+   1.  Joke Pizza Wall - 'Movies'
+   2.  A Game Of Horseshoes
+   3.  State-Of-The-Art Computer Animation
+8. **Segment 4**
+   1.  'Destination Imagination'
+   2.  'The United States Of You'
+9. **Intermission 4**
+   1.  Joke Pizza Wall - 'Music'
+   2.  The Virtuoso
+   3.  Joke Pizza Wall - 'School'
+   4.  On The Edge
+10. **Segment 5**
+    1.  'Destination Imagination'
+    2.  'The Battle'
+11. **Intermission 5**
+    1.  Movie Clips
+    2.  America's Funniest Home Videos
 
      
 ## Production
