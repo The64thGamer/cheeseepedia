@@ -14,10 +14,6 @@ categories = ["Chuck E. Cheese's"]
 +++
 **Future** is a showtape that played from March 14 - May 6, 1991, at Chuck E. Cheese's. 
 
-## Theme
-
-The showtape's theme is about the world of tomorrow, from the newest technology, careers, and music in the future.
-
 ## Show List
 
 1. **Intermission 1**
