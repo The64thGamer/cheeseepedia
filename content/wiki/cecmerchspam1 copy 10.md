@@ -1,7 +1,7 @@
 +++
 title = "2006 Checkered Plush Hammer"
 draft = false
-tags = ["Products"]
+tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "p3ojxizwqt34zp1l.avif"
 startDate = "2006-00-00"

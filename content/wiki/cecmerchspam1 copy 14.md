@@ -1,7 +1,7 @@
 +++
 title = "2009 Rainbow Plush Hammer"
 draft = false
-tags = ["Products"]
+tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "ji240zrh2kinudpo.avif"
 startDate = "2009-00-00"

@@ -1,7 +1,7 @@
 +++
 title = "2006 Super Chuck Plush Hammer"
 draft = false
-tags = ["Products"]
+tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "smm16wqdow5szo3b.avif"
 startDate = "2006-00-00"

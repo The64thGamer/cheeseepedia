@@ -1,7 +1,7 @@
 +++
 title = "2011 Paint Splatter Plush Hammer"
 draft = false
-tags = ["Products"]
+tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "gx286sr4oiztvdbq.avif"
 startDate = "2011-00-00"

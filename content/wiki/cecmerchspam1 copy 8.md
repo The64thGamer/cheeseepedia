@@ -1,7 +1,7 @@
 +++
 title = "2005 Green/Yellow Plush Hammer"
 draft = false
-tags = ["Products"]
+tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "khbzc9wjugd0ocfb.avif"
 startDate = "2005-00-00"

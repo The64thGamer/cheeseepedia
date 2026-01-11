@@ -1,7 +1,7 @@
 +++
 title = "2006 Where A Kid Can Be A Kid Plush Hammer"
 draft = false
-tags = ["Products"]
+tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "5sxoyo31arg0ys2b.avif"
 startDate = "2006-00-00"

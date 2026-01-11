@@ -1,7 +1,7 @@
 +++
 title = "2000 Stripes Plush Hammer"
 draft = false
-tags = ["Products"]
+tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "vw1m95sv4xvnv6ee.avif"
 startDate = "2000-00-00"

@@ -1,7 +1,7 @@
 +++
 title = "1999 Studio C Plush Hammer"
 draft = false
-tags = ["Products"]
+tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "c1dlod67imwi1k75.avif"
 startDate = "1999-00-00"
