@@ -43,6 +43,7 @@ except Exception:
 # ---- Config (change if needed) ----
 BASE_CONTENT_DIR = "content"
 OUT_DIR = "static/data/tags"
+OUT_DIR_COPY = "data/tags"
 INFER_DEFAULT = "scripts/cep_tag_inference.json"   # user-provided inference file (optional)
 # ------------------------------------
 
@@ -492,7 +493,10 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
 
     # write outputs
     os.makedirs(out_dir, exist_ok=True)
+    os.makedirs(OUT_DIR_COPY, exist_ok=True)
     with open(os.path.join(out_dir, "tags_by_page.json"), "w", encoding="utf-8") as fh:
+        json.dump(tags_by_page_expanded, fh, indent=2, ensure_ascii=False)
+    with open(os.path.join(OUT_DIR_COPY, "tags_by_page.json"), "w", encoding="utf-8") as fh:
         json.dump(tags_by_page_expanded, fh, indent=2, ensure_ascii=False)
     with open(os.path.join(out_dir, "pages_by_tag.json"), "w", encoding="utf-8") as fh:
         json.dump(pages_by_tag_sorted, fh, indent=2, ensure_ascii=False)

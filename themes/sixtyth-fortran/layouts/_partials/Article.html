@@ -34,17 +34,6 @@
     {{- end -}}
 
 {{/* Article Title/Header */}}
-    {{/* Breadcrumb Links */}}
-    <aside>
-        {{- range .Params.categories -}}
-            <a href="{{- "/categories/" | relLangURL -}}{{- . | urlize -}}">{{- . -}}</a>
-            {{- " > " -}}
-        {{- end -}}
-        {{- range .Params.tags -}}
-            <a href="{{- "/tags/" | relLangURL -}}{{- . | urlize -}}">{{- . -}}</a> 
-        {{- end -}}
-    </aside>
-
     {{/* Title */}}
     <h1>{{- .Title | safeHTML -}}</h1>
 
@@ -224,6 +213,8 @@
             </div>
     </aside>
 
+    <hr>
+    {{ partial "Article_Tags.html" . }}
 
 {{/* Random Articles */}}
     <hr>
