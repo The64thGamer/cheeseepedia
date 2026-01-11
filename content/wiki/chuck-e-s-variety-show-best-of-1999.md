@@ -49,7 +49,7 @@ This show is primarily composed of material from 1997 to 1999, with a few interm
     2.  Ratings
     3.  CEC TV ID - 'Cows'
 13. **Segment 7**
-    1.  'Hip Mouse' (Parody of ['Brick House'] (https://en.wikipedia.org/wiki/Brick_House_(song)))
+    1.  'Hip Mouse' (Parody of ['Brick House'](https://en.wikipedia.org/wiki/Brick_House_(song)))
 14. **Intermission 7**
     1.  Larry The Technician - 'Curtains'
 15. **Segment 8**
