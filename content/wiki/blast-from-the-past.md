@@ -20,7 +20,7 @@ categories = ["Chuck E. Cheese's"]
     1.  CEC TV '94 ID
     2.   VJ Spot
 2. **Segment 1**
-    1.  'Route 66'
+    1.  ['(Get Your Kicks on) Route 66'](https://en.wikipedia.org/wiki/(Get_Your_Kicks_on)_Route_66)
 3. **Intermission 2**
     1.  Name That Cheese
     2.  Pondwatch
@@ -28,20 +28,20 @@ categories = ["Chuck E. Cheese's"]
     4.  The Ballgame
     5.   VJ Spot
 4. **Segment 2**
-    1.  'Wooly Bully'
+    1.  ['Wooly Bully'](https://en.wikipedia.org/wiki/Wooly_Bully)
 5. **Intermission 3**
     1.  Will Frye The Nutrition Guy
     2.  Chuck E. Cheese News - 'Particle Travel'
     3.  Larry The Technician
     4.   VJ Spot
 6. **Segment 3**
-    1.  'Turn The Beat Around'
+    1.  ['Turn the Beat Around'](https://en.wikipedia.org/wiki/Turn_the_Beat_Around)
 7. **Intermission 4**
     1.  Director's Cut
     2.  CEC TV '94 ID
     3.   VJ Spot
 8. **Segment 4**
-    1.  'Mountain Music'
+    1.  ['Mountain Music'](https://en.wikipedia.org/wiki/Mountain_Music_(song))
     2.  'BINGO'
 9. **Intermission 5**
     1.  CEC Promo
@@ -52,7 +52,7 @@ categories = ["Chuck E. Cheese's"]
     6.  The Announcer
     7.  The Virtuoso
 10. **Segment 5**
-    1.  'Hound Dog'
+    1.  ['Hound Dog'](https://en.wikipedia.org/wiki/Hound_Dog_(song))
 11. **Intermission 6**
     1.  Chuck E.'s Big Bowling Date
     2.  Spring Cleaning
@@ -60,7 +60,7 @@ categories = ["Chuck E. Cheese's"]
     4.  Charlie Rockit - 'Camping'
     5.   VJ Spot
 12. **Segment 6**
-    1.  'I Feel Good'
+    1.  ['I Got You (I Feel Good)'](https://en.wikipedia.org/wiki/I_Got_You_(I_Feel_Good))
 13. **Intermission 7**
     1.   Fun at CEC
     2.  Chuck E. Cheese News - 'Traffic Report"
