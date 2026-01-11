@@ -17,6 +17,8 @@ The ***September 1994 Show*** is a showtape that played during the autumn season
 
 ## Show List
 
+**Show plays in full twice on the tape**
+
 1. **Intermission 1 - Outdoors**
     1.  Charlie Rockit
     2.  Joke Pizza
