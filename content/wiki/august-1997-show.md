@@ -19,6 +19,8 @@ This was the last showtape to feature Awesome Adventure Machine.
 
 ## Show List:
 
+**Show plays in full twice on the tape**
+
 1.  **Segment 1**
     1.  ['Walk the Dinosaur']([https://en.wikipedia.org/wiki/Walk_the_Dinosaur)
 2.  **Intermission 1**
