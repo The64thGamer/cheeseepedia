@@ -18,6 +18,8 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
+**Show plays in full twice on the tape**
+
 1. **Segment 1**
     1.  ['I'm So Excited'](https://en.wikipedia.org/wiki/I%27m_So_Excited)
     2.  'You're a Star' (parody of ['Baby I'm a Star'](https://en.wikipedia.org/wiki/Baby_I%27m_a_Star))
