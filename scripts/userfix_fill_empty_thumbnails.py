@@ -248,7 +248,6 @@ def main():
             details.append((str(p), reason))
         else:
             skipped += 1
-            print(f"[SKIP]   {p} -> {reason}")
 
     print(f"\nSummary: scanned={total}, updated={changed}, skipped={skipped}")
     return 0
