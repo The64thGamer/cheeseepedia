@@ -3,21 +3,80 @@ title = "CEC September 1990 Show"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-
-
+credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Connie Nelson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef"]
 startDate = "1990-09-00"
-endDate = "1990-11-00"
-contributors = ["The 64th Gamer","DerekCat","CyberSnout","Montfortdog"]
+endDate = "1990-12-00"
+contributors = ["The 64th Gamer", "DerekCat", "CyberSnout", "Montfortdog", "Ceclife13"]
 citations = []
 pageThumbnailFile = "29lHVpHq3oIXqEdTdWKw.avif"
 showtapeFormats = ["C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)","Cyberamics Reel"]
 +++
 
-***CEC September 1990 Show*** is a showtape released in September 1990 for Cyberamics and October 1990 for 3-Stages.
+***CEC September 1990 Show*** was the first showtape made for both 3-Stage and Cyberamic shows, and the first show for Cyberamics to feature Munch's Make Believe Band. This show would run through November for Cyberamics, while 3-Stages would present it through December.
 
-## Low Production Count
+## Show List
 
-The 3-Stage version was only seen in a handful of locations that got converted to the new MMBB stage. The current ones known are:
+01. **Intermission 1**
+    1. 8 Minute Countdown
+       1. ['My Generation'](https://en.wikipedia.org/wiki/My_Generation)
+       2. 'Birthday Extravaganza'
+       3. ['Freeway Of Love'](https://en.wikipedia.org/wiki/Freeway_of_Love)
+    2. Cyberstar Intro
+02. **Segment 1**
+    1. ['Wonderful World'](https://en.wikipedia.org/wiki/Wonderful_World_(Sam_Cooke_song))
+    2. ['September'](https://en.wikipedia.org/wiki/September_(song))
+03. **Intermission 2**
+    1. 8 Minute Countdown
+       1. ['Walk of Life'](https://en.wikipedia.org/wiki/Walk_of_Life)
+       2. 'Birthday Extravaganza'
+       3. ['Forever and Ever, Amen'](https://en.wikipedia.org/wiki/Forever_and_Ever,_Amen)
+       4. ['California Girls'](https://en.wikipedia.org/wiki/California_Girls)
+    2. It's Showtime!
+04. **Video 1**
+    1. [California Raisins - 'Signed, Sealed, Delivered'](https://en.wikipedia.org/wiki/Meet_the_Raisins!)
+05. **Intermission 3**
+    1. 8 Minute Countdown
+       1. ['California Girls'](https://en.wikipedia.org/wiki/California_Girls)
+       2. ['She Drives Me Crazy'](https://en.wikipedia.org/wiki/She_Drives_Me_Crazy)
+       3. Birthday Extravaganza
+       4. ['Jump (For My Love)'](https://en.wikipedia.org/wiki/Jump_%28For_My_Love%29)
+    2. Cyberstar Intro
+06. **Segment 2**
+    1. ['Surfin' Bird'](https://en.wikipedia.org/wiki/Surfin%27_Bird)
+    2. ['Oye Mi Canto (Hear My Voice)'](https://en.wikipedia.org/wiki/Oye_Mi_Canto_(Hear_My_Voice))
+07. **Intermission 4**
+    1. 8 Minute Countdown
+       1. ['Twist and Shout'](https://en.wikipedia.org/wiki/Please_Please_Me)
+       2. ['Vogue'](https://en.wikipedia.org/wiki/Vogue_%28Madonna_song%29)
+       3. Birthday Extravaganza
+       4. ['Oh, Pretty Woman'](https://en.wikipedia.org/wiki/Oh,_Pretty_Woman)
+    2. It's Showtime!
+08. **Video 2**
+    1. [Jive Bunny &amp; The Mastermixers - 'That's What I Like'](https://en.wikipedia.org/wiki/That%27s_What_I_Like_%28Jive_Bunny_and_the_Mastermixers_song%29)
+09. **Intermission 5**
+    1. 8 Minute Countdown
+       1. ['A Better Man'](https://en.wikipedia.org/wiki/A_Better_Man_%28Clint_Black_song%29)
+       2. ['Rock Around the Clock'](https://en.wikipedia.org/wiki/Rock_Around_the_Clock)
+       3. 'Birthday Extravaganza'
+       4. ['Your Mama Don't Dance'](https://en.wikipedia.org/wiki/Your_Mama_Don%27t_Dance)
+    2. Cyberstar Intro
+10. **Segment 3**
+    1. ['Rhythm of the Night'](https://en.wikipedia.org/wiki/Rhythm_of_the_Night_(song))
+    2. ['Shout'](https://en.wikipedia.org/wiki/Shout_(Isley_Brothers_song))
+11. **Intermission 6**
+    1. 8 Minute Countdown
+       1. ['Rhythm Nation'](https://en.wikipedia.org/wiki/Rhythm_Nation)
+       2. 'Birthday Extravaganza'
+       3. ['Girls Just Want to Have Fun'](https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun)
+    2. It's Showtime!
+12. **Video 3**
+    1. [The Art Of Computer Graphics - 'Breaking The Ice'](https://en.wikipedia.org/wiki/Odyssey_Productions)
+   
+## Production
+
+### Low Production Count
+
+The 3-Stage version was only seen in a handful of locations, as few 3-Stages existed during its release. The current ones known are:
 
 - {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}}
 - {{< wiki-link "Arlington, TX (3200 Justiss Dr)" >}}
@@ -25,7 +84,6 @@ The 3-Stage version was only seen in a handful of locations that got converted t
 - Mesa (West), AZ (856 S Alma School Rd)
 - {{< wiki-link "Phoenix, AZ (8039 North 35th Ave)" >}}
 
-## Production
 
 ### Filming Locations
 
@@ -49,82 +107,7 @@ All three segments' files were last updated on October 10, 1990, a month after t
 | sept2.sho | 430,592      | 10/10/1990 9:01:56 AM | 7:00        | 'SURFIN' BIRD'          | Silliest Songs\\'OYE MI CANTO' |
 | sept3.sho | 430,592      | 10/10/1990 8:43:02 AM | 7:00        | 'RHYTHM OF THE NIGHT'   | Pasq. Am. Hr./'SHOUT'          |
 
-## Show List
-
-01. **Intermission 1**
-    
-    1. 8 Minute Countdown
-       
-       1. [My Generation](https://en.wikipedia.org/wiki/My_Generation)
-       2. Birthday Extravaganza
-       3. [Freeway Of Love](https://en.wikipedia.org/wiki/Freeway_of_Love)
-    2. Cyberstar Intro
-02. **Segment 1**
-    
-    1. Wonderful World
-    2. September
-03. **Intermission 2**
-    
-    1. 8 Minute Countdown
-       
-       1. [Walk of Life](https://en.wikipedia.org/wiki/Walk_of_Life)
-       2. Birthday Extravaganza
-       3. [Forever and Ever, Amen](https://en.wikipedia.org/wiki/Forever_and_Ever,_Amen)
-       4. [California Girls](https://en.wikipedia.org/wiki/California_Girls)
-    2. It's Showtime!
-04. **Video 1**
-    
-    1. [California Raisins - Signed, Sealed, Delivered](https://en.wikipedia.org/wiki/Meet_the_Raisins!)
-05. **Intermission 3**
-    
-    1. 8 Minute Countdown
-       
-       1. [California Girls](https://en.wikipedia.org/wiki/California_Girls)
-       2. [She Drives Me Crazy](https://en.wikipedia.org/wiki/She_Drives_Me_Crazy)
-       3. Birthday Extravaganza
-       4. [Jump (For My Love)](https://en.wikipedia.org/wiki/Jump_%28For_My_Love%29)
-    2. Cyberstar Intro
-06. **Segment 2**
-    
-    1. Surfin' Bird
-    2. Oye Mi Canto
-07. **Intermission 4**
-    
-    1. 8 Minute Countdown
-       
-       1. [Twist and Shout](https://en.wikipedia.org/wiki/Please_Please_Me)
-       2. [Vogue](https://en.wikipedia.org/wiki/Vogue_%28Madonna_song%29)
-       3. Birthday Extravaganza
-       4. [Oh, Pretty Woman](https://en.wikipedia.org/wiki/Oh,_Pretty_Woman)
-    2. It's Showtime!
-08. **Video 2**
-    
-    1. [Jive Bunny &amp; The Mastermixers - That's What I Like](https://en.wikipedia.org/wiki/That%27s_What_I_Like_%28Jive_Bunny_and_the_Mastermixers_song%29)
-09. **Intermission 5**
-    
-    1. 8 Minute Countdown
-       
-       1. [A Better Man](https://en.wikipedia.org/wiki/A_Better_Man_%28Clint_Black_song%29)
-       2. [Rock Around the Clock](https://en.wikipedia.org/wiki/Rock_Around_the_Clock)
-       3. Birthday Extravaganza
-       4. [Your Mama Don't Dance](https://en.wikipedia.org/wiki/Your_Mama_Don%27t_Dance)
-    2. Cyberstar Intro
-10. **Segment 3**
-    
-    1. Rhythm of the Night
-    2. Shout
-11. **Intermission 6**
-    
-    1. 8 Minute Countdown
-       
-       1. [Rhythm Nation](https://en.wikipedia.org/wiki/Rhythm_Nation)
-       2. Birthday Extravaganza
-       3. [Girls Just Want to Have Fun](https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun)
-    2. It's Showtime!
-12. **Video 3**
-    
-    1. [The Art Of Computer Graphics - Breaking The Ice](https://en.wikipedia.org/wiki/Odyssey_Productions)
 
 ## Trivia
 
-- The intermission music for this showtape is the same as {{< wiki-link "SPP Concept Unification Premiere" >}} &amp; {{< wiki-link "SPP Best Of 1 KidsFriends" >}} (Only is missing two songs from those shows).
+- The intermission music for this showtape is the same as {{< wiki-link "SPP Concept Unification Premiere" >}} and {{< wiki-link "SPP Best Of 1 KidsFriends" >}} (Only is missing two songs from those shows).

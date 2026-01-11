@@ -1,5 +1,5 @@
 +++
-title = "CEC TV News Pasqually’s phone call"
+title = "CEC TV News - Foreign Relations"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
