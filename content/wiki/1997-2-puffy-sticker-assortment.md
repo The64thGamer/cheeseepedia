@@ -1,5 +1,5 @@
 +++
-title = "1997 2\" Puffy Sticker Assortment"
+title = "1997 2\" Puffy Sticker Soccer Chuck"
 contributors = ["Luigigamin212"]
 citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
 tags = ["In-Store Merchandise"]
