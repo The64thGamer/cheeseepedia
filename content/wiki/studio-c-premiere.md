@@ -41,23 +41,23 @@ This show was eventually modified and re-edited for MMBB stores with the {{< wik
 8.  **Intermission 4**
     1.  Tim McGraw - 'I Like It, I Love It'
     2.  Name That Cheese
-9.  **Skit 5**
+9. **Skit 5**
     1.  'Our Lips Are Sealed' Intro
-10.  **Intermission 5**
+10. **Intermission 5**
     1.  Go-Go's - 'Our Lips Are Sealed'
-11.  **Skit 6**
+11. **Skit 6**
     1.  Chuck E. Cheese News - 'Particle Travel'
     2.  Hanson - 'MmmBop'
     3.  Mystery Guest
-12.  **Intermission 6**
+12. **Intermission 6**
     1.  Will Frye The Nutrition Guy - 'Food Pyramid'
     2.  Leann Rimes - 'How Do I Live'
-13.  **Skit 7**
+13. **Skit 7**
     1.  Thank You Skit
-14.  **Intermission 7**
+14. **Intermission 7**
     1.  Station Break
     2.  Studio C Bumper
-15.  **Skit 8**
+15. **Skit 8**
     1.  Amy Grant - 'Good for Me'
 16. **Intermission 8**
     1.  Chuck E. Cheese's Promo
