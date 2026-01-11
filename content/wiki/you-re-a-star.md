@@ -6,21 +6,22 @@ endDate = "1993-11-25"
 pageThumbnailFile = "MNhoimSy_DBvXYEwlhmf.avif"
 contributors = ["Ceclife13", "BurgersNuggs445"]
 citations = ["https://www.youtube.com/watch?v=XK8Az2zKNsw"]
+credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Annagrey Wiechman|Singing Voice of Helen Henny", "Charles Stewart|Songwriter, Singing Voice of Jasper T. Jowls", "Darby Orr|Songwriter"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "57:15"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/September%201993%203-Stage-013.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***You're A Star*** was a show that was released in September of 1993 at Chuck E. Cheese's.
+***You're A Star*** was the last showtape to feature Scott Wilson as the voice of Chuck E. Cheese and Mr. Munch, which was released in September of 1993 at Chuck E. Cheese's.
 
 
 ## Show List
 
-1.   **Segment 1**
-    1.  'I'm So Excited'
-    2.  'You're A Star'
-2.   **Intermission 1**
+1. **Segment 1**
+    1.  ['I'm So Excited'](https://en.wikipedia.org/wiki/I%27m_So_Excited)
+    2.  'You're a Star' (parody of ['Baby I'm a Star'](https://en.wikipedia.org/wiki/Baby_I%27m_a_Star))
+2. **Intermission 1**
     1.  Trivia
     2.  'Birthday Star'
     3.  Chuck E.'s Zoo View
@@ -32,10 +33,10 @@ categories = ["Chuck E. Cheese's"]
     9.  Trivia
     10. Ocean Reflections
     11. Trivia
-3.   **Segment 2**
-    1.  'Wooly Bully'
-    2.  'I Fall To Pieces'
-4.   **Intermission 2**
+3. **Segment 2**
+    1.  ['Wooly Bully'](https://en.wikipedia.org/wiki/Wooly_Bully)
+    2.  ['I Fall to Pieces'](https://en.wikipedia.org/wiki/I_Fall_to_Pieces)
+4. **Intermission 2**
     1.  Trivia
     2.  'Birthday Star'
     3.  Acrobats
@@ -45,19 +46,19 @@ categories = ["Chuck E. Cheese's"]
     7.  CEC TV ID - 'Abstract'
     8.  'Birthday Star (Walk-In)'
     9.  Trivia
-5.   **Segment 3**
+5. **Segment 3**
     1.  'Fun Check'
-    2.  'Vacation'
-6.   **Intermission 3**
+    2.  ['Vacation'](https://en.wikipedia.org/wiki/Vacation_(The_Go-Go%27s_song))
+6. **Intermission 3**
     1.  Trivia
     2.  'Birthday Star'
     3.  CEC TV News Flash! - 'Newest Affiliates'
     4.  Larry The Technician - 'Munch's Hat'
     5.  CEC TV ID - 'Abstract'
     6.  Surfing
-7.   **Segment 4**
+7. **Segment 4**
     1.  'We Want To Say Thank You'
-8.   **Intermission 4**
+8. **Intermission 4**
     1.  VJ Spot
     2.  Trivia
     3.  'Birthday Star (Walk-In)'
