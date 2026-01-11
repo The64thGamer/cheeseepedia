@@ -1,4 +1,5 @@
 +++
+
 title = "Costume Character Cleaning & Preservation"
 draft = false
 tags = ["Costume Preservation"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Showtimeinc","CEC Tinley"]
 citations = []
+pageThumbnailFile = "Eh5PG7B0Qm6OEYIMDRrH.avif"
 +++
 These are steps for proper cleaning and preservation of :Category:Costumed Characters|Costumed Character parts.
 

@@ -1,4 +1,5 @@
 +++
+
 title = "Basketball (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
@@ -7,6 +8,7 @@ startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["Nostalgia Cow","The 64th Gamer"]
 citations = []
+pageThumbnailFile = "Basketball_Magazine_poster.avif"
 +++
 The **Basketball (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
 

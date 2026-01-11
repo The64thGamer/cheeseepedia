@@ -1,4 +1,5 @@
 +++
+
 title = "PTT 1980 1 Year Employee Pin"
 draft = false
 tags = ["Employee Wear"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "AbLfPA6zTHLKxgrVVKoJ.avif"
 +++
 The ***PTT 1980 1 Year Employee Pin* was given to PTT employees in 1980 for their contributions in the store, to be worn on their lanyard.
 The pin was made in 1980, and presumably for only that year. Making it the earliest known employee pin.**

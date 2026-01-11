@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese's Pizza Delivery"
 draft = false
 tags = ["Arcades and Attractions"]
@@ -7,4 +8,5 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["ChuckE1352"]
 citations = []
+pageThumbnailFile = "tcuN633XbBqVVeTTTpXw.avif"
 +++

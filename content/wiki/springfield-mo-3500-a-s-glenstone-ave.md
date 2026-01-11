@@ -1,4 +1,5 @@
 +++
+
 title = "Springfield, MO (3500-A S Glenstone Ave)"
 storeNumber = ""
 startDate = "1994-01-10"
@@ -13,7 +14,7 @@ latitudeLongitude = ["37.1348246","-93.2684215"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "nHtys9PAsYE1EYs2lefd.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

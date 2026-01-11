@@ -1,4 +1,5 @@
 +++
+
 title = "Santa Ana, CA"
 storeNumber = ""
 startDate = "1979-07-07"
@@ -16,6 +17,7 @@ downloadLinks = []
 tags = ["Cancelled Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
+pageThumbnailFile = "vp5gtoiqne86f1cv.avif"
 +++
 ***Santa Ana, CA*** was an unopened Pizza Time Theatre that was advertised throughout 1979.
 

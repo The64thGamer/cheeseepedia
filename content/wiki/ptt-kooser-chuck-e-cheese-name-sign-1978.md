@@ -1,4 +1,5 @@
 +++
+
 title = "PTT Kooser Chuck E. Cheese Name Sign (1978)"
 draft = false
 tags = ["Store Fixtures"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["Concordio"]
 citations = []
+pageThumbnailFile = "7XnhOheBWd6zx357CAqr.avif"
 +++
 The ***Kooser Chuck E. Cheese Nameplate* was only used at the second Chuck E. Cheese's Pizza Time Theatre located on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} located in the Blossom Hill Shopping Center in San Jose California; where it was placed under the {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}} from November 1978 to May, 1980.**
 

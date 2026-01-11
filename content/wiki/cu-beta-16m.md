@@ -1,4 +1,5 @@
 +++
+
 title = "CU Beta 16M"
 draft = false
 tags = ["Stage Variations"]
@@ -7,8 +8,8 @@ startDate = "2020-07-06"
 endDate = "2024-08-25"
 contributors = ["CECBowlingGreen","ShowBizMidwest","CyberSnout","Anonymous","StudioC","ChuckEPediaIsTheBest!","RedaCEC","Bowling for Cheese","CEC Tinley","CorrectorMan","Stripes","BurgersNuggs445","Caydenpedia"]
 citations = ["<ref></ref>","<a href=\"https://www.youtube.com/watch?v=pf2m1JIehL8\">https://www.youtube.com/watch?v=pf2m1JIehL8</a>"]
+pageThumbnailFile = "_mw5CT34dTw8p_XF0flK.avif"
 +++
-
 The **CU Beta 16m** was a stage format found two {{< wiki-link "Chuck E. Cheese's" >}} locations in the state of Illinois in the United States that converted their {{< wiki-link "Concept Unification Stage" >}} in 2020. The stage consisted of a {{< wiki-link "Studio C Beta" >}}, 16m setup but on a 3-Stage platform. It was the most recent CEC animatronic stage to come out, despite it not being an official stage type.
 
 ## History

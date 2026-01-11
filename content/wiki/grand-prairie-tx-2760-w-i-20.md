@@ -1,4 +1,5 @@
 +++
+
 title = "Grand Prairie, TX (2760 W I-20)"
 storeNumber = ""
 startDate = "2001-09-26"
@@ -13,7 +14,7 @@ latitudeLongitude = ["32.67235072","-97.15028313"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "p3ij2mp2oqoss313.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

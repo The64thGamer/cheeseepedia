@@ -1,4 +1,5 @@
 +++
+
 title = "Independence, MO (18701 E 39th St)"
 storeNumber = ""
 startDate = "2012-05-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["39.04611682","-94.36214643"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "6NPRxxnr4SHqqUGqbmxi.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

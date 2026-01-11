@@ -1,4 +1,5 @@
 +++
+
 title = "Webster, TX (1541 West Bay Area Blvd)"
 storeNumber = ""
 startDate = "1993-03-15"
@@ -13,7 +14,7 @@ latitudeLongitude = ["29.53523062","-95.1500438"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "LYBFC4YRORRkQ32BMkXE.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

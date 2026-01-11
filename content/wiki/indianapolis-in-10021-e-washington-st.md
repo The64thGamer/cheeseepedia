@@ -1,4 +1,5 @@
 +++
+
 title = "Indianapolis, IN (10021 E Washington St)"
 storeNumber = ""
 startDate = "2011-12-26"
@@ -13,7 +14,7 @@ latitudeLongitude = ["39.77167692","-85.99051978"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "obwPchMgANYDT1orQUMC.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

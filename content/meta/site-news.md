@@ -146,7 +146,7 @@ In late December 2025 to January 2026, the site would recieve many CSS changes, 
 
 - **January 2nd-** New card version of article previews created and used for various parts of the site. Random articles optimized and increased to 10 per page. Entire site CSS reevaluated and tweaked. Fixed many showtape segment lists not having correct indentation. Added graphs and statistics on homepage.
 - **January 8th-** New robust searching feature is implemented to get away from the rigid tags and categories navigation, now with its own auto-tagging system based on article contents, linked articles, and page parameters.
-- **January 10th-** All Animatronic News articles are deleted and moved to the forums.
+- **January 10th-** All Animatronic News articles are deleted and moved to the forums. The Monthly Topic is brought back, focusing on merchandise and products. Many pages are immediately updated, alongside the homepage having the article heirarchy removed, tags added to each page's bottom, and many articles which have a gallery but no thumbnail being fixed.
 
 ### Planned Upcoming Changes
 

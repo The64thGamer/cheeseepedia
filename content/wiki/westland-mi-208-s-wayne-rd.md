@@ -1,4 +1,5 @@
 +++
+
 title = "Westland, MI (208 S Wayne Rd)"
 storeNumber = ""
 startDate = "1980-12-18"
@@ -13,7 +14,7 @@ latitudeLongitude = ["42.30737712","-83.39083648"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "Westland_1982.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

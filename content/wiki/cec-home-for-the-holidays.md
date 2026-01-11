@@ -1,4 +1,5 @@
 +++
+
 title = "CEC Home for the Holidays"
 draft = false
 tags = ["Showtapes"]
@@ -7,6 +8,7 @@ startDate = "1987-12-00"
 endDate = "1987-12-00"
 contributors = ["The 64th Gamer","DerekCat"]
 citations = []
+pageThumbnailFile = "Christmas_87_House.avif"
 +++
 TODO: The final Betamax Cyberstar tape released for Cyberamics
 

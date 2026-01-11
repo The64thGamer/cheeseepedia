@@ -1,4 +1,5 @@
 +++
+
 title = "Celebration 2000 Live Training"
 draft = false
 tags = ["Company Media"]
@@ -7,4 +8,5 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["Anastasia.laguardia"]
 citations = []
+pageThumbnailFile = "1pdIAGCnzPtOSwIwoAsL.avif"
 +++

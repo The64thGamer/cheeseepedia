@@ -1,4 +1,5 @@
 +++
+
 title = "Durham, NC (3724 Mayfair St)"
 storeNumber = ""
 startDate = "1994-03-07"
@@ -13,7 +14,7 @@ latitudeLongitude = ["35.96749237","-78.95366668"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "QW7lBIBNQn8EEaB3qGNs.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

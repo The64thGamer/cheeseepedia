@@ -1,4 +1,5 @@
 +++
+
 title = "Jasper T. Jowls"
 draft = false
 tags = ["Characters"]
@@ -9,8 +10,8 @@ startDate = ""
 endDate = ""
 contributors = ["Animatronicbrainrot","CECMentor"]
 citations = []
+pageThumbnailFile = "nl8yNk_3RrDawtyCt8Rr.avif"
 +++
-
 ***Jasper***, full name ***Jasper Tennessee Jowls***, is one of the main characters of the Chuck E. Cheese's franchise, having made his debut at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location in 1977.
 
 ## History

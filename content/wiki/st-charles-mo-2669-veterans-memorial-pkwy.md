@@ -1,4 +1,5 @@
 +++
+
 title = "St. Charles, MO (2669 Veterans Memorial Pkwy)"
 storeNumber = ""
 startDate = "1982-10-27"
@@ -13,7 +14,7 @@ latitudeLongitude = ["38.77676452","-90.51956538"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "r4bhwhgxjbqn615k.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

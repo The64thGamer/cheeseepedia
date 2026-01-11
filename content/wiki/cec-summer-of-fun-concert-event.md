@@ -1,4 +1,5 @@
 +++
+
 title = "CEC Summer of Fun Concert (Event)"
 draft = false
 tags = ["Events"]
@@ -9,8 +10,8 @@ startDate = "2021-00-00"
 endDate = "0000-00-00"
 contributors = ["CyberSnout"]
 citations = []
+pageThumbnailFile = "jkEV3ItaPCYpEMvlfVRL.avif"
 +++
-
 ***Chuck E. Cheese Summer of Fun Concert*** was an event that performed at 5 states originally. Runs around 24 minutes. It would be a mix of live and pre recorded audio with the costumes preforming various CEC Songs. With someone named Jessi being an actor on the stage who spoke to Chuck and his gang (minus Pasqually)
 
 ## Summary:

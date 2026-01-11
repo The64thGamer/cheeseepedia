@@ -1,4 +1,5 @@
 +++
+
 title = "Madison, TN (2070 Gallatin Pike)"
 storeNumber = ""
 startDate = "1982-06-15"
@@ -13,7 +14,7 @@ latitudeLongitude = ["36.30245777","-86.69446438"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "nfbd8JwsZq5N1vkhBGaZ.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

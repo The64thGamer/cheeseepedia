@@ -1,4 +1,5 @@
 +++
+
 title = "Calgary, Alberta, Canada (2612 32nd St)"
 storeNumber = ""
 startDate = "2006-08-15"
@@ -13,7 +14,7 @@ latitudeLongitude = ["51.02985662","-114.1352718"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "AMkF6u7adf5wGg5DyGkG.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

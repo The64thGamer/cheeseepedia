@@ -1,4 +1,5 @@
 +++
+
 title = "Abilene, TX (1874 S Clack St)"
 storeNumber = ""
 startDate = "1982-10-07"
@@ -13,7 +14,7 @@ latitudeLongitude = ["32.42503937","-99.78963403"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "6NlimnF3JKiTMAwsuwXD.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

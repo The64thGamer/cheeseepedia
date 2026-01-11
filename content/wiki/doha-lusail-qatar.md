@@ -1,4 +1,5 @@
 +++
+
 title = "Doha (Lusail), Qatar"
 storeNumber = ""
 startDate = "2022-11-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["25.3793151","51.4796162"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "WnzleG53lK1vYMAaLjhA.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

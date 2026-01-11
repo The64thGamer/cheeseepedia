@@ -1,4 +1,5 @@
 +++
+
 title = "Virginia Beach, VA (2699 Lishelle Place)"
 storeNumber = ""
 startDate = "1983-11-23"
@@ -13,7 +14,7 @@ latitudeLongitude = ["36.81080582","-76.07003758"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "DIXo2UB_u9udCLDN7UL4.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

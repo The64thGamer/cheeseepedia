@@ -1,4 +1,5 @@
 +++
+
 title = "Panama City, FL (4432 US-98)"
 storeNumber = ""
 startDate = "1986-05-07"
@@ -13,7 +14,7 @@ latitudeLongitude = ["30.17990077","-85.71987083"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "C9hT86LnzknEpjuq_3om.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

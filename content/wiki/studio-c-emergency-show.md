@@ -1,4 +1,5 @@
 +++
+
 title = "Studio C Emergency Show"
 draft = false
 tags = ["Showtapes"]
@@ -8,4 +9,5 @@ endDate = "2002-12-00"
 contributors = ["The 64th Gamer"]
 citations = []
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/StudioCEmergencyShowCyberV123.img|Studio C Floppy Disk (Ver. 1.23)"]
+pageThumbnailFile = "Jan00Floppy.avif"
 +++

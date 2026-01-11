@@ -1,4 +1,5 @@
 +++
+
 draft = false
 title = "Road Show 2010"
 startDate = "2010-01-00"
@@ -7,6 +8,7 @@ contributors = ["The 64th Gamer", "Ceclife13"]
 citations = []
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "xbZcYzwSYSrxx6o17J2q.avif"
 +++
 **Road Show 2010** was a CD released in 2010 which featured twelve {{< wiki-link "Road Shows" >}}.
 

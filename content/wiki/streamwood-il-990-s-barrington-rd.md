@@ -1,4 +1,5 @@
 +++
+
 title = "Streamwood, IL (990 Barrington Rd)"
 storeNumber = ""
 startDate = "1990-03-06"
@@ -13,7 +14,7 @@ latitudeLongitude = ["42.01112047","-88.14665943"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "Streamwoodentrance.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

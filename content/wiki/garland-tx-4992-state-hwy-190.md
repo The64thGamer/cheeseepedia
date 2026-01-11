@@ -1,4 +1,5 @@
 +++
+
 title = "Garland, TX (4992 State Hwy 190)"
 storeNumber = ""
 startDate = "2006-11-15"
@@ -13,7 +14,7 @@ latitudeLongitude = ["32.8302751","-96.7059039"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "bellashop.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

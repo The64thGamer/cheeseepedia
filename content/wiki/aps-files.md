@@ -1,4 +1,5 @@
 +++
+
 title = "APS Files"
 draft = false
 tags = ["Showtape Formats"]
@@ -7,8 +8,8 @@ startDate = ""
 endDate = ""
 contributors = ["Himitsu","The 64th Gamer","CoolerDude"]
 citations = []
+pageThumbnailFile = "CCI_000239.avif"
 +++
-
 The **APS format** is used to store the raw programming data for various animatronic shows. Different stage types are denoted by the file extension used, but the file format otherwise remains the same for each type. Each file represented a segment of a showtape, rather than the entirety of the showtape's runtime. Segments were never programmed for intermissions, and their file names were usually numbered, with accordance to actual segments with performances in the tape.
 
 ## Known File Extension Names

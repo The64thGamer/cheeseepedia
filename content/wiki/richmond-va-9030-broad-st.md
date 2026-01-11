@@ -1,4 +1,5 @@
 +++
+
 title = "Richmond, VA (9030 Broad St)"
 storeNumber = ""
 startDate = "1999-03-04"
@@ -13,7 +14,7 @@ latitudeLongitude = ["37.63622657","-77.54944403"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "32rOrkwQKpRKBxSY6uQ6.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false
