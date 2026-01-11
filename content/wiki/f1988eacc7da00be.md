@@ -1,6 +1,6 @@
 +++
 
-title = "2005 Logo Baseball"
+title = "2005 Logo Plush Baseball"
 draft = false
 tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]

@@ -6,6 +6,7 @@ wholesalePrice = "$4.99"
 tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1997-00-00"
+pageThumbnailFile = "3tj9un3d4ssuv0ao.avif"
 +++
 Item Number: 5373
 
