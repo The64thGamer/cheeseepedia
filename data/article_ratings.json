@@ -160,16 +160,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Limited Edition Sleepy Time Plush (2004)",
-    "page_path": "content/wiki/chuck-e-cheese-s-limited-edition-sleepy-time-plush-2004.md",
-    "startDate": "2004-00-00",
-    "start_year": 2004,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "CEC September 1990 Show",
     "page_path": "content/wiki/cec-september-1990-show.md",
     "startDate": "1990-09-00",
@@ -490,16 +480,6 @@
     "rating": 0
   },
   {
-    "title": "Rock-afire Explosion Record 2 (1981)",
-    "page_path": "content/wiki/rock-afire-explosion-record-2-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "September 2011 Show",
     "page_path": "content/wiki/september-2011-show.md",
     "startDate": "2011-09-00",
@@ -616,16 +596,6 @@
     "start_year": null,
     "category": "ShowBiz Pizza Place",
     "tag": "Menu Items",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Coin Bank (1980)",
-    "page_path": "content/wiki/chuck-e-cheese-coin-bank-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -890,16 +860,6 @@
     "rating": 0
   },
   {
-    "title": "Fatz PVC Figurine (1987)",
-    "page_path": "content/wiki/fatz-pvc-figurine-1987.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Concept Unification Installation Manual",
     "page_path": "content/wiki/concept-unification-installation-manual.md",
     "startDate": "1991-00-00",
@@ -1030,32 +990,12 @@
     "rating": 0
   },
   {
-    "title": "Fatz Slide Puzzle",
-    "page_path": "content/wiki/fatz-slide-puzzle.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Do the Chuck E. (Commercial)",
     "page_path": "content/wiki/do-the-chuck-e-commercial.md",
     "startDate": "2015-00-00",
     "start_year": 2015,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "The Official Billy Bob & Chuck E. Cheese Calculator",
-    "page_path": "content/wiki/the-official-billy-bob-chuck-e-cheese-calculator.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -1120,16 +1060,6 @@
     "rating": 0
   },
   {
-    "title": "Rock-afire Explosion Record 13 (1984)",
-    "page_path": "content/wiki/rock-afire-explosion-record-13-1984.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "'Vitaminology' (CD Award)",
     "page_path": "content/wiki/vitaminology-cd-award.md",
     "startDate": "1995-00-00",
@@ -1170,32 +1100,12 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Pewter Pin",
-    "page_path": "content/wiki/billy-bob-pewter-pin.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Downingtown, PA (911 E Lancaster Ave)",
     "page_path": "content/wiki/downingtown-pa-911-e-lancaster-ave.md",
     "startDate": "2000-07-25",
     "start_year": 2000,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Helen Henny Coin Bank (1993)",
-    "page_path": "content/wiki/helen-henny-coin-bank-1993.md",
-    "startDate": "1993-00-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -1410,16 +1320,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese PVC Keychain (1985)",
-    "page_path": "content/wiki/chuck-e-cheese-pvc-keychain-1985.md",
-    "startDate": "1985-00-00",
-    "start_year": 1985,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Haunted House Party",
     "page_path": "content/wiki/haunted-house-party.md",
     "startDate": "2021-10-15",
@@ -1467,6 +1367,16 @@
     "category": "Pizza Time Theatre",
     "tag": "Commercials",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2003 '10 Free Tokens' Plastic Coin",
+    "page_path": "content/wiki/3388ebd370dcae9f.md",
+    "startDate": "2003-00-00",
+    "start_year": 2003,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -1730,16 +1640,6 @@
     "rating": 0
   },
   {
-    "title": "Jasper T. Jowls 15' Alternate Plush (1988)",
-    "page_path": "content/wiki/jasper-t-jowls-15-alternate-plush-1988.md",
-    "startDate": "1988-00-00",
-    "start_year": 1988,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Brookfield, WI (2435 N 124th St)",
     "page_path": "content/wiki/brookfield-wi-2435-n-124th-st.md",
     "startDate": "1982-08-00",
@@ -1860,16 +1760,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese Coin Bank (1986)",
-    "page_path": "content/wiki/chuck-e-cheese-coin-bank-1986.md",
-    "startDate": "1986-00-00",
-    "start_year": 1986,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Mike Anderson's Rock-afire Birthday at ShowBiz Pizza Place!!",
     "page_path": "content/wiki/mike-anderson-s-rock-afire-birthday-at-showbiz-pizza-place.md",
     "startDate": "2016-00-00",
@@ -1960,16 +1850,6 @@
     "rating": 0
   },
   {
-    "title": "Dook Larue 9 OTC 9 1/2' Plush Doll (1984)",
-    "page_path": "content/wiki/dook-larue-9-otc-9-12-plush-doll-1984.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Sally 1 / Xmas / USA",
     "page_path": "content/wiki/skit-sally-1xmas-usa.md",
     "startDate": "1979-11-00",
@@ -1986,16 +1866,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Tokens",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Hot Wheels Street Roader (1998)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-street-roader-1998.md",
-    "startDate": "1998-00-00",
-    "start_year": 1998,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -2018,16 +1888,6 @@
     "tag": "Animatronics",
     "contributors_count": 16,
     "rating": 2
-  },
-  {
-    "title": "Mr. Munch Plush (1978)",
-    "page_path": "content/wiki/mr-munch-plush-1978.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Brandon, FL (1540 W Brandon Blvd)",
@@ -2106,16 +1966,6 @@
     "start_year": null,
     "category": "Unknown Manufacturers",
     "tag": "Animatronics",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Fatz OTC 9 1/2' Plush Doll (Ver. A) (1984)",
-    "page_path": "content/wiki/fatz-otc-9-12-plush-doll-ver-a-1984.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -2800,16 +2650,6 @@
     "rating": 0
   },
   {
-    "title": "Small Munch Plush (1992)",
-    "page_path": "content/wiki/small-munch-plush-1992.md",
-    "startDate": "1992-00-00",
-    "start_year": 1992,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Happy Endings (Commercial)",
     "page_path": "content/wiki/happy-endings-commercial.md",
     "startDate": "1992-00-00",
@@ -2857,16 +2697,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Characters",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place Coke Mug (1984)",
-    "page_path": "content/wiki/showbiz-pizza-place-coke-mug-1984.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -3110,6 +2940,16 @@
     "rating": 0
   },
   {
+    "title": "2018 Chuck E. Cheese's Mochi Squishy",
+    "page_path": "content/wiki/c26dae1dafb0ffe9.md",
+    "startDate": "2018-00-00",
+    "start_year": 2018,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Rocky Mount, NC (730 Sutters Creek Blvd)",
     "page_path": "content/wiki/rocky-mount-nc-730-sutters-creek-blvd.md",
     "startDate": "2003-12-17",
@@ -3280,6 +3120,16 @@
     "rating": 0
   },
   {
+    "title": "1990 Chuck E. Cheese Eraser",
+    "page_path": "content/wiki/f68a0026f01b7eef.md",
+    "startDate": "1990-00-00",
+    "start_year": 1990,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "SPP Token S16 (N)",
     "page_path": "content/wiki/spp-token-s16-n.md",
     "startDate": "",
@@ -3370,16 +3220,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese PTT Lucite Keychain",
-    "page_path": "content/wiki/chuck-e-cheese-ptt-lucite-keychain.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Cyberamic 3-Stage",
     "page_path": "content/wiki/cyberamic-3-stage.md",
     "startDate": "2000-00-00",
@@ -3387,6 +3227,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Stage Variations",
     "contributors_count": 13,
+    "rating": 0
+  },
+  {
+    "title": "1997 Aam Birthday Invitation",
+    "page_path": "content/wiki/d05af887f740ca43.md",
+    "startDate": "1997-00-00",
+    "start_year": 1997,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -3610,16 +3460,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Limited Edition Christmas Tree Plush (2005)",
-    "page_path": "content/wiki/chuck-e-cheese-s-limited-edition-christmas-tree-plush-2005.md",
-    "startDate": "2005-00-00",
-    "start_year": 2005,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Hot Topic Chuck E. Cheese Token Pin",
     "page_path": "content/wiki/hot-topic-chuck-e-cheese-token-pin.md",
     "startDate": "2023-00-00",
@@ -3776,16 +3616,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi Mozzarella Yo-yo",
-    "page_path": "content/wiki/mitzi-mozzarella-yo-yo.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -3990,6 +3820,16 @@
     "rating": 0
   },
   {
+    "title": "Kissimmee, FL (7700 Westgate Blvd)",
+    "page_path": "content/wiki/chucksarcadeflorida.md",
+    "startDate": "2025-07-00",
+    "start_year": 2025,
+    "category": "Chuck E. Cheese's",
+    "tag": "Locations",
+    "contributors_count": 1,
+    "rating": 1
+  },
+  {
     "title": "Layton Bit Stripper",
     "page_path": "content/wiki/layton-bit-stripper.md",
     "startDate": "2019-00-00",
@@ -4046,16 +3886,6 @@
     "start_year": 1981,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob OTC 9 1/2' Plush Doll (Ver. A) (1984)",
-    "page_path": "content/wiki/billy-bob-otc-9-12-plush-doll-ver-a-1984.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -4360,32 +4190,12 @@
     "rating": 1
   },
   {
-    "title": "Mitzi Mozzarella Night Light",
-    "page_path": "content/wiki/mitzi-mozzarella-night-light.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Chuck E. Cheese informational sign (PTT Signage)",
     "page_path": "content/wiki/chuck-e-cheese-informational-sign-ptt-signage.md",
     "startDate": "1977-00-00",
     "start_year": 1977,
     "category": "Pizza Time Theatre",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Keychain (1979)",
-    "page_path": "content/wiki/chuck-e-cheese-keychain-1979.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -4850,16 +4660,6 @@
     "rating": 0
   },
   {
-    "title": "Creative Engineering Tour (2014-2022)",
-    "page_path": "content/wiki/creative-engineering-tour-2014-2022.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Creative Engineering",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Beach Bear CEI Walkaround",
     "page_path": "content/wiki/beach-bear-cei-walkaround.md",
     "startDate": "",
@@ -5137,16 +4937,6 @@
     "category": "Five Nights at Freddy's",
     "tag": "Video Games",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Large Helen Plush (1992)",
-    "page_path": "content/wiki/large-helen-plush-1992.md",
-    "startDate": "1992-00-00",
-    "start_year": 1992,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -5790,16 +5580,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese PVC Keychain (1983)",
-    "page_path": "content/wiki/chuck-e-cheese-pvc-keychain-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Pasqually's Pizza Party Perfecto! (CEC Menu Item)",
     "page_path": "content/wiki/pasqually-s-pizza-party-perfecto-cec-menu-item.md",
     "startDate": "1987-00-00",
@@ -5836,16 +5616,6 @@
     "start_year": null,
     "category": "Unknown Manufacturers",
     "tag": "Animatronic Shows",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Backpack (1986)",
-    "page_path": "content/wiki/billy-bob-backpack-1986.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -5896,16 +5666,6 @@
     "start_year": 2004,
     "category": "Chuck E. Cheese's",
     "tag": "Documents",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Playing Card Deck (1983)",
-    "page_path": "content/wiki/chuck-e-cheese-playing-card-deck-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -5970,16 +5730,6 @@
     "rating": 1
   },
   {
-    "title": "ShowBiz Trio Mini Playing Card Deck",
-    "page_path": "content/wiki/showbiz-trio-mini-playing-card-deck.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Raleigh, NC (3501-131 Capitol Blvd)",
     "page_path": "content/wiki/raleigh-nc-3501-131-capital-blvd.md",
     "startDate": "1988-06-00",
@@ -5998,16 +5748,6 @@
     "tag": "Animatronic Shows",
     "contributors_count": 2,
     "rating": 2
-  },
-  {
-    "title": "Welly Blue Chuck E. Cheese Delivery Truck (1993)",
-    "page_path": "content/wiki/welly-blue-chuck-e-cheese-delivery-truck-1993.md",
-    "startDate": "1993-00-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Bobby Bear/ Bristles Bear (Pasqually Retrofit)",
@@ -6116,16 +5856,6 @@
     "start_year": null,
     "category": "Creative Engineering",
     "tag": null,
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese 21' Plush (1988)",
-    "page_path": "content/wiki/chuck-e-cheese-21-plush-1988.md",
-    "startDate": "1988-00-00",
-    "start_year": 1988,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -6450,6 +6180,16 @@
     "rating": 1
   },
   {
+    "title": "2008 Avenger Chuck Birthday Star Tin Lunchbox",
+    "page_path": "content/wiki/fe423f4584f7fc71.md",
+    "startDate": "2008-00-00",
+    "start_year": 2008,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Blank Tag Co. The Helen Henny Sticker",
     "page_path": "content/wiki/blank-tag-co-the-helen-henny-sticker.md",
     "startDate": "2024-00-00",
@@ -6540,16 +6280,6 @@
     "rating": 0
   },
   {
-    "title": "CEC Beach Towel (1993)",
-    "page_path": "content/wiki/cec-beach-towel-1993.md",
-    "startDate": "1993-00-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Pizza Time Theatre 'Pizza Cook'",
     "page_path": "content/wiki/pizza-time-theatre-pizza-cook.md",
     "startDate": "1981-00-00",
@@ -6578,16 +6308,6 @@
     "tag": "Showtapes",
     "contributors_count": 5,
     "rating": 1
-  },
-  {
-    "title": "Homage I Love Chuck E. Cheese's Retro T-Shirt",
-    "page_path": "content/wiki/homage-i-love-chuck-e-cheese-s-retro-t-shirt.md",
-    "startDate": "2023-00-00",
-    "start_year": 2023,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Tribute to Prince - Diamonds and Pearls",
@@ -6740,16 +6460,6 @@
     "rating": 0
   },
   {
-    "title": "Mr. Munch 15' Fuzzy Plush (1988)",
-    "page_path": "content/wiki/mr-munch-15-fuzzy-plush-1988.md",
-    "startDate": "1988-00-00",
-    "start_year": 1988,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Don't Stop Thinking About Tomorrow",
     "page_path": "content/wiki/don-t-stop-thinking-about-tomorrow.md",
     "startDate": "1995-04-11",
@@ -6766,6 +6476,16 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
+    "title": "1987 Creative Engineering Happy Birthday Cup",
+    "page_path": "content/wiki/097c7bcb3a123ee2.md",
+    "startDate": "1987-00-00",
+    "start_year": 1987,
+    "category": "Creative Engineering",
+    "tag": "In-Store Merchandise",
     "contributors_count": 1,
     "rating": 0
   },
@@ -7030,26 +6750,6 @@
     "rating": 0
   },
   {
-    "title": "Small Jasper Plush (1992)",
-    "page_path": "content/wiki/small-jasper-plush-1992.md",
-    "startDate": "1992-00-00",
-    "start_year": 1992,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Gummi Pizza Pack",
-    "page_path": "content/wiki/chuck-e-cheese-s-gummi-pizza-pack.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Chuck E. Cheese's Coloring Book",
     "page_path": "content/wiki/chuck-e-cheese-s-coloring-book.md",
     "startDate": "",
@@ -7066,16 +6766,6 @@
     "start_year": 1993,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Beach Bear 13' Plush Doll",
-    "page_path": "content/wiki/beach-bear-13-plush-doll.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -7340,16 +7030,6 @@
     "rating": 0
   },
   {
-    "title": "ShowBiz Pizza Place Ceramic Mini-Mug",
-    "page_path": "content/wiki/showbiz-pizza-place-ceramic-mini-mug.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Sharonville, OH (1429 E Kemper Rd)",
     "page_path": "content/wiki/sharonville-oh-1429-e-kemper-rd.md",
     "startDate": "1981-10-21",
@@ -7456,16 +7136,6 @@
     "start_year": 1982,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi Slide Puzzle",
-    "page_path": "content/wiki/mitzi-slide-puzzle.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -7606,16 +7276,6 @@
     "start_year": 2004,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Pasqually Olympics Glass (1980)",
-    "page_path": "content/wiki/pasqually-olympics-glass-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -7850,16 +7510,6 @@
     "rating": 0
   },
   {
-    "title": "CEC Plush Football (1995)",
-    "page_path": "content/wiki/cec-plush-football-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Summertime 2003",
     "page_path": "content/wiki/summertime-2003.md",
     "startDate": "2003-07-00",
@@ -8006,16 +7656,6 @@
     "start_year": null,
     "category": "Creative Engineering",
     "tag": "Characters",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Removable Tattoo's (1993)",
-    "page_path": "content/wiki/removable-tattoo-s-1993.md",
-    "startDate": "1993-00-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -8490,16 +8130,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Logo Pinback Button (1980)",
-    "page_path": "content/wiki/billy-bob-logo-pinback-button-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "'Smiles' (CEC Décor)",
     "page_path": "content/wiki/smiles-cec-decor.md",
     "startDate": "2005-00-00",
@@ -8536,16 +8166,6 @@
     "start_year": null,
     "category": "Creative Engineering",
     "tag": "Characters",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Jolly Time Blast O Butter",
-    "page_path": "content/wiki/chuck-e-cheese-jolly-time-blast-o-butter.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -8780,16 +8400,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese T-Shirt (1995)",
-    "page_path": "content/wiki/chuck-e-cheese-t-shirt-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Physical Fitness",
     "page_path": "content/wiki/physical-fitness.md",
     "startDate": "1992-03-00",
@@ -8836,16 +8446,6 @@
     "start_year": 1980,
     "category": "Pizza Time Theatre",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mr. Munch 'Big-Head' Plush (2020)",
-    "page_path": "content/wiki/mr-munch-big-head-plush-2020.md",
-    "startDate": "2020-00-00",
-    "start_year": 2020,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -8927,6 +8527,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1994 CEC Collectors Series No. 1 Chuck E. Cheese Digital Watch",
+    "page_path": "content/wiki/2c178f9e929bbefe.md",
+    "startDate": "1994-00-00",
+    "start_year": 1994,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -9600,16 +9210,6 @@
     "rating": 0
   },
   {
-    "title": "2006 Quarterback Football",
-    "page_path": "content/wiki/92a29a0ba92117cd.md",
-    "startDate": "2006-00-00",
-    "start_year": 2006,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 1,
-    "rating": 0
-  },
-  {
     "title": "Fun Break (Commercial)",
     "page_path": "content/wiki/fun-break-commercial.md",
     "startDate": "2018-00-00",
@@ -9810,6 +9410,16 @@
     "rating": 0
   },
   {
+    "title": "1982 Pizza Time Theatre Keychain",
+    "page_path": "content/wiki/c5220279a4428afc.md",
+    "startDate": "1982-00-00",
+    "start_year": 1982,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "PBS National - Active (Commercial)",
     "page_path": "content/wiki/pbs-national-active-commercial.md",
     "startDate": "2006-00-00",
@@ -9837,6 +9447,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1994 Coach SPT Coin Purse",
+    "page_path": "content/wiki/3734d53340c01ff1.md",
+    "startDate": "1994-00-00",
+    "start_year": 1994,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -9886,16 +9506,6 @@
     "start_year": 1983,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Time for Fun Watch",
-    "page_path": "content/wiki/billy-bob-time-for-fun-watch.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -10020,16 +9630,6 @@
     "rating": 1
   },
   {
-    "title": "Mr. Munch Poster (1980)",
-    "page_path": "content/wiki/mr-munch-poster-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Chicken Dance",
     "page_path": "content/wiki/chicken-dance.md",
     "startDate": "2007-12-01",
@@ -10116,16 +9716,6 @@
     "start_year": 2005,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Video Quiz Whizz Shirt",
-    "page_path": "content/wiki/showbiz-video-quiz-whizz-shirt.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -10257,16 +9847,6 @@
     "category": "Pizza Time Theatre",
     "tag": "Company Media",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Plastic Ring",
-    "page_path": "content/wiki/billy-bob-plastic-ring.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -10406,16 +9986,6 @@
     "start_year": 1981,
     "category": "Pizza Time Theatre",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Beach Bear 13' Plush Doll Prototype",
-    "page_path": "content/wiki/beach-bear-13-plush-doll-prototype.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -10670,16 +10240,6 @@
     "rating": 1
   },
   {
-    "title": "Encore Performances Chuck E. Cheese Christmas Favorites",
-    "page_path": "content/wiki/encore-performances-chuck-e-cheese-christmas-favorites.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Bronx, NY (1816 E Gun Hill Rd)",
     "page_path": "content/wiki/bronx-ny-1816-e-gunhill-rd.md",
     "startDate": "2003-02-19",
@@ -10706,16 +10266,6 @@
     "start_year": 2017,
     "category": "Creative Engineering",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Pizza Time Theatre Pencil-box",
-    "page_path": "content/wiki/pizza-time-theatre-pencil-box.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -10840,16 +10390,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Ringer T-Shirt",
-    "page_path": "content/wiki/billy-bob-ringer-t-shirt.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "September 2010 Show",
     "page_path": "content/wiki/september-2010-show.md",
     "startDate": "2010-09-01",
@@ -10877,6 +10417,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1983 Chuck E. Cheese S Mini Pencil Set & Charm",
+    "page_path": "content/wiki/293fdb4253eea4df.md",
+    "startDate": "1983-00-00",
+    "start_year": 1983,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -10990,16 +10540,6 @@
     "rating": 2
   },
   {
-    "title": "Gee, Our 1st Album Vinyl Record (1982)",
-    "page_path": "content/wiki/gee-our-1st-album-vinyl-record-1982.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Warblettes (Cyberamic)",
     "page_path": "content/wiki/warblettes-cyberamic.md",
     "startDate": "1979-00-00",
@@ -11084,6 +10624,16 @@
     "page_path": "content/wiki/cec-awesome-adventure-machine-mouse-pad.md",
     "startDate": "",
     "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
+    "title": "2012 Chuck E. Cheese S Collectable Cup",
+    "page_path": "content/wiki/664c21c398fd433a.md",
+    "startDate": "2012-00-00",
+    "start_year": 2012,
     "category": "Chuck E. Cheese's",
     "tag": "In-Store Merchandise",
     "contributors_count": 1,
@@ -11380,16 +10930,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese and Coloring & Activity Book",
-    "page_path": "content/wiki/chuck-e-cheese-and-coloring-activity-book.md",
-    "startDate": "2024-00-00",
-    "start_year": 2024,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Riyadh (Exit 5/King Abdul Aziz), Saudi Arabia",
     "page_path": "content/wiki/riyadh-exit-5king-abdul-aziz-saudi-arabia.md",
     "startDate": "2013-11-16",
@@ -11456,16 +10996,6 @@
     "start_year": 2005,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Sez Ruler",
-    "page_path": "content/wiki/billy-bob-sez-ruler.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -11540,13 +11070,13 @@
     "rating": 0
   },
   {
-    "title": "Rock-afire Explosion Record 11 (1983)",
-    "page_path": "content/wiki/rock-afire-explosion-record-11-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
+    "title": "1994 CEC Mug",
+    "page_path": "content/wiki/23aaf8cc9b8d896d.md",
+    "startDate": "1994-00-00",
+    "start_year": 1994,
+    "category": "Chuck E. Cheese's",
     "tag": "In-Store Merchandise",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -11576,16 +11106,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Fatz Lucite Keychain",
-    "page_path": "content/wiki/fatz-lucite-keychain.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -11880,16 +11400,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob & Chuck E. Cheese Watch (Ver. A)",
-    "page_path": "content/wiki/billy-bob-chuck-e-cheese-watch-ver-a.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Memphis, TN (3649 Hickory Hill Rd)",
     "page_path": "content/wiki/memphis-tn-3649-hickory-hill-rd.md",
     "startDate": "1982-08-24",
@@ -11990,32 +11500,12 @@
     "rating": 0
   },
   {
-    "title": "Jasper T. Jowls 'Big-Head' Plush (2020)",
-    "page_path": "content/wiki/jasper-t-jowls-big-head-plush-2020.md",
-    "startDate": "2020-00-00",
-    "start_year": 2020,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "8' Vanilla White Cake (CEC Menu Item)",
     "page_path": "content/wiki/8-vanilla-white-cake-cec-menu-item.md",
     "startDate": "2007-00-00",
     "start_year": 2007,
     "category": "Chuck E. Cheese's",
     "tag": "Menu Items",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Jumbo Eraser (1986)",
-    "page_path": "content/wiki/billy-bob-jumbo-eraser-1986.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -12030,16 +11520,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Hot Wheels Fat Fendered 40 (2001)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-fat-fendered-40-2001.md",
-    "startDate": "2001-00-00",
-    "start_year": 2001,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Holiday 2006",
     "page_path": "content/wiki/holiday-2006.md",
     "startDate": "2006-12-00",
@@ -12047,16 +11527,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Pizza Time Theatre Barrel Mug",
-    "page_path": "content/wiki/pizza-time-theatre-barrel-mug.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -12196,16 +11666,6 @@
     "start_year": 1996,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Kids Stuff Plush (2000)",
-    "page_path": "content/wiki/chuck-e-cheese-s-kids-stuff-plush-2000.md",
-    "startDate": "2000-00-00",
-    "start_year": 2000,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -12500,16 +11960,6 @@
     "rating": 0
   },
   {
-    "title": "Rock-afire Explosion Record 1 Reprint (1983)",
-    "page_path": "content/wiki/rock-afire-explosion-record-1-reprint-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Who You Gonna Call (Commercial)",
     "page_path": "content/wiki/who-you-gonna-call-commercial.md",
     "startDate": "2003-00-00",
@@ -12780,16 +12230,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese x Hendrick Motorsports T-shirt",
-    "page_path": "content/wiki/chuck-e-cheese-x-hendrick-motorsports-t-shirt.md",
-    "startDate": "2023-00-00",
-    "start_year": 2023,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Wild West (SPT Prototype Art)",
     "page_path": "content/wiki/wild-west-spt-prototype-art.md",
     "startDate": "1992-00-00",
@@ -12920,16 +12360,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob OTC Token Dispensers (1986)",
-    "page_path": "content/wiki/billy-bob-otc-token-dispensers-1986.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Grand Rapids, MI (3671 28th St)",
     "page_path": "content/wiki/grand-rapids-mi-3671-28th-st.md",
     "startDate": "1983-06-06",
@@ -12956,16 +12386,6 @@
     "start_year": null,
     "category": "Sally Corporation",
     "tag": "Stage Variations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Limited Edition Birthday Plush (2005)",
-    "page_path": "content/wiki/chuck-e-cheese-s-limited-edition-birthday-plush-2005.md",
-    "startDate": "2005-00-00",
-    "start_year": 2005,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -13310,16 +12730,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Hot Wheels Custom Van (1997)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-custom-van-1997.md",
-    "startDate": "1997-00-00",
-    "start_year": 1997,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "CEC Connect App",
     "page_path": "content/wiki/cec-connect-app.md",
     "startDate": "",
@@ -13540,16 +12950,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's 2004 Plush (2004)",
-    "page_path": "content/wiki/chuck-e-cheese-s-2004-plush-2004.md",
-    "startDate": "2004-00-00",
-    "start_year": 2004,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Madison, TN (2070 Gallatin Pike)",
     "page_path": "content/wiki/madison-tn-2070-gallatin-pike.md",
     "startDate": "1982-06-15",
@@ -13598,16 +12998,6 @@
     "tag": "Showtapes",
     "contributors_count": 2,
     "rating": 1
-  },
-  {
-    "title": "Fatz 9' Plush Doll (1981)",
-    "page_path": "content/wiki/fatz-9-plush-doll-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "2010 Groovy Plush Baseball",
@@ -13700,16 +13090,6 @@
     "rating": 0
   },
   {
-    "title": "ShowBiz Pizza Place Binoculars",
-    "page_path": "content/wiki/showbiz-pizza-place-binoculars.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Ice Hockey (CEC Décor)",
     "page_path": "content/wiki/ice-hockey-cec-decor.md",
     "startDate": "1999-00-00",
@@ -13777,6 +13157,16 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Menu Items",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1993 SPT Purse",
+    "page_path": "content/wiki/3cc0b521287088dc.md",
+    "startDate": "1993-00-00",
+    "start_year": 1993,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -13900,16 +13290,6 @@
     "rating": 0
   },
   {
-    "title": "Mitzi Memo Pad Kit",
-    "page_path": "content/wiki/mitzi-memo-pad-kit.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Token 140 (B, N)",
     "page_path": "content/wiki/ptt-token-140-b-n.md",
     "startDate": "",
@@ -13936,16 +13316,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Products",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese 'Smile America, Say Chuck E. Cheese' Bisque Figure (1982)",
-    "page_path": "content/wiki/chuck-e-cheese-smile-america-say-chuck-e-cheese-bisque-figure-1982.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -14046,16 +13416,6 @@
     "start_year": 1981,
     "category": "Pizza Time Theatre",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Gift Box",
-    "page_path": "content/wiki/chuck-e-cheese-gift-box.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -14210,16 +13570,6 @@
     "rating": 0
   },
   {
-    "title": "Fatz Krystalike Keychain",
-    "page_path": "content/wiki/fatz-krystalike-keychain.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "North Richland Hills, TX (7935 Grapevine Hwy)",
     "page_path": "content/wiki/north-richland-hills-tx-7935-grapevine-hwy.md",
     "startDate": "1982-04-07",
@@ -14306,16 +13656,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Glass (1979)",
-    "page_path": "content/wiki/chuck-e-cheese-glass-1979.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -14790,32 +14130,12 @@
     "rating": 0
   },
   {
-    "title": "Beach Bear Pewter Pin",
-    "page_path": "content/wiki/beach-bear-pewter-pin.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Bill Changer (SPP Signage)",
     "page_path": "content/wiki/bill-changer-spp-signage.md",
     "startDate": "1980-00-00",
     "start_year": 1980,
     "category": "ShowBiz Pizza Place",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese PTT 3' Snow Globe",
-    "page_path": "content/wiki/chuck-e-cheese-ptt-3-snow-globe.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -14900,16 +14220,6 @@
     "rating": 0
   },
   {
-    "title": "'Tokens N' Tickets' Bag Keychain (1994)",
-    "page_path": "content/wiki/tokens-n-tickets-bag-keychain-1994.md",
-    "startDate": "1994-00-00",
-    "start_year": 1994,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "1994 Canine Crew Puppets",
     "page_path": "content/wiki/1994-canine-crew-puppets.md",
     "startDate": "",
@@ -14946,16 +14256,6 @@
     "start_year": null,
     "category": "ShowBiz Pizza Place",
     "tag": "Tickets",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Clear Plastic Ruler",
-    "page_path": "content/wiki/billy-bob-clear-plastic-ruler.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -15090,16 +14390,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Hot Wheels 80's Corvette (1997)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-80-s-corvette-1997.md",
-    "startDate": "1997-00-00",
-    "start_year": 1997,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Zip-A-Dee-Doo-Dah Performed by Helen Henny",
     "page_path": "content/wiki/Zip-A-Dee-Doo-Dah-performed-by-helen-henny.md",
     "startDate": "2024-11-04",
@@ -15126,16 +14416,6 @@
     "start_year": 1984,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Helen Henny Limited Edition Plush (2004)",
-    "page_path": "content/wiki/helen-henny-limited-edition-plush-2004.md",
-    "startDate": "2004-00-00",
-    "start_year": 2004,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -15186,16 +14466,6 @@
     "start_year": null,
     "category": "Pizza Time Theatre",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Beach Bear 13' Plush Doll (1981)",
-    "page_path": "content/wiki/beach-bear-13-plush-doll-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -15290,16 +14560,6 @@
     "rating": 0
   },
   {
-    "title": "ShowBiz Trio Ringer T-Shirt",
-    "page_path": "content/wiki/showbiz-trio-ringer-t-shirt.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "SPP Token S13 (B, N, aN)",
     "page_path": "content/wiki/spp-token-s13-b-n-an.md",
     "startDate": "",
@@ -15336,16 +14596,6 @@
     "start_year": 1982,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Token Watch (1999)",
-    "page_path": "content/wiki/token-watch-1999.md",
-    "startDate": "1999-00-00",
-    "start_year": 1999,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -15530,16 +14780,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Limited Edition Bumblebee Plush (2004)",
-    "page_path": "content/wiki/chuck-e-cheese-s-limited-edition-bumblebee-plush-2004.md",
-    "startDate": "2004-00-00",
-    "start_year": 2004,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Chuck E. Cheese Live '90 Live Training",
     "page_path": "content/wiki/chuck-e-cheese-live-90-live-training.md",
     "startDate": "",
@@ -15698,16 +14938,6 @@
     "tag": "In-Store Merchandise",
     "contributors_count": 3,
     "rating": 1
-  },
-  {
-    "title": "Billy Bob ACME 9 1/2' Plush Doll (1982)",
-    "page_path": "content/wiki/billy-bob-acme-9-12-plush-doll-1982.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Everyday Value $34.25 (Commercial)",
@@ -15870,16 +15100,6 @@
     "rating": 0
   },
   {
-    "title": "CEC Cheese Lunchbox (1995)",
-    "page_path": "content/wiki/cec-cheese-lunchbox-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Chuck E. Cheese Nutritional Poster (1981)",
     "page_path": "content/wiki/ptt-chuck-e-cheese-nutritional-poster-1981.md",
     "startDate": "",
@@ -15907,16 +15127,6 @@
     "category": "Jim Henson's Creature Shop",
     "tag": "Animatronics",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Jasper T. Jowls Early Hand Puppet",
-    "page_path": "content/wiki/jasper-t-jowls-early-hand-puppet.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -16010,16 +15220,6 @@
     "rating": 0
   },
   {
-    "title": "Jumbo Chuck E. Plush (1996)",
-    "page_path": "content/wiki/jumbo-chuck-e-plush-1996.md",
-    "startDate": "1996-00-00",
-    "start_year": 1996,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "'ShowBiz Pizza' (SPT Exterior Signage)",
     "page_path": "content/wiki/showbiz-pizza-spt-exterior-signage.md",
     "startDate": "",
@@ -16047,16 +15247,6 @@
     "category": "Creative Engineering",
     "tag": "Showtapes",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob's Official Little Paws Fan Club Membership Card (1983)",
-    "page_path": "content/wiki/billy-bob-s-official-little-paws-fan-club-membership-card-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -16320,16 +15510,6 @@
     "rating": 0
   },
   {
-    "title": "Mr. Munch 15' Plush (1988)",
-    "page_path": "content/wiki/mr-munch-15-plush-1988.md",
-    "startDate": "1988-00-00",
-    "start_year": 1988,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Ryan's World Fan Fest Watch Party",
     "page_path": "content/wiki/ryan-s-world-fan-fest-watch-party.md",
     "startDate": "2021-11-27",
@@ -16567,6 +15747,16 @@
     "category": "ShowBiz Pizza Place",
     "tag": "In-Store Merchandise",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2001 CEC Big Rig",
+    "page_path": "content/wiki/57835fd43289017f.md",
+    "startDate": "2001-00-00",
+    "start_year": 2001,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -16810,16 +16000,6 @@
     "rating": 0
   },
   {
-    "title": "Fatz Playing Card Deck",
-    "page_path": "content/wiki/fatz-playing-card-deck.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Hannah Banana Tape",
     "page_path": "content/wiki/hannah-banana-tape.md",
     "startDate": "2007-00-00",
@@ -17037,16 +16217,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
     "contributors_count": 2,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Plastic Backscratcher",
-    "page_path": "content/wiki/billy-bob-plastic-backscratcher.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -17350,26 +16520,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese 9' CST Alternate Hand Puppet",
-    "page_path": "content/wiki/chuck-e-cheese-9-cst-alternate-hand-puppet.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Playing Card Deck",
-    "page_path": "content/wiki/billy-bob-playing-card-deck.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "1997 Large Chuck E. Plush",
     "page_path": "content/wiki/1997-large-chuck-e-plush.md",
     "startDate": "1997-00-00",
@@ -17420,26 +16570,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob & Chuck E. Cheese Puzzle",
-    "page_path": "content/wiki/billy-bob-chuck-e-cheese-puzzle.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "CEC Hacky Sack Ball (1995)",
-    "page_path": "content/wiki/cec-hacky-sack-ball-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Live Show Training 2002",
     "page_path": "content/wiki/live-show-training-2002.md",
     "startDate": "",
@@ -17447,16 +16577,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Coin Bank (1993)",
-    "page_path": "content/wiki/chuck-e-cheese-coin-bank-1993.md",
-    "startDate": "1993-00-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -17570,16 +16690,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Loves Me Bumper Sticker",
-    "page_path": "content/wiki/billy-bob-loves-me-bumper-sticker.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Winchester Pasqually (Animatronic)",
     "page_path": "content/wiki/winchester-pasqually-animatronic.md",
     "startDate": "1977-05-00",
@@ -17637,6 +16747,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Products",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2001 CEC Pizza Playset",
+    "page_path": "content/wiki/f3b3c084b4f2b64e.md",
+    "startDate": "2001-00-00",
+    "start_year": 2001,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -17887,16 +17007,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Promo Child's Watch",
-    "page_path": "content/wiki/chuck-e-cheese-promo-child-s-watch.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -18210,6 +17320,16 @@
     "rating": 0
   },
   {
+    "title": "2006 CEC Vs. Mr. Munch Football",
+    "page_path": "content/wiki/a35aaf445f0f1146.md",
+    "startDate": "2006-00-00",
+    "start_year": 2006,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "GTLC ShowBiz 'Family Games' 1990 Ticket (Red)",
     "page_path": "content/wiki/gtlc-showbiz-family-games-1990-ticket-red.md",
     "startDate": "",
@@ -18356,16 +17476,6 @@
     "start_year": 1989,
     "category": "Chuck E. Cheese's",
     "tag": "Menu Items",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "'Ticket Tote' Bag Keychain (1994)",
-    "page_path": "content/wiki/ticket-tote-bag-keychain-1994.md",
-    "startDate": "1994-00-00",
-    "start_year": 1994,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -18560,16 +17670,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Frisbee",
-    "page_path": "content/wiki/billy-bob-frisbee.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Spokane, WA (10007 N Nevada St)",
     "page_path": "content/wiki/spokane-wa-10007-n-nevada-st.md",
     "startDate": "2000-03-00",
@@ -18690,16 +17790,6 @@
     "rating": 0
   },
   {
-    "title": "Mitzi Mozzarella Logo Pinback Button (1980)",
-    "page_path": "content/wiki/mitzi-mozzarella-logo-pinback-button-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Trampoline Zone Chuck E. Cheese Art (CEC Décor)",
     "page_path": "content/wiki/trampoline-zone-chuck-e-cheese-art-cec-decor.md",
     "startDate": "2023-00-00",
@@ -18746,16 +17836,6 @@
     "start_year": 1999,
     "category": "Creative Engineering",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Mini Mug (1986)",
-    "page_path": "content/wiki/chuck-e-cheese-mini-mug-1986.md",
-    "startDate": "1986-00-00",
-    "start_year": 1986,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -18920,26 +18000,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese Walk-Along Radio",
-    "page_path": "content/wiki/chuck-e-cheese-walk-along-radio.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Ceramic Coin Bank",
-    "page_path": "content/wiki/billy-bob-ceramic-coin-bank.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Melrose Park, IL (1315 W North Ave)",
     "page_path": "content/wiki/melrose-park-il-1315-w-north-ave.md",
     "startDate": "1991-09-24",
@@ -18997,26 +18057,6 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Showtapes",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place Mesh Hat",
-    "page_path": "content/wiki/showbiz-pizza-place-mesh-hat.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese 2 1/2' PVC (1983)",
-    "page_path": "content/wiki/chuck-e-cheese-2-12-pvc-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -19080,16 +18120,6 @@
     "rating": 0
   },
   {
-    "title": "Dook Pewter Pin",
-    "page_path": "content/wiki/dook-pewter-pin.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "2015 Brown Rat Puppet",
     "page_path": "content/wiki/2015-brown-rat-puppet.md",
     "startDate": "",
@@ -19116,16 +18146,6 @@
     "start_year": 1990,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place Beach Club T-Shirt (1987)",
-    "page_path": "content/wiki/showbiz-pizza-place-beach-club-t-shirt-1987.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -19456,16 +18476,6 @@
     "start_year": 1980,
     "category": "Pizza Time Theatre",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place Stein",
-    "page_path": "content/wiki/showbiz-pizza-place-stein.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -20190,32 +19200,12 @@
     "rating": 0
   },
   {
-    "title": "Mitzi Mozzarella Krystalike Keychain",
-    "page_path": "content/wiki/mitzi-mozzarella-krystalike-keychain.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Report Card (Commercial)",
     "page_path": "content/wiki/report-card-commercial.md",
     "startDate": "2004-00-00",
     "start_year": 2004,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi OTC 9 1/2' Plush Doll (Ver. B)",
-    "page_path": "content/wiki/mitzi-otc-9-12-plush-doll-ver-b.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -20380,16 +19370,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese 9' CST Hand Puppet",
-    "page_path": "content/wiki/chuck-e-cheese-9-cst-hand-puppet.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Gulliver's World Stage",
     "page_path": "content/wiki/gulliver-s-world-stage.md",
     "startDate": "1992-00-00",
@@ -20500,16 +19480,6 @@
     "rating": 1
   },
   {
-    "title": "CEC Thumbs Up T-Shirt (1995)",
-    "page_path": "content/wiki/cec-thumbs-up-t-shirt-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "2023 Blue Silver Mini Plush Soccer Ball",
     "page_path": "content/wiki/5a8f1f95f8b3ad7b.md",
     "startDate": "2023-00-00",
@@ -20568,16 +19538,6 @@
     "tag": "ShowBiz Pizza Programs",
     "contributors_count": 1,
     "rating": 1
-  },
-  {
-    "title": "Dook Larue 13' Plush Doll Prototype",
-    "page_path": "content/wiki/dook-larue-13-plush-doll-prototype.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "2007 Walkaround Shoes (Costume Accessory)",
@@ -20896,16 +19856,6 @@
     "start_year": null,
     "category": "Unknown Manufacturers",
     "tag": "Retrofits",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mr. Munch Printed Hand Puppet (1983)",
-    "page_path": "content/wiki/mr-munch-printed-hand-puppet-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -21230,16 +20180,6 @@
     "rating": 0
   },
   {
-    "title": "Dook Larue 9 1/2' Plush Doll (1983)",
-    "page_path": "content/wiki/dook-larue-9-12-plush-doll-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "2017 Pink Whatnot Puppet 1",
     "page_path": "content/wiki/2017-pink-whatnot-puppet-1.md",
     "startDate": "",
@@ -21450,16 +20390,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese 9' OTC Alternate Plush",
-    "page_path": "content/wiki/chuck-e-cheese-9-otc-alternate-plush.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Orlando, FL (7419 International Dr)",
     "page_path": "content/wiki/orlando-fl-7419-international-dr.md",
     "startDate": "1981-07-22",
@@ -21496,16 +20426,6 @@
     "start_year": 2014,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Trio Playing Card Deck",
-    "page_path": "content/wiki/showbiz-trio-playing-card-deck.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -21620,16 +20540,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Skytubes",
-    "page_path": "content/wiki/chuck-e-cheese-s-skytubes.md",
-    "startDate": "2006-00-00",
-    "start_year": 2006,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "CEI Betamax",
     "page_path": "content/wiki/cei-betamax.md",
     "startDate": "",
@@ -21730,16 +20640,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Plastic Game Watch",
-    "page_path": "content/wiki/billy-bob-plastic-game-watch.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "'Michael Jackson Master (Non-Keeper)' (1/2 In. Reel)",
     "page_path": "content/wiki/michael-jackson-master-non-keeper-12-in-reel.md",
     "startDate": "0000-00-00",
@@ -21826,16 +20726,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Documents",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Pizza Time Theatre Desk Clock",
-    "page_path": "content/wiki/pizza-time-theatre-desk-clock.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -22220,16 +21110,6 @@
     "rating": 0
   },
   {
-    "title": "Helen Henny 'Big-Head' Plush (2020)",
-    "page_path": "content/wiki/helen-henny-big-head-plush-2020.md",
-    "startDate": "2020-00-00",
-    "start_year": 2020,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Pizza Time Theatre Gamesroom",
     "page_path": "content/wiki/pizza-time-theatre-gamesroom.md",
     "startDate": "1981-00-00",
@@ -22560,16 +21440,6 @@
     "rating": 0
   },
   {
-    "title": "Rock-afire Explosion Record 6 (1982)",
-    "page_path": "content/wiki/rock-afire-explosion-record-6-1982.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "2014 CEC Charity Golf Tournament (Event)",
     "page_path": "content/wiki/2014-cec-charity-golf-tournament-event.md",
     "startDate": "2014-00-00",
@@ -22626,16 +21496,6 @@
     "start_year": 1982,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Pewter Spoon (1983)",
-    "page_path": "content/wiki/chuck-e-cheese-pewter-spoon-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -23110,6 +21970,16 @@
     "rating": 0
   },
   {
+    "title": "1983 Pizza Time Theatre Translucent Plastic Keychain",
+    "page_path": "content/wiki/41e51385e5453667.md",
+    "startDate": "1983-00-00",
+    "start_year": 1983,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "CEC Token 402 (B, C, N)",
     "page_path": "content/wiki/cec-token-402-b-c-n.md",
     "startDate": "",
@@ -23470,16 +22340,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Grey Embroidered Bucket Hat (2004)",
-    "page_path": "content/wiki/chuck-e-cheese-s-grey-embroidered-bucket-hat-2004.md",
-    "startDate": "2004-00-00",
-    "start_year": 2004,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Chuck E. Cheese's Pizza Factory 1 (Commercial)",
     "page_path": "content/wiki/chuck-e-cheese-s-pizza-factory-1-commercial.md",
     "startDate": "1999-00-00",
@@ -23550,16 +22410,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Hot Wheels Jeep Trail Buster (1993)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-jeep-trail-buster-1993.md",
-    "startDate": "1993-00-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "'Slap Back Tape' (1/4 In. Reel)",
     "page_path": "content/wiki/slap-back-tape-14-in-reel.md",
     "startDate": "0000-00-00",
@@ -23618,16 +22468,6 @@
     "tag": "Products",
     "contributors_count": 2,
     "rating": 1
-  },
-  {
-    "title": "Mr. Munch & Pasqually Party Glass",
-    "page_path": "content/wiki/mr-munch-pasqually-party-glass.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Spokane Diagnostics",
@@ -23986,16 +22826,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Costumed Characters",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place Activity Book (1987)",
-    "page_path": "content/wiki/showbiz-pizza-place-activity-book-1987.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -24430,16 +23260,6 @@
     "rating": 0
   },
   {
-    "title": "'I Hugged Billy Bob' Pinback Button",
-    "page_path": "content/wiki/i-hugged-billy-bob-pinback-button.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Spring 2014 Show",
     "page_path": "content/wiki/spring-2014-show.md",
     "startDate": "2014-04-01",
@@ -24576,16 +23396,6 @@
     "start_year": null,
     "category": "Creative Engineering",
     "tag": null,
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Homage Its Easy Being Chuck E. Cheese T-Shirt",
-    "page_path": "content/wiki/homage-its-easy-being-chuck-e-cheese-t-shirt.md",
-    "startDate": "2023-00-00",
-    "start_year": 2023,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -24786,16 +23596,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Documents",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob & Chuck E. Cheese Pencilbox",
-    "page_path": "content/wiki/billy-bob-chuck-e-cheese-pencilbox.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -25050,6 +23850,16 @@
     "rating": 0
   },
   {
+    "title": "1994 Red Prize Bottle",
+    "page_path": "content/wiki/9ebbf01d1834a2a2.md",
+    "startDate": "1994-00-00",
+    "start_year": 1994,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Milwaukee, WI (4595 S 27th St)",
     "page_path": "content/wiki/milwaukee-wi-4595-s-27th-st.md",
     "startDate": "1981-08-27",
@@ -25190,16 +24000,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Mini Playing Card Deck",
-    "page_path": "content/wiki/billy-bob-mini-playing-card-deck.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Tallahassee, FL (1155 Apalachee Pkwy)",
     "page_path": "content/wiki/tallahassee-fl-1155-apalachee-pkwy.md",
     "startDate": "1982-08-09",
@@ -25336,26 +24136,6 @@
     "start_year": null,
     "category": "Sally Corporation",
     "tag": "Animatronics",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Fatz Ringer T-Shirt",
-    "page_path": "content/wiki/fatz-ringer-t-shirt.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob OTC 9 1/2' Plush Doll (Ver. B)",
-    "page_path": "content/wiki/billy-bob-otc-9-12-plush-doll-ver-b.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -25720,6 +24500,16 @@
     "rating": 0
   },
   {
+    "title": "1981 Chuck E. Cheese Milk Glass Mug",
+    "page_path": "content/wiki/3b700229b2dbefc3.md",
+    "startDate": "1981-00-00",
+    "start_year": 1981,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Pizza Time Theatre Happy Holidays Mug (1983)",
     "page_path": "content/wiki/pizza-time-theatre-happy-holidays-mug-1983.md",
     "startDate": "1983-00-00",
@@ -25837,6 +24627,16 @@
     "category": "Pizza Time Theatre",
     "tag": "Arcades and Attractions",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1983 Pizza Time Theatre Playing Cards",
+    "page_path": "content/wiki/ea9225f5bb2591e5.md",
+    "startDate": "1983-00-00",
+    "start_year": 1983,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -26006,16 +24806,6 @@
     "start_year": null,
     "category": "Creative Engineering",
     "tag": "Company Media",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi Vinyl Clasp Wallet",
-    "page_path": "content/wiki/mitzi-vinyl-clasp-wallet.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -26306,16 +25096,6 @@
     "start_year": 1990,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Pizza Time Theatre Playing Card Deck",
-    "page_path": "content/wiki/pizza-time-theatre-playing-card-deck.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -26620,16 +25400,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob 'Life of the Party!!' Photo Frame",
-    "page_path": "content/wiki/billy-bob-life-of-the-party-photo-frame.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "ShowBiz & Chuck E. Cheese's 1989 Las Vegas Conference (Event)",
     "page_path": "content/wiki/showbiz-chuck-e-cheese-s-1989-las-vegas-conference-event.md",
     "startDate": "1989-00-00",
@@ -26768,16 +25538,6 @@
     "tag": "Animatronics",
     "contributors_count": 3,
     "rating": 1
-  },
-  {
-    "title": "CEC 1995 Special Edition Barbie Doll (1995)",
-    "page_path": "content/wiki/cec-1995-special-edition-barbie-doll-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Win (Commercial)",
@@ -27010,16 +25770,6 @@
     "rating": 0
   },
   {
-    "title": "Mitzi Vinyl Pencil Bag",
-    "page_path": "content/wiki/mitzi-vinyl-pencil-bag.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "2018 Fiddler Dog Puppet",
     "page_path": "content/wiki/2018-fiddler-dog-puppet.md",
     "startDate": "",
@@ -27160,16 +25910,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese Paper Weight (1981)",
-    "page_path": "content/wiki/chuck-e-cheese-paper-weight-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Lounge Sign: The King",
     "page_path": "content/wiki/ptt-lounge-sign-the-king.md",
     "startDate": "",
@@ -27287,16 +26027,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Costumed Characters",
     "contributors_count": 3,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Printed Hand Puppet (1983)",
-    "page_path": "content/wiki/chuck-e-cheese-printed-hand-puppet-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -27436,16 +26166,6 @@
     "start_year": 1986,
     "category": "Pizza Time Theatre",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Color-Block Fanny Pack",
-    "page_path": "content/wiki/chuck-e-cheese-color-block-fanny-pack.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -27920,52 +26640,12 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese Alternate Coin Bank",
-    "page_path": "content/wiki/chuck-e-cheese-alternate-coin-bank.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Saving Bank (1997)",
-    "page_path": "content/wiki/chuck-e-cheese-s-saving-bank-1997.md",
-    "startDate": "1997-00-00",
-    "start_year": 1997,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob & Chuck E. Cheese Watch (Ver. B)",
-    "page_path": "content/wiki/billy-bob-chuck-e-cheese-watch-ver-b.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Alexandria, VA (6303 Richmond Hwy)",
     "page_path": "content/wiki/alexandria-va-6303-richmond-hwy.md",
     "startDate": "1982-09-20",
     "start_year": 1982,
     "category": "Pizza Time Theatre",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese 12' OTC Plush",
-    "page_path": "content/wiki/chuck-e-cheese-12-otc-plush.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -28036,16 +26716,6 @@
     "start_year": 2008,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Small Pasqually Plush (1992)",
-    "page_path": "content/wiki/small-pasqually-plush-1992.md",
-    "startDate": "1992-00-00",
-    "start_year": 1992,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -28650,16 +27320,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Pizza Cup (1993)",
-    "page_path": "content/wiki/chuck-e-cheese-s-pizza-cup-1993.md",
-    "startDate": "1993-00-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "ShowBiz Pizza Place",
     "page_path": "content/wiki/showbiz-pizza-place.md",
     "startDate": "",
@@ -28770,32 +27430,12 @@
     "rating": 0
   },
   {
-    "title": "Mr. Munch 21' Plush (1988)",
-    "page_path": "content/wiki/mr-munch-21-plush-1988.md",
-    "startDate": "1988-00-00",
-    "start_year": 1988,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Mini Corn Dogs w/ Fries (CEC Menu Item)",
     "page_path": "content/wiki/mini-corn-dogs-w-fries-cec-menu-item.md",
     "startDate": "2021-00-00",
     "start_year": 2021,
     "category": "Chuck E. Cheese's",
     "tag": "Menu Items",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Wallet (1991)",
-    "page_path": "content/wiki/chuck-e-cheese-s-wallet-1991.md",
-    "startDate": "1991-00-00",
-    "start_year": 1991,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -29300,6 +27940,16 @@
     "rating": 0
   },
   {
+    "title": "2025 Chuck E. Cheese The Flying Pizza",
+    "page_path": "content/wiki/35d36b2e1080fd91.md",
+    "startDate": "2025-00-00",
+    "start_year": 2025,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "CEC 1998 Annual Report",
     "page_path": "content/wiki/cec-1998-annual-report.md",
     "startDate": "1998-00-00",
@@ -29347,16 +27997,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Sunglasses",
-    "page_path": "content/wiki/billy-bob-sunglasses.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -29460,16 +28100,6 @@
     "rating": 0
   },
   {
-    "title": "ShowBiz Pizza Place Wolfpack 5 Shirt (1980)",
-    "page_path": "content/wiki/showbiz-pizza-place-wolfpack-5-shirt-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Simple Spinach Salad (TJ Hartford's Menu Item)",
     "page_path": "content/wiki/simple-spinach-salad-tj-hartford-s-menu-item.md",
     "startDate": "2002-00-00",
@@ -29536,16 +28166,6 @@
     "start_year": 2005,
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Rock-afire Explosion Record 5 (1981)",
-    "page_path": "content/wiki/rock-afire-explosion-record-5-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -29630,16 +28250,6 @@
     "rating": 0
   },
   {
-    "title": "ShowBiz Pizza Place Pencil Box",
-    "page_path": "content/wiki/showbiz-pizza-place-pencil-box.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Chuck E. Cheese's The Christmas That Almost Wasn't",
     "page_path": "content/wiki/chuck-e-cheese-s-the-christmas-that-almost-wasn-t.md",
     "startDate": "1983-00-00",
@@ -29677,16 +28287,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 7,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Hot Wheels 80's Firebird (1992)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-80-s-firebird-1992.md",
-    "startDate": "1992-00-00",
-    "start_year": 1992,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -29816,16 +28416,6 @@
     "start_year": null,
     "category": "",
     "tag": "Puppets",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Poster (1980)",
-    "page_path": "content/wiki/chuck-e-cheese-poster-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -29977,6 +28567,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1988 CEC Beach Club Cup",
+    "page_path": "content/wiki/61ae6e8c1b596f3e.md",
+    "startDate": "1988-00-00",
+    "start_year": 1988,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -30146,16 +28746,6 @@
     "start_year": null,
     "category": "Pizza Time Theatre",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Welcome Eraser (1991)",
-    "page_path": "content/wiki/welcome-eraser-1991.md",
-    "startDate": "1991-00-00",
-    "start_year": 1991,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -30460,16 +29050,6 @@
     "rating": 0
   },
   {
-    "title": "Pizza Time Theatre Beer Stein (1980)",
-    "page_path": "content/wiki/pizza-time-theatre-beer-stein-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Joondalup, WA, Australia (3/7 Winton Rd)",
     "page_path": "content/wiki/joondalup-australia.md",
     "startDate": "2025-09-06",
@@ -30700,32 +29280,12 @@
     "rating": 0
   },
   {
-    "title": "Jasper T. Jowls CST Hand Puppet",
-    "page_path": "content/wiki/jasper-t-jowls-cst-hand-puppet.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "New Britain, CT (222 E Main St)",
     "page_path": "content/wiki/new-britain-ct-222-e-main-st.md",
     "startDate": "1983-07-00",
     "start_year": 1983,
     "category": "Pizza Time Theatre",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's 20th Anniversary Limited Edition Cup (1997)",
-    "page_path": "content/wiki/chuck-e-cheese-s-20th-anniversary-limited-edition-cup-1997.md",
-    "startDate": "1997-00-00",
-    "start_year": 1997,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -30890,16 +29450,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese Pen & Pen Topper",
-    "page_path": "content/wiki/chuck-e-cheese-pen-pen-topper.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Club Wrap (CEC Menu Item)",
     "page_path": "content/wiki/club-wrap-cec-menu-item.md",
     "startDate": "2015-00-00",
@@ -31040,32 +29590,12 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Plush Doll - Limited Run",
-    "page_path": "content/wiki/billy-bob-plush-doll-limited-run.md",
-    "startDate": "2017-00-00",
-    "start_year": 2017,
-    "category": "Creative Engineering",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Winter One (Commercial)",
     "page_path": "content/wiki/winter-one-commercial.md",
     "startDate": "2004-00-00",
     "start_year": 2004,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Rounded Pencil Topper",
-    "page_path": "content/wiki/billy-bob-rounded-pencil-topper.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -31096,16 +29626,6 @@
     "start_year": 1992,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Limited Edition Winter Wonderland Plush (2005)",
-    "page_path": "content/wiki/chuck-e-cheese-s-limited-edition-winter-wonderland-plush-2005.md",
-    "startDate": "2005-00-00",
-    "start_year": 2005,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -31146,16 +29666,6 @@
     "start_year": 1997,
     "category": "Chuck E. Cheese's",
     "tag": "Events",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Collectors Edition Series",
-    "page_path": "content/wiki/collectors-edition-series.md",
-    "startDate": "1993-00-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -31270,16 +29780,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Limited Edition Birthday Plush (2004)",
-    "page_path": "content/wiki/chuck-e-cheese-s-limited-edition-birthday-plush-2004.md",
-    "startDate": "2004-00-00",
-    "start_year": 2004,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Fayetteville, GA (786 Glynn St)",
     "page_path": "content/wiki/fayetteville-ga-786-glynn-st.md",
     "startDate": "2002-06-27",
@@ -31318,16 +29818,6 @@
     "tag": "Showtapes",
     "contributors_count": 1,
     "rating": 1
-  },
-  {
-    "title": "Jumbo Helen Plush (1996)",
-    "page_path": "content/wiki/jumbo-helen-plush-1996.md",
-    "startDate": "1996-00-00",
-    "start_year": 1996,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "C&R SVHS (Pre-93)",
@@ -31426,16 +29916,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Costumed Characters",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Mini Tool Set",
-    "page_path": "content/wiki/showbiz-pizza-mini-tool-set.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -31580,16 +30060,6 @@
     "rating": 0
   },
   {
-    "title": "Helen Henny T-Shirt (1995)",
-    "page_path": "content/wiki/helen-henny-t-shirt-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Uncle Klunk Diagnostic Tape",
     "page_path": "content/wiki/uncle-klunk-diagnostic-tape.md",
     "startDate": "1983-07-00",
@@ -31616,16 +30086,6 @@
     "start_year": 2007,
     "category": "Chuck E. Cheese's",
     "tag": "Menu Items",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Customized Rock-afire Birthday Show (2016-2021)",
-    "page_path": "content/wiki/customized-rock-afire-birthday-show-2016-2021.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Creative Engineering",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -31720,16 +30180,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese 18' Plush (1978)",
-    "page_path": "content/wiki/chuck-e-cheese-18-plush-1978.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Paul (Cyberamic)",
     "page_path": "content/wiki/paul-cyberamic.md",
     "startDate": "",
@@ -31757,16 +30207,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "In-Store Merchandise",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Two-Tone Magnet (1981)",
-    "page_path": "content/wiki/chuck-e-cheese-two-tone-magnet-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -31880,16 +30320,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese Mini Ball Game (1981)",
-    "page_path": "content/wiki/chuck-e-cheese-mini-ball-game-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Blank Vision Care Plan Form (1982)",
     "page_path": "content/wiki/ptt-blank-vision-care-plan-form-1982.md",
     "startDate": "",
@@ -31906,16 +30336,6 @@
     "start_year": 1992,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Pizza Time Theatre Footed Mug (Ver. A)",
-    "page_path": "content/wiki/pizza-time-theatre-footed-mug-ver-a.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -31956,16 +30376,6 @@
     "start_year": 1982,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Rock-afire Explosion Record 4 (1981)",
-    "page_path": "content/wiki/rock-afire-explosion-record-4-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -32230,16 +30640,6 @@
     "rating": 0
   },
   {
-    "title": "Rock-afire Explosion Record 3 (1981)",
-    "page_path": "content/wiki/rock-afire-explosion-record-3-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Richland, WA (2610 N Columbia Center Blvd)",
     "page_path": "content/wiki/richland-wa-2610-n-columbia-center-blvd.md",
     "startDate": "1982-09-30",
@@ -32270,13 +30670,13 @@
     "rating": 1
   },
   {
-    "title": "Mitzi Pewter Pin",
-    "page_path": "content/wiki/mitzi-pewter-pin.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
+    "title": "2024 Rockstar Plates",
+    "page_path": "content/wiki/f0bd7bf6121dfae5.md",
+    "startDate": "2024-00-00",
+    "start_year": 2024,
+    "category": "Chuck E. Cheese's",
     "tag": "In-Store Merchandise",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -32306,16 +30706,6 @@
     "start_year": 2021,
     "category": "Chuck E. Cheese's",
     "tag": "Promotional Material",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Signed Fatz Colander Photograph (1983)",
-    "page_path": "content/wiki/signed-fatz-colander-photograph-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -32520,16 +30910,6 @@
     "rating": 0
   },
   {
-    "title": "ShowBiz Pizza Place Lunchbox",
-    "page_path": "content/wiki/showbiz-pizza-place-lunchbox.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "1997 CEC Franchise Convention (Event)",
     "page_path": "content/wiki/1997-cec-franchise-convention-event.md",
     "startDate": "1997-00-00",
@@ -32606,16 +30986,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Party Glass",
-    "page_path": "content/wiki/chuck-e-cheese-party-glass.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -33140,16 +31510,6 @@
     "rating": 0
   },
   {
-    "title": "Signed Dook Larue Colander Photograph (1983)",
-    "page_path": "content/wiki/signed-dook-larue-colander-photograph-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "The Hit Hamburger (PTT Menu Item)",
     "page_path": "content/wiki/the-hit-hamburger-ptt-menu-item.md",
     "startDate": "1977-00-00",
@@ -33247,6 +31607,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1981 Pizza Time Theatre Mr. Munch Keychain",
+    "page_path": "content/wiki/daa0e6cd5978d285.md",
+    "startDate": "1981-00-00",
+    "start_year": 1981,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -33560,16 +31930,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob 5 1/2' Sticker",
-    "page_path": "content/wiki/billy-bob-5-12-sticker.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "6-1-97 (Show Selector 1)",
     "page_path": "content/wiki/5-1-98-show-selector-1 copy 2.md",
     "startDate": "1997-06-01",
@@ -33666,16 +32026,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Tokens",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Ford Bedford Van (1981)",
-    "page_path": "content/wiki/chuck-e-cheese-ford-bedford-van-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -33830,16 +32180,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese 15' No Company Tagged Plush",
-    "page_path": "content/wiki/chuck-e-cheese-15-no-company-tagged-plush.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Pizza Time Theatre 'Bite Me!' Shirt",
     "page_path": "content/wiki/pizza-time-theatre-bite-me-shirt.md",
     "startDate": "",
@@ -33910,16 +32250,6 @@
     "rating": 0
   },
   {
-    "title": "Pizza Time Theatre Shrine Circus Coloring Book",
-    "page_path": "content/wiki/pizza-time-theatre-shrine-circus-coloring-book.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "2018 Drummer Dog Puppet",
     "page_path": "content/wiki/2018-drummer-dog-puppet.md",
     "startDate": "",
@@ -33966,16 +32296,6 @@
     "start_year": 1998,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Baseball PVC (China) (1986)",
-    "page_path": "content/wiki/chuck-e-cheese-baseball-pvc-china-1986.md",
-    "startDate": "1986-00-00",
-    "start_year": 1986,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -34440,16 +32760,6 @@
     "rating": 0
   },
   {
-    "title": "Helen Henny bag (1995)",
-    "page_path": "content/wiki/helen-henny-bag-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Program Blue",
     "page_path": "content/wiki/program-blue.md",
     "startDate": "",
@@ -34770,16 +33080,6 @@
     "rating": 0
   },
   {
-    "title": "Rock-afire Explosion Post Card (1981)",
-    "page_path": "content/wiki/rock-afire-explosion-post-card-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Meatball Dunkers (PP&W Menu Item)",
     "page_path": "content/wiki/meatball-dunkers-pp-w-menu-item.md",
     "startDate": "",
@@ -35050,16 +33350,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese 9' No Company Tagged Plush",
-    "page_path": "content/wiki/chuck-e-cheese-9-no-company-tagged-plush.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "CEC Team 2 Training 2009",
     "page_path": "content/wiki/cec-team-2-training-2009.md",
     "startDate": "",
@@ -35206,16 +33496,6 @@
     "start_year": 2005,
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Plastic Beach Ball",
-    "page_path": "content/wiki/billy-bob-plastic-beach-ball.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -35440,6 +33720,16 @@
     "rating": 0
   },
   {
+    "title": "2004 Avenger Chuck Goody Bag",
+    "page_path": "content/wiki/4db1ff226c0b7c56.md",
+    "startDate": "2004-00-00",
+    "start_year": 2004,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Lansing, MI (5451 L West Saginaw Hwy)",
     "page_path": "content/wiki/lansing-mi-5451-l-west-saginaw-hwy.md",
     "startDate": "1992-06-16",
@@ -35466,16 +33756,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "CEC Whistle Bottle (1995)",
-    "page_path": "content/wiki/cec-whistle-bottle-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -35540,6 +33820,16 @@
     "rating": 0
   },
   {
+    "title": "2010 Avenger Goody Bag",
+    "page_path": "content/wiki/6db47e9016f88861.md",
+    "startDate": "2010-00-00",
+    "start_year": 2010,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Chuck E.'s House",
     "page_path": "content/wiki/chuck-e-s-house.md",
     "startDate": "1987-02-01",
@@ -35548,16 +33838,6 @@
     "tag": "Stage Variations",
     "contributors_count": 18,
     "rating": 1
-  },
-  {
-    "title": "Rock-afire Explosion Record 10 (1983)",
-    "page_path": "content/wiki/rock-afire-explosion-record-10-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Springfield, VA (6324 Springfield Blvd)",
@@ -35627,16 +33907,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 6,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi's Sketch Book Kit",
-    "page_path": "content/wiki/mitzi-s-sketch-book-kit.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -35780,16 +34050,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese Baseball PVC (Hong Kong) (1986)",
-    "page_path": "content/wiki/chuck-e-cheese-baseball-pvc-hong-kong-1986.md",
-    "startDate": "1986-00-00",
-    "start_year": 1986,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Liberty Stage",
     "page_path": "content/wiki/liberty-stage.md",
     "startDate": "",
@@ -35907,16 +34167,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
     "contributors_count": 2,
-    "rating": 0
-  },
-  {
-    "title": "CEC Friends 4 Ever Necklace (1994)",
-    "page_path": "content/wiki/cec-friends-4-ever-necklace-1994.md",
-    "startDate": "1994-00-00",
-    "start_year": 1994,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -36160,16 +34410,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Pencil Sharpener",
-    "page_path": "content/wiki/billy-bob-pencil-sharpener.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Holiday Special 1992",
     "page_path": "content/wiki/holiday-special-1992.md",
     "startDate": "1992-11-26",
@@ -36187,16 +34427,6 @@
     "category": "Pizza Time Theatre",
     "tag": "Employee Wear",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese 'You're the Best' Bisque Figure (1982)",
-    "page_path": "content/wiki/chuck-e-cheese-you-re-the-best-bisque-figure-1982.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -36420,16 +34650,6 @@
     "rating": 0
   },
   {
-    "title": "Signed Billy Bob Colander Photograph (1983)",
-    "page_path": "content/wiki/signed-billy-bob-colander-photograph-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Wild West (Magazine)",
     "page_path": "content/wiki/wild-west-magazine.md",
     "startDate": "0000-00-00",
@@ -36476,26 +34696,6 @@
     "start_year": 1983,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Pasqually Poster (1980)",
-    "page_path": "content/wiki/pasqually-poster-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Mini Stein (1983)",
-    "page_path": "content/wiki/chuck-e-cheese-mini-stein-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -36620,16 +34820,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese Football PVC (Hong Kong) (1986)",
-    "page_path": "content/wiki/chuck-e-cheese-football-pvc-hong-kong-1986.md",
-    "startDate": "1986-00-00",
-    "start_year": 1986,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "CEC 'Hours Of Operation' (SPT Signage)",
     "page_path": "content/wiki/cec-hours-of-operation-spt-signage.md",
     "startDate": "1991-00-00",
@@ -36666,16 +34856,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Encore Performances Chuck E. Cheese Sing Along Vol. 1",
-    "page_path": "content/wiki/encore-performances-chuck-e-cheese-sing-along-vol-1.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -36757,16 +34937,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 3,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese 9' CI Plush",
-    "page_path": "content/wiki/chuck-e-cheese-9-ci-plush.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -36910,16 +35080,6 @@
     "rating": 0
   },
   {
-    "title": "Mr. Munch 9' CST Hand Puppet",
-    "page_path": "content/wiki/mr-munch-9-cst-hand-puppet.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "BB Roll",
     "page_path": "content/wiki/bb-roll.md",
     "startDate": "",
@@ -36966,16 +35126,6 @@
     "start_year": 1981,
     "category": "Pizza Time Theatre",
     "tag": "Events",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Fatz ACME 9 Inch Plush Doll (1982)",
-    "page_path": "content/wiki/fatz-acme-9-inch-plush-doll-1982.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -37076,16 +35226,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Costumed Characters",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi OTC 9 1/2' Plush Doll (Ver. A) (1984)",
-    "page_path": "content/wiki/mitzi-otc-9-12-plush-doll-ver-a-1984.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -37380,16 +35520,6 @@
     "rating": 0
   },
   {
-    "title": "Check E. Cheese's String Cheese 12 Pack (Avenger)",
-    "page_path": "content/wiki/check-e-cheese-s-string-cheese-12-pack-avenger.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Cambridge, Ontario, Canada (42 Pinebush Rd)",
     "page_path": "content/wiki/cambridge-ontario-canada-42-pinebush-rd.md",
     "startDate": "2003-02-18",
@@ -37540,16 +35670,6 @@
     "rating": 0
   },
   {
-    "title": "Rock-afire Explosion Record 8 (1983)",
-    "page_path": "content/wiki/rock-afire-explosion-record-8-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "San Antonio, TX (6874 Ingram Dr)",
     "page_path": "content/wiki/san-antonio-tx-6874-ingram-rd.md",
     "startDate": "1981-06-10",
@@ -37586,16 +35706,6 @@
     "start_year": 2004,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Coin Bank (1985)",
-    "page_path": "content/wiki/chuck-e-cheese-coin-bank-1985.md",
-    "startDate": "1985-00-00",
-    "start_year": 1985,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -37640,6 +35750,16 @@
     "rating": 0
   },
   {
+    "title": "2010 Chuck E. Cheese Soccer Figure",
+    "page_path": "content/wiki/67b161498761a2c6.md",
+    "startDate": "2010-00-00",
+    "start_year": 2010,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Helen CU Attire 2 (Costume Outfit)",
     "page_path": "content/wiki/helen-cu-attire-2-costume-outfit.md",
     "startDate": "",
@@ -37667,6 +35787,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2015 CEC Poker Chip",
+    "page_path": "content/wiki/bceb18b3711b24f7.md",
+    "startDate": "2015-00-00",
+    "start_year": 2015,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -38110,16 +36240,6 @@
     "rating": 0
   },
   {
-    "title": "Encore Performances Chuck E. Cheese Children Of America",
-    "page_path": "content/wiki/encore-performances-chuck-e-cheese-children-of-america.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "J-Fatz (Animatronic)",
     "page_path": "content/wiki/j-fatz-animatronic.md",
     "startDate": "",
@@ -38147,6 +36267,16 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Company Media",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1983 Chuck Pewter Shovel Spoon",
+    "page_path": "content/wiki/1d85fa5d04b6ed35.md",
+    "startDate": "1983-00-00",
+    "start_year": 1983,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -38210,32 +36340,12 @@
     "rating": 0
   },
   {
-    "title": "'Friends 4 Ever' Keychain",
-    "page_path": "content/wiki/friends-4-ever-keychain.md",
-    "startDate": "1994-00-00",
-    "start_year": 1994,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Team 2 Certified Pin (Rockstar)",
     "page_path": "content/wiki/team-2-certified-pin-rockstar.md",
     "startDate": "",
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mr. Munch Ball (1995)",
-    "page_path": "content/wiki/mr-munch-ball-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -38276,16 +36386,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Fatz Mini Playing Card Deck",
-    "page_path": "content/wiki/fatz-mini-playing-card-deck.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -38400,6 +36500,16 @@
     "rating": 0
   },
   {
+    "title": "2005 Super Chuck Summer Shirt",
+    "page_path": "content/wiki/c308c826b586b25f.md",
+    "startDate": "2005-00-00",
+    "start_year": 2005,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Fontana, CA (17069 Valley Blvd)",
     "page_path": "content/wiki/fontana-ca-17069-valley-blvd.md",
     "startDate": "1983-11-00",
@@ -38416,26 +36526,6 @@
     "start_year": null,
     "category": "Creative Engineering",
     "tag": "Company Media",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Footed Mug (1981)",
-    "page_path": "content/wiki/chuck-e-cheese-footed-mug-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Homage Where A Kid Can BE A Kid T-Shirt",
-    "page_path": "content/wiki/homage-where-a-kid-can-be-a-kid-t-shirt.md",
-    "startDate": "2023-00-00",
-    "start_year": 2023,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -38810,16 +36900,6 @@
     "rating": 0
   },
   {
-    "title": "Mitzi Mozzarella Glass",
-    "page_path": "content/wiki/mitzi-mozzarella-glass.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Chuck AAM (Costume Outfit)",
     "page_path": "content/wiki/chuck-aam-costume-outfit.md",
     "startDate": "",
@@ -38990,16 +37070,6 @@
     "rating": 0
   },
   {
-    "title": "Jumbo Jasper Plush (1996)",
-    "page_path": "content/wiki/jumbo-jasper-plush-1996.md",
-    "startDate": "1996-00-00",
-    "start_year": 1996,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Kooser Mr. Munch Name Sign (1978)",
     "page_path": "content/wiki/ptt-kooser-mr-munch-name-sign-1978.md",
     "startDate": "",
@@ -39116,16 +37186,6 @@
     "start_year": 1976,
     "category": "Creative Engineering",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Munch Box (1986)",
-    "page_path": "content/wiki/chuck-e-cheese-munch-box-1986.md",
-    "startDate": "1986-00-00",
-    "start_year": 1986,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -39280,16 +37340,6 @@
     "rating": 1
   },
   {
-    "title": "Billy Bob Krystalike Keychain",
-    "page_path": "content/wiki/billy-bob-krystalike-keychain.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Token 151 (B)",
     "page_path": "content/wiki/ptt-token-151-b.md",
     "startDate": "",
@@ -39376,16 +37426,6 @@
     "start_year": null,
     "category": "Villalobos Producciones",
     "tag": "Retrofits",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place Neat-O-Notebook",
-    "page_path": "content/wiki/showbiz-pizza-place-neat-o-notebook.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -39530,16 +37570,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese 2' Pewter Bell (1983)",
-    "page_path": "content/wiki/chuck-e-cheese-2-pewter-bell-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "CEC Warhol - Quad (CEC Décor)",
     "page_path": "content/wiki/cec-warhol-quad-cec-decor.md",
     "startDate": "1998-00-00",
@@ -39580,26 +37610,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Pewter Pendant",
-    "page_path": "content/wiki/billy-bob-pewter-pendant.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Jasper T. Jowls 21' Plush (1988)",
-    "page_path": "content/wiki/jasper-t-jowls-21-plush-1988.md",
-    "startDate": "1988-00-00",
-    "start_year": 1988,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Billy Bob Kansas City Walkaround",
     "page_path": "content/wiki/billy-bob-kansas-city-walkaround.md",
     "startDate": "",
@@ -39617,6 +37627,26 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Documents",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1993 Chuck E. Cheese Convention Notebook",
+    "page_path": "content/wiki/05f7b768d626c947.md",
+    "startDate": "1993-00-00",
+    "start_year": 1993,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
+    "title": "1994 SPT Comb Compact",
+    "page_path": "content/wiki/939df783bd57f0c5.md",
+    "startDate": "1994-00-00",
+    "start_year": 1994,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -39750,6 +37780,16 @@
     "rating": 0
   },
   {
+    "title": "1991 Showbiz Pizza Time Frisbee",
+    "page_path": "content/wiki/9ddb33ddf8f21db1.md",
+    "startDate": "1991-00-00",
+    "start_year": 1991,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Chuck 01 Attire (Costume Outfit)",
     "page_path": "content/wiki/chuck-01-attire-costume-outfit.md",
     "startDate": "",
@@ -39800,32 +37840,12 @@
     "rating": 0
   },
   {
-    "title": "CEC Magnet (1995)",
-    "page_path": "content/wiki/cec-magnet-1995.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "CEC 2002 3rd Quarter Video Update",
     "page_path": "content/wiki/cec-2002-3rd-quarter-video-update.md",
     "startDate": "",
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi Mozzarella 13' Plush Doll Prototype",
-    "page_path": "content/wiki/mitzi-mozzarella-13-plush-doll-prototype.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -39860,16 +37880,6 @@
     "rating": 0
   },
   {
-    "title": "Jasper T. Jowls 15' CST Plush",
-    "page_path": "content/wiki/jasper-t-jowls-15-cst-plush.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Trampoline Zone Jasper T. Jowls Art (CEC Décor)",
     "page_path": "content/wiki/trampoline-zone-jasper-t-jowls-art-cec-decor.md",
     "startDate": "2023-00-00",
@@ -39897,6 +37907,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1986 Chuck E. Cheese's Thermos",
+    "page_path": "content/wiki/b1e179fd8c12fc7a.md",
+    "startDate": "1986-00-00",
+    "start_year": 1986,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -40046,16 +38066,6 @@
     "start_year": 1981,
     "category": "Pizza Time Theatre",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Basketball PVC (China) (1986)",
-    "page_path": "content/wiki/chuck-e-cheese-basketball-pvc-china-1986.md",
-    "startDate": "1986-00-00",
-    "start_year": 1986,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -40478,6 +38488,16 @@
     "tag": "Showtapes",
     "contributors_count": 5,
     "rating": 1
+  },
+  {
+    "title": "1991 Tux Chuck Yellow Button",
+    "page_path": "content/wiki/bfed4a2212468d7d.md",
+    "startDate": "1991-00-00",
+    "start_year": 1991,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
   },
   {
     "title": "Casting a New Latex Mold",
@@ -40970,16 +38990,6 @@
     "rating": 0
   },
   {
-    "title": "ShowBiz Trio Vinyl Clasp Wallet",
-    "page_path": "content/wiki/showbiz-trio-vinyl-clasp-wallet.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Repete Thornsberry",
     "page_path": "content/wiki/repete-thornsberry.md",
     "startDate": "",
@@ -40990,13 +39000,13 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Hot Wheels Probe Funny Car (2000)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-probe-funny-car-2000.md",
-    "startDate": "2000-00-00",
-    "start_year": 2000,
+    "title": "1991 CEC Playing Cards",
+    "page_path": "content/wiki/df021b5aff8e6a51.md",
+    "startDate": "1991-00-00",
+    "start_year": 1991,
     "category": "Chuck E. Cheese's",
     "tag": "In-Store Merchandise",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -41180,16 +39190,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Night Light",
-    "page_path": "content/wiki/billy-bob-night-light.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "CEC Sexual Harassment Information Brochure",
     "page_path": "content/wiki/cec-sexual-harassment-information-brochure.md",
     "startDate": "0000-00-00",
@@ -41326,16 +39326,6 @@
     "start_year": null,
     "category": "ShowBiz Pizza Place",
     "tag": "Arcades and Attractions",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Fatz Pewter Pin",
-    "page_path": "content/wiki/fatz-pewter-pin.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -41750,16 +39740,6 @@
     "rating": 0
   },
   {
-    "title": "Jasper T. Jowls Poster (1980)",
-    "page_path": "content/wiki/jasper-t-jowls-poster-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Allen, TX (2265 N Central Expressway)",
     "page_path": "content/wiki/allen-tx-2265-n-central-expressway.md",
     "startDate": "2024-12-20",
@@ -41920,26 +39900,6 @@
     "rating": 0
   },
   {
-    "title": "Rock-afire Explosion Record 12 (1983)",
-    "page_path": "content/wiki/rock-afire-explosion-record-12-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi Mozzarella 9 1/2' Plush Doll (1981)",
-    "page_path": "content/wiki/mitzi-mozzarella-9-12-plush-doll-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Five Nights at Freddy's: Help Wanted",
     "page_path": "content/wiki/Fnaf-help-wanted.md",
     "startDate": "2019-05-28",
@@ -42010,13 +39970,13 @@
     "rating": 0
   },
   {
-    "title": "CEC Sky Crawl T-Shirt",
-    "page_path": "content/wiki/cec-sky-crawl-t-shirt.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
+    "title": "2012 Chuck E. Rocks! Shirt",
+    "page_path": "content/wiki/b0a201bc48a75feb.md",
+    "startDate": "2012-00-00",
+    "start_year": 2012,
     "category": "Chuck E. Cheese's",
     "tag": "In-Store Merchandise",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -42140,16 +40100,6 @@
     "rating": 0
   },
   {
-    "title": "Fatz Flyer Frisbee",
-    "page_path": "content/wiki/fatz-flyer-frisbee.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "J-Fatz",
     "page_path": "content/wiki/j-fatz.md",
     "startDate": "",
@@ -42188,16 +40138,6 @@
     "tag": "Animatronics",
     "contributors_count": 1,
     "rating": 1
-  },
-  {
-    "title": "Have Your Song 'Rock-Afired' (2014-2017)",
-    "page_path": "content/wiki/have-your-song-rock-afired-2014-2017.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Creative Engineering",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Chuck E. Cheese Winter 2024 Show",
@@ -42256,16 +40196,6 @@
     "start_year": null,
     "category": "Pizza Time Theatre",
     "tag": "Characters",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Colored Magnet (1981)",
-    "page_path": "content/wiki/chuck-e-cheese-colored-magnet-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -42330,16 +40260,6 @@
     "rating": 0
   },
   {
-    "title": "Helen Henny Handbag (1993)",
-    "page_path": "content/wiki/helen-henny-handbag-1993.md",
-    "startDate": "1993-00-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Star Launcher Website",
     "page_path": "content/wiki/star-launcher-website.md",
     "startDate": "",
@@ -42350,32 +40270,12 @@
     "rating": 0
   },
   {
-    "title": "CEC Birthday T-Shirt",
-    "page_path": "content/wiki/cec-birthday-t-shirt.md",
-    "startDate": "1995-00-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Kansas City, MO (9196 N Skyview Ave)",
     "page_path": "content/wiki/kansas-city-mo-9196-n-skyview-ave.md",
     "startDate": "2008-08-04",
     "start_year": 2008,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Mac & Cheese Blend",
-    "page_path": "content/wiki/chuck-e-cheese-s-mac-cheese-blend.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -42496,26 +40396,6 @@
     "start_year": null,
     "category": "Creative Engineering",
     "tag": "Characters",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Pizza Time Theatre Large White Stein",
-    "page_path": "content/wiki/pizza-time-theatre-large-white-stein.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Large Pasqually Plush (1992)",
-    "page_path": "content/wiki/large-pasqually-plush-1992.md",
-    "startDate": "1992-00-00",
-    "start_year": 1992,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -42730,6 +40610,16 @@
     "rating": 0
   },
   {
+    "title": "2017 Chuck E. Cheese S Summer Frisbee",
+    "page_path": "content/wiki/d220797758aabd13.md",
+    "startDate": "2017-00-00",
+    "start_year": 2017,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Cyberamics",
     "page_path": "content/wiki/cyberamics.md",
     "startDate": "1979-05-00",
@@ -42790,16 +40680,6 @@
     "rating": 0
   },
   {
-    "title": "Fatz Mesh Hat",
-    "page_path": "content/wiki/fatz-mesh-hat.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Caguas, Puerto Rico (Plaza Centro Mall)",
     "page_path": "content/wiki/caguas-puerto-rico-plaza-centro-mall.md",
     "startDate": "2006-03-00",
@@ -42827,6 +40707,16 @@
     "category": "Pizza Time Theatre",
     "tag": "Corporate Documents",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1991 Chuck E. Cheese Keychain",
+    "page_path": "content/wiki/60610fc3ab1c12be.md",
+    "startDate": "1991-00-00",
+    "start_year": 1991,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -42860,16 +40750,6 @@
     "rating": 0
   },
   {
-    "title": "Jasper T. Jowls Coin Bank",
-    "page_path": "content/wiki/jasper-t-jowls-coin-bank.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Newport, KY (301 Riverboat Row)",
     "page_path": "content/wiki/newport-ky-301-riverboat-row.md",
     "startDate": "1981-00-00",
@@ -42897,16 +40777,6 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Animatronics",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place Gold Patch",
-    "page_path": "content/wiki/showbiz-pizza-place-gold-patch.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -42977,16 +40847,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
     "contributors_count": 2,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Coffee Mug (1986)",
-    "page_path": "content/wiki/billy-bob-coffee-mug-1986.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -43070,16 +40930,6 @@
     "rating": 3
   },
   {
-    "title": "Jumbo Pasqually Plush Prototype (1996)",
-    "page_path": "content/wiki/jumbo-pasqually-plush-prototype-1996.md",
-    "startDate": "1996-00-00",
-    "start_year": 1996,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Berwyn, PA (270 W Swedesford Rd)",
     "page_path": "content/wiki/berwyn-pa-270-w-swedesford-rd.md",
     "startDate": "2000-09-18",
@@ -43116,16 +40966,6 @@
     "start_year": 1995,
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place Band Shirt (Ver. A) (1980)",
-    "page_path": "content/wiki/showbiz-pizza-place-band-shirt-ver-a-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -43320,16 +41160,6 @@
     "rating": 1
   },
   {
-    "title": "Chuck E. Cheese Color-Block Backpack",
-    "page_path": "content/wiki/chuck-e-cheese-color-block-backpack.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Beach Dogs (Commercial)",
     "page_path": "content/wiki/beach-dogs-commercial.md",
     "startDate": "2004-00-00",
@@ -43400,16 +41230,6 @@
     "rating": 0
   },
   {
-    "title": "Pizza Time Theatre Hand Puppet Stage (1983)",
-    "page_path": "content/wiki/pizza-time-theatre-hand-puppet-stage-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Beaumont, TX (5874 Eastex Fwy)",
     "page_path": "content/wiki/beaumont-tx-5874-eastex-fwy.md",
     "startDate": "1982-00-00",
@@ -43427,6 +41247,16 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2017 Limited Edition 40th Birthday Token",
+    "page_path": "content/wiki/beaaadbb23ba2a88.md",
+    "startDate": "2017-00-00",
+    "start_year": 2017,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -43630,16 +41460,6 @@
     "rating": 0
   },
   {
-    "title": "CEC Green Lunchbox w/ Thermos (1996)",
-    "page_path": "content/wiki/cec-green-lunchbox-w-thermos-1996.md",
-    "startDate": "1996-00-00",
-    "start_year": 1996,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Tucker / Atlanta, GA (3850 Lavista Rd)",
     "page_path": "content/wiki/tucker-atlanta-ga-3850-lavista-rd.md",
     "startDate": "1981-10-22",
@@ -43720,16 +41540,6 @@
     "rating": 0
   },
   {
-    "title": "Mitzi Squeak Purse",
-    "page_path": "content/wiki/mitzi-squeak-purse.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Sunnyvale, CA (1195 Borregas Avenue)",
     "page_path": "content/wiki/sunnyvale-ca-atari copy.md",
     "startDate": "1976-01-00",
@@ -43756,16 +41566,6 @@
     "start_year": 2002,
     "category": "Chuck E. Cheese's",
     "tag": "Menu Items",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Gummi Pizza Box",
-    "page_path": "content/wiki/chuck-e-cheese-s-gummi-pizza-box.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -43920,6 +41720,16 @@
     "rating": 0
   },
   {
+    "title": "1993 Bank",
+    "page_path": "content/wiki/d9719994f865c304.md",
+    "startDate": "1993-00-00",
+    "start_year": 1993,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Thousand Island (CEC Menu Item)",
     "page_path": "content/wiki/thousand-island-cec-menu-item.md",
     "startDate": "2007-00-00",
@@ -43988,16 +41798,6 @@
     "tag": "Animatronics",
     "contributors_count": 2,
     "rating": 1
-  },
-  {
-    "title": "Beach Bear OTC 9 1/2' Plush Doll (Ver. B)",
-    "page_path": "content/wiki/beach-bear-otc-9-12-plush-doll-ver-b.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Chuck E. Cheese Celebrates School Days (Commercial)",
@@ -44210,16 +42010,6 @@
     "rating": 0
   },
   {
-    "title": "Smile America Watch (1980)",
-    "page_path": "content/wiki/smile-america-watch-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "1994 Bullhorns Puppets",
     "page_path": "content/wiki/1994-bullhorns-puppets.md",
     "startDate": "",
@@ -44286,16 +42076,6 @@
     "start_year": 1993,
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Check E. Cheese's String Cheese 24 Pack (Avenger)",
-    "page_path": "content/wiki/check-e-cheese-s-string-cheese-24-pack-avenger.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -44480,16 +42260,6 @@
     "rating": 0
   },
   {
-    "title": "Mitzi Mozzarella Krystalike Bookmark",
-    "page_path": "content/wiki/mitzi-mozzarella-krystalike-bookmark.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Tribute to Abbey Road",
     "page_path": "content/wiki/tribute-to-abbey-road.md",
     "startDate": "1982-00-00",
@@ -44566,16 +42336,6 @@
     "start_year": 2021,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Lowe's Build And Grow Chuck E. Roller",
-    "page_path": "content/wiki/chuck-e-cheese-s-lowe-s-build-and-grow-chuck-e-roller.md",
-    "startDate": "2012-00-00",
-    "start_year": 2012,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -44690,32 +42450,12 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Vinyl Wallet (1986)",
-    "page_path": "content/wiki/billy-bob-vinyl-wallet-1986.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Hours Sign (1979)",
     "page_path": "content/wiki/ptt-hours-sign-1979.md",
     "startDate": "",
     "start_year": null,
     "category": "Pizza Time Theatre",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Fatz 13' Plush Doll Prototype",
-    "page_path": "content/wiki/fatz-13-plush-doll-prototype.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -44850,16 +42590,6 @@
     "rating": 0
   },
   {
-    "title": "Rock-afire Explosion Record 7 (1983)",
-    "page_path": "content/wiki/rock-afire-explosion-record-7-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "'Disk Prod # 2 of 2 From Greg's Studio' (1 In. Reel)",
     "page_path": "content/wiki/disk-prod-2-of-2-from-greg-s-studio-1-in-reel.md",
     "startDate": "0000-00-00",
@@ -44906,16 +42636,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Rock-afire Explosion Record 9 (1983)",
-    "page_path": "content/wiki/rock-afire-explosion-record-9-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -45130,6 +42850,16 @@
     "rating": 1
   },
   {
+    "title": "1986 Chuck E. Cheese Eraser",
+    "page_path": "content/wiki/4125a12ee8add451.md",
+    "startDate": "1986-00-00",
+    "start_year": 1986,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "'Moose & Buff' (Houston)",
     "page_path": "content/wiki/moose-buff-houston.md",
     "startDate": "0000-00-00",
@@ -45217,16 +42947,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Promotional Material",
     "contributors_count": 4,
-    "rating": 0
-  },
-  {
-    "title": "Fatz OTC 9 1/2' Plush Doll (Ver. B)",
-    "page_path": "content/wiki/fatz-otc-9-12-plush-doll-ver-b.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -45386,16 +43106,6 @@
     "start_year": 1982,
     "category": "ShowBiz Pizza Place",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Derby Coin Bank",
-    "page_path": "content/wiki/chuck-e-cheese-derby-coin-bank.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -45920,16 +43630,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese Yo-yo (1979)",
-    "page_path": "content/wiki/chuck-e-cheese-yo-yo-1979.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Animation Programming System",
     "page_path": "content/wiki/animation-programming-system.md",
     "startDate": "",
@@ -46126,16 +43826,6 @@
     "start_year": 2007,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese & The Ratkateers (1985)",
-    "page_path": "content/wiki/chuck-e-cheese-the-ratkateers-1985.md",
-    "startDate": "1985-00-00",
-    "start_year": 1985,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -46470,6 +44160,16 @@
     "rating": 0
   },
   {
+    "title": "2020 Rockstar Vacation Plush",
+    "page_path": "content/wiki/ffaacbf4b88869d6.md",
+    "startDate": "2020-00-00",
+    "start_year": 2020,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Henrietta Hatpin (Helen Henny Retrofit)",
     "page_path": "content/wiki/henrietta-hatpin-helen-henny-retrofit.md",
     "startDate": "",
@@ -46507,16 +44207,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Stage Variations",
     "contributors_count": 3,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Pennant (1979)",
-    "page_path": "content/wiki/chuck-e-cheese-pennant-1979.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -46690,16 +44380,6 @@
     "rating": 0
   },
   {
-    "title": "Mitzi Jumping T-Shirt",
-    "page_path": "content/wiki/mitzi-jumping-t-shirt.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Chuck E. Cheese Winter Winner-Land 2022",
     "page_path": "content/wiki/chuck-e-cheese-winter-winner-land-2022.md",
     "startDate": "2022-11-21",
@@ -46840,32 +44520,12 @@
     "rating": 0
   },
   {
-    "title": "Personal Phone Call From Billy Bob (2016-2017)",
-    "page_path": "content/wiki/personal-phone-call-from-billy-bob-2016-2017.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Creative Engineering",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "AB Party Server Pin (Gold)",
     "page_path": "content/wiki/ab-party-server-pin-gold.md",
     "startDate": "",
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Early Hand Puppet",
-    "page_path": "content/wiki/chuck-e-cheese-early-hand-puppet.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -46970,16 +44630,6 @@
     "rating": 1
   },
   {
-    "title": "Chuck E. Cheese Limited Edition Surfer Plush (2002)",
-    "page_path": "content/wiki/chuck-e-cheese-limited-edition-surfer-plush-2002.md",
-    "startDate": "2002-00-00",
-    "start_year": 2002,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "CEI 1986 Liberty Tape Party",
     "page_path": "content/wiki/cei-1986-liberty-tape-party.md",
     "startDate": "",
@@ -46987,16 +44637,6 @@
     "category": "Creative Engineering",
     "tag": "History",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi Mozzarella Playing Card Deck",
-    "page_path": "content/wiki/mitzi-mozzarella-playing-card-deck.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -47180,16 +44820,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob 12' Plush Doll",
-    "page_path": "content/wiki/billy-bob-12-plush-doll.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Laurel, MD (936 Fairlawn Ave)",
     "page_path": "content/wiki/laurel-md-936-fairlawn-ave.md",
     "startDate": "1982-10-27",
@@ -47330,36 +44960,6 @@
     "rating": 0
   },
   {
-    "title": "Dook Larue Krystalike Keychain",
-    "page_path": "content/wiki/dook-larue-krystalike-keychain.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Rock-afire Explosion Record 3 Reprint (1983)",
-    "page_path": "content/wiki/rock-afire-explosion-record-3-reprint-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Glass w/ Handle",
-    "page_path": "content/wiki/billy-bob-glass-w-handle.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 1,
-    "rating": 1
-  },
-  {
     "title": "Victoria, TX (3605 N Navarro St)",
     "page_path": "content/wiki/victoria-tx-3605-n-navarro-st.md",
     "startDate": "1982-12-00",
@@ -47376,16 +44976,6 @@
     "start_year": 1996,
     "category": "Creative Engineering",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place 'Token Kan'",
-    "page_path": "content/wiki/showbiz-pizza-place-token-kan.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -47416,16 +45006,6 @@
     "start_year": 2009,
     "category": "Creative Engineering",
     "tag": "Products",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Token Dispenser",
-    "page_path": "content/wiki/chuck-e-cheese-token-dispenser.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -47466,16 +45046,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Earl Schmerle Doll Prototype",
-    "page_path": "content/wiki/earl-schmerle-doll-prototype.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -47580,16 +45150,6 @@
     "rating": 1
   },
   {
-    "title": "Chuck E. Cheese's Hot Wheels '93 Camaro (1996)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-93-camaro-1996.md",
-    "startDate": "1996-00-00",
-    "start_year": 1996,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Rock-afire Replay",
     "page_path": "content/wiki/rock-afire-replay.md",
     "startDate": "2020-08-24",
@@ -47640,16 +45200,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Kids Stuff Keychain (1999)",
-    "page_path": "content/wiki/chuck-e-cheese-s-kids-stuff-keychain-1999.md",
-    "startDate": "1999-00-00",
-    "start_year": 1999,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Midland, TX (4703 W Loop 250)",
     "page_path": "content/wiki/midland-tx-4703-w-loop-250.md",
     "startDate": "2000-10-02",
@@ -47686,16 +45236,6 @@
     "start_year": 1988,
     "category": "ShowBiz Pizza Place",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Rolfe Dewolfe & Earl Schmerle 14' Plush Doll Prototype",
-    "page_path": "content/wiki/rolfe-dewolfe-earl-schmerle-14-plush-doll-prototype.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -48020,16 +45560,6 @@
     "rating": 0
   },
   {
-    "title": "Fatz 13' Plush Doll (1981)",
-    "page_path": "content/wiki/fatz-13-plush-doll-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "C H U C K Bathing suit (Costume Outfit)",
     "page_path": "content/wiki/c-h-u-c-k-bathing-suit-costume-outfit.md",
     "startDate": "",
@@ -48300,16 +45830,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Hot Wheels MX48 Turbo (2001)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-mx48-turbo-2001.md",
-    "startDate": "2001-00-00",
-    "start_year": 2001,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Streamwood, IL (990 Barrington Rd)",
     "page_path": "content/wiki/streamwood-il-990-s-barrington-rd.md",
     "startDate": "1990-03-06",
@@ -48406,16 +45926,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Tokens",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese 'Big-Head' Plush (2020)",
-    "page_path": "content/wiki/chuck-e-cheese-big-head-plush-2020.md",
-    "startDate": "2020-00-00",
-    "start_year": 2020,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -48600,16 +46110,6 @@
     "rating": 0
   },
   {
-    "title": "Pizza Time Theatre Footed Mug (Ver. B)",
-    "page_path": "content/wiki/pizza-time-theatre-footed-mug-ver-b.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "The Pizza Times (Vol. 3, Issue 1, March 1983)",
     "page_path": "content/wiki/the-pizza-times-vol-3-issue-1-march-1983.md",
     "startDate": "1983-00-00",
@@ -48760,16 +46260,6 @@
     "rating": 0
   },
   {
-    "title": "Dolli Dimples Glass (1979)",
-    "page_path": "content/wiki/dolli-dimples-glass-1979.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "2006 CEC Franchise Dallas Convention (Event)",
     "page_path": "content/wiki/2006-cec-franchise-dallas-convention-event.md",
     "startDate": "2006-00-00",
@@ -48860,26 +46350,6 @@
     "rating": 0
   },
   {
-    "title": "Signed Beach Bear Colander Photograph (1983)",
-    "page_path": "content/wiki/signed-beach-bear-colander-photograph-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Logo Krystalike Keychain",
-    "page_path": "content/wiki/billy-bob-logo-krystalike-keychain.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "King '90 II",
     "page_path": "content/wiki/king-90-ii.md",
     "startDate": "1990-00-00",
@@ -48930,16 +46400,6 @@
     "rating": 3
   },
   {
-    "title": "Pizza Time Theatre Characters Mug (1983)",
-    "page_path": "content/wiki/pizza-time-theatre-characters-mug-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Kerry's Waltz",
     "page_path": "content/wiki/kerry-s-waltz.md",
     "startDate": "2015-00-00",
@@ -48976,16 +46436,6 @@
     "start_year": 2002,
     "category": "Chuck E. Cheese's",
     "tag": "Menu Items",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese 15' Plush (1988)",
-    "page_path": "content/wiki/chuck-e-cheese-15-plush-1988.md",
-    "startDate": "1988-00-00",
-    "start_year": 1988,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -49240,16 +46690,6 @@
     "rating": 0
   },
   {
-    "title": "Encore Performances Chuck E. Cheese Rockin' Hits Vol. 1",
-    "page_path": "content/wiki/encore-performances-chuck-e-cheese-rockin-hits-vol-1.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Token 159 (B, N)",
     "page_path": "content/wiki/ptt-token-159-b-n.md",
     "startDate": "",
@@ -49280,16 +46720,6 @@
     "rating": 0
   },
   {
-    "title": "Jasper T. Jowls Alternate Coin Bank",
-    "page_path": "content/wiki/jasper-t-jowls-alternate-coin-bank.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Beverages & Desserts (PTT Signage)",
     "page_path": "content/wiki/beverages-desserts-ptt-signage.md",
     "startDate": "1981-00-00",
@@ -49307,6 +46737,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2000 CEC Barbie",
+    "page_path": "content/wiki/d2be61970f58bde8.md",
+    "startDate": "2000-00-00",
+    "start_year": 2000,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -49517,16 +46957,6 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Animatronics",
     "contributors_count": 9,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese 'It's Pizza Time' Bib' (1986)",
-    "page_path": "content/wiki/chuck-e-cheese-it-s-pizza-time-bib-1986.md",
-    "startDate": "1986-00-00",
-    "start_year": 1986,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -49987,6 +47417,16 @@
     "category": "Creative Presentations",
     "tag": "Animatronics",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2017 40 Years Of Fun Party Blower",
+    "page_path": "content/wiki/15f062963d0220f3.md",
+    "startDate": "2017-00-00",
+    "start_year": 2017,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -50790,16 +48230,6 @@
     "rating": 0
   },
   {
-    "title": "ShowBiz Pizza Place Ashtray",
-    "page_path": "content/wiki/showbiz-pizza-place-ashtray.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "'Jam Tape - 2 Splices - BER' (1/2 In. Reel)",
     "page_path": "content/wiki/jam-tape-2-splices-ber-12-in-reel.md",
     "startDate": "0000-00-00",
@@ -51130,16 +48560,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob's Busytime Book (1982)",
-    "page_path": "content/wiki/billy-bob-s-busytime-book-1982.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "5-1-96",
     "page_path": "content/wiki/5-1-96.md",
     "startDate": "1996-00-00",
@@ -51320,16 +48740,6 @@
     "rating": 1
   },
   {
-    "title": "Fatz Pewter Figurine",
-    "page_path": "content/wiki/fatz-pewter-figurine.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Yogurt or Salad Combo (PTT Menu Item)",
     "page_path": "content/wiki/yogurt-or-salad-combo-ptt-menu-item.md",
     "startDate": "1977-00-00",
@@ -51356,16 +48766,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Tickets",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Jasper T. Jowls 1/2' PVC (1983)",
-    "page_path": "content/wiki/jasper-t-jowls-12-pvc-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -51646,16 +49046,6 @@
     "start_year": 1994,
     "category": "Creative Engineering",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Signed Mitzi Mozzarella Colander Photograph (1983)",
-    "page_path": "content/wiki/signed-mitzi-mozzarella-colander-photograph-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -52020,16 +49410,6 @@
     "rating": 0
   },
   {
-    "title": "CEC Magnet (1993)",
-    "page_path": "content/wiki/cec-magnet-1993.md",
-    "startDate": "1993-00-00",
-    "start_year": 1993,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "After Christmas Tape 1982",
     "page_path": "content/wiki/after-christmas-tape-1982.md",
     "startDate": "1982-12-00",
@@ -52157,16 +49537,6 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Showtapes",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Football PVC (China) (1986)",
-    "page_path": "content/wiki/chuck-e-cheese-football-pvc-china-1986.md",
-    "startDate": "1986-00-00",
-    "start_year": 1986,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -52337,16 +49707,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Stage Variations",
     "contributors_count": 7,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Glass",
-    "page_path": "content/wiki/billy-bob-glass.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -52616,16 +49976,6 @@
     "start_year": 2003,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Pizza Time Theatre Logo Yo-yo (Ver. A)",
-    "page_path": "content/wiki/pizza-time-theatre-logo-yo-yo-ver-a.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -52980,6 +50330,16 @@
     "rating": 0
   },
   {
+    "title": "1990 Tux Chuck Button",
+    "page_path": "content/wiki/0d71b11587134144.md",
+    "startDate": "1990-00-00",
+    "start_year": 1990,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Fun-i-fied (Commercial)",
     "page_path": "content/wiki/fun-i-fied-commercial.md",
     "startDate": "",
@@ -53210,16 +50570,6 @@
     "rating": 0
   },
   {
-    "title": "'Your Pal, Billy Bob' Glass",
-    "page_path": "content/wiki/your-pal-billy-bob-glass.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Chuck E. Cheese Show 2 2025 International Spanish",
     "page_path": "content/wiki/chuck-e-cheese-show-2-2025-international-spanish.md",
     "startDate": "2025-03-00",
@@ -53368,6 +50718,16 @@
     "tag": "Showtapes",
     "contributors_count": 5,
     "rating": 1
+  },
+  {
+    "title": "2014 The Story Of Chuck E. Cheese",
+    "page_path": "content/wiki/7f7700759ed8d5d2.md",
+    "startDate": "2014-00-00",
+    "start_year": 2014,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
   },
   {
     "title": "Star Stage Holiday Party 2010",
@@ -53587,16 +50947,6 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Showtapes",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese & Friends Ruler",
-    "page_path": "content/wiki/chuck-e-cheese-friends-ruler.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -53850,6 +51200,16 @@
     "rating": 0
   },
   {
+    "title": "1991 PTT Comb And Mirror",
+    "page_path": "content/wiki/70baea181204f7fd.md",
+    "startDate": "1991-00-00",
+    "start_year": 1991,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Tacoma, WA (4911 Tacoma Mall Blvd)",
     "page_path": "content/wiki/tacoma-wa-4911-tacoma-mall-blvd.md",
     "startDate": "1983-11-00",
@@ -54000,16 +51360,6 @@
     "rating": 1
   },
   {
-    "title": "Billy Bob Mesh Hat",
-    "page_path": "content/wiki/billy-bob-mesh-hat.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "CEC University: School of Kitchen (1994)",
     "page_path": "content/wiki/cec-university-school-of-kitchen-1994.md",
     "startDate": "1994-00-00",
@@ -54076,16 +51426,6 @@
     "start_year": null,
     "category": "Pizza Time Theatre",
     "tag": "Tokens",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Hot Wheels La Fasta (2004)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-la-fasta-2004.md",
-    "startDate": "2004-00-00",
-    "start_year": 2004,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -54180,16 +51520,6 @@
     "rating": 0
   },
   {
-    "title": "Beach Bear OTC 9 1/2' Plush Doll (Ver. A) (1984)",
-    "page_path": "content/wiki/beach-bear-otc-9-12-plush-doll-ver-a-1984.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Beaverton (Commercial)",
     "page_path": "content/wiki/ptt-beaverton-commercial.md",
     "startDate": "1982-00-00",
@@ -54238,16 +51568,6 @@
     "tag": "Locations",
     "contributors_count": 1,
     "rating": 3
-  },
-  {
-    "title": "Pizza Time Theatre Early Ruler",
-    "page_path": "content/wiki/pizza-time-theatre-early-ruler.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "1993 Wooly Bully Puppets",
@@ -54610,16 +51930,6 @@
     "rating": 1
   },
   {
-    "title": "ShowBiz Pizza Place Bicycle Style Hat (1986)",
-    "page_path": "content/wiki/showbiz-pizza-place-bicycle-style-hat-1986.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Playcenter São Paulo Showtape",
     "page_path": "content/wiki/playcenter-sao-paulo-showtape.md",
     "startDate": "1981-00-00",
@@ -54696,16 +52006,6 @@
     "start_year": 2001,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi Mozzarella Ringer T-Shirt",
-    "page_path": "content/wiki/mitzi-mozzarella-ringer-t-shirt.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -54816,26 +52116,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Pizza Time Theatre Logo Yo-yo (Ver. B)",
-    "page_path": "content/wiki/pizza-time-theatre-logo-yo-yo-ver-b.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "'Great Measures of Fun!' Plastic Ruler",
-    "page_path": "content/wiki/great-measures-of-fun-plastic-ruler.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -55030,26 +52310,6 @@
     "rating": 0
   },
   {
-    "title": "Jasper T. Jowls 9' OTC Plush",
-    "page_path": "content/wiki/jasper-t-jowls-9-otc-plush.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Piñata Smashlings CEC Starter Pack (2023)",
-    "page_path": "content/wiki/pinata-smashlings-cec-starter-pack-2023.md",
-    "startDate": "2023-00-00",
-    "start_year": 2023,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Chuck E. Says 2002",
     "page_path": "content/wiki/chuck-e-says-2002.md",
     "startDate": "2002-01-00",
@@ -55106,16 +52366,6 @@
     "start_year": 2001,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi Mozzarella 13' Plush Doll (1981)",
-    "page_path": "content/wiki/mitzi-mozzarella-13-plush-doll-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -55250,16 +52500,6 @@
     "rating": 0
   },
   {
-    "title": "ShowBiz Pizza Place Marker 5-Pack",
-    "page_path": "content/wiki/showbiz-pizza-place-marker-5-pack.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Billings, MT (100 24th St)",
     "page_path": "content/wiki/billings-mt-100-24th-st.md",
     "startDate": "1984-08-06",
@@ -55346,16 +52586,6 @@
     "start_year": 1979,
     "category": "Pizza Time Theatre",
     "tag": "Menu Items",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Loves Me Toothbrush",
-    "page_path": "content/wiki/billy-bob-loves-me-toothbrush.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -55520,16 +52750,6 @@
     "rating": 0
   },
   {
-    "title": "Beach Bear ACME 9 1/2' Plush Doll (1982)",
-    "page_path": "content/wiki/beach-bear-acme-9-12-plush-doll-1982.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Spencer's CEC Band T-Shirt",
     "page_path": "content/wiki/spencer-s-cec-band-t-shirt.md",
     "startDate": "2022-00-00",
@@ -55636,16 +52856,6 @@
     "start_year": 1980,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Child's Wallet (1981)",
-    "page_path": "content/wiki/chuck-e-cheese-child-s-wallet-1981.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -55790,16 +53000,6 @@
     "rating": 0
   },
   {
-    "title": "ShowBiz Pizza Place Red Patch",
-    "page_path": "content/wiki/showbiz-pizza-place-red-patch.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Holiday Party 2010 Show",
     "page_path": "content/wiki/holiday-party-2010-show.md",
     "startDate": "2010-12-01",
@@ -55817,16 +53017,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 4,
-    "rating": 0
-  },
-  {
-    "title": "CEC Special Edition Barbie Doll (2000)",
-    "page_path": "content/wiki/cec-special-edition-barbie-doll-2000.md",
-    "startDate": "2000-00-00",
-    "start_year": 2000,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -56020,6 +53210,16 @@
     "rating": 2
   },
   {
+    "title": "2016 Rockstar Chuck Star Cast Member Of The Month",
+    "page_path": "content/wiki/ea390ebb96d29217.md",
+    "startDate": "2016-00-00",
+    "start_year": 2016,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Burbank, CA (930 N San Fernando Blvd)",
     "page_path": "content/wiki/burbank-ca-930-n-san-fernando-blvd.md",
     "startDate": "1999-12-28",
@@ -56130,13 +53330,13 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Pencil Box",
-    "page_path": "content/wiki/billy-bob-pencil-box.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
+    "title": "1999 Chuck E. Cheese's Millennium Time Capsule",
+    "page_path": "content/wiki/d13dd3a2087392fa.md",
+    "startDate": "1999-00-00",
+    "start_year": 1999,
+    "category": "Chuck E. Cheese's",
     "tag": "In-Store Merchandise",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -56146,26 +53346,6 @@
     "start_year": 2001,
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "'Tokens N' Tickets' Transparent Bag Keychain (1994)",
-    "page_path": "content/wiki/tokens-n-tickets-transparent-bag-keychain-1994.md",
-    "startDate": "1994-00-00",
-    "start_year": 1994,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Pinback Button (1986)",
-    "page_path": "content/wiki/billy-bob-pinback-button-1986.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -56340,32 +53520,12 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese 2 1/2' PVC (1985)",
-    "page_path": "content/wiki/chuck-e-cheese-2-12-pvc-1985.md",
-    "startDate": "1985-00-00",
-    "start_year": 1985,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Grilled Veggie Pizza (TJ Hartford's Menu Item)",
     "page_path": "content/wiki/grilled-veggie-pizza-tj-hartford-s-menu-item.md",
     "startDate": "2002-00-00",
     "start_year": 2002,
     "category": "Chuck E. Cheese's",
     "tag": "Menu Items",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Tapered Glass",
-    "page_path": "content/wiki/billy-bob-tapered-glass.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -56490,6 +53650,16 @@
     "rating": 0
   },
   {
+    "title": "1994 SPT Pvc Figure",
+    "page_path": "content/wiki/13eaf07e7adf58bd.md",
+    "startDate": "1994-00-00",
+    "start_year": 1994,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Elfis (Animatronic)",
     "page_path": "content/wiki/elvis-animatronic.md",
     "startDate": "",
@@ -56526,16 +53696,6 @@
     "start_year": 1981,
     "category": "Pizza Time Theatre",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Limited Edition Rescue Plush (2002)",
-    "page_path": "content/wiki/chuck-e-cheese-limited-edition-rescue-plush-2002.md",
-    "startDate": "2002-00-00",
-    "start_year": 2002,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -56640,6 +53800,16 @@
     "rating": 1
   },
   {
+    "title": "1981 Swiss Cheese Bank",
+    "page_path": "content/wiki/2f42e9ee78f6ffbe.md",
+    "startDate": "1981-00-00",
+    "start_year": 1981,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "1997 Purple Fire Department Cup",
     "page_path": "content/wiki/cecmerchspam1 copy 25.md",
     "startDate": "1997-00-00",
@@ -56696,16 +53866,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob Logo Playing Card Deck",
-    "page_path": "content/wiki/billy-bob-logo-playing-card-deck.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -56820,16 +53980,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Pawtograph Pencil",
-    "page_path": "content/wiki/billy-bob-pawtograph-pencil.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Mony Mony (Rerelease)",
     "page_path": "content/wiki/mony-mony-rerelease.md",
     "startDate": "1995-08-01",
@@ -56906,16 +54056,6 @@
     "start_year": null,
     "category": "ShowBiz Pizza Place",
     "tag": "Documents",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Billy Bob 12' Plush Doll Prototype (1980)",
-    "page_path": "content/wiki/billy-bob-12-plush-doll-prototype-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -57016,16 +54156,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Characters",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mr. Munch 2 1/2' PVC (1983)",
-    "page_path": "content/wiki/mr-munch-2-12-pvc-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -57550,16 +54680,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Hot Wheels 1932 Ford Coupe (1999)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-1932-ford-coupe-1999.md",
-    "startDate": "1999-00-00",
-    "start_year": 1999,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Token 170 (B, N)",
     "page_path": "content/wiki/ptt-token-170-b-n.md",
     "startDate": "",
@@ -57596,16 +54716,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese Basketball PVC (Hong Kong) (1986)",
-    "page_path": "content/wiki/chuck-e-cheese-basketball-pvc-hong-kong-1986.md",
-    "startDate": "1986-00-00",
-    "start_year": 1986,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -57720,16 +54830,6 @@
     "rating": 1
   },
   {
-    "title": "Chuck E. Cheese 'World's Greatest' Bisque Figure (1982)",
-    "page_path": "content/wiki/chuck-e-cheese-world-s-greatest-bisque-figure-1982.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Bit Chart",
     "page_path": "content/wiki/bit-chart.md",
     "startDate": "",
@@ -57748,16 +54848,6 @@
     "tag": "Locations",
     "contributors_count": 1,
     "rating": 4
-  },
-  {
-    "title": "Chuck E. Cheese Letter Opener (1980)",
-    "page_path": "content/wiki/chuck-e-cheese-letter-opener-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Largo, MD (1100 Shoppers Way)",
@@ -58140,16 +55230,6 @@
     "rating": 1
   },
   {
-    "title": "Billy Bob Alternate 12' Plush Doll",
-    "page_path": "content/wiki/billy-bob-alternate-12-plush-doll.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "80sTees Evolution Squares CEC T-Shirt",
     "page_path": "content/wiki/80stees-evolution-squares-cec-t-shirt.md",
     "startDate": "2023-00-00",
@@ -58166,16 +55246,6 @@
     "start_year": null,
     "category": "",
     "tag": "Puppets",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place Band Shirt (Ver. B) (1980)",
-    "page_path": "content/wiki/showbiz-pizza-place-band-shirt-ver-b-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -58346,16 +55416,6 @@
     "start_year": null,
     "category": "Creative Engineering",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi ACME 9 1/2' Plush Doll (1982)",
-    "page_path": "content/wiki/mitzi-acme-9-12-plush-doll-1982.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -58658,16 +55718,6 @@
     "tag": "In-Store Merchandise",
     "contributors_count": 3,
     "rating": 1
-  },
-  {
-    "title": "Jasper T. Jowls Party Glass",
-    "page_path": "content/wiki/jasper-t-jowls-party-glass.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Kid Check Certified Pin (Avenger)",
@@ -59170,16 +56220,6 @@
     "rating": 0
   },
   {
-    "title": "Billy Bob Mini Mug (1986)",
-    "page_path": "content/wiki/billy-bob-mini-mug-1986.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "1981 Chuck E. Cheese's Birthday Package (PTT Menu Item)",
     "page_path": "content/wiki/1981-chuck-e-cheese-s-birthday-package-ptt-menu-item.md",
     "startDate": "1981-00-00",
@@ -59266,26 +56306,6 @@
     "start_year": null,
     "category": "Pizza Time Theatre",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "ShowBiz Pizza Place Coffee Mug",
-    "page_path": "content/wiki/showbiz-pizza-place-coffee-mug.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Beach Bear Pewter Figurine",
-    "page_path": "content/wiki/beach-bear-pewter-figurine.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -60300,16 +57320,6 @@
     "rating": 0
   },
   {
-    "title": "Jasper T. Jowls 15' Plush (1988)",
-    "page_path": "content/wiki/jasper-t-jowls-15-plush-1988.md",
-    "startDate": "1988-00-00",
-    "start_year": 1988,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Morrow, GA (1351 Morrow Industrial)",
     "page_path": "content/wiki/morrow-ga-1351-morrow-industrial.md",
     "startDate": "1982-12-29",
@@ -60406,16 +57416,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Employee Wear",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "CEC Fanny Pack",
-    "page_path": "content/wiki/cec-fanny-pack.md",
-    "startDate": "1996-00-00",
-    "start_year": 1996,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -60810,16 +57810,6 @@
     "rating": 0
   },
   {
-    "title": "The King Printed Hand Puppet (1983)",
-    "page_path": "content/wiki/the-king-printed-hand-puppet-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "SPP Cast Member Training Tape (1981)",
     "page_path": "content/wiki/spp-cast-member-training-tape-1981.md",
     "startDate": "1981-00-00",
@@ -60920,16 +57910,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese 9' OTC Plush",
-    "page_path": "content/wiki/chuck-e-cheese-9-otc-plush.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "PTT Token 107 (B, N)",
     "page_path": "content/wiki/ptt-token-107-b-n.md",
     "startDate": "",
@@ -61018,16 +57998,6 @@
     "tag": "Animatronic Shows",
     "contributors_count": 5,
     "rating": 1
-  },
-  {
-    "title": "Billy Bob Deputy Badge (1983)",
-    "page_path": "content/wiki/billy-bob-deputy-badge-1983.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
   },
   {
     "title": "Better Than Ever (Commercial)",
@@ -61320,16 +58290,6 @@
     "rating": 0
   },
   {
-    "title": "Pizza Time Theatre Logo 10 3/4' Sticker (1980)",
-    "page_path": "content/wiki/pizza-time-theatre-logo-10-34-sticker-1980.md",
-    "startDate": "",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Portland, OR (9120 SE Powell Blvd)",
     "page_path": "content/wiki/portland-or-9120-se-powell-blvd.md",
     "startDate": "1982-11-19",
@@ -61546,16 +58506,6 @@
     "start_year": null,
     "category": "Pizza Time Theatre",
     "tag": "Tokens",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi Mozzarella Mini Playing Card Deck",
-    "page_path": "content/wiki/mitzi-mozzarella-mini-playing-card-deck.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },
@@ -61780,6 +58730,16 @@
     "rating": 0
   },
   {
+    "title": "2010 Floppy Chuck E.",
+    "page_path": "content/wiki/75ec5cbe8204c8d7.md",
+    "startDate": "2010-00-00",
+    "start_year": 2010,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Bridgeville, PA (1025 Washington Pike)",
     "page_path": "content/wiki/bridgeville-pa-1025-washington-pike.md",
     "startDate": "1983-02-17",
@@ -61900,16 +58860,6 @@
     "rating": 0
   },
   {
-    "title": "CEC Grand Canyon Postcard",
-    "page_path": "content/wiki/cec-grand-canyon-postcard.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Mini Stage",
     "page_path": "content/wiki/mini-stage.md",
     "startDate": "1983-03-23",
@@ -61946,16 +58896,6 @@
     "start_year": 2018,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Mitzi Mozzarella Glass w/ Handle",
-    "page_path": "content/wiki/mitzi-mozzarella-glass-w-handle.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "ShowBiz Pizza Place",
-    "tag": "In-Store Merchandise",
     "contributors_count": 0,
     "rating": 0
   },

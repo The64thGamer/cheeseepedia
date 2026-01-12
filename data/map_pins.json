@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T23:09:08Z",
-  "count": 1053,
+  "generated_at": "2026-01-12T04:15:09Z",
+  "count": 1054,
   "locations": [
     {
       "title": "Salem, OR (3180 Lancaster Dr)",
@@ -1236,6 +1236,25 @@
       "endDate": "1984-12-31",
       "cuDate": "1992-01-01",
       "page_path": "content/wiki/houston-tx-5507-cypress-creek-pkwy.md"
+    },
+    {
+      "title": "Kissimmee, FL (7700 Westgate Blvd)",
+      "group": [
+        "Chuck E. Cheese's"
+      ],
+      "coords_str": [
+        "28.3293893",
+        "-81.5978204"
+      ],
+      "coords": [
+        28.3293893,
+        -81.5978204
+      ],
+      "url": "/wiki/chucksarcadeflorida/",
+      "startDate": "2025-07-01",
+      "endDate": "2026-01-11",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/chucksarcadeflorida.md"
     },
     {
       "title": "Kansas City, MO (4601 Bannister Rd)",
