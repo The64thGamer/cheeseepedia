@@ -5,8 +5,8 @@ tags = ["Animatronic Shows"]
 categories = ["Creative Engineering"]
 
 
-startDate = ""
-endDate = ""
+startDate = "1977-00-00"
+endDate = "2016-00-00"
 contributors = ["FileFickle", "PizzaEntertainmentFanX"]
 citations = ["https://www.showbizpizza.com/info/promo/cei/cei_1977promo.pdf", "https://www.youtube.com/watch?v=P_xrIayIsV8, "https://www.showbizpizza.com/events/12daysofdata/index.html", "https://www.youtube.com/watch?v=jQIapJJ_EKM&t=13s"]
 pageThumbnailFile = "ADfK6_6FOLnt0VhBF1G2.avif"
