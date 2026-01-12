@@ -12,7 +12,7 @@ citations = ["https://www.showbizpizza.com/info/promo/cei/cei_1977promo.pdf", "h
 pageThumbnailFile = "ADfK6_6FOLnt0VhBF1G2.avif"
 +++
 
-The Jingle Bell Jamboree (Stylized as JINGLEBELL JAMBOREE) was an Animatronic Show at Santa's Village in Jefferson, New Hampshire from 1977 until it's Removal in 2016. The Show was originally built by Creative Engineering as it's first full show, but was later changed to have Advanced Animations Animatronics from 2009 to 2010.
+The ***Jingle Bell Jamboree*** (Stylized as JINGLEBELL JAMBOREE) was an Animatronic Show at Santa's Village in Jefferson, New Hampshire from 1977 until it's Removal in 2016. The Show was originally built by Creative Engineering as it's first full show, but was later changed to have Advanced Animations Animatronics from 2009 to 2010.
 
 
 ## History
