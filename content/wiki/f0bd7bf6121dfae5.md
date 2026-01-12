@@ -1,9 +1,10 @@
 +++
+
 title = "2024 Rockstar Plates"
 draft = false
 tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
+pageThumbnailFile = "8fd5468045427056.avif"
 startDate = "2024-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
