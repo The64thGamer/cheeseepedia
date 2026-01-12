@@ -211,7 +211,7 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                             tags.append(n)
 
     # pages param treated like tags
-    for key in ("pages", "Pages"):
+    for key in ("pages", "Pages", "page", "Page"):
         if key in fm and fm[key]:
             raw = fm[key]
             if isinstance(raw, (list, tuple)):
@@ -227,6 +227,7 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                         n = normalize_tag_preserve_case(p, canonical_map)
                         if n:
                             tags.append(n)
+
 
     # handle pipe-delimited parameter fields (take first piece)
     special_params = [
@@ -621,7 +622,8 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             raw_tags.append(t_year)
 
         # --- NEW: inherit tags from pages referenced in this media page ---
-        pages_field = fm.get("pages") or fm.get("Pages") or []
+        pages_field = fm.get("pages") or fm.get("Pages") or fm.get("page") or fm.get("Page") or []
+
         if isinstance(pages_field, str):
             # defensive parse like earlier behavior
             pages_field = [p.strip() for p in re.split(r"[;,]", pages_field) if p.strip()]
@@ -712,6 +714,9 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
         json.dump(pages_by_tag_sorted, fh, indent=2, ensure_ascii=False)
     with open(os.path.join(out_dir, "tag_counts.json"), "w", encoding="utf-8") as fh:
         json.dump(tag_counts, fh, indent=2, ensure_ascii=False)
+    with open(os.path.join(OUT_DIR_COPY, "tag_counts.json"), "w", encoding="utf-8") as fh:
+        json.dump(tag_counts, fh, indent=2, ensure_ascii=False)
+
 
     print(f"[INFO] wrote final outputs in {out_dir}: {len(tags_by_page_expanded)} pages, {len(pages_by_tag_sorted)} tags (including media pages)")
 

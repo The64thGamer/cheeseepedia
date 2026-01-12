@@ -1,0 +1,76 @@
+
+{{- $contributorCounts := dict -}} 
+{{- $site := site.RegularPages -}}
+
+{{/* Count all contributor occurrences */}}
+{{- range $site -}} 
+  {{- with .Params.contributors -}}
+    {{- range . -}} 
+      {{- $key := . -}} 
+      {{- $contributorCounts = merge $contributorCounts (dict $key (add (index $contributorCounts $key | default 0) 1)) -}} 
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{/* Convert dict to slice for sorting */}}
+{{- $sortedContributors := slice -}}
+{{- range $key, $value := $contributorCounts -}}
+  {{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
+{{- end -}}
+{{- $sortedContributors = sort $sortedContributors "count" "desc" -}}
+
+{{/* ---- Customizable gradient pairs ---- */}}
+{{- $gradientScale := slice
+    (dict "min" 0 "max" 1 "start" "#464141" "end" "#464141") 
+    (dict "min" 2 "max" 4 "start" "#613583" "end" "#613583") 
+    (dict "min" 5 "max" 9 "start" "#3b538a" "end" "#3b538a") 
+    (dict "min" 10 "max" 24 "start" "#26a269" "end" "#26a269") 
+    (dict "min" 25 "max" 49 "start" "#f6d32d" "end" "#f6d32d") 
+    (dict "min" 50 "max" 74 "start" "#ff7800" "end" "#ff7800") 
+    (dict "min" 75 "max" 99 "start" "#e01b24" "end" "#e01b24") 
+    (dict "min" 100 "max" 149 "start" "#ff8383" "end" "#ff006d") 
+    (dict "min" 150 "max" 299 "start" "#aaa8bc" "end" "#241f31") 
+    (dict "min" 300 "max" 499 "start" "#c97e3c" "end" "#3c6f50") 
+    (dict "min" 500 "max" 749 "start" "#ff7800" "end" "#703820")
+    (dict "min" 750 "max" 999 "start" "#e3e9e8" "end" "#5b5f60") 
+    (dict "min" 1000 "max" 99999 "start" "#f9f06b" "end" "#f97316") 
+-}}
+
+<div class="contributors">
+  <hr>
+  <div class="tri-column">
+
+    <ul>
+    {{- range $sortedContributors -}}
+      {{- $name := .name -}}
+      {{- $count := .count -}}
+
+      {{/* Inline gradient logic */}}
+      {{- $pair := dict "start" "#000000" "end" "#000000" -}}
+      {{- range $gradientScale -}}
+        {{- if and (ge $count .min) (le $count .max) -}}
+          {{- $pair = dict "start" .start "end" .end -}}
+        {{- end -}}
+      {{- end -}}
+      {{- $start := index $pair "start" -}}
+      {{- $end := index $pair "end" -}}
+
+      {{- $matchingArticles := where $site "Title" $name -}} 
+
+      <li>
+        {{- if and $matchingArticles (gt (len $matchingArticles) 0) -}} 
+          <a href="{{ (index $matchingArticles 0).RelPermalink }}" 
+             class="gradient-text" 
+             style="background-image: linear-gradient(to top, {{ $start }}, {{ $end }});">
+            {{ $name }}
+          </a><sup>(+{{ $count }})</sup>
+        {{- else -}} 
+          <span class="gradient-text" style="background-image: linear-gradient(to top, {{ $start }}, {{ $end }});">
+            {{ $name }}
+          </span><sup>(+{{ $count }})</sup>
+        {{- end -}}
+      </li>
+    {{- end -}}
+    </ul>
+  </div>
+</div>

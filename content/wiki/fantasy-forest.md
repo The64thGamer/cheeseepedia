@@ -1,7 +1,7 @@
 +++
 title = "Fantasy Forest"
 draft = false
-tags = ["History"]
+tags = ["Companies/Brands"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""

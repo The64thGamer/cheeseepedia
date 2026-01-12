@@ -107,3 +107,4 @@ categories = ["Chuck E. Cheese's"]
 - Munch, Jasper, and Pasqually are all voiced by Duncan Brannan for this show.
 - 'Freeze Frame' has different footage in this show, which is reused from July 1994.
 - 'I Won't Give Up' is completely different from when it was originally used in March 1995. In this show it is the complete song with a line of dialogue by Chuck which was also not in the original show. The beginning of the footage shows part of a live show countdown, suggesting this may be a live show version of the song.
+- The showtape had merchandise with the {{< wiki-link "Chuck E's Jukebox Jam Cup (1997)" >}}

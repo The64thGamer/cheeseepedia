@@ -1,7 +1,7 @@
 +++
 title = "Pizza Time Theatre"
 draft = false
-tags = ["Restaurants/FECs"]
+tags = ["Companies/Brands"]
 categories = ["Pizza Time Theatre"]
 startDate = "1977-05-17"
 endDate = "1985-05-31"

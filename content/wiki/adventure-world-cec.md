@@ -7,7 +7,7 @@ pageThumbnailFile = "xaitax504uxa8aqi.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.reddit.com/r/chuckecheese/comments/1m1im67/breaking_news_cec_to_create_a_new_chain_that_only/", "Employee correspondence", "https://www.promotedcompanies.net/tenants/cecs-adventure-world", "https://archive.org/details/adventure-world-survey-2-logos", "https://www.reddit.com/r/chuckecheese/comments/1mgx5xo/chuck_e_cheese_adventure_world_survey_all_logos/", "https://www.dallasnews.com/business/2025/08/15/chuck-e-cheese-picks-north-texas-to-test-new-concept-coming-later-this-year/","https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025022333","https://www.chuckecheese.com/arlington-tx/attractions/","https://www.chuckecheese.com/arlington-tx/experience/","https://www.chuckecheese.com/arlington-tx/birthday-parties/","https://www.chuckecheese.com/arlington-tx/grand-opening-giveaway/","https://www.instagram.com/dmckill/p/DQUAwaiALa2/","https://www.instagram.com/dmckill/p/DPyqXclAOOd/","https://www.instagram.com/dmckill/p/DP4OCSskT69/","https://www.instagram.com/dmckill/p/DP9nCM0kWab/","https://www.instagram.com/dmckill/p/DQMikEDAObL/","https://forum.cheeseepedia.org/t/adventure-world-opens-nov-7th-at-3pm-10pm-opening-day-thread/100?u=the-64th-gamer"]
 alsoKnownAs = ["CEC's Adventure World"]
-tags = ["Restaurants/FECs"]
+tags = ["Companies/Brands"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese Adventure World*** is a 2025 spinoff chain of {{< wiki-link "Chuck E. Cheese's" >}} that first launched on November 7th, 2025.
