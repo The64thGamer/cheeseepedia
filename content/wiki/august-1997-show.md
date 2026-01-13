@@ -6,7 +6,7 @@ endDate = "1997-11-27"
 pageThumbnailFile = "lyacHcjfOecle4yALYpS.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "SuperCreamPiper2008", "JasiahsPizzaTimeTheatre"]
 citations = ["https://www.youtube.com/watch?v=ETqTbv95hBQ"]
-credits = ["Duncan Brannan - Programmer, Voice of Chuck E. Cheese, Mr. Munch", "Annagrey Weichman - Singing Voice of Helen Henny", "Karlisa Burleson - Voice of Helen Henny", "Bob West - Voice of Jasper T. Jowls, Pasqually The Chef", "Steve White - Scriptwriter, Songwriter", "Brave Combo", "Stokes Group - Video Editing"]
+credits = ["Duncan Brannan - Programmer, Voice of Chuck E. Cheese, Mr. Munch, Brain-I-Vac", "Annagrey Weichman - Singing Voice of Helen Henny", "Karlisa Burleson - Voice of Helen Henny", "Bob West - Voice of Jasper T. Jowls, Pasqually The Chef", "Steve White - Scriptwriter, Songwriter", "Brave Combo", "Stokes Group - Video Editing"]
 showtapeFormats = ["R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)", "C&R SVHS (Post-93)"]
 mediaDuration = "1:00:06"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/August%201997%203-Stage-007.iso|Post '93 3-Stage SVHS w/ Signals"]
