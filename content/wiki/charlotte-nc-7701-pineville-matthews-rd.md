@@ -5,8 +5,8 @@ title = "Charlotte, NC (7701 Pineville-Matthews Rd)"
 startDate = "1982-10-20"
 endDate = ""
 pageThumbnailFile = "H0vIKPOS6CzcAUlqIYwZ.avif"
-contributors = ["BigCtheDataFinder"]
-citations = []
+contributors = ["BigCtheDataFinder", "randomguyfan22"]
+citations = ["https://www.newspapers.com/article/the-charlotte-news-pineville-showbiz-piz/124846491/", "https://www.newspapers.com/article/the-charlotte-observer-carmel-commons-p/146564383/", "https://www.youtube.com/watch?v=5MEcoRu445M"]
 storeNumber = "64"
 sqft = ""
 attractions = ["Black Hole|2024-06-18||", "Crab Rush|2024-06-18||", "Drop It Drop It|2024-06-18||", "FGTEEV: Out of Time|2024-06-18||", "Halo: Fireteam Raven|2024-06-18||", "Lumber Jack|2024-06-18||", "Mega Blaster|2024-06-18||", "SpongeBob SquarePants: Ticket Coaster|2024-06-18||", "Teenage Mutant Ninja Turtles (2017)|2024-06-18||", "Tons of Tickets|2024-06-18||"]
@@ -27,16 +27,25 @@ In May of 2024, Pineville had been chosen to become one of five Chuck E. Cheese 
 # History
 
 ## 1980's
-To-Do.
+
+The location was planned as a Showbiz Pizza Place since early 1982, originally it was planned to open in September, 1982 with 12,000-square-foot with 70 jobs available {{< cite 1 >}},  however the location got pushed back to October 20th, 1982.
+
+The store would open with a {{< wiki-link "Classic Stage" >}} at the Carmel Commons Shopping Center it was a franchised-owned store, under the ownership of Adventure Restaurant Corporation, the location would have 89 games. the grand reopening happened on October 24th, 1982  with free balloons and a large hot-air balloon outside {{< cite 2 >}}. in some point to the late 80's until 1991 the location would receive the {{< wiki-link "SPT 1980's Remodel Program" >}}, with newer decor, painting the walls as white, adding checkers and replacing the exterior
 
 ## 1990's
-To-Do.
+
+Pineville would undergo {{< wiki-link "Concept Unification" >}} in 1991, featuring a {{< wiki-link "Concept Unification Stage" >}}, in January 1993, Adventure Restaurant Corporation would close the location after owning it for 10 years.
+
+A few weeks later, Showbiz Pizza Time, Inc would acquire to license to operate Pineville with the brand 'Chuck E. Cheese's Pizza', before 1995 {{< cite 3 >}}  the location would receive the {{< wiki-link "SPT 1990's Remodel Program" >}} with a new exterior, removing checkers , adding Obstotron and decor like Mt. Chuckmore, CD Awards like Bad Dog, Saturday Night Retriever, Yellow Submarine Sandwich, I've-Gotta-Da-Pizza and Flabby Road, Salad Bar and Beverages signs, etc.
 
 ## 2000's
-To-Do.
+
+To-Complete the characters would received plastic masks, also the original Munch Jr and Pizzacam would be removed
 
 ## 2010's
+
 To-Do.
 
 ## 2020's
+
 To-Do.
