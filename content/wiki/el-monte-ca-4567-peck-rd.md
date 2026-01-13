@@ -1,4 +1,5 @@
 +++
+
 title = "El Monte, CA (4567 Peck Rd)"
 storeNumber = ""
 startDate = "1982-00-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["34.08629862","-118.0180454"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "_BlL_cF0k_5tVxfIGlVS.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

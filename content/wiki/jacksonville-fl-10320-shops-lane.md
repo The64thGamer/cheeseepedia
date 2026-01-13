@@ -1,4 +1,5 @@
 +++
+
 title = "Jacksonville, FL (10320 Shops Lane)"
 storeNumber = ""
 startDate = "2016-02-07"
@@ -13,7 +14,7 @@ latitudeLongitude = ["30.17548617","-81.55869923"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "6b5x4H79CT4JMHYLPBXy.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

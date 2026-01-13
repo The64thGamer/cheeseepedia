@@ -1,4 +1,5 @@
 +++
+
 title = "Bad Data"
 draft = false
 tags = ["Animatronic Preservation"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Frosty126"]
 citations = []
+pageThumbnailFile = "7MvuULkrZT_o6_J1G1nc.avif"
 +++
 ***Bad Data* was a term used by *Creative Engineering* for segments that did not copy programming signals correctly when compiling them all into the tape.
 These can be seen mostly on lists for the segments of 90's showtapes. *Bad Data* would sometimes describe a whole segment being faulty, while other times describing noticeable defects that could affect the show, such as curtains not working as intended. Outside of *Bad Data*, other defects with the audio and video would occur, which were usually fixed with the same solutions.

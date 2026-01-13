@@ -1,4 +1,5 @@
 +++
+
 title = "Dickson City / Scranton, PA (1011 Scranton Carbondale)"
 storeNumber = ""
 startDate = "1983-08-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["41.4491801","-75.6633338"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "lAXenu7qC4LisfQ8LFoj.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

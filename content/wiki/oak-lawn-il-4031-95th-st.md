@@ -1,4 +1,5 @@
 +++
+
 title = "Oak Lawn, IL (4031 95th St)"
 storeNumber = ""
 startDate = "1983-01-19"
@@ -13,7 +14,7 @@ latitudeLongitude = ["41.71783592","-87.72426693"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "D3QMB_cbYpDhx55TXBQa.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

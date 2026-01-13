@@ -1,4 +1,5 @@
 +++
+
 title = "Grand Rapids, MI (3671 28th St)"
 storeNumber = ""
 startDate = "1983-06-06"
@@ -13,7 +14,7 @@ latitudeLongitude = ["42.91251532","-85.57776303"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "GrandRapidsCECExterior.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

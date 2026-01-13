@@ -1,4 +1,5 @@
 +++
+
 draft = false
 title = "Road Show 2012"
 startDate = "2012-09-01"
@@ -7,6 +8,7 @@ contributors = ["The 64th Gamer", "Ceclife13"]
 citations = []
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "Roadshow2012.avif"
 +++
 **Road Show 2012** was a CD released alongside the {{< wiki-link "Fall 2012 Show" >}} which featured eight {{< wiki-link "Road Shows" >}}.
 

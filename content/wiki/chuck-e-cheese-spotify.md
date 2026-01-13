@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese Spotify"
 draft = false
 tags = ["Social Media and Websites"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","CECBowlingGreen"]
 citations = []
+pageThumbnailFile = "Ftg4CO_jT4E_1r5_cRlw.avif"
 +++
 The ***Chuck E. Cheese Spotify* is the account hosted on the *Spotify* music streaming platform, under just *[Chuck E. Cheese](https://open.spotify.com/artist/3wCpqOuRzCsyXmAwCCzqxB).*
 It was launched around late 2019, and the first release of music on the account was a Christmas album titled 'Happ-E. Holidays'. They have released several more albums and EPs (EPs are like albums, but are shorter than normal albums), the most recent being 'If Everyday Was Halloween' in October 2022.**

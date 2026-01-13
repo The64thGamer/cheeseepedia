@@ -1,4 +1,5 @@
 +++
+
 title = "Daytona Beach, FL (1300 W International Sp)"
 storeNumber = ""
 startDate = "1982-01-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["29.127476","-81.21031"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "UyrlynUOW1AjBUVY8W18.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

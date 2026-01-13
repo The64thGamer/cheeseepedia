@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese's Limited Edition Survivor Plush (2004)"
 draft = false
 tags = ["In-Store Merchandise"]
@@ -7,6 +8,7 @@ startDate = "2004-00-00"
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445"]
 citations = ["https://www.showbizpizza.com/info/documents/cec/cec_focus-2006-01.pdf"]
+pageThumbnailFile = "b3sFmcUwMurO97Wz06JE.avif"
 +++
 The ***Limited Edition Survivor Chuck E.* was an official product produced for prize counters in *2004.***
 

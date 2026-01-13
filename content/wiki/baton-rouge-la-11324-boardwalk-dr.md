@@ -1,4 +1,5 @@
 +++
+
 title = "Baton Rouge, LA (11324 Boardwalk Dr)"
 storeNumber = ""
 startDate = "1981-08-12"
@@ -13,7 +14,7 @@ latitudeLongitude = ["30.42975972", "-91.05923348"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "lOPnrmnROHd0iQCGHAzk.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

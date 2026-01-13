@@ -1,4 +1,5 @@
 +++
+
 title = "Omaha, NE (225 N 76th St)"
 storeNumber = ""
 startDate = "1982-06-23"
@@ -13,7 +14,7 @@ latitudeLongitude = ["41.26025092","-96.03187943"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "j_VdXwhN5AWtfA9UU6Dd.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

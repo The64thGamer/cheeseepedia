@@ -1,7 +1,7 @@
 +++
 title = "Kadabrascope"
 draft = false
-tags = ["History"]
+tags = ["Companies/Brands"]
 categories = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""

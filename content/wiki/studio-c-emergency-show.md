@@ -1,4 +1,5 @@
 +++
+
 title = "Studio C Emergency Show"
 draft = false
 tags = ["Showtapes"]
@@ -9,6 +10,7 @@ pageThumbnailFile = "BusinessCard_2021-08-09_164724.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = []
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/StudioCEmergencyShowCyberV123.img|Studio C Floppy Disk (Ver. 1.23)"]
+pageThumbnailFile = "Jan00Floppy.avif"
 +++
 
 **Studio C Emergency Show** was a modified release of {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}} for emergency use. 

@@ -1,4 +1,5 @@
 +++
+
 title = "Richland, WA (2610 N Columbia Center Blvd)"
 storeNumber = ""
 startDate = "1982-09-30"
@@ -13,7 +14,7 @@ latitudeLongitude = ["46.23505637","-119.2233266"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "nwt4P4m3MK6FTlbA7CnY.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

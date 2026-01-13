@@ -1,4 +1,5 @@
 +++
+
 title = "Springfield, MO (1773 S Glenstone Ave)"
 storeNumber = ""
 startDate = "1982-04-20"
@@ -13,7 +14,7 @@ latitudeLongitude = ["37.18092612","-93.26445683"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "qoBh3PhWa5fWBO7tNM5h.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

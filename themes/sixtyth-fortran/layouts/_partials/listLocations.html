@@ -1,7 +1,6 @@
 <h1>{{- partial "emojify.html" .Title -}}</h1>
 {{- .Content | safeHTML -}}
 
-{{- partial "map.html" .Pages -}}
 <hr>
 <div class="dropdown-area">
 {{- partialCached "display-dropdown-FEC.html" . -}}

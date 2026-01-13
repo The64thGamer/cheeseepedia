@@ -1,4 +1,5 @@
 +++
+
 title = "Grand Chute / Appleton, WI (4671 Michales Dr)"
 storeNumber = ""
 startDate = "1998-03-19"
@@ -13,7 +14,7 @@ latitudeLongitude = ["44.28024232","-88.43975768"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "viSgHAB2zUobUGNeOIJJ.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

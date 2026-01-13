@@ -6,7 +6,6 @@ endDate = "1993-09-13"
 pageThumbnailFile = "N3QIQFdZjk9OnIDNQDV7.avif"
 contributors = ["Ceclife13", "The 64th Gamer"]
 citations = ["https://www.youtube.com/watch?v=lLhUVq8r3Xg"]
-credits = []
 mediaDuration = "1:23:16"
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Annagrey Wiechman|Singing Voice of Helen Henny", "Charles Stewart|Songwriter, Singing Voice of Jasper T. Jowls", "Darby Orr|Songwriter"]

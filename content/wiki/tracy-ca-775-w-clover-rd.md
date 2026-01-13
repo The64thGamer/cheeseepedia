@@ -1,4 +1,5 @@
 +++
+
 title = "Tracy, CA (775 W Clover Rd)"
 storeNumber = ""
 startDate = "1983-00-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["37.76055872","-121.4382806"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "RbGJY3xOf3f6J701Hjbm.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

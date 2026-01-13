@@ -1,4 +1,5 @@
 +++
+
 title = "Bayamon, Puerto Rico (Rexville Town Center)"
 storeNumber = ""
 startDate = "2003-06-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["18.35940532","-66.18970888"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "yX_gKpHF3iezLHIyEHGj.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

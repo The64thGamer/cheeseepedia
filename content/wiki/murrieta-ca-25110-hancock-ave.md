@@ -1,4 +1,5 @@
 +++
+
 title = "Murrieta, CA (25110 Hancock Ave)"
 storeNumber = ""
 startDate = "1993-11-01"
@@ -13,7 +14,7 @@ latitudeLongitude = ["33.56757087","-117.1831899"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "Murrieta.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

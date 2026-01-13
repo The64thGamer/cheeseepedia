@@ -1,4 +1,5 @@
 +++
+
 draft = false
 title = "Chuck E. Cheese Metaverse"
 startDate = "2022-00-00"
@@ -7,6 +8,7 @@ contributors = ["The 64th Gamer"]
 citations = ["https://tsdr.uspto.gov/#caseNumber=97272747&caseSearchType=US_APPLICATION&caseType=SERIAL_NO&searchType=statusSearch", "https://tsdr.uspto.gov/#caseNumber=97272754&caseType=SERIAL_NO&searchType=statusSearch"]
 tags = ["Video Games"]
 categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "7kGBVLpKqiD8MJmlmQRk.avif"
 +++
 The ***Chuck E. Cheese Metaverse* (Also called the ***Chuck E. Verse)* was a cancelled plan in 2022 for a metaverse application, which could appear on mobile, PC, or VR devices.****
 

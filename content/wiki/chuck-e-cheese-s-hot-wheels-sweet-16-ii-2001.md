@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese's Hot Wheels Sweet 16 II (2001)"
 draft = false
 tags = ["In-Store Merchandise"]
@@ -7,6 +8,7 @@ startDate = "2001-00-00"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","CEC Tinley"]
 citations = []
+pageThumbnailFile = "6QHUooTXtACz00wlgNpV.avif"
 +++
 The **Chuck E. Cheese's Hot Wheels Sweet 16 II** is a Hot Wheels car made exclusively for Chuck E. Cheese's location in 2000. These were sold at the prize counter.
 

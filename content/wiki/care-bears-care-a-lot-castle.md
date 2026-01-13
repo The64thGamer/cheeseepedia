@@ -1,4 +1,5 @@
 +++
+
 title = "Care Bears: Care-A-Lot Castle"
 draft = false
 tags = ["Animatronic Shows"]
@@ -9,8 +10,8 @@ startDate = ""
 endDate = ""
 contributors = ["BigCtheDataFinder","The 64th Gamer"]
 citations = ["<a href=\"https://en.wikipedia.org/wiki/The_Care_Bears_in_the_Land_Without_Feelings\">https://en.wikipedia.org/wiki/The_Care_Bears_in_the_Land_Without_Feelings</a>","<a href=\"https://en.wikipedia.org/wiki/The_Care_Bears_Battle_the_Freeze_Machine\">https://en.wikipedia.org/wiki/The_Care_Bears_Battle_the_Freeze_Machine</a>"]
+pageThumbnailFile = "DamluAbUKRynb60JVtuW.avif"
 +++
-
 The ***Care Bears: Care-A-Lot Castle*** was a Sally animatronic show produced in 1987, becoming the first official show of the company's to utilize intellectual properties (after a previous attempt was made to adapt The Berenstain Bears for an IAAPA display). Only installed in two venues worldwide, it was a very short lived endeavor that ended up lasting for just around five years. However, this instance would lay the foundation for Sally's future work with intellectual properties and established brands.
 
 ## Historical Background

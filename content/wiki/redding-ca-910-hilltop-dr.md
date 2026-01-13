@@ -1,4 +1,5 @@
 +++
+
 title = "Redding, CA (910 Hilltop Dr)"
 storeNumber = ""
 startDate = "2006-12-00"
@@ -13,7 +14,7 @@ latitudeLongitude = ["40.5951458","-122.3598287"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "9j7hvLJkBZKW04auWdHa.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

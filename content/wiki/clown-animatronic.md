@@ -1,4 +1,5 @@
 +++
+
 title = "Clown (Animatronic)"
 draft = false
 tags = ["Animatronics"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Landon animatronics","Maddox121","Anonymous","PizzaEntertainmentFanX"]
 citations = []
+pageThumbnailFile = "iqiyIv144DiC_HCaKC1D.avif"
 +++
 The ***Clown Animatronic* is a bot created by Creative Engineering Inc. for the IAAPA Trade Show on November 7th 1984.
 Not much is known about the Animatronic aside from it eventually being moved into the {{< wiki-link "Orlando, FL (47 W Jefferson St)" >}} afterwards, & is currently being moved to the {{< wiki-link "Creative Engineering Museum" >}}.**

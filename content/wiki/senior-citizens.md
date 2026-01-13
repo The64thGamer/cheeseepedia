@@ -1,4 +1,5 @@
 +++
+
 title = "Senior Citizens"
 draft = false
 tags = ["Showtapes"]
@@ -9,6 +10,7 @@ contributors = ["The 64th Gamer", "RockafireFan123"]
 citations = ["http://www.showbizpizza.com/review/rae/1984_senior.html"]
 showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = ["CREATIVE ENGINEERING SENIOR CITIZEN SHOWTAPE 041984","CREATIVE ENGINEERING SENIOR CITIZEN SHOWTAPE REVISED 042684"]
+pageThumbnailFile = "09uregj04itg.avif"
 +++
 ***Senior Citizens* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on April 19, 1984.**
 

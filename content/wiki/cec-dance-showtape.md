@@ -1,4 +1,5 @@
 +++
+
 title = "CEC Dance Showtape"
 draft = false
 tags = ["Showtapes"]
@@ -7,6 +8,7 @@ startDate = "1988-09-00"
 endDate = "1988-11-00"
 contributors = ["The 64th Gamer","DerekCat"]
 citations = []
+pageThumbnailFile = "Cec_dance_showtape.avif"
 +++
 TODO: Reel & Cyberstar tape released for Cyberamics in September 1988
 

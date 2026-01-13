@@ -108,3 +108,4 @@ categories = ["Chuck E. Cheese's"]
 - All of the segments include newly recorded intros and outros as well as the Jukebox Jam logo.
 - 'Freeze Frame' has different footage in this show, which is reused from the {{< wiki-link "Patriotic 1994 Show" >}}.
 - Unlike in {{< wiki-link "Don't Stop Thinking About Tomorrow" >}}, 'I Won't Give Up' is the complete song, with a line of dialogue by Chuck that was not in the original show. It also has completely different footage.
+- The showtape had merchandise with the {{< wiki-link "Chuck E's Jukebox Jam Cup (1997)" >}}

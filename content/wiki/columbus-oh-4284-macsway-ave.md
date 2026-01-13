@@ -1,4 +1,5 @@
 +++
+
 title = "Columbus, OH (4284 Macsway Ave)"
 storeNumber = ""
 startDate = "1982-01-25"
@@ -13,7 +14,7 @@ latitudeLongitude = ["39.92285277","-82.88346633"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "CCy2Z4t391U6ijHhqWXk.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

@@ -1,7 +1,7 @@
 +++
 title = "Celebration Station"
 draft = false
-tags = ["Restaurants/FECs"]
+tags = ["Companies/Brands"]
 categories = ["Celebration Station"]
 startDate = "1982-05-24"
 endDate = ""

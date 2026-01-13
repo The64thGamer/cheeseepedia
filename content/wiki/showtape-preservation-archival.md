@@ -1,4 +1,5 @@
 +++
+
 title = "Showtape Preservation & Archival"
 draft = false
 tags = ["Animatronic Preservation"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["Himitsu","The 64th Gamer","Nebbytales","Ls2018","Anonymous"]
 citations = []
+pageThumbnailFile = "v49qa5C3AOojGVwqzMB6.avif"
 +++
 This page details some rough guidelines to follow when preserving data of various types.
 Note that these guidelines include some very detailed information and may reference the use of specialized equipment, all in the interest of getting the best quality preservation possible. Do note, however, that even a poor quality preservation is better than none at all, so even if you don't have the best equipment available to you, please do what you can to save these materials from being lost to time.

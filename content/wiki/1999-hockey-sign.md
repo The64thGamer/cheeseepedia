@@ -1,4 +1,5 @@
 +++
+
 title = "1999 Hockey Sign"
 draft = false
 tags = ["Store Fixtures"]
@@ -7,6 +8,7 @@ startDate = "1999-00-00"
 endDate = "0000-00-00"
 contributors = ["ArtieAntlers","The 64th Gamer"]
 citations = []
+pageThumbnailFile = "uvuP8wMoGdZ68RmCW8UK.avif"
 +++
 The ***Hockey sign* was released in stores in 1999 alongside numerous other Cool/Avenger Chuck E. Cheese posters and signage.**
 

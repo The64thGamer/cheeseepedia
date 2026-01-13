@@ -1,4 +1,5 @@
 +++
+
 title = "Stockton, CA (6436 Pacific Ave)"
 storeNumber = ""
 startDate = "2005-09-06"
@@ -13,7 +14,7 @@ latitudeLongitude = ["38.00788817","-121.3199927"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "uQEWpqnhkqcPnPR8BfJ6.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

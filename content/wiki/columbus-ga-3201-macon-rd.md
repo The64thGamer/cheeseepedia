@@ -1,4 +1,5 @@
 +++
+
 title = "Columbus, GA (3201 Macon Rd)"
 storeNumber = ""
 startDate = "1982-02-17"
@@ -13,7 +14,7 @@ latitudeLongitude = ["32.48147622","-84.94431603"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "WzglNrdhsPQ8R_BcIa_Y.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

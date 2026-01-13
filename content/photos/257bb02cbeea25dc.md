@@ -1,0 +1,9 @@
++++
+title = "257bb02cbeea25dc.avif"
+draft = false
+tags = ["Photos"]
+categories = ["Chuck E. Cheese's"]
+pages = ["2005 Super Chuck Summer Shirt"]
+startDate = "2005-00-00"
+citations = []
++++

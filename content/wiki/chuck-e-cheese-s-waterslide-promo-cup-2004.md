@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese's Waterslide Promo Cup (2004)"
 draft = false
 tags = ["In-Store Merchandise"]
@@ -7,4 +8,5 @@ startDate = ""
 endDate = ""
 contributors = ["CyberSnout"]
 citations = []
+pageThumbnailFile = "Waterslidecup3.avif"
 +++

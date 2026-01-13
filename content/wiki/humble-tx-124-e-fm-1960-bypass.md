@@ -1,4 +1,5 @@
 +++
+
 title = "Humble, TX (124 E FM 1960 Bypass)"
 storeNumber = ""
 startDate = "1999-12-16"
@@ -13,7 +14,7 @@ latitudeLongitude = ["30.00157662","-95.26794923"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "f3Js7KYB6TlERj6mdZYp.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

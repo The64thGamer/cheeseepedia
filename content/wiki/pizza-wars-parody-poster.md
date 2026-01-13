@@ -1,4 +1,5 @@
 +++
+
 draft = false
 title = "Pizza Wars (Parody Poster)"
 startDate = "1988-00-00"
@@ -7,6 +8,7 @@ contributors = ["ThatBoiCydalan", "BurgersNuggs445", "randomguyfan22"]
 citations = ["https://creativeengineering.bigcartel.com/", "https://filmartgallery.com/products/star-wars-9859", "https://www.showbizpizza.com/info/promo/spp/spp_print-ad-artwork.pdf"]
 tags = ["Store Fixtures"]
 categories = ["ShowBiz Pizza Place", "Creative Engineering"]
+pageThumbnailFile = "PizzaWarsDecorScan.avif"
 +++
 **Pizza Wars** was a poster created for *ShowBiz Pizza* and *Chuck E. Cheese's* in *1988*.
 

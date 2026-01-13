@@ -1,4 +1,5 @@
 +++
+
 title = "2022 CEC Summer of Fun Concert (Event)"
 draft = false
 tags = ["Events"]
@@ -7,6 +8,7 @@ startDate = "2022-00-00"
 endDate = "0000-00-00"
 contributors = ["CyberSnout","Mousester","The 64th Gamer","Himitsu"]
 citations = []
+pageThumbnailFile = "hOULC04X8Z5vwC9hDgF7.avif"
 +++
 The ***Chuck E. Cheese Summer of Fun Concert* was an event that performed in four states and ran for around 24 minutes.
 The concert was a combination of both live and recorded audio with the costume characters performing various CEC Songs. The live character Jessi, as in the previous years' concert, replaced Pasqually.**

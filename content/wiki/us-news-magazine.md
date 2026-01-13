@@ -1,4 +1,5 @@
 +++
+
 title = "U.S. News (Magazine)"
 draft = false
 tags = ["Store Fixtures"]
@@ -7,6 +8,7 @@ startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["Nostalgia Cow","The 64th Gamer"]
 citations = []
+pageThumbnailFile = "U.S._News_Chuck_Poster.avif"
 +++
 The **U.S. News (Magazine)** was a poster created for Chuck E. Cheese's around 1994-1995 for the 1990s Major Remodel.
 

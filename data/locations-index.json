@@ -27507,6 +27507,28 @@
       "sort": "00000000"
     }
   ],
+  "remodels|2025 Chuck's Arcade Remodel": [
+    {
+      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
+      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
+      "page_title": "Kansas City, MO (8809 State Line Rd)",
+      "parts": [
+        "2025 Chuck's Arcade Remodel",
+        "2025-06-28"
+      ],
+      "sort": "20250628"
+    },
+    {
+      "page_get": "wiki/chucksarcadeflorida",
+      "page_path": "content/wiki/chucksarcadeflorida",
+      "page_title": "Kissimmee, FL (7700 Westgate Blvd)",
+      "parts": [
+        "2025 Chuck's Arcade Remodel",
+        "2025-07-00"
+      ],
+      "sort": "20250700"
+    }
+  ],
   "stages|The Wolf Pack 5": [
     {
       "page_get": "wiki/kansas-city-mo-2726-ne-vivion-rd",
@@ -30264,18 +30286,6 @@
         "2023-06-20"
       ],
       "sort": "20230620"
-    }
-  ],
-  "remodels|2025 Chuck's Arcade Remodel": [
-    {
-      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
-      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
-      "page_title": "Kansas City, MO (8809 State Line Rd)",
-      "parts": [
-        "2025 Chuck's Arcade Remodel",
-        "2025-06-28"
-      ],
-      "sort": "20250628"
     }
   ],
   "stages|Unique C Stage": [

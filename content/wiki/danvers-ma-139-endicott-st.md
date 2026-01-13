@@ -1,4 +1,5 @@
 +++
+
 title = "Danvers, MA (139 Endicott St)"
 storeNumber = ""
 startDate = "1983-04-24"
@@ -13,7 +14,7 @@ latitudeLongitude = ["42.54948617","-70.93592168"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "xzZttKTQOH22zDS_zbKp.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
