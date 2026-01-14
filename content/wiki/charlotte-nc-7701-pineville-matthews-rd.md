@@ -34,17 +34,7 @@ The store would open with a {{< wiki-link "Classic Stage" >}} at the Carmel Comm
 
 ## 1990's
 
-Pineville would undergo {{< wiki-link "Concept Unification" >}} in 1991, featuring a {{< wiki-link "Concept Unification Stage" >}}, in January 1993, Adventure Restaurant Corporation would close the location after owning it for 10 years.
-
-A few weeks later, Showbiz Pizza Time, Inc would acquire to license to operate Pineville with the brand 'Chuck E. Cheese's Pizza', before 1995 {{< cite 3 >}}  the location would receive the {{< wiki-link "SPT 1990's Remodel Program" >}} with a new exterior, removing checkers , adding Obstotron and decor like Mt. Chuckmore, CD Awards like Bad Dog, Saturday Night Retriever, Yellow Submarine Sandwich, I've-Gotta-Da-Pizza and Flabby Road, Salad Bar and Beverages signs, etc.
-
-## 2000's
-
-To-Complete the characters would received plastic masks, also the original Munch Jr and Pizzacam would be removed
-
-## 2010's
-
-To-Do.
+Pineville would undergo {{< wiki-link "Concept Unification" >}} in 1991, featuring a {{< wiki-link "Concept Unification Stage" >}}, in January 1993, Adventure Restaurant Corporation would close the location after owning it for 10 years. A few weeks later, Showbiz Pizza Time, Inc would acquire to license to operate Pineville with the brand 'Chuck E. Cheese's Pizza', before 1995 {{< cite 3 >}}  the location would receive the {{< wiki-link "SPT 1990's Remodel Program" >}} with a new exterior, removing checkers , adding Obstotron and decor like Mt. Chuckmore, CD Awards like Bad Dog, Saturday Night Retriever, Yellow Submarine Sandwich, I've-Gotta-Da-Pizza and Flabby Road, Salad Bar and Beverages signs, etc.
 
 ## 2020's
 
