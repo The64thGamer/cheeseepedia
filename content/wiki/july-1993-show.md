@@ -42,7 +42,7 @@ The ***July 1993 Show*** was the segmented show that played during the summer of
     5.  CEC TV Classic ID
     6.  1 Minute Countdown
 6. **Segment 3**
-   1.  Clock Tells Me (Time for Chuck E.'s Place)
+   1.  'Clock Tells Me (Time for Chuck E.'s Place)'
     2.  ['I Got You (I Feel Good)'](https://en.wikipedia.org/wiki/I_Got_You_(I_Feel_Good))
 7. **Intermission 4**
     1.  'Train Ride'

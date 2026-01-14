@@ -5,7 +5,8 @@ startDate = "1995-12-26"
 endDate = "1996-04-22"
 pageThumbnailFile = "YPlqWpraQ9zmUvbMMyJp.avif"
 contributors = ["Ceclife13", "CyberSnout"]
-citations = ["https://www.youtube.com/watch?v=5mqJMsr_PLU&lc=Ugyx4iGMQOETNJWbi0B4AaABAg"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Jeff Cosco|Singing Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Doug Moncrief|Singing Voice of Pasqually", "Cathy Turner|Singing Voice of Helen Henny", "Ron Schneider|Writer", "Jeff Palmer|Producer, Director", "Casey Filiaci|Composer"]
+citations = ["https://www.youtube.com/watch?v=5mqJMsr_PLU&lc=Ugyx4iGMQOETNJWbi0B4AaABAg", "https://youtu.be/JGPhPDRzQvY?t"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -14,33 +15,33 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.   **Segment 1**
-        1.  'Little Red Riding Hood'
-2.   **Intermission 1**
-        1.  Little Nemo
-        2.  America's Funniest Pets
-3.   **Segment 2**
-        1.  'The Ugly Duckling'
-4.   **Intermission 2**
-        1.  Princess and The Goblin
-        2.  Fantasy Fly-By
-5.   **Segment 3**
-        1.  'Sleeping Beauty'
-6.   **Intermission 3**
-        1.  Rapunzel
-        2.  America's Funniest Pets
-7.   **Segment 4**
-        1.  'Chicken Licken'
-8.   **Intermission 4**
-        1.  Magic Voyage
-        2.  Techno Dreams
-9.   **Segment 5**
-        1.  'Hansel and Gretel'
-10.  **Intermission 5**
-        1.  Tuneland Starring Howie Mandel
-        2.  Food Frolics
-11.  **Segment 6**
-        1.  'Outro'
+1. **Segment 1**
+   1.  'Little Red Riding Hood'
+2. **Intermission 1**
+   1.  Little Nemo
+   2.  America's Funniest Pets
+3. **Segment 2**
+   1.  'The Ugly Duckling'
+4. **Intermission 2**
+   1.  Princess and The Goblin
+   2.  Fantasy Fly-By
+5. **Segment 3**
+   1.  'Sleeping Beauty'
+6. **Intermission 3**
+   1.  Rapunzel
+   2.  America's Funniest Pets
+7. **Segment 4**
+   1.  'Chicken Licken'
+8. **Intermission 4**
+   1.  Magic Voyage
+   2.  Techno Dreams
+9. **Segment 5**
+   1.  'Hansel and Gretel'
+10. **Intermission 5**
+    1.  Tuneland Starring Howie Mandel
+    2.  Food Frolics
+11. **Segment 6**
+    1.  'Outro'
 
 ## Trivia:
 

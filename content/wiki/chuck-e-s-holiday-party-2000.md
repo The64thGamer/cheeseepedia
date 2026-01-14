@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Chuck E's Holiday Party 2000"
-startDate = "2000-12-00"
+startDate = "2000-11-27"
 endDate = "2000-12-00"
 pageThumbnailFile = "J6XWHPOYJ_ciVKSfwCIt.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "CyberSnout"]
