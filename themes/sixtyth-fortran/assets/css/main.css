@@ -636,7 +636,7 @@ img.remoji:hover {
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  align-itrems: stretch;
+  align-items: stretch;
   justify-content: space-around;
 }
 
@@ -1093,12 +1093,17 @@ sup {
 .search-fuzzy {
   width: 100%;
   padding: 0.75rem 1rem;
-  font-size: 1rem;
+  font-size: 0.95rem;
   border-radius: 1rem;
   border: 0.25rem solid var(--brown);
   background-color: var(--deep-white);
   color: var(--white);
   outline: none;
+  font-family: 'RockoFLF'
+}
+
+.search-fuzzy::placeholder {
+  color: var(--white);
 }
 
 .search-tags-wrapper {
@@ -1128,6 +1133,10 @@ sup {
   background: transparent;
   color: var(--white);
   font-family: "RockoFLF";
+}
+
+.tag-input::placeholder {
+  color: var(--white);
 }
 
 .tag-chip {
