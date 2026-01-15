@@ -119,7 +119,7 @@ To link a photo page to an article, add an entry in the `pages` Array parameter 
 Go to [https://code.visualstudio.com/download](https://code.visualstudio.com/download) and install Visual Studio Code.
 
 #### Hugo
-Open your Command Prompt, and then type `winget install Hugo.Hugo --version {{.Site.Hugo.Version }}` (this is the same version as the site and is updated automatically). Then press Enter.
+Open your Command Prompt, and then type `winget install Hugo.Hugo --version {{< hugoversion >}}` (this is the same version as the site and is updated automatically). Then press Enter.
 
 #### Python
 Open your Command Prompt, and then type `winget search Python.Python.3` -- a list will appear with all available Python versions. Find the latest version (anything higher than 3.10.x -- such as 3.11.x, 3.12.x, 3.13.x, etc.) -- then type `winget install Python.Python.` followed by the version number. If we're installing Python 3.14.2, you can type `winget install Python.Python.3.14.2`, as an example. Then press Enter.
