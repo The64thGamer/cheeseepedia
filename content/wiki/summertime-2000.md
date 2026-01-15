@@ -2,7 +2,7 @@
 draft = false
 title = "Summertime 2000"
 startDate = "2000-07-00"
-endDate = "2000-08-00"
+endDate = "2000-08-31"
 pageThumbnailFile = "xtTy7iCQBlJJCf40JMlv.avif"
 contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13", "BurgersNuggs445"]
 mediaDuration = "28:22"

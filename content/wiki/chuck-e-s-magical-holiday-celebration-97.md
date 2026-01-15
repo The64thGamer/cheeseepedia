@@ -1,18 +1,17 @@
 +++
 draft = false
-title = "Chuck E's Magical Holiday Celebration"
-startDate = "1996-12-00"
-endDate = "1996-12-00"
+title = "Chuck E's Magical Holiday Celebration '97"
+startDate = "1997-11-28"
+endDate = "1997-12-00"
 pageThumbnailFile = "zvhhpm1wFC0UFJTOL2N3.avif"
 contributors = ["Ceclife13"]
 citations = []
-credits = ["Duncan Brannan - Programmer, Voice of Chuck E. Cheese, Mr. Munch, Jasper T. Jowls, Pasqually"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "50:17"
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Chuck E.'s Magical Holiday Celebration*** was a show that was released in December 1996 at Chuck E. Cheese's locations. This show is the same as {{< wiki-link "The Chuck E. Cheese Christmas Special" >}}, but with the intros and outros of each segment replaced.
+***Chuck E.'s Magical Holiday Celebration*** was a show that was released in December 1997 at Chuck E. Cheese's locations. This show is a rerelease of {{< wiki-link "Chuck E's Magical Holiday Celebration" >}}.
 
 ## Show List
 

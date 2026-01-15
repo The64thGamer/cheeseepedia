@@ -5,13 +5,14 @@ startDate = "1998-05-00"
 endDate = "1998-08-00"
 pageThumbnailFile = "n6N3Ri2j2SKwJvCKkYUq.avif"
 contributors = ["CyberSnout", "The 64th Gamer", "Ceclife13"]
+credits = ["Jeremy Blaido - Voice of Chuck E. Cheese, Wick Ladderback, Announcer, Dr. Googleplex, Will Frye The Nutrition Guy", "Duncan Brannan - Voice of Mr. Munch, Announcer, Larry The Technician", "Karlisa Burleson - Voice of Helen Henny", "Bob West - Voice of Jasper T. Jowls, Pasqually The Chef", "Brian Hagan", "Robert Gotcher"]
 citations = ["https://www.youtube.com/watch?v=6QRS--fDlbQ&t=649s"]
 mediaDuration = "51:28"
 showtapeFormats = ["R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**May 1998 Studio C** released May 1998 and ran until June 23rd, 1998. It would then be played again from July 7th, 1998 until September 1998.
+**May 1998 Studio C** released May 1998 and ran until June 23rd, 1998. It would then be played again from July 7th, 1998, until September 1998.
 This show was a modified version of the Studio C Premiere show with retooled dialogue to better fit Existing Stages.
 
 ## Show List

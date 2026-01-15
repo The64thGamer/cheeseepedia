@@ -55,9 +55,9 @@ This show played from April - June 2010.
     6.  CEC TV ID - 'NBC Chime'
     7.  Will & Dewitt - 'My New Boots'
     8.  CEC TV ID - 'Skeeball'
-10.  **Segment 5**
+10. **Segment 5**
     1.  ['Ain't Nothing Wrong With That'](https://en.wikipedia.org/wiki/Colorblind_(Robert_Randolph_album))
-11.  **Intermission 6**
+11. **Intermission 6**
     1.  Backstage Pass - 'Justin Bieber'
     2.  Fun Facts - 'The Queen of England's Birthday'
     3.  Dive Olly Dive! - 'Beth's Backfire'
