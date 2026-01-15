@@ -33,6 +33,7 @@ Here is the general flow for editing a page:
 
 **We _highly_ reccommend that you store your content in a text file or a notes application if you are making significant edits, just in case you are unable to save and need to try again later.**
 * If you use Google Docs or another word processor, make sure that "curly"/"curved" quotes are replaced with "straight" quotes or else that will cause issues when the wiki gets rebuilt with your changes.
+* If you continue to have issues with the editor, we also reccommend that you delete the repository from your GitHub account and try again. More information on how to do that can be found [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/deleting-a-repository).
 
 ---
 
