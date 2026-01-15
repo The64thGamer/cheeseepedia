@@ -320,6 +320,16 @@
     "rating": 0
   },
   {
+    "title": "Chuck E's Magical Holiday Celebration '97",
+    "page_path": "content/wiki/chuck-e-s-magical-holiday-celebration-97.md",
+    "startDate": "1997-11-28",
+    "start_year": 1997,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Chuck E. Cheese Summer Show 2024",
     "page_path": "content/wiki/chuck-e-cheese-summer-show-2024.md",
     "startDate": "2024-04-29",
@@ -9970,6 +9980,16 @@
     "rating": 0
   },
   {
+    "title": "august-1996-show",
+    "page_path": "content/wiki/august-1996-show.md",
+    "startDate": "",
+    "start_year": null,
+    "category": null,
+    "tag": null,
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
     "title": "Star Cast Member of the Month 2006 Pin",
     "page_path": "content/wiki/star-cast-member-of-the-month-2006-pin.md",
     "startDate": "",
@@ -15606,8 +15626,8 @@
     "start_year": 1982,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 1,
-    "rating": 0
+    "contributors_count": 2,
+    "rating": 2
   },
   {
     "title": "Cotton Candy (CEC Menu Item)",
@@ -21640,16 +21660,6 @@
     "rating": 3
   },
   {
-    "title": "August 1996 Show",
-    "page_path": "content/wiki/july-1996-show.md",
-    "startDate": "1996-08-00",
-    "start_year": 1996,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 4,
-    "rating": 0
-  },
-  {
     "title": "'Salad Bar' (Neon Sign)",
     "page_path": "content/wiki/salad-bar-neon-sign.md",
     "startDate": "1986-00-00",
@@ -23922,7 +23932,7 @@
   {
     "title": "Chuck E's Holiday Party 2000",
     "page_path": "content/wiki/chuck-e-s-holiday-party-2000.md",
-    "startDate": "2000-12-00",
+    "startDate": "2000-11-27",
     "start_year": 2000,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
@@ -25166,8 +25176,8 @@
     "start_year": null,
     "category": "Creative Engineering",
     "tag": "Companies/Brands",
-    "contributors_count": 1,
-    "rating": 1
+    "contributors_count": 2,
+    "rating": 4
   },
   {
     "title": "Westwood Golf Clubs Sign (Shelf Item)",
@@ -27080,14 +27090,14 @@
     "rating": 0
   },
   {
-    "title": "The Chuck E. Cheese Christmas Special",
+    "title": "the-chuck-e-cheese-christmas-special",
     "page_path": "content/wiki/the-chuck-e-cheese-christmas-special.md",
-    "startDate": "1995-11-24",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 2,
-    "rating": 1
+    "startDate": "",
+    "start_year": null,
+    "category": null,
+    "tag": null,
+    "contributors_count": 0,
+    "rating": 0
   },
   {
     "title": "BINGO",
@@ -31900,13 +31910,13 @@
     "rating": 4
   },
   {
-    "title": "Studio C Emergency Show",
+    "title": "studio-c-emergency-show",
     "page_path": "content/wiki/studio-c-emergency-show.md",
-    "startDate": "2000-00-00",
-    "start_year": 2000,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 1,
+    "startDate": "",
+    "start_year": null,
+    "category": null,
+    "tag": null,
+    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -36940,16 +36950,6 @@
     "rating": 1
   },
   {
-    "title": "Port Orange, FL (5539 S Williamson Blvd)",
-    "page_path": "content/wiki/2025locationandsuch copy 2.md",
-    "startDate": "2025-03-12",
-    "start_year": 2025,
-    "category": "Chuck E. Cheese's",
-    "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Lubbock, TX (2709 50th St)",
     "page_path": "content/wiki/lubbock-tx-2709-50th-st.md",
     "startDate": "1982-09-29",
@@ -38356,8 +38356,8 @@
     "start_year": 1997,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "Chuck E. Cheese International Summer Show 2023",
@@ -44626,7 +44626,7 @@
     "start_year": 2009,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 7,
+    "contributors_count": 8,
     "rating": 1
   },
   {
@@ -46558,6 +46558,16 @@
     "tag": "Costumed Characters",
     "contributors_count": 0,
     "rating": 0
+  },
+  {
+    "title": "August 1996 Show (AAM)",
+    "page_path": "content/wiki/august-1996-show-aam.md",
+    "startDate": "1996-08-21",
+    "start_year": 1996,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 3,
+    "rating": 1
   },
   {
     "title": "3 Birthday Shows - Colander History - Indoctrination Skit",
@@ -50236,7 +50246,7 @@
     "start_year": 1997,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 1
   },
   {
@@ -50486,8 +50496,8 @@
     "start_year": 1977,
     "category": "Creative Engineering",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "Richmond, VA (7548 W Broad St)",
@@ -50662,7 +50672,7 @@
   {
     "title": "September 2000 Show",
     "page_path": "content/wiki/september-2000-show.md",
-    "startDate": "2000-09-00",
+    "startDate": "2000-09-01",
     "start_year": 2000,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
@@ -54908,16 +54918,6 @@
     "tag": "Animatronics",
     "contributors_count": 0,
     "rating": 0
-  },
-  {
-    "title": "August 1996 Show (AAM)",
-    "page_path": "content/wiki/july-1996-show-aam.md",
-    "startDate": "1996-08-21",
-    "start_year": 1996,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 3,
-    "rating": 1
   },
   {
     "title": "CEC Team 2 Trainer Hat (90's)",

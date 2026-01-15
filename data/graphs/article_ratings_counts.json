@@ -1,10 +1,10 @@
 {
   "series": {
-    "Empty": 5204,
+    "Empty": 5202,
     "Very Bad": 513,
-    "Bad": 111,
+    "Bad": 112,
     "Good": 47,
-    "Great": 23
+    "Great": 24
   },
   "labels": [
     "Empty",
@@ -14,10 +14,10 @@
     "Great"
   ],
   "values": [
-    5204,
+    5202,
     513,
-    111,
+    112,
     47,
-    23
+    24
   ]
 }

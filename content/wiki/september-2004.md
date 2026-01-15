@@ -20,7 +20,7 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
 ## Show List:
 
 1.  **Segment 1**
-    1.  'Born To Be Wild'
+    1.  ['Born to Be Wild'](https://en.wikipedia.org/wiki/Born_to_Be_Wild)
     2.  'Pepperoni' (parody of ['My Sharona'](https://en.wikipedia.org/wiki/My_Sharona))
 2.  **Intermission 1**
     1.  CEC TV ID - 'Abstract '04'
@@ -32,7 +32,7 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
     7.  Countdown ('Rock Around The Clock' footage)
 3.  **Segment 2**
     1.  'Go To Chuck E. Cheese' (Parody of ['Turning Japanese'](https://en.wikipedia.org/wiki/Turning_Japanese))
-    2.  'Do Ya'
+    2.  ['Do Ya'](https://en.wikipedia.org/wiki/Michelle_Tumes)
 4.  **Intermission 2**
     1.  CEC TV ID - 'Couch'
     2.  Ratings
@@ -42,7 +42,7 @@ This show was the first released with Robert Gotcher as Director of Entertainmen
     6.  Baking With Betty - 'Vegetable Medley'
     7.  Countdown ('Old MacDonald')
 5.  **Segment 3**
-    1.  'What A Wonderful World'
+    1.  ['What a Wonderful World'](https://en.wikipedia.org/wiki/What_a_Wonderful_World)
     2.  'Smile'
 6.  **Intermission 3**
     1.  CEC TV ID - 'Sunrise'

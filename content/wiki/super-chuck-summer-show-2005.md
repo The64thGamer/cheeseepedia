@@ -45,7 +45,7 @@ categories = ["Chuck E. Cheese's"]
     3.  CEC TV ID - 'Stars'
     5.  Countdown
 7. **Segment 4**
-    1.  ['Picnic'](https://raffi.fandom.com/wiki/Going_On_a_Picnic)
+    1.  'Going on a Picnic'
     2.  'Barbeque' (parody of ['Rock With You'](https://en.wikipedia.org/wiki/Rock_with_You))
 8. **Intermission 4**
     1.  Cinemark Summer Movie Clubhouse Spot
@@ -88,7 +88,7 @@ categories = ["Chuck E. Cheese's"]
     4.  Coke Groove
     5.  Countdown
 7. **Segment 4**
-    1.  ['Picnic'](https://raffi.fandom.com/wiki/Going_On_a_Picnic)
+    1.  'Going on a Picnic'
     2.  'Barbeque' (parody of ['Rock With You'](https://en.wikipedia.org/wiki/Rock_with_You))
 8. **Intermission 4**
     1.  Super Chuck Summer VJ Spot
