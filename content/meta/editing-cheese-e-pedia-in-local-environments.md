@@ -19,6 +19,12 @@ Jump to Section:
 * [Creating a User Page](#creating-a-user-page)
 * [Creating a Photo Page](#creating-a-photo-page)
 * [Compiling Cheese-E-Pedia](#compiling-cheese-e-pedia)
+    * [Installing GitHub Desktop, Visual Studio Code, Hugo, and Python (Windows)](#installing-github-desktop-visual-studio-code-hugo-and-python-windows)
+        * [Visual Studio Code](#visual-studio-code)
+        * [Hugo](#hugo)
+        * [Python](#python)
+        * [GitHub Desktop](#github-desktop)
+    * [Running the Compilation Scripts](#running-the-compilation-scripts)
 ---
 
 Here is the general flow for making local edits:
@@ -106,17 +112,48 @@ To create a photo page, use the Hugo command line within the repository folder, 
 To link a photo page to an article, add an entry in the `pages` Array parameter with the exact title of the page.
 
 ## Compiling Cheese-E-Pedia
+
+### Installing GitHub Desktop, Visual Studio Code, Hugo, and Python (Windows)
+
+#### Visual Studio Code
+Go to [https://code.visualstudio.com/download](https://code.visualstudio.com/download) and install Visual Studio Code.
+
+#### Hugo
+Open your Command Prompt, and then type `winget install Hugo.Hugo --version {{.Site.Hugo.Version }}` (this is the same version as the site and is updated automatically). Then press Enter.
+
+#### Python
+Open your Command Prompt, and then type `winget search Python.Python.3` -- a list will appear with all available Python versions. Find the latest version (anything higher than 3.10.x -- such as 3.11.x, 3.12.x, 3.13.x, etc.) -- then type `winget install Python.Python.` followed by the version number. If we're installing Python 3.14.2, you can type `winget install Python.Python.3.14.2`, as an example. Then press Enter.
+
+#### GitHub Desktop
+Go to [https://desktop.github.com/download/](https://desktop.github.com/download/) and install GitHub Desktop. When prompted, sign in with your GitHub account. If it asks about a name and email associated with your commits, keep the defaults.
+
+Then, go to your repository on GitHub, and make sure it is synced to the main repository. Back in GitHub Desktop, go to "File > Clone Repository" and select your version of Cheese-E-Pedia. You can save it wherever you desire.
+
+In GitHub Desktop, click "Open in Visual Studio Code" and then Visual Studio Code will open up with the repository as the working directory.
+
+### Running the Compilation Scripts
 When your changes are complete, we offer a Python script to update the `data` directory and also run Hugo's server command which provides a live preview of the site.
 
 In the main directory of the repository, we recommend creating a Python virtual environment named `.venv` -- this folder name is ignored by Git by default. The dot (`.`) is important.
 
-After activating the virtual environment, use Pip to install the dependencies based on `requirements.txt`, and then run one of the following scripts:
+To create the virtual environment, first open a terminal in Visual Studio Code ("Terminal" > "New Terminal"), then type `py -m venv .venv` -- this will create a folder in the repository called ".venv" and it will be ignored by GitHub Desktop.
+
+To activate the virtual environment, type `.\.venv\scripts\activate`, then press Enter. 
+* If you are using PowerShell, it may complain about running scripts locally. You might need to open PowerShell as an Administrator, and then enter `Set-ExecutionPolicy RemoteSigned`, and then return to Visual Studio Code and try again.
+
+To confirm you are in the virtual environment, you will see `(.venv)` at the beginning of your command line.
+
+To install the dependencies to run the Python scripts, type `py -m pip install -r requirements.txt`, then press Enter.
+
+Then run one of the following scripts:
 
 * cep_compile_slow.py
     * Creates low-res images, and then performs general compilation process.
 * cep_compile.py
     * General complication process; creates data for site, then runs Hugo server.
 
+To run a script such as "cep_compile.py", type `py .\scripts\cep_compile.py`, then press Enter.
+
 If the build is successful, you can browse the site using the URL provided in the command line. The site will be located in a folder called `public` which is ignored by Git, and can be copied elsewhere without consequence once the server is stopped.
 
-You can stop the server with a `Ctrl+C` interrupt, or by closing the terminal.
+You can stop the server by clicking into the terminal and pressing Ctrl+C to interrupt, or by closing the terminal.
