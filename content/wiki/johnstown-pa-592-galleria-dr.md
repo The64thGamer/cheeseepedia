@@ -18,4 +18,6 @@ latitudeLongitude = ["40.2985971", "-78.8337607"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
-**It Filed For** Bankruptcy Of The Too Much Rent Since June 2020.
+1. ![](/photos/img_6751.webp)
+
+   **It Filed For** Bankruptcy Of The Too Much Rent Since June 2020.
