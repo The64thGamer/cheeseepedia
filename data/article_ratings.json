@@ -682,12 +682,12 @@
   {
     "title": "Jingle Bell Jamboree",
     "page_path": "content/wiki/jingle-bell-jamboree.md",
-    "startDate": "",
-    "start_year": null,
+    "startDate": "1977-00-00",
+    "start_year": 1977,
     "category": "Creative Engineering",
     "tag": "Animatronic Shows",
-    "contributors_count": 1,
-    "rating": 0
+    "contributors_count": 2,
+    "rating": 2
   },
   {
     "title": "Chuck E. Cheese's Nerf Stress Foot",
@@ -9980,14 +9980,14 @@
     "rating": 0
   },
   {
-    "title": "august-1996-show",
+    "title": "August 1996 Show",
     "page_path": "content/wiki/august-1996-show.md",
-    "startDate": "",
-    "start_year": null,
-    "category": null,
-    "tag": null,
-    "contributors_count": 0,
-    "rating": 0
+    "startDate": "1996-08-00",
+    "start_year": 1996,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 4,
+    "rating": 2
   },
   {
     "title": "Star Cast Member of the Month 2006 Pin",
@@ -27090,14 +27090,14 @@
     "rating": 0
   },
   {
-    "title": "the-chuck-e-cheese-christmas-special",
+    "title": "The Chuck E. Cheese Christmas Special",
     "page_path": "content/wiki/the-chuck-e-cheese-christmas-special.md",
-    "startDate": "",
-    "start_year": null,
-    "category": null,
-    "tag": null,
-    "contributors_count": 0,
-    "rating": 0
+    "startDate": "1995-11-24",
+    "start_year": 1995,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 2,
+    "rating": 1
   },
   {
     "title": "BINGO",
@@ -31910,13 +31910,13 @@
     "rating": 4
   },
   {
-    "title": "studio-c-emergency-show",
+    "title": "Studio C Emergency Show",
     "page_path": "content/wiki/studio-c-emergency-show.md",
-    "startDate": "",
-    "start_year": null,
-    "category": null,
-    "tag": null,
-    "contributors_count": 0,
+    "startDate": "2000-00-00",
+    "start_year": 2000,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -46567,7 +46567,7 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 3,
-    "rating": 1
+    "rating": 2
   },
   {
     "title": "3 Birthday Shows - Colander History - Indoctrination Skit",
