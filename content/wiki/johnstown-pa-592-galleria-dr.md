@@ -1,20 +1,21 @@
 +++
-title = "Johnstown, PA (592 Galleria Dr)"
-storeNumber = ""
+cuDate = "This is Now A Verizon In A Formally Chuck E. Cheese’s."
+draft = false
+title = "Johnstown, PA  (592 Galleria Dr.)"
 startDate = "2003-11-19"
 endDate = "2020-06-16"
-cuDate = ""
+pageThumbnailFile = "This Status is Unknown."
+contributors = ["Chuck E. Cheese"]
+citations = []
+storeNumber = ""
+sqft = ""
+attractions = []
+franchisees = []
 remodels = []
 stages = ["Studio C Cappa|2003-11-19|2020-06-16|"]
-franchisees = []
-attractions = []
-sqft = ""
-latitudeLongitude = ["40.2985971","-78.8337607"]
-citations = []
-contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+latitudeLongitude = ["40.2985971", "-78.8337607"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-draft = false
 +++
+**It Filed For** Bankruptcy Of The Too Much Rent Since June 2020.
