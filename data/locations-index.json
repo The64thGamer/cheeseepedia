@@ -19271,6 +19271,80 @@
       "sort": "20020000"
     }
   ],
+  "attractions|Mega Superhero Playground": [
+    {
+      "page_get": "wiki/st-charles-mo-2669-veterans-memorial-pkwy",
+      "page_path": "content/wiki/st-charles-mo-2669-veterans-memorial-pkwy",
+      "page_title": "St. Charles, MO (2669 Veterans Memorial Pkwy)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-00-00",
+        "",
+        ""
+      ],
+      "sort": "20250000"
+    },
+    {
+      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
+      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
+      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-00-00",
+        "",
+        ""
+      ],
+      "sort": "20250000"
+    },
+    {
+      "page_get": "wiki/brandon-fl-1540-w-brandon-blvd",
+      "page_path": "content/wiki/brandon-fl-1540-w-brandon-blvd",
+      "page_title": "Brandon, FL (1540 W Brandon Blvd)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-07-00",
+        "",
+        "First Ever Installation"
+      ],
+      "sort": "20250700"
+    },
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-11-07",
+        "",
+        "First Adventure World Installation"
+      ],
+      "sort": "20251107"
+    },
+    {
+      "page_get": "wiki/bel-air-md-5-bel-air-south-pkwy",
+      "page_path": "content/wiki/bel-air-md-5-bel-air-south-pkwy",
+      "page_title": "Bel Air, MD (5 Bel Air South Pkwy)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2026-00-00",
+        "",
+        ""
+      ],
+      "sort": "20260000"
+    },
+    {
+      "page_get": "wiki/augusta-ga-3435-wrightsboro-rd",
+      "page_path": "content/wiki/augusta-ga-3435-wrightsboro-rd",
+      "page_title": "Augusta, GA (3435 Wrightsboro Rd)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2026-00-00",
+        "",
+        ""
+      ],
+      "sort": "20260000"
+    }
+  ],
   "stages|Studio C Alpha": [
     {
       "page_get": "wiki/st-charles-mo-2669-veterans-memorial-pkwy",

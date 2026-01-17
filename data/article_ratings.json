@@ -7070,7 +7070,7 @@
     "rating": 0
   },
   {
-    "title": "Ninja Run",
+    "title": "Superhero Playground",
     "page_path": "content/wiki/ninja-run.md",
     "startDate": "",
     "start_year": null,
@@ -14726,6 +14726,16 @@
     "start_year": 1993,
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "Mega Superhero Playground",
+    "page_path": "content/wiki/ninja-run copy.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "Arcades and Attractions",
     "contributors_count": 0,
     "rating": 0
   },
