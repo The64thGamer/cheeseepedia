@@ -774,6 +774,67 @@ document.addEventListener("DOMContentLoaded", () => {
     return b.localeCompare(a);
   }
 
+  // --- "Show more" helper: IntersectionObserver on a sentinel at bottom of each results list ---
+  const showMoreObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      const sentinel = entry.target;
+      const container = sentinel.closest(".results-list");
+      if (!container) return;
+      const showMoreEl = container.querySelector(".show-more-wrapper");
+      if (!showMoreEl) return;
+      const total = parseInt(sentinel.dataset.total || "0", 10) || 0;
+      const shown = parseInt(sentinel.dataset.shown || "0", 10) || 0;
+      const perVal = resultsPerSelect && resultsPerSelect.value ? resultsPerSelect.value : "10";
+      const isAll = perVal === "all";
+      if (entry.isIntersecting && !isAll && total > shown) {
+        showMoreEl.style.display = "block";
+      } else {
+        showMoreEl.style.display = "none";
+      }
+    });
+  }, { root: null, rootMargin: "0px", threshold: 0.1 });
+
+  function attachSentinel(container, totalCount, shownCount) {
+    // remove previous sentinel & show-more wrapper in this container
+    const existingSent = container.querySelector(".results-bottom-sentinel");
+    if (existingSent) {
+      showMoreObserver.unobserve(existingSent);
+      existingSent.remove();
+    }
+    let showMoreWrap = container.querySelector(".show-more-wrapper");
+    if (showMoreWrap) showMoreWrap.remove();
+
+    // create wrapper for "show more"
+    showMoreWrap = document.createElement("div");
+    showMoreWrap.className = "show-more-wrapper";
+    showMoreWrap.style.display = "none";
+    showMoreWrap.innerHTML = `<a href="#" class="show-more-link">Show more</a>`;
+    container.appendChild(showMoreWrap);
+
+    // click handler: advance the results-per-section select to next tier
+    const link = showMoreWrap.querySelector(".show-more-link");
+    link.addEventListener("click", (ev) => {
+      ev.preventDefault();
+      const tiers = ["10","50","100","all"];
+      const current = resultsPerSelect && resultsPerSelect.value ? resultsPerSelect.value : "10";
+      const idx = tiers.indexOf(current);
+      const next = tiers[Math.min(idx + 1, tiers.length - 1)];
+      if (resultsPerSelect) resultsPerSelect.value = next;
+      executeSearch();
+      // removed scrollIntoView to keep user's scroll position intact
+    });
+
+    // create sentinel
+    const sentinel = document.createElement("div");
+    sentinel.className = "results-bottom-sentinel";
+    sentinel.dataset.total = String(totalCount || 0);
+    sentinel.dataset.shown = String(shownCount || 0);
+    sentinel.style.width = "100%";
+    sentinel.style.height = "1px";
+    container.appendChild(sentinel);
+    showMoreObserver.observe(sentinel);
+  }
+
   // --- executeSearch & rendering control ---
   function executeSearch() {
     if (!DOCS || !DOCS.length) {
@@ -831,6 +892,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function clearAndRender(container, arr, renderer) {
       if (!container) return;
+      // remove existing sentinel observer items if any
+      const existingSent = container.querySelectorAll(".results-bottom-sentinel");
+      existingSent.forEach(s => {
+        try { showMoreObserver.unobserve(s); } catch(e){}
+        s.remove();
+      });
+      const existingShow = container.querySelectorAll(".show-more-wrapper");
+      existingShow.forEach(s => s.remove());
+
       container.innerHTML = "";
       if (!arr.length) { container.innerHTML = `<div class="no-results">No results</div>`; return; }
       const limited = (perLimit === Infinity) ? arr : arr.slice(0, perLimit);
@@ -841,6 +911,11 @@ document.addEventListener("DOMContentLoaded", () => {
       } else {
         limited.forEach(item => container.appendChild(renderer(item.doc)));
       }
+
+      // attach sentinel + show-more control if there are more items than shown and perLimit !== Infinity
+      const totalCount = arr.length;
+      const shownCount = limited.length;
+      attachSentinel(container, totalCount, shownCount);
     }
 
     clearAndRender(listArticles, articles, renderArticle);
