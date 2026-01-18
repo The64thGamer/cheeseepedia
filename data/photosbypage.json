@@ -38666,7 +38666,7 @@
       "content": ""
     }
   ],
-  "Kowloon, Hong Kong, China": [
+  "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)": [
     {
       "name": "KOWLOON2.avif",
       "page_path": "content/photos/kowloon2avif",
@@ -38701,6 +38701,13 @@
       "hasFile": true,
       "startDate": "",
       "content": ""
+    },
+    {
+      "name": "XtwWm9zAY4R8LhqARpLT.avif",
+      "page_path": "content/photos/xtwwm9zay4r8lhqarpltavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "The Beagles (Unknown Year)"
     },
     {
       "name": "KOWLOONAD.avif",
@@ -58394,15 +58401,6 @@
       "hasFile": true,
       "startDate": "",
       "content": "A picture of the 2nd Generation Mitzi Mozzarella Animatronic"
-    }
-  ],
-  "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)": [
-    {
-      "name": "XtwWm9zAY4R8LhqARpLT.avif",
-      "page_path": "content/photos/xtwwm9zay4r8lhqarpltavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "The Beagles (Unknown Year)"
     }
   ],
   "Lima, OH (2809 Elida Rd)": [

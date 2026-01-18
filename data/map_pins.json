@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T08:41:02Z",
-  "count": 1054,
+  "generated_at": "2026-01-18T22:18:56Z",
+  "count": 1056,
   "locations": [
     {
       "title": "Salem, OR (3180 Lancaster Dr)",
@@ -4335,6 +4335,25 @@
       "page_path": "content/wiki/arlington-tx-3200-justiss-dr.md"
     },
     {
+      "title": "Aberdeen, Hong Kong, China",
+      "group": [
+        "Pizza Time Theatre"
+      ],
+      "coords_str": [
+        "22.2493288",
+        "114.1556394"
+      ],
+      "coords": [
+        22.2493288,
+        114.1556394
+      ],
+      "url": "/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd copy 2/",
+      "startDate": "1970-01-01",
+      "endDate": "9999-12-31",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd copy 2.md"
+    },
+    {
       "title": "Oceanside, CA (2481 Vista Way)",
       "group": [
         "ShowBiz Pizza Place"
@@ -4675,6 +4694,25 @@
       "endDate": "2020-06-25",
       "cuDate": "1992-01-01",
       "page_path": "content/wiki/san-jose-ca-1371-kooser-rd.md"
+    },
+    {
+      "title": "Hong Kong, China (18 Tai Koo Shing Rd, Taikoo Shing)",
+      "group": [
+        "Pizza Time Theatre"
+      ],
+      "coords_str": [
+        "22.2865363",
+        "114.217253"
+      ],
+      "coords": [
+        22.2865363,
+        114.217253
+      ],
+      "url": "/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd copy/",
+      "startDate": "1984-01-01",
+      "endDate": "1991-12-31",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd copy.md"
     },
     {
       "title": "Henderson, NV (1521 W Sunset Rd)",
@@ -7470,17 +7508,17 @@
       "page_path": "content/wiki/napa-ca-1800-soscol-ave.md"
     },
     {
-      "title": "Kowloon, Hong Kong, China",
+      "title": "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)",
       "group": [
         "Pizza Time Theatre"
       ],
       "coords_str": [
-        "22.29820947",
-        "114.175802"
+        "22.299499",
+        "114.177238"
       ],
       "coords": [
-        22.29820947,
-        114.175802
+        22.299499,
+        114.177238
       ],
       "url": "/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd/",
       "startDate": "1982-12-01",

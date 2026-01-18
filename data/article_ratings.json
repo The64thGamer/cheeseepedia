@@ -13110,6 +13110,16 @@
     "rating": 0
   },
   {
+    "title": "Aberdeen, Hong Kong, China",
+    "page_path": "content/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd copy 2.md",
+    "startDate": "0000-00-00",
+    "start_year": null,
+    "category": "Pizza Time Theatre",
+    "tag": "Locations",
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
     "title": "Ice Hockey (CEC Décor)",
     "page_path": "content/wiki/ice-hockey-cec-decor.md",
     "startDate": "1999-00-00",
@@ -13906,6 +13916,16 @@
     "start_year": 2023,
     "category": "Chuck E. Cheese's",
     "tag": "Events",
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "Hong Kong, China (18 Tai Koo Shing Rd, Taikoo Shing)",
+    "page_path": "content/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd copy.md",
+    "startDate": "1984-00-00",
+    "start_year": 1984,
+    "category": "Pizza Time Theatre",
+    "tag": "Locations",
     "contributors_count": 0,
     "rating": 0
   },
@@ -22320,7 +22340,7 @@
     "rating": 0
   },
   {
-    "title": "Kowloon, Hong Kong, China",
+    "title": "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)",
     "page_path": "content/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd.md",
     "startDate": "1982-12-00",
     "start_year": 1982,
@@ -49826,8 +49846,8 @@
     "start_year": 1999,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 4
   },
   {
     "title": "PTT Token 123 (B, N)",
