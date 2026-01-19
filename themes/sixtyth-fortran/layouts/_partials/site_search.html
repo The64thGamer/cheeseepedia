@@ -236,6 +236,17 @@ document.addEventListener("DOMContentLoaded", () => {
     trigger.addEventListener("click", openOnce);
     trigger.addEventListener("focus", openOnce);
   }
+  // Allow clicking the entire tag chip container to focus the input and open the collapsible.
+  if (tagChipContainer) {
+    tagChipContainer.addEventListener("click", (e) => {
+      // If the user clicked a chip close button, let that event proceed (don't steal focus).
+      if (e.target.closest(".tag-chip-close")) return;
+      if (tagInput) {
+        tagInput.focus();
+        openOnce();
+      }
+    });
+  }
 
   // --- Basic text utilities ---
   const reNonWord = /[^\w\s]/g, reSpace = /\s+/g;
@@ -387,6 +398,28 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function hideSuggestions() { if (!tagSuggestions) return; tagSuggestions.innerHTML=""; tagSuggestions.style.display="none"; tagSuggestions.setAttribute("aria-hidden","true"); suggestionIndex = -1; }
 
+  // helper to commit either highlighted suggestion or typed input
+  function commitSelectedSuggestionOrInput() {
+    if (!tagInput) return;
+    const v = tagInput.value || "";
+    const items = tagSuggestions ? Array.from(tagSuggestions.querySelectorAll(".tag-suggestion")) : [];
+    const activeItem = items.find(it => it.classList.contains("active"));
+    if (activeItem) {
+      const txt = (activeItem.querySelector(".suggest-tag").textContent || "").trim();
+      const negative = txt.startsWith("-");
+      const tagText = negative ? txt.slice(1) : txt;
+      if (tagText) addTag(tagText, negative);
+    } else {
+      const val = v.trim();
+      if (val) {
+        const negative = val.startsWith("-");
+        const tagText = negative ? val.slice(1) : val;
+        addTag(tagText, negative);
+      }
+    }
+    hideSuggestions();
+  }
+
   if (tagInput) {
     tagInput.addEventListener("input", () => {
       const v = tagInput.value || "";
@@ -398,22 +431,12 @@ document.addEventListener("DOMContentLoaded", () => {
       const v = tagInput.value || "";
       const items = tagSuggestions ? Array.from(tagSuggestions.querySelectorAll(".tag-suggestion")) : [];
 
-      if (e.key === "Enter") {
+      if (e.key === "Enter" || e.key === "Tab") {
+        // Unified behavior: Enter and Tab both commit.
+        // If a suggestion is highlighted (via arrow keys or mouseover), pick that.
+        // Otherwise create a tag from the typed input.
         e.preventDefault();
-        addTag(v.trim().startsWith("-") ? v.trim().slice(1) : v.trim(), v.trim().startsWith("-"));
-        hideSuggestions();
-      } else if (e.key === "Tab") {
-        if (items.length) {
-          e.preventDefault();
-          // If an item is highlighted (via arrow keys or mouseover), pick that.
-          // Otherwise pick the first item.
-          const activeItem = items.find(it => it.classList.contains("active")) || items[0];
-          if (activeItem) {
-            const txt = activeItem.querySelector(".suggest-tag").textContent || "";
-            addTag(txt.startsWith("-") ? txt.slice(1) : txt, txt.startsWith("-"));
-            hideSuggestions();
-          }
-        }
+        commitSelectedSuggestionOrInput();
       } else if (e.key === "ArrowDown") {
         if (items.length) {
           e.preventDefault();
@@ -435,7 +458,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     document.addEventListener("click", (e) => {
       if (!tagSuggestions || !tagInput) return;
-      if (!tagSuggestions.contains(e.target) && e.target !== tagInput) hideSuggestions();
+      if (!tagSuggestions.contains(e.target) && e.target !== tagInput && !tagChipContainer.contains(e.target)) hideSuggestions();
     });
   }
 

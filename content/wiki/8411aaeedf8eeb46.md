@@ -1,9 +1,10 @@
 +++
+
 title = "2004 CEC Kids Bib"
 draft = false
 tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
+pageThumbnailFile = "0863988c1e83389a.avif"
 startDate = "2004-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
