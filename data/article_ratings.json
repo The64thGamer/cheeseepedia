@@ -682,12 +682,12 @@
   {
     "title": "Jingle Bell Jamboree",
     "page_path": "content/wiki/jingle-bell-jamboree.md",
-    "startDate": "",
-    "start_year": null,
+    "startDate": "1977-00-00",
+    "start_year": 1977,
     "category": "Creative Engineering",
     "tag": "Animatronic Shows",
-    "contributors_count": 1,
-    "rating": 0
+    "contributors_count": 2,
+    "rating": 2
   },
   {
     "title": "Chuck E. Cheese's Nerf Stress Foot",
@@ -2617,6 +2617,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Tokens",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2012 CEC Hot Wheels Open Road Ster",
+    "page_path": "content/wiki/6126db581b38986c.md",
+    "startDate": "2012-00-00",
+    "start_year": 2012,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -4920,6 +4930,16 @@
     "rating": 0
   },
   {
+    "title": "2010 CEC Lil Twister",
+    "page_path": "content/wiki/d0a8899466aef063.md",
+    "startDate": "2010-00-00",
+    "start_year": 2010,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Token Value #2 (CEC Menu Item)",
     "page_path": "content/wiki/token-value-2-cec-menu-item.md",
     "startDate": "1998-00-00",
@@ -5487,6 +5507,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2013 CEC Bracelet",
+    "page_path": "content/wiki/8c7ad0bd2ba35d9d.md",
+    "startDate": "2013-00-00",
+    "start_year": 2013,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -6370,6 +6400,16 @@
     "rating": 0
   },
   {
+    "title": "1997 CEC Hot Wheels Street Roader",
+    "page_path": "content/wiki/d436d9aaad7a6901.md",
+    "startDate": "1997-00-00",
+    "start_year": 1997,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Panama City, FL (4432 US-98)",
     "page_path": "content/wiki/panama-city-fl-4432-us-98.md",
     "startDate": "1986-05-07",
@@ -7070,7 +7110,7 @@
     "rating": 0
   },
   {
-    "title": "Ninja Run",
+    "title": "Superhero Playground",
     "page_path": "content/wiki/ninja-run.md",
     "startDate": "",
     "start_year": null,
@@ -7760,6 +7800,16 @@
     "rating": 0
   },
   {
+    "title": "2017 Summer Frisbee Red",
+    "page_path": "content/wiki/6357daa2e88b3585.md",
+    "startDate": "2017-00-00",
+    "start_year": 2017,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "CEC Token 505 (B)",
     "page_path": "content/wiki/cec-token-505-b.md",
     "startDate": "",
@@ -8320,6 +8370,16 @@
     "rating": 0
   },
   {
+    "title": "1980 PTT Stein Mug",
+    "page_path": "content/wiki/60201b0d903c5c42.md",
+    "startDate": "1980-00-00",
+    "start_year": 1980,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "1994 Munch Plush Baseball",
     "page_path": "content/wiki/0380466a27ccc68b.md",
     "startDate": "1994-00-00",
@@ -8396,6 +8456,16 @@
     "start_year": 2021,
     "category": "Creative Engineering",
     "tag": "Showtapes",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
+    "title": "2022 CEC Boo Tacular Merch Display",
+    "page_path": "content/wiki/e6c3cb1f0046f2a4.md",
+    "startDate": "2022-00-00",
+    "start_year": 2022,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
     "contributors_count": 1,
     "rating": 0
   },
@@ -8720,6 +8790,16 @@
     "rating": 0
   },
   {
+    "title": "1993 CEC Coin Bank",
+    "page_path": "content/wiki/e01324c1c8e28399.md",
+    "startDate": "1993-00-00",
+    "start_year": 1993,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "CEC Token 504 (B, N)",
     "page_path": "content/wiki/cec-token-504-b-n.md",
     "startDate": "",
@@ -8808,6 +8888,16 @@
     "tag": "Employee Wear",
     "contributors_count": 1,
     "rating": 1
+  },
+  {
+    "title": "1980 PTT Chuck E. Cheese Pin",
+    "page_path": "content/wiki/3cde4c204f9d2f21.md",
+    "startDate": "1980-00-00",
+    "start_year": 1980,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
   },
   {
     "title": "Chuck E. Cheese's Party Galaxy",
@@ -9050,6 +9140,16 @@
     "rating": 0
   },
   {
+    "title": "1980 PTT Dolli Pin",
+    "page_path": "content/wiki/0a00ae2b46629df2.md",
+    "startDate": "1980-00-00",
+    "start_year": 1980,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Torpedo Dog (SPP Menu Item)",
     "page_path": "content/wiki/torpedo-dog-spp-menu-item.md",
     "startDate": "1985-00-00",
@@ -9247,6 +9347,16 @@
     "category": "Pizza Time Theatre",
     "tag": "Locations",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2000 CEC Hot Wheels Mx48 Turbo",
+    "page_path": "content/wiki/057e96621fcba3f4.md",
+    "startDate": "2000-00-00",
+    "start_year": 2000,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -9730,6 +9840,16 @@
     "rating": 0
   },
   {
+    "title": "1996 CEC Hot Wheels Custom Van",
+    "page_path": "content/wiki/3afda07d464414d7.md",
+    "startDate": "1996-00-00",
+    "start_year": 1996,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "2004 CEC Franchise Dallas Convention (Event)",
     "page_path": "content/wiki/2004-cec-franchise-dallas-convention-event.md",
     "startDate": "2004-00-00",
@@ -9980,14 +10100,14 @@
     "rating": 0
   },
   {
-    "title": "august-1996-show",
+    "title": "August 1996 Show",
     "page_path": "content/wiki/august-1996-show.md",
-    "startDate": "",
-    "start_year": null,
-    "category": null,
-    "tag": null,
-    "contributors_count": 0,
-    "rating": 0
+    "startDate": "1996-08-00",
+    "start_year": 1996,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 4,
+    "rating": 2
   },
   {
     "title": "Star Cast Member of the Month 2006 Pin",
@@ -10027,6 +10147,16 @@
     "category": "Pasqually's Pizza & Wings",
     "tag": "Menu Items",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2022 CEC Pinball",
+    "page_path": "content/wiki/fdca462bd7389b70.md",
+    "startDate": "2022-00-00",
+    "start_year": 2022,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -10490,6 +10620,16 @@
     "rating": 0
   },
   {
+    "title": "1995 CEC Hot Wheels '93 Camaro",
+    "page_path": "content/wiki/b34dcd33ae5d2dda.md",
+    "startDate": "1995-00-00",
+    "start_year": 1995,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Studio C Alpha",
     "page_path": "content/wiki/studio-c-alpha.md",
     "startDate": "1997-12-17",
@@ -10820,6 +10960,16 @@
     "rating": 0
   },
   {
+    "title": "1999 CEC Blue Pepperoni Plush",
+    "page_path": "content/wiki/b1d0131e0678555f.md",
+    "startDate": "1999-00-00",
+    "start_year": 1999,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Aaron's Auctions Website",
     "page_path": "content/wiki/aaron-s-auctions-website.md",
     "startDate": "",
@@ -10957,6 +11107,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1996 CEC Tune Tracks Cassette",
+    "page_path": "content/wiki/b088c73de1991add.md",
+    "startDate": "1996-00-00",
+    "start_year": 1996,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -11990,6 +12150,16 @@
     "rating": 0
   },
   {
+    "title": "2014 CEC Crazy Straw Cup",
+    "page_path": "content/wiki/31a038b93a6dbd28.md",
+    "startDate": "2014-00-00",
+    "start_year": 2014,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Road Show 2005",
     "page_path": "content/wiki/road-show-2005.md",
     "startDate": "2005-09-00",
@@ -12506,7 +12676,7 @@
     "start_year": 1997,
     "category": "Chuck E. Cheese's",
     "tag": "Animatronic Shows",
-    "contributors_count": 18,
+    "contributors_count": 19,
     "rating": 0
   },
   {
@@ -12547,16 +12717,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
     "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's Hot Wheels Sweet 16 II (2001)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-sweet-16-ii-2001.md",
-    "startDate": "2001-00-00",
-    "start_year": 2001,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -13107,6 +13267,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
     "contributors_count": 1,
+    "rating": 0
+  },
+  {
+    "title": "Aberdeen, Hong Kong, China",
+    "page_path": "content/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd copy 2.md",
+    "startDate": "0000-00-00",
+    "start_year": null,
+    "category": "Pizza Time Theatre",
+    "tag": "Locations",
+    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -13750,6 +13920,16 @@
     "rating": 0
   },
   {
+    "title": "2017 40 Years Of Fun Figural Crayons",
+    "page_path": "content/wiki/d9e182f3fa78888c.md",
+    "startDate": "2017-00-00",
+    "start_year": 2017,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Chuck E. Cheese Live",
     "page_path": "content/wiki/chuck-e-cheese-live.md",
     "startDate": "1987-05-09",
@@ -13910,6 +14090,16 @@
     "rating": 0
   },
   {
+    "title": "Hong Kong, China (18 Tai Koo Shing Rd, Taikoo Shing)",
+    "page_path": "content/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd copy.md",
+    "startDate": "1984-00-00",
+    "start_year": 1984,
+    "category": "Pizza Time Theatre",
+    "tag": "Locations",
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
     "title": "Golden Gamer",
     "page_path": "content/wiki/golden-gamer.md",
     "startDate": "",
@@ -14047,6 +14237,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1996 CEC Hot Wheels '80s Corvette",
+    "page_path": "content/wiki/be5185708b0c7689.md",
+    "startDate": "1996-00-00",
+    "start_year": 1996,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -14197,6 +14397,16 @@
     "category": "Creative Engineering",
     "tag": "Showtapes",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2014 CEC Coin Holder",
+    "page_path": "content/wiki/c88c23beae6d96fb.md",
+    "startDate": "2014-00-00",
+    "start_year": 2014,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -14457,6 +14667,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Documents",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1982 PTT Notepad",
+    "page_path": "content/wiki/26c3a9d68ca9b0fa.md",
+    "startDate": "1982-00-00",
+    "start_year": 1982,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -14726,6 +14946,16 @@
     "start_year": 1993,
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "Mega Superhero Playground",
+    "page_path": "content/wiki/ninja-run copy.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "Arcades and Attractions",
     "contributors_count": 0,
     "rating": 0
   },
@@ -15240,6 +15470,16 @@
     "rating": 0
   },
   {
+    "title": "2001 Extreme Chuck E. Wallet",
+    "page_path": "content/wiki/3cfdc358d54bf008.md",
+    "startDate": "2001-00-00",
+    "start_year": 2001,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "'ShowBiz Pizza' (SPT Exterior Signage)",
     "page_path": "content/wiki/showbiz-pizza-spt-exterior-signage.md",
     "startDate": "",
@@ -15367,6 +15607,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Costumed Characters",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2011 CEC Hot Wheels Jet Threat 4.0",
+    "page_path": "content/wiki/b851f047039b2ece.md",
+    "startDate": "2011-00-00",
+    "start_year": 2011,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -15957,6 +16207,16 @@
     "category": "Creative Engineering",
     "tag": "Animatronics",
     "contributors_count": 2,
+    "rating": 0
+  },
+  {
+    "title": "2000 CEC Sticker Sheet",
+    "page_path": "content/wiki/22cb709a107506b7.md",
+    "startDate": "2000-00-00",
+    "start_year": 2000,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -18230,6 +18490,16 @@
     "rating": 0
   },
   {
+    "title": "2000 CEC Hot Wheels Fat Fendered '40",
+    "page_path": "content/wiki/61f573dbc406cdce.md",
+    "startDate": "2000-00-00",
+    "start_year": 2000,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)",
     "page_path": "content/wiki/chuck-e-cheese-s-show-4-2021-international-fall-show-eng-promo.md",
     "startDate": "2021-09-20",
@@ -18247,6 +18517,16 @@
     "category": "Creative Engineering",
     "tag": "Showtapes",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1992 CEC Hot Wheels '80s Firebird",
+    "page_path": "content/wiki/b5c15532a1ad3132.md",
+    "startDate": "1992-00-00",
+    "start_year": 1992,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -18646,6 +18926,16 @@
     "start_year": 1997,
     "category": "Creative Engineering",
     "tag": "Showtapes",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
+    "title": "2009 CEC Pizza Maker Set",
+    "page_path": "content/wiki/06aec449cad393dc.md",
+    "startDate": "2009-00-00",
+    "start_year": 2009,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
     "contributors_count": 1,
     "rating": 0
   },
@@ -19250,6 +19540,16 @@
     "rating": 0
   },
   {
+    "title": "1997 CEC Hot Wheels 20th Anniversary Race Car Pontiac Grad Prix Stocker",
+    "page_path": "content/wiki/4f847cf7649c3692.md",
+    "startDate": "1997-00-00",
+    "start_year": 1997,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "CEC University Responsible Alcohol Service (2001)",
     "page_path": "content/wiki/cec-university-responsible-alcohol-service-2001.md",
     "startDate": "2001-00-00",
@@ -19657,6 +19957,16 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2000 Chuck E. Cheese S Marker Set",
+    "page_path": "content/wiki/4a1905b116bf8819.md",
+    "startDate": "2000-00-00",
+    "start_year": 2000,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -20410,6 +20720,16 @@
     "rating": 0
   },
   {
+    "title": "2011 CEC Hot Wheels La Fiesta",
+    "page_path": "content/wiki/835a72842a9dee32.md",
+    "startDate": "2011-00-00",
+    "start_year": 2011,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Orlando, FL (7419 International Dr)",
     "page_path": "content/wiki/orlando-fl-7419-international-dr.md",
     "startDate": "1981-07-22",
@@ -20910,6 +21230,16 @@
     "rating": 0
   },
   {
+    "title": "2023 CEC Beanie",
+    "page_path": "content/wiki/4d3bdaff67b98111.md",
+    "startDate": "2023-00-00",
+    "start_year": 2023,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Colorado Springs, CO (2925 Geyser Dr)",
     "page_path": "content/wiki/colorado-springs-co-2925-geyser-dr.md",
     "startDate": "2007-05-21",
@@ -21057,6 +21387,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Stage Variations",
     "contributors_count": 23,
+    "rating": 0
+  },
+  {
+    "title": "2007 Chuck E. Cheese S Crown Me!",
+    "page_path": "content/wiki/db8189791fe07180.md",
+    "startDate": "2007-00-00",
+    "start_year": 2007,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -22310,7 +22650,7 @@
     "rating": 0
   },
   {
-    "title": "Kowloon, Hong Kong, China",
+    "title": "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)",
     "page_path": "content/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd.md",
     "startDate": "1982-12-00",
     "start_year": 1982,
@@ -22768,6 +23108,16 @@
     "tag": "Menu Items",
     "contributors_count": 1,
     "rating": 1
+  },
+  {
+    "title": "2009 Chuck E. Cheese S Greatest Hits",
+    "page_path": "content/wiki/b6b0fc6cf9f69eea.md",
+    "startDate": "2009-00-00",
+    "start_year": 2009,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
   },
   {
     "title": "Dallas, TX (11411 Northwest Hwy)",
@@ -23517,6 +23867,16 @@
     "category": "Sally Corporation",
     "tag": "Showtapes",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2018 CEC Purple And Green Hat",
+    "page_path": "content/wiki/e5ad601b4d027872.md",
+    "startDate": "2018-00-00",
+    "start_year": 2018,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -27030,6 +27390,16 @@
     "rating": 0
   },
   {
+    "title": "1980 PTT Munch Pin",
+    "page_path": "content/wiki/04d9c3cdc5c1e1e0.md",
+    "startDate": "1980-00-00",
+    "start_year": 1980,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "2014 Chuck E. Cheese Puppet 1",
     "page_path": "content/wiki/2014-chuck-e-cheese-puppet-1.md",
     "startDate": "",
@@ -27090,14 +27460,14 @@
     "rating": 0
   },
   {
-    "title": "the-chuck-e-cheese-christmas-special",
+    "title": "The Chuck E. Cheese Christmas Special",
     "page_path": "content/wiki/the-chuck-e-cheese-christmas-special.md",
-    "startDate": "",
-    "start_year": null,
-    "category": null,
-    "tag": null,
-    "contributors_count": 0,
-    "rating": 0
+    "startDate": "1995-11-24",
+    "start_year": 1995,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 2,
+    "rating": 1
   },
   {
     "title": "BINGO",
@@ -28760,6 +29130,16 @@
     "rating": 0
   },
   {
+    "title": "2004 CEC Kids Bib",
+    "page_path": "content/wiki/8411aaeedf8eeb46.md",
+    "startDate": "2004-00-00",
+    "start_year": 2004,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Elvis Presley Directional Sign (Shelf Item)",
     "page_path": "content/wiki/elvis-presley-directional-sign-shelf-item.md",
     "startDate": "",
@@ -28970,6 +29350,16 @@
     "rating": 1
   },
   {
+    "title": "1999 CEC Hot Wheels Probe Funny Car",
+    "page_path": "content/wiki/c84c199c9f16ced7.md",
+    "startDate": "1999-00-00",
+    "start_year": 1999,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Budsie Rolfe & Earl 16' Plush",
     "page_path": "content/wiki/budsie-rolfe-earl-16-plush.md",
     "startDate": "2018-00-00",
@@ -28997,6 +29387,16 @@
     "category": "Unknown Manufacturers",
     "tag": "Animatronics",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2023 CEC Ornament",
+    "page_path": "content/wiki/dba3b7ac690be9aa.md",
+    "startDate": "2023-00-00",
+    "start_year": 2023,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -30620,6 +31020,16 @@
     "rating": 0
   },
   {
+    "title": "1983 PTT Mr. Munch Notepad",
+    "page_path": "content/wiki/ddc8b09837315e53.md",
+    "startDate": "1983-00-00",
+    "start_year": 1983,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "New Now Wow (Commercial)",
     "page_path": "content/wiki/new-now-wow-commercial.md",
     "startDate": "1997-00-00",
@@ -31218,6 +31628,16 @@
     "tag": "Animatronics",
     "contributors_count": 8,
     "rating": 1
+  },
+  {
+    "title": "1983 PTT Pasqually Coin Purse",
+    "page_path": "content/wiki/2528d2e51bf5cb0c.md",
+    "startDate": "1983-00-00",
+    "start_year": 1983,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
   },
   {
     "title": "Navori System",
@@ -31910,13 +32330,13 @@
     "rating": 4
   },
   {
-    "title": "studio-c-emergency-show",
+    "title": "Studio C Emergency Show",
     "page_path": "content/wiki/studio-c-emergency-show.md",
-    "startDate": "",
-    "start_year": null,
-    "category": null,
-    "tag": null,
-    "contributors_count": 0,
+    "startDate": "2000-00-00",
+    "start_year": 2000,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -32107,16 +32527,6 @@
     "category": "",
     "tag": "Puppets",
     "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Chuck E. Cheese's 20th Anniversary Hot Wheels 1997 Pontiac Stocker (1998)",
-    "page_path": "content/wiki/chuck-e-cheese-s-20th-anniversary-hot-wheels-1997-pontiac-stocker-1998.md",
-    "startDate": "1998-00-00",
-    "start_year": 1998,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -34090,6 +34500,16 @@
     "rating": 0
   },
   {
+    "title": "1997 Goody Bag",
+    "page_path": "content/wiki/1ee47efb32ff9477.md",
+    "startDate": "1997-00-00",
+    "start_year": 1997,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "SPP Token S11 (B, C, N)",
     "page_path": "content/wiki/spp-token-s11-b-c-n.md",
     "startDate": "",
@@ -35567,6 +35987,16 @@
     "category": "Creative Engineering",
     "tag": "Showtapes",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1998 CEC Hot Wheels '32 Ford Coupe",
+    "page_path": "content/wiki/a705fe5e293aea0e.md",
+    "startDate": "1998-00-00",
+    "start_year": 1998,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -37490,6 +37920,16 @@
     "rating": 0
   },
   {
+    "title": "2025 Volo Rae Lunch Box",
+    "page_path": "content/wiki/e548d04ca997f590.md",
+    "startDate": "2025-00-00",
+    "start_year": 2025,
+    "category": "Creative Engineering",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Opening Team Pin (90's)",
     "page_path": "content/wiki/opening-team-pin-90-s.md",
     "startDate": "",
@@ -38380,6 +38820,16 @@
     "rating": 0
   },
   {
+    "title": "2002 CEC Coin Tin",
+    "page_path": "content/wiki/b47955707688fbe7.md",
+    "startDate": "2002-00-00",
+    "start_year": 2002,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Birthday Certified Pin (Rockstar)",
     "page_path": "content/wiki/birthday-certified-pin-rockstar.md",
     "startDate": "",
@@ -38508,6 +38958,16 @@
     "tag": "Animatronic Preservation",
     "contributors_count": 3,
     "rating": 1
+  },
+  {
+    "title": "2014 CEC Glasses",
+    "page_path": "content/wiki/e4f3af451c867d3d.md",
+    "startDate": "2014-00-00",
+    "start_year": 2014,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
   },
   {
     "title": "CEC Token 507 (B)",
@@ -38987,6 +39447,16 @@
     "category": "Creative Presentations",
     "tag": "Animatronic Shows",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2012 CEC Hot Wheels Rocketfire",
+    "page_path": "content/wiki/96586827d2485a85.md",
+    "startDate": "2012-00-00",
+    "start_year": 2012,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -41990,6 +42460,16 @@
     "rating": 0
   },
   {
+    "title": "1982 PTT Rubix Cube",
+    "page_path": "content/wiki/ba21e2dde3069018.md",
+    "startDate": "1982-00-00",
+    "start_year": 1982,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Costa Mesa, CA (2300 Harbor Blvd)",
     "page_path": "content/wiki/costa-mesa-ca-2300-harbor-blvd.md",
     "startDate": "1981-00-00",
@@ -42800,6 +43280,16 @@
     "rating": 0
   },
   {
+    "title": "2000 Chuck E. Cheese's Orlando Convention Mug",
+    "page_path": "content/wiki/61b3b9658d3ce013.md",
+    "startDate": "2000-00-00",
+    "start_year": 2000,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Sport Trading Cards (SPT Prototype Art)",
     "page_path": "content/wiki/sport-trading-cards-spt-prototype-art.md",
     "startDate": "1992-00-00",
@@ -43160,6 +43650,16 @@
     "rating": 0
   },
   {
+    "title": "2017 Sunglasses Chuck Figure",
+    "page_path": "content/wiki/8fe8e4065f9abe86.md",
+    "startDate": "2017-00-00",
+    "start_year": 2017,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Wilmington, DE (3601 Silverside Rd)",
     "page_path": "content/wiki/wilmington-de-3601-silverside-rd.md",
     "startDate": "1983-03-08",
@@ -43187,6 +43687,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2003 CEC Plush Hammer",
+    "page_path": "content/wiki/cbee82f453b47ec0.md",
+    "startDate": "2003-00-00",
+    "start_year": 2003,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -44070,6 +44580,16 @@
     "rating": 0
   },
   {
+    "title": "2012 CEC Hot Wheels Scoopa Di Fuego",
+    "page_path": "content/wiki/b2f01f80823e28f9.md",
+    "startDate": "2012-00-00",
+    "start_year": 2012,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "CEC Ethics & Compliance Reporting Website",
     "page_path": "content/wiki/cec-ethics-compliance-reporting-website.md",
     "startDate": "",
@@ -44260,6 +44780,16 @@
     "rating": 0
   },
   {
+    "title": "2017 CEC Glow Mask",
+    "page_path": "content/wiki/251fd64464e82fb1.md",
+    "startDate": "2017-00-00",
+    "start_year": 2017,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "CEC 2013 Update Program",
     "page_path": "content/wiki/cec-2013-update-program.md",
     "startDate": "2013-00-00",
@@ -44440,6 +44970,16 @@
     "rating": 0
   },
   {
+    "title": "2001 CEC Hot Wheels Seared Tuner",
+    "page_path": "content/wiki/72ff6094ab6055b3.md",
+    "startDate": "2001-00-00",
+    "start_year": 2001,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "CEC Fruit Flavored Gummy Candy",
     "page_path": "content/wiki/cec-fruit-flavored-gummy-candy.md",
     "startDate": "0000-00-00",
@@ -44567,6 +45107,16 @@
     "category": "ShowBiz Pizza Place",
     "tag": "Showtapes",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1991 CEC Hot Wheels Jeep Trail Buster",
+    "page_path": "content/wiki/2ac038bc45252e40.md",
+    "startDate": "1991-00-00",
+    "start_year": 1991,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -45295,7 +45845,7 @@
     "startDate": "0000-00-00",
     "start_year": null,
     "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
+    "tag": "Products",
     "contributors_count": 2,
     "rating": 0
   },
@@ -46567,7 +47117,7 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 3,
-    "rating": 1
+    "rating": 2
   },
   {
     "title": "3 Birthday Shows - Colander History - Indoctrination Skit",
@@ -48980,6 +49530,16 @@
     "rating": 1
   },
   {
+    "title": "2017 CEC Floppy Ears Headband",
+    "page_path": "content/wiki/555d23455abd11f2.md",
+    "startDate": "2017-00-00",
+    "start_year": 2017,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "The Beagles Ballroom (PTT Signage)",
     "page_path": "content/wiki/the-beagles-ballroom-ptt-signage.md",
     "startDate": "1982-00-00",
@@ -49277,6 +49837,16 @@
     "category": "Pasqually's Pizza & Wings",
     "tag": "Menu Items",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2012 CEC Ticket Blaster Cup",
+    "page_path": "content/wiki/e54ec1dae0a5dbb3.md",
+    "startDate": "2012-00-00",
+    "start_year": 2012,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -49816,8 +50386,8 @@
     "start_year": 1999,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 4
   },
   {
     "title": "PTT Token 123 (B, N)",
@@ -49987,6 +50557,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "1995 CEC Cheese Bag",
+    "page_path": "content/wiki/b4ff9a9f38221c5a.md",
+    "startDate": "1995-00-00",
+    "start_year": 1995,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -51527,6 +52107,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2008 CEC Miniature Lunchbox",
+    "page_path": "content/wiki/bb973276b8350534.md",
+    "startDate": "2008-00-00",
+    "start_year": 2008,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -53850,6 +54440,16 @@
     "rating": 0
   },
   {
+    "title": "1983 PTT Circus Themed Candle",
+    "page_path": "content/wiki/3f2346670909e668.md",
+    "startDate": "1983-00-00",
+    "start_year": 1983,
+    "category": "Pizza Time Theatre",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "SPP September 1988 Show",
     "page_path": "content/wiki/spp-september-1988-show.md",
     "startDate": "1988-09-00",
@@ -53877,6 +54477,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2012 CEC Promo Cup",
+    "page_path": "content/wiki/c9ea66d927c04692.md",
+    "startDate": "2012-00-00",
+    "start_year": 2012,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -56310,6 +56920,16 @@
     "rating": 0
   },
   {
+    "title": "1993 Chuck E. Cheese S Delivery Truck",
+    "page_path": "content/wiki/e59fcd300a0a6598.md",
+    "startDate": "1993-00-00",
+    "start_year": 1993,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Happy and You Know It 2012",
     "page_path": "content/wiki/Happy-and-you-know-it-2012.md",
     "startDate": "2012-09-01",
@@ -57820,16 +58440,6 @@
     "rating": 0
   },
   {
-    "title": "Chuck E. Cheese's Hot Wheels Seared Tuner Sho-Stopper (2001)",
-    "page_path": "content/wiki/chuck-e-cheese-s-hot-wheels-seared-tuner-sho-stopper-2001.md",
-    "startDate": "2001-00-00",
-    "start_year": 2001,
-    "category": "Chuck E. Cheese's",
-    "tag": "In-Store Merchandise",
-    "contributors_count": 2,
-    "rating": 0
-  },
-  {
     "title": "'When You're Hungry For Fun It's Chuck E. Cheese' 2 (Commercial)",
     "page_path": "content/wiki/when-you-re-hungry-for-fun-it-s-chuck-e-cheese-2-commercial.md",
     "startDate": "1986-00-00",
@@ -57887,6 +58497,16 @@
     "category": "Creative Engineering",
     "tag": "Showtapes",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "2000 CEC Hot Wheels Sweet 16 II",
+    "page_path": "content/wiki/7c7ffa67952c582b.md",
+    "startDate": "2000-00-00",
+    "start_year": 2000,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
     "rating": 0
   },
   {

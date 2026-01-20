@@ -3,7 +3,7 @@
 scripts/build_locations_data.py
 
 Scan content/ for pages tagged "Locations", normalize frontmatter fields,
-filter out pages without lat/lon (or with ["0","0"]) and write data/locations.json
+filter out pages without lat/lon (or with ["0","0"]) and write data/map_pins.json
 for Hugo site.Data consumption.
 
 Usage:
@@ -285,9 +285,9 @@ def build_locations(base_dir: str = BASE_CONTENT_DIR) -> List[Dict[str, Any]]:
         cu_raw = fm.get("cuDate") or fm.get("cudate") or ""
 
         start_norm = normalize_date(start_raw, kind="start") or "1970-01-01"
-        # default end date is today (iso)
-        today_iso = datetime.date.today().isoformat()
-        end_norm = normalize_date(end_raw, kind="end") or today_iso
+        # IMPORTANT CHANGE: Do NOT default missing end date to the build/compile date.
+        # Default to a far-future date so "present" pins (no end) remain visible for client-side future dates.
+        end_norm = normalize_date(end_raw, kind="end") or "9999-12-31"
         cu_norm = normalize_date(cu_raw, kind="cu") or "1992-01-01"
 
         url = guess_url_from_path(path, fm)

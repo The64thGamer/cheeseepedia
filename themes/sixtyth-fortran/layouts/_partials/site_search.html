@@ -118,6 +118,29 @@ Notes:
         </aside>
 
         <div class="tabs" id="results-tabs" hidden>
+
+          <!-- Controls inserted above the tabs -->
+          <div class="result-controls" style="margin-bottom:8px;">
+            <label>
+              Show:
+              <select id="results-per-section" title="Results per section">
+                <option value="10" selected>10</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+                <option value="all">All</option>
+              </select>
+            </label>
+
+            <label style="margin-left:10px;">
+              Sort Articles:
+              <select id="articles-sort" title="Sort articles">
+                <option value="relevancy" selected>Relevancy</option>
+                <option value="oldest">Oldest → Newest</option>
+                <option value="newest">Newest → Oldest</option>
+              </select>
+            </label>
+          </div>
+
           <div class="tab-buttons">
             <button class="tab-button active" data-tab="tab-articles">Articles</button>
             <button class="tab-button" data-tab="tab-photos">Photos</button>
@@ -169,6 +192,8 @@ document.addEventListener("DOMContentLoaded", () => {
   const listVideos = document.getElementById("list-videos");
   const listReviews = document.getElementById("list-reviews");
   const predefButtons = document.querySelectorAll(".predef-tag-btn");
+  const resultsPerSelect = document.getElementById("results-per-section");
+  const articlesSortSelect = document.getElementById("articles-sort");
 
   // collapsible support
   const trigger = document.getElementById("tag-input");
@@ -210,6 +235,17 @@ document.addEventListener("DOMContentLoaded", () => {
   if (trigger) {
     trigger.addEventListener("click", openOnce);
     trigger.addEventListener("focus", openOnce);
+  }
+  // Allow clicking the entire tag chip container to focus the input and open the collapsible.
+  if (tagChipContainer) {
+    tagChipContainer.addEventListener("click", (e) => {
+      // If the user clicked a chip close button, let that event proceed (don't steal focus).
+      if (e.target.closest(".tag-chip-close")) return;
+      if (tagInput) {
+        tagInput.focus();
+        openOnce();
+      }
+    });
   }
 
   // --- Basic text utilities ---
@@ -333,6 +369,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!list || !list.length) {
       tagSuggestions.style.display = "none";
       tagSuggestions.setAttribute("aria-hidden","true");
+      suggestionIndex = -1;
       return;
     }
     tagSuggestions.style.display = "block";
@@ -342,14 +379,46 @@ document.addEventListener("DOMContentLoaded", () => {
       el.className = "tag-suggestion";
       el.dataset.i = i;
       el.innerHTML = `<span class="suggest-tag">${s.negative?'-':''}${escapeHtml(s.tag)}</span> <span class="suggest-count">(${s.count||0})</span>`;
+
+      // click: mousedown to avoid losing focus
       el.addEventListener("mousedown", ev => { ev.preventDefault(); addTag(s.tag, s.negative); hideSuggestions(); });
+
+      // mouseover: set active suggestion for Tab behavior & arrow navigation
+      el.addEventListener("mouseover", () => {
+        const items = Array.from(tagSuggestions.querySelectorAll(".tag-suggestion"));
+        items.forEach((it,i2) => it.classList.toggle("active", i2 === i));
+        suggestionIndex = i;
+      });
+
       tagSuggestions.appendChild(el);
     });
     suggestionIndex = -1;
     tagSuggestions.scrollTop = 0;
   }
 
-  function hideSuggestions() { if (!tagSuggestions) return; tagSuggestions.innerHTML=""; tagSuggestions.style.display="none"; tagSuggestions.setAttribute("aria-hidden","true"); }
+  function hideSuggestions() { if (!tagSuggestions) return; tagSuggestions.innerHTML=""; tagSuggestions.style.display="none"; tagSuggestions.setAttribute("aria-hidden","true"); suggestionIndex = -1; }
+
+  // helper to commit either highlighted suggestion or typed input
+  function commitSelectedSuggestionOrInput() {
+    if (!tagInput) return;
+    const v = tagInput.value || "";
+    const items = tagSuggestions ? Array.from(tagSuggestions.querySelectorAll(".tag-suggestion")) : [];
+    const activeItem = items.find(it => it.classList.contains("active"));
+    if (activeItem) {
+      const txt = (activeItem.querySelector(".suggest-tag").textContent || "").trim();
+      const negative = txt.startsWith("-");
+      const tagText = negative ? txt.slice(1) : txt;
+      if (tagText) addTag(tagText, negative);
+    } else {
+      const val = v.trim();
+      if (val) {
+        const negative = val.startsWith("-");
+        const tagText = negative ? val.slice(1) : val;
+        addTag(tagText, negative);
+      }
+    }
+    hideSuggestions();
+  }
 
   if (tagInput) {
     tagInput.addEventListener("input", () => {
@@ -361,17 +430,13 @@ document.addEventListener("DOMContentLoaded", () => {
     tagInput.addEventListener("keydown", (e) => {
       const v = tagInput.value || "";
       const items = tagSuggestions ? Array.from(tagSuggestions.querySelectorAll(".tag-suggestion")) : [];
-      if (e.key === "Enter") {
+
+      if (e.key === "Enter" || e.key === "Tab") {
+        // Unified behavior: Enter and Tab both commit.
+        // If a suggestion is highlighted (via arrow keys or mouseover), pick that.
+        // Otherwise create a tag from the typed input.
         e.preventDefault();
-        addTag(v.trim().startsWith("-") ? v.trim().slice(1) : v.trim(), v.trim().startsWith("-"));
-        hideSuggestions();
-      } else if (e.key === "Tab") {
-        if (items.length) {
-          e.preventDefault();
-          const txt = items[0].querySelector(".suggest-tag").textContent;
-          addTag(txt.startsWith("-") ? txt.slice(1) : txt, txt.startsWith("-"));
-          hideSuggestions();
-        }
+        commitSelectedSuggestionOrInput();
       } else if (e.key === "ArrowDown") {
         if (items.length) {
           e.preventDefault();
@@ -393,7 +458,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     document.addEventListener("click", (e) => {
       if (!tagSuggestions || !tagInput) return;
-      if (!tagSuggestions.contains(e.target) && e.target !== tagInput) hideSuggestions();
+      if (!tagSuggestions.contains(e.target) && e.target !== tagInput && !tagChipContainer.contains(e.target)) hideSuggestions();
     });
   }
 
@@ -404,6 +469,7 @@ document.addEventListener("DOMContentLoaded", () => {
     fuzzyInput.addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); executeSearch(); } });
   }
 
+  // --- Init load ---
   (async function init() {
     await loadSearchData();
     executeSearch();
@@ -444,6 +510,15 @@ document.addEventListener("DOMContentLoaded", () => {
     return 0.72 * tJ + 0.26 * tokOverlap + titleBoost;
   }
 
+  // compute trigram similarity between a title string and a query string
+  function titleSimilarityToQuery(doc, queryStr) {
+    const titleStr = (doc.title || doc.path || "");
+    if (!titleStr || !queryStr) return 0;
+    const tTris = charTrigrams(titleStr);
+    const qTris = charTrigrams(queryStr);
+    return jaccard(tTris, qTris);
+  }
+
   // --- SEARCH (handles tag-only and fuzzy+tags) ---
   function search(fuzzyQuery, tagFilters, maxResults=500) {
     let results = [];
@@ -451,7 +526,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const isTagOnly = isFuzzyEmpty && tagFilters.length > 0;
 
     if (isTagOnly) {
-      // TAG-ONLY: use PAGES_BY_TAG but normalize page keys
+      // TAG-ONLY: produce candidatePaths then score by title similarity to tag(s)
       let candidatePaths = null;
       tagFilters.forEach(tf => {
         const tagKey = tf.tag;
@@ -469,28 +544,43 @@ document.addEventListener("DOMContentLoaded", () => {
 
       if (!candidatePaths) candidatePaths = [];
 
+      // Determine positive tags to compute similarity against
+      const positiveTags = tagFilters.filter(t => !t.negative).map(t => t.tag);
+
       results = candidatePaths.map(p => {
         const doc = DOCS.find(d => d.path === p) || { path: p, title: p, frontmatter: {} };
-        return { score: 1, doc };
-      });
-
-      // sort tag-only by startDate ascending; push 0000 to bottom
-      results.sort((a,b) => {
-        const aStart = a.doc.frontmatter?.startDate || "0000-00-00";
-        const bStart = b.doc.frontmatter?.startDate || "0000-00-00";
-        if (aStart.startsWith("0000") && !bStart.startsWith("0000")) return 1;
-        if (bStart.startsWith("0000") && !aStart.startsWith("0000")) return -1;
-        return aStart.localeCompare(bStart);
-      });
-
-      // exception: if a doc title exactly matches a searched tag, move to top
-      tagFilters.forEach(tf => {
-        if (tf.negative) return;
-        const idx = results.findIndex(r => r.doc.title === tf.tag);
-        if (idx > 0) {
-          const [exactMatch] = results.splice(idx,1);
-          results.unshift(exactMatch);
+        let score = 0;
+        if (positiveTags.length > 0) {
+          // average similarity across positive tags, computed against the title
+          let acc = 0;
+          positiveTags.forEach(pt => {
+            acc += titleSimilarityToQuery(doc, pt);
+          });
+          score = acc / positiveTags.length;
+          // give a noticeable boost to exact title matches (force them to top)
+          for (const pt of positiveTags) {
+            if ((doc.title || "").toLowerCase() === pt.toLowerCase()) {
+              score += 1.0; // big boost ensures exact title match ranks highest
+              break;
+            }
+          }
+        } else {
+          // no positive tags (e.g., only negatives) -> leave score as 0
+          score = 0;
         }
+        return { score, doc };
+      });
+
+      // Sort by score descending; exact title matches have higher score due to boost above.
+      results.sort((a,b) => {
+        const diff = (b.score || 0) - (a.score || 0);
+        if (Math.abs(diff) > 1e-9) return diff;
+        // tie-breaker: keep date ordering similar to previous behavior (oldest first)
+        const aStart = (a.doc.frontmatter?.startDate || "0000-00-00").split(" ")[0];
+        const bStart = (b.doc.frontmatter?.startDate || "0000-00-00").split(" ")[0];
+        if ((aStart && aStart.startsWith("0000")) && !(bStart && bStart.startsWith("0000"))) return 1;
+        if ((bStart && bStart.startsWith("0000")) && !(aStart && aStart.startsWith("0000"))) return -1;
+        return aStart.localeCompare(bStart);
       });
 
     } else {
@@ -515,12 +605,6 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     return results.slice(0, maxResults);
-  }
-
-  function scheduleSearch() { if (searchTimer) clearTimeout(searchTimer); searchTimer = setTimeout(executeSearch, 150); }
-  if (fuzzyInput) {
-    fuzzyInput.addEventListener("input", () => { scheduleSearch(); updateSearchLayout(); });
-    fuzzyInput.addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); executeSearch(); } });
   }
 
   // --- Renderers (use makePermalink for internal links) ---
@@ -586,9 +670,18 @@ document.addEventListener("DOMContentLoaded", () => {
   function renderPhoto(doc) {
     const wrapper = document.createElement("div");
     wrapper.className = "gallery-image-box";
-    let fileName = doc.title || "";
-    let imgURL = fileName ? `/photos/${fileName}` : "/UI/File Not Found.jpg";
-    if (!fileName) imgURL = "/UI/File Not Found.jpg";
+    let fileName = (doc.title || "").trim(); // expects the filename/title to be the photo filename
+    let imgURL = "/UI/File Not Found.jpg";
+    let lowResURL = "/UI/File Not Found.jpg";
+
+    if (fileName) {
+      // If the doc.title contains directories or leading slash, strip leading slash
+      if (fileName.startsWith("/")) fileName = fileName.slice(1);
+      // Build low-res and high-res urls
+      lowResURL = `/lowphotos/${fileName}`;
+      imgURL = `/photos/${fileName}`;
+    }
+
     const formattedStart = formatDate(doc.frontmatter?.startDate || "");
     const formattedEnd = formatDate(doc.frontmatter?.endDate || "");
     const dateStr = formattedStart || formattedEnd ? `${formattedStart}${formattedEnd ? ` - ${formattedEnd}` : ""}` : "";
@@ -596,10 +689,11 @@ document.addEventListener("DOMContentLoaded", () => {
     const displayText = photoDesc || doc.title + (dateStr ? ` (${dateStr})` : "");
     const href = makePermalink(doc.path);
 
+    // low res in src, HD in data-src, class lazy-photo - your CSS/JS can swap data-src into src
     wrapper.innerHTML = `
       <div class="article-photo-image">
         <a href="${href}">
-          <img src="${imgURL}" alt="${escapeHtml(doc.title || "File Not Found")}" loading="lazy" />
+          <img src="${lowResURL}" data-src="${imgURL}" alt="${escapeHtml(doc.title || "File Not Found")}" class="lazy-photo" loading="lazy" />
         </a>
       </div>
       <div class="article-photo-description">${escapeHtml(displayText)}</div>
@@ -686,6 +780,84 @@ document.addEventListener("DOMContentLoaded", () => {
     return wrapper;
   }
 
+  // --- Utility to parse and compare dates for sorting, push 0000/blank to bottom ---
+  function dateSortableRaw(raw) {
+    if (!raw) return null;
+    const s = String(raw).split(" ")[0];
+    if (!s) return null;
+    if (s.startsWith("0000")) return null;
+    return s; // YYYY-MM-DD expected
+  }
+  function compareDatesForSort(aRaw, bRaw, order='oldest') {
+    const a = dateSortableRaw(aRaw), b = dateSortableRaw(bRaw);
+    if (!a && !b) return 0;
+    if (!a) return 1; // push a to bottom
+    if (!b) return -1; // push b to bottom
+    if (order === 'oldest') return a.localeCompare(b);
+    return b.localeCompare(a);
+  }
+
+  // --- "Show more" helper: IntersectionObserver on a sentinel at bottom of each results list ---
+  const showMoreObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      const sentinel = entry.target;
+      const container = sentinel.closest(".results-list");
+      if (!container) return;
+      const showMoreEl = container.querySelector(".show-more-wrapper");
+      if (!showMoreEl) return;
+      const total = parseInt(sentinel.dataset.total || "0", 10) || 0;
+      const shown = parseInt(sentinel.dataset.shown || "0", 10) || 0;
+      const perVal = resultsPerSelect && resultsPerSelect.value ? resultsPerSelect.value : "10";
+      const isAll = perVal === "all";
+      if (entry.isIntersecting && !isAll && total > shown) {
+        showMoreEl.style.display = "block";
+      } else {
+        showMoreEl.style.display = "none";
+      }
+    });
+  }, { root: null, rootMargin: "0px", threshold: 0.1 });
+
+  function attachSentinel(container, totalCount, shownCount) {
+    // remove previous sentinel & show-more wrapper in this container
+    const existingSent = container.querySelector(".results-bottom-sentinel");
+    if (existingSent) {
+      showMoreObserver.unobserve(existingSent);
+      existingSent.remove();
+    }
+    let showMoreWrap = container.querySelector(".show-more-wrapper");
+    if (showMoreWrap) showMoreWrap.remove();
+
+    // create wrapper for "show more"
+    showMoreWrap = document.createElement("div");
+    showMoreWrap.className = "show-more-wrapper";
+    showMoreWrap.style.display = "none";
+    showMoreWrap.innerHTML = `<a href="#" class="show-more-link">Show more</a>`;
+    container.appendChild(showMoreWrap);
+
+    // click handler: advance the results-per-section select to next tier
+    const link = showMoreWrap.querySelector(".show-more-link");
+    link.addEventListener("click", (ev) => {
+      ev.preventDefault();
+      const tiers = ["10","50","100","all"];
+      const current = resultsPerSelect && resultsPerSelect.value ? resultsPerSelect.value : "10";
+      const idx = tiers.indexOf(current);
+      const next = tiers[Math.min(idx + 1, tiers.length - 1)];
+      if (resultsPerSelect) resultsPerSelect.value = next;
+      executeSearch();
+      // removed scrollIntoView to keep user's scroll position intact
+    });
+
+    // create sentinel
+    const sentinel = document.createElement("div");
+    sentinel.className = "results-bottom-sentinel";
+    sentinel.dataset.total = String(totalCount || 0);
+    sentinel.dataset.shown = String(shownCount || 0);
+    sentinel.style.width = "100%";
+    sentinel.style.height = "1px";
+    container.appendChild(sentinel);
+    showMoreObserver.observe(sentinel);
+  }
+
   // --- executeSearch & rendering control ---
   function executeSearch() {
     if (!DOCS || !DOCS.length) {
@@ -716,17 +888,57 @@ document.addEventListener("DOMContentLoaded", () => {
       else articles.push({score:r.score, doc});
     }
 
+    // Apply articles sorting (per dropdown)
+    const artSort = (articlesSortSelect && articlesSortSelect.value) ? articlesSortSelect.value : 'relevancy';
+
+    if (artSort === 'relevancy') {
+      // sort by score descending; tie-breaker: newest first
+      articles.sort((A,B) => {
+        const diff = (B.score || 0) - (A.score || 0);
+        if (Math.abs(diff) > 1e-9) return diff;
+        const aDate = A.doc.frontmatter?.startDate || A.doc.frontmatter?.date || "";
+        const bDate = B.doc.frontmatter?.startDate || B.doc.frontmatter?.date || "";
+        return compareDatesForSort(aDate, bDate, 'newest');
+      });
+    } else {
+      // date-based sorts; always keep 0000/blank at bottom
+      articles.sort((A,B) => {
+        const aDate = A.doc.frontmatter?.startDate || A.doc.frontmatter?.date || "";
+        const bDate = B.doc.frontmatter?.startDate || B.doc.frontmatter?.date || "";
+        return compareDatesForSort(aDate, bDate, artSort);
+      });
+    }
+
+    // Apply the "results per section" limit
+    const perVal = resultsPerSelect && resultsPerSelect.value ? resultsPerSelect.value : "10";
+    const perLimit = perVal === "all" ? Infinity : parseInt(perVal, 10) || 10;
+
     function clearAndRender(container, arr, renderer) {
       if (!container) return;
+      // remove existing sentinel observer items if any
+      const existingSent = container.querySelectorAll(".results-bottom-sentinel");
+      existingSent.forEach(s => {
+        try { showMoreObserver.unobserve(s); } catch(e){}
+        s.remove();
+      });
+      const existingShow = container.querySelectorAll(".show-more-wrapper");
+      existingShow.forEach(s => s.remove());
+
       container.innerHTML = "";
       if (!arr.length) { container.innerHTML = `<div class="no-results">No results</div>`; return; }
+      const limited = (perLimit === Infinity) ? arr : arr.slice(0, perLimit);
       if (renderer === renderPhoto) {
         const gallery = document.createElement("div"); gallery.className = "gallery";
-        arr.slice(0,2000).forEach(item => gallery.appendChild(renderer(item.doc)));
+        limited.forEach(item => gallery.appendChild(renderer(item.doc)));
         container.appendChild(gallery);
       } else {
-        arr.slice(0,2000).forEach(item => container.appendChild(renderer(item.doc)));
+        limited.forEach(item => container.appendChild(renderer(item.doc)));
       }
+
+      // attach sentinel + show-more control if there are more items than shown and perLimit !== Infinity
+      const totalCount = arr.length;
+      const shownCount = limited.length;
+      attachSentinel(container, totalCount, shownCount);
     }
 
     clearAndRender(listArticles, articles, renderArticle);
@@ -749,12 +961,15 @@ document.addEventListener("DOMContentLoaded", () => {
   // --- wire fuzzy input scheduling (tag changes call schedule via renderTagChips) ---
   function scheduleSearchAndLayout() { scheduleSearch(); updateSearchLayout(); }
 
-  // --- INIT ---
-  (async function init() {
-    await loadSearchData();
-    executeSearch();
-    updateSearchLayout();
-  })();
+  // wire result-controls to re-run search when changed
+  if (resultsPerSelect) {
+    resultsPerSelect.addEventListener("change", () => { executeSearch(); updateSearchLayout(); });
+  }
+  if (articlesSortSelect) {
+    articlesSortSelect.addEventListener("change", () => { executeSearch(); updateSearchLayout(); });
+  }
+
+  // --- INIT already called above in IIFE ---
 
 });
 </script>

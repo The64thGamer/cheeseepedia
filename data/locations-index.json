@@ -2061,7 +2061,7 @@
     {
       "page_get": "wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd",
       "page_path": "content/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd",
-      "page_title": "Kowloon, Hong Kong, China",
+      "page_title": "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)",
       "parts": [
         "Balcony Stage",
         "1982-12-00",
@@ -19271,6 +19271,80 @@
       "sort": "20020000"
     }
   ],
+  "attractions|Mega Superhero Playground": [
+    {
+      "page_get": "wiki/st-charles-mo-2669-veterans-memorial-pkwy",
+      "page_path": "content/wiki/st-charles-mo-2669-veterans-memorial-pkwy",
+      "page_title": "St. Charles, MO (2669 Veterans Memorial Pkwy)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-00-00",
+        "",
+        ""
+      ],
+      "sort": "20250000"
+    },
+    {
+      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
+      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
+      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-00-00",
+        "",
+        ""
+      ],
+      "sort": "20250000"
+    },
+    {
+      "page_get": "wiki/brandon-fl-1540-w-brandon-blvd",
+      "page_path": "content/wiki/brandon-fl-1540-w-brandon-blvd",
+      "page_title": "Brandon, FL (1540 W Brandon Blvd)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-07-00",
+        "",
+        "First Ever Installation"
+      ],
+      "sort": "20250700"
+    },
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-11-07",
+        "",
+        "First Adventure World Installation"
+      ],
+      "sort": "20251107"
+    },
+    {
+      "page_get": "wiki/bel-air-md-5-bel-air-south-pkwy",
+      "page_path": "content/wiki/bel-air-md-5-bel-air-south-pkwy",
+      "page_title": "Bel Air, MD (5 Bel Air South Pkwy)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2026-00-00",
+        "",
+        ""
+      ],
+      "sort": "20260000"
+    },
+    {
+      "page_get": "wiki/augusta-ga-3435-wrightsboro-rd",
+      "page_path": "content/wiki/augusta-ga-3435-wrightsboro-rd",
+      "page_title": "Augusta, GA (3435 Wrightsboro Rd)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2026-00-00",
+        "",
+        ""
+      ],
+      "sort": "20260000"
+    }
+  ],
   "stages|Studio C Alpha": [
     {
       "page_get": "wiki/st-charles-mo-2669-veterans-memorial-pkwy",
@@ -30402,6 +30476,19 @@
       "sort": "19990329"
     },
     {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Bird (Animatronic)",
+        "1999-09-00",
+        "2009-00-00",
+        "053",
+        "Unknown."
+      ],
+      "sort": "19990900"
+    },
+    {
       "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
@@ -30752,6 +30839,19 @@
         "unknown"
       ],
       "sort": "19990329"
+    },
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Pizza Phone (Animatronic)",
+        "1999-09-00",
+        "2009-00-00",
+        "053",
+        "Unknown."
+      ],
+      "sort": "19990900"
     },
     {
       "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
@@ -32012,6 +32112,19 @@
       "sort": "19980000"
     },
     {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese 32m (Animatronic)",
+        "1999-09-00",
+        "2009-00-00",
+        "053",
+        "Sent to Goodyear, AZ, now unknown."
+      ],
+      "sort": "19990900"
+    },
+    {
       "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
@@ -32123,6 +32236,223 @@
       "sort": "19930000"
     }
   ],
+  "attractions|Tik Tak Clock": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Tik Tak Clock",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Tik Tak Clock",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Skee Ball (6 units)": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Skee Ball (6 units)",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Penalty Shoot Out": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Penalty Shoot Out",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Super Shot": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese's Super Shot",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Skytubes": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Skytubes",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Frantic Fred": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Frantic Fred",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Photo Ride (1997)": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese's Photo Ride (1997)",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Amutec Turbo Car": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Amutec Turbo Car",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Jungle Joggers": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Jungle Joggers",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Frog Song": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Frog Song",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Buzzy Buzzy Bee": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Buzzy Buzzy Bee",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "Buzzy Buzzy Bee",
+        "0000-00-00",
+        "2006-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Fetch The Vet": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Fetch The Vet",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Toddler Zone": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Toddler Zone",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Pizza Delivery": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese's Pizza Delivery",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Pow-Air Play": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese's Pow-Air Play",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
   "attractions|Aftershock": [
     {
       "page_get": "wiki/houston-tx-6760-antoine-dr",
@@ -32169,19 +32499,6 @@
       "page_title": "Houston, TX (6760 Antoine Dr)",
       "parts": [
         "Total Eclipse",
-        "0000-00-00",
-        "2006-00-00"
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Buzzy Buzzy Bee": [
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "Buzzy Buzzy Bee",
         "0000-00-00",
         "2006-00-00"
       ],
