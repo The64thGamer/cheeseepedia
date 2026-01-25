@@ -8,6 +8,7 @@ citations = ["https://www.instagram.com/justinishmael/p/DFvZ7g8JKbH/", "https://
 manufacturer = "Terror Vision"
 unitsProduced = "1200"
 wholesalePrice = "$46.99"
+dimensions = "12\" x 12\""
 downloadLinks = ["https://archive.org/download/original-dreams-from-showbiz/Side%20A|Side A", "https://archive.org/download/original-dreams-from-showbiz/Side%20B.flac|Side B"]
 tags = ["Products"]
 categories = ["ShowBiz Pizza Place", "Creative Engineering"]
