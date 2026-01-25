@@ -1118,7 +1118,7 @@ sup {
   position: fixed;
   right: 24px;
   bottom: 24px;
-  width: 680px;
+  width: 30rem;
   max-width: calc(100% - 48px);
   background: var(--yellow);
   color: var(--brown);
@@ -1127,7 +1127,6 @@ sup {
   border-radius: 8px;
   z-index: 1200;
   padding: 12px;
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
 }
 
 .pp-header a{
