@@ -10,9 +10,9 @@ citations = ["https://www.newspapers.com/newspage/124485651/", "https://www.news
 storeNumber = ""
 sqft = "12,000"
 attractions = ["Skee Ball|0000-00-00|2009-00-00|6 Units, Sent to Goodyear, AZ.", "Penalty Shoot Out|0000-00-00|0000-00-00", "Chuck E. Cheese's Super Shot|0000-00-00|0000-00-00", "Skytubes|0000-00-00|0000-00-00", "Frantic Fred|0000-00-00|0000-00-00", "Chuck E. Cheese's Photo Ride (1997)|0000-00-00|0000-00-00", "Tik Tak Clock|0000-00-00|0000-00-00", "Amutec Turbo Car|0000-00-00|0000-00-00", "Jungle Joggers|0000-00-00|0000-00-00", "Frog Song|0000-00-00|0000-00-00", "Buzzy Buzzy Bee|0000-00-00|0000-00-00", "Fetch The Vet|0000-00-00|0000-00-00", "Toddler Zone|0000-00-00|2009-00-00", "Chuck E. Cheese's Pizza Delivery|0000-00-00|2009-00-00|Sent to Goodyear, AZ.", "Chuck E. Cheese's Pow-Air Play|0000-00-00|0000-00-00"]
-animatronics = ["Chuck E. Cheese 32m (Animatronic)|1999-09-00|2009-00-00|053|Sent to Goodyear, AZ", "Bird (Animatronic)|1999-09-00|2009-00-00|Unknown|Unknown.", "Pizza Phone (Animatronic)|1999-09-00|2009-00-00|Unknown|Unknown.","Pizza Time Clock (Animatronic)|1999-09-00|2009-00-00|N/A|Sent to Goodyear, AZ"]
+animatronics = ["Chuck E. Cheese 32m (Animatronic)|1999-09-00|2009-00-00|053|Sent to Goodyear, AZ", "Bird (Animatronic)|1999-09-00|2009-00-00|Unknown|Unknown.", "Pizza Phone (Animatronic)|1999-09-00|2009-00-00|Unknown|Unknown.", "Pizza Time Clock (Animatronic)|1999-09-00|2009-00-00|N/A|Sent to Goodyear, AZ"]
 franchisees = ["Melvin Entertainment|1999-09-00|2009-00-00"]
-remodels = ["SPT 1990's Remodel Program|1999-09-00","Phase 3 (2000)|0000-00-00"]
+remodels = ["SPT 1990's Remodel Program|1999-09-00", "Phase 3 (2000)|0000-00-00"]
 stages = ["Studio C Alpha|1999-09-00|2009-00-00|"]
 downloadLinks = []
 latitudeLongitude = ["33.53680687", "-111.8880555"]
@@ -29,11 +29,11 @@ A while later in August 1999, Chuck E. Cheese's advertisements began popping up 
 
 ### 2000's
 
-a few photos from 2000 exist, a year after they opened, showing their Chuck E. walkaround at this time, which used the 90s head piece with the red derby along with what seems to be a tracksuit shirt and a pair of jeans. Besides these images of the walkaround, we also get pictures of their Chuck E. bot with the Late Night attire and two photos of the kitchen.{{< cite 11 >}}
+A few photos from 2000 exist, a year after they opened, showing their Chuck E. walkaround at this time, which used the 90s head piece with the red derby along with what seems to be a tracksuit shirt and a pair of jeans. Besides these images of the walkaround, we also get pictures of their Chuck E. bot with the Late Night attire and two photos of the kitchen.{{< cite 11 >}}
 
 During the mid 2000s, Scottsdale would have their entrance doors replaced with older ones from the {{< wiki-link "Tucson, AZ (6130 E Speedway Blvd)" >}} location, which was owned by the same people as Scottsdale{{< cite 12 >}}. Another change that most likely occurred around this time frame was the repainting of the interior walls by the entrance, menu board and Studio C stage, which were repainted in the same shade of purple that was being used for the then-active {{< wiki-link "CEC 2000's Remodel Program" >}} {{< cite 13 >}}.
 
-Sveral photos from 2008, specifically September 6. These photos show a few of the games that they had, several different angles of the Show Room, and most notably their Studio C stage. With these pictures, we're able to tell that the Chuck E. bot's appearance had declined since the previous photos from 2000, as his cap is shown to not be sitting on his head properly. Surprisingly, he was still wearing his Late Night attire by this point, albeit covered with a layer of dust around his shoulders{{< cite 14 >}}. The walkaround, however, had since been updated to the Cool Chuck variant. The only difference was the pants, which were a pair of jeans instead of the usual khaki shorts{{< cite 15 >}}.
+Several photos from 2008, specifically September 6, show a few of the games that they had, several different angles of the Show Room, and most notably their Studio C stage. Thanks to these pictures, we're able to tell that the Chuck E. bot's appearance had declined since the previous photos from 2000, as his cap is shown to not be sitting on his head properly. Surprisingly, he was still wearing his Late Night attire by this point, albeit covered with a layer of dust around his shoulders{{< cite 14 >}}. The walkaround, however, had since been updated to the Cool Chuck variant. The only difference was the pants, which were a pair of jeans instead of the usual khaki shorts{{< cite 15 >}}.
 
 The last photo we have of the location before it closed is from July 1, 2009, several months before they closed. In said photo, we can see that the walkaround was wearing full Avenger attire, with the exception of his cap, which was still the red Cool Chuck cap{{< cite 16 >}}.
 
