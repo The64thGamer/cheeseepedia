@@ -7,6 +7,7 @@ contributors = ["The 64th Gamer", "Chouts1", "smileshy22"]
 citations = ["https://www.instagram.com/justinishmael/p/DFvZ7g8JKbH/", "https://recordstoreday.com/SpecialRelease/18877"]
 manufacturer = "Terror Vision"
 unitsProduced = "200"
+dimensions = "4.3\" x 2.7\""
 downloadLinks = []
 alsoKnownAs = []
 tags = ["Products"]
