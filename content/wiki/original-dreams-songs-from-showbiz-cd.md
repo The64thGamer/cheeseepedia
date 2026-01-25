@@ -2,8 +2,8 @@
 title = "Original Dreams: Songs from ShowBiz (CD)"
 startDate = "2025-04-13"
 endDate = "2025-00-00"
-pageThumbnailFile = ""
-contributors = ["The 64th Gamer", "Chouts1", "smileshy22"]
+pageThumbnailFile = "98uh9j94tj93ij4g.avif"
+contributors = ["The 64th Gamer", "Chouts1", "smileshy22", "Riohehe"]
 citations = ["https://www.instagram.com/justinishmael/p/DFvZ7g8JKbH/", "https://recordstoreday.com/SpecialRelease/18877"]
 manufacturer = "Terror Vision"
 unitsProduced = "500"
