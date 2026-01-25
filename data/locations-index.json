@@ -19489,7 +19489,7 @@
         "Marvel Adventure Lab",
         "2025-11-07",
         "",
-        "6 Units"
+        ""
       ],
       "sort": "20251107"
     }
@@ -19523,18 +19523,6 @@
     }
   ],
   "stages|Video Wall": [
-    {
-      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
-      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
-      "page_title": "Arlington, TX (1536 W Interstate 20)",
-      "parts": [
-        "Video Wall",
-        "2022-04-00",
-        "",
-        ""
-      ],
-      "sort": "20220400"
-    },
     {
       "page_get": "wiki/florence-ky-7635-mall-rd",
       "page_path": "content/wiki/florence-ky-7635-mall-rd",
@@ -19626,6 +19614,18 @@
         ""
       ],
       "sort": "20250925"
+    },
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Video Wall",
+        "2025-11-07",
+        "",
+        ""
+      ],
+      "sort": "20251107"
     }
   ],
   "remodels|CEC Adventure World Standard Layout": [

@@ -1,7 +1,7 @@
 {
   "series": {
-    "Empty": 5260,
-    "Very Bad": 513,
+    "Empty": 5259,
+    "Very Bad": 516,
     "Bad": 115,
     "Good": 47,
     "Great": 25
@@ -14,8 +14,8 @@
     "Great"
   ],
   "values": [
-    5260,
-    513,
+    5259,
+    516,
     115,
     47,
     25

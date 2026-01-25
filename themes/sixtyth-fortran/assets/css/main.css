@@ -1067,6 +1067,7 @@ sup {
 .segment-title {
   font-weight: 700;
   margin-bottom: 0.25rem;
+  color:var(--yellow);
 }
 
 .segment-items {

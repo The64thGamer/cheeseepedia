@@ -18550,14 +18550,14 @@
     "rating": 0
   },
   {
-    "title": "Vinyl 7' Billy Bob Figure",
+    "title": "Billy Bob Brockali Vinyl Figure",
     "page_path": "content/wiki/vinyl-7-billy-bob-figure.md",
-    "startDate": "2019-00-00",
-    "start_year": 2019,
+    "startDate": "2018-11-13",
+    "start_year": 2018,
     "category": "Creative Engineering",
     "tag": "Products",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "Proud Mary Performed By Helen Henny & Mr. Munch",
@@ -21518,6 +21518,16 @@
     "tag": "Showtapes",
     "contributors_count": 2,
     "rating": 0
+  },
+  {
+    "title": "Chuck E. Cheese Show 1 2026 International Spanish",
+    "page_path": "content/wiki/chuck-e-cheese-show-1-2026-international-spanish.md",
+    "startDate": "2026-01-00",
+    "start_year": 2026,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "Land of 1,000 Dances Live Demo",
@@ -45658,6 +45668,16 @@
     "tag": "Live Shows",
     "contributors_count": 1,
     "rating": 0
+  },
+  {
+    "title": "Chuck E. Cheese Show 1 2026 International English",
+    "page_path": "content/wiki/chuck-e-cheese-show-1-2026-international-english.md",
+    "startDate": "2026-01-00",
+    "start_year": 2026,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "Unstoppable (Commercial)",
