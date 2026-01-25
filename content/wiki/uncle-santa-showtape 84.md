@@ -49,48 +49,90 @@ segment_start = "11:03"
   
 [[segments]]
 title = "Segment 4"
-segment_start = "16:39"
+segment_start = "14:30"
 
   [[segments.items]]
   type = "song"
   title = "Super Santa Scanner Skit 1"
-  start = "16:39"
+  start = "14:30"
   src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
 
 [[segments]]
 title = "Segment 5"
-segment_start = "22:12"
+segment_start = "18:29"
 
   [[segments.items]]
   type = "song"
   title = "Super Santa Scanner Skit 2"
-  start = "22:12"
+  start = "18:29"
   src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
 
   [[segments.items]]
   type = "song"
   title = "Night Before Christmas (Sun & Moon)"
-  start = "23:45"
+  start = "21:02"
   src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
 
 [[segments]]
 title = "Segment 6"
-segment_start = "28:39"
+segment_start = "27:30"
 
   [[segments.items]]
   type = "song"
-  title = "Santa Show Part 1"
-  start = "28:39"
+  title = "Santa Claus Is Coming to Town"
+  start = "27:30"
+  src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
+
+  [[segments.items]]
+  type = "song"
+  title = "Jingle, Jingle, Jingle"
+  start = "28:33"
+  src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
+
+  [[segments.items]]
+  type = "song"
+  title = "Questions Skit"
+  start = "30:07"
+  src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
+
+  [[segments.items]]
+  type = "song"
+  title = "Santa's Story"
+  start = "34:13"
+  src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
+
+  [[segments.items]]
+  type = "song"
+  title = "Silent Night"
+  start = "40:32"
+  src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
+  
+  [[segments.items]]
+  type = "song"
+  title = "Leaving Skit"
+  start = "42:29"
   src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
 
 [[segments]]
 title = "Segment 7"
-segment_start = "36:00"
+segment_start = "44:20"
 
   [[segments.items]]
   type = "song"
-  title = "Santa Show Part 2"
-  start = "36:00"
+  title = "12 Days of Christmas (Sun & Moon)"
+  start = "44:20"
+  src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
+
+  [[segments.items]]
+  type = "song"
+  title = "Call to Norman Skit"
+  start = "51:10"
+  src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
+
+ [[segments.items]]
+  type = "song"
+  title = "Have a Holly Jolly Christmas"
+  start = "56:05"
   src = "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.mp3"
 +++
 

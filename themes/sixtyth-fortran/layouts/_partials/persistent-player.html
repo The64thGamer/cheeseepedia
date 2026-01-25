@@ -28,7 +28,17 @@
   const norm = s => { try { return s ? new URL(s, location.href).toString() : ''; } catch(e){ return s||''; } };
 
   function showPlayer(){ pp.classList.remove('hidden'); pp.setAttribute('aria-hidden','false'); }
-  function hidePlayer(){ pp.classList.add('hidden'); pp.setAttribute('aria-hidden','true'); }
+function hidePlayer(){
+  try {
+    player.pause();
+    player.currentTime = 0;
+  } catch(e){}
+
+  pp.classList.add('hidden');
+  pp.setAttribute('aria-hidden','true');
+
+  saveState(titleEl.textContent);
+}
 
   function setSource(src, cb){
     if(!src) return;
@@ -116,6 +126,44 @@ function parseTimecode(tc){
     return seconds;
     }
 
+function updateActiveTrack(){
+  if (pp.classList.contains('hidden')) return;
+
+  const current = player.currentTime;
+  if (isNaN(current)) return;
+
+  const tracks = document.querySelectorAll('.track[data-start]');
+  let active = null;
+
+  tracks.forEach(track => {
+    const start = parseTimecode(track.dataset.start);
+    if (start <= current) {
+      if (!active || start > parseTimecode(active.dataset.start)) {
+        active = track;
+      }
+    }
+  });
+
+  if (!active) return;
+
+  // Clear previous state
+  document.querySelectorAll('.track.active').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.active-parent').forEach(el => el.classList.remove('active-parent'));
+
+  // Activate track
+  active.classList.add('active');
+
+  // Activate parents (segment / medley)
+  let parent = active.parentElement;
+  while (parent) {
+    if (parent.classList.contains('segment') || parent.classList.contains('medley')) {
+      parent.classList.add('active-parent');
+    }
+    parent = parent.parentElement;
+  }
+}
+
+
   function updateUrlParams(src,t){
     try{
       const url = new URL(window.location);
@@ -128,6 +176,7 @@ function parseTimecode(tc){
   btnClose.addEventListener('click', hidePlayer);
 
   player.addEventListener('timeupdate', throttle(saveState,1000));
+  player.addEventListener('timeupdate', throttle(updateActiveTrack, 250));
   player.addEventListener('play', ()=>saveState(titleEl.textContent));
   player.addEventListener('pause', ()=>saveState(titleEl.textContent));
   window.addEventListener('beforeunload', ()=>saveState(titleEl.textContent));
