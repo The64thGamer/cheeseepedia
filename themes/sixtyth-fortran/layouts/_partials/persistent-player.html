@@ -1,8 +1,9 @@
 <div id="persistent-player" class="persistent-player hidden" aria-hidden="true" aria-label="Persistent media player">
   <div class="pp-header">
-    <div class="pp-title" id="pp-title">Player</div>
+    <!-- title is a link back to the showtape (origin) -->
+    <a id="pp-title" class="pp-title" href="#" rel="noopener noreferrer">Player</a>
     <div class="pp-controls">
-      <button id="pp-close" title="Close">✕</button>
+      <button id="pp-close" title="Close" aria-label="Close player">✕</button>
     </div>
   </div>
 
@@ -13,7 +14,6 @@
     </audio>
   </div>
 </div>
-
 <script>
 (function () {
   const STORAGE_KEY = 'pp_state_v1';
@@ -24,52 +24,103 @@
   const titleEl = byId('pp-title');
   const btnClose = byId('pp-close');
 
-  if (!pp || !player) return;
+  if (!pp || !player || !titleEl) return;
+
   const norm = s => { try { return s ? new URL(s, location.href).toString() : ''; } catch(e){ return s||''; } };
 
-  function showPlayer(){ pp.classList.remove('hidden'); pp.setAttribute('aria-hidden','false'); }
-function hidePlayer(){
-  try {
-    player.pause();
-    player.currentTime = 0;
-  } catch(e){}
+  function showPlayer(){
+    pp.classList.remove('hidden');
+    pp.setAttribute('aria-hidden','false');
+  }
 
-  pp.classList.add('hidden');
-  pp.setAttribute('aria-hidden','true');
-
-  saveState(titleEl.textContent);
-}
+  function hidePlayer(){
+    try { player.pause(); } catch(e){}
+    // IMPORTANT: undefined = do not overwrite title
+    saveState(undefined, { closed: true });
+    pp.classList.add('hidden');
+    pp.setAttribute('aria-hidden','true');
+  }
 
   function setSource(src, cb){
     if(!src) return;
     const cur = norm(player.currentSrc || (sourceEl && sourceEl.src) || '');
     const target = norm(src);
-    if(cur===target){ if(cb) cb(); return; }
-    if(sourceEl){ sourceEl.src=src; } else { player.src=src; }
+    if(cur === target){ if(cb) cb(); return; }
+    if(sourceEl){ sourceEl.src = src; } else { player.src = src; }
     player.load();
-    const onLoaded = ()=>{ player.removeEventListener('loadedmetadata',onLoaded); if(cb) cb(); };
-    if(player.readyState>=1){ if(cb) cb(); } else { player.addEventListener('loadedmetadata',onLoaded); }
+    const onLoaded = ()=>{ player.removeEventListener('loadedmetadata', onLoaded); if(cb) cb(); };
+    if(player.readyState >= 1){ if(cb) cb(); }
+    else { player.addEventListener('loadedmetadata', onLoaded); }
   }
 
-  function seekAndPlay(seconds){ try{ player.currentTime=Math.max(0,seconds); }catch(e){ player.addEventListener('loadedmetadata', function _once(){ player.removeEventListener('loadedmetadata',_once); player.currentTime=seconds; }); return; } player.play().catch(()=>{}); }
+  function seekAndPlay(seconds){
+    try { player.currentTime = Math.max(0, seconds); }
+    catch(e){
+      player.addEventListener('loadedmetadata', function _once(){
+        player.removeEventListener('loadedmetadata', _once);
+        try { player.currentTime = seconds; } catch(e){}
+      });
+      return;
+    }
+    player.play().catch(()=>{});
+  }
+
+  function parseTimecode(tc){
+    if(tc == null) return 0;
+    tc = String(tc).trim();
+    if(!tc) return 0;
+    if(tc[0] === ':') tc = '0' + tc;
+    const parts = tc.split(':').map(p => parseInt(p,10));
+    if(parts.some(isNaN)) return 0;
+    if(parts.length === 3) return parts[0]*3600 + parts[1]*60 + parts[2];
+    if(parts.length === 2) return parts[0]*60 + parts[1];
+    return parts[0];
+  }
+
+  function safeTitle(title){
+    return String(title || 'Player');
+  }
+
+  function saveState(explicitTitle, overrides = {}){
+    try {
+      const prev = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+
+      const state = Object.assign({
+        src: norm(player.currentSrc || (sourceEl && sourceEl.src) || ''),
+        time: Math.floor(player.currentTime || 0),
+        playing: !player.paused && !player.ended,
+        // ONLY update title if explicitly provided
+        title: explicitTitle !== undefined
+          ? safeTitle(explicitTitle)
+          : prev.title,
+        originUrl: prev.originUrl || '',
+        closed: prev.closed || false
+      }, overrides);
+
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    } catch(e){}
+  }
 
   function playTrackFromElement(el){
     if(!el) return;
     const start = parseTimecode(el.dataset.start);
     const src = el.dataset.src || '';
-    const pageTitle = document.title || 'Player';
-
-    showPlayer();
+    const pageTitle = safeTitle(document.title);
+    const origin = String(window.location.href);
 
     titleEl.textContent = pageTitle;
+    titleEl.href = origin;
+
+    showPlayer();
 
     const cur = norm(player.currentSrc || (sourceEl && sourceEl.src) || '');
     const target = norm(src);
 
-    if(cur===target){ seekAndPlay(start); } else { setSource(src,()=>seekAndPlay(start)); }
+    if(cur === target) seekAndPlay(start);
+    else setSource(src, () => seekAndPlay(start));
 
-    updateUrlParams(src,Math.floor(start));
-    saveState(pageTitle);
+    saveState(pageTitle, { originUrl: origin, closed: false });
+    updateUrlParams(src, Math.floor(start));
   }
 
   document.addEventListener('click', function(ev){
@@ -80,119 +131,115 @@ function hidePlayer(){
   }, false);
 
   function loadState(){
-    try{
+    try {
       const raw = localStorage.getItem(STORAGE_KEY);
       if(!raw) return;
       const state = JSON.parse(raw);
       if(!state) return;
-      const {src,time,playing,title} = state;
-      if(src){
-        setSource(src,()=>{
-          if(typeof time==='number'){ try{ player.currentTime=time; } catch(e){ player.addEventListener('loadedmetadata',function _once(){ player.removeEventListener('loadedmetadata',_once); player.currentTime=time; }); } }
-          if(playing) player.play().catch(()=>{});
-          if(title) titleEl.textContent=title;
-          showPlayer();
-        });
-      }
-    }catch(e){}
+
+      const { src, time, playing, title, originUrl, closed } = state;
+
+      if(title) titleEl.textContent = safeTitle(title);
+      if(originUrl) titleEl.href = originUrl;
+
+      if(closed || !src) return;
+
+      setSource(src, () => {
+        if(typeof time === 'number'){
+          try { player.currentTime = time; }
+          catch(e){
+            player.addEventListener('loadedmetadata', function _once(){
+              player.removeEventListener('loadedmetadata', _once);
+              player.currentTime = time;
+            });
+          }
+        }
+        if (playing) {
+        player.play().catch(()=>{});
+        }
+      });
+
+    } catch(e){}
   }
 
-  function saveState(title){
-    try{
-      const state={
-        src: norm(player.currentSrc || (sourceEl && sourceEl.src) || ''),
-        time: Math.floor(player.currentTime || 0),
-        playing: !player.paused && !player.ended,
-        title: title || titleEl.textContent || 'Player'
-      };
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
-    }catch(e){}
+  function updateUrlParams(src, t){
+    try {
+      const url = new URL(window.location);
+      if(src) url.searchParams.set('src', src);
+      if(typeof t === 'number') url.searchParams.set('t', t);
+      window.history.replaceState({}, '', url);
+    } catch(e){}
   }
-function parseTimecode(tc){
-    if(!tc) return 0;
-    // remove whitespace
-    tc = tc.trim();
-    const parts = tc.split(':').map(p => parseInt(p,10));
-    if(parts.some(isNaN)) return 0;
 
-    let seconds = 0;
-    if(parts.length === 3){        // H:MM:SS
-        seconds = parts[0]*3600 + parts[1]*60 + parts[2];
-    } else if(parts.length === 2){ // M:SS
-        seconds = parts[0]*60 + parts[1];
-    } else if(parts.length === 1){ // SS
-        seconds = parts[0];
-    }
-    return seconds;
-    }
+  function updateActiveTrack(){
+    if(pp.classList.contains('hidden')) return;
+    const current = player.currentTime;
+    if(isNaN(current)) return;
 
-function updateActiveTrack(){
-  if (pp.classList.contains('hidden')) return;
+    const tracks = document.querySelectorAll('.track[data-start]');
+    let active = null;
 
-  const current = player.currentTime;
-  if (isNaN(current)) return;
-
-  const tracks = document.querySelectorAll('.track[data-start]');
-  let active = null;
-
-  tracks.forEach(track => {
-    const start = parseTimecode(track.dataset.start);
-    if (start <= current) {
-      if (!active || start > parseTimecode(active.dataset.start)) {
+    tracks.forEach(track => {
+      const start = parseTimecode(track.dataset.start);
+      if(start <= current && (!active || start > parseTimecode(active.dataset.start))){
         active = track;
       }
+    });
+
+    document.querySelectorAll('.track.active').forEach(el => el.classList.remove('active'));
+    document.querySelectorAll('.active-parent').forEach(el => el.classList.remove('active-parent'));
+
+    if(!active) return;
+    active.classList.add('active');
+
+    let parent = active.parentElement;
+    while(parent){
+      if(parent.classList?.contains('segment') || parent.classList?.contains('medley')){
+        parent.classList.add('active-parent');
+      }
+      parent = parent.parentElement;
     }
-  });
-
-  if (!active) return;
-
-  // Clear previous state
-  document.querySelectorAll('.track.active').forEach(el => el.classList.remove('active'));
-  document.querySelectorAll('.active-parent').forEach(el => el.classList.remove('active-parent'));
-
-  // Activate track
-  active.classList.add('active');
-
-  // Activate parents (segment / medley)
-  let parent = active.parentElement;
-  while (parent) {
-    if (parent.classList.contains('segment') || parent.classList.contains('medley')) {
-      parent.classList.add('active-parent');
-    }
-    parent = parent.parentElement;
-  }
-}
-
-
-  function updateUrlParams(src,t){
-    try{
-      const url = new URL(window.location);
-      if(src) url.searchParams.set('src',src);
-      if(typeof t==='number') url.searchParams.set('t',t);
-      window.history.replaceState({},'',url);
-    }catch(e){}
   }
 
   btnClose.addEventListener('click', hidePlayer);
 
-  player.addEventListener('timeupdate', throttle(saveState,1000));
-  player.addEventListener('timeupdate', throttle(updateActiveTrack, 250));
-  player.addEventListener('play', ()=>saveState(titleEl.textContent));
-  player.addEventListener('pause', ()=>saveState(titleEl.textContent));
-  window.addEventListener('beforeunload', ()=>saveState(titleEl.textContent));
+  player.addEventListener('timeupdate', throttle(() => {
+    saveState();
+    updateActiveTrack();
+  }, 800));
+
+  player.addEventListener('play', () => saveState());
+  player.addEventListener('pause', () => saveState());
+  window.addEventListener('beforeunload', () => saveState());
 
   (function init(){
-    const params=new URLSearchParams(window.location.search);
-    const qsrc=params.get('src');
-    const qt=params.get('t');
+    const params = new URLSearchParams(window.location.search);
+    const qsrc = params.get('src');
+    const qt = params.get('t');
+
     if(qsrc){
-      setSource(qsrc,()=>{ if(qt) seekAndPlay(parseFloat(qt)); showPlayer(); });
-      titleEl.textContent=document.title;
-    }else{
+      const start = qt ? parseFloat(qt) : 0;
+      setSource(qsrc, () => {
+        if(!isNaN(start)) try{ player.currentTime = start; }catch(e){}
+        showPlayer();
+      });
+      titleEl.textContent = safeTitle(document.title);
+      titleEl.href = String(window.location.href);
+      saveState(document.title, { originUrl: String(window.location.href), closed: false });
+    } else {
       loadState();
     }
   })();
 
-  function throttle(fn,wait){ let last=0; return function(){ const now=Date.now(); if(now-last>=wait){ last=now; fn.apply(this,arguments); } } }
+  function throttle(fn, wait){
+    let last = 0;
+    return function(){
+      const now = Date.now();
+      if(now - last >= wait){
+        last = now;
+        fn.apply(this, arguments);
+      }
+    };
+  }
 })();
 </script>

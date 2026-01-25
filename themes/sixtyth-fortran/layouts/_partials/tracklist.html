@@ -23,7 +23,7 @@
       {{ $sec := mod $seconds 60 }}
 
       <li class="track" data-start="{{ $tc }}" data-src="{{ .src }}">
-        <span class="track-title">{{ .title }}</span>
+        <span class="track-title">{{- "▶" -}}{{- " " -}}{{ .title }}</span>
         <span class="track-time">{{ printf "%02d:%02d" $min $sec }}</span>
       </li>
 
@@ -48,7 +48,7 @@
           {{ $sec := mod $seconds 60 }}
 
           <li class="track" data-start="{{ $tc }}" data-src="{{ .src }}">
-            <span class="track-title">{{ .title }}</span>
+            <span class="track-title">{{- "▶" -}}{{- " " -}}{{ .title }}</span>
             <span class="track-time">{{ printf "%02d:%02d" $min $sec }}</span>
           </li>
           {{ end }}

@@ -1130,6 +1130,10 @@ sup {
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
 }
 
+.pp-header a{
+  color: var(--brown);
+}
+
 .persistent-player.hidden {
   display: none;
 }

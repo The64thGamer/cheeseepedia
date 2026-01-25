@@ -10,6 +10,9 @@ showtapeFormats = ["CEI 4-Track Reel"]
 tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
 alsoKnownAs = ["CREATIVE ENGINEERING SST0084-112684 UNCLE SANTA SHOW TAPE 1984 LOW SPEED TAILWOUND 11/26/84"]
+mediaDuration = "57:23"
+downloadLinks = ["https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.wav|Full Showtape Rip (No Signals)"]
+
 
 [[segments]]
 title = "Segment 1"
