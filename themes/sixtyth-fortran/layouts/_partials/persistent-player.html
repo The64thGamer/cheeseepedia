@@ -1,0 +1,149 @@
+<div id="persistent-player" class="persistent-player hidden" aria-hidden="true" aria-label="Persistent media player">
+  <div class="pp-header">
+    <div class="pp-title" id="pp-title">Player</div>
+    <div class="pp-controls">
+      <button id="pp-close" title="Close">✕</button>
+    </div>
+  </div>
+
+  <div class="pp-body">
+    <audio id="pp-player" controls preload="metadata" style="width:100%;">
+      <source id="pp-source" src="" />
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+</div>
+
+<script>
+(function () {
+  const STORAGE_KEY = 'pp_state_v1';
+  const byId = id => document.getElementById(id);
+  const pp = byId('persistent-player');
+  const player = byId('pp-player');
+  const sourceEl = byId('pp-source');
+  const titleEl = byId('pp-title');
+  const btnClose = byId('pp-close');
+
+  if (!pp || !player) return;
+  const norm = s => { try { return s ? new URL(s, location.href).toString() : ''; } catch(e){ return s||''; } };
+
+  function showPlayer(){ pp.classList.remove('hidden'); pp.setAttribute('aria-hidden','false'); }
+  function hidePlayer(){ pp.classList.add('hidden'); pp.setAttribute('aria-hidden','true'); }
+
+  function setSource(src, cb){
+    if(!src) return;
+    const cur = norm(player.currentSrc || (sourceEl && sourceEl.src) || '');
+    const target = norm(src);
+    if(cur===target){ if(cb) cb(); return; }
+    if(sourceEl){ sourceEl.src=src; } else { player.src=src; }
+    player.load();
+    const onLoaded = ()=>{ player.removeEventListener('loadedmetadata',onLoaded); if(cb) cb(); };
+    if(player.readyState>=1){ if(cb) cb(); } else { player.addEventListener('loadedmetadata',onLoaded); }
+  }
+
+  function seekAndPlay(seconds){ try{ player.currentTime=Math.max(0,seconds); }catch(e){ player.addEventListener('loadedmetadata', function _once(){ player.removeEventListener('loadedmetadata',_once); player.currentTime=seconds; }); return; } player.play().catch(()=>{}); }
+
+  function playTrackFromElement(el){
+    if(!el) return;
+    const start = parseTimecode(el.dataset.start);
+    const src = el.dataset.src || '';
+    const pageTitle = document.title || 'Player';
+
+    showPlayer();
+
+    titleEl.textContent = pageTitle;
+
+    const cur = norm(player.currentSrc || (sourceEl && sourceEl.src) || '');
+    const target = norm(src);
+
+    if(cur===target){ seekAndPlay(start); } else { setSource(src,()=>seekAndPlay(start)); }
+
+    updateUrlParams(src,Math.floor(start));
+    saveState(pageTitle);
+  }
+
+  document.addEventListener('click', function(ev){
+    const el = ev.target.closest && ev.target.closest('.track');
+    if(!el) return;
+    if(el.closest('a')) ev.preventDefault();
+    playTrackFromElement(el);
+  }, false);
+
+  function loadState(){
+    try{
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if(!raw) return;
+      const state = JSON.parse(raw);
+      if(!state) return;
+      const {src,time,playing,title} = state;
+      if(src){
+        setSource(src,()=>{
+          if(typeof time==='number'){ try{ player.currentTime=time; } catch(e){ player.addEventListener('loadedmetadata',function _once(){ player.removeEventListener('loadedmetadata',_once); player.currentTime=time; }); } }
+          if(playing) player.play().catch(()=>{});
+          if(title) titleEl.textContent=title;
+          showPlayer();
+        });
+      }
+    }catch(e){}
+  }
+
+  function saveState(title){
+    try{
+      const state={
+        src: norm(player.currentSrc || (sourceEl && sourceEl.src) || ''),
+        time: Math.floor(player.currentTime || 0),
+        playing: !player.paused && !player.ended,
+        title: title || titleEl.textContent || 'Player'
+      };
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    }catch(e){}
+  }
+function parseTimecode(tc){
+    if(!tc) return 0;
+    // remove whitespace
+    tc = tc.trim();
+    const parts = tc.split(':').map(p => parseInt(p,10));
+    if(parts.some(isNaN)) return 0;
+
+    let seconds = 0;
+    if(parts.length === 3){        // H:MM:SS
+        seconds = parts[0]*3600 + parts[1]*60 + parts[2];
+    } else if(parts.length === 2){ // M:SS
+        seconds = parts[0]*60 + parts[1];
+    } else if(parts.length === 1){ // SS
+        seconds = parts[0];
+    }
+    return seconds;
+    }
+
+  function updateUrlParams(src,t){
+    try{
+      const url = new URL(window.location);
+      if(src) url.searchParams.set('src',src);
+      if(typeof t==='number') url.searchParams.set('t',t);
+      window.history.replaceState({},'',url);
+    }catch(e){}
+  }
+
+  btnClose.addEventListener('click', hidePlayer);
+
+  player.addEventListener('timeupdate', throttle(saveState,1000));
+  player.addEventListener('play', ()=>saveState(titleEl.textContent));
+  player.addEventListener('pause', ()=>saveState(titleEl.textContent));
+  window.addEventListener('beforeunload', ()=>saveState(titleEl.textContent));
+
+  (function init(){
+    const params=new URLSearchParams(window.location.search);
+    const qsrc=params.get('src');
+    const qt=params.get('t');
+    if(qsrc){
+      setSource(qsrc,()=>{ if(qt) seekAndPlay(parseFloat(qt)); showPlayer(); });
+      titleEl.textContent=document.title;
+    }else{
+      loadState();
+    }
+  })();
+
+  function throttle(fn,wait){ let last=0; return function(){ const now=Date.now(); if(now-last>=wait){ last=now; fn.apply(this,arguments); } } }
+})();
+</script>
