@@ -29,13 +29,9 @@ The yellow vinyl edition of the album was the first to be commercially available
 
 The splatter vinyl edition of the album was pressed exclusively for Terror Vision's record club, with only 100 copies produced, each one being hand numbered. It features album artwork identical to that of the yellow vinyl edition. Aaron Fechter would later sell multiple copies of this version of the album via his eBay account, each autographed in two places, both by himself and an unspecified musician/voice actor featured on the album (likely Rick Bailey.) Along with it also came a two hour tour of the Creative Engineering Museum.
 
-### CD
+### Other (CD, Cassette)
 
-The CD would become available for purchase on Terror Vision's website after Record Store Day ended on April 13, 2025. Only 500 units were produced. The front and back cover of the album remain unchanged on the CD release, however the interior features significantly less artwork than the vinyl releases. The disc itself has an image of The Rock-afire Explosion in the studio, originally taken for *Gee, Our 1st Album!*, and the band's logo in the compartment behind it.
-
-### Cassette
-
-The cassette would become available at the same time as the CD on Terror Vision's website. The fewest units of this version of the album were produced, being only 200. The front and back cover are also completely different from all other releases, better suited for the narrower artwork specifications. The front cover is similar, but features an image of Billy Bob alone, and the back is much more simplified. The interior is also completely different, featuring the image previously shown on the standard cover for the album. The cassette tape itself is orange with the band's name on it.
+On April 13, 2025, the day after Record Store Day, [CD](https://cheeseepedia.org/wiki/original-dreams-songs-from-showbiz-cd/) and [cassette](https://cheeseepedia.org/wiki/original-dreams-songs-from-showbiz-cassette/) versions of *Original Dreams: Songs From Showbiz* became available for purchase on Terror Vision's website in limited quantities of 500 and 200 respectively.
 
 ## Track List
 
