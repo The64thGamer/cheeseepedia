@@ -1,5 +1,5 @@
 +++
-title = "Original Dreams: Songs from ShowBiz (Cassette)"
+title = "Original Dreams: Songs From Showbiz (Cassette)"
 startDate = "2025-04-13"
 endDate = "2025-00-00"
 pageThumbnailFile = "2025-05-27_074947.avif"
@@ -12,9 +12,11 @@ alsoKnownAs = []
 tags = ["Products"]
 categories = ["ShowBiz Pizza Place", "Creative Engineering"]
 +++
-Original Dreams: Songs from ShowBiz was a Rock-afire Explosion casette purchasable starting on April 13th, 2025, being a different format to the Record Day exclusive of the vinyl album: {{< wiki-link "Original Dreams: Songs from ShowBiz" >}}.
+***Original Dreams: Songs From Showbiz*** was a Rock-afire Explosion cassette purchasable from it's release on Terror Vision's website on April 13, 2025, being a different format to the Record Store Day exclusive release of the [vinyl album](https://cheeseepedia.org/wiki/original-dreams-songs-from-showbiz/).
 
-## Tracklist
+The fewest units of this version of the album were produced, being only 200. The front and back cover are also completely different from all other releases, better suited for the narrower artwork specifications. The front cover is similar, but features an image of Billy Bob alone, and the back is much more simplified. The interior is also completely different, featuring the image previously shown on the standard cover for the album. The cassette tape itself is orange with the band's name on it.
+
+## Track List
 
 ### Side A
 
@@ -44,10 +46,8 @@ Dreamer
 
 Too Shy
 
-Louisianna
+Louisiana
 
 Sal's Birthday
 
 It's Time To Go
-
-
