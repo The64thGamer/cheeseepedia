@@ -21,7 +21,7 @@ The fewest units of this version of the album were produced, being only 200. The
 
 ### Side A
 
-Welcome In To ShowBiz
+Welcome In To Showbiz
 
 Banana Hill
 
