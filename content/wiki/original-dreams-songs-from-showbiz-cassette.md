@@ -12,7 +12,7 @@ alsoKnownAs = []
 tags = ["Products"]
 categories = ["ShowBiz Pizza Place", "Creative Engineering"]
 +++
-***Original Dreams: Songs From Showbiz*** was a Rock-afire Explosion cassette purchasable from it's release on Terror Vision's website on April 13, 2025, being a different format to the Record Store Day exclusive release of the [vinyl album](https://cheeseepedia.org/wiki/original-dreams-songs-from-showbiz/).
+***Original Dreams: Songs From Showbiz*** was a Rock-afire Explosion cassette purchasable from Terror Vision's website on April 13, 2025, being a different format to the Record Store Day exclusive release of the [vinyl album](https://cheeseepedia.org/wiki/original-dreams-songs-from-showbiz/).
 
 The fewest units of this version of the album were produced, being only 200. The front and back cover are also completely different from all other releases, better suited for the narrower artwork specifications. The front cover is similar, but features an image of Billy Bob alone, and the back is much more simplified. The interior is also completely different, featuring the image previously shown on the standard cover for the album. The cassette tape itself is orange with the band's name on it.
 
