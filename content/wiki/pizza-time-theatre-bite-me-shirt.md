@@ -4,13 +4,13 @@ title = "Pizza Time Theatre 'Bite Me!' Shirt"
 draft = false
 tags = ["In-Store Merchandise"]
 categories = ["Pizza Time Theatre"]
-startDate = ""
-endDate = "0000-00-00"
+startDate = "1977-05-17"
+endDate = "1977-00-00"
 contributors = ["The 64th Gamer"]
 citations = ["http://www.showbizpizza.com/info/promo/ptt/ptt_77menu.pdf"]
 pageThumbnailFile = "W9XtUkyK16wD6REm8SQR.avif"
 +++
-The ***Pizza Time Theatre 'Bite Me!' Shirt* was a shirt available at the first {{< wiki-link "Pizza Time Theatre" >}} in {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} in 1977.**
+The ***Pizza Time Theatre 'Bite Me!' Shirt*** was a shirt available at the first {{< wiki-link "Pizza Time Theatre" >}} in {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} in 1977.
 
 ## History
 

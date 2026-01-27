@@ -1,10 +1,10 @@
 +++
 
-title = "Chuck E. Cheese Olympics Glass (1980)"
+title = "Chuck E. Cheese Olympics Glass"
 draft = false
 tags = ["In-Store Merchandise"]
 categories = ["Pizza Time Theatre"]
-startDate = ""
+startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["Jonn"]
 citations = []
