@@ -19298,9 +19298,9 @@
       "sort": "20250000"
     },
     {
-      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
-      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
-      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "page_get": "wiki/brookfield-wi-19125-w-blue-mound-rd",
+      "page_path": "content/wiki/brookfield-wi-19125-w-blue-mound-rd",
+      "page_title": "Brookfield, WI (19125 W Blue Mound Rd)",
       "parts": [
         "Mega Superhero Playground",
         "2025-00-00",
@@ -19332,18 +19332,6 @@
         "First Adventure World Installation"
       ],
       "sort": "20251107"
-    },
-    {
-      "page_get": "wiki/bel-air-md-5-bel-air-south-pkwy",
-      "page_path": "content/wiki/bel-air-md-5-bel-air-south-pkwy",
-      "page_title": "Bel Air, MD (5 Bel Air South Pkwy)",
-      "parts": [
-        "Mega Superhero Playground",
-        "2026-00-00",
-        "",
-        ""
-      ],
-      "sort": "20260000"
     },
     {
       "page_get": "wiki/bakersfield-ca-3760-ming-ave",
@@ -28052,6 +28040,32 @@
         "2024-04-00"
       ],
       "sort": "20240400"
+    }
+  ],
+  "attractions|Super Fun by Chuck E. Cheese": [
+    {
+      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
+      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
+      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "parts": [
+        "Super Fun by Chuck E. Cheese",
+        "2025-00-00",
+        "",
+        ""
+      ],
+      "sort": "20250000"
+    },
+    {
+      "page_get": "wiki/bel-air-md-5-bel-air-south-pkwy",
+      "page_path": "content/wiki/bel-air-md-5-bel-air-south-pkwy",
+      "page_title": "Bel Air, MD (5 Bel Air South Pkwy)",
+      "parts": [
+        "Super Fun by Chuck E. Cheese",
+        "2026-00-00",
+        "",
+        ""
+      ],
+      "sort": "20260000"
     }
   ],
   "animatronics|Rolfe Dewolfe & Earl Schmerle (Animatronic)": [
