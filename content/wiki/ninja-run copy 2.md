@@ -1,5 +1,6 @@
 +++
-title = "Superhero Playground"
+
+title = "Super Fun by Chuck E. Cheese"
 draft = false
 tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
