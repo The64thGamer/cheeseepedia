@@ -2,5 +2,3 @@ python-frontmatter
 PyYAML
 pyvips[binary]
 matplotlib
-gzip
-brotli
