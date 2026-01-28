@@ -5,6 +5,7 @@ Usage:
 
 Notes:
 - Loads search JSON data from /data/*.json via fetch.
+- Unified search bar: tags that match go into tag chips, non-matching terms become fuzzy search chips
 */ -}}
 
 {{- $tagStyles := site.Data.tag_styles -}}
@@ -20,10 +21,6 @@ Notes:
     </div>
 
     <div class="search-collapsible" id="search-collapsible">
-      <div class="search-fuzzy-wrapper">
-        <input id="fuzzy-q" class="search-fuzzy" placeholder="Search by Specific Text" autocomplete="off" />
-      </div>
-
       <div class="search-layout">
         <aside class="search-left-col">
           <div class="predef-list">
@@ -178,12 +175,13 @@ document.addEventListener("DOMContentLoaded", () => {
   let DOCS = [], TAGS_BY_PAGE = {}, PAGES_BY_TAG = {}, TAG_COUNTS = {}, ALL_TAGS = [];
   const DOC_TAGS = {}; // map normalized page path -> [tags]
   const SEARCH_TABS = ["tab-articles", "tab-photos", "tab-videos", "tab-reviews"];
-  let activeTags = [];
+  
+  // NEW: Store both tags and fuzzy terms as unified chips
+  let searchChips = []; // Array of {type: 'tag'|'fuzzy', value: string, negative: bool}
   let searchTimer = null;
 
   // --- DOM ELEMENTS ---
   const tabButtons = Array.from(document.querySelectorAll(".tab-button"));
-  const fuzzyInput = document.getElementById("fuzzy-q");
   const tagInput = document.getElementById("tag-input");
   const tagChipContainer = document.getElementById("tag-chip-container");
   const tagSuggestions = document.getElementById("tag-suggestions");
@@ -236,10 +234,8 @@ document.addEventListener("DOMContentLoaded", () => {
     trigger.addEventListener("click", openOnce);
     trigger.addEventListener("focus", openOnce);
   }
-  // Allow clicking the entire tag chip container to focus the input and open the collapsible.
   if (tagChipContainer) {
     tagChipContainer.addEventListener("click", (e) => {
-      // If the user clicked a chip close button, let that event proceed (don't steal focus).
       if (e.target.closest(".tag-chip-close")) return;
       if (tagInput) {
         tagInput.focus();
@@ -280,10 +276,8 @@ document.addEventListener("DOMContentLoaded", () => {
     PAGES_BY_TAG = await pagsRes.json();
     TAG_COUNTS = await countsRes.json();
 
-    // build ALL_TAGS
     ALL_TAGS = Object.keys(TAG_COUNTS || {}).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'}));
 
-    // preprocess docs (tokens/trigrams) and ensure doc.path is normalized key form
     DOCS.forEach(doc => {
       const text = [doc.title || "", doc.excerpt || "", doc.content || "", doc.summary || ""].join(" ");
       doc.tokens = doc.tokens || Array.from(new Set(tokenize(text)));
@@ -291,43 +285,70 @@ document.addEventListener("DOMContentLoaded", () => {
       if (doc.path) doc.path = normalizePageKey(doc.path);
     });
 
-    // Build DOC_TAGS by normalizing keys from TAGS_BY_PAGE
     for (const rawKey in TAGS_BY_PAGE) {
       const normKey = normalizePageKey(rawKey);
       DOC_TAGS[normKey] = TAGS_BY_PAGE[rawKey] || [];
     }
 
-    // wire predef buttons (they were rendered server-side with counts/colors)
     const predefBtnsNow = document.querySelectorAll(".predef-tag-btn");
-    predefBtnsNow.forEach(b => b.addEventListener("click", function(){ addTag(this.dataset.tag, false); }));
+    predefBtnsNow.forEach(b => b.addEventListener("click", function(){ addChip('tag', this.dataset.tag, false); }));
 
     console.log("Search data loaded", { DOCS, TAGS_BY_PAGE, PAGES_BY_TAG, TAG_COUNTS, ALL_TAGS });
   }
 
-  // --- Tag UI: chips, suggestions, add/remove ---
-  function addTag(tagStr, negative=false) {
-    if (!tagStr) return;
-    const found = ALL_TAGS.find(t => t.toLowerCase() === tagStr.toLowerCase());
-    const canon = found || tagStr;
-    const idx = activeTags.findIndex(t => t.tag.toLowerCase() === canon.toLowerCase() && t.negative === negative);
+  // --- NEW: Unified chip management ---
+  function addChip(type, value, negative=false) {
+    if (!value) return;
+    
+    // For tags, find canonical form
+    if (type === 'tag') {
+      const found = ALL_TAGS.find(t => t.toLowerCase() === value.toLowerCase());
+      value = found || value;
+    }
+    
+    // Check if already exists
+    const idx = searchChips.findIndex(c => 
+      c.type === type && 
+      c.value.toLowerCase() === value.toLowerCase() && 
+      c.negative === negative
+    );
     if (idx !== -1) return;
-    const opp = activeTags.findIndex(t => t.tag.toLowerCase() === canon.toLowerCase() && t.negative !== negative);
-    if (opp !== -1) activeTags.splice(opp, 1);
-    activeTags.push({ tag: canon, negative });
-    renderTagChips();
+    
+    // Remove opposite (positive/negative) if exists
+    const opp = searchChips.findIndex(c => 
+      c.type === type && 
+      c.value.toLowerCase() === value.toLowerCase() && 
+      c.negative !== negative
+    );
+    if (opp !== -1) searchChips.splice(opp, 1);
+    
+    searchChips.push({ type, value, negative });
+    renderChips();
   }
 
-  function renderTagChips() {
+  function renderChips() {
     if (!tagChipContainer) return;
     Array.from(tagChipContainer.querySelectorAll(".tag-chip")).forEach(n => n.remove());
-    activeTags.forEach((t, i) => {
-      const chip = document.createElement("span");
-      chip.className = "tag-chip " + (t.negative ? "tag-chip-neg" : "tag-chip-pos");
-      chip.setAttribute("data-tag", t.tag);
-      chip.innerHTML = `<button class="tag-chip-close" aria-label="Remove tag" data-idx="${i}">✕</button><span class="tag-chip-label">${t.negative?'-':''}${escapeHtml(t.tag)}</span>`;
-      tagChipContainer.insertBefore(chip, tagInput);
+    
+    searchChips.forEach((chip, i) => {
+      const chipEl = document.createElement("span");
+      // Use different class for fuzzy chips
+      const chipClass = chip.type === 'fuzzy' ? 'tag-chip-fuzzy' : (chip.negative ? 'tag-chip-neg' : 'tag-chip-pos');
+      chipEl.className = `tag-chip ${chipClass}`;
+      chipEl.setAttribute("data-type", chip.type);
+      chipEl.setAttribute("data-value", chip.value);
+      
+      const prefix = chip.negative ? '-' : '';
+      const label = chip.type === 'fuzzy' ? `"${chip.value}"` : chip.value;
+      
+      chipEl.innerHTML = `<button class="tag-chip-close" aria-label="Remove" data-idx="${i}">✕</button><span class="tag-chip-label">${prefix}${escapeHtml(label)}</span>`;
+      tagChipContainer.insertBefore(chipEl, tagInput);
     });
-    if (tagInput) { tagInput.value = ""; tagInput.focus(); }
+    
+    if (tagInput) { 
+      tagInput.value = ""; 
+      tagInput.focus(); 
+    }
     scheduleSearch();
     updateSearchLayout();
   }
@@ -338,13 +359,13 @@ document.addEventListener("DOMContentLoaded", () => {
       if (!btn) return;
       const idx = Number(btn.getAttribute("data-idx"));
       if (!Number.isNaN(idx)) {
-        activeTags.splice(idx, 1);
-        renderTagChips();
+        searchChips.splice(idx, 1);
+        renderChips();
       }
     });
   }
 
-  // --- Tag suggestion logic (only from TAG_COUNTS / ALL_TAGS) ---
+  // --- Tag suggestion logic ---
   let suggestionIndex = -1;
   function suggestTags(prefix, limit=10) {
     if (!prefix) return [];
@@ -380,10 +401,8 @@ document.addEventListener("DOMContentLoaded", () => {
       el.dataset.i = i;
       el.innerHTML = `<span class="suggest-tag">${s.negative?'-':''}${escapeHtml(s.tag)}</span> <span class="suggest-count">(${s.count||0})</span>`;
 
-      // click: mousedown to avoid losing focus
-      el.addEventListener("mousedown", ev => { ev.preventDefault(); addTag(s.tag, s.negative); hideSuggestions(); });
+      el.addEventListener("mousedown", ev => { ev.preventDefault(); addChip('tag', s.tag, s.negative); hideSuggestions(); });
 
-      // mouseover: set active suggestion for Tab behavior & arrow navigation
       el.addEventListener("mouseover", () => {
         const items = Array.from(tagSuggestions.querySelectorAll(".tag-suggestion"));
         items.forEach((it,i2) => it.classList.toggle("active", i2 === i));
@@ -396,25 +415,49 @@ document.addEventListener("DOMContentLoaded", () => {
     tagSuggestions.scrollTop = 0;
   }
 
-  function hideSuggestions() { if (!tagSuggestions) return; tagSuggestions.innerHTML=""; tagSuggestions.style.display="none"; tagSuggestions.setAttribute("aria-hidden","true"); suggestionIndex = -1; }
+  function hideSuggestions() { 
+    if (!tagSuggestions) return; 
+    tagSuggestions.innerHTML=""; 
+    tagSuggestions.style.display="none"; 
+    tagSuggestions.setAttribute("aria-hidden","true"); 
+    suggestionIndex = -1; 
+  }
 
-  // helper to commit either highlighted suggestion or typed input
+  // NEW: Process input and decide what's a tag vs fuzzy term
+  function processInputTerms(inputValue) {
+    const parts = (inputValue || "").trim().split(/\s+/).filter(Boolean);
+    
+    parts.forEach(part => {
+      const isNeg = part.startsWith("-");
+      const term = isNeg ? part.slice(1) : part;
+      
+      // Check if this term matches any tag (case-insensitive)
+      const matchedTag = ALL_TAGS.find(t => t.toLowerCase() === term.toLowerCase());
+      
+      if (matchedTag) {
+        addChip('tag', matchedTag, isNeg);
+      } else {
+        // Not a tag, add as fuzzy search term
+        addChip('fuzzy', term, isNeg);
+      }
+    });
+  }
+
   function commitSelectedSuggestionOrInput() {
     if (!tagInput) return;
     const v = tagInput.value || "";
     const items = tagSuggestions ? Array.from(tagSuggestions.querySelectorAll(".tag-suggestion")) : [];
     const activeItem = items.find(it => it.classList.contains("active"));
+    
     if (activeItem) {
       const txt = (activeItem.querySelector(".suggest-tag").textContent || "").trim();
       const negative = txt.startsWith("-");
       const tagText = negative ? txt.slice(1) : txt;
-      if (tagText) addTag(tagText, negative);
+      if (tagText) addChip('tag', tagText, negative);
     } else {
       const val = v.trim();
       if (val) {
-        const negative = val.startsWith("-");
-        const tagText = negative ? val.slice(1) : val;
-        addTag(tagText, negative);
+        processInputTerms(val);
       }
     }
     hideSuggestions();
@@ -423,7 +466,10 @@ document.addEventListener("DOMContentLoaded", () => {
   if (tagInput) {
     tagInput.addEventListener("input", () => {
       const v = tagInput.value || "";
-      if (!v.trim()) { hideSuggestions(); return; }
+      if (!v.trim()) { 
+        hideSuggestions(); 
+        return; 
+      }
       showSuggestions(suggestTags(v, 12));
     });
 
@@ -432,9 +478,6 @@ document.addEventListener("DOMContentLoaded", () => {
       const items = tagSuggestions ? Array.from(tagSuggestions.querySelectorAll(".tag-suggestion")) : [];
 
       if (e.key === "Enter" || e.key === "Tab") {
-        // Unified behavior: Enter and Tab both commit.
-        // If a suggestion is highlighted (via arrow keys or mouseover), pick that.
-        // Otherwise create a tag from the typed input.
         e.preventDefault();
         commitSelectedSuggestionOrInput();
       } else if (e.key === "ArrowDown") {
@@ -462,11 +505,9 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-
-  function scheduleSearch() { if (searchTimer) clearTimeout(searchTimer); searchTimer = setTimeout(executeSearch, 150); }
-  if (fuzzyInput) {
-    fuzzyInput.addEventListener("input", () => { scheduleSearch(); updateSearchLayout(); });
-    fuzzyInput.addEventListener("keydown", e => { if (e.key === "Enter") { e.preventDefault(); executeSearch(); } });
+  function scheduleSearch() { 
+    if (searchTimer) clearTimeout(searchTimer); 
+    searchTimer = setTimeout(executeSearch, 150); 
   }
 
   // --- Init load ---
@@ -476,18 +517,21 @@ document.addEventListener("DOMContentLoaded", () => {
     updateSearchLayout();
   })();
 
-
-  // --- Layout control: show tags vs show results ---
+  // --- Layout control ---
   function updateSearchLayout() {
-    const textInput = fuzzyInput;
     const tagPanel = document.querySelector(".search-left-col");
     const resultsPanel = document.getElementById("results-tabs");
     if (!tagPanel || !resultsPanel) return;
-    const hasText = textInput && textInput.value.trim().length > 0;
-    const hasTags = activeTags.length > 0;
-    const showResults = hasText || hasTags;
-    if (showResults) { tagPanel.hidden = true; resultsPanel.hidden = false; }
-    else { tagPanel.hidden = false; resultsPanel.hidden = true; }
+    const hasInput = tagInput && tagInput.value.trim().length > 0;
+    const hasChips = searchChips.length > 0;
+    const showResults = hasInput || hasChips;
+    if (showResults) { 
+      tagPanel.hidden = true; 
+      resultsPanel.hidden = false; 
+    } else { 
+      tagPanel.hidden = false; 
+      resultsPanel.hidden = true; 
+    }
   }
 
   // --- Scoring & search helpers ---
@@ -510,7 +554,6 @@ document.addEventListener("DOMContentLoaded", () => {
     return 0.72 * tJ + 0.26 * tokOverlap + titleBoost;
   }
 
-  // compute trigram similarity between a title string and a query string
   function titleSimilarityToQuery(doc, queryStr) {
     const titleStr = (doc.title || doc.path || "");
     if (!titleStr || !queryStr) return 0;
@@ -519,19 +562,18 @@ document.addEventListener("DOMContentLoaded", () => {
     return jaccard(tTris, qTris);
   }
 
-  // --- SEARCH (handles tag-only and fuzzy+tags) ---
+  // --- SEARCH (handles tags, fuzzy, and combined) ---
   function search(fuzzyQuery, tagFilters, maxResults=500) {
     let results = [];
     const isFuzzyEmpty = !fuzzyQuery || !fuzzyQuery.trim();
     const isTagOnly = isFuzzyEmpty && tagFilters.length > 0;
 
     if (isTagOnly) {
-      // TAG-ONLY: produce candidatePaths then score by title similarity to tag(s)
+      // TAG-ONLY
       let candidatePaths = null;
       tagFilters.forEach(tf => {
         const tagKey = tf.tag;
         const pagesForTagObjs = PAGES_BY_TAG[tagKey] || [];
-        // normalize page paths from pagesByTag entries
         const pagesForTag = pagesForTagObjs.map(p => normalizePageKey(p.path || p));
         if (tf.negative) {
           if (!candidatePaths) candidatePaths = Object.values(PAGES_BY_TAG).flat().map(p => normalizePageKey(p.path || p));
@@ -543,39 +585,30 @@ document.addEventListener("DOMContentLoaded", () => {
       });
 
       if (!candidatePaths) candidatePaths = [];
-
-      // Determine positive tags to compute similarity against
       const positiveTags = tagFilters.filter(t => !t.negative).map(t => t.tag);
 
       results = candidatePaths.map(p => {
         const doc = DOCS.find(d => d.path === p) || { path: p, title: p, frontmatter: {} };
         let score = 0;
         if (positiveTags.length > 0) {
-          // average similarity across positive tags, computed against the title
           let acc = 0;
           positiveTags.forEach(pt => {
             acc += titleSimilarityToQuery(doc, pt);
           });
           score = acc / positiveTags.length;
-          // give a noticeable boost to exact title matches (force them to top)
           for (const pt of positiveTags) {
             if ((doc.title || "").toLowerCase() === pt.toLowerCase()) {
-              score += 1.0; // big boost ensures exact title match ranks highest
+              score += 1.0;
               break;
             }
           }
-        } else {
-          // no positive tags (e.g., only negatives) -> leave score as 0
-          score = 0;
         }
         return { score, doc };
       });
 
-      // Sort by score descending; exact title matches have higher score due to boost above.
       results.sort((a,b) => {
         const diff = (b.score || 0) - (a.score || 0);
         if (Math.abs(diff) > 1e-9) return diff;
-        // tie-breaker: keep date ordering similar to previous behavior (oldest first)
         const aStart = (a.doc.frontmatter?.startDate || "0000-00-00").split(" ")[0];
         const bStart = (b.doc.frontmatter?.startDate || "0000-00-00").split(" ")[0];
         if ((aStart && aStart.startsWith("0000")) && !(bStart && bStart.startsWith("0000"))) return 1;
@@ -587,7 +620,9 @@ document.addEventListener("DOMContentLoaded", () => {
       // FUZZY + optional tag filters
       const qTokens = tokenize(fuzzyQuery);
       const qTris = charTrigrams(fuzzyQuery);
+      
       for (const doc of DOCS) {
+        // Check tag filters
         let ok = true;
         for (const tf of tagFilters) {
           const want = tf.tag;
@@ -598,6 +633,7 @@ document.addEventListener("DOMContentLoaded", () => {
           }
         }
         if (!ok) continue;
+        
         const score = scoreDocForQuery(doc, qTokens, qTris);
         if (score > 0) results.push({ score, doc });
       }
@@ -607,7 +643,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return results.slice(0, maxResults);
   }
 
-  // --- Renderers (use makePermalink for internal links) ---
+  // --- Renderers ---
   function renderArticle(doc) {
     const fm = doc.frontmatter || {};
     const hasContent = !!(doc.content || doc.excerpt || doc.title);
@@ -670,14 +706,12 @@ document.addEventListener("DOMContentLoaded", () => {
   function renderPhoto(doc) {
     const wrapper = document.createElement("div");
     wrapper.className = "gallery-image-box";
-    let fileName = (doc.title || "").trim(); // expects the filename/title to be the photo filename
+    let fileName = (doc.title || "").trim();
     let imgURL = "/UI/File Not Found.jpg";
     let lowResURL = "/UI/File Not Found.jpg";
 
     if (fileName) {
-      // If the doc.title contains directories or leading slash, strip leading slash
       if (fileName.startsWith("/")) fileName = fileName.slice(1);
-      // Build low-res and high-res urls
       lowResURL = `/lowphotos/${fileName}`;
       imgURL = `/photos/${fileName}`;
     }
@@ -689,7 +723,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const displayText = photoDesc || doc.title + (dateStr ? ` (${dateStr})` : "");
     const href = makePermalink(doc.path);
 
-    // low res in src, HD in data-src, class lazy-photo - your CSS/JS can swap data-src into src
     wrapper.innerHTML = `
       <div class="article-photo-image">
         <a href="${href}">
@@ -744,7 +777,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const recommend = doc.frontmatter?.recommend;
     const baseTitle = doc.frontmatter?.LinkTitle || doc.title || "";
 
-    // append reviewed page (Page param) if present
     let reviewedPageStr = "";
     const pageTitle = doc.frontmatter?.Page;
     if (pageTitle) {
@@ -780,24 +812,23 @@ document.addEventListener("DOMContentLoaded", () => {
     return wrapper;
   }
 
-  // --- Utility to parse and compare dates for sorting, push 0000/blank to bottom ---
   function dateSortableRaw(raw) {
     if (!raw) return null;
     const s = String(raw).split(" ")[0];
     if (!s) return null;
     if (s.startsWith("0000")) return null;
-    return s; // YYYY-MM-DD expected
+    return s;
   }
+  
   function compareDatesForSort(aRaw, bRaw, order='oldest') {
     const a = dateSortableRaw(aRaw), b = dateSortableRaw(bRaw);
     if (!a && !b) return 0;
-    if (!a) return 1; // push a to bottom
-    if (!b) return -1; // push b to bottom
+    if (!a) return 1;
+    if (!b) return -1;
     if (order === 'oldest') return a.localeCompare(b);
     return b.localeCompare(a);
   }
 
-  // --- "Show more" helper: IntersectionObserver on a sentinel at bottom of each results list ---
   const showMoreObserver = new IntersectionObserver((entries) => {
     entries.forEach(entry => {
       const sentinel = entry.target;
@@ -818,7 +849,6 @@ document.addEventListener("DOMContentLoaded", () => {
   }, { root: null, rootMargin: "0px", threshold: 0.1 });
 
   function attachSentinel(container, totalCount, shownCount) {
-    // remove previous sentinel & show-more wrapper in this container
     const existingSent = container.querySelector(".results-bottom-sentinel");
     if (existingSent) {
       showMoreObserver.unobserve(existingSent);
@@ -827,14 +857,12 @@ document.addEventListener("DOMContentLoaded", () => {
     let showMoreWrap = container.querySelector(".show-more-wrapper");
     if (showMoreWrap) showMoreWrap.remove();
 
-    // create wrapper for "show more"
     showMoreWrap = document.createElement("div");
     showMoreWrap.className = "show-more-wrapper";
     showMoreWrap.style.display = "none";
     showMoreWrap.innerHTML = `<a href="#" class="show-more-link">Show more</a>`;
     container.appendChild(showMoreWrap);
 
-    // click handler: advance the results-per-section select to next tier
     const link = showMoreWrap.querySelector(".show-more-link");
     link.addEventListener("click", (ev) => {
       ev.preventDefault();
@@ -844,10 +872,8 @@ document.addEventListener("DOMContentLoaded", () => {
       const next = tiers[Math.min(idx + 1, tiers.length - 1)];
       if (resultsPerSelect) resultsPerSelect.value = next;
       executeSearch();
-      // removed scrollIntoView to keep user's scroll position intact
     });
 
-    // create sentinel
     const sentinel = document.createElement("div");
     sentinel.className = "results-bottom-sentinel";
     sentinel.dataset.total = String(totalCount || 0);
@@ -858,25 +884,30 @@ document.addEventListener("DOMContentLoaded", () => {
     showMoreObserver.observe(sentinel);
   }
 
-  // --- executeSearch & rendering control ---
+  // --- executeSearch ---
   function executeSearch() {
     if (!DOCS || !DOCS.length) {
       console.warn("Search data not yet loaded or empty");
       return;
     }
 
-    const q = fuzzyInput ? fuzzyInput.value.trim() : "";
-    const tagFilters = activeTags.map(t => ({ tag: t.tag, negative: !!t.negative }));
+    // Separate chips into tags and fuzzy terms
+    const tagChips = searchChips.filter(c => c.type === 'tag');
+    const fuzzyChips = searchChips.filter(c => c.type === 'fuzzy');
+    
+    // Build fuzzy query from fuzzy chips
+    const fuzzyQuery = fuzzyChips.map(c => (c.negative ? '-' : '') + c.value).join(" ");
+    const tagFilters = tagChips.map(c => ({ tag: c.value, negative: c.negative }));
 
-    // both empty -> clear results and show tag panel
-    if (!q && !tagFilters.length) {
+    // both empty -> clear results
+    if (!fuzzyQuery && !tagFilters.length) {
       [listArticles, listPhotos, listVideos, listReviews].forEach(c => { if (c) c.innerHTML = ""; });
       activateTab("results-tabs", "tab-articles");
       updateSearchLayout();
       return;
     }
 
-    const results = search(q, tagFilters, 2000);
+    const results = search(fuzzyQuery, tagFilters, 2000);
 
     const articles=[], photos=[], videos=[], reviews=[];
     for (const r of results) {
@@ -888,11 +919,9 @@ document.addEventListener("DOMContentLoaded", () => {
       else articles.push({score:r.score, doc});
     }
 
-    // Apply articles sorting (per dropdown)
     const artSort = (articlesSortSelect && articlesSortSelect.value) ? articlesSortSelect.value : 'relevancy';
 
     if (artSort === 'relevancy') {
-      // sort by score descending; tie-breaker: newest first
       articles.sort((A,B) => {
         const diff = (B.score || 0) - (A.score || 0);
         if (Math.abs(diff) > 1e-9) return diff;
@@ -901,7 +930,6 @@ document.addEventListener("DOMContentLoaded", () => {
         return compareDatesForSort(aDate, bDate, 'newest');
       });
     } else {
-      // date-based sorts; always keep 0000/blank at bottom
       articles.sort((A,B) => {
         const aDate = A.doc.frontmatter?.startDate || A.doc.frontmatter?.date || "";
         const bDate = B.doc.frontmatter?.startDate || B.doc.frontmatter?.date || "";
@@ -909,13 +937,11 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     }
 
-    // Apply the "results per section" limit
     const perVal = resultsPerSelect && resultsPerSelect.value ? resultsPerSelect.value : "10";
     const perLimit = perVal === "all" ? Infinity : parseInt(perVal, 10) || 10;
 
     function clearAndRender(container, arr, renderer) {
       if (!container) return;
-      // remove existing sentinel observer items if any
       const existingSent = container.querySelectorAll(".results-bottom-sentinel");
       existingSent.forEach(s => {
         try { showMoreObserver.unobserve(s); } catch(e){}
@@ -935,7 +961,6 @@ document.addEventListener("DOMContentLoaded", () => {
         limited.forEach(item => container.appendChild(renderer(item.doc)));
       }
 
-      // attach sentinel + show-more control if there are more items than shown and perLimit !== Infinity
       const totalCount = arr.length;
       const shownCount = limited.length;
       attachSentinel(container, totalCount, shownCount);
@@ -946,7 +971,6 @@ document.addEventListener("DOMContentLoaded", () => {
     clearAndRender(listVideos, videos, renderVideo);
     clearAndRender(listReviews, reviews, renderReview);
 
-    // update tab counts
     const tabCounts = { "tab-articles": articles.length, "tab-photos": photos.length, "tab-videos": videos.length, "tab-reviews": reviews.length };
     SEARCH_TABS.forEach(key => {
       const btn = tabButtons.find(b=>b.dataset.tab===key);
@@ -958,18 +982,12 @@ document.addEventListener("DOMContentLoaded", () => {
     updateSearchLayout();
   }
 
-  // --- wire fuzzy input scheduling (tag changes call schedule via renderTagChips) ---
-  function scheduleSearchAndLayout() { scheduleSearch(); updateSearchLayout(); }
-
-  // wire result-controls to re-run search when changed
   if (resultsPerSelect) {
     resultsPerSelect.addEventListener("change", () => { executeSearch(); updateSearchLayout(); });
   }
   if (articlesSortSelect) {
     articlesSortSelect.addEventListener("change", () => { executeSearch(); updateSearchLayout(); });
   }
-
-  // --- INIT already called above in IIFE ---
 
 });
 </script>

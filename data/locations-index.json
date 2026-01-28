@@ -27264,18 +27264,30 @@
       "sort": "19790500"
     }
   ],
-  "attractions|Football": [
+  "attractions|Atari Football": [
     {
       "page_get": "wiki/concord-ca-1975-diamond-blvd",
       "page_path": "content/wiki/concord-ca-1975-diamond-blvd",
       "page_title": "Concord, CA (1975 Diamond Blvd)",
       "parts": [
-        "Football",
+        "Atari Football",
         "1979-05-00",
         "0000-00-00",
         "Mentioned in building plans."
       ],
       "sort": "19790500"
+    },
+    {
+      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
+      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
+      "page_title": "Stockton, CA (4555 N Pershing Ave)",
+      "parts": [
+        "Atari Football",
+        "1979-10-00",
+        "0000-00-00",
+        "Seen at the opening."
+      ],
+      "sort": "19791000"
     }
   ],
   "attractions|'Game Tree'": [
@@ -32905,20 +32917,6 @@
         "1991-11-00"
       ],
       "sort": "19831201"
-    }
-  ],
-  "attractions|Atari Football": [
-    {
-      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
-      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
-      "page_title": "Stockton, CA (4555 N Pershing Ave)",
-      "parts": [
-        "Atari Football",
-        "1979-10-00",
-        "0000-00-00",
-        "Seen at the opening."
-      ],
-      "sort": "19791000"
     }
   ],
   "attractions|Lunar Lander": [
