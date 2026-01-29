@@ -53,7 +53,7 @@ Note: It not comfirm to when this show was released but it was sometime between 
     1.  6 Minute Countdown
         1.  [What Kind of Man Would I Be](https://en.wikipedia.org/wiki/What_Kind_of_Man_Would_I_Be%3F)
         2.  Birthday Spectacular
-        3.  ???
+        3.  [Listen to Your Heart](https://en.wikipedia.org/wiki/Listen_to_Your_Heart_(Roxette_song))
     2.  Cyberstar Intro
 8. **Segment 3**
     1.  Faith
