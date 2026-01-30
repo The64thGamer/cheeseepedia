@@ -49,13 +49,13 @@ showtapeFormats = ["C&R SVHS (Pre-93)","Cyberamics Reel"]
         2.  Birthday Extravaganza
         3.  [Leave A Light On](https://en.wikipedia.org/wiki/Leave_a_Light_On_(Belinda_Carlisle_song))
     2.  It's Showtime!
-6.**Video 1**
+6. **Video 1**
     1.  [Pound Puppies & The Legend of Big Paw - At the Pound](https://en.wikipedia.org/wiki/Pound_Puppies_and_the_Legend_of_Big_Paw)
 7. **Intermission 4**
     1.  8 Minute Countdown
         1.  [What Kind of Man Would I Be](https://en.wikipedia.org/wiki/What_Kind_of_Man_Would_I_Be%3F)
         2.  Birthday Extravaganza
-        3.  ???
+        3.  [Listen to Your Heart](https://en.wikipedia.org/wiki/Listen_to_Your_Heart_(Roxette_song))
     2.  Cyberstar Intro
 8. **Segment 3**
     1.  Neighbors 1
@@ -84,7 +84,7 @@ showtapeFormats = ["C&R SVHS (Pre-93)","Cyberamics Reel"]
         3.  [Whispers](https://en.wikipedia.org/wiki/Sleeping_with_the_Past)
     2.  It's Showtime!
 12. **Video 2**
-    1.  The Care Bears Music Video - Songfellow Strum and His Magic Train
-        1.  Pop Goes the Weasel
-        2.  Down By the Station
-        3.  Looby Loo
+    1.  [The Care Bears Music Video - Songfellow Strum and His Magic Train](https://en.wikipedia.org/wiki/The_Care_Bears_Family)
+        1.  [Pop Goes the Weasel](https://en.wikipedia.org/wiki/Pop_Goes_the_Weasel)
+        2.  [Down By the Station](https://en.wikipedia.org/wiki/Down_by_the_Station)
+        3.  [Looby Loo](https://en.wikipedia.org/wiki/Here_we_go_Loop_de_Loop)
