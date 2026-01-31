@@ -19,17 +19,11 @@ The Bot's end date is Unknown as it's unclear if the Bot would have been replace
 
 ## History
 
-### Production &amp; Manufacturing
-
-Before the Bot was created, Harold Goldbrandsen created concept art showing what the bot could do. The concept art had scrapped movements for the eyes, heads, &amp; hands {{< cite 4 >}}. The Bot was developed in early 1977 by Harold Goldbrandsen &amp; Fantasy Forest.
-
-### Location Use
+Before the Bot was created, Harold Goldbrandsen created concept art showing what the bot could do. The concept art had scrapped movements for the eyes, heads, &amp; hands {{< cite 4 >}}. The Bot was developed in early 1977 by Harold Goldbrandsen & Fantasy Forest.
 
 The original Bot was installed in {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} &amp; Programmed to the {{< wiki-link "Pizza Time Theatre Showtape" >}} in Early 1977. The bot was later programmed to the {{< wiki-link "Helen Henny Showtape" >}}, the {{< wiki-link "Madame Oink I" >}}, &amp; the {{< wiki-link "Foxy Colleen I" >}} from August 1978 to November 1978. It's Unknown when in this period of time if any the original Bot was repalced with the Updated Model. The Bot was seen in an episode of the Australian broadcast series, 'Four Corners' in their 'New Eatery Fad' segment {{< cite 1 >}}.
 
-### Fate
-
-The Bot's Removal is Unconfirmed, alongside most of Winchester's later history. It is more likely that The Store didn't remove them, but again this has no basis or confirmation. It is possible the bots were either sent to Sunnyvale if replaced, or thrown out if Not.
+The Bot's removal is unconfirmed, alongside most of Winchester's later history. It is more likely that The Store didn't remove them, but again this has no basis or confirmation. It is possible the bots were either sent to Sunnyvale if replaced, or thrown out if Not.
 
 ## Design
 
