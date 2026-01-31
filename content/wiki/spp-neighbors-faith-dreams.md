@@ -47,13 +47,13 @@ Note: It not comfirm to when this show was released but it was sometime between 
         2.  Birthday Spectacular
         3.  [Leave A Light On](https://en.wikipedia.org/wiki/Leave_a_Light_On_(Belinda_Carlisle_song))
     2.  It's Showtime!
-6.**Video 1**
+6. **Video 1**
     1.  [Pound Puppies & The Legend of Big Paw - At the Pound](https://en.wikipedia.org/wiki/Pound_Puppies_and_the_Legend_of_Big_Paw)
 7. **Intermission 4**
     1.  6 Minute Countdown
         1.  [What Kind of Man Would I Be](https://en.wikipedia.org/wiki/What_Kind_of_Man_Would_I_Be%3F)
         2.  Birthday Spectacular
-        3.  ???
+        3.  [Roxette - Listen to Your Heart](https://en.wikipedia.org/wiki/Listen_to_Your_Heart_(Roxette_song))
     2.  Cyberstar Intro
 8. **Segment 3**
     1.  Faith
