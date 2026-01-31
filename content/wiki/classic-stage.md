@@ -4,7 +4,7 @@ title = "Classic Stage"
 startDate = "1980-08-14"
 endDate = ""
 pageThumbnailFile = "hlgyMiq7CvPd0DhEbIlB.avif"
-contributors = ["RockafireFan123", "The 64th Gamer", "Anonymous", "Anonymous", "Anonymous", "ShowBizMidwest", "Bowling for Cheese", "Sonichacker", "Cheeseclassic", "Cy's Junk at School", "CECMentor", "Livelycheese", "Caydenpedia", "Destinationimagination95", "CyberSnout", "Nickzrss"]
+contributors = ["RockafireFan123", "The 64th Gamer", "Anonymous", "Anonymous", "Anonymous", "ShowBizMidwest", "Bowling for Cheese", "Sonichacker", "Cheeseclassic", "Cy's Junk at School", "CECMentor", "Livelycheese", "Caydenpedia", "Destinationimagination95", "CyberSnout", "Nickzrss", "TheEntireShrekScript"]
 citations = ["<a href=\"https://www.newspapers.com/image/103319155/\">https://www.newspapers.com/image/103319155/</a>"]
 tags = ["Stage Variations"]
 categories = ["ShowBiz Pizza Place"]
