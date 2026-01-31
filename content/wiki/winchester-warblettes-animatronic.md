@@ -14,7 +14,7 @@ unitsProduced = "2"
 manufacturer = "Fantasy Forest"
 +++
 
-The ***Winchester Warblettes Animatronic*** was a series of small animatronics produced in 1977 and 1978 by {{< wiki-link "Fantasy Forest" >}} for the {{< wiki-link "Pizza Time Theatre" >}} location on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}. The bot used the {{< wiki-link "Winchester Hardware Setup" >}} for programming &amp; the {{< wiki-link "Winchester Control System" >}} for controlling the bots movements. The Bot originally used an Unknown design due to the obscurity of the images in which it appears {{<cite 2 >}}. The Second version of the Bot was built around June of 1978 alongside Dolli and the V2 Chuck & Crusty{{< cite 3 >}}.
+The ***Winchester Warblettes Animatronic*** was a series of small animatronics produced in 1977 and 1978 by {{< wiki-link "Fantasy Forest" >}} for the {{< wiki-link "Pizza Time Theatre" >}} location on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}. The bots used the {{< wiki-link "Winchester Hardware Setup" >}} for programming &amp; the {{< wiki-link "Winchester Control System" >}} for controlling the bots movements. The Bot originally used an Unknown design due to the obscurity of the images in which it appears {{<cite 2 >}}. The Second version of the Bot was built around June of 1978 alongside Dolli and the V2 Chuck & Crusty{{< cite 3 >}}.
 The Bot's end date is Unknown as it's unclear if the Bot would have been replaced in late 1979 for Cyberamics due It not being the same base as the Cyberamic Warblettes.
 
 ## History
