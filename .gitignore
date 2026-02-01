@@ -28,4 +28,3 @@ hugo-build.log
 .venv/
 /data/search
 /data/tags
-/static/data

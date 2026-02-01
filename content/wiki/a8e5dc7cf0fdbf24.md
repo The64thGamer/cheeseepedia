@@ -1,0 +1,14 @@
++++
+
+title = "2008 Prince Chuck & Princess Helen 2 Pack"
+draft = false
+tags = ["In-Store Merchandise"]
+categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "fee1653ccbded7f1.avif"
+startDate = "2008-00-00"
+endDate = "0000-00-00"
+contributors = ["The 64th Gamer"]
+citations = []
+alsoKnownAs = []
+manufacturer = ""
++++

@@ -98,7 +98,7 @@ This showtape included video segments from other ShowBiz Pizza Place & Chuck E. 
 
 - *Animal Babies in the Wild - Let's All Do the Hop*
   - CEC Neighbors / Dreams
-  - {{< wiki-link "SPP FaithDreamsKids Wave Bday" >}}
+  - {{< wiki-link "SPP Faith / Dreams / Kids" >}}
   - {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}
   - {{< wiki-link "SPP Emergency Backup Tape" >}}
 - *Song City U.S.A - Dinosaurs (We Adore Dinosaurs)*

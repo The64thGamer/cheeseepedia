@@ -1,21 +1,46 @@
 +++
-
+cuDate = ""
+draft = false
 title = "Scottsdale, AZ (8890 E Indian Bend Rd)"
-storeNumber = ""
 startDate = "1999-09-00"
 endDate = "2009-00-00"
-cuDate = ""
-remodels = []
-stages = ["Studio C Alpha|1999-09-00|2009-00-00|"]
-franchisees = []
-attractions = []
-sqft = ""
-latitudeLongitude = ["33.53680687","-111.8880555"]
-citations = []
-contributors = []
-downloadLinks = []
 pageThumbnailFile = "_0zOCSFt5J2wSSn75Hxk.avif"
+contributors = ["TheEntireShrekScript"]
+citations = ["https://www.newspapers.com/newspage/124485651/", "https://www.newspapers.com/newspage/123172941/", "https://www.historicaerials.com/viewer", "https://en.wikipedia.org/wiki/Leaps_and_Bounds_(playplace)", "https://www.newspapers.com/newspage/123151218/", "https://www.newspapers.com/newspage/123675657/", "https://www.newspapers.com/newspage/123713919/", "https://www.reddit.com/r/chuckecheese/comments/1fhn1u4/can_someone_please_comment_where_scottsdale_az_is/", "https://www.newspapers.com/newspage/124456065/", "https://www.newspapers.com/newspage/116997035/", "https://www.showbizpizza.com/photos/cec/az_scottsdale/index.html", "https://www.youtube.com/watch?v=NdrWBeZ4iFk", "https://www.youtube.com/watch?v=biiUV6aXUs0", "https://www.flickr.com/photos/mountainbiker/2841560965/in/photostream/", "https://www.flickr.com/photos/mountainbiker/2841561285/", "https://www.yelp.com/biz_photos/chuck-e-cheeses-scottsdale?select=USLYegJwbJpudEDKFz3ImA", "https://earth.google.com/web/@33.54159965,-111.88770624,395.96006186a,191.02136045d,35y,359.99221707h,0t,0r/data=ChYqEAgBEgoyMDA5LTExLTIwGAFCAggBMikKJwolCiExME9XTVlZVF8xLTlONHA1ZXpVRzRzM0J3bHZUeURZb0IgAToDCgEwQgIIAEoICPKwtJEGEAE?authuser=0", "https://www.google.com/maps/@33.5414336,-111.8873501,3a,48.9y,295.49h,96.3t/data=!3m7!1e1!3m5!1sixVFC1any9ULZxMpihq2DA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.304384321540866%26panoid%3DixVFC1any9ULZxMpihq2DA%26yaw%3D295.49241768861026!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D", "https://earth.google.com/web/@33.54154898,-111.88793408,395.38359794a,284.50823065d,35y,359.99221695h,0t,0r/data=ChYqEAgBEgoyMDIyLTA2LTIxGAFCAggBMikKJwolCiExME9XTVlZVF8xLTlONHA1ZXpVRzRzM0J3bHZUeURZb0IgAToDCgEwQgIIAEoICPKwtJEGEAE?authuser=0", "https://www.google.com/maps/@33.5420351,-111.8880577,3a,75y,145.97h,89.54t/data=!3m8!1e1!3m6!1ssTRVq-NsbhMf3BjSc5PiXg!2e0!5s20221201T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.4593854213010218%26panoid%3DsTRVq-NsbhMf3BjSc5PiXg%26yaw%3D145.9683775425333!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDExMy4wIKXMDSoASAFQAw%3D%3D", "http://www.kendrickdevelopment.com/--leaps--bounds.html", "https://www.youtube.com/watch?v=8uPty7VQKP4", "https://www.reddit.com/r/ChuckECheesePizza/comments/17u43ox/nowclosed_cec_in_scottsdale_az_2006/", "https://www.youtube.com/watch?v=-8ZuGUWh8vQ"]
+storeNumber = ""
+sqft = "12,000"
+attractions = ["Skee Ball|0000-00-00|2009-00-00|6 Units, Sent to Goodyear, AZ.", "Penalty Shoot Out|0000-00-00|0000-00-00", "Chuck E. Cheese's Super Shot|0000-00-00|0000-00-00", "Skytubes|0000-00-00|0000-00-00", "Frantic Fred|0000-00-00|0000-00-00", "Chuck E. Cheese's Photo Ride (1997)|0000-00-00|0000-00-00", "Tik Tak Clock|0000-00-00|0000-00-00", "Amutec Turbo Car|0000-00-00|0000-00-00", "Jungle Joggers|0000-00-00|0000-00-00", "Frog Song|0000-00-00|0000-00-00", "Buzzy Buzzy Bee|0000-00-00|0000-00-00", "Fetch The Vet|0000-00-00|0000-00-00", "Toddler Zone|0000-00-00|2009-00-00", "Chuck E. Cheese's Pizza Delivery|0000-00-00|2009-00-00|Sent to Goodyear, AZ.", "Chuck E. Cheese's Pow-Air Play|0000-00-00|0000-00-00"]
+animatronics = ["Chuck E. Cheese 32m (Animatronic)|1999-09-00|2009-00-00|053|Sent to Goodyear, AZ", "Bird (Animatronic)|1999-09-00|2009-00-00|Unknown|Unknown.", "Pizza Phone (Animatronic)|1999-09-00|2009-00-00|Unknown|Unknown.","Pizza Time Clock (Animatronic)|1999-09-00|2009-00-00|N/A|Sent to Goodyear, AZ"]
+franchisees = ["Melvin Entertainment|1999-09-00|2009-00-00"]
+remodels = ["SPT 1990's Remodel Program|1999-09-00","Phase 3 (2000)|0000-00-00"]
+stages = ["Studio C Alpha|1999-09-00|2009-00-00|"]
+downloadLinks = []
+latitudeLongitude = ["33.53680687", "-111.8880555"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-draft = false
 +++
+***Scottsdale, AZ (8890 E Indian Bend Rd)*** was a *Chuck E. Cheese's* location that opened in September 1999{{< cite 1 >}} with a {{< wiki-link "Studio C Alpha" >}} and closed in Fall 2009 with the same stage.
+
+## History
+
+The Scottsdale Chuck E. Cheese's location originally began it's life as a Leaps & Bounds, a concept made by McDonald's in 1991 to compete with Discovery Zone.{{< cite 4 >}} The building would begin construction in 1993{{< cite 2 >}} {{< cite 3 >}} and later opened by December 22{{< cite 5 >}} that same year, operating under the Leaps & Bounds name until at least May 1996{{< cite 6 >}} {{< cite 7 >}}, a year after the two companies merged. Discovery Zone would continue doing business within the building until 1999, where they finally closed their doors for good.{{< cite 8 >}}
+
+A while later in August 1999, Chuck E. Cheese's advertisements began popping up in The Arizona Republic newspaper, announcing their plans to open a new store inside the former indoor play center and teasing for a September opening. These advertisements also stated that they were hiring for Full Time Dining Room Attendants, Part Time Game Room Attendants and more. Starting at $6.50 per hour for the former and $6.00 per hour for the latter.{{< cite 1 >}} After opening, applications for Assistant Managers would continue into the 2000s as well{{< cite 9 >}} {{< cite 10 >}}. At an unknown date in September 1999, Chuck E. Cheese's would open for the very first time with a {{< wiki-link "Studio C Alpha" >}}.
+
+### 2000's
+
+a few photos from 2000 exist, a year after they opened, showing their Chuck E. walkaround at this time, which used the 90s head piece with the red derby along with what seems to be a tracksuit shirt and a pair of jeans. Besides these images of the walkaround, we also get pictures of their Chuck E. bot with the Late Night attire and two photos of the kitchen.{{< cite 11 >}}
+
+During the mid 2000s, Scottsdale would have their entrance doors replaced with older ones from the {{< wiki-link "Tucson, AZ (6130 E Speedway Blvd)" >}} location, which was owned by the same people as Scottsdale{{< cite 12 >}}. Another change that most likely occurred around this time frame was the repainting of the interior walls by the entrance, menu board and Studio C stage, which were repainted in the same shade of purple that was being used for the then-active {{< wiki-link "CEC 2000's Remodel Program" >}} {{< cite 13 >}}.
+
+Sveral photos from 2008, specifically September 6. These photos show a few of the games that they had, several different angles of the Show Room, and most notably their Studio C stage. With these pictures, we're able to tell that the Chuck E. bot's appearance had declined since the previous photos from 2000, as his cap is shown to not be sitting on his head properly. Surprisingly, he was still wearing his Late Night attire by this point, albeit covered with a layer of dust around his shoulders{{< cite 14 >}}. The walkaround, however, had since been updated to the Cool Chuck variant. The only difference was the pants, which were a pair of jeans instead of the usual khaki shorts{{< cite 15 >}}.
+
+The last photo we have of the location before it closed is from July 1, 2009, several months before they closed. In said photo, we can see that the walkaround was wearing full Avenger attire, with the exception of his cap, which was still the red Cool Chuck cap{{< cite 16 >}}.
+
+### Closure
+
+In Fall 2009, shortly after the Scottsdale area was heavily affected by an economic hit in Arizona{{< cite 13 >}}, the location would relocate to {{< wiki-link "Goodyear, AZ (13371 West McDowell Rd)" >}}. Judging by Google Earth satellite imagery from November 20, the Goodyear location is shown to have cars in the newly built parking lot on the side of the building, while the Scottsdale location's parking lot is sitting completely empty{{< cite 17 >}}, which could indicate that the closure happened sometime in November. If this is the case, then the move had probably just happened, as the Thumb Chuck logo is shown to still be on the back of the building in the aerial pictures, though it would eventually be removed alongside the rest of the signage, excluding the awnings{{< cite 18 >}}. The interior would have most of the artwork and equipment torn out, with a few of the wall planters, stars, menu board and even the Studio C signage being left behind altogether{{< cite 12 >}}.
+
+At an unknown point after the store closed, the school located next to the building would begin using it for storage, though the building itself would be left pretty much the same until some point between June 21{{< cite 19 >}} and December 2022{{< cite 20 >}}, when the exterior of the building was repainted black and varying shades of brown. The heavily sun-faded entrance doors would also be repainted black. During this repaint, the awnings would be taken down, uncovering the upper row of windows that hadn't been seen since the building's days as Leaps & Bounds{{< cite 21 >}} and possibly Discovery Zone. On said row of windows, there is a sign reading "The Cool Place" on it. One YouTube comment said that it originated from Discovery Zone, but a reply to said comment states that its new{{< cite 22 >}}. Whether the sign originated from Discovery Zone or not remains unconfirmed. The interior would also have a few of the Chuck E. Cheese's remnants removed, that being a few parts of the Studio C stage, including the sign{{< cite 23 >}}. It's also logical to assume that the wall planters and stars were removed around this time frame as well, but the only videos showing the absence of either one or both of the two date back to 2023, leaving it up in the air{{< cite 24 >}} {{< cite 22 >}} {{< cite 13 >}}.
+
+As of January 2026, the building is still being used to store equipment from the school. The interior remains mostly the same as it has been since closure, with numerous remnants of Chuck E. Cheese's still being there, including but not limited to: The wall mouldings, wall border, entrance doors, artwork labelscars and most notably the Studio C Alpha stage. The exterior still retains the repaint it received in 2022 as well.

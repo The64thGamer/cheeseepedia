@@ -1,10 +1,10 @@
 +++
 
-title = "Chuck E. Cheese's Door Hanger (2010)"
+title = "Chuck E. Cheese's Door Hanger"
 draft = false
 tags = ["In-Store Merchandise"]
 categories = []
-startDate = ""
+startDate = "2010-00-00"
 endDate = ""
 contributors = ["StudioC"]
 citations = []

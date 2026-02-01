@@ -145,6 +145,9 @@
         <div id="section-article" class="article-section">
             {{- partial "display-infobox.html" . -}}
             {{- .Content | safeHTML}}
+            {{ if and .Params.segments (gt (len .Params.segments) 0) }}
+                {{ partial "tracklist.html" . }}
+            {{ end }}
             {{- partial "related-usage-table.html" . -}}
             {{- partial "display-citations.html" . -}}
         </div>

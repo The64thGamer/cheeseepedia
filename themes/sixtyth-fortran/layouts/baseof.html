@@ -6,8 +6,9 @@
   <header>
     {{- partialCached "header.html" . -}}
   </header>
-  <main>
-    {{- block "main" . -}}{{- end -}}
+  {{ partial "persistent-player.html" . }}
+  <main id="pjax-container">
+    {{ block "main" . }}{{ end }}
   </main>
   <footer>
     {{- partialCached "footer.html" . -}}

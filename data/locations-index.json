@@ -2061,7 +2061,7 @@
     {
       "page_get": "wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd",
       "page_path": "content/wiki/kowloon-tsim-sha-tsui-east-hong-kong-china-96-granville-rd",
-      "page_title": "Kowloon, Hong Kong, China",
+      "page_title": "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)",
       "parts": [
         "Balcony Stage",
         "1982-12-00",
@@ -13911,6 +13911,19 @@
         ""
       ],
       "sort": "20250925"
+    },
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Chuck E. Live Stage (Dance Floor)",
+        "2025-11-07",
+        "2025-12-00",
+        "2021 Model",
+        ""
+      ],
+      "sort": "20251107"
     }
   ],
   "stages|Circles of Light": [
@@ -19269,6 +19282,350 @@
         ""
       ],
       "sort": "20020000"
+    }
+  ],
+  "attractions|Mega Superhero Playground": [
+    {
+      "page_get": "wiki/st-charles-mo-2669-veterans-memorial-pkwy",
+      "page_path": "content/wiki/st-charles-mo-2669-veterans-memorial-pkwy",
+      "page_title": "St. Charles, MO (2669 Veterans Memorial Pkwy)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-00-00",
+        "",
+        ""
+      ],
+      "sort": "20250000"
+    },
+    {
+      "page_get": "wiki/brookfield-wi-19125-w-blue-mound-rd",
+      "page_path": "content/wiki/brookfield-wi-19125-w-blue-mound-rd",
+      "page_title": "Brookfield, WI (19125 W Blue Mound Rd)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-00-00",
+        "",
+        ""
+      ],
+      "sort": "20250000"
+    },
+    {
+      "page_get": "wiki/brandon-fl-1540-w-brandon-blvd",
+      "page_path": "content/wiki/brandon-fl-1540-w-brandon-blvd",
+      "page_title": "Brandon, FL (1540 W Brandon Blvd)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-07-00",
+        "",
+        "First Ever Installation"
+      ],
+      "sort": "20250700"
+    },
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2025-11-07",
+        "",
+        "First Adventure World Installation"
+      ],
+      "sort": "20251107"
+    },
+    {
+      "page_get": "wiki/bakersfield-ca-3760-ming-ave",
+      "page_path": "content/wiki/bakersfield-ca-3760-ming-ave",
+      "page_title": "Bakersfield, CA (3760 Ming Ave)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2026-00-00",
+        "",
+        ""
+      ],
+      "sort": "20260000"
+    },
+    {
+      "page_get": "wiki/augusta-ga-3435-wrightsboro-rd",
+      "page_path": "content/wiki/augusta-ga-3435-wrightsboro-rd",
+      "page_title": "Augusta, GA (3435 Wrightsboro Rd)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2026-00-00",
+        "",
+        ""
+      ],
+      "sort": "20260000"
+    }
+  ],
+  "attractions|Chuck E.'s Explorer Island": [
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Chuck E.'s Explorer Island",
+        "2025-11-07",
+        "",
+        "First Installation"
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "attractions|Ticket Blaster": [
+    {
+      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
+      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
+      "page_title": "Kansas City, MO (8809 State Line Rd)",
+      "parts": [
+        "Ticket Blaster",
+        "2024-00-00",
+        "2025-06-22",
+        "Seen in October '24, June '25"
+      ],
+      "sort": "20240000"
+    },
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Ticket Blaster",
+        "2025-11-07",
+        "",
+        ""
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "attractions|Skittles Remix": [
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Skittles Remix",
+        "2025-11-07",
+        "",
+        ""
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "attractions|Fantastic Prize": [
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Fantastic Prize",
+        "2025-11-07",
+        "",
+        "2 Units"
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "attractions|Funko Funcade": [
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Funko Funcade",
+        "2025-11-07",
+        "",
+        ""
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "attractions|Chuck E.'s Mega Claw": [
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Chuck E.'s Mega Claw",
+        "2025-11-07",
+        "",
+        ""
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "attractions|ToyBox XL": [
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "ToyBox XL",
+        "2025-11-07",
+        "",
+        "6 Units"
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "attractions|Marvel Adventure Lab": [
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Marvel Adventure Lab",
+        "2025-11-07",
+        "",
+        ""
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "attractions|Time Out": [
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Time Out",
+        "2025-11-07",
+        "",
+        ""
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Adventure World Game Pass Machine": [
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Chuck E. Cheese's Adventure World Game Pass Machine",
+        "2025-11-07",
+        "",
+        ""
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "stages|Video Wall": [
+    {
+      "page_get": "wiki/florence-ky-7635-mall-rd",
+      "page_path": "content/wiki/florence-ky-7635-mall-rd",
+      "page_title": "Florence, KY (7635 Mall Rd)",
+      "parts": [
+        "Video Wall",
+        "2022-04-00",
+        "",
+        ""
+      ],
+      "sort": "20220400"
+    },
+    {
+      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
+      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
+      "page_title": "Kansas City, MO (8809 State Line Rd)",
+      "parts": [
+        "Video Wall",
+        "2023-06-20",
+        "2026-01-06"
+      ],
+      "sort": "20230620"
+    },
+    {
+      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
+      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
+      "page_title": "Kansas City, MO (8809 State Line Rd)",
+      "parts": [
+        "Video Wall",
+        "2023-06-20",
+        "2024-06-30"
+      ],
+      "sort": "20230620"
+    },
+    {
+      "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
+      "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle",
+      "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
+      "parts": [
+        "Video Wall",
+        "2023-08-00",
+        "",
+        ""
+      ],
+      "sort": "20230800"
+    },
+    {
+      "page_get": "wiki/portage-mi-6175-s-westnedge-ave",
+      "page_path": "content/wiki/portage-mi-6175-s-westnedge-ave",
+      "page_title": "Portage, MI (6175 S Westnedge Ave)",
+      "parts": [
+        "Video Wall",
+        "2023-08-00",
+        "2025-09-07"
+      ],
+      "sort": "20230800"
+    },
+    {
+      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
+      "parts": [
+        "Video Wall",
+        "2024-04-09",
+        "",
+        ""
+      ],
+      "sort": "20240409"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Video Wall",
+        "2024-06-00",
+        "",
+        ""
+      ],
+      "sort": "20240600"
+    },
+    {
+      "page_get": "wiki/2025locationandsuch-copy-4",
+      "page_path": "content/wiki/2025locationandsuch-copy-4",
+      "page_title": "Huntington Beach, CA (15031 Goldenwest St)",
+      "parts": [
+        "Video Wall",
+        "2025-09-25",
+        ""
+      ],
+      "sort": "20250925"
+    },
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "Video Wall",
+        "2025-11-07",
+        "",
+        ""
+      ],
+      "sort": "20251107"
+    }
+  ],
+  "remodels|CEC Adventure World Standard Layout": [
+    {
+      "page_get": "wiki/arlington-tx-1536-w-interstate-20",
+      "page_path": "content/wiki/arlington-tx-1536-w-interstate-20",
+      "page_title": "Arlington, TX (1536 W Interstate 20)",
+      "parts": [
+        "CEC Adventure World Standard Layout",
+        "2025-11-07"
+      ],
+      "sort": "20251107"
     }
   ],
   "stages|Studio C Alpha": [
@@ -25669,6 +26026,18 @@
         "12 Lanes"
       ],
       "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Skee Ball",
+        "0000-00-00",
+        "2009-00-00",
+        "6 Units, Sent to Goodyear, AZ."
+      ],
+      "sort": "00000000"
     }
   ],
   "attractions|Bumper Cars": [
@@ -26266,6 +26635,16 @@
       "sort": "19980000"
     },
     {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "SPT 1990's Remodel Program",
+        "1999-09-00"
+      ],
+      "sort": "19990900"
+    },
+    {
       "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
@@ -26537,6 +26916,16 @@
       "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
       "page_path": "content/wiki/cincinnati-oh-8801-colerain-ave",
       "page_title": "Cincinnati, OH (8801 Colerain Ave)",
+      "parts": [
+        "Phase 3 (2000)",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
       "parts": [
         "Phase 3 (2000)",
         "0000-00-00"
@@ -26875,18 +27264,30 @@
       "sort": "19790500"
     }
   ],
-  "attractions|Football": [
+  "attractions|Atari Football": [
     {
       "page_get": "wiki/concord-ca-1975-diamond-blvd",
       "page_path": "content/wiki/concord-ca-1975-diamond-blvd",
       "page_title": "Concord, CA (1975 Diamond Blvd)",
       "parts": [
-        "Football",
+        "Atari Football",
         "1979-05-00",
         "0000-00-00",
         "Mentioned in building plans."
       ],
       "sort": "19790500"
+    },
+    {
+      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
+      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
+      "page_title": "Stockton, CA (4555 N Pershing Ave)",
+      "parts": [
+        "Atari Football",
+        "1979-10-00",
+        "0000-00-00",
+        "Seen at the opening."
+      ],
+      "sort": "19791000"
     }
   ],
   "attractions|'Game Tree'": [
@@ -27651,6 +28052,32 @@
         "2024-04-00"
       ],
       "sort": "20240400"
+    }
+  ],
+  "attractions|Super Fun by Chuck E. Cheese": [
+    {
+      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
+      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
+      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "parts": [
+        "Super Fun by Chuck E. Cheese",
+        "2025-00-00",
+        "",
+        ""
+      ],
+      "sort": "20250000"
+    },
+    {
+      "page_get": "wiki/bel-air-md-5-bel-air-south-pkwy",
+      "page_path": "content/wiki/bel-air-md-5-bel-air-south-pkwy",
+      "page_title": "Bel Air, MD (5 Bel Air South Pkwy)",
+      "parts": [
+        "Super Fun by Chuck E. Cheese",
+        "2026-00-00",
+        "",
+        ""
+      ],
+      "sort": "20260000"
     }
   ],
   "animatronics|Rolfe Dewolfe & Earl Schmerle (Animatronic)": [
@@ -29174,6 +29601,56 @@
       "sort": "19920908"
     }
   ],
+  "attractions|Trampoline Zone": [
+    {
+      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
+      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
+      "page_title": "Kansas City, MO (8809 State Line Rd)",
+      "parts": [
+        "Trampoline Zone",
+        "2024-00-00",
+        "2025-06-22",
+        "Seen in October '24, June '25, 3-Pad variant"
+      ],
+      "sort": "20240000"
+    },
+    {
+      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
+      "parts": [
+        "Trampoline Zone",
+        "2024-08-26",
+        "",
+        ""
+      ],
+      "sort": "20240826"
+    },
+    {
+      "page_get": "wiki/sharonville-oh-1429-e-kemper-rd",
+      "page_path": "content/wiki/sharonville-oh-1429-e-kemper-rd",
+      "page_title": "Sharonville, OH (1429 E Kemper Rd)",
+      "parts": [
+        "Trampoline Zone",
+        "2024-08-27",
+        "",
+        ""
+      ],
+      "sort": "20240827"
+    },
+    {
+      "page_get": "wiki/florence-ky-7635-mall-rd",
+      "page_path": "content/wiki/florence-ky-7635-mall-rd",
+      "page_title": "Florence, KY (7635 Mall Rd)",
+      "parts": [
+        "Trampoline Zone",
+        "2024-08-29",
+        "",
+        ""
+      ],
+      "sort": "20240829"
+    }
+  ],
   "remodels|CEC 2.0 Remodel Program": [
     {
       "page_get": "wiki/portage-mi-6175-s-westnedge-ave",
@@ -29566,20 +30043,6 @@
       "sort": "20240000"
     }
   ],
-  "attractions|Ticket Blaster": [
-    {
-      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
-      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
-      "page_title": "Kansas City, MO (8809 State Line Rd)",
-      "parts": [
-        "Ticket Blaster",
-        "2024-00-00",
-        "2025-06-22",
-        "Seen in October '24, June '25"
-      ],
-      "sort": "20240000"
-    }
-  ],
   "attractions|Duo Drive": [
     {
       "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
@@ -29590,20 +30053,6 @@
         "2024-00-00",
         "2025-06-22",
         "Seen in October '24, June '25"
-      ],
-      "sort": "20240000"
-    }
-  ],
-  "attractions|Trampoline Zone": [
-    {
-      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
-      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
-      "page_title": "Kansas City, MO (8809 State Line Rd)",
-      "parts": [
-        "Trampoline Zone",
-        "2024-00-00",
-        "2025-06-22",
-        "Seen in October '24, June '25, 3-Pad variant"
       ],
       "sort": "20240000"
     }
@@ -30200,100 +30649,6 @@
       "sort": "20250800"
     }
   ],
-  "stages|Video Wall": [
-    {
-      "page_get": "wiki/florence-ky-7635-mall-rd",
-      "page_path": "content/wiki/florence-ky-7635-mall-rd",
-      "page_title": "Florence, KY (7635 Mall Rd)",
-      "parts": [
-        "Video Wall",
-        "2022-04-00",
-        "",
-        ""
-      ],
-      "sort": "20220400"
-    },
-    {
-      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
-      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
-      "page_title": "Kansas City, MO (8809 State Line Rd)",
-      "parts": [
-        "Video Wall",
-        "2023-06-20",
-        "2026-01-06"
-      ],
-      "sort": "20230620"
-    },
-    {
-      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
-      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
-      "page_title": "Kansas City, MO (8809 State Line Rd)",
-      "parts": [
-        "Video Wall",
-        "2023-06-20",
-        "2024-06-30"
-      ],
-      "sort": "20230620"
-    },
-    {
-      "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
-      "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle",
-      "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
-      "parts": [
-        "Video Wall",
-        "2023-08-00",
-        "",
-        ""
-      ],
-      "sort": "20230800"
-    },
-    {
-      "page_get": "wiki/portage-mi-6175-s-westnedge-ave",
-      "page_path": "content/wiki/portage-mi-6175-s-westnedge-ave",
-      "page_title": "Portage, MI (6175 S Westnedge Ave)",
-      "parts": [
-        "Video Wall",
-        "2023-08-00",
-        "2025-09-07"
-      ],
-      "sort": "20230800"
-    },
-    {
-      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
-      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
-      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
-      "parts": [
-        "Video Wall",
-        "2024-04-09",
-        "",
-        ""
-      ],
-      "sort": "20240409"
-    },
-    {
-      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
-      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd",
-      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
-      "parts": [
-        "Video Wall",
-        "2024-06-00",
-        "",
-        ""
-      ],
-      "sort": "20240600"
-    },
-    {
-      "page_get": "wiki/2025locationandsuch-copy-4",
-      "page_path": "content/wiki/2025locationandsuch-copy-4",
-      "page_title": "Huntington Beach, CA (15031 Goldenwest St)",
-      "parts": [
-        "Video Wall",
-        "2025-09-25",
-        ""
-      ],
-      "sort": "20250925"
-    }
-  ],
   "remodels|Peter Piper Pizza 2.0 Remodel Program": [
     {
       "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
@@ -30400,6 +30755,19 @@
         "unknown"
       ],
       "sort": "19990329"
+    },
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Bird (Animatronic)",
+        "1999-09-00",
+        "2009-00-00",
+        "Unknown",
+        "Unknown."
+      ],
+      "sort": "19990900"
     },
     {
       "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
@@ -30700,6 +31068,19 @@
       "sort": "19990329"
     },
     {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Pizza Time Clock (Animatronic)",
+        "1999-09-00",
+        "2009-00-00",
+        "N/A",
+        "Sent to Goodyear, AZ"
+      ],
+      "sort": "19990900"
+    },
+    {
       "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
@@ -30752,6 +31133,19 @@
         "unknown"
       ],
       "sort": "19990329"
+    },
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Pizza Phone (Animatronic)",
+        "1999-09-00",
+        "2009-00-00",
+        "Unknown",
+        "Unknown."
+      ],
+      "sort": "19990900"
     },
     {
       "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
@@ -32012,6 +32406,19 @@
       "sort": "19980000"
     },
     {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese 32m (Animatronic)",
+        "1999-09-00",
+        "2009-00-00",
+        "053",
+        "Sent to Goodyear, AZ"
+      ],
+      "sort": "19990900"
+    },
+    {
       "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
@@ -32062,6 +32469,792 @@
         ""
       ],
       "sort": "00000000"
+    }
+  ],
+  "attractions|Cave Mania": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Cave Mania",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Shooting Hoops 2000": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Shooting Hoops 2000",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Spider Stompin": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Spider Stompin",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|High Tops": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "High Tops",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Skee Ball Too!": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Super Shot": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Super Shot",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Artic Thunder": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Artic Thunder",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Amutec Carousel": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Amutec Carousel",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Barney": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Barney",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Barrel Of Fun": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Barrel Of Fun",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Bozo II": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Bozo II",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Buzy Bee": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Buzy Bee",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|CEC Air Hockey": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "CEC Air Hockey",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|CEC Photo Ride": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "CEC Photo Ride",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Chuck E. Duckies": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Chuck E. Duckies",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Crazy Balloon": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Crazy Balloon",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Dino Dash": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Dino Dash",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Drum": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Drum",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Fish N Fun": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Fish N Fun",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Football Fury": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Football Fury",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Frantic Fred": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Frantic Fred",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Frantic Fred",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Frog Song": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Frog Song",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Frog Song",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Funny Clette": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Funny Clette",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|JR Bob Bulldozer": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "JR Bob Bulldozer",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Jurassic Park": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Jurassic Park",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Kids Whac": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Kids Whac",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Magical Truck": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Magical Truck",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Memory Match": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Chuck E. Cheese's Memory Match",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Paint Game": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Paint Game",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Penalty Shootout": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Penalty Shootout",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Ripper Ribbit": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Ripper Ribbit",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Robo Bop": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Robo Bop",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Speed Shifter": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Speed Shifter",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Star Wars": [
+    {
+      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
+      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
+      "page_title": "Stockton, CA (4555 N Pershing Ave)",
+      "parts": [
+        "Star Wars",
+        "0000-00-00",
+        "0000-00-00",
+        "Played by customer in late 80's, early 90's."
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Star Wars",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Strike Fighter": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Strike Fighter",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Tele Dome": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Tele Dome",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Toddler Sidewinder": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Toddler Sidewinder",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Toddler Whac": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Toddler Whac",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Top Glo Water": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Top Glo Water",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Total Eclipse": [
+    {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "Total Eclipse",
+        "0000-00-00",
+        "2006-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Total Eclipse",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Train": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Train",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Wave Runner": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Wave Runner",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Chatty Chuck E.": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Chatty Chuck E.",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Pop A Tac Toe": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Pop A Tac Toe",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Bill Changers": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Bill Changers",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Bill Changers",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Water": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Water",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Skytubes": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Skytubes",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skytubes",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
     }
   ],
   "stages|Unique 1-Stage": [
@@ -32123,6 +33316,161 @@
       "sort": "19930000"
     }
   ],
+  "attractions|Penalty Shoot Out": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Penalty Shoot Out",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Super Shot": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese's Super Shot",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Photo Ride (1997)": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese's Photo Ride (1997)",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Tik Tak Clock": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Tik Tak Clock",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Amutec Turbo Car": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Amutec Turbo Car",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Jungle Joggers": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Jungle Joggers",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Buzzy Buzzy Bee": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Buzzy Buzzy Bee",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "Buzzy Buzzy Bee",
+        "0000-00-00",
+        "2006-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Fetch The Vet": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Fetch The Vet",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Toddler Zone": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Toddler Zone",
+        "0000-00-00",
+        "2009-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Pizza Delivery": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese's Pizza Delivery",
+        "0000-00-00",
+        "2009-00-00",
+        "Sent to Goodyear, AZ."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Pow-Air Play": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese's Pow-Air Play",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
   "attractions|Aftershock": [
     {
       "page_get": "wiki/houston-tx-6760-antoine-dr",
@@ -32156,32 +33504,6 @@
       "page_title": "Houston, TX (6760 Antoine Dr)",
       "parts": [
         "Chuck E. Cheese's Grand Slam",
-        "0000-00-00",
-        "2006-00-00"
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Total Eclipse": [
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "Total Eclipse",
-        "0000-00-00",
-        "2006-00-00"
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Buzzy Buzzy Bee": [
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "Buzzy Buzzy Bee",
         "0000-00-00",
         "2006-00-00"
       ],
@@ -32292,6 +33614,32 @@
       "sort": "00000000"
     }
   ],
+  "attractions|Superhero Playground": [
+    {
+      "page_get": "wiki/florence-ky-7635-mall-rd",
+      "page_path": "content/wiki/florence-ky-7635-mall-rd",
+      "page_title": "Florence, KY (7635 Mall Rd)",
+      "parts": [
+        "Superhero Playground",
+        "2025-09-00",
+        "",
+        ""
+      ],
+      "sort": "20250900"
+    },
+    {
+      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
+      "parts": [
+        "Superhero Playground",
+        "2025-10-28",
+        "",
+        ""
+      ],
+      "sort": "20251028"
+    }
+  ],
   "stages|Rock-afire Explosion": [
     {
       "page_get": "wiki/lexington-ky-1555-new-circle-rd",
@@ -32303,20 +33651,6 @@
         "1991-11-00"
       ],
       "sort": "19831201"
-    }
-  ],
-  "attractions|Atari Football": [
-    {
-      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
-      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
-      "page_title": "Stockton, CA (4555 N Pershing Ave)",
-      "parts": [
-        "Atari Football",
-        "1979-10-00",
-        "0000-00-00",
-        "Seen at the opening."
-      ],
-      "sort": "19791000"
     }
   ],
   "attractions|Lunar Lander": [
@@ -32385,20 +33719,6 @@
         "0000-00-00",
         "0000-00-00",
         "Seen in December 1980."
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Star Wars": [
-    {
-      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
-      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
-      "page_title": "Stockton, CA (4555 N Pershing Ave)",
-      "parts": [
-        "Star Wars",
-        "0000-00-00",
-        "0000-00-00",
-        "Played by customer in late 80's, early 90's."
       ],
       "sort": "00000000"
     }

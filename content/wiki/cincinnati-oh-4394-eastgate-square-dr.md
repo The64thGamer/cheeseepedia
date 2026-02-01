@@ -9,7 +9,7 @@ contributors = ["CyberSnout"]
 citations = ["https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0", "https://www.youtube.com/watch?v=dt4U-J2kioQ", "https://www.youtube.com/watch?v=gncBc5Ru8Pw", "https://www.youtube.com/watch?v=tRZH6lOgSbw", "https://www.facebook.com/photo.php?fbid=1104755625678&set=a.1268012426996", "https://www.newspapers.com/article/the-cincinnati-enquirer/137691294/", "https://www.youtube.com/watch?v=uYbS8yvsuHU", "CEC Workday page", "https://www.instagram.com/explore/locations/1960685/chuck-e-cheese/recent/", "https://www.youtube.com/watch?v=_hR5M5f0KvY", "https://www.instagram.com/p/C5g1QN1JDhV/?img_index=1", "Internal CEC Document", "https://www.youtube.com/watch?v=bqldZsbOUEg", "https://youtube.com/shorts/forMwIdOiEk?si=y8vJxtgbv8hFU0Uq","Internal document"]
 storeNumber = "102"
 sqft = ""
-attractions = []
+attractions = ["Trampoline Zone|2024-08-26||","Superhero Playground|2025-10-28||"]
 animatronics = ["Mr. Munch (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown", "Jasper T. Jowls (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown", "Chuck E. Cheese (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown", "Guest Star / Helen Henny (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown", "Pasqually (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown", "Chuck E. Cheese 16m (Animatronic)|2005-00-00|2024-04-07|1106|Dismantled, thrown into dumpster"]
 franchisees = ["Bernstein Restaurant Group|1990-06-17|2008-08-25"]
 remodels = ["SPT 1980's Remodel Program|1990-06-17", "SPT 1990's Remodel Program|1998-00-00", "CEC 2000's Remodel Program|2005-11-00", "CEC 2.0 Remodel Program|2024-05-29"]
