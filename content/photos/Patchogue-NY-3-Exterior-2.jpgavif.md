@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Patchogue, NY (121 Sunrise Hwy)"]
 
 citations = []
 +++

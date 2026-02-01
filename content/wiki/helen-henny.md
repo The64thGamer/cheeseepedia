@@ -1,4 +1,5 @@
 +++
+
 title = "Helen Henny"
 draft = false
 tags = ["Characters"]
@@ -9,15 +10,15 @@ startDate = ""
 endDate = ""
 contributors = ["CECMentor","Animatronicbrainrot"]
 citations = []
+pageThumbnailFile = "Pw1fOEHLV3cVcDmZ45yM.avif"
 +++
-
 ***Helen Henny*** is one of the main characters of the Chuck E. Cheese's franchise, making her debut at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location in August 1977.
 
 ## History
 
 ### Pizza Time Theatre
 
-Initially, Helen was a guest star. She had long hair and played the guitar. Not much is known about the original version of the character, as we do not have access to her showtapes. It is possible she was similar to her second appearance, {{< wiki-link "Cabaret Helen Henny" >}}, who portrayed herself as a famous musician despite not being popular whatsoever.
+Initially, Helen was a guest star. She had long hair and played the guitar. Not much is known about the original version of the character, as we do not have access to her showtapes. It is possible she was similar to her second appearance, {{< wiki-link "Helen Henny (Lounge)" >}}, who portrayed herself as a famous musician despite not being popular whatsoever.
 
 #### Broadway
 

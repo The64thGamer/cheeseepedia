@@ -1,20 +1,51 @@
 +++
 title = "Citrus Heights, CA (7614 Greenback Lane)"
 storeNumber = ""
-startDate = "1980-01-00"
+startDate = "1979-12-26"
 endDate = "1984-00-00"
 cuDate = ""
-remodels = []
-stages = []
+remodels = ["PTT Standard Layout|1979-12-26"]
+stages = ["Portrait / Shelf Stage|1979-12-26|1984-00-00|1-Wall"]
 franchisees = []
-attractions = []
-sqft = ""
+attractions = ["Asteroids Deluxe|0000-00-00|0000-00-00|Seen in 1981 and used for Asteroids Tournament","Cheese Crawl|1979-12-26|0000-00-00|Seen in the opening and 1981","Red '12' AGIP Kiddie Ride|0000-00-00|0000-00-00|Seen in 1981.","Pizza Time Theatre Musical Ferris Wheel|1979-12-26|0000-00-00|Early head variant, seen at the opening.","Zaxxon|0000-00-00|1984-00-00|Bought in the auction.","Moon Lander|0000-00-00|1984-00-00|Bought in the auction.","Galaga (Cocktail)|0000-00-00|1984-00-00|Bought in the auction."]
+animatronics = ["Chuck E. Cheese (Cyberamic)|1979-12-26|1984-00-00|N/A|Bought by Sam Jognston of Land Park","Warblettes (Cyberamic)|1979-12-26|1984-00-00|N/A|Auctioned Off.","Guest Star / Helen Henny (Cyberamic)|1979-12-26|1984-00-00|N/A|Auctioned Off.","Mr. Munch (Cyberamic)|1979-12-26|1984-00-00|N/A|Bought by Sam Jognston of Land Park.","Pasqually (Cyberamic)|1979-12-26|1984-00-00|N/A|Bought by Sam Jognston of Land Park.","Jasper T. Jowls (Cyberamic)|1979-12-26|1984-00-00|N/A|Auctioned Off.","Dolli Dimples (Cyberamic)|1979-12-26|1984-00-00|N/A|Bought by Sam Jognston of Land Park.","Artie Antlers (Cyberamic)|1980-00-00|0000-00-00|N/A|Unknown.","Applause Board (Cyberamic)|1979-12-26|1984-00-00|N/A|Auctioned Off.","Drum Board (Cyberamic)|1979-12-26|1984-00-00|N/A|Auctioned Off.","Flag Wavers (Cyberamic)|1979-12-26|1984-00-00|N/A|Auctioned Off.","John / Woodie Bowzer (Cyberamic)|0000-00-00|1984-00-00|N/A|Bought by Bonnie Collins for the 'King Lion' restaurant.","George (Cyberamic)|0000-00-00|1984-00-00|N/A|Bought by Bonnie Collins for the 'King Lion' restaurant.","Paul (Cyberamic)|0000-00-00|1984-00-00|N/A|Bought by Bonnie Collins for the 'King Lion' restaurant.","Ringo (Cyberamic)|0000-00-00|1984-00-00|N/A|Bought by Bonnie Collins for the 'King Lion' restaurant."]
+sqft = "9450"
 latitudeLongitude = ["38.67651417","-121.2850559"]
-citations = []
-contributors = []
+citations = ["https://www.newspapers.com/article/the-sacramento-bee-citrus-heights-ptt-bu/185425651/","https://www.newspapers.com/article/the-sacramento-bee-citrus-heights-2/185429508/","https://www.newspapers.com/article/the-sacramento-union/180628403/","https://www.newspapers.com/article/the-sacramento-bee-sacramento-ptt-1-exte/182789700/","https://www.newspapers.com/article/the-sacramento-bee/52639257/","https://www.newspapers.com/article/the-sacramento-union/180628029/","https://www.newspapers.com/article/the-sacramento-bee-out-to-munch-pizza/169475840/","https://www.newspapers.com/article/the-sacramento-bee/96632011/","https://www.newspapers.com/article/the-sacramento-bee-free-buy-a-large-cok/160567796/","https://www.newspapers.com/article/auburn-journal/21696835/","https://www.newspapers.com/image/475448008/?clipping_id=32503497&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjQ3NTQ0ODAwOCwiaWF0IjoxNzY1NDg3NjEwLCJleHAiOjE3NjU1NzQwMTB9.16b5-HctOr5XiezyZ4sD6UBvCGLdZk_nJiCw87S55pw","https://www.newspapers.com/article/the-sacramento-bee/51972109/","https://www.newspapers.com/article/the-sacramento-bee/53182723/","https://www.newspapers.com/article/the-sacramento-bee/49665104/","https://www.newspapers.com/article/the-los-angeles-times/56695285/","https://www.newspapers.com/article/the-los-angeles-times/80376074/","https://www.newspapers.com/article/the-san-francisco-examiner-pleasanton-an/32793988/","https://www.newspapers.com/article/the-sacramento-union-citrus-heights-ptt/185426598/","https://www.newspapers.com/article/the-sacramento-bee/55002519/","https://www.newspapers.com/article/the-sacramento-bee/91294877/","https://www.newspapers.com/article/the-sacramento-bee-sacramento-jun-13-198/86367093/","https://www.newspapers.com/article/the-sacramento-union/185425875/","https://www.newspapers.com/image/621766600/?clipping_id=42660199&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjYyMTc2NjYwMCwiaWF0IjoxNzY1NDg5MzQwLCJleHAiOjE3NjU1NzU3NDB9.3H6d3yt9Plnja1Y7jXonhAHsHw1gkpfSSizpBmZyr1s","https://www.newspapers.com/article/the-press-tribune/81198476/","https://archive.org/details/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1/mode/2up?q=citrus+heights","https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/page/n3/mode/2up?q=Citrus+Heights","https://jpll.libraryhost.com/repositories/4/archival_objects/32107","https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-2/page/n3/mode/2up?q=citrus","https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-3/page/n5/mode/2up?q=citrus","https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1/page/n7/mode/2up?q=citrus","https://youtu.be/kTjiYIOs1pw","https://www.newspapers.com/image/622163886/?fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjYyMjE2Mzg4NiwiaWF0IjoxNzY1NTc5NzA5LCJleHAiOjE3NjU2NjYxMDl9.RTDlGdww49NH1yQS2PUCNOCArTvUyYtX6MkEHXhguUw&clipping_id=54166845","https://www.newspapers.com/article/the-sacramento-bee/44897508/"]
+contributors = ["The 64th Gamer"]
 downloadLinks = []
-pageThumbnailFile = "DMPozdbgE7niLpPqp5d3.avif"
+pageThumbnailFile = "s1jgpzu5tu2qqob6.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false
 +++
+***Citrus Heights, CA (7614 Greenback Lane)*** was the eighth Pizza Time Theatre that opened in Greenback Plaza on December 26th, 1979, and lasted until late 1984.
+
+## History
+
+### Pre-Opening
+
+The first mention of the location would be on July 28th, 1979, with the permit to sell alchohol. Notably the location was set for the incorrect address of 7620 Greenback Lane, which continued in further permit notices. On November 4th, 1979, a building permit for the location would be published.{{< cite 1 >}}
+
+In early December the store would be set for the same opening date as {{< wiki-link "Sparks, NV (530 Greenbrae Dr)" >}}, December 20th. The store's manager, Dave Wright, would note the store being the first in Northern California to have {{< wiki-link "Helen Henny (Lounge)" >}}, and a new configuration for the {{< wiki-link "Portrait / Shelf Stage" >}} that had all the characters on a singular wall. On December 23rd however it would be noted this was moved to December 26th. It would also note the location would have Dolli Dimples, 65 games, and a 350 seat capacity.{{< cite 2 >}}
+
+### Opening
+The location would open on December 26th, 1979. During the opening the Sacramento and Citrus Heights Little Miss Pageant winners would attend, alongside kids from the Sacramento Recieving Home, Citrus Heights Chamber Director Leo Pappas, and previous President of the Citrus Heights Chamber Diane Hazelroth. The opening would start with a 'Cheese Cutting Ceremony' by the Chuck Walkaround and guests right next to the Cheese Crawl. Due to the building not having its gas turned on by the city yet, pizzas were delivered from its sister store of {{< wiki-link "Sacramento (Florin Mall), CA (7020 Stockton Blvd)" >}}. Two days later it would begin putting out coupons for its opening month.{{< cite 3 >}} It would be the second and last location to open with the {{< wiki-link "Helen Henny (Lounge)" >}}, featuring an altered design and a simplified backdrop.
+
+A week after opening Sacramento's Channel 40 would do a Newsplus at 10 feature on Citrus Height's Cyberamics system.{{< cite 26 >}}
+
+### 1980's
+Around January of 1980 the walkaround from Citrus Heights would appear in pre-event news covereage of the upcoming the United Cerebral Palsy Telethon. It would also appear during the telethon handing out Chuck E. Bucks to the volunteers on the telephones.{{< cite 26 >}}{{< cite 27 >}} On February 24th, 1980, the location would participate with the {{< wiki-link "Sacramento (Florin Mall), CA (7020 Stockton Blvd)" >}} store on the "Say 'Cheese' with Chuck E.!" promotion. Customers with any purchase could get a free color photo with the Chuck E. Cheese walkaround, alongside a part in a drawing to win a Polaroid One-Step camera. The giveaway would happen between then and the 28th.{{< cite 4 >}}{{< cite 5 >}} In early 1980, the {{< wiki-link "Pizza Time Theatre 1980 Spot (Commercial)" >}} commercial would be filmed at the location.{{< cite 26 >}} In May of 1980 it would be announced the store was soon to recieve Artie Antlers. From October 6th through the 16th, 1980, the location would participate in the {{< wiki-link "1980 Roll for Multiple Sclerosis (Event)" >}} alongside all other stores.{{< cite 23 >}}
+
+During the first two weeks of August 1981 the store alongside many others would hold the {{< wiki-link "1981 Starcade Tournament (Event)" >}} to find participants for the upcoming Starcade TV show pilot.{{< cite 28 >}} Just after the contests, from August 24th through Setpember 3rd, 1981, the store would participate in the {{< wiki-link "1981 Play Asteroids and Benefit Muscular Dystrophy (Event)" >}}. In December of 1981 the store's walkaround would visit the children's wards of local hospitals.{{< cite 29 >}}
+
+Sometime around or before early 1982, the store would recieve The Beagles, alongside their Artie Antlers being swapped back to Dolli Dimples. On February 25th, 1982, it would be stated the location had 84 attractions, noting the company comes in every month to replace two old and unpopular games with new ones.{{< cite 32 >}}
+
+In March of 1983 PTT would note that the tech, George Wallace, had taken time out of his schedule to give a blind boy a touch tour of the games and Cyberamics. The kid was so excited to touch Chuck E. that George recieved a thank you letter from the boy in Braille.{{< cite 30 >}}
+
+Some time before closure the Beagles would convert to the Beach Bowzers.
+
+### Closure
+The location would close some time in late 1984, with its last direct mention outside of auctions being on June 13th.{{< cite 21 >}}It would later be noted the store had 80 arcade games by its closure.{{< cite 19 >}}
+
+On October 21, 1984, Citrus Heights would be listed in 74 locations set to be auctioned by the end of the year.{{< cite 15 >}} An update on November 18th would mark it as of the 58 locations going for sale on November 27th.{{< cite 16 >}} The location's items would be set for auction under Joes Presswood Company on January 12th, 1985, before rescheduling for January 10th.{{< cite 17 >}}{{< cite 18 >}} On the 10th, it would be reported that the Chuck Cyberamic sold for $250 to the Sacramento Land Park carnival operator Sam Johnston. He would also purchase Mr. Munch, Pasqually, and Dolli Dimples. He would have plans to use them in the Castle of Terror ride set to open in his park that year. Chuck would be planned to be converted into a ghost, while the others would not be overhauled.{{< cite 24 >}} Ray Reynolds of and Orangevale bar & grill called The Rambler purchased the pianobar for $150, alongsize the Zaxxon and Moon Lander arcades for $300 each. Pete Pon purchased a Helen Henny Cyberamic. Steve Somers bought a cocktail configured Galaga for $725.{{< cite 33 >}} The highest bid would be for the Beach Bowzers, which would sell for $1,900 to Bonnie Collins, who planned to reformat them as lions and start a new pizza restaurant, 'King Lion'. It would be noted seveal hundred people attended the auction.

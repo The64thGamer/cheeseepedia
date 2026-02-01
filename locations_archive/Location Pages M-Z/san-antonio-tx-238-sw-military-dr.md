@@ -4,7 +4,7 @@ title = "San Antonio, TX (238 SW Military Dr)"
 startDate = "1981-09-00"
 endDate = ""
 pageThumbnailFile = "83w3V6WytpF2SbwXPqb0.avif"
-contributors = ["ChuckECool", "Rexburg090", "BurgersNuggs445", "2600:4040:59F9:8000:88FB:E9C2:80B5:DF44", "CEC Tinley", "Stripes", "Gostapua210", "CECR995"]
+contributors = ["ChuckECool", "Rexburg090", "BurgersNuggs445", "Anonymous", "CEC Tinley", "Stripes", "Gostapua210", "CECR995"]
 citations = ["<a href=\"https://www.flickr.com/photos/ameart/2231209375\">https://www.flickr.com/photos/ameart/2231209375</a>"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]

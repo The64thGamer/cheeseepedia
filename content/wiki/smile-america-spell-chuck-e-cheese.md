@@ -1,5 +1,5 @@
 +++
-title = "Smile America. Spell Chuck E Cheese"
+title = "Smile America. Spell Chuck E. Cheese"
 draft = false
 tags = ["Events"]
 categories = ["Pizza Time Theatre"]
@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer"]
 citations = ["https://www.newspapers.com/image/899994060/?clipping_id=115040355&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg5OTk5NDA2MCwiaWF0IjoxNjcxNzU5Nzg4LCJleHAiOjE2NzE4NDYxODh9.Y7TKj4VSVA9bK1l-oRkL7v5lYxGrz-IT1nq0BiXcAIM&terms=spell&match=1https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-2/page/6/mode/2up?q=sweepstakes","https://www.newspapers.com/search/?query=%22Smile%20America%20Spell%20Chuck%20E%20Cheese%22"]
 pageThumbnailFile = "yn5QKP5V4JXiv_R0sUUf.avif"
 +++
-***Smile America. Spell Chuck E Cheese*** was a sweepstakes promotion game that ran at select {{< wiki-link "Pizza Time Theatre" >}} locations from June 6th to August 15th of 1983.
+***Smile America. Spell Chuck E. Cheese*** was a sweepstakes promotion game that ran at select {{< wiki-link "Pizza Time Theatre" >}} locations from June 6th to August 15th of 1983.
 
 ## Sweepstakes
 
@@ -19,7 +19,7 @@ No purchase was necessary to participate, though later in July 1983 a coupon wou
 ### Names
 
 The game sheet had multiple names that could be spelled to win. This is implied to be the main five characters, though it is unclear if other side characters and lounge/cabaret characters were included.
-It is also unknown the exact depictions of the names on the sheet needed to spell a character outside the confirmed 'Chuck E Cheese'. Shorter names like *Mr. Munch* were likely kept in full, but longer ones like *Jasper T. Jowls* may have had the middle initial removed.
+It is also unknown the exact depictions of the names on the sheet needed to spell a character outside the confirmed 'Chuck E. Cheese'. Shorter names like *Mr. Munch* were likely kept in full, but longer ones like *Jasper T. Jowls* may have had the middle initial removed.
 
 ### Prizes
 

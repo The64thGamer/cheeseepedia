@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 startDate = "1978-12-00"
 endDate = "1980-05-00"
-contributors = ["EagleScout610","PTT1977fan","RedaCEC","KPIZZA03","216.125.34.66","The 64th Gamer"]
+contributors = ["EagleScout610","PTT1977fan","RedaCEC","KPIZZA03","Anonymous","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "TSFsSpNkUIEaqiw2cOob.avif"
 +++
@@ -13,7 +13,7 @@ pageThumbnailFile = "TSFsSpNkUIEaqiw2cOob.avif"
 
 ## History
 
-After Kooser replaced their Portrait Show with the Balcony Stage, Munch and the other Portrait Bots, aside from {{< wiki-link "Kooser Chuck E Cheese (Animatronic)" >}}, which we have confirmation of, were presumably sent to Sunnyvale. After PTT vacated the building due to bankruptcy, Munch would, along with the rest of Kooser's animatronics would be considered lost, as none of their fates have been learned, although the most likely option is they were thrown away.
+After Kooser replaced their Portrait Show with the Balcony Stage, Munch and the other Portrait Bots, aside from {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}}, which we have confirmation of, were presumably sent to Sunnyvale. After PTT vacated the building due to bankruptcy, Munch would, along with the rest of Kooser's animatronics would be considered lost, as none of their fates have been learned, although the most likely option is they were thrown away.
 
 ## Design
 

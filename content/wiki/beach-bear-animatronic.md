@@ -4,7 +4,7 @@ title = "Beach Bear (Animatronic)"
 startDate = "1980-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "p9yMQXap3Aqioz4kv3x8.avif"
-contributors = ["The 64th Gamer", "2601:406:4100:F180:24E6:DD36:BF9D:8F3", "CEC Tinley", "Cy's Junk at School", "Animatronicbrainrot", "CECMentor", "Livelycheese", "Stripes"]
+contributors = ["The 64th Gamer", "Anonymous", "CEC Tinley", "Cy's Junk at School", "Animatronicbrainrot", "CECMentor", "Livelycheese", "Stripes"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/spp/spp_memos_84.pdf\">https://www.showbizpizza.com/info/documents/spp/spp_memos_84.pdf</a>"]
 manufacturer = "Creative Engineering"
 tags = ["Animatronics"]

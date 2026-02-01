@@ -1,0 +1,238 @@
+{{- /* Partial: PieChart.html (pie chart + legend outside) */ -}}
+
+{{ $id := .id | default (printf "piechart-%d" (now.UnixNano) ) }}
+{{ $json := .data | jsonify }}
+{{ $height := .height | default 320 }}
+{{ $width := .width | default 320 }}
+
+<div id="{{ $id }}-container" style="display:flex; flex-direction:row; align-items:flex-start; gap:12px; max-width:100%;">
+  <div id="{{ $id }}" class="hugochart-pie" role="img" aria-label="Pie chart"
+       data-chart='{{ $json | safeJS }}'
+       style="width:{{ $width }}px; height:{{ $height }}px;"></div>
+
+  <div id="{{ $id }}-legend" class="hugochart-legend" style="overflow:auto; max-height:{{ $height }}px;">
+    <!-- legend items inserted via JS -->
+  </div>
+</div>
+
+<script>
+(function(){
+  if (window.__hugochart_pie_inited === undefined) {
+    window.__hugochart_pie_inited = true;
+
+    function slug(s){ return String(s||"").toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,''); }
+
+    // helpers
+    function sumNumericArray(arr){
+      if(!Array.isArray(arr)) return 0;
+      var s = 0;
+      arr.forEach(function(v){
+        var n = (v == null || v === "" ? NaN : +v);
+        if(!isNaN(n)) s += n;
+      });
+      return s;
+    }
+
+    function parseDataForPie(data){
+      // returns: [{label, value}, ...]
+      var out = [];
+
+      if(!data || typeof data !== "object") return out;
+
+      // 1) data.series object (preferred)
+      if (data.series && typeof data.series === "object" && !Array.isArray(data.series)) {
+        Object.keys(data.series).forEach(function(k){
+          var v = data.series[k];
+          if (Array.isArray(v)) {
+            var s = sumNumericArray(v);
+            if (s > 0) out.push({label: k, value: s});
+          } else {
+            var n = (v == null || v === "" ? NaN : +v);
+            if (!isNaN(n) && n > 0) out.push({label: k, value: n});
+          }
+        });
+        return out;
+      }
+
+      // 2) labels + values arrays
+      if (Array.isArray(data.labels) && Array.isArray(data.values) && data.labels.length === data.values.length) {
+        for (var i=0;i<data.labels.length;i++){
+          var lab = data.labels[i];
+          var val = data.values[i];
+          var n = (val == null || val === "" ? NaN : +val);
+          if (!isNaN(n) && n > 0) out.push({label: String(lab), value: n});
+        }
+        return out;
+      }
+
+      // 3) root-level numeric properties (ignore years and arrays)
+      Object.keys(data).forEach(function(k){
+        if (k === "years" || k === "labels" || k === "values") return;
+        var v = data[k];
+        if (Array.isArray(v)) return; // skip arrays here
+        if (typeof v === "object") return;
+        var n = (v == null || v === "" ? NaN : +v);
+        if (!isNaN(n) && n > 0) out.push({label: k, value: n});
+      });
+
+      return out;
+    }
+
+    function polar(cx, cy, r, angle){
+      return { x: cx + (r * Math.cos(angle)), y: cy + (r * Math.sin(angle)) };
+    }
+
+    function describeSlice(cx, cy, r, startAngle, endAngle){
+      var start = polar(cx, cy, r, startAngle);
+      var end = polar(cx, cy, r, endAngle);
+      var largeArc = (endAngle - startAngle) > Math.PI ? 1 : 0;
+      // path draws wedge from center to start, arc to end, back to center
+      return "M " + cx + " " + cy + " L " + start.x + " " + start.y +
+             " A " + r + " " + r + " 0 " + largeArc + " 1 " + end.x + " " + end.y +
+             " Z";
+    }
+
+    function drawPie(container, opts){
+      var raw = container.getAttribute("data-chart");
+      if (!raw) return;
+      var data;
+      try { data = JSON.parse(raw); } catch(e){ console.error("pie: invalid data JSON", e); return; }
+
+      var w = opts.width || {{ $width }};
+      var h = opts.height || {{ $height }};
+      var padding = 8;
+      var cx = w/2;
+      var cy = h/2;
+      var radius = Math.min(w, h)/2 - padding - 2;
+
+      var items = parseDataForPie(data);
+      // sort descending for nice visuals
+      items.sort(function(a,b){ return b.value - a.value; });
+
+      var total = items.reduce(function(s,it){ return s + (isFinite(it.value)?it.value:0); }, 0);
+
+      var svgNS = "http://www.w3.org/2000/svg";
+      function el(name, attrs){ var e=document.createElementNS(svgNS,name); for(var k in (attrs||{})){ e.setAttribute(k,attrs[k]); } return e; }
+
+      var svg = el("svg", { viewBox: "0 0 "+w+" "+h, preserveAspectRatio: "xMidYMid meet", class: "hugochart-svg hugochart-pie-svg" });
+      svg.style.width = "100%";
+      svg.style.height = "auto";
+      container.innerHTML = "";
+      container.appendChild(svg);
+
+      var defs = el("defs", {});
+      svg.appendChild(defs);
+
+      var palette = [
+        "#6bffd3", "#ff6b6b", "#ff9f43", "#ffe66d", "#8dff6b", "#6b9fff", "#8d6bff",
+        "#ff7f00", "#ffff00", "#7fff00", "#00ff00", "#00ff7f", "#00ffff", "#007fff",
+        "#0000ff", "#7f00ff", "#ff00ff", "#ff007f", "#ff4500", "#ffd700", "#32cd32",
+        "#00fa9a", "#1e90ff", "#8a2be2", "#ff1493", "#ff6347", "#7cfc00", "#40e0d0",
+        "#6a5acd", "#ff69b4"
+      ];
+
+      if (total === 0 || items.length === 0){
+        // draw empty circle and "No data"
+        var bg = el("circle", {cx: cx, cy: cy, r: radius, class: "hugochart-pie-empty" });
+        bg.style.fill = "#f3f3f3";
+        bg.style.stroke = "#ddd";
+        svg.appendChild(bg);
+        var txt = el("text", { x: cx, y: cy, "text-anchor": "middle", "dominant-baseline": "middle", class: "hugochart-empty-label" });
+        txt.textContent = "No data";
+        svg.appendChild(txt);
+      } else {
+        var angle = -Math.PI/2; // start at top
+        items.forEach(function(it, idx){
+          var frac = (it.value / total);
+          var sliceAngle = frac * 2 * Math.PI;
+          var startAngle = angle;
+          var endAngle = angle + sliceAngle;
+          var pathD = describeSlice(cx, cy, radius, startAngle, endAngle);
+          var path = el("path", { d: pathD, "data-series": it.label, class: "hugochart-pie-slice series-" + slug(it.label) });
+          var color = palette[idx % palette.length];
+          path.style.fill = color;
+          path.style.stroke = "#ffffff";
+          path.style.strokeWidth = 1;
+          path.style.cursor = "default";
+          path.setAttribute("data-value", String(it.value));
+          path.setAttribute("data-percent", String(frac * 100));
+          svg.appendChild(path);
+
+          // optional small label anchored outside if slice is large enough
+          var midAngle = (startAngle + endAngle) / 2;
+          var labelRadius = radius * 0.7;
+          var pt = polar(cx, cy, labelRadius, midAngle);
+          if (frac >= 0.07) { // only place inline labels for >=7%
+            var t = el("text", { x: pt.x, y: pt.y, class: "hugochart-pie-inline-label", "text-anchor": "middle" });
+            t.textContent = Math.round(frac * 100) + "%";
+            svg.appendChild(t);
+          }
+
+          // attach simple hover tooltip using title
+          var titleNode = el("title", {});
+          titleNode.textContent = it.label + ": " + it.value + " (" + ( (it.value/total*100).toFixed(1) ) + "%)";
+          path.appendChild(titleNode);
+
+          angle = endAngle;
+        });
+
+        // center label (total)
+        var centerLabel = el("text", { x: cx, y: cy, "text-anchor": "middle", class: "hugochart-pie-center-label" });
+        centerLabel.textContent = total;
+        centerLabel.style.fontSize = Math.max(12, Math.round(radius * 0.2)) + "px";
+        centerLabel.style.fontWeight = "600";
+        svg.appendChild(centerLabel);
+      }
+
+      // LEGEND (outside container)
+      var legendDiv = document.getElementById(opts.containerId + "-legend");
+      if (legendDiv) {
+        legendDiv.innerHTML = "";
+        if (items.length === 0){
+          var empty = document.createElement("div");
+          empty.textContent = "No data";
+          legendDiv.appendChild(empty);
+        } else {
+          items.forEach(function(it, idx){
+            var item = document.createElement("div");
+            item.style.display = "flex";
+            item.style.alignItems = "center";
+            item.style.marginBottom = "6px";
+
+            var sw = document.createElement("div");
+            sw.style.width = "14px";
+            sw.style.height = "14px";
+            sw.style.backgroundColor = palette[idx % palette.length];
+            sw.style.marginRight = "8px";
+            sw.style.borderRadius = "2px";
+
+            var label = document.createElement("div");
+            label.style.flex = "1";
+            var pct = total > 0 ? (it.value/total*100).toFixed(1) + "%" : "0%";
+            label.textContent = it.label + " — " + it.value + " (" + pct + ")";
+
+            item.appendChild(sw);
+            item.appendChild(label);
+            legendDiv.appendChild(item);
+          });
+        }
+      }
+    }
+
+    function initAll(){
+      var nodes = document.querySelectorAll(".hugochart-pie");
+      nodes.forEach(function(node){
+        if(node.getAttribute("data-hugochart-rendered")) return;
+        try{
+          drawPie(node, { width: node.getAttribute("data-width") ? +node.getAttribute("data-width") : undefined,
+                           height: node.getAttribute("data-height") ? +node.getAttribute("data-height") : undefined,
+                           containerId: node.id });
+          node.setAttribute("data-hugochart-rendered","1");
+        }catch(err){ console.error("hugochart-pie init error:",err); }
+      });
+    }
+
+    if(document.readyState === "loading"){ document.addEventListener("DOMContentLoaded", initAll); } else { setTimeout(initAll, 0); }
+  }
+})();
+</script>

@@ -1,5 +1,5 @@
 +++
-title = "Chuck E. Cheese Legacy Summer Show 2025 "
+title = "Chuck E. Cheese Legacy Summer Show 2025"
 startDate = "2025-04-28"
 endDate = "2025-09-07"
 pageThumbnailFile = "summer2025.avif"
@@ -15,7 +15,7 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
 
 ## Show List 08/31 Update
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Zigazoo Star Showcase - 'Water Buffalo'
     2.  Harlem Globetrotters: 'Ways We Celebrate'
     3.  Blippi - 'Like Me’
@@ -27,9 +27,9 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
     9.  Chuck E. Cheese - 'Let's Be Friends'
     10.  Kidz Bop Kids - 'Si Antes Te Hubiera Conocdio'
     11. Chuck E. Cheese - 'Stay Positive' (ASL)
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'Song of Summer' (Replaced with Join the Party’ (2025)  at select locations)
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Join the Party' (2025) (Replaced with Song of Summer at select locations)
     2.  Kidz Bop Kids - 'Espresso'
     3.  Chuck E. & Friends - 'Out of This World'
@@ -43,9 +43,9 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
     11. NewJeans - 'Bubble Gum'
     12. Chuck E. & Friends - 'Ves Al Ratoncito'
     13. Chuck E. & Friends - 'Play All You Can Play'
-4.  **Skit 2**
+4. **Skit 2**
     1.  Jasper T. Jowls - 'Dog Days of Summer'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Kidz Bop Kids - 'Stargazing'
     2.  Helen Henny - 'Dream Big' (ASL)
     3.  Chuck E. & Helen - 'I Dare You Not to Laugh
@@ -77,7 +77,7 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
 
 ## Show List 08/25 Update
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Zigazoo Star Showcase - 'Water Buffalo'
     2.  Harlem Globetrotters: 'Ways We Celebrate'
     3.  Blippi - 'Like Me’
@@ -90,9 +90,9 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
     10.  Chuck E. Cheese - 'Let's Be Friends'
     11.  Kidz Bop Kids - 'Si Antes Te Hubiera Conocdio'
     12. Chuck E. Cheese - 'Stay Positive' (ASL)
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'Song of Summer' (Replaced with Join the Party’ (2025)  at select locations)
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Join the Party' (2025) (Replaced with Song of Summer at select locations)
     2.  Kidz Bop Kids - 'Espresso'
     3.  Chuck E. & Friends - 'Out of This World'
@@ -106,9 +106,9 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
     11. NewJeans - 'Bubble Gum'
     12. Chuck E. & Friends - 'Ves Al Ratoncito'
     13. Chuck E. & Friends - 'Play All You Can Play'
-4.  **Skit 2**
+4. **Skit 2**
     1.  Jasper T. Jowls - 'Dog Days of Summer'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Kidz Bop Kids - 'Stargazing'
     2.  Helen Henny - 'Dream Big' (ASL)
     3.  Chuck E. & Helen - 'I Dare You Not to Laugh
@@ -141,7 +141,7 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
 
 ## Show List 08/23 Update
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Zigazoo Star Showcase - 'DJ Munch Friendship Never Ends 2024'
     2.  Harlem Globetrotters: 'Ways We Celebrate'
     3.  Blippi - 'Like Me’
@@ -154,9 +154,9 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
     10.  Chuck E. Cheese - 'Let's Be Friends'
     11.  Kidz Bop Kids - 'Si Antes Te Hubiera Conocdio'
     12. Chuck E. Cheese - 'Stay Positive' (ASL)
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'Song of Summer' (Replaced with Join the Party’ (2025)  at select locations)
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Join the Party' (2025) (Replaced with Song of Summer at select locations)
     2.  Kidz Bop Kids - 'Espresso'
     3.  Chuck E. & Friends - 'Out of This World'
@@ -170,9 +170,9 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
     11. NewJeans - 'Bubble Gum'
     12. Chuck E. & Friends - 'Ves Al Ratoncito'
     13. Chuck E. & Friends - 'Play All You Can Play'
-4.  **Skit 2**
+4. **Skit 2**
     1.  Jasper T. Jowls - 'Dog Days of Summer'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Kidz Bop Kids - 'Stargazing'
     2.  Helen Henny - 'Dream Big' (ASL)
     3.  Chuck E. & Helen - 'I Dare You Not to Laugh
@@ -205,7 +205,7 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
 
 ## Show List 08/21 Update
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Zigazoo Star Showcase - 'DJ Munch Friendship Never Ends 2024'
     2.  Harlem Globetrotters: 'Ways We Celebrate'
     3.  Blippi - 'Like Me’
@@ -217,9 +217,9 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
     9.  Chuck E. Cheese - 'Let's Be Friends'
     10.  Kidz Bop Kids - 'Si Antes Te Hubiera Conocdio'
     11. Chuck E. Cheese - 'Stay Positive' (ASL)
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'Song of Summer' (Replaced with Join the Party’ (2025)  at select locations)
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Chuck E. & Friends - 'Join the Party' (2025) (Replaced with Song of Summer at select locations)
     2.  Kidz Bop Kids - 'Espresso'
     3.  Chuck E. & Friends - 'Out of This World'
@@ -233,9 +233,9 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
     11. NewJeans - 'Bubble Gum'
     12. Chuck E. & Friends - 'Ves Al Ratoncito'
     13. Chuck E. & Friends - 'Play All You Can Play'
-4.  **Skit 2**
+4. **Skit 2**
     1.  Jasper T. Jowls - 'Dog Days of Summer'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Kidz Bop Kids - 'Stargazing'
     2.  Helen Henny - 'Dream Big' (ASL)
     3.  Chuck E. & Helen - 'I Dare You Not to Laugh
@@ -1329,7 +1329,7 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
        6. Helen Henny - 'Dream Big'
        7. Helen Henny - 'Game On'
        8. Munch's Make Believe Band - 'Together We've Got It'
-       9. Chuck E Cheese - 'Rockin Robot'
+       9. Chuck E. Cheese - 'Rockin Robot'
 
 ## Show List:
 
@@ -1395,4 +1395,4 @@ The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and pl
 6. Helen Henny - 'Dream Big'
 7. Helen Henny - 'Game On'
 8. Munch's Make Believe Band - 'Together We've Got It'
-9. Chuck E Cheese - 'Rockin Robot'
+9. Chuck E. Cheese - 'Rockin Robot'

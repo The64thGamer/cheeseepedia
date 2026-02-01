@@ -9,14 +9,19 @@ contributors = ["Ceclife13"]
 **Chuck E., Munch and Jasper: (singing)**
 
 She loves you, yeah, yeah, yeah
+
 She loves you, yeah, yeah, yeah
+
 She loves you, yeah, yeah, yeah, yeah
 
 **Chuck E. and Jasper: (singing)**
 
 You think you've lost your love
+
 Well, I saw her yesterday
+
 It's you she's thinkin' of
+
 And she told me what to say
 
 **Chuck E. Cheese: (singing)**
@@ -26,11 +31,17 @@ She says she loves you
 **Chuck E. and Jasper: (singing)**
 
 And you know that can't be bad
+
 Yes, she loves you
+
 And you know you should be glad
+
 She said you hurt her so
+
 She almost lost her mind
+
 But now she says she knows
+
 You're not the hurtin' kind
 
 **Chuck E. Cheese: (singing)**
@@ -40,7 +51,9 @@ She says she loves you
 **Chuck E. and Jasper: (singing)**
 
 And you know that can't be bad
+
 Yes, she loves you
+
 And you know you should be glad
 
 **Chuck E., Helen and Jasper: (singing)**
@@ -50,19 +63,29 @@ Ooh
 **Chuck E., Munch and Jasper: (singing)**
 
 She loves you, yeah, yeah, yeah
+
 She loves you, yeah, yeah, yeah
 
 **Chuck E. and Jasper: (singing)**
 
 And with a love like that
+
 You know you should be glad
+
 You know it's up to you
+
 I think it's only fair
+
 Pride can hurt you, too
+
 Apologize to her
+
 Because she loves you
+
 And you know that can't be bad
+
 Yes, she loves you
+
 And you know you should be glad
 
 **Chuck E., Helen and Jasper: (singing)**
@@ -72,21 +95,29 @@ Ooh
 **Chuck E., Munch and Jasper: (singing)**
 
 She loves you, yeah, yeah, yeah
+
 She loves you, yeah, yeah, yeah
 
 **Chuck E. and Jasper: (singing)**
 
 With a love like that
+
 You know you should be glad
+
 And with a love like that
+
 You know you should be glad
+
 And with a love like that
+
 You know you should
 
 **Chuck E., Munch and Jasper: (singing)**
 
 Be glad
+
 Yeah, yeah, yeah
+
 Yeah, yeah, yeah
 
 **All: (singing)**

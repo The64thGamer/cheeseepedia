@@ -18,7 +18,7 @@ All characters were produced by {{< wiki-link "Fantasy Forest">}}, mainly by its
 
 ## Animatronics
 
-The {{< wiki-link "Chuck E Cheese Proof of Concept Prototype (Animatronic)">}} was initially built as a concept piece for the location, but was never intended to be used inside the building.
+The {{< wiki-link "Chuck E. Cheese Proof of Concept Prototype (Animatronic)">}} was initially built as a concept piece for the location, but was never intended to be used inside the building.
 The main animatronics and their locations were:
 
 - {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)">}} (South West Corner)

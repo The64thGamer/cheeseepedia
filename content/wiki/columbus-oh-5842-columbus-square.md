@@ -1,11 +1,11 @@
 +++
 title = "Columbus, OH (5842 Columbus Square)"
 storeNumber = ""
-startDate = "1982-00-00"
-endDate = "1991-12-00"
+startDate = "1982-01-00"
+endDate = "1991-11-00"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Balcony Stage|1982-01-00|0000-00-00|", "Chuck E.'s House Facade|0000-00-00|1991-11-00|"]
 franchisees = []
 attractions = []
 sqft = ""

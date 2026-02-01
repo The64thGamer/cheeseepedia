@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1978-00-00"
 endDate = "0000-00-00"
-contributors = ["EagleScout610","2600:6C60:0:4A97:C24:AA16:E41:40B","The 64th Gamer","KPIZZA03","BurgersNuggs445","SonicFazbear","2600:6C44:97F:D312:FD2A:F6C4:46CE:6792","208.103.68.197","PizzaEntertainmentFanX","CECMentor"]
+contributors = ["EagleScout610","Anonymous","The 64th Gamer","KPIZZA03","BurgersNuggs445","SonicFazbear","Anonymous","Anonymous","PizzaEntertainmentFanX","CECMentor"]
 citations = []
 pageThumbnailFile = "HMamk13CgBpSJ7Cuhi9e.avif"
 unitsProduced = "1"
@@ -18,7 +18,7 @@ The ***Winchester Crusty the Cat V2*** ***Animatronic*** was an animatronic crea
 
 ## History
 
-After the creation of the {{< wiki-link "Winchester Madam Oink (Animatronic)" >}} &amp; {{< wiki-link "Winchester Helen Henny (Animatronic)" >}}, PTT requested Fantasy Forest Manufacturing to update the Early {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)" >}} &amp; Crusty bots to have more movements. The bot was seen in an Australian broadcasting segment in 1979, which is the only footage of the bot at Winchester. Once the Winchester Blvd. location upgraded their show to standard {{< wiki-link "Cyberamics" >}} in 1981, The V2 Crusty bot was relocated to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}. Once Pizza Time Theatre went bankrupt, Paul Linden of SPT's Entertainment Department acquired the Crusty animatronic and was thought to be a prototype animatronic that never ended up in a location. In 2011 the Crusty animatronic was discovered once again and later bought by Travis Schafer in 2012. The bot is currently in storage in Travis Schafer's archive.
+After the creation of the {{< wiki-link "Winchester Madam Oink (Animatronic)" >}} &amp; {{< wiki-link "Winchester Helen Henny (Animatronic)" >}}, PTT requested Fantasy Forest Manufacturing to update the Early {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)" >}} &amp; Crusty bots to have more movements. The bot was seen in an Australian broadcasting segment in 1979, which is the only footage of the bot at Winchester. Once the Winchester Blvd. location upgraded their show to standard {{< wiki-link "Cyberamics" >}} in 1981, The V2 Crusty bot was relocated to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}. Once Pizza Time Theatre went bankrupt, Paul Linden of SPT's Entertainment Department acquired the Crusty animatronic and was thought to be a prototype animatronic that never ended up in a location. In 2011 the Crusty animatronic was discovered once again and later bought by Travis Schafer in 2012. The bot is currently in storage in Travis Schafer's archive.
 
 ## Cosmetic Design
 

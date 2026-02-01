@@ -1,0 +1,184 @@
+<div class="dropdown-area">
+{{- partialCached "display-dropdown-FEC.html" .Site -}}
+{{- partialCached "display-dropdown-manufacturer.html" .Site -}}
+{{- partialCached "display-dropdown-movie.html" .Site -}}
+</div>
+{{- $tagCategories := dict
+  "Animatronics & Walkarounds" (slice "Animatronic Shows" "Stage Variations" "Animatronics" "Retrofits" "Costumed Characters" "Animatronic Parts" "Animatronic Preservation")
+  "Showtapes" (slice "Showtapes" "Showtape Formats" "Live Shows" "Puppets" "Family Vision" "ShowBiz Pizza Programs")
+  "Products" (slice "In-Store Merchandise" "Products" "Menu Items" "Tokens" "Tickets" "Movies" "Video Games")
+  "Locations" (slice "Locations" "Cancelled Locations" "Arcades and Attractions" "Employee Wear" "Remodels and Initiatives" "Store Fixtures" "Ad Vehicles" )
+  "Hardware & Software" (slice "Animatronic Control Systems" "Other Systems" "Simulators" "Programming Systems"
+  "Animatronic Control Systems")
+  "Documents" (slice "Promotional Material" "Documents" "Corporate Documents")
+  "Media" (slice "Photos" "Videos" "News Footage" "Commercials" "Company Media")
+  "History" (slice "History" "Events" "Characters" "Social Media and Websites" "Companies/Brands")
+  -}}
+
+<div class="category-tags" id="category-all" style="display: block;">
+  {{- partial "list-all-tags.html" . -}}
+</div>
+
+{{- $categories := .Site.Taxonomies.categories -}}
+<div id="loadingTextb" style="visibility:visible; text-align:center; margin-top:1em; color:var(--yellow)">Loading. . .</div>
+<div id="tagsContainerb" style="visibility:hidden;">
+  {{- range $categoryName, $pages := $categories -}}
+    <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
+      {{- $tags := dict -}} <!-- Initialize a dictionary for tags -->
+      {{- range $pages -}}
+        {{- range .Params.tags -}}
+          {{- $tag := . -}}
+          {{- $count := index $tags $tag | default 0 -}}
+          {{- $tags = merge $tags (dict $tag (add $count 1)) -}}
+        {{- end -}}
+      {{- end -}}
+
+      {{- $categorizedTags := dict -}}
+      {{- $otherTags := dict -}}
+
+      <!-- Group tags into predefined categories -->
+      {{- range $tag, $count := $tags -}}
+        {{- $found := false -}}
+        {{- range $category, $categoryTags := $tagCategories -}}
+          {{- if in $categoryTags $tag -}}
+            {{- $categorizedTags = merge $categorizedTags (dict $category (merge (index $categorizedTags $category | default dict) (dict $tag $count))) -}}
+            {{- $found = true -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if not $found -}}
+          {{- $otherTags = merge $otherTags (dict $tag $count) -}}
+        {{- end -}}
+      {{- end -}}
+
+      <!-- Display grouped tags -->
+      <div class="tri-column">
+
+        <ul>
+          {{- range $category, $tags := $categorizedTags -}}
+          <div class="reg-column">
+            <strong>{{- $category -}}</strong>
+            <ul>
+              {{- range $tag, $count := $tags -}}
+                {{- $tagFix := $tag | replaceRE "[ &,-]" "-" | urlize -}}
+                <li>
+                  <a href="{{- "tags" | relLangURL -}}/{{ $tagFix }}" title="All pages with tag {{ $tag }}">
+                    {{- partial "emojify.html" $tag -}}
+                  </a>
+                  <sup>{{- $count -}}</sup>
+                </li>
+              {{- end -}}
+            </ul>
+            <hr>
+          </div>
+          {{- end -}}
+
+          <!-- Display 'Other' tags -->
+          {{- if gt (len $otherTags) 0 -}}
+          <div class="reg-column">
+            <strong>Other</strong>
+            <ul>
+              {{- range $tag, $count := $otherTags -}}
+                {{- $tagFix := $tag | replaceRE "[ &,-]" "-" | urlize -}}
+                <li>
+                  <a href="{{- "tags" | relLangURL -}}/{{ $tagFix }}" title="All pages with tag {{ $tag }}">
+                    {{- partial "emojify.html" $tag -}}
+                  </a>
+                  <sup>{{- $count -}}</sup>
+                </li>
+              {{- end -}}
+            </ul>
+            <hr>
+          </div>
+          {{- end -}}
+        </ul>
+      </div>
+    </div>
+  {{- end -}}
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var FECLoadValue = localStorage.getItem('selectedFEC');
+    var FEC = document.getElementById("FECSelect");
+    var MANULoadValue = localStorage.getItem('selectedManufacturer');
+    var MANU = document.getElementById("manufacturerSelect");
+    var MOVIELoadValue = localStorage.getItem('selectedMovie');
+    var MOVIE = document.getElementById("movieSelect");
+
+    if (FEC && FECLoadValue) {
+      FEC.value = FECLoadValue;
+    }
+    if (MANU && MANULoadValue) {
+      MANU.value = MANULoadValue;
+    }
+    if (MOVIE && MOVIELoadValue) {
+      MOVIE.value = MOVIELoadValue;
+    }
+
+    showCategoryTags();
+
+    var loading = document.getElementById("loadingTextb");
+    var tags = document.getElementById("tagsContainerb");
+    if (loading && tags) {
+      loading.style.visibility = "hidden";
+      tags.style.visibility = "visible";
+    }
+  });
+
+  function showCategoryTags(check) {
+    var selectedCategory = "all";
+    var FEC = document.getElementById("FECSelect");
+    var MANU = document.getElementById("manufacturerSelect");
+    var MOVIE = document.getElementById("movieSelect");
+
+    if (check == "FEC") {
+      selectedCategory = FEC.value;
+      document.getElementById("manufacturerSelect").value = "all";
+      document.getElementById("movieSelect").value = "all";
+      localStorage.setItem('selectedFEC', FEC.value);
+      localStorage.removeItem('selectedManufacturer');
+      localStorage.removeItem('selectedMovie');
+    } else if (check == "MANU") {
+      selectedCategory = MANU.value;
+      document.getElementById("FECSelect").value = "all";
+      document.getElementById("movieSelect").value = "all";
+      localStorage.setItem('selectedManufacturer', MANU.value);
+      localStorage.removeItem('selectedFEC');
+      localStorage.removeItem('selectedMovie');
+    } else if (check == "MOVIE") {
+      selectedCategory = MOVIE.value;
+      document.getElementById("FECSelect").value = "all";
+      document.getElementById("manufacturerSelect").value = "all";
+      localStorage.setItem('selectedMovie', MOVIE.value);
+      localStorage.removeItem('selectedFEC');
+      localStorage.removeItem('selectedManufacturer');
+    }
+
+    if (FEC && FEC.value != "all") {
+      selectedCategory = FEC.value;
+    }
+    if (MANU && MANU.value != "all") {
+      selectedCategory = MANU.value;
+    }
+    if (MOVIE && MOVIE.value != "all") {
+      selectedCategory = MOVIE.value;
+    }
+
+    var categories = document.getElementsByClassName("category-tags");
+    for (var i = 0; i < categories.length; i++) {
+      categories[i].style.display = "none";
+    }
+
+    var selectedDiv = document.getElementById("category-" + selectedCategory);
+    if (selectedDiv) {
+      selectedDiv.style.display = "block";
+    }
+
+    var loading = document.getElementById("loadingTextb");
+    var tags = document.getElementById("tagsContainerb");
+    if (loading && tags) {
+      loading.style.visibility = "hidden";
+      tags.style.visibility = "visible";
+    }
+  }
+</script>

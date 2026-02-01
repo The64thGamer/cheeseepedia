@@ -4,25 +4,26 @@ title = "January 2011 Show"
 startDate = "2011-01-00"
 endDate = "2011-04-00"
 pageThumbnailFile = "L_78QNChS6VU4XIOSgzJ.avif"
-contributors = ["The 64th Gamer", "Documentor", "Mousester", "2600:1012:B048:26A9:90B0:716A:6B8B:88A", "Ceclife13"]
+contributors = ["The 64th Gamer", "CyberSnout", "Mousester", "Anonymous", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/January%202011%20Studio%20C-002.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Annagrey Weichman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Munch's Mom", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator, Show Announcer", "Dave Wilson - Songwriter 'Dancin' In The Sun', 'On The Brightside'"]
+mediaDuration = "1:51:09"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/January%202011%20Studio%20C-002.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/January%202011%203-Stage-007.iso|3-Stage DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**January 2011** is the winter/spring show which released in January 2011 and featured eight new songs.
+**January 2011** was a showtape featuring eight new songs, which was released in January 2011 and played through the spring.
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  CEC TV ID - 'Blender'
     2.  Countdown 1
-2.  **Segment 1**
+2. **Segment 1**
     1.  ['Party in the U.S.A.'](https://en.wikipedia.org/wiki/Party_in_the_U.S.A.)
     2.  'Dancin' In The Sun'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Backstage Pass - 'Cody Simpson'
     2.  Fun Facts - 'Sound Travels Faster in Water'
     3.  CEC TV ID - 'Couch'
@@ -34,12 +35,12 @@ categories = ["Chuck E. Cheese's"]
     9.  Animal Atlas - 'Animal Passport'
     10.  Dive Olly Dive! - 'Uma Under The Weather'
     11. Chuggington - 'Badge Quest'
-    12. CEC TV ID - 'Chuck E. Skateboarding'
+    12. CEC TV ID - 'Skateboarding'
     13. Countdown 2
-4.  **Segment 2**
+4. **Segment 2**
     1.  ['Perfect Day'](https://en.wikipedia.org/wiki/Legally_Blonde_(soundtrack))
     2.  'Imagination'
-5.  **Intermission 2**
+5. **Intermission 2**
     1.  Fun Facts - 'Starfish Don't Have Brains'
     2.  CEC TV ID - 'Sunrise'
     3.  Wow Wow Wubbzy! - 'All Bottled Up'
@@ -50,10 +51,10 @@ categories = ["Chuck E. Cheese's"]
     8.  Shout! Factory Presents: 'Leave It To Beaver'
     9.  Fun Facts - 'Iguana'
     10.  Countdown 3
-6.  **Segment 3**
+6. **Segment 3**
     1.  ['1, 2, 3, 4'](https://en.wikipedia.org/wiki/1,_2,_3,_4_(Plain_White_T%27s_song))
     2.  'Cleaning Up My Room'
-7.  **Intermission 3**
+7. **Intermission 3**
     1.  CEC TV ID - 'Janitor'
     2.  Yo Gabba Gabba! - 'Cool Tricks' 
     3.  The Zone - 'Motocross'
@@ -65,10 +66,10 @@ categories = ["Chuck E. Cheese's"]
     9.  Sound Splosion: Caspar Babypants - 'Googly Eyes'
     10. VeggieTales - 'The Pirates Who Don't Do Anything'
     11. Countdown 4
-8.  **Segment 4**
+8. **Segment 4**
     1.  ['Perfect Day'](https://en.wikipedia.org/wiki/Baby_(Justin_Bieber_song))
     2.  'On The Brightside'
-9.  **Intermission 4**
+9. **Intermission 4**
     1.  CEC TV ID - 'Pizza Parachute'
     2.  Trivia - 'Giant Pandas'
     3.  Animal Atlas - 'Animal Passport'
@@ -79,7 +80,7 @@ categories = ["Chuck E. Cheese's"]
     7.  Wow Wow Wubbzy! - 'All Bottled Up' 
     8.  The Zone - 'Downhill Skier'
  
-## Lives
+## Live Shows
 
 - Birthday 2009
 - Spanish Birthday 2010

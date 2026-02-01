@@ -1,0 +1,17 @@
+<html>
+<head>
+  {{- partial "head.html" . -}}
+</head>
+<body>
+  <header>
+    {{- partialCached "header.html" . -}}
+  </header>
+  {{ partial "persistent-player.html" . }}
+  <main id="pjax-container">
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer>
+    {{- partialCached "footer.html" . -}}
+  </footer>
+</body>
+</html>

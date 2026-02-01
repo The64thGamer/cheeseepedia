@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2019-09-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","Himitsu"]
+contributors = ["CyberSnout","Himitsu"]
 citations = []
 pageThumbnailFile = "xSP51dK6U6E44omiDZsT.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]
@@ -15,31 +15,31 @@ Featuring a variety of songs released from 2014-2019. This show features 6 Songs
 
 ## Show List:
 
-1.  **Skit 1**
+1. **Skit 1**
     1.  Chuck E., Munch, & Bella B. - 'Play All You Can Play'
-2.  **Intermission 1**
+2. **Intermission 1**
     1.  Universal Kids - 'Waldo'
     2.  Kabillion - 'Barbie'
     3.  Countdown - 'Is It Love'
-3.  **Skit 2**
+3. **Skit 2**
     1.  Pasqually - 'Cat Sitting'
-4.  **Intermission 2**
+4. **Intermission 2**
     1.  Chuck E. Cheese YouTube Promo
     2.  BTS - 'Lights'
     3.  1 Min Countdown
-5.  **Skit 3**
+5. **Skit 3**
     1.  Chuck E. & Friends - 'Friendship Never Ends'
-6.  **Intermission 3**
+6. **Intermission 3**
     1.  Universal Kids - 'Norman Pickle Stripes'
     2.  Jax Jones - 'Years & Years'
     3.  Kabillion - 'Oddbods'
-7.  **Skit 4**
+7. **Skit 4**
     1.  Helen & Bella B. - 'Bailando'
-8.  **Intermission 4**
+8. **Intermission 4**
     1.  Kabillion - 'Barbie Draw My Life'
     2.  Unicorn!, Unicorn!, Unicorn!
     3.  X Ambassadors - 'Boom'
-9.  **Skit 5**
+9. **Skit 5**
     1.  Chuck E. & Friends - 'My Family'
 10. **Intermission 5**
     1.  Universal Kids - 'Norman Pickle Stripes'

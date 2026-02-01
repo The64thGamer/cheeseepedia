@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Kokomo, IN (1919 South Reed Rd)"]
 
 citations = []
 +++

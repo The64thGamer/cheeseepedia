@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2021-11-15"
 endDate = "0000-00-00"
-contributors = ["Documentor","ShowBiz Pizza International"]
+contributors = ["CyberSnout","ShowBiz Pizza International"]
 citations = []
 pageThumbnailFile = "d1EpVQsJE3ZTiIqUOTpM.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]
@@ -15,31 +15,31 @@ This show features 7 Songs with 2 of which being new and a live show called Chuc
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  English Safety Message
     2.  Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
     3.  Disney Channel Stars - "Put the Happy in the Holidays"
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - "The Holiday Party"
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Winter Winner-Land Menu Spot
     2.  HiDino - "The Snow Song"
     3.  Winter Winner-land Filling Screens
-4.  **Skit 2**
+4. **Skit 2**
     1.  Helen Henny - "All I Want for Christmas is Snow"
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Spanish Safety Message
     2.  Holiday Musing with Mr. Munch
     3.  Ella Fitzgerald - "Frosty the Snowman"
-6.  **Skit 3**
+6. **Skit 3**
     1.  Bella B. & Chuck E. - "Holiday Fiesta"
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
     2.  KIDZ BOP Kids - "Let It Snow"
     3.  Tails of Friendship - "Munch's first Christmas"
-8.  **Skit 4**
+8. **Skit 4**
     1.  Munch & Munch - "The Windowsill"
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  English Safety Message
     2.  Brady Rhymer - "Hanukkah Rocks"
     3.  Idina Menzel - "We Wish You the Merriest"

@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Swiss Cheese Coin Bank (1983)"]
 
 citations = []
 +++

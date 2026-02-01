@@ -1,0 +1,86 @@
+{{- $allowedSections := slice "meta" "reviews" "transcriptions" "users" "wiki" -}}
+
+{{- $pagesWithGitInfo := where site.RegularPages "GitInfo" "ne" nil -}}
+{{- $filteredPages := where $pagesWithGitInfo "Section" "in" $allowedSections -}}
+{{- $sortedPages := sort $filteredPages "GitInfo.AuthorDate" "desc" -}}
+{{- $latestPages := first 30 $sortedPages -}}
+
+
+<aside>
+    <div class="tri-column">
+
+        <ul id="recent-changes-list">
+            {{- range $latestPages -}}
+            <li class="recent-item"
+                data-updated="{{ .GitInfo.AuthorDate.Format "2006-01-02T15:04:05Z07:00" }}">
+                <a href="{{ .RelPermalink }}">
+                {{- with .Params.Tags -}}
+                    {{- partial "emojijustemoji.html" . -}}{{- " " -}}
+                {{- end -}}
+                {{- with .LinkTitle -}}
+                    {{ . | safeHTML }}
+                {{- else -}}
+                    {{ .Title | safeHTML }}
+                {{- end -}}
+                </a>
+            </li>
+            {{- end -}}
+        </ul>
+    </div>
+</aside>
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const list = document.getElementById("recent-changes-list");
+  if (!list) return;
+
+  const items = Array.from(list.querySelectorAll(".recent-item"));
+
+  const groups = new Map();
+
+  function relativeLabel(date) {
+    const now = new Date();
+    const diffMs = now - date;
+    const mins = Math.round(diffMs / 60000);
+    const hrs  = Math.round(mins / 60);
+    const days = Math.round(hrs / 24);
+
+    if (mins < 1) return "Just now";
+    if (mins < 60) return `${mins} minute${mins === 1 ? "" : "s"} ago`;
+    if (hrs < 24) return `${hrs} hour${hrs === 1 ? "" : "s"} ago`;
+    return `${days} day${days === 1 ? "" : "s"} ago`;
+  }
+
+  items.forEach(item => {
+    const iso = item.dataset.updated;
+    if (!iso) return;
+
+    const date = new Date(iso);
+    if (isNaN(date)) return;
+
+    const label = relativeLabel(date);
+
+    if (!groups.has(label)) {
+      groups.set(label, []);
+    }
+    groups.get(label).push(item);
+  });
+
+  // Clear original list
+  list.innerHTML = "";
+
+  // Rebuild grouped structure
+  for (const [label, entries] of groups.entries()) {
+    const header = document.createElement("li");
+    header.className = "recent-group-header";
+    header.textContent = "📝 " + label;
+
+    const sublist = document.createElement("ul");
+    sublist.className = "recent-group";
+
+    entries.forEach(el => sublist.appendChild(el));
+
+    list.appendChild(header);
+    list.appendChild(sublist);
+  }
+});
+</script>

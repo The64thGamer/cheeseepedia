@@ -4,9 +4,10 @@ title = "Chuck E's Holiday Party 2008"
 startDate = "2008-12-00"
 endDate = "2008-12-00"
 pageThumbnailFile = "J6XWHPOYJ_ciVKSfwCIt.avif"
-contributors = ["The 64th Gamer", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D", "Dame", "Documentor", "AstridMascotFan2005", "Ceclife13"]
+contributors = ["The 64th Gamer", "Anonymous", "Dame", "CyberSnout", "AstridMascotFan2005", "Ceclife13"]
 citations = ["https://archive.org/download/cyberamics_post_93_dvd_signals/December%202008%20CEC-stage-003.iso"]
 credits = ["Robert Gotcher: Director", "Michael Hill: Studio Coordinator", "Ryan Hollingsworth: Production Specialist"]
+mediaDuration = "50:22"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_dvd_signals/December%202008%20CEC-stage-003.iso|CEC-Stage DVD ISO w/ Signals"]
 tags = ["Showtapes"]
@@ -25,14 +26,14 @@ categories = ["Chuck E. Cheese's"]
     2.  'Feliz Navidad'
 4.  Intermission 2
     1.  Coke Spot
-    2.  Chuck E Cheese's Classic Theatre: 'A Christmas Carol'
+    2.  Chuck E. Cheese's Classic Theatre: 'A Christmas Carol'
     3.  Countdown (1995 Holiday footage)
 5.  Segment 3
-    1.  'Twelve Days Of Christmas'
-    2.  'The Dradle Song'
+    1.  '12 Days of Christmas'
+    2.  'Dreidal Song'
 6.  Intermission 3
     1.  VeggieTales - 'Oh Santa'
-    2.  Baking With Betty
+    2.  Baking With Betty - 'Potato Latkes'
 7.  Segment 4
     1.  'Big Band Santa'
     2.  'Jingle Bells' / 'Deck the Halls' / 'We Wish You A Merry Christmas'

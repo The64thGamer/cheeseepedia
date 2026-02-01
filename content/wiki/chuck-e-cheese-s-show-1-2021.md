@@ -5,39 +5,39 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2021-01-04"
 endDate = "2021-05-30"
-contributors = ["Documentor","Himitsu","The 64th Gamer","Dame868","Ceclife13"]
+contributors = ["CyberSnout","Himitsu","The 64th Gamer","Dame868","Ceclife13"]
 citations = []
 pageThumbnailFile = "pDoTnmwzLrYeUjaApJNj.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
 ***Show 1 2021* also known as the 'Evergreen show' is the generic show released January 4, 2021 featuring a variety of songs released from 2016-2020
-This was created with the idea to play between promotional events. This show features 8 Songs. 7 Reused and 1 new. Originally played January 4, 2021 - February 28, 2021 then after {{< wiki-link "Chuck E Cheese's Show 2 2021" >}} played again from April 26, 2021 - May 30, 2021.**
+This was created with the idea to play between promotional events. This show features 8 Songs. 7 Reused and 1 new. Originally played January 4, 2021 - February 28, 2021 then after {{< wiki-link "Chuck E. Cheese's Show 2 2021" >}} played again from April 26, 2021 - May 30, 2021.**
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Social Distancing Safety Message
     2.  Juicebox Jukebox - "The ABC's of You"
     3.  KIDZ BOP Kids - "Say So"
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese - "Another Chuck E. Day"
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Katy Perry - "Never Really Over"
     2.  Ben Rudnick  - "I Got a New Friend"
-4.  **Skit 2**
+4. **Skit 2**
     1.  Chuck E. & Friends - "Ves Al Ratoncito"
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Social Distancing Safety Message
     2.  The Whizpops! - "Sea Turtle"
     3.  KIDZ BOP Kids - "The Git Up"
-6.  **Skit 3**
+6. **Skit 3**
     1.  Jasper T. Jowls - "The Tail of Jasper T."
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Zedd, Maren Morris, Grey - "The Middle"
     2.  Jokes from Pasqually - "Anchor"
-8.  **Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese - 'Lend a Helping Hand'
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  Social Distancing Safety Message
     2.  Juicebox Jukebox - "Clean it Up"
     3.  KIDZ BOP Kids - "Blinding Lights"

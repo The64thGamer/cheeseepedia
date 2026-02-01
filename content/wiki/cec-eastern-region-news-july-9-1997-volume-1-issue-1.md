@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer"]
 citations = [" [](https://www.ebay.com/itm/296217019958?)"]
 pageThumbnailFile = "V1mAmJW0QTm2ZMuVZfB4.avif"
 +++
-***CEC Eastern Region News - Volume 1, Issue 1* is a 5 page in-store {{< wiki-link "Chuck E Cheese's" >}} newsletter for Eastern region stores released on July 9, 1997.
+***CEC Eastern Region News - Volume 1, Issue 1* is a 5 page in-store {{< wiki-link "Chuck E. Cheese's" >}} newsletter for Eastern region stores released on July 9, 1997.
 It isunknown if further issues were to come out after this was published; or if there was a Western region counterpart newsletter.**
 
 ## History

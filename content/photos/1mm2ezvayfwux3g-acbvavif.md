@@ -4,6 +4,6 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "2017-05-19"
 +++
 Colerain during the 40th Anniversary Party. Featuring 40th Balloons. Also note in the photos Chuck has 'suspenders' as they put the shorts on before the shirt. (May 19, 2017)

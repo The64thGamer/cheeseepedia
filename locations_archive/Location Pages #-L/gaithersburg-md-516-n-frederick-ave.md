@@ -17,13 +17,13 @@ latitudeLongitude = ["39.14609897","-77.21015943"]
 
 ## Stages
 
-Gaithersburg had a Balcony Stage at first. However, not much documentation exists on the stage. It is currently unknown if they had {{< wiki-link "Chuck E's House Facade" >}}, but it is likely they did. They later got a {{< wiki-link "Cyberamics Road Stage" >}} in 1991/1992. It didn't last long as well, because they received a {{< wiki-link "2-Stage" >}} in the Mid '90s. They later received a {{< wiki-link "Studio C Beta" >}}, 16m during the 2005 remodel. It lasted up until the 2020 closure.
+Gaithersburg had a Balcony Stage at first. However, not much documentation exists on the stage. It is currently unknown if they had {{< wiki-link "Chuck E's House Facade" >}}, but it is likely they did. They later got a {{< wiki-link "Road Stage" >}} in 1991/1992. It didn't last long as well, because they received a {{< wiki-link "2-Stage" >}} in the Mid '90s. They later received a {{< wiki-link "Studio C Beta" >}}, 16m during the 2005 remodel. It lasted up until the 2020 closure.
 
 | Stage                                              | Installed  | Removed   |
 |----------------------------------------------------|------------|-----------|
 | {{< wiki-link "Cyberamics Balcony Stage" >}} | March 1983 | 1989/1990 |
 | {{< wiki-link "Chuck E's House Facade" >}}   | 1989/1990  | 1991/1992 |
-| {{< wiki-link "Cyberamics Road Stage" >}}    | 1991/1992  | 1994/1995 |
+| {{< wiki-link "Road Stage" >}}    | 1991/1992  | 1994/1995 |
 | {{< wiki-link "2-Stage" >}}                  | 1994/1995  | Late 2005 |
 | {{< wiki-link "Studio C Beta" >}}, 16m       | Late 2005  | June 2020 |
 

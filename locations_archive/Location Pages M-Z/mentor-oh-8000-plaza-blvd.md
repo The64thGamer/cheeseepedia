@@ -4,7 +4,7 @@ title = "Mentor, OH (8000 Plaza Blvd)"
 startDate = "1998-07-20"
 endDate = ""
 pageThumbnailFile = "ISLf7GdPkHe1AsywwYMq.avif"
-contributors = ["EagleScout610", "Documentor", "Rexburg090", "ChuckECool", "CEC Tinley", "ThatBoiCydalan", "Estsproduction", "CECMentor", "AstridMascotFan2005", "Destinationimagination95", "smileshy22"]
+contributors = ["EagleScout610", "CyberSnout", "Rexburg090", "ChuckECool", "CEC Tinley", "ThatBoiCydalan", "Estsproduction", "CECMentor", "AstridMascotFan2005", "Destinationimagination95", "smileshy22"]
 citations = ["<a href=\"https://www.instagram.com/ohio_cec_mentor/\"> An account</a> ran from 2016 to 2018 by Mentors employees, showcasing multiple games, the animatronics, and backstage photos."]
 latitudeLongitude = ["41.6522557", "-81.36784758"]
 tags = ["Locations"]

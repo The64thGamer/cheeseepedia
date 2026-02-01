@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-06-15"
 endDate = ""
-contributors = ["AnimatronicStudios","The 64th Gamer","CECBowlingGreen","RedaCEC","Emcaacme","Rexburg090","SuperCreamPiper2008","ChuckEPediaIsTheBest!","ChuckECool","47.17.236.200","9Lol92","CoolerDude","Retro melon og","Caydenpedia"]
+contributors = ["AnimatronicStudios","The 64th Gamer","CECBowlingGreen","RedaCEC","Emcaacme","Rexburg090","SuperCreamPiper2008","ChuckEPediaIsTheBest!","ChuckECool","Anonymous","9Lol92","CoolerDude","Retro melon og","Caydenpedia"]
 citations = ["<a href=\"https://davidsoncountysource.com/newly-remodeled-chuck-e-cheese-in-madison-celebrates-grand-reopening/\">https://davidsoncountysource.com/newly-remodeled-chuck-e-cheese-in-madison-celebrates-grand-reopening/</a>"]
 latitudeLongitude = ["36.30245777","-86.69446438"]
 +++

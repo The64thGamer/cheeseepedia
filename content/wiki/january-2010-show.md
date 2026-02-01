@@ -2,11 +2,12 @@
 draft = false
 title = "January 2010 Show"
 startDate = "2010-01-00"
-endDate = "2010-4-00"
+endDate = "2010-3-00"
 pageThumbnailFile = "H9SFBO59Zvmz6IQcWq8X.avif"
-contributors = ["The 64th Gamer", "Documentor", "Bullseye123", "Ceclife13", "66.220.208.40", "68.115.107.230", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
+contributors = ["The 64th Gamer", "CyberSnout", "Bullseye123", "Ceclife13", "Anonymous", "Anonymous", "Anonymous"]
 citations = ["http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-01.pdf"]
 credits = ["Robert Gotcher: Director", "Michael Hill: Studio Coordinator", "Ryan Hollingsworth: Production Specialist"]
+mediaDuration = "58:02"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/January%202010%203-Stage-008.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/January%202010%20Studio%20C-004.iso|Studio C DVD 1 & 2 ISO"]
 tags = ["Showtapes"]
@@ -17,7 +18,7 @@ This played from January to April 2010.
 
 ## Cyberstar 2.00 Update for Studio C
 
-This update created contained a provision for initiating an alternate show schedule at a pre-defined time during the day. From the time the show is started until the pre-determined 'swap' time, (Which would be managed by the Entertainment Department) the controller will play shows from the primary schedule. After the 'swap' time has passed, the controller will revert to playing shows from the alternate schedule.{{< cite 1 >}}
+This update contained a provision for initiating an alternate show schedule at a pre-defined time during the day. From the time the show is started until the pre-determined 'swap' time (Which would be managed by the Entertainment Department), the controller will play shows from the primary schedule. After the 'swap' time has passed, the controller will revert to playing shows from the alternate schedule.{{< cite 1 >}}
 
 ## Studio C AM Schedule
 
@@ -54,7 +55,7 @@ This update created contained a provision for initiating an alternate show sched
     2.  Singing Cowboy
     3.  Coke Spot
     4.  Trivia
-    5.  CEC TV ID - 'Chuck E. Skateboarding'
+    5.  CEC TV ID - 'Skateboarding'
 7.  **Segment 4**
     1.  'Big Rock Candy Mountain'
     2.  'She'll Be Coming Around The Mountain'
@@ -65,7 +66,7 @@ This update created contained a provision for initiating an alternate show sched
     7.  'Alphabet Song'
     8.  'Twinkle Twinkle Little Star'
 8.  **Intermission 4**
-    1.  CEC TV ID - 'Chuck E. Sunrise'
+    1.  CEC TV ID - 'Sunrise'
     2.  Chuck E.'s Zoo View
     3.  Chuck E.'s Big Bowling Date
     4.  CEC TV ID - 'Space Kids'
@@ -143,7 +144,7 @@ This update created contained a provision for initiating an alternate show sched
     4.  PBS Kids
     5.  Chillout - Fish
 
-## Lives:
+## Live Shows:
 
 - BDAY 10 Program
 - BDAY 10 Training

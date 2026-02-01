@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-07-07"
 endDate = ""
-contributors = ["ChuckECool","ShowBizMidwest","SuperCreamPiper2008","ChuckEPediaIsTheBest!","Rexburg090","2600:1008:B18A:CFF2:48F8:8312:35AC:3694","ThatBoiCydalan","Cy's Junk at School"]
+contributors = ["ChuckECool","ShowBizMidwest","SuperCreamPiper2008","ChuckEPediaIsTheBest!","Rexburg090","Anonymous","ThatBoiCydalan","Cy's Junk at School"]
 citations = ["<a href=\"https://www.wpr.org/chuck-e-cheese-grand-reopening\">https://www.wpr.org/chuck-e-cheese-grand-reopening</a>"]
 pageThumbnailFile = "5WvsAwQ0zipx_Rr9cdMv.avif"
 latitudeLongitude = ["43.05719472","-89.49859708"]

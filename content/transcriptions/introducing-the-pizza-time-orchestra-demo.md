@@ -41,7 +41,7 @@ Now the cups and kettles!
 
 Well that’s everybody. Whoops, I forgot Wally Washboard, Chubby Churn, and Speedy Spoons. Hehehe, I guess we just have time for a quick tune up
 
-**[Instruments “tune up”]**
+**[Instruments "tune up"]**
 
 **Chuck E. Cheese:**
 

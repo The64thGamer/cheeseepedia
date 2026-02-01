@@ -1,11 +1,12 @@
 +++
+
 title = "Long Beach, CA (290 E 4th St)"
 storeNumber = ""
 startDate = "2013-11-04"
 endDate = "2020-06-07"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Circles of Light|2013-11-04|2020-06-07|"]
 franchisees = []
 attractions = []
 sqft = ""
@@ -13,7 +14,7 @@ latitudeLongitude = ["33.77023202","-118.1910658"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "y1ch5At3qtGNlzt1MvdH.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

@@ -2,8 +2,8 @@
 title = "6yFgWq9JYaaqzyzwJHW8.avif"
 draft = false
 tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+categories = ["Chuck E. Cheese's"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "1993-00-00"
 +++
-Chuck Walkaround, Helen & Munch (1992-1993)
+Chuck Walkaround, Helen & Munch (1993)

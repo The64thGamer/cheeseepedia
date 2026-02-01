@@ -25,7 +25,7 @@ The Bot was installed at the Pizza Time Theatre on {{< wiki-link "San Jose, CA (
 
 ### Fate
 
-The fate of Winchester Helen is unknown as no photos of The Bot at {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, {{< wiki-link "Pizza Time Theatre Cupertino, CA Corporate Office" >}}, or any other PTT Corporate location have been found. The Bot is possibly the same as {{< wiki-link "Kooser Helen Henny (Animatronic)" >}}, as the bots share the same design. The bot was most likely destroyed during the move to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}
+The fate of Winchester Helen is unknown as no photos of The Bot at {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, {{< wiki-link "Pizza Time Theatre Cupertino, CA Corporate Office" >}}, or any other PTT Corporate location have been found. The Bot is possibly the same as {{< wiki-link "Kooser Helen Henny (Animatronic)" >}}, as the bots share the same design. The bot was most likely destroyed during the move to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}
 
 ## Design
 

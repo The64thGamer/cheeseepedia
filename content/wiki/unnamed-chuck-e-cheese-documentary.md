@@ -1,4 +1,5 @@
 +++
+
 title = "Unnamed Chuck E. Cheese Documentary"
 draft = false
 tags = ["News Footage"]
@@ -7,6 +8,7 @@ startDate = "0000-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
 citations = [""]
+pageThumbnailFile = "ZdQioNPJMsecwbkvRWOe.avif"
 +++
 The ***Unnamed Chuck E. Cheese Documentary* is a potentially cancelled 2022 documentary that was set to detail Chuck E. Cheese's, and later its fandom.{{< cite 1 >}}**
 

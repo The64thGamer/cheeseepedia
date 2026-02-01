@@ -4,6 +4,7 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "2005-10-03"
+citations = ["https://www.flickr.com/photos/29597274@N00/48991840//"]
 +++
-Colerain's Avenger walkaround in the entrance to the showroom (October 3, 2005)https://www.flickr.com/photos/29597274@N00/48991840//
+Colerain's Avenger walkaround near the entrance to the showroom (October 3, 2005)

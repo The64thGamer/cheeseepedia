@@ -1,7 +1,7 @@
 +++
 title = "https://youtu.be/s8nvwbuQ7Cw"
-startdate = "2007-00-00"
-pages = ["San Jose, CA (2445 Fontaine Rd)", "Birthday Star 01", "Studio C Alpha"]
+startDate = "2007-00-00"
+pages = ["San Jose (Tully), CA (2445 Fontaine Rd)", "Birthday Star 01", "Studio C Alpha"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]
 +++

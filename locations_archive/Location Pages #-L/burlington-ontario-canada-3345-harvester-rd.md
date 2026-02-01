@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1981-10-15"
 endDate = "1991-10-27"
-contributors = ["ChuckECool","ChuckEPediaIsTheBest!","CEC Tinley","2600:4040:5A0E:D900:701B:C7FC:34CF:9455","ThatBoiCydalan","SuperCreamPiper2008"]
+contributors = ["ChuckECool","ChuckEPediaIsTheBest!","CEC Tinley","Anonymous","ThatBoiCydalan","SuperCreamPiper2008"]
 citations = []
 latitudeLongitude = ["43.35797122","-79.79221583"]
 +++

@@ -2,7 +2,7 @@
 title = "6aZ6UhAAbkn6Sa5BJOua.avif"
 draft = false
 tags = ["Photos"]
-categories = ["Disney Parks"]
+categories = ["Walt Disney Imagineering"]
 pages = ["DACS"]
 startDate = ""
 +++

@@ -9,12 +9,12 @@ endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Tux Chuck"]
 citations = ["http://mylittlewiki.org/wiki/Category:Play_and_Care_Sets","https://archive.org/details/my-little-pony-model-sheet-master-file-page-167/My%20Little%20Pony%20model%20sheet%20master%20file_Page_160.jpg","https://www.mlptp.net/index.php?threads/the-term-cutie-mark.112921/","http://mylittlewiki.org/wiki/G1_Birthflower_Ponies"]
 +++
-The ***Chuck E. Cheese Baby Pony* was a Chuck E. Cheese branded ***My Little Pony* Baby Pony toy available at the prize counter from 1989 to an unknown date.****
-
+The ***Chuck E. Cheese Baby Pony*** was a Chuck E. Cheese branded *My Little Pony* Baby Pony toy available at the prize counter from 1989 to an unknown date.
+ 
 ## Design
 
-The pony used the 1984 Baby Pony mold from the Play & Care Sets line.{{< cite 1 >}} The body used the standard Dark Pink color, and the hair with a blue color. The eyes were painted green, and the *rump design* (later colloquially referred to as a *Cutie Mark*)<sup>(2)(3)</sup> was white line art of a standard Chuck E. Cheese artwork with white text below it reading 'Chuck E. Cheese'- taken from the *Pizza Time Theatre* logo.
-The pony came in a plastic ***My Little Pony* branded bag with no other accessories. This is similar to the Mail Order Ponies that were available which came in unlabeled plastic bags, causing later confusion that the CEC pony was also mail order.{{< cite 4 >}}**
+The pony used the 1984 Baby Pony mold from the Play & Care Sets line.{{< cite 1 >}} The body used the standard Dark Pink color, and the hair with a blue color. The eyes were painted green, and the *rump design* (later colloquially referred to as a *Cutie Mark*){{< cite 2 >}}{{< cite 3 >}} was white line art of a standard Chuck E. Cheese artwork with white text below it reading 'Chuck E. Cheese'- taken from the *Pizza Time Theatre* logo.
+The pony came in a plastic *My Little Pony* branded bag with no other accessories. This is similar to the Mail Order Ponies that were available which came in unlabeled plastic bags, causing later confusion that the CEC pony was also mail order.{{< cite 4 >}}
 
 ### Degradation
 

@@ -1,15 +1,16 @@
 +++
 draft = false
-title = "The Rock-afire Explosion Documentary Blu-Ray"
+title = "The Rock-afire Explosion (Movie) in Blu-ray"
 startDate = "2024-02-01"
 endDate = "0000-00-00"
 pageThumbnailFile = "Hb1MVW54KPQIW9wjmt_Q.avif"
 contributors = ["The 64th Gamer", "Chuckatronics"]
 citations = ["", "https://www.americangenrefilm.com/", "https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion", "Writer testimony. No archive of the website within the first week available.", "https://web.archive.org/web/20240226040808/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion", "Writer testimony.", "https://web.archive.org/web/20240731052611/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion","https://web.archive.org/web/20241108103816/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion","https://web.archive.org/web/20250609020700/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion"]
 tags = ["Products"]
-categories = ["Creative Engineering", "ShowBiz Pizza Place", "The Rock-afire Explosion Documentary"]
+categories = ["Creative Engineering", "ShowBiz Pizza Place", "The Rock-afire Explosion (Movie)"]
+transcriptions = ["The Rock-afire Explosion (Movie)"]
 +++
-The ***Rock-afire Explosion Documentary Blu-Ray* is a 2024 limited edition rerelease of the {{< wiki-link "The Rock-afire Explosion Documentary" >}} with small additions and an improved video quality over the The Rock-afire Explosion Documentary DVD|prior DVD release.**
+The ***Rock-afire Explosion Documentary Blu-Ray* is a 2024 limited edition rerelease of the {{< wiki-link "The Rock-afire Explosion (Movie)" >}} with small additions and an improved video quality over the The Rock-afire Explosion (Movie) in DVD|prior DVD release.**
 
 ## Official Description
 

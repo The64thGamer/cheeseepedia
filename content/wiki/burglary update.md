@@ -9,6 +9,7 @@ mediaDuration = "11:39"
 showtapeFormats = ["RSHW"]
 tags = ["Showtapes"]
 categories = ["Creative Engineering"]
+pageThumbnailFile = "xb07662p3fh2ph9d.avif"
 +++
 ***Burglary Update - Gift for RAE Savages - Circus Show Bigtop Medley*** is a video with a showtape included uploaded to the Creative Engineering YouTube channel.
 

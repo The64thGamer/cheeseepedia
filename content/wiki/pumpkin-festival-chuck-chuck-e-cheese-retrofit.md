@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Unknown Manufacturers"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor","PizzaEntertainmentFanX"]
+contributors = ["The 64th Gamer","CyberSnout","PizzaEntertainmentFanX"]
 citations = []
 pageThumbnailFile = "7Y832G4WkR2rXSd_ytyo.avif"
 +++

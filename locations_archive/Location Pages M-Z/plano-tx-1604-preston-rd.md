@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1998-05-00"
 endDate = ""
-contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","ThatBoiCydalan","BurgersNuggs445","74.96.197.218","CoolerDude"]
+contributors = ["CECBowlingGreen","Rexburg090","CEC Tinley","ThatBoiCydalan","BurgersNuggs445","Anonymous","CoolerDude"]
 citations = ["<a href=\"{{< ref \"wiki/1998 Chuck E Pop Art (Quad)\" >}}\">1998 Chuck E. Pop Art (Quad)</a>",":Category:Store Fixtures#1998-12","<a href=\"https://www.youtube.com/watch?v=bDB0G3F4kuU\">https://www.youtube.com/watch?v=bDB0G3F4kuU</a>","<a href=\"https://planomagazine.com/chuck-e-cheese-reopening/\">https://planomagazine.com/chuck-e-cheese-reopening/</a>"]
 pageThumbnailFile = "DTWJNph5RlWCzJq9IGp8.avif"
 latitudeLongitude = ["33.02114032","-96.79570708"]

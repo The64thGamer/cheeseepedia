@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Columbus, OH (4284 Macsway Ave)"]
 
 citations = []
 +++

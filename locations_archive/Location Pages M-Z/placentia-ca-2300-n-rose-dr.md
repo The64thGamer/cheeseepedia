@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1991-09-24"
 endDate = ""
-contributors = ["ChuckECool","216.125.34.66","Rexburg090","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","The 64th Gamer","CECcovinaca","Planetpurplediner","Cheeseclassic","Destinationimagination95"]
+contributors = ["ChuckECool","Anonymous","Rexburg090","ThatBoiCydalan","CEC Tinley","GabrielPennington9864","The 64th Gamer","CECcovinaca","Planetpurplediner","Cheeseclassic","Destinationimagination95"]
 citations = []
 latitudeLongitude = ["33.90360777","-117.8430587"]
 +++
@@ -24,7 +24,7 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 
 | Stage                                                                                             | Installed      | Removed        | Notes                                                     |
 |---------------------------------------------------------------------------------------------------|----------------|----------------|-----------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}                                                   | September 1991 | April 2023     | 7th to Last Road Stage. Installed on the Right Side Wall. |
+| {{< wiki-link "Road Stage" >}}                                                   | September 1991 | April 2023     | 7th to Last Road Stage. Installed on the Right Side Wall. |
 | {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | April 2023     | Still in store | 2021 Model. Installed on the Back Wall.                   |
 
 ## Animatronics

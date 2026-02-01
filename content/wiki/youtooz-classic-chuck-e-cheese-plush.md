@@ -1,4 +1,5 @@
 +++
+
 title = "YouTooz Classic Chuck E. Cheese Plush"
 draft = false
 tags = ["Products"]
@@ -7,8 +8,9 @@ startDate = "2024-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.reddit.com/r/Youtooz/comments/1e07jgz/comment/lcl19fv/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button","https://x.com/youtooz/status/1812927397572038656","https://x.com/youtooz/status/1813277022598099150","https://x.com/youtooz/status/1814345970307531177","https://youtooz.com/products/classic-chuck-e-cheese-plush-9-inch"]
+pageThumbnailFile = "Cecplushfrontyoutooz.avif"
 +++
-The ***YouTooz Classic Chuck E. Cheese Plush* is an upcoming plush of {{< wiki-link "Chuck E Cheese" >}} in his classic outfit from {{< wiki-link "Pizza Time Theatre" >}}.https://www.tiktok.com/@youtooz/video/7388608776221330731**
+The ***YouTooz Classic Chuck E. Cheese Plush* is an upcoming plush of {{< wiki-link "Chuck E. Cheese" >}} in his classic outfit from {{< wiki-link "Pizza Time Theatre" >}}.https://www.tiktok.com/@youtooz/video/7388608776221330731**
 
 ## History
 

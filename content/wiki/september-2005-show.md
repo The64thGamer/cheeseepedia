@@ -4,9 +4,10 @@ title = "September 2005 Show"
 startDate = "2005-09-00"
 endDate = "2005-11-00"
 pageThumbnailFile = "L_78QNChS6VU4XIOSgzJ.avif"
-contributors = ["The 64th Gamer", "RedaCEC", "Ceclife13", "Documentor", "John95"]
+contributors = ["The 64th Gamer", "RedaCEC", "Ceclife13", "CyberSnout", "John95"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/September%202005%20Studio%20C.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer, Plumber, Biker", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist", "Sammy Davenport - Music Director"]
+mediaDuration = "1:03:50"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept2005.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/Sept2005Version2.img|Studio C Floppy Disk (Ver. 2)", "https://archive.org/download/studio_c_showtape_dvds/September%202005%20Studio%20C.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/September%202005%203-Stage-004.iso|3-Stage DVD ISO"]
 tags = ["Showtapes"]
@@ -45,7 +46,7 @@ categories = ["Chuck E. Cheese's"]
     1.  ['Grandma's Feather Bed'](https://en.wikipedia.org/wiki/Back_Home_Again_(John_Denver_album))
     2.  'Homework'
 8.  **Intermission 4**
-    1.  CEC TV ID - 'Astronaut'
+    1.  CEC TV ID - 'Astronauts'
     2.  Teenage Mutant Ninja Turtles
     3.  Play-Doh Spot
     4.  Kidz Bop - 'Since U Been Gone'
@@ -76,7 +77,7 @@ categories = ["Chuck E. Cheese's"]
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ SEPTEMBER 2005 SHOW UPDATE FINISHED.
+" SEPTEMBER 2005 SHOW UPDATE FINISHED.
  QUESTIONS? CALL MICHAEL HILL AT 972-258-5613.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER." 
 A Version 2 of this show was released which added the Play-Doh spot. When inserting the Version 2 upgrade floppy, a message would appear on the screen saying " SEPTEMBER 2005 SHOW (VERSION 2) UPDATE COMPLETED.
@@ -91,10 +92,10 @@ A Version 2 of this show was released which added the Play-Doh spot. When insert
 
 ## Trivia:
 
-- Chuck's curtains close during 'Mayberry' on the existing stages.
+- Chuck's curtains close during 'Mayberry' on existing stages.
 - The backgrounds for the Studio C puppets are their regular ones, but without the usual diagonal line.
 - The Fundraising Spot is reused from {{< wiki-link "September 2004" >}} with that show's logo replaced with the September 2005 logo.
 - 'Spring Cleaning' is reused from {{< wiki-link "Spring Break" >}} and the kaleidoscope countdown is reused from {{< wiki-link "September 2003 Show" >}}
 - The countdowns reuse footage from {{< wiki-link "April 2002 Show" >}}, {{< wiki-link "September 2002 Show" >}} and 'Footloose' live.
 - The Play-Doh spot uses the instrumental of 'What Up' from {{< wiki-link "September 2004" >}}.
-- 'Old MacDonald', ‘Chuck E. Shuffle’ and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.
+- 'Old MacDonald', ‘Chuck E. Shuffle’, and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.

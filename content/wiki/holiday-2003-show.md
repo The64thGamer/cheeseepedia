@@ -7,6 +7,7 @@ pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img"]
 credits = ["Jeremy Blaido - Director", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator"]
+mediaDuration = "1:07:04"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img|Studio C Floppy Disk (Ver. 1.03)"]
 tags = ["Showtapes"]
@@ -16,69 +17,69 @@ categories = ["Chuck E. Cheese's"]
 
 ## Studio C Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Countdown (1995 Holiday footage)
     2.  Holiday VJ Spot - Michael
-2.  **Segment 1**
+2. **Segment 1**
     1.  'Deck the Halls
     2.  'Up On The Housetop'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Larry The Technician - 'Decorating The Tree'
     2.  'Boar's Head Carol'
     3.  Countdown (Holiday Lights)
     4.  Holiday VJ Spot - Laura
-4.  **Segment 2**
+4. **Segment 2**
     1.  'Jolly Old St. Nicholas'
     2.  'Oh Christmas Tree'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Countdown ('Holly Jolly Christmas' footage)
     2.  Holiday VJ Spot - Evan
-6.  **Segment 3**
+6. **Segment 3**
     1.  'Jingle Bells'
     2.  'I Heard The Bells'
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Eddie Coker - 'Happy Holidays'
     2.  Countdown ('Silver Bells' footage / Holiday Party backgrounds)
     3.  Holiday VJ Spot - Laura
-8.  **Segment 4**
+8. **Segment 4**
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
 ## Existing Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Ken Chuck E. Derby
     2.  Countdown (1995 Holiday footage)
     3.  Holiday VJ Spot - Michael
-2.  **Segment 1**
+2. **Segment 1**
     1.  'Deck the Halls
     2.  'Up On The Housetop'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Larry The Technician - 'Decorating The Tree'
     2.  'Boar's Head Carol'
     3.  Countdown (Holiday Lights)
     4.  Holiday VJ Spot - Laura
-4.  **Segment 2**
+4. **Segment 2**
     1.  'Jolly Old St. Nicholas'
     2.  'Oh Christmas Tree'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Eddie Coker - 'Happy Holidays'
     2.  Countdown ('Holly Jolly Christmas' footage)
     3.  Holiday VJ Spot - Evan
-6.  **Segment 3**
+6. **Segment 3**
     1.  'Jingle Bells'
     2.  'I Heard The Bells'
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Ken Chuck E. Derby
     2.  Countdown ('Silver Bells' footage / Holiday Party backgrounds)
     3.  Holiday VJ Spot - Laura
-8.  **Segment 4**
+8. **Segment 4**
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Go Santa Go
 - Chuck E. March 2001
@@ -103,7 +104,7 @@ categories = ["Chuck E. Cheese's"]
 #### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ HOLIDAY SHOW 2003 UPDATE FINISHED (VERSION 1.03).
+" HOLIDAY SHOW 2003 UPDATE FINISHED (VERSION 1.03).
  THIS UPDATE INCLUDES CYBRSTAR VERSION 1.30
  QUESTIONS? CONCERNS? CALL 972-258-5613.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER.".

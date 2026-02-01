@@ -4,9 +4,10 @@ title = "Chuck E's Rockin' Rhymes"
 startDate = "2001-04-00"
 endDate = "2001-06-00"
 pageThumbnailFile = "hzwqBS_ykHsQIyUQG1hA.avif"
-contributors = ["The 64th Gamer", "John95", "Anastasia.laguardia", "Documentor", "Ceclife13", "CECMadison"]
+contributors = ["The 64th Gamer", "John95", "Anastasia.laguardia", "CyberSnout", "Ceclife13", "CECMadison"]
 citations = ["https://vimeo.com/33748276"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper, Mike Manly, Betty, Show Announcer", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
+mediaDuration = "59:38"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2001Upgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202001%20Studio%20C-005.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
@@ -17,27 +18,27 @@ The show is notable for having only one song per segment (similar to Chuck E's V
 
 ## Show List:
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Party Place
-2.  **Intermission 1**
+2. **Intermission 1**
     1.  VeggieTales - 'We're Vikings'
-3.  **Segment 2**
+3. **Segment 2**
     1.  Humpty Dumpty
-4.  **Intermission 2**
+4. **Intermission 2**
     1.  Eddie Coker - 'The Dog'
     2.  Store Intro - 'Spokane, WA'
     3.  CEC TV ID - 'Couch'
-5.  **Segment 3**
+5. **Segment 3**
     1.  Sharing
-6.  **Intermission 3**
+6. **Intermission 3**
     1.  The Wiggles - 'Get Ready to Wiggle'
-7.  **Segment 4**
+7. **Segment 4**
     1.  Little Red Riding Hood
-8.  **Intermission 4**
+8. **Intermission 4**
     1.  Super Jasper - 'Resist The Temptation'
     2.  Store Intro - 'Santiago, Chile'
     3.  CEC TV ID - 'Couch'
-9.  **Segment 5**
+9. **Segment 5**
     1.  Think Happy
 10. **Intermission 4**
     1.  VeggieTales - 'Larry's High Silk Hat'
@@ -72,12 +73,12 @@ The show is notable for having only one song per segment (similar to Chuck E's V
 #### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ APRIL 2001 "CHUCK E'S ROCKIN' RHYMES" SHOW UPDATE FINISHED
+" APRIL 2001 "CHUCK E'S ROCKIN' RHYMES" SHOW UPDATE FINISHED
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER"
 
 ## Live Shows:
 
-During this time live shows would be on separate VHS tapes for MMBB based stores.
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Chuck E. Says
 - Chuck E Shuffle

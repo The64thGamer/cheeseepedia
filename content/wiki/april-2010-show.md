@@ -4,9 +4,10 @@ title = "April 2010 Show"
 startDate = "2010-04-00"
 endDate = "2010-06-00"
 pageThumbnailFile = "89Ji0k4_Kb0MqZjIfgfr.avif"
-contributors = ["The 64th Gamer", "Documentor", "BurgersNuggs445", "John95", "172.58.159.105", "Ceclife13", "2601:404:C101:5C70:20F2:575C:39D0:1766", "2600:6C46:4A00:A2F:5510:397C:1D6D:FD70", "68.115.101.83", "2600:1012:B048:26A9:90B0:716A:6B8B:88A", "Cy's Junk at School"]
+contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "John95", "Anonymous", "Ceclife13", "Anonymous", "Anonymous", "Anonymous", "Anonymous", "Cy's Junk at School"]
 citations = ["http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-04.pdf"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Weichman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Deva George - Animator", "Dave Wilson - Songwriter"]
+mediaDuration = "1:38:21"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/April%202010%203-stage-007.iso|3-Stage DVD ISO w/ Signals"]
 tags = ["Showtapes"]
@@ -26,7 +27,7 @@ This show played from April - June 2010.
     2.  Fun Facts - 'Statue of Liberty Gum'
     3.  The Zula Patrol - 'Animal Adventures In Space'
     4.  Sound Splosion: Kidz BOP - 'Say Hey (I Love You)'
-    5.  CEC TV ID - 'Breakdancer'
+    5.  CEC TV ID - 'Breakdance'
 4.  **Segment 2**
     1.  'Imagine Nation'
 5.  **Intermission 3**
@@ -53,10 +54,10 @@ This show played from April - June 2010.
     5.  Pocoyo - 'Double Bubble'
     6.  CEC TV ID - 'NBC Chime'
     7.  Will & Dewitt - 'My New Boots'
-    8.  CEC TV ID - 'Skee Ball'
-10.  **Segment 5**
+    8.  CEC TV ID - 'Skeeball'
+10. **Segment 5**
     1.  ['Ain't Nothing Wrong With That'](https://en.wikipedia.org/wiki/Colorblind_(Robert_Randolph_album))
-11.  **Intermission 6**
+11. **Intermission 6**
     1.  Backstage Pass - 'Justin Bieber'
     2.  Fun Facts - 'The Queen of England's Birthday'
     3.  Dive Olly Dive! - 'Beth's Backfire'
@@ -90,7 +91,7 @@ This show played from April - June 2010.
     2.  Busytown Mysteries - 'Huckle! Where's My Apple Car?'
     3.  The Zula Patrol - 'Hey!, I'm A Butterfly'
 
-## Lives:
+## Live Shows:
 
 - Birthday Program
 - Chuck E. Says (Studio C)
@@ -105,9 +106,9 @@ This show played from April - June 2010.
 
 ## Trivia:
 
-- There is no CEC TV logo for this show. Instead, the footage of the Studio C puppets appear on all versions of this show including those for Existing Stages. This would also mark the beginning of Studio C shows only having one video feed during segments. Puppet footage going forward would be part of the main footage and not a separate feed.
-- This was the only show that was specifically programmed for it's {{< wiki-link "Star Stage" >}} equivalent which was being tested at the time.
-- Due to the amount of content on the existing DVD the live shows had to be put on a separate DVD, and stores were also allowed to use the January 2010 DVD for live shows. It is currently unknown what lives were on the DVD.
-- According to the *Valid Shows* section of the newsletter it states that the 'January Show Floppy' was allowed but doesn't mention the DVD for Studio C.
+- There is no CEC TV logo for this show. Instead, the footage of the Studio C puppets appears on all versions of this show, including those for Existing Stages. This would also mark the beginning of Studio C shows only having one video feed during segments. Puppet footage going forward would be part of the main footage and not a separate feed.
+- This was the only show that was specifically programmed for its {{< wiki-link "Star Stage" >}} equivalent, which was being tested at the time.
+- Due to the amount of content on the existing stage DVD, the live shows had to be put on a separate DVD, and stores were also allowed to use the January 2010 DVD for live shows. It is currently unknown what live shows were on the DVD.
+- According to the *Valid Shows* section of the newsletter, it states that the 'January Show Floppy' was allowed, but doesn't mention the DVD for Studio C.
 - This is the only show in 2010 to have featured new content.
-- A brand new DVD #3 for Studio C was released for this show adding the current birthday show (Birthday 09) and new diagnostics for 16m and 32m bots. {{< cite 1 >}}
+- A brand new DVD #3 for Studio C was released for this show, adding the current birthday show (Birthday 09) and new diagnostics for 16m and 32m bots. {{< cite 1 >}}

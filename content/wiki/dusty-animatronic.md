@@ -1,4 +1,5 @@
 +++
+
 title = "Dusty (Animatronic)"
 draft = false
 tags = ["Animatronics"]
@@ -9,8 +10,8 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445","Rexburg090"]
 citations = []
+pageThumbnailFile = "KUVcRbJ2pb4yR_CyJj1x.avif"
 +++
-
 Dusty is the sidekick to {{< wiki-link "Brain-I-Vac (Animatronic)" >}}, who is described as a mechanical dog-like device that sniffs out new data for the Awesome Adventure Machine's main computer.
 
 ## Design

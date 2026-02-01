@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1992-04-20"
 endDate = "1986-00-00"
-contributors = ["ChuckfeldStan","Rexburg090","ShowBiz Nobiz","216.125.34.66","ChuckECool","CEC Tinley","Cecnj98","The 64th Gamer"]
+contributors = ["ChuckfeldStan","Rexburg090","ShowBiz Nobiz","Anonymous","ChuckECool","CEC Tinley","Cecnj98","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "Mm91xexn2L5vS0zIO1ZQ.avif"
 latitudeLongitude = ["40.93835352","-74.27291503"]
@@ -35,7 +35,7 @@ On July 30th, 2022, an incident occurred where a black girl was ignored by a per
 
 | Stage                                                        | Installed     | Removed       | Notes                                           |
 |--------------------------------------------------------------|---------------|---------------|-------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}              | April 1992    | November 2022 | One of two Road Stages installed in New Jersey. |
+| {{< wiki-link "Road Stage" >}}              | April 1992    | November 2022 | One of two Road Stages installed in New Jersey. |
 | \|{{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | November 2022 | Still In Use  | 2019 Model.                                     |
 
 [2007](https://www.showbizpizza.com/photos/cec/nj_wayne/index.html)

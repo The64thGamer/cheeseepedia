@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2020-11-03"
 endDate = "2021-1-03"
-contributors = ["The 64th Gamer","Documentor","Himitsu"]
+contributors = ["The 64th Gamer","CyberSnout","Himitsu"]
 citations = []
 pageThumbnailFile = "d1EpVQsJE3ZTiIqUOTpM.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -21,31 +21,31 @@ This was created to play during the 'Winter Winner-Land'. This show played from 
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Social Distancing Message
     2.  Chuck E. & Helen Winter Winner-Land Spot
     3.  Idina Menzel - 'We Wish You the Merriest' ft. Josh Gad
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - 'Cookies For Santa'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Winter Winner-Land Food & Masks Promo
     2.  KIDZ BOP Kids - 'Santa Tell Me'
     3.  Brady Rhymer - 'Hanukah Rocks'
-4.  **Skit 2**
+4. **Skit 2**
     1.  Helen Henny - 'All I Want for Christmas is Snow'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Social Distancing Message
     2.  Holiday Jokes from Pasqually
     3.  Asher Angel - 'Snow Globe Wonderland'
-6.  **Skit 3**
+6. **Skit 3**
     1.  Bella B. - 'Holiday Fiesta'
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Chuck E. & Munch Winter Winner-Land Spot
     2.  KIDZ BOP Kids - 'Christmas (Baby Please Come Home)
     3.  Holiday Musings with Mr. Munch
-8.  **Skit 4**
+8. **Skit 4**
     1.  Mr. Munch - 'Zorp-Ah-Dorp-Dor-Blah is Coming Tonight'
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  The Winter Winner Dance (Every Hour on the Thirty)
     2.  Social Distancing Message
     3.  Brad Rhymer - 'Can't Sit Still'
@@ -90,7 +90,7 @@ This was created to play during the 'Winter Winner-Land'. This show played from 
 
 ## Trivia
 
-- 'Cookies For Santa', 'Holiday Fiesta' and 'Zorp-Ah-Dorp-Dor-Blah is Coming Tonight' are originally from {{< wiki-link "Chuck E Cheese's Show 5 2019" >}}, 'Snowman' and 'What Do You Get a Sasquatch for Christmas?' from {{< wiki-link "Holiday 2014 Show" >}} and 'Merry Christmastime' and 'Holiday Medley' from {{< wiki-link "Chuck E Cheese's Show 9 2016" >}}
+- 'Cookies For Santa', 'Holiday Fiesta' and 'Zorp-Ah-Dorp-Dor-Blah is Coming Tonight' are originally from {{< wiki-link "Chuck E. Cheese's Show 5 2019" >}}, 'Snowman' and 'What Do You Get a Sasquatch for Christmas?' from {{< wiki-link "Holiday 2014 Show" >}} and 'Merry Christmastime' and 'Holiday Medley' from {{< wiki-link "Chuck E. Cheese's Show 9 2016" >}}
 - Snowman had Helens voice replaced with Carolina Richardsons and removed the line 'What American dog doesn't love to frolic in the snow'
 - Holiday Medley was redone to appear as a video call along with adding Bella onto the footage. The lines 'In this Winter Winner-Land' Were added to the start. The footage shows six squares one for each character with photoshopped backdrops. Despite Bella being added onto the footage Bella does not have any vocals added.
 - Various parts of Winner Wonder Dance were changed due to covid regulations such as adding the line 'Spread out at least six feet apart, follow me ho ho ho!' changing the line 'Let's all get together, Come on and take my hand' to 'It looks like snowy weather, It makes me feel so grand' another line that was changed was 'High Five your friends!' which was changed to 'Wave to your friends!' Along with that any mention of the 'Ticket Splash' was removed at the end of the song.

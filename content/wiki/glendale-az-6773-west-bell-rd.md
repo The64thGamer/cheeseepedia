@@ -1,11 +1,12 @@
 +++
+
 title = "Glendale, AZ (6773 West Bell Rd)"
 storeNumber = ""
 startDate = "2005-06-29"
 endDate = "2020-05-00"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Studio C Beta|2005-06-29|2020-05-00|"]
 franchisees = []
 attractions = []
 sqft = ""
@@ -13,7 +14,7 @@ latitudeLongitude = ["33.63454737","-112.2063011"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "gVansnh57Md0oyXzlwcp.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false

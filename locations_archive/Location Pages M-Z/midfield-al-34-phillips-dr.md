@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 startDate = "1983-00-00"
 endDate = "1986-04-00"
-contributors = ["216.227.26.243","CorrectorMan"]
+contributors = ["Anonymous","CorrectorMan"]
 citations = []
 latitudeLongitude = ["33.37683697","-86.41794363"]
 +++

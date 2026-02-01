@@ -23,7 +23,7 @@ The showtape would be completed in late August.{{< cite 1 >}}
 
 ## Show List
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Elvis Medley
         1.  [Blue Suede Shoes](https://en.wikipedia.org/wiki/Blue_Suede_Shoes)
         2.  [All Shook Up](https://en.wikipedia.org/wiki/All_Shook_Up)
@@ -34,18 +34,18 @@ The showtape would be completed in late August.{{< cite 1 >}}
         7.  [Return to Sender](https://en.wikipedia.org/wiki/Return_to_Sender_(song))
         8.  [Puppet On a String](https://en.wikipedia.org/wiki/Puppet_on_a_String_(Elvis_Presley_song))
         9.  [Fools Rush In](https://en.wikipedia.org/wiki/Fools_Rush_In_(Where_Angels_Fear_to_Tread))
-2.  **Segment 2**
+2. **Segment 2**
     1.  [Cotton Fields](https://en.wikipedia.org/wiki/Cotton_Fields)
     2.  Louisiana Intro Skit
     3.  Louisiana
-3.  **Segment 3**
+3. **Segment 3**
     1.  [Tomorrow](https://en.wikipedia.org/wiki/Tomorrow_(Annie))
     2.  [Maybe](https://en.wikipedia.org/wiki/Annie_(musical))
-4.  **Segment 4**
+4. **Segment 4**
     1.  Child of the Rock
-5.  **Segment 5**
+5. **Segment 5**
     1.  Goofy Gas
-6.  **Segment 6**
+6. **Segment 6**
     1.  Abbey Road Medley
         1.  [You Never Give Me Your Money](https://en.wikipedia.org/wiki/You_Never_Give_Me_Your_Money)
         2.  [Sun King](https://en.wikipedia.org/wiki/Sun_King_(song))

@@ -18,7 +18,7 @@ While no specific information is documented on its production, let alone existan
 
 The sign was first used at the second Chuck E. Cheese's Pizza Time Theatre on 1371 Kooser Road from November 1978 to an unknown year, presumably 1981. The sign was used alongside the {{< wiki-link "PTT Pasquallys Perfect Pizza Sign (1978)" >}} at the main Fantasy Forest Game Preserve entrance. After its usage, several scenarios could have played out, those being:
 **A.** The sign was kept in storage at the location itself to an unknown year and thrown out.
-**B.** The sign was sent to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} and was thrown out pre-merger.
+**B.** The sign was sent to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}} and was thrown out pre-merger.
 **C.** The sign was sent to the Sunnyvale Corporate Office and was destroyed during the move from the Sunnyvale Corporate Office to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}
 
 ## Design

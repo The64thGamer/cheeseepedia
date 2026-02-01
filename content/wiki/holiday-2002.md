@@ -7,6 +7,7 @@ pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Cy's Junk at School"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/December%202002%20Studio%20C.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Mike Manly, Larry The Technician, Backup Singer 'Happy Holidays'", "Robert Gotcher - Production Manager, Backup Singer 'Happy Holidays'", "Matt Daniel - Production Coordinator, Backup Singer 'Happy Holidays'", "Eddie Coker - Lead Singer 'Happy Holidays'", "Sammy Davenport - Music Director"]
+mediaDuration = "1:07:04"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeVerB.img|Studio C Floppy Disk (Ver. B)", "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeFinal.img|Studio C Floppy Disk (Final Upgrade)", "https://archive.org/download/studio_c_showtape_dvds/December%202002%20Studio%20C.iso"]
 tags = ["Showtapes"]
@@ -16,69 +17,69 @@ categories = ["Chuck E. Cheese's"]
 
 ## Studio C Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Countdown (1995 Holiday footage)
     2.  Holiday VJ Spot - Michael
-2.  **Segment 1**
+2. **Segment 1**
     1.  'Deck the Halls
     2.  'Up On The Housetop'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Larry The Technician - 'Decorating The Tree'
     2.  'Boar's Head Carol'
     3.  Countdown (Holiday Lights)
     4.  Holiday VJ Spot - Laura
-4.  **Segment 2**
+4. **Segment 2**
     1.  'Jolly Old St. Nicholas'
     2.  'Oh Christmas Tree'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Countdown ('Holly Jolly Christmas' footage)
     2.  Holiday VJ Spot - Evan
-6.  **Segment 3**
+6. **Segment 3**
     1.  'Jingle Bells'
     2.  'I Heard The Bells'
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Eddie Coker - 'Happy Holidays'
     2.  Countdown ('Silver Bells' footage / Holiday Party backgrounds)
     3.  Holiday VJ Spot - Laura
-8.  **Segment 4**
+8. **Segment 4**
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
 ## Existing Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Ken Chuck E. Derby
     2.  Countdown (1995 Holiday footage)
     3.  Holiday VJ Spot - Michael
-2.  **Segment 1**
+2. **Segment 1**
     1.  'Deck the Halls
     2.  'Up On The Housetop'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Larry The Technician - 'Decorating The Tree'
     2.  'Boar's Head Carol'
     3.  Countdown (Holiday Lights)
     4.  Holiday VJ Spot - Laura
-4.  **Segment 2**
+4. **Segment 2**
     1.  'Jolly Old St. Nicholas'
     2.  'Oh Christmas Tree'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Eddie Coker - 'Happy Holidays'
     2.  Countdown ('Holly Jolly Christmas' footage)
     3.  Holiday VJ Spot - Evan
-6.  **Segment 3**
+6. **Segment 3**
     1.  'Jingle Bells'
     2.  'I Heard The Bells'
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Ken Chuck E. Derby
     2.  Countdown ('Silver Bells' footage / Holiday Party backgrounds)
     3.  Holiday VJ Spot - Laura
-8.  **Segment 4**
+8. **Segment 4**
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Go Santa Go
 - Chuck E. March 2001
@@ -106,7 +107,7 @@ categories = ["Chuck E. Cheese's"]
 #### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ HOLIDAY 2002 SHOW UPDATE FINISHED
+" HOLIDAY 2002 SHOW UPDATE FINISHED
  NEW BIRTHDAY SHOW IS INCLUDED!
  ALSO BRAND NEW HOLIDAY LIVE
  THIS SHOW IS GENERIC PLEASE KEEP FOR NEXT YEAR
@@ -116,12 +117,12 @@ A second version of the floppy was released soon after which fixed an audio dela
  LOOK FOR AN ALL NEW BEST OF SHOW IN JAN.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER".
 A third and final floppy was also released. When inserting the final version upgrade floppy, a message would appear on the screen saying
-“ HOLIDAY SHOW VERSION C UPDATE FINISHED.
+" HOLIDAY SHOW VERSION C UPDATE FINISHED.
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
 
 ## Trivia:
 - The intros to the Ken Chuck E. Derby intermissions reused from {{< wiki-link "Holiday Special 1992" >}} were rerecorded at the last minute due to issues preventing the use of the original Don Pardo recordings. As this was done at the last minute, they were unable to be added to the Studio C version and were exclusive to Existing Stages. The original 1992 versions of these intermissions are on the Studio C DVDs with updated music but were skipped over by the floppy.
-- The countdowns and some songs reuse footage from {{< wiki-link "Holiday Special 1992" >}}, {{< wiki-link "The Chuck E Cheese Christmas Special" >}} and Chuck E.'s Holiday Party 1999. 'Jingle Bells' also reuses footage from the 'Snowdaze' intermission in {{< wiki-link "Let The Good Times Roll" >}}.
+- The countdowns and some songs reuse footage from {{< wiki-link "Holiday Special 1992" >}}, {{< wiki-link "The Chuck E. Cheese Christmas Special" >}} and Chuck E.'s Holiday Party 1999. 'Jingle Bells' also reuses footage from the 'Snowdaze' intermission in {{< wiki-link "Let The Good Times Roll" >}}.
 - The Larry The Technician intermission in this show was the final new piece of Larry animation. The rest of his animated appearances would use reused footage. This show also features Larry celebrating Christmas, despite the fact that he was said to celebrate Hanukkah in Holiday Party.
 - This is one of the most reused shows, as segments from this show would continue to be reused until {{< wiki-link "CEC Happy Holidays 2013" >}}.
 - 'Chuck E. Shuffle' appears on the Studio C DVDs but could not be played.

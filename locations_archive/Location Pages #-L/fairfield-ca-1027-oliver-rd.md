@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "2022-07-12"
 endDate = "2021-01-05"
-contributors = ["CECBowlingGreen","Rexburg090","2600:4040:5A0E:D900:9405:4B3E:8E53:2B4C","Jerry CEC","Retrocam","Dolphinpilot"]
+contributors = ["CECBowlingGreen","Rexburg090","Anonymous","Jerry CEC","Retrocam","Dolphinpilot"]
 citations = []
 pageThumbnailFile = "w9Q1ND825jAf0sa5dTHW.avif"
 latitudeLongitude = ["38.25103937","-122.0698268"]

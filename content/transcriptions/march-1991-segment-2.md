@@ -203,7 +203,7 @@ Yeah!
 
 **Chuck**
 
- If anybody says “You can’t do it.” 
+ If anybody says "You can’t do it." 
 
 **Kids:**
 

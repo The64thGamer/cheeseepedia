@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-11-19"
 endDate = ""
-contributors = ["CEC PDX","173.216.33.6","Rexburg090","CEC Tinley","Cecbird","CorrectorMan","Stripes"]
+contributors = ["CEC PDX","Anonymous","Rexburg090","CEC Tinley","Cecbird","CorrectorMan","Stripes"]
 citations = []
 pageThumbnailFile = "9ga4RZaQdKAr70vfpPA1.avif"
 latitudeLongitude = ["45.49532927","-122.57023"]

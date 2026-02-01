@@ -1,8 +1,8 @@
 +++
 draft = false
 title = "CEC Movie Magic"
-startDate = "1986-12-19"
-endDate = "0000-00-00"
+startDate = "1987-01-00"
+endDate = "1987-02-00"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://youtu.be/oTcH12jmc0k?si=aVblekXIpz7YW2fX"]
 credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Nancy Lenihan|Voice of Helen Henny", "Joe Conti|Programmer"]
@@ -11,7 +11,7 @@ transcriptions = ["TV Themes"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***CEC Movie Magic* is a show consisting of three 15 minute segments which released on December 19, 1986. It was the first show to use Cybervision.**
+***CEC Movie Magic*** is a show consisting of three 15 minute segments which released in January 1987 and was mastered on December 19, 1986. It was the first show to use Cybervision.
 
 ## Segments:
 

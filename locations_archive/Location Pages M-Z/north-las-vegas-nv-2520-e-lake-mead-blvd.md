@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-10-00"
 endDate = "1984-00-00"
-contributors = ["Rexburg090","2600:4040:5A0E:D900:B460:8EDC:E571:E3E7","Tux Chuck","AstridMascotFan2005"]
+contributors = ["Rexburg090","Anonymous","Tux Chuck","AstridMascotFan2005"]
 citations = []
 latitudeLongitude = ["36.19467942","-115.1165988"]
 +++

@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1991-04-22"
 endDate = ""
-contributors = ["Rexburg090","ShowBizMidwest","2600:4040:59FC:D100:D581:5D5:6C8A:B1E0","ChuckECool","216.125.34.66","ThatBoiCydalan","2600:4040:5A0E:D900:9840:194C:358:1CFE","Destinationimagination95"]
+contributors = ["Rexburg090","ShowBizMidwest","Anonymous","ChuckECool","Anonymous","ThatBoiCydalan","Anonymous","Destinationimagination95"]
 citations = []
 latitudeLongitude = ["42.52935727","-82.91348733"]
 +++
@@ -20,7 +20,7 @@ Originally when the store opened, they had a Road Stage, the only one installed 
 
 | Stage                                                                                             | Installed             | Removed               | Notes                                       |
 |---------------------------------------------------------------------------------------------------|-----------------------|-----------------------|---------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}                                                   | April 1991            | 1996                  | Only Road Stage in Michigan.                |
+| {{< wiki-link "Road Stage" >}}                                                   | April 1991            | 1996                  | Only Road Stage in Michigan.                |
 | {{< wiki-link "2-Stage" >}}                                                                 | 1996                  | August/September 2021 | One of four 2-Stages installed in Michigan. |
 | {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | August/September 2021 | Still In Use          | 2021 Model.                                 |
 

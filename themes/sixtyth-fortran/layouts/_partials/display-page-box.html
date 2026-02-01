@@ -1,0 +1,31 @@
+{{- $hasContent := ne .Content "" -}}
+
+<div class="list-page-{{ if $hasContent }}block{{ else }}empty-block{{ end }}">
+  <div class="list-page-container">
+    <div class="list-image">
+      <a href="{{ .RelPermalink }}">
+        {{- $thumb := default "" .Params.pageThumbnailFile -}}
+        {{- $mode := "raw-photo" -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
+      </a>
+    </div>
+
+    <div class="list-page-content">
+        <a href="{{ .RelPermalink }}">
+        {{ with .LinkTitle | default .Title }}
+            {{ . | safeHTML }}
+        {{ end }}
+        {{ if .Params.downloadLinks }}
+            <img src="/UI/Emojis/inbox.svg" class="emoji">
+        {{ end }}
+        </a>
+        <div class="list-page-date">
+            {{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}
+        </div>
+    </div>
+
+    <div class="edit-button-container">
+      {{ partial "editButton-list.html" (dict "page" . "hasContent" $hasContent) }}
+    </div>
+  </div>
+</div>

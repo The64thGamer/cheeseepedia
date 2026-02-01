@@ -7,6 +7,7 @@ pageThumbnailFile = "xiwL0CJmrk8qDmYDYinW.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/September%202002%20Studio%20C.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Mike Manley, Wick Ladderback, Betty, Show Announcer", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator, Shining Star, DJ", "Ryan Hollingsworth - Hank Howdy", "Sammy Davenport - Music Director"]
+mediaDuration = "1:17:07"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/September%202002%203-Stage-001.ISO|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio-c-floppy-discs-rips/Sept2002ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/September%202002%20Studio%20C.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
@@ -17,34 +18,34 @@ This show featured 4 segments with 8 songs.
 
 ## Show List:
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  ['That's The Way (I Like It)'](https://en.wikipedia.org/wiki/That%27s_the_Way_(I_Like_It))
     2.  'Chase After Your Dreams'
-2.  **Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Dancing Food'
     2.  Pizza Survivor
     3.  Countdown - CEC TV Special Report
     4.  CEC TV ID - 'Singing Animals'
-3.  **Segment 2**
+3. **Segment 2**
     1.  ['Living In America'](https://en.wikipedia.org/wiki/Living_in_America_(James_Brown_song))
     2.  'Try It Again'
-4.  **Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Blender'
     2.  The Tube Explorer - 'Tickets & Prizes'
     3.  Countdown - Jason
     4.  CEC TV ID - 'Janitor'
-5.  **Segment 3**
+5. **Segment 3**
     1.  ['Shining Star'](https://en.wikipedia.org/wiki/Shining_Star_(Earth,_Wind_%26_Fire_song))
     2.  'Roll The Pizza Dough' (parody of ['Good Times Roll'](https://en.wikipedia.org/wiki/Good_Times_Roll))
-6.  **Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Dancing Food'
     2.  Eddie Coker - 'Keep Shining'
     3.  Countdown - Betty
     4.  CEC TV ID - 'Haircut'
-7.  **Segment 4**
+7. **Segment 4**
     1.  ['Shout'](https://en.wikipedia.org/wiki/Shout_(Isley_Brothers_song))
     2.  ['ABC'](https://en.wikipedia.org/wiki/ABC_(The_Jackson_5_song))
-8.  **Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Blender'
     2.  Monkey Ninjas - Episode 3
     3.  Countdown - Jason (Studio C)
@@ -52,7 +53,7 @@ This show featured 4 segments with 8 songs.
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Locomotion
 - Chuck E. March 2001
@@ -83,7 +84,7 @@ This show featured 4 segments with 8 songs.
 #### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ SEPTEMBER 2002 SHOW UPDATE FINISHED
+" SEPTEMBER 2002 SHOW UPDATE FINISHED
  NEW BIRTHDAY SHOW IS INCLUDED!
  LOOK FOR AN ALL NEW HOLIDAY SHOW THIS YEAR!
  THANKS FOR ALL YOUR HARD WORK.

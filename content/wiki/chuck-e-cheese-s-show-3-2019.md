@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2019-07-01"
 endDate = "2019-9-01"
-contributors = ["The 64th Gamer","Documentor","Bowling for Cheese","John95","2600:4040:5A0E:D900:1416:BDEB:5C72:A1A6","YoyoandRonnie"]
+contributors = ["The 64th Gamer","CyberSnout","Bowling for Cheese","John95","Anonymous","YoyoandRonnie"]
 citations = []
 pageThumbnailFile = "U6FajdXvHM3uOV7c5e1z.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -15,14 +15,14 @@ This was created to play from July 1, - September 1, 2019. Featuring 4 songs. 2 
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  'It's Chuck E.'
     2.  Marshmello Featuring. Bastille - 'Happier'
     3.  Norman Picklestripes - 'Happy Baking!'
     4.  Barbie Vlog - 'What Type of Song are you?'
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese & Friends - 'My Family'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  YouTube Promo 1
     2.  Kelly Rowland - 'Crown'
     3.  RockALingua - 'Las Partes Del Cuerpo'
@@ -31,9 +31,9 @@ This was created to play from July 1, - September 1, 2019. Featuring 4 songs. 2 
     6.  Odd Bods - 'Desert Island'
     7.  Jax Jones, Years & Years - 'Play'
     8.  Floogals - 'Ice Cub'
-4.  **Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese & Friends - 'Out of This World'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Barbie Vlog - 'Draw My Life'
     2.  Unicorn, Unicorn
     3.  X Ambassadors - 'Boom'
@@ -42,16 +42,16 @@ This was created to play from July 1, - September 1, 2019. Featuring 4 songs. 2 
     6.  Kidz Bop - 'Havana'
     7.  American Ninja Warrior Jr.
     8.  The Whizpops - 'Sea Turtle'
-6.  **Skit 3**
+6. **Skit 3**
     1.  Chuck E., Mr. Munch & Bella - 'Play All You Can Play'
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  YouTube Promo 2
     2.  Not Ur Girlfrenz - 'No One Asked You Anyways'
     3.  'Little Bitty Kitty Cat'
     4.  Odd bods - 'Basket Ball'
-8.  **Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese - 'Rockin' Robot'
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  Cups for a Cause (At Participating Locations)
     2.  Carrie Underwood - 'Love Wins' (Studio C SD Only)
     3.  Nigel & Ronnie - 'Episode 1. Hide & Seek'
@@ -80,9 +80,9 @@ This was created to play from July 1, - September 1, 2019. Featuring 4 songs. 2 
 
 ## Trivia:
 
-- 'Out of This World' is originally from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} and 'Rockin' Robot' is originally from {{< wiki-link "The Chuck E Cheese Show" >}}.
+- 'Out of This World' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}} and 'Rockin' Robot' is originally from {{< wiki-link "The Chuck E. Cheese Show" >}}.
 - Show Break - 'Office Friends' reuses the footage of 'Is It Love' from {{< wiki-link "April 2007 Show" >}} 'Is This Love'
 - The song 'Love Wins' by Carrie Underwood was originally meant to be in Show 3 2019 but was removed from the final release. It can still be seen on the SD copy of Show 3 2019.
-- This is the first show with Bella back since {{< wiki-link "Chuck E Cheese's Show 1 2018" >}}. With the new appearance she got a new puppet and Voice Actress.
-- Just like in {{< wiki-link "Chuck E Cheese's Show 6 2016" >}}, Helen's one spoken line in 'Rockin' Robot' provided by Annagrey wasn't redubbed.
+- This is the first show with Bella back since {{< wiki-link "Chuck E. Cheese's Show 1 2018" >}}. With the new appearance she got a new puppet and Voice Actress.
+- Just like in {{< wiki-link "Chuck E. Cheese's Show 6 2016" >}}, Helen's one spoken line in 'Rockin' Robot' provided by Annagrey wasn't redubbed.
 - 'Rockin' Robot' was reprogrammed for the Studio C/Wedgi stages.

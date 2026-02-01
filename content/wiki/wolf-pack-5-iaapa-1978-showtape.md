@@ -3,10 +3,10 @@ draft = false
 title = "Wolf Pack 5 IAAPA 1978 Showtape"
 startDate = "1978-11-00"
 endDate = "1978-11-00"
-contributors = ["Sponch man", "The 64th Gamer"]
+contributors = ["Sponch man", "The 64th Gamer", "Luigigamin212"]
 citations = ["http://www.showbizpizza.com/rae/history/index.html", "https://www.showbizpizza.com/review/rae/1982_abbeyroad.html", "https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311", "https://youtu.be/lvMtt4EQJnc?t=12", "https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert"]
 showtapeFormats = ["CEI 8-Track Reel"]
-transcriptions = ["Clap for the Wolfman"]
+transcriptions = ["Clap for the Wolfman", "Dragstrip in The Sky"]
 tags = ["Showtapes"]
 categories = ["Creative Engineering"]
 +++
@@ -21,7 +21,7 @@ Footage of this showtape can be viewed [here](https://www.youtube.com/watch?v=lv
 
 ## Segments
 
-1.  **Segment 1**\
+1. **Segment 1**\
     1.  Clap for the Wolfman
     2.  Sing a Simple Song ( [Rock and Roll is Here to Stay](https://en.wikipedia.org/wiki/Rock_and_Roll_Is_Here_to_Stay) Parody)
     3.  Banana Hill (' [Blueberry Hill](https://en.wikipedia.org/wiki/Blueberry_Hill) Parody)

@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 startDate = "1984-00-00"
 endDate = "1985-00-00"
-contributors = ["167.224.250.176","Cheeseclassic"]
+contributors = ["Anonymous","Cheeseclassic"]
 citations = []
 latitudeLongitude = ["35.2588548","-94.4355183"]
 +++

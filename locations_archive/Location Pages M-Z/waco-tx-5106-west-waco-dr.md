@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2002-00-00"
 endDate = ""
-contributors = ["ChuckEPediaIsTheBest!","BurgersNuggs445","ThatBoiCydalan","130.45.91.68"]
+contributors = ["ChuckEPediaIsTheBest!","BurgersNuggs445","ThatBoiCydalan","Anonymous"]
 citations = ["<a href=\"https://goo.gl/maps/diVBVVrPQg6HGPoPA\">https://goo.gl/maps/diVBVVrPQg6HGPoPA</a>","<a href=\"https://www.whitehutchinson.com/news/lenews/2002/09/article103.shtml\">https://www.whitehutchinson.com/news/lenews/2002/09/article103.shtml</a>","<a href=\"https://www.kwtx.com/content/news/Local-Chuck-E-Cheese-mascot-lets-Chuck-E-get-under-his-skin-559610631.html\">https://www.kwtx.com/content/news/Local-Chuck-E-Cheese-mascot-lets-Chuck-E-get-under-his-skin-559610631.html</a>"]
 pageThumbnailFile = "y7w_vfVSVgIxCPzx5JHG.avif"
 latitudeLongitude = ["31.51677437","-97.18081953"]

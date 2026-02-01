@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
 startDate = "1991-02-14"
 endDate = "1992-00-00"
-contributors = ["The 64th Gamer","Documentor","DerekCat"]
+contributors = ["The 64th Gamer","CyberSnout","DerekCat"]
 citations = []
 pageThumbnailFile = "wy2h3o0cGbaEWR4zr9lo.avif"
 showtapeFormats = ["ShowBiz SVHS"]
@@ -19,14 +19,14 @@ Despite the later years of *Cyberstar* being mostly re-used segments from earlie
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  8 Minute Countdown
         1.  [*Help Me, Rhonda*](https://en.wikipedia.org/wiki/Help_Me,_Rhonda)
         2.  [*Every Little Thing She Does Is Magic*](https://en.wikipedia.org/wiki/Every_Little_Thing_She_Does_Is_Magic)
         3.  Birthday Spectacular
         4.  [*Palisades Park*](https://en.wikipedia.org/wiki/Palisades_Park_(Freddy_Cannon_song))
     2.  Cyberstar Intro
-2.  **Segment 1**
+2. **Segment 1**
     1.  Tune Machine 1
         1.  [Our House](https://en.wikipedia.org/wiki/Our_House_(Crosby,_Stills,_Nash_%26_Young_song))
         2.  Tune Machine Malfunction Skit
@@ -34,27 +34,27 @@ Despite the later years of *Cyberstar* being mostly re-used segments from earlie
             1.  # [Louie Louie](https://en.wikipedia.org/wiki/The_Kingsmen_In_Person)
             2.  # [Hang on Sloopy](https://en.wikipedia.org/wiki/Hang_On_Sloopy)
             3.  # [Doo Wah Diddy](https://en.wikipedia.org/wiki/Do_Wah_Diddy_Diddy)
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  8 Minute Countdown
         1.  [*Straight Up*](https://en.wikipedia.org/wiki/Straight_Up_(Paula_Abdul_song))
         2.  Birthday Spectacular
         3.  *[Stand](https://en.wikipedia.org/wiki/Stand_(R.E.M._song))*
         4.  *[Grazing In The Grass](https://en.wikipedia.org/wiki/The_Promise_of_a_Future)*
     2.  Cyberstar Intro
-4.  **Segment 2**
+4. **Segment 2**
     1.  Tune Machine 2
         1.  [(Lime in the) Coconut](https://en.wikipedia.org/wiki/Coconut_(song))
         2.  Looney Fixes Tune Machine Skit
         3.  [Venus](https://en.wikipedia.org/wiki/True_Confessions_(album))
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  8 Minute Countdown
         1.  *[Silly Love Songs](https://en.wikipedia.org/wiki/Silly_Love_Songs)*
         2.  Birthday Spectacular
         3.  *[One Thing Leads to Another](https://en.wikipedia.org/wiki/One_Thing_Leads_to_Another)*
     2.  Cyberstar Intro
-6.  **Segment 3**
+6. **Segment 3**
     1.  Bach to Rock
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  8 Minute Countdown
         1.  *[The Lonely Bull (El Solo Toro)](https://en.wikipedia.org/wiki/The_Lonely_Bull)*
         2.  *[Put Yourself In My Shoes](https://en.wikipedia.org/wiki/Put_Yourself_in_My_Shoes)*
@@ -62,7 +62,7 @@ Despite the later years of *Cyberstar* being mostly re-used segments from earlie
         4.  *[Sugar Shack](https://en.wikipedia.org/wiki/Sugar_Shack)*
         5.  *[Don't Stop](https://en.wikipedia.org/wiki/Don%27t_Stop_(Fleetwood_Mac_song))*
     2.  Cyberstar Intro
-8.  **Segment 4**
+8. **Segment 4**
     1.  Olympics
         1.  [Olympics Fanfare](https://en.wikipedia.org/wiki/Olympic_symbols#Anthems)
         2.  [Shapin' On Up (Parody of Movin' on Up)](https://en.wikipedia.org/wiki/The_Jeffersons)

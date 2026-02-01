@@ -5,7 +5,7 @@ tags = ["Remodels and Initiatives"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1999-00-00"
 endDate = "2005-00-00"
-contributors = ["BurgersNuggs445","ChuckECool","The 64th Gamer","2603:8001:8001:F591:1C61:406F:F346:AE32","Caydenpedia"]
+contributors = ["BurgersNuggs445","ChuckECool","The 64th Gamer","Anonymous","Caydenpedia"]
 citations = []
 pageThumbnailFile = "fKyyymyR_xIlVMLX2OIQ.avif"
 +++

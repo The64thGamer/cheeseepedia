@@ -1,0 +1,46 @@
+{{- $tagStyles := site.Data.tag_styles -}}
+{{- $tagCounts := site.Data.tags.tag_counts -}}
+
+{{- /* Determine page key for tags_by_page */ -}}
+{{- $tagsByPage := site.Data.tags.tags_by_page -}}
+
+{{- /* start with .File.Path to get relative content path */ -}}
+{{- $filePath := .File.Path | lower -}}
+{{- $key := replace $filePath "content/" "" -}}
+{{- $key = replace $key ".md" "" -}}
+
+{{- $tags := index $tagsByPage $key -}}
+
+{{- if $tags -}}
+<div class="predef-tags page-quick-tags">
+  <h2>Related Tags</h2>
+  <div class="predef-scroll">
+    <div class="predef-list">
+      {{- range $tags -}}
+        {{- $tag := printf "%v" . -}}
+        {{- $entry := index $tagStyles $tag -}}
+        {{- $count := index $tagCounts $tag -}}
+
+        <button
+          class="predef-tag-btn"
+          type="button"
+          data-tag="{{ $tag | html }}"
+          title="Add tag"
+          {{- with $entry }}
+            {{- if .color }}style="--tag-bg: {{ .color }};"{{- end -}}
+          {{- end -}}
+        >
+          {{- with $entry }}
+            {{- if .emoji }}{{ .emoji | safeHTML }} {{- end -}}
+          {{- end -}}
+
+          {{- $tag -}}
+          {{- with $count }}
+            <span class="tag-count">({{ . }})</span>
+          {{- end -}}
+        </button>
+      {{- end -}}
+    </div>
+  </div>
+</div>
+{{- end -}}

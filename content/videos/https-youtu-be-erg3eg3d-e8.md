@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/Erg3Eg3d-E8"
-startdate = "1987-00-00"
+startDate = "1987-00-00"
 pages = ["Billy Bob Interactive Animation", "Darien, IL (7409 Cass Ave)", "Billy Bob (Animatronic)", "3-Birthday Reel", "Classic Stage"]
 tags = ["Videos"]
 categories = ["ShowBiz Pizza Place"]

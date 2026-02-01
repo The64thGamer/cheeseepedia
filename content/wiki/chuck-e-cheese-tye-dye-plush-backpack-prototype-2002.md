@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese Tye Dye Plush Backpack Prototype (2002)"
 draft = false
 tags = ["In-Store Merchandise"]
@@ -7,4 +8,5 @@ startDate = "2002-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "o5bCplMOahSlAAiuMrnP.avif"
 +++

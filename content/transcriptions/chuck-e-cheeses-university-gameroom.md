@@ -19,7 +19,7 @@ Hey Chuck E. having fun?
 
 **Chuck E. Cheese: (Walkaround)** 
 
-I sure am, games are one of my favorite things about Chuck E Cheese’s.
+I sure am, games are one of my favorite things about Chuck E. Cheese’s.
 
 **Todd Horchner:** 
 

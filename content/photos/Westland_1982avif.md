@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Westland, MI (208 S Wayne Rd)"]
 
 citations = []
 +++

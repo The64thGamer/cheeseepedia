@@ -3,12 +3,12 @@ title = "Chuck E. Cheese's Video Hits 1"
 draft = false
 tags = ["Company Media"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = ""
-endDate = "0000-00-00"
+startDate = "2003-09-00"
+endDate = "2003-09-00"
 contributors = ["The 64th Gamer"]
-citations = []
+citations = ["https://archive.org/details/cec-video-hits"]
+downloadLinks = ["https://archive.org/download/cec-video-hits/CEC%20Video%20Hits.iso|DVD ISO"]
+pageThumbnailFile = "KiD25ur0vVp8L0k2KqEl.avif"
 +++
 
 ***Chuck E. Cheese's Video Hits #1*** was a DVD given to CEC Corporate employees in September 2003 consisting of various showtape segments from the previous few years. The DVD itself is dated September 8, 2003. A second Video Hits DVD was never produced.

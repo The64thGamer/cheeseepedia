@@ -93,13 +93,13 @@ For some stores, this was the last tape used before *Concept Unification* would 
     2.  Don't Say Howdy To Your Neighbor
     3.  [Get Together](https://en.wikipedia.org/wiki/Let%27s_Get_Together_(Chet_Powers_song))
     4.  [Ya'll Come](https://en.wikipedia.org/wiki/Porter_Wagoner)
-2.  **Intermission 6**
+2. **Intermission 6**
     1.  6 Minute Countdown
         1.  [Peace in Our Time](https://en.wikipedia.org/wiki/Peace_in_Our_Time_(Eddie_Money_song))
         2.  Birthday Spectacular
         3.  [When I Looked at Him](https://en.wikipedia.org/wiki/When_I_Looked_at_Him)
     2.  It's Showtime!
-3.  **Video 2**
+3.**Video 2**
     1.  Wind Surfing
 
 ## Trivia:

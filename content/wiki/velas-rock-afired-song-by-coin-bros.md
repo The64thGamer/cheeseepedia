@@ -28,7 +28,7 @@ Coin Bros: https://www.youtube.com/channel/UCL-hQzqcp-PD_SOwKo8YNJA
 
 ## Show List:
 
-1.  **Segment** **1**
+1. **Segment** **1**
     1.  Velas
 
 ## Official Releases

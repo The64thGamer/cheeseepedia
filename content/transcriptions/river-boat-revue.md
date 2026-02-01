@@ -1,5 +1,5 @@
 +++
-title = "River Boat Revue "
+title = "River Boat Revue"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
@@ -76,7 +76,7 @@ Oh yeah? You can’t just shut me down like that! I was gonna add a whole new di
 
 **Bugs Bunny:**
 
-Hey uh, think kindly of him folks, as Mark Twain said “be thankful for the fools, without them the rest of us couldn’t succeed”
+Hey uh, think kindly of him folks, as Mark Twain said "be thankful for the fools, without them the rest of us couldn’t succeed"
 
 **Daffy Duck:**
 

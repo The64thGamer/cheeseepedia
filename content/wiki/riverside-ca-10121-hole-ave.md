@@ -1,11 +1,12 @@
 +++
+
 title = "Riverside, CA (10121 Hole Ave)"
 storeNumber = ""
 startDate = "1981-00-00"
 endDate = "1984-00-00"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Balcony Stage|1981-00-00|1984-00-00|"]
 franchisees = []
 attractions = []
 sqft = ""
@@ -13,7 +14,7 @@ latitudeLongitude = ["33.91380137", "-117.4599102"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "9KWRmhzjop2p614ZNjOU.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

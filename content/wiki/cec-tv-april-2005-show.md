@@ -4,15 +4,16 @@ title = "CEC TV April 2005 Show"
 startDate = "2005-04-00"
 endDate = "2005-06-00"
 pageThumbnailFile = "GT3EAGzSMDVq89dzD3u0.avif"
-contributors = ["The 64th Gamer", "Documentor", "Ceclife13", "RedaCEC"]
+contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13", "RedaCEC"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/April%202005%20Studio%20C-007.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Matt Daniel - Production Coordinator, Show Announcer", "Ryan Hollingsworth - Production Specialist", "Sammy Davenport - Music Director"]
+mediaDuration = "1:24:34"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/CECTVApril2005Show.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202005%20Studio%20C-007.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***CEC TV April 2005 Show* is a showtape that released in April 2005 and played until the end of June 2005.**
+***CEC TV April 2005 Show*** is a showtape that was released in April 2005 and played until the end of June 2005.
 
 ## Show List:
 
@@ -25,18 +26,18 @@ categories = ["Chuck E. Cheese's"]
     3.   VeggieTales - 'Sport Utility Vehicle (SUV)'
     4.   Countdown 1 (Shopping Cart)
     5.  Charlie Rockit - 'Charlie Chorebot'
-    6.  CEC TV ID - 'Chuck E. Skateboarding'
+    6.  CEC TV ID - 'Skateboarding'
     7.  Countdown 2 ('Hip Mouse' footage)
 3.  **Segment 2**
     1.  'Pollution Is Crazy' (parody of ['She Drives Me Crazy'](https://en.wikipedia.org/wiki/She_Drives_Me_Crazy))
     2.  'Opposite Day'
 4.  **Intermission 2**
-    1.   CEC TV ID - 'Astronaut'
+    1.   CEC TV ID - 'Astronauts'
     2.   NASA Footage
     3.  Pasqually's Polka Minute
     4.  Countdown 3 ('Ace In The Hole' footage)
     5.  Chuck E.'s Zoo View
-    6.  CEC TV ID - 'Cell Tower'
+    6.  CEC TV ID - 'Radio Towers'
     7.   Countdown 4 (Workout Time)
 5.  **Segment 3**
     1.  ['Girls Just Wanna Have Fun'](https://en.wikipedia.org/wiki/Girls_Just_Want_to_Have_Fun)
@@ -60,9 +61,9 @@ categories = ["Chuck E. Cheese's"]
     5.  CEC TV ID - 'Falling Apple'
     6.   Countdown 7 ('I Heard It Through The Grapevine' footage)
 
-## Lives:
+## Live Shows:
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Nobody But Me
 - New Birthday (Birthday 2002)
@@ -76,7 +77,7 @@ categories = ["Chuck E. Cheese's"]
 - Chuck E. Says 2002
 - Go Santa Go (Existing Stages)
 
-**Birthday Break**: April 2005 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: April 2005 logo with music set to a 1 or 2-minute countdown, which would then lead to the Birthday show.
 
 ## Production
 
@@ -88,7 +89,7 @@ categories = ["Chuck E. Cheese's"]
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ APRIL 2005 SHOW UPDATE FINISHED.
+" APRIL 2005 SHOW UPDATE FINISHED.
  THIS SHOW IS VALID APRIL, MAY & JUNE 2005.
  QUESTIONS? CALL 972-258-5613.
  THIS UPDATE INCLUDES CYBRSTAR VERSION 1.31.
@@ -108,7 +109,7 @@ When inserting the upgrade floppy, a message would appear on the screen saying
   - 'Pizza Survivor' is reused from {{< wiki-link "September 2002 Show" >}}.
   - VeggieTales - 'Belly Button' is reused from {{< wiki-link "September 2003 Show" >}}.
   - Countdown 4 uses the cut footage for 'Going On A Diet' from {{< wiki-link "September 2004" >}}. Also, the instrumental for 'Smile' is used for Countdown 3.
-- In segment 3 when the video feed is rebooted, various pieces of footage appear on the screen. All of them are from this show with the exception of two frames from {{< wiki-link "You're A Star" >}}, those being a shot of Dick Frank in 'Frank's Barber Shop' and stock footage from 'Vacation'.
-- The Studio C DVD contains a version of 'Nobody But Me' live which has text saying '8 Minutes to Showtime!'. This was a mistake and was fixed with a second version of the live which appears at the end of the disc. 'Super Jasper' also appears twice on the disc though there doesn't seem to be any reason why.
+- In segment 3, when the video feed is rebooted, various pieces of footage appear on the screen. All of them are from this show with the exception of two frames from {{< wiki-link "You're A Star" >}}, those being a shot of Dick Frank in 'Frank's Barber Shop' and stock footage from 'Vacation'.
+- The Studio C DVD contains a version of 'Nobody But Me' live, which has text saying '8 Minutes to Showtime!'. This was a mistake and was fixed with a second version of the live which appears at the end of the disc. 'Super Jasper' also appears twice on the disc, though there doesn't seem to be any reason why.
 - This was the last show programmed by Matt Daniel before leaving the entertainment department and moving to California.
 - ‘Chuck E. Shuffle’ and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.

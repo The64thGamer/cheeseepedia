@@ -4,14 +4,14 @@ title = "Mississauga, Ontario, Canada (4141 Dixie Rd)"
 startDate = "1991-00-00"
 endDate = ""
 pageThumbnailFile = "cwRDe_8HBG8UQRvsvfJn.avif"
-contributors = ["CECBowlingGreen", "Rexburg090", "ChuckECool", "216.125.34.66", "38.49.94.240", "2605:8D80:6C2:1681:24E4:3B2F:C11E:2CF6", "2605:8D80:649:637C:398D:B4CC:2DA5:5DA2", "Stripes", "The 64th Gamer", "Caydenpedia", "Moonrock", "AstridMascotFan2005", "Bay12", "smileshy22"]
+contributors = ["CECBowlingGreen", "Rexburg090", "ChuckECool", "Anonymous", "Anonymous", "Anonymous", "Anonymous", "Stripes", "The 64th Gamer", "Caydenpedia", "Moonrock", "AstridMascotFan2005", "Bay12", "smileshy22"]
 citations = ["https://www.linkedin.com/feed/update/urn:li:ugcPost:7288158894101540865?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7288158894101540865%2C7290111496393502721%29&replyUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7288158894101540865%2C7294008473904680960%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287290111496393502721%2Curn%3Ali%3AugcPost%3A7288158894101540865%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287294008473904680960%2Curn%3Ali%3AugcPost%3A7288158894101540865%29", "https://cheeseepedia.org/photos/890u298fj23f.avif", "https://cheeseepedia.org/photos/9832u49823j4t.avif", "https://www.reddit.com/r/chuckecheese/comments/1ld32yg/road_stage_as_of_now_is_extinct/"]
 latitudeLongitude = ["43.62293592", "-79.60360668"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***Mississauga, Ontario, Canada (4141 Dixie Rd)*** is a Chuck E. Cheese's that opened in the Spring of 1991 with a {{< wiki-link "Cyberamics Road Stage" >}}.  
+***Mississauga, Ontario, Canada (4141 Dixie Rd)*** is a Chuck E. Cheese's that opened in the Spring of 1991 with a {{< wiki-link "Road Stage" >}}.  
 This location had the last Road Stage, as well as being the **longest** operating Road Stage, after Topeka, Kansas, which received 2.0 in July 2022. The location is also the 10th location in Canada. It should not be confused with {{< wiki-link "Mississauga, Ontario, Canada (2945 Argentia Rd)" >}} which opened on January 12th, 2006.
 
 ## History
@@ -25,7 +25,7 @@ Originally, Mississauga (Dixie) featured a Road Stage which they still have to t
 
 | Stage                                           | Installed   | Removed   | Notes                                                                                         |
 |-------------------------------------------------|-------------|-----------|-----------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}} | Spring 1991 | June 2025 | Poor Condition. Oldest Road Stage and last one in existence. One of two installed in Canada.. |
+| {{< wiki-link "Road Stage" >}} | Spring 1991 | June 2025 | Poor Condition. Oldest Road Stage and last one in existence. One of two installed in Canada.. |
 
 ## Animatronics
 

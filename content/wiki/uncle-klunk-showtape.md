@@ -20,22 +20,22 @@ On July 22nd, 1983, a revised version of the tape was sent out to stores. It is 
 
 ## Segment List
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Klunk Skit - Dueling Contest
-2.  **Segment 2**
+2. **Segment 2**
     1.  Funeral For a Friend
     2.  Love Lies Bleeding
-3.  **Segment 3**
+3. **Segment 3**
     1.  Klunk Skit - Pizza Expert
-4.  **Segment 4**
+4. **Segment 4**
     1.  Banana Hill Dedication Skit
     2.  Banana Hill
-5.  **Segment 5**
+5. **Segment 5**
     1.  Klunk Skit - Dial an Argument
-6.  **Segment 6**
+6. **Segment 6**
     1.  My Woman My Woman My Wife Intro Skit
     2.  My Woman My Woman My Wife
-7.  **Segment 7**
+7. **Segment 7**
     1.  Klunk Skit - Random Number
-8.  **Segment 8**
+8. **Segment 8**
     1.  Roast Beef Sandwich

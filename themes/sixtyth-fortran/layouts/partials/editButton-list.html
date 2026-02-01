@@ -1,9 +1,0 @@
-{{- if .Page.File -}}
-    {{- $cmsBaseURL := "https://cheeseepedia.org/admin/#/collections/" -}}
-    {{- $parentFolder := path.Base (path.Dir .Page.File.Path) -}} <!-- Get the parent folder name -->
-    {{- $entryName := replace .Page.File.BaseFileName ".md" "" -}} <!-- Extract slug by removing .md extension -->
-    <button class="button"
-        onclick="window.location.href = '{{ $cmsBaseURL }}{{ $parentFolder }}/entries/{{ $entryName }}';">
-        Edit Page
-    </button>
-{{- end -}}

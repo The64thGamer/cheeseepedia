@@ -19,7 +19,7 @@ Wow, Helen, this all sounds like fun. We’ll follow along, ok?
 
 **Helen Henny: (Singing)**
 
-Swing your partner, do si do, turn to your neighbor and say “Hello”.
+Swing your partner, do si do, turn to your neighbor and say "Hello".
 
 Turn around and take a bow, sing along, we’ll show you how
 

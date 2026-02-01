@@ -1,11 +1,12 @@
 +++
+
 title = "Bowling Green, KY (2530 Scottsville Rd)"
 storeNumber = ""
 startDate = "1984-04-17"
 endDate = "1986-00-00"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Balcony Stage|1984-04-17|1986-00-00|"]
 franchisees = []
 attractions = []
 sqft = ""
@@ -13,7 +14,7 @@ latitudeLongitude = ["36.95017797","-86.42593633"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "Chuck_E._Silhouette_Artwork_Bowling_Green.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

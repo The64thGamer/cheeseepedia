@@ -1,7 +1,7 @@
 +++
 title = "https://youtu.be/_sca0jdtcxA"
-startdate = "1988-04-20"
-pages = ["San Jose, CA (2445 Fontaine Rd)", "CEC Tune Machine / Country", "Cyberamics Balcony Stage"]
+startDate = "1988-04-20"
+pages = ["San Jose (Tully), CA (2445 Fontaine Rd)", "CEC Tune Machine / Country", "Cyberamics Balcony Stage"]
 tags = ["Videos"]
 categories = ["Pizza Time Theatre"]
 +++

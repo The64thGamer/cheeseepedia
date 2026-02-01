@@ -1,0 +1,19 @@
+{{- define "main" -}}
+  {{- .Page.Store.Set "citationsCount" dict -}}
+  {{- $layout := "Article" -}}
+  {{- with .Params.tags -}}
+    {{- if in . "User" -}}
+      {{- $layout = "user" -}}
+    {{- else if in . "Locations" -}}
+      {{- $layout = "baseStoreArticle" -}}
+    {{- else if in . "Cancelled Locations" -}}
+      {{- $layout = "baseStoreArticle" -}}
+    {{- else if in . "Transcriptions" -}}
+      {{- $layout = "baseTranscriptionArticle" -}}
+    {{- else if in . "Reviews" -}}
+      {{- $layout = "baseReviewArticle" -}}
+    {{- end -}}
+  {{- end -}}
+  {{- partial $layout . -}}
+{{- end -}}
+

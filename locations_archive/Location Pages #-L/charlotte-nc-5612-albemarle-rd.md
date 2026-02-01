@@ -7,13 +7,13 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1991-11-00"
 endDate = ""
-contributors = ["ChuckECool","Rexburg090","ShowBizMidwest","216.125.34.66","168.69.254.249","CEC Tinley","Saan1ty","ThatBoiCydalan","174.131.44.53","Chuckstar69","67.197.52.250","Chez","Caydenpedia","Appatheris","PachCEC","Cheeseclassic","AstridMascotFan2005","RavensFlock4L"]
+contributors = ["ChuckECool","Rexburg090","ShowBizMidwest","Anonymous","Anonymous","CEC Tinley","Saan1ty","ThatBoiCydalan","Anonymous","Chuckstar69","Anonymous","Chez","Caydenpedia","Appatheris","PachCEC","Cheeseclassic","AstridMascotFan2005","RavensFlock4L"]
 citations = []
 pageThumbnailFile = "HT_NwShK6i0ppGH3VIze.avif"
 latitudeLongitude = ["35.20164082","-80.75370023"]
 +++
 
-***5612 Albemarle Rd, Store #39*** also known as Albemarle is a *Chuck E. Cheese* that opened in November 1991 as a franchised location with a {{< wiki-link "Cyberamics Road Stage" >}} which is still open to this day. This is not to be confused with the {{< wiki-link "Charlotte, NC (4120 E Independence Blvd)" >}} location (Which was 5-7 minutes from this location) opened on March 30th, 1982, and closed in October 1984 with a {{< wiki-link "Cyberamics Balcony Stage" >}}. It should also not be confused with the {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} location as it opened on October 11th, 1982, with the Rock-Afire Explosion which is still open to this day with a 3-Stage.
+***5612 Albemarle Rd, Store #39*** also known as Albemarle is a *Chuck E. Cheese* that opened in November 1991 as a franchised location with a {{< wiki-link "Road Stage" >}} which is still open to this day. This is not to be confused with the {{< wiki-link "Charlotte, NC (4120 E Independence Blvd)" >}} location (Which was 5-7 minutes from this location) opened on March 30th, 1982, and closed in October 1984 with a {{< wiki-link "Cyberamics Balcony Stage" >}}. It should also not be confused with the {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} location as it opened on October 11th, 1982, with the Rock-Afire Explosion which is still open to this day with a 3-Stage.
 
 ## History
 

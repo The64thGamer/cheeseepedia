@@ -3,7 +3,7 @@ title = "8jPJrkkdEHfHQw7TyBQ8.avif"
 draft = false
 tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
-pages = ["Dolli Dimples Show Selector (Prototype)"]
+pages = ["PTT Show Selector"]
 startDate = ""
 +++
 Box Front, missing the selection sheets.

@@ -1,0 +1,131 @@
+
+  <div class="article-infobox-location">
+    {{- if or (.Params.startDate) (.Params.endDate) -}}
+    <b>{{- "Operated: " -}}{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}</b><br>
+    {{- end -}}
+
+    {{- $currentPageTitle := .Title -}} 
+    {{- $reviews := partialCached "grab-all-reviews.html" "key"}}
+    {{- $hasGallery := 0 -}}
+    {{- $galleryOpen := false -}}
+    {{- $totalReviews := 0 -}} <!-- To keep track of total reviews -->
+    {{- $totalRecommends := 0 -}} <!-- To keep track of total recommends -->
+    
+    {{- range $reviews -}}
+      {{- $matches := false -}} 
+      
+      {{- if eq .Params.page $currentPageTitle -}} 
+        {{- $matches = true -}}
+        {{- if eq $hasGallery 0 -}} 
+          <div class="recommendation-summary">
+          {{- $galleryOpen = true -}}
+        {{- end -}}
+        {{- $hasGallery = add $hasGallery 1 -}}
+      {{- end -}}
+    
+      {{- if $matches -}} 
+        <!-- Calculate total recommends and total reviews -->
+        {{- $totalReviews = add $totalReviews 1 -}} 
+        {{- if .Params.recommend -}} 
+          {{- $totalRecommends = add $totalRecommends 1 -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $recommendScore := div (mul $totalRecommends 100) (cond (eq $totalReviews 0) 1 $totalReviews) -}} 
+    {{- $sentiment := "Mixed" -}}
+    {{- if ge $recommendScore 75 -}}
+      {{- $sentiment = "Positive" -}}
+    {{- else if le $recommendScore 25 -}}
+      {{- $sentiment = "Negative" -}}
+    {{- end -}}
+
+    <!-- Closing the gallery div if it was opened -->
+    {{- if $galleryOpen -}} 
+      <b>Reviews: </b> {{- $sentiment -}}{{- " (👍 " -}}{{- $totalRecommends -}}{{- ") (👎 " -}}{{- sub $totalReviews $totalRecommends -}})
+      </div>
+    {{- end -}}
+
+    {{- if .Params.storeNumber -}}
+      <b>Store #: </b>{{ .Params.storeNumber }}<br>
+    {{- end -}}
+
+    {{- if .Params.sqft -}}
+      <b>Floorspace: </b>{{ .Params.sqft }} (sqft)<br>
+    {{- end -}}
+
+    {{- with .Params.latitudeLongitude -}}
+      <b>Latitude Longitude:</b> {{ index . 0 }}, {{ index . 1 }}<br>
+    {{- end -}}
+
+    {{- if .Params.downloadLinks -}}
+      <div class="article-infobox-linkbox">
+        <b>Downloads: </b>
+        <ul>
+          {{- range .Params.downloadLinks -}}
+            {{- $downloadParts := split . "|" -}}
+            {{- if ge (len $downloadParts) 2 -}}
+              <li><a href="{{ index $downloadParts 0 }}">{{ index $downloadParts 1 }}</a></li>
+            {{- else -}}
+              <li><a href="{{ . }}">{{ . }}</a></li>
+            {{- end -}}
+          {{- end -}}
+        </ul>
+      </div>
+    {{- end -}}
+
+    {{- with .Params.remodels }}
+      <div class="article-infobox-linkbox">
+        <b>Remodels & Initiatives: </b>
+        <ul>
+          {{- range . }}
+            {{- $parts := split . "|" -}}
+            {{- $name := index $parts 0 -}}
+            {{- $date := index $parts 1 -}}
+            <li>{{ partial "wiki-link.html" (dict "name" $name) }} ({{- partial "Readable_Date.html" (dict "date" $date "presentOnEmpty" false) -}})</li>
+          {{- end }}
+        </ul>
+      </div>
+    {{- end }}
+
+    {{- with .Params.stages }}
+      <div class="article-infobox-linkbox">
+        <b>Stages: </b>
+        <ul>
+          {{- range . }}
+            {{- $parts := split . "|" -}}
+            {{- $name := index $parts 0 -}}
+            {{- $start := index $parts 1 -}}
+            {{- $end := index $parts 2 -}}
+            {{- $version := index $parts 3 -}}
+            <li>
+              {{ partial "wiki-link.html" (dict "name" $name) }}
+              ({{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}} – {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}})
+              {{- if $version }}
+                ({{ $version }})
+              {{- end }}
+            </li>
+          {{- end }}
+        </ul>
+      </div>
+    {{- end }}
+
+    {{- with .Params.franchisees }}
+      <div class="article-infobox-linkbox">
+        <b>Franchisees: </b>
+        <ul>
+          {{- range . }}
+            {{- $parts := split . "|" -}}
+            {{- $name := index $parts 0 -}}
+            {{- $start := index $parts 1 -}}
+            {{- $end := index $parts 2 -}}
+            <li>
+              {{ $name }}
+              ({{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}} – {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}})
+            </li>
+          {{- end }}
+        </ul>
+      </div>
+    {{- end }}
+
+  </div>

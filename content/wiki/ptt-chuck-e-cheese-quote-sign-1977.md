@@ -1,4 +1,5 @@
 +++
+
 title = "PTT Chuck E. Cheese Quote Sign (1977)"
 draft = false
 tags = ["Store Fixtures"]
@@ -7,8 +8,8 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["Concordio"]
 citations = []
+pageThumbnailFile = "G6RU2ybgKotn5nTVTj3R.avif"
 +++
-in Huntington Beach, California.]]
 Not to be confused with the Cheese Crawl Chuck Quote Sign, the ***Chuck E. Cheese Quote Sign* first appeared at the first Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} located in the Town & Country Shopping Center in San Jose, California. The sign would make another known appearance at the {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}} located on 15511 Edwards Street located in Huntington Beach, California. The sign would be re-designed in the 1980s for other usages.**
 
 ## Production

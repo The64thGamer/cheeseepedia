@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/3En_FDae6l0"
-pages = ["San Jose, CA (2445 Fontaine Rd)", "Chuck E. Cheese (Cyberamic)"]
+pages = ["San Jose (Tully), CA (2445 Fontaine Rd)", "Chuck E. Cheese (Cyberamic)"]
 tags = ["Videos"]
 categories = ["Pizza Time Theatre"]
 +++

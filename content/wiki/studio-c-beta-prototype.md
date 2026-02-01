@@ -3,11 +3,9 @@ title = "Studio C Beta Prototype"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = ""
-endDate = ""
-contributors = ["CECBowlingGreen","Documentor","Ceclife13","ShowBizMidwest","BurgersNuggs445","Pasquallytheplumber","The 64th Gamer","Stripes","AstridMascotFan2005"]
+startDate = "2000-04-10"
+endDate = "2022-10-18"
+contributors = ["CECBowlingGreen","CyberSnout","Ceclife13","ShowBizMidwest","BurgersNuggs445","Pasquallytheplumber","The 64th Gamer","Stripes","AstridMascotFan2005"]
 citations = ["<ref></ref>","Studio C (1997)"]
 pageThumbnailFile = "sRbweVELSlf86DNCjP0J.avif"
 +++
@@ -28,7 +26,7 @@ In general this stage consisted of a condensed version of the Studio C concept, 
 
 ## Animatronics Used
 
-- {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}
+- {{< wiki-link "Chuck E. Cheese 32m (Animatronic)" >}}
 - {{< wiki-link "Bird (Animatronic)" >}}
 - {{< wiki-link "Pizza Time Clock (Animatronic)" >}}
 

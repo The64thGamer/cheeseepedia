@@ -17,49 +17,49 @@ This show has the same segments, and music videos from last years release, but t
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  6 Minute Countdown
         1.  [My Favorite Things](https://en.wikipedia.org/wiki/Merry_Christmas_(The_Supremes_album))
         2.  Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas'){{< cite 1 >}}
         3.  Birthday Spectacular
     2.  Cyberstar Intro
-2.  **Segment 1**
+2. **Segment 1**
     1.  Homely For Christmas 1
         1.  [No Place Like Home](https://en.wikipedia.org/wiki/That_Christmas_Feeling)
         2.  [Jingle Bell Rock](https://en.wikipedia.org/wiki/Jingle_Bell_Rock)
         3.  [Please Come Home For Christmas](https://en.wikipedia.org/wiki/Please_Come_Home_for_Christmas)
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  6 Minute Countdown
         1.  [Toyland](https://en.wikipedia.org/wiki/Christmas_Eve_with_Johnny_Mathis)
         2.  Birthday Spectacular
         3.  [Santa Claus Is Coming to Town](https://en.wikipedia.org/wiki/A_Very_Special_Christmas_(album))
     2.  Cyberstar Intro
-4.  **Segment 2**
+4. **Segment 2**
     1.  Homely For Christmas 2
         1.  [Joy to the World](https://en.wikipedia.org/wiki/Joy_to_the_World)
         2.  [Oh Holy Night](https://en.wikipedia.org/wiki/O_Holy_Night)
         3.  [Little Drummer Boy](https://en.wikipedia.org/wiki/The_Little_Drummer_Boy)
         4.  [White Christmas](https://en.wikipedia.org/wiki/White_Christmas_(song))
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  6 Minute Countdown
         1.  [Christmas In the Caribbean](https://en.wikipedia.org/wiki/Boats,_Beaches,_Bars_%26_Ballads)
         2.  Birthday Spectacular
         3.  [White Christmas Makes Me Blue](https://en.wikipedia.org/wiki/An_Old_Time_Christmas)
     2.  It's Showtime!
-6.  **Video 1**
+6.**Video 1**
     1.  [Mannheim Steamroller - The Little Drummer Boy](https://en.wikipedia.org/wiki/A_Fresh_Aire_Christmas)
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  6 Minute Countdown
         1.  All I Want For Christmas (From Ray Charles 'The Spirit of Christmas')
         2.  Birthday Spectacular
         3.  [Run Rudolph Run](https://en.wikipedia.org/wiki/Run_Rudolph_Run)
     2.  Cyberstar Intro
-8.  **Segment 3**
+8. **Segment 3**
     1.  Homely For Christmas 3
         1.  [Little Saint Nick](https://en.wikipedia.org/wiki/Little_Saint_Nick)
         2.  [Run Run Rudolph](https://en.wikipedia.org/wiki/Run_Rudolph_Run)
         3.  [Santa Claus Is Comin' to Town](https://en.wikipedia.org/wiki/Santa_Claus_Is_Comin%27_to_Town)
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  6 Minute Countdown
         1.  [Frosty the Snowman](https://en.wikipedia.org/wiki/Pretty_Paper)
         2.  [Have Yourself a Merry Little Christmas](https://en.wikipedia.org/wiki/Jackson_5_Christmas_Album)

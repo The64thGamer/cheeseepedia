@@ -1,6 +1,6 @@
 +++
 title = "0i9jio4jv34gf.avif"
-startdate = "1983-00-00"
+startDate = "1983-00-00"
 citations = ["https://youtu.be/C0dD4y_D9kM"]
 pages = ["2nd Generation Beach Bear Prototype (Animatronic)"]
 tags = ["Photos"]

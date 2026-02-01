@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2019-11-04"
 endDate = "2019-12-29"
-contributors = ["Documentor","Mousester"]
+contributors = ["CyberSnout","Mousester"]
 citations = []
 pageThumbnailFile = "EPKN0v7J8306O_315Dwv.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -15,30 +15,30 @@ The show was intended to play from November 4, 2019 - December 29, 2019. It feat
 
 ## Show List:
 
-1.  **Skit 1**
+1. **Skit 1**
     1.  Chuck E. Cheese & Friends - 'Cookies For Santa'
-2.  **Intermission 1**
+2. **Intermission 1**
     1.  Brady Rhymer - 'Hanukkah Rocks'
     2.  Gwen Stefani - 'Under the Christmas lights'
     3.  Norman Picklestripes - 'Sap'
-3.  **Skit 2**
+3. **Skit 2**
     1.  Bella B. & Chuck E. - 'Holiday Fiesta'
-4.  **Intermission 2**
+4. **Intermission 2**
     1.  Juicebox Jukebox - 'Questions for Santa'
     2.  Asher Angel - 'Snow Globe Wonderland'
-5.  **Skit 3**
+5. **Skit 3**
     1.  Helen Henny - 'All I Want for Christmas is Snow'
-6.  **Intermission 3**
+6. **Intermission 3**
     1.  Lindsey Stirling - 'Carol of The Bells'
     2.  Fun Facts with Chuck E. - 'Santa Claus'
     3.  The Chica Show - 'The Egg Cracker'
-7.  **Skit 4**
+7. **Skit 4**
     1.  Chuck E. Cheese & Friends - 'Share The Joy'
-8.  **Intermission 4**
+8. **Intermission 4**
     1.  Boyz II Men - 'Let it Snow'
     2.  Musing with Mr. Munch Episode 6 - 'Holidays'
     3.  OmNom Stories - 'Santa'
-9.  **Skit 5**
+9. **Skit 5**
     1.  Mr. Munch - 'Zorp-Ah-Glorp-Dor-Bah is Coming Tonight'
 10. **Intermission 5**
     1.  Battery Pop - Brady Rymer - 'Can't Sit Still'
@@ -84,4 +84,4 @@ The show was intended to play from November 4, 2019 - December 29, 2019. It feat
 
 ## Trivia:
 
-- 'All I Want for Christmas is Snow' and 'Holidays Traditions' were originally from {{< wiki-link "Chuck E Cheese's Show 7 2018" >}}. and 'Merry Christmastime', 'Share The Joy', and 'Holiday Medley' all come from {{< wiki-link "Chuck E Cheese's Show 9 2016" >}}.
+- 'All I Want for Christmas is Snow' and 'Holidays Traditions' were originally from {{< wiki-link "Chuck E. Cheese's Show 7 2018" >}}. and 'Merry Christmastime', 'Share The Joy', and 'Holiday Medley' all come from {{< wiki-link "Chuck E. Cheese's Show 9 2016" >}}.

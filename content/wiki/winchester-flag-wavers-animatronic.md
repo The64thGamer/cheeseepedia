@@ -16,7 +16,7 @@ The Bot was used from May 1977 up until either Winchester got {{< wiki-link "Cyb
 
 ## History
 
-The Winchester Flag Wavers were installed in May 1977 in the dining areahttps://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf (Contains the Thumbnail image & Broad Dining Area Shot.). They would wave along to the showtapes{{< cite 1 >}}. The Bot appeared in the 'The Great All-American Pizza Show' Brochure in 1979, where there referred to as just 'flags'{{< cite 1 >}}. The Bot would remain at Winchester until it got Cyberamics in 1981. The Bot's were either sent to {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, or thrown out.
+The Winchester Flag Wavers were installed in May 1977 in the dining areahttps://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf (Contains the Thumbnail image & Broad Dining Area Shot.). They would wave along to the showtapes{{< cite 1 >}}. The Bot appeared in the 'The Great All-American Pizza Show' Brochure in 1979, where there referred to as just 'flags'{{< cite 1 >}}. The Bot would remain at Winchester until it got Cyberamics in 1981. The Bot's were either sent to {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, or thrown out.
 
 ## Design
 

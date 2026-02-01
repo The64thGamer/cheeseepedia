@@ -1,10 +1,12 @@
 +++
-title = "Bingo"
+
+title = "BINGO"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2000-00-00"
-endDate = "0000-00-00"
-contributors = ["Anastasia.laguardia","Documentor"]
+startDate = "2000-03-00"
+endDate = "2012-04-30"
+contributors = ["Anastasia.laguardia","CyberSnout"]
 citations = []
+pageThumbnailFile = "B-I-N-G-O_Side.avif"
 +++

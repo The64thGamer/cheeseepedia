@@ -4,9 +4,10 @@ title = "Summer 2010 Show"
 startDate = "2010-07-00"
 endDate = "2010-08-31"
 pageThumbnailFile = "RWEu4smi_OaDa7B0zYPf.avif"
-contributors = ["Documentor", "66.220.208.40", "The 64th Gamer", "68.115.107.230", "John95", "2600:6C46:4A00:A2F:81B0:627F:AD01:D2D1", "Ceclife13", "172.58.159.105", "2600:6C46:4A00:A2F:5510:397C:1D6D:FD70", "Dame0824"]
+contributors = ["CyberSnout", "Anonymous", "The 64th Gamer", "Anonymous", "John95", "Anonymous", "Ceclife13", "Anonymous", "Anonymous", "Dame0824"]
 citations = ["http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-07.pdf"]
 credits = ["Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator"]
+mediaDuration = "1:20:05"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/June%202010%203-Stage-003.iso|3-Stage DVD ISO w/ Signals"]
 tags = ["Showtapes"]
@@ -17,21 +18,21 @@ This show played from July - August 31, 2010.
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  CEC TV ID - 'Aquarium'
-2.  **Segment 1**
+2. **Segment 1**
     1.  'Best Friends'
     2.  'Summertime'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Backstage Pass - 'Kicking Daisies'
     2.  CEC TV ID - 'Dancing Food'
     3.  Fun Facts - 'The Human Eye'
     4.  The Zula Patrol - 'The Canyon'
     5.  Sound Splosion: Anna Margaret - 'Something About The Sunshine'
     6.  CEC TV ID - 'Parachute'
-4.  **Segment 2**
+4. **Segment 2**
     1.  ['Ain't Nothing Wrong With That'](https://en.wikipedia.org/wiki/Colorblind_(Robert_Randolph_album))
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  CEC TV ID - 'Crane Game'
     2.  Ralph's World - 'Gotta Be Good'
     3.  CEC TV ID - 'Color The Numbers'
@@ -42,9 +43,9 @@ This show played from July - August 31, 2010.
     8.  CEC TV ID - 'Pizza Parachute'
     9.  VeggieTales - 'Song of the Cebu'
     10. Busytown Mysteries - 'The Cheese Car Chomp Mystery'
-6.  **Segment 3**
+6. **Segment 3**
     1.  'Ray of Sunshine'
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Fun Facts - 'Emperor Penguins'
     2.  Noonbory & The Super 7 - 'A Honey Of A Tale'
     3.  Wild Animal Baby - 'A Tall Tail'
@@ -52,9 +53,9 @@ This show played from July - August 31, 2010.
     5.  Pocoyo - 'The Big Sneeze'
     6.  CEC TV ID - 'Space Kids'
     7.  Will & Dewitt - 'My New Boots'
-8.  **Segment 4**
+8. **Segment 4**
     1.  ['Hey, Soul Sister'](https://en.wikipedia.org/wiki/Hey,_Soul_Sister)
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  Fun Facts - 'Porcupines Float in Water'
     2.  CEC TV ID - 'Skeeball'
     3.  Dive Olly Dive! - 'Everyone Makes Mistakes'
@@ -66,7 +67,7 @@ This show played from July - August 31, 2010.
     1.  CEC TV ID - 'Radio Towers'
     2.  Animal Atlas - 'Animals And Us'
     3.  Sound Splosion: Joe Jonas and Demi Lovato - 'Make A Wave'
-    4.  CEC TV ID - 'Astronaut Chuck E.'
+    4.  CEC TV ID - 'Astronauts'
     5.  Wow Wow Wubbzy! - 'Come Play With Me'
     6.  Fun Facts - 'First Coast to Coast Telephone'
     7.  The Zone - 'Amateur Skateboarder'
@@ -84,7 +85,7 @@ This show played from July - August 31, 2010.
     7.  The Zone - 'Amateur Kiteboarder'
     8.  Pajanimals - 'Stick To The Plan'
 
-## Lives:
+## Live Shows:
 
 - Birthday Program 2009
 - BINGO

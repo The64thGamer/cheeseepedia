@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 
 citations = []
 +++

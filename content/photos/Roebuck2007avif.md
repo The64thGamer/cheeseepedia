@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Birmingham (Roebuck), AL (9325 Parkway East)"]
 
 citations = []
 +++

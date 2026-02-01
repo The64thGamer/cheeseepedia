@@ -2,7 +2,7 @@
 title = "DACS"
 draft = false
 tags = ["Animatronic Control Systems"]
-categories = ["Disney Parks"]
+categories = ["Walt Disney Imagineering"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

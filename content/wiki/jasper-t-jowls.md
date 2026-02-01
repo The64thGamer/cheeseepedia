@@ -1,4 +1,5 @@
 +++
+
 title = "Jasper T. Jowls"
 draft = false
 tags = ["Characters"]
@@ -9,15 +10,15 @@ startDate = ""
 endDate = ""
 contributors = ["Animatronicbrainrot","CECMentor"]
 citations = []
+pageThumbnailFile = "nl8yNk_3RrDawtyCt8Rr.avif"
 +++
-
 ***Jasper***, full name ***Jasper Tennessee Jowls***, is one of the main characters of the Chuck E. Cheese's franchise, having made his debut at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location in 1977.
 
 ## History
 
 ### Pizza Time Theatre
 
-From as early as 1977, Jasper was a country loving hound dog. He was loud and not too smart, being portrayed by Scott Paulin. He had buck teeth, wrinkles, a banjo, and a straw hat. He would often laugh at any joke, no matter how poor its content was, causing {{< wiki-link "Chuck E Cheese" >}} to yell at the technician to turn off the 'fruitcake dog.' He would flirt and obsess over the female guest stars, most notably Harmony Howlette.
+From as early as 1977, Jasper was a country loving hound dog. He was loud and not too smart, being portrayed by Scott Paulin. He had buck teeth, wrinkles, a banjo, and a straw hat. He would often laugh at any joke, no matter how poor its content was, causing {{< wiki-link "Chuck E. Cheese" >}} to yell at the technician to turn off the 'fruitcake dog.' He would flirt and obsess over the female guest stars, most notably Harmony Howlette.
 
 ### ShowBiz Pizza Time
 

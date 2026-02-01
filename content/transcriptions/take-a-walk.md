@@ -1,5 +1,5 @@
 +++
-title = "Take A Walk "
+title = "Take A Walk"
 tags = ["Transcriptions"]
 contributors = ["showbizdudebeta"]
 +++

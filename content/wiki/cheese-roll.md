@@ -1,7 +1,7 @@
 +++
 title = "Cheese Roll"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades and Attractions"]
 categories = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""

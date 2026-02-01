@@ -24,22 +24,22 @@ The original reel audio alongside {{< wiki-link "Data" >}} for the shows are sti
 The tape starts with an announcer reminding Billy Bob that the show is starting in 2 minutes. At the start of the show the announcer introduces the band 'Magic', a collaboration between ShowBiz Pizza Place and 'Good Times Everywhere'. The rest of the tape consists of Christmas segments used in previous year's showtapes.
 |-|Segment List=
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Pre-Show Skit
-2.  **Segment 2**
+2. **Segment 2**
     1.  Show Announcement
-3.  **Segment 3**
+3. **Segment 3**
     1.  Silent Night
-4.  **Segment 4**
+4. **Segment 4**
     1.  In December
-5.  **Segment 5**
+5. **Segment 5**
     1.  Fire
     2.  My Girl
-6.  **Segment 6**
+6. **Segment 6**
     1.  If Every Day Were Like Christmas
-7.  **Segment 7**
+7. **Segment 7**
     1.  Elvira
-8.  **Segment 8**
+8. **Segment 8**
     1.  Disco Christmas (ShowBiz Edit)
         1.  Joy To The World
         2.  Rudolph The Red Nose Reindeer

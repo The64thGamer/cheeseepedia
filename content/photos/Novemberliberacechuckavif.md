@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Chuck Statue- Liberace (Shelf Item)"]
 
 citations = []
 +++

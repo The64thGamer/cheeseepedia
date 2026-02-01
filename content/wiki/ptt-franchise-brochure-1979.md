@@ -16,7 +16,7 @@ The Brochure contains info about assets, animatronics & items Franchisees would 
 
 ### Front Cover
 
-The Front Cover has the Standard 1978/1979 small size PTT Logo with text under it saying 'THE GREAT ALL-AMERICAN PIZZA SHOW!'. The Front Cover also has artwork of {{< wiki-link "Chuck E Cheese" >}} with a Cigar & Microphone, {{< wiki-link "Pasqually" >}}, {{< wiki-link "Jasper T Jowls" >}} playing his Banjo, {{< wiki-link "Mr Munch" >}} eating a pizza, & The Mopsey Sisters.
+The Front Cover has the Standard 1978/1979 small size PTT Logo with text under it saying 'THE GREAT ALL-AMERICAN PIZZA SHOW!'. The Front Cover also has artwork of {{< wiki-link "Chuck E. Cheese" >}} with a Cigar & Microphone, {{< wiki-link "Pasqually" >}}, {{< wiki-link "Jasper T Jowls" >}} playing his Banjo, {{< wiki-link "Mr Munch" >}} eating a pizza, & The Mopsey Sisters.
 
 ### Inside Pages
 

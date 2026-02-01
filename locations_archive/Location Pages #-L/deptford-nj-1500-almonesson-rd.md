@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1991-11-12"
 endDate = ""
-contributors = ["MM995","Rexburg090","RPCEC","2600:4040:59FC:D100:A0EB:B44E:C6B6:16A2","The 64th Gamer","2600:4040:59FC:D100:387D:65E5:2486:4C7","Cecnj98","ShowBizMidwest","2600:4040:AD76:D00:B53D:EF88:79B6:14D8","CEC Tinley","ThatBoiCydalan","Planetpurplediner"]
+contributors = ["MM995","Rexburg090","RPCEC","Anonymous","The 64th Gamer","Anonymous","Cecnj98","ShowBizMidwest","Anonymous","CEC Tinley","ThatBoiCydalan","Planetpurplediner"]
 citations = []
 pageThumbnailFile = "2k6MZy_sgnfaddOZlazQ.avif"
 latitudeLongitude = ["39.82532117","-75.10387053"]
@@ -21,7 +21,7 @@ This location opened up with a Road Stage and was converted to a 1-stage sometim
 
 | Stage                                                      | Installed     | Removed       | Notes                                                                                                                                                                                                                                  |
 |------------------------------------------------------------|---------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}            | November 1991 | 1994/1995     | One of two installed in New Jersey. First location in New Jersey with a MMBB Stage of any kind as {{< wiki-link "Union, NJ (1660 US-22)" >}} was a {{< wiki-link "Chuck E's House Facade" >}} at the time Deptford opened. |
+| {{< wiki-link "Road Stage" >}}            | November 1991 | 1994/1995     | One of two installed in New Jersey. First location in New Jersey with a MMBB Stage of any kind as {{< wiki-link "Union, NJ (1660 US-22)" >}} was a {{< wiki-link "Chuck E's House Facade" >}} at the time Deptford opened. |
 | {{< wiki-link "1-Stage" >}}                          | 1994/1995     | December 2022 | One of six installed in New Jersey. Had 2-Stage Background and Props.                                                                                                                                                                  |
 | {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | December 2022 | Still in Use  | 2021 Model. First 2.0 remodel in Southern New Jersey.                                                                                                                                                                                  |
 

@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Winchester Chuck E. Cheese V2 (Animatronic)"]
 
 citations = []
 +++

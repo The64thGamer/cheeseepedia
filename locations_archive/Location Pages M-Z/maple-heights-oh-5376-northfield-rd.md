@@ -4,7 +4,7 @@ title = "Maple Heights, OH (5376 Northfield Rd)"
 startDate = "1980-11-00"
 endDate = "1985-06-00"
 pageThumbnailFile = "aUDukUAYGTJ3DV_Da9kN.avif"
-contributors = ["199.197.75.185", "Cheeseclassic", "SuperCreamPiper2008", "PizzaEntertainmentFanX", "Chouts1"]
+contributors = ["Anonymous", "Cheeseclassic", "SuperCreamPiper2008", "PizzaEntertainmentFanX", "Chouts1"]
 citations = ["<a href=\"https://www.newspapers.com/image/156706667\">https://www.newspapers.com/image/156706667</a>"]
 latitudeLongitude = ["41.41427902", "-81.53088383"]
 tags = ["Locations"]

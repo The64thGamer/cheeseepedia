@@ -1,10 +1,10 @@
 +++
-title = "Colander Head Club Membership Card (1983)"
+title = "Colander Head Club Membership Card"
 draft = false
 tags = ["In-Store Merchandise"]
 categories = ["ShowBiz Pizza Place"]
-startDate = ""
-endDate = "0000-00-00"
+startDate = "1983-03-00"
+endDate = "1983-03-00"
 contributors = ["The 64th Gamer"]
 citations = ["The Colander Gazette - Vol 1. No. 1 (February 24, 1983)","Crazy Colander Head Night (Event)"]
 pageThumbnailFile = "pUoX8MihMdiVOYFXkzaW.avif"

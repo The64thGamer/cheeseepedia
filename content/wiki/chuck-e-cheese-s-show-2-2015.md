@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2015-03-16"
 endDate = "2015-4-19"
-contributors = ["Documentor","Himitsu","The 64th Gamer","Hollyburgdorf","2600:6C46:4A00:A2F:78D4:CF3:DF2F:FCA8","Ceclife13","2600:6C46:4A00:A2F:DD3:6454:503E:4095"]
+contributors = ["CyberSnout","Himitsu","The 64th Gamer","Hollyburgdorf","Anonymous","Ceclife13","Anonymous"]
 citations = []
 pageThumbnailFile = "Vwn7bLFeK7PutbsoeQ3S.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -15,12 +15,12 @@ This was created to play from March 16th 2015 - April 19th 2015. This show featu
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Anna Kendrick - 'Cups'
     2.  CEC Promo - 'Chuck E. Club'
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese - 'Because We're Friends'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Katy Perry - 'This Is How We Do'
     2.  CEC Promo - 'Fundraisers'
     3.  Josh & The Jamtones - 'Death Valley of Cornfield of Doom'
@@ -34,9 +34,9 @@ This was created to play from March 16th 2015 - April 19th 2015. This show featu
     11. Bridgit Mendler - 'Ready or Not'
     12. Josh & The Jamtones - 'Bear Hunt Trailer #2'
     13. CEC Promo - 'New Food'
-4.  **Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese - 'Rockin' Robot'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Josh & The Jamtones - 'Everybody Dance'
     2.  OK Go - 'I Won't Let You Down'
     3.  CEC Promo - 'Big Brothers, Big Sisters'

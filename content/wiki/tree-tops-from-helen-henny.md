@@ -4,7 +4,7 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2006-01-30"
-endDate = "0000-00-00"
+endDate = "2006-01-30"
 contributors = ["Ceclife13","The 64th Gamer","RedaCEC","John95"]
 citations = ["https://youtu.be/Vn2hv3AKTXo"]
 pageThumbnailFile = "J1foKBNYT4LicTqZNBcO.avif"
@@ -19,5 +19,5 @@ The segment was programmed sometime between mid to late 2004 and mid-2005, as th
 
 ## Show List:
 
-1.  **Segment** **1**
+1. **Segment** **1**
     1.  Tree Tops

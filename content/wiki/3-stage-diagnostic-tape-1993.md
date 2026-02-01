@@ -1,14 +1,14 @@
 +++
-title = "3-Stage Diagnostic Tape 1993"
 draft = false
+title = "3-Stage Diagnostic Tape 1993"
+startDate = "1993-00-00"
+endDate = "2002-00-00"
+pageThumbnailFile = "10uSup4OOYRzyAgzKv9m.avif"
+contributors = ["The 64th Gamer", "CyberSnout", "Cy's Junk at School"]
+citations = []
+showtapeFormats = ["3-Stage SVHS (Pre-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1993-00-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor","Cy's Junk at School"]
-citations = []
-pageThumbnailFile = "10uSup4OOYRzyAgzKv9m.avif"
-showtapeFormats = ["3-Stage SVHS (Pre-93)","3-Stage SVHS (Post-93)"]
 +++
 ***3-Stage Diagnostics Tape 1993* was a diagnostics tape released just two years after the initial Concept Unification Diagnostics Tape 1, as the original was no longer usable during the 1993 showtape conversion of signals.
 Multiple things from the *ShowBiz Pizza Time* corporate office show can be seen changed between each tape. Chuck and Helen's masks are different, Munch's organ cover was changed from the early sunrise design to the standard design, Jasper's guitar was changed from the original Beach Bear guitar to the cheese guitar, and Pasqually's drum front changing from the orange swirl design to the blue explosion design.

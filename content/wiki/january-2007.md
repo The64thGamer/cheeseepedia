@@ -1,12 +1,13 @@
 +++
 draft = false
 title = "January 2007"
-startDate = "2007-01-00"
-endDate = "2007-03-00"
+startDate = "2007-01-01"
+endDate = "2007-03-31"
 pageThumbnailFile = "brnaurys7ldzrwabd1bg.avif"
-contributors = ["The 64th Gamer", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D", "Ceclife13"]
+contributors = ["The 64th Gamer", "Anonymous", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/January%202007%20Studio%20C-008.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist"]
+mediaDuration = "58:46"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/January%202007%203-Stage-003.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/January%202007%20Studio%20C-008.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
@@ -16,38 +17,38 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  ['Good Life'](https://en.wikipedia.org/wiki/Beautiful_Soul_(Jesse_McCartney_album))
     2.  ['It's Your Thing'](https://en.wikipedia.org/wiki/It%27s_Your_Thing)
-2.  **Intermission 1**
+2. **Intermission 1**
     1.  CEC TV ID - 'Parachute'
     2.  Coke Spot
     3.  Flushed Away Promo
     4.  CEC TV ID - 'Digestion'
     5.  Chillout - 'Arctic Life'
-3.  **Segment 2**
+3. **Segment 2**
     1.  ['I Want You To Want Me'](https://en.wikipedia.org/wiki/I_Want_You_to_Want_Me)
     2.  ['Right On The Money'](https://en.wikipedia.org/wiki/Right_on_the_Money)
-4.  **Intermission 2**
+4. **Intermission 2**
     1.  CEC TV ID - 'Flashing Hand'
     2.  Sing-along Guys - 'BINGO'
     3.  PBS Kids Spot
     4.  Super Jasper - 'Cadilac Ranch'
     5.  CEC TV ID - 'Sing-along Guys'
     6.  Chillout - 'Landscapes'
-5.  **Segment 3**
+5. **Segment 3**
     1.  ['Fame'](https://en.wikipedia.org/wiki/Fame_(Irene_Cara_song))
     2.  ['Crazy For This Girl'](https://en.wikipedia.org/wiki/Crazy_for_This_Girl)
-6.  **Intermission 3**
+6. **Intermission 3**
     1.  CEC TV ID - 'Dancing Food'
     2.  Coke Spot
     3.  VeggieTales - 'Lance The Turtle'
     4.  CEC TV ID - 'Space Kids'
     5.  Chillout - 'Fish'
-7.  **Segment 4**
+7. **Segment 4**
     1.  ['Still The One'](https://en.wikipedia.org/wiki/Still_the_One)
     2.  'The Trashman' (parody of ['Taxman'](https://en.wikipedia.org/wiki/Taxman))
-8.  **Intermission 4**
+8. **Intermission 4**
     1.  CEC TV ID - 'Marquee'
     2.  Flushed Away Promo
     3.  CEC TV ID - 'Stars'
@@ -56,7 +57,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Token Card Promos
 
-Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. Each promo has a version for stores about to receive the cards and a version for stores that already have it. It is unknown when they would play in the show.
+Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. Each promo has a version for stores about to receive the cards and a version for stores that already have them. It is unknown when they would play in the show.
 
 - Tube Explorer - 'Token Cards' (Coming Soon)
 - Tube Explorer - 'Token Cards' (Here Right Now)

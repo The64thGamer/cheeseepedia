@@ -1,12 +1,13 @@
 +++
 draft = false
-title = "January 2013 Show"
+title = "First Quarter 2013"
 startDate = "2013-01-00"
 endDate = "2013-03-00"
 pageThumbnailFile = "0b9OPr3voJX8NDYLv9xZ.avif"
-contributors = ["The 64th Gamer", "Documentor", "John95", "Ceclife13", "RedaCEC", "172.58.159.105", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D"]
+contributors = ["The 64th Gamer", "CyberSnout", "John95", "Ceclife13", "RedaCEC", "Anonymous", "Anonymous"]
 citations = []
 credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Jeremy Blaido - Voice of Jasper T. Jowls, Mike Manly, Singing Voice of Pasqually The Chef", "Matt Daniel - Production Coordinator, Singer ('Working For The Weekend'), Voice of Hard Hat Hank", "Michael Hill - Studio Coordinator, Nigel The Sasquatch"]
+mediaDuration = "1:33:15"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -15,44 +16,44 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.  **Song 1**
+1.**Song 1**
     1.  [Working For The Weekend](https://en.wikipedia.org/wiki/Working_for_the_Weekend)
-2.  **Intermission 1**
+2. **Intermission 1**
     1.  Veggietales - 'Happy Toothday'
     2.  Chillout 1 - Circle of Life
     3.  CEC TV ID - 'Singing Animals'
-3.  **Song 2**
+3.**Song 2**
     1.  Need a New Wheel (Parody of [Head Over Heels](https://en.wikipedia.org/wiki/Head_over_Heels_(Tears_for_Fears_song)))
-4.  **Intermission 2**
+4. **Intermission 2**
     1.  Fraggle Rock - 'Pass It On'
     2.  Chillout 2 - 'Electro Space'
     3.  CEC TV ID - 'Jawbreaker'
-5.  **Song 3**
+5.**Song 3**
     1.  [Crocodile Rock](https://en.wikipedia.org/wiki/Crocodile_Rock)
-6.  **Intermission 3**
+6. **Intermission 3**
     1.  My Little Pony - 'Winter Wrap Up'
     2.  Super Jasper - 'Break the Record'
     3.  Chillout 3 - 'Rock Climbing'
     4.  CEC TV ID - 'Digestion'
-7.  **Song 4**
+7.**Song 4**
     1.  [Sing a Song](https://en.wikipedia.org/wiki/Sing_a_Song_(Earth,_Wind_%26_Fire_song))
-8.  **Intermission 4**
+8. **Intermission 4**
     1.  Tim & the Space Cadets - 'Super Hero'
     2.  Chillout 4 - 'Underwater'
     3.  CEC TV ID - 'Flashing Hand'
-9.  **Song 5**
+9.**Song 5**
     1.  [Everybody Wants to Rule the World](https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World)
 10. **Intermission 5**
     1.  Pajanimals - 'Super Squacky'
     2.  Chillout 5 - 'Time Lapse'
-    3.  CEC TV ID - 'Pizza Fan'
+    3.  CEC TV ID - 'Pasta Fan'
 11. **Song 6**
     1.  Pizza Oven (Parody of [Evil Women](https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song)))
 12. **Intermission 6**
     1.  Pound Puppies - 'McLeash'
     2.  Hard Hat Hank - 'Door Frame'
     3.  Chillout 6 - 'Water Fly Over'
-    4.  CEC TV ID - 'Skee-Ball'
+    4.  CEC TV ID - 'Skeeball'
 13. **Song 7**
     1.  Come on, Let's Go
 14. **Intermission 7**
@@ -92,7 +93,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Trivia:
 
-- 'Workin' for the Weekend' is originally from {{< wiki-link "January 2006 Show" >}}, 'Need a New Wheel', 'Pizza Oven' and Hard Hat Hank are originally from {{< wiki-link "April 2012 Show" >}}, 'Crocodile Rock' is originally from {{< wiki-link "September 2005 Show" >}}, 'Sing a Song' is originally from {{< wiki-link "January 2004 Show" >}}, 'Everybody Wants to Rule the World' is originally from {{< wiki-link "January 2009 Show" >}}, 'Come On Let's Go' is originally from {{< wiki-link "September 2011 Show" >}}, and 'Get Down On It' is originally from {{< wiki-link "April 2007 Show" >}}. Jaret Reddick rerecorded all of Chuck E.'s lines.
+- 'Workin' for the Weekend' is originally from {{< wiki-link "January 2006 Show" >}}, 'Need a New Wheel', 'Pizza Oven' and Hard Hat Hank are originally from {{< wiki-link "Spring 2012 Show" >}}, 'Crocodile Rock' is originally from {{< wiki-link "September 2005 Show" >}}, 'Sing a Song' is originally from {{< wiki-link "January 2004 Show" >}}, 'Everybody Wants to Rule the World' is originally from {{< wiki-link "January 2009 Show" >}}, 'Come On Let's Go' is originally from {{< wiki-link "September 2011 Show" >}}, and 'Get Down On It' is originally from {{< wiki-link "April 2007 Show" >}}. Jaret Reddick rerecorded all of Chuck E.'s lines.
 - The footage for 'Workin' for the Weekend', 'Crocodile Rock', and 'Everybody Wants to Rule the World' was redone.
 - The new footage for 'Working for the Weekend' and 'Everybody Wants to Rule the World' has the walkarounds for Chuck & Helen wearing outfits closer to their Rockstar designs, though they still use the previous walkaround heads. This would be the last show to use the old walkaround.
 - 'Working for the Weekend', 'Crocodile Rock', 'Everybody Wants to Rule the World', and 'Get Down on It' all lack the announcer at the beginning. Despite this, Bird's programming for these was left intact for all except 'Crocodile Rock'.

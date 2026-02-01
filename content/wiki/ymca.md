@@ -1,10 +1,10 @@
 +++
 title = "YMCA"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "1994-00-00"
-endDate = "0000-00-00"
+startDate = "1994-10-00"
+endDate = "1995-00-00"
 contributors = []
 +++

@@ -1,0 +1,184 @@
+{{- $pages := where . "Params.tags" "intersect" (slice "Locations") -}}
+
+<div id="map" style="
+    margin: 0.5em;
+    border-width: 0.5em;
+    border-radius: 1em;
+    height: 40em;
+    width: 100%;
+    position: relative;
+    outline-style: none;">
+</div>
+
+<!-- Date Display and Sliders -->
+<div style="position: relative; width: 100%; margin-top: 1em; margin-bottom: 1em;">
+  <output id="dateValue" for="yearSlider daySlider" style="display: block; text-align: center; font-size: 1.5em; margin-bottom: 1em;">{{- now.Format "01/02/2006" -}}</output>
+
+  <div style="display: flex; align-items: center; margin-bottom: 1em;">
+    <label for="yearSlider" style="margin-right: 1em;">Year</label>
+    <input type="range" id="yearSlider" min="1970" max="{{- now.Year -}}" oninput="updateDaySlider()" style="flex: 1;">
+  </div>
+
+  <div style="display: flex; align-items: center;">
+    <label for="daySlider" style="margin-right: 1em;">Date</label>
+    <input type="range" id="daySlider" min="1" max="365" oninput="updateDate()" style="flex: 1; margin-right: 1em;">
+    
+    <input type="date" id="datePicker" onchange="updateFromDatePicker()" style="flex-shrink: 0;">
+  </div>
+</div>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // Initialize the map
+  var map = L.map('map').setView([20,10], 2);
+
+  L.tileLayer('https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}', {
+      minZoom: 1,
+      maxZoom: 16,
+      ext: 'jpg'
+  }).addTo(map);
+
+  // Load locations from Hugo data
+// Load locations from Hugo data
+var locations = [];
+{{- with site.Data.map_pins.locations }}
+locations = JSON.parse({{ . | jsonify }});
+{{- end }};
+
+// Safe filter
+var maplocations = Array.isArray(locations) ? locations.filter(loc => loc.coords_str != "") : [];
+
+
+
+  // Filter out locations with missing or ["0","0"] coords
+  var maplocations = locations.filter(function(loc) {
+    if (!loc.coords || loc.coords.length !== 2) return false;
+    if (loc.coords[0] === "0" && loc.coords[1] === "0") return false;
+    return true;
+  });
+
+  // Normalize dates: convert 00 months/days to defaults
+  maplocations.forEach(function(loc) {
+    var dateRegex = /\d{4}-\d{2}-\d{2}/;
+    
+    ["startDate", "endDate", "cuDate"].forEach(function(key) {
+      if (!loc[key] || !dateRegex.test(loc[key])) return;
+
+      var y = loc[key].substring(0,4);
+      var m = loc[key].substring(5,7);
+      var d = loc[key].substring(8,10);
+
+      if (key === "startDate") {
+        if (m === "00") m = "01";
+        if (d === "00") d = "01";
+      } else if (key === "endDate") {
+        if (m === "00") m = "12";
+        if (d === "00") {
+          var temp = new Date(y + "-" + m + "-01T00:00:00");
+          temp.setMonth(temp.getMonth() + 1);
+          temp.setDate(0);
+          y = temp.getFullYear();
+          m = String(temp.getMonth()+1).padStart(2,"0");
+          d = String(temp.getDate()).padStart(2,"0");
+        }
+      } else if (key === "cuDate") {
+        if (m === "00") m = "01";
+        if (d === "00") d = "01";
+      }
+
+      loc[key] = `${y}-${m}-${d}`;
+    });
+  });
+
+  var markers = [];
+
+  // Create and add markers based on selected date
+  function addMarkers(selectedDate) {
+    markers.forEach(marker => map.removeLayer(marker));
+    markers = [];
+
+    var currentDate = new Date(selectedDate);
+
+    maplocations.forEach(function(loc) {
+      var startDate = new Date(loc.startDate);
+      var endDate = new Date(loc.endDate);
+      var cuDate = new Date(loc.cuDate);
+
+      // Define pin icons
+      var otherPin = L.icon({ iconUrl:'/UI/Markers/other.png', iconSize:[48,48], iconAnchor:[24,48], popupAnchor:[0,-48] });
+      var pttPin   = L.icon({ iconUrl:'/UI/Markers/ptt.png', iconSize:[48,48], iconAnchor:[24,48], popupAnchor:[0,-48] });
+      var sppPin   = L.icon({ iconUrl:'/UI/Markers/spp.png', iconSize:[48,48], iconAnchor:[24,48], popupAnchor:[0,-48] });
+      var cecPin   = L.icon({ iconUrl:'/UI/Markers/cec.png', iconSize:[48,48], iconAnchor:[24,48], popupAnchor:[0,-48] });
+
+      var mapPin = otherPin;
+
+      if (loc.group.includes("Chuck E. Cheese's")) mapPin = cecPin;
+      if (loc.group.includes("ShowBiz Pizza Place")) mapPin = currentDate >= cuDate ? cecPin : sppPin;
+      if (loc.group.includes("Pizza Time Theatre")) mapPin = currentDate >= new Date("1992-01-01") ? cecPin : pttPin;
+
+      if (currentDate >= startDate && currentDate <= endDate) {
+        var marker = L.marker(loc.coords, { icon: mapPin })
+          .bindPopup('<a href="' + loc.url + '">' + loc.title + '</a>')
+          .addTo(map);
+        markers.push(marker);
+      }
+    });
+  }
+
+  // Slider and date picker functions
+  function getDayOfYear(date) {
+    var start = new Date(date.getFullYear(),0,0);
+    var diff = date - start;
+    return Math.floor(diff / (1000*60*60*24));
+  }
+
+  function updateDaySlider() {
+    var year = parseInt(document.getElementById('yearSlider').value);
+    var maxDays = (new Date(year,1,29).getDate() === 29) ? 366 : 365;
+    var daySlider = document.getElementById('daySlider');
+    daySlider.max = maxDays;
+    if (parseInt(daySlider.value) > maxDays) daySlider.value = maxDays;
+  }
+
+  function updateDate() {
+    var year = parseInt(document.getElementById('yearSlider').value);
+    var dayOfYear = parseInt(document.getElementById('daySlider').value);
+    var date = new Date(year,0);
+    date.setDate(dayOfYear);
+    addMarkers(date.toISOString().split('T')[0]);
+
+    // Update date display and picker
+    document.getElementById('dateValue').innerHTML =
+      String(date.getMonth()+1).padStart(2,'0') + '/' +
+      String(date.getDate()).padStart(2,'0') + '/' +
+      date.getFullYear();
+    document.getElementById('datePicker').value = date.toISOString().split('T')[0];
+  }
+
+  function updateFromDatePicker() {
+    var dateStr = document.getElementById('datePicker').value;
+    addMarkers(dateStr);
+
+    var date = new Date(dateStr);
+    document.getElementById('yearSlider').value = date.getFullYear();
+    document.getElementById('daySlider').value = getDayOfYear(date);
+    updateDaySlider();
+    updateDate();
+  }
+
+  // Hook event listeners
+  document.getElementById('yearSlider').addEventListener('input', function() {
+    updateDaySlider();
+    updateDate();
+  });
+  document.getElementById('daySlider').addEventListener('input', updateDate);
+  document.getElementById('datePicker').addEventListener('change', updateFromDatePicker);
+
+  // Initialize current date
+  var today = new Date();
+  document.getElementById('datePicker').value = today.toISOString().split('T')[0];
+  document.getElementById('yearSlider').value = today.getFullYear();
+  document.getElementById('daySlider').value = getDayOfYear(today);
+  updateDaySlider();
+  updateDate();
+});
+</script>

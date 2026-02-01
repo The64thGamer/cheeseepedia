@@ -1,12 +1,14 @@
 +++
-title = "Wizard Of Cheez (Parody Poster)"
+
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+title = "Wizard Of Cheez (Parody Poster)"
 startDate = "1988-00-00"
 endDate = "0000-00-00"
-contributors = ["Nostalgia Cow","BurgersNuggs445","ThatBoiCydalan"]
-citations = ["1986 SPT Remodel Program","https://www.rareozbooks.com/wizard_of_oz_posters.html"]
+contributors = ["Nostalgia Cow", "BurgersNuggs445", "ThatBoiCydalan", "randomguyfan22"]
+citations = ["1986 SPT Remodel Program", "https://www.rareozbooks.com/wizard_of_oz_posters.html", "https://www.youtube.com/watch?v=irGg1xzgL5E"]
+tags = ["Store Fixtures"]
+categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "Wizard_Of_Cheez_poster_picture.avif"
 +++
 The **Wizard Of Cheez** was a poster created for ShowBiz Pizza and Chuck E. Cheese's in *1988*.
 

@@ -3,11 +3,9 @@ title = "Studio C Beta"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = ""
+startDate = "2000-00-00"
 endDate = ""
-contributors = ["CECBowlingGreen","Destinationimagination95","ShowBizMidwest","Parum33","Rexburg090","170.185.215.34","Jaxon11","71.67.135.234","The 64th Gamer","RedaCEC","BurgersNuggs445","ChuckEPediaIsTheBest!","Pasquallytheplumber","ThatBoiCydalan","2600:4040:5A0E:D900:4505:91DB:C51E:9D03","76.167.210.169","Chuckstar69","2600:1012:B0C5:5DB6:9994:280:4D05:F9CF","Cheeseclassic","CECgamer","AcTeZ","Stripes","Caydenpedia","Cy's Junk at School","Showb1zlov3r","Documentor","Chuckatronics","AstridMascotFan2005","Bay12","BenTrainFan2000","CEC1988","Chuck E theatre"]
+contributors = ["CECBowlingGreen","Destinationimagination95","ShowBizMidwest","Parum33","Rexburg090","Anonymous","Jaxon11","Anonymous","The 64th Gamer","RedaCEC","BurgersNuggs445","ChuckEPediaIsTheBest!","Pasquallytheplumber","ThatBoiCydalan","Anonymous","Anonymous","Chuckstar69","Anonymous","Cheeseclassic","CECgamer","AcTeZ","Stripes","Caydenpedia","Cy's Junk at School","Showb1zlov3r","CyberSnout","Chuckatronics","AstridMascotFan2005","Bay12","BenTrainFan2000","CEC1988","Chuck E theatre"]
 citations = ["<ref></ref>","<ref></ref>","<ref></ref>","<ref></ref>","<a href=\"https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html\">https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html</a>","<a href=\"https://www.youtube.com/watch?v=5nx1BTfYDSE\">https://www.youtube.com/watch?v=5nx1BTfYDSE</a>"]
 pageThumbnailFile = "g1XE766lYTMXdsgIAOrN.avif"
 +++
@@ -16,7 +14,7 @@ pageThumbnailFile = "g1XE766lYTMXdsgIAOrN.avif"
 
 ## History
 
-Little is known about this particular variant, however, it is known that it originally replaced shows in locations with the {{< wiki-link "Concept Unification Stage" >}} in Fall 2000, although it also replaced a {{< wiki-link "Cyberamics Road Stage" >}} in {{< wiki-link "Clearwater, FL (25921 US Hwy 19)" >}} around the same time.
+Little is known about this particular variant, however, it is known that it originally replaced shows in locations with the {{< wiki-link "Concept Unification Stage" >}} in Fall 2000, although it also replaced a {{< wiki-link "Road Stage" >}} in {{< wiki-link "Clearwater, FL (25921 US Hwy 19)" >}} around the same time.
 
 ### Nomenclature
 
@@ -34,11 +32,11 @@ It was stated that the stages were identified by date of revision, and with this
 
 ### Original Release (Fall 2000 - January 2003)
 
-The {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} was used from Fall 2000 to January 2003, and then again in 2009 and 2019. The {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} was used from February 2003 onward.
+The {{< wiki-link "Chuck E. Cheese 32m (Animatronic)" >}} was used from Fall 2000 to January 2003, and then again in 2009 and 2019. The {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}} was used from February 2003 onward.
 
 #### Chuck E.'s Stage
 
-Stage left features a {{< wiki-link "Chuck E Cheese" >}} animatronic created by Garner Holt Productions, and a backdrop that features a large swirl in the center and tubes and boxes that all light up with the show. At first, special carpet was used that was black and said 'Studio C' all over, although many stores have replaced it with the store's normal carpet. Notably, {{< wiki-link "Pittsburgh, PA (20 McIntyre Square Dr)" >}} had a hybrid animatronic; a {{< wiki-link "Chuck E Cheese 3216m Hybrid (Animatronic)" >}}, which was there from late 2021 until the stage's removal on June 17, 2024.
+Stage left features a {{< wiki-link "Chuck E. Cheese" >}} animatronic created by Garner Holt Productions, and a backdrop that features a large swirl in the center and tubes and boxes that all light up with the show. At first, special carpet was used that was black and said 'Studio C' all over, although many stores have replaced it with the store's normal carpet. Notably, {{< wiki-link "Pittsburgh, PA (20 McIntyre Square Dr)" >}} had a hybrid animatronic; a {{< wiki-link "Chuck E. Cheese 3216m Hybrid (Animatronic)" >}}, which was there from late 2021 until the stage's removal on June 17, 2024.
 
 #### Center (TV) Area
 

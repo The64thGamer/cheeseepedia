@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["Lovemints","2601:600:8F00:9940:60C0:2332:CAB:D81F","The 64th Gamer"]
+contributors = ["Lovemints","Anonymous","The 64th Gamer"]
 citations = ["<a href=\"https://youtu.be/w_u5zjNqClg\">https://youtu.be/w_u5zjNqClg</a>","<a href=\"https://www.newspapers.com/image/762993255/?fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjc2Mjk5MzI1NSwiaWF0IjoxNzE1NTc3NDE0LCJleHAiOjE3MTU2NjM4MTR9.GBTsY8bD1wNyail0PLUbX1sfi9CbCnx9ZV1Jv5fv4wM&clipping_id=147281715\">https://www.newspapers.com/image/762993255/?fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjc2Mjk5MzI1NSwiaWF0IjoxNzE1NTc3NDE0LCJleHAiOjE3MTU2NjM4MTR9.GBTsY8bD1wNyail0PLUbX1sfi9CbCnx9ZV1Jv5fv4wM&clipping_id=147281715</a>","<a href=\"https://youtu.be/gg-UHptqfss\">https://youtu.be/gg-UHptqfss</a>"]
 pageThumbnailFile = "XRnO78SU5gcevs009VQd.avif"
 +++
@@ -16,7 +16,7 @@ The ***Rick Rat*** walkaround costume was a generic mascot costume purchased by 
 
 ## History
 
-TODO: Early History The costume would stay with Pizza Time Theatre and later ShowBiz Pizza Time Inc. in the corporate offices. Some time between 1976 and 2001 the suit would be lost, and only the head would remain. In an early 2000's 4th Quarter Update video, the costume head would be used on {{< wiki-link "Chuck E Cheese" >}} as a visual gag for Chuck having just woken up and not taken a shower, with Chuck commenting he currently looks 'like a rat'.(1) The head currently remains on a shelf at the {{< wiki-link "Chuck E Cheese's Corporate Office" >}} in the Entertainment Department.
+TODO: Early History The costume would stay with Pizza Time Theatre and later ShowBiz Pizza Time Inc. in the corporate offices. Some time between 1976 and 2001 the suit would be lost, and only the head would remain. In an early 2000's 4th Quarter Update video, the costume head would be used on {{< wiki-link "Chuck E. Cheese" >}} as a visual gag for Chuck having just woken up and not taken a shower, with Chuck commenting he currently looks 'like a rat'.(1) The head currently remains on a shelf at the {{< wiki-link "Chuck E. Cheese's Corporate Office" >}} in the Entertainment Department.
 
 ## Other Production Costumes
 

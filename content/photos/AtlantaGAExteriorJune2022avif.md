@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Atlanta, GA (2990 Cumberland Blvd)"]
 
 citations = []
 +++

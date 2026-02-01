@@ -4,7 +4,7 @@ title = "Mentor, OH (7900 Plaza Blvd)"
 startDate = "1982-06-00"
 endDate = "1996-00-00"
 pageThumbnailFile = "C3wfOEYFeaG0ciQqhMZr.avif"
-contributors = ["EagleScout610", "Rexburg090", "RedaCEC", "173.216.33.6", "Midwestretail", "CEC Tinley", "ChuckECool", "SuperCreamPiper2008", "CECMentor", "smileshy22"]
+contributors = ["EagleScout610", "Rexburg090", "RedaCEC", "Anonymous", "Midwestretail", "CEC Tinley", "ChuckECool", "SuperCreamPiper2008", "CECMentor", "smileshy22"]
 citations = ["https://www.youtube.com/watch?v=LsfPFoHanHg"]
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]

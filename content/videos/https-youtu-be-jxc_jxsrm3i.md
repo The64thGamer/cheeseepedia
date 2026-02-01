@@ -1,7 +1,7 @@
 +++
 title = "https://youtu.be/JXc_jxsrm3I"
-startdate = "1990-06-00"
-pages = ["Lake Forest, CA (24416 Muirlands Blvd)", "The King King Kat (Lounge)"]
+startDate = "1990-06-00"
+pages = ["Lake Forest, CA (24416 Muirlands Blvd)", "The King / King Kat (Lounge)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]
 +++

@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2015-03-09"
 endDate = ""
-contributors = ["ChuckECool","Rexburg090","GabrielPennington9864","CorrectorMan","2601:248:5000:5090:A93A:B5BA:9341:C902","CoolerDude"]
+contributors = ["ChuckECool","Rexburg090","GabrielPennington9864","CorrectorMan","Anonymous","CoolerDude"]
 citations = ["<a href=\"https://www.google.com/maps/place/Chuck+E.+Cheese/@41.761979,-88.2021495,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMml5OYHOBLLoX9UrqhywASM6N_-ZBJRA0CcJ2S!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMml5OYHOBLLoX9UrqhywASM6N_-ZBJRA0CcJ2S%3Dw203-h152-k-no!7i3264!8i2448!4m9!3m8!1s0x880ef82c950f8f37:0x3831530b7d90170d!8m2!3d41.761979!4d-88.2021495!10e5!14m1!1BCgIYIQ!16s%2Fg%2F11b7rjy5ty?entry=ttu#\">https://www.google.com/maps/place/Chuck+E.+Cheese/@41.761979,-88.2021495,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMml5OYHOBLLoX9UrqhywASM6N_-ZBJRA0CcJ2S!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMml5OYHOBLLoX9UrqhywASM6N_-ZBJRA0CcJ2S%3Dw203-h152-k-no!7i3264!8i2448!4m9!3m8!1s0x880ef82c950f8f37:0x3831530b7d90170d!8m2!3d41.761979!4d-88.2021495!10e5!14m1!1BCgIYIQ!16s%2Fg%2F11b7rjy5ty?entry=ttu#</a>"]
 pageThumbnailFile = "NpoggWRXqjhrmEtZ4nXs.avif"
 +++

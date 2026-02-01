@@ -15,7 +15,7 @@ Creative Engineering took a private flight to *Santa's Village* (528 Presidentia
 
 ## Show List
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Santa's Village Land
     2.  [White Christmas](https://en.wikipedia.org/wiki/White_Christmas_(song))
     3.  [Blue Christmas](https://en.wikipedia.org/wiki/Blue_Christmas_(song))

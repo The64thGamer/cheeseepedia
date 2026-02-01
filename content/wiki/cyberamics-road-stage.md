@@ -4,7 +4,7 @@ title = "Road Stage"
 startDate = "1990-11-20"
 endDate = "2025-06-15"
 pageThumbnailFile = "roadstage91.avif"
-contributors = ["Bowling for Cheese", "2601:191:8580:9F90:A565:8F5B:33A1:163E", "BigCtheDataFinder", "2600:387:5:807:0:0:0:6F", "67.87.119.58", "Sponch man", "168.69.254.247", "TrimSafe6859", "CECBowlingGreen", "ShowBizMidwest", "RPCEC Backup", "The 64th Gamer", "ThatBoiCydalan", "Rexburg090", "Maddox121", "170.185.215.34", "173.216.33.6", "216.125.34.66", "CorrectorMan", "CEC Kokomo", "Letterstolooneybird", "SuperCreamPiper2008", "Cheeseclassic", "Caydenpedia", "CoolerDude", "Ceclife13", "AstridMascotFan2005", "Cy's Junk at School", "CyberSnout"]
+contributors = ["Bowling for Cheese", "Anonymous", "BigCtheDataFinder", "Anonymous", "Anonymous", "Sponch man", "Anonymous", "TrimSafe6859", "CECBowlingGreen", "ShowBizMidwest", "RPCEC Backup", "The 64th Gamer", "ThatBoiCydalan", "Rexburg090", "Maddox121", "Anonymous", "Anonymous", "Anonymous", "CorrectorMan", "CEC Kokomo", "Letterstolooneybird", "SuperCreamPiper2008", "Cheeseclassic", "Caydenpedia", "CoolerDude", "Ceclife13", "AstridMascotFan2005", "Cy's Junk at School", "CyberSnout"]
 citations = ["https://julkamen.com/set-design.html", "https://youtu.be/FxdAvLI_wyc?t=2827", "https://youtu.be/3xeSdTBlE3Y", "https://www.showbizpizza.com/info/documents/spt/spt_2stage-install.pdf", "https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/"]
 manufacturer = "Corman & Associates"
 unitsProduced = "33"
@@ -40,41 +40,3 @@ Chuck E. Cheese was again positioned atop a black pedestal with a white surface.
 ### Munch &amp; Pasqually Armature Retrofits.
 
 While not originally part of the Road Stage, Mr. Munch and Pasqually figures retained their armatures from the Pizza Time Theatre era in a majority of initial installations. When the 2-Stage was rolled out in 1992, Road Stages slowly began to replace these armatures with new, appropriate arms by Kinetix so both Munch and Pasqually could play the organ and drums properly, respectively. Albeit some of these would be different than 2-Stage and 1-Stage armatures in positioning alone, making them more unique. This stage was the final instance where Mr. Munch and Pasqually Cyberamics had body turns, along with their head turns enabled. Since the creation of the 2-Stage and 1-Stage, it was instructed to secure the body turn mechanism down by removing the shoulder strap pins/stop plates and bolting a 1 1/2* 'L' bracket to the front of their base supports. This means only their heads could turn freely, but their bodies cannot, so they can therefore play their instruments without the possible risk of wear or damage from their restricted surroundings on those stages. {{< cite 4 >}}
-
-## Installed Road Stages
-
-| Location                                                           | Debuted            | Removed            |
-| ------------------------------------------------------------------ | ------------------ | ------------------ |
-| {{< wiki-link "Jonesboro, GA (335 Upper Riverdale Rd)" >}}         | November 20, 1990  | 1996               |
-| {{< wiki-link "Topeka, KS (2215 SW Wanamaker Rd)" >}}              | November 26, 1990  | July 2022          |
-| {{< wiki-link "Springfield, PA (381 Baltimore Pike)" >}}           | December 04, 1990  | 1995               |
-| {{< wiki-link "West Palm Beach (4646 Okeechobee Blvd)" >}}         | December 18, 1990  | December 2004      |
-| {{< wiki-link "Mississauga, Ontario, Canada (4141 Dixie Rd)" >}}   | March 11, 1991     | June 15, 2025      |
-| {{< wiki-link "Hialeah, FL (3805 W 20th Ave)" >}}                  | April 02, 1991     | November 2022      |
-| {{< wiki-link "Sunrise, FL (8099 W Oakland Park Blvd)" >}}         | April 16, 1991     | June 2022          |
-| {{< wiki-link "Roseville, MI (31920 Gratiot Ave)" >}}              | April 22, 1991     | 1995               |
-| {{< wiki-link "Tampa, FL (14308 Dale Mabry Hwy)" >}}               | July 01, 1991      | 1995               |
-| {{< wiki-link "Baltimore, MD (8354 Eastern Ave)" >}}               | August 06, 1991    | 1995               |
-| {{< wiki-link "Skokie, IL (7142 Carpenter Rd)" >}}                 | August 20, 1991    | 1994               |
-| {{< wiki-link "Calgary, Alberta, Canada (9627 Macleod Trail)" >}}  | August 31, 1991    | 1994               |
-| {{< wiki-link "Pembroke Pines, FL (8515 Pines Blvd)" >}}           | September 11, 1991 | April 2022         |
-| {{< wiki-link "Melrose Park, IL (1315 W North Ave)" >}}            | September 24, 1991 | 1994               |
-| {{< wiki-link "Placentia, CA (2300 N Rose Dr)" >}}                 | September 24, 1991 | April 2023         |
-| {{< wiki-link "West Roxbury, MA (1664 VFW Pkwy)" >}}               | October 15, 1991   | June 2001          |
-| {{< wiki-link "Norwalk, CA (10949 Firestone Blvd)" >}}             | October 29, 1991   | February 2024      |
-| {{< wiki-link "Newington, CT (3075 Berlin Turnpike)" >}}           | October 29, 1991   | 1995               |
-| {{< wiki-link "Charlotte, NC (5612 Albemarle Rd)" >}}              | November 1991      | June 02, 2024      |
-| {{< wiki-link "Deptford, NJ (1500 Almonesson Rd)" >}}              | November 12, 1991  | 1995               |
-| {{< wiki-link "Wichita, KS (3223 N Rock Rd)" >}}                   | December 16, 1991  | September 2022     |
-| {{< wiki-link "Richland, WA (2610 N Columbia Center Blvd)" >}}     | 1991               | September 09, 2018 |
-| {{< wiki-link "Granada Hills, CA (16269 San Fernando Mission)" >}} | 1991               | April 1994         |
-| {{< wiki-link "Gaithersburg, MD (516 N Frederick Ave)" >}}         | 1991               | 1995               |
-| {{< wiki-link "Citrus Heights, CA (6251 Sunrise Blvd)" >}}         | 1991               | 2015               |
-| {{< wiki-link "La Mirada, CA (15100 Rosecrans Ave)" >}}            | February 25, 1992  | November 2022      |
-| {{< wiki-link "Catonsville, MD (5912 Baltimore National Pike)" >}} | February 25, 1992  | 1995               |
-| {{< wiki-link "Wayne, NJ (1639 Rt 23)" >}}                         | April 20, 1992     | November 01, 2022  |
-| {{< wiki-link "Corona, CA (191 N McKinley St)" >}}                 | May 19, 1992       | February 11, 2024  |
-| {{< wiki-link "West Hills, CA (22940 Van Owen St)" >}}             | June 23, 1992      | February 11, 2024  |
-| {{< wiki-link "Clearwater, FL (25921 US Hwy 19)" >}}               | July 21, 1992      | 2000               |
-| {{< wiki-link "Sun Valley, CA (8375 Laurel Canyon Blvd)" >}}       | 1992               | November 5, 2023   |
-| {{< wiki-link "Calgary, Alberta, Canada (2770 32nd Ave)" >}}       | 1994               | Late 2003          |

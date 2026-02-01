@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2008-04-00"
 endDate = ""
-contributors = ["47.17.236.200","Cheeseclassic","Cy's Junk at School","AstridMascotFan2005"]
+contributors = ["Anonymous","Cheeseclassic","Cy's Junk at School","AstridMascotFan2005"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=FlQJsrFg6xk\">https://www.youtube.com/watch?v=FlQJsrFg6xk</a>"]
 pageThumbnailFile = "3L7xBVbM77TL145D7JzU.avif"
 latitudeLongitude = ["34.31308932","-88.70488228"]

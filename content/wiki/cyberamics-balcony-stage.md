@@ -1,10 +1,10 @@
 +++
 draft = false
 title = "Balcony Stage"
-startDate = ""
-endDate = ""
+startDate = "1980-04-00"
+endDate = "1993-00-00"
 pageThumbnailFile = "4AHaZAT6G5LA4CbzTY89.avif"
-contributors = ["CECBowlingGreen", "The 64th Gamer", "47.38.252.101", "JamesLemony", "Pench0782", "ChuckEPediaIsTheBest!", "2603:6011:5901:C300:D156:EA27:83B:60BC", "CEC Tinley", "Charlesiiikingofengland", "2601:600:8F00:9940:60C0:2332:CAB:D81F", "Ptt1977", "Tux Chuck", "PizzaEntertainmentFanX", "CECMentor", "Caydenpedia"]
+contributors = ["CECBowlingGreen", "The 64th Gamer", "Anonymous", "JamesLemony", "Pench0782", "ChuckEPediaIsTheBest!", "Anonymous", "CEC Tinley", "Charlesiiikingofengland", "Anonymous", "Ptt1977", "Tux Chuck", "PizzaEntertainmentFanX", "CECMentor", "Caydenpedia"]
 citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf"]
 tags = ["Stage Variations"]
 categories = ["Pizza Time Theatre"]
@@ -27,11 +27,11 @@ Most locations still opened with a Balcony Stage until December 1980. The Balcon
 
 #### Later Balcony Stages
 
-The 'Irish Stew' & '{{< wiki-link "Around the World (PTT Theme)" >}}' Showtapes would have special theme for Balcony Stages. The Balcony Stage would have variants for most other Showtapes following. A Balcony Stage would be installed at the Amusement Park, 'Kids World' in the early to mid 80's, The stage wasn't segmented, meaning their were no barriers between the bots, & there was a strange backdrop behind the characters.
+The 'Irish Stew' & '{{< wiki-link "Around the World (Balcony Stage Theme)" >}}' Showtapes would have special theme for Balcony Stages. The Balcony Stage would have variants for most other Showtapes following. A Balcony Stage would be installed at the Amusement Park, 'Kids World' in the early to mid 80's, The stage wasn't segmented, meaning their were no barriers between the bots, & there was a strange backdrop behind the characters.
 
 ### ShowBiz Pizza Time / Chuck E. Cheese's
 
-After {{< wiki-link "ShowBiz Pizza Place" >}} would buy out PTT from 1984 to 1985, they would continue to open {{< wiki-link "Chuck E Cheese's" >}} locations until January 1986, with the last location being in {{< wiki-link "Fairbanks, AK (600 Old Steese Hwy)" >}}. In 1987, {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} would replace their Balcony Stage with a {{< wiki-link "Chuck E's House" >}}. All locations forward would open with a Rocker Stage & several existing locations also switched to Rocker Stages. In 1988, ShowBiz corporate would set up Chuck E.'s House Facades to replace the fronts & backdrops of Balcony Stage, to make them look like a house.
+After {{< wiki-link "ShowBiz Pizza Place" >}} would buy out PTT from 1984 to 1985, they would continue to open {{< wiki-link "Chuck E. Cheese's" >}} locations until January 1986, with the last location being in {{< wiki-link "Fairbanks, AK (600 Old Steese Hwy)" >}}. In 1987, {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} would replace their Balcony Stage with a {{< wiki-link "Chuck E's House" >}}. All locations forward would open with a Rocker Stage & several existing locations also switched to Rocker Stages. In 1988, ShowBiz corporate would set up Chuck E.'s House Facades to replace the fronts & backdrops of Balcony Stage, to make them look like a house.
 The last Balcony Stage would be located at {{< wiki-link "Edmonton, Alberta, Canada (9271 34th Ave)" >}} which was replaced in 1993 for a {{< wiki-link "2-Stage" >}}.
 
 ### Present / Chuck E. Cheese
@@ -57,7 +57,7 @@ The 'Bird Stage' was the area used for {{< wiki-link "Warblettes (Cyberamic)" >}
 
 #### Munch Stage/Left Stage
 
-The 'Munch Stage' (Nicknamed The 'Left Stage') was the area used for {{< wiki-link "Mr Munch (Cyberamic)" >}}. The area was placed over the left entrance of the Cheese-Crawl. The area would have signage saying 'Mr. Munch'. The area had an outward Balcony. The area had 2 Barriers on the Left & Right sides.
+The 'Munch Stage' (Nicknamed The 'Left Stage') was the area used for {{< wiki-link "Mr. Munch (Cyberamic)" >}}. The area was placed over the left entrance of the Cheese-Crawl. The area would have signage saying 'Mr. Munch'. The area had an outward Balcony. The area had 2 Barriers on the Left & Right sides.
 
 #### Main Stage/Center Stage
 
@@ -73,7 +73,7 @@ The 'Band Board Stage' was the area used for {{< wiki-link "Drum Board (Cyberami
 
 #### Mr. Munch's Magic Madhouse
 
-Mr. Munch's Magic Madhouse was an area placed under The Bird Stage. The area had Signage saying 'Mr. Munch's Magic Madhouse' with a {{< wiki-link "Chuck E Cheese" >}} icon placed on it. The area had lights in the inside area. The area had a rectangular Entrance. The area was removed in later variations.
+Mr. Munch's Magic Madhouse was an area placed under The Bird Stage. The area had Signage saying 'Mr. Munch's Magic Madhouse' with a {{< wiki-link "Chuck E. Cheese" >}} icon placed on it. The area had lights in the inside area. The area had a rectangular Entrance. The area was removed in later variations.
 
 #### Cheese-Crawl
 

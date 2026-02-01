@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 startDate = "1984-04-05"
 endDate = "1986-00-00"
-contributors = ["CECBowlingGreen","2601:19C:4A0D:238D:69AC:952A:4B4A:6ABA","2A02:842B:188:E801:C4F0:7E6C:97C:6C7A","ChuckECool","The 64th Gamer","CorrectorMan","RockyRhoad07","CEC Tinley"]
+contributors = ["CECBowlingGreen","Anonymous","Anonymous","ChuckECool","The 64th Gamer","CorrectorMan","RockyRhoad07","CEC Tinley"]
 citations = ["<a href=\"https://www.ville-creteil.fr/chronologie-de-1980-a-1989\">https://www.ville-creteil.fr/chronologie-de-1980-a-1989</a>","<a href=\"https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1/page/n3/mode/2up?q=france\">https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1/page/n3/mode/2up?q=france</a>","<a href=\"https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-2/page/6/mode/2up?q=france\">https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-2/page/6/mode/2up?q=france</a>","<a href=\"https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-3/page/4/mode/2up?q=france\">https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-3/page/4/mode/2up?q=france</a>","<a href=\"https://youtu.be/WLASlTMlVDU\">https://youtu.be/WLASlTMlVDU</a>"]
 pageThumbnailFile = "Rx0uuT4CKMTa0KJBnZs7.avif"
 +++

@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["San Jose, CA (1371 Kooser Rd)"]
 
 citations = []
 +++

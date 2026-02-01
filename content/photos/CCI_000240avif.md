@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Summer of Fun Campaign 2004"]
 
 citations = []
 +++

@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Winchester Jasper T. Jowls (Animatronic)"]
 
 citations = []
 +++

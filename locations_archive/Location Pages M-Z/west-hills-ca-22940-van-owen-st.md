@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1992-06-23"
 endDate = ""
-contributors = ["ChuckECool","Carl525","216.125.34.66","Cheeseclassic","Stripes","ThatBoiCydalan","Estsproduction","CoolerDude","CEC1988","AstridMascotFan2005","Destinationimagination95"]
+contributors = ["ChuckECool","Carl525","Anonymous","Cheeseclassic","Stripes","ThatBoiCydalan","Estsproduction","CoolerDude","CEC1988","AstridMascotFan2005","Destinationimagination95"]
 citations = []
 pageThumbnailFile = "IUycP7yhXsCF6GYHsZLG.avif"
 latitudeLongitude = ["34.19079197","-118.6285017"]
@@ -25,7 +25,7 @@ Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. The 
 
 | Stage                                           | Installed     | Removed           |
 |-------------------------------------------------|---------------|-------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}} | June 1992     | February 12, 2024 |
+| {{< wiki-link "Road Stage" >}} | June 1992     | February 12, 2024 |
 | Dance Floor + Video Wall                        | February 2024 | Still in use.     |
 
 ## Animatronics

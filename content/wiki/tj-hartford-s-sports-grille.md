@@ -1,7 +1,7 @@
 +++
 title = "TJ Hartford's Sports Grille"
 draft = false
-tags = ["Restaurants/FECs"]
+tags = ["Companies/Brands"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""

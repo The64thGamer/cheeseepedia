@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-10-20"
 endDate = ""
-contributors = ["ChuckECool","Rexburg090","Midwestretail","ChuckEPediaIsTheBest!","ChuckfeldStan","2600:4040:5A0E:D900:80CA:CE7C:F549:DFAA","24.246.190.79","ItzaRob","SuperCreamPiper2008"]
+contributors = ["ChuckECool","Rexburg090","Midwestretail","ChuckEPediaIsTheBest!","ChuckfeldStan","Anonymous","Anonymous","ItzaRob","SuperCreamPiper2008"]
 citations = ["<a href=\"https://www.newspapers.com/article/birmingham-post-herald-concept-unificati/105139747/\">https://www.newspapers.com/article/birmingham-post-herald-concept-unificati/105139747/</a>"]
 pageThumbnailFile = "vIcRoBQ5hTQPlSHmmzJq.avif"
 latitudeLongitude = ["33.41832722","-86.79947658"]

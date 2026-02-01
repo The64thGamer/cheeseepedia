@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/p0_YhrBEabQ"
-startdate = "2023-10-00"
+startDate = "2023-10-00"
 pages = ["2-Stage", "Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Northridge, CA (8425 Reseda Blvd)", "Mr. Munch (Cyberamic)", "Jasper T. Jowls (Cyberamic)", "Pasqually (Cyberamic)"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

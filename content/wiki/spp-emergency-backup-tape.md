@@ -21,11 +21,11 @@ As stated in the {{< wiki-link "Concept Unification Installation Manual" >}}, th
 
 ## Recycled Video Intermissions
 
-This showtape included video segments from other ShowBiz Pizza Place & Chuck E Cheese's showtapes.
+This showtape included video segments from other ShowBiz Pizza Place & Chuck E. Cheese's showtapes.
 
 - *Animal Babies in the Wild - Let's All Do the Hop*
   - CEC Neighbors / Dreams
-  - {{< wiki-link "SPP FaithDreamsKids Wave Bday" >}}
+  - {{< wiki-link "SPP Faith / Dreams / Kids" >}}
   - {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}
   - {{< wiki-link "SPP Concept Unification Premiere" >}}
 - *Song City U.S.A - Dinosaurs (We Adore Dinosaurs)*
@@ -35,12 +35,12 @@ This showtape included video segments from other ShowBiz Pizza Place & Chuck E C
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  6 Minute Countdown
         1.  [Je ne sais pas pourquoi](https://en.wikipedia.org/wiki/Je_ne_sais_pas_pourquoi)
         2.  [The Best Years Of Our Lives](https://en.wikipedia.org/wiki/Best_Years_of_Our_Lives_(song))
     2.  Cyberstar Intro
-2.  **Segment 1**
+2. **Segment 1**
     1.  Kids 1
         1.  [Row Row Row Your Boat](https://en.wikipedia.org/wiki/Row,_Row,_Row_Your_Boat)
         2.  [Mockingbird (Hush Little Baby)](https://en.wikipedia.org/wiki/Hush,_Little_Baby)
@@ -50,33 +50,33 @@ This showtape included video segments from other ShowBiz Pizza Place & Chuck E C
         6.  [Jack and Jill](https://en.wikipedia.org/wiki/Jack_and_Jill)
         7.  [This Old Man](https://en.wikipedia.org/wiki/This_Old_Man)
         8.  [Here We Go Loop de Loop](https://en.wikipedia.org/wiki/Loop_de_Loop)
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  6 Minute Countdown
         1.  [Through the Storm](https://en.wikipedia.org/wiki/Through_the_Storm_(Aretha_Franklin_album))
         2.  [Veronica](https://en.wikipedia.org/wiki/Veronica_(song))
     2.  Cyberstar Intro
-4.  **Segment 2**
+4. **Segment 2**
     1.  Kids 2
         1.  [Three Little Fishies](https://en.wikipedia.org/wiki/Three_Little_Fishies)
         2.  [The Hokey Pokey](https://en.wikipedia.org/wiki/Hokey_Pokey)
         3.  [Who's Afraid Of The Big Bad Wolf](https://en.wikipedia.org/wiki/Who%27s_Afraid_of_the_Big_Bad_Wolf%3F)
         4.  [Turn Around](https://en.wikipedia.org/wiki/Turn_Around_(Dick_and_Dee_Dee_song))
         5.  [Zip-A-Dee-Doo-Dah](https://en.wikipedia.org/wiki/Zip-a-Dee-Doo-Dah)
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  6 Minute Countdown
         1.  [Be with You](https://en.wikipedia.org/wiki/Be_with_You_(The_Bangles_song))
         2.  [Room To Move](https://en.wikipedia.org/wiki/Room_to_Move)
     2.  It's Showtime!
-6.  **Video 1**
+6.**Video 1**
     1.  Animal Babies In The Wild - Let's All Do The Hop
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  6 Minute Countdown
         1.  [Hold An Old Friend's Hand (Album Version)](https://en.wikipedia.org/wiki/Hold_an_Old_Friend%27s_Hand_(song))
         2.  [Feel A Whole Lot Better](https://en.wikipedia.org/wiki/Full_Moon_Fever)
     2.  Cyberstar Intro
-8.  **Segment 3**
+8. **Segment 3**
     1.  Beatles Medley
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  6 Minute Countdown
         1.  [Real Love](https://en.wikipedia.org/wiki/Real_Love_(Jody_Watley_song))
         2.  [Giving Up On Love (7' R&B Version)](https://en.wikipedia.org/wiki/Giving_Up_on_Love)

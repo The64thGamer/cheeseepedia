@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Placentia, CA (2300 N Rose Dr)"]
 
 citations = []
 +++

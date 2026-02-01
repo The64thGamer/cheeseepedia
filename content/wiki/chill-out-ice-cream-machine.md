@@ -1,11 +1,11 @@
 +++
 title = "Chill Out Ice Cream Machine"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["2600:4040:A341:3200:EDA2:9064:7892:9319","2600:4040:A341:3200:28A2:728E:AC4E:A24B","ThatBoiCydalan"]
+contributors = ["Anonymous","Anonymous","ThatBoiCydalan"]
 citations = []
 pageThumbnailFile = "H5Dee3POmt6xEhZzR473.avif"
 +++

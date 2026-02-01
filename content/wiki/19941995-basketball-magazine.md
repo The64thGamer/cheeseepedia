@@ -5,7 +5,7 @@ tags = ["Store Fixtures"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1994-00-00"
 endDate = "0000-00-00"
-contributors = ["Documentor"]
+contributors = ["CyberSnout"]
 citations = []
 +++
 The ***Basketball magazine poster* was released in stores in 1994 and 1995 alongside numerous other magazine posters.**

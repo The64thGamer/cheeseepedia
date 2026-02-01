@@ -5,9 +5,9 @@ tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 
 
-startDate = ""
+startDate = "2012-08-00"
 endDate = ""
-contributors = ["CECBowlingGreen","ShowBizMidwest","ShowBiz Pizza International","The 64th Gamer","Bowling for Cheese","ThatBoiCydalan","CEC Tinley","Rexburg090","2600:4040:5A0E:D900:FDB5:151E:48EA:B339","GabrielPennington9864","CECgamer","Caydenpedia","BenTrainFan2000","Cheeseslicez","AstridMascotFan2005"]
+contributors = ["CECBowlingGreen","ShowBizMidwest","ShowBiz Pizza International","The 64th Gamer","Bowling for Cheese","ThatBoiCydalan","CEC Tinley","Rexburg090","Anonymous","GabrielPennington9864","CECgamer","Caydenpedia","BenTrainFan2000","Cheeseslicez","AstridMascotFan2005"]
 citations = []
 pageThumbnailFile = "KYx2EWT40eTWPvaVL_AQ.avif"
 +++
@@ -62,7 +62,7 @@ Current Total Remaining: 10
 
 | Location                                                             | Installed   | Version | Condition / Notes                                                                                                                                                        |
 |----------------------------------------------------------------------|-------------|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese's Corporate Office" >}}          | 2015        | No Bot  | Miniature version of Circles of Light. Formerly used for show programming until September 2022.                                                                          |
+| {{< wiki-link "Chuck E. Cheese's Corporate Office" >}}          | 2015        | No Bot  | Miniature version of Circles of Light. Formerly used for show programming until September 2022.                                                                          |
 | {{< wiki-link "Melrose Park, IL (1030 Winston Plaza)" >}}      | 2012        | No Bot  | Had the last 16m bot in Illinois. Second location to open with Circles of Light.                                                                                         |
 | {{< wiki-link "San Diego, CA (3414 College Ave)" >}}           | 2012        | No Bot  | Last COL with bot in California.                                                                                                                                         |
 | Montgomery, AL (1116 E Eastdale Mall)                                | 2013        | No Bot  | First COL to be installed without a bot.                                                                                                                                 |
@@ -85,7 +85,7 @@ Current Total Remaining: 10
 | Rohnert Park, CA (601 Rohnert Park Expy)                             | 2015        | No Bot  | This COL replaced a 1-Stage, which was sent to Citrus Heights, and was removed during their January 2024 2.0 remodel.                                                    |
 | {{< wiki-link "Naperville, IL (509 Illinois Rte 59)" >}}       | 2015        | No Bot  |                                                                                                                                                                          |
 | Parkville, MD (8886 Waltham Woods Rd)                                | 2015        | No Bot  |                                                                                                                                                                          |
-| {{< wiki-link "San Jose, CA (2445 Fontaine Rd)" >}}            | 2018        | No Bot  | Very large, replaced Studio C Alpha. 2.0, also has {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} which was added in Spring 2022. Former PTT.                |
+| {{< wiki-link "San Jose (Tully), CA (2445 Fontaine Rd)" >}}            | 2018        | No Bot  | Very large, replaced Studio C Alpha. 2.0, also has {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} which was added in Spring 2022. Former PTT.                |
 | {{< wiki-link "Springfield, PA (381 Baltimore Pike)" >}}       | 2012        | No Bot  | Only in Pennsylvania, relocation of old store, which had the second Road Stage, and then a 2-Stage. former 16M. Bot Removed during 2.0 remodel in Summer 2024. COL kept. |
 | Austin, TX (9811 S Interstate 35)                                    | 2013        | No Bot  | Bot removed during 2.0 remodel. COL kept.                                                                                                                                |
 | {{< wiki-link "Houston, TX (12523 Westheimer Rd)" >}}          | 2012        | No Bot  |                                                                                                                                                                          |
@@ -164,5 +164,5 @@ Current Total Remaining: 10
 
 ## Trivia
 
-- Circles of Light programming has ended as of September 19, 2022, as the {{< wiki-link "Chuck E Cheese Halloween Boo-Tacular 2022 Show" >}} has started playing, this also applies to {{< wiki-link "Studio C" >}} stages ({{< wiki-link "Studio C Alpha" >}}, {{< wiki-link "Studio C Beta" >}}, {{< wiki-link "Studio C Cappa" >}}, Studio C Alpha Beta Mix|Alpha / Beta Mix) and the {{< wiki-link "Galaxy Stage" >}} and {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} (For the ones with the COL light up posters and washers.)
+- Circles of Light programming has ended as of September 19, 2022, as the {{< wiki-link "Chuck E. Cheese Halloween Boo-Tacular 2022 Show" >}} has started playing, this also applies to {{< wiki-link "Studio C" >}} stages ({{< wiki-link "Studio C Alpha" >}}, {{< wiki-link "Studio C Beta" >}}, {{< wiki-link "Studio C Cappa" >}}, Studio C Alpha Beta Mix|Alpha / Beta Mix) and the {{< wiki-link "Galaxy Stage" >}} and {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} (For the ones with the COL light up posters and washers.)
 - They were a total of 5 32M COLs installed: Dallas, Texas (Montfort) (Removed bot in September 2012), Naples, Florida, Port Orange, Florida (which was destroyed by Hurricane Ian in September 2022), West Palm Beach, Florida (Which received 2.0 in March 2022 and removed the bot), and Chandler, Arizona (which received 2.0 in March 2023). As of May 2023, only Naples has it.

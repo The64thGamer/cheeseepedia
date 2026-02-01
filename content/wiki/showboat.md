@@ -9,7 +9,7 @@ endDate = "1980-00-00"
 citations = ["Showboat advertisement. San Jose Mercury News, Sunday April 27, 1980","http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf"]
 contributors = ["The 64th Gamer"]
 +++
-***Showboat*** is a lost {{< wiki-link "Pizza Time Theatre">}} showtape released as the first {{< wiki-link "Cyberamics" >}} tape in the week of April 21st-27th, 1980.
+***Showboat*** is a lost {{< wiki-link "Pizza Time Theatre">}} showtape released as the first {{< wiki-link "Cyberamics" >}} tape for the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} store in the week of April 21st-27th, 1980.
 
 ## History
 

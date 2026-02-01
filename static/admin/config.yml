@@ -11,12 +11,13 @@ slug:
   clean_accents: true
   sanitize_replacement: "-"
 
-media_folder: "static/photos" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/photos" # The src attribute for uploaded media will begin with /images/uploads
 site_url: https://cheeseepedia.org
 display_url: https://cheeseepedia.org
 publish_mode: editorial_workflow
 search: false
+
+media_folder: "static/photos"
+public_folder: "/photos"
 
 collections:
   - name: "wiki"
@@ -153,7 +154,8 @@ collections:
           - { label: "Movies", value: "Movies" }
           - { label: "Video Games", value: "Video Games" }
           - { label: "Locations", value: "Locations" }
-          - { label: "Arcade Games", value: "Arcade Games" }
+          - { label: "Cancelled Locations", value: "Cancelled Locations" }
+          - { label: "Arcades and Attractions", value: "Arcades and Attractions" }
           - { label: "Employee Wear", value: "Employee Wear" }
           - { label: "Remodels and Initiatives", value: "Remodels and Initiatives" }
           - { label: "Store Fixtures", value: "Store Fixtures" }
@@ -169,7 +171,7 @@ collections:
           - { label: "News Footage", value: "News Footage" }
           - { label: "Commercials", value: "Commercials" }
           - { label: "History", value: "History" }
-          - { label: "Restaurants/FECs", value: "Restaurants/FECs" }
+          - { label: "Companies/Brands", value: "Companies/Brands" }
           - { label: "Events", value: "Events" }
           - { label: "Social Media and Websites", value: "Social Media and Websites" }
           - { label: "Characters", value: "Characters" }
@@ -184,17 +186,15 @@ collections:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
           - { label: "Circus Pizza", value: "Circus Pizza" }
-          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Disney Experiences", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
-          - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+          - { label: "Pasqually's Pizza & Wings", value: "Pasquallys Pizza & Wings" }
           - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
           - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
           - { label: "Advanced Animations", value: "Advanced Animations" }
-          - { label: "Avg Technologies", value: "Avg Technologies" }
+          - { label: "AVG Technologies", value: "AVG Technologies" }
           - { label: "Creative Engineering", value: "Creative Engineering" }
           - { label: "Creative Presentations", value: "Creative Presentations" }
-          - { label: "Disney Parks", value: "Disney Parks" }
-          - { label: "Fantasy Forest", value: "Fantasy Forest" }
           - { label: "Golding Leisure", value: "Golding Leisure" }
           - { label: "Heimotion", value: "Heimotion" }
           - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
@@ -204,12 +204,15 @@ collections:
           - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
-          - { label: "Vp Animations", value: "Vp Animations" }
+          - { label: "VP Animations", value: "VP Animations" }
           - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
           - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
           - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
           - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
-          - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
+          - { label: "The Rock-afire Explosion (Movie)", value: "The Rock-afire Explosion (Movie)" }
+          - { label: "Walt Disney Imagineering", value: "Walt Disney Imagineering" }
+          - { label: "Other FECs", value: "Other FECs" }
+
 
   - name: "transcriptions" # Used in routes, e.g., /admin/collections/blog
     label: "Transcriptions" # Used in the UI
@@ -264,33 +267,37 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "text" }
 
-  - name: "photos" # Used in routes, e.g., /admin/collections/blog
-    label: "Photo" # Used in the UI
-    folder: "content/photos/" # The path to the folder where the documents are stored
+  - name: "photos"
+    label: "Photo"
+    folder: "content/photos"
     create: true
     slug: "{{slug}}"
-    preview_path: "photos/{{filename}}"
-    extension: md
-    format: toml-frontmatter
+    extension: "md"
+    format: "toml-frontmatter"
     editor:
       preview: false
-    fields: # The field for each document, usually in front matter
-      - { label: "Filename", name: "title", widget: "string" }
+    fields:
+      - label: "Upload image (.avif only)"
+        name: "pageThumbnailFile"
+        widget: "auto_title_image"
+        required: true
+        choose_url: false
+        media_library:
+          config:
+            allow_multiple: false
+            accept: [".avif"]
+      - { label: "File Name (Example: test_photo.avif)", name: "title", widget: "hidden", default: "" }
       - { label: "Description", name: "body", widget: "markdown" }
-      - { label: "Date (Formatted 2024-12-31, set to 0000-00-00 if Unknown, or use 00 for any parts unknown)", name: "startdate", widget: "string", required: false}
-      - label: "Citations (List sources here!)"
-        name: "citations"
-        widget: "list"
-        required: false
-        field: {label: Source, name: source, widget: string}
+      - { label: "Date (YYYY-MM-DD or 0000-00-00)", name: "startdate", widget: "string", required: false }
+      - { label: "Citation (List source here!)", name: "citation", widget: "string", required: false }
       - label: "Pages Photo Depicts (Use Page Title)"
         name: "pages"
         widget: "list"
         required: true
         min: 1
         max: 1000
-        field: {label: Page, name: page, widget: string}
-      - {label: "Tags", name: "tags", widget: "hidden", default: ["Photos"]}
+        field: { label: Page, name: page, widget: string }
+      - { label: "Tags", name: "tags", widget: "hidden", default: ["Photos"] }
       - label: "Categories"
         name: "categories"
         widget: "select"
@@ -302,17 +309,15 @@ collections:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
           - { label: "Circus Pizza", value: "Circus Pizza" }
-          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Disney Experiences", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
-          - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+          - { label: "Pasqually's Pizza & Wings", value: "Pasquallys Pizza & Wings" }
           - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
           - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
           - { label: "Advanced Animations", value: "Advanced Animations" }
-          - { label: "Avg Technologies", value: "Avg Technologies" }
+          - { label: "AVG Technologies", value: "AVG Technologies" }
           - { label: "Creative Engineering", value: "Creative Engineering" }
           - { label: "Creative Presentations", value: "Creative Presentations" }
-          - { label: "Disney Parks", value: "Disney Parks" }
-          - { label: "Fantasy Forest", value: "Fantasy Forest" }
           - { label: "Golding Leisure", value: "Golding Leisure" }
           - { label: "Heimotion", value: "Heimotion" }
           - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
@@ -322,12 +327,14 @@ collections:
           - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
-          - { label: "Vp Animations", value: "Vp Animations" }
+          - { label: "VP Animations", value: "VP Animations" }
           - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
           - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
           - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
           - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
-          - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
+          - { label: "The Rock-afire Explosion (Movie)", value: "The Rock-afire Explosion (Movie)" }
+          - { label: "Walt Disney Imagineering", value: "Walt Disney Imagineering" }
+          - { label: "Other FECs", value: "Other FECs" }
 
   - name: "videos" # Used in routes, e.g., /admin/collections/blog
     label: "Video" # Used in the UI
@@ -376,17 +383,15 @@ collections:
           - { label: "Celebration Station", value: "Celebration Station" }
           - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
           - { label: "Circus Pizza", value: "Circus Pizza" }
-          - { label: "Disney Parks", value: "Disney Parks" }
+          - { label: "Disney Experiences", value: "Disney Parks" }
           - { label: "Jungle Jim's", value: "Jungle Jim's" }
-          - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
+          - { label: "Pasqually's Pizza & Wings", value: "Pasquallys Pizza & Wings" }
           - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
           - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
           - { label: "Advanced Animations", value: "Advanced Animations" }
-          - { label: "Avg Technologies", value: "Avg Technologies" }
+          - { label: "AVG Technologies", value: "AVG Technologies" }
           - { label: "Creative Engineering", value: "Creative Engineering" }
           - { label: "Creative Presentations", value: "Creative Presentations" }
-          - { label: "Disney Parks", value: "Disney Parks" }
-          - { label: "Fantasy Forest", value: "Fantasy Forest" }
           - { label: "Golding Leisure", value: "Golding Leisure" }
           - { label: "Heimotion", value: "Heimotion" }
           - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
@@ -396,12 +401,15 @@ collections:
           - { label: "Setmakers", value: "Setmakers" }
           - { label: "AnimatedFX", value: "AnimatedFX" }
           - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
-          - { label: "Vp Animations", value: "Vp Animations" }
+          - { label: "VP Animations", value: "VP Animations" }
           - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
           - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
           - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
           - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
-          - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }
+          - { label: "The Rock-afire Explosion (Movie)", value: "The Rock-afire Explosion (Movie)" }
+          - { label: "Walt Disney Imagineering", value: "Walt Disney Imagineering" }
+          - { label: "Other FECs", value: "Other FECs" }
+
   - name: "reviews"
     label: "Reviews"
     folder: "content/reviews/"
@@ -426,71 +434,3 @@ collections:
         max: 1
         field: {label: Username, name: username, widget: string}
       - {label: "Tags", name: "tags", widget: "hidden", default: ["Reviews"]}
-
-  - name: "news"
-    label: "Animatronic News"
-    folder: "content/news/"
-    preview_path: "news/{{filename}}"
-    create: true
-    extension: md
-    format: toml-frontmatter
-    slug: "{{slug}}"
-    editor:
-      preview: false
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Body", name: "body", widget: "text" }
-      - { label: "Date (Formatted 2024-12-31, set to 0000-00-00 if Unknown, or use 00 for any parts unknown)", name: "startdate", widget: "string", required: false}
-      - { label: "Thumbnail (example.avif)", name: "pageThumbnailFile", widget: "string", required: false}
-      - label: "Contributors (List your Username here!)"
-        name: "contributors"
-        widget: "list"
-        required: true
-        min: 1
-        max: 1000
-        field: {label: Username, name: username, widget: string}
-      - label: "Citations (List sources here!)"
-        name: "citations"
-        widget: "list"
-        required: false
-        min: 1
-        max: 1000
-        field: {label: Source, name: source, widget: string}
-      - {label: "Tags", name: "tags", widget: "hidden", default: ["Animatronic News"]}
-      - label: "Categories"
-        name: "categories"
-        widget: "select"
-        min: 1
-        max: 5
-        multiple: true
-        required: true
-        options:
-          - { label: "Celebration Station", value: "Celebration Station" }
-          - { label: "Chuck E. Cheese's", value: "Chuck E. Cheese's" }
-          - { label: "Circus Pizza", value: "Circus Pizza" }
-          - { label: "Disney Parks", value: "Disney Parks" }
-          - { label: "Jungle Jim's", value: "Jungle Jim's" }
-          - { label: "Pasquallys Pizza & Wings", value: "Pasquallys Pizza & Wings" }
-          - { label: "Pizza Time Theatre", value: "Pizza Time Theatre" }
-          - { label: "ShowBiz Pizza Place", value: "ShowBiz Pizza Place" }
-          - { label: "Advanced Animations", value: "Advanced Animations" }
-          - { label: "Avg Technologies", value: "Avg Technologies" }
-          - { label: "Creative Engineering", value: "Creative Engineering" }
-          - { label: "Creative Presentations", value: "Creative Presentations" }
-          - { label: "Disney Parks", value: "Disney Parks" }
-          - { label: "Fantasy Forest", value: "Fantasy Forest" }
-          - { label: "Golding Leisure", value: "Golding Leisure" }
-          - { label: "Heimotion", value: "Heimotion" }
-          - { label: "Hofmann Figuren", value: "Hofmann Figuren" }
-          - { label: "Jim Henson's Creature Shop", value: "Jim Henson's Creature Shop" }
-          - { label: "Sally Corporation", value: "Sally Corporation" }
-          - { label: "Unknown Manufacturers", value: "Unknown Manufacturers" }
-          - { label: "Setmakers", value: "Setmakers" }
-          - { label: "AnimatedFX", value: "AnimatedFX" }
-          - { label: "Villalobos Producciones", value: "Villalobos Producciones" }
-          - { label: "Vp Animations", value: "Vp Animations" }
-          - { label: "Chuck E. Cheese in the Galaxy 5000", value: "Chuck E. Cheese in the Galaxy 5000" }
-          - { label: "Five Nights at Freddy's", value: "Five Nights at Freddy's" }
-          - { label: "Five Nights at Freddy's (Movie)", value: "Five Nights at Freddy's (Movie)" }
-          - { label: "Five Nights at Freddy's 2 (Movie)", value: "Five Nights at Freddy's 2 (Movie)" }
-          - { label: "The Rock-afire Explosion Documentary", value: "The Rock-afire Explosion Documentary" }

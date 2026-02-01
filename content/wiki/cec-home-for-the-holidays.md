@@ -1,12 +1,14 @@
 +++
+
 title = "CEC Home for the Holidays"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "1987-00-00"
-endDate = "0000-00-00"
+startDate = "1987-12-00"
+endDate = "1987-12-00"
 contributors = ["The 64th Gamer","DerekCat"]
 citations = []
+pageThumbnailFile = "Christmas_87_House.avif"
 +++
 TODO: The final Betamax Cyberstar tape released for Cyberamics
 
@@ -17,42 +19,42 @@ The background music tracks come from the [ShowBiz Pizza Program 8](https://chee
 The background music tracks comes from the [ShowBiz Pizza Program 15](https://cheeseepedia.org/wiki/showbiz-pizza-program-15/)
 ## Show List
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  8 Minute Countdown
         1.  Rockin’ Around The Christmas Tree (From Warner Bros ‘A Christmas Tradition, Volume II’)
         2.  [Someday at Christmas](https://en.wikipedia.org/wiki/Someday_at_Christmas)
         3.  [I’ll Be Home For Christmas](https://en.wikipedia.org/wiki/A_Crystal_Christmas)
     5.  It's Showtime!
-2.  **Segment 1**
+2. **Segment 1**
     1.  Jingle Bells
     2.  Sleigh Ride
     3.  Rudolph the Red-Nosed Reindeer
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  8 Minute Countdown
         1.  ?
         2.  ?
         3.  ?
     3.  It's Showtime!
-4.  **Video 1**
+4.**Video 1**
     1.  Looney Tunes - Unknown
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  8 Minute Countdown
         1.  ?
         2.  ?
         3.  ?
     3.  It's Showtime!
-6.  **Segment 2**
+6. **Segment 2**
     1.  Santa Claus is Coming to Town
     2.  Twas The Night Before Christmas
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  8 Minute Countdown
         1.  ?
         2.  ?
         3.  ?
     3.  It's Showtime!
-8.  **Video 2**
+8.**Video 2**
     1.  Looney Tunes - Unknown
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  8 Minute Countdown
         1.  ?
         2.  ?

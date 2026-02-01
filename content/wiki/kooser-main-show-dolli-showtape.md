@@ -37,23 +37,23 @@ Out of the twelve segments confirmed for the show,{{< cite 5 >}} only two fragme
 
 ## Dolli Segments
 It is currently unclear if the known segment list from rereleases is the exact order from the original showtape.
-1.  **Segment 1**
+1. **Segment 1**
     1.  Right Back Where I Started From
-2.  **Segment 2**
+2. **Segment 2**
     1.  Deep In the Heart of Texas
-3.  **Segment 3**
+3. **Segment 3**
     1.  Frankie and Johnny
-4.  **Segment 4**
+4. **Segment 4**
     1.  Hello, Dolly (Dolli)
-5.  **Segment 5**
+5. **Segment 5**
     1.  Talk To the Animals
-6.  **Segment 6**
+6. **Segment 6**
     1.  Toot, Toot, Tootsie
-7.  **Segment 7**
+7. **Segment 7**
     1.  You Are My Sunshine
-8.  **Segment 8**
+8. **Segment 8**
     1.  Yankee Doodle Dandy
-9.  **Segment 9**
+9. **Segment 9**
     1.  Summertime
 10. **Segment 10**
     1.  Sitting On Top of the World

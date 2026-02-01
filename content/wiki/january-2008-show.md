@@ -1,12 +1,13 @@
 +++
 draft = false
 title = "January 2008 Show"
-startDate = "2008-01-00"
-endDate = "2008-03-00"
+startDate = "2008-01-01"
+endDate = "2008-03-31"
 pageThumbnailFile = "uk2pvg1a3cbgb3rx2b3j.avif"
-contributors = ["The 64th Gamer", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D", "Dame", "AstridMascotFan2005", "Ceclife13"]
+contributors = ["The 64th Gamer", "Anonymous", "Dame", "AstridMascotFan2005", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/January%202008%20Studio%20C-002.ISO"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist"]
+mediaDuration = "45:10"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/January%202008%203-Stage-002.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/January%202008%20Studio%20C-002.ISO|Studio C DVD ISO"]
 tags = ["Showtapes"]
@@ -37,7 +38,7 @@ The **January 2008 Show** was a showtape released in 2008 with eight songs.
     1.  ['Take On Me'](https://en.wikipedia.org/wiki/Take_On_Me)
     2.  ['Crazy'](https://en.wikipedia.org/wiki/Crazy_(Willie_Nelson_song))
 6.  **Intermission 3**
-    1.  CEC TV ID - 'Astronaut Chuck E.'
+    1.  CEC TV ID - 'Astronauts'
     2.  Minute Maid Spot
     3.  VeggieTales - 'Gated Community'
     4.  Fundraising Promo
@@ -51,7 +52,7 @@ The **January 2008 Show** was a showtape released in 2008 with eight songs.
     3.  PBS Kids Spot
     4.  CEC TV ID - 'Dancing Food'
 
-## Lives:
+## Live Shows:
 
 - Birthday Star Extravaganza (2min)
 - Birthday Star Extravaganza (5min)
@@ -75,7 +76,7 @@ The **January 2008 Show** was a showtape released in 2008 with eight songs.
 
 ### Store Submitted Videos
 
-- In the {{< wiki-link "Summer 2007 Show" >}} newsletter, an ad invited stores to submit videos for inclusion in the January 2008 Show. The same thing was attempted previously for the {{< wiki-link "April 2007 Show" >}}. Cast members were to record videos of themselves lip-syncing to the song whilst doing their job. The deadline for submissions was October 29th, 2007. {{< wiki-link "Atlanta, GA (2990 Cumberland Blvd)" >}} and {{< wiki-link "Fayetteville, GA (786 Glynn St)" >}} were chosen and featured in the video for 'Takin' Care of Business'.
+- In the {{< wiki-link "Summer 2007 Show" >}} newsletter, an ad invited stores to submit videos for inclusion in the January 2008 Show. The same thing was attempted previously for the {{< wiki-link "April 2007 Show" >}}. Cast members were to record videos of themselves lip-syncing to the song while doing their job. The deadline for submissions was October 29th, 2007. {{< wiki-link "Atlanta, GA (2990 Cumberland Blvd)" >}} and {{< wiki-link "Fayetteville, GA (786 Glynn St)" >}} were chosen and featured in the video for 'Takin' Care of Business'.
 
 ## Trivia:
 

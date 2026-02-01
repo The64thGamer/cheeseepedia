@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["CEC 2.0 Remodel Program"]
 
 citations = []
 +++

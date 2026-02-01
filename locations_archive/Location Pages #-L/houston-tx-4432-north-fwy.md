@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2009-11-00"
 endDate = ""
-contributors = ["47.17.236.200","ThatBoiCydalan"]
+contributors = ["Anonymous","ThatBoiCydalan"]
 citations = ["<a href=\"https://web.archive.org/web/20100628025805/http://www.northlinecommons.com/newsevents.htm\">https://web.archive.org/web/20100628025805/http://www.northlinecommons.com/newsevents.htm</a>","<a href=\"https://communityimpact.com/houston/cy-fair-cypress/business/2023/07/20/chuck-e-cheese-invests-68m-to-upgrade-houston-locations/\">https://communityimpact.com/houston/cy-fair-cypress/business/2023/07/20/chuck-e-cheese-invests-68m-to-upgrade-houston-locations/</a>"]
 pageThumbnailFile = "OBvCoso9ldMqNUikErA4.avif"
 latitudeLongitude = ["29.83162447","-95.38100323"]

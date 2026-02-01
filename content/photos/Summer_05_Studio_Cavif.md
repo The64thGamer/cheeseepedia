@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Super Chuck Summer Show 2005"]
 
 citations = []
 +++

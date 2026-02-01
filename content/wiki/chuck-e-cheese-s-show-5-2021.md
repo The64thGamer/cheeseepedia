@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2021-11-15"
 endDate = "2022-1-02"
-contributors = ["Documentor","The 64th Gamer","Himitsu","Mousester","Dame868"]
+contributors = ["CyberSnout","The 64th Gamer","Himitsu","Mousester","Dame868"]
 citations = []
 pageThumbnailFile = "d1EpVQsJE3ZTiIqUOTpM.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -19,37 +19,37 @@ The initial DVD release for Studio C had pacing and timing issues, causing signa
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Safety Message
     2.   Winter Winner-Land Host Spot 1 (Chuck E. & Helen)
     3.   Disney Channel Stars - "Put the Happy in the Holidays"
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Friends - "The Holiday Party"
-3.  **Intermission 2**
+3. **Intermission 2**
     1.   Winter Winner-Land Menu Spot
     2.   HiDino - "The Snow Song"
     3.  Ryan's World Fan Fest Watch Party
-4.  **Skit 2**
+4. **Skit 2**
     1.  Helen Henny - "All I Want for Christmas is Snow"
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Safety Message
     2.  Holiday Musing with Mr. Munch
     3.   Ella Fitzgerald - "Frosty the Snowman"
-6.  **Skit 3**
+6. **Skit 3**
     1.  Bella B. & Chuck E. - "Holiday Fiesta"
-7.  **Intermission 4**
+7. **Intermission 4**
     1.   Winter Winner-Land Host Spot 2 - (Chuck E. & Munch)
     2.  KIDZ BOP Kids - "Let It Snow"
     3.  Tails of Friendship - "Munch's first Christmas"
-8.  **Skit 4**
+8. **Skit 4**
     1.  Munch & Munch - "The Windowsill"
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  Safety Message
     2.  Brady Rhymer - "Hanukkah Rocks"
     3.  Idina Menzel - "We Wish You the Merriest"
 10. **Skit 5**
     1.  Chuck E., Jingle & Jangle - "Holiday Traditions"
-11.  **Intermission 6**
+11. **Intermission 6**
     1.  Every Kid's a Winner Spot
     2.  HiDino - "Adventure Through the Snow"
     3.  Daveed Diggs - "Puppy for Hanukkah"

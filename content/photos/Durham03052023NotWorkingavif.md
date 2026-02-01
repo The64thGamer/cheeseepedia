@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Durham, NC (3724 Mayfair St)"]
 
 citations = []
 +++

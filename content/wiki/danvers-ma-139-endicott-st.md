@@ -1,11 +1,12 @@
 +++
+
 title = "Danvers, MA (139 Endicott St)"
 storeNumber = ""
 startDate = "1983-04-24"
 endDate = "2020-04-15"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Balcony Stage|1983-04-24|0000-00-00|", "Family Album|0000-00-00|0000-00-00|", "Chuck E.'s House|0000-00-00|0000-00-00|", "2-Stage|1993-06-00|2020-04-00|One of 5 installed in Massachusetts.|"]
 franchisees = []
 attractions = []
 sqft = ""
@@ -13,7 +14,7 @@ latitudeLongitude = ["42.54948617","-70.93592168"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "z8xep3d0azycd927.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 draft = false

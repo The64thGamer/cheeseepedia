@@ -1,4 +1,5 @@
 +++
+
 draft = false
 title = "Daniel and the Dixie Diggers"
 startDate = ""
@@ -7,6 +8,7 @@ contributors = ["BigCtheDataFinder", "The 64th Gamer", "Wizington"]
 citations = ["https://www.sallydarkrides.com/post/remembering-jan-sherman-sally-dark-rides-memorializes-long-time-co-worker-and-friend", "https://youtu.be/DqUgmo5Gl_4?si=BHQf8bIeFGe4h9pr"]
 tags = ["Animatronic Shows"]
 categories = ["Sally Corporation"]
+pageThumbnailFile = "uVkqfdgTCHx0GKqhdwR0.avif"
 +++
 ***Daniel and the Dixie Diggers* is a Sally animatronic show produced in 1982, the first of the company's *Showmation* ensemble shows.
 It is considered by Sally themselves to be their most popular 'animal band show,' as it has been installed in numerous venues worldwide since its inception in 1982. It is also the only show produced by Sally to have the most showtape content ever recorded and the most configuration options to date.**

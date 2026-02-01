@@ -1,12 +1,14 @@
 +++
+
 title = "Munch Mouth"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades and Attractions"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ChuckE1352","The 64th Gamer","Tux Chuck"]
 citations = []
+pageThumbnailFile = "Munch_Mouth.avif"
 +++
 ***Munch Mouth* is an arcade machine used in {{< wiki-link "Pizza Time Theatre" >}}.**
 

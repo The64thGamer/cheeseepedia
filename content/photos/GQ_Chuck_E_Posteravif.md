@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["GQ Chuck E. Charming (Magazine)"]
 
 citations = []
 +++

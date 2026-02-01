@@ -4,7 +4,7 @@ title = "Mumbai, Maharashtra, India (R City Mall)"
 startDate = "2019-12-20"
 endDate = "2023-07-25"
 pageThumbnailFile = "sertghertyer56tye4r5ye4r56tyh.avif"
-contributors = ["CECBowlingGreen", "CEC Tinley", "ThatBoiCydalan", "RockyRhoad07", "2601:681:300:6FE0:9108:73AF:379:A346", "Nickzrss"]
+contributors = ["CECBowlingGreen", "CEC Tinley", "ThatBoiCydalan", "RockyRhoad07", "Anonymous", "Nickzrss"]
 citations = ["<a href=\"https://www.instagram.com/p/CuTiCw1IQom/?igshid=MzRlODBiNWFlZA==\">https://www.instagram.com/p/CuTiCw1IQom/?igshid=MzRlODBiNWFlZA==</a>", "<a href=\"https://nextrel.com\">Nextrel (franchisee)</a>"]
 credits = ["Credits to Joel D'Souza for taking the photograph used in the thumbnail."]
 latitudeLongitude = ["18.8928676", "72.7758729"]

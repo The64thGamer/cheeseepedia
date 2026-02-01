@@ -1,12 +1,10 @@
 +++
 title = "Get Ready"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = "1997-00-00"
-endDate = "0000-00-00"
+startDate = "1997-04-01"
+endDate = "1997-08-04"
 contributors = ["StudioC"]
 citations = []
 mediaDuration = "3:23"
@@ -24,5 +22,5 @@ The live show begins with an announcer introducing Chuck E. Cheese following up 
 
 | Release Year | Showtape                                                          | Format                    |
 |--------------|-------------------------------------------------------------------|---------------------------|
-| 1997         | {{< wiki-link "Chuck E Cheese's 20th Anniversary" >}}       | 3-stage, Cyberamics       |
-| 1997         | {{< wiki-link "Chuck E Cheese's 20th Anniversary (AAM)" >}} | Awesome Adventure Machine |
+| 1997         | {{< wiki-link "Chuck E. Cheese's 20th Anniversary" >}}       | 3-stage, Cyberamics       |
+| 1997         | {{< wiki-link "Chuck E. Cheese's 20th Anniversary (AAM)" >}} | Awesome Adventure Machine |

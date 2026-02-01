@@ -3,9 +3,9 @@ title = "Summer 2013 Show"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2013-06-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor","2600:1012:B044:7B02:FCBA:EF2B:7590:88A2","Caydenpedia"]
+startDate = "2013-07-00"
+endDate = "2013-08-31"
+contributors = ["The 64th Gamer","CyberSnout","Anonymous","Caydenpedia"]
 citations = []
 pageThumbnailFile = "iolFogMS1MY5iGWu6ECc.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -19,7 +19,7 @@ This was created to play from from July - August 31, 2013.**
     1.  'Summertime Groove'
     2.  'Fun, Fun, Fun!'
 2.  **Intermission 1**
-    1.  CEC TV ID - 'Simplistic Heads'
+    1.  CEC TV ID - 'Bubble Kids'
     2.  Summer Safety With Steve Waters - 'Wear Sunscreen'
     3.  Show Break 1
 3.  **Segment 2**
@@ -34,25 +34,26 @@ This was created to play from from July - August 31, 2013.**
     1.  "Goin' on a Picnic"
     2.  "Barbecue"
 6.  **Intermission 3**
-    1.  CEC TV ID - '1950s Astronauts'
+    1.  CEC TV ID - 'Space Kids'
     2.  Summer Safety With Steve Waters - 'Leave Bricks on the Beach'
     3.  Show Break 3
 7.  **Segment 3**
     1.  'Good Old Summertime'
     2.  'SPF'
 8.  **Intermission 4**
-    1.  Super Jasper - 'Break the Record'
-    2.  CEC Live Promo
-    3.  Show Break 3
+    1.  CEC TV ID - 'Pool Plug'
+    2.  Super Jasper - 'Break the Record'
+    3.  CEC Live Promo
+    4.  Show Break 3
 
-## Lives:
+## Live Shows:
 
-- Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Cupid Shuffle (3stage, Cyberamic, Studio C,Weigl)
-- BINGO (3stage, Cyberamic, Studio C,Weigl)
-- Happy And You Know It (3stage, Cyberamic, Studio C,Weigl)
-- Old Mac Donald (3stage, Cyberamic, Studio C,Weigl)
+- Rockstar Birthday
+- Spanish Birthday
+- Cupid Shuffle
+- BINGO
+- Happy And You Know It
+- Old MacDonald 
 
 ## Trivia:
 

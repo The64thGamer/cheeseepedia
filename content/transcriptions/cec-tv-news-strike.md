@@ -35,7 +35,7 @@ Take it away Chuck E!
 
 Oh sure Larry!
 
-**[Chuck gets handed a paper version of the work “it”]**
+**[Chuck gets handed a paper version of the work "it"]**
 
 **Chuck E. Cheese:**
 

@@ -1,0 +1,224 @@
+{{/* Generate Variables */}}
+    {{/* Initialize for Cite Shortcodes */}}
+        {{- .Page.Store.Set "citationsCount" dict -}}
+
+    {{/* Current First Tag, defaults to Meta */}}
+        {{- $pageType := (index .Params.tags 0) | default "Meta" -}}
+        {{- $isBasicArticle := not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
+
+    {{- /* Article Sections */ -}}
+    {{- $article := false -}}
+    {{- $galleryHasContent := false -}}
+    {{- $videosHaveContent := false -}}
+    {{- $transcriptions := "" -}}
+    {{- $reviews := "" -}}
+    {{- $sales := "" -}}
+    {{- $galleryContent := "" -}}
+    {{- $videoContent := "" -}}
+
+    {{- if $isBasicArticle -}}
+        {{- /* Compute sections (assign into outer vars using = not :=) */ -}}
+        {{- $transcriptions = partial "display-transcriptions.html" . -}}
+        {{- $reviews = partial "display-reviews.html" . -}}
+        {{- $sales = partial "display-sales.html" . -}}
+
+        {{- $galleryContent = partial "display-gallery.html" . -}}
+        {{- $videoContent = partial "display-video-gallery.html" . -}}
+
+        {{- /* Gallery button shows only if content exists — assign, do NOT redeclare */ -}}
+        {{- $galleryHasContent = ne $galleryContent "" -}}
+        {{- $videosHaveContent = ne $videoContent "" -}}
+
+        {{- /* Determine whether there is any non-gallery article content */ -}}
+        {{- $article = or (ne $videoContent "") (ne $transcriptions "") (ne $reviews "") (ne $sales "") (ne $galleryContent "") -}}
+    {{- end -}}
+
+{{/* Article Title/Header */}}
+    {{/* Title */}}
+    <h1>{{- .Title | safeHTML -}}</h1>
+
+{{/* Photo Page */}}
+{{- if eq $pageType "Photos" -}}
+  <div class="article-photo-thumbnail">
+    {{- $thumb := default "" .Title -}}
+    {{- $mode := "no-css" -}}
+    {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
+  </div>
+
+  <h2>Tagged Articles</h2>
+  {{- $callerPages := .Params.pages | default (slice) -}}
+  {{- /* Efficiently resolve each wiki title to a Page object and render display-page-box */ -}}
+  {{- $allWiki := where .Site.RegularPages "Section" "wiki" -}}
+  {{- range $i, $title := $callerPages -}}
+    {{- $matched := first 1 (where $allWiki "Title" $title) -}}
+    {{- if $matched -}}
+      {{- partial "display-page-box.html" (index $matched 0) -}}
+    {{- else -}}
+      <div class="missing-wiki">{{ $title }}</div>
+    {{- end -}}
+  {{- end -}}
+
+  {{- partial "display-citations.html" . -}}
+{{- end -}}
+
+
+{{/* Video Page */}}
+    {{- if eq $pageType "Videos" -}}
+        <div class="article-video">
+            {{- partial "video.html" .Title -}}
+        </div>
+
+        {{- .Content -}}
+
+        {{- if .Params.startDate -}}
+            <br><strong>Video taken on: </strong>{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}
+        {{- end -}}
+
+        <h2>Tagged Articles</h2>
+        {{- $callerPages := .Params.pages -}}
+        {{- $pages := partialCached "grab-all-wiki-articles.html" "key"}}
+        {{- range $pages -}}
+            {{- $pageTitle := .Title}}
+            {{- if in $callerPages $pageTitle -}}
+                {{- partial "display-page-box.html" . -}}
+            {{- end -}}
+        {{- end -}}
+        {{- partial "display-citations.html" . -}}
+    {{- end -}}
+
+{{/* Basic Article */}}
+    {{- if $isBasicArticle -}}
+        {{/* Top Bar */}}
+            <aside>
+                <div class="article-topBar">
+                {{- if $article -}}
+                    <button class="article-button" data-target="section-article">Article</button>
+                {{- end -}}
+                {{- if $galleryHasContent -}}
+                    <button class="article-button" data-target="section-gallery">Gallery</button>
+                {{- end -}}
+                {{- if $videosHaveContent -}}
+                    <button class="article-button" data-target="section-videos">Videos</button>
+                {{- end -}}
+                {{- if ne $transcriptions "" -}}
+                <button class="article-button" data-target="section-transcriptions">Transcriptions</button>
+                {{- end -}}
+                {{- if ne $reviews "" -}}
+                <button class="article-button" data-target="section-reviews">Reviews</button>
+                {{- end -}}
+                {{- if ne $sales "" -}}
+                <button class="article-button" data-target="section-sales">Sales</button>
+                {{- end -}}
+                {{- partial "editButton.html" . -}}
+                </div>
+            </aside>
+        
+        {{/* Top Bar Script */}}
+            <script>
+                document.addEventListener('DOMContentLoaded', function() {
+                    // Hide all sections
+                    const sections = document.querySelectorAll('.article-section');
+                    sections.forEach(section => section.style.display = 'none');
+
+                    // Show the default section (Article)
+                    const defaultSection = document.getElementById('section-article');
+                    defaultSection.style.display = 'inline-block';
+
+                    // Add event listeners to buttons
+                    const buttons = document.querySelectorAll('.article-button');
+                    buttons.forEach(button => {
+                    button.addEventListener('click', function() {
+                        // Hide all sections
+                        sections.forEach(section => section.style.display = 'none');
+
+                        // Show the clicked section
+                        const targetSection = document.getElementById(this.dataset.target);
+                        if (targetSection) {
+                        targetSection.style.display = 'inline-block';
+                        }
+                    });
+                    });
+                });
+            </script>
+
+        {{/* Article Sections */}}
+        <div id="section-article" class="article-section">
+            {{- partial "display-infobox.html" . -}}
+            {{- .Content | safeHTML}}
+            {{ if and .Params.segments (gt (len .Params.segments) 0) }}
+                {{ partial "tracklist.html" . }}
+            {{ end }}
+            {{- partial "related-usage-table.html" . -}}
+            {{- partial "display-citations.html" . -}}
+        </div>
+        {{- if $galleryHasContent -}}
+        <div id="section-gallery" class="article-section">
+            {{- $galleryContent | safeHTML -}}
+        </div>
+        {{- end -}}
+        <div id="section-videos" class="article-section">
+        {{- if $videosHaveContent -}}
+            {{- $videoContent -}}
+        {{- end -}}
+        </div>
+        <div id="section-transcriptions" class="article-section">
+        {{- if ne $transcriptions "" -}}
+            {{- $transcriptions -}}
+        {{- end -}}
+        </div>
+        <div id="section-reviews" class="article-section">
+        {{- if ne $reviews "" -}}
+            {{- $reviews -}}
+        {{- end -}}
+        </div>
+        <div id="section-sales" class="article-section">
+        {{- if ne $sales "" -}}
+            {{- $sales -}}
+        {{- end -}}
+        </div>
+    {{- end -}}
+
+{{/* Article Footer */}}
+    <hr>
+    <aside>
+
+        {{/* Contributors */}}
+            <div class="contributors"><strong>Article Contributed By: </strong>
+                {{- $allArticles := partialCached "grab-all-users.html" . -}}
+                {{- $contributors := .Params.contributors | default slice -}}
+                {{- $total := len $contributors -}}
+
+                {{- if gt $total 0 -}}
+                {{- range $i, $name := $contributors -}}
+                    {{- $match := first 1 (where $allArticles "Title" $name) -}}
+                    {{- if $match -}}
+                    {{- $page := index $match 0 -}}
+                    <a href="{{ $page.RelPermalink }}">{{ $page.Title }}</a>
+                    {{- else -}}
+                    {{ $name }}
+                    {{- end -}}
+                    {{- if lt (add $i 1) $total -}}, {{- end -}}
+                {{- end -}}
+                {{- else -}}
+                <strong>Nobody has contributed to this article yet.</strong>
+                Use the "Contribute" button above to make the first edit!
+                {{- end -}}
+
+                {{/* Last Updated */}}
+                    {{ with .GitInfo }}
+                    <br><strong>Last updated on: </strong>{{ .AuthorDate.Format "Jan. 2, 2006" }}
+                    {{ end }}
+
+                {{/* Search Forums */}}
+                    {{- if $isBasicArticle -}}
+                        <br>Search for: "<a href="https://forum.cheeseepedia.org/search?q={{ .Title | urlquery }}">{{ .Title }}</a>" on the forums!
+                    {{- end -}}
+            </div>
+    </aside>
+
+    <hr>
+    {{ partial "Article_Tags.html" . }}
+
+{{/* Random Articles */}}
+    <hr>
+    {{- partial "Random_Page.html" . -}}

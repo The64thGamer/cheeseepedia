@@ -1,25 +1,25 @@
 +++
-title = "Holiday Party 2010 Show"
 draft = false
+title = "Holiday Party 2010 Show"
+startDate = "2010-12-01"
+endDate = "2010-12-00"
+pageThumbnailFile = "AkxqRm019DNvrcxRGspd.avif"
+contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13"]
+citations = []
+showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2010-12-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor","Ceclife13"]
-citations = []
-pageThumbnailFile = "AkxqRm019DNvrcxRGspd.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD"]
 +++
 **Chuck E.'s Holiday Party 2010** released and played during December 2010.
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  CEC TV Snowing
-2.  **Segment 1**
+2. **Segment 1**
     1.  'Holly Jolly Christmas'
     2.  'White Christmas'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Backstage Pass - Burnham - 'Catch Me If You Can'
     2.  Fun Facts - 'Chameleons'
     3.  CEC TV ID - 'Cows'
@@ -32,10 +32,10 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD"]
     10. Word World - 'Happy Holidays WordFriends' 1
     11. Wow Wow Wubbzy! - 'O' Figgity Fig Tree' 1
     12. Yo Gabba Gabba - 'Drawing a Snowman'
-4.  **Segment 2**
+4. **Segment 2**
     1.  'Mele Kalikimaka'
     2.  'Feliz Navidad'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Fun Facts - 'Goldfish'
     2.  CEC TV ID - 'Radio Tower'
     3.  Yo Gabba Gabba - 'It's Winter Time!'
@@ -43,23 +43,23 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD"]
     5.  Dive Olly Dive! - 'Uma Under The Weather'
     6.  Shout Factory - 'The Johnny Cash Christmas Special 1977'
     7.  Fun Facts - 'Ostrich'
-6.  **Segment 3**
+6. **Segment 3**
     1.  '12 Days of Christmas'
     2.  'Dreidel Song'
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  CEC TV ID - 'NBC Chime'
     2.  Wow Wow Wubbzy! - 'O' Figgity Fig Tree' 2
     3.  Fun Facts - 'Sneeze'
     4.  CEC TV ID - 'Singing Janitor'
     5.  Sid the Science Kid - 'The Sticker Chart' 2
     6.  VeggieTales - 'Saint Nicholas A Story of Joyful Giving' 2
-8.  **Segment 4**
+8. **Segment 4**
     1.  'Big Band Santa'
     2.  'Holiday Medley'
         1.  'Jingle Bells'
         2.  'Deck The Halls'
         3.  'We Wish You A Merry Christmas'
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  CEC TV ID - 'Falling Apple'
     2.  Trivia - 'Frosty The Snowman'
     3.  The Zone - 'Pro Snowboarding'

@@ -1,4 +1,5 @@
 +++
+
 title = "Magic Night"
 draft = false
 tags = ["Showtapes"]
@@ -9,6 +10,7 @@ contributors = ["The 64th Gamer"]
 citations = ["http://www.showbizpizza.com/review/rae/1984_magic.html"]
 showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = ["CREATIVE ENGINEERING MMST0113-10484 MAGIC SHOWTAPE LOW SPEED TAILWOUND 100484","CREATIVE ENGINEERING MAGIC SHOWTAPE WITH MICHAEL JACKSON MEDLEY 022284"]
+pageThumbnailFile = "67ytjrtg56y5683567854.avif"
 +++
 ***Magic Night*** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations from February to April of 1984, with a rerelease happening in October of 1984.
 
@@ -26,33 +28,33 @@ later damaged and are likely unrecoverable.
 
 ## Segment List
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Magic Night Intro Skit
     2.  Magic Medley
         1.  Magical Mystery Tour
         2.  Black Magic Woman
         3.  Magic Carpet Ride
-2.  **Segment 2**
+2. **Segment 2**
     1.  Fatz's Witch Story
     2.  That Old Black Magic
-3.  **Segment 3**
+3. **Segment 3**
     1.  Letters To Looney Bird #1
     2.  Little Arrows
-4.  **Segment 4**
+4. **Segment 4**
     1.  Magic Medley Intro
     2.  Dook's Magical Medley
         1.  Abracadabra
         2.  You Can Do Magic
-5.  **Segment 5**
+5. **Segment 5**
     1.  Multiple Voice Syndrome
     2.  Puff the Magic Dragon
-6.  **Segment 6**
+6. **Segment 6**
     1.  Ambiance Skit
     2.  Magic (From Xanadu)
-7.  **Segment 7**
+7. **Segment 7**
     1.  Letters to Looney Bird #2
     2.  Every Little Thing She Does Is Magic
-8.  **Segment 8**
+8. **Segment 8**
     1.  Michael Jackson Intro
     2.  Michael Jackson Medley
         1.  Beat It

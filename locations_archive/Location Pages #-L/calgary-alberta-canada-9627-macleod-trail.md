@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1991-08-31"
 endDate = "1994-00-00"
-contributors = ["Rexburg090","RedaCEC","2603:8001:CA01:7340:B8E6:3CB3:C7B8:95F0","CEC Tinley","Douggaming","Cheeseclassic"]
+contributors = ["Rexburg090","RedaCEC","Anonymous","CEC Tinley","Douggaming","Cheeseclassic"]
 citations = []
 pageThumbnailFile = "RcuzlBaCtWkM5lJwJqCL.avif"
 latitudeLongitude = ["50.96824567","-114.0748055"]
@@ -25,7 +25,7 @@ This location opened up on August 31st, 1991, as one of two Road Stages installe
 
 | Stage                                           | Installed   | Removed | Notes                                                                                                                                                                                     |
 |-------------------------------------------------|-------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}} | August 1991 | 1994    | One of two Road Stages installed in Canada. Later reinstalled at {{< wiki-link "Calgary, Alberta, Canada (2770 32nd Ave)" >}} to replace {{< wiki-link "Chuck E's House" >}}. |
+| {{< wiki-link "Road Stage" >}} | August 1991 | 1994    | One of two Road Stages installed in Canada. Later reinstalled at {{< wiki-link "Calgary, Alberta, Canada (2770 32nd Ave)" >}} to replace {{< wiki-link "Chuck E's House" >}}. |
 
 ## Animatronics
 

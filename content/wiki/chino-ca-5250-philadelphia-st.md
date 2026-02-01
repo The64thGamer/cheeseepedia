@@ -1,11 +1,11 @@
 +++
-title = "Chino, CA (5250 Philadelphia St) "
+title = "Chino, CA (5250 Philadelphia St)"
 storeNumber = ""
 startDate = "1988-12-30"
 endDate = ""
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Chuck E.'s House|1988-12-30|0000-00-00|", "2-Stage|1994-05-02|2022-11-18|One of many installed in California. Replaced by Dance Floor + Video Wall.|", "Chuck E. Live Stage (Dance Floor)|2022-11-00||2021 Model|"]
 franchisees = []
 attractions = []
 sqft = ""

@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Major Magic's All Star Pizza Revue"]
 
 citations = []
 +++

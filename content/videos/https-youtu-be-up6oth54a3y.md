@@ -1,7 +1,7 @@
 +++
 title = "https://youtu.be/uP6OTh54A3Y"
-startdate = "1992-00-00"
-pages = ["Havin' A Party & Chuck E.'s Place Live Demo", "San Jose, CA (2445 Fontaine Rd)", "Chuck E.'s House Facade"]
+startDate = "1992-00-00"
+pages = ["Havin' A Party & Chuck E.'s Place Live Demo", "San Jose (Tully), CA (2445 Fontaine Rd)", "Chuck E.'s House Facade"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]
 +++

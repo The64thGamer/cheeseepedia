@@ -4,45 +4,46 @@ title = "September 2003 Show"
 startDate = "2003-09-00"
 endDate = "2003-11-00"
 pageThumbnailFile = "tSrbgUKhLk1AfkKjO9IJ.avif"
-contributors = ["The 64th Gamer", "Documentor", "Ceclife13", "RedaCEC", "BurgersNuggs445", "John95"]
+contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13", "RedaCEC", "BurgersNuggs445", "John95"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/September%202003%20Studio%20C.iso"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Voice of Jasper T. Jowls, Director", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator", "Sammy Davenport - Music Director"]
+mediaDuration = "1:01:51"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Sept03ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/Sept2003ShowUpgradeV101.img|Studio C Floppy Disk (Ver. 1.01)", "https://archive.org/download/studio_c_showtape_dvds/September%202003%20Studio%20C.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***September 2003 Show* is a showtape that released in September 2003 and played until the end of November 2003.**
+***September 2003 Show*** is a showtape that was released in September 2003 and played until the end of November 2003.
 
 ## Show List:
 
 1.   **Segment 1**
-    1.   ['Soul Man'](https://en.wikipedia.org/wiki/Soul_Man_(song))
-    2.   ['Respect'](https://en.wikipedia.org/wiki/Respect_(song))
+        1.   ['Soul Man'](https://en.wikipedia.org/wiki/Soul_Man_(song))
+        2.   ['Respect'](https://en.wikipedia.org/wiki/Respect_(song))
 2.  **Intermission 1**
     1.   CEC TV ID - 'Marquee'
     2.   Eddie Coker - 'Bob'
     3.   Countdown
     4.  CEC TV ID - 'Dancing Food'
 3.   **Segment 2**
-    1.   ['Hold On, I'm Comin''](https://en.wikipedia.org/wiki/Hold_On,_I%27m_Comin%27_(song))
-    2.   ['I Thank You'](https://en.wikipedia.org/wiki/I_Thank_You_(song))
+        1.   ['Hold On, I'm Comin''](https://en.wikipedia.org/wiki/Hold_On,_I%27m_Comin%27_(song))
+        2.   ['I Thank You'](https://en.wikipedia.org/wiki/I_Thank_You_(song))
 4.  **Intermission 2**
     1.   CEC TV ID - 'Parachute'
     2.   VeggieTales - 'BellyButton'
     3.   Countdown
     4.  CEC TV ID - 'Blender'
 5.   **Segment 3**
-    1.   ['Boogie Fever'](https://en.wikipedia.org/wiki/Boogie_Fever)
-    2.  'Our Mouse' (parody of ['Our House'](https://en.wikipedia.org/wiki/Our_House_(Madness_song)))
+        1.   ['Boogie Fever'](https://en.wikipedia.org/wiki/Boogie_Fever)
+        2.  'Our Mouse' (parody of ['Our House'](https://en.wikipedia.org/wiki/Our_House_(Madness_song)))
 6.  **Intermission 3**
-    1.   CEC TV ID - 'Pool'
+    1.   CEC TV ID - 'Pool Plug'
     2.   Eddie Coker - 'Save Our Planet'
     3.   Countdown
     4.  CEC TV ID - 'Dancing Food'
 7.   **Segment 4**
-    1.   ['I Will Survive'](https://en.wikipedia.org/wiki/I_Will_Survive)
-    2.  ['I'll Take You There'](https://en.wikipedia.org/wiki/I%27ll_Take_You_There)
+        1.   ['I Will Survive'](https://en.wikipedia.org/wiki/I_Will_Survive)
+        2.  ['I'll Take You There'](https://en.wikipedia.org/wiki/I%27ll_Take_You_There)
 8.  **Intermission 4**
     1.   CEC TV ID - 'Sunrise'
     2.   Monkey Ninjas - Episode 4
@@ -50,7 +51,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 -  Makin' It
 - Birthday Star 2001
@@ -62,7 +63,6 @@ categories = ["Chuck E. Cheese's"]
 - Chuck E. Says 2002
 - Havin' A Party 2001
 - Happy and You Know It
-- Chuck E. Shuffle (Existing Stages)
 - Go Santa Go (Existing Stages)
 
 **Birthday Break**: CEC TV text with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
@@ -86,7 +86,7 @@ This show is completely filmed in the DFW area.
 ### Studio C Floppy:
 
 When inserting the upgrade floppy, a message would appear on the screen saying
-“ SEPTEMBER 2003 SHOW UPDATE FINISHED.
+" SEPTEMBER 2003 SHOW UPDATE FINISHED.
 ECHO CYBERSTAR PROGRAM HAS ALSO BEEN UPGRADED TO VERSION 1.30
 ECHO QUESTIONS? CONCERNS? CALL 972-258-5613.
 ECHO REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER.".

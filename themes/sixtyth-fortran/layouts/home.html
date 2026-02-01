@@ -1,0 +1,146 @@
+{{- define "main" -}}
+{{- .Content | safeHTML -}}
+<div class="tabs" id="news-tabs">
+  <div class="tab-buttons">
+    <button class="tab-button active" data-tab="news">News</button>
+    <button class="tab-button" data-tab="changed">Recently Changed</button>
+    <button class="tab-button" data-tab="photos">New Photos</button>
+    <button class="tab-button" data-tab="videos">New Videos</button>
+    <button class="tab-button" data-tab="graphs">Stats</button>
+    <button class="tab-button" data-tab="wikigraphs">Wiki Stats</button>
+  </div>
+
+  <div class="tab-content">
+    <div class="tab-panel active" id="news">
+      {{ partial "recent-news.html" . }}
+    </div>
+
+    <div class="tab-panel" id="changed">
+      {{ partial "recently-changed.html" . }}
+    </div>
+
+     <div class="tab-panel" id="photos">
+      {{ partial "Recent_Photos.html" . }}
+    </div>
+
+    <div class="tab-panel" id="videos">
+      {{ partial "Recent_Videos.html" . }}
+    </div>
+
+    <div class="tab-panel" id="graphs">
+      <h2>Store Openings vs Closings</h2>
+      {{ partial "LineGraphs.html" (dict "id" "openings-1" "data" .Site.Data.graphs.openings_vs_closings "type" "auto" "height" 300 "width" 900) }}
+      <h2>Store Stages Over Time</h2>
+      {{ partial "LineGraphs.html" (dict "id" "openings-6" "data" .Site.Data.graphs.open_by_stage "type" "auto" "height" 300 "width" 900) }}
+      <h2>Store Stages Over Time (Stacked Area Chart)</h2>
+      {{ partial "StackedAreaChart.html" (dict "id" "openings-5" "data" .Site.Data.graphs.open_by_stage "type" "auto" "height" 300 "width" 900) }}
+      <h2>Average Total Years Stores Operated By Opening Year (Closed Locations Only)</h2>
+      {{ partial "LineGraphs.html" (dict "id" "openings-3" "data" .Site.Data.graphs.avg_years_open_by_opening_year "type" "auto" "height" 300 "width" 900) }}
+      <h2>Average Store Sqft. Per Year</h2>
+      {{ partial "LineGraphs.html" (dict "id" "openings-2" "data" .Site.Data.graphs.avg_sqft_by_opening_year "type" "auto" "height" 300 "width" 900) }}
+      <h2>Remodels & Initiatives Count for Each Year</h2>
+      {{ partial "LineGraphs.html" (dict "id" "openings-4" "data" .Site.Data.graphs.remodels_by_start_year "type" "auto" "height" 300 "width" 900) }}
+      <h2>Average Showtape Length for the Rock-afire</h2>
+      {{ partial "LineGraphs.html" (dict "id" "showtapes-1" "data" .Site.Data.graphs.avg_media_duration_ce_showbiz "height" 300 "width" 900) }}
+      <h2>Average Showtape Length for Chuck E. Cheese's</h2>
+      {{ partial "LineGraphs.html" (dict "id" "showtapes-2" "data" .Site.Data.graphs.avg_media_duration_ptt_cec "height" 300 "width" 900) }}
+      <h2>Average Live Show Length for Chuck E. Cheese's</h2>
+      {{ partial "LineGraphs.html" (dict "id" "showtapes-2" "data" .Site.Data.graphs.avg_media_duration_live_shows "height" 300 "width" 900) }}
+    </div>
+    <div class="tab-panel" id="wikigraphs">
+      <div class="row" style="display: flex;">
+        <div class="column" style="flex: 50%; max-width:50%">
+          <h2>Articles Scored by Quality</h2>
+          Pages scored by length and number of citations, whichever is lesser.
+          <br><br>
+          {{ partial "PieChart.html" (dict "id" "openings-8" "data" .Site.Data.graphs.article_ratings_counts "type" "auto" "height" 250 "width" 250) }}
+          <h2>Categories Scored by Average Quality</h2>
+          Ignores empty pages, 4 is a perfect score.
+          <br><br>
+          {{ partial "PieChart.html" (dict "id" "openings-9" "data" .Site.Data.graphs.article_ratings_score_by_category "type" "auto" "height" 250 "width" 250) }}
+        </div>
+          <div class="column" style="flex: 50%; max-width:50%">
+          <h2>Tags Scored by Average Quality</h2>
+          Ignores empty pages, 4 is a perfect score.
+          <br><br>
+          {{ partial "PieChart.html" (dict "id" "openings-10" "data" .Site.Data.graphs.article_ratings_score_by_tag "type" "auto" "height" 250 "width" 250) }}
+        </div>
+      </div>
+      <h2>Article Quality by Historical Date</h2>
+      {{ partial "LineGraphs.html" (dict "id" "openings-11" "data" .Site.Data.graphs.article_ratings_score_by_year "height" 300 "width" 900) }}
+    </div>  
+  </div>
+</div>
+<hr>
+<h2>Locations Map</h2>
+{{- partial "map.html" .Pages -}}
+<hr>
+<h2>Introductions</h2>
+{{- partial "introductions.html" . -}}
+<hr>
+{{- partial "Random_Page.html" . -}}
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  initTabs("news-tabs");
+  initTabs("results-tabs");
+  activateTab("results-tabs", "tab-articles");
+});
+
+function initTabs(containerId) {
+  const container = document.getElementById(containerId);
+  if (!container) return;
+
+  // Ensure a default active tab exists
+  const buttons = container.querySelectorAll(".tab-button");
+  const panels = container.querySelectorAll(".tab-panel");
+
+  if (!container.querySelector(".tab-button.active") && buttons.length) {
+    buttons[0].classList.add("active");
+    const firstPanel = container.querySelector(
+      `#${CSS.escape(buttons[0].dataset.tab)}`
+    );
+    if (firstPanel) firstPanel.classList.add("active");
+  }
+
+  container.addEventListener("click", (e) => {
+    const btn = e.target.closest(".tab-button");
+    if (!btn || !container.contains(btn)) return;
+
+    // 🔑 CRITICAL: prevent parent tab groups from handling this click
+    e.stopPropagation();
+
+    const targetId = btn.dataset.tab;
+    if (!targetId) return;
+
+    buttons.forEach(b => b.classList.remove("active"));
+    panels.forEach(p => p.classList.remove("active"));
+
+    btn.classList.add("active");
+
+    const panel = container.querySelector(`#${CSS.escape(targetId)}`);
+    if (panel) panel.classList.add("active");
+  });
+}
+
+function activateTab(containerId, tabId) {
+  const container = document.getElementById(containerId);
+  if (!container) return;
+
+  const buttons = container.querySelectorAll(".tab-button");
+  const panels = container.querySelectorAll(".tab-panel");
+
+  buttons.forEach(b => b.classList.remove("active"));
+  panels.forEach(p => p.classList.remove("active"));
+
+  const btn = container.querySelector(`.tab-button[data-tab="${tabId}"]`);
+  const panel = container.querySelector(`#${CSS.escape(tabId)}`);
+
+  if (btn) btn.classList.add("active");
+  if (panel) panel.classList.add("active");
+}
+
+
+</script>
+
+{{- end -}}

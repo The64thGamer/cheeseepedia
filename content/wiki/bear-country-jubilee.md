@@ -7,7 +7,7 @@ categories = ["Creative Engineering"]
 
 startDate = ""
 endDate = ""
-contributors = ["FileFickle","Lelmaster","Documentor","BigCtheDataFinder"]
+contributors = ["FileFickle","Lelmaster","CyberSnout","BigCtheDataFinder"]
 citations = ["<a href=\"https://showbizpizza.com/info/promo/cei/cei_1977promo.pdf\">https://showbizpizza.com/info/promo/cei/cei_1977promo.pdf</a>","<a href=\"https://youtu.be/0l6-6ewuY70?si=FXtBU7r9Yfgwl762&t=1545\">https://youtu.be/0l6-6ewuY70?si=FXtBU7r9Yfgwl762&t=1545</a>"]
 pageThumbnailFile = "Tyo4K_3Usy_EmSTeygqZ.avif"
 +++

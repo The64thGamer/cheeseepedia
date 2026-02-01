@@ -4,11 +4,11 @@ title = "Chuck E. Cheese LIVE Announcement Show"
 startDate = "2023-11-02"
 endDate = "2023-11-02"
 pageThumbnailFile = "9gPEMnaBj2y5m5llQSMP.avif"
-contributors = ["The 64th Gamer"]
+contributors = ["The 64th Gamer", "Luigigamin212"]
 citations = ["https://archive.org/details/chuck-e.-cheese-live-announcement", "https://youtu.be/npNu7jGDhAQ", "Employee Testimony", "https://discord.com/channels/866130462137516052/866133548158550067/1166867401296584755", "https://www.chuckecheese.com/rohnert-park-ca/blogs/northridge-residency-announcement/", "https://youtu.be/Ytbr2G1QtKA"]
 mediaDuration = "6:10"
 downloadLinks = ["https://archive.org/details/northridge-announcement-original-audio|Original Full Showtape Audio"]
-transcriptions = ["Together We've Got It"]
+transcriptions = ["Northridge Legacy Announcement"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
@@ -42,7 +42,7 @@ On November 10th, 2024, exactly one year from the original Northridge Grand Re-O
 
 ## Show Segments
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Northridge Skit
-2.  **Segment 2**
+2. **Segment 2**
     1.  Together We Got It

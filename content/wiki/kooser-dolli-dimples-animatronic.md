@@ -4,7 +4,7 @@ title = "Kooser Dolli Dimples (Animatronic)"
 startDate = "1978-12-00"
 endDate = "1980-05-00"
 pageThumbnailFile = "RSEKM5ZyV79H3d4p4ycO.avif"
-contributors = ["The 64th Gamer", "CEC", "CEC Tinley", "212.34.100.68", "Ceclife13", "Concordio", "PizzaEntertainmentFanX", "FileFickle", "CECMentor"]
+contributors = ["The 64th Gamer", "CEC", "CEC Tinley", "Anonymous", "Ceclife13", "Concordio", "PizzaEntertainmentFanX", "FileFickle", "CECMentor"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf\">https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf</a>", "<a href=\"https://youtu.be/EdKLsomLbtY\">https://youtu.be/EdKLsomLbtY</a>", "<a href=\"https://www.youtube.com/watch?v=ucg8MujPDQA\">https://www.youtube.com/watch?v=ucg8MujPDQA</a>"]
 manufacturer = "Fantasy Forest"
 unitsProduced = "1"
@@ -12,7 +12,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 +++
 
-The ***Kooser Dolli Dimples Animatronic*** was an animatronic version of Dolli Dimples created by {{< wiki-link "Fantasy Forest" >}} for {{< wiki-link "Pizza Time Theatre" >}} in 1978. The bot was used at {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} from December 1978 to May 1980. The bot was made to only activate when a token was put in. The bot was controlled using the {{< wiki-link "Cyberamic Control System" >}} &amp; {{< wiki-link "Dolli Dimples Show Selector (Prototype)" >}} with the bot being programmed at Kooser using the {{< wiki-link "SongCode Hardware Setup" >}}.
+The ***Kooser Dolli Dimples Animatronic*** was an animatronic version of Dolli Dimples created by {{< wiki-link "Fantasy Forest" >}} for {{< wiki-link "Pizza Time Theatre" >}} in 1978. The bot was used at {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} from December 1978 to May 1980. The bot was made to only activate when a token was put in. The bot was controlled using the {{< wiki-link "Cyberamic Control System" >}} &amp; {{< wiki-link "PTT Show Selector" >}} with the bot being programmed at Kooser using the {{< wiki-link "Big C's Cyberamics Center" >}}.
 
 ## History
 
@@ -30,7 +30,7 @@ At an unknown time, the bot would be destroyed.
 
 ### Modern Apperances
 
-The bot appeared as a character in the 2018 CEC Halloween special 'Halloween At The Pizza Time Theater' in which the Animatronic appears alongside a {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}} &amp; {{< wiki-link "The King King Kat (Lounge)" >}}. In the short, The Bot is given legs &amp; attempts to attack {{< wiki-link "Chuck E Cheese" >}} after he gives criticism to the 3 bots.
+The bot appeared as a character in the 2018 CEC Halloween special 'Halloween At The Pizza Time Theater' in which the Animatronic appears alongside a {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}} &amp; {{< wiki-link "The King / King Kat (Lounge)" >}}. In the short, The Bot is given legs &amp; attempts to attack {{< wiki-link "Chuck E. Cheese" >}} after he gives criticism to the 3 bots.
 
 ## Design
 

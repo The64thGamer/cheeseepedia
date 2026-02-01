@@ -39,7 +39,7 @@ controversy when the video was originally uploaded were unearthed.{{< cite 3 >}}
 
 ## Show List:
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  [Eve of Destruction](https://en.wikipedia.org/wiki/Eve_of_Destruction_(song))
 
 ## Official Releases

@@ -2,92 +2,94 @@
 draft = false
 title = "August 1999"
 startDate = "1999-08-00"
-endDate = "1999-12-00"
+endDate = "1999-11-00"
 pageThumbnailFile = "YQhq5K1pLAeN8HqVZs4G.avif"
-contributors = ["Documentor", "The 64th Gamer", "Anastasia.laguardia", "2601:81:8500:E190:4D99:3FA7:CB9B:907B"]
+contributors = ["CyberSnout", "The 64th Gamer", "Anastasia.laguardia", "Anonymous", "Ceclife13"]
 citations = ["https://youtu.be/YvjpHQMbRMI"]
-showtapeFormats = ["Studio C 4x Laserdisc + Files", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
-downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/September%201999%203-Stage-012.iso|Post '93 3-Stage SVHS w/ Signals"]
+credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Annagrey Wiechman - Singing Voice of Helen Henny", "Karlisa Burleson - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef, Bird", "Eddie Coker - Opera Singer, Opera Audience, Wilson Hackett", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Betty, Mike Manley, Opera Announcer", "Robert Gotcher - Production Coordinator, Pirate", "Brian Hagan - Studio Manager, Pirate", "Brent Gray - Studio Coordinator, Pirate", "Brett Roberts - Puppeteer"]
+mediaDuration = "1:01:06"
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
+downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/September%201999%203-Stage-012.iso|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/August%201999%20Studio%20C.iso|Studio C DVD ISO"]
 transcriptions = ["Rhythm Is Gonna Get You (August 1999)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***August 1999* (AKA ***Fabulous World Adventure*) was a showtape that released August 1999 and ran until December 1999.
-This was also the first show for Studio C to run solely on DVD + Floppy.****
+***August 1999***, also known as Fabulous World Adventure, was a showtape that played through the fall of 1999. This was the first show for Studio C to run solely on DVD + Floppy.
 
 ## Existing Show List
 
-1.  **Segment 1**
-    1.  Rhythm is Gonna Get You
-    2.  Cheese Pizza is Pure Delight (Parody of [Cheeseburger in Paradise](https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise))
-2.  **Intermission 1**
+1. **Segment 1**
+    1.  ['Rhythm is Gonna Get You'](https://en.wikipedia.org/wiki/Rhythm_Is_Gonna_Get_You)
+    2.  'Cheese Pizza is Pure Delight' (Parody of ['Cheeseburger in Paradise'](https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise))
+2. **Intermission 1**
     1.  Eddie Coker - 'The Morning Dance'
-    2.  Be Smart, Be Cool, Be Safe
-    3.  CEC TV ID - 'Retro Abstract'
-    4.  Store Intro - 'Oklahoma City (Walker), CEC'
-3.  **Segment 2**
-    1.  Land Down Under
-    2.  Differences
-4.  **Intermission 2**
-    1.  Veggietales - 'Dance of the Cucumber'
-    2.  Coca Cola Spot
-    3.  CEC TV ID - 'Retro Abstract'
-    4.  Store Intro - 'Oklahoma City (Walker), CEC'
-5.  **Segment 3**
-    1.  Europe Medley
-    2.  The Lion Sleeps Tonight
-6.  **Intermission 3**
+    2.  Wear Your Helmet Spot
+    3.  CEC TV ID - 'Abstract'
+    4.  Store Intro - 'Oklahoma City (Walker), CEC' 
+3. **Segment 2**
+    1.  ['Down Under'](https://en.wikipedia.org/wiki/Down_Under_(song))
+    2.  'We Are The Same'
+4. **Intermission 2**
+    1.  VeggieTales - 'Dance of the Cucumber'
+    2.  Coke Spot
+    3.  CEC TV ID - 'Abstract'
+    4.  Store Intro - 'Oklahoma City (Walker), CEC' 
+5. **Segment 3**
+    1.  European Medley
+    2.  ['The Lion Sleeps Tonight'](https://en.wikipedia.org/wiki/The_Lion_Sleeps_Tonight)
+6. **Intermission 3**
     1.  Eddie Coker - 'Say Hello'
-    2.  CEC TV ID - 'Retro Abstract'
-    3.  Store Intro - 'Oklahoma City (Walker), CEC'
-7.  **Segment 4**
-    1.  The Boat of Love
-    2.  We Sail the Ocean Blue
-    3.  We All Love Music
-8.  **Intermission 4**
-    1.  Veggietales - 'The Yodeling Vet'
-    2.  Chuck E. Home Video Trailer
+    2.  CEC TV ID - 'Abstract'
+    3.  Store Intro - 'Oklahoma City (Walker), CEC' 
+7. **Segment 4**
+    1.  'Boat of Love'
+    2.  'We Sail the Ocean Blue'
+    3.  'We All Love Music'
+8. **Intermission 4**
+    1.  VeggieTales - 'The Yodeling Veterinarian of the Alps'
+    2.  Chuck E. Cheese in the Galaxy 5000 Trailer
     3.  Drawing Chuck E.
-    4.  CEC TV ID - 'Retro Abstract'
+    4.  CEC TV ID - 'Abstract'
 
 ## Studio C Show List
 
-1.  **Segment 1**
-    1.  Rhythm is Gonna Get You
-    2.  Cheese Pizza is Pure Delight (Parody of [Cheeseburger in Paradise](https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise))
-2.  **Intermission 1**
+1. **Segment 1**
+    1.  ['Rhythm is Gonna Get You'](https://en.wikipedia.org/wiki/Rhythm_Is_Gonna_Get_You)
+    2.  'Cheese Pizza is Pure Delight' (Parody of ['Cheeseburger in Paradise'](https://en.wikipedia.org/wiki/Cheeseburger_in_Paradise))
+2. **Intermission 1**
     1.  Eddie Coker - 'The Morning Dance'
-    2.  Drawing Chuck E.
-    3.  CEC TV ID - 'Retro Abstract'
-3.  **Segment 2**
-    1.  Land Down Under
-    2.  Differences
-4.  **Intermission 2**
-    1.  Veggietales - 'Dance of the Cucumber'
-    2.  Coca Cola Spot
+    2.  Wear Your Helmet Spot
+    3.  Drawing Chuck E.
+    4.  CEC TV ID - 'Abstract'
+3. **Segment 2**
+    1.  ['Down Under'](https://en.wikipedia.org/wiki/Down_Under_(song))
+    2.  'We Are The Same'
+4. **Intermission 2**
+    1.  VeggieTales - 'Dance of the Cucumber'
+    2.  Coke Spot
     3.  Baking With Betty - 'Vegetable Medley'
-    4.  CEC TV ID - 'Retro Abstract'
-5.  **Segment 3**
-    1.  Europe Medley
-    2.  The Lion Sleeps Tonight
-6.  **Intermission 3**
+    4.  CEC TV ID - 'Abstract'
+5. **Segment 3**
+    1.  European Medley
+    2.  ['The Lion Sleeps Tonight'](https://en.wikipedia.org/wiki/The_Lion_Sleeps_Tonight)
+6. **Intermission 3**
     1.  Eddie Coker - 'Say Hello'
-    2.  Clowning Around
-    3.  CEC TV ID - 'Retro Abstract'
-7.  **Segment 4**
-    1.  The Boat of Love
-    2.  We Sail the Ocean Blue
-    3.  We All Love Music
-8.  **Intermission 4**
-    1.  Veggietales - 'The Yodeling Vet'
-    2.  Chuck E. Home Video Trailer
-    3.  CEC TV ID - 'Retro Abstract'
+    2.  Clowns Making a Sandwich
+    3.  CEC TV ID - 'Abstract'
+7. **Segment 4**
+    1.  'Boat of Love'
+    2.  'We Sail the Ocean Blue'
+    3.  'We All Love Music'
+8. **Intermission 4**
+    1.  VeggieTales - 'The Yodeling Veterinarian of the Alps'
+    2.  Chuck E. Cheese in the Galaxy 5000 Trailer
+    3.  CEC TV ID - 'Abstract'
 
-## Lives
+## Live Shows
 
-**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+**Live shows would be on separate VHS tapes for Existing Stage stores.**
 
-- Birthday Star 95'
+- Birthday Star '98
 - Footloose
 - Chuck E. March
 - Havin' A Party
@@ -96,15 +98,13 @@ This was also the first show for Studio C to run solely on DVD + Floppy.****
 - Patriotic Live
 - America
 - Chuck E. Swing
-- Give My Regards to Broadway
+- Give My Regards to Broadway (Existing Stages)
 
-**Birthday Break**: Fabulous World Adventure logo with music being a saxophone version of 'Differences' to a 1 minute, 2 minute or 3 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: Fabulous World Adventure logo with music being a saxophone version of 'We Are The Same' to a 1-minute, 2-minute, or 3-minute countdown, which would then lead into the Birthday show.
 
 ## Trivia:
 
-- This was the first Studio C show to feature the puppets as the on screen counter part for Helen, Munch, Jasper and Pasqually. Prior to this show the walkaround costumes were used.
-- The background for the Studio C puppets is random paints thrown at a wall.
-- The changes between Studio C and Existing shows is some intermissions being moved around and Chuck singing 'Cheese Pizza is Pure Delight' instead of Jasper.
-- Duncan Brannan's voice for Chuck E. has gotten much lower and evolved into his 'Avenger Chuck' tone, and his New Jersey accent is now minimal-sounding.
-- This was the last original showtape before the release of the *Galaxy 5000* movie.
+- This was the first Studio C show to feature puppets to represent Munch's Make Believe Band. Before this show, walk-around costumes were used. The background for the Studio C puppets is paint splattered on a wall.
 - Chuck E. sings 'Cheese Pizza is Pure Delight' in the Studio C version while Jasper sings it in the Existing Stages version.
+- This was the final show to feature Bird in a speaking role on Studio C. 
+- This was the first show to feature Baking With Betty.

@@ -1,4 +1,5 @@
 +++
+
 title = "PTT Kooser Jasper T. Jowls Name Sign (1978)"
 draft = false
 tags = ["Store Fixtures"]
@@ -7,12 +8,13 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["Concordio"]
 citations = []
+pageThumbnailFile = "yman5O_HHzy6F0qkPm54.avif"
 +++
 The ***1978 Kooser Jasper T. Jowls Nameplate* appeared at the second Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} located in the Blossom Hill Shopping Center in San Jose, California; placed under the {{< wiki-link "Kooser Jasper T. Jowls (Animatronic)" >}} for the purpose of identifying the Jasper T. Jowls character.**
 
 ## Production
 
-Alongside the other nameplates featured at the store, we can assume it was produced in a batch at the Fantasy Forest Manufacturing Company between October through November 1978, if not it was most likely produced by Pizza Time Theatre Incorporated; due to the significance of the character, it was most likely the second produced nameplate for the location after {{< wiki-link "PTT Kooser Chuck E Cheese Name Sign (1978)" >}}
+Alongside the other nameplates featured at the store, we can assume it was produced in a batch at the Fantasy Forest Manufacturing Company between October through November 1978, if not it was most likely produced by Pizza Time Theatre Incorporated; due to the significance of the character, it was most likely the second produced nameplate for the location after {{< wiki-link "PTT Kooser Chuck E. Cheese Name Sign (1978)" >}}
 
 ## Usage
 

@@ -1,10 +1,10 @@
 +++
-title = "PTT Mr. Munch Name Sign (1980)"
+title = "PTT Mr. Munch Name Sign"
 draft = false
 tags = ["Store Fixtures"]
 categories = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
-startDate = ""
+startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = []
 +++

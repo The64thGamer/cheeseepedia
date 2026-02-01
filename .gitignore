@@ -21,3 +21,10 @@ public/
 # Go workspace file
 go.work
 .DS_Store
+
+hugo-build.log
+.hugo_build.lock
+
+.venv/
+/data/search
+/data/tags

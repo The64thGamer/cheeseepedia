@@ -1,5 +1,5 @@
 +++
-title = "CEC TV News Sports "
+title = "CEC TV News Sports"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

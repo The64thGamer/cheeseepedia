@@ -1,0 +1,110 @@
+{{- /*
+DisplayPhoto.html — lookup only in site.Data.photos (data/photos.json)
+Params:
+  .name - photo filename/title (e.g. "blah.avif")
+  .mode - "default", "no-css", "raw-photo"
+*/ -}}
+
+{{- $ctxName := (.name | default "") | printf "%s" -}}
+{{- $ctxMode := (.mode | default "default") | printf "%s" -}}
+
+{{- /* === Build / select meta source (only site.Data.photos) === */ -}}
+{{- $metaMap := dict -}}
+{{- with site.Data.photos -}}
+  {{- $metaMap = . -}}
+{{- end -}}
+
+{{- /* === Lookup metadata for this photo === */ -}}
+{{- $m := index $metaMap $ctxName -}}
+
+{{- /* === Image URL / hasFile fallback === */ -}}
+{{- $imgURL := printf "/photos/%s" $ctxName -}}
+{{- $lowResURL := printf "/lowphotos/%s" $ctxName -}}
+{{- $hasFile := false -}}
+{{- if $m -}}
+  {{- $hasFile = index $m "hasFile" | default false -}}
+{{- end -}}
+
+{{- /* === Description and formatted date (clean content) === */ -}}
+{{- $descRaw := "" -}}
+{{- if $m -}}
+  {{- $descRaw = (index $m "content") | default "" -}}
+{{- end -}}
+
+{{- /* If descRaw appears to contain frontmatter / inline TOML/YAML, strip it. */ -}}
+{{- $desc := $descRaw -}}
+{{- if gt (len $desc) 0 -}}
+  {{- /* strip TOML block +++ ... +++ */ -}}
+  {{- $desc = replaceRE `(?s)^\+{3}.*?\+{3}` "" $desc -}}
+  {{- /* strip YAML block --- ... --- */ -}}
+  {{- $desc = replaceRE `(?s)^-{3}.*?-{3}` "" $desc -}}
+  {{- /* If content still looks like flattened frontmatter (key = value), remove leading chunk */ -}}
+  {{- if or (in $descRaw "title =") (in $descRaw "draft =") (in $descRaw "tags =") -}}
+    {{- if in $descRaw "+++" -}}
+      {{- /* remove everything up to and including the first closing +++ */ -}}
+      {{- $desc = replaceRE `(?s)^.*?\+{3}` "" $descRaw -}}
+    {{- else -}}
+      {{- /* remove up to the first blank line */ -}}
+      {{- $desc = replaceRE `(?s)^[^\n]*\n` "" $desc -}}
+    {{- end -}}
+  {{- end -}}
+  {{- /* final trim */ -}}
+  {{- $desc = trim $desc " \r\n\t" -}}
+{{- end -}}
+
+{{- /* fallback alt/description */ -}}
+{{- $altText := cond (ne $desc "") $desc $ctxName -}}
+
+{{- /* format date if present */ -}}
+{{- $dateStr := "" -}}
+{{- if $m -}}
+  {{- with index $m "startDate" -}}
+    {{- if ne . "" -}}
+      {{- $dateStr = partial "Readable_Date.html" (dict "date" . "presentOnEmpty" false) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* display text prefers cleaned description, append date if present */ -}}
+{{- $displayText := "" -}}
+{{- if ne $desc "" -}}
+  {{- $displayText = printf "%s%s" $desc (cond (ne $dateStr "") (printf " (%s)" $dateStr) "") -}}
+{{- else -}}
+  {{- $displayText = cond (ne $ctxName "") (replace $ctxName "_" " ") "File Not Found" -}}
+{{- end -}}
+
+{{- $linkURL := "#" -}}
+{{- if $m -}}
+  {{- $raw := (index $m "page_path") | default "" -}}
+  {{- if ne $raw "" -}}
+    {{- $p1 := replace $raw "content/" "" -}}
+    {{- $p2 := replaceRE "\\.md$" "" $p1 -}}
+    {{- /* ensure leading slash so links are always root-relative */ -}}
+    {{- $linkURL = printf "/%s/" $p2 -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $notFoundPath := "/UI/File Not Found.jpg" -}}
+{{- if or (eq $ctxName "") (not $m) (not $hasFile) -}}
+  {{- $imgURL = $notFoundPath -}}
+  {{- $lowResURL = $notFoundPath -}}
+  {{- $altText = "File Not Found" -}}
+  {{- $displayText = "File Not Found" -}}
+{{- end -}}
+
+{{- /* === Render according to mode with lazy-loading === */ -}}
+{{- if eq "no-css" $ctxMode -}}
+  <a href="{{ $linkURL }}">
+    <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText | html }}" class="lazy-photo" loading="lazy" />
+  </a>
+  <div class="article-photo-description">{{ $displayText }}</div>
+{{- else if eq $ctxMode "raw-photo" -}}
+  <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText | html }}" class="lazy-photo" loading="lazy" />
+{{- else -}}
+  <div class="article-photo-image">
+    <a href="{{ $linkURL }}">
+      <img src="{{ $lowResURL }}" data-src="{{ $imgURL }}" alt="{{ $altText | html }}" class="lazy-photo" loading="lazy" />
+    </a>
+  </div>
+  <div class="article-photo-description">{{ $displayText }}</div>
+{{- end -}}

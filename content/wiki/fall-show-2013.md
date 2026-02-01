@@ -4,8 +4,9 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2013-09-01"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Documentor","John95","2600:1012:B044:7B02:FCBA:EF2B:7590:88A2"]
+endDate = "2013-12-01"
+contributors = ["The 64th Gamer","CyberSnout","John95","Anonymous","Ceclife13"]
+mediaDuration = "1:31:06"
 citations = []
 pageThumbnailFile = "dHFhj6QTzPJm5d2wIy1D.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -15,45 +16,45 @@ This was created to play from September 1st - December 1, 2013.
 
 ## Show List:
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  'Tricky'
-2.  **Intermission 1**
+2. **Intermission 1**
     1.  'Fraggle Rock 'Wembley & The Grogs'
     2.  Chill Out 1
-3.  **Segment 2**
+3. **Segment 2**
     1.  'Good Time'
     2.  'Eye Of The Tiger'
-4.  **Intermission 2**
+4. **Intermission 2**
     1.  Hard Hat Hank - 'Time Machine'
     2.  'Free Birds' Promo
     3.  CEC Live Promo
     4.  Chill Out 2
-5.  **Segment 3**
+5. **Segment 3**
     1.  'Home'
-6.  **Intermission 3**
+6. **Intermission 3**
     1.  Tim & The Space Cadets - '2nd Grade Show'
     2.  Veggietales - 'Stilts & Kilts'
     3.  Chill Out 3
-7.  **Segment 4**
+7. **Segment 4**
     1.  '1985'
     2.  'Cars'
-8.  **Intermission 4**
+8. **Intermission 4**
     1.  Marvin The Tech Guru - 'Beards'
     2.  Pajanimals - 'Pajamarama Bounce'
     3.  'Free Birds' Trailer
     4.  CEC Live Promo
     5.  Chill Out 4
 
-## Lives:
+## Live Shows:
 
-- Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Do The Chuck E. (New) (3stage, Cyberamic, Studio C,Weigl)
-- Head, Shoulders, Knees And Toes (New) (3stage, Cyberamic, Studio C,Weigl)
-- Cupid Shuffle (3stage, Cyberamic, Studio C,Weigl)
-- Old Mac Donald (3stage, Cyberamic, Studio C,Weigl)
-- Happy & U Know It (3stage, Cyberamic, Studio C,Weigl)
-- BINGO (3stage, Cyberamic, Studio C,Weigl)
+- Rockstar Birthday
+- Spanish Rockstar Birthday
+- Do The Chuck E. (New)
+- Head, Shoulders, Knees And Toes (New)
+- Cupid Shuffle
+- Old MacDonald
+- Happy & U Know It
+- BINGO
 
 ## Trivia:
 

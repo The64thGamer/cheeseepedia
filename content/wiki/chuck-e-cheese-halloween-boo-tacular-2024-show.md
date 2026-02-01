@@ -42,11 +42,11 @@ categories = ["Chuck E. Cheese's"]
 11. **Intermission 6**
       1. Off Road with Chuck E. 6
       2. Kidz Bop Kids - ‘Ghostbusters’
-      3. Chuck E Cheese - ‘If Everyday Was Halloween’
+      3. Chuck E. Cheese - ‘If Everyday Was Halloween’
       4. CEC Sketch - ‘Ballerina Ghost’
       5. Descendants - ‘Perfect Revenge'
 12. **Skit 6**
-      1. Chuck E Cheese - ‘Dancin’ Kitten’
+      1. Chuck E. Cheese - ‘Dancin’ Kitten’
 13. **Intermission 7**
       1. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
 14. **Skit 7**
@@ -100,11 +100,11 @@ categories = ["Chuck E. Cheese's"]
 11. **Intermission 6**
       1. Off Road with Chuck E. 6
       2. Kidz Bop Kids - ‘Ghostbusters’
-      3. Chuck E Cheese - ‘If Everyday Was Halloween’
+      3. Chuck E. Cheese - ‘If Everyday Was Halloween’
       4. CEC Sketch - ‘Ballerina Ghost’
       5. Descendants - ‘Perfect Revenge'
 12. **Skit 7**
-      1. Chuck E Cheese - ‘Dancin’ Kitten’
+      1. Chuck E. Cheese - ‘Dancin’ Kitten’
 13. **Intermission 7**
       1. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
 14. **Skit 8**
@@ -155,11 +155,11 @@ categories = ["Chuck E. Cheese's"]
 10. **Intermission 5**
       1. Off Road with Chuck E. 6
       2. Kidz Bop Kids - ‘Ghostbusters’
-      3. Chuck E Cheese - ‘If Everyday Was Halloween’
+      3. Chuck E. Cheese - ‘If Everyday Was Halloween’
       4. CEC Sketch - ‘Ballerina Ghost’
       5. Descendants - ‘Perfect Revenge'
 11. **Skit 6**
-      1. Chuck E Cheese - ‘Dancin’ Kitten’
+      1. Chuck E. Cheese - ‘Dancin’ Kitten’
 12. **Intermission 6**
       1. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
 13. **Skit 7**
@@ -210,11 +210,11 @@ categories = ["Chuck E. Cheese's"]
 10. **Intermission 5**
       1. Off Road with Chuck E. 6
       2. Kidz Bop Kids - ‘Ghostbusters’
-      3. Chuck E Cheese - ‘If Everyday Was Halloween’
+      3. Chuck E. Cheese - ‘If Everyday Was Halloween’
       4. CEC Sketch - ‘Ballerina Ghost’
       5. Descendants - ‘Perfect Revenge'
 11. **Skit 6**
-      1. Chuck E Cheese - ‘Dancin’ Kitten’
+      1. Chuck E. Cheese - ‘Dancin’ Kitten’
 12. **Intermission 6**
       1. Jasper T. Jowls - ‘This Friendship Ain’t No Accident‘
 13. **Skit 7**

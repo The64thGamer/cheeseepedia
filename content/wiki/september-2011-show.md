@@ -4,9 +4,10 @@ title = "September 2011 Show"
 startDate = "2011-09-00"
 endDate = "2011-11-24"
 pageThumbnailFile = "YP9rKr5PW1SSLfTxHKsI.avif"
-contributors = ["The 64th Gamer", "Documentor", "John95", "73.160.122.78", "Ceclife13"]
+contributors = ["The 64th Gamer", "CyberSnout", "John95", "Anonymous", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=XN6-ayiwhPM"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Voice of Jasper T. Jowls, Show Announcer", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator", "Deva George - Animator", "Logan 'Robot' Gladden - Little Pasqually"]
+mediaDuration = "1:21:47"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_dvd_signals/September%202011%20CEC-Stage-007.ISO|CEC-Stage DVD ISO w/ Signals", "https://archive.org/download/3stage_dvd_signals/September%202011%203-Stage-003.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/September%202011%20Studio%20C.iso|Studio C DVD ISO"]
 tags = ["Showtapes"]
@@ -32,7 +33,7 @@ categories = ["Chuck E. Cheese's"]
     1.  ['Bang the Drum All Day'](https://en.wikipedia.org/wiki/Bang_the_Drum_All_Day)
     2.  'Come On Let's Go'
 4.  **Intermission 2**
-    1.  CEC TV ID - 'Breakdancer'
+    1.  CEC TV ID - 'Breakdance'
     2.  Kung Fu Panda 2 Promo
     3.  Monkey Ninjas Episode 1
     4.  Chloe's Closet - 'Happy & You Know It'
@@ -50,19 +51,19 @@ categories = ["Chuck E. Cheese's"]
     5.  CEC TV Classic ID
     6.  CEC TV RETRO: Geography Rap - 'Australia'
     7.  Chillout - 'Wildlife'
-    8.  CEC TV ID - 'Chuck E. Sunrise'
+    8.  CEC TV ID - 'Sunrise'
 7.  **Segment 4**
     1.  ['Funkytown'](https://en.wikipedia.org/wiki/Funkytown)
     2.  'Keep Your Head Up'
 8.  **Intermission 4**
-    1.  CEC TV ID - 'Pizza Fan'
+    1.  CEC TV ID - 'Pasta Fan'
     2.  Veggie Tales - 'Astonishing Wigs'
     3.  Monkey Ninjas Episode 2
     4.  Yo Gabba Gabba Spot
     5.  Chillout - 'Space'
     6.  CEC TV ID - 'NBC Chime'
 
-## Lives:
+## Live Shows:
 
 - Birthday 2009
 - Spanish Birthday 2010

@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-05-00"
 endDate = "2002-05-00"
-contributors = ["ChuckECool","173.216.33.6","Midwestretail","CEC Tinley","Rexburg090","ThatBoiCydalan","Documentor","The 64th Gamer","SuperCreamPiper2008","Cecnj98"]
+contributors = ["ChuckECool","Anonymous","Midwestretail","CEC Tinley","Rexburg090","ThatBoiCydalan","CyberSnout","The 64th Gamer","SuperCreamPiper2008","Cecnj98"]
 citations = ["<a href=\"https://youtu.be/Xa_wLyRZglI\">https://youtu.be/Xa_wLyRZglI</a>"]
 pageThumbnailFile = "bwYuOOZap5QB4nSq0mxU.avif"
 latitudeLongitude = ["37.02649957","-76.42558368"]
@@ -57,4 +57,4 @@ When Hampton opened, it housed a Balcony Stage like the other Pizza Time Theatre
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 | [Link](https://youtu.be/Xa_wLyRZglI) | CEC Fractured Classics Segment 4, Segment 2, Dancing in the Street Birthday, Beach Boys Birthday showroom footage. Brief shots of entrance and gameroom. | Between January and March of 1989    |
 | [Link](https://youtu.be/xZiEBcgwwrw) | {{< wiki-link "Birthday Star '92" >}} showroom footage.                                                                                            | Between April 22nd to August of 1996 |
-| [Link](https://youtu.be/DmzoR1ddYvg) | {{< wiki-link "The Totally Awesome Kids Show" >}} Segment 2 showroom footage.                                                                      | Between April 22nd to August of 1996 |
+| [Link](https://youtu.be/DmzoR1ddYvg) | {{< wiki-link "The Chuck E. Cheese Totally Awesome Kids Show" >}} Segment 2 showroom footage.                                                                      | Between April 22nd to August of 1996 |

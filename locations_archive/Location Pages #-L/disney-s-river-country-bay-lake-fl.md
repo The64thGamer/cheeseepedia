@@ -2,7 +2,7 @@
 title = "Disney's River Country (Bay Lake, FL)"
 draft = false
 tags = ["Locations"]
-categories = ["Disney Parks"]
+categories = ["Disney Experiences"]
 latitudeLongitude = ["28.41114123242221", "-81.56540385767197"]
 pageThumbnailFile = ""
 startDate = "1976-06-20"

@@ -1,0 +1,67 @@
+{{/* --- Most Recent Photos from data/photodates.json --- */}}
+{{ $photosMap := site.Data.photodates }}
+{{ $photos := slice }}
+
+{{/* Convert map -> sortable slice */}}
+{{ range $key, $value := $photosMap }}
+  {{ $photos = $photos | append (dict "key" $key "added" $value) }}
+{{ end }}
+
+{{/* Sort newest first */}}
+{{ $sorted := sort $photos "added" "desc" }}
+
+{{/* Take first 16 */}}
+{{ $recent := first 16 $sorted }}
+
+<div class="gallery">
+  <div id="recentPhotos" style="
+      display: flex;
+      flex-wrap: wrap;
+      align-items: stretch;
+      justify-content: space-around;
+    ">
+    {{- range $recent -}}
+      {{- $name := .key -}}
+      {{- $added := .added -}}
+      {{- $mode := "no-css" -}}
+
+      <div class="gallery-image-box">
+        <div class="article-photo-image">
+          {{- partialCached "DisplayPhoto.html"
+              (dict "name" $name "mode" $mode)
+              (printf "%s|%s" $name $mode)
+          -}}
+        </div>
+
+        <div class="article-photo-description" data-added="{{ $added }}">
+          <span class="relative-time">loading...</span>
+        </div>
+      </div>
+    {{- end -}}
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll(".article-photo-description").forEach(el => {
+    const iso = el.dataset.added;
+    if (!iso) return;
+
+    const d = new Date(iso);
+    if (isNaN(d)) return;
+
+    const now = new Date();
+    const mins = Math.round((now - d) / 60000);
+    const hrs  = Math.round(mins / 60);
+    const days = Math.round(hrs / 24);
+
+    let txt;
+    if (mins < 1) txt = "Just now";
+    else if (mins < 60) txt = `${mins} minute${mins === 1 ? "" : "s"} ago`;
+    else if (hrs < 24) txt = `${hrs} hour${hrs === 1 ? "" : "s"} ago`;
+    else txt = `${days} day${days === 1 ? "" : "s"} ago`;
+
+    el.querySelector(".relative-time").textContent = "📝 " + txt;
+  });
+});
+</script>

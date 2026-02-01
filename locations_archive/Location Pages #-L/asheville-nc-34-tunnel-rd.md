@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1984-07-20"
 endDate = "1996-03-15"
-contributors = ["Rexburg090","2600:4040:5A0C:5900:FDEA:A756:46D9:2C8B","CharlesTheMech","Cheeseclassic"]
+contributors = ["Rexburg090","Anonymous","CharlesTheMech","Cheeseclassic"]
 citations = []
 pageThumbnailFile = "c8kzZnrA0O4GvzfVHAZV.avif"
 latitudeLongitude = ["35.59657702","-82.53529733"]

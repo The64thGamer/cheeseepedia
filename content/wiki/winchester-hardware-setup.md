@@ -1,4 +1,5 @@
 +++
+
 title = "Winchester Hardware Setup"
 draft = false
 tags = ["Programming Systems"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","RessiduePezzzado","CEC Tinley"]
 citations = ["https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre","https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre"]
+pageThumbnailFile = "hbRnm38xQC6DzaUR8Bdr.avif"
 +++
 The ***Pizza Time Theatre Winchester Hardware Setup* was the system used to program the animatronics exclusively at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} from May 1977 to sometime between 1980 and 1981.
 The system was developed by the Cyan Engineering subdivision of Atari (also known as the *Grass Valley Team*), headed by Larry Emmons and Gary Waters{{< cite 1 >}}**
@@ -20,7 +22,7 @@ The main programming computer would be the *PDP-11/70,* running the Winchester P
 ### TEAC 4-Track Tape Deck
 
 An unnamed TEAC 4-Track tape deck would be used to record audio and programming signals. The Winchester 4-Track Reel would be the format used for data, where audio, programming signals, and a timecode track would be streamed in real time.
-Due to the later {{< wiki-link "SongCode Hardware Setup" >}} using a TEAC A-2340 Tape Deck, which seemingly recorded only in the *2-track stereo-mode,* it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
+Due to the later {{< wiki-link "Big C's Cyberamics Center" >}} using a TEAC A-2340 Tape Deck, which seemingly recorded only in the *2-track stereo-mode,* it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
 
 ## Live Playback
 

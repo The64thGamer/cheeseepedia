@@ -29,13 +29,13 @@ with Aaron Fechter as the stand-in for Johnny.
 
 ## Show List
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Birthday
-2.  **Segment 2**
+2. **Segment 2**
     1.  Happy Birthday Medley
-3.  **Segment 3**
+3. **Segment 3**
     1.  Sal's Birthday
-4.  **Segment 4**
+4. **Segment 4**
     1.  Indoctrination
-5.  **Segment 5**
+5. **Segment 5**
     1.  History of the Colander

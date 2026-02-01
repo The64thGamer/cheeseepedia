@@ -25,7 +25,7 @@ had without sticking to the most recent show. The *Best of* series could be seen
 
 The info about this showtape is still not clear, though it also was featured in {{< wiki-link "CEC Jan '91" >}}.
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  6 Minute Countdown
         1.  [Hot Diggity (Dog Ziggity
             Boom)](https://en.wikipedia.org/wiki/Hot_Diggity_(Dog_Ziggity_Boom))
@@ -33,15 +33,15 @@ The info about this showtape is still not clear, though it also was featured in 
         3.  Birthday Spectacular
         4.  [Puttin On The Ritz](https://en.wikipedia.org/wiki/After_Eight_(album))
     2.  Cyberstar Intro
-2.  **Segment 1**
+2. **Segment 1**
     1.  Bach to Rock
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  6 Minute Countdown
         1.  [Puttin On The Ritz](https://en.wikipedia.org/wiki/After_Eight_(album))
         2.  Birthday Spectacular
         3.  [When I Think Of You](https://en.wikipedia.org/wiki/When_I_Think_of_You)
     2.  Cyberstar Intro
-4.  **Segment 2**
+4. **Segment 2**
     1.  Olympics
         1.  [Olympics Fanfare](https://en.wikipedia.org/wiki/Olympic_symbols#Anthems)
         2.  [Shapin' On Up (Parody of Movin' on Up)](https://en.wikipedia.org/wiki/The_Jeffersons)
@@ -51,22 +51,22 @@ The info about this showtape is still not clear, though it also was featured in 
         6.  [Looose Wheel (Parody of Lucillie)](https://en.wikipedia.org/wiki/Lucille_(Kenny_Rogers_song))
         7.  [Shapin' On Up Reprise (Parody of Movin' on Up)](https://en.wikipedia.org/wiki/The_Jeffersons)
         8.  [Olympics Fanfare](https://en.wikipedia.org/wiki/Olympic_symbols#Anthems)
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  6 Minute Countdown
         1.  [Yakety Yak](https://en.wikipedia.org/wiki/Yakety_Yak)
         2.  [Mony Mony](https://en.wikipedia.org/wiki/Mony_Mony_(album))
         3.  Birthday Spectacular
         4.  [Rock The Boat](https://en.wikipedia.org/wiki/Rock_the_Boat_(The_Hues_Corporation_song))
     2.  It's Showtime!
-6.  **Video 1**
+6.**Video 1**
     1.  [Quincy Jones Feat Tevin Campbell - Tomorrow](https://en.wikipedia.org/wiki/Tomorrow_(A_Better_You,_Better_Me))
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  6 Minute Countdown
         1.  [The Love You Save](https://en.wikipedia.org/wiki/The_Love_You_Save)
         2.  Birthday Spectacular
         3.  ???
     2.  Cyberstar Intro
-8.  **Segment 3**
+8. **Segment 3**
     1.  Kids 1
         1.  [Row Row Row Your Boat](https://en.wikipedia.org/wiki/Row,_Row,_Row_Your_Boat)
         2.  [Mockingbird (Hush Little Baby)](https://en.wikipedia.org/wiki/Hush,_Little_Baby)
@@ -77,7 +77,7 @@ The info about this showtape is still not clear, though it also was featured in 
         6.  [Jack and Jill](https://en.wikipedia.org/wiki/Jack_and_Jill)
         7.  [This Old Man](https://en.wikipedia.org/wiki/This_Old_Man)
         8.  [Here We Go Loop de Loop](https://en.wikipedia.org/wiki/Loop_de_Loop)
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  6 Minute Countdown
         1.  [Higher &
             Higher (By Jackie Wilson)](https://en.wikipedia.org/wiki/(Your_Love_Keeps_Lifting_Me)_Higher_and_Higher)

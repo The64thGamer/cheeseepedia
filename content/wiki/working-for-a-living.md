@@ -4,9 +4,11 @@ title = "Working For A Living"
 startDate = "1992-09-14"
 endDate = "1992-11-25"
 pageThumbnailFile = "GTcW7bF5f0yO9TkCXeEt.avif"
-contributors = ["Ceclife13", "The 64th Gamer", "CyberSnout"]
+contributors = ["Ceclife13", "The 64th Gamer", "CyberSnout", "Luigigamin212"]
 citations = ["https://archive.org/download/aps-red-case"]
+credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Annagrey Wiechman|Singing Voice of Helen Henny", "Robert Gotcher|Mailman", "Charles Stewart|Songwriter, Singing Voice of Jasper T. Jowls", "Darby Orr|Songwriter"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+transcriptions = ["CEC TV News Strike"]
 alsoKnownAs = ["SHOWBIZ Pizza Time, Inc.", "WORKING FOR A LIVING", "VALID PLAYDATES: 9/14 - 11/25/92"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -32,8 +34,8 @@ categories = ["Chuck E. Cheese's"]
    7. Geography Rap - 'Australia'
    8. CEC TV Classic ID
 4. **Segment 2**
-   1. 'Working For A Living'
-   2. 'Nine-to-Five'
+   1. ['Workin' for a Livin'](https://en.wikipedia.org/wiki/Workin%27_for_a_Livin%27)
+   2. ['9 to 5'](https://en.wikipedia.org/wiki/9_to_5_(Dolly_Parton_song))
 5. **Intermission 3**
    1. VJ Spot
    2. 'Possibilities'
@@ -45,7 +47,7 @@ categories = ["Chuck E. Cheese's"]
    8. CEC TV Classic ID
 6. **Segment 3**
    1. 'These Hands'
-   2. 'All My Fuzzy Friends Are Coming Over Tonight' (parody of ' [All My Rowdy Friends Are Coming Over Tonight](https://en.wikipedia.org/wiki/All_My_Rowdy_Friends_Are_Coming_Over_Tonight)')
+   2. 'All My Fuzzy Friends Are Coming Over Tonight' (parody of ['All My Rowdy Friends Are Coming Over Tonight'](https://en.wikipedia.org/wiki/All_My_Rowdy_Friends_Are_Coming_Over_Tonight))
 7. **Intermission 4**
    1. Helen Henny's Hollywood - 'Lassie'
    2. VJ Spot
@@ -67,8 +69,8 @@ categories = ["Chuck E. Cheese's"]
    8. 'Alphabetical'
    9. CEC TV Classic ID
 10. **Segment 2**
-    1. 'Working For A Living'
-    2. 'Nine-to-Five'
+    1. ['Workin' for a Livin'](https://en.wikipedia.org/wiki/Workin%27_for_a_Livin%27)
+    2. ['9 to 5'](https://en.wikipedia.org/wiki/9_to_5_(Dolly_Parton_song))
 11. **Intermission 6**
     1. 'Rockin' State'
     2. Geography Rap - 'Mexico'
@@ -80,7 +82,7 @@ categories = ["Chuck E. Cheese's"]
     8. CEC TV Classic ID
 12. **Segment 3**
     1. 'These Hands'
-    2. 'All My Fuzzy Friends Are Coming Over Tonight' (parody of ' [All My Rowdy Friends Are Coming Over Tonight](https://en.wikipedia.org/wiki/All_My_Rowdy_Friends_Are_Coming_Over_Tonight)')
+    2. 'All My Fuzzy Friends Are Coming Over Tonight' (parody of ['All My Rowdy Friends Are Coming Over Tonight'](https://en.wikipedia.org/wiki/All_My_Rowdy_Friends_Are_Coming_Over_Tonight))
 13. **Intermission 7**
     1. VJ Spot
 

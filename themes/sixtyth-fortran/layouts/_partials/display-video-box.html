@@ -1,0 +1,18 @@
+<div class="list-page-block-video">
+    <div class="list-page-container">
+        <div class="list-video">
+            {{- partial "video-thumbnail.html" .Title -}}
+        </div>
+        <div class="list-page-video-content">
+            <a href="{{- .RelPermalink -}}">
+                {{- .Content | truncate 150 "..."  -}}
+            </a>
+            <div class="list-page-date">
+                {{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}
+            </div>
+        </div>
+        <div class="edit-button-container">
+            {{ partial "editButton-list.html" (dict "page" . "hasContent" (ne .Content "")) }}
+        </div>
+    </div>
+</div>

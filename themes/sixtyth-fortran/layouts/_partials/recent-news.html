@@ -1,0 +1,51 @@
+{{/* Read Discourse news from data file */}}
+{{ $data := .Site.Data.discourse_news }}
+
+<div class="horizontal-pagebox-scroll">
+{{ with $data.topic_list.topics }}
+  {{ $sortedTopics := sort . "created_at" "desc" }}
+  {{ range first 8 $sortedTopics }}
+    {{ $topic := . }}
+    {{ $id := int $topic.id }}
+    {{ $title := $topic.title }}
+    {{ $titleLen := len $title }}
+    {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" $topic.slug $id }}
+    
+    {{/* Handle image URL safely */}}
+    {{ $img := "" }}
+    {{ with $topic.image_url }}
+      {{ if strings.HasPrefix . "http" }}
+        {{ $img = . }}
+      {{ else }}
+        {{ $img = printf "https://forum.cheeseepedia.org%s" . }}
+      {{ end }}
+    {{ else }}
+      {{ $img = "images/news-fallback.jpg" | relURL }}
+    {{ end }}
+    
+    <div class="alt-list-page-block">
+      <div class="alt-list-page-container">
+        <div class="alt-list-image">
+          <a href="{{ $topicURL }}">
+            <img src="{{ $img }}" alt="{{ $title }}">
+          </a>
+        </div>
+        <div class="alt-list-page-content">
+          <a href="{{ $topicURL }}">
+            {{- if gt $titleLen 20 -}}
+              <span>{{ $title | safeHTML }}</span>
+            {{- else -}}
+              {{ $title | safeHTML }}
+            {{- end -}}
+          </a>
+          <div class="alt-list-page-date">
+            {{ (time $topic.created_at).Format "Jan 2, 2006" }}
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+{{ else }}
+  <p>No recent news found.</p>
+{{ end }}
+</div>

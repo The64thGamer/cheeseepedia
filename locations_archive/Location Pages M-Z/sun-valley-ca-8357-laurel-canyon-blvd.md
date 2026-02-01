@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Sun Valley, CA (8357 Laurel Canyon Blvd)"
+title = "Sun Valley, CA (8375 Laurel Canyon Blvd)"
 startDate = "1980-07-07"
 endDate = "1992-07-00"
 contributors = ["CorrectorMan", "CECMadison", "CECR995"]
@@ -10,7 +10,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
 
-***8357 Laurel Canyon Blvd*** was a Chuck E. Cheese's Pizza Time Theatre that opened on July 7, 1980(1) with a Portrait Stage and closed in July 1992 (day unknown) with Chuck E.'s House Facade. This location relocated to the {{< wiki-link "Sun Valley, CA (8375 Laurel Canyon Blvd)" >}} which opened in July 1992 (day unknown) with a Road Stage and is still open to this very day.
+***8375 Laurel Canyon Blvd*** was a Chuck E. Cheese's Pizza Time Theatre that opened on July 7, 1980(1) with a Portrait Stage and closed in July 1992 (day unknown) with Chuck E.'s House Facade. This location relocated to the {{< wiki-link "Sun Valley, CA (8375 Laurel Canyon Blvd)" >}} which opened in July 1992 (day unknown) with a Road Stage and is still open to this very day.
 
 ## Stages
 

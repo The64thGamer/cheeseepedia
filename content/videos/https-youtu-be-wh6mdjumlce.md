@@ -1,7 +1,7 @@
 +++
 title = "https://youtu.be/WH6MDJumlcE"
-startdate = "1990-04-28"
-pages = ["Lake Forest, CA (24416 Muirlands Blvd)", "CEC Kids / American Pride", "Cyberamics Portrait / Shelf Stage"]
+startDate = "1990-04-28"
+pages = ["Lake Forest, CA (24416 Muirlands Blvd)", "CEC Kids / American Pride", "Portrait / Shelf Stage"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]
 +++

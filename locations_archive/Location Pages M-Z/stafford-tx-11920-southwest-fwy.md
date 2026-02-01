@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1992-09-22"
 endDate = ""
-contributors = ["ChuckECool","2600:387:1:803:0:0:0:C5","Rexburg090"]
+contributors = ["ChuckECool","Anonymous","Rexburg090"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=GPjJO_7vQ6g\">https://www.youtube.com/watch?v=GPjJO_7vQ6g</a>"]
 latitudeLongitude = ["29.64799702","-95.57286983"]
 +++

@@ -5,9 +5,9 @@ tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 
 
-startDate = "2003-00-00"
+startDate = "2003-03-00"
 endDate = ""
-contributors = ["CECBowlingGreen","BurgersNuggs445","ShowBizMidwest","173.72.50.65","Documentor","The 64th Gamer","Jaxon11","RedaCEC","Rexburg090","ChuckEPediaIsTheBest!","Icantbelieveitsnotbutter","CEC Tinley","Chuckstar69","2600:4040:5A0E:D900:BC79:7D2C:188E:B2DB","ThatBoiCydalan","Caydenpedia","CoolerDude","Stripes","Cheeseclassic","Thecheesymanfromschool","AstridMascotFan2005","CECLover"]
+contributors = ["CECBowlingGreen","BurgersNuggs445","ShowBizMidwest","Anonymous","CyberSnout","The 64th Gamer","Jaxon11","RedaCEC","Rexburg090","ChuckEPediaIsTheBest!","Icantbelieveitsnotbutter","CEC Tinley","Chuckstar69","Anonymous","ThatBoiCydalan","Caydenpedia","CoolerDude","Stripes","Cheeseclassic","Thecheesymanfromschool","AstridMascotFan2005","CECLover"]
 citations = ["<a href=\"https://www.showbizpizza.com/help/bulletin/05/bulletin_10-05.html\">https://www.showbizpizza.com/help/bulletin/05/bulletin_10-05.html</a>","<ref></ref>","<a href=\"https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf\">https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf</a>","<ref></ref>","<ref></ref>","<ref></ref>"]
 pageThumbnailFile = "rqkZ7X_lxeiaRUqCs8sF.avif"
 +++
@@ -24,7 +24,7 @@ Superficially, it may seem that this show goes by one name and one name only, 'S
 
 ## Design
 
-The first iteration of the Studio C Cappa reused parts of the buffet setup but also introduced a new stage design for Chuck E.. The new design would feature a mirror with three rope lights behind the {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}. The animatronic sat atop an angular, trapezoidal stage with no curtains with the flood lights moved to the spotlight bar. Next to Chuck E. was a large platform which all of the elements of the Studio C Beta were condensed into; up top were three 60' rear projection monitors lined up evenly next to each other and below that was a small but wide blue screen with a trapezoidal carpet mat on the floor. For additional lighting the spotlight bar had the CEC Spot, three floods, Gemini, Warp, Strobe, Applause and On the Air. Waco received a unique set up instead of the blue screen it used the same material seen on the stage with the 'CEC' letters put on top of it to the left and right it featured two sets of three rope lights.
+The first iteration of the Studio C Cappa reused parts of the buffet setup but also introduced a new stage design for Chuck E.. The new design would feature a mirror with three rope lights behind the {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}}. The animatronic sat atop an angular, trapezoidal stage with no curtains with the flood lights moved to the spotlight bar. Next to Chuck E. was a large platform which all of the elements of the Studio C Beta were condensed into; up top were three 60' rear projection monitors lined up evenly next to each other and below that was a small but wide blue screen with a trapezoidal carpet mat on the floor. For additional lighting the spotlight bar had the CEC Spot, three floods, Gemini, Warp, Strobe, Applause and On the Air. Waco received a unique set up instead of the blue screen it used the same material seen on the stage with the 'CEC' letters put on top of it to the left and right it featured two sets of three rope lights.
 
 ### Version 2
 

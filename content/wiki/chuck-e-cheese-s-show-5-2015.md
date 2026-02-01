@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2015-08-10"
 endDate = "2015-9-27"
-contributors = ["The 64th Gamer","Documentor","2603:8001:D300:5785:5C6F:DDAF:264D:FF62","YoyoandRonnie"]
+contributors = ["The 64th Gamer","CyberSnout","Anonymous","YoyoandRonnie"]
 citations = []
 pageThumbnailFile = "KXyUIeY8OsNmb7JvIiq1.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -15,7 +15,7 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  American Authors - 'Best Day Of My Life'
     2.  CEC Promo - 'School Fundraiser'
     3.  Josh & The Jamtones - 'Iko Iko'
@@ -24,9 +24,9 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
     6.  Cartoon Network - Clarence - 'New Dog'
     7.  Silentó - Watch Me (Whip/Nae Nae)
     8.  CEC Promo - 'Moms Spot'
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese - 'All For Fun, Fun For All' (Animatronic/Lights Segment)
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Bea Miller - 'Fire N' Gold'
     2.  CEC Sketch-'Pasqually's Brother' (New)
     3.  Cartoon Network - Gumball Universe - 'Gym Band'
@@ -41,7 +41,7 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
     12. CEC Promo - 'Dads Spot'
     13. The Black Keys - 'Gold On The Ceiling'
     14. Cartoon Network - Steven Universe - 'The Crystal Gems'
-4.  **Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese - 'Dancin' Kitten' (Animatronic/Lights Segment)
 
 ## Lives:
@@ -63,6 +63,6 @@ This was created to play from August 10th 2015 - September 27th 2015. This show 
 ## Trivia:
 
 - 'All For Fun, Fun For All' and 'Dancin' Kitten' are originally from Chuck E. Cheese's Winter 2015|Winter 2015
-- 'Most Epic Mouse' and 'It's A Date' were originally not programmed due to the move at corporate. They were programmed by Show 72015 International. They would then appear in the US stores with {{< wiki-link "Chuck E Cheese's Show 1 2016" >}} for 'Most Epic Mouse' and {{< wiki-link "Chuck E Cheese's Show 2 2016" >}} for 'It's A Date'
+- 'Most Epic Mouse' and 'It's A Date' were originally not programmed due to the move at corporate. They were programmed by Show 72015 International. They would then appear in the US stores with {{< wiki-link "Chuck E. Cheese's Show 1 2016" >}} for 'Most Epic Mouse' and {{< wiki-link "Chuck E. Cheese's Show 2 2016" >}} for 'It's A Date'
 - Pasqually's Brother is a CEC Sketch written by Chris Hill.
 - 'It's a Date' marks Ronnie the Unicorn's first appearance. 'Counting Sheep' from Chuck_E._Cheese's_Show_6_2015|the next showtape would mark his first speaking role. He would later be a side character after this showtape's release.

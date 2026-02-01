@@ -4,6 +4,7 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
+startDate = "2019-08-10"
+citations = ["Photo by Chuck E. Entertainment"]
 +++
 Full Stage shot with Jaspers hat returning briefly & Jaspers new shoes (Which were painted like Munchs) (August 10, 2019)

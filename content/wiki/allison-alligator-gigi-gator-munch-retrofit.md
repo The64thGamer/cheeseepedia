@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Unknown Manufacturers"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["167.102.161.204","RedaCEC"]
+contributors = ["Anonymous","RedaCEC"]
 citations = []
 +++
 Allison Alligator/ Gigi Gator, is a Mr. Munch retrofit made by Mechanical Displays, Inc. for the 'Traveling Theme Park Band' show.

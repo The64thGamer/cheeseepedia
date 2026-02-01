@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/s5fo6N1S_Ag"
-startdate = "1991-00-00"
+startDate = "1991-00-00"
 pages = ["Ball Crawl", "Billy Bob's Musical Ferris Wheel", "Rolfe Dewolfe & Earl Schmerle (Animatronic)", "Dook Larue (Animatronic)", "Fatz Geronimo (Animatronic)", "Beach Bear (Animatronic)", "Mitzi Mozzarella (Animatronic)", "Choo Choo (Animatronic)", "Sun (Animatronic)", "Wink", "Concept Unification Stage"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

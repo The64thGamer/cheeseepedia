@@ -4,7 +4,7 @@ title = "Bridgewater, NJ (600 Promenade Blvd)"
 startDate = "2000-02-07"
 endDate = "2024-4-07"
 pageThumbnailFile = "mItk1hqHgHtZR2J8pOK3.avif"
-contributors = ["CorrectorMan", "Chucke.show", "Chuckstar69", "The 64th Gamer", "CEC Tinley", "ThatBoiCydalan", "Cheeseclassic", "PachCEC", "AstridMascotFan2005", "Cy's Junk at School", "Documentor", "BenTrainFan2000", "Cecnj98", "StudioA"]
+contributors = ["CorrectorMan", "Chucke.show", "Chuckstar69", "The 64th Gamer", "CEC Tinley", "ThatBoiCydalan", "Cheeseclassic", "PachCEC", "AstridMascotFan2005", "Cy's Junk at School", "CyberSnout", "BenTrainFan2000", "Cecnj98", "StudioA"]
 citations = ["<a href=\"https://patch.com/new-jersey/bridgewater/amp/31709779/chuck-e-cheese-to-permanently-close-in-bridgewater\">https://patch.com/new-jersey/bridgewater/amp/31709779/chuck-e-cheese-to-permanently-close-in-bridgewater</a>", "https://www.youtube.com/watch?v=9FNusz8dg8I&t=240s"]
 latitudeLongitude = ["40.56585242", "-74.55869008"]
 tags = ["Locations"]

@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2022-10-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","ShowBiz Pizza International"]
+contributors = ["CyberSnout","ShowBiz Pizza International"]
 citations = []
 +++
 **Chuck E. Cheese International Show 4 2022** is the fall show released October 2022.
@@ -13,29 +13,29 @@ This was created with conjunction with the Halloween Boo-Tacular promotion. Runs
 
 ## Show List: [| source](edit)
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Safety Message
     2.  Koo Koo Kanga Roo - "Monster Moves"
     3.  Boo-Tacular Bumper feat. Chuck E. & Helen
-2.  **Skit 1**
+2. **Skit 1**
     1.  Helen Henny - Witches Crew
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  KIDZ BOP - 'The Monster Mash'
     2.  Juicebox Jukebox - "Happy Halloween"
-4.  **Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese - 'Nobody There'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Safety Message
     2.  KIDZ BOP - 'This Is Halloween'
     3.  Boo-Tacular Bumper feat. Jasper & Munch
-6.  **Skit 3**
+6. **Skit 3**
     1.  Jasper T. Jowls - "Howl-O-Ween"
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Martis - 'Keep It Low'
     2.  KIDZ BOP - 'Ghostbusters'
-8.  **Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese - 'Halloween Night'
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  Safety Message
     2.  KIDZ BOP - 'Halloween Party'
     3.  Boo-Tacular Bumper feat. Bella & Pasqually

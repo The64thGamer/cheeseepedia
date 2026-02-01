@@ -33,9 +33,9 @@ The little guy just ran outside and started to play.
 
 When his daddy tracked him down this is all he could say. 
 
-“Whoops, wow, who me? Nothing up my sleeve, see? Gosh, golly, oh geez. Zap bap diddle dee. 
+"Whoops, wow, who me? Nothing up my sleeve, see? Gosh, golly, oh geez. Zap bap diddle dee. 
 
-Whoops, wow, who me? I'm the one you wanna see? Gosh, golly, oh geez. Zap bap boom”
+Whoops, wow, who me? I'm the one you wanna see? Gosh, golly, oh geez. Zap bap boom"
 
 **Chuck E. Cheese: (Singing)** 
 

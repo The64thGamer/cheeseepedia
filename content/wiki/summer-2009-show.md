@@ -4,9 +4,10 @@ title = "Summer 2009 Show"
 startDate = "2009-07-00"
 endDate = "2009-08-00"
 pageThumbnailFile = "FHNOL6LIzgB1eDf7kwjY.avif"
-contributors = ["The 64th Gamer", "Documentor", "Dame", "AstridMascotFan2005", "Ceclife13"]
+contributors = ["The 64th Gamer", "CyberSnout", "Dame", "AstridMascotFan2005", "Ceclife13"]
 citations = ["https://archive.org/download/3stage_dvd_signals/June%202009%203-Stage-002.iso"]
 credits = ["Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Coordinator"]
+mediaDuration = "46:11"
 showtapeFormats = ["3-Stage DVD", "Cyberamics DVD", "Studio C 3x DVD + Floppy"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/June%202009%203-Stage-002.iso |3-Stage DVD ISO w/ Signals"]
 tags = ["Showtapes"]
@@ -39,7 +40,7 @@ This show was released in July 2009 and played until August.
     1.  CEC TV ID - 'Haircut'
     2.  Bday Promo
     3.  Monkey Ninjas Episode 4
-    4.  CEC TV ID - 'Chuck E. Skateboarding'
+    4.  CEC TV ID - 'Skateboarding'
 7.  **Segment 4**
     1.  'I Love the Sunshine'
     2.  'Chuck E. Cheese' (Parody of [I Feel for You](https://en.wikipedia.org/wiki/I_Feel_for_You))
@@ -47,7 +48,7 @@ This show was released in July 2009 and played until August.
     1.  CEC TV ID - 'Flashing Hand'
     2.  PBS Kids Spot
     3.  Let's Scuba Dive!
-    4.  CEC TV ID - 'Chuck E. Sunrise'
+    4.  CEC TV ID - 'Sunrise'
 
 ## Lives:
 

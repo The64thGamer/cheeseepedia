@@ -13,7 +13,7 @@ pageThumbnailFile = "NZ2i1aTgnUxyJMJsynNF.avif"
 latitudeLongitude = ["42.39996182","-71.07136648"]
 +++
 
-***29 Mystic View Road #02149*** is a Chuck E. Cheese's which opened on June 19, 2001, with a {{< wiki-link "Studio C Beta" >}}, which is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Everett was the only 32M Beta in Massachusetts, as all other Betas in the region were 16M Betas with the exception of {{< wiki-link "South Portland, ME (166 Philbrook Ave)" >}} and {{< wiki-link "Meriden, CT (533 S Broad St)" >}} This location is likely a relocation of {{< wiki-link "West Roxbury, MA (1665 VFW Pkwy)" >}}, which closed in June 2001 with a {{< wiki-link "Cyberamics Road Stage" >}}.
+***29 Mystic View Road #02149*** is a Chuck E. Cheese's which opened on June 19, 2001, with a {{< wiki-link "Studio C Beta" >}}, which is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Everett was the only 32M Beta in Massachusetts, as all other Betas in the region were 16M Betas with the exception of {{< wiki-link "South Portland, ME (166 Philbrook Ave)" >}} and {{< wiki-link "Meriden, CT (533 S Broad St)" >}} This location is likely a relocation of {{< wiki-link "West Roxbury, MA (1665 VFW Pkwy)" >}}, which closed in June 2001 with a {{< wiki-link "Road Stage" >}}.
 
 ## History
 

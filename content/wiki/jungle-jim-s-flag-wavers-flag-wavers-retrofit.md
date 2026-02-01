@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Jungle Jim's"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["Documentor"]
+contributors = ["CyberSnout"]
 citations = []
 pageThumbnailFile = "z_OekulS4QCDLF6cmnYf.avif"
 +++

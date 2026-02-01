@@ -62,7 +62,7 @@ alongside previously released shows.
 
 ## Segment List
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  *Monkees Intro Skit*
     2.  *Monkees Medley*
         1.  Theme from the Monkees
@@ -73,15 +73,15 @@ alongside previously released shows.
         6.  I'm A Believer
         7.  A Little Bit Me A Little Bit You
         8.  Plesant Valley Sunday
-2.  **Segment 2**
+2. **Segment 2**
     1.  *I Will*
     2.  *No Bloom In Frank Skit*
     3.  *One On One*
-3.  **Segment 3**
+3. **Segment 3**
     1.  *867-5309*
     2.  *1-800-Fatz (Fatz's Joke Line Skit)*
     3.  *Don't Hang Up*
-4.  **Segment 4**
+4. **Segment 4**
     1.  *Beatles White Intro Skit*
     2.  *Beatles White Album Medley*
         1.  Ob-La-Di Ob-La-Da
@@ -94,13 +94,13 @@ alongside previously released shows.
         8.  Blackbird
         9.  Revolution 1
         10. Helter Skelter
-5.  **Segment 5**
+5. **Segment 5**
     1.  *Everybody's Trying To Be My Baby*
     2.  *Travelin' Man Intro Skit*
     3.  *Travelin' Man*
-6.  **Segment 6**
+6. **Segment 6**
     1.  *Make Them Feel Stupid (Trying To Sell Records Skit)*
-7.  **Segment 7**
+7. **Segment 7**
     1.  *Tribute To Frank Sinatra* (Skit with Witchcraft and Chicago)
     2.  *Don't Let Go*
 

@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = []
+pages = ["Mt. Chuckmore (SPT Décor)"]
 
 citations = []
 +++

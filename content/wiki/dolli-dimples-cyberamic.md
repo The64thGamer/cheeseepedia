@@ -1,15 +1,15 @@
 +++
+
 draft = false
 endDate = ""
 startDate = ""
 title = "Dolli Dimples (Cyberamic)"
 contributors = []
 tags = ["Animatronics"]
-pageThumbnailFile = ""
+pageThumbnailFile = "g47u746iprrs28jk.avif"
 
 categories = ["Pizza Time Theatre"]
 +++
-
 ***Dolli Dimples*** Dolli Dimples was staniory at the Piano Bar Lounge and was the only Cabaret / Lounge act to get a first gen Cyberamic in the form of {{< wiki-link "Dolli Dimples (Cabaret)" >}}
 
 ## History

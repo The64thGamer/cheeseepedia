@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/tOe52ivFWMQ"
-startdate = "1996-11-02"
+startDate = "1996-11-02"
 pages = ["Metairie, LA (7000 Veterans Blvd)", "Strike It Up"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

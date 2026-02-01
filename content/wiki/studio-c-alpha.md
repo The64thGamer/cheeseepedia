@@ -1,9 +1,9 @@
 +++
 draft = false
 title = "Studio C Alpha"
-startDate = "1997-00-00"
+startDate = "1997-12-17"
 endDate = ""
-contributors = ["ShowBizMidwest","Maddox121","The 64th Gamer","BurgersNuggs445","Sponch man","CECBowlingGreen","EagleScout610","Destinationimagination95","Rexburg090","170.185.215.34","Jaxon11","Pasquallytheplumber","ThatBoiCydalan","CEC Tinley","CorrectorMan","Ceclife13","Chuckstar69","Chucke.show","Chucke","174.243.128.180","Cheeseclassic","Documentor","CECgamer","MasterMike","John95","AstridMascotFan2005","Thecheesymanfromschool","ConceptUnification2.0","Chuckatronics","Livelycheese","Nerdychucke","Caydenpedia","Ilikethisfanbase","CEC1988"]
+contributors = ["ShowBizMidwest","Maddox121","The 64th Gamer","BurgersNuggs445","Sponch man","CECBowlingGreen","EagleScout610","Destinationimagination95","Rexburg090","Anonymous","Jaxon11","Pasquallytheplumber","ThatBoiCydalan","CEC Tinley","CorrectorMan","Ceclife13","Chuckstar69","Chucke.show","Chucke","Anonymous","Cheeseclassic","CyberSnout","CECgamer","MasterMike","John95","AstridMascotFan2005","Thecheesymanfromschool","ConceptUnification2.0","Chuckatronics","Livelycheese","Nerdychucke","Caydenpedia","Ilikethisfanbase","CEC1988"]
 pageThumbnailFile = "Pgsmr42LUCJVhFZ0qxuu.avif"
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
@@ -45,21 +45,6 @@ The stage is designed to be as interactive as possible, having a live Chroma Key
 
 ## Animatronics Used
 
-- {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}
+- {{< wiki-link "Chuck E. Cheese 32m (Animatronic)" >}}
 - {{< wiki-link "Bird (Animatronic)" >}}
 - {{< wiki-link "Pizza Phone (Animatronic)" >}}
-
-## Current Studio C Alphas
-
-Current Total Remaining: 4
-
-| Location                                                            | Installed    | Current Condition                                                                                                                                                                                                                                                                                                                                                                  |
-|---------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Spokane, WA (10007 N Nevada St)" >}}           | March 2000   | Last Alpha in Washington. Second oldest Studio C location as of 2025.                                                                                                                                                                                                                                                                                                              |
-| Mayfield Heights, OH (1615 Golden Gate Plaza)                       | April 2001   | Last Studio C Alpha in Ohio                                                                                                                                                                                                                                                                                                                                                        |
-| {{< wiki-link "Whitby, Ontario, Canada (75 Consumers Dr)" >}} | October 2001 | Operational. Good condition. Currently wearing Rockstar outfit with Shoes. Only Studio C Alpha in Canada and only outside of the United States.                                                                                                                                                                                                                                    |
-| {{< wiki-link "Chuck E Cheese's Corporate Office" >}}         | July 2015    | Oldest Studio C within the company as of August 2024. First installed in 1997 at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}. Was formerly used to program Studio C shows at the ShowBiz Pizza Time Corporate Office from 1997 until July 2015 and later at {{< wiki-link "Chuck E Cheese's Corporate Office" >}} from July 2015 until September 2022. |
-
-## Former Studio C Alphas
-
-W.I.P

@@ -1,10 +1,10 @@
 +++
 draft = false
-title = "Cyberamics Portrait / Shelf Stage"
-startDate = ""
-endDate = ""
+title = "Portrait / Shelf Stage"
+startDate = "1979-05-00"
+endDate = "2001-00-00"
 pageThumbnailFile = "RwtgV0kmTMjVGKYoOEbn.avif"
-contributors = ["CECBowlingGreen", "Ceclife13", "Rexburg090", "JamesLemony", "RessiduePezzzado", "Pench0782", "ChuckEPediaIsTheBest!", "BurgersNuggs445", "216.125.34.66", "38.49.94.191", "Charlesiiikingofengland", "CorrectorMan", "Saan1ty", "Mecha", "Cheeseclassic", "SuperCreamPiper2008", "PizzaEntertainmentFanX", "Midwestretail", "Documentor"]
+contributors = ["CECBowlingGreen", "Ceclife13", "Rexburg090", "JamesLemony", "RessiduePezzzado", "Pench0782", "ChuckEPediaIsTheBest!", "BurgersNuggs445", "Anonymous", "Anonymous", "Charlesiiikingofengland", "CorrectorMan", "Saan1ty", "Mecha", "Cheeseclassic", "SuperCreamPiper2008", "PizzaEntertainmentFanX", "Midwestretail", "CyberSnout"]
 citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf", "https://cheeseepedia.org/photos/0_23VDH9h87hH7hh42.avif", "https://cheeseepedia.org/photos/nDD6uIolQnI6JWvWVadX.avif", "https://www.youtube.com/watch?v=wihG5BTS9L8", "https://cheeseepedia.org/photos/2UB042gGPFJOCM52gMNG.avif", "https://cheeseepedia.org/photos/ugkMSuExCeSIrbkwEjuy.avif"]
 tags = ["Stage Variations"]
 categories = ["Pizza Time Theatre"]
@@ -30,7 +30,7 @@ The Cyberamic Shelf Stages, similar to the Kooser Shelf Stage, would be placed a
 
 - {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}}
 - {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}
-- {{< wiki-link "Mr Munch (Cyberamic)" >}}
+- {{< wiki-link "Mr. Munch (Cyberamic)" >}}
 - {{< wiki-link "Pasqually (Cyberamic)" >}}
 - {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}
 - {{< wiki-link "Warblettes (Cyberamic)" >}} (Removed last at Ogden's Closure)
@@ -52,7 +52,7 @@ The Cyberamic Shelf Stages, similar to the Kooser Shelf Stage, would be placed a
 | {{< wiki-link "La Habra, CA (901 Harbor Blvd)" >}}              | May 1980                    | December 11th, 1984 |
 | {{< wiki-link "Ogden, UT (3155 Harrison Blvd)" >}}(6)           | May 17th, 1980              | 1991                |
 | {{< wiki-link "Sunnyvale, CA (1247 W El Camino Real)" >}}       | Summer 1980                 | 1984                |
-| {{< wiki-link "Sun Valley, CA (8357 Laurel Canyon Blvd)" >}}    | July 1980                   | 1981/1982           |
+| {{< wiki-link "Sun Valley, CA (8375 Laurel Canyon Blvd)" >}}    | July 1980                   | 1981/1982           |
 | {{< wiki-link "Fresno, CA (5384 N Blackstone Ave)" >}}          | July/August 1980            | May 1985            |
 | {{< wiki-link "Tucson, AZ (5534 E 22nd St)" >}}                 | July 15th, 1980             | 1987                |
 | {{< wiki-link "Covina, CA (601 Azusa Ave)" >}}                  | August 1980                 | 1981/1982           |

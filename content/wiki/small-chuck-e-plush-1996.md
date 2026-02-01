@@ -1,4 +1,5 @@
 +++
+
 title = "Small Chuck E. Plush (1996)"
 draft = false
 tags = ["In-Store Merchandise"]
@@ -7,6 +8,7 @@ startDate = "1996-00-00"
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445","ToadEatSock"]
 citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf","https://www.showbizpizza.com/info/documents/spt/spt_94trademark.pdf"]
+pageThumbnailFile = "1auZ4PZHhScl3wR5wY9r.avif"
 +++
 The 1996 ***Small Chuck E. Plush* was an official product produced for prize counters in *1996.***
 

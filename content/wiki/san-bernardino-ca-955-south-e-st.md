@@ -1,11 +1,11 @@
 +++
 title = "San Bernardino, CA (955 South E St)"
 storeNumber = ""
-startDate = "1981-12-00"
+startDate = "1982-01-00"
 endDate = "2020-06-17"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Balcony Stage|1982-01-00|0000-00-00|", "Chuck E.'s House Facade|0000-00-00|0000-00-00|", "2-Stage|1993-00-00|2020-06-00|One of many installed in California.|"]
 franchisees = []
 attractions = []
 sqft = ""

@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2015-06-15"
 endDate = "2015-8-09"
-contributors = ["Documentor","Hollyburgdorf","68.115.107.230","2600:6C46:4A00:A2F:78D4:CF3:DF2F:FCA8"]
+contributors = ["CyberSnout","Hollyburgdorf","Anonymous","Anonymous"]
 citations = []
 pageThumbnailFile = "KvjLEY9Z3KXage2aJnHY.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -15,13 +15,13 @@ This was created to play from June 15th 2015 - August 9th 2015. This show featur
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Ester Dean - 'Crazy Youngsters'
     2.  CEC Promo - 'Triple Play'
     3.  Josh & The Jamtones - 'I Love Your Face'
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. Cheese - 'Friendship Never Ends'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Meghan Trainor - 'My Lips Are Moving'
     2.  Cartoon Network - Gumball Universe - 'Planets'
     3.  Mumford & Sons - 'Hopeless Warrior'
@@ -35,9 +35,9 @@ This was created to play from June 15th 2015 - August 9th 2015. This show featur
     11. CEC Promo - 'Birthdays'
     12. Fitz and the Tantrums - 'The Walker'
     13. Cartoon Network - Gumball Universe - 'Imaginary Friends'
-4.  **Skit 2**
+4. **Skit 2**
     1.  Helen Henny - 'Dare to Be You'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Josh & The Jamtones - 'U & I'
     2.  Cartoon Network - Clarence - 'Vending Machine'
     3.  Justice - 'D.A.N.C.E'

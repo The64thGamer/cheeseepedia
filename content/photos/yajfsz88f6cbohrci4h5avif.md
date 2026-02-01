@@ -4,6 +4,6 @@ draft = false
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Concept Unification Stage"]
-startDate = ""
+startDate = "1993-00-00"
 +++
-Prop Characters ([[CU Flower (Animatronic)
+Prop Characters

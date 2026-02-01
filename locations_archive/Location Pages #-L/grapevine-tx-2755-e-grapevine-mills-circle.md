@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2002-05-21"
 endDate = ""
-contributors = ["Rexburg090","2600:4040:5A0E:D900:4505:91DB:C51E:9D03","Tindersmainac200"]
+contributors = ["Rexburg090","Anonymous","Tindersmainac200"]
 citations = ["<a href=\"https://media-cdn.tripadvisor.com/media/photo-s/07/27/01/49/go-karts.jpg\">https://media-cdn.tripadvisor.com/media/photo-s/07/27/01/49/go-karts.jpg</a>"]
 pageThumbnailFile = "TsGSWAxysaXt1IeCLFqo.avif"
 latitudeLongitude = ["32.96620022","-97.03941883"]

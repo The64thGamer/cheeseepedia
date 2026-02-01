@@ -2,14 +2,14 @@
 title = "Napa, CA (1800 Soscol Ave)"
 storeNumber = ""
 startDate = "1981-09-04"
-endDate = "1985-06-00"
+endDate = "1985-06-17"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Balcony Stage|1981-09-04|1985-06-17|"]
 franchisees = []
 attractions = []
 sqft = ""
-latitudeLongitude = ["0","0"]
+latitudeLongitude = ["38.3070000","-122.2849930"]
 citations = []
 contributors = []
 downloadLinks = []

@@ -1,0 +1,48 @@
+{{ partial "editButton-list.html" (dict "page" . "hasContent" (ne .Content "")) }}
+{{- partial "display-breadcrumbs.html" . -}}
+<h1>{{- .Title | safeHTML -}}</h1>
+<hr>
+
+{{- if .Params.pageThumbnailFile -}}
+  <div class="article-thumbnail">
+    {{- $thumb := default "" .Params.pageThumbnailFile -}}
+    {{- $mode := "no-css" -}}
+    {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
+  </div>
+{{- end -}}
+{{- .Content | safeHTML}}
+
+<hr>
+{{- $currentTitle := .Title -}}
+{{- $reviews := partialCached "grab-all-reviews.html" . -}}
+<h2>My Reviews:</h2>
+{{- range $reviews -}}
+  {{- $page := . -}} <!-- Store the current page object in a variable -->
+  {{- with $page.Params.Page -}}
+    {{- $revCont := $page.Params.contributors -}}
+    {{- if in $revCont $currentTitle -}}
+      {{- partial "display-review-box.html" $page -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<hr>
+<h2>I contributed to these pages!</h2>
+<div class="tri-column">
+  <ul>
+    {{- $wikiPages := partialCached "grab-all-wiki-articles.html" "key"}}
+    {{- $transcriptionPages := where site.RegularPages "Section" "transcriptions" -}}
+    {{- $pages := union $wikiPages $transcriptionPages -}}
+    {{- range $pages -}}
+      {{- $page := . -}} <!-- Store the current page object in a variable -->
+      {{- with $page.Params.contributors -}}
+        {{- $contributors := . -}}
+        {{- if in $contributors $currentTitle -}}
+          <li><a href="{{- $page.RelPermalink -}}">{{- $page.Title -}}</a></li>
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  </ul>
+</div>
+<hr>
+
+{{- partial "display-contributors.html" . -}}

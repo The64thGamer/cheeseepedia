@@ -1,13 +1,13 @@
 +++
-title = "CEC Pop Art Head (CEC Décor)"
 draft = false
+title = "CEC Pop Art Head (CEC Décor)"
+startDate = "1998"
+endDate = "0000-00-00"
+pageThumbnailFile = "kbpqd5OjcVfHq3W6WrYz.avif"
+contributors = ["Nostalgia Cow", "BurgersNuggs445", "randomguyfan22"]
+citations = []
 tags = ["Store Fixtures"]
 categories = ["Chuck E. Cheese's"]
-startDate = ""
-endDate = "0000-00-00"
-contributors = ["Nostalgia Cow","BurgersNuggs445"]
-citations = []
-pageThumbnailFile = "kbpqd5OjcVfHq3W6WrYz.avif"
 +++
 The **CEC Pop Art Head (CEC Décor)** was a decoration created for Chuck E. Cheese's in 1998
 

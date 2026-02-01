@@ -4,13 +4,13 @@ draft = false
 tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
 startDate = "1987-02-00"
-endDate = "0000-00-00"
+endDate = "1987-00-00"
 contributors = ["DerekCat"]
 citations = ["<a href=\"http://www.showbizpizza.com/info/documents/spt/spt_franchisenews30.pdf\">http://www.showbizpizza.com/info/documents/spt/spt_franchisenews30.pdf</a>","<a href=\"https://www.youtube.com/watch?v=Dlwu_T6Rzvk&ab_channel=NickWinship\">https://www.youtube.com/watch?v=Dlwu_T6Rzvk&ab_channel=NickWinship</a>"]
 showtapeFormats = ["CEI 4-Track Reel"]
 +++
 
-The SPP Westerns - Movies - R&amp;R is a corporate showtape released for ShowBiz Pizza Place.
+The ***SPP Westerns - Movies - R&R*** is a ShowBiz Corporate produced showtape released for ShowBiz Pizza Place.
 
 ## ShowBiz Pizza Program
 

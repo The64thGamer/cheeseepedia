@@ -1,12 +1,14 @@
 +++
+
 title = "Chuck E. Cheese Online Store"
 draft = false
 tags = ["Social Media and Websites"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["CECBowlingGreen","170.185.215.34","Documentor","BurgersNuggs445"]
+contributors = ["CECBowlingGreen","Anonymous","CyberSnout","BurgersNuggs445"]
 citations = []
+pageThumbnailFile = "s5DcakPOaskQIxOjp6pS.avif"
 +++
 The **Chuck E. Cheese Online Store** is the online store for the Chuck E. Cheese brand, it was originally launched in 2002, relaunched in 2020 , and currently sells clothing and toys with the CEC characters on it.
 The current domain name is [shop.chuckecheese.com](https://shop.chuckecheese.com/)

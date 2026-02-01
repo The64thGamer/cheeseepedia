@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2022-09-19"
 endDate = "0000-00-00"
-contributors = ["Documentor","Destinationimagination95","ShowBiz Pizza International","CEC Denver","CyCGM","John95","Pasquallytheplumber","70.161.122.232","The 64th Gamer","GallaRBX2"]
+contributors = ["CyberSnout","Destinationimagination95","ShowBiz Pizza International","CEC Denver","CyCGM","John95","Pasquallytheplumber","Anonymous","The 64th Gamer","GallaRBX2"]
 citations = []
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
 showtapeFormats = ["Cyberamics DVD","3-Stage DVD","Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files"]
@@ -15,36 +15,36 @@ This was created in conjunction with the Halloween Boo-Tacular promotion. Runs f
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Safety Message
     2.  Food & Drink Combos
     3.  Chuck E. Cheese YouTube & Music Streaming
     4.  Boo-Tacular Bumper feat. Chuck E. & Helen
     5.  KIDZ BOP - "This Is Halloween"
-2.  **Skit 1**
+2. **Skit 1**
     1.  Helen Henny & Friends - "Witches Crew"
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Boo-Tacular Menu & Merch
     2.  Chupa Chups
     3.  CEC Online Store
     4.  Koo Koo Kanga Roo - "Monster Moves"
-4.  **Skit 2**
+4. **Skit 2**
     1.  Chuck E. Cheese - "Halloween Night"
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Samsung
     2.  Hi-Chew
     3.  KIDZ BOP - "Halloween Party"
     4.  Boo-Tacular Bumper feat. Jasper & Munch
-6.  **Skit 3**
+6. **Skit 3**
     1.  Chuck E. Cheese - "If Every Day Was Halloween"
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Safety Message
     2.  Food & Drinks
     3.  Dippin' Dots
     4.  China Anne McClain - "Calling All the Monsters"
-8.  **Skit 4**
+8. **Skit 4**
     1.  Chuck E. Cheese & Friends - "Gotta Be Halloween"
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  Blippi - "Halloween"
     2.  Boo-Tacular Bumper feat. Bella & Pasqually
     3.  KIDZ BOP - "Ghostbusters"
@@ -77,11 +77,11 @@ This was created in conjunction with the Halloween Boo-Tacular promotion. Runs f
 
 ## Trivia:
 
-- 'Gotta Be Halloween' and 'Halloween Night' are originally from {{< wiki-link "Chuck E Cheese's Show 4 2021 (Studio C)" >}} and 'Pumpkin Patch' is originally from {{< wiki-link "Chuck E Cheese's Show 6 2018" >}}. However, the version included here is the 2020 version which dubs over the Chucktober references.
+- 'Gotta Be Halloween' and 'Halloween Night' are originally from {{< wiki-link "Chuck E. Cheese's Show 4 2021 (Studio C)" >}} and 'Pumpkin Patch' is originally from {{< wiki-link "Chuck E. Cheese's Show 6 2018" >}}. However, the version included here is the 2020 version which dubs over the Chucktober references.
 - This show is the first to exclude any character programming signals for Studio SD/HD systems. During this show, the system will default to random movements at all times.
 - This is the first show since her debut where Dino Summer's name is said aloud. Previously, she'd only been referred to as such behind the scenes.
 - The 'Timecode' Intermission is a clip of 'Witches Crew' playing at different speeds.
-- {{< wiki-link "Chuck E Cheese's Show 4 2021 (Existing Stages)" >}} was intended to come back in 2022 (with new content) but due to unknown reasons was cancelled.
+- {{< wiki-link "Chuck E. Cheese's Show 4 2021 (Existing Stages)" >}} was intended to come back in 2022 (with new content) but due to unknown reasons was cancelled.
 - Week of August the 8th they started filming for the Halloween Boo-Tacular 2022 new show content.
 - On August 24, 2022 a snippet of one of the new songs was leaked.
 - The {{< wiki-link "Yonkers, NY (1703 Central Park Ave)" >}} location played the show a week early.

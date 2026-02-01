@@ -1,11 +1,12 @@
 +++
+
 title = "Knoxville, TN (7522 Kingston Pike)"
 storeNumber = ""
 startDate = "1982-08-23"
 endDate = "1997-00-00"
 cuDate = ""
 remodels = []
-stages = []
+stages = ["Classic Stage|1982-08-23|0000-00-00|", "Concept Unification Stage|1991-00-00|1997-00-00|One of 8 3-Stages in Tennessee to get Concept Unification.|"]
 franchisees = []
 attractions = []
 sqft = ""
@@ -13,7 +14,7 @@ latitudeLongitude = ["35.92706192","-84.03702673"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
+pageThumbnailFile = "99f9ufqlmpvdkdga.avif"
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 draft = false

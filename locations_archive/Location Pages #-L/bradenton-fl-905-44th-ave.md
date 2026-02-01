@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1999-03-03"
 endDate = "1984-06-16"
-contributors = ["ShowBizMidwest","WalterB","CEC Tinley","2600:4040:5A0E:D900:80EC:F561:38B:60E","AstridMascotFan2005","CoolerDude"]
+contributors = ["ShowBizMidwest","WalterB","CEC Tinley","Anonymous","AstridMascotFan2005","CoolerDude"]
 citations = []
 downloadLinks = ["|"]
 pageThumbnailFile = "YJkLg7TSdEGZd39i0Txt.avif"

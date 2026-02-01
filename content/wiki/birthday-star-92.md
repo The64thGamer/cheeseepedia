@@ -2,9 +2,9 @@
 draft = false
 title = "Birthday Star '92"
 startDate = "1992-03-00"
-endDate = "1995-01-00"
-pageThumbnailFile = "Mn5SDKAE31xlkb6iL7Hs.avif"
-contributors = ["The 64th Gamer", "2600:1002:B101:DA57:DC5B:F933:7A4A:EC0", "Pasquallytheplumber", "173.72.50.65", "216.125.34.66", "CyberSnout", "MultiMonorail"]
+endDate = "2002-11-00"
+pageThumbnailFile = "fiveminutesuntilshowtime92.avif"
+contributors = ["The 64th Gamer", "Anonymous", "Pasquallytheplumber", "Anonymous", "Anonymous", "CyberSnout", "MultiMonorail"]
 citations = ["https://archive.org/details/aps-yellow-case"]
 credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlissa McKinney|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually the Chef"]
 mediaDuration = "2:41"

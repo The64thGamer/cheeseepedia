@@ -2,9 +2,8 @@
 title = "New Fandom Member FAQ"
 draft = false
 tags = ["Meta"]
-startDate = "2024-08-17"
+categories = ["Cheese-E-Pedia"]
 contributors = ["The 64th Gamer"]
-gallery = [""]
 +++
 
 ## What is/are?
@@ -28,7 +27,7 @@ gallery = [""]
 ## I want to learn more, any video recommendations?
 
 - [Disney's Animatronics: A Living History](https://youtu.be/jjNca1L6CUk) - A 2024 documentary that goes over the early history of animatronics, alongside intricately detailing every step in the process of how an audio-animatronic functions.
-- {{< wiki-link "The Rock-afire Explosion Documentary" >}} - A 2008 official documentary about the Rock-afire, its creator, and its early fanbase keeping the animatronics alive long after ShowBiz Pizza ceased to exist. It does not reflect the fandom as it is today, but delves into the emotion and passion behind how its early fanbase formed.
+- {{< wiki-link "The Rock-afire Explosion (Movie)" >}} - A 2008 official documentary about the Rock-afire, its creator, and its early fanbase keeping the animatronics alive long after ShowBiz Pizza ceased to exist. It does not reflect the fandom as it is today, but delves into the emotion and passion behind how its early fanbase formed.
 - [The Rock-afire Explosion: The Best Band You've Never Heard Of](https://www.youtube.com/watch?v=VvE4jNhJTlA) - A 2023 documentary focusing on introducing the Rock-afire to people through showing the band in action and detailing its history. The video additionally covers Creative Engineering's, Aaron Fechter's, and Chuck E. Cheese's history after they split all the way to their current state in 2023.
 - [The Rise & Fall of ShowBiz Pizza & Chuck E. Cheese](https://youtu.be/7HXTwLbvQPM) - A 2021 documentary covering Chuck E. Cheese's history from inception to the video's release.
 - {{< wiki-link "Concept Unification Installation Training Tape" >}} (Video available in the article) - An infamous training tape showing how the Rock-afire Explosion was turned into the Chuck E. Cheese 3-Stage.
@@ -36,7 +35,7 @@ gallery = [""]
 - Creative Engineering Tours ( [Grant's 2015 Tour](https://youtu.be/tl3vFiHoOpE)) ( [Fandom 2006 Tour](https://youtu.be/jqs0AAOtspE?list=PLk1C5u_PiS7JzhtaOcDA7nIQPmVwappUy)) ( [Damon's 2003 Tour](https://youtu.be/L5kXUq6aEvg)) - Lots of relaxing tours of the {{< wiki-link "Orlando, FL (47 W Jefferson St)" >}} throughout the years. Guests travel the mostly untouched building as Aaron Fechter discusses the history of what they're seeing and answers questions. Every tour talks about different things and goes on different paths. Most have a section dedicated to watching the building's working Rock-afire Explosion show in action. Lots and lots of tours have been uploaded on YouTube throughout the past decade.
 - [The Rock-afire Official YouTube Channel](https://www.youtube.com/@therockafire/videos) - Almost two decades of various videos detailing projects at Creative Engineering. Most current videos are locked behind the {{< wiki-link "Creative Engineering Premium Video Service" >}}, but lots of great public content is available from 2008-2017.
 - {{< wiki-link "Save The Colander Telethon (1983)" >}} - An hour long fake telethon for ShowBiz employees advertising Creative Engineering's {{< wiki-link "Crazy Colander Head Night (Event)" >}} plans for ShowBiz restaurants. It features the entire Rock-afire cast doing skits and songs.
-- [Sets, Streets & Eats Uncut Tully Tour Video](https://archive.org/details/my-tour-of-the-worlds-largest-and-greatest-chuck-e.-cheese-the-tully-rd.-store-san-jose-ca) - A 2022 tour of the historical {{< wiki-link "San Jose, CA (2445 Fontaine Rd)" >}} location and its abandoned third floor full of priceless PTT equipment and art.
+- [Sets, Streets & Eats Uncut Tully Tour Video](https://archive.org/details/my-tour-of-the-worlds-largest-and-greatest-chuck-e.-cheese-the-tully-rd.-store-san-jose-ca) - A 2022 tour of the historical {{< wiki-link "San Jose (Tully), CA (2445 Fontaine Rd)" >}} location and its abandoned third floor full of priceless PTT equipment and art.
 - [Interview with Brian Hagan - Former Studio Manager of Chuck E. Cheese](https://youtu.be/5mqJMsr_PLU) - A 5 hour long interview with a prominent former corporate employee of Chuck E. Cheese's.
 
 ## Where can I / how should I watch showtapes?
@@ -97,8 +96,8 @@ After SPP lost the rights to the Rock-afire Explosion, they had to pivot back to
 
 ## Where can I communicate with the Cheese-E-Pedia Community or its Admins?
 
-The main place to go is the officially run *[Discord Server](https://discord.gg/TNqHGpAr8j)**,*** where community efforts are made to create pages, find sources, archive lost media, and have general discussion. Some users on the Wiki will also have links to their contact pages on their user profile page, alongside discussion being done on an article's *Discussion Tab*.
+The main place to go is the officially run {{< forums >}}, where community efforts are made to create pages, find sources, archive lost media, and have general discussion. Some users on the Wiki will also have links to their contact pages on their user profile page, alongside discussion being done on an article's *Discussion Tab*.
 
 ## I have Lost Media in my possession, where can I upload it?
 
-If the item is an image or scan, feel free to upload it to the relevant article on the site. If it is a document, video file, audio, or anything else that cannot be hosted directly on Cheese-E-Pedia, join the officially run *[Discord Server](https://discord.gg/TNqHGpAr8j)* and contact the admins about getting the item uploaded to our [archive](https://archive.org/details/@decode_document_digitize). If you own an item that you do not have the resources to archive, notify the Discord Server to see if someone may be able to cooperate with you. The Cheese-E-Pedia community will do what it can to see all media preserved.
+If the item is an image or scan, feel free to upload it to the relevant article on the site. If it is a document, video file, audio, or anything else that cannot be hosted directly on Cheese-E-Pedia, join the {{< forums >}} and contact the admins about getting the item uploaded to our [archive](https://archive.org/details/@decode_document_digitize). If you own an item that you do not have the resources to archive, notify the {{< forums >}} to see if someone may be able to cooperate with you. The Cheese-E-Pedia community will do what it can to see all media preserved.

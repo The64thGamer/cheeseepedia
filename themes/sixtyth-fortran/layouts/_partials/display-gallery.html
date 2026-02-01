@@ -1,0 +1,26 @@
+{{- /*
+  layouts/partials/display-gallery.html
+  Reads prebuilt data at site.Data.photosbypage and renders photos for the current page title.
+  Safe fallback to empty slice when data missing.
+*/ -}}
+
+{{- $data := index site.Data "photosbypage" -}}
+{{- if not $data -}}
+  {{- /* No prebuilt data available — nothing to render */ -}}
+  {{- return -}}
+{{- end -}}
+
+{{- $currentTitle := .Title | default "" -}}
+{{- $photos := index $data $currentTitle | default (slice) -}}
+
+{{- if gt (len $photos) 0 -}}
+  <div class="gallery">
+    {{- range $i, $p := $photos -}}
+      <div class="gallery-image-box">
+        {{- /* call your DisplayPhoto partial with the photo name. Use a deterministic cache key */ -}}
+        {{- $name := index $p "name" | default "" -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $name "mode" "default") (printf "DisplayPhoto|%s|default" $name) -}}
+      </div>
+    {{- end -}}
+  </div>
+{{- end -}}

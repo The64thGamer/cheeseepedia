@@ -1,0 +1,49 @@
+<div class="list-review-block">
+    <div class="list-review-container">
+        <div class="list-review-content">
+            <a href="{{- .RelPermalink -}}">
+                {{- if eq .Params.recommend true -}}
+                    {{- "👍 " -}}
+                {{- else -}}
+                    {{- "👎 " -}}
+                {{- end -}}
+                {{- with .LinkTitle -}}
+                    {{- . | safeHTML -}}
+                {{- else -}}
+                    {{- .Title | safeHTML -}}
+                {{- end -}}
+            </a>
+            <div class="list-review-date">
+                {{- $site := site.RegularPages -}}
+                {{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}
+                {{- if .Params.contributors -}}
+                    {{- " - " -}}
+                    {{- $len := len .Params.contributors -}}
+                    {{- range $index, $element := .Params.contributors -}}
+                        {{- $articles := where $site "Title" $element -}} 
+                        {{- if gt (len $articles) 0 -}} <!-- Check if there are any matching articles -->
+                            <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> 
+                        {{- else -}}
+                            {{- $element -}}
+                        {{- end -}}      
+                        {{- if lt (add $index 1) $len -}}
+                            {{- ", " -}}
+                        {{- end -}}
+                    {{- end -}}
+                {{- else -}}
+                    {{- " - Anonymous" -}}
+                {{- end -}}
+                {{- if .Params.Page -}}
+                    {{- " - " -}}
+                    {{- $articles := where site.RegularPages "Title" .Params.Page -}}
+                    {{- if gt (len $articles) 0 -}}
+                        <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a>
+                    {{- end -}}
+                {{- end -}}
+            </div>
+            <div class="list-review-body">
+                {{- .Content -}}
+            </div>
+        </div>
+    </div>
+</div>

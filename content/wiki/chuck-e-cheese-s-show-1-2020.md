@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2019-12-30"
 endDate = "2020-3-17"
-contributors = ["The 64th Gamer","Documentor","Himitsu","Ceclife13","Mousester","GallaRBX2","Cy's Junk at School"]
+contributors = ["The 64th Gamer","CyberSnout","Himitsu","Ceclife13","Mousester","GallaRBX2","Cy's Junk at School"]
 citations = []
 pageThumbnailFile = "wHsGLduZBT0qxCZqaknY.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -14,36 +14,36 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  Fun Songs - 'It's Chuck E.'
     2.   KIDZ BOP Kids - 'Sorry Not Sorry'
     3.   Discovery Familia - Doki - 'Expression 80's'
-2.  **Skit 1**
+2. **Skit 1**
     1.  Helen Henny's - 'Game On!'
-3.  **Intermission 2**
+3. **Intermission 2**
     1.   Universal Kids - 'Power Birds 1'
     2.   Andy Grammer - 'She'd Say'
     3.  Fun Songs - 'Oh Helen Henny'
     4.   Panic! At the Disco - 'Into The Unknown'
     5.   Tails of Friendship Ep3, - 'Pink Frosted Donuts'
-4.  **Skit 2**
+4. **Skit 2**
     1.  Pasqually - 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day'
-5.  **Intermission 3**
+5. **Intermission 3**
     1.   Universal Kids - 'Floogals'
     2.   Dandy Aridi - 'Let Go'
     3.  Fun Songs - 'Oh Oh Oh Pasqually'
     4.   Matt Nathanson - 'Modern Love:
     5.   Universal Kids - 'American Ninja Warrior Jr'
     6.  Fun Songs - 'Unicorn, Unicorn!'
-6.  **Skit 3**
+6. **Skit 3**
     1.  Chuck E. & Friends - 'Play All You Can Play'
-7.  **Intermission 4**
+7. **Intermission 4**
     1.   MOTi - 'Just Don't Know It Yet'
     2.   Universal Kids - 'Power Birds 2'
     3.  Fun Songs - 'He's Mr. Munch'
-8.  **Skit 4**
+8. **Skit 4**
     1.  Helen Henny - 'Disco Dancing Dinosaur Party'
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  Fun Songs - 'Jasper T. Jowls'
     2.  JD McCary - 'Keep In Touch'
     3.   Nigel & Ronnie - 'The Fly'
@@ -52,19 +52,20 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 
 ## Live Shows:
 
-- Birthday Star Spectacular 2018 (3stage, Cyberamic, Studio C,Weigl)
-- Birthday Star Spectacular Spanish 2018 (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Cha Cha (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Cha Cha (Spanish) (3stage, Cyberamic, Studio C,Weigl)
-- Easy Dance (3stage, Cyberamic, Studio C,Weigl)
-- Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
-- The Roll (3stage, Cyberamic, Studio C,Weigl)
-- Bingo (3stage, Cyberamic, Studio C,Weigl)
+- Birthday Star Spectacular 2018
+- Birthday Star Spectacular Spanish 2018
+- Chuck E. Cha Cha
+- Chuck E. Cha Cha Spanish
+- Easy Dance
+- Me & My Friends
+- Do The Chuck E. (Do The Roll)
+- BINGO 2013
+- Chuck E. Says 2014 (Studio C, Weigl)
 - Happy Dance (Studio C, Weigl)
 - Happy Dance Spanish (Studio C, Weigl)
 - Easy Dance Spanish (Studio C, Weigl)
-- Head Shoulders Knees and Toes (Studio C, Weigl)
-- Happy and You Know It (Studio C, Weigl)
+- Head Shoulders Knees and Toes 2013 (Studio C, Weigl)
+- Happy and You Know It 2014 (Studio C, Weigl)
 
 ## Official Releases
 
@@ -73,7 +74,7 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 
 ## Trivia:
 
-- 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day' is originally from {{< wiki-link "Chuck E Cheese's Show 1 2018" >}}, 'Play All You Can Play' is originally from {{< wiki-link "Chuck E Cheese's Show 3 2019" >}}, and 'Chuck E's Place' is originally from {{< wiki-link "Chuck E Cheese's Show 3 2017" >}}.
+- 'Loppins Boopin Fakin Doopin Floppen Loopen Funnin's Day' is originally from {{< wiki-link "Chuck E. Cheese's Show 1 2018" >}}, 'Play All You Can Play' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2019" >}}, and 'Chuck E's Place' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}}.
 - Chuck E.'s Place had its intro cut from the show due to it being related to the 40th Years of Fun promotion. Strangely, the 'Wink' jingle was also kept for Studio C locations despite those locations not having a Wink.
 - This show was originally intended to play till March 29, 2020 but ended early due to Covid-19.
 - On March 13, 2020, Automatic Live shows were disabled for Studio C and Weigl systems due to COVID-19.

@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1983-08-00"
 endDate = ""
-contributors = ["ChuckECool","2600:4040:5A0C:5900:B015:4E62:36E4:7B06","ThatBoiCydalan","Slussier1","Cheeseclassic","CoolerDude","PizzaEntertainmentFanX","Cecanddisneyfan2004","Caydenpedia"]
+contributors = ["ChuckECool","Anonymous","ThatBoiCydalan","Slussier1","Cheeseclassic","CoolerDude","PizzaEntertainmentFanX","Cecanddisneyfan2004","Caydenpedia"]
 citations = []
 pageThumbnailFile = "PNvyAnJqfjGHfKMN5HBH.avif"
 latitudeLongitude = ["38.67931332","-121.2752325"]
@@ -27,7 +27,7 @@ Like all ShowBiz Pizzas at the time, the store opened with the Rock-Afire Explos
 |---------------------------------------------------------------------------------------------------|--------------|------------------|
 | {{< wiki-link "Classic Stage" >}}                                                           | 1983         | 1988-1989        |
 | {{< wiki-link "Chuck E's House" >}}                                                         | 1988-1989    | 1991-1992        |
-| {{< wiki-link "Cyberamics Road Stage" >}}                                                   | 1991-1992    | 2015             |
+| {{< wiki-link "Road Stage" >}}                                                   | 1991-1992    | 2015             |
 | {{< wiki-link "1-Stage" >}}                                                                 | 2015         | January 22, 2024 |
 | {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | January 2024 | Still in Use     |
 

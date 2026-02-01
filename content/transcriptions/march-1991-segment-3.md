@@ -313,4 +313,4 @@ I thank you for your company let’s plan to meet more frequently and I will see
 
 **Chuck E. Cheese:** 
 
-And so long for now. But before we go, I’d like to thank my co-stars. Helen Henny, Jasper T. Jowls, Pasqually, and the leader of the band, Mr. Munch. Oh, by the way, I’m Chuck E Cheese. We had a great time entertaining you today and we want you to stick around for more. We’ll be back in a little bit. So long 
+And so long for now. But before we go, I’d like to thank my co-stars. Helen Henny, Jasper T. Jowls, Pasqually, and the leader of the band, Mr. Munch. Oh, by the way, I’m Chuck E. Cheese. We had a great time entertaining you today and we want you to stick around for more. We’ll be back in a little bit. So long 

@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2005-00-00"
 endDate = "2020-06-00"
-contributors = ["2600:1012:B1AF:7538:30D5:B962:3FA:B29","Cheeseclassic","Caydenpedia","Destinationimagination95"]
+contributors = ["Anonymous","Cheeseclassic","Caydenpedia","Destinationimagination95"]
 citations = ["<a href=\"https://www.reddit.com/r/Mallmanac/comments/s4s8h2/searstown_mall_now_mall_at_whitney_field/\">https://www.reddit.com/r/Mallmanac/comments/s4s8h2/searstown_mall_now_mall_at_whitney_field/</a>"]
 pageThumbnailFile = "HTa7xVtlNp8iKfhvikOb.avif"
 latitudeLongitude = ["42.52773392","-71.74375868"]

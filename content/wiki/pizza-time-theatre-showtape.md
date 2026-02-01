@@ -21,7 +21,7 @@ The showtape debuted the original *Pizza Time Players*, including the short-live
 ### Big Cheese Birthday Show
 
 The first production work on the showtape was a 2-track tape containing a showtape concept demo recording produced on October 7, 1976.{{< cite 3 >}}
-The tape features 'The Big Cheese' (whom later on became {{< wiki-link "Chuck E Cheese" >}}), and Crusty the Cat performing dialogue. The audio would be produced at *Wally Heider Studio* (245 Hyde St., San Francisco, CA, 94102). The script for the session was written by Robert "Bob" Allan Black under the direction of Atari, Gene Landrum, and Nolan Bushnell. The producer for the show would be *Ed Bogus Productions* (680 Beach St. Suite 495, San Francisco, CA 94109).<sup>(4)(3)</sup>
+The tape features 'The Big Cheese' (whom later on became {{< wiki-link "Chuck E. Cheese" >}}), and Crusty the Cat performing dialogue. The audio would be produced at *Wally Heider Studio* (245 Hyde St., San Francisco, CA, 94102). The script for the session was written by Robert "Bob" Allan Black under the direction of Atari, Gene Landrum, and Nolan Bushnell. The producer for the show would be *Ed Bogus Productions* (680 Beach St. Suite 495, San Francisco, CA 94109).<sup>(4)(3)</sup>
 
 ### Demo Recordings
 
@@ -38,7 +38,7 @@ These tracks include:
 - The Drive In
 - Boogie Woogie Bugle Boy
 
-The demo tapes take a majority of their music and skits from other albums directly. The Can-Can skit directly uses 'Offenbach - Morpheus' from the album 'Spike Jones Is Murdering the Classics'. Crusty's French singing is of Spike's voice, alongside Spike's sneezing skit at the end being recontextualized as Jasper.{{< cite 5 >}}
+The demo tapes take a majority of their music and skits from other albums directly. The Can-Can skit directly uses 'Offenbach - Morpheus' from the album 'Spike Jones Is Murdering the Classics'. Crusty's French singing is of Spike's voice, alongside Spike's sneezing skit at the end being recontextualized as Pasqually.{{< cite 5 >}}
 The Pasqually Show has the opening car skit taken from 'Liszt - Rhapsody From Hunger(y)' from the same 'Spike Jones Is Murdering the Classics' album, followed by the main melody sung over 'Funiculi, Funicula' from the album 'Italia Mia' by Mantovani.{{< cite 6 >}}
 
 ### Release
@@ -102,3 +102,17 @@ tracks were potentially on the tape:{{< cite 2 >}}
 - Endlessly Awake, Part 1
 
 Other segments from the CDs may have appeared on the showtape.
+
+{{< wiki-link "The Gospel of St. Pong Revisited - Vol 4, April 1977" >}} provides additional clues, stating there were ten main skits total, being:
+
+- 4 Original Songs
+- 2 Joke Routines
+- 3 Skit Dialogues
+- 1 Patriotic Medley
+
+Four additonal special tracks could be played, described as 'special animated noise distracters programmed by the bartender', presuming that "programmed" implies scheduled, or potentially referring to the fact they would use Pasqually's announcement speakers to specify the occasion.
+
+- Birthdays
+- Graduations
+- Anniversaries
+- Marriages

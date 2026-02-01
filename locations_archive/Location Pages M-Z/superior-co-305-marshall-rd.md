@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2003-12-23"
 endDate = ""
-contributors = ["73.95.167.229","Cheeseclassic"]
+contributors = ["Anonymous","Cheeseclassic"]
 citations = ["<a href=\"https://www.dailymail.co.uk/news/article-10358741/amp/Moment-terrified-families-flee-Chuck-E-Cheese-Colorado-wildfire-rages-outside.html\">https://www.dailymail.co.uk/news/article-10358741/amp/Moment-terrified-families-flee-Chuck-E-Cheese-Colorado-wildfire-rages-outside.html</a>","<a href=\"https://youtu.be/pfqqBGspGvY?si=_CgJIYIoraIQSSTv\">https://youtu.be/pfqqBGspGvY?si=_CgJIYIoraIQSSTv</a>","<a href=\"https://www.independent.co.uk/news/world/americas/colorado-boulder-fire-chuck-e-cheese-b1984746.html\">https://www.independent.co.uk/news/world/americas/colorado-boulder-fire-chuck-e-cheese-b1984746.html</a>","<a href=\"https://www.insider.com/video-people-flee-colorado-chuck-e-cheese-wildfire-evacuations-2021-12?amp\">https://www.insider.com/video-people-flee-colorado-chuck-e-cheese-wildfire-evacuations-2021-12?amp</a>","<a href=\"https://www.9news.com/amp/article/news/local/wildfire/marshall-fire/chuck-e-cheese-superior-reopen/73-897d4dd8-ab00-4f0a-85bc-e11cc0221990\">https://www.9news.com/amp/article/news/local/wildfire/marshall-fire/chuck-e-cheese-superior-reopen/73-897d4dd8-ab00-4f0a-85bc-e11cc0221990</a>"]
 pageThumbnailFile = "twOqPB7P5vbRSAv_FAYU.avif"
 latitudeLongitude = ["39.95564667","-105.1694037"]

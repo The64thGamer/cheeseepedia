@@ -1,6 +1,6 @@
 +++
 title = "0j0dji2o3jr.avif"
-startdate = "2024-12-19"
+startDate = "2024-12-19"
 citations = []
 pages = ["Taking Care of Business, Rhyming Rap"]
 tags = ["Photos"]

@@ -2,9 +2,9 @@
 title = "CEC Roadshow July 2001"
 draft = false
 tags = ["Live Shows"]
-categories = [""]
+categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
+startDate = "2001-07-00"
+endDate = "2002-03-00"
 contributors = []
 +++

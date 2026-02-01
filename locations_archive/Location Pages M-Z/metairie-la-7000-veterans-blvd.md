@@ -4,7 +4,7 @@ title = "Metairie, LA (7000 Veterans Blvd)"
 startDate = "1981-06-24"
 endDate = "2024-03-17"
 pageThumbnailFile = "XtsFCG1pefIYhk7eoCWQ.avif"
-contributors = ["ChuckECool", "Rexburg090", "CorrectorMan", "ThatBoiCydalan", "To Fast", "66.250.190.24", "AstridMascotFan2005", "Chouts1"]
+contributors = ["ChuckECool", "Rexburg090", "CorrectorMan", "ThatBoiCydalan", "To Fast", "Anonymous", "AstridMascotFan2005", "Chouts1"]
 citations = ["<a href=\"https://www.loopnet.com/Listing/7000-Veterans-Memorial-Blvd-Metairie-LA/19507405/\">https://www.loopnet.com/Listing/7000-Veterans-Memorial-Blvd-Metairie-LA/19507405/</a>"]
 latitudeLongitude = ["30.00121547", "-90.13682873"]
 tags = ["Locations"]

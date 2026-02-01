@@ -1,0 +1,43 @@
+{{- $hasContent := ne .Content "" -}}
+
+{{- $title := .LinkTitle | default .Title -}}
+{{- $titleLen := len $title -}}
+
+<div class="alt-list-page-{{ if $hasContent }}block{{ else }}empty-block{{ end }}">
+  <div class="alt-list-page-container">
+
+    <div class="alt-list-image">
+      <a href="{{ .RelPermalink }}">
+        {{- $thumb := default "" .Params.pageThumbnailFile -}}
+        {{- $mode := "raw-photo" -}}
+        {{- partialCached "DisplayPhoto.html"
+            (dict "name" $thumb "mode" $mode)
+            (printf "%s|%s" $thumb $mode)
+        -}}
+      </a>
+    </div>
+
+    <div class="alt-list-page-content">
+      <a href="{{ .RelPermalink }}">
+        {{- if gt $titleLen 20 -}}
+          <span>{{ $title | safeHTML }}</span>
+        {{- else -}}
+          {{ $title | safeHTML }}
+        {{- end -}}
+
+        {{ if .Params.downloadLinks }}
+          <img src="/UI/Emojis/inbox.svg" class="emoji">
+        {{ end }}
+      </a>
+
+      {{- if ne .Section "meta" -}}
+        <div class="alt-list-page-date">
+          {{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}
+          {{- " - " -}}
+          {{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}
+        </div>
+      {{- end -}}
+
+    </div>
+  </div>
+</div>

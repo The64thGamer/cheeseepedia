@@ -1,6 +1,6 @@
 +++
 title = "https://youtu.be/8LkVQQAKgqY"
-startdate = "2001-00-00"
+startDate = "2001-00-00"
 pages = ["Northridge, CA (8425 Reseda Blvd)", "January 2001 Show"]
 tags = ["Videos"]
 categories = ["Chuck E. Cheese's"]

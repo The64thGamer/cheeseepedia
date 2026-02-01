@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2004-04-27"
 endDate = ""
 pageThumbnailFile = "zHMXbeLjCFIQsUoUREWv.avif"
-contributors = ["CECBowlingGreen","Rexburg090","170.185.215.34","CECKentucky","ChuckEPediaIsTheBest!","CECFan2023","SuperCreamPiper2008","WhoDidWhat18"]
+contributors = ["CECBowlingGreen","Rexburg090","Anonymous","CECKentucky","ChuckEPediaIsTheBest!","CECFan2023","SuperCreamPiper2008","WhoDidWhat18"]
 citations = ["<a href=\"https://www.bgdailynews.com/mall-getting-new-stores/article_e79ad015-74fa-56ed-be69-012d408248d0.html</a>", "<a href=\"https://www.police1.com/family/articles/ky-officer-turned-away-from-chuck-e-cheeses-for-carrying-firearm-hhQ235QFIxkhzHJz/\">https://www.police1.com/family/articles/ky-officer-turned-away-from-chuck-e-cheeses-for-carrying-firearm-hhQ235QFIxkhzHJz/</a>"]
 latitudeLongitude = ["36.94751042","-86.42841198"]
 +++

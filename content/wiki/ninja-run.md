@@ -1,10 +1,10 @@
 +++
-title = "Ninja Run"
+title = "Superhero Playground"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = ""
+startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = []
 +++

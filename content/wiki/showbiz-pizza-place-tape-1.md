@@ -4,7 +4,7 @@ title = "ShowBiz Pizza Place Tape 1"
 startDate = "1980-01-12"
 endDate = "0000-00-00"
 pageThumbnailFile = "YxOw3TtvGO2wxamICfrf.avif"
-contributors = ["The 64th Gamer", "2A00:23C7:D7A1:7101:988A:572F:34E6:7B2E", "2A00:23C7:D7A1:7101:E54E:5D4A:4588:4006", "SamanthaKitty2015", "2A00:23C7:D7A1:7101:443B:8D3E:83FB:AC71", "2A00:23C7:D7A1:7101:4DE1:4470:5F6A:5323"]
+contributors = ["The 64th Gamer", "Anonymous", "Anonymous", "SamanthaKitty2015", "Anonymous", "Anonymous"]
 citations = ["https://www.showbizpizza.com/review/rae/1980_spptape1.html", "https://en.wikipedia.org/wiki/1979_oil_crisis"]
 showtapeFormats = ["CEI 4-Track Reel"]
 transcriptions = ["Roast Beef Sandwich and a Pizza", "Catch A Wave", "Hit The Cymbal"]
@@ -39,21 +39,21 @@ much later.
 
 Notably this tape essentially loops its main segments twice, with every other loop containing a Rolfe & Earl skit.
 
-1.  **Segment** **1**
+1. **Segment** **1**
     1.  Heartaches
-2.  **Segment 2**
+2. **Segment 2**
     1.  Roast Beef Sandwich
-3.  **Segment** **3**
+3. **Segment** **3**
     1.  Catch-a-Wave
-4.  **Segment** **4**
+4. **Segment** **4**
     1.  Rolfe and Earl #1 - Hit the Cymbal
-5.  **Segment** **5**
+5. **Segment** **5**
     1.  School Days
-6.  **Segment** **6**
+6. **Segment** **6**
     1.  Heartaches
-7.  **Segment** **7**
+7. **Segment** **7**
     1.  Roast Beef Sandwich
-8.  **Segment** **8**
+8. **Segment** **8**
     1.  Catch-a-Wave
-9.  **Segment** **9**
+9. **Segment** **9**
     1.  School Days

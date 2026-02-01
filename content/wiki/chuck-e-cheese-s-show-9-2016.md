@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2016-11-21"
 endDate = "2017-1-02"
-contributors = ["The 64th Gamer","Documentor","Mousester"]
+contributors = ["The 64th Gamer","CyberSnout","Mousester"]
 citations = []
 pageThumbnailFile = "Brn9LU7rP5F62FFVUqN6.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
@@ -15,33 +15,33 @@ This show was intended to play from November 21st, 2016 - January 2nd, 2017 and 
 
 ## Show List:
 
-1.  **Skit 1**
+1. **Skit 1**
     1.  Pasqually's Birthday
-2.  **Intermission 1**
+2. **Intermission 1**
     1.  Band of Merrymakers - 'Snow, Snow, Snow'
     2.  Nina's World - 'Holidays'
     3.  Carl Clean
-3.  **Skit 2**
+3. **Skit 2**
     1.  Chuck E. Cheese - 'Let's Play Some Games for the Holidays'
-4.  **Intermission 2**
+4. **Intermission 2**
     1.  A Great Big World - 'I Want A Hippopotamus For Christmas'
     2.  Yu-Gi-Oh! - 'Astral's Observation'
     3.  Josh & The Jamtones - 'Chanukah Time'
     4.  Coldplay - 'Christmas Lights'
     5.  Skylanders Netflix Trailer
     6.  Thomas's Edison's Secret Lab - 'Christmas on the Moon'
-5.  **Skit 3**
+5. **Skit 3**
     1.  Chuck E. & Helen - 'Merry Christmastime'
-6.  **Intermission 3**
+6. **Intermission 3**
     1.  NSYNC - 'Merry Christmas, Happy Holidays'
     2.  Buffet Promo
     3.  Dot - 'Holidays'
     4.  Pentatonix - 'Winter Wonderland/Don't Worry Be Happy'
     5.  Birthday Commercial
     6.  Secret Agent 23 Skidoo - 'Young Soul'
-7.  **Skit 4**
+7. **Skit 4**
     1.  Pasqually the Chef - 'What Do You Get a Sasquatch for Christmas?'
-8.  **Intermission 4**
+8. **Intermission 4**
     1.  Run D.M.C. - 'Christmas In Hollis'
     2.  Casper Babypants - '12 Days Of Christmas'
     3.  Chuck E. Cheese Commercial - 'Faucet'
@@ -49,7 +49,7 @@ This show was intended to play from November 21st, 2016 - January 2nd, 2017 and 
     5.  CEC Fundraising Promo
     6.  Thomas's Edison's Secret Lab - 'Wormhole At The North Pole'
     7.  Mariah Carey - 'All I Want for Christmas Is You'
-9.  **Skit 5**
+9. **Skit 5**
     1.  Chuck E. & Friends - 'Holiday Medley'
         1.  Jingle Bells
         2.  Jolly Old St. Nicholas
