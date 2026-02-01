@@ -11,7 +11,7 @@ citations = []
 pageThumbnailFile = "iolFogMS1MY5iGWu6ECc.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD"]
 +++
-***Summer 2012 (International)*** is the international version of Summer 2012, with several intermissions replaced.
+***Summer 2012 (International)*** is a re-edited version of {{< wiki-link "Summer 2012" >}} for international locations, with several intermissions replaced.
 
 ## Show List:
 
@@ -20,23 +20,23 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD"]
     2.  'Fun, Fun, Fun!'
 2.  **Intermission 1**
     1.  CEC TV ID - 'Singing Fish'
-    2.  Summer Safety With Steve Waters - 'Wear Sunscreen'
+    2.  Summer Safety with Steve Waters - 'Wear Sunscreen'
     3.  Amphicar
     4.  Wildlife
 3.  **Segment 2**
-    1.  'In My Pool' (Parody of In My Room)
+    1.  'In My Pool' (Parody of ['In My Room'](https://en.wikipedia.org/wiki/In_My_Room))
     2.  'Summertime'
 4.  **Intermission 2**
     1.  CEC TV ID - 'Pool Plug'
     2.  Pizza Survivor
-    3.  Veggie Tales - 'Silly Song with Best Friends Forever'
+    3.  VeggieTales - 'Best Friends Forever'
     4.  Firehouse
 5.  **Segment 3**
-    1.  'Goin' on a Picnic"
-    2.  'Barbecue"
+    1.  'Going on a Picnic'
+    2.  'Barbeque' (parody of ['Rock With You'](https://en.wikipedia.org/wiki/Rock_with_You))
 6.  **Intermission 3**
     1.  CEC TV ID - 'Haircut'
-    2.  Summer Safety With Steve Waters - 'Leave Bricks on the Beach'
+    2.  Summer Safety with Steve Waters - 'Leave the Bricks on the Beach'
     3.  Baking with Betty - 'Trail Mix'
     4.  Baseball
 7.  **Segment 4**
@@ -58,5 +58,6 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD"]
 
 ## Trivia:
 
-'Summertime Groove', 'Fun, Fun, Fun' and 'Good Old Summertime' are originally from {{< wiki-link "Summertime 2000" >}}, 'In My Pool' 'Goin' On a Picnic' and "Barbecue" are originally from {{< wiki-link "Summertime 2003" >}}, 'SPF' and 'Summertime' is originally from '{{< wiki-link "Summer 2007 Show" >}}
-The only difference between {{< wiki-link "Summer 2012" >}} and Summer 2012 (International) is the 'My Little Pony' intermission was replaced with Amphicar and 'Pound Puppies' was replaced with Closing Time?
+- The Ballgame is originally from {{< wiki-link "Spring Break" >}}, 'Summertime Groove', 'Fun, Fun, Fun', 'Good Old Summertime', and Wildlife are originally from {{< wiki-link "Summertime 2000" >}}, Baking With Betty - 'Trail Mix' is originally from the {{< wiki-link "January 2001 Show" >}}, Pizza Survivor is originally from the {{< wiki-link "September 2002 Show" >}}, 'In My Pool' 'Going on a Picnic' and "Barbeque" are originally from {{< wiki-link "Summertime 2003" >}}, and 'SPF' and 'Summertime' are originally from the {{< wiki-link "Summer 2007 Show" >}}.
+- 'Firehouse' was originally used in the {{< wiki-link "January 2005 Show" >}}. The music was changed to be the same song used for the Birthday Break before {{< wiki-link "Birthday Star '95" >}}.
+- The only difference between {{< wiki-link "Summer 2012" >}} and Summer 2012 (International) is that 'My Little Pony' was replaced with Amphicar from {{< wiki-link "September 2001 Show" >}} and 'Pound Puppies' was replaced with Closing Time? from {{< wiki-link "September 2000 Show" >}}. The version of these intermissions included on this show seems to be from the ChuckECheeseTV YouTube Channel, as the end card used on those uploads is present in both intermissions.
