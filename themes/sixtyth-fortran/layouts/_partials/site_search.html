@@ -292,8 +292,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const predefBtnsNow = document.querySelectorAll(".predef-tag-btn");
     predefBtnsNow.forEach(b => b.addEventListener("click", function(){ addChip('tag', this.dataset.tag, false); }));
-
-    console.log("Search data loaded", { DOCS, TAGS_BY_PAGE, PAGES_BY_TAG, TAG_COUNTS, ALL_TAGS });
   }
 
   // --- NEW: Unified chip management ---

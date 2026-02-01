@@ -203,7 +203,7 @@ def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
         # Build searchable text from title and body only
         # Removed: frontmatter fields that bloat the index
         fulltext = " ".join([title, body])
-
+        fm_parsed = fm if isinstance(fm, dict) else {"__raw": str(fm)}
         toks = tokenize(fulltext)
         trigs = char_trigrams(fulltext)
 
@@ -214,9 +214,8 @@ def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
             "path": normalize_page_path(path),
             "excerpt": excerpt_text(body),
             "tokens": toks,
-            "trigrams": list(trigs)
-            # Removed: frontmatter dict (not used in search)
-            # Removed: tags (handled by tag_search.py)
+            "trigrams": list(trigs),
+            "frontmatter": fm_parsed,
         }
         docs.append(doc)
 
