@@ -7,6 +7,7 @@ startDate = "2012-07-01"
 endDate = "2012-08-31"
 contributors = ["The 64th Gamer","CyberSnout","Ceclife13"]
 citations = []
+credits = ["Matt Daniel|Production Coordinator, Voice of Announcer, UV Monster", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Steve Waters"]
 pageThumbnailFile = "iolFogMS1MY5iGWu6ECc.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 mediaDuration = "59:25"
