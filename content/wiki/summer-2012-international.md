@@ -8,6 +8,7 @@ endDate = "2012-08-31"
 contributors = ["CyberSnout", "Ceclife13"]
 mediaDuration = "1:00:04"
 citations = []
+credits = ["Matt Daniel|Production Coordinator, Voice of Announcer, UV Monster", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Steve Waters"]
 pageThumbnailFile = "iolFogMS1MY5iGWu6ECc.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD"]
 +++
