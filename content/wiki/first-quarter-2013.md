@@ -82,6 +82,7 @@ categories = ["Chuck E. Cheese's"]
 11. Nature Footage (10 minutes)
 
 ## Live Shows
+
 **Studio C and WEIGL locations would automatically play a live show every hour at the 25-minute mark. The automatic live for this show was Cupid Shuffle.**
 
 - Birthday Program 2009
@@ -105,4 +106,4 @@ categories = ["Chuck E. Cheese's"]
 - This show featured the final 'Super Jasper' intermission. This was also the final time the 1999 Jasper puppet (or any of the 1999 puppets) would be seen in newly produced footage. Similarly, the 'Trololo' live show countdown introduced with the show was the first to use any of the 2013 puppets.
 - This was the first show to use the automatic live show feature for Studio C and Weigl stores. With this feature, live shows will start automatically every hour. Five-minute countdowns have also been added to all live shows.
 - 'Need a New Wheel', 'Pizza Oven', and 'Get Down on It' all lack the applause SFX at the end. 'Come on, Let's Go' uses different applause SFX than its original show.
-- Hidden at the end of the Studio C DVD is the theme song for Bobby Bear, which would later be used in the {{< wiki-link "April 2013 Show" >}}. The intermission was planned for this show, but was not finished in time.
+- Hidden at the end of the Studio C DVD is the theme song for Bobby Bear, which would later be used in the {{< wiki-link "Spring 2013 Show" >}}. The intermission was planned for this show, but was not finished in time.
