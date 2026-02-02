@@ -16,52 +16,52 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List:
 
-1.**Song 1**
-    1.  [Working For The Weekend](https://en.wikipedia.org/wiki/Working_for_the_Weekend)
+1. **Song 1**
+    1.  ['Working For The Weekend'](https://en.wikipedia.org/wiki/Working_for_the_Weekend)
 2. **Intermission 1**
     1.  Veggietales - 'Happy Toothday'
     2.  Chillout 1 - Circle of Life
     3.  CEC TV ID - 'Singing Animals'
-3.**Song 2**
-    1.  Need a New Wheel (Parody of [Head Over Heels](https://en.wikipedia.org/wiki/Head_over_Heels_(Tears_for_Fears_song)))
+3. **Song 2**
+    1.  'Need a New Wheel' (Parody of ['Head Over Heels'](https://en.wikipedia.org/wiki/Head_over_Heels_(Tears_for_Fears_song)))
 4. **Intermission 2**
     1.  Fraggle Rock - 'Pass It On'
     2.  Chillout 2 - 'Electro Space'
     3.  CEC TV ID - 'Jawbreaker'
-5.**Song 3**
-    1.  [Crocodile Rock](https://en.wikipedia.org/wiki/Crocodile_Rock)
+5. **Song 3**
+    1.  ['Crocodile Rock'](https://en.wikipedia.org/wiki/Crocodile_Rock)
 6. **Intermission 3**
     1.  My Little Pony - 'Winter Wrap Up'
     2.  Super Jasper - 'Break the Record'
     3.  Chillout 3 - 'Rock Climbing'
     4.  CEC TV ID - 'Digestion'
-7.**Song 4**
-    1.  [Sing a Song](https://en.wikipedia.org/wiki/Sing_a_Song_(Earth,_Wind_%26_Fire_song))
+7. **Song 4**
+    1.  ['Sing a Song'](https://en.wikipedia.org/wiki/Sing_a_Song_(Earth,_Wind_%26_Fire_song))
 8. **Intermission 4**
     1.  Tim & the Space Cadets - 'Super Hero'
     2.  Chillout 4 - 'Underwater'
     3.  CEC TV ID - 'Flashing Hand'
-9.**Song 5**
-    1.  [Everybody Wants to Rule the World](https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World)
+9. **Song 5**
+    1.  ['Everybody Wants to Rule the World'](https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World)
 10. **Intermission 5**
     1.  Pajanimals - 'Super Squacky'
     2.  Chillout 5 - 'Time Lapse'
     3.  CEC TV ID - 'Pasta Fan'
 11. **Song 6**
-    1.  Pizza Oven (Parody of [Evil Women](https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song)))
+    1.  'Pizza Oven' (Parody of ['Evil Women'](https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song)))
 12. **Intermission 6**
     1.  Pound Puppies - 'McLeash'
     2.  Hard Hat Hank - 'Door Frame'
     3.  Chillout 6 - 'Water Fly Over'
     4.  CEC TV ID - 'Skeeball'
 13. **Song 7**
-    1.  Come on, Let's Go
+    1.  'Come on, Let's Go'
 14. **Intermission 7**
     1.  Dreamworks - 'Rise of the Guardians'
     2.  Chillout 7 - 'Desert'
     3.  CEC TV ID - 'Breakdance'
 15. **Song 8**
-    1.  [Get Down on It](https://en.wikipedia.org/wiki/Get_Down_on_It)
+    1.  ['Get Down on It'](https://en.wikipedia.org/wiki/Get_Down_on_It)
 16. **Intermission 8**
     1.  Aquabats - 'Super Magic Power Man'
     2.  Chillout 8 - 'Night Drive'
