@@ -1,5 +1,15 @@
- +++ title = "Spee-Lunker's Cave" startDate = "1964-05-00" endDate = "1991-00-00" citations = ["https://authorclint.weebly.com/uploads/1/0/1/5/10156594/six_flags_over_texas_-_50_years_of_entertainment.pdf", "https://www.dafe.org/articles/darkrides/spee-LunkerCave.html", "https://parktimes.com/ptsarticles/welcome/sections/oldsouth/speelunker-cave/", "https://www.youtube.com/watch?v=aj8GnA9hm4Q", "https://amusementsource.myshopify.com/products/speelunker-cave-ride-original-concept-layout-poster", "https://books.google.com/books?id=tPpDAAAAIBAJ&pg=PA23#v=onepage&q&f=false"] contributors = ["PizzaEntertainmentFanX"] pageThumbnailFile = "" tags = ["Arcades & Attractions"] categories = ["Six Flags"] draft = false +++
-**_Spee-Lunker's Cave_** (Officially reffered to as simply **_The Cave_**) was an Animatronic and Audio Water Dark Ride at Six Flags Over Texas from Summer 1964 until it's removal in 1991. The Ride was a part of the 'Old South' section of the Park, and featured a Texan cave full of Aliens called 'Spee-Lunkers'.
++++
+title = "Spee-Lunker's Cave" 
+startDate = "1964-05-00" 
+endDate = "1991-00-00" 
+citations = ["https://authorclint.weebly.com/uploads/1/0/1/5/10156594/six_flags_over_texas_-_50_years_of_entertainment.pdf", "https://www.dafe.org/articles/darkrides/spee-LunkerCave.html", "https://parktimes.com/ptsarticles/welcome/sections/oldsouth/speelunker-cave/", "https://www.youtube.com/watch?v=aj8GnA9hm4Q", "https://amusementsource.myshopify.com/products/speelunker-cave-ride-original-concept-layout-poster", "https://books.google.com/books?id=tPpDAAAAIBAJ&pg=PA23#v=onepage&q&f=false"] 
+contributors = ["PizzaEntertainmentFanX"] 
+pageThumbnailFile = "" 
+tags = ["Arcades & Attractions"] 
+categories = ["Six Flags"] 
+draft = false
++++
+***Spee-Lunker's Cave*** (Officially reffered to as simply ***The Cave***) was an Animatronic and Audio Water Dark Ride at Six Flags Over Texas from Summer 1964 until it's removal in 1991. The Ride was a part of the 'Old South' section of the Park, and featured a Texan cave full of Aliens called 'Spee-Lunkers'.
 ## History
 ### Production
 The Cave began production sometime in 1964 as a concept under the vision of Randall Duell {{< cite 1 >}}. The characters, the Alien species of 'Spee-Lunkers' named after a play on the word 'Spelunker', were designed by Walter McKeegan {{< cite 1 >}}. The Concepts were merged as one attraction sometime later, with the Spee-Lunkers being Aliens who lived in a cave after living with Huamns for a while.
