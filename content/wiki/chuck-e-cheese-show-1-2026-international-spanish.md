@@ -35,16 +35,16 @@ The ***Chuck E. Cheese Show 1 2026 International*** released in January 2026.
       3. Chuck E. & Friends - 'Water Buffalo' (Spanish)
 8. **Skit 4**
       1. Chuck E. & Friends - 'Fun For All' (2025 Video, 2015 Audio)
-9. **Intermission 4**
+9. **Intermission 5**
       1. Chuck E. Cheese - 'Chuck E. Bop' (Spanish)
       2. Sebastián Yatra y Reik - 'Un Año' (En Vivo)
-10. **Skit 4**
+10. **Skit 5**
       1. Chuck E. Cheese - 'Down the Road'
-11. **Intermission 4**
+11. **Intermission 6**
       1. Kidz Bop Kids - 'Baila Baila Baila'
       2. Jokes From Pasqually - 'Bird Saloon'
       3. Shakira - 'Zoo'
-12. **Skit 4**
+12. **Skit 6**
       1. Chuck E. Cheese - 'Giant Armadillo Named Phil' (2015)
 
 ## Lives:
