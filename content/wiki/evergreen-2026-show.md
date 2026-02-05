@@ -46,7 +46,7 @@ categories = ["Chuck E. Cheese's"]
       31. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
       32. KIDZ BOP Kids - 'Certified Bop'
       
-## Lives:
+## Lives 01/22 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
 3. Me & My Friends (Media Navori)
@@ -87,7 +87,7 @@ categories = ["Chuck E. Cheese's"]
       31. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
       32. KIDZ BOP Kids - 'Certified Bop'
       
-## Lives:
+## Lives 01/05 Update:
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
 3. Me & My Friends (Media Navori)
