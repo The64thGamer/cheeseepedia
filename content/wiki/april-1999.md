@@ -4,7 +4,7 @@ title = "April 1999"
 startDate = "1999-04-00"
 endDate = "1999-07-00"
 pageThumbnailFile = "S2N4gk8W2iHK1iZo71ZE.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "BurgersNuggs445", "EagleScout610", "Anonymous", "Bullseye123", "Cheeseclassic", "Ceclife13"]
+contributors = ["The 64th Gamer", "Cyber Snout", "BurgersNuggs445", "EagleScout610", "Anonymous", "Bullseye123", "Cheeseclassic", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=VTmxzgjgpmE", "https://www.youtube.com/watch?v=dSz9_hQ3ZJ4"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Annagrey Weichman - Singing Voice of Helen Henny", "Karlisa Burleson - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef, Bird", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Mike Manley, Singing Cowboy", "Robert Gotcher - Production Coordinator", "Brian Hagan - Studio Manager", "Brent Gray - Studio Coordinator", "Brett Roberts - Puppeteer"]
 showtapeFormats = ["Studio C 4x Laserdisc + Files", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]

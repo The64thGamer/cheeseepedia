@@ -9,7 +9,7 @@ showtapeFormats = ["Cyberamics Reel","C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)"
 citations = ["https://www.youtube.com/watch?v=jOFKg5vx5Pw"]
 startDate = "1989-07-00"
 endDate = "1992-02-00"
-contributors = ["Ceclife13","Cybersnout"]
+contributors = ["Ceclife13","Cyber Snout"]
 +++
 
 ***Birthday Extravaganza (Chuck E. Cheese Branded)*** first released in July 1989 for Chuck E. Cheese locations with the Pizza Time Players.

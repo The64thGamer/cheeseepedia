@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","PizzaEntertainmentFanX","Cy's Junk at School"]
+contributors = ["The 64th Gamer","Pizza Entertainment Fan","Cy's Junk at School"]
 citations = ["https://www.newspapers.com/image/925456618/?clipping_id=124040758&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjkyNTQ1NjYxOCwiaWF0IjoxNjkyMTMzMDE4LCJleHAiOjE2OTIyMTk0MTh9.sZ63cVihlDlWAUGEF2XDqAWUdyLOh6zMKGWrWlSc1Rw"]
 pageThumbnailFile = "qtpWt_R8Mjxn_P7FDtzb.avif"
 +++

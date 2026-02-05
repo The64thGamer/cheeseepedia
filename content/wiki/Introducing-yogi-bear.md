@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1987-09-00"
 endDate = "1987-11-00"
 pageThumbnailFile = "5ddZ2GY8x9TqXWjppj0r.avif"
-contributors = ["EagleScout610","Anonymous","The 64th Gamer","CyberSnout"]
+contributors = ["EagleScout610","Anonymous","The 64th Gamer","Cyber Snout"]
 citations = ["https://www.showbizpizza.com/info/documents/spt/spt_horizons04-yogi.pdf","https://www.newspapers.com/article/omaha-world-herald/114529089/","https://www.showbizpizza.com/info/documents/spt/spt_yogi_design.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_invoices.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_cpi-quote.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_miscdocs.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_showscript1.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_showscript2.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_contract-butler.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_contract-messick.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_installation.pdf","https://youtu.be/DvIElzoMZ3M?si=yOSbd3D9ThJrU_kJ"]
 credits = ["Daws Butler|Yogi Bear","Don Messick|Boo Boo","Mitzi Mozzerella|Lorraine Denham","Fatz Geronimo|Mark Brink","Unindentified ShowBiz Pizza Cast|Dook, Beach Bear","Joe Conti|Programmer"]
 showtapeFormats = ["CEI 8-Track Reel"]

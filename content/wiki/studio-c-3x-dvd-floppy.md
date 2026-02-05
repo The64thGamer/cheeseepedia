@@ -5,7 +5,7 @@ tags = ["Showtape Formats"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["GallaRBX2"]
+contributors = ["GallaRM"]
 citations = []
 +++
 The ***Studio C 3x DVD + Floppy* was a showtape format used for Studio C. This format replaced the Studio C 4x Laserdisc + Files|Studio C 4x Laserdisc + Files format with the release of the August 1999 showtape.

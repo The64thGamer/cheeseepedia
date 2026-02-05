@@ -6,7 +6,7 @@ tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = []
 pageThumbnailFile = "Waterslidecup3.avif"
 +++

@@ -3,7 +3,7 @@ draft = false
 title = "Huntington Beach, CA (15511 Edwards St)"
 startDate = "1979-10-06"
 endDate = ""
-contributors = ["ChuckECool", "ThatBoiCydalan", "Rexburg090", "ChuckEPediaIsTheBest!", "StarToday77", "Saan1ty", "Cheeseclassic", "SuperCreamPiper2008", "Caydenpedia", "PizzaEntertainmentFanX", "CEC1988", "The 64th Gamer", "PasquallyAAAAAAAAAAAAAAAAAAAAAAAA", "Chouts1"]
+contributors = ["ChuckECool", "ThatBoiCydalan", "Rexburg090", "ChuckEPediaIsTheBest!", "StarToday77", "Saan1ty", "Cheeseclassic", "SuperCreamPiper2008", "Caydenpedia", "Pizza Entertainment Fan", "CEC1988", "The 64th Gamer", "PasquallyAAAAAAAAAAAAAAAAAAAAAAAA", "Chouts1"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=xLhT6pR49ww\">https://www.youtube.com/watch?v=xLhT6pR49ww</a>"]
 latitudeLongitude = ["33.73543952", "-118.0179572"]
 tags = ["Locations"]

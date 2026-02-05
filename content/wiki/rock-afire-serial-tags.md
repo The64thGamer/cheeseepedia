@@ -7,7 +7,7 @@ categories = [""]
 
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","Nebbytales","CyberSnout","ShowBizMidwest"]
+contributors = ["The 64th Gamer","Nebbytales","Cyber Snout","ShowBizMidwest"]
 citations = []
 pageThumbnailFile = "kQv4BXhXNzHV_9PaVsH8.avif"
 +++

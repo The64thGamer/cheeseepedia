@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2001-01-00"
 endDate = ""
-contributors = ["Pasquallytheplumber","CyberSnout","BenTrainFan2000"]
+contributors = ["Pasquallytheplumber","Cyber Snout","BenTrainFan2000"]
 citations = []
 mediaDuration = "2:47"
 pageThumbnailFile = "r6LfXL7ZkWBC1WS2pHqn.avif"

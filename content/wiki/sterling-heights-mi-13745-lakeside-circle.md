@@ -12,7 +12,7 @@ animatronics = ["Chuck E. Cheese 32m (Animatronic)|2000-02-02|2023-08-13|070|Dis
 sqft = "12,669"
 latitudeLongitude = ["42.62267268254167","-82.99180990286546"]
 citations = ["https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0","https://www.newspapers.com/image/99362225/","https://flickr.com/photos/dubrul/2389230200/in/album-72157604429322065","https://cheeseepedia.org/photos/sterlingheights2012-avif/","https://www.instagram.com/explore/locations/3435559/chuck-e-cheese/recent/ Instagram posts from December 2012 show the store remodeled.","https://www.youtube.com/watch?v=eH311ymidn8","https://www.yelp.com/biz_photos/chuck-e-cheese-sterling-heights?select=7ArWwwES0YNU7TmNv9bjXg","https://www.yelp.com/biz_photos/chuck-e-cheese-sterling-heights?select=txOLZQ8dzAdnyT0961xcew","https://www.facebook.com/share/1JA1QZodiB/","Employee Testimony","https://docs.google.com/spreadsheets/d/1br8XNruQsyySnBFHXr48yK3S3Vs-f7Wz-1guC9wZYVA/edit?usp=sharing","https://www.instagram.com/explore/locations/3435559/chuck-e-cheese/recent/ Instagram posts from December 2016 show the store with Play Pass.","https://www.instagram.com/explore/locations/3435559/chuck-e-cheese/recent/ Instagram posts from 2024 show the store with the Trampoline Zone"]
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 downloadLinks = []
 pageThumbnailFile = "sterlingheightsexterior2025.avif"
 tags = ["Locations"]

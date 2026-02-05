@@ -5,7 +5,7 @@ tags = ["Animatronic Control Systems"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","GallaRBX","Himitsu"]
+contributors = ["The 64th Gamer","GallaRM","Himitsu"]
 citations = ["https://youtu.be/6ih4nsIWX5o","https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf"]
 pageThumbnailFile = "WNydQCHIvk8Fnb1bUyPy.avif"
 +++

@@ -5,7 +5,7 @@ title = "Charlotte, NC (7701 Pineville-Matthews Rd)"
 startDate = "1982-10-20"
 endDate = ""
 pageThumbnailFile = "H0vIKPOS6CzcAUlqIYwZ.avif"
-contributors = ["BigCtheDataFinder", "randomguyfan22"]
+contributors = ["BigCDataFinder ", "Randomguyfan22 Maker"]
 citations = ["https://www.newspapers.com/article/the-charlotte-news-pineville-showbiz-piz/124846491/", "https://www.newspapers.com/article/the-charlotte-observer-carmel-commons-p/146564383/", "https://www.youtube.com/watch?v=5MEcoRu445M"]
 storeNumber = "64"
 sqft = ""

@@ -5,7 +5,7 @@ tags = ["Companies/Brands"]
 categories = ["Creative Engineering"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer", "PizzaEntertainmentFanX"]
+contributors = ["The 64th Gamer", "Pizza Entertainment Fan"]
 citations = ["https://www.youtube.com/@therockafire/videos","**(Jan 18th)**", "https://www.showbizpizza.com/info/promo/cei/cei_leafeater.pdf", "https://my.tke.org/theteke/Vol.%2074,%20No.%201%20PDF.pdf", "https://www.youtube.com/watch?v=A_9lontJDQA", "https://www.youtube.com/watch?v=NaDCHD_1Avg", "https://www.showbizpizza.com/info/promo/cei/cei_lazlo.pdf", "https://www.showbizpizza.com/info/promo/cei/cei_1977promo.pdf", "https://www.youtube.com/watch?v=oAWbobbXD3w", "https://www.showbizpizza.com/photos/misc/cei_early/index.html", "https://www.youtube.com/watch?v=P_xrIayIsV8", "https://www.showbizpizza.com/info/promo/cei/cei_postcard-wolfpack5.pdf", "https://www.showbizpizza.com/photos/misc/wolfpack5/02.jpg", "https://www.newspapers.com/article/richmond-times-dispatch-wp5-opens-at-kin/141674898/", "https://www.showbizpizza.com/info/promo/cei/cei_1980promo.pdf", "https://es.wikipedia.org/wiki/Mundom%C3%A1gico"]
 pageThumbnailFile = "dytSIYAyc13tQlyTjOoR.avif"
 +++

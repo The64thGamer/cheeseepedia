@@ -7,7 +7,7 @@ categories = ["Celebration Station"]
 
 startDate = "1991-05-00"
 endDate = ""
-contributors = ["BigCtheDataFinder"]
+contributors = ["BigCDataFinder "]
 citations = []
 pageThumbnailFile = "SGR11kL5SOlqBxzmJ5Fw.avif"
 latitudeLongitude = ["35.09617747","-80.88079908"]

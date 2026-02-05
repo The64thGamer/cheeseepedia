@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "Wkhk48BnyCrmNg4QFrtB.avif"
 startDate = "1985-06-00"
 endDate = "1985-07-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 +++
 ## Show List:
 1. Segment 1

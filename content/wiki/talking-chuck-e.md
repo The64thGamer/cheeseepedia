@@ -6,7 +6,7 @@ tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1997-00-00"
 endDate = "1997-00-00"
-contributors = ["CyberSnout","The 64th Gamer"]
+contributors = ["Cyber Snout","The 64th Gamer"]
 citations = ["https://shopgoodwill.com/item/143007575","https://web.archive.org/web/20260201214556/https://www.ebay.com/itm/236611744352?_trksid=p4375194.c102726.m162918"]
 pageThumbnailFile = "9kwiosjbdwiqbh9m.avif"
 +++

@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1977-00-00"
 endDate = "0000-00-00"
-contributors = ["WalterB","NoName2000","PizzaEntertainmentFanX"]
+contributors = ["WalterB","NoName2000","Pizza Entertainment Fan"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=ucg8MujPDQA\">https://www.youtube.com/watch?v=ucg8MujPDQA</a>", "https://cheeseepedia.org/photos/nxre94zzgkzhwtebu2lpavif/", "https://cheeseepedia.org/photos/0rzqrkx1agkakamqowoyavif-copy-6/", "https://cheeseepedia.org/photos/ngoxbfcjjquir9qup1tqavif/"]
 pageThumbnailFile = "nGoxbfcjJquIr9qUp1Tq.avif"
 unitsProduced = "2"

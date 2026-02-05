@@ -5,7 +5,7 @@ tags = ["Animatronic Control Systems"]
 categories = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
-contributors = ["BattleXGamer","The 64th Gamer","ChloeThePuppyGirl"]
+contributors = ["BattleXGamer3","The 64th Gamer","ChloeThePuppyGirl"]
 citations = []
 +++
 

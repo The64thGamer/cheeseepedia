@@ -4,7 +4,7 @@ title = "Gwen and the Magical Music Makers"
 startDate = "1983-06-25"
 endDate = "1994-02-00"
 pageThumbnailFile = ""
-contributors = ["BigCtheDataFinder"]
+contributors = ["BigCDataFinder "]
 citations = ["https://youtu.be/DE1fbCI4w_c?si=VPNCUyVjs5wfgk1H", "Information Shared by Sally's Dave Jones", "Information Shared by Sally's Jeff Alford", "Information Shared by Stewart C. (@showbizpizzafan)", "https://www.chicagotribune.com/news/ct-xpm-1996-02-14-9602140339-story.html", "https://archive.org/details/gwen-and-the-magical-music-makers", "https://en.wikipedia.org/wiki/Guinevere", "https://en.wikipedia.org/wiki/Lancelot", "https://youtu.be/6PrR8KMDEYU?si=Zsyh4q0rezJVRqxm"]
 manufacturer = "Sally Industries"
 unitsProduced = "1 (Quintet Prototype), 2 (Expanded Version)"

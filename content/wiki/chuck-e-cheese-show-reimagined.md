@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2024-06-26"
 endDate = "2024-06-26"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["https://youtu.be/A4kEZka1AC4","https://www.youtube.com/@WatootsiJenkins/videos"]
 pageThumbnailFile = "CECShowReimagine.avif"
 +++

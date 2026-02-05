@@ -5,7 +5,7 @@ tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1985-09-00"
 endDate = "1985-11-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = []
 pageThumbnailFile = "SchoolDays.avif"
 

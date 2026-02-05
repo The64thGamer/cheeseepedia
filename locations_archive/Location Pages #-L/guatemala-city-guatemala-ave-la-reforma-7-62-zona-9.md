@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1986-00-00"
 endDate = ""
-contributors = ["Gostapua210","Cheeseclassic","CEC Tinley","BigCtheDataFinder","BurgersNuggs445"]
+contributors = ["Gostapua210","Cheeseclassic","CEC Tinley","BigCDataFinder ","BurgersNuggs445"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=uLh73in3pz8\">https://www.youtube.com/watch?v=uLh73in3pz8</a>"]
 latitudeLongitude = ["14.61114917","-90.51597753"]
 +++

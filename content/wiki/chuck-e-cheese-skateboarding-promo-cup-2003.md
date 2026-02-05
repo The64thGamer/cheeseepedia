@@ -6,7 +6,7 @@ tags = []
 categories = []
 startDate = ""
 endDate = ""
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = []
 pageThumbnailFile = "Skateboard2.avif"
 +++

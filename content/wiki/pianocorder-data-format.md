@@ -6,7 +6,7 @@ tags = ["Showtape Formats"]
 categories = []
 startDate = ""
 endDate = ""
-contributors = ["BattleXGamer","Himitsu","The 64th Gamer"]
+contributors = ["BattleXGamer3","Himitsu","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "l_PiX44pHeOJSvMmvEa2.avif"
 +++

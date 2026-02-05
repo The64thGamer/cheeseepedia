@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1977-00-00"
 endDate = "0000-00-00"
-contributors = ["PizzaEntertainmentFanX","CECMentor"]
+contributors = ["Pizza Entertainment Fan","CECMentor"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf\">https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf</a>"]
 pageThumbnailFile = "axlDoRl_1mYVUIiO5mw6.avif"
 unitsProduced = "1"

@@ -8,7 +8,7 @@ categories = ["Sally Corporation"]
 
 startDate = ""
 endDate = ""
-contributors = ["BigCtheDataFinder","The 64th Gamer"]
+contributors = ["BigCDataFinder ","The 64th Gamer"]
 citations = ["<a href=\"https://en.wikipedia.org/wiki/The_Care_Bears_in_the_Land_Without_Feelings\">https://en.wikipedia.org/wiki/The_Care_Bears_in_the_Land_Without_Feelings</a>","<a href=\"https://en.wikipedia.org/wiki/The_Care_Bears_Battle_the_Freeze_Machine\">https://en.wikipedia.org/wiki/The_Care_Bears_Battle_the_Freeze_Machine</a>"]
 pageThumbnailFile = "DamluAbUKRynb60JVtuW.avif"
 +++

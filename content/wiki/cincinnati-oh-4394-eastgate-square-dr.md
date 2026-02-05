@@ -5,7 +5,7 @@ title = "Cincinnati, OH (4394 Eastgate Square Dr)"
 startDate = "1990-06-17"
 endDate = ""
 pageThumbnailFile = "kKCPkC8vdXPffxccO69E.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0", "https://www.youtube.com/watch?v=dt4U-J2kioQ", "https://www.youtube.com/watch?v=gncBc5Ru8Pw", "https://www.youtube.com/watch?v=tRZH6lOgSbw", "https://www.facebook.com/photo.php?fbid=1104755625678&set=a.1268012426996", "https://www.newspapers.com/article/the-cincinnati-enquirer/137691294/", "https://www.youtube.com/watch?v=uYbS8yvsuHU", "CEC Workday page", "https://www.instagram.com/explore/locations/1960685/chuck-e-cheese/recent/", "https://www.youtube.com/watch?v=_hR5M5f0KvY", "https://www.instagram.com/p/C5g1QN1JDhV/?img_index=1", "Internal CEC Document", "https://www.youtube.com/watch?v=bqldZsbOUEg", "https://youtube.com/shorts/forMwIdOiEk?si=y8vJxtgbv8hFU0Uq","Internal document"]
 storeNumber = "102"
 sqft = ""

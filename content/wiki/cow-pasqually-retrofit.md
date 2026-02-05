@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Unknown Manufacturers"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["StudioC","Anonymous","PizzaEntertainmentFanX"]
+contributors = ["StudioC","Anonymous","Pizza Entertainment Fan"]
 citations = []
 pageThumbnailFile = "pvsH9vM5DTWrrbuYRNPk.avif"
 +++

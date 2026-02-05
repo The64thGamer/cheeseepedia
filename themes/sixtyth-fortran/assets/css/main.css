@@ -1022,6 +1022,144 @@ img.remoji:hover {
    MISC HELPERS
    ========================= */
 
+/* Profile Header */
+.profile-header {
+  margin-top: 1rem;
+}
+
+.profile-banner {
+  width: 100%;
+  height: 10rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.profile-info-container {
+  padding: 1.5rem;
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+}
+
+.profile-avatar-section {
+  flex-shrink: 0;
+}
+
+.profile-avatar {
+  width: 7.5rem;
+  height: 7.5rem;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: -2rem;
+  
+}
+
+.profile-info {
+  flex: 1;
+  min-width: 0; 
+}
+
+.profile-name {
+  margin: 0 0 0.5rem 0;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.2;
+}
+
+.profile-rank {
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.profile-rank .gradient-text {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 100%;
+  display: inline-block;
+}
+
+.profile-rank sup {
+  font-size: 0.8em;
+  margin-left: 0.25rem;
+  opacity: 0.8;
+}
+
+.profile-bio {
+  margin-bottom: 1rem;
+}
+
+.profile-links {
+  margin-top: 1rem;
+}
+
+.profile-forum-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  background: var(--aqua);
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 500;
+  transition: background 0.2s;
+  color: var(--white);
+}
+
+.profile-forum-link svg {
+  flex-shrink: 0;
+}
+
+/* Reviews Section */
+.reviews-section {
+  margin: 1rem 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .profile-info-container {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .profile-avatar {
+    margin-top: -60px;
+  }
+  
+  .profile-name {
+    font-size: 1.5rem;
+  }
+  
+  .profile-banner {
+    height: 150px;
+  }
+}
+
+/* Existing gradient-text class support */
+.gradient-text {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 100%;
+}
+
+.contributor-btn{
+   text-shadow: 0rem 0rem .3rem rgba(0, 0, 0, 0.85);
+}
+
+.contributor-avatar {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  object-fit: cover;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+
+}
+
 .contributors {
   color: var(--yellow);
   word-wrap: break-word;

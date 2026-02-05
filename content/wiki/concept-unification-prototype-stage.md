@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "ZQOtd8ph5qqRwmzPTRw8.avif"
 startDate = "1989-00-00"
 endDate = "1990-06-00"
-contributors = ["Nostalgia Cow","Midwestretail","ChuckEPediaIsTheBest!","CEC Tinley","Caydenpedia","Stripes","The 64th Gamer","Saan1ty","YBP123","CyberSnout"]
+contributors = ["Nostalgia Cow","Midwestretail","ChuckEPediaIsTheBest!","CEC Tinley","Caydenpedia","Stripes","The 64th Gamer","Saan1ty","YBP123","Cyber Snout"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=OaBv_EGz7_c\">https://www.youtube.com/watch?v=OaBv_EGz7_c</a>"]
 +++
 

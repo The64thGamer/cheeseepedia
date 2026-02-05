@@ -8,7 +8,7 @@ credits = ["Producer - Sundance Productions","Writer - Steve White","Composer - 
 showtapeFormats = ["Cyberamics Reel","C&R SVHS (Pre-93)"]
 startDate = "1989-07-00"
 endDate = "1990-00-00"
-contributors = ["Ceclife13","Cybersnout"]
+contributors = ["Ceclife13","Cyber Snout"]
 +++
 
 ***Birthday Extravaganza (ShowBiz Branded)*** first released in July 1989 for ShowBiz Pizza Place locations with the Pizza Time Players. It would be avaliable as a "Special" from the Cyberstar Panel until 1990 when it be removed leaving {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}} as the only option. 

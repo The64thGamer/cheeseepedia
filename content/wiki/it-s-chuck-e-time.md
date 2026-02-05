@@ -6,7 +6,7 @@ tags = ["In-Store Merchandise"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1997-00-00"
 endDate = "0000-00-00"
-contributors = ["CyberSnout","The 64th Gamer"]
+contributors = ["Cyber Snout","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "Qutn7vEcN6LitnJtLNTP.avif"
 +++

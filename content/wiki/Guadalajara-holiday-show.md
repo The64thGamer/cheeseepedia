@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "IntHolidayMexico.avif"
 startDate = "2020-11-19"
 endDate = "2020-00-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 +++
 **International Holiday Mexico Show** was a fan-made Holiday show for the Guadalajara (Urban Center), Mexico location. This show was created as the controller had broken, and video was able to be played via HDMI. The contents of this showtape is mostly lost with just small aspects being known. The following is not an accurate representation of the list but instead a list of known content. 
 

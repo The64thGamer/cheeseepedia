@@ -4,7 +4,7 @@ title = "Charlie Cheese's Pizza Playhouse"
 startDate = ""
 endDate = ""
 pageThumbnailFile = "vtBf_VI9WD9KJq1IFRL1.avif"
-contributors = ["CECBowlingGreen", "The 64th Gamer", "RessiduePezzzado", "Pench0782", "CorrectorMan", "Tux Chuck", "PizzaEntertainmentFanX"]
+contributors = ["CECBowlingGreen", "The 64th Gamer", "RessiduePezzzado", "Pench0782", "CorrectorMan", "Tux Chuck", "Pizza Entertainment Fan"]
 citations = ["https://chucke.fandom.com/wiki/Charlie_Cheese%27s_Pizza_Playhouse?file=Charlie_Cheese_plush.jpg", "https://showbizpizza.com/ceccollect/related/index.html"]
 tags = ["Companies/Brands"]
 categories = ["Pizza Time Theatre"]

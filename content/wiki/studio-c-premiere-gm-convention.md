@@ -7,7 +7,7 @@ citations = ["https://youtu.be/7kC1qclicAM?si=vx50eRfN3YnkftE-"]
 pageThumbnailFile = "StudioCPreLasVegas.avif"
 startDate = "1998-02-00"
 endDate = "1998-02-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 +++
 **Studio C Premiere GM Convention** was the showtape created for the GM Convention in 1998. Day 1 of the GM Convention would play {{< wiki-link "Studio C Premiere" >}}.{{< cite 1 >}} 
 

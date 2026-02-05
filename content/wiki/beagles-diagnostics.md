@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "BeaglesPromo.avif"
-contributors = ["The 64th Gamer","CyberSnout"]
+contributors = ["The 64th Gamer","Cyber Snout"]
 citations = [""]
 +++
 **Beagles Diagnostics** was released in 1985. Each movement would be tested 10 times. 

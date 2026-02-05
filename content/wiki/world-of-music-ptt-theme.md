@@ -5,7 +5,7 @@ tags = ["Stage Variations"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","BigCtheDataFinder","Sponch man","CECMentor"]
+contributors = ["The 64th Gamer","BigCDataFinder ","Sponch man","CECMentor"]
 citations = []
 +++
 The ***Pizza Time Theatre World of Music Theme* was a temporary alteration to the stage and character designs for use in the March 1983 {{< wiki-link "Madame Oink IV - The Tune Machine" >}} showtape.**

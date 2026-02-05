@@ -7,7 +7,7 @@ startDate = "1990-00-00"
 endDate = "1990-00-00"
 pageThumbnailFile = "chuckeparade.avif"
 credits = ["Producer - Sundance Productions","Writer - Steve White","Composer - David Wolf","Vocal Arrangements - David Roth","Scott Wilson - Voice of Chuck E. Cheese", "Connie Nelson - Voice of Helen Henny", "Scott Wilson - Voice of Mr. Munch", "Bob West - Voice of Jasper T. Jowls", "Bob West - Voice of Pasqually The Chef","'Pure Imagination' originally by Leslie Bricusse and Anthony Newley","'Hey, Look Me Over' originally by Cy Colman","'At the Hop' originally by Artie Singer, John Medora and David White"]
-contributors = ["CyberSnout","The 64th Gamer"]
+contributors = ["Cyber Snout","The 64th Gamer"]
 citations = ["https://www.youtube.com/watch?v=P-GdkAKhpHA"]
 mediaDuration = "8:40"
 +++

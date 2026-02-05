@@ -7,7 +7,7 @@ categories = ["Creative Engineering"]
 
 startDate = ""
 endDate = ""
-contributors = ["Animatronicanimationdude","CorrectorMan","Saan1ty","BurgersNuggs445","The 64th Gamer","GallaRBX2","YBP123","Montfortdog"]
+contributors = ["Animatronicanimationdude","CorrectorMan","Saan1ty","BurgersNuggs445","The 64th Gamer","GallaRM","YBP123","Montfortdog"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/promo/cei/cei_moonrockers.pdf\">https://www.showbizpizza.com/info/promo/cei/cei_moonrockers.pdf</a>"]
 pageThumbnailFile = "BTDHx83cBYUKC8eIPfd5.avif"
 +++

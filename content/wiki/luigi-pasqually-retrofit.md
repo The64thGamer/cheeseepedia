@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Jungle Jim's"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["https://www.youtube.com/watch?v=EQz1McBv0fw","https://www.flickr.com/photos/189618002@N05/52860584165/in/dateposted-public/"]
 pageThumbnailFile = "DzCfXnOtKUqUIa3vrSQd.avif"
 +++

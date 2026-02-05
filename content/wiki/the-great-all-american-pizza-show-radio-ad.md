@@ -3,7 +3,7 @@ draft = false
 title = "The Great All-American Pizza Show! (Radio Ad)"
 startDate = "1979-00-00"
 endDate = ""
-contributors = ["Studio 18 Ent", "RessiduePezzzado", "Anonymous", "Anonymous", "PizzaEntertainmentFanX", "CyberSnout", "Luigigamin212"]
+contributors = ["Studio 18 Ent", "RessiduePezzzado", "Anonymous", "Anonymous", "Pizza Entertainment Fan", "Cyber Snout", "Luigigamin212"]
 citations = [" [To The Ad Audio](%22Link%22) https://www.youtube.com/watch?v=X08DBu9jAwg", " [To The Alt-Take](%22Link%22) https://www.youtube.com/watch?v=jeFGpTbOlEc"]
 transcriptions = ["The Great All American Pizza Show Radio Ad"]
 tags = ["Commercials"]

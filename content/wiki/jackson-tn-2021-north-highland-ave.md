@@ -5,7 +5,7 @@ title = "Jackson, TN (2021 North Highland Ave)"
 startDate = "2003-07-30"
 endDate = "2025-11-23"
 pageThumbnailFile = "ziveu743ofetjjh3.avif"
-contributors = ["Cybersnout"]
+contributors = ["Cyber Snout"]
 citations = ["https://www.newspapers.com/article/the-jackson-sun-chuck-e-cheese-jackson/184908859/", "https://www.facebook.com/share/p/17ph5ggoBK/", "https://www.newspapers.com/article/the-jackson-sun/38959649/", "https://www.instagram.com/explore/locations/10548091/chuck-e-cheese/recent/", "https://www.youtube.com/watch?v=e_auIC84vLQ", "https://www.youtube.com/watch?v=6D8LvUzYg6M", "Employee correpondance"]
 storeNumber = "667"
 sqft = "7,400"

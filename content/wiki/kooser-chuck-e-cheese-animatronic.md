@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 startDate = "1978-12-00"
 endDate = "1980-05-00"
-contributors = ["StarToday77","The 64th Gamer","KPIZZA03","PizzaEntertainmentFanX"]
+contributors = ["StarToday77","The 64th Gamer","KPIZZA03","Pizza Entertainment Fan"]
 citations = ["https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf","https://www.showbizpizza.com/info/articles/cec/ptt_79fsm.pdf","https://www.youtube.com/watch?v=EdKLsomLbtY",""," [(Archive/Reupload)](%22https://www.youtube.com/watch?v=rysOEeSnBL0%22)"]
 pageThumbnailFile = "Iem9F4tyfNo2vct06_qu.avif"
 unitsProduced = "1"

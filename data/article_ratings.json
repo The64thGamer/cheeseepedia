@@ -1006,7 +1006,7 @@
     "start_year": 2024,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -7596,7 +7596,7 @@
     "start_year": 2013,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 0
   },
   {
@@ -23130,16 +23130,6 @@
     "rating": 0
   },
   {
-    "title": "First Quarter 2013",
-    "page_path": "content/wiki/january-2013-show.md",
-    "startDate": "2013-01-00",
-    "start_year": 2013,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 7,
-    "rating": 0
-  },
-  {
     "title": "North Edmonton, Alberta, Canada (14245 137th Ave)",
     "page_path": "content/wiki/north-edmonton-alberta-canada-14245-137th-ave.md",
     "startDate": "2005-10-18",
@@ -25676,7 +25666,7 @@
     "start_year": 2012,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -36167,6 +36157,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 3,
+    "rating": 0
+  },
+  {
+    "title": "First Quarter 2013",
+    "page_path": "content/wiki/first-quarter-2013.md",
+    "startDate": "2013-01-00",
+    "start_year": 2013,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 7,
     "rating": 0
   },
   {
@@ -51250,6 +51250,16 @@
     "rating": 0
   },
   {
+    "title": "Spee-Lunker's Cave",
+    "page_path": "content/wiki/spee-lunker-cave.md",
+    "startDate": "1964-05-00",
+    "start_year": 1964,
+    "category": "Six Flags",
+    "tag": "Arcades & Attractions",
+    "contributors_count": 1,
+    "rating": 1
+  },
+  {
     "title": "Classic Stage",
     "page_path": "content/wiki/classic-stage.md",
     "startDate": "1980-08-14",
@@ -57417,7 +57427,7 @@
     "category": "Pizza Time Theatre",
     "tag": "Costumed Characters",
     "contributors_count": 1,
-    "rating": 0
+    "rating": 1
   },
   {
     "title": "Mijjinator",

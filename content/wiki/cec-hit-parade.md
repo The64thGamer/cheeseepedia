@@ -4,7 +4,7 @@ title = "CEC Hit Parade"
 startDate = "1985-04-00"
 endDate = "1985-06-00"
 pageThumbnailFile = "hitparade.avif"
-contributors = ["Luigigamin212","CyberSnout"]
+contributors = ["Luigigamin212","Cyber Snout"]
 citations = ["https://www.youtube.com/playlist?list=PLz0bp-Ui5yPAIMbt2vRMLLnm2FKinNWpV"]
 showtapeFormats = ["Cyberamics Reel"]
 tags = ["Showtapes"]

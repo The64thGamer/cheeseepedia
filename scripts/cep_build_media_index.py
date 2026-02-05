@@ -108,16 +108,6 @@ def read_frontmatter(path: str):
                 return toml.loads(fm_txt)
             except Exception:
                 return {}
-    # YAML frontmatter
-    elif txt.startswith("---"):
-        parts = re.split(r"(?m)^---\s*$", txt)
-        if len(parts) >= 3 and yaml:
-            fm_txt = parts[1].strip()
-            try:
-                return yaml.safe_load(fm_txt) or {}
-            except Exception:
-                return {}
-
     return {}
 
 

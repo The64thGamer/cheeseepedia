@@ -6,7 +6,7 @@ tags = ["Social Media and Websites"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["CECBowlingGreen","Anonymous","CyberSnout","BurgersNuggs445"]
+contributors = ["CECBowlingGreen","Anonymous","Cyber Snout","BurgersNuggs445"]
 citations = []
 pageThumbnailFile = "s5DcakPOaskQIxOjp6pS.avif"
 +++
