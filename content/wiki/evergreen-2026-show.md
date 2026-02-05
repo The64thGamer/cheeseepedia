@@ -139,5 +139,5 @@ categories = ["Chuck E. Cheese's"]
 4. Chuck E. Bop (Media Navori)
 
 ## Trivia:
-1, 01/05 Update - 'Dippin' Dots + Chuck E.'s Cookie Crunch', 'A Chuck E. Cheese Christmas Trailer','KIDZ BOP Live The Concert Movie' and the second 'Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It' are removed.
+1. 01/05 Update - 'Dippin' Dots + Chuck E.'s Cookie Crunch', 'A Chuck E. Cheese Christmas Trailer','KIDZ BOP Live The Concert Movie' and the second 'Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It' are removed.
 2. 01/22 Update - 'Paris & Pups - Sliving in The Snow' is replaced with 'Paris & Pups - Valentines Day Dance Party'
