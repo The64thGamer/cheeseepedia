@@ -1,4 +1,3 @@
-
 import sys
 sys.dont_write_bytecode = True
 import subprocess
@@ -73,23 +72,26 @@ def fetch_discourse_users():
             if not data.get('meta', {}).get('load_more_directory_items'): break
             page += 1
 
-        # Count contributors from Wiki files
+        # Count contributors from Wiki and Transcriptions files
         contributor_counts = {}
-        wiki_dir = "./content/wiki"
-        if os.path.exists(wiki_dir):
-            for root, _, files in os.walk(wiki_dir):
-                for file in files:
-                    if file.endswith('.md'):
-                        try:
-                            with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
-                                # Standardizing TOML loading
-                                post = frontmatter.load(f, handlers=[TOMLHandler()])
-                                contributors = post.get('contributors', [])
-                                if isinstance(contributors, list):
-                                    for c in contributors:
-                                        if c: contributor_counts[c] = contributor_counts.get(c, 0) + 1
-                        except Exception as e:
-                            print(f"    Error processing {file}: {e}")
+        content_dirs = ["./content/wiki", "./content/transcriptions"]
+        
+        for content_dir in content_dirs:
+            if os.path.exists(content_dir):
+                print(f"  Counting contributors from {content_dir}...")
+                for root, _, files in os.walk(content_dir):
+                    for file in files:
+                        if file.endswith('.md'):
+                            try:
+                                with open(os.path.join(root, file), 'r', encoding='utf-8') as f:
+                                    # Standardizing TOML loading
+                                    post = frontmatter.load(f, handlers=[TOMLHandler()])
+                                    contributors = post.get('contributors', [])
+                                    if isinstance(contributors, list):
+                                        for c in contributors:
+                                            if c: contributor_counts[c] = contributor_counts.get(c, 0) + 1
+                            except Exception as e:
+                                print(f"    Error processing {file}: {e}")
 
         matched_wiki_names = set()
 
