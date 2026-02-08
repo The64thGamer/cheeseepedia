@@ -39410,6 +39410,22 @@
       "content": ""
     }
   ],
+  "Scottsdale, AZ (8890 E Indian Bend Rd)": [
+    {
+      "name": "Scottsdale01.avif",
+      "page_path": "content/photos/scottsdale01avif",
+      "hasFile": true,
+      "startDate": "0000-00-00",
+      "content": "Exterior of Scottsdale, AZ"
+    },
+    {
+      "name": "_0zOCSFt5J2wSSn75Hxk.avif",
+      "page_path": "content/photos/0zocsft5j2wssn75hxkavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": ""
+    }
+  ],
   "San Antonio, TX (11735 Bandera Rd)": [
     {
       "name": "dqpud6kuHelBIpZ7Z8Ad.avif",
@@ -62288,15 +62304,6 @@
     {
       "name": "zHMXbeLjCFIQsUoUREWv.avif",
       "page_path": "content/photos/zhmxbeljcfiqsuourewvavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": ""
-    }
-  ],
-  "Scottsdale, AZ (8890 E Indian Bend Rd)": [
-    {
-      "name": "_0zOCSFt5J2wSSn75Hxk.avif",
-      "page_path": "content/photos/0zocsft5j2wssn75hxkavif",
       "hasFile": true,
       "startDate": "",
       "content": ""

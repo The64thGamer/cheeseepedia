@@ -104,7 +104,7 @@ pageThumbnailFile = "AK1gcob301d1C8__YLdA.avif"
 - Sometime in August, Gene Landrum would quit his job at National Semiconductor to work fully at Atari.{{< cite 3 >}} Atari opens the *Restaurant Operating Division* of the company to pursue the restaurant concept, Gene Landrum is appointed as General Manager of the division and President of the *Atari Consumer Division*.<sup>(12)(2)</sup> By this point Gene begins searching for a 6,000 square foot building to house the first location.{{< cite 39 >}}
 
 #### Late 1976 (or early 1977)
-- Gene goes to the city of San Jose with a Chuck E. Cheese mascot. The mascot kisses the hand of the mayor, and hands out popsicles and lollipops to the city council members.{{< cite 45 >}}
+- Gene goes to the city of San Jose with a Big Cheese mascot. The mascot kisses the hand of the mayor, and hands out popsicles and lollipops to the city council members.{{< cite 45 >}}
 - Gene called the CEO of Round Table Pizza for guidance on running the upcoming chain. He would then meet with the CEO and explain the plans for the restaurant, to which the CEO was baffled and couldn't understand Gene's plans for putting fantasy characters in his restaurant and to have them walking around. Gene was then directed to the CFO, which laid out Round Table Pizza's costs for food, labor, and more- "...he gave me every number I ever wanted...".{{< cite 45 >}}
 
 #### September
@@ -125,10 +125,10 @@ pageThumbnailFile = "AK1gcob301d1C8__YLdA.avif"
 
 #### February
 
-- Sometime within the month an internal announcement at Atari would be made regarding the future {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} store. It is unclear what form this announcement was made, but likely could have been a prior unseen issue of the Gospel of St. Pong.{{< cite 18 >}} The announcement is described as being made by the Big C himself, stating to 'hang on a bit longer until the new restaurant is opened', citing delays with the city of San Jose- likely related to permits.{{< cite 19 >}}
+- Sometime within the month an internal announcement at Atari would be made regarding the future {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} store. It is unclear what form this announcement was made, but likely could have been a prior unseen issue of the Gospel of St. Pong.{{< cite 18 >}} The announcement is described as being made by the Big Cheese himself, stating to 'hang on a bit longer until the new restaurant is opened', citing delays with the city of San Jose- likely related to permits.{{< cite 19 >}}
 
 #### March
-
+- Sometime "3 or 4 weeks before opening" lawyers would report that "The Big Cheese" was trademarked by Marriott Hotels. After a few beers Gene and Nolan would brainstorm names, and after a discussion about Disney being a competitor, and realizing Mickey's name was said like "Mick-E-Mouse", they came up with "Chuck E. Cheese" as the new name. "The Big C." would become his nickname.{{< cite 45 >}}
 - On the 7th, the last permit is filed under the original owners of the Winchester location.
   {{< cite 41 >}}
 - On the 17th, a filing for a permit at the Winchester location is done by 'Atari (Chuckies Cheese)', the only permit specifically under Atari.
