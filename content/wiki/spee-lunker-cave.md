@@ -5,7 +5,7 @@ endDate = "1991-00-00"
 citations = ["https://authorclint.weebly.com/uploads/1/0/1/5/10156594/six_flags_over_texas_-_50_years_of_entertainment.pdf", "https://www.dafe.org/articles/darkrides/spee-LunkerCave.html", "https://parktimes.com/ptsarticles/welcome/sections/oldsouth/speelunker-cave/", "https://www.youtube.com/watch?v=aj8GnA9hm4Q", "https://amusementsource.myshopify.com/products/speelunker-cave-ride-original-concept-layout-poster", "https://books.google.com/books?id=tPpDAAAAIBAJ&pg=PA23#v=onepage&q&f=false"] 
 contributors = ["Pizza Entertainment Fan"] 
 pageThumbnailFile = "" 
-tags = ["Arcades & Attractions"] 
+tags = ["Arcades and Attractions"] 
 categories = ["Six Flags"] 
 draft = false
 +++
