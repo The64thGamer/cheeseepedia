@@ -23,4 +23,4 @@ Only 7 stores are currently known to have existed, but it is stated that several
 - {{< wiki-link "San Jose, CA (925 Blossom Hill Rd)" >}}
 - {{< wiki-link "Orange, CA (1500 East Village Way)" >}}
 - {{< wiki-link "Northridge, CA (Atari Game Center)" >}} {{< cite 6 >}}
-- {{< wiki-link "Salinas, CA (796 Northridge Shopping Ctr)" >}} {{< cite 7 >}}
+- {{< wiki-link "Salinas, CA (796 Northridge Dr)" >}} {{< cite 7 >}}
