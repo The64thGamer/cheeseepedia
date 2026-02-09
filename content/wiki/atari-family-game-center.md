@@ -15,12 +15,11 @@ The arcades would exclusively house Atari arcade games, built with custom cabine
 
 ## Locations
 
-Only 7 stores are currently known to have existed, but it is stated that several were produced.{{< cite 1 >}}
+Only 6 stores are currently known to have existed, but it is stated that several were produced.{{< cite 1 >}}
 
 - {{< wiki-link "San Leandro, CA (E. 14th St. at 155th Ave.)" >}}{{< cite 2 >}}
 - {{< wiki-link "San Jose, CA (2200 Eastridge Loop)" >}}
 - {{< wiki-link "Santa Clara, CA (2151 Laurelwood Road)" >}}
 - {{< wiki-link "San Jose, CA (925 Blossom Hill Rd)" >}}
 - {{< wiki-link "Orange, CA (1500 East Village Way)" >}}
-- {{< wiki-link "Northridge, CA (Atari Game Center)" >}} {{< cite 6 >}}
-- {{< wiki-link "Salinas, CA (796 Northridge Dr)" >}} {{< cite 7 >}}
+- {{< wiki-link "Salinas, CA (796 Northridge Dr)" >}} {{< cite 6 >}} {{< cite 7 >}}
