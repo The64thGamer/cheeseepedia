@@ -25151,6 +25151,102 @@
       "sort": "19820700"
     }
   ],
+  "attractions|Air Hockey": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Air Hockey",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
+      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
+      "page_title": "Stockton, CA (4555 N Pershing Ave)",
+      "parts": [
+        "Air Hockey",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in December 1980."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Indy 800": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Indy 800",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Tank": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Tank",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Pong": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Pong",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Track 10": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Track 10",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Shark-Jaws": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Shark-Jaws",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    }
+  ],
   "stages|Studio C Alpha/Small Town Mix": [
     {
       "page_get": "wiki/jeddah-corniche-road-saudi-arabia",
@@ -34288,20 +34384,6 @@
       "page_title": "Stockton, CA (4555 N Pershing Ave)",
       "parts": [
         "Galaxy",
-        "0000-00-00",
-        "0000-00-00",
-        "Seen in December 1980."
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Air Hockey": [
-    {
-      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
-      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
-      "page_title": "Stockton, CA (4555 N Pershing Ave)",
-      "parts": [
-        "Air Hockey",
         "0000-00-00",
         "0000-00-00",
         "Seen in December 1980."
