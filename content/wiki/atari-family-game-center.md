@@ -22,4 +22,4 @@ Only 6 stores are currently known to have existed, but it is stated that several
 - {{< wiki-link "Santa Clara, CA (2151 Laurelwood Road)" >}}
 - {{< wiki-link "San Jose, CA (925 Blossom Hill Rd)" >}}
 - {{< wiki-link "Orange, CA (1500 East Village Way)" >}}
-- {{< wiki-link "Salinas, CA (796 Northridge Dr)" >}} {{< cite 6 >}} {{< cite 7 >}}
+- {{< wiki-link "Salinas, CA (796 Northridge Shopping Center)" >}} {{< cite 6 >}} {{< cite 7 >}}
