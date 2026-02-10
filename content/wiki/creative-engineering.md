@@ -79,7 +79,7 @@ The company is most well known for its creation of the {{< wiki-link "Rock-afire
 ### 1980
 
 - At and Unknown Date, CEI sells a Hard Luck Bears to Blackpool Pleasure Beach in the Lancashire England.
-- At and Unknown Date, CEI sells a Hard Luck Bears to Knoebels in Elysburg, Pennsylvania, However this could have been earlier. The SHow is later Opened in Late May of that year. {{< Cite 17 >}}
+- At and Unknown Date, CEI sells a Hard Luck Bears to Knoebels in Elysburg, Pennsylvania, However this could have been earlier. The show is later opened in late May of that year. {{< Cite 17 >}}
 
 ### 1981
 
