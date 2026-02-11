@@ -1,7 +1,11 @@
 {
   "series": {
     "Empty": 5298,
+<<<<<<< Updated upstream
     "Very Bad": 523,
+=======
+    "Very Bad": 516,
+>>>>>>> Stashed changes
     "Bad": 118,
     "Good": 47,
     "Great": 25
@@ -15,7 +19,11 @@
   ],
   "values": [
     5298,
+<<<<<<< Updated upstream
     523,
+=======
+    516,
+>>>>>>> Stashed changes
     118,
     47,
     25
