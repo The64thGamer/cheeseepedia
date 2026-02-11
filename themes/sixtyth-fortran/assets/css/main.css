@@ -1116,10 +1116,9 @@ img.remoji:hover {
   padding: 0.625rem 1.25rem;
   background-color: var(--aqua);
   color: var(--white);
-  border: none;
-  border-radius: 0.375rem;
+  border: 0.25rem solid var(--brown);
+  border-radius: 0.75rem;
   cursor: pointer;
-  font-size: 0.875rem;
   font-family: "RockoFLF";
 }
 
