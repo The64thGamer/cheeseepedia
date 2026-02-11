@@ -1,17 +1,17 @@
 +++
-title = "CEC TV Classics (Canada)"
+title = "CEC TV Classics"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
+alsoKnownAs = ["027-0705-90 (C) S.P.T. Inc. CEC TV CLASSICS Serial #0022 Deck - 6 07/05/90 - Master HEADWOUND"]
 startDate = "1990-07-00"
 endDate = "1990-08-00"
-contributors = ["DerekCat"]
+contributors = ["DerekCat", "Ceclife13"]
 citations = []
 +++
-To Do:
-This is the Canada version that changed some songs and removed the commercial jingles from the USA version. The show lineup of songs, & videos are from {{< wiki-link "SPP FriendsMomsTVThemes" >}} the counterpart showtape released around the same time frame. It is importantly the first showtape to have three original segments made for this show, and it will be the standard moving forward until {{< wiki-link "You're A Star" >}} in September 1993.
+***CEC TV Classics*** is a showtape released in July 1990 which featured covers of various TV theme songs. The intermission lineup of songs & videos is from {{< wiki-link "SPP FriendsMomsTVThemes" >}} the counterpart showtape released around the same time frame. 
 
-## Show List:
+## SVHS Show List:
 
 1. **Intermission 1**
     1.  8 Minute Countdown
@@ -81,3 +81,40 @@ This is the Canada version that changed some songs and removed the commercial ji
     2.  It's Showtime!
 12. **Video 3**
     1.  [David Benoit - Linus And Lucy](https://en.wikipedia.org/wiki/This_Side_Up_(David_Benoit_album))
+
+## Reel Show List
+
+2. **Segment 1**
+    1.  [The TV Zone Skit (Parody of The Twlight Zone)](https://en.wikipedia.org/wiki/The_Twilight_Zone)
+    2.  [The Addams Family Theme](https://en.wikipedia.org/wiki/The_Addams_Family_(1964_TV_series))
+    3.  [Live Better Electrically Jingle](https://en.wikipedia.org/wiki/General_Electric)
+    4.  [Car 54 Where Are You? Theme & Skit](https://en.wikipedia.org/wiki/Car_54,_Where_Are_You%3F)
+    5.  [Final Jeopardy Skit](https://en.wikipedia.org/wiki/Jeopardy!)
+    6.  [The Patty Duke Show Theme](https://en.wikipedia.org/wiki/The_Patty_Duke_Show)
+6. **Segment 2**
+    1.  [Star Trek Skit](https://en.wikipedia.org/wiki/Star_Trek)
+    2.  [Gilligan's Island Theme & Skit](https://en.wikipedia.org/wiki/Gilligan%27s_Island)
+    3.  [Rawhide Theme](https://en.wikipedia.org/wiki/Rawhide_(TV_series))
+    4.  [The Chuck Van Dyke Show Skit (Parody of The Dick Van Dyke Show)](https://en.wikipedia.org/wiki/The_Dick_Van_Dyke_Show)
+    5.  [All in the Family Theme 'Those Were the Days'](https://en.wikipedia.org/wiki/All_in_the_Family)
+    6.  [The Jeffersons Theme 'Movin' on Up'](https://en.wikipedia.org/wiki/The_Jeffersons)
+3. **Special 1**
+    1.  Joy To The World Birthday
+4. **Special 2**
+    1.  Dancin' In The Street Birthday
+5. **Special 3**
+    1.  Beach Boys Birthday
+6. **Special 4**
+    1.  {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}}
+7. **Special 5**
+    1.  {{< wiki-link "Chuck E. Cheese Live" >}}
+8. **Special 6**
+    1.  {{< wiki-link "Birthday Extravaganza (Showbiz Branded)" >}}
+10. **Segment 3**
+    1.  [Alfred Hitch-Chuck Presents Skit (Parody of Alfred Hitchcock Presents)](https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents)
+    2.  [F-Troop Theme](https://en.wikipedia.org/wiki/F_Troop)
+    3.  [Leave It To Beaver Skit](https://en.wikipedia.org/wiki/Leave_It_to_Beaver)
+    4.  [The Many Loves of Dobie Gillis Theme 'Dobie'](https://en.wikipedia.org/wiki/The_Many_Loves_of_Dobie_Gillis)
+    5.  [I Love Lucy Skit](https://en.wikipedia.org/wiki/I_Love_Lucy)
+    6.  [The Rebel Theme 'The Ballad of Johnny Yuma'](https://en.wikipedia.org/wiki/The_Rebel_(American_TV_series))
+    7.  [Green Acres Theme](https://en.wikipedia.org/wiki/Green_Acres)
