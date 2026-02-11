@@ -6,7 +6,7 @@ tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2020-07-06"
 endDate = "2024-08-25"
-contributors = ["CECBowlingGreen","ShowBizMidwest","CyberSnout","Anonymous","StudioC","ChuckEPediaIsTheBest!","RedaCEC","Bowling for Cheese","CEC Tinley","CorrectorMan","Stripes","BurgersNuggs445","Caydenpedia"]
+contributors = ["CECBowlingGreen","ShowBizMidwest","Cyber Snout","Anonymous","StudioC","ChuckEPediaIsTheBest!","RedaCEC","Bowling for Cheese","CEC Tinley","CorrectorMan","Stripes","BurgersNuggs445","Caydenpedia"]
 citations = ["<ref></ref>","<a href=\"https://www.youtube.com/watch?v=pf2m1JIehL8\">https://www.youtube.com/watch?v=pf2m1JIehL8</a>"]
 pageThumbnailFile = "_mw5CT34dTw8p_XF0flK.avif"
 +++

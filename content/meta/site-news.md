@@ -148,12 +148,14 @@ In late December 2025 to January 2026, the site would recieve many CSS changes, 
 - **January 8th-** New robust searching feature is implemented to get away from the rigid tags and categories navigation, now with its own auto-tagging system based on article contents, linked articles, and page parameters.
 - **January 10th-** All Animatronic News articles are deleted and moved to the forums. The Monthly Topic is brought back, focusing on merchandise and products. Many pages are immediately updated.
 - **January 11th-** The homepage gets the article heirarchy removed, tags added to each page's bottom, and many articles which have a gallery but no thumbnail become fixed. Photos/Videos/etc now get the tags of their linked pages.
+- **January 25th-** Certain showtape articles are upgraded to support show playback with timestamps.
+- **February 3rd-** The wiki moves from DigitalOcean to a VPS due to high costs and no space. The site now doesn't auto-compile when a new commit is merged, and must be updated manually.
+- **February 3rd-** Users are overhauled to include new rank names, consistent displaying of users, and integration with the forums.
 
 ### Planned Upcoming Changes
 
 - Switch from Decap CMS to Sveltia CMS (2026) - Currently the site's editing system, Decap CMS, sucks really bad but is basically the only option for live editing with moderation tools. There is a fork of it called Sveltia CMS that's just a single link replacement to improve many aspects- but the problem is it currently hasn't implemented "Open Authoring", which allows people to automatically push updates to the site for approval. Their timeline says OA will be implemented after release in 2026, so it's just a waiting game for when that is done.
 One major flaw of Decap that will handicap moderation speeds is that image uploads are currently broken. Mods have to track down the file on the user's fork and upload it themselves through GitHub. There are also issues with pages having their live preview displayed.
-- User Page Upgrades (Unknown Time) - Plans to connect user pages with equivalent forum accounts, at minimum with just a simple link, or hopefully being able to poll an API for user profile pictures and other statuses.
 
 ## History of CEC Information Before CEP
 

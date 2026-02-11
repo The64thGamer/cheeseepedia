@@ -6,7 +6,7 @@ tags = ["Events"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2022-00-00"
 endDate = "0000-00-00"
-contributors = ["CyberSnout","Mousester","The 64th Gamer","Himitsu"]
+contributors = ["Cyber Snout","Mousester","The 64th Gamer","Himitsu"]
 citations = []
 pageThumbnailFile = "hOULC04X8Z5vwC9hDgF7.avif"
 +++

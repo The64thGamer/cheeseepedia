@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "HappyHolidays8486.avif"
 startDate = "1985-11-00"
 endDate = "1985-12-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 +++
 ***CEC Happy Holidays 1985*** was released in November 1985.
 

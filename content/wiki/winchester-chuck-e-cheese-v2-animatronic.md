@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 startDate = "1978-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Anonymous","JJperks","Maddox121","EagleScout610","RedaCEC","BurgersNuggs445","KPIZZA03","Anonymous","SonicFazbear","Anonymous","Chucke.show","Anonymous","PizzaEntertainmentFanX","Newbie editor","StarToday77"]
+contributors = ["The 64th Gamer","Anonymous","JJperks","Maddox121","EagleScout610","RedaCEC","BurgersNuggs445","KPIZZA03","Anonymous","SonicFazbear","Anonymous","Chucke.show","Anonymous","Pizza Entertainment Fan","Newbie editor","StarToday77"]
 citations = ["https://www.tapatalk.com/groups/retro_pizza_zone/viewtopic.php?p=1097#p1097","https://www.youtube.com/watch?v=5mqJMsr_PLU","https://www.tapatalk.com/groups/retro_pizza_zone/viewtopic.php?p=266#p266","https://www.tapatalk.com/groups/retro_pizza_zone/viewtopic.php?p=847#p847"]
 pageThumbnailFile = "17J40Rj0JZ7qg2BGqMBh.avif"
 unitsProduced = "1"

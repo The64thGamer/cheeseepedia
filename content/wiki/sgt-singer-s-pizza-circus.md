@@ -4,7 +4,7 @@ draft = false
 title = "Sgt. Singer's Pizza Circus"
 startDate = ""
 endDate = ""
-contributors = ["Lelmaster", "BigCtheDataFinder"]
+contributors = ["Lelmaster", "BigCDataFinder "]
 citations = ["<a href=\"https://arcadepreservation.fandom.com/wiki/Nickels_and_Dimes_Incorporated\">https://arcadepreservation.fandom.com/wiki/Nickels_and_Dimes_Incorporated</a>", "<a href=\"https://www.youtube.com/watch?v=b_L3v3LnhPk\">https://www.youtube.com/watch?v=b_L3v3LnhPk</a>", "<a href=\"https://www.instagram.com/p/Cy6jXxYJm_c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\">https://www.instagram.com/p/Cy6jXxYJm_c/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==</a>", "<a href=\"https://arcadepreservation.fandom.com/wiki/Sgt._Singer%27s_Pizza_Circus#Creative_Presentations_Inc\">https://arcadepreservation.fandom.com/wiki/Sgt._Singer%27s_Pizza_Circus#Creative_Presentations_Inc</a>", "<a href=\"https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf\">https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf</a>", "https://archive.org/details/sim_amusement-business_1986-05-03_98_17/page/n15/mode/2up?q=Sergeant+Striper"]
 tags = ["Animatronic Shows"]
 categories = ["Creative Presentations"]

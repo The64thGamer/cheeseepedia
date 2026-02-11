@@ -7,7 +7,7 @@ categories = ["Unknown Manufacturers"]
 
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["StudioC","Anonymous","Saan1ty","PizzaEntertainmentFanX","BenTrainFan2000"]
+contributors = ["StudioC","Anonymous","Saan1ty","Pizza Entertainment Fan","BenTrainFan2000"]
 citations = []
 pageThumbnailFile = "RJYUhN6CA1aPftITsXSG.avif"
 +++

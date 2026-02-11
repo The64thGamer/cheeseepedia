@@ -5,8 +5,8 @@ tags = ["Companies/Brands"]
 categories = ["Creative Engineering"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer", "PizzaEntertainmentFanX"]
-citations = ["https://www.youtube.com/@therockafire/videos","**(Jan 18th)**", "https://www.showbizpizza.com/info/promo/cei/cei_leafeater.pdf", "https://my.tke.org/theteke/Vol.%2074,%20No.%201%20PDF.pdf", "https://www.youtube.com/watch?v=A_9lontJDQA", "https://www.youtube.com/watch?v=NaDCHD_1Avg", "https://www.showbizpizza.com/info/promo/cei/cei_lazlo.pdf", "https://www.showbizpizza.com/info/promo/cei/cei_1977promo.pdf", "https://www.youtube.com/watch?v=oAWbobbXD3w", "https://www.showbizpizza.com/photos/misc/cei_early/index.html", "https://www.youtube.com/watch?v=P_xrIayIsV8", "https://www.showbizpizza.com/info/promo/cei/cei_postcard-wolfpack5.pdf", "https://www.showbizpizza.com/photos/misc/wolfpack5/02.jpg", "https://www.newspapers.com/article/richmond-times-dispatch-wp5-opens-at-kin/141674898/", "https://www.showbizpizza.com/info/promo/cei/cei_1980promo.pdf", "https://es.wikipedia.org/wiki/Mundom%C3%A1gico"]
+contributors = ["The 64th Gamer", "Pizza Entertainment Fan"]
+citations = ["https://www.youtube.com/@therockafire/videos","**(Jan 18th)**", "https://www.showbizpizza.com/info/promo/cei/cei_leafeater.pdf", "https://my.tke.org/theteke/Vol.%2074,%20No.%201%20PDF.pdf", "https://www.youtube.com/watch?v=A_9lontJDQA", "https://www.youtube.com/watch?v=NaDCHD_1Avg", "https://www.showbizpizza.com/info/promo/cei/cei_lazlo.pdf", "https://www.showbizpizza.com/info/promo/cei/cei_1977promo.pdf", "https://www.youtube.com/watch?v=oAWbobbXD3w", "https://www.showbizpizza.com/photos/misc/cei_early/index.html", "https://www.youtube.com/watch?v=P_xrIayIsV8", "https://www.showbizpizza.com/info/promo/cei/cei_postcard-wolfpack5.pdf", "https://www.showbizpizza.com/photos/misc/wolfpack5/02.jpg", "https://www.newspapers.com/article/richmond-times-dispatch-wp5-opens-at-kin/141674898/", "https://www.showbizpizza.com/info/promo/cei/cei_1980promo.pdf", "https://es.wikipedia.org/wiki/Mundom%C3%A1gico", "https://www.newspapers.com/image/816815494/?match=1&terms=Hard%20Luck%20Bears"]
 pageThumbnailFile = "dytSIYAyc13tQlyTjOoR.avif"
 +++
 ***Creative Engineering Inc.*** is an animatronics oriented entertainment and manufacturing company founded by ***Aaron Fechter*** in 1975 and stopped its major business ventures and employment in the early 2000's. It now continues to run solely by its creator as a {{< wiki-link "Creative Engineering Premium Video Service" >}}, animatronics / parts reseller, and (formerly) a fandom tourist destination, with most of these current operations inactive as they begin plans to open a {{< wiki-link "Creative Engineering Workshop" >}} and {{< wiki-link "Creative Engineering Museum" >}}.
@@ -79,7 +79,7 @@ The company is most well known for its creation of the {{< wiki-link "Rock-afire
 ### 1980
 
 - At and Unknown Date, CEI sells a Hard Luck Bears to Blackpool Pleasure Beach in the Lancashire England.
-- At and Unknown Date, CEI sells a Hard Luck Bears to Knoebels in Elysburg, Pennsylvania, However this could have been earlier.
+- At and Unknown Date, CEI sells a Hard Luck Bears to Knoebels in Elysburg, Pennsylvania, However this could have been earlier. The show is later opened in late May of that year. {{< Cite 17 >}}
 
 ### 1981
 

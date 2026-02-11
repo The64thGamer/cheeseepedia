@@ -7,7 +7,7 @@ categories = ["VP Animations"]
 
 startDate = ""
 endDate = ""
-contributors = ["BigCtheDataFinder"]
+contributors = ["BigCDataFinder "]
 citations = ["<a href=\"https://youtu.be/DqUgmo5Gl_4?si=EJVgwS8sJIUN9VA1&t=2486\">https://youtu.be/DqUgmo5Gl_4?si=EJVgwS8sJIUN9VA1&t=2486</a>","<a href=\"https://www.prnewswire.com/news-releases/farm-fresh-food-grocer-stew-leonards-opens-in-farmingdale-ny-300207159.html\">https://www.prnewswire.com/news-releases/farm-fresh-food-grocer-stew-leonards-opens-in-farmingdale-ny-300207159.html</a>","<a href=\"https://www.instagram.com/reel/Cj_PAZrjZs9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==\">https://www.instagram.com/reel/Cj_PAZrjZs9/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==</a>","<a href=\"https://youtu.be/hySlmeq7ju4?si=LC1G3q8Q9dojTCcR&t=350\">https://youtu.be/hySlmeq7ju4?si=LC1G3q8Q9dojTCcR&t=350</a>"]
 +++
 

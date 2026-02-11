@@ -2,7 +2,7 @@
 title = "DJ Munch's Legacy Haunted House Party Show 2024"
 startDate = "2024-09-30"
 endDate = "2024-11-03"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 pageThumbnailFile = "djmunchbootacular.avif"
 citations = []
 showtapeFormats = ["Legacy Navori"]

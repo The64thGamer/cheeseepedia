@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 pageThumbnailFile = "ADfK6_6FOLnt0VhBF1G2.avif"
 startDate = "1977-00-00"
 endDate = "1979-00-00"
-contributors = ["PizzaEntertainmentFanX"]
+contributors = ["Pizza Entertainment Fan"]
 citations = ["https://www.youtube.com/watch?v=P_xrIayIsV8"]
 +++
 

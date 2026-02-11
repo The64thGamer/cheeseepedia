@@ -5,7 +5,7 @@ tags = ["Animatronic Control Systems"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["Himitsu","The 64th Gamer","GallaRBX2"]
+contributors = ["Himitsu","The 64th Gamer","GallaRM"]
 citations = []
 downloadLinks = ["Cyberstar 2000 1.23.zip"]
 +++

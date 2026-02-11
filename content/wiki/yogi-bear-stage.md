@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1987-09-00"
 endDate = "1987-11-00"
 pageThumbnailFile = "yogibearstage.avif"
-contributors = ["Nostalgia Cow","The 64th Gamer","ChuckECool","Anonymous","Cheeseclassic","CyberSnout"]
+contributors = ["Nostalgia Cow","The 64th Gamer","ChuckECool","Anonymous","Cheeseclassic","Cyber Snout"]
 citations = ["https://www.showbizpizza.com/info/documents/spt/spt_yogi_cpi-quote.pdf","https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_installation.pdf","https://www.newspapers.com/article/omaha-world-herald/114529089/"]
 +++
 The **Yogi Bear Stage** was installed three Showbiz Pizza Place locations ({{< wiki-link "Omaha, NE (225 N 76th St)" >}},{{< wiki-link "Colorado Springs, CO (5156 N Academy Blvd)" >}}, and {{< wiki-link "Augusta, GA (3435 Wrightsboro Rd)" >}}). in September 1987 through November 1987. That same month the Yogi Bear stage would be reverted back to the {{< wiki-link "ShowBiz Pizza Campground" >}}. This was an effort enhance the appeal of the Rock-afire Explosion with the test marketing of licensed characters. This was done as the newly merged company was regaining its financial foothold.

@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1991-01-00"
 endDate = "1991-00-00"
 alsoKnownAs = ["CU Live 90 #1 (3 Stage) Serial #0093 Deck 3 04/05/91 - Master CYBERSTAR"]
-contributors = ["CyberSnout","The 64th Gamer"]
+contributors = ["Cyber Snout","The 64th Gamer"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=7fFr8LQnoC0\">https://www.youtube.com/watch?v=7fFr8LQnoC0</a>"]
 mediaDuration = "7:32"
 pageThumbnailFile = "t02zZfvxFldAQPZIWoct.avif"

@@ -82,7 +82,7 @@ APS files for showtapes exist for all shows starting sometime in 1990, all the w
 | Cyberamics | CEC Future C&amp;R APS                    | {{< wiki-link "CEC Future" >}}                  | January 10, 1991, 9:46:14 AM    | January 21, 1991, 9:36:14 AM   | .c&amp;r   |
 | Cyberamics | CEC Future Road Stage APS                 | {{< wiki-link "CEC Future" >}}                  | January 14, 1991, 11:55:36 AM   | January 21, 1991, 9:25:46 AM   | .roa       |
 | 3-Stage    | CEC Future 3-Stage APS                    | {{< wiki-link "CEC Future" >}}                  | February 7, 1991, 9:04:18 AM    | February 7, 1991, 9:52:42 AM   | .3st       |
-| Cabaret    | Beach Bowsers '91 I APS                   | {{< wiki-link "Beach Bowzers '91 I" >}}         | March 1, 1991, 6:23:54 PM       | March 11, 1991, 9:30:26 AM     | .bzr       |
+| Cabaret    | Beach Bowsers '91 I APS                   | {{< wiki-link "CEC Beach Bowzers Showtape" >}}         | March 1, 1991, 6:23:54 PM       | March 11, 1991, 9:30:26 AM     | .bzr       |
 | Cyberamics | Birthday Star '91 C&amp;R APS             | Birthday Star '91                                     | March 13, 1991, 8:36 AM         | March 22, 1991, 5:17:22 PM     | .c&amp;r   |
 | Cyberamics | Birthday Star '91 Road Stage APS          | Birthday Star '91                                     | March 13, 1991, 11:07:18 AM     | March 20, 1991, 4:39:42 PM     | .roa       |
 | Cyberamics | CEC American Pride Road Stage APS         | {{< wiki-link "CEC American Pride" >}}          | April 10, 1991, 1:55:38 PM      | April 10, 1991, 2:02:28 PM     | .roa       |

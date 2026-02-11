@@ -4,7 +4,7 @@ title = "Fall 2012 Show"
 startDate = "2012-09-01"
 endDate = "2012-11-25"
 pageThumbnailFile = "Vz3_taAouzzg0TZ6DxEa.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "CEC Denver", "Hollyb", "Anonymous", "Ceclife13", "Anonymous", "Anonymous", "Anonymous", "Cheeseclassic"]
+contributors = ["The 64th Gamer", "Cyber Snout", "CEC Denver", "Hollyb", "Anonymous", "Ceclife13", "Anonymous", "Anonymous", "Anonymous", "Cheeseclassic"]
 citations = []
 credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls, Singing Voice of Pasqually The Chef", "Earl Fisher - Voice of Pasqually The Chef", "Ryan Hollingsworth - Voice of Zoey, Steve Waters", "Paul Taylor - Larry The Technician", "Matt Daniel - Production Coordinator, Voice of Hard Hat Hank", "Michael Hill - Studio Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
@@ -21,28 +21,28 @@ categories = ["Chuck E. Cheese's"]
 2. **Intermission 1**
     1.  The Aquabats - 'Burger Rain'
     2.  'Say Cheese It's Funner'
-    3.  Chillout 1
+    3.  Chillout 1 - 'Desert'
 3. **Segment 2**
     1.  ['Life Is A Highway'](https://en.m.wikipedia.org/wiki/Life_Is_a_Highway)
     2.  ['Sparks Fly'](https://en.m.wikipedia.org/wiki/Sparks_Fly_(song))
 4. **Intermission 2**
     1.  Hard Hat Hank - 'Surprise'
     2.  VeggieTales - 'Supper Hero'
-    3.  Chillout 2
+    3.  Chillout 2 - 'Underwater'
 5. **Segment 3**
     1.  ['Shake Your Groove Thing'](https://en.m.wikipedia.org/wiki/Shake_Your_Groove_Thing)
     2.  'My Karate Kid' (parody of ['My Prerogative'](https://en.wikipedia.org/wiki/My_Prerogative)
 6. **Intermission 3**
     1.  The Aquabats - 'Science'
     2.  Ratings
-    3.  Chillout 3
+    3.  Chillout 3 - 'Electro Space'
 7. **Segment 4**
     1.  'Larry Go To The Store' (parody of ['Every Rose Has Its Thorn'](https://en.wikipedia.org/wiki/Every_Rose_Has_Its_Thorn)
     2.  ['This Is How We Do It'](https://en.m.wikipedia.org/wiki/This_Is_How_We_Do_It)
 8. **Intermission 4**
     1.  Veggietales - 'The League of Incredible Vegetables'
     2.  Rescue Bots - 'Rock Slide'
-    3.  Chillout 4
+    3.  Chillout 4 - 'Water Fly Over'
 
 ## Lives:
 

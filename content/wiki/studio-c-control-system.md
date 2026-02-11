@@ -8,7 +8,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = ""
 endDate = ""
-contributors = ["Himitsu","The 64th Gamer","Anonymous","CEC Tinley","GallaRBX2"]
+contributors = ["Himitsu","The 64th Gamer","Anonymous","CEC Tinley","GallaRM"]
 citations = []
 pageThumbnailFile = "YJb0H9PT_F5iZQutQ4Am.avif"
 +++

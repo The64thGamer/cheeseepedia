@@ -4,7 +4,7 @@ title = "Planes, Trains, And Automobiles"
 startDate = "1992-07-06"
 endDate = "1992-09-13"
 pageThumbnailFile = "mep966PSVMccx9ClxdO1.avif"
-contributors = ["DerekCat", "BurgersNuggs445", "The 64th Gamer", "CyberSnout", "Ceclife13"]
+contributors = ["DerekCat", "BurgersNuggs445", "The 64th Gamer", "Cyber Snout", "Ceclife13"]
 credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Annagrey Wiechman|Singing Voice of Helen Henny", "Charles Stewart|Songwriter, Singing Voice of Jasper T. Jowls", "Darby Orr|Songwriter"]
 citations = ["https://www.youtube.com/watch?v=6tD70Kte6_o", "https://archive.org/details/aps-red-case/r10.jpg"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)"]

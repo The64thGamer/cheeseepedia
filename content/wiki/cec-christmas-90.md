@@ -5,14 +5,15 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1990-11-00"
 endDate = "1990-12-00"
-contributors = ["The 64th Gamer","DerekCat","Rexburg090","CyberSnout"]
+contributors = ["The 64th Gamer","DerekCat","Rexburg090","Cyber Snout","Ceclife13"]
 citations = []
 pageThumbnailFile = "Christmas90icon.avif"
 showtapeFormats = ["C&R SVHS (Pre-93)","R12 SVHS (Pre-93)","Cyberamics Reel"]
 alsoKnownAs = ["140-1109-89(C) S. P. T. Inc.CEC Christmas 90 / Wave BdaySerial #004 Deck - 411/09/89 - Master CYBERSTAR","027-1101-90 (C) S. P. T. Inc. CEC CHRISTMAS 90 Serial #0014 Deck - 6 11/01/90 - Master HEADWOUND"]
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Christmas%2090/027-1101-90%20s0014.wav|Showtape Rip w/ Signals"]
 +++
 
-***CEC Christmas '90*** is a Christmas/Holiday themed showtape that played throughout all of December 1990. This is the last known show produced for "Cyberamics Reel"
+***CEC Christmas '90*** is a Christmas/Holiday themed showtape that played throughout all of December 1990. This is the last known showtape to be produced on reel for Cyberamics.
 
 ## Show List
 01. **Intermission 1**
@@ -70,6 +71,36 @@ alsoKnownAs = ["140-1109-89(C) S. P. T. Inc.CEC Christmas 90 / Wave BdaySerial #
     2. It's Showtime!
 12. **Video 2**
     1. [California Raisins - Rudolph the Red-Nosed Reindeer](https://en.wikipedia.org/wiki/A_Claymation_Christmas_Celebration)
+
+## Reel Show List:
+      
+1. **Segment 1**
+    1. Jingle Bells
+    2. Sleigh Ride
+    3. Rudolph the Red-Nosed Reindeer
+2. **Segment 2**
+    1. Santa Claus is Coming to Town
+    2. Twas The Night Before Christmas
+3. **Special 1**
+    1.  Joy To The World Birthday
+4. **Special 2**
+    1.  Dancin' In The Street Birthday
+5. **Special 3**
+    1.  Beach Boys Birthday
+6. **Special 4**
+    1.  {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}}
+7. **Special 5**
+    1.  {{< wiki-link "Chuck E. Cheese Live" >}}
+8. **Special 6**
+    1.  {{< wiki-link "Birthday Extravaganza (ShowBiz Branded)" >}}
+9. **Segment 3**
+    1. Twelve Days of Christmas
+10. **Segment 4**
+    1. The Christmas Song (Chestnuts Roasting on an Open Fire)
+    2. We Wish You a Merry Christmas
+    3. Winter Wonderland
+    4. Have Yourself a Merry Little Christmas
+    5. We Need a Little Christmas
 
 ## Production
 

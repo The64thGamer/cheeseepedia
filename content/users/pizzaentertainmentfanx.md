@@ -1,11 +1,11 @@
 +++
-title = "PizzaEntertainmentFanX"
+title = "Pizza Entertainment Fan"
 draft = false
 tags = ["User"]
 categories = ["User-Generated Content"]
 startDate = "2024-03-03"
 endDate = ""
-contributors = ["PizzaEntertainmentFanX"]
+contributors = ["Pizza Entertainment Fan"]
 citations = []
 +++
 

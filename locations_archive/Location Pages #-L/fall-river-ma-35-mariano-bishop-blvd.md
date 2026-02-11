@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1985-02-00"
 endDate = ""
-contributors = ["Cheeseclassic","BigCtheDataFinder"]
+contributors = ["Cheeseclassic","BigCDataFinder "]
 citations = []
 pageThumbnailFile = "46Vp0mhtHKaQ8nNWs2NM.avif"
 latitudeLongitude = ["41.67579112","-71.16420153"]

@@ -5,7 +5,7 @@ tags = ["Menu Items"]
 categories = ["Pizza Time Theatre"]
 startDate = "1977-05-00"
 endDate = "1978-12-00"
-contributors = ["PizzaEntertainmentFanX"]
+contributors = ["Pizza Entertainment Fan"]
 citations = ["https://www.showbizpizza.com/info/promo/ptt/ptt_program_ca.pdf","https://www.showbizpizza.com/info/promo/ptt//ptt_program_nc.pdf","https://www.showbizpizza.com/info/promo/ptt/ptt_77menu.pdf"]
 +++
 ***Crusty's Vegetarian Delight* was a pizza served only at the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}. The Pizza was based on Crusty the Cat.

@@ -7,7 +7,7 @@ latitudeLongitude = ["39.27718216891677", "-74.56620273165741"]
 
 startDate = "1929-00-00"
 endDate = ""
-contributors = ["Jamsxyz","The 64th Gamer","PizzaEntertainmentFanX","Cheeseclassic","Destinationimagination95"]
+contributors = ["Jamsxyz","The 64th Gamer","Pizza Entertainment Fan","Cheeseclassic","Destinationimagination95"]
 citations = ["<a href=\"https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637\">https://www.facebook.com/photo?fbid=902259228612658&set=a.559772806194637</a>","<a href=\"https://youtu.be/UvaBNUrgag4\">https://youtu.be/UvaBNUrgag4</a>"]
 pageThumbnailFile = "lRNw4fmA25YWY6IB1mk1.avif"
 +++

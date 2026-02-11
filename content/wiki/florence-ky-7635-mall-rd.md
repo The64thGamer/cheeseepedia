@@ -12,7 +12,7 @@ animatronics = ["Mr. Munch (Cyberamic)|1982-04-19|2003-00-00|N/A|mech sent to US
 sqft = "2,500"
 latitudeLongitude = ["38.99825842", "-84.65566588"]
 citations = ["https://www.newspapers.com/article/the-cincinnati-post/99572685/","https://www.youtube.com/watch?v=dhSpJSqxkn0","https://www.newspapers.com/article/the-cincinnati-enquirer/32415087/","https://www.newspapers.com/article/the-courier-journal/32427085/","https://www.instagram.com/p/CcGxjQavlow","https://www.youtube.com/watch?v=WFkViBxFxlc","https://www.newspapers.com/article/the-courier-journal/38825040/","https://www.newspapers.com/article/the-cincinnati-enquirer/38804479/","https://youtu.be/xUVm-D2eDck?si=YrOyqOPXLo-IYgT3&t=5620","https://youtu.be/sf6stbxEwjo?si=5aW2ZDINAdQL3jSO&t=2025","https://youtu.be/3pWf0YEJgxU?si=KdfDFaHsWf-AkQAD&t=5233","https://www.newspapers.com/article/the-cincinnati-enquirer-florence-expansi/147691436/","CEC Workday page","statement from tech","Internal CEC Document","https://www.instagram.com/explore/locations/1508155/chuck-e-cheese/recent/"]
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 downloadLinks = []
 pageThumbnailFile = "aEQwdC5UiLmBAXLVeM05.avif"
 tags = ["Locations"]

@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 startDate = "1978-12-00"
 endDate = "1980-05-00"
-contributors = ["PizzaEntertainmentFanX"]
+contributors = ["Pizza Entertainment Fan"]
 citations = ["https://www.youtube.com/watch?v=EdKLsomLbtY","https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf"]
 pageThumbnailFile = "gQsjQ8K5TYm9gZlzRyL6.avif"
 unitsProduced = "1"

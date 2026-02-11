@@ -5,7 +5,7 @@ tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2002-06-24"
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","StudioC","ChuckEPediaIsTheBest!","CorrectorMan","ThatBoiCydalan","The 64th Gamer","CyberSnout","BurgersNuggs445"]
+contributors = ["CECBowlingGreen","StudioC","ChuckEPediaIsTheBest!","CorrectorMan","ThatBoiCydalan","The 64th Gamer","Cyber Snout","BurgersNuggs445"]
 citations = ["<a href=\"https://www.showbizpizza.com/help/bulletin/05/bulletin_10-05.html\">https://www.showbizpizza.com/help/bulletin/05/bulletin_10-05.html</a>","<a href=\"https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf\">https://www.showbizpizza.com/info/documents/cec/cec_studiocmanual.pdf</a>","<ref></ref>","<ref></ref>"]
 pageThumbnailFile = "xsNh4EEG3zyFEm2vnjuS.avif"
 +++

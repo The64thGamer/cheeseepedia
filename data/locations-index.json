@@ -24685,6 +24685,18 @@
   ],
   "attractions|Cheese Crawl": [
     {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Cheese Crawl",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in a 1981 photograph."
+      ],
+      "sort": "00000000"
+    },
+    {
       "page_get": "wiki/san-jose-ca-370-s-winchester-blvd",
       "page_path": "content/wiki/san-jose-ca-370-s-winchester-blvd",
       "page_title": "San Jose, CA (370 S Winchester Blvd)",
@@ -25137,6 +25149,102 @@
         "1982-07-00"
       ],
       "sort": "19820700"
+    }
+  ],
+  "attractions|Air Hockey": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Air Hockey",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
+      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
+      "page_title": "Stockton, CA (4555 N Pershing Ave)",
+      "parts": [
+        "Air Hockey",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in December 1980."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Indy 800": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Indy 800",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Tank": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Tank",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Pong": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Pong",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Track 10": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Track 10",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Shark-Jaws": [
+    {
+      "page_get": "wiki/cupertino-corporate-copy-7",
+      "page_path": "content/wiki/cupertino-corporate-copy-7",
+      "page_title": "Salinas, CA (796 Northridge Shopping Center)",
+      "parts": [
+        "Shark-Jaws",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in March 27, 1976 Ad"
+      ],
+      "sort": "00000000"
     }
   ],
   "stages|Studio C Alpha/Small Town Mix": [
@@ -26012,6 +26120,18 @@
         "0000-00-00"
       ],
       "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Warlords",
+        "1981-00-00",
+        "0000-00-00",
+        "Seen in a 1981 photograph."
+      ],
+      "sort": "19810000"
     }
   ],
   "attractions|Skee Ball": [
@@ -26413,6 +26533,16 @@
       "sort": "00000000"
     },
     {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "SPT 1980's Remodel Program",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
       "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
       "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
       "page_title": "Stockton, CA (4555 N Pershing Ave)",
@@ -26441,16 +26571,6 @@
         "1989-00-00"
       ],
       "sort": "19890000"
-    },
-    {
-      "page_get": "wiki/st-louis-mo-2805-target-dr",
-      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
-      "page_title": "St. Louis, MO (2805 Target Dr)",
-      "parts": [
-        "SPT 1980's Remodel Program",
-        "1989-00-00 (Possibly)"
-      ],
-      "sort": "19890000 (Possibly)"
     },
     {
       "page_get": "wiki/lexington-ky-1555-new-circle-rd",
@@ -26528,6 +26648,16 @@
       "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
       "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd",
       "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "SPT 1990's Remodel Program",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
       "parts": [
         "SPT 1990's Remodel Program",
         "0000-00-00"
@@ -26744,9 +26874,9 @@
       "page_title": "St. Louis, MO (2805 Target Dr)",
       "parts": [
         "Phase 2 (1997)",
-        "199?-00-00"
+        "1997-00-00"
       ],
-      "sort": "199?0000"
+      "sort": "19970000"
     },
     {
       "page_get": "wiki/houston-tx-6760-antoine-dr",
@@ -27428,6 +27558,18 @@
         "Seen in Oct. 25, 1986 footage (1 unit) and seen in 1992 (2 units)"
       ],
       "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Pac-Man",
+        "1981-00-00",
+        "0000-00-00",
+        "At least 4 machines. Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
     }
   ],
   "attractions|Moon Lander": [
@@ -27508,6 +27650,18 @@
         "Single unit Red/Green variant. Seen in 1992."
       ],
       "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Whac-A-Munch",
+        "1981-00-00",
+        "0000-00-00",
+        "Rare 4-unit version. Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
     }
   ],
   "attractions|Sega Thunder Blade": [
@@ -28052,6 +28206,89 @@
         "2024-04-00"
       ],
       "sort": "20240400"
+    }
+  ],
+  "attractions|Jambo! Safari": [
+    {
+      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
+      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
+      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "parts": [
+        "Jambo! Safari",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in a photograph from around the late 1990s or 2000s."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Frogger (ICE)": [
+    {
+      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
+      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
+      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "parts": [
+        "Frogger (ICE)",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Black Hole (Coastal Amusements)": [
+    {
+      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
+      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
+      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "parts": [
+        "Black Hole (Coastal Amusements)",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in a photograph from October 2022."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Crossy Road Arcade": [
+    {
+      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
+      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
+      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "parts": [
+        "Crossy Road Arcade",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in a photograph from October 2022."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Rockin & Rollin": [
+    {
+      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
+      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
+      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "parts": [
+        "Rockin & Rollin",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in a photograph from October 2022."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Super Monkey Ball: Ticket Blitz": [
+    {
+      "page_get": "wiki/chicago-il-1830-w-fullerton-ave",
+      "page_path": "content/wiki/chicago-il-1830-w-fullerton-ave",
+      "page_title": "Chicago, IL (1830 W Fullerton Ave)",
+      "parts": [
+        "Super Monkey Ball: Ticket Blitz",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in a photograph from October 2022."
+      ],
+      "sort": "00000000"
     }
   ],
   "attractions|Super Fun by Chuck E. Cheese": [
@@ -30405,6 +30642,18 @@
   ],
   "attractions|Quik Drop": [
     {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Quik Drop",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021."
+      ],
+      "sort": "00000000"
+    },
+    {
       "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
       "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
       "page_title": "Kansas City, MO (8809 State Line Rd)",
@@ -30486,6 +30735,18 @@
   ],
   "attractions|Space Invaders Frenzy": [
     {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Space Invaders Frenzy",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    },
+    {
       "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
       "page_path": "content/wiki/cincinnati-oh-8801-colerain-ave",
       "page_title": "Cincinnati, OH (8801 Colerain Ave)",
@@ -30566,6 +30827,18 @@
     }
   ],
   "attractions|Terminator Salvation": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Terminator Salvation",
+        "0000-00-00",
+        "0000-00-00",
+        "Smallest model. Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    },
     {
       "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
       "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
@@ -30963,6 +31236,244 @@
       "sort": "19810000"
     }
   ],
+  "attractions|Astro Invaders": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Astro Invaders",
+        "1981-00-00",
+        "0000-00-00",
+        "Seen in a 1981 photograph."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Berzerk": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Berzerk",
+        "1981-00-00",
+        "0000-00-00",
+        "Seen in a 1981 photograph."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Crazy Climber": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Crazy Climber",
+        "1981-00-00",
+        "0000-00-00",
+        "Seen in a 1981 photograph."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Defender": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Defender",
+        "1981-00-00",
+        "0000-00-00",
+        "At least 4 machines plus a cocktail cabinet. Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Galaxian": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Galaxian",
+        "1981-00-00",
+        "0000-00-00",
+        "At least 2 machine. Seen in a 1981 photograph."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Gorf": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Gorf",
+        "1981-00-00",
+        "0000-00-00",
+        "At least 3 machines. Seen in a 1981 photograph."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Monaco GP": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Monaco GP",
+        "1981-00-00",
+        "0000-00-00",
+        "A sit-down and a regular cabinet. Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Omega Race": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Omega Race",
+        "1981-00-00",
+        "0000-00-00",
+        "Seen in a 1981 photograph."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Pizza Time Theatre Music Ferris Wheel": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Pizza Time Theatre Music Ferris Wheel",
+        "1981-00-00",
+        "0000-00-00",
+        "Head-only design. Seen in a 1981 photograph."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Pleiades": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Pleiades",
+        "1981-00-00",
+        "0000-00-00",
+        "At least 2 machines. Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Scramble": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Scramble",
+        "1981-00-00",
+        "0000-00-00",
+        "At least 2 machines. Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Skee Roll": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Skee Roll",
+        "1981-00-00",
+        "0000-00-00",
+        "At least 4 machines. Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Space Fury": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Space Fury",
+        "1981-00-00",
+        "0000-00-00",
+        "Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Star Castle": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Star Castle",
+        "1981-00-00",
+        "0000-00-00",
+        "At least 3 machines. Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Super Cobra": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Super Cobra",
+        "1981-00-00",
+        "0000-00-00",
+        "Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Tranquilizer Gun": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Tranquilizer Gun",
+        "1981-00-00",
+        "0000-00-00",
+        "Seen in photographs from 1981."
+      ],
+      "sort": "19810000"
+    }
+  ],
+  "attractions|Wizard of Wor": [
+    {
+      "page_get": "wiki/redwood-city-ca-380-convention-way",
+      "page_path": "content/wiki/redwood-city-ca-380-convention-way",
+      "page_title": "Redwood City, CA (380 Convention Way)",
+      "parts": [
+        "Wizard of Wor",
+        "1981-00-00",
+        "0000-00-00",
+        "Seen in a 1981 photograph."
+      ],
+      "sort": "19810000"
+    }
+  ],
   "stages|Family Album": [
     {
       "page_get": "wiki/ann-arbor-mi-2196-w-stadium-blvd",
@@ -31345,6 +31856,18 @@
   ],
   "attractions|NBA Hoops": [
     {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "NBA Hoops",
+        "0000-00-00",
+        "0000-00-00",
+        "2 machines. Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    },
+    {
       "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
       "page_path": "content/wiki/cincinnati-oh-8801-colerain-ave",
       "page_title": "Cincinnati, OH (8801 Colerain Ave)",
@@ -31368,6 +31891,18 @@
     }
   ],
   "attractions|Alley Roller Classic": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Alley Roller Classic",
+        "0000-00-00",
+        "0000-00-00",
+        "6 connected machines. Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    },
     {
       "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
       "page_path": "content/wiki/cincinnati-oh-8801-colerain-ave",
@@ -31567,6 +32102,18 @@
   ],
   "attractions|Jett Rider": [
     {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Jett Rider",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    },
+    {
       "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
       "page_path": "content/wiki/cincinnati-oh-8801-colerain-ave",
       "page_title": "Cincinnati, OH (8801 Colerain Ave)",
@@ -31761,6 +32308,18 @@
     }
   ],
   "attractions|Jackpot Xtreme": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Jackpot Xtreme",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021."
+      ],
+      "sort": "00000000"
+    },
     {
       "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
       "page_path": "content/wiki/cincinnati-oh-8801-colerain-ave",
@@ -32133,6 +32692,18 @@
   ],
   "attractions|Robin Hood": [
     {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Robin Hood",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021."
+      ],
+      "sort": "00000000"
+    },
+    {
       "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
       "page_path": "content/wiki/cincinnati-oh-8801-colerain-ave",
       "page_title": "Cincinnati, OH (8801 Colerain Ave)",
@@ -32471,6 +33042,814 @@
       "sort": "00000000"
     }
   ],
+  "attractions|Cave Mania": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Cave Mania",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Shooting Hoops 2000": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Shooting Hoops 2000",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Spider Stompin": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Spider Stompin",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|High Tops": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "High Tops",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Skee Ball Too!": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skee Ball Too!",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Super Shot": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Super Shot",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Artic Thunder": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Artic Thunder",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Amutec Carousel": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Amutec Carousel",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Barney": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Barney",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Barrel Of Fun": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Barrel Of Fun",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Bozo II": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Bozo II",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Buzy Bee": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Buzy Bee",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|CEC Air Hockey": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "CEC Air Hockey",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|CEC Photo Ride": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "CEC Photo Ride",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Chuck E. Duckies": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Chuck E. Duckies",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Crazy Balloon": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Crazy Balloon",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Dino Dash": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Dino Dash",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Drum": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Drum",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Fish N Fun": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Fish N Fun",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Football Fury": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Football Fury",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Frantic Fred": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Frantic Fred",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Frantic Fred",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Frog Song": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Frog Song",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Frog Song",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Funny Clette": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Funny Clette",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|JR Bob Bulldozer": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "JR Bob Bulldozer",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Jurassic Park": [
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Jurassic Park",
+        "199?-00-00",
+        "0000-00-00"
+      ],
+      "sort": "199?0000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Jurassic Park",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Kids Whac": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Kids Whac",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Magical Truck": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Magical Truck",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Memory Match": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Chuck E. Cheese's Memory Match",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Paint Game": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Paint Game",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Penalty Shootout": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Penalty Shootout",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Ripper Ribbit": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Ripper Ribbit",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Robo Bop": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Robo Bop",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Speed Shifter": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Speed Shifter",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Star Wars": [
+    {
+      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
+      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
+      "page_title": "Stockton, CA (4555 N Pershing Ave)",
+      "parts": [
+        "Star Wars",
+        "0000-00-00",
+        "0000-00-00",
+        "Played by customer in late 80's, early 90's."
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Star Wars",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Strike Fighter": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Strike Fighter",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Tele Dome": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Tele Dome",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Toddler Sidewinder": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Toddler Sidewinder",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Toddler Whac": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Toddler Whac",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Top Glo Water": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Top Glo Water",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Total Eclipse": [
+    {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "Total Eclipse",
+        "0000-00-00",
+        "2006-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Total Eclipse",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Train": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Train",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Wave Runner": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Wave Runner",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Chatty Chuck E.": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Chatty Chuck E.",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Pop A Tac Toe": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Pop A Tac Toe",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Bill Changers": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Bill Changers",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Bill Changers",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Water": [
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Water",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
+  "attractions|Skytubes": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Skytubes",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Skytubes",
+        "199?-00-00",
+        "200?-00-00"
+      ],
+      "sort": "199?0000"
+    },
+    {
+      "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
+      "page_path": "content/wiki/princeton-nj-520-nassau-park-blvd",
+      "page_title": "Princeton, NJ (520 Nassau Park Blvd)",
+      "parts": [
+        "Skytubes",
+        "2001-10-17",
+        "0000-00-00",
+        "Seen in construction documents."
+      ],
+      "sort": "20011017"
+    }
+  ],
   "stages|Unique 1-Stage": [
     {
       "page_get": "wiki/staten-island-ny-1775-south-ave",
@@ -32483,6 +33862,122 @@
         ""
       ],
       "sort": "19930430"
+    }
+  ],
+  "attractions|Billy Bob Merry Go Round": [
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Billy Bob Merry Go Round",
+        "198?-00-00",
+        "0000-00-00"
+      ],
+      "sort": "198?0000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Photo Ride (1993)": [
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Chuck E. Cheese's Photo Ride (1993)",
+        "199?-00-00",
+        "200?-00-00"
+      ],
+      "sort": "199?0000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Photo Ride (1997)": [
+    {
+      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
+      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
+      "parts": [
+        "Chuck E. Cheese's Photo Ride (1997)",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Chuck E. Cheese's Photo Ride (1997)",
+        "199?-00-00",
+        "200?-00-00"
+      ],
+      "sort": "199?0000"
+    }
+  ],
+  "attractions|Rubble Bubble": [
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Rubble Bubble",
+        "1997-00-00",
+        "0000-00-00"
+      ],
+      "sort": "19970000"
+    }
+  ],
+  "attractions|Ticket Tac Toe": [
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Ticket Tac Toe",
+        "199?-00-00",
+        "0000-00-00"
+      ],
+      "sort": "199?0000"
+    }
+  ],
+  "attractions|Chuck E. Cheese Roll": [
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Chuck E. Cheese Roll",
+        "199?-00-00",
+        "0000-00-00",
+        "6 Units"
+      ],
+      "sort": "199?0000"
+    }
+  ],
+  "attractions|Smokin Token": [
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Smokin Token",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E.'s JR. Basketball": [
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Chuck E.'s JR. Basketball",
+        "0000-00-00",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
     }
   ],
   "animatronics|Fatz Geromino (Animatronic)": [
@@ -32556,45 +34051,6 @@
       "sort": "00000000"
     }
   ],
-  "attractions|Skytubes": [
-    {
-      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
-      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
-      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
-      "parts": [
-        "Skytubes",
-        "0000-00-00",
-        "0000-00-00"
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Frantic Fred": [
-    {
-      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
-      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
-      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
-      "parts": [
-        "Frantic Fred",
-        "0000-00-00",
-        "0000-00-00"
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Chuck E. Cheese's Photo Ride (1997)": [
-    {
-      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
-      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
-      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
-      "parts": [
-        "Chuck E. Cheese's Photo Ride (1997)",
-        "0000-00-00",
-        "0000-00-00"
-      ],
-      "sort": "00000000"
-    }
-  ],
   "attractions|Tik Tak Clock": [
     {
       "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
@@ -32628,19 +34084,6 @@
       "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
       "parts": [
         "Jungle Joggers",
-        "0000-00-00",
-        "0000-00-00"
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Frog Song": [
-    {
-      "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
-      "page_path": "content/wiki/scottsdale-az-8890-e-indian-bend-rd",
-      "page_title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
-      "parts": [
-        "Frog Song",
         "0000-00-00",
         "0000-00-00"
       ],
@@ -32757,19 +34200,6 @@
       "page_title": "Houston, TX (6760 Antoine Dr)",
       "parts": [
         "Chuck E. Cheese's Grand Slam",
-        "0000-00-00",
-        "2006-00-00"
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Total Eclipse": [
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "Total Eclipse",
         "0000-00-00",
         "2006-00-00"
       ],
@@ -32961,20 +34391,6 @@
       "sort": "00000000"
     }
   ],
-  "attractions|Air Hockey": [
-    {
-      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
-      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
-      "page_title": "Stockton, CA (4555 N Pershing Ave)",
-      "parts": [
-        "Air Hockey",
-        "0000-00-00",
-        "0000-00-00",
-        "Seen in December 1980."
-      ],
-      "sort": "00000000"
-    }
-  ],
   "attractions|'Driving Skill Games'": [
     {
       "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
@@ -32985,20 +34401,6 @@
         "0000-00-00",
         "0000-00-00",
         "Seen in December 1980."
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Star Wars": [
-    {
-      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
-      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
-      "page_title": "Stockton, CA (4555 N Pershing Ave)",
-      "parts": [
-        "Star Wars",
-        "0000-00-00",
-        "0000-00-00",
-        "Played by customer in late 80's, early 90's."
       ],
       "sort": "00000000"
     }
@@ -33183,6 +34585,342 @@
         "0000-00-00",
         "1984-00-00",
         "Bought in the auction."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Birthday Party": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Birthday Party",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E's Rubble Bubble": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Chuck E's Rubble Bubble",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Sketch Book": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Chuck E. Cheese's Sketch Book",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Doodle Jump Arcade": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Doodle Jump Arcade",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Ghostbusters (ICE)": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Ghostbusters (ICE)",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Hollywood Rocks": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Hollywood Rocks",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Ice Man": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Ice Man",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Jumpin' Fantasy": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Jumpin' Fantasy",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|NFL 2 Minute Drill": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "NFL 2 Minute Drill",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Ski Racer": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Ski Racer",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Street Hoops": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Street Hoops",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Take 5 with Chuck E.": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Take 5 with Chuck E.",
+        "0000-00-00",
+        "0000-00-00",
+        "Rockstar version. Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|The Simpsons Soccer": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "The Simpsons Soccer",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Wheel of Fortune (ICE coin pusher)": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Wheel of Fortune (ICE coin pusher)",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Zombie Snatcher": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Zombie Snatcher",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Pig Out": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Pig Out",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Wheel'M In": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Wheel'M In",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Wheel of Fortune (Raw Thrills)": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Wheel of Fortune (Raw Thrills)",
+        "0000-00-00",
+        "0000-00-00",
+        "Video-only version without wheel. Seen in footage from 2021."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|The Great Ticket Carnival": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "The Great Ticket Carnival",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Hungry Chickens": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Hungry Chickens",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Paw Patrol": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Paw Patrol",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Pink Panther Jewel Heist": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Pink Panther Jewel Heist",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Shooting Mania": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Shooting Mania",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Winners' Toggle": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Winners' Toggle",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2023."
       ],
       "sort": "00000000"
     }

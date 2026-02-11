@@ -3,7 +3,7 @@ recommend = true
 title = "Interesting idea, the marketing..."
 startDate = "2025-11-11"
 page = "Chuck's Arcade"
-contributors = ["randomguyfan22"]
+contributors = ["Randomguyfan22 Maker"]
 tags = ["Reviews"]
 categories = ["User-Generated Content"]
 +++

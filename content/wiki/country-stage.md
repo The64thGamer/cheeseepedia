@@ -4,7 +4,7 @@ title = "Country Stage"
 startDate = "1985-01-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "VCh6daSE_TnrB5lgHcqV.avif"
-contributors = ["Emcaacme", "The 64th Gamer", "CECMentor", "CyberSnout", "smileshy22"]
+contributors = ["Emcaacme", "The 64th Gamer", "CECMentor", "Cyber Snout", "smileshy22"]
 citations = ["https://www.youtube.com/watch?v=6_dm_ddkeYU", "https://www.youtube.com/watch?v=FOzkOfORgVY"]
 tags = ["Stage Variations"]
 categories = ["ShowBiz Pizza Place"]

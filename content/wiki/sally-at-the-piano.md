@@ -5,7 +5,7 @@ tags = ["Animatronic Shows"]
 categories = ["Sally Corporation"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","BigCtheDataFinder"]
+contributors = ["The 64th Gamer","BigCDataFinder "]
 citations = ["https://nydailynews.newspapers.com/image/487947112/?terms=Sally%20Piano&match=1","https://www.youtube.com/watch?v=54vKJlAx3yY","https://www.worthpoint.com/worthopedia/animatronic-sally-at-the-piano-life-size"]
 pageThumbnailFile = "6wdhfAESZdY2ob8eZ9_i.avif"
 +++

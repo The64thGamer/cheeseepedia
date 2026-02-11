@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","SonicFazbear","Anonymous","ChuckECool","Jaxon11","ChuckEPediaIsTheBest!","Anonymous","CEC Tinley","Anonymous","BoyInCharge55","Saan1ty","CorrectorMan","ShowBizMidwest","Chez","PizzaEntertainmentFanX","The 64th Gamer","CECMentor","Rooflunar","CEC1988","StarToday77"]
+contributors = ["CECBowlingGreen","SonicFazbear","Anonymous","ChuckECool","Jaxon11","ChuckEPediaIsTheBest!","Anonymous","CEC Tinley","Anonymous","BoyInCharge55","Saan1ty","CorrectorMan","ShowBizMidwest","Chez","Pizza Entertainment Fan","The 64th Gamer","CECMentor","Rooflunar","CEC1988","StarToday77"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf\">https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf</a>"]
 pageThumbnailFile = "Q7GgvHrRn5opv9sobAJC.avif"
 manufacturer = "Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World"

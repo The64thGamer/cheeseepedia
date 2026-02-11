@@ -5,7 +5,7 @@ tags = ["Documents"]
 categories = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "1979-00-00"
-contributors = ["PizzaEntertainmentFanX"]
+contributors = ["Pizza Entertainment Fan"]
 citations = ["https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf"]
 pageThumbnailFile = "mjEWcldNF07P_5yzeTG3.avif"
 +++

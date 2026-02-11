@@ -1,48 +1,142 @@
-{{ partial "editButton-list.html" (dict "page" . "hasContent" (ne .Content "")) }}
-{{- partial "display-breadcrumbs.html" . -}}
-<h1>{{- .Title | safeHTML -}}</h1>
-<hr>
-
-{{- if .Params.pageThumbnailFile -}}
-  <div class="article-thumbnail">
-    {{- $thumb := default "" .Params.pageThumbnailFile -}}
-    {{- $mode := "no-css" -}}
-    {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
-  </div>
-{{- end -}}
-{{- .Content | safeHTML}}
-
-<hr>
+{{- $discourseUsers := site.Data.discourse_users -}}
 {{- $currentTitle := .Title -}}
-{{- $reviews := partialCached "grab-all-reviews.html" . -}}
-<h2>My Reviews:</h2>
-{{- range $reviews -}}
-  {{- $page := . -}} <!-- Store the current page object in a variable -->
-  {{- with $page.Params.Page -}}
-    {{- $revCont := $page.Params.contributors -}}
-    {{- if in $revCont $currentTitle -}}
-      {{- partial "display-review-box.html" $page -}}
-    {{- end -}}
-  {{- end -}}
+{{- $matchedUser := false -}}
+{{- $avatarUrl := "" -}}
+{{- $profileUrl := "" -}}
+{{- $displayName := $currentTitle -}}
+{{- $gradientStart := "" -}}
+{{- $gradientEnd := "" -}}
+{{- $rank := "" -}}
+{{- $contributionCount := 0 -}}
+{{- $profileBackground := "" -}}
+{{- $cardBackground := "" -}}
+
+{{- /* Try to find matching user in discourse_users data */ -}}
+{{- range $discourseUsers -}}
+{{- $userName := .name -}}
+{{- /* If name is empty, use username */ -}}
+{{- if not $userName -}}
+{{- $userName = .username -}}
 {{- end -}}
-<hr>
-<h2>I contributed to these pages!</h2>
-<div class="tri-column">
-  <ul>
-    {{- $wikiPages := partialCached "grab-all-wiki-articles.html" "key"}}
-    {{- $transcriptionPages := where site.RegularPages "Section" "transcriptions" -}}
-    {{- $pages := union $wikiPages $transcriptionPages -}}
-    {{- range $pages -}}
-      {{- $page := . -}} <!-- Store the current page object in a variable -->
-      {{- with $page.Params.contributors -}}
-        {{- $contributors := . -}}
-        {{- if in $contributors $currentTitle -}}
-          <li><a href="{{- $page.RelPermalink -}}">{{- $page.Title -}}</a></li>
-        {{- end -}}
-      {{- end -}}
-    {{- end -}}
-  </ul>
+
+{{- /* Check if this user matches the page title (case-insensitive) */ -}}
+{{- if or (eq (lower $userName) (lower $currentTitle)) (eq (lower .username) (lower $currentTitle)) -}}
+{{- $matchedUser = . -}}
+{{- $displayName = $userName -}}
+{{- $profileUrl = "" -}}
+{{- /* Build avatar URL - use larger size for profile page */ -}}
+{{- if .avatar_template -}}
+{{- $avatarUrl = printf "https://forum.cheeseepedia.org%s" .avatar_template -}}
+{{- $avatarUrl = replace $avatarUrl "{size}" "120" -}}
+{{- $profileUrl = printf "https://forum.cheeseepedia.org/u/%s" .username -}}
+{{- end -}}
+{{- /* Get gradient colors and rank */ -}}
+{{- $gradientStart = .gradient_start | default "" -}}
+{{- $gradientEnd = .gradient_end | default "" -}}
+{{- $rank = .rank | default "" -}}
+{{- $contributionCount = .contribution_count | default 0 -}}
+{{- /* Get background images if available */ -}}
+{{- $profileBackground = .profile_background_upload_url | default "" -}}
+{{- $cardBackground = .card_background_upload_url | default "" -}}
+{{- end -}}
+{{- end -}}
+
+{{- /* Profile Header Section */ -}}
+<div class="profile-header">
+
+<div class="profile-info-container">
+<div class="profile-avatar-section">
+{{- if $avatarUrl -}}
+<img src="{{ $avatarUrl }}" alt="{{ $displayName }}" class="profile-avatar">
+{{- else if .Params.pageThumbnailFile -}}
+<div class="profile-avatar">
+{{- $thumb := .Params.pageThumbnailFile -}}
+{{- $mode := "no-css" -}}
+{{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
+</div>
+{{- end -}}
+</div>
+
+<div class="profile-info">
+<h1 class="profile-name">{{ $displayName }}</h1>
+
+{{- if $rank -}}
+<div class="profile-rank">
+<span class="gradient-text" style="background-image: linear-gradient(to top, {{ $gradientStart }}, {{ $gradientEnd }});">
+Rank: {{ $rank }}
+</span>
+{{- if gt $contributionCount 0 -}}
+<sup>(+{{ $contributionCount }})</sup>
+{{- end -}}
+</div>
+{{- end -}}
+
+{{- if or .Content .Params.bio -}}
+<div class="profile-bio">
+{{- with .Params.bio -}}
+{{ . | safeHTML }}
+{{- end -}}
+{{- .Content | safeHTML -}}
+</div>
+{{- end -}}
+
+{{- if $profileUrl -}}
+<div class="profile-links">
+<a href="{{ $profileUrl }}" class="profile-forum-link" target="_blank">
+View Forum Profile
+</a>
+</div>
+{{- end -}}
+</div>
+</div>
+</div>
+
+{{- /* Reviews Section */ -}}
+{{- $reviews := partialCached "grab-all-reviews.html" . -}}
+{{- $hasReviews := false -}}
+{{- range $reviews -}}
+{{- $page := . -}}
+{{- with $page.Params.Page -}}
+{{- $revCont := $page.Params.contributors -}}
+{{- if in $revCont $currentTitle -}}
+{{- $hasReviews = true -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+{{- if $hasReviews -}}
+<h2>My Reviews:</h2>
+<div class="reviews-section">
+{{- range $reviews -}}
+{{- $page := . -}}
+{{- with $page.Params.Page -}}
+{{- $revCont := $page.Params.contributors -}}
+{{- if in $revCont $currentTitle -}}
+{{- partial "display-review-box.html" $page -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
 </div>
 <hr>
+{{- end -}}
 
+{{- /* Contributions Section */ -}}
+<h2>I contributed to these pages!</h2>
+<div class="tri-column">
+<ul>
+{{- $wikiPages := partialCached "grab-all-wiki-articles.html" "key"}}
+{{- $transcriptionPages := where site.RegularPages "Section" "transcriptions" -}}
+{{- $pages := union $wikiPages $transcriptionPages -}}
+{{- range $pages -}}
+{{- $page := . -}}
+{{- with $page.Params.contributors -}}
+{{- $contributors := . -}}
+{{- if in $contributors $currentTitle -}}
+<li><a href="{{- $page.RelPermalink -}}">{{- $page.Title -}}</a></li>
+{{- end -}}
+{{- end -}}
+{{- end -}}
+</ul>
+</div>
+<hr>
 {{- partial "display-contributors.html" . -}}

@@ -11,6 +11,8 @@ showtapeFormats = ["Cyberamics Reel"]
 alsoKnownAs = ["ASSY# 027-0060-10-0A SKIT-KING II LOUNGE #2 WO# 1401233700 WO QTY 56 BUILT BY: Rex B DATE 4-24-83"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Skit-King%20II%20Lounge%20%232/King%20II%20Lounge%202.wav|Showtape Rip w/ Signals (#1)","https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/unknown%201%20%28no%20box%29/unkonwn%20label%20fell%20off.wav|Showtape Rip w/ Signals (#2)"]
+
 +++
 King II was the second King showtape, released in April of 1983.
 

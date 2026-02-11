@@ -1,19 +1,18 @@
 +++
-title = "Beach Bowzers '91 I"
+title = "CEC Beach Bowzers Showtape"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = "1991-00-00"
+startDate = "1991-05-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","CyberSnout"]
+contributors = ["The 64th Gamer","Cyber Snout"]
 citations = []
 pageThumbnailFile = "_1ATobDDks3Tl9gU3jRj.avif"
 showtapeFormats = ["Cyberamics Reel"]
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Beach%20Bowzers%20Showtape/027-0500-01%20s0013.wav|Showtape Rip w/ Signals (#1)","https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Beach%20Bowzers%20Showtape/027-0500-01%20s0049.wav|Showtape Rip w/ Signals (#2)","https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Beach%20Bowzers%20Showtape/027-0500-01%20s006.wav|Showtape Rip w/ Signals (#3)","https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Beach%20Bowzers%20Showtape/027-0500-01xx%20s0020.wav|Showtape Rip w/ Signals (#4)"]
 +++
 
-***Beach Bowzers '91 I*** is a showtape released for the Beagles / Beach Bowsers (Lounge) in March of 1991.
+***CEC Beach Bowzers Showtape*** (Also known as ***Beach Bowzers '91 I***) is a showtape released for the Beagles / Beach Bowsers (Lounge) in May of 1991.
 
 ## Production
 

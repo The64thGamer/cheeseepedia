@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2024-01-02"
 endDate = "2024-03-31"
 pageThumbnailFile = "evergreen2024.avif"
-contributors = ["Cheeseclassic","CyberSnout","Cy's Junk at School","Cybersnout"]
+contributors = ["Cheeseclassic","Cyber Snout","Cy's Junk at School","Cyber Snout"]
 citations = []
 showtapeFormats = ["Legacy CEC Stage Navori"]
 +++

@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-07-00"
 endDate = "2011-01-11"
-contributors = ["Polykirisame","Bowling for Cheese","BurgersNuggs445","Himitsu","StudioC","MultiMonorail","CyCGM","The 64th Gamer","Anonymous","RedaCEC","Anonymous","Rexburg090","Anonymous","Midwestretail","CEC Tinley","CorrectorMan","Saan1ty","PizzaEntertainmentFanX","Cy's Junk at School","Cheeseclassic","AstridMascotFan2005"]
+contributors = ["Polykirisame","Bowling for Cheese","BurgersNuggs445","Himitsu","StudioC","MultiMonorail","CyCGM","The 64th Gamer","Anonymous","RedaCEC","Anonymous","Rexburg090","Anonymous","Midwestretail","CEC Tinley","CorrectorMan","Saan1ty","Pizza Entertainment Fan","Cy's Junk at School","Cheeseclassic","AstridMascotFan2005"]
 citations = ["<a href=\"https://youtu.be/S4nqebm43CI\">https://youtu.be/S4nqebm43CI</a>","<a href=\"https://youtu.be/JLdBhKEfmbI\">https://youtu.be/JLdBhKEfmbI</a>"]
 pageThumbnailFile = "kaY8UrgSIgTiG23eJCud.avif"
 latitudeLongitude = ["39.76008477","-121.8430586"]

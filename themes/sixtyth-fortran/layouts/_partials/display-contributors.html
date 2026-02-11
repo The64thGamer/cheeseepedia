@@ -1,25 +1,85 @@
 <aside>
-  <div class="contributors"><strong>Article Contributed By: </strong>
-    {{- $site := site.RegularPages -}}
-      {{- if .Params.contributors -}}
-        {{- $len := len .Params.contributors -}}
-        {{- range $index, $element := .Params.contributors -}}
-            {{- $articles := where $site "Title" $element -}} <!-- Find articles with matching titles -->
-            {{- if gt (len $articles) 0 -}} <!-- Check if there are any matching articles -->
-              <a href="{{- (index $articles 0).RelPermalink -}}">{{- (index $articles 0).Title -}}</a> <!-- Link to the first article -->
-            {{- else -}}
-              {{- $element -}}
-            {{- end -}}      
-          {{- if lt (add $index 1) $len -}}{{- ", " -}}
-          {{- end -}}
-        {{- end -}}
-      {{- else -}}
-        <strong>Nobody has contributed to this article yet.</strong> Use the "Contribute" button above to make the first edit!
-    {{- end -}}
+  {{- $discourseUsers := site.Data.discourse_users -}}
+  {{- $userPages := where site.RegularPages "Section" "users" -}}
+  <div class="contributors">
     {{ with .GitInfo }}
-    <br><strong>Last updated on: </strong>{{ .AuthorDate.Format "Jan. 2, 2006" }}
+    <strong>Last updated on:</strong> {{ .AuthorDate.Format "Jan. 2, 2006" }}
     {{ end }}
     <br>Search for: "<a href="https://forum.cheeseepedia.org/search?q={{ .Title | urlquery }}">{{ .Title }}</a>" on the forums!
+
+    {{- if .Params.contributors -}}
+    <br>
+    <h3>Article Contributed By:</h3>
+    <div class="predef-tags contributor-tags">
+      <div class="predef-scroll">
+        <div class="predef-list">
+          {{- range .Params.contributors -}}
+          {{- $contributorName := . -}}
+          {{- $matchedUser := false -}}
+          {{- $avatarUrl := "" -}}
+          {{- $profileUrl := "" -}}
+          {{- $displayName := $contributorName -}}
+          {{- $gradientStart := "" -}}
+          {{- $gradientEnd := "" -}}
+          {{- $rank := "" -}}
+          {{- $contributionCount := 0 -}}
+
+          {{- /* 1. Fetch Discourse metadata first (to get correct Display Name and Styles) */ -}}
+          {{- range $discourseUsers -}}
+            {{- $userName := .name | default .username -}}
+            {{- if or (eq (lower $userName) (lower $contributorName)) (eq (lower .username) (lower $contributorName)) -}}
+              {{- $matchedUser = . -}}
+              {{- $displayName = $userName -}}
+              {{- $gradientStart = .gradient_start -}}
+              {{- $gradientEnd = .gradient_end -}}
+              {{- $rank = .rank -}}
+              {{- $contributionCount = .contribution_count | default 0 -}}
+              
+              {{- if .avatar_template -}}
+                {{- $avatarUrl = replace (printf "https://forum.cheeseepedia.org%s" .avatar_template) "{size}" "48" -}}
+                {{- $profileUrl = printf "https://forum.cheeseepedia.org/u/%s" .username -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end -}}
+
+          {{- /* 2. Check for Local Page to override the Profile URL (Matching List-Users logic) */ -}}
+          {{- $localPage := where $userPages "Title" $displayName -}}
+          {{- if gt (len $localPage) 0 -}}
+              {{- $profileUrl = (index $localPage 0).RelPermalink -}}
+          {{- end -}}
+
+          {{- /* 3. Render */ -}}
+          {{- if $matchedUser -}}
+          <a href="{{ $profileUrl }}" class="predef-tag-btn contributor-btn"
+            title="{{ $rank }}{{ if gt $contributionCount 0 }} (+{{ $contributionCount }}){{ end }}"
+            style="background: linear-gradient(0deg, {{ $gradientStart }}, {{ $gradientEnd }});">
+            {{- if $avatarUrl -}}
+            <img src="{{ $avatarUrl }}" alt="{{ $displayName }}" class="contributor-avatar">
+            {{- end -}}
+            {{ $displayName }}
+            {{- if gt $contributionCount 0 -}}
+            <sup>(+{{ $contributionCount }})</sup>
+            {{- end -}}
+          </a>
+          {{- else -}}
+          {{- /* Fallback for contributors with NO discourse data at all */ -}}
+          {{- $generalArticles := where site.RegularPages "Title" $contributorName -}}
+          {{- if gt (len $generalArticles) 0 -}}
+          <a href="{{ (index $generalArticles 0).RelPermalink }}" class="predef-tag-btn contributor-btn">
+            {{ $contributorName }}
+          </a>
+          {{- else -}}
+          <span class="predef-tag-btn contributor-btn" style="cursor: default;">
+            {{ $contributorName }}
+          </span>
+          {{- end -}}
+          {{- end -}}
+          {{- end -}}
+        </div>
+      </div>
+    </div>
+    {{- else -}}
+    <strong>Nobody has contributed to this article yet.</strong>
+    {{- end -}}
   </div>
-  <hr>
 </aside>

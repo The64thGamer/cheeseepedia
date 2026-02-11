@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T21:47:38Z",
-  "count": 1056,
+  "generated_at": "2026-02-11T22:08:49Z",
+  "count": 1057,
   "locations": [
     {
       "title": "Salem, OR (3180 Lancaster Dr)",
@@ -647,6 +647,25 @@
       "endDate": "1987-12-31",
       "cuDate": "1992-01-01",
       "page_path": "content/wiki/maplewood-mn-2950-white-bear-ave.md"
+    },
+    {
+      "title": "Salinas, CA (796 Northridge Shopping Center)",
+      "group": [
+        "Pizza Time Theatre"
+      ],
+      "coords_str": [
+        "36.7179456",
+        "-121.6581414"
+      ],
+      "coords": [
+        36.7179456,
+        -121.6581414
+      ],
+      "url": "/wiki/cupertino-corporate copy 7/",
+      "startDate": "1974-01-01",
+      "endDate": "9999-12-31",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/cupertino-corporate copy 7.md"
     },
     {
       "title": "Brandon, FL (1540 W Brandon Blvd)",
@@ -13794,7 +13813,7 @@
       "url": "/wiki/st-louis-mo-2805-target-dr/",
       "startDate": "1981-09-30",
       "endDate": "2006-12-31",
-      "cuDate": "1992-01-01",
+      "cuDate": "1991-01-01",
       "page_path": "content/wiki/st-louis-mo-2805-target-dr.md"
     },
     {

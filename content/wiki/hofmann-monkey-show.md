@@ -4,7 +4,7 @@ title = "Hofmann Monkey Show"
 startDate = "1977-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "4ITVpWWeZIGlBVvoBKdy.avif"
-contributors = ["BigCtheDataFinder"]
+contributors = ["BigCDataFinder "]
 citations = ["<a href=\"https://www.lisepedia.se/attraktioner/ap-o-teket\">https://www.lisepedia.se/attraktioner/ap-o-teket</a>"]
 manufacturer = "Hofmann Figuren GmbH"
 unitsProduced = "2"

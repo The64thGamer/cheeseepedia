@@ -5,7 +5,7 @@ tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1985-06-00"
 endDate = "1985-07-00"
-contributors = ["Jonn","PizzaEntertainmentFanX","CECMentor"]
+contributors = ["Jonn","Pizza Entertainment Fan","CECMentor"]
 citations = []
 pageThumbnailFile = "Wkhk48BnyCrmNg4QFrtB.avif"
 +++

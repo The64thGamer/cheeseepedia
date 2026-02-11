@@ -4,7 +4,7 @@ title = "CEC September 1991 Show"
 startDate = "1991-09-10"
 endDate = "1991-12-05"
 pageThumbnailFile = "n02eKh04LQEEbI5q3DMs.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "DerekCat", "Cheeseclassic", "Luigigamin212", "Ceclife13"]
+contributors = ["The 64th Gamer", "Cyber Snout", "DerekCat", "Cheeseclassic", "Luigigamin212", "Ceclife13"]
 credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef"]
 citations = ["https://www.youtube.com/watch?v=VgsROB6xwb4", "https://youtu.be/YIwEWOMB2LI", "https://youtu.be/ZbSCCVqTd0A"]
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "APS Files"]

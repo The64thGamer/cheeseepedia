@@ -5,7 +5,7 @@ tags = ["Retrofits"]
 categories = ["Sally Corporation"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["PizzaEntertainmentFanX"]
+contributors = ["Pizza Entertainment Fan"]
 citations = []
 pageThumbnailFile = "j34F6vk2yordRrejLg39.avif"
 +++

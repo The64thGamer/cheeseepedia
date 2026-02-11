@@ -1006,7 +1006,7 @@
     "start_year": 2024,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -1868,6 +1868,16 @@
     "tag": "Promotional Material",
     "contributors_count": 0,
     "rating": 0
+  },
+  {
+    "title": "Salinas, CA (796 Northridge Shopping Center)",
+    "page_path": "content/wiki/cupertino-corporate copy 7.md",
+    "startDate": "1974-00-00",
+    "start_year": 1974,
+    "category": "Pizza Time Theatre",
+    "tag": "Locations",
+    "contributors_count": 1,
+    "rating": 2
   },
   {
     "title": "Sally 1 / Xmas / USA",
@@ -3802,8 +3812,8 @@
   {
     "title": "Dr. Dux Diagnostic Stage/Shelf",
     "page_path": "content/wiki/dr-dux-diagnostic-stageshelf.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
+    "startDate": "1982-12-01",
+    "start_year": 1982,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
     "contributors_count": 0,
@@ -7312,8 +7322,8 @@
   {
     "title": "CEC 2000's Remodel Program",
     "page_path": "content/wiki/cec-2005-remodel-program.md",
-    "startDate": "1999-00-00",
-    "start_year": 1999,
+    "startDate": "2003-00-00",
+    "start_year": 2003,
     "category": "Chuck E. Cheese's",
     "tag": "Remodels and Initiatives",
     "contributors_count": 5,
@@ -7596,7 +7606,7 @@
     "start_year": 2013,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 0
   },
   {
@@ -8098,6 +8108,16 @@
     "tag": "Locations",
     "contributors_count": 0,
     "rating": 0
+  },
+  {
+    "title": "1997 Chuck E. Cheese 5.5\" x 3.75\" Sticker",
+    "page_path": "content/wiki/1997-chuck-e-cheese-5-5-x-3-75-sticker.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "CEC Team 2 Trainer Lanyard (Avenger)",
@@ -9812,8 +9832,8 @@
   {
     "title": "Beagles III",
     "page_path": "content/wiki/beagles-iii.md",
-    "startDate": "1985-10-00",
-    "start_year": 1985,
+    "startDate": "1983-08-31",
+    "start_year": 1983,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 2,
@@ -10246,7 +10266,7 @@
     "start_year": 1987,
     "category": "ShowBiz Pizza Place",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 4
   },
   {
@@ -13327,7 +13347,7 @@
     "category": "Pizza Time Theatre",
     "tag": "Companies/Brands",
     "contributors_count": 1,
-    "rating": 3
+    "rating": 4
   },
   {
     "title": "Opening Team Pin (Rockstar)",
@@ -14046,7 +14066,7 @@
     "start_year": 1987,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 0
   },
   {
@@ -15296,7 +15316,7 @@
     "start_year": 1996,
     "category": "Chuck E. Cheese's",
     "tag": "In-Store Merchandise",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 1
   },
   {
@@ -19300,6 +19320,16 @@
     "rating": 0
   },
   {
+    "title": "1997 2\" Puffy Sticker Soccer Chuck",
+    "page_path": "content/wiki/1997-2-puffy-sticker-assortment.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 1
+  },
+  {
     "title": "2012 Marvin the Technology Guru Puppet",
     "page_path": "content/wiki/2012-marvin-the-technology-guru-puppet.md",
     "startDate": "",
@@ -19746,16 +19776,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
-    "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "CEC TV Classics (Canada)",
-    "page_path": "content/wiki/cec-tv-classics-canada.md",
-    "startDate": "1990-07-00",
-    "start_year": 1990,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
     "contributors_count": 1,
     "rating": 0
   },
@@ -22070,6 +22090,16 @@
     "rating": 0
   },
   {
+    "title": "1997 2\" Puffy Sticker Baseball Chuck",
+    "page_path": "content/wiki/1997-2-puffy-sticker-baseball-chuck.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 1
+  },
+  {
     "title": "Daniel and the Dixie Diggers Trio",
     "page_path": "content/wiki/daniel-and-the-dixie-diggers-trio.md",
     "startDate": "",
@@ -23127,16 +23157,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Commercials",
     "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "First Quarter 2013",
-    "page_path": "content/wiki/january-2013-show.md",
-    "startDate": "2013-01-00",
-    "start_year": 2013,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 7,
     "rating": 0
   },
   {
@@ -25676,7 +25696,7 @@
     "start_year": 2012,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -27626,7 +27646,7 @@
     "start_year": 1990,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -28576,7 +28596,7 @@
     "start_year": 1990,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -29076,7 +29096,7 @@
     "start_year": 1989,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -32120,6 +32140,16 @@
     "rating": 0
   },
   {
+    "title": "CEC Summer 1990 (3 Skits)",
+    "page_path": "content/wiki/cec-summer-1990.md",
+    "startDate": "1990-04-17",
+    "start_year": 1990,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 3,
+    "rating": 0
+  },
+  {
     "title": "Ealing, England",
     "page_path": "content/wiki/ealing-england.md",
     "startDate": "1983-00-00",
@@ -33146,7 +33176,7 @@
     "start_year": 1990,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 0
   },
   {
@@ -33512,7 +33542,7 @@
   {
     "title": "Birthday Extravaganza (ShowBiz Branded)",
     "page_path": "content/wiki/birthday-extravaganza.showbiz.branded.md",
-    "startDate": "1989-07-00",
+    "startDate": "1989-05-00",
     "start_year": 1989,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
@@ -36017,7 +36047,7 @@
     "category": "Chuck E. Cheese's",
     "tag": "Arcades and Attractions",
     "contributors_count": 5,
-    "rating": 1
+    "rating": 2
   },
   {
     "title": "Chuck E. Cheese 'Skytubes'",
@@ -36167,6 +36197,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
     "contributors_count": 3,
+    "rating": 0
+  },
+  {
+    "title": "First Quarter 2013",
+    "page_path": "content/wiki/first-quarter-2013.md",
+    "startDate": "2013-01-00",
+    "start_year": 2013,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 7,
     "rating": 0
   },
   {
@@ -36520,9 +36560,9 @@
     "rating": 0
   },
   {
-    "title": "Beach Bowzers '91 I",
+    "title": "CEC Beach Bowzers Showtape",
     "page_path": "content/wiki/beach-bowzers-91-i.md",
-    "startDate": "1991-00-00",
+    "startDate": "1991-05-00",
     "start_year": 1991,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
@@ -36717,16 +36757,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
     "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "CEC Summer Days",
-    "page_path": "content/wiki/cec-summer-days.md",
-    "startDate": "1990-05-00",
-    "start_year": 1990,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -37466,6 +37496,16 @@
     "start_year": 1978,
     "category": "Creative Engineering",
     "tag": "Animatronics",
+    "contributors_count": 1,
+    "rating": 1
+  },
+  {
+    "title": "1997 Chuck E. Cheese Tattoo",
+    "page_path": "content/wiki/1997-chuck-e-cheese-tattoo.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
     "contributors_count": 1,
     "rating": 1
   },
@@ -42186,7 +42226,7 @@
     "start_year": 1992,
     "category": "Creative Engineering",
     "tag": "Animatronics",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 1
   },
   {
@@ -44050,7 +44090,7 @@
     "rating": 0
   },
   {
-    "title": "Beach Bowzers",
+    "title": "Beach Bowzers Cabaret Tape",
     "page_path": "content/wiki/beach-bowzers.md",
     "startDate": "1985-10-00",
     "start_year": 1985,
@@ -45142,7 +45182,7 @@
   {
     "title": "Birthday Extravaganza (Chuck E. Cheese Branded)",
     "page_path": "content/wiki/birthday-extravaganza-chuckecheese-branded.md",
-    "startDate": "1989-07-00",
+    "startDate": "1989-05-00",
     "start_year": 1989,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
@@ -46648,6 +46688,16 @@
     "tag": "Live Shows",
     "contributors_count": 1,
     "rating": 0
+  },
+  {
+    "title": "1997 2\" Puffy Sticker Coach Chuck",
+    "page_path": "content/wiki/1997-2-puffy-sticker-coach-chuck.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "1992 CEC Franchise Convention (Event)",
@@ -48538,6 +48588,16 @@
     "tag": "Locations",
     "contributors_count": 0,
     "rating": 0
+  },
+  {
+    "title": "Phoenix, AZ (1810 W Montebello Ave)",
+    "page_path": "content/wiki/Phoenix, AZ (1810 W Montebello Ave).md",
+    "startDate": "1982-07-16",
+    "start_year": 1982,
+    "category": "Paul E Parrotts",
+    "tag": "Locations",
+    "contributors_count": 1,
+    "rating": 2
   },
   {
     "title": "Rockin-Bowler",
@@ -50960,6 +51020,16 @@
     "rating": 0
   },
   {
+    "title": "Youtooz 9\" Jasper T. Jowls Plush",
+    "page_path": "content/wiki/youtooz-9-jasper-t-jowls-plush.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "Products",
+    "contributors_count": 1,
+    "rating": 1
+  },
+  {
     "title": "Studio C HD Weigl Control System",
     "page_path": "content/wiki/studio-c-hd-weigl-control-system.md",
     "startDate": "",
@@ -51248,6 +51318,16 @@
     "tag": "Locations",
     "contributors_count": 0,
     "rating": 0
+  },
+  {
+    "title": "Spee-Lunker's Cave",
+    "page_path": "content/wiki/spee-lunker-cave.md",
+    "startDate": "1964-05-00",
+    "start_year": 1964,
+    "category": "Six Flags",
+    "tag": "Arcades and Attractions",
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "Classic Stage",
@@ -51856,7 +51936,7 @@
     "start_year": 1989,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 0
   },
   {
@@ -52706,7 +52786,7 @@
     "start_year": 1989,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -53368,6 +53448,16 @@
     "tag": "Locations",
     "contributors_count": 0,
     "rating": 0
+  },
+  {
+    "title": "1997 2\" Puffy Sticker Football Chuck",
+    "page_path": "content/wiki/1997-2-puffy-sticker-football-chuck.md",
+    "startDate": "",
+    "start_year": null,
+    "category": "Chuck E. Cheese's",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "Parque Interlomas, Mexico",
@@ -56870,16 +56960,6 @@
     "rating": 0
   },
   {
-    "title": "Northridge, CA (Atari Game Center)",
-    "page_path": "content/wiki/cupertino-corporate copy 5.md",
-    "startDate": "1974-00-00",
-    "start_year": 1974,
-    "category": "Pizza Time Theatre",
-    "tag": "Locations",
-    "contributors_count": 1,
-    "rating": 1
-  },
-  {
     "title": "Madame Oink I",
     "page_path": "content/wiki/madame-oink-i.md",
     "startDate": "1978-02-00",
@@ -57417,7 +57497,7 @@
     "category": "Pizza Time Theatre",
     "tag": "Costumed Characters",
     "contributors_count": 1,
-    "rating": 0
+    "rating": 1
   },
   {
     "title": "Mijjinator",

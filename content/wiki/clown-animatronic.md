@@ -6,7 +6,7 @@ tags = ["Animatronics"]
 categories = ["Creative Engineering"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Landon animatronics","Maddox121","Anonymous","PizzaEntertainmentFanX"]
+contributors = ["The 64th Gamer","Landon animatronics","Maddox121","Anonymous","Pizza Entertainment Fan"]
 citations = []
 pageThumbnailFile = "iqiyIv144DiC_HCaKC1D.avif"
 +++

@@ -4,7 +4,7 @@ title = "May 1998 Studio C"
 startDate = "1998-05-00"
 endDate = "1998-08-00"
 pageThumbnailFile = "n6N3Ri2j2SKwJvCKkYUq.avif"
-contributors = ["CyberSnout", "The 64th Gamer", "Ceclife13"]
+contributors = ["Cyber Snout", "The 64th Gamer", "Ceclife13"]
 credits = ["Jeremy Blaido - Voice of Chuck E. Cheese, Wick Ladderback, Announcer, Dr. Googleplex, Will Frye The Nutrition Guy", "Duncan Brannan - Voice of Mr. Munch, Announcer, Larry The Technician", "Karlisa Burleson - Voice of Helen Henny", "Bob West - Voice of Jasper T. Jowls, Pasqually The Chef", "Brian Hagan", "Robert Gotcher"]
 citations = ["https://www.youtube.com/watch?v=6QRS--fDlbQ&t=649s"]
 mediaDuration = "51:28"

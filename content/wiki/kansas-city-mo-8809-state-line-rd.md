@@ -5,7 +5,7 @@ title = "Kansas City, MO (8809 State Line Rd)"
 startDate = "2023-06-22"
 endDate = "2026-01-06"
 pageThumbnailFile = "ChucksArcadeStateLine.avif"
-contributors = ["smileshy22","CyberSnout","The 64th Gamer"] 
+contributors = ["smileshy22","Cyber Snout","The 64th Gamer"] 
 citations = ["https://www.instagram.com/p/Ctu35PoJz0s/?igsh=cjN1azF1ZHRqaTFj", "https://www.facebook.com/share/p/15TUCeqHD7T/", "https://www.qsrmagazine.com/growth/peter-piper-pizza-builds-growth-ready-portfolio/","https://www.peterpiperpizza.com/press-room/peter-piper-pizza-debuts-its-first-fast-casual-pizzeria-concept-in-kansas-city/","https://www.peterpiperpizza.com/press-room/peter-piper-pizzeria-continues-expansion-in-kansas-city-with-grand-opening-june-22/","https://www.kansascity.com/news/business/openings-closings/article289695344.html","https://www.instagram.com/p/C_CISU1pK4O/","https://kansascitymag.com/restaurant-news-a-new-chuck-e-cheese-comes-to-state-line-road/","https://www.youtube.com/watch?v=1lC7mgVgMqs","https://www.youtube.com/post/UgkxbFoQ3xlRhfxDfqjeqQ3IVF8-FOb5YIk4","https://www.facebook.com/kansascitydiscover/posts/chuck-e-cheese-opened-its-first-adult-arcade-in-kansas-city-chuck-e-cheese-recen/1431686558148895/","https://www.youtube.com/watch?v=NPcdNzIPkqU","https://www.reddit.com/r/chuckecheese/comments/1ms3q45/kc_chucks_arcade_is_getting_a_new_prize_area/","https://www.reddit.com/r/chuckecheese/comments/1okj78m/prize_counter_at_chucks_arcade_stateline_replaced/","https://www.linkedin.com/posts/leawood-chamber-of-commerce_peter-piper-pizzeria-is-officially-open-for-activity-7079867063032311809--J0X"]
 storeNumber = "747"
 sqft = "4,650"

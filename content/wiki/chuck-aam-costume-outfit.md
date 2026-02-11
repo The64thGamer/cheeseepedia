@@ -5,7 +5,7 @@ tags = ["Costumed Characters"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["Showtimeinc","CyberSnout"]
+contributors = ["Showtimeinc","Cyber Snout"]
 citations = []
 pageThumbnailFile = "UBCgOSLX0EnGXLkCk13D.avif"
 +++

@@ -4,7 +4,7 @@ title = "CEC History of Rock and Roll Part 2"
 startDate = "1986-09-02"
 endDate = "1986-10-00"
 pageThumbnailFile = "HistoryofRockandRoll2.avif"
-contributors = ["The 64th Gamer","CyberSnout"]
+contributors = ["The 64th Gamer","Cyber Snout"]
 citations = ["https://www.youtube.com/watch?v=PfFRYN1jMI0"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]

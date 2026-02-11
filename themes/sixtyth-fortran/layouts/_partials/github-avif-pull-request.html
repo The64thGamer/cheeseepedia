@@ -1,0 +1,639 @@
+<!-- layouts/partials/add-images.html -->
+
+<button id="add-images-btn" class="add-images-button">Add more images (Experimental)</button>
+
+<div id="image-upload-modal" class="modal" style="display: none;">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    
+    <form autocomplete="off" onsubmit="return false;">
+    <!-- Step 1: GitHub Token -->
+    <div id="step-1" class="step">
+      <h3>GitHub Authentication</h3>
+      <p class="hint">To automate the pull request, we need your GitHub Personal Access Token.</p>
+      <input type="password" id="github-token" name="github-token" placeholder="GitHub Personal Access Token" autocomplete="new-password" required>
+      <details style="margin: 1rem 0;">
+        <summary style="cursor: pointer; color: var(--yellow);">How to create a token?</summary>
+        <ol style="margin-top: 1rem; font-size: 14px;">
+          <li>Go to <a href="https://github.com/settings/tokens" target="_blank">GitHub Settings → Tokens</a></li>
+          <li>Click "Generate new token" → "Fine-grained token" (recommended)</li>
+          <li>Grant these permissions: <strong>Contents (Read & Write)</strong>, <strong>Pull Requests (Read & Write)</strong></li>
+          <li>Copy the token and paste it above</li>
+        </ol>
+        <p style="color: var(--deep-white);">
+          Your token is only stored in your browser's memory during this session and is never sent anywhere except GitHub.
+        </p>
+      </details>
+      <button id="next-to-step-2">Next</button>
+    </div>
+
+    <!-- Step 2: File Upload -->
+    <div id="step-2" class="step" style="display: none;">
+      <h3>Select Images</h3>
+      <input type="file" id="image-files" accept=".avif" multiple required>
+      <p class="hint">Only .avif files are accepted</p>
+      <button id="back-to-step-1">Back</button>
+      <button id="next-to-step-3">Next</button>
+    </div>
+
+    <!-- Step 3: Description -->
+    <div id="step-3" class="step" style="display: none;">
+      <h3>Image Description</h3>
+      <textarea id="image-description" placeholder="Enter description for these images" rows="4" required></textarea>
+      <button id="back-to-step-2">Back</button>
+      <button id="next-to-step-4">Next</button>
+    </div>
+
+    <!-- Step 4: Date -->
+    <div id="step-4" class="step" style="display: none;">
+      <h3>Date Photographed</h3>
+      <div class="date-inputs">
+        <select id="photo-year">
+          <option value="">Year</option>
+        </select>
+        <select id="photo-month">
+          <option value="">Month</option>
+          <option value="01">January</option>
+          <option value="02">February</option>
+          <option value="03">March</option>
+          <option value="04">April</option>
+          <option value="05">May</option>
+          <option value="06">June</option>
+          <option value="07">July</option>
+          <option value="08">August</option>
+          <option value="09">September</option>
+          <option value="10">October</option>
+          <option value="11">November</option>
+          <option value="12">December</option>
+        </select>
+        <select id="photo-day">
+          <option value="">Day</option>
+        </select>
+      </div>
+      <button id="back-to-step-3">Back</button>
+      <button id="next-to-step-5">Next</button>
+    </div>
+
+    <!-- Step 5: Citations -->
+    <div id="step-5" class="step" style="display: none;">
+      <h3>Sources/Citations</h3>
+      <div id="citations-container">
+        <input type="text" class="citation-input" placeholder="Enter citation URL (optional)">
+      </div>
+      <button id="add-citation">+ Add Another Citation</button>
+      <br><br>
+      <button id="back-to-step-4">Back</button>
+      <button id="next-to-step-6">Next</button>
+    </div>
+
+    <!-- Step 6: PR Description -->
+    <div id="step-6" class="step" style="display: none;">
+      <h3>Pull Request Description (Optional)</h3>
+      <textarea id="pr-description" placeholder="Add any additional context for reviewers..." rows="4"></textarea>
+      <p class="hint">This will be added to the auto-generated PR description</p>
+      <button id="back-to-step-5">Back</button>
+      <button id="submit-images">Create Pull Request</button>
+    </div>
+
+    <!-- Step 7: Progress/Success -->
+    <div id="step-7" class="step" style="display: none;">
+      <h3>Creating Pull Request...</h3>
+      <div id="progress-content">
+        <div class="progress-item">
+          <span id="progress-1" class="progress-icon">⏳</span> Validating GitHub token...
+        </div>
+        <div class="progress-item">
+          <span id="progress-2" class="progress-icon">⏳</span> Setting up fork...
+        </div>
+        <div class="progress-item">
+          <span id="progress-3" class="progress-icon">⏳</span> Uploading images...
+        </div>
+        <div class="progress-item">
+          <span id="progress-4" class="progress-icon">⏳</span> Creating markdown files...
+        </div>
+        <div class="progress-item">
+          <span id="progress-5" class="progress-icon">⏳</span> Committing changes...
+        </div>
+        <div class="progress-item">
+          <span id="progress-6" class="progress-icon">⏳</span> Creating pull request...
+        </div>
+      </div>
+      <div id="success-content" style="display: none;">
+        <h4 style="color: var(--yellow);">✅ Pull Request Created Successfully!</h4>
+        <a id="pr-link" href="#" target="_blank" class="github-link">View Pull Request on GitHub</a>
+        <br><br>
+        <button id="close-modal-btn">Done</button>
+      </div>
+      <div id="error-content" style="display: none; color: var(--orange);">
+        <h4>❌ Error</h4>
+        <p id="error-message"></p>
+        <button id="retry-btn">Try Again</button>
+      </div>
+    </div>
+    </form>
+  </div>
+</div>
+
+<!-- Load Octokit.js from CDN using ESM -->
+<script type="module">
+import { Octokit } from 'https://cdn.skypack.dev/@octokit/rest';
+
+(function() {
+  // Make Octokit available globally
+  window.OctokitClass = Octokit;
+})();
+</script>
+
+<script>
+(function() {
+  // Hugo page parameters
+  const currentPageTitle = {{ .Title | jsonify }};
+  const currentPageCategories = {{ .Params.categories | jsonify }};
+  
+  // GitHub repository info
+  const GITHUB_OWNER = 'The64thGamer';
+  const GITHUB_REPO = 'cheeseepedia';
+  const GITHUB_BRANCH = 'main';
+
+  // DOM elements
+  const modal = document.getElementById('image-upload-modal');
+  const openBtn = document.getElementById('add-images-btn');
+  const closeBtn = document.querySelector('.close');
+  
+  let selectedFiles = [];
+  let githubToken = '';
+  let octokit = null;
+  let formData = {
+    files: [],
+    description: '',
+    date: '',
+    citations: [],
+    prDescription: ''
+  };
+
+  // Populate year dropdown
+  const yearSelect = document.getElementById('photo-year');
+  const currentYear = new Date().getFullYear();
+  for (let year = currentYear; year >= 1950; year--) {
+    const option = document.createElement('option');
+    option.value = year;
+    option.textContent = year;
+    yearSelect.appendChild(option);
+  }
+
+  // Populate day dropdown
+  const daySelect = document.getElementById('photo-day');
+  for (let day = 1; day <= 31; day++) {
+    const option = document.createElement('option');
+    const dayStr = day.toString().padStart(2, '0');
+    option.value = dayStr;
+    option.textContent = day;
+    daySelect.appendChild(option);
+  }
+
+  // Open modal
+  openBtn.addEventListener('click', () => {
+    modal.style.display = 'block';
+    showStep(1);
+  });
+
+  // Close modal
+  closeBtn.addEventListener('click', () => {
+    modal.style.display = 'none';
+    resetForm();
+  });
+
+  window.addEventListener('click', (e) => {
+    if (e.target === modal) {
+      modal.style.display = 'none';
+      resetForm();
+    }
+  });
+
+  // Navigation
+  document.getElementById('next-to-step-2').addEventListener('click', () => {
+    const token = document.getElementById('github-token').value.trim();
+    if (!token) {
+      alert('Please enter your GitHub Personal Access Token');
+      return;
+    }
+    
+    if (!window.OctokitClass) {
+      alert('GitHub library is still loading. Please wait a moment and try again.');
+      return;
+    }
+    
+    githubToken = token;
+    octokit = new window.OctokitClass({ auth: githubToken });
+    showStep(2);
+  });
+
+  document.getElementById('back-to-step-1').addEventListener('click', () => showStep(1));
+  
+  document.getElementById('next-to-step-3').addEventListener('click', () => {
+    const fileInput = document.getElementById('image-files');
+    const files = Array.from(fileInput.files);
+    
+    if (files.length === 0) {
+      alert('Please select at least one image');
+      return;
+    }
+    
+    const invalidFiles = files.filter(f => !f.name.toLowerCase().endsWith('.avif'));
+    if (invalidFiles.length > 0) {
+      alert('Only .avif files are allowed');
+      return;
+    }
+    
+    selectedFiles = files;
+    showStep(3);
+  });
+
+  document.getElementById('back-to-step-2').addEventListener('click', () => showStep(2));
+  
+  document.getElementById('next-to-step-4').addEventListener('click', () => {
+    const description = document.getElementById('image-description').value.trim();
+    if (!description) {
+      alert('Please enter a description');
+      return;
+    }
+    formData.description = description;
+    showStep(4);
+  });
+
+  document.getElementById('back-to-step-3').addEventListener('click', () => showStep(3));
+  
+  document.getElementById('next-to-step-5').addEventListener('click', () => {
+    const year = document.getElementById('photo-year').value;
+    const month = document.getElementById('photo-month').value;
+    const day = document.getElementById('photo-day').value;
+    
+    let dateStr = '';
+    if (year || month || day) {
+      dateStr = `${year || '0000'}-${month || '00'}-${day || '00'}`;
+    }
+    formData.date = dateStr;
+    showStep(5);
+  });
+
+  document.getElementById('back-to-step-4').addEventListener('click', () => showStep(4));
+
+  document.getElementById('add-citation').addEventListener('click', () => {
+    const container = document.getElementById('citations-container');
+    const input = document.createElement('input');
+    input.type = 'text';
+    input.className = 'citation-input';
+    input.placeholder = 'Enter citation URL (optional)';
+    container.appendChild(input);
+  });
+
+  document.getElementById('next-to-step-6').addEventListener('click', () => {
+    const citationInputs = document.querySelectorAll('.citation-input');
+    formData.citations = Array.from(citationInputs)
+      .map(input => input.value.trim())
+      .filter(val => val !== '');
+    showStep(6);
+  });
+
+  document.getElementById('back-to-step-5').addEventListener('click', () => showStep(5));
+
+  document.getElementById('submit-images').addEventListener('click', () => {
+    formData.prDescription = document.getElementById('pr-description').value.trim();
+    showStep(7);
+    createPullRequest();
+  });
+
+  document.getElementById('close-modal-btn').addEventListener('click', () => {
+    modal.style.display = 'none';
+    resetForm();
+  });
+
+  document.getElementById('retry-btn').addEventListener('click', () => {
+    showStep(1);
+  });
+
+  function showStep(stepNum) {
+    document.querySelectorAll('.step').forEach(step => step.style.display = 'none');
+    document.getElementById(`step-${stepNum}`).style.display = 'block';
+  }
+
+  function resetForm() {
+    selectedFiles = [];
+    githubToken = '';
+    octokit = null;
+    formData = { files: [], description: '', date: '', citations: [], prDescription: '' };
+    document.getElementById('github-token').value = '';
+    document.getElementById('image-files').value = '';
+    document.getElementById('image-description').value = '';
+    document.getElementById('photo-year').value = '';
+    document.getElementById('photo-month').value = '';
+    document.getElementById('photo-day').value = '';
+    document.getElementById('pr-description').value = '';
+    document.getElementById('citations-container').innerHTML = 
+      '<input type="text" class="citation-input" placeholder="Enter citation URL (optional)">';
+    
+    // Reset progress indicators
+    for (let i = 1; i <= 6; i++) {
+      const icon = document.getElementById(`progress-${i}`);
+      if (icon) icon.textContent = '⏳';
+    }
+    document.getElementById('progress-content').style.display = 'block';
+    document.getElementById('success-content').style.display = 'none';
+    document.getElementById('error-content').style.display = 'none';
+    
+    showStep(1);
+  }
+
+  function updateProgress(step, status) {
+    const icon = document.getElementById(`progress-${step}`);
+    if (!icon) return;
+    
+    if (status === 'success') {
+      icon.textContent = '✅';
+    } else if (status === 'error') {
+      icon.textContent = '❌';
+    } else {
+      icon.textContent = '⏳';
+    }
+  }
+
+  function showError(message) {
+    document.getElementById('progress-content').style.display = 'none';
+    document.getElementById('error-content').style.display = 'block';
+    document.getElementById('error-message').textContent = message;
+  }
+
+  function showSuccess(prUrl) {
+    document.getElementById('progress-content').style.display = 'none';
+    document.getElementById('success-content').style.display = 'block';
+    document.getElementById('pr-link').href = prUrl;
+  }
+
+  function generateRandomString(length = 16) {
+    const chars = 'abcdefghijklmnopqrstuvwxyz0123456789';
+    let result = '';
+    for (let i = 0; i < length; i++) {
+      result += chars.charAt(Math.floor(Math.random() * chars.length));
+    }
+    return result;
+  }
+
+  async function fileToBase64(file) {
+    return new Promise((resolve, reject) => {
+      const reader = new FileReader();
+      reader.onload = () => {
+        const base64 = reader.result.split(',')[1];
+        resolve(base64);
+      };
+      reader.onerror = reject;
+      reader.readAsDataURL(file);
+    });
+  }
+
+  async function createPullRequest() {
+    try {
+      // Step 1: Validate token and get user info
+      updateProgress(1, 'loading');
+      const { data: user } = await octokit.rest.users.getAuthenticated();
+      const userLogin = user.login;
+      updateProgress(1, 'success');
+
+      // Generate file metadata
+      const fileData = selectedFiles.map(file => {
+        const randomName = generateRandomString();
+        return {
+          originalFile: file,
+          filename: `${randomName}.avif`,
+          randomName: randomName
+        };
+      });
+
+      // Step 2: Check if user has a fork, create one if not, and sync it
+      updateProgress(2, 'loading');
+      let forkExists = false;
+      
+      // Check if fork exists
+      try {
+        await octokit.rest.repos.get({
+          owner: userLogin,
+          repo: GITHUB_REPO
+        });
+        forkExists = true;
+      } catch (error) {
+        if (error.status === 404) {
+          // Fork doesn't exist, create it
+          await octokit.rest.repos.createFork({
+            owner: GITHUB_OWNER,
+            repo: GITHUB_REPO
+          });
+          
+          // Wait for the fork to be ready (GitHub needs time to initialize it)
+          await new Promise(resolve => setTimeout(resolve, 5000));
+        } else {
+          throw error;
+        }
+      }
+      
+      // Sync fork with upstream if it already existed
+      if (forkExists) {
+        try {
+          await octokit.request('POST /repos/{owner}/{repo}/merge-upstream', {
+            owner: userLogin,
+            repo: GITHUB_REPO,
+            branch: GITHUB_BRANCH
+          });
+        } catch (error) {
+          // If sync fails (e.g., due to conflicts or already up-to-date), continue anyway
+          console.log('Fork sync skipped or failed:', error.message);
+        }
+      }
+      
+      // Get the latest commit SHA from the fork's base branch
+      const { data: ref } = await octokit.rest.git.getRef({
+        owner: userLogin,
+        repo: GITHUB_REPO,
+        ref: `heads/${GITHUB_BRANCH}`
+      });
+      const baseSha = ref.object.sha;
+      
+      // Create new branch in the fork
+      const branchName = `photos-${Date.now()}`;
+      await octokit.rest.git.createRef({
+        owner: userLogin,
+        repo: GITHUB_REPO,
+        ref: `refs/heads/${branchName}`,
+        sha: baseSha
+      });
+      updateProgress(2, 'success');
+
+      // Step 3: Upload images as blobs to the fork
+      updateProgress(3, 'loading');
+      const imageBlobs = [];
+      for (const fileInfo of fileData) {
+        const base64Content = await fileToBase64(fileInfo.originalFile);
+        const { data: blob } = await octokit.rest.git.createBlob({
+          owner: userLogin,
+          repo: GITHUB_REPO,
+          content: base64Content,
+          encoding: 'base64'
+        });
+        imageBlobs.push({
+          sha: blob.sha,
+          path: `static/photos/${fileInfo.filename}`
+        });
+      }
+      updateProgress(3, 'success');
+
+      // Step 4: Create markdown files as blobs in the fork
+      updateProgress(4, 'loading');
+      const markdownBlobs = [];
+      for (const fileInfo of fileData) {
+        // Format citations array
+        const citationsArray = formData.citations.length > 0 
+          ? '[' + formData.citations.map(c => `"${c}"`).join(', ') + ']'
+          : '[]';
+        
+        // Format pages array - currentPageTitle comes from Hugo's jsonify, so it's already a JSON string
+        // We need to wrap it in an array without re-escaping
+        const pagesArray = `[${currentPageTitle}]`;
+        
+        // Format categories array - currentPageCategories is already a JSON array from Hugo's jsonify
+        // Use it directly or default to empty array
+        const categoriesArray = currentPageCategories || '[]';
+        
+        const content = `+++
+title = "${fileInfo.filename}"
+startDate = "${formData.date}"
+citations = ${citationsArray}
+pages = ${pagesArray}
+tags = ["Photos"]
+categories = ${categoriesArray}
++++
+${formData.description}`;
+
+        // Use btoa for browser-native base64 encoding
+        const base64Content = btoa(unescape(encodeURIComponent(content)));
+
+        const { data: blob } = await octokit.rest.git.createBlob({
+          owner: userLogin,
+          repo: GITHUB_REPO,
+          content: base64Content,
+          encoding: 'base64'
+        });
+        markdownBlobs.push({
+          sha: blob.sha,
+          path: `content/photos/${fileInfo.randomName}.md`
+        });
+      }
+      updateProgress(4, 'success');
+
+      // Step 5: Create tree and commit in the fork
+      updateProgress(5, 'loading');
+      
+      // Get base tree
+      const { data: baseCommit } = await octokit.rest.git.getCommit({
+        owner: userLogin,
+        repo: GITHUB_REPO,
+        commit_sha: baseSha
+      });
+
+      // Create new tree with all files
+      const tree = [...imageBlobs, ...markdownBlobs].map(blob => ({
+        path: blob.path,
+        mode: '100644',
+        type: 'blob',
+        sha: blob.sha
+      }));
+
+      const { data: newTree } = await octokit.rest.git.createTree({
+        owner: userLogin,
+        repo: GITHUB_REPO,
+        base_tree: baseCommit.tree.sha,
+        tree: tree
+      });
+
+      // Create commit
+      const commitMessage = `Add ${fileData.length} photo${fileData.length > 1 ? 's' : ''}: ${formData.description.substring(0, 50)}${formData.description.length > 50 ? '...' : ''}`;
+      
+      const { data: newCommit } = await octokit.rest.git.createCommit({
+        owner: userLogin,
+        repo: GITHUB_REPO,
+        message: commitMessage,
+        tree: newTree.sha,
+        parents: [baseSha]
+      });
+
+      // Update branch reference in the fork
+      await octokit.rest.git.updateRef({
+        owner: userLogin,
+        repo: GITHUB_REPO,
+        ref: `heads/${branchName}`,
+        sha: newCommit.sha
+      });
+      updateProgress(5, 'success');
+
+      // Step 6: Create pull request from fork to upstream
+      updateProgress(6, 'loading');
+      
+      const prTitle = currentPageTitle;
+      
+      let prBody = `## New Photo Submission
+
+**Description:** ${formData.description}  
+**Date:** ${formData.date || 'Not specified'}  
+**Page:** ${currentPageTitle}`;
+
+      if (formData.citations.length > 0) {
+        prBody += `\n\n**Citations:**\n${formData.citations.map(c => `- ${c}`).join('\n')}`;
+      }
+
+      prBody += `\n\n**Files Added:**\n${fileData.map(f => 
+        `- \`static/photos/${f.filename}\`\n- \`content/photos/${f.randomName}.md\``
+      ).join('\n')}`;
+
+      if (formData.prDescription) {
+        prBody += `\n\n---\n\n${formData.prDescription}`;
+      }
+
+      // Create PR from user's fork to the original repo
+      const { data: pr } = await octokit.rest.pulls.create({
+        owner: GITHUB_OWNER,
+        repo: GITHUB_REPO,
+        title: prTitle,
+        head: `${userLogin}:${branchName}`,  // Format: username:branch
+        base: GITHUB_BRANCH,
+        body: prBody
+      });
+      
+      updateProgress(6, 'success');
+      showSuccess(pr.html_url);
+
+    } catch (error) {
+      console.error('Error creating pull request:', error);
+      
+      // Find which step failed
+      for (let i = 1; i <= 6; i++) {
+        const icon = document.getElementById(`progress-${i}`);
+        if (icon && icon.textContent === '⏳') {
+          updateProgress(i, 'error');
+          break;
+        }
+      }
+      
+      let errorMessage = 'An error occurred while creating the pull request.';
+      
+      if (error.status === 401) {
+        errorMessage = 'Invalid GitHub token. Please check your token and try again.';
+      } else if (error.status === 403) {
+        errorMessage = 'Permission denied. Make sure your token has "Contents" and "Pull Requests" permissions.';
+      } else if (error.status === 404) {
+        errorMessage = 'Repository not found. Please check your token permissions.';
+      } else if (error.message) {
+        errorMessage = error.message;
+      }
+      
+      showError(errorMessage);
+    }
+  }
+})();
+</script>
