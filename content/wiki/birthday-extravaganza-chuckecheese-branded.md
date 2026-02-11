@@ -7,7 +7,7 @@ pageThumbnailFile = "birthdayextravaganzacec.avif"
 credits = ["Sundance Productions|Producer","Steve White|Writer","David Wolf|Composer","David Roth|Vocal Arrangements","Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Connie Nelson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "'Happy Birthday to You' - Patty Hill and Mildred J. Hill"]
 showtapeFormats = ["Cyberamics Reel","C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)","R12 SVHS (Pre-93)"]
 citations = ["https://www.youtube.com/watch?v=jOFKg5vx5Pw"]
-startDate = "1989-07-00"
+startDate = "1989-05-00"
 endDate = "1992-02-00"
 contributors = ["Ceclife13","Cyber Snout"]
 +++
@@ -24,8 +24,10 @@ The performance ends with all of the Pizza Time Players shouting "HAPPY BIRTHDAY
 
 | Release Year | Showtape                                                  | Format                                               |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
+| 1989         | {{< wiki-link "Chuck E. Cheese Shows (CEC Best of 1988)" >}}                     | Cyberamics Reel, C&R SVHS (Pre-93), R12 SVHS (Pre-93)    |
 | 1989         | {{< wiki-link "CEC Dreams/Kids Showtape" >}}              | Cyberamics Reel, C&R SVHS (Pre-93)                   |
 | 1989         | {{< wiki-link "CEC Neighbors / Dreams" >}}                | Cyberamics Reel, C&R SVHS (Pre-93)                   |
+| 1989         | {{< wiki-link "CEC Christmas '89 / Wave Bday" >}}                     | Cyberamics Reel, C&R SVHS (Pre-93), R12 SVHS (Pre-93)    |
 | 1990         | {{< wiki-link "CEC American Pride / Neighbors" >}}        | Cyberamics Reel, C&R SVHS (Pre-93)                   |
 | 1990         | {{< wiki-link "CEC Kids / American Pride" >}}             | Cyberamics Reel, C&R SVHS (Pre-93)                   |
 | 1990         | {{< wiki-link "CEC Summer 1990 (3 Skits)" >}}             | Cyberamics Reel, C&R SVHS (Pre-93)                   |
