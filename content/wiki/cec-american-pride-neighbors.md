@@ -10,19 +10,9 @@ citations = []
 pageThumbnailFile = "SROGxvYbK45yNGMEZXx3.avif"
 showtapeFormats = ["C&R SVHS (Pre-93)","Cyberamics Reel"]
 downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20American%20Pride%20_%20Neighbors/027-1214-80%20s005%20%28wobble%29.wav|Showtape Rip w/ Signals (#1)","https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20American%20Pride%20_%20Neighbors/027-1214-80%20s005.wav|Showtape Rip w/ Signals (#2)"]
-<<<<<<< Updated upstream
-=======
-
 +++
-***CEC American Pride / Neighbors*** was released for *Chuck E. Cheese's* locations in the beginning of the year, it also serves being the first showtape released for the new decade the 1990s.
->>>>>>> Stashed changes
-
-+++
-<<<<<<< Updated upstream
 ***CEC American Pride / Neighbors*** was released for *Chuck E. Cheese's* locations in January 1990, and was the first showtape released in the 1990s.
-=======
-***CEC American Pride / Neighbors*** was released for *Chuck E. Cheese's* locations in the beginning of the year, it also serves being the first showtape released for the new decade the 1990s.
->>>>>>> Stashed changes
+
 
 ## SVHS Show List:
 
