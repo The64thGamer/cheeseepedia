@@ -120,7 +120,7 @@ downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c
 7. **Special 5**
     1.  {{< wiki-link "Chuck E. Cheese Live" >}}
 8. **Special 6**
-    1.  {{< wiki-link "Birthday Extravaganza (Showbiz Branded)" >}}
+    1.  {{< wiki-link "Birthday Extravaganza (ShowBiz Branded)" >}}
 9. **Segment 3**
     1.  Neighbors 1
         1.  [Hi, Neighbor](https://en.wikipedia.org/wiki/Jack_Owens_(singer-songwriter))
