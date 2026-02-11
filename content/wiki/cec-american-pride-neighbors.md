@@ -5,14 +5,14 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1990-01-00"
 endDate = "1990-02-00"
-contributors = ["DerekCat"]
+contributors = ["DerekCat", "Ceclife13"]
 citations = []
 pageThumbnailFile = "SROGxvYbK45yNGMEZXx3.avif"
 showtapeFormats = ["C&R SVHS (Pre-93)","Cyberamics Reel"]
 +++
-***CEC American Pride / Neighbors* was released for *Chuck E. Cheese's* locations in the beginning of the year, it also serves being the first showtape released for the new decade the 1990s.**
+***CEC American Pride / Neighbors*** was released for *Chuck E. Cheese's* locations in January 1990, and was the first showtape released in the 1990s.
 
-## Show List:
+## SVHS Show List:
 
 1. **Intermission 1**
     1.  8 Minute Countdown
@@ -88,3 +88,48 @@ showtapeFormats = ["C&R SVHS (Pre-93)","Cyberamics Reel"]
         1.  [Pop Goes the Weasel](https://en.wikipedia.org/wiki/Pop_Goes_the_Weasel)
         2.  [Down By the Station](https://en.wikipedia.org/wiki/Down_by_the_Station)
         3.  [Looby Loo](https://en.wikipedia.org/wiki/Here_we_go_Loop_de_Loop)
+
+## Reel Show List:
+      
+1. **Segment 1**
+    1.  American Pride 1
+        1.  [Born in the USA](https://en.wikipedia.org/wiki/Born_in_the_U.S.A.)
+        2.  [America (From West Side Story)](https://en.wikipedia.org/wiki/America_(West_Side_Story_song))
+        3.  [This Land is Your Land](https://en.wikipedia.org/wiki/This_Land_Is_Your_Land)
+        4.  [American Music](https://en.wikipedia.org/wiki/So_Excited!)
+        5.  [Back in the USA](https://en.wikipedia.org/wiki/Back_in_the_U.S.A.)
+2. **Segment 2**
+    1.  American Pride 2
+        1.  [I Get Around](https://en.wikipedia.org/wiki/I_Get_Around)
+        2.  [Theme from New York, New York](https://en.wikipedia.org/wiki/Theme_from_New_York,_New_York)
+        3.  [Rocky Top](https://en.wikipedia.org/wiki/Rocky_Top)
+        4.  [Oh Black Water](https://en.wikipedia.org/wiki/Black_Water_(song))
+        5.  [My Kind of Town](https://en.wikipedia.org/wiki/My_Kind_of_Town)
+        6.  [Deep In The Heart of Texas](https://en.wikipedia.org/wiki/Deep_in_the_Heart_of_Texas)
+        7.  [California, Here I Come](https://en.wikipedia.org/wiki/California,_Here_I_Come)
+3. **Special 1**
+    1.  Joy To The World Birthday
+4. **Special 2**
+    1.  Dancin' In The Street Birthday
+5. **Special 3**
+    1.  Beach Boys Birthday
+6. **Special 4**
+    1.  {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}}
+7. **Special 5**
+    1.  {{< wiki-link "Chuck E. Cheese Live" >}}
+8. **Special 6**
+    1.  {{< wiki-link "Birthday Extravaganza (Showbiz Branded)" >}}
+9. **Segment 3**
+    1.  Neighbors 1
+        1.  [Hi, Neighbor](https://en.wikipedia.org/wiki/Jack_Owens_(singer-songwriter))
+        2.  Canadian Bacon (Parody of [American Woman](https://en.wikipedia.org/wiki/American_Woman))
+        3.  [Lost River](https://en.wikipedia.org/wiki/Michael_Martin_Murphey_(album))
+        4.  Fiesta
+        5.  [Mexico](https://en.wikipedia.org/wiki/Mexico_(James_Taylor_song))
+        6.  [Reach Out and Touch (Somebody's Hand)](https://en.wikipedia.org/wiki/Reach_Out_and_Touch_(Somebody%27s_Hand))
+10. **Segment 4**
+    1.  Neighbors 2
+        1.  [Won't You Be My Neighbor?](https://en.wikipedia.org/wiki/Mister_Rogers%27_Neighborhood)
+        2.  [Penny Lane](https://en.wikipedia.org/wiki/Penny_Lane)
+        3.  [The People Next Door](https://en.wikipedia.org/wiki/Ray_Parker_Jr.)
+        4.  [Down on the Corner](https://en.wikipedia.org/wiki/Down_on_the_Corner)
