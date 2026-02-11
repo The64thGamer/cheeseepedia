@@ -18,16 +18,16 @@ downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c
 
 1. Segment 1
     1. Movie Magic
-      1. [Hooray for Hollywood](https://en.wikipedia.org/wiki/Hooray_for_Hollywood)
-      2. [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters_(song))
-      3. [Back In Time](https://en.wikipedia.org/wiki/Back_in_Time_(Huey_Lewis_and_the_News_song))
-      4. [Maniac](https://en.wikipedia.org/wiki/Maniac_(Michael_Sembello_song))
-      5. [Up Where We Belong](https://en.wikipedia.org/wiki/Up_Where_We_Belong)
-      6. [The Wiz](https://en.wikipedia.org/wiki/The_Wiz_(film)) Medley
-          1. [Ease On Down The Road](https://en.wikipedia.org/wiki/Ease_on_Down_the_Road)
-          2. [Somewhere Over The Rainbow](https://en.wikipedia.org/wiki/Over_the_Rainbow)
-          3. [I'm A Mean Ole Lion](https://en.wikipedia.org/wiki/The_Wiz_(soundtrack))
-          4. [Don't You Bring Me No Bad News](https://en.wikipedia.org/wiki/The_Wiz_(soundtrack))
+          1. [Hooray for Hollywood](https://en.wikipedia.org/wiki/Hooray_for_Hollywood)
+          2. [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters_(song))
+          3. [Back In Time](https://en.wikipedia.org/wiki/Back_in_Time_(Huey_Lewis_and_the_News_song))
+          4. [Maniac](https://en.wikipedia.org/wiki/Maniac_(Michael_Sembello_song))
+          5. [Up Where We Belong](https://en.wikipedia.org/wiki/Up_Where_We_Belong)
+          6. [The Wiz](https://en.wikipedia.org/wiki/The_Wiz_(film)) Medley
+              1. [Ease On Down The Road](https://en.wikipedia.org/wiki/Ease_on_Down_the_Road)
+              2. [Somewhere Over The Rainbow](https://en.wikipedia.org/wiki/Over_the_Rainbow)
+              3. [I'm A Mean Ole Lion](https://en.wikipedia.org/wiki/The_Wiz_(soundtrack))
+              4. [Don't You Bring Me No Bad News](https://en.wikipedia.org/wiki/The_Wiz_(soundtrack))
 2. Special 1
     1. Beatles Birthday
 3. Special 2
