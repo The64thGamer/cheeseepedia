@@ -16,6 +16,69 @@
       "trust_level": 2
     },
     {
+      "id": 17,
+      "username": "PizzaEntertainment",
+      "name": "Pizza Entertainment Fan",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/pizzaentertainment/{size}/265_2.png",
+      "primary_group_name": "BankruptcyBelievers",
+      "flair_name": "BankruptcyBelievers",
+      "flair_url": "building-columns",
+      "flair_bg_color": "352240",
+      "flair_color": "FFFFFF",
+      "flair_group_id": 41,
+      "trust_level": 2
+    },
+    {
+      "id": 89,
+      "username": "RazorKatxD",
+      "name": null,
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/razorkatxd/{size}/1207_2.png",
+      "primary_group_name": "BankruptcyBelievers",
+      "flair_name": "BankruptcyBelievers",
+      "flair_url": "building-columns",
+      "flair_bg_color": "352240",
+      "flair_color": "FFFFFF",
+      "flair_group_id": 41,
+      "trust_level": 1
+    },
+    {
+      "id": 65,
+      "username": "CECR995",
+      "name": "",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/cecr995/{size}/1200_2.png",
+      "primary_group_name": "BankruptcyBelievers",
+      "flair_name": "BankruptcyBelievers",
+      "flair_url": "building-columns",
+      "flair_bg_color": "352240",
+      "flair_color": "FFFFFF",
+      "flair_group_id": 41,
+      "trust_level": 2
+    },
+    {
+      "id": 93,
+      "username": "Cody",
+      "name": null,
+      "avatar_template": "/letter_avatar_proxy/v4/letter/c/ecd19e/{size}.png",
+      "trust_level": 0
+    },
+    {
+      "id": 3,
+      "username": "Stripes",
+      "name": "",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/stripes/{size}/152_2.png",
+      "primary_group_name": "BankruptcyBelievers",
+      "flair_name": "CheesyChatters",
+      "flair_group_id": 42,
+      "trust_level": 2
+    },
+    {
+      "id": 25,
+      "username": "crunchybeans",
+      "name": "stel/bug/crunchy (they/them)",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/crunchybeans/{size}/491_2.png",
+      "trust_level": 2
+    },
+    {
       "id": 69,
       "username": "LenzuLeLooney",
       "name": "",
@@ -27,6 +90,31 @@
       "username": "AccountHalf",
       "name": "Account Half",
       "avatar_template": "/user_avatar/forum.cheeseepedia.org/accounthalf/{size}/308_2.png",
+      "trust_level": 1
+    },
+    {
+      "id": 7,
+      "username": "JuanMorales",
+      "name": "Juan Pablo Morales",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/juanmorales/{size}/160_2.png",
+      "flair_name": "InternationalFan",
+      "flair_url": "earth-europe",
+      "flair_bg_color": "44BD53",
+      "flair_color": "FFFF",
+      "flair_group_id": 49,
+      "trust_level": 2
+    },
+    {
+      "id": 84,
+      "username": "LunaSI",
+      "name": "",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/lunasi/{size}/1149_2.png",
+      "primary_group_name": "BankruptcyBelievers",
+      "flair_name": "BankruptcyBelievers",
+      "flair_url": "building-columns",
+      "flair_bg_color": "352240",
+      "flair_color": "FFFFFF",
+      "flair_group_id": 41,
       "trust_level": 1
     },
     {
@@ -56,39 +144,6 @@
       "trust_level": 1
     },
     {
-      "id": 17,
-      "username": "PizzaEntertainment",
-      "name": "Pizza Entertainment Fan",
-      "avatar_template": "/user_avatar/forum.cheeseepedia.org/pizzaentertainment/{size}/265_2.png",
-      "primary_group_name": "BankruptcyBelievers",
-      "flair_name": "BankruptcyBelievers",
-      "flair_url": "building-columns",
-      "flair_bg_color": "352240",
-      "flair_color": "FFFFFF",
-      "flair_group_id": 41,
-      "trust_level": 2
-    },
-    {
-      "id": 65,
-      "username": "CECR995",
-      "name": "",
-      "avatar_template": "/user_avatar/forum.cheeseepedia.org/cecr995/{size}/1181_2.png",
-      "primary_group_name": "BankruptcyBelievers",
-      "flair_name": "BankruptcyBelievers",
-      "flair_url": "building-columns",
-      "flair_bg_color": "352240",
-      "flair_color": "FFFFFF",
-      "flair_group_id": 41,
-      "trust_level": 1
-    },
-    {
-      "id": 25,
-      "username": "crunchybeans",
-      "name": "stel/bug/crunchy (they/them)",
-      "avatar_template": "/user_avatar/forum.cheeseepedia.org/crunchybeans/{size}/491_2.png",
-      "trust_level": 2
-    },
-    {
       "id": 61,
       "username": "cmsentance-byte",
       "name": "Cmsentance Byte",
@@ -108,45 +163,6 @@
       "name": "",
       "avatar_template": "/user_avatar/forum.cheeseepedia.org/filefickle/{size}/269_2.png",
       "trust_level": 1
-    },
-    {
-      "id": 27,
-      "username": "GallaRM",
-      "name": "Galla",
-      "avatar_template": "/user_avatar/forum.cheeseepedia.org/gallarm/{size}/382_2.png",
-      "primary_group_name": "BankruptcyBelievers",
-      "flair_name": "BankruptcyBelievers",
-      "flair_url": "building-columns",
-      "flair_bg_color": "352240",
-      "flair_color": "FFFFFF",
-      "flair_group_id": 41,
-      "trust_level": 2
-    },
-    {
-      "id": 12,
-      "username": "Ceclife13",
-      "name": "",
-      "avatar_template": "/user_avatar/forum.cheeseepedia.org/ceclife13/{size}/201_2.png",
-      "primary_group_name": "BankruptcyBelievers",
-      "flair_name": "BankruptcyBelievers",
-      "flair_url": "building-columns",
-      "flair_bg_color": "352240",
-      "flair_color": "FFFFFF",
-      "flair_group_id": 41,
-      "moderator": true,
-      "trust_level": 1
-    },
-    {
-      "id": 7,
-      "username": "JuanMorales",
-      "name": "Juan Pablo Morales",
-      "avatar_template": "/user_avatar/forum.cheeseepedia.org/juanmorales/{size}/160_2.png",
-      "flair_name": "InternationalFan",
-      "flair_url": "earth-europe",
-      "flair_bg_color": "44BD53",
-      "flair_color": "FFFF",
-      "flair_group_id": 49,
-      "trust_level": 2
     }
   ],
   "primary_groups": [
@@ -164,6 +180,13 @@
       "flair_color": "FFFFFF"
     },
     {
+      "id": 42,
+      "name": "CheesyChatters",
+      "flair_url": null,
+      "flair_bg_color": "",
+      "flair_color": ""
+    },
+    {
       "id": 49,
       "name": "InternationalFan",
       "flair_url": "earth-europe",
@@ -179,8 +202,8 @@
       "chuck-e-cheese",
       "lost-media",
       "bankruptcy-believers",
-      "cheese-e-pedia",
       "pizza-time-theatre",
+      "cheese-e-pedia",
       "cec-animated-series",
       "adventure-world",
       "rock-afire-explosion",
@@ -198,18 +221,616 @@
     ],
     "topics": [
       {
+        "fancy_title": "Gigantic PTT/CEC Showtape Drop",
+        "id": 269,
+        "title": "Gigantic PTT/CEC Showtape Drop",
+        "slug": "gigantic-ptt-cec-showtape-drop",
+        "posts_count": 2,
+        "reply_count": 0,
+        "highest_post_number": 2,
+        "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/d/d5a9bc0399e288cd02f3e4ca536870b002ba54b4.jpeg",
+        "created_at": "2026-02-10T20:07:32.106Z",
+        "last_posted_at": "2026-02-10T20:11:01.308Z",
+        "bumped": true,
+        "bumped_at": "2026-02-10T20:11:01.308Z",
+        "archetype": "regular",
+        "unseen": false,
+        "pinned": false,
+        "unpinned": null,
+        "visible": true,
+        "closed": false,
+        "archived": false,
+        "bookmarked": null,
+        "liked": null,
+        "thumbnails": [
+          {
+            "max_width": null,
+            "max_height": null,
+            "width": 854,
+            "height": 480,
+            "url": "https://forum.cheeseepedia.org/uploads/default/original/2X/d/d5a9bc0399e288cd02f3e4ca536870b002ba54b4.jpeg"
+          },
+          {
+            "max_width": 800,
+            "max_height": 800,
+            "width": 800,
+            "height": 449,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/d/d5a9bc0399e288cd02f3e4ca536870b002ba54b4_2_800x449.jpeg"
+          },
+          {
+            "max_width": 600,
+            "max_height": 600,
+            "width": 600,
+            "height": 337,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/d/d5a9bc0399e288cd02f3e4ca536870b002ba54b4_2_600x337.jpeg"
+          },
+          {
+            "max_width": 400,
+            "max_height": 400,
+            "width": 400,
+            "height": 224,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/d/d5a9bc0399e288cd02f3e4ca536870b002ba54b4_2_400x224.jpeg"
+          },
+          {
+            "max_width": 300,
+            "max_height": 300,
+            "width": 300,
+            "height": 168,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/d/d5a9bc0399e288cd02f3e4ca536870b002ba54b4_2_300x168.jpeg"
+          },
+          {
+            "max_width": 200,
+            "max_height": 200,
+            "width": 200,
+            "height": 112,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/d/d5a9bc0399e288cd02f3e4ca536870b002ba54b4_2_200x112.jpeg"
+          }
+        ],
+        "tags": [
+          "pizza-time-theatre",
+          "lost-media"
+        ],
+        "tags_descriptions": {},
+        "views": 221,
+        "like_count": 2,
+        "has_summary": false,
+        "last_poster_username": "PizzaEntertainment",
+        "category_id": 5,
+        "op_like_count": 2,
+        "pinned_globally": false,
+        "featured_link": null,
+        "has_accepted_answer": false,
+        "can_vote": false,
+        "posters": [
+          {
+            "extras": null,
+            "description": "Original Poster",
+            "user_id": 1,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": "latest",
+            "description": "Most Recent Poster",
+            "user_id": 17,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          }
+        ]
+      },
+      {
+        "fancy_title": "New Atari Family Game Center Found!",
+        "id": 258,
+        "title": "New Atari Family Game Center Found!",
+        "slug": "new-atari-family-game-center-found",
+        "posts_count": 2,
+        "reply_count": 0,
+        "highest_post_number": 2,
+        "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/a/a2b88df2acd12157ffa41ff107a335f299aa5160.jpeg",
+        "created_at": "2026-02-09T16:28:27.776Z",
+        "last_posted_at": "2026-02-09T21:53:23.692Z",
+        "bumped": true,
+        "bumped_at": "2026-02-09T21:53:23.692Z",
+        "archetype": "regular",
+        "unseen": false,
+        "pinned": false,
+        "unpinned": null,
+        "visible": true,
+        "closed": false,
+        "archived": false,
+        "bookmarked": null,
+        "liked": null,
+        "thumbnails": [
+          {
+            "max_width": null,
+            "max_height": null,
+            "width": 858,
+            "height": 578,
+            "url": "https://forum.cheeseepedia.org/uploads/default/original/2X/a/a2b88df2acd12157ffa41ff107a335f299aa5160.jpeg"
+          },
+          {
+            "max_width": 800,
+            "max_height": 800,
+            "width": 800,
+            "height": 538,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a2b88df2acd12157ffa41ff107a335f299aa5160_2_800x538.jpeg"
+          },
+          {
+            "max_width": 600,
+            "max_height": 600,
+            "width": 600,
+            "height": 404,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a2b88df2acd12157ffa41ff107a335f299aa5160_2_600x404.jpeg"
+          },
+          {
+            "max_width": 400,
+            "max_height": 400,
+            "width": 400,
+            "height": 269,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a2b88df2acd12157ffa41ff107a335f299aa5160_2_400x269.jpeg"
+          },
+          {
+            "max_width": 300,
+            "max_height": 300,
+            "width": 300,
+            "height": 202,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a2b88df2acd12157ffa41ff107a335f299aa5160_2_300x202.jpeg"
+          },
+          {
+            "max_width": 200,
+            "max_height": 200,
+            "width": 200,
+            "height": 134,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a2b88df2acd12157ffa41ff107a335f299aa5160_2_200x134.jpeg"
+          }
+        ],
+        "tags": [
+          "pizza-time-theatre",
+          "lost-media"
+        ],
+        "tags_descriptions": {},
+        "views": 84,
+        "like_count": 1,
+        "has_summary": false,
+        "last_poster_username": "PizzaEntertainment",
+        "category_id": 5,
+        "op_like_count": 1,
+        "pinned_globally": false,
+        "featured_link": null,
+        "has_accepted_answer": false,
+        "can_vote": false,
+        "posters": [
+          {
+            "extras": "latest single",
+            "description": "Original Poster, Most Recent Poster",
+            "user_id": 17,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          }
+        ]
+      },
+      {
+        "fancy_title": "CEC First UK Location Discovered?",
+        "id": 257,
+        "title": "CEC First UK Location Discovered?",
+        "slug": "cec-first-uk-location-discovered",
+        "posts_count": 1,
+        "reply_count": 0,
+        "highest_post_number": 1,
+        "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/7/7a17690601ab7ba6dbcad97f3ad0a24d96a01680.jpeg",
+        "created_at": "2026-02-09T06:11:49.295Z",
+        "last_posted_at": "2026-02-09T06:11:49.472Z",
+        "bumped": true,
+        "bumped_at": "2026-02-09T06:11:49.472Z",
+        "archetype": "regular",
+        "unseen": false,
+        "pinned": false,
+        "unpinned": null,
+        "visible": true,
+        "closed": false,
+        "archived": false,
+        "bookmarked": null,
+        "liked": null,
+        "thumbnails": [
+          {
+            "max_width": null,
+            "max_height": null,
+            "width": 906,
+            "height": 498,
+            "url": "https://forum.cheeseepedia.org/uploads/default/original/2X/7/7a17690601ab7ba6dbcad97f3ad0a24d96a01680.jpeg"
+          },
+          {
+            "max_width": 800,
+            "max_height": 800,
+            "width": 800,
+            "height": 439,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/7/7a17690601ab7ba6dbcad97f3ad0a24d96a01680_2_800x439.jpeg"
+          },
+          {
+            "max_width": 600,
+            "max_height": 600,
+            "width": 600,
+            "height": 329,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/7/7a17690601ab7ba6dbcad97f3ad0a24d96a01680_2_600x329.jpeg"
+          },
+          {
+            "max_width": 400,
+            "max_height": 400,
+            "width": 400,
+            "height": 219,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/7/7a17690601ab7ba6dbcad97f3ad0a24d96a01680_2_400x219.jpeg"
+          },
+          {
+            "max_width": 300,
+            "max_height": 300,
+            "width": 300,
+            "height": 164,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/7/7a17690601ab7ba6dbcad97f3ad0a24d96a01680_2_300x164.jpeg"
+          },
+          {
+            "max_width": 200,
+            "max_height": 200,
+            "width": 200,
+            "height": 109,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/7/7a17690601ab7ba6dbcad97f3ad0a24d96a01680_2_200x109.jpeg"
+          }
+        ],
+        "tags": [
+          "chuck-e-cheese"
+        ],
+        "tags_descriptions": {},
+        "views": 219,
+        "like_count": 1,
+        "has_summary": false,
+        "last_poster_username": "The-64th-Gamer",
+        "category_id": 5,
+        "op_like_count": 1,
+        "pinned_globally": false,
+        "featured_link": null,
+        "has_accepted_answer": false,
+        "can_vote": false,
+        "posters": [
+          {
+            "extras": "latest single",
+            "description": "Original Poster, Most Recent Poster",
+            "user_id": 1,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          }
+        ]
+      },
+      {
+        "fancy_title": "CEC Continues Eroding Fun Check + More",
+        "id": 256,
+        "title": "CEC Continues Eroding Fun Check + More",
+        "slug": "cec-continues-eroding-fun-check-more",
+        "posts_count": 1,
+        "reply_count": 0,
+        "highest_post_number": 1,
+        "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/adb288d2b5fe04b7bbe896aa269bbe7765ba110b_2_768x1024.jpeg",
+        "created_at": "2026-02-09T05:38:39.755Z",
+        "last_posted_at": "2026-02-09T05:38:39.941Z",
+        "bumped": true,
+        "bumped_at": "2026-02-09T05:38:39.941Z",
+        "archetype": "regular",
+        "unseen": false,
+        "pinned": false,
+        "unpinned": null,
+        "visible": true,
+        "closed": false,
+        "archived": false,
+        "bookmarked": null,
+        "liked": null,
+        "thumbnails": [
+          {
+            "max_width": null,
+            "max_height": null,
+            "width": 1536,
+            "height": 2048,
+            "url": "https://forum.cheeseepedia.org/uploads/default/original/2X/a/adb288d2b5fe04b7bbe896aa269bbe7765ba110b.jpeg"
+          },
+          {
+            "max_width": 1024,
+            "max_height": 1024,
+            "width": 768,
+            "height": 1024,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/adb288d2b5fe04b7bbe896aa269bbe7765ba110b_2_768x1024.jpeg"
+          },
+          {
+            "max_width": 800,
+            "max_height": 800,
+            "width": 600,
+            "height": 800,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/adb288d2b5fe04b7bbe896aa269bbe7765ba110b_2_600x800.jpeg"
+          },
+          {
+            "max_width": 600,
+            "max_height": 600,
+            "width": 450,
+            "height": 600,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/adb288d2b5fe04b7bbe896aa269bbe7765ba110b_2_450x600.jpeg"
+          },
+          {
+            "max_width": 400,
+            "max_height": 400,
+            "width": 300,
+            "height": 400,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/adb288d2b5fe04b7bbe896aa269bbe7765ba110b_2_300x400.jpeg"
+          },
+          {
+            "max_width": 300,
+            "max_height": 300,
+            "width": 225,
+            "height": 300,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/adb288d2b5fe04b7bbe896aa269bbe7765ba110b_2_225x300.jpeg"
+          },
+          {
+            "max_width": 200,
+            "max_height": 200,
+            "width": 150,
+            "height": 200,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/adb288d2b5fe04b7bbe896aa269bbe7765ba110b_2_150x200.jpeg"
+          }
+        ],
+        "tags": [
+          "bankruptcy-believers"
+        ],
+        "tags_descriptions": {},
+        "views": 294,
+        "like_count": 1,
+        "has_summary": false,
+        "last_poster_username": "The-64th-Gamer",
+        "category_id": 5,
+        "op_like_count": 1,
+        "pinned_globally": false,
+        "featured_link": null,
+        "has_accepted_answer": false,
+        "can_vote": false,
+        "posters": [
+          {
+            "extras": "latest single",
+            "description": "Original Poster, Most Recent Poster",
+            "user_id": 1,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          }
+        ]
+      },
+      {
+        "fancy_title": "Lost Media Explosion #2",
+        "id": 251,
+        "title": "Lost Media Explosion #2",
+        "slug": "lost-media-explosion-2",
+        "posts_count": 3,
+        "reply_count": 1,
+        "highest_post_number": 3,
+        "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/1/169a0a3f709cc2ed3cbda0faa140d52f2358b1fb_2_1024x576.jpeg",
+        "created_at": "2026-02-07T21:00:14.813Z",
+        "last_posted_at": "2026-02-09T14:01:01.637Z",
+        "bumped": true,
+        "bumped_at": "2026-02-09T14:01:01.637Z",
+        "archetype": "regular",
+        "unseen": false,
+        "pinned": false,
+        "unpinned": null,
+        "visible": true,
+        "closed": false,
+        "archived": false,
+        "bookmarked": null,
+        "liked": null,
+        "thumbnails": [
+          {
+            "max_width": null,
+            "max_height": null,
+            "width": 1280,
+            "height": 720,
+            "url": "https://forum.cheeseepedia.org/uploads/default/original/2X/1/169a0a3f709cc2ed3cbda0faa140d52f2358b1fb.jpeg"
+          },
+          {
+            "max_width": 1024,
+            "max_height": 1024,
+            "width": 1024,
+            "height": 576,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/1/169a0a3f709cc2ed3cbda0faa140d52f2358b1fb_2_1024x576.jpeg"
+          },
+          {
+            "max_width": 800,
+            "max_height": 800,
+            "width": 800,
+            "height": 450,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/1/169a0a3f709cc2ed3cbda0faa140d52f2358b1fb_2_800x450.jpeg"
+          },
+          {
+            "max_width": 600,
+            "max_height": 600,
+            "width": 600,
+            "height": 337,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/1/169a0a3f709cc2ed3cbda0faa140d52f2358b1fb_2_600x337.jpeg"
+          },
+          {
+            "max_width": 400,
+            "max_height": 400,
+            "width": 400,
+            "height": 225,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/1/169a0a3f709cc2ed3cbda0faa140d52f2358b1fb_2_400x225.jpeg"
+          },
+          {
+            "max_width": 300,
+            "max_height": 300,
+            "width": 300,
+            "height": 168,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/1/169a0a3f709cc2ed3cbda0faa140d52f2358b1fb_2_300x168.jpeg"
+          },
+          {
+            "max_width": 200,
+            "max_height": 200,
+            "width": 200,
+            "height": 112,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/1/169a0a3f709cc2ed3cbda0faa140d52f2358b1fb_2_200x112.jpeg"
+          }
+        ],
+        "tags": [
+          "lost-media"
+        ],
+        "tags_descriptions": {},
+        "views": 292,
+        "like_count": 1,
+        "has_summary": false,
+        "last_poster_username": "RazorKatxD",
+        "category_id": 5,
+        "op_like_count": 1,
+        "pinned_globally": false,
+        "featured_link": null,
+        "has_accepted_answer": false,
+        "can_vote": false,
+        "posters": [
+          {
+            "extras": null,
+            "description": "Original Poster",
+            "user_id": 1,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": "latest",
+            "description": "Most Recent Poster",
+            "user_id": 89,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          }
+        ]
+      },
+      {
+        "fancy_title": "Aaron Releases High Quality 1979 IAAPA WP5 Audio",
+        "id": 247,
+        "title": "Aaron Releases High Quality 1979 IAAPA WP5 Audio",
+        "slug": "aaron-releases-high-quality-1979-iaapa-wp5-audio",
+        "posts_count": 4,
+        "reply_count": 0,
+        "highest_post_number": 4,
+        "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/9/908fb2b55e0dbc0dff6ac15938e63323e265bff3_2_1024x576.jpeg",
+        "created_at": "2026-02-05T16:33:17.624Z",
+        "last_posted_at": "2026-02-06T20:38:07.037Z",
+        "bumped": true,
+        "bumped_at": "2026-02-06T20:38:07.037Z",
+        "archetype": "regular",
+        "unseen": false,
+        "pinned": false,
+        "unpinned": null,
+        "visible": true,
+        "closed": false,
+        "archived": false,
+        "bookmarked": null,
+        "liked": null,
+        "thumbnails": [
+          {
+            "max_width": null,
+            "max_height": null,
+            "width": 1280,
+            "height": 720,
+            "url": "https://forum.cheeseepedia.org/uploads/default/original/2X/9/908fb2b55e0dbc0dff6ac15938e63323e265bff3.jpeg"
+          },
+          {
+            "max_width": 1024,
+            "max_height": 1024,
+            "width": 1024,
+            "height": 576,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/9/908fb2b55e0dbc0dff6ac15938e63323e265bff3_2_1024x576.jpeg"
+          },
+          {
+            "max_width": 800,
+            "max_height": 800,
+            "width": 800,
+            "height": 450,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/9/908fb2b55e0dbc0dff6ac15938e63323e265bff3_2_800x450.jpeg"
+          },
+          {
+            "max_width": 600,
+            "max_height": 600,
+            "width": 600,
+            "height": 337,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/9/908fb2b55e0dbc0dff6ac15938e63323e265bff3_2_600x337.jpeg"
+          },
+          {
+            "max_width": 400,
+            "max_height": 400,
+            "width": 400,
+            "height": 225,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/9/908fb2b55e0dbc0dff6ac15938e63323e265bff3_2_400x225.jpeg"
+          },
+          {
+            "max_width": 300,
+            "max_height": 300,
+            "width": 300,
+            "height": 168,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/9/908fb2b55e0dbc0dff6ac15938e63323e265bff3_2_300x168.jpeg"
+          },
+          {
+            "max_width": 200,
+            "max_height": 200,
+            "width": 200,
+            "height": 112,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/9/908fb2b55e0dbc0dff6ac15938e63323e265bff3_2_200x112.jpeg"
+          }
+        ],
+        "tags": [
+          "lost-media"
+        ],
+        "tags_descriptions": {},
+        "views": 209,
+        "like_count": 7,
+        "has_summary": false,
+        "last_poster_username": "Cody",
+        "category_id": 5,
+        "op_like_count": 2,
+        "pinned_globally": false,
+        "featured_link": null,
+        "has_accepted_answer": false,
+        "can_vote": false,
+        "posters": [
+          {
+            "extras": null,
+            "description": "Original Poster",
+            "user_id": 1,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 89,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 65,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": "latest",
+            "description": "Most Recent Poster",
+            "user_id": 93,
+            "primary_group_id": null,
+            "flair_group_id": null
+          }
+        ]
+      },
+      {
         "fancy_title": "David Mckillips Steps Down as CEO, Replaced with Scott Drake",
         "id": 241,
         "title": "David Mckillips Steps Down as CEO, Replaced with Scott Drake",
         "slug": "david-mckillips-steps-down-as-ceo-replaced-with-scott-drake",
-        "posts_count": 1,
-        "reply_count": 0,
-        "highest_post_number": 1,
+        "posts_count": 26,
+        "reply_count": 13,
+        "highest_post_number": 27,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/e/e65bd345ef41bb331f7307f46e92720a3c41b55d.jpeg",
         "created_at": "2026-02-03T15:36:57.929Z",
-        "last_posted_at": "2026-02-03T15:36:58.092Z",
+        "last_posted_at": "2026-02-11T16:27:25.090Z",
         "bumped": true,
-        "bumped_at": "2026-02-03T15:36:58.092Z",
+        "bumped_at": "2026-02-11T16:27:25.090Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -260,23 +881,51 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 24,
-        "like_count": 0,
+        "views": 1235,
+        "like_count": 19,
         "has_summary": false,
-        "last_poster_username": "The-64th-Gamer",
+        "last_poster_username": "crunchybeans",
         "category_id": 5,
-        "op_like_count": 0,
+        "op_like_count": 4,
         "pinned_globally": false,
         "featured_link": null,
         "has_accepted_answer": false,
         "can_vote": false,
         "posters": [
           {
-            "extras": "latest single",
-            "description": "Original Poster, Most Recent Poster",
+            "extras": null,
+            "description": "Original Poster",
             "user_id": 1,
             "primary_group_id": 41,
             "flair_group_id": 41
+          },
+          {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 89,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 17,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 3,
+            "primary_group_id": 41,
+            "flair_group_id": 42
+          },
+          {
+            "extras": "latest",
+            "description": "Most Recent Poster",
+            "user_id": 25,
+            "primary_group_id": null,
+            "flair_group_id": null
           }
         ]
       },
@@ -285,14 +934,14 @@
         "id": 240,
         "title": "Wiki User Upgrades!",
         "slug": "wiki-user-upgrades",
-        "posts_count": 1,
+        "posts_count": 2,
         "reply_count": 0,
-        "highest_post_number": 1,
+        "highest_post_number": 2,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/e/e5af96aa3c06e8dd1e871f8503e61d3f73e328e1.png",
         "created_at": "2026-02-03T09:46:16.755Z",
-        "last_posted_at": "2026-02-03T09:46:16.891Z",
+        "last_posted_at": "2026-02-03T18:53:35.341Z",
         "bumped": true,
-        "bumped_at": "2026-02-03T09:46:16.891Z",
+        "bumped_at": "2026-02-03T18:53:35.341Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -348,21 +997,28 @@
         ],
         "tags": [],
         "tags_descriptions": {},
-        "views": 3,
-        "like_count": 0,
+        "views": 70,
+        "like_count": 3,
         "has_summary": false,
-        "last_poster_username": "The-64th-Gamer",
+        "last_poster_username": "PizzaEntertainment",
         "category_id": 5,
-        "op_like_count": 0,
+        "op_like_count": 3,
         "pinned_globally": false,
         "featured_link": null,
         "has_accepted_answer": false,
         "can_vote": false,
         "posters": [
           {
-            "extras": "latest single",
-            "description": "Original Poster, Most Recent Poster",
+            "extras": null,
+            "description": "Original Poster",
             "user_id": 1,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": "latest",
+            "description": "Most Recent Poster",
+            "user_id": 17,
             "primary_group_id": 41,
             "flair_group_id": 41
           }
@@ -373,14 +1029,14 @@
         "id": 239,
         "title": "Lost Media Explosion",
         "slug": "lost-media-explosion",
-        "posts_count": 3,
-        "reply_count": 0,
-        "highest_post_number": 3,
+        "posts_count": 5,
+        "reply_count": 1,
+        "highest_post_number": 5,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/3/32911728f54d567c1ae9825a9095310072f42f49_2_1024x576.jpeg",
         "created_at": "2026-02-03T04:32:06.532Z",
-        "last_posted_at": "2026-02-03T06:00:05.849Z",
+        "last_posted_at": "2026-02-04T17:17:25.493Z",
         "bumped": true,
-        "bumped_at": "2026-02-03T06:00:05.849Z",
+        "bumped_at": "2026-02-04T17:17:25.493Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -445,10 +1101,10 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 83,
+        "views": 248,
         "like_count": 2,
         "has_summary": false,
-        "last_poster_username": "AccountHalf",
+        "last_poster_username": "crunchybeans",
         "category_id": 5,
         "op_like_count": 2,
         "pinned_globally": false,
@@ -471,9 +1127,23 @@
             "flair_group_id": null
           },
           {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 19,
+            "primary_group_id": null,
+            "flair_group_id": null
+          },
+          {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 7,
+            "primary_group_id": null,
+            "flair_group_id": 49
+          },
+          {
             "extras": "latest",
             "description": "Most Recent Poster",
-            "user_id": 19,
+            "user_id": 25,
             "primary_group_id": null,
             "flair_group_id": null
           }
@@ -484,14 +1154,14 @@
         "id": 237,
         "title": "Topic of the Month: Arcades & Attractions",
         "slug": "topic-of-the-month-arcades-attractions",
-        "posts_count": 1,
-        "reply_count": 0,
-        "highest_post_number": 1,
+        "posts_count": 4,
+        "reply_count": 1,
+        "highest_post_number": 4,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/7/7ecbdcf6b1ed0d6829e7a63255dca86a3a469c79.jpeg",
         "created_at": "2026-02-01T21:31:37.770Z",
-        "last_posted_at": "2026-02-01T21:31:37.929Z",
+        "last_posted_at": "2026-02-09T17:38:09.068Z",
         "bumped": true,
-        "bumped_at": "2026-02-01T21:31:37.929Z",
+        "bumped_at": "2026-02-09T17:38:09.068Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -535,21 +1205,35 @@
           "topic-of-the-month"
         ],
         "tags_descriptions": {},
-        "views": 80,
-        "like_count": 1,
+        "views": 139,
+        "like_count": 4,
         "has_summary": false,
-        "last_poster_username": "The-64th-Gamer",
+        "last_poster_username": "CyberSnout",
         "category_id": 5,
-        "op_like_count": 1,
+        "op_like_count": 2,
         "pinned_globally": false,
         "featured_link": null,
         "has_accepted_answer": false,
         "can_vote": false,
         "posters": [
           {
-            "extras": "latest single",
-            "description": "Original Poster, Most Recent Poster",
+            "extras": null,
+            "description": "Original Poster",
             "user_id": 1,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 84,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": "latest",
+            "description": "Most Recent Poster",
+            "user_id": 9,
             "primary_group_id": 41,
             "flair_group_id": 41
           }
@@ -611,12 +1295,12 @@
           "cheese-e-pedia"
         ],
         "tags_descriptions": {},
-        "views": 70,
-        "like_count": 0,
+        "views": 99,
+        "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
         "category_id": 5,
-        "op_like_count": 0,
+        "op_like_count": 1,
         "pinned_globally": false,
         "featured_link": null,
         "has_accepted_answer": false,
@@ -688,7 +1372,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 181,
+        "views": 211,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -771,7 +1455,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 171,
+        "views": 187,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "randomguyfan22-maker",
@@ -875,7 +1559,7 @@
           "cheese-e-pedia"
         ],
         "tags_descriptions": {},
-        "views": 140,
+        "views": 154,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -973,7 +1657,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 210,
+        "views": 225,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -1064,7 +1748,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 310,
+        "views": 329,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -1175,7 +1859,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 152,
+        "views": 156,
         "like_count": 0,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1266,7 +1950,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 193,
+        "views": 205,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1361,7 +2045,7 @@
         ],
         "tags": [],
         "tags_descriptions": {},
-        "views": 230,
+        "views": 243,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -1479,7 +2163,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 206,
+        "views": 213,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "randomguyfan22-maker",
@@ -1511,14 +2195,14 @@
         "id": 200,
         "title": "David McKillips Continues Years Long Pajamas and Cereal Delusions",
         "slug": "david-mckillips-continues-years-long-pajamas-and-cereal-delusions",
-        "posts_count": 6,
-        "reply_count": 1,
-        "highest_post_number": 6,
+        "posts_count": 9,
+        "reply_count": 2,
+        "highest_post_number": 10,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/c/c44eeaab6359412ab2e77e4c1099db07e2a1abca_2_1024x766.jpeg",
         "created_at": "2026-01-12T00:11:59.158Z",
-        "last_posted_at": "2026-01-18T20:24:10.337Z",
+        "last_posted_at": "2026-02-11T16:18:17.233Z",
         "bumped": true,
-        "bumped_at": "2026-01-18T20:24:10.337Z",
+        "bumped_at": "2026-02-11T16:18:17.233Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -1585,10 +2269,10 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 373,
+        "views": 403,
         "like_count": 7,
         "has_summary": false,
-        "last_poster_username": "cmsentance-byte",
+        "last_poster_username": "CECR995",
         "category_id": 5,
         "op_like_count": 4,
         "pinned_globally": false,
@@ -1620,16 +2304,16 @@
           {
             "extras": null,
             "description": "Frequent Poster",
-            "user_id": 65,
-            "primary_group_id": 41,
-            "flair_group_id": 41
+            "user_id": 61,
+            "primary_group_id": null,
+            "flair_group_id": null
           },
           {
             "extras": "latest",
             "description": "Most Recent Poster",
-            "user_id": 61,
-            "primary_group_id": null,
-            "flair_group_id": null
+            "user_id": 65,
+            "primary_group_id": 41,
+            "flair_group_id": 41
           }
         ]
       },
@@ -1712,7 +2396,7 @@
           "topic-of-the-month"
         ],
         "tags_descriptions": {},
-        "views": 180,
+        "views": 185,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1816,7 +2500,7 @@
           "cheese-e-pedia"
         ],
         "tags_descriptions": {},
-        "views": 150,
+        "views": 151,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1901,7 +2585,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 435,
+        "views": 442,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2012,7 +2696,7 @@
           "cheese-e-pedia"
         ],
         "tags_descriptions": {},
-        "views": 119,
+        "views": 121,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2109,7 +2793,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 380,
+        "views": 393,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -2220,7 +2904,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 164,
+        "views": 172,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2319,7 +3003,7 @@
           "rock-afire-explosion"
         ],
         "tags_descriptions": {},
-        "views": 245,
+        "views": 252,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2414,12 +3098,12 @@
         ],
         "tags": [
           "showbiz-pizza-place",
-          "rock-afire-explosion",
           "simulator",
+          "rock-afire-explosion",
           "creative-engineering"
         ],
         "tags_descriptions": {},
-        "views": 141,
+        "views": 148,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2517,7 +3201,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 170,
+        "views": 180,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2534,600 +3218,6 @@
             "user_id": 1,
             "primary_group_id": 41,
             "flair_group_id": 41
-          }
-        ]
-      },
-      {
-        "fancy_title": "FYI Live Show Interview 1992 w/ More Montfort Footage Found!",
-        "id": 179,
-        "title": "FYI Live Show Interview 1992 w/ More Montfort Footage Found!",
-        "slug": "fyi-live-show-interview-1992-w-more-montfort-footage-found",
-        "posts_count": 1,
-        "reply_count": 0,
-        "highest_post_number": 1,
-        "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/07f4e93154723837497394b79815b4dcaa2e9819_2_1024x576.jpeg",
-        "created_at": "2025-12-18T21:29:24.414Z",
-        "last_posted_at": "2025-12-18T21:29:24.577Z",
-        "bumped": true,
-        "bumped_at": "2025-12-18T21:29:24.577Z",
-        "archetype": "regular",
-        "unseen": false,
-        "pinned": false,
-        "unpinned": null,
-        "visible": true,
-        "closed": false,
-        "archived": false,
-        "bookmarked": null,
-        "liked": null,
-        "thumbnails": [
-          {
-            "max_width": null,
-            "max_height": null,
-            "width": 1280,
-            "height": 720,
-            "url": "https://forum.cheeseepedia.org/uploads/default/original/1X/07f4e93154723837497394b79815b4dcaa2e9819.jpeg"
-          },
-          {
-            "max_width": 1024,
-            "max_height": 1024,
-            "width": 1024,
-            "height": 576,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/07f4e93154723837497394b79815b4dcaa2e9819_2_1024x576.jpeg"
-          },
-          {
-            "max_width": 800,
-            "max_height": 800,
-            "width": 800,
-            "height": 450,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/07f4e93154723837497394b79815b4dcaa2e9819_2_800x450.jpeg"
-          },
-          {
-            "max_width": 600,
-            "max_height": 600,
-            "width": 600,
-            "height": 337,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/07f4e93154723837497394b79815b4dcaa2e9819_2_600x337.jpeg"
-          },
-          {
-            "max_width": 400,
-            "max_height": 400,
-            "width": 400,
-            "height": 225,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/07f4e93154723837497394b79815b4dcaa2e9819_2_400x225.jpeg"
-          },
-          {
-            "max_width": 300,
-            "max_height": 300,
-            "width": 300,
-            "height": 168,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/07f4e93154723837497394b79815b4dcaa2e9819_2_300x168.jpeg"
-          },
-          {
-            "max_width": 200,
-            "max_height": 200,
-            "width": 200,
-            "height": 112,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/07f4e93154723837497394b79815b4dcaa2e9819_2_200x112.jpeg"
-          }
-        ],
-        "tags": [
-          "lost-media"
-        ],
-        "tags_descriptions": {},
-        "views": 229,
-        "like_count": 1,
-        "has_summary": false,
-        "last_poster_username": "The-64th-Gamer",
-        "category_id": 5,
-        "op_like_count": 1,
-        "pinned_globally": false,
-        "featured_link": null,
-        "has_accepted_answer": false,
-        "can_vote": false,
-        "posters": [
-          {
-            "extras": "latest single",
-            "description": "Original Poster, Most Recent Poster",
-            "user_id": 1,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          }
-        ]
-      },
-      {
-        "fancy_title": "New Retro CEC Merchandise",
-        "id": 178,
-        "title": "New Retro CEC Merchandise",
-        "slug": "new-retro-cec-merchandise",
-        "posts_count": 1,
-        "reply_count": 0,
-        "highest_post_number": 1,
-        "image_url": "https://forum.cheeseepedia.org/uploads/default/original/1X/90ea6b7308e260b629341cadae195601966dccb8.jpeg",
-        "created_at": "2025-12-18T21:28:07.832Z",
-        "last_posted_at": "2025-12-18T21:28:08.066Z",
-        "bumped": true,
-        "bumped_at": "2025-12-18T21:28:08.066Z",
-        "archetype": "regular",
-        "unseen": false,
-        "pinned": false,
-        "unpinned": null,
-        "visible": true,
-        "closed": false,
-        "archived": false,
-        "bookmarked": null,
-        "liked": null,
-        "thumbnails": [
-          {
-            "max_width": null,
-            "max_height": null,
-            "width": 500,
-            "height": 500,
-            "url": "https://forum.cheeseepedia.org/uploads/default/original/1X/90ea6b7308e260b629341cadae195601966dccb8.jpeg"
-          },
-          {
-            "max_width": 400,
-            "max_height": 400,
-            "width": 400,
-            "height": 400,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/90ea6b7308e260b629341cadae195601966dccb8_2_400x400.jpeg"
-          },
-          {
-            "max_width": 300,
-            "max_height": 300,
-            "width": 300,
-            "height": 300,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/90ea6b7308e260b629341cadae195601966dccb8_2_300x300.jpeg"
-          },
-          {
-            "max_width": 200,
-            "max_height": 200,
-            "width": 200,
-            "height": 200,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/90ea6b7308e260b629341cadae195601966dccb8_2_200x200.jpeg"
-          }
-        ],
-        "tags": [
-          "chuck-e-cheese",
-          "pizza-time-theatre",
-          "bankruptcy-believers"
-        ],
-        "tags_descriptions": {},
-        "views": 88,
-        "like_count": 1,
-        "has_summary": false,
-        "last_poster_username": "The-64th-Gamer",
-        "category_id": 5,
-        "op_like_count": 1,
-        "pinned_globally": false,
-        "featured_link": null,
-        "has_accepted_answer": false,
-        "can_vote": false,
-        "posters": [
-          {
-            "extras": "latest single",
-            "description": "Original Poster, Most Recent Poster",
-            "user_id": 1,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          }
-        ]
-      },
-      {
-        "fancy_title": "CEP Homepage &amp; Compiling Improvements",
-        "id": 177,
-        "title": "CEP Homepage & Compiling Improvements",
-        "slug": "cep-homepage-compiling-improvements",
-        "posts_count": 1,
-        "reply_count": 0,
-        "highest_post_number": 1,
-        "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/2d9570f991dcf47ae87d80db2eb107b0992f9c98_2_1024x417.png",
-        "created_at": "2025-12-18T08:00:53.295Z",
-        "last_posted_at": "2025-12-18T08:00:53.499Z",
-        "bumped": true,
-        "bumped_at": "2025-12-18T08:00:53.499Z",
-        "archetype": "regular",
-        "unseen": false,
-        "pinned": false,
-        "unpinned": null,
-        "visible": true,
-        "closed": false,
-        "archived": false,
-        "bookmarked": null,
-        "liked": null,
-        "thumbnails": [
-          {
-            "max_width": null,
-            "max_height": null,
-            "width": 1089,
-            "height": 444,
-            "url": "https://forum.cheeseepedia.org/uploads/default/original/1X/2d9570f991dcf47ae87d80db2eb107b0992f9c98.png"
-          },
-          {
-            "max_width": 1024,
-            "max_height": 1024,
-            "width": 1024,
-            "height": 417,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/2d9570f991dcf47ae87d80db2eb107b0992f9c98_2_1024x417.png"
-          },
-          {
-            "max_width": 800,
-            "max_height": 800,
-            "width": 799,
-            "height": 326,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/2d9570f991dcf47ae87d80db2eb107b0992f9c98_2_799x326.png"
-          },
-          {
-            "max_width": 600,
-            "max_height": 600,
-            "width": 600,
-            "height": 244,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/2d9570f991dcf47ae87d80db2eb107b0992f9c98_2_600x244.png"
-          },
-          {
-            "max_width": 400,
-            "max_height": 400,
-            "width": 399,
-            "height": 163,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/2d9570f991dcf47ae87d80db2eb107b0992f9c98_2_399x163.png"
-          },
-          {
-            "max_width": 300,
-            "max_height": 300,
-            "width": 300,
-            "height": 122,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/2d9570f991dcf47ae87d80db2eb107b0992f9c98_2_300x122.png"
-          },
-          {
-            "max_width": 200,
-            "max_height": 200,
-            "width": 199,
-            "height": 81,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/2d9570f991dcf47ae87d80db2eb107b0992f9c98_2_199x81.png"
-          }
-        ],
-        "tags": [
-          "cheese-e-pedia"
-        ],
-        "tags_descriptions": {},
-        "views": 64,
-        "like_count": 3,
-        "has_summary": false,
-        "last_poster_username": "The-64th-Gamer",
-        "category_id": 5,
-        "op_like_count": 3,
-        "pinned_globally": false,
-        "featured_link": null,
-        "has_accepted_answer": false,
-        "can_vote": false,
-        "posters": [
-          {
-            "extras": "latest single",
-            "description": "Original Poster, Most Recent Poster",
-            "user_id": 1,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          }
-        ]
-      },
-      {
-        "fancy_title": "NEW Awesome Adventure Machine Footage!",
-        "id": 173,
-        "title": "NEW Awesome Adventure Machine Footage!",
-        "slug": "new-awesome-adventure-machine-footage",
-        "posts_count": 4,
-        "reply_count": 0,
-        "highest_post_number": 4,
-        "image_url": "https://forum.cheeseepedia.org/uploads/default/original/1X/2e1d154c3a7c4af64c536c30dbdb1b4bf5af01ab.jpeg",
-        "created_at": "2025-12-16T22:08:57.629Z",
-        "last_posted_at": "2025-12-18T01:44:56.254Z",
-        "bumped": true,
-        "bumped_at": "2025-12-18T01:44:56.254Z",
-        "archetype": "regular",
-        "unseen": false,
-        "pinned": false,
-        "unpinned": null,
-        "visible": true,
-        "closed": false,
-        "archived": false,
-        "bookmarked": null,
-        "liked": null,
-        "thumbnails": [
-          {
-            "max_width": null,
-            "max_height": null,
-            "width": 579,
-            "height": 406,
-            "url": "https://forum.cheeseepedia.org/uploads/default/original/1X/2e1d154c3a7c4af64c536c30dbdb1b4bf5af01ab.jpeg"
-          },
-          {
-            "max_width": 400,
-            "max_height": 400,
-            "width": 400,
-            "height": 280,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/2e1d154c3a7c4af64c536c30dbdb1b4bf5af01ab_2_400x280.jpeg"
-          },
-          {
-            "max_width": 300,
-            "max_height": 300,
-            "width": 300,
-            "height": 210,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/2e1d154c3a7c4af64c536c30dbdb1b4bf5af01ab_2_300x210.jpeg"
-          },
-          {
-            "max_width": 200,
-            "max_height": 200,
-            "width": 200,
-            "height": 140,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/2e1d154c3a7c4af64c536c30dbdb1b4bf5af01ab_2_200x140.jpeg"
-          }
-        ],
-        "tags": [
-          "chuck-e-cheese",
-          "lost-media",
-          "aam"
-        ],
-        "tags_descriptions": {},
-        "views": 461,
-        "like_count": 5,
-        "has_summary": false,
-        "last_poster_username": "randomguyfan22-maker",
-        "category_id": 5,
-        "op_like_count": 5,
-        "pinned_globally": false,
-        "featured_link": null,
-        "has_accepted_answer": false,
-        "can_vote": false,
-        "posters": [
-          {
-            "extras": null,
-            "description": "Original Poster",
-            "user_id": 1,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          },
-          {
-            "extras": null,
-            "description": "Frequent Poster",
-            "user_id": 27,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          },
-          {
-            "extras": null,
-            "description": "Frequent Poster",
-            "user_id": 12,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          },
-          {
-            "extras": "latest",
-            "description": "Most Recent Poster",
-            "user_id": 26,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          }
-        ]
-      },
-      {
-        "fancy_title": "Peeler Rose Starts Pre-Sale for Chuck E. Cheese Comic",
-        "id": 172,
-        "title": "Peeler Rose Starts Pre-Sale for Chuck E. Cheese Comic",
-        "slug": "peeler-rose-starts-pre-sale-for-chuck-e-cheese-comic",
-        "posts_count": 2,
-        "reply_count": 0,
-        "highest_post_number": 2,
-        "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/bc7c19ba997a629a63a6a4bbe55750c2288c2e2e_2_736x1024.jpeg",
-        "created_at": "2025-12-16T21:09:03.990Z",
-        "last_posted_at": "2025-12-17T02:57:58.380Z",
-        "bumped": true,
-        "bumped_at": "2025-12-17T02:57:58.380Z",
-        "archetype": "regular",
-        "unseen": false,
-        "pinned": false,
-        "unpinned": null,
-        "visible": true,
-        "closed": false,
-        "archived": false,
-        "bookmarked": null,
-        "liked": null,
-        "thumbnails": [
-          {
-            "max_width": null,
-            "max_height": null,
-            "width": 1544,
-            "height": 2146,
-            "url": "https://forum.cheeseepedia.org/uploads/default/original/1X/bc7c19ba997a629a63a6a4bbe55750c2288c2e2e.jpeg"
-          },
-          {
-            "max_width": 1024,
-            "max_height": 1024,
-            "width": 736,
-            "height": 1024,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/bc7c19ba997a629a63a6a4bbe55750c2288c2e2e_2_736x1024.jpeg"
-          },
-          {
-            "max_width": 800,
-            "max_height": 800,
-            "width": 575,
-            "height": 800,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/bc7c19ba997a629a63a6a4bbe55750c2288c2e2e_2_575x800.jpeg"
-          },
-          {
-            "max_width": 600,
-            "max_height": 600,
-            "width": 431,
-            "height": 600,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/bc7c19ba997a629a63a6a4bbe55750c2288c2e2e_2_431x600.jpeg"
-          },
-          {
-            "max_width": 400,
-            "max_height": 400,
-            "width": 287,
-            "height": 400,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/bc7c19ba997a629a63a6a4bbe55750c2288c2e2e_2_287x400.jpeg"
-          },
-          {
-            "max_width": 300,
-            "max_height": 300,
-            "width": 215,
-            "height": 300,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/bc7c19ba997a629a63a6a4bbe55750c2288c2e2e_2_215x300.jpeg"
-          },
-          {
-            "max_width": 200,
-            "max_height": 200,
-            "width": 143,
-            "height": 200,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/bc7c19ba997a629a63a6a4bbe55750c2288c2e2e_2_143x200.jpeg"
-          }
-        ],
-        "tags": [
-          "chuck-e-cheese"
-        ],
-        "tags_descriptions": {},
-        "views": 206,
-        "like_count": 2,
-        "has_summary": false,
-        "last_poster_username": "cmsentance-byte",
-        "category_id": 5,
-        "op_like_count": 2,
-        "pinned_globally": false,
-        "featured_link": null,
-        "has_accepted_answer": false,
-        "can_vote": false,
-        "posters": [
-          {
-            "extras": null,
-            "description": "Original Poster",
-            "user_id": 1,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          },
-          {
-            "extras": "latest",
-            "description": "Most Recent Poster",
-            "user_id": 61,
-            "primary_group_id": null,
-            "flair_group_id": null
-          }
-        ]
-      },
-      {
-        "fancy_title": "YouTooz Announces Christmas Special Chuck Plush",
-        "id": 170,
-        "title": "YouTooz Announces Christmas Special Chuck Plush",
-        "slug": "youtooz-announces-christmas-special-chuck-plush",
-        "posts_count": 12,
-        "reply_count": 5,
-        "highest_post_number": 12,
-        "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_1024x1024.jpeg",
-        "created_at": "2025-12-14T22:20:44.814Z",
-        "last_posted_at": "2025-12-21T22:09:08.156Z",
-        "bumped": true,
-        "bumped_at": "2025-12-21T22:09:08.156Z",
-        "archetype": "regular",
-        "unseen": false,
-        "pinned": false,
-        "unpinned": null,
-        "visible": true,
-        "closed": false,
-        "archived": false,
-        "bookmarked": null,
-        "liked": null,
-        "thumbnails": [
-          {
-            "max_width": null,
-            "max_height": null,
-            "width": 1500,
-            "height": 1500,
-            "url": "https://forum.cheeseepedia.org/uploads/default/original/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b.jpeg"
-          },
-          {
-            "max_width": 1024,
-            "max_height": 1024,
-            "width": 1024,
-            "height": 1024,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_1024x1024.jpeg"
-          },
-          {
-            "max_width": 800,
-            "max_height": 800,
-            "width": 800,
-            "height": 800,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_800x800.jpeg"
-          },
-          {
-            "max_width": 600,
-            "max_height": 600,
-            "width": 600,
-            "height": 600,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_600x600.jpeg"
-          },
-          {
-            "max_width": 400,
-            "max_height": 400,
-            "width": 400,
-            "height": 400,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_400x400.jpeg"
-          },
-          {
-            "max_width": 300,
-            "max_height": 300,
-            "width": 300,
-            "height": 300,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_300x300.jpeg"
-          },
-          {
-            "max_width": 200,
-            "max_height": 200,
-            "width": 200,
-            "height": 200,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_200x200.jpeg"
-          }
-        ],
-        "tags": [
-          "chuck-e-cheese",
-          "cec-animated-series"
-        ],
-        "tags_descriptions": {},
-        "views": 221,
-        "like_count": 3,
-        "has_summary": false,
-        "last_poster_username": "cmsentance-byte",
-        "category_id": 5,
-        "op_like_count": 1,
-        "pinned_globally": false,
-        "featured_link": null,
-        "has_accepted_answer": false,
-        "can_vote": false,
-        "posters": [
-          {
-            "extras": null,
-            "description": "Original Poster",
-            "user_id": 1,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          },
-          {
-            "extras": null,
-            "description": "Frequent Poster",
-            "user_id": 12,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          },
-          {
-            "extras": null,
-            "description": "Frequent Poster",
-            "user_id": 7,
-            "primary_group_id": null,
-            "flair_group_id": 49
-          },
-          {
-            "extras": "latest",
-            "description": "Most Recent Poster",
-            "user_id": 61,
-            "primary_group_id": null,
-            "flair_group_id": null
           }
         ]
       }

@@ -6,10 +6,10 @@ categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ChuckE1352","The 64th Gamer","GuestIsJustBest","Stripes","CEC Tinley"]
-citations = ["https://m.facebook.com/pizzatimetheatre/photos/a.1070409566333266/1070415499666006/?type=3"]
+citations = ["https://m.facebook.com/pizzatimetheatre/photos/a.1070409566333266/1070415499666006/?type=3","https://web.archive.org/web/20150705140821/http://www.atari.io/chuck-e-cheese-skee-ball-gene-landrum/","https://www.worthpoint.com/worthopedia/11-skeeball-machine-from-chuck-e-cheese"]
 pageThumbnailFile = "PLz6FJ1KXnbTnWF5JVU4.avif"
 +++
-***Chuck E. Cheese Roll* is a CEC branded Skee-Ball machine that was found in many of the restaurants. It is distinctly different than the "Skee ball" and "Alley Roller" games, which were also found in restaurants later on. It dates all the way to Pizza Time Theatre, and early on was one of the only ways to earn tickets in the restaurants. {{< cite 1 >}}**
+***Chuck E. Cheese Roll*** is a CEC branded Skee-Ball machine that was found in many of the restaurants. It is distinctly different than the "Skee ball" and "Alley Roller" games, which were also found in restaurants later on. It dates all the way to Pizza Time Theatre, and early on was one of the only ways to earn tickets in the restaurants. {{< cite 1 >}}
 
 ## Appearance and Scoring
 

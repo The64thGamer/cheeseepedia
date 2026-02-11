@@ -10,11 +10,12 @@ contributors = ["The 64th Gamer", "DerekCat", "Cyber Snout", "Montfortdog", "Cec
 citations = []
 pageThumbnailFile = "29lHVpHq3oIXqEdTdWKw.avif"
 showtapeFormats = ["C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)","Cyberamics Reel"]
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20September%2090/027-0821-90%20s0089.wav|Showtape Rip w/ Signals"]
 +++
 
 ***CEC September 1990 Show*** was the first showtape made for both 3-Stage and Cyberamic shows, and the first show for Cyberamics to feature Munch's Make Believe Band. This show would run through November for Cyberamics, while 3-Stages would present it through December.
 
-## Show List
+## SVHS Show List
 
 01. **Intermission 1**
     1. 8 Minute Countdown
@@ -71,7 +72,32 @@ showtapeFormats = ["C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)","Cyberamics Reel"
     2. It's Showtime!
 12. **Video 3**
     1. [The Art Of Computer Graphics - 'Breaking The Ice'](https://en.wikipedia.org/wiki/Odyssey_Productions)
-   
+
+## Reel Show List
+
+1. **Segment 1**
+    1. ['Wonderful World'](https://en.wikipedia.org/wiki/Wonderful_World_(Sam_Cooke_song))
+    2. ['September'](https://en.wikipedia.org/wiki/September_(song))
+2. **Segment 2**
+    1. ['Surfin' Bird'](https://en.wikipedia.org/wiki/Surfin%27_Bird)
+    2. ['Oye Mi Canto (Hear My Voice)'](https://en.wikipedia.org/wiki/Oye_Mi_Canto_(Hear_My_Voice))
+3. **Special 1**
+    1.  Joy To The World Birthday
+4. **Special 2**
+    1.  Dancin' In The Street Birthday
+5. **Special 3**
+    1.  Beach Boys Birthday
+6. **Special 4**
+    1.  {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}}
+7. **Special 5**
+    1.  {{< wiki-link "Chuck E. Cheese Live" >}}
+8. **Special 6**
+    1.  {{< wiki-link "Birthday Extravaganza (ShowBiz Branded)" >}}
+9. **Segment 3**
+    1. ['Rhythm of the Night'](https://en.wikipedia.org/wiki/Rhythm_of_the_Night_(song))
+    2. ['Shout'](https://en.wikipedia.org/wiki/Shout_(Isley_Brothers_song))
+
+  
 ## Production
 
 ### Low Production Count

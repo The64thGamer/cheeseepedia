@@ -10,9 +10,10 @@ citations = []
 pageThumbnailFile = "lVtaRKygc5MC4ujWs7ii.avif"
 showtapeFormats = ["Cyberamics Reel"]
 alsoKnownAs = ["Dolli Dimples 2","ASSY# 027-0059-10-0ASKIT-DOLLI II CAB #2WO# 1201922100 WO QTY 169BUILT BY: AH DATE 2-18-1983"]
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Dolly%202-Lounge/027-0058-01%20s0030.wav|Showtape Rip w/ Signals"]
 +++
-***Dolli Dimples II* is a standard Pizza Time Theatre showtape covering a wide array of song genres with cabaret guest Dolli Dimples.
-This showtape would be the second of two Dolli Dimples showtapes. Released in November 1982, this showtape starred Lady Bianca as the voice actor. Lady Bianca had voiced Sally Sashay in the past at Pizza Time Theatre.**
+***Dolli Dimples II*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with cabaret guest Dolli Dimples.
+This showtape would be the second of two Dolli Dimples showtapes. Released in November 1982, this showtape starred Lady Bianca as the voice actor. Lady Bianca had voiced Sally Sashay in the past at Pizza Time Theatre.
 
 ## Segments:
 

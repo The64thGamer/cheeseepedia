@@ -36,7 +36,7 @@ This format was only produced for 5 years before it switched to C&R SVHS (Post-9
 - CEC Kids / American Pride
 - CEC TV Classics
 - {{< wiki-link "CEC TV Classics (Edited)" >}}
-- {{< wiki-link "CEC Summer Days" >}}
+- {{< wiki-link "CEC Summer 1990 (3 Skits)" >}}
 - {{< wiki-link "CEC September 1990 Show" >}}
 - CEC Cyberstar Diagnostics Tape
 - {{< wiki-link "CEC Christmas '90 Wave Bday" >}}

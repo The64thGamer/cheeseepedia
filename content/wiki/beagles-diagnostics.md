@@ -8,6 +8,7 @@ endDate = "0000-00-00"
 pageThumbnailFile = "BeaglesPromo.avif"
 contributors = ["The 64th Gamer","Cyber Snout"]
 citations = [""]
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Beagles_Bowzers%20Diagnostic/027-0048-10%20s001.wav|Showtape Rip w/ Signals"]
 +++
 **Beagles Diagnostics** was released in 1985. Each movement would be tested 10 times. 
 
