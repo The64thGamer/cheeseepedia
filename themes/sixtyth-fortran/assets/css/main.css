@@ -96,8 +96,8 @@ a {
 hr {
   border: .2rem solid var(--brown);
   border-radius: 5rem;
-  margin-bottom: 1rrem;
-  margin-top: 1rrem;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
   color: transparent;
 }
 
@@ -141,14 +141,14 @@ td {
    ========================= */
 h1 {
   font-family: "RockoFLF";
-  letter-spacing: .2rrem;
-  font-size: 2rrem;
+  letter-spacing: .2rem;
+  font-size: 2rem;
   color: var(--yellow);
   margin: 0;
 }
 
 h2 {
-  font-size: 1.5rrem;
+  font-size: 1.5rem;
   color: var(--yellow);
 }
 
@@ -174,7 +174,7 @@ h2 {
 select {
   margin: 0.5rem;
   font-family: "RockoFLF";
-  letter-spacing: .1rrem;
+  letter-spacing: .1rem;
   color: var(--white);
   background-color: var(--orange);
   font-size: 1rem;
@@ -210,7 +210,7 @@ select:hover {
 .button,
 .blank-button {
   font-family: "RockoFLF";
-  letter-spacing: .1rrem;
+  letter-spacing: .1rem;
   color: var(--white);
   font-size: 1rem;
   max-width: 40vw;
@@ -259,7 +259,7 @@ select:hover {
   padding-left: 0;
   padding-right: 0;
   font-size: 1rem;
-  letter-spacing: .1rrem;
+  letter-spacing: .1rem;
   font-family: "RockoFLF";
   flex: 1;
   margin-left: 0.25rem;
@@ -289,7 +289,7 @@ select:hover {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   font-size: 1rem;
-  letter-spacing: .1rrem;
+  letter-spacing: .1rem;
   font-family: "RockoFLF";
   flex: 1;
   margin-left: 0.25rem;
@@ -397,7 +397,7 @@ select:hover {
 .alt-list-page-content .emoji {
   height: 1em;
   vertical-align: middle;
-  margin-left: 4px;
+  margin-left: 0.25rem;
 }
 
 /* Date / meta text */
@@ -424,7 +424,7 @@ select:hover {
 }
 
 .horizontal-pagebox-scroll::-webkit-scrollbar {
-  height: 8px;
+  height: 0.5rem;
 }
 
 .horizontal-pagebox-scroll::-webkit-scrollbar-track {
@@ -440,7 +440,7 @@ select:hover {
 /* Mobile polish */
 @media (max-width: 600px) {
   .alt-list-page-content {
-    padding: 10px 12px 12px;
+    padding: 0.625rem 0.75rem 0.75rem;
   }
 
   .alt-list-page-content a {
@@ -474,7 +474,7 @@ select:hover {
 }
 
 .list-page-block-video {
-  min-height: 12.5em;
+  min-height: 12.5rem;
   width: 100%;
   border-radius: 2.5rem;
 }
@@ -859,19 +859,19 @@ img.remoji:hover {
 }
 
 .hugochart-pie-inline-label {
-  font-size: 12px;
-  fill: #111;
+  font-size: 0.75rem;
+  fill: var(--brown);
   font-weight: 600;
   pointer-events: none;
 }
 
 .hugochart-empty-label {
-  font-size: 14px;
-  fill: #666;
+  font-size: 0.875rem;
+  fill: var(--deep-white);
 }
 
 .hugochart-pie-center-label {
-  fill: #111;
+  fill: var(--brown);
   pointer-events: none;
 }
 
@@ -880,14 +880,13 @@ img.remoji:hover {
 }
 
 .x-tick-label {
-  font-size: 10px;
-  letter-spacing: 0.2px;
+  font-size: 0.625rem;
+  letter-spacing: 0.0125rem;
   color: var(--yellow);
-
 }
 
 .x-tick {
-  stroke: var(--hugochart-axis, #bdbdbd);
+  stroke: var(--yellow);
   stroke-width: 1;
   color: var(--yellow);
 }
@@ -904,7 +903,7 @@ img.remoji:hover {
 .tab-buttons {
   display: flex;
   gap: 2rem;
-  border-bottom: 2px solid var(--brown);
+  border-bottom: 0.125rem solid var(--brown);
   padding-bottom: 0.25rem;
   margin-bottom: 1rem;
 }
@@ -914,7 +913,7 @@ img.remoji:hover {
   border: none;
   font-family: "RockoFLF";
   font-size: 1rem;
-  letter-spacing: .1rrem;
+  letter-spacing: .1rem;
   color: var(--white);
   opacity: 0.6;
   padding: 0.25rem 0;
@@ -937,7 +936,7 @@ img.remoji:hover {
   left: 0;
   right: 0;
   bottom: -0.4rem;
-  height: 3px;
+  height: 0.1875rem;
   background-color: var(--yellow);
 }
 
@@ -1008,7 +1007,7 @@ img.remoji:hover {
   margin: 0;
   font-size: 1.25rem;
   font-family: "RockoFLF";
-  letter-spacing: .1rrem;
+  letter-spacing: .1rem;
   color: var(--white);
 }
 
@@ -1102,7 +1101,7 @@ img.remoji:hover {
   padding: 0.5rem 1rem;
   background: var(--aqua);
   text-decoration: none;
-  border-radius: 6px;
+  border-radius: 0.375rem;
   font-weight: 500;
   transition: background 0.2s;
   color: var(--white);
@@ -1110,6 +1109,183 @@ img.remoji:hover {
 
 .profile-forum-link svg {
   flex-shrink: 0;
+}
+
+/* Github Pulls */
+.add-images-button {
+  padding: 0.625rem 1.25rem;
+  background-color: var(--aqua);
+  color: var(--white);
+  border: none;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  font-size: 0.875rem;
+  font-family: "RockoFLF";
+}
+
+.add-images-button:hover {
+  background-color: var(--yellow);
+}
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+  background-color: var(--blue);
+  color: var(--white);
+  margin: 5% auto;
+  padding: 1.875rem;
+  border: 0.0625rem solid var(--brown);
+  border-radius: 0.5rem;
+  width: 90%;
+  max-width: 37.5rem;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.close {
+  color: var(--deep-white);
+  float: right;
+  font-size: 1.75rem;
+  font-weight: bold;
+  cursor: pointer;
+  line-height: 1.25rem;
+}
+
+.close:hover,
+.close:focus {
+  color: var(--brown);
+}
+
+.step h3 {
+  margin-top: 0;
+  margin-bottom: 1.25rem;
+}
+
+.step button {
+  margin-top: 0.9375rem;
+  margin-right: 0.625rem;
+  padding: 0.5rem 1rem;
+  border: 0.0625rem solid var(--brown);
+  border-radius: 0.375rem;
+  cursor: pointer;
+  background-color: var(--deep-white);
+  color: var(--white);
+  font-family: "RockoFLF";
+}
+
+.step button:hover {
+  background-color: var(--aqua);
+  color: var(--white);
+  border-color: var(--aqua);
+}
+
+#image-files {
+  width: 100%;
+  padding: 0.625rem;
+  border: 0.125rem dashed var(--brown);
+  border-radius: 0.375rem;
+}
+
+#image-description {
+  width: 100%;
+  padding: 0.625rem;
+  border: 0.0625rem solid var(--brown);
+  border-radius: 0.375rem;
+  font-family: "Aleo";
+}
+
+.date-inputs {
+  display: flex;
+  gap: 0.625rem;
+}
+
+.date-inputs select {
+  flex: 1;
+  padding: 0.5rem;
+  border: 0.0625rem solid var(--brown);
+  border-radius: 0.375rem;
+}
+
+.citation-input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 0.625rem;
+  border: 0.0625rem solid var(--brown);
+  border-radius: 0.375rem;
+}
+
+.hint {
+  font-size: 0.75rem;
+  color: var(--deep-white);
+  margin-top: 0.3125rem;
+}
+
+#instructions-content {
+  background-color: var(--deep-white);
+  border: 0.0625rem solid var(--brown);
+  border-radius: 0.375rem;
+  padding: 1.25rem;
+}
+
+#instructions-content h4 {
+  margin-top: 0;
+}
+
+#instructions-content pre {
+  background-color: var(--white);
+  border: 0.0625rem solid var(--brown);
+  border-radius: 0.25rem;
+  padding: 0.625rem;
+  overflow-x: auto;
+  font-size: 0.75rem;
+}
+
+#instructions-content code {
+  background-color: var(--brown);
+  color: var(--white);
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.1875rem;
+  font-family: monospace;
+}
+
+.download-link {
+  display: inline-block;
+  margin: 0.625rem 0.625rem 0.625rem 0;
+  padding: 0.5rem 1rem;
+  background-color: var(--aqua);
+  color: var(--white);
+  text-decoration: none;
+  border-radius: 0.375rem;
+  font-family: "RockoFLF";
+}
+
+.download-link:hover {
+  background-color: var(--yellow);
+}
+
+.github-link {
+  display: inline-block;
+  margin: 1.25rem 0;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--aqua);
+  color: var(--white);
+  text-decoration: none;
+  border-radius: 0.375rem;
+  font-weight: bold;
+  font-family: "RockoFLF";
+}
+
+.github-link:hover {
+  background-color: var(--yellow);
 }
 
 /* Reviews Section */
@@ -1126,7 +1302,7 @@ img.remoji:hover {
   }
   
   .profile-avatar {
-    margin-top: -60px;
+    margin-top: -3.75rem;
   }
   
   .profile-name {
@@ -1134,7 +1310,7 @@ img.remoji:hover {
   }
   
   .profile-banner {
-    height: 150px;
+    height: 9.375rem;
   }
 }
 
@@ -1205,7 +1381,7 @@ sup {
 .segment-title {
   font-weight: 700;
   margin-bottom: 0.25rem;
-  color:var(--yellow);
+  color: var(--yellow);
 }
 
 .segment-items {
@@ -1217,7 +1393,7 @@ sup {
 .track {
   cursor: pointer;
   padding: 0.25rem 0.5rem;
-  border-radius: 4px;
+  border-radius: 0.25rem;
   display: flex;
   justify-content: space-between;
   gap: 1rem;
@@ -1255,20 +1431,20 @@ sup {
 
 .persistent-player {
   position: fixed;
-  right: 24px;
-  bottom: 24px;
+  right: 1.5rem;
+  bottom: 1.5rem;
   width: 30rem;
-  max-width: calc(100% - 48px);
+  max-width: calc(100% - 3rem);
   background: var(--yellow);
   color: var(--brown);
-  border: 1px solid rgba(0, 0, 0, 0.08);
-  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
-  border-radius: 8px;
+  border: 0.0625rem solid var(--brown);
+  box-shadow: 0 0.375rem 1.5rem rgba(0, 0, 0, 0.12);
+  border-radius: 0.5rem;
   z-index: 1200;
-  padding: 12px;
+  padding: 0.75rem;
 }
 
-.pp-header a{
+.pp-header a {
   color: var(--brown);
 }
 
@@ -1281,13 +1457,13 @@ sup {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 12px;
-  margin-bottom: 8px;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
 .persistent-player .pp-title {
   font-weight: 700;
-  font-size: 14px;
+  font-size: 0.875rem;
   line-height: 1.2;
   white-space: nowrap;
   overflow: hidden;
@@ -1299,8 +1475,8 @@ sup {
   background: transparent;
   border: none;
   cursor: pointer;
-  font-size: 16px;
-  padding: 4px 6px;
+  font-size: 1rem;
+  padding: 0.25rem 0.375rem;
   line-height: 1;
   color: inherit;
 }
@@ -1420,7 +1596,7 @@ sup {
   display: inline-flex;
   align-items: center;
   padding: 0.25rem 0.5rem;
-  border-radius: 999px;
+  border-radius: 999rem;
   font-size: 0.85rem;
   background-color: var(--orange);
   color: var(--white);
@@ -1494,24 +1670,20 @@ sup {
 .predef-scroll {
   display: flex;
   flex-direction: column;
-  /* vertical stack */
   gap: 0.5rem;
   padding: 0.25rem;
   max-height: 40rem;
-  /* adjust to how tall you want */
   overflow-y: auto;
-  /* vertical scroll */
   scrollbar-width: thin;
 }
 
 .predef-scroll::-webkit-scrollbar {
-  width: 6px;
-  /* vertical scrollbar width */
+  width: 0.375rem;
 }
 
 .predef-scroll::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.3);
-  border-radius: 3px;
+  background-color: var(--brown);
+  border-radius: 0.1875rem;
 }
 
 .predef-tags {
@@ -1531,7 +1703,7 @@ sup {
   padding: 0.5rem 0.75rem;
   border-radius: 1rem;
   border: 0.25rem solid var(--brown);
-  background-color: var(--tag-bg, --deep-white);
+  background-color: var(--deep-white);
   font-size: 0.85rem;
   cursor: pointer;
   font-family: "RockoFLF";
@@ -1567,7 +1739,7 @@ sup {
   text-align: center;
   transform: translate(0%, -4.25rem);
   font-family: "RockoFLF";
-  letter-spacing: .1rrem;
+  letter-spacing: .1rem;
   margin: -1rem;
 }
 
@@ -1590,37 +1762,37 @@ sup {
 .snow::before {
   content: '';
   position: absolute;
-  top: -650px;
+  top: -40.625rem;
   right: 0;
   bottom: 0;
   left: 0;
   background-image:
-    radial-gradient(4px 4px at 100px 50px, #fff, transparent),
-    radial-gradient(6px 6px at 200px 150px, #fff, transparent),
-    radial-gradient(3px 3px at 300px 250px, #fff, transparent),
-    radial-gradient(4px 4px at 400px 350px, #fff, transparent),
-    radial-gradient(6px 6px at 500px 100px, #fff, transparent),
-    radial-gradient(3px 3px at 50px 200px, #fff, transparent),
-    radial-gradient(4px 4px at 150px 300px, #fff, transparent),
-    radial-gradient(6px 6px at 250px 400px, #fff, transparent),
-    radial-gradient(3px 3px at 350px 500px, #fff, transparent),
-    radial-gradient(4px 4px at 550px 550px, #fff, transparent);
-  background-size: 650px 650px;
+    radial-gradient(0.25rem 0.25rem at 6.25rem 3.125rem, var(--white), transparent),
+    radial-gradient(0.375rem 0.375rem at 12.5rem 9.375rem, var(--white), transparent),
+    radial-gradient(0.1875rem 0.1875rem at 18.75rem 15.625rem, var(--white), transparent),
+    radial-gradient(0.25rem 0.25rem at 25rem 21.875rem, var(--white), transparent),
+    radial-gradient(0.375rem 0.375rem at 31.25rem 6.25rem, var(--white), transparent),
+    radial-gradient(0.1875rem 0.1875rem at 3.125rem 12.5rem, var(--white), transparent),
+    radial-gradient(0.25rem 0.25rem at 9.375rem 18.75rem, var(--white), transparent),
+    radial-gradient(0.375rem 0.375rem at 15.625rem 25rem, var(--white), transparent),
+    radial-gradient(0.1875rem 0.1875rem at 21.875rem 31.25rem, var(--white), transparent),
+    radial-gradient(0.25rem 0.25rem at 34.375rem 34.375rem, var(--white), transparent);
+  background-size: 40.625rem 40.625rem;
   animation: SnowAnim 3s linear infinite;
 }
 
 .snow:after {
-  margin-left: -250px;
+  margin-left: -15.625rem;
   opacity: 0.5;
-  filter: blur(2px);
+  filter: blur(0.125rem);
   animation-direction: reverse;
   animation-duration: 6s;
 }
 
 .snow::before {
-  margin-left: -350px;
+  margin-left: -21.875rem;
   opacity: 0.7;
-  filter: blur(1px);
+  filter: blur(0.0625rem);
   animation-direction: reverse;
   animation-duration: 9s;
 }
@@ -1631,7 +1803,7 @@ sup {
   }
 
   to {
-    transform: translateY(650px);
+    transform: translateY(40.625rem);
   }
 }
 

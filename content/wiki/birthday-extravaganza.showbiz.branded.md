@@ -24,5 +24,5 @@ Chuck E. Cheese states "I've got an announcement to make, cause dis is a very sp
 | 1989         | {{< wiki-link "CEC Neighbors / Dreams" >}}                | Cyberamics Reel, C&R SVHS (Pre-93)                   |
 | 1990         | {{< wiki-link "CEC American Pride / Neighbors" >}}        | Cyberamics Reel, C&R SVHS (Pre-93)                   |
 | 1990         | {{< wiki-link "CEC Kids / American Pride" >}}             | Cyberamics Reel, C&R SVHS (Pre-93)                   |
-| 1990         | {{< wiki-link "CEC Summer Days" >}}                       | Cyberamics Reel, C&R SVHS (Pre-93)                   |
+| 1990         | {{< wiki-link "CEC Summer 1990 (3 Skits)" >}}                       | Cyberamics Reel, C&R SVHS (Pre-93)                   |
 | 1990         | {{< wiki-link "CEC September 1990 Show" >}}               | Cyberamics Reel, C&R SVHS (Pre-93)                   |

@@ -1,5 +1,5 @@
 +++
-title = "Beach Bowzers"
+title = "Beach Bowzers Cabaret Tape"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -8,8 +8,9 @@ endDate = "1991-00-00"
 pageThumbnailFile = "j0FYtzluIACO31GvDe7v.avif"
 contributors = ["The 64th Gamer","CoolerDude"]
 citations = []
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Beach%20Bowzers%20%28OK%29/Beach%20Bowzers%20%28OK%29.wav|Showtape Rip w/ Signals (#1)","https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Beach%20Bowzers%20Cabaret%20Tape/027-050-10%20gv.wav|Showtape Rip w/ Signals (#2)"]
 +++
-**Beach Bowzers** was released in October 1985. It would play until 1991 when {{< wiki-link "Beach Bowzers '91 I" >}} would release.
+***Beach Bowzers Cabaret Tape*** was released in October 1985. It would play until May of 1991 when {{< wiki-link "CEC Beach Bowzers Showtape" >}} would release.
 
 ## Show List
 1. **Segment 1**

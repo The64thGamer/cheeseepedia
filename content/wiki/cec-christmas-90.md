@@ -10,6 +10,7 @@ citations = []
 pageThumbnailFile = "Christmas90icon.avif"
 showtapeFormats = ["C&R SVHS (Pre-93)","R12 SVHS (Pre-93)","Cyberamics Reel"]
 alsoKnownAs = ["140-1109-89(C) S. P. T. Inc.CEC Christmas 90 / Wave BdaySerial #004 Deck - 411/09/89 - Master CYBERSTAR","027-1101-90 (C) S. P. T. Inc. CEC CHRISTMAS 90 Serial #0014 Deck - 6 11/01/90 - Master HEADWOUND"]
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Christmas%2090/027-1101-90%20s0014.wav|Showtape Rip w/ Signals"]
 +++
 
 ***CEC Christmas '90*** is a Christmas/Holiday themed showtape that played throughout all of December 1990. This is the last known showtape to be produced on reel for Cyberamics.

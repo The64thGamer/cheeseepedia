@@ -10,6 +10,7 @@ contributors = ["The 64th Gamer", "DerekCat", "Cyber Snout", "Montfortdog", "Cec
 citations = []
 pageThumbnailFile = "29lHVpHq3oIXqEdTdWKw.avif"
 showtapeFormats = ["C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)","Cyberamics Reel"]
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20September%2090/027-0821-90%20s0089.wav|Showtape Rip w/ Signals"]
 +++
 
 ***CEC September 1990 Show*** was the first showtape made for both 3-Stage and Cyberamic shows, and the first show for Cyberamics to feature Munch's Make Believe Band. This show would run through November for Cyberamics, while 3-Stages would present it through December.

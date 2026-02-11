@@ -10,6 +10,7 @@ showtapeFormats = ["Cyberamics Reel", "Cyberamics Betamax"]
 transcriptions = ["TV Themes"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Grammy%20Awards%20Showtape/027-0688-01%20s000036%20maybe.wav|Showtape Rip w/ Signals"]
 +++
 ***CEC Movie Magic*** is a show consisting of three 15-minute segments, which was released in January 1987 and was mastered on December 19, 1986. It was the first show to use Cybervision.
 

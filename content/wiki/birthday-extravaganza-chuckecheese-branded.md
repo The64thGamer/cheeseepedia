@@ -28,7 +28,7 @@ The preformance ends with all of the Pizza Time Players shouting "HAPPY BIRTHDAY
 | 1989         | {{< wiki-link "CEC Neighbors / Dreams" >}}                | Cyberamics Reel, C&R SVHS (Pre-93)                   |
 | 1990         | {{< wiki-link "CEC American Pride / Neighbors" >}}        | Cyberamics Reel, C&R SVHS (Pre-93)                   |
 | 1990         | {{< wiki-link "CEC Kids / American Pride" >}}             | Cyberamics Reel, C&R SVHS (Pre-93)                   |
-| 1990         | {{< wiki-link "CEC Summer Days" >}}                       | Cyberamics Reel, C&R SVHS (Pre-93)                   |
+| 1990         | {{< wiki-link "CEC Summer 1990 (3 Skits)" >}}                       | Cyberamics Reel, C&R SVHS (Pre-93)                   |
 | 1990         | {{< wiki-link "SPP Concept Unification Premiere" >}}      | 3-Stage SVHS (Pre-93)                                |
 | 1990         | {{< wiki-link "CEC September 1990 Show" >}}               | Cyberamics Reel, C&R SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
 | 1990         | {{< wiki-link "CEC Christmas '90 / Wave Bday" >}}         | Cyberamics Reel, C&R SVHS (Pre-93), R12 SVHS (Pre-93)    |
