@@ -10,7 +10,7 @@ citations = []
 downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Summer%201990%20%283%20skits%29/027-0417-90%20s00117.wav|Showtape Rip w/ Signals"]
 +++
 
-***CEC Summer 1990*** is a showtape released in May 1990 themed to the summertime. 
+***CEC Summer 1990*** is a showtape released in May 1990 themed to the summertime. It is the first CEC showtape to have been made with three original segments, which would be the standard for showtapes until {{< wiki-link "You're A Star" >}} in September 1993.
 
 ## SVHS Show List:
 
