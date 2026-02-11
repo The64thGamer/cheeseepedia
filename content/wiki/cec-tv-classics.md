@@ -84,14 +84,14 @@ citations = []
 
 ## Reel Show List
 
-2. **Segment 1**
+1. **Segment 1**
     1.  [The TV Zone Skit (Parody of The Twlight Zone)](https://en.wikipedia.org/wiki/The_Twilight_Zone)
     2.  [The Addams Family Theme](https://en.wikipedia.org/wiki/The_Addams_Family_(1964_TV_series))
     3.  [Live Better Electrically Jingle](https://en.wikipedia.org/wiki/General_Electric)
     4.  [Car 54 Where Are You? Theme & Skit](https://en.wikipedia.org/wiki/Car_54,_Where_Are_You%3F)
     5.  [Final Jeopardy Skit](https://en.wikipedia.org/wiki/Jeopardy!)
     6.  [The Patty Duke Show Theme](https://en.wikipedia.org/wiki/The_Patty_Duke_Show)
-6. **Segment 2**
+2. **Segment 2**
     1.  [Star Trek Skit](https://en.wikipedia.org/wiki/Star_Trek)
     2.  [Gilligan's Island Theme & Skit](https://en.wikipedia.org/wiki/Gilligan%27s_Island)
     3.  [Rawhide Theme](https://en.wikipedia.org/wiki/Rawhide_(TV_series))
@@ -110,7 +110,7 @@ citations = []
     1.  {{< wiki-link "Chuck E. Cheese Live" >}}
 8. **Special 6**
     1.  {{< wiki-link "Birthday Extravaganza (Showbiz Branded)" >}}
-10. **Segment 3**
+9. **Segment 3**
     1.  [Alfred Hitch-Chuck Presents Skit (Parody of Alfred Hitchcock Presents)](https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents)
     2.  [F-Troop Theme](https://en.wikipedia.org/wiki/F_Troop)
     3.  [Leave It To Beaver Skit](https://en.wikipedia.org/wiki/Leave_It_to_Beaver)
