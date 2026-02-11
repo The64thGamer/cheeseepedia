@@ -291,7 +291,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 199,
+        "views": 221,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -389,7 +389,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 80,
+        "views": 84,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -475,9 +475,11 @@
             "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/7/7a17690601ab7ba6dbcad97f3ad0a24d96a01680_2_200x109.jpeg"
           }
         ],
-        "tags": [],
+        "tags": [
+          "chuck-e-cheese"
+        ],
         "tags_descriptions": {},
-        "views": 214,
+        "views": 219,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -574,7 +576,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 292,
+        "views": 294,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -671,7 +673,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 288,
+        "views": 292,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "RazorKatxD",
@@ -879,7 +881,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 1189,
+        "views": 1235,
         "like_count": 19,
         "has_summary": false,
         "last_poster_username": "crunchybeans",
@@ -1203,7 +1205,7 @@
           "topic-of-the-month"
         ],
         "tags_descriptions": {},
-        "views": 138,
+        "views": 139,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "CyberSnout",
