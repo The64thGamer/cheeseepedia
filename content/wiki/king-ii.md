@@ -16,7 +16,7 @@ downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c
 +++
 King II was the second showtape released for The King, released in April of 1983.
 
-## Segments:
+## Show List:
 
 1. Segment 1
     1. Viva Las Vegas
