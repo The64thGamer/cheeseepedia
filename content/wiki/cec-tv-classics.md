@@ -6,10 +6,12 @@ categories = ["Chuck E. Cheese's"]
 alsoKnownAs = ["027-0705-90 (C) S.P.T. Inc. CEC TV CLASSICS Serial #0022 Deck - 6 07/05/90 - Master HEADWOUND"]
 startDate = "1990-07-00"
 endDate = "1990-08-00"
-contributors = ["DerekCat", "Ceclife13"]
+contributors = ["DerekCat","Ceclife13"]
 citations = []
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20TV%20Classics/027-0705-90%20s001.wav|Showtape Rip w/ Signals"]
 +++
-***CEC TV Classics*** is a showtape released in July 1990 which featured covers of various TV theme songs. The intermission lineup of songs & videos is from {{< wiki-link "SPP FriendsMomsTVThemes" >}} the counterpart showtape released around the same time frame. 
+
+***CEC TV Classics*** is a showtape released in July 1990, which featured covers of various TV theme songs. The intermission lineup of songs & videos is from {{< wiki-link "SPP FriendsMomsTVThemes" >}} the counterpart showtape released around the same time frame. 
 
 ## SVHS Show List:
 
@@ -118,3 +120,4 @@ citations = []
     5.  [I Love Lucy Skit](https://en.wikipedia.org/wiki/I_Love_Lucy)
     6.  [The Rebel Theme 'The Ballad of Johnny Yuma'](https://en.wikipedia.org/wiki/The_Rebel_(American_TV_series))
     7.  [Green Acres Theme](https://en.wikipedia.org/wiki/Green_Acres)
+

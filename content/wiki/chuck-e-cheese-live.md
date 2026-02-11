@@ -31,6 +31,20 @@ Before Chuck E. Cheese Live, Chuck E. Cheese starts calling all the kids, lettin
         4.  You're A Grand Old Flag
         5.  Born in the USA
 
+## Showtape Releases:
+
+| Release Year | Showtape                                                  | Format                                               |
+| ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
+| 1989         | {{< wiki-link "Chuck E. Cheese Shows (CEC Best of 1988)" >}}                     | Cyberamics Reel    |
+| 1989         | {{< wiki-link "CEC Dreams/Kids Showtape" >}}              | Cyberamics Reel                   |
+| 1989         | {{< wiki-link "CEC Neighbors / Dreams" >}}                | Cyberamics Reel                   |
+| 1989         | {{< wiki-link "CEC Christmas '89 / Wave Bday" >}}                     | Cyberamics Reel    |
+| 1990         | {{< wiki-link "CEC American Pride / Neighbors" >}}        | Cyberamics Reel                   |
+| 1990         | {{< wiki-link "CEC Kids / American Pride" >}}             | Cyberamics Reel                   |
+| 1990         | {{< wiki-link "CEC Summer 1990 (3 Skits)" >}}             | Cyberamics Reel                   |
+| 1990         | {{< wiki-link "CEC September 1990 Show" >}}               | Cyberamics Reel    |
+| 1990         | {{< wiki-link "CEC Christmas '90" >}}                     | Cyberamics Reel    |
+
 ## Trivia:
 1. The {{< wiki-link "Cyberamics Betamax" >}} version of the show would be tested at {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}. It would be converted to the standard {{< wiki-link "C&R SVHS (Pre-93)" >}} in 1988.
 2. When originally released, it was a separate reel independent from the main show. 

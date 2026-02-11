@@ -10,6 +10,7 @@ transcriptions = ["Tune Machine 1"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 alsoKnownAs = ["Chuck E. Cheese Shows Country Favorites Tune Machine 1 Tune Machine 2 5-15-89","027-0489-01 ShowBiz Pizza Time, Inc. BEST OF 1988 SHOWTAPE Serial #000039 Deck - 7 04/26/89 - Master HEADWOUND"]
+downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Best%20of%201988%20Showtape/027-0489-01%20s000039.wav|Showtape Rip w/ Signals"]
 pageThumbnailFile = "a9qyaga2sse7vkfu.avif"
 +++
 
@@ -38,7 +39,7 @@ pageThumbnailFile = "a9qyaga2sse7vkfu.avif"
 7. **Special 5**
     1.  {{< wiki-link "Chuck E. Cheese Live" >}}
 8. **Special 6**
-    1.  {{< wiki-link "Birthday Extravaganza (Showbiz Branded)" >}}
+    1.  {{< wiki-link "Birthday Extravaganza (ShowBiz Branded)" >}}
 9. **Segment 3**
     1.  Country 1
         1.  ['Country Boy'](https://en.wikipedia.org/wiki/Country_Boy_(Ricky_Skaggs_song))
