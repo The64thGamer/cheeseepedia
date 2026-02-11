@@ -10,7 +10,7 @@ citations = []
 downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Summer%201990%20%283%20skits%29/027-0417-90%20s00117.wav|Showtape Rip w/ Signals"]
 +++
 
-***CEC Summer Days*** is a showtape released in May 1990 themed to the summertime. 
+***CEC Summer 1990*** is a showtape released in May 1990 themed to the summertime. 
 
 ## SVHS Show List:
 
