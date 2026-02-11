@@ -6,10 +6,7 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "1989-12-00"
 endDate = "1989-12-00"
-<<<<<<< Updated upstream
 contributors = ["Ceclife13"]
-=======
-contributors = []
 downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Christmas%2089/027-1031-89%20s0097.wav|Showtape Rip w/ Signals"]
 +++
 

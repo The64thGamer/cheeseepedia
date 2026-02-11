@@ -29100,13 +29100,13 @@
     "rating": 0
   },
   {
-    "title": "cec-christmas-89-wave-bday",
+    "title": "CEC Christmas '89 / Wave Bday",
     "page_path": "content/wiki/cec-christmas-89-wave-bday.md",
-    "startDate": "",
-    "start_year": null,
-    "category": null,
-    "tag": null,
-    "contributors_count": 0,
+    "startDate": "1989-12-00",
+    "start_year": 1989,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 1,
     "rating": 0
   },
   {
