@@ -10266,7 +10266,7 @@
     "start_year": 1987,
     "category": "ShowBiz Pizza Place",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 4
   },
   {
@@ -13347,7 +13347,7 @@
     "category": "Pizza Time Theatre",
     "tag": "Companies/Brands",
     "contributors_count": 1,
-    "rating": 3
+    "rating": 4
   },
   {
     "title": "Opening Team Pin (Rockstar)",
@@ -19776,16 +19776,6 @@
     "start_year": null,
     "category": "Chuck E. Cheese's",
     "tag": "Company Media",
-    "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "CEC TV Classics (Canada)",
-    "page_path": "content/wiki/cec-tv-classics-canada.md",
-    "startDate": "1990-07-00",
-    "start_year": 1990,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
     "contributors_count": 1,
     "rating": 0
   },
@@ -32150,6 +32140,16 @@
     "rating": 0
   },
   {
+    "title": "CEC Summer 1990 (3 Skits)",
+    "page_path": "content/wiki/cec-summer-1990.md",
+    "startDate": "1990-04-17",
+    "start_year": 1990,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 3,
+    "rating": 0
+  },
+  {
     "title": "Ealing, England",
     "page_path": "content/wiki/ealing-england.md",
     "startDate": "1983-00-00",
@@ -33542,7 +33542,7 @@
   {
     "title": "Birthday Extravaganza (ShowBiz Branded)",
     "page_path": "content/wiki/birthday-extravaganza.showbiz.branded.md",
-    "startDate": "1989-07-00",
+    "startDate": "1989-05-00",
     "start_year": 1989,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
@@ -36757,16 +36757,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
     "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "CEC Summer 1990 (3 Skits)",
-    "page_path": "content/wiki/cec-summer-days.md",
-    "startDate": "1990-04-17",
-    "start_year": 1990,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -45192,7 +45182,7 @@
   {
     "title": "Birthday Extravaganza (Chuck E. Cheese Branded)",
     "page_path": "content/wiki/birthday-extravaganza-chuckecheese-branded.md",
-    "startDate": "1989-07-00",
+    "startDate": "1989-05-00",
     "start_year": 1989,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
@@ -52786,7 +52776,7 @@
     "start_year": 1989,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {

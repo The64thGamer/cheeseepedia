@@ -56351,6 +56351,43 @@
       "content": "Ticket Muncher in a dumpster."
     }
   ],
+  "Dolli Dimples II": [
+    {
+      "name": "glqhb7bnaf472tis.avif",
+      "page_path": "content/photos/glqhb7bnaf472tis",
+      "hasFile": true,
+      "startDate": "2026-02-00",
+      "content": "Dolli II Label"
+    },
+    {
+      "name": "sc9uYe2pcqeh8x52aBTP.avif",
+      "page_path": "content/photos/sc9uye2pcqeh8x52abtpavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Tape w/ broken quality seal"
+    },
+    {
+      "name": "QlL522ksmrcGomhNYVI8.avif",
+      "page_path": "content/photos/qll522ksmrcgomhnyvi8avif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Tape Case"
+    },
+    {
+      "name": "2PBZRlah_bJIprxxQnoZ.avif",
+      "page_path": "content/photos/2pbzrlah-bjiprxxqnozavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Tape label"
+    },
+    {
+      "name": "lVtaRKygc5MC4ujWs7ii.avif",
+      "page_path": "content/photos/lvtarkygc5mc4ujws7iiavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": ""
+    }
+  ],
   "PTT 'A' Challenger Night Flyer (1984)": [
     {
       "name": "5fCb87Jxwr8OYH2YSXyY.avif",
@@ -63172,36 +63209,6 @@
       "page_path": "content/photos/946185e7648dc68d",
       "hasFile": true,
       "startDate": "2011-00-00",
-      "content": ""
-    }
-  ],
-  "Dolli Dimples II": [
-    {
-      "name": "sc9uYe2pcqeh8x52aBTP.avif",
-      "page_path": "content/photos/sc9uye2pcqeh8x52abtpavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Tape w/ broken quality seal"
-    },
-    {
-      "name": "QlL522ksmrcGomhNYVI8.avif",
-      "page_path": "content/photos/qll522ksmrcgomhnyvi8avif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Tape Case"
-    },
-    {
-      "name": "2PBZRlah_bJIprxxQnoZ.avif",
-      "page_path": "content/photos/2pbzrlah-bjiprxxqnozavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Tape label"
-    },
-    {
-      "name": "lVtaRKygc5MC4ujWs7ii.avif",
-      "page_path": "content/photos/lvtarkygc5mc4ujws7iiavif",
-      "hasFile": true,
-      "startDate": "",
       "content": ""
     }
   ],
