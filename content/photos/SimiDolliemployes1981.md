@@ -1,0 +1,1 @@
++++ title = "SimiDolli1981Newspaperwithemployees.avif" draft = false tags = ["Photos"] categories = ["Pizza Time Theatre"] pages = ["Simi Valley, CA (71 Tierra Rejada Rd)"] startDate = "1981-02-27" citations = [] +++
