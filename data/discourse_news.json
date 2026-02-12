@@ -72,6 +72,13 @@
       "trust_level": 2
     },
     {
+      "id": 25,
+      "username": "crunchybeans",
+      "name": "stel/bug/crunchy (they/them)",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/crunchybeans/{size}/491_2.png",
+      "trust_level": 2
+    },
+    {
       "id": 69,
       "username": "LenzuLeLooney",
       "name": "",
@@ -95,13 +102,6 @@
       "flair_bg_color": "44BD53",
       "flair_color": "FFFF",
       "flair_group_id": 49,
-      "trust_level": 2
-    },
-    {
-      "id": 25,
-      "username": "crunchybeans",
-      "name": "stel/bug/crunchy (they/them)",
-      "avatar_template": "/user_avatar/forum.cheeseepedia.org/crunchybeans/{size}/491_2.png",
       "trust_level": 2
     },
     {
@@ -291,7 +291,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 109,
+        "views": 221,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -389,7 +389,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 60,
+        "views": 84,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -475,9 +475,11 @@
             "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/7/7a17690601ab7ba6dbcad97f3ad0a24d96a01680_2_200x109.jpeg"
           }
         ],
-        "tags": [],
+        "tags": [
+          "chuck-e-cheese"
+        ],
         "tags_descriptions": {},
-        "views": 205,
+        "views": 219,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -574,7 +576,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 284,
+        "views": 294,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -671,7 +673,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 279,
+        "views": 292,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "RazorKatxD",
@@ -775,7 +777,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 203,
+        "views": 209,
         "like_count": 7,
         "has_summary": false,
         "last_poster_username": "Cody",
@@ -821,14 +823,14 @@
         "id": 241,
         "title": "David Mckillips Steps Down as CEO, Replaced with Scott Drake",
         "slug": "david-mckillips-steps-down-as-ceo-replaced-with-scott-drake",
-        "posts_count": 25,
-        "reply_count": 11,
-        "highest_post_number": 25,
+        "posts_count": 26,
+        "reply_count": 13,
+        "highest_post_number": 27,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/e/e65bd345ef41bb331f7307f46e92720a3c41b55d.jpeg",
         "created_at": "2026-02-03T15:36:57.929Z",
-        "last_posted_at": "2026-02-10T16:38:45.672Z",
+        "last_posted_at": "2026-02-11T16:27:25.090Z",
         "bumped": true,
-        "bumped_at": "2026-02-10T16:38:45.672Z",
+        "bumped_at": "2026-02-11T16:27:25.090Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -879,10 +881,10 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 1103,
-        "like_count": 16,
+        "views": 1235,
+        "like_count": 19,
         "has_summary": false,
-        "last_poster_username": "Stripes",
+        "last_poster_username": "crunchybeans",
         "category_id": 5,
         "op_like_count": 4,
         "pinned_globally": false,
@@ -907,23 +909,23 @@
           {
             "extras": null,
             "description": "Frequent Poster",
-            "user_id": 65,
+            "user_id": 17,
             "primary_group_id": 41,
             "flair_group_id": 41
           },
           {
             "extras": null,
             "description": "Frequent Poster",
-            "user_id": 17,
+            "user_id": 3,
             "primary_group_id": 41,
-            "flair_group_id": 41
+            "flair_group_id": 42
           },
           {
             "extras": "latest",
             "description": "Most Recent Poster",
-            "user_id": 3,
-            "primary_group_id": 41,
-            "flair_group_id": 42
+            "user_id": 25,
+            "primary_group_id": null,
+            "flair_group_id": null
           }
         ]
       },
@@ -1099,7 +1101,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 244,
+        "views": 248,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "crunchybeans",
@@ -1203,7 +1205,7 @@
           "topic-of-the-month"
         ],
         "tags_descriptions": {},
-        "views": 135,
+        "views": 139,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "CyberSnout",
@@ -1293,7 +1295,7 @@
           "cheese-e-pedia"
         ],
         "tags_descriptions": {},
-        "views": 98,
+        "views": 99,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1453,7 +1455,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 186,
+        "views": 187,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "randomguyfan22-maker",
@@ -1655,7 +1657,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 223,
+        "views": 225,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -1746,7 +1748,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 327,
+        "views": 329,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -1948,7 +1950,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 203,
+        "views": 205,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2043,7 +2045,7 @@
         ],
         "tags": [],
         "tags_descriptions": {},
-        "views": 242,
+        "views": 243,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -2193,14 +2195,14 @@
         "id": 200,
         "title": "David McKillips Continues Years Long Pajamas and Cereal Delusions",
         "slug": "david-mckillips-continues-years-long-pajamas-and-cereal-delusions",
-        "posts_count": 8,
-        "reply_count": 1,
-        "highest_post_number": 8,
+        "posts_count": 9,
+        "reply_count": 2,
+        "highest_post_number": 10,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/c/c44eeaab6359412ab2e77e4c1099db07e2a1abca_2_1024x766.jpeg",
         "created_at": "2026-01-12T00:11:59.158Z",
-        "last_posted_at": "2026-02-06T19:23:42.110Z",
+        "last_posted_at": "2026-02-11T16:18:17.233Z",
         "bumped": true,
-        "bumped_at": "2026-02-06T19:23:42.110Z",
+        "bumped_at": "2026-02-11T16:18:17.233Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -2267,7 +2269,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 397,
+        "views": 403,
         "like_count": 7,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -2394,7 +2396,7 @@
           "topic-of-the-month"
         ],
         "tags_descriptions": {},
-        "views": 184,
+        "views": 185,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2902,7 +2904,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 171,
+        "views": 172,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -3101,7 +3103,7 @@
           "creative-engineering"
         ],
         "tags_descriptions": {},
-        "views": 147,
+        "views": 148,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -3199,7 +3201,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 179,
+        "views": 180,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",

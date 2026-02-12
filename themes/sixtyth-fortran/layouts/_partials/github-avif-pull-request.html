@@ -17,12 +17,11 @@
         <ol style="margin-top: 1rem; font-size: 14px;">
           <li>Go to <a href="https://github.com/settings/tokens" target="_blank">GitHub Settings → Tokens</a></li>
           <li>Click "Generate new token" → "Fine-grained token" (recommended)</li>
-          <li>Set repository access to this repository only</li>
           <li>Grant these permissions: <strong>Contents (Read & Write)</strong>, <strong>Pull Requests (Read & Write)</strong></li>
           <li>Copy the token and paste it above</li>
         </ol>
         <p style="color: var(--deep-white);">
-          ℹ️ Your token is only stored in your browser's memory during this session and is never sent anywhere except GitHub.
+          Your token is only stored in your browser's memory during this session and is never sent anywhere except GitHub.
         </p>
       </details>
       <button id="next-to-step-2">Next</button>
@@ -104,7 +103,7 @@
           <span id="progress-1" class="progress-icon">⏳</span> Validating GitHub token...
         </div>
         <div class="progress-item">
-          <span id="progress-2" class="progress-icon">⏳</span> Creating branch...
+          <span id="progress-2" class="progress-icon">⏳</span> Setting up fork...
         </div>
         <div class="progress-item">
           <span id="progress-3" class="progress-icon">⏳</span> Uploading images...
@@ -393,9 +392,10 @@ import { Octokit } from 'https://cdn.skypack.dev/@octokit/rest';
 
   async function createPullRequest() {
     try {
-      // Step 1: Validate token
+      // Step 1: Validate token and get user info
       updateProgress(1, 'loading');
       const { data: user } = await octokit.rest.users.getAuthenticated();
+      const userLogin = user.login;
       updateProgress(1, 'success');
 
       // Generate file metadata
@@ -408,34 +408,71 @@ import { Octokit } from 'https://cdn.skypack.dev/@octokit/rest';
         };
       });
 
-      // Step 2: Create branch
+      // Step 2: Check if user has a fork, create one if not, and sync it
       updateProgress(2, 'loading');
-      const branchName = `photos-${Date.now()}`;
+      let forkExists = false;
       
-      // Get the latest commit SHA from the base branch
+      // Check if fork exists
+      try {
+        await octokit.rest.repos.get({
+          owner: userLogin,
+          repo: GITHUB_REPO
+        });
+        forkExists = true;
+      } catch (error) {
+        if (error.status === 404) {
+          // Fork doesn't exist, create it
+          await octokit.rest.repos.createFork({
+            owner: GITHUB_OWNER,
+            repo: GITHUB_REPO
+          });
+          
+          // Wait for the fork to be ready (GitHub needs time to initialize it)
+          await new Promise(resolve => setTimeout(resolve, 5000));
+        } else {
+          throw error;
+        }
+      }
+      
+      // Sync fork with upstream if it already existed
+      if (forkExists) {
+        try {
+          await octokit.request('POST /repos/{owner}/{repo}/merge-upstream', {
+            owner: userLogin,
+            repo: GITHUB_REPO,
+            branch: GITHUB_BRANCH
+          });
+        } catch (error) {
+          // If sync fails (e.g., due to conflicts or already up-to-date), continue anyway
+          console.log('Fork sync skipped or failed:', error.message);
+        }
+      }
+      
+      // Get the latest commit SHA from the fork's base branch
       const { data: ref } = await octokit.rest.git.getRef({
-        owner: GITHUB_OWNER,
+        owner: userLogin,
         repo: GITHUB_REPO,
         ref: `heads/${GITHUB_BRANCH}`
       });
       const baseSha = ref.object.sha;
-
-      // Create new branch
+      
+      // Create new branch in the fork
+      const branchName = `photos-${Date.now()}`;
       await octokit.rest.git.createRef({
-        owner: GITHUB_OWNER,
+        owner: userLogin,
         repo: GITHUB_REPO,
         ref: `refs/heads/${branchName}`,
         sha: baseSha
       });
       updateProgress(2, 'success');
 
-      // Step 3: Upload images as blobs
+      // Step 3: Upload images as blobs to the fork
       updateProgress(3, 'loading');
       const imageBlobs = [];
       for (const fileInfo of fileData) {
         const base64Content = await fileToBase64(fileInfo.originalFile);
         const { data: blob } = await octokit.rest.git.createBlob({
-          owner: GITHUB_OWNER,
+          owner: userLogin,
           repo: GITHUB_REPO,
           content: base64Content,
           encoding: 'base64'
@@ -447,7 +484,7 @@ import { Octokit } from 'https://cdn.skypack.dev/@octokit/rest';
       }
       updateProgress(3, 'success');
 
-      // Step 4: Create markdown files as blobs
+      // Step 4: Create markdown files as blobs in the fork
       updateProgress(4, 'loading');
       const markdownBlobs = [];
       for (const fileInfo of fileData) {
@@ -478,7 +515,7 @@ ${formData.description}`;
         const base64Content = btoa(unescape(encodeURIComponent(content)));
 
         const { data: blob } = await octokit.rest.git.createBlob({
-          owner: GITHUB_OWNER,
+          owner: userLogin,
           repo: GITHUB_REPO,
           content: base64Content,
           encoding: 'base64'
@@ -490,12 +527,12 @@ ${formData.description}`;
       }
       updateProgress(4, 'success');
 
-      // Step 5: Create tree and commit
+      // Step 5: Create tree and commit in the fork
       updateProgress(5, 'loading');
       
       // Get base tree
       const { data: baseCommit } = await octokit.rest.git.getCommit({
-        owner: GITHUB_OWNER,
+        owner: userLogin,
         repo: GITHUB_REPO,
         commit_sha: baseSha
       });
@@ -509,7 +546,7 @@ ${formData.description}`;
       }));
 
       const { data: newTree } = await octokit.rest.git.createTree({
-        owner: GITHUB_OWNER,
+        owner: userLogin,
         repo: GITHUB_REPO,
         base_tree: baseCommit.tree.sha,
         tree: tree
@@ -519,23 +556,23 @@ ${formData.description}`;
       const commitMessage = `Add ${fileData.length} photo${fileData.length > 1 ? 's' : ''}: ${formData.description.substring(0, 50)}${formData.description.length > 50 ? '...' : ''}`;
       
       const { data: newCommit } = await octokit.rest.git.createCommit({
-        owner: GITHUB_OWNER,
+        owner: userLogin,
         repo: GITHUB_REPO,
         message: commitMessage,
         tree: newTree.sha,
         parents: [baseSha]
       });
 
-      // Update branch reference
+      // Update branch reference in the fork
       await octokit.rest.git.updateRef({
-        owner: GITHUB_OWNER,
+        owner: userLogin,
         repo: GITHUB_REPO,
         ref: `heads/${branchName}`,
         sha: newCommit.sha
       });
       updateProgress(5, 'success');
 
-      // Step 6: Create pull request
+      // Step 6: Create pull request from fork to upstream
       updateProgress(6, 'loading');
       
       const prTitle = currentPageTitle;
@@ -558,11 +595,12 @@ ${formData.description}`;
         prBody += `\n\n---\n\n${formData.prDescription}`;
       }
 
+      // Create PR from user's fork to the original repo
       const { data: pr } = await octokit.rest.pulls.create({
         owner: GITHUB_OWNER,
         repo: GITHUB_REPO,
         title: prTitle,
-        head: branchName,
+        head: `${userLogin}:${branchName}`,  // Format: username:branch
         base: GITHUB_BRANCH,
         body: prBody
       });
@@ -589,7 +627,7 @@ ${formData.description}`;
       } else if (error.status === 403) {
         errorMessage = 'Permission denied. Make sure your token has "Contents" and "Pull Requests" permissions.';
       } else if (error.status === 404) {
-        errorMessage = 'Repository not found. Please check the GITHUB_OWNER and GITHUB_REPO values.';
+        errorMessage = 'Repository not found. Please check your token permissions.';
       } else if (error.message) {
         errorMessage = error.message;
       }
