@@ -29,6 +29,20 @@
       "trust_level": 2
     },
     {
+      "id": 12,
+      "username": "Ceclife13",
+      "name": "",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/ceclife13/{size}/201_2.png",
+      "primary_group_name": "BankruptcyBelievers",
+      "flair_name": "BankruptcyBelievers",
+      "flair_url": "building-columns",
+      "flair_bg_color": "352240",
+      "flair_color": "FFFFFF",
+      "flair_group_id": 41,
+      "moderator": true,
+      "trust_level": 1
+    },
+    {
       "id": 89,
       "username": "RazorKatxD",
       "name": null,
@@ -225,14 +239,14 @@
         "id": 269,
         "title": "Gigantic PTT/CEC Showtape Drop",
         "slug": "gigantic-ptt-cec-showtape-drop",
-        "posts_count": 2,
+        "posts_count": 3,
         "reply_count": 0,
-        "highest_post_number": 2,
+        "highest_post_number": 3,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/d/d5a9bc0399e288cd02f3e4ca536870b002ba54b4.jpeg",
         "created_at": "2026-02-10T20:07:32.106Z",
-        "last_posted_at": "2026-02-10T20:11:01.308Z",
+        "last_posted_at": "2026-02-12T03:28:10.427Z",
         "bumped": true,
-        "bumped_at": "2026-02-10T20:11:01.308Z",
+        "bumped_at": "2026-02-12T03:28:10.427Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -291,10 +305,10 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 221,
-        "like_count": 2,
+        "views": 260,
+        "like_count": 3,
         "has_summary": false,
-        "last_poster_username": "PizzaEntertainment",
+        "last_poster_username": "Ceclife13",
         "category_id": 5,
         "op_like_count": 2,
         "pinned_globally": false,
@@ -310,9 +324,16 @@
             "flair_group_id": 41
           },
           {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 17,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
             "extras": "latest",
             "description": "Most Recent Poster",
-            "user_id": 17,
+            "user_id": 12,
             "primary_group_id": 41,
             "flair_group_id": 41
           }
@@ -389,7 +410,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 84,
+        "views": 91,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -479,7 +500,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 219,
+        "views": 225,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -576,7 +597,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 294,
+        "views": 304,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -673,7 +694,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 292,
+        "views": 298,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "RazorKatxD",
@@ -777,7 +798,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 209,
+        "views": 211,
         "like_count": 7,
         "has_summary": false,
         "last_poster_username": "Cody",
@@ -881,7 +902,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 1235,
+        "views": 1313,
         "like_count": 19,
         "has_summary": false,
         "last_poster_username": "crunchybeans",
@@ -997,7 +1018,7 @@
         ],
         "tags": [],
         "tags_descriptions": {},
-        "views": 70,
+        "views": 71,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -1101,7 +1122,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 248,
+        "views": 249,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "crunchybeans",
@@ -1205,7 +1226,7 @@
           "topic-of-the-month"
         ],
         "tags_descriptions": {},
-        "views": 139,
+        "views": 142,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "CyberSnout",
@@ -1559,7 +1580,7 @@
           "cheese-e-pedia"
         ],
         "tags_descriptions": {},
-        "views": 154,
+        "views": 156,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2269,7 +2290,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 403,
+        "views": 404,
         "like_count": 7,
         "has_summary": false,
         "last_poster_username": "CECR995",

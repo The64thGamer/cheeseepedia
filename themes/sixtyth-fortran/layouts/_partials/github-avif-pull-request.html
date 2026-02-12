@@ -16,11 +16,13 @@
         <summary style="cursor: pointer; color: var(--yellow);">How to create a token?</summary>
         <ol style="margin-top: 1rem; font-size: 14px;">
           <li>Go to <a href="https://github.com/settings/tokens" target="_blank">GitHub Settings → Tokens</a></li>
-          <li>Click "Generate new token" → "Fine-grained token" (recommended)</li>
-          <li>Grant these permissions: <strong>Contents (Read & Write)</strong>, <strong>Pull Requests (Read & Write)</strong></li>
+          <li>Click "Generate new token" → "Fine-grained token" (recommended) OR "Classic token"</li>
+          <li><strong>Fine-grained:</strong> Set "Repository access" to "All repositories" (or just select your fork if it exists)</li>
+          <li><strong>Fine-grained:</strong> Grant permissions: <strong>Contents (Read & Write)</strong>, <strong>Pull Requests (Read & Write)</strong></li>
+          <li><strong>Classic:</strong> Just check the <strong>repo</strong> scope (full control of repositories)</li>
           <li>Copy the token and paste it above</li>
         </ol>
-        <p style="color: var(--deep-white);">
+        <p style="color: var(--deep-white); font-size: 12px;">
           Your token is only stored in your browser's memory during this session and is never sent anywhere except GitHub.
         </p>
       </details>
@@ -570,6 +572,18 @@ ${formData.description}`;
         ref: `heads/${branchName}`,
         sha: newCommit.sha
       });
+      
+      // Verify the branch was updated correctly
+      const { data: verifyRef } = await octokit.rest.git.getRef({
+        owner: userLogin,
+        repo: GITHUB_REPO,
+        ref: `heads/${branchName}`
+      });
+      
+      if (verifyRef.object.sha !== newCommit.sha) {
+        throw new Error('Branch update verification failed');
+      }
+      
       updateProgress(5, 'success');
 
       // Step 6: Create pull request from fork to upstream
@@ -610,6 +624,7 @@ ${formData.description}`;
 
     } catch (error) {
       console.error('Error creating pull request:', error);
+      console.error('Error response:', error.response?.data);
       
       // Find which step failed
       for (let i = 1; i <= 6; i++) {
@@ -625,9 +640,11 @@ ${formData.description}`;
       if (error.status === 401) {
         errorMessage = 'Invalid GitHub token. Please check your token and try again.';
       } else if (error.status === 403) {
-        errorMessage = 'Permission denied. Make sure your token has "Contents" and "Pull Requests" permissions.';
+        errorMessage = 'Permission denied. Make sure your token has "Contents" and "Pull Requests" permissions for your fork.';
       } else if (error.status === 404) {
         errorMessage = 'Repository not found. Please check your token permissions.';
+      } else if (error.status === 422) {
+        errorMessage = `Validation error: ${error.response?.data?.message || error.message}. This may mean the branch wasn't created properly.`;
       } else if (error.message) {
         errorMessage = error.message;
       }

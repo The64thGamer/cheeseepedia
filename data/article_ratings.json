@@ -3816,7 +3816,7 @@
     "start_year": 1982,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -8866,7 +8866,7 @@
     "start_year": 1982,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 0
   },
   {
@@ -18616,8 +18616,8 @@
     "start_year": 1982,
     "category": "Pizza Time Theatre",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 4
   },
   {
     "title": "Gold Collection Tape 1 (NRAE)",
@@ -26876,7 +26876,7 @@
     "start_year": 1983,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 1
   },
   {
@@ -31316,7 +31316,7 @@
     "start_year": 1981,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 1
   },
   {
@@ -36566,7 +36566,7 @@
     "start_year": 1991,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -44087,16 +44087,6 @@
     "category": "Pizza Time Theatre",
     "tag": "Locations",
     "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Beach Bowzers Cabaret Tape",
-    "page_path": "content/wiki/beach-bowzers.md",
-    "startDate": "1985-10-00",
-    "start_year": 1985,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -51807,6 +51797,16 @@
     "category": "Creative Engineering",
     "tag": "Company Media",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "Beach Bowzers Cabaret Tape",
+    "page_path": "content/wiki/beach-bowzers-cabaret-tape.md",
+    "startDate": "1985-02-21",
+    "start_year": 1985,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 3,
     "rating": 0
   },
   {
