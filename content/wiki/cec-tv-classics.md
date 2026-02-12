@@ -34,7 +34,7 @@ downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c
         2.  Birthday Extravaganza
         3.  [Do You Remember](https://en.wikipedia.org/wiki/Do_You_Remember%3F_(Phil_Collins_song))
     2.  It's Showtime!
-4.**Video 1**
+4. **Video 1**
     1.  [CGI Animated Graphics](https://en.wikipedia.org/wiki/Odyssey_Productions)
         1.  Cosmic Zoom
         2.  Metafable
@@ -58,7 +58,7 @@ downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c
         3.  [Save Me](https://en.wikipedia.org/wiki/Save_Me_(Fleetwood_Mac_song))
         4.  [Nothing Compares 2 U](https://en.wikipedia.org/wiki/Nothing_Compares_2_U)
     2.  It's Showtime!
-8.**Video 2**
+8. **Video 2**
     1.  ?
 9. **Intermission 5**
     1.  8 Minute Countdown
@@ -111,7 +111,7 @@ downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c
 7. **Special 5**
     1.  {{< wiki-link "Chuck E. Cheese Live" >}}
 8. **Special 6**
-    1.  {{< wiki-link "Birthday Extravaganza (Showbiz Branded)" >}}
+    1.  {{< wiki-link "Birthday Extravaganza (ShowBiz Branded)" >}}
 9. **Segment 3**
     1.  [Alfred Hitch-Chuck Presents Skit (Parody of Alfred Hitchcock Presents)](https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents)
     2.  [F-Troop Theme](https://en.wikipedia.org/wiki/F_Troop)
