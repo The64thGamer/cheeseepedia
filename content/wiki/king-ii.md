@@ -44,31 +44,4 @@ King II was the second showtape released for The King, released in April of 1983
     1. I Got a Woman (I Got a Sweetie)
 13. Segment 13
     1. Talk About the Good Times
-14. Segment 14
-    1. Viva Las Vegas
-15. Segment 15
-    1. Rip it Up
-16. Segment 16
-    1. Good Rockin' Tonight
-17. Segment 17
-    1. Guitar Man
-18. Segment 18
-    1. Wear My Ring Around Your Neck
-19. Segment 19
-    1. Kentucky Rain
-20. Segment 20
-    1. Burning Love
-21. Segment 21
-    1. Heartbreak Hotel
-22. Segment 22
-    1. Rip it Up
-23. Segment 23
-    1. Monkey Business
-24. Segment 24
-    1. T-R-O-U-B-L-E
-25. Segment 25
-    1. I Got a Woman (I Got a Sweetie)
-26. Segment 26
-    1. Talk About the Good Times
-
 
