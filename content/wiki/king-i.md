@@ -4,7 +4,8 @@ title = "King I"
 startDate = "1981-00-00"
 endDate = "1986-00-00"
 pageThumbnailFile = "Xo51aBbOn44vY7FQWArY.avif"
-contributors = ["The 64th Gamer"]
+contributors = ["The 64th Gamer","Ceclife13"]
+credits = ["Bob Sarlatte|Voice of The King"]
 citations = ["https://archive.org/download/ptt_showtape_reels_w_signals/King%201.wav|Showtape w/ Signals"]
 mediaDuration = "1:18:02"
 showtapeFormats = ["Cyberamics Reel"]
@@ -21,7 +22,7 @@ King I was the first showtape released for the {{< wiki-link "The King / King Ka
 - February 11, 1983
 - April 29, 1986
 
-## Show Segments
+## Show List
 
 1. **Segment 1**
     1.  Hound Dog
