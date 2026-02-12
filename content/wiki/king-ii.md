@@ -1,11 +1,11 @@
 +++
-
 draft = false
 title = "King II"
 startDate = "1983-04-24"
 endDate = "0000-00-00"
 pageThumbnailFile = "982h4iuhn4g4g.avif"
 contributors = ["The 64th Gamer", "Luigigamin212", "Ceclife13"]
+credits = ["Bob Sarlatte|Voice of The King"]
 citations = ["Showtape Image"]
 showtapeFormats = ["Cyberamics Reel"]
 alsoKnownAs = ["ASSY# 027-0060-10-0A SKIT-KING II LOUNGE #2 WO# 1401233700 WO QTY 56 BUILT BY: Rex B DATE 4-24-83"]
