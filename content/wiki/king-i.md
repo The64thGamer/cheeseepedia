@@ -22,7 +22,7 @@ King I was the first showtape released for the {{< wiki-link "The King / King Ka
 - February 11, 1983
 - April 29, 1986
 
-## Show Segments
+## Show List
 
 1. **Segment 1**
     1.  Hound Dog
