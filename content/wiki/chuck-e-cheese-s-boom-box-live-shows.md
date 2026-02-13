@@ -5,6 +5,7 @@ startDate = "2014-01-01"
 endDate = "2014-08-31"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = []
+pageThumbnailFile = "Boomboxlives.avif"
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
