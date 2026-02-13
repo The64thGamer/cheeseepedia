@@ -6,7 +6,7 @@ endDate = "1980-00-00"
 pageThumbnailFile = "jppsdkMu1D2N3ekUopFg.avif"
 contributors = ["The 64th Gamer","Ceclife13"]
 citations = ["cfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjEwMTIzNTM3MzIsImlhdCI6MTcyOTMxNDE2NiwiZXhwIjoxNzI5NDAwNTY2fQ.3zRvf1oJwM6E8BADHDJXP5SjU0JaG-mJ5twPRfHwodQ&terms=show&match=1","https://www.newspapers.com/image-view/1012353732/?clipping_id=135287216&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjEwMTIzNTM3MzIsImlhdCI6MTc2NTE1MTU5MiwiZXhwIjoxNzY1MjM3OTkyfQ.JIbcJH2IsSLhkhuouUEYMEGcIXwRmfBc--hFYW-MwzU"]
-credits = ["John Widelock|Voice of Chuck E. Cheese", "Lady Bianca|Voice of Sally Sashay", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef",]
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Lady Bianca|Voice of Sally Sashay", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
 showtapeFormats = ["Cyberamics Reel"]
 transcriptions = ["Salute to The Great American Railroad"]
 alsoKnownAs = ["SKIT-SALLY 1XMAS-USA 027-0019-10"]
