@@ -6,6 +6,7 @@ categories = ["Pizza Time Theatre"]
 startDate = "1980-11-07"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","JamesLemony","Ceclife13"]
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Paula Mulcahy|Voice of Madam Oink", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
 citations = []
 pageThumbnailFile = "0G4QMhWkbgVIxHm3Wh9h.avif"
 showtapeFormats = ["Cyberamics Reel"]
@@ -13,7 +14,7 @@ alsoKnownAs = ["'AROUND THE WORLD WITH MADAM OINK' 11-7 80 STAGE + SHELF w/ XMAS
 +++
 ***Around the World with Madam Oink*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with guest star Madam Oink. 
 
-## Segments:
+## Show List:
 
 Disclaimer: The segment list is currently incomplete, as it is unclear what the original order of special and birthday tapes was within the original showtape reel.
 
@@ -59,24 +60,24 @@ Disclaimer: The segment list is currently incomplete, as it is unclear what the 
     3.  'Baby Face'
 9.  Segment 9
     1.  'Roots in the Country'
-10.  Segment 10
+10. Segment 10
     1.  'Lady of Oink'
     2.  'Ah, Paree (Paris)'
     3.  'I Love Paris'
     4.  'Ta-rah-rah Boom-de-ay'
-11.  Segment 11
+11. Segment 11
     1.  'Money Money'
-12.  Special 1
+12. Special 1
     1.  'Birthday One, Honey Bun'
-13.  Special 2
+13. Special 2
     1.  'Happy Birthday, Happy Birthday Baby'
-14.  Special 3
+14. Special 3
     1.  Birthday Chant / Song
-15.  Special 4
+15. Special 4
     1.  Cheer-Trumpets
-16.  Special 5
+16. Special 5
     1.  Pasqually's Chuck E. Intro
-17.  Special 6
+17. Special 6
     1.  Christmas Medley
         1.  'Silver Bells'
         2.  'Deck The Halls'
