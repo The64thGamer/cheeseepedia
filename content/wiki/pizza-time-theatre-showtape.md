@@ -6,11 +6,11 @@ categories = ["Pizza Time Theatre"]
 transcriptions = ["Bye Bye Blackbird (Demo)","The Can-Can (Demo)","Pasqually Show (Demo)","Cocktails for Two (Demo)","How Much Is That Doggy in the Window (Demo)"]
 startDate = "1977-05-01"
 endDate = "1977-08-12"
-contributors = ["The 64th Gamer","CEC Tinley"]
+contributors = ["The 64th Gamer","CEC Tinley","Ceclife13"]
 citations = ["http://www.showbizpizza.com/review/ptt/1977_crusty.html","http://cocatalog.loc.gov/cgi-bin/doctitles.cgi?V1704P125","https://www.youtube.com/watch?v=C2cQFyz12hA","https://archive.org/details/sanfranciscosanf1978rlpo/page/n373/mode/2up?q=%22Bogas+Productions%22","https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977","https://youtu.be/AEklLTqgdQg?t=1976","https://youtu.be/Unm8FPZhFDc?t=2255","https://youtu.be/AEklLTqgdQg?t=347"]
 pageThumbnailFile = "4q2oQSqEHCxQT6bXvwVp.avif"
 downloadLinks = ["https://archive.org/download/bigcheese/Stereo.wav|Big Cheese Birthday Show 2-Track Audio","https://archive.org/details/winchester-crusty-cds#review-1717546212|Winchester Crusty CDs"]
-credits = ["Crusty the Cat VA|Ed Bogas"]
+credits = ["John Widelock|Voice of Chuck E. Cheese, Jasper T. Jowls (Demo), Pasqually the Chef (Demo), Crusty the Cat (Demo)", "Joe Spano|Voice of Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls", "Ed Bogas|Voice of Crusty the Cat", "Bob Sarlatte|Voice of Crusty the Cat", "Buffy Sainte-Marie|Voice of the Warblettes"]
 showtapeFormats = ["Cyberamics Reel"]
 +++
 The ***Pizza Time Theatre Showtape* was the first ever {{< wiki-link "Pizza Time Theatre" >}} showtape to be made, premiering with the opening of the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location on May 17, 1977.
