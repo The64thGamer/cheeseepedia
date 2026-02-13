@@ -6,6 +6,7 @@ endDate = "1984-00-00"
 pageThumbnailFile = "ZZQ3Tdw04wE02sfhLMcO.avif"
 contributors = ["JamesLemony", "Ceclife13"]
 citations = ["https://www.washingtonpost.com/archive/business/1984/03/05/chuck-e-tries-to-up-score-of-pizza-video/6006d1de-28cb-4e93-b028-bfad3c37f1d1/", "https://youtu.be/woJQoO0pitM"]
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenihan|Voice of Helen Henny", "Scott Wilson|Voice of Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls"]
 showtapeFormats = ["Cyberamics Reel"]
 transcriptions = ["1980s Video Hits", "Oldies but Goodies", "British Invasion", "Soul Music", "Hot Rod Songs", "Early 70s Music", "Warblettes Oldies Birthday ", "Pasquallys Birthday Rock", "My Girlfriends Birthday", "Happy Happy Birthday Baby", "KCEC Birthday", "Pasquallys Chuck E Intro Bandstand", "Disco Birthday", "Bandstand Cheer"]
 alsoKnownAs = ["Bandstand 1"]
@@ -50,19 +51,19 @@ Disclaimer: The segment list is currently incomplete, as it is unclear what the 
     3.  'Higher and Higher'
     4.  'You Make Me Feel Like Dancing'
     5.  'Honky Cat'
-1.**Special 1**
+1. **Special 1**
     1.  Warblettes Oldies Birthday
-1.**Special 2**
+1. **Special 2**
     1.  Pasqually's Birthday Rock
-1.**Special 3**
+1. **Special 3**
     1.  'My Girlfriend's Birthday'
-1.**Special 4**
+1. **Special 4**
     1.  'Happy, Happy Birthday Baby'
-1.**Special 5**
+1. **Special 5**
     1.  KCEC Birthday
-1.**Special 6**
+1. **Special 6**
     1.  Pasqually's Chuck E. Intro (Bandstand)
-1.**Special 7**
+1. **Special 7**
     1.  Disco Birthday
-1.**Special 8**
+1. **Special 8**
     1.  Cheer - Bandstand

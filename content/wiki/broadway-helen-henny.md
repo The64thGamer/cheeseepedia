@@ -7,11 +7,12 @@ pageThumbnailFile = "zmDwocYUvMtvSPm6vliQ.avif"
 contributors = ["JamesLemony", "Anonymous", "The 64th Gamer", "Steven 'CEC' Master", "Ceclife13"]
 citations = []
 showtapeFormats = ["Cyberamics Reel"]
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenihan|Voice of Helen Henny", "Scott Wilson|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
 alsoKnownAs = ["Broadway Helen", "ASSY# 027-0063-10-0ASKIT TAPE-BROADWAY HELEN HENNYWO# 1901768200 WO QTY:BUILT BY: REB DATE:"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 +++
-***Broadway Helen Henny*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with guest star Helen Henny.
+***Broadway Helen Henny*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny.
 This would be the last guest star showtape as Pizza Time Theatre's bankruptcy would occur shortly after its release.
 
 ## Segments:
@@ -60,12 +61,12 @@ Disclaimer: The segment list is currently incomplete, as it is unclear what the 
 9.  Special 3
     1.  'We Need a Little Birthday Cheer'
 10.  Special 4
-    1.  Cheer - 'For Your a Jolly Good Fellow'
+     1.  Cheer - 'For Your a Jolly Good Fellow'
 11.  Special 5
-    1.  Pasqually's Chuck E. Intro (Broadway Helen Henny)
+     1.  Pasqually's Chuck E. Intro (Broadway Helen Henny)
 12.  Special 6
-    1.  Christmas Medley (Broadway Helen Henny)
-        1.  'Have Yourself a Merry Little Christmas'
-        2.  'Santa Claus is Coming to Town'
-        3.  'Silent Night'
-        4.  'We Wish You a Merry Christmas'
+     1.  Christmas Medley (Broadway Helen Henny)
+         1.  'Have Yourself a Merry Little Christmas'
+         2.  'Santa Claus is Coming to Town'
+         3.  'Silent Night'
+         4.  'We Wish You a Merry Christmas'

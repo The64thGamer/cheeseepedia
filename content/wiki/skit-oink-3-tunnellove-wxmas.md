@@ -7,6 +7,7 @@ pageThumbnailFile = "ojnerfgojn34otjn.avif"
 contributors = ["The 64th Gamer","Ceclife13"]
 citations = ["https://archive.org/download/ptt_showtape_reels_w_signals/Skit-Oink%203%20Tunnel-Love%20W-XMAS.wav|Reel Audio w/ Signals"]
 mediaDuration = "1:28:55"
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Paula Mulcahy|Voice of Madame Oink", "Scott Wilson|Voice of Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls"]
 downloadLinks = ["https://archive.org/download/ptt_showtape_reels_w_signals/Skit-Oink%203%20Tunnel-Love%20W-XMAS.wav|Reel Audio w/ Signals"]
 alsoKnownAs = ["ASSY # 027-0056-10 SKIT-OINK 3 TUNNEL/LOVE W/XMAS WO# 1141732400 WO QTY 100 BLT BY: GS DATE: 11/24/82"]
 tags = ["Showtapes"]

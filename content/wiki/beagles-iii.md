@@ -2,10 +2,10 @@
 title = "Beagles III"
 draft = false
 tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+categories = ["Pizza Time Theatre"]
 startDate = "1983-08-31"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Cyber Snout"]
+contributors = ["The 64th Gamer","Cyber Snout", "Ceclife13"]
 citations = []
 pageThumbnailFile = "Nx6DRM95rHA8489coJHx.avif"
 showtapeFormats = ["Cyberamics Reel"]
