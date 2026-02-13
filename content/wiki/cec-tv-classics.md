@@ -7,6 +7,7 @@ alsoKnownAs = ["027-0705-90 (C) S.P.T. Inc. CEC TV CLASSICS Serial #0022 Deck - 
 startDate = "1990-07-00"
 endDate = "1990-08-00"
 contributors = ["DerekCat","Ceclife13"]
+credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Connie Nelson|Voice of Helen Henny"]
 citations = []
 downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20TV%20Classics/027-0705-90%20s001.wav|Showtape Rip w/ Signals"]
 +++
