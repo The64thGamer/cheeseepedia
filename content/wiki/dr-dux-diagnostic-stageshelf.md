@@ -11,7 +11,7 @@ credits = ["Mike Hatcher|Programmer, Voiceover"]
 downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Dr.%20Dux%20Diag-Stage%20_%20Shelf/027-0023-10.wav|Showtape Rip w/ Signals"]
 +++
 
-**Dr. Dux Diagnostic Stage / Shelf** was released in the early 80s to test the movements of the main stage at Pizza Time Theatre. Each character movement would be tested 10 times. 
+**Dr. Dux Diagnostic Stage / Shelf**, also labeled as **Dr. Duck's Diagnostic (NOW! with Dolli's Diagnostic)**, was released in the early 80s to test the movements of the main stage at Pizza Time Theatre. Each character movement would be tested 10 times. 
 
 **Diagnostics List**
 1. Lighting
