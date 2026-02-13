@@ -15,7 +15,7 @@ categories = ["Chuck E. Cheese's"]
 1. **Track 1**
     1. {{< wiki-link "If You're Happy & You Know It" >}}
 2. **Track 1**
-    3. Song Divider (3 Minute Blank Space)
+    1. Song Divider (3 Minute Blank Space)
 4. **Track 3**
     1. {{< wiki-link "BINGO" >}}
 
