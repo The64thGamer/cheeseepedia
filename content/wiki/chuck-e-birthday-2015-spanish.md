@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Chuck E. Birthday 2015 Spanish"
-startDate = "2014-04-20"
+startDate = "2015-04-20"
 endDate = "2018-07-29"
 pageThumbnailFile = " "
 contributors = ["Cyber Snout", "Ceclife13"]
