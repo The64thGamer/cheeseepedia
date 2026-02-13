@@ -6,5 +6,24 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "2001-01-00"
 endDate = "2001-03-00"
-contributors = []
+contributors = ["Ceclife13"]
 +++
+
+**CEC Roadshow January 2001** was a Road Show CD released alongside the {{< wiki-link "January 2001 Show" >}} which featured four {{< wiki-link "Road Shows" >}}.
+
+## Track List:
+
+1. **Track 1**
+    1. Short Birthday
+2. **Track 2**
+    1. (3 Minute Blank Space)
+3. **Track 3**
+    1. If You're Happy and You Know It
+4. **Track 4**
+    1. (3 Minute Blank Space)
+5. **Track 5**
+    1. BINGO
+6. **Track 6**
+    1. (3 Minute Blank Space)
+7. **Track 7**
+    1. Havin' A Party
