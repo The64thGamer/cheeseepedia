@@ -3619,5 +3619,17 @@
     "rank": "Bankruptcy",
     "gradient_start": "#464141",
     "gradient_end": "#464141"
+  },
+  {
+    "id": 96,
+    "username": "TheLooneyBird",
+    "name": null,
+    "avatar_template": "/letter_avatar_proxy/v4/letter/t/8c91f0/{size}.png",
+    "title": null,
+    "trust_level": 0,
+    "contribution_count": 0,
+    "rank": "Bankruptcy",
+    "gradient_start": "#464141",
+    "gradient_end": "#464141"
   }
 ]

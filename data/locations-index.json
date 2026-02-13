@@ -24856,6 +24856,18 @@
       "sort": "19791226"
     },
     {
+      "page_get": "wiki/surfer-s-paradise-queensland-australia",
+      "page_path": "content/wiki/surfer-s-paradise-queensland-australia",
+      "page_title": "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)",
+      "parts": [
+        "Cheese Crawl",
+        "1981-00-00",
+        "0000-00-00",
+        "Seen in 1981 footage"
+      ],
+      "sort": "19810000"
+    },
+    {
       "page_get": "wiki/cincinnati-oh-11400-princeton-pike",
       "page_path": "content/wiki/cincinnati-oh-11400-princeton-pike",
       "page_title": "Cincinnati, OH (11400 Princeton Pike)",
@@ -27881,6 +27893,18 @@
         "0000-00-00",
         "0000-00-00",
         "Cane variant, seen in Oct. 25, 1986 footage."
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/surfer-s-paradise-queensland-australia",
+      "page_path": "content/wiki/surfer-s-paradise-queensland-australia",
+      "page_title": "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)",
+      "parts": [
+        "Pizza Time Theatre Musical Ferris Wheel",
+        "0000-00-00",
+        "0000-00-00",
+        "Pizza Playhouse variant"
       ],
       "sort": "00000000"
     },
@@ -32086,6 +32110,34 @@
         "2015-01-00"
       ],
       "sort": "19990329"
+    }
+  ],
+  "attractions|Frog Spring Rider": [
+    {
+      "page_get": "wiki/surfer-s-paradise-queensland-australia",
+      "page_path": "content/wiki/surfer-s-paradise-queensland-australia",
+      "page_title": "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)",
+      "parts": [
+        "Frog Spring Rider",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in postcard next to Cheese Crawl"
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Pig Spring Rider": [
+    {
+      "page_get": "wiki/surfer-s-paradise-queensland-australia",
+      "page_path": "content/wiki/surfer-s-paradise-queensland-australia",
+      "page_title": "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)",
+      "parts": [
+        "Pig Spring Rider",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in postcard next to Cheese Crawl"
+      ],
+      "sort": "00000000"
     }
   ],
   "animatronics|Chuck E. Cheese 16m (Animatronic)": [
