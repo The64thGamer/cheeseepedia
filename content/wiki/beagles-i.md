@@ -6,7 +6,7 @@ categories = ["Pizza Time Theatre"]
 pageThumbnailFile = "HOFwoSIS5WHpvuEPBeVU.avif"
 startDate = "1980-00-00"
 endDate = "0000-00-00"
-contributors = []
+contributors = ["Ceclife13"]
 +++
 *Beagles II* was the second showtape released for *The Beagles* cabaret show in 1980.
 
