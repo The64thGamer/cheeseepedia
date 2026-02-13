@@ -16,25 +16,25 @@ showtapeFormats = ["Cyberamics Reel"]
 ## Show List
 
 1. **Segment 1**
-        1. [California Girls](https://en.wikipedia.org/wiki/California_Girls)
+    1. [California Girls](https://en.wikipedia.org/wiki/California_Girls)
 2. **Segment 2**
-        1. [*Little Deuce Coupe*](https://en.wikipedia.org/wiki/Little_Deuce_Coupe_%28song%29)
+   1. [*Little Deuce Coupe*](https://en.wikipedia.org/wiki/Little_Deuce_Coupe_%28song%29)
 3. **Segment 3**
-        1. [Surfer Girl](https://en.wikipedia.org/wiki/Surfer_Girl_%28song%29)
+    1. [Surfer Girl](https://en.wikipedia.org/wiki/Surfer_Girl_%28song%29)
 4. **Segment 4**
-        1. [Help Me, Rhonda](https://en.wikipedia.org/wiki/Help_Me,_Rhonda)
+    1. [Help Me, Rhonda](https://en.wikipedia.org/wiki/Help_Me,_Rhonda)
 5. **Segment 5**
-        1. [Do You Want to Dance](https://en.wikipedia.org/wiki/Do_You_Want_to_Dance)
+    1. [Do You Want to Dance](https://en.wikipedia.org/wiki/Do_You_Want_to_Dance)
 6. **Segment 6**
-        1. [I Get Around](https://en.wikipedia.org/wiki/I_Get_Around)
+    1. [I Get Around](https://en.wikipedia.org/wiki/I_Get_Around)
 7. **Segment 7**
-        1. [Surf City](https://en.wikipedia.org/wiki/Surf_City_%28song%29)
+    1. [Surf City](https://en.wikipedia.org/wiki/Surf_City_%28song%29)
 8. **Segment 8**
-        1. [Barbara Ann](https://en.wikipedia.org/wiki/Barbara_Ann)
+    1. [Barbara Ann](https://en.wikipedia.org/wiki/Barbara_Ann)
 9. **Segment 9**
-        1. [Surfin' U.S.A.](https://en.wikipedia.org/wiki/Surfin%27_U.S.A.)
+    1. [Surfin' U.S.A.](https://en.wikipedia.org/wiki/Surfin%27_U.S.A.)
 10. **Segment 10**
-        1. [Fun, Fun, Fun](https://en.wikipedia.org/wiki/Fun,_Fun,_Fun)
+      1. [Fun, Fun, Fun](https://en.wikipedia.org/wiki/Fun,_Fun,_Fun)
 
 ## Production
 
