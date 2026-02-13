@@ -5,13 +5,14 @@ tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 startDate = "1978-02-00"
 endDate = "1978-10-00"
-contributors = ["The 64th Gamer","WalterB"]
+contributors = ["The 64th Gamer","WalterB","Ceclife13"]
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Joe Spano|Voice of Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls", "Ed Bogas|Voice of Crusty the Cat", "Paula Mulcahy|Voice of Madam Oink", "Buffy Sainte-Marie|Voice of the Warblettes"]
 citations = []
 pageThumbnailFile = "q4Xqy0ih2g8TOKnoaeWX.avif"
 showtapeFormats = ["Cyberamics Reel"]
 +++
-***Madame Oink I* was a showtape featured at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} *Pizza Time Theatre* in February of 1978.
-The tape came with the installation of {{< wiki-link "Winchester Madam Oink (Animatronic)" >}} at the location.**
+***Madame Oink I*** was a showtape featured at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} *Pizza Time Theatre* in February of 1978.
+The tape came with the installation of {{< wiki-link "Winchester Madam Oink (Animatronic)" >}} at the location.
 
 ## Show List
 It is unclear what shows were featured on this tape, or if any of them were recovered. It is most likely the shows discovered on the CDs recovered for the {{< wiki-link "Pizza Time Theatre Showtape" >}} contain the tracks from this tape, but it also isn't out of the possibility that these contained ones featured on {{< wiki-link "Madame Oink II" >}}. Some of the {{< wiki-link "Pizza Time Theatre Showtape" >}} generic tracks may have also been reused for this tape, as that show had 10 segments.
