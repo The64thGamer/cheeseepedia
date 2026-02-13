@@ -11,7 +11,7 @@ categories = ["Chuck E. Cheese's"]
 +++
 **Super Chuck Road Show** was a {{< wiki-link "Road Shows" >}} CD released alongside the {{< wiki-link "Super Chuck Summer Show 2005" >}} which featured only one song.
 
-## Live List:
+## Track List:
 
-1. **Live 1**
-1. Super Chuck E.
+1. **Track 1**
+    1. Super Chuck E.
