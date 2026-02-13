@@ -4,6 +4,7 @@ title = "Chuck E. Cheese's Portable Live Show"
 startDate = "2000-03-00"
 endDate = "2000-12-00"
 contributors = ["The 64th Gamer", "Ceclife13"]
+pageThumbnailFile = "portableliveshowsmarch00newpic.avif"
 citations = []
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
