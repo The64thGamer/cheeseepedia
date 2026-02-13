@@ -3046,7 +3046,7 @@
     "start_year": 1982,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -8807,7 +8807,7 @@
     "category": "Pizza Time Theatre",
     "tag": "Arcades and Attractions",
     "contributors_count": 4,
-    "rating": 2
+    "rating": 3
   },
   {
     "title": "CEC Token 212 (B, N)",
@@ -9834,9 +9834,9 @@
     "page_path": "content/wiki/beagles-iii.md",
     "startDate": "1983-08-31",
     "start_year": 1983,
-    "category": "Chuck E. Cheese's",
+    "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -10946,7 +10946,7 @@
     "start_year": 1984,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -15290,6 +15290,16 @@
     "rating": 0
   },
   {
+    "title": "A Star is Born (Event)",
+    "page_path": "content/wiki/astarisborn.md",
+    "startDate": "1981-09-11",
+    "start_year": 1981,
+    "category": "Pizza Time Theatre",
+    "tag": "Events",
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
     "title": "Road Show 2010",
     "page_path": "content/wiki/road-show-2010.md",
     "startDate": "2010-01-00",
@@ -18410,14 +18420,14 @@
     "rating": 0
   },
   {
-    "title": "B.B. Bubbles Showtape",
+    "title": "bb-bubbles-showtape",
     "page_path": "content/wiki/bb-bubbles-showtape.md",
-    "startDate": "1983-00-00",
-    "start_year": 1983,
-    "category": "Pizza Time Theatre",
-    "tag": "Showtapes",
-    "contributors_count": 2,
-    "rating": 1
+    "startDate": "",
+    "start_year": null,
+    "category": null,
+    "tag": null,
+    "contributors_count": 0,
+    "rating": 0
   },
   {
     "title": "7-20-96 (7-1-96) (Show Selector 1) (Spokane)",
@@ -18596,16 +18606,6 @@
     "start_year": null,
     "category": "",
     "tag": "Video Games",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Dolli I Rerelease",
-    "page_path": "content/wiki/dolli-i-rerelease.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "Showtapes",
     "contributors_count": 0,
     "rating": 0
   },
@@ -26550,6 +26550,16 @@
     "rating": 0
   },
   {
+    "title": "Hollister, CA (1802 Shelton Drive)",
+    "page_path": "content/wiki/gamesdivisionhollister.md",
+    "startDate": "1982-04-30",
+    "start_year": 1982,
+    "category": "Pizza Time Theatre",
+    "tag": "Locations",
+    "contributors_count": 1,
+    "rating": 1
+  },
+  {
     "title": "NTC ShowBiz Pizza Time 1991 Ticket (Pink)",
     "page_path": "content/wiki/ntc-showbiz-pizza-time-1991-ticket-pink.md",
     "startDate": "",
@@ -27986,8 +27996,8 @@
     "start_year": 1982,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 4
   },
   {
     "title": "The Pizza Times (Vol. 3, Issue 2, June 1983)",
@@ -33020,6 +33030,16 @@
     "rating": 0
   },
   {
+    "title": "Milpitas, CA (461 S. Milpitas Blvd)",
+    "page_path": "content/wiki/sente-technologies milipede ca.md",
+    "startDate": "0000-00-00",
+    "start_year": null,
+    "category": "Pizza Time Theatre",
+    "tag": "Locations",
+    "contributors_count": 1,
+    "rating": 1
+  },
+  {
     "title": "Hofmann Monkey Show",
     "page_path": "content/wiki/hofmann-monkey-show.md",
     "startDate": "1977-00-00",
@@ -35636,7 +35656,7 @@
     "start_year": 1977,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 3
   },
   {
@@ -35656,7 +35676,7 @@
     "start_year": 1981,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 1
   },
   {
@@ -36336,16 +36356,6 @@
     "start_year": 1992,
     "category": "Chuck E. Cheese's",
     "tag": "Store Fixtures",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
-    "title": "Beagles I Rerelease",
-    "page_path": "content/wiki/beagles-i-rerelease.md",
-    "startDate": "1981-00-00",
-    "start_year": 1981,
-    "category": "Pizza Time Theatre",
-    "tag": "Showtapes",
     "contributors_count": 0,
     "rating": 0
   },
@@ -37116,7 +37126,7 @@
     "start_year": 1980,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 1
   },
   {
@@ -38780,7 +38790,7 @@
     "rating": 0
   },
   {
-    "title": "Jacksonville, FL (Forest St.)",
+    "title": "Jacksonville, FL (803 Price Street)",
     "page_path": "content/wiki/sally-dark-rides-corporate-office copy.md",
     "startDate": "1980-00-00",
     "start_year": 1980,
@@ -41200,6 +41210,16 @@
     "rating": 0
   },
   {
+    "title": "Pizza Time Theatre Games Division",
+    "page_path": "content/wiki/petes woodworking.md",
+    "startDate": "1979-00-00",
+    "start_year": 1979,
+    "category": "Pizza Time Theatre",
+    "tag": "Companies/Brands",
+    "contributors_count": 1,
+    "rating": 3
+  },
+  {
     "title": "Queretaro Juriquilla, Mexico",
     "page_path": "content/wiki/queretaro-juriquilla-mexico.md",
     "startDate": "2016-05-29",
@@ -42742,12 +42762,12 @@
   {
     "title": "Cheese Roll",
     "page_path": "content/wiki/cheese-roll.md",
-    "startDate": "",
-    "start_year": null,
+    "startDate": "1983-00-00",
+    "start_year": 1983,
     "category": "Pizza Time Theatre",
     "tag": "Arcades and Attractions",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 2
   },
   {
     "title": "Rogers, AR (2006 Promenade Blvd)",
@@ -43256,7 +43276,7 @@
     "start_year": 1984,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -44866,7 +44886,7 @@
     "start_year": 1981,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 1
   },
   {
@@ -53290,16 +53310,6 @@
     "rating": 0
   },
   {
-    "title": "Dr. Duck's Diagnostic (NOW! with Dolli's Diagnostic)",
-    "page_path": "content/wiki/dr-duck-s-diagnostic-now-with-dolli-s-diagnostic.md",
-    "startDate": "0000-00-00",
-    "start_year": null,
-    "category": "Pizza Time Theatre",
-    "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
-  },
-  {
     "title": "Southington, CT (774 Queen St)",
     "page_path": "content/wiki/southington-ct-774-queen-st.md",
     "startDate": "1983-06-15",
@@ -56966,7 +56976,7 @@
     "start_year": 1978,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -57486,7 +57496,7 @@
     "start_year": 1982,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 1
   },
   {

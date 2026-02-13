@@ -6,9 +6,9 @@ categories = ["Chuck E. Cheese's","Pizza Time Theatre"]
 startDate = "1981-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/N58SxO-pPnw"]
+citations = ["https://youtu.be/N58SxO-pPnw","https://web.archive.org/web/20150705140821/http://www.atari.io/chuck-e-cheese-skee-ball-gene-landrum/"]
 pageThumbnailFile = "efrjnxxfjn98o0fg.avif"
-manufacturer = "Bob's Space Racers, Inc."
+credits = ["Manufacturer|Bob's Space Racers, Inc.","Unknown Role|Pete's Woodworking Inc."]
 +++
 
 ***Whac-A-Munch*** was a modified version of the original Whac-A-Mole cabinet exclusive to Chuck E. Cheese's from as early as August of 1981, and lasting production until around the late 90's, with cabinets continuing use until the mid 2010's.{{< cite 1 >}}

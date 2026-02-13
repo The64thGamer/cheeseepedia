@@ -178,7 +178,7 @@ In May 2024, CEC Entertainment announced Pineville's selection as a {{< wiki-lin
 
 - CEC Street Hoops
 - Chatty Chuck E.
-- {{< wiki-link "Chuck E Cheese Roll" >}} (1990's Variant)
+- {{< wiki-link "Chuck E. Cheese Roll" >}} (1990's Variant)
 - {{< wiki-link "Chuck E Cheese's Super Shot" >}}
 - {{< wiki-link "Chuck E's Choo Choo" >}}
 - Chuck E's Marathon Runner

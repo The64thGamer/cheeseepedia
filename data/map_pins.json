@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T05:23:52Z",
-  "count": 1057,
+  "generated_at": "2026-02-13T06:56:27Z",
+  "count": 1059,
   "locations": [
     {
       "title": "Salem, OR (3180 Lancaster Dr)",
@@ -8686,6 +8686,25 @@
       "page_path": "content/wiki/indianapolis-in-5501-e-82nd-st.md"
     },
     {
+      "title": "Hollister, CA (1802 Shelton Drive)",
+      "group": [
+        "Pizza Time Theatre"
+      ],
+      "coords_str": [
+        "36.886143",
+        "-121.394344"
+      ],
+      "coords": [
+        36.886143,
+        -121.394344
+      ],
+      "url": "/wiki/gamesdivisionhollister/",
+      "startDate": "1982-04-30",
+      "endDate": "1984-08-31",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/gamesdivisionhollister.md"
+    },
+    {
       "title": "Omaha, NE (225 N 76th St)",
       "group": [
         "ShowBiz Pizza Place"
@@ -10929,6 +10948,25 @@
       "page_path": "content/wiki/corpus-christi-tx-5118-s-staples-st.md"
     },
     {
+      "title": "Milpitas, CA (461 S. Milpitas Blvd)",
+      "group": [
+        "Pizza Time Theatre"
+      ],
+      "coords_str": [
+        "37.425504",
+        "-121.8957923"
+      ],
+      "coords": [
+        37.425504,
+        -121.8957923
+      ],
+      "url": "/wiki/sente-technologies milipede ca/",
+      "startDate": "1970-01-01",
+      "endDate": "9999-12-31",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/sente-technologies milipede ca.md"
+    },
+    {
       "title": "Jacksonville, FL (745 W Forsyth St)",
       "group": [
         "Sally Corporation"
@@ -12715,7 +12753,7 @@
       "page_path": "content/wiki/manchester-nh-1525-s-willow-st.md"
     },
     {
-      "title": "Jacksonville, FL (Forest St.)",
+      "title": "Jacksonville, FL (803 Price Street)",
       "group": [
         "Sally Corporation"
       ],

@@ -43,7 +43,7 @@ West Palm Beach opened on December 18th, 1990, with one of three (Excluding Corp
 
 - [Buzzy Buzzy Bee](https://www.arcade-museum.com/game_detail.php?game_id=19671)
 - {{< wiki-link "Chuck E Cheese's Pow-Air Play" >}} (1996 unit)
-- {{< wiki-link "Chuck E Cheese Roll" >}} (6 units)
+- {{< wiki-link "Chuck E. Cheese Roll" >}} (6 units)
 - Chuck E. Cheese's Photo Ride (1997)
 - [Double Cheese](https://www.arcade-museum.com/Arcade/double-cheese)
 - [San Francisco Rush The Rock](https://www.arcade-museum.com/game_detail.php?game_id=9429)

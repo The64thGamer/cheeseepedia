@@ -235,6 +235,80 @@
     ],
     "topics": [
       {
+        "fancy_title": "2 New PTT/CEC News Stories",
+        "id": 275,
+        "title": "2 New PTT/CEC News Stories",
+        "slug": "2-new-ptt-cec-news-stories",
+        "posts_count": 1,
+        "reply_count": 0,
+        "highest_post_number": 1,
+        "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/b/b7f2f934f48f67d95ea767871e193d1bff62b63e.jpeg",
+        "created_at": "2026-02-13T06:24:08.504Z",
+        "last_posted_at": "2026-02-13T06:24:08.900Z",
+        "bumped": true,
+        "bumped_at": "2026-02-13T06:24:08.900Z",
+        "archetype": "regular",
+        "unseen": false,
+        "pinned": false,
+        "unpinned": null,
+        "visible": true,
+        "closed": false,
+        "archived": false,
+        "bookmarked": null,
+        "liked": null,
+        "thumbnails": [
+          {
+            "max_width": null,
+            "max_height": null,
+            "width": 480,
+            "height": 360,
+            "url": "https://forum.cheeseepedia.org/uploads/default/original/2X/b/b7f2f934f48f67d95ea767871e193d1bff62b63e.jpeg"
+          },
+          {
+            "max_width": 400,
+            "max_height": 400,
+            "width": 400,
+            "height": 300,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/b/b7f2f934f48f67d95ea767871e193d1bff62b63e_2_400x300.jpeg"
+          },
+          {
+            "max_width": 300,
+            "max_height": 300,
+            "width": 300,
+            "height": 225,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/b/b7f2f934f48f67d95ea767871e193d1bff62b63e_2_300x225.jpeg"
+          },
+          {
+            "max_width": 200,
+            "max_height": 200,
+            "width": 200,
+            "height": 150,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/b/b7f2f934f48f67d95ea767871e193d1bff62b63e_2_200x150.jpeg"
+          }
+        ],
+        "tags": [],
+        "tags_descriptions": {},
+        "views": 4,
+        "like_count": 0,
+        "has_summary": false,
+        "last_poster_username": "The-64th-Gamer",
+        "category_id": 5,
+        "op_like_count": 0,
+        "pinned_globally": false,
+        "featured_link": null,
+        "has_accepted_answer": false,
+        "can_vote": false,
+        "posters": [
+          {
+            "extras": "latest single",
+            "description": "Original Poster, Most Recent Poster",
+            "user_id": 1,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          }
+        ]
+      },
+      {
         "fancy_title": "Gigantic PTT/CEC Showtape Drop",
         "id": 269,
         "title": "Gigantic PTT/CEC Showtape Drop",
@@ -305,7 +379,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 260,
+        "views": 335,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "Ceclife13",
@@ -410,7 +484,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 91,
+        "views": 104,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -500,7 +574,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 225,
+        "views": 241,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -597,7 +671,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 304,
+        "views": 322,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -694,7 +768,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 298,
+        "views": 310,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "RazorKatxD",
@@ -798,7 +872,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 211,
+        "views": 217,
         "like_count": 7,
         "has_summary": false,
         "last_poster_username": "Cody",
@@ -844,14 +918,14 @@
         "id": 241,
         "title": "David Mckillips Steps Down as CEO, Replaced with Scott Drake",
         "slug": "david-mckillips-steps-down-as-ceo-replaced-with-scott-drake",
-        "posts_count": 26,
+        "posts_count": 27,
         "reply_count": 13,
-        "highest_post_number": 27,
+        "highest_post_number": 28,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/e/e65bd345ef41bb331f7307f46e92720a3c41b55d.jpeg",
         "created_at": "2026-02-03T15:36:57.929Z",
-        "last_posted_at": "2026-02-11T16:27:25.090Z",
+        "last_posted_at": "2026-02-12T05:24:46.597Z",
         "bumped": true,
-        "bumped_at": "2026-02-11T16:27:25.090Z",
+        "bumped_at": "2026-02-12T05:24:46.597Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -902,10 +976,10 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 1313,
+        "views": 1430,
         "like_count": 19,
         "has_summary": false,
-        "last_poster_username": "crunchybeans",
+        "last_poster_username": "The-64th-Gamer",
         "category_id": 5,
         "op_like_count": 4,
         "pinned_globally": false,
@@ -914,8 +988,8 @@
         "can_vote": false,
         "posters": [
           {
-            "extras": null,
-            "description": "Original Poster",
+            "extras": "latest",
+            "description": "Original Poster, Most Recent Poster",
             "user_id": 1,
             "primary_group_id": 41,
             "flair_group_id": 41
@@ -930,20 +1004,20 @@
           {
             "extras": null,
             "description": "Frequent Poster",
-            "user_id": 17,
+            "user_id": 3,
+            "primary_group_id": 41,
+            "flair_group_id": 42
+          },
+          {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 65,
             "primary_group_id": 41,
             "flair_group_id": 41
           },
           {
             "extras": null,
             "description": "Frequent Poster",
-            "user_id": 3,
-            "primary_group_id": 41,
-            "flair_group_id": 42
-          },
-          {
-            "extras": "latest",
-            "description": "Most Recent Poster",
             "user_id": 25,
             "primary_group_id": null,
             "flair_group_id": null
@@ -1018,7 +1092,7 @@
         ],
         "tags": [],
         "tags_descriptions": {},
-        "views": 71,
+        "views": 73,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -1122,7 +1196,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 249,
+        "views": 253,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "crunchybeans",
@@ -1226,7 +1300,7 @@
           "topic-of-the-month"
         ],
         "tags_descriptions": {},
-        "views": 142,
+        "views": 144,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "CyberSnout",
@@ -1316,7 +1390,7 @@
           "cheese-e-pedia"
         ],
         "tags_descriptions": {},
-        "views": 99,
+        "views": 100,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1393,7 +1467,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 211,
+        "views": 212,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1476,7 +1550,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 187,
+        "views": 189,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "randomguyfan22-maker",
@@ -1580,7 +1654,7 @@
           "cheese-e-pedia"
         ],
         "tags_descriptions": {},
-        "views": 156,
+        "views": 157,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1678,7 +1752,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 225,
+        "views": 227,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -1769,7 +1843,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 329,
+        "views": 331,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -2066,7 +2140,7 @@
         ],
         "tags": [],
         "tags_descriptions": {},
-        "views": 243,
+        "views": 244,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -2184,7 +2258,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 213,
+        "views": 214,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "randomguyfan22-maker",
@@ -2290,7 +2364,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 404,
+        "views": 406,
         "like_count": 7,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -2606,7 +2680,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 442,
+        "views": 444,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2717,7 +2791,7 @@
           "cheese-e-pedia"
         ],
         "tags_descriptions": {},
-        "views": 121,
+        "views": 122,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2814,7 +2888,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 393,
+        "views": 396,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -2925,7 +2999,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 172,
+        "views": 173,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -3124,105 +3198,7 @@
           "creative-engineering"
         ],
         "tags_descriptions": {},
-        "views": 148,
-        "like_count": 1,
-        "has_summary": false,
-        "last_poster_username": "The-64th-Gamer",
-        "category_id": 5,
-        "op_like_count": 1,
-        "pinned_globally": false,
-        "featured_link": null,
-        "has_accepted_answer": false,
-        "can_vote": false,
-        "posters": [
-          {
-            "extras": "latest single",
-            "description": "Original Poster, Most Recent Poster",
-            "user_id": 1,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          }
-        ]
-      },
-      {
-        "fancy_title": "Surprise Interview with Crusty and King&rsquo;s Original VA!",
-        "id": 187,
-        "title": "Surprise Interview with Crusty and King's Original VA!",
-        "slug": "surprise-interview-with-crusty-and-kings-original-va",
-        "posts_count": 1,
-        "reply_count": 0,
-        "highest_post_number": 1,
-        "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/d5100937ced2a22792e8ab6f918a51fd4cd7cc09_2_1024x576.jpeg",
-        "created_at": "2025-12-25T07:11:07.442Z",
-        "last_posted_at": "2025-12-25T07:11:07.624Z",
-        "bumped": true,
-        "bumped_at": "2025-12-25T07:11:07.624Z",
-        "archetype": "regular",
-        "unseen": false,
-        "pinned": false,
-        "unpinned": null,
-        "visible": true,
-        "closed": false,
-        "archived": false,
-        "bookmarked": null,
-        "liked": null,
-        "thumbnails": [
-          {
-            "max_width": null,
-            "max_height": null,
-            "width": 1280,
-            "height": 720,
-            "url": "https://forum.cheeseepedia.org/uploads/default/original/1X/d5100937ced2a22792e8ab6f918a51fd4cd7cc09.jpeg"
-          },
-          {
-            "max_width": 1024,
-            "max_height": 1024,
-            "width": 1024,
-            "height": 576,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/d5100937ced2a22792e8ab6f918a51fd4cd7cc09_2_1024x576.jpeg"
-          },
-          {
-            "max_width": 800,
-            "max_height": 800,
-            "width": 800,
-            "height": 450,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/d5100937ced2a22792e8ab6f918a51fd4cd7cc09_2_800x450.jpeg"
-          },
-          {
-            "max_width": 600,
-            "max_height": 600,
-            "width": 600,
-            "height": 337,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/d5100937ced2a22792e8ab6f918a51fd4cd7cc09_2_600x337.jpeg"
-          },
-          {
-            "max_width": 400,
-            "max_height": 400,
-            "width": 400,
-            "height": 225,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/d5100937ced2a22792e8ab6f918a51fd4cd7cc09_2_400x225.jpeg"
-          },
-          {
-            "max_width": 300,
-            "max_height": 300,
-            "width": 300,
-            "height": 168,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/d5100937ced2a22792e8ab6f918a51fd4cd7cc09_2_300x168.jpeg"
-          },
-          {
-            "max_width": 200,
-            "max_height": 200,
-            "width": 200,
-            "height": 112,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/d5100937ced2a22792e8ab6f918a51fd4cd7cc09_2_200x112.jpeg"
-          }
-        ],
-        "tags": [
-          "pizza-time-theatre",
-          "lost-media"
-        ],
-        "tags_descriptions": {},
-        "views": 180,
+        "views": 150,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",

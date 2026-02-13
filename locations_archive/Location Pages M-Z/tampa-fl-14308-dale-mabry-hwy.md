@@ -101,7 +101,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 | ***{{< wiki-link "Pop It for Gold" >}}***                                          | 2004      | Still In Use |
 | Chuck E's Pump N' Jump                                                                   | 2010      | 2014         |
 | Chuck E. Cheese's Ripper Ribbit                                                          | 1999      | 2012         |
-| {{< wiki-link "Chuck E Cheese Roll" >}}                                            | 1991      | 1997         |
+| {{< wiki-link "Chuck E. Cheese Roll" >}}                                            | 1991      | 1997         |
 | Chuck E's Rubble Bubble                                                                  | 2004      | 2016         |
 | Chuck E's Skee Ball                                                                      | 1997      | 2015         |
 | ***{{< wiki-link "Chuck E Cheese's Sketch Book" >}}***                             | 2005      | Still In Use |
