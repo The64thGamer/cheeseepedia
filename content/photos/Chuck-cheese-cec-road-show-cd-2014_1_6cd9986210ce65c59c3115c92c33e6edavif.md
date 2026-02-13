@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = ["Boom Box Live Shows"]
+pages = ["Chuck E. Cheese's Boom Box Live Shows"]
 
 citations = []
 +++
