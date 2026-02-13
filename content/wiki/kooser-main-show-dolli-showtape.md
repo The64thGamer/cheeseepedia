@@ -8,7 +8,7 @@ endDate = "1979-00-00"
 contributors = ["The 64th Gamer","Blowseborg062","BeachBear","Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=CdZcDC1pJyc","https://worldradiohistory.com/Archive-All-Audio/Archive-Recording-Engineer/70s/Recording-1978-10.pdf","https://worldradiohistory.com/Archive-All-Audio/Mix-Magazine/70s/1979/Mix-1979-07.pdf","https://archive.org/details/PersonalComputing197904/page/n11/mode/2up?q=pizza+time+theatre+pdp","https://www.showbizpizza.com/info/articles/cec/ptt_79sjmercury.pdf","https://youtu.be/EdKLsomLbtY","https://www.showbizpizza.com/info/articles/cec/ptt_79fsm.pdf","https://youtu.be/E6sa_RtChko"]
 pageThumbnailFile = "RSEKM5ZyV79H3d4p4ycO.avif"
-credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenihan|Voice of Helen Henny", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef", "Donna Miller|Voice of Dolli Dimples", "Corasound|Recording Studio"]
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Helen Henny", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef", "Donna Miller|Voice of Dolli Dimples", "Corasound|Recording Studio"]
 showtapeFormats = ["Cyberamics Reel"]
 alsoKnownAs = ["Dolli Dimples 1 (Cabaret Portion)"]
 downloadLinks = ["https://archive.org/details/dollidimples/Audio+01.wav|Donna Miller Session Recording 1 (November 9, 1978)"]
