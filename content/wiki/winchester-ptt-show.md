@@ -5,7 +5,7 @@ tags = ["Animatronic Shows"]
 categories = ["Pizza Time Theatre"]
 startDate = "1977-05-17"
 endDate = "1981-00-00"
-contributors = ["PokeTogeKiss","BackroomsWanderer49","Lil uzi vert","The 64th Gamer","BlackMonkeyEater","Stripes"]
+contributors = ["PokeTogeKiss","BackroomsWanderer49","Lil uzi vert","The 64th Gamer","Anonymous","Stripes"]
 citations = ["https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre"]
 pageThumbnailFile = "C_yx8jcWt_YTfdDKnnxE.avif"
 +++

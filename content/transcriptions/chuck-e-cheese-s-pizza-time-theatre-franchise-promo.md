@@ -1,7 +1,7 @@
 +++
 title = "Chuck E. Cheese’s Pizza Time Theatre franchise promo"
 tags = ["Transcriptions"]
-contributors = ["Luigigamin212 "]
+contributors = ["Luigigamin212"]
 +++
 **[Song: Good Times]**
 
