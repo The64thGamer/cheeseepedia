@@ -10,7 +10,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 ***Joondalup, WA (Unit 3/7 Winton Rd.)* is a *Chuck E. Cheese* location that was announced in early 2024.
-The location is the third ever in Australia, succeeding the {{< wiki-link "Surfer's Paradise, Queensland, Australia" >}} and {{< wiki-link "Carina, Queensland, Australia" >}} locations. It will be the brand's re-entry into the country after being absent since 1984-1986.**
+The location is the third ever in Australia, succeeding the {{< wiki-link "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)" >}} and {{< wiki-link "Carina, Queensland, Australia" >}} locations. It will be the brand's re-entry into the country after being absent since 1984-1986.**
 
 ## History
 

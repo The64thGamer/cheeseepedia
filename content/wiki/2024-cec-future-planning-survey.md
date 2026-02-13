@@ -14,7 +14,7 @@ The survey focused on four major areas: opinions on the Munch's Make Believe Ban
 
 ## History
 
-Chuck E. Cheese would experience financial hardship in 2023, causing cuts to their new menu items- which at the time were consistently around 5 per year, a cut to programming for new shows, and stores closing. This culminated in the December 2023 report of CEC's parent company looking to sell the brand and its assets.{{< cite 2 >}} CEC would do a few marketing pushes around the same time, being of the 'New Adult Menu'{{< cite 3 >}} and a location annoncement for {{< wiki-link "Perth, Australia" >}}. News from the company however would severely die down by the end of January.
+Chuck E. Cheese would experience financial hardship in 2023, causing cuts to their new menu items- which at the time were consistently around 5 per year, a cut to programming for new shows, and stores closing. This culminated in the December 2023 report of CEC's parent company looking to sell the brand and its assets.{{< cite 2 >}} CEC would do a few marketing pushes around the same time, being of the 'New Adult Menu'{{< cite 3 >}} and a location annoncement for {{< wiki-link "Joondalup, WA, Australia (3/7 Winton Rd)" >}}. News from the company however would severely die down by the end of January.
 On March 25, 2024 at 5:02PM CDT, *Mark Kupferman*, a recent hire from November 2023 as the new Chief Insights and Marketing Officer{{< cite 4 >}}, would make a post to the *r/chuckecheese* subreddit titled 'Planning Survey from Chuck E. Cheese'{{< cite 5 >}}. The post would note:
 
 > 'As we embark on an exciting phase of long-range planning, your insights as dedicated fans are incredibly important to us. We're exploring new ideas and would love to hear your thoughts.'

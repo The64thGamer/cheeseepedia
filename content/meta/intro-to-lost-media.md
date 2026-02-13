@@ -83,9 +83,6 @@ The Pizza Times was an internal magazine that is a wealth of information for eve
 - Since there is no catalog, it is likely there are other Games Examiner "Featured" issues undocumented. Two currently are found.
 - There is no indication when The Games Examiner stopped, so there may be issues past Vol.1 Iss.2 that are missing.
 
-
-Volume Two, Issue One of The Pizza Times, , is completely lost. It is also possible Vol.1 Iss.3
-
 ### Dr. Quack
 {{< wiki-link "Dr. Quack (Cyberamic)" >}} is a lost Cabaret test character that debuted at the {{< wiki-link "Simi Valley, CA (71 Tierra Rejada Rd)" >}} location in 1980. Their showtape is confirmed to have been made up children's songs and nursery rhymes. Two different designs of the character have also been seen, both at the Sunnyvale, CA offices. The character has often been confused with the name of the Pizza Time Theatre diagnostic showtapes, which are usually labeled "Dr. Dux Diagnostic" or "Dr. Duck's Diagnostic".
 

@@ -18420,14 +18420,14 @@
     "rating": 0
   },
   {
-    "title": "bb-bubbles-showtape",
+    "title": "B.B. Bubbles Showtape",
     "page_path": "content/wiki/bb-bubbles-showtape.md",
-    "startDate": "",
-    "start_year": null,
-    "category": null,
-    "tag": null,
-    "contributors_count": 0,
-    "rating": 0
+    "startDate": "1983-00-00",
+    "start_year": 1983,
+    "category": "Pizza Time Theatre",
+    "tag": "Showtapes",
+    "contributors_count": 3,
+    "rating": 1
   },
   {
     "title": "7-20-96 (7-1-96) (Show Selector 1) (Spokane)",

@@ -1,7 +1,7 @@
 +++
 title = "auuuuuuuuussiecharles.avif"
 startDate = "2025-03-17"
-pages = ["Perth, Australia"]
+pages = ["Joondalup, WA, Australia (3/7 Winton Rd)"]
 tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 +++

@@ -60,6 +60,6 @@ The Cyberamic Shelf Stages, similar to the Kooser Shelf Stage, would be placed a
 | {{< wiki-link "Simi Valley, CA (71 Tierra Rejada Rd)" >}}       | October 20th, 1980          | Possibly 1990       |
 | {{< wiki-link "Raleigh, NC (4339 Falls of the Neuse Rd)" >}}    | November 1980               | October, 1984       |
 | {{< wiki-link "Maple Heights, OH (5376 Northfield Rd)" >}}      | November 1980               | June 1985           |
-| {{< wiki-link "Surfer's Paradise, Queensland, Australia" >}}    | March 1981                  | 1982                |
+| {{< wiki-link "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)" >}}    | March 1981                  | 1982                |
 | {{< wiki-link "Hayward, CA (24253 Hesperian Blvd)" >}}          | April 1981                  | Unknown             |
 | {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}}      | June 1981                   | Fall 2001           |

@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "Surfer's Paradise, Queensland, Australia"
+title = "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)"
 startDate = "1981-03-00"
 endDate = "1982-00-00"
 pageThumbnailFile = "kvgEu9R_qFzzS7lsefPc.avif"

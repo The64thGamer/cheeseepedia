@@ -34,7 +34,7 @@ CEC operates family entertainment centers focused on live entertainment, birthda
 
 #### January
 
-- On the 11th, CEC would announce plans to open an {{< wiki-link "Perth, Australia" "Australia-based location" >}} with company *Royale Hospitality*.
+- On the 11th, CEC would announce plans to open an {{< wiki-link "Joondalup, WA, Australia (3/7 Winton Rd)" "Australia-based location" >}} with company *Royale Hospitality*.
 - On the 16th they announced a gameshow collaboration with the company *Magical Elves* based around adults playing on supersized arcade machines.
 - {{< wiki-link "North Las Vegas, NV (755 W. Craig Rd Suite 144)" >}} would open on January 19th.
 
