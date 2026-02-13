@@ -6,36 +6,36 @@ endDate = ""
 pageThumbnailFile = "0hQYlwZJF6STIfXN94fd.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.discogs.com/release/5506802-The-High-Time-Octet-The-High-Time-Octet", "http://www.showbizpizza.com/review/ptt/cabaret-lounge_artie1.html", "https://www.allmusic.com/artist/tom-salisbury-mn0000063612/credits", "https://en.wikipedia.org/wiki/William_%22Smitty%22_Smith"]
-credits = ["Artie Antlers VA|Jim Cunningham", "Pianist|Unknown"]
+credits = ["Jim Cunningham|Voice of Artie Antlers"]
 showtapeFormats = ["Cyberamics Reel"]
 downloadLinks = ["https://archive.org/download/artie-antlers/Artie%20Antlers.wav|Showtape Reel w/ Signals"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 +++
-The ***Artie Antlers Showtape* is a showtape released for the {{< wiki-link "Artie Antlers (Cabaret)" >}} Cabaret show in 1980.**
+The ***Artie Antlers Showtape*** is a showtape released for the {{< wiki-link "Artie Antlers (Cabaret)" >}} Cabaret show in 1980.
 
 ## Show List
 
-1.   **Segment 1**
+1. **Segment 1**
     1.  Romance Without Finance is a Nuisance
-2.   **Segment 2**
+2. **Segment 2**
     1.  Java Juice
     2.  Everybody Eats When They Come to My House
-3.   **Segment** **3**
+3. **Segment** **3**
     1.  Oh Susannah
     2.  Razzmatazz
-4.   **Segment** **4**
+4. **Segment** **4**
     1.  The Joint is Jumpin'
-5.   **Segment** **5**
+5. **Segment** **5**
     1.  Get Loose
     2.  Goofus
-6.   **Segment** **6**
+6. **Segment** **6**
     1.  I'm a Ding-Dong Daddy (From Dumas)
-7.   **Segment** **7**
+7. **Segment** **7**
     1.  Barney Google
-8.   **Segment** **8**
+8. **Segment** **8**
     1.  A Chicken Ain't Nothin' But a Bird
-9.   **Segment** **9**
+9. **Segment** **9**
     1.  Bessie
 10. **Segment** **10**
     1.  Sad Sap Sucker
