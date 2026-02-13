@@ -3,6 +3,7 @@ draft = false
 title = "CEC Roadshow January 2002"
 startDate = "2002-01-00"
 endDate = "2002-03-00"
+pageThumbnailFile = "jan02roadshowdiscart.avif"
 contributors = ["Ceclife13"]
 citations = []
 tags = ["Live Shows"]
