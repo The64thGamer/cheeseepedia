@@ -7,7 +7,7 @@ pageThumbnailFile = ""
 contributors = ["Luigigamin212", "Ceclife13"]
 citations = ["https://www.youtube.com/playlist?list=PLTXoj5l850hHrD3deCjTufocK4hCKTH3L"]
 showtapeFormats = ["Cyberamics Reel"]
-credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenihan|Voice of Harmony Howlette", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Harmony Howlette", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 +++
