@@ -12610,7 +12610,7 @@
     "rating": 0
   },
   {
-    "title": "Carina, Queensland, Australia",
+    "title": "Carindale, Queensland 4152, Australia (1151 Creek Rd)",
     "page_path": "content/wiki/carina-queensland-australia.md",
     "startDate": "1982-00-00",
     "start_year": 1982,
@@ -26870,7 +26870,7 @@
     "rating": 0
   },
   {
-    "title": "Surfer's Paradise, Queensland, Australia",
+    "title": "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)",
     "page_path": "content/wiki/surfer-s-paradise-queensland-australia.md",
     "startDate": "1981-03-00",
     "start_year": 1981,
@@ -27202,8 +27202,8 @@
   {
     "title": "Charlie Cheese's Pizza Playhouse",
     "page_path": "content/wiki/charlie-cheese-s-pizza-playhouse.md",
-    "startDate": "",
-    "start_year": null,
+    "startDate": "1981-03-00",
+    "start_year": 1981,
     "category": "Pizza Time Theatre",
     "tag": "Companies/Brands",
     "contributors_count": 7,
@@ -36397,6 +36397,16 @@
     "category": "Creative Engineering",
     "tag": "Showtapes",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "Charlie Cheese's Standard Layout",
+    "page_path": "content/wiki/ptt-1981-update copy 2.md",
+    "startDate": "1981-03-00",
+    "start_year": 1981,
+    "category": "Pizza Time Theatre",
+    "tag": "Remodels and Initiatives",
+    "contributors_count": 1,
     "rating": 0
   },
   {

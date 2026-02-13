@@ -228,7 +228,7 @@
     {
       "page_get": "wiki/surfer-s-paradise-queensland-australia",
       "page_path": "content/wiki/surfer-s-paradise-queensland-australia",
-      "page_title": "Surfer's Paradise, Queensland, Australia",
+      "page_title": "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)",
       "parts": [
         "Balcony Stage",
         "1981-03-00",
@@ -960,7 +960,7 @@
     {
       "page_get": "wiki/carina-queensland-australia",
       "page_path": "content/wiki/carina-queensland-australia",
-      "page_title": "Carina, Queensland, Australia",
+      "page_title": "Carindale, Queensland 4152, Australia (1151 Creek Rd)",
       "parts": [
         "Balcony Stage",
         "1982-00-00",
@@ -31251,6 +31251,28 @@
         "2023-06-20"
       ],
       "sort": "20230620"
+    }
+  ],
+  "remodels|Charlie Cheese's Standard Layout": [
+    {
+      "page_get": "wiki/surfer-s-paradise-queensland-australia",
+      "page_path": "content/wiki/surfer-s-paradise-queensland-australia",
+      "page_title": "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)",
+      "parts": [
+        "Charlie Cheese's Standard Layout",
+        "1981-03-00"
+      ],
+      "sort": "19810300"
+    },
+    {
+      "page_get": "wiki/carina-queensland-australia",
+      "page_path": "content/wiki/carina-queensland-australia",
+      "page_title": "Carindale, Queensland 4152, Australia (1151 Creek Rd)",
+      "parts": [
+        "Charlie Cheese's Standard Layout",
+        "1982-00-00"
+      ],
+      "sort": "19820000"
     }
   ],
   "stages|Unique C Stage": [
