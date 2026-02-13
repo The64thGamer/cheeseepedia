@@ -10,25 +10,25 @@ tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "Chuck-cheese-cec-road-show-cd-2014_1_6cd9986210ce65c59c3115c92c33e6ed.avif"
 +++
-**Boom Box Live Shows** was a CD released alongside the {{< wiki-link "Fall 2014 Show" >}} which featured nine {{< wiki-link "Road Shows" >}}. This was the final Road Show CD released.
+**Boom Box Live Shows** was a Road Show CD released alongside the {{< wiki-link "Fall 2014 Show" >}} which featured nine {{< wiki-link "Road Shows" >}}. This was the final Road Show CD released.
 
-## Live List:
+## Track List:
 
-1. **Live 1**
-2. Them Bones (October Only)
-3. **Live 2**
-4. Chuck E. Says
-5. **Live 3**
-6. Happy & You Know It
-7. **Live 4**
-8. Head, Shoulders, Knees & Toes
-9. **Live 5**
-10. The Chuck E. (Do The Roll)
-11. **Live 6**
-12. BINGO
-13. **Live 7**
-14. Old MacDonald
-15. **Live 8**
-16. Birthday (English)
-17. **Live 9**
-18. Birthday (Spanish)
+1. **Track 1**
+    1. Them Bones (October Only)
+3. **Track 2**
+    1. Chuck E. Says
+5. **Track 3**
+    1. Happy & You Know It
+7. **Track 4**
+    1. Head, Shoulders, Knees & Toes
+9. **Track 5**
+    1. The Chuck E. (Do The Roll)
+11. **Track 6**
+    1. BINGO
+13. **Track 7**
+    1. Old MacDonald
+15. **Track 8**
+    1. Birthday (English)
+17. **Track 9**
+    1. Birthday (Spanish)
