@@ -6,7 +6,8 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "HistoryofRockandRoll.avif"
 startDate = "1986-04-00"
 endDate = "1986-09-01"
-contributors = []
+credits = ["Lonny Wilder|Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Connie Nelson|Voice of Helen Henny"]
+contributors = ["Ceclife13"]
 +++
 ***CEC History of Rock and Roll*** was released in April 1986.
 
