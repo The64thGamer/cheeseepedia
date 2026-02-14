@@ -28,7 +28,7 @@ draft = false
 On October 27, 1982 Showbiz Pizza Place would put a newspaper advertisement mentioning that 'The newest and most unique family dining and entertainment experience is NOW HIRING' with applications being accepted October 27th - 29th from 8 AM to 5 PM.The positions of Cashiers, Game Attendants, Clerical, Dining Room Attendants, Cooks, Costume Cahracters, and Food Preparation{{< cite 1 >}}. 
 
 ### Opening
-On November 11, 1981 the Highland Showbiz Pizza Place would open with the {{< wiki-link "Classic Stage" >}}, 'The latest, most challenging, most exciting, most FUN electronic games, Pizza-Sandwiches-Salad Bar (Free Game Tokens With Food Order)'{{< cite 2 >}}
+On November 11, 1982 the Highland Showbiz Pizza Place would open with the {{< wiki-link "Classic Stage" >}}, 'The latest, most challenging, most exciting, most FUN electronic games, Pizza-Sandwiches-Salad Bar (Free Game Tokens With Food Order)'{{< cite 2 >}}
 
 In Feburary 1983 Highland would recieve 'Joust, Q*Bert, Popeye, Baby Pac Man and the other newest games around'{{< cite 3 >}}, On July 26, 1983 the highland ShowBiz Pizza Place would participate in a 'WIN The March of Dimes & ShowBiz Pizza Place's Cute Kid Contest'. '1st Prize - Pizza Party for 4 and $10.00 in game tokens, 2nd Prize - Billy Bob Doll and $10.00 in game tokens, 3rd Prize - $10.00 in game tokens'{{< cite 7 >}}. By July 1983 They would receive Uncle Klunk as part of {{< wiki-link "The Amazing Uncle Klunk Traveling Show (Event)" >}}.{{< cite 8 >}} They would also retain Klunk retrofitting him into Santa as part of {{< wiki-link "Santa On Stage Show 1983 (Event)" >}}.{{< cite 9 >}}
 
