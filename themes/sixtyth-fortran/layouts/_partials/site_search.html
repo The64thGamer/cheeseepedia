@@ -10,6 +10,16 @@ Notes:
 
 {{- $tagStyles := site.Data.tag_styles -}}
 {{- $tagCounts := site.Data.tags.tag_counts -}}
+
+<div class="search-ui-container">
+  <div class="search-controls">
+    <div class="search-tags-wrapper">
+      <div id="tag-chip-container" class="tag-chip-container" tabindex="0">
+        <input id="tag-input" class="tag-input" placeholder="Search. . ." autocomplete="off" />
+      </div>
+      <div id="tag-suggestions" class="tag-suggestions" aria-hidden="true"></div>
+    </div>
+
 <div class="search-collapsible" id="search-collapsible">
   <div class="search-layout">
     <!-- Quick Tags panel that can be positioned above or to the left -->
@@ -129,7 +139,7 @@ Notes:
         
         <label style="margin-left:10px;">
           <input type="checkbox" id="keep-tags-visible" />
-          Keep Quick Tags Visible
+          Show Quick Tags
         </label>
       </div>
 
@@ -156,6 +166,8 @@ Notes:
 
         <div class="tab-panel" id="tab-reviews">
           <div class="results-list" id="list-reviews"></div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
@@ -185,6 +197,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const predefButtons = document.querySelectorAll(".predef-tag-btn");
   const resultsPerSelect = document.getElementById("results-per-section");
   const articlesSortSelect = document.getElementById("articles-sort");
+  const keepTagsCheckbox = document.getElementById("keep-tags-visible");
 
   // collapsible support
   const trigger = document.getElementById("tag-input");
@@ -501,66 +514,62 @@ document.addEventListener("DOMContentLoaded", () => {
     searchTimer = setTimeout(executeSearch, 150); 
   }
 
+  // --- Layout control ---
+  function updateSearchLayout() {
+    const tagPanel = document.getElementById("quick-tags-panel");
+    const resultsPanel = document.getElementById("results-tabs");
+    const searchLayout = document.querySelector(".search-layout");
+    
+    if (!tagPanel || !resultsPanel || !searchLayout) return;
+    
+    const hasInput = tagInput && tagInput.value.trim().length > 0;
+    const hasChips = searchChips.length > 0;
+    const showResults = hasInput || hasChips;
+    const keepTagsVisible = keepTagsCheckbox && keepTagsCheckbox.checked;
+    
+    if (showResults) { 
+      // Show results
+      resultsPanel.hidden = false;
+      
+      if (keepTagsVisible) {
+        // Keep tags visible on the left side
+        tagPanel.hidden = false;
+        searchLayout.style.display = "block";
+        searchLayout.style.gridTemplateColumns = "300px 1fr";
+        searchLayout.style.gap = "1rem";
+      } else {
+        // Hide tags
+        tagPanel.hidden = true;
+        searchLayout.style.display = "block";
+      }
+    } else { 
+      // No search active - show tags above (default layout)
+      tagPanel.hidden = false;
+      resultsPanel.hidden = true;
+      searchLayout.style.display = "block";
+    }
+  }
+
+  // Load saved preference for keep tags visible
+  if (keepTagsCheckbox) {
+    const savedPref = localStorage.getItem("keepTagsVisible");
+    if (savedPref === "true") {
+      keepTagsCheckbox.checked = true;
+    }
+    
+    keepTagsCheckbox.addEventListener("change", () => {
+      // Save preference
+      localStorage.setItem("keepTagsVisible", keepTagsCheckbox.checked);
+      updateSearchLayout();
+    });
+  }
+
   // --- Init load ---
   (async function init() {
     await loadSearchData();
     executeSearch();
     updateSearchLayout();
   })();
-
-  // --- Layout control ---
-// --- Layout control ---
-// --- Layout control ---
-function updateSearchLayout() {
-  const tagPanel = document.getElementById("quick-tags-panel");
-  const resultsPanel = document.getElementById("results-tabs");
-  const searchLayout = document.querySelector(".search-layout");
-  const keepTagsCheckbox = document.getElementById("keep-tags-visible");
-  
-  if (!tagPanel || !resultsPanel || !searchLayout) return;
-  
-  const hasInput = tagInput && tagInput.value.trim().length > 0;
-  const hasChips = searchChips.length > 0;
-  const showResults = hasInput || hasChips;
-  const keepTagsVisible = keepTagsCheckbox && keepTagsCheckbox.checked;
-  
-  if (showResults) { 
-    // Show results
-    resultsPanel.hidden = false;
-    
-    if (keepTagsVisible) {
-      // Keep tags visible on the left side
-      tagPanel.hidden = false;
-      searchLayout.style.display = "grid";
-      searchLayout.style.gridTemplateColumns = "300px 1fr";
-      searchLayout.style.gap = "1rem";
-    } else {
-      // Hide tags
-      tagPanel.hidden = true;
-      searchLayout.style.display = "block";
-    }
-  } else { 
-    // No search active - show tags above (default layout)
-    tagPanel.hidden = false;
-    resultsPanel.hidden = true;
-    searchLayout.style.display = "block";
-  }
-}
-
-// Load saved preference
-const keepTagsCheckbox = document.getElementById("keep-tags-visible");
-if (keepTagsCheckbox) {
-  const savedPref = localStorage.getItem("keepTagsVisible");
-  if (savedPref === "true") {
-    keepTagsCheckbox.checked = true;
-  }
-  
-  keepTagsCheckbox.addEventListener("change", () => {
-    // Save preference
-    localStorage.setItem("keepTagsVisible", keepTagsCheckbox.checked);
-    updateSearchLayout();
-  });
-}
 
   // --- Scoring & search helpers ---
   function docHasTag(doc, tag) {
@@ -672,15 +681,83 @@ if (keepTagsCheckbox) {
   }
 
   // --- Renderers ---
- function renderArticle(doc) {
-  const fm = doc.frontmatter || {};
-  const hasContent = !!(doc.content || doc.excerpt || doc.title);
-  const wrapper = document.createElement("div");
-  wrapper.className = hasContent ? "list-page-block" : "list-page-empty-block";
+  function renderArticle(doc) {
+    const fm = doc.frontmatter || {};
+    const hasContent = !!(doc.content || doc.excerpt || doc.title);
+    const wrapper = document.createElement("div");
+    wrapper.className = hasContent ? "list-page-block" : "list-page-empty-block";
 
-  const formatDateShort = dateStr => {
+    const formatDateShort = dateStr => {
+      if (!dateStr || dateStr === "0000-00-00") return "?";
+      const parts = (dateStr.split(" ")[0]||"").split("-");
+      const year = parts[0] || "0000";
+      const month = parts[1] || "00";
+      const day = parts[2] || "00";
+      
+      const months = { 
+        "00": "", "01":"Jan. ", "02":"Feb. ", "03":"Mar. ", "04":"Apr. ", 
+        "05":"May ", "06":"Jun. ", "07":"Jul. ", "08":"Aug. ", "09":"Sep. ", 
+        "10":"Oct. ", "11":"Nov. ", "12":"Dec.",
+        "0": "", "1":"Jan. ", "2":"Feb. ", "3":"Mar. ", "4":"Apr. ", 
+        "5":"May ", "6":"Jun. ", "7":"Jul. ", "8":"Aug. ", "9":"Sep. "
+      };
+      
+      const days = { 
+        "00":"", "01":"1, ", "02":"2, ", "03":"3, ", "04":"4, ", "05":"5, ", 
+        "06":"6, ", "07":"7, ", "08":"8, ", "09":"9, ", "10":"10, ", 
+        "11":"11, ", "12":"12, ", "13":"13, ", "14":"14, ", "15":"15, ", 
+        "16":"16, ", "17":"17, ", "18":"18, ", "19":"19, ", "20":"20, ", 
+        "21":"21, ", "22":"22, ", "23":"23, ", "24":"24, ", "25":"25, ", 
+        "26":"26, ", "27":"27, ", "28":"28, ", "29":"29, ", "30":"30, ", 
+        "31":"31, ",
+        "0":"", "1":"1, ", "2":"2, ", "3":"3, ", "4":"4, ", "5":"5, ", 
+        "6":"6, ", "7":"7, ", "8":"8, ", "9":"9, "
+      };
+      
+      const monthName = months[month] || "";
+      const dayName = days[day] || "";
+      
+      // Return formatted date
+      const datePart = monthName + dayName;
+      return datePart + (year !== "0000" ? year : "");
+    };
+
+    const startDate = formatDateShort(fm.startDate);
+    const endDate = formatDateShort(fm.endDate);
+    
+    // Use lowres for initial load, highres for data-src
+    const lowImgSrc = fm.pageThumbnailFile ? `/lowphotos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
+    const highImgSrc = fm.pageThumbnailFile ? `/photos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
+    const href = makePermalink(doc.path);
+
+    wrapper.innerHTML = `
+      <div class="list-page-container">
+        <div class="list-image">
+          <a href="${href}">
+            <img src="${lowImgSrc}" data-src="${highImgSrc}" class="thumbnail lazy-photo" loading="lazy" />
+          </a>
+        </div>
+        <div class="list-page-content">
+          <a href="${href}">
+            ${escapeHtml(fm.title || doc.title || doc.path)}
+            ${fm.downloadLinks && fm.downloadLinks.length ? '<img src="/UI/Emojis/inbox.svg" class="emoji">' : ""}
+          </a>
+          <div class="list-page-date">
+            ${startDate}${endDate && endDate !== "?" ? " - " + endDate : ""}
+          </div>
+        </div>
+      </div>
+    `;
+    return wrapper;
+  }
+
+  function formatDate(dateStr) {
     if (!dateStr || dateStr === "0000-00-00") return "?";
-    const parts = (dateStr.split(" ")[0]||"").split("-");
+    if (dateStr === "") return "";
+    
+    const parts = (dateStr.split(" ")[0] || "").split("-");
+    if (parts.length !== 3) return dateStr;
+    
     const year = parts[0] || "0000";
     const month = parts[1] || "00";
     const day = parts[2] || "00";
@@ -708,77 +785,10 @@ if (keepTagsCheckbox) {
     const monthName = months[month] || "";
     const dayName = days[day] || "";
     
-    // Return formatted date
+    // Build date string
     const datePart = monthName + dayName;
     return datePart + (year !== "0000" ? year : "");
-  };
-
-  const startDate = formatDateShort(fm.startDate);
-  const endDate = formatDateShort(fm.endDate);
-  
-  // Use lowres for initial load, highres for data-src
-  const lowImgSrc = fm.pageThumbnailFile ? `/lowphotos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
-  const highImgSrc = fm.pageThumbnailFile ? `/photos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
-  const href = makePermalink(doc.path);
-
-  wrapper.innerHTML = `
-    <div class="list-page-container">
-      <div class="list-image">
-        <a href="${href}">
-          <img src="${lowImgSrc}" data-src="${highImgSrc}" class="thumbnail lazy-photo" loading="lazy" />
-        </a>
-      </div>
-      <div class="list-page-content">
-        <a href="${href}">
-          ${escapeHtml(fm.title || doc.title || doc.path)}
-          ${fm.downloadLinks && fm.downloadLinks.length ? '<img src="/UI/Emojis/inbox.svg" class="emoji">' : ""}
-        </a>
-        <div class="list-page-date">
-          ${startDate}${endDate && endDate !== "?" ? " - " + endDate : ""}
-        </div>
-      </div>
-    </div>
-  `;
-  return wrapper;
-}
-function formatDate(dateStr) {
-  if (!dateStr || dateStr === "0000-00-00") return "?";
-  if (dateStr === "") return "";
-  
-  const parts = (dateStr.split(" ")[0] || "").split("-");
-  if (parts.length !== 3) return dateStr;
-  
-  const year = parts[0] || "0000";
-  const month = parts[1] || "00";
-  const day = parts[2] || "00";
-  
-  const months = { 
-    "00": "", "01":"Jan. ", "02":"Feb. ", "03":"Mar. ", "04":"Apr. ", 
-    "05":"May ", "06":"Jun. ", "07":"Jul. ", "08":"Aug. ", "09":"Sep. ", 
-    "10":"Oct. ", "11":"Nov. ", "12":"Dec.",
-    "0": "", "1":"Jan. ", "2":"Feb. ", "3":"Mar. ", "4":"Apr. ", 
-    "5":"May ", "6":"Jun. ", "7":"Jul. ", "8":"Aug. ", "9":"Sep. "
-  };
-  
-  const days = { 
-    "00":"", "01":"1, ", "02":"2, ", "03":"3, ", "04":"4, ", "05":"5, ", 
-    "06":"6, ", "07":"7, ", "08":"8, ", "09":"9, ", "10":"10, ", 
-    "11":"11, ", "12":"12, ", "13":"13, ", "14":"14, ", "15":"15, ", 
-    "16":"16, ", "17":"17, ", "18":"18, ", "19":"19, ", "20":"20, ", 
-    "21":"21, ", "22":"22, ", "23":"23, ", "24":"24, ", "25":"25, ", 
-    "26":"26, ", "27":"27, ", "28":"28, ", "29":"29, ", "30":"30, ", 
-    "31":"31, ",
-    "0":"", "1":"1, ", "2":"2, ", "3":"3, ", "4":"4, ", "5":"5, ", 
-    "6":"6, ", "7":"7, ", "8":"8, ", "9":"9, "
-  };
-  
-  const monthName = months[month] || "";
-  const dayName = days[day] || "";
-  
-  // Build date string
-  const datePart = monthName + dayName;
-  return datePart + (year !== "0000" ? year : "");
-}
+  }
 
   function renderPhoto(doc) {
     const wrapper = document.createElement("div");
@@ -1017,33 +1027,36 @@ function formatDate(dateStr) {
     const perVal = resultsPerSelect && resultsPerSelect.value ? resultsPerSelect.value : "10";
     const perLimit = perVal === "all" ? Infinity : parseInt(perVal, 10) || 10;
 
-function clearAndRender(container, arr, renderer) {
-  if (!container) return;
-  const existingSent = container.querySelectorAll(".results-bottom-sentinel");
-  existingSent.forEach(s => {
-    try { showMoreObserver.unobserve(s); } catch(e){}
-    s.remove();
-  });
-  const existingShow = container.querySelectorAll(".show-more-wrapper");
-  existingShow.forEach(s => s.remove());
+    function clearAndRender(container, arr, renderer) {
+      if (!container) return;
+      const existingSent = container.querySelectorAll(".results-bottom-sentinel");
+      existingSent.forEach(s => {
+        try { showMoreObserver.unobserve(s); } catch(e){}
+        s.remove();
+      });
+      const existingShow = container.querySelectorAll(".show-more-wrapper");
+      existingShow.forEach(s => s.remove());
 
-  container.innerHTML = "";
-  if (!arr.length) { container.innerHTML = `<div class="no-results">No results</div>`; return; }
-  const limited = (perLimit === Infinity) ? arr : arr.slice(0, perLimit);
-  if (renderer === renderPhoto) {
-    const gallery = document.createElement("div"); gallery.className = "gallery";
-    limited.forEach(item => gallery.appendChild(renderer(item.doc)));
-    container.appendChild(gallery);
-  } else {
-    limited.forEach(item => container.appendChild(renderer(item.doc)));
-  }
+      container.innerHTML = "";
+      if (!arr.length) { container.innerHTML = `<div class="no-results">No results</div>`; return; }
+      const limited = (perLimit === Infinity) ? arr : arr.slice(0, perLimit);
+      if (renderer === renderPhoto) {
+        const gallery = document.createElement("div"); gallery.className = "gallery";
+        limited.forEach(item => gallery.appendChild(renderer(item.doc)));
+        container.appendChild(gallery);
+      } else {
+        limited.forEach(item => container.appendChild(renderer(item.doc)));
+      }
 
-  const totalCount = arr.length;
-  const shownCount = limited.length;
-  attachSentinel(container, totalCount, shownCount);
-  
-  initLazyPhotos(container);
-}
+      const totalCount = arr.length;
+      const shownCount = limited.length;
+      attachSentinel(container, totalCount, shownCount);
+      
+      // Trigger lazy loading for newly rendered images
+      if (typeof initLazyPhotos === 'function') {
+        initLazyPhotos(container);
+      }
+    }
 
     clearAndRender(listArticles, articles, renderArticle);
     clearAndRender(listPhotos, photos, renderPhoto);
@@ -1067,11 +1080,6 @@ function clearAndRender(container, arr, renderer) {
   if (articlesSortSelect) {
     articlesSortSelect.addEventListener("change", () => { executeSearch(); updateSearchLayout(); });
   }
-  const keepTagsCheckbox = document.getElementById("keep-tags-visible");
-if (keepTagsCheckbox) {
-  keepTagsCheckbox.addEventListener("change", () => {
-    updateSearchLayout();
-  });
-}
+
 });
 </script>
