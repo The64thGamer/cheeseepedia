@@ -9,6 +9,7 @@ credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice o
 showtapeFormats = ["Cyberamics Reel", "Cyberamics Betamax"]
 transcriptions = ["TV Themes"]
 tags = ["Showtapes"]
+mediaDuration = "1"08:03"
 categories = ["Chuck E. Cheese's"]
 downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Grammy%20Awards%20Showtape/027-0688-01%20s000036%20maybe.wav|Showtape Rip w/ Signals"]
 +++
