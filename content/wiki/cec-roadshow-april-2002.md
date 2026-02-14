@@ -2,7 +2,7 @@
 draft = false
 title = "CEC Roadshow April 2002"
 startDate = "2002-04-00"
-endDate = "2004-03-00"
+endDate = "2005-08-00"
 contributors = ["The 64th Gamer", "Ceclife13", "CyberSnout"]
 citations = []
 tags = ["Live Shows"]
