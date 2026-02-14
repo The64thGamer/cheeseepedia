@@ -5,7 +5,7 @@ startDate = "1984-03-00"
 endDate = "1984-00-00"
 pageThumbnailFile = "ZZQ3Tdw04wE02sfhLMcO.avif"
 contributors = ["JamesLemony", "Ceclife13"]
-citations = ["https://www.washingtonpost.com/archive/business/1984/03/05/chuck-e-tries-to-up-score-of-pizza-video/6006d1de-28cb-4e93-b028-bfad3c37f1d1/", "https://youtu.be/woJQoO0pitM"]
+citations = ["https://www.washingtonpost.com/archive/business/1984/03/05/chuck-e-tries-to-up-score-of-pizza-video/6006d1de-28cb-4e93-b028-bfad3c37f1d1/"]
 credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Helen Henny", "Scott Wilson|Voice of Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls"]
 showtapeFormats = ["Cyberamics Reel"]
 transcriptions = ["1980s Video Hits", "Oldies but Goodies", "British Invasion", "Soul Music", "Hot Rod Songs", "Early 70s Music", "Warblettes Oldies Birthday ", "Pasquallys Birthday Rock", "My Girlfriends Birthday", "Happy Happy Birthday Baby", "KCEC Birthday", "Pasquallys Chuck E Intro Bandstand", "Disco Birthday", "Bandstand Cheer"]
@@ -13,9 +13,9 @@ alsoKnownAs = ["Bandstand 1"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 +++
-***Bandstand 1*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny. The show was released in March of 1984{{< cite 1 >}}, and lasted at least past August of 1984.{{< cite 2 >}}
+***Bandstand I*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny. The show was released in March of 1984{{< cite 1 >}}.
 
-## Segments:
+## Show List:
 
 Disclaimer: The segment list is currently incomplete, as it is unclear what the original order of special and birthday tapes was within the original showtape reel.
 
@@ -25,16 +25,18 @@ Disclaimer: The segment list is currently incomplete, as it is unclear what the 
     3.  'Whip It'
     4.  'Rock This Town'
 1. **Segment 2**
-    1.  'Those Oldies but Goodies'
-    2.  'At the Hop'
-    3.  'I'm Walking'
-    4.  'Get a Job'
-    5.  'Sha Boom'
+    1.  Chuck E.'s Bandstand Jingle
+    2.  'Those Oldies but Goodies'
+    3.  'At the Hop'
+    4.  'I'm Walking'
+    5.  'Get a Job'
+    6.  'Sha Boom'
 1. **Segment 3**
     1.  'Henry the Eighth'
     2.  'Satisfaction'
     3.  'Bus Stop'
     4.  'Jumpin' Jack Flash'
+    5.  'Yankee Doodle'
 1. **Segment 4**
     1.  'I Gotcha'
     2.  'Respect'
@@ -42,9 +44,11 @@ Disclaimer: The segment list is currently incomplete, as it is unclear what the 
     4.  'Soul Man'
     5.  'Proud Mary'
 1. **Segment 5**
-    1.  'G.T.O.'
-    2.  'Custom Machine'
-    3.  'Born to Be Wild'
+    1.  Chuck E.'s Bandstand Jingle
+    2.  'G.T.O.'
+    3.  'Custom Machine'
+    4.  'Born to Be Wild'
+    5.  Chuck E.'s Bandstand Jingle
 1. **Segment 6**
     1.  'The Sound of Philadelphia'
     2.  'Rock the Boat'
