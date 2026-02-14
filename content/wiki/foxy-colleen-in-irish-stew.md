@@ -3,7 +3,7 @@ draft = false
 title = "Foxy Colleen in Irish Stew"
 startDate = "1980-00-00"
 endDate = "0000-00-00"
-pageThumbnailFile = ""
+pageThumbnailFile = "Now-Appearing-Foxy-Colleen.avif"
 contributors = ["Luigigamin212", "Ceclife13"]
 citations = ["https://www.youtube.com/playlist?list=PLTXoj5l850hE0SaqxPDNMpvt3mRV8X27D"]
 showtapeFormats = ["Cyberamics Reel"]
