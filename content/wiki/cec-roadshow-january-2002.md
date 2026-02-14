@@ -5,6 +5,7 @@ startDate = "2002-01-00"
 endDate = "2002-03-00"
 pageThumbnailFile = "jan02roadshowdiscart.avif"
 contributors = ["Ceclife13", "CyberSnout"]
+mediaDuration = "21:27"
 citations = []
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
