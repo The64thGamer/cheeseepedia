@@ -1657,7 +1657,7 @@ sup {
 }
 
 .search-layout {
-  display: flex;
+  display: block;
   gap: 1rem;
   align-items: flex-start;
 }
@@ -1702,7 +1702,7 @@ sup {
   padding: 0.5rem 0.75rem;
   border-radius: 1rem;
   border: 0.25rem solid var(--brown);
-  background-color: var(--deep-white);
+  background-color: var(--tag-bg, var(--deep-white));
   font-size: 0.85rem;
   cursor: pointer;
   font-family: "RockoFLF";

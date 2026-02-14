@@ -4235,10 +4235,28 @@
       "content": "1981 commercial for ShowBiz Pizza. Showcases the Wolf Pack 5 and beta Rock-afire. End tag promoting the opening of Davenport, IA (903 E Kimberly Rd)."
     },
     {
+      "name": "https://www.youtube.com/watch?v=OqjmXCfCQOU",
+      "page_path": "content/videos/winterparkceibroadcast",
+      "startDate": "1982-00-00",
+      "content": "1982 Broadcast featuring Winter Park, FL, Creative Engineering, INC and show production."
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=raqVR2TYBbg",
+      "page_path": "content/videos/winterparkcei1983broadcast",
+      "startDate": "1983-00-00",
+      "content": "1983 Broadcast featuring Winter Park, FL, Creative Engineering, INC and show production."
+    },
+    {
       "name": "https://www.youtube.com/watch?v=lU2igLuCj4k",
       "page_path": "content/videos/https-youtu-be-erg3eg3d-e8-copy",
       "startDate": "1984-00-00",
       "content": "Billy Bob Interactive Animation Video Guide, taking place at Monfort Drive ShowBiz."
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=LFFCQZUpne8",
+      "page_path": "content/videos/computerincontrol1984winterparkcei",
+      "startDate": "1984-00-00",
+      "content": "1984 BBC Computers In Control featuring Winter Park, FL and Creative Engineering, INC. Filmed in 1983"
     },
     {
       "name": "https://youtu.be/kQGFwftGeS0",
@@ -6878,6 +6896,24 @@
     }
   ],
   "ShowBiz Pizza Place": [
+    {
+      "name": "https://www.youtube.com/watch?v=OqjmXCfCQOU",
+      "page_path": "content/videos/winterparkceibroadcast",
+      "startDate": "1982-00-00",
+      "content": "1982 Broadcast featuring Winter Park, FL, Creative Engineering, INC and show production."
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=raqVR2TYBbg",
+      "page_path": "content/videos/winterparkcei1983broadcast",
+      "startDate": "1983-00-00",
+      "content": "1983 Broadcast featuring Winter Park, FL, Creative Engineering, INC and show production."
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=LFFCQZUpne8",
+      "page_path": "content/videos/computerincontrol1984winterparkcei",
+      "startDate": "1984-00-00",
+      "content": "1984 BBC Computers In Control featuring Winter Park, FL and Creative Engineering, INC. Filmed in 1983"
+    },
     {
       "name": "https://youtu.be/Kc8ahhIFnxA",
       "page_path": "content/videos/24jcwkd0unlyqsvlrh3orgljh",
@@ -9631,6 +9667,46 @@
       "page_path": "content/videos/https-youtu-be-4zwrlvuknxw",
       "startDate": "2000-11-18",
       "content": "Birthday party at Independence, MO (4039 S Noland Rd) in 2000."
+    }
+  ],
+  "Orlando / Winter Park, FL (1300 Lee Rd)": [
+    {
+      "name": "https://www.youtube.com/watch?v=OqjmXCfCQOU",
+      "page_path": "content/videos/winterparkceibroadcast",
+      "startDate": "1982-00-00",
+      "content": "1982 Broadcast featuring Winter Park, FL, Creative Engineering, INC and show production."
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=raqVR2TYBbg",
+      "page_path": "content/videos/winterparkcei1983broadcast",
+      "startDate": "1983-00-00",
+      "content": "1983 Broadcast featuring Winter Park, FL, Creative Engineering, INC and show production."
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=LFFCQZUpne8",
+      "page_path": "content/videos/computerincontrol1984winterparkcei",
+      "startDate": "1984-00-00",
+      "content": "1984 BBC Computers In Control featuring Winter Park, FL and Creative Engineering, INC. Filmed in 1983"
+    }
+  ],
+  "Creative Engineering": [
+    {
+      "name": "https://www.youtube.com/watch?v=OqjmXCfCQOU",
+      "page_path": "content/videos/winterparkceibroadcast",
+      "startDate": "1982-00-00",
+      "content": "1982 Broadcast featuring Winter Park, FL, Creative Engineering, INC and show production."
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=raqVR2TYBbg",
+      "page_path": "content/videos/winterparkcei1983broadcast",
+      "startDate": "1983-00-00",
+      "content": "1983 Broadcast featuring Winter Park, FL, Creative Engineering, INC and show production."
+    },
+    {
+      "name": "https://www.youtube.com/watch?v=LFFCQZUpne8",
+      "page_path": "content/videos/computerincontrol1984winterparkcei",
+      "startDate": "1984-00-00",
+      "content": "1984 BBC Computers In Control featuring Winter Park, FL and Creative Engineering, INC. Filmed in 1983"
     }
   ],
   "Chuck E. Shuffle": [

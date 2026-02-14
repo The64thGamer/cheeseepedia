@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T11:12:32Z",
-  "count": 1059,
+  "generated_at": "2026-02-14T19:24:36Z",
+  "count": 1060,
   "locations": [
     {
       "title": "Salem, OR (3180 Lancaster Dr)",
@@ -1179,6 +1179,25 @@
       "endDate": "2025-02-02",
       "cuDate": "1992-01-01",
       "page_path": "content/wiki/heredia-costa-rica.md"
+    },
+    {
+      "title": "Orlando / Winter Park, FL (1300 Lee Rd)",
+      "group": [
+        "ShowBiz Pizza Place"
+      ],
+      "coords_str": [
+        "28.605156730289274",
+        "-81.40058291912071"
+      ],
+      "coords": [
+        28.605156730289274,
+        -81.40058291912071
+      ],
+      "url": "/wiki/orlando-winter-park-fl-1300-lee-rd/",
+      "startDate": "1982-04-27",
+      "endDate": "1984-01-08",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/orlando-winter-park-fl-1300-lee-rd.md"
     },
     {
       "title": "Macon, GA (3374 Mercer University Dr)",
