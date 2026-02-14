@@ -23,7 +23,7 @@ categories = ["Chuck E. Cheese's"]
       8. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
       9. KIDZ BOP Kids - 'Manchild' (ASL)
       10. Chuck E. & Friends - 'Fun For All' (2025)
-      11. Chuck E. & Friends - 'Stay Positive'
+      11. Chuck E. & Friends - 'Stay Positive' (ASL)
       12. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
       13. KID BOP Kids - 'Good 4 U'
       14. Bella B. - 'El Rey Guitarrista'
@@ -64,7 +64,7 @@ categories = ["Chuck E. Cheese's"]
       8. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
       9. KIDZ BOP Kids - 'Manchild' (ASL)
       10. Chuck E. & Friends - 'Fun For All' (2025)
-      11. Chuck E. & Friends - 'Stay Positive'
+      11. Chuck E. & Friends - 'Stay Positive' (ASL)
       12. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
       13. KID BOP Kids - 'Good 4 U'
       14. Bella B. - 'El Rey Guitarrista'
@@ -108,7 +108,7 @@ categories = ["Chuck E. Cheese's"]
       11. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
       12. KIDZ BOP Kids - 'Manchild' (ASL)
       13. Chuck E. & Friends - 'Fun For All' (2025)
-      14. Chuck E. & Friends - 'Stay Positive'
+      14. Chuck E. & Friends - 'Stay Positive' (ASL)
       15. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
       16. KID BOP Kids - 'Good 4 U'
       17. Bella B. - 'El Rey Guitarrista'
