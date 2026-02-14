@@ -1,6 +1,6 @@
 +++
 title = "IMG_8534.avif"
-startDate = "2002-01-00"
+startDate = "2001-01-00"
 citations = ["https://archive.org/details/cecroadshowboomboxcds"]
 pages = ["CEC Roadshow January 2001"]
 tags = ["Photos"]
