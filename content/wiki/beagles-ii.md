@@ -3,7 +3,7 @@ draft = false
 title = "Beagles II"
 startDate = "1982-00-00"
 endDate = "0000-00-00"
-pageThumbnailFile = ""
+pageThumbnailFile = "BeaglesPromo.avif"
 contributors = ["Luigigamin212", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=rTkgKdMpn0o"]
 showtapeFormats = ["Cyberamics Reel"]
