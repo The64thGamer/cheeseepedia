@@ -10,6 +10,8 @@
   --orange: #D44A02;
   --deep-orange: #993b08;
   --brown: #2c2422;
+  --font-body: "Aleo";
+  --font-display: "RockoFLF";
 }
 
 /* =========================
@@ -24,6 +26,12 @@
   font-family: "RockoFLF";
   src: url('/Fonts/RockoFLF-Bold.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: "Stalker";
+  src: url('/Fonts/stalker1.ttf') format('truetype');
+}
+
 
 /* =========================
    HIDDEN / UTILITY SELECTORS
@@ -62,7 +70,7 @@ html {
 body {
   color: var(--white);
   background-color: var(--blue);
-  font-family: "Aleo";
+  font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.5;
   margin: 0 auto;
@@ -140,7 +148,7 @@ td {
    TYPOGRAPHY
    ========================= */
 h1 {
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   letter-spacing: .2rem;
   font-size: 2rem;
   color: var(--yellow);
@@ -173,7 +181,7 @@ h2 {
    ========================= */
 select {
   margin: 0.5rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   letter-spacing: .1rem;
   color: var(--white);
   background-color: var(--orange);
@@ -209,7 +217,7 @@ select:hover {
    ========================= */
 .button,
 .blank-button {
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   letter-spacing: .1rem;
   color: var(--white);
   font-size: 1rem;
@@ -260,7 +268,7 @@ select:hover {
   padding-right: 0;
   font-size: 1rem;
   letter-spacing: .1rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   flex: 1;
   margin-left: 0.25rem;
   margin-right: 0.25rem;
@@ -290,7 +298,7 @@ select:hover {
   padding-bottom: 0.5rem;
   font-size: 1rem;
   letter-spacing: .1rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   flex: 1;
   margin-left: 0.25rem;
   margin-right: 0.25rem;
@@ -457,7 +465,7 @@ select:hover {
   align-content: space-between;
   color: var(--yellow);
   background-color: var(--blue);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   font-size: .9rem;
   line-height: 1.5;
   max-width: 100%;
@@ -495,7 +503,7 @@ select:hover {
   align-content: space-between;
   color: var(--yellow);
   background-color: var(--blue);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   font-size: 1rem;
   line-height: 1.5;
   max-width: 100%;
@@ -513,7 +521,7 @@ select:hover {
 
 .list-review-body {
   color: var(--white);
-  font-family: "Aleo";
+  font-family: var(--font-body);
   line-height: 1.5;
   text-wrap: pretty;
   word-wrap: anywhere;
@@ -552,20 +560,20 @@ select:hover {
 }
 
 .list-page-video-content {
-  font-family: "Aleo";
+  font-family: var(--font-body);
   line-height: 1.5;
 }
 
 .list-page-date {
   color: var(--yellow);
   font-size: 1rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .list-review-date {
   color: var(--deep-white);
   font-size: 1rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .list-review-date a {
@@ -911,7 +919,7 @@ img.remoji:hover {
 .tab-button {
   background: none;
   border: none;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   font-size: 1rem;
   letter-spacing: .1rem;
   color: var(--white);
@@ -1006,7 +1014,7 @@ img.remoji:hover {
   text-align: center;
   margin: 0;
   font-size: 1.25rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   letter-spacing: .1rem;
   color: var(--white);
 }
@@ -1119,7 +1127,7 @@ img.remoji:hover {
   border: 0.25rem solid var(--brown);
   border-radius: 0.75rem;
   cursor: pointer;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .add-images-button:hover {
@@ -1178,7 +1186,7 @@ img.remoji:hover {
   cursor: pointer;
   background-color: var(--deep-white);
   color: var(--white);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .step button:hover {
@@ -1199,7 +1207,7 @@ img.remoji:hover {
   padding: 0.625rem;
   border: 0.0625rem solid var(--brown);
   border-radius: 0.375rem;
-  font-family: "Aleo";
+  font-family: var(--font-body);
 }
 
 .date-inputs {
@@ -1264,7 +1272,7 @@ img.remoji:hover {
   color: var(--white);
   text-decoration: none;
   border-radius: 0.375rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .download-link:hover {
@@ -1280,7 +1288,7 @@ img.remoji:hover {
   text-decoration: none;
   border-radius: 0.375rem;
   font-weight: bold;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .github-link:hover {
@@ -1530,7 +1538,7 @@ sup {
 
 .search-ui-container {
   margin: 1rem 0;
-  font-family: "RockoFLF", "Aleo", system-ui, -apple-system, "Segoe UI", Roboto;
+  font-family: var(--font-display), var(--font-body), system-ui, -apple-system, "Segoe UI", Roboto;
 }
 
 .search-controls {
@@ -1551,7 +1559,7 @@ sup {
   background-color: var(--deep-white);
   color: var(--white);
   outline: none;
-  font-family: 'RockoFLF'
+  font-family: var(--font-display);
 }
 
 .search-fuzzy::placeholder {
@@ -1584,7 +1592,7 @@ sup {
   font-size: 0.95rem;
   background: transparent;
   color: var(--white);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .tag-input::placeholder {
@@ -1641,7 +1649,7 @@ sup {
   justify-content: space-between;
   cursor: pointer;
   color: var(--white);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .tag-suggestion.active,
@@ -1705,7 +1713,7 @@ sup {
   background-color: var(--tag-bg, var(--deep-white));
   font-size: 0.85rem;
   cursor: pointer;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .tag-count {
@@ -1737,7 +1745,7 @@ sup {
   color: var(--white);
   text-align: center;
   transform: translate(0%, -4.25rem);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   letter-spacing: .1rem;
   margin: -1rem;
 }
