@@ -6,7 +6,8 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "WorldofKids.avif"
 startDate = "1986-01-00"
 endDate = "1986-03-00"
-contributors = []
+contributors = ["Ceclife13"]
+credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch, Jasper T. Jowls, Pasqually the Chef", "Nancy Lenehan|Voice of Helen Henny"]
 +++
 ***CEC World of Kids*** Released in January 1986. 
 

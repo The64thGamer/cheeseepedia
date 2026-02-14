@@ -6,7 +6,8 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "HappyHolidays8486.avif"
 startDate = "1985-11-00"
 endDate = "1985-12-00"
-contributors = ["Cyber Snout"]
+credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls", "Nancy Lenehan|Voice of Helen Henny"]
+contributors = ["Cyber Snout", "Ceclife13"]
 +++
 ***CEC Happy Holidays 1985*** was released in November 1985.
 

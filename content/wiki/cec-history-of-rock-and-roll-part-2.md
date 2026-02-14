@@ -4,11 +4,13 @@ title = "CEC History of Rock and Roll Part 2"
 startDate = "1986-09-02"
 endDate = "1986-10-00"
 pageThumbnailFile = "HistoryofRockandRoll2.avif"
-contributors = ["The 64th Gamer","Cyber Snout"]
+contributors = ["The 64th Gamer","Cyber Snout","Ceclife13"]
+credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Connie Nelson|Voice of Helen Henny"]
 citations = ["https://www.youtube.com/watch?v=PfFRYN1jMI0"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
+
 ***CEC History of Rock and Roll Part 2*** was a showtape released on September 2, 1986. This show would be just one 15 minute long segment. 
 
 ## Show List:

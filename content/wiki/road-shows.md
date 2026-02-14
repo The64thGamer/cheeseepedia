@@ -9,11 +9,11 @@ citations = ["https://youtu.be/FYy1xFReGF0"]
 tags = ["Remodels and Initiatives"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Road Shows*** (also known as ***Chuck E.'s Road Show*** and ***Portable Lives***) was an initiative rolled out nationwide in March of 2000 to allow live shows to be performed outside of the showroom through the use of a boombox. It would end in late 2014.
+***Road Shows*** (also known as ***Chuck E.'s Road Show*** and ***Portable Lives***) was an initiative rolled out nationwide in March of 2000 to allow live shows to be performed outside of the showroom through the use of a boombox, with new CDs released frequently. The last Road Show CD would be released in 2014.
 
-### Road Shows
+### Road Show CDs
 
-| Live Show Name                                            | Showtape Released Alongside                               | Day | Month     | Year |
+| Road Show CD                                              | Showtape Released Alongside                               | Day | Month     | Year |
 | --------------------------------------------------------- | --------------------------------------------------------- | --- | --------- | ---- |
 | {{< wiki-link "Chuck E. Cheese's Portable Live Show" >}}  | {{< wiki-link "Just for Kids Show 2000" >}}               |     | April     | 2000 |
 | {{< wiki-link "CEC Roadshow January 2001" >}}             | {{< wiki-link "January 2001 Show" >}}                     |     | January   | 2001 |

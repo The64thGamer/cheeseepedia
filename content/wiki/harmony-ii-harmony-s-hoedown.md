@@ -7,7 +7,7 @@ pageThumbnailFile = ""
 contributors = ["Luigigamin212", "Ceclife13"]
 citations = ["https://www.youtube.com/playlist?list=PLTXoj5l850hHrD3deCjTufocK4hCKTH3L"]
 showtapeFormats = ["Cyberamics Reel"]
-credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenihan|Voice of Harmony Howlette", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Harmony Howlette", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 +++
@@ -63,7 +63,7 @@ Disclaimer: The segment list is currently incomplete, as it is unclear what the 
     4. Happy Trails To You
 12. **Special 1**
     1. We Understand It's Your Birthday
-13. 2. **Special 2**
+13. **Special 2**
     1. It's a Special Day (CEC 5th Birthday)
 14. **Special 3**
     1. Birthday Chant/Song

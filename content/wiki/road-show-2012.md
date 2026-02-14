@@ -10,23 +10,23 @@ tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "Roadshow2012.avif"
 +++
-**Road Show 2012** was a CD released alongside the {{< wiki-link "Fall 2012 Show" >}} which featured eight {{< wiki-link "Road Shows" >}}.
+**Road Show 2012** was a Road Show CD released alongside the {{< wiki-link "Fall 2012 Show" >}} which featured eight {{< wiki-link "Road Shows" >}}.
 
-## Live List:
+## Track List:
 
-1. **Live 1**
-2. {{< wiki-link "Them Bones" >}} (October only)
-3. **Live 2**
-4. {{< wiki-link "Cupid Shuffle 2012" >}}
-5. **Live 3**
-6. {{< wiki-link "Happy and You Know It 2012" >}}
-7. **Live 4**
-8. {{< wiki-link "Birthday Star 2001" >}}
-9. **Live 5**
-10. {{< wiki-link "Spanish Birthday Star 2001" >}}
-11. **Live 6**
-12. {{< wiki-link "Head, Shoulders, Knees and Toes" >}}
-13. **Live 7**
-14. {{< wiki-link "Old MacDonald" >}}
-15. **Live 8**
-16. {{< wiki-link "BINGO" >}}
+1. **Track 1**
+    1. {{< wiki-link "Them Bones" >}} (October only)
+3. **Track 2**
+    1. {{< wiki-link "Cupid Shuffle 2012" >}}
+5. **Track 3**
+    1. {{< wiki-link "Happy and You Know It 2012" >}}
+7. **Track 4**
+    1. {{< wiki-link "Birthday Star 2001" >}}
+9. **Track 5**
+    1. {{< wiki-link "Spanish Birthday Star 2001" >}}
+11. **Track 6**
+    1. {{< wiki-link "Head, Shoulders, Knees and Toes" >}}
+13. **Track 7**
+    1. {{< wiki-link "Old MacDonald" >}}
+15. **Track 8**
+    1. {{< wiki-link "BINGO" >}}

@@ -6,7 +6,8 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "SalutetoKids.avif"
 startDate = "1985-08-00"
 endDate = "1985-09-00"
-contributors = ["Cyber Snout"]
+contributors = ["Cyber Snout", "Ceclife13"]
+credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls", "Nancy Lenehan|Voice of Helen Henny"]
 +++
 ## Show list:
 1. Segment 1

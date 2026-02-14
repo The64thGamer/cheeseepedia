@@ -1,12 +1,12 @@
 +++
-
 title = "CEC Dance Showtape"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "1988-09-00"
 endDate = "1988-11-00"
-contributors = ["The 64th Gamer","DerekCat"]
+contributors = ["The 64th Gamer","DerekCat", "Ceclife13"]
+credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Connie Nelson|Voice of Helen Henny"]
 citations = []
 pageThumbnailFile = "Cec_dance_showtape.avif"
 +++
