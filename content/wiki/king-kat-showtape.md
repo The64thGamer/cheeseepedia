@@ -1,6 +1,6 @@
 +++
 draft = false
-title = "King I"
+title = "King Kat Showtape"
 startDate = "1984-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "Michael Katzon.avif"
