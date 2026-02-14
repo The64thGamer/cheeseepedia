@@ -20,147 +20,152 @@ Notes:
       <div id="tag-suggestions" class="tag-suggestions" aria-hidden="true"></div>
     </div>
 
-    <div class="search-collapsible" id="search-collapsible">
-      <div class="search-layout">
-        <aside class="search-left-col">
-          <div class="predef-list">
-            {{- $predef := slice
-            "Pizza Time Theatre"
-            "ShowBiz Pizza Place"
-            "Chuck E. Cheese's"
-            "2026"
-            "1977"
-            "Locations"
-            "Showtapes"
-            "Animatronic Shows"
-            "Stage Variations"
-            "Animatronics"
-            "Animatronic Parts"
-            "Animatronic Preservation"
-            "Costumed Characters"
-            "Retrofits"
-            "History"
-            "Cancelled Locations"
-            "Remodels and Initiatives"
-            "Arcades and Attractions"
-            "Store Fixtures"
-            "Companies/Brands"
-            "Characters"
-            "Events"
-            "Animatronic Control Systems"
-            "Other Systems"
-            "Simulators"
-            "Programming Systems"
-            "Commercials"
-            "News Footage"
-            "Company Media"
-            "Movies"
-            "Puppets"
-            "Live Shows"
-            "ShowBiz Pizza Programs"
-            "Showtape Formats"
-            "Family Vision"
-            "Corporate Documents"
-            "Documents"
-            "Promotional Material"
-            "Social Media and Websites"
-            "Ad Vehicles"
-            "In-Store Merchandise"
-            "Products"
-            "Menu Items"
-            "Tickets"
-            "Tokens"
-            "Employee Wear"
-            "Video Games"
-            "Sally Corporation"
-            "Jim Henson's Creature Shop"
-            "Walt Disney Imagineering"
-            "Five Nights at Freddy's"
-            "Transcriptions"
-            "Unknown Year"
-            "User"
-            "Meta"
-            -}}
-            <div class="predef-tags">
-              <h4>Quick Tags</h4>
-              <div class="predef-scroll">
-                <div class="predef-list">
-                  {{- range $i, $t := $predef -}}
-                    {{- $entry := index $tagStyles $t -}}
-                    {{- $emoji := "" -}}
-                    {{- $color := "" -}}
-                    {{- if $entry -}}
-                      {{- with $entry }}
-                        {{- $emoji = .emoji -}}
-                        {{- $color = .color -}}
-                      {{- end -}}
-                    {{- end -}}
-                    {{- $count := index $tagCounts $t -}}
-                    <button
-                      class="predef-tag-btn"
-                      type="button"
-                      data-tag="{{ $t | html }}"
-                      title="Add tag"
-                      {{- if $color }}style="--tag-bg: {{ $color }};"{{- end -}}
-                    >
-                      {{- if $emoji }}{{ $emoji | safeHTML }} {{- end -}}
-                      {{- $t -}}
-                      {{- with $count -}} <span class="tag-count">({{ . }})</span>{{- end -}}
-                    </button>
+<div class="search-collapsible" id="search-collapsible">
+  <div class="search-layout">
+    <!-- Quick Tags panel that can be positioned above or to the left -->
+    <div class="quick-tags-panel" id="quick-tags-panel">
+      <div class="predef-list">
+        {{- $predef := slice
+        "Pizza Time Theatre"
+        "ShowBiz Pizza Place"
+        "Chuck E. Cheese's"
+        "2026"
+        "1977"
+        "Locations"
+        "Showtapes"
+        "Animatronic Shows"
+        "Stage Variations"
+        "Animatronics"
+        "Animatronic Parts"
+        "Animatronic Preservation"
+        "Costumed Characters"
+        "Retrofits"
+        "History"
+        "Cancelled Locations"
+        "Remodels and Initiatives"
+        "Arcades and Attractions"
+        "Store Fixtures"
+        "Companies/Brands"
+        "Characters"
+        "Events"
+        "Animatronic Control Systems"
+        "Other Systems"
+        "Simulators"
+        "Programming Systems"
+        "Commercials"
+        "News Footage"
+        "Company Media"
+        "Movies"
+        "Puppets"
+        "Live Shows"
+        "ShowBiz Pizza Programs"
+        "Showtape Formats"
+        "Family Vision"
+        "Corporate Documents"
+        "Documents"
+        "Promotional Material"
+        "Social Media and Websites"
+        "Ad Vehicles"
+        "In-Store Merchandise"
+        "Products"
+        "Menu Items"
+        "Tickets"
+        "Tokens"
+        "Employee Wear"
+        "Video Games"
+        "Sally Corporation"
+        "Jim Henson's Creature Shop"
+        "Walt Disney Imagineering"
+        "Five Nights at Freddy's"
+        "Transcriptions"
+        "Unknown Year"
+        "User"
+        "Meta"
+        -}}
+        <div class="predef-tags">
+          <h4>Quick Tags</h4>
+          <div class="predef-scroll">
+            <div class="predef-list">
+              {{- range $i, $t := $predef -}}
+                {{- $entry := index $tagStyles $t -}}
+                {{- $emoji := "" -}}
+                {{- $color := "" -}}
+                {{- if $entry -}}
+                  {{- with $entry }}
+                    {{- $emoji = .emoji -}}
+                    {{- $color = .color -}}
                   {{- end -}}
-                </div>
-              </div>
+                {{- end -}}
+                {{- $count := index $tagCounts $t -}}
+                <button
+                  class="predef-tag-btn"
+                  type="button"
+                  data-tag="{{ $t | html }}"
+                  title="Add tag"
+                  {{- if $color }}style="--tag-bg: {{ $color }};"{{- end -}}
+                >
+                  {{- if $emoji }}{{ $emoji | safeHTML }} {{- end -}}
+                  {{- $t -}}
+                  {{- with $count -}} <span class="tag-count">({{ . }})</span>{{- end -}}
+                </button>
+              {{- end -}}
             </div>
           </div>
-        </aside>
+        </div>
+      </div>
+    </div>
 
-        <div class="tabs" id="results-tabs" hidden>
+    <div class="tabs" id="results-tabs" hidden>
+      <!-- Controls inserted above the tabs -->
+      <div class="result-controls" style="margin-bottom:8px;">
+        <label>
+          Show:
+          <select id="results-per-section" title="Results per section">
+            <option value="10" selected>10</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+            <option value="all">All</option>
+          </select>
+        </label>
 
-          <!-- Controls inserted above the tabs -->
-          <div class="result-controls" style="margin-bottom:8px;">
-            <label>
-              Show:
-              <select id="results-per-section" title="Results per section">
-                <option value="10" selected>10</option>
-                <option value="50">50</option>
-                <option value="100">100</option>
-                <option value="all">All</option>
-              </select>
-            </label>
+        <label style="margin-left:10px;">
+          Sort Articles:
+          <select id="articles-sort" title="Sort articles">
+            <option value="relevancy" selected>Relevancy</option>
+            <option value="oldest">Oldest → Newest</option>
+            <option value="newest">Newest → Oldest</option>
+          </select>
+        </label>
+        
+        <label style="margin-left:10px;">
+          <input type="checkbox" id="keep-tags-visible" />
+          Show Quick Tags
+        </label>
+      </div>
 
-            <label style="margin-left:10px;">
-              Sort Articles:
-              <select id="articles-sort" title="Sort articles">
-                <option value="relevancy" selected>Relevancy</option>
-                <option value="oldest">Oldest → Newest</option>
-                <option value="newest">Newest → Oldest</option>
-              </select>
-            </label>
-          </div>
+      <div class="tab-buttons">
+        <button class="tab-button active" data-tab="tab-articles">Articles</button>
+        <button class="tab-button" data-tab="tab-photos">Photos</button>
+        <button class="tab-button" data-tab="tab-videos">Videos</button>
+        <button class="tab-button" data-tab="tab-reviews">Reviews</button>
+      </div>
 
-          <div class="tab-buttons">
-            <button class="tab-button active" data-tab="tab-articles">Articles</button>
-            <button class="tab-button" data-tab="tab-photos">Photos</button>
-            <button class="tab-button" data-tab="tab-videos">Videos</button>
-            <button class="tab-button" data-tab="tab-reviews">Reviews</button>
-          </div>
+      <div class="tab-content">
+        <div class="tab-panel active" id="tab-articles">
+          <div class="results-summary" aria-live="polite"></div>
+          <div class="results-list" id="list-articles"></div>
+        </div>
 
-          <div class="tab-content">
-            <div class="tab-panel active" id="tab-articles">
-              <div class="results-summary" aria-live="polite"></div>
-              <div class="results-list" id="list-articles"></div>
-            </div>
+        <div class="tab-panel" id="tab-photos">
+          <div class="results-list" id="list-photos"></div>
+        </div>
 
-            <div class="tab-panel" id="tab-photos">
-              <div class="results-list" id="list-photos"></div>
-            </div>
+        <div class="tab-panel" id="tab-videos">
+          <div class="results-list" id="list-videos"></div>
+        </div>
 
-            <div class="tab-panel" id="tab-videos">
-              <div class="results-list" id="list-videos"></div>
-            </div>
-
-            <div class="tab-panel" id="tab-reviews">
-              <div class="results-list" id="list-reviews"></div>
+        <div class="tab-panel" id="tab-reviews">
+          <div class="results-list" id="list-reviews"></div>
             </div>
           </div>
         </div>
@@ -192,6 +197,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const predefButtons = document.querySelectorAll(".predef-tag-btn");
   const resultsPerSelect = document.getElementById("results-per-section");
   const articlesSortSelect = document.getElementById("articles-sort");
+  const keepTagsCheckbox = document.getElementById("keep-tags-visible");
 
   // collapsible support
   const trigger = document.getElementById("tag-input");
@@ -508,29 +514,62 @@ document.addEventListener("DOMContentLoaded", () => {
     searchTimer = setTimeout(executeSearch, 150); 
   }
 
+  // --- Layout control ---
+  function updateSearchLayout() {
+    const tagPanel = document.getElementById("quick-tags-panel");
+    const resultsPanel = document.getElementById("results-tabs");
+    const searchLayout = document.querySelector(".search-layout");
+    
+    if (!tagPanel || !resultsPanel || !searchLayout) return;
+    
+    const hasInput = tagInput && tagInput.value.trim().length > 0;
+    const hasChips = searchChips.length > 0;
+    const showResults = hasInput || hasChips;
+    const keepTagsVisible = keepTagsCheckbox && keepTagsCheckbox.checked;
+    
+    if (showResults) { 
+      // Show results
+      resultsPanel.hidden = false;
+      
+      if (keepTagsVisible) {
+        // Keep tags visible on the left side
+        tagPanel.hidden = false;
+        searchLayout.style.display = "block";
+        searchLayout.style.gridTemplateColumns = "300px 1fr";
+        searchLayout.style.gap = "1rem";
+      } else {
+        // Hide tags
+        tagPanel.hidden = true;
+        searchLayout.style.display = "block";
+      }
+    } else { 
+      // No search active - show tags above (default layout)
+      tagPanel.hidden = false;
+      resultsPanel.hidden = true;
+      searchLayout.style.display = "block";
+    }
+  }
+
+  // Load saved preference for keep tags visible
+  if (keepTagsCheckbox) {
+    const savedPref = localStorage.getItem("keepTagsVisible");
+    if (savedPref === "true") {
+      keepTagsCheckbox.checked = true;
+    }
+    
+    keepTagsCheckbox.addEventListener("change", () => {
+      // Save preference
+      localStorage.setItem("keepTagsVisible", keepTagsCheckbox.checked);
+      updateSearchLayout();
+    });
+  }
+
   // --- Init load ---
   (async function init() {
     await loadSearchData();
     executeSearch();
     updateSearchLayout();
   })();
-
-  // --- Layout control ---
-  function updateSearchLayout() {
-    const tagPanel = document.querySelector(".search-left-col");
-    const resultsPanel = document.getElementById("results-tabs");
-    if (!tagPanel || !resultsPanel) return;
-    const hasInput = tagInput && tagInput.value.trim().length > 0;
-    const hasChips = searchChips.length > 0;
-    const showResults = hasInput || hasChips;
-    if (showResults) { 
-      tagPanel.hidden = true; 
-      resultsPanel.hidden = false; 
-    } else { 
-      tagPanel.hidden = false; 
-      resultsPanel.hidden = true; 
-    }
-  }
 
   // --- Scoring & search helpers ---
   function docHasTag(doc, tag) {
@@ -654,21 +693,48 @@ document.addEventListener("DOMContentLoaded", () => {
       const year = parts[0] || "0000";
       const month = parts[1] || "00";
       const day = parts[2] || "00";
-      const months = { "00": "", "01":"Jan. ", "02":"Feb. ", "03":"Mar. ", "04":"Apr. ", "05":"May ", "06":"Jun. ", "07":"Jul. ", "08":"Aug. ", "09":"Sep. ", "10":"Oct. ", "11":"Nov. ", "12":"Dec." };
-      const days = { "00":"", "01":"1, ", "02":"2, ", "03":"3, ", "04":"4, ", "05":"5, ", "06":"6, ", "07":"7, ", "08":"8, ", "09":"9, " };
-      return `${months[month] || ""}${(days[day]||"")}${year !== "0000" ? year : ""}`;
+      
+      const months = { 
+        "00": "", "01":"Jan. ", "02":"Feb. ", "03":"Mar. ", "04":"Apr. ", 
+        "05":"May ", "06":"Jun. ", "07":"Jul. ", "08":"Aug. ", "09":"Sep. ", 
+        "10":"Oct. ", "11":"Nov. ", "12":"Dec.",
+        "0": "", "1":"Jan. ", "2":"Feb. ", "3":"Mar. ", "4":"Apr. ", 
+        "5":"May ", "6":"Jun. ", "7":"Jul. ", "8":"Aug. ", "9":"Sep. "
+      };
+      
+      const days = { 
+        "00":"", "01":"1, ", "02":"2, ", "03":"3, ", "04":"4, ", "05":"5, ", 
+        "06":"6, ", "07":"7, ", "08":"8, ", "09":"9, ", "10":"10, ", 
+        "11":"11, ", "12":"12, ", "13":"13, ", "14":"14, ", "15":"15, ", 
+        "16":"16, ", "17":"17, ", "18":"18, ", "19":"19, ", "20":"20, ", 
+        "21":"21, ", "22":"22, ", "23":"23, ", "24":"24, ", "25":"25, ", 
+        "26":"26, ", "27":"27, ", "28":"28, ", "29":"29, ", "30":"30, ", 
+        "31":"31, ",
+        "0":"", "1":"1, ", "2":"2, ", "3":"3, ", "4":"4, ", "5":"5, ", 
+        "6":"6, ", "7":"7, ", "8":"8, ", "9":"9, "
+      };
+      
+      const monthName = months[month] || "";
+      const dayName = days[day] || "";
+      
+      // Return formatted date
+      const datePart = monthName + dayName;
+      return datePart + (year !== "0000" ? year : "");
     };
 
     const startDate = formatDateShort(fm.startDate);
     const endDate = formatDateShort(fm.endDate);
-    const imgSrc = fm.pageThumbnailFile ? `/photos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
+    
+    // Use lowres for initial load, highres for data-src
+    const lowImgSrc = fm.pageThumbnailFile ? `/lowphotos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
+    const highImgSrc = fm.pageThumbnailFile ? `/photos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
     const href = makePermalink(doc.path);
 
     wrapper.innerHTML = `
       <div class="list-page-container">
         <div class="list-image">
           <a href="${href}">
-            <img src="${imgSrc}" class="thumbnail" />
+            <img src="${lowImgSrc}" data-src="${highImgSrc}" class="thumbnail lazy-photo" loading="lazy" />
           </a>
         </div>
         <div class="list-page-content">
@@ -677,7 +743,7 @@ document.addEventListener("DOMContentLoaded", () => {
             ${fm.downloadLinks && fm.downloadLinks.length ? '<img src="/UI/Emojis/inbox.svg" class="emoji">' : ""}
           </a>
           <div class="list-page-date">
-            ${startDate} - ${endDate}
+            ${startDate}${endDate && endDate !== "?" ? " - " + endDate : ""}
           </div>
         </div>
       </div>
@@ -685,20 +751,43 @@ document.addEventListener("DOMContentLoaded", () => {
     return wrapper;
   }
 
-  function formatDate(date) {
-    if (!date || date === "0000-00-00") return "?";
-    const parts = (date || "").split("-");
-    if (parts.length !== 3) return date;
-    const year = parts[0] === "0000" ? "?" : parts[0];
-    const monthNum = Number(parts[1]);
-    const dayNum = Number(parts[2]);
-    const months = ["","Jan.","Feb.","Mar.","Apr.","May","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
-    let monthStr = months[monthNum] || "";
-    let dayStr = dayNum ? `${dayNum}` : "";
-    if (!monthStr && !dayStr) return year;
-    if (monthStr && !dayStr) return `${monthStr} ${year}`;
-    if (!monthStr && dayStr) return `${dayStr} ${year}`;
-    return `${monthStr} ${dayStr}, ${year}`;
+  function formatDate(dateStr) {
+    if (!dateStr || dateStr === "0000-00-00") return "?";
+    if (dateStr === "") return "";
+    
+    const parts = (dateStr.split(" ")[0] || "").split("-");
+    if (parts.length !== 3) return dateStr;
+    
+    const year = parts[0] || "0000";
+    const month = parts[1] || "00";
+    const day = parts[2] || "00";
+    
+    const months = { 
+      "00": "", "01":"Jan. ", "02":"Feb. ", "03":"Mar. ", "04":"Apr. ", 
+      "05":"May ", "06":"Jun. ", "07":"Jul. ", "08":"Aug. ", "09":"Sep. ", 
+      "10":"Oct. ", "11":"Nov. ", "12":"Dec.",
+      "0": "", "1":"Jan. ", "2":"Feb. ", "3":"Mar. ", "4":"Apr. ", 
+      "5":"May ", "6":"Jun. ", "7":"Jul. ", "8":"Aug. ", "9":"Sep. "
+    };
+    
+    const days = { 
+      "00":"", "01":"1, ", "02":"2, ", "03":"3, ", "04":"4, ", "05":"5, ", 
+      "06":"6, ", "07":"7, ", "08":"8, ", "09":"9, ", "10":"10, ", 
+      "11":"11, ", "12":"12, ", "13":"13, ", "14":"14, ", "15":"15, ", 
+      "16":"16, ", "17":"17, ", "18":"18, ", "19":"19, ", "20":"20, ", 
+      "21":"21, ", "22":"22, ", "23":"23, ", "24":"24, ", "25":"25, ", 
+      "26":"26, ", "27":"27, ", "28":"28, ", "29":"29, ", "30":"30, ", 
+      "31":"31, ",
+      "0":"", "1":"1, ", "2":"2, ", "3":"3, ", "4":"4, ", "5":"5, ", 
+      "6":"6, ", "7":"7, ", "8":"8, ", "9":"9, "
+    };
+    
+    const monthName = months[month] || "";
+    const dayName = days[day] || "";
+    
+    // Build date string
+    const datePart = monthName + dayName;
+    return datePart + (year !== "0000" ? year : "");
   }
 
   function renderPhoto(doc) {
@@ -962,6 +1051,11 @@ document.addEventListener("DOMContentLoaded", () => {
       const totalCount = arr.length;
       const shownCount = limited.length;
       attachSentinel(container, totalCount, shownCount);
+      
+      // Trigger lazy loading for newly rendered images
+      if (typeof initLazyPhotos === 'function') {
+        initLazyPhotos(container);
+      }
     }
 
     clearAndRender(listArticles, articles, renderArticle);
