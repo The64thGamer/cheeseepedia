@@ -6,6 +6,7 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "cecroadshowjan001cd.avif"
 startDate = "2001-01-00"
 endDate = "2001-03-00"
+mediaDuration = "18:57"
 contributors = ["Ceclife13", "CyberSnout"]
 +++
 **CEC Roadshow January 2001** was a Road Show CD released alongside the {{< wiki-link "January 2001 Show" >}} which featured four {{< wiki-link "Road Shows" >}}.
