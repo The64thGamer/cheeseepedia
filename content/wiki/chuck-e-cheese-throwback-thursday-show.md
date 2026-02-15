@@ -21,7 +21,7 @@ showtapeFormats = ["Media Navori"]
 2. **Segment 1**
     1.  'Chuck E.'s Place'
 3. **Intermission 2**
-    1.  'The Lonesome Cowboy'
+    1.  'Singing Cowboy'
     2.  CEC TV ID - 'Cows'
 4. **Segment 2**
     1.  'Jump'
@@ -42,12 +42,12 @@ showtapeFormats = ["Media Navori"]
     1.  'That's A Deal'
 11. **Intermission 6**
     1.  'Super Jasper - Resist the Temptation'
-    2.  Chuck E. Sunrise
+    2.  CEC TV ID - 'Sunrise'
 12. **Segment 6**
     1.  'What Up'
 13. **Intermission 7**
     1.  'Monkey Ninjas - Episode 2'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
 14. **Segment 7**
     1.  'I Love the Sunshine'
 15. **Intermission 8**
@@ -62,7 +62,7 @@ showtapeFormats = ["Media Navori"]
     1.  'Opposite Day'
 19. **Intermission 10**
     1.  'Super Jasper - Waterfall'
-    2.  CEC TV ID - 'Cell Tower'
+    2.  CEC TV ID - 'Radio Towers'
 20. **Segment 10**
     1.  'Colors'
 21. **Intermission 11**
@@ -82,7 +82,7 @@ showtapeFormats = ["Media Navori"]
     1.  'Chuck E.'s Place'
     2.  'Up On The Housetop'   
 3. **Intermission 2**
-    1.  'The Lonesome Cowboy'
+    1.  'Singing Cowboy'
     2.  'Amphicar'
     3.  Super Jasper - 'Canine Snowball'
     4.  CEC TV ID - 'Cows'
@@ -112,12 +112,12 @@ showtapeFormats = ["Media Navori"]
     1.  Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
     2. 'Ken Chuck E. Derby 1'
     3.  'Super Jasper - 'Resist the Temptation'
-    4.  Chuck E. Sunrise
+    4.  CEC TV ID - 'Sunrise'
 12. **Segment 6**
     1.  'What Up'
 13. **Intermission 7**
     1.  'Monkey Ninjas - Episode 2'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
 14. **Segment 7**
     1.  'I Love the Sunshine'
 15. **Intermission 8**
@@ -132,7 +132,7 @@ showtapeFormats = ["Media Navori"]
     1.  'Opposite Day'
 19. **Intermission 10**
     1.  'Super Jasper - Waterfall'
-    2.  CEC TV ID - 'Cell Tower'
+    2.  CEC TV ID - 'Radio Towers'
 20. **Segment 10**
     1.  'Colors'
 21. **Intermission 11**
@@ -150,7 +150,7 @@ showtapeFormats = ["Media Navori"]
 2. **Segment 1**
     1.  'Chuck E.'s Place'
 3. **Intermission 2**
-    1.  'The Lonesome Cowboy'
+    1.  'Singing Cowboy'
     2.  CEC TV ID - 'Cows'
 4. **Segment 2**
     1.  'Jump'
@@ -171,12 +171,12 @@ showtapeFormats = ["Media Navori"]
     1.  'That's A Deal'
 11. **Intermission 6**
     1.  'Super Jasper - Resist the Temptation'
-    2.  Chuck E. Sunrise
+    2.  CEC TV ID - 'Sunrise'
 12. **Segment 6**
     1.  'What Up'
 13. **Intermission 7**
     1.  'Monkey Ninjas - Episode 2'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
 14. **Segment 7**
     1.  'I Love the Sunshine'
 15. **Intermission 8**
@@ -191,7 +191,7 @@ showtapeFormats = ["Media Navori"]
     1.  'Opposite Day'
 19. **Intermission 10**
     1.  'Super Jasper - Waterfall'
-    2.  CEC TV ID - 'Cell Tower'
+    2.  CEC TV ID - 'Radio Towers'
 20. **Segment 10**
     1.  'Colors'
 21. **Intermission 11**
@@ -217,11 +217,12 @@ showtapeFormats = ["Media Navori"]
     3.  CEC TV ID - 'Couch'
     4.  'Ratings'
     5.  'Drawing Chuck E.'
-    6.  CEC TV ID - 'Marx Bros'
+    6.  'Ken Chuck E. Derby 2'
+    7.  CEC TV ID - 'Marx Bros'
 5. **Segment 3**
     1.  'Chuck E.'s Place'
 6. **Intermission 4**
-   1.  'The Lonesome Cowboy'
+   1.  'Singing Cowboy'
     2.  CEC TV ID - 'Cows'
 7. **Segment 4**
     1.  'Jump'
@@ -242,12 +243,12 @@ showtapeFormats = ["Media Navori"]
     1.  'That's A Deal'
 14. **Intermission 8**
     1.  'Super Jasper - Resist the Temptation'
-    2.  Chuck E. Sunrise
+    2.  CEC TV ID - 'Sunrise'
 15. **Segment 8**
     1.  'What Up'
 16. **Intermission 9**
     1.  'Monkey Ninjas - Episode 2'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
 17. **Segment 10**
     1.  'I Love the Sunshine'
 18. **Intermission 10**
@@ -262,7 +263,7 @@ showtapeFormats = ["Media Navori"]
     1.  'Opposite Day'
 22. **Intermission 12**
     1.  'Super Jasper - Waterfall'
-    2.  CEC TV ID - 'Cell Tower'
+    2.  CEC TV ID - 'Radio Towers'
 23. **Segment 13**
     1.  'Colors'
 24. **Intermission 14**
@@ -280,7 +281,7 @@ showtapeFormats = ["Media Navori"]
 2. **Segment 1**
     1.  'Chuck E.'s Place'
 3. **Intermission 2**
-    1.  'The Lonesome Cowboy'
+    1.  'Singing Cowboy'
     2.  CEC TV ID - 'Cows'
 4. **Segment 2**
     1.  'Jump'
@@ -301,12 +302,12 @@ showtapeFormats = ["Media Navori"]
     1.  'That's A Deal'
 11. **Intermission 6**
     1.  'Super Jasper - Resist the Temptation'
-    2.  Chuck E. Sunrise
+    2.  CEC TV ID - 'Sunrise'
 12. **Segment 6**
     1.  'What Up'
 13. **Intermission 7**
     1.  'Monkey Ninjas - Episode 2'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
 14. **Segment 7**
     1.  'I Love the Sunshine'
 15. **Intermission 8**
@@ -321,7 +322,7 @@ showtapeFormats = ["Media Navori"]
     1.  'Opposite Day'
 19. **Intermission 10**
     1.  'Super Jasper - Waterfall'
-    2.  CEC TV ID - 'Cell Tower'
+    2.  CEC TV ID - 'Radio Towers'
 20. **Segment 10**
     1.  'Colors'
 21. **Intermission 11**
@@ -330,8 +331,8 @@ showtapeFormats = ["Media Navori"]
 22. **Segment 11**
     1.  'No Other Place'
 
-## Lives:
-NOTE: The standard live shows apart of the main show are still avaliable at Nanuet, NY. 
+## Live Shows:
+NOTE: The standard live shows apart of the main show are still available at Nanuet, NY. 
 - Birthday Star 01
 - Havin' A Party 01
 - If You're Happy and You Know It
@@ -347,5 +348,5 @@ NOTE: The standard live shows apart of the main show are still avaliable at Nanu
 - *Jolly Old Saint Nicholas*, *We Wish You A Merry Christmas*, and *Up On The Housetop* is from {{< wiki-link "Holiday 2002" >}}, *Dreidel Song* is from {{< wiki-link "Chuck E's Holiday Party 1999" >}}
 - *Chuck E.'s Place* is from the {{< wiki-link "January 2004 Show" >}}, *Jump* is from the {{< wiki-link "September 2000 Show" >}}, *The Muffin Man* is from {{< wiki-link "Just for Kids Show 2000" >}}, *Humpty Dumpty* is from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}, *That's A Deal* is from the {{< wiki-link "April 2002 Show" >}}, *What Up* is from the {{< wiki-link "September 2004" >}}, *I Love the Sunshine* is from the {{< wiki-link "Summer 2007 Show" >}}, *CEC Chuck E. Cheese* is from the {{< wiki-link "April 2002 Show" >}}, *Opposite Day* and *Colors* are from the {{< wiki-link "CEC TV April 2005 Show" >}}, and *No Other Place* is from the {{< wiki-link "September 2000 Show" >}}.
 - The only 2010s-era song or segment featured in this show is the live show *Me & My Friends*.
-- Before {{< wiki-link "Birthday Star 01" >}}, Havin' A Party 01 and If You're Happy and You Know It, a portion of the Birthday Break from {{< wiki-link "January 2001 Show" >}} plays.
+- Before {{< wiki-link "Birthday Star 01" >}}, Havin' A Party 01, and If You're Happy and You Know It, a portion of the Birthday Break from {{< wiki-link "January 2001 Show" >}} plays.
 - Despite all of the songs being programmed in their respective shows, this show has no programming for Studio C, with the animatronic being set to random movements at all times.
