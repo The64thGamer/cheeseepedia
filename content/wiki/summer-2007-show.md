@@ -6,15 +6,14 @@ endDate = "2007-08-30"
 pageThumbnailFile = "FHNOL6LIzgB1eDf7kwjY.avif"
 contributors = ["The 64th Gamer", "Cyber Snout", "BurgersNuggs445", "RedaCEC", "Anonymous", "Cy's Junk at School", "Ceclife13"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/July%202007%20Studio%20C.iso"]
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist", "Sammy Davenport - Music Director", "Matt Daniel - Songwriter 'I Love The Sunshine'", "MPS Studios"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Voice of Jasper T. Jowls", "Earl Fisher|Voice of Pasqually The Chef", "Robert Gotcher|Director, Show Announcer", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist", "Sammy Davenport|Music Director", "Matt Daniel|Songwriter 'I Love The Sunshine'", "MPS Studios"]
 mediaDuration = "53:02"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/June%202007%203-Stage-001.iso|3-Stage DVD w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/July%202007%20Studio%20C.iso |Studio C DVD"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Summer 2007 Show** is the summer show released in July 2007, featuring 8 new songs.
-This show played from July - August 2007.
+**Summer 2007 Show** is a showtape released in July 2007 featuring eight songs themed to the summer.
 
 ## Show List:
 
@@ -52,22 +51,32 @@ This show played from July - August 2007.
     3.  Clifford
     4.  CEC TV ID - 'Sunrise'
 
+## Token Card Promos
+
+Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. It is unknown when they would play in the show.
+
+- Tube Explorer - 'Token Cards' (Here Right Now)
+- Tube Explorer - 'Chuck E-Tickets' (Here Right Now)
+
 ## Live Shows:
 
-- New Birthday
 - Birthday Star 2001
 - Spanish Birthday Star 2001
-- Chuck E. Says 2002
-- Chuck E.'s March 2001
-- Havin' A Party 2001
-- Chuck E. Swing
-- Chuck E. Shuffle 2006
-- Bingo
-- If You're Happy & You Know It
-- Jumpin'
+- New Birthday (Birthday 2002)
+- Chuck E. Shuffle
 - Old MacDonald
+- Jumpin'
+- Chuck E. Swing
+- Chuck E. March
+- BINGO
+- Chuck E. Says
+- Havin' A Party
+- Happy and You Know It
+- Go Santa Go (Studio C)
+- Birthday Star Extravaganza (3min) (Studio C)
+- Birthday Star Extravaganza (5min) (Studio C)
 
-**Birthday Break**: April 2005 logo with music set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: April 2007 logo with music set to a 1 or 2-minute countdown leading into the Birthday show.
 
 ## Production
 
@@ -75,7 +84,6 @@ This show played from July - August 2007.
 
 - Summertime is filmed at [NRH2O Family Water Park](https://www.nrh2o.com/)
 
-
 ## Trivia
-
-- Birthday Star Extravaganza 2007 is featured exclusively on Studio C discs and was re-edited since the April 2007 Show. Currently unknown if it was playable.
+- 'The Announcer' is reused from {{< wiki-link "Studio C Premiere" >}}, VeggieTales - 'The Pirates Who Don't Do Anything' is reused from {{< wiki-link "Just for Kids Show 2000" >}}, and Monkey Ninjas - 'Episode 4' is reused from {{< wiki-link "September 2003 Show" >}}.
+- Birthday Star Extravaganza 2007 is featured exclusively on Studio C discs. This show adds both a 5-minute and a 3-minute countdown.
