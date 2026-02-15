@@ -6,14 +6,14 @@ endDate = "2012-12-00"
 pageThumbnailFile = "2ZyYJUusi7Mjl5cJQZhl.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Bullseye123", "Anonymous", "Anonymous", "Princessof2007", "AstridMascotFan2005"]
 citations = ["https://archive.org/download/cyberamics_post_93_dvd_signals/September%202008%20CEC-Stage-005.ISO"]
+credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist", "Matt Daniel|VJ"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_dvd_signals/September%202008%20CEC-Stage-005.ISO|CEC-Stage DVD ISO w/ Signals"]
 mediaDuration = "1:01:11"
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-***Best of CEC TV 2008*** is a showtape released in September 2008 for Studio C, Cyberamics, and 3-Stage, which compiled various songs from previous showtapes. This show was able to be used as an emergency backup until December 2012.
-
+***Best of CEC TV 2008*** is a showtape released in September 2008 that compiled various songs and intermissions from previous showtapes. This show was able to be used as an emergency backup through December 2012.
 
 
 ## Show List
@@ -71,6 +71,10 @@ categories = ["Chuck E. Cheese's"]
     4.  Will Frye The Nutrition Guy
     5.  CEC TV ID - 'Singing Fish'
 
+## Token Card Promo
+
+Stores using Chuck E.'s Token Card would feature an exclusive promo intermission with Robert Gotcher and Ryan Hollingsworth promoting the token card and all new ways to save. It is unknown when it would play in the show.
+
 ## Live Shows
 
 -  2min BDAY
@@ -85,6 +89,9 @@ categories = ["Chuck E. Cheese's"]
 -  Chuck E. Says
 -  Old MacDonald
 -  Storytime With Chuck E.
+-  Chicken Dance Training (Studio C)
+-  Head, Shoulders, Knees, and Toes Training (Studio C)
+-  Birthday Extravaganza Training (Studio C)
 
 ### File Dates
 
@@ -92,6 +99,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Trivia
 
-- The VJ spots in this show feature Matt Daniel. The VJ spot in Segment 5 is interesting as 'Going On A Diet', a cut song from {{< wiki-link "September 2004" >}}, can be heard in the background.
+- 'Will Frye The Nutrition Guy' is reused from {{< wiki-link "Studio C Premiere" >}}, Super Jasper - 'Staring Contest' is reused from {{< wiki-link "April 1999" >}}, 'Go To Chuck E. Cheese' is reused from the {{< wiki-link "April 2002 Show" >}}, 'Chuck E.'s Place' and Monkey Ninjas - Episode 5 are reused from the {{< wiki-link "January 2004 Show" >}}, 'First Impression' and 'Just Being Me' are reused from the {{< wiki-link "Chuck E. Cheese April 2004 Show" >}}, 'What Up' is reused from {{< wiki-link "September 2004" >}}, 'Firehouse', 'Skateboarding', and 'Keep it Groovin'' are resued from the {{< wiki-link "January 2005 Show" >}}, 'Opposite Day' is reused from the {{< wiki-link "CEC TV April 2005 Show" >}}, Sing-along Guys - 'BINGO' is reused from the {{< wiki-link "January 2006 Show" >}}, and 'The Trashman' is reused from {{< wiki-link "January 2007" >}}.
+- The VJ spots in this show feature Matt Daniel. In Segment 5's VJ spot, 'Going On A Diet', a cut song from {{< wiki-link "September 2004" >}}, can be heard in the background.
 - Most of the songs in this show use single versions, which don't include the intro dialogue or applause sound effects from the original shows.
-- A Generic Version of Best of 2008 with a different lineup is rumoured to exist; presumably, it is the same show with the adverts removed.
+- A Generic Version of this show with a different lineup is rumoured to exist; presumably, it is the same show with the adverts removed.
