@@ -16,7 +16,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Show List
 
-1.   **Segment 1**
+1.  **Segment 1**
     1.  ['Party Rock Anthem'](https://en.wikipedia.org/wiki/Party_Rock_Anthem)
     2.  ['The Final Countdown'](https://en.wikipedia.org/wiki/The_Final_Countdown_(song))
 2.  **Intermission 1**
@@ -33,7 +33,7 @@ categories = ["Chuck E. Cheese's"]
     2.  The Dirty Sock Funtime Band - 'Love It'
     3.  Chillout - 'Flying'
     4.  CEC TV ID - 'Astronauts'
-5.   **Segment 3**
+5. **Segment 3**
     1.  ['Love Story'](https://en.wikipedia.org/wiki/Love_Story_(Taylor_Swift_song))
     2.  'Pizza Oven' (Parody of ['Evil Woman'](https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song)))
 6.  **Intermission 3**
