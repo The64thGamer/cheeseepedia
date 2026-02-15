@@ -6,7 +6,7 @@ endDate = "2011-11-24"
 pageThumbnailFile = "YP9rKr5PW1SSLfTxHKsI.avif"
 contributors = ["The 64th Gamer", "Cyber Snout", "John95", "Anonymous", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=XN6-ayiwhPM"]
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Voice of Jasper T. Jowls, Show Announcer", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator", "Deva George - Animator", "Logan 'Robot' Gladden - Little Pasqually"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Earl Fisher|Voice of Pasqually The Chef", "Robert Gotcher|Director, Voice of Jasper T. Jowls, Show Announcer", "Michael Hill|Studio Coordinator", "Matt Daniel|Production Coordinator", "Deva George|Animator", "Logan 'Robot' Gladden|Little Pasqually"]
 mediaDuration = "1:21:47"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_dvd_signals/September%202011%20CEC-Stage-007.ISO|CEC-Stage DVD ISO w/ Signals", "https://archive.org/download/3stage_dvd_signals/September%202011%203-Stage-003.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/September%202011%20Studio%20C.iso|Studio C DVD ISO"]
