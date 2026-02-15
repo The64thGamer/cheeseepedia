@@ -6,7 +6,7 @@ endDate = "1999-12-00"
 pageThumbnailFile = "4IoBenMsYGU9fgFHv2iq.avif"
 contributors = ["Ceclife13", "The 64th Gamer", "Cyber Snout", "MultiMonorail"]
 citations = ["https://youtu.be/5mqJMsr_PLU?t=6418"]
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper, Betty, Mike Manly", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator", "Lynne Moon - Props Person"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch, Show Announcer", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper, Betty, Mike Manly", "Brian Hagan|Studio Manager", "Robert Gotcher|Production Coordinator", "Brent Gray|Studio Coordinator", "Lynne Moon|Props Person"]
 mediaDuration = "48:32"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/December%201999%20Studio%20C.ISO|Studio C DVD ISO"]
