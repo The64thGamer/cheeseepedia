@@ -6,7 +6,7 @@ endDate = "2012-12-00"
 pageThumbnailFile = "yiyeZ9uOGZM5QAbMVtA8.avif"
 contributors = ["The 64th Gamer", "Cyber Snout", "Ceclife13", "Anonymous", "MultiMonorail"]
 citations = ["http://showbizpizza.com/info/documents/cec/cec_dept18-2012-12.pdf"]
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator, Show Announcer", "Robert Gotcher - Director, Voice of Jasper T. Jowls, Show Announcer (Unused version only)"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Voice of Jasper T. Jowls", "Earl Fisher|Voice of Pasqually The Chef", "Michael Hill|Studio Coordinator", "Matt Daniel|Production Coordinator, Show Announcer", "Robert Gotcher|Director, Voice of Jasper T. Jowls, Show Announcer (Unused Version)"]
 mediaDuration = "1:18:41"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/compress/january-show-2012-unused|Unused Original Audio", "https://archive.org/download/3stage_dvd_signals/January%202012%203-Stage-004.iso|3-Stage DVD ISO w/ Signals"]
@@ -37,7 +37,7 @@ This was created to play from January 1, 2012 - March 31, 2012, though was valid
     3.  Super Jasper - 'Resist The Tempation'
     4.  Chillout - 'Don't Let Your Feet Touch Ground' Footage
 5.  **Segment 3**
-    1.  'I Want My Chuck E. Cheese'
+    1.  'I Want My Chuck E. Cheese' (parody of ['Money For Nothing'](https://en.wikipedia.org/wiki/Money_for_Nothing_(song)))
     2.  'Row Your Boat'
 6.  **Intermission 3**
     1.  CEC TV ID - 'Pasta Chef'
@@ -45,8 +45,8 @@ This was created to play from January 1, 2012 - March 31, 2012, though was valid
     3.  WFW Babysitter
     4.  Chillout - 'Hip Mouse' Footage
 7.  **Segment 4**
-    1.  'I Don't Wanna Work'
-    2.  'Disco Chuck'
+    1.  'I Don't Wanna Work' (parody of ['Can't Get Enough Of You Baby'](https://en.wikipedia.org/wiki/Can%27t_Get_Enough_of_You_Baby))
+    2.  'Disco Chuck' (parody of ['Disco Duck'](https://en.wikipedia.org/wiki/Disco_Duck))
 8.  **Intermission 4**
     1.  CEC TV ID - 'Sports'
     2.  Pasqually's Polka Minute
