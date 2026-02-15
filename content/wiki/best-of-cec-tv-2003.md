@@ -6,6 +6,7 @@ endDate = "2008-08-00"
 pageThumbnailFile = "JTW1kI4Dzyl5h_Pgsu0B.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "John95", "Cyber Snout", "MasterMike"]
 citations = []
+credits = ["Jeremy Blaido|Director", "Robert Gotcher|Production Manager", "Matt Daniel|Production Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 mediaDuration = "1:00:09"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/January%202003%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals"]
