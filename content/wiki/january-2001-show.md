@@ -5,6 +5,7 @@ startDate = "2001-01-00"
 endDate = "2001-03-00"
 pageThumbnailFile = "MmPRs3ORygD_1csev3_k.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Tux Chuck"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Betty, Voiceover (Wacky Pirates in the Outfield)", "Robert Gotcher|Production Coordinator", "Brian Hagan|Studio Manager", "Brent Gray|Studio Coordinator"]
 mediaDuration = "48:41"
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
