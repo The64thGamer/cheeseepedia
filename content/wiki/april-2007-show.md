@@ -6,7 +6,7 @@ endDate = "2007-06-30"
 pageThumbnailFile = "IcvRObASccnL7qxSIw4I.avif"
 contributors = ["The 64th Gamer", "BurgersNuggs445", "RedaCEC", "Anonymous", "Ceclife13"]
 citations = ["https://showbizpizza.com/info/documents/cec/cec_focus-2007-01.pdf"]
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls, Show Announcer (Segment 1)", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer (Segment 4)", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist", "Sammy Davenport - Music Director", "Deva George - Animator", "Matt Daniel - Scriptwriter"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Voice of Jasper T. Jowls, Show Announcer (Segment 1)", "Earl Fisher|Voice of Pasqually The Chef", "Robert Gotcher|Director, Show Announcer (Segment 4)", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist", "Sammy Davenport|Music Director", "Deva George|Animator", "Matt Daniel|Scriptwriter"]
 mediaDuration = "1:07:13"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/April%202007%203-stage-006.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/April%202007%20Studio%20C.iso|Studio C DVD ISO"]
@@ -80,8 +80,10 @@ Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. 
 - Chuck E. Says
 - Havin' A Party
 - Happy and You Know It
-- Go Santa Go
-- Birthday Star Extravaganza 2007
+- Go Santa Go (Studio C)
+- Birthday Star Extravaganza 2007 (Studio C)
+
+**Birthday Break**: April 2007 logo with music set to a 1 or 2-minute countdown leading into the Birthday show.
 
 ## Production
 
