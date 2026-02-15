@@ -5,6 +5,7 @@ startDate = "2000-04-00"
 endDate = "2000-06-00"
 pageThumbnailFile = "aefaRZPxDztOsnfqtfGt.avif"
 contributors = ["The 64th Gamer", "Cyber Snout", "BurgersNuggs445", "Anonymous", "Cheeseclassic", "Jaxonia", "Ceclife13"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician", "Karlisa Burleson|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch, Show Announcer", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Will Frye The Nutrition Guy, Bystander, Hillbilly", "Robert Gotcher|Production Coordinator, Hillbilly", "Brian Hagan|Studio Manager, Paparazzi", "Brent Gray|Studio Coordinator"]
 mediaDuration = "1:18:18"
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
