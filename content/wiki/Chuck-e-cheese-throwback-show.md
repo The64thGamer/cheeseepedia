@@ -5,16 +5,16 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2025-08-28"
 endDate = "2026-01-06"
-contributors = ["Cyber Snout"]
+contributors = ["Cyber Snout", "Ceclife13"]
 citations = []
 pageThumbnailFile = "awtPcwDXLQnV4zLqi8oZ.avif"
 showtapeFormats = ["Media Navori"]
 +++
-***Chuck E. Cheese Throwback Show*** was released on August 28, 2025, to play exclusively at {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >}} on January 6, 2026 the show would end with the closing of the only location this played at. 
+***Chuck E. Cheese Throwback Show*** was released on August 28, 2025, to play exclusively at {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >}} This show would stop playing on January 6, 2026, alongside the closing of the only location this played at. 
 
 ## Show List 01/04 Update:
 1. **Segment 1**
-    1.  'Kids Segment 2'
+    1.  'Kiddie Songs 2'
     2.  'Fractured Classics'
     3.  'Concept Unification Premiere Demo' (Together We've Got It + Dialogue)
     4.  'Future Segment 1'
@@ -27,7 +27,7 @@ showtapeFormats = ["Media Navori"]
 3. **Segment 2**
     1.  'Chuck E.'s Place'
 4. **Intermission 2**
-    1.  'The Lonesome Cowboy'
+    1.  'Singing Cowboy'
     2.  CEC TV ID - 'Cows'
 5. **Segment 3**
     1.  'Jump'
@@ -48,12 +48,12 @@ showtapeFormats = ["Media Navori"]
     1.  'That's A Deal'
 12. **Intermission 6**
     1.  'Super Jasper - Resist the Temptation'
-    2.  Chuck E. Sunrise
+    2.  CEC TV ID - 'Sunrise'
 13. **Segment 7**
     1.  'What Up'
 14. **Intermission 7**
     1.  'Monkey Ninjas - Episode 2'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
 15. **Segment 8**
     1.  'I Love the Sunshine'
 16. **Intermission 8**
@@ -68,7 +68,7 @@ showtapeFormats = ["Media Navori"]
     1.  'Opposite Day'
 20. **Intermission 10**
     1.  'Super Jasper - Waterfall'
-    2.  CEC TV ID - 'Cell Tower'
+    2.  CEC TV ID - 'Radio Towers'
 21. **Segment 11**
     1.  'Colors'
 22. **Intermission 11**
@@ -82,19 +82,19 @@ showtapeFormats = ["Media Navori"]
 1. **Segment 1**
     1.  'Jolly Old Saint Nicholas'
     2.  'Fractured Classics'
-    3.  'Kids Segment 2'
+    3.  'Kiddie Songs 2'
     4.  'We Wish You A Merry Christmas'
     5.  'Train Ride'
     6.  'Concept Unification Premiere Demo' (Together We've Got It + Dialogue)
     7.  'Dreidel Song'
-    8.   CEC TV ID - 'Classic'
+    8.   CEC TV Classic ID
     9.  'Future Segment 1'
     10.  CEC TV ID - 'Marx Bros'
 2. **Segment 1**
     1.  'Chuck E.'s Place'
     2.  'Up On The Housetop'   
 3. **Intermission 2**
-    1.  'The Lonesome Cowboy'
+    1.  'Singing Cowboy'
     2.  'Amphicar'
     3.  Super Jasper - 'Canine Snowball'
     4.  CEC TV ID - 'Cows'
@@ -124,13 +124,13 @@ showtapeFormats = ["Media Navori"]
     1.  Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
     2. 'Ken Chuck E. Derby 1'
     3.  'Super Jasper - 'Resist the Temptation'
-    4.  Chuck E. Sunrise
+    4.  CEC TV ID - 'Sunrise'
 13. **Segment 7**
     1.  'What Up'
 14. **Intermission 7**
     1.  'Ken Chuck E. Derby 2'
     2.  'Monkey Ninjas - Episode 2'
-    3.  CEC TV ID - 'Rocketship'
+    3.  CEC TV ID - 'Rocket'
 15. **Segment 8**
     1.  'I Love the Sunshine'
 16. **Intermission 8**
@@ -145,7 +145,7 @@ showtapeFormats = ["Media Navori"]
     1.  'Opposite Day'
 20. **Intermission 10**
     1.  'Super Jasper - Waterfall'
-    2.  CEC TV ID - 'Cell Tower'
+    2.  CEC TV ID - 'Radio Towers'
 21. **Segment 11**
     1.  'Colors'
 22. **Intermission 11**
@@ -156,10 +156,10 @@ showtapeFormats = ["Media Navori"]
 
 ## Show List:
 1. **Segment 1**
-    1.  'Kids Segment 2'
+    1.  'Kiddie Songs 2'
     2.  'Fractured Classics'
     3.  'Concept Unification Premiere Demo' (Together We've Got It + Dialogue)
-    4.  'Future Segment 1'
+    4.  Future Segment 1 
     5.  'Train Ride'
 2. **Intermission 1**
     1.  CEC TV ID - 'Couch'
@@ -169,7 +169,7 @@ showtapeFormats = ["Media Navori"]
 3. **Segment 2**
     1.  'Chuck E.'s Place'
 4. **Intermission 2**
-    1.  'The Lonesome Cowboy'
+    1.  'Singing Cowboy'
     2.  CEC TV ID - 'Cows'
 5. **Segment 3**
     1.  'Jump'
@@ -190,12 +190,12 @@ showtapeFormats = ["Media Navori"]
     1.  'That's A Deal'
 12. **Intermission 6**
     1.  'Super Jasper - Resist the Temptation'
-    2.  Chuck E. Sunrise
+    2.  CEC TV ID - 'Sunrise'
 13. **Segment 7**
     1.  'What Up'
 14. **Intermission 7**
     1.  'Monkey Ninjas - Episode 2'
-    2.  CEC TV ID - 'Rocketship'
+    2.  CEC TV ID - 'Rocket'
 15. **Segment 8**
     1.  'I Love the Sunshine'
 16. **Intermission 8**
@@ -210,7 +210,7 @@ showtapeFormats = ["Media Navori"]
     1.  'Opposite Day'
 20. **Intermission 10**
     1.  'Super Jasper - Waterfall'
-    2.  CEC TV ID - 'Cell Tower'
+    2.  CEC TV ID - 'Radio Towers'
 21. **Segment 11**
     1.  'Colors'
 22. **Intermission 11**
