@@ -6,6 +6,7 @@ endDate = "2008-08-00"
 pageThumbnailFile = "FHNOL6LIzgB1eDf7kwjY.avif"
 contributors = ["The 64th Gamer", "Cyber Snout", "Anonymous", "Dame", "AstridMascotFan2005", "Ceclife13"]
 citations = ["https://showbizpizza.com/info/documents/cec/cec_dept18-2008-07.pdf"]
+credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist"]
 showtapeFormats = ["3-Stage DVD", "Cyberamics DVD", "Studio C 3x DVD + Floppy"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
