@@ -1,15 +1,150 @@
 /* =========================
-   VARIABLES
+   VARIABLES & THEMES
    ========================= */
 :root {
+  /* Standard theme (default) */
   --blue: #233355;
   --aqua: #39A481;
   --white: #dbd1b1;
   --deep-white: #62777a;
   --yellow: #e0961f;
   --orange: #D44A02;
+  --red: #D44A02;
   --deep-orange: #993b08;
   --brown: #2c2422;
+  --font-body: "Aleo";
+  --font-display: "RockoFLF";
+}
+
+/* Dark theme */
+[data-theme="dark"] {
+  --blue: #000c26;
+  --aqua: #24795D;
+  --white: #ccc5ab;
+  --deep-white: #43666c;
+  --yellow: #ac7318;
+  --orange: #8C3000;
+  --red: #8C3000;
+  --deep-orange: #000000;
+  --brown: #000000;
+}
+
+/* Light theme */
+[data-theme="light"] {
+  --blue: #fff;
+  --aqua: #3b6bbf;
+  --white: #2f2e2a;
+  --deep-white: #b9b9b9;
+  --yellow: #959595;
+  --orange: #646464;
+  --red: #646464;
+  --deep-orange: #fff;
+  --brown: #c4c4c4;
+}
+
+/* Classic theme */
+[data-theme="classic"] {
+  --blue: #1e2c4c;
+  --aqua: #d73333;
+  --white: #FFF;
+  --deep-white: #62777a;
+  --yellow: #4070D0;
+  --orange: #121d34;
+  --red: #d73333;
+  --deep-orange: #1e2c4c;
+  --brown: #121d34;
+}
+
+/* ShowBiz theme */
+[data-theme="showbiz"] {
+  --blue: #201f1f;
+  --aqua: #A66332;
+  --white: #dbd1b1;
+  --deep-white: #716666;
+  --yellow: #d2c72a;
+  --orange: #d29400;
+  --red: #df221c;
+  --deep-orange: #df221c;
+  --brown: #171515;
+}
+
+/* FNaF theme */
+[data-theme="fnaf"] {
+  --blue: #101010ff;
+  --aqua: #acce18ff;
+  --white: #c6c6c6;
+  --deep-white: #5b5b5bff;
+  --yellow: #4a4a4aff;
+  --orange: #2a2a2aff;
+  --red: #cd0000ff;
+  --deep-orange: #000;
+  --brown: #000;
+  --font-display: "Stalker";
+}
+
+/* Italy/Pasqually theme */
+[data-theme="pasqually"] {
+  --blue: #6D1A1F;
+  --aqua: #009047;
+  --white: #d9d7d1;
+  --deep-white: #9b6767;
+  --yellow: #d9d7d1;
+  --orange: #CD2F3A;
+  --red: #CD2F3A;
+  --deep-orange: #009047;
+  --brown: #2f1515;
+}
+
+/* Winter theme */
+[data-theme="winter"] {
+  --blue: #1c3d4d;
+  --aqua: #47AEB3;
+  --white: #ccc;
+  --deep-white: #47757b;
+  --yellow: #3c8636;
+  --orange: #376A3C;
+  --red: #ce293aff;
+  --deep-orange: #4a7e86;
+  --brown: #1a1e37;
+}
+
+/* Halloween theme */
+[data-theme="halloween"] {
+  --blue: #0e0611;
+  --aqua: #CE2929;
+  --white: #f2de73;
+  --deep-white: #795677;
+  --yellow: #9f5620;
+  --orange: #DF7426;
+  --red: #a20606ff;
+  --deep-orange: #24172f;
+  --brown: #220902;
+}
+
+/* Pride theme */
+[data-theme="pride"] {
+  --blue: #7d0c4c;
+  --aqua: #ff7fc4;
+  --white: #dbd1b1;
+  --deep-white: #da62a3;
+  --yellow: #e38d59;
+  --orange: #de2d1e;
+  --red: #de2d1e;
+  --deep-orange: #b33227;
+  --brown: #2c2422;
+}
+
+/* Anniversary theme */
+[data-theme="anniversary"] {
+  --blue: #404040;
+  --aqua: #888;
+  --white: #d9d9d9;
+  --deep-white: #737373;
+  --yellow: #a2a2a2;
+  --orange: #686868;
+  --red: #464646ff;
+  --deep-orange: #2f2f2f;
+  --brown: #222;
 }
 
 /* =========================
@@ -24,6 +159,12 @@
   font-family: "RockoFLF";
   src: url('/Fonts/RockoFLF-Bold.ttf') format('truetype');
 }
+
+@font-face {
+  font-family: "Stalker";
+  src: url('/Fonts/stalker1.ttf') format('truetype');
+}
+
 
 /* =========================
    HIDDEN / UTILITY SELECTORS
@@ -62,7 +203,7 @@ html {
 body {
   color: var(--white);
   background-color: var(--blue);
-  font-family: "Aleo";
+  font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.5;
   margin: 0 auto;
@@ -86,6 +227,18 @@ body {
 
   text-wrap: pretty;
   word-wrap: anywhere;
+}
+
+[data-theme="fnaf"] body {
+  outline-style: none;
+  box-shadow: none;
+  border-width: 0.5rem;
+  border-radius: 0rem;
+  border-color: var(--white);
+}
+
+[data-width="wide"] body {
+  max-width: 80rem;
 }
 
 a {
@@ -140,7 +293,7 @@ td {
    TYPOGRAPHY
    ========================= */
 h1 {
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   letter-spacing: .2rem;
   font-size: 2rem;
   color: var(--yellow);
@@ -153,7 +306,7 @@ h2 {
 }
 
 .linkerror {
-  color: var(--orange);
+  color: var(--red);
 }
 
 .transcription-content strong,
@@ -173,7 +326,7 @@ h2 {
    ========================= */
 select {
   margin: 0.5rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   letter-spacing: .1rem;
   color: var(--white);
   background-color: var(--orange);
@@ -204,12 +357,19 @@ select:hover {
   background-color: var(--yellow);
 }
 
+[data-theme="fnaf"] select{
+  box-shadow: none;
+  outline-style: none;
+  border-radius: 0rem;
+  border-color: var(--white);
+}
+
 /* =========================
    BUTTONS & INTERACTIVE
    ========================= */
 .button,
 .blank-button {
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   letter-spacing: .1rem;
   color: var(--white);
   font-size: 1rem;
@@ -260,7 +420,7 @@ select:hover {
   padding-right: 0;
   font-size: 1rem;
   letter-spacing: .1rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   flex: 1;
   margin-left: 0.25rem;
   margin-right: 0.25rem;
@@ -274,6 +434,10 @@ select:hover {
 
 .button-dropdown:hover {
   background-color: var(--aqua);
+}
+
+[data-theme="fnaf"] .button-dropdown:hover {
+  color: var(--brown);
 }
 
 .article-button,
@@ -290,7 +454,7 @@ select:hover {
   padding-bottom: 0.5rem;
   font-size: 1rem;
   letter-spacing: .1rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   flex: 1;
   margin-left: 0.25rem;
   margin-right: 0.25rem;
@@ -318,6 +482,11 @@ select:hover {
   border-style: solid;
   border-width: .25rem;
   box-shadow: 0 0 0 0.25rem var(--orange);
+}
+
+[data-theme="fnaf"] .alt-list-page-block,
+.alt-list-page-empty-block {
+  border-radius: 0rem;
 }
 
 .alt-list-page-block:hover,
@@ -457,7 +626,7 @@ select:hover {
   align-content: space-between;
   color: var(--yellow);
   background-color: var(--blue);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   font-size: .9rem;
   line-height: 1.5;
   max-width: 100%;
@@ -495,7 +664,7 @@ select:hover {
   align-content: space-between;
   color: var(--yellow);
   background-color: var(--blue);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   font-size: 1rem;
   line-height: 1.5;
   max-width: 100%;
@@ -513,7 +682,7 @@ select:hover {
 
 .list-review-body {
   color: var(--white);
-  font-family: "Aleo";
+  font-family: var(--font-body);
   line-height: 1.5;
   text-wrap: pretty;
   word-wrap: anywhere;
@@ -552,20 +721,20 @@ select:hover {
 }
 
 .list-page-video-content {
-  font-family: "Aleo";
+  font-family: var(--font-body);
   line-height: 1.5;
 }
 
 .list-page-date {
   color: var(--yellow);
   font-size: 1rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .list-review-date {
   color: var(--deep-white);
   font-size: 1rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .list-review-date a {
@@ -911,7 +1080,7 @@ img.remoji:hover {
 .tab-button {
   background: none;
   border: none;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   font-size: 1rem;
   letter-spacing: .1rem;
   color: var(--white);
@@ -1006,7 +1175,7 @@ img.remoji:hover {
   text-align: center;
   margin: 0;
   font-size: 1.25rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   letter-spacing: .1rem;
   color: var(--white);
 }
@@ -1119,7 +1288,7 @@ img.remoji:hover {
   border: 0.25rem solid var(--brown);
   border-radius: 0.75rem;
   cursor: pointer;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .add-images-button:hover {
@@ -1178,7 +1347,7 @@ img.remoji:hover {
   cursor: pointer;
   background-color: var(--deep-white);
   color: var(--white);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .step button:hover {
@@ -1199,7 +1368,7 @@ img.remoji:hover {
   padding: 0.625rem;
   border: 0.0625rem solid var(--brown);
   border-radius: 0.375rem;
-  font-family: "Aleo";
+  font-family: var(--font-body);
 }
 
 .date-inputs {
@@ -1264,7 +1433,7 @@ img.remoji:hover {
   color: var(--white);
   text-decoration: none;
   border-radius: 0.375rem;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .download-link:hover {
@@ -1280,7 +1449,7 @@ img.remoji:hover {
   text-decoration: none;
   border-radius: 0.375rem;
   font-weight: bold;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .github-link:hover {
@@ -1321,10 +1490,6 @@ img.remoji:hover {
   background-size: 100%;
 }
 
-.contributor-btn{
-   text-shadow: 0rem 0rem .3rem rgba(0, 0, 0, 0.85);
-}
-
 .contributor-avatar {
   width: 1.5rem;
   height: 1.5rem;
@@ -1341,7 +1506,7 @@ img.remoji:hover {
 }
 
 .contributors sup {
-  color: var(--white);
+  color: var(--brown);
 }
 
 sup {
@@ -1530,7 +1695,7 @@ sup {
 
 .search-ui-container {
   margin: 1rem 0;
-  font-family: "RockoFLF", "Aleo", system-ui, -apple-system, "Segoe UI", Roboto;
+  font-family: var(--font-display), var(--font-body), system-ui, -apple-system, "Segoe UI", Roboto;
 }
 
 .search-controls {
@@ -1551,7 +1716,7 @@ sup {
   background-color: var(--deep-white);
   color: var(--white);
   outline: none;
-  font-family: 'RockoFLF'
+  font-family: var(--font-display);
 }
 
 .search-fuzzy::placeholder {
@@ -1584,7 +1749,7 @@ sup {
   font-size: 0.95rem;
   background: transparent;
   color: var(--white);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .tag-input::placeholder {
@@ -1596,7 +1761,7 @@ sup {
   align-items: center;
   padding: 0.25rem 0.5rem;
   border-radius: 999rem;
-  font-size: 0.85rem;
+  font-size: 1rem;
   background-color: var(--orange);
   color: var(--white);
 }
@@ -1641,7 +1806,7 @@ sup {
   justify-content: space-between;
   cursor: pointer;
   color: var(--white);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
 }
 
 .tag-suggestion.active,
@@ -1698,22 +1863,28 @@ sup {
 .predef-tag-btn {
   white-space: nowrap;
   display: flex;
-  color: var(--white);
+  color: var(--brown);
   padding: 0.5rem 0.75rem;
   border-radius: 1rem;
   border: 0.25rem solid var(--brown);
   background-color: var(--tag-bg, var(--deep-white));
-  font-size: 0.85rem;
   cursor: pointer;
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
+  font-size: 1rem;
 }
 
-.tag-count {
+.tag-count,
+.predef-tag-btn sup {
   opacity: .5;
   font-size: .75em;
   margin-left: .35em;
 }
 
+
+[data-theme="fnaf"] .predef-tag-btn{
+  border-radius: 0rem;
+  border-color: var(--white);
+}
 
 .results-summary {
   margin-bottom: 0.5rem;
@@ -1737,7 +1908,7 @@ sup {
   color: var(--white);
   text-align: center;
   transform: translate(0%, -4.25rem);
-  font-family: "RockoFLF";
+  font-family: var(--font-display);
   letter-spacing: .1rem;
   margin: -1rem;
 }
@@ -1794,6 +1965,185 @@ sup {
   filter: blur(0.0625rem);
   animation-direction: reverse;
   animation-duration: 9s;
+}
+
+/* =========================
+   FNaF CAMERA SYSTEM
+   ========================= */
+.fnaf_camera {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.fnaf_background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 120%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 40%;
+  animation: fnafPan 25s linear infinite;
+}
+
+.fnaf_static {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/UI/static.avif');
+  background-size: 50rem,50rem;
+  background-repeat: repeat;
+  opacity: 0.2;
+  transition: opacity 0.3s;
+  mix-blend-mode: overlay;
+  pointer-events: none;
+}
+
+/* =========================
+   SETTINGS BUTTON & MODAL
+   ========================= */
+.settings-button {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: 50%;
+  background-color: var(--orange);
+  color: var(--white);
+  border: 0.25rem solid var(--brown);
+  outline: 0.25rem solid var(--yellow);
+  font-size: 1.5rem;
+  cursor: pointer;
+  z-index: 1000;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s, background-color 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+[data-theme="fnaf"] .settings-button{
+  box-shadow: none;
+  outline-style: none;
+  border-radius: 0rem;
+  border-color: var(--white);
+}
+
+.settings-button:hover {
+  background-color: var(--yellow);
+}
+
+.settings-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 2000;
+  align-items: center;
+  justify-content: center;
+}
+
+.settings-modal-content {
+  background-color: var(--blue);
+  border: 0.5rem solid var(--brown);
+  border-radius: 2rem;
+  outline: 0.25rem solid var(--yellow);
+  max-width: 35rem;
+  width: 90%;
+  max-height: 80vh;
+  overflow-y: auto;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.5);
+}
+
+[data-theme="fnaf"] .settings-modal-content {
+  border-radius: 0rem;
+  outline-style: none;
+  box-shadow: none;
+  border-color: var(--white);
+}
+
+.settings-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 2rem;
+  border-bottom: 0.25rem solid var(--brown);
+}
+
+.settings-modal-header h2 {
+  margin: 0;
+  color: var(--yellow);
+  font-family: var(--font-display);
+}
+
+.settings-modal-close {
+  background: none;
+  border: none;
+  color: var(--white);
+  font-size: 2rem;
+  cursor: pointer;
+  line-height: 1;
+  padding: 0;
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.2s;
+}
+
+.settings-modal-close:hover {
+  color: var(--orange);
+}
+
+.settings-modal-body {
+  padding: 2rem;
+}
+
+.setting-group {
+  margin-bottom: 1.5rem;
+}
+
+.setting-group label {
+  display: block;
+  margin-bottom: 0.5rem;
+  color: var(--yellow);
+  font-family: var(--font-display);
+  font-size: 1rem;
+}
+
+.setting-group select {
+  width: 100%;
+  margin: 0;
+}
+
+.settings-modal-footer {
+  padding: 1.5rem 2rem;
+  border-top: 0.25rem solid var(--brown);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+@keyframes fnafPan {
+  0% {
+    transform: translateX(-5%);
+  }
+  100% {
+    transform: translateX(5%);
+  }
 }
 
 @keyframes SnowAnim {
