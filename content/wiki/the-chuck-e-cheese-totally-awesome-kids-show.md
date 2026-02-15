@@ -6,7 +6,7 @@ endDate = "1996-08-00"
 pageThumbnailFile = "b0AnKOaHYP0Qzo6h6mV0.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Bullseye123"]
 citations = ["https://youtu.be/xYiMJXXR6Gc", "https://www.youtube.com/watch?v=9GvqpPebbdU"]
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Mr. Munch", "Bob West - Voice of Jasper T. Jowls, Pasqually The Chef, Mr. Munch", "Doug Teel - Singing Voice of Mr. Munch", "Cathy Turner - Singing Voice of Helen Henny", "Jeff Cosco - Singing Voice of Chuck E. Cheese (Demo Recordings)"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef, Mr. Munch", "Doug Teel|Singing Voice of Mr. Munch", "Cathy Turner|Singing Voice of Helen Henny", "Jeff Cosco|Singing Voice of Chuck E. Cheese (Demo Recordings)"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 alsoKnownAs = ["Apr 96 San Antonio 417 Playdates: April 22 - Aug 96 Stage Type: C Stage"]
 tags = ["Showtapes"]
