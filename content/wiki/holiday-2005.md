@@ -5,6 +5,7 @@ startDate = "2005-12-00"
 endDate = "2005-12-00"
 pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["Ceclife13"]
+credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist"]
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
