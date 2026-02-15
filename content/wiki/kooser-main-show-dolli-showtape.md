@@ -5,10 +5,10 @@ tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 startDate = "1978-12-00"
 endDate = "1979-00-00"
-contributors = ["The 64th Gamer","Blowseborg062","BeachBear"]
+contributors = ["The 64th Gamer","Blowseborg062","BeachBear","Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=CdZcDC1pJyc","https://worldradiohistory.com/Archive-All-Audio/Archive-Recording-Engineer/70s/Recording-1978-10.pdf","https://worldradiohistory.com/Archive-All-Audio/Mix-Magazine/70s/1979/Mix-1979-07.pdf","https://archive.org/details/PersonalComputing197904/page/n11/mode/2up?q=pizza+time+theatre+pdp","https://www.showbizpizza.com/info/articles/cec/ptt_79sjmercury.pdf","https://youtu.be/EdKLsomLbtY","https://www.showbizpizza.com/info/articles/cec/ptt_79fsm.pdf","https://youtu.be/E6sa_RtChko"]
 pageThumbnailFile = "RSEKM5ZyV79H3d4p4ycO.avif"
-credits = ["Dolli Dimples VA|Donna Miller","Recording Studio|Corasound"]
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Helen Henny", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef", "Donna Miller|Voice of Dolli Dimples", "Corasound|Recording Studio"]
 showtapeFormats = ["Cyberamics Reel"]
 alsoKnownAs = ["Dolli Dimples 1 (Cabaret Portion)"]
 downloadLinks = ["https://archive.org/details/dollidimples/Audio+01.wav|Donna Miller Session Recording 1 (November 9, 1978)"]
@@ -24,19 +24,26 @@ However, in the *Real People* footage of the Kooser store, a tape with a differe
 This puts the differently labeled tape after the March 1979 label, and consequently, the Main Show segments believed to be from the store's initial opening could actually be new ones from this differently labeled tape.
 It is unclear however if this label change was just for labeling, a simple revision to the initial tape's programming, or an entirely different tape from the one at the store's debut.
 
-## Main Segments
-Out of the twelve segments confirmed for the show,{{< cite 5 >}} only two fragments of 'Hooray for Hollywood' and 'Down By the Old Mill Stream' are known to exist, having been featured on an episode of the show *Real People* in 1979.{{< cite 6 >}} In addition, an article from 'Food Service Marketing' mentions the song 'Boogie Woogie Bugle Boy', but whether this was a modified version of {{< wiki-link "Pizza Time Theatre Showtape" >}} or was an entirely new version is unknown.{{< cite 7 >}} From the {{< wiki-link "'Pizza Time (Birthday 8-TR)' (November 13, 1978)" >}} is a clip of 'The Sidewalks of New York'. This is also potentially a clip that was used in this tape, but that could also likely be the potential second variant of the tape mentioned above.
+## Main Show List
+Out of the twelve segments confirmed for the show,{{< cite 5 >}} only 'Hooray for Hollywood' is known to exist in full. A fragment of 'Down By the Old Mill Stream' was featured on an episode of the show *Real People* in 1979.{{< cite 6 >}} In addition, an article from 'Food Service Marketing' mentions the song 'Boogie Woogie Bugle Boy', but whether this was a modified version of {{< wiki-link "Pizza Time Theatre Showtape" >}} or was an entirely new version is unknown.{{< cite 7 >}} From the {{< wiki-link "'Pizza Time (Birthday 8-TR)' (November 13, 1978)" >}} is a clip of 'The Sidewalks of New York'. This is also potentially a clip that was used in this tape, but that could also likely be the potential second variant of the tape mentioned above.
 
 - **Segment 1**
-- Hooray for Hollywood
-- Down By the Old Mill Stream
+    - ['Hooray for Hollywood'](https://en.wikipedia.org/wiki/Hooray_for_Hollywood)
+    - ['You Oughta Be in Pictures'](https://en.wikipedia.org/wiki/You_Oughta_Be_in_Pictures)
+    - ['Somewhere Over The Rainbow'](https://en.wikipedia.org/wiki/Over_the_Rainbow)
+    - ['Singing in the Rain'](https://en.wikipedia.org/wiki/Singin%27_in_the_Rain_(song))
+    - ['Chattanooga Choo Choo'](https://en.wikipedia.org/wiki/Chattanooga_Choo_Choo)
 - **Segment 2**
-- Boogie Woogie Bugle Boy
+    - Down By the Old Mill Stream
 - **Segment 3**
-- The Sidewalks of New York
+    - Boogie Woogie Bugle Boy
+- **Segment 4**
+    - The Sidewalks of New York
 
-## Dolli Segments
+## Dolli Show List
+
 It is currently unclear if the known segment list from rereleases is the exact order from the original showtape.
+
 1. **Segment 1**
     1.  Right Back Where I Started From
 2. **Segment 2**

@@ -6,7 +6,8 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "Wkhk48BnyCrmNg4QFrtB.avif"
 startDate = "1985-06-00"
 endDate = "1985-07-00"
-contributors = ["Cyber Snout"]
+credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls", "Nancy Lenehan|Voice of Helen Henny"]
+contributors = ["Cyber Snout", "Ceclife13"]
 +++
 ## Show List:
 1. Segment 1

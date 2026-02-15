@@ -1,57 +1,135 @@
 <aside>
-<div id="snow_wrap" style= "display:none">
-  <div class="snow_wrap">
-      <div class="snow"></div>
-  </div>
+<!-- Snow wrap for winter theme -->
+<div id="snow_wrap" style="display:none">
+<div class="snow_wrap">
+<div class="snow"></div>
 </div>
-{{- partial "splash-text" -}}
+</div>
 
+<!-- FNaF camera system for fnaf theme -->
+<div id="fnaf_wrap" style="display:none">
+<div class="fnaf_camera">
+<div class="fnaf_background" id="fnaf_background"></div>
+<div class="fnaf_static" id="fnaf_static"></div>
+</div>
+</div>
+
+{{- partial "splash-text" -}}
 {{- $contributorCounts := dict -}}
 {{- $articleCount := 0 -}}
-
 {{- range site.RegularPages -}}
-  {{- $articleCount = add $articleCount 1 -}}
-  {{- with .Params.contributors -}}
-    {{- range . -}}
-      {{- if not (index $contributorCounts .) -}}
-        {{- $contributorCounts = merge $contributorCounts (dict . 1) -}}
-      {{- else -}}
-        {{- $contributorCounts = merge $contributorCounts (dict . (add (index $contributorCounts .) 1)) -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
+{{- $articleCount = add $articleCount 1 -}}
+{{- with .Params.contributors -}}
+{{- range . -}}
+{{- if not (index $contributorCounts .) -}}
+{{- $contributorCounts = merge $contributorCounts (dict . 1) -}}
+{{- else -}}
+{{- $contributorCounts = merge $contributorCounts (dict . (add (index $contributorCounts .) 1)) -}}
 {{- end -}}
-
+{{- end -}}
+{{- end -}}
+{{- end -}}
 <!-- Sorting contributors -->
 {{- $sortedContributors := slice -}}
 {{- range $key, $value := $contributorCounts -}}
-  {{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
+{{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
 {{- end -}}
 {{- $sortedContributors = sort $sortedContributors "count" "desc" -}}
-
 {{- $contributorCount := len $sortedContributors -}}
-
 {{- $count := 0 -}}
 {{- range site.RegularPages -}}
-  {{- $section := .Section -}}
-  {{- if or (eq $section "meta") (eq $section "news") (eq $section "wiki") -}}
-    {{- with .RenderString .Content -}}
-      {{- $count = add $count 1 -}}
-    {{- end -}}
-  {{- end -}}
+{{- $section := .Section -}}
+{{- if or (eq $section "meta") (eq $section "news") (eq $section "wiki") -}}
+{{- with .RenderString .Content -}}
+{{- $count = add $count 1 -}}
 {{- end -}}
-
-
+{{- end -}}
+{{- end -}}
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.5vw;">
-  <div class="fun-logo">
-  <a href="https://cheeseepedia.org"><img src="/UI/CEPLogo.png" id="mainLogo" alt="Logo"></a>
-  </div>
-  <div class="fun-text">
-    Now at <strong>{{- $count -}} </strong> articles contributed by <strong>{{- $contributorCount -}}</strong> users.
-    <br>
-    Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
-  </div>
+<div class="fun-logo">
+<a href="https://cheeseepedia.org"><img src="/UI/CEPLogo.png" id="mainLogo" alt="Logo"></a>
 </div>
-
+<div class="fun-text">
+    Now at <strong>{{- $count -}} </strong> articles contributed by <strong>{{- $contributorCount -}}</strong> users.
+<br>
+    Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
+</div>
+</div>
 {{ partial "site_search.html" . }}
 </aside>
+
+<script>
+// FNaF Camera System
+(function() {
+    const BACKGROUND_COUNT = 52; 
+    const MIN_OPACITY = 0.5;
+    const MAX_OPACITY = 0.7;
+    const EVENT_CHANCE = 0.0005; // Probability per frame (~1 every 3-4 seconds at 60fps)
+    
+    const fnafWrap = document.getElementById('fnaf_wrap');
+    const fnafBackground = document.getElementById('fnaf_background');
+    const fnafStatic = document.getElementById('fnaf_static');
+    
+    if (!fnafWrap || !fnafBackground || !fnafStatic) return;
+    
+    let currentOpacity = MIN_OPACITY;
+    let targetOpacity = MIN_OPACITY;
+    
+    // Set random background on load
+    function setRandomBackground() {
+        const randomBg = Math.floor(Math.random() * BACKGROUND_COUNT);
+        fnafBackground.style.backgroundImage = `url('/UI/Backgrounds/${randomBg}.avif')`;
+    }
+    
+    // Randomize static position
+    function randomizeStaticPosition() {
+        const x = Math.random() * 100;
+        const y = Math.random() * 100;
+        fnafStatic.style.backgroundPosition = `${x}% ${y}%`;
+    }
+    
+    // Random opacity change
+    function updateOpacity() {
+        // Slowly transition to a new random opacity
+        if (Math.random() < 0.01) { // Change target occasionally
+            targetOpacity = MIN_OPACITY + Math.random() * (MAX_OPACITY - MIN_OPACITY);
+        }
+        
+        // Smoothly interpolate toward target
+        currentOpacity += (targetOpacity - currentOpacity) * 0.05;
+        fnafStatic.style.opacity = currentOpacity;
+    }
+    
+    // Random "event" - flash static and change background
+    function checkForEvent() {
+        if (Math.random() < EVENT_CHANCE) {
+            // Flash static to 100%
+            fnafStatic.style.transition = 'opacity 0.05s';
+            fnafStatic.style.opacity = '1';
+            
+            // Change background
+            setRandomBackground();
+            
+            // Transition back to normal
+            setTimeout(() => {
+                fnafStatic.style.transition = 'opacity 0.5s';
+                currentOpacity = targetOpacity;
+                fnafStatic.style.opacity = currentOpacity;
+            }, 50);
+        }
+    }
+    
+    // Animation loop
+    function animate() {
+        randomizeStaticPosition();
+        updateOpacity();
+        checkForEvent();
+        requestAnimationFrame(animate);
+    }
+    
+    // Initialize
+    setRandomBackground();
+    fnafStatic.style.opacity = MIN_OPACITY;
+    animate();
+})();
+</script>

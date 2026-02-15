@@ -6,11 +6,11 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2023-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["https://www.chuckecheese.com/terms-conditions/five-nights-terms/","https://twitter.com/uorplefever/status/1710005098892673265","https://twitter.com/Razzbowski/status/1710005888071663859","https://www.instagram.com/p/CyCQkuhuOgn/?hl=en","https://twitter.com/uorplefever/status/1710080434762354808","https://twitter.com/IRISproject__/status/1710268344488661426","https://twitter.com/dreamiamy/status/1710083329297653988","https://www.themarysue.com/so-just-how-long-is-the-fnaf-movie/","https://www.thepopverse.com/chuck-e-cheese-ceo-comment-five-nights-at-freddys","https://www.prnewswire.com/news-releases/dave--busters-announces-partnership-with-blumhouses-five-nights-at-freddys-from-universal-pictures-301957352.html","https://www.reddit.com/r/chuckecheese/comments/1dbpe50/comment/l7u1oy9/"]
+citations = ["https://www.chuckecheese.com/terms-conditions/five-nights-terms/","https://twitter.com/uorplefever/status/1710005098892673265","https://twitter.com/Razzbowski/status/1710005888071663859","https://www.instagram.com/p/CyCQkuhuOgn/?hl=en","https://twitter.com/uorplefever/status/1710080434762354808","https://twitter.com/IRISproject__/status/1710268344488661426","https://twitter.com/dreamiamy/status/1710083329297653988","https://www.themarysue.com/so-just-how-long-is-the-fnaf-movie/","https://www.thepopverse.com/chuck-e-cheese-ceo-comment-five-nights-at-freddys","https://www.prnewswire.com/news-releases/dave--busters-announces-partnership-with-blumhouses-five-nights-at-freddys-from-universal-pictures-301957352.html","https://www.reddit.com/r/chuckecheese/comments/1dbpe50/comment/l7u1oy9/","https://www.chuckecheese.com/five-nights-of-fun/"]
 pageThumbnailFile = "1SFP6s84hWCurbgDBhmK.avif"
 +++
-***Five Nights of Fun* is an online and in-person event lasting from October 9th - October 13th, 2023, alongside ***Chuck E.'s Big Night of Fun* being held on October 27th.https://www.chuckecheese.com/five-nights-of-fun/
-For users who download the Chuck E. Cheese Rewards App for IOS and Android mobile devices, they would be able to enter in daily deals, alongside the possibility of winning a free party.{{< cite 1 >}}****
+***Five Nights of Fun*** is an online and in-person event lasting from October 9th - October 13th, 2023, alongside ***Chuck E.'s Big Night of Fun* being held on October 27th.
+For users who download the Chuck E. Cheese Rewards App for IOS and Android mobile devices, they would be able to enter in daily deals, alongside the possibility of winning a free party.{{< cite 1 >}}
 
 ## Event Details
 

@@ -8,7 +8,7 @@ citations = []
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
-**CEC Roadshow April 2002** was a CD released alongside the {{< wiki-link "April 2002 Show" >}} which featured nine {{< wiki-link "Road Shows" >}}.
+**CEC Roadshow April 2002** was a Road Show CD released alongside the {{< wiki-link "April 2002 Show" >}} which featured nine {{< wiki-link "Road Shows" >}}.
 
 ## Live List:
 1. **Live 1**

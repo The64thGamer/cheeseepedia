@@ -20,147 +20,152 @@ Notes:
       <div id="tag-suggestions" class="tag-suggestions" aria-hidden="true"></div>
     </div>
 
-    <div class="search-collapsible" id="search-collapsible">
-      <div class="search-layout">
-        <aside class="search-left-col">
-          <div class="predef-list">
-            {{- $predef := slice
-            "Pizza Time Theatre"
-            "ShowBiz Pizza Place"
-            "Chuck E. Cheese's"
-            "2026"
-            "1977"
-            "Locations"
-            "Showtapes"
-            "Animatronic Shows"
-            "Stage Variations"
-            "Animatronics"
-            "Animatronic Parts"
-            "Animatronic Preservation"
-            "Costumed Characters"
-            "Retrofits"
-            "History"
-            "Cancelled Locations"
-            "Remodels and Initiatives"
-            "Arcades and Attractions"
-            "Store Fixtures"
-            "Companies/Brands"
-            "Characters"
-            "Events"
-            "Animatronic Control Systems"
-            "Other Systems"
-            "Simulators"
-            "Programming Systems"
-            "Commercials"
-            "News Footage"
-            "Company Media"
-            "Movies"
-            "Puppets"
-            "Live Shows"
-            "ShowBiz Pizza Programs"
-            "Showtape Formats"
-            "Family Vision"
-            "Corporate Documents"
-            "Documents"
-            "Promotional Material"
-            "Social Media and Websites"
-            "Ad Vehicles"
-            "In-Store Merchandise"
-            "Products"
-            "Menu Items"
-            "Tickets"
-            "Tokens"
-            "Employee Wear"
-            "Video Games"
-            "Sally Corporation"
-            "Jim Henson's Creature Shop"
-            "Walt Disney Imagineering"
-            "Five Nights at Freddy's"
-            "Transcriptions"
-            "Unknown Year"
-            "User"
-            "Meta"
-            -}}
-            <div class="predef-tags">
-              <h4>Quick Tags</h4>
-              <div class="predef-scroll">
-                <div class="predef-list">
-                  {{- range $i, $t := $predef -}}
-                    {{- $entry := index $tagStyles $t -}}
-                    {{- $emoji := "" -}}
-                    {{- $color := "" -}}
-                    {{- if $entry -}}
-                      {{- with $entry }}
-                        {{- $emoji = .emoji -}}
-                        {{- $color = .color -}}
-                      {{- end -}}
-                    {{- end -}}
-                    {{- $count := index $tagCounts $t -}}
-                    <button
-                      class="predef-tag-btn"
-                      type="button"
-                      data-tag="{{ $t | html }}"
-                      title="Add tag"
-                      {{- if $color }}style="--tag-bg: {{ $color }};"{{- end -}}
-                    >
-                      {{- if $emoji }}{{ $emoji | safeHTML }} {{- end -}}
-                      {{- $t -}}
-                      {{- with $count -}} <span class="tag-count">({{ . }})</span>{{- end -}}
-                    </button>
+<div class="search-collapsible" id="search-collapsible">
+  <div class="search-layout">
+    <!-- Quick Tags panel that can be positioned above or to the left -->
+    <div class="quick-tags-panel" id="quick-tags-panel">
+      <div class="predef-list">
+        {{- $predef := slice
+        "Pizza Time Theatre"
+        "ShowBiz Pizza Place"
+        "Chuck E. Cheese's"
+        "2026"
+        "1977"
+        "Locations"
+        "Showtapes"
+        "Animatronic Shows"
+        "Stage Variations"
+        "Animatronics"
+        "Animatronic Parts"
+        "Animatronic Preservation"
+        "Costumed Characters"
+        "Retrofits"
+        "History"
+        "Cancelled Locations"
+        "Remodels and Initiatives"
+        "Arcades and Attractions"
+        "Store Fixtures"
+        "Companies/Brands"
+        "Characters"
+        "Events"
+        "Animatronic Control Systems"
+        "Other Systems"
+        "Simulators"
+        "Programming Systems"
+        "Commercials"
+        "News Footage"
+        "Company Media"
+        "Movies"
+        "Puppets"
+        "Live Shows"
+        "ShowBiz Pizza Programs"
+        "Showtape Formats"
+        "Family Vision"
+        "Corporate Documents"
+        "Documents"
+        "Promotional Material"
+        "Social Media and Websites"
+        "Ad Vehicles"
+        "In-Store Merchandise"
+        "Products"
+        "Menu Items"
+        "Tickets"
+        "Tokens"
+        "Employee Wear"
+        "Video Games"
+        "Sally Corporation"
+        "Jim Henson's Creature Shop"
+        "Walt Disney Imagineering"
+        "Five Nights at Freddy's"
+        "Transcriptions"
+        "Unknown Year"
+        "User"
+        "Meta"
+        -}}
+        <div class="predef-tags">
+          <h4>Quick Tags</h4>
+          <div class="predef-scroll">
+            <div class="predef-list">
+              {{- range $i, $t := $predef -}}
+                {{- $entry := index $tagStyles $t -}}
+                {{- $emoji := "" -}}
+                {{- $color := "" -}}
+                {{- if $entry -}}
+                  {{- with $entry }}
+                    {{- $emoji = .emoji -}}
+                    {{- $color = .color -}}
                   {{- end -}}
-                </div>
-              </div>
+                {{- end -}}
+                {{- $count := index $tagCounts $t -}}
+                <button
+                  class="predef-tag-btn"
+                  type="button"
+                  data-tag="{{ $t | html }}"
+                  title="Add tag"
+                  {{- if $color }}style="--tag-bg: {{ $color }};"{{- end -}}
+                >
+                  {{- if $emoji }}{{ $emoji | safeHTML }} {{- end -}}
+                  {{- $t -}}
+                  {{- with $count -}} <span class="tag-count">({{ . }})</span>{{- end -}}
+                </button>
+              {{- end -}}
             </div>
           </div>
-        </aside>
+        </div>
+      </div>
+    </div>
 
-        <div class="tabs" id="results-tabs" hidden>
+    <div class="tabs" id="results-tabs" hidden>
+      <!-- Controls inserted above the tabs -->
+      <div class="result-controls" style="margin-bottom:8px;">
+        <label>
+          Show:
+          <select id="results-per-section" title="Results per section">
+            <option value="10" selected>10</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+            <option value="all">All</option>
+          </select>
+        </label>
 
-          <!-- Controls inserted above the tabs -->
-          <div class="result-controls" style="margin-bottom:8px;">
-            <label>
-              Show:
-              <select id="results-per-section" title="Results per section">
-                <option value="10" selected>10</option>
-                <option value="50">50</option>
-                <option value="100">100</option>
-                <option value="all">All</option>
-              </select>
-            </label>
+        <label style="margin-left:10px;">
+          Sort Articles:
+          <select id="articles-sort" title="Sort articles">
+            <option value="relevancy" selected>Relevancy</option>
+            <option value="oldest">Oldest → Newest</option>
+            <option value="newest">Newest → Oldest</option>
+          </select>
+        </label>
+        
+        <label style="margin-left:10px;">
+          <input type="checkbox" id="keep-tags-visible" />
+          Show Quick Tags
+        </label>
+      </div>
 
-            <label style="margin-left:10px;">
-              Sort Articles:
-              <select id="articles-sort" title="Sort articles">
-                <option value="relevancy" selected>Relevancy</option>
-                <option value="oldest">Oldest → Newest</option>
-                <option value="newest">Newest → Oldest</option>
-              </select>
-            </label>
-          </div>
+      <div class="tab-buttons">
+        <button class="tab-button active" data-tab="tab-articles">Articles</button>
+        <button class="tab-button" data-tab="tab-photos">Photos</button>
+        <button class="tab-button" data-tab="tab-videos">Videos</button>
+        <button class="tab-button" data-tab="tab-reviews">Reviews</button>
+      </div>
 
-          <div class="tab-buttons">
-            <button class="tab-button active" data-tab="tab-articles">Articles</button>
-            <button class="tab-button" data-tab="tab-photos">Photos</button>
-            <button class="tab-button" data-tab="tab-videos">Videos</button>
-            <button class="tab-button" data-tab="tab-reviews">Reviews</button>
-          </div>
+      <div class="tab-content">
+        <div class="tab-panel active" id="tab-articles">
+          <div class="results-summary" aria-live="polite"></div>
+          <div class="results-list" id="list-articles"></div>
+        </div>
 
-          <div class="tab-content">
-            <div class="tab-panel active" id="tab-articles">
-              <div class="results-summary" aria-live="polite"></div>
-              <div class="results-list" id="list-articles"></div>
-            </div>
+        <div class="tab-panel" id="tab-photos">
+          <div class="results-list" id="list-photos"></div>
+        </div>
 
-            <div class="tab-panel" id="tab-photos">
-              <div class="results-list" id="list-photos"></div>
-            </div>
+        <div class="tab-panel" id="tab-videos">
+          <div class="results-list" id="list-videos"></div>
+        </div>
 
-            <div class="tab-panel" id="tab-videos">
-              <div class="results-list" id="list-videos"></div>
-            </div>
-
-            <div class="tab-panel" id="tab-reviews">
-              <div class="results-list" id="list-reviews"></div>
+        <div class="tab-panel" id="tab-reviews">
+          <div class="results-list" id="list-reviews"></div>
             </div>
           </div>
         </div>
@@ -176,7 +181,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const DOC_TAGS = {}; // map normalized page path -> [tags]
   const SEARCH_TABS = ["tab-articles", "tab-photos", "tab-videos", "tab-reviews"];
   
-  // NEW: Store both tags and fuzzy terms as unified chips
+  // Store both tags and fuzzy terms as unified chips
   let searchChips = []; // Array of {type: 'tag'|'fuzzy', value: string, negative: bool}
   let searchTimer = null;
 
@@ -189,12 +194,9 @@ document.addEventListener("DOMContentLoaded", () => {
   const listPhotos = document.getElementById("list-photos");
   const listVideos = document.getElementById("list-videos");
   const listReviews = document.getElementById("list-reviews");
-  const predefButtons = document.querySelectorAll(".predef-tag-btn");
   const resultsPerSelect = document.getElementById("results-per-section");
   const articlesSortSelect = document.getElementById("articles-sort");
-
-  // collapsible support
-  const trigger = document.getElementById("tag-input");
+  const keepTagsCheckbox = document.getElementById("keep-tags-visible");
   const collapsible = document.getElementById("search-collapsible");
 
   // --- Helpers for path normalization & permalinks ---
@@ -222,18 +224,19 @@ document.addEventListener("DOMContentLoaded", () => {
   // --- collapsible open-once ---
   let opened = false;
   function openOnce() {
-    if (!collapsible) return;
-    if (opened) return;
+    if (!collapsible || opened) return;
     opened = true;
     collapsible.style.maxHeight = collapsible.scrollHeight + "px";
     collapsible.addEventListener("transitionend", () => {
       collapsible.style.maxHeight = "none";
     }, { once: true });
   }
-  if (trigger) {
-    trigger.addEventListener("click", openOnce);
-    trigger.addEventListener("focus", openOnce);
+  
+  if (tagInput) {
+    tagInput.addEventListener("click", openOnce);
+    tagInput.addEventListener("focus", openOnce);
   }
+  
   if (tagChipContainer) {
     tagChipContainer.addEventListener("click", (e) => {
       if (e.target.closest(".tag-chip-close")) return;
@@ -246,11 +249,27 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // --- Basic text utilities ---
   const reNonWord = /[^\w\s]/g, reSpace = /\s+/g;
-  function normalizeText(s) { if (!s) return ""; return String(s).toLowerCase().replace(reNonWord, " ").replace(reSpace, " ").trim(); }
-  function tokenize(s) { if (!s) return []; return normalizeText(s).split(/\s+/).filter(Boolean); }
-  function charTrigrams(s) { s = "  " + normalizeText(s) + "  "; const out = new Set(); for (let i = 0; i + 3 <= s.length; i++) out.add(s.slice(i, i + 3)); return out; }
-  function jaccard(a, b) { if (!a.size || !b.size) return 0; let inter = 0; for (const x of a) if (b.has(x)) inter++; return inter / (a.size + b.size - inter); }
-  function escapeHtml(s) { if (!s) return ""; return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;"); }
+  function normalizeText(s) { 
+    return s ? String(s).toLowerCase().replace(reNonWord, " ").replace(reSpace, " ").trim() : ""; 
+  }
+  function tokenize(s) { 
+    return s ? normalizeText(s).split(/\s+/).filter(Boolean) : []; 
+  }
+  function charTrigrams(s) { 
+    s = "  " + normalizeText(s) + "  "; 
+    const out = new Set(); 
+    for (let i = 0; i + 3 <= s.length; i++) out.add(s.slice(i, i + 3)); 
+    return out; 
+  }
+  function jaccard(a, b) { 
+    if (!a.size || !b.size) return 0; 
+    let inter = 0; 
+    for (const x of a) if (b.has(x)) inter++; 
+    return inter / (a.size + b.size - inter); 
+  }
+  function escapeHtml(s) { 
+    return s ? String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#39;") : ""; 
+  }
 
   // --- Tab activation helper ---
   function activateTab(containerId, panelId) {
@@ -290,11 +309,12 @@ document.addEventListener("DOMContentLoaded", () => {
       DOC_TAGS[normKey] = TAGS_BY_PAGE[rawKey] || [];
     }
 
-    const predefBtnsNow = document.querySelectorAll(".predef-tag-btn");
-    predefBtnsNow.forEach(b => b.addEventListener("click", function(){ addChip('tag', this.dataset.tag, false); }));
+    document.querySelectorAll(".predef-tag-btn").forEach(b => 
+      b.addEventListener("click", function(){ addChip('tag', this.dataset.tag, false); })
+    );
   }
 
-  // --- NEW: Unified chip management ---
+  // --- Unified chip management ---
   function addChip(type, value, negative=false) {
     if (!value) return;
     
@@ -330,7 +350,6 @@ document.addEventListener("DOMContentLoaded", () => {
     
     searchChips.forEach((chip, i) => {
       const chipEl = document.createElement("span");
-      // Use different class for fuzzy chips
       const chipClass = chip.type === 'fuzzy' ? 'tag-chip-fuzzy' : (chip.negative ? 'tag-chip-neg' : 'tag-chip-pos');
       chipEl.className = `tag-chip ${chipClass}`;
       chipEl.setAttribute("data-type", chip.type);
@@ -368,7 +387,10 @@ document.addEventListener("DOMContentLoaded", () => {
   function suggestTags(prefix, limit=10) {
     if (!prefix) return [];
     let isNeg = false;
-    if (prefix.startsWith("-")) { isNeg = true; prefix = prefix.slice(1).trim(); }
+    if (prefix.startsWith("-")) { 
+      isNeg = true; 
+      prefix = prefix.slice(1).trim(); 
+    }
     const q = normalizeText(prefix);
     if (!q) return [];
     const matches = ALL_TAGS
@@ -399,7 +421,11 @@ document.addEventListener("DOMContentLoaded", () => {
       el.dataset.i = i;
       el.innerHTML = `<span class="suggest-tag">${s.negative?'-':''}${escapeHtml(s.tag)}</span> <span class="suggest-count">(${s.count||0})</span>`;
 
-      el.addEventListener("mousedown", ev => { ev.preventDefault(); addChip('tag', s.tag, s.negative); hideSuggestions(); });
+      el.addEventListener("mousedown", ev => { 
+        ev.preventDefault(); 
+        addChip('tag', s.tag, s.negative); 
+        hideSuggestions(); 
+      });
 
       el.addEventListener("mouseover", () => {
         const items = Array.from(tagSuggestions.querySelectorAll(".tag-suggestion"));
@@ -421,7 +447,7 @@ document.addEventListener("DOMContentLoaded", () => {
     suggestionIndex = -1; 
   }
 
-  // NEW: Process input and decide what's a tag vs fuzzy term
+  // Process input and decide what's a tag vs fuzzy term
   function processInputTerms(inputValue) {
     const parts = (inputValue || "").trim().split(/\s+/).filter(Boolean);
     
@@ -454,9 +480,7 @@ document.addEventListener("DOMContentLoaded", () => {
       if (tagText) addChip('tag', tagText, negative);
     } else {
       const val = v.trim();
-      if (val) {
-        processInputTerms(val);
-      }
+      if (val) processInputTerms(val);
     }
     hideSuggestions();
   }
@@ -472,7 +496,6 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
     tagInput.addEventListener("keydown", (e) => {
-      const v = tagInput.value || "";
       const items = tagSuggestions ? Array.from(tagSuggestions.querySelectorAll(".tag-suggestion")) : [];
 
       if (e.key === "Enter" || e.key === "Tab") {
@@ -499,13 +522,126 @@ document.addEventListener("DOMContentLoaded", () => {
 
     document.addEventListener("click", (e) => {
       if (!tagSuggestions || !tagInput) return;
-      if (!tagSuggestions.contains(e.target) && e.target !== tagInput && !tagChipContainer.contains(e.target)) hideSuggestions();
+      if (!tagSuggestions.contains(e.target) && e.target !== tagInput && !tagChipContainer.contains(e.target)) {
+        hideSuggestions();
+      }
     });
   }
 
   function scheduleSearch() { 
     if (searchTimer) clearTimeout(searchTimer); 
     searchTimer = setTimeout(executeSearch, 150); 
+  }
+
+  // --- Layout control ---
+  function updateSearchLayout() {
+    const tagPanel = document.getElementById("quick-tags-panel");
+    const resultsPanel = document.getElementById("results-tabs");
+    const searchLayout = document.querySelector(".search-layout");
+    
+    if (!tagPanel || !resultsPanel || !searchLayout) return;
+    
+    const hasInput = tagInput && tagInput.value.trim().length > 0;
+    const hasChips = searchChips.length > 0;
+    const showResults = hasInput || hasChips;
+    const keepTagsVisible = keepTagsCheckbox && keepTagsCheckbox.checked;
+    
+    if (showResults) { 
+      resultsPanel.hidden = false;
+      
+      if (keepTagsVisible) {
+        tagPanel.hidden = false;
+        searchLayout.style.display = "block";
+        searchLayout.style.gridTemplateColumns = "300px 1fr";
+        searchLayout.style.gap = "1rem";
+      } else {
+        tagPanel.hidden = true;
+        searchLayout.style.display = "block";
+      }
+    } else { 
+      tagPanel.hidden = false;
+      resultsPanel.hidden = true;
+      searchLayout.style.display = "block";
+    }
+  }
+
+  // Load saved preference for keep tags visible
+  if (keepTagsCheckbox) {
+    const savedPref = localStorage.getItem("keepTagsVisible");
+    if (savedPref === "true") keepTagsCheckbox.checked = true;
+    
+    keepTagsCheckbox.addEventListener("change", () => {
+      localStorage.setItem("keepTagsVisible", keepTagsCheckbox.checked);
+      updateSearchLayout();
+    });
+  }
+
+  // --- Consolidated date formatting ---
+  const MONTHS = { 
+    "00": "", "01":"Jan. ", "02":"Feb. ", "03":"Mar. ", "04":"Apr. ", 
+    "05":"May ", "06":"Jun. ", "07":"Jul. ", "08":"Aug. ", "09":"Sep. ", 
+    "10":"Oct. ", "11":"Nov. ", "12":"Dec.",
+    "0": "", "1":"Jan. ", "2":"Feb. ", "3":"Mar. ", "4":"Apr. ", 
+    "5":"May ", "6":"Jun. ", "7":"Jul. ", "8":"Aug. ", "9":"Sep. "
+  };
+  
+  const DAYS = { 
+    "00":"", "01":"1, ", "02":"2, ", "03":"3, ", "04":"4, ", "05":"5, ", 
+    "06":"6, ", "07":"7, ", "08":"8, ", "09":"9, ", "10":"10, ", 
+    "11":"11, ", "12":"12, ", "13":"13, ", "14":"14, ", "15":"15, ", 
+    "16":"16, ", "17":"17, ", "18":"18, ", "19":"19, ", "20":"20, ", 
+    "21":"21, ", "22":"22, ", "23":"23, ", "24":"24, ", "25":"25, ", 
+    "26":"26, ", "27":"27, ", "28":"28, ", "29":"29, ", "30":"30, ", 
+    "31":"31, ",
+    "0":"", "1":"1, ", "2":"2, ", "3":"3, ", "4":"4, ", "5":"5, ", 
+    "6":"6, ", "7":"7, ", "8":"8, ", "9":"9, "
+  };
+
+  function formatDate(dateStr) {
+    if (!dateStr || dateStr === "0000-00-00") return "?";
+    if (dateStr === "") return "";
+    
+    const parts = (dateStr.split(" ")[0] || "").split("-");
+    if (parts.length !== 3) return dateStr;
+    
+    const year = parts[0] || "0000";
+    const month = parts[1] || "00";
+    const day = parts[2] || "00";
+    
+    const monthName = MONTHS[month] || "";
+    const dayName = DAYS[day] || "";
+    const datePart = monthName + dayName;
+    
+    return datePart + (year !== "0000" ? year : "");
+  }
+
+  // Format date range with "Present" for empty end dates
+  function formatDateRange(startDate, endDate) {
+    const start = formatDate(startDate);
+    
+    // Check if endDate is explicitly empty string (not missing/invalid) BEFORE formatting
+    if (endDate === "") {
+      // If start is also unknown, return empty
+      if (!start || start === "?") return "";
+      return start + " - Present";
+    }
+    
+    // Now format the end date
+    const end = formatDate(endDate);
+    
+    // If both are unknown or missing, return empty
+    if ((!start || start === "?") && (!end || end === "?")) return "";
+    
+    // If we have at least one date (even if the other is ?), show the range
+    if (start && end) return start + " - " + end;
+    
+    // Only start is valid
+    if (start && !end) return start;
+    
+    // Only end is valid (shouldn't happen but handle it)
+    if (end && !start) return end;
+    
+    return "";
   }
 
   // --- Init load ---
@@ -515,40 +651,20 @@ document.addEventListener("DOMContentLoaded", () => {
     updateSearchLayout();
   })();
 
-  // --- Layout control ---
-  function updateSearchLayout() {
-    const tagPanel = document.querySelector(".search-left-col");
-    const resultsPanel = document.getElementById("results-tabs");
-    if (!tagPanel || !resultsPanel) return;
-    const hasInput = tagInput && tagInput.value.trim().length > 0;
-    const hasChips = searchChips.length > 0;
-    const showResults = hasInput || hasChips;
-    if (showResults) { 
-      tagPanel.hidden = true; 
-      resultsPanel.hidden = false; 
-    } else { 
-      tagPanel.hidden = false; 
-      resultsPanel.hidden = true; 
-    }
-  }
-
   // --- Scoring & search helpers ---
   function docHasTag(doc, tag) {
     if (!doc || !doc.path) return false;
     const tags = DOC_TAGS[doc.path] || [];
     const lk = tag.toLowerCase();
-    for (const t of tags) if (String(t).toLowerCase() === lk) return true;
-    return false;
+    return tags.some(t => String(t).toLowerCase() === lk);
   }
 
   function scoreDocForQuery(doc, qTokens, qTris) {
-    const docTris = new Set(doc.trigrams || []), docTokens = new Set(doc.tokens || []);
-    let tJ = jaccard(qTris, docTris);
-    let tokOverlap = 0;
-    if (qTokens.length) tokOverlap = qTokens.filter(t => docTokens.has(t)).length / qTokens.length;
-    let titleBoost = 0;
-    const titleLower = (doc.title || "").toLowerCase();
-    for (const t of qTokens) if (titleLower.includes(t)) { titleBoost = 0.12; break; }
+    const docTris = new Set(doc.trigrams || []);
+    const docTokens = new Set(doc.tokens || []);
+    const tJ = jaccard(qTris, docTris);
+    const tokOverlap = qTokens.length ? qTokens.filter(t => docTokens.has(t)).length / qTokens.length : 0;
+    const titleBoost = qTokens.some(t => (doc.title || "").toLowerCase().includes(t)) ? 0.12 : 0;
     return 0.72 * tJ + 0.26 * tokOverlap + titleBoost;
   }
 
@@ -574,11 +690,12 @@ document.addEventListener("DOMContentLoaded", () => {
         const pagesForTagObjs = PAGES_BY_TAG[tagKey] || [];
         const pagesForTag = pagesForTagObjs.map(p => normalizePageKey(p.path || p));
         if (tf.negative) {
-          if (!candidatePaths) candidatePaths = Object.values(PAGES_BY_TAG).flat().map(p => normalizePageKey(p.path || p));
+          if (!candidatePaths) {
+            candidatePaths = Object.values(PAGES_BY_TAG).flat().map(p => normalizePageKey(p.path || p));
+          }
           candidatePaths = candidatePaths.filter(p => !pagesForTag.includes(p));
         } else {
-          if (!candidatePaths) candidatePaths = [...pagesForTag];
-          else candidatePaths = candidatePaths.filter(p => pagesForTag.includes(p));
+          candidatePaths = candidatePaths ? candidatePaths.filter(p => pagesForTag.includes(p)) : [...pagesForTag];
         }
       });
 
@@ -621,16 +738,7 @@ document.addEventListener("DOMContentLoaded", () => {
       
       for (const doc of DOCS) {
         // Check tag filters
-        let ok = true;
-        for (const tf of tagFilters) {
-          const want = tf.tag;
-          if (tf.negative) {
-            if (docHasTag(doc, want)) { ok = false; break; }
-          } else {
-            if (!docHasTag(doc, want)) { ok = false; break; }
-          }
-        }
-        if (!ok) continue;
+        if (!tagFilters.every(tf => tf.negative ? !docHasTag(doc, tf.tag) : docHasTag(doc, tf.tag))) continue;
         
         const score = scoreDocForQuery(doc, qTokens, qTris);
         if (score > 0) results.push({ score, doc });
@@ -648,57 +756,32 @@ document.addEventListener("DOMContentLoaded", () => {
     const wrapper = document.createElement("div");
     wrapper.className = hasContent ? "list-page-block" : "list-page-empty-block";
 
-    const formatDateShort = dateStr => {
-      if (!dateStr || dateStr === "0000-00-00") return "?";
-      const parts = (dateStr.split(" ")[0]||"").split("-");
-      const year = parts[0] || "0000";
-      const month = parts[1] || "00";
-      const day = parts[2] || "00";
-      const months = { "00": "", "01":"Jan. ", "02":"Feb. ", "03":"Mar. ", "04":"Apr. ", "05":"May ", "06":"Jun. ", "07":"Jul. ", "08":"Aug. ", "09":"Sep. ", "10":"Oct. ", "11":"Nov. ", "12":"Dec." };
-      const days = { "00":"", "01":"1, ", "02":"2, ", "03":"3, ", "04":"4, ", "05":"5, ", "06":"6, ", "07":"7, ", "08":"8, ", "09":"9, " };
-      return `${months[month] || ""}${(days[day]||"")}${year !== "0000" ? year : ""}`;
-    };
-
-    const startDate = formatDateShort(fm.startDate);
-    const endDate = formatDateShort(fm.endDate);
-    const imgSrc = fm.pageThumbnailFile ? `/photos/${fm.pageThumbnailFile}` : "/UI/File%20Not%20Found.jpg";
+    const dateRange = formatDateRange(fm.startDate, fm.endDate);
+    
+    const imgFile = fm.pageThumbnailFile;
+    const lowImgSrc = imgFile ? `/lowphotos/${imgFile}` : "/UI/File%20Not%20Found.jpg";
+    const highImgSrc = imgFile ? `/photos/${imgFile}` : "/UI/File%20Not%20Found.jpg";
     const href = makePermalink(doc.path);
+    const title = fm.title || doc.title || doc.path;
+    const hasDownloads = fm.downloadLinks && fm.downloadLinks.length;
 
     wrapper.innerHTML = `
       <div class="list-page-container">
         <div class="list-image">
           <a href="${href}">
-            <img src="${imgSrc}" class="thumbnail" />
+            <img src="${lowImgSrc}" data-src="${highImgSrc}" class="thumbnail lazy-photo" loading="lazy" />
           </a>
         </div>
         <div class="list-page-content">
           <a href="${href}">
-            ${escapeHtml(fm.title || doc.title || doc.path)}
-            ${fm.downloadLinks && fm.downloadLinks.length ? '<img src="/UI/Emojis/inbox.svg" class="emoji">' : ""}
+            ${escapeHtml(title)}
+            ${hasDownloads ? '<img src="/UI/Emojis/inbox.svg" class="emoji">' : ""}
           </a>
-          <div class="list-page-date">
-            ${startDate} - ${endDate}
-          </div>
+          <div class="list-page-date">${dateRange}</div>
         </div>
       </div>
     `;
     return wrapper;
-  }
-
-  function formatDate(date) {
-    if (!date || date === "0000-00-00") return "?";
-    const parts = (date || "").split("-");
-    if (parts.length !== 3) return date;
-    const year = parts[0] === "0000" ? "?" : parts[0];
-    const monthNum = Number(parts[1]);
-    const dayNum = Number(parts[2]);
-    const months = ["","Jan.","Feb.","Mar.","Apr.","May","Jun.","Jul.","Aug.","Sep.","Oct.","Nov.","Dec."];
-    let monthStr = months[monthNum] || "";
-    let dayStr = dayNum ? `${dayNum}` : "";
-    if (!monthStr && !dayStr) return year;
-    if (monthStr && !dayStr) return `${monthStr} ${year}`;
-    if (!monthStr && dayStr) return `${dayStr} ${year}`;
-    return `${monthStr} ${dayStr}, ${year}`;
   }
 
   function renderPhoto(doc) {
@@ -714,11 +797,9 @@ document.addEventListener("DOMContentLoaded", () => {
       imgURL = `/photos/${fileName}`;
     }
 
-    const formattedStart = formatDate(doc.frontmatter?.startDate || "");
-    const formattedEnd = formatDate(doc.frontmatter?.endDate || "");
-    const dateStr = formattedStart || formattedEnd ? `${formattedStart}${formattedEnd ? ` - ${formattedEnd}` : ""}` : "";
+    const dateRange = formatDateRange(doc.frontmatter?.startDate, doc.frontmatter?.endDate);
     const photoDesc = doc.frontmatter?.photoDescription?.trim();
-    const displayText = photoDesc || doc.title + (dateStr ? ` (${dateStr})` : "");
+    const displayText = photoDesc || doc.title + (dateRange ? ` (${dateRange})` : "");
     const href = makePermalink(doc.path);
 
     wrapper.innerHTML = `
@@ -735,43 +816,65 @@ document.addEventListener("DOMContentLoaded", () => {
   function renderVideo(doc) {
     const wrapper = document.createElement("div");
     wrapper.className = "list-page-block-video";
-    const container = document.createElement("div"); container.className = "list-page-container";
+    const container = document.createElement("div"); 
+    container.className = "list-page-container";
 
-    const videoDiv = document.createElement("div"); videoDiv.className = "list-video";
+    const videoDiv = document.createElement("div"); 
+    videoDiv.className = "list-video";
     const videoURL = doc.title || "";
     let thumbURL = "/UI/File Not Found.jpg";
+    
     if (videoURL.includes("youtube.com")) {
       const videoID = videoURL.replace("https://www.youtube.com/watch?v=","").split("&")[0];
       thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
     } else if (videoURL.includes("youtu.be")) {
-      const parts = videoURL.split("/"); const videoID = parts[parts.length-1]; thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
+      const parts = videoURL.split("/"); 
+      const videoID = parts[parts.length-1]; 
+      thumbURL = `https://img.youtube.com/vi/${videoID}/mqdefault.jpg`;
     } else if (videoURL.includes("archive.org")) {
-      const parts = videoURL.split("/"); const videoID = parts[4] || ""; if (videoID) thumbURL = `https://archive.org/services/img/${videoID}`;
+      const parts = videoURL.split("/"); 
+      const videoID = parts[4] || ""; 
+      if (videoID) thumbURL = `https://archive.org/services/img/${videoID}`;
     }
-    const thumbLink = document.createElement("a"); thumbLink.href = videoURL; thumbLink.target = "_blank";
-    const thumbImg = document.createElement("img"); thumbImg.src = thumbURL; thumbImg.alt = "Video Thumbnail";
-    thumbLink.appendChild(thumbImg); videoDiv.appendChild(thumbLink);
+    
+    const thumbLink = document.createElement("a"); 
+    thumbLink.href = videoURL; 
+    thumbLink.target = "_blank";
+    const thumbImg = document.createElement("img"); 
+    thumbImg.src = thumbURL; 
+    thumbImg.alt = "Video Thumbnail";
+    thumbLink.appendChild(thumbImg); 
+    videoDiv.appendChild(thumbLink);
 
-    const contentDiv = document.createElement("div"); contentDiv.className = "list-page-video-content";
-    const aLink = document.createElement("a"); aLink.href = makePermalink(doc.path || "#");
+    const contentDiv = document.createElement("div"); 
+    contentDiv.className = "list-page-video-content";
+    const aLink = document.createElement("a"); 
+    aLink.href = makePermalink(doc.path || "#");
     const excerpt = (doc.excerpt || "").substring(0,150);
     aLink.textContent = excerpt.length < (doc.excerpt || "").length ? excerpt + "..." : excerpt;
     contentDiv.appendChild(aLink);
-    const dateDiv = document.createElement("div"); dateDiv.className = "list-page-date";
+    
+    const dateDiv = document.createElement("div"); 
+    dateDiv.className = "list-page-date";
     dateDiv.textContent = formatDate(doc.frontmatter?.startDate || "");
     contentDiv.appendChild(dateDiv);
 
-    container.appendChild(videoDiv); container.appendChild(contentDiv); wrapper.appendChild(container);
+    container.appendChild(videoDiv); 
+    container.appendChild(contentDiv); 
+    wrapper.appendChild(container);
     return wrapper;
   }
 
   function renderReview(doc) {
     const wrapper = document.createElement("div");
     wrapper.className = "list-review-block";
-    const container = document.createElement("div"); container.className = "list-review-container";
-    const contentDiv = document.createElement("div"); contentDiv.className = "list-review-content";
+    const container = document.createElement("div"); 
+    container.className = "list-review-container";
+    const contentDiv = document.createElement("div"); 
+    contentDiv.className = "list-review-content";
 
-    const aLink = document.createElement("a"); aLink.href = makePermalink(doc.path || "#");
+    const aLink = document.createElement("a"); 
+    aLink.href = makePermalink(doc.path || "#");
     const recommend = doc.frontmatter?.recommend;
     const baseTitle = doc.frontmatter?.LinkTitle || doc.title || "";
 
@@ -779,21 +882,25 @@ document.addEventListener("DOMContentLoaded", () => {
     const pageTitle = doc.frontmatter?.Page;
     if (pageTitle) {
       const match = DOCS.find(d => d.title === pageTitle);
-      if (match) reviewedPageStr = ` - <a href="${makePermalink(match.path)}">${escapeHtml(match.title)}</a>`;
-      else reviewedPageStr = ` - ${escapeHtml(pageTitle)}`;
+      reviewedPageStr = match 
+        ? ` - <a href="${makePermalink(match.path)}">${escapeHtml(match.title)}</a>`
+        : ` - ${escapeHtml(pageTitle)}`;
     }
     aLink.innerHTML = (recommend === true ? "👍 " : "👎 ") + escapeHtml(baseTitle) + reviewedPageStr;
     contentDiv.appendChild(aLink);
 
-    const dateDiv = document.createElement("div"); dateDiv.className = "list-review-date";
+    const dateDiv = document.createElement("div"); 
+    dateDiv.className = "list-review-date";
     const startDate = doc.frontmatter?.startDate || "";
     let dateText = formatDate(startDate);
     const contributors = doc.frontmatter?.contributors || [];
+    
     if (contributors.length > 0) {
       const contribLinks = contributors.map(c => {
         const match = DOCS.find(d => d.title === c);
-        if (match) return `<a href="${makePermalink(match.path)}">${escapeHtml(match.title)}</a>`;
-        return escapeHtml(c);
+        return match 
+          ? `<a href="${makePermalink(match.path)}">${escapeHtml(match.title)}</a>`
+          : escapeHtml(c);
       }).join(", ");
       dateText += ` - ${contribLinks}`;
     } else {
@@ -802,20 +909,20 @@ document.addEventListener("DOMContentLoaded", () => {
     dateDiv.innerHTML = dateText;
     contentDiv.appendChild(dateDiv);
 
-    const bodyDiv = document.createElement("div"); bodyDiv.className = "list-review-body";
+    const bodyDiv = document.createElement("div"); 
+    bodyDiv.className = "list-review-body";
     bodyDiv.innerHTML = escapeHtml(doc.excerpt || doc.content || "");
     contentDiv.appendChild(bodyDiv);
 
-    container.appendChild(contentDiv); wrapper.appendChild(container);
+    container.appendChild(contentDiv); 
+    wrapper.appendChild(container);
     return wrapper;
   }
 
   function dateSortableRaw(raw) {
     if (!raw) return null;
     const s = String(raw).split(" ")[0];
-    if (!s) return null;
-    if (s.startsWith("0000")) return null;
-    return s;
+    return (s && !s.startsWith("0000")) ? s : null;
   }
   
   function compareDatesForSort(aRaw, bRaw, order='oldest') {
@@ -823,8 +930,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if (!a && !b) return 0;
     if (!a) return 1;
     if (!b) return -1;
-    if (order === 'oldest') return a.localeCompare(b);
-    return b.localeCompare(a);
+    return order === 'oldest' ? a.localeCompare(b) : b.localeCompare(a);
   }
 
   const showMoreObserver = new IntersectionObserver((entries) => {
@@ -949,10 +1055,14 @@ document.addEventListener("DOMContentLoaded", () => {
       existingShow.forEach(s => s.remove());
 
       container.innerHTML = "";
-      if (!arr.length) { container.innerHTML = `<div class="no-results">No results</div>`; return; }
+      if (!arr.length) { 
+        container.innerHTML = `<div class="no-results">No results</div>`; 
+        return; 
+      }
       const limited = (perLimit === Infinity) ? arr : arr.slice(0, perLimit);
       if (renderer === renderPhoto) {
-        const gallery = document.createElement("div"); gallery.className = "gallery";
+        const gallery = document.createElement("div"); 
+        gallery.className = "gallery";
         limited.forEach(item => gallery.appendChild(renderer(item.doc)));
         container.appendChild(gallery);
       } else {
@@ -962,6 +1072,11 @@ document.addEventListener("DOMContentLoaded", () => {
       const totalCount = arr.length;
       const shownCount = limited.length;
       attachSentinel(container, totalCount, shownCount);
+      
+      // Trigger lazy loading for newly rendered images
+      if (typeof initLazyPhotos === 'function') {
+        initLazyPhotos(container);
+      }
     }
 
     clearAndRender(listArticles, articles, renderArticle);
@@ -969,11 +1084,22 @@ document.addEventListener("DOMContentLoaded", () => {
     clearAndRender(listVideos, videos, renderVideo);
     clearAndRender(listReviews, reviews, renderReview);
 
-    const tabCounts = { "tab-articles": articles.length, "tab-photos": photos.length, "tab-videos": videos.length, "tab-reviews": reviews.length };
+    const tabCounts = { 
+      "tab-articles": articles.length, 
+      "tab-photos": photos.length, 
+      "tab-videos": videos.length, 
+      "tab-reviews": reviews.length 
+    };
+    
     SEARCH_TABS.forEach(key => {
       const btn = tabButtons.find(b=>b.dataset.tab===key);
       if (!btn) return;
-      const labelMap = { "tab-articles":"Articles", "tab-photos":"Photos", "tab-videos":"Videos", "tab-reviews":"Reviews" };
+      const labelMap = { 
+        "tab-articles":"Articles", 
+        "tab-photos":"Photos", 
+        "tab-videos":"Videos", 
+        "tab-reviews":"Reviews" 
+      };
       btn.textContent = `${labelMap[key]} (${tabCounts[key]||0})`;
     });
 
@@ -981,10 +1107,17 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   if (resultsPerSelect) {
-    resultsPerSelect.addEventListener("change", () => { executeSearch(); updateSearchLayout(); });
+    resultsPerSelect.addEventListener("change", () => { 
+      executeSearch(); 
+      updateSearchLayout(); 
+    });
   }
+  
   if (articlesSortSelect) {
-    articlesSortSelect.addEventListener("change", () => { executeSearch(); updateSearchLayout(); });
+    articlesSortSelect.addEventListener("change", () => { 
+      executeSearch(); 
+      updateSearchLayout(); 
+    });
   }
 
 });

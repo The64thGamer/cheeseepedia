@@ -6,6 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1990-04-17"
 endDate = "1990-06-00"
 contributors = ["DerekCat","The 64th Gamer","Ceclife13"]
+credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Connie Nelson|Voice of Helen Henny"]
 citations = []
 downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Summer%201990%20%283%20skits%29/027-0417-90%20s00117.wav|Showtape Rip w/ Signals"]
 +++

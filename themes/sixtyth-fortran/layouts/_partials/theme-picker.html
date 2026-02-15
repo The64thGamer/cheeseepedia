@@ -1,228 +1,194 @@
-<select id="colorThemeSelector">
-    <option value="root-theme-standard">Standard</option>
-    <option value="root-theme-dark">Dark</option>
-    <option value="root-theme-light">Light</option>
-    <option value="root-theme-classic">Classic</option>
-    <option value="root-theme-showbiz">ShowBiz</option>
-    <option value="root-theme-fnaf">FNaF</option>
-    <option value="root-theme-pasqually">Italy</option>
-</select>
-<select id="eventThemeSelector">
-    <option value="root-event-holiday">Holidays</option>
-    <option value="root-event-none">None</option>
-</select>
+<button id="settingsButton" class="settings-button" aria-label="Settings"><img src="/UI/Emojis/control_knobs.svg" style="margin-right:0rem; width:1.75rem" class="emoji"></button>
+
+<div id="settingsModal" class="settings-modal">
+  <div class="settings-modal-content">
+    <div class="settings-modal-header">
+      <h2>Settings</h2>
+      <button class="settings-modal-close" id="closeSettings">&times;</button>
+    </div>
+    
+    <div class="settings-modal-body">
+      <div class="setting-group">
+        <label for="colorThemeSelector">Color Theme</label>
+        <select id="colorThemeSelector">
+          <option value="standard">Standard</option>
+          <option value="dark">Dark</option>
+          <option value="light">Light</option>
+          <option value="classic">Classic</option>
+          <option value="showbiz">ShowBiz</option>
+          <option value="fnaf">FNaF</option>
+          <option value="pasqually">Italy</option>
+          <option value="halloween">Halloween</option>
+          <option value="pride">Pride</option>
+          <option value="winter">Winter</option>
+          <option value="anniversary">Anniversary</option>
+        </select>
+      </div>
+
+      <div class="setting-group">
+        <label for="eventThemeSelector">Seasonal Themes</label>
+        <select id="eventThemeSelector">
+          <option value="auto">Auto (Date-Based)</option>
+          <option value="off">Off</option>
+        </select>
+      </div>
+
+      <div class="setting-group">
+        <label for="pageWidthSelector">Page Width</label>
+        <select id="pageWidthSelector">
+          <option value="default">Default</option>
+          <option value="wide">Wide</option>
+        </select>
+      </div>
+    </div>
+
+    <div class="settings-modal-footer">
+      All settings are stored locally on your device and are not shared.
+    </div>
+  </div>
+</div>
+
 <script>
-const colorSets = {
-    "root-theme-standard": {
-        "--blue": "#233355",
-        "--aqua": "#39A481",
-        "--white": "#dbd1b1",
-        "--deep-white": "#62777a",
-        "--yellow": "#e0961f",
-        "--orange": "#D44A02",
-        "--deep-orange": "#993b08",
-        "--brown": "#2c2422"
-    },
-    "root-theme-winter": {
-        "--blue": "#1c3d4d",
-        "--aqua": "#47AEB3",
-        "--white": "#ccc",
-        "--deep-white": "#47757b",
-        "--yellow": "#3c8636",
-        "--orange": "#376A3C",
-        "--deep-orange": "#4a7e86",
-        "--brown": "#1a1e37"
-    },
-    "root-theme-halloween": {
-        "--blue": "#0e0611",
-        "--aqua": "#CE2929",
-        "--white": "#f2de73",
-        "--deep-white": "#795677",
-        "--yellow": "#9f5620",
-        "--orange": "#DF7426",
-        "--deep-orange": "#24172f",
-        "--brown": "#220902"
-    },
-    "root-theme-pride": {
-        "--blue": "#7d0c4c",
-        "--aqua": "#ff7fc4",
-        "--white": "#dbd1b1",
-        "--deep-white": "#da62a3",
-        "--yellow": "#e38d59",
-        "--orange": "#de2d1e",
-        "--deep-orange": "#b33227",
-        "--brown": "#2c2422"
-    },
-    "root-theme-anniversary": {
-        "--blue": "#404040",
-        "--aqua": "#888",
-        "--white": "#d9d9d9",
-        "--deep-white": "#737373",
-        "--yellow": "#a2a2a2",
-        "--orange": "#686868",
-        "--deep-orange": "#2f2f2f",
-        "--brown": "#222"
-    },
-    "root-theme-dark": {
-        "--blue": "#000c26",
-        "--aqua": "#24795D",
-        "--white": "#ccc5ab",
-        "--deep-white": "#43666c",
-        "--yellow": "#ac7318",
-        "--orange": "#8C3000",
-        "--deep-orange": "#000000",
-        "--brown": "#000000"
-    },
-    "root-theme-light": {
-        "--blue": "#fff",
-        "--aqua": "#3b6bbf",
-        "--white": "#2f2e2a",
-        "--deep-white": "#b9b9b9",
-        "--yellow": "#959595",
-        "--orange": "#646464",
-        "--deep-orange": "#fff",
-        "--brown": "#c4c4c4"
-    },
-    "root-theme-classic": {
-        "--blue": "#1e2c4c",
-        "--aqua": "#d73333",
-        "--white": "#FFF",
-        "--deep-white": "#62777a",
-        "--yellow": "#4070D0",
-        "--orange": "#121d34",
-        "--deep-orange": "#1e2c4c",
-        "--brown": "#121d34"
-    },
-    "root-theme-showbiz": {
-        "--blue": "#201f1f",
-        "--aqua": "#A66332",
-        "--white": "#dbd1b1",
-        "--deep-white": "#716666",
-        "--yellow": "#d2c72a",
-        "--orange": "#d29400",
-        "--deep-orange": "#df221c",
-        "--brown": "#171515"
-    },
-    "root-theme-pasqually": {
-        "--blue": "#6D1A1F",
-        "--aqua": "#009047",
-        "--white": "#d9d7d1",
-        "--deep-white": "#9b6767",
-        "--yellow": "#d9d7d1",
-        "--orange": "#CD2F3A",
-        "--deep-orange": "#009047",
-        "--brown": "#2f1515"
-    },
-    "root-theme-fnaf": {
-        "--blue": "#141122",
-        "--aqua": "#7246EE",
-        "--white": "#c6c6c6",
-        "--deep-white": "#5b5373",
-        "--yellow": "#555",
-        "--orange": "#736100",
-        "--deep-orange": "#000",
-        "--brown": "#000"
-    }
-};
-
-const root = document.documentElement;
-const snowContainer = document.getElementById("snow_wrap");
-
 const logoMap = {
-    "root-theme-standard": "/UI/CEPLogo.png",
-    "root-theme-dark": "/UI/LogoDark.png",
-    "root-theme-light": "/UI/LogoLight.png",
-    "root-theme-classic": "/UI/LogoClassic.png",
-    "root-theme-showbiz": "/UI/LogoShowBiz.png",
-    "root-theme-fnaf": "/UI/LogoFNaF.png",
-    "root-theme-anniversary": "/UI/LogoAnniversary.png",
-    "root-theme-halloween": "/UI/LogoHalloween.png",
-    "root-theme-pride": "/UI/LogoPride.png",
-    "root-theme-winter": "/UI/LogoWinter.png",
-    "root-theme-pasqually": "/UI/LogoPasqually.png"
+  "standard": "/UI/CEPLogo.png",
+  "dark": "/UI/LogoDark.png",
+  "light": "/UI/LogoLight.png",
+  "classic": "/UI/LogoClassic.png",
+  "showbiz": "/UI/LogoShowBiz.png",
+  "fnaf": "/UI/LogoFNaF.png",
+  "anniversary": "/UI/LogoAnniversary.png",
+  "halloween": "/UI/LogoHalloween.png",
+  "pride": "/UI/LogoPride.png",
+  "winter": "/UI/LogoWinter.png",
+  "pasqually": "/UI/LogoPasqually.png"
 };
 
 function updateLogo(theme) {
-    const logo = document.getElementById("mainLogo");
-    if (logoMap[theme]) {
-        logo.src = logoMap[theme];
-    }
+  const logo = document.getElementById("mainLogo");
+  if (logo && logoMap[theme]) {
+    logo.src = logoMap[theme];
+  }
 }
 
 function updateSnow(theme) {
-    if (!snowContainer) return;
-    snowContainer.style.display = (theme === "root-theme-winter") ? "block" : "none";
+  const snowContainer = document.getElementById("snow_wrap");
+  if (!snowContainer) return;
+  snowContainer.style.display = (theme === "winter") ? "block" : "none";
+}
+
+function updateFnaf(theme) {
+  const fnafContainer = document.getElementById("fnaf_wrap");
+  if (!fnafContainer) return;
+  fnafContainer.style.display = (theme === "fnaf") ? "block" : "none";
 }
 
 function applyTheme(theme) {
-    const colors = colorSets[theme];
-    for (let variable in colors) {
-        root.style.setProperty(variable, colors[variable]);
-    }
-    updateLogo(theme);
-    updateSnow(theme);
+  const root = document.documentElement;
+  if (theme === "standard") {
+    root.removeAttribute("data-theme");
+  } else {
+    root.setAttribute("data-theme", theme);
+  }
+  updateLogo(theme);
+  updateSnow(theme);
+  updateFnaf(theme);
+}
+
+function applyPageWidth(width) {
+  const root = document.documentElement;
+  if (width === "default") {
+    root.removeAttribute("data-width");
+  } else {
+    root.setAttribute("data-width", width);
+  }
 }
 
 function applyDateBasedTheme() {
-    const today = new Date();
-    const month = today.getMonth() + 1;
-    const date = today.getDate();
+  const today = new Date();
+  const month = today.getMonth() + 1;
+  const date = today.getDate();
 
-    if (month === 10) return "root-theme-halloween";
-    if (month === 6 || month === 7) return "root-theme-pride";
-    if (month === 5 && date === 17) return "root-theme-anniversary";
-    if (month === 12) return "root-theme-winter";
+  if (month === 10) return "halloween";
+  if (month === 6 || month === 7) return "pride";
+  if (month === 5 && date === 17) return "anniversary";
+  if (month === 12) return "winter";
 
-    return null;
+  return null;
 }
+
+function determineActiveTheme() {
+  const selectedTheme = document.getElementById('colorThemeSelector').value;
+  const eventSelection = document.getElementById('eventThemeSelector').value;
+  
+  let themeToApply = selectedTheme;
+  
+  if (eventSelection === "auto") {
+    const seasonalTheme = applyDateBasedTheme();
+    if (seasonalTheme) themeToApply = seasonalTheme;
+  }
+  
+  return themeToApply;
+}
+
+// Settings modal
+const settingsButton = document.getElementById('settingsButton');
+const settingsModal = document.getElementById('settingsModal');
+const closeSettings = document.getElementById('closeSettings');
+
+settingsButton.addEventListener('click', () => {
+  settingsModal.style.display = 'flex';
+});
+
+closeSettings.addEventListener('click', () => {
+  settingsModal.style.display = 'none';
+});
+
+// Close modal when clicking outside
+settingsModal.addEventListener('click', (e) => {
+  if (e.target === settingsModal) {
+    settingsModal.style.display = 'none';
+  }
+});
+
+// Close with Escape key
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && settingsModal.style.display === 'flex') {
+    settingsModal.style.display = 'none';
+  }
+});
 
 // Color theme selector
 document.getElementById('colorThemeSelector').addEventListener('change', function () {
-    const selectedSet = this.value;
-    const eventSelection = document.getElementById('eventThemeSelector').value;
-
-    let themeToApply = selectedSet;
-
-    if (eventSelection === "root-event-holiday") {
-        const seasonalTheme = applyDateBasedTheme();
-        if (seasonalTheme) themeToApply = seasonalTheme;
-    }
-
-    applyTheme(themeToApply);
-    localStorage.setItem('selectedColorSet', selectedSet);
+  const themeToApply = determineActiveTheme();
+  applyTheme(themeToApply);
+  localStorage.setItem('selectedColorTheme', this.value);
 });
 
 // Event selector
 document.getElementById('eventThemeSelector').addEventListener('change', function () {
-    const eventSelection = this.value;
-    const selectedSet = document.getElementById('colorThemeSelector').value;
+  const themeToApply = determineActiveTheme();
+  applyTheme(themeToApply);
+  localStorage.setItem('eventThemeSetting', this.value);
+});
 
-    let themeToApply = selectedSet;
-
-    if (eventSelection === "root-event-holiday") {
-        const seasonalTheme = applyDateBasedTheme();
-        if (seasonalTheme) themeToApply = seasonalTheme;
-    }
-
-    applyTheme(themeToApply);
-    localStorage.setItem('eventThemeSetting', eventSelection);
+// Page width selector
+document.getElementById('pageWidthSelector').addEventListener('change', function () {
+  applyPageWidth(this.value);
+  localStorage.setItem('pageWidth', this.value);
 });
 
 // Initial load
 window.addEventListener('DOMContentLoaded', () => {
-    const savedSet = localStorage.getItem('selectedColorSet') || "root-theme-standard";
-    const savedEvent = localStorage.getItem('eventThemeSetting') || "root-event-holiday";
+  const savedTheme = localStorage.getItem('selectedColorTheme') || "standard";
+  const savedEvent = localStorage.getItem('eventThemeSetting') || "auto";
+  const savedWidth = localStorage.getItem('pageWidth') || "default";
 
-    document.getElementById('colorThemeSelector').value = savedSet;
-    document.getElementById('eventThemeSelector').value = savedEvent;
+  document.getElementById('colorThemeSelector').value = savedTheme;
+  document.getElementById('eventThemeSelector').value = savedEvent;
+  document.getElementById('pageWidthSelector').value = savedWidth;
 
-    let themeToApply = savedSet;
-
-    if (savedEvent === "root-event-holiday") {
-        const seasonalTheme = applyDateBasedTheme();
-        if (seasonalTheme) themeToApply = seasonalTheme;
-    }
-
-    applyTheme(themeToApply);
+  const themeToApply = determineActiveTheme();
+  applyTheme(themeToApply);
+  applyPageWidth(savedWidth);
 });
 </script>

@@ -3,11 +3,11 @@ draft = false
 title = "Harmony Howlette's Wild West Show"
 startDate = "1981-00-00"
 endDate = "0000-00-00"
-pageThumbnailFile = ""
+pageThumbnailFile = "Now-Appearing-Harmony-Howlette.avif"
 contributors = ["Luigigamin212", "Ceclife13"]
 citations = ["https://www.youtube.com/playlist?list=PLTXoj5l850hHY0I08ORdUcE4ig7eAd6X3"]
 showtapeFormats = ["Cyberamics Reel"]
-credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenihan|Voice of Harmony Howlette", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Harmony Howlette", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
 transcriptions = ["Waltz across Texas", "Honky Tonkin'", "Deep in the Heart of Texas"]
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]

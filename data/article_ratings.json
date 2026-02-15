@@ -16,7 +16,7 @@
     "start_year": 1985,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -1966,7 +1966,7 @@
     "start_year": 1982,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 1
   },
   {
@@ -3636,8 +3636,8 @@
     "start_year": 1982,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 3
   },
   {
     "title": "PTT Token 148 (B, N)",
@@ -6106,7 +6106,7 @@
     "start_year": 1988,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -9406,7 +9406,7 @@
     "start_year": 1983,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -13110,6 +13110,16 @@
     "rating": 0
   },
   {
+    "title": "CEC Roadshow January 2002",
+    "page_path": "content/wiki/cec-roadshow-january-2002.md",
+    "startDate": "2002-01-00",
+    "start_year": 2002,
+    "category": "Chuck E. Cheese's",
+    "tag": "Live Shows",
+    "contributors_count": 2,
+    "rating": 0
+  },
+  {
     "title": "Madame Oink",
     "page_path": "content/wiki/madame-oink.md",
     "startDate": "",
@@ -13306,7 +13316,7 @@
     "start_year": 1985,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 1
   },
   {
@@ -13506,7 +13516,7 @@
     "start_year": 1986,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -15666,7 +15676,7 @@
     "start_year": 1979,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 0
   },
   {
@@ -17296,7 +17306,7 @@
     "start_year": 2015,
     "category": "Chuck E. Cheese's",
     "tag": "Stage Variations",
-    "contributors_count": 69,
+    "contributors_count": 34,
     "rating": 0
   },
   {
@@ -25116,7 +25126,7 @@
     "start_year": 1986,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 1
   },
   {
@@ -27212,7 +27222,7 @@
   {
     "title": "Road Shows",
     "page_path": "content/wiki/road-shows.md",
-    "startDate": "2000-03-00",
+    "startDate": "2000-04-00",
     "start_year": 2000,
     "category": "Chuck E. Cheese's",
     "tag": "Remodels and Initiatives",
@@ -32496,7 +32506,7 @@
     "start_year": 1985,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -35586,7 +35596,7 @@
     "start_year": 1984,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -41662,8 +41672,8 @@
   {
     "title": "Chuck E. Birthday 2015 Spanish",
     "page_path": "content/wiki/chuck-e-birthday-2015-spanish.md",
-    "startDate": "2014-04-20",
-    "start_year": 2014,
+    "startDate": "2015-04-20",
+    "start_year": 2015,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
     "contributors_count": 2,
@@ -47766,7 +47776,7 @@
     "start_year": 2002,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -49002,12 +49012,12 @@
   {
     "title": "Chuck E. Cheese's Portable Live Show",
     "page_path": "content/wiki/chuck-e-cheese-s-portable-live-show.md",
-    "startDate": "2000-03-00",
+    "startDate": "2000-04-00",
     "start_year": 2000,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
-    "contributors_count": 2,
-    "rating": 0
+    "contributors_count": 3,
+    "rating": 1
   },
   {
     "title": "Super Chuck E.",
@@ -50256,7 +50266,7 @@
     "start_year": 1986,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -50756,7 +50766,7 @@
     "start_year": 1985,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -52136,7 +52146,7 @@
     "start_year": 1978,
     "category": "Pizza Time Theatre",
     "tag": "Animatronics",
-    "contributors_count": 9,
+    "contributors_count": 10,
     "rating": 2
   },
   {
@@ -53576,7 +53586,7 @@
     "start_year": 2001,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -55876,7 +55886,7 @@
     "start_year": 1980,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -58516,7 +58526,7 @@
     "start_year": 1978,
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 3
   },
   {
