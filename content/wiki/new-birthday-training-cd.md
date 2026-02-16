@@ -6,6 +6,7 @@ categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "bday02trainingcdart.avif"
 startDate = "2002-04-00"
 endDate = "0000-00-00"
+mediaDuration = "3:14"
 contributors = ["Ceclife13"]
 +++
 

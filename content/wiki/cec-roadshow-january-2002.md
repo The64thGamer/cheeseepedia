@@ -5,6 +5,7 @@ startDate = "2002-01-00"
 endDate = "2002-03-00"
 pageThumbnailFile = "jan02roadshowdiscart.avif"
 contributors = ["Ceclife13", "CyberSnout"]
+mediaDuration = "21:27"
 citations = []
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
@@ -15,25 +16,17 @@ categories = ["Chuck E. Cheese's"]
 
 1. **Track 1**
     1. Birthday Star (Short)
-    2. 3 Minute Blank Space
 2. **Track 2**
     1. If You’re Happy and You Know It
-    2. 3 Minute Blank Space
 3. **Track 3**
     1. B.I.N.G.O.
-    2. 3 Minute Blank Space
 4. **Track 4**
     1. Havin’ a Party
-    2. 3 Minute Blank Space
 5. **Track 5**
     1. Chuck E. March (Short)
-    2. 3 Minute Blank Space
 6. **Track 6**
-    1. Patriotic Medley
-    2. 3 Minute Blank Space
+    1. Patriotic Medley (Short)
 7. **Track 7**
     1. Chuck E. Says
-    2. 3 Minute Blank Space
 8. **Track 8**
     1. Spanish Birthday
-    2. 3 Minute Blank Space

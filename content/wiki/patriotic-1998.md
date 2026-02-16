@@ -5,6 +5,7 @@ startDate = "1998-06-23"
 endDate = "1998-07-06"
 pageThumbnailFile = "nKdnktH7tMqpuqZk0Ewg.avif"
 contributors = ["Cyber Snout", "The 64th Gamer","Ceclife13"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Jeremy Blaido", "Robert Gotcher", "Brian Hagan|Programmer", "The United States Department of Defense|Provider of Military Footage']
 citations = []
 showtapeFormats = ["R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
@@ -54,18 +55,6 @@ An additional letter and videotape would come with this tape, stating to keep th
 16. **Segment 9**
     1.  'Pledge Of Allegiance'
     2.  'You're A Grand Old Flag'
-
-## Live Shows:
-
-**Live Shows would be on separate VHS tapes for Existing Stage stores.**
-
-- Birthday Star 95'
-- Chuck E. March
-- Havin' A Party
-- Chuck E's Fiesta Mexicana
-- Chuck E. Says
-- Chuck E. Shuffle
-- Patriotic Live
 
 ## Trivia
 

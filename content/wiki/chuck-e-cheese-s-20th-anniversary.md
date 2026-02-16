@@ -6,7 +6,7 @@ endDate = "1997-08-04"
 pageThumbnailFile = "4H0_dN3Xt9jzrIjywaZx.avif"
 contributors = ["StudioC", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=wAW1HVEZxRk"]
-credits = ["Duncan Brannan - Programmer, Voice of Chuck E. Cheese, Mr. Munch, Fly", "Annagrey Weichman - Singing Voice of Helen Henny", "Karlisa Burleson - Voice of Helen Henny", "Bob West - Voice of Jasper T. Jowls, Pasqually The Chef", "Steve White - Scriptwriter, Songwriter", "Brave Combo", "Stokes Group - Video Editing"]
+credits = ["Duncan Brannan|Programmer, Voice of Chuck E. Cheese, Mr. Munch, Fly", "Annagrey Weichman|Singing Voice of Helen Henny", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Steve White|Scriptwriter, Songwriter", "Brave Combo", "Stokes Group|Video Editing"]
 mediaDuration = "46:28"
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)", "C&R SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/April%201997%203-stage-009.iso|Post '93 3-Stage SVHS w/ Signals"]

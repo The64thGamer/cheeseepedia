@@ -5,6 +5,7 @@ startDate = "2000-07-00"
 endDate = "2000-08-31"
 pageThumbnailFile = "xtTy7iCQBlJJCf40JMlv.avif"
 contributors = ["The 64th Gamer", "Cyber Snout", "Ceclife13", "BurgersNuggs445"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls", "Robert Gotcher|Production Coordinator", "Brian Hagan|Studio Manager", "Brent Gray|Studio Coordinator"]
 mediaDuration = "28:22"
 citations = []
 tags = ["Showtapes"]
@@ -19,7 +20,7 @@ categories = ["Chuck E. Cheese's"]
     1.  'Summertime'
     2.  'Fun, Fun, Fun'
 2.  **Intermission 1**
-    1.  Karaoke Spot (Studio C only)
+    1.  Karaoke Spot (Studio C)
     2.  Wildlife
     3.  Time To Fly! (Studio C)
     4.  Store Intro - 'Brick NJ' (Cookie)

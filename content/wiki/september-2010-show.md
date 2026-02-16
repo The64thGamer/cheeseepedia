@@ -4,9 +4,9 @@ title = "September 2010 Show"
 startDate = "2010-09-01"
 endDate = "2010-11-30"
 pageThumbnailFile = "Mn5SDKAE31xlkb6iL7Hs.avif"
-contributors = ["The 64th Gamer", "Cyber Snout", "Mousester", "Anonymous"]
+contributors = ["The 64th Gamer", "Cyber Snout", "Mousester", "Anonymous", "Ceclife13"]
 citations = ["Showtape Stock Music"]
-credits = ["Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Coordinator"]
+credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Matt Daniel|Production Coordinator"]
 mediaDuration = "1:22:49"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 tags = ["Showtapes"]
@@ -35,7 +35,7 @@ This show featured eight songs from various shows released throughout the 2000s.
    1. CEC TV ID - 'Crane Game'
    2. Sound Splosion: Ralph's World - 'My Magic Trick'
    3. Animal Atlas - 'Animal Passport'
-   4. Trivia - 'Continent'
+   4. Trivia - 'Not a Continent'
    5. CEC TV ID - 'Pizza Parachute'
 6. **Segment 3**
    1. 'No Other Place'
@@ -58,7 +58,7 @@ This show featured eight songs from various shows released throughout the 2000s.
     1. Fun Facts - 'Lobsters'
     2. CEC TV ID - 'Skee Ball'
     3. Dive Olly Dive! - 'Uma Under The Weather!'
-    4. Shout Factory Presents: Leave It To Beaver
+    4. Shout! Factory Presents: Leave It To Beaver
 12. **Segment 6**
     1. 'Three Little Investors'
 13. **Intermission 6**

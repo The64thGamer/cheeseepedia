@@ -14,16 +14,9 @@ categories = ["Chuck E. Cheese's"]
 +++
 **Spring 2012 Show** is a showtape which released in April 2012 and played through the spring. This was the last new showtape released to feature Duncan Brannan as Chuck E. Cheese.
 
-## Summary
-
-   At the start of segment one, the Announcer (Alowicious Dimpleton) stops in the middle of the showtime intro, stating that he's unhappy with his life and wants to become a break dancing Teddy Bear. Pasqually gives his own Teddy Bear costume to Alowicious, and this costume would appear throughout the show. After the band sings 'Party Rock' the band is introduced to Steve Waters, Pasqually's vocal Coach, who advertises Pepsi Max throughout the segment. Steve convinces Pasqually to sing a song that they've been practicing, 'The Final Countdown'. Partly through the song, it is revealed that Pasqually has actually been lip-syncing to Steve Waters. The band and Steve encourage Pasqually to get over his fears and finish the song, which he does successfully. After the song, Steve says goodbye and leaves on a jet ski. At the end of the segment, Larry the Technician asks Chuck if he can change the channel to watch his new favorite show, 'Hard Hat Hank'.
-   In segment two, Munch receives an email from a fan on his keyboard, which asks the band what they like to do in their free time. The band takes turns answering the question. After Pasqually's answers weird out the rest of the band, they perform 'Camouflage'. After the song, the band discusses how they are all unique, then Chuck E. introduces VeggieTales.
-   Segment three starts with Chuck E. introducing the band. Then Helen talks about a romantic dream she had, which leads into 'Love Story'. After the song, the show gets interrupted by Alowicious, who is looking for his keys. Pasqually then asks Munch to sing a song he's been working on. After the song, Marvin the Technology Guru shows up, and Chuck E. introduces him to the audience. Marvin showcases various inventions he has discovered, though all of the inventions are well-known things that already exist.
-   Segment four starts with Alowicious introducing the band. Then Chuck E. sadly greets the audience and reveals that he wanted to go for a bike ride, but something was wrong with his wheel. He tells the story by singing 'Need A New Wheel', and by the end of the song, everything is better. The band then discusses how all of their problems seem to get solved by singing. Pasqually tells the band it's time for a joke, and a new theme song plays, which also announces that it's time for a joke. After the joke, Chuck E. convinces Helen to sing a new song she's been practicing. After she sings 'Best of My Love', the band tells the audience how much they appreciate them. This leads Pasqually into talking about how he used to be in a band of squirrels that rarely had an audience. As the segment ends, Munch finally figures out the joke Pasqually told earlier.
-
 ## Show List
 
-1.   **Segment 1**
+1.  **Segment 1**
     1.  ['Party Rock Anthem'](https://en.wikipedia.org/wiki/Party_Rock_Anthem)
     2.  ['The Final Countdown'](https://en.wikipedia.org/wiki/The_Final_Countdown_(song))
 2.  **Intermission 1**
@@ -40,7 +33,7 @@ categories = ["Chuck E. Cheese's"]
     2.  The Dirty Sock Funtime Band - 'Love It'
     3.  Chillout - 'Flying'
     4.  CEC TV ID - 'Astronauts'
-5.   **Segment 3**
+5. **Segment 3**
     1.  ['Love Story'](https://en.wikipedia.org/wiki/Love_Story_(Taylor_Swift_song))
     2.  'Pizza Oven' (Parody of ['Evil Woman'](https://en.wikipedia.org/wiki/Evil_Woman_(Electric_Light_Orchestra_song)))
 6.  **Intermission 3**
@@ -67,6 +60,16 @@ categories = ["Chuck E. Cheese's"]
 - {{< wiki-link "Chuck E Says 2002" >}}
 - If You're Happy & You Know It
 - Old MacDonald
+
+## Summary
+
+   At the start of segment one, the Announcer (Alowicious Dimpleton) stops in the middle of the showtime intro, stating that he's unhappy with his life and wants to become a break dancing Teddy Bear. Pasqually gives his own Teddy Bear costume to Alowicious, and this costume would appear throughout the show. After the band sings 'Party Rock' the band is introduced to Steve Waters, Pasqually's vocal Coach, who advertises Pepsi Max throughout the segment. Steve convinces Pasqually to sing a song that they've been practicing, 'The Final Countdown'. Partly through the song, it is revealed that Pasqually has actually been lip-syncing to Steve Waters. The band and Steve encourage Pasqually to get over his fears and finish the song, which he does successfully. After the song, Steve says goodbye and leaves on a jet ski. At the end of the segment, Larry the Technician asks Chuck if he can change the channel to watch his new favorite show, 'Hard Hat Hank'.
+
+   In segment two, Munch receives an email from a fan on his keyboard, which asks the band what they like to do in their free time. The band takes turns answering the question. After Pasqually's answers weird out the rest of the band, they perform 'Camouflage'. After the song, the band discusses how they are all unique, then Chuck E. introduces VeggieTales.
+
+   Segment three starts with Chuck E. introducing the band. Then Helen talks about a romantic dream she had, which leads into 'Love Story'. After the song, the show gets interrupted by Alowicious, who is looking for his keys. Pasqually then asks Munch to sing a song he's been working on. After the song, Marvin the Technology Guru shows up, and Chuck E. introduces him to the audience. Marvin showcases various inventions he has discovered, though all of the inventions are well-known things that already exist.
+
+   Segment four starts with Alowicious introducing the band. Then Chuck E. sadly greets the audience and reveals that he wanted to go for a bike ride, but something was wrong with his wheel. He tells the story by singing 'Need A New Wheel', and by the end of the song, everything is better. The band then discusses how all of their problems seem to get solved by singing. Pasqually tells the band it's time for a joke, and a new theme song plays, which also announces that it's time for a joke. After the joke, Chuck E. convinces Helen to sing a new song she's been practicing. After she sings 'Best of My Love', the band tells the audience how much they appreciate them. This leads Pasqually into talking about how he used to be in a band of squirrels that rarely had an audience. As the segment ends, Munch finally figures out the joke Pasqually told earlier.
 
 ## Production{{< cite 1 >}}
 

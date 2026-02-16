@@ -6,7 +6,7 @@ endDate = "1996-11-00"
 pageThumbnailFile = "dNeZTqPyEJMiCWPkBDhZ.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Mousester", "BurgersNuggs445"]
 citations = ["https://www.youtube.com/watch?v=mK2aIbNAt74","https://www.youtube.com/watch?v=ozcvlfNow0g","https://youtu.be/-o1juw-Td-k?si=38YsFgn762RDcUn8","https://www.youtube.com/watch?v=uinS1MfoOvI"]
-credits = ["Duncan Brannan - Programmer, Voice of Chuck E. Cheese, Mr. Munch, Show Announcer", "Annagrey Weichman - Singing Voice of Helen Henny", "Karlisa Burleson - Voice of Helen Henny", "Bob West - Voice of Jasper T. Jowls, Pasqually The Chef", "Steve White - Scriptwriter, Songwriter, Singing Voice (Demo Recordings)", "Carl Finch - Songwriter", "Joe Cripps - Songwriter", "Jeffrey Barnes - Songwriter", "Bubba Hernandez - Songwriter", "Stokes Group - Video Editing"]
+credits = ["Duncan Brannan|Programmer, Voice of Chuck E. Cheese, Mr. Munch, Show Announcer", "Annagrey Weichman|Singing Voice of Helen Henny", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Steve White|Scriptwriter, Songwriter, Singing Voice (Demo Recordings)", "Carl Finch|Songwriter", "Joe Cripps|Songwriter", "Jeffrey Barnes|Songwriter", "Bubba Hernandez|Songwriter", "Stokes Group|Video Editing"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/August%201996%203-Stage.iso|Post '93 3-Stage SVHS w/ Signals"]
 tags = ["Showtapes"]

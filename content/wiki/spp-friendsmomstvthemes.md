@@ -11,14 +11,14 @@ pageThumbnailFile = "MFxBrgSKEfzNinorBwfz.avif"
 showtapeFormats = ["ShowBiz SVHS"]
 alsoKnownAs = ["260-0611-90 (C) S.P.T. Inc. SPP FRIENDS/MOMS/TV THEMES WAVE Serial #00205 Deck - 5 06/11/90 - Master CYBERSTAR","260-0611-90 (C) S.P.T. Inc. SPP FRIENDS/MOMS/TV THEMES WAVE Serial #00156 Deck - 6 06/11/90 - Master HIFI-DLBY"]
 +++
-***SPP Friends / Moms / TV Themes* is one of the last few showtapes released for *ShowBiz Pizza Place's* hosting the *Rock-afire Explosion*, releasing on June 11, 1990.
+***SPP Friends / Moms / TV Themes*** is one of the last few showtapes released for *ShowBiz Pizza Place's* hosting the *Rock-afire Explosion*, releasing on June 11, 1990.
 For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape
 sent after {{< wiki-link "SPP Christmas '89 Wave Bday" >}} would become
 increasingly more rare as stores would convert to *3-Stages.*
-It was also the final showtape to feature any new *Rock-afire Explosion* material from CEI as Friends, and Rock
+It was also the final showtape to feature any new *Rock-afire Explosion* material from CEI as Friends and Rock
 & Roll Tribute were the last segments they've released.
-In September 1990 they released {{< wiki-link "SPP Best of 1 Kids/Friends" >}}out of 5 in a series of compilation tapes, *ShowBiz Pizza Place* locations would play them
-until that store received *Concept Unification*.**
+In September 1990 they released {{< wiki-link "SPP Best of 1 Kids/Friends" >}} out of 5 in a series of compilation tapes, *ShowBiz Pizza Place* locations would play them
+until that store received *Concept Unification*.
 
 ## Show List:
 
@@ -53,7 +53,7 @@ until that store received *Concept Unification*.**
         2.  Birthday Spectacular
         3.  [The Downeaster 'Alexa'](https://en.wikipedia.org/wiki/The_Downeaster_%22Alexa%22)
     2.  It's Showtime!
-6.**Video 1**
+6. **Video 1**
     1.  [CGI Animated Graphics](https://en.wikipedia.org/wiki/Odyssey_Productions)
         1.  Cosmic Zoom
         2.  Metafable
@@ -74,7 +74,7 @@ until that store received *Concept Unification*.**
             Good In Blue](https://en.wikipedia.org/wiki/Your_Baby_Never_Looked_Good_in_Blue)
     2.  Cyberstar Intro
 10. **Segment 4**
-    1.  {{< wiki-link "TV Themes (Cyberstar Segment)" "TV Themes" >}}
+    1.  TV Themes
         1.  [Wild, Wild West](https://en.wikipedia.org/wiki/Wild,_Wild_West_(The_Escape_Club_song))
         2.  [The Wild Wild West Theme Song](https://en.wikipedia.org/wiki/The_Wild_Wild_West)
         3.  [Bonanza](https://en.wikipedia.org/wiki/Bonanza_(song))
