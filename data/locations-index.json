@@ -7167,18 +7167,6 @@
       "sort": "20030530"
     },
     {
-      "page_get": "wiki/bayamon-puerto-rico-rexville-town-center",
-      "page_path": "content/wiki/bayamon-puerto-rico-rexville-town-center",
-      "page_title": "Bayamon, Puerto Rico (Rexville Town Center)",
-      "parts": [
-        "Studio C Beta",
-        "2003-06-00",
-        "",
-        ""
-      ],
-      "sort": "20030600"
-    },
-    {
       "page_get": "wiki/albuquerque-nm-10510-coors-blvd",
       "page_path": "content/wiki/albuquerque-nm-10510-coors-blvd",
       "page_title": "Albuquerque, NM (10510 Coors Blvd)",
@@ -26956,6 +26944,16 @@
       "sort": "20000926"
     },
     {
+      "page_get": "wiki/bayamon-puerto-rico-rexville-town-center",
+      "page_path": "content/wiki/bayamon-puerto-rico-rexville-town-center",
+      "page_title": "Bayamon, Puerto Rico (Rexville Town Center)",
+      "parts": [
+        "SPT 1990's Remodel Program",
+        "2003-06-00"
+      ],
+      "sort": "20030600"
+    },
+    {
       "page_get": "wiki/jackson-tn-2021-north-highland-ave",
       "page_path": "content/wiki/jackson-tn-2021-north-highland-ave",
       "page_title": "Jackson, TN (2021 North Highland Ave)",
@@ -28303,18 +28301,149 @@
       "sort": "20240620"
     }
   ],
-  "animatronics|Choo Choo (Animatronic)1982-04-27": [
+  "animatronics|Choo Choo (Animatronic)": [
+    {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1981-07-15",
+        "0000-00-00",
+        "1-81 8-5",
+        "Unknown"
+      ],
+      "sort": "19810715"
+    },
+    {
+      "page_get": "wiki/st-louis-mo-2805-target-dr",
+      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
+      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1981-09-30",
+        "0000-00-00",
+        "1-81 8-13",
+        "Unknown/Destroyed"
+      ],
+      "sort": "19810930"
+    },
+    {
+      "page_get": "wiki/sharonville-oh-1429-e-kemper-rd",
+      "page_path": "content/wiki/sharonville-oh-1429-e-kemper-rd",
+      "page_title": "Sharonville, OH (1429 E Kemper Rd)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1981-10-21",
+        "1984-01-08",
+        "4-81 8-5",
+        "Sent to Miami, FL (19191 S Dixie Hwy)"
+      ],
+      "sort": "19811021"
+    },
+    {
+      "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
+      "page_path": "content/wiki/cincinnati-oh-8801-colerain-ave",
+      "page_title": "Cincinnati, OH (8801 Colerain Ave)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1981-11-11",
+        "1997-00-00",
+        "4-81 8-8",
+        "Unknown"
+      ],
+      "sort": "19811111"
+    },
     {
       "page_get": "wiki/orlando-winter-park-fl-1300-lee-rd",
       "page_path": "content/wiki/orlando-winter-park-fl-1300-lee-rd",
       "page_title": "Orlando / Winter Park, FL (1300 Lee Rd)",
       "parts": [
-        "Choo Choo (Animatronic)1982-04-27",
+        "Choo Choo (Animatronic)",
+        "1982-04-27",
         "1984-01-08",
         "7-81 8-17",
         "Sent to Lafayette, LA (3221 Ambassador Caffery Pkwy)"
       ],
-      "sort": "19840108"
+      "sort": "19820427"
+    },
+    {
+      "page_get": "wiki/montgomery-al-2940-e-south-blvd",
+      "page_path": "content/wiki/montgomery-al-2940-e-south-blvd",
+      "page_title": "Montgomery, AL (2940 E South Blvd)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1982-09-30",
+        "2000s-00-00",
+        "1-82 8-18",
+        "Unknown"
+      ],
+      "sort": "19820930"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1982-10-20",
+        "2000s-00-00",
+        "1-82 8-23",
+        "Unknown; Custom replica in store."
+      ],
+      "sort": "19821020"
+    },
+    {
+      "page_get": "wiki/cincinnati-oh-3365-highland-ave",
+      "page_path": "content/wiki/cincinnati-oh-3365-highland-ave",
+      "page_title": "Cincinnati, OH (3365 Highland Ave)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1982-11-11",
+        "1985-00-00",
+        "4-82 8-2",
+        "Purchased by Jungle Jim's International Market"
+      ],
+      "sort": "19821111"
+    },
+    {
+      "page_get": "wiki/phoenix-az-8039-north-35th-ave",
+      "page_path": "content/wiki/phoenix-az-8039-north-35th-ave",
+      "page_title": "Phoenix, AZ (8039 North 35th Ave)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1983-10-28",
+        "200s-00-00",
+        "unknown",
+        "converted to Munch Jr., then unknown/destroyed"
+      ],
+      "sort": "19831028"
+    },
+    {
+      "page_get": "wiki/lexington-ky-1555-new-circle-rd",
+      "page_path": "content/wiki/lexington-ky-1555-new-circle-rd",
+      "page_title": "Lexington, KY (1555 New Circle Rd)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1983-12-01",
+        "1990s-00-00",
+        "1-83 8-1",
+        "Unknown"
+      ],
+      "sort": "19831201"
+    },
+    {
+      "page_get": "wiki/mesa-az-856-s-alma-school-rd",
+      "page_path": "content/wiki/mesa-az-856-s-alma-school-rd",
+      "page_title": "Mesa (West), AZ (856 S Alma School Rd)",
+      "parts": [
+        "Choo Choo (Animatronic)",
+        "1984-08-30",
+        "1998-00-00",
+        "unknown",
+        "converted to Munch Jr., then unknown/destroyed"
+      ],
+      "sort": "19840830"
     }
   ],
   "animatronics|Sun (Animatronic)": [
@@ -30185,136 +30314,184 @@
       "sort": "20260000"
     }
   ],
-  "animatronics|Choo Choo (Animatronic)": [
+  "animatronics|Chuck E. Cheese 16m (Animatronic)": [
     {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "page_get": "wiki/bayamon-puerto-rico-rexville-town-center",
+      "page_path": "content/wiki/bayamon-puerto-rico-rexville-town-center",
+      "page_title": "Bayamon, Puerto Rico (Rexville Town Center)",
       "parts": [
-        "Choo Choo (Animatronic)",
-        "1981-07-15",
-        "0000-00-00",
-        "1-81 8-5",
+        "Chuck E. Cheese 16m (Animatronic)",
+        "2003-06-00",
+        "",
+        "823",
+        ""
+      ],
+      "sort": "20030600"
+    },
+    {
+      "page_get": "wiki/jackson-tn-2021-north-highland-ave",
+      "page_path": "content/wiki/jackson-tn-2021-north-highland-ave",
+      "page_title": "Jackson, TN (2021 North Highland Ave)",
+      "parts": [
+        "Chuck E. Cheese 16m (Animatronic)",
+        "2003-07-30",
+        "2025-11-23",
+        "Unknown",
         "Unknown"
       ],
-      "sort": "19810715"
+      "sort": "20030730"
     },
     {
-      "page_get": "wiki/st-louis-mo-2805-target-dr",
-      "page_path": "content/wiki/st-louis-mo-2805-target-dr",
-      "page_title": "St. Louis, MO (2805 Target Dr)",
+      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
       "parts": [
-        "Choo Choo (Animatronic)",
-        "1981-09-30",
-        "0000-00-00",
-        "1-81 8-13",
-        "Unknown/Destroyed"
+        "Chuck E. Cheese 16m (Animatronic)",
+        "2005-00-00",
+        "2024-04-07",
+        "1106",
+        "Dismantled, thrown into dumpster"
       ],
-      "sort": "19810930"
-    },
-    {
-      "page_get": "wiki/sharonville-oh-1429-e-kemper-rd",
-      "page_path": "content/wiki/sharonville-oh-1429-e-kemper-rd",
-      "page_title": "Sharonville, OH (1429 E Kemper Rd)",
-      "parts": [
-        "Choo Choo (Animatronic)",
-        "1981-10-21",
-        "1984-01-08",
-        "4-81 8-5",
-        "Sent to Miami, FL (19191 S Dixie Hwy)"
-      ],
-      "sort": "19811021"
-    },
-    {
-      "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
-      "page_path": "content/wiki/cincinnati-oh-8801-colerain-ave",
-      "page_title": "Cincinnati, OH (8801 Colerain Ave)",
-      "parts": [
-        "Choo Choo (Animatronic)",
-        "1981-11-11",
-        "1997-00-00",
-        "4-81 8-8",
-        "Unknown"
-      ],
-      "sort": "19811111"
-    },
-    {
-      "page_get": "wiki/montgomery-al-2940-e-south-blvd",
-      "page_path": "content/wiki/montgomery-al-2940-e-south-blvd",
-      "page_title": "Montgomery, AL (2940 E South Blvd)",
-      "parts": [
-        "Choo Choo (Animatronic)",
-        "1982-09-30",
-        "2000s-00-00",
-        "1-82 8-18",
-        "Unknown"
-      ],
-      "sort": "19820930"
-    },
-    {
-      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
-      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd",
-      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
-      "parts": [
-        "Choo Choo (Animatronic)",
-        "1982-10-20",
-        "2000s-00-00",
-        "1-82 8-23",
-        "Unknown; Custom replica in store."
-      ],
-      "sort": "19821020"
-    },
-    {
-      "page_get": "wiki/cincinnati-oh-3365-highland-ave",
-      "page_path": "content/wiki/cincinnati-oh-3365-highland-ave",
-      "page_title": "Cincinnati, OH (3365 Highland Ave)",
-      "parts": [
-        "Choo Choo (Animatronic)",
-        "1982-11-11",
-        "1985-00-00",
-        "4-82 8-2",
-        "Purchased by Jungle Jim's International Market"
-      ],
-      "sort": "19821111"
-    },
-    {
-      "page_get": "wiki/phoenix-az-8039-north-35th-ave",
-      "page_path": "content/wiki/phoenix-az-8039-north-35th-ave",
-      "page_title": "Phoenix, AZ (8039 North 35th Ave)",
-      "parts": [
-        "Choo Choo (Animatronic)",
-        "1983-10-28",
-        "200s-00-00",
-        "unknown",
-        "converted to Munch Jr., then unknown/destroyed"
-      ],
-      "sort": "19831028"
+      "sort": "20050000"
     },
     {
       "page_get": "wiki/lexington-ky-1555-new-circle-rd",
       "page_path": "content/wiki/lexington-ky-1555-new-circle-rd",
       "page_title": "Lexington, KY (1555 New Circle Rd)",
       "parts": [
-        "Choo Choo (Animatronic)",
-        "1983-12-01",
-        "1990s-00-00",
-        "1-83 8-1",
+        "Chuck E. Cheese 16m (Animatronic)",
+        "2007-00-00",
+        "2019-09-00",
+        "Unknown",
         "Unknown"
       ],
-      "sort": "19831201"
+      "sort": "20070000"
+    }
+  ],
+  "stages|Unknown PR Franchise": [
+    {
+      "page_get": "wiki/bayamon-puerto-rico-rexville-town-center",
+      "page_path": "content/wiki/bayamon-puerto-rico-rexville-town-center",
+      "page_title": "Bayamon, Puerto Rico (Rexville Town Center)",
+      "parts": [
+        "Unknown PR Franchise",
+        "2003-06-00",
+        "",
+        ""
+      ],
+      "sort": "20030600"
+    }
+  ],
+  "remodels|CEC 2.0 Remodel Program": [
+    {
+      "page_get": "wiki/portage-mi-6175-s-westnedge-ave",
+      "page_path": "content/wiki/portage-mi-6175-s-westnedge-ave",
+      "page_title": "Portage, MI (6175 S Westnedge Ave)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2018-07-00"
+      ],
+      "sort": "20180700"
     },
     {
-      "page_get": "wiki/mesa-az-856-s-alma-school-rd",
-      "page_path": "content/wiki/mesa-az-856-s-alma-school-rd",
-      "page_title": "Mesa (West), AZ (856 S Alma School Rd)",
+      "page_get": "wiki/lexington-ky-1555-new-circle-rd",
+      "page_path": "content/wiki/lexington-ky-1555-new-circle-rd",
+      "page_title": "Lexington, KY (1555 New Circle Rd)",
       "parts": [
-        "Choo Choo (Animatronic)",
-        "1984-08-30",
-        "1998-00-00",
-        "unknown",
-        "converted to Munch Jr., then unknown/destroyed"
+        "CEC 2.0 Remodel Program",
+        "2019-09-00"
       ],
-      "sort": "19840830"
+      "sort": "20190900"
+    },
+    {
+      "page_get": "wiki/sharonville-oh-1429-e-kemper-rd",
+      "page_path": "content/wiki/sharonville-oh-1429-e-kemper-rd",
+      "page_title": "Sharonville, OH (1429 E Kemper Rd)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2019-12-12"
+      ],
+      "sort": "20191212"
+    },
+    {
+      "page_get": "wiki/florence-ky-7635-mall-rd",
+      "page_path": "content/wiki/florence-ky-7635-mall-rd",
+      "page_title": "Florence, KY (7635 Mall Rd)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2022-05-10"
+      ],
+      "sort": "20220510"
+    },
+    {
+      "page_get": "wiki/phoenix-az-8039-north-35th-ave",
+      "page_path": "content/wiki/phoenix-az-8039-north-35th-ave",
+      "page_title": "Phoenix, AZ (8039 North 35th Ave)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2022-12-29"
+      ],
+      "sort": "20221229"
+    },
+    {
+      "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
+      "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle",
+      "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2023-10-05"
+      ],
+      "sort": "20231005"
+    },
+    {
+      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2024-05-29"
+      ],
+      "sort": "20240529"
+    },
+    {
+      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd",
+      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2024-07-26"
+      ],
+      "sort": "20240726"
+    },
+    {
+      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
+      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
+      "page_title": "Kansas City, MO (8809 State Line Rd)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2024-08-23"
+      ],
+      "sort": "20240823"
+    },
+    {
+      "page_get": "wiki/2025locationandsuch-copy-4",
+      "page_path": "content/wiki/2025locationandsuch-copy-4",
+      "page_title": "Huntington Beach, CA (15031 Goldenwest St)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2025-09-25"
+      ],
+      "sort": "20250925"
+    },
+    {
+      "page_get": "wiki/bayamon-puerto-rico-rexville-town-center",
+      "page_path": "content/wiki/bayamon-puerto-rico-rexville-town-center",
+      "page_title": "Bayamon, Puerto Rico (Rexville Town Center)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2026-02-00"
+      ],
+      "sort": "20260200"
     }
   ],
   "animatronics|Wink": [
@@ -30458,108 +30635,6 @@
         ""
       ],
       "sort": "20240829"
-    }
-  ],
-  "remodels|CEC 2.0 Remodel Program": [
-    {
-      "page_get": "wiki/portage-mi-6175-s-westnedge-ave",
-      "page_path": "content/wiki/portage-mi-6175-s-westnedge-ave",
-      "page_title": "Portage, MI (6175 S Westnedge Ave)",
-      "parts": [
-        "CEC 2.0 Remodel Program",
-        "2018-07-00"
-      ],
-      "sort": "20180700"
-    },
-    {
-      "page_get": "wiki/lexington-ky-1555-new-circle-rd",
-      "page_path": "content/wiki/lexington-ky-1555-new-circle-rd",
-      "page_title": "Lexington, KY (1555 New Circle Rd)",
-      "parts": [
-        "CEC 2.0 Remodel Program",
-        "2019-09-00"
-      ],
-      "sort": "20190900"
-    },
-    {
-      "page_get": "wiki/sharonville-oh-1429-e-kemper-rd",
-      "page_path": "content/wiki/sharonville-oh-1429-e-kemper-rd",
-      "page_title": "Sharonville, OH (1429 E Kemper Rd)",
-      "parts": [
-        "CEC 2.0 Remodel Program",
-        "2019-12-12"
-      ],
-      "sort": "20191212"
-    },
-    {
-      "page_get": "wiki/florence-ky-7635-mall-rd",
-      "page_path": "content/wiki/florence-ky-7635-mall-rd",
-      "page_title": "Florence, KY (7635 Mall Rd)",
-      "parts": [
-        "CEC 2.0 Remodel Program",
-        "2022-05-10"
-      ],
-      "sort": "20220510"
-    },
-    {
-      "page_get": "wiki/phoenix-az-8039-north-35th-ave",
-      "page_path": "content/wiki/phoenix-az-8039-north-35th-ave",
-      "page_title": "Phoenix, AZ (8039 North 35th Ave)",
-      "parts": [
-        "CEC 2.0 Remodel Program",
-        "2022-12-29"
-      ],
-      "sort": "20221229"
-    },
-    {
-      "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
-      "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle",
-      "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
-      "parts": [
-        "CEC 2.0 Remodel Program",
-        "2023-10-05"
-      ],
-      "sort": "20231005"
-    },
-    {
-      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
-      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
-      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
-      "parts": [
-        "CEC 2.0 Remodel Program",
-        "2024-05-29"
-      ],
-      "sort": "20240529"
-    },
-    {
-      "page_get": "wiki/charlotte-nc-7701-pineville-matthews-rd",
-      "page_path": "content/wiki/charlotte-nc-7701-pineville-matthews-rd",
-      "page_title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
-      "parts": [
-        "CEC 2.0 Remodel Program",
-        "2024-07-26"
-      ],
-      "sort": "20240726"
-    },
-    {
-      "page_get": "wiki/kansas-city-mo-8809-state-line-rd",
-      "page_path": "content/wiki/kansas-city-mo-8809-state-line-rd",
-      "page_title": "Kansas City, MO (8809 State Line Rd)",
-      "parts": [
-        "CEC 2.0 Remodel Program",
-        "2024-08-23"
-      ],
-      "sort": "20240823"
-    },
-    {
-      "page_get": "wiki/2025locationandsuch-copy-4",
-      "page_path": "content/wiki/2025locationandsuch-copy-4",
-      "page_title": "Huntington Beach, CA (15031 Goldenwest St)",
-      "parts": [
-        "CEC 2.0 Remodel Program",
-        "2025-09-25"
-      ],
-      "sort": "20250925"
     }
   ],
   "stages|Concept Unification 1-Stage": [
@@ -32345,47 +32420,6 @@
         "Seen in postcard next to Cheese Crawl"
       ],
       "sort": "00000000"
-    }
-  ],
-  "animatronics|Chuck E. Cheese 16m (Animatronic)": [
-    {
-      "page_get": "wiki/jackson-tn-2021-north-highland-ave",
-      "page_path": "content/wiki/jackson-tn-2021-north-highland-ave",
-      "page_title": "Jackson, TN (2021 North Highland Ave)",
-      "parts": [
-        "Chuck E. Cheese 16m (Animatronic)",
-        "2003-07-30",
-        "2025-11-23",
-        "Unknown",
-        "Unknown"
-      ],
-      "sort": "20030730"
-    },
-    {
-      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
-      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
-      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
-      "parts": [
-        "Chuck E. Cheese 16m (Animatronic)",
-        "2005-00-00",
-        "2024-04-07",
-        "1106",
-        "Dismantled, thrown into dumpster"
-      ],
-      "sort": "20050000"
-    },
-    {
-      "page_get": "wiki/lexington-ky-1555-new-circle-rd",
-      "page_path": "content/wiki/lexington-ky-1555-new-circle-rd",
-      "page_title": "Lexington, KY (1555 New Circle Rd)",
-      "parts": [
-        "Chuck E. Cheese 16m (Animatronic)",
-        "2007-00-00",
-        "2019-09-00",
-        "Unknown",
-        "Unknown"
-      ],
-      "sort": "20070000"
     }
   ],
   "attractions|Q*Bert": [

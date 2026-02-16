@@ -1766,7 +1766,7 @@
     "start_year": 1990,
     "category": "ShowBiz Pizza Place",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 0
   },
   {
@@ -4880,16 +4880,6 @@
     "rating": 2
   },
   {
-    "title": "First Quarter 2014 Show",
-    "page_path": "content/wiki/january-2014-show.md",
-    "startDate": "2014-01-01",
-    "start_year": 2014,
-    "category": "Chuck E. Cheese's",
-    "tag": "Showtapes",
-    "contributors_count": 7,
-    "rating": 1
-  },
-  {
     "title": "Johnson City, TN (3100 Bristol Hwy)",
     "page_path": "content/wiki/johnson-city-tn-3100-bristol-hwy.md",
     "startDate": "1986-01-22",
@@ -5886,8 +5876,8 @@
     "start_year": 2003,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 2,
+    "rating": 3
   },
   {
     "title": "1995 Batter Plush Baseball",
@@ -6677,6 +6667,16 @@
     "category": "Creative Engineering",
     "tag": "Company Media",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "King Kat Showtape",
+    "page_path": "content/wiki/king-kat-showtape.md",
+    "startDate": "1984-00-00",
+    "start_year": 1984,
+    "category": "Pizza Time Theatre",
+    "tag": "Showtapes",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -10150,6 +10150,16 @@
     "rating": 0
   },
   {
+    "title": "First Quarter 2014 Show",
+    "page_path": "content/wiki/first-quarter-2014-show.md",
+    "startDate": "2014-01-01",
+    "start_year": 2014,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 7,
+    "rating": 1
+  },
+  {
     "title": "Boneless Wing Plain (CEC Menu Item)",
     "page_path": "content/wiki/boneless-wing-plain-cec-menu-item.md",
     "startDate": "2012-00-00",
@@ -10646,7 +10656,7 @@
     "start_year": 2010,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 1
   },
   {
@@ -27227,7 +27237,7 @@
     "category": "Chuck E. Cheese's",
     "tag": "Remodels and Initiatives",
     "contributors_count": 2,
-    "rating": 1
+    "rating": 2
   },
   {
     "title": "Lynnwood, WA (18811 28th Ave)",
@@ -27856,7 +27866,7 @@
     "start_year": 2001,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 0
   },
   {
@@ -39566,8 +39576,8 @@
     "start_year": 1990,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "CEC University: Star Cast Member's School of Kitchen Test Book (1994)",
@@ -43297,7 +43307,7 @@
     "category": "Pizza Time Theatre",
     "tag": "Showtapes",
     "contributors_count": 2,
-    "rating": 0
+    "rating": 1
   },
   {
     "title": "PTT Hours Sign (1979)",
@@ -47306,8 +47316,8 @@
     "start_year": 1990,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 1
   },
   {
     "title": "Pizza Time Theatre 1982 Annual Report - B&W Copy(1983)",
@@ -53596,7 +53606,7 @@
     "start_year": 2001,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -55068,6 +55078,16 @@
     "tag": "Locations",
     "contributors_count": 1,
     "rating": 3
+  },
+  {
+    "title": "New Birthday Training CD",
+    "page_path": "content/wiki/new-birthday-training-cd.md",
+    "startDate": "2002-04-00",
+    "start_year": 2002,
+    "category": "Chuck E. Cheese's",
+    "tag": "Company Media",
+    "contributors_count": 1,
+    "rating": 0
   },
   {
     "title": "CEC Cashier",
@@ -57156,7 +57176,7 @@
     "start_year": 2025,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 1,
+    "contributors_count": 2,
     "rating": 0
   },
   {
@@ -57766,7 +57786,7 @@
     "start_year": 1992,
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
-    "contributors_count": 7,
+    "contributors_count": 8,
     "rating": 1
   },
   {

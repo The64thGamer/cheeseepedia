@@ -9461,6 +9461,50 @@
       "content": "Case Front, Tape Front"
     }
   ],
+  "Magic Stage Prototype": [
+    {
+      "name": "h7t8dw8o9ynnl8wt.avif",
+      "page_path": "content/photos/h7t8dw8o9ynnl8wt",
+      "hasFile": true,
+      "startDate": "1985-11-00",
+      "content": "Magic Stage soon after installation."
+    },
+    {
+      "name": "ehmjytpei03m9zo2.avif",
+      "page_path": "content/photos/ehmjytpei03m9zo2",
+      "hasFile": true,
+      "startDate": "1985-11-00",
+      "content": "Magic Stage soon after installation."
+    },
+    {
+      "name": "e1wxqquyr6qix5ef.avif",
+      "page_path": "content/photos/e1wxqquyr6qix5ef",
+      "hasFile": true,
+      "startDate": "1985-11-00",
+      "content": "Magic Stage soon after installation."
+    },
+    {
+      "name": "qfvj2qzx3eo1rsxr.avif",
+      "page_path": "content/photos/qfvj2qzx3eo1rsxr",
+      "hasFile": true,
+      "startDate": "1985-11-00",
+      "content": "Magic Stage soon after installation."
+    },
+    {
+      "name": "bwdg57xslflyfi8b.avif",
+      "page_path": "content/photos/bwdg57xslflyfi8b",
+      "hasFile": true,
+      "startDate": "1985-11-00",
+      "content": "Magic Stage soon after installation."
+    },
+    {
+      "name": "5wl5sv3lqktopuvo.avif",
+      "page_path": "content/photos/5wl5sv3lqktopuvo",
+      "hasFile": true,
+      "startDate": "1985-11-00",
+      "content": "Magic Stage soon after installation."
+    }
+  ],
   "Bear-A-Dice Stage": [
     {
       "name": "9_uzt0Rm6ByNhvNgmySg.avif",
@@ -21237,6 +21281,15 @@
       "hasFile": true,
       "startDate": "",
       "content": ""
+    }
+  ],
+  "Beagles Diagnostics": [
+    {
+      "name": "k5dzk8voscosm87e.avif",
+      "page_path": "content/photos/k5dzk8voscosm87e",
+      "hasFile": true,
+      "startDate": "2026-02-00",
+      "content": "Showtape Label"
     }
   ],
   "2016 Rockstar Chuck Star Cast Member Of The Month": [
@@ -41515,6 +41568,43 @@
       "content": "Plush Tag"
     }
   ],
+  "Guest Star / Helen Henny (Cyberamic)": [
+    {
+      "name": "1979-Kooser-Oink.avif",
+      "page_path": "content/photos/34f34f",
+      "hasFile": true,
+      "startDate": "1979-00-00",
+      "content": "Promotional photo of early Madame Oink."
+    },
+    {
+      "name": "ojnerfgojn34otjn.avif",
+      "page_path": "content/photos/ojnerfgojn34otjn-avif",
+      "hasFile": true,
+      "startDate": "1983-00-00",
+      "content": "Madame Oink animatronic during the 'Oink 3: Tunnel of Love' Showtape."
+    },
+    {
+      "name": "Now-Appearing-Foxy-Colleen.avif",
+      "page_path": "content/photos/now-appearing-foxy-colleen-avif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Uncropped photo of Foxy Colleen for 'Now Appearing' poster"
+    },
+    {
+      "name": "Now-Appearing-Harmony-Howlette.avif",
+      "page_path": "content/photos/now-appearing-harmony-howlette-avif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Uncropped photo of Harmony Howlette for 'Now Appearing' poster"
+    },
+    {
+      "name": "_kGmQAnDHG7LK8Gff7kU.avif",
+      "page_path": "content/photos/kgmqandhg7lk8gff7kuavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": ""
+    }
+  ],
   "Rock-afire Serial Tags": [
     {
       "name": "RsBN0b2bFrTUBDMzqrUd.avif",
@@ -53505,36 +53595,6 @@
       "content": "A crowd of protestors outside the City Council meeting. (June 6, 1983)"
     }
   ],
-  "Guest Star / Helen Henny (Cyberamic)": [
-    {
-      "name": "1979-Kooser-Oink.avif",
-      "page_path": "content/photos/34f34f",
-      "hasFile": true,
-      "startDate": "1979-00-00",
-      "content": "Promotional photo of early Madame Oink."
-    },
-    {
-      "name": "ojnerfgojn34otjn.avif",
-      "page_path": "content/photos/ojnerfgojn34otjn-avif",
-      "hasFile": true,
-      "startDate": "1983-00-00",
-      "content": "Madame Oink animatronic during the 'Oink 3: Tunnel of Love' Showtape."
-    },
-    {
-      "name": "Now-Appearing-Harmony-Howlette.avif",
-      "page_path": "content/photos/now-appearing-harmony-howlette-avif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Uncropped photo of Harmony Howlette for 'Now Appearing' poster"
-    },
-    {
-      "name": "_kGmQAnDHG7LK8Gff7kU.avif",
-      "page_path": "content/photos/kgmqandhg7lk8gff7kuavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": ""
-    }
-  ],
   "Madame Oink II": [
     {
       "name": "1979-Kooser-Oink.avif",
@@ -60836,6 +60896,57 @@
       "content": "Screenshot of 'Because We're Friends' (2025)"
     }
   ],
+  "The King / King Kat (Lounge)": [
+    {
+      "name": "Now-Appearing-The-King.avif",
+      "page_path": "content/photos/now-appearing-the-king-avif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Now Appearing photo taken for The King"
+    },
+    {
+      "name": "Michael Katzon.avif",
+      "page_path": "content/photos/michaelkatzon-avif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Photo of King Kat"
+    },
+    {
+      "name": "37DyzNqYses7AbZ9oIDU.avif",
+      "page_path": "content/photos/37dyznqyses7abz9oiduavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Fontana, CA"
+    },
+    {
+      "name": "af24mruBTk9CXZWGnbK2.avif",
+      "page_path": "content/photos/af24mrubtk9cxzwgnbk2avif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "[[Brandon, FL (1540 W Brandon Blvd)"
+    },
+    {
+      "name": "SbpRomrYP6GCh8zu9AK9.avif",
+      "page_path": "content/photos/sbpromryp6gch8zu9ak9avif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "[[Danvers, MA (139 Endicott St)"
+    },
+    {
+      "name": "The_King_SPT.avif",
+      "page_path": "content/photos/the_king_sptavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": ""
+    },
+    {
+      "name": "Oq44fKXbvSuOw0IfbimK.avif",
+      "page_path": "content/photos/oq44fkxbvsuow0ifbimkavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "'King Leon' with Mike Hatcher (May 1981)"
+    }
+  ],
   "Chuck E. Cheese's Show 3 2017": [
     {
       "name": "S-l1600_(37).avif",
@@ -64093,50 +64204,6 @@
       "content": "West Des Moines' exterior in September 2017. (PC: Google Maps)"
     }
   ],
-  "The King / King Kat (Lounge)": [
-    {
-      "name": "Michael Katzon.avif",
-      "page_path": "content/photos/michaelkatzon-avif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Photo of King Kat"
-    },
-    {
-      "name": "37DyzNqYses7AbZ9oIDU.avif",
-      "page_path": "content/photos/37dyznqyses7abz9oiduavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Fontana, CA"
-    },
-    {
-      "name": "af24mruBTk9CXZWGnbK2.avif",
-      "page_path": "content/photos/af24mrubtk9cxzwgnbk2avif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "[[Brandon, FL (1540 W Brandon Blvd)"
-    },
-    {
-      "name": "SbpRomrYP6GCh8zu9AK9.avif",
-      "page_path": "content/photos/sbpromryp6gch8zu9ak9avif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "[[Danvers, MA (139 Endicott St)"
-    },
-    {
-      "name": "The_King_SPT.avif",
-      "page_path": "content/photos/the_king_sptavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": ""
-    },
-    {
-      "name": "Oq44fKXbvSuOw0IfbimK.avif",
-      "page_path": "content/photos/oq44fkxbvsuow0ifbimkavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "'King Leon' with Mike Hatcher (May 1981)"
-    }
-  ],
   "York, PA (351 Loucks Rd)": [
     {
       "name": "Uy3zJw0waPqkQ1A9nd87.avif",
@@ -64538,6 +64605,13 @@
     }
   ],
   "Knoxville, TN (8225 Kingston Pike)": [
+    {
+      "name": "4fgsyhvtvd0q2quj.avif",
+      "page_path": "content/photos/4fgsyhvtvd0q2quj",
+      "hasFile": true,
+      "startDate": "2021-05-06",
+      "content": "Knoxville's Pop The Lock game in 2021"
+    },
     {
       "name": "Tw1DkuZjIZ1aai3GUOdq.avif",
       "page_path": "content/photos/tw1dkuzjiz1aai3guodqavif",
