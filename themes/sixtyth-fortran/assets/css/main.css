@@ -1991,7 +1991,6 @@ sup {
   background-position: center;
   background-repeat: no-repeat;
   opacity: 40%;
-  animation: fnafPan 25s linear infinite;
 }
 
 .fnaf_static {
@@ -2135,15 +2134,6 @@ sup {
   padding: 1.5rem 2rem;
   border-top: 0.25rem solid var(--brown);
   background-color: rgba(0, 0, 0, 0.2);
-}
-
-@keyframes fnafPan {
-  0% {
-    transform: translateX(-5%);
-  }
-  100% {
-    transform: translateX(5%);
-  }
 }
 
 @keyframes SnowAnim {

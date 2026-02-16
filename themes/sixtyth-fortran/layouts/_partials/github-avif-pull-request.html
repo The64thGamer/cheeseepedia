@@ -269,10 +269,8 @@ import { Octokit } from 'https://cdn.skypack.dev/@octokit/rest';
     const month = document.getElementById('photo-month').value;
     const day = document.getElementById('photo-day').value;
     
-    let dateStr = '';
-    if (year || month || day) {
-      dateStr = `${year || '0000'}-${month || '00'}-${day || '00'}`;
-    }
+    // Always generate a date string, using 0000-00-00 if everything is blank
+    const dateStr = `${year || '0000'}-${month || '00'}-${day || '00'}`;
     formData.date = dateStr;
     showStep(5);
   });
@@ -571,6 +569,9 @@ ${formData.description}`;
         ref: `heads/${branchName}`,
         sha: newCommit.sha
       });
+      
+      // Small delay to ensure GitHub has processed the update
+      await new Promise(resolve => setTimeout(resolve, 1000));
       
       // Verify the branch was updated correctly
       const { data: verifyRef } = await octokit.rest.git.getRef({

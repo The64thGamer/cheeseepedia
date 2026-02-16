@@ -1,3 +1,19 @@
+<aside>
+<!-- Snow wrap for winter theme -->
+<div id="snow_wrap" style="display:none">
+<div class="snow_wrap">
+<div class="snow"></div>
+</div>
+</div>
+
+<!-- FNaF camera system for fnaf theme -->
+<div id="fnaf_wrap" style="display:none">
+<div class="fnaf_camera">
+<div class="fnaf_background" id="fnaf_background"></div>
+<div class="fnaf_static" id="fnaf_static"></div>
+</div>
+</div>
+
 <button id="settingsButton" class="settings-button" aria-label="Settings"><img src="/UI/Emojis/control_knobs.svg" style="margin-right:0rem; width:1.75rem" class="emoji"></button>
 
 <div id="settingsModal" class="settings-modal">
@@ -63,6 +79,166 @@ const logoMap = {
   "pasqually": "/UI/LogoPasqually.png"
 };
 
+// Theme effect manager
+let currentTheme = null;
+let fnafAnimationId = null;
+
+// Snow effect handler
+function updateSnow(theme) {
+  const snowContainer = document.getElementById("snow_wrap");
+  if (!snowContainer) return;
+  snowContainer.style.display = (theme === "winter") ? "block" : "none";
+}
+
+// FNaF Camera System
+const FNaFCamera = (function() {
+  const BACKGROUND_COUNT = 52; 
+  const MIN_OPACITY = 0.5;
+  const MAX_OPACITY = 0.7;
+  const EVENT_CHANCE = 0.0005; // Probability per frame (~1 every 3-4 seconds at 60fps)
+  
+  // Camera panning settings
+  const PAN_DURATION = 8000; // milliseconds to pan
+  const PAUSE_DURATION = 2000; // millisecond pause at each end
+  const LEFT_POSITION = -16; // Left X position in %
+  const RIGHT_POSITION = 0; // Right X position in %
+  
+  const fnafWrap = document.getElementById('fnaf_wrap');
+  const fnafBackground = document.getElementById('fnaf_background');
+  const fnafStatic = document.getElementById('fnaf_static');
+  
+  if (!fnafWrap || !fnafBackground || !fnafStatic) return null;
+  
+  let currentOpacity = MIN_OPACITY;
+  let targetOpacity = MIN_OPACITY;
+  let isRunning = false;
+  
+  // Camera pan state
+  let panStartTime = 0;
+  let currentPanState = 'paused-left'; // 'paused-left', 'panning-right', 'paused-right', 'panning-left'
+  let panPosition = LEFT_POSITION; // Start at left
+  
+  // Set random background on load
+  function setRandomBackground() {
+    const randomBg = Math.floor(Math.random() * BACKGROUND_COUNT);
+    fnafBackground.style.backgroundImage = `url('/UI/Backgrounds/${randomBg}.avif')`;
+  }
+  
+  // Update camera pan position
+  function updateCameraPan() {
+    const now = Date.now();
+    const elapsed = now - panStartTime;
+    
+    if (currentPanState === 'paused-left') {
+      panPosition = LEFT_POSITION;
+      if (elapsed >= PAUSE_DURATION) {
+        currentPanState = 'panning-right';
+        panStartTime = now;
+      }
+    } else if (currentPanState === 'panning-right') {
+      const progress = Math.min(elapsed / PAN_DURATION, 1);
+      // Interpolate from LEFT_POSITION to RIGHT_POSITION
+      panPosition = LEFT_POSITION + (progress * (RIGHT_POSITION - LEFT_POSITION));
+      if (progress >= 1) {
+        currentPanState = 'paused-right';
+        panStartTime = now;
+      }
+    } else if (currentPanState === 'paused-right') {
+      panPosition = RIGHT_POSITION;
+      if (elapsed >= PAUSE_DURATION) {
+        currentPanState = 'panning-left';
+        panStartTime = now;
+      }
+    } else if (currentPanState === 'panning-left') {
+      const progress = Math.min(elapsed / PAN_DURATION, 1);
+      // Interpolate from RIGHT_POSITION to LEFT_POSITION
+      panPosition = RIGHT_POSITION - (progress * (RIGHT_POSITION - LEFT_POSITION));
+      if (progress >= 1) {
+        currentPanState = 'paused-left';
+        panStartTime = now;
+      }
+    }
+    
+    fnafBackground.style.transform = `translateX(${panPosition}%)`;
+  }
+  
+  // Randomize static position
+  function randomizeStaticPosition() {
+    const x = Math.random() * 100;
+    const y = Math.random() * 100;
+    fnafStatic.style.backgroundPosition = `${x}% ${y}%`;
+  }
+  
+  // Random opacity change
+  function updateOpacity() {
+    // Slowly transition to a new random opacity
+    if (Math.random() < 0.01) { // Change target occasionally
+      targetOpacity = MIN_OPACITY + Math.random() * (MAX_OPACITY - MIN_OPACITY);
+    }
+    
+    // Smoothly interpolate toward target
+    currentOpacity += (targetOpacity - currentOpacity) * 0.05;
+    fnafStatic.style.opacity = currentOpacity;
+  }
+  
+  // Random "event" - flash static and change background
+  function checkForEvent() {
+    if (Math.random() < EVENT_CHANCE) {
+      // Flash static to 100%
+      fnafStatic.style.transition = 'opacity 0.05s';
+      fnafStatic.style.opacity = '1';
+      
+      // Change background
+      setRandomBackground();
+      
+      // Transition back to normal
+      setTimeout(() => {
+        fnafStatic.style.transition = 'opacity 0.5s';
+        currentOpacity = targetOpacity;
+        fnafStatic.style.opacity = currentOpacity;
+      }, 50);
+    }
+  }
+  
+  // Animation loop
+  function animate() {
+    if (!isRunning) return;
+    
+    updateCameraPan();
+    randomizeStaticPosition();
+    updateOpacity();
+    checkForEvent();
+    fnafAnimationId = requestAnimationFrame(animate);
+  }
+  
+  // Public methods
+  return {
+    start: function() {
+      if (isRunning) return;
+      
+      isRunning = true;
+      fnafWrap.style.display = 'block';
+      setRandomBackground();
+      fnafStatic.style.opacity = MIN_OPACITY;
+      
+      // Initialize pan state
+      panStartTime = Date.now();
+      currentPanState = 'paused-left';
+      panPosition = LEFT_POSITION;
+      
+      animate();
+    },
+    stop: function() {
+      isRunning = false;
+      fnafWrap.style.display = 'none';
+      if (fnafAnimationId) {
+        cancelAnimationFrame(fnafAnimationId);
+        fnafAnimationId = null;
+      }
+    }
+  };
+})();
+
 function updateLogo(theme) {
   const logo = document.getElementById("mainLogo");
   if (logo && logoMap[theme]) {
@@ -70,16 +246,23 @@ function updateLogo(theme) {
   }
 }
 
-function updateSnow(theme) {
-  const snowContainer = document.getElementById("snow_wrap");
-  if (!snowContainer) return;
-  snowContainer.style.display = (theme === "winter") ? "block" : "none";
-}
-
-function updateFnaf(theme) {
-  const fnafContainer = document.getElementById("fnaf_wrap");
-  if (!fnafContainer) return;
-  fnafContainer.style.display = (theme === "fnaf") ? "block" : "none";
+function updateThemeEffects(theme) {
+  // Stop previous theme effects
+  if (currentTheme === 'winter') {
+    updateSnow(null);
+  }
+  if (currentTheme === 'fnaf' && FNaFCamera) {
+    FNaFCamera.stop();
+  }
+  
+  // Start new theme effects
+  currentTheme = theme;
+  
+  if (theme === 'winter') {
+    updateSnow(theme);
+  } else if (theme === 'fnaf' && FNaFCamera) {
+    FNaFCamera.start();
+  }
 }
 
 function applyTheme(theme) {
@@ -90,8 +273,7 @@ function applyTheme(theme) {
     root.setAttribute("data-theme", theme);
   }
   updateLogo(theme);
-  updateSnow(theme);
-  updateFnaf(theme);
+  updateThemeEffects(theme);
 }
 
 function applyPageWidth(width) {
