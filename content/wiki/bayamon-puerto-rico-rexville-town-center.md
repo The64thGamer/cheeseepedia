@@ -1,21 +1,43 @@
 +++
 
 title = "Bayamon, Puerto Rico (Rexville Town Center)"
-storeNumber = ""
+storeNumber = "522"
 startDate = "2003-06-00"
 endDate = ""
 cuDate = ""
-remodels = []
-stages = ["Studio C Beta|2003-06-00||"]
-franchisees = []
+remodels = ["SPT 1990's Remodel Program|2003-06-00","CEC 2.0 Remodel Program|2026-02-00"]
+stages = ["Unknown PR Franchise|2003-06-00||"]
+franchisees = ["Studio C Beta|2003-06-00||"]
 attractions = []
+animatronics = ["Chuck E. Cheese 16m (Animatronic)|2003-06-00||823|"]
 sqft = ""
 latitudeLongitude = ["18.35940532","-66.18970888"]
-citations = []
-contributors = []
+citations = ["Info from Operations Manager","Missing Source","https://www.facebook.com/photo.php?fbid=293390007444246&set=pb.100064529088794.-2207520000&type=3","https://www.facebook.com/photo.php?fbid=334978213285425&set=pb.100064529088794.-2207520000&type=3","https://www.facebook.com/photo.php?fbid=787430744706834&set=pb.100064529088794.-2207520000&type=3","https://www.facebook.com/photo.php?fbid=805497399566835&set=pb.100064529088794.-2207520000&type=3","https://www.instagram.com/p/BAFdIQUopsq/","Private footage of Bayamon filmed by 'MozzillaFirefox1967' on January 24, 2016",https://www.facebook.com/photo.php?fbid=1445442048905697&set=pb.100064529088794.-2207520000&type=3","https://www.facebook.com/photo.php?fbid=1480125105437391&set=pb.100064529088794.-2207520000&type=3","https://www.facebook.com/photo.php?fbid=1446206135495955&set=pb.100064529088794.-2207520000&type=3","https://www.instagram.com/p/B66TO1wHTod/?img_index=1","https://www.instagram.com/p/B84miMfHl-7/?img_index=2",https://www.instagram.com/p/B_5hu_PH_Qx/","https://www.instagram.com/p/CGdTwsBHkUW/?img_index=2","https://www.facebook.com/photo.php?fbid=3432207600229122&set=pb.100064529088794.-2207520000&type=3","https://www.instagram.com/p/CIBs_QfHEfz/?img_index=3","https://www.instagram.com/p/CIBsoMOHaos/?img_index=5","https://www.facebook.com/photo.php?fbid=5539766729473188&set=pb.100064529088794.-2207520000&type=3","https://www.instagram.com/p/CqQ1SkiJbAC/?img_index=1","https://www.flickr.com/photos/195304815@N04/53261466206/in/album-72177720311949942","https://www.flickr.com/photos/195304815@N04/53273945048/in/album-72177720312071585","https://www.flickr.com/photos/195304815@N04/53273951443/in/album-72177720312093378","https://www.instagram.com/p/Cwq8piyr0BD/?img_index=1","https://www.flickr.com/photos/195304815@N04/53447408135/in/album-72177720313871458","https://www.flickr.com/photos/195304815@N04/53563325338/in/album-72177720315189723","https://www.flickr.com/photos/195304815@N04/53698417159/in/album-72177720316688422","https://www.flickr.com/photos/195304815@N04/54901099403/in/album-72177720330116434","https://www.facebook.com/photo.php?fbid=1290113703149587&set=pb.100064529088794.-2207520000&type=3","https://www.facebook.com/photo.php?fbid=608515385931705&set=pb.100064529088794.-2207520000&type=3","https://www.facebook.com/photo.php?fbid=657656694350907&set=pb.100064529088794.-2207520000&type=3","https://www.bwmtexas.com/photos/cec-fresno.jpg"]
+contributors = ["CyberSnout","Mozilla"]
 downloadLinks = []
 pageThumbnailFile = "yX_gKpHF3iezLHIyEHGj.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 draft = false
 +++
+**167 Rexville Town Center KM 17.6, Bayamón, 00956, Puerto Rico** is a Chuck E. Cheese that opened in June 2003 and is the first Chuck E. Cheese to open in Purto Rico.
+
+## History
+### Pre-opening
+In 2002, 'Burson & Williams' would state that they '...completed 577 corporate and franchise projects in the United States, Puerto Rico, and Canada' this would be the earliest mention of Puerto Rico becoming a market for Chuck E. Cheese's{{< cite 32 >}}. 
+
+### 2000's
+In June 2003 a brand-new Chuck E. Cheese's opened in Bayamón, located at then newly built Rexville Town Center{{< cite 1 >}}. The store opened with {{< wiki-link "SPT 1990's Remodel Program" >}} and a {{< wiki-link "Studio C Beta" >}} 16m. The store featured the {{< wiki-link "Phase 3 (2000)" >}} game package along with {{< wiki-link "Skytubes" >}}, as well as dim lighting and wall planters. The 16m bot at this time had a Cool Chuck outfit made by Garner Holt. 
+
+According to the Operations Manager in 2007 the Bayamón Chuck E. Cheese would purchase the Helen Henny walkaround. That same year, the store would remove all the fake planters on the walls and replaced the 2001 Italy Postcard with a Green Pop Chuck poster{{< cite 1 >}}. In 2009-2010 the store would purchase the Jasper T. Jowls walkaround{{< cite 1 >}}. 
+
+### 2010's
+In 2010, the store replaced the Cool Chuck outfit on their bot with an Avenger outfit{{< cite 2 >}}. In 2010-2011 the store would purchase the Mr. Munch, Pasqually, and two spare Jasper T. Jowls walkarounds{{< cite 2 >}}. Between November 2012 - Feburary 6, 2013, the store would receive fluorescent light, replacing the dim lighting{{< cite 3 >}}{{< cite 4 >}}. Between July 29, 2014 and October 31, 2014 the Blue Screen would be removed{{< cite 30 >}}{{< cite 31 >}}. In 2015, the store would receive the Rockstar walkaround{{< cite 5 >}}{{< cite 6 >}}, as well as painting some walls purple. Around January 2016, the store would replace the bot's Avenger shirt with a Rockstar shirt{{< cite 7 >}}, the Avenger hat would be removed late that month{{< cite 8 >}}. Later that same year, the bot would receive Rockstar jeans{{< cite 2 >}}. After the events of Hurricane Maria in September 2017, the store would under go minor renovations due to damaged caused by the hurricane. This included the original carpet being ripped up in October 2017{{< cite 9 >}} and replaced with the 2010 {{< wiki-link "CEC 2000's Remodel Program" >}} carpet which included the carpet{{< cite 10 >}}, some ceiling tiles{{< cite 11 >}}, and large 'E' and the second 'E' in Cheese's the exterior letters{{< cite 12 >}}. By the end of the year, all of these issues would be fixed.
+
+### 2020's
+In February 2020, the store's old Kid Check stand was replaced by a new one, which featured the 2.0 Chuck and CEC logos and is colored black and purple{{< cite 13 >}}. In March 2020, the rest of the exterior letters would be replaced by those in the {{< wiki-link "CEC 2000's Remodel Program" >}} style, although still keeping the Coach Chuck sign{{< cite 14 >}. In October 2020, some stuff was added such as hand-sanitizer spots and some stickers on the floor, which implied the store was planning on reopening{{< cite 15 >}}. On November 12, 2020 the store would reopen{{< cite 16 >}}. Prior to this the pencil on the entrance area was removed{{< cite 17 >}}. Around this time, a clock that was put above the costume room door was removed{{< cite 18 >}}. 
+By 2021, the store had two 2.0 Chuck signs in the costume room, as there were talks about replacing the signs at both Bayamón and Carolina during that to summer, as well as the stores receiving Play Pass, these came to fruition later on{{< cite 1 >}}. Around August of that year, the store started bringing out Chuck and sometimes (although rarely) bringing out Helen. By October, it was announced that Bayamón would be temporarily closed on the 19th, as the store would receive Play Pass and E-Tickets{{< cite 19 >}}, although the store would also be closed on the 20th due to some issues with the installation, but by the 21st of that month, the store would finally reopen. A lot of the games did receive Play Pass, but a few games did not, which would be removed before the year ended. 
+In January 2023, the store would receive Dippin Dots{{< cite 2 >}}. Then in March 2023, the store would install the 2.0 Chuck E. Cheese exterior signage as well as removing the ''S' at the end of the name, and removing the last E for a bigger E, effectively changing the name to Chuck E. Cheese{{< cite 20 >}}. Inside the store, the Football ball was put up on the same wall where the Basketball and Soccer balls were. Between May to June 2023, the Helen walkaround would lose the eyelash on its right eye{{< cite 22 >}}. By the end of June 2023, the store would do a massive overhaul on its prize counter, which consisted of changing the prizes and downscaling the Chuck E. section of the prize counter{{< cite 21 >}}. By July 1, the old menu would be removed with TVs, and the old signs and such menu topper were removed{{< cite 23 >}}. In September 2023, the store would play the Evergreen 2022 show tape all the way into September, which would be the last time the store's bot would perform{{< cite 24 >}}.
+In January 2024, the ceiling tiles on the barrier of the Studio C would be repainted, because of this, the light bars would be taken down. Once reinstalled the Roboscan and Gemini on the light bars would be removed{{< cite 25 >}}. In February 2024, Helen would regain her missing eyelash{{< cite 26 >}}. In May 2024, some extra purple lights were added onto the show{{< cite 27 >}}.
+In October 2025, a black light would be installed between the two light bars in the center of the {{< wiki-link "Studio C Beta" >}} {{< cite 28 >}}.
+In January 2026, various games would be moved around. Bucket Bananza and the Super Chuck E. poster would be removed. This was in preperation for the Adventure Zone the store would be recieving. On January 14, 2026 Bayamón would begin its {{< wiki-link "CEC 2.0 Remodel Program" >}}. Construction on the Adventure Zone would begin on January 22, 2026 with the first public mentions of the installation happening on January 24, 2026 {{< cite 29 >}}.
