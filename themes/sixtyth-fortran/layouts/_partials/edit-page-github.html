@@ -150,8 +150,14 @@ window.editorLibsReady = true;
 
   // Hugo page parameters
   const currentPageTitle = {{ .Title | jsonify }};
-  const currentPagePath = {{ .Page.File.Path | jsonify }};
   const currentPageCategories = {{ .Params.categories | jsonify }};
+
+  // Derive the repo file path from the URL (same pattern as markdownUrl)
+  let currentPagePath = 'content' + window.location.pathname;
+  if (currentPagePath.endsWith('/')) {
+    currentPagePath = currentPagePath.slice(0, -1);
+  }
+  currentPagePath = currentPagePath + '.md';
   
   // GitHub config
   const GITHUB_OWNER = 'The64thGamer';
