@@ -47,12 +47,14 @@
   --blue: #1e2c4c;
   --aqua: #d73333;
   --white: #FFF;
-  --deep-white: #62777a;
+  --deep-white: #96e1ff;
   --yellow: #4070D0;
   --orange: #121d34;
   --red: #d73333;
   --deep-orange: #1e2c4c;
   --brown: #121d34;
+  --font-display: "sans-serif";
+  --font-body: "sans-serif";
 }
 
 /* ShowBiz theme */
@@ -119,6 +121,7 @@
   --red: #a20606ff;
   --deep-orange: #24172f;
   --brown: #220902;
+  --font-display: "Unutterable";
 }
 
 /* Pride theme */
@@ -165,6 +168,15 @@
   src: url('/Fonts/stalker1.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: "Octobre";
+  src: url('/Fonts/Octobre-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Unutterable";
+  src: url('/Fonts/Unutterable.ttf') format('truetype');
+}
 
 /* =========================
    HIDDEN / UTILITY SELECTORS
@@ -237,9 +249,40 @@ body {
   border-color: var(--white);
 }
 
+[data-theme="classic"] body {
+  outline-style: none;
+  box-shadow: none;
+  border: none;
+}
+
+[data-theme="classic"] h1 {
+  color:var(--white);
+  font-family: 'Linux Libertine','Georgia','Times',serif;
+}
+
+
+[data-theme="classic"] .tag-chip-container {
+  color:var(--white);
+  background-color:var(--brown);
+  border-radius: 0rem;
+}
+
+[data-theme="classic"] .fun-text {
+  border: 0.125rem solid var(--white);
+  padding: 0.5rem;
+  border-left-color: var(--yellow);
+  border-left-width: 0.75rem;
+}
+
+
+[data-theme="classic"] h2,h3,h4 {
+  color:var(--deep-white)
+}
+
 [data-width="wide"] body {
   max-width: 80rem;
 }
+
 
 a {
   color: var(--aqua);
@@ -253,6 +296,11 @@ hr {
   margin-top: 1rem;
   color: transparent;
 }
+
+[data-theme="classic"] hr {
+  border: 0.05125rem solid var(--white);
+}
+
 
 code {
   background-color: var(--brown);
@@ -955,6 +1003,14 @@ img.remoji:hover {
   min-width: 20.5rem;
 }
 
+[data-theme="classic"] .article-infobox{
+  background-color: var(--blue);
+  color: var(--white);
+  border-color: var(--white);
+  border-width: 0.125rem;
+  border-radius: 0rem;
+}
+
 .article-infobox {
   margin-top: -1.5rem;
   margin-right: -4.5rem;
@@ -1166,6 +1222,13 @@ img.remoji:hover {
   margin-bottom: -2.5rem;
 }
 
+
+[data-width="wide"] .fun-logo img {
+  width: 80%;
+  margin-left: auto;
+  margin-right:auto;
+  display:block;
+}
 
 .tri-column {
   column-count: 3;
@@ -1693,7 +1756,7 @@ sup {
 
 .search-ui-container {
   margin: 1rem 0;
-  font-family: var(--font-display), var(--font-body), system-ui, -apple-system, "Segoe UI", Roboto;
+  font-family: var(--font-display), var(--font-body);
 }
 
 .search-controls {
@@ -2018,6 +2081,10 @@ sup {
   font-family: var(--font-display);
 }
 
+[data-theme="classic"] #edit-github-token {
+  background-color: var(--brown);
+}
+
 #auth-and-load {
   color: var(--white);
   padding: 0.75rem 1.5rem;
@@ -2120,6 +2187,17 @@ details a {
   font-family: var(--font-display);
   letter-spacing: .1rem;
   margin: -1rem;
+}
+
+[data-theme="classic"] .splash-text {
+  margin-top:2rem;
+  margin-bottom:-3rem;
+}
+
+[data-theme="fnaf"] .splash-text {
+  margin-top:2rem;
+  margin-bottom:-3rem;
+  color:var(--aqua)
 }
 
 /* =========================
