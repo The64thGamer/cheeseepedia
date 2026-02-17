@@ -5,25 +5,26 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2014-12-29"
 endDate = "2015-03-15"
-contributors = ["Cyber Snout","Himitsu","John95"]
+contributors = ["Cyber Snout","Himitsu","John95","Ceclife13"]
+credits = ["Jaret Reddick|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "Chris Hill|Voice of Mr. Munch", "Jeremy Blaido|Voice of Jasper T. Jowls, Mike Manly", "Earl Fisher|Voice of Pasqually The Chef", "Matt Daniel|Production Manager", "Eric Neal|Voice of Mike Wolf, Songwriter (Dancin' Kitten)", "Michael Hill|Studio Coordinator, Studio C Programmer", "Donovan Marcelle|Existing Stage Programmer"]
 mediaDuration = "51:08"
 citations = []
 pageThumbnailFile = "QZNxg_ThrcFoz3JkP1c8.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***Winter 2015*** is a showtape that played through the winter of 2015 and featured four songs as well as a new live show and birthday show.
+***Chuck E. Cheese's Winter 2015 Show*** is a showtape that played through the winter of 2015 and featured four songs as well as a new live and birthday show.
 
 ## Show List:
 
 1. **Skit 1**
-    1.  Music Video - 'Fun For All' (Chuck E.)
+    1.  'Fun For All'
 2. **Intermission 1**
     1.  Act 1 - 'Wolf in Sheep's Clothing'
     2.  Josh and the Jamtones - 'John Jacob'
-    3.  Sketch - Hard Hat Hank - 'Box'
+    3.  Hard Hat Hank - 'Box'
     4.  Act 2 - 'Where Are They Now?'
 3. **Skit 2**
-    1.  Music Video - 'Chasin' Me a Truck' (Jasper)
+    1.  'Chasin' Me a Truck'
 4. **Intermission 2**
     1.  Josh and the Jamtones - 'Bear Hunt Lodge'
     2.  CEC Social Media Promo
@@ -40,21 +41,23 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 8. **Intermission 4**
     1.  Act 4 Part 2 - 'The End'
     2.  Josh and the Jamtones - 'Jump Up!'
-    3.  Sketch - Jokes From Pasqually - 'Bananas'
+    3.  A Joke From Pasqually - 'Bananas'
     4.  CEC Hash Tag Promo
     5.  Show Break - 'City Time Lapse'
     6.  Josh and the Jamtones - 'Lighting Lake'
 
-## Live Shows:
+## Live Shows
 
-- Chuck E. Birthday 2015 (New)
+**Studio C and WEIGL locations would automatically play a live show every hour at the 25-minute mark. The automatic live for this show was 'Do The Chuck E. 2015'**
+
+- Chuck E. Birthday 2015
 - Spanish Rockstar Birthday
-- Do The Chuck E. 2015 (New)
-- Chuck E. Says
-- Old MacDonald
-- The Chuck E. (Do The Roll)
-- Happy & You Know It
-- Head, Shoulders, Knees & Toes
+- Happy And You Know It 2013 (Michael Hill Countdown)
+- Old MacDonald 2013 (Michael Hill Countdown)
+- The Chuck E. (Do The Roll) (Michael Hill Countdown)
+- Head, Shoulders, Knees and Toes 2013 (Michael Hill Countdown)
+- Chuck E. Says 2014 (Michael Hill Countdown)
+- Do The Chuck E. 2015 (Michael Hill Countdown)
 
 ## Official Releases
 
@@ -68,15 +71,9 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio
 
 ## Trivia:
 
-- This was the final CEC showtape for the following:
-  - To use the act format originally introduced in Summer 2014.
-  - To feature Mike Manly, Corby, Hard Hat Hank and Zoey, though the latter two through reused material.
-  - To use Mike Wolf's original puppet, as well as his last appearance before Show 2, 2020.
-  - To have a Hard Hat Hank intermission.
-- Winter 2015 was originally supposed to run until February 22nd, 2015, but the end date was extended to March 15th 2015.
-- The Show Breaks in this show are originally from Summer 2014.
-- Hard Hat Hank - 'Box' is also originally from Summer 2014.
+- This was the final CEC showtape to use the act format originally introduced in 2014.
+- The set used for the Studio C puppets in 2012 is used for the Battle of the Bands.
+- Winter 2015 was originally supposed to run until February 22nd, 2015, but the end date was extended to March 15th, 2015.
+- Both Show Breaks and Hard Hat Hank - 'Box' are reused from {{< wiki-link "The Chuck E. Cheese Show" >}}
 - The Pizza Time Theatre logo can be seen on Chuck E.'s shirt during scenes that take place in his home.
-- Mike Wolf & Corby were originally seen during September 2014 during flashback with Justin Beaver.
-- This show was originally planned to include six songs, like most shows since April 2013; the latter two would've been covers. However, following the entertainment department's budget cut after the cat video lawsuit, they were removed, leaving the show with only four songs. This would've included Helen singing a new version of 'Crazy' from January 2008, and the other cover is currently unknown.
-- Eric Neal wrote 'Dancin' Kitten'.
+- This show was originally planned to include six songs, like most shows since April 2013; the latter two would've been covers. However, following the entertainment department's budget cuts after the cat video incident, they were removed, leaving the show with only four songs. This would've included Helen singing a cover of ['Crazy'](https://en.wikipedia.org/wiki/Crazy_(Willie_Nelson_song)), and the other cover is currently unknown.
