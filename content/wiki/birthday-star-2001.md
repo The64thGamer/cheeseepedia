@@ -28,16 +28,15 @@ Birthday Star 2001 is a modernized update of Birthday Star '95 and builds on the
 | Release Year | Showtape                                                  | Format                                               |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
 | 2001         | {{< wiki-link "January 2001 Show" >}}                     | Studio C 3X DVD + Floppy                             |
-| 2001         | {{< wiki-link "Chuck E’s Rockin’ Rhymes" >}}              | Studio C 3X DVD + Floppy                             |
+| 2001         | {{< wiki-link "Chuck E's Rockin’ Rhymes" >}}              | Studio C 3X DVD + Floppy                             |
 | 2001         | {{< wiki-link "Summertime 2001" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2001         | {{< wiki-link "September 2001 Show" >}}                   | Studio C 3X DVD + Floppy                             |
-| 2001         | {{< wiki-link "Chuck E’s Holiday Party 2001" >}}          | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "January 2002 Show" >}}                     | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "April 2002 Show" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "Summer 2002 Show" >}}                      | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "September 2002 Show" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "Holiday 2002" >}}                          | Studio C 3X DVD + Floppy                             |
-| 2003         | {{< wiki-link "Best of CEC TV 2003" >}}                   | Studio C 3X DVD + Floppy                             |
+| 2003         | {{< wiki-link "Best Of CEC TV 2003" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "Chuck E. Cheese Spring Show 2003" >}}      | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "Summertime 2003" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "September 2003 Show" >}}                   | Studio C 3X DVD + Floppy                             |
