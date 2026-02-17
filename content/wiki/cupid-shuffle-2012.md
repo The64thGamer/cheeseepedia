@@ -5,7 +5,7 @@ startDate = "2012-09-01"
 endDate = "2013-12-31"
 pageThumbnailFile = "ceccupidshuffle2013edit.avif"
 contributors = ["Ceclife13"]
-credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Matt Daniel - Production Coordinator", "Michael Hill - Studio Coordinator"]
+credits = ["Jaret Reddick|Voice of Chuck E. Cheese", "Matt Daniel|Production Coordinator", "Michael Hill|Studio Coordinator"]
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
@@ -35,8 +35,8 @@ In April 2013, the countdown would be replaced again. This countdown begins with
 | ------------ | ------------------------------------------------ | ----------------------------- |
 | 2012         | {{< wiki-link "Fall 2012 Show" >}}                   | Studio C USB + MicroSD  |
 | 2012         | {{< wiki-link "December 2012 Show" >}}                  | Studio C USB + MicroSD   | 
-| 2013         | {{< wiki-link "January 2013 Show" >}}                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2013         | {{< wiki-link "April 2013 Show" >}}                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2013         | {{< wiki-link "First Quarter 2013" >}}                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2013         | {{< wiki-link "Spring 2013 Show" >}}                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2013         | {{< wiki-link "Summer 2013 Show" >}}                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2013        | {{< wiki-link "Fall Show 2013" >}}                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2013         | {{< wiki-link "CEC Happy Holidays 2013" >}}                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
