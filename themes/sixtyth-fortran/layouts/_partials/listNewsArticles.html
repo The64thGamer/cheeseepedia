@@ -1,11 +1,6 @@
 <h1>{{- partial "emojify.html" .Title -}}</h1>
 {{- .Content | safeHTML -}}
-<div class="dropdown-area">
-{{- partialCached "display-dropdown-FEC.html" . -}}
-{{- partialCached "display-dropdown-manufacturer.html" . -}}
-{{- partialCached "display-dropdown-movie.html" . -}}
-{{- partialCached "display-dropdown-year.html" . -}}
-</div>
+
 <div id="loadingText" class="loading-text">Loading. . .</div>
 <div id="tagsContainer" style="visibility:hidden;">
   {{- $listPages := sort .Pages "Params.startDate" "desc" -}}
@@ -16,4 +11,3 @@
   {{- end -}}
 </div>
 
-{{- partialCached "display-dropdown-script.html" . -}}

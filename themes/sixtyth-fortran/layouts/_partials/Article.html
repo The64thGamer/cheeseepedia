@@ -141,6 +141,61 @@ false) -}}
 <div id="section-article" class="article-section">
     {{- partial "display-infobox.html" . -}}
     {{- .Content | safeHTML}}
+    {{- with .Params.animatronics }}
+    <h2>Animatronics</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Character</th>
+          <th>Operation</th>
+          <th>Serial</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{- range . }}
+          {{- $parts := split . "|" -}}
+          {{- $name := index $parts 0 -}}
+          {{- $start := index $parts 1 -}} 
+          {{- $end := index $parts 2 -}} 
+          {{- $serial := index $parts 3 -}}
+          {{- $status := index $parts 4 -}}
+          <tr>
+            <td>{{ partial "wiki-link.html" (dict "name" $name) }}</td>
+            <td>{{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}</td>
+            <td>{{ $serial }}</td>
+            <td>{{ $status }}</td>
+          </tr>
+        {{- end }}
+      </tbody>
+    </table>
+  {{- end }}
+  {{- with .Params.attractions }}
+    <h2>Attractions</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Attraction</th>
+          <th>Operation</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{- range . }}
+          {{- $parts := split . "|" -}}
+          {{- $name := index $parts 0 -}}
+          {{- $start := index $parts 1 -}}
+          {{- $end := index $parts 2 -}}
+          {{- $notes := index $parts 3 -}}
+          <tr>
+              <td>{{ partial "wiki-link.html" (dict "name" $name) }}</td>
+              <td>{{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}}</td>
+              <td>{{ $notes }}</td>
+          </tr>
+        {{- end }}
+      </tbody>
+    </table>
+  {{- end }}
     {{ if and .Params.segments (gt (len .Params.segments) 0) }}
     {{ partial "tracklist.html" . }}
     {{ end }}

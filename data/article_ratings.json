@@ -6406,7 +6406,7 @@
     "start_year": 2014,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 5,
+    "contributors_count": 6,
     "rating": 1
   },
   {
@@ -49670,6 +49670,16 @@
     "rating": 0
   },
   {
+    "title": "Billy Bob Glass w/ Handle",
+    "page_path": "content/wiki/billybobglass.md",
+    "startDate": "0000-00-00",
+    "start_year": null,
+    "category": "ShowBiz Pizza Place",
+    "tag": "In-Store Merchandise",
+    "contributors_count": 1,
+    "rating": 1
+  },
+  {
     "title": "SPP Happy B-day Liberty",
     "page_path": "content/wiki/spp-happy-b-day-liberty.md",
     "startDate": "1986-00-00",
@@ -52856,7 +52866,7 @@
     "start_year": 2014,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 0
   },
   {

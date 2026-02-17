@@ -56,6 +56,11 @@
           <option value="wide">Wide</option>
         </select>
       </div>
+
+      <div class="setting-group">
+        <label for="contributorUsername">Contributor Username (Used When Editing)</label>
+        <input type="text" id="contributorUsername" placeholder="Anonymous" autocomplete="off">
+      </div>
     </div>
 
     <div class="settings-modal-footer">
@@ -137,7 +142,6 @@ const FNaFCamera = (function() {
       }
     } else if (currentPanState === 'panning-right') {
       const progress = Math.min(elapsed / PAN_DURATION, 1);
-      // Interpolate from LEFT_POSITION to RIGHT_POSITION
       panPosition = LEFT_POSITION + (progress * (RIGHT_POSITION - LEFT_POSITION));
       if (progress >= 1) {
         currentPanState = 'paused-right';
@@ -151,7 +155,6 @@ const FNaFCamera = (function() {
       }
     } else if (currentPanState === 'panning-left') {
       const progress = Math.min(elapsed / PAN_DURATION, 1);
-      // Interpolate from RIGHT_POSITION to LEFT_POSITION
       panPosition = RIGHT_POSITION - (progress * (RIGHT_POSITION - LEFT_POSITION));
       if (progress >= 1) {
         currentPanState = 'paused-left';
@@ -171,12 +174,9 @@ const FNaFCamera = (function() {
   
   // Random opacity change
   function updateOpacity() {
-    // Slowly transition to a new random opacity
-    if (Math.random() < 0.01) { // Change target occasionally
+    if (Math.random() < 0.01) {
       targetOpacity = MIN_OPACITY + Math.random() * (MAX_OPACITY - MIN_OPACITY);
     }
-    
-    // Smoothly interpolate toward target
     currentOpacity += (targetOpacity - currentOpacity) * 0.05;
     fnafStatic.style.opacity = currentOpacity;
   }
@@ -184,14 +184,9 @@ const FNaFCamera = (function() {
   // Random "event" - flash static and change background
   function checkForEvent() {
     if (Math.random() < EVENT_CHANCE) {
-      // Flash static to 100%
       fnafStatic.style.transition = 'opacity 0.05s';
       fnafStatic.style.opacity = '1';
-      
-      // Change background
       setRandomBackground();
-      
-      // Transition back to normal
       setTimeout(() => {
         fnafStatic.style.transition = 'opacity 0.5s';
         currentOpacity = targetOpacity;
@@ -203,7 +198,6 @@ const FNaFCamera = (function() {
   // Animation loop
   function animate() {
     if (!isRunning) return;
-    
     updateCameraPan();
     randomizeStaticPosition();
     updateOpacity();
@@ -211,21 +205,16 @@ const FNaFCamera = (function() {
     fnafAnimationId = requestAnimationFrame(animate);
   }
   
-  // Public methods
   return {
     start: function() {
       if (isRunning) return;
-      
       isRunning = true;
       fnafWrap.style.display = 'block';
       setRandomBackground();
       fnafStatic.style.opacity = MIN_OPACITY;
-      
-      // Initialize pan state
       panStartTime = Date.now();
       currentPanState = 'paused-left';
       panPosition = LEFT_POSITION;
-      
       animate();
     },
     stop: function() {
@@ -247,15 +236,9 @@ function updateLogo(theme) {
 }
 
 function updateThemeEffects(theme) {
-  // Stop previous theme effects
-  if (currentTheme === 'winter') {
-    updateSnow(null);
-  }
-  if (currentTheme === 'fnaf' && FNaFCamera) {
-    FNaFCamera.stop();
-  }
+  if (currentTheme === 'winter') updateSnow(null);
+  if (currentTheme === 'fnaf' && FNaFCamera) FNaFCamera.stop();
   
-  // Start new theme effects
   currentTheme = theme;
   
   if (theme === 'winter') {
@@ -325,14 +308,10 @@ closeSettings.addEventListener('click', () => {
   settingsModal.style.display = 'none';
 });
 
-// Close modal when clicking outside
 settingsModal.addEventListener('click', (e) => {
-  if (e.target === settingsModal) {
-    settingsModal.style.display = 'none';
-  }
+  if (e.target === settingsModal) settingsModal.style.display = 'none';
 });
 
-// Close with Escape key
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape' && settingsModal.style.display === 'flex') {
     settingsModal.style.display = 'none';
@@ -359,15 +338,27 @@ document.getElementById('pageWidthSelector').addEventListener('change', function
   localStorage.setItem('pageWidth', this.value);
 });
 
+// Contributor username field — saves on every keystroke
+document.getElementById('contributorUsername').addEventListener('input', function () {
+  const val = this.value.trim();
+  if (val) {
+    localStorage.setItem('cheeseepedia_username', val);
+  } else {
+    localStorage.removeItem('cheeseepedia_username');
+  }
+});
+
 // Initial load
 window.addEventListener('DOMContentLoaded', () => {
   const savedTheme = localStorage.getItem('selectedColorTheme') || "standard";
   const savedEvent = localStorage.getItem('eventThemeSetting') || "auto";
   const savedWidth = localStorage.getItem('pageWidth') || "default";
+  const savedUsername = localStorage.getItem('cheeseepedia_username') || "";
 
   document.getElementById('colorThemeSelector').value = savedTheme;
   document.getElementById('eventThemeSelector').value = savedEvent;
   document.getElementById('pageWidthSelector').value = savedWidth;
+  document.getElementById('contributorUsername').value = savedUsername;
 
   const themeToApply = determineActiveTheme();
   applyTheme(themeToApply);

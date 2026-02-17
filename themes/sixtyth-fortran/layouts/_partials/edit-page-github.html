@@ -18,107 +18,160 @@
 
   <!-- Editor Section -->
   <div id="editor-section" style="display: none;">
-    <!-- Custom toolbar for Hugo shortcodes -->
     <div id="custom-toolbar">
       <button id="insert-wikilink" class="toolbar-btn">Link to Page</button>
       <button id="insert-citation" class="toolbar-btn">Citation</button>
     </div>
-    
-    <!-- Toast UI Editor Container -->
     <div id="editor"></div>
-    
     <div id="editor-actions">
       <button id="save-changes-btn">Save Changes & Create PR</button>
-      <button id="add-to-gallery-btn">Add Photos to Gallery</button>
       <button id="cancel-edit-btn">Cancel</button>
+    </div>
+      <h2>Other Actions</h2>
+  <div id="editor-actions">
+    <button id="add-to-gallery-btn">Add Photos to Gallery</button>
+    <button id="write-review-btn">Write a Review</button>
+  </div>
+  </div>
+
+
+
+  <!-- ===================== REVIEW MODAL ===================== -->
+  <div id="review-modal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <span class="close-review">&times;</span>
+
+      <!-- Step 1: Review form -->
+      <div id="review-step-1" class="step">
+        <h3>Write a Review</h3>
+
+        <label style="display:block; margin-bottom:8px;">Do you recommend this?</label>
+        <div style="display:flex; gap:12px; margin-bottom:16px;">
+          <label><input type="radio" name="review-recommend" value="true"> &#128077; Yes</label>
+          <label><input type="radio" name="review-recommend" value="false"> &#128078; No</label>
+        </div>
+
+        <label for="review-title" style="display:block; margin-bottom:4px;">Review Title</label>
+        <input type="text" id="review-title" placeholder="e.g. A fun showtape!" autocomplete="off" style="width:100%; margin-bottom:12px;">
+
+        <label for="review-body" style="display:block; margin-bottom:4px;">Your Review</label>
+        <textarea id="review-body" placeholder="Write your review here..." rows="8" autocomplete="off" style="width:100%;"></textarea>
+
+        <p id="review-author-note" style="margin-top:14px; font-size:0.9em; color:#aaa;"></p>
+
+        <div style="margin-top:10px;">
+          <button id="review-submit">Submit Review</button>
+        </div>
+      </div>
+
+      <!-- Step 2: Progress / success / error -->
+      <div id="review-step-2" class="step" style="display:none;">
+        <h3>Submitting Review...</h3>
+        <div id="review-progress">
+          <div class="progress-item"><span id="review-prog-1">&#8987;</span> Validating token...</div>
+          <div class="progress-item"><span id="review-prog-2">&#8987;</span> Setting up fork...</div>
+          <div class="progress-item"><span id="review-prog-3">&#8987;</span> Creating branch...</div>
+          <div class="progress-item"><span id="review-prog-4">&#8987;</span> Writing review file...</div>
+          <div class="progress-item"><span id="review-prog-5">&#8987;</span> Creating PR...</div>
+        </div>
+        <div id="review-success" style="display:none;">
+          <h4 style="color: var(--yellow);">&#9989; Review Submitted!</h4>
+          <a id="review-pr-link" href="#" target="_blank" class="github-link">View Pull Request on GitHub</a>
+          <br><br>
+          <button id="review-done">Done</button>
+        </div>
+        <div id="review-error" style="display:none; color: var(--orange);">
+          <h4>&#10060; Error</h4>
+          <p id="review-error-msg"></p>
+          <button id="review-retry">Try Again</button>
+        </div>
+      </div>
+
     </div>
   </div>
 
-  <!-- Gallery Upload Modal (same as before) -->
+  <!-- ===================== GALLERY MODAL ===================== -->
   <div id="gallery-upload-modal" class="modal" style="display: none;">
     <div class="modal-content">
       <span class="close-gallery">&times;</span>
-      
-      <form autocomplete="off" onsubmit="return false;">
 
-        <div id="gallery-step-2" class="step">
-          <h3>Select Images</h3>
-          <input type="file" id="gallery-image-files" accept=".avif" multiple required>
-          Only .avif files accepted
-          <button id="gallery-next-2">Next</button>
-        </div>
+      <div id="gallery-step-2" class="step">
+        <h3>Select Images</h3>
+        <input type="file" id="gallery-image-files" accept=".avif" multiple>
+        Only .avif files accepted
+        <button id="gallery-next-2">Next</button>
+      </div>
 
-        <div id="gallery-step-3" class="step" style="display: none;">
-          <h3>Image Description</h3>
-          <textarea id="gallery-description" placeholder="Enter description" rows="4" required></textarea>
-          <button id="gallery-back-2">Back</button>
-          <button id="gallery-next-3">Next</button>
-        </div>
+      <div id="gallery-step-3" class="step" style="display: none;">
+        <h3>Image Description</h3>
+        <textarea id="gallery-description" placeholder="Enter description" rows="4" autocomplete="off"></textarea>
+        <button id="gallery-back-2">Back</button>
+        <button id="gallery-next-3">Next</button>
+      </div>
 
-        <div id="gallery-step-4" class="step" style="display: none;">
-          <h3>Date Photographed</h3>
-          <div class="date-inputs">
-            <select id="gallery-year"><option value="">Year</option></select>
-            <select id="gallery-month">
-              <option value="">Month</option>
-              <option value="01">January</option><option value="02">February</option>
-              <option value="03">March</option><option value="04">April</option>
-              <option value="05">May</option><option value="06">June</option>
-              <option value="07">July</option><option value="08">August</option>
-              <option value="09">September</option><option value="10">October</option>
-              <option value="11">November</option><option value="12">December</option>
-            </select>
-            <select id="gallery-day"><option value="">Day</option></select>
-          </div>
-          <button id="gallery-back-3">Back</button>
-          <button id="gallery-next-4">Next</button>
+      <div id="gallery-step-4" class="step" style="display: none;">
+        <h3>Date Photographed</h3>
+        <div class="date-inputs">
+          <select id="gallery-year" autocomplete="off"><option value="">Year</option></select>
+          <select id="gallery-month" autocomplete="off">
+            <option value="">Month</option>
+            <option value="01">January</option><option value="02">February</option>
+            <option value="03">March</option><option value="04">April</option>
+            <option value="05">May</option><option value="06">June</option>
+            <option value="07">July</option><option value="08">August</option>
+            <option value="09">September</option><option value="10">October</option>
+            <option value="11">November</option><option value="12">December</option>
+          </select>
+          <select id="gallery-day" autocomplete="off"><option value="">Day</option></select>
         </div>
+        <button id="gallery-back-3">Back</button>
+        <button id="gallery-next-4">Next</button>
+      </div>
 
-        <div id="gallery-step-5" class="step" style="display: none;">
-          <h3>Creating Pull Request...</h3>
-          <div id="gallery-progress">
-            <div class="progress-item"><span id="gallery-prog-1">⏳</span> Validating...</div>
-            <div class="progress-item"><span id="gallery-prog-2">⏳</span> Setting up fork...</div>
-            <div class="progress-item"><span id="gallery-prog-3">⏳</span> Uploading images...</div>
-            <div class="progress-item"><span id="gallery-prog-4">⏳</span> Creating files...</div>
-            <div class="progress-item"><span id="gallery-prog-5">⏳</span> Committing...</div>
-            <div class="progress-item"><span id="gallery-prog-6">⏳</span> Creating PR...</div>
-          </div>
-          <div id="gallery-success" style="display: none;">
-            <h4 style="color: var(--yellow);">✅ Success!</h4>
-            <a id="gallery-pr-link" href="#" target="_blank" class="github-link">View Pull Request</a>
-            <br><br>
-            <button id="gallery-done">Done</button>
-          </div>
-          <div id="gallery-error" style="display: none; color: var(--orange);">
-            <h4>❌ Error</h4>
-            <p id="gallery-error-msg"></p>
-            <button id="gallery-retry">Try Again</button>
-          </div>
+      <div id="gallery-step-5" class="step" style="display: none;">
+        <h3>Creating Pull Request...</h3>
+        <div id="gallery-progress">
+          <div class="progress-item"><span id="gallery-prog-1">&#8987;</span> Validating...</div>
+          <div class="progress-item"><span id="gallery-prog-2">&#8987;</span> Setting up fork...</div>
+          <div class="progress-item"><span id="gallery-prog-3">&#8987;</span> Uploading images...</div>
+          <div class="progress-item"><span id="gallery-prog-4">&#8987;</span> Creating files...</div>
+          <div class="progress-item"><span id="gallery-prog-5">&#8987;</span> Committing...</div>
+          <div class="progress-item"><span id="gallery-prog-6">&#8987;</span> Creating PR...</div>
         </div>
-      </form>
+        <div id="gallery-success" style="display: none;">
+          <h4 style="color: var(--yellow);">&#9989; Success!</h4>
+          <a id="gallery-pr-link" href="#" target="_blank" class="github-link">View Pull Request</a>
+          <br><br>
+          <button id="gallery-done">Done</button>
+        </div>
+        <div id="gallery-error" style="display: none; color: var(--orange);">
+          <h4>&#10060; Error</h4>
+          <p id="gallery-error-msg"></p>
+          <button id="gallery-retry">Try Again</button>
+        </div>
+      </div>
     </div>
   </div>
 
-  <!-- Save Progress Modal -->
+  <!-- ===================== SAVE PROGRESS MODAL ===================== -->
   <div id="save-progress-modal" class="modal" style="display: none;">
     <div class="modal-content">
       <h3>Saving Changes...</h3>
       <div id="save-progress">
-        <div class="progress-item"><span id="save-progress-1">⏳</span> Validating token...</div>
-        <div class="progress-item"><span id="save-progress-2">⏳</span> Setting up fork...</div>
-        <div class="progress-item"><span id="save-progress-3">⏳</span> Creating branch...</div>
-        <div class="progress-item"><span id="save-progress-4">⏳</span> Updating file...</div>
-        <div class="progress-item"><span id="save-progress-5">⏳</span> Creating pull request...</div>
+        <div class="progress-item"><span id="save-progress-1">&#8987;</span> Validating token...</div>
+        <div class="progress-item"><span id="save-progress-2">&#8987;</span> Setting up fork...</div>
+        <div class="progress-item"><span id="save-progress-3">&#8987;</span> Creating branch...</div>
+        <div class="progress-item"><span id="save-progress-4">&#8987;</span> Updating file...</div>
+        <div class="progress-item"><span id="save-progress-5">&#8987;</span> Creating pull request...</div>
       </div>
       <div id="save-success" style="display: none;">
-        <h4 style="color: var(--yellow);">✅ Pull Request Created!</h4>
+        <h4 style="color: var(--yellow);">&#9989; Pull Request Created!</h4>
         <a id="save-pr-link" href="#" target="_blank" class="github-link">View Pull Request on GitHub</a>
         <br><br>
         <button id="close-save-modal">Done</button>
       </div>
       <div id="save-error" style="display: none; color: var(--orange);">
-        <h4>❌ Error</h4>
+        <h4>&#10060; Error</h4>
         <p id="save-error-message"></p>
         <button id="retry-save">Try Again</button>
       </div>
@@ -126,13 +179,11 @@
   </div>
 </div>
 
-<!-- Load Toast UI Editor CSS -->
+<!-- Toast UI Editor CSS -->
 <link rel="stylesheet" href="https://uicdn.toast.com/editor/latest/toastui-editor.min.css" />
-
-<!-- Load Toast UI Editor JS -->
+<link rel="stylesheet" href="https://uicdn.toast.com/editor/latest/toastui-editor-dark.min.css" />
 <script src="https://uicdn.toast.com/editor/latest/toastui-editor-all.min.js"></script>
 
-<!-- Load Octokit -->
 <script type="module">
 import { Octokit } from 'https://cdn.skypack.dev/@octokit/rest';
 window.OctokitClass = Octokit;
@@ -141,61 +192,66 @@ window.editorLibsReady = true;
 
 <script>
 (async function() {
-  // Wait for libraries
   while (!window.editorLibsReady || !window.toastui || !window.OctokitClass) {
     await new Promise(resolve => setTimeout(resolve, 100));
   }
 
   const { Editor } = window.toastui;
 
-  // Hugo page parameters
-  const currentPageTitle = {{ .Title | jsonify }};
+  const currentPageTitle    = {{ .Title | jsonify }};
   const currentPageCategories = {{ .Params.categories | jsonify }};
 
-  // Derive the repo file path from the URL (same pattern as markdownUrl)
   let currentPagePath = 'content' + window.location.pathname;
-  if (currentPagePath.endsWith('/')) {
-    currentPagePath = currentPagePath.slice(0, -1);
-  }
-  currentPagePath = currentPagePath + '.md';
-  
-  // GitHub config
-  const GITHUB_OWNER = 'The64thGamer';
-  const GITHUB_REPO = 'cheeseepedia';
+  if (currentPagePath.endsWith('/')) currentPagePath = currentPagePath.slice(0, -1);
+  currentPagePath += '.md';
+
+  const GITHUB_OWNER  = 'The64thGamer';
+  const GITHUB_REPO   = 'cheeseepedia';
   const GITHUB_BRANCH = 'main';
-  
-  // Get markdown URL
+  const USERNAME_KEY  = 'cheeseepedia_username';
+
   let markdownUrl = window.location.pathname;
-  if (markdownUrl.endsWith('/')) {
-    markdownUrl = markdownUrl.slice(0, -1);
-  }
-  markdownUrl = markdownUrl + '.md';
-  
+  if (markdownUrl.endsWith('/')) markdownUrl = markdownUrl.slice(0, -1);
+  markdownUrl += '.md';
+
   let editor = null;
   let octokit = null;
-  let githubToken = '';
   let userLogin = '';
   let originalFrontmatter = '';
-  
-  // Parse TOML frontmatter
-  function parseFrontmatter(markdown) {
-    const frontmatterRegex = /^\+\+\+\n([\s\S]*?)\n\+\+\+\n([\s\S]*)$/;
-    const match = markdown.match(frontmatterRegex);
-    
-    if (match) {
-      return {
-        frontmatter: match[1],
-        content: match[2]
-      };
-    }
-    
-    return {
-      frontmatter: '',
-      content: markdown
-    };
+
+  // ─── HELPERS ──────────────────────────────────────────────────────────────
+
+  // Escape a value for use inside a TOML double-quoted string.
+  function toTomlStr(str) {
+    return String(str).replace(/\\/g, '\\\\').replace(/"/g, '\\"');
   }
-  
-  // Initialize Toast UI Editor
+
+  // Hugo's jsonify can sometimes leave stray wrapping quote characters
+  // in the JS string value. Strip them before embedding in TOML.
+  function safeTitle(str) {
+    return toTomlStr(String(str).replace(/^"+|"+$/g, ''));
+  }
+
+  function parseFrontmatter(markdown) {
+    const match = markdown.match(/^\+\+\+\n([\s\S]*?)\n\+\+\+\n([\s\S]*)$/);
+    if (match) return { frontmatter: match[1], content: match[2] };
+    return { frontmatter: '', content: markdown };
+  }
+
+  function updateContributors(frontmatter, username) {
+    const re = /contributors\s*=\s*\[([^\]]*)\]/;
+    const match = frontmatter.match(re);
+    if (!match) {
+      return frontmatter.trimEnd() + `\ncontributors = ["${toTomlStr(username)}"]`;
+    }
+    const names = [...match[1].matchAll(/"([^"]*)"/g)].map(m => m[1]);
+    if (names.includes(username)) return frontmatter;
+    names.push(username);
+    return frontmatter.replace(re, `contributors = [${names.map(n => `"${toTomlStr(n)}"`).join(', ')}]`);
+  }
+
+  // ─── EDITOR ───────────────────────────────────────────────────────────────
+
   function initEditor(markdownContent) {
     editor = new Editor({
       el: document.querySelector('#editor'),
@@ -204,94 +260,84 @@ window.editorLibsReady = true;
       previewStyle: 'vertical',
       initialValue: markdownContent,
       usageStatistics: false,
-      theme: 'dark'
+      theme: 'dark',
+      toolbarItems: [
+        ['heading', 'bold', 'italic', 'strike'],
+        ['hr', 'quote'],
+        ['ul', 'ol', 'task', 'indent', 'outdent'],
+        ['table', 'link'],
+        ['code', 'codeblock']
+      ]
     });
   }
-  
-  // Load markdown file
+
   async function loadMarkdownFile() {
     try {
-      console.log('Loading markdown from:', markdownUrl);
-      
       const response = await fetch(markdownUrl);
-      
-      if (!response.ok) {
-        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-      }
-      
+      if (!response.ok) throw new Error(`HTTP ${response.status}: ${response.statusText}`);
       const markdown = await response.text();
-      
-      // Check for HTML (404 page)
       if (markdown.trim().startsWith('<!DOCTYPE') || markdown.trim().startsWith('<html')) {
         throw new Error('File not found at ' + markdownUrl);
       }
-      
       const { frontmatter, content } = parseFrontmatter(markdown);
       originalFrontmatter = frontmatter;
-      
-      console.log('Loaded content, length:', content.length);
-      
-      // Initialize editor with markdown content
       initEditor(content);
-      
       document.getElementById('github-auth-section').style.display = 'none';
       document.getElementById('editor-section').style.display = 'block';
-      
     } catch (error) {
-      console.error('Error loading file:', error);
       alert('Error loading file: ' + error.message);
     }
   }
-  
-  // Auth button
+
+  // ─── AUTH ─────────────────────────────────────────────────────────────────
+
   document.getElementById('auth-and-load').addEventListener('click', async () => {
     const token = document.getElementById('edit-github-token').value.trim();
-    if (!token) {
-      alert('Please enter your GitHub token');
-      return;
-    }
-    
-    githubToken = token;
-    octokit = new OctokitClass({ auth: githubToken });
-    
+    if (!token) { alert('Please enter your GitHub token'); return; }
+
+    octokit = new OctokitClass({ auth: token });
     try {
       const { data: user } = await octokit.rest.users.getAuthenticated();
       userLogin = user.login;
       await loadMarkdownFile();
     } catch (error) {
+      octokit = null;
+      userLogin = '';
       alert('Invalid GitHub token: ' + error.message);
     }
   });
-  
-  // Custom shortcode buttons
+
+  // All Other Actions require the token to be loaded first
+  function requireAuth() {
+    if (!octokit) {
+      alert('Please enter your GitHub token and load the editor first.');
+      return false;
+    }
+    return true;
+  }
+
+  // ─── CUSTOM TOOLBAR ───────────────────────────────────────────────────────
+
   document.getElementById('insert-wikilink').addEventListener('click', () => {
     const title = prompt('Enter wiki page title:');
-    if (title) {
-    const shortcode = "{" + "{" + "< wiki-link \"" + title + "\" >" + "}" + "}";
-    editor.insertText(shortcode);
-    }
+    const ob = '{' + '{'; const cb = '}' + '}';
+    if (title) editor.insertText(ob + '< wiki-link "' + title + '" >' + cb);
   });
-  
+
   document.getElementById('insert-citation').addEventListener('click', () => {
     const num = prompt('Enter citation number:', '1');
-    if (num && /^\d+$/.test(num)) {
-      const cite = "{" + "{" + "< cite " + num + " >" + "}" + "}";
-      editor.insertText(cite);
-    }
+    const ob = '{' + '{'; const cb = '}' + '}';
+    if (num && /^\d+$/.test(num)) editor.insertText(ob + '< cite ' + num + ' >' + cb);
   });
-  
-  // Save changes
+
+  // ─── SAVE PAGE EDIT ───────────────────────────────────────────────────────
+
   document.getElementById('save-changes-btn').addEventListener('click', async () => {
-    // Get markdown from editor
-    const markdownContent = editor.getMarkdown();
-    
-    // Reconstruct full file with frontmatter
-    const fullContent = `+++\n${originalFrontmatter}\n+++\n${markdownContent}`;
-    
-    console.log('Saving markdown, length:', fullContent.length);
-    
+    const username = localStorage.getItem(USERNAME_KEY) || 'Anonymous';
+    const updatedFrontmatter = updateContributors(originalFrontmatter, username);
+    const fullContent = `+++\n${updatedFrontmatter}\n+++\n${editor.getMarkdown()}`;
+
     document.getElementById('save-progress-modal').style.display = 'block';
-    
     try {
       await saveToGitHub(fullContent);
     } catch (error) {
@@ -300,370 +346,400 @@ window.editorLibsReady = true;
       document.getElementById('save-error-message').textContent = error.message;
     }
   });
-  
+
   document.getElementById('cancel-edit-btn').addEventListener('click', () => {
-    if (confirm('Discard changes?')) {
-      location.reload();
-    }
+    if (confirm('Discard changes?')) location.reload();
   });
-  
-  document.getElementById('close-save-modal').addEventListener('click', () => {
-    location.reload();
-  });
-  
+  document.getElementById('close-save-modal').addEventListener('click', () => location.reload());
   document.getElementById('retry-save').addEventListener('click', () => {
     document.getElementById('save-error').style.display = 'none';
     document.getElementById('save-progress').style.display = 'block';
     document.getElementById('save-changes-btn').click();
   });
-  
-  function updateSaveProgress(step, status) {
-    const icon = document.getElementById(`save-progress-${step}`);
-    if (!icon) return;
-    icon.textContent = status === 'success' ? '✅' : status === 'error' ? '❌' : '⏳';
+
+  function setSaveProgress(step, status) {
+    const el = document.getElementById(`save-progress-${step}`);
+    if (el) el.textContent = status === 'success' ? '✅' : status === 'error' ? '❌' : '⏳';
   }
-  
+
   async function saveToGitHub(content) {
-    // Step 1: Validate token
-    updateSaveProgress(1, 'loading');
-    const { data: user } = await octokit.rest.users.getAuthenticated();
-    updateSaveProgress(1, 'success');
-    
-    // Step 2: Check/create fork and sync
-    updateSaveProgress(2, 'loading');
-    let forkExists = false;
-    
-    try {
-      await octokit.rest.repos.get({
-        owner: userLogin,
-        repo: GITHUB_REPO
-      });
-      forkExists = true;
-    } catch (error) {
-      if (error.status === 404) {
-        await octokit.rest.repos.createFork({
-          owner: GITHUB_OWNER,
-          repo: GITHUB_REPO
-        });
-        await new Promise(resolve => setTimeout(resolve, 5000));
-      } else {
-        throw error;
-      }
-    }
-    
-    if (forkExists) {
-      try {
-        await octokit.request('POST /repos/{owner}/{repo}/merge-upstream', {
-          owner: userLogin,
-          repo: GITHUB_REPO,
-          branch: GITHUB_BRANCH
-        });
-      } catch (error) {
-        console.log('Fork sync skipped:', error.message);
-      }
-    }
-    updateSaveProgress(2, 'success');
-    
-    // Step 3: Create branch
-    updateSaveProgress(3, 'loading');
-    const branchName = `edit-${Date.now()}`;
-    
-    const { data: ref } = await octokit.rest.git.getRef({
-      owner: userLogin,
-      repo: GITHUB_REPO,
-      ref: `heads/${GITHUB_BRANCH}`
-    });
-    const baseSha = ref.object.sha;
-    
-    await octokit.rest.git.createRef({
-      owner: userLogin,
-      repo: GITHUB_REPO,
-      ref: `refs/heads/${branchName}`,
-      sha: baseSha
-    });
-    updateSaveProgress(3, 'success');
-    
-    // Step 4: Update file
-    updateSaveProgress(4, 'loading');
-    
-    const base64Content = btoa(unescape(encodeURIComponent(content)));
-    
-    const { data: blob } = await octokit.rest.git.createBlob({
-      owner: userLogin,
-      repo: GITHUB_REPO,
-      content: base64Content,
-      encoding: 'base64'
-    });
-    
-    const { data: baseCommit } = await octokit.rest.git.getCommit({
-      owner: userLogin,
-      repo: GITHUB_REPO,
-      commit_sha: baseSha
-    });
-    
-    const { data: newTree } = await octokit.rest.git.createTree({
-      owner: userLogin,
-      repo: GITHUB_REPO,
-      base_tree: baseCommit.tree.sha,
-      tree: [{
-        path: currentPagePath,
-        mode: '100644',
-        type: 'blob',
-        sha: blob.sha
-      }]
-    });
-    
-    const { data: newCommit } = await octokit.rest.git.createCommit({
-      owner: userLogin,
-      repo: GITHUB_REPO,
-      message: `Edit: ${currentPageTitle}`,
-      tree: newTree.sha,
-      parents: [baseSha]
-    });
-    
-    await octokit.rest.git.updateRef({
-      owner: userLogin,
-      repo: GITHUB_REPO,
-      ref: `heads/${branchName}`,
-      sha: newCommit.sha
-    });
-    updateSaveProgress(4, 'success');
-    
-    // Step 5: Create PR
-    updateSaveProgress(5, 'loading');
-    
+    setSaveProgress(1, 'loading');
+    await octokit.rest.users.getAuthenticated();
+    setSaveProgress(1, 'success');
+
+    setSaveProgress(2, 'loading');
+    await ensureFork(octokit, userLogin);
+    setSaveProgress(2, 'success');
+
+    setSaveProgress(3, 'loading');
+    const { branchName, baseSha } = await createBranch(octokit, userLogin, 'edit');
+    setSaveProgress(3, 'success');
+
+    setSaveProgress(4, 'loading');
+    await commitFiles(octokit, userLogin, branchName, baseSha,
+      [{ path: currentPagePath, content }],
+      `Edit: ${currentPageTitle}`);
+    setSaveProgress(4, 'success');
+
+    setSaveProgress(5, 'loading');
     const { data: pr } = await octokit.rest.pulls.create({
-      owner: GITHUB_OWNER,
-      repo: GITHUB_REPO,
+      owner: GITHUB_OWNER, repo: GITHUB_REPO,
       title: `Edit: ${currentPageTitle}`,
-      head: `${userLogin}:${branchName}`,
-      base: GITHUB_BRANCH,
+      head: `${userLogin}:${branchName}`, base: GITHUB_BRANCH,
       body: `## Page Edit\n\nEdited via web interface.\n\n**Page:** ${currentPageTitle}\n**File:** \`${currentPagePath}\``
     });
-    
-    updateSaveProgress(5, 'success');
-    
+    setSaveProgress(5, 'success');
+
     document.getElementById('save-progress').style.display = 'none';
     document.getElementById('save-success').style.display = 'block';
     document.getElementById('save-pr-link').href = pr.html_url;
   }
-  
-  // Gallery upload functionality (same as before)
+
+  // ─── SHARED GITHUB HELPERS ────────────────────────────────────────────────
+
+  async function ensureFork(kit, login) {
+    let exists = false;
+    try {
+      await kit.rest.repos.get({ owner: login, repo: GITHUB_REPO });
+      exists = true;
+    } catch (e) {
+      if (e.status === 404) {
+        await kit.rest.repos.createFork({ owner: GITHUB_OWNER, repo: GITHUB_REPO });
+        await new Promise(r => setTimeout(r, 5000));
+      } else throw e;
+    }
+    if (exists) {
+      try {
+        await kit.request('POST /repos/{owner}/{repo}/merge-upstream', {
+          owner: login, repo: GITHUB_REPO, branch: GITHUB_BRANCH
+        });
+      } catch (e) { console.log('Fork sync skipped:', e.message); }
+    }
+  }
+
+  async function createBranch(kit, login, prefix) {
+    const { data: ref } = await kit.rest.git.getRef({
+      owner: login, repo: GITHUB_REPO, ref: `heads/${GITHUB_BRANCH}`
+    });
+    const baseSha = ref.object.sha;
+    const branchName = `${prefix}-${Date.now()}`;
+    await kit.rest.git.createRef({
+      owner: login, repo: GITHUB_REPO,
+      ref: `refs/heads/${branchName}`, sha: baseSha
+    });
+    return { branchName, baseSha };
+  }
+
+  // Accepts an array of { path, content } objects and commits them all in one tree
+  async function commitFiles(kit, login, branchName, baseSha, files, message) {
+    const treeEntries = await Promise.all(files.map(async ({ path, content }) => {
+      const b64 = btoa(unescape(encodeURIComponent(content)));
+      const { data: blob } = await kit.rest.git.createBlob({
+        owner: login, repo: GITHUB_REPO, content: b64, encoding: 'base64'
+      });
+      return { path, mode: '100644', type: 'blob', sha: blob.sha };
+    }));
+
+    const { data: baseCommit } = await kit.rest.git.getCommit({
+      owner: login, repo: GITHUB_REPO, commit_sha: baseSha
+    });
+    const { data: newTree } = await kit.rest.git.createTree({
+      owner: login, repo: GITHUB_REPO,
+      base_tree: baseCommit.tree.sha, tree: treeEntries
+    });
+    const { data: newCommit } = await kit.rest.git.createCommit({
+      owner: login, repo: GITHUB_REPO,
+      message, tree: newTree.sha, parents: [baseSha]
+    });
+    await kit.rest.git.updateRef({
+      owner: login, repo: GITHUB_REPO,
+      ref: `heads/${branchName}`, sha: newCommit.sha
+    });
+    return newCommit;
+  }
+
+  // ─── REVIEW MODAL ─────────────────────────────────────────────────────────
+
+  const reviewModal = document.getElementById('review-modal');
+
+  function showReviewStep(num) {
+    document.querySelectorAll('#review-modal .step').forEach(s => s.style.display = 'none');
+    document.getElementById(`review-step-${num}`).style.display = 'block';
+  }
+
+  document.getElementById('write-review-btn').addEventListener('click', () => {
+    if (!requireAuth()) return;
+    const name = localStorage.getItem(USERNAME_KEY) || 'Anonymous';
+    document.getElementById('review-author-note').textContent =
+      `Submitting under ${name} — you can change this in the bottom right settings.`;
+    reviewModal.style.display = 'block';
+    showReviewStep(1);
+  });
+
+  document.querySelector('.close-review').addEventListener('click', () => {
+    reviewModal.style.display = 'none';
+  });
+
+  document.getElementById('review-submit').addEventListener('click', async () => {
+    const recommend = document.querySelector('input[name="review-recommend"]:checked');
+    const title     = document.getElementById('review-title').value.trim();
+    const body      = document.getElementById('review-body').value.trim();
+
+    if (!recommend) { alert('Please select whether you recommend this.'); return; }
+    if (!title)     { alert('Please enter a review title.'); return; }
+    if (!body)      { alert('Please write your review.'); return; }
+
+    showReviewStep(2);
+    await submitReview();
+  });
+
+  document.getElementById('review-done').addEventListener('click', () => {
+    reviewModal.style.display = 'none';
+  });
+
+  document.getElementById('review-retry').addEventListener('click', () => {
+    document.getElementById('review-error').style.display = 'none';
+    document.getElementById('review-progress').style.display = 'block';
+    for (let i = 1; i <= 5; i++) {
+      const el = document.getElementById(`review-prog-${i}`);
+      if (el) el.textContent = '⏳';
+    }
+    submitReview();
+  });
+
+  function setReviewProgress(step, status) {
+    const el = document.getElementById(`review-prog-${step}`);
+    if (el) el.textContent = status === 'success' ? '✅' : status === 'error' ? '❌' : '⏳';
+  }
+
+  async function submitReview() {
+    try {
+      const recommend = document.querySelector('input[name="review-recommend"]:checked').value;
+      const title     = document.getElementById('review-title').value.trim();
+      const body      = document.getElementById('review-body').value.trim();
+      const author    = localStorage.getItem(USERNAME_KEY) || 'Anonymous';
+
+      const today = new Date();
+      const startDate = `${today.getFullYear()}-${String(today.getMonth()+1).padStart(2,'0')}-${String(today.getDate()).padStart(2,'0')}`;
+
+      setReviewProgress(1, 'loading');
+      await octokit.rest.users.getAuthenticated();
+      setReviewProgress(1, 'success');
+
+      setReviewProgress(2, 'loading');
+      await ensureFork(octokit, userLogin);
+      setReviewProgress(2, 'success');
+
+      setReviewProgress(3, 'loading');
+      const { branchName, baseSha } = await createBranch(octokit, userLogin, 'review');
+      setReviewProgress(3, 'success');
+
+      setReviewProgress(4, 'loading');
+      const randomName = Math.random().toString(36).substring(2, 18);
+      const fileContent =
+`+++
+recommend = ${recommend}
+title = "${toTomlStr(title)}"
+startDate = "${startDate}"
+page = "${safeTitle(currentPageTitle)}"
+contributors = ["${toTomlStr(author)}"]
+tags = ["Reviews"]
+categories = ["User-Generated Content"]
++++
+${body}`;
+
+      await commitFiles(octokit, userLogin, branchName, baseSha,
+        [{ path: `content/reviews/${randomName}.md`, content: fileContent }],
+        `Review: ${currentPageTitle}`);
+      setReviewProgress(4, 'success');
+
+      setReviewProgress(5, 'loading');
+      const { data: pr } = await octokit.rest.pulls.create({
+        owner: GITHUB_OWNER, repo: GITHUB_REPO,
+        title: `Review: ${currentPageTitle}`,
+        head: `${userLogin}:${branchName}`, base: GITHUB_BRANCH,
+        body: `## Review Submission\n\n**Page:** ${currentPageTitle}\n**Title:** ${title}\n**Recommend:** ${recommend === 'true' ? 'Yes 👍' : 'No 👎'}\n**Author:** ${author}`
+      });
+      setReviewProgress(5, 'success');
+
+      document.getElementById('review-progress').style.display = 'none';
+      document.getElementById('review-success').style.display = 'block';
+      document.getElementById('review-pr-link').href = pr.html_url;
+
+    } catch (error) {
+      console.error('Review submit error:', error);
+      for (let i = 1; i <= 5; i++) {
+        const el = document.getElementById(`review-prog-${i}`);
+        if (el && el.textContent === '⏳') { el.textContent = '❌'; break; }
+      }
+      document.getElementById('review-progress').style.display = 'none';
+      document.getElementById('review-error').style.display = 'block';
+      document.getElementById('review-error-msg').textContent = error.message;
+    }
+  }
+
+  // ─── GALLERY MODAL ────────────────────────────────────────────────────────
+
   const galleryModal = document.getElementById('gallery-upload-modal');
-  const galleryBtn = document.getElementById('add-to-gallery-btn');
-  const closeGallery = document.querySelector('.close-gallery');
-  
   let galleryFiles = [];
-  
+
   const galleryYear = document.getElementById('gallery-year');
-  for (let year = new Date().getFullYear(); year >= 1950; year--) {
-    const opt = document.createElement('option');
-    opt.value = year;
-    opt.textContent = year;
-    galleryYear.appendChild(opt);
+  for (let y = new Date().getFullYear(); y >= 1950; y--) {
+    const o = document.createElement('option');
+    o.value = y; o.textContent = y;
+    galleryYear.appendChild(o);
   }
-  
   const galleryDay = document.getElementById('gallery-day');
-  for (let day = 1; day <= 31; day++) {
-    const opt = document.createElement('option');
-    const dayStr = day.toString().padStart(2, '0');
-    opt.value = dayStr;
-    opt.textContent = day;
-    galleryDay.appendChild(opt);
+  for (let d = 1; d <= 31; d++) {
+    const o = document.createElement('option');
+    o.value = String(d).padStart(2, '0'); o.textContent = d;
+    galleryDay.appendChild(o);
   }
-  
+
   function showGalleryStep(num) {
     document.querySelectorAll('#gallery-upload-modal .step').forEach(s => s.style.display = 'none');
     document.getElementById(`gallery-step-${num}`).style.display = 'block';
   }
-  
-  galleryBtn.addEventListener('click', () => {
+
+  document.getElementById('add-to-gallery-btn').addEventListener('click', () => {
+    if (!requireAuth()) return;
     galleryModal.style.display = 'block';
     showGalleryStep(2);
   });
-  
-  closeGallery.addEventListener('click', () => {
+  document.querySelector('.close-gallery').addEventListener('click', () => {
     galleryModal.style.display = 'none';
   });
-  
+
   document.getElementById('gallery-next-2').addEventListener('click', () => {
     const files = Array.from(document.getElementById('gallery-image-files').files);
-    if (files.length === 0) {
-      alert('Please select at least one image');
-      return;
-    }
-    const invalid = files.filter(f => !f.name.toLowerCase().endsWith('.avif'));
-    if (invalid.length > 0) {
-      alert('Only .avif files allowed');
-      return;
-    }
+    if (!files.length) { alert('Please select at least one image'); return; }
+    if (files.some(f => !f.name.toLowerCase().endsWith('.avif'))) { alert('Only .avif files allowed'); return; }
     galleryFiles = files;
     showGalleryStep(3);
   });
-  
   document.getElementById('gallery-back-2').addEventListener('click', () => showGalleryStep(2));
-  
   document.getElementById('gallery-next-3').addEventListener('click', () => {
-    const desc = document.getElementById('gallery-description').value.trim();
-    if (!desc) {
-      alert('Please enter a description');
-      return;
-    }
+    if (!document.getElementById('gallery-description').value.trim()) { alert('Please enter a description'); return; }
     showGalleryStep(4);
   });
-  
   document.getElementById('gallery-back-3').addEventListener('click', () => showGalleryStep(3));
-  
   document.getElementById('gallery-next-4').addEventListener('click', () => {
     showGalleryStep(5);
     uploadGalleryImages();
   });
-  
-  document.getElementById('gallery-done').addEventListener('click', () => {
-    location.reload();
-  });
-  
-  document.getElementById('gallery-retry').addEventListener('click', () => {
-    showGalleryStep(1);
-  });
-  
-  function updateGalleryProgress(step, status) {
-    const icon = document.getElementById(`gallery-prog-${step}`);
-    if (!icon) return;
-    icon.textContent = status === 'success' ? '✅' : status === 'error' ? '❌' : '⏳';
+  document.getElementById('gallery-done').addEventListener('click', () => location.reload());
+  document.getElementById('gallery-retry').addEventListener('click', () => showGalleryStep(2));
+
+  function setGalleryProgress(step, status) {
+    const el = document.getElementById(`gallery-prog-${step}`);
+    if (el) el.textContent = status === 'success' ? '✅' : status === 'error' ? '❌' : '⏳';
   }
-  
+
   async function uploadGalleryImages() {
     try {
-      const desc = document.getElementById('gallery-description').value.trim();
-      const year = document.getElementById('gallery-year').value;
+      const desc  = document.getElementById('gallery-description').value.trim();
+      const year  = document.getElementById('gallery-year').value;
       const month = document.getElementById('gallery-month').value;
-      const day = document.getElementById('gallery-day').value;
+      const day   = document.getElementById('gallery-day').value;
       const dateStr = `${year || '0000'}-${month || '00'}-${day || '00'}`;
-      
-      updateGalleryProgress(1, 'loading');
-      const { data: user } = await octokit.rest.users.getAuthenticated();
-      updateGalleryProgress(1, 'success');
-      
-      updateGalleryProgress(2, 'loading');
-      let forkExists = false;
-      try {
-        await octokit.rest.repos.get({ owner: userLogin, repo: GITHUB_REPO });
-        forkExists = true;
-      } catch (error) {
-        if (error.status === 404) {
-          await octokit.rest.repos.createFork({ owner: GITHUB_OWNER, repo: GITHUB_REPO });
-          await new Promise(resolve => setTimeout(resolve, 5000));
-        } else throw error;
-      }
-      
-      if (forkExists) {
-        try {
-          await octokit.request('POST /repos/{owner}/{repo}/merge-upstream', {
-            owner: userLogin, repo: GITHUB_REPO, branch: GITHUB_BRANCH
-          });
-        } catch (error) {
-          console.log('Sync skipped:', error.message);
-        }
-      }
-      
-      const { data: ref } = await octokit.rest.git.getRef({
-        owner: userLogin, repo: GITHUB_REPO, ref: `heads/${GITHUB_BRANCH}`
-      });
-      const baseSha = ref.object.sha;
-      
-      const branchName = `photos-${Date.now()}`;
-      await octokit.rest.git.createRef({
-        owner: userLogin, repo: GITHUB_REPO,
-        ref: `refs/heads/${branchName}`, sha: baseSha
-      });
-      updateGalleryProgress(2, 'success');
-      
-      updateGalleryProgress(3, 'loading');
-      const fileData = [];
+
+      setGalleryProgress(1, 'loading');
+      await octokit.rest.users.getAuthenticated();
+      setGalleryProgress(1, 'success');
+
+      setGalleryProgress(2, 'loading');
+      await ensureFork(octokit, userLogin);
+      const { branchName, baseSha } = await createBranch(octokit, userLogin, 'photos');
+      setGalleryProgress(2, 'success');
+
+      setGalleryProgress(3, 'loading');
+      const fileData   = [];
       const imageBlobs = [];
-      
+
       for (const file of galleryFiles) {
         const randomName = Math.random().toString(36).substring(2, 18);
-        const filename = `${randomName}.avif`;
-        fileData.push({ originalFile: file, filename, randomName });
-        
-        const base64 = await new Promise((resolve, reject) => {
+        const filename   = `${randomName}.avif`;
+        fileData.push({ filename, randomName });
+
+        const base64 = await new Promise((res, rej) => {
           const reader = new FileReader();
-          reader.onload = () => resolve(reader.result.split(',')[1]);
-          reader.onerror = reject;
+          reader.onload  = () => res(reader.result.split(',')[1]);
+          reader.onerror = rej;
           reader.readAsDataURL(file);
         });
-        
         const { data: blob } = await octokit.rest.git.createBlob({
-          owner: userLogin, repo: GITHUB_REPO,
-          content: base64, encoding: 'base64'
+          owner: userLogin, repo: GITHUB_REPO, content: base64, encoding: 'base64'
         });
-        imageBlobs.push({ sha: blob.sha, path: `static/photos/${filename}` });
+        imageBlobs.push({ path: `static/photos/${filename}`, sha: blob.sha });
       }
-      updateGalleryProgress(3, 'success');
-      
-      updateGalleryProgress(4, 'loading');
-      const markdownBlobs = [];
-      for (const info of fileData) {
-        const content = `+++
-title = "${info.filename}"
+      setGalleryProgress(3, 'success');
+
+      setGalleryProgress(4, 'loading');
+      const mdFiles = fileData.map(info => ({
+        path: `content/photos/${info.randomName}.md`,
+        content:
+`+++
+title = "${toTomlStr(info.filename)}"
 startDate = "${dateStr}"
 citations = []
-pages = [${currentPageTitle}]
+pages = ["${safeTitle(currentPageTitle)}"]
 tags = ["Photos"]
-categories = ${currentPageCategories || '[]'}
+categories = ${JSON.stringify(currentPageCategories || [])}
 +++
-${desc}`;
-        
-        const base64 = btoa(unescape(encodeURIComponent(content)));
-        const { data: blob } = await octokit.rest.git.createBlob({
-          owner: userLogin, repo: GITHUB_REPO,
-          content: base64, encoding: 'base64'
-        });
-        markdownBlobs.push({ sha: blob.sha, path: `content/photos/${info.randomName}.md` });
-      }
-      updateGalleryProgress(4, 'success');
-      
-      updateGalleryProgress(5, 'loading');
+${desc}`
+      }));
+
+      // Commit images (raw blobs) + markdown files together
       const { data: baseCommit } = await octokit.rest.git.getCommit({
         owner: userLogin, repo: GITHUB_REPO, commit_sha: baseSha
       });
-      
-      const tree = [...imageBlobs, ...markdownBlobs].map(b => ({
-        path: b.path, mode: '100644', type: 'blob', sha: b.sha
+
+      // Build markdown blobs
+      const mdBlobEntries = await Promise.all(mdFiles.map(async f => {
+        const b64 = btoa(unescape(encodeURIComponent(f.content)));
+        const { data: blob } = await octokit.rest.git.createBlob({
+          owner: userLogin, repo: GITHUB_REPO, content: b64, encoding: 'base64'
+        });
+        return { path: f.path, mode: '100644', type: 'blob', sha: blob.sha };
       }));
-      
+
+      const treeEntries = [
+        ...imageBlobs.map(b => ({ path: b.path, mode: '100644', type: 'blob', sha: b.sha })),
+        ...mdBlobEntries
+      ];
+
       const { data: newTree } = await octokit.rest.git.createTree({
         owner: userLogin, repo: GITHUB_REPO,
-        base_tree: baseCommit.tree.sha, tree
+        base_tree: baseCommit.tree.sha, tree: treeEntries
       });
-      
       const { data: newCommit } = await octokit.rest.git.createCommit({
         owner: userLogin, repo: GITHUB_REPO,
         message: `Add ${fileData.length} photo(s): ${desc.substring(0, 50)}`,
         tree: newTree.sha, parents: [baseSha]
       });
-      
       await octokit.rest.git.updateRef({
         owner: userLogin, repo: GITHUB_REPO,
         ref: `heads/${branchName}`, sha: newCommit.sha
       });
-      updateGalleryProgress(5, 'success');
-      
-      updateGalleryProgress(6, 'loading');
+      setGalleryProgress(4, 'success');
+
+      setGalleryProgress(5, 'loading');
+      // (step 5 was committing — now step 5 is just the old step 5+6 combined)
+      setGalleryProgress(5, 'success');
+
+      setGalleryProgress(6, 'loading');
       const { data: pr } = await octokit.rest.pulls.create({
         owner: GITHUB_OWNER, repo: GITHUB_REPO,
         title: `Add photos to ${currentPageTitle}`,
         head: `${userLogin}:${branchName}`, base: GITHUB_BRANCH,
         body: `## Photo Submission\n\n**Description:** ${desc}\n**Date:** ${dateStr}\n**Page:** ${currentPageTitle}\n\n**Files:** ${fileData.length} photo(s)`
       });
-      updateGalleryProgress(6, 'success');
-      
+      setGalleryProgress(6, 'success');
+
       document.getElementById('gallery-progress').style.display = 'none';
       document.getElementById('gallery-success').style.display = 'block';
       document.getElementById('gallery-pr-link').href = pr.html_url;
-      
+
     } catch (error) {
       console.error('Gallery upload error:', error);
       document.getElementById('gallery-progress').style.display = 'none';
@@ -671,5 +747,6 @@ ${desc}`;
       document.getElementById('gallery-error-msg').textContent = error.message;
     }
   }
+
 })();
 </script>
