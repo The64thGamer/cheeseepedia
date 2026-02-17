@@ -4,13 +4,13 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Pizza Time Theatre"]
 startDate = "1977-08-12"
-endDate = "0000-00-00"
+endDate = "1978-02-00"
 contributors = ["The 64th Gamer","Ptt1977"]
 citations = ["https://archive.org/details/atariincbusiness0000gold/page/256/mode/2up"]
 pageThumbnailFile = "nxre94zzgKZhWTebU2LP.avif"
 showtapeFormats = ["Cyberamics Reel"]
 +++
-The ***Helen Henny Showtape* is a currently lost *Pizza Time Theatre* showtape that debuted at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} in August of 1977.**
+The ***Helen Henny Showtape*** is a currently lost *Pizza Time Theatre* showtape that debuted at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} in August of 1977.
 
 ## History
 

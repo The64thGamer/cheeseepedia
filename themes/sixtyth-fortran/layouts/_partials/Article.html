@@ -6,7 +6,6 @@
 {{- $isBasicArticle := not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
 
 {{- /* Article Sections */ -}}
-{{- $article := false -}}
 {{- $galleryHasContent := false -}}
 {{- $videosHaveContent := false -}}
 {{- $transcriptions := "" -}}
@@ -27,10 +26,6 @@
 {{- /* Gallery button shows only if content exists — assign, do NOT redeclare */ -}}
 {{- $galleryHasContent = ne $galleryContent "" -}}
 {{- $videosHaveContent = ne $videoContent "" -}}
-
-{{- /* Determine whether there is any non-gallery article content */ -}}
-{{- $article = or (ne $videoContent "") (ne $transcriptions "") (ne $reviews "") (ne $sales "") (ne $galleryContent "")
--}}
 {{- end -}}
 
 {{/* Article Title/Header */}}
@@ -92,9 +87,7 @@ false) -}}
 {{/* Top Bar */}}
 <aside>
     <div class="article-topBar">
-        {{- if $article -}}
         <button class="article-button" data-target="section-article">Article</button>
-        {{- end -}}
         {{- if $galleryHasContent -}}
         <button class="article-button" data-target="section-gallery">Gallery</button>
         {{- end -}}
@@ -110,7 +103,9 @@ false) -}}
         {{- if ne $sales "" -}}
         <button class="article-button" data-target="section-sales">Sales</button>
         {{- end -}}
-        {{- partial "editButton.html" . -}}
+        {{- if .Page.File -}}
+        <button class="article-button" data-target="section-edit">Edit Page</button>
+        {{- end -}}
     </div>
 </aside>
 
@@ -177,6 +172,11 @@ false) -}}
     {{- $sales -}}
     {{- end -}}
 </div>
+{{- if .Page.File -}}
+<div id="section-edit" class="article-section">
+    {{- partial "edit-page-github.html" . -}}
+</div>
+{{- end -}}
 {{- end -}}
 <hr>
     {{ partial "display-contributors.html" . }}

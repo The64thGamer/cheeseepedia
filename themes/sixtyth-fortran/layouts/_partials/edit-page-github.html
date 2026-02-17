@@ -1,0 +1,669 @@
+<center>Hello user! The wiki is attempting to move away from the awful DecapCMS to an in-page editor. Not every part of a page will be editable during this transition- use Decap or Github for what's missing, but hopefully what's here is a better experience!</center>
+<br>
+<div id="edit-page-content">
+  <!-- GitHub Token Input -->
+  <div id="github-auth-section">
+    <input type="password" id="edit-github-token" placeholder="GitHub Personal Access Token (Classic)" autocomplete="new-password">
+      <h2>How to create a token?</h2>
+      <ol>
+        <li>If you do not already have a GitHub account, you'll need to <a href="https://github.com/signup" target="_blank">make one</a> to edit pages.</li>
+        <li>Go to <a href="https://github.com/settings/tokens" target="_blank">GitHub Settings → Tokens (classic)</a></li>
+        <li>Click "Generate new token (classic)"</li>
+        <li>Select the <strong>repo</strong> scope</li>
+        <li>Generate and copy the token.</li>
+        <li>Paste above ^. Your browser should let you save it as a password. This wiki does not save or keep tokens.</li>
+      </ol>
+    <button id="auth-and-load">Load Editor</button>
+  </div>
+
+  <!-- Editor Section -->
+  <div id="editor-section" style="display: none;">
+    <!-- Custom toolbar for Hugo shortcodes -->
+    <div id="custom-toolbar">
+      <button id="insert-wikilink" class="toolbar-btn">Link to Page</button>
+      <button id="insert-citation" class="toolbar-btn">Citation</button>
+    </div>
+    
+    <!-- Toast UI Editor Container -->
+    <div id="editor"></div>
+    
+    <div id="editor-actions">
+      <button id="save-changes-btn">Save Changes & Create PR</button>
+      <button id="add-to-gallery-btn">Add Photos to Gallery</button>
+      <button id="cancel-edit-btn">Cancel</button>
+    </div>
+  </div>
+
+  <!-- Gallery Upload Modal (same as before) -->
+  <div id="gallery-upload-modal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <span class="close-gallery">&times;</span>
+      
+      <form autocomplete="off" onsubmit="return false;">
+
+        <div id="gallery-step-2" class="step">
+          <h3>Select Images</h3>
+          <input type="file" id="gallery-image-files" accept=".avif" multiple required>
+          Only .avif files accepted
+          <button id="gallery-next-2">Next</button>
+        </div>
+
+        <div id="gallery-step-3" class="step" style="display: none;">
+          <h3>Image Description</h3>
+          <textarea id="gallery-description" placeholder="Enter description" rows="4" required></textarea>
+          <button id="gallery-back-2">Back</button>
+          <button id="gallery-next-3">Next</button>
+        </div>
+
+        <div id="gallery-step-4" class="step" style="display: none;">
+          <h3>Date Photographed</h3>
+          <div class="date-inputs">
+            <select id="gallery-year"><option value="">Year</option></select>
+            <select id="gallery-month">
+              <option value="">Month</option>
+              <option value="01">January</option><option value="02">February</option>
+              <option value="03">March</option><option value="04">April</option>
+              <option value="05">May</option><option value="06">June</option>
+              <option value="07">July</option><option value="08">August</option>
+              <option value="09">September</option><option value="10">October</option>
+              <option value="11">November</option><option value="12">December</option>
+            </select>
+            <select id="gallery-day"><option value="">Day</option></select>
+          </div>
+          <button id="gallery-back-3">Back</button>
+          <button id="gallery-next-4">Next</button>
+        </div>
+
+        <div id="gallery-step-5" class="step" style="display: none;">
+          <h3>Creating Pull Request...</h3>
+          <div id="gallery-progress">
+            <div class="progress-item"><span id="gallery-prog-1">⏳</span> Validating...</div>
+            <div class="progress-item"><span id="gallery-prog-2">⏳</span> Setting up fork...</div>
+            <div class="progress-item"><span id="gallery-prog-3">⏳</span> Uploading images...</div>
+            <div class="progress-item"><span id="gallery-prog-4">⏳</span> Creating files...</div>
+            <div class="progress-item"><span id="gallery-prog-5">⏳</span> Committing...</div>
+            <div class="progress-item"><span id="gallery-prog-6">⏳</span> Creating PR...</div>
+          </div>
+          <div id="gallery-success" style="display: none;">
+            <h4 style="color: var(--yellow);">✅ Success!</h4>
+            <a id="gallery-pr-link" href="#" target="_blank" class="github-link">View Pull Request</a>
+            <br><br>
+            <button id="gallery-done">Done</button>
+          </div>
+          <div id="gallery-error" style="display: none; color: var(--orange);">
+            <h4>❌ Error</h4>
+            <p id="gallery-error-msg"></p>
+            <button id="gallery-retry">Try Again</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+
+  <!-- Save Progress Modal -->
+  <div id="save-progress-modal" class="modal" style="display: none;">
+    <div class="modal-content">
+      <h3>Saving Changes...</h3>
+      <div id="save-progress">
+        <div class="progress-item"><span id="save-progress-1">⏳</span> Validating token...</div>
+        <div class="progress-item"><span id="save-progress-2">⏳</span> Setting up fork...</div>
+        <div class="progress-item"><span id="save-progress-3">⏳</span> Creating branch...</div>
+        <div class="progress-item"><span id="save-progress-4">⏳</span> Updating file...</div>
+        <div class="progress-item"><span id="save-progress-5">⏳</span> Creating pull request...</div>
+      </div>
+      <div id="save-success" style="display: none;">
+        <h4 style="color: var(--yellow);">✅ Pull Request Created!</h4>
+        <a id="save-pr-link" href="#" target="_blank" class="github-link">View Pull Request on GitHub</a>
+        <br><br>
+        <button id="close-save-modal">Done</button>
+      </div>
+      <div id="save-error" style="display: none; color: var(--orange);">
+        <h4>❌ Error</h4>
+        <p id="save-error-message"></p>
+        <button id="retry-save">Try Again</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Load Toast UI Editor CSS -->
+<link rel="stylesheet" href="https://uicdn.toast.com/editor/latest/toastui-editor.min.css" />
+
+<!-- Load Toast UI Editor JS -->
+<script src="https://uicdn.toast.com/editor/latest/toastui-editor-all.min.js"></script>
+
+<!-- Load Octokit -->
+<script type="module">
+import { Octokit } from 'https://cdn.skypack.dev/@octokit/rest';
+window.OctokitClass = Octokit;
+window.editorLibsReady = true;
+</script>
+
+<script>
+(async function() {
+  // Wait for libraries
+  while (!window.editorLibsReady || !window.toastui || !window.OctokitClass) {
+    await new Promise(resolve => setTimeout(resolve, 100));
+  }
+
+  const { Editor } = window.toastui;
+
+  // Hugo page parameters
+  const currentPageTitle = {{ .Title | jsonify }};
+  const currentPagePath = {{ .Page.File.Path | jsonify }};
+  const currentPageCategories = {{ .Params.categories | jsonify }};
+  
+  // GitHub config
+  const GITHUB_OWNER = 'The64thGamer';
+  const GITHUB_REPO = 'cheeseepedia';
+  const GITHUB_BRANCH = 'main';
+  
+  // Get markdown URL
+  let markdownUrl = window.location.pathname;
+  if (markdownUrl.endsWith('/')) {
+    markdownUrl = markdownUrl.slice(0, -1);
+  }
+  markdownUrl = markdownUrl + '.md';
+  
+  let editor = null;
+  let octokit = null;
+  let githubToken = '';
+  let userLogin = '';
+  let originalFrontmatter = '';
+  
+  // Parse TOML frontmatter
+  function parseFrontmatter(markdown) {
+    const frontmatterRegex = /^\+\+\+\n([\s\S]*?)\n\+\+\+\n([\s\S]*)$/;
+    const match = markdown.match(frontmatterRegex);
+    
+    if (match) {
+      return {
+        frontmatter: match[1],
+        content: match[2]
+      };
+    }
+    
+    return {
+      frontmatter: '',
+      content: markdown
+    };
+  }
+  
+  // Initialize Toast UI Editor
+  function initEditor(markdownContent) {
+    editor = new Editor({
+      el: document.querySelector('#editor'),
+      height: '600px',
+      initialEditType: 'wysiwyg',
+      previewStyle: 'vertical',
+      initialValue: markdownContent,
+      usageStatistics: false,
+      theme: 'dark'
+    });
+  }
+  
+  // Load markdown file
+  async function loadMarkdownFile() {
+    try {
+      console.log('Loading markdown from:', markdownUrl);
+      
+      const response = await fetch(markdownUrl);
+      
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+      }
+      
+      const markdown = await response.text();
+      
+      // Check for HTML (404 page)
+      if (markdown.trim().startsWith('<!DOCTYPE') || markdown.trim().startsWith('<html')) {
+        throw new Error('File not found at ' + markdownUrl);
+      }
+      
+      const { frontmatter, content } = parseFrontmatter(markdown);
+      originalFrontmatter = frontmatter;
+      
+      console.log('Loaded content, length:', content.length);
+      
+      // Initialize editor with markdown content
+      initEditor(content);
+      
+      document.getElementById('github-auth-section').style.display = 'none';
+      document.getElementById('editor-section').style.display = 'block';
+      
+    } catch (error) {
+      console.error('Error loading file:', error);
+      alert('Error loading file: ' + error.message);
+    }
+  }
+  
+  // Auth button
+  document.getElementById('auth-and-load').addEventListener('click', async () => {
+    const token = document.getElementById('edit-github-token').value.trim();
+    if (!token) {
+      alert('Please enter your GitHub token');
+      return;
+    }
+    
+    githubToken = token;
+    octokit = new OctokitClass({ auth: githubToken });
+    
+    try {
+      const { data: user } = await octokit.rest.users.getAuthenticated();
+      userLogin = user.login;
+      await loadMarkdownFile();
+    } catch (error) {
+      alert('Invalid GitHub token: ' + error.message);
+    }
+  });
+  
+  // Custom shortcode buttons
+  document.getElementById('insert-wikilink').addEventListener('click', () => {
+    const title = prompt('Enter wiki page title:');
+    if (title) {
+    const shortcode = "{" + "{" + "< wiki-link \"" + title + "\" >" + "}" + "}";
+    editor.insertText(shortcode);
+    }
+  });
+  
+  document.getElementById('insert-citation').addEventListener('click', () => {
+    const num = prompt('Enter citation number:', '1');
+    if (num && /^\d+$/.test(num)) {
+      const cite = "{" + "{" + "< cite " + num + " >" + "}" + "}";
+      editor.insertText(cite);
+    }
+  });
+  
+  // Save changes
+  document.getElementById('save-changes-btn').addEventListener('click', async () => {
+    // Get markdown from editor
+    const markdownContent = editor.getMarkdown();
+    
+    // Reconstruct full file with frontmatter
+    const fullContent = `+++\n${originalFrontmatter}\n+++\n${markdownContent}`;
+    
+    console.log('Saving markdown, length:', fullContent.length);
+    
+    document.getElementById('save-progress-modal').style.display = 'block';
+    
+    try {
+      await saveToGitHub(fullContent);
+    } catch (error) {
+      document.getElementById('save-progress').style.display = 'none';
+      document.getElementById('save-error').style.display = 'block';
+      document.getElementById('save-error-message').textContent = error.message;
+    }
+  });
+  
+  document.getElementById('cancel-edit-btn').addEventListener('click', () => {
+    if (confirm('Discard changes?')) {
+      location.reload();
+    }
+  });
+  
+  document.getElementById('close-save-modal').addEventListener('click', () => {
+    location.reload();
+  });
+  
+  document.getElementById('retry-save').addEventListener('click', () => {
+    document.getElementById('save-error').style.display = 'none';
+    document.getElementById('save-progress').style.display = 'block';
+    document.getElementById('save-changes-btn').click();
+  });
+  
+  function updateSaveProgress(step, status) {
+    const icon = document.getElementById(`save-progress-${step}`);
+    if (!icon) return;
+    icon.textContent = status === 'success' ? '✅' : status === 'error' ? '❌' : '⏳';
+  }
+  
+  async function saveToGitHub(content) {
+    // Step 1: Validate token
+    updateSaveProgress(1, 'loading');
+    const { data: user } = await octokit.rest.users.getAuthenticated();
+    updateSaveProgress(1, 'success');
+    
+    // Step 2: Check/create fork and sync
+    updateSaveProgress(2, 'loading');
+    let forkExists = false;
+    
+    try {
+      await octokit.rest.repos.get({
+        owner: userLogin,
+        repo: GITHUB_REPO
+      });
+      forkExists = true;
+    } catch (error) {
+      if (error.status === 404) {
+        await octokit.rest.repos.createFork({
+          owner: GITHUB_OWNER,
+          repo: GITHUB_REPO
+        });
+        await new Promise(resolve => setTimeout(resolve, 5000));
+      } else {
+        throw error;
+      }
+    }
+    
+    if (forkExists) {
+      try {
+        await octokit.request('POST /repos/{owner}/{repo}/merge-upstream', {
+          owner: userLogin,
+          repo: GITHUB_REPO,
+          branch: GITHUB_BRANCH
+        });
+      } catch (error) {
+        console.log('Fork sync skipped:', error.message);
+      }
+    }
+    updateSaveProgress(2, 'success');
+    
+    // Step 3: Create branch
+    updateSaveProgress(3, 'loading');
+    const branchName = `edit-${Date.now()}`;
+    
+    const { data: ref } = await octokit.rest.git.getRef({
+      owner: userLogin,
+      repo: GITHUB_REPO,
+      ref: `heads/${GITHUB_BRANCH}`
+    });
+    const baseSha = ref.object.sha;
+    
+    await octokit.rest.git.createRef({
+      owner: userLogin,
+      repo: GITHUB_REPO,
+      ref: `refs/heads/${branchName}`,
+      sha: baseSha
+    });
+    updateSaveProgress(3, 'success');
+    
+    // Step 4: Update file
+    updateSaveProgress(4, 'loading');
+    
+    const base64Content = btoa(unescape(encodeURIComponent(content)));
+    
+    const { data: blob } = await octokit.rest.git.createBlob({
+      owner: userLogin,
+      repo: GITHUB_REPO,
+      content: base64Content,
+      encoding: 'base64'
+    });
+    
+    const { data: baseCommit } = await octokit.rest.git.getCommit({
+      owner: userLogin,
+      repo: GITHUB_REPO,
+      commit_sha: baseSha
+    });
+    
+    const { data: newTree } = await octokit.rest.git.createTree({
+      owner: userLogin,
+      repo: GITHUB_REPO,
+      base_tree: baseCommit.tree.sha,
+      tree: [{
+        path: currentPagePath,
+        mode: '100644',
+        type: 'blob',
+        sha: blob.sha
+      }]
+    });
+    
+    const { data: newCommit } = await octokit.rest.git.createCommit({
+      owner: userLogin,
+      repo: GITHUB_REPO,
+      message: `Edit: ${currentPageTitle}`,
+      tree: newTree.sha,
+      parents: [baseSha]
+    });
+    
+    await octokit.rest.git.updateRef({
+      owner: userLogin,
+      repo: GITHUB_REPO,
+      ref: `heads/${branchName}`,
+      sha: newCommit.sha
+    });
+    updateSaveProgress(4, 'success');
+    
+    // Step 5: Create PR
+    updateSaveProgress(5, 'loading');
+    
+    const { data: pr } = await octokit.rest.pulls.create({
+      owner: GITHUB_OWNER,
+      repo: GITHUB_REPO,
+      title: `Edit: ${currentPageTitle}`,
+      head: `${userLogin}:${branchName}`,
+      base: GITHUB_BRANCH,
+      body: `## Page Edit\n\nEdited via web interface.\n\n**Page:** ${currentPageTitle}\n**File:** \`${currentPagePath}\``
+    });
+    
+    updateSaveProgress(5, 'success');
+    
+    document.getElementById('save-progress').style.display = 'none';
+    document.getElementById('save-success').style.display = 'block';
+    document.getElementById('save-pr-link').href = pr.html_url;
+  }
+  
+  // Gallery upload functionality (same as before)
+  const galleryModal = document.getElementById('gallery-upload-modal');
+  const galleryBtn = document.getElementById('add-to-gallery-btn');
+  const closeGallery = document.querySelector('.close-gallery');
+  
+  let galleryFiles = [];
+  
+  const galleryYear = document.getElementById('gallery-year');
+  for (let year = new Date().getFullYear(); year >= 1950; year--) {
+    const opt = document.createElement('option');
+    opt.value = year;
+    opt.textContent = year;
+    galleryYear.appendChild(opt);
+  }
+  
+  const galleryDay = document.getElementById('gallery-day');
+  for (let day = 1; day <= 31; day++) {
+    const opt = document.createElement('option');
+    const dayStr = day.toString().padStart(2, '0');
+    opt.value = dayStr;
+    opt.textContent = day;
+    galleryDay.appendChild(opt);
+  }
+  
+  function showGalleryStep(num) {
+    document.querySelectorAll('#gallery-upload-modal .step').forEach(s => s.style.display = 'none');
+    document.getElementById(`gallery-step-${num}`).style.display = 'block';
+  }
+  
+  galleryBtn.addEventListener('click', () => {
+    galleryModal.style.display = 'block';
+    showGalleryStep(2);
+  });
+  
+  closeGallery.addEventListener('click', () => {
+    galleryModal.style.display = 'none';
+  });
+  
+  document.getElementById('gallery-next-2').addEventListener('click', () => {
+    const files = Array.from(document.getElementById('gallery-image-files').files);
+    if (files.length === 0) {
+      alert('Please select at least one image');
+      return;
+    }
+    const invalid = files.filter(f => !f.name.toLowerCase().endsWith('.avif'));
+    if (invalid.length > 0) {
+      alert('Only .avif files allowed');
+      return;
+    }
+    galleryFiles = files;
+    showGalleryStep(3);
+  });
+  
+  document.getElementById('gallery-back-2').addEventListener('click', () => showGalleryStep(2));
+  
+  document.getElementById('gallery-next-3').addEventListener('click', () => {
+    const desc = document.getElementById('gallery-description').value.trim();
+    if (!desc) {
+      alert('Please enter a description');
+      return;
+    }
+    showGalleryStep(4);
+  });
+  
+  document.getElementById('gallery-back-3').addEventListener('click', () => showGalleryStep(3));
+  
+  document.getElementById('gallery-next-4').addEventListener('click', () => {
+    showGalleryStep(5);
+    uploadGalleryImages();
+  });
+  
+  document.getElementById('gallery-done').addEventListener('click', () => {
+    location.reload();
+  });
+  
+  document.getElementById('gallery-retry').addEventListener('click', () => {
+    showGalleryStep(1);
+  });
+  
+  function updateGalleryProgress(step, status) {
+    const icon = document.getElementById(`gallery-prog-${step}`);
+    if (!icon) return;
+    icon.textContent = status === 'success' ? '✅' : status === 'error' ? '❌' : '⏳';
+  }
+  
+  async function uploadGalleryImages() {
+    try {
+      const desc = document.getElementById('gallery-description').value.trim();
+      const year = document.getElementById('gallery-year').value;
+      const month = document.getElementById('gallery-month').value;
+      const day = document.getElementById('gallery-day').value;
+      const dateStr = `${year || '0000'}-${month || '00'}-${day || '00'}`;
+      
+      updateGalleryProgress(1, 'loading');
+      const { data: user } = await octokit.rest.users.getAuthenticated();
+      updateGalleryProgress(1, 'success');
+      
+      updateGalleryProgress(2, 'loading');
+      let forkExists = false;
+      try {
+        await octokit.rest.repos.get({ owner: userLogin, repo: GITHUB_REPO });
+        forkExists = true;
+      } catch (error) {
+        if (error.status === 404) {
+          await octokit.rest.repos.createFork({ owner: GITHUB_OWNER, repo: GITHUB_REPO });
+          await new Promise(resolve => setTimeout(resolve, 5000));
+        } else throw error;
+      }
+      
+      if (forkExists) {
+        try {
+          await octokit.request('POST /repos/{owner}/{repo}/merge-upstream', {
+            owner: userLogin, repo: GITHUB_REPO, branch: GITHUB_BRANCH
+          });
+        } catch (error) {
+          console.log('Sync skipped:', error.message);
+        }
+      }
+      
+      const { data: ref } = await octokit.rest.git.getRef({
+        owner: userLogin, repo: GITHUB_REPO, ref: `heads/${GITHUB_BRANCH}`
+      });
+      const baseSha = ref.object.sha;
+      
+      const branchName = `photos-${Date.now()}`;
+      await octokit.rest.git.createRef({
+        owner: userLogin, repo: GITHUB_REPO,
+        ref: `refs/heads/${branchName}`, sha: baseSha
+      });
+      updateGalleryProgress(2, 'success');
+      
+      updateGalleryProgress(3, 'loading');
+      const fileData = [];
+      const imageBlobs = [];
+      
+      for (const file of galleryFiles) {
+        const randomName = Math.random().toString(36).substring(2, 18);
+        const filename = `${randomName}.avif`;
+        fileData.push({ originalFile: file, filename, randomName });
+        
+        const base64 = await new Promise((resolve, reject) => {
+          const reader = new FileReader();
+          reader.onload = () => resolve(reader.result.split(',')[1]);
+          reader.onerror = reject;
+          reader.readAsDataURL(file);
+        });
+        
+        const { data: blob } = await octokit.rest.git.createBlob({
+          owner: userLogin, repo: GITHUB_REPO,
+          content: base64, encoding: 'base64'
+        });
+        imageBlobs.push({ sha: blob.sha, path: `static/photos/${filename}` });
+      }
+      updateGalleryProgress(3, 'success');
+      
+      updateGalleryProgress(4, 'loading');
+      const markdownBlobs = [];
+      for (const info of fileData) {
+        const content = `+++
+title = "${info.filename}"
+startDate = "${dateStr}"
+citations = []
+pages = [${currentPageTitle}]
+tags = ["Photos"]
+categories = ${currentPageCategories || '[]'}
++++
+${desc}`;
+        
+        const base64 = btoa(unescape(encodeURIComponent(content)));
+        const { data: blob } = await octokit.rest.git.createBlob({
+          owner: userLogin, repo: GITHUB_REPO,
+          content: base64, encoding: 'base64'
+        });
+        markdownBlobs.push({ sha: blob.sha, path: `content/photos/${info.randomName}.md` });
+      }
+      updateGalleryProgress(4, 'success');
+      
+      updateGalleryProgress(5, 'loading');
+      const { data: baseCommit } = await octokit.rest.git.getCommit({
+        owner: userLogin, repo: GITHUB_REPO, commit_sha: baseSha
+      });
+      
+      const tree = [...imageBlobs, ...markdownBlobs].map(b => ({
+        path: b.path, mode: '100644', type: 'blob', sha: b.sha
+      }));
+      
+      const { data: newTree } = await octokit.rest.git.createTree({
+        owner: userLogin, repo: GITHUB_REPO,
+        base_tree: baseCommit.tree.sha, tree
+      });
+      
+      const { data: newCommit } = await octokit.rest.git.createCommit({
+        owner: userLogin, repo: GITHUB_REPO,
+        message: `Add ${fileData.length} photo(s): ${desc.substring(0, 50)}`,
+        tree: newTree.sha, parents: [baseSha]
+      });
+      
+      await octokit.rest.git.updateRef({
+        owner: userLogin, repo: GITHUB_REPO,
+        ref: `heads/${branchName}`, sha: newCommit.sha
+      });
+      updateGalleryProgress(5, 'success');
+      
+      updateGalleryProgress(6, 'loading');
+      const { data: pr } = await octokit.rest.pulls.create({
+        owner: GITHUB_OWNER, repo: GITHUB_REPO,
+        title: `Add photos to ${currentPageTitle}`,
+        head: `${userLogin}:${branchName}`, base: GITHUB_BRANCH,
+        body: `## Photo Submission\n\n**Description:** ${desc}\n**Date:** ${dateStr}\n**Page:** ${currentPageTitle}\n\n**Files:** ${fileData.length} photo(s)`
+      });
+      updateGalleryProgress(6, 'success');
+      
+      document.getElementById('gallery-progress').style.display = 'none';
+      document.getElementById('gallery-success').style.display = 'block';
+      document.getElementById('gallery-pr-link').href = pr.html_url;
+      
+    } catch (error) {
+      console.error('Gallery upload error:', error);
+      document.getElementById('gallery-progress').style.display = 'none';
+      document.getElementById('gallery-error').style.display = 'block';
+      document.getElementById('gallery-error-msg').textContent = error.message;
+    }
+  }
+})();
+</script>

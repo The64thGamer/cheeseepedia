@@ -8,7 +8,6 @@ endDate = "1984-00-00"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://youtu.be/woJQoO0pitM"]
 credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Helen Henny", "Scott Wilson|Voice of Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls"]
-citations = []
 pageThumbnailFile = "WbxClQPXQsm2oy_AQsbT.avif"
 +++
 
