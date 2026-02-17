@@ -5,56 +5,59 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2014-07-01"
 endDate = "2014-08-31"
-contributors = ["Cyber Snout","Himitsu","The 64th Gamer","DerpJobi","ShowBizChuck"]
+contributors = ["Cyber Snout","Himitsu","The 64th Gamer","DerpJobi","ShowBizChuck","Ceclife13"]
+credits = ["Jaret Reddick|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "Chris Hill|Voice of Mr. Munch, Scriptwriter (Pizza Plant)", "Jeremy Blaido|Voice of Jasper T. Jowls, Mike Manly, Singing Voice of Pasqually the Chef", "Earl Fisher|Voice of Pasqually The Chef, Justin Beaver, Show Announcer", "Ryan Hollingsworth|Voice of Zoey, Charlie Rockit, Steve Waters", "Paul Taylor|Larry The Technician", "Matt Daniel|Production Manager, Voice of Hard Hat Hank, Marvin the Technology Guru", "Dave Walzer|Bobby Bear, Songwriter (Arizona)", "Michael Hill|Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch", "Donovan Marcelle|Existing Stage Programmer"]
 citations = ["https://newmediarockstars.com/2014/09/chuck-e-cheese-rips-off-dude-like-hella-video/","https://www.youtube.com/watch?v=RhmUnk454MA"]
 pageThumbnailFile = "wLhQ2r_Jtj6fgp4YmOFV.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***July 2014* is the Generic Summer show released July 1st 2014 featuring six songs
-This was created to play from July 1st - August 31st 2014. This show features Six songs and a new live show Chuck E. Says and a 'more fun version' of Rock star Birthday.**
+***The Chuck E. Cheese*** is a generic show released in July 2014, and the first show to feature Chris Hill as the voice of Mr. Munch.
 
 ## Show List:
 
 1. **Skit 1**
-    1.  Music Video - 'Friendship Never Ends' (Chuck E.)
+    1.  'Friendship Never Ends'
 2. **Intermission 1**
     1.  Sketch - 'Where's Steve Waters'
-    2.  Sketch - Hard Hat Hank - 'Box'
+    2.  Hard Hat Hank - 'Box'
     3.  Show Break 1 - 'Cats'
 3. **Skit 2**
-    1.  Music Video - 'Dare To Be You' (Helen)
+    1.  'Dare to Be You'
 4. **Intermission 2**
-    1.  Sketch - 'A Joke From Pasqually'
+    1.  A Joke From Pasqually - 'Bees'
 5. **Skit 3**
-    1.  Music Video - 'Rockin' Robot' (Chuck E.)
+    1.  'Rockin' Robot'
 6. **Intermission 3**
     1.  Sketch - 'Steve Water Auditions'
 7. **Skit 4**
-    1.  Music Video - 'Arizona' (Jasper)
+    1.  'Arizona'
 8. **Intermission 4**
-    1.  Show Break 2 - 'City Time Lapse'
+    1.  Sketch - 'Pizza Plant'
+    2.  Show Break 2 - 'City Time Lapse'
 9. **Skit 5**
-    1.  Music Video - 'Nobody Knows' (Munch)
+    1.  'Nobody Knows'
 10. **Intermission 5**
     1.  Show Break 3 - 'Driving Through The City'
     2.  Sketch - 'Set Up For The Finale'
 11. **Skit 6**
-    1.  Music Video - 'Happy To Be Seeing You' (Chuck E. & The Steve Water Understudies)
+    1. 'Happy to Be Seeing You'
 12. **Intermission 6**
-    1.  Sketch - 'Steve Waters Return'
-    2.  Sketch - Bobby Bear - 'Marlon the Marlin'
+    1.  Sketch - 'Steve Waters Returns'
+    2.  Bobby Bear - 'Marlon the Marlin'
     3.  Show Break 4 - 'Hot Air Balloon Journey'
 
-## Live Shows:
+## Live Shows
 
-- Rock Star Birthday (2014) (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Says (2014) (3stage, Cyberamic, Studio C,Weigl)
-- Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
-- Head, Shoulders, Knees and Toes (3stage, Cyberamic, Studio C,Weigl)
-- Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
-- Old Macdonald (3stage, Cyberamic, Studio C,Weigl)
-- BINGO (3stage, Cyberamic, Studio C,Weigl)
+**Studio C and WEIGL locations would automatically play a live show every hour at the 25-minute mark. The automatic live for this show was 'Chuck E. Says'**
+
+- Rockstar Birthday 2014
+- Spanish Rockstar Birthday
+- BINGO 2013 (Michael Hill Countdown)
+- Happy And You Know It 2013 (Michael Hill Countdown)
+- Old MacDonald 2013 (Michael Hill Countdown)
+- Do The Chuck E. (Cyberstar Countdown)
+- Head, Shoulders, Knees and Toes 2013 (Cyberstar Countdown)
+- Chuck E. Says 2014 (Munch Countdown)
 
 ## Official Releases:
 
@@ -65,15 +68,12 @@ This was created to play from July 1st - August 31st 2014. This show features Si
 - ['Nobody Knows' on YouTube](https://youtu.be/IXAnFlTVvj8?t=765)
 - ['Happy To Be Seeing You' on YouTube](https://youtu.be/IXAnFlTVvj8?t=970)
 
+
 ## Trivia:
 
-- Show Break 1 - 'Cats' was stolen from [Cory Williams Vimeo Page](https://vimeo.com/11317509?embedded=true&source=vimeo_logo&owner=147991). {{< cite 1 >}}
 - Show Break 1 - 'Cats' background track is based closely on the instrumental for 'Chromeo - Jealous (I Ain't With It)'{{< cite 2 >}}
-- This show was originally created as a generic show to be played during times when the meant to be played is broken. Due to the lawsuit this was dropped during Fall 2014.
-- This show replaced John Bowen as Munch's voice actor with Chris Hill.
-- The audio used at the start of the show featuring Johns voice is originally from January 2007 Segment 3
-- The 'Happy To Be Seeing You' reuses the 2012 Studio C Puppet set.
-- One of the Steve Water Understudies is Charlie Rocket dressed up to look like Steve Waters.
-- This Chuck E. Says features a new Countdown with Munch looking at the 'Pizza Gazette' with every passing minute Munch talks and a new 'Pizza Gazette' with the amount of minutes left is shown.
-- Rock Star Birthday was redubbed to replace John Bowen's Munch voice with Chris Hill's.
-- The Live Show countdown for this show is the Cyberstar countdown from the 80s.
+- Munch's voiceline at the beginning of the show is reused from Segment 3 of {{< wiki-link "January 2007" >}}.
+- 'Happy To Be Seeing You' reuses the 2012 Studio C puppet set.
+- This show introduces a shorter re-edit of Rockstar Birthday with Munch's new voice and refilmed puppet footage for Studio C, alongside a new intro.
+- The greenscreen cat footage in Show Break 1 - 'Cats' was taken without permission from [Cory Williams Vimeo Page](https://vimeo.com/11317509?embedded=true&source=vimeo_logo&owner=147991). {{< cite 1 >}} Cory soon found out about this and posted a video about it to his YouTube channel on September 17, 2014. An apology was issued a day later on the Chuck E. Cheese Facebook page, with CEC mentioning compensating Cory for the video and having him guest-produce a video, though it is unknown if either of these things ever happened.
+- This show was created as a generic show that could be played in the case of an issue with the main show. Due to the cat video incident, it was invalidated very quickly in the fall of 2014.
