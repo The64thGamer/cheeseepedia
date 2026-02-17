@@ -5,7 +5,7 @@ startDate = "2014-01-01"
 endDate = "2014-03-31"
 pageThumbnailFile = "zk2IfDQiirivpgODzHvi.avif"
 contributors = ["The 64th Gamer", "Cyber Snout", "Himitsu", "CyCGM", "RedaCEC", "Cy's Junk at School", "Ceclife13"]
-credits = ["Jaret Reddick|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Voice of Jasper T. Jowls, Betty, Singing Voice of Pasqually the Chef", "Earl Fisher|Voice of Pasqually The Chef, Justin Beaver", "Ryan Hollingsworth|Voice of Zoey, Charlie Rockit, Ralphie, Steve Waters", "Matt Daniel|Production Manager, Voice of Hard Hat Hank, Helen Henny's Hollywood Announcer, Singer (Kitten in the Kitchen)", "Michael Hill|Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch", "Donovan Marcelle|Existing Stage Programmer"]
+credits = ["Jaret Reddick|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Voice of Jasper T. Jowls, Betty, Singing Voice of Pasqually the Chef", "Earl Fisher|Voice of Pasqually The Chef, Justin Beaver", "Ryan Hollingsworth|Steve Waters", "Paul Taylor|Larry The Technician", "Matt Daniel|Production Manager, Voice of Helen Henny's Hollywood Announcer, Singer (Kitten in the Kitchen)", "Michael Hill|Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch", "Donovan Marcelle|Existing Stage Programmer"]
 citations = ["https://youtu.be/qCyoDhgTEts"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 mediaDuration = "1:13:07"
@@ -55,7 +55,7 @@ categories = ["Chuck E. Cheese's"]
 **Studio C and WEIGL locations would automatically play a live show every hour at the 25-minute mark. The automatic live for this show was 'Do The Chuck E.'**
 
 - Rockstar Birthday Training (Studio C)
-- - Rockstar Birthday
+- Rockstar Birthday
 - Spanish Rockstar Birthday
 - BINGO 2013 (Michael Hill Countdown)
 - Happy And You Know It 2013 (Michael Hill Countdown)
