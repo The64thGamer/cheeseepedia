@@ -47,7 +47,7 @@ The video for this live show was reused from the previous cover of ‘Old MacDon
 | 2008         | {{< wiki-link "April 2008 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2008         | {{< wiki-link "Summer 2008 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2008         | {{< wiki-link "Best of CEC TV 2008" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2008         | {{< wiki-link "Holiday Party 2008" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2008         | {{< wiki-link "Chuck E's Holiday Party 2008" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2009         | {{< wiki-link "January 2009 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2009         | {{< wiki-link "April 2009 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2010         | {{< wiki-link "Holiday Party 2010 Show" >}}                   | Studio C 3X DVD + Floppy |
