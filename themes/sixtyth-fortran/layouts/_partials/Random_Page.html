@@ -2,11 +2,18 @@
     <h2>Random Articles</h2>
 
     <div class="horizontal-pagebox-scroll">
-        {{- $pages := partialCached "grab-all-non-empty-wiki-articles.html" . -}}
-        {{- $shuffled := shuffle $pages -}}
-
-        {{- range first 10 $shuffled }}
-            {{- partial "PageBox.html" . -}}
-        {{- end }}
+        {{- if eq .Section "theoryweb" -}}
+            {{- $pages := partialCached "grab-all-theoryweb-articles.html" . -}}
+            {{- $shuffled := shuffle $pages -}}
+            {{- range first 10 $shuffled }}
+                {{- partial "PageBox.html" . -}}
+            {{- end }}
+        {{- else -}}
+            {{- $pages := partialCached "grab-all-non-empty-wiki-articles.html" . -}}
+            {{- $shuffled := shuffle $pages -}}
+            {{- range first 10 $shuffled }}
+                {{- partial "PageBox.html" . -}}
+            {{- end }}
+        {{- end -}}
     </div>
 </aside>

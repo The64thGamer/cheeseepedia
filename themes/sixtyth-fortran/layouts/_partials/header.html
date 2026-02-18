@@ -1,22 +1,19 @@
 {{- partial "splash-text" -}}
 {{- $contributorCounts := dict -}}
-{{- $articleCount := 0 -}}
 {{- range site.RegularPages -}}
-{{- $articleCount = add $articleCount 1 -}}
-{{- with .Params.contributors -}}
-{{- range . -}}
-{{- if not (index $contributorCounts .) -}}
-{{- $contributorCounts = merge $contributorCounts (dict . 1) -}}
-{{- else -}}
-{{- $contributorCounts = merge $contributorCounts (dict . (add (index $contributorCounts .) 1)) -}}
+  {{- with .Params.contributors -}}
+    {{- range . -}}
+      {{- if not (index $contributorCounts .) -}}
+        {{- $contributorCounts = merge $contributorCounts (dict . 1) -}}
+      {{- else -}}
+        {{- $contributorCounts = merge $contributorCounts (dict . (add (index $contributorCounts .) 1)) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
 {{- end -}}
-{{- end -}}
-{{- end -}}
-{{- end -}}
-<!-- Sorting contributors -->
 {{- $sortedContributors := slice -}}
 {{- range $key, $value := $contributorCounts -}}
-{{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
+  {{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
 {{- end -}}
 {{- $sortedContributors = sort $sortedContributors "count" "desc" -}}
 {{- $contributorCount := len $sortedContributors -}}

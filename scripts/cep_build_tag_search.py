@@ -549,16 +549,24 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
     os.makedirs(OUT_DIR_COPY, exist_ok=True)
     
     # OPTIMIZED: Write minified JSON
+    main_tbp = {k: v for k, v in tags_by_page_expanded.items() if not k.startswith("theoryweb/")}
+    main_pbt = {tag: [p for p in arr if not p["path"].startswith("theoryweb/")] 
+                for tag, arr in pages_by_tag_sorted.items()}
+    main_pbt = {k: v for k, v in main_pbt.items() if v}
+    main_tc = {tag: len(arr) for tag, arr in main_pbt.items()}
+
+    os.makedirs(out_dir, exist_ok=True)
+    os.makedirs(OUT_DIR_COPY, exist_ok=True)
     with open(os.path.join(out_dir, "tags_by_page.json"), "w", encoding="utf-8") as fh:
-        json.dump(tags_by_page_expanded, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(main_tbp, fh, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(OUT_DIR_COPY, "tags_by_page.json"), "w", encoding="utf-8") as fh:
-        json.dump(tags_by_page_expanded, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(main_tbp, fh, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(out_dir, "pages_by_tag.json"), "w", encoding="utf-8") as fh:
-        json.dump(pages_by_tag_sorted, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(main_pbt, fh, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(out_dir, "tag_counts.json"), "w", encoding="utf-8") as fh:
-        json.dump(tag_counts, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(main_tc, fh, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(OUT_DIR_COPY, "tag_counts.json"), "w", encoding="utf-8") as fh:
-        json.dump(tag_counts, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(main_tc, fh, ensure_ascii=False, separators=(',', ':'))
 
     title_to_key_map = {}
     for key, meta in pages_meta.items():
@@ -719,16 +727,45 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
     tag_counts = {tag: len(arr) for tag, arr in pages_by_tag_sorted.items()}
 
     # OPTIMIZED: Write final minified JSON
+    main_tbp = {k: v for k, v in tags_by_page_expanded.items() if not k.startswith("theoryweb/")}
+    main_pbt = {tag: [p for p in arr if not p["path"].startswith("theoryweb/")] 
+                for tag, arr in pages_by_tag_sorted.items()}
+    main_pbt = {k: v for k, v in main_pbt.items() if v}
+    main_tc = {tag: len(arr) for tag, arr in main_pbt.items()}
+
     with open(os.path.join(out_dir, "tags_by_page.json"), "w", encoding="utf-8") as fh:
-        json.dump(tags_by_page_expanded, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(main_tbp, fh, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(OUT_DIR_COPY, "tags_by_page.json"), "w", encoding="utf-8") as fh:
-        json.dump(tags_by_page_expanded, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(main_tbp, fh, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(out_dir, "pages_by_tag.json"), "w", encoding="utf-8") as fh:
-        json.dump(pages_by_tag_sorted, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(main_pbt, fh, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(out_dir, "tag_counts.json"), "w", encoding="utf-8") as fh:
-        json.dump(tag_counts, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(main_tc, fh, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(OUT_DIR_COPY, "tag_counts.json"), "w", encoding="utf-8") as fh:
-        json.dump(tag_counts, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(main_tc, fh, ensure_ascii=False, separators=(',', ':'))
+
+    # Theoryweb-only outputs
+    tw_out_dir = os.path.join(out_dir, "theoryweb")
+    tw_out_dir_copy = os.path.join(OUT_DIR_COPY, "theoryweb")
+    os.makedirs(tw_out_dir, exist_ok=True)
+    os.makedirs(tw_out_dir_copy, exist_ok=True)
+
+    tw_tbp = {k: v for k, v in tags_by_page_expanded.items() if k.startswith("theoryweb/")}
+    tw_pbt = {tag: [p for p in arr if p["path"].startswith("theoryweb/")] 
+              for tag, arr in pages_by_tag_sorted.items()}
+    tw_pbt = {k: v for k, v in tw_pbt.items() if v}
+    tw_tc = {tag: len(arr) for tag, arr in tw_pbt.items()}
+
+    with open(os.path.join(tw_out_dir, "tags_by_page.json"), "w", encoding="utf-8") as fh:
+        json.dump(tw_tbp, fh, ensure_ascii=False, separators=(',', ':'))
+    with open(os.path.join(tw_out_dir_copy, "tags_by_page.json"), "w", encoding="utf-8") as fh:
+        json.dump(tw_tbp, fh, ensure_ascii=False, separators=(',', ':'))
+    with open(os.path.join(tw_out_dir, "pages_by_tag.json"), "w", encoding="utf-8") as fh:
+        json.dump(tw_pbt, fh, ensure_ascii=False, separators=(',', ':'))
+    with open(os.path.join(tw_out_dir, "tag_counts.json"), "w", encoding="utf-8") as fh:
+        json.dump(tw_tc, fh, ensure_ascii=False, separators=(',', ':'))
+    with open(os.path.join(tw_out_dir_copy, "tag_counts.json"), "w", encoding="utf-8") as fh:
+        json.dump(tw_tc, fh, ensure_ascii=False, separators=(',', ':'))
 
     return tags_by_page_expanded, pages_by_tag_sorted, tag_counts
 

@@ -4,7 +4,11 @@
 </head>
 <body>
   <header>
+    {{- if eq .Section "theoryweb" -}}
+    {{- partialCached "TheoryWebHeader.html" . -}}
+    {{- else -}}
     {{- partialCached "header.html" . -}}
+    {{- end -}}
   </header>
   {{ partial "persistent-player.html" . }}
   <main id="pjax-container">
