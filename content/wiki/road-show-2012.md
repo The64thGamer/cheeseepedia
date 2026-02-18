@@ -15,7 +15,7 @@ pageThumbnailFile = "Roadshow2012.avif"
 ## Track List:
 
 1. **Track 1**
-    1. {{< wiki-link "Them Bones" >}} (October only)
+    1. {{< wiki-link "Them Bones (Chucktober)" >}} (October only)
 3. **Track 2**
     1. {{< wiki-link "Cupid Shuffle 2012" >}}
 5. **Track 3**
