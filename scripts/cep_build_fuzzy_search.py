@@ -1,25 +1,10 @@
 #!/usr/bin/env python3
-"""
-Build a fuzzy-capable search index for Hugo content.
-
-Outputs:
-  - data/search/docs.json            : list of doc objects (id, title, path, excerpt, tokens, trigrams)
-  - data/search/inverted_tokens.json : mapping token -> [doc_id, ...]
-  - data/search/inverted_trigrams.json: mapping trigram -> [doc_id, ...]
-
-OPTIMIZED VERSION:
-- Removed full content/body storage (only excerpt kept)
-- Removed frontmatter storage (not used in search)
-- Minified JSON output (no indentation)
-- Reduced excerpt length
-"""
 from __future__ import annotations
 import os
 import sys
 import re
 import json
-import argparse
-from collections import defaultdict, Counter
+from collections import defaultdict
 from pathlib import Path
 import unicodedata
 
@@ -40,13 +25,12 @@ except Exception:
 # ----------------- Config -----------------
 BASE_CONTENT_DIR = "content"
 OUT_DIR = "static/data/search"
-DOCS_JSON = os.path.join(OUT_DIR, "docs.json")
-INVERTED_TOKENS_JSON = os.path.join(OUT_DIR, "inverted_tokens.json")
-INVERTED_TRIGRAMS_JSON = os.path.join(OUT_DIR, "inverted_trigrams.json")
+OUT_DIR_THEORYWEB = "static/data/search/theoryweb"
+THEORYWEB_DIR = os.path.join("content", "theoryweb")
 
 MIN_TOKEN_LEN = 2
 TRIGRAM_MIN_DOC_FREQ = 1
-EXCERPT_LEN = 150  # Reduced from 220
+EXCERPT_LEN = 150
 # ------------------------------------------
 
 def read_file_bytes(path: str) -> bytes:
@@ -126,7 +110,6 @@ def read_frontmatter_and_body(path: str):
             return fm, body.strip()
     return {}, txt
 
-# Normalize text for tokenization and trigram generation
 RE_NON_WORD = re.compile(r"[^\w\s]", re.UNICODE)
 RE_WHITESPACE = re.compile(r"\s+", re.UNICODE)
 
@@ -142,19 +125,16 @@ def tokenize(s: str):
     s = normalize_text(s)
     if not s:
         return []
-    toks = s.split()
-    toks = [t for t in toks if len(t) >= MIN_TOKEN_LEN]
-    return toks
+    return [t for t in s.split() if len(t) >= MIN_TOKEN_LEN]
 
 def char_trigrams(s: str):
     if not s:
         return set()
-    n = 3
     s = normalize_text(s)
     padded = f"  {s}  "
     trigrams = set()
-    for i in range(len(padded) - n + 1):
-        tri = padded[i:i+n]
+    for i in range(len(padded) - 2):
+        tri = padded[i:i+3]
         if tri.strip():
             trigrams.add(tri)
     return trigrams
@@ -165,13 +145,10 @@ def collect_content_files(base_dir=BASE_CONTENT_DIR):
     if not base.exists():
         print(f"[WARN] content base dir not found: {base_dir}", file=sys.stderr)
         return out
-    for p in base.rglob("*.md"):
-        out.append(str(p))
-    for ext in (".markdown", ".mdown"):
-        for p in base.rglob(f"*{ext}"):
+    for ext in ("*.md", "*.markdown", "*.mdown"):
+        for p in base.rglob(ext):
             out.append(str(p))
-    out = sorted(set(out))
-    return out
+    return sorted(set(out))
 
 def excerpt_text(s: str, length=EXCERPT_LEN):
     if not s:
@@ -182,11 +159,15 @@ def excerpt_text(s: str, length=EXCERPT_LEN):
     cut = s[:length].rsplit(" ", 1)[0]
     return cut + "…"
 
-# ----------------- Index builder -----------------
-def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
-    files = collect_content_files(base_dir)
-    print(f"[INFO] Found {len(files)} markdown files under {base_dir}")
+def is_in_theoryweb_dir(path_str: str) -> bool:
+    p = Path(path_str).resolve()
+    try:
+        return str(p).startswith(str(Path(THEORYWEB_DIR).resolve()))
+    except Exception:
+        return THEORYWEB_DIR in str(path_str)
 
+# ----------------- Core index builder for a file list -----------------
+def build_index_from_files(files: list, out_dir: str):
     docs = []
     inverted_tokens = defaultdict(list)
     inverted_trigrams = defaultdict(list)
@@ -199,15 +180,12 @@ def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
             fm, body = {}, ""
 
         title = fm.get("title") or fm.get("Title") or Path(path).stem
-
-        # Build searchable text from title and body only
-        # Removed: frontmatter fields that bloat the index
-        fulltext = " ".join([title, body])
         fm_parsed = fm if isinstance(fm, dict) else {"__raw": str(fm)}
+
+        fulltext = " ".join([str(title), body])
         toks = tokenize(fulltext)
         trigs = char_trigrams(fulltext)
 
-        # OPTIMIZED: Store only what's needed for search UI
         doc = {
             "id": doc_id,
             "title": str(title),
@@ -219,7 +197,6 @@ def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
         }
         docs.append(doc)
 
-        # Fill inverted indices
         seen_tokens = set()
         for t in toks:
             if t in seen_tokens:
@@ -229,38 +206,46 @@ def build_index(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR):
         for tri in trigs:
             inverted_trigrams[tri].append(doc_id)
 
-    # Prune rare trigrams if configured
     if TRIGRAM_MIN_DOC_FREQ > 1:
-        pruned_trigrams = {}
-        for k, arr in inverted_trigrams.items():
-            if len(arr) >= TRIGRAM_MIN_DOC_FREQ:
-                pruned_trigrams[k] = arr
-        inverted_trigrams = pruned_trigrams
+        inverted_trigrams = {k: v for k, v in inverted_trigrams.items() if len(v) >= TRIGRAM_MIN_DOC_FREQ}
 
     os.makedirs(out_dir, exist_ok=True)
 
-    # OPTIMIZED: Write minified JSON (no indent, no ensure_ascii for smaller size)
-    with open(DOCS_JSON, "w", encoding="utf-8") as fh:
-        json.dump(docs, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(INVERTED_TOKENS_JSON, "w", encoding="utf-8") as fh:
-        json.dump({k: v for k, v in inverted_tokens.items()}, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(INVERTED_TRIGRAMS_JSON, "w", encoding="utf-8") as fh:
-        json.dump({k: v for k, v in inverted_trigrams.items()}, fh, ensure_ascii=False, separators=(',', ':'))
+    docs_path = os.path.join(out_dir, "docs.json")
+    tokens_path = os.path.join(out_dir, "inverted_tokens.json")
+    trigrams_path = os.path.join(out_dir, "inverted_trigrams.json")
 
-    print(f"[INFO] Wrote {len(docs)} docs -> {DOCS_JSON}")
-    print(f"[INFO] Wrote inverted tokens -> {INVERTED_TOKENS_JSON} ({len(inverted_tokens)} tokens)")
-    print(f"[INFO] Wrote inverted trigrams -> {INVERTED_TRIGRAMS_JSON} ({len(inverted_trigrams)} trigrams)")
+    with open(docs_path, "w", encoding="utf-8") as fh:
+        json.dump(docs, fh, ensure_ascii=False, separators=(',', ':'))
+    with open(tokens_path, "w", encoding="utf-8") as fh:
+        json.dump(dict(inverted_tokens), fh, ensure_ascii=False, separators=(',', ':'))
+    with open(trigrams_path, "w", encoding="utf-8") as fh:
+        json.dump(dict(inverted_trigrams), fh, ensure_ascii=False, separators=(',', ':'))
+
+    print(f"[INFO] Wrote {len(docs)} docs -> {docs_path}")
+    print(f"[INFO] Wrote inverted tokens -> {tokens_path} ({len(inverted_tokens)} tokens)")
+    print(f"[INFO] Wrote inverted trigrams -> {trigrams_path} ({len(inverted_trigrams)} trigrams)")
 
     return docs, inverted_tokens, inverted_trigrams
 
+# ----------------- Entry point -----------------
+def build_index(base_dir=BASE_CONTENT_DIR):
+    all_files = collect_content_files(base_dir)
+    print(f"[INFO] Found {len(all_files)} markdown files under {base_dir}")
+
+    main_files = [f for f in all_files if not is_in_theoryweb_dir(f)]
+    tw_files = [f for f in all_files if is_in_theoryweb_dir(f)]
+
+    print(f"[INFO] Main site: {len(main_files)} files | Theoryweb: {len(tw_files)} files")
+
+    print(f"[INFO] Building main site index -> {OUT_DIR}")
+    build_index_from_files(main_files, OUT_DIR)
+
+    print(f"[INFO] Building theoryweb index -> {OUT_DIR_THEORYWEB}")
+    build_index_from_files(tw_files, OUT_DIR_THEORYWEB)
+
 def run():
-    global BASE_CONTENT_DIR, OUT_DIR, DOCS_JSON, INVERTED_TOKENS_JSON, INVERTED_TRIGRAMS_JSON
-
-    DOCS_JSON = os.path.join(OUT_DIR, "docs.json")
-    INVERTED_TOKENS_JSON = os.path.join(OUT_DIR, "inverted_tokens.json")
-    INVERTED_TRIGRAMS_JSON = os.path.join(OUT_DIR, "inverted_trigrams.json")
-
-    build_index(BASE_CONTENT_DIR, OUT_DIR)
+    build_index(BASE_CONTENT_DIR)
 
 if __name__ == "__main__":
     run()

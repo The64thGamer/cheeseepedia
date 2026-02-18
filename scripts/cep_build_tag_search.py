@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-"""
-build_tag_map.py (optimized variant)
-
-OPTIMIZED VERSION:
-- Minified JSON output (no indentation)
-- Removed unused frontmatter storage where not needed
-- Kept all functionality intact
-"""
 from __future__ import annotations
 import os
 import re
@@ -34,6 +26,8 @@ except Exception:
 BASE_CONTENT_DIR = "content"
 OUT_DIR = "static/data/tags"
 OUT_DIR_COPY = "data/tags"
+OUT_DIR_THEORYWEB = "static/data/tags/theoryweb"
+OUT_DIR_COPY_THEORYWEB = "data/tags/theoryweb"
 INFER_DEFAULT = "scripts/cep_tag_inference.json"
 
 MEDIA_DIRS = (
@@ -42,6 +36,8 @@ MEDIA_DIRS = (
     os.path.join("content", "transcriptions"),
     os.path.join("content", "reviews"),
 )
+
+THEORYWEB_DIR = os.path.join("content", "theoryweb")
 
 # Regexes
 WIKI_LINK_RE = re.compile(r"""
@@ -65,6 +61,13 @@ def is_in_media_dir(path_str: str) -> bool:
             if md in str(path_str):
                 return True
     return False
+
+def is_in_theoryweb_dir(path_str: str) -> bool:
+    p = Path(path_str).resolve()
+    try:
+        return str(p).startswith(str(Path(THEORYWEB_DIR).resolve()))
+    except Exception:
+        return THEORYWEB_DIR in str(path_str)
 
 def read_frontmatter(path: str):
     b = Path(path).read_bytes()
@@ -399,25 +402,16 @@ def find_key_by_title_or_normalized(title: str, title_to_key_map: dict, tags_by_
         return candidate
     return None
 
-def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_DEFAULT):
-    files = collect_content_files(base_dir)
+# ------------------------------------------------------------------ #
+# Shared pipeline helpers                                             #
+# ------------------------------------------------------------------ #
 
-    normal_files = []
-    media_files = []
-    for f in files:
-        if is_in_media_dir(f):
-            media_files.append(f)
-        else:
-            normal_files.append(f)
+MEDIA_TAGS_LOWER = {"photos", "videos", "transcriptions", "reviews"}
 
-    canonical_map = {}
+def process_normal_files(file_list: list, cmap: dict):
     tags_by_page = {}
     pages_meta = {}
-
-    MEDIA_TAGS_LOWER = {"photos", "videos", "transcriptions", "reviews"}
-
-    # Phase 1: normal files
-    for f in normal_files:
+    for f in file_list:
         try:
             fm, body = read_frontmatter(f)
         except Exception as e:
@@ -425,7 +419,7 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             fm, body = {}, ""
 
         title = fm.get("title") or fm.get("Title") or Path(f).stem
-        raw_tags = extract_tags_from_frontmatter(fm, canonical_map)
+        raw_tags = extract_tags_from_frontmatter(fm, cmap)
 
         fm_tags_raw = []
         for key in ("tags", "Tags"):
@@ -447,16 +441,16 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
 
         fm_tags = []
         for v in fm_tags_raw:
-            n = normalize_tag_preserve_case(v, canonical_map)
+            n = normalize_tag_preserve_case(v, cmap)
             if n:
                 fm_tags.append(n)
         fm_categories = []
         for v in fm_categories_raw:
-            n = normalize_tag_preserve_case(v, canonical_map)
+            n = normalize_tag_preserve_case(v, cmap)
             if n:
                 fm_categories.append(n)
 
-        wikilinks = extract_wikilinks_from_body(body, canonical_map)
+        wikilinks = extract_wikilinks_from_body(body, cmap)
         raw_tags.extend(wikilinks)
 
         has_media_tag = False
@@ -478,7 +472,7 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
                 break
 
         if not has_media_tag:
-            t_title = normalize_tag_preserve_case(str(title), canonical_map)
+            t_title = normalize_tag_preserve_case(str(title), cmap)
             if t_title:
                 raw_tags.append(t_title)
 
@@ -488,7 +482,7 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             parts = startDate.split("-")
             if parts and len(parts) >= 1 and parts[0].isdigit() and parts[0] != "0000":
                 year_tag = parts[0]
-        t_year = normalize_tag_preserve_case(year_tag, canonical_map)
+        t_year = normalize_tag_preserve_case(year_tag, cmap)
         if t_year:
             raw_tags.append(t_year)
 
@@ -501,7 +495,7 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             if lk in seen:
                 continue
             seen.add(lk)
-            final_tags.append(canonical_map.get(lk, t))
+            final_tags.append(cmap.get(lk, t))
 
         relpath = normalize_page_path(f)
         tags_by_page[relpath] = final_tags
@@ -511,73 +505,21 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             "fm_tags": fm_tags,
             "fm_categories": fm_categories
         }
+    return tags_by_page, pages_meta
 
-    infer_raw = load_infer_map(infer_file)
-    infer_closure = compute_transitive_inference_map(infer_raw) if infer_raw else {}
 
-    if infer_closure:
-        norm_closure = {}
-        for k, vals in infer_closure.items():
-            kc = canonical_map.get(k.lower(), k)
-            norm_vals = [canonical_map.get(v.lower(), v) for v in vals]
-            norm_closure[kc] = norm_vals
-        infer_closure = norm_closure
-
-    tags_by_page_expanded = {}
-    pages_by_tag = defaultdict(list)
-    for path, tags in tags_by_page.items():
-        expanded = expand_tags_with_inference(tags, infer_closure, canonical_map)
-        tags_by_page_expanded[path] = expanded
-        for t in expanded:
-            pages_by_tag[t].append({"path": path, "title": pages_meta[path]["title"]})
-
-    pages_by_tag_sorted = {}
-    for tag, arr in pages_by_tag.items():
-        seenp = set()
-        uniq = []
-        for o in arr:
-            if o["path"] in seenp:
-                continue
-            seenp.add(o["path"])
-            uniq.append(o)
-        uniq.sort(key=lambda x: (x["title"].lower(), x["path"]))
-        pages_by_tag_sorted[tag] = uniq
-
-    tag_counts = {tag: len(arr) for tag, arr in pages_by_tag_sorted.items()}
-
-    os.makedirs(out_dir, exist_ok=True)
-    os.makedirs(OUT_DIR_COPY, exist_ok=True)
-    
-    # OPTIMIZED: Write minified JSON
-    main_tbp = {k: v for k, v in tags_by_page_expanded.items() if not k.startswith("theoryweb/")}
-    main_pbt = {tag: [p for p in arr if not p["path"].startswith("theoryweb/")] 
-                for tag, arr in pages_by_tag_sorted.items()}
-    main_pbt = {k: v for k, v in main_pbt.items() if v}
-    main_tc = {tag: len(arr) for tag, arr in main_pbt.items()}
-
-    os.makedirs(out_dir, exist_ok=True)
-    os.makedirs(OUT_DIR_COPY, exist_ok=True)
-    with open(os.path.join(out_dir, "tags_by_page.json"), "w", encoding="utf-8") as fh:
-        json.dump(main_tbp, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(os.path.join(OUT_DIR_COPY, "tags_by_page.json"), "w", encoding="utf-8") as fh:
-        json.dump(main_tbp, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(os.path.join(out_dir, "pages_by_tag.json"), "w", encoding="utf-8") as fh:
-        json.dump(main_pbt, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(os.path.join(out_dir, "tag_counts.json"), "w", encoding="utf-8") as fh:
-        json.dump(main_tc, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(os.path.join(OUT_DIR_COPY, "tag_counts.json"), "w", encoding="utf-8") as fh:
-        json.dump(main_tc, fh, ensure_ascii=False, separators=(',', ':'))
-
+def process_media_files(file_list: list, cmap: dict, tags_by_page_expanded: dict, pages_meta: dict):
     title_to_key_map = {}
     for key, meta in pages_meta.items():
         t = meta.get("title", "")
         if t:
             title_to_key_map[t] = key
-
     tags_by_page_keys_norm = {k: normalize_text_for_match(k) for k in tags_by_page_expanded.keys()}
 
-    # Phase 2: media files
-    for f in media_files:
+    tags_by_page_media = {}
+    pages_meta_media = {}
+
+    for f in file_list:
         try:
             fm, body = read_frontmatter(f)
         except Exception as e:
@@ -585,8 +527,8 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             fm, body = {}, ""
 
         title = fm.get("title") or fm.get("Title") or Path(f).stem
-        raw_tags = extract_tags_from_frontmatter(fm, canonical_map)
-        wikilinks = extract_wikilinks_from_body(body, canonical_map)
+        raw_tags = extract_tags_from_frontmatter(fm, cmap)
+        wikilinks = extract_wikilinks_from_body(body, cmap)
         raw_tags.extend(wikilinks)
 
         fm_tags_raw = []
@@ -607,8 +549,8 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
                 elif isinstance(raw, str):
                     fm_categories_raw.extend([p.strip() for p in re.split(r"[;,]", raw) if p.strip()])
 
-        fm_tags = [normalize_tag_preserve_case(v, canonical_map) for v in fm_tags_raw if v]
-        fm_categories = [normalize_tag_preserve_case(v, canonical_map) for v in fm_categories_raw if v]
+        fm_tags = [normalize_tag_preserve_case(v, cmap) for v in fm_tags_raw if v]
+        fm_categories = [normalize_tag_preserve_case(v, cmap) for v in fm_categories_raw if v]
 
         has_media_tag = False
         for key in ("tags", "Tags"):
@@ -629,7 +571,7 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
                 break
 
         if not has_media_tag:
-            tt = normalize_tag_preserve_case(str(title), canonical_map)
+            tt = normalize_tag_preserve_case(str(title), cmap)
             if tt:
                 raw_tags.append(tt)
 
@@ -639,12 +581,11 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             parts = startDate.split("-")
             if parts and len(parts) >= 1 and parts[0].isdigit() and parts[0] != "0000":
                 year_tag = parts[0]
-        t_year = normalize_tag_preserve_case(year_tag, canonical_map)
+        t_year = normalize_tag_preserve_case(year_tag, cmap)
         if t_year:
             raw_tags.append(t_year)
 
         pages_field = fm.get("pages") or fm.get("Pages") or fm.get("page") or fm.get("Page") or []
-
         if isinstance(pages_field, str):
             pages_field = [p.strip() for p in re.split(r"[;,]", pages_field) if p.strip()]
 
@@ -672,26 +613,28 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
         for t in raw_tags:
             if not t:
                 continue
-            canon = normalize_tag_preserve_case(str(t), canonical_map)
+            canon = normalize_tag_preserve_case(str(t), cmap)
             lk = canon.lower()
             if lk in seen:
                 continue
             seen.add(lk)
-            final_tags.append(canonical_map.get(lk, canon))
+            final_tags.append(cmap.get(lk, canon))
 
         relpath = normalize_page_path(f)
-        tags_by_page[relpath] = final_tags
-        pages_meta[relpath] = {
+        tags_by_page_media[relpath] = final_tags
+        pages_meta_media[relpath] = {
             "title": str(title),
             "path": relpath,
             "fm_tags": fm_tags,
             "fm_categories": fm_categories
         }
-
         if title:
             title_to_key_map[title] = relpath
 
-    # Re-run inference expansion
+    return tags_by_page_media, pages_meta_media
+
+
+def run_inference(tags_by_page: dict, cmap: dict, infer_file: str):
     infer_raw = load_infer_map(infer_file)
     if not infer_raw:
         infer_closure = {}
@@ -699,19 +642,22 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
         infer_closure = compute_transitive_inference_map(infer_raw)
         norm_closure = {}
         for k, vals in infer_closure.items():
-            kc = canonical_map.get(k.lower(), k)
-            norm_vals = [canonical_map.get(v.lower(), v) for v in vals]
+            kc = cmap.get(k.lower(), k)
+            norm_vals = [cmap.get(v.lower(), v) for v in vals]
             norm_closure[kc] = norm_vals
         infer_closure = norm_closure
 
-    tags_by_page_expanded = {}
+    expanded = {}
+    for path, tags in tags_by_page.items():
+        expanded[path] = expand_tags_with_inference(tags, infer_closure, cmap)
+    return expanded
+
+
+def build_pages_by_tag(tags_by_page: dict, pages_meta: dict):
     pages_by_tag = defaultdict(list)
     for path, tags in tags_by_page.items():
-        expanded = expand_tags_with_inference(tags, infer_closure, canonical_map)
-        tags_by_page_expanded[path] = expanded
-        for t in expanded:
+        for t in tags:
             pages_by_tag[t].append({"path": path, "title": pages_meta[path]["title"]})
-
     pages_by_tag_sorted = {}
     for tag, arr in pages_by_tag.items():
         seenp = set()
@@ -723,51 +669,83 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
             uniq.append(o)
         uniq.sort(key=lambda x: (x["title"].lower(), x["path"]))
         pages_by_tag_sorted[tag] = uniq
+    return pages_by_tag_sorted
 
+
+def write_tag_outputs(tags_by_page_expanded: dict, pages_by_tag_sorted: dict, out_dir: str, out_dir_copy: str):
     tag_counts = {tag: len(arr) for tag, arr in pages_by_tag_sorted.items()}
-
-    # OPTIMIZED: Write final minified JSON
-    main_tbp = {k: v for k, v in tags_by_page_expanded.items() if not k.startswith("theoryweb/")}
-    main_pbt = {tag: [p for p in arr if not p["path"].startswith("theoryweb/")] 
-                for tag, arr in pages_by_tag_sorted.items()}
-    main_pbt = {k: v for k, v in main_pbt.items() if v}
-    main_tc = {tag: len(arr) for tag, arr in main_pbt.items()}
-
+    os.makedirs(out_dir, exist_ok=True)
+    os.makedirs(out_dir_copy, exist_ok=True)
     with open(os.path.join(out_dir, "tags_by_page.json"), "w", encoding="utf-8") as fh:
-        json.dump(main_tbp, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(os.path.join(OUT_DIR_COPY, "tags_by_page.json"), "w", encoding="utf-8") as fh:
-        json.dump(main_tbp, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(tags_by_page_expanded, fh, ensure_ascii=False, separators=(',', ':'))
+    with open(os.path.join(out_dir_copy, "tags_by_page.json"), "w", encoding="utf-8") as fh:
+        json.dump(tags_by_page_expanded, fh, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(out_dir, "pages_by_tag.json"), "w", encoding="utf-8") as fh:
-        json.dump(main_pbt, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(pages_by_tag_sorted, fh, ensure_ascii=False, separators=(',', ':'))
     with open(os.path.join(out_dir, "tag_counts.json"), "w", encoding="utf-8") as fh:
-        json.dump(main_tc, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(os.path.join(OUT_DIR_COPY, "tag_counts.json"), "w", encoding="utf-8") as fh:
-        json.dump(main_tc, fh, ensure_ascii=False, separators=(',', ':'))
+        json.dump(tag_counts, fh, ensure_ascii=False, separators=(',', ':'))
+    with open(os.path.join(out_dir_copy, "tag_counts.json"), "w", encoding="utf-8") as fh:
+        json.dump(tag_counts, fh, ensure_ascii=False, separators=(',', ':'))
 
-    # Theoryweb-only outputs
-    tw_out_dir = os.path.join(out_dir, "theoryweb")
-    tw_out_dir_copy = os.path.join(OUT_DIR_COPY, "theoryweb")
-    os.makedirs(tw_out_dir, exist_ok=True)
-    os.makedirs(tw_out_dir_copy, exist_ok=True)
 
-    tw_tbp = {k: v for k, v in tags_by_page_expanded.items() if k.startswith("theoryweb/")}
-    tw_pbt = {tag: [p for p in arr if p["path"].startswith("theoryweb/")] 
-              for tag, arr in pages_by_tag_sorted.items()}
-    tw_pbt = {k: v for k, v in tw_pbt.items() if v}
-    tw_tc = {tag: len(arr) for tag, arr in tw_pbt.items()}
+def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_DEFAULT):
+    files = collect_content_files(base_dir)
 
-    with open(os.path.join(tw_out_dir, "tags_by_page.json"), "w", encoding="utf-8") as fh:
-        json.dump(tw_tbp, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(os.path.join(tw_out_dir_copy, "tags_by_page.json"), "w", encoding="utf-8") as fh:
-        json.dump(tw_tbp, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(os.path.join(tw_out_dir, "pages_by_tag.json"), "w", encoding="utf-8") as fh:
-        json.dump(tw_pbt, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(os.path.join(tw_out_dir, "tag_counts.json"), "w", encoding="utf-8") as fh:
-        json.dump(tw_tc, fh, ensure_ascii=False, separators=(',', ':'))
-    with open(os.path.join(tw_out_dir_copy, "tag_counts.json"), "w", encoding="utf-8") as fh:
-        json.dump(tw_tc, fh, ensure_ascii=False, separators=(',', ':'))
+    # Split files into four buckets: main normal, main media, tw normal, tw media
+    normal_files = []
+    media_files = []
+    normal_files_tw = []
+    media_files_tw = []
 
-    return tags_by_page_expanded, pages_by_tag_sorted, tag_counts
+    for f in files:
+        in_tw = is_in_theoryweb_dir(f)
+        in_media = is_in_media_dir(f)
+        if in_tw:
+            if in_media:
+                media_files_tw.append(f)
+            else:
+                normal_files_tw.append(f)
+        else:
+            if in_media:
+                media_files.append(f)
+            else:
+                normal_files.append(f)
+
+    canonical_map = {}
+    canonical_map_tw = {}
+
+    tags_by_page, pages_meta = process_normal_files(normal_files, canonical_map)
+    tags_by_page_expanded = run_inference(tags_by_page, canonical_map, infer_file)
+
+    tags_by_page_media, pages_meta_media = process_media_files(
+        media_files, canonical_map, tags_by_page_expanded, pages_meta
+    )
+
+    tags_by_page_all = {**tags_by_page, **tags_by_page_media}
+    pages_meta_all = {**pages_meta, **pages_meta_media}
+    tags_by_page_expanded = run_inference(tags_by_page_all, canonical_map, infer_file)
+
+    pages_by_tag_sorted = build_pages_by_tag(tags_by_page_expanded, pages_meta_all)
+    write_tag_outputs(tags_by_page_expanded, pages_by_tag_sorted, OUT_DIR, OUT_DIR_COPY)
+    print(f"[INFO] Main site: {len(tags_by_page_expanded)} pages, {len(pages_by_tag_sorted)} tags")
+
+    tags_by_page_tw, pages_meta_tw = process_normal_files(normal_files_tw, canonical_map_tw)
+    tags_by_page_expanded_tw = run_inference(tags_by_page_tw, canonical_map_tw, infer_file)
+
+    tags_by_page_media_tw, pages_meta_media_tw = process_media_files(
+        media_files_tw, canonical_map_tw, tags_by_page_expanded_tw, pages_meta_tw
+    )
+
+    tags_by_page_all_tw = {**tags_by_page_tw, **tags_by_page_media_tw}
+    pages_meta_all_tw = {**pages_meta_tw, **pages_meta_media_tw}
+    tags_by_page_expanded_tw = run_inference(tags_by_page_all_tw, canonical_map_tw, infer_file)
+
+    pages_by_tag_sorted_tw = build_pages_by_tag(tags_by_page_expanded_tw, pages_meta_all_tw)
+    write_tag_outputs(tags_by_page_expanded_tw, pages_by_tag_sorted_tw, OUT_DIR_THEORYWEB, OUT_DIR_COPY_THEORYWEB)
+    print(f"[INFO] Theoryweb:  {len(tags_by_page_expanded_tw)} pages, {len(pages_by_tag_sorted_tw)} tags")
+
+    return tags_by_page_expanded, pages_by_tag_sorted, {tag: len(arr) for tag, arr in pages_by_tag_sorted.items()}
+
 
 def run():
     build_tag_map()

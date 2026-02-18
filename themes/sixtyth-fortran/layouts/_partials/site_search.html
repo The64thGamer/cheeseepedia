@@ -25,7 +25,13 @@ Notes:
     <!-- Quick Tags panel that can be positioned above or to the left -->
     <div class="quick-tags-panel" id="quick-tags-panel">
       <div class="predef-list">
-        {{- $predef := slice
+        {{- $predef := "" -}}
+        {{- if eq .Section "theoryweb" -}}
+        {{- $predef = slice
+        "Five Nights at Freddy's (Game)"
+        -}}
+        {{- else -}}
+        {{- $predef = slice
         "Pizza Time Theatre"
         "ShowBiz Pizza Place"
         "Chuck E. Cheese's"
@@ -82,6 +88,8 @@ Notes:
         "User"
         "Meta"
         -}}
+        {{- end -}}
+        
         <div class="predef-tags">
           <h4>Quick Tags</h4>
           <div class="predef-scroll">
@@ -173,4 +181,10 @@ Notes:
     </div>
   </div>
 </div>
-<script src="js/search.js"></script>
+<script>
+  window.SEARCH_CONFIG = {
+    searchBase: {{ if (hasPrefix .RelPermalink "/theoryweb") }}"/data/search/theoryweb"{{ else }}"/data/search"{{ end }},
+    tagsBase:   {{ if (hasPrefix .RelPermalink "/theoryweb") }}"/data/tags/theoryweb"{{ else }}"/data/tags"{{ end }}
+  };
+</script>
+<script src="/js/search.js"></script>

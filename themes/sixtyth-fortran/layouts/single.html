@@ -10,6 +10,9 @@
       {{- $layout = "baseReviewArticle" -}}
     {{- end -}}
   {{- end -}}
+    {{- if eq .Section "theoryweb" -}}
+      {{- $layout = "TheoryWebARticle" -}}
+    {{- end -}}
   {{- partial $layout . -}}
 {{- end -}}
 

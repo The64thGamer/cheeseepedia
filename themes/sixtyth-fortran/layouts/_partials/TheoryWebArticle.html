@@ -1,0 +1,166 @@
+{{/* theoryweb/article.html - Article partial for the theoryweb section */}}
+{{- .Page.Store.Set "citationsCount" dict -}}
+
+{{- $type := .Params.type | default "" -}}
+{{- $isEvidence := eq $type "Evidence" -}}
+
+{{/* Article Title */}}
+<h1>{{- .Title | safeHTML -}}</h1>
+
+{{/* Top Bar */}}
+<aside>
+  <div class="article-topBar">
+    <button class="article-button" data-target="section-article">Article</button>
+    {{- if .Page.File -}}
+    <button class="article-button" data-target="section-edit">Edit Page</button>
+    {{- end -}}
+  </div>
+</aside>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const sections = document.querySelectorAll('.article-section');
+    sections.forEach(section => section.style.display = 'none');
+    const defaultSection = document.getElementById('section-article');
+    if (defaultSection) defaultSection.style.display = 'inline-block';
+    const buttons = document.querySelectorAll('.article-button');
+    buttons.forEach(button => {
+      button.addEventListener('click', function () {
+        sections.forEach(section => section.style.display = 'none');
+        const targetSection = document.getElementById(this.dataset.target);
+        if (targetSection) targetSection.style.display = 'inline-block';
+      });
+    });
+  });
+</script>
+
+{{/* Main Article section */}}
+<div id="section-article" class="article-section">
+  {{- partial "display-infobox.html" . -}}
+
+  {{- if $isEvidence -}}
+    {{- $thumb := default "" .Params.pageThumbnailFile -}}
+    {{- /* .Content contains the ocr-wrap HTML with a placeholder <img>.
+         Replace whatever src is on that img with the real thumbnail path,
+         then inject it so the OCR regions overlay the correct image. */ -}}
+    {{- $patched := .Content | replaceRE `(<img\b[^>]*\bsrc=")[^"]*(")`  (printf "${1}/photos/%s${2}" $thumb) -}}
+    <div class="tw-evidence-wrap">
+      {{- $patched | safeHTML -}}
+    </div>
+  {{- else -}}
+    {{- .Content | safeHTML -}}
+  {{- end -}}
+  {{- partial "display-citations.html" . -}}
+</div>
+
+{{- if .Page.File -}}
+<div id="section-edit" class="article-section">
+  {{- partial "edit-page-github.html" . -}}
+</div>
+{{- end -}}
+
+<hr>
+{{ partial "Article_Tags.html" . }}
+ <br>
+{{ partial "display-contributors.html" . }}
+<hr>
+{{- partial "Random_Page.html" . -}}
+
+<style>
+  .tw-evidence-wrap {
+    width: 100%;
+    overflow-x: auto;
+    margin-bottom: 1.5em;
+  }
+  .ocr-wrap {
+    position: relative;
+    display: inline-block;
+    line-height: 0;
+    font-size: 0;
+    max-width: 100%;
+  }
+  .ocr-wrap img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }
+  .ocr-region {
+    position: absolute;
+    cursor: crosshair;
+    box-sizing: border-box;
+    transition: background 0.15s;
+    transform-origin: top left;
+  }
+  .ocr-region:hover {
+    background: rgba(255, 230, 50, 0.25);
+    outline: 1px solid rgba(255, 220, 0, 0.7);
+  }
+  .tw-tag-strip {
+    margin-top: 1.2em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35em;
+  }
+  .tw-tag {
+    display: inline-block;
+    background: #2a2a2a;
+    color: #ddd;
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-family: monospace;
+  }
+  .tw-ocr-tooltip {
+    position: fixed;
+    background: #111;
+    color: #f5f5f5;
+    font-size: 0.78rem;
+    font-family: monospace;
+    line-height: 1.4;
+    white-space: pre-wrap;
+    max-width: 280px;
+    padding: 6px 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.6);
+    z-index: 9999;
+    pointer-events: none;
+    display: none;
+  }
+</style>
+
+<div class="tw-ocr-tooltip" id="tw-ocr-tooltip"></div>
+
+<script>
+  (function () {
+    const tooltip = document.getElementById('tw-ocr-tooltip');
+    if (!tooltip) return;
+
+    const OFFSET_X = 14;
+    const OFFSET_Y = 14;
+
+    document.querySelectorAll('.ocr-region[data-tip]').forEach(function (region) {
+      region.addEventListener('mouseenter', function () {
+        tooltip.textContent = region.getAttribute('data-tip');
+        tooltip.style.display = 'block';
+      });
+
+      region.addEventListener('mousemove', function (e) {
+        let x = e.clientX + OFFSET_X;
+        let y = e.clientY + OFFSET_Y;
+
+        const tw = tooltip.offsetWidth;
+        const th = tooltip.offsetHeight;
+        if (x + tw > window.innerWidth - 8)  x = e.clientX - tw - OFFSET_X;
+        if (y + th > window.innerHeight - 8) y = e.clientY - th - OFFSET_Y;
+
+        tooltip.style.left = x + 'px';
+        tooltip.style.top  = y + 'px';
+      });
+
+      region.addEventListener('mouseleave', function () {
+        tooltip.style.display = 'none';
+      });
+    });
+  })();
+</script>
