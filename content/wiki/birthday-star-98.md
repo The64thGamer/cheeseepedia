@@ -24,7 +24,7 @@ The show is the same as {{< wiki-link "Birthday Star '95" >}}, except for the Mr
 
 ## History
 
-Beginning with the release of the {{< wiki-link "September 1998" >}} and paired up alongside the live show 'Give My Regards To Broadway', Birthday Star '95 would be reissued as Birthday Star '98. This release of the show was identical to that of the previous, though the Mr. Mouth pre-show was removed as the character had not been used in years at this point. Now the show was presented in an identical form to Birthday Star '92 as an isolated song that simply played from beginning to end with no intro or outro. This reissue would be released on SVHS tapes for 3-Stage and R12, but it would not see a release on LaserDisc for Studio C. Instead, Birthday Star '95 remained included with every subsequent showtape release until August 1999, when Birthday Star '98 would see a release on DVD + Floppy. It would remain this way until January 2001, when Birthday Star '95 and '98 were discontinued in favor of its successor, {{< wiki-link "Birthday Star 01" >}}. This live would return temporarily in December 2001 due to {{< wiki-link "Chuck E's Holiday Party 2001" >}} reusing its DVD from previous years.
+Beginning with the release of the {{< wiki-link "September 1998" >}} and paired up alongside the live show 'Give My Regards To Broadway', Birthday Star '95 would be reissued as Birthday Star '98. This release of the show was identical to that of the previous, though the Mr. Mouth pre-show was removed as the character had not been used in years at this point. Now the show was presented in an identical form to Birthday Star '92 as an isolated song that simply played from beginning to end with no intro or outro. This reissue would be released on SVHS tapes for 3-Stage and R12, but it would not see a release on LaserDisc for Studio C. Instead, Birthday Star '95 remained included with every subsequent showtape release until August 1999, when Birthday Star '98 would see a release on DVD + Floppy. It would remain this way until January 2001, when Birthday Star '95 and '98 were discontinued in favor of its successor, {{< wiki-link "Birthday Star 2001" >}}. This live would return temporarily in December 2001 due to {{< wiki-link "Chuck E's Holiday Party 2001" >}} reusing its DVD from previous years.
 
 ## Showtape Releases:
 
@@ -36,7 +36,7 @@ Beginning with the release of the {{< wiki-link "September 1998" >}} and paired 
 | 1999         | {{< wiki-link "America Live '99" >}}                      | R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
 | 1999         | {{< wiki-link "August 1999" >}}                           | Studio C 3X DVD + Floppy                   |
 | 1999         | {{< wiki-link "Footloose" >}}                             | R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1999         | {{< wiki-link "Chuck E’s Holiday Party 1999" >}}          | Studio C 3X DVD + Floppy                   |
+| 1999         | {{< wiki-link "Chuck E's Holiday Party 1999" >}}          | Studio C 3X DVD + Floppy                   |
 | 1999         | {{< wiki-link "Rockin' Christmas Eve Live!" >}}           | R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
 | 2000         | {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}} | Studio C 3X DVD + Floppy                   |
 | 2000         | {{< wiki-link "Celebration 2000" >}}                      | R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
@@ -45,5 +45,5 @@ Beginning with the release of the {{< wiki-link "September 1998" >}} and paired 
 | 2000         | {{< wiki-link "Patriotic Medley 2000" >}}                 | R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
 | 2000         | {{< wiki-link "September 2000 Show" >}}                   | Studio C 3X DVD + Floppy                   |
 | 2000         | {{< wiki-link "Limbo Rock" >}}                            | R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 2000         | {{< wiki-link "Chuck E’s Holiday Party 2000" >}}          | Studio C 3X DVD + Floppy                   |
-| 2001         | {{< wiki-link "Chuck E’s Holiday Party 2001" >}}          | Studio C 3X DVD + Floppy                   |
+| 2000         | {{< wiki-link "Chuck E's Holiday Party 2000" >}}          | Studio C 3X DVD + Floppy                   |
+| 2001         | {{< wiki-link "Chuck E's Holiday Party 2001" >}}          | Studio C 3X DVD + Floppy                   |

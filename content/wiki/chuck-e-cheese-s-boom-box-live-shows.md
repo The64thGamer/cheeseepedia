@@ -9,7 +9,7 @@ pageThumbnailFile = "Boomboxlives.avif"
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 +++
-**Chuck E. Cheese's Boom Box Live Shows** was a CD released alongside the {{< wiki-link "January 2014 Show" >}} which featured seven {{< wiki-link "Road Shows" >}}.
+**Chuck E. Cheese's Boom Box Live Shows** was a CD released alongside the {{< wiki-link "First Quarter 2014 Show" >}} which featured seven {{< wiki-link "Road Shows" >}}.
 
 ##  List:
 

@@ -55,12 +55,11 @@ categories = ["Chuck E. Cheese's"]
 - Chuck E. March 01
 - Havin' A Party 01
 - Chuck E. Swing
-- {{< wiki-link "Bingo" >}}
+- BINGO
 - If You're Happy and You Know It
-- Chuck E. Shuffle (New Footage) | Chuck E. Shuffle
-- {{< wiki-link "Birthday Star 01" >}}
+- {{< wiki-link "Birthday Star 2001" >}}
 - Spanish Birthday 01
-- {{< wiki-link "Chuck E Says 02" >}}
+- {{< wiki-link "Chuck E. Says 2002" >}}
 - New Birthday
 - Go Santa Go
 

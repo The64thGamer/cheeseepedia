@@ -5,7 +5,7 @@ startDate = "1999-12-00"
 endDate = "2012-01-01"
 pageThumbnailFile = "rockinxmas99.avif"
 contributors = ["Ceclife13"]
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Show Announcer", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Show Announcer", "Brian Hagan|Studio Manager", "Robert Gotcher|Production Coordinator", "Brent Gray|Studio Coordinator"]
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
@@ -26,9 +26,9 @@ The live show is a rock and roll song themed to Christmas Eve. In the middle of 
 
 | Release Year | Showtape                                                  | Format                                               |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
-| 1999         | {{< wiki-link "Chuck E’s Holiday Party 1999" >}}          | Studio C 3X DVD + Floppy                             |
-| 2000         | {{< wiki-link "Chuck E’s Holiday Party 2000" >}}                   | Studio C 3X DVD + Floppy                             |
-| 2001         | {{< wiki-link "Chuck E’s Holiday Party 2001" >}}                   | Studio C 3X DVD + Floppy                             |
+| 1999         | {{< wiki-link "Chuck E's Holiday Party 1999" >}}          | Studio C 3X DVD + Floppy                             |
+| 2000         | {{< wiki-link "Chuck E's Holiday Party 2000" >}}                   | Studio C 3X DVD + Floppy                             |
+| 2001         | {{< wiki-link "Chuck E's Holiday Party 2001" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2010       | {{< wiki-link "Holiday Party 2010 Show" >}}                      | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2011         | {{< wiki-link "Happy Holidays 2011" >}}                   | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 

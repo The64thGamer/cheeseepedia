@@ -57,7 +57,7 @@ categories = ["Chuck E. Cheese's"]
 - Birthday 2009
 - Spanish Birthday 2010
 - {{< wiki-link "BINGO" >}}
-- {{< wiki-link "Chuck E Says 2002" >}}
+- {{< wiki-link "Chuck E. Says 2002" >}}
 - If You're Happy & You Know It
 - Old MacDonald
 
