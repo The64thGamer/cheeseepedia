@@ -21,7 +21,7 @@ The Kooser Dolli bot was created by {{< wiki-link "Fantasy Forest" >}} in 1978 f
 
 ### In Store
 
-The Kooser Dolli bot was installed in the Piano Bar Lounge at Kooser somewhere before it's opening in December 1978. The bot would become one of Kooser's & PTT's major selling points in the late 70's in which it would be called The 'Dolli Dimples Cabaret'{{ cite 1 }}. The bot was briefly featured in a 1979 segment of Real People, in which she played the song "Talk to the Animals"{{ cite 2 }}. Later in 1979, The Australian Broadcasting Commission show 'Four Corners' ran a segment called 'New Eatery Fad' {{ cite 3 }} which, despite focusing mainly on the {{ wiki-link San Jose, CA (370 S Winchester Blvd) }} location, featured Dolli singing "Deep In the Heart of Texas." The bot would remain in the Cabaret until its removal in 1980.
+The Kooser Dolli bot was installed in the Piano Bar Lounge at Kooser somewhere before it's opening in December 1978. The bot would become one of Kooser's & PTT's major selling points in the late 70's in which it would be called The 'Dolli Dimples Cabaret'{{< cite 1 >}}. The bot was briefly featured in a 1979 segment of Real People, in which she played the song "Talk to the Animals"{{< cite 2 >}}. Later in 1979, The Australian Broadcasting Commission show 'Four Corners' ran a segment called 'New Eatery Fad' {{< cite 3 >}} which, despite focusing mainly on the {{< wiki-link San Jose, CA (370 S Winchester Blvd) >}} location, featured Dolli singing "Deep In the Heart of Texas." The bot would remain in the Cabaret until its removal in 1980.
 .
 
 ### Modern Appearances
@@ -30,11 +30,11 @@ The bot appeared as a character in the 2018 CEC Halloween special 'Halloween At 
 
 ## Design
 
-Dolli has curly red hair, a purple dress with embroidered flowers, a ruffled white collar, green eyes (described as "aqua"), {{ cite 4 }} two front teeth, pink painted fingernails, and pink eyelids.
+Dolli has curly red hair, a purple dress with embroidered flowers, a ruffled white collar, green eyes (described as "aqua"), {{< cite 4 >}} two front teeth, pink painted fingernails, and pink eyelids.
 
 ## Movements
 
-It is known that Dolli had 16 movements in total{{< cite 4 >}}, but with current information not all can be accurately mapped out. The main source for movements comes from the 1979 "Four Corners" segment. {{ cite 3 }}
+It is known that Dolli had 16 movements in total{{< cite 4 >}}, but with current information not all can be accurately mapped out. The main source for movements comes from the 1979 "Four Corners" segment. {{< cite 3 >}}
 
 * Mouth
 * Eyelids (Most likely two separate movements for left and right)
