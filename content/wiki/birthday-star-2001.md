@@ -5,7 +5,7 @@ tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2001-01-00"
 endDate = ""
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls", "Brian Hagan|Studio Manager", "Robert Gotcher|Production Coordinator", "Brent Gray|Studio Coordinator"]
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 contributors = ["Pasquallytheplumber","Cyber Snout","BenTrainFan2000","Ceclife13"]
 citations = []
@@ -28,16 +28,15 @@ Birthday Star 2001 is a modernized update of Birthday Star '95 and builds on the
 | Release Year | Showtape                                                  | Format                                               |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
 | 2001         | {{< wiki-link "January 2001 Show" >}}                     | Studio C 3X DVD + Floppy                             |
-| 2001         | {{< wiki-link "Chuck E’s Rockin’ Rhymes" >}}              | Studio C 3X DVD + Floppy                             |
+| 2001         | {{< wiki-link "Chuck E's Rockin’ Rhymes" >}}              | Studio C 3X DVD + Floppy                             |
 | 2001         | {{< wiki-link "Summertime 2001" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2001         | {{< wiki-link "September 2001 Show" >}}                   | Studio C 3X DVD + Floppy                             |
-| 2001         | {{< wiki-link "Chuck E’s Holiday Party 2001" >}}          | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "January 2002 Show" >}}                     | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "April 2002 Show" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "Summer 2002 Show" >}}                      | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "September 2002 Show" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2002         | {{< wiki-link "Holiday 2002" >}}                          | Studio C 3X DVD + Floppy                             |
-| 2003         | {{< wiki-link "Best of CEC TV 2003" >}}                   | Studio C 3X DVD + Floppy                             |
+| 2003         | {{< wiki-link "Best Of CEC TV 2003" >}}                   | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "Chuck E. Cheese Spring Show 2003" >}}      | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "Summertime 2003" >}}                       | Studio C 3X DVD + Floppy                             |
 | 2003         | {{< wiki-link "September 2003 Show" >}}                   | Studio C 3X DVD + Floppy                             |

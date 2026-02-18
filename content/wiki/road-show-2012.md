@@ -15,7 +15,7 @@ pageThumbnailFile = "Roadshow2012.avif"
 ## Track List:
 
 1. **Track 1**
-    1. {{< wiki-link "Them Bones" >}} (October only)
+    1. {{< wiki-link "Them Bones (Chucktober)" >}} (October only)
 3. **Track 2**
     1. {{< wiki-link "Cupid Shuffle 2012" >}}
 5. **Track 3**
@@ -23,7 +23,7 @@ pageThumbnailFile = "Roadshow2012.avif"
 7. **Track 4**
     1. {{< wiki-link "Birthday Star 2001" >}}
 9. **Track 5**
-    1. {{< wiki-link "Spanish Birthday Star 2001" >}}
+    1. {{< wiki-link "Spanish Birthday 2001" >}}
 11. **Track 6**
     1. {{< wiki-link "Head, Shoulders, Knees and Toes" >}}
 13. **Track 7**

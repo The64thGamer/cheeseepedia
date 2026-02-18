@@ -8,7 +8,7 @@ startDate = "2006-04-00"
 endDate = "2012-12-00"
 contributors = ["Ceclife13"]
 citations = []
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist"] 
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Voice of Jasper T. Jowls", "Earl Fisher|Voice of Pasqually The Chef", "Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist"] 
 showtapeFormats = ["R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"] 
 downloadLinks = []
 +++
@@ -37,8 +37,8 @@ The only video for this live show is the {{< wiki-link "Chuck E. Cheese April 20
 | 2008         | {{< wiki-link "January 2008 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2008         | {{< wiki-link "April 2008 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2008         | {{< wiki-link "Summer 2008 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2008         | {{< wiki-link "Best of CEC 2008" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2008         | {{< wiki-link "Holiday Party 2008" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2008         | {{< wiki-link "Best of CEC TV 2008" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2008         | {{< wiki-link "Chuck E's Holiday Party 2008" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2009         | {{< wiki-link "January 2009 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2009         | {{< wiki-link "April 2009 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2009         | {{< wiki-link "Summer 2009 Show" >}} | Studio C 3X DVD + Floppy|

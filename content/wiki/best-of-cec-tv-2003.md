@@ -68,14 +68,14 @@ This show is made up of songs and intermissions reused from various 2000 - 2002 
 
 **Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
-- {{< wiki-link "Birthday Star 01" >}}
-- Spanish Birthday 01
+- {{< wiki-link "Birthday Star 2001" >}}
+- Spanish Birthday 2001
 - New Birthday
 - Chuck E. Swing
-- Chuck E. March 01
-- {{< wiki-link "Bingo" >}}
-- {{< wiki-link "Chuck E Says 02" >}}
-- Havin' A Party 01
+- Chuck E. March 2001
+- BINGO
+- {{< wiki-link "Chuck E. Says 2002" >}}
+- Havin' A Party 2001
 - If You're Happy and You Know It
 - Go Santa Go
 
