@@ -1,15 +1,16 @@
 const logoMap = {
-  "standard": "/UI/CEPLogo.png",
-  "dark": "/UI/LogoDark.png",
-  "light": "/UI/LogoLight.png",
-  "classic": "/UI/LogoClassic.png",
-  "showbiz": "/UI/LogoShowBiz.png",
-  "fnaf": "/UI/LogoFNaF.png",
-  "anniversary": "/UI/LogoAnniversary.png",
-  "halloween": "/UI/LogoHalloween.png",
-  "pride": "/UI/LogoPride.png",
-  "winter": "/UI/LogoWinter.png",
-  "pasqually": "/UI/LogoPasqually.png"
+  "standard": "/UI/CEPLogo.avif",
+  "dark": "/UI/LogoDark.avif",
+  "light": "/UI/LogoLight.avif",
+  "classic": "/UI/LogoClassic.avif",
+  "showbiz": "/UI/LogoShowBiz.avif",
+  "fnaf": "/UI/LogoFNaF.avif",
+  "funnet": "/UI/LogoFunNetLow.avif",
+  "anniversary": "/UI/LogoAnniversary.avif",
+  "halloween": "/UI/LogoHalloween.avif",
+  "pride": "/UI/LogoPride.avif",
+  "winter": "/UI/LogoWinter.avif",
+  "pasqually": "/UI/LogoPasqually.avif"
 };
 
 // Theme effect manager

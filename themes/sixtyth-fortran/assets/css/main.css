@@ -58,6 +58,21 @@
 }
 
 /* ShowBiz theme */
+[data-theme="funnet"] {
+  --blue: #006bad;
+  --aqua: #3333ff;
+  --white: #000000ff;
+  --deep-white: #993399;
+  --yellow: #cccc66;
+  --orange: #ffef08;
+  --red: #ff0033;
+  --deep-orange: #b594bd;
+  --brown: #d94d04;
+  --font-display: "Sylvar";
+  --font-body: "helvetica";
+}
+
+/* ShowBiz theme */
 [data-theme="showbiz"] {
   --blue: #201f1f;
   --aqua: #A66332;
@@ -169,6 +184,11 @@
 }
 
 @font-face {
+  font-family: "Sylvar";
+  src: url('/Fonts/Sylvar.ttf') format('truetype');
+}
+
+@font-face {
   font-family: "Octobre";
   src: url('/Fonts/Octobre-Regular.otf') format('opentype');
 }
@@ -210,6 +230,12 @@
    ========================= */
 html {
   background-color: var(--deep-orange);
+  image-rendering: crisp-edges;
+}
+
+[data-theme="funnet"] {
+  background-image: url(/UI/Backgrounds/funnet.avif);
+  background-size: 20rem;
 }
 
 body {
@@ -249,6 +275,16 @@ body {
   border-color: var(--white);
 }
 
+
+[data-theme="funnet"] body {
+  outline-style: none;
+  box-shadow: none;
+  border-width: 0rem;
+  border-radius: 0rem;
+  background-color: transparent;
+}
+
+
 [data-theme="classic"] body {
   outline-style: none;
   box-shadow: none;
@@ -260,11 +296,34 @@ body {
   font-family: 'Linux Libertine','Georgia','Times',serif;
 }
 
+[data-theme="funnet"] h1,
+[data-theme="funnet"] h2,
+[data-theme="funnet"] h3{
+  color:var(--deep-orange)
+}
+
 
 [data-theme="classic"] .tag-chip-container {
   color:var(--white);
   background-color:var(--brown);
   border-radius: 0rem;
+}
+
+[data-theme="funnet"] .tag-chip-container {
+  color:var(--white);
+  background-color: var(--deep-orange);
+  border-color: var(--blue);
+  font-family: var(--font-body);
+
+}
+[data-theme="funnet"] .tag-input {
+  color:var(--white);
+  font-family: var(--font-body);
+}
+
+[data-theme="funnet"] .tag-input::placeholder {
+  color:var(--white);
+  font-family: var(--font-body);
 }
 
 [data-theme="classic"] .fun-text {
@@ -273,6 +332,7 @@ body {
   border-left-color: var(--yellow);
   border-left-width: 0.75rem;
 }
+
 
 
 [data-theme="classic"] h2,h3,h4 {
@@ -1222,6 +1282,9 @@ img.remoji:hover {
   margin-bottom: -2.5rem;
 }
 
+[data-theme="funnet"] .fun-logo {
+  width:100%;
+}
 
 [data-width="wide"] .fun-logo img {
   width: 80%;
@@ -1241,6 +1304,10 @@ img.remoji:hover {
   font-family: var(--font-display);
   letter-spacing: .1rem;
   color: var(--white);
+}
+
+[data-theme="funnet"] .fun-text strong {
+  color: var(--blue);
 }
 
 .fun-text strong {
@@ -1945,6 +2012,11 @@ sup {
 [data-theme="fnaf"] .predef-tag-btn{
   border-radius: 0rem;
   border-color: var(--white);
+}
+
+[data-theme="funnet"] .predef-tag-btn{
+  color: var(--white);
+  font-family: var(--font-body);
 }
 
 .results-summary {

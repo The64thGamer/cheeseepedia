@@ -1,4 +1,4 @@
-![image](themes/sixtyth-fortran/static/UI/CEPLogo.png)
+![image](themes/sixtyth-fortran/static/UI/CEPLogo.avif)
 
 The animatronic archival website, Cheese-E-Pedia! Previously hosted through Miraheze using the MediaWiki platform, this website is now hosted through GitHub using Hugo.
 

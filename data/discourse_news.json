@@ -93,13 +93,6 @@
       "trust_level": 2
     },
     {
-      "id": 25,
-      "username": "crunchybeans",
-      "name": "stel/bug/crunchy (they/them)",
-      "avatar_template": "/user_avatar/forum.cheeseepedia.org/crunchybeans/{size}/491_2.png",
-      "trust_level": 2
-    },
-    {
       "id": 69,
       "username": "LenzuLeLooney",
       "name": "",
@@ -123,6 +116,13 @@
       "flair_bg_color": "44BD53",
       "flair_color": "FFFF",
       "flair_group_id": 49,
+      "trust_level": 2
+    },
+    {
+      "id": 25,
+      "username": "crunchybeans",
+      "name": "stel/bug/crunchy (they/them)",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/crunchybeans/{size}/491_2.png",
       "trust_level": 2
     },
     {
@@ -233,6 +233,103 @@
     ],
     "topics": [
       {
+        "fancy_title": "Scott Drake Makes First Statement as CEO",
+        "id": 284,
+        "title": "Scott Drake Makes First Statement as CEO",
+        "slug": "scott-drake-makes-first-statement-as-ceo",
+        "posts_count": 2,
+        "reply_count": 0,
+        "highest_post_number": 2,
+        "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a4f7ca0dc8cf23038866c1201ba79ae0fe904939_2_682x1024.jpeg",
+        "created_at": "2026-02-18T20:14:31.564Z",
+        "last_posted_at": "2026-02-19T19:51:06.291Z",
+        "bumped": true,
+        "bumped_at": "2026-02-19T19:51:06.291Z",
+        "archetype": "regular",
+        "unseen": false,
+        "pinned": false,
+        "unpinned": null,
+        "visible": true,
+        "closed": false,
+        "archived": false,
+        "bookmarked": null,
+        "liked": null,
+        "thumbnails": [
+          {
+            "max_width": null,
+            "max_height": null,
+            "width": 1920,
+            "height": 2880,
+            "url": "https://forum.cheeseepedia.org/uploads/default/original/2X/a/a4f7ca0dc8cf23038866c1201ba79ae0fe904939.jpeg"
+          },
+          {
+            "max_width": 1024,
+            "max_height": 1024,
+            "width": 682,
+            "height": 1024,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a4f7ca0dc8cf23038866c1201ba79ae0fe904939_2_682x1024.jpeg"
+          },
+          {
+            "max_width": 800,
+            "max_height": 800,
+            "width": 533,
+            "height": 800,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a4f7ca0dc8cf23038866c1201ba79ae0fe904939_2_533x800.jpeg"
+          },
+          {
+            "max_width": 600,
+            "max_height": 600,
+            "width": 400,
+            "height": 600,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a4f7ca0dc8cf23038866c1201ba79ae0fe904939_2_400x600.jpeg"
+          },
+          {
+            "max_width": 400,
+            "max_height": 400,
+            "width": 266,
+            "height": 400,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a4f7ca0dc8cf23038866c1201ba79ae0fe904939_2_266x400.jpeg"
+          },
+          {
+            "max_width": 300,
+            "max_height": 300,
+            "width": 200,
+            "height": 300,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a4f7ca0dc8cf23038866c1201ba79ae0fe904939_2_200x300.jpeg"
+          },
+          {
+            "max_width": 200,
+            "max_height": 200,
+            "width": 133,
+            "height": 200,
+            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a4f7ca0dc8cf23038866c1201ba79ae0fe904939_2_133x200.jpeg"
+          }
+        ],
+        "tags": [
+          "bankruptcy-believers"
+        ],
+        "tags_descriptions": {},
+        "views": 160,
+        "like_count": 1,
+        "has_summary": false,
+        "last_poster_username": "The-64th-Gamer",
+        "category_id": 5,
+        "op_like_count": 1,
+        "pinned_globally": false,
+        "featured_link": null,
+        "has_accepted_answer": false,
+        "can_vote": false,
+        "posters": [
+          {
+            "extras": "latest single",
+            "description": "Original Poster, Most Recent Poster",
+            "user_id": 1,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          }
+        ]
+      },
+      {
         "fancy_title": "Bull-Airs PTT Chuck Figure, More Found Media",
         "id": 280,
         "title": "Bull-Airs PTT Chuck Figure, More Found Media",
@@ -311,7 +408,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 252,
+        "views": 275,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -385,7 +482,7 @@
         ],
         "tags": [],
         "tags_descriptions": {},
-        "views": 196,
+        "views": 214,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -476,7 +573,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 423,
+        "views": 438,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "Ceclife13",
@@ -581,7 +678,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 141,
+        "views": 145,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "CECmodesto81",
@@ -678,7 +775,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 288,
+        "views": 299,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -775,7 +872,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 356,
+        "views": 371,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -872,7 +969,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 345,
+        "views": 356,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "RazorKatxD",
@@ -976,7 +1073,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 234,
+        "views": 242,
         "like_count": 8,
         "has_summary": false,
         "last_poster_username": "Cody",
@@ -1022,14 +1119,14 @@
         "id": 241,
         "title": "David Mckillips Steps Down as CEO, Replaced with Scott Drake",
         "slug": "david-mckillips-steps-down-as-ceo-replaced-with-scott-drake",
-        "posts_count": 30,
-        "reply_count": 16,
-        "highest_post_number": 31,
+        "posts_count": 31,
+        "reply_count": 17,
+        "highest_post_number": 32,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/original/2X/e/e65bd345ef41bb331f7307f46e92720a3c41b55d.jpeg",
         "created_at": "2026-02-03T15:36:57.929Z",
-        "last_posted_at": "2026-02-17T19:06:15.125Z",
+        "last_posted_at": "2026-02-18T17:26:55.630Z",
         "bumped": true,
-        "bumped_at": "2026-02-17T19:06:15.125Z",
+        "bumped_at": "2026-02-18T17:26:55.630Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -1080,10 +1177,10 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 1695,
-        "like_count": 19,
+        "views": 1771,
+        "like_count": 20,
         "has_summary": false,
-        "last_poster_username": "crunchybeans",
+        "last_poster_username": "RazorKatxD",
         "category_id": 5,
         "op_like_count": 4,
         "pinned_globally": false,
@@ -1122,9 +1219,9 @@
           {
             "extras": "latest",
             "description": "Most Recent Poster",
-            "user_id": 25,
-            "primary_group_id": null,
-            "flair_group_id": null
+            "user_id": 89,
+            "primary_group_id": 41,
+            "flair_group_id": 41
           }
         ]
       },
@@ -1205,7 +1302,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 264,
+        "views": 269,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "crunchybeans",
@@ -1303,7 +1400,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 216,
+        "views": 218,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1491,7 +1588,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 233,
+        "views": 235,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -1582,7 +1679,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 340,
+        "views": 342,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -1784,7 +1881,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 206,
+        "views": 207,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2103,7 +2200,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 411,
+        "views": 414,
         "like_count": 7,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -2209,7 +2306,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 446,
+        "views": 448,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2320,7 +2417,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 404,
+        "views": 405,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -2431,7 +2528,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 175,
+        "views": 176,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2530,7 +2627,7 @@
           "rock-afire-explosion"
         ],
         "tags_descriptions": {},
-        "views": 254,
+        "views": 255,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2728,7 +2825,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 183,
+        "views": 184,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2903,7 +3000,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 93,
+        "views": 94,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2981,7 +3078,7 @@
           "aam"
         ],
         "tags_descriptions": {},
-        "views": 484,
+        "views": 487,
         "like_count": 5,
         "has_summary": false,
         "last_poster_username": "randomguyfan22-maker",
@@ -3099,7 +3196,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 224,
+        "views": 225,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "cmsentance-byte",
@@ -3116,125 +3213,6 @@
             "user_id": 1,
             "primary_group_id": 41,
             "flair_group_id": 41
-          },
-          {
-            "extras": "latest",
-            "description": "Most Recent Poster",
-            "user_id": 61,
-            "primary_group_id": null,
-            "flair_group_id": null
-          }
-        ]
-      },
-      {
-        "fancy_title": "YouTooz Announces Christmas Special Chuck Plush",
-        "id": 170,
-        "title": "YouTooz Announces Christmas Special Chuck Plush",
-        "slug": "youtooz-announces-christmas-special-chuck-plush",
-        "posts_count": 12,
-        "reply_count": 5,
-        "highest_post_number": 12,
-        "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_1024x1024.jpeg",
-        "created_at": "2025-12-14T22:20:44.814Z",
-        "last_posted_at": "2025-12-21T22:09:08.156Z",
-        "bumped": true,
-        "bumped_at": "2025-12-21T22:09:08.156Z",
-        "archetype": "regular",
-        "unseen": false,
-        "pinned": false,
-        "unpinned": null,
-        "visible": true,
-        "closed": false,
-        "archived": false,
-        "bookmarked": null,
-        "liked": null,
-        "thumbnails": [
-          {
-            "max_width": null,
-            "max_height": null,
-            "width": 1500,
-            "height": 1500,
-            "url": "https://forum.cheeseepedia.org/uploads/default/original/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b.jpeg"
-          },
-          {
-            "max_width": 1024,
-            "max_height": 1024,
-            "width": 1024,
-            "height": 1024,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_1024x1024.jpeg"
-          },
-          {
-            "max_width": 800,
-            "max_height": 800,
-            "width": 800,
-            "height": 800,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_800x800.jpeg"
-          },
-          {
-            "max_width": 600,
-            "max_height": 600,
-            "width": 600,
-            "height": 600,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_600x600.jpeg"
-          },
-          {
-            "max_width": 400,
-            "max_height": 400,
-            "width": 400,
-            "height": 400,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_400x400.jpeg"
-          },
-          {
-            "max_width": 300,
-            "max_height": 300,
-            "width": 300,
-            "height": 300,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_300x300.jpeg"
-          },
-          {
-            "max_width": 200,
-            "max_height": 200,
-            "width": 200,
-            "height": 200,
-            "url": "https://forum.cheeseepedia.org/uploads/default/optimized/1X/4a2df5d8c3cd831499a6c05d43d02780127d410b_2_200x200.jpeg"
-          }
-        ],
-        "tags": [
-          "chuck-e-cheese",
-          "cec-animated-series"
-        ],
-        "tags_descriptions": {},
-        "views": 229,
-        "like_count": 3,
-        "has_summary": false,
-        "last_poster_username": "cmsentance-byte",
-        "category_id": 5,
-        "op_like_count": 1,
-        "pinned_globally": false,
-        "featured_link": null,
-        "has_accepted_answer": false,
-        "can_vote": false,
-        "posters": [
-          {
-            "extras": null,
-            "description": "Original Poster",
-            "user_id": 1,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          },
-          {
-            "extras": null,
-            "description": "Frequent Poster",
-            "user_id": 12,
-            "primary_group_id": 41,
-            "flair_group_id": 41
-          },
-          {
-            "extras": null,
-            "description": "Frequent Poster",
-            "user_id": 7,
-            "primary_group_id": null,
-            "flair_group_id": 49
           },
           {
             "extras": "latest",
