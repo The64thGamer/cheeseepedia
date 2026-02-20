@@ -91,12 +91,12 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 ## Trivia
 
-- This is the first Studio C show where the puppets appear only during the dialogue portions in-between songs.
+- Starting with this show, the Studio C puppets appear only during the dialogue portions in between songs.
 - Chuck's curtains close during 'Can't Buy Me Love' on Studio C.
 - The diagonal line for the backgrounds of the Studio C puppets is in the opposite direction (starting in the upper left and going down to the bottom right) instead of the usual direction (upper right going down to the bottom left).
 - Starting with this show, the Helen puppet wears a new outfit. While it's still the purple cheerleading outfit she's been sporting since April 2003, this one is custom made for the puppet, whereas the previous one was the same one worn by the walk-around.
 - This show's episode of 'Baking With Betty' features a reference to the infamous [Howard Dean scream](https://en.wikipedia.org/wiki/Dean_scream).
 - The shot of Pasqually at the beginning of 'Baking with Betty' is reused from the 'Trail Mix' episode from the January 2001 show.
-- The classic MTV-style CEC TV ID that plays at the end of segment 2 has new music.
-- Both 'VeggieTales' intermissions are reused from {{< wiki-link "Dance Party 1999" >}}
+- CEC TV ID - 'Abstract' has new music.
+- Both 'VeggieTales' intermissions are reused from {{< wiki-link "April 1999" >}}
 - ‘Chuck E. Shuffle’ and ‘Go Santa Go’ both appear on the Studio C DVDs but could not be played.
