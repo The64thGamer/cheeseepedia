@@ -5,7 +5,7 @@ startDate = "1994-04-00"
 endDate = "1994-06-00"
 pageThumbnailFile = "SpringBreak94.avif"
 contributors = ["The 64th Gamer", "Anonymous", "Cy's Junk at School", "MultiMonorail", "Ceclife13"]
-credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Stephanie Nadolny|Voice of Helen Henny", "Doug Teel|Voice of Mr. Munch", "Reggie Smith|Voice of Jasper T. Jowls", "Joel McCrary|Voice of Pasqually The Chef", "Jeremy Blaido|VJ, Voice of Charlie Rockit", "Robert Gotcher", "Dave Robinson|Programmer"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Stephanie Nadolny|Voice of Helen Henny", "Doug Teel|Voice of Mr. Munch", "Reggie Smith|Voice of Jasper T. Jowls", "Joel McCrary|Voice of Pasqually The Chef", "Jeremy Blaido|VJ, Voice of Charlie Rockit", "Robert Gotcher", "David Robinson|Programmer"]
 citations = ["https://www.youtube.com/watch?v=8BErEtQIxuw"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "55:32"
