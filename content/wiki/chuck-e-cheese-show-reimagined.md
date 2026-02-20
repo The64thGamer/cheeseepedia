@@ -5,7 +5,8 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2024-06-26"
 endDate = "2024-06-26"
-contributors = ["Cyber Snout"]
+contributors = ["Cyber Snout","Ceclife13"]
+credits = ["Donovan Marcelle|Programmer"]
 citations = ["https://youtu.be/A4kEZka1AC4","https://www.youtube.com/@WatootsiJenkins/videos"]
 pageThumbnailFile = "CECShowReimagine.avif"
 +++
@@ -15,37 +16,37 @@ pageThumbnailFile = "CECShowReimagine.avif"
 1. **Segment 1**
     1.  'When You're Here'
 2. **Segment 2**
-    1.  'Turn the Beat Around'
+    1.  ['Turn the Beat Around'](https://en.wikipedia.org/wiki/Turn_the_Beat_Around)
 3. **Segment 3**
     1.  'These Hands'
 4. **Segment 4**
     1.  'Take Me Out To The Ballgame'
 5. **Segment 5**
-    1.  'Shake Your Groove Thing'
-    2.  'Dancing On The Moon'
+    1.  ['Shake Your Groove Thing'](https://en.m.wikipedia.org/wiki/Shake_Your_Groove_Thing)
+    2.  'Dancin' On The Moon'
 6. **Segment 6**
-    1.  'Party Rock'   
+    1.  ['Party Rock Anthem'](https://en.wikipedia.org/wiki/Party_Rock_Anthem) 
 7. **Segment 7**
-    1.  'In The Still Of The Night'
-    2.  'Midnight Special' 
+    1.  ['In the Still of the Night'](https://en.wikipedia.org/wiki/In_the_Still_of_the_Night_(The_Five_Satins_song))
+    2.  ['Midnight Special'](https://en.wikipedia.org/wiki/Midnight_Special_(song))
 8. **Segment 8**
-    1.  'In My Pool'
+    1.  'In My Pool' (parody of ['In My Room'](https://en.wikipedia.org/wiki/In_My_Room))
 9. **Segment 9**
     1.  'I've Been Working On The Railroad'
-    2.  'The Train Song' (Train Ride)
+    2.  'Train Ride'
 10. **Segment 10**
-    1.  'I'm So Excited'
-    2.  'Baby You're A Star'
+    1.  ['I'm So Excited'](https://en.wikipedia.org/wiki/I%27m_So_Excited)
+    2.  'You're A Star' (parody of ['Baby I'm a Star'](https://en.wikipedia.org/wiki/Baby_I%27m_a_Star))
 11. **Segment 11**
-    1.  'I Feel Good'
+    1.  ['I Got You (I Feel Good)'](https://en.wikipedia.org/wiki/I_Got_You_(I_Feel_Good))
 12. **Segment 12**
-    1.  'I Fall To Pieces'
+    1.  ['I Fall to Pieces'](https://en.wikipedia.org/wiki/I_Fall_to_Pieces)
 13. **Segment 13**
     1.  'Feel The Rhythm'
-    2.  'Do You Believe In Magic'
+    2.  ['Do You Believe in Magic'](https://en.wikipedia.org/wiki/Do_You_Believe_in_Magic_(song))
 14. **Segment 14**
-    1.  'Escapade'
-    2.  'Come See About Me'
+    1.  ['Escapade'](https://en.wikipedia.org/wiki/Escapade_(song))
+    2.  ['Come See About Me'](https://en.wikipedia.org/wiki/Come_See_About_Me)
 
 ## Trivia
 - 'When You're Here' is originally from {{< wiki-link "Let The Good Times Roll" >}} Segment 4.
@@ -53,7 +54,7 @@ pageThumbnailFile = "CECShowReimagine.avif"
 - 'These Hands' is originally from {{< wiki-link "Working For A Living" >}} Segment 3.
 - 'Take Me Out To The Ballgame' is originally from {{< wiki-link "Spring Training" >}} Segment 2.
 - 'Shake Your Grove Thing' is originally from {{< wiki-link "Fall 2012 Show" >}} Segment 3.
-- 'Dancing On The Moon' is originally from {{< wiki-link "CEC Rock It In Space" >}} Segment 3.
+- 'Dancing On The Moon' is originally from {{< wiki-link "CEC Rock It Into Space" >}} Segment 3.
 - 'Party Rock' is originally from {{< wiki-link "Spring 2012 Show" >}} Segment 1.
 - 'In The Still Of The Night' and 'Midnight Special' are originally from {{< wiki-link "Spring Training" >}} Segment 3.
 - 'In My Pool' is originally from {{< wiki-link "Summertime 2003" >}} Segment 2.
