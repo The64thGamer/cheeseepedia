@@ -112,6 +112,6 @@ This showtape included video segments from other ShowBiz Pizza Place & Chuck E. 
 
 ## Trivia
 
-- The intermission music would be recycled for {{< wiki-link "CEC September 1990 Show" >}}, and would also be used for its counterpart {{< wiki-link "SPP Best Of 1 KidsFriends" >}} (Without the last two songs).
+- The intermission music would be recycled for {{< wiki-link "CEC September 1990 Show" >}}, and would also be used for its counterpart {{< wiki-link "SPP Best Of 1 Kids / Friends" >}} (Without the last two songs).
 - The Dallas (Montfort Dr.), Texas ShowBiz was the first location to receive this show in 1990.
 - Because this show was created before a proper Helen Henny walkaround with her CU design, a modified latex mask of her was put on top of an existing Mitzi Mozzarella head frame.
