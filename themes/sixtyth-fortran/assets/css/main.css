@@ -1660,6 +1660,21 @@ sup {
   color: transparent;
   display: inline-block;
 }
+.tw-video-wrap {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+  margin-bottom: 1.5rem;
+}
+
+.tw-video-wrap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 .tw-evidence-tabs{
   display: grid;
   grid-template-columns: repeat(4, 1fr);

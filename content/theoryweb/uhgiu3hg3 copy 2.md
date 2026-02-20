@@ -4,4 +4,4 @@ startDate = "2026-02-20"
 contributors = ["The 64th Gamer"]
 type = "Theories"
 +++
-Test {{< wiki-link "It's Me Hallucination (Left)" >}}
+This is a test article! {{< wiki-link "It's Me Hallucination (Left)" >}}

@@ -301,19 +301,41 @@ document.getElementById('contributorUsername').addEventListener('input', functio
   }
 });
 
-// Initial load
 window.addEventListener('DOMContentLoaded', () => {
   const savedTheme = localStorage.getItem('selectedColorTheme') || "standard";
   const savedEvent = localStorage.getItem('eventThemeSetting') || "auto";
   const savedWidth = localStorage.getItem('pageWidth') || "default";
   const savedUsername = localStorage.getItem('cheeseepedia_username') || "";
 
-  document.getElementById('colorThemeSelector').value = savedTheme;
-  document.getElementById('eventThemeSelector').value = savedEvent;
-  document.getElementById('pageWidthSelector').value = savedWidth;
-  document.getElementById('contributorUsername').value = savedUsername;
+let isProgrammaticChange = false;
 
+// In DOMContentLoaded, wrap the value assignments:
+isProgrammaticChange = true;
+document.getElementById('colorThemeSelector').value = savedTheme;
+document.getElementById('eventThemeSelector').value = savedEvent;
+document.getElementById('pageWidthSelector').value = savedWidth;
+document.getElementById('contributorUsername').value = savedUsername;
+isProgrammaticChange = false;
+
+// In each event listener, bail early if programmatic:
+document.getElementById('colorThemeSelector').addEventListener('change', function () {
+  if (isProgrammaticChange) return;
   const themeToApply = determineActiveTheme();
   applyTheme(themeToApply);
+  localStorage.setItem('selectedColorTheme', this.value);
+});
+
+document.getElementById('eventThemeSelector').addEventListener('change', function () {
+  if (isProgrammaticChange) return;
+  const themeToApply = determineActiveTheme();
+  applyTheme(themeToApply);
+  localStorage.setItem('eventThemeSetting', this.value);
+});
+
+document.getElementById('pageWidthSelector').addEventListener('change', function () {
+  if (isProgrammaticChange) return;
+  applyPageWidth(this.value);
+  localStorage.setItem('pageWidth', this.value);
+});
   applyPageWidth(savedWidth);
 });
