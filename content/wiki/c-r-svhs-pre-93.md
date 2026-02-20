@@ -60,8 +60,6 @@ This format was only produced for 5 years before being replaced with C&R SVHS (P
 - Havin' A Party
 - {{< wiki-link "Birthday Star '92" >}}
 - {{< wiki-link "Holiday Special 1992" >}}
-- CEC-Stage Diagnostic Tape 1993
-- Havin' A Party (Rerelease)
 - {{< wiki-link "January 1993 Show" >}}
 - What I Like About You
 - {{< wiki-link "Spring Training" >}}
