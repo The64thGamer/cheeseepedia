@@ -12,7 +12,7 @@ showtapeFormats = ["ShowBiz SVHS"]
 alsoKnownAs = ["260-0270-90(C) S. P. T. Inc.SPP EMERGENCY BACKUP TAPESerial #00153 Deck - 807/20/90 - Master CYBERSTAR"]
 +++
 ***SPP Emergency Backup Tape*** was a special backup tape, being one of the last few showtapes released for *ShowBiz Pizza Place's* hosting the *Rock-afire Explosion*.
-For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape sent after {{< wiki-link "SPP Christmas '89 Wave Bday" >}} would become increasingly more rare as stores would convert to *3-Stages.*
+For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape sent after {{< wiki-link "SPP Christmas '89 / Wave Bday" >}} would become increasingly more rare as stores would convert to *3-Stages.*
 Despite the later years of *Cyberstar* being mostly re-used segments from earlier showtapes, the last showtapes became the 'Best of' series, bringing back every single *Cyberstar* segment for stores to have. It was said at this time that due to the *Rock-afire Explosion* being phased out, stores could play whatever showtapes they had without sticking to the most recent show. The *Best of* series could be seen as an encouragement of this.
 
 ## Emergency Backup Format
