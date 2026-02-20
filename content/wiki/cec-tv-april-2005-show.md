@@ -101,7 +101,7 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 - Most of the intermissions in this show are reused
   - The two Charlie Rockit intermissions, 'Chuck E.'s Zoo View' and the footage in countdown 7 are reused from {{< wiki-link "Let The Good Times Roll" >}}.
   - The music in countdown 7 first appeared in {{< wiki-link "January 1995" >}}.
-  - Countdown 2 reuses footage from {{< wiki-link "Dance Party 1999" >}}.
+  - Countdown 2 reuses footage from {{< wiki-link "April 1999" >}}.
   - Countdowns 3 and 5 reuse footage from {{< wiki-link "January 2001 Show" >}}.
   - Super Jasper - 'Resist The Temptation' is reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}.
   - Countdowns 1 and 6 reuse footage from {{< wiki-link "September 2001 Show" >}}.
