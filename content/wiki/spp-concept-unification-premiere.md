@@ -83,7 +83,7 @@ This show was created to introduce the Chuck E. Cheese characters for ShowBiz Pi
 
 ### Concept Unification
 
-The tape came with the entire {{< wiki-link "Concept Unification" >}} package, which included a special backup {{< wiki-link "SPP Concept Unification Emergency Backup Tape" >}}, the last Rock-afire showtape {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}, and its own backup tape, being SPP Rolfe & Earl Emergency Backup Tape, along with other material.
+The tape came with the entire {{< wiki-link "Concept Unification" >}} package, which included a special backup {{< wiki-link "SPP Concept Unification Emergency Backup Tape" >}}, the last Rock-afire showtape {{< wiki-link "SPP Rolfe & Earl" >}}, and its own backup tape, being SPP Rolfe & Earl Emergency Backup Tape, along with other material.
 During the Concept Unification conversion process, the Rolfe & Earl stage would be kept up while the store was open, so the character could perform alongside this tape. A special Rolfe & Earl birthday was included for any potential birthday parties while the other stages were still under construction. The Rolfe & Earl stage would then be dismantled and turned into Chuck E.'s stage overnight, allowing Concept Unification Premiere to be ready the next morning.
 Concept Unification Premiere was the only full showtape to be agnostic from any set premiere dates. Stores would always play this as their first 3-Stage tape, then switch to the current showtape after a few weeks. This lasted from 1990 to 1993 throughout the Concept Unification process.
 
