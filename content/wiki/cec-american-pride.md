@@ -13,7 +13,7 @@ alsoKnownAs = ["260-0507-91 (C) S.P.T. Inc. CU AMERICAN PRIDE/WAVE 3 STAGE Seria
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 +++
-**American Pride** is a patriotic-themed show that played at Chuck E. Cheese's, not to be confused with {{< wiki-link "CEC American Pride Neighbors" >}}.
+**American Pride** is a patriotic-themed show that played at Chuck E. Cheese's, not to be confused with {{< wiki-link "CEC American Pride . Neighbors" >}}.
 
 ## Show List
 
