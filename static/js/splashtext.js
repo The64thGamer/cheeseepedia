@@ -118,7 +118,7 @@
         "Have fun! Be cool!",
         "Don't hurry to worry!",
         "Thank you, thank you Mr. Munch",
-        "Chuck E. chose the cheddar and he chews the cheese he chose",
+        "Chuck E. chose the cheddar and he chewed the cheese he chose",
         "There should be seatbelts in this thing!",
         "WARNING What you are about to see may shock you.",
         "If my lips ain't movin' it ain't working!",
