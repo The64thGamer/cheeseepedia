@@ -5,7 +5,7 @@ tags = ["Programming Systems"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","RessiduePezzzado"]
+contributors = ["The 64th Gamer","RessiduePezzzado","Ceclife13"]
 citations = ["http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf","https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&","https://archive.org/details/huntington-beach-kooser-rd-building-plans/Administrative_Reviews_ARX1979029_-_Supporting_Documents-2.pdf"]
 pageThumbnailFile = "EzVMGJzOWPwOdwwSMVJL.avif"
 +++
@@ -26,8 +26,8 @@ A large black device with a PTT label is seen on the back of the ADM-3a, in a sp
 
 ### CEC Tester
 
-The ***CEC Tester* is a small blue device used for controlling animatronics to program. In the early 2000's it would briefly appear on eBay, being sold to an unknown buyer for an unknown price.In 2017 brand new footage of the Kooser Road location would surfacehttps://youtu.be/EdKLsomLbtY, which would provide a glimpse of the device being used at its store. Mike Hatcher is interviewed regarding the control systems behind the animatronics, in which he states, while referring to the device itself, *'What this actually is amounts to is electronic puppeteering, only instead of having strings, you have buttons, switches, and joysticks.',* confirming the device is used to control the animatronics.
-From the layout of the device, and the comment of the Kooser employee, it can be determined that the 8 labeled directions of the 2 joysticks, 8 switches, and 8 buttons all are various ways of controlling a single character, allowing movements to be stuck on, manually pushed on, or dynamically controlled with a joystick. The restriction of 8 movements to a character lines up with the 8 movements given to any given character on a {{< wiki-link "Cyberamic Control System" >}} Character Card.**
+The ***CEC Tester*** is a small blue device used for controlling animatronics to program. In the early 2000's it would briefly appear on eBay, being sold to an unknown buyer for an unknown price. In 2017 brand new footage of the Kooser Road location would surfacehttps://youtu.be/EdKLsomLbtY, which would provide a glimpse of the device being used at its store. Mike Hatcher is interviewed regarding the control systems behind the animatronics, in which he states, while referring to the device itself, *'What this actually is amounts to is electronic puppeteering, only instead of having strings, you have buttons, switches, and joysticks.',* confirming the device is used to control the animatronics.
+From the layout of the device, and the comment of the Kooser employee, it can be determined that the 8 labeled directions of the 2 joysticks, 8 switches, and 8 buttons all are various ways of controlling a single character, allowing movements to be stuck on, manually pushed on, or dynamically controlled with a joystick. The restriction of 8 movements to a character lines up with the 8 movements given to any given character on a {{< wiki-link "Cyberamic Control System" >}} Character Card.
 
 ### Cyberamic Control System
 
@@ -90,7 +90,7 @@ The first recorded showtape for the {{< wiki-link "Animation Programming System"
 
 - CEC Kids / American Pride
   - The last Cyberamics tape.
-- {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}
+- {{< wiki-link "SPP Rolfe & Earl" >}}
   - The last SPP-produced Rock-afire Explosion Tape.
 - {{< wiki-link "SPP Concept Unification Premiere" >}}
   - The first and last 3-Stage tape.
@@ -100,4 +100,4 @@ The following showtapes were potentially programmed in SongCode, despite being r
 - King '90 I
 - King '90 II
 
-Rock-afire Explosion tapes going forward would be exclusively programmed by Creative Engineering, with the only new segments coming shortly after in the {{< wiki-link "SPP Best Of 1 KidsFriends" >}} and SPP September 1990 Show tapes. Continued tapes would reuse signals from previous shows.
+Rock-afire Explosion tapes going forward would be exclusively programmed by Creative Engineering, with the only new segments coming shortly after in the {{< wiki-link "SPP Best Of 1 Kids / Friends" >}} and SPP September 1990 Show tapes. Continued tapes would reuse signals from previous shows.
