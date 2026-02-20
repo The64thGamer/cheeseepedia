@@ -6,8 +6,10 @@
   <header>
     {{- if eq .Section "theoryweb" -}}
     {{- partialCached "TheoryWebHeader.html" . -}}
+    <link rel="icon" href="/favicon-theoryweb.ico">
     {{- else -}}
     {{- partialCached "header.html" . -}}
+    <link rel="icon" href="/favicon-cep.ico">
     {{- end -}}
   </header>
   {{ partial "persistent-player.html" . }}

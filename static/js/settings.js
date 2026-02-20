@@ -196,7 +196,6 @@ function applyPageWidth(width) {
     root.setAttribute("data-width", width);
   }
 }
-
 function applyDateBasedTheme() {
   const today = new Date();
   const month = today.getMonth() + 1;
@@ -208,6 +207,31 @@ function applyDateBasedTheme() {
   if (month === 12) return "winter";
 
   return null;
+}
+
+function getDefaultThemeForPage() {
+  const isTheoryweb = window.location.pathname.includes("theoryweb");
+  return isTheoryweb ? "fnaf" : "standard";
+}
+
+function determineActiveTheme() {
+  const selectedTheme = document.getElementById('colorThemeSelector').value;
+  const eventSelection = document.getElementById('eventThemeSelector').value;
+
+  // "cep" forces standard CEP theme everywhere, ignoring section and events
+  if (selectedTheme === "cep") return "standard";
+
+  // "standard" now means "auto-pick based on section"
+  let themeToApply = selectedTheme === "standard"
+    ? getDefaultThemeForPage()
+    : selectedTheme;
+
+  if (eventSelection === "auto") {
+    const seasonalTheme = applyDateBasedTheme();
+    if (seasonalTheme) themeToApply = seasonalTheme;
+  }
+
+  return themeToApply;
 }
 
 function determineActiveTheme() {

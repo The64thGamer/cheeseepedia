@@ -3,8 +3,8 @@ title = "Intro Newspaper"
 pageThumbnailFile = "fsn43ijkt34.avif"
 startDate = "2014-08-08"
 contributors = ["The 64th Gamer"]
-tags = ["Newspaper","Advertisement","Freddy Fazbear","Photograph","Red Writing","Black Writing","Typed Writing","Phone Number","Monochrome","Meta","Night 1","Intro","Five Nights at Freddy's (Game)"]
-type = "Evidence"
+tags = ["Newspaper","Advertisement","Freddy Fazbear","Photograph","Red Writing","Black Writing","Typed Writing","Phone Number","Monochrome","Meta","Night 1","Intro","Five Nights at Freddy's (Game)","Courier (Font)"]
+type = "Images"
 +++
 <div class="ocr-wrap">
   <img src="574.png" alt="">
@@ -20,9 +20,9 @@ To apply call:
 1-555-FAZ-FAZBEAR"></div>
   <div class="ocr-region" style="left:33.906%;top:96.111%;width:18.984%;height:7.166%;transform:rotate(-4deg)" data-tip="Blah. Blah"></div>
   <div class="ocr-region" style="left:54.688%;top:92.917%;width:30.156%;height:13%;transform:rotate(-7deg)" data-tip="Blah. Blah. Blah, Blah. Blah. This ad has nothing to do with
-
 to the game."></div>
-  <div class="ocr-region" style="left:0%;top:41.111%;width:13.984%;height:53.555%;transform:rotate(-7.5deg)" data-tip="ah. Blah. Blah, Blah. nothing to do with relevant to the game.
+<div class="ocr-region" style="left:0%;top:41.111%;width:13.984%;height:53.555%;transform:rotate(-7.5deg)" data-tip="ah. Blah. Blah, Blah. nothing to do with
+relevant to the game.
 Blah. Blah. Blah.
 Blah. Blah. Blah.
 isn't the best
@@ -76,3 +76,8 @@ might. But it
 unlikely. Blah. Blah."></div>
   <div class="ocr-region" style="left:0.977%;top:95.486%;width:20.078%;height:4.527%;transform:rotate(0deg)" data-tip="Blah. Blah"></div>
 </div>
+<h2>Insights</h2>
+
+* Each of the blurred paragraphs surrounding the main advertisement are of the same text. The pieced together paragraph reads:
+
+  "Blah. Blah. Blah. Blah. Blah. This ad has nothing to do with anything relevant to the game. Blah. Blah. Blah. Blah. Blah. Chances are you won't make it past night three. Blah. Blah. Yackity smackity. Blah. Blah. This probably isn't the best choice of a summer job, since you most likely won't survive the week. I'd recommend being a cashier, sack boy, or work in a warehouse. Those are all very respectable jobs, and you probably won't be killed doing them. Well, you might, but it would be unlikely. Blah. Blah."

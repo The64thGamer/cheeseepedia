@@ -23,36 +23,5 @@
 <meta name="twitter:title" content="{{ .Title }}">
 <meta name="twitter:description" content="{{ if .Summary }}{{ .Summary | plainify | truncate 160 }}{{ else }}{{ .Plain | plainify | truncate 160 }}{{ end }}">
 <meta name="twitter:image" content="{{ with .Params.pageThumbnailFile }}{{- $site -}}photos/{{ . }}{{ else }}{{- $site -}}photos/default-thumbnail.avif{{ end }}">
-
-<script>
-function initLazyPhotos(container) {
-  const lazyImages = container ? container.querySelectorAll("img.lazy-photo") : document.querySelectorAll("img.lazy-photo");
-  lazyImages.forEach(img => {
-    // Skip if already processed
-    if (img.dataset.lazyProcessed) return;
-    img.dataset.lazyProcessed = "true";
-    
-    const highRes = img.dataset.src;
-    if (!highRes) return;
-    
-    // Failsafe if low-res fails
-    img.onerror = () => {
-      img.src = highRes;
-      img.classList.add("loaded");
-    };
-    
-    // Preload high-res
-    const preload = new Image();
-    preload.src = highRes;
-    preload.onload = () => {
-      img.src = highRes;
-      img.classList.add("loaded");
-    };
-  });
-}
-
-// Run on page load
-document.addEventListener("DOMContentLoaded", function() {
-  initLazyPhotos();
-});
-</script>
+<script src="/js/lazyphotos.js"></script>
+<script src="/js/head.js"></script>

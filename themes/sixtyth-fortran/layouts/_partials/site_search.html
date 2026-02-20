@@ -10,6 +10,7 @@ Notes:
 
 {{- $tagStyles := site.Data.tag_styles -}}
 {{- $tagCounts := site.Data.tags.tag_counts -}}
+{{- $isTheoryweb := hasPrefix .RelPermalink "/theoryweb" -}}
 
 <div class="search-ui-container">
   <div class="search-controls">
@@ -26,9 +27,11 @@ Notes:
     <div class="quick-tags-panel" id="quick-tags-panel">
       <div class="predef-list">
         {{- $predef := "" -}}
-        {{- if eq .Section "theoryweb" -}}
+        {{- if $isTheoryweb -}}
         {{- $predef = slice
         "Five Nights at Freddy's (Game)"
+        "2014"
+        "2026"
         -}}
         {{- else -}}
         {{- $predef = slice
@@ -152,39 +155,66 @@ Notes:
       </div>
 
       <div class="tab-buttons">
+        {{- if $isTheoryweb -}}
+        <button class="tab-button active" data-tab="tab-theories">Theories</button>
+        <button class="tab-button" data-tab="tab-images">Images</button>
+        <button class="tab-button" data-tab="tab-animations">Animations</button>
+        <button class="tab-button" data-tab="tab-sounds">Sounds</button>
+        <button class="tab-button" data-tab="tab-videos">Videos</button>
+        <button class="tab-button" data-tab="tab-gameplay">Gameplay</button>
+        {{- else -}}
         <button class="tab-button active" data-tab="tab-articles">Articles</button>
         <button class="tab-button" data-tab="tab-photos">Photos</button>
         <button class="tab-button" data-tab="tab-videos">Videos</button>
         <button class="tab-button" data-tab="tab-reviews">Reviews</button>
+        {{- end -}}
       </div>
 
       <div class="tab-content">
+        {{- if $isTheoryweb -}}
+        <div class="tab-panel active" id="tab-theories">
+          <div class="results-list" id="list-theories"></div>
+        </div>
+        <div class="tab-panel" id="tab-images">
+          <div class="results-list" id="list-images"></div>
+        </div>
+        <div class="tab-panel" id="tab-animations">
+          <div class="results-list" id="list-animations"></div>
+        </div>
+        <div class="tab-panel" id="tab-sounds">
+          <div class="results-list" id="list-sounds"></div>
+        </div>
+        <div class="tab-panel" id="tab-videos">
+          <div class="results-list" id="list-videos"></div>
+        </div>
+        <div class="tab-panel" id="tab-gameplay">
+          <div class="results-list" id="list-gameplay"></div>
+        </div>
+        {{- else -}}
         <div class="tab-panel active" id="tab-articles">
           <div class="results-summary" aria-live="polite"></div>
           <div class="results-list" id="list-articles"></div>
         </div>
-
         <div class="tab-panel" id="tab-photos">
           <div class="results-list" id="list-photos"></div>
         </div>
-
         <div class="tab-panel" id="tab-videos">
           <div class="results-list" id="list-videos"></div>
         </div>
-
         <div class="tab-panel" id="tab-reviews">
           <div class="results-list" id="list-reviews"></div>
-            </div>
-          </div>
         </div>
+        {{- end -}}
       </div>
     </div>
   </div>
 </div>
+  </div>
+</div>
 <script>
   window.SEARCH_CONFIG = {
-    searchBase: {{ if (hasPrefix .RelPermalink "/theoryweb") }}"/data/search/theoryweb"{{ else }}"/data/search"{{ end }},
-    tagsBase:   {{ if (hasPrefix .RelPermalink "/theoryweb") }}"/data/tags/theoryweb"{{ else }}"/data/tags"{{ end }}
+    searchBase: {{- if $isTheoryweb }}"/data/search/theoryweb"{{ else }}"/data/search"{{ end }},
+    tagsBase:   {{- if $isTheoryweb }}"/data/tags/theoryweb"{{ else }}"/data/tags"{{ end }}
   };
 </script>
 <script src="/js/search.js"></script>

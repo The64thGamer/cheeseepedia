@@ -5,7 +5,7 @@ theme = 'sixtyth-fortran'
 refLinksErrorLevel = 'WARNING'
 enableGitInfo = true
 timeout = 500
-disableKinds = ["taxonomy", "RSS", "section"] 
+disableKinds = ["taxonomy", "RSS"] 
 
 [markup]
   [markup.goldmark]
@@ -25,9 +25,6 @@ weight = 10
 name = 'All Pages'
 pageRef = '/wiki'
 weight = 40
-
-[outputs]
-section = []
 
 [taxonomies]
   category = 'categories'

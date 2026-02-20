@@ -1,9 +1,6 @@
 
 <h1>{{- .Title | safeHTML -}}</h1>
 <aside>
-<div class="article-topBar">
-  {{- partial "editButton.html" . -}}
-</div>
 <h2>Used In</h2>
 {{- $currentPageTitle := .Title -}}
 {{- $pages := partialCached "grab-all-wiki-articles.html" "key"}}

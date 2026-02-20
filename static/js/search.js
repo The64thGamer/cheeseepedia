@@ -2,21 +2,31 @@ document.addEventListener("DOMContentLoaded", () => {
   // --- DATA STORAGE ---
   let DOCS = [], TAGS_BY_PAGE = {}, PAGES_BY_TAG = {}, TAG_COUNTS = {}, ALL_TAGS = [];
   const DOC_TAGS = {}; // map normalized page path -> [tags]
-  const SEARCH_TABS = ["tab-articles", "tab-photos", "tab-videos", "tab-reviews"];
   
   // Store both tags and fuzzy terms as unified chips
   let searchChips = []; // Array of {type: 'tag'|'fuzzy', value: string, negative: bool}
   let searchTimer = null;
+const IS_THEORYWEB = (window.SEARCH_CONFIG?.searchBase || "").includes("theoryweb");
 
+const SEARCH_TABS = IS_THEORYWEB
+  ? ["tab-theories", "tab-images", "tab-animations", "tab-sounds", "tab-videos", "tab-gameplay"]
+  : ["tab-articles", "tab-photos", "tab-videos", "tab-reviews"];
   // --- DOM ELEMENTS ---
   const tabButtons = Array.from(document.querySelectorAll(".tab-button"));
   const tagInput = document.getElementById("tag-input");
   const tagChipContainer = document.getElementById("tag-chip-container");
   const tagSuggestions = document.getElementById("tag-suggestions");
-  const listArticles = document.getElementById("list-articles");
-  const listPhotos = document.getElementById("list-photos");
-  const listVideos = document.getElementById("list-videos");
-  const listReviews = document.getElementById("list-reviews");
+const listArticles  = IS_THEORYWEB ? null : document.getElementById("list-articles");
+const listPhotos    = IS_THEORYWEB ? null : document.getElementById("list-photos");
+const listVideos    = document.getElementById("list-videos");
+const listReviews   = IS_THEORYWEB ? null : document.getElementById("list-reviews");
+
+// theoryweb lists
+const listTheories   = IS_THEORYWEB ? document.getElementById("list-theories")   : null;
+const listImages     = IS_THEORYWEB ? document.getElementById("list-images")      : null;
+const listAnimations = IS_THEORYWEB ? document.getElementById("list-animations")  : null;
+const listSounds     = IS_THEORYWEB ? document.getElementById("list-sounds")      : null;
+const listGameplay   = IS_THEORYWEB ? document.getElementById("list-gameplay")    : null;
   const resultsPerSelect = document.getElementById("results-per-section");
   const articlesSortSelect = document.getElementById("articles-sort");
   const keepTagsCheckbox = document.getElementById("keep-tags-visible");
@@ -814,39 +824,129 @@ async function loadSearchData() {
     showMoreObserver.observe(sentinel);
   }
 
-  // --- executeSearch ---
-  function executeSearch() {
-    if (!DOCS || !DOCS.length) {
-      console.warn("Search data not yet loaded or empty");
-      return;
-    }
+function executeSearch() {
+  if (!DOCS || !DOCS.length) {
+    console.warn("Search data not yet loaded or empty");
+    return;
+  }
 
-    // Separate chips into tags and fuzzy terms
-    const tagChips = searchChips.filter(c => c.type === 'tag');
-    const fuzzyChips = searchChips.filter(c => c.type === 'fuzzy');
-    
-    // Build fuzzy query from fuzzy chips
-    const fuzzyQuery = fuzzyChips.map(c => (c.negative ? '-' : '') + c.value).join(" ");
-    const tagFilters = tagChips.map(c => ({ tag: c.value, negative: c.negative }));
+  // Separate chips into tags and fuzzy terms
+  const tagChips = searchChips.filter(c => c.type === 'tag');
+  const fuzzyChips = searchChips.filter(c => c.type === 'fuzzy');
+  
+  // Build fuzzy query from fuzzy chips
+  const fuzzyQuery = fuzzyChips.map(c => (c.negative ? '-' : '') + c.value).join(" ");
+  const tagFilters = tagChips.map(c => ({ tag: c.value, negative: c.negative }));
 
-    // both empty -> clear results
-    if (!fuzzyQuery && !tagFilters.length) {
-      [listArticles, listPhotos, listVideos, listReviews].forEach(c => { if (c) c.innerHTML = ""; });
+  // both empty -> clear results
+  if (!fuzzyQuery && !tagFilters.length) {
+    if (IS_THEORYWEB) {
+      [listTheories, listImages, listAnimations, listSounds, listVideos, listGameplay]
+        .forEach(c => { if (c) c.innerHTML = ""; });
+      activateTab("results-tabs", "tab-theories");
+    } else {
+      [listArticles, listPhotos, listVideos, listReviews]
+        .forEach(c => { if (c) c.innerHTML = ""; });
       activateTab("results-tabs", "tab-articles");
-      updateSearchLayout();
-      return;
+    }
+    updateSearchLayout();
+    return;
+  }
+
+  const results = search(fuzzyQuery, tagFilters, 2000);
+
+  const perVal = resultsPerSelect && resultsPerSelect.value ? resultsPerSelect.value : "10";
+  const perLimit = perVal === "all" ? Infinity : parseInt(perVal, 10) || 10;
+
+  function clearAndRender(container, arr, renderer) {
+    if (!container) return;
+    const existingSent = container.querySelectorAll(".results-bottom-sentinel");
+    existingSent.forEach(s => {
+      try { showMoreObserver.unobserve(s); } catch(e){}
+      s.remove();
+    });
+    const existingShow = container.querySelectorAll(".show-more-wrapper");
+    existingShow.forEach(s => s.remove());
+
+    container.innerHTML = "";
+    if (!arr.length) { 
+      container.innerHTML = `<div class="no-results">No results</div>`; 
+      return; 
+    }
+    const limited = (perLimit === Infinity) ? arr : arr.slice(0, perLimit);
+    if (renderer === renderPhoto) {
+      const gallery = document.createElement("div"); 
+      gallery.className = "gallery";
+      limited.forEach(item => gallery.appendChild(renderer(item.doc)));
+      container.appendChild(gallery);
+    } else {
+      limited.forEach(item => container.appendChild(renderer(item.doc)));
     }
 
-    const results = search(fuzzyQuery, tagFilters, 2000);
+    const totalCount = arr.length;
+    const shownCount = limited.length;
+    attachSentinel(container, totalCount, shownCount);
+    
+    if (typeof initLazyPhotos === 'function') {
+      initLazyPhotos(container);
+    }
+  }
 
+  if (IS_THEORYWEB) {
+    const theories=[], images=[], animations=[], sounds=[], videos=[], gameplay=[];
+
+    for (const r of results) {
+      const doc = r.doc;
+      const type = (doc.frontmatter?.type || "").toLowerCase();
+      switch (type) {
+        case "theory":      theories.push({score:r.score, doc});   break;
+        case "images":      images.push({score:r.score, doc});     break;
+        case "animations":  animations.push({score:r.score, doc}); break;
+        case "sounds":      sounds.push({score:r.score, doc});     break;
+        case "videos":      videos.push({score:r.score, doc});     break;
+        case "gameplay":    gameplay.push({score:r.score, doc});   break;
+        default:            theories.push({score:r.score, doc});   break;
+      }
+    }
+
+    clearAndRender(listTheories,   theories,   renderArticle);
+    clearAndRender(listImages,     images,     renderArticle);
+    clearAndRender(listAnimations, animations, renderArticle);
+    clearAndRender(listSounds,     sounds,     renderArticle);
+    clearAndRender(listVideos,     videos,     renderArticle);
+    clearAndRender(listGameplay,   gameplay,   renderArticle);
+
+    const tabCounts = {
+      "tab-theories":   theories.length,
+      "tab-images":     images.length,
+      "tab-animations": animations.length,
+      "tab-sounds":     sounds.length,
+      "tab-videos":     videos.length,
+      "tab-gameplay":   gameplay.length,
+    };
+    SEARCH_TABS.forEach(key => {
+      const btn = tabButtons.find(b => b.dataset.tab === key);
+      if (!btn) return;
+      const labelMap = {
+        "tab-theories":   "Theories",
+        "tab-images":     "Images",
+        "tab-animations": "Animations",
+        "tab-sounds":     "Sounds",
+        "tab-videos":     "Videos",
+        "tab-gameplay":   "Gameplay",
+      };
+      btn.textContent = `${labelMap[key]} (${tabCounts[key] || 0})`;
+    });
+
+  } else {
     const articles=[], photos=[], videos=[], reviews=[];
     for (const r of results) {
       const doc = r.doc;
-      const tags = (DOC_TAGS[doc.path] || []).map(t=>String(t).toLowerCase());
-      if (tags.includes("photos")) photos.push({score:r.score, doc});
-      else if (tags.includes("videos")) videos.push({score:r.score, doc});
+      const tags = (DOC_TAGS[doc.path] || []).map(t => String(t).toLowerCase());
+      if (tags.includes("photos"))       photos.push({score:r.score, doc});
+      else if (tags.includes("videos"))  videos.push({score:r.score, doc});
       else if (tags.includes("reviews")) reviews.push({score:r.score, doc});
-      else articles.push({score:r.score, doc});
+      else                               articles.push({score:r.score, doc});
     }
 
     const artSort = (articlesSortSelect && articlesSortSelect.value) ? articlesSortSelect.value : 'relevancy';
@@ -867,70 +967,32 @@ async function loadSearchData() {
       });
     }
 
-    const perVal = resultsPerSelect && resultsPerSelect.value ? resultsPerSelect.value : "10";
-    const perLimit = perVal === "all" ? Infinity : parseInt(perVal, 10) || 10;
-
-    function clearAndRender(container, arr, renderer) {
-      if (!container) return;
-      const existingSent = container.querySelectorAll(".results-bottom-sentinel");
-      existingSent.forEach(s => {
-        try { showMoreObserver.unobserve(s); } catch(e){}
-        s.remove();
-      });
-      const existingShow = container.querySelectorAll(".show-more-wrapper");
-      existingShow.forEach(s => s.remove());
-
-      container.innerHTML = "";
-      if (!arr.length) { 
-        container.innerHTML = `<div class="no-results">No results</div>`; 
-        return; 
-      }
-      const limited = (perLimit === Infinity) ? arr : arr.slice(0, perLimit);
-      if (renderer === renderPhoto) {
-        const gallery = document.createElement("div"); 
-        gallery.className = "gallery";
-        limited.forEach(item => gallery.appendChild(renderer(item.doc)));
-        container.appendChild(gallery);
-      } else {
-        limited.forEach(item => container.appendChild(renderer(item.doc)));
-      }
-
-      const totalCount = arr.length;
-      const shownCount = limited.length;
-      attachSentinel(container, totalCount, shownCount);
-      
-      // Trigger lazy loading for newly rendered images
-      if (typeof initLazyPhotos === 'function') {
-        initLazyPhotos(container);
-      }
-    }
-
     clearAndRender(listArticles, articles, renderArticle);
-    clearAndRender(listPhotos, photos, renderPhoto);
-    clearAndRender(listVideos, videos, renderVideo);
-    clearAndRender(listReviews, reviews, renderReview);
+    clearAndRender(listPhotos,   photos,   renderPhoto);
+    clearAndRender(listVideos,   videos,   renderVideo);
+    clearAndRender(listReviews,  reviews,  renderReview);
 
     const tabCounts = { 
       "tab-articles": articles.length, 
-      "tab-photos": photos.length, 
-      "tab-videos": videos.length, 
-      "tab-reviews": reviews.length 
+      "tab-photos":   photos.length, 
+      "tab-videos":   videos.length, 
+      "tab-reviews":  reviews.length,
     };
-    
     SEARCH_TABS.forEach(key => {
-      const btn = tabButtons.find(b=>b.dataset.tab===key);
+      const btn = tabButtons.find(b => b.dataset.tab === key);
       if (!btn) return;
       const labelMap = { 
-        "tab-articles":"Articles", 
-        "tab-photos":"Photos", 
-        "tab-videos":"Videos", 
-        "tab-reviews":"Reviews" 
+        "tab-articles": "Articles", 
+        "tab-photos":   "Photos", 
+        "tab-videos":   "Videos", 
+        "tab-reviews":  "Reviews",
       };
-      btn.textContent = `${labelMap[key]} (${tabCounts[key]||0})`;
+      btn.textContent = `${labelMap[key]} (${tabCounts[key] || 0})`;
     });
-
-    updateSearchLayout();
   }
+
+  updateSearchLayout();
+}
 
   if (resultsPerSelect) {
     resultsPerSelect.addEventListener("change", () => { 

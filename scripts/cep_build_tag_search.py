@@ -39,12 +39,13 @@ MEDIA_DIRS = (
 
 THEORYWEB_DIR = os.path.join("content", "theoryweb")
 
-# Regexes
 WIKI_LINK_RE = re.compile(r"""
     \{\{\s*<?\s*
     wiki-link\s+
     (?:
-      ["']([^"']+)["']
+      "([^"]+)"
+      |
+      '([^']+)'
       |
       ([^\s\}]+)
     )
@@ -252,7 +253,7 @@ def extract_wikilinks_from_body(body: str, canonical_map: dict):
     if not body:
         return out
     for m in WIKI_LINK_RE.finditer(body):
-        title = m.group(1) or m.group(2)
+        title = m.group(1) or m.group(2) or m.group(3)
         if title:
             n = normalize_tag_preserve_case(title.strip(), canonical_map)
             if n:
@@ -409,15 +410,28 @@ def find_key_by_title_or_normalized(title: str, title_to_key_map: dict, tags_by_
 MEDIA_TAGS_LOWER = {"photos", "videos", "transcriptions", "reviews"}
 
 def process_normal_files(file_list: list, cmap: dict):
-    tags_by_page = {}
-    pages_meta = {}
+    # First pass: build title->path and path->fm maps for all files
+    # so wikilink tag inheritance can look up any file in the list
+    title_to_path = {}
+    path_to_fm = {}
     for f in file_list:
         try:
             fm, body = read_frontmatter(f)
-        except Exception as e:
-            print(f"[WARN] failed to read {f}: {e}", file=sys.stderr)
+        except Exception:
             fm, body = {}, ""
+        relpath = normalize_page_path(f)
+        path_to_fm[relpath] = (fm, body)
+        title = fm.get("title") or fm.get("Title") or Path(f).stem
+        if title:
+            title_to_path[str(title)] = relpath
+            title_to_path[str(title).lower()] = relpath
 
+    tags_by_page = {}
+    pages_meta = {}
+
+    for f in file_list:
+        relpath = normalize_page_path(f)
+        fm, body = path_to_fm.get(relpath, ({}, ""))
         title = fm.get("title") or fm.get("Title") or Path(f).stem
         raw_tags = extract_tags_from_frontmatter(fm, cmap)
 
@@ -452,6 +466,27 @@ def process_normal_files(file_list: list, cmap: dict):
 
         wikilinks = extract_wikilinks_from_body(body, cmap)
         raw_tags.extend(wikilinks)
+
+        # Inherit tags from wikilinked articles
+        for m in WIKI_LINK_RE.finditer(body or ""):
+            linked_title = (m.group(1) or m.group(2) or m.group(3) or "").strip()
+            if not linked_title:
+                continue
+            linked_path = title_to_path.get(linked_title) or title_to_path.get(linked_title.lower())
+            if not linked_path:
+                continue
+            linked_fm, _ = path_to_fm.get(linked_path, ({}, ""))
+            # Pull tags and categories from the linked article's frontmatter
+            for key in ("tags", "Tags", "categories", "Categories"):
+                if key in linked_fm and linked_fm[key]:
+                    raw = linked_fm[key]
+                    vals = raw if isinstance(raw, (list, tuple)) else re.split(r"[;,]", str(raw))
+                    for v in vals:
+                        v = str(v).strip()
+                        if v:
+                            n = normalize_tag_preserve_case(v, cmap)
+                            if n:
+                                raw_tags.append(n)
 
         has_media_tag = False
         for key in ("tags", "Tags"):
@@ -497,7 +532,6 @@ def process_normal_files(file_list: list, cmap: dict):
             seen.add(lk)
             final_tags.append(cmap.get(lk, t))
 
-        relpath = normalize_page_path(f)
         tags_by_page[relpath] = final_tags
         pages_meta[relpath] = {
             "title": str(title),

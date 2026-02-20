@@ -1,22 +1,5 @@
 {{- partial "splash-text" -}}
-{{- $contributorCounts := dict -}}
-{{- range site.RegularPages -}}
-  {{- with .Params.contributors -}}
-    {{- range . -}}
-      {{- if not (index $contributorCounts .) -}}
-        {{- $contributorCounts = merge $contributorCounts (dict . 1) -}}
-      {{- else -}}
-        {{- $contributorCounts = merge $contributorCounts (dict . (add (index $contributorCounts .) 1)) -}}
-      {{- end -}}
-    {{- end -}}
-  {{- end -}}
-{{- end -}}
-{{- $sortedContributors := slice -}}
-{{- range $key, $value := $contributorCounts -}}
-  {{- $sortedContributors = $sortedContributors | append (dict "name" $key "count" $value) -}}
-{{- end -}}
-{{- $sortedContributors = sort $sortedContributors "count" "desc" -}}
-{{- $contributorCount := len $sortedContributors -}}
+{{- $contributorCount := len site.Data.discourse_users -}}
 {{- $count := 0 -}}
 {{- range site.RegularPages -}}
 {{- $section := .Section -}}
@@ -27,14 +10,14 @@
 {{- end -}}
 {{- end -}}
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.5vw;">
-<div class="fun-logo">
-<a href="https://cheeseepedia.org"><img src="/UI/CEPLogo.avif" id="mainLogo" alt="Logo"></a>
-</div>
-<div class="fun-text">
-    Now at <strong>{{- $count -}} </strong> articles contributed by <strong>{{- $contributorCount -}}</strong> users.
-<br>
-    Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
-</div>
+  <div class="fun-logo">
+  <a href="https://cheeseepedia.org"><img src="/UI/CEPLogo.avif" id="mainLogo" alt="Logo"></a>
+  </div>
+  <div class="fun-text">
+      Now at <strong>{{- $count -}}</strong> articles contributed by <strong>{{- $contributorCount -}}</strong> users.
+  <br>
+      Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
+  </div>
 </div>
 {{ partial "site_search.html" . }}
 </aside>
