@@ -100,4 +100,4 @@ The following showtapes were potentially programmed in SongCode, despite being r
 - King '90 I
 - King '90 II
 
-Rock-afire Explosion tapes going forward would be exclusively programmed by Creative Engineering, with the only new segments coming shortly after in the {{< wiki-link "SPP Best Of 1 Kids / Friends" >}} and SPP September 1990 Show tapes. Continued tapes would reuse signals from previous shows.
+Rock-afire Explosion tapes going forward would exclusively reuse signals from previous shows through the 'Best of' series.
