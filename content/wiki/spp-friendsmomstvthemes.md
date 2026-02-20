@@ -5,7 +5,7 @@ tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
 startDate = "1990-06-11"
 endDate = "1990-08-17"
-contributors = ["DerekCat","The 64th Gamer","Stripes"]
+contributors = ["DerekCat","The 64th Gamer","Stripes","Ceclife13"]
 citations = []
 pageThumbnailFile = "MFxBrgSKEfzNinorBwfz.avif"
 showtapeFormats = ["ShowBiz SVHS"]
@@ -98,4 +98,4 @@ until that store received *Concept Unification*.
 - The video segment [CGI Animated Graphics](https://en.wikipedia.org/wiki/Odyssey_Productions) was
   also in {{< wiki-link "SPP Concept Unification Premiere" >}}
   along with other videos from past CEC/SPP showtapes.
-- This show recycles two segments from it's previous showtape {{< wiki-link "SPP April 1990 Show" >}}.
+- This show recycles two segments from the previous showtape {{< wiki-link "SPP Moms / TV Themes / Neighbors" >}}.
