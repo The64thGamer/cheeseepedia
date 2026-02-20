@@ -85,8 +85,8 @@ The showtape's original stereo audio for all the segments and the live show woul
 
 ## Trivia
 
-- Dancin' On The Moon is originally from {{< wiki-link "CEC Rock It In Space" >}},
+- Dancin' On The Moon is originally from {{< wiki-link "CEC Rock It Into Space" >}},
 - This was the first show to feature John Bowen as Mr. Munch and Earl Fisher as Pasqually, as well as the first to feature Mike Manley and the Super Jasper intermissions.
 - This was the final show to use walkarounds to portray Munch's Make Believe Band on Studio C. Starting with the next show, puppets would be used instead.
-- For Studio C, 'Hip Mouse' and 'Dancin' On The Moon' were sang by Chuck E. Cheese. While on existing Munch sang 'Hip Mouse' and Jasper sang 'Dancin' On The Moon'. 'Pizza Serenade' also has added vocals by Chuck E. on Studio C. 
+- For Studio C, 'Hip Mouse' and 'Dancin' On The Moon' were sung by Chuck E. Cheese. On existing stages, Munch sang 'Hip Mouse' and Jasper sang 'Dancin' On The Moon'. 'Pizza Serenade' also has added vocals by Chuck E. on Studio C. 
 
