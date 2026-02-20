@@ -21,7 +21,7 @@ The **APS format** is used to store the raw programming data for various animatr
 - **.roa** for Road Stages (1990-1991)
 - **.r12** for Road, 1-Stage, and 2-Stages (1992)
 - **.bzr** for Beach Bowsers
-- **.hlf**, (maybe Half Cyberamics. 1991?)
+- **.hlf** for Cyberamics (1991)
 
 ## Overall format
 
