@@ -8,10 +8,10 @@ endDate = "2017-8-20"
 contributors = ["The 64th Gamer","Cyber Snout","Anonymous","Ceclife13","Cy's Junk at School"]
 citations = []
 pageThumbnailFile = "klkGohBlTRBZNAO3f9DO.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***Chuck E. Cheese's Show 4 2017* released June 19, 2017.
-This was created to play from June 19, 2017. - August 20, 2017. This show featured five songs all reused.**
+***Chuck E. Cheese's Show 4 2017*** released June 19, 2017.
+This was created to play from June 19, 2017. - August 20, 2017. This show featured five songs all reused.
 
 ## Show List:
 
@@ -57,19 +57,19 @@ This was created to play from June 19, 2017. - August 20, 2017. This show featur
 
 ## Lives:
 
-- Birthday Show (3stage, Cyberamic, Studio C,Weigl)
-- Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
-- Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
-- Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
-- Happy Dance (3stage, Cyberamic, Studio C,Weigl)
-- Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Says(3stage, Cyberamic, Studio C,Weigl)
-- The Roll (3stage, Cyberamic, Studio C,Weigl)
+- Birthday Show 2016 Revised
+- Birthday Show 2015 (Spanish)
+- Me & My Friends
+- Head, Shoulders, Knees & Toes 2013
+- Happy Dance 
+- Do The Chuck E. 2015
+- Chuck E. Says 2014
+- Do The Roll
 
 ## Trivia:
 
-- 'Let's Have A Party' is originally from {{< wiki-link "Chuck E. Cheese's Show 1 2016" >}}, 'Friendship Never Ends' is originally from {{< wiki-link "July 2014 Show" >}}, 'Chuck E.'s Place' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}}, 'Out of This World' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}, and 'Gamin' Time' was originally from {{< wiki-link "Chuck E. Cheese's Show 3 2016" >}}.
-- 'Carl Clean' shows up twice on the Newsletter. First where it is meant to be and secondly shown under 'Sprout - 'Ollie and Moon'
-- The newsletter mentions 'Kool & The Gang - 'Celebration' as a song from the 1970s despite it not releasing till September 1980.
+- 'Let's Have A Party' is originally from {{< wiki-link "Chuck E. Cheese's Show 1 2016" >}}, 'Friendship Never Ends' is originally from {{< wiki-link "The Chuck E. Cheese Show" >}}, 'Chuck E.'s Place' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}}, 'Out of This World' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}, and 'Gamin' Time' was originally from {{< wiki-link "Chuck E. Cheese's Show 3 2016" >}}.
+- 'Carl Clean' shows up twice in the Show Newsletter. First where it is meant to be, and again under 'Sprout - 'Ollie and Moon'
+- 'Kool & The Gang - 'Celebration' is listed as a song from the 1970s despite it not releasing until September 1980.
 - During the run of this show 2.0 was announced. This was the first showtape to play with 2.0 in affect and also when the company removed the 'S from its name. Despite that the *Chuck E. Cheese's* name and logo was used last on {{< wiki-link "Chuck E. Cheese's Show 5 2021" >}}.
-- The intermission 'Fun Check' was a very budgeted intermission the purpose of the intermission was to attempt to as the name implies have the store do a 'Fun Check' to do a 'Fun Check' you'd have to 'shout, clap your hands, stomp your feet, or preform any action that expresses sheer joy and other happiness to the immediate surroundings'
+- The intermission 'Fun Check' was an intermission created to have the store do a 'Fun Check'. To do a 'Fun Check' you'd have to 'shout, clap your hands, stomp your feet, or preform any action that expresses sheer joy and other happiness to the immediate surroundings'
