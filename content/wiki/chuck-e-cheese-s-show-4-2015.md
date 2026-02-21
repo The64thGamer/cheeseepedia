@@ -4,14 +4,14 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2015-06-15"
-endDate = "2015-8-09"
-contributors = ["Cyber Snout","Hollyburgdorf","Anonymous","Anonymous"]
+endDate = "2015-08-09"
+contributors = ["Cyber Snout","Hollyburgdorf","Anonymous","Anonymous","Ceclife13"]
 citations = []
 pageThumbnailFile = "KvjLEY9Z3KXage2aJnHY.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***Show 4 2015* released June 15th 2015 featuring two songs
-This was created to play from June 15th 2015 - August 9th 2015. This show features two songs reused from {{< wiki-link "July 2014 Show" >}}.**
+***Show 4 2015*** released June 15th 2015 featuring two songs
+This was created to play from June 15th 2015 - August 9th 2015. This show features two songs reused from {{< wiki-link "The Chuck E. Cheese Show" >}}.
 
 ## Show List:
 
@@ -44,17 +44,17 @@ This was created to play from June 15th 2015 - August 9th 2015. This show featur
     4.  Josh & The Jamtones - 'Jump Up!'
     5.  Cartoon Network - Steven Universe - 'Lapis Lazuli'
 
-## Live Show:
+## Live Shows:
 
-- Chuck E. Birthday 2015 (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Rock Star Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Do The Chuck E. 2015 (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
-- Old Mac Donald (3stage, Cyberamic, Studio C,Weigl)
-- Do The Roll (3stage, Cyberamic, Studio C,Weigl)
-- Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
-- Head, Shoulders, Knees & Toes (3stage, Cyberamic, Studio C,Weigl)
+- Chuck E. Birthday 2015
+- Spanish Chuck E. Birthday 2015
+- Do The Chuck E. 2015
+- Chuck E. Says 2014
+- Old MacDonald 2013
+- Do The Roll 
+- Happy & You Know It 2014
+- Head, Shoulders, Knees & Toes 2013
 
 ## Trivia:
 
-- 'Friendship Never Ends' and 'Dare to Be You' are originally from {{< wiki-link "July 2014 Show" >}}
+- 'Friendship Never Ends' and 'Dare to Be You' are originally from {{< wiki-link "The Chuck E. Cheese Show" >}}
