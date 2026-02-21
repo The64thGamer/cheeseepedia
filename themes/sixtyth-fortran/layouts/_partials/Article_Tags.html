@@ -3,9 +3,14 @@
 {{- $tagCounts := cond $isTheoryweb site.Data.tags.theoryweb.tag_counts site.Data.tags.tag_counts -}}
 {{- $tagsByPage := cond $isTheoryweb site.Data.tags.theoryweb.tags_by_page site.Data.tags.tags_by_page -}}
 
-{{- $filePath := .File.Path | lower -}}
-{{- $key := replace $filePath "content/" "" -}}
+{{- $filePath := .File.Path -}}
+{{- $key := $filePath | lower -}}
+{{- $key = replace $key "content/" "" -}}
 {{- $key = replace $key ".md" "" -}}
+{{- $key = strings.TrimPrefix "/" $key -}}
+{{- $key = replaceRE `[^a-z0-9/]+` "-" $key -}}
+{{- $key = replaceRE `-{2,}` "-" $key -}}
+{{- $key = strings.TrimSuffix "-" $key -}}
 {{- $tags := index $tagsByPage $key -}}
 {{- if $tags -}}
 <div class="predef-tags page-quick-tags">

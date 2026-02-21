@@ -11,8 +11,5 @@
                 {{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}
             </div>
         </div>
-        <div class="edit-button-container">
-            {{ partial "editButton-list.html" (dict "page" . "hasContent" (ne .Content "")) }}
-        </div>
     </div>
 </div>

@@ -230,12 +230,12 @@
    ========================= */
 html {
   background-color: var(--deep-orange);
-  image-rendering: crisp-edges;
 }
 
 [data-theme="funnet"] {
   background-image: url(/UI/Backgrounds/funnet.avif);
   background-size: 20rem;
+  image-rendering: crisp-edges;
 }
 
 body {
@@ -475,8 +475,7 @@ select:hover {
 /* =========================
    BUTTONS & INTERACTIVE
    ========================= */
-.button,
-.blank-button {
+.button {
   font-family: var(--font-display);
   letter-spacing: .1rem;
   color: var(--white);
@@ -490,26 +489,26 @@ select:hover {
   padding-right: 1rem;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  outline-color: var(--white);
+  outline-color: var(--yellow);
   outline-width: 0.25rem;
   outline-style: solid;
   float: right;
   line-height: normal;
-}
-
-.button {
   background-color: var(--orange);
-  box-shadow: inset 0 0 0 0.25rem var(--yellow);
 }
 
-.blank-button {
-  background-color: var(--deep-white);
-  box-shadow: inset 0 0 0 0.25rem var(--deep-white);
-}
 
-.button:hover,
-.blank-button:hover {
+.button:hover{
   background-color: var(--aqua);
+}
+
+[data-theme="fnaf"].button,
+[data-theme="fnaf"].ev-tab,
+[data-theme="fnaf"]#ev-reset {
+  border-radius: 0rem;
+  outline: none;
+  margin:0.5rem;
+  background-color: var(--orange);
 }
 
 .button-dropdown {
@@ -549,7 +548,9 @@ select:hover {
 }
 
 .article-button,
-.article-editpage-button {
+.article-editpage-button,
+.ev-tab,
+#ev-reset {
   background-color: var(--orange);
   color: var(--white);
   border: solid;
@@ -569,8 +570,11 @@ select:hover {
   cursor: pointer;
 }
 
-.article-button:hover {
+.article-button:hover,
+.ev-tab:hover,
+#ev-reset:hover{
   background-color: var(--yellow);
+  outline-color: var(--white);
 }
 
 /* =========================
@@ -1276,7 +1280,7 @@ img.remoji:hover {
 /* =========================
    GALLERY / FUN / LOGO
    ========================= */
-.fun-logo img {
+.fun-logo img{
   width: 100%;
   margin-top: -1.5rem;
   margin-bottom: -2.5rem;
@@ -1656,6 +1660,90 @@ sup {
   color: transparent;
   display: inline-block;
 }
+.tw-video-wrap {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+  margin-bottom: 1.5rem;
+}
+
+.tw-video-wrap iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.tw-evidence-tabs{
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.25rem;
+  width: 100%;
+}
+
+.tw-evidence-controls {
+    width: 100%;
+  }
+.tw-evidence-wrap {
+    width: 100%;
+    margin-bottom: 1.5em;
+  }
+  .ocr-wrap {
+    position: relative;
+    display: inline-block;
+    line-height: 0;
+    font-size: 0;
+    max-width: 100%;
+  }
+  .ocr-wrap img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+  }
+  .ocr-region {
+    position: absolute;
+    cursor: crosshair;
+    box-sizing: border-box;
+    transition: background 0.15s;
+    transform-origin: top left;
+  }
+  .ocr-region:hover {
+    background: rgba(255, 230, 50, 0.25);
+    outline: 1px solid rgba(255, 220, 0, 0.7);
+  }
+  .tw-tag-strip {
+    margin-top: 1.2em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35em;
+  }
+  .tw-tag {
+    display: inline-block;
+    background: #2a2a2a;
+    color: #ddd;
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-family: monospace;
+  }
+  .tw-ocr-tooltip {
+    position: fixed;
+    background: #111;
+    color: #f5f5f5;
+    font-size: 0.78rem;
+    font-family: monospace;
+    line-height: 1.4;
+    white-space: pre-wrap;
+    max-width: 280px;
+    padding: 6px 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.6);
+    z-index: 9999;
+    pointer-events: none;
+    display: none;
+  }
 
 /* =========================
    Tracklist (page content)

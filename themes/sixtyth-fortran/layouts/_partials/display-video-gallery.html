@@ -37,12 +37,6 @@
               {{ partial "Readable_Date.html" (dict "date" $startDate "presentOnEmpty" false) }}
             </div>
           </div>
-
-          <div class="edit-button-container">
-            {{- $page := site.GetPage $pagePath -}}
-            {{ partial "editButton-list.html" (dict "page" $page "hasContent" (ne $content "")) }}
-          </div>
-
         </div>
       </div>
 
