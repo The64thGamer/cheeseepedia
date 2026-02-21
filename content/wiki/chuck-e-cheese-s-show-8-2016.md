@@ -5,13 +5,13 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2016-11-01"
 endDate = "2016-11-20"
-contributors = ["The 64th Gamer","Cyber Snout"]
+contributors = ["The 64th Gamer","Cyber Snout","Ceclife13"]
 citations = []
 pageThumbnailFile = "FjcGseQnZ2gAnu9CI6h6.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***Chuck E. Cheese's Show 8 2016* released November 1st, 2016 featuring four songs
-This was created to play from November 1st, 2016 - November 20th, 2016. This show features four songs.**
+***Chuck E. Cheese's Show 8 2016*** released November 1st, 2016 featuring four songs
+This was created to play from November 1st, 2016 - November 20th, 2016. This show features four songs.
 
 ## Show List:
 
@@ -64,7 +64,7 @@ This was created to play from November 1st, 2016 - November 20th, 2016. This sho
 
 ## Trivia:
 
-- 'Let's Have A Party' is originally from {{< wiki-link "Chuck E. Cheese's Show 1 2016" >}}, 'Dream Big' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}, 'It's A Date' was originally from {{< wiki-link "Chuck E. Cheese's Show 5 2015" >}} 'Happy To Be Seeing You' is originally from {{< wiki-link "July 2014 Show" >}}.
-- 'CEC Sketch - 'Where's Steve Waters?' is reused from Act 1 of {{< wiki-link "July 2014 Show" >}} but they cut it to start after Hard Hat Hanks scene.
+- 'Let's Have A Party' is originally from {{< wiki-link "Chuck E. Cheese's Show 1 2016" >}}, 'Dream Big' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}, 'It's A Date' was originally from {{< wiki-link "Chuck E. Cheese's Show 5 2015" >}} 'Happy To Be Seeing You' is originally from {{< wiki-link "The Chuck E. Cheese Show" >}}.
+- 'CEC Sketch - 'Where's Steve Waters?' is reused from {{< wiki-link "The Chuck E. Cheese Show" >}}. The scene with Hard Hat Hank is cut.
 - 'Happy To Be Seeing You' was reprogrammed for Studio C.
 - Many of the songs and intermissions were reused from various shows from 2016.
