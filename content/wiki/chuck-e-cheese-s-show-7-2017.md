@@ -5,13 +5,13 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2017-11-01"
 endDate = "2017-11-19"
-contributors = ["The 64th Gamer","Cyber Snout"]
+contributors = ["The 64th Gamer","Cyber Snout","Ceclife13"]
 citations = []
 pageThumbnailFile = "FjcGseQnZ2gAnu9CI6h6.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
+showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***Chuck E. Cheese's Show 7 2017* released November 1, 2017
-This was created to play from November 1, 2017 - November, 19 2017. This show featured six songs, all being reused.**
+***Chuck E. Cheese's Show 7 2017*** released November 1, 2017
+This was created to play from November 1, 2017 - November, 19 2017. This show featured six songs, all being reused.
 
 ## Show List:
 
@@ -32,7 +32,7 @@ This was created to play from November 1, 2017 - November, 19 2017. This show fe
     2.  Echosmith - 'Right Now'
     3.  Angry Birds - 'Change'
 6. **Skit 3**
-    1.  Munch & Jasper - 'If Everyone We're Chuck E.' (USA Cooperate Locations Only)
+    1.  Munch & Jasper - 'If Everyone Were Chuck E.' (USA Corporate Locations Only)
 7. **Intermission 4**
     1.  Saving Forever - 'Million Ways'
     2.  CEC Buffet Spot
@@ -58,19 +58,19 @@ This was created to play from November 1, 2017 - November, 19 2017. This show fe
 
 ## Lives:
 
-- Birthday Show (3stage, Cyberamic, Studio C,Weigl)
-- Birthday Show (Spanish) (3stage, Cyberamic, Studio C,Weigl)
-- Me & My Friends (3stage, Cyberamic, Studio C,Weigl)
-- Happy Dance (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
-- Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
-- The Roll (3stage, Cyberamic, Studio C,Weigl)
-- Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
-- Head Shoulders, Knees & Toes (Studio C,Weigl)
-- Happy Dance (Spanish) (Studio C,Weigl)
+- Birthday Show 2016 Revised
+- Birthday Show 2015 (Spanish) 
+- Me & My Friends
+- Happy Dance 
+- Chuck E. Says 2014
+- Do The Chuck E. 2015
+- Do The Roll 
+- Happy & You Know It 2014
+- Head Shoulders, Knees & Toes 2013 (Studio C, WEIGL)
+- Happy Dance (Spanish) (Studio C, WEIGL)
 
 ## Trivia:
 
-- 'Dream Big' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}, Nobody Knows is originally from {{< wiki-link "July 2014 Show" >}}, If Everyone We're Chuck E. and Every Boy, Every Girl are originally from {{< wiki-link "Chuck E. Cheese's Show 5 2017" >}}, 'It's A Date' is {{< wiki-link "Chuck E. Cheese's Show 2 2016" >}}, Trio is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}}.
-- For franchised USA Locations If Everyone Was Chuck E. was removed and replaced with nothing.
+- 'Dream Big' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}, Nobody Knows is originally from {{< wiki-link "The Chuck E. Cheese Show" >}}, 'If Everyone Were Chuck E.' and 'Every Boy, Every Girl' are originally from {{< wiki-link "Chuck E. Cheese's Show 5 2017" >}}, 'It's A Date' is {{< wiki-link "Chuck E. Cheese's Show 5 2015" >}}, and 'Trio' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}}.
+- For franchised USA Locations, 'If Everyone Were Chuck E.' does not play.
 - The corner of the screen during intermissions features the 'Chuck E. TV' Logo with fall leaves surrounding it.
