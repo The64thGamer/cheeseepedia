@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Old MacDonald"
-startDate = "2005-01-00"
+startDate = "2005-09-00"
 endDate = "2013-12-31"
 pageThumbnailFile = "cecoldmac2005.avif"
 contributors = ["Ceclife13"]
@@ -57,6 +57,6 @@ The video for this live show was reused from the previous cover of ‘Old MacDon
 | 2011         | {{< wiki-link "Happy Holidays 2011" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2012         | {{< wiki-link "January 2012 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 | 2012         | {{< wiki-link "Spring 2012 Show" >}}                  | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2012         | {{< wiki-link "Summer 2012 Show" >}}                  | Studio C 3X DVD + Floppy |
+| 2012         | {{< wiki-link "Summer 2012" >}}                  | Studio C 3X DVD + Floppy |
 | 2012         | {{< wiki-link "Fall 2012 Show" >}}                  | Studio C 3X DVD + Floppy |
 | 2012         | {{< wiki-link "December 2012 Show" >}}                  | Studio C 3X DVD + Floppy |

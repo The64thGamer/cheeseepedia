@@ -6,7 +6,7 @@ tags = ["Showtape Formats"]
 categories = []
 startDate = ""
 endDate = ""
-contributors = ["Himitsu","The 64th Gamer","CoolerDude"]
+contributors = ["Himitsu","The 64th Gamer","CoolerDude","Ceclife13"]
 citations = []
 pageThumbnailFile = "CCI_000239.avif"
 +++
@@ -21,7 +21,7 @@ The **APS format** is used to store the raw programming data for various animatr
 - **.roa** for Road Stages (1990-1991)
 - **.r12** for Road, 1-Stage, and 2-Stages (1992)
 - **.bzr** for Beach Bowsers
-- **.hlf**, (maybe Half Cyberamics. 1991?)
+- **.hlf** for Cyberamics (1991)
 
 ## Overall format
 
@@ -71,7 +71,7 @@ APS files for showtapes exist for all shows starting sometime in 1990, all the w
 | Show Type  | APS Show                                  | Showtape / Live Show                                  | Earliest File Date              | Latest File Date               | Format     |
 |------------|-------------------------------------------|-------------------------------------------------------|---------------------------------|--------------------------------|------------|
 | 3-Stage    | CEC September '90 3-Stage APS             | {{< wiki-link "CEC September 1990 Show" >}}     | October 10, 1990, 8:43:02 AM    | October 10, 1990, 9:33:00 AM   | .sho       |
-| Cyberamics | CEC Christmas '90 Road Stage APS          | {{< wiki-link "CEC Christmas '90 Wave Bday" >}} | October 26, 1990, 9:57:28 AM    | October 27, 1990, 2:09:08 PM   | .roa       |
+| Cyberamics | CEC Christmas '90 Road Stage APS          | {{< wiki-link "CEC Christmas '90" >}} | October 26, 1990, 9:57:28 AM    | October 27, 1990, 2:09:08 PM   | .roa       |
 | Cyberamics | CEC Jan '91 C-Stage APS                   | {{< wiki-link "CEC Jan '91" >}}                 | October 26, 1990, 4:23:30 PM    | November 14, 1990, 12:35:12 PM | .sho       |
 | Cyberamics | CEC Birthday Wave Road Stage APS          | \---                                                  | October 28, 1990, 9:35:34 AM    | \---                           | .roa       |
 | Cyberamics | CEC Jan '91 Road Stage APS                | {{< wiki-link "CEC Jan '91" >}}                 | October 31, 1990, 3:08:24 PM    | November 4, 1990, 3:23:34 PM   | .roa       |
@@ -106,9 +106,9 @@ APS files for showtapes exist for all shows starting sometime in 1990, all the w
 | Cyberamics | Taking Care of Business C&amp;R APS       | Taking Care of Business, Rhyming Rap                  | November 5, 1991, 6:49:46 PM    | \---                           | .c&amp;r   |
 | Cyberamics | Taking Care of Business Road Stage APS    | Taking Care of Business, Rhyming Rap                  | November 6, 1991, 1:21:52 PM    | \---                           | .roa       |
 | 3-Stage    | Taking Care of Business 3-Stage APS       | Taking Care of Business, Rhyming Rap                  | November 12, 1991, 9:48:10 AM   | \---                           | .3st       |
-| 3-Stage    | CEC Rock It In Space 3-Stage APS          | {{< wiki-link "CEC Rock It In Space" >}}        | November 22, 1991, 6:13:50 PM   | December 6, 1991, 11:27:54 AM  | .3st       |
-| Cyberamics | CEC Rock It In Space Road Stage APS       | {{< wiki-link "CEC Rock It In Space" >}}        | December 9. 1991. 12:11:32 PM   | December 16, 1991, 3:35:28 PM  | .roa       |
-| Cyberamics | CEC Rock It In Space C&amp;R APS          | {{< wiki-link "CEC Rock It In Space" >}}        | December 9, 1991, 3:42:06 PM    | December 13, 1991, 10:08:08 AM | .c&amp;r   |
+| 3-Stage    | CEC Rock It In Space 3-Stage APS          | {{< wiki-link "CEC Rock It Into Space" >}}        | November 22, 1991, 6:13:50 PM   | December 6, 1991, 11:27:54 AM  | .3st       |
+| Cyberamics | CEC Rock It In Space Road Stage APS       | {{< wiki-link "CEC Rock It Into Space" >}}        | December 9. 1991. 12:11:32 PM   | December 16, 1991, 3:35:28 PM  | .roa       |
+| Cyberamics | CEC Rock It In Space C&amp;R APS          | {{< wiki-link "CEC Rock It Into Space" >}}        | December 9, 1991, 3:42:06 PM    | December 13, 1991, 10:08:08 AM | .c&amp;r   |
 | Cyberamics | Birthday Star '92 C&amp;R APS             | {{< wiki-link "Birthday Star '92" >}}           | January 10, 1992, 2:07:34 PM    | \---                           | .c&amp;r   |
 | Cyberamics | Birthday Star '92 Road Stage APS          | {{< wiki-link "Birthday Star '92" >}}           | January 10, 1992, 4:23:02 PM    | \---                           | .roa       |
 | 3-Stage    | Birthday Star '92 3-Stage APS             | {{< wiki-link "Birthday Star '92" >}}           | January 20, 1992, 11:03:56 AM   | \---                           | .3st       |
@@ -124,9 +124,9 @@ APS files for showtapes exist for all shows starting sometime in 1990, all the w
 | Cyberamics | Environment '92 C&amp;R APS               | {{< wiki-link "Environment '92" >}}             | March 30, 1992, 2:30:40         | April 5, 1992, 4:45:36 PM      | .c&amp;r   |
 | Cyberamics | Environment '92 R12 APS                   | {{< wiki-link "Environment '92" >}}             | April 6, 1992, 11:32:50 AM      | April 8, 1992, 9:27:20 AM      | .r12       |
 | 3-Stage    | Environment '92 3-Stage APS               | {{< wiki-link "Environment '92" >}}             | April 10, 1992, 2:25:02 PM      | April 18, 1992, 2:48:26 PM     | .3st       |
-| Cyberamics | Children of America '92 C&amp;R APS       | {{< wiki-link "Children of America '92" >}}     | June 3, 1992, 3:18:08 PM        | June 9, 1992, 9:30:36 AM       | .c&amp;r   |
-| Cyberamics | Children of America '92 R12 APS           | {{< wiki-link "Children of America '92" >}}     | June 3, 1992, 8:37:02 PM        | June 9, 1992, 3:21:46 PM       | .r12       |
-| 3-Stage    | Children of America '92 3-Stage APS       | {{< wiki-link "Children of America '92" >}}     | June 12, 1992, 10:48:18 AM      | June 18, 1992, 3:05:12 PM      | .3st       |
+| Cyberamics | Planes, Trains, and Automobiles C&amp;R APS       | {{< wiki-link "Planes, Trains, And Automobiles" >}}     | June 3, 1992, 3:18:08 PM        | June 9, 1992, 9:30:36 AM       | .c&amp;r   |
+| Cyberamics | Planes, Trains, and Automobiles R12 APS           | {{< wiki-link "Planes, Trains, And Automobiles" >}}     | June 3, 1992, 8:37:02 PM        | June 9, 1992, 3:21:46 PM       | .r12       |
+| 3-Stage    | Planes, Trains, and Automobiles 3-Stage APS       | {{< wiki-link "Planes, Trains, And Automobiles" >}}     | June 12, 1992, 10:48:18 AM      | June 18, 1992, 3:05:12 PM      | .3st       |
 | 3-Stage    | Walking On Sunshine 3-Stage APS           | Walking On Sunshine                                   | July 8, 1992, 2:13:32 PM        | \---                           | .3st       |
 | Cyberamics | Walking On Sunshine C&amp;R APS           | Walking On Sunshine                                   | July 13, 1992, 8:58:28 AM       | \---                           | .c&amp;r   |
 | Cyberamics | Walking On Sunshine R12 APS               | Walking On Sunshine                                   | July 13, 1992, 2:04:54 PM       | \---                           | .r12       |

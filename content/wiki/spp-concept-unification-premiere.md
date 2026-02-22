@@ -83,7 +83,7 @@ This show was created to introduce the Chuck E. Cheese characters for ShowBiz Pi
 
 ### Concept Unification
 
-The tape came with the entire {{< wiki-link "Concept Unification" >}} package, which included a special backup {{< wiki-link "SPP Concept Unification Emergency Backup Tape" >}}, the last Rock-afire showtape {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}, and its own backup tape, being SPP Rolfe & Earl Emergency Backup Tape, along with other material.
+The tape came with the entire {{< wiki-link "Concept Unification" >}} package, which included a special backup {{< wiki-link "SPP Concept Unification Emergency Backup Tape" >}}, the last Rock-afire showtape {{< wiki-link "SPP Rolfe & Earl" >}}, and its own backup tape, being SPP Rolfe & Earl Emergency Backup Tape, along with other material.
 During the Concept Unification conversion process, the Rolfe & Earl stage would be kept up while the store was open, so the character could perform alongside this tape. A special Rolfe & Earl birthday was included for any potential birthday parties while the other stages were still under construction. The Rolfe & Earl stage would then be dismantled and turned into Chuck E.'s stage overnight, allowing Concept Unification Premiere to be ready the next morning.
 Concept Unification Premiere was the only full showtape to be agnostic from any set premiere dates. Stores would always play this as their first 3-Stage tape, then switch to the current showtape after a few weeks. This lasted from 1990 to 1993 throughout the Concept Unification process.
 
@@ -99,19 +99,19 @@ This showtape included video segments from other ShowBiz Pizza Place & Chuck E. 
 - *Animal Babies in the Wild - Let's All Do the Hop*
   - CEC Neighbors / Dreams
   - {{< wiki-link "SPP Faith / Dreams / Kids" >}}
-  - {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}
+  - {{< wiki-link "SPP Rolfe & Earl" >}}
   - {{< wiki-link "SPP Emergency Backup Tape" >}}
 - *Song City U.S.A - Dinosaurs (We Adore Dinosaurs)*
   - CEC Kids / American Pride
-  - {{< wiki-link "SPP April 1990 Show" >}}
+  - {{< wiki-link "SPP Moms / TV Themes / Neighbors" >}}
   - {{< wiki-link "SPP Emergency Backup Tape" >}}
 - [*CGI Animated Graphics*](https://en.wikipedia.org/wiki/Odyssey_Productions)
   - CEC ???
-  - {{< wiki-link "SPP FriendsMomsTVThemes" >}}
+  - {{< wiki-link "SPP Friends / Moms / TV Themes" >}}
 
 
 ## Trivia
 
-- The intermission music would be recycled for {{< wiki-link "CEC September 1990 Show" >}}, and would also be used for its counterpart {{< wiki-link "SPP Best Of 1 KidsFriends" >}} (Without the last two songs).
+- The intermission music would be recycled for {{< wiki-link "CEC September 1990 Show" >}}, and would also be used for its counterpart {{< wiki-link "SPP Best Of 1 Kids / Friends" >}} (Without the last two songs).
 - The Dallas (Montfort Dr.), Texas ShowBiz was the first location to receive this show in 1990.
 - Because this show was created before a proper Helen Henny walkaround with her CU design, a modified latex mask of her was put on top of an existing Mitzi Mozzarella head frame.

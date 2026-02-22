@@ -4,6 +4,6 @@ tags = ["Photos"]
 categories = []
 startDate = ""
 draft = false
-pages = ["CEC American Pride Neighbors"]
+pages = ["CEC American Pride / Neighbors"]
 citations = []
 +++

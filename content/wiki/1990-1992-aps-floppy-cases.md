@@ -5,7 +5,7 @@ tags = ["History"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","Himitsu","Anonymous"]
+contributors = ["The 64th Gamer","Himitsu","Anonymous","Ceclife13"]
 citations = []
 +++
 The ***1990-1992 APS Floppy Cases* is a collection of 5 floppy disk cases containing floppy discs with {{< wiki-link "Animation Programming System" >}} showtapes on them**
@@ -17,29 +17,25 @@ These cases would stay in storage at the {{< wiki-link "ShowBiz Pizza Time Corpo
 
 ## Showtapes
 
-The shows on the discs are from October 10, 1990 to August 20, 1992, covering full showtapes, :Category:Live Shows|Live Shows, Birthday Shows, and Random Movements.
+The shows on the discs are from October 10, 1990 to August 20, 1992, covering full showtapes for 3-Stage, Cyberamics and Cabaret, Live Shows, Birthday Shows, and Random Movements.
 
-- {{< wiki-link "CEC September 1990 Show" >}} (September)
 - {{< wiki-link "CEC September 1990 Show" >}} (October)
-- {{< wiki-link "CEC Christmas '90 Wave Bday" >}} (November 9)
+- {{< wiki-link "CEC Christmas '90" >}} (November 9)
 - {{< wiki-link "CEC Jan '91" >}} (December 10)
 - {{< wiki-link "Chuck E. Cheese's Live 90" >}} (December 31)
 - {{< wiki-link "CEC Beach Bowzers Showtape" >}} (March 11)
 - {{< wiki-link "CEC Future" >}} (March 14)
-- Concept Unification Diagnostics Tape 1 (March 14)
-- Concept Unification Diagnostics Tape 2 (March 14)
 - {{< wiki-link "CEC American Pride" >}} (May 7)
 - CEC TV Classics '91 (June)
 - {{< wiki-link "CEC Games" >}} (July 9)
 - {{< wiki-link "Land Of 1,000 Dances" >}} (September)
 - {{< wiki-link "CEC September 1991 Show" >}} (September 10)
 - {{< wiki-link "CEC Xmas 1991 Show" >}} (December 6)
-- {{< wiki-link "CEC Rock It In Space" >}} (December 11)
+- {{< wiki-link "CEC Rock It Into Space" >}} (December 11)
 - Taking Care of Business, Rhyming Rap (January)
 - {{< wiki-link "Physical Fitness" >}} (February 14)
 - {{< wiki-link "Environment '92" >}} (April 4)
 - {{< wiki-link "Dance To The Music" >}} (May)
-- {{< wiki-link "Children of America '92" >}} (June)
 - {{< wiki-link "Planes, Trains, And Automobiles" >}} (July 6)
 - Walking On Sunshine (August)
 - {{< wiki-link "Working For A Living" >}} (September 14)

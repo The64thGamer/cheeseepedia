@@ -4,9 +4,9 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = "CUDiagnostics91Tape2.avif"
-startDate = "1991-03-00"
+startDate = "1991-03-14"
 endDate = "1993-05-00"
-contributors = []
+contributors = ["Cyber Snout","Ceclife13"]
 +++
 ***Concept Unification Diagnostics Tape 2*** was the first diagnostics tape released for the {{< wiki-link "Concept Unification Stage" >}}. This would be used to diagnose any issues with the show. Tape 2 goes over Props (Building, Moon, Wink, Munch Jr. Dual Pressure), Curtains, Spot Lights, Stage Right Lights, Stage Center Lights, Stage Left Lights, Helicopter Light, Socket Test Center Stage Ceiling Green, and Big Screen TV. In May 1993 {{< wiki-link "3-Stage Diagnostic Tape 1993" >}} would replace Concept Unification Diagnostics Tape 1 and Tape 2. 
 

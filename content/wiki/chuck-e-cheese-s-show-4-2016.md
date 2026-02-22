@@ -10,8 +10,8 @@ citations = []
 pageThumbnailFile = "DB_QlDaXqRRFTPkZskmQ.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]
 +++
-***Chuck E. Cheese's Show 4 2016* released May 23th 2016 featuring four songs
-This was created to play from May 23th, 2016 - June 26th, 2016. This show features five songs and one new programmed promo.**
+***Chuck E. Cheese's Show 4 2016*** released May 23th 2016 featuring four songs
+This was created to play from May 23th, 2016 - June 26th, 2016. This show features five songs, as well as a newly programmed skit.
 
 ## Show List:
 
@@ -54,22 +54,22 @@ This was created to play from May 23th, 2016 - June 26th, 2016. This show featur
 
 ## Lives:
 
-- Chuck E. Birthday 2016 (3stage, Cyberamic, Studio C,Weigl)
-- Spanish Birthday (3stage, Cyberamic, Studio C,Weigl)
-- Short Birthday (Solo Child) (3stage, Cyberamic, Studio C,Weigl)
-- Happy Dance (3stage, Cyberamic, Studio C,Weigl)
-- Do The Chuck E. (3stage, Cyberamic, Studio C,Weigl)
-- Do The Roll (3stage, Cyberamic, Studio C,Weigl)
-- Chuck E. Says (3stage, Cyberamic, Studio C,Weigl)
-- Happy & You Know It (3stage, Cyberamic, Studio C,Weigl)
-- Head Shoulders Knees Toes (3stage, Cyberamic, Studio C,Weigl)
+- Chuck E. Birthday 2016
+- Spanish Birthday 2015
+- Short Birthday (Solo Child)
+- Happy Dance
+- Do The Chuck E. 2015
+- Do The Roll
+- Chuck E. Says 2014
+- Happy & You Know It 2014
+- Head Shoulders Knees Toes 2013
 
 ## Trivia:
 
 - Happy Birthday, Helen reuses Dialogue from 'Gamin' Time' when she says 'Thanks, Chuck E.'
-- 'In The Future' is originally from {{< wiki-link "Chuck E. Cheese's Show 2 2015" >}}, 'Nobody Knows' is originally from {{< wiki-link "July 2014 Show" >}}, 'Arizona' is originally from {{< wiki-link "July 2014 Show" >}}, 'Gamin' Time' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2016" >}}, and 'Party With You' is originally from Chuck E. Cheese's Winter 2015|Winter 2015
-- 'Gamin' Time' was re-released for this show but with text added onto the screen stating 'We are celebrating Helen's birthday!' after that for the rest of the song giving facts about Helen's Life. Here are now all the facts shown on the video. 'Helen Henny was born May 27th and grew up in New York City', 'Helen is a serious gamer!', 'Years ago, Helen met Chuck E. in a arcade and challenged him to a Pong tournament', 'Helen ultimately won that day, earning Chuck E.'s respect.', 'She then broke into a victory song.', 'When it came for Chuck E. to add a singer to his band, guess who he called?!', and last 'Helen has 2 brothers named Henry & Harvey'. Once the song is over the text 'Happy Birthday, Helen Henny' Shows up on screen.
-- 'Party With You' was slightly re-edited to add 'The Chuck E. Cheese Show' intro originally from 'Friendship Never Ends' due to the Act format that was originally used with Chuck E. Cheese's Winter 2015|Winter 2015.
-- On the Newsletter for Show 4 2016 'Arizona' was forgotten on the news letter between 'Caspar Babypants - 'I Found You' and 'Sigala - 'Easy Love'
-- 'Happy Dance' was reprogrammed but for Weigl based stores.
-- 'In The Future' was reprogrammed which was adding more movements to the original programming and redoing all the lighting.
+- 'In The Future' is originally from {{< wiki-link "Chuck E. Cheese's Show 2 2015" >}}, 'Nobody Knows' and 'Arizona' are originally from {{< wiki-link "The Chuck E. Cheese Show" >}}, 'Gamin' Time' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2016" >}}, and 'Party With You' is originally from {{< wiki-link "Chuck E. Cheese's Winter 2015 Show" >}}.
+- 'Gamin' Time' has text added onto the screen for Helen's birthday. It starts out saying 'We are celebrating Helen's birthday!', then for the rest of the song gives facts about Helen's Life. The text throughout the video says 'Helen Henny was born May 27th and grew up in New York City', 'Helen is a serious gamer!', 'Years ago, Helen met Chuck E. in a arcade and challenged him to a Pong tournament', 'Helen ultimately won that day, earning Chuck E.'s respect.', 'She then broke into a victory song.', 'When it came for Chuck E. to add a singer to his band, guess who he called?!', and last 'Helen has 2 brothers named Henry & Harvey'. Once the song is over, the text 'Happy Birthday, Helen Henny' shows up on screen.
+- 'Party With You' was re-edited for this show to remove most shots featuring the 'Battle of the Bands' board, and adds the logo of {{< wiki-link "The Chuck E. Cheese Show" >}}.
+- On the Newsletter for this show, 'Arizona' was not listed.
+- 'Happy Dance' was reprogrammed  for Weigl-based stores.
+- 'In The Future' was reprogrammed to add more movements to the original programming and redo all the lighting.

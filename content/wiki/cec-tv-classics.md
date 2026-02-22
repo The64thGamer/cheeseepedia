@@ -12,7 +12,7 @@ citations = []
 downloadLinks = ["https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20TV%20Classics/027-0705-90%20s001.wav|Showtape Rip w/ Signals"]
 +++
 
-***CEC TV Classics*** is a showtape released in July 1990, which featured covers of various TV theme songs. The intermission lineup of songs & videos is from {{< wiki-link "SPP FriendsMomsTVThemes" >}} the counterpart showtape released around the same time frame. 
+***CEC TV Classics*** is a showtape released in July 1990, which featured covers of various TV theme songs. The intermission lineup of songs & videos is from {{< wiki-link "SPP Friends / Moms / TV Themes" >}} the counterpart showtape released around the same time frame. 
 
 ## SVHS Show List:
 

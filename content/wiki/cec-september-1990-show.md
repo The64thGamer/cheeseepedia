@@ -136,4 +136,4 @@ All three segments' files were last updated on October 10, 1990, a month after t
 
 ## Trivia
 
-- The intermission music for this showtape is the same as {{< wiki-link "SPP Concept Unification Premiere" >}} and {{< wiki-link "SPP Best Of 1 KidsFriends" >}} (Only is missing two songs from those shows).
+- The intermission music for this showtape is the same as {{< wiki-link "SPP Concept Unification Premiere" >}} and {{< wiki-link "SPP Best Of 1 Kids / Friends" >}} (Only is missing two songs from those shows).
