@@ -3675,5 +3675,17 @@
     "rank": "Bankruptcy",
     "gradient_start": "#464141",
     "gradient_end": "#464141"
+  },
+  {
+    "id": 103,
+    "username": "SaturdayKnight99",
+    "name": null,
+    "avatar_template": "/user_avatar/forum.cheeseepedia.org/saturdayknight99/{size}/1405_2.png",
+    "title": null,
+    "trust_level": 0,
+    "contribution_count": 0,
+    "rank": "Bankruptcy",
+    "gradient_start": "#464141",
+    "gradient_end": "#464141"
   }
 ]

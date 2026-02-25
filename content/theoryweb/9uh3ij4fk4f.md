@@ -3,7 +3,7 @@ title = "Intro Newspaper"
 pageThumbnailFile = "fsn43ijkt34.avif"
 startDate = "2014-08-08"
 contributors = ["The 64th Gamer"]
-tags = ["Newspaper","Advertisement","Freddy Fazbear","Photograph","Red Writing","Black Writing","Typed Writing","Phone Number","Monochrome","Meta","Night 1","Intro","Five Nights at Freddy's (Game)","Courier (Font)"]
+tags = ["Newspaper","Advertisement","Freddy Fazbear","Photograph","Red Writing","Black Writing","Typed Writing","Phone Number","Monochrome","Meta","Night 1","Intro","Five Nights at Freddy's (Game)","Courier (Font)","Microphone","Top Hat","Bowtie","Animatronic"]
 type = "Images"
 +++
 <div class="ocr-wrap">
