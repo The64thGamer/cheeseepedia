@@ -3,25 +3,26 @@ title = "Intro Newspaper"
 pageThumbnailFile = "fsn43ijkt34.avif"
 startDate = "2014-08-08"
 contributors = ["The 64th Gamer"]
-tags = ["Newspaper","Advertisement","Freddy Fazbear","Photograph","Red Writing","Black Writing","Typed Writing","Phone Number","Monochrome","Meta","Night 1","Intro","Five Nights at Freddy's (Game)","Courier (Font)"]
+tags = ["Newspaper", "Advertisement", "Freddy Fazbear", "Photograph", "Red Writing", "Black Writing", "Typed Writing", "Phone Number", "Monochrome", "Meta", "Night 1", "Intro", "Five Nights at Freddy's (Game)", "Courier (Font)", "Microphone", "Tophat", "Bowtie", "Animatronic"]
 type = "Images"
+draft = false
 +++
 <div class="ocr-wrap">
-  <img src="574.png" alt="">
-  <div class="ocr-region" style="left:20%;top:11.25%;width:53.125%;height:13.556%;transform:rotate(-7.5deg)" data-tip="HELP WANTED"></div>
-  <div class="ocr-region" style="left:22.891%;top:28.472%;width:51.953%;height:6.75%;transform:rotate(-8deg)" data-tip="Freddy Fazbear's Pizza"></div>
-  <div class="ocr-region" style="left:53.516%;top:30%;width:25.937%;height:16.055%;transform:rotate(-7.5deg)" data-tip="Family pizzeria looking for security gaurd to work the nightshift.
+<img src="fsn43ijkt34.avif" alt="">
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-7.5deg)" data-tip="HELP WANTED"></div>
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-8deg)" data-tip="Freddy Fazbear's Pizza"></div>
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-7.5deg)" data-tip="Family pizzeria looking for security gaurd to work the nightshift.
 12 am to 6 am."></div>
-  <div class="ocr-region" style="left:54.532%;top:48.75%;width:26.016%;height:12.167%;transform:rotate(-7.5deg)" data-tip="Monitor cameras, ensure safety of equipment and animatronic characters.
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-7.5deg)" data-tip="Monitor cameras, ensure safety of equipment and animatronic characters.
 "></div>
-  <div class="ocr-region" style="left:57.969%;top:63.333%;width:24.297%;height:8.417%;transform:rotate(-7.5deg)" data-tip="Not responsible for injury/dismemberment."></div>
-  <div class="ocr-region" style="left:61.953%;top:73.611%;width:21.172%;height:13.139%;transform:rotate(-7.5deg)" data-tip="$120 a week.
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-7.5deg)" data-tip="Not responsible for injury/dismemberment."></div>
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-7.5deg)" data-tip="$120 a week.
 To apply call:
 1-555-FAZ-FAZBEAR"></div>
-  <div class="ocr-region" style="left:33.906%;top:96.111%;width:18.984%;height:7.166%;transform:rotate(-4deg)" data-tip="Blah. Blah"></div>
-  <div class="ocr-region" style="left:54.688%;top:92.917%;width:30.156%;height:13%;transform:rotate(-7deg)" data-tip="Blah. Blah. Blah, Blah. Blah. This ad has nothing to do with
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-4deg)" data-tip="Blah. Blah"></div>
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-7deg)" data-tip="Blah. Blah. Blah, Blah. Blah. This ad has nothing to do with
 to the game."></div>
-<div class="ocr-region" style="left:0%;top:41.111%;width:13.984%;height:53.555%;transform:rotate(-7.5deg)" data-tip="ah. Blah. Blah, Blah. nothing to do with
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-7.5deg)" data-tip="ah. Blah. Blah, Blah. nothing to do with
 relevant to the game.
 Blah. Blah. Blah.
 Blah. Blah. Blah.
@@ -34,7 +35,7 @@ warehouse. They are all respectable jobs, and you
 won't be killed doing
 you might. But it
 unlikely. Blah. Blah."></div>
-  <div class="ocr-region" style="left:80.078%;top:0.347%;width:17.051%;height:43.59%;transform:rotate(-6.5deg)" data-tip="Yackity
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-6.5deg)" data-tip="Yackity
 This probably isn't
 choice of a summer
 you most likely won't
@@ -45,7 +46,7 @@ very respectable
 probably won't be
 them. Well, you
 would be unlikely"></div>
-  <div class="ocr-region" style="left:83.398%;top:45.313%;width:17.344%;height:57.653%;transform:rotate(-7deg)" data-tip="Blah. Blah. Blah
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-7deg)" data-tip="Blah. Blah. Blah
 This ad has nothing
 anything relevant
 Blah. Blah. Blah.
@@ -59,10 +60,10 @@ the week. I'd
 a cashier,
 in a warehouse
 very respectable"></div>
-  <div class="ocr-region" style="left:14.941%;top:0%;width:41.074%;height:11.646%;transform:rotate(-8deg)" data-tip="probably
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-8deg)" data-tip="probably
 them. Well, you
 would be unlikely. Blah. Blah."></div>
-  <div class="ocr-region" style="left:0%;top:2.257%;width:10.997%;height:34.215%;transform:rotate(-7deg)" data-tip="Blah. Blah.
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(-7deg)" data-tip="Blah. Blah.
 Blah. Blah.
 isn't the best
 job, since
@@ -74,10 +75,5 @@ jobs, and you
 be killed doing
 might. But it
 unlikely. Blah. Blah."></div>
-  <div class="ocr-region" style="left:0.977%;top:95.486%;width:20.078%;height:4.527%;transform:rotate(0deg)" data-tip="Blah. Blah"></div>
+<div class="ocr-region" style="left:0%;top:0%;width:0%;height:0%;transform:rotate(0deg)" data-tip="Blah. Blah"></div>
 </div>
-<h2>Insights</h2>
-
-* Each of the blurred paragraphs surrounding the main advertisement are of the same text. The pieced together paragraph reads:
-
-  "Blah. Blah. Blah. Blah. Blah. This ad has nothing to do with anything relevant to the game. Blah. Blah. Blah. Blah. Blah. Chances are you won't make it past night three. Blah. Blah. Yackity smackity. Blah. Blah. This probably isn't the best choice of a summer job, since you most likely won't survive the week. I'd recommend being a cashier, sack boy, or work in a warehouse. Those are all very respectable jobs, and you probably won't be killed doing them. Well, you might, but it would be unlikely. Blah. Blah."
