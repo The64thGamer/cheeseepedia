@@ -12,9 +12,6 @@ Thank you for wanting to contribute to {{< wiki-link "Cheese-E-Pedia" >}}! Check
   * {{< wiki-link "New Fandom Member FAQ" >}}
   * {{< wiki-link "Site Guidelines & Rules" >}}
   * {{< wiki-link "Cheese-E-Pedia" >}}
-  * {{< wiki-link "Error Checker" >}}
-  * {{< wiki-link "Editing Cheese-E-Pedia in DecapCMS" >}}
-      * This covers simple steps for most everyday users to work on site content.
   * {{< wiki-link "Editing Cheese-E-Pedia in Local Environments" >}}
       * This covers advanced steps for admins or power users to make advanced edits or to work on site layout changes.
 
