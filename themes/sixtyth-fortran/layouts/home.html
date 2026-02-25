@@ -8,7 +8,6 @@
     <button class="tab-button" data-tab="videos">New Videos</button>
     <button class="tab-button" data-tab="graphs">Stats</button>
     <button class="tab-button" data-tab="wikigraphs">Wiki Stats</button>
-    <button class="tab-button" data-tab="errorchecker">Error Checker</button>
   </div>
 
   <div class="tab-content">
@@ -49,6 +48,8 @@
       {{ partial "LineGraphs.html" (dict "id" "showtapes-2" "data" .Site.Data.graphs.avg_media_duration_live_shows "height" 300 "width" 900) }}
     </div>
     <div class="tab-panel" id="wikigraphs">
+      <h2>User List</h2>
+      {{ partial "list-users.html" . }}
       <div class="row" style="display: flex;">
         <div class="column" style="flex: 50%; max-width:50%">
           <h2>Articles Scored by Quality</h2>
@@ -70,11 +71,6 @@
       <h2>Article Quality by Historical Date</h2>
       {{ partial "LineGraphs.html" (dict "id" "openings-11" "data" .Site.Data.graphs.article_ratings_score_by_year "height" 300 "width" 900) }}
     </div>  
-
-    <div class="tab-panel" id="errorchecker">
-      <h2>User List</h2>
-      {{ partial "list-users.html" . }}
-    </div>
 
     <div class="tab-panel" id="errorchecker">
       <h2>All Categories</h2>

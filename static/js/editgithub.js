@@ -168,7 +168,7 @@
     return `[${arr.map(s => `"${toTomlStr(s)}"`).join(', ')}]`;
   }
 
-  const INLINE_ARRAY_KEYS = new Set(['citations', 'downloadLinks', 'tags']);
+  const INLINE_ARRAY_KEYS = new Set(['citations', 'downloadLinks', 'tags', 'categories', 'latitudeLongitude']);
 
   function applyFMUpdates(fm, updates) {
     const PROTECTED = new Set(['draft', 'contributors', 'title']);
@@ -574,7 +574,7 @@
   let twCurrentType   = '';
   let twPendingFile   = null; // File object for a newly chosen image
   let twImageFilename = '';   // existing pageThumbnailFile value
-  // twOcrRegions declared in outer scope, set by loadMarkdownFile
+  let twOcrRegions    = [];   // parsed from existing Images page content
 
   function applyTheorywebContentArea(type) {
     twCurrentType = type;
@@ -623,9 +623,8 @@
     function pct(v)  { return Math.round(v * 1000) / 1000; }
 
     // Parse existing content HTML for ocr-region divs
-    if (!isNewPage && twImageFilename) {
-      const rawContent = twOcrRegions; // pre-parsed array set during loadMarkdownFile
-      regions = rawContent.map(r => ({ ...r, id: genId() }));
+    if (!isNewPage && twOcrRegions.length) {
+      regions = twOcrRegions.map(r => ({ ...r, id: genId() }));
     }
 
     mount.style.cssText = 'display:flex; flex-direction:column; gap:0.75rem; margin-bottom:1rem;';
@@ -975,21 +974,20 @@
   // ─── PARSE OCR REGIONS FROM EXISTING CONTENT ─────────────────────────────
 
   function parseOcrRegionsFromContent(contentHtml) {
-    const re = /class="ocr-region"[^>]*style="([^"]*)"[^>]*data-tip="([^"]*)"/g;
     const results = [];
+    const re = /class="ocr-region"[^>]*style="([^"]*)"[^>]*data-tip="([\s\S]*?)"/g;
     let m;
     while ((m = re.exec(contentHtml)) !== null) {
-      const styleStr = m[1];
-      const text     = m[2].replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"');
-      const get = (prop) => {
-        const match = styleStr.match(new RegExp(prop + ':\s*([\d.]+)%'));
-        return match ? parseFloat(match[1]) : 0;
-      };
-      const rotMatch = styleStr.match(/rotate\(([\d.-]+)deg\)/);
+      const s    = m[1];
+      const text = m[2].replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"');
+      const n = (rx) => { const r = s.match(rx); return r ? parseFloat(r[1]) : 0; };
       results.push({
-        x: get('left'), y: get('top'), w: get('width'), h: get('height'),
-        rot: rotMatch ? parseFloat(rotMatch[1]) : 0,
-        text
+        x:   n(/left:([\d.]+)%/),
+        y:   n(/top:([\d.]+)%/),
+        w:   n(/width:([\d.]+)%/),
+        h:   n(/height:([\d.]+)%/),
+        rot: n(/rotate\(([-\d.]+)deg\)/),
+        text,
       });
     }
     return results;
@@ -1409,7 +1407,8 @@
         if (key === 'title' || key === 'startDate' || key === 'contributors' || key === 'tags') continue;
         if (value === '' || value == null) continue;
         if (Array.isArray(value)) {
-          fm += `\n${key} = ${tomlStringArray(value)}`;
+          const serialized = INLINE_ARRAY_KEYS.has(key) ? tomlInlineArray(value) : tomlStringArray(value);
+          fm += `\n${key} = ${serialized}`;
         } else {
           fm += `\n${key} = "${toTomlStr(String(value))}"`;
         }
@@ -1978,7 +1977,7 @@ startDate = "${dateStr}"
 citations = []
 pages = ["${safeTitle(currentPageTitle)}"]
 tags = ["Photos"]
-categories = ${JSON.stringify(currentPageCategories || [])}
+categories = ${tomlInlineArray(currentPageCategories || [])}
 +++
 ${desc}`
         }));
