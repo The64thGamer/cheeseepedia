@@ -2,7 +2,7 @@
 title = "Five Nights at Freddy's Official Trailer"
 startDate = "2014-08-08"
 contributors = ["The 64th Gamer"]
-videoLink = "https://youtu.be/GS-VcKmK7Gc"
+videoLink = "https://youtu.be/RP4UTOek0-Y"
 tags = ["Five Nights at Freddy's (Game)","Freddy Fazbear","Bonnie","Chica","Show Stage","Cupcake","Dining Area", "Glowing Eyes", "West Hall","Running", "Glowing Pupils","Red Pupils","Jumpscare","Cameras"]
 type = "Videos"
 +++
