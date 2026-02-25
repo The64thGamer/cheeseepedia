@@ -3,18 +3,19 @@ title = "Chuck E. Cheese Evergreen 2026 Show"
 startDate = "2025-12-29"
 endDate = ""
 pageThumbnailFile = "evergreen2026.avif"
-contributors = ["Cyber Snout", "Anonymous"]
+contributors = ["Cyber Snout", "Anonymous", "CyberSnout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Media Navori"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
+draft = false
 +++
 **Chuck E. Cheese Evergreen 2026 Show** was released on December 29, 2026.
 
 ## Show list 02/16 Update:
 
 1. Intermission 1
-    1. Harlem Globetrotters - 'Ways We Celebrate' 
+    1. Harlem Globetrotters - 'Ways We Celebrate'
     2. Paris & Pups - Valentine's Day Dance Party'
     3. Chuck E. Cheese - 'Rainbow Hamster Family'
     4. Chuck E. & Friends - 'Because We're Friends' (2025)
@@ -45,7 +46,8 @@ categories = ["Chuck E. Cheese's"]
     29. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
     30. Chuck E. Cheese - 'Another Chuck E. Day'
     31. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
-    32. KIDZ BOP Kids - 'Certified Bop'
+    32. Paris & Pups 'Paris Hilton - SPARKLE ON!'
+    33. KIDZ BOP Kids - 'Certified Bop'
 
 ## Lives 02/16 Update:
 
@@ -238,3 +240,4 @@ categories = ["Chuck E. Cheese's"]
 2. 01/22 Update - 'Paris & Pups - Sliving in The Show' is replaced with 'Paris & Pups - Valentines Day Dance Party'
 3. 02/13 Update - 'Paris & Pups Episode 1 - 'Teamwork to Make Music' replaced Paris & Pups Episode 19 - 'Valentine's Day Dance Party', 'Paris & Pups Episode 13 - 'Sliving in the Show', and 'Paris & Pups 'Paris Hilton - SPARKLE ON!' are added.
 4. 02/16 Update - 'Paris & Pups Episode 1 - 'Teamwork to Make Music', 'Paris & Pups - 'Paris Hilton - SPARKLE ON!' and 'Paris & Pups Episode 13 - 'Sliving in the Show' are removed. Paris & Pups - Valentine's Day Dance Party' is re-added.
+5. 02/20 Update - Paris & Pups 'Paris Hilton - SPARKLE ON!' is re-added.
