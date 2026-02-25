@@ -8,6 +8,7 @@
     <button class="tab-button" data-tab="videos">New Videos</button>
     <button class="tab-button" data-tab="graphs">Stats</button>
     <button class="tab-button" data-tab="wikigraphs">Wiki Stats</button>
+    <button class="tab-button" data-tab="errorchecker">Error Checker</button>
   </div>
 
   <div class="tab-content">
@@ -69,6 +70,46 @@
       <h2>Article Quality by Historical Date</h2>
       {{ partial "LineGraphs.html" (dict "id" "openings-11" "data" .Site.Data.graphs.article_ratings_score_by_year "height" 300 "width" 900) }}
     </div>  
+
+    <div class="tab-panel" id="errorchecker">
+      <h2>User List</h2>
+      {{ partial "list-users.html" . }}
+    </div>
+
+    <div class="tab-panel" id="errorchecker">
+      <h2>All Categories</h2>
+      <p>Double check no strange categories have been created!</p>
+      {{ partial "categories.html" . }}
+      <hr />
+      <h2>All Tags</h2>
+      <p>Double check no strange tags have been created!</p>
+      {{ partial "tags.html" . }}
+      <hr />
+      <h2>Uncategorized Pages</h2>
+      <p>These pages need categories otherwise it's hard to filter!</p>
+      {{ partial "uncategorized-pages.html" . }}
+      <hr />
+      <h2>Uncategorized Photos</h2>
+      <p>These photos need categories otherwise it's hard to filter!</p>
+      {{ partial "uncategorized-photos.html" . }}
+      <hr />
+      <h2>Untagged Pages</h2>
+      <p>These pages need tags, otherwise nobody can find them!</p>
+      {{ partial "untagged-pages.html" . }}
+      <hr />
+      <h2>Untagged Photos</h2>
+      <p>These photos need links to other pages, otherwise nobody can find them!</p>
+      {{ partial "untagged-photos.html" . }}
+      <hr />
+      <h2>Photo Pages Missing Files</h2>
+      <p>Photo .html pages that link to a nonexisting photo.</p>
+      {{ partial "missing-photos.html" . }}
+      <hr />
+      <h2>Photo Files Missing Pages</h2>  
+      <p>Photos that have no .html file describing them or anything.</p>
+      {{ partial "unused-photos.html" . }}
+    </div>
+
   </div>
 </div>
 <hr>
