@@ -16,6 +16,26 @@
       "trust_level": 3
     },
     {
+      "id": 67,
+      "username": "Jeff.Marks",
+      "name": null,
+      "avatar_template": "/letter_avatar_proxy/v4/letter/j/edb3f5/{size}.png",
+      "primary_group_name": "BankruptcyBelievers",
+      "flair_name": "BankruptcyBelievers",
+      "flair_url": "building-columns",
+      "flair_bg_color": "352240",
+      "flair_color": "FFFFFF",
+      "flair_group_id": 41,
+      "trust_level": 1
+    },
+    {
+      "id": 61,
+      "username": "cmsentance-byte",
+      "name": "Cmsentance Byte",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/cmsentance-byte/{size}/908_2.png",
+      "trust_level": 1
+    },
+    {
       "id": 17,
       "username": "PizzaEntertainment",
       "name": "Pizza Entertainment Fan",
@@ -150,13 +170,6 @@
       "flair_color": "FFFFFF",
       "flair_group_id": 41,
       "trust_level": 2
-    },
-    {
-      "id": 61,
-      "username": "cmsentance-byte",
-      "name": "Cmsentance Byte",
-      "avatar_template": "/user_avatar/forum.cheeseepedia.org/cmsentance-byte/{size}/908_2.png",
-      "trust_level": 1
     },
     {
       "id": 16,
@@ -310,7 +323,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 96,
+        "views": 231,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -335,14 +348,14 @@
         "id": 284,
         "title": "Scott Drake Makes First Statement as CEO",
         "slug": "scott-drake-makes-first-statement-as-ceo",
-        "posts_count": 2,
+        "posts_count": 4,
         "reply_count": 0,
-        "highest_post_number": 2,
+        "highest_post_number": 4,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a4f7ca0dc8cf23038866c1201ba79ae0fe904939_2_682x1024.jpeg",
         "created_at": "2026-02-18T20:14:31.564Z",
-        "last_posted_at": "2026-02-19T19:51:06.291Z",
+        "last_posted_at": "2026-02-22T04:07:02.250Z",
         "bumped": true,
-        "bumped_at": "2026-02-19T19:51:06.291Z",
+        "bumped_at": "2026-02-22T04:07:02.250Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -407,23 +420,37 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 186,
-        "like_count": 2,
+        "views": 298,
+        "like_count": 3,
         "has_summary": false,
-        "last_poster_username": "The-64th-Gamer",
+        "last_poster_username": "cmsentance-byte",
         "category_id": 5,
-        "op_like_count": 1,
+        "op_like_count": 2,
         "pinned_globally": false,
         "featured_link": null,
         "has_accepted_answer": false,
         "can_vote": false,
         "posters": [
           {
-            "extras": "latest single",
-            "description": "Original Poster, Most Recent Poster",
+            "extras": null,
+            "description": "Original Poster",
             "user_id": 1,
             "primary_group_id": 41,
             "flair_group_id": 41
+          },
+          {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 67,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": "latest",
+            "description": "Most Recent Poster",
+            "user_id": 61,
+            "primary_group_id": null,
+            "flair_group_id": null
           }
         ]
       },
@@ -506,7 +533,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 280,
+        "views": 311,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -580,7 +607,7 @@
         ],
         "tags": [],
         "tags_descriptions": {},
-        "views": 216,
+        "views": 244,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -671,7 +698,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 446,
+        "views": 478,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "Ceclife13",
@@ -776,7 +803,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 147,
+        "views": 159,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "CECmodesto81",
@@ -873,7 +900,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 302,
+        "views": 323,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -970,7 +997,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 372,
+        "views": 386,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1067,7 +1094,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 359,
+        "views": 365,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "RazorKatxD",
@@ -1171,7 +1198,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 242,
+        "views": 245,
         "like_count": 8,
         "has_summary": false,
         "last_poster_username": "Cody",
@@ -1275,7 +1302,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 1784,
+        "views": 1824,
         "like_count": 20,
         "has_summary": false,
         "last_poster_username": "RazorKatxD",
@@ -1400,7 +1427,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 270,
+        "views": 277,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "crunchybeans",
@@ -1498,7 +1525,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 221,
+        "views": 228,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1581,7 +1608,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 194,
+        "views": 199,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "randomguyfan22-maker",
@@ -1686,7 +1713,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 235,
+        "views": 242,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -1777,7 +1804,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 343,
+        "views": 347,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "PizzaEntertainment",
@@ -1888,7 +1915,7 @@
           "chuck-e-cheese"
         ],
         "tags_descriptions": {},
-        "views": 160,
+        "views": 162,
         "like_count": 0,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -1979,7 +2006,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 207,
+        "views": 211,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2004,14 +2031,14 @@
         "id": 206,
         "title": "CEC: What to Expect for 2026",
         "slug": "cec-what-to-expect-for-2026",
-        "posts_count": 5,
-        "reply_count": 3,
-        "highest_post_number": 5,
+        "posts_count": 9,
+        "reply_count": 7,
+        "highest_post_number": 9,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/5/5e4cbf41cc77a3392df25fdea3703cc35011d456_2_1024x576.jpeg",
         "created_at": "2026-01-16T03:20:52.036Z",
-        "last_posted_at": "2026-01-17T23:01:26.974Z",
+        "last_posted_at": "2026-02-21T03:45:10.141Z",
         "bumped": true,
-        "bumped_at": "2026-01-17T23:01:26.974Z",
+        "bumped_at": "2026-02-21T03:45:10.141Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -2074,10 +2101,10 @@
         ],
         "tags": [],
         "tags_descriptions": {},
-        "views": 247,
-        "like_count": 4,
+        "views": 267,
+        "like_count": 15,
         "has_summary": false,
-        "last_poster_username": "CECR995",
+        "last_poster_username": "PizzaEntertainment",
         "category_id": 5,
         "op_like_count": 1,
         "pinned_globally": false,
@@ -2102,14 +2129,21 @@
           {
             "extras": null,
             "description": "Frequent Poster",
-            "user_id": 17,
+            "user_id": 65,
+            "primary_group_id": 41,
+            "flair_group_id": 41
+          },
+          {
+            "extras": null,
+            "description": "Frequent Poster",
+            "user_id": 67,
             "primary_group_id": 41,
             "flair_group_id": 41
           },
           {
             "extras": "latest",
             "description": "Most Recent Poster",
-            "user_id": 65,
+            "user_id": 17,
             "primary_group_id": 41,
             "flair_group_id": 41
           }
@@ -2192,7 +2226,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 217,
+        "views": 219,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "randomguyfan22-maker",
@@ -2298,7 +2332,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 415,
+        "views": 422,
         "like_count": 7,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -2404,7 +2438,7 @@
           "chucks-arcade"
         ],
         "tags_descriptions": {},
-        "views": 449,
+        "views": 452,
         "like_count": 3,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2515,7 +2549,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 405,
+        "views": 410,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "CECR995",
@@ -2626,7 +2660,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 178,
+        "views": 181,
         "like_count": 4,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2725,7 +2759,7 @@
           "rock-afire-explosion"
         ],
         "tags_descriptions": {},
-        "views": 256,
+        "views": 259,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2825,7 +2859,7 @@
           "creative-engineering"
         ],
         "tags_descriptions": {},
-        "views": 153,
+        "views": 156,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -2923,7 +2957,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 185,
+        "views": 188,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -3020,7 +3054,7 @@
           "lost-media"
         ],
         "tags_descriptions": {},
-        "views": 241,
+        "views": 242,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -3098,7 +3132,7 @@
           "bankruptcy-believers"
         ],
         "tags_descriptions": {},
-        "views": 94,
+        "views": 95,
         "like_count": 1,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -3176,7 +3210,7 @@
           "aam"
         ],
         "tags_descriptions": {},
-        "views": 487,
+        "views": 493,
         "like_count": 5,
         "has_summary": false,
         "last_poster_username": "randomguyfan22-maker",
