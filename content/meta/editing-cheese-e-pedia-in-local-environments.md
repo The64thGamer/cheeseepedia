@@ -8,7 +8,7 @@ contributors = ["Stripes"]
 
 This page provides an overview of the steps required to edit Cheese-E-Pedia in a local environment. 
 
-Edits that can be made in a local environment are far greater than simple page edits. You can directly edit any page, bypassing DecapCMS. You can also upload images and create the appropriate photo pages. Likewise, you can create and maintain a user page that will display on the site.
+Edits that can be made in a local environment are far greater than simple page edits. You can directly edit any page. You can also upload images and create the appropriate photo pages. Likewise, you can create and maintain a user page that will display on the site.
 
 In a local environment, you have the benefit of compiling Cheese-E-Pedia before uploading your changes -- this is important because you can identify problems before submitting a pull request.
 
@@ -71,7 +71,6 @@ In basic terms, templates (HTML mixed with custom code mixed in) are created and
 | layouts/_shortcodes | Templates that can be re-used within other pages. |
 | scripts | Python script files that are run in the local environment to compile the site. |
 | static | Files that are not changed, and available to all themes (see `themes` below) -- any files are served on the website root (replace `static` with `cheeseepedia.org`). |
-| static/admin | The directory in which DecapCMS resides (`cheeseepedia.org/admin`). |
 | static/lowphotos | Low-res versions of all of the site's photos (`cheeseepedia.org/lowphotos/*.avif`). |
 | static/photos | Original versions of all of the site's photos (`cheeseepedia.org/photos/*.avif`). |
 | themes | A directory containing all of the themes available on compile. The theme can be switched in `config.toml` -- only one theme can be used at a time, and is only switchable on the backend, not to the user. Themes may have their own folders that act the same as the root folders and included in the build. |
@@ -80,9 +79,7 @@ In basic terms, templates (HTML mixed with custom code mixed in) are created and
 ### Parameters
 Each Markdown page in Hugo uses TOML (Tom's Obvious, Minimal Language) for its "front matter" -- this is template content at the top of every page. Parameters are how Hugo parse pages for data, which templates take advantage of to generate lists of pages, link pages to other pages, etc.
 
-The front matter always starts and ends with `+++`, and each parameter is case sensitive. You can refer to the DecapCMS configuration (`static/admin/config.yaml`) which has "collections" (sections) with their own sets of parameters (refer to the `name` element of each field listed).
-
-See the below table for types of parameters used on the wiki:
+The front matter always starts and ends with `+++`, and each parameter is case sensitive. See the below table for types of parameters used on the wiki:
 
 | Parameter Type | Example | Notes |
 | --- | --- | --- |
@@ -90,10 +87,6 @@ See the below table for types of parameters used on the wiki:
 | Array | `tags = ["Meta", "User"]` | Each item must be in quotes, separated by a comma, between a set of square brackets. |
 | Date | `startDate = "1900-01-01"` | Format must be in YYYY-MM-DD; replace with 0s if unknown (for example `1984-05-00` is May 1984). For the `endDate` parameter, you can use `""` to represent no end date. |
 | Table | `credits = ["John Doe\|Producer", "Jane Doe\|Voice Actor"]` | Similar to an Array, but each item is delimited by a pipe (`\|`) -- templates will use this to create tables dynamically, with each item being a row in the array.
-
-Information about each parameter is displayed when editing in DecapCMS. You can refer to the configuration to understand what each field is used for.
-
-**Please note that with the switch to Sveltia CMS in early-to-mid 2026, the Table parameter type might change to a more user-friendly format in the editor.** 
 
 ## Creating a User Page
 To create a user page, use the Hugo command line within the repository folder, and type `hugo new content users/username.md` (where `username` will be your username). Replace any spaces with dashes (`-`).
