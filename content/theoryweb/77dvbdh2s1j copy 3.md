@@ -1,13 +1,9 @@
 +++
-title = "West Hall Corner"
+title = "West Hall Corner (Bonnie Twitch 1)"
 startDate = "2014-08-08"
 contributors = ["The 64th Gamer"]
 type = "Images"
 draft = false
-tags = ["Poster", "Paper", "Tile Floor", "Grime", "Hanging Stars", "Crumbled Paper", "Hanging Wires", "Television", "Drink","Bowtie","Bonnie", "Animatronic", "Five Nights at Freddy's (Game)","Constantia Regular (Font)"]
+tags = ["Poster", "Paper", "Tile Floor", "Grime", "Hanging Stars", "Crumbled Paper", "Hanging Wires", "Television", "Drink","Bowtie","Bonnie", "Animatronic", "Five Nights at Freddy's (Game)","Constantia Regular (Font)","Typed Writing"]
 pageThumbnailFile = "479.avif"
 +++
-<div class="ocr-wrap">
-<img src="479.avif" alt="">
-<div class="ocr-region" style="left:31.285%;top:11.854%;width:13.876%;height:6.75%;transform:rotate(-15deg)" data-tip="LET'S PARTY!"></div>
-</div>

@@ -7,10 +7,10 @@ Notes:
 - Loads search JSON data from /data/*.json via fetch.
 - Unified search bar: tags that match go into tag chips, non-matching terms become fuzzy search chips
 */ -}}
+{{- $isTheoryweb := hasPrefix .RelPermalink "/theoryweb" -}}
 
 {{- $tagStyles := site.Data.tag_styles -}}
-{{- $tagCounts := site.Data.tags.tag_counts -}}
-{{- $isTheoryweb := hasPrefix .RelPermalink "/theoryweb" -}}
+{{- $tagCounts := cond $isTheoryweb site.Data.tags.theoryweb.tag_counts site.Data.tags.tag_counts -}}
 
 <div class="search-ui-container">
   <div class="search-controls">

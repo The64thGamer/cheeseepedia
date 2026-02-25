@@ -131,8 +131,7 @@ async function loadSearchData() {
     PAGES_BY_TAG = await pagsRes.json();
     TAG_COUNTS = await countsRes.json();
 
-    ALL_TAGS = Object.keys(TAG_COUNTS || {}).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'}));
-
+ALL_TAGS = Object.keys(TAG_COUNTS || {}).sort((a,b)=>a.localeCompare(b, undefined, {sensitivity:'base'}));
     DOCS.forEach(doc => {
       const text = [doc.title || "", doc.excerpt || "", doc.content || "", doc.summary || ""].join(" ");
       doc.tokens = doc.tokens || Array.from(new Set(tokenize(text)));
