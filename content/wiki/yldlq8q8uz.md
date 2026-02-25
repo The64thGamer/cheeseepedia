@@ -5,9 +5,7 @@ contributors = ["GallaRM"]
 tags = ["Animatronic Control Systems"]
 endDate = "0000-00-00"
 downloadLinks = []
-categories = [
-  "Sally Corporation"
-]
+categories = ["Sally Corporation"]
 draft = false
 +++
 The **ACS-50** is a Playback and Programming Control Unit produced by **Sally Industries.** Typically configured by **Sally Industries** at the factory, depending on the customer's specific application. {{< cite 1 >}}
