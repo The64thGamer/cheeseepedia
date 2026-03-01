@@ -5876,8 +5876,8 @@
     "start_year": 2003,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 2,
-    "rating": 3
+    "contributors_count": 3,
+    "rating": 4
   },
   {
     "title": "1995 Batter Plush Baseball",
@@ -11946,7 +11946,7 @@
     "start_year": 1999,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -13087,16 +13087,6 @@
     "category": "Chuck E. Cheese's",
     "tag": "Live Shows",
     "contributors_count": 1,
-    "rating": 0
-  },
-  {
-    "title": "Tucson, AZ (6130 E Speedway Blvd)",
-    "page_path": "content/wiki/tucson-az-6130-e-speedway-blvd.md",
-    "startDate": "1995-04-00",
-    "start_year": 1995,
-    "category": "Chuck E. Cheese's",
-    "tag": "Locations",
-    "contributors_count": 0,
     "rating": 0
   },
   {
@@ -45080,13 +45070,13 @@
     "rating": 0
   },
   {
-    "title": "Tucson, AZ (6130 East Speedway Blvd)",
+    "title": "Tucson, AZ (6125 E Speedway Blvd)",
     "page_path": "content/wiki/tucson-az-6125-e-speedway-blvd.md",
-    "startDate": "2014-10-00",
-    "start_year": 2014,
+    "startDate": "1995-04-00",
+    "start_year": 1995,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -52676,7 +52666,7 @@
     "start_year": 1981,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 3
   },
   {

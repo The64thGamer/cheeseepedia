@@ -6,7 +6,18 @@
   const { Editor } = window.toastui;
 
   const currentPageTitle      = window.EDITOR_CONFIG.pageTitle;
-  const currentPageCategories = window.EDITOR_CONFIG.pageCategories;
+  // Hugo's jsonify may produce a string instead of an array if categories is a
+  // single scalar value in the front matter, so always normalise to a proper JS array.
+  const currentPageCategories = (() => {
+    const raw = window.EDITOR_CONFIG.pageCategories;
+    if (!raw) return [];
+    if (Array.isArray(raw)) return raw;
+    if (typeof raw === 'string') {
+      try { const p = JSON.parse(raw); return Array.isArray(p) ? p : [p]; } catch (_) {}
+      return [raw];
+    }
+    return [String(raw)];
+  })();
   const isNewPage             = window.EDITOR_CONFIG.isNewPage || false;
   const isTheoryweb           = window.location.pathname.includes('theoryweb');
 
@@ -164,8 +175,43 @@
   }
 
   function tomlInlineArray(arr) {
-    if (!arr || !arr.length) return '[]';
-    return `[${arr.map(s => `"${toTomlStr(s)}"`).join(', ')}]`;
+    // Guard: if a non-array truthy value sneaks in (e.g. a string from Hugo jsonify),
+    // coerce it to a single-element array so we never produce mangled TOML.
+    if (!arr) return '[]';
+    if (!Array.isArray(arr)) arr = [arr];
+    if (!arr.length) return '[]';
+    return `[${arr.map(s => `"${toTomlStr(String(s))}"`).join(', ')}]`;
+  }
+
+  /**
+   * Collapse any multi-line TOML arrays in frontmatter to single-line inline form.
+   * Hugo's front matter parser fails on multi-line arrays for some keys, so we
+   * normalize ALL arrays to inline before committing.
+   *
+   * Handles both forms:
+   *   key = [          key = ["a", "b"]
+   *     "a",
+   *     "b"
+   *   ]
+   */
+  function normalizeFrontmatter(fm) {
+    // Match multi-line arrays: key = [\n  ...\n]
+    return fm.replace(
+      /^(\w+)\s*=\s*\[\n([\s\S]*?)\n\]/gm,
+      (_, key, inner) => {
+        const items = inner
+          .split('\n')
+          .map(line => line.trim().replace(/,$/, ''))
+          .filter(Boolean);
+        // Re-quote any bare values; already-quoted values pass through
+        const quoted = items.map(item => {
+          if ((item.startsWith('"') && item.endsWith('"')) ||
+              (item.startsWith("'") && item.endsWith("'"))) return item;
+          return `"${toTomlStr(item)}"`;
+        });
+        return `${key} = [${quoted.join(', ')}]`;
+      }
+    );
   }
 
   const INLINE_ARRAY_KEYS = new Set(['citations', 'downloadLinks', 'tags', 'categories', 'latitudeLongitude']);
@@ -1447,6 +1493,7 @@
     const username  = localStorage.getItem(USERNAME_KEY) || 'Anonymous';
     let   fm        = isNewPage ? newFrontmatter : updateContributors(newFrontmatter, username);
     fm              = ensureDraftFalse(fm);
+    fm              = normalizeFrontmatter(fm);
     const full      = `+++\n${fm}\n+++\n${bodyMarkdown}`;
     const savePath  = overridePath || currentPagePath;
     document.getElementById('save-progress-modal').style.display = 'block';

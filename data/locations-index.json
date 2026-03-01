@@ -3465,17 +3465,6 @@
       "sort": "19810625"
     },
     {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "Classic Stage",
-        "1981-07-15",
-        "1991-00-00"
-      ],
-      "sort": "19810715"
-    },
-    {
       "page_get": "wiki/englewood-co-1001-w-hampden-ave",
       "page_path": "content/wiki/englewood-co-1001-w-hampden-ave",
       "page_title": "Englewood, CO (1001 W Hampden Ave)",
@@ -7165,6 +7154,18 @@
         ""
       ],
       "sort": "20030530"
+    },
+    {
+      "page_get": "wiki/bayamon-puerto-rico-rexville-town-center",
+      "page_path": "content/wiki/bayamon-puerto-rico-rexville-town-center",
+      "page_title": "Bayamon, Puerto Rico (Rexville Town Center)",
+      "parts": [
+        "Studio C Beta",
+        "2003-06-00",
+        "0000-00-00",
+        ""
+      ],
+      "sort": "20030600"
     },
     {
       "page_get": "wiki/albuquerque-nm-10510-coors-blvd",
@@ -11496,9 +11497,8 @@
       "parts": [
         "Chuck E. Live Stage (Dance Floor)",
         "2022-05-00",
-        "",
-        "2021 Model",
-        ""
+        "0000-00-00",
+        "2021 Model"
       ],
       "sort": "20220500"
     },
@@ -14168,18 +14168,6 @@
       "sort": "00000000"
     },
     {
-      "page_get": "wiki/tucson-az-6125-e-speedway-blvd",
-      "page_path": "content/wiki/tucson-az-6125-e-speedway-blvd",
-      "page_title": "Tucson, AZ (6130 East Speedway Blvd)",
-      "parts": [
-        "Circles of Light",
-        "0000-00-00",
-        "",
-        ""
-      ],
-      "sort": "00000000"
-    },
-    {
       "page_get": "wiki/san-jose-ca-2445-fontaine-rd",
       "page_path": "content/wiki/san-jose-ca-2445-fontaine-rd",
       "page_title": "San Jose (Tully), CA (2445 Fontaine Rd)",
@@ -14662,12 +14650,12 @@
     {
       "page_get": "wiki/tucson-az-6125-e-speedway-blvd",
       "page_path": "content/wiki/tucson-az-6125-e-speedway-blvd",
-      "page_title": "Tucson, AZ (6130 East Speedway Blvd)",
+      "page_title": "Tucson, AZ (6125 E Speedway Blvd)",
       "parts": [
         "Circles of Light",
         "2014-10-00",
-        "0000-00-00",
-        ""
+        "",
+        "Animatronic removed during 2.0"
       ],
       "sort": "20141000"
     },
@@ -16905,19 +16893,6 @@
         "1991-00-00",
         "2018-09-00",
         "One of 3 3-Stages in Pennsylvania to get Concept Unification.",
-        ""
-      ],
-      "sort": "19910000"
-    },
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "Concept Unification Stage",
-        "1991-00-00",
-        "2006-09-00",
-        "One of 17 Texas 3-Stages to undergo Concept Unification. Jasper animatronic was sent to the Houston, TX (5535 Weslayan St) location following Antoine Dr's closure. Antoine Dr.'s Jasper bot was destroyed following Weslayan St.'s store closure in September 2018. Chuck had full rare 'Cool Chuck' outfit and Pasqually had CU Drumfront.",
         ""
       ],
       "sort": "19910000"
@@ -19344,6 +19319,18 @@
         ""
       ],
       "sort": "20260000"
+    },
+    {
+      "page_get": "wiki/humble-tx-124-e-fm-1960-bypass",
+      "page_path": "content/wiki/humble-tx-124-e-fm-1960-bypass",
+      "page_title": "Humble, TX (124 E FM 1960 Bypass)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2026-02-00",
+        "0000-00-00",
+        ""
+      ],
+      "sort": "20260200"
     }
   ],
   "attractions|Chuck E.'s Explorer Island": [
@@ -22716,6 +22703,18 @@
       "sort": "19940307"
     },
     {
+      "page_get": "wiki/tucson-az-6125-e-speedway-blvd",
+      "page_path": "content/wiki/tucson-az-6125-e-speedway-blvd",
+      "page_title": "Tucson, AZ (6125 E Speedway Blvd)",
+      "parts": [
+        "1-Stage",
+        "1994-04-00",
+        "2014-10-00",
+        ""
+      ],
+      "sort": "19940400"
+    },
+    {
       "page_get": "wiki/new-london-ct-389-n-frontage-rd",
       "page_path": "content/wiki/new-london-ct-389-n-frontage-rd",
       "page_title": "New London, CT (389 N Frontage Rd)",
@@ -22868,19 +22867,6 @@
         ""
       ],
       "sort": "19950123"
-    },
-    {
-      "page_get": "wiki/tucson-az-6130-e-speedway-blvd",
-      "page_path": "content/wiki/tucson-az-6130-e-speedway-blvd",
-      "page_title": "Tucson, AZ (6130 E Speedway Blvd)",
-      "parts": [
-        "1-Stage",
-        "1995-04-00",
-        "2014-10-00",
-        "1-Stage w/ Turntable",
-        ""
-      ],
-      "sort": "19950400"
     },
     {
       "page_get": "wiki/sandy-ut-10535-so-state-st",
@@ -26770,16 +26756,6 @@
         "1992-00-00"
       ],
       "sort": "19920000"
-    },
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "SPT 1980's Remodel Program",
-        "19??-00-00"
-      ],
-      "sort": "19??0000"
     }
   ],
   "remodels|SPT 1990's Remodel Program": [
@@ -26832,16 +26808,6 @@
         "1992-09-08"
       ],
       "sort": "19920908"
-    },
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "SPT 1990's Remodel Program",
-        "1993-00-00"
-      ],
-      "sort": "19930000"
     },
     {
       "page_get": "wiki/patchogue-ny-121-sunrise-hwy",
@@ -27036,16 +27002,6 @@
         "1997-00-00"
       ],
       "sort": "19970000"
-    },
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "Phase 2 (1997)",
-        "199?-00-00"
-      ],
-      "sort": "199?0000"
     }
   ],
   "remodels|CEC 2000's Remodel Program": [
@@ -27696,19 +27652,6 @@
     }
   ],
   "animatronics|Beach Bear (Animatronic)": [
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "Beach Bear (Animatronic)",
-        "1981-07-15",
-        "2006-00-00",
-        "1-81 4-5",
-        "Sent to Houston, TX (5535 Weslayan St), now destroyed"
-      ],
-      "sort": "19810715"
-    },
     {
       "page_get": "wiki/st-louis-mo-2805-target-dr",
       "page_path": "content/wiki/st-louis-mo-2805-target-dr",
@@ -30314,74 +30257,6 @@
       "sort": "20260000"
     }
   ],
-  "animatronics|Chuck E. Cheese 16m (Animatronic)": [
-    {
-      "page_get": "wiki/bayamon-puerto-rico-rexville-town-center",
-      "page_path": "content/wiki/bayamon-puerto-rico-rexville-town-center",
-      "page_title": "Bayamon, Puerto Rico (Rexville Town Center)",
-      "parts": [
-        "Chuck E. Cheese 16m (Animatronic)",
-        "2003-06-00",
-        "",
-        "823",
-        ""
-      ],
-      "sort": "20030600"
-    },
-    {
-      "page_get": "wiki/jackson-tn-2021-north-highland-ave",
-      "page_path": "content/wiki/jackson-tn-2021-north-highland-ave",
-      "page_title": "Jackson, TN (2021 North Highland Ave)",
-      "parts": [
-        "Chuck E. Cheese 16m (Animatronic)",
-        "2003-07-30",
-        "2025-11-23",
-        "Unknown",
-        "Unknown"
-      ],
-      "sort": "20030730"
-    },
-    {
-      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
-      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
-      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
-      "parts": [
-        "Chuck E. Cheese 16m (Animatronic)",
-        "2005-00-00",
-        "2024-04-07",
-        "1106",
-        "Dismantled, thrown into dumpster"
-      ],
-      "sort": "20050000"
-    },
-    {
-      "page_get": "wiki/lexington-ky-1555-new-circle-rd",
-      "page_path": "content/wiki/lexington-ky-1555-new-circle-rd",
-      "page_title": "Lexington, KY (1555 New Circle Rd)",
-      "parts": [
-        "Chuck E. Cheese 16m (Animatronic)",
-        "2007-00-00",
-        "2019-09-00",
-        "Unknown",
-        "Unknown"
-      ],
-      "sort": "20070000"
-    }
-  ],
-  "stages|Unknown PR Franchise": [
-    {
-      "page_get": "wiki/bayamon-puerto-rico-rexville-town-center",
-      "page_path": "content/wiki/bayamon-puerto-rico-rexville-town-center",
-      "page_title": "Bayamon, Puerto Rico (Rexville Town Center)",
-      "parts": [
-        "Unknown PR Franchise",
-        "2003-06-00",
-        "",
-        ""
-      ],
-      "sort": "20030600"
-    }
-  ],
   "remodels|CEC 2.0 Remodel Program": [
     {
       "page_get": "wiki/portage-mi-6175-s-westnedge-ave",
@@ -30432,6 +30307,16 @@
         "2022-12-29"
       ],
       "sort": "20221229"
+    },
+    {
+      "page_get": "wiki/tucson-az-6125-e-speedway-blvd",
+      "page_path": "content/wiki/tucson-az-6125-e-speedway-blvd",
+      "page_title": "Tucson, AZ (6125 E Speedway Blvd)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2023-00-00"
+      ],
+      "sort": "20230000"
     },
     {
       "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
@@ -32420,6 +32305,60 @@
         "Seen in postcard next to Cheese Crawl"
       ],
       "sort": "00000000"
+    }
+  ],
+  "animatronics|Chuck E. Cheese 16m (Animatronic)": [
+    {
+      "page_get": "wiki/jackson-tn-2021-north-highland-ave",
+      "page_path": "content/wiki/jackson-tn-2021-north-highland-ave",
+      "page_title": "Jackson, TN (2021 North Highland Ave)",
+      "parts": [
+        "Chuck E. Cheese 16m (Animatronic)",
+        "2003-07-30",
+        "2025-11-23",
+        "Unknown",
+        "Unknown"
+      ],
+      "sort": "20030730"
+    },
+    {
+      "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
+      "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
+      "parts": [
+        "Chuck E. Cheese 16m (Animatronic)",
+        "2005-00-00",
+        "2024-04-07",
+        "1106",
+        "Dismantled, thrown into dumpster"
+      ],
+      "sort": "20050000"
+    },
+    {
+      "page_get": "wiki/lexington-ky-1555-new-circle-rd",
+      "page_path": "content/wiki/lexington-ky-1555-new-circle-rd",
+      "page_title": "Lexington, KY (1555 New Circle Rd)",
+      "parts": [
+        "Chuck E. Cheese 16m (Animatronic)",
+        "2007-00-00",
+        "2019-09-00",
+        "Unknown",
+        "Unknown"
+      ],
+      "sort": "20070000"
+    },
+    {
+      "page_get": "wiki/tucson-az-6125-e-speedway-blvd",
+      "page_path": "content/wiki/tucson-az-6125-e-speedway-blvd",
+      "page_title": "Tucson, AZ (6125 E Speedway Blvd)",
+      "parts": [
+        "Chuck E. Cheese 16m (Animatronic)",
+        "2014-10-00",
+        "2023-00-00",
+        "",
+        "Unknown/Destroyed. Came from the Kelso, WA (351 Three Rivers Dr) location. Had Cool Chuck outfit until 2022"
+      ],
+      "sort": "20141000"
     }
   ],
   "attractions|Q*Bert": [
@@ -34525,7 +34464,8 @@
       "parts": [
         "Total Eclipse",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     },
@@ -34766,6 +34706,18 @@
   ],
   "attractions|Chuck E. Cheese Roll": [
     {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "Chuck E. Cheese Roll",
+        "0000-00-00",
+        "2006-00-00",
+        "6 Units"
+      ],
+      "sort": "00000000"
+    },
+    {
       "page_get": "wiki/st-louis-mo-2805-target-dr",
       "page_path": "content/wiki/st-louis-mo-2805-target-dr",
       "page_title": "St. Louis, MO (2805 Target Dr)",
@@ -34802,6 +34754,18 @@
         "0000-00-00"
       ],
       "sort": "00000000"
+    }
+  ],
+  "remodels|CEC 2013 Update Program": [
+    {
+      "page_get": "wiki/tucson-az-6125-e-speedway-blvd",
+      "page_path": "content/wiki/tucson-az-6125-e-speedway-blvd",
+      "page_title": "Tucson, AZ (6125 E Speedway Blvd)",
+      "parts": [
+        "CEC 2013 Update Program",
+        "2014-10-00"
+      ],
+      "sort": "20141000"
     }
   ],
   "animatronics|Fatz Geromino (Animatronic)": [
@@ -34933,7 +34897,8 @@
       "parts": [
         "Buzzy Buzzy Bee",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
@@ -34991,6 +34956,21 @@
       "sort": "00000000"
     }
   ],
+  "animatronics|\"Beach Bear (Animatronic)": [
+    {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "\"Beach Bear (Animatronic)",
+        "1981-07-15",
+        "2006-00-00",
+        "1-81 4-5",
+        "Sent to Houston, TX (5535 Weslayan St), now destroyed"
+      ],
+      "sort": "19810715"
+    }
+  ],
   "attractions|Aftershock": [
     {
       "page_get": "wiki/houston-tx-6760-antoine-dr",
@@ -34999,7 +34979,8 @@
       "parts": [
         "Aftershock",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
@@ -35012,7 +34993,8 @@
       "parts": [
         "Double Cheese",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
@@ -35025,7 +35007,8 @@
       "parts": [
         "Chuck E. Cheese's Grand Slam",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
@@ -35038,7 +35021,8 @@
       "parts": [
         "Arctic Thunder",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
@@ -35051,7 +35035,8 @@
       "parts": [
         "Cyclone",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
@@ -35064,7 +35049,8 @@
       "parts": [
         "Coin Circus",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
@@ -35077,7 +35063,8 @@
       "parts": [
         "Bob The Builder",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
@@ -35090,7 +35077,8 @@
       "parts": [
         "Tower of Power",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
@@ -35103,7 +35091,8 @@
       "parts": [
         "Barrel of Fun",
         "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
@@ -35116,20 +35105,8 @@
       "parts": [
         "Chuck E. Cheese's Kooky Konga",
         "0000-00-00",
-        "2006-00-00"
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Chuck E. Cheese Roll (6 units)": [
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "Chuck E. Cheese Roll (6 units)",
-        "0000-00-00",
-        "2006-00-00"
+        "2006-00-00",
+        ""
       ],
       "sort": "00000000"
     }
