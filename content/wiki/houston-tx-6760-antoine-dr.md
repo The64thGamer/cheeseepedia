@@ -9,40 +9,13 @@ contributors = ["TheEntireShrekScript", "Anonymous", "The Entire Shrek Script"]
 citations = ["https://www.reddit.com/r/chuckecheese/comments/1ltt13b/found_an_advertisement_for_the_houston_tx_antoine/", "https://www.reddit.com/r/chuckecheese/comments/1lkr4nf/flyer_for_a_chuck_e_cheeses_auction_in_houston/", "https://www.youtube.com/watch?v=_ZwSoLsA9tI&t=385s", "https://www.showbizpizza.com/photos/cec/tx_houston/index.html", "https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf", "https://archive.org/details/antoine-auction-paper/mode/2up", "google.com/maps/place/Inwood+Art+Mural/@29.8623186,-95.4707919,246m/data=!3m1!1e3!4m6!3m5!1s0x8640c8a9b6114a3b:0x8e5b53d6b623829f!8m2!3d29.8624626!4d-95.4703757!16s%2Fg%2F11g6yq59cl?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D", "https://www.reddit.com/r/chuckecheese/comments/1ndvm6r/genealogybank_is_really_being_slept_on/", "https://www.newspapers.com/newspage/1219341884/", "https://www.youtube.com/watch?v=MSynpwaQg1w"]
 storeNumber = "734"
 sqft = ""
-attractions = [
-  "Aftershock|0000-00-00|2006-00-00|",
-  "Double Cheese|0000-00-00|2006-00-00|",
-  "Chuck E. Cheese's Grand Slam|0000-00-00|2006-00-00|",
-  "Total Eclipse|0000-00-00|2006-00-00|",
-  "Buzzy Buzzy Bee|0000-00-00|2006-00-00|",
-  "Arctic Thunder|0000-00-00|2006-00-00|",
-  "Cyclone|0000-00-00|2006-00-00|",
-  "Coin Circus|0000-00-00|2006-00-00|",
-  "Bob The Builder|0000-00-00|2006-00-00|",
-  "Tower of Power|0000-00-00|2006-00-00|",
-  "Barrel of Fun|0000-00-00|2006-00-00|",
-  "Chuck E. Cheese's Kooky Konga|0000-00-00|2006-00-00|",
-  "Chuck E. Cheese Roll|0000-00-00|2006-00-00|6 Units"
-]
+attractions = ["Aftershock|0000-00-00|2006-00-00|","Double Cheese|0000-00-00|2006-00-00|","Chuck E. Cheese's Grand Slam|0000-00-00|2006-00-00|","Total Eclipse|0000-00-00|2006-00-00|","Buzzy Buzzy Bee|0000-00-00|2006-00-00|","Arctic Thunder|0000-00-00|2006-00-00|","Cyclone|0000-00-00|2006-00-00|","Coin Circus|0000-00-00|2006-00-00|","Bob The Builder|0000-00-00|2006-00-00|","Tower of Power|0000-00-00|2006-00-00|","Barrel of Fun|0000-00-00|2006-00-00|","Chuck E. Cheese's Kooky Konga|0000-00-00|2006-00-00|","Chuck E. Cheese Roll|0000-00-00|2006-00-00|6 Units"]
 downloadLinks = []
 latitudeLongitude = ["29.86114362", "-95.47182913"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 franchisees = []
-animatronics = [
-  "Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-07-15|2006-00-00|1-81 1-5|Owned by Sully G",
-  "Dook Larue (Animatronic)|1981-07-15|2006-00-00|1-81 2-5|Owned by ItzaRob",
-  "Fatz Geronimo (Animatronic)|1981-07-15|2006-00-00|1-81 3-5|Owned by a Private Collector",
-  "\"Beach Bear (Animatronic)|1981-07-15|2006-00-00|1-81 4-5|Sent to Houston, TX (5535 Weslayan St), now destroyed",
-  "Mitzi Mozzarella (Animatronic)|1981-07-15|2006-00-00|1-81 5-5|Owned by a Private Collector",
-  "Billy Bob (Animatronic)|1981-07-15|1991-00-00|1-81 6-5|Unknown",
-  "Looney Bird (Animatronic)|1981-07-15|0000-00-00|1-81 7-5|Unknown",
-  "Choo Choo (Animatronic)|1981-07-15|0000-00-00|1-81 8-5|Unknown",
-  "Sun (Animatronic)|1981-07-15|2006-00-00|1-81 10-5|Unknown",
-  "Moon (Animatronic)|1981-07-15|2006-00-00|1-81 11-5|Unknown",
-  "Antioch (Animatronic)|1981-07-15|1991-00-00|Unknown|Unknown",
-  "Wink|1991-00-00|2006-00-00|Unknown|Unknown"
-]
+animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-07-15|2006-00-00|1-81 1-5|Owned by Sully G","Dook Larue (Animatronic)|1981-07-15|2006-00-00|1-81 2-5|Owned by ItzaRob",  "Fatz Geronimo (Animatronic)|1981-07-15|2006-00-00|1-81 3-5|Owned by a Private Collector",  "\"Beach Bear (Animatronic)|1981-07-15|2006-00-00|1-81 4-5|Sent to Houston, TX (5535 Weslayan St), now destroyed",  "Mitzi Mozzarella (Animatronic)|1981-07-15|2006-00-00|1-81 5-5|Owned by a Private Collector",  "Billy Bob (Animatronic)|1981-07-15|1991-00-00|1-81 6-5|Unknown",  "Looney Bird (Animatronic)|1981-07-15|0000-00-00|1-81 7-5|Unknown",  "Choo Choo (Animatronic)|1981-07-15|0000-00-00|1-81 8-5|Unknown",  "Sun (Animatronic)|1981-07-15|2006-00-00|1-81 10-5|Unknown",  "Moon (Animatronic)|1981-07-15|2006-00-00|1-81 11-5|Unknown",  "Antioch (Animatronic)|1981-07-15|1991-00-00|Unknown|Unknown",  "Wink|1991-00-00|2006-00-00|Unknown|Unknown"]
 +++
 ***Houston, TX (6760 Antoine Dr)* (Store #734)** was a *Chuck E. Cheese's* location that opened on July 15, 1981 as a *ShowBiz Pizza Place* with a {{< wiki-link "Classic Stage" >}}, and closed as a *Chuck E. Cheese's* with a {{< wiki-link "Concept Unification Stage" >}} in September 2006.{{< cite 9 >}}
 
