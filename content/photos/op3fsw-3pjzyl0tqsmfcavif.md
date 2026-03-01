@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Fairview Heights, IL (10850 Lincoln Trail)"]
 startDate = ""
-description = "Fairview's exterior prior to 2.0."
 +++
+Fairview's exterior prior to 2.0.

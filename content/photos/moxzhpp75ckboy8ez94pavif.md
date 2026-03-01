@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Winchester Game Room Rules Sign"]
 startDate = ""
-description = "Above."
 +++
+Above.

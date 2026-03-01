@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Rock-afire Explosion Record 1 (1981)"]
 startDate = ""
-description = "'Do You Love Me' Side A Scan"
 +++
+'Do You Love Me' Side A Scan

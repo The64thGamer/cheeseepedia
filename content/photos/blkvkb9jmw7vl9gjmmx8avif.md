@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Edina, MN (7505 France Ave S)"]
 startDate = ""
-description = "Showroom when they were Phase 3"
 +++
+Showroom when they were Phase 3

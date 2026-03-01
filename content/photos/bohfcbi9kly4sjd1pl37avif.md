@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Gulliver's Kingdom Stage"]
 startDate = ""
-description = "Moon on 2023/09/24"
 +++
+Moon on 2023/09/24

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["York, PA (351 Loucks Rd)"]
 startDate = ""
-description = "Exterior before the store's closure"
 +++
+Exterior before the store's closure

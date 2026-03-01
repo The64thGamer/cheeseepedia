@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Hellendoorn Pirate Parrot"
 +++
+Hellendoorn Pirate Parrot

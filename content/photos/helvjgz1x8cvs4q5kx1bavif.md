@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Classic Stage"]
 startDate = ""
-description = "The Classic Stage at [[Barboursville, WV (5 Cracker Barrel Dr)]] in November 2022. (Still in operation)"
 +++
+The Classic Stage at [[Barboursville, WV (5 Cracker Barrel Dr)]] in November 2022. (Still in operation)

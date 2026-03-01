@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Madam Oink Name Sign (1978)"]
 startDate = ""
-description = "Nameplate"
 +++
+Nameplate

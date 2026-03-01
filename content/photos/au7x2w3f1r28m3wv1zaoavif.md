@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chicago, IL (1830 W Fullerton Ave)"]
 startDate = ""
-description = "Spring 2017"
 +++
+Spring 2017

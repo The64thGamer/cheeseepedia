@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Dilly at Track Stars"
 +++
+Dilly at Track Stars

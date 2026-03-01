@@ -1,7 +1,7 @@
 +++
 title = "2016 Mr. Munch Puppet 1"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

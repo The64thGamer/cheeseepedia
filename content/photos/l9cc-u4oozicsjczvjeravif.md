@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Dolli Dimples 'Hello Dolli' Pink Hair Comb (1982)"]
 startDate = ""
-description = "Comb Back"
 +++
+Comb Back

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Bridgewater, NJ (600 Promenade Blvd)"]
 startDate = ""
-description = "The exterior before the exterior change."
 +++
+The exterior before the exterior change.

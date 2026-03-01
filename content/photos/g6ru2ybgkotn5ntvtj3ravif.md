@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["PTT Chuck E. Cheese Quote Sign (1977)"]
 startDate = ""
-description = "The sign format would later be used for the Cheese Crawl Measuring Fixture."
 +++
+The sign format would later be used for the Cheese Crawl Measuring Fixture.

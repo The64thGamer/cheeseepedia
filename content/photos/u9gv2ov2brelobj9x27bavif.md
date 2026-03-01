@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Beaumont, TX (5874 Eastex Fwy)"]
 startDate = ""
-description = "Balcony Stage (August 19, 1982)"
 +++
+Balcony Stage (August 19, 1982)

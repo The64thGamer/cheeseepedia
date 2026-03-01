@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "1978-00-00"
 endDate = "0000-00-00"
 contributors = ["FileFickle"]
-citations = ["[https://www.youtube.com/watch?v=0l6-6ewuY70&t=1545s](%22https://www.youtube.com/watch?v=0l6-6ewuY70&t=1545s%22)"]
+citations = ["https://www.youtube.com/watch?v=0l6-6ewuY70&t=1545s"]
 manufacturer = "Creative Engineering"
 pageThumbnailFile = "uiK_9J6TdTSDTh_ur7nk.avif"
 unitsProduced = "2"
@@ -15,7 +15,7 @@ Chet Faddikins was created for the {{< wiki-link "Bear Country Jubilee" >}} whic
 
 ## History
 
-Chet Faddikins along with the Bear Country Jubilee show was developed from 1977 - 1978. One show would be sold to Americana Amusement Park in Monroe, Ohio. The current whereabouts of the show is unknown. A 2nd show was sold to Morey's Piers in Wildwood, New Jersey. This show was sold back to CEI in 1984<sup>(1)</sup> and currently resides at the CEI museum.
+Chet Faddikins along with the Bear Country Jubilee show was developed from 1977 - 1978. One show would be sold to Americana Amusement Park in Monroe, Ohio. The current whereabouts of the show is unknown. A 2nd show was sold to Morey's Piers in Wildwood, New Jersey. This show was sold back to CEI in 1984{{< cite 1 >}} and currently resides at the CEI museum.
 
 ## Design
 

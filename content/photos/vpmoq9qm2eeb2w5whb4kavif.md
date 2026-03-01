@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Picture of Stella from the first Piccadilly Circus"
 +++
+Picture of Stella from the first Piccadilly Circus

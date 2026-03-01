@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Confederate Critter Show"]
 startDate = ""
-description = "Major Mosby Greyhound III"
 +++
+Major Mosby Greyhound III

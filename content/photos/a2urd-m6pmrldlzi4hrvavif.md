@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Charlotte, NC (5612 Albemarle Rd)"]
 startDate = ""
-description = "A Street View of the store's exterior in October 2022 before its shopping plaza repaint. (PC: Google Maps)"
 +++
+A Street View of the store's exterior in October 2022 before its shopping plaza repaint. (PC: Google Maps)

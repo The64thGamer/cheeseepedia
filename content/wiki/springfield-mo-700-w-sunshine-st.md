@@ -1,10 +1,20 @@
 +++
 title = "Springfield, MO (700 W Sunshine St)"
-draft = false
+storeNumber = ""
+startDate = "1982-08-31"
+endDate = "1985-10-16"
+cuDate = ""
+remodels = []
+stages = ["Classic Stage|1982-08-31|1985-10-16|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["37.1822210","-93.3009270"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

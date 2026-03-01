@@ -21,7 +21,7 @@ The only usage of the nameplate was at 370 South Winchester Boulevard, where it 
 
 ### Usage In 2018 Remodel Program
 
-Helen Hennys nameplate would be featured for the first time in several decades in the 2.0 remodel, where it is also shown alongside {{< wiki-link "PTT Winchester Chuck E Cheese Name Sign (1977)" >}} and {{< wiki-link "PTT Winchester Jasper T Jowls Name Sign (1977)" >}} in a piece of signage showing the history of the company, this time lacking 'ATARI 1977' where it was most likely edited out. Footage with the fixture included can be seen below.
+Helen Hennys nameplate would be featured for the first time in several decades in the 2.0 remodel, where it is also shown alongside {{< wiki-link "PTT Winchester Chuck E. Cheese Name Sign (1977)" >}} and {{< wiki-link "PTT Winchester Jasper T Jowls Name Sign (1977)" >}} in a piece of signage showing the history of the company, this time lacking 'ATARI 1977' where it was most likely edited out. Footage with the fixture included can be seen below.
 
 ## Design
 

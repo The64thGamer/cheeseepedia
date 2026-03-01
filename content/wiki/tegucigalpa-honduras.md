@@ -1,10 +1,20 @@
 +++
 title = "Tegucigalpa, Honduras"
-draft = false
+storeNumber = ""
+startDate = "2017-05-01"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2017-05-01||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["14.1058135","-87.2047053"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2017-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

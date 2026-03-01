@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Concord, CA (1975 Diamond Blvd)"]
 startDate = "1979-12-00"
-description = "Concord costume characters at the Willows Shopping Center."
 +++
+Concord costume characters at the Willows Shopping Center.

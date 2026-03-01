@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamic Control System"]
 startDate = ""
-description = "CPU Card Back (Rev A)"
 +++
+CPU Card Back (Rev A)

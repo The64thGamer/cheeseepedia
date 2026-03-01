@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck Statue- Musician (Shelf Item)"]
 startDate = ""
-description = "Matt Rivera's Chuck w/ ''Toy Works'' branded guitar."
 +++
+Matt Rivera's Chuck w/ ''Toy Works'' branded guitar.

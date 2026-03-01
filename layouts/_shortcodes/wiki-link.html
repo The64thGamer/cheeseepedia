@@ -1,0 +1,3 @@
+{{- $name := index .Params 0 -}}
+{{- $customname := or (index .Params 1) $name -}}
+{{- partial "wiki-link.html" (dict "name" $name "customname" $customname) . -}}

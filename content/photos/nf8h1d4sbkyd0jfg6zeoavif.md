@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Crazy Colander Head Night (Event)"]
 startDate = ""
-description = "Letter From [[Savannah, GA (6700 Abercorn St)]] (After March)"
 +++
+Letter From [[Savannah, GA (6700 Abercorn St)]] (After March)

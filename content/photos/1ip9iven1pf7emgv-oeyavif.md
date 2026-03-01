@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Arlington, TX (2216 S Fielder Rd)"]
 startDate = ""
-description = "A picture of Arlington in 1983."
 +++
+A picture of Arlington in 1983.

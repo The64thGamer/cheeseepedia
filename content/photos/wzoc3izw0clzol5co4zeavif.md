@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Middletown, NJ (1107 Route 35)"]
 startDate = ""
-description = "Middletown's Exterior (PC: Google Maps)"
 +++
+Middletown's Exterior (PC: Google Maps)

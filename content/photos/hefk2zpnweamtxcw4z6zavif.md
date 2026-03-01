@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Willie Rabbit (Animatronic)"]
 startDate = ""
-description = "Color photo of Willie Rabbit at the CEI Office, Unknown year."
 +++
+Color photo of Willie Rabbit at the CEI Office, Unknown year.

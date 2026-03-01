@@ -1,10 +1,20 @@
 +++
 title = "Al Jubail, Saudi Arabia"
-draft = false
+storeNumber = ""
+startDate = "2018-06-14"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2018-06-14||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["27.0043331","49.6554119"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2018-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

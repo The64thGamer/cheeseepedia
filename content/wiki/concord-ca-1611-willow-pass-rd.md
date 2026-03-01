@@ -1,10 +1,20 @@
 +++
 title = "Concord, CA (1611 Willow Pass Rd)"
-draft = false
+storeNumber = ""
+startDate = "2009-06-18"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Studio C Beta|2009-06-18|0000-00-00|", "Chuck E. Live Stage (Dance Floor)|0000-00-00||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["37.9715096","-122.0449275"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2009-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

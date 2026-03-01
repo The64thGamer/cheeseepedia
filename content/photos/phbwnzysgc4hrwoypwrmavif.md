@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Hampton, VA (4027 W Mercury Blvd)"]
 startDate = ""
-description = "The store's [[2-Stage]] (Unknown Year)"
 +++
+The store's [[2-Stage]] (Unknown Year)

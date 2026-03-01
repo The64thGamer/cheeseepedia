@@ -1,7 +1,7 @@
 +++
 title = "Newport, KY (301 Riverboat Row)"
 draft = false
-tags = ["Locations"]
+tags = ["Cancelled Locations"]
 categories = ["Pizza Time Theatre"]
 startDate = "1981-00-00"
 endDate = "1981-00-00"

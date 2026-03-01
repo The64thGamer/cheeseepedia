@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chino, CA (5250 Philadelphia St)"]
 startDate = ""
-description = "Chuck.E. in his Cool Chuck outfit(Summer 2006)."
 +++
+Chuck.E. in his Cool Chuck outfit(Summer 2006).

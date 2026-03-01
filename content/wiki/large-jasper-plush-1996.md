@@ -1,13 +1,14 @@
 +++
-title = "Large Jasper Plush (1996)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+title = "Large Jasper Plush (1996)"
 startDate = "1996-00-00"
 endDate = "0000-00-00"
-contributors = ["ToadEatSock","BurgersNuggs445","CEC Tinley"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf%22)"]
 pageThumbnailFile = "Ev9E25p9ZPbshvkj2o4o.avif"
+contributors = ["ToadEatSock", "BurgersNuggs445", "CEC Tinley", "Randomguyfan22 Maker"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
+manufacturer = "Dennis Foland Inc's"
+tags = ["In-Store Merchandise"]
+categories = ["Chuck E. Cheese's"]
 +++
 The **1996 Large Jasper Plush** was a official product produced for the Prize counters in 1996 by Dennis Foland. Inc.
 
@@ -18,7 +19,7 @@ The 1996 set introduced putting wires and cardboard pieces into the plush's legs
 
 ### Prototypes
 
-A prototype of this plush exists in the 1997-1998 Merch Catalog<sup>(1)</sup> with little to no difference in design.
+A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} with little to no difference in design.
 
 #### Prototype Gallery
 
@@ -26,10 +27,10 @@ A prototype of this plush exists in the 1997-1998 Merch Catalog<sup>(1)</sup> wi
 
 This plush was released in a set containing other characters and sizes:
 
-- {{< wiki-link "Large Chuck E Plush (1996)" >}}
-- {{< wiki-link "Large Helen Plush (1996)" >}}
-- {{< wiki-link "Large Munch Plush (1996)" >}}
-- {{< wiki-link "Large Pasqually Plush (1996)" >}}
+* {{< wiki-link "Large Chuck E. Plush (1996)" >}}
+* {{< wiki-link "Large Helen Plush (1996)" >}}
+* {{< wiki-link "Large Munch Plush (1996)" >}}
+* {{< wiki-link "Large Pasqually Plush (1996)" >}}
 
 ## Design
 

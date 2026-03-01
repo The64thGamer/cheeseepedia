@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Houston, TX (4432 North Fwy)"]
 startDate = ""
-description = "Up close of the stage in July 2012."
 +++
+Up close of the stage in July 2012.

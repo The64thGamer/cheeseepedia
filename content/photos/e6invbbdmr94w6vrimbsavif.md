@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Beach Bear (Wolf Pack 5 Animatronic)"]
 startDate = ""
-description = "Under restoration (2016)"
 +++
+Under restoration (2016)

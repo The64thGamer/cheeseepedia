@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Edina, MN (7505 France Ave S)"]
 startDate = ""
-description = "Bot singing Chuck E.'s Dance Party"
 +++
+Bot singing Chuck E.'s Dance Party

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Tempe, AZ (1000 E Broadway Rd)"]
 startDate = ""
-description = "Exterior while it was still open."
 +++
+Exterior while it was still open.

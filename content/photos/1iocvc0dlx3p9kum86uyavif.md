@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Altoona, PA (3415 Pleasant Valley Blvd)"]
 startDate = ""
-description = "The Creative Engineering label on the back of Mr. Munch's organ. (1-1983)"
 +++
+The Creative Engineering label on the back of Mr. Munch's organ. (1-1983)

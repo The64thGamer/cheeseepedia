@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Interior of Track Stars"
 +++
+Interior of Track Stars

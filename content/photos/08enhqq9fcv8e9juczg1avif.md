@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Beheaded Pierre Le Bear Billboard (1983)"
 +++
+Beheaded Pierre Le Bear Billboard (1983)

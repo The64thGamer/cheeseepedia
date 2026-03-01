@@ -9,12 +9,13 @@ endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 manufacturer = "Fantasy Forest"
 unitsProduced = "3 (1 Costume, 3 Designs)"
+citations = ["https://www.youtube.com/watch?v=Ix5so7ytxe8"]
 +++
 The Winchester Chuck E. Cheese Walkaround was the second ever Pizza Time Theatre costumed character, used at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} store from May 5, 1977 to sometime between 1980-1985.
 
 ## History
 
-The costume would be produced by {{< wiki-link "Fantasy Forest" >}} between late 1976 and early 1977. The costume would look very similar to the {{< wiki-link "Rick Rat Walkaround" >}} used in early promotions.
+The costume would be produced by {{< wiki-link "Fantasy Forest" >}} between late 1976 and early 1977. The costume would look very similar to the {{< wiki-link "Rick Rat Walkaround" >}} used in early promotions. Gene Landrum noted as meeting with a Warner executive that had a Harvard MBA at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location after it had opened, and on the topic of the walkaround he mentioned it cost $5,000 for Fantasy Forest to produce, to which the executive exclaims Gene is nuts and that isn't economically viable. Gene later states by the opening of {{< wiki-link "Sparks, NV (530 Greenbrae Dr)" >}} the cost of other walkaround variations had dropped to $300. The character was set in its early history to come out every 20 minutes to greet guests, though this wasn't always followed as noted by interections between Gene and the first store manager. {{< cite 1 >}}
 
 ### Redesign
 
@@ -22,7 +23,7 @@ In 1978, the costume would be refurred to be a darker gray with thinner fur. Thi
 
 ### Age & Wear
 
-in 1978, just after the redesign, the hat would become noticably damaged on its right side, with a large portion of the paint scraped off, revealing the white material underneath. Photos also show Chuck's tooth missing, which would be missing multiple times over the years. In the Four Corners footage in 1979, Chuck's mask would be seen extremely dirty, alongside his vest completely missing. Photos and videos of the vest missing would also be seen. On multiple occasions the orignal damaged hat would be swapped out for a Pizza Time Theatre logo derby.
+In 1978, just after the redesign, the hat would become noticably damaged on its right side, with a large portion of the paint scraped off, revealing the white material underneath. Photos also show Chuck's tooth missing, which would be missing multiple times over the years. In the Four Corners footage in 1979, Chuck's mask would be seen extremely dirty, alongside his vest completely missing. Photos and videos of the vest missing would also be seen. On multiple occasions the orignal damaged hat would be swapped out for a Pizza Time Theatre logo derby.
 
 ### Second Redesign
 

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Best Of CEC TV 2003"]
 startDate = ""
-description = "Studio C Floppy Disc"
 +++
+Studio C Floppy Disc

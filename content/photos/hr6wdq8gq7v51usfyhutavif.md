@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Crusty the Cat V1 (Animatronic)"]
 startDate = ""
-description = "A Promo Shot of the bot, 1977. [[San Jose, CA (370 S Winchester Blvd)]]"
 +++
+A Promo Shot of the bot, 1977. [[San Jose, CA (370 S Winchester Blvd)]]

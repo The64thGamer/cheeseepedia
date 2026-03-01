@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Warblettes (Animatronic)"]
 startDate = ""
-description = "Original Concept Art, 1977 (Created by Harold Goldbrandsen)"
 +++
+Original Concept Art, 1977 (Created by Harold Goldbrandsen)

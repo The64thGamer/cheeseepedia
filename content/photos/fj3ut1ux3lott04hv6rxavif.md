@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Sally Corporation"]
 pages = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
-description = "Funshine Bear 2.0. Prototype at IAAPA (1987)"
 +++
+Funshine Bear 2.0. Prototype at IAAPA (1987)

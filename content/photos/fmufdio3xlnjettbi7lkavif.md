@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chuck E. Cheese Proof of Concept Prototype (Animatronic)"]
 startDate = ""
-description = "Eye Closeup + Internals (2012)"
 +++
+Eye Closeup + Internals (2012)

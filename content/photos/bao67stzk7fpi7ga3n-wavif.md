@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Orlando, FL (7456 West Colonial Dr)"]
 startDate = ""
-description = "The exterior of the store before the removal of the Awnings (PC: varcamp.com)"
 +++
+The exterior of the store before the removal of the Awnings (PC: varcamp.com)

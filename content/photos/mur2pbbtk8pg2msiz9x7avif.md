@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Rick Rat Walkaround"]
 startDate = ""
-description = "Casa Bonita's Rat Costume Art (Unknown Year)"
 +++
+Casa Bonita's Rat Costume Art (Unknown Year)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Orlando, FL (47 W Jefferson St)"]
 startDate = ""
-description = "March 9, 2023"
 +++
+March 9, 2023

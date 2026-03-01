@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Dallas, TX (13364 Montfort Dr)"]
 startDate = ""
-description = "Montfort Dr. exterior in 2020."
 +++
+Montfort Dr. exterior in 2020.

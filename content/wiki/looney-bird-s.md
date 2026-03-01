@@ -1,9 +1,10 @@
 +++
+
 title = "Looney Bird's"
 draft = false
-tags = ["Restaurants/FECs"]
+tags = ["Companies/Brands"]
 categories = ["Creative Engineering"]
-pageThumbnailFile = ""
+pageThumbnailFile = "LBvertical.avif"
 startDate = ""
 endDate = ""
 contributors = []

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Employee Red Shirt (90's)"]
 startDate = ""
-description = "The UTY Apparel variant of the polo."
 +++
+The UTY Apparel variant of the polo.

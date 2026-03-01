@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["San Jose, CA (1371 Kooser Rd)"]
 startDate = ""
-description = "Ditto, pinball."
 +++
+Ditto, pinball.

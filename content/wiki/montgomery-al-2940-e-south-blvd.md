@@ -1,62 +1,31 @@
 +++
 title = "Montgomery, AL (2940 E South Blvd)"
-draft = false
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
-
-
 startDate = "1982-09-30"
 endDate = "2013-08-00"
-contributors = ["ChuckECool","Rexburg090","Midwestretail","ThatBoiCydalan","SuperCreamPiper2008"]
-citations = []
 pageThumbnailFile = "PAiXWvhpcJFeeKOSPWMX.avif"
+contributors = ["Cyber Snout"]
+citations = ["https://www.newspapers.com/article/alabama-journal/64864452/", "https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0", "https://www.newspapers.com/article/the-montgomery-advertiser-roebuck-cu-dat/156253819/", "https://www.newspapers.com/image/259953269/","https://www.newspapers.com/article/the-montgomery-advertiser/133393569/", "https://www.wsfa.com/story/21673915/chuck-e-cheeses-coming-to-eastdale-mall/", "Store features fixtures from the 80s remodel and artwork from the 90s remodel. This location was during a period between remodels designs", "https://www.youtube.com/watch?v=Ru3r28ams4M", "https://youtu.be/e3D8uGagIA4?si=spmK1mKT7j9GtyrS&t=438","https://www.flickr.com/photos/63946722@N03/5826417823/", "https://share.google/YFwcGb1KIfK1CYLHk","https://www.reddit.com/r/chuckecheese/comments/1imlyaw/the_former_cecshowbiz_in_montgomery_al_that/"]
+storeNumber = "608"
+cuDate = "1991-00-00"
+sqft = "10,400"
+animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1982-09-30|2013-08-00|1-82 1-18|Unknown", "Dook Larue (Animatronic)|1982-09-30|2013-08-00|1-82 2-18|Unknown", "Fatz Geronimo (Animatronic)|1982-09-30|2013-08-00|1-82 3-18|Unknown", "Beach Bear (Animatronic)|1982-09-30|2013-08-00|1-82 4-18|Unknown", "Mitzi Mozzarella (Animatronic)|1982-09-30|2013-08-00|1-82 5-18|Unknown", "Billy Bob (Animatronic)|1982-09-30|1991-00-00|1-82 6-18|Unknown", "Looney Bird (Animatronic)|1982-09-30|2011-00-00|1-82 7-18|Unknown", "Choo Choo (Animatronic)|1982-09-30|2000s-00-00|1-82 8-18|Unknown","Sun (Animatronic)|1982-09-30|2013-08-00|1-82 10-18|Unknown", "Moon (Animatronic)|1982-09-30|2013-08-00|1-82 11-18|Unknown", "Antioch (Animatronic)|1982-09-30|2013-08-00|N/A|Unknown", "Wink|1991-00-00|2013-08-00|N/A|Unknown"]
+remodels = ["SPT 1980's Remodel Program|1992-00-00", "SPT 1990's Remodel Program|1998-00-00"]
+stages = ["Classic Stage|1982-09-30|1991-00-00", "Concept Unification Stage|1991-00-00|2013-08-00|One of 7 3-Stages in Alabama to receive Concept Unification. 4th-to-last 3-Stage in Alabama until store removal and stage removal in August 2013.|"]
 latitudeLongitude = ["32.32505612","-86.24878998"]
+tags = ["Locations"]
+categories = ["ShowBiz Pizza Place"]
 +++
-
-***Montgomery, AL (2940 E South Blvd), Store #608*** was a *ShowBiz Pizza Place*/*Chuck E. Cheese* which opened on September 30, 1982 with a Rock-afire Explosion, and closed in August 2013 with the 3-Stage.
+***Montgomery, AL (2940 E South Blvd)*** originally opened up on September 30, 1982, as a Showbiz Pizza Place {{< cite 1 >}} and closed its doors in August 2013. {{< cite 2 >}} relocating to {{< wiki-link "Montgomery, AL (1116 Eastdale Mall)" >}}.
 
 ## History
+### 1980s
+The Montgomery, AL Showbiz Pizza Place opened up on September 30, 1982, as the 5th ShowBiz Pizza in Alabama. The store featured The Rock-afire Explosion {{< wiki-link "Classic Stage" >}}, New Games, Oven-Fresh Pizza, Sandwiches, Salad Bar, and more. In the late 1980s, the Rock Afire Explosion would receive the Showbiz Pizza Campground.
 
-Montgomery opened its doors on September 30th, 1982 as the fourth ShowBiz Pizza store in Alabama with the Rock-Afire Explosion show like every other ShowBiz Pizza. It was originally a corporate-owned location. In 1988-1989, Montgomery received the 1988 remodel removing the older SPP decor, adding newer decor, received a new exterior change, and updated the Billy Bob stage. In 1991, Montgomery received a major remodel, adding checkers around the wall, added Blue and White Awnings, and added more decor and removed some older decor, and received Concept Unification removing the Rock-Afire Explosion for the 3-Stage. Montgomery received a minor remodel in the Mid/Late-90's removing older CU decor for the Record Posters, and removing the ball pits in favor of the SkyTubes and Toddler Zone. They would later remove the Showroom Walls and Balcony Seating. Montgomery would remain like this until August 2013 when they would relocate to the Montgomery, AL (1116 Eastdale Mall)|1116 Eastdale Mall location which is about 16 minutes away from here and opened with a Circles of Light stage. After its closure, the location became abandoned until in 2016 or 2017 when it would become a Bombay Lounge. That didn't last long as it closed around 2021. Currently, as of March 2023, the location is now abandoned again. It is unknown if the building is going to be demolished.
+### 1990s
+In Summer 1991 Montgomery, AL would re-brand as Chuck E. Cheese's Pizza receiving {{< wiki-link "Concept Unification Stage" >}}.{{< cite 3 >}} In 1992 Montgomery, AL would receive the {{< wiki-link "SPT 1980's Remodel Program" >}} along with Platinum Award posters, Wooden signage, and Confetti portraits from the {{< wiki-link "SPT 1990's Remodel Program" >}}{{< cite 6 >}}. In the mid 1996 Montgomery, AL would recieve the Cheerleader Helen outfit designed by Brian Hagan as for all {{< wiki-link "Concept Unification Stage" >}} locations in the district. Around this time the store changed Jasper's base to a trash can.{{< cite 9 >}} In 1996 the store would gain{{< wiki-link "Phase 1 (1994)" >}}.{{< cite 4 >}} Between 1997 and 1998 the {{< wiki-link "SPT 1980's Remodel Program" >}} awnings would be removed from above the counter. The store also got the {{< wiki-link "SPT 1990's Remodel Program" >}} around this time.{{< cite 7 >}}{{< cite 8 >}} Later the store would receive {{< wiki-link "Phase 2 (1997)" >}} between 1997 and 1999.
 
-## Stages
+### 2000s
+Montgomery, AL would receive {{< wiki-link "Phase 3 (2000)" >}} between 2000 and 2003. In the early 2000s the store would replace all of its latex masks with plastic masks, Munch Jr would be removed around this time also, The Chuck E. Cheese Tuxedo was replaced between 2002 and 2008. In mid-to-late 2011 Pizzacam was removed from the  {{< wiki-link "Concept Unification Stage" >}}. {{< cite 10 >}} 
 
-Originally, Montgomery featured a Rock-afire Explosion, as all other ShowBiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-afire Explosion into the 3-Stage. Montgomery would have the 3-Stage until August 2013 when the stage would be removed due to the store relocating.
-
-| Stage                                               | Installed      | Removed     | Notes                                                                    |
-|-----------------------------------------------------|----------------|-------------|--------------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}             | September 1982 | 1991        | 4th ShowBiz Pizza store to open in Alabama.                              |
-| {{< wiki-link "Concept Unification Stage" >}} | 1991           | August 2013 | One of 7 ShowBiz Pizza stores in Alabama to undergo Concept Unification. |
-
-## Animatronics
-
-| Animatronics                                                              | Serial Number | Whereabouts        |
-|---------------------------------------------------------------------------|---------------|--------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 1-82 1-18     | Unknown/Destroyed. |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 1-82 2-18     | Unknown/Destroyed. |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 1-82 3-18     | Unknown/Destroyed. |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 1-82 4-18     | Unknown/Destroyed. |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 1-82 5-18     | Unknown/Destroyed. |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 1-82 6-18     | Unknown/Destroyed. |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 1-82 7-18     | Unknown/Destroyed. |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 1-82 8-18     | Unknown/Destroyed. |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 1-82 10-18    | Unknown/Destroyed. |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 1-82 11-18    | Unknown/Destroyed. |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown/Destroyed. |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown/Destroyed. |
-
-(W.I.P)
-
-## Videos
-
-| Link                                                                          | Description                                                                                                                   | Filming Date       |
-|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| [Link](https://youtu.be/FNmGmXdKbmA&t=2066s)                                  | Footage of the gameroom and {{< wiki-link "Concept Unification Stage" >}}. Includes *Chuck E. Shuffle 1994* performance | February 8th, 1997 |
-| [Link](https://youtu.be/_ExnAOse1dc)                                          | Birthday Star 1992                                                                                                            | August 15th, 1998  |
-| [Link](https://youtu.be/6yADkAE0GDI)                                          | Small clip of the {{< wiki-link "Concept Unification Stage" >}}                                                         | August 15th, 1998  |
-| [Link](https://www.flickr.com/photos/63946722@N03/5825867141/in/photostream/) | Store Tour                                                                                                                    | January-April 2011 |
-| [Link](https://www.flickr.com/photos/63946722@N03/5826417823/in/photostream/) | Clip of Segment 2 of the {{< wiki-link "January 2011 Show" >}} being performed on the store's stage.                    | January-April 2011 |
-
-## Trivia
-
-- Montgomery was one of seven ShowBiz locations in Alabama to be converted into Chuck E. Cheese. The other six are {{< wiki-link "Mobile, AL (710 Downtowner Loop)" >}}, {{< wiki-link "Huntsville, AL (1220 Jordan Lane)" >}}, {{< wiki-link "Birmingham, AL (500 Old Town Rd)" >}}, {{< wiki-link "Birmingham, AL (9325 Parkway East)" >}}, {{< wiki-link "Dothan, AL (3400 Ross Clark Circle)" >}}, &amp; {{< wiki-link "Sheffield, AL (4700 Hatch Blvd)" >}}. The other three ShowBiz locations Tuscaloosa, AL (1335 McFarland Blvd)|Tuscaloosa, {{< wiki-link "Cullman, AL (210 2nd Ave)" >}}, &amp; {{< wiki-link "Midfield, AL (34 Phillips Dr)" >}} closed in December 1985 (Tuscaloosa), &amp; April 1986 (Cullman &amp; Midfield) respectively as they were the only three not to make it to Concept Unification. Midfield's show however ended up undergoing Concept Unification when it was installed at the {{< wiki-link "Tallahassee, FL (2810 Sharer Rd)" >}} location..
+### 2010s
+On March 18, 2013 it was announced that the Chuck E. Cheese's in Montgomery Alabama was moving into Eastdale Mall 'Michelle Chism, Director of Corp. Communications for Chuck E. Cheese's parent company, CEC Entertainment, says possession of the mall space will happen in May and the new store should be open by late summer or early fall of 2013'. It was stated that the current location would stay operational until the new Eastdale Mall location opened. All employees of the current location would transfer over.{{< cite 5 >}} in Early August 2013 the Montgomery, AL Chuck E. Cheese would close and would re-locate to {{< wiki-link "Montgomery, AL (1116 Eastdale Mall)" >}} on August 13, 2013.{{< cite 2 >}}. In 2016 'Bombay Lounge' would open up in the former Chuck E. Cheese's the night club would close in 2021 {{< cite 11 >}}. Soon after closing the façade would be re-repainted white. {{< cite 12 >}} 

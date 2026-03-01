@@ -1,10 +1,20 @@
 +++
 title = "Chaguanas, Trinidad & Tobago"
-draft = false
+storeNumber = ""
+startDate = "2014-07-16"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2014-07-16||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["10.5147394","-61.4076757"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2014-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

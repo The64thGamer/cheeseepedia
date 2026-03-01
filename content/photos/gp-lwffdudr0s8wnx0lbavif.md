@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["It's Chuck E. Time!"]
 startDate = ""
-description = "Figure Side"
 +++
+Figure Side

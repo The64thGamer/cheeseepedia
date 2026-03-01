@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cheese E. Street"]
 startDate = ""
-description = "Taken from an article on the Danvers Pizza Time Theatre."
 +++
+Taken from an article on the Danvers Pizza Time Theatre.

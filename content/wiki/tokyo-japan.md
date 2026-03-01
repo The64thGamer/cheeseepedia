@@ -1,15 +1,15 @@
 +++
 title = "Tokyo, Japan"
 draft = false
-tags = ["Locations"]
+tags = ["Cancelled Locations"]
 categories = ["Chuck E. Cheese's"]
-startDate = "0000-00-00"
-endDate = "0000-00-00"
+startDate = "1999-00-00"
+endDate = "1999-00-00"
 contributors = ["ShowBizMidwest"]
 citations = ["[https://adage.com/article/news/chuck-e-cheese-heads-japan/12898](%22https://adage.com/article/news/chuck-e-cheese-heads-japan/12898%22)"]
 latitudeLongitude = ["34.5776326","138.2991098"]
 +++
-***Tokyo, Japan* was a planned *Chuck E. Cheese's* that would have opened in Early 1999 with a Studio C Alpha.**
+***Tokyo, Japan*** was a planned *Chuck E. Cheese's* that would have opened in Early 1999 with a Studio C Alpha.
 
 ## History
 

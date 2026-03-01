@@ -1,10 +1,20 @@
 +++
 title = "Federal Way, WA (1320 324th St)"
-draft = false
+storeNumber = ""
+startDate = "1981-11-11"
+endDate = "1984-10-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1981-11-11|1984-10-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["47.3124600","-122.3167556"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

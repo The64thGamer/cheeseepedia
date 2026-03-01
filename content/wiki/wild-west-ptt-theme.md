@@ -1,8 +1,8 @@
 +++
-title = "Wild West (PTT Theme)"
+title = "Wild West (Balcony Stage Theme)"
 draft = false
 tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

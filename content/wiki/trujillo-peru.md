@@ -1,10 +1,20 @@
 +++
 title = "Trujillo, Peru"
-draft = false
+storeNumber = ""
+startDate = "2014-08-19"
+endDate = "2024-11-03"
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2014-08-19|2024-11-03|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["-8.1116778","-79.0287742"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2014-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

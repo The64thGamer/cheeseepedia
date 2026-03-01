@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Strike It Up"]
 startDate = ""
-description = "3-Stage SVHS Master Label (Front)"
 +++
+3-Stage SVHS Master Label (Front)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Irving, TX (1707 Market Pl Blvd 200)"]
 startDate = ""
-description = "Shot of the road sign. (PC: Google Maps)"
 +++
+Shot of the road sign. (PC: Google Maps)

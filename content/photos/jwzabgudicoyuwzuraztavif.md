@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Buddy Crash (2005)"
 +++
+Buddy Crash (2005)

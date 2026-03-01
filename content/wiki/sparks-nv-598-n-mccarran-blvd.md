@@ -1,10 +1,20 @@
 +++
 title = "Sparks, NV (598 N McCarran Blvd)"
-draft = false
+storeNumber = ""
+startDate = "1982-08-10"
+endDate = "1985-11-00"
+cuDate = ""
+remodels = []
+stages = ["Classic Stage|1982-08-10|1985-11-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["39.5397483","-119.7329305"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

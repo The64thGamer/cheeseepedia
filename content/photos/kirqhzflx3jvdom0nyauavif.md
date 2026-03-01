@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Sgt. Singer (Animatronic)"]
 startDate = ""
-description = "Closeup of Sgt. Singer's Guitar"
 +++
+Closeup of Sgt. Singer's Guitar

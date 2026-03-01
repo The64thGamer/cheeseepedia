@@ -1,12 +1,9 @@
 +++
 draft = false
-endDate = ""
-citations = []
-startDate = "2024-08-17"
 title = "Site Guidelines & Rules"
-contributors = ["The 64th Gamer", "2600:4040:59FC:D100:A0EB:B44E:C6B6:16A2"]
+contributors = ["The 64th Gamer", "Anonymous"]
 tags = ["Meta"]
-categories = [""]
+categories = ["Cheese-E-Pedia"]
 +++
 
 ## Writing Guidelines
@@ -16,7 +13,7 @@ Follow these rules for submissions or they will not be accepted.
 - Mark references and citations for any info. If you source was "I saw it", provide photo or video proof as the source. If your source was "I heard it from an employee/manager", provide proof as the source, or at the very least note this interaction as a citation so it can be independently verified.
 - Keep articles well written and without excessive grammar issues.
 - Keep writing academic, avoid use of opinions- whether your own or "community concensus".
-- No uploading of [}}">Creative Engineering Premium Service](%7B%7B%3C%20ref%20){wiki="" creative="" engineering="" premium="" video="" service"=""} videos or screenshots. Documenting info on them is fine.
+- No uploading of Creative Engineering Premium Service videos or screenshots. Documenting info on them is fine.
 - No leaking of private company or employee info.
 - Every page should start off with the page's name in
   *bold italics.* The first sentence should give a brief description of the item, and the years it was used in. After this single sentence a new paragraph must be started if more details are to be described. Only a single paragraph at maximum should be at the top of a page, anything further should then be separated by a header.

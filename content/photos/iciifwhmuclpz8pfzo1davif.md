@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["PTT Basic Ordering Agreement"]
 startDate = ""
-description = "Animation Hardware (Page 35)"
 +++
+Animation Hardware (Page 35)

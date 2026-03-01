@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Louisville, KY (5743 Preston Hwy)"]
 startDate = ""
-description = "Preston's exterior in the mid-late 1990s. (PC: showbizpizza.com)"
 +++
+Preston's exterior in the mid-late 1990s. (PC: showbizpizza.com)

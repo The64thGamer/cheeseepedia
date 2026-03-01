@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Jungle Jim's Moonshine & Rocks"]
 startDate = ""
-description = "Moonshine Jugs, 2018"
 +++
+Moonshine Jugs, 2018

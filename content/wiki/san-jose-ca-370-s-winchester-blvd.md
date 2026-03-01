@@ -1,104 +1,47 @@
 +++
-draft = false
 title = "San Jose, CA (370 S Winchester Blvd)"
+storeNumber = ""
 startDate = "1977-05-17"
 endDate = "1985-02-00"
-pageThumbnailFile = "GnoV9ijC2b_NYaIy5vFS.avif"
-contributors = ["Pench0782", "CECBowlingGreen", "EagleScout610", "The 64th Gamer", "JJperks", "Puppetpals", "Rexburg090", "KPIZZA03", "RessiduePezzzado", "PTT1977fan", "BloxxyColas", "Ceclife13", "BurgersNuggs445", "Midwestretail", "Concordio", "WalterB", "SinStar", "PTT at you're service", "FileFickle", "ThatBoiCydalan", "CECMentor", "Jaxonia", "Chouts1"]
-citations = ["<a href=\"http://csjpbce.sanjoseca.gov/ecmsviewer/704/407/3407704.pdf\">http://csjpbce.sanjoseca.gov/ecmsviewer/704/407/3407704.pdf</a>", "<a href=\"http://csjpbce.sanjoseca.gov/ecmsviewer/705/407/3407705.pdf\">http://csjpbce.sanjoseca.gov/ecmsviewer/705/407/3407705.pdf</a>", "<a href=\"https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977\">https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977</a>", "<a href=\"http://www.showbizpizza.com/videos/index.html\">http://www.showbizpizza.com/videos/index.html</a>", "<a href=\"http://csjpbce.sanjoseca.gov/ecmsviewer/021/470/2470021.pdf\">http://csjpbce.sanjoseca.gov/ecmsviewer/021/470/2470021.pdf</a>", "<a href=\"http://csjpbce.sanjoseca.gov/ecmsviewer/723/539/3539723.pdf\">http://csjpbce.sanjoseca.gov/ecmsviewer/723/539/3539723.pdf</a>", "<a href=\"http://csjpbce.sanjoseca.gov/ecmsviewer/022/470/2470022.pdf\">http://csjpbce.sanjoseca.gov/ecmsviewer/022/470/2470022.pdf</a>", "<a href=\"https://www.metroactive.com/papers/metro/06.04.98/dining-9822.html\">https://www.metroactive.com/papers/metro/06.04.98/dining-9822.html</a>"]
-downloadLinks = ["https://archive.org/details/pizza-time-theatre-winchester-blueprints|Building Plans (1966-1998)"]
+cuDate = ""
+remodels = ["PTT Standard Layout|1977-05-17"]
+stages = ["Winchester PTT Show|1977-05-17|1981-00-00","Balcony Stage|1981-00-00|1985-02-00"]
+franchisees = []
+attractions = ["Brunswick - Air Hockey 8'|1977-00-00|0000-00-00","Americoin - Junkyard|1977-00-00|0000-00-00","Midway - Boot Hill|1977-00-00|0000-00-00","Air Hockey 8' - Brunswick|1977-00-00|0000-00-00","Shooting Trainer - Sega|1977-00-00|0000-00-00","Pong Double-Kit - Atari|1977-00-00|0000-00-00","Breakout - Atari|1977-00-00|0000-00-00","Dominoes - Atari|1977-00-00|0000-00-00","Tank - Atari|1977-00-00|0000-00-00","Sprint II - Atari1977-00-00|0000-00-00","Night Driver - Atari|1977-00-00|0000-00-00","Indy 4 - Atari|1977-00-00|0000-00-00","F-1 Mach - Atari and Namco|1977-00-00|0000-00-00","Puppy Pong - Atari|1977-00-00|0000-00-00","Cheese Crawl|1977-00-00|0000-00-00","Atarians - Atari|1977-00-00|0000-00-00","Night Rider - Bally|1977-00-00|0000-00-00","Freedom - Bally|1977-00-00|0000-00-00","Solar City - Gottlieb|1977-00-00|0000-00-00","Grand Prix - Williams|1977-00-00|0000-00-00","Captain Fantastic - Bally|1977-00-00|0000-00-00","Football - Atari|1979-00-00|0000-00-00","Touch-Me - Atari|1979-00-00|0000-00-00","Starship 1 - Atari|1979-00-00|0000-00-00","Fire Truck - Atari|1979-00-00|0000-00-00","Unknown Shooter|1979-00-00|0000-00-00","Circus - Exidy|1979-00-00|0000-00-00","Orbit - Atari|1979-00-00|0000-00-00","LeMans - Atari|1979-00-00|0000-00-00","Football - Atari|1979-00-00|0000-00-00","Lunar Lander - Atari|1979-00-00|0000-00-00","Atari Baseball - Atari|1979-00-00|0000-00-00","Sea Wolf 2 - Midway|1979-00-00|0000-00-00","Stunt Cycle - Atari|1979-00-00|0000-00-00"]
+animatronics = ["Winchester Chuck E. Cheese V1 (Animatronic)|1977-05-17|1978-06-00|N/A|Unknown","Winchester Chuck E. Cheese V2 (Animatronic)|1978-06-00|1981-00-00|N/A|Owned by Travis Schafer.","Winchester Crusty the Cat V1 (Animatronic)|1977-05-17|1978-06-00|N/A|Unknown","Winchester Crusty the Cat V2 (Animatronic)|1978-06-00|1981-00-00|N/A|Owned by Travis Schafer.","Winchester Pasqually (Animatronic)|1977-05-17|1981-00-00|N/A|Destroyed at CEC Entertainment.","Winchester Jasper T. Jowls (Animatronic)|1977-05-17|1981-00-00|N/A|Destroyed at CEC Entertainment.","Winchester Warblettes (Animatronic)|1977-05-17|1981-00-00|N/A|Unknown","Winchester Pizza Time Orchestra (Animatronic)|1977-05-17|1981-00-00|N/A|Unknown","Winchester Flag Wavers (Animatronic)|1977-05-17|1981-00-00|N/A|Unknown","Winchester Applause Board (Animatronic)|1977-05-17|1981-00-00|N/A|Unknown","Winchester Helen Henny (Animatronic)|1977-08-12|1978-02-00|N/A|Unknown","Winchester Madam Oink (Animatronic)|1978-02-00|1978-10-00|N/A|Unknown","Winchester Foxy Colleen (Animatronic)|1978-10-00|1981-00-00|N/A|Unknown","Chuck E. Cheese (Cyberamic)|1979-10-00|1985-02-00|N/A|Unknown","Jasper T Jowls (Cyberamic)|1979-10-00|1985-02-00|N/A|Unknown","Mr. Munch (Cyberamic)|1979-10-00|1985-02-00|N/A|Unknown","Pasqually (Cyberamic)|1979-10-00|1985-02-00|N/A|Unknown","Guest Star / Helen Henny (Cyberamic)|1979-10-00|1985-02-00|N/A|Unknown","Dolli Dimples (Cyberamic)|1979-10-00|1985-02-00|N/A|Unknown"]
+sqft = "5000"
 latitudeLongitude = ["37.31836087", "-121.9513324"]
+citations = ["http://csjpbce.sanjoseca.gov/ecmsviewer/704/407/3407704.pdf","http://csjpbce.sanjoseca.gov/ecmsviewer/705/407/3407705.pdf","https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977","http://www.showbizpizza.com/videos/index.html","http://csjpbce.sanjoseca.gov/ecmsviewer/021/470/2470021.pdf","http://csjpbce.sanjoseca.gov/ecmsviewer/723/539/3539723.pdf","http://csjpbce.sanjoseca.gov/ecmsviewer/022/470/2470022.pdf","https://www.metroactive.com/papers/metro/06.04.98/dining-9822.html","https://cdnc.ucr.edu/?a=d&d=LGT19781110.1.1&srpos=1&e=------197-en--20--1-byDA-txt-txIN-%22Chuck+E+Cheese%22-------","https://cdnc.ucr.edu/?a=d&d=LGT19790928.1.6&srpos=94&e=------197-en--20--81-byDA-txt-txIN-Nolan+Bushnell-------"]
+contributors = ["Cyber Snout","Pench0782","CECBowlingGreen","EagleScout610","The 64th Gamer","JJperks","Puppetpals","Rexburg090","KPIZZA03","RessiduePezzzado","PTT1977fan","BloxxyColas","Ceclife13","BurgersNuggs445","Midwestretail","Concordio","WalterB","SinStar","PTT at you're service","FileFickle","ThatBoiCydalan","CECMentor","Jaxonia","Chouts1"]
+downloadLinks = ["https://archive.org/details/pizza-time-theatre-winchester-blueprints|Building Plans (1966-1998)"]
+pageThumbnailFile = "GnoV9ijC2b_NYaIy5vFS.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
+draft = false
 +++
-
-***San Jose, CA (370 S Winchester Blvd)*** was the first {{< wiki-link "Pizza Time Theatre" >}} that opened on May 17th, 1977, as apart of Warner Communications Inc, and closed in February of 1985.
-
-## Stage
-
-Winchester opened with a show consisting of Chuck E. Cheese, Crusty the Cat and Jasper T. Jowls in portrait frames. Also featured was Pasqually the Chef behind kitchen doors and the Warblettes on their own platform. Scattered on shelves throughout the room would be the Pizza Time Orchestra and the Clapper Board as well as various other objects. A more advanced bot, Helen Henny, would be delivered to the store on August 12, 1977. She would be replaced with Madam Oink in February 1978, and Foxy Colleen followed in October 1978. Around June of 1978, upgraded versions of Crusty and Chuck E. Cheese with more movements would be installed. As shown in 1979 footage of the store, the store's bots were not maintained often. Between 1980-1981, Winchester would replace their bots with {{< wiki-link "Cyberamics" >}}.
+***San Jose, CA (370 S Winchester Blvd)*** was the first {{< wiki-link "Pizza Time Theatre" >}} that opened on May 17th, 1977, as a part of Warner Communications Inc, and closed in February of 1985.
 
 ## History
+### Pre-Opening
 
-Development of Winchester as a location dates back to 1976 under the name 'The Big Cheese', 'Pizza Game Center', etc. The venue was planned to be a 6,000 square foot venue with 2 arcades and a casino lounge. A total of $43,106 worth of games and rides were purposed alongside the Mood Box and a Theatre Program. The second location (later being {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}) was also being planned alongside Winchester at the time. The spot chosen would be a 5,000 square foot building that *Security Pacific Bank* was moving out of. Drafts for a remodel of the building would be completed by December 22, 1976.(1) By January 18th, 1977, the plans for Winchester were sent to the County of Santa Clara and were approved with minor changes suggested by the county. On March 3rd, The Planning Commission gave the go-ahead to Warner Communications inc. to begin construction.(2) The Kooser Road store was also being proposed around this time, having it's location being voted on by the Planning Commission of San Jose.
+The development of Winchester as a location dates back to 1976 under the names 'The Big Cheese', 'Pizza Game Center', etc. The venue was planned to be a 6,000 square foot venue with 2 arcades and a casino lounge. A total of $43,106 worth of games and rides were purchased alongside the Mood Box and a Theatre Program. The second location (later being {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}) was also being planned alongside Winchester at the time. The spot chosen would be a 5,000 square foot building that *Security Pacific Bank* was moving out of. Drafts for a remodel of the building would be completed by December 22, 1976. {{< cite 1 >}} By January 18th, 1977, the plans for Winchester were sent to the County of Santa Clara and were approved with minor changes suggested by the county. On March 3rd, the Planning Commission gave the go-ahead to Warner Communications Inc. to begin construction. {{< cite 2 >}} The Kooser Road store was also being proposed around this time, having its location being voted on by the Planning Commission of San Jose.
 
-### Opening
+### 1970's - 1980's
+An ad campaign was launched in local newspapers and radio stations weeks before opening to generate hype. Winchester would host a series of press preview parties days before the public opening, where select members of the press and VIP members were invited out to see Winchester early. On May 17th, 1977, Winchester opened to the public for the first time and became an instant hit amongst the local community. {{< cite 3 >}} Most people rarely saw working animatronics outside of Disneyland, creating a novelty that drew visitors in. Often on weekends, the place would be at max capacity with a line outside reaching around the sidewalk. Winchester opened with a show consisting of Chuck E. Cheese, Crusty the Cat, and Jasper T. Jowls in portrait frames. Also featured was Pasqually the Chef behind kitchen doors and the Warblettes on their own platform. Scattered on shelves throughout the room would be the Pizza Time Orchestra and the Clapper Board, as well as various other objects. As time moved on, Winchester would receive a large number of guests visiting every weekend, with their facility at maximum capacity most weekends. 
 
-An ad campaign was launched in local newspapers and radio stations weeks before opening to generate hype. Winchester would host a series of press preview parties days before the public opening where select members of the press and VIP members were invited out to see Winchester early. On May 17th, 1977, Winchester opened to the public for the first time and became an instant hit amongst the local community.(3) Most people rarely saw working animatronics outside of Disneyland, creating a novelty that drew visitors in. Often on weekends, the place would be at max capacity with a line outside reaching around the sidewalk.
+A more advanced bot, Helen Henny, would be delivered to the store on August 12, 1977. In September of 1977, a new menu and game-room carpets were added to the store. Helen Henny would be replaced by Madam Oink in February 1978, followed by Foxy Colleen in October 1978. 
 
-### Post-Opening
+Around June of 1978, upgraded versions of Crusty and Chuck E. Cheese with more movements would be installed. On November 10th, 1978, the {{< wiki-link "Winchester Chuck Walkaround" >}} would visit the Crippled Children's Society of Santa Clara County to hand out pizza for the kids and pose for a newspaper story. The story would state that all proceeds at the location on November 13th would go to the cause.{{< cite 9 >}}
 
-As time moved on, Winchester would receive a large amount of guest visiting every weekend, having their facility at max capacity most of the weekends. In September of 1977, a new menu and game-room carpets were added to the store. When Kooser opened in 1978, a large majority of potential and current Pizza Time Theatre customers moved to the bigger and updated store. Although Winchester still had a sizable guest count and loyal patrons, new guests were few and far between. *Four Corners* would do a news report with Gene Landrum inside the Winchester building in late 1979.(4) On September 11th, 1981, Winchester would receive the 1981 remodel. The estimated cost of the changes would amount to 4,500 dollars.
+*Four Corners* would do a news report with Gene Landrum inside the Winchester building in early to mid 1979. {{< cite 4 >}} Some time after the report, the falling apart {{< wiki-link "Winchester Chuck Walkaround" >}} would be revamped with a new head and cosmetics, while still keeping unique identifiers to it like its bare feet. This would then make an appearance in mid-1979 in the {{< wiki-link "PTT Franchise Brochure (1979)" >}}, which featured a mixture of elements exclusively from the store, though with the pictures of the Crusty and Warblettes bots replaced with Kooser's Mr. Munch and Mopsey Sisters.
 
-### Closure
+On September 28th, 1979, a news story would release describing many aspects of the store. By this point a {{< wiki-link "Dolli Dimples (Cyberamic)" >}} had been installed. Her position is described as "Accompanying her songs is an arrangement of percussion instruments — drums, a cowbell, tambourine, wooden blocks — mounted on a shelf above her.", which would place her between Chuck E. Cheese and Crusty's positions. A different sentance contradicts this by noting "...'playing' the large mock piano at the front of the room;" and "...you may want to wander along the right side of the room into any of several smaller rooms stocked with a wide range of electronic games", which would imply she is closer to the main counter. The assistant manager of the time would be Scott Cameron, being hired in June of 1979. He would state that "With the exception of Dolly, these characters are at the present time not in use, being updated elsewhere... but they will be back.". Notably this implies the characters are still present in the building, just non-functional, and soon updating to {{< wiki-link "Cyberamics" >}}. Dolli was possibly installed early as a stop-gap while the other characters were unavailable, especially as the {{< wiki-link "Winchester Hardware Setup" >}} would need to be overhauled to the {{< wiki-link "Cyberamic Control System" >}}. Each character also has their personality described by Scott, but when getting to Mr. Munch they note "...only described as looking like...", which implies Mr. Munch is not in the building. Crusty is not mentioned either however. Lastly, the article describes an area now containing kiddie rides, and a poster of "...a jam band, with Chuck E. welcoming President Carter to Pizza Time." {{< cite 10 >}}
 
-Around February 1985, Winchester would close permanently for unknown reasons, however it can be attributed towards the slow decline of guests over the years. The building would remain vacant. By November 12, 1986, the building's owner would change to Lim Yee, who would plan to open a new Chinese restaurant named 'Ocean Harbor Chinese Seafood' at the vacant Winchester plot.(5) It would take several years of development with the renovation (including the interior and exterior) before being approved for occupancy (and assumedly subsequently opened) on April 19, 1987.(6)(7) It would remain open during the 90's, closing at an unknown date.(8) In 2002, the building was demolished alongside the rest of Town and Country Village. The former plot of land is now entirely a road in the middle of a shopping center.
+The Cyberamics update to the characters would be installed likely in early October, at maximum by the end of the year. No building permits were applied at this time for any interior changes, indicating they were installed in the same spots as the prior animatronics.
 
-## Arcade Machines
+On September 11th, 1981, Winchester would have 4 outlets, 14 receptacles, and 4 light fixtures planned and added by the end of the week. The estimated cost of the changes would amount to $4,500. A photo of the exterior in Fall of 1982 would show its main sign had been changed to one with a different font, though not of a design that would indicate the location recieved the {{< wiki-link "PTT 1981 Exterior Update" >}}.
 
-### 1977
+Around February 1985, Winchester would close permanently for unknown reasons; however, this can be attributed to the slow decline in guests over the years. 
 
-- Brunswick - Air Hockey 8'
-- Americoin - Junkyard,???
-- [Midway - Boot Hill, 1975](https://www.arcade-museum.com/game_detail.php?game_id=7193)
-- Sega - Shooting Trainer,???
-- Pong Double-Kit - Atari,???
-- Breakout - Atari *(Pizza Game Booth)*
-- Dominoes - Atari *(Pizza Game Booth)*
-- Tank - Atari *(Pizza Game Booth)*
-- [Sprint II - Atari, 1976](https://www.arcade-museum.com/game_detail.php?game_id=9739)
-- [Night Driver - Atari, 1976 (Not to be confused with stand-up version released in 1979)](https://www.arcade-museum.com/game_detail.php?game_id=8866)
-- [Indy 4 - Atari, 1976](https://www.arcade-museum.com/game_detail.php?game_id=8188)
-- [Triple Hunt - Atari, 1977](https://www.arcade-museum.com/game_detail.php?game_id=10193)
-- F-1 Mach - Atari &amp; Namco, 1976
-- Biorhythm
-- [Puppy Pong - Atari, 1974](https://www.arcade-museum.com/game_detail.php?game_id=9159)
-- Cheese Crawl - Unknown
-
-### 1979
-
-- [Football - Atari, 1977](https://www.arcade-museum.com/game_detail.php?game_id=13018)
-- Touch-Me - Atari, 1974 (Not to be confused with handheld)
-- [Starship 1 - Atari, 1977](https://www.arcade-museum.com/game_detail.php?game_id=9782)
-- [Fire Truck - Atari, 1978](https://www.arcade-museum.com/game_detail.php?game_id=7814)
-- Unknown Shooter
-- [Circus - Exidy, 1977](https://www.arcade-museum.com/game_detail.php?game_id=7340)
-- [Orbit - Atari, 1978](https://www.arcade-museum.com/game_detail.php?game_id=8929)
-- [LeMans - Atari, 1976](https://www.arcade-museum.com/game_detail.php?game_id=8400)
-- [Lunar Lander - Atari, 1979](https://www.arcade-museum.com/game_detail.php?game_id=8465)
-- [Atari Baseball - Atari, 1979](https://www.arcade-museum.com/game_detail.php?game_id=6955)
-- [Sea Wolf 2 - Midway, 1978](https://www.arcade-museum.com/game_detail.php?game_id=9460)
-- [Stunt Cycle - Atari, 1977 (Not to be confused with home-console port)](https://www.arcade-museum.com/game_detail.php?game_id=9854)
-
-### Pinball (1977)
-
-- Atarians - Atari, 1976
-- Night Rider - Bally, 1977
-- Freedom - Bally, 1976
-- Solar City - Gottlieb, 1977
-- Grand Prix - Williams, 1976
-- Captain Fantastic - Bally, 1976
-
-## Animatronics
-
-| Animatronic                                                             | Manufacturing Date | Whereabouts                                                  |
-|-------------------------------------------------------------------------|--------------------|--------------------------------------------------------------|
-| {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)" >}}   | Unknown            | Unknown.                                                     |
-| {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}}   | Unknown            | Owned by Travis Schafer.                                     |
-| {{< wiki-link "Winchester Crusty the Cat V1 (Animatronic)" >}}    | Unknown            | Unknown.                                                     |
-| {{< wiki-link "Winchester Crusty the Cat V2 (Animatronic)" >}}    | Unknown            | Owned by Travis Schafer.                                     |
-| {{< wiki-link "Winchester Pasqually (Animatronic)" >}}            | Unknown            | Destroyed.                                                   |
-| {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}}      | Unknown            | Destroyed.                                                   |
-| {{< wiki-link "Winchester Helen Henny (Animatronic)" >}}          | 8/12/1977          | Unknown.                                                     |
-| {{< wiki-link "Winchester Madam Oink (Animatronic)" >}}           | Unknown            | Unknown                                                      |
-| {{< wiki-link "Winchester Foxy Colleen (Animatronic)" >}}         | Unknown            | Unknown                                                      |
-| {{< wiki-link "Winchester Warblettes (Animatronic)" >}}           | Unknown            | Unknown.                                                     |
-| {{< wiki-link "Winchester Pizza Time Orchestra (Animatronic)" >}} | Unknown            | Unknown.                                                     |
-| {{< wiki-link "Winchester Flag Wavers (Animatronic)" >}}          | Unknown            | Unknown.                                                     |
-| {{< wiki-link "Winchester Applause Board (Animatronic)" >}}       | Unknown            | Unknown.                                                     |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                 | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}                    | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}                          | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}                         | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}            | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}                        | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
+### Post-Closure
+The building would remain vacant. By November 12, 1986, the building's owner would change to Lim Yee, who would plan to open a new Chinese restaurant named 'Ocean Harbor Chinese Seafood' at the vacant Winchester plot. {{< cite 5 >}} It would take several years of development with the renovation (including the interior and exterior) before being approved for occupancy (and assumedly subsequently opened) on April 19, 1987. {{< cite 6 >}} {{< cite 7 >}} It would remain open during the 90s, closing at an unknown date . {{< cite 8 >}} In 2002, the building was demolished alongside the rest of Town and Country Village. The former plot of land is now entirely a road in the middle of a shopping center.

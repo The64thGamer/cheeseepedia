@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 startDate = ""
-description = "Celebrate With A Cake Ad (2009)"
 +++
+Celebrate With A Cake Ad (2009)

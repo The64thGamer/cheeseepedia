@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Friendly Freddy in the Opera House Window"
 +++
+Friendly Freddy in the Opera House Window

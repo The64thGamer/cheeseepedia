@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Piccadilly Circus Ad for Sioux City featuring Dilly"
 +++
+Piccadilly Circus Ad for Sioux City featuring Dilly

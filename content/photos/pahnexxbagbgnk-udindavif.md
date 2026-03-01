@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Beatrice (2005)"
 +++
+Beatrice (2005)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Pizza Time Theatre Mini Wheel"]
 startDate = ""
-description = "PTT Mini Wheel"
 +++
+PTT Mini Wheel

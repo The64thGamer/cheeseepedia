@@ -1,10 +1,20 @@
 +++
 title = "Oxnard, CA (325 W Channel Islands Blvd)"
-draft = false
+storeNumber = ""
+startDate = "1983-01-00"
+endDate = "1987-05-24"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1983-01-00|1987-05-24|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["34.1737399","-119.1801759"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1983-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

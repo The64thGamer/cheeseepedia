@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Sun (Animatronic)"]
 startDate = ""
-description = "Alternative paint Building prototype."
 +++
+Alternative paint Building prototype.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Pensacola, FL (7350 Plantation Rd)"]
 startDate = ""
-description = "April 2012"
 +++
+April 2012

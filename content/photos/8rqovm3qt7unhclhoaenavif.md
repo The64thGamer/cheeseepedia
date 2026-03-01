@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["The Wolfman (Animatronic)"]
 startDate = ""
-description = "Ditto"
 +++
+Ditto

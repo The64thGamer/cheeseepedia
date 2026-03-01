@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "BCJ Theater Abandoned"
 +++
+BCJ Theater Abandoned

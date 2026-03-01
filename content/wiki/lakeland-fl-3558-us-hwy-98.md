@@ -1,10 +1,20 @@
 +++
 title = "Lakeland, FL (3558 US Hwy 98)"
-draft = false
+storeNumber = ""
+startDate = "1993-03-28"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["1-Stage|1993-03-28|2006-00-00|1-Stage w/ 2-Stage Backdrops|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["28.0877088","-81.9727467"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "1993-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

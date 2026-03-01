@@ -1,10 +1,11 @@
 +++
+
 title = "Kooser Mopsey Sisters (Animatronic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
+pageThumbnailFile = "Mopsey_Sisters_Magazine.avif"
+startDate = "1978-12-00"
+endDate = "1980-05-00"
 contributors = []
 +++

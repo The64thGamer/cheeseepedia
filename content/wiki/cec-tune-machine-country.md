@@ -4,7 +4,7 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "1988-00-00"
-endDate = "0000-00-00"
+startDate = "1988-03-00"
+endDate = "1988-04-00"
 contributors = []
 +++

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Orem, UT (40 E Center St)"]
 startDate = ""
-description = "Orem Under Construction"
 +++
+Orem Under Construction

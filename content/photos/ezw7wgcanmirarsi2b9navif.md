@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Arlington, TX (3200 Justiss Dr)"]
 startDate = ""
-description = "Exterior after closure (2015)"
 +++
+Exterior after closure (2015)

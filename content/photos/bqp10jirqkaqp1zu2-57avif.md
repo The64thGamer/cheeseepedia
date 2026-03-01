@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Boardman, OH (813 Boardman Poland Rd)"]
 startDate = ""
-description = "Boardman's Exterior in the Mid-Late 80s."
 +++
+Boardman's Exterior in the Mid-Late 80s.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Edenlandia Western Monkey on Washboard (Post-Closure)"
 +++
+Edenlandia Western Monkey on Washboard (Post-Closure)

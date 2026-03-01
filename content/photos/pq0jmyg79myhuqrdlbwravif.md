@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Atari Family Game Center"]
 startDate = ""
-description = "Atari Leisure Time Game Center Concept Art (1974-1975)"
 +++
+Atari Leisure Time Game Center Concept Art (1974-1975)

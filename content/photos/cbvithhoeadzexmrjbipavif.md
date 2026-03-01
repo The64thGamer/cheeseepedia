@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Rockin Rollies"]
 startDate = ""
-description = "Rockin' Rollie's Opening Announcement"
 +++
+Rockin' Rollie's Opening Announcement

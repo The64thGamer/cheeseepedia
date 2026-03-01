@@ -1,4 +1,5 @@
 +++
+
 title = "PTT Winchester Chuck E. Cheese Name Sign (1977)"
 draft = false
 tags = ["Store Fixtures"]
@@ -6,7 +7,8 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Concordio"]
-citations = ["[https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf](%22https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf"]
+pageThumbnailFile = "VRpCiK9SLvEccgHY3Gan.avif"
 +++
 The ***Winchester Chuck E. Cheese Nameplate* was only used at the first Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} located in the Town & Country Shopping Center in San Jose, California; for the purpose of identifying the {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)" >}} from 1977 to 1980.**
 
@@ -29,4 +31,4 @@ Around 2017, Chuck E. Cheese announced their 2.0 remodel program. As a part of t
 ## Design
 
 Chuck E. Cheese's nameplate is pretty much identical to the other Winchester nameplates at the time, with the exception of Helen Hennys nameplate, each Winchester nameplate used a rounded wooden board with the character's name in white text in the center, enclosed in a thin yellow border. Chuck E. Cheese's nameplate was no different, with the only difference being the text was changed to 'CHUCK E. CHEESE'
-Around late 1979, Chuck E. Cheese's nameplate alongside the other Winchester nameplates would receive the text '© PIZZA TIME THEATRE INC 1978' on the lower portion of the nameplate, as seen in the 1979 Great All American Pizza Show Franchise Brochure. <sup>(1)</sup>
+Around late 1979, Chuck E. Cheese's nameplate alongside the other Winchester nameplates would receive the text '© PIZZA TIME THEATRE INC 1978' on the lower portion of the nameplate, as seen in the 1979 Great All American Pizza Show Franchise Brochure. {{< cite 1 >}}

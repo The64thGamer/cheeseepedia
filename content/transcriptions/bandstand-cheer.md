@@ -68,4 +68,5 @@ We’re gonna wish our friend a happy day
 And go, hip hip hip hooray!
 
 **Chuck E. Cheese:**
+
 All right hooray!

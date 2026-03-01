@@ -5,7 +5,7 @@ startDate = "1983-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "djkqafhwklsjlafhalkcjaklfhklfhlkahfieop.avif"
 contributors = ["Kathydra", "The 64th Gamer"]
-citations = ["[https://www.youtube.com/watch?v=vkgivnsr9FU](%22https://www.youtube.com/watch?v=vkgivnsr9FU%22)"]
+citations = ["https://www.youtube.com/watch?v=vkgivnsr9FU"]
 manufacturer = "Creative Engineering"
 unitsProduced = "1"
 tags = ["Animatronics"]

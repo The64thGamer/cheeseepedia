@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["FileFickle"]
 startDate = ""
-description = "Don't make me tap the sign..."
 +++
+Don't make me tap the sign...

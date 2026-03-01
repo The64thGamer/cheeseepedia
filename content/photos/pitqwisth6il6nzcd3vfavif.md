@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Small Pasqually Plush (1996)"]
 startDate = ""
-description = "Plush's Tag Front"
 +++
+Plush's Tag Front

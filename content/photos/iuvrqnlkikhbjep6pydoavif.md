@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Sharonville, OH (1429 E Kemper Rd)"]
 startDate = ""
-description = "The Animatronics Prepping for removal. (October 30, 2019)"
 +++
+The Animatronics Prepping for removal. (October 30, 2019)

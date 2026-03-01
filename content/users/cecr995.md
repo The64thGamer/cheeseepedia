@@ -2,7 +2,7 @@
 title = "CECR995"
 draft = false
 tags = ["User"]
-categories = []
+categories = ["User-Generated Content"]
 startDate = ""
 endDate = ""
 contributors = ["CECR995"]

@@ -1,7 +1,7 @@
 +++
 title = "1992 Crocodile Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

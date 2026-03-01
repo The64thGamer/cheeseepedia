@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Raleigh, NC (3501-131 Capital Blvd)"]
 startDate = ""
-description = "Center Stage. PC: Foursquare (June 30, 2013)"
 +++
+Center Stage. PC: Foursquare (June 30, 2013)

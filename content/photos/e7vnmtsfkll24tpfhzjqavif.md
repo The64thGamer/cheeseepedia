@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamic Control System"]
 startDate = ""
-description = "Card Cage / Backplane Front"
 +++
+Card Cage / Backplane Front

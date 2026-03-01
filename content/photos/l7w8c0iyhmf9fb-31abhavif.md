@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Bradenton, FL (4420 14th St)"]
 startDate = ""
-description = "Up close photo of Bradenton's Balcony with Madame Oink."
 +++
+Up close photo of Bradenton's Balcony with Madame Oink.

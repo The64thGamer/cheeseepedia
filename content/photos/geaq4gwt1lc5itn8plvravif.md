@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["B.B. Bubbles (Cabaret)"]
 startDate = ""
-description = "BB Bubbles in a store"
 +++
+BB Bubbles in a store

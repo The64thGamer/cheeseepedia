@@ -22,6 +22,8 @@ attractions = []
 ***167 Rexville Town Center KM 17.6, Bayamón, 00956, Puerto Rico*** is a Chuck E. Cheese that opened in June 2003 and is the first Chuck E. Cheese to open in Purto Rico.
 
 ## History
+### Pre-opening
+In 2002, 'Burson & Williams' would state that they '...completed 577 corporate and franchise projects in the United States, Puerto Rico, and Canada' this would be the earliest mention of Puerto Rico becoming a market for Chuck E. Cheese's{{< cite 32 >}}. 
 
 ### Pre-opening
 

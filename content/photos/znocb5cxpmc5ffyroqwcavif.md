@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamic Control System"]
 startDate = ""
-description = "Light Driver Card (Rev A)"
 +++
+Light Driver Card (Rev A)

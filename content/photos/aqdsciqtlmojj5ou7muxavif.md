@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Springfield, IL (2369 McArthur Ave)"]
 startDate = ""
-description = "Exterior (1992)"
 +++
+Exterior (1992)

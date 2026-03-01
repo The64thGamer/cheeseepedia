@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = [""]
 startDate = "2025-01-07"
-description = ""
+
 +++

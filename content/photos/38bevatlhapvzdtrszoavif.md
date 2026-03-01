@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Multiplaza Pacific, Panama"]
 startDate = ""
-description = "A picture of the exterior inside the mall.(PC: Rene M. in Foursquare)"
 +++
+A picture of the exterior inside the mall.(PC: Rene M. in Foursquare)

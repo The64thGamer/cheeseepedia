@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Rick Rat Walkaround"]
 startDate = ""
-description = "Nolan Bushnell & Rick Rat (Unknown Year)"
 +++
+Nolan Bushnell & Rick Rat (Unknown Year)

@@ -5,7 +5,7 @@ tags = ["Costumed Characters"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2005-00-00"
 endDate = "0000-00-00"
-contributors = ["Showtimeinc","CEC Tinley","2601:404:D681:9F70:1CB1:2E1E:7D31:696C","The 64th Gamer"]
+contributors = ["Showtimeinc","CEC Tinley","Anonymous","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "t1eUCIdULILkqsXcRgyk.avif"
 +++

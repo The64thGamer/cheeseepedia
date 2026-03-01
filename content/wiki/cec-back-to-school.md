@@ -3,8 +3,8 @@ title = "CEC Back to School"
 draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "1985-00-00"
-endDate = "0000-00-00"
+pageThumbnailFile = "SchoolDays.avif"
+startDate = "1985-09-00"
+endDate = "1985-11-00"
 contributors = []
 +++

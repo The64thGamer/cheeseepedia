@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Patchogue, NY (121 Sunrise Hwy)"]
 startDate = ""
-description = "Patchogue's Entrance 2024"
 +++
+Patchogue's Entrance 2024

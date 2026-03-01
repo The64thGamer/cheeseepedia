@@ -1,10 +1,20 @@
 +++
 title = "Paseo La Fe, Mexico"
-draft = false
+storeNumber = ""
+startDate = "2016-06-13"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2016-06-13||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["25.7193265","-100.2190086"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2016-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Escondido, CA (624 W Mission Ave)"]
 startDate = ""
-description = "Exterior taken shortly before closure (2005). PC: LoopNet"
 +++
+Exterior taken shortly before closure (2005). PC: LoopNet

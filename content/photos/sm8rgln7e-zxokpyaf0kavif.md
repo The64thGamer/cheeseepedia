@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Carina, Queensland, Australia"]
 startDate = ""
-description = "Executives in front of Charlie Cheese's during it's opening."
 +++
+Executives in front of Charlie Cheese's during it's opening.

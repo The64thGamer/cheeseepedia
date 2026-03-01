@@ -1,10 +1,20 @@
 +++
 title = "Cambridge, Ontario, Canada (42 Pinebush Rd)"
-draft = false
+storeNumber = ""
+startDate = "2003-02-18"
+endDate = "2017-12-17"
+cuDate = ""
+remodels = []
+stages = ["Studio C Beta|2003-02-18|2017-12-17|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["0","0"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2003-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

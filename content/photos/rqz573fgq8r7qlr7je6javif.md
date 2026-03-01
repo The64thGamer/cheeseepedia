@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Shark Cupcake (CEC Menu Item)"]
 startDate = ""
-description = "Summer of Fun Food Promo"
 +++
+Summer of Fun Food Promo

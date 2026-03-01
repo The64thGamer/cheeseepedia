@@ -1,7 +1,7 @@
 +++
 title = "2015 Brown Rat Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

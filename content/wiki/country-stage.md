@@ -1,11 +1,11 @@
 +++
 draft = false
 title = "Country Stage"
-startDate = ""
-endDate = ""
+startDate = "1985-01-00"
+endDate = "0000-00-00"
 pageThumbnailFile = "VCh6daSE_TnrB5lgHcqV.avif"
-contributors = ["Emcaacme", "The 64th Gamer", "CECMentor", "Documentor", "smileshy22"]
-citations = ["[https://www.youtube.com/watch?v=6_dm_ddkeYU](%22https://www.youtube.com/watch?v=6_dm_ddkeYU%22)", "[https://www.youtube.com/watch?v=FOzkOfORgVY](%22https://www.youtube.com/watch?v=FOzkOfORgVY%22)"]
+contributors = ["Emcaacme", "The 64th Gamer", "CECMentor", "Cyber Snout", "smileshy22"]
+citations = ["https://www.youtube.com/watch?v=6_dm_ddkeYU", "https://www.youtube.com/watch?v=FOzkOfORgVY"]
 tags = ["Stage Variations"]
 categories = ["ShowBiz Pizza Place"]
 +++
@@ -14,7 +14,7 @@ Many ShowBiz Pizza locations would receive decorations and cosmetics for the cou
 
 ## History
 
-This was one of many ways ShowBiz Pizza Time Inc. would try to freshen up the Rockafire Explosion every once in a while. The seasonal changes to Pizza Time Theatre's Balcony Stage were simulated and applied to the Rock-afire Explosion several times. The Magic Stage was the first concept to tested. The Country Stage would be the last time any new or major stage variations were developed by ShowBiz Pizza Time, mostly due to cost. Stage variations for Balcony stage were much cheaper to preform. The Country Stage would reappear in various 1986 ShowBiz Pizza Place ads. Although by this point the backdrop had been replaced with streamers and center stage receiving a neon 'Rock-Afire' sign. <sup>(1)</sup>
+This was one of many ways ShowBiz Pizza Time Inc. would try to freshen up the Rockafire Explosion every once in a while. The seasonal changes to Pizza Time Theatre's Balcony Stage were simulated and applied to the Rock-afire Explosion several times. The Magic Stage was the first concept to tested. The Country Stage would be the last time any new or major stage variations were developed by ShowBiz Pizza Time, mostly due to cost. Stage variations for Balcony stage were much cheaper to preform. The Country Stage would reappear in various 1986 ShowBiz Pizza Place ads. Although by this point the backdrop had been replaced with streamers and center stage receiving a neon 'Rock-Afire' sign. {{< cite 1 >}}
 
 ## Design
 
@@ -30,4 +30,4 @@ Billy Bob and Looney Bird stayed cosmetically the same. The backdrop, which is a
 
 ### Stage Right
 
-This stage featured Country Klunk instead of Rolfe and Earl. Click still made an appearance with Klunk, despite the changes. The design would be similar to Stage Left and would feature a farm with a scarecrow and tractor. A picket fence was placed on the sides of the stage and above to hide overhead lights.<sup>(2)</sup>
+This stage featured Country Klunk instead of Rolfe and Earl. Click still made an appearance with Klunk, despite the changes. The design would be similar to Stage Left and would feature a farm with a scarecrow and tractor. A picket fence was placed on the sides of the stage and above to hide overhead lights.{{< cite 2 >}}

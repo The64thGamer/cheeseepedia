@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Durham, NC (3724 Mayfair St)"]
 startDate = ""
-description = "The stage in the early 2010s with an Avenger walkaround"
 +++
+The stage in the early 2010s with an Avenger walkaround

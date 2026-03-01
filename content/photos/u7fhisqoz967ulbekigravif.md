@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Chandler, AZ (2977 W Frye Rd)"]
 startDate = ""
-description = "COL stage April 2023"
 +++
+COL stage April 2023

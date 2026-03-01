@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 startDate = ""
-description = "We Don't Play Games With Freshness ad (1995)"
 +++
+We Don't Play Games With Freshness ad (1995)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Plano, TX (1604 Preston Rd)"]
 startDate = ""
-description = "The store's [[Studio C (1997)"
 +++
+The store's [[Studio C (1997)

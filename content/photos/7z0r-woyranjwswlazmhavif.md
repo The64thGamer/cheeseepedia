@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Picture of Wilbur from The Robot Factory"
 +++
+Picture of Wilbur from The Robot Factory

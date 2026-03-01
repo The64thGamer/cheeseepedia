@@ -1,4 +1,5 @@
 +++
+
 title = "CEC Token 406 (B, bB, C, N)"
 draft = false
 tags = ["Tokens"]
@@ -7,6 +8,7 @@ startDate = "2000-00-00"
 endDate = "0000-00-00"
 contributors = ["CEC Tinley"]
 citations = []
+pageThumbnailFile = "j26FLPWKbNOtYHNMhIGy.avif"
 +++
 The **CEC Token 406 (B, bB, C, N)** was a token released from 2000 to 2001.
 

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Los Angeles, CA (2706 Wilshire Blvd)"]
 startDate = ""
-description = "2013 - Construction"
 +++
+2013 - Construction

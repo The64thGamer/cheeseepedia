@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Sally Corporation"]
 pages = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
-description = "Bedtime Bear and Grumpy Bear at Dorney Park (1988)"
 +++
+Bedtime Bear and Grumpy Bear at Dorney Park (1988)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Jasper T. Jowls (Cyberamic)"]
 startDate = ""
-description = "How most Jasper Cyberamics looked before 1986"
 +++
+How most Jasper Cyberamics looked before 1986

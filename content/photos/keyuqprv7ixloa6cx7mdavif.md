@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Hicksville, NY (Delco Plaza 11-15 Hanover Place)"]
 startDate = ""
-description = "2011https://www.youtube.com/watch?v=QPXuDZLcNy8"
 +++
+2011https://www.youtube.com/watch?v=QPXuDZLcNy8

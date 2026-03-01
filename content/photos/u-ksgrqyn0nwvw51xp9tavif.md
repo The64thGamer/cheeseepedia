@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["The Country Critters Jamboree"]
 startDate = ""
-description = "Tommy Bartlett's Country Critters Jamboree at the Wisconsin Dells Western Village Ad (1985)"
 +++
+Tommy Bartlett's Country Critters Jamboree at the Wisconsin Dells Western Village Ad (1985)

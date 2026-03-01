@@ -1,4 +1,5 @@
 +++
+
 title = "St. Louis River Revue"
 draft = false
 tags = ["Animatronic Shows"]
@@ -9,8 +10,8 @@ startDate = ""
 endDate = ""
 contributors = ["Lelmaster"]
 citations = ["<a href=\"https://youtu.be/3ZllmEWgUoQ\">https://youtu.be/3ZllmEWgUoQ</a>"]
+pageThumbnailFile = "n4LNz0qa3bDjnRm0nwoT.avif"
 +++
-
 The Saint Louis River Revue is a show created by Landmark Entertainment Group for the SS Admiral entertainment complex, owned by Six Flags at the time. It was located in the Birdland Theater, which was created for this show. Ted King produced this soundtrack as well as providing the voices to characters Mudbank McGee (singer of Jambalaya) along with the Scatbird, Louie Wails was voiced by [Lewis Arquette](https://en.wikipedia.org/wiki/Lewis_Arquette), and Beth Lawrence brought the voice to the character that sings Proud Mary. The animatronics were produced by Creative Presentations Inc. This show’s premise was the musical hits of Saint Louis performed by a large cast of birds.(1)
 
 ## Characters

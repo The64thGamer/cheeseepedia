@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Sally Corporation"]
 pages = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
-description = "Funshine Bear at Dorney Park (1988)"
 +++
+Funshine Bear at Dorney Park (1988)

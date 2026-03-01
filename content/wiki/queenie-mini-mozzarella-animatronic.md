@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 startDate = "1978-00-00"
 endDate = "0000-00-00"
 contributors = ["FileFickle","John95","IVeClappedForWolfman","The 64th Gamer","Ls2018"]
-citations = ["[https://youtu.be/0l6-6ewuY70?si=Y5rDQN6zixww5rJC&t=452](%22https://youtu.be/0l6-6ewuY70?si=Y5rDQN6zixww5rJC&t=452%22)"]
+citations = ["https://youtu.be/0l6-6ewuY70?si=Y5rDQN6zixww5rJC&t=452"]
 manufacturer = "Creative Engineering"
 pageThumbnailFile = "aI_xHyQ9g2VywLydXDLr.avif"
 +++
@@ -15,7 +15,7 @@ She uses the same mask mold as {{< wiki-link "Grandma Bear (Animatronic)" >}}/Be
 
 ## History
 
-During the creation of the {{< wiki-link "Rock-afire Explosion" >}} in 1980, Queenie was going to be reused as a character much like the rest of the Wolf Pack 5. However, marketing executive for {{< wiki-link "ShowBiz Pizza Place" >}}, Stan Emmerson suggested replacing her with a mouse to go with the pizza theme and because {{< wiki-link "Pizza Time Theatre" >}} and Disney both had mouse mascots. In an attempt to not come off as arrogant, Aaron Fetcher allowed for Queenie to be converted into Mini Mozzarella.<sup>(1)</sup>
+During the creation of the {{< wiki-link "Rock-afire Explosion" >}} in 1980, Queenie was going to be reused as a character much like the rest of the Wolf Pack 5. However, marketing executive for {{< wiki-link "ShowBiz Pizza Place" >}}, Stan Emmerson suggested replacing her with a mouse to go with the pizza theme and because {{< wiki-link "Pizza Time Theatre" >}} and Disney both had mouse mascots. In an attempt to not come off as arrogant, Aaron Fetcher allowed for Queenie to be converted into Mini Mozzarella.{{< cite 1 >}}
 
 ## Design
 

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Cheese Evergreen Show 2023"]
 startDate = ""
-description = "Studio C Player 1 DVD"
 +++
+Studio C Player 1 DVD

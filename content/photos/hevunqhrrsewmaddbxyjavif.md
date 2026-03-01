@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 startDate = ""
-description = "Valuing Education Ad (Scan, 2000)"
 +++
+Valuing Education Ad (Scan, 2000)

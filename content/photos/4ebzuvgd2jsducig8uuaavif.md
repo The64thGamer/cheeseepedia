@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Test Page"]
 startDate = ""
-description = "center"
 +++
+center

@@ -152,7 +152,7 @@ Well come on in!
 
 **Rolfe Dewolfe:**
 
-Earl you’re supposed to say “who’s there?”.
+Earl you’re supposed to say "who’s there?".
 
 **Earl Schmerle:**
 
@@ -236,7 +236,7 @@ You were just joking about leaving me weren’t you Rolfe?
 
 **Rolfe Schmerle:**
 
-Don’t worry Earl, I’ll keep you “on hand” for a while longer
+Don’t worry Earl, I’ll keep you "on hand" for a while longer
  
 **Earl Schmerle:**
 

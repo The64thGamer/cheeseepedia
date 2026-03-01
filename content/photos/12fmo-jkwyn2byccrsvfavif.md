@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Beatles White Album"]
 startDate = ""
-description = "Reel Case Side (Submaster)"
 +++
+Reel Case Side (Submaster)

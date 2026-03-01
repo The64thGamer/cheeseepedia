@@ -1,7 +1,7 @@
 +++
 title = "1990 TV Classics Puppets"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

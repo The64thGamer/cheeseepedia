@@ -1,5 +1,5 @@
 +++
-title = "CEC Can't Bring Commercial "
+title = "CEC Can't Bring Commercial"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++

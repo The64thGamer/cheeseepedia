@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Orsi Show"]
 startDate = ""
-description = "File:Orsi Show Confirmation.png"
 +++
+File:Orsi Show Confirmation.png

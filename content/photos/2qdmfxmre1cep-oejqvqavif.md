@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["San Ramon, CA (1901 San Ramon Valley Blvd)"]
 startDate = ""
-description = "The location in February 2023"
 +++
+The location in February 2023

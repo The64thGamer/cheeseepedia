@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Houston, TX (6760 Antoine Dr)"]
 startDate = ""
-description = "The store's exterior as Jump N' Fiesta (2008)"
 +++
+The store's exterior as Jump N' Fiesta (2008)

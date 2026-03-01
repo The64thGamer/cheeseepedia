@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Tuscaloosa, AL (1375 McFarland Blvd)"]
 startDate = ""
-description = "The aftermath of the store's exterior from being struck by a tornado."
 +++
+The aftermath of the store's exterior from being struck by a tornado.

@@ -1,10 +1,10 @@
 +++
 draft = false
-title = "New Birthday"
+title = "New Birthday (2002)"
 startDate = "2002-04-00"
-endDate = "2007-11-00"
+endDate = "2008-00-00"
 pageThumbnailFile = ""
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["TBD"]
 tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]

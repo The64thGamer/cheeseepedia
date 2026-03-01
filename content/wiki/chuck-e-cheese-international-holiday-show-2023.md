@@ -4,38 +4,38 @@ draft = false
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2023-11-27"
-endDate = "0000-00-00"
+endDate = "2024-01-02"
 contributors = ["Cheeseclassic","ShowBiz Pizza International"]
 citations = []
-pageThumbnailFile = "d1EpVQsJE3ZTiIqUOTpM.avif"
+pageThumbnailFile = "Winter2023Int.avif"
 showtapeFormats = ["Cyberamics DVD"]
 +++
-***Chuck E. Cheese International Holiday Show 2023* is a holiday show released on November 27, 2023, and was played until January 2, 2024. This show features eight Holiday songs, of which all were reused.**
+***Chuck E. Cheese International Holiday Show 2023** is a holiday show released on November 27, 2023, and was played until January 2, 2024. This show features eight Holiday songs, of which all were reused.
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  KidzBop Kids - Santa Claus Is Coming To Town
     2.  The Ronettes - Sleigh Ride
-2.  **Skit 1**
+2. **Skit 1**
     1.  Chuck E. & Bella B - Holiday Fiesta
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  Davees Digs - Puppy For Hanukkah
     2.  KidzBop Kids - Deck The Halls
-4.  **Skit 2**
+4. **Skit 2**
     1.  Pasqually The Chef - What Do You Get A Sasquatch For Christmas?
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  Holiday Jokes From Pasqually
     2.  Brenda Lee - Rockin' Around The Christmas Three
     3.  Backstreet Boys - Last Christmas
-6.  **Skit 4**
+6. **Skit 4**
     1.  Chuck E. & Friends - The Holiday Party
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  Ella Fitzgerald - Frosty The Snowman
     2.  John Legend - You Deserve It All
-8.  **Skit 5**
+8. **Skit 5**
     1.  Chuck E. & Helen - Merry Christmas Time
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  Disney Channel Stars - Put The Happy In The Holidays
     2.  The Temptations - Rudolph The Red Nose Reindeer
 10. **Skit 6**
@@ -56,3 +56,6 @@ showtapeFormats = ["Cyberamics DVD"]
     1.  Musings With Mr. Munch - Christmas
     2.  Asher Angel - Snow Globe Wonderland
     3.  Chuck E. & Friends - Holiday Medley (2020)
+
+## Lives:
+Lives for this showtape are unknown.

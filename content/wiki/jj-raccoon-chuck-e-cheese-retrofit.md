@@ -9,7 +9,7 @@ citations = ["https://www.youtube.com/watch?v=eVr7JjE83MM"]
 tags = ["Retrofits"]
 categories = ["Unknown Manufacturers"]
 +++
-JJ the Raccoon is a {{< wiki-link "Chuck E Cheese. (Cyberamic)" >}} retrofit that was found at {{< wiki-link "JJ's Pizza Time Theater" >}} at {{< wiki-link "Marrero, LA (1951 Ames Blvd)" >}}.
+JJ the Raccoon is a {{< wiki-link "Chuck E. Cheese. (Cyberamic)" >}} retrofit that was found at {{< wiki-link "JJ's Pizza Time Theater" >}} at {{< wiki-link "Marrero, LA (1951 Ames Blvd)" >}}.
 
 ## History
 

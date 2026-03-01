@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Houston, TX (17780 Tomball Pkwy)"]
 startDate = ""
-description = "The store's [[Studio C Beta"
 +++
+The store's [[Studio C Beta

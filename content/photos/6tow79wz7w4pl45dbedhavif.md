@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Concept Unification 1-Stage"]
 startDate = ""
-description = "Whitehall, PA 2013"
 +++
+Whitehall, PA 2013

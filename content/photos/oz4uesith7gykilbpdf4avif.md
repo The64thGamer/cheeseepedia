@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Interactive Console"]
 startDate = ""
-description = "1998 Console with the Flintstones Arcade"
 +++
+1998 Console with the Flintstones Arcade

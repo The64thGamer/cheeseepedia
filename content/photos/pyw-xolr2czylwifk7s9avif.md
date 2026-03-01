@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Hellendoorn 'Kisses For Me' Monkey Trio"
 +++
+Hellendoorn 'Kisses For Me' Monkey Trio

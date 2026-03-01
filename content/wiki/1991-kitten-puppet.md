@@ -1,7 +1,7 @@
 +++
 title = "1991 Kitten Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Honolulu, HI (820 W Hind Dr)"]
 startDate = ""
-description = "2005-2006"
 +++
+2005-2006

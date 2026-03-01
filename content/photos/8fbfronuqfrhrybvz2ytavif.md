@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Pierre Le Bear Billboard (1978)"
 +++
+Pierre Le Bear Billboard (1978)

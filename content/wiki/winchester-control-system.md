@@ -6,21 +6,21 @@ categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","CEC Tinley","WalterB"]
-citations = ["[https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre](%22https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre%22)","[https://archive.org/details/atariincbusiness0000gold/page/330/mode/2up?q=theatre](%22https://archive.org/details/atariincbusiness0000gold/page/330/mode/2up?q=theatre%22)"]
+citations = ["https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre","https://archive.org/details/atariincbusiness0000gold/page/330/mode/2up?q=theatre"]
 +++
 The ***Pizza Time Theatre Winchester Control System* was the system used to control the animatronics exclusively at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} from May 1977 to sometime between 1980 and 1981.
-The system was developed by the Cyan Engineering subdivision of Atari (also known as the *Grass Valley Team*), headed by Larry Emmons and Gary Waters<sup>(1)</sup>**
+The system was developed by the Cyan Engineering subdivision of Atari (also known as the *Grass Valley Team*), headed by Larry Emmons and Gary Waters{{< cite 1 >}}**
 
 ## Hardware
 
 ### TEAC 4-Track Tape Deck
 
 An unnamed TEAC 4-Track tape deck would be used to play back audio and programming signals to the hardware. The Winchester 4-Track Reel would be the format used for data, where audio, programming signals, and a timecode track would be streamed in real time. These tapes would be generated on the separate (but still possibly interlinked) {{< wiki-link "Winchester Hardware Setup" >}}.
-Due to the later {{< wiki-link "SongCode Hardware Setup" >}} using a TEAC A-2340 Tape Deck, which seemingly recorded only in the *2-track stereo-mode,* it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
+Due to the later {{< wiki-link "Big C's Cyberamics Center" >}} using a TEAC A-2340 Tape Deck, which seemingly recorded only in the *2-track stereo-mode,* it is a possibility that this was a carryover from the Winchester store, giving this unnamed tape deck a likely model.
 
 ### Unnamed Decoding Box
 
-Currently no sources cite what hardware was used to decode the incoming audio signals into the programming data for the system. It is stated however that there was no central *minicomputer* controlling the system<sup>(2)</sup>, meaning the decoding device was only there for decoding and streaming.
+Currently no sources cite what hardware was used to decode the incoming audio signals into the programming data for the system. It is stated however that there was no central *minicomputer* controlling the system{{< cite 2 >}}, meaning the decoding device was only there for decoding and streaming.
 
 ### 6502-Based Controllers
 

@@ -1,7 +1,7 @@
 +++
 title = "2015 Ducky Cheese Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

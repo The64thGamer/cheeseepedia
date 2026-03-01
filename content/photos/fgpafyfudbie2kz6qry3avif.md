@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Huntsville, AL (1220 Jordan Lane)"]
 startDate = ""
-description = "Another Street View of the store's Exterior in February 2008 (PC: Google Maps)"
 +++
+Another Street View of the store's Exterior in February 2008 (PC: Google Maps)

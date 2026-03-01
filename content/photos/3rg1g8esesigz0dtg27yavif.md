@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Indianapolis, IN (8804 US 31 South)"]
 startDate = ""
-description = "Exterior before the 2005 Remodel and after expansion (PC: Indianapolis Business Journal)"
 +++
+Exterior before the 2005 Remodel and after expansion (PC: Indianapolis Business Journal)

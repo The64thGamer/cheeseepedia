@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["CEC Make Magic Sign"]
 startDate = ""
-description = "Sign Back"
 +++
+Sign Back

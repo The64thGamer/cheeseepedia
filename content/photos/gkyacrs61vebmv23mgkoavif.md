@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Staten Island, NY (1775 South Ave)"]
 startDate = ""
-description = "Staten Island's exterior before 2.0 Remodel."
 +++
+Staten Island's exterior before 2.0 Remodel.

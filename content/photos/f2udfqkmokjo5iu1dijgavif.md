@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["ShowBiz Pizza Program 9"]
 startDate = ""
-description = "ShowBiz Pizza Program 9"
 +++
+ShowBiz Pizza Program 9

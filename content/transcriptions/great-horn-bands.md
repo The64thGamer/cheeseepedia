@@ -19,7 +19,7 @@ Haha! That’s an easy one, it stands for bacon, sardine, and tomato sandwich!
 
 Bkaw! Yucky.
 
-**Chuck E Cheese:**
+**Chuck E. Cheese:**
 
 No no no Jasper, it stands for Blood, Sweat, and Tears! The rock band with all the horns.
 
@@ -92,6 +92,7 @@ It’s a great hobby! It’s the only thing to wear on your face
 And that’s a cue folks! This one’s from Earth, Wind, and Fire!
 
 **Helen Henny:**
+
 Oh
 
 **[Song: Faces]**

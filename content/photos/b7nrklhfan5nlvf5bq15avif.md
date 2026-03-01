@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Irving, TX (3903 W Airport Fwy)"]
 startDate = ""
-description = "alt=Exterior photo taken by Ashley Landis."
 +++
+alt=Exterior photo taken by Ashley Landis.

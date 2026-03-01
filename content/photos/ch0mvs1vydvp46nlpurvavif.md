@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Big C's Combo (PTT Menu Item)"]
 startDate = ""
-description = "1983 Advertisementhttps://www.newspapers.com/article/the-record/52801456/"
 +++
+1983 Advertisementhttps://www.newspapers.com/article/the-record/52801456/

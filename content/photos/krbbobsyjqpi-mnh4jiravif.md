@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Arlington, TX (2216 S Fielder Rd)"]
 startDate = ""
-description = "Dolli Dimples on opening day."
 +++
+Dolli Dimples on opening day.

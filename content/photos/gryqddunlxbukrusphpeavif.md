@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamic Control System"]
 startDate = ""
-description = "Cyberamic Transfer Control Card (Rev D)"
 +++
+Cyberamic Transfer Control Card (Rev D)

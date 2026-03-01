@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["SPT 1990's Remodel Program"]
 startDate = ""
-description = "Updated gameroom with decor spotlights and indirect rainbow lighting."
 +++
+Updated gameroom with decor spotlights and indirect rainbow lighting.

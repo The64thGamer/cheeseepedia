@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["FileFickle"]
 startDate = ""
-description = "Y O U"
 +++
+Y O U

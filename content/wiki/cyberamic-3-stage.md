@@ -3,11 +3,9 @@ title = "Cyberamic 3-Stage"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = ""
-endDate = ""
-contributors = ["CECBowlingGreen","Shmigobuff","174.105.208.49","The 64th Gamer","ChuckEPediaIsTheBest!","Rexburg090","Jacouby","168.69.254.249","2600:6C44:97F:D312:FD2A:F6C4:46CE:6792","ThatBoiCydalan","Harchambeault2026","AstridMascotFan2005","Documentor"]
+startDate = "2000-00-00"
+endDate = "2023-07-23"
+contributors = ["CECBowlingGreen","Shmigobuff","Anonymous","The 64th Gamer","ChuckEPediaIsTheBest!","Rexburg090","Jacouby","Anonymous","Anonymous","ThatBoiCydalan","Harchambeault2026","AstridMascotFan2005","Cyber Snout"]
 citations = []
 +++
 
@@ -29,11 +27,11 @@ Around Fall 2017, after the Burlington, MA store had closed in July, Springfield
 
 #### Stage Left (Chuck E. Cheese)
 
-Stage Right features Chuck E Cheese (Cyberamic)|Chuck E. Cheese with the star from Spokane's 2-Stage behind him and a TV next to him, there is also the neon sign reading 'Chuck E. Cheese' in his signature from Spokane's 2-Stage on top of the TV. The rain curtain that is normally on the 3-Stage is not on Lynwood's stage.
+Stage Right features Chuck E. Cheese (Cyberamic)|Chuck E. Cheese with the star from Spokane's 2-Stage behind him and a TV next to him, there is also the neon sign reading 'Chuck E. Cheese' in his signature from Spokane's 2-Stage on top of the TV. The rain curtain that is normally on the 3-Stage is not on Lynwood's stage.
 
 #### Center Stage (Helen Henny, Mr. Munch, Jasper T. Jowls)
 
-Center Stage features {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}, {{< wiki-link "Mr Munch (Cyberamic)" >}}, and {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}. Building, Moon, and Munch Jr. were removed during the switchover to Cyberamics in 2000. On top of the stage on the valence in the middle above Munch is the Wink, which is a small Chuck E. head that winks at the end of songs / segments. Lynwood has the Cyberamic Wink, which came from Spokane's 2-Stage. The design of Center Stage is like a rooftop or city skyline, with there being buildings (Lynwood has both 3-Stage and 2-Stage buildings, with the 2-Stage buildings coming from Spokane's 2-Stage) in the background and flowers too. There is also a big sign that reads 'Munch's Make Believe Band' on it.
+Center Stage features {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}, {{< wiki-link "Mr. Munch (Cyberamic)" >}}, and {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}. Building, Moon, and Munch Jr. were removed during the switchover to Cyberamics in 2000. On top of the stage on the valence in the middle above Munch is the Wink, which is a small Chuck E. head that winks at the end of songs / segments. Lynwood has the Cyberamic Wink, which came from Spokane's 2-Stage. The design of Center Stage is like a rooftop or city skyline, with there being buildings (Lynwood has both 3-Stage and 2-Stage buildings, with the 2-Stage buildings coming from Spokane's 2-Stage) in the background and flowers too. There is also a big sign that reads 'Munch's Make Believe Band' on it.
 
 #### Stage Right (Pasqually)
 
@@ -43,11 +41,11 @@ Stage Left features Pasqually. Pizzacam was removed during the switchover to Cyb
 
 #### Stage Left (Chuck E. Cheese)
 
-Stage Right featured Chuck E Cheese (Cyberamic)|Chuck E. Cheese with the star from the original 3-Stage setup and a TV next to him. The stage featured no neon sign (Which was removed at an unknown date) or rain curtain and instead featured buildings from Burlington's 2-Stage with flood lights.
+Stage Right featured Chuck E. Cheese (Cyberamic)|Chuck E. Cheese with the star from the original 3-Stage setup and a TV next to him. The stage featured no neon sign (Which was removed at an unknown date) or rain curtain and instead featured buildings from Burlington's 2-Stage with flood lights.
 
 #### Center Stage (Helen Henny, Mr. Munch, Jasper T. Jowls)
 
-Center Stage featured {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}, {{< wiki-link "Mr Munch (Cyberamic)" >}}, and {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}. Building and Moon were removed during the switchover to Cyberamics in 2017 (As well as Munch Jr., who was removed years before converting to Cyberamics). Center Stage remained relatively unchanged as the store's Munch's Make Believe Band Sign was removed from when they still had the original animatronics. On top of the stage on the valence in the middle above Munch was the Wink which was the same exact same one as they had since Concept Unification and was not replaced during the conversion. The design of Center Stage was like a rooftop or city skyline, with there being buildings in the background and flowers too which were the same ones that they had since they were converted into a Chuck E. Cheese back in 1991. The flood lights were replaced with the ones from Burlington.
+Center Stage featured {{< wiki-link "Guest Star / Helen Henny (Cyberamic)" >}}, {{< wiki-link "Mr. Munch (Cyberamic)" >}}, and {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}. Building and Moon were removed during the switchover to Cyberamics in 2017 (As well as Munch Jr., who was removed years before converting to Cyberamics). Center Stage remained relatively unchanged as the store's Munch's Make Believe Band Sign was removed from when they still had the original animatronics. On top of the stage on the valence in the middle above Munch was the Wink which was the same exact same one as they had since Concept Unification and was not replaced during the conversion. The design of Center Stage was like a rooftop or city skyline, with there being buildings in the background and flowers too which were the same ones that they had since they were converted into a Chuck E. Cheese back in 1991. The flood lights were replaced with the ones from Burlington.
 
 #### Stage Right (Pasqually)
 

@@ -1,57 +1,48 @@
 +++
+cuDate = ""
 draft = false
 title = "Houston, TX (6760 Antoine Dr)"
 startDate = "1981-07-15"
-endDate = "2006-11-27"
-contributors = ["ChuckECool", "Rexburg090", "CorrectorMan", "ThatBoiCydalan", "Midwestretail", "Pizzaman49", "SuperCreamPiper2008", "ItzaRob", "Saan1ty", "ShowBizMidwest", "CEC1988", "TheEntireShrekScript"]
-citations = ["<a href=\"https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf\">https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf</a>", "<a href=\"<a\"> href=\"https://web.archive.org/web/20240518053355/https://www.bizapedia.com/tx/jump-n-fiesta-inc.html\"> https://web.archive.org/web/20240518053355/https://www.bizapediacom/tx/jump-n-fiesta-inc.html</a></a>", "<a href=\"https://www.youtube.com/watch?v=-qtVxFITZ2g&lc=UgxqKNZR9dOHschDzPB4AaABAg\">https://www.youtube.com/watch?v=-qtVxFITZ2g&lc=UgxqKNZR9dOHschDzPB4AaABAg</a>", "<a href=\"https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fflyer-for-a-chuck-e-cheeses-auction-in-houston-october-14th-v0-a59dhfao0a9f1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D9c9ef820aa9efaac8ed946d5dd032e6dfa9dd81a\"> https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fflyer-for-a-chuck-e-cheeses-auction-in-houston-october-14th-v0-a59dhfao0a9f1.jpeg%3Fwidth%3D1080%26format%3Dpjpg%26auto%3Dwebp%26s%3D9c9ef820aa9efaac8ed946d5dd032e6dfa9dd81a</a>"]
+endDate = "2006-00-00"
+pageThumbnailFile = "kQTcKc3Llo73MlOcuyhT.avif"
+contributors = ["TheEntireShrekScript", "Anonymous", "The Entire Shrek Script"]
+citations = ["https://www.reddit.com/r/chuckecheese/comments/1ltt13b/found_an_advertisement_for_the_houston_tx_antoine/", "https://www.reddit.com/r/chuckecheese/comments/1lkr4nf/flyer_for_a_chuck_e_cheeses_auction_in_houston/", "https://www.youtube.com/watch?v=_ZwSoLsA9tI&t=385s", "https://www.showbizpizza.com/photos/cec/tx_houston/index.html", "https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf", "https://archive.org/details/antoine-auction-paper/mode/2up", "google.com/maps/place/Inwood+Art+Mural/@29.8623186,-95.4707919,246m/data=!3m1!1e3!4m6!3m5!1s0x8640c8a9b6114a3b:0x8e5b53d6b623829f!8m2!3d29.8624626!4d-95.4703757!16s%2Fg%2F11g6yq59cl?entry=ttu&g_ep=EgoyMDI1MTAwOC4wIKXMDSoASAFQAw%3D%3D", "https://www.reddit.com/r/chuckecheese/comments/1ndvm6r/genealogybank_is_really_being_slept_on/", "https://www.newspapers.com/newspage/1219341884/", "https://www.youtube.com/watch?v=MSynpwaQg1w"]
+storeNumber = "734"
+sqft = ""
+attractions = ["Aftershock|0000-00-00|2006-00-00|","Double Cheese|0000-00-00|2006-00-00|","Chuck E. Cheese's Grand Slam|0000-00-00|2006-00-00|","Total Eclipse|0000-00-00|2006-00-00|","Buzzy Buzzy Bee|0000-00-00|2006-00-00|","Arctic Thunder|0000-00-00|2006-00-00|","Cyclone|0000-00-00|2006-00-00|","Coin Circus|0000-00-00|2006-00-00|","Bob The Builder|0000-00-00|2006-00-00|","Tower of Power|0000-00-00|2006-00-00|","Barrel of Fun|0000-00-00|2006-00-00|","Chuck E. Cheese's Kooky Konga|0000-00-00|2006-00-00|","Chuck E. Cheese Roll|0000-00-00|2006-00-00|6 Units"]
+downloadLinks = []
 latitudeLongitude = ["29.86114362", "-95.47182913"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
+franchisees = []
+animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-07-15|2006-00-00|1-81 1-5|Owned by Sully G","Dook Larue (Animatronic)|1981-07-15|2006-00-00|1-81 2-5|Owned by ItzaRob",  "Fatz Geronimo (Animatronic)|1981-07-15|2006-00-00|1-81 3-5|Owned by a Private Collector",  "\"Beach Bear (Animatronic)|1981-07-15|2006-00-00|1-81 4-5|Sent to Houston, TX (5535 Weslayan St), now destroyed",  "Mitzi Mozzarella (Animatronic)|1981-07-15|2006-00-00|1-81 5-5|Owned by a Private Collector",  "Billy Bob (Animatronic)|1981-07-15|1991-00-00|1-81 6-5|Unknown",  "Looney Bird (Animatronic)|1981-07-15|0000-00-00|1-81 7-5|Unknown",  "Choo Choo (Animatronic)|1981-07-15|0000-00-00|1-81 8-5|Unknown",  "Sun (Animatronic)|1981-07-15|2006-00-00|1-81 10-5|Unknown",  "Moon (Animatronic)|1981-07-15|2006-00-00|1-81 11-5|Unknown",  "Antioch (Animatronic)|1981-07-15|1991-00-00|Unknown|Unknown",  "Wink|1991-00-00|2006-00-00|Unknown|Unknown"]
 +++
-
-***Houston, TX (6760 Antoine Dr), Store #734***(1) was a ShowBiz Pizza Place location that opened on July 15, 1981 with a Rock Afire Explosion and closed on November 27, 2006 with a 3-Stage. It was located in the White Oak Bayou Village Shopping Mall (formerly Evergreen Center and even earlier, Inwood).
-
-## Stages
-
-Originally, when the store opened, it featured the Rock Afire Explosion band. In 1991, the location had received {{< wiki-link "Concept Unification Installation Manual" >}} which involved the process of converting the Rock-Afire Explosion to the 3-stage. Munch's keyboard also had a unique front. They would keep their stage until November 2006, when they relocated to {{< wiki-link "Houston, TX (17780 Tomball Pkwy)" >}}. The bots were then uniquely auctioned off to private collectors, except for the Jasper bot, who was sent to the {{< wiki-link "Houston, TX (5535 Weslayan St)" >}}, being destroyed after the store's closure.
+***Houston, TX (6760 Antoine Dr)* (Store #734)** was a *Chuck E. Cheese's* location that opened on July 15, 1981 as a *ShowBiz Pizza Place* with a {{< wiki-link "Classic Stage" >}}, and closed as a *Chuck E. Cheese's* with a {{< wiki-link "Concept Unification Stage" >}} in September 2006.{{< cite 9 >}}
 
 ## History
 
-Houston, TX (Antoine) opened on July 15th, 1981 as part of the center it was in. There is hardly any info on the store when it was ShowBiz Pizza, but it is known that between 1989-1990, the store would receive the 1988 remodel gaining the checkered patterns on the walls, receive the blue and white awnings above the salad bar, oil paintings and removing much of the ShowBiz aesthetic scheme. Including replacing the Smitty's Super Service backdrop with the ShowBiz Pizza Campground backdrop. Soon after around 1991, Houston, TX (Antoine) received Concept Unification. In 1993, the store received {{< wiki-link "SPT 1990's Remodel Program" >}} removing Oil Painting decor for the Record Posters. The store looked like this until the late 90's when it received the Phase 2 Remodel removing older decor for newer decor, though the Record Posters stayed, and replacing the ball pit for the {{< wiki-link "Skytubes" >}}. In November 2006, the store was closed without warning, {{< wiki-link "Houston, TX (17780 Tomball Pkwy)" >}} Everything from the games, appliances, posters, and even booths and tables, were all auctioned off either before or after the store closed. After everything was auctioned off, the store would close it's doors. In 2007, a year after its closure, the store would be converted into another place called *Jump N' Fiesta*,(2) presumed to be a bouncy house playground center. This anchor would repaint the exterior of the former CEC space to rainbow colors, but kept the store's original awnings intact, and would operate until around 2010. That same year, the space would be converted into a party hall, with its exterior being completely repainted back to white during its conversion, including the intact awnings. This space of the former CEC would eventually end up being split up into smaller retail space in 2016-2017. It remains this way to this day.
+The Antoine Dr ShowBiz Pizza Place opened up on July 15, 1981 at the Inwood Shopping Center, with the opening being advertised in The Houston Chronicle newspaper on the same date.{{< cite 1 >}} We have footage from 1990 thats shows off what the location looked like before their remodel, such as the exterior, which had the ShowBiz Pizza Place logo on an overhang above the front entrance, and red, orange and yellow stripes on an otherwise plain wall to the left. This home recording also gives us a view on what the game room and showroom looked like.{{< cite 10 >}} We do know that between 1989 and 1990, they would receive the {{< wiki-link "SPT 1980's Remodel Program" >}}. This would result in the exterior presumably being repainted white and dark green, the addition of checkers around the walls, both inside and possibly outside. A few more things that were installed during this remodel included the blue and white canopy above the Salad Bar, oil paintings along with the older ShowBiz aesthetic being removed. The stage would also receive one minor change, that being the removal and replacement of the Smitty's Super Service Station backdrop with the ShowBiz Pizza Campground backdrop on Stage Left.{{< cite 3 >}}
 
-## Arcade Machines
+### 1990's
 
-### Identified Machines
+In 1991, shortly after they remodeled a few years prior, Antoine Dr would undergo Concept Unification, which involved the Rock-afire Explosion being retrofitted into the {{< wiki-link "Concept Unification Stage" >}}. Interestingly, due to their stage sky backdrop being painted on the actual wall, the blue coloring from the Rock-afire Explosion remained until the store closed. During this period, the artwork featuring the Rock-afire Explosion would most likely be removed and replaced with the new Concept Unifcation artwork. A photo of their exterior at this time indicated that the ShowBiz Pizza Place signface had been removed from the frame and replaced with the Chuck E. Cheese's Pizza signface during Concept Unification.{{< cite 8 >}}
 
-- Aftershock
-- Double Cheese
-- Wac-A-Munch
-- {{< wiki-link "Chuck E Cheese's Grand Slam" >}}
-- Total Eclipse
-- Buzzy Buzzy Bee
-- Arctic Thunder
-- Cyclone
-- Coin Circus
-- Bob The Builder
-- Tower of Power
-- Barrel of Fun
-- Chuck E. Cheese's Kooky Konga
-- {{< wiki-link "Chuck E Cheese Roll" >}} (6 units)
+At an unknown point after they received Concept Unification in 1991, Munch Jr would be removed from Center Stage. He was most likely already gone before the store's closure, as theres no indication of a recent removal in the pictures of Center Stage that we have. Pizzacam seems to have gone through the same as well, since he is nowhere to be seen in the photos of Stage Left that we have.
 
-## Animatronics
+In 1993, Antoine Dr would receive the {{< wiki-link "SPT 1990's Remodel Program" >}}, which to name a few changes, resulted in the checkers around the store being most likely painted over, the addition of the wall planters,{{< cite 4 >}} and the removal of the Oil Painting posters, with the Record Posters taking their place. This was also most likely the time period that they would revamp their exterior once again, which would be repainted white. On the overhang above the front entrance, the old Chuck E. Cheese's Pizza signage from Concept Unification would be removed and replaced with the new Thumb Chuck logo and Chuck E. Cheese's lettering. Next to the entrance overhang, a long, red and yellow awning would be installed on the wall.{{< cite 3 >}} Their front entrance doors would most likely be replaced with the typical Chuck E. Cheese's doors around this time frame as well, but that remains unconfirmed. This would be the exterior that the location would keep until closure.
 
-| Animatronic                                                               | Serial Number | Whereabouts                                                                        |
-|---------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 1-81 1-5      | Owned by Sully G                                                                   |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 1-81 2-5      | Owned by ItzaRob                                                                   |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 1-81 3-5      | Owned by a private collector                                                       |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 1-81 4-5      | Sent to {{< wiki-link "Houston, TX (5535 Weslayan St)" >}}, now destroyed(3) |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 1-81 5-5      | Owned by a private collector                                                       |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 1-81 6-5      | Unknown                                                                            |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 1-81 7-5      | Unknown                                                                            |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 1-81 8-5      | Unknown                                                                            |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 1-81 10-5     | Unknown                                                                            |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 1-81 11-5     | Unknown                                                                            |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown                                                                            |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown                                                                            |
+A few years later in the late 90's, Antoine Dr would receive {{< wiki-link "Phase 2 (1997)" >}}, which resulted in older artwork being removed and replaced with newer artwork, though the Record Posters would remain. Lastly, the ball pit would be removed and replaced with the {{< wiki-link "Skytubes" >}}.
+
+### 2000's
+
+At an unknown point presumably in the 2000's, Chuck E's Tux attire would be removed and replaced with his Cool attire. The characters would most likely receive their plastic masks somewhere around this time frame as well.
+
+On December 4, 2005, Antoine Dr and every other Chuck E. Cheese's location would participate in a newspaper coupon promotion. A couple days later on December 11, they would experience a sales increase by 33.9%, coming in ninth place on the list.{{< cite 5 >}}
+
+On January 1, 2006, several months before they closed, Antoine Dr would participate in another newspaper coupon promotion of the same kind.{{< cite 5 >}} This would most likely be one of the final times that the location would be shown to still be open, as they would close several months afterwards.
+
+### Closure
+
+In September 2006, Antoine Dr would close their doors for good, later holding an auction on Saturday, October 14, 2006 at 10:00am. The auction sale would be held by auctioneering firm Joe Presswood. Everything from the games, posters, appliances, and even the animatronics were auctioned off after the store closed. A man by the name of John Cannon would purchase a big chunk of the store's games and animatronics, which he would keep in trailers for his own collection. But eventually, they would be sold off and went in their own directions, such as ending up in haunted houses and in the possession of other fans.{{< cite 6 >}} The Jasper animatronic, however, would be sent to {{< wiki-link "Houston, TX (5535 Weslayan St)" >}} to replace their old one. The reason for Antoine's closure was due to them presumably relocating to the {{< wiki-link "Houston, TX (17780 Tomball Pkwy)" >}} location, which opened on November 10, 2006. On November 27, 2006,{{< cite 2 >}} Antoine Dr's auction would presumably be wrapped up. Thus resulting in the exterior signage being removed either during the auction or after the store closed, but the awning would remain in place.
+
+In 2007, a year after the store closed, the space would be converted into a business named Jump N' Fiesta, presumed to be a bouncy house playground center. When they took over the building, it would be repainted blue, yellow, red, green and purple, but the awning would remain untouched. Jump N' Fiesta would operate until around 2010, but would be quickly taken over by a party hall, which resulted in the exterior being repainted back to white, including the awning. At this time, quite a few remnants from Chuck E. Cheese's were left behind, such as the front entrance, restroom doors, moulding around the walls, drop ceiling, possibly the carpeting and most notably, the former 3-Stage. The party hall would last for a couple years before closing in presumably 2015. A year later in 2016, the exterior facade would be removed from the building, leaving the front entrance as presumably the last remnant of the store's Chuck E. Cheese's days.{{< cite 7 >}} Finally, presumably a year later in 2017, the space would be split up into smaller retail stores, which resulted in the last remnants of Chuck E. Cheese's being removed. As of 2025, the former location remains like this.

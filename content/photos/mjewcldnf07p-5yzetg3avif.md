@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["PTT Franchise Brochure (1979)"]
 startDate = ""
-description = "The Brochure's Front Cover"
 +++
+The Brochure's Front Cover

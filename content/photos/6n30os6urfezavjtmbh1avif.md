@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Biloxi, MS (4550 W Beach Blvd)"]
 startDate = ""
-description = "April 5, 1985"
 +++
+April 5, 1985

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Statue of Liberty (Animatronic)"]
 startDate = ""
-description = "Statue of Liberty (Unknown Year)"
 +++
+Statue of Liberty (Unknown Year)

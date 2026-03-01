@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Family Vision 503"]
 startDate = ""
-description = "Family Vision #503"
 +++
+Family Vision #503

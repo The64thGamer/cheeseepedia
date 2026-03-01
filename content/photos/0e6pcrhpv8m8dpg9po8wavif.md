@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Benton Harbor, MI (1956 Pipestone Rd)"]
 startDate = ""
-description = "Exterior (Unknown Year)"
 +++
+Exterior (Unknown Year)

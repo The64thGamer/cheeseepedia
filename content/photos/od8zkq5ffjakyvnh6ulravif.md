@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC September 1991 Show"]
 startDate = ""
-description = "Road Stage APS Disk"
 +++
+Road Stage APS Disk

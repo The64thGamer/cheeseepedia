@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Summer 2013 Show"]
 startDate = ""
-description = "Software Update Floppy"
 +++
+Software Update Floppy

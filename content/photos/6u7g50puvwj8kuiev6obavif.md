@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Charlotte, NC (7701 Pineville-Matthews Rd)"]
 startDate = ""
-description = "Munch's Make Believe Band Coupon (1991)"
 +++
+Munch's Make Believe Band Coupon (1991)

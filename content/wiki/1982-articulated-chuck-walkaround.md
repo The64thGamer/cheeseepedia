@@ -4,8 +4,8 @@ title = "1982 Articulated Chuck Walkaround"
 startDate = "1982-00-00"
 endDate = "1991-00-00"
 pageThumbnailFile = "88R85mH7lfqIx7WdTpQB.avif"
-contributors = ["BurgersNuggs445", "Chouts1", "BigCtheDataFinder", "The 64th Gamer", "CEC Tinley", "Capitanyoda20"]
-citations = ["[http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf](%22http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf%22)", "[http://www.heroesinmycloset.com/2010/05/thing-is-part-iii-man-makes-suit.html](%22http://www.heroesinmycloset.com/2010/05/thing-is-part-iii-man-makes-suit.html%22)"]
+contributors = ["BurgersNuggs445", "Chouts1", "BigCDataFinder ", "The 64th Gamer", "CEC Tinley", "Capitanyoda20"]
+citations = ["http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf", "http://www.heroesinmycloset.com/2010/05/thing-is-part-iii-man-makes-suit.html"]
 tags = ["Costumed Characters"]
 categories = ["Pizza Time Theatre"]
 +++
@@ -14,7 +14,7 @@ The 1982 Advertisement Campaign for Pizza Time Theatre introduced the first arti
 ## Design
 
 The walkaround originally wore a checkered vest with the rat tail pinned to it and a derby without the Pizza Time Theatre name. And is also one of the only Pizza Time Theatre walkarounds to also have paws.
-The head (along with Mr. Munch, Jasper, and Pasqually articulated heads created for Pizza Time Theatre commercials at the time) was manufactured by now-defunct Shafton Inc. of North Hollywood, CA.<sup>(1)</sup> The company has been known for other costumes and special effects for its lifetime, notably for Dreamworks, Universal, Warner Bros, and Sesame Workshop.<sup>(2)</sup>
+The head (along with Mr. Munch, Jasper, and Pasqually articulated heads created for Pizza Time Theatre commercials at the time) was manufactured by now-defunct Shafton Inc. of North Hollywood, CA.{{< cite 1 >}} The company has been known for other costumes and special effects for its lifetime, notably for Dreamworks, Universal, Warner Bros, and Sesame Workshop.{{< cite 2 >}}
 In 1984, the costume was updated to have a new derby and vest to reflect on slight updates to Chuck E's general design. In 1986, the costume would make yet another appearance but with white gloves substituting for his regular paws. This would mark the final appearance of the costume in this form before being placed in temporary retirement for about 5 years.
 It is speculated that around 1991, the head had received a major overhaul. Its derby, ears, teeth, eyes and eyelids were all redesigned to have a friendlier and softer appearance. The whiskers were removed for this update and the eyelid mechanic would be inverted to allow Chuck E. to raise his eyelids instead of lowering them (possibly to match a change in personality to his character). This new look would appear in at least 4 commercials (all airing in 1991) before the costume in general would be officially retired.
 Known commercials featured in:

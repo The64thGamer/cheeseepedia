@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Dingo Starr (Animatronic)"]
 startDate = ""
-description = "IAAPA (1978)"
 +++
+IAAPA (1978)

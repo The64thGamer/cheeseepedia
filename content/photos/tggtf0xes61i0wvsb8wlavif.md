@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Warren, MI Family Album Technical Documents (1984)"]
 startDate = ""
-description = "Page 3"
 +++
+Page 3

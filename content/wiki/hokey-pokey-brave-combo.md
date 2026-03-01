@@ -1,10 +1,10 @@
 +++
-title = "Hokey Pokey (Brave Combo) "
+title = "Hokey Pokey (Brave Combo)"
 draft = false
 tags = ["Live Shows"]
-categories = [""]
+categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = ""
-endDate = "0000-00-00"
+startDate = "1995-00-00"
+endDate = "1995-00-00"
 contributors = []
 +++

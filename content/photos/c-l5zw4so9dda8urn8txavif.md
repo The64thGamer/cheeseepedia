@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Champaign, IL (1036 Bloomington Rd)"]
 startDate = ""
-description = "The original 'Now Showing' box's remains"
 +++
+The original 'Now Showing' box's remains

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Walker, MI (3108 Alpine Ave NW)"]
 startDate = ""
-description = "Exterior, 2022"
 +++
+Exterior, 2022

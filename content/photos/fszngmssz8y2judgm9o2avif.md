@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Studio C Alpha"]
 startDate = ""
-description = "Desk lighting (1997 Prototype)"
 +++
+Desk lighting (1997 Prototype)

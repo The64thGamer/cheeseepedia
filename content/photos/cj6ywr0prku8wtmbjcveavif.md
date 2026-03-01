@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Topeka Inn Management Introduces... (1979)"]
 startDate = ""
-description = "Page 1 & 2"
 +++
+Page 1 & 2

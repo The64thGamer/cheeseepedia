@@ -1,10 +1,20 @@
 +++
 title = "Woodbury, MN (445 Commerce Dr)"
-draft = false
+storeNumber = ""
+startDate = "2014-04-14"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2014-04-14||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["44.9417359","-92.9034403"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2014-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

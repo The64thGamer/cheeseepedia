@@ -2,7 +2,7 @@
 title = "CEC Illinois"
 draft = false
 tags = ["User"]
-categories = []
+categories = ["User-Generated Content"]
 startDate = "2023-09-10"
 endDate = ""
 contributors = ["CEC Illinois"]

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["ShowBiz Computer Fun Fair"]
 startDate = ""
-description = "Fun Fair Screen (Unknown Year)"
 +++
+Fun Fair Screen (Unknown Year)

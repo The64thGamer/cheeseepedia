@@ -1,0 +1,14 @@
++++
+
+title = "2005 Logo Plush Baseball"
+draft = false
+tags = ["In-Store Merchandise"]
+categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "95d0ac4e3bcf7380.avif"
+startDate = "2005-00-00"
+endDate = "0000-00-00"
+contributors = ["The 64th Gamer"]
+citations = []
+alsoKnownAs = []
+manufacturer = ""
++++

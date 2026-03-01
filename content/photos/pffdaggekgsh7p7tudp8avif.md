@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Orlando, FL (7419 International Dr)"]
 startDate = ""
-description = "The only known photo of the store's [[Concept Unification Stage"
 +++
+The only known photo of the store's [[Concept Unification Stage

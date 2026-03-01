@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Madam Oink (Animatronic)"]
 startDate = ""
-description = "At Fantasy Forest Manufacturing"
 +++
+At Fantasy Forest Manufacturing

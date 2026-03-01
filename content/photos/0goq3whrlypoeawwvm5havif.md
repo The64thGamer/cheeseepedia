@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Charlotte, NC (7701 Pineville-Matthews Rd)"]
 startDate = ""
-description = "Adopt A Highway Sign (Unknown Year)"
 +++
+Adopt A Highway Sign (Unknown Year)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Whitehall, PA (1000 Lehigh Valley Mall)"]
 startDate = ""
-description = "A photo of the exterior taken on January 17, 2022"
 +++
+A photo of the exterior taken on January 17, 2022

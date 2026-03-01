@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Country Stage"]
 startDate = ""
-description = " (Center Stage)"
 +++
+ (Center Stage)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Durham, NC (3724 Mayfair St)"]
 startDate = ""
-description = "Helen Henny animatronic (PC: saan1ty)"
 +++
+Helen Henny animatronic (PC: saan1ty)

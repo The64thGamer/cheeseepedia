@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Parma, OH (7601 W Ridgewood Rd)"]
 startDate = ""
-description = "The beverages sign at Parma before 2.0"
 +++
+The beverages sign at Parma before 2.0

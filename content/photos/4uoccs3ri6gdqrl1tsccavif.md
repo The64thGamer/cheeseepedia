@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Charlotte, NC (7701 Pineville-Matthews Rd)"]
 startDate = ""
-description = "Pizzacam hidden by a Springtastic advertisement (June 18, 2024)"
 +++
+Pizzacam hidden by a Springtastic advertisement (June 18, 2024)

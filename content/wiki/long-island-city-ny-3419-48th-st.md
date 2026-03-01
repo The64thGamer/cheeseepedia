@@ -1,35 +1,20 @@
 +++
 title = "Long Island City, NY (3419 48th St)"
-draft = false
+storeNumber = ""
+startDate = "2000-01-07"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Studio C Alpha|2000-01-07|0000-00-00|", "Chuck E. Live Stage (Dance Floor)|2023-08-00||2019 Model|"]
+franchisees = []
+attractions = ["Alley Roller Classic|0000-00-00|0000-00-00|6 connected machines. Seen in footage from 2021 & 2023.","Birthday Party|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Chuck E's Rubble Bubble|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Chuck E. Cheese's Sketch Book|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Doodle Jump Arcade|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Ghostbusters (ICE)|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Hollywood Rocks|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Ice Man|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Jett Rider|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Jumpin' Fantasy|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","NBA Hoops|0000-00-00|0000-00-00|2 machines. Seen in footage from 2021 & 2023.","NFL 2 Minute Drill|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Ski Racer|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Space Invaders Frenzy|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Street Hoops|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Take 5 with Chuck E.|0000-00-00|0000-00-00|Rockstar version. Seen in footage from 2021 & 2023.","Terminator Salvation|0000-00-00|0000-00-00|Smallest model. Seen in footage from 2021 & 2023.","The Simpsons Soccer|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Wheel of Fortune (ICE coin pusher)|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Zombie Snatcher|0000-00-00|0000-00-00|Seen in footage from 2021 & 2023.","Jackpot Xtreme|0000-00-00|0000-00-00|Seen in footage from 2021.","Pig Out|0000-00-00|0000-00-00|Seen in footage from 2021.","Quik Drop|0000-00-00|0000-00-00|Seen in footage from 2021.","Robin Hood|0000-00-00|0000-00-00|Seen in footage from 2021.","Wheel'M In|0000-00-00|0000-00-00|Seen in footage from 2021.","Wheel of Fortune (Raw Thrills)|0000-00-00|0000-00-00|Video-only version without wheel. Seen in footage from 2021.","The Great Ticket Carnival|0000-00-00|0000-00-00|Seen in footage from 2023.","Hungry Chickens|0000-00-00|0000-00-00|Seen in footage from 2023.","Paw Patrol|0000-00-00|0000-00-00|Seen in footage from 2023.","Pink Panther Jewel Heist|0000-00-00|0000-00-00|Seen in footage from 2023.","Shooting Mania|0000-00-00|0000-00-00|Seen in footage from 2023.","Winners' Toggle|0000-00-00|0000-00-00|Seen in footage from 2023."]
+sqft = ""
+latitudeLongitude = ["40.75142972","-73.91557878"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = "GSi_H_DLzrCQZo3ZIs8G.avif"
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = "2000-00-00"
-endDate = ""
-contributors = ["2600:4040:9D71:FF00:ACD5:AA4A:7FAF:FECE","Rexburg090","2600:4040:5A0C:5900:C4C8:5729:9A24:790C","168.69.254.242","168.69.254.249","47.17.236.200","ThatBoiCydalan","Destinationimagination95"]
-citations = []
-pageThumbnailFile = "GSi_H_DLzrCQZo3ZIs8G.avif"
-latitudeLongitude = ["40.75142972","-73.91557878"]
+draft = false
 +++
-
-***3419 48th St, Store #513*** is a *Chuck E. Cheese's* location in Long Island City, New York.
-
-## History
-
-Long Island City would open on January 7, 2000 with a Studio C Alpha and Phase 3. In around 2006/2007, the store would receive the {{< wiki-link "CEC 2000's Remodel Program" >}}; keeping the store's exterior as is, In around 2016, the store would remodel once again; yet again, the store's exterior would remain untouched. The location would receive 2.0 in August 2023.
-
-## Stages
-
-When the store opened, they had a Studio C Alpha, like most other store opening at the time. Chuck E's Late Night Tuxedo would be replaced with the Cool Chuck outfit in around the Mid 2000's. By 2012, his outfit was replaced with the Avenger outfit. Chuck's cap was removed in September 2013 alongside most of the other locations. Sometime later, Chuck's outfit would be replaced again with the Rockstar Outfit.
-
-| Stage                                                                                             | Installed    | Removed      | Notes                                      |
-|---------------------------------------------------------------------------------------------------|--------------|--------------|--------------------------------------------|
-| {{< wiki-link "Studio C Alpha" >}}                                                          | January 2000 | August 2023  | One of two Studio C Alphas on Long Island. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | August 2023  | Still in Use |                                            |
-
-[2001](https://www.showbizpizza.com/photos/cec/ny_queens/index.html)
-
-## Trivia
-
-The front of the Chuck E. sign pointing to the parking lot of the store fell off sometimes and sometime in 2022 was replaced with a clipart version that can be found online. The sign would be removed for the 2.0 remodel in 2023.

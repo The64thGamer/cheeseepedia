@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Fayetteville, NC (511 North McPherson Church Rd)"]
 startDate = ""
-description = "Fayetteville's exterior before the 2011 remodel/expansion."
 +++
+Fayetteville's exterior before the 2011 remodel/expansion.

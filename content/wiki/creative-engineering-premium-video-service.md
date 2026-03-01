@@ -4,7 +4,7 @@ title = "Creative Engineering Premium Video Service"
 startDate = ""
 endDate = ""
 pageThumbnailFile = "ybtYgeKJWkYZdSBuIs2Z.avif"
-contributors = ["The 64th Gamer", "GallaRBX2", "gorillaman2"]
+contributors = ["The 64th Gamer", "GallaRM", "gorillaman2"]
 citations = ["<a href=\"https://www.ebay.com/itm/153434591769?hash=item23b96a1219:g:OrMAAOSw9fpbVUSw\">https://www.ebay.com/itm/153434591769?hash=item23b96a1219:g:OrMAAOSw9fpbVUSw</a>", "<a href=\"https://youtu.be/NXTDy5_3nGA\">https://youtu.be/NXTDy5_3nGA</a>"]
 tags = ["History"]
 categories = ["Creative Engineering"]

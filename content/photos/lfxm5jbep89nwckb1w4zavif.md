@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Fontana, CA (17069 Valley Blvd)"]
 startDate = ""
-description = "Exterior with 2005 Remodel."
 +++
+Exterior with 2005 Remodel.

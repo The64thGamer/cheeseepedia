@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Hampton, VA (4027 W Mercury Blvd)"]
 startDate = ""
-description = "The store's C-Stage (1988-1991)https://www.tumblr.com/quickdudesart/737263132859400192?source=share"
 +++
+The store's C-Stage (1988-1991)https://www.tumblr.com/quickdudesart/737263132859400192?source=share

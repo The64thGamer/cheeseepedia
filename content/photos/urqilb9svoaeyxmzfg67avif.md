@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["January 1999"]
 startDate = ""
-description = "CEC-Stage Side SVHS"
 +++
+CEC-Stage Side SVHS

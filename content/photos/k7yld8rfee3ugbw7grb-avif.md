@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Gulliver's Kingdom Stage"]
 startDate = ""
-description = "Fatz Geronimo's replacement mask 2024/01/13"
 +++
+Fatz Geronimo's replacement mask 2024/01/13

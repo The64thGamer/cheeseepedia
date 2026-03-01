@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["September 2010 Show"]
 startDate = ""
-description = "Studio C DVD"
 +++
+Studio C DVD

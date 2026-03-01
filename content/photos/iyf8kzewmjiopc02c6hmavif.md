@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamics Tester"]
 startDate = ""
-description = "Unit at ''IronBlast's Game Zone''"
 +++
+Unit at ''IronBlast's Game Zone''

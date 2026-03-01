@@ -1,4 +1,5 @@
 +++
+
 title = "Save The Colander Telethon (1983)"
 draft = false
 tags = ["Company Media"]
@@ -6,7 +7,8 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1983-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[http://www.showbizpizza.com/rae/characters/fatz.html](%22http://www.showbizpizza.com/rae/characters/fatz.html%22)"]
+citations = ["http://www.showbizpizza.com/rae/characters/fatz.html"]
+pageThumbnailFile = "99plpFeSp4FV6GCe4po4.avif"
 +++
 The ***Save The Colander Telethon* is a video tape sent to ShowBiz Pizza Place stores in February of 1983 with their {{< wiki-link "Crazy Colander Head Night (Event)" >}} package.
 The tape is 01:23:48 long, and mostly contains the telethon segment, while also containing a colander installation tape for the animatronic characters during the event.**
@@ -24,7 +26,7 @@ The event would physically take place in Creative Engineering, with the audience
 
 ### Contents Summary
 
-The tape opens with the event's main song, 'Strain Your Brain'. This is then followed up by an introduction to a fake celebrity guest, being Lawrence Welk- actually played by Fatz's voice actor Burt Wilson. Lawrence Welk was an obsession of Burt, whom would often reference him in Rock-afire Explosion showtapes when writing them.<sup>(1)</sup>
+The tape opens with the event's main song, 'Strain Your Brain'. This is then followed up by an introduction to a fake celebrity guest, being Lawrence Welk- actually played by Fatz's voice actor Burt Wilson. Lawrence Welk was an obsession of Burt, whom would often reference him in Rock-afire Explosion showtapes when writing them.{{< cite 1 >}}
 The tape then shows various departments and behind the scenes looks at Creative Engineering. Notably the 2nd Generation Beach Bear Prototype (Animatronic)|2nd Generation Beach Bear Prototype can be seen during this segment. Next the first fake total pledge count is revealed to be 3, and Aaron Fechter goes into explaining the telethon to viewers. After this, a tape of the 'History of the Colander' segment is shown with Aaron as the demonstrative employee stand-in. After this the second restaurant total is brought up to 89.
 For the majority of the rest of the tape, the hosts go around the room introducing various Creative Engineering employees alongside doing skits and gags. One employee pretends that Pizza Time Theatre calls and claims they will be running a parallel event- except with patrons trying refrigerators to their backs. In the middle of introductions a video showing Dave Thomas working on a new Beach Bear mask sculpt is shown. This new sculpt would never make it into stores. After another employee introduction, another video is shown showing off 2nd Generation Mitzi Mozzarella (Animatronic)|2nd Generation Mitzi Mozzarella and {{< wiki-link "Uncle Klunk (Animatronic)" >}}.
 Then introductions turn to the voice actors and musicians for the Rock-afire Explosion. 'Lawrence Welk' goes up to Rick Bailey mistakenly introducing him as Mitzi, to which he proceeds to kick him out of the room. This allows Burt to change back into a new set of clothes to come back on stage as himself. After the rest of the VAs are introduced, the band plays a medley of songs, being 'Fire', 'On the Road Again', 'Gloria', 'Secret Agent Man', 'Framed', and 'My Gal is Red Hot'.

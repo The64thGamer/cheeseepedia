@@ -1,0 +1,10 @@
++++
+title = "Asdddfgh.avif"
+tags = ["Photos"]
+categories = []
+startDate = ""
+draft = false
+pages = ["APS Files"]
+
+citations = []
++++

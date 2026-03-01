@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Gulliver's Bear Show (Matlock)"]
 startDate = ""
-description = "Side label of the master tape alongside other CEI masters."
 +++
+Side label of the master tape alongside other CEI masters.

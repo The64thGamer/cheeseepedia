@@ -1,0 +1,23 @@
+{{- partial "splash-text" -}}
+{{- $contributorCount := len site.Data.discourse_users -}}
+{{- $count := 0 -}}
+{{- range site.RegularPages -}}
+{{- $section := .Section -}}
+{{- if or (eq $section "meta") (eq $section "news") (eq $section "wiki") -}}
+{{- with .RenderString .Content -}}
+{{- $count = add $count 1 -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.5vw;">
+  <div class="fun-logo">
+  <a href="https://cheeseepedia.org"><img src="/UI/CEPLogo.avif" id="mainLogo" alt="Logo"></a>
+  </div>
+  <div class="fun-text">
+      Now at <strong>{{- $count -}}</strong> articles contributed by <strong>{{- $contributorCount -}}</strong> users.
+  <br>
+      Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
+  </div>
+</div>
+{{ partial "site_search.html" . }}
+</aside>

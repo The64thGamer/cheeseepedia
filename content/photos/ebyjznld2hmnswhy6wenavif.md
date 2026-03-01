@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Oceanside, CA (2481 Vista Way)"]
 startDate = ""
-description = "alt=Exterior as a Phase 3."
 +++
+alt=Exterior as a Phase 3.

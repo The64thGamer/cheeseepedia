@@ -2,7 +2,7 @@
 draft = false
 title = "Mony Mony"
 startDate = "1993-05-00"
-endDate = "0000-00-00"
+endDate = "1993-08-00"
 pageThumbnailFile = "A9rZT0Yte6l1sHCQYFnI.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://youtu.be/qDRGzk7dPD0"]

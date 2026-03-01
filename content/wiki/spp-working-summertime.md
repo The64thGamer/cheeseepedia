@@ -1,9 +1,10 @@
 +++
+
 title = "SPP Working / Summertime"
 draft = false
 tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
+pageThumbnailFile = "9i0hjdfgjkn2349tu0.avif"
 startDate = "1987-06-24"
 endDate = "1987-00-00"
 contributors = []

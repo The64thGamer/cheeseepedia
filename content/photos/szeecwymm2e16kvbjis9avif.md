@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Roanoke, VA (4059 Electric Rd)"]
 startDate = ""
-description = "Front view of exterior before 2012 expansion"
 +++
+Front view of exterior before 2012 expansion

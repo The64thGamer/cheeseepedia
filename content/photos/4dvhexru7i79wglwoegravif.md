@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Animation Programming System"]
 startDate = ""
-description = "APS in use for live programming."
 +++
+APS in use for live programming.

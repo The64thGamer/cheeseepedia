@@ -1,0 +1,36 @@
+<h1>{{ partial "emojify.html" .Title }}</h1>
+{{ .Content | safeHTML }}
+
+{{/* 1. Filter only pages in the "photos" section */}}
+{{- $photosSection := where site.RegularPages "Section" "photos" -}}
+
+{{/* 2. Further filter pages in that section that have GitInfo */}}
+{{- $photosWithGit := where $photosSection "GitInfo" "ne" nil -}}
+
+{{/* 3. Sort by Git last author date (or commit date) descending */}}
+{{- $sorted := sort $photosWithGit "GitInfo.AuthorDate" "desc" -}}
+
+{{/* 4. Paginate sorted list, e.g., 50 per page */}}
+{{- $paginator := .Paginate $sorted 50 -}}
+
+<div class="gallery">
+  <div id="tagsContainer" style="
+      display: flex;
+      flex-wrap: wrap;
+      align-items: stretch;
+      justify-content: space-around;
+    ">
+    {{- range $paginator.Pages -}}
+        <div class="gallery-image-box">
+          {{- $thumb := default "" .Title -}}
+          {{- $mode := "default" -}}
+          {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
+        </div>
+    {{- end -}}
+  </div>
+</div>
+
+{{/* 5. Pagination UI */}}
+<div class="pagination">
+  {{ template "_internal/pagination.html" . }}
+</div>

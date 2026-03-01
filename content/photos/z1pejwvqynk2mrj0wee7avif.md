@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Entrance to Gigglebee's in Rapid City"
 +++
+Entrance to Gigglebee's in Rapid City

@@ -1,10 +1,20 @@
 +++
 title = "Ferndale, MI (579 E 9 Mile Rd)"
-draft = false
+storeNumber = ""
+startDate = "1982-00-00"
+endDate = "1986-00-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1982-00-00|1986-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["42.4608638","-83.1265683"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

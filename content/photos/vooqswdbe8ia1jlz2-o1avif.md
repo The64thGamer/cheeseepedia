@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Employee Oval Name Tag - Engraved (90's)"]
 startDate = ""
-description = "Tag Back"
 +++
+Tag Back

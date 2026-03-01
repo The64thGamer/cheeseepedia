@@ -1,0 +1,10 @@
++++
+title = "IMG_0309.avif"
+tags = ["Photos"]
+categories = []
+startDate = ""
+draft = false
+pages = ["Holiday '93"]
+
+citations = []
++++

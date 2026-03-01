@@ -4,8 +4,8 @@ title = "Dolly (Dolli Dimples Retrofit)"
 startDate = "1989-00-00"
 endDate = "1997-00-00"
 pageThumbnailFile = "1989_-_Store_Interior_Dolly_Registers_Edit2025.avif"
-contributors = ["Documentor", "The 64th Gamer", "TrimSafe6859", "CyberSnout"]
-citations = ["[https://youtu.be/wXQxEUeOkok?t=445](%22https://youtu.be/wXQxEUeOkok?t=445%22)"]
+contributors = ["The 64th Gamer", "TrimSafe6859", "Cyber Snout"]
+citations = ["https://youtu.be/wXQxEUeOkok?t=445"]
 manufacturer = "Pizza Time Theatre, Inc"
 tags = ["Retrofits"]
 categories = ["Jungle Jim's"]
@@ -19,4 +19,4 @@ Dolly originally came from the {{< wiki-link "Cincinnati, OH (11400 Princeton Pi
 
 ## Lost Media & Unknown information.
 
-With how few photos/footage exists of Dolly it is currently unknown what she performed, the only evidence she worked is from 'The Jungle Jim Story' which features footage from 1991 of Dolly. Showing that she was at least aired up.<sup>(1)</sup>
+With how few photos/footage exists of Dolly it is currently unknown what she performed, the only evidence she worked is from 'The Jungle Jim Story' which features footage from 1991 of Dolly. Showing that she was at least aired up.{{< cite 1 >}}

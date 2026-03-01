@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Union, NJ (1660 US-22)"]
 startDate = ""
-description = "Union's exterior from 2007 until closure"
 +++
+Union's exterior from 2007 until closure

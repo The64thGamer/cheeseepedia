@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Aerial View of Morey's Pier (Opera House located on the right end of the slides)"
 +++
+Aerial View of Morey's Pier (Opera House located on the right end of the slides)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Fall Show 2013"]
 startDate = ""
-description = "Newsletter Back Scan"
 +++
+Newsletter Back Scan

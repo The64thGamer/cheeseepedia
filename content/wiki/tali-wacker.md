@@ -1,7 +1,7 @@
 +++
 title = "Tali-Wacker"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades and Attractions"]
 categories = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""

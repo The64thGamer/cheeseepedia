@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Houston, TX (12523 Westheimer Rd)"]
 startDate = ""
-description = "Exterior, March 2022"
 +++
+Exterior, March 2022

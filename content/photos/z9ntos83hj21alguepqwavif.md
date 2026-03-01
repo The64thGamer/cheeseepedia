@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Fort Collins, CO (105 W Prospect Rd)"]
 startDate = ""
-description = "Fort Collins' Exterior in May 2018 (PC: Google Maps)"
 +++
+Fort Collins' Exterior in May 2018 (PC: Google Maps)

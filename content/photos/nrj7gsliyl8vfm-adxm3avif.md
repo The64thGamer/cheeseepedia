@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Lansing, MI (5451 L West Saginaw Hwy)"]
 startDate = ""
-description = "Exterior before the [[CEC 2000's Remodel Program"
 +++
+Exterior before the [[CEC 2000's Remodel Program

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Pittsburgh, PA (20 McIntyre Square Dr)"]
 startDate = ""
-description = "Pre 2.0 Exterior (February 2022)"
 +++
+Pre 2.0 Exterior (February 2022)

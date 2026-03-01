@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Queenie / Mini Mozzarella (Animatronic)"]
 startDate = ""
-description = "Fully restored (2015)"
 +++
+Fully restored (2015)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Hellendoorn Primadonna Monkey"
 +++
+Hellendoorn Primadonna Monkey

@@ -1,10 +1,20 @@
 +++
 title = "Tucker / Atlanta, GA (3850 Lavista Rd)"
-draft = false
+storeNumber = ""
+startDate = "1981-10-22"
+endDate = "1984-00-00"
+cuDate = ""
+remodels = []
+stages = ["Classic Stage|1981-10-22|1984-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["0","0"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

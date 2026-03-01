@@ -17,7 +17,7 @@ Part of ya still don't.
 **[Jasper Cackles]**
 
 
-**Chuck E Cheese:**
+**Chuck E. Cheese:**
 
 But as I was saying, back in those days we did have TSOP
 

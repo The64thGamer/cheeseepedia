@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["SPP Curtain Cont Bypass"]
 startDate = ""
-description = "Original Board from Radio Shack"
 +++
+Original Board from Radio Shack

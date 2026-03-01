@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Animation Programming System Hardware Setup"]
 startDate = ""
-description = "1991"
 +++
+1991

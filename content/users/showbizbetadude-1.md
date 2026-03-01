@@ -1,6 +1,7 @@
 +++
-title = "showbizbetadude "
+title = "showbizbetadude"
 tags = ["User"]
+categories = ["User-Generated Content"]
 +++
 Hey everyone, My Name Is Connor, I'm A Big Fan of the Late Avenger Stuff and Early RAE Stuff From (1980-82)
 My Old Local Was Natick MA Before Closing for Good In 2020 

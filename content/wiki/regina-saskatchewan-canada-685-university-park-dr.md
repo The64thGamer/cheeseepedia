@@ -1,10 +1,20 @@
 +++
 title = "Regina, Saskatchewan, Canada (685 University Park Dr)"
-draft = false
+storeNumber = ""
+startDate = "2006-01-01"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Studio C Beta|2006-01-01||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["50.4261164","-104.5620790"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2006-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

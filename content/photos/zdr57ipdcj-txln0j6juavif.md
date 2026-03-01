@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["TJ Hartford's Sports Grille"]
 startDate = ""
-description = "2001 Logo"
 +++
+2001 Logo

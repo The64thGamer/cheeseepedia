@@ -2,8 +2,8 @@
 title = "nrVWi84JkilOKlj73zDb.avif"
 draft = false
 tags = ["Photos"]
-categories = ["Disney Parks"]
+categories = ["Walt Disney Imagineering"]
 pages = ["DACS"]
 startDate = ""
-description = "Utilidoor Map (Unknown Year)"
 +++
+Utilidoor Map (Unknown Year)

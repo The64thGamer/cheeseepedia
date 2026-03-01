@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamic Control System"]
 startDate = ""
-description = "Character Drive Card"
 +++
+Character Drive Card

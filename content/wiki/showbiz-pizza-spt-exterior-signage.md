@@ -1,4 +1,5 @@
 +++
+
 title = "'ShowBiz Pizza' (SPT Exterior Signage)"
 draft = false
 tags = ["Store Fixtures"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["Saan1ty"]
 citations = []
+pageThumbnailFile = "3N9OlsYlRuwwV7hDzib2.avif"
 +++
 ShowBiz Pizza was exterior signage produced for ShowBiz Pizza Time Inc from around 1996 to 1992/1993 for the {{< wiki-link "SPT 1980's Remodel Program" >}}.
 

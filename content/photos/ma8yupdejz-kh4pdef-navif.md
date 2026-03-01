@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "The Four Seasoned Bears (1984)"
 +++
+The Four Seasoned Bears (1984)

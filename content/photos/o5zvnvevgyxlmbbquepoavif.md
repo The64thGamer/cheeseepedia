@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Sun (Animatronic)"]
 startDate = ""
-description = "Standard Building mask."
 +++
+Standard Building mask.

@@ -1,15 +1,16 @@
 +++
 draft = false
-title = "The Rock-afire Explosion Documentary Blu-Ray"
+title = "The Rock-afire Explosion (Movie) in Blu-ray"
 startDate = "2024-02-01"
 endDate = "0000-00-00"
 pageThumbnailFile = "Hb1MVW54KPQIW9wjmt_Q.avif"
 contributors = ["The 64th Gamer", "Chuckatronics"]
-citations = ["", "[https://www.americangenrefilm.com/](%22https://www.americangenrefilm.com/%22)", "[https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion](%22https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion%22)", "Writer testimony. No archive of the website within the first week available.", "[https://web.archive.org/web/20240226040808/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion](%22https://web.archive.org/web/20240226040808/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion%22)", "Writer testimony.", "[https://web.archive.org/web/20240731052611/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion](%22https://web.archive.org/web/20240731052611/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion%22)"]
+citations = ["", "https://www.americangenrefilm.com/", "https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion", "Writer testimony. No archive of the website within the first week available.", "https://web.archive.org/web/20240226040808/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion", "Writer testimony.", "https://web.archive.org/web/20240731052611/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion","https://web.archive.org/web/20241108103816/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion","https://web.archive.org/web/20250609020700/https://vinegarsyndrome.com/collections/all-partner-label-releases/products/the-rock-afire-explosion"]
 tags = ["Products"]
-categories = ["Creative Engineering", "ShowBiz Pizza Place", "The Rock-afire Explosion Documentary"]
+categories = ["Creative Engineering", "ShowBiz Pizza Place", "The Rock-afire Explosion (Movie)"]
+transcriptions = ["The Rock-afire Explosion (Movie)"]
 +++
-The ***Rock-afire Explosion Documentary Blu-Ray* is a 2024 limited edition rerelease of the {{< wiki-link "The Rock-afire Explosion Documentary" >}} with small additions and an improved video quality over the The Rock-afire Explosion Documentary DVD|prior DVD release.**
+The ***Rock-afire Explosion Documentary Blu-Ray* is a 2024 limited edition rerelease of the {{< wiki-link "The Rock-afire Explosion (Movie)" >}} with small additions and an improved video quality over the The Rock-afire Explosion (Movie) in DVD|prior DVD release.**
 
 ## Official Description
 
@@ -27,10 +28,10 @@ Writer: Bradbord Thomason
 ## Changes / Additions
 
 The release would come with different artwork for the case and slip cover from the usual promotional art, now using scans of the artwork featured on the Rock-afire Explosion Record 2 (1981)|Rock-afire Explosion Record 2 and Rock-afire Explosion Record 4 (1981)|Rock-afire Explosion Record 4 vinyl records. The back description would also be rewritten to include info after the film's release, such as the director's being credited for their later hit documentary *Glow*, and the Rock-afire eventually inspiring the 2014 game series *Five Nights at Freddy's*.
-The film's original digital master would be included on the disc. The disc would now be 33gb.<sup>(1)</sup>
+The film's original digital master would be included on the disc. The disc would now be 33gb.{{< cite 1 >}}
 New director commentary from Brett Whitcomb and Bradford Thomason over the film would be included. A new photo gallery of behind the scenes pictures would also be included.
 
 ## Release
 
-On February 1st, 2024, the *American Genre Film Archive* would work in tandem with *Vinegar Syndrome* to begin pre-orders for the film.<sup>(2)(3)</sup> Only 2000 would be made for the release. Within the first week around 500 copies had been ordered.<sup>(4)</sup> By February 26th, 1,300 copies had been ordered.<sup>(5)</sup> The earliest known copy would arrive on February 28th, 2024.<sup>(6)</sup>
-As of July 31, 2024, 117 copies would be left in stock.<sup>(7)</sup>
+On February 1st, 2024, the *American Genre Film Archive* would work in tandem with *Vinegar Syndrome* to begin pre-orders for the film.<sup>(2)(3)</sup> Only 2000 would be made for the release. Within the first week around 500 copies had been ordered.{{< cite 4 >}} By February 26th, 1,300 copies had been ordered.{{< cite 5 >}} The earliest known copy would arrive on February 28th, 2024.{{< cite 6 >}}
+By July 31, 2024, 117 copies would be left in stock.{{< cite 7 >}} By November 8th, 2024, 11 copies would be left. {{< cite 8 >}} The copies would likely sell out by the end of November, though the first archive of the page showing 'out of stock' would be on June 9th, 2025. {{< cite 9 >}}

@@ -1,10 +1,20 @@
 +++
 title = "Tampa, FL (1707 E Fowler Ave)"
-draft = false
+storeNumber = ""
+startDate = "1981-01-21"
+endDate = "1984-01-08"
+cuDate = ""
+remodels = []
+stages = ["Classic Stage|1981-01-21|1984-01-08|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["28.0544277","-82.4410422"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -1,10 +1,10 @@
 +++
 title = "Run Run Rudolph"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "1995-00-00"
-endDate = "0000-00-00"
+startDate = "1995-11-24"
+endDate = "1997-12-00"
 contributors = []
 +++

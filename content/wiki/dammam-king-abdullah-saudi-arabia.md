@@ -1,10 +1,20 @@
 +++
 title = "Dammam (King Abdullah), Saudi Arabia"
-draft = false
+storeNumber = ""
+startDate = "2014-09-00"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2014-09-00||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["0","0"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2014-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Sharonville, OH (1429 E Kemper Rd)"]
 startDate = ""
-description = "Chuck E. Cheese during a performance. Earliest known Cool Chuck photo https://www.instagram.com/p/B4tVIm3H6ef/"
 +++
+Chuck E. Cheese during a performance. Earliest known Cool Chuck photo https://www.instagram.com/p/B4tVIm3H6ef/

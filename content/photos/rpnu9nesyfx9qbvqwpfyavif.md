@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Fall River, MA (35 Mariano Bishop Blvd)"]
 startDate = ""
-description = "Big Top Kiddie Playland (Formerly Chuck E. Cheese) Advertisement"
 +++
+Big Top Kiddie Playland (Formerly Chuck E. Cheese) Advertisement

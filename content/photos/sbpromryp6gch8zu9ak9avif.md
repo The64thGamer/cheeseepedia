@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["The King / King Kat (Lounge)"]
 startDate = ""
-description = "[[Danvers, MA (139 Endicott St)"
 +++
+[[Danvers, MA (139 Endicott St)

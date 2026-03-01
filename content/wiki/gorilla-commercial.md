@@ -1,5 +1,5 @@
 +++
-title = "Gorilla (Commercial) "
+title = "Gorilla (Commercial)"
 startDate = "1981-00-00"
 contributors = ["Chouts1"]
 citations = ["https://www.showbizpizza.com/info/promo/spp/spp_81franchise.pdf"]

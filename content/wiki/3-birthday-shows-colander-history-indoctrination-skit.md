@@ -6,13 +6,13 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1983-02-00"
 endDate = "1983-11-24"
 contributors = ["The 64th Gamer"]
-citations = ["[https://www.showbizpizza.com/review/rae/1983_colander.html](%22https://www.showbizpizza.com/review/rae/1983_colander.html%22)"]
+citations = ["https://www.showbizpizza.com/review/rae/1983_colander.html"]
 pageThumbnailFile = "bVXvyXYsAc1l_bS5GJg3.avif"
 showtapeFormats = ["CEI 4-Track Reel"]
 alsoKnownAs = ["CREATIVE ENGINEERING CBD602-081883 3 BIRTHDAY, COLANDER HISTORY/INDOCTRINATION LOW SPEED TAILWOUND 081883"]
 +++
 ***3 Birthday Shows - Colander History - Indoctrination Skit* is a Rock-afire Explosion showtape released in
-ShowBiz Pizza Place locations on February 7th 1983.<sup>(1)</sup>**
+ShowBiz Pizza Place locations on February 7th 1983.{{< cite 1 >}}**
 
 ## Special Shows
 
@@ -29,13 +29,13 @@ with Aaron Fechter as the stand-in for Johnny.
 
 ## Show List
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Birthday
-2.  **Segment 2**
+2. **Segment 2**
     1.  Happy Birthday Medley
-3.  **Segment 3**
+3. **Segment 3**
     1.  Sal's Birthday
-4.  **Segment 4**
+4. **Segment 4**
     1.  Indoctrination
-5.  **Segment 5**
+5. **Segment 5**
     1.  History of the Colander

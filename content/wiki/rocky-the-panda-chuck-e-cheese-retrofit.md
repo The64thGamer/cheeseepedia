@@ -5,11 +5,11 @@ tags = ["Retrofits"]
 categories = ["Sally Corporation"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["PizzaEntertainmentFanX"]
+contributors = ["Pizza Entertainment Fan"]
 citations = []
 pageThumbnailFile = "j34F6vk2yordRrejLg39.avif"
 +++
-***Rocky The Panda* is a retrofit of {{< wiki-link "Chuck E Cheese (Cyberamic)" >}} created by Sally Corp for {{< wiki-link "Ocean City, NJ (600 Boardwalk)" >}}. Rocky is the leader of Rocky & The Railroad Ramblers, an animatronic show near Gillian's train ride.
+***Rocky The Panda* is a retrofit of {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}} created by Sally Corp for {{< wiki-link "Ocean City, NJ (600 Boardwalk)" >}}. Rocky is the leader of Rocky & The Railroad Ramblers, an animatronic show near Gillian's train ride.
 The Bot was first installed in 1992 & was placed right of Bubba (Mr. Munch Retrofit)|Bubba & Left of Henrietta Hatpin (Helen Henny Retrofit)|Henrietta Hatpin.**
 
 ## History

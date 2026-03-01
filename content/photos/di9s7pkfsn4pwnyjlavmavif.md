@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Pierre / Pete & Waldo / Repeat (1984)"
 +++
+Pierre / Pete & Waldo / Repeat (1984)

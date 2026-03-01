@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Sally Corporation"]
 pages = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
-description = "Sally's 1986 IAAPA Booth, featuring the Care Bears"
 +++
+Sally's 1986 IAAPA Booth, featuring the Care Bears

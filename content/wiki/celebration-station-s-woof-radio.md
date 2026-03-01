@@ -3,7 +3,7 @@ draft = false
 title = "Celebration Station's W.O.O.F. Radio"
 startDate = "1982-05-24"
 endDate = "2001-00-00"
-contributors = ["Letterstolooneybird", "BigCtheDataFinder"]
+contributors = ["Letterstolooneybird", "BigCDataFinder "]
 citations = ["https://www.youtube.com/playlist?list=PLYN4FE48ElYtwdEf8lYhyVK1BuWzDtGoA"]
 manufacturer = "Creative Presentations, Inc. (CPI)"
 downloadLinks = ["https://drive.google.com/drive/folders/1VlLHbN4bVu6K6j41_OKSuM-BLEc7VGzs?usp=drive_link"]

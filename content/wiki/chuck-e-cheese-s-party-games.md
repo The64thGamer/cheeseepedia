@@ -12,7 +12,7 @@ citations = []
 
 ## Gameplay
 
-The game takes place at a nondescript {{< wiki-link "Chuck E Cheese's" >}} location.
+The game takes place at a nondescript {{< wiki-link "Chuck E. Cheese's" >}} location.
 
 ### Playable Characters
 

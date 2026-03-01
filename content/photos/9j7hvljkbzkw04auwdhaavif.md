@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Redding CA (910 Hilltop Dr)"]
 startDate = ""
-description = "alt=Redding exterior (PC: Google Maps)"
 +++
+alt=Redding exterior (PC: Google Maps)

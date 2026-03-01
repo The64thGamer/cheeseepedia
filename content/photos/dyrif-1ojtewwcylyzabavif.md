@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Queenie / Mini Mozzarella (Animatronic)"]
 startDate = ""
-description = "IAAPA (1978)"
 +++
+IAAPA (1978)

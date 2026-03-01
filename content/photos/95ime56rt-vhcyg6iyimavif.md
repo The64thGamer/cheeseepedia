@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Southgate, MI (15300 Toledo Rd)"]
 startDate = ""
-description = "Southgates Exterior in 2018"
 +++
+Southgates Exterior in 2018

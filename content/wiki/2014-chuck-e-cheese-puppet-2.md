@@ -1,7 +1,7 @@
 +++
 title = "2014 Chuck E. Cheese Puppet 2"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

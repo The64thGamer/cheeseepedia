@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "One of many prospective articles saying Wilbur may come back"
 +++
+One of many prospective articles saying Wilbur may come back

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Hellendoorn Cowboy (Old Captain) Bear"
 +++
+Hellendoorn Cowboy (Old Captain) Bear

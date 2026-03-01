@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Studio C"]
 startDate = ""
-description = "[[CU Beta 16M]] (Studio C [[Concept Unification Stage"
 +++
+[[CU Beta 16M]] (Studio C [[Concept Unification Stage

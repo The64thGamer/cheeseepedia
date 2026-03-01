@@ -1,0 +1,10 @@
++++
+title = "Summer12StdC.avif"
+tags = ["Photos"]
+categories = []
+startDate = ""
+draft = false
+pages = ["Summer 2012"]
+
+citations = []
++++

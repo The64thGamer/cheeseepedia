@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Fats Gorilla (Animatronic)"]
 startDate = ""
-description = "Mech with body shell"
 +++
+Mech with body shell

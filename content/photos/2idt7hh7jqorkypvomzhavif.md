@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Arlington, TX (2216 S Fielder Rd)"]
 startDate = ""
-description = "Arlington's Chuck E.'s House in 1987."
 +++
+Arlington's Chuck E.'s House in 1987.

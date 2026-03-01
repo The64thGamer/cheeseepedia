@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Fingers Dan arriving in disrepair at CEI (1984)"
 +++
+Fingers Dan arriving in disrepair at CEI (1984)

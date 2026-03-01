@@ -1,4 +1,5 @@
 +++
+
 title = "Land of 1,000 Dances Live Demo"
 draft = false
 tags = ["Company Media"]
@@ -7,4 +8,5 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "Ceclivedemovideo.avif"
 +++

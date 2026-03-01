@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Chandler, AZ (2977 W Frye Rd)"]
 startDate = ""
-description = "Exterior, April 2023"
 +++
+Exterior, April 2023

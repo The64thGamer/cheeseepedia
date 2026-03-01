@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Annapolis, MD (2333-A Forest Dr)"]
 startDate = ""
-description = "Kid Check area before the 2010 Update (PC: Unknown)"
 +++
+Kid Check area before the 2010 Update (PC: Unknown)

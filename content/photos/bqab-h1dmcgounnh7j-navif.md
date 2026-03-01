@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Queenie / Mini Mozzarella (Animatronic)"]
 startDate = ""
-description = "Beto Carrero World"
 +++
+Beto Carrero World

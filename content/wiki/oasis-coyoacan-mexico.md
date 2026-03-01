@@ -1,10 +1,20 @@
 +++
 title = "Oasis Coyoacan, Mexico"
-draft = false
+storeNumber = ""
+startDate = "2015-10-13"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2015-10-13||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["19.3451573","-99.1789862"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2015-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

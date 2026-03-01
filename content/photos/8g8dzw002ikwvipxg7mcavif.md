@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Rock & Pizza Roll (CEC Menu Item)"]
 startDate = ""
-description = "Promotional Material Document"
 +++
+Promotional Material Document

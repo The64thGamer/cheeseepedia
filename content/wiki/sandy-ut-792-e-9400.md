@@ -1,10 +1,20 @@
 +++
 title = "Sandy, UT (792 E 9400)"
-draft = false
+storeNumber = ""
+startDate = "1983-02-00"
+endDate = "1985-04-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1983-02-00|1985-04-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["40.5804954","-111.8614316"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1983-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

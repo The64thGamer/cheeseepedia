@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Ad for Piccadilly Circus in Columbia, Missouri."
 +++
+Ad for Piccadilly Circus in Columbia, Missouri.

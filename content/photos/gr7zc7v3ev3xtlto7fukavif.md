@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Sgt. Singer's Pizza Circus"]
 startDate = ""
-description = "Sgt. Singer's Kiddieland Advertisement (Miami, FL)"
 +++
+Sgt. Singer's Kiddieland Advertisement (Miami, FL)

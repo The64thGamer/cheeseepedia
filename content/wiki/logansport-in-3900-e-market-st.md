@@ -1,10 +1,20 @@
 +++
 title = "Logansport, IN (3900 E Market St)"
-draft = false
+storeNumber = ""
+startDate = "1983-05-18"
+endDate = "1985-09-24"
+cuDate = ""
+remodels = []
+stages = ["Classic Stage|1983-05-18|1985-09-24|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["40.7585960","-86.3287760"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1983-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

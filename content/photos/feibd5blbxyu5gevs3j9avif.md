@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Baltimore, MD (8354 Eastern Ave)"]
 startDate = ""
-description = "Sign located next to the showroom entrance."
 +++
+Sign located next to the showroom entrance.

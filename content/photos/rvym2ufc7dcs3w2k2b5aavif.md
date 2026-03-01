@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Backyard Monsters"]
 startDate = ""
-description = " A giant animatronic scorpion watches spectators carefully https://www.newspapers.com/article/johnson-city-press-cpi-bugs/141525301/ "
 +++
+ A giant animatronic scorpion watches spectators carefully https://www.newspapers.com/article/johnson-city-press-cpi-bugs/141525301/ 

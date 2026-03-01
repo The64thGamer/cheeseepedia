@@ -3,9 +3,9 @@ title = "Kooser Helen Henny (Animatronic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
-startDate = ""
-endDate = "0000-00-00"
-contributors = ["EagleScout610","216.125.34.66","The 64th Gamer","2601:184:303:4A20:8578:124D:21BE:4704","Ptt1977","Concordio"]
+startDate = "1978-12-00"
+endDate = "1980-05-00"
+contributors = ["EagleScout610","Anonymous","The 64th Gamer","Anonymous","Ptt1977","Concordio"]
 citations = []
 pageThumbnailFile = "xJUdmPuoeJYSriXthaOJ.avif"
 +++
@@ -13,7 +13,7 @@ pageThumbnailFile = "xJUdmPuoeJYSriXthaOJ.avif"
 
 ## History
 
-After Kooser upgraded to the Balcony show, Helen's whereabouts were unknown. It's assumed she was moved to {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}, but unlike {{< wiki-link "Kooser Chuck E Cheese (Animatronic)" >}}, there are no pictures of her at Sunnyvale. She is currently presumed to have been destroyed when Sunnyvale relocated to {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} after PTT's bankruptcy.
+After Kooser upgraded to the Balcony show, Helen's whereabouts were unknown. It's assumed she was moved to {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, but unlike {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}}, there are no pictures of her at Sunnyvale. She is currently presumed to have been destroyed when Sunnyvale relocated to {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} after PTT's bankruptcy.
 
 ## Design
 

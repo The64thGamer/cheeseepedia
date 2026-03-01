@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-00-00"
 endDate = ""
-contributors = ["ChuckE1352","JamesLemony","The 64th Gamer","PizzaEntertainmentFanX","CECMentor"]
+contributors = ["ChuckE1352","JamesLemony","The 64th Gamer","Pizza Entertainment Fan","CECMentor"]
 citations = ["<a href=\"https://m.facebook.com/pizzatimetheatre/photos/a.193614700679428/1078535902187299/?type=3\">https://m.facebook.com/pizzatimetheatre/photos/a.193614700679428/1078535902187299/?type=3</a>","<a href=\"https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf\">https://www.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf</a>"]
 pageThumbnailFile = "KYpoNmbJvTPSKrP8P6KV.avif"
 manufacturer = "Pizza Time Theatre"

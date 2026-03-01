@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Hampton, VA (4027 W Mercury Blvd)"]
 startDate = ""
-description = "Store Exterior Before Closing (1998)"
 +++
+Store Exterior Before Closing (1998)

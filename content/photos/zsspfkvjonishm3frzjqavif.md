@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Mijjinator (Mijjin)"]
 startDate = ""
-description = "Promotional photo (1992)"
 +++
+Promotional photo (1992)

@@ -5,7 +5,7 @@ tags = ["Store Fixtures"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["Nostalgia Cow","BurgersNuggs445","77.101.174.24"]
+contributors = ["Nostalgia Cow","BurgersNuggs445","Anonymous"]
 citations = []
 +++
 The **'CWO' (Must C TV Award)** was a poster created for Chuck E. Cheese's in 1998.

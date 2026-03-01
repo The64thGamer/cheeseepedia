@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Wilbur at Track Stars attending someone's birthday."
 +++
+Wilbur at Track Stars attending someone's birthday.

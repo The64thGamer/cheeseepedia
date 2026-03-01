@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["ShowBiz Computer Fun Fair"]
 startDate = ""
-description = "Photo of the game with the selection screen visible (Unknown Year)"
 +++
+Photo of the game with the selection screen visible (Unknown Year)

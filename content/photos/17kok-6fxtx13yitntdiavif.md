@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Pop It for Gold"]
 startDate = ""
-description = "A photo of the arcade machine"
 +++
+A photo of the arcade machine

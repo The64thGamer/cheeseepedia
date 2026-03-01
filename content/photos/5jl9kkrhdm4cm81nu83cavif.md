@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Articulated Helen Walkaround"]
 startDate = ""
-description = "Articulated Helen Henny"
 +++
+Articulated Helen Henny

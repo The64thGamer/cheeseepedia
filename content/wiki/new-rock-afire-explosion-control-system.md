@@ -19,13 +19,13 @@ The New Rock-afire Explosion Control System is designed around an Apple IIe comp
 
 Listed in order from left to right from the front of the computer
 
-1.  **Decoder** - Accepts video input from the VCRs, decodes the control data from the VBI, and provides a switched video output to the Turntable Board to feed the TVs. Custom designed by CEI.
-2.  **Showplay** - Outputs two channels of Pianocorder-format data to drive the character Bit Strippers, and miscellaneous signals to control the Turntable Board. Custom designed by CEI.
-3.  **DOC** (acronym unknown) - Implements the 'SCI' serial interface used to communicate with the show selector and manager panels.
-4.  **RS-232** - RS-232 interface for controlling the main VCR. Unknown if custom or COTS.
-5.  **Floppy controller** - Interfaces with the 3.5' floppy disk drive. Custom designed by CEI.
+1.**Decoder** - Accepts video input from the VCRs, decodes the control data from the VBI, and provides a switched video output to the Turntable Board to feed the TVs. Custom designed by CEI.
+2.**Showplay** - Outputs two channels of Pianocorder-format data to drive the character Bit Strippers, and miscellaneous signals to control the Turntable Board. Custom designed by CEI.
+3.**DOC** (acronym unknown) - Implements the 'SCI' serial interface used to communicate with the show selector and manager panels.
+4.**RS-232** - RS-232 interface for controlling the main VCR. Unknown if custom or COTS.
+5.**Floppy controller** - Interfaces with the 3.5' floppy disk drive. Custom designed by CEI.
 6.  (Empty slot)
-7.  **Lightpen** - Reads lightpen signals to control the computer. Custom designed by CEI.
+7.**Lightpen** - Reads lightpen signals to control the computer. Custom designed by CEI.
 
 ## Turntable Board
 

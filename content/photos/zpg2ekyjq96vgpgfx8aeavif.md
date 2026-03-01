@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Sally Corporation"]
 pages = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
-description = "Dunia's Funshine Bear at IAAPA (1986)"
 +++
+Dunia's Funshine Bear at IAAPA (1986)

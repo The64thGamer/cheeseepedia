@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Chuck E.'s House"]
 startDate = ""
-description = "Corman And Associates Concept Art"
 +++
+Corman And Associates Concept Art

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["FileFickle"]
 startDate = ""
-description = "Need MOAR photos!"
 +++
+Need MOAR photos!

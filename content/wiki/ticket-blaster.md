@@ -1,24 +1,23 @@
 +++
 title = "Ticket Blaster"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","BurgersNuggs445"]
-citations = ["[https://www.youtube.com/watch?v=OJVT49KgQLQ](%22https://www.youtube.com/watch?v=OJVT49KgQLQ%22)","[https://hothardware.com/news/chuck-e-cheese-testing-oculus-rift-virtual-ticket-blaster-in-three-markets](%22https://hothardware.com/news/chuck-e-cheese-testing-oculus-rift-virtual-ticket-blaster-in-three-markets%22)","[https://www.youtube.com/watch?v=imakDPgarcg](%22https://www.youtube.com/watch?v=imakDPgarcg%22)"]
+citations = ["https://www.youtube.com/watch?v=OJVT49KgQLQ","https://hothardware.com/news/chuck-e-cheese-testing-oculus-rift-virtual-ticket-blaster-in-three-markets","https://www.youtube.com/watch?v=imakDPgarcg"]
 pageThumbnailFile = "dlkaec7iyXMIlncjQkFI.avif"
 +++
-. Credit to [}}">CECBowlingGreen](%7B%7B%3C%20ref%20){users="" cecbowlinggreen"=""}.|439x439px]]
 The **Ticket Blaster** is an attraction found at Chuck E. Cheese's locations. It is only able to be used when there is a reserved birthday party. The point of the Ticket Blaster is to grab as many tickets as you can within 30 seconds, as well as possibly getting other things like a 'Magic Ticket'. The Ticket Blaster is still in use to this day, despite CEC getting rid of paper tickets, though some locations have them empty, others have tickets and the other prizes in them.
 
 ## History
 
-In Spring 2008 the Ticket Blaster is presented at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} and is soon installed at the {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}} location for the concept to be reviewed by guests. The concept made it to every San Antonio Chuck E. Cheese's in 2009, where it stayed in the test phase for months until 2010 it was finalized for all stores to use. The Ticket Blaster Flash Game is also created around the same time to advertise this.<sup>(1)</sup>
+In Spring 2008 the Ticket Blaster is presented at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} and is soon installed at the {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}} location for the concept to be reviewed by guests. The concept made it to every San Antonio Chuck E. Cheese's in 2009, where it stayed in the test phase for months until 2010 it was finalized for all stores to use. The Ticket Blaster Flash Game is also created around the same time to advertise this.{{< cite 1 >}}
 
 ### Virtual Reality
 
-In Spring 2014, in an effort to update the Ticket Blaster, It was integrated with the Oculus Rift. The Ticket Blaster was also modified to include the headset with special cameras that were used to show whoever was inside the Ticket Blaster on the monitors in the showroom. The retrofit was tested in three markets: Dallas, San Diego, and Orlando.<sup>(2)</sup> But due to concerns about seizures it was canceled.<sup>(3)</sup>
+In Spring 2014, in an effort to update the Ticket Blaster, It was integrated with the Oculus Rift. The Ticket Blaster was also modified to include the headset with special cameras that were used to show whoever was inside the Ticket Blaster on the monitors in the showroom. The retrofit was tested in three markets: Dallas, San Diego, and Orlando.{{< cite 2 >}} But due to concerns about seizures it was canceled.{{< cite 3 >}}
 
 ### Present
 
@@ -49,7 +48,7 @@ The Rocket Blaster is a 2019 Ticket Blaster prototype that never left the Irving
 
 ### 2024 Chuck E.'s Birthday Blaster
 
-A test for a replacement to the ticket blaster, being the {{< wiki-link "Chuck E.'s Birthday Blaster" >}}, would be tested and the Grand Prarie, TX location.
+A test for a replacement to the ticket blaster, being the {{< wiki-link "Chuck E.'s Birthday Blaster" >}}, would be tested and the Grand Prairie, TX location.
 
 ## How To Play
 

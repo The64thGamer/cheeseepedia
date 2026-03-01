@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Dingo Starr (Animatronic)"]
 startDate = ""
-description = "King's Dominion (1981)"
 +++
+King's Dominion (1981)

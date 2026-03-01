@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Durham, NC (3724 Mayfair St)"]
 startDate = ""
-description = "Showroom in September 2002"
 +++
+Showroom in September 2002

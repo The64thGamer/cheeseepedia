@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Miamisburg, OH (30 Prestige Place)"]
 startDate = ""
-description = "Chuck E. Walkaround"
 +++
+Chuck E. Walkaround

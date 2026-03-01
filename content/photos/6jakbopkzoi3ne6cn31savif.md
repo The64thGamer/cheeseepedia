@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Backyard Monsters"]
 startDate = ""
-description = "alt=Logo with some bugs and the text 'Backyard Monsters'"
 +++
+alt=Logo with some bugs and the text 'Backyard Monsters'

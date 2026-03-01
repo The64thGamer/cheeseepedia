@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Traveler (Magazine)"]
 startDate = ""
-description = "The piece in the present-day Dothan, AL store."
 +++
+The piece in the present-day Dothan, AL store.

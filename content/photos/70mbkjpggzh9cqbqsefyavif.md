@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Picture of Peppy in the kitchen"
 +++
+Picture of Peppy in the kitchen

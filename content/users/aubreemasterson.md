@@ -2,13 +2,13 @@
 title = "Aubreemasterson"
 draft = false
 tags = ["User"]
-categories = []
+categories = ["User-Generated Content"]
 startDate = "2024-08-07"
 endDate = ""
 contributors = ["Aubreemasterson"]
 citations = []
 +++
-location on August 6, 2024.]]
+location on August 6, 2024.
 Hey everybody, my name is Aubree, and I am a girl with autism and ADHD who has a good obsession with Chuck E. Cheese. My local location is the {{< wiki-link "Altoona, PA (3415 Pleasant Valley Blvd)" >}} location, so I go there for any updates and fun. I'm planning to go to more locations in the future.
 
 ## Fun facts

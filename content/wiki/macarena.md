@@ -1,10 +1,10 @@
 +++
 title = "Macarena"
 draft = false
-tags = ["Showtapes"]
+tags = ["Live Shows"]
 categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
-startDate = "1997-00-00"
-endDate = "0000-00-00"
+startDate = "1997-01-00"
+endDate = "1997-03-00"
 contributors = []
 +++

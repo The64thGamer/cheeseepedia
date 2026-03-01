@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Winchester Chuck E. Cheese Name Sign (1977)"]
 startDate = ""
-description = "Seen in [[Winchester Chuck E. Cheese V2 (Animatronic)"
 +++
+Seen in [[Winchester Chuck E. Cheese V2 (Animatronic)

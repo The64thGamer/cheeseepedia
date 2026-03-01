@@ -1,4 +1,5 @@
 +++
+
 title = "Jasper T. Jowls"
 draft = false
 tags = ["Characters"]
@@ -9,15 +10,15 @@ startDate = ""
 endDate = ""
 contributors = ["Animatronicbrainrot","CECMentor"]
 citations = []
+pageThumbnailFile = "nl8yNk_3RrDawtyCt8Rr.avif"
 +++
-
 ***Jasper***, full name ***Jasper Tennessee Jowls***, is one of the main characters of the Chuck E. Cheese's franchise, having made his debut at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location in 1977.
 
 ## History
 
 ### Pizza Time Theatre
 
-From as early as 1977, Jasper was a country loving hound dog. He was loud and not too smart, being portrayed by Scott Paulin. He had buck teeth, wrinkles, a banjo, and a straw hat. He would often laugh at any joke, no matter how poor its content was, causing {{< wiki-link "Chuck E Cheese" >}} to yell at the technician to turn off the 'fruitcake dog.' He would flirt and obsess over the female guest stars, most notably Harmony Howlette.
+From as early as 1977, Jasper was a country loving hound dog. He was loud and not too smart, being portrayed by Scott Paulin. He had buck teeth, wrinkles, a banjo, and a straw hat. He would often laugh at any joke, no matter how poor its content was, causing {{< wiki-link "Chuck E. Cheese" >}} to yell at the technician to turn off the 'fruitcake dog.' He would flirt and obsess over the female guest stars, most notably Harmony Howlette.
 
 ### ShowBiz Pizza Time
 
@@ -39,5 +40,5 @@ In 2012, Chuck E. Cheese was 'given the pink slip,' per the Associated Press. Du
 |--------------------------------------------------------------------|----------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}} | 1977           | Used at the Winchester location from 1977 to 1981.                            | Destroyed in 2004.                                                                                                                                                                                                                                                                                           |
 | {{< wiki-link "Kooser Jasper T. Jowls (Animatronic)" >}}     | 1978           | Used at the Kooser location from December 1978 to May 1980.                   | Possibly destroyed.                                                                                                                                                                                                                                                                                          |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}               | 1979-1990's    |                                                                               | Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} and {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}}.                                                                      |
+| {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}               | 1979-1990's    |                                                                               | Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} and {{< wiki-link "Hicksville, NY (Delco Plaza 11-15 Hanover Place)" >}}.                                                                      |
 | {{< wiki-link "Beach Bear (Animatronic)" >}}                 | 1980-1983      | Retrofitted. Latex cosmetics were eventually replaced with plastic cosmetics. | {{< wiki-link "Concept Unification Prototype Stage" >}} destroyed. Phased out due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Being preserved at {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} and {{< wiki-link "Springfield, IL (2369 McArthur Ave)" >}}. |

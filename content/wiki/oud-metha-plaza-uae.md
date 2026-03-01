@@ -1,10 +1,20 @@
 +++
 title = "Oud Metha Plaza, U.A.E."
-draft = false
+storeNumber = ""
+startDate = "2014-12-20"
+endDate = "2021-00-00"
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2014-12-20|2021-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["0","0"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2014-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

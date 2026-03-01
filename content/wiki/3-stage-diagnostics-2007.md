@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "3-Stage Diagnostics 2007"
-startDate = "2007-01-00"
+startDate = "2007-01-01"
 endDate = "2023-00-00"
 pageThumbnailFile = "ruqxZWC0M3IiiloIvZMu.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]

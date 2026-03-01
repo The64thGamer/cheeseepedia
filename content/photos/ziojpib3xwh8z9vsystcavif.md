@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Bridgeville, PA (1025 Washington Pike)"]
 startDate = ""
-description = "Street Sign taken around the 90s."
 +++
+Street Sign taken around the 90s.

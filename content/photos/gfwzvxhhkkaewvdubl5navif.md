@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Costume Character Cleaning & Preservation"]
 startDate = ""
-description = "Before"
 +++
+Before

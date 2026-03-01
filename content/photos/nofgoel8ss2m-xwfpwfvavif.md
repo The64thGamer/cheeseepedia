@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Pompano Beach, FL (2201 N Federal Hwy)"]
 startDate = ""
-description = "Exterior, June 22nd, 2023 (PC: Sıla Yılmaz)"
 +++
+Exterior, June 22nd, 2023 (PC: Sıla Yılmaz)

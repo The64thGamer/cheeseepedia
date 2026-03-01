@@ -1,10 +1,20 @@
 +++
 title = "Wayne, NJ (29 NJ-23)"
-draft = false
+storeNumber = ""
+startDate = "1982-10-18"
+endDate = "1986-00-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1982-10-18|1986-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["40.8883721","-74.2486674"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

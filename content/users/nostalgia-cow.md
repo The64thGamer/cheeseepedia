@@ -2,7 +2,7 @@
 title = "Nostalgia Cow"
 draft = false
 tags = ["User"]
-categories = []
+categories = ["User-Generated Content"]
 startDate = "2023-07-20"
 endDate = ""
 contributors = ["Nostalgia Cow"]

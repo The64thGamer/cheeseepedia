@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Westland MI (208 S Wayne Rd)"]
 startDate = ""
-description = "Westland's Dolli (late 1980?)"
 +++
+Westland's Dolli (late 1980?)

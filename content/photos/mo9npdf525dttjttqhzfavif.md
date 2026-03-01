@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["FileFickle"]
 startDate = ""
-description = "My thought process in general"
 +++
+My thought process in general

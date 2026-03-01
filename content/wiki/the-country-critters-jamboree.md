@@ -7,7 +7,7 @@ categories = ["Creative Presentations"]
 
 startDate = ""
 endDate = ""
-contributors = ["Letterstolooneybird","BigCtheDataFinder","Wizington"]
+contributors = ["Letterstolooneybird","BigCDataFinder ","Wizington"]
 citations = []
 pageThumbnailFile = "U_ksgrQyn0nwvw51xP9t.avif"
 +++

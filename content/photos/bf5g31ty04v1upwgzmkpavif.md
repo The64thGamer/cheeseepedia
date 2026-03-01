@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Sun (Animatronic)"]
 startDate = ""
-description = "Sun with its finalized mechanism."
 +++
+Sun with its finalized mechanism.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Indianapolis, IN (8109 E Washington St)"]
 startDate = ""
-description = "Exterior, 2011"
 +++
+Exterior, 2011

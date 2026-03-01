@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Crazy Colander Head Night (Event)"]
 startDate = ""
-description = "Colander Head Membership Card"
 +++
+Colander Head Membership Card

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["2023 Five Nights of Fun"]
 startDate = ""
-description = "FNoF Day 5 Email Ad"
 +++
+FNoF Day 5 Email Ad

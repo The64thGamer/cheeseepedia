@@ -1,4 +1,5 @@
 +++
+
 title = "Costume Character Training 2014"
 draft = false
 tags = ["Company Media"]
@@ -7,4 +8,5 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "S-l1600_(28).avif"
 +++

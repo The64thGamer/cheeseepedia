@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["The Beagles / Beach Bowzers (Lounge)"]
 startDate = ""
-description = "The Beach Bowzers in the 1982 promotional document"
 +++
+The Beach Bowzers in the 1982 promotional document

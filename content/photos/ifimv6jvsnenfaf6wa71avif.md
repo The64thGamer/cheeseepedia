@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["St. Louis River Revue"]
 startDate = ""
-description = "Concept art made for the showhttp://antiquewhs.com/2004028-8i.htm"
 +++
+Concept art made for the showhttp://antiquewhs.com/2004028-8i.htm

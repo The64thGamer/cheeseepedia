@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Dallas, TX (13125 Montfort Dr)"]
 startDate = ""
-description = "The exterior after they finished their 1986 remodel."
 +++
+The exterior after they finished their 1986 remodel.

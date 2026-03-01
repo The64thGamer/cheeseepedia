@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Springfield, MA (1716 Boston Rd)"]
 startDate = ""
-description = "Exterior before 2005 Remodel (2003) (PC: showbizpizza.com)"
 +++
+Exterior before 2005 Remodel (2003) (PC: showbizpizza.com)

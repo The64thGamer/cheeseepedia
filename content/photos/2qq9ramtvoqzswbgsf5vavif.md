@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Pizza Training Document"]
 startDate = ""
-description = "Topping & Baking (3)"
 +++
+Topping & Baking (3)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Luigi (Pasqually Retrofit)"]
 startDate = ""
-description = "Jungle Jim's Luigi."
 +++
+Jungle Jim's Luigi.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Summertime 2000"]
 startDate = ""
-description = "3-Stage SVHS"
 +++
+3-Stage SVHS

@@ -245,7 +245,7 @@ No?
 
 **Chuck E. Cheese:**  
 
-“Footloose” is your next song!
+"Footloose" is your next song!
 
 **Pasqually The Chef:**  
 

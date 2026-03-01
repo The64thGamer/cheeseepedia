@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["May 2011 Show"]
 startDate = ""
-description = "Unused shot of the characters in front of the DeLorean."
 +++
+Unused shot of the characters in front of the DeLorean.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["The Beagles / Beach Bowzers (Lounge)"]
 startDate = ""
-description = "alt=Another photo of The Beagles."
 +++
+alt=Another photo of The Beagles.

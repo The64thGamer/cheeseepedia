@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Click / Murray D. Bird (Animatronic)"]
 startDate = ""
-description = "Back side of the clock, with Click inside."
 +++
+Back side of the clock, with Click inside.

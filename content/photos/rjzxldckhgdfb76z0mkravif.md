@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Sharonville, OH (1429 E Kemper Rd)"]
 startDate = ""
-description = "Pasqually (May 4, 2019)"
 +++
+Pasqually (May 4, 2019)

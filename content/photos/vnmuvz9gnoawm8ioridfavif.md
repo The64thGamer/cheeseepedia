@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Syracuse, NY (3023 Erie Blvd)"]
 startDate = ""
-description = "Exterior, 2022"
 +++
+Exterior, 2022

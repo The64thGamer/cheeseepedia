@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Promises Blue Table Tent"
 draft = false
 tags = ["Promotional Material"]
@@ -7,4 +8,5 @@ startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "tlwzkn32UYBmg_qwGh4t.avif"
 +++

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Indianapolis, IN (8109 E Washington St)"]
 startDate = ""
-description = "The salad bar post-closure. A red door can still be seen."
 +++
+The salad bar post-closure. A red door can still be seen.

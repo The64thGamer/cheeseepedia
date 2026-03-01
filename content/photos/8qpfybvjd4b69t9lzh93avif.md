@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Four Little Shavers (Ice Cream Emporium)"]
 startDate = ""
-description = "The set restored and placed at the ''Volo Auto Museum''"
 +++
+The set restored and placed at the ''Volo Auto Museum''

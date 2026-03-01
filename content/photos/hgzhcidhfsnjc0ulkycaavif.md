@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Citrus Heights, CA (6251 Sunrise Blvd)"]
 startDate = ""
-description = "The stage after it was removed. PC: Costco Membership Card"
 +++
+The stage after it was removed. PC: Costco Membership Card

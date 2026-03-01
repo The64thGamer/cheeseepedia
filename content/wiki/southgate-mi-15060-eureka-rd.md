@@ -1,10 +1,20 @@
 +++
 title = "Southgate, MI (15060 Eureka Rd)"
-draft = false
+storeNumber = ""
+startDate = "1982-06-00"
+endDate = "1986-00-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1982-06-00|1986-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["42.1994407","-83.1807367"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

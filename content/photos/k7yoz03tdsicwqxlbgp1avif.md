@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Gaithersburg, MD (516 N Frederick Ave)"]
 startDate = ""
-description = "Rare photo of the pizza verse wheel 1990s"
 +++
+Rare photo of the pizza verse wheel 1990s

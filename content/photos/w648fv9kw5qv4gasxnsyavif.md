@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chicago, IL (1830 W Fullerton Ave)"]
 startDate = ""
-description = "The front counter, Salad, and Beverage bar in the 90s."
 +++
+The front counter, Salad, and Beverage bar in the 90s.

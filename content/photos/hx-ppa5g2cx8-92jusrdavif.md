@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Cheese's Awesome Tune Tracks"]
 startDate = ""
-description = "Awesome Tune Tracks Side 2"
 +++
+Awesome Tune Tracks Side 2

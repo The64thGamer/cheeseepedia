@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["La Crosse, WI (4444 State Rd)"]
 startDate = ""
-description = "Exterior, September 2022"
 +++
+Exterior, September 2022

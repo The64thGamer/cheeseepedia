@@ -1,4 +1,5 @@
 +++
+
 title = "PTT Kooser Chuck E. Cheese Name Sign (1978)"
 draft = false
 tags = ["Store Fixtures"]
@@ -7,8 +8,9 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["Concordio"]
 citations = []
+pageThumbnailFile = "7XnhOheBWd6zx357CAqr.avif"
 +++
-The ***Kooser Chuck E. Cheese Nameplate* was only used at the second Chuck E. Cheese's Pizza Time Theatre located on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} located in the Blossom Hill Shopping Center in San Jose California; where it was placed under the {{< wiki-link "Kooser Chuck E Cheese (Animatronic)" >}} from November 1978 to May, 1980.**
+The ***Kooser Chuck E. Cheese Nameplate* was only used at the second Chuck E. Cheese's Pizza Time Theatre located on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} located in the Blossom Hill Shopping Center in San Jose California; where it was placed under the {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}} from November 1978 to May, 1980.**
 
 ## Production
 
@@ -20,7 +22,7 @@ There is a high chance the Kooser Chuck E. Cheese nameplate was the first develo
 The only usage of the nameplate was at the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} where it was placed under the Kooser Chuck E. Cheese animatronic from as early as November 1978, where it lasted until May 1980. After the Kooser Portrait Show was retired, several scenarios involving the nameplate could have played out after May 1980, those being:
 **A.** *The nameplate was placed in one of several storage rooms at the 1371 Kooser Road location and thrown out.*
 **B.** *The nameplate was placed in one of several storage rooms at the 1371 Kooser Road location and destroyed.*
-**C.** *The nameplate was sent to the Pizza Time Theatre SunnyVale, CA Corporate Office|1213 Innsbruck Drive corporate office in Sunnyvale, California, alongside the {{< wiki-link "Kooser PTT Show" >}}*
+**C.** *The nameplate was sent to the Sunnyvale, CA (1213 Innsbruck Drive)|1213 Innsbruck Drive corporate office in Sunnyvale, California, alongside the {{< wiki-link "Kooser PTT Show" >}}*
 
 ## Design
 

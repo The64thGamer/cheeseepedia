@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Memphis, TN (3649 Hickory Hill Rd)"]
 startDate = ""
-description = "Exterior, 2018"
 +++
+Exterior, 2018

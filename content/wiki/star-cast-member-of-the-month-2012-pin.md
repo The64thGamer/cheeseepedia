@@ -1,4 +1,5 @@
 +++
+
 title = "Star Cast Member of the Month 2012 Pin"
 draft = false
 tags = ["Employee Wear"]
@@ -7,12 +8,13 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "XXE56kbkRzGC7mSOUR_k.avif"
 +++
 The ***Star Cast Member of the Month 2012 Pin* was given to CEC employees for their contributions in the store, to be worn on their lanyard.**
 
 ## Design
 
-The design is similar to the design of the {{< wiki-link "Chuck E Cheese's" >}} token at the time, with Chuck E.'s head in the center, surrounded with text. The pin is metal, with a gold-silver color. The text on the pin says:
+The design is similar to the design of the {{< wiki-link "Chuck E. Cheese's" >}} token at the time, with Chuck E.'s head in the center, surrounded with text. The pin is metal, with a gold-silver color. The text on the pin says:
 `STAR CAST MEMBER OF THE MONTH • 2012 •`
 
 ## Acquirement

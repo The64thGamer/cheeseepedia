@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["The Wolfman (Animatronic)"]
 startDate = ""
-description = "At IAAPA (1978)"
 +++
+At IAAPA (1978)

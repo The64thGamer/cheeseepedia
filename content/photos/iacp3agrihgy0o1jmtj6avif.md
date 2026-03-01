@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "GIF of Center Stage (Four Seasoned Bears)"
 +++
+GIF of Center Stage (Four Seasoned Bears)

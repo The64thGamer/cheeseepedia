@@ -1,4 +1,5 @@
 +++
+
 title = "3-1-98 (Show Selector 1)"
 draft = false
 tags = ["Showtapes"]
@@ -7,8 +8,8 @@ startDate = "1998-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Letterstolooneybird"]
 citations = []
+pageThumbnailFile = "Ss1_3198.avif"
 +++
-
 ## [Segments](https://www.worthpoint.com/worthopedia/creative-engineering-rockafire-1895904689)
 
 1.  Barbie Girl

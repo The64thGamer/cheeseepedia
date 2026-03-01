@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Peppy's Pizza Entrance"
 +++
+Peppy's Pizza Entrance

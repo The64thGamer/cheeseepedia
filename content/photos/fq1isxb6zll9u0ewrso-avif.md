@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear-A-Dice Stage"]
 startDate = ""
-description = "Fatz Geronimo with custom keyboard front"
 +++
+Fatz Geronimo with custom keyboard front

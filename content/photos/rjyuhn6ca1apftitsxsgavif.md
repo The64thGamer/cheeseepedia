@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Lion (Jasper T Jowls Retrofit)"]
 startDate = ""
-description = "The Bot In the infamous 'No More Chuck E. Cheese' Video."
 +++
+The Bot In the infamous 'No More Chuck E. Cheese' Video.

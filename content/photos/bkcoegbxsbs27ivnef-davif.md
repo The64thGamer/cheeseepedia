@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["San Antonio (Stone Oak), TX (1403 N Loop)"]
 startDate = ""
-description = "The exterior in 2017."
 +++
+The exterior in 2017.

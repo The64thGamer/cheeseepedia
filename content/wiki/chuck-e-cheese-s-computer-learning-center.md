@@ -1,19 +1,19 @@
 +++
 draft = false
 title = "Chuck E. Cheese's Computer Learning Center"
-startDate = ""
-endDate = ""
+startDate = "1983-03-00"
+endDate = "0000-00-00"
 pageThumbnailFile = "MxkeW87WQUbnHQZpGHaU.avif"
 contributors = ["The 64th Gamer"]
-citations = ["[https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1/page/n3/mode/2up](%22https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1/page/n3/mode/2up%22)", "[https://www.atarimagazines.com/compute/issue39/213_1_FRIENDS_OF_THE_TURTLE.php](%22https://www.atarimagazines.com/compute/issue39/213_1_FRIENDS_OF_THE_TURTLE.php%22)", "[https://www.atarimagazines.com/v2n7/Computercamp.html](%22https://www.atarimagazines.com/v2n7/Computercamp.html%22)", "[https://web.archive.org/web/19991111064630/http://www.atari-history.com/andro-atari.html](%22https://web.archive.org/web/19991111064630/http://www.atari-history.com/andro-atari.html%22)"]
+citations = ["https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1/page/n3/mode/2up", "https://www.atarimagazines.com/compute/issue39/213_1_FRIENDS_OF_THE_TURTLE.php", "https://www.atarimagazines.com/v2n7/Computercamp.html", "https://web.archive.org/web/19991111064630/http://www.atari-history.com/andro-atari.html"]
 tags = ["Remodels and Initiatives"]
 categories = ["Pizza Time Theatre"]
 +++
-***Chuck E. Cheese's Computer Learning Center* was a program available at the {{< wiki-link "Sunnyvale, CA (1247 W El Camino Real)" >}} and {{< wiki-link "San Jose, CA (2445 Fontaine Rd)" >}} Pizza Time Theatre locations for teaching kids computer literacy, starting around March of 1983, and ending an unknown time later.<sup>(1)</sup>**
+***Chuck E. Cheese's Computer Learning Center*** was a program available at the {{< wiki-link "Sunnyvale, CA (1247 W El Camino Real)" >}} and {{< wiki-link "San Jose (Tully), CA (2445 Fontaine Rd)" >}} Pizza Time Theatre locations for teaching kids computer literacy, starting around March of 1983, and ending an unknown time later.{{< cite 1 >}}
 
 ## Program
 
-The program would start as a flat $10 fee, which would allow access into the computer rooms through a magnetic membership card. Members would receive this card, a single 5 1⁄4-inch floppy disk, and an introductory class for operating the *Apple II e* computer's used at the locations. Presumably members were allowed access into the computer rooms at any time, without the need to attend any courses, and could freely make programs at the location. Only around 6 computers were available in each computer room however.<sup>(2)</sup>
+The program would start as a flat $10 fee, which would allow access into the computer rooms through a magnetic membership card. Members would receive this card, a single 5 1⁄4-inch floppy disk, and an introductory class for operating the *Apple II e* computer's used at the locations. Presumably members were allowed access into the computer rooms at any time, without the need to attend any courses, and could freely make programs at the location. Only around 6 computers were available in each computer room however.{{< cite 2 >}}
 
 ### LOGO Courses
 
@@ -22,10 +22,10 @@ The second course was designed for kids aged 10 and above. This course would tea
 
 ## Atari Computer Camps
 
-The *Computer Learning Center* program seemingly was a downscaled variation of the ***Atari Computer Camps* program, held at the time in over 6 states, including one in the San Francisco area near the Pizza Time Theatre's hosting the CLC<sup>(3)</sup>. Unlike the CLC program, the Computer Camps were an eight week endeavor that had in-depth courses, activities such as swimming, tennis, softball, electronics workshops, movies, bowling, etc.. Once a week banquets would be held, featuring programmers of hit games and software as speakers.
+The *Computer Learning Center* program seemingly was a downscaled variation of the ***Atari Computer Camps* program, held at the time in over 6 states, including one in the San Francisco area near the Pizza Time Theatre's hosting the CLC{{< cite 3 >}}. Unlike the CLC program, the Computer Camps were an eight week endeavor that had in-depth courses, activities such as swimming, tennis, softball, electronics workshops, movies, bowling, etc.. Once a week banquets would be held, featuring programmers of hit games and software as speakers.
 Unlike the CLC program however, kids at the ACC only learned BASIC and PILOT on Atari computers. This would change at an unknown point however, and ACC would offer LOGO on *Apple II e* computers just like CLC. This addition would also bring one new learning tool to the program, the ***Androbot, Inc. Topo Robot.*
-Androbot, Inc. was a home robotics company owned by Nolan Bushnell, whom also owned Pizza Time Theatre at the time. Their Topo line of robots would launch in May of 1983 as a means of capturing the programmer market through a controllable robot. Androbot, Inc. would collaborate with Atari to introduce Topo to their ACC program<sup>(4)</sup>, building a new variant of their TopoBasic language to support LOGO (Later made available as a separate purchase).
-The {{< wiki-link "San Jose, CA (2445 Fontaine Rd)" >}} location would also receive a Topo I unit around this time. Due to the crossover between CLC and ACC programs, it is likely this unit was integrated into the advanced LOGO course from late 1983 to 1984. It is unclear if the {{< wiki-link "Sunnyvale, CA (1247 W El Camino Real)" >}} also received a unit.****
+Androbot, Inc. was a home robotics company owned by Nolan Bushnell, whom also owned Pizza Time Theatre at the time. Their Topo line of robots would launch in May of 1983 as a means of capturing the programmer market through a controllable robot. Androbot, Inc. would collaborate with Atari to introduce Topo to their ACC program{{< cite 4 >}}, building a new variant of their TopoBasic language to support LOGO (Later made available as a separate purchase).
+The {{< wiki-link "San Jose (Tully), CA (2445 Fontaine Rd)" >}} location would also receive a Topo I unit around this time. Due to the crossover between CLC and ACC programs, it is likely this unit was integrated into the advanced LOGO course from late 1983 to 1984. It is unclear if the {{< wiki-link "Sunnyvale, CA (1247 W El Camino Real)" >}} also received a unit.****
 
 ## Closing
 

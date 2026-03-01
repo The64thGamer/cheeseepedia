@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Smartee's Pizza Brigade"]
 startDate = ""
-description = "Concept art likely for wall art"
 +++
+Concept art likely for wall art

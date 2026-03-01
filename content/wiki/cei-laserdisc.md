@@ -1,4 +1,5 @@
 +++
+
 title = "CEI LaserDisc"
 draft = false
 tags = ["Showtape Formats"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Himitsu"]
 citations = []
+pageThumbnailFile = "BHagebtmafWeBZpjN4wg.avif"
 +++
 .]]
 The ***CEI LaserDisc* was a prototype showtape format created by Creative Engineering Inc. in 1983 for the {{< wiki-link "Dr Juke" >}} *Rock-afire Explosion* Show Selector. Utilizing a CAV LaserDisc, with playback controlled by associated hardware, it featured interactive touchscreen video elements when show segments were not playing.

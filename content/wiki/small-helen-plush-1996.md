@@ -6,7 +6,7 @@ categories = ["Chuck E. Cheese's"]
 startDate = "1996-00-00"
 endDate = "0000-00-00"
 contributors = ["ToadEatSock","BurgersNuggs445","CEC Tinley"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf%22)"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
 pageThumbnailFile = "IjOSJDutGuX6rSeSWAx4.avif"
 +++
 The **1996 Small Helen Plush** was a official product produced for the Prize counters in 1996 by Dennis Foland. Inc.
@@ -18,7 +18,7 @@ The 1996 set introduced putting wires and cardboard pieces into the plush's legs
 
 ### Prototypes
 
-A prototype of this plush exists in the 1997-1998 Merch Catalog<sup>(1)</sup> with some minor differences in design.
+A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} with some minor differences in design.
 
 #### Prototype Gallery
 

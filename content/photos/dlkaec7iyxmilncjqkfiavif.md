@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Ticket Blaster"]
 startDate = ""
-description = "2008 Prototype"
 +++
+2008 Prototype

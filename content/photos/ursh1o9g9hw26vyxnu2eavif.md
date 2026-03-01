@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Edina, MN (7505 France Ave S)"]
 startDate = ""
-description = "Gameroom in August of 2017"
 +++
+Gameroom in August of 2017

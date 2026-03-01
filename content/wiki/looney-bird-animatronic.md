@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Looney Bird (Animatronic)"
-startDate = ""
+startDate = "1980-00-00"
 endDate = ""
 pageThumbnailFile = "pAI4IWZgXdgEpx7X32hg.avif"
 contributors = ["CECMentor", "Stripes", "BenTrainFan2000", "Kathydra"]

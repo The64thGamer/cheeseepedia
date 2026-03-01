@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Another picture of WIlbur on Captain 11"
 +++
+Another picture of WIlbur on Captain 11

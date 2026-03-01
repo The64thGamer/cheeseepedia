@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Alexandria, LA (1725 Metro Dr)"]
 startDate = ""
-description = "Chuck E. a little bit before the conversion"
 +++
+Chuck E. a little bit before the conversion

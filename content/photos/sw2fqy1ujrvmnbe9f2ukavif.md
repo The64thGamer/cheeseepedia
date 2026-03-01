@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Covina, CA (601 Azusa Ave)"]
 startDate = ""
-description = "Covina's exterior in 2019. (PC: Google Maps)"
 +++
+Covina's exterior in 2019. (PC: Google Maps)

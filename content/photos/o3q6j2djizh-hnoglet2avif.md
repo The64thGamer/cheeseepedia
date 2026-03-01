@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Jackson, MS (6352 Ridgewood Court Rd)"]
 startDate = ""
-description = "June 23, 2012"
 +++
+June 23, 2012

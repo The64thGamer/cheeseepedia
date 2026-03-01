@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Clown (Animatronic)"]
 startDate = ""
-description = "Promotional Image, 1984"
 +++
+Promotional Image, 1984

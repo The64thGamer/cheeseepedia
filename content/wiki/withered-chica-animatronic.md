@@ -1,7 +1,7 @@
 +++
-title = "Withered Chica (Animatronic)"
+title = "Withered Chica (Walkaround)"
 draft = false
-tags = ["Animatronics"]
+tags = ["Costumed Characters"]
 categories = ["Jim Henson's Creature Shop","Five Nights at Freddy's 2 (Movie)", "Five Nights at Freddy's"]
 pageThumbnailFile = "GUfnjfGWQAAJ0gX.avif"
 startDate = "2024-00-00"

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Fort Gratiot Township, MI (4350 24th Ave)"]
 startDate = ""
-description = "A photo of the store's exterior not long after opening (PC; thetimesherald.com)."
 +++
+A photo of the store's exterior not long after opening (PC; thetimesherald.com).

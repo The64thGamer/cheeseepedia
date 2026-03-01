@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Tallahassee, FL (2810 Sharer Rd)"]
 startDate = ""
-description = "Tallahassee's exterior in 2021"
 +++
+Tallahassee's exterior in 2021

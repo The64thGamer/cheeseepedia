@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Janesville, WI"]
 startDate = ""
-description = "The only known proof of the SPP in Janesville"
 +++
+The only known proof of the SPP in Janesville

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Kansas City, MO (9196 N Skyview Ave)"]
 startDate = ""
-description = "The location's exterior in 2022"
 +++
+The location's exterior in 2022

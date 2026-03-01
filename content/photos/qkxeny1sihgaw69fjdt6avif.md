@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Gaithersburg, MD (516 N Frederick Ave)"]
 startDate = ""
-description = "The store's exterior presumably in 1996 before the 2005 remodel."
 +++
+The store's exterior presumably in 1996 before the 2005 remodel.

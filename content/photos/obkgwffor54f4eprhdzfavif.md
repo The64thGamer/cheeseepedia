@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Main Page"]
 startDate = ""
-description = "960x960px"
 +++
+960x960px

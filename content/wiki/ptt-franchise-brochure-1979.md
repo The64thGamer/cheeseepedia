@@ -4,19 +4,19 @@ draft = false
 tags = ["Documents"]
 categories = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
-endDate = ""
-contributors = ["PizzaEntertainmentFanX"]
-citations = []
+endDate = "1979-00-00"
+contributors = ["Pizza Entertainment Fan"]
+citations = ["https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf"]
 pageThumbnailFile = "mjEWcldNF07P_5yzeTG3.avif"
 +++
-The ***1979 PTT Franchise Brochure* (Also called the **'THE GREAT ALL-AMERICAN PIZZA SHOW**'https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf ***Brochure*) was a promotional brochure created by {{< wiki-link "Pizza Time Theatre" >}} in Early 1979 to attract possible Franchisees.
-The Brochure contains info about assets, animatronics & items Franchisees would get for their PTT store. The Page had several images with captions reading about the information of each assets that Franchisee would be given.****
+The ***1979 PTT Franchise Brochure*** (Also called the *'THE GREAT ALL-AMERICAN PIZZA SHOW' Brochure*) was a promotional brochure created by {{< wiki-link "Pizza Time Theatre" >}} in Early 1979 to attract possible Franchisees.
+The Brochure contains info about assets, animatronics & items Franchisees would get for their PTT store. The Page had several images with captions reading about the information of each assets that Franchisee would be given.{{< cite 1 >}}
 
-## Contents<sup>(0)</sup>
+## Contents
 
 ### Front Cover
 
-The Front Cover has the Standard 1978/1979 small size PTT Logo with text under it saying 'THE GREAT ALL-AMERICAN PIZZA SHOW!'. The Front Cover also has artwork of {{< wiki-link "Chuck E Cheese" >}} with a Cigar & Microphone, {{< wiki-link "Pasqually" >}}, {{< wiki-link "Jasper T Jowls" >}} playing his Banjo, {{< wiki-link "Mr Munch" >}} eating a pizza, & The Mopsey Sisters.
+The Front Cover has the Standard 1978/1979 small size PTT Logo with text under it saying 'THE GREAT ALL-AMERICAN PIZZA SHOW!'. The Front Cover also has artwork of {{< wiki-link "Chuck E. Cheese" >}} with a Cigar & Microphone, {{< wiki-link "Pasqually" >}}, {{< wiki-link "Jasper T Jowls" >}} playing his Banjo, {{< wiki-link "Mr Munch" >}} eating a pizza, & The Mopsey Sisters.
 
 ### Inside Pages
 

@@ -1,7 +1,7 @@
 +++
 title = "King Fatz (Parody Poster)"
 draft = false
-tags = ["Store Fixtures", "Products"]
+tags = ["Store Fixtures"]
 categories = ["ShowBiz Pizza Place", "Creative Engineering"]
 pageThumbnailFile = ""
 startDate = "1988-00-00"

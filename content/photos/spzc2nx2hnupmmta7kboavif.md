@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Clown (Animatronic)"]
 startDate = ""
-description = "CEI Warehouse, 2010's"
 +++
+CEI Warehouse, 2010's

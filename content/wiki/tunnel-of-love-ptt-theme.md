@@ -1,10 +1,10 @@
 +++
-title = "Tunnel of Love (PTT Theme)"
+title = "Tunnel of Love (Balcony Stage Theme)"
 draft = false
 tags = ["Stage Variations"]
 categories = ["Pizza Time Theatre"]
-startDate = ""
-endDate = ""
+startDate = "1982-00-00"
+endDate = "1983-03-00"
 contributors = ["The 64th Gamer","JamesLemony","CECMentor"]
 citations = []
 +++

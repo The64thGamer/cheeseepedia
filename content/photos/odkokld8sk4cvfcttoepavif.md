@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Goldsboro, NC (209 N Berkeley Blvd)"]
 startDate = ""
-description = "Front Exterior of Store"
 +++
+Front Exterior of Store

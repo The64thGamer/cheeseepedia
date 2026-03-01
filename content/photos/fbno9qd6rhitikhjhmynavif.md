@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Beatles White Album"]
 startDate = ""
-description = "ShowBiz Reel (Revised Edition)"
 +++
+ShowBiz Reel (Revised Edition)

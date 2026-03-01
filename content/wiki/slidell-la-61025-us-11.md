@@ -1,10 +1,20 @@
 +++
 title = "Slidell, LA (61025 US-11)"
-draft = false
+storeNumber = ""
+startDate = "1983-00-00"
+endDate = "1985-00-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1983-00-00|1985-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["30.2653348","-89.7855350"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1983-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

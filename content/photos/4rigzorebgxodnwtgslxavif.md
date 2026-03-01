@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Wilbur announcing he will be at an art festival."
 +++
+Wilbur announcing he will be at an art festival.

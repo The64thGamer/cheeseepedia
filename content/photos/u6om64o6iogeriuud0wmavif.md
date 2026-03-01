@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Bronx, NY (700 Exterior St)"]
 startDate = ""
-description = "Exterior of Bronx. (PC: Unknown)"
 +++
+Exterior of Bronx. (PC: Unknown)

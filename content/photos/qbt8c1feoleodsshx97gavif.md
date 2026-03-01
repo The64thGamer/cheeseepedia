@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Concept Unification Prototype Stage"]
 startDate = ""
-description = "Center Stage artwork created by Jul Kamen."
 +++
+Center Stage artwork created by Jul Kamen.

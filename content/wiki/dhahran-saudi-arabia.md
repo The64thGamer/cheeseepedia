@@ -1,10 +1,20 @@
 +++
 title = "Dhahran, Saudi Arabia"
-draft = false
+storeNumber = ""
+startDate = "2015-09-21"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2015-09-21||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["26.2966528","50.1202146"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2015-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

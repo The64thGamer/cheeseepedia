@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Family Vision (Feb 1985)"]
 startDate = "1985-02-00"
-description = "An airplane video playing at ShowBiz Pizza Place in February 1985."
 +++
+An airplane video playing at ShowBiz Pizza Place in February 1985.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["SPP Kids - Tune Machine"]
 startDate = ""
-description = "Showtape Reel"
 +++
+Showtape Reel

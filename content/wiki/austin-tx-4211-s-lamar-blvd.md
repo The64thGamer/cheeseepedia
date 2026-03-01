@@ -1,10 +1,20 @@
 +++
 title = "Austin, TX (4211 S Lamar Blvd)"
-draft = false
+storeNumber = ""
+startDate = "1981-12-00"
+endDate = "1984-02-19"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1981-12-00|1984-02-19|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["30.2332900","-97.7930500"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

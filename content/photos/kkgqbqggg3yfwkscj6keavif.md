@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Kooser Helen Henny (Animatronic)"]
 startDate = ""
-description = "1979 Footage"
 +++
+1979 Footage

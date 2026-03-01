@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Fantasy Forest"]
 startDate = ""
-description = "Fantasy Forest Road Show Logo (1975)"
 +++
+Fantasy Forest Road Show Logo (1975)

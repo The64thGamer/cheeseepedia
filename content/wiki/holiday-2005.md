@@ -1,14 +1,15 @@
 +++
-title = "Holiday 2005"
 draft = false
+title = "Holiday 2005"
+startDate = "2005-12-00"
+endDate = "2005-12-00"
+pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
+contributors = ["Ceclife13"]
+credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist"]
+citations = []
+showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2005-12-00"
-endDate = "0000-00-00"
-contributors = ["Ceclife13"]
-citations = []
-pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 +++
 **Holiday 2005** is a rerelease of {{< wiki-link "Holiday 2004" >}} which played throughout December 2005.
 
@@ -21,7 +22,7 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD","R1
     4.  Holiday VJ Spot - Michael
 2.  **Segment 1**
     1.  'Deck the Halls
-    2.  'Up On The Rooftop'
+    2.  'Up On The Housetop'
 3.  **Intermission 2**
     1.  'Coke Spot
     2.  Larry The Technician - 'Decorating The Tree'
@@ -49,18 +50,18 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","3-Stage DVD","Cyberamics DVD","R1
     1.  'Toyland / March of the Wooden Soldiers'
     2.  'We Wish You A Merry Christmas / Here We Come A Wassailing'
 
-## Lives:
+## Live Shows:
 
 - Chuck E. March 01
 - Havin' A Party 01
 - Chuck E. Swing
-- {{< wiki-link "Bingo" >}}
+- BINGO
 - If You're Happy and You Know It
-- Chuck E. Shuffle (New Footage) | Chuck E. Shuffle
-- {{< wiki-link "Birthday Star 01" >}}
+- {{< wiki-link "Birthday Star 2001" >}}
 - Spanish Birthday 01
-- {{< wiki-link "Chuck E Says 02" >}}
+- {{< wiki-link "Chuck E. Says 2002" >}}
 - New Birthday
 - Go Santa Go
 
-**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 minute or 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: Happy Holidays logo with music (reused from Holiday Party) set to a 1 or 2-minute countdown, which would then lead to the Birthday show.
+

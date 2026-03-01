@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["PTT Chuck E. Cheese Quote Sign (1977)"]
 startDate = ""
-description = "Re-designed fixture seen at [[Lake Forest, CA (24416 Muirlands Blvd)"
 +++
+Re-designed fixture seen at [[Lake Forest, CA (24416 Muirlands Blvd)

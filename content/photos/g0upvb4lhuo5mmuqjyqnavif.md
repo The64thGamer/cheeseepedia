@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Gulliver's Kingdom Stage"]
 startDate = ""
-description = "Looney Bird on 2023/09/24"
 +++
+Looney Bird on 2023/09/24

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Lowell, MA (199 Plain St)"]
 startDate = ""
-description = "Photo of Lowell's trampolines"
 +++
+Photo of Lowell's trampolines

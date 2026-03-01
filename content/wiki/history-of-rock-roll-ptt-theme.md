@@ -1,8 +1,8 @@
 +++
-title = "History of Rock & Roll (PTT Theme)"
+title = "History of Rock & Roll (Balcony Stage Theme)"
 draft = false
 tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+categories = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

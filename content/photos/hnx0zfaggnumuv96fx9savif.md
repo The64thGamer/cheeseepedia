@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Augusta, GA (3435 Wrightsboro Rd)"]
 startDate = ""
-description = "Ditto."
 +++
+Ditto.

@@ -1,7 +1,7 @@
 +++
 title = "Rolfe Dewolfe & Earl Schmerle (Animatronic)"
 draft = false
-startDate = ""
+startDate = "1980-00-00"
 endDate = ""
 contributors = ["CECMentor", "SuperCreamPiper2008", "Thecheesymanfromschool", "Stripes", "Kathdra"]
 citations = ["<a href=\"hhttps://ia801807.us.archive.org/1/items/rock-afire-explosion-service-manual/Rock-afire%20Explosion%20Service%20Manual%20Optimized.pdf\">https://ia801807.us.archive.org/1/items/rock-afire-explosion-service-manual/Rock-afire%20Explosion%20Service%20Manual%20Optimized.pdf</a>"]

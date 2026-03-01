@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Cheese's Circus"]
 startDate = ""
-description = "The van at Interskate Roller Rink in 2018"
 +++
+The van at Interskate Roller Rink in 2018

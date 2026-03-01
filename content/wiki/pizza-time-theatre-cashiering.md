@@ -14,4 +14,4 @@ This tape, along with the 'Pizza Cook' training tape, utilized the Videotronic S
 
 ## PTT Training Center
 
-The tape was part of the {{< wiki-link "PTT Training Center & Test Kitchen" >}} program held exclusively at the {{< wiki-link "San Jose, CA (2445 Fontaine Rd)" >}} location, potentially meaning only one copy was ever made. The tape was also part of a set of training tapes, with the only other one known being the Pizza Time Theatre 'Pizza Cook' tape.
+The tape was part of the {{< wiki-link "PTT Training Center & Test Kitchen" >}} program held exclusively at the {{< wiki-link "San Jose (Tully), CA (2445 Fontaine Rd)" >}} location, potentially meaning only one copy was ever made. The tape was also part of a set of training tapes, with the only other one known being the Pizza Time Theatre 'Pizza Cook' tape.

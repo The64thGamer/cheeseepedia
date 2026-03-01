@@ -1,22 +1,21 @@
 +++
+
 title = "Goodyear, AZ (13371 West McDowell Rd)"
-draft = false
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
-
-
+storeNumber = ""
 startDate = "2009-11-00"
 endDate = ""
-contributors = ["Chez","Cheeseclassic","AstridMascotFan2005"]
-citations = []
+cuDate = ""
+remodels = []
+stages = ["Studio C Beta|2009-11-00|0000-00-00|", "Chuck E. Live Stage (Dance Floor)|2023-03-07||2021 Model|"]
+franchisees = []
+attractions = []
+sqft = ""
 latitudeLongitude = ["33.46042802","-112.348071"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = "jaIVuI3dy0iAg7L_QPdi.avif"
+tags = ["Locations"]
+categories = ["Chuck E. Cheese's"]
+draft = false
 +++
-
-***Goodyear AZ (13371 West McDowell Rd)*** is a *Chuck E. Cheese* that opened in November 2009 with a {{< wiki-link "Studio C Beta" >}}. The animatronic came from {{< wiki-link "Scottsdale, AZ (8890 E Indian Bend Rd)" >}}. In March 2023, the location would receive the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
-
-## Stages
-
-| Stage                                   | Installed     | Removed       |
-|-----------------------------------------|---------------|---------------|
-| {{< wiki-link "Studio C Beta" >}} | November 2009 | March 2023    |
-| Dance Floor + Video Wall                | March 2023    | Still in use. |

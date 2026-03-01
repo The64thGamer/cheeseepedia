@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamic Control System"]
 startDate = ""
-description = "Chuck E. Character Drive Card (Rev A)"
 +++
+Chuck E. Character Drive Card (Rev A)

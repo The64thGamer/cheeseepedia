@@ -1,21 +1,29 @@
 +++
+
 title = "Cincinnati, OH (9712 Colerain Ave)"
-draft = false
+storeNumber = ""
+startDate = "1982-07-00"
+endDate = "1983-10-04"
+cuDate = ""
+remodels = ["PTT Standard Layout|1982-07-00"]
+stages = ["Balcony Stage|1982-07-00|1983-10-04"]
+franchisees = []
+attractions = []
+animatronics = ["Chuck E. Cheese (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Warblettes (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Guest Star / Helen Henny (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Mr. Munch (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Pasqually (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Jasper T. Jowls (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Applause Board (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Drum Board (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Flag Wavers (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown"]
+sqft = ""
+latitudeLongitude = ["39.24633332","-84.59723658"]
+citations = ["https://www.newspapers.com/article/the-cincinnati-enquirer-cinci-colerain-p/39076663/","https://www.newspapers.com/article/the-cincinnati-enquirer-colerain-ptt-ope/187475244/","Source has currently been lost, was previously closing article.","https://www.newspapers.com/article/the-cincinnati-enquirer/52398085/","https://www.newspapers.com/image/101612220/","https://www.newspapers.com/article/dayton-daily-news-former-colerain-ptt-de/187476458/"]
+contributors = ["Cyber Snout"]
+downloadLinks = []
+pageThumbnailFile = "K0ql2KbQk252wzzPEtCL.avif"
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-startDate = "1982-06-00"
-endDate = "1983-10-00"
-contributors = ["Documentor","Midwestretail","CEC Tinley","CyberSnout"]
-citations = ["["]
-pageThumbnailFile = " "
-latitudeLongitude = ["39.24633332","-84.59723658"]
+draft = false
 +++
-**Cincinnati, OH (9712 Colerain Ave)** was a Pizza Time Theatre location running from June 1982 till October 4, 1983. This location is one of the shortest known running Pizza Time Theatre stores, only being open for 16 months. No pictures or videos have ever surfaced of this location.](%22https://www.newspapers.com/image/103057953/?match=1&terms=Prospect%20Square%20Shopping%20Center%20Auction/%3C/a)
-
-## Stage:
-
-Opened with the Balcony. Then in August 1983 gained Helen which they would have for only 2 months. The store would then close that October and would auction off everything inside. The whereabouts of these bots, and anything inside is completely unknown.
+***Cincinnati, OH (9712 Colerain Ave)*** located inside of the Prospect Square Shopping Center. It opened in July 1982{{< cite 1 >}}, and closed on October 4, 1983{{< cite 3 >}}. 
 
 ## History:
+The location would open sometime in July 1982 with 'Grand Opening' advertisment ads running throughout the month. {{< cite 1 >}} An article from July 24, 1982 by The Cincinnati Enquirer states 'The second Pizza Time Theatre in the Greater Cincinnati area has opened at the Prospect Square Shopping Center'. '...Pizza Time Theatre includes a 400-seat entertainment center featuring computer-controller four-foot animated figures that sing and joke in a vaudeville format'. '...They also offer birthday party packages and group tours for schools and clubs. Persons wishing to arrange tours or parties may call 385-8900' {{< cite 2 >}}.
 
-The Colerain Pizza Time Theatre opened in June 1982 in a shopping plaza across the street from the Northgate Mall. This location featured much alike from the location in Cassinelli Square not too long away. This store, not being so popular during opening, closed on October 4th, 1983. This makes it one of the very few Pizza Time Theatre locations to close before the 1984 bankruptcy. On June 30, 1997 Prospect Shopping Center would hold an auction for the portion of property being demolished in preperation for Kroger<sup>(1)</sup>. The vacant Pizza Time Theater would then be demolished in the following months
+## Closure:
+On October 4, 1983 the Pizza Time Theatre would end up closing.{{< cite 3 >}}. Despite this the Pizza Time Theatre would continued to show up on advertisment pages until October 12, 1983{{< cite 3 >}}. The property would sit vacent until May 1990 when it would be taken over by a mattress store{{< cite 4 >}}. On June 30, 1997 an auction would take place at the Prospect Square Shopping Center clearing it out of everything before demolition would begin. The portion of the shopping center the Pizza Time Theatre was located inside of would be demolished in late 1997.{{< cite 5 >}}. 

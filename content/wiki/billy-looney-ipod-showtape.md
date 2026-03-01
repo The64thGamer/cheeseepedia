@@ -5,12 +5,12 @@ tags = ["Showtapes"]
 categories = ["Creative Engineering"]
 startDate = "2006-00-00"
 endDate = "0000-00-00"
-contributors = ["Documentor","The 64th Gamer","YBP123"]
-citations = ["[https://www.youtube.com/watch?v=P9phDrePjCA](%22https://www.youtube.com/watch?v=P9phDrePjCA%22)"]
+contributors = ["Cyber Snout","The 64th Gamer","YBP123"]
+citations = ["https://www.youtube.com/watch?v=P9phDrePjCA"]
 transcriptions = ["Roast Beef Sandwich and a Pizza"]
 +++
 The ***Billy & Looney Showtape* was a showtape created in 2006 for what Creative Engineering called the
-*Chris Thrash Controller,* which is an iPod based controller to play shows for a {{< wiki-link "Billy Bob" "Billy Bob" >}} and {{< wiki-link "Looney Bird" "Looney Bird" >}} animatronic. <sup>(1)</sup>**
+*Chris Thrash Controller,* which is an iPod based controller to play shows for a {{< wiki-link "Billy Bob" "Billy Bob" >}} and {{< wiki-link "Looney Bird" "Looney Bird" >}} animatronic. {{< cite 1 >}}**
 
 ## Show List
 

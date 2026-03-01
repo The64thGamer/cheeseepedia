@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Bridgewater, NJ (600 Promenade Blvd)"]
 startDate = ""
-description = "A closer look at the logo."
 +++
+A closer look at the logo.

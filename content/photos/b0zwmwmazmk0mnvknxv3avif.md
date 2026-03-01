@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Sally Corporation"]
 pages = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
-description = "Funshine Bear and Tenderheart Bear at IAAPA (1986)"
 +++
+Funshine Bear and Tenderheart Bear at IAAPA (1986)

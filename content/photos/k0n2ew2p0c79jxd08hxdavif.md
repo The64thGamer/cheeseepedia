@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Simi Valley, CA (71 Tierra Rejada Rd)"]
 startDate = ""
-description = "Exterior after the store's closure (December 2008)"
 +++
+Exterior after the store's closure (December 2008)

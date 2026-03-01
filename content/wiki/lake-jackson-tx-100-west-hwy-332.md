@@ -1,10 +1,20 @@
 +++
 title = "Lake Jackson, TX (100 West Hwy 332)"
-draft = false
+storeNumber = ""
+startDate = "2002-10-22"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Studio C Cappa|0000-00-00||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["0","0"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2002-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

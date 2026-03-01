@@ -1,15 +1,15 @@
 +++
+
 draft = false
 title = "B.B. Bubbles (Cyberamic)"
 startDate = ""
 endDate = ""
-pageThumbnailFile = ""
+pageThumbnailFile = "NewBB.avif"
 contributors = ["Kathydra"]
 citations = ["<a href=\"https://mail.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf\">The Pizza time volume 2, issue 4</a>", "<a href=\"https://mail.showbizpizza.com/info/documents/ptt/ptt_promosheets.pdf\">Promo sheets</a>"]
 tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 +++
-
 B.B. Bubbles was the last side act placed inside the Piona bar and was a retrofited {{< wiki-link "Dolli Dimples (Cabaret)" >}}.
 
 ## History

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Jasper's Giant Hot Dog (PTT Menu Item)"]
 startDate = ""
-description = "Hot Dog Basket w/ Chips"
 +++
+Hot Dog Basket w/ Chips

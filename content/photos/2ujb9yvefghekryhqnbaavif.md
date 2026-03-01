@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["La Habra, CA (901 Harbor Blvd)"]
 startDate = ""
-description = "La Habra shortly before demolition."
 +++
+La Habra shortly before demolition.

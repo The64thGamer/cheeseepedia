@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Presentations"]
 pages = ["Untitled Dinosaur Show"]
 startDate = ""
-description = "Indiana Gazette Fri Jun 11 1993 .jpg"
 +++
+Indiana Gazette Fri Jun 11 1993 .jpg

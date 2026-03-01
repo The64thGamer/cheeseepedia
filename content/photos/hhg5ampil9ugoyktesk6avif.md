@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Pizza Phone (Animatronic)"]
 startDate = ""
-description = "Pizza Phone position at the [[Jeddah (Corniche Road), Saudi Arabia"
 +++
+Pizza Phone position at the [[Jeddah (Corniche Road), Saudi Arabia

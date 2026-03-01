@@ -1,4 +1,5 @@
 +++
+
 title = "Hits / Time Machine"
 draft = false
 tags = ["Showtapes"]
@@ -8,4 +9,5 @@ endDate = "1986-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
 alsoKnownAs = ["ShowBiz Pizza Time, Inc. HITS/TIME MACH. NFV SHOWTAPE Serial #000066 Deck - 2 03/20/86 - Master TAILWOUND"]
+pageThumbnailFile = "84hej5goj4n5g.avif"
 +++

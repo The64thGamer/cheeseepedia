@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Fullerton, CA (1841 W Orangethorpe Ave)"]
 startDate = ""
-description = "Fullerton's entrance area the day they opened. Taken directly off the Pizza Times newsletter."
 +++
+Fullerton's entrance area the day they opened. Taken directly off the Pizza Times newsletter.

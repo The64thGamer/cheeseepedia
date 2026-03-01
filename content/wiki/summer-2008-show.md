@@ -1,11 +1,12 @@
 +++
 draft = false
 title = "Summer 2008 Show"
-startDate = "2008-07-00"
+startDate = "2008-07-01"
 endDate = "2008-08-00"
 pageThumbnailFile = "FHNOL6LIzgB1eDf7kwjY.avif"
-contributors = ["The 64th Gamer", "Documentor", "2603:8001:D300:5785:45FA:C7A0:7FB4:8B4D", "Dame", "AstridMascotFan2005", "Ceclife13"]
+contributors = ["The 64th Gamer", "Cyber Snout", "Anonymous", "Dame", "AstridMascotFan2005", "Ceclife13"]
 citations = ["https://showbizpizza.com/info/documents/cec/cec_dept18-2008-07.pdf"]
+credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist"]
 showtapeFormats = ["3-Stage DVD", "Cyberamics DVD", "Studio C 3x DVD + Floppy"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -39,7 +40,7 @@ This show was released in July 2008 and played until August.
     1.  CEC TV ID - 'Haircut'
     2.  Bday Promo
     3.  Monkey Ninjas Episode 4
-    4.  CEC TV ID - 'Chuck E. Skateboarding'
+    4.  CEC TV ID - 'Skateboarding'
 7.  **Segment 4**
     1.  'I Love the Sunshine'
     2.  'Chuck E. Cheese' (Parody of [I Feel for You](https://en.wikipedia.org/wiki/I_Feel_for_You))
@@ -47,9 +48,9 @@ This show was released in July 2008 and played until August.
     1.  CEC TV ID - 'Flashing Hand'
     2.  PBS Kids Spot
     3.  Shrek Promo
-    4.  CEC TV ID - 'Chuck E. Sunrise'
+    4.  CEC TV ID - 'Sunrise'
 
-## Lives:
+## Live Shows:
 
 - BINGO
 - Chuck E. Shuffle

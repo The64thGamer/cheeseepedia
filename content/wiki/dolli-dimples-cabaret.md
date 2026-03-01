@@ -1,4 +1,5 @@
 +++
+
 title = "Dolli Dimples (Cabaret)"
 draft = false
 tags = ["Animatronic Shows"]
@@ -9,8 +10,8 @@ startDate = ""
 endDate = ""
 contributors = ["CECMentor","The 64th Gamer"]
 citations = []
+pageThumbnailFile = "1989_-_Store_Interior_Dolly_Registers_Edit2025.avif"
 +++
-
 The ***Dolli Dimples {{< wiki-link "Cyberamics" >}}*** were a set of animatronics created by {{< wiki-link "Pizza Time Theatre" >}} in the early 80's for the Cabaret. This animatronic first premiered at the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} in 1979. She now appeared much more simplified and polished than her first appearance in {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}.
 
 ## Movements

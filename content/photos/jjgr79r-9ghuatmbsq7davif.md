@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Arlington, TX (2216 S Fielder Rd)"]
 startDate = ""
-description = "CEC University logo up-close"
 +++
+CEC University logo up-close

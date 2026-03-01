@@ -4,6 +4,7 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
-description = "Toddler Zone & Various games (January 26, 2019)"
+startDate = "2019-01-26"
+citations = ["Photo by Chuck E. Entertainment"]
 +++
+Toddler Zone & Various games (January 26, 2019)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Mr Munch"]
 startDate = ""
-description = "Mr. Munches design as of 2024."
 +++
+Mr. Munches design as of 2024.

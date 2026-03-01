@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Baseball (Magazine)"]
 startDate = ""
-description = "Blue Frame"
 +++
+Blue Frame

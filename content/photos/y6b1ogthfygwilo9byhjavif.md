@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Lincoln, NE (221 N 66th St)"]
 startDate = ""
-description = "Street view of exterior After Closure (October 2022) (PC: Google Maps)"
 +++
+Street view of exterior After Closure (October 2022) (PC: Google Maps)

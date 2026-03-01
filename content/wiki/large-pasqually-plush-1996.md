@@ -1,13 +1,14 @@
 +++
-title = "Large Pasqually Plush (1996)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+title = "Large Pasqually Plush (1996)"
 startDate = "1996-00-00"
 endDate = "0000-00-00"
-contributors = ["ToadEatSock","BurgersNuggs445","CEC Tinley"]
-citations = ["[https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf](%22https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf%22)"]
 pageThumbnailFile = "zWS786Zf4MP1y1vaWL4B.avif"
+contributors = ["ToadEatSock", "BurgersNuggs445", "CEC Tinley", "randomguyfan22"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
+manufacturer = "Dennis Foland Inc's"
+tags = ["In-Store Merchandise"]
+categories = ["Chuck E. Cheese's"]
 +++
 The **1996 Large Pasqually Plush** was an official product produced for the Prize counters in 1996 by Dennis Foland. Inc.
 
@@ -18,7 +19,7 @@ The 1996 set introduced putting wires and cardboard pieces into the plush's legs
 
 ### Prototypes
 
-A prototype plush can be seen in the 1997-1998 Merch Catalogue.<sup>(1)</sup> Pictures of the plush show that this plush was originally going to have separate pieces for its eyebrows as opposed to the released plush having them printed on its eyes.
+A prototype plush can be seen in the 1997-1998 Merch Catalogue.{{< cite 1 >}} Pictures of the plush show that this plush was originally going to have separate pieces for its eyebrows as opposed to the released plush having them printed on its eyes.
 
 #### Prototype Gallery
 
@@ -26,10 +27,10 @@ A prototype plush can be seen in the 1997-1998 Merch Catalogue.<sup>(1)</sup> Pi
 
 This plush was released in a set containing other characters and sizes:
 
-- {{< wiki-link "Large Chuck E Plush (1996)" >}}
-- {{< wiki-link "Large Helen Plush (1996)" >}}
-- {{< wiki-link "Large Munch Plush (1996)" >}}
-- {{< wiki-link "Large Jasper Plush (1996)" >}}
+* {{< wiki-link "Large Chuck E. Plush (1996)" >}}
+* {{< wiki-link "Large Helen Plush (1996)" >}}
+* {{< wiki-link "Large Munch Plush (1996)" >}}
+* {{< wiki-link "Large Jasper Plush (1996)" >}}
 
 ## Design
 

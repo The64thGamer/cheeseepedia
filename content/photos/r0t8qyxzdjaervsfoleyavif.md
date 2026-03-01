@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Gulliver's Kingdom Stage"]
 startDate = ""
-description = "Earl Schmerle on 2023/09/24"
 +++
+Earl Schmerle on 2023/09/24

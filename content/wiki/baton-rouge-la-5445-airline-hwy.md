@@ -1,10 +1,20 @@
 +++
 title = "Baton Rouge, LA (5445 Airline Hwy)"
-draft = false
+storeNumber = ""
+startDate = "1982-00-00"
+endDate = "1984-02-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1982-00-00|1984-02-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["30.5071396","-91.1361276"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1982-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

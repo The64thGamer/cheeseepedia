@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Champaign, IL (1036 Bloomington Rd)"]
 startDate = ""
-description = "Colored checker still intact underneath the current plaster"
 +++
+Colored checker still intact underneath the current plaster

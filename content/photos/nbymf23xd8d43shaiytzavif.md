@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Darien, IL (7409 Cass Ave)"]
 startDate = ""
-description = "Feburary 83"
 +++
+Feburary 83

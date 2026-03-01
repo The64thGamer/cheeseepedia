@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Rock-afire Serial Tags"]
 startDate = ""
-description = "Creative Engineering Serial Tag"
 +++
+Creative Engineering Serial Tag

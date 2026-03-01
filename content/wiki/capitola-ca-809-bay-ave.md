@@ -1,10 +1,20 @@
 +++
 title = "Capitola, CA (809 Bay Ave)"
-draft = false
+storeNumber = ""
+startDate = "1981-08-28"
+endDate = "1984-06-23"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1981-08-28|1984-06-23|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["36.9799252","-121.9565076"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Employee Red Shirt (90's)"]
 startDate = ""
-description = "Fine Incentives Tag"
 +++
+Fine Incentives Tag

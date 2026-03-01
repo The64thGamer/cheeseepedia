@@ -3,12 +3,10 @@ title = "Billy Bob (Early Mijjin)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Creative Engineering"]
-
-
 startDate = "1992-00-00"
 endDate = "0000-00-00"
-contributors = ["GallaRBX2","The 64th Gamer","Newbie editor"]
-citations = ["<a href=\"https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf\">https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf</a>"]
+contributors = ["GallaRM","The 64th Gamer","Newbie editor"]
+citations = ["https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf"]
 pageThumbnailFile = "RVD1qfG8Avwwu9noL7D8.avif"
 manufacturer = "Creative Engineering"
 unitsProduced = "1"

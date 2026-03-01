@@ -16,11 +16,11 @@ The 94-95 Rock-afire Explosion Demo Tape Showtape were a collection of {{< wiki-
 
 The titles share the timestamps for when they appear in the demo tape.
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Character Introduction (0:57-3:55)
-2.  **Segment 2**
+2. **Segment 2**
     1.  Foreign Languages (5:47-6:03)
-3.  **Segment 3**
+3. **Segment 3**
     1.  'Classic' Rock-afire Explosion (12:04-12:24)
-4.  **Segment 4**
+4. **Segment 4**
     1.  Outro (20:00-20:26)

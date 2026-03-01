@@ -1,10 +1,20 @@
 +++
 title = "Jeddah (Prince Mohammed), Saudi Arabia"
-draft = false
+storeNumber = ""
+startDate = "2010-12-30"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Studio C Beta|2010-12-30||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["21.5518991","39.1632188"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2010-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

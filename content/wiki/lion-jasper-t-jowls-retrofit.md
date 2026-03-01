@@ -7,12 +7,12 @@ categories = ["Unknown Manufacturers"]
 
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["StudioC","2603:9000:A500:1DBD:39A1:BCF1:A5A5:D5F6","Saan1ty","PizzaEntertainmentFanX","BenTrainFan2000"]
+contributors = ["StudioC","Anonymous","Saan1ty","Pizza Entertainment Fan","BenTrainFan2000"]
 citations = []
 pageThumbnailFile = "RJYUhN6CA1aPftITsXSG.avif"
 +++
 
-***Lion*** (also known as ***The Lion***) was a retrofit of {{< wiki-link "Jasper T Jowls (Cyberamic)" >}} used at the {{< wiki-link "Fun Zone &amp; Pizza" >}} on {{< wiki-link "Chico, CA (966 East Ave)" >}}. The bot was retrofitted after the location lost its license to the CEC IP.
+***Lion*** (also known as ***The Lion***) was a retrofit of {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}} used at the {{< wiki-link "Fun Zone &amp; Pizza" >}} on {{< wiki-link "Chico, CA (966 East Ave)" >}}. The bot was retrofitted after the location lost its license to the CEC IP.
 
 ## History
 

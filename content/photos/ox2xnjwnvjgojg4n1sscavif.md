@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Little Rock, AR (10901 N Rodney Parham Road 303)"]
 startDate = ""
-description = "ShowBiz mentioned in yearbook (1980s)"
 +++
+ShowBiz mentioned in yearbook (1980s)

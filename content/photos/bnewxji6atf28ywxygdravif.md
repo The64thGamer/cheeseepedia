@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Buddy Crash (CEI, 1978)"
 +++
+Buddy Crash (CEI, 1978)

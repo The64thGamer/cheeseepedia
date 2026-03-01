@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Liseberg Louis Armstrong Monkey"
 +++
+Liseberg Louis Armstrong Monkey

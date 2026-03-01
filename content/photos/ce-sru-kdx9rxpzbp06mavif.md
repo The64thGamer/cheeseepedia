@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Port Arthur, TX (3600 FM 365)"]
 startDate = ""
-description = "Their 3-Stage decorated for Christmas."
 +++
+Their 3-Stage decorated for Christmas.

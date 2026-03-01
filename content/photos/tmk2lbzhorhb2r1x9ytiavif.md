@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Restored Four Seasoned Bears at CEI (1990s)"
 +++
+Restored Four Seasoned Bears at CEI (1990s)

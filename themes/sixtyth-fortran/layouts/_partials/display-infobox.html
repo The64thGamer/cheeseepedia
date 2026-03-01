@@ -1,0 +1,170 @@
+{{- if and .Params.tags (not (in .Params.tags "Meta")) (not (in .Params.tags "Transcriptions")) -}}
+ <div class="article-infobox">
+    {{- if .Params.pageThumbnailFile -}}
+      <div class="article-thumbnail">
+        {{- $thumb := default "" .Params.pageThumbnailFile -}}
+        {{- $mode := "no-css" -}}
+        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
+      </div>
+    {{- end -}}
+    {{- if or (.Params.startDate) (.Params.endDate) -}}
+    <b>{{- if in .Params.tags "Locations" -}}Operated: {{- else -}}Release: {{- end -}}</b>{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}
+    {{- end -}}
+
+    {{- $currentPageTitle := .Title -}} 
+    {{- $reviews := partialCached "grab-all-reviews.html" "key"}}
+    {{- $hasGallery := 0 -}}
+    {{- $galleryOpen := false -}}
+    {{- $totalReviews := 0 -}}
+    {{- $totalRecommends := 0 -}}
+    
+    {{- range $reviews -}}
+      {{- $matches := false -}} 
+      {{- if eq .Params.page $currentPageTitle -}} 
+        {{- $matches = true -}}
+        {{- if eq $hasGallery 0 -}} 
+          <div class="recommendation-summary">
+          {{- $galleryOpen = true -}}
+        {{- end -}}
+        {{- $hasGallery = add $hasGallery 1 -}}
+      {{- end -}}
+      {{- if $matches -}} 
+        {{- $totalReviews = add $totalReviews 1 -}} 
+        {{- if .Params.recommend -}} 
+          {{- $totalRecommends = add $totalRecommends 1 -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+
+    {{- $recommendScore := div (mul $totalRecommends 100) (cond (eq $totalReviews 0) 1 $totalReviews) -}} 
+    {{- $sentiment := "Mixed" -}}
+    {{- if ge $recommendScore 75 -}}
+      {{- $sentiment = "Positive" -}}
+    {{- else if le $recommendScore 25 -}}
+      {{- $sentiment = "Negative" -}}
+    {{- end -}}
+
+    {{- if $galleryOpen -}} 
+      <b>Reviews: </b> {{- $sentiment -}}{{- " (👍 " -}}{{- $totalRecommends -}}{{- ") (👎 " -}}{{- sub $totalReviews $totalRecommends -}})
+      </div>
+    {{- end -}}
+
+    {{/* ── Location-specific fields ── */}}
+    {{- if .Params.storeNumber -}}
+      <br><b>Store #: </b>{{ .Params.storeNumber }}
+    {{- end -}}
+
+    {{- if .Params.sqft -}}
+      <br><b>Floorspace: </b>{{ .Params.sqft }} (sqft)
+    {{- end -}}
+
+    {{- with .Params.latitudeLongitude -}}
+      <br><b>Latitude Longitude: </b>{{ index . 0 }}, {{ index . 1 }}
+    {{- end -}}
+
+    {{/* ── Standard fields ── */}}
+    {{- if .Params.unitsProduced -}}
+    <br><b>{{- "Units Produced: " -}}</b>{{- .Params.unitsProduced -}}
+    {{- end -}}
+    {{- if .Params.mediaDuration -}}
+    <br><b>{{- "Media Duration: " -}}</b>{{- .Params.mediaDuration -}}
+    {{- end -}}
+    {{- if .Params.manufacturer -}}
+    <br><b>{{- "Manufacturer: " -}}</b>{{- .Params.manufacturer -}}
+    {{- end -}}
+    {{- range .Params.alsoKnownAs -}}
+    <br><b>{{- "Label: " -}}</b>"{{- . -}}"
+    {{- end -}}
+
+    {{- if .Params.showtapeFormats -}}
+      <div class="article-infobox-linkbox">
+        <b>{{- "Released On: " -}}</b>
+        <ul>
+          {{- range .Params.showtapeFormats -}}
+          <li><a href="{{- "/wiki/" | relLangURL -}}{{- . | urlize -}}">{{- . -}}</a></li>
+          {{- end -}}
+        </ul>
+      </div>
+    {{- end -}}
+
+    {{- if .Params.credits -}}
+      <div class="article-infobox-linkbox">
+        <b>{{- "Credits: " -}}</b>
+        <ul>
+          {{- range .Params.credits -}}
+          <li>{{- replace . "|" ": " -}}</li>
+          {{- end -}}
+        </ul>
+      </div>
+    {{- end -}}
+
+    {{- if .Params.downloadLinks -}}
+      <div class="article-infobox-linkbox">
+        <b>{{- "Downloads: " -}}</b>
+        <ul>
+          {{- range .Params.downloadLinks -}}
+            {{- $downloadParts := split . "|" -}}
+            {{- if ge (len $downloadParts) 2 -}}
+              <li><a href="{{- (index $downloadParts 0) -}}">{{- (index $downloadParts 1) -}}</a></li>
+            {{- else -}}
+              <li><a href="{{- . -}}">{{- . -}}</a></li>
+            {{- end -}}
+          {{- end -}}
+        </ul>
+      </div>
+    {{- end -}}
+
+    {{- with .Params.remodels }}
+      <div class="article-infobox-linkbox">
+        <b>Remodels & Initiatives: </b>
+        <ul>
+          {{- range . }}
+            {{- $parts := split . "|" -}}
+            {{- $name := index $parts 0 -}}
+            {{- $date := index $parts 1 -}}
+            <li>{{ partial "wiki-link.html" (dict "name" $name) }} ({{- partial "Readable_Date.html" (dict "date" $date "presentOnEmpty" false) -}})</li>
+          {{- end }}
+        </ul>
+      </div>
+    {{- end }}
+
+    {{- with .Params.stages }}
+      <div class="article-infobox-linkbox">
+        <b>Stages: </b>
+        <ul>
+          {{- range . }}
+            {{- $parts := split . "|" -}}
+            {{- $name := index $parts 0 -}}
+            {{- $start := index $parts 1 -}}
+            {{- $end := index $parts 2 -}}
+            {{- $version := index $parts 3 -}}
+            <li>
+              {{ partial "wiki-link.html" (dict "name" $name) }}
+              ({{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}} – {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}})
+              {{- if $version }} ({{ $version }}){{- end }}
+            </li>
+          {{- end }}
+        </ul>
+      </div>
+    {{- end }}
+
+    {{- with .Params.franchisees }}
+      <div class="article-infobox-linkbox">
+        <b>Franchisees: </b>
+        <ul>
+          {{- range . }}
+            {{- $parts := split . "|" -}}
+            {{- $name := index $parts 0 -}}
+            {{- $start := index $parts 1 -}}
+            {{- $end := index $parts 2 -}}
+            <li>
+              {{ $name }}
+              ({{- partial "Readable_Date.html" (dict "date" $start "presentOnEmpty" false) -}} – {{- partial "Readable_Date.html" (dict "date" $end "presentOnEmpty" true) -}})
+            </li>
+          {{- end }}
+        </ul>
+      </div>
+    {{- end }}
+
+  </div>
+{{- end -}}

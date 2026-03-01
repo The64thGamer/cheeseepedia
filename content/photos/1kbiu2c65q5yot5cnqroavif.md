@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Color Call-out Monitor System"]
 startDate = ""
-description = "CCMS at Sunnyvale in the game room"
 +++
+CCMS at Sunnyvale in the game room

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Antonio (Pasqually Retrofit)"]
 startDate = ""
-description = "A shot of Antonio at Gillian's Wonderland (2018?)"
 +++
+A shot of Antonio at Gillian's Wonderland (2018?)

@@ -1,10 +1,20 @@
 +++
 title = "Norman, OK (2201 Interstate Dr)"
-draft = false
+storeNumber = ""
+startDate = "2014-12-03"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2014-12-03||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["35.2445595","-97.4859506"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2014-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

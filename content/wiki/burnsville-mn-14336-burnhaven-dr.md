@@ -1,10 +1,20 @@
 +++
 title = "Burnsville, MN (14336 Burnhaven Dr)"
-draft = false
-tags = ["Locations"]
-categories = [""]
-pageThumbnailFile = ""
-startDate = ""
-endDate = ""
+storeNumber = ""
+startDate = "1982-03-00"
+endDate = "1988-00-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1982-03-00|1988-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["44.7424292","-93.2930412"]
+citations = []
 contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
+tags = ["Locations"]
+categories = ["Pizza Time Theatre"]
+draft = false
 +++

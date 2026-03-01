@@ -1,7 +1,7 @@
 +++
 title = "2012 Hard Hat Hank Puppet"
 draft = false
-tags = ["Showtape Puppets"]
+tags = ["Puppets"]
 categories = [""]
 pageThumbnailFile = ""
 startDate = ""

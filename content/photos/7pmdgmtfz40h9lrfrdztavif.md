@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Rick Rat Walkaround"]
 startDate = ""
-description = "Rick Rat Costume Head at SPT Headquarters (Unknown Year)"
 +++
+Rick Rat Costume Head at SPT Headquarters (Unknown Year)

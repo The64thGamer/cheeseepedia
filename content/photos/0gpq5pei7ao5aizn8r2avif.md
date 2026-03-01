@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Patchogue, NY (121 Sunrise Hwy)"]
 startDate = ""
-description = "Front Exterior in 2018Google Maps user-uploaded content"
 +++
+Front Exterior in 2018Google Maps user-uploaded content

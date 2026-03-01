@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Middle of the Road"]
 startDate = ""
-description = "Reel Case Side"
 +++
+Reel Case Side

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Louisville, KY (5743 Preston Hwy)"]
 startDate = ""
-description = "Balcony Stage (1980s)"
 +++
+Balcony Stage (1980s)

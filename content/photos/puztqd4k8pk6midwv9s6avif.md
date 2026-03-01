@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Sun Valley, CA (8375 Laurel Canyon Blvd)"]
 startDate = ""
-description = "The Store's Exterior before the 2013 Update (PC: Google)"
 +++
+The Store's Exterior before the 2013 Update (PC: Google)

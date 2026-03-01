@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Review Showtape"]
 startDate = ""
-description = "Showtape Scan"
 +++
+Showtape Scan

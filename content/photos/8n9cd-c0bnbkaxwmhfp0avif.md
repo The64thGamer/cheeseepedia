@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Interactive Console"]
 startDate = ""
-description = "The 3D Model seen in the 1998 Master Control."
 +++
+The 3D Model seen in the 1998 Master Control.

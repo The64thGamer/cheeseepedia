@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Sacramento , CA (7020 Stockton Blvd)"]
 startDate = ""
-description = "Dolli Dimples"
 +++
+Dolli Dimples

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Concept Unification Stage"]
 startDate = ""
-description = "Prop Characters (Pizzacam, [[Laurel, MD (936 Fairlawn Ave)"
 +++
+Prop Characters (Pizzacam, [[Laurel, MD (936 Fairlawn Ave)

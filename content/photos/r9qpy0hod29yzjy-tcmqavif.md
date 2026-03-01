@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Patriotic Live 00"]
 startDate = ""
-description = "Unknown SVHS"
 +++
+Unknown SVHS

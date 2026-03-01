@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck 2014 (Costume Head)"]
 startDate = ""
-description = "Rockstar Walkaround Head"
 +++
+Rockstar Walkaround Head

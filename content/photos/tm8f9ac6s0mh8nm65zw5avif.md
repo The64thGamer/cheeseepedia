@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Mesa, AZ (856 S Alma School Rd)"]
 startDate = ""
-description = "West Mesa's exterior in 2014. (PC: Google Maps)"
 +++
+West Mesa's exterior in 2014. (PC: Google Maps)

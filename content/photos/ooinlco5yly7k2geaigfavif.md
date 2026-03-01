@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Mr. Munch 15' CST Plush"]
 startDate = ""
-description = "Plush Tag"
 +++
+Plush Tag

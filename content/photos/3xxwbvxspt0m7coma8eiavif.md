@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Jungle Jim's RAE Sign (RAE Sign Retrofit)"]
 startDate = ""
-description = "Front of the RAE Sign"
 +++
+Front of the RAE Sign

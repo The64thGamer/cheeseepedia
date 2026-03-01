@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Dallas, TX (13125 Montfort Dr)"]
 startDate = ""
-description = "A photo of the CU development team and a newspaper clipping on the show."
 +++
+A photo of the CU development team and a newspaper clipping on the show.

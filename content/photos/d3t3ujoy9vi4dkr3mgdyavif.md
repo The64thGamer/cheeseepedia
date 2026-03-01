@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Classic Stage"]
 startDate = ""
-description = "A Classic Stage at the [[Sayville, NY (5750 Sunrise Highway 11782)"
 +++
+A Classic Stage at the [[Sayville, NY (5750 Sunrise Highway 11782)

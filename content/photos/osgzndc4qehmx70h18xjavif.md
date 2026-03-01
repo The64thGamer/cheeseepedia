@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Chuck E's Rockin' Rhymes"]
 startDate = ""
-description = "Studio C Floppy Scan"
 +++
+Studio C Floppy Scan

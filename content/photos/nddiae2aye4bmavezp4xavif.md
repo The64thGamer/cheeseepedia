@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Game Room Authorized Pin"]
 startDate = ""
-description = "Front"
 +++
+Front

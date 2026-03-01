@@ -1,4 +1,5 @@
 +++
+
 title = "'Chuckfeld' (Must C TV Award)"
 draft = false
 tags = ["Store Fixtures"]
@@ -7,6 +8,7 @@ startDate = "1998-00-00"
 endDate = "0000-00-00"
 contributors = ["ChuckfeldStan","The 64th Gamer","Nostalgia Cow","BurgersNuggs445"]
 citations = []
+pageThumbnailFile = "CEC_Chuckfeld.avif"
 +++
 **Chuckfeld** is a 'Must C TV' parody poster released in 1998, it is a parody of *Seinfeld*.
 

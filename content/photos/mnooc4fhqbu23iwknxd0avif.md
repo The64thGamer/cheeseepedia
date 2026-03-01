@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Miamisburg, OH (30 Prestige Place)"]
 startDate = ""
-description = "Exterior, August 2023"
 +++
+Exterior, August 2023

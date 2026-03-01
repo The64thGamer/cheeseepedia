@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Raleigh, NC (3501-131 Capital Blvd)"]
 startDate = ""
-description = "Ditto."
 +++
+Ditto.

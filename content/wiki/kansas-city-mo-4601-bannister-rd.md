@@ -1,10 +1,20 @@
 +++
 title = "Kansas City, MO (4601 Bannister Rd)"
-draft = false
+storeNumber = ""
+startDate = "1981-12-06"
+endDate = "1985-10-13"
+cuDate = ""
+remodels = []
+stages = ["Classic Stage|1981-12-06|1985-10-13|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["38.9534650","-94.5357360"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

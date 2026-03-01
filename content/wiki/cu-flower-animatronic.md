@@ -3,20 +3,13 @@ title = "CU Flower (Animatronic)"
 draft = false
 tags = ["Animatronics"]
 categories = ["Chuck E. Cheese's"]
-
-
-startDate = ""
+startDate = "1989-00-00"
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","Randombeans","2.26.6.187"]
-citations = ["<a href=\"<a\"> href=\"https://youtu.be/UqRv6tBFgvg?t=576\"> Concept Unification Premiere: 576s</a></a>"]
+contributors = ["CECBowlingGreen","Randombeans","Anonymous","The 64th Gamer"]
+citations = ["https://youtu.be/UqRv6tBFgvg?t=576","https://youtu.be/YLslAL6Afw8?t=3260"]
+pageThumbnailFile = "YaJFsZ88f6cBOHRCI4H5.avif"
 +++
 
-The **CU Flower Animatronic** was an animatronic figure that was on the early 3-Stages in Texas. Its only movement was its mouth and it used Dook's left ear bit as it was removed during Concept Unification. Programming for the flower halted in the mid to late 90s, and by then there were most likely very few, as the finalized 3-Stage (slightly different than what Dallas Montfort got) did not include them. They can be seen in the 1993 3-Stage Diagnostics, and a pair of 4 of them can be seen in the Concept Unification Premiere (1).
+The ***Concept Unification Flower*** was an animatronic figure that was only on the early 3-Stages in Texas. It lasted from 1989 to sometime in the mid-90's.
 
-## Movements
-
-| Movement |
-|----------|
-| Mouth    |
-
-File:Singingflowersdiagnostics.png|A Singing Flower featured in the 1993 3 Stage Diagnostics File:Demostage.jpg|The 4 Singing Flowers seen on the Demo Stage
+Its only movement was its mouth and it used the 'Dook Left Ear' bit as its signal, as this was an unused movement for the 3-Stage. The last showtape to program the flowers was the August 1996 show. 

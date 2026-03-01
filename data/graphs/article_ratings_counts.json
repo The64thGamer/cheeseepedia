@@ -1,0 +1,23 @@
+{
+  "series": {
+    "Empty": 5287,
+    "Very Bad": 529,
+    "Bad": 121,
+    "Good": 50,
+    "Great": 28
+  },
+  "labels": [
+    "Empty",
+    "Very Bad",
+    "Bad",
+    "Good",
+    "Great"
+  ],
+  "values": [
+    5287,
+    529,
+    121,
+    50,
+    28
+  ]
+}

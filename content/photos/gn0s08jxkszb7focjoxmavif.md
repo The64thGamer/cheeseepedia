@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["ShowBiz Pizza Time Distribution Center (Topeka, KS)"]
 startDate = ""
-description = "Studio C Chuck animatronic (Unknown Year)"
 +++
+Studio C Chuck animatronic (Unknown Year)

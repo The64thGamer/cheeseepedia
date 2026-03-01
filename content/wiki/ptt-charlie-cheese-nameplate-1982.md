@@ -13,14 +13,14 @@ The ***Charlie Cheese Nameplate* was only used at the second {{< wiki-link "Cari
 
 ## Production
 
-Like Charlie Cheese's Pizza Playhouse as a whole, barely any data is documented on it, however we can assume the Charlie Cheese nameplate was produced at the Pizza Time Theatre Incorporated Sunnyvale California {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} located on 1213 Innsbruck Drive, and was shipped to the Carina, Queensland, Australia, Charlie Cheese's Pizza Playhouse shortly after production was completed.
+Like Charlie Cheese's Pizza Playhouse as a whole, barely any data is documented on it, however we can assume the Charlie Cheese nameplate was produced at the Pizza Time Theatre Incorporated Sunnyvale California {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}} located on 1213 Innsbruck Drive, and was shipped to the Carina, Queensland, Australia, Charlie Cheese's Pizza Playhouse shortly after production was completed.
 
 ## Usage
 
 The Charlie Cheese Nameplate was placed under the Chuck E. Cheese cyberamic, then renamed to Charlie Cheese in Australia, from an unknown month in 1982 to somewhere between 1984 to 1986. After the closure of the Carina, Charlie Cheese's Pizza Playhouse, several outcomes could have played out with the nameplate, those being:
 
 - **A.** *The nameplate was thrown out or destroyed.*
-- **B.** *The nameplate was shipped back to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}*
+- **B.** *The nameplate was shipped back to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}*
 
 ## Design
 

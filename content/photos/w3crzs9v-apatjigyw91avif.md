@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Dallas, TX (13125 Montfort Dr)"]
 startDate = ""
-description = "Studio C Chuck E. Animatronic"
 +++
+Studio C Chuck E. Animatronic

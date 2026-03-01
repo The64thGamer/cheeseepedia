@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Ap-O-Teket 'Jubel i busken' Show Building (1984)"
 +++
+Ap-O-Teket 'Jubel i busken' Show Building (1984)

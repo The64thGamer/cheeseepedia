@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["The Amazing Uncle Klunk Traveling Show (Event)"]
 startDate = ""
-description = "'Coming Soon-Limited Engagement' Advert (Tall Font)"
 +++
+'Coming Soon-Limited Engagement' Advert (Tall Font)

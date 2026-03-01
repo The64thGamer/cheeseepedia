@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["PTT Basic Ordering Agreement"]
 startDate = ""
-description = "Opportunity... (Page 3)"
 +++
+Opportunity... (Page 3)

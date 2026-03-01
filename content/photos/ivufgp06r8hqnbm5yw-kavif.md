@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Word search ad to get free tokens from Piccadilly Circus in Columbia Missouri"
 +++
+Word search ad to get free tokens from Piccadilly Circus in Columbia Missouri

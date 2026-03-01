@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Brookfield, WI (2435 N 124th St)"]
 startDate = ""
-description = "Exterior as A PTT. "
 +++
+Exterior as A PTT. 

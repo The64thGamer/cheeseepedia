@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Kooser Chuck E. Cheese (Animatronic)"]
 startDate = ""
-description = "Promotional Photo, December 1978."
 +++
+Promotional Photo, December 1978.

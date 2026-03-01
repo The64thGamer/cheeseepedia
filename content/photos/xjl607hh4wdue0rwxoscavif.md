@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Newer Gigglebee's Entrance in Sioux Falls"
 +++
+Newer Gigglebee's Entrance in Sioux Falls

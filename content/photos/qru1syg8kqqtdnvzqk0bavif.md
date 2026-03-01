@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Circles of Light"]
 startDate = ""
-description = "2nd COL Design (December 2012 - October 2014)"
 +++
+2nd COL Design (December 2012 - October 2014)

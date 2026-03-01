@@ -5,7 +5,7 @@ tags = ["Animatronics"]
 categories = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
-contributors = ["PizzaEntertainmentFanX","The 64th Gamer"]
+contributors = ["Pizza Entertainment Fan","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "NjRCODGx6e67Qz1NGR42.avif"
 unitsProduced = "1"
@@ -15,7 +15,7 @@ manufacturer = "Pizza Time Theatre"
 
 ## History
 
-The Wolfman Zapp Cyberamic was produced in the early 80's by Pizza Time Theatre. Not much is known about the bot other than it being produced & possibly sent to {{< wiki-link "Reno, NV (651 E Moana Lane)" >}}. The Bot was later stored at the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}. The bot was most likely thrown out during the movement from Sunnyvale to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
+The Wolfman Zapp Cyberamic was produced in the early 80's by Pizza Time Theatre. Not much is known about the bot other than it being produced & possibly sent to {{< wiki-link "Reno, NV (651 E Moana Lane)" >}}. The Bot was later stored at the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}. The bot was most likely thrown out during the movement from Sunnyvale to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
 
 ## Design
 

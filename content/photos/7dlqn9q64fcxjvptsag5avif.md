@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["PTT Basic Ordering Agreement"]
 startDate = ""
-description = "Pizza I - Games (Page 34, June 9, 1977)"
 +++
+Pizza I - Games (Page 34, June 9, 1977)

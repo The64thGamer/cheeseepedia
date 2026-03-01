@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Denton, TX (341 South I-35)"]
 startDate = ""
-description = "Denton in October 2013."
 +++
+Denton in October 2013.

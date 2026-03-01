@@ -23,13 +23,13 @@ had without sticking to the most recent show. The *Best of* series could be seen
 
 ## Show List:
 
-1.  **Intermission 1**
+1. **Intermission 1**
     1.  6 Minute Countdown
         1.  [My Generation](https://en.wikipedia.org/wiki/My_Generation)
         2.  Birthday Spectacular
         3.  [Freeway Of Love](https://en.wikipedia.org/wiki/Freeway_of_Love)
     2.  Cyberstar Intro
-2.  **Segment 1**
+2. **Segment 1**
     1.  Kids 1
         1.  [Row Row Row Your Boat](https://en.wikipedia.org/wiki/Row,_Row,_Row_Your_Boat)
         2.  [Mockingbird (Hush Little Baby)](https://en.wikipedia.org/wiki/Hush,_Little_Baby)
@@ -40,13 +40,13 @@ had without sticking to the most recent show. The *Best of* series could be seen
         6.  [Jack and Jill](https://en.wikipedia.org/wiki/Jack_and_Jill)
         7.  [This Old Man](https://en.wikipedia.org/wiki/This_Old_Man)
         8.  [Here We Go Loop de Loop](https://en.wikipedia.org/wiki/Loop_de_Loop)
-3.  **Intermission 2**
+3. **Intermission 2**
     1.  6 Minute Countdown
         1.  [Walk of Life](https://en.wikipedia.org/wiki/Walk_of_Life)
         2.  Birthday Spectacular
         3.  [Forever and Ever, Amen](https://en.wikipedia.org/wiki/Forever_and_Ever,_Amen)
     2.  Cyberstar Intro
-4.  **Segment 2**
+4. **Segment 2**
     1.  Kids 2
         1.  [Three Little Fishies](https://en.wikipedia.org/wiki/Three_Little_Fishies)
         2.  [The Hokey Pokey](https://en.wikipedia.org/wiki/Hokey_Pokey)
@@ -54,28 +54,28 @@ had without sticking to the most recent show. The *Best of* series could be seen
             Big Bad Wolf](https://en.wikipedia.org/wiki/Who%27s_Afraid_of_the_Big_Bad_Wolf%3F)
         4.  [Turn Around](https://en.wikipedia.org/wiki/Turn_Around_(Dick_and_Dee_Dee_song))
         5.  [Zip-A-Dee-Doo-Dah](https://en.wikipedia.org/wiki/Zip-a-Dee-Doo-Dah)
-5.  **Intermission 3**
+5. **Intermission 3**
     1.  6 Minute Countdown
         1.  [California Girls](https://en.wikipedia.org/wiki/California_Girls)
         2.  [She Drives Me Crazy](https://en.wikipedia.org/wiki/She_Drives_Me_Crazy)
         3.  Birthday Spectacular
     2.  It's Showtime!
-6.  **Video 1**
+6.**Video 1**
     1.  [California Raisins - Signed, Sealed,
         Delivered](https://en.wikipedia.org/wiki/Meet_the_Raisins!)
-7.  **Intermission 4**
+7. **Intermission 4**
     1.  6 Minute Countdown
         1.  [Jump (For My Love)](https://en.wikipedia.org/wiki/Jump_(For_My_Love))
         2.  Birthday Spectacular
         3.  [Twist and Shout](https://en.wikipedia.org/wiki/Please_Please_Me)
     2.  Cyberstar Intro
-8.  **Segment 3**
+8. **Segment 3**
     1.  Friends
         1.  *[Why Can't We Be
             Friends?](https://en.wikipedia.org/wiki/Why_Can%27t_We_Be_Friends%3F)*
         2.  [The Name Game](https://en.wikipedia.org/wiki/The_Name_Game)
         3.  [You Can Call Me Al](https://en.wikipedia.org/wiki/You_Can_Call_Me_Al)
-9.  **Intermission 5**
+9. **Intermission 5**
     1.  6 Minute Countdown
         1.  [Vogue](https://en.wikipedia.org/wiki/Vogue_(Madonna_song))
         2.  Birthday Spectacular

@@ -1,8 +1,9 @@
 +++
+
 title = "Christmas '86 Edited Showtape"
 tags = ["Showtapes"]
 categories = ["ShowBiz Pizza Place"]
-pageThumbnailFile = ""
+pageThumbnailFile = "0909ergjirgjerg.avif"
 startDate = "1986-11-04"
 endDate = "1987-00-00"
 contributors = ["The 64th Gamer"]

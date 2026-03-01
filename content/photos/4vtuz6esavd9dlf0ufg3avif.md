@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Darien, IL (7409 Cass Ave)"]
 startDate = ""
-description = "Billy Bob and Looney Bird, Late 80's"
 +++
+Billy Bob and Looney Bird, Late 80's

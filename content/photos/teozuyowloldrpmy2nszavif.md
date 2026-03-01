@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Layton Bit Stripper"]
 startDate = ""
-description = "A finished Layton Bit Stripper"
 +++
+A finished Layton Bit Stripper

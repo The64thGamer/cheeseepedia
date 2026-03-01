@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["The Great All-American Pizza Show! (Commercial)"]
 startDate = ""
-description = "A storyboard of the opening shots of the commercial, 1979."
 +++
+A storyboard of the opening shots of the commercial, 1979.

@@ -1,10 +1,20 @@
 +++
 title = "Dallas, TX (2905 Forest Lane)"
-draft = false
+storeNumber = ""
+startDate = "1981-08-00"
+endDate = "1983-00-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1981-08-00|1983-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["32.9093020","-96.8803654"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

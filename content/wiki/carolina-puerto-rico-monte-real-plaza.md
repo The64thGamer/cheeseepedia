@@ -1,10 +1,20 @@
 +++
 title = "Carolina, Puerto Rico (Monte Real Plaza)"
-draft = false
+storeNumber = ""
+startDate = "2008-06-00"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Studio C Beta|2008-06-00||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["0","0"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2008-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Bandstand II"]
 startDate = ""
-description = "Product Quality Seal"
 +++
+Product Quality Seal

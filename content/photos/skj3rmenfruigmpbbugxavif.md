@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Altoona, PA (3415 Pleasant Valley Blvd)"]
 startDate = ""
-description = "Helen and Jasper with their latex masks"
 +++
+Helen and Jasper with their latex masks

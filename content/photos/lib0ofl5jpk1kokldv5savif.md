@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Citrus Heights, CA (6251 Sunrise Blvd)"]
 startDate = ""
-description = "The exterior during the remodel. PC: Costco Membership Card"
 +++
+The exterior during the remodel. PC: Costco Membership Card

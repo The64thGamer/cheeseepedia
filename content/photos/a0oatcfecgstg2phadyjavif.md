@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["ShowBiz's Fabulous Fall Festival (Event)"]
 startDate = ""
-description = "Festival Logo"
 +++
+Festival Logo

@@ -1,15 +1,15 @@
 +++
-title = "SongCode Hardware Setup"
+title = "Big C's Cyberamics Center"
 draft = false
 tags = ["Programming Systems"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","RessiduePezzzado"]
-citations = ["[http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf](%22http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf%22)","[https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&](%22https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&%22)"]
+contributors = ["The 64th Gamer","RessiduePezzzado","Ceclife13"]
+citations = ["http://www.showbizpizza.com/info/articles/cec/ptt_83grid.pdf","https://cheeseepedia.org/w/index.php?title=File:Indastudio_ptt.png&filetimestamp=20220801023709&","https://archive.org/details/huntington-beach-kooser-rd-building-plans/Administrative_Reviews_ARX1979029_-_Supporting_Documents-2.pdf"]
 pageThumbnailFile = "EzVMGJzOWPwOdwwSMVJL.avif"
 +++
-The ***SongCode Hardware Setup* was the special setup used for controlling and programming animatronics at the second ever *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, before its switch to {{< wiki-link "Cyberamics" >}} in 1980, where it would then be transferred to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}} for continued use and upgrades.**
+***Big C's Cyberamics Center*** was the special setup used for controlling and programming animatronics at the second ever *Pizza Time Theatre* location, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, before its switch to {{< wiki-link "Cyberamics" >}} in 1980, where it would then be transferred to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}} for continued use and upgrades.
 
 ## SongCode
 
@@ -21,13 +21,13 @@ The PDP-11 is the computer running the {{< wiki-link "SongCode" >}} software. It
 
 ### ADM-3a
 
-The ADM-3a was the visual display terminal for the entire system. It can be seen displaying {{< wiki-link "SongCode" >}}-like signal instructions in the Kooser news video.<sup>(0)</sup>
+The ADM-3a was the visual display terminal for the entire system. It can be seen displaying {{< wiki-link "SongCode" >}}-like signal instructions in the Kooser news video.{{< cite 1 >}}
 A large black device with a PTT label is seen on the back of the ADM-3a, in a spot connected exactly to the unit's rear RS-232 expansion port. The expansion unit likely had custom hardware for tape data I/O, and potentially controlling the tape deck being programmed on.
 
 ### CEC Tester
 
-The ***CEC Tester* is a small blue device used for controlling animatronics to program. In the early 2000's it would briefly appear on eBay, being sold to an unknown buyer for an unknown price.In 2017 brand new footage of the Kooser Road location would surfacehttps://youtu.be/EdKLsomLbtY, which would provide a glimpse of the device being used at its store. Mike Hatcher is interviewed regarding the control systems behind the animatronics, in which he states, while referring to the device itself, *'What this actually is amounts to is electronic puppeteering, only instead of having strings, you have buttons, switches, and joysticks.',* confirming the device is used to control the animatronics.
-From the layout of the device, and the comment of the Kooser employee, it can be determined that the 8 labeled directions of the 2 joysticks, 8 switches, and 8 buttons all are various ways of controlling a single character, allowing movements to be stuck on, manually pushed on, or dynamically controlled with a joystick. The restriction of 8 movements to a character lines up with the 8 movements given to any given character on a {{< wiki-link "Cyberamic Control System" >}} Character Card.**
+The ***CEC Tester*** is a small blue device used for controlling animatronics to program. In the early 2000's it would briefly appear on eBay, being sold to an unknown buyer for an unknown price. In 2017 brand new footage of the Kooser Road location would surfacehttps://youtu.be/EdKLsomLbtY, which would provide a glimpse of the device being used at its store. Mike Hatcher is interviewed regarding the control systems behind the animatronics, in which he states, while referring to the device itself, *'What this actually is amounts to is electronic puppeteering, only instead of having strings, you have buttons, switches, and joysticks.',* confirming the device is used to control the animatronics.
+From the layout of the device, and the comment of the Kooser employee, it can be determined that the 8 labeled directions of the 2 joysticks, 8 switches, and 8 buttons all are various ways of controlling a single character, allowing movements to be stuck on, manually pushed on, or dynamically controlled with a joystick. The restriction of 8 movements to a character lines up with the 8 movements given to any given character on a {{< wiki-link "Cyberamic Control System" >}} Character Card.
 
 ### Cyberamic Control System
 
@@ -35,7 +35,7 @@ The system is hooked directly to the {{< wiki-link "Cyberamic Control System" >}
 
 ## Corporate History
 
-Some time in 1980, likely before or during Kooser's upgrade to Cyberamics, the control system was moved to the {{< wiki-link "Pizza Time Theatre Sunnyvale, CA Corporate Office" >}}. By 1981, the ADM-3a would be painted a deep red.
+Some time in 1980, likely before or during Kooser's upgrade to Cyberamics, the control system was moved to the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}. By 1981, the ADM-3a would be painted a deep red.
 The special [TEAC A-2340 Tape Deck](https://en.wikipedia.org/wiki/TASCAM) found in the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} location's {{< wiki-link "Cyberamic Control System" >}} can be seen in the corporate setup, likely meaning the Kooser's Cyberamic Control System was brought to PTT Corporate alongside the SongCode setup, while a standardized Cyberamic Control System was sent alongside the Cyberamic upgrade to the store in 1980.
 
 ### Upgraded Animation Controller
@@ -47,7 +47,7 @@ A metal button and dial are also found outside the embedded controller, it is un
 
 ### PDP 11/23 Upgrade
 
-Though much of the SongCode Control System's life at corporate is unknown, by 1983 its PDP-11 computer would be upgraded to a PDP 11/23, keeping the same architecture while drastically reducing the size.<sup>(1)</sup> A photo of the desk in June of 1983 also shows the red ADM-3a swapped out for a VT-100 variant, suggesting that the system upgrade happened before June.<sup>(2)</sup>
+Though much of the SongCode Control System's life at corporate is unknown, by 1983 its PDP-11 computer would be upgraded to a PDP 11/23, keeping the same architecture while drastically reducing the size.{{< cite 1 >}} A photo of the desk in June of 1983 also shows the red ADM-3a swapped out for a VT-100 variant, suggesting that the system upgrade happened before June.{{< cite 2 >}}
 
 ### Rock-afire Explosion Integration
 
@@ -90,7 +90,7 @@ The first recorded showtape for the {{< wiki-link "Animation Programming System"
 
 - CEC Kids / American Pride
   - The last Cyberamics tape.
-- {{< wiki-link "SPP Rolfe & EarlBday Wave" >}}
+- {{< wiki-link "SPP Rolfe & Earl" >}}
   - The last SPP-produced Rock-afire Explosion Tape.
 - {{< wiki-link "SPP Concept Unification Premiere" >}}
   - The first and last 3-Stage tape.
@@ -100,4 +100,4 @@ The following showtapes were potentially programmed in SongCode, despite being r
 - King '90 I
 - King '90 II
 
-Rock-afire Explosion tapes going forward would be exclusively programmed by Creative Engineering, with the only new segments coming shortly after in the {{< wiki-link "SPP Best Of 1 KidsFriends" >}} and SPP September 1990 Show tapes. Continued tapes would reuse signals from previous shows.
+Rock-afire Explosion tapes going forward would exclusively reuse signals from previous shows through the 'Best of' series.

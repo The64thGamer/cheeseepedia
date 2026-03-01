@@ -2,7 +2,7 @@
 title = "Sponch man"
 draft = false
 tags = ["User"]
-categories = []
+categories = ["User-Generated Content"]
 startDate = "2022-08-25"
 endDate = ""
 contributors = ["Sponch man"]

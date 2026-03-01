@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Corona, CA (191 N McKinley St)"]
 startDate = ""
-description = "The Store's Exterior before receiving the 2005 Update (PC: infogroup)"
 +++
+The Store's Exterior before receiving the 2005 Update (PC: infogroup)

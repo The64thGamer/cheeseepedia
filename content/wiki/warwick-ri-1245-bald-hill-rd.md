@@ -1,46 +1,28 @@
-+++
-title = "Warwick, RI (1245 Bald Hill Rd)"
-draft = false
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
-
-
-startDate = "1990-00-00"
-endDate = ""
-contributors = ["Rexburg090","2600:4040:59F9:8000:30A6:A127:6EBE:EDD","216.125.34.66","CECCheese","184.155.240.31","The 64th Gamer","2600:4040:5A0E:D900:C4C2:B8FA:6051:8D1"]
-citations = []
-latitudeLongitude = ["41.70424272","-71.49431008"]
-+++
-
-***1245 Bald Hill Rd*** was a *Chuck E. Cheese's Pizza* location that opened in Late 1990 with a Rocker Stage. It was located in the Bald Hill Plaza next to the now demolished Lechmere (Which closed when the company went out of business in 1997). This is not to be confused with the {{< wiki-link "Warwick, RI (1960 Post Rd)" >}} location which opened in June 1984 and closed in Late 1990 with the {{< wiki-link "Family Album" >}} Stage. This is also not to be confused with the {{< wiki-link "Warwick, RI (650 Bald Hill Rd)" >}} which opened on March 6th, 2000, and was the first location in New England to open with Studio C; that store is still operation to this day.
++++ 
+cuDate = "" 
+draft = false 
+title = "Warwick, RI (1245 Bald Hill Rd)" 
+startDate = "1990-10-12" 
+endDate = "1994-11-19" 
+pageThumbnailFile = "" 
+contributors = ["Cyber Snout"] 
+citations = ["https://www.newspapers.com/article/journal-transcript-bald-hill-plaza-warw/182122607", "https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4", "https://www.youtube.com/watch?v=FhwsLzUINyU", "https://www.youtube.com/watch?v=txV9nM6Jqe8", "https://www.newspapers.com/article/the-boston-globe-chuck-e-cheese-warwick/103309922/", "http://mechanicaldisplays.com/clients/talkani/TA01.jpg", "https://www.youtube.com/watch?v=HhyeH0Tfdtc", "https://www.facebook.com/marketplace/item/1694667647532361/", "https://www.facebook.com/share/p/1CjY4zJAq4/"] 
+storeNumber = "" 
+sqft = "14,235" 
+attractions = [] 
+animatronics = ["Mr. Munch (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Jasper T. Jowls (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Chuck E. Cheese (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Guest Star / Helen Henny (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo", "Pasqually (Cyberamic)|1990-10-12|1990-11-19|N/A|Owned by East Coast Gaming Expo","Wink (Cyberamic)|1994-00-00|1994-11-19|N/A|Unknown"] 
+franchisees = [] 
+remodels = ["SPT 1980's Remodel Program|1990-10-12"] 
+stages = ["Chuck E.'s House|1990-10-12|1994-00-00", "1-Stage|1994-00-00|1994-11-19"] 
+downloadLinks = [] 
+latitudeLongitude = ["41.70424272","-71.49431008"] 
+tags = ["Locations"] 
+categories = ["Chuck E. Cheese's"] 
++++***1245 Bald Hill Rd*** was a *Chuck E. Cheese's Pizza* located in Bald Hill Plaza and opened on October 12, 1990{{< cite 1 >}} and closed on November 19, 1994{{< cite 2 >}}. It was located in the Bald Hill Plaza
 
 ## History
+### 1990's
+Warwick, RI (1245 Bald Hill Rd) opened on October 12, 1990, as a relocation to the {{< wiki-link "Warwick, RI (1960 Post Rd)" >}} location. The store opened with the {{< wiki-link "SPT 1980's Remodel Program" >}} and {{< wiki-link "Chuck E.'s House" >}}{{< cite 3 >}}. Between 1992 and 1993, Jasper’s original shirt would be replaced with the new cowprint design{{< cite 4 >}}. In 1994, the store would receive the {{< wiki-link "1-Stage" >}} with the turntable. The store would end up closing a few months later, on November 19, 1994. On January 17, 1995, at 10:30 am, the Warwick, RI, Chuck E. Cheese's Pizza would auction off everything inside the store{{< cite 5 >}}.
 
-Warwick opened in the Bald Hill Plaza as a relocation to the {{< wiki-link "Warwick, RI (1960 Post Rd)" >}} location in Late 1990 with a {{< wiki-link "Chuck E's House" >}}. In around 1992/1993, Jasper's shirt would be replaced with the 1992 cowprint shirt. It would remain until sometime in 1994, when the store was remodeled to the 1992 update to the 1994 SPT Repositioning / Remodel Program; it was replaced with a {{< wiki-link "1-Stage" >}} with a Turntable (One of two in New England; the other was in {{< wiki-link "New London, CT (389 N Frontage Rd)" >}}) (it was also possible that the store remained unremodeled and only converted the Chuck E.'s House Facade to a 1-Stage). The 1-Stage would remain for a few months until November 19, 1994, when the store was closed permanently, and everything was auctioned off in January 1995. Shortly after closure, the space was converted into Hometown Buffet; they closed in Early 2012. in Late 2012, it was converted into Hibachi Grill &amp; Supreme Buffet. As of March 2023, Hibachi Grill &amp; Supreme Buffet still remains in the space. Sometime after the show was auctioned off, it was retrofitted into The Travelling Theme Park Band. As of 2023, the show is still The Travelling Theme Park Band and has been restored to operational condition recently.
-
-## Stages
-
-| Stage                                     | Installed      | Removed        | Notes                                                                                                                                |
-|-------------------------------------------|----------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Chuck E's House" >}} | Late 1990      | Early-Mid 1994 | One of the last installed. Animatronics from an unknown Pizza Time Theatre that opened in 1981. One of two installed in New England. |
-| {{< wiki-link "1-Stage" >}}         | Early-Mid 1994 | November 1994  | One of 7 1-Stages in New England; one of two in the region with Turntable.                                                           |
-
-## Animatronics
-
-| Animatronic                                                  | Serial         | Manufactuer Date | Whereabouts  |
-|--------------------------------------------------------------|----------------|------------------|--------------|
-| Chuck E Cheese (Cyberamic)                                   | Unknown        | August 18, 1981  | Retrofitted. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 02-0309, REV B | 1981             | Retrofitted. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown        | 1981             | Retrofitted. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 02-0305, REV B | Fall 1981        | Retrofitted. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown        | 1981             | Retrofitted. |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | N/A            | 1994             | Unknown.     |
-
-## Videos
-
-| Link                                         | Description                                                                          | Filming Date     | Published Date    |
-|----------------------------------------------|--------------------------------------------------------------------------------------|------------------|-------------------|
-| [Link](https://youtu.be/hKGM9Ry4ZnA&t=2885s) | A video showcasing the store, games, and Chuck E.'s House in 1991 (Starts at 48:05). | March/April 1991 | August 26, 2023   |
-| [Link](https://youtu.be/s5SPh1czpGw?t=429)   | A video showcasing the store, games, and Chuck E.'s House in 1994 (Starts at 7:09).  | January 9, 1994  | February 21, 2023 |
-
-TODO
+### 2000's
+ In 2000, the animatronics would be retrofitted by Mechanical Displays, Inc. Chuck E. Cheese was turned into a Hippo, Munch into an Alligator, Helen into a Monkey, Jasper into a Jaguar, and Pasqually into a bear. The lights, 1-Stage props, Munch’s organ, Pasqually’s drum, and the shell for the Munch’s Make Believe Band sign would be reused from the {{< wiki-link "1-Stage" >}}.{{< cite 6 >}}The band would be installed on a trailer{{< cite 7 >}} and travel around the massachusetts area until allegedly 2013. In May 2022, the animatronic show would appear on Facebook Marketplace. It would end up selling for $20k{{< cite 8 >}}, being purchased by the East Coast Gaming Expo being used for various conventions, with the last known usage of it being from February 2023{{< cite 9 >}}. 

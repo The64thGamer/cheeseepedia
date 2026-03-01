@@ -4,6 +4,6 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["New Orleans, LA (3701 General DeGaulle Dr)"]
-startDate = ""
-description = "Exterior, March 2023"
+startDate = "2023-03-00"
 +++
+Exterior

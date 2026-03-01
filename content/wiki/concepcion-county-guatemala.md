@@ -1,10 +1,20 @@
 +++
 title = "Concepcion County, Guatemala"
-draft = false
+storeNumber = ""
+startDate = "2016-11-09"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2016-11-09||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["0","0"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2016-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

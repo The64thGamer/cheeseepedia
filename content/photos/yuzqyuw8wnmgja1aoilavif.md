@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Lake Grove, NY (110 New Moriches Road)"]
 startDate = ""
-description = " Sports Plus Exterior"
 +++
+ Sports Plus Exterior

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Shark Cupcake (CEC Menu Item)"]
 startDate = ""
-description = "Shark Cupcake Ad"
 +++
+Shark Cupcake Ad

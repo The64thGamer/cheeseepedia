@@ -35,6 +35,7 @@ Don't mind them folks, they're just not with it
 **Jasper T. Jowls & Pasqually: (singing)**
 
 Skip de Skip, up the road
+
 Off to school we go
 
 **Jasper T. Jowls: (Singing)**
@@ -65,8 +66,11 @@ Chuck E.
 **Jasper T. Jowls & Pasqually: (Singing)**
 
 Be good, be good, be good
+
 Be good, be good, be good
+
 Be good, be good, be good
+
 Be good
 
 **Chuck E. Cheese:**
@@ -80,8 +84,11 @@ Chuck E.
 **Jasper T. Jowls & Pasqually: (Singing)**
 
 Be good, be good, be good
+
 Be good, be good, be good
+
 Be good, be good, be good
+
 Be good
 
 **Chuck E. Cheese:**
@@ -118,9 +125,13 @@ I knew i was gonna be able to guess it.
 **Helen Henny: (Singing)**
 
 Baby, look at me
+
 And tell me what you see
+
 I can catch the moon in my hands
+
 Don't you know who i am
+
 Remember my name
 
 **The Warblettes: (Singing)**
@@ -130,8 +141,11 @@ Name
 **Helen Henny: (Singing)**
 
 I'm gonna live forever
+
 I'm gonna learn how to fly
+
 I feel it coming together
+
 People will see me and cry
 
 **Chuck E. Cheese:**
@@ -144,6 +158,7 @@ Now this is a tune just made for a group like this bunch, I mean we're talking r
 **Jasper T. Jowls: (Singing)**
 
 Rock that whip
+
 Now when a problem comes along
 
 **All: (Singing)**
@@ -165,6 +180,7 @@ When somethings going wrong
 **All: (Singing)**
 
 You must whip it
+
 Now whip it
 
 **Helen Henny: (Singing)**
@@ -174,6 +190,7 @@ Get in Shape
 **All: (Singing)**
 
 Shape it up
+
 Get Straight
 
 **[Music stops and band "Breaks down"]**
@@ -201,21 +218,33 @@ Man we're gonna rock this town!
 **Mr. Munch: (Singing)**
 
 Well, my baby and me went out late Saturday night
+
 I had my hair piled high and my baby just looked so right
+
 Well, pick you up at ten, gotta have you home at two
+
 Mama don't know what I catched off of you
+
 But that's all right 'cause we're looking as cool as can be
 
 **All: (Singing)**
 
 We're gonna rock this town
+
 Rock it inside out
+
 We're gonna rock this town
+
 Make'em scream and shout
+
 Let's rock, rock, rock, man, rock
+
 We're gonna rock till we pop
+
 We're gonna rock till we drop
+
 We're gonna rock this town
+
 Rock it inside out
 
 **Mr. Munch:**

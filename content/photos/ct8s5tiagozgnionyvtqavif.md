@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Beatles White Album"]
 startDate = ""
-description = "Reel Case Side (Master)"
 +++
+Reel Case Side (Master)

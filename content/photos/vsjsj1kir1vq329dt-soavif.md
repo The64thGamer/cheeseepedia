@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 startDate = ""
-description = "Chuck E's Scrapbooking Collection Ad (Scan, 2005)"
 +++
+Chuck E's Scrapbooking Collection Ad (Scan, 2005)

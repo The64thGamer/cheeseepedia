@@ -3,7 +3,7 @@ title = "7uMjwL2pvOtjLBbfu8_l.avif"
 draft = false
 tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
-pages = ["Pizza Time Theatre Sunnyvale, CA Corporate Office"]
+pages = ["Sunnyvale, CA (1213 Innsbruck Drive)"]
 startDate = ""
-description = "Costume Department, 1983"
 +++
+Costume Department, 1983

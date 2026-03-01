@@ -1,4 +1,5 @@
 +++
+
 title = "Showtape"
 draft = false
 tags = ["Animatronic Preservation"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "09kojeonvev.avif"
 +++
 stored on a DVD, containing over an hour of footage and animatronic signals.]]
 A ***Showtape* is an interchangeable storage medium that holds audio, animation data for an animatronic stage, and sometimes video. The term is also used to describe the entirety of the audio-visual experience seen from a showtape playthrough.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Simi Valley, CA (71 Tierra Rejada Rd)"]
 startDate = ""
-description = "Original character portraits (May 2007)"
 +++
+Original character portraits (May 2007)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Miamisburg, OH (30 Prestige Place)"]
 startDate = ""
-description = "Original Billy Bob Walkaround"
 +++
+Original Billy Bob Walkaround

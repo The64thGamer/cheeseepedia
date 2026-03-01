@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Créteil, France (Av. de la France libre, 94000)"]
 startDate = ""
-description = "Showroom, March 1985"
 +++
+Showroom, March 1985

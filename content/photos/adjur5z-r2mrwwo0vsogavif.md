@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Durham, NC (3724 Mayfair St)"]
 startDate = ""
-description = "The serial number of the Chuck E. cyberamic."
 +++
+The serial number of the Chuck E. cyberamic.

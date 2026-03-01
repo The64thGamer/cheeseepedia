@@ -6,14 +6,14 @@ categories = ["Chuck E. Cheese's"]
 startDate = "2017-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["[https://shop.lrsus.com/collections/guest-paging/products/lrs-guest-pager-note-kit?variant=53442164117](%22https://shop.lrsus.com/collections/guest-paging/products/lrs-guest-pager-note-kit?variant=53442164117%22)"]
+citations = ["https://shop.lrsus.com/collections/guest-paging/products/lrs-guest-pager-note-kit?variant=53442164117"]
 pageThumbnailFile = "bi5dcr6Y9o40_7INe6aW.avif"
 +++
 The ***CEC LRS Order Pager* is a tabletop electronic pager that vibrates to alert customers that their order is ready to pick up. The pager began to be used in Texas stores starting in 2017, before heading to other test markets in 2018, and by 2019 all stores acquired a set.**
 
 ## LRS
 
-The *Long Range Systems LLC Guest Connect Note* is the pager used in the stores, being part of the *LRS Guest Connect Note Paging Kit*<sup>(1)</sup>*,* a package including 15-60 notes (It is unclear currently which count of notes stores received), a transmitter, 2 power supplies, and a lid kit for custom inserts.
+The *Long Range Systems LLC Guest Connect Note* is the pager used in the stores, being part of the *LRS Guest Connect Note Paging Kit*{{< cite 1 >}}*,* a package including 15-60 notes (It is unclear currently which count of notes stores received), a transmitter, 2 power supplies, and a lid kit for custom inserts.
 
 ## Design
 

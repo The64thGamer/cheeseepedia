@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["SPP Best of 4"]
 startDate = ""
-description = ""
+
 +++

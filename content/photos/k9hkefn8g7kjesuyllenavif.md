@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Tampa, FL (14308 Dale Mabry Hwy)"]
 startDate = ""
-description = "Exterior, 2019"
 +++
+Exterior, 2019

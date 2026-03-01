@@ -14,17 +14,17 @@ pageThumbnailFile = "mK42fquRAU7nB_E22tbH.avif"
 
 ## Segment List
 
-1.  **Segment 1**
+1. **Segment 1**
     1.  Mickey
-2.  **Segment 2**
+2. **Segment 2**
     1.  Buddy Holly
-3.  **Segment 3**
+3. **Segment 3**
     1.  Walkin' the Dog
-4.  **Segment 4**
+4. **Segment 4**
     1.  When Will I Be Loved
-5.  **Segment 5**
+5. **Segment 5**
     1.  On The Road Again
-6.  **Segment 6**
+6. **Segment 6**
     1.  Rubber Biscuit
-7.  **Segment 7**
+7. **Segment 7**
     1.  Space Man

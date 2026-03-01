@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Wichita, KS (3223 N Rock Rd)"]
 startDate = ""
-description = "Wichita Helen Cyberamic (June 2013)"
 +++
+Wichita Helen Cyberamic (June 2013)

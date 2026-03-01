@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Jingle Bell Jamboree"]
 startDate = ""
-description = "Show during removal in 2006"
 +++
+Show during removal in 2006

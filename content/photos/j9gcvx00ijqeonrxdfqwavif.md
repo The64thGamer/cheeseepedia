@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Fairfax, VA (9404 Main St)"]
 startDate = ""
-description = "Exterior, 2021"
 +++
+Exterior, 2021

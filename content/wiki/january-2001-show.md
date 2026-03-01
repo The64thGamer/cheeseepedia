@@ -1,35 +1,37 @@
 +++
-title = "January 2001 Show"
 draft = false
+title = "January 2001 Show"
+startDate = "2001-01-00"
+endDate = "2001-03-00"
+pageThumbnailFile = "MmPRs3ORygD_1csev3_k.avif"
+contributors = ["The 64th Gamer", "Ceclife13", "Tux Chuck"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Betty, Voiceover (Wacky Pirates in the Outfield)", "Robert Gotcher|Production Coordinator", "Brian Hagan|Studio Manager", "Brent Gray|Studio Coordinator", "Matt Daniel|Muffin Boy"]
+mediaDuration = "48:41"
+citations = []
+showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
-startDate = "2001-01-00"
-endDate = "0000-00-00"
-contributors = ["The 64th Gamer","Ceclife13","Tux Chuck"]
-citations = []
-pageThumbnailFile = "MmPRs3ORygD_1csev3_k.avif"
-showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS (Pre-93)"]
 +++
-***January 2001 Show* was the first showtape released in 2001.**
+***January 2001 Show*** was the first showtape released in 2001.
 
 ## Show List:
 
 1.  **Segment 1**
-    1.  ['Larger Than Life'](https://en.wikipedia.org/wiki/Larger_than_Life_(song))
+    1.  ['Larger than Life'](https://en.wikipedia.org/wiki/Larger_than_Life_(song))
     2.  ['House of Bamboo'](https://en.wikipedia.org/wiki/The_Essential_Andy_Williams)
 2.  **Intermission 1**
     1.  VeggieTales - 'I Can Be Your Friend.'
     2.  Baking with Betty - 'Trail Mix'
     3.  CEC TV ID - 'Cows'
 3.  **Segment 2**
-    1.  [Little Angel Eyes'](https://en.wikipedia.org/wiki/Pretty_Little_Angel_Eyes'Pretty)
-    2.  ['Ace In The Hole'](https://en.wikipedia.org/wiki/Ace_in_the_Hole_(George_Strait_song))
+    1.  ['PrettyLittle Angel Eyes'](https://en.wikipedia.org/wiki/Pretty_Little_Angel_Eyes)
+    2.  ['Ace in the Hole'](https://en.wikipedia.org/wiki/Ace_in_the_Hole_(George_Strait_song))
 4.  **Intermission 2**
     1.  Eddie Coker - 'One Big Family'
     2.  WFW Babysitter
-    3.  CEC TV ID - 'Rocketship'
+    3.  CEC TV ID - 'Rocket'
 5.  **Segment 3**
-    1.  'Combo #5' (parody of [Mambo No. 5'](https://en.wikipedia.org/wiki/Mambo_No._5#Lou_Bega_version))
+    1.  'Combo #5' (parody of ['Mambo No. 5'](https://en.wikipedia.org/wiki/Mambo_No._5#Lou_Bega_version))
     2.  ['We Got The Beat'](https://en.wikipedia.org/wiki/We_Got_the_Beat)
 6.  **Intermission 3**
     1.  VeggieTales - 'The Water Buffalo Song'
@@ -41,12 +43,12 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS 
 8.  **Intermission 4**
     1.  VeggieTales - 'Endangered Love'
     2.  Vintage Planes
-    3.  CEC TV ID - 'Rocketship'
+    3.  CEC TV ID - 'Rocket'
     4.  Book Your Party Online Promo
 
-## Lives:
+## Live Shows:
 
-**During this time Lives would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Chuck E. Says
 - Chuck E. Shuffle
@@ -66,4 +68,4 @@ showtapeFormats = ["Studio C 3x DVD + Floppy","R12 SVHS (Pre-93)","3-Stage SVHS 
 
 - The Department 18 logo appears in 'Wacky Pirates in The Outfield.'
 - This show's logo reuses clips from various shows released in 1999-2000. This includes 'Hip Mouse' from {{< wiki-link "April 1999" >}}, 'Do Your Ears Hang Low' 'Are You Eating Mr. Munch' 'The Muffin Man' and 'Song of Sixpence' from {{< wiki-link "Just for Kids Show 2000" >}}, 'Pizza Cabana' from {{< wiki-link "Summertime 2000" >}}, and 'Chuck E.' from {{< wiki-link "September 2000 Show" >}}.
-- The Studio C version of the show logo has the Studio C logo. This is edited out in the Existing Stage version though it can still be seen faintly in the background.
+- The Studio C version of the show logo has the Studio C logo. This is edited out in the Existing Stage version, though it can still be seen faintly in the background.

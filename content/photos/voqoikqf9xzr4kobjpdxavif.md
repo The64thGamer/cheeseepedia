@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Ingersoll Rand 15 T Compressor Training Rerelease"]
 startDate = ""
-description = "SVHS Label (Top)"
 +++
+SVHS Label (Top)

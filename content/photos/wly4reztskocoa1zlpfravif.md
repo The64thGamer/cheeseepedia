@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Raleigh, NC (4339 Falls of Neuse Rd)"]
 startDate = ""
-description = "A boy with the Chuck walkaround."
 +++
+A boy with the Chuck walkaround.

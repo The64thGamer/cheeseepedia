@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Sharonville, OH (1429 E Kemper Rd)"]
 startDate = ""
-description = "Two piece of art from the 2005 remodel. (May 4, 2019)"
 +++
+Two piece of art from the 2005 remodel. (May 4, 2019)

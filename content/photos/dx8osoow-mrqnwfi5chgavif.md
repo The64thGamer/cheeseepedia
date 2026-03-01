@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["York, PA (2801 E Market St)"]
 startDate = ""
-description = "Street view of the 2.0 Exterior in August 2019 (PC: Google Maps)"
 +++
+Street view of the 2.0 Exterior in August 2019 (PC: Google Maps)

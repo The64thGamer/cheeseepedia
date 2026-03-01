@@ -1,55 +1,22 @@
 +++
-title = "Phoenix, AZ (8039 North 35th Ave)"
+
+cuDate = "1990-10-00"
 draft = false
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
-
-
+title = "Phoenix, AZ (8039 North 35th Ave)"
 startDate = "1983-10-28"
 endDate = ""
-cuDate = "1990-11-00"
-contributors = ["CECBowlingGreen","ChuckECool","Rileypaulson","Rexburg090","ThatBoiCydalan","Cheeseclassic","SuperCreamPiper2008","Chez"]
-citations = []
-latitudeLongitude = ["33.55307282","-112.1349273"]
+pageThumbnailFile = "5PLToGVLWCjdK3govUE4.avif"
+contributors = ["smileshy22"]
+citations = ["https://www.newspapers.com/article/the-arizona-republic/38959322/", "https://www.youtube.com/watch?v=HpXmYJmwvVE", "https://showbizpizza.com/info/documents/spt/spt_franchisenews30.pdf", "https://www.newspapers.com/article/the-arizona-republic/122527383/", "https://www.youtube.com/watch?v=vw95UE2oUsc", "https://www.newspapers.com/article/the-arizona-republic/125849584/", "https://www.newspapers.com/newspage/122455413/", "https://www.newspapers.com/newspage/122426227/", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=ZHinykONo9zY2m5uQfLvQw", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=h9ciTlQyu2xRu6ZPzYJkqA", "https://www.youtube.com/watch?v=G8G-p7qPXKs", "https://www.youtube.com/watch?v=8ARmC4InFBo", "https://www.yelp.com/biz_photos/chuck-e-cheese-phoenix-2?select=VK43j7GkPs29GDadPHzo5Q", "https://archive.is/20240117020927/https://www.bizjournals.com/phoenix/stories/1999/01/25/focus2.html#selection-1633.0-1633.10", "https://www.restaurantnewsresource.com/article17290.html"]
+storeNumber = "621"
+sqft = ""
+attractions = []
+animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Chuck E. Cheese, then unknown/destroyed", "Dook Larue (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Pasqually, then unknown/destroyed", "Fatz Geronimo (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Mr. Munch, then unknown/destroyed", "Beach Bear (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Jasper T. Jowls, then unknown/destroyed", "Mitzi Mozzeralla (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Helen Henny, then unknown/destroyed", "Billy Bob (Animatronic)|1983-10-28|1990-10-00|unknown|dismantled during cleanout", "Looney Bird (Animatronic)|1983-10-28|2000s-00-00|unknown|converted to Pizzacam, then unknown/destroyed", "Choo Choo (Animatronic)|1983-10-28|200s-00-00|unknown|converted to Munch Jr., then unknown/destroyed", "Sun (Animatronic)|1983-10-28|2000s-00-00|unknown|converted to Building, then unknown/destroyed", "Moon (Animatronic)|1983-10-28|2000s-00-00|unknown|left alone, then unknown/destroyed", "Antioch (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Wink, then unknown/destroyed"]
+franchisees = ["Mark Scurr (c14)|1987-00-00|0000-00-00", "Melvin Entertainment (c15)|2006-00-00|0000-00-00"]
+remodels = ["SPT 1980's Remodel Program|1990-10-00", "Phase 2 (1993)|1996-00-00", "CEC 2000's Remodel Program|0000-00-00", "CEC 2.0 Remodel Program|2022-12-29"]
+stages = ["Classic Stage|1983-10-28|1990-10-00", "Concept Unification Stage|1990-11-00|2023-12-28|One of 2 3-Stages in Arizona to undergo Concept Unification. Oldest CU 3-Stage conversion show in operation from summer 2001 until being removed between late 2022 and early 2023. Last 3-Stage in Arizona from 1998 until stage removal between late 2022/early 2023. Last 3-Stage with early CU backgrounds. Was in decent condition. Chuck had rare 'Cool Chuck' outfit, stage lacked Munch's Make Believe Band Sign for some time, and Wink had the 'In Pizza We Trust' slogan.|"]
+downloadLinks = []
+latitudeLongitude = ["33.55307282", "-112.1349273"]
+tags = ["Locations"]
+categories = ["ShowBiz Pizza Place", "Chuck E. Cheese's"]
 +++
-
-***Phoenix, AZ (8039 North 35th Ave)*** ***Store #621*** was a ShowBiz Pizza Place that opened on October 28, 1983 with a Rock-Afire Explosion, which is still open to this day. This location is notable for the many fake fnaf cec videos on youtube. This location received {{< wiki-link "Concept Unification" >}} in November 1990 and removed their stage in late December 2022.
-
-## History
-
-Phoenix was the first ShowBiz Pizza Place opened in the state of Arizona, opening on October 28, 1983. There were a total of 3 ShowBiz locations opened in Arizona, which included Phoenix, Yuma (which closed between 1984 and 1986), and West Mesa (which closed in 2015 with a Studio C Alpha). Phoenix would originally feature the Rock-Afire Explosion from when they opened until November of 1990, when they would convert to a 3-Stage, they were the 5th 3-Stage installed. They would remodel to the 1993 Remodel sometime in the mid 90's (possibly around the time they got CU), which they would have for a bit, then would remodel to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|2005 Remodel sometime around 2006/2007, remaining that way until in December 2022, when they would receive the 2.0 remodel. The store would then host its grand reopening on March 8th, 2023, with appearances from Chuck E and Jasper.
-
-## Stages
-
-Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations did. They would have the RAE for a bit until November of 1990, when they would undergo Concept Unification, they were actually the 2nd ShowBiz to undergo CU, which involved turning the RAE into the Chuck E. Cheese characters. The showtape they first played, other than the CU Premiere, was the CEC September 1990 Show. As of October 2022, they still had the 3-Stage, which was the oldest 3-Stage, as all the ones before it either closed or replaced it with another stage. Their 3-Stage had many different things than all other 3-Stages, with the buildings being different, as well as the 'Pasqually's Amateur Hour' brick wall being different. The stage was in decent condition, with Chuck E. wearing the Rockstar shirt and Cool Chuck shorts, and Pasqually wearing Jasper shoes, Jasper formerly wore Pasqually's shoes, but were switched sometime in the late 2010's. Jasper also originally had Billy Bob's guitar, but switched to the Flying Cheese guitar. The Building, Moon, Munch Jr., and Pizzacam animatronics were removed between the 90's and 2000's, leaving the Wink to be the only character other than the main 5 to be left. The Wink had the 'In Pizza We Trust' phrase uncovered, which was one of the last that still had it uncovered. In December 2023, Phoenix removed their 3-Stage for a 2021 Model Dance Floor. The speakers from the 3-stage still remain to this day, despite the location being a 2.0.
-
-| Stage                                                                                             | Installed     | Removed       | Notes                                       |
-|---------------------------------------------------------------------------------------------------|---------------|---------------|---------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                                                           | October 1983  | November 1990 | One of three ShowBiz locations in Arizona.  |
-| {{< wiki-link "Concept Unification Stage" >}}                                               | November 1990 | January 2023  | Oldest 3-Stage from 2001 until 2.0 remodel. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | January 2023  | Still In Use  | 2021 Model. First 2.0 in Arizona.           |
-
-## Animatronics
-
-| Animatronic                     | Serial Code | Whereabouts      |
-|---------------------------------|-------------|------------------|
-| Chuck E. Cheese / Rolfe DeWolfe | 10-82 1-36  | Removed, Unknown |
-| Pasqually / Dook Larue          | 10-82 2-36  | Removed, Unknown |
-| Mr. Munch / Fatz Geronimo       | 10-82 3-36  | Removed, Unknown |
-| Jasper T. Jowls / Beach Bear    | 10-82 4-36  | Removed, Unknown |
-| Helen Henny / Mitzi Mozzarella  | 10-82 5-36  | Removed, Unknown |
-| Billy Bob                       | 10-82 6-36  | Removed, Unknown |
-| Pizzacam / Looney Bird          | 10-82 7-36  | Removed, Unknown |
-| Munch Jr. / Choo Choo           | 10-82 8-36  | Removed, Unknown |
-| Building / Sun                  | 10-82 10-36 | Removed, Unknown |
-| Moon                            | 10-82 11-36 | Removed, Unknown |
-| Wink                            | N/A         | Removed, Unknown |
-| Antioch                         | N/A         | Removed, Unknown |
-
-## Videos
-
-| Link                         | Video Title                           | Published Date / Filming Date | Credit To        |
-|------------------------------|---------------------------------------|-------------------------------|------------------|
-| https://youtu.be/yddIdSKmUMg | Phoenix Arizona 3-Stage Down The Road | August 8, 2022                | Hurricane Jeremy |
-|                              |                                       |                               |                  |
-|                              |                                       |                               |                  |

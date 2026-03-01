@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["The Beagles / Beach Bowzers (Lounge)"]
 startDate = ""
-description = "''The Beagles'' wearing white shirts and caps instead of the usual red."
 +++
+''The Beagles'' wearing white shirts and caps instead of the usual red.

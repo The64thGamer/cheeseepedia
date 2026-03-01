@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["May 2011 Show"]
 startDate = ""
-description = "Filming 'Walk the Dinosaur' at MPS Studios"
 +++
+Filming 'Walk the Dinosaur' at MPS Studios

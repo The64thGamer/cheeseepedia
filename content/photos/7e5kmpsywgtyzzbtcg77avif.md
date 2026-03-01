@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Applause Board (Cyberamic)"]
 startDate = ""
-description = "[[Waterbury, CT (983 Wolcott St)"
 +++
+[[Waterbury, CT (983 Wolcott St)

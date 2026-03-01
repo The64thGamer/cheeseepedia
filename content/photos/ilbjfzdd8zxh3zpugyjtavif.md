@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Newington, NH (30 Fox Run Rd)"]
 startDate = ""
-description = "Exterior, 2002 (PC: showbizpizza.com)"
 +++
+Exterior, 2002 (PC: showbizpizza.com)

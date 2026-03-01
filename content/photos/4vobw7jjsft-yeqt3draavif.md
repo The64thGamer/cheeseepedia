@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Winchester Chuck E. Cheese V2 (Animatronic)","Winchester PTT Show"]
 startDate = ""
-description = "Chuck E. upon arrival in Travis Schafer's collection, 2012"
 +++
+Chuck E. upon arrival in Travis Schafer's collection, 2012

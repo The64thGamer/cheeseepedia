@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["CEC 2.0 Remodel Program"]
 startDate = ""
-description = "Dining area - San Antonio (2017)"
 +++
+Dining area - San Antonio (2017)

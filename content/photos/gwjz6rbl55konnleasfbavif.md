@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Four Little Shavers (Ice Cream Emporium)"]
 startDate = ""
-description = "The aforementioned location with the black and blue backdrop, with Nolan moved to the right."
 +++
+The aforementioned location with the black and blue backdrop, with Nolan moved to the right.

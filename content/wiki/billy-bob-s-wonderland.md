@@ -1,12 +1,14 @@
 +++
+
 title = "Billy Bob's Wonderland"
 draft = false
-tags = ["Restaurants/FECs"]
+tags = ["Companies/Brands"]
 categories = ["Creative Engineering"]
 startDate = ""
 endDate = ""
-contributors = ["Saan1ty","The 64th Gamer","2600:4040:5A0C:5900:7CC4:6BF1:60E3:48C3","Stripes","2600:4040:5A0E:D900:C050:277C:FA95:3797","Midwestretail","Rexburg090","Emcaacme","Totalrockafirenerd","Livelycheese"]
+contributors = ["Saan1ty","The 64th Gamer","Anonymous","Stripes","Anonymous","Midwestretail","Rexburg090","Emcaacme","Totalrockafirenerd","Livelycheese"]
 citations = []
+pageThumbnailFile = "Px8qWWk0Q3ZiiHY7xvvL.avif"
 +++
 ***Billy Bob's Wonderland* is a long-running, well-known FEC chain owned by Mark Hoffman with its only currently remaining location at {{< wiki-link "Barboursville, WV (5 Cracker Barrel Dr)" >}}.
 The remaining store is noted for being one of the last public places in the US and the world to view the {{< wiki-link "Classic Stage" >}}, in addition to having a perpetual license for the characters - this being how they are able to use the Billy Bob character name and design in their branding.**

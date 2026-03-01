@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Wolfman Show"]
 startDate = ""
-description = "Jacksonville Plans, Platform Top View (March 28, 1980)"
 +++
+Jacksonville Plans, Platform Top View (March 28, 1980)

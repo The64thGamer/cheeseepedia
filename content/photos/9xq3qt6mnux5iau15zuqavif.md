@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Houston, TX (2220 FM 1960)"]
 startDate = ""
-description = "The store's exterior as of August 1st, 2022."
 +++
+The store's exterior as of August 1st, 2022.

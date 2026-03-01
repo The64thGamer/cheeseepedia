@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Grandma Bear (Animatronic)"]
 startDate = ""
-description = "Claws"
 +++
+Claws

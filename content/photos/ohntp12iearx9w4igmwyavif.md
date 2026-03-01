@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Pumpkin Festival Mr. Munch (Mr. Munch Retrofit)"]
 startDate = ""
-description = "Head mech of Pumpkin Festival Munch (2019)"
 +++
+Head mech of Pumpkin Festival Munch (2019)

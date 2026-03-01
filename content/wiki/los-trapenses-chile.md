@@ -1,13 +1,20 @@
 +++
-draft = false
-title = "Los Trapenses, Chile"
-startDate = "2014-00-00"
+title = "Lo Barnechea, RM, Chile (Av. José Alcalde Délano 10533, Local 2000) (Mall Vivo Los Trapenses)"
+storeNumber = ""
+startDate = "2014-12-13"
 endDate = ""
+cuDate = ""
+remodels = []
+stages = []
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["-33.355193", "-70.534608"]
+citations = []
+contributors = []
+downloadLinks = []
 pageThumbnailFile = ""
-contributors = ["Paskkkk"]
-citations = ["https://www.chuckecheese.cl/locales-y-horarios/"]
-latitudeLongitude = ["-33.35704720420913, -70.53986738310077"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
+draft = false
 +++
-**Av. José Alcalde Délano 10.533 Local 2.000** is a Chuck E. Cheese's that opened on December 13th 2014 and is still open to this day with a 16M Circles of Light.

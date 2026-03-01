@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Rock-afire Explosion Record 1 (1981)"]
 startDate = ""
-description = "'Happy Birthday' Side B Scan"
 +++
+'Happy Birthday' Side B Scan

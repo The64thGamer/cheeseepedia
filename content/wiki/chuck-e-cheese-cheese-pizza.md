@@ -9,7 +9,7 @@ contributors = ["CECBowlingGreen","Newbie editor"]
 citations = []
 +++
 **Chuck E. Cheese Cheese Pizza** is a frozen pizza sold at Kroger starting in July 2021.
-It is manufactured by Flatlander Foods. There is also a {{< wiki-link "Chuck E Cheese Pepperoni Pizza" >}} variant.
+It is manufactured by Flatlander Foods. There is also a {{< wiki-link "Chuck E. Cheese Pepperoni Pizza" >}} variant.
 Every pizza comes with a code for 250 free E-Tickets at any participating CEC location
 
 ## Nutrition Facts

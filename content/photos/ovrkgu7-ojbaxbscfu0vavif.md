@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Jingle Bell Jamboree"]
 startDate = ""
-description = "Center Stage 1977"
 +++
+Center Stage 1977

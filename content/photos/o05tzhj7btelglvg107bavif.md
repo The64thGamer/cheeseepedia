@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Moonrockers"]
 startDate = ""
-description = "Ozone in 2005"
 +++
+Ozone in 2005

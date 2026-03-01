@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Gulliver's World Stage"]
 startDate = ""
-description = "Frog prop when found on 2024/05/24"
 +++
+Frog prop when found on 2024/05/24

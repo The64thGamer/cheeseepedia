@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Edina, MN (7505 France Ave S)"]
 startDate = ""
-description = "Staircase view from March of 2019"
 +++
+Staircase view from March of 2019

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Bellevue, WA (2239 148th Ave)"]
 startDate = ""
-description = "A photo of Bellevue before receiving the 2005 remodel."
 +++
+A photo of Bellevue before receiving the 2005 remodel.

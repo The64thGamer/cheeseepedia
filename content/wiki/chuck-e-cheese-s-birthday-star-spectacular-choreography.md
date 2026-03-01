@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese's Birthday Star Spectacular Choreography"
 draft = false
 tags = ["Company Media"]
@@ -7,4 +8,5 @@ startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "Hhhhhhhhjg.avif"
 +++

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
-description = "Fingers Dan (CEI, 1978)"
 +++
+Fingers Dan (CEI, 1978)

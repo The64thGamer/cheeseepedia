@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Bowling (Magazine)"]
 startDate = ""
-description = "Top Left Text"
 +++
+Top Left Text

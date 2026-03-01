@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Anchorage, AK (308 E Northern Lights Blvd)"]
 startDate = ""
-description = "Anchorage's exterior as of today. (September 2022)"
 +++
+Anchorage's exterior as of today. (September 2022)

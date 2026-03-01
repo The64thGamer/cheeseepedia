@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Altoona, PA (3415 Pleasant Valley Blvd)"]
 startDate = ""
-description = "The location's exterior on July 17, 2022."
 +++
+The location's exterior on July 17, 2022.

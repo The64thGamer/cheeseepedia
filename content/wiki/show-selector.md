@@ -1,4 +1,5 @@
 +++
+
 title = "Show Selector"
 draft = false
 tags = ["Animatronic Control Systems"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["Monsterwaill"]
 citations = []
+pageThumbnailFile = "wSeHN9K86oM4n7BSF0YG.avif"
 +++
 The Show Selector was a device used to easily select a show for the Rockafire Explosion to play. This was a device used in the later years of the Rock-Afire Explosion and as such was not be present in ShowBiz Pizza Place restaurants, but was present in many others such as Pistol Pete's and Looney Birds.
 Most of the remaining show selectors are in private collections, with the only exception being Billy Bob's Wonderland having one mounted on the wall, but a few can still be found in Creative Engineering's warehouse.

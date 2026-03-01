@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Bowling (Magazine)"]
 startDate = ""
-description = "Horizontal Measurement"
 +++
+Horizontal Measurement

@@ -2,8 +2,8 @@
 title = "KjARgZ2FxdlvSEe6cNmc.avif"
 draft = false
 tags = ["Photos"]
-categories = ["Disney Parks"]
+categories = ["Walt Disney Imagineering"]
 pages = ["DACS"]
 startDate = ""
-description = "The portable DACS controller being used for Country Bear Jamboree"
 +++
+The portable DACS controller being used for Country Bear Jamboree

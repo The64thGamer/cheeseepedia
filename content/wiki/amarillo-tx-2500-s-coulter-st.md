@@ -1,10 +1,20 @@
 +++
 title = "Amarillo, TX (2500 S Coulter St)"
-draft = false
+storeNumber = ""
+startDate = "1994-07-04"
+endDate = "2025-04-27"
+cuDate = ""
+remodels = []
+stages = ["1-Stage|1994-07-04|2025-04-27|1-Stage.|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["35.1858266","-101.9226559"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "1994-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

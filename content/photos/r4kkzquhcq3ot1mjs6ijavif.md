@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Barboursville, WV (5 Cracker Barrel Dr)"]
 startDate = ""
-description = "Billy Bob and Looney Bird in November 2022"
 +++
+Billy Bob and Looney Bird in November 2022

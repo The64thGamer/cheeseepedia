@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Articulated Helen Walkaround"]
 startDate = ""
-description = "Helen with sequin dress"
 +++
+Helen with sequin dress

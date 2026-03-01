@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
-description = "Brian Schultz posing with the latest version of Wilbur"
 +++
+Brian Schultz posing with the latest version of Wilbur

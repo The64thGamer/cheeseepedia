@@ -1,10 +1,20 @@
 +++
 title = "Milpitas, CA (346 S Abel St)"
-draft = false
+storeNumber = ""
+startDate = "1981-05-00"
+endDate = "1985-02-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1981-05-00|1985-02-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["37.4259507","-121.9077158"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-pageThumbnailFile = ""
-startDate = "1981-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

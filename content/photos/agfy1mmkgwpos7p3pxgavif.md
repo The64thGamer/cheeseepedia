@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Honolulu, HI (820 W Hind Dr)"]
 startDate = ""
-description = "Neon sign salvaged from the 3-Stage"
 +++
+Neon sign salvaged from the 3-Stage

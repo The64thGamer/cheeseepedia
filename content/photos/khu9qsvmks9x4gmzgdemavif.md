@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Edina, MN (7505 France Ave S)"]
 startDate = ""
-description = "Exterior during nighttime in June of 2018"
 +++
+Exterior during nighttime in June of 2018

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Smartee's Pizza Brigade"]
 startDate = ""
-description = "Smartee's Token"
 +++
+Smartee's Token

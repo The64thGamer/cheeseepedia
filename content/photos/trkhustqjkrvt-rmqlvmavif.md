@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Pearl City, HI (850 Kamehameha Hwy Suite 140)"]
 startDate = ""
-description = "Exterior, May 2023 (PC: Paradise Walker)"
 +++
+Exterior, May 2023 (PC: Paradise Walker)

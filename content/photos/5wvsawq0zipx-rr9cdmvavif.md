@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Madison, WI (438 Grand Canyon Dr)"]
 startDate = ""
-description = "Exterior, August 2022"
 +++
+Exterior, August 2022

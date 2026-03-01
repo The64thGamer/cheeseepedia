@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Birmingham, AL (500 Old Town Rd)"]
 startDate = ""
-description = "Birmingham's exterior before their 2015 remodel."
 +++
+Birmingham's exterior before their 2015 remodel.

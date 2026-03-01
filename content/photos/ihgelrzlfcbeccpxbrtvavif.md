@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["Friendly Freddy (Animatronic)"]
 startDate = ""
-description = " Freddy at Magic World Kid's Park (1977)"
 +++
+ Freddy at Magic World Kid's Park (1977)

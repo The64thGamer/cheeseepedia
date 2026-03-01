@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Articulated Chuck Walkaround"]
 startDate = ""
-description = "Chuck E. seen with a tuxedo at the end of the AAM show"
 +++
+Chuck E. seen with a tuxedo at the end of the AAM show

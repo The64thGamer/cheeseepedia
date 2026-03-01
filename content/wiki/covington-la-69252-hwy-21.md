@@ -1,10 +1,20 @@
 +++
 title = "Covington, LA (69252 Hwy 21)"
-draft = false
+storeNumber = ""
+startDate = "2012-05-29"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Studio C Beta|2012-05-29|0000-00-00|", "Chuck E. Live Stage (Dance Floor)|2023-03-00||2021 Model|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["30.4587671","-90.1302191"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2012-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

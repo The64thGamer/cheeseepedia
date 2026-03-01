@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place","Creative Engineering"]
 pages = ["Uncle Klunk Showtape"]
 startDate = "2024-10-15"
-description = "Now Appearing insert for the Uncle Klunk Showtape"
 +++
+Now Appearing insert for the Uncle Klunk Showtape

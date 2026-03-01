@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
 startDate = ""
-description = "Your Kid's the Star Ad (2008)"
 +++
+Your Kid's the Star Ad (2008)

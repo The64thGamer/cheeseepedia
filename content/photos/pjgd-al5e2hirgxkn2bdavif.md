@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Corona, CA (191 N McKinley St)"]
 startDate = ""
-description = "The Store's Road Stage as of January 23rd, 2023 (PC: Ti Ti)"
 +++
+The Store's Road Stage as of January 23rd, 2023 (PC: Ti Ti)

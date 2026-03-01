@@ -1,10 +1,20 @@
 +++
 title = "Mall del Sur, Peru"
-draft = false
+storeNumber = ""
+startDate = "2019-08-10"
+endDate = "2025-08-31"
+cuDate = ""
+remodels = []
+stages = ["Chuck E. Live Stage (Dance Floor)|2019-08-10|2025-08-31|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["-12.1548720","-76.9822692"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2019-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

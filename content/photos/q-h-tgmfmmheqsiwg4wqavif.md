@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["PTT Token 101 (gB,Bz, N)"]
 startDate = ""
-description = "Glint Bronze"
 +++
+Glint Bronze

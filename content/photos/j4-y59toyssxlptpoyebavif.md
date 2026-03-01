@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Paramus, NJ (221 South Dr)"]
 startDate = ""
-description = "MMBB Sign (2007)"
 +++
+MMBB Sign (2007)

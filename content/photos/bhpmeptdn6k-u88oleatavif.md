@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Edina, MN (7505 France Ave S)"]
 startDate = ""
-description = "Original SkyTubes reused from Circus Pizza (later removed)"
 +++
+Original SkyTubes reused from Circus Pizza (later removed)

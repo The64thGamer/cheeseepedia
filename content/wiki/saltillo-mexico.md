@@ -1,10 +1,20 @@
 +++
 title = "Saltillo, Mexico"
-draft = false
+storeNumber = ""
+startDate = "2016-06-27"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2016-06-27||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["25.4230425","-100.9927509"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2016-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

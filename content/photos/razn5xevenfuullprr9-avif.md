@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Circus Tape"]
 startDate = ""
-description = "Showtape Case Side"
 +++
+Showtape Case Side

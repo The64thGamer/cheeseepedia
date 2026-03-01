@@ -1,10 +1,20 @@
 +++
 title = "Al Madina/Medina, Saudi Arabia"
-draft = false
+storeNumber = ""
+startDate = "2018-03-19"
+endDate = ""
+cuDate = ""
+remodels = []
+stages = ["Circles of Light|2018-03-19||"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["24.4672132","39.6024496"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "2018-00-00"
-endDate = ""
-contributors = []
+draft = false
 +++

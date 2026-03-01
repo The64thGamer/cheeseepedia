@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Small Chuck E. Plush (1992)"]
 startDate = ""
-description = "Plush Back"
 +++
+Plush Back

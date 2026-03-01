@@ -2,8 +2,8 @@
 title = "q57yUT29K6hf4KZe_UHf.avif"
 draft = false
 tags = ["Photos"]
-categories = ["Disney Parks"]
+categories = ["Walt Disney Imagineering"]
 pages = ["DACS"]
 startDate = ""
-description = "DACS Central at Magic Kingdom, 1976"
 +++
+DACS Central at Magic Kingdom, 1976

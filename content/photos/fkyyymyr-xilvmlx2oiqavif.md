@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["CEC 2000's Remodel Program"]
 startDate = ""
-description = "Grapevine, TX's remodeled exterior"
 +++
+Grapevine, TX's remodeled exterior

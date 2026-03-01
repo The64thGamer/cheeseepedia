@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Layton, UT (450 North Main St)"]
 startDate = ""
-description = "Chuck E Animatronic"
 +++
+Chuck E Animatronic

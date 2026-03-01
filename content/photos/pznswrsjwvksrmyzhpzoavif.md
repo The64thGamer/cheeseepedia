@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamics Reel"]
 startDate = ""
-description = "PTT Reel on a Tape Deck"
 +++
+PTT Reel on a Tape Deck

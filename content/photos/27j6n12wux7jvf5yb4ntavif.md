@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["1993 Cheese Z Top (CD Award)"]
 startDate = ""
-description = "Cheese Z Top at the I-Drive Orlando Store (Picture taken by Segatendo) "
 +++
+Cheese Z Top at the I-Drive Orlando Store (Picture taken by Segatendo) 

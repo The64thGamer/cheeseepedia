@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Magical Monkey Show Proscenium above the marquee of the Golden Palace Theater."
 +++
+Magical Monkey Show Proscenium above the marquee of the Golden Palace Theater.

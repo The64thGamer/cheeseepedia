@@ -1,4 +1,5 @@
 +++
+
 title = "Chuck E. Cheese Website"
 draft = false
 tags = ["Social Media and Websites"]
@@ -7,6 +8,7 @@ startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","BurgersNuggs445"]
 citations = []
+pageThumbnailFile = "SkyGO9iqMpnC3OnoAL7B.avif"
 +++
 [***chuckecheese.com*, also known originally as ***Chuck E.'s Fun Net,* would be the company's first website and online presence, created on February 2, 1996.****](https://www.chuckecheese.com/)
 

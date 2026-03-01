@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Rick Rat Walkaround"]
 startDate = ""
-description = "Crystal's Pizza & Spaghetti Rat Costume, 'Wile E. Coyote' (1981)"
 +++
+Crystal's Pizza & Spaghetti Rat Costume, 'Wile E. Coyote' (1981)

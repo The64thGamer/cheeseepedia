@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Spartanburg, SC (660 Spartan Blvd Suite 250)"]
 startDate = ""
-description = "Exterior on June 22, 2022. (PC: Flickr)"
 +++
+Exterior on June 22, 2022. (PC: Flickr)

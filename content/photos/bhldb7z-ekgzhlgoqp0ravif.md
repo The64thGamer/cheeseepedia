@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["San Salvador, ES (503 Carretera Panamericana)"]
 startDate = ""
-description = "San Salvador, ES' exterior in 2022."
 +++
+San Salvador, ES' exterior in 2022.

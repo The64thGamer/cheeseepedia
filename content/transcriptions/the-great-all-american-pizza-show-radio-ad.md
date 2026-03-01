@@ -9,7 +9,7 @@ Pizza Time Theatre presents the most incredible pizza place in the world!
 
 **Chuck E. Cheese: (Singing)**
 
-Ok people here we go to the great all american pizza show. Your MC is Chuck E. Cheese, I’m better known as “The Big-C”! I’ll be there with all my pals, like Mr. Munch and Jasper Jowls! 
+Ok people here we go to the great all american pizza show. Your MC is Chuck E. Cheese, I’m better known as "The Big-C"! I’ll be there with all my pals, like Mr. Munch and Jasper Jowls! 
 
 **Narrator:**
 

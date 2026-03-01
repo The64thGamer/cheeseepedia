@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["The Dragon (Earl Retrofit)"]
 startDate = ""
-description = "The Dragon with the Wireframe and Mechanical edits on display"
 +++
+The Dragon with the Wireframe and Mechanical edits on display

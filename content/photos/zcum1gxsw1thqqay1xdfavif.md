@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9)"]
 startDate = ""
-description = "Chuck E. Cheese Walk-Around inside of the showroom (December 29, 2015)"
 +++
+Chuck E. Cheese Walk-Around inside of the showroom (December 29, 2015)

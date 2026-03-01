@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
-description = "Hellendoorn Drunken Bear & Bonvivant Monkey"
 +++
+Hellendoorn Drunken Bear & Bonvivant Monkey

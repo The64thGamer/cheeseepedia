@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Unknown Manufacturers"]
 pages = ["Smartee's Pizza Brigade"]
 startDate = ""
-description = "Concept art of Howlee Wolf"
 +++
+Concept art of Howlee Wolf

@@ -4,7 +4,6 @@ tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
 **[Bandstand Jingle]**  
-
   
 **The Warblettes: (Singing)**  
 
@@ -20,12 +19,14 @@ Alright! I always wanted to hear about your past Big C.
   
 **[Song: Those Oldies but Goodies]**  
 
-  
 **Pasqually: (Singing)**  
 
 Those oldies but goodies reminds me of you  
+
 The songs of the past bring back memories of you  
+
 Forever they will haunt me but what can I do?  
+
 Those oldies but goodies reminds me of you  
   
 **Pasqually:**  
@@ -50,7 +51,6 @@ Coming up right here on Chuck E's bandstand, sorry munch we'll do mellow a littl
   
 **[Song: At the Hop]**  
 
-  
 **The Warblettes: (Singing)**  
 
 At the hop  
@@ -58,22 +58,25 @@ At the hop
 **All: (singing)**  
 
 Let's go to the hop  
+
 Let's go to the hop  
+
 Let's go to the hop  
+
 Let's go to the hop  
   
 **Helen Henny: (Singing)**  
 
 bawk,bawk,bawk,bawk,bawk,bawk,bawk  
+
 bawk,bawk,bawk,bawk,bawk,bawk,bawk  
-  
+
 **All: (Singing)**  
 
 Let's go to the hop  
 
 **[Song: I'm Walkin']**
 
-  
 **Mr. Munch: (Singing)**  
 
 I'm walkin', yes, indeed  
@@ -92,17 +95,16 @@ Yeah but he's only got the fat part right.
   
 **[Jasper cackles]**  
 
-  
 **Mr. Munch: (Singing)**  
 
 I'm hopin' that you'll come back to me  
   
 **[Song: Get a Job]**
 
-
 **All: (Singing)**  
 
 yip-yip-yip-yip-yip-yip-yip-yip  
+
 Mum-mum-mum-mum-mum-mum  
   
 **Mr. Munch: (Singing)**  
@@ -144,6 +146,7 @@ Sha-na-na-na, sha-na-na-na-na
 **All: (Singing)**  
 
 yip-yip-yip-yip-yip-yip-yip-yip 
+
 Mum-mum-mum-mum-mum-mum 
  
 **Chuck E. Cheese:**
@@ -155,7 +158,6 @@ Yip yip yip, I understand now, it's very clear to me. I know it's a yip yip yip 
 Sha-na-na-na, sha-na-na-na-na  
 
 **[Song: Sh-boom]**
-
 
 **Helen Henny & The Warblettes: (Singing)**
 
@@ -207,8 +209,11 @@ Hello, hello again, sh-boom and hopin' we'll meet again
 **All: (Singing)**
 
 Sh-boom sh-boom la di da da da da da da da 
+
 Sh-boom sh-boom la di da da da da da da da 
+
 Sh-boom sh-boom la di da da da da da da da 
+
 Sh-boom sh-boom hello again, here's hopin' we'll meet again sh-boom
 
 **Mr. Munch: (Singing)**
@@ -224,4 +229,3 @@ ok folks now that we've got the beat, you's mellow out and stick around, there's
 Sh-boom
 
 **[Clapping as music fades]**
-

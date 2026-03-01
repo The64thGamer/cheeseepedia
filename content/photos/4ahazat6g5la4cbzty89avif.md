@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Cyberamics Balcony Stage"]
 startDate = ""
-description = "A Balcony Stage with the 'Wild West' Theme"
 +++
+A Balcony Stage with the 'Wild West' Theme

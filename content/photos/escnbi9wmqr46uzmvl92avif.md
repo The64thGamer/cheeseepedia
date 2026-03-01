@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Celebration Station"]
 pages = ["Pineville, NC (10400 Cadillac St)"]
 startDate = ""
-description = "Pineville DATDD Backdrops (April 18th, 2019)"
 +++
+Pineville DATDD Backdrops (April 18th, 2019)

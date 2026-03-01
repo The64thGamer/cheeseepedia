@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Waco, TX (5106 West Waco Dr)"]
 startDate = ""
-description = "Arcade (July 24, 2005)"
 +++
+Arcade (July 24, 2005)

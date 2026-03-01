@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Standard: Store Page"]
 startDate = ""
-description = "2011"
 +++
+2011

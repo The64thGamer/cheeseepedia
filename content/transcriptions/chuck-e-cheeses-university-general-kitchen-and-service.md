@@ -1,5 +1,5 @@
 +++
-title = "Chuck E Cheeses University General Kitchen and Service"
+title = "Chuck E. Cheeses University General Kitchen and Service"
 tags = ["Transcriptions"]
 contributors = ["Luigigamin212"]
 +++
@@ -45,7 +45,7 @@ What was that?
 
 Kitchen general is not only important to ensure cleanliness and sanitation, but employee safety as well.
 
-**Chuck E Cheese: (Voiceover)**
+**Chuck E. Cheese: (Voiceover)**
 
 In kitchen general you also have many responsibilities. Beginning and ending each shift with a clean kitchen is extremely important. Make sure all areas are completely clean and sanitized. All stainless steel must be wiped down, including the pizza make table. Sweep the floors, making sure you move large items and sweep behind them thoroughly. Also pay special attention to cleaning the base boards. For mopping the floors, begin by making a soap mix. While mopping, always be thorough and use caution on the wet floors. Setting up the make table may be your responsibility, be sure you know the correct procedure. Always make sure the can opener is clean and in good working order. Organizing the dish area will keep your kitchen clean and running smoothly. Fill the first sink with hot detergent solution. Fill the second sink with warm rinse water and the third sink with cold sanitizer solution. Clean the dishes thoroughly in the three compartment sink, then place them on the dish rack and run them through the dish washer. In kitchen general you will be exposed to a variety of new utensil items, be sure you know the proper uses and cleaning of each. Proper inventory control is essential to ensure that quality and freshness are maintained. Labeling of shelves will make inventory control and recording easier and more efficient. A specific area for each item makes location easy. After all food orders are received, date each item. Place on appropriately labeled shelf in the following order: new to the back, old to the front. New to the bottom, old to the top. These procedures apply to the walk-in area as well. You may be asked to change out the soda syrup, this is done by disengaging the tube from the empty container and attaching it to the full one. For pan cleaning, thoroughly scrub all pizza pans in a detergent solution using a green scouring pad. Rinse thoroughly and place in the dishwasher as necessary. Teamwork is a big part of working in the kitchen. Always be available to give your fellow employee a hand with any difficult tasks. For kitchen and service general you will have many responsibilities! You’ve now been shown an overview of the expectations and procedures of each job, now ask your trainer any questions you may have. Also practice and study your materials to further your knowledge on the positions. Have fun and good luck!
 

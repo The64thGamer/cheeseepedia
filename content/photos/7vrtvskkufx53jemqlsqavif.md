@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["SPP Curtain Cont Bypass"]
 startDate = ""
-description = "The board placed in a Gray Box"
 +++
+The board placed in a Gray Box

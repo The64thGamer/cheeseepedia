@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Chuck E. Cheese (Cyberamic)"]
 startDate = ""
-description = "[[Placentia, CA (2300 N Rose Dr)"
 +++
+[[Placentia, CA (2300 N Rose Dr)

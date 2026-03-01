@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["PTT Basic Ordering Agreement"]
 startDate = ""
-description = "The Big Cheese (Page 6)"
 +++
+The Big Cheese (Page 6)

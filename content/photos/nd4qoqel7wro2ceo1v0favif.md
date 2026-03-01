@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Clarksville, IN (1100 E State Hwy 131)"]
 startDate = ""
-description = "The Location's Salad Bar before the 2.0 Remodel."
 +++
+The Location's Salad Bar before the 2.0 Remodel.

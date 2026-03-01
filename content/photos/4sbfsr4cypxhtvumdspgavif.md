@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Dog (Mr Munch Retrofit)"]
 startDate = ""
-description = "The Bot in the infamous 'No More Chuck E. Cheese' Video"
 +++
+The Bot in the infamous 'No More Chuck E. Cheese' Video

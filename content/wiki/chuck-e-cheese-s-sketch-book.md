@@ -1,16 +1,18 @@
 +++
+
 title = "Chuck E. Cheese's Sketch Book"
 draft = false
-tags = ["Arcade Games"]
+tags = ["Arcades and Attractions"]
 categories = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ChuckETasticAlt","ThatBoiCydalan","BurgersNuggs445","The 64th Gamer","Saan1ty","Pasquallytheplumber"]
-citations = ["[https://www.icegame.com/category/392/sketch-book](%22https://www.icegame.com/category/392/sketch-book%22)","[https://www.icegame.com/category/277/sketch-express](%22https://www.icegame.com/category/277/sketch-express%22)","[https://youtu.be/ig3EDNNI5Uw](%22https://youtu.be/ig3EDNNI5Uw%22)"]
+citations = ["https://www.icegame.com/category/392/sketch-book","https://www.icegame.com/category/277/sketch-express","https://youtu.be/ig3EDNNI5Uw"]
 downloadLinks = ["https://archive.org/details/2002-cyberamic-cec-updgrade-patch|2002 CEC Upgrade Patch"]
+pageThumbnailFile = "ZJrhchMTRJEph1FvvR8n.avif"
 +++
-***Chuck E. Cheese's Sketch Book* is a photo booth attraction developed by *ICE*<sup>(1)</sup> exclusively for Chuck E. Cheese's restaurants in 2002. This game doesn't award any tickets, but instead gives the user a printed copy of a photo that the machine takes.
-This game is a branded version of the generic game, *Sketch Express* manufactured by the same company.<sup>(2)</sup>**
+***Chuck E. Cheese's Sketch Book* is a photo booth attraction developed by *ICE*{{< cite 1 >}} exclusively for Chuck E. Cheese's restaurants in 2002. This game doesn't award any tickets, but instead gives the user a printed copy of a photo that the machine takes.
+This game is a branded version of the generic game, *Sketch Express* manufactured by the same company.{{< cite 2 >}}**
 
 ## Gameplay
 
@@ -18,7 +20,7 @@ Upon activation, the machine will greet you and ask the user to choose a portrai
 
 ## History
 
-The earliest known Chuck E. Cheese's Sketch Book cabinet was sighted at {{< wiki-link "Huntsville, AL (1220 Jordan Lane)" >}} in November 2002, coinciding nearly a year before the concept remodels for the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative began installation.<sup>(3)</sup> It was part of a standard game package rolled out to stores that year that included other CEC branded games such as Country Acres and Chuck E. Cheese's Kiddie Coaster.
+The earliest known Chuck E. Cheese's Sketch Book cabinet was sighted at {{< wiki-link "Huntsville, AL (1220 Jordan Lane)" >}} in November 2002, coinciding nearly a year before the concept remodels for the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative began installation.{{< cite 3 >}} It was part of a standard game package rolled out to stores that year that included other CEC branded games such as Country Acres and Chuck E. Cheese's Kiddie Coaster.
 Chuck E. Cheese's Sketch Book has prevailed as one of the oldest games still actively supported by Chuck E. Cheese and SPT Parts Department. As of 2023, ICE still produces new parts for machines and new/refurbished units continue to be installed in new locations to this day.
 
 ### Upgrade Patch

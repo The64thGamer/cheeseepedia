@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Sunnyvale, CA (1247 W El Camino Real)"]
 startDate = ""
-description = "Exterior (November 2022)"
 +++
+Exterior (November 2022)

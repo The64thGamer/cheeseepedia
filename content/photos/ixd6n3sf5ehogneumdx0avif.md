@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Beaumont, TX (4180 N Dowlen Rd)"]
 startDate = ""
-description = "Exterior, January 2020"
 +++
+Exterior, January 2020

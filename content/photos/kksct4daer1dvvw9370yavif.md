@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Darien, IL (7409 Cass Ave)"]
 startDate = ""
-description = "New Billy Bob Costume"
 +++
+New Billy Bob Costume

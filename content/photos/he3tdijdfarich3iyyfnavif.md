@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Diamond Bar, CA (1900 S Brea Canyon Rd)"]
 startDate = ""
-description = "1-Stage in June 2019 (PC: David Orellana)"
 +++
+1-Stage in June 2019 (PC: David Orellana)

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Savannah, GA (6700 Abercorn St)"]
 startDate = ""
-description = ""
+
 +++

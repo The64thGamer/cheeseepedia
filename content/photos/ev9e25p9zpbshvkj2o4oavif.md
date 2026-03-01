@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Small Jasper Plush (1996)"]
 startDate = ""
-description = "Prototype 1996 Jasper"
 +++
+Prototype 1996 Jasper

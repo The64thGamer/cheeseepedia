@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Billy Bob's Wonderland"]
 startDate = ""
-description = "The Ashland, Kentucky location"
 +++
+The Ashland, Kentucky location

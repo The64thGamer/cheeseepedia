@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Lewisville, TX (1960 S Stemmons Fwy)"]
 startDate = ""
-description = "Arcade (June 2004)"
 +++
+Arcade (June 2004)

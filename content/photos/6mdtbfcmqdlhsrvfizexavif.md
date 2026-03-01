@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Baltimore, MD (8354 Eastern Ave)"]
 startDate = ""
-description = "Full stage back when they still had the Helicopter Light (Unknown Date)"
 +++
+Full stage back when they still had the Helicopter Light (Unknown Date)

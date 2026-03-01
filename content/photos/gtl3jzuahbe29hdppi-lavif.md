@@ -2,8 +2,8 @@
 title = "GTL3JzuahBe29hDPpi_L.avif"
 draft = false
 tags = ["Photos"]
-categories = ["Disney Parks"]
+categories = ["Walt Disney Imagineering"]
 pages = ["DACS"]
 startDate = ""
-description = "Simplified DACS Diagram"
 +++
+Simplified DACS Diagram

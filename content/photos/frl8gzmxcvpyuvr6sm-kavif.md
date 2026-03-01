@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Chuck E. Cheese's"]
 pages = ["Burlington, MA (10 Wall St)"]
 startDate = ""
-description = "Exterior (Unknown Year)"
 +++
+Exterior (Unknown Year)

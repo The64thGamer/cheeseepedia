@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Baltimore, MD (8354 Eastern Ave)"]
 startDate = ""
-description = "Show Room sign located above the Showroom entrance."
 +++
+Show Room sign located above the Showroom entrance.

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = [""]
 pages = ["Jungle Jim's Flag Wavers (Flag Wavers Retrofit)"]
 startDate = ""
-description = " Up-Close with the reproduction Flag Wavers."
 +++
+ Up-Close with the reproduction Flag Wavers.

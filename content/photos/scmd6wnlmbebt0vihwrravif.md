@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Dallas, TX (13125 Montfort Dr)"]
 startDate = ""
-description = "AAM generators in June 2019."
 +++
+AAM generators in June 2019.

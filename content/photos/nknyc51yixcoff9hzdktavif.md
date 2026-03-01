@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Madison, WI (438 Grand Canyon Dr)"]
 startDate = ""
-description = "Madison's 3-Stage before 2.0 Remodel"
 +++
+Madison's 3-Stage before 2.0 Remodel

@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Pizza Time Theatre"]
 pages = ["Newington, NH (30 Fox Run Rd)"]
 startDate = ""
-description = "A photo of the store's 2-Stage on July 22, 2016."
 +++
+A photo of the store's 2-Stage on July 22, 2016.

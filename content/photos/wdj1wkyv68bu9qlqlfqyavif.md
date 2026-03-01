@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["Creative Engineering"]
 pages = ["The Wolfman (Animatronic)"]
 startDate = ""
-description = "ShowBiz Pizza Place, Kansas City, MO"
 +++
+ShowBiz Pizza Place, Kansas City, MO

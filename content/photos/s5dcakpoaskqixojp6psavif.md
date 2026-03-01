@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = []
 pages = ["Chuck E. Cheese Online Store"]
 startDate = ""
-description = "2004 archive photo"
 +++
+2004 archive photo

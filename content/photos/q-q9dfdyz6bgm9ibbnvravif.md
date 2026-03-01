@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Whitehall, PA (1000 Lehigh Valley Mall)"]
 startDate = ""
-description = "Exterior, September 2008"
 +++
+Exterior, September 2008

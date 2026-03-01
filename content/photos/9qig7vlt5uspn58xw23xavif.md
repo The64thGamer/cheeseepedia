@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["San Antonio, TX (6874 Ingram Rd)"]
 startDate = ""
-description = "stage behind circles of light after removal of bots"
 +++
+stage behind circles of light after removal of bots

@@ -4,6 +4,7 @@ draft = false
 tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
-startDate = ""
-description = "Jaspers shoes (August 10, 2019)"
+startDate = "2019-08-10"
+citations = ["Photo by Chuck E. Entertainment"]
 +++
+Jasper wearing munch colored shoes (August 10, 2019)

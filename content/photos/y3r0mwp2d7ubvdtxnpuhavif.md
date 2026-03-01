@@ -5,5 +5,5 @@ tags = ["Photos"]
 categories = ["ShowBiz Pizza Place"]
 pages = ["Dallas, TX (7110 S Westmoreland Rd)"]
 startDate = ""
-description = "Exterior, May 2023"
 +++
+Exterior, May 2023
