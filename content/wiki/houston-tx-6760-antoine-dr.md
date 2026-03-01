@@ -10,12 +10,13 @@ citations = ["https://www.reddit.com/r/chuckecheese/comments/1ltt13b/found_an_ad
 storeNumber = "734"
 sqft = ""
 attractions = ["Aftershock|0000-00-00|2006-00-00|","Double Cheese|0000-00-00|2006-00-00|","Chuck E. Cheese's Grand Slam|0000-00-00|2006-00-00|","Total Eclipse|0000-00-00|2006-00-00|","Buzzy Buzzy Bee|0000-00-00|2006-00-00|","Arctic Thunder|0000-00-00|2006-00-00|","Cyclone|0000-00-00|2006-00-00|","Coin Circus|0000-00-00|2006-00-00|","Bob The Builder|0000-00-00|2006-00-00|","Tower of Power|0000-00-00|2006-00-00|","Barrel of Fun|0000-00-00|2006-00-00|","Chuck E. Cheese's Kooky Konga|0000-00-00|2006-00-00|","Chuck E. Cheese Roll|0000-00-00|2006-00-00|6 Units"]
-downloadLinks = []
+downloadLinks = ["https://drive.google.com/file/d/16-CiDDp3Y1NSA6T0MTkbtaHMpykWqqe5/view|1990's Remodel Plans"]
 latitudeLongitude = ["29.86114362", "-95.47182913"]
 tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 franchisees = []
 animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-07-15|2006-00-00|1-81 1-5|Owned by Sully G","Dook Larue (Animatronic)|1981-07-15|2006-00-00|1-81 2-5|Owned by ItzaRob",  "Fatz Geronimo (Animatronic)|1981-07-15|2006-00-00|1-81 3-5|Owned by a Private Collector",  "\"Beach Bear (Animatronic)|1981-07-15|2006-00-00|1-81 4-5|Sent to Houston, TX (5535 Weslayan St), now destroyed",  "Mitzi Mozzarella (Animatronic)|1981-07-15|2006-00-00|1-81 5-5|Owned by a Private Collector",  "Billy Bob (Animatronic)|1981-07-15|1991-00-00|1-81 6-5|Unknown",  "Looney Bird (Animatronic)|1981-07-15|0000-00-00|1-81 7-5|Unknown",  "Choo Choo (Animatronic)|1981-07-15|0000-00-00|1-81 8-5|Unknown",  "Sun (Animatronic)|1981-07-15|2006-00-00|1-81 10-5|Unknown",  "Moon (Animatronic)|1981-07-15|2006-00-00|1-81 11-5|Unknown",  "Antioch (Animatronic)|1981-07-15|1991-00-00|Unknown|Unknown",  "Wink|1991-00-00|2006-00-00|Unknown|Unknown"]
+_newPageTag = "Locations"
 +++
 ***Houston, TX (6760 Antoine Dr)* (Store #734)** was a *Chuck E. Cheese's* location that opened on July 15, 1981 as a *ShowBiz Pizza Place* with a {{< wiki-link "Classic Stage" >}}, and closed as a *Chuck E. Cheese's* with a {{< wiki-link "Concept Unification Stage" >}} in September 2006.{{< cite 9 >}}
 
