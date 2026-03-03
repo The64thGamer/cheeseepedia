@@ -8,7 +8,7 @@ contributors = ["DerekCat", "Studio 18 Ent", "Ceclife13", "Luigigamin212"]
 credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef"]
 citations = ["https://youtu.be/51eVZREgYZg"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
-transcriptions = ["CEC TV News - Munch's Incredible Scoop"]
+transcriptions = ["July 1991 Segment 1", "July 1991 Segment 2", "CEC TV News - Munch's Incredible Scoop", "July 1991 Segment 3"]
 alsoKnownAs = ["260-0703-91 (C) S.P.T Inc. CU GAMES/WAVE BDAY (3 STAGE) Serial #00112 Deck - 7 07/09/91 - Master CYBERSTAR"]
 tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
@@ -18,84 +18,84 @@ categories = ["Chuck E. Cheese's"]
 ## Show List
 
 1. **Intermission 1**
-    1.  8 Minute Countdown
-        1.  ['Bo Diddley'](https://en.wikipedia.org/wiki/Bo_Diddley_(Bo_Diddley_song))
-        2.  ['Daydream'](https://en.wikipedia.org/wiki/Daydream_(The_Lovin%27_Spoonful_song))
-        3.  'Birthday Extravaganza'
-        4.  ['Duke of Earl'](https://en.wikipedia.org/wiki/Duke_of_Earl)
-        5.  ['Real Love'](https://en.wikipedia.org/wiki/Real_Love_(Jody_Watley_song))
-    2.  CEC TV Classic ID (Short)
-    3.  CEC TV Special Intro
-    4.  Geography Rap - 'Japan'
-    5.  CEC TV Classic ID
+    1. 8 Minute Countdown
+        1. ['Bo Diddley'](https://en.wikipedia.org/wiki/Bo_Diddley_(Bo_Diddley_song))
+        2. ['Daydream'](https://en.wikipedia.org/wiki/Daydream_(The_Lovin%27_Spoonful_song))
+        3. 'Birthday Extravaganza'
+        4. ['Duke of Earl'](https://en.wikipedia.org/wiki/Duke_of_Earl)
+        5. ['Real Love'](https://en.wikipedia.org/wiki/Real_Love_(Jody_Watley_song))
+    2. CEC TV Classic ID (Short)
+    3. CEC TV Special Intro
+    4. Geography Rap - 'Japan'
+    5. CEC TV Classic ID
 2. **Segment 1**
-    1.  Summer Fun
-    2.  Skip Rope Scat
+    1. Summer Fun
+    2. Skip Rope Scat
 3. **Intermission 2**
-    1.  8 Minute Countdown
-        1.  [Real Love](https://en.wikipedia.org/wiki/Real_Love_(Jody_Watley_song))
-        2.  Birthday Extravaganza
-        3.  [Dreams](https://en.wikipedia.org/wiki/Dreams_(Fleetwood_Mac_song))
-    2.  CEC TV Classic ID (Short)
-    3.  CEC TV Special Intro
-    3.  Helen Henny's Hollywood - 'Honey I Shrunk The Keds'
-    4.  CEC TV Classic ID
+    1. 8 Minute Countdown
+        1. [Real Love](https://en.wikipedia.org/wiki/Real_Love_(Jody_Watley_song))
+        2. Birthday Extravaganza
+        3. [Dreams](https://en.wikipedia.org/wiki/Dreams_(Fleetwood_Mac_song))
+    2. CEC TV Classic ID (Short)
+    3. CEC TV Special Intro
+    4. Helen Henny's Hollywood - 'Honey I Shrunk The Keds'
+    5. CEC TV Classic ID
 4. **Segment 2**
-    1.  Pasqually's Polka
-    2.  Be A Sport
+    1. Pasqually's Polka
+    2. Be A Sport
 5. **Intermission 3**
-    1.  8 Minute Countdown
-        1.  [The Heart of Rock and Roll (Album Version)](https://en.wikipedia.org/wiki/The_Heart_of_Rock_%26_Roll)
-        2.  Birthday Extravaganza
-        3.  [Let's Stay Together](https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_album))
-    2.  CEC TV Classic ID (Short)
-    3.  CEC TV Special Intro
-    3.  CEC TV News - 'Munch's Incredible Scoop'
-    4.  CEC TV Classic ID
+    1. 8 Minute Countdown
+        1. [The Heart of Rock and Roll (Album Version)](https://en.wikipedia.org/wiki/The_Heart_of_Rock_%26_Roll)
+        2. Birthday Extravaganza
+        3. [Let's Stay Together](https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_album))
+    2. CEC TV Classic ID (Short)
+    3. CEC TV Special Intro
+    4. CEC TV News - 'Munch's Incredible Scoop'
+    5. CEC TV Classic ID
 6. **Segment 3**
-    1.  'Home On The Range Medley'
-    2.  'Havin' Fun With You'
+    1. 'Home On The Range Medley'
+    2. 'Havin' Fun With You'
 7. **Intermission 4**
-    1.  8 Minute Countdown
-        1.  ['I Get Around'](https://en.wikipedia.org/wiki/I_Get_Around)
-        2.  ['Music! Music! Music!'](https://en.wikipedia.org/wiki/Music!_Music!_Music!)
-        3.  'Birthday Extravaganza'
-        4.  ['Forever Your Girl'](https://en.wikipedia.org/wiki/Forever_Your_Girl)
-    2.  CEC TV Classic ID (Short)
-    3.  CEC TV Special Intro
-    3.  Geography Rap - 'Japan'
-    4.  CEC TV Classic ID
+    1. 8 Minute Countdown
+        1. ['I Get Around'](https://en.wikipedia.org/wiki/I_Get_Around)
+        2. ['Music! Music! Music!'](https://en.wikipedia.org/wiki/Music!_Music!_Music!)
+        3. 'Birthday Extravaganza'
+        4. ['Forever Your Girl'](https://en.wikipedia.org/wiki/Forever_Your_Girl)
+    2. CEC TV Classic ID (Short)
+    3. CEC TV Special Intro
+    4. Geography Rap - 'Japan'
+    5. CEC TV Classic ID
 8. **Segment 1**
-    1.  'Summer Fun'
-    2.  'Skip Rope Scat'
+    1. 'Summer Fun'
+    2. 'Skip Rope Scat'
 9. **Intermission 5**
-    1.  8 Minute Countdown
-        1.  ['Raindrops Keep Falling on My Head'](https://en.wikipedia.org/wiki/Raindrops_Keep_Fallin%27_on_My_Head)
-        2.  ['You Might Think'](https://en.wikipedia.org/wiki/You_Might_Think)
-        3.  'Birthday Extravaganza'
-        4.  ['Invisible Touch'](https://en.wikipedia.org/wiki/Invisible_Touch)
-    2.  CEC TV Classic ID (Short)
-    3.  CEC TV Special Intro
-    3.  Helen Henny's Hollywood - 'Honey I Shrunk The Keds'
-    4.  CEC TV Classic ID
+    1. 8 Minute Countdown
+        1. ['Raindrops Keep Falling on My Head'](https://en.wikipedia.org/wiki/Raindrops_Keep_Fallin%27_on_My_Head)
+        2. ['You Might Think'](https://en.wikipedia.org/wiki/You_Might_Think)
+        3. 'Birthday Extravaganza'
+        4. ['Invisible Touch'](https://en.wikipedia.org/wiki/Invisible_Touch)
+    2. CEC TV Classic ID (Short)
+    3. CEC TV Special Intro
+    4. Helen Henny's Hollywood - 'Honey I Shrunk The Keds'
+    5. CEC TV Classic ID
 10. **Segment 2**
-    1.  'Pasqually's Polka'
-    2.  'Be A Sport'
+    1. 'Pasqually's Polka'
+    2. 'Be A Sport'
 11. **Intermission 6**
-    1.  8 Minute Countdown
-        1.  [You Should Be Dancing](https://en.wikipedia.org/wiki/You_Should_Be_Dancing)
-        2.  Birthday Extravaganza
-        3.  [Surf City](https://en.wikipedia.org/wiki/Surf_City_(song))
-        4.  [Don't Be Cruel](https://en.wikipedia.org/wiki/Don%27t_Be_Cruel)
-    2.  CEC TV Classic ID (Short)
-    3.  CEC TV Special Intro
-    3.  CEC TV News - 'Munch's Incredible Scoop'
-    4.  CEC TV Classic ID
+    1. 8 Minute Countdown
+        1. [You Should Be Dancing](https://en.wikipedia.org/wiki/You_Should_Be_Dancing)
+        2. Birthday Extravaganza
+        3. [Surf City](https://en.wikipedia.org/wiki/Surf_City_(song))
+        4. [Don't Be Cruel](https://en.wikipedia.org/wiki/Don%27t_Be_Cruel)
+    2. CEC TV Classic ID (Short)
+    3. CEC TV Special Intro
+    4. CEC TV News - 'Munch's Incredible Scoop'
+    5. CEC TV Classic ID
 12. **Segment 3**
-    1.  'Home On The Range Medley'
-    2.  'Havin' Fun With You'
+    1. 'Home On The Range Medley'
+    2. 'Havin' Fun With You'
 
 ## Trivia:
 
-- Entertainment/Parts & Tech Support Dept Promo is a hidden video at the very end of the tape.
-- This uses the same intermission music as SPP Best of 5 (except for the last two intermissions)
+* Entertainment/Parts & Tech Support Dept Promo is a hidden video at the very end of the tape.
+* This uses the same intermission music as SPP Best of 5 (except for the last two intermissions)
