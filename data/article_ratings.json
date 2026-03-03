@@ -4086,7 +4086,7 @@
     "start_year": 1993,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 1
   },
   {
@@ -4806,7 +4806,7 @@
     "start_year": 1994,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 5,
+    "contributors_count": 6,
     "rating": 1
   },
   {
@@ -8507,7 +8507,7 @@
     "category": "Pizza Time Theatre",
     "tag": "Animatronics",
     "contributors_count": 3,
-    "rating": 1
+    "rating": 2
   },
   {
     "title": "CEI ADAT Tape",
@@ -11866,7 +11866,7 @@
     "start_year": 1994,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 1
   },
   {
@@ -18976,7 +18976,7 @@
     "start_year": 1994,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 3,
+    "contributors_count": 4,
     "rating": 1
   },
   {
@@ -24430,6 +24430,16 @@
     "rating": 0
   },
   {
+    "title": "Chuck E. Cheese Legacy Spring 2026 Show",
+    "page_path": "content/wiki/wydu6piqva.md",
+    "startDate": "2026-03-01",
+    "start_year": 2026,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Milwaukee, WI (4595 S 27th St)",
     "page_path": "content/wiki/milwaukee-wi-4595-s-27th-st.md",
     "startDate": "1981-08-27",
@@ -26136,7 +26146,7 @@
     "start_year": 1994,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 1
   },
   {
@@ -26146,7 +26156,7 @@
     "start_year": 1993,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 1
   },
   {
@@ -33946,7 +33956,7 @@
     "start_year": 2005,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -35106,7 +35116,7 @@
     "start_year": 1992,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 0
   },
   {
@@ -36237,6 +36247,16 @@
     "category": "Chuck E. Cheese's",
     "tag": "Costumed Characters",
     "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "Chuck E. Cheese Spring 2026 Show",
+    "page_path": "content/wiki/5dzszdq5mx3.md",
+    "startDate": "2026-03-02",
+    "start_year": 2026,
+    "category": "Chuck E. Cheese's",
+    "tag": "Showtapes",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -45066,7 +45086,7 @@
     "start_year": 1980,
     "category": "Pizza Time Theatre",
     "tag": "Locations",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -52664,10 +52684,10 @@
     "page_path": "content/wiki/houston-tx-6760-antoine-dr.md",
     "startDate": "1981-07-15",
     "start_year": 1981,
-    "category": "ShowBiz Pizza Place",
-    "tag": "Locations",
+    "category": null,
+    "tag": null,
     "contributors_count": 3,
-    "rating": 3
+    "rating": 4
   },
   {
     "title": "1993 Wooly Bully Puppets",
@@ -56636,7 +56656,7 @@
     "start_year": 1993,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 4,
+    "contributors_count": 5,
     "rating": 0
   },
   {
@@ -59016,7 +59036,7 @@
     "start_year": 1992,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
-    "contributors_count": 5,
+    "contributors_count": 6,
     "rating": 1
   },
   {
@@ -60036,7 +60056,7 @@
     "start_year": 2015,
     "category": "Chuck E. Cheese's",
     "tag": "Locations",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {

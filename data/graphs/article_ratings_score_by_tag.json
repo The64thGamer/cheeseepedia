@@ -1,12 +1,13 @@
 {
   "series": {
     "Companies/Brands": 2.88,
-    "Locations": 2.39,
+    "Locations": 2.38,
     "Movies": 2.33,
     "Events": 2.14,
     "Menu Items": 2.0,
     "Social Media and Websites": 2.0,
     "Simulators": 2.0,
+    "untagged": 2.0,
     "Video Games": 2.0,
     "Stage Variations": 1.74,
     "Arcades and Attractions": 1.71,
@@ -21,7 +22,7 @@
     "Products": 1.4,
     "Animatronic Parts": 1.4,
     "Animatronic Preservation": 1.33,
-    "Animatronics": 1.29,
+    "Animatronics": 1.3,
     "Programming Systems": 1.25,
     "Store Fixtures": 1.15,
     "Documents": 1.14,
@@ -36,7 +37,6 @@
     "Company Media": 1.0,
     "Employee Wear": 1.0,
     "Showtape Formats": 1.0,
-    "untagged": 1.0,
     "Corporate Documents": 1.0,
     "Tokens": 1.0,
     "Promotional Material": 1.0

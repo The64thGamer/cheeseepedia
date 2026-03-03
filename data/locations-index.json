@@ -14204,18 +14204,6 @@
       "sort": "00000000"
     },
     {
-      "page_get": "wiki/chandler-az-2977-w-frye-rd",
-      "page_path": "content/wiki/chandler-az-2977-w-frye-rd",
-      "page_title": "Chandler, AZ (2977 West Frye Rd)",
-      "parts": [
-        "Circles of Light",
-        "0000-00-00",
-        "",
-        ""
-      ],
-      "sort": "00000000"
-    },
-    {
       "page_get": "wiki/melrose-park-il-1030-winston-plaza",
       "page_path": "content/wiki/melrose-park-il-1030-winston-plaza",
       "page_title": "Melrose Park, IL (1030 Winston Plaza)",
@@ -14528,6 +14516,18 @@
       "sort": "20140116"
     },
     {
+      "page_get": "wiki/chandler-az-2977-w-frye-rd",
+      "page_path": "content/wiki/chandler-az-2977-w-frye-rd",
+      "page_title": "Chandler, AZ (2977 West Frye Rd)",
+      "parts": [
+        "Circles of Light",
+        "2014-04-00",
+        "0000-00-00",
+        "Animatronic was removed during the 2.0 Remodel."
+      ],
+      "sort": "20140400"
+    },
+    {
       "page_get": "wiki/los-angeles-ca-2706-wilshire-blvd",
       "page_path": "content/wiki/los-angeles-ca-2706-wilshire-blvd",
       "page_title": "Los Angeles, CA (2706 Wilshire Blvd)",
@@ -14654,8 +14654,8 @@
       "parts": [
         "Circles of Light",
         "2014-10-00",
-        "",
-        "Animatronic removed during 2.0"
+        "0000-00-00",
+        "Animatronic removed during the 2.0 remodel."
       ],
       "sort": "20141000"
     },
@@ -14814,18 +14814,6 @@
         ""
       ],
       "sort": "20150322"
-    },
-    {
-      "page_get": "wiki/chandler-az-2977-w-frye-rd",
-      "page_path": "content/wiki/chandler-az-2977-w-frye-rd",
-      "page_title": "Chandler, AZ (2977 West Frye Rd)",
-      "parts": [
-        "Circles of Light",
-        "2015-04-00",
-        "0000-00-00",
-        ""
-      ],
-      "sort": "20150400"
     },
     {
       "page_get": "wiki/tuscaloosa-al-1800-mcfarland-blvd",
@@ -22703,18 +22691,6 @@
       "sort": "19940307"
     },
     {
-      "page_get": "wiki/tucson-az-6125-e-speedway-blvd",
-      "page_path": "content/wiki/tucson-az-6125-e-speedway-blvd",
-      "page_title": "Tucson, AZ (6125 E Speedway Blvd)",
-      "parts": [
-        "1-Stage",
-        "1994-04-00",
-        "2014-10-00",
-        ""
-      ],
-      "sort": "19940400"
-    },
-    {
       "page_get": "wiki/new-london-ct-389-n-frontage-rd",
       "page_path": "content/wiki/new-london-ct-389-n-frontage-rd",
       "page_title": "New London, CT (389 N Frontage Rd)",
@@ -27046,6 +27022,16 @@
       "sort": "20050000"
     },
     {
+      "page_get": "wiki/glendale-az-6773-west-bell-rd",
+      "page_path": "content/wiki/glendale-az-6773-west-bell-rd",
+      "page_title": "Glendale, AZ (6773 West Bell Rd)",
+      "parts": [
+        "CEC 2000's Remodel Program",
+        "2005-06-29"
+      ],
+      "sort": "20050629"
+    },
+    {
       "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
       "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
       "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
@@ -27198,7 +27184,7 @@
       "parts": [
         "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
         "1981-07-15",
-        "2006-00-00",
+        "2006-09-00",
         "1-81 1-5",
         "Owned by Sully G"
       ],
@@ -27356,7 +27342,7 @@
       "parts": [
         "Dook Larue (Animatronic)",
         "1981-07-15",
-        "2006-00-00",
+        "2006-09-00",
         "1-81 2-5",
         "Owned by ItzaRob"
       ],
@@ -27514,7 +27500,7 @@
       "parts": [
         "Fatz Geronimo (Animatronic)",
         "1981-07-15",
-        "2006-00-00",
+        "2006-09-00",
         "1-81 3-5",
         "Owned by a Private Collector"
       ],
@@ -27804,7 +27790,7 @@
       "parts": [
         "Mitzi Mozzarella (Animatronic)",
         "1981-07-15",
-        "2006-00-00",
+        "2006-09-00",
         "1-81 5-5",
         "Owned by a Private Collector"
       ],
@@ -28397,7 +28383,7 @@
       "parts": [
         "Sun (Animatronic)",
         "1981-07-15",
-        "2006-00-00",
+        "2006-09-00",
         "1-81 10-5",
         "Unknown"
       ],
@@ -28555,7 +28541,7 @@
       "parts": [
         "Moon (Animatronic)",
         "1981-07-15",
-        "2006-00-00",
+        "2006-09-00",
         "1-81 11-5",
         "Unknown"
       ],
@@ -30319,6 +30305,16 @@
       "sort": "20230000"
     },
     {
+      "page_get": "wiki/chandler-az-2977-w-frye-rd",
+      "page_path": "content/wiki/chandler-az-2977-w-frye-rd",
+      "page_title": "Chandler, AZ (2977 West Frye Rd)",
+      "parts": [
+        "CEC 2.0 Remodel Program",
+        "2023-00-00"
+      ],
+      "sort": "20230000"
+    },
+    {
       "page_get": "wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_path": "content/wiki/sterling-heights-mi-13745-lakeside-circle",
       "page_title": "Sterling Heights, MI (13745 Lakeside Circle)",
@@ -30426,7 +30422,7 @@
       "parts": [
         "Wink",
         "1991-00-00",
-        "2006-00-00",
+        "2006-09-00",
         "Unknown",
         "Unknown"
       ],
@@ -32186,6 +32182,19 @@
         "Unknown"
       ],
       "sort": "20000926"
+    },
+    {
+      "page_get": "wiki/glendale-az-6773-west-bell-rd",
+      "page_path": "content/wiki/glendale-az-6773-west-bell-rd",
+      "page_title": "Glendale, AZ (6773 West Bell Rd)",
+      "parts": [
+        "Pizza Time Clock (Animatronic)",
+        "2005-06-29",
+        "2020-05-00",
+        "",
+        "Unknown/Destroyed."
+      ],
+      "sort": "20050629"
     }
   ],
   "animatronics|Pizza Phone (Animatronic)": [
@@ -32335,6 +32344,19 @@
       "sort": "20050000"
     },
     {
+      "page_get": "wiki/glendale-az-6773-west-bell-rd",
+      "page_path": "content/wiki/glendale-az-6773-west-bell-rd",
+      "page_title": "Glendale, AZ (6773 West Bell Rd)",
+      "parts": [
+        "Chuck E. Cheese 16m (Animatronic)",
+        "2005-06-29",
+        "2020-05-00",
+        "",
+        "Unknown/Destroyed."
+      ],
+      "sort": "20050629"
+    },
+    {
       "page_get": "wiki/lexington-ky-1555-new-circle-rd",
       "page_path": "content/wiki/lexington-ky-1555-new-circle-rd",
       "page_title": "Lexington, KY (1555 New Circle Rd)",
@@ -32356,7 +32378,7 @@
         "2014-10-00",
         "2023-00-00",
         "",
-        "Unknown/Destroyed. Came from the Kelso, WA (351 Three Rivers Dr) location. Had Cool Chuck outfit until 2022"
+        "Unknown/Destroyed. Came from the Kelso WA (351 Three Rivers Dr) location. Had Cool Chuck outfit until 2022"
       ],
       "sort": "20141000"
     }
@@ -33803,6 +33825,19 @@
         "Unknown"
       ],
       "sort": "20000926"
+    },
+    {
+      "page_get": "wiki/chandler-az-2977-w-frye-rd",
+      "page_path": "content/wiki/chandler-az-2977-w-frye-rd",
+      "page_title": "Chandler, AZ (2977 West Frye Rd)",
+      "parts": [
+        "Chuck E. Cheese 32m (Animatronic)",
+        "2014-04-00",
+        "2023-00-00",
+        "",
+        "Unknown/Destroyed. Came from the Phoenix, AZ (3329 E Bell Rd) location."
+      ],
+      "sort": "20140400"
     }
   ],
   "remodels|Phase 3 (1997)": [
@@ -34464,7 +34499,7 @@
       "parts": [
         "Total Eclipse",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -34712,7 +34747,7 @@
       "parts": [
         "Chuck E. Cheese Roll",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         "6 Units"
       ],
       "sort": "00000000"
@@ -34757,6 +34792,16 @@
     }
   ],
   "remodels|CEC 2013 Update Program": [
+    {
+      "page_get": "wiki/chandler-az-2977-w-frye-rd",
+      "page_path": "content/wiki/chandler-az-2977-w-frye-rd",
+      "page_title": "Chandler, AZ (2977 West Frye Rd)",
+      "parts": [
+        "CEC 2013 Update Program",
+        "2014-04-00"
+      ],
+      "sort": "20140400"
+    },
     {
       "page_get": "wiki/tucson-az-6125-e-speedway-blvd",
       "page_path": "content/wiki/tucson-az-6125-e-speedway-blvd",
@@ -34897,7 +34942,7 @@
       "parts": [
         "Buzzy Buzzy Bee",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -34956,17 +35001,17 @@
       "sort": "00000000"
     }
   ],
-  "animatronics|\"Beach Bear (Animatronic)": [
+  "animatronics|\"\\\"Beach Bear (Animatronic)": [
     {
       "page_get": "wiki/houston-tx-6760-antoine-dr",
       "page_path": "content/wiki/houston-tx-6760-antoine-dr",
       "page_title": "Houston, TX (6760 Antoine Dr)",
       "parts": [
-        "\"Beach Bear (Animatronic)",
+        "\"\\\"Beach Bear (Animatronic)",
         "1981-07-15",
-        "2006-00-00",
+        "2006-09-00",
         "1-81 4-5",
-        "Sent to Houston, TX (5535 Weslayan St), now destroyed"
+        "Sent to Houston, TX (5535 Weslayan St), now destroyed."
       ],
       "sort": "19810715"
     }
@@ -34979,7 +35024,7 @@
       "parts": [
         "Aftershock",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -34993,7 +35038,7 @@
       "parts": [
         "Double Cheese",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -35007,7 +35052,7 @@
       "parts": [
         "Chuck E. Cheese's Grand Slam",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -35021,7 +35066,7 @@
       "parts": [
         "Arctic Thunder",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -35035,7 +35080,7 @@
       "parts": [
         "Cyclone",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -35049,7 +35094,7 @@
       "parts": [
         "Coin Circus",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -35063,7 +35108,7 @@
       "parts": [
         "Bob The Builder",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -35077,7 +35122,7 @@
       "parts": [
         "Tower of Power",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -35091,7 +35136,7 @@
       "parts": [
         "Barrel of Fun",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
@@ -35105,7 +35150,7 @@
       "parts": [
         "Chuck E. Cheese's Kooky Konga",
         "0000-00-00",
-        "2006-00-00",
+        "2006-09-00",
         ""
       ],
       "sort": "00000000"
