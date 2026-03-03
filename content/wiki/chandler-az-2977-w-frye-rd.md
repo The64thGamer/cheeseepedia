@@ -6,10 +6,7 @@ stages = ["Circles of Light|2014-04-00|0000-00-00|Animatronic was removed during
 franchisees = []
 animatronics = ["Chuck E. Cheese 32m (Animatronic)|2014-04-00|2023-00-00||Unknown/Destroyed. Came from the Phoenix, AZ (3329 E Bell Rd) location."]
 attractions = []
-draft = false
 contributors = ["KawaiiZenbo"]
-+++
-+++
 title = "Chandler, AZ (2977 West Frye Rd)"
 storeNumber = ""
 startDate = "2015-04-00"
