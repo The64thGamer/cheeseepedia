@@ -10,7 +10,137 @@ tags = ["Showtapes"]
 categories = ["Chuck E. Cheese's"]
 draft = false
 +++
-**Chuck E. Cheese Evergreen 2026 Show** was released on December 29, 2026.
+**Chuck E. Cheese Evergreen 2026 Show** was released on December 29, 2026, and played until March 1, 2026.
+
+## Show list 02/28 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. KIDZ BOP Kids - 'Certified Bop'
+    3. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    4. Helen Henny - 'Disco Dancing Dinosaur Party'
+    5. Chuck E. Cheese - 'Lend a Helping Hand'
+    6. KIDZ BOP Kids - 'Manchild' (ASL)
+    7. Chuck E. Cheese - 'Listen To The Rock'
+    8. Chuck E. Cheese - 'Rainbow Hamster Family'
+    9. Chuck E. & Friends - 'Because We're Friends' (2025)
+    10. KIDZ BOP Kids - 'Birds of Feather'
+    11. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    12. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    13. Chuck E. & Friends - 'Fun For All' (2025)
+    14. Chuck E. & Friends - 'Stay Positive' (ASL)
+    15. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    16. KID BOP Kids - 'Good 4 U'
+    17. Bella B. - 'El Rey Guitarrista'
+    18. Helen Henny - 'Game On!'
+    19. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    20. NewJeans - 'Right Now'
+    21. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    22. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+    23. KIDZ BOP Kids - 'Contigo'
+    24. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    25. Chuck E. & Munch - Animated Easy Dance
+    26. KIDZ BOP Kids - 'Million Dollar Baby'
+    27. Chuck E. & Friends - 'Most Perfect Day'
+    28. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    29. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    30. Chuck E. Cheese - 'Another Chuck E. Day'
+    31. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    32. Paris & Pups 'Paris Hilton - STARKLE ON!'
+
+## Lives 02/28 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
+3. Me & My Friends (Media Navori)
+4. Chuck E. Bop (Media Navori)
+
+## Show list 02/21 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Chuck E. Cheese - 'Rainbow Hamster Family'
+    3. Chuck E. & Friends - 'Because We're Friends' (2025)
+    4. KIDZ BOP Kids - 'Birds of Feather'
+    5. Helen Henny - 'Disco Dancing Dinosaur Party'
+    6. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    7. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    8. KIDZ BOP Kids - 'Manchild' (ASL)
+    9. Chuck E. & Friends - 'Fun For All' (2025)
+    10. Chuck E. & Friends - 'Stay Positive' (ASL)
+    11. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    12. KID BOP Kids - 'Good 4 U'
+    13. Bella B. - 'El Rey Guitarrista'
+    14. Helen Henny - 'Game On!'
+    15. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    16. NewJeans - 'Right Now'
+    17. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    18. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+    19. Chuck E. Cheese - 'Lend a Helping Hand'
+    20. Chuck E. Cheese - 'Listen To The Rock'
+    21. KIDZ BOP Kids - 'Contigo'
+    22. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    23. Chuck E. & Munch - Animated Easy Dance
+    24. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    25. KIDZ BOP Kids - 'Million Dollar Baby'
+    26. Chuck E. & Friends - 'Most Perfect Day'
+    27. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    28. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    29. Chuck E. Cheese - 'Another Chuck E. Day'
+    30. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    31. Paris & Pups 'Paris Hilton - STARKLE ON!'
+    32. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives 02/21 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
+3. Me & My Friends (Media Navori)
+4. Chuck E. Bop (Media Navori)
+
+## Show list 02/20 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Paris & Pups - Valentine's Day Dance Party'
+    3. Chuck E. Cheese - 'Rainbow Hamster Family'
+    4. Chuck E. & Friends - 'Because We're Friends' (2025)
+    5. KIDZ BOP Kids - 'Birds of Feather'
+    6. Helen Henny - 'Disco Dancing Dinosaur Party'
+    7. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    8. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    9. KIDZ BOP Kids - 'Manchild' (ASL)
+    10. Chuck E. & Friends - 'Fun For All' (2025)
+    11. Chuck E. & Friends - 'Stay Positive' (ASL)
+    12. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    13. KID BOP Kids - 'Good 4 U'
+    14. Bella B. - 'El Rey Guitarrista'
+    15. Helen Henny - 'Game On!'
+    16. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    17. NewJeans - 'Right Now'
+    18. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    19. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+    20. Chuck E. Cheese - 'Lend a Helping Hand'
+    21. Chuck E. Cheese - 'Listen To The Rock'
+    22. KIDZ BOP Kids - 'Contigo'
+    23. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    24. Chuck E. & Munch - Animated Easy Dance
+    25. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    26. KIDZ BOP Kids - 'Million Dollar Baby'
+    27. Chuck E. & Friends - 'Most Perfect Day'
+    28. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    29. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    30. Chuck E. Cheese - 'Another Chuck E. Day'
+    31. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    32. Paris & Pups 'Paris Hilton - STARKLE ON!'
+    33. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives 02/20 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
+3. Me & My Friends (Media Navori)
+4. Chuck E. Bop (Media Navori)
 
 ## Show list 02/16 Update:
 
@@ -46,8 +176,7 @@ draft = false
     29. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
     30. Chuck E. Cheese - 'Another Chuck E. Day'
     31. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
-    32. Paris & Pups 'Paris Hilton - SPARKLE ON!'
-    33. KIDZ BOP Kids - 'Certified Bop'
+    32. KIDZ BOP Kids - 'Certified Bop'
 
 ## Lives 02/16 Update:
 
@@ -85,7 +214,7 @@ draft = false
     24. Chuck E. Cheese Silly Songs - 'Banana Dog'
     25. Chuck E. & Munch - Animated Easy Dance
     26. Chuck E. Cheese - 'Water Buffalo' (ASL)
-    27. Paris & Pups - 'Paris Hilton - SPARKLE ON!'
+    27. Paris & Pups - 'Paris Hilton - STARKLE ON!'
     28. KIDZ BOP Kids - 'Million Dollar Baby'
     29. Chuck E. & Friends - 'Most Perfect Day'
     30. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
@@ -238,6 +367,8 @@ draft = false
 
 1. 01/05 Update - 'Dippin' Dots + Chuck E.'s Cookie Crunch', 'A Chuck E. Cheese Christmas Trailer','KIDZ BOP Live The Concert Movie' and the second 'Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It' are removed.
 2. 01/22 Update - 'Paris & Pups - Sliving in The Show' is replaced with 'Paris & Pups - Valentines Day Dance Party'
-3. 02/13 Update - 'Paris & Pups Episode 1 - 'Teamwork to Make Music' replaced Paris & Pups Episode 19 - 'Valentine's Day Dance Party', 'Paris & Pups Episode 13 - 'Sliving in the Show', and 'Paris & Pups 'Paris Hilton - SPARKLE ON!' are added.
-4. 02/16 Update - 'Paris & Pups Episode 1 - 'Teamwork to Make Music', 'Paris & Pups - 'Paris Hilton - SPARKLE ON!' and 'Paris & Pups Episode 13 - 'Sliving in the Show' are removed. Paris & Pups - Valentine's Day Dance Party' is re-added.
-5. 02/20 Update - Paris & Pups 'Paris Hilton - SPARKLE ON!' is re-added.
+3. 02/13 Update - 'Paris & Pups Episode 1 - 'Teamwork to Make Music' replaced Paris & Pups Episode 19 - 'Valentine's Day Dance Party', 'Paris & Pups Episode 13 - 'Sliving in the Show', and 'Paris & Pups 'Paris Hilton - STARKLE ON!' are added.
+4. 02/16 Update - 'Paris & Pups Episode 1 - 'Teamwork to Make Music', 'Paris & Pups - 'Paris Hilton - STARKLE ON!' and 'Paris & Pups Episode 13 - 'Sliving in the Show' are removed. Paris & Pups - Valentine's Day Dance Party' is re-added.
+5. 02/20 Update - Paris & Pups 'Paris Hilton - STARKLE ON!' is re-added.
+6. 02/21 Update - Paris & Pups - Valentine's Day Dance Party' is removed.
+7. 02/28 Update - KIDZ BOP Kids - 'Contigo' is moved after Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It', KIDZ BOP Kids - 'Certified Bop', Chuck E. Cheese - 'Water Buffalo' (ASL), Helen Henny - 'Disco Dancing Dinosaur Party', Chuck E. Cheese - 'Lend a Helping Hand', KIDZ BOP Kids - 'Manchild' (ASL), Chuck E. Cheese - 'Listen To The Rock', are moved after Harlem Globetrotters - 'Ways We Celebrate'
