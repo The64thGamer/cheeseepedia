@@ -16,7 +16,6 @@ tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 franchisees = []
 animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-07-15|2006-00-00|1-81 1-5|Owned by Sully G","Dook Larue (Animatronic)|1981-07-15|2006-00-00|1-81 2-5|Owned by ItzaRob",  "Fatz Geronimo (Animatronic)|1981-07-15|2006-00-00|1-81 3-5|Owned by a Private Collector",  "\"Beach Bear (Animatronic)|1981-07-15|2006-00-00|1-81 4-5|Sent to Houston, TX (5535 Weslayan St), now destroyed",  "Mitzi Mozzarella (Animatronic)|1981-07-15|2006-00-00|1-81 5-5|Owned by a Private Collector",  "Billy Bob (Animatronic)|1981-07-15|1991-00-00|1-81 6-5|Unknown",  "Looney Bird (Animatronic)|1981-07-15|0000-00-00|1-81 7-5|Unknown",  "Choo Choo (Animatronic)|1981-07-15|0000-00-00|1-81 8-5|Unknown",  "Sun (Animatronic)|1981-07-15|2006-00-00|1-81 10-5|Unknown",  "Moon (Animatronic)|1981-07-15|2006-00-00|1-81 11-5|Unknown",  "Antioch (Animatronic)|1981-07-15|1991-00-00|Unknown|Unknown",  "Wink|1991-00-00|2006-00-00|Unknown|Unknown"]
-_newPageTag = "Locations"
 +++
 ***Houston, TX (6760 Antoine Dr)* (Store #734)** was a *Chuck E. Cheese's* location that opened on July 15, 1981 as a *ShowBiz Pizza Place* with a {{< wiki-link "Classic Stage" >}}, and closed as a *Chuck E. Cheese's* with a {{< wiki-link "Concept Unification Stage" >}} in September 2006.{{< cite 9 >}}
 
