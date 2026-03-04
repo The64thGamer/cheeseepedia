@@ -29415,7 +29415,7 @@
         "Whac-A-Mole",
         "1979-05-00",
         "0000-00-00",
-        "Mentioned in building plans (Might be Whac-A-Munch, unconfirmed if that came later)."
+        "Mentioned in building plans (Might be Whac-A-Munch, given it appears in early 1980)."
       ],
       "sort": "19790500"
     }
@@ -29550,6 +29550,18 @@
         "0000-00-00",
         "0000-00-00",
         "Single unit Red/Green variant. Seen in 1992."
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/concord-ca-1975-diamond-blvd",
+      "page_path": "content/wiki/concord-ca-1975-diamond-blvd",
+      "page_title": "Concord, CA (1975 Diamond Blvd)",
+      "parts": [
+        "Whac-A-Munch",
+        "0000-00-00",
+        "0000-00-00",
+        "Double Yellow/Red variant, seen in early 1980."
       ],
       "sort": "00000000"
     },
