@@ -95,9 +95,11 @@
   }
 
   function parseFrontmatter(markdown) {
-    const match = markdown.match(/^\+\+\+\n([\s\S]*?)\n\+\+\+\n([\s\S]*)$/);
-    if (match) return { frontmatter: match[1], content: match[2] };
-    return { frontmatter: '', content: markdown };
+    // Normalize line endings so CRLF files don't break the regex
+    const normalized = markdown.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+    const match = normalized.match(/^\+\+\+\n([\s\S]*?)\n\+\+\+\n?([\s\S]*)$/);
+    if (match) return { frontmatter: match[1].trim(), content: match[2] };
+    return { frontmatter: '', content: normalized };
   }
 
   function parseTOML(text) {
@@ -163,9 +165,12 @@
   }
 
   function setFMKey(fm, key, tomlValue) {
-    fm = fm.replace(new RegExp(`^${key}\\s*=\\s*\\[[\\s\\S]*?^\\]\\s*\n`, 'm'), '');
-    const re = new RegExp(`^${key}\\s*=.*$`, 'm');
-    if (re.test(fm)) return fm.replace(re, `${key} = ${tomlValue}`);
+    // Remove any existing occurrence of this key (handles both inline arrays and multi-line arrays)
+    // Multi-line: key = [\n  ...\n]
+    fm = fm.replace(new RegExp(`^${key}\\s*=\\s*\\[[\\s\\S]*?^\\][ \\t]*\\n?`, 'gm'), '');
+    // Inline or scalar: key = ...
+    fm = fm.replace(new RegExp(`^${key}\\s*=.*$\\n?`, 'gm'), '');
+    // Append the new value
     return fm.trimEnd() + `\n${key} = ${tomlValue}`;
   }
 
@@ -218,15 +223,20 @@
 
   function applyFMUpdates(fm, updates) {
     const PROTECTED = new Set(['draft', 'contributors', 'title']);
+    const DATE_KEYS = new Set(['startDate', 'endDate', 'cuDate']);
     for (const [key, value] of Object.entries(updates)) {
-      if (PROTECTED.has(key)) continue;
+      if (PROTECTED.has(key) || key.startsWith('_')) continue;
       let tomlVal;
       if (Array.isArray(value)) {
         tomlVal = INLINE_ARRAY_KEYS.has(key) ? tomlInlineArray(value) : tomlStringArray(value);
       } else if (typeof value === 'boolean') {
         tomlVal = value ? 'true' : 'false';
-      } else if (value === '' || value == null) {
+      } else if (value == null) {
         continue;
+      } else if (value === '') {
+        // Allow empty string for date fields (means "the present"); skip others
+        if (!DATE_KEYS.has(key)) continue;
+        tomlVal = '""';
       } else {
         tomlVal = `"${toTomlStr(String(value))}"`;
       }
@@ -368,7 +378,9 @@
 
   function makeDateSelects(idPrefix, initialValue) {
     const parts     = (initialValue || '').split('-');
-    const initYear  = (parts[0] && parts[0] !== '0000') ? parts[0] : '';
+    // Empty initialValue means "the present"; '0000' parts mean unknown
+    const isPresent = initialValue === '';
+    const initYear  = isPresent ? 'present' : ((parts[0] && parts[0] !== '0000') ? parts[0] : '');
     const initMonth = (parts[1] && parts[1] !== '00')   ? parts[1] : '';
     const initDay   = (parts[2] && parts[2] !== '00')   ? parts[2] : '';
     const wrap = document.createElement('span');
@@ -377,6 +389,7 @@
     const ySel = document.createElement('select');
     ySel.dataset.datePart = 'year';
     addOpt(ySel, '', 'Year (Unknown)');
+    addOpt(ySel, 'present', 'The Present', isPresent);
     for (let y = new Date().getFullYear(); y >= 1970; y--) addOpt(ySel, y, y, String(y) === initYear);
     const mSel = document.createElement('select');
     mSel.dataset.datePart = 'month';
@@ -389,6 +402,17 @@
       const dv = String(d).padStart(2,'0');
       addOpt(dSel, dv, d, dv === initDay);
     }
+
+    function updatePresentState() {
+      const isNowPresent = ySel.value === 'present';
+      mSel.disabled = isNowPresent;
+      dSel.disabled = isNowPresent;
+      mSel.style.opacity = isNowPresent ? '0.45' : '';
+      dSel.style.opacity = isNowPresent ? '0.45' : '';
+    }
+    ySel.addEventListener('change', updatePresentState);
+    updatePresentState();
+
     [ySel, mSel, dSel].forEach(s => { s.style.cssText = 'flex:1; min-width:6rem;'; wrap.appendChild(s); });
     return wrap;
   }
@@ -401,7 +425,8 @@
   }
 
   function readDateSelects(wrap) {
-    const y = wrap.querySelector('[data-date-part="year"]')?.value  || '0000';
+    const y = wrap.querySelector('[data-date-part="year"]')?.value  || '';
+    if (y === 'present') return '';  // empty string = "the present"
     const m = wrap.querySelector('[data-date-part="month"]')?.value || '00';
     const d = wrap.querySelector('[data-date-part="day"]')?.value   || '00';
     return `${y||'0000'}-${m||'00'}-${d||'00'}`;
@@ -1450,7 +1475,8 @@
     if (tag) fm += `\ntags = ["${toTomlStr(tag)}"]`;
     if (extraFields) {
       for (const [key, value] of Object.entries(extraFields)) {
-        if (key === 'title' || key === 'startDate' || key === 'contributors' || key === 'tags') continue;
+        // Skip private/internal keys (prefixed with _), and keys already written above
+        if (key.startsWith('_') || key === 'title' || key === 'startDate' || key === 'contributors' || key === 'tags') continue;
         if (value === '' || value == null) continue;
         if (Array.isArray(value)) {
           const serialized = INLINE_ARRAY_KEYS.has(key) ? tomlInlineArray(value) : tomlStringArray(value);
@@ -1772,34 +1798,7 @@ videoLink = "${toTomlStr(vals.videoLink)}"`;
     return { branchName, baseSha };
   }
 
-  async function commitFiles(kit, login, branchName, baseSha, files, message) {
-    const treeEntries = await Promise.all(files.map(async ({ path, content }) => {
-      const b64 = btoa(unescape(encodeURIComponent(content)));
-      const { data: blob } = await kit.rest.git.createBlob({
-        owner: login, repo: GITHUB_REPO, content: b64, encoding: 'base64'
-      });
-      return { path, mode: '100644', type: 'blob', sha: blob.sha };
-    }));
-    const { data: baseCommit } = await kit.rest.git.getCommit({
-      owner: login, repo: GITHUB_REPO, commit_sha: baseSha
-    });
-    const { data: newTree } = await kit.rest.git.createTree({
-      owner: login, repo: GITHUB_REPO,
-      base_tree: baseCommit.tree.sha, tree: treeEntries
-    });
-    const { data: newCommit } = await kit.rest.git.createCommit({
-      owner: login, repo: GITHUB_REPO,
-      message, tree: newTree.sha, parents: [baseSha]
-    });
-    await kit.rest.git.updateRef({
-      owner: login, repo: GITHUB_REPO,
-      ref: `heads/${branchName}`, sha: newCommit.sha
-    });
-    return newCommit;
-  }
-
-  // Like commitFiles but supports pre-encoded base64 blobs (for binary files like avif).
-  // Each entry: { path, content } for text OR { path, base64 } for binary.
+  // Commits one or more files. Each entry: { path, content } for text OR { path, base64 } for binary.
   async function commitFilesMulti(kit, login, branchName, baseSha, files, message) {
     const treeEntries = await Promise.all(files.map(async ({ path, content, base64 }) => {
       const blobContent  = base64 || btoa(unescape(encodeURIComponent(content)));
@@ -1904,7 +1903,7 @@ tags = ["Reviews"]
 categories = ["User-Generated Content"]
 +++
 ${body}`;
-        await commitFiles(octokit, userLogin, branchName, baseSha,
+        await commitFilesMulti(octokit, userLogin, branchName, baseSha,
           [{ path: `content/reviews/${randomName}.md`, content: fileContent }],
           `Review: ${currentPageTitle}`);
         setReviewProgress(4, 'success');
@@ -1942,17 +1941,68 @@ ${body}`;
     let galleryFiles   = [];
 
     const galleryYear = document.getElementById('gallery-year');
+    addOpt(galleryYear, 'present', 'The Present');
     for (let y = new Date().getFullYear(); y >= 1950; y--) addOpt(galleryYear, y, y);
     const galleryDay = document.getElementById('gallery-day');
     for (let d = 1; d <= 31; d++) addOpt(galleryDay, String(d).padStart(2,'0'), d);
 
+    // Disable month/day when "The Present" is selected
+    const galleryMonth = document.getElementById('gallery-month');
+    galleryYear.addEventListener('change', () => {
+      const isPresent = galleryYear.value === 'present';
+      galleryMonth.disabled = isPresent;
+      galleryDay.disabled   = isPresent;
+      galleryMonth.style.opacity = isPresent ? '0.45' : '';
+      galleryDay.style.opacity   = isPresent ? '0.45' : '';
+    });
+
     function showGalleryStep(num) {
       document.querySelectorAll('#gallery-upload-modal .step').forEach(s => s.style.display = 'none');
-      document.getElementById(`gallery-step-${num}`).style.display = 'block';
+      const el = num === 'citations'
+        ? document.getElementById('gallery-step-citations')
+        : document.getElementById(`gallery-step-${num}`);
+      if (el) el.style.display = 'block';
     }
 
     document.getElementById('add-to-gallery-btn')?.addEventListener('click', async () => {
       if (!await ensureOctokit()) return;
+      // Inject citations step if not already present
+      if (!document.getElementById('gallery-step-citations')) {
+        const citStep = document.createElement('div');
+        citStep.id = 'gallery-step-citations';
+        citStep.className = 'step';
+        citStep.style.display = 'none';
+        citStep.innerHTML = `
+          <h3>Citations</h3>
+          <p style="font-size:0.85rem; color:#aaa; margin-bottom:0.75rem;">Add any citations/sources for these photos (optional).</p>
+          <div id="gallery-citations-list"></div>
+          <button id="gallery-add-citation" style="background:var(--aqua);color:var(--white);border:none;border-radius:0.5rem;padding:0.3rem 0.75rem;cursor:pointer;margin-top:0.4rem;font-family:var(--font-display);">+ Add Citation</button>
+          <div style="margin-top:1rem;">
+            <button id="gallery-back-citations">Back</button>
+            <button id="gallery-next-citations" style="margin-left:0.75rem;">Next</button>
+          </div>`;
+        // Insert before gallery-step-4 (date step)
+        const step4 = document.getElementById('gallery-step-4');
+        step4?.parentNode.insertBefore(citStep, step4);
+
+        function addGalCitRow() {
+          const list = document.getElementById('gallery-citations-list');
+          const row = document.createElement('div');
+          row.style.cssText = 'display:flex; gap:0.4rem; margin-bottom:0.4rem; align-items:center;';
+          const inp = document.createElement('input');
+          inp.type = 'text'; inp.placeholder = 'https://…';
+          inp.style.cssText = 'flex:1; padding:0.4rem 0.6rem; background:var(--deep-white); color:var(--white); border:0.15rem solid var(--brown); border-radius:0.4rem; font-family:var(--font-body); box-sizing:border-box;';
+          const rm = document.createElement('button');
+          rm.textContent = '✕';
+          rm.style.cssText = 'background:var(--orange);color:var(--white);border:none;border-radius:0.35rem;padding:0.2rem 0.6rem;cursor:pointer;font-family:var(--font-display);';
+          rm.addEventListener('click', () => row.remove());
+          row.appendChild(inp); row.appendChild(rm);
+          list.appendChild(row);
+        }
+        document.getElementById('gallery-add-citation')?.addEventListener('click', addGalCitRow);
+        document.getElementById('gallery-back-citations')?.addEventListener('click', () => showGalleryStep(3));
+        document.getElementById('gallery-next-citations')?.addEventListener('click', () => showGalleryStep(4));
+      }
       galleryModal.style.display = 'block';
       showGalleryStep(2);
     });
@@ -1968,7 +2018,7 @@ ${body}`;
     document.getElementById('gallery-back-2')?.addEventListener('click', () => showGalleryStep(2));
     document.getElementById('gallery-next-3')?.addEventListener('click', () => {
       if (!document.getElementById('gallery-description').value.trim()) { alert('Please enter a description'); return; }
-      showGalleryStep(4);
+      showGalleryStep('citations');
     });
     document.getElementById('gallery-back-3')?.addEventListener('click', () => showGalleryStep(3));
     document.getElementById('gallery-next-4')?.addEventListener('click', () => { showGalleryStep(5); uploadGalleryImages(); });
@@ -1986,7 +2036,10 @@ ${body}`;
         const year    = document.getElementById('gallery-year').value;
         const month   = document.getElementById('gallery-month').value;
         const day     = document.getElementById('gallery-day').value;
-        const dateStr = `${year||'0000'}-${month||'00'}-${day||'00'}`;
+        // Empty year means "the present" → empty string; otherwise build date
+        const dateStr = year === '' ? '' : `${year||'0000'}-${month||'00'}-${day||'00'}`;
+        const citationInputs = document.querySelectorAll('#gallery-citations-list input[type="text"]');
+        const citations = Array.from(citationInputs).map(i => i.value.trim()).filter(Boolean);
 
         setGalleryProgress(1, 'loading'); await octokit.rest.users.getAuthenticated(); setGalleryProgress(1, 'success');
         setGalleryProgress(2, 'loading');
@@ -2021,7 +2074,7 @@ ${body}`;
 `+++
 title = "${toTomlStr(info.filename)}"
 startDate = "${dateStr}"
-citations = []
+citations = ${tomlInlineArray(citations)}
 pages = ["${safeTitle(currentPageTitle)}"]
 tags = ["Photos"]
 categories = ${tomlInlineArray(currentPageCategories || [])}

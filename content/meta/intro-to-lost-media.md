@@ -54,9 +54,7 @@ The Pizza Times notes that PTT was featured on the PBS TV show "Ben Wattenberg's
 ### Commercials
 In 1979, Pizza Time Theatre would do an ad campaign called the 'Great All-American Pizza Show'. This included the {{< wiki-link "The Great All-American Pizza Show! (Radio Ad)" >}}, which has been found, but also the {{< wiki-link "The Great All-American Pizza Show! (Commercial)" >}}, which has only had storyboards surface.
 
-The {{< wiki-link "Pizza Time Theatre 1980 Spot (Commercial)" >}} also premiered the next year with lost footage of the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} and {{< wiki-link "Citrus Heights, CA (7614 Greenback Lane)" >}} locations.
-
-Finally, the {{< wiki-link "Pizza Time Theatre 1979 Animated Spot (Commercial)" >}} would have scans of its animation cels leaked online in August of 2022, featuring Chuck E. Cheese, Pasqually, and a kid. It is currently unknown if this commercial is also the prior spot filmed at Concord and Citrus Heights.
+The {{< wiki-link "Pizza Time Theatre 1979 Animated Spot (Commercial)" >}} would have scans of its animation cels leaked online in August of 2022, featuring Chuck E. Cheese, Pasqually, and a kid. It is currently unknown if this commercial is also the prior spot filmed at Concord and Citrus Heights.
 
 ### Kooser Main Show
 The {{< wiki-link "Kooser Main Show & Dolli Showtape" >}} is semi-lost showtape, being the debut tape of the second Pizza Time Theatre store, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}. Its Dolli portion has been widely available, as it was rereleased for {{< wiki-link "Cyberamics" >}} in 1979. The main portion, however, has only had a few snippets of its confirmed 12 segments available. Interestingly, shots of the programming room at Kooser during the supposed run of this tape show two differently labeled tapes at different times. This suggests that either the main tape was copied due to wear, a revision of the tape was made, or an entirely new tape was created, meaning more lost media.
