@@ -467,26 +467,13 @@ def process_normal_files(file_list: list, cmap: dict):
         wikilinks = extract_wikilinks_from_body(body, cmap)
         raw_tags.extend(wikilinks)
 
-        # Inherit tags from wikilinked articles
         for m in WIKI_LINK_RE.finditer(body or ""):
             linked_title = (m.group(1) or m.group(2) or m.group(3) or "").strip()
             if not linked_title:
                 continue
-            linked_path = title_to_path.get(linked_title) or title_to_path.get(linked_title.lower())
-            if not linked_path:
-                continue
-            linked_fm, _ = path_to_fm.get(linked_path, ({}, ""))
-            # Pull tags and categories from the linked article's frontmatter
-            for key in ("tags", "Tags", "categories", "Categories"):
-                if key in linked_fm and linked_fm[key]:
-                    raw = linked_fm[key]
-                    vals = raw if isinstance(raw, (list, tuple)) else re.split(r"[;,]", str(raw))
-                    for v in vals:
-                        v = str(v).strip()
-                        if v:
-                            n = normalize_tag_preserve_case(v, cmap)
-                            if n:
-                                raw_tags.append(n)
+            n = normalize_tag_preserve_case(linked_title, cmap)
+            if n:
+                raw_tags.append(n)
 
         has_media_tag = False
         for key in ("tags", "Tags"):

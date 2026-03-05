@@ -5,7 +5,7 @@ endDate = "1991-00-00"
 pageThumbnailFile = "KOWLOON2.avif"
 tags = ["Companies/Brands"]
 categories = ["Pizza Time Theatre"]
-credits = ["現代廣告公司(Xiàndài Guǎnggào Gōngsī, 'Modern Advertising Company')|Advertising"]
+credits = ["現代廣告公司 (Modern Advertising Company)|Advertising","Whimsy Company Ltd|Franchisees, Singapore Investors","Whimsy Recreation PTE Ltd.|Singapore Franchisees","Emporium Holdings Ltd|Singapore Investors",]
 draft = false
 citations = ["https://sls.hkpl.gov.hk/digital-collection/en/contentcoverpage.html?currentPosition=1&searchId=75ab30499bff493c8eb83ed143d91b41&catalogueId=1ae5b0359cb711ef9c2&mainKeyword=%E5%87%BA%E5%A5%87%E8%80%81%E9%BC%A0&isHKMP=", "https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-3/page/4/mode/2up?q=hong+kong","https://industrialhistoryhk.org/fourseas-bowling-centre-and-whimsy/","https://www.instagram.com/p/DPxrwLIAcOU/?img_index=2","https://sls.hkpl.gov.hk/digital-collection/en/contentcoverpage.html?currentPosition=1&catalogueId=1aea7ba29cb711ef9c2&mainKeyword=%E8%96%84%E9%A4%85%E6%A8%82%E5%9C%92&isHKMP="]
 contributors = ["The 64th Gamer"]
@@ -20,10 +20,10 @@ The first location would continue to do well for Whimsy. By December 1983 it was
 ### Movie Appearances
 
 The locations have appeared in various Chinese movies, including:
-*'Long Arm of the Law' (省港旗兵), 1984
-*'Beloved Daddy' (失婚老豆), 1984
-*'The Flying Mr. B' (鬼馬飛人), 1985
-*'Night Caller' (平安夜), 1985
+* 'Long Arm of the Law' (省港旗兵), 1984
+* 'Beloved Daddy' (失婚老豆), 1984
+* 'The Flying Mr. B' (鬼馬飛人), 1985
+* 'Night Caller' (平安夜), 1985
 
 ## Locations
 
