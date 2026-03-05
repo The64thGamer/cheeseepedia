@@ -1,7 +1,7 @@
 {{- define "main" -}}
 {{- .Content | safeHTML -}}
 <div class="tabs" id="news-tabs">
-  <div class="tab-buttons">
+  <div class="tab-buttons" style="min-height: max-content; overflow-x: auto; overflow-y: hidden;">
     <button class="tab-button active" data-tab="news">News</button>
     <button class="tab-button" data-tab="changed">Recently Changed</button>
     <button class="tab-button" data-tab="photos">New Photos</button>
