@@ -1,7 +1,7 @@
 +++
 draft = false
 title = "Artie Antlers (Cyberamic)"
-startDate = "1983-00-00"
+startDate = "1979-00-00"
 endDate = ""
 pageThumbnailFile = "artie09234i9203i4.avif"
 contributors = ["Kathydra", "The 64th Gamer", "Pizza Entertainment Fan"]
