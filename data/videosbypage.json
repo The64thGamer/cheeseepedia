@@ -8431,6 +8431,80 @@
       "content": "Tully Road in 1990. Children playing at the ball pit and footage of The Beagles, Chuck E's House Facade, and Dolli Dimples."
     }
   ],
+  "Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園)": [
+    {
+      "name": "https://youtu.be/4kLx_J1ufag",
+      "page_path": "content/videos/hongkong-copy-7",
+      "startDate": "0000-00-00",
+      "content": "Hong Kong Advertisement for Aberdeen, Kowloon, and Tsuen Wan"
+    },
+    {
+      "name": "https://youtu.be/TmTjLbXnLW4",
+      "page_path": "content/videos/hongkong-copy-6",
+      "startDate": "0000-00-00",
+      "content": "Unknown Hong Kong location featured in an advertisement."
+    },
+    {
+      "name": "https://archive.org/download/output_clip_202603/flying.mp4",
+      "page_path": "content/videos/hongkong-copy-3",
+      "startDate": "1984-00-00",
+      "content": "Taikoo Shing Chuck Mascot featured in the movie 'Long Arm of the Law' (省港旗兵), taking place in the Cityplaza center."
+    },
+    {
+      "name": "https://archive.org/download/output_clip_202603/output_clip.mp4",
+      "page_path": "content/videos/hongkong-copy-4",
+      "startDate": "1984-00-00",
+      "content": "Unknown Hong Kong location featured in the movie 'Beloved Daddy' (失婚老豆)"
+    },
+    {
+      "name": "https://youtu.be/B5BWdjrgyRo",
+      "page_path": "content/videos/hongkong-copy-5",
+      "startDate": "1984-00-00",
+      "content": "Unknown Hong Kong location featured in an advertisement."
+    },
+    {
+      "name": "https://archive.org/download/output_clip_202603/flying.mp4",
+      "page_path": "content/videos/hongkong-copy-2",
+      "startDate": "1985-00-00",
+      "content": "Unknown Hong Kong location featured in the movie 'The Flying Mr. B' (鬼馬飛人)"
+    },
+    {
+      "name": "https://archive.org/download/output_clip_202603/extra.mp4",
+      "page_path": "content/videos/hongkong-copy",
+      "startDate": "1985-00-00",
+      "content": "Unknown Hong Kong location featured in the movie 'Night Caller' (平安夜), additionally featuring the Chinese King Kat Tape."
+    },
+    {
+      "name": "https://youtu.be/-znS17DIafE",
+      "page_path": "content/videos/hongkong",
+      "startDate": "1986-00-00",
+      "content": "Smile America Hong Kong Ad meantioning the Taikoo Shing location, but unconfirmed which is shown."
+    }
+  ],
+  "Tsuen Wan, Hong Kong, China (Luk Yeung Sun Chuen, Podium Level, P.9-P.10)": [
+    {
+      "name": "https://youtu.be/4kLx_J1ufag",
+      "page_path": "content/videos/hongkong-copy-7",
+      "startDate": "0000-00-00",
+      "content": "Hong Kong Advertisement for Aberdeen, Kowloon, and Tsuen Wan"
+    }
+  ],
+  "Hong Kong, China (Aberdeen Centre, Nam Ning Street, Shop 2)": [
+    {
+      "name": "https://youtu.be/4kLx_J1ufag",
+      "page_path": "content/videos/hongkong-copy-7",
+      "startDate": "0000-00-00",
+      "content": "Hong Kong Advertisement for Aberdeen, Kowloon, and Tsuen Wan"
+    }
+  ],
+  "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)": [
+    {
+      "name": "https://youtu.be/4kLx_J1ufag",
+      "page_path": "content/videos/hongkong-copy-7",
+      "startDate": "0000-00-00",
+      "content": "Hong Kong Advertisement for Aberdeen, Kowloon, and Tsuen Wan"
+    }
+  ],
   "Huntington Beach, CA (15031 Goldenwest St)": [
     {
       "name": "https://youtu.be/wh1qKtniSdE",
@@ -8849,6 +8923,20 @@
       "page_path": "content/videos/https-www-youtube-com-watch-v-0ypjb4owmdc-t-1709s",
       "startDate": "1991-08-01",
       "content": "VHS of a birthday party at Arlington, TX (2216 S Fielder Rd). Showcases the King and Rocker Stage."
+    }
+  ],
+  "Taikoo Shing, Hong Kong, China (City Plaza, Unit 502)": [
+    {
+      "name": "https://archive.org/download/output_clip_202603/flying.mp4",
+      "page_path": "content/videos/hongkong-copy-3",
+      "startDate": "1984-00-00",
+      "content": "Taikoo Shing Chuck Mascot featured in the movie 'Long Arm of the Law' (省港旗兵), taking place in the Cityplaza center."
+    },
+    {
+      "name": "https://youtu.be/-znS17DIafE",
+      "page_path": "content/videos/hongkong",
+      "startDate": "1986-00-00",
+      "content": "Smile America Hong Kong Ad meantioning the Taikoo Shing location, but unconfirmed which is shown."
     }
   ],
   "Country II": [
@@ -10253,6 +10341,14 @@
       "page_path": "content/videos/https-youtu-be-bcmy4fo-lsw-si-rpga0emewdzb8mla",
       "startDate": "",
       "content": "Don't Stop Thinking About Tomorrow | Retromation"
+    }
+  ],
+  "Chinese King Kat Tape": [
+    {
+      "name": "https://archive.org/download/output_clip_202603/extra.mp4",
+      "page_path": "content/videos/hongkong-copy",
+      "startDate": "1985-00-00",
+      "content": "Unknown Hong Kong location featured in the movie 'Night Caller' (平安夜), additionally featuring the Chinese King Kat Tape."
     }
   ],
   "Beach Bear (Wolf Pack 5 Animatronic)": [

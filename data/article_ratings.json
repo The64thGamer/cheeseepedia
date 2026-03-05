@@ -3967,7 +3967,7 @@
     "category": "Pizza Time Theatre",
     "tag": "Locations",
     "contributors_count": 0,
-    "rating": 0
+    "rating": 1
   },
   {
     "title": "CEC 3-Stage Chuck E. Mask Retrofit Guide",
@@ -46630,6 +46630,16 @@
     "rating": 0
   },
   {
+    "title": "Hong Kong, China (Causeway Bay)",
+    "page_path": "content/wiki/y71b5l6fjng.md",
+    "startDate": "1983-00-00",
+    "start_year": 1983,
+    "category": "Pizza Time Theatre",
+    "tag": "Cancelled Locations",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Crusty's Vegetarian Delight (PTT Menu Item)",
     "page_path": "content/wiki/crusty-s-vegetarian-delight-ptt-menu-item.md",
     "startDate": "1977-05-00",
@@ -60116,8 +60126,8 @@
     "start_year": 1982,
     "category": "Pizza Time Theatre",
     "tag": "Companies/Brands",
-    "contributors_count": 0,
-    "rating": 1
+    "contributors_count": 1,
+    "rating": 2
   },
   {
     "title": "'Character' 1994",
