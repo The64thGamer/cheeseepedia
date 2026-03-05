@@ -17,7 +17,7 @@ latitudeLongitude = ["42.9032251","-78.7841007"]
 
 ## History
 
-Cheektowaga opened on November 26th, 1982, in the Thruway Mall with {{< wiki-link "Cyberamics Balcony Stage" >}}. When the store opened, they had either Harmony or Madame oink. Then, sometime after opening, {{< wiki-link "Cheese E Street" >}} was installed at the store, the installation location was unknown. The store was then closed on July 29th, 1985 for unknown reasons (though it may have been underperforming, a reason for many store closures around the same time) after operating for almost 2 years. The show's fate is unknown.
+Cheektowaga opened on November 26th, 1982, in the Thruway Mall with {{< wiki-link "Cyberamics Balcony Stage" >}}. When the store opened, they had either Harmony or Madame oink. Then, sometime after opening, {{< wiki-link "Cheese E. Street" >}} was installed at the store, the installation location was unknown. The store was then closed on July 29th, 1985 for unknown reasons (though it may have been underperforming, a reason for many store closures around the same time) after operating for almost 2 years. The show's fate is unknown.
 
 ## Stages
 

@@ -11,7 +11,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
 
-***2701 S Chase Ave, Store #842*** is a *{{< wiki-link "Chuck E Cheese's" >}}* that opened in April 1983 as a *{{< wiki-link "Pizza Time Theatre" >}}* with a {{< wiki-link "Cyberamics Balcony Stage" >}}. Milwaukee was the third PTT to open in the state. It was one of the select few stores that got the {{< wiki-link "Cheese E Street" >}} concept and was also the last store to feature it as it was removed more than ten years after the location opened in 1995. Milwaukee is still open today with the 2.0 Remodel. Strangely, it is located in the corporate headquarters of an unrelated company called UMOS, Inc. which is in the former Kmart that closed in 2003 and originally opened on November 21st, 1971.
+***2701 S Chase Ave, Store #842*** is a *{{< wiki-link "Chuck E Cheese's" >}}* that opened in April 1983 as a *{{< wiki-link "Pizza Time Theatre" >}}* with a {{< wiki-link "Cyberamics Balcony Stage" >}}. Milwaukee was the third PTT to open in the state. It was one of the select few stores that got the {{< wiki-link "Cheese E. Street" >}} concept and was also the last store to feature it as it was removed more than ten years after the location opened in 1995. Milwaukee is still open today with the 2.0 Remodel. Strangely, it is located in the corporate headquarters of an unrelated company called UMOS, Inc. which is in the former Kmart that closed in 2003 and originally opened on November 21st, 1971.
 
 ## Stages
 

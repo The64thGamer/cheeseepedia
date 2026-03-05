@@ -31722,13 +31722,83 @@
       "content": ""
     }
   ],
-  "Cheese E Street": [
+  "Cheese E. Street": [
     {
       "name": "DXWcy2NruTceJvMuLRja.avif",
       "page_path": "content/photos/dxwcy2nrutcejvmulrjaavif",
       "hasFile": true,
       "startDate": "",
       "content": "A picture featured in a debut article of Cheese E. Street"
+    },
+    {
+      "name": "AfUtBuhhJGBvnZMcgy_S.avif",
+      "page_path": "content/photos/afutbuhhjgbvnzmcgy-savif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Taken from an article on the Danvers Pizza Time Theatre."
+    },
+    {
+      "name": "LSDSMvO8GqVnl2mj0I1N.avif",
+      "page_path": "content/photos/lsdsmvo8gqvnl2mj0i1navif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Taken From 1989 footage from the Milwaukee (Chase) Location."
+    },
+    {
+      "name": "t7rF3WZH930Ppm8fLHQD.avif",
+      "page_path": "content/photos/t7rf3wzh930ppm8flhqdavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "A photo of Kip Atchley and a model of Cheese E. Street"
+    },
+    {
+      "name": "Fi8LGRKjWPL2aYuTxYbU.avif",
+      "page_path": "content/photos/fi8lgrkjwpl2ayutxybuavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Taken from Shiny Happy Jenn's 1989 Remodel tour."
+    },
+    {
+      "name": "d0nDPEvYymMY03dunzjj.avif",
+      "page_path": "content/photos/d0ndpevyymmy03dunzjjavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Photo of the Ribbon cutting ceremony at the Kooser Road location."
+    },
+    {
+      "name": "E0cde171e0bd35156aa8c9f3a24a77c8.avif",
+      "page_path": "content/photos/e0cde171e0bd35156aa8c9f3a24a77c8avif",
+      "hasFile": true,
+      "startDate": "",
+      "content": ""
+    },
+    {
+      "name": "cLsFzbo7UYkRuRoBnSL_.avif",
+      "page_path": "content/photos/clsfzbo7uykrurobnsl-avif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "A newspaper advertisement for Cheektowaga's Christmas event"
+    },
+    {
+      "name": "q6ZIMYAnVjgXUn9p3nbu.avif",
+      "page_path": "content/photos/q6zimyanvjgxun9p3nbuavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "An advertisement from the Cheektowaga Easter Egg Hunt"
+    },
+    {
+      "name": "8NoGpd7RKt52GyCnFcAs.avif",
+      "page_path": "content/photos/8nogpd7rkt52gycnfcasavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Taken from the Fun St. article."
+    },
+    {
+      "name": "H29gckvxkbW5AvTQosQS.avif",
+      "page_path": "content/photos/h29gckvxkbw5avtqosqsavif",
+      "hasFile": true,
+      "startDate": "",
+      "content": "Taken From 1989 footage from the Milwaukee (Chase) Location."
     }
   ],
   "Beagles III": [
@@ -34876,78 +34946,6 @@
       "hasFile": true,
       "startDate": "",
       "content": ""
-    }
-  ],
-  "Cheese E. Street": [
-    {
-      "name": "AfUtBuhhJGBvnZMcgy_S.avif",
-      "page_path": "content/photos/afutbuhhjgbvnzmcgy-savif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Taken from an article on the Danvers Pizza Time Theatre."
-    },
-    {
-      "name": "LSDSMvO8GqVnl2mj0I1N.avif",
-      "page_path": "content/photos/lsdsmvo8gqvnl2mj0i1navif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Taken From 1989 footage from the Milwaukee (Chase) Location."
-    },
-    {
-      "name": "t7rF3WZH930Ppm8fLHQD.avif",
-      "page_path": "content/photos/t7rf3wzh930ppm8flhqdavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "A photo of Kip Atchley and a model of Cheese E. Street"
-    },
-    {
-      "name": "Fi8LGRKjWPL2aYuTxYbU.avif",
-      "page_path": "content/photos/fi8lgrkjwpl2ayutxybuavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Taken from Shiny Happy Jenn's 1989 Remodel tour."
-    },
-    {
-      "name": "d0nDPEvYymMY03dunzjj.avif",
-      "page_path": "content/photos/d0ndpevyymmy03dunzjjavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Photo of the Ribbon cutting ceremony at the Kooser Road location."
-    },
-    {
-      "name": "E0cde171e0bd35156aa8c9f3a24a77c8.avif",
-      "page_path": "content/photos/e0cde171e0bd35156aa8c9f3a24a77c8avif",
-      "hasFile": true,
-      "startDate": "",
-      "content": ""
-    },
-    {
-      "name": "cLsFzbo7UYkRuRoBnSL_.avif",
-      "page_path": "content/photos/clsfzbo7uykrurobnsl-avif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "A newspaper advertisement for Cheektowaga's Christmas event"
-    },
-    {
-      "name": "q6ZIMYAnVjgXUn9p3nbu.avif",
-      "page_path": "content/photos/q6zimyanvjgxun9p3nbuavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "An advertisement from the Cheektowaga Easter Egg Hunt"
-    },
-    {
-      "name": "8NoGpd7RKt52GyCnFcAs.avif",
-      "page_path": "content/photos/8nogpd7rkt52gycnfcasavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Taken from the Fun St. article."
-    },
-    {
-      "name": "H29gckvxkbW5AvTQosQS.avif",
-      "page_path": "content/photos/h29gckvxkbw5avtqosqsavif",
-      "hasFile": true,
-      "startDate": "",
-      "content": "Taken From 1989 footage from the Milwaukee (Chase) Location."
     }
   ],
   "The Scab (Animatronic)": [
@@ -38110,6 +38108,92 @@
       "hasFile": true,
       "startDate": "",
       "content": "One of the last Flag Wavers at Jungle Jim's near Check Out. (Removed 2018)"
+    }
+  ],
+  "Singapore, Marine Parade (Parkway Parade, 80 Marine Parade Road, #01-35)": [
+    {
+      "name": "bgwo6cyl7df.avif",
+      "page_path": "content/photos/bgwo6cyl7df",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "b7atf2ydfpl.avif",
+      "page_path": "content/photos/b7atf2ydfpl",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "3vlvgfzdvuc.avif",
+      "page_path": "content/photos/3vlvgfzdvuc",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "1urhf0syjr9.avif",
+      "page_path": "content/photos/1urhf0syjr9",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "4xtozofbe2g.avif",
+      "page_path": "content/photos/4xtozofbe2g",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "haytfyeyeg.avif",
+      "page_path": "content/photos/haytfyeyeg",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "gpxo6x6heq.avif",
+      "page_path": "content/photos/gpxo6x6heq",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "6zj5vir8f34.avif",
+      "page_path": "content/photos/6zj5vir8f34",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "gwmps93tmg7.avif",
+      "page_path": "content/photos/gwmps93tmg7",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "evsabyqjkra.avif",
+      "page_path": "content/photos/evsabyqjkra",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "9o561a41nxr.avif",
+      "page_path": "content/photos/9o561a41nxr",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
+    },
+    {
+      "name": "39oyv08s6j.avif",
+      "page_path": "content/photos/39oyv08s6j",
+      "hasFile": true,
+      "startDate": "1984-00-00",
+      "content": "Newspaper Clipping"
     }
   ],
   "1988 CEC Beach Club Cup": [
@@ -56450,6 +56534,13 @@
     }
   ],
   "Burlington, Ontario, Canada (3345 Harvester Rd)": [
+    {
+      "name": "jxgzbbhqv9.avif",
+      "page_path": "content/photos/jxgzbbhqv9",
+      "hasFile": true,
+      "startDate": "1981-11-00",
+      "content": "Exterior"
+    },
     {
       "name": "P3YuxV21JxTkw9hQcVqv.avif",
       "page_path": "content/photos/p3yuxv21jxtkw9hqcvqvavif",

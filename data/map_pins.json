@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T04:37:59Z",
-  "count": 1056,
+  "generated_at": "2026-03-05T07:46:15Z",
+  "count": 1059,
   "locations": [
     {
       "title": "Salem, OR (3180 Lancaster Dr)",
@@ -1312,6 +1312,25 @@
       "endDate": "1985-10-13",
       "cuDate": "1992-01-01",
       "page_path": "content/wiki/kansas-city-mo-4601-bannister-rd.md"
+    },
+    {
+      "title": "Hong Kong, China (Aberdeen Centre, Nam Ning Street, Shop 2)",
+      "group": [
+        "Pizza Time Theatre"
+      ],
+      "coords_str": [
+        "22.248411",
+        "114.154576"
+      ],
+      "coords": [
+        22.248411,
+        114.154576
+      ],
+      "url": "/wiki/aberdeenhongkong/",
+      "startDate": "1984-01-01",
+      "endDate": "1986-12-31",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/aberdeenhongkong.md"
     },
     {
       "title": "La Serena, Chile",
@@ -4504,6 +4523,25 @@
       "endDate": "1984-01-08",
       "cuDate": "1992-01-01",
       "page_path": "content/wiki/shreveport-la-9150-mansfield-rd.md"
+    },
+    {
+      "title": "Tsuen Wan, Hong Kong, China (Luk Yeung Sun Chuen, Podium Level, P.9-P.10)",
+      "group": [
+        "Pizza Time Theatre"
+      ],
+      "coords_str": [
+        "22.3712427",
+        "114.1136227"
+      ],
+      "coords": [
+        22.3712427,
+        114.1136227
+      ],
+      "url": "/wiki/tsuenwan/",
+      "startDate": "1985-01-01",
+      "endDate": "1991-12-31",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/tsuenwan.md"
     },
     {
       "title": "Hayward, CA (24253 Hesperian Blvd)",
@@ -14045,7 +14083,7 @@
       "page_path": "content/wiki/lima-plaza-norte-peru.md"
     },
     {
-      "title": "Parkway Parade, Marine Parade, Singapore",
+      "title": "Singapore, Marine Parade (Parkway Parade, 80 Marine Parade Road, #01-35)",
       "group": [
         "Pizza Time Theatre"
       ],
@@ -14347,6 +14385,25 @@
       "endDate": "9999-12-31",
       "cuDate": "1992-01-01",
       "page_path": "content/wiki/hempstead-ny-162-fulton-ave.md"
+    },
+    {
+      "title": "Taikoo Shing, Hong Kong, China (City Plaza, Unit 502)",
+      "group": [
+        "Pizza Time Theatre"
+      ],
+      "coords_str": [
+        "22.2861381",
+        "114.2200316"
+      ],
+      "coords": [
+        22.2861381,
+        114.2200316
+      ],
+      "url": "/wiki/cityplazahongkong/",
+      "startDate": "1984-01-01",
+      "endDate": "1991-12-31",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/cityplazahongkong.md"
     },
     {
       "title": "Asheville, NC (34 Tunnel Rd)",

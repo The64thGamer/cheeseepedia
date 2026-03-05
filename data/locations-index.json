@@ -3009,7 +3009,7 @@
     {
       "page_get": "wiki/parkway-parade-marine-parade-singapore",
       "page_path": "content/wiki/parkway-parade-marine-parade-singapore",
-      "page_title": "Parkway Parade, Marine Parade, Singapore",
+      "page_title": "Singapore, Marine Parade (Parkway Parade, 80 Marine Parade Road, #01-35)",
       "parts": [
         "Balcony Stage",
         "1983-12-15",
@@ -3017,6 +3017,30 @@
         ""
       ],
       "sort": "19831215"
+    },
+    {
+      "page_get": "wiki/aberdeenhongkong",
+      "page_path": "content/wiki/aberdeenhongkong",
+      "page_title": "Hong Kong, China (Aberdeen Centre, Nam Ning Street, Shop 2)",
+      "parts": [
+        "Balcony Stage",
+        "1984-00-00",
+        "1986-00-00",
+        ""
+      ],
+      "sort": "19840000"
+    },
+    {
+      "page_get": "wiki/cityplazahongkong",
+      "page_path": "content/wiki/cityplazahongkong",
+      "page_title": "Taikoo Shing, Hong Kong, China (City Plaza, Unit 502)",
+      "parts": [
+        "Balcony Stage",
+        "1984-00-00",
+        "1991-00-00",
+        ""
+      ],
+      "sort": "19840000"
     },
     {
       "page_get": "wiki/champaign-il-1036-bloomington-rd",
@@ -3161,6 +3185,18 @@
         ""
       ],
       "sort": "19841000"
+    },
+    {
+      "page_get": "wiki/tsuenwan",
+      "page_path": "content/wiki/tsuenwan",
+      "page_title": "Tsuen Wan, Hong Kong, China (Luk Yeung Sun Chuen, Podium Level, P.9-P.10)",
+      "parts": [
+        "Balcony Stage",
+        "1985-00-00",
+        "1991-00-00",
+        ""
+      ],
+      "sort": "19850000"
     },
     {
       "page_get": "wiki/levittown-ny-3046-hempstead-turnpike",

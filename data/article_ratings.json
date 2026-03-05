@@ -3960,6 +3960,16 @@
     "rating": 0
   },
   {
+    "title": "Hong Kong, China (Aberdeen Centre, Nam Ning Street, Shop 2)",
+    "page_path": "content/wiki/aberdeenhongkong.md",
+    "startDate": "1984-00-00",
+    "start_year": 1984,
+    "category": "Pizza Time Theatre",
+    "tag": "Locations",
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
     "title": "CEC 3-Stage Chuck E. Mask Retrofit Guide",
     "page_path": "content/wiki/cec-3-stage-chuck-e-mask-retrofit-guide.md",
     "startDate": "",
@@ -13825,6 +13835,16 @@
     "startDate": "1983-02-09",
     "start_year": 1983,
     "category": "ShowBiz Pizza Place",
+    "tag": "Locations",
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "Tsuen Wan, Hong Kong, China (Luk Yeung Sun Chuen, Podium Level, P.9-P.10)",
+    "page_path": "content/wiki/tsuenwan.md",
+    "startDate": "1985-00-00",
+    "start_year": 1985,
+    "category": "Pizza Time Theatre",
     "tag": "Locations",
     "contributors_count": 0,
     "rating": 0
@@ -42340,7 +42360,7 @@
     "rating": 0
   },
   {
-    "title": "Parkway Parade, Marine Parade, Singapore",
+    "title": "Singapore, Marine Parade (Parkway Parade, 80 Marine Parade Road, #01-35)",
     "page_path": "content/wiki/parkway-parade-marine-parade-singapore.md",
     "startDate": "1983-12-15",
     "start_year": 1983,
@@ -43096,6 +43116,16 @@
     "start_year": 2010,
     "category": "Chuck E. Cheese's",
     "tag": "Showtapes",
+    "contributors_count": 0,
+    "rating": 0
+  },
+  {
+    "title": "Taikoo Shing, Hong Kong, China (City Plaza, Unit 502)",
+    "page_path": "content/wiki/cityplazahongkong.md",
+    "startDate": "1984-00-00",
+    "start_year": 1984,
+    "category": "Pizza Time Theatre",
+    "tag": "Locations",
     "contributors_count": 0,
     "rating": 0
   },
@@ -56446,7 +56476,7 @@
     "start_year": 1977,
     "category": "Pizza Time Theatre",
     "tag": "Animatronics",
-    "contributors_count": 13,
+    "contributors_count": 14,
     "rating": 2
   },
   {
@@ -60078,6 +60108,16 @@
     "tag": "Locations",
     "contributors_count": 0,
     "rating": 0
+  },
+  {
+    "title": "Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園)",
+    "page_path": "content/wiki/chutkei.md",
+    "startDate": "1982-12-00",
+    "start_year": 1982,
+    "category": "Pizza Time Theatre",
+    "tag": "Companies/Brands",
+    "contributors_count": 0,
+    "rating": 1
   },
   {
     "title": "'Character' 1994",
