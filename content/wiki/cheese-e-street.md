@@ -23,7 +23,7 @@ The attraction would only be installed at a certain number of locations. (N/A is
 - {{< wiki-link "West Mifflin, PA (2260 Lebanon Church Rd)" >}} - August 1983
 - {{< wiki-link "Cheektowaga, NY (Thruway Mall)" >}} - N/A
 - {{< wiki-link "Johnson City, NY (365 Harry L Dr)" >}} - N/A
-- {{< wiki-link "Parkway Parade, Marine Parade, Singapore" >}} - N/A
+- {{< wiki-link Singapore, Marine Parade (Parkway Parade, 80 Marine Parade Road, #01-35) >}} - N/A
 - Kowloon, Hong Kong, China - N/A
 
 ## Layout

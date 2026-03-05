@@ -1,5 +1,5 @@
 +++
-title = "Parkway Parade, Marine Parade, Singapore"
+title = "Singapore, Marine Parade (Parkway Parade, 80 Marine Parade Road, #01-35)"
 storeNumber = ""
 startDate = "1983-12-15"
 endDate = "1986-00-00"

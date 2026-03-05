@@ -1,5 +1,5 @@
 +++
-title = "Parkway Parade, Marine Parade, Singapore"
+title = Singapore, Marine Parade (Parkway Parade, 80 Marine Parade Road, #01-35)
 draft = false
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
