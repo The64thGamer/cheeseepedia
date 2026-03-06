@@ -1,0 +1,3 @@
+{{- $pages := where site.RegularPages "Section" "wiki" -}}
+{{- $locationPages := where $pages ".Params.tags" "intersect" (slice "Locations") -}}
+{{- return $locationPages -}}

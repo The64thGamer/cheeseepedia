@@ -1,0 +1,86 @@
+<h2>Tracklist</h2>
+<ol class="segments">
+  {{ range .Params.segments }}
+  <li class="segment">
+    <div class="segment-title">{{ .title }}</div>
+    <ol class="segment-items">
+      {{ range .items }}
+        {{ if eq .type "song" }}
+          {{/* start/timecode string */}}
+          {{ $tc := .start | default "0" }}
+          {{ $parts := split $tc ":" }}
+          {{ $len := len $parts }}
+          {{ $seconds := 0 }}
+
+          {{ if eq $len 3 }}
+            {{ $hstr := index $parts 0 | replaceRE "^0+" "" | default "0" }}
+            {{ $mstr := index $parts 1 | replaceRE "^0+" "" | default "0" }}
+            {{ $sstr := index $parts 2 | replaceRE "^0+" "" | default "0" }}
+            {{ $h := $hstr | int }}
+            {{ $m := $mstr | int }}
+            {{ $s := $sstr | int }}
+            {{ $seconds = add (mul $h 3600) (add (mul $m 60) $s) }}
+          {{ else if eq $len 2 }}
+            {{ $mstr := index $parts 0 | replaceRE "^0+" "" | default "0" }}
+            {{ $sstr := index $parts 1 | replaceRE "^0+" "" | default "0" }}
+            {{ $m := $mstr | int }}
+            {{ $s := $sstr | int }}
+            {{ $seconds = add (mul $m 60) $s }}
+          {{ else if eq $len 1 }}
+            {{ $sstr := index $parts 0 | replaceRE "^0+" "" | default "0" }}
+            {{ $seconds = $sstr | int }}
+          {{ end }}
+
+          {{ $min := div $seconds 60 }}
+          {{ $sec := mod $seconds 60 }}
+
+          <li class="track" data-start="{{ $tc }}" data-src="{{ .src }}">
+            <span class="track-title">{{- "▶ " -}}{{ .title }}</span>
+            <span class="track-time">{{ printf "%02d:%02d" $min $sec }}</span>
+          </li>
+
+        {{ else if eq .type "medley" }}
+          <li class="medley">
+            <div class="medley-title">{{ .title }}</div>
+            <ol class="medley-tracks">
+              {{ range .tracks }}
+                {{ $tc := .start | default "0" }}
+                {{ $parts := split $tc ":" }}
+                {{ $len := len $parts }}
+                {{ $seconds := 0 }}
+
+                {{ if eq $len 3 }}
+                  {{ $hstr := index $parts 0 | replaceRE "^0+" "" | default "0" }}
+                  {{ $mstr := index $parts 1 | replaceRE "^0+" "" | default "0" }}
+                  {{ $sstr := index $parts 2 | replaceRE "^0+" "" | default "0" }}
+                  {{ $h := $hstr | int }}
+                  {{ $m := $mstr | int }}
+                  {{ $s := $sstr | int }}
+                  {{ $seconds = add (mul $h 3600) (add (mul $m 60) $s) }}
+                {{ else if eq $len 2 }}
+                  {{ $mstr := index $parts 0 | replaceRE "^0+" "" | default "0" }}
+                  {{ $sstr := index $parts 1 | replaceRE "^0+" "" | default "0" }}
+                  {{ $m := $mstr | int }}
+                  {{ $s := $sstr | int }}
+                  {{ $seconds = add (mul $m 60) $s }}
+                {{ else if eq $len 1 }}
+                  {{ $sstr := index $parts 0 | replaceRE "^0+" "" | default "0" }}
+                  {{ $seconds = $sstr | int }}
+                {{ end }}
+
+                {{ $min := div $seconds 60 }}
+                {{ $sec := mod $seconds 60 }}
+
+                <li class="track" data-start="{{ $tc }}" data-src="{{ .src }}">
+                  <span class="track-title">{{- "▶ " -}}{{ .title }}</span>
+                  <span class="track-time">{{ printf "%02d:%02d" $min $sec }}</span>
+                </li>
+              {{ end }}
+            </ol>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ol>
+  </li>
+  {{ end }}
+</ol>

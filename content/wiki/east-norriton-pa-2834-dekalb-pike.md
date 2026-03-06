@@ -1,0 +1,20 @@
++++
+title = "East Norriton / Norristown, PA (2834 Dekalb Pike)"
+storeNumber = ""
+startDate = "1983-06-00"
+endDate = "1985-00-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1983-06-00|1985-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["40.1296956","-75.3244548"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
+tags = ["Locations"]
+categories = ["Pizza Time Theatre"]
+draft = false
++++

@@ -1,0 +1,9 @@
++++
+title = "0fcdbfa687cf3e46.avif"
+draft = false
+tags = ["Photos"]
+categories = ["Chuck E. Cheese's"]
+pages = ["2010 Rocker Helen Plush"]
+startDate = "2010-00-00"
+citations = []
++++

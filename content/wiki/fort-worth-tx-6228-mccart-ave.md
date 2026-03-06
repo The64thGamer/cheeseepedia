@@ -1,0 +1,20 @@
++++
+title = "Fort Worth, TX (6228 McCart Ave)"
+storeNumber = ""
+startDate = "1982-05-00"
+endDate = "1984-00-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1982-05-00|1984-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["32.6540480","-97.3634209"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
+tags = ["Locations"]
+categories = ["Pizza Time Theatre"]
+draft = false
++++

@@ -1,6 +1,8 @@
 +++
 title = "Singapore, Marine Parade (Parkway Parade, 80 Marine Parade Road, #01-35)"
 storeNumber = ""
+startDate = "1983-12-15"
+endDate = "1986-00-00"
 cuDate = ""
 remodels = []
 stages = ["Balcony Stage|1983-12-15|1986-00-00|"]
@@ -9,12 +11,10 @@ attractions = []
 sqft = ""
 latitudeLongitude = ["1.30024632","103.903355"]
 citations = []
-contributors = ["studio18cec"]
-draft = false
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
 tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
-startDate = "1983-12-15"
-endDate = "1986-00-00"
-pageThumbnailFile = "1urhf0syjr9.avif"
-downloadLinks = []
+draft = false
 +++

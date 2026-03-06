@@ -1,0 +1,12 @@
+<h1>{{- partial "emojify.html" .Title -}}</h1>
+{{- .Content | safeHTML -}}
+
+<div id="loadingText" class="loading-text">Loading. . .</div>
+<div id="tagsContainer" style="visibility:hidden;">
+    {{- $listPages := sort .Pages "Params.startDate" -}}
+    {{- range $listPages -}}
+      <div class="{{- delimit (apply .Params.categories "urlize" ".") " " -}}{{- " " -}}{{- partial "date-to-year.html" .Params.startDate -}}" style="display: none;">
+        {{- partial "display-page-box.html" . -}}
+      </div>
+    {{- end -}}
+</div>

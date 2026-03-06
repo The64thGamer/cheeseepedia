@@ -1,0 +1,9 @@
++++
+title = "hNUDWzxfgUW6o9g0BgMW.avif"
+draft = false
+tags = ["Photos"]
+categories = ["Chuck E. Cheese's"]
+pages = ["Spring 2012 Show"]
+startDate = ""
++++
+The Break Dancing Teddy Bear playing a Keytar

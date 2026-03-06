@@ -1,0 +1,20 @@
++++
+title = "Windsor, Ontario, Canada (4450 Walker Rd)"
+storeNumber = ""
+startDate = "2005-02-25"
+endDate = "2019-09-00"
+cuDate = ""
+remodels = []
+stages = ["Studio C Beta|2005-02-25|2019-09-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["42.2929705","-82.9885472"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
+tags = ["Locations"]
+categories = ["Chuck E. Cheese's"]
+draft = false
++++

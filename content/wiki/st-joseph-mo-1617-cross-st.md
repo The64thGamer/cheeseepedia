@@ -1,0 +1,20 @@
++++
+title = "St. Joseph, MO (1607 N Belt Hwy)"
+storeNumber = ""
+startDate = "1984-09-18"
+endDate = "1986-12-31"
+cuDate = ""
+remodels = []
+stages = ["Classic Stage|1984-09-18|1986-12-31|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["39.7786024","-94.8032871"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
+tags = ["Locations"]
+categories = ["ShowBiz Pizza Place"]
+draft = false
++++

@@ -1,0 +1,64 @@
+name: Post commit info to Discourse Chat
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+jobs:
+  notify-discourse:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Gather PR or commit details
+        id: format
+        run: |
+          if [ "${{ github.event_name }}" == "pull_request" ]; then
+            # Pull Request event
+            PR_TITLE="${{ github.event.pull_request.title }}"
+            PR_AUTHOR="${{ github.event.pull_request.user.login }}"
+            PR_NUMBER="${{ github.event.pull_request.number }}"
+            PR_URL="${{ github.event.pull_request.html_url }}"
+            
+            MSG="🔀 **Pull Request #${PR_NUMBER}**\n**Title:** ${PR_TITLE}\n**Author:** ${PR_AUTHOR}\n**Link:** ${PR_URL}"
+            echo "message<<EOF" >> $GITHUB_OUTPUT
+            echo "$MSG" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          else
+            # Push to main event
+            SHA=$(git rev-parse HEAD)
+            TITLE=$(git log -1 --pretty=format:"%s")
+            AUTHOR=$(git log -1 --pretty=format:"%an")
+            
+            # Get changed files
+            FILES=$(git diff-tree --no-commit-id --name-only -r HEAD | head -10 | sed 's/^/`/;s/$/`/' | paste -sd ", " -)
+            
+            # Check if this was a PR merge
+            PR_NUM=$(git log -1 --pretty=format:"%s" | grep -oP '#\d+' | head -1 | tr -d '#')
+            
+            if [ -n "$PR_NUM" ]; then
+              # This is a merged PR
+              MSG="🧀 **Merged to Main!**\n**PR #${PR_NUM}:** ${TITLE}\n**Changed:** ${FILES}\n**Author:** ${AUTHOR}"
+            else
+              # Regular commit
+              MSG="🧀 **New Commit!**\n**Title:** ${TITLE}\n**Changed:** ${FILES}\n**Author:** ${AUTHOR}"
+            fi
+            
+            echo "message<<EOF" >> $GITHUB_OUTPUT
+            echo "$MSG" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send to Discourse Chat
+        env:
+          DISCOURSE_WEBHOOK_URL: ${{ secrets.DISCOURSE_WEBHOOK_URL }}
+        run: |
+          curl -s -X POST \
+            -H "Content-Type: application/json" \
+            -d "{\"text\": \"${{ steps.format.outputs.message }}\"}" \
+            "$DISCOURSE_WEBHOOK_URL"

@@ -5,6 +5,7 @@ theme = 'sixtyth-fortran'
 refLinksErrorLevel = 'WARNING'
 enableGitInfo = true
 timeout = 500
+disableKinds = ["taxonomy", "RSS"] 
 
 [markup]
   [markup.goldmark]
@@ -16,14 +17,14 @@ name = 'Home'
 pageRef = '/'
 weight = 10
 
+[security.http]
+  methods = ["GET"]
+  urls    = ["https://forum.cheeseepedia.org/*"]
+
 [[menus.main]]
 name = 'All Pages'
 pageRef = '/wiki'
 weight = 40
-
-[outputs]
-section = []
-
 
 [taxonomies]
   category = 'categories'
@@ -32,4 +33,5 @@ section = []
 [params]
   dateFormat = "2006-1-2"
 
-ignoreFiles = "/static/Code/.*"
+[security]
+  enableInlineShortcodes = true

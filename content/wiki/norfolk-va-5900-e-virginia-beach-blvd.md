@@ -1,0 +1,20 @@
++++
+title = "Norfolk, VA (5900 E Virginia Beach Blvd)"
+storeNumber = ""
+startDate = "1982-12-00"
+endDate = "1986-00-00"
+cuDate = ""
+remodels = []
+stages = ["Balcony Stage|1982-12-00|1986-00-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["36.8604842","-76.2047744"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
+tags = ["Locations"]
+categories = ["Pizza Time Theatre"]
+draft = false
++++

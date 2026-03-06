@@ -1,0 +1,14 @@
+{{- define "main" -}}
+  {{- $layout := "baseList" -}}
+  {{- if eq .Title "Photos" -}}
+    {{- $layout = "listPhotos" -}}
+  {{- else if eq .Title "Videos" -}}
+    {{- $layout = "listVideos" -}}
+    {{- else if eq .Title "Reviews" -}}
+    {{- $layout = "listReviews" -}}
+  {{- else if eq .Title "Locations" -}}
+    {{- $layout = "listLocations" -}}
+  {{- else if eq .Title "Cancelled Locations" -}}
+    {{- $layout = "listLocations" -}}
+  {{- end -}}
+{{- end -}}

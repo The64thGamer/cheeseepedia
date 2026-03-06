@@ -1,0 +1,20 @@
++++
+title = "Longview, TX (1905 W Loop 281)"
+storeNumber = ""
+startDate = "1982-07-22"
+endDate = "1986-04-00"
+cuDate = ""
+remodels = []
+stages = ["Classic Stage|1982-07-22|1986-04-00|"]
+franchisees = []
+attractions = []
+sqft = ""
+latitudeLongitude = ["32.5241126","-94.7878566"]
+citations = []
+contributors = []
+downloadLinks = []
+pageThumbnailFile = ""
+tags = ["Locations"]
+categories = ["ShowBiz Pizza Place"]
+draft = false
++++

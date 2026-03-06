@@ -1,0 +1,572 @@
++++
+title = "Chuck E. Cheese Legacy Evergreen 2026 Show"
+startDate = "2025-12-29"
+endDate = ""
+pageThumbnailFile = "evergreen2026.avif"
+contributors = ["Cyber Snout", "Anonymous", "CyberSnout"]
+citations = ["Dameaun / CEC Navori Player"]
+showtapeFormats = ["Legacy Navori"]
+tags = ["Showtapes"]
+categories = ["Chuck E. Cheese's"]
+draft = false
++++
+**Chuck E. Cheese Evergreen 2026 Show** was released on December 29, 2026, and played until March 1, 2026.
+
+## Show list 02/28 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. KIDZ BOP Kids - 'Certified Bop'
+    3. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    4. Helen Henny - 'Disco Dancing Dinosaur Party'
+    5. Chuck E. Cheese - 'Lend a Helping Hand'
+    6. KIDZ BOP Kids - 'Manchild' (ASL)
+    7. Chuck E. Cheese - 'Listen To The Rock'
+    8. Chuck E. Cheese - 'Rainbow Hamster Family'
+    9. Chuck E. & Friends - 'Because We're Friends' (2025)
+    10. KIDZ BOP Kids - 'Birds of Feather'
+    11. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    12. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    13. Chuck E. & Friends - 'Fun For All' (2025)
+2. Skit 1
+    1. Chuck E. & Friends - 'Stay Positive'
+3. Intermission 2
+    1. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    2. KID BOP Kids - 'Good 4 U'
+    3. Bella B. - 'El Rey Guitarrista'
+    4. Helen Henny - 'Game On!'
+    5. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    6. NewJeans - 'Right Now'
+    7. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+    9. KIDZ BOP Kids - 'Contigo'
+4. Skit 2
+    1. Chuck E. & Friends - 'Another Chuck E. Day'
+5. Intermission 3
+    1. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    2. Chuck E. & Munch - Animated Easy Dance
+    3. KIDZ BOP Kids - 'Million Dollar Baby'
+    4. Chuck E. & Friends - 'Most Perfect Day'
+    5. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    6. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    7. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    8. Paris & Pups 'Paris Hilton - STARKLE ON!'
+    9. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives 02/28 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+
+## Fireables 02/28 Update:
+
+1. Chuck E. & Friends - ‘Stay Positive’
+2. Chuck E. & Friends - ‘Play All You Can Play’
+3. Chuck E. & Friends - ‘My Family’
+4. Chuck E. & Friends - ‘More Cheese’
+5. Chuck E. Cheese - ‘Lend a Helping Hand’
+6. Jasper T. Jowls - ‘Jasper’s Country Classic’
+7. Chuck E. & Friends - ‘Fun For All’
+8. Chuck E. & Friends - ‘Do, Re, Mi’
+9. Helen Henny - ‘Disco Dancing Dinosaur Party’
+10. Jasper T. Jowls - ‘Arizona’
+
+## Show list 02/21 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Chuck E. Cheese - 'Rainbow Hamster Family'
+    3. Chuck E. & Friends - 'Because We're Friends' (2025)
+    4. KIDZ BOP Kids - 'Birds of Feather'
+    5. Helen Henny - 'Disco Dancing Dinosaur Party'
+    6. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    7. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    8. KIDZ BOP Kids - 'Manchild' (ASL)
+    9. Chuck E. & Friends - 'Fun For All' (2025)
+2. Skit 1
+    1. Chuck E. & Friends - 'Stay Positive'
+3. Intermission 2
+    1. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    2. KID BOP Kids - 'Good 4 U'
+    3. Bella B. - 'El Rey Guitarrista'
+    4. Helen Henny - 'Game On!'
+    5. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    6. NewJeans - 'Right Now'
+    7. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+4. Skit 2
+    1. Chuck E. & Friends - 'Another Chuck E. Day'
+5. Intermission 3
+    1. Chuck E. Cheese - 'Listen To The Rock'
+    2. KIDZ BOP Kids - 'Contigo'
+    3. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    4. Chuck E. & Munch - Animated Easy Dance
+    5. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    6. KIDZ BOP Kids - 'Million Dollar Baby'
+    7. Chuck E. & Friends - 'Most Perfect Day'
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    9. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    10. Chuck E. & Friends - 'Lend a Helping Hand'
+    11. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    12. Paris & Pups 'Paris Hilton - STARKLE ON!'
+    13. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives 02/21 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+
+## Fireables 02/21 Update:
+
+1. Chuck E. & Friends - ‘Stay Positive’
+2. Chuck E. & Friends - ‘Play All You Can Play’
+3. Chuck E. & Friends - ‘My Family’
+4. Chuck E. & Friends - ‘More Cheese’
+5. Chuck E. Cheese - ‘Lend a Helping Hand’
+6. Jasper T. Jowls - ‘Jasper’s Country Classic’
+7. Chuck E. & Friends - ‘Fun For All’
+8. Chuck E. & Friends - ‘Do, Re, Mi’
+9. Helen Henny - ‘Disco Dancing Dinosaur Party’
+10. Jasper T. Jowls - ‘Arizona’
+
+## Show list 02/20 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Paris & Pups - Valentines Day Dance Party
+    3. Chuck E. Cheese - 'Rainbow Hamster Family'
+    4. Chuck E. & Friends - 'Because We're Friends' (2025)
+    5. KIDZ BOP Kids - 'Birds of Feather'
+    6. Helen Henny - 'Disco Dancing Dinosaur Party'
+    7. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    8. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    9. KIDZ BOP Kids - 'Manchild' (ASL)
+    10. Chuck E. & Friends - 'Fun For All' (2025)
+2. Skit 1
+    1. Chuck E. & Friends - 'Stay Positive'
+3. Intermission 2
+    1. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    2. KID BOP Kids - 'Good 4 U'
+    3. Bella B. - 'El Rey Guitarrista'
+    4. Helen Henny - 'Game On!'
+    5. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    6. NewJeans - 'Right Now'
+    7. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+4. Skit 2
+    1. Chuck E. & Friends - 'Another Chuck E. Day'
+5. Intermission 3
+    1. Chuck E. Cheese - 'Listen To The Rock'
+    2. KIDZ BOP Kids - 'Contigo'
+    3. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    4. Chuck E. & Munch - Animated Easy Dance
+    5. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    6. KIDZ BOP Kids - 'Million Dollar Baby'
+    7. Chuck E. & Friends - 'Most Perfect Day'
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    9. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    10. Chuck E. & Friends - 'Lend a Helping Hand'
+    11. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    12. Paris & Pups 'Paris Hilton - STARKLE ON!'
+    13. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives 02/20 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+
+## Fireables 02/20 Update:
+
+1. Chuck E. & Friends - ‘Stay Positive’
+2. Chuck E. & Friends - ‘Play All You Can Play’
+3. Chuck E. & Friends - ‘My Family’
+4. Chuck E. & Friends - ‘More Cheese’
+5. Chuck E. Cheese - ‘Lend a Helping Hand’
+6. Jasper T. Jowls - ‘Jasper’s Country Classic’
+7. Chuck E. & Friends - ‘Fun For All’
+8. Chuck E. & Friends - ‘Do, Re, Mi’
+9. Helen Henny - ‘Disco Dancing Dinosaur Party’
+10. Jasper T. Jowls - ‘Arizona’
+
+## Show list 02/16 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Paris & Pups - Valentines Day Dance Party
+    3. Chuck E. Cheese - 'Rainbow Hamster Family'
+    4. Chuck E. & Friends - 'Because We're Friends' (2025)
+    5. KIDZ BOP Kids - 'Birds of Feather'
+    6. Helen Henny - 'Disco Dancing Dinosaur Party'
+    7. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    8. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    9. KIDZ BOP Kids - 'Manchild' (ASL)
+    10. Chuck E. & Friends - 'Fun For All' (2025)
+2. Skit 1
+    1. Chuck E. & Friends - 'Stay Positive'
+3. Intermission 2
+    1. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    2. KID BOP Kids - 'Good 4 U'
+    3. Bella B. - 'El Rey Guitarrista'
+    4. Helen Henny - 'Game On!'
+    5. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    6. NewJeans - 'Right Now'
+    7. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+4. Skit 2
+    1. Chuck E. & Friends - 'Another Chuck E. Day'
+5. Intermission 3
+    1. Chuck E. Cheese - 'Listen To The Rock'
+    2. KIDZ BOP Kids - 'Contigo'
+    3. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    4. Chuck E. & Munch - Animated Easy Dance
+    5. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    6. KIDZ BOP Kids - 'Million Dollar Baby'
+    7. Chuck E. & Friends - 'Most Perfect Day'
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    9. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    10. Chuck E. & Friends - 'Lend a Helping Hand'
+    11. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    12. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives 02/16 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+
+## Fireables 02/16 Update:
+
+1. Chuck E. & Friends - ‘Stay Positive’
+2. Chuck E. & Friends - ‘Play All You Can Play’
+3. Chuck E. & Friends - ‘My Family’
+4. Chuck E. & Friends - ‘More Cheese’
+5. Chuck E. Cheese - ‘Lend a Helping Hand’
+6. Jasper T. Jowls - ‘Jasper’s Country Classic’
+7. Chuck E. & Friends - ‘Fun For All’
+8. Chuck E. & Friends - ‘Do, Re, Mi’
+9. Helen Henny - ‘Disco Dancing Dinosaur Party’
+10. Jasper T. Jowls - ‘Arizona’
+
+## Show list 02/13 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Paris & Pups Episode 1 - 'Teamwork to Make Music'
+    3. Chuck E. Cheese - 'Rainbow Hamster Family'
+    4. Chuck E. & Friends - 'Because We're Friends' (2025)
+    5. KIDZ BOP Kids - 'Birds of Feather'
+    6. Helen Henny - 'Disco Dancing Dinosaur Party'
+    7. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    8. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    9. KIDZ BOP Kids - 'Manchild' (ASL)
+    10. Chuck E. & Friends - 'Fun For All' (2025)
+2. Skit 1
+    1. Chuck E. & Friends - 'Stay Positive'
+3. Intermission 2
+    1. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    2. KID BOP Kids - 'Good 4 U'
+    3. Bella B. - 'El Rey Guitarrista'
+    4. Helen Henny - 'Game On!'
+    5. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    6. NewJeans - 'Right Now'
+    7. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+4. Skit 2
+    1. Chuck E. & Friends - 'Another Chuck E. Day'
+5. Intermission 3
+    1. Chuck E. Cheese - 'Listen To The Rock'
+    2. Paris & Pups Episode 13 - 'Sliving in the Show'
+    3. KIDZ BOP Kids - 'Contigo'
+    4. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    5. Chuck E. & Munch - Animated Easy Dance
+    6. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    7. Paris & Pups 'Paris Hilton - STARKLE ON!'
+    8. KIDZ BOP Kids - 'Million Dollar Baby'
+    9. Chuck E. & Friends - 'Most Perfect Day'
+    10. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    11. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    12. Chuck E. & Friends - 'Lend a Helping Hand'
+    13. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    14. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives 02/13 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+
+## Fireables 02/13 Update:
+
+1. Chuck E. & Friends - ‘Stay Positive’
+2. Chuck E. & Friends - ‘Play All You Can Play’
+3. Chuck E. & Friends - ‘My Family’
+4. Chuck E. & Friends - ‘More Cheese’
+5. Chuck E. Cheese - ‘Lend a Helping Hand’
+6. Jasper T. Jowls - ‘Jasper’s Country Classic’
+7. Chuck E. & Friends - ‘Fun For All’
+8. Chuck E. & Friends - ‘Do, Re, Mi’
+9. Helen Henny - ‘Disco Dancing Dinosaur Party’
+10. Jasper T. Jowls - ‘Arizona’
+
+## Show list 01/22 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Paris & Pups - Valentines Day Dance Party
+    3. Chuck E. Cheese - 'Rainbow Hamster Family'
+    4. Chuck E. & Friends - 'Because We're Friends' (2025)
+    5. KIDZ BOP Kids - 'Birds of Feather'
+    6. Helen Henny - 'Disco Dancing Dinosaur Party'
+    7. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    8. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    9. KIDZ BOP Kids - 'Manchild' (ASL)
+    10. Chuck E. & Friends - 'Fun For All' (2025)
+2. Skit 1
+    1. Chuck E. & Friends - 'Stay Positive'
+3. Intermission 2
+    1. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    2. KID BOP Kids - 'Good 4 U'
+    3. Bella B. - 'El Rey Guitarrista'
+    4. Helen Henny - 'Game On!'
+    5. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    6. NewJeans - 'Right Now'
+    7. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+4. Skit 2
+    1. Chuck E. & Friends - 'Another Chuck E. Day'
+5. Intermission 3
+    1. Chuck E. Cheese - 'Listen To The Rock'
+    2. KIDZ BOP Kids - 'Contigo'
+    3. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    4. Chuck E. & Munch - Animated Easy Dance
+    5. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    6. KIDZ BOP Kids - 'Million Dollar Baby'
+    7. Chuck E. & Friends - 'Most Perfect Day'
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    9. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    10. Chuck E. & Friends - 'Lend a Helping Hand'
+    11. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    12. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives 01/22 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+
+## Fireables 01/22 Update:
+
+1. Chuck E. & Friends - ‘Stay Positive’
+2. Chuck E. & Friends - ‘Play All You Can Play’
+3. Chuck E. & Friends - ‘My Family’
+4. Chuck E. & Friends - ‘More Cheese’
+5. Chuck E. Cheese - ‘Lend a Helping Hand’
+6. Jasper T. Jowls - ‘Jasper’s Country Classic’
+7. Chuck E. & Friends - ‘Fun For All’
+8. Chuck E. & Friends - ‘Do, Re, Mi’
+9. Helen Henny - ‘Disco Dancing Dinosaur Party’
+10. Jasper T. Jowls - ‘Arizona’
+
+## Show list 01/09 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Paris & Pups - Sliving in The Show
+    3. Chuck E. Cheese - 'Rainbow Hamster Family'
+    4. Chuck E. & Friends - 'Because We're Friends' (2025)
+    5. KIDZ BOP Kids - 'Birds of Feather'
+    6. Helen Henny - 'Disco Dancing Dinosaur Party'
+    7. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    8. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    9. KIDZ BOP Kids - 'Manchild' (ASL)
+    10. Chuck E. & Friends - 'Fun For All' (2025)
+2. Skit 1
+    1. Chuck E. & Friends - 'Stay Positive'
+3. Intermission 2
+    1. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    2. KID BOP Kids - 'Good 4 U'
+    3. Bella B. - 'El Rey Guitarrista'
+    4. Helen Henny - 'Game On!'
+    5. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    6. NewJeans - 'Right Now'
+    7. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+4. Skit 2
+    1. Chuck E. & Friends - 'Another Chuck E. Day'
+5. Intermission 3
+    1. Chuck E. Cheese - 'Listen To The Rock'
+    2. KIDZ BOP Kids - 'Contigo'
+    3. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    4. Chuck E. & Munch - Animated Easy Dance
+    5. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    6. KIDZ BOP Kids - 'Million Dollar Baby'
+    7. Chuck E. & Friends - 'Most Perfect Day'
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    9. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    10. Chuck E. Cheese - 'Lend a Helping Hand'
+    11. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    12. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives 01/09 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+
+## Fireables 01/09 Update:
+
+1. Chuck E. & Friends - ‘Stay Positive’
+2. Chuck E. & Friends - ‘Play All You Can Play’
+3. Chuck E. & Friends - ‘My Family’
+4. Chuck E. & Friends - ‘More Cheese’
+5. Chuck E. Cheese - ‘Lend a Helping Hand’
+6. Jasper T. Jowls - ‘Jasper’s Country Classic’
+7. Chuck E. & Friends - ‘Fun For All’
+8. Chuck E. & Friends - ‘Do, Re, Mi’
+9. Helen Henny - ‘Disco Dancing Dinosaur Party’
+10. Jasper T. Jowls - ‘Arizona’
+
+## Show list 01/05 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Paris & Pups - Sliving in The Show
+    3. Chuck E. Cheese - 'Rainbow Hamster Family'
+    4. Chuck E. & Friends - 'Because We're Friends' (2025)
+    5. KIDZ BOP Kids - 'Birds of Feather'
+    6. Helen Henny - 'Disco Dancing Dinosaur Party'
+    7. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    8. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    9. KIDZ BOP Kids - 'Manchild' (ASL)
+    10. Chuck E. & Friends - 'Fun For All' (2025)
+2. Skit 1
+    1. Chuck E. & Friends - 'Stay Positive'
+3. Intermission 2
+    1. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    2. KID BOP Kids - 'Good 4 U'
+    3. Bella B. - 'El Rey Guitarrista'
+    4. Helen Henny - 'Game On!'
+    5. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    6. NewJeans - 'Right Now'
+    7. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+4. Skit 2
+    1. Chuck E. Cheese - 'Lend a Helping Hand'
+5. Intermission 3
+    1. Chuck E. Cheese - 'Listen To The Rock'
+    2. KIDZ BOP Kids - 'Contigo'
+    3. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    4. Chuck E. & Munch - Animated Easy Dance
+    5. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    6. KIDZ BOP Kids - 'Million Dollar Baby'
+    7. Chuck E. & Friends - 'Most Perfect Day'
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    9. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    10. Chuck E. Cheese - 'Another Chuck E. Day'
+    11. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    12. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives 01/05 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+
+## Fireables 01/05 Update:
+
+1. Chuck E. & Friends - ‘Stay Positive’
+2. Chuck E. & Friends - ‘Play All You Can Play’
+3. Chuck E. & Friends - ‘My Family’
+4. Chuck E. & Friends - ‘More Cheese’
+5. Chuck E. Cheese - ‘Lend a Helping Hand’
+6. Jasper T. Jowls - ‘Jasper’s Country Classic’
+7. Chuck E. & Friends - ‘Fun For All’
+8. Chuck E. & Friends - ‘Do, Re, Mi’
+9. Helen Henny - ‘Disco Dancing Dinosaur Party’
+10. Jasper T. Jowls - ‘Arizona’
+
+## Show list:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Dippin' Dots + Chuck E.'s Cookie Crunch
+    3. A Chuck E. Cheese Christmas Trailer
+    4. KIDZ BOP Live The Concert Movie
+    5. Paris & Pups - Sliving in The Show
+    6. Chuck E. Cheese - 'Rainbow Hamster Family'
+    7. Chuck E. & Friends - 'Because We're Friends' (2025)
+    8. KIDZ BOP Kids - 'Birds of Feather'
+    9. Helen Henny - 'Disco Dancing Dinosaur Party'
+    10. Chuck E. Cheese Partymobile Sing-Along - 'Epic Playlist War'
+    11. Pasqually The Chef - 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day
+    12. KIDZ BOP Kids - 'Manchild' (ASL)
+    13. Chuck E. & Friends - 'Fun For All' (2025)
+2. Skit 1
+    1. Chuck E. & Friends - 'Stay Positive'
+3. Intermission 2
+    1. Chuck E. Cheese - Mary Had a (Rockin') Little Lamb'
+    2. KID BOP Kids - 'Good 4 U'
+    3. Bella B. - 'El Rey Guitarrista'
+    4. Helen Henny - 'Game On!'
+    5. Chuck E. Cheese Silly Song - 'Hippo Playpus'
+    6. NewJeans - 'Right Now'
+    7. Chuck E. Cheese - Friendship Never Ends' (DJ Munch Remix)
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+4. Skit 2
+    1. Chuck E. Cheese - 'Lend a Helping Hand'
+5. Intermission 3
+    1. Chuck E. Cheese - 'Listen To The Rock'
+    2. KIDZ BOP Kids - 'Contigo'
+    3. Chuck E. Cheese Silly Songs - 'Banana Dog'
+    4. Chuck E. & Munch - Animated Easy Dance
+    5. Chuck E. Cheese - 'Water Buffalo' (ASL)
+    6. KIDZ BOP Kids - 'Million Dollar Baby'
+    7. Chuck E. & Friends - 'Most Perfect Day'
+    8. Chuck E. Cheese Partymobile Sing-Along - 'Let's Have a Party'
+    9. Chuck E. Cheese Silly Song - 'Where Do The Socks Go?'
+    10. Chuck E. Cheese - 'Another Chuck E. Day'
+    11. Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends'
+    12. Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It'
+    13. KIDZ BOP Kids - 'Certified Bop'
+
+## Lives:
+
+1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
+3. Me & My Friends (Legacy Navori)
+4. Chuck E. Bop (Legacy Navori)
+
+## Fireables:
+
+1. Chuck E. & Friends - ‘Stay Positive’
+2. Chuck E. & Friends - ‘Play All You Can Play’
+3. Chuck E. & Friends - ‘My Family’
+4. Chuck E. & Friends - ‘More Cheese’
+5. Chuck E. Cheese - ‘Lend a Helping Hand’
+6. Jasper T. Jowls - ‘Jasper’s Country Classic’
+7. Chuck E. & Friends - ‘Fun For All’
+8. Chuck E. & Friends - ‘Do, Re, Mi’
+9. Helen Henny - ‘Disco Dancing Dinosaur Party’
+10. Jasper T. Jowls - ‘Arizona’
+
+## Trivia:
+
+1. 01/05 Update - 'Dippin' Dots + Chuck E.'s Cookie Crunch', 'A Chuck E. Cheese Christmas Trailer','KIDZ BOP Live The Concert Movie' and the second 'Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It' are removed.
+2. 01/09 Update - Chuck E. Cheese - 'Lend a Helping Hand' is replaced with Chuck E. & Friends - 'Another Chuck E. Day'
+3. 01/22 Update - 'Paris & Pups - Sliving in The Show' is replaced with 'Paris & Pups - Valentines Day Dance Party'
+4. 02/13 Update - 'Paris & Pups Episode 1 - 'Teamwork to Make Music' replaced Paris & Pups Episode 19 - 'Valentine's Day Dance Party', 'Paris & Pups Episode 13 - 'Sliving in the Show', and 'Paris & Pups 'Paris Hilton - STARKLE ON!'' are added.
+5. 02/16 Update - 'Paris & Pups Episode 1 - 'Teamwork to Make Music', 'Paris & Pups - 'Paris Hilton - STARKLE ON!' and 'Paris & Pups Episode 13 - 'Sliving in the Show' are removed. Paris & Pups - Valentine's Day Dance Party' is re-added.
+6. 02/20 Update - Paris & Pups 'Paris Hilton - STARKLE ON!' is re-added.
+7. 02/21 Update - Paris & Pups - Valentine's Day Dance Party' is removed.
+8. 02/28 Update - KIDZ BOP Kids - 'Contigo' is moved after Chuck E. Cheese Partymobile Sing-Along - 'Together We've Got It', KIDZ BOP Kids - 'Certified Bop', Chuck E. Cheese - 'Water Buffalo' (ASL), Helen Henny - 'Disco Dancing Dinosaur Party', Chuck E. Cheese - 'Lend a Helping Hand', KIDZ BOP Kids - 'Manchild' (ASL), Chuck E. Cheese - 'Listen To The Rock', are moved after Harlem Globetrotters - 'Ways We Celebrate'

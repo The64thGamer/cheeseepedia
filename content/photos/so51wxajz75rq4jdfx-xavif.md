@@ -1,0 +1,10 @@
++++
+draft = false
+startDate = "2002-00-00"
+citations = ["showbizpizza.com"]
+pages = ["Newington, NH (30 Fox Run Rd)", "Video Velocitor"]
+title = "so51wxaJz75RQ4jDFX_x.avif"
+tags = ["Photos"]
+categories = ["Pizza Time Theatre"]
++++
+The Kings stage replaced with The Video Velociter

@@ -1,0 +1,11 @@
++++
+
+title = "'Ambassador of Fun' (CEC Décor)"
+draft = false
+tags = ["Store Fixtures"]
+categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "MARSHALOFGAMES.avif"
+startDate = "2005-00-00"
+endDate = "0000-00-00"
+contributors = []
++++

@@ -1,0 +1,221 @@
+{{- $sales := .Params.sales -}}
+{{- if not $sales -}}
+  {{- "" -}}
+{{- else -}}
+<div class="sales-section">
+  <h2>Market Sales</h2>
+  <div class="sales-chart-wrap">
+    <!-- pass raw sales array to JS -->
+    <div id="sales-chart"
+         data-sales='{{ $sales | jsonify }}'
+         style="width:100%;max-width:960px;margin:0 auto;">
+      <!-- SVG will be injected by JS -->
+    </div>
+  </div>
+
+  <div class="sales-table-wrap" style="max-width:960px;margin:1rem auto;">
+    <table class="sales-table" style="width:100%;border-collapse:collapse;">
+      <thead>
+        <tr>
+          <th style="text-align:left;padding:8px;border-bottom:1px solid #ddd;">Date</th>
+          <th style="text-align:left;padding:8px;border-bottom:1px solid #ddd;">Price</th>
+        </tr>
+      </thead>
+      <tbody id="sales-table-body">
+        <!-- rows injected by JS -->
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script>
+(function(){
+  // Helpers
+  function q(sel,ctx){ return (ctx||document).querySelector(sel); }
+  function parsePrice(s){
+    if(!s) return NaN;
+    const cleaned = s.toString().trim().replace(/\$/g,'').replace(/,/g,'');
+    const n = parseFloat(cleaned);
+    return isNaN(n) ? NaN : n;
+  }
+  function parseDateString(s){
+    if(!s) return null;
+    s = s.trim();
+    // Accept "MM-DD-YYYY", "MM/DD/YYYY", "YYYY-MM-DD"
+    if(/\d{4}-\d{1,2}-\d{1,2}/.test(s)){
+      const parts = s.split('-').map(Number);
+      return new Date(parts[0], parts[1]-1, parts[2]);
+    }
+    if(/\d{1,2}[\/\-]\d{1,2}[\/\-]\d{4}/.test(s)){
+      const sep = s.indexOf('/')>=0 ? '/' : '-';
+      const parts = s.split(sep).map(Number);
+      return new Date(parts[2], parts[0]-1, parts[1]);
+    }
+    // Fallback to JS Date parser
+    const d = new Date(s);
+    return isNaN(d) ? null : d;
+  }
+
+  function formatMoney(n){
+    if(isNaN(n)) return "";
+    return n.toLocaleString(undefined, {style:'currency', currency: 'USD', maximumFractionDigits: 2});
+  }
+  function formatDate(d){
+    if(!d) return "";
+    return d.toLocaleDateString();
+  }
+
+  // Main boot
+  const wrapper = q('#sales-chart');
+  if(!wrapper) return;
+  let raw = wrapper.dataset.sales || "[]";
+  try { raw = JSON.parse(raw); } catch(e){ raw = []; console.warn("sales.json parse failed", e); }
+  // raw is array of strings like "$40|12-31-2025|ebay.com/link"
+  const rows = [];
+  for(let i=0;i<raw.length;i++){
+    const parts = String(raw[i]).split('|').map(x=>x.trim());
+    const price = parsePrice(parts[0]||"");
+    const date = parseDateString(parts[1]||"");
+    const link = (parts[2]||"").trim();
+    if(!date || isNaN(price)){
+      console.warn("Skipping malformed sale entry:", raw[i]);
+      continue;
+    }
+    rows.push({ price: price, date: date, link: link, raw: raw[i] });
+  }
+  if(rows.length === 0){
+    wrapper.innerHTML = "<p>No valid sales data.</p>";
+    document.getElementById('sales-table-body').innerHTML = "";
+    return;
+  }
+
+  // Sort ascending by date (oldest -> newest)
+  rows.sort((a,b) => a.date - b.date);
+
+  // Build table: newest first
+  const tbody = q('#sales-table-body');
+  tbody.innerHTML = "";
+  for(const r of rows.slice().reverse()){
+    const tr = document.createElement('tr');
+    const href = r.link ? (r.link.match(/^https?:\/\//) ? r.link : 'https://'+r.link) : null;
+    const priceHtml = href ? ('<a href="'+href+'" target="_blank" rel="noopener noreferrer">'+ formatMoney(r.price) +'</a>') : formatMoney(r.price);
+    tr.innerHTML = '<td style="padding:8px;border-bottom:1px solid #eee;">'+ formatDate(r.date) +'</td>' +
+                   '<td style="padding:8px;border-bottom:1px solid #eee;">'+ priceHtml +'</td>';
+    tbody.appendChild(tr);
+  }
+
+  // Chart config
+  const viewW = 800, viewH = 320;
+  const margin = {left:56, right:20, top:20, bottom:48};
+  const chartW = viewW - margin.left - margin.right;
+  const chartH = viewH - margin.top - margin.bottom;
+
+  // X domain: minDate..maxDate, Y domain: 0..maxPrice
+  const minDate = rows[0].date.getTime();
+  const maxDate = rows[rows.length-1].date.getTime();
+  let maxPrice = 0;
+  for(const r of rows) if(r.price > maxPrice) maxPrice = r.price;
+  if(maxPrice <= 0) maxPrice = 1;
+
+  // Map functions
+  const xFor = (d) => {
+    if(maxDate === minDate) return margin.left + chartW/2;
+    return margin.left + ((d.getTime() - minDate) / (maxDate - minDate)) * chartW;
+  };
+  const yFor = (p) => {
+    const v = Math.max(0, Math.min(p, maxPrice));
+    return margin.top + (chartH - (v / maxPrice) * chartH);
+  };
+
+  // Build SVG
+  const svg = document.createElementNS('http://www.w3.org/2000/svg','svg');
+  svg.setAttribute('viewBox','0 0 '+viewW+' '+viewH);
+  svg.setAttribute('preserveAspectRatio','xMidYMid meet');
+  svg.style.width = '100%';
+  svg.style.height = '23em';
+  svg.style.display = 'block';
+  svg.style.margin = '0 auto';
+
+  // Background
+  const rect = document.createElementNS(svg.namespaceURI,'rect');
+  rect.setAttribute('x',0); rect.setAttribute('y',0);
+  rect.setAttribute('width',viewW); rect.setAttribute('height',viewH);
+  rect.setAttribute('fill','transparent');
+  svg.appendChild(rect);
+
+  // Axis lines (use var(--orange))
+  const axisStroke = 'var(--orange)';
+  const axisTextColor = 'var(--white)';
+  const lineStroke = 'var(--yellow)';
+
+  const axisX = document.createElementNS(svg.namespaceURI,'line');
+  axisX.setAttribute('x1',margin.left); axisX.setAttribute('y1',margin.top+chartH);
+  axisX.setAttribute('x2',margin.left+chartW); axisX.setAttribute('y2',margin.top+chartH);
+  axisX.setAttribute('stroke',axisStroke); axisX.setAttribute('stroke-width',1);
+  svg.appendChild(axisX);
+
+  const axisY = document.createElementNS(svg.namespaceURI,'line');
+  axisY.setAttribute('x1',margin.left); axisY.setAttribute('y1',margin.top);
+  axisY.setAttribute('x2',margin.left); axisY.setAttribute('y2',margin.top+chartH);
+  axisY.setAttribute('stroke',axisStroke); axisY.setAttribute('stroke-width',1);
+  svg.appendChild(axisY);
+
+  // Y ticks (5) - ticks use var(--orange), labels use var(--white)
+  const ticks = 5;
+  for(let i=0;i<=ticks;i++){
+    const v = (i/ticks)*maxPrice;
+    const y = yFor(v);
+    const lx = margin.left - 6;
+    const ly = y;
+    const tick = document.createElementNS(svg.namespaceURI,'line');
+    tick.setAttribute('x1',lx); tick.setAttribute('y1',ly);
+    tick.setAttribute('x2',margin.left); tick.setAttribute('y2',ly);
+    tick.setAttribute('stroke',axisStroke); tick.setAttribute('stroke-width',1);
+    svg.appendChild(tick);
+
+    const lbl = document.createElementNS(svg.namespaceURI,'text');
+    lbl.setAttribute('x',lx - 6); lbl.setAttribute('y',ly + 4);
+    lbl.setAttribute('font-size','11'); lbl.setAttribute('fill',axisTextColor); lbl.setAttribute('text-anchor','end');
+    lbl.textContent = formatMoney(v);
+    svg.appendChild(lbl);
+  }
+
+  // X labels: start, mid, end (text color var(--white))
+  const addXLabel = (d, x, anchor) => {
+    const lbl = document.createElementNS(svg.namespaceURI,'text');
+    lbl.setAttribute('x', x); lbl.setAttribute('y', margin.top+chartH+30);
+    lbl.setAttribute('font-size','11'); lbl.setAttribute('fill',axisTextColor); lbl.setAttribute('text-anchor', anchor||'middle');
+    lbl.textContent = formatDate(d);
+    svg.appendChild(lbl);
+  };
+  addXLabel(rows[0].date, margin.left, 'start');
+  if(rows.length>1) addXLabel(new Date((minDate+maxDate)/2), margin.left+chartW/2, 'middle');
+  addXLabel(rows[rows.length-1].date, margin.left+chartW, 'end');
+
+  // Line path (use var(--yellow))
+  const pts = rows.map(r => (xFor(r.date)+','+yFor(r.price))).join(' ');
+  const poly = document.createElementNS(svg.namespaceURI,'polyline');
+  poly.setAttribute('points', pts);
+  poly.setAttribute('fill','none');
+  poly.setAttribute('stroke',lineStroke);
+  poly.setAttribute('stroke-width','2');
+  svg.appendChild(poly);
+
+  // Points (outline var(--yellow), fill var(--white))
+  rows.forEach((r, idx) => {
+    const cx = xFor(r.date);
+    const cy = yFor(r.price);
+    const circle = document.createElementNS(svg.namespaceURI,'circle');
+    circle.setAttribute('cx',cx); circle.setAttribute('cy',cy); circle.setAttribute('r',4);
+    circle.setAttribute('fill','var(--white)'); circle.setAttribute('stroke',lineStroke); circle.setAttribute('stroke-width',2);
+    // Tooltip via <title>
+    const title = document.createElementNS(svg.namespaceURI,'title');
+    title.textContent = formatDate(r.date) + ' — ' + formatMoney(r.price) + (r.link ? (' — ' + r.link) : '');
+    circle.appendChild(title);
+    svg.appendChild(circle);
+  });
+
+  wrapper.appendChild(svg);
+})();
+</script>
+{{- end -}}

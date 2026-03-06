@@ -1,0 +1,24 @@
+<h1>{{ partial "emojify.html" .Title }}</h1>
+{{ .Content | safeHTML }}
+{{/* 1. Filter to only pages in the "videos" section */}}
+{{- $videosSection := partialCached "grab-all-videos.html" "key"}}
+
+{{/* 2. Filter only those that have GitInfo */}}
+{{- $videosWithGit := where $videosSection "GitInfo" "ne" nil -}}
+
+{{/* 3. Sort by Git modification / author date, descending */}}
+{{- $sortedVideos := sort $videosWithGit "GitInfo.AuthorDate" "desc" -}}
+
+{{/* 4. Paginate the sorted list, e.g., 100 per page */}}
+{{- $paginator := .Paginate $sortedVideos 100 -}}
+
+<div id="tagsContainer">
+  {{- range $paginator.Pages -}}
+      {{ partial "display-video-box.html" . }}
+  {{- end -}}
+</div>
+
+{{/* 5. Pagination UI */}}
+<div class="pagination">
+  {{ template "_internal/pagination.html" . }}
+</div>
