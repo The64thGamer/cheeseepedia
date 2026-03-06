@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T04:03:35Z",
-  "count": 1059,
+  "generated_at": "2026-03-06T12:04:39Z",
+  "count": 1060,
   "locations": [
     {
       "title": "Salem, OR (3180 Lancaster Dr)",
@@ -8703,6 +8703,25 @@
       "endDate": "1984-08-31",
       "cuDate": "1992-01-01",
       "page_path": "content/wiki/gamesdivisionhollister.md"
+    },
+    {
+      "title": "Hung Hom, Hong Kong, China (Whampoa Garden Phase 1)",
+      "group": [
+        "Pizza Time Theatre"
+      ],
+      "coords_str": [
+        "22.3073946",
+        "114.1847039"
+      ],
+      "coords": [
+        22.3073946,
+        114.1847039
+      ],
+      "url": "/wiki/whampoagarden/",
+      "startDate": "1985-01-01",
+      "endDate": "9999-12-31",
+      "cuDate": "1992-01-01",
+      "page_path": "content/wiki/whampoagarden.md"
     },
     {
       "title": "Omaha, NE (225 N 76th St)",

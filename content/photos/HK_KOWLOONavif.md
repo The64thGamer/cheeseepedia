@@ -4,7 +4,7 @@ tags = ["Photos"]
 categories = []
 startDate = "1986-00-00"
 draft = false
-pages = ["Taikoo Shing, Hong Kong, China (City Plaza, Unit 502)"]
+pages = ["Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園)"]
 citations = ["https://youtu.be/-znS17DIafE"]
 +++
-Taikoo Shing exterior taken from advertisement.
+Unknown exterior taken from advertisement.

@@ -8004,7 +8004,7 @@
     "name": "KOWLOON2.avif",
     "page_path": "content/photos/kowloon2avif",
     "hasFile": true,
-    "startDate": "",
+    "startDate": "0000-00-00",
     "content": ""
   },
   "WJiOddStXlB3HcBMjtz9.avif": {
@@ -8291,7 +8291,7 @@
     "name": "KOWLOON4.avif",
     "page_path": "content/photos/kowloon4avif",
     "hasFile": true,
-    "startDate": "",
+    "startDate": "0000-00-00",
     "content": ""
   },
   "zkcj6hli8m8gm5kc.avif": {
@@ -18820,7 +18820,7 @@
     "page_path": "content/photos/hk_kowloonavif",
     "hasFile": true,
     "startDate": "1986-00-00",
-    "content": "Taikoo Shing exterior taken from advertisement."
+    "content": "Unknown exterior taken from advertisement."
   },
   "05WE2M_RcC8R2S0PM_bS.avif": {
     "name": "05WE2M_RcC8R2S0PM_bS.avif",
@@ -26162,7 +26162,7 @@
     "name": "KOWLOON_ABERDEEN.avif",
     "page_path": "content/photos/kowloon_aberdeenavif",
     "hasFile": true,
-    "startDate": "",
+    "startDate": "0000-00-00",
     "content": ""
   },
   "Display_Board_Front.avif": {
@@ -56164,7 +56164,7 @@
     "name": "KOWLOON5_FOOTAGE.avif",
     "page_path": "content/photos/kowloon5_footageavif",
     "hasFile": true,
-    "startDate": "",
+    "startDate": "0000-00-00",
     "content": ""
   },
   "CKtlDjAKCnFWsfB15YcK.avif": {
@@ -64823,7 +64823,7 @@
     "name": "KOWLOON3.avif",
     "page_path": "content/photos/kowloon3avif",
     "hasFile": true,
-    "startDate": "",
+    "startDate": "0000-00-00",
     "content": ""
   },
   "yClCtDT4WqKPn5kafXvG.avif": {
@@ -66643,7 +66643,7 @@
     "name": "KOWLOONAD2.avif",
     "page_path": "content/photos/kowloonad2avif",
     "hasFile": true,
-    "startDate": "",
+    "startDate": "0000-00-00",
     "content": ""
   },
   "d10d9ffa4f32b374.avif": {
@@ -66925,6 +66925,13 @@
     "hasFile": true,
     "startDate": "",
     "content": "CEC Stage DVD"
+  },
+  "wjhq9ry0yoqgcuy1.avif": {
+    "name": "wjhq9ry0yoqgcuy1.avif",
+    "page_path": "content/photos/wjhq9ry0yoqgcuy1",
+    "hasFile": true,
+    "startDate": "0000-00-00",
+    "content": "Hong Kong PTT Advertisement"
   },
   "Show3DJMUNCH.avif": {
     "name": "Show3DJMUNCH.avif",
@@ -69688,7 +69695,7 @@
     "name": "KOWLOONAD3.avif",
     "page_path": "content/photos/kowloonad3avif",
     "hasFile": true,
-    "startDate": "",
+    "startDate": "0000-00-00",
     "content": ""
   },
   "hPp9HTRbQ1xMX23bekO2.avif": {

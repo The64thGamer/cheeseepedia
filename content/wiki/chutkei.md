@@ -7,10 +7,10 @@ tags = ["Companies/Brands"]
 categories = ["Pizza Time Theatre"]
 credits = ["現代廣告公司 (Modern Advertising Company)|Advertising","Whimsy Company Ltd|Franchisees, Singapore Investors","Whimsy Recreation PTE Ltd.|Singapore Franchisees","Emporium Holdings Ltd|Singapore Investors",]
 draft = false
-citations = ["https://sls.hkpl.gov.hk/digital-collection/en/contentcoverpage.html?currentPosition=1&searchId=75ab30499bff493c8eb83ed143d91b41&catalogueId=1ae5b0359cb711ef9c2&mainKeyword=%E5%87%BA%E5%A5%87%E8%80%81%E9%BC%A0&isHKMP=", "https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-3/page/4/mode/2up?q=hong+kong","https://industrialhistoryhk.org/fourseas-bowling-centre-and-whimsy/","https://www.instagram.com/p/DPxrwLIAcOU/?img_index=2","https://sls.hkpl.gov.hk/digital-collection/en/contentcoverpage.html?currentPosition=1&catalogueId=1aea7ba29cb711ef9c2&mainKeyword=%E8%96%84%E9%A4%85%E6%A8%82%E5%9C%92&isHKMP="]
+citations = ["https://sls.hkpl.gov.hk/digital-collection/en/contentcoverpage.html?currentPosition=1&searchId=75ab30499bff493c8eb83ed143d91b41&catalogueId=1ae5b0359cb711ef9c2&mainKeyword=%E5%87%BA%E5%A5%87%E8%80%81%E9%BC%A0&isHKMP=", "https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-3/page/4/mode/2up?q=hong+kong","https://industrialhistoryhk.org/fourseas-bowling-centre-and-whimsy/","https://www.instagram.com/p/DPxrwLIAcOU/?img_index=2","https://sls.hkpl.gov.hk/digital-collection/en/contentcoverpage.html?currentPosition=1&catalogueId=1aea7ba29cb711ef9c2&mainKeyword=%E8%96%84%E9%A4%85%E6%A8%82%E5%9C%92&isHKMP=","https://m.hkgolden.com/thread/6525046/page/13"]
 contributors = ["The 64th Gamer"]
 +++
-***出奇老鼠薄餅樂園*** (roughly translating to ***Chuck E. Mouse's Pizza Paradise***, though the first word 出奇 'Chūqí' sounding like 'Chuck E.' more directly translates to 'Surprising', and also usually marked in English as just ***Chuck E. Cheese's***) was a chain of five {{< wiki-link "Pizza Time Theatre" >}} restaurants situated within Hong Kong, Tsuen Wan, Kowloon, and Singapore.{{< cite 1 >}}
+***出奇老鼠薄餅樂園*** (roughly translating to ***Chuck E. Mouse's Pizza Paradise***, though the first word 出奇 'Chūqí' sounding like 'Chuck E.' more directly translates to 'Surprising', and also usually marked in English as just ***Chuck E. Cheese's***) was a chain of six {{< wiki-link "Pizza Time Theatre" >}} restaurants situated within Hong Kong, Tsuen Wan, Kowloon, and Singapore.{{< cite 1 >}}
 
 ## History
 
@@ -34,3 +34,4 @@ The locations have appeared in various Chinese movies, including:
 | {{< wiki-link "Taikoo Shing, Hong Kong, China (City Plaza, Unit 502)" >}} | 1984 | 1987-1991 |
 | {{< wiki-link "Hong Kong, China (Aberdeen Centre, Nam Ning Street, Shop 2)" >}} | 1984-1985 | 1985-1986 |
 | {{< wiki-link "Tsuen Wan, Hong Kong, China (Luk Yeung Sun Chuen, Podium Level, P.9-P.10)" >}} | 1985-1986 | 1986-1991 |
+| {{< wiki-link "Hung Hom, Hong Kong, China (Whampoa Garden Phase 1)" >}} | 1985-1986 | 1986-1991 |

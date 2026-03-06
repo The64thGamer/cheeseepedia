@@ -1180,6 +1180,18 @@
     "gradient_end": "#613583"
   },
   {
+    "id": 107,
+    "username": "ThatRockAfireFan",
+    "name": "Cliff",
+    "avatar_template": "/user_avatar/forum.cheeseepedia.org/thatrockafirefan/{size}/1494_2.png",
+    "title": "",
+    "trust_level": 1,
+    "contribution_count": 3,
+    "rank": "Toddler Zone",
+    "gradient_start": "#613583",
+    "gradient_end": "#613583"
+  },
+  {
     "id": 47,
     "username": "StarToday77",
     "name": null,
@@ -1314,16 +1326,6 @@
   {
     "username": "AlexisCEC",
     "name": "AlexisCEC",
-    "avatar_template": null,
-    "contribution_count": 3,
-    "is_guest": true,
-    "rank": "Toddler Zone",
-    "gradient_start": "#613583",
-    "gradient_end": "#613583"
-  },
-  {
-    "username": "ThatRockAfireFan",
-    "name": "ThatRockAfireFan",
     "avatar_template": null,
     "contribution_count": 3,
     "is_guest": true,
@@ -2917,6 +2919,18 @@
     "gradient_end": "#464141"
   },
   {
+    "id": 105,
+    "username": "cecunkown",
+    "name": null,
+    "avatar_template": "/letter_avatar_proxy/v4/letter/c/bc8723/{size}.png",
+    "title": null,
+    "trust_level": 0,
+    "contribution_count": 0,
+    "rank": "Bankruptcy",
+    "gradient_start": "#464141",
+    "gradient_end": "#464141"
+  },
+  {
     "id": 20,
     "username": "ShowbizPizzaMaster",
     "name": null,
@@ -3715,6 +3729,34 @@
     "avatar_template": "/user_avatar/forum.cheeseepedia.org/theraecheese/{size}/1419_2.png",
     "title": null,
     "trust_level": 0,
+    "contribution_count": 0,
+    "rank": "Bankruptcy",
+    "gradient_start": "#464141",
+    "gradient_end": "#464141"
+  },
+  {
+    "id": 106,
+    "username": "CocoBocoNoco",
+    "name": "Coco Boco Noco",
+    "avatar_template": "/user_avatar/forum.cheeseepedia.org/cocoboconoco/{size}/1489_2.png",
+    "title": null,
+    "trust_level": 0,
+    "contribution_count": 0,
+    "rank": "Bankruptcy",
+    "gradient_start": "#464141",
+    "gradient_end": "#464141"
+  },
+  {
+    "id": 108,
+    "username": "Jaspadoggy",
+    "name": "",
+    "avatar_template": "/user_avatar/forum.cheeseepedia.org/jaspadoggy/{size}/1506_2.png",
+    "title": "",
+    "primary_group_name": "BankruptcyBelievers",
+    "flair_name": "AnimatronicOwners",
+    "flair_url": "/uploads/default/original/1X/d409922f236d917a7719e7cc9e619a21da2023e7.png",
+    "flair_group_id": 47,
+    "trust_level": 1,
     "contribution_count": 0,
     "rank": "Bankruptcy",
     "gradient_start": "#464141",
