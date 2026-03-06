@@ -4046,8 +4046,8 @@
     "start_year": 1980,
     "category": "ShowBiz Pizza Place",
     "tag": "Locations",
-    "contributors_count": 0,
-    "rating": 0
+    "contributors_count": 1,
+    "rating": 2
   },
   {
     "title": "Wolf Skit 1-3",
@@ -4357,6 +4357,16 @@
     "category": "Pizza Time Theatre",
     "tag": "Animatronics",
     "contributors_count": 4,
+    "rating": 0
+  },
+  {
+    "title": "See the Rock-Afire Explosion at Animatronics Warehouse",
+    "page_path": "content/wiki/i2uno549ul.md",
+    "startDate": "2025-01-02",
+    "start_year": 2025,
+    "category": "Creative Engineering",
+    "tag": "Showtapes",
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -19916,7 +19926,7 @@
     "start_year": 1977,
     "category": "Pizza Time Theatre",
     "tag": "Animatronics",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 1
   },
   {
@@ -39952,12 +39962,12 @@
   {
     "title": "Artie Antlers (Cyberamic)",
     "page_path": "content/wiki/artie-antlers-cyberamic.md",
-    "startDate": "1983-00-00",
-    "start_year": 1983,
+    "startDate": "1979-00-00",
+    "start_year": 1979,
     "category": "Pizza Time Theatre",
     "tag": "Animatronics",
-    "contributors_count": 2,
-    "rating": 1
+    "contributors_count": 3,
+    "rating": 3
   },
   {
     "title": "CEC Entertainment Website",
@@ -41476,7 +41486,7 @@
     "start_year": 1979,
     "category": "Pizza Time Theatre",
     "tag": "Animatronic Shows",
-    "contributors_count": 10,
+    "contributors_count": 11,
     "rating": 0
   },
   {

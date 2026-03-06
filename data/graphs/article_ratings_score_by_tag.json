@@ -1,7 +1,7 @@
 {
   "series": {
     "Companies/Brands": 2.83,
-    "Locations": 2.36,
+    "Locations": 2.35,
     "Movies": 2.33,
     "Events": 2.14,
     "Menu Items": 2.0,
@@ -21,8 +21,8 @@
     "Cancelled Locations": 1.4,
     "Products": 1.4,
     "Animatronic Parts": 1.4,
+    "Animatronics": 1.33,
     "Animatronic Preservation": 1.33,
-    "Animatronics": 1.3,
     "Programming Systems": 1.25,
     "Store Fixtures": 1.15,
     "Documents": 1.14,

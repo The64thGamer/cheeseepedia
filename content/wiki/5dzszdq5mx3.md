@@ -85,4 +85,4 @@ citations = []
 
 ## Trivia:
 
-1\. 03/04 Update \- Chuck E\. Cheese \- 'The Snail Band Marching Band'\, Chuck E\. & Friends \- 'Just Like This'\, Chuck E\. Cheese Silly Song \- 'Unicorn\, Unicorn\!'\, Chuck E\. Cheese \- 'Rainbow Hamster Family'\, Chuck E\. Cheese \- 'Dancin' Kitten'\, Pasqually The Chef \- 'It's The 70's'\, Chuck E\. & Friends \- 'Let's Have a Party' \(DJ Munch Remix\)\, Chuck E\. & Friends \- 'Crochet All Day'\, Chuck E\. Cheese \- 'Where do the Socks Go?'\, and Chuck E\. Cheese Partymobile Sing\-Along \- 'Me & My Friends' are removed\. 
+1. 03/04 Update - Chuck E. Cheese - 'The Snail Band Marching Band', Chuck E. & Friends - 'Just Like This', Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!', Chuck E. Cheese - 'Rainbow Hamster Family', Chuck E. Cheese - 'Dancin' Kitten', Pasqually The Chef - 'It's The 70's', Chuck E. & Friends - 'Let's Have a Party' (DJ Munch Remix), Chuck E. & Friends - 'Crochet All Day', Chuck E. Cheese - 'Where do the Socks Go?', and Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends' are removed. 
