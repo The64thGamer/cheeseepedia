@@ -150,7 +150,8 @@
   }
 
   function updateContributors(frontmatter, username) {
-    const re    = /contributors\s*=\s*\[([^\]]*)\]/;
+    // Match both inline [ "a", "b" ] and multi-line arrays for contributors
+    const re = /contributors\s*=\s*\[([\s\S]*?)\]/;
     const match = frontmatter.match(re);
     if (!match) return frontmatter.trimEnd() + `\ncontributors = ["${toTomlStr(username)}"]`;
     const names = [...match[1].matchAll(/"([^"]*)"/g)].map(m => m[1]);
@@ -165,13 +166,31 @@
   }
 
   function setFMKey(fm, key, tomlValue) {
-    // Remove any existing occurrence of this key (handles both inline arrays and multi-line arrays)
-    // Multi-line: key = [\n  ...\n]
-    fm = fm.replace(new RegExp(`^${key}\\s*=\\s*\\[[\\s\\S]*?^\\][ \\t]*\\n?`, 'gm'), '');
-    // Inline or scalar: key = ...
-    fm = fm.replace(new RegExp(`^${key}\\s*=.*$\\n?`, 'gm'), '');
-    // Append the new value
-    return fm.trimEnd() + `\n${key} = ${tomlValue}`;
+    // Remove existing key — handle multi-line arrays (key = [\n...\n]) and inline/scalar forms.
+    // Strategy: split into lines, find the key line, remove it plus any continuation until ']'
+    const lines = fm.split('\n');
+    const out = [];
+    let i = 0;
+    while (i < lines.length) {
+      const line = lines[i];
+      const isKeyLine = new RegExp(`^${key}\\s*=`).test(line.trim());
+      if (isKeyLine) {
+        // Check if this is the start of a multi-line array (ends with '[' and no ']' on same line)
+        const isOpenArray = /\[\s*$/.test(line) && !/\]/.test(line);
+        if (isOpenArray) {
+          // Skip lines until we find the closing ']'
+          i++;
+          while (i < lines.length && !/^\s*\]/.test(lines[i])) i++;
+          i++; // skip the ']' line
+        } else {
+          i++; // skip just this line
+        }
+        continue;
+      }
+      out.push(line);
+      i++;
+    }
+    return out.join('\n').trimEnd() + `\n${key} = ${tomlValue}`;
   }
 
   function tomlStringArray(arr) {
@@ -200,23 +219,40 @@
    *   ]
    */
   function normalizeFrontmatter(fm) {
-    // Match multi-line arrays: key = [\n  ...\n]
-    return fm.replace(
-      /^(\w+)\s*=\s*\[\n([\s\S]*?)\n\]/gm,
-      (_, key, inner) => {
-        const items = inner
-          .split('\n')
-          .map(line => line.trim().replace(/,$/, ''))
-          .filter(Boolean);
-        // Re-quote any bare values; already-quoted values pass through
-        const quoted = items.map(item => {
-          if ((item.startsWith('"') && item.endsWith('"')) ||
-              (item.startsWith("'") && item.endsWith("'"))) return item;
-          return `"${toTomlStr(item)}"`;
-        });
-        return `${key} = [${quoted.join(', ')}]`;
+    // Collapse multi-line TOML arrays to single-line inline form.
+    // Process line by line to avoid regex issues with special characters in values.
+    const lines = fm.split('\n');
+    const out = [];
+    let i = 0;
+    while (i < lines.length) {
+      const line = lines[i];
+      // Detect start of multi-line array: key = [  (with nothing after [)
+      const mlMatch = line.match(/^(\w+)\s*=\s*\[\s*$/);
+      if (mlMatch) {
+        const key = mlMatch[1];
+        const items = [];
+        i++;
+        while (i < lines.length && !/^\s*\]/.test(lines[i])) {
+          const val = lines[i].trim().replace(/,$/, '');
+          if (val) {
+            // Re-quote bare values; already-quoted pass through
+            if ((val.startsWith('"') && val.endsWith('"')) ||
+                (val.startsWith("'") && val.endsWith("'"))) {
+              items.push(val);
+            } else {
+              items.push(`"${toTomlStr(val)}"`);
+            }
+          }
+          i++;
+        }
+        i++; // skip closing ]
+        out.push(`${key} = [${items.join(', ')}]`);
+        continue;
       }
-    );
+      out.push(line);
+      i++;
+    }
+    return out.join('\n');
   }
 
   const INLINE_ARRAY_KEYS = new Set(['citations', 'downloadLinks', 'tags', 'categories', 'latitudeLongitude']);
@@ -228,6 +264,8 @@
       if (PROTECTED.has(key) || key.startsWith('_')) continue;
       let tomlVal;
       if (Array.isArray(value)) {
+        // Empty arrays mean "not edited by this tab" — skip rather than clobber existing data
+        if (!value.length) continue;
         tomlVal = INLINE_ARRAY_KEYS.has(key) ? tomlInlineArray(value) : tomlStringArray(value);
       } else if (typeof value === 'boolean') {
         tomlVal = value ? 'true' : 'false';
