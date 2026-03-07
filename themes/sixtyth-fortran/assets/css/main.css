@@ -2094,6 +2094,7 @@ sup {
   opacity: .5;
   font-size: .75em;
   margin-left: .35em;
+  color: var(--brown);
 }
 
 
