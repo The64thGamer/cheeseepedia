@@ -8,6 +8,8 @@ pageThumbnailFile = "kQTcKc3Llo73MlOcuyhT.avif"
 contributors = ["TheEntireShrekScript", "Anonymous", "The Entire Shrek Script"]
 citations = ["https://www.reddit.com/r/chuckecheese/comments/1ltt13b/found_an_advertisement_for_the_houston_tx_antoine/", "https://www.reddit.com/r/chuckecheese/comments/1lkr4nf/flyer_for_a_chuck_e_cheeses_auction_in_houston/", "https://www.youtube.com/watch?v=_ZwSoLsA9tI&t=385s", "https://www.showbizpizza.com/photos/cec/tx_houston/index.html", "https://www.showbizpizza.com/info/documents/cec/cec_focus-2005-12.pdf", "https://archive.org/details/antoine-auction-paper/mode/2up", "https://www.google.com/maps/place/Inwood+Art+Mural/@29.8624672,-95.4729506,978m/", "https://www.reddit.com/r/chuckecheese/comments/1ndvm6r/genealogybank_is_really_being_slept_on/", "https://www.newspapers.com/newspage/1219341884/", "https://www.youtube.com/watch?v=MSynpwaQg1w", "https://drive.google.com/file/d/16-CiDDp3Y1NSA6T0MTkbtaHMpykWqqe5/view"]
 sqft = ""
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 franchisees = []
 storeNumber = "734"
 latitudeLongitude = ["29.8623186,", "-95.4707919,244"]
