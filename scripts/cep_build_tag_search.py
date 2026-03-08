@@ -39,6 +39,9 @@ MEDIA_DIRS = (
 
 THEORYWEB_DIR = os.path.join("content", "theoryweb")
 
+# Tags on main-site pages that make them eligible for theoryweb cross-referencing
+FNAF_TAGS = {"five nights at freddy's", "five nights at freddy's (game)", "five nights at freddy's (movie)"}
+
 WIKI_LINK_RE = re.compile(r"""
     \{\{\s*<?\s*
     wiki-link\s+
@@ -683,6 +686,94 @@ def write_tag_outputs(tags_by_page_expanded: dict, pages_by_tag_sorted: dict, ou
         json.dump(tag_counts, fh, ensure_ascii=False, separators=(',', ':'))
 
 
+# ------------------------------------------------------------------ #
+# Theoryweb: pull fm_tags from wiki-linked articles                   #
+# ------------------------------------------------------------------ #
+
+def process_theoryweb_theory_files(
+    file_list: list,
+    cmap: dict,
+    main_title_to_key: dict,
+    main_pages_meta: dict,
+):
+    """
+    For theoryweb pages whose type = "Theories", resolve every wiki-link in
+    the body against the *main-site* page index and pull that page's fm_tags
+    (franchise/category array) into this theoryweb page's tag set.
+
+    Returns supplemental dicts that are merged into the theoryweb pipeline.
+    """
+    # Build a normalised-title → relpath lookup for main-site pages
+    norm_main = {normalize_text_for_match(k): v for k, v in main_title_to_key.items()}
+
+    extra_tags_by_path = {}  # relpath → list of extra tags to inject
+
+    for f in file_list:
+        try:
+            fm, body = read_frontmatter(f)
+        except Exception:
+            continue
+
+        # Only applies to Theories type
+        page_type = ""
+        for key in ("type", "Type"):
+            if key in fm and fm[key]:
+                page_type = str(fm[key]).strip()
+                break
+        if page_type.lower() != "theories":
+            continue
+
+        relpath = normalize_page_path(f)
+        inherited = []
+
+        for m in WIKI_LINK_RE.finditer(body or ""):
+            linked_title = (m.group(1) or m.group(2) or m.group(3) or "").strip()
+            if not linked_title:
+                continue
+
+            # Look up this title in the main-site index
+            main_key = main_title_to_key.get(linked_title)
+            if main_key is None:
+                main_key = main_title_to_key.get(linked_title.lower())
+            if main_key is None:
+                nt = normalize_text_for_match(linked_title)
+                main_key = norm_main.get(nt)
+            if main_key is None:
+                continue
+
+            meta = main_pages_meta.get(main_key, {})
+            # Pull fm_tags (franchise/category array) from the linked main-site page
+            for tag in (meta.get("fm_tags") or []):
+                n = normalize_tag_preserve_case(str(tag), cmap)
+                if n:
+                    inherited.append(n)
+
+        if inherited:
+            extra_tags_by_path[relpath] = inherited
+
+    return extra_tags_by_path
+
+
+def collect_fnaf_main_pages(
+    main_pages_meta: dict,
+) -> dict:
+    """
+    Return a subset of main_pages_meta for pages whose fm_tags contain any of
+    the FNAF_TAGS strings (case-insensitive).  These pages will be injected
+    into the theoryweb tag index as cross-references.
+    """
+    fnaf_pages = {}
+    for relpath, meta in main_pages_meta.items():
+        page_tags_lower = {t.lower() for t in (meta.get("fm_tags") or [])}
+        if page_tags_lower & FNAF_TAGS:
+            fnaf_pages[relpath] = meta
+    return fnaf_pages
+
+
+# ------------------------------------------------------------------ #
+# Main build                                                          #
+# ------------------------------------------------------------------ #
+
 def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_DEFAULT):
     files = collect_content_files(base_dir)
 
@@ -708,6 +799,7 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
     canonical_map = {}
     canonical_map_tw = {}
 
+    # ── Main site ──────────────────────────────────────────────────────────────
     tags_by_page, pages_meta = process_normal_files(normal_files, canonical_map)
     tags_by_page_expanded = run_inference(tags_by_page, canonical_map, infer_file)
 
@@ -723,7 +815,32 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
     write_tag_outputs(tags_by_page_expanded, pages_by_tag_sorted, OUT_DIR, OUT_DIR_COPY)
     print(f"[INFO] Main site: {len(tags_by_page_expanded)} pages, {len(pages_by_tag_sorted)} tags")
 
+    # ── Build main-site lookup structures needed by theoryweb ─────────────────
+    # title → relpath map covering all main-site pages (not theoryweb)
+    main_title_to_key = {}
+    for relpath, meta in pages_meta_all.items():
+        t = meta.get("title", "")
+        if t:
+            main_title_to_key[t] = relpath
+            main_title_to_key[t.lower()] = relpath
+
+    # ── Theoryweb ─────────────────────────────────────────────────────────────
     tags_by_page_tw, pages_meta_tw = process_normal_files(normal_files_tw, canonical_map_tw)
+
+    # Feature 1: for Theories pages, inherit fm_tags from wiki-linked main-site articles
+    extra_from_links = process_theoryweb_theory_files(
+        normal_files_tw, canonical_map_tw, main_title_to_key, pages_meta_all
+    )
+    for relpath, extra in extra_from_links.items():
+        if relpath in tags_by_page_tw:
+            existing = set(tags_by_page_tw[relpath])
+            for tag in extra:
+                if tag not in existing:
+                    tags_by_page_tw[relpath].append(tag)
+                    existing.add(tag)
+        else:
+            tags_by_page_tw[relpath] = list(extra)
+
     tags_by_page_expanded_tw = run_inference(tags_by_page_tw, canonical_map_tw, infer_file)
 
     tags_by_page_media_tw, pages_meta_media_tw = process_media_files(
@@ -732,11 +849,24 @@ def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_D
 
     tags_by_page_all_tw = {**tags_by_page_tw, **tags_by_page_media_tw}
     pages_meta_all_tw = {**pages_meta_tw, **pages_meta_media_tw}
+
+    # Feature 2: inject main-site pages tagged with FNAF tags into the theoryweb index
+    fnaf_main_pages = collect_fnaf_main_pages(pages_meta_all)
+    fnaf_tags_by_page = {}
+    for relpath, meta in fnaf_main_pages.items():
+        # Use the already-expanded main-site tags for these pages so they
+        # carry their full tag set (including inferred tags) into theoryweb
+        fnaf_tags_by_page[relpath] = tags_by_page_expanded.get(relpath, [])
+    tags_by_page_all_tw = {**fnaf_tags_by_page, **tags_by_page_all_tw}
+    pages_meta_all_tw   = {**fnaf_main_pages,   **pages_meta_all_tw}
+
     tags_by_page_expanded_tw = run_inference(tags_by_page_all_tw, canonical_map_tw, infer_file)
 
     pages_by_tag_sorted_tw = build_pages_by_tag(tags_by_page_expanded_tw, pages_meta_all_tw)
     write_tag_outputs(tags_by_page_expanded_tw, pages_by_tag_sorted_tw, OUT_DIR_THEORYWEB, OUT_DIR_COPY_THEORYWEB)
-    print(f"[INFO] Theoryweb:  {len(tags_by_page_expanded_tw)} pages, {len(pages_by_tag_sorted_tw)} tags")
+    fnaf_count = len(fnaf_main_pages)
+    print(f"[INFO] Theoryweb:  {len(tags_by_page_expanded_tw)} pages, {len(pages_by_tag_sorted_tw)} tags "
+          f"(+{fnaf_count} FNAF main-site pages injected)")
 
     return tags_by_page_expanded, pages_by_tag_sorted, {tag: len(arr) for tag, arr in pages_by_tag_sorted.items()}
 

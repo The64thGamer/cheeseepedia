@@ -24,6 +24,18 @@
       "sort": "19801000"
     },
     {
+      "page_get": "wiki/raleigh-nc-4339-falls-of-neuse-rd",
+      "page_path": "content/wiki/raleigh-nc-4339-falls-of-neuse-rd",
+      "page_title": "Raleigh, NC (4339 Falls of the Neuse Rd)",
+      "parts": [
+        "Balcony Stage",
+        "1980-11-00",
+        "1984-10-00",
+        "Unstandardized Stage."
+      ],
+      "sort": "19801100"
+    },
+    {
       "page_get": "wiki/fremont-ca-5161-mowry-ave",
       "page_path": "content/wiki/fremont-ca-5161-mowry-ave",
       "page_title": "Fremont, CA (5141 Mowry Ave)",
@@ -3488,6 +3500,18 @@
         ""
       ],
       "sort": "19810625"
+    },
+    {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "Classic Stage",
+        "1981-07-15",
+        "1991-00-00",
+        ""
+      ],
+      "sort": "19810715"
     },
     {
       "page_get": "wiki/englewood-co-1001-w-hampden-ave",
@@ -7822,7 +7846,7 @@
       "parts": [
         "Studio C Beta",
         "2007-02-20",
-        "0000-00-00",
+        "2023-03-00",
         ""
       ],
       "sort": "20070220"
@@ -12518,8 +12542,7 @@
         "Chuck E. Live Stage (Dance Floor)",
         "2023-03-00",
         "",
-        "2021 Model",
-        ""
+        "2021 Model"
       ],
       "sort": "20230300"
     },
@@ -16911,6 +16934,18 @@
       "sort": "19910000"
     },
     {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "Concept Unification Stage",
+        "1991-00-00",
+        "2006-09-00",
+        ""
+      ],
+      "sort": "19910000"
+    },
+    {
       "page_get": "wiki/jacksonville-fl-9820-atlantic-blvd",
       "page_path": "content/wiki/jacksonville-fl-9820-atlantic-blvd",
       "page_title": "Jacksonville, FL (9820 Atlantic Blvd)",
@@ -19325,6 +19360,18 @@
       "page_get": "wiki/augusta-ga-3435-wrightsboro-rd",
       "page_path": "content/wiki/augusta-ga-3435-wrightsboro-rd",
       "page_title": "Augusta, GA (3435 Wrightsboro Rd)",
+      "parts": [
+        "Mega Superhero Playground",
+        "2026-00-00",
+        "",
+        ""
+      ],
+      "sort": "20260000"
+    },
+    {
+      "page_get": "wiki/pasadena-tx-5075-fairmont-pkwy",
+      "page_path": "content/wiki/pasadena-tx-5075-fairmont-pkwy",
+      "page_title": "Pasadena, TX (5075 Fairmont Pkwy)",
       "parts": [
         "Mega Superhero Playground",
         "2026-00-00",
@@ -25228,6 +25275,16 @@
       "sort": "19791226"
     },
     {
+      "page_get": "wiki/raleigh-nc-4339-falls-of-neuse-rd",
+      "page_path": "content/wiki/raleigh-nc-4339-falls-of-neuse-rd",
+      "page_title": "Raleigh, NC (4339 Falls of the Neuse Rd)",
+      "parts": [
+        "PTT Standard Layout",
+        "1980-11-00"
+      ],
+      "sort": "19801100"
+    },
+    {
       "page_get": "wiki/fremont-ca-5161-mowry-ave",
       "page_path": "content/wiki/fremont-ca-5161-mowry-ave",
       "page_title": "Fremont, CA (5141 Mowry Ave)",
@@ -26715,6 +26772,16 @@
       "sort": "00000000"
     },
     {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "SPT 1980's Remodel Program",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
       "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
       "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
       "page_title": "Stockton, CA (4555 N Pershing Ave)",
@@ -26915,6 +26982,16 @@
         "1998-00-00"
       ],
       "sort": "19980000"
+    },
+    {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "SPT 1990's Remodel Program",
+        "1998-08-23"
+      ],
+      "sort": "19980823"
     },
     {
       "page_get": "wiki/scottsdale-az-8890-e-indian-bend-rd",
@@ -27699,6 +27776,19 @@
     }
   ],
   "animatronics|Beach Bear (Animatronic)": [
+    {
+      "page_get": "wiki/houston-tx-6760-antoine-dr",
+      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
+      "page_title": "Houston, TX (6760 Antoine Dr)",
+      "parts": [
+        "Beach Bear (Animatronic)",
+        "1981-07-15",
+        "2006-09-00",
+        "1-81 4-5",
+        "Sent to the location on 5535 Weslayan St, now destroyed"
+      ],
+      "sort": "19810715"
+    },
     {
       "page_get": "wiki/st-louis-mo-2805-target-dr",
       "page_path": "content/wiki/st-louis-mo-2805-target-dr",
@@ -33939,6 +34029,28 @@
       "sort": "00000000"
     }
   ],
+  "remodels|PTT 1981 Exterior Update": [
+    {
+      "page_get": "wiki/raleigh-nc-4339-falls-of-neuse-rd",
+      "page_path": "content/wiki/raleigh-nc-4339-falls-of-neuse-rd",
+      "page_title": "Raleigh, NC (4339 Falls of the Neuse Rd)",
+      "parts": [
+        "PTT 1981 Exterior Update",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
+      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
+      "page_title": "Stockton, CA (4555 N Pershing Ave)",
+      "parts": [
+        "PTT 1981 Exterior Update",
+        "0000-00-00"
+      ],
+      "sort": "00000000"
+    }
+  ],
   "attractions|Cave Mania": [
     {
       "page_get": "wiki/princeton-nj-520-nassau-park-blvd",
@@ -35074,21 +35186,6 @@
       "sort": "00000000"
     }
   ],
-  "animatronics|\"\\\"Beach Bear (Animatronic)": [
-    {
-      "page_get": "wiki/houston-tx-6760-antoine-dr",
-      "page_path": "content/wiki/houston-tx-6760-antoine-dr",
-      "page_title": "Houston, TX (6760 Antoine Dr)",
-      "parts": [
-        "\"\\\"Beach Bear (Animatronic)",
-        "1981-07-15",
-        "2006-09-00",
-        "1-81 4-5",
-        "Sent to Houston, TX (5535 Weslayan St), now destroyed."
-      ],
-      "sort": "19810715"
-    }
-  ],
   "attractions|Aftershock": [
     {
       "page_get": "wiki/houston-tx-6760-antoine-dr",
@@ -35348,18 +35445,6 @@
         "0000-00-00",
         "0000-00-00",
         "Played by customer in late 80's, early 90's."
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "remodels|PTT 1981 Exterior Update": [
-    {
-      "page_get": "wiki/stockton-ca-4555-n-pershing-ave",
-      "page_path": "content/wiki/stockton-ca-4555-n-pershing-ave",
-      "page_title": "Stockton, CA (4555 N Pershing Ave)",
-      "parts": [
-        "PTT 1981 Exterior Update",
-        "0000-00-00"
       ],
       "sort": "00000000"
     }

@@ -40046,7 +40046,7 @@
     "start_year": 1980,
     "category": null,
     "tag": "Pizza Time Theatre",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -49136,7 +49136,7 @@
     "start_year": 2007,
     "category": null,
     "tag": "Chuck E. Cheese's",
-    "contributors_count": 0,
+    "contributors_count": 1,
     "rating": 0
   },
   {
@@ -52755,7 +52755,7 @@
     "startDate": "1981-07-15",
     "start_year": 1981,
     "category": null,
-    "tag": null,
+    "tag": "Chuck E. Cheese's",
     "contributors_count": 3,
     "rating": 4
   },

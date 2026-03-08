@@ -678,7 +678,6 @@ select:hover {
 .alt-list-page-content .emoji {
   height: 1em;
   vertical-align: middle;
-  margin-left: 0.25rem;
 }
 
 /* Date / meta text */
@@ -2120,6 +2119,21 @@ sup {
 
 .results-list>* {
   margin: 1rem;
+}
+
+.alt-list-text-preview {
+  width: 100%;
+  height: 100%;
+  padding: 0.6rem;
+  font-size: 0.78rem;
+  line-height: 1.4;
+  color: var(--deep-white);
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+  box-sizing: border-box;
+  text-wrap: auto;
 }
 
 .gallery-btn {

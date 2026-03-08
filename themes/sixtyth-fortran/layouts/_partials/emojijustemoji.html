@@ -27,6 +27,7 @@
   "Commercials" "<img src=\"/UI/Emojis/movie_camera.svg\" class=\"emoji\">"
   "News Footage" "<img src=\"/UI/Emojis/tv.svg\" class=\"emoji\">"
   "Photos" "<img src=\"/UI/Emojis/camera_with_flash.svg\" class=\"emoji\">"
+  "Images" "<img src=\"/UI/Emojis/camera_with_flash.svg\" class=\"emoji\">"
   "Videos" "<img src=\"/UI/Emojis/film_frames.svg\" class=\"emoji\">"
   "Company Media" "<img src=\"/UI/Emojis/dvd.svg\" class=\"emoji\">"
   "In-Store Merchandise" "<img src=\"/UI/Emojis/free.svg\" class=\"emoji\">"
@@ -47,11 +48,10 @@
   "Transcriptions" "<img src=\"/UI/Emojis/pencil.svg\" class=\"emoji\">"
   "User" "<img src=\"/UI/Emojis/furry_pride.svg\" class=\"emoji\">"
   "Companies/Brands" "<img src=\"/UI/Emojis/plate.svg\" class=\"emoji\">"
-
+  "Theories" "<img src=\"/UI/Emojis/red_question_mark.svg\" class=\"emoji\">"
 -}}
 
-{{- $inputString := . -}}
-
+{{- $inputString := . | default "" -}}
+{{- if eq $inputString "" -}}{{- return -}}{{- end -}}
 {{- $value := index $dictionary $inputString -}}
-
 {{- $value | safeHTML -}}

@@ -1,7 +1,7 @@
 <div class="list-page-block-video">
     <div class="list-page-container">
         <div class="list-video">
-            {{- partial "video-thumbnail.html" .Title -}}
+            {{- partial "video-thumbnail.html" (cond (ne (.Params.videoLink | default "") "") .Params.videoLink .Title) -}}
         </div>
         <div class="list-page-video-content">
             <a href="{{- .RelPermalink -}}">

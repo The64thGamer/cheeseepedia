@@ -208,6 +208,8 @@ def build_videos_indices():
             continue
 
         title = fm.get("title") or os.path.splitext(os.path.basename(path))[0]
+        video_link = fm.get("videoLink") or fm.get("videolink") or ""
+        resolved_url = video_link if video_link else title
         pages = normalize_pages_field(fm.get("pages"))
         content = load_content_only(path)
         start_date = fm.get("startDate") or fm.get("date") or ""
@@ -216,7 +218,7 @@ def build_videos_indices():
         page_path = sanitize_page_path(rel)
 
         item = {
-            "name": title,
+            "name": resolved_url,
             "page_path": page_path,
             "startDate": start_date,
             "content": content,
