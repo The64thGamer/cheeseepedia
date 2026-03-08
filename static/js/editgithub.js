@@ -8,8 +8,8 @@
   const currentPageTitle      = window.EDITOR_CONFIG.pageTitle;
   // Hugo's jsonify may produce a string instead of an array if categories is a
   // single scalar value in the front matter, so always normalise to a proper JS array.
-  const currentPageCategories = (() => {
-    const raw = window.EDITOR_CONFIG.pageCategories;
+  const currentPageTags = (() => {
+    const raw = window.EDITOR_CONFIG.pageTags;
     if (!raw) return [];
     if (Array.isArray(raw)) return raw;
     if (typeof raw === 'string') {
@@ -255,7 +255,7 @@
     return out.join('\n');
   }
 
-  const INLINE_ARRAY_KEYS = new Set(['citations', 'downloadLinks', 'tags', 'categories', 'latitudeLongitude']);
+  const INLINE_ARRAY_KEYS = new Set(['citations', 'downloadLinks', 'tags', 'latitudeLongitude']);
 
   function applyFMUpdates(fm, updates) {
     const PROTECTED = new Set(['draft', 'contributors', 'title']);
@@ -1237,21 +1237,18 @@
       ));
     }
 
-    // Tag — single dropdown
+    // Type — single dropdown (was "tags", now a plain string)
     const tagSel = document.createElement('select');
     addOpt(tagSel, '', '— Select a tag —');
-    const currentTag = isNewPage ? '' : (parsedFM.tags || [])[0] || '';
+    const currentTag = isNewPage ? '' : (parsedFM.type || '');
     TAGS_LIST.forEach(t => addOpt(tagSel, t, t, t === currentTag));
     container.appendChild(fieldBlock('Tag', tagSel, isNewPage
       ? 'Determines which folder the page goes into.'
       : 'Page type.'));
 
-    // Categories — single dropdown
-    const catSel = document.createElement('select');
-    addOpt(catSel, '', '— Select a category —');
-    const currentCat = (parsedFM.categories || [])[0] || '';
-    CATEGORIES_LIST.forEach(c => addOpt(catSel, c, c, c === currentCat));
-    container.appendChild(fieldBlock('Category', catSel));
+    // Tags — multi-select checkbox list (was "categories", now tags array)
+    const tagsCheck = makeCheckboxList(CATEGORIES_LIST, parsedFM.tags || []);
+    container.appendChild(fieldBlock('Tags', tagsCheck.el, 'Select all that apply.'));
 
     const startDateEl = makeDateSelects('fm-startDate', parsedFM.startDate || '');
     container.appendChild(fieldBlock('Start Date', startDateEl));
@@ -1275,8 +1272,8 @@
 
     return () => ({
       title:             isNewPage ? (document.getElementById('new-page-title-input')?.value.trim() || '') : undefined,
-      tags:              tagSel.value ? [tagSel.value] : (parsedFM.tags || []),
-      categories:        catSel.value ? [catSel.value] : (parsedFM.categories || []),
+      type:              tagSel.value || (parsedFM.type || ''),
+      tags:              tagsCheck.getValues().length ? tagsCheck.getValues() : (parsedFM.tags || []),
       startDate:         readDateSelects(startDateEl),
       endDate:           readDateSelects(endDateEl),
       pageThumbnailFile: thumbInp.value.trim(),
@@ -1510,11 +1507,11 @@
     let fm = `title = "${toTomlStr(title)}"`;
     fm += `\nstartDate = "${startDate || todayStr}"`;
     fm += `\ncontributors = ["${toTomlStr(username)}"]`;
-    if (tag) fm += `\ntags = ["${toTomlStr(tag)}"]`;
+    if (tag) fm += `\ntype = "${toTomlStr(tag)}"`;
     if (extraFields) {
       for (const [key, value] of Object.entries(extraFields)) {
         // Skip private/internal keys (prefixed with _), and keys already written above
-        if (key.startsWith('_') || key === 'title' || key === 'startDate' || key === 'contributors' || key === 'tags') continue;
+        if (key.startsWith('_') || key === 'title' || key === 'startDate' || key === 'contributors' || key === 'type') continue;
         if (value === '' || value == null) continue;
         if (Array.isArray(value)) {
           const serialized = INLINE_ARRAY_KEYS.has(key) ? tomlInlineArray(value) : tomlStringArray(value);
@@ -1669,7 +1666,7 @@ videoLink = "${toTomlStr(vals.videoLink)}"`;
           endDate:           vals.endDate,
           pageThumbnailFile: vals.pageThumbnailFile,
           downloadLinks:     vals.downloadLinks,
-          categories:        vals.categories,
+          tags:              vals.tags,
         });
         await doSave(fm, editor.getMarkdown(), newPath);
       }
@@ -1937,8 +1934,8 @@ title = "${toTomlStr(title)}"
 startDate = "${startDate}"
 page = "${safeTitle(currentPageTitle)}"
 contributors = ["${toTomlStr(author)}"]
-tags = ["Reviews"]
-categories = ["User-Generated Content"]
+type = "Reviews"
+tags = ["User-Generated Content"]
 +++
 ${body}`;
         await commitFilesMulti(octokit, userLogin, branchName, baseSha,
@@ -2114,8 +2111,8 @@ title = "${toTomlStr(info.filename)}"
 startDate = "${dateStr}"
 citations = ${tomlInlineArray(citations)}
 pages = ["${safeTitle(currentPageTitle)}"]
-tags = ["Photos"]
-categories = ${tomlInlineArray(currentPageCategories || [])}
+type = "Photos"
+tags = ${tomlInlineArray(currentPageTags || [])}
 +++
 ${desc}`
         }));

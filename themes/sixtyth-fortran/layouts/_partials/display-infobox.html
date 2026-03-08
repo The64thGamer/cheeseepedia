@@ -1,15 +1,15 @@
-{{- if and .Params.type (not (in .Params.type "Meta")) (not (in .Params.type "Transcriptions")) -}}
+{{- if and .Params.type (not (eq .Params.type "Meta")) (not (eq .Params.type "Transcriptions")) -}}
  <div class="article-infobox">
-    {{- if .Params.pageThumbnailFile -}}
-      <div class="article-thumbnail">
-        {{- $thumb := default "" .Params.pageThumbnailFile -}}
-        {{- $mode := "no-css" -}}
-        {{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
-      </div>
-    {{- end -}}
-    {{- if or (.Params.startDate) (.Params.endDate) -}}
-    <b>{{- if in .Params.type "Locations" -}}Operated: {{- else -}}Release: {{- end -}}</b>{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}
-    {{- end -}}
+{{- if .Params.pageThumbnailFile -}}
+<div class="article-thumbnail">
+{{- $thumb := default "" .Params.pageThumbnailFile -}}
+{{- $mode := "no-css" -}}
+{{- partialCached "DisplayPhoto.html" (dict "name" $thumb "mode" $mode) (printf "%s|%s" $thumb $mode) -}}
+</div>
+{{- end -}}
+{{- if or (.Params.startDate) (.Params.endDate) -}}
+<b>{{- if eq .Params.type "Locations" -}}Operated: {{- else -}}Release: {{- end -}}</b>{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}
+{{- end -}}
 
     {{- $currentPageTitle := .Title -}} 
     {{- $reviews := partialCached "grab-all-reviews.html" "key"}}

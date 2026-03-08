@@ -3,7 +3,6 @@
 title = "Chuck E. Cheese's Face Painting Crayons (2003)"
 draft = false
 tags = []
-tags = []
 startDate = ""
 endDate = ""
 contributors = ["StudioC"]

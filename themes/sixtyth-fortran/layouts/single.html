@@ -2,11 +2,11 @@
   {{- .Page.Store.Set "citationsCount" dict -}}
   {{- $layout := "Article" -}}
   {{- with .Params.type -}}
-    {{- if in . "User" -}}
+    {{- if eq . "User" -}}
       {{- $layout = "user" -}}
-    {{- else if in . "Transcriptions" -}}
+    {{- else if eq . "Transcriptions" -}}
       {{- $layout = "baseTranscriptionArticle" -}}
-    {{- else if in . "Reviews" -}}
+    {{- else if eq . "Reviews" -}}
       {{- $layout = "baseReviewArticle" -}}
     {{- end -}}
   {{- end -}}

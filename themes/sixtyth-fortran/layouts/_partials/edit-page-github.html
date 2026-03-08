@@ -1,6 +1,6 @@
 <center>
   {{ if .Params.newPage }}
-    Create a new page below. Fill in the content, then set your title and tag in the <strong>General Info</strong> tab before saving.
+    Create a new page below. Fill in the content, then set your title and type in the <strong>General Info</strong> tab before saving.
   {{ else }}
     Edit this page's content and metadata below. Changes create a pull request for review before going live.
   {{ end }}
@@ -51,7 +51,7 @@
       <div class="tab-panel" id="edit-fm-general">
         <p style="color:var(--deep-white); font-size:0.85rem; margin-bottom:1rem;">
           {{ if .Params.newPage }}
-            Set the title and tag for the new page. The tag determines which folder it goes into.
+            Set the title, type, and tags for the new page. The type determines which folder it goes into.
           {{ else }}
             Fields here update the page's metadata. All saves go through a pull request for review.
           {{ end }}
@@ -251,7 +251,7 @@ window.OctokitClass = Octokit;
 window.editorLibsReady = true;
 window.EDITOR_CONFIG = {
   pageTitle:      {{ .Title | jsonify }},
-  pageCategories: {{ .Params.categories | jsonify }},
+  pageTags:       {{ .Params.tags | jsonify }},
   isNewPage:      {{ if .Params.newPage }}true{{ else }}false{{ end }},
   sourceFilePath: "{{ if .File }}{{ .File.Path }}{{ end }}"
 };

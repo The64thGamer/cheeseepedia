@@ -17,19 +17,18 @@
 {{- $categories := .Site.Taxonomies.categories -}}
 <div id="loadingTextb" style="visibility:visible; text-align:center; margin-top:1em; color:var(--yellow)">Loading. . .</div>
 <div id="tagsContainerb" style="visibility:hidden;">
-  {{- range $categoryName, $pages := $categories -}}
+{{- range $categoryName, $pages := $categories -}}
     <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
-      {{- $tags := dict -}} <!-- Initialize a dictionary for tags -->
-      {{- range $pages -}}
-        {{- range .Params.type -}}
-          {{- $tag := . -}}
-          {{- $count := index $tags $tag | default 0 -}}
-          {{- $tags = merge $tags (dict $tag (add $count 1)) -}}
-        {{- end -}}
-      {{- end -}}
-
-      {{- $categorizedTags := dict -}}
-      {{- $otherTags := dict -}}
+{{- $tags := dict -}}
+{{- range $pages -}}
+{{- $tag := .Params.type -}}
+{{- if $tag -}}
+{{- $count := index $tags $tag | default 0 -}}
+{{- $tags = merge $tags (dict $tag (add $count 1)) -}}
+{{- end -}}
+{{- end -}}
+{{- $categorizedTags := dict -}}
+{{- $otherTags := dict -}}
 
       <!-- Group tags into predefined categories -->
       {{- range $tag, $count := $tags -}}

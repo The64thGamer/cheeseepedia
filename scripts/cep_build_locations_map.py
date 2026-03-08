@@ -94,7 +94,6 @@ def normalize_list_field(val) -> List[str]:
     if isinstance(val, (list, tuple)):
         return [str(v).strip() for v in val if v is not None and str(v).strip() != ""]
     if isinstance(val, str):
-        # if it's a pipe-separated field or comma-separated, try to split
         if "|" in val and not "," in val:
             return [p.strip() for p in val.split("|") if p.strip()]
         if "," in val:
@@ -116,7 +115,6 @@ def parse_latlon_field(val) -> Optional[List[str]]:
         return None
     if isinstance(val, str):
         s = val.strip()
-        # Accept JSON-like list string: '["37.9","-122.0"]'
         if s.startswith("[") and s.endswith("]"):
             inner = s[1:-1]
             parts = re.split(r"\s*,\s*", inner)
@@ -124,17 +122,14 @@ def parse_latlon_field(val) -> Optional[List[str]]:
             if len(parts) >= 2:
                 return [parts[0], parts[1]]
             return None
-        # Accept simple 'lat,lon'
         if "," in s:
             parts = [p.strip() for p in s.split(",")]
             if len(parts) >= 2:
                 return [parts[0], parts[1]]
-        # Accept whitespace separated
         if " " in s:
             parts = [p.strip() for p in s.split() if p.strip()]
             if len(parts) >= 2:
                 return [parts[0], parts[1]]
-        # single value -> invalid
     return None
 
 def is_zero_coord(latlon_list: List[str]) -> bool:
@@ -146,23 +141,9 @@ def is_zero_coord(latlon_list: List[str]) -> bool:
         return False
 
 def normalize_date(field_val: Optional[str], kind: str = "start") -> Optional[str]:
-    """
-    Normalize date string according to rules:
-      - Accept YYYY-MM-DD pattern; otherwise return None.
-      - For start:
-          YYYY-00-00 -> YYYY-01-01
-          YYYY-MM-00 -> YYYY-MM-01
-      - For cu:
-          YYYY-00-00 -> YYYY-01-01  (month/day 00 -> 01)
-      - For end:
-          YYYY-00-00 -> YYYY-12-31
-          YYYY-MM-00 -> last-day-of-month
-    If field_val is empty or invalid, returns None.
-    """
     if not field_val or not isinstance(field_val, str):
         return None
     s = field_val.strip()
-    # allow noisy whitespace; must look like YYYY-MM-DD though parts may be '00'
     parts = s.split("-")
     if len(parts) < 3:
         return None
@@ -172,7 +153,6 @@ def normalize_date(field_val: Optional[str], kind: str = "start") -> Optional[st
         day = int(parts[2])
     except Exception:
         return None
-    # guard against year 0
     if year <= 0:
         return None
 
@@ -192,15 +172,12 @@ def normalize_date(field_val: Optional[str], kind: str = "start") -> Optional[st
             month = 12
             day = 31
         elif day == 0:
-            # last day of given month
             last_day = calendar.monthrange(year, month)[1]
             day = last_day
 
-    # now validate month/day ranges
     try:
         dt = datetime.date(year, month, day)
     except Exception:
-        # fallback: try clamp month/day to safe values
         month = max(1, min(12, month))
         last_day = calendar.monthrange(year, month)[1]
         day = max(1, min(last_day, day if day != 0 else 1))
@@ -208,26 +185,16 @@ def normalize_date(field_val: Optional[str], kind: str = "start") -> Optional[st
     return dt.isoformat()
 
 def guess_url_from_path(content_path: str, fm: dict) -> str:
-    """
-    Attempt to produce a RelPermalink-like URL for the page.
-    Prioritizes frontmatter 'url' if present. Otherwise uses file path under content/.
-    This is a pragmatic approximation and may not match Hugo's permalinks config.
-    """
-    # if frontmatter url set, use it (already site-relative)
     for key in ("url", "permalink", "relpermalink"):
         v = fm.get(key)
         if v and isinstance(v, str) and v.strip():
             return v.strip()
 
-    # derive from path
     rel = os.path.relpath(content_path, BASE_CONTENT_DIR).replace(os.sep, "/")
-    # remove file extension
     rel = re.sub(r"\.(md|markdown|mdown)$", "", rel, flags=re.IGNORECASE)
-    # if file is index or _index, use parent directory
     base = os.path.basename(rel).lower()
     if base in ("index", "_index"):
         rel = os.path.dirname(rel)
-    # ensure it starts with a slash, and ends with a slash
     rel = "/" + rel.strip("/")
     rel = rel + "/"
     return rel
@@ -251,9 +218,10 @@ def build_locations(base_dir: str = BASE_CONTENT_DIR) -> List[Dict[str, Any]]:
             continue
         if not fm:
             fm = {}
-        # tags normalization - accept tags or Tags etc.
-        tags = normalize_list_field(fm.get("tags") or fm.get("Tags") or fm.get("tag") or fm.get("Tag"))
-        if not any(t.lower() == "locations" for t in tags):
+
+        # type is now a plain string (old tags[0])
+        page_type = str(fm.get("type") or fm.get("Type") or "").strip()
+        if page_type.lower() != "locations":
             continue
 
         relpath = os.path.relpath(path).replace(os.sep, "/")
@@ -262,31 +230,26 @@ def build_locations(base_dir: str = BASE_CONTENT_DIR) -> List[Dict[str, Any]]:
         seen.add(relpath)
 
         title = fm.get("title") or os.path.splitext(os.path.basename(path))[0]
-        categories = normalize_list_field(fm.get("categories") or fm.get("Categories") or fm.get("category") or fm.get("Category"))
-        # parse latitudeLongitude
-        raw_latlon = fm.get("latitudeLongitude") or fm.get("latitudeLongitude".lower()) or fm.get("latlong") or fm.get("latitude_longitude")
+
+        # tags is now the franchise/category array (old categories)
+        group = normalize_list_field(fm.get("tags") or fm.get("Tags") or fm.get("tag") or fm.get("Tag"))
+
+        raw_latlon = fm.get("latitudeLongitude") or fm.get("latlong") or fm.get("latitude_longitude")
         latlon = parse_latlon_field(raw_latlon)
         if not latlon:
-            # nothing to do: skip pages with no coords
             continue
-        # weed out 0,0
         if is_zero_coord(latlon):
             continue
-        # convert to floats for coords
         try:
             coords = [float(latlon[0]), float(latlon[1])]
         except Exception:
-            # skip if can't parse floats
             continue
 
-        # dates
         start_raw = fm.get("startDate") or fm.get("startdate") or ""
         end_raw = fm.get("endDate") or fm.get("enddate") or ""
         cu_raw = fm.get("cuDate") or fm.get("cudate") or ""
 
         start_norm = normalize_date(start_raw, kind="start") or "1970-01-01"
-        # IMPORTANT CHANGE: Do NOT default missing end date to the build/compile date.
-        # Default to a far-future date so "present" pins (no end) remain visible for client-side future dates.
         end_norm = normalize_date(end_raw, kind="end") or "9999-12-31"
         cu_norm = normalize_date(cu_raw, kind="cu") or "1992-01-01"
 
@@ -294,14 +257,13 @@ def build_locations(base_dir: str = BASE_CONTENT_DIR) -> List[Dict[str, Any]]:
 
         entry = {
             "title": title,
-            "group": categories,              # categories array (JS code used .Params.categories)
-            "coords_str": latlon,            # original strings
-            "coords": coords,                # numeric [lat, lon]
+            "group": group,
+            "coords_str": latlon,
+            "coords": coords,
             "url": url,
             "startDate": start_norm,
             "endDate": end_norm,
             "cuDate": cu_norm,
-            # include other useful bits (optional)
             "page_path": relpath
         }
         out.append(entry)

@@ -162,6 +162,7 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
             return [p for p in (p.strip() for p in parts) if p]
         return [str(raw)]
 
+    # tags = array of franchise/category names (old categories)
     for key in ("tags", "Tags"):
         if key in fm and fm[key]:
             raw = fm[key]
@@ -179,22 +180,14 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                         if n:
                             tags.append(n)
 
-    for key in ("categories", "Categories"):
+    # type = plain string page type (old tags[0])
+    for key in ("type", "Type"):
         if key in fm and fm[key]:
             raw = fm[key]
-            if isinstance(raw, (list, tuple)):
-                for v in raw:
-                    n = normalize_tag_preserve_case(str(v), canonical_map)
-                    if n:
-                        tags.append(n)
-            elif isinstance(raw, str):
-                parts = re.split(r"[;,]", raw)
-                for p in parts:
-                    p = p.strip()
-                    if p:
-                        n = normalize_tag_preserve_case(p, canonical_map)
-                        if n:
-                            tags.append(n)
+            if isinstance(raw, str) and raw.strip():
+                n = normalize_tag_preserve_case(raw.strip(), canonical_map)
+                if n:
+                    tags.append(n)
 
     for key in ("pages", "Pages", "page", "Page"):
         if key in fm and fm[key]:
@@ -410,8 +403,6 @@ def find_key_by_title_or_normalized(title: str, title_to_key_map: dict, tags_by_
 MEDIA_TAGS_LOWER = {"photos", "videos", "transcriptions", "reviews"}
 
 def process_normal_files(file_list: list, cmap: dict):
-    # First pass: build title->path and path->fm maps for all files
-    # so wikilink tag inheritance can look up any file in the list
     title_to_path = {}
     path_to_fm = {}
     for f in file_list:
@@ -435,6 +426,7 @@ def process_normal_files(file_list: list, cmap: dict):
         title = fm.get("title") or fm.get("Title") or Path(f).stem
         raw_tags = extract_tags_from_frontmatter(fm, cmap)
 
+        # tags = franchise/category array (old categories)
         fm_tags_raw = []
         for key in ("tags", "Tags"):
             if key in fm and fm[key]:
@@ -444,25 +436,24 @@ def process_normal_files(file_list: list, cmap: dict):
                 elif isinstance(raw, str):
                     fm_tags_raw.extend([p.strip() for p in re.split(r"[;,]", raw) if p.strip()])
 
-        fm_categories_raw = []
-        for key in ("categories", "Categories"):
+        # type = plain string page type (old tags[0])
+        fm_type_raw = []
+        for key in ("type", "Type"):
             if key in fm and fm[key]:
                 raw = fm[key]
-                if isinstance(raw, (list, tuple)):
-                    fm_categories_raw.extend([str(x).strip() for x in raw if x and str(x).strip()])
-                elif isinstance(raw, str):
-                    fm_categories_raw.extend([p.strip() for p in re.split(r"[;,]", raw) if p.strip()])
+                if isinstance(raw, str) and raw.strip():
+                    fm_type_raw.append(raw.strip())
 
         fm_tags = []
         for v in fm_tags_raw:
             n = normalize_tag_preserve_case(v, cmap)
             if n:
                 fm_tags.append(n)
-        fm_categories = []
-        for v in fm_categories_raw:
+        fm_type = []
+        for v in fm_type_raw:
             n = normalize_tag_preserve_case(v, cmap)
             if n:
-                fm_categories.append(n)
+                fm_type.append(n)
 
         wikilinks = extract_wikilinks_from_body(body, cmap)
         raw_tags.extend(wikilinks)
@@ -475,23 +466,14 @@ def process_normal_files(file_list: list, cmap: dict):
             if n:
                 raw_tags.append(n)
 
+        # Check media tag against type (plain string) instead of tags array
         has_media_tag = False
-        for key in ("tags", "Tags"):
+        for key in ("type", "Type"):
             if key in fm and fm[key]:
                 raw = fm[key]
-                if isinstance(raw, (list, tuple)):
-                    for v in raw:
-                        if isinstance(v, str) and v.strip().lower() in MEDIA_TAGS_LOWER:
-                            has_media_tag = True
-                            break
-                elif isinstance(raw, str):
-                    parts = re.split(r"[;,]", raw)
-                    for p in parts:
-                        if p.strip().lower() in MEDIA_TAGS_LOWER:
-                            has_media_tag = True
-                            break
-            if has_media_tag:
-                break
+                if isinstance(raw, str) and raw.strip().lower() in MEDIA_TAGS_LOWER:
+                    has_media_tag = True
+                    break
 
         if not has_media_tag:
             t_title = normalize_tag_preserve_case(str(title), cmap)
@@ -523,8 +505,8 @@ def process_normal_files(file_list: list, cmap: dict):
         pages_meta[relpath] = {
             "title": str(title),
             "path": relpath,
-            "fm_tags": fm_tags,
-            "fm_categories": fm_categories
+            "fm_tags": fm_tags,    # franchise/category array (old categories)
+            "fm_type": fm_type,    # page type string (old tags[0])
         }
     return tags_by_page, pages_meta
 
@@ -552,6 +534,7 @@ def process_media_files(file_list: list, cmap: dict, tags_by_page_expanded: dict
         wikilinks = extract_wikilinks_from_body(body, cmap)
         raw_tags.extend(wikilinks)
 
+        # tags = franchise/category array (old categories)
         fm_tags_raw = []
         for key in ("tags", "Tags"):
             if key in fm and fm[key]:
@@ -561,35 +544,25 @@ def process_media_files(file_list: list, cmap: dict, tags_by_page_expanded: dict
                 elif isinstance(raw, str):
                     fm_tags_raw.extend([p.strip() for p in re.split(r"[;,]", raw) if p.strip()])
 
-        fm_categories_raw = []
-        for key in ("categories", "Categories"):
+        # type = plain string page type (old tags[0])
+        fm_type_raw = []
+        for key in ("type", "Type"):
             if key in fm and fm[key]:
                 raw = fm[key]
-                if isinstance(raw, (list, tuple)):
-                    fm_categories_raw.extend([str(x).strip() for x in raw if x and str(x).strip()])
-                elif isinstance(raw, str):
-                    fm_categories_raw.extend([p.strip() for p in re.split(r"[;,]", raw) if p.strip()])
+                if isinstance(raw, str) and raw.strip():
+                    fm_type_raw.append(raw.strip())
 
         fm_tags = [normalize_tag_preserve_case(v, cmap) for v in fm_tags_raw if v]
-        fm_categories = [normalize_tag_preserve_case(v, cmap) for v in fm_categories_raw if v]
+        fm_type = [normalize_tag_preserve_case(v, cmap) for v in fm_type_raw if v]
 
+        # Check media tag against type (plain string)
         has_media_tag = False
-        for key in ("tags", "Tags"):
+        for key in ("type", "Type"):
             if key in fm and fm[key]:
                 raw = fm[key]
-                if isinstance(raw, (list, tuple)):
-                    for v in raw:
-                        if isinstance(v, str) and v.strip().lower() in MEDIA_TAGS_LOWER:
-                            has_media_tag = True
-                            break
-                elif isinstance(raw, str):
-                    parts = re.split(r"[;,]", raw)
-                    for p in parts:
-                        if p.strip().lower() in MEDIA_TAGS_LOWER:
-                            has_media_tag = True
-                            break
-            if has_media_tag:
-                break
+                if isinstance(raw, str) and raw.strip().lower() in MEDIA_TAGS_LOWER:
+                    has_media_tag = True
+                    break
 
         if not has_media_tag:
             tt = normalize_tag_preserve_case(str(title), cmap)
@@ -617,11 +590,12 @@ def process_media_files(file_list: list, cmap: dict, tags_by_page_expanded: dict
             matched_key = find_key_by_title_or_normalized(str(page_ref), title_to_key_map, tags_by_page_keys_norm)
             if matched_key:
                 meta = pages_meta.get(matched_key, {})
+                # Inherit fm_tags (franchises) and fm_type (page type) from referenced page
                 pulled_tags = meta.get("fm_tags", []) or []
-                pulled_cats = meta.get("fm_categories", []) or []
-                if pulled_tags or pulled_cats:
+                pulled_type = meta.get("fm_type", []) or []
+                if pulled_tags or pulled_type:
                     inherited_tags.extend(pulled_tags)
-                    inherited_tags.extend(pulled_cats)
+                    inherited_tags.extend(pulled_type)
                 else:
                     fallback = tags_by_page_expanded.get(matched_key, [])
                     if fallback:
@@ -647,7 +621,7 @@ def process_media_files(file_list: list, cmap: dict, tags_by_page_expanded: dict
             "title": str(title),
             "path": relpath,
             "fm_tags": fm_tags,
-            "fm_categories": fm_categories
+            "fm_type": fm_type,
         }
         if title:
             title_to_key_map[title] = relpath
@@ -712,7 +686,6 @@ def write_tag_outputs(tags_by_page_expanded: dict, pages_by_tag_sorted: dict, ou
 def build_tag_map(base_dir=BASE_CONTENT_DIR, out_dir=OUT_DIR, infer_file=INFER_DEFAULT):
     files = collect_content_files(base_dir)
 
-    # Split files into four buckets: main normal, main media, tw normal, tw media
     normal_files = []
     media_files = []
     normal_files_tw = []
