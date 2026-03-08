@@ -1,7 +1,7 @@
 +++
 title = "Miama_1993.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

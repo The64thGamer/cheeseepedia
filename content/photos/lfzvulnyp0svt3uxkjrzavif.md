@@ -1,8 +1,8 @@
 +++
 title = "LFzVulnyP0SVt3UxkJRz.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Sharonville, OH (1429 E Kemper Rd)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "heLvJGZ1X8CVs4q5Kx1b.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Classic Stage"]
 startDate = ""
 +++

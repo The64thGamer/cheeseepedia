@@ -1,8 +1,8 @@
 +++
 title = "bQp10jirQKaQp1Zu2_57.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Boardman, OH (813 Boardman Poland Rd)"]
 startDate = ""
 +++

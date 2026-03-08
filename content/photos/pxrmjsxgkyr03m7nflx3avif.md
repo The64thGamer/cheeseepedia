@@ -1,8 +1,8 @@
 +++
 title = "pXrMJSXgKyr03m7nfLX3.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Hofmann Figuren"]
+type = "Photos"
+tags = ["Hofmann Figuren"]
 pages = ["Hofmann Monkey Show"]
 startDate = ""
 +++

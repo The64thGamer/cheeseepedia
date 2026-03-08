@@ -1,7 +1,7 @@
 +++
 title = "1996_Small_Pasqually_Plush_Front.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

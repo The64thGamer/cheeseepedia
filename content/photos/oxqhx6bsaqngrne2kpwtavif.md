@@ -1,8 +1,8 @@
 +++
 title = "OXqhx6BsAqngrNe2KPWT.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Traveler (Magazine)"]
 startDate = ""
 +++

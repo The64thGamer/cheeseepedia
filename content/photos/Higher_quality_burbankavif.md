@@ -1,7 +1,7 @@
 +++
 title = "Higher_quality_burbank.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -3,7 +3,7 @@ title = "https://www.youtube.com/watch?v=JSZ6SJDCuvc"
 startDate = "1980-00-00"
 pages = ["Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Mr. Munch (Cyberamic)", "Pasqually (Cyberamic)", "Jasper T. Jowls (Cyberamic)", "Dolli Dimples (Cabaret)", "Portrait / Shelf Stage", "Maple Heights, OH (5376 Northfield Rd)"]
 mirroredLinks = ["https://youtu.be/1PnSUzr1Aek"]
-tags = ["Videos"]
-categories = ["Pizza Time Theatre"]
+type = "Videos"
+tags = ["Pizza Time Theatre"]
 +++
 1980 home movie of a Pizza Time Theater. Possibly Maple Heights, OH (5376 Northfield Rd). Showcases Dolli and the Portrait stage. 

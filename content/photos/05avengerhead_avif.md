@@ -1,7 +1,7 @@
 +++
 title = "05avengerhead_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

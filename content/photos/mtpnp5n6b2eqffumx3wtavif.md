@@ -1,8 +1,8 @@
 +++
 title = "mTPnP5N6B2eqFFumX3Wt.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["PTT 1981 Exterior Update"]
 startDate = ""
 +++

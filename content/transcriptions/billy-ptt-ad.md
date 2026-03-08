@@ -1,6 +1,6 @@
 +++
 title = "\"Billy\" PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Singer:**

@@ -1,8 +1,8 @@
 +++
 title = "COZf7UzEQjXcWyIbQMa8.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Mr. Munch 15' CST Plush"]
 startDate = ""
 +++

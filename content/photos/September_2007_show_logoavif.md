@@ -1,7 +1,7 @@
 +++
 title = "September_2007_show_logo.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["September 2007 Show"]

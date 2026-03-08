@@ -1,8 +1,8 @@
 +++
 title = "Z9qRqf7KXCiNnw4z4x7d.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Celebration Station"]
+type = "Photos"
+tags = ["Celebration Station"]
 pages = ["Pineville, NC (10400 Cadillac St)"]
 startDate = ""
 +++

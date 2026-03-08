@@ -1,7 +1,7 @@
 +++
 title = "Willierabbitspot76.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

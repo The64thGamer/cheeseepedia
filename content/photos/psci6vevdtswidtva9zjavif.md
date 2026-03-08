@@ -1,8 +1,8 @@
 +++
 title = "psCi6vEvDTswIDTvA9zJ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Cerritos, CA (11231 183rd St)"]
 startDate = ""
 +++

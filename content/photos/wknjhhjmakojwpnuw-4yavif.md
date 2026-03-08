@@ -1,8 +1,8 @@
 +++
 title = "WkNjhHJMaKojwPNuW_4y.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Four Little Shavers (Ice Cream Emporium)"]
 startDate = ""
 +++

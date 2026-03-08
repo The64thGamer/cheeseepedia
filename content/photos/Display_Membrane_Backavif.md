@@ -1,7 +1,7 @@
 +++
 title = "Display_Membrane_Back.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

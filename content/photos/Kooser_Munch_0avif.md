@@ -1,7 +1,7 @@
 +++
 title = "Kooser_Munch_0.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -1,6 +1,6 @@
 +++
 title = "AAM Silicon Valley Showdown Demo Tape"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Steve White:**

@@ -1,7 +1,7 @@
 +++
 title = "_zskRmI9sxU42teo_sSW.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

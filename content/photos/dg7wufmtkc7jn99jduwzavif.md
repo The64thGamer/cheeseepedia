@@ -1,8 +1,8 @@
 +++
 title = "Dg7wUfMTkC7Jn99JDUWZ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Biloxi, MS (4550 W Beach Blvd)"]
 startDate = ""
 +++

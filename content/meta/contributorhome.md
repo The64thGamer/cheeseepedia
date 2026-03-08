@@ -1,8 +1,8 @@
 +++
 title = "Contributor Home"
 draft = false
-tags = ["Meta"]
-categories = ["Cheese-E-Pedia"]
+type = "Meta"
+tags = ["Cheese-E-Pedia"]
 contributors = ["The 64th Gamer", "Stripes"]
 +++
 

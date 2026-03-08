@@ -1,8 +1,8 @@
 +++
 title = "NQmmdH6Ms02JiOMujCG0.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
+type = "Photos"
+tags = ["Unknown Manufacturers"]
 pages = ["Gigglebee's"]
 startDate = ""
 +++

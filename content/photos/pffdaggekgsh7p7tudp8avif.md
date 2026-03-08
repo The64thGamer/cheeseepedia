@@ -1,8 +1,8 @@
 +++
 title = "pFfDaggeKgSh7P7TudP8.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Orlando, FL (7419 International Dr)"]
 startDate = ""
 +++

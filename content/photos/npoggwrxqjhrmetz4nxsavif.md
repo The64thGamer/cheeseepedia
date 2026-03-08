@@ -1,8 +1,8 @@
 +++
 title = "NpoggWRXqjhrmEtZ4nXs.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["CEC 2000's Remodel Program"]
 startDate = ""
 +++

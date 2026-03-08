@@ -1,8 +1,8 @@
 +++
 title = "XtsFCG1pefIYhk7eoCWQ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Metairie, LA (7000 Veterans Blvd)"]
 startDate = ""
 +++

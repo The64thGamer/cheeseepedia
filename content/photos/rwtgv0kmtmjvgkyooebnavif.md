@@ -1,8 +1,8 @@
 +++
 title = "RwtgV0kmTMjVGKYoOEbn.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Cyberamics Portrait Shelf Stage"]
 startDate = ""
 +++

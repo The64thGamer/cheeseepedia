@@ -1,7 +1,7 @@
 +++
 title = "Electric_Pizza_Other_Side.avif"
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 startDate = "2013-06-00"
 draft = false
 pages = ["Electric Pizza"]

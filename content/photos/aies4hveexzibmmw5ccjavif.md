@@ -1,8 +1,8 @@
 +++
 title = "aIeS4HvEExziBmMw5CCj.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
+type = "Photos"
+tags = ["Creative Presentations"]
 pages = ["Sgt. Singer's Pizza Circus"]
 startDate = ""
 +++

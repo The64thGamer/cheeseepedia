@@ -1,8 +1,8 @@
 +++
 title = "TMOHbhfSCtIl64mjfyvy.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Studio C File Formats"]
 startDate = ""
 +++

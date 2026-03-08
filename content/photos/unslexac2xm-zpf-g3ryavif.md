@@ -1,8 +1,8 @@
 +++
 title = "UnSLEXAc2xM_zPF_g3Ry.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["El Paso, TX (710 Sunland Park Dr)"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Qweqwewer.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Pizza Time Theatre Warren, MI Soccerfest '83 Badge (1983)"]

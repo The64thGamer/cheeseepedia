@@ -1,8 +1,8 @@
 +++
 title = "9dGiLDMxd6BiJ8gr7fsd.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
+type = "Photos"
+tags = ["Creative Presentations"]
 pages = ["Weber Roast-A-Rama Show"]
 startDate = ""
 +++

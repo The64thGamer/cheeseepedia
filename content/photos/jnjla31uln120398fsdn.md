@@ -1,6 +1,6 @@
 +++
 title = "jnjla31uln120398fsdn.avif"
-tags = ["Photos"]
+type = "Photos"
 startDate = "2020-00-00"
 draft = false
 pages = ["Chocolate Chip Cookie Pizza (PP&W Menu Item)","Pasqually's Pizza & Wings"]

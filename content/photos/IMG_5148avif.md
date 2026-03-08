@@ -1,7 +1,7 @@
 +++
 title = "IMG_5148.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Beach Bear (Animatronic)"]

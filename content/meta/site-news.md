@@ -1,8 +1,8 @@
 +++
 title = "Cheese-E-Pedia"
 draft = false
-tags = ["Meta"]
-categories = ["Cheese-E-Pedia"]
+type = "Meta"
+tags = ["Cheese-E-Pedia"]
 contributors = ["The 64th Gamer", "Lelmaster", "Stripes"]
 pageThumbnailFile = "CEPLogo.avif"
 +++

@@ -1,8 +1,8 @@
 +++
 title = "fA8AWfMFO3PB73nt_ZLI.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
+type = "Photos"
+tags = ["Creative Presentations"]
 pages = ["P T Bearum (Animatronic)"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Guitar_Rock_Movement_(Assembly_View).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

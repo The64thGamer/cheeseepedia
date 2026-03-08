@@ -1,8 +1,8 @@
 +++
 title = "Vzn2cWFJ6C5ycksMjtei.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Mays Landing, NJ (4215 Black Horse Pike)"]
 startDate = ""
 +++

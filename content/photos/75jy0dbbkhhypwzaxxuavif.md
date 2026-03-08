@@ -1,8 +1,8 @@
 +++
 title = "_75JY0dbBkHhYPWzaxXU.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["West Allis, WI (2990 South 108th Ave)"]
 startDate = ""
 +++

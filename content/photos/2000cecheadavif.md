@@ -1,7 +1,7 @@
 +++
 title = "2000cechead.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

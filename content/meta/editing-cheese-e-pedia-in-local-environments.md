@@ -1,8 +1,8 @@
 +++
 title = "Editing Cheese-E-Pedia in Local Environments"
 draft = false
-tags = ["Meta"]
-categories = ["Cheese-E-Pedia"]
+type = "Meta"
+tags = ["Cheese-E-Pedia"]
 contributors = ["Stripes"]
 +++
 

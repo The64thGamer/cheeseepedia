@@ -1,8 +1,8 @@
 +++
 title = "2me1y7tHaa_9rnmARtW_.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Strike It Up"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Aaaaa.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["January 2010 Show"]

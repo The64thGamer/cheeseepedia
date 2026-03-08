@@ -1,8 +1,8 @@
 +++
 title = "a1Q_2Jcs9bd8viTlTF5H.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["SPT 1990's Remodel Program"]
 startDate = ""
 +++

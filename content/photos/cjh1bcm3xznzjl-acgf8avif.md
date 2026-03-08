@@ -1,8 +1,8 @@
 +++
 title = "CjH1BCM3xZnzJl_aCGF8.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Laurel, MD (936 Fairlawn Ave)"]
 startDate = ""
 +++

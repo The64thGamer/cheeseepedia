@@ -1,6 +1,6 @@
 +++
 title = "'My Vacation' CEC ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 

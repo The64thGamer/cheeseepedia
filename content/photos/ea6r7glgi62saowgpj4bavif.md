@@ -1,8 +1,8 @@
 +++
 title = "EA6R7GLgi62sAoWGPJ4b.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Whitehall, PA (1000 Lehigh Valley Mall)"]
 startDate = ""
 +++

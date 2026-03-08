@@ -1,6 +1,6 @@
 +++
 title = "Birthday Star 1995"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **All: (Singing)**

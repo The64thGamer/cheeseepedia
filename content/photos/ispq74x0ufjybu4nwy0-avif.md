@@ -1,8 +1,8 @@
 +++
 title = "iSPQ74X0UFjYBu4nwy0_.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Dingo Starr (Animatronic)"]
 startDate = ""
 +++

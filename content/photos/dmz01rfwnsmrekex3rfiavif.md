@@ -1,8 +1,8 @@
 +++
 title = "DMZ01rfWNsmrekEx3Rfi.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Winchester Foxy Colleen (Animatronic)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "4sbfsR4cyPXhTVUMDspg.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Dog (Mr Munch Retrofit)"]
 startDate = ""
 +++

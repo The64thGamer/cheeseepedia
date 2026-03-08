@@ -1,8 +1,8 @@
 +++
 title = "YJkLg7TSdEGZd39i0Txt.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Bradenton, FL (905 44th Ave)"]
 startDate = ""
 +++

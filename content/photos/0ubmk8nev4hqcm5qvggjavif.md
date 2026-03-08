@@ -1,8 +1,8 @@
 +++
 title = "0UBMK8nEV4hqCm5QvgGj.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Manhattan, KS (519 Richards Dr)"]
 startDate = ""
 +++

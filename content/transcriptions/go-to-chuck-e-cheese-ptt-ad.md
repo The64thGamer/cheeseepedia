@@ -1,6 +1,6 @@
 +++
 title = "Go to Chuck E. Cheese PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Young girl: (Singing)**

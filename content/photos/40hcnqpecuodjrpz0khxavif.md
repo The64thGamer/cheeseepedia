@@ -1,8 +1,8 @@
 +++
 title = "40HcnQpeCuOdjRpZ0kHX.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Jungle Jim's Moonshine & Rocks"]
 startDate = ""
 +++

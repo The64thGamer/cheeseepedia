@@ -1,8 +1,8 @@
 +++
 title = "CGsnNHmqRP8FwvB_OAVr.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["FileFickle"]
 startDate = ""
 +++

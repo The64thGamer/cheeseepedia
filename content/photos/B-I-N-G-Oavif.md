@@ -1,7 +1,7 @@
 +++
 title = "B-I-N-G-O.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["BINGO"]

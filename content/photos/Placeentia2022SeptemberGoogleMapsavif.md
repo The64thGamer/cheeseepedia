@@ -1,7 +1,7 @@
 +++
 title = "Placeentia2022SeptemberGoogleMaps.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Placentia, CA (2300 N Rose Dr)"]

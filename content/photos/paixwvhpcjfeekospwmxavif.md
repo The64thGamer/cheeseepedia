@@ -1,8 +1,8 @@
 +++
 title = "PAiXWvhpcJFeeKOSPWMX.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Montgomery, AL (2940 E South Blvd)"]
 startDate = ""
 +++

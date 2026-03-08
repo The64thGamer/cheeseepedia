@@ -2,8 +2,8 @@
 title = "December 1995 Segment 4"
 startDate = "0000-00-00"
 contributors = ["Luigigamin212"]
-tags = ["Transcriptions"]
-categories = []
+type = "Transcriptions"
+tags = []
 downloadLinks = []
 draft = false
 +++

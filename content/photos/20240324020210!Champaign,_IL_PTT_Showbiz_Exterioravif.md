@@ -1,7 +1,7 @@
 +++
 title = "20240324020210!Champaign,_IL_PTT_Showbiz_Exterior.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

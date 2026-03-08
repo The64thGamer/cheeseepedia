@@ -1,8 +1,8 @@
 +++
 title = "h0t9r8eg3iogj34t.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Newport, KY (301 Riverboat Row)"]
 startDate = "1981-00-00"
 +++

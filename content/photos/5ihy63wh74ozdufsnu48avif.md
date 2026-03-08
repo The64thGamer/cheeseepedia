@@ -1,8 +1,8 @@
 +++
 title = "5Ihy63wH74oZdUfsnU48.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Hicksville, NY (Delco Plaza 11-15 Hanover Place)"]
 startDate = ""
 +++

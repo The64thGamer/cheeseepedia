@@ -1,7 +1,7 @@
 +++
 title = "2019sign.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

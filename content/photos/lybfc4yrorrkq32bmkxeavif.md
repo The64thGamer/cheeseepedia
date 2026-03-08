@@ -1,8 +1,8 @@
 +++
 title = "LYBFC4YRORRkQ32BMkXE.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Webster, TX (1541 West Bay Area Blvd)"]
 startDate = ""
 +++

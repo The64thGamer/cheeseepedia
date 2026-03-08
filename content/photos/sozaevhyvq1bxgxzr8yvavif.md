@@ -1,8 +1,8 @@
 +++
 title = "sozaEVHYvQ1BxgxZr8yV.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Sayville, NY (5750 Sunrise Highway 11782)"]
 startDate = ""
 +++

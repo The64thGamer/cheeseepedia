@@ -1,8 +1,8 @@
 +++
 title = "BAo67sTZK7FPi7GA3n_w.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Orlando, FL (7456 West Colonial Dr)"]
 startDate = ""
 +++

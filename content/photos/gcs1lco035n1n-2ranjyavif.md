@@ -1,8 +1,8 @@
 +++
 title = "GCS1LCo035N1n_2Ranjy.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Color Call-out Monitor System"]
 startDate = ""
 +++

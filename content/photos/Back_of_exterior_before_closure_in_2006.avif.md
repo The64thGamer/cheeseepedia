@@ -1,7 +1,7 @@
 +++
 title = "Back_of_exterior_before_closure_in_2006..avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -1,8 +1,8 @@
 +++
 title = "D6ClbrHTTa7llKiqS3lS.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Takoma Park, MD (1127 University Blvd E)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "dBsKMH9Hi0JH7YcUGtz0.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Willie Rabbit (Animatronic)"]
 startDate = ""
 +++

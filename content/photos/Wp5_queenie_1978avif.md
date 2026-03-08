@@ -1,7 +1,7 @@
 +++
 title = "Wp5_queenie_1978.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

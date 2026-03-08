@@ -1,7 +1,7 @@
 +++
 title = "Neon_lights.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

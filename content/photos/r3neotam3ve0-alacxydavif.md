@@ -1,8 +1,8 @@
 +++
 title = "R3nEoTam3VE0_aLaCXYD.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Agent smith"]
 startDate = ""
 +++

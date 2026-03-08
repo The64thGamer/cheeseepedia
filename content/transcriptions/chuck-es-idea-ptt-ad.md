@@ -1,6 +1,6 @@
 +++
 title = "Chuck E's Idea PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese: (Walkaround)**

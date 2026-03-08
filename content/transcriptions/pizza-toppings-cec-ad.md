@@ -1,6 +1,6 @@
 +++
 title = "\"Pizza toppings\" CEC ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Boy:**

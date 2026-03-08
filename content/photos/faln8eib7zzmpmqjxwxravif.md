@@ -1,8 +1,8 @@
 +++
 title = "faln8eiB7ZzMpmQJxWxr.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["CEC Pop Art Head (CEC Décor)"]
 startDate = ""
 +++

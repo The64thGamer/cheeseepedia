@@ -1,7 +1,7 @@
 +++
 title = "Rockford_IL_exterior_with_Phase_4_Remodel.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

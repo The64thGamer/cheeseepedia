@@ -1,7 +1,7 @@
 +++
 title = "Olmsted_Phase_3_Exterior.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

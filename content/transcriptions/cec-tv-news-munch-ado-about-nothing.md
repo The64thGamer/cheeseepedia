@@ -1,6 +1,6 @@
 +++
 title = "CEC TV News 'Munch ado about Nothing'"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Narrator:**

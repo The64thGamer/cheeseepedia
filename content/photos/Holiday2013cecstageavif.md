@@ -1,7 +1,7 @@
 +++
 title = "Holiday2013cecstage.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["CEC Happy Holidays 2013"]

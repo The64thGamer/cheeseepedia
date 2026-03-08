@@ -1,6 +1,6 @@
 +++
 title = "I'm Da Greatest"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["The 64th Gamer"]
 +++
 **[Song: I'm Da Greatest]**

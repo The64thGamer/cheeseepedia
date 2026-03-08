@@ -1,8 +1,8 @@
 +++
 title = "3QwLGH0njgQb4W2Xa55B.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Torrance, CA (16920 Prairie Ave)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "oaDjB31T5AuqxxA50lSh.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Arvada, CO (9301 Ralston Rd)"]
 startDate = ""
 +++

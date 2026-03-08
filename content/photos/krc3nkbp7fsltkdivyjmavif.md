@@ -1,8 +1,8 @@
 +++
 title = "KRC3nkBP7FSLTkdIVYjm.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Harlingen, TX (2815 W Expressway 83)"]
 startDate = ""
 +++

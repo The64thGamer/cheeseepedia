@@ -1,7 +1,7 @@
 +++
 title = "Sgt._Striper's_Review.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

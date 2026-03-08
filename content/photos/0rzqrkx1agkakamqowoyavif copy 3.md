@@ -4,7 +4,7 @@ citations = ["https://www.newspapers.com/image/746118057/?clipping_id=82955486&f
 pages = ["Kooser Dolli Dimples (Animatronic)","Victorville, CA (15367 Tamarack Unit B)", "Fantasy Forest"]
 startDate = "1978-01-08"
 title = "Screenshot_20251018_234456.avif"
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 +++
 Dolli Dimples at Fantasy Forest.

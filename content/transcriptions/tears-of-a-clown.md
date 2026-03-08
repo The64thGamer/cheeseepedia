@@ -1,6 +1,6 @@
 +++
 title = "Tears of a Clown"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["The 64th Gamer"]
 +++
 **Fatz: (w/ reverb)**

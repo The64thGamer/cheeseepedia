@@ -2,7 +2,7 @@
 title = "https://youtu.be/Sohv8mKFJoM"
 startDate = "2021-10-01"
 pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+type = "Videos"
+tags = ["Creative Engineering","ShowBiz Pizza Place"]
 +++
 Halloween Melody (Fanmade)- Rock-afire Replay

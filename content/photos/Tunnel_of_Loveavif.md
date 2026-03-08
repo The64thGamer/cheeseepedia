@@ -1,7 +1,7 @@
 +++
 title = "Tunnel_of_Love.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

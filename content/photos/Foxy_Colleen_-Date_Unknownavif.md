@@ -1,7 +1,7 @@
 +++
 title = "Foxy_Colleen_-Date_Unknown.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

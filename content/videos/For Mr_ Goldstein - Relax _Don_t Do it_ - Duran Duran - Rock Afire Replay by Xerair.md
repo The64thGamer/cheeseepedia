@@ -2,7 +2,7 @@
 title = "https://youtu.be/X6-rPrFN7co"
 startDate = "2020-12-23"
 pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+type = "Videos"
+tags = ["Creative Engineering","ShowBiz Pizza Place"]
 +++
 For Mr. Goldstein - Relax (Don"t Do it) - Duran Duran - Rock Afire Replay by Xerair

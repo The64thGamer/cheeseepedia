@@ -1,7 +1,7 @@
 +++
 title = "Montfort_showroom.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

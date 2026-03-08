@@ -1,8 +1,8 @@
 +++
 title = "gVansnh57Md0oyXzlwcp.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Glendale, AZ (6773 West Bell Rd)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "P9sjpVBgK7sRwugMTN_V.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Aurora, CO (12293 E Iliff Ave)"]
 startDate = ""
 +++

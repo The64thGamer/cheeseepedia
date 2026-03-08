@@ -1,8 +1,8 @@
 +++
 title = "1qwsjodfngu.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place","Creative Engineering"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place","Creative Engineering"]
 pages = ["Trivia Night","Gulfport, MS (320 Courthouse Rd)"]
 startDate = "2024-10-20"
 +++

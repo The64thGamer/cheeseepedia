@@ -1,8 +1,8 @@
 +++
 title = "IyF8kzeWMJIOPC02c6hm.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Cyberamics Tester"]
 startDate = ""
 +++

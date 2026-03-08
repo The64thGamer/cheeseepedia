@@ -1,7 +1,7 @@
 +++
 title = "Evg-23-show-disc.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

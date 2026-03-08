@@ -4,7 +4,7 @@ citations = ["https://www.newspapers.com/image/762993255/?clipping_id=147281715&
 pages = ["Rick Rat Walkaround"]
 startDate = "1987-05-03"
 title = "Screenshot_20251018_225354.avif"
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 +++
 Rat costume at Rose Park Senior Citizens Center.

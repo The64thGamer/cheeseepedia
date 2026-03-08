@@ -1,8 +1,8 @@
 +++
 title = "f2KD8SKw__HEhPxItesE.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Me & My Friends (New Countdown)"]
 startDate = ""
 +++

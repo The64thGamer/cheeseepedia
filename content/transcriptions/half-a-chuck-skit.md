@@ -1,6 +1,6 @@
 +++
 title = "Half A Chuck Skit"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese:**

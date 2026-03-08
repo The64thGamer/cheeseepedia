@@ -1,7 +1,7 @@
 +++
 title = "Front_view_(Assembly_View).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Beach Bear (Animatronic)"]

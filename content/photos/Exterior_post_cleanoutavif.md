@@ -1,7 +1,7 @@
 +++
 title = "Exterior_post_cleanout.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

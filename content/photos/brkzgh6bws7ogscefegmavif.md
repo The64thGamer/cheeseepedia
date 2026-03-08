@@ -1,8 +1,8 @@
 +++
 title = "BRkzgH6bWS7OgSCEFEgm.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Racine, WI (5612 Durand Ave)"]
 startDate = ""
 +++

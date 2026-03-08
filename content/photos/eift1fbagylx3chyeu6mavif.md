@@ -1,8 +1,8 @@
 +++
 title = "EifT1FBagyLX3ChYEU6m.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Elvis (The King Retrofit)"]
 startDate = ""
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Hit The Cymbal"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 

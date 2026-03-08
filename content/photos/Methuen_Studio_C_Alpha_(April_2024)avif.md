@@ -1,7 +1,7 @@
 +++
 title = "Methuen_Studio_C_Alpha_(April_2024).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Methuen, MA (90 Pleasant Valley Rd)"]

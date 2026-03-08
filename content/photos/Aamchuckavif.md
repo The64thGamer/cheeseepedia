@@ -1,7 +1,7 @@
 +++
 title = "Aamchuck.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Awesome Adventure Machine"]

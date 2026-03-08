@@ -1,7 +1,7 @@
 +++
 title = "show425int.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Chuck E. Cheese Show 4 2025 International Spanish"]

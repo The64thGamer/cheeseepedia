@@ -1,6 +1,6 @@
 +++
 title = "\"Show never stops\" PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Boy:**

@@ -1,7 +1,7 @@
 +++
 title = "Letthergoodtime.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Let The Good Times Roll"]

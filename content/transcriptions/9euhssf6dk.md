@@ -2,7 +2,7 @@
 title = "August 1992 Segment 3"
 startDate = "0000-00-00"
 contributors = ["Luigigamin212"]
-tags = ["Transcriptions"]
+type = "Transcriptions"
 endDate = "0000-00-00"
 downloadLinks = []
 draft = false

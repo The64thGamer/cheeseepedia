@@ -1,8 +1,8 @@
 +++
 title = "z_OekulS4QCDLF6cmnYf.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Jungle Jim's Flag Wavers (Flag Wavers Retrofit)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "uG_9d_zVHvurYYC7CPRs.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Johnson City, NY (365 Harry L Dr)"]
 startDate = ""
 +++

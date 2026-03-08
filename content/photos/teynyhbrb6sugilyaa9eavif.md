@@ -1,8 +1,8 @@
 +++
 title = "tEyNyhbRb6SugilyAa9e.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Janesville, WI"]
 startDate = ""
 +++

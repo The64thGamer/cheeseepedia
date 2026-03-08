@@ -1,8 +1,8 @@
 +++
 title = "pfmblhcIBCa4vKN3t6oI.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
+type = "Photos"
+tags = ["Unknown Manufacturers"]
 pages = ["Rockin Rollies"]
 startDate = ""
 +++

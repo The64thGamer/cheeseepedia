@@ -1,8 +1,8 @@
 +++
 title = "MWLVUXDuFErEk266P0Vm.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
+type = "Photos"
+tags = ["Creative Presentations"]
 pages = ["Sgt. Singer (Animatronic)"]
 startDate = ""
 +++

@@ -1,6 +1,6 @@
 +++
 title = "AAM Walk Like an Egyptian Demo Tape"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Steve White:**

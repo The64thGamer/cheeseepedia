@@ -1,6 +1,6 @@
 +++
 title = "Birthday Star 2001"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese:**

@@ -1,7 +1,7 @@
 +++
 title = "Cecpony1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Chuck E. Cheese Baby Pony (1989)"]

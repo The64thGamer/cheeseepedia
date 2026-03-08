@@ -1,7 +1,7 @@
 +++
 title = "2g.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Environment '92"]

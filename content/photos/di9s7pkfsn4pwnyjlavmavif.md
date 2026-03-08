@@ -1,8 +1,8 @@
 +++
 title = "DI9s7PKFsN4PwnyJlAvM.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Bear Country Jubilee"]
 startDate = ""
 +++

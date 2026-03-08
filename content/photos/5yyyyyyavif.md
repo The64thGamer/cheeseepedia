@@ -1,7 +1,7 @@
 +++
 title = "5yyyyyy.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Land Of 1,000 Dances"]

@@ -1,7 +1,7 @@
 +++
 title = "Show_4_2017_DVD_menu.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

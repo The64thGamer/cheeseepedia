@@ -1,7 +1,7 @@
 +++
 title = "2cr23rcr32c23rc.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

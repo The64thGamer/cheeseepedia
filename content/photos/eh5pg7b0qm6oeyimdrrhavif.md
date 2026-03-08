@@ -1,8 +1,8 @@
 +++
 title = "Eh5PG7B0Qm6OEYIMDRrH.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Costume Character Cleaning & Preservation"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "4bvdPhwdXL0vjKrJ1KDL.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["TV (Animatronic)"]
 startDate = ""
 +++

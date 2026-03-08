@@ -1,8 +1,8 @@
 +++
 title = "OvMWtg5kszRxEnQtMm0J.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Phase 3 (2000)"]
 startDate = ""
 +++

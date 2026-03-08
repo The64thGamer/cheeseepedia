@@ -1,6 +1,6 @@
 +++
 title = "KCEC Birthday"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Warblettes: (Singing)**

@@ -1,7 +1,7 @@
 +++
 title = "Ogcolanderartspaghetti.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Crazy Colander Head Night (Event)"]

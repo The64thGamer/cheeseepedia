@@ -1,6 +1,6 @@
 +++
 title = "Beatles Medley "
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[Opening drum beat of Eight Days A Week]**

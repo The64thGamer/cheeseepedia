@@ -1,7 +1,7 @@
 +++
 title = "20240719130815!ButtonDisney.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

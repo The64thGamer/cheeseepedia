@@ -1,8 +1,8 @@
 +++
 title = "mj_qITlio9hiKLqzq12b.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Pumpkin Festival Mr. Munch (Mr. Munch Retrofit)"]
 startDate = ""
 +++

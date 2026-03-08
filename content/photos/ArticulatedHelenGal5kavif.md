@@ -1,7 +1,7 @@
 +++
 title = "ArticulatedHelenGal5k.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

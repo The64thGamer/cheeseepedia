@@ -1,6 +1,6 @@
 +++
 title = "Better than ever PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese: (Walkaround)**

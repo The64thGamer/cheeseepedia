@@ -1,6 +1,6 @@
 +++
 title = "Canadian Hungry for Fun PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Girl: (Voiceover)**

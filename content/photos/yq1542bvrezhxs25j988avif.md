@@ -1,8 +1,8 @@
 +++
 title = "yQ1542bvREzHxS25j988.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["ShowBiz Computer Fun Fair"]
 startDate = ""
 +++

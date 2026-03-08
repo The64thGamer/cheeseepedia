@@ -1,7 +1,7 @@
 +++
 title = "Tokens_for_Grades.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -1,8 +1,8 @@
 +++
 title = "Y8HePczHbVoBMEni_CeX.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["New Years Eve 1983, 1984"]
 startDate = ""
 +++

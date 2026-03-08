@@ -1,8 +1,8 @@
 +++
 title = "nnJaZ0l0oKmhEUWQOYON.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Laguna Hills, CA (26538-H Moulton Pkwy)"]
 startDate = ""
 +++

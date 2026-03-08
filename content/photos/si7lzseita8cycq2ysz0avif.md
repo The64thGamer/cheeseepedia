@@ -1,8 +1,8 @@
 +++
 title = "sI7lzSEItA8CYCQ2ysZ0.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Birmingham, AL (500 Old Town Rd)"]
 startDate = ""
 +++

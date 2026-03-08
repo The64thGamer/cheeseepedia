@@ -1,6 +1,6 @@
 +++
 title = "May 1992 Segment 1"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Pasqually:(Singing)** 

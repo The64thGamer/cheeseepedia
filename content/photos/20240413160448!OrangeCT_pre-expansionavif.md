@@ -1,7 +1,7 @@
 +++
 title = "20240413160448!OrangeCT_pre-expansion.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

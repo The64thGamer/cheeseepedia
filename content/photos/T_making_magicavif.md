@@ -1,7 +1,7 @@
 +++
 title = "T_making_magic.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Making Magical Memories"]

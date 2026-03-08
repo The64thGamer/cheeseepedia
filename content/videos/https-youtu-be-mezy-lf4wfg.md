@@ -2,7 +2,7 @@
 title = "https://youtu.be/mEZy-LF4WFg"
 startDate = "2017-02-23"
 pages = ["Arlington, TX (2216 S Fielder Rd)", "Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Mr. Munch (Cyberamic)", "Jasper T. Jowls (Cyberamic)", "Pasqually (Cyberamic)", "Wink (Cyberamic)", "2-Stage", "Chuck E. Cheese's Show 1 2017"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+type = "Videos"
+tags = ["Chuck E. Cheese's"]
 +++
 Cyberamics performing Together We've Got It 2017 (Dubbed with 1989 audio)

@@ -3,7 +3,7 @@ title = "09kojeonvev.avif"
 startDate = "2024-12-19"
 citations = []
 pages = ["Showtape"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 +++
 90's Diagnostic tape, unclear which one.

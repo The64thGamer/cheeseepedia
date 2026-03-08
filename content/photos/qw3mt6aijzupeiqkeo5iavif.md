@@ -1,8 +1,8 @@
 +++
 title = "Qw3MT6aIJzUPEiqkeO5i.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Pizza Time Theatre Named Bike Tag (1979)"]
 startDate = ""
 +++

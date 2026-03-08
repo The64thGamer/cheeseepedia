@@ -1,7 +1,7 @@
 +++
 title = "SketchBookPhoto_Oct42003.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

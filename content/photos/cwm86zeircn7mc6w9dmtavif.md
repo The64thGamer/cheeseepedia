@@ -1,8 +1,8 @@
 +++
 title = "CWM86ZeIRCn7mC6w9DMt.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Sally Corporation"]
+type = "Photos"
+tags = ["Sally Corporation"]
 pages = ["Sally Unlimited Corporate Office"]
 startDate = ""
 +++

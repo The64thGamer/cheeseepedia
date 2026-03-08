@@ -1,7 +1,7 @@
 +++
 title = "20230417230652!Chuckepedialogo.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Cheese-E-Pedia"]

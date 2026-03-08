@@ -1,7 +1,7 @@
 +++
 title = "RosevilleMIExteriorPre2.0.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

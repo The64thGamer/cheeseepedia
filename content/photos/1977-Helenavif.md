@@ -1,7 +1,7 @@
 +++
 title = "1977-Helen.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

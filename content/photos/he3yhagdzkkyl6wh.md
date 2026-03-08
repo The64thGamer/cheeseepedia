@@ -1,8 +1,8 @@
 +++
 title = "he3yhagdzkkyl6wh.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Cheese Roll"]
 startDate = "0000-00-00"
 citations = ["worthpoint"]

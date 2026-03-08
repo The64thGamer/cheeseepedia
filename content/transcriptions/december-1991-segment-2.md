@@ -1,6 +1,6 @@
 +++
 title = "December 1991 Segment 2"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **All: (Singing)**

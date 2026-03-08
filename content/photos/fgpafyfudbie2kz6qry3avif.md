@@ -1,8 +1,8 @@
 +++
 title = "fGPAFYfUdbiE2kz6qRY3.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Huntsville, AL (1220 Jordan Lane)"]
 startDate = ""
 +++

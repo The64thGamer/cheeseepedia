@@ -1,8 +1,8 @@
 +++
 title = "GBX9wgKPAFJy_So1SDly.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Boom Boom Bosco (Animatronic)"]
 startDate = ""
 +++

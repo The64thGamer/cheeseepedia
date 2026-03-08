@@ -1,7 +1,7 @@
 +++
 title = "Chicago_1-Stage_90's.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["1-Stage"]

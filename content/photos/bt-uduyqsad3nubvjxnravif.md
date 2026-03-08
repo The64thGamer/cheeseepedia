@@ -1,8 +1,8 @@
 +++
 title = "Bt_uduYqsAd3NubVJxNR.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Greenville, SC (253 Congaree Rd)"]
 startDate = ""
 +++

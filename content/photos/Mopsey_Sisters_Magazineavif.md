@@ -1,7 +1,7 @@
 +++
 title = "Mopsey_Sisters_Magazine.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Kooser Mopsey Sisters (Animatronic)"]

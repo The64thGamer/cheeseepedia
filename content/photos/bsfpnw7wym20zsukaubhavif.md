@@ -1,8 +1,8 @@
 +++
 title = "bsFpnW7wyM20zSuKAuBh.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Walt Disney Imagineering"]
+type = "Photos"
+tags = ["Walt Disney Imagineering"]
 pages = ["DACS"]
 startDate = ""
 +++

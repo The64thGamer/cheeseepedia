@@ -1,8 +1,8 @@
 +++
 title = "QbfLf1KGpvGVTXsE7YAN.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["New Hartford Utica, NY (8555 Seneca Turnpike)"]
 startDate = ""
 +++

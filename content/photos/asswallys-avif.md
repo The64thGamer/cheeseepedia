@@ -3,7 +3,7 @@ title = "assWallys.avif"
 startDate = "2020-03-00"
 citations = ["https://www.pasquallyspizza.com/"]
 pages = ["Pasqually's Pizza & Wings Logo"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 +++
 Pasqually's Pizza & Wings Logo

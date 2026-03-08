@@ -1,8 +1,8 @@
 +++
 title = "qnjyQp3ra0lhEZACcTXj.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Brandon, FL (1540 W Brandon Blvd)"]
 startDate = ""
 +++

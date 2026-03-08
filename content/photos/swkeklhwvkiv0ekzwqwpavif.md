@@ -1,8 +1,8 @@
 +++
 title = "swKekLhwVkIv0EKZwQwP.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Southgate, MI (15300 Toledo Rd)"]
 startDate = ""
 +++

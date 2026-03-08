@@ -1,8 +1,8 @@
 +++
 title = "nPLOz5V_qDyHtDlI95lm.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Indianapolis, IN (8109 E Washington St)"]
 startDate = ""
 +++

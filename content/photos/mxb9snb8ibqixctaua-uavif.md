@@ -1,8 +1,8 @@
 +++
 title = "MXb9SnB8ibQIxCTAua_U.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["CEC 2.0 Remodel Program"]
 startDate = ""
 +++

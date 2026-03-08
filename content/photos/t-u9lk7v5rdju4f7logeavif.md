@@ -1,8 +1,8 @@
 +++
 title = "T_U9LK7V5rDju4F7LOGE.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Simi Valley, CA (71 Tierra Rejada Rd)"]
 startDate = ""
 +++

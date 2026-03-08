@@ -1,6 +1,6 @@
 +++
 title = "\"The Good Old Days\" CEC ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Kid:**

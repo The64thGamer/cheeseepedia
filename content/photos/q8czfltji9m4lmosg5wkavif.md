@@ -1,8 +1,8 @@
 +++
 title = "Q8CzfLTJi9m4LmOSG5wk.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Pizza Time Theatre Showtape"]
 startDate = "2024-00-00"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "May 1992 Segment 3"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["luigigamin212"]
 +++
 **Chuck E. Cheese:** 

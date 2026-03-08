@@ -1,8 +1,8 @@
 +++
 title = "m3yqmj3XRIAU3b7DZZmt.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Billy Bob Talking Walkaround"]
 startDate = ""
 +++

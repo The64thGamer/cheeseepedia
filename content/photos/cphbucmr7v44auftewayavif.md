@@ -1,8 +1,8 @@
 +++
 title = "cPhBucmr7v44aUfteway.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Orange, CT (260 Bull Hill Lane)"]
 startDate = ""
 +++

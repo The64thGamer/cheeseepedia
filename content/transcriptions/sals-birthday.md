@@ -1,6 +1,6 @@
 +++
 title = "Sals Birthday"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Aaron Fechter:**

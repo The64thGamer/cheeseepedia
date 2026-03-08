@@ -1,7 +1,7 @@
 +++
 title = "IMG_3684.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

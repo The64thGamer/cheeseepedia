@@ -1,7 +1,7 @@
 +++
 title = "COL_Dance_Floor_-1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -1,7 +1,7 @@
 +++
 title = "Winter15cecstage.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -1,7 +1,7 @@
 +++
 title = "King_Fatz_poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

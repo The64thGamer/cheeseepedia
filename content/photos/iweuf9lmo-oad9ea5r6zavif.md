@@ -1,8 +1,8 @@
 +++
 title = "IweuF9lMO_Oad9Ea5r6Z.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Family Album"]
 startDate = ""
 +++

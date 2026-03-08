@@ -1,7 +1,7 @@
 +++
 title = "Roast Beef Sandwich and a Pizza"
-tags = ["Transcriptions"]
-categories = []
+type = "Transcriptions"
+tags = []
 startDate = ""
 draft = false
 citations = ["https://en.wikipedia.org/wiki/1979_oil_crisis"]

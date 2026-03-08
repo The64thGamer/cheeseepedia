@@ -1,8 +1,8 @@
 +++
 title = "HtzXHSQRAC8U5s0aW_lV.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Maryville, TN (141 Foothills Mall)"]
 startDate = ""
 +++

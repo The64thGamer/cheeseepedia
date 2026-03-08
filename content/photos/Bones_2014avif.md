@@ -1,7 +1,7 @@
 +++
 title = "Bones_2014.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Them Bones Live Choreography 2014"]

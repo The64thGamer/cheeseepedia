@@ -1,8 +1,8 @@
 +++
 title = "ViTcXZDM58uNHVwSC57r.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Tu Eres La Estrella En Chuck E. Cheese's"]
 startDate = ""
 +++

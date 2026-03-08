@@ -1,7 +1,7 @@
 +++
 title = "1997_CEC_AUTOGRAPH_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

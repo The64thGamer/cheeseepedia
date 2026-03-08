@@ -1,7 +1,7 @@
 +++
 title = "Holiday10dvd3.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

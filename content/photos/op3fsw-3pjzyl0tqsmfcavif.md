@@ -1,8 +1,8 @@
 +++
 title = "oP3fsw_3PjZYL0tQSMfc.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Fairview Heights, IL (10850 Lincoln Trail)"]
 startDate = ""
 +++

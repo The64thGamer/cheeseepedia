@@ -1,8 +1,8 @@
 +++
 title = "uXHQDVzX1MMP3dDTAjki.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["PTT Kooser Jasper T. Jowls Name Sign (1978)"]
 startDate = ""
 +++

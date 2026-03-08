@@ -1,8 +1,8 @@
 +++
 title = "qs48wx6f139vut2e.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Chuck E. Cheese in the Galaxy 5000"]
 startDate = "0000-00-00"
 citations = ["mercari"]

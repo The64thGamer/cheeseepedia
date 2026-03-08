@@ -1,7 +1,7 @@
 +++
 title = "Mt._Juliet,_TN.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

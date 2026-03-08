@@ -1,7 +1,7 @@
 +++
 title = "Manageratpeaaad.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["5-1-96 (Manager)"]

@@ -1,7 +1,7 @@
 +++
 title = "Munch_Mouth.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Munch Mouth"]

@@ -1,8 +1,8 @@
 +++
 title = "gnhjwfMKJPVIP3VmRBLo.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["North Richland Hills, TX (7935 Grapevine Hwy)"]
 startDate = ""
 +++

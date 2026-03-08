@@ -1,7 +1,7 @@
 +++
 title = "Country_Helen_Reel_Back.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Country Helen"]

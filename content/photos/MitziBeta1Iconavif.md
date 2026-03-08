@@ -1,7 +1,7 @@
 +++
 title = "MitziBeta1Icon.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Mitzi Mozzarella (Animatronic)"]

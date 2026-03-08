@@ -1,8 +1,8 @@
 +++
 title = "uLwKwvVM7KKq7mxJKwds.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Raleigh, NC (3501-131 Capital Blvd)"]
 startDate = ""
 +++

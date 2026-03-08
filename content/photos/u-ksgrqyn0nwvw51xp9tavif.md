@@ -1,8 +1,8 @@
 +++
 title = "U_ksgrQyn0nwvw51xP9t.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
+type = "Photos"
+tags = ["Creative Presentations"]
 pages = ["The Country Critters Jamboree"]
 startDate = ""
 +++

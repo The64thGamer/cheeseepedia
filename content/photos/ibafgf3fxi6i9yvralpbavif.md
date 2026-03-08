@@ -1,8 +1,8 @@
 +++
 title = "IBafgf3fxi6I9YVRalPB.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Pizza Time Theatre Cashiering"]
 startDate = ""
 +++

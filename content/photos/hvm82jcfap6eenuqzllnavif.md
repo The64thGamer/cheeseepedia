@@ -1,8 +1,8 @@
 +++
 title = "HVm82JcFAP6EenuqZLln.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Baltimore, MD (8354 Eastern Ave)"]
 startDate = ""
 +++

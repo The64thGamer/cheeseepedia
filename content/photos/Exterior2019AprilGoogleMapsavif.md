@@ -1,7 +1,7 @@
 +++
 title = "Exterior2019AprilGoogleMaps.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

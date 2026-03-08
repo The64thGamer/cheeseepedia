@@ -1,8 +1,8 @@
 +++
 title = "kMYcUj30x_Fx9WE9C1xj.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Dublin, OH (2711 Martin Road)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "MQk5Avele94996RRkEot.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Cow (Pasqually Retrofit)"]
 startDate = ""
 +++

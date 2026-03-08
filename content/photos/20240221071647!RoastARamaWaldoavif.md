@@ -1,7 +1,7 @@
 +++
 title = "20240221071647!RoastARamaWaldo.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Weber Roast-A-Rama Show"]

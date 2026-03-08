@@ -1,8 +1,8 @@
 +++
 title = "ZbMl_Csw4GXOCgmeKtv4.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Beach Bear (Wolf Pack 5 Animatronic)"]
 startDate = ""
 +++

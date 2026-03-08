@@ -1,6 +1,6 @@
 +++
 title = "Desperado"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Mitzi Mozzarella: (Singing)**

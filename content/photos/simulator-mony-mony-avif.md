@@ -2,7 +2,7 @@
 title = "simulator-mony-mony.avif"
 startDate = "2025-00-00"
 pages = ["The Rock-afire Simulator"]
-tags = ["Photos"]
-categories = ["Creative Engineering", "ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place"]
 +++
 Screenshot from The Rock-afire Simulator.

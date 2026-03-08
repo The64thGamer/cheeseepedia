@@ -1,7 +1,7 @@
 +++
 title = "Muncie_Evening_Press_Thu_Nov_12_1992_(1).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -1,8 +1,8 @@
 +++
 title = "bR_yjlNOY1X43eD7a84x.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Rick Rat Walkaround"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "ueK1_73u5c0QKvxBYd66.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["San Jose, CA (1371 Kooser Rd)"]
 startDate = ""
 +++

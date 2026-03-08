@@ -1,8 +1,8 @@
 +++
 title = "KWSjfBMgkAxLI18BiJk6.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Mini Billy Bob (Animatronic)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "1aJs2CgZKDpeTML9Dp7s.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["ShowBiz Pizza Place Equipment Listing Manual"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Screenshot_2023-08-14_6.24.58_PM.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

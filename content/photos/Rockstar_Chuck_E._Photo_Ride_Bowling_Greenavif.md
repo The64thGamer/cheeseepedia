@@ -1,7 +1,7 @@
 +++
 title = "Rockstar_Chuck_E._Photo_Ride_Bowling_Green.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

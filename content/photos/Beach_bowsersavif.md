@@ -1,7 +1,7 @@
 +++
 title = "Beach_bowsers.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Beach Bowzers"]

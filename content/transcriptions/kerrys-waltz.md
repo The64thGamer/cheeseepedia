@@ -1,6 +1,6 @@
 +++
 title = "Kerrys Waltz"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Billy Bob: (Singing)**

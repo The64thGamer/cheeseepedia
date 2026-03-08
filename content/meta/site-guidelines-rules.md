@@ -2,8 +2,8 @@
 draft = false
 title = "Site Guidelines & Rules"
 contributors = ["The 64th Gamer", "Anonymous"]
-tags = ["Meta"]
-categories = ["Cheese-E-Pedia"]
+type = "Meta"
+tags = ["Cheese-E-Pedia"]
 +++
 
 ## Writing Guidelines

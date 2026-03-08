@@ -1,7 +1,7 @@
 +++
 title = "Card_Roll_Side.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

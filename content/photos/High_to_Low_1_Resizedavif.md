@@ -1,7 +1,7 @@
 +++
 title = "High_to_Low_1_Resized.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

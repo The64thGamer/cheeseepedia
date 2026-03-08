@@ -1,8 +1,8 @@
 +++
 title = "9j7hvLJkBZKW04auWdHa.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Redding CA (910 Hilltop Dr)"]
 startDate = ""
 +++

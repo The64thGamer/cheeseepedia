@@ -1,8 +1,8 @@
 +++
 title = "Caydenpedia"
 draft = false
-tags = ["User"]
-categories = ["User-Generated Content"]
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2024-09-05"
 endDate = ""
 contributors = ["Anonymous","Caydenpedia"]

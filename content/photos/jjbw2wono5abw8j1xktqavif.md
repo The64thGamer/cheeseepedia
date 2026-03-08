@@ -1,8 +1,8 @@
 +++
 title = "JJBW2wonO5ABW8J1xKtq.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["1991 Nickelodeon"]
 startDate = ""
 +++

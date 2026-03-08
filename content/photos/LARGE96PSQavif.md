@@ -1,7 +1,7 @@
 +++
 title = "LARGE96PSQ.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Large Pasqually Plush (1996)"]

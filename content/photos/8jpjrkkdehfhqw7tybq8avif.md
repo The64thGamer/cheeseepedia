@@ -1,8 +1,8 @@
 +++
 title = "8jPJrkkdEHfHQw7TyBQ8.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["PTT Show Selector"]
 startDate = ""
 +++

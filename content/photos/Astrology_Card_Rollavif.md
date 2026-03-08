@@ -1,7 +1,7 @@
 +++
 title = "Astrology_Card_Roll.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

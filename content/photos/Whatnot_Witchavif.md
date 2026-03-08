@@ -1,7 +1,7 @@
 +++
 title = "Whatnot_Witch.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

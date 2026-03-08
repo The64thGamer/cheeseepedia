@@ -1,8 +1,8 @@
 +++
 title = "s6lToPdP_ZFED8rUwA_a.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Beaumont, TX (5874 Eastex Fwy)"]
 startDate = ""
 +++

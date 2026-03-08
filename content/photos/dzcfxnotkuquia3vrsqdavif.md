@@ -1,8 +1,8 @@
 +++
 title = "DzCfXnOtKUqUIa3vrSQd.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Luigi (Pasqually Retrofit)"]
 startDate = ""
 +++

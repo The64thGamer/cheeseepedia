@@ -1,8 +1,8 @@
 +++
 title = "2Ak5tOPNqzkA5JbkWPRl.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Flag Wavers (Cyberamic)"]
 startDate = ""
 +++

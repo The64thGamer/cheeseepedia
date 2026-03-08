@@ -1,8 +1,8 @@
 +++
 title = "EoYTJGEGHb7yF9NuB1zw.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Orwell: A Robot You Control (Animatronic)"]
 startDate = ""
 +++

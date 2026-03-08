@@ -1,8 +1,8 @@
 +++
 title = "FWH8qdUB7jaGmIzlc2X0.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Springfield, MA (1716 Boston Rd)"]
 startDate = ""
 +++

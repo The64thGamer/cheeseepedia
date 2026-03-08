@@ -1,7 +1,7 @@
 +++
 title = "BB_guitar_red.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Beach Bear (Animatronic)"]

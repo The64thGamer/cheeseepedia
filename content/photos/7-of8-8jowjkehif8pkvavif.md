@@ -1,8 +1,8 @@
 +++
 title = "7_oF8_8jOWJKehiF8PKv.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Arlington Heights, IL (955 W Dundee Rd)"]
 startDate = ""
 +++

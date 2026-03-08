@@ -1,8 +1,8 @@
 +++
 title = "Z1008i7FiATxv7VdQhJn.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Victorville, CA (15367 Tamarack Unit B)"]
 startDate = ""
 +++

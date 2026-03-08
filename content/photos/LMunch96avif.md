@@ -1,7 +1,7 @@
 +++
 title = "LMunch96.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

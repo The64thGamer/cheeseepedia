@@ -1,7 +1,7 @@
 +++
 title = "Wolf_Pack_5_1978_IAAPA_Expo.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

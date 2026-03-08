@@ -1,7 +1,7 @@
 +++
 title = "Drumproof.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Drum Board (Cyberamic)"]

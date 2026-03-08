@@ -1,7 +1,7 @@
 +++
 title = "Palm_Spring’s_Exterior,_March_2021.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

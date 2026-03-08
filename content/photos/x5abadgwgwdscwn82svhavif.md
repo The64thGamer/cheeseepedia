@@ -1,8 +1,8 @@
 +++
 title = "X5aBaDGWGwDScwn82SvH.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["York, PA (351 Loucks Rd)"]
 startDate = ""
 +++

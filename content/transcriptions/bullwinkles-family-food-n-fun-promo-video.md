@@ -1,6 +1,6 @@
 +++
 title = "Bullwinkle's Family Food N' Fun promo Video"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Narrator:**

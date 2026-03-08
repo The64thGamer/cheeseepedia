@@ -1,8 +1,8 @@
 +++
 title = "eOSNoOynzHU5xBozhvbX.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Oak Lawn, IL (4031 95th St)"]
 startDate = ""
 +++

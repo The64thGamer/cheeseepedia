@@ -1,7 +1,7 @@
 +++
 title = "Murrieta.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Murrieta, CA (25110 Hancock Ave)"]

@@ -1,8 +1,8 @@
 +++
 title = "qwQuTR3Fny0l0aorMD3c.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Mary Esther, FL (321 Mary Esther Blvd)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "L0UgbMMGyMgUpnEIaqqr.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["PTT Basic Ordering Agreement"]
 startDate = ""
 +++

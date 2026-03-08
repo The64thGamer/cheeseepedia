@@ -1,7 +1,7 @@
 +++
 title = "Bellevue_2008.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

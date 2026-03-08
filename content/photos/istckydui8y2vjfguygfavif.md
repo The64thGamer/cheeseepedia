@@ -1,8 +1,8 @@
 +++
 title = "IStckydui8y2vjfguygf.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Show Selector Select-A-Show"]
 startDate = ""
 +++

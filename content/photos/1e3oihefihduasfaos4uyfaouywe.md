@@ -1,6 +1,6 @@
 +++
 title = "1e3oihefihduasfaos4uyfaouywe.avif"
-tags = ["Photos"]
+type = "Photos"
 startDate = "2019-03-29"
 draft = false
 pages = ["Unicorn Churros (CEC Menu Item)","Ronnie the Unicorn"]

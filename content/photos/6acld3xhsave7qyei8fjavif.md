@@ -1,8 +1,8 @@
 +++
 title = "6aCld3XhsAVe7QyEi8Fj.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Jersey City, NJ (701 Route 440)"]
 startDate = ""
 +++

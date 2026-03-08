@@ -1,7 +1,7 @@
 +++
 title = "Fargo’s_Exterior_in_2019.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

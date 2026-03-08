@@ -1,7 +1,7 @@
 +++
 title = "Talking_Chuck_E._Front.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

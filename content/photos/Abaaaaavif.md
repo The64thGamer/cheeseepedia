@@ -1,7 +1,7 @@
 +++
 title = "Abaaaa.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Super Chuck Summer Show 2005"]

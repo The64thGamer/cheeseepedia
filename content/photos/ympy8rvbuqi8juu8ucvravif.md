@@ -1,8 +1,8 @@
 +++
 title = "YMpY8rVBuQi8juU8UCVr.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Edison, NJ (1120 Route 1)"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "PTT.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Winchester Chuck E. Cheese V2 (Animatronic)"]

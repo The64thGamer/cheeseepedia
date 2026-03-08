@@ -1,7 +1,7 @@
 +++
 title = "Indian_Jowls_parody_poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

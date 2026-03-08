@@ -1,8 +1,8 @@
 +++
 title = "CxVP3KQt25j3c5BVqhIW.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Lincoln, NE (221 N 66th St)"]
 startDate = ""
 +++

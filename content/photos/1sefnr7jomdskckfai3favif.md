@@ -1,8 +1,8 @@
 +++
 title = "1SEFNR7jomDSkCKFAI3F.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Lynchburg, VA (312 Border St)"]
 startDate = ""
 +++

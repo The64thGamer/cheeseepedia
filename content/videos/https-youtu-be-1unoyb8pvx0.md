@@ -2,7 +2,7 @@
 title = "https://youtu.be/1UNoYb8pVX0"
 startDate = "2023-06-07"
 pages = ["Brandon, FL (1540 W Brandon Blvd)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+type = "Videos"
+tags = ["Chuck E. Cheese's"]
 +++
 Store Tour of Brandon, FL from June 2023

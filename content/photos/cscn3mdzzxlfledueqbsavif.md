@@ -1,8 +1,8 @@
 +++
 title = "cscn3MDzzxLfleDueQBS.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["The Rock-afire Explosion Simulator"]
 startDate = ""
 +++

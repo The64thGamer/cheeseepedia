@@ -1,7 +1,7 @@
 +++
 title = "Phase_4_Paramus.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

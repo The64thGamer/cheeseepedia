@@ -1,7 +1,7 @@
 +++
 title = "Bowsers_Mechs.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

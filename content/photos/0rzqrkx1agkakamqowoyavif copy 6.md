@@ -4,7 +4,7 @@ citations = ["https://www.newspapers.com/image/746118093/?fcfToken=eyJhbGciOiJIU
 pages = ["Kooser Dolli Dimples (Animatronic)","Winchester Warblettes (Animatronic)","Victorville, CA (15367 Tamarack Unit B)", "Fantasy Forest"]
 startDate = "1978-01-08"
 title = "Screenshot_20251018_234343.avif"
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 +++
 Additional Warblettes at Fantasy Forest, with Dolli's lips and snout visible in bottom right.

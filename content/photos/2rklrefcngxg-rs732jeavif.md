@@ -1,8 +1,8 @@
 +++
 title = "2rKLREFcNGxG_rs732je.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Santa Rosa, CA (545 Ross St)"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "S-l300.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Homely For Christmas Cassette (1987)"]

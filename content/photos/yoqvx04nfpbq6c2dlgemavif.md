@@ -1,8 +1,8 @@
 +++
 title = "yoqVX04NfpbQ6C2DLgEM.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Portrait / Shelf Stage"]
 startDate = ""
 +++

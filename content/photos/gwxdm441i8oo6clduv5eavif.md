@@ -1,8 +1,8 @@
 +++
 title = "gwXDM441i8Oo6clDUV5E.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["The Wolfman (Animatronic)"]
 startDate = ""
 +++

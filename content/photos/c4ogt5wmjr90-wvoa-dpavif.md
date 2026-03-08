@@ -1,8 +1,8 @@
 +++
 title = "C4oGT5WMJr90_WVOa_Dp.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Billings, MT (100 24th St)"]
 startDate = ""
 +++

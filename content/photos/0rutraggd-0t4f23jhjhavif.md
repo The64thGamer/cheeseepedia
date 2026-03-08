@@ -1,8 +1,8 @@
 +++
 title = "0RUTraGgd_0t4f23jHjh.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Concept Unification"]
 startDate = ""
 +++

@@ -1,6 +1,6 @@
 +++
 title = "The Night They Drove Ol Dixie Down"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Billy Bob:**

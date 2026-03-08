@@ -1,7 +1,7 @@
 +++
 title = "Phase3edina.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

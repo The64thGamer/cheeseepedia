@@ -1,7 +1,7 @@
 +++
 title = "Skateboard2.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Chuck E. Cheese Skateboarding Promo Cup (2003)"]

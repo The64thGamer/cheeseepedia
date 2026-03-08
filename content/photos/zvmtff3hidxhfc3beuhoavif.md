@@ -1,8 +1,8 @@
 +++
 title = "zvmTff3HIdxHfc3BeuHO.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Gulliver's World Stage"]
 startDate = ""
 +++

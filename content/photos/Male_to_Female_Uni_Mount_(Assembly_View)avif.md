@@ -1,7 +1,7 @@
 +++
 title = "Male_to_Female_Uni_Mount_(Assembly_View).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -4,7 +4,7 @@ citations = ["https://www.newspapers.com/image/746118093/?fcfToken=eyJhbGciOiJIU
 pages = ["Kooser Dolli Dimples (Animatronic)","Winchester Madam Oink (Animatronic)","Victorville, CA (15367 Tamarack Unit B)", "Fantasy Forest"]
 startDate = "1978-01-08"
 title = "Screenshot_20251018_234421.avif"
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 +++
 Kooser Dolli Dimples and Winchester Madame Oink at Fantasy Forest.

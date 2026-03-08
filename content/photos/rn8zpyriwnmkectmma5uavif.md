@@ -1,8 +1,8 @@
 +++
 title = "Rn8zPyRiWnMKeCTmma5u.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Jonesboro, AR (3400 E Highland Dr)"]
 startDate = ""
 +++

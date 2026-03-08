@@ -1,7 +1,7 @@
 +++
 title = "Show42018StudioCdvd.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -1,7 +1,7 @@
 +++
 title = "Now-Appearing-The-King.avif"
 pages = ["The King / King Kat (Lounge)"]
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 +++
 Now Appearing photo taken for The King

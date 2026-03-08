@@ -1,8 +1,8 @@
 +++
 title = "cA5GHUePvgseqZh3vtou.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["CEC Legacy Locations"]
 startDate = ""
 +++

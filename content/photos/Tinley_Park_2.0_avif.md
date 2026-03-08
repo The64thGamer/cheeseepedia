@@ -1,7 +1,7 @@
 +++
 title = "Tinley_Park_2.0_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

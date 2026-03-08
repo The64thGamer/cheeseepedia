@@ -1,7 +1,7 @@
 +++
 title = "Hhhhhhhhjg.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Chuck E. Cheese's Birthday Star Spectacular Choreography"]

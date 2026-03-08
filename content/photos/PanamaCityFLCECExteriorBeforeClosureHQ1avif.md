@@ -1,7 +1,7 @@
 +++
 title = "PanamaCityFLCECExteriorBeforeClosureHQ1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Panama City, FL (4432 US-98)"]

@@ -1,6 +1,6 @@
 +++
 title = "March 1992 Segment 2"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Announcer:** 

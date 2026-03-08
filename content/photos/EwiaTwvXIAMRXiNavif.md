@@ -1,7 +1,7 @@
 +++
 title = "EwiaTwvXIAMRXiN.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["ShowBiz Pizza Campground"]

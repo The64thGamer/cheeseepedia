@@ -1,8 +1,8 @@
 +++
 title = "rYUN1lEtTtLs9Kthf9PN.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Alameda, CA (2317 Central Ave)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "zVBKYwUR_JEPYJlwEauq.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Pico Rivera, CA (6005 Rosemead Blvd)"]
 startDate = ""
 +++

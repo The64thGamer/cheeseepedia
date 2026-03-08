@@ -1,8 +1,8 @@
 +++
 title = "LNcIgbyTlDioo1BWABE6.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Beaverton, OR (4445 SW 110th Ave)"]
 startDate = ""
 +++

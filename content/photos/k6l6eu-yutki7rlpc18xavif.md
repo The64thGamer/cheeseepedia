@@ -1,8 +1,8 @@
 +++
 title = "K6L6eu_yUTKi7RLpC18x.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Altoona, PA (3415 Pleasant Valley Blvd)"]
 startDate = ""
 +++

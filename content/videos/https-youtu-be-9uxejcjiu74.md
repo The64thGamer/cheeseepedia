@@ -2,7 +2,7 @@
 title = "https://youtu.be/9UxEjCjIU74"
 startDate = "1997-06-08"
 pages = ["San Antonio, TX (6874 Ingram Rd)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+type = "Videos"
+tags = ["Chuck E. Cheese's"]
 +++
 Home video of San Antonio, TX (Ingram Rd) in 1997. Showcases the arcade and skytubes. Part 1 of 2.

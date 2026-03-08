@@ -1,8 +1,8 @@
 +++
 title = "Chez"
 draft = false
-tags = ["User"]
-categories = ["User-Generated Content"]
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2023-11-10"
 endDate = ""
 contributors = ["Chez"]

@@ -2,7 +2,7 @@
 title = "https://youtu.be/hD9xhVFAj1A"
 startDate = "2021-06-06"
 pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+type = "Videos"
+tags = ["Creative Engineering","ShowBiz Pizza Place"]
 +++
 Rock-Afire Replay - Let's Hear It for the Boy

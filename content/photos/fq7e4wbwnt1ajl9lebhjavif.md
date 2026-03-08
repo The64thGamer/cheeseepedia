@@ -1,8 +1,8 @@
 +++
 title = "Fq7e4wbwnt1AjL9lEBHj.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Dothan, AL (1001 Commons Dr)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "6PrFRmUa0GHSev2kMcZU.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["PTT Madam Oink Name Sign (1978)"]
 startDate = ""
 +++

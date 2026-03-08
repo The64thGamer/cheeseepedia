@@ -1,7 +1,7 @@
 +++
 title = "TicketBlaster_concept.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Ticket Blaster"]

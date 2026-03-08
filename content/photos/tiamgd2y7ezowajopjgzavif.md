@@ -1,8 +1,8 @@
 +++
 title = "TiaMGd2Y7ezOwAjOPjGz.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Orsi Show"]
 startDate = ""
 +++

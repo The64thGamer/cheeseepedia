@@ -1,8 +1,8 @@
 +++
 title = "psqzhZbFXcEtZXJVOXhY.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Standard: Store Page"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "n4LNz0qa3bDjnRm0nwoT.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
+type = "Photos"
+tags = ["Creative Presentations"]
 pages = ["St. Louis River Revue"]
 startDate = ""
 +++

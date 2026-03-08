@@ -1,8 +1,8 @@
 +++
 title = "jj6rp_jBdIo8oioTEh6L.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
+type = "Photos"
+tags = ["Creative Presentations"]
 pages = ["Backyard Monsters"]
 startDate = ""
 +++

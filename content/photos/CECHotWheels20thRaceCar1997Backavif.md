@@ -1,7 +1,7 @@
 +++
 title = "CECHotWheels20thRaceCar1997Back.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

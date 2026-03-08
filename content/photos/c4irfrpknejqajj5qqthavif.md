@@ -1,8 +1,8 @@
 +++
 title = "C4IRFRPkneJqAJj5qQTH.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Chuck E. Cheese CST 15' Plush"]
 startDate = ""
 +++

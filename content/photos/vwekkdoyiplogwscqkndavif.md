@@ -1,8 +1,8 @@
 +++
 title = "VweKKDoYiPlOgWSCQKnd.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
+type = "Photos"
+tags = ["Creative Presentations"]
 pages = ["Weber Bicentennial Time Machine Show"]
 startDate = ""
 +++

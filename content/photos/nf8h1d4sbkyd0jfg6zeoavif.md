@@ -1,8 +1,8 @@
 +++
 title = "Nf8H1d4sbkyD0jfg6zEO.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Crazy Colander Head Night (Event)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "RkCfo6JMRjRbqfG535AY.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Chuck E. Cheese (Cyberamic)"]
 startDate = ""
 +++

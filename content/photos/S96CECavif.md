@@ -1,7 +1,7 @@
 +++
 title = "S96CEC.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

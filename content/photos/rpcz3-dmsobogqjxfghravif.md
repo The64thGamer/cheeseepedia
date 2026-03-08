@@ -1,8 +1,8 @@
 +++
 title = "rPcZ3_DmSobogqJxfGhR.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["PTT Kooser Mr. Munch Name Sign (1978)"]
 startDate = ""
 +++

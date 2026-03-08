@@ -1,8 +1,8 @@
 +++
 title = "MWoJsZG3fMS35fTt6v38.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Salute to America (Balcony Stage Theme)"]
 startDate = ""
 +++

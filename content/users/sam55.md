@@ -1,6 +1,6 @@
 +++
 title = "Sam55"
-tags = ["User"]
-categories = ["User-Generated Content"]
+type = "User"
+tags = ["User-Generated Content"]
 +++
 to be worked on at a later date..

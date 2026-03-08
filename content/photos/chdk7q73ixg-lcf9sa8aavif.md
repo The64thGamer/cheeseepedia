@@ -1,8 +1,8 @@
 +++
 title = "CHDK7Q73Ixg_lCf9Sa8a.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Northridge, CA (8425 Reseda Blvd)"]
 startDate = ""
 +++

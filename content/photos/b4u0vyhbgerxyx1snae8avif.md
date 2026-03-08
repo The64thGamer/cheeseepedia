@@ -1,8 +1,8 @@
 +++
 title = "B4u0VyhBGERxYx1SNAE8.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Lelmaster"]
 startDate = ""
 +++

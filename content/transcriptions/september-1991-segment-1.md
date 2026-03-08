@@ -1,6 +1,6 @@
 +++
 title = "September 1991 Segment 1"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese:**

@@ -1,7 +1,7 @@
 +++
 title = "artie09234i9203i4.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Artie Antlers (Cyberamic)"]

@@ -1,7 +1,7 @@
 +++
 title = "WinterNewsletter2.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Chuck E. Cheese Winter Winner-Land 2022 Show"]

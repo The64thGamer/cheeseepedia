@@ -1,6 +1,6 @@
 +++
 title = "Biggest Fan"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["The 64th Gamer"]
 +++
 **[Song: Biggest Fan]**

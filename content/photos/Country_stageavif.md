@@ -1,7 +1,7 @@
 +++
 title = "Country_stage.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Country (Balcony Stage Theme)"]

@@ -1,7 +1,7 @@
 +++
 title = "Display_Board_Front.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

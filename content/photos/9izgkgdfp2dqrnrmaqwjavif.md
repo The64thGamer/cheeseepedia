@@ -1,8 +1,8 @@
 +++
 title = "9iZgkgdFP2DqRNRmaqwJ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Stockton, CA (4555 N Pershing Ave)"]
 startDate = ""
 +++

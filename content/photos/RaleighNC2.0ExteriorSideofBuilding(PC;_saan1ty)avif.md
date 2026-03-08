@@ -1,7 +1,7 @@
 +++
 title = "RaleighNC2.0ExteriorSideofBuilding(PC;_saan1ty).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

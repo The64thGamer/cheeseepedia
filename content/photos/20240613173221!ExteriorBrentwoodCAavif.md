@@ -1,7 +1,7 @@
 +++
 title = "20240613173221!ExteriorBrentwoodCA.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

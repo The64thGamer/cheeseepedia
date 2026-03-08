@@ -1,7 +1,7 @@
 +++
 title = "Holiday_1999_Side.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

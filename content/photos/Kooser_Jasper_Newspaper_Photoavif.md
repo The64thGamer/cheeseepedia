@@ -1,7 +1,7 @@
 +++
 title = "Kooser_Jasper_Newspaper_Photo.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

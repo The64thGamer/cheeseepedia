@@ -1,8 +1,8 @@
 +++
 title = "hxjyZPghd8IMRNUrW0Lx.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Billy Bob's Wonderland"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "NationalBobbleheadHOF_ChuckECheeseFeatured.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = [""]
 startDate = "2025-01-07"
 

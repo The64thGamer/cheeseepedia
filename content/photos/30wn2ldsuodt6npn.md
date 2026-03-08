@@ -1,8 +1,8 @@
 +++
 title = "30wn2ldsuodt6npn.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Danvers, MA (139 Endicott St)"]
 startDate = "2021-11-08"
 citations = ["https://archive.org/details/@destination_imagination"]

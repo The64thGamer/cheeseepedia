@@ -1,8 +1,8 @@
 +++
 title = "zgZGlohbegWLvFP8QLbg.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Tone Decoder Control System"]
 startDate = ""
 +++

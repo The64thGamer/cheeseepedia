@@ -1,8 +1,8 @@
 +++
 title = "HATZHq6D8FZB8JtFZFhJ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Houston, TX (2220 FM 1960)"]
 startDate = ""
 +++

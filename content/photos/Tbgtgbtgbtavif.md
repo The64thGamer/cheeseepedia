@@ -1,7 +1,7 @@
 +++
 title = "Tbgtgbtgbt.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["April 2008 Show"]

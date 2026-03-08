@@ -1,7 +1,7 @@
 +++
 title = "Banner10.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

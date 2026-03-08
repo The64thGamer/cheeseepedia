@@ -1,8 +1,8 @@
 +++
 title = "IFgXg7nLmiLaf3iMK51v.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Dubai Outlet Mall, UAE"]
 startDate = ""
 +++

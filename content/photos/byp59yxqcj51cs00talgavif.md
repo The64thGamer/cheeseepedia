@@ -1,8 +1,8 @@
 +++
 title = "BYp59yXQCJ51Cs00TAlG.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["CEC 20th Anniversary Mouse Pad (1997)"]
 startDate = ""
 +++

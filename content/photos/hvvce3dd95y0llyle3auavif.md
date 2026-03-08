@@ -1,8 +1,8 @@
 +++
 title = "hvvce3dD95y0lLYLe3AU.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Dallas, TX (13125 Montfort Dr)"]
 startDate = ""
 +++

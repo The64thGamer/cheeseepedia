@@ -1,8 +1,8 @@
 +++
 title = "pql_mbMvi7dpvoANiQNY.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Confederate Critter Show"]
 startDate = ""
 +++

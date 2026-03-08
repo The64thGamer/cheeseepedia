@@ -1,8 +1,8 @@
 +++
 title = "1bmkUGPnF9GTsJq_1Bjd.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Covina, CA (601 Azusa Ave)"]
 startDate = ""
 +++

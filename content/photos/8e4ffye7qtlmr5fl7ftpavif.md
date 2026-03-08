@@ -1,8 +1,8 @@
 +++
 title = "8E4FFYe7QtlMr5FL7FTP.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Fayetteville, NC (511 North McPherson Church Rd)"]
 startDate = ""
 +++

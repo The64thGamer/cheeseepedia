@@ -2,7 +2,7 @@
 title = "https://youtu.be/j9p-h4UeRxU"
 startDate = "2006-06-21"
 pages = ["San Antonio, TX (6874 Ingram Rd)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+type = "Videos"
+tags = ["Chuck E. Cheese's"]
 +++
 Matt The Franchize performing as Chuck at San Antonio, TX (6874 Ingram Rd). Part 1 of 2. 

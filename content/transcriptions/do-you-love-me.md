@@ -1,6 +1,6 @@
 +++
 title = "Do you love Me"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Beach Bear: (Singing)**

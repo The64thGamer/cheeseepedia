@@ -1,7 +1,7 @@
 +++
 title = "Lowell_01_alt.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

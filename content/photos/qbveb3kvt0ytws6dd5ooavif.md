@@ -1,8 +1,8 @@
 +++
 title = "QbveB3KvT0ytwS6dD5OO.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["April 1999"]
 startDate = ""
 +++

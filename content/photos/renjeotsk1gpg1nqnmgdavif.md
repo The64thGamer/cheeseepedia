@@ -1,8 +1,8 @@
 +++
 title = "rEnjeOtSK1gpG1NQNmgD.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Navori System"]
 startDate = ""
 +++

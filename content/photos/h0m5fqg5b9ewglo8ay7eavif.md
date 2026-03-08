@@ -1,8 +1,8 @@
 +++
 title = "h0m5fQG5B9eWGlO8AY7E.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Cedar Rapids, IA (170 Collins Rd)"]
 startDate = ""
 +++

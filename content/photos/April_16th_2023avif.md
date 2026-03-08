@@ -1,7 +1,7 @@
 +++
 title = "April_16th_2023.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

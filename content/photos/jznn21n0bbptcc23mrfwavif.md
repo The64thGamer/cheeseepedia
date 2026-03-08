@@ -1,8 +1,8 @@
 +++
 title = "jznN21n0bBPtcc23MrfW.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Antonio (Pasqually Retrofit)"]
 startDate = ""
 +++

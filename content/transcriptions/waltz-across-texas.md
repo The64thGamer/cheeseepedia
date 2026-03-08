@@ -1,6 +1,6 @@
 +++
 title = "Waltz across Texas"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[Song: Waltz Across Texas]**

@@ -1,8 +1,8 @@
 +++
 title = "j6xOAwq7_ekC6UnMbLhB.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Pizza Time Theatre 'Bite Me!' Shirt"]
 startDate = ""
 +++

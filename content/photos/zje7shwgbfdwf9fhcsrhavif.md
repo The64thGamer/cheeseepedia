@@ -1,8 +1,8 @@
 +++
 title = "ZJE7SHWgbFdWf9fHcSrh.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["PTT Winchester Restrooms Sign"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "Intro to Munch's Make Believe Band"
 draft = false
-tags = ["Meta"]
-categories = ["Cheese-E-Pedia", "Pizza Time Theatre", "Chuck E. Cheese's"]
+type = "Meta"
+tags = ["Cheese-E-Pedia", "Pizza Time Theatre", "Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

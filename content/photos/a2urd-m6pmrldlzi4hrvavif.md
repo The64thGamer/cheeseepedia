@@ -1,8 +1,8 @@
 +++
 title = "A2URD_M6PmRLDlZi4HRV.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Charlotte, NC (5612 Albemarle Rd)"]
 startDate = ""
 +++

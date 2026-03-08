@@ -1,6 +1,6 @@
 +++
 title = "July 1991 Segment 1"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Pasqually: (Singing)**

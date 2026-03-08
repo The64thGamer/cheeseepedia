@@ -1,8 +1,8 @@
 +++
 title = "f_ArP5eBKeuWtfWsheYw.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Bad Dog (CD Award)"]
 startDate = ""
 +++

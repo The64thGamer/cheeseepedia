@@ -1,8 +1,8 @@
 +++
 title = "omxBHSkV6Vspv4svNtfx.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["PachCEC"]
 startDate = ""
 +++

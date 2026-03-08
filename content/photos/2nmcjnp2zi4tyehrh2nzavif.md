@@ -1,8 +1,8 @@
 +++
 title = "2nmcJnP2ZI4TYeHRh2Nz.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Indianapolis, IN (8804 US 31 South)"]
 startDate = ""
 +++

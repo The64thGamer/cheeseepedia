@@ -1,8 +1,8 @@
 +++
 title = "pQjDoKWQog8F0ROk3VMn.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Joliet, IL (1965 W Jefferson St)"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Show120203stg.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

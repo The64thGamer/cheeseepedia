@@ -1,7 +1,7 @@
 +++
 title = "Spring13P1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Spring 2013 Show"]

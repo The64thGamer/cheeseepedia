@@ -1,7 +1,7 @@
 +++
 title = "Show215CECstage.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

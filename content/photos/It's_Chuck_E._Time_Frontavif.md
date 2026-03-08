@@ -1,7 +1,7 @@
 +++
 title = "It's_Chuck_E._Time_Front.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

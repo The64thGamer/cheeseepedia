@@ -1,8 +1,8 @@
 +++
 title = "0G1WXyk1XeAypk4xcBUB.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["San Jose, CA (370 S Winchester Blvd)"]
 startDate = "1960-00-00"
 +++

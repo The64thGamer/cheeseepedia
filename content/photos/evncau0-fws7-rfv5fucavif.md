@@ -1,8 +1,8 @@
 +++
 title = "EVNcaU0_Fws7_RFv5fUC.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Portrait / Shelf Stage"]
 startDate = ""
 +++

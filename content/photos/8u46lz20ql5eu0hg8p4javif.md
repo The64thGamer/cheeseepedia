@@ -1,8 +1,8 @@
 +++
 title = "8u46lZ20QL5Eu0Hg8P4j.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Norfolk, VA (920 N Military Hwy)"]
 startDate = ""
 +++

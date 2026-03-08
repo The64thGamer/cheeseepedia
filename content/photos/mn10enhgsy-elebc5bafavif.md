@@ -1,8 +1,8 @@
 +++
 title = "MN10EnhgSY_ElebC5BaF.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Navori System"]
 startDate = ""
 +++

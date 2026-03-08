@@ -1,7 +1,7 @@
 +++
 title = "Show421Night3stg.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

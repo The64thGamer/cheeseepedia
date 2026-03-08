@@ -1,8 +1,8 @@
 +++
 title = "oDR6XUCAbfK4siXxgX4T.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Springfield, IL (2369 McArthur Ave)"]
 startDate = ""
 +++

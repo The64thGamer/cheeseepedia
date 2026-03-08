@@ -1,7 +1,7 @@
 +++
 title = "Fm_1960_CEC_2018_reuploaded.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

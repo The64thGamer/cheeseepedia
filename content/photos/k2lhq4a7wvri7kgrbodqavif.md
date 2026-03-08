@@ -1,8 +1,8 @@
 +++
 title = "k2lHq4A7wvrI7KgRBodq.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Nanuet, NY (250 West Route 59)"]
 startDate = ""
 +++

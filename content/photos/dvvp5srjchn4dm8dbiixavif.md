@@ -1,8 +1,8 @@
 +++
 title = "DvVp5SRJChn4dM8DBIix.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["The 64th Gamer"]
 startDate = ""
 +++

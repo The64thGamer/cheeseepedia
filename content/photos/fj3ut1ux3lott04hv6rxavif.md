@@ -1,8 +1,8 @@
 +++
 title = "Fj3ut1ux3lOtt04Hv6RX.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Sally Corporation"]
+type = "Photos"
+tags = ["Sally Corporation"]
 pages = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
 +++

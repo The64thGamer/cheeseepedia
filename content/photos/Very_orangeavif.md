@@ -1,7 +1,7 @@
 +++
 title = "Very_orange.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

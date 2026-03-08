@@ -1,8 +1,8 @@
 +++
 title = "89EmWSEicYIA67RD2NbY.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Florence, KY (7635 Mall Rd)"]
 startDate = ""
 +++

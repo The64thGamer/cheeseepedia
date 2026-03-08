@@ -1,6 +1,6 @@
 +++
 title = "ipoifadsifuqewrh.avif"
-tags = ["Photos"]
+type = "Photos"
 startDate = "2020-07-08"
 draft = false
 pages = ["Iced Brownie (PP&W Menu Item)","Pasqually's Pizza & Wings"]

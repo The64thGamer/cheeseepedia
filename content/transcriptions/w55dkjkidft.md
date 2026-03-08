@@ -2,10 +2,10 @@
 title = "January 1993 Segment 3"
 startDate = "0000-00-00"
 contributors = ["Luigigamin212"]
-tags = ["Transcriptions"]
+type = "Transcriptions"
 endDate = "0000-00-00"
 downloadLinks = []
-categories = []
+tags = []
 draft = false
 +++
 **Chuck E. Cheese:** 

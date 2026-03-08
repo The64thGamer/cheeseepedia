@@ -1,7 +1,7 @@
 +++
 title = "StudioCProto.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Studio C"]

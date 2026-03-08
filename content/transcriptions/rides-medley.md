@@ -1,6 +1,6 @@
 +++
 title = "Rides Medley"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["The 64th Gamer"]
 +++
 **[Distorted audio with noise and wailing]**

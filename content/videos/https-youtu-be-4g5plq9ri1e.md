@@ -2,7 +2,7 @@
 title = "https://youtu.be/4g5Plq9ri1E"
 startDate = "2009-01-00"
 pages = ["San Antonio, TX (6874 Ingram Rd)", "January 2009 Show"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+type = "Videos"
+tags = ["Chuck E. Cheese's"]
 +++
 January 2009 show, Segment 1. San Antonio, TX (6874 Ingram Rd)

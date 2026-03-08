@@ -1,8 +1,8 @@
 +++
 title = "Fue4v8gkLiCalpZNgQ6O.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Charlie Cheese's Pizza Playhouse"]
 startDate = ""
 +++

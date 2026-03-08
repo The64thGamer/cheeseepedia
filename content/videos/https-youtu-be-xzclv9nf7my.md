@@ -2,7 +2,7 @@
 title = "https://youtu.be/XZClv9nF7mY"
 startDate = "2019-01-09"
 pages = ["San Jose (Tully), CA (2445 Fontaine Rd)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+type = "Videos"
+tags = ["Chuck E. Cheese's"]
 +++
 A store tour of San Jose, CA (2445 Fontaine Rd) during its 2.0 remodel.

@@ -2,7 +2,7 @@
 title = "https://youtu.be/nb3-VEJZXag"
 startDate = "2020-09-30"
 pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+type = "Videos"
+tags = ["Creative Engineering","ShowBiz Pizza Place"]
 +++
 Billy Bob as FNAF Pig Patch

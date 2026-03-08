@@ -1,8 +1,8 @@
 +++
 title = "DEHnV1ZGA7XbM1NfTglE.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Alexandria, LA (1725 Metro Dr)"]
 startDate = ""
 +++

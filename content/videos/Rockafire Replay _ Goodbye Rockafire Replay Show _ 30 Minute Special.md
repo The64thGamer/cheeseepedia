@@ -2,7 +2,7 @@
 title = "https://youtu.be/T7RqXuKyQRU"
 startDate = "2021-01-16"
 pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+type = "Videos"
+tags = ["Creative Engineering","ShowBiz Pizza Place"]
 +++
 Rockafire Replay | Goodbye Rockafire Replay Show | 30 Minute Special

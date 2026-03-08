@@ -1,7 +1,7 @@
 +++
 title = "The_C_Files_posters.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

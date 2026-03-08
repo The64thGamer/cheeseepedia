@@ -1,7 +1,7 @@
 +++
 title = "Flower_1_Cyber.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

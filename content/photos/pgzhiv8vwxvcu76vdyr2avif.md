@@ -1,8 +1,8 @@
 +++
 title = "PGzhiv8VwxvCu76VdYR2.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Rock-afire Explosion"]
 startDate = ""
 +++

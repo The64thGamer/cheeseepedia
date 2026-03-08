@@ -1,7 +1,7 @@
 +++
 title = "Florence_Exterior_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

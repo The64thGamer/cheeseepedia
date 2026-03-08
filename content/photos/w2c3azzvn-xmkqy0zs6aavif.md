@@ -1,8 +1,8 @@
 +++
 title = "w2c3aZZVn_Xmkqy0zS6a.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Lansing, MI (5451 L West Saginaw Hwy)"]
 startDate = ""
 +++

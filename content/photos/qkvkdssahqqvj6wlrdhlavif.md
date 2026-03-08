@@ -1,8 +1,8 @@
 +++
 title = "qkVkDssaHqqvj6wLrDhl.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["North Olmsted, OH (23333 Lorain Rd)"]
 startDate = ""
 +++

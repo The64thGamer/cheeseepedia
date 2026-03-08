@@ -1,8 +1,8 @@
 +++
 title = "aSlrIzHiH3HVWN2xvfzi.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Escondido, CA (624 W Mission Ave)"]
 startDate = ""
 +++

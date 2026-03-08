@@ -1,8 +1,8 @@
 +++
 title = "97GblVHLsAajoV86MAKp.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Chicago, IL (5030 S Kedzie Ave)"]
 startDate = ""
 +++

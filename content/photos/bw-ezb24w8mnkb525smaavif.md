@@ -1,8 +1,8 @@
 +++
 title = "Bw_ezB24W8MNkB525smA.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Cyberamics Balcony Stage"]
 startDate = ""
 +++

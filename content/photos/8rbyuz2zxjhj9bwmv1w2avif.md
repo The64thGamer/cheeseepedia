@@ -1,8 +1,8 @@
 +++
 title = "8RbyUZ2ZXjHj9BWmV1w2.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Oceanside, CA (2481 Vista Way)"]
 startDate = ""
 +++

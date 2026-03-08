@@ -1,7 +1,7 @@
 +++
 title = "Wayne_CEC_BY.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

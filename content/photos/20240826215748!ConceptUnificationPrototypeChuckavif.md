@@ -1,7 +1,7 @@
 +++
 title = "20240826215748!ConceptUnificationPrototypeChuck.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Concept Unification Prototype Stage"]

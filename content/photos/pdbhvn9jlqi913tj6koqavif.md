@@ -1,8 +1,8 @@
 +++
 title = "PdbHvn9jlQI913tJ6KOq.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Créteil, France (Av. de la France libre, 94000)"]
 startDate = ""
 +++

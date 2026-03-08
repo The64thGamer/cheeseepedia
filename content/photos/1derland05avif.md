@@ -1,7 +1,7 @@
 +++
 title = "1derland05.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

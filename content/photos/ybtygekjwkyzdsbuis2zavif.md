@@ -1,8 +1,8 @@
 +++
 title = "ybtYgeKJWkYZdSBuIs2Z.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Creative Engineering Premium Video Service"]
 startDate = ""
 +++

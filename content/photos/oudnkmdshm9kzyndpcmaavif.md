@@ -1,8 +1,8 @@
 +++
 title = "OudNkmdShM9kzyndpCmA.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["3400 Plaza Dr, Reading, PA"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "eeb3ec3d6cb170a5.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["2006 Fiesta Chuck"]
 startDate = "2006-00-00"
 citations = []

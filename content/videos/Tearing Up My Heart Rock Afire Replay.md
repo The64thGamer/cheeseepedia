@@ -2,7 +2,7 @@
 title = "https://youtu.be/gU2AfJ2WNVA"
 startDate = "2021-03-09"
 pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+type = "Videos"
+tags = ["Creative Engineering","ShowBiz Pizza Place"]
 +++
 Tearing Up My Heart Rock Afire Replay

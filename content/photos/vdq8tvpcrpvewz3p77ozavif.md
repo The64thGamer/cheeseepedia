@@ -1,8 +1,8 @@
 +++
 title = "vdQ8tvPcRPVEwZ3P77oZ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = "2019-09-24"
 citations = ["Photo by Chuck E. Entertainment"]

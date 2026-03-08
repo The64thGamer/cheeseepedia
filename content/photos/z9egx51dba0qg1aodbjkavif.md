@@ -1,8 +1,8 @@
 +++
 title = "z9egx51dba0qG1AODBjk.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Concept Unification Stage"]
 startDate = ""
 +++

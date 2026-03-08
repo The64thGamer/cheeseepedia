@@ -1,8 +1,8 @@
 +++
 title = "vH0Wih3iO3gLYbY5EFdq.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Atlanta, GA (2963-A Cobb Pkwy)"]
 startDate = ""
 +++

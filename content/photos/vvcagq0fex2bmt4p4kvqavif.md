@@ -1,8 +1,8 @@
 +++
 title = "VVCagq0FEx2bMt4P4KVQ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Wolf Pack 5"]
 startDate = ""
 +++

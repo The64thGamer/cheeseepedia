@@ -1,7 +1,7 @@
 +++
 title = "Prototype_Studio_C_Garner.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

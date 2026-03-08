@@ -1,8 +1,8 @@
 +++
 title = "EO99VzLulUknliat5a2i.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Fatz Geronimo (Mijjin)"]
 startDate = ""
 +++

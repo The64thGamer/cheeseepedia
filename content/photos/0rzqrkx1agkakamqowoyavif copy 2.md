@@ -4,7 +4,7 @@ citations = ["https://www.newspapers.com/image/62547961/?clipping_id=141019615&f
 pages = ["Victorville, CA (15367 Tamarack Unit B)", "Fantasy Forest"]
 startDate = "1979-05-06"
 title = "Screenshot_20251018_232858.avif"
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 +++
 Fantasy Forest creating decorations for the 15th Annual Apple Blossom Ball.

@@ -2,7 +2,7 @@
 title = "https://youtu.be/Bt2vphYSkPA"
 startDate = "1981-00-00"
 pages = ["San Jose (Tully), CA (2445 Fontaine Rd)", "Beagles / Beach Bowsers (Lounge)", "Dolli Dimples (Cabaret)", "Harmony Howlette's Wild West Show"]
-tags = ["Videos"]
-categories = ["Pizza Time Theatre"]
+type = "Videos"
+tags = ["Pizza Time Theatre"]
 +++
 Segment on Pizza Time Theater from 'Wall $treet Week with Louis Rukeyser'. Features Fontaine Rd and a word from Nolan Bushnell

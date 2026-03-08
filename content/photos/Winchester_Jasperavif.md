@@ -1,7 +1,7 @@
 +++
 title = "Winchester_Jasper.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Winchester Jasper T. Jowls (Animatronic)"]

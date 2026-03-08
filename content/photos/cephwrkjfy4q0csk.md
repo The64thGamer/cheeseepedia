@@ -1,8 +1,8 @@
 +++
 title = "cephwrkjfy4q0csk.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Cyberamic Control System"]
 startDate = "2025-12-00"
 citations = ["ebay"]

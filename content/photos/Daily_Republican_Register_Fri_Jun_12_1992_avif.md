@@ -1,7 +1,7 @@
 +++
 title = "Daily_Republican_Register_Fri_Jun_12_1992_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -1,7 +1,7 @@
 +++
 title = "Irving_TX_Remodel-010.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

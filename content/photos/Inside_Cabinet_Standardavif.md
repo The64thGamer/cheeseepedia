@@ -1,7 +1,7 @@
 +++
 title = "Inside_Cabinet_Standard.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

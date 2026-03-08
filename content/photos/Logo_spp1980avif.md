@@ -1,7 +1,7 @@
 +++
 title = "Logo_spp1980.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

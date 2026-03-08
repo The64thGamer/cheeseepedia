@@ -1,8 +1,8 @@
 +++
 title = "eAb6h2MKPoNl6srSrcTp.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Fats Gorilla (Animatronic)"]
 startDate = ""
 +++

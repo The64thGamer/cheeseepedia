@@ -1,8 +1,8 @@
 +++
 title = "6lVkH6nLKcuLp56UU2Jr.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Family Vision (Feb 1985)"]
 startDate = "1985-02-00"
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Share the Fun PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Female Singer:**

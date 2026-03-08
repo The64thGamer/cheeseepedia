@@ -1,8 +1,8 @@
 +++
 title = "L3jKV3vehS7118uC17uD.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Attleboro, MA (287 Washington St)"]
 startDate = ""
 +++

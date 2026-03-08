@@ -1,7 +1,7 @@
 +++
 title = "Cecplushfrontyoutooz.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["YouTooz Classic Chuck E. Cheese Plush"]

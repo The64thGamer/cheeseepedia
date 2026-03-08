@@ -1,8 +1,8 @@
 +++
 title = "3sX73F3Q5SQNZApNm4nk.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["PTT Kooser Helen Henny Name Sign (1978)"]
 startDate = ""
 +++

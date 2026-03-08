@@ -1,7 +1,7 @@
 +++
 title = "https://youtu.be/UIAEhd-IO2U"
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+type = "Videos"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-06-26"
 draft = false
 pages = ["Huntington Beach, CA (15511 Edwards St)","Cyberamics"]

@@ -1,6 +1,6 @@
 +++
 title = "\"Afternoon with Dad\" ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Girl:**

@@ -1,7 +1,7 @@
 +++
 title = "S-l1600_(fs2).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

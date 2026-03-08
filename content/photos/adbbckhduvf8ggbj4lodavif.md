@@ -1,8 +1,8 @@
 +++
 title = "adbbckHDuVf8GgBJ4lOd.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Fantasy Forest"]
 startDate = ""
 +++

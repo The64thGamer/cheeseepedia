@@ -1,7 +1,7 @@
 +++
 title = "Northwest_Herald_Fri_Jul_3_1992_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

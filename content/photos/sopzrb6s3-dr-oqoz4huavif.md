@@ -1,8 +1,8 @@
 +++
 title = "sOpZrB6s3_DR_OQoz4Hu.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
+type = "Photos"
+tags = ["Creative Presentations"]
 pages = ["Untitled Dinosaur Show"]
 startDate = ""
 +++

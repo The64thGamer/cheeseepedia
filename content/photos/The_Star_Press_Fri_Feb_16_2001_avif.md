@@ -1,7 +1,7 @@
 +++
 title = "The_Star_Press_Fri_Feb_16_2001_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

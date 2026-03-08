@@ -1,8 +1,8 @@
 +++
 title = "he3tDIJDFaricH3iYYfN.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Diamond Bar, CA (1900 S Brea Canyon Rd)"]
 startDate = ""
 +++

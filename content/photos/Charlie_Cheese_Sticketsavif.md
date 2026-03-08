@@ -1,7 +1,7 @@
 +++
 title = "Charlie_Cheese_Stickets.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Charlie Cheese's Pizza Playhouse"]

@@ -1,7 +1,7 @@
 +++
 title = "Somethinguhhhegrkjn.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Ryan's World Fan Fest Watch Party"]

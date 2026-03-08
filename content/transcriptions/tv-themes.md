@@ -1,6 +1,6 @@
 +++
 title = "TV Themes"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese:**

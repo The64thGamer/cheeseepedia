@@ -1,8 +1,8 @@
 +++
 title = "uoYB4UxUuy08jlFmr9H3.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Mentor, OH (7900 Plaza Blvd)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "pQ_mECJ7qFnY4GrT30Xu.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["West St Paul, MN (1422 S Robert Street)"]
 startDate = ""
 +++

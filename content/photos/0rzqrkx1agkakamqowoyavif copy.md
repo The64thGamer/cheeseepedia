@@ -4,7 +4,7 @@ citations = ["https://www.newspapers.com/image/746173357/?clipping_id=82958227&f
 pages = ["The Beagles / Beach Bowzers (Lounge)", "Victorville, CA (15367 Tamarack Unit B)", "Fantasy Forest"]
 startDate = "1980-06-29"
 title = "Screenshot_20251018_232836.avif"
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 +++
 Prototype of The Beagles at Fantasy Forest.

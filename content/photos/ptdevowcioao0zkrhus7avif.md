@@ -1,8 +1,8 @@
 +++
 title = "pTDEVoWciOAo0ZKrhUS7.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Pizza Time Theatre Pizza Cook"]
 startDate = ""
 +++

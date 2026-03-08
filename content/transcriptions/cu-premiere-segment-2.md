@@ -1,6 +1,6 @@
 +++
 title = "CU Premiere Segment 2"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Ceclife13"]
 +++
 **[Song: We've Got It (Instrumental Reprise)]**

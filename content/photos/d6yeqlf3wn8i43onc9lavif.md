@@ -1,8 +1,8 @@
 +++
 title = "_d6YEqlF3WN8i43oNC9L.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["PTT Token 101 (gB,Bz, N)"]
 startDate = ""
 +++

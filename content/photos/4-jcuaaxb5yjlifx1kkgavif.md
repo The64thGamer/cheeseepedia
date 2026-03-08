@@ -1,8 +1,8 @@
 +++
 title = "4_jCUaAXb5yjLiFX1KkG.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Sponch man"]
 startDate = ""
 +++

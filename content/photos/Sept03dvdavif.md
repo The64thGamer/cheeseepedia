@@ -1,7 +1,7 @@
 +++
 title = "Sept03dvd.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

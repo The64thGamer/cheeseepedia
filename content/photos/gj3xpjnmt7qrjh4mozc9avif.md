@@ -1,8 +1,8 @@
 +++
 title = "GJ3XpjnMt7qrjH4mozc9.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Confederate Critter Show"]
 startDate = ""
 +++

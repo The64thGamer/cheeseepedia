@@ -1,8 +1,8 @@
 +++
 title = "4EbzUVGd2jSdUcIg8uUA.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Test Page"]
 startDate = ""
 +++

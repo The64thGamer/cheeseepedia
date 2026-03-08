@@ -1,7 +1,7 @@
 +++
 title = "IntShow12020.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Chuck E. Cheese's International Show 1 2020"]

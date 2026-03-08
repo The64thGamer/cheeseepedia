@@ -1,8 +1,8 @@
 +++
 title = "jLbCH7RclI95lYlqCO9K.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["PTT Winchester Game Room Rules Sign"]
 startDate = ""
 +++

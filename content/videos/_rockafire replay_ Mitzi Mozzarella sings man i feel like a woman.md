@@ -2,7 +2,7 @@
 title = "https://youtu.be/W3zsvrQpXrQ"
 startDate = "2022-04-19"
 pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+type = "Videos"
+tags = ["Creative Engineering","ShowBiz Pizza Place"]
 +++
 (rockafire replay) Mitzi Mozzarella sings man i feel like a woman

@@ -1,7 +1,7 @@
 +++
 title = "Unnamed_(7).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

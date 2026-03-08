@@ -1,7 +1,7 @@
 +++
 title = "Boys_Life_Good_Quality.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

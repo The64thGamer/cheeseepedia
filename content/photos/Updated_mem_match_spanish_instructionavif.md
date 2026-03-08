@@ -1,7 +1,7 @@
 +++
 title = "Updated_mem_match_spanish_instruction.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Chuck E. Cheese's Memory Match"]

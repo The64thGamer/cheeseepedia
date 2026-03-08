@@ -1,8 +1,8 @@
 +++
 title = "smg2uvWIyc190eL91ixI.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Queenie / Mini Mozzarella (Animatronic)"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Bowling_Green,_Kentucky_Dance_Floor.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

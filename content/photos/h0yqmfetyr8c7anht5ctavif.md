@@ -1,8 +1,8 @@
 +++
 title = "h0YqMFeTYR8C7AnHT5cT.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Rocky (Rascals) (Chuck E. Cheese Retrofit)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "_1k223yraxjwepg51A7D.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Edina, MN (7505 France Ave S)"]
 startDate = ""
 +++

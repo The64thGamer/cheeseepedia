@@ -1,8 +1,8 @@
 +++
 title = "C8GSjG3npXlHp8BBeq4C.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["PTT Chuck E. Cheese Quote Sign (1977)"]
 startDate = ""
 +++

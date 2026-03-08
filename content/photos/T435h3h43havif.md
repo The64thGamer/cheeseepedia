@@ -1,7 +1,7 @@
 +++
 title = "T435h3h43h.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

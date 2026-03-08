@@ -1,8 +1,8 @@
 +++
 title = "Rooflunar"
 draft = false
-tags = ["User"]
-categories = ["User-Generated Content"]
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2024-08-18"
 endDate = ""
 contributors = ["Rooflunar"]

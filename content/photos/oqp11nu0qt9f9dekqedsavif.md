@@ -1,8 +1,8 @@
 +++
 title = "OqP11Nu0qT9F9dEKQEDS.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Whitby, Ontario, Canada (75 Consumers Dr)"]
 startDate = ""
 +++

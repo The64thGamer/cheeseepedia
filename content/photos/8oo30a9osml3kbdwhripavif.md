@@ -1,8 +1,8 @@
 +++
 title = "8oO30A9OSmL3kbdWHRIp.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["El Cerrito, CA (10 El Cerrito Plaza)"]
 startDate = ""
 +++

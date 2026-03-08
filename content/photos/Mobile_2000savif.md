@@ -1,7 +1,7 @@
 +++
 title = "Mobile_2000s.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

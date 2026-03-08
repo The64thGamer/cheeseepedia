@@ -1,7 +1,7 @@
 +++
 title = "Beach_Bear,_Billy_Bob_Shoulder.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

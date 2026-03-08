@@ -1,7 +1,7 @@
 +++
 title = "Whatnot_Brown.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Whatnots"]

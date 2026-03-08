@@ -1,7 +1,7 @@
 +++
 title = "Pizza-time-theatre-chuck-e-cheese.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

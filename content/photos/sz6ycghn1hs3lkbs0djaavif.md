@@ -1,8 +1,8 @@
 +++
 title = "SZ6YcGHn1HS3LkBS0dJA.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Fullerton, CA (1134 S Harbor Blvd)"]
 startDate = ""
 +++

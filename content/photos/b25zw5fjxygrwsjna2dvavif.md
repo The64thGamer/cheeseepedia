@@ -1,8 +1,8 @@
 +++
 title = "b25zw5FjxyGRWSjna2Dv.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Jungle Jim's Chuck (Chuck E. Cheese Retrofit)"]
 startDate = ""
 +++

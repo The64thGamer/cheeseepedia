@@ -1,7 +1,7 @@
 +++
 title = "Show717p1p2.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

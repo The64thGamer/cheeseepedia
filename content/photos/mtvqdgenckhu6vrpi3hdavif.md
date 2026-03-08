@@ -1,8 +1,8 @@
 +++
 title = "MtVQDgeNCKhU6vRPi3hd.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["PTT Winchester Crusty Name Sign (1977)"]
 startDate = ""
 +++

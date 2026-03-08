@@ -1,8 +1,8 @@
 +++
 title = "mBqrZkjET_OKRyxUrn3N.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Bit Chart"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Humble_TX_2.0_Exterior.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

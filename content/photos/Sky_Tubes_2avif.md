@@ -1,7 +1,7 @@
 +++
 title = "Sky_Tubes_2.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Skytubes"]

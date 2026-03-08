@@ -1,8 +1,8 @@
 +++
 title = "7ciKHvSbhVYxicT7DL9d.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Country (Balcony Stage Theme)"]
 startDate = ""
 +++

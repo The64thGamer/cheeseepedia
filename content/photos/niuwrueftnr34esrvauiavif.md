@@ -1,8 +1,8 @@
 +++
 title = "NIUWRuEftNR34eSrVaUi.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Jingle Bell Jamboree"]
 startDate = ""
 +++

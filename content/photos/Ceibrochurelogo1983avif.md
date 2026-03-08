@@ -1,7 +1,7 @@
 +++
 title = "Ceibrochurelogo1983.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

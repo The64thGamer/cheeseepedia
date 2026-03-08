@@ -1,8 +1,8 @@
 +++
 title = "IACBPev5DoDx2WBkD63q.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["1993 Cheese Z Top (CD Award)"]
 startDate = ""
 +++

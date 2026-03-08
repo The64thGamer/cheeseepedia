@@ -1,7 +1,7 @@
 +++
 title = "Skull_Side_(Assembly_View).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

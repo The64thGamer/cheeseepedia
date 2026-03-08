@@ -1,8 +1,8 @@
 +++
 title = "yciFiiJV4Se3UiyuJJxL.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Westland MI (208 S Wayne Rd)"]
 startDate = ""
 +++

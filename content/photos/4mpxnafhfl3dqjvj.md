@@ -1,8 +1,8 @@
 +++
 title = "4mpxnafhfl3dqjvj.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Stockton, CA (4555 N Pershing Ave)"]
 startDate = "2025-00-00"
 citations = ["https://www.reddit.com/r/Stockton/comments/1g70z7a/comment/mw1p4gj/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"]

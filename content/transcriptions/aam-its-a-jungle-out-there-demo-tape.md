@@ -1,6 +1,6 @@
 +++
 title = "AAM It's A Jungle Out There Demo Tape"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Steve White: (Singing)**

@@ -1,8 +1,8 @@
 +++
 title = "CfJGWyC4tNOouezwK3sA.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Alexandria, VA (6303 Richmond Hwy)"]
 startDate = ""
 +++

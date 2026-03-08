@@ -1,8 +1,8 @@
 +++
 title = "oVd4wn_1A_enh5dgbkuN.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Oklahoma City, OK (7605 S Walker Ave)"]
 startDate = ""
 +++

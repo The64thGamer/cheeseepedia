@@ -1,8 +1,8 @@
 +++
 title = "pkBHb1PlZOCOKPFaE3LA.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Lone Tree, CO (7510 Parkway Dr)"]
 startDate = ""
 +++

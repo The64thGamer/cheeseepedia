@@ -1,6 +1,6 @@
 +++
 title = "Your Birthdays are special"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese: (Singing)**

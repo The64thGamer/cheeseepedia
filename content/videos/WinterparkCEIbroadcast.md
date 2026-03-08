@@ -1,7 +1,7 @@
 +++
 title = "https://www.youtube.com/watch?v=OqjmXCfCQOU"
-tags = ["Videos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Videos"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1982-00-00"
 draft = false
 pages = ["Orlando / Winter Park, FL (1300 Lee Rd)","ShowBiz Pizza Place","Creative Engineering","Classic Stage"]

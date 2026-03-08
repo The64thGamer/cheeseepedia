@@ -1,8 +1,8 @@
 +++
 title = "eqleyu9zUlVrKLO__2go.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["The 64th Gamer"]
 startDate = ""
 +++

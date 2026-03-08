@@ -1,8 +1,8 @@
 +++
 title = "j0FYtzluIACO31GvDe7v.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["The Beagles / Beach Bowzers (Lounge)"]
 startDate = ""
 +++

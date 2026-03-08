@@ -1,8 +1,8 @@
 +++
 title = "pYh4gem8PUYn4yJ9cS75.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Moonrockers"]
 startDate = ""
 +++

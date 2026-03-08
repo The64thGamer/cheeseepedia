@@ -1,8 +1,8 @@
 +++
 title = "iGoFqOcKrov0H3017c8g.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Family Vision 505"]
 startDate = ""
 +++

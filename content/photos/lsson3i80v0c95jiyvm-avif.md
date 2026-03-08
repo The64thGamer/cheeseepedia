@@ -1,8 +1,8 @@
 +++
 title = "LsSON3i80v0C95JiYvM_.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Winchester Madam Oink (Animatronic)"]
 startDate = ""
 +++

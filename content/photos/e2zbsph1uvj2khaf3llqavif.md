@@ -1,8 +1,8 @@
 +++
 title = "e2ZbSPH1uVJ2KHaf3LlQ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Chuck E.'s House"]
 startDate = ""
 +++

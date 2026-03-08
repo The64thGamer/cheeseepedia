@@ -1,8 +1,8 @@
 +++
 title = "WzopvT1ZGALQEgVJHNmM.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Video Wall"]
 startDate = ""
 +++

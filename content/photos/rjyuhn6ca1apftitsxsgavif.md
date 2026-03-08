@@ -1,8 +1,8 @@
 +++
 title = "RJYUhN6CA1aPftITsXSG.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Lion (Jasper T Jowls Retrofit)"]
 startDate = ""
 +++

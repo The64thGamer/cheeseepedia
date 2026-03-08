@@ -1,7 +1,7 @@
 +++
 title = "Aba222.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Chuck E. Cheese Spring Show 2003"]

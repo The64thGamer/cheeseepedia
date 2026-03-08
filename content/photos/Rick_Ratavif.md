@@ -1,7 +1,7 @@
 +++
 title = "Rick_Rat.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Rick Rat Walkaround"]

@@ -1,7 +1,7 @@
 +++
 title = "The_King_SPT.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["The King / King Kat (Lounge)"]

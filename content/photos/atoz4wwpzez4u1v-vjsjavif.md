@@ -1,8 +1,8 @@
 +++
 title = "AToz4wWpzez4u1V_vJSj.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Champaign, IL (1036 Bloomington Rd)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "3N9OlsYlRuwwV7hDzib2.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["'ShowBiz Pizza' (SPT Exterior Signage)"]
 startDate = ""
 +++

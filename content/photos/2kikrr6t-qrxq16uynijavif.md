@@ -1,8 +1,8 @@
 +++
 title = "2KIkrr6t_qRXQ16uyNIj.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["APS Files"]
 startDate = ""
 +++

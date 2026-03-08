@@ -1,6 +1,6 @@
 +++
 title = "Introducing The Pizza Time Orchestra (demo)"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[Sounds of an orchestra warming up]**

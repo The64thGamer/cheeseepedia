@@ -1,8 +1,8 @@
 +++
 title = "0BCYOW63UBD6CwjykNld.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Pasadena, CA (3737 E Foothill Blvd)"]
 startDate = ""
 +++

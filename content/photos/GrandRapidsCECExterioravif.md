@@ -1,7 +1,7 @@
 +++
 title = "GrandRapidsCECExterior.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Grand Rapids, MI (3671 28th St)"]

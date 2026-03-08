@@ -1,8 +1,8 @@
 +++
 title = "vJQAGcf6LGhJnAdR0afr.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Chandler, AZ (2977 W Frye Rd)"]
 startDate = ""
 +++

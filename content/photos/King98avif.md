@@ -1,7 +1,7 @@
 +++
 title = "King98.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Elvis (The King Retrofit)"]

@@ -1,7 +1,7 @@
 +++
 title = "CEC_Tester_Showbiz_Pizza.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

@@ -1,8 +1,8 @@
 +++
 title = "zDPX_KZNtIAaapON0Xd2.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Bell, CA (5089 E Florence Ave)"]
 startDate = ""
 +++

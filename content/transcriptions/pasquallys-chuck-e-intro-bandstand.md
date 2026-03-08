@@ -1,6 +1,6 @@
 +++
 title = "Pasquallys Chuck E Intro Bandstand"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Pasqually:**

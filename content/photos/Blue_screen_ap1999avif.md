@@ -1,7 +1,7 @@
 +++
 title = "Blue_screen_ap1999.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

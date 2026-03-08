@@ -1,7 +1,7 @@
 +++
 title = "Chuck_E_Cheese_in_Green_Bay_Wisconsin.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

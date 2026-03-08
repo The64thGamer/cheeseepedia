@@ -1,7 +1,7 @@
 +++
 title = "Roebuck2007.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Birmingham (Roebuck), AL (9325 Parkway East)"]

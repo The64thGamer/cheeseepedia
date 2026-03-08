@@ -1,6 +1,6 @@
 +++
 title = "Chuck E. Cheese's PBS Kids Ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Kid:**

@@ -1,8 +1,8 @@
 +++
 title = "eKtRaFDrIL9ZN8KX7kJc.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Matteson, IL (106 Town Center Rd)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "5lGgScKyO6cV8RkBqXUJ.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["The Dragon (Earl Retrofit)"]
 startDate = ""
 +++

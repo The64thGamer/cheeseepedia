@@ -1,7 +1,7 @@
 +++
 title = "Beach_Bear_Leg_Kick_(Assembly_View).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

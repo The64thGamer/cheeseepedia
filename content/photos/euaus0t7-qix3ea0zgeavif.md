@@ -1,8 +1,8 @@
 +++
 title = "EuaUs0t7__QIx3Ea0zGe.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Spanish Birthday"]
 startDate = ""
 +++

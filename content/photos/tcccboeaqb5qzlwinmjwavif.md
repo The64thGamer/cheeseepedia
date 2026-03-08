@@ -1,8 +1,8 @@
 +++
 title = "tcccbOeAQb5QZLwinMJW.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["Barboursville, WV (5 Cracker Barrel Dr)"]
 startDate = ""
 +++

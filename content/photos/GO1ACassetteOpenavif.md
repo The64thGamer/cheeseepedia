@@ -1,7 +1,7 @@
 +++
 title = "GO1ACassetteOpen.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Gee, Our 1st Album Cassette (1982)"]

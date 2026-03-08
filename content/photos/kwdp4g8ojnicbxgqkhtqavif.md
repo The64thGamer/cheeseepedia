@@ -1,8 +1,8 @@
 +++
 title = "kwdp4g8ojNIcBXgqKHtQ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Levittown, PA (1283 E Lincoln Hwy)"]
 startDate = ""
 +++

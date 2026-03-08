@@ -1,8 +1,8 @@
 +++
 title = "iqiyIv144DiC_HCaKC1D.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Clown (Animatronic)"]
 startDate = ""
 +++

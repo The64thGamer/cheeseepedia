@@ -1,7 +1,7 @@
 +++
 title = "Sharonville_Exterior.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Sharonville, OH (1429 E Kemper Rd)"]

@@ -1,7 +1,7 @@
 +++
 title = "More_Tickets.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

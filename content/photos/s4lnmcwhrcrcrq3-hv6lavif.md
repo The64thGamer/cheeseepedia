@@ -1,8 +1,8 @@
 +++
 title = "S4LNMCwhRcRcRq3_Hv6l.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Fort Gratiot Township, MI (4350 24th Ave)"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Kings_Dominion_Wolf_Pack_5.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Wolf Pack 5"]

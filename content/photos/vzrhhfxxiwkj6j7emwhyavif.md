@@ -1,8 +1,8 @@
 +++
 title = "vZRhhfXxiWkJ6j7eMwhY.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Kansas City (Antioch), MO (2726 NE Vivion Rd)"]
 startDate = ""
 +++

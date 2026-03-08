@@ -1,7 +1,7 @@
 +++
 title = "Rte3r24etre32r3gt43422.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Baseball (Magazine)"]

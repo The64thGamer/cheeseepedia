@@ -1,7 +1,7 @@
 +++
 title = "Beach_bowsers_again.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

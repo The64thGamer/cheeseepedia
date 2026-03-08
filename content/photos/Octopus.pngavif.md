@@ -1,7 +1,7 @@
 +++
 title = "Octopus.png.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Prototype Octopus (Cyberamic)"]

@@ -1,7 +1,7 @@
 +++
 title = "Record_Searchlight_Thu_Mar_16_1995_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Backyard Monsters"]

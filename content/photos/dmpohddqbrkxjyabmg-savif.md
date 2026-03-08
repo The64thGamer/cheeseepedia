@@ -1,8 +1,8 @@
 +++
 title = "DmpohDdQBRKXjYAbMg_s.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Buffalo, NY (4408 Milestrip Rd)"]
 startDate = ""
 +++

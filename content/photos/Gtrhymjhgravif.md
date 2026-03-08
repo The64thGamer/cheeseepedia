@@ -1,7 +1,7 @@
 +++
 title = "Gtrhymjhgr.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Chuck E. Cheese's Pizza Factory"]

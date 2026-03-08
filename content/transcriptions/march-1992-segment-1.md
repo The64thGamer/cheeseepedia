@@ -1,6 +1,6 @@
 +++
 title = "March 1992 Segment 1"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Mr. Munch:(Singing)** 

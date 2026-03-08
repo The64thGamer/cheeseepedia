@@ -1,8 +1,8 @@
 +++
 title = "TsJQXiWvHeUqMBo2Pk7y.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Natick, MA (801 Worcester St)"]
 startDate = ""
 +++

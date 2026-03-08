@@ -1,7 +1,7 @@
 +++
 title = "Eye_Top_and_Front_View_Beach_Bear,_Looney_(Assembly_View).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

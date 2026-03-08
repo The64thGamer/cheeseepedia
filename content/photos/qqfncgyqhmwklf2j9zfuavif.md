@@ -1,8 +1,8 @@
 +++
 title = "qQFNCGYQHmwKlF2J9ZFu.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["1998 Chuck E Pop Art (Quad)"]
 startDate = ""
 +++

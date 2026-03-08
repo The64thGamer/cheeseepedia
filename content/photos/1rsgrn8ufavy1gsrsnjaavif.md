@@ -1,8 +1,8 @@
 +++
 title = "1RSGrN8Ufavy1GsrSNJA.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Canton, MI (42001 Ford Rd)"]
 startDate = ""
 +++

@@ -1,7 +1,7 @@
 +++
 title = "Chuckfeld_poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["'Chuckfeld' (Must C TV Award)"]

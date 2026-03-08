@@ -1,8 +1,8 @@
 +++
 title = "XGZfFZWXGdxyDmDd3t9x.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
+type = "Photos"
+tags = ["Unknown Manufacturers"]
 pages = ["Smartee's Pizza Brigade"]
 startDate = ""
 +++

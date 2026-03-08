@@ -1,8 +1,8 @@
 +++
 title = "fzOHtE1Ueqzd4x8eLgOG.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
 pages = ["Gulliver's Bear Show (Matlock)"]
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "m21SYA0irPgqG4pUEJ_P.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Rockville, MD (5270 Randolph Rd)"]
 startDate = ""
 +++

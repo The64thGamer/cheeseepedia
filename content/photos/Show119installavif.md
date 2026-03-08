@@ -1,7 +1,7 @@
 +++
 title = "Show119install.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

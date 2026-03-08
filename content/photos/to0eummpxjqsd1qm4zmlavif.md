@@ -1,8 +1,8 @@
 +++
 title = "tO0eUmmpXJQSD1qm4ZMl.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
+type = "Photos"
+tags = [""]
 pages = ["ShowBiz Pizza Program 10"]
 startDate = ""
 +++

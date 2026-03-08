@@ -1,8 +1,8 @@
 +++
 title = "VBl4vyxU9D5KTbOqCZUv.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Concord, CA (1975 Diamond Blvd)", "Cheese Crawl"]
 startDate = "1979-03-08"
 +++

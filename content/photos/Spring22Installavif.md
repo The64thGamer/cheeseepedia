@@ -1,7 +1,7 @@
 +++
 title = "Spring22Install.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Chuck E. Cheese Springtastic Show 2022"]

@@ -1,8 +1,8 @@
 +++
 title = "7p8JeQw06cIAoslDNg6s.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["CEC Make Magic Sign"]
 startDate = ""
 +++

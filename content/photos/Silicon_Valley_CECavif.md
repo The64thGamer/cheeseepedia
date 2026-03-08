@@ -1,7 +1,7 @@
 +++
 title = "Silicon_Valley_CEC.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

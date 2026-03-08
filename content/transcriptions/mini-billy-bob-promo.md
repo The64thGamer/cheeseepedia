@@ -1,6 +1,6 @@
 +++
 title = "Mini Billy Bob Promo"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Billy Bob:**

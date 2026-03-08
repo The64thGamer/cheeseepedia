@@ -1,8 +1,8 @@
 +++
 title = "J_yaagJyem3bw77euJSP.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Stripes"]
 startDate = ""
 +++

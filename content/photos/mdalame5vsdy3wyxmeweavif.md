@@ -1,8 +1,8 @@
 +++
 title = "mDaLAmE5vSdY3wYXMEWe.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Union, NJ (1660 US-22)"]
 startDate = ""
 +++

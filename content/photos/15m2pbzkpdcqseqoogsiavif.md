@@ -1,8 +1,8 @@
 +++
 title = "15M2PBZkpdCqsEqOOGsI.avif"
 draft = false
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 pages = ["Daniel and The Dixie Diggers (Rusutsu Resort)"]
 startDate = ""
 +++

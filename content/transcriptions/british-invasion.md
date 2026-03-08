@@ -1,6 +1,6 @@
 +++
 title = "British Invasion"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Jasper T. Jowls:**

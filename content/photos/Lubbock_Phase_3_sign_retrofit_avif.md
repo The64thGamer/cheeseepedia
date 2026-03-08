@@ -1,7 +1,7 @@
 +++
 title = "Lubbock_Phase_3_sign_retrofit_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

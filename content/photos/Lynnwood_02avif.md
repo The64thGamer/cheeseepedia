@@ -1,7 +1,7 @@
 +++
 title = "Lynnwood_02.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

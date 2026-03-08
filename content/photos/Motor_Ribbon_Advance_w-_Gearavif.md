@@ -1,7 +1,7 @@
 +++
 title = "Motor_Ribbon_Advance_w-_Gear.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

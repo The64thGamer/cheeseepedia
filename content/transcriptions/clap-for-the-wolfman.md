@@ -1,6 +1,6 @@
 +++
 title = "Clap for the Wolfman"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["The 64th Gamer"]
 +++
 **[Song: Clap for the Wolfman]**

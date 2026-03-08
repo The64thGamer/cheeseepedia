@@ -2,7 +2,7 @@
 title = "https://youtu.be/3FF13OHUJh0"
 startDate = "2009-00-00"
 pages = ["Northridge, CA (8425 Reseda Blvd)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+type = "Videos"
+tags = ["Chuck E. Cheese's"]
 +++
 Footage of a birthday party at Northridge in 2009. Part 2 of 2. 

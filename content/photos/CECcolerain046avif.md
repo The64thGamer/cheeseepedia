@@ -1,7 +1,7 @@
 +++
 title = "CECcolerain046.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Salem, OR (3180 Lancaster Dr)"]

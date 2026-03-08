@@ -1,8 +1,8 @@
 +++
 title = "Blaine_MN_PTT_Newsletter.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Blaine, MN (8943 University Ave)"]
 startDate = ""
 +++

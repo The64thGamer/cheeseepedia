@@ -1,8 +1,8 @@
 +++
 title = "MLg3fza51aiP6T6HgTmb.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Fullerton, CA (1841 W Orangethorpe Ave)"]
 startDate = ""
 +++

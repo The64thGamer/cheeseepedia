@@ -1,8 +1,8 @@
 +++
 title = "eghcm53vlzdlayrm.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+type = "Photos"
+tags = ["Pizza Time Theatre"]
 pages = ["Pizza Show Biz"]
 startDate = "0000-00-00"
 citations = []

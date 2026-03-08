@@ -1,8 +1,8 @@
 +++
 title = "tAAdH5lPkgcCu1_ddg5_.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place"]
 pages = ["Salina, KS (2555 Market Place)"]
 startDate = ""
 +++

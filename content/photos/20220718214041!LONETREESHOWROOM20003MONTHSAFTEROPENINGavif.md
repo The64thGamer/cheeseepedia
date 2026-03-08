@@ -1,7 +1,7 @@
 +++
 title = "20220718214041!LONETREESHOWROOM20003MONTHSAFTEROPENING.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = []

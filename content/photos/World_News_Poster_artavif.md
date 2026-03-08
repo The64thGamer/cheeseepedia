@@ -1,7 +1,7 @@
 +++
 title = "World_News_Poster_art.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["'CEC World News' (Must C TV Award)"]

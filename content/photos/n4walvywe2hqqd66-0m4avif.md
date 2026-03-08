@@ -1,8 +1,8 @@
 +++
 title = "n4waLVywE2HQqD66_0m4.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 pages = ["Houston, TX (17780 Tomball Pkwy)"]
 startDate = ""
 +++

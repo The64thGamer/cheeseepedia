@@ -1,7 +1,7 @@
 +++
 title = "NRAE_Dook.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
 pages = ["Dook Larue (Mijjin)"]
