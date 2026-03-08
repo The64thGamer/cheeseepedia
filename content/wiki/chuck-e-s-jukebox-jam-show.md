@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Programmer, Voice of Chuck E. Cheese, Mr. Munch, Jasp
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "1:59:01"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/January%201997%203-Stage-008.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E.'s Jukebox Jam Show** was a compilation show released in January of 1997 at Chuck E. Cheese's. It would feature songs and intermissions reused from various shows between 1992 and 1995.
 

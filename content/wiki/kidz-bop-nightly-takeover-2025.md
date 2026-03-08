@@ -6,8 +6,8 @@ pageThumbnailFile = "nFewKX_Rfd4OJi_I4_bI.avif"
 contributors = ["Cyber Snout"]
 citations = ["CEC Media Player"]
 showtapeFormats = ["Media Navori", "CEC Stage Navori", "Legacy Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **KIDZ BOP Nightly Takeover 2025** ran from July 7, 2025 till September 7, 2025 and was sponsored by Kidz Bop
 

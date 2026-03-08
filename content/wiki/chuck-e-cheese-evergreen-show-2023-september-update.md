@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Evergreen Show 2023 (September Update)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-09-05"
 endDate = "2023-10-01"
 contributors = ["Cyber Snout"]

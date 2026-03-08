@@ -11,8 +11,8 @@ mediaDuration = "1:01:06"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/September%201999%203-Stage-012.iso|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/August%201999%20Studio%20C.iso|Studio C DVD ISO"]
 transcriptions = ["Rhythm Is Gonna Get You (August 1999)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***August 1999***, also known as Fabulous World Adventure, was a showtape that played through the fall of 1999. This was the first show for Studio C to run solely on DVD + Floppy.
 

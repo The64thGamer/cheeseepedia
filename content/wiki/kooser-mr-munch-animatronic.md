@@ -1,8 +1,8 @@
 +++
 title = "Kooser Mr. Munch (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1978-12-00"
 endDate = "1980-05-00"
 contributors = ["EagleScout610","PTT1977fan","RedaCEC","KPIZZA03","Anonymous","The 64th Gamer"]

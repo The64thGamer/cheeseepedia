@@ -14,7 +14,7 @@ citations = []
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "F0h4UXkAY3_bI3SaaLTE.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

@@ -7,8 +7,8 @@ pageThumbnailFile = "BeaglesPromo.avif"
 contributors = ["Luigigamin212", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=rTkgKdMpn0o"]
 showtapeFormats = ["Cyberamics Reel"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 *Beagles II* was the second showtape released for *The Beagles* cabaret show in 1982.
 

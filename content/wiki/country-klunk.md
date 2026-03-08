@@ -7,8 +7,8 @@ endDate = "1985-00-00"
 pageThumbnailFile = "vHT3dz6gniHWYZS3WARr.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://archive.org/details/rock-afire-explosion-country-stage-footage-1985"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 showtapeFormats = ["CEI 4-Track Reel"]
 +++
 ***Country Klunk* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in January 1985 as an alternative version of {{< wiki-link "Country II" >}} for stores that had {{< wiki-link "Uncle Klunk (Animatronic)" >}}.

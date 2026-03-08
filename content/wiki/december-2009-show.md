@@ -10,8 +10,8 @@ credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan H
 mediaDuration = "56:21"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/December%202009%203-stage-001.iso|3-Stage DVD ISO w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***December 2009 Show*** was a show which reused the segments and intermissions of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2009 holiday season.
 

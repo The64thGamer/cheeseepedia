@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "Anonymous", "Anonymous", "SamanthaKitty2015",
 citations = ["https://www.showbizpizza.com/review/rae/1980_spptape1.html", "https://en.wikipedia.org/wiki/1979_oil_crisis"]
 showtapeFormats = ["CEI 4-Track Reel"]
 transcriptions = ["Roast Beef Sandwich and a Pizza", "Catch A Wave", "Hit The Cymbal"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***ShowBiz Pizza Place Tape 1* was the first ever showtape produced for *ShowBiz Pizza Place's* hosting
 the *Rock-afire Explosion*.

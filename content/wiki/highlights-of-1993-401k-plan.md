@@ -2,8 +2,8 @@
 
 title = "Highlights of 1993 401k Plan"
 draft = false
-tags = ["Documents"]
-categories = ["Chuck E. Cheese's"]
+type = "Documents"
+tags = ["Chuck E. Cheese's"]
 startDate = "1993-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

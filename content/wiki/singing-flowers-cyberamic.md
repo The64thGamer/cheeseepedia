@@ -1,8 +1,8 @@
 +++
 title = "Singing Flowers (Cyberamic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Helly","PTT1977fan","RedaCEC"]

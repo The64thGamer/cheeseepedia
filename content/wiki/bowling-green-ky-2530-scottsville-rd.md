@@ -15,7 +15,7 @@ citations = []
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "Chuck_E._Silhouette_Artwork_Bowling_Green.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

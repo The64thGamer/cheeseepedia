@@ -10,8 +10,8 @@ credits = ["Jeremy Blaido|Director", "Robert Gotcher|Production Manager", "Matt 
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 mediaDuration = "1:00:09"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/January%202003%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Best of CEC TV 2003** was released in January 2003 and ran through March 2003. This was also used as a generic show which was valid from January 2003 - September 2008.
 This show is made up of songs and intermissions reused from various 2000 - 2002 showtapes.

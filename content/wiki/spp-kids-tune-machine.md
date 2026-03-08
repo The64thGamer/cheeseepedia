@@ -1,8 +1,8 @@
 +++
 title = "SPP Kids - Tune Machine"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1989-07-05"
 endDate = "0000-00-00"
 contributors = ["DerekCat","The 64th Gamer"]

@@ -1,8 +1,8 @@
 +++
 title = "CEC Salute to Kids"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "SalutetoKids.avif"
 startDate = "1985-08-00"
 endDate = "1985-09-00"

@@ -1,8 +1,8 @@
 +++
 title = "Jingle Bell Jamboree 1977 Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 pageThumbnailFile = "ADfK6_6FOLnt0VhBF1G2.avif"
 startDate = "1977-00-00"
 endDate = "1979-00-00"

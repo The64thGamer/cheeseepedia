@@ -1,8 +1,8 @@
 +++
 title = "The Rockin' Rollin' 50's Show"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["VP Animations"]
+type = "Animatronic Shows"
+tags = ["VP Animations"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

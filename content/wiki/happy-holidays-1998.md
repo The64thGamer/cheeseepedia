@@ -7,8 +7,8 @@ pageThumbnailFile = "1ykTIzJMucTFBfdW0nv_.avif"
 contributors = ["Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=Mbu48nYYPCo"]
 showtapeFormats = ["R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)", "C&R SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Happy Holidays 1998*** was a Christmas-themed show that was released in December of 1998 at Chuck E. Cheese's. The show reused segments from CEC Xmas 1991 Show and Holiday Special 1992.''
 

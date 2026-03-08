@@ -6,7 +6,7 @@ endDate = ""
 pageThumbnailFile = ""
 contributors = ["ratpack93"]
 citations = ["Former employee"]
-tags = ["Employee Wear"]
-categories = ["Chuck E. Cheese's"]
+type = "Employee Wear"
+tags = ["Chuck E. Cheese's"]
 +++
 The R.A.T Pack hat was given to established employees that showed leadership qualities and were promoted to be trainers.

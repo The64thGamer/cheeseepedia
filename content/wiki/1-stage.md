@@ -8,8 +8,8 @@ contributors = ["CECBowlingGreen", "ShowBizMidwest", "JamesLemony", "Destination
 citations = ["Includes data sourced from the Every Location Ever List https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0"]
 manufacturer = "Corman & Associates"
 unitsProduced = "~70"
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 +++
 The 1-Stage is a stage format found at Chuck E. Cheese locations, which either opened with the stage or replaced a previous stage from 1992 - 1998, 2011, and 2015. It was the last official Munch's Make Believe Band stage created. As of August 2025, 2 1-Stages remain, both in the United States.
 

@@ -15,7 +15,7 @@ citations = []
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "4z86YVxYTUFA8YxZKHGl.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

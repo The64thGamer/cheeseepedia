@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Evergreen Show 2023 Legacy"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-11-11"
 endDate = "2023-11-26"
 contributors = ["Cyber Snout"]

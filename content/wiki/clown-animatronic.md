@@ -2,8 +2,8 @@
 
 title = "Clown (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Landon animatronics","Maddox121","Anonymous","Pizza Entertainment Fan"]

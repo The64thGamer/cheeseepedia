@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "Cyber Snout", "Ceclife13", "BurgersNuggs445"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls", "Robert Gotcher|Production Coordinator", "Brian Hagan|Studio Manager", "Brent Gray|Studio Coordinator"]
 mediaDuration = "28:22"
 citations = []
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Summertime 2000*** was a showtape that played through the summer of 2000, themed around Summertime and America.
 

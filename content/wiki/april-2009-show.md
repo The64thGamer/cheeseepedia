@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Scriptwriter, Voice of Chuck E. Cheese, Dr. Phil", "A
 mediaDuration = "1:02:00"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/April%202009%20Studio%20C.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/April%202009%203-stage-008.iso|3-Stage DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The **April 2009 Show** was a show released in April of 2009 which featured eight songs.
 

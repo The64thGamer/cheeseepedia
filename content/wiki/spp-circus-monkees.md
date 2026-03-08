@@ -7,8 +7,8 @@ pageThumbnailFile = "5dfq6HlJl58GagiDltYv.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.showbizpizza.com/review/rae/1986_circus.html"]
 transcriptions = ["Rides Medley"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***SPP Circus - Monkees* was a continuation of the prior {{< wiki-link "Circus Tape" >}} played in ShowBiz Pizza Places, removing the track Tears of a Clown and replacing it with the Monkees Medley.**
 

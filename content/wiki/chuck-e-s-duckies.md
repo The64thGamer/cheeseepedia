@@ -5,9 +5,9 @@ contributors = ["Pasquallytheplumber", "The 64th Gamer", "Anonymous", "GuestIsJu
 endDate = ""
 citations = ["https://www.youtube.com/watch?v=HZeaI7FUmws", "http://pfutz.us/JupiterGames/Index.htm", "https://www.crazykong.com/manuals/WackyDucks.man.pdf"]
 startDate = "2000-00-00"
-tags = ["Arcades and Attractions"]
+type = "Arcades and Attractions"
 pageThumbnailFile = "HhO_7avsLCiyk3KmPimM.avif"
-categories = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E.'s Duckies* is a mechanical redemption game produced exclusively for {{< wiki-link "Chuck E. Cheese's" >}} locations and released in 2000.
 It is a rebranded version of Wacky Ducks and was manufactured by Innovative Concepts in Entertainment (ICE) under license from Jupiter Games.**

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)"
 draft = false
-tags = ["Showtapes"]
-categories = []
+type = "Showtapes"
+tags = []
 startDate = "2021-11-01"
 endDate = "2021-11-14"
 contributors = ["Cyber Snout","The 64th Gamer","Himitsu"]

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Springtastic Show 2022 International"
 draft = false
-tags = ["Showtapes"]
-categories = []
+type = "Showtapes"
+tags = []
 startDate = "2022-03-12"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout"]

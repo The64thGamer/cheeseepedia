@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Spring Show 2024"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2024-04-01"
 endDate = "2024-04-28"
 contributors = ["Cheeseclassic","Dame0824","Cyber Snout"]

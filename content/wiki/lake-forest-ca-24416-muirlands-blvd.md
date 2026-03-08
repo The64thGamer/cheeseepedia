@@ -14,7 +14,7 @@ citations = ["https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=13263
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "Qi9mex3rZS1vuD3ZDCSi.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

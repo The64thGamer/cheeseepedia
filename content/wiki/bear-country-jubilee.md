@@ -1,8 +1,8 @@
 +++
 title = "Bear Country Jubilee"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Creative Engineering"]
+type = "Animatronic Shows"
+tags = ["Creative Engineering"]
 
 
 startDate = ""

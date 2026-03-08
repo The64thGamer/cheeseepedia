@@ -10,8 +10,8 @@ credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan H
 mediaDuration = "59:28"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/December%202007%203-stage.iso|3-Stage DVD ISO w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Holiday 2007** was an updated rerelease of {{< wiki-link "Holiday 2002" >}} which played in December 2007.
 

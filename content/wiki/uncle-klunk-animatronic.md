@@ -6,8 +6,8 @@ endDate = "1985-00-00"
 pageThumbnailFile = "vFDI7q3Hj27tAci9BQvD.avif"
 contributors = ["Avabeckley"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/cei/cei_klunkmanual.pdf\">https://www.showbizpizza.com/info/documents/cei/cei_klunkmanual.pdf</a>"]
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronics"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 Uncle Klunk was traveling animatronic produced by Creative Engineering Inc. as part of the {{< wiki-link "Classic Stage" >}} animatronics. He was designed to travel between store locations, temporary replacing {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} on stage right.

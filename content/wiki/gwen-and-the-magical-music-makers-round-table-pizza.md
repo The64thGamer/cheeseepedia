@@ -1,8 +1,8 @@
 +++
 title = "Gwen and the Magical Music Makers (Round Table Pizza)"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Sally Corporation"]
+type = "Stage Variations"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

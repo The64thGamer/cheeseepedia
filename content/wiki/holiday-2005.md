@@ -8,8 +8,8 @@ contributors = ["Ceclife13"]
 credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist"]
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Holiday 2005** is a rerelease of {{< wiki-link "Holiday 2004" >}} which played throughout December 2005.
 

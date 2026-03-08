@@ -1,8 +1,8 @@
 +++
 title = "DACS"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["Walt Disney Imagineering"]
+type = "Animatronic Control Systems"
+tags = ["Walt Disney Imagineering"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

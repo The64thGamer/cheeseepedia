@@ -10,8 +10,8 @@ mediaDuration = "1:01:11"
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 transcriptions = ["CEC TV News Safety", "CEC TV News Pasqually on the moon"]
 alsoKnownAs = ["Chuck E. Cheese's Pizza 60 MIN. EMR. BACK-UP 31.6 ver. R12 PLAY DATES .GENERIC VALIDATION CODE SSC"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***60 Minute Emergency Back-Up*** was a shortened emergency backup version of the {{< wiki-link "Best of CEC TV 1993">}}, lasting from May 1993 to the {{< wiki-link "Chuck E's Variety Show - Best of 1999">}} in January 2000.
 The tape is only 60 minutes compared to the full tape's 84 minutes. It cuts off just before the 1 minute countdown into Segment 5.{{< cite 1 >}}

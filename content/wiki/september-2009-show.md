@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "53:28"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/September%202009%20Studio%20C.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/September%202009%203-Stage-002.iso|3-Stage DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **September 2009** was a showtape with eight songs that played through the fall of 2009.
 

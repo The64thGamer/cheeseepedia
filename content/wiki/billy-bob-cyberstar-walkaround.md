@@ -8,8 +8,8 @@ contributors = ["Gorillaman2"]
 citations = ["https://jmcostumers.com/html/showbizPizza.html"]
 credits = []
 manufacturer = "J&M Costumers INC."
-tags = ["Costumed Characters"]
-categories = ["ShowBiz Pizza Place"]
+type = "Costumed Characters"
+tags = ["ShowBiz Pizza Place"]
 +++
 The ***Billy Bob Cyberstar Walkaround* was a walkaround intended to be used exclusively for the {{< wiki-link "Cyberstar Segments" >}}. at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
 The walkaround was produced by J&M Costumers, alongside the other costumes used in the Cyberstar videos.{{< cite 1 >}}**

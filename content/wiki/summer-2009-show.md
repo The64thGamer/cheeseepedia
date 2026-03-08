@@ -10,8 +10,8 @@ credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan H
 mediaDuration = "46:11"
 showtapeFormats = ["3-Stage DVD", "Cyberamics DVD", "Studio C 3x DVD + Floppy"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/June%202009%203-Stage-002.iso |3-Stage DVD ISO w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Summer 2009 Show** was a rerelease of the {{< wiki-link "Summer 2007 Show" >}} with a few intermission changes. This was also the first show to include Birthday 2009.
 This show was released in July 2009 and played until August.

@@ -1,8 +1,8 @@
 +++
 title = "Click / Murray D. Bird (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronics"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1983-07-14"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Avabeckley"]

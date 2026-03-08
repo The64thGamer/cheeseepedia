@@ -1,8 +1,8 @@
 +++
 title = "Dandy Bear's Funday Band"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["VP Animations"]
+type = "Animatronic Shows"
+tags = ["VP Animations"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

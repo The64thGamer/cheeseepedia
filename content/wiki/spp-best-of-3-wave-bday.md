@@ -1,8 +1,8 @@
 +++
 title = "SPP Best Of 3"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1991-02-14"
 endDate = "1992-00-00"
 contributors = ["The 64th Gamer","Cyber Snout","DerekCat"]

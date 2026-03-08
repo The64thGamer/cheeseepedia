@@ -1,8 +1,8 @@
 +++
 title = "Pizza Time Theatre 1979 Animated Spot (Commercial)"
 draft = false
-tags = ["Commercials"]
-categories = ["Pizza Time Theatre"]
+type = "Commercials"
+tags = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "1979-00-00"
 contributors = ["The 64th Gamer"]

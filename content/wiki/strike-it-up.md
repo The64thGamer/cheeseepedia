@@ -11,8 +11,8 @@ mediaDuration = "9:25"
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = []
 alsoKnownAs = ["SHOWBIZ PIZZA TIME, INC 'CEC Live-Strike It Up/B-Day EXISTING STAGE 9 min. 25 sec. Ch. 1 & 2-Mono Mix Ch. 3-Data, Ch. 4-Gameroom"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 
 ***Strike It Up*** is a live show released in August 1996 alongside the {{< wiki-link "August 1996 Show" >}}, which ran until November 1996.

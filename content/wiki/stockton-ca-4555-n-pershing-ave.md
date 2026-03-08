@@ -15,8 +15,8 @@ contributors = ["The 64th Gamer"]
 animatronics = ["Chuck E. Cheese (Cyberamic)|1979-10-00|1998-00-00|N/A|Unknown","Warblettes (Cyberamic)|1979-10-00|0000-00-00|N/A|Unknown","Guest Star / Helen Henny (Cyberamic)|1979-10-00|1998-00-00|N/A|Unknown","Mr. Munch (Cyberamic)|1979-10-00|1998-00-00|N/A|Unknown","Pasqually (Cyberamic)|1979-10-00|1998-00-00|N/A|Unknown","Jasper T. Jowls (Cyberamic)|1979-10-00|1998-00-00|N/A|Unknown","Dolli Dimples (Cyberamic)|1979-10-00|0000-00-00|N/A|Unknown","Artie Antlers (Cyberamic)|1980-00-00|0000-00-00|N/A|Unknown","Applause Board (Cyberamic)|1979-10-00|0000-00-00|N/A|Unknown","Drum Board (Cyberamic)|1979-10-00|0000-00-00|N/A|Unknown","Flag Wavers (Cyberamic)|1979-10-00|0000-00-00|N/A|Unknown"]
 downloadLinks = []
 pageThumbnailFile = "9iZgkgdFP2DqRNRmaqwJ.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Stockton, CA (4555 N Pershing Ave)*** is the sixth Pizza Time Theatre, opening in October of 1979 in Venetian Square, and lasting until 1998.

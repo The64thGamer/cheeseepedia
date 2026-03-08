@@ -7,8 +7,8 @@ pageThumbnailFile = "1989_-_Store_Interior_Dolly_Registers_Edit2025.avif"
 contributors = ["The 64th Gamer", "TrimSafe6859", "Cyber Snout"]
 citations = ["https://youtu.be/wXQxEUeOkok?t=445"]
 manufacturer = "Pizza Time Theatre, Inc"
-tags = ["Retrofits"]
-categories = ["Jungle Jim's"]
+type = "Retrofits"
+tags = ["Jungle Jim's"]
 +++
 ***Dolly* was a retrofit of {{< wiki-link "Dolli Dimples (Cabaret)" >}} at *Jungle Jim's International Market* in Cincinnati, Ohio. (5440 Dixie Hwy, Fairfield, OH 45014)
 Dolly was first installed in 1989 and removed in 1997**

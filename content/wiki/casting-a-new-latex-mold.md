@@ -2,8 +2,8 @@
 
 title = "Casting a New Latex Mold"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = [""]
+type = "Animatronic Preservation"
+tags = [""]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","CEC Tinley","Ls2018"]

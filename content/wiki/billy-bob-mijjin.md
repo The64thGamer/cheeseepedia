@@ -1,8 +1,8 @@
 +++
 title = "Billy Bob (Mijjin)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 
 
 startDate = "1992-00-00"

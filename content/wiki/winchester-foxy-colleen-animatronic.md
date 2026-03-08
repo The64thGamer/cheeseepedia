@@ -1,8 +1,8 @@
 +++
 title = "Winchester Foxy Colleen (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1978-10-00"
 endDate = "0000-00-00"
 contributors = ["WalterB","CEC Tinley","Pizza Entertainment Fan"]

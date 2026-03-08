@@ -16,6 +16,6 @@ remodels = ["CEC 2000's Remodel Program|2006/07-00-00"]
 stages = ["Studio C Alpha (1997)|1999-03-29|2015-01-00"]
 downloadLinks = []
 latitudeLongitude = ["33.63881082", "-112.0110524"]
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 +++

@@ -5,8 +5,8 @@ startDate = "2008-12-00"
 endDate = "2009-12-00"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = []
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 **Road Show Generic CD** was a CD released alongside {{< wiki-link "Chuck E's Holiday Party 2008" >}} which featured eleven {{< wiki-link "Road Shows" >}}.
 

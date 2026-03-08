@@ -6,8 +6,8 @@ endDate = "0000-00-00"
 pageThumbnailFile = "ruoxrp3eilnkcw9m.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = []
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 **Boom Box Live Shows** was a Road Show CD released alongside the {{< wiki-link "Fall 2014 Show" >}} which featured nine {{< wiki-link "Road Shows" >}}. This was the final Road Show CD released.
 

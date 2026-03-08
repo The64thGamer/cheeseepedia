@@ -2,8 +2,8 @@
 
 title = "Rocky (Rascals) (Chuck E. Cheese Retrofit)"
 draft = false
-tags = ["Retrofits"]
-categories = ["Unknown Manufacturers"]
+type = "Retrofits"
+tags = ["Unknown Manufacturers"]
 startDate = ""
 endDate = "1996-00-00"
 contributors = ["EagleScout610","Anonymous","SuperCreamPiper2008"]

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Show 3 2017 Part 2"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2017-05-21"
 endDate = "2017-6-18"
 contributors = ["Cyber Snout","The 64th Gamer","Ceclife13"]

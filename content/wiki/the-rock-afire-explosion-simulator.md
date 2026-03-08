@@ -1,8 +1,8 @@
 +++
 title = "The Rock-afire Explosion Simulator"
 draft = false
-tags = ["Simulators"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+type = "Simulators"
+tags = ["Creative Engineering","ShowBiz Pizza Place"]
 startDate = "2020-10-28"
 endDate = "2020-11-26"
 contributors = ["The 64th Gamer","Himitsu"]

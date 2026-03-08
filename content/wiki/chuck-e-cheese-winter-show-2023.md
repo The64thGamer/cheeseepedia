@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Winter Show 2023"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-11-27"
 endDate = "2024-01-01"
 contributors = ["Cheeseclassic","The 64th Gamer","Cyber Snout"]

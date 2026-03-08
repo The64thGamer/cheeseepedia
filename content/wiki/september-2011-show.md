@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "1:21:47"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_dvd_signals/September%202011%20CEC-Stage-007.ISO|CEC-Stage DVD ISO w/ Signals", "https://archive.org/download/3stage_dvd_signals/September%202011%203-Stage-003.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/September%202011%20Studio%20C.iso|Studio C DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***September 2011* was a showtape featuring eight new songs which played from September 2011 - November 24, 2011.**
 

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Legacy Summer Show 2024"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2024-04-29"
 endDate = "2024-07-07"
 contributors = ["Cyber Snout","AstridMascotFan2005"]

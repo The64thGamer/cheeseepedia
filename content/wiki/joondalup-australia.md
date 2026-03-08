@@ -15,7 +15,7 @@ citations = ["https://www.instagram.com/reel/DM82vJKi4KM/?igsh=MTF4MDZtMWdjejM1M
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "auuuuuuuuussiecharles.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

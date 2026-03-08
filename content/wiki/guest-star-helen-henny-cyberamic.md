@@ -7,8 +7,8 @@ pageThumbnailFile = "_kGmQAnDHG7LK8Gff7kU.avif"
 contributors = ["CECBowlingGreen", "Jaxon11", "Anonymous", "CEC Tinley", "BoyInCharge55", "ShowBizMidwest", "Ptt1977", "Cheeseclassic", "CECMentor", "Nerdychucke", "Cyber Snout", "Randomguyfan22 Maker"]
 citations = []
 manufacturer = "Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World"
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 +++
 The **Guest Star / Helen Henny Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980's, and by other companies in the 1990's. Originally, it was to be used for the Guest Star character, which were special additions to the shows in the early 1980's, stopping in 1983-84 with Pizza Time Theatre's bankruptcy, where it would permanently become the then-current guest star, Helen Henny. It is a pretty simple figure, having only 8 movements. The Helen Henny Cyberamic would later be utilized in the Road Stage, 2-Stage, 1-Stage, and Cyberamic 3 stage shows as part of Munch's Make-Believe Band.
 

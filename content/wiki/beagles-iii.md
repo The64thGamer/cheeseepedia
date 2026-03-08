@@ -1,8 +1,8 @@
 +++
 title = "Beagles III"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1983-08-31"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Cyber Snout", "Ceclife13"]

@@ -14,7 +14,7 @@ citations = ["https://www.newspapers.com/article/the-los-angeles-times-numerous-
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "tzfkohitpgt8ffbi.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

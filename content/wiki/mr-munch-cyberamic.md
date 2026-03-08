@@ -7,8 +7,8 @@ pageThumbnailFile = "N8HQppkgC2lFoaQfBGJl.avif"
 contributors = ["CECBowlingGreen", "Jaxon11", "CEC Tinley", "BoyInCharge55", "ShowBizMidwest", "CoolerDude", "CECMentor", "Nerdychucke", "Cheeseclassic", "Cyber Snout", "Randomguyfan22 Maker"]
 citations = []
 manufacturer = "Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World"
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 +++
 The **Mr. Munch Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc. for Chuck E. Cheese's Pizza Time Theatre locations from 1979-1980s and by other companies in the 1990s. It is a pretty simple figure, having only 8 movements. The Mr. Munch Cyberamic would later be utilized in the Road Stage, 2-Stage, and 1-Stage shows as part of Munch's Make-Believe Band, changing his arms to play the keyboard correctly, and stopping his body turns.
 

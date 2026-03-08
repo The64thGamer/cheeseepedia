@@ -1,8 +1,8 @@
 +++
 title = "Studio C Cappa Prototype"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "2002-06-24"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","StudioC","ChuckEPediaIsTheBest!","CorrectorMan","ThatBoiCydalan","The 64th Gamer","Cyber Snout","BurgersNuggs445"]

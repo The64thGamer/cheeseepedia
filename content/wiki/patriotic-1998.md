@@ -8,8 +8,8 @@ contributors = ["Cyber Snout", "The 64th Gamer","Ceclife13"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Jeremy Blaido", "Robert Gotcher", "Brian Hagan|Programmer", "The United States Department of Defense|Provider of Military Footage"]
 citations = []
 showtapeFormats = ["R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Patriotic 1998 (June 1998)** Played from June 23, 1998 - July 6, 1998, after which {{< wiki-link "May 1998 Studio C" >}} would play again.
 

@@ -2,8 +2,8 @@
 
 title = "CEC University: School of Kitchen"
 draft = false
-tags = ["Company Media"]
-categories = ["Chuck E. Cheese's"]
+type = "Company Media"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

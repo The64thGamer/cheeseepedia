@@ -1,8 +1,8 @@
 +++
 title = "1980 Roll for Multiple Sclerosis (Event)"
 draft = false
-tags = ["Events"]
-categories = ["Pizza Time Theatre"]
+type = "Events"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = "1980-10-06"
 endDate = "1980-10-16"

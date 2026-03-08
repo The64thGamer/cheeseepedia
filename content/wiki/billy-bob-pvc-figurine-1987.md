@@ -1,8 +1,8 @@
 +++
 title = "Billy Bob PVC Figurine"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["ShowBiz Pizza Place"]
+type = "In-Store Merchandise"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1987-00-00"
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445"]

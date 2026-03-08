@@ -11,8 +11,8 @@ mediaDuration = "1:07:13"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/April%202007%203-stage-006.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/April%202007%20Studio%20C.iso|Studio C DVD ISO"]
 alsoKnownAs = ["Studio C Valid April 1st - June 30th, 2007"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The **April 2007 Show** is a showtape released on April 1, 2007, that was valid up to June 30, 2007.
 

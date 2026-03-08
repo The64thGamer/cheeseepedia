@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "ArtieAntlers"]
 citations = ["https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf", "https://youtu.be/elpGxlfZASY?t=524"]
 manufacturer = "Creative Engineering"
 unitsProduced = "1"
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 +++
 The *Mijjinator* is a gold chrome plated Mijjin animatronic created for the Mijjins show in 1992.{{< cite 1 >}}
 The animatronic would be the highest member on the Mijjins stage, but would be concealed by two sliding doors. The shows used the mech as an announcer that would then not be present for the songs played.

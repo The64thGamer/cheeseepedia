@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "1:17:07"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/September%202002%203-Stage-001.ISO|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio-c-floppy-discs-rips/Sept2002ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/September%202002%20Studio%20C.iso|Studio C DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **September 2002 Show** was a show that released in September and ran through November 2002.
 This show featured 4 segments with 8 songs.

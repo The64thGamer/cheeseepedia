@@ -1,8 +1,8 @@
 +++
 title = "Salute to America (Balcony Stage Theme)"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "1985-06-00"
 endDate = "1985-07-00"
 contributors = ["Jonn","Pizza Entertainment Fan","CECMentor"]

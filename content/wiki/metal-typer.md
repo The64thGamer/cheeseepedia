@@ -1,8 +1,8 @@
 +++
 title = "Metal Typer"
 draft = false
-tags = ["Arcades and Attractions"]
-categories = ["Pizza Time Theatre"]
+type = "Arcades and Attractions"
+tags = ["Pizza Time Theatre"]
 startDate = "1938-00-00"
 endDate = "1985-00-00"
 contributors = ["The 64th Gamer"]

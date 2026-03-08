@@ -14,7 +14,7 @@ citations = []
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "g9bp3WW_BipBpQRlHl6n.avif"
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

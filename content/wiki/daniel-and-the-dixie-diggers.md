@@ -6,8 +6,8 @@ startDate = ""
 endDate = ""
 contributors = ["BigCDataFinder ", "The 64th Gamer", "Wizington"]
 citations = ["https://www.sallydarkrides.com/post/remembering-jan-sherman-sally-dark-rides-memorializes-long-time-co-worker-and-friend", "https://youtu.be/DqUgmo5Gl_4?si=BHQf8bIeFGe4h9pr"]
-tags = ["Animatronic Shows"]
-categories = ["Sally Corporation"]
+type = "Animatronic Shows"
+tags = ["Sally Corporation"]
 pageThumbnailFile = "uVkqfdgTCHx0GKqhdwR0.avif"
 +++
 ***Daniel and the Dixie Diggers* is a Sally animatronic show produced in 1982, the first of the company's *Showmation* ensemble shows.

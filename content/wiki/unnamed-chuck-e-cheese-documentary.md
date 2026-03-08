@@ -2,8 +2,8 @@
 
 title = "Unnamed Chuck E. Cheese Documentary"
 draft = false
-tags = ["News Footage"]
-categories = ["Chuck E. Cheese's"]
+type = "News Footage"
+tags = ["Chuck E. Cheese's"]
 startDate = "0000-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

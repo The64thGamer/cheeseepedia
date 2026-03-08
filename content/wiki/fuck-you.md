@@ -1,8 +1,8 @@
 +++
 title = "Fuck You"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 startDate = "2013-02-27"
 endDate = "0000-00-00"
 contributors = ["StudioC","The 64th Gamer","Cyber Snout","Cy's Junk at School"]

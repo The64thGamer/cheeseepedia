@@ -1,8 +1,8 @@
 +++
 title = "Concept Unification Diagnostics Tape 1"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "CUDiagnostics91Tape1.avif"
 startDate = "1991-03-14"
 endDate = "1993-05-00"

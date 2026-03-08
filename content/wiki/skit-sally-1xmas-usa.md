@@ -10,8 +10,8 @@ credits = ["John Widelock|Voice of Chuck E. Cheese", "Lady Bianca|Voice of Sally
 showtapeFormats = ["Cyberamics Reel"]
 transcriptions = ["Salute to The Great American Railroad"]
 alsoKnownAs = ["SKIT-SALLY 1XMAS-USA 027-0019-10"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 ***Sally 1 / Xmas / USA*** is a Pizza Time Theatre showtape featuring the guest star *Sally Sashay*, which played from November of 1979 to the latest confirmed showing in mid January of 1980.{{< cite 2 >}}
 

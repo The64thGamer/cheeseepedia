@@ -1,8 +1,8 @@
 +++
 title = "Jacksonville, FL (567 Bishop Gate Ln)"
 draft = false
-tags = ["Locations"]
-categories = ["Sally Corporation"]
+type = "Locations"
+tags = ["Sally Corporation"]
 startDate = "1978-00-00"
 endDate = "1980-00-00"
 contributors = ["The 64th Gamer"]

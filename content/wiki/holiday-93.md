@@ -9,8 +9,8 @@ citations = ["https://youtu.be/lExPyEo1u6s"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "58:24"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/December%201993%203-stage-006.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Holiday 1993*** was a rerelease of {{< wiki-link "Holiday Special 1992" >}} for the 1993 holiday season, which rearranged the intermissions and allowed the segments to play with the 1993 EPROM.
 

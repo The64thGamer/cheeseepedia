@@ -1,8 +1,8 @@
 +++
 title = "Adventure Landing"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

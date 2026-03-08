@@ -2,7 +2,7 @@
 title = "Rock-afire Pizza"
 draft = false
 tags = []
-categories = ["Creative Engineering"]
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

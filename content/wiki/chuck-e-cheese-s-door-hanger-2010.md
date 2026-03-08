@@ -2,8 +2,8 @@
 
 title = "Chuck E. Cheese's Door Hanger"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = []
+type = "In-Store Merchandise"
+tags = []
 startDate = "2010-00-00"
 endDate = ""
 contributors = ["StudioC"]

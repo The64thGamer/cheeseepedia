@@ -8,8 +8,8 @@ contributors = ["Ceclife13", "DerekCat", "Cyber Snout", "Luigigamin212"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Stephanie Nadolny|Voice of Helen Henny", "Doug Teel|Voice of Mr. Munch", "Reggie Smith|Voice of Jasper T. Jowls", "Joel McCrary|Voice of Pasqually The Chef", "Jeremy Blaido|VJ, Voice of Charlie Rockit", "Robert Gotcher|Phil", "David Robinson|Programmer"]
 citations = ["https://youtu.be/9kjTGKoTLEU"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 transcriptions = ["July 1994 Segment 1", "July 1994 Segment 2", "July 1994 Segment 3"]
 alsoKnownAs = []
 +++

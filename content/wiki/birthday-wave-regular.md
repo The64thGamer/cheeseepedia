@@ -2,8 +2,8 @@
 
 title = "Birthday Wave/Regular Showtape"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "0imrv9ub35g.avif"
 startDate = "1989-04-07"
 endDate = "1990-00-00"

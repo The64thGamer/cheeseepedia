@@ -17,8 +17,8 @@ stages = ["Classic Stage|1982-10-20|1991-00-00", "Concept Unification Stage|1991
 downloadLinks = []
 alsoKnownAs = ["Pineville"]
 latitudeLongitude = ["35.08490912", "-80.85132298"]
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***Charlotte, NC (7701 Pineville-Matthews Rd)*** opened as a {{< wiki-link "ShowBiz Pizza Place" >}} on October 20th, 1982, and is currently operating as a {{< wiki-link "Chuck E Cheese's" >}} to this day. It was the first ShowBiz Pizza to open in the state of North Carolina, and the second to open in the Carolinas overall. This location is home to the last 3-Stage in the state, as well as becoming the **last** 3-Stage in existence, after {{< wiki-link "Billings, MT (100 24th St)" >}}'s stage was removed on July 28th, 2024.
 

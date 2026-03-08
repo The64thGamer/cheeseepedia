@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "1:07:10"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/CECSpringShow2003ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202003%20Studio%20C-006.iso|Studio C DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese Spring Show 2003*** is a showtape released in April 2003 with a time travel theme.
 

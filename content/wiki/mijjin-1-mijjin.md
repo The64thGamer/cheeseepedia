@@ -1,8 +1,8 @@
 +++
 title = "Mijjin #1 (Mijjin)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

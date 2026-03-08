@@ -9,8 +9,8 @@ citations = ["https://archive.org/details/january-1994"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch, Singing Voice of Jasper T. Jowls", "Karlisa Burleson|Voice of Helen Henny", "Annagrey Wiechman|Singing Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef, Show Announcer", "Jeremy Blaido|VJ, Voice of Charlie Rockit", "Robert Gotcher|Mailman, Charlie Chorebot", "David Robinson|Programmer"]
 mediaDuration = "1:00:48"
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 transcriptions = ["January 1994 Segment 1", "January 1994 Segment 2", "January 1994 Segment 3"]
 alsoKnownAs = []
 +++

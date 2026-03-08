@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Shuffle 2006"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "x3Jq_DI5eSGn1ZKCfxbW.avif"
 startDate = "2006-04-00"
 endDate = "2012-12-00"

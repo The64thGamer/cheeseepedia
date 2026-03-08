@@ -1,8 +1,8 @@
 +++
 title = "Rick Rat Walkaround"
 draft = false
-tags = ["Costumed Characters"]
-categories = ["Pizza Time Theatre"]
+type = "Costumed Characters"
+tags = ["Pizza Time Theatre"]
 
 
 startDate = ""

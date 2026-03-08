@@ -6,8 +6,8 @@ endDate = "0000-00-00"
 pageThumbnailFile = ""
 contributors = ["Kathydra"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=P_xrIayIsV8\">The Jingle Bell Jamboree 1977</a>", "<a href=\"https://www.showbizpizza.com/events/index.html\">https://www.showbizpizza.com/events/index.html</a>", "<a href=\"https://www.youtube.com/watch?v=gXRLC910FQA\">Santa Claus Revue 2006</a>"]
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 +++
 
 ***Satchemo*** was the horn player from The Santa Claus Revue.

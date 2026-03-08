@@ -9,8 +9,8 @@ citations = ["https://archive.org/details/concept-unification-installation-manua
 manufacturer = "Diversified Designs"
 unitsProduced = "~348"
 dimensions = "1990 Wink ??? 1992 Wink 52\" x 21\" x 5\""
-tags = ["Animatronics"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronics"
+tags = ["Chuck E. Cheese's"]
 +++
 **Wink** is an animatronic figure created by Diversified Designs {{< cite 1 >}} for ShowBiz Pizza and Chuck E. Cheese's Pizza locations from 1990 to 1998 as a part of Concept Unification, which turned the Rock-Afire Explosion into the Chuck E. Cheese characters. The Wink is an emblem of Chuck E. colored gold and winks at the end of segments or songs. It is on the valence of center stage. The Wink mechanism used the airline from Antioch from the Rock-afire Explosion{{< cite 2 >}} and was eventually incorporated into the design of multiple Cyberamic stages.{{< cite 3 >}}
 

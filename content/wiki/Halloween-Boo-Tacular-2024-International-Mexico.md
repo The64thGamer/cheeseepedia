@@ -6,8 +6,8 @@ pageThumbnailFile = "l8gAMQ23TqFae4Bb6Iy0.avif"
 contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Media Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Halloween Boo-Tacular Show 2024 International (Mexico)** was released on September 30, 2024 and ran until November 3, 2024.
 

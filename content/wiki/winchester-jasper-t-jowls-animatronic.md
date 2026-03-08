@@ -1,8 +1,8 @@
 +++
 title = "Winchester Jasper T. Jowls (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-05-00"
 endDate = "2004-00-00"
 contributors = ["EagleScout610", "CECBowlingGreen", "The 64th Gamer", "MultiMonorail", "KPIZZA03", "Anonymous", "ThatBoiCydalan", "Anonymous", "JasperLover", "Pizza Entertainment Fan", "Newbie editor", "FileFickle", "CoolerDude", "ThatRockAfireFan"]

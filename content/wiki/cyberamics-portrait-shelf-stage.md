@@ -6,8 +6,8 @@ endDate = "2001-00-00"
 pageThumbnailFile = "RwtgV0kmTMjVGKYoOEbn.avif"
 contributors = ["CECBowlingGreen", "Ceclife13", "Rexburg090", "JamesLemony", "RessiduePezzzado", "Pench0782", "ChuckEPediaIsTheBest!", "BurgersNuggs445", "Anonymous", "Anonymous", "Charlesiiikingofengland", "CorrectorMan", "Saan1ty", "Mecha", "Cheeseclassic", "SuperCreamPiper2008", "Pizza Entertainment Fan", "Midwestretail", "Cyber Snout"]
 citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf", "https://cheeseepedia.org/photos/0_23VDH9h87hH7hh42.avif", "https://cheeseepedia.org/photos/nDD6uIolQnI6JWvWVadX.avif", "https://www.youtube.com/watch?v=wihG5BTS9L8", "https://cheeseepedia.org/photos/2UB042gGPFJOCM52gMNG.avif", "https://cheeseepedia.org/photos/ugkMSuExCeSIrbkwEjuy.avif"]
-tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+type = "Stage Variations"
+tags = ["Pizza Time Theatre"]
 +++
 
 The ***Cyberamics* **Shelf Stage**** (known commonly as the ***Cyberamics Portrait Stage***) was a stage format installed at several {{< wiki-link "Pizza Time Theatre" >}} stores from 1979 to 1981. The stage would debut at the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} location at its grand opening in May 1979 as a {{< wiki-link "Cyberamics" >}} version of the {{< wiki-link "Winchester PTT Show" >}} &amp; {{< wiki-link "Kooser PTT Show" >}} and would go extinct in Fall 2001 at the {{< wiki-link "Lake Forest, CA (24416 Muirlands Blvd)" >}} store.

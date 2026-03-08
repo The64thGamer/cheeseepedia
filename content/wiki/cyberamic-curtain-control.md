@@ -2,8 +2,8 @@
 
 title = "Cyberamic Curtain Control"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronic Control Systems"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["Studio 18 Ent"]

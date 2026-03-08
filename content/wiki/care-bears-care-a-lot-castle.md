@@ -2,8 +2,8 @@
 
 title = "Care Bears: Care-A-Lot Castle"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Sally Corporation"]
+type = "Animatronic Shows"
+tags = ["Sally Corporation"]
 
 
 startDate = ""

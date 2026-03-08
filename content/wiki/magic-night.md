@@ -2,8 +2,8 @@
 
 title = "Magic Night"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1984-02-22"
 endDate = "1984-10-00"
 contributors = ["The 64th Gamer"]

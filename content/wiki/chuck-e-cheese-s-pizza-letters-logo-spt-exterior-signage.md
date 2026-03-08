@@ -1,8 +1,8 @@
 +++
 title = "'Chuck E. Cheese's Pizza' - Letters / Logo (SPT Exterior Signage)"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["CEC1988","CECLover"]

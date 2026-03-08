@@ -10,8 +10,8 @@ credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Che
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)"]
 transcriptions = ["May 1991 Segment 1", "May 1991 Segment 2", "CEC TV News - Foreign Relations", "May 1991 Segment 3"]
 alsoKnownAs = ["260-0507-91 (C) S.P.T. Inc. CU AMERICAN PRIDE/WAVE 3 STAGE Serial #00104 Deck - 14 05/07/91 - Master CYBERSTAR"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **American Pride** is a patriotic-themed show that played at Chuck E. Cheese's, not to be confused with {{< wiki-link "CEC American Pride . Neighbors" >}}.
 

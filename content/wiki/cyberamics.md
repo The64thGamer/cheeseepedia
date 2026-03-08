@@ -5,8 +5,8 @@ startDate = "1979-05-00"
 endDate = ""
 pageThumbnailFile = "uDPkM4zqci5VgKVLaENh.avif"
 contributors = ["Agent smith", "BurgersNuggs445", "The 64th Gamer", "Anonymous", "Stripes", "Retrocam", "ShowBizMidwest", "CECMentor", "Caydenpedia", "pizzatimePENGUINS", "ThatRockAfireFan"]
-tags = ["Animatronic Shows"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Shows"
+tags = ["Pizza Time Theatre"]
 citations = []
 +++
 The ***Cyberamics*** were a set of animatronics that were mass produced for Pizza Time Theatre restaurants from early 1979 to November 1983 and are still being used in stores to present day.

@@ -1,8 +1,8 @@
 +++
 title = "Studio C Beta"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "2000-00-00"
 endDate = ""
 contributors = ["CECBowlingGreen","Destinationimagination95","ShowBizMidwest","Parum33","Rexburg090","Anonymous","Jaxon11","Anonymous","The 64th Gamer","RedaCEC","BurgersNuggs445","ChuckEPediaIsTheBest!","Pasquallytheplumber","ThatBoiCydalan","Anonymous","Anonymous","Chuckstar69","Anonymous","Cheeseclassic","CECgamer","AcTeZ","Stripes","Caydenpedia","Cy's Junk at School","Showb1zlov3r","Cyber Snout","Chuckatronics","AstridMascotFan2005","Bay12","BenTrainFan2000","CEC1988","Chuck E theatre"]

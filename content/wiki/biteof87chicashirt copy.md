@@ -1,8 +1,8 @@
 +++
 title = "Sanshee FNaF Celebrate! Poster"
 draft = false
-tags = ["Products"]
-categories = ["Five Nights at Freddy's"]
+type = "Products"
+tags = ["Five Nights at Freddy's"]
 pageThumbnailFile = ""
 startDate = "2014-11-13"
 endDate = ""

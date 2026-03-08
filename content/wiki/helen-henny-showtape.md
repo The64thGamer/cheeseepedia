@@ -1,8 +1,8 @@
 +++
 title = "Helen Henny Showtape"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-08-12"
 endDate = "1978-02-00"
 contributors = ["The 64th Gamer","Ptt1977"]

@@ -16,8 +16,8 @@ remodels = ["SPT 1980's Remodel Program|1990-06-17", "SPT 1990's Remodel Program
 stages = ["Chuck E.'s House|1990-06-16|2005-00-00", "Studio C Cappa|2005-00-00|2012-00-00", "Studio C Beta|2012-00-00|2024-04-07", "Chuck E. Live Stage (Dance Floor)|2024-04-09| |2021 Model|", "Video Wall|2024-04-09||"]
 downloadLinks = []
 latitudeLongitude = ["39.09249612", "-84.26932168"]
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Cincinnati, OH (4394 Eastgate Square Dr), Store #211/102*** is a *Chuck E. Cheese's Pizza* that opened June 17, 1990 with a {{< wiki-link "Chuck E.'s House" >}} {{< cite 1 >}} and is currently a Chuck E. Cheese with a {{< wiki-link "Chuck E. Live Stage (Dance Floor)" >}}.{{< cite 2 >}}
 

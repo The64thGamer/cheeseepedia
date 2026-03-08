@@ -1,8 +1,8 @@
 +++
 title = "Video Velocitor"
 draft = false
-tags = ["Other Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Other Systems"
+tags = ["Chuck E. Cheese's"]
 startDate = "1991-00-00"
 endDate = "2008-05-00"
 contributors = ["CoolerDude","The 64th Gamer"]

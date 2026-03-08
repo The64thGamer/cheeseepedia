@@ -1,8 +1,8 @@
 +++
 title = "Elvis (The King Retrofit)"
 draft = false
-tags = ["Retrofits"]
-categories = ["Jungle Jim's"]
+type = "Retrofits"
+tags = ["Jungle Jim's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","The 64th Gamer"]

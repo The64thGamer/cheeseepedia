@@ -1,8 +1,8 @@
 +++
 title = "ICE"
 draft = false
-tags = ["History"]
-categories = ["Chuck E. Cheese's"]
+type = "History"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

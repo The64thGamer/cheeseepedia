@@ -1,8 +1,8 @@
 +++
 title = "Tree Tops from Helen Henny"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2006-01-30"
 endDate = "2006-01-30"
 contributors = ["Ceclife13","The 64th Gamer","RedaCEC","John95"]

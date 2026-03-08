@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Evergreen Show 2022"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2022-01-03"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","Anonymous","The 64th Gamer","Pasquallytheplumber","Dame868","Anonymous","Cy's Junk at School"]

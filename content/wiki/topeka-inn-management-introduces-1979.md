@@ -1,8 +1,8 @@
 +++
 title = "Topeka Inn Management Introduces... (1979)"
 draft = false
-tags = ["Promotional Material"]
-categories = ["Pizza Time Theatre"]
+type = "Promotional Material"
+tags = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "1979-00-00"
 contributors = ["Concordio","The 64th Gamer"]

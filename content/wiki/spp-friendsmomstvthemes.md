@@ -1,8 +1,8 @@
 +++
 title = "SPP Friends / Moms / TV Themes"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1990-06-11"
 endDate = "1990-08-17"
 contributors = ["DerekCat","The 64th Gamer","Stripes","Ceclife13"]

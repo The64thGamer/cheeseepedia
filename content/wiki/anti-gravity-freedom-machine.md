@@ -1,8 +1,8 @@
 +++
 title = "Anti Gravity Freedom Machine"
 draft = false
-tags = ["Other Systems"]
-categories = ["Creative Engineering"]
+type = "Other Systems"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

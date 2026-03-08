@@ -1,8 +1,8 @@
 +++
 title = "C&R SVHS (Post-93)"
 draft = false
-tags = ["Showtape Formats"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtape Formats"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

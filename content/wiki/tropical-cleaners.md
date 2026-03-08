@@ -1,8 +1,8 @@
 +++
 title = "Tropical Cleaners"
 draft = false
-tags = ["History"]
-categories = ["Creative Engineering"]
+type = "History"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

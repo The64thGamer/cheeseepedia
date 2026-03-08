@@ -10,8 +10,8 @@ citations = []
 showtapeFormats = ["C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 transcriptions = ["January 1991 Segment 1", "January 1991 Segment 2", "January 1991 Segment 3"]
 alsoKnownAs = ["140-1210-90(C) S.P.T., Inc.CEC JAN 91 / WAVE BDAYSerial #0054 Deck - 912/10/90 - Master CYBERSTAR"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 
 ***January 1991 Show***, also known as ***Friends**,* was released to all Chuck E. Cheese's locations at the beginning of 1991. It was Connie Nelson's final show as Helen Henny.

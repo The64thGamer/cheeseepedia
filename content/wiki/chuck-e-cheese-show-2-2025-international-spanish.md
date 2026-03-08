@@ -6,8 +6,8 @@ pageThumbnailFile = "oamiwrhMh6yTtNLxEPbs.avif"
 contributors = ["Cyber Snout"]
 citations = ["Show 2 2025 DVD"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese Show 2 2025 International Spanish* released in March 2025.**
 

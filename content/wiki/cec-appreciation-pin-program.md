@@ -2,8 +2,8 @@
 
 title = "CEC Appreciation Pin Program"
 draft = false
-tags = ["Documents"]
-categories = ["Chuck E. Cheese's"]
+type = "Documents"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

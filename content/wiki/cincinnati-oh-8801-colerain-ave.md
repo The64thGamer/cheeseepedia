@@ -16,8 +16,8 @@ remodels = ["SPT 1980's Remodel Program|1989-00-00", "SPT 1990's Remodel Program
 stages = ["Classic Stage|1981-11-11|1991-05-02", "Concept Unification Stage|1991-04-28|2019-09-24|One of 4 3-Stages in Ohio to receive Concept Unification. Was in Poor Condition. Chuck lacked his teeth, Munch had Sunrise organ, and Stage lacked Munch's Make Believe Band sign.|"]
 downloadLinks = ["https://archive.org/details/chuck-e.-cheeses-colerain-remodel-2009|Remodel Plans (2009)"]
 latitudeLongitude = ["39.22993802", "-84.59255988"]
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***Cincinnati, OH (8801 Colerain Ave)*** was a *Chuck E. Cheese's* location that opened on November 11, 1981{{< cite 1 >}}, as a *ShowBiz Pizza Place* with a {{< wiki-link "Classic Stage" >}}, and closed as a *Chuck E. Cheese's* with a {{< wiki-link "Concept Unification Stage" >}} on September 22, 2019.
 

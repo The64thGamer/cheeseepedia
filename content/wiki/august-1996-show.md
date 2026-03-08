@@ -9,8 +9,8 @@ citations = ["https://www.youtube.com/watch?v=mK2aIbNAt74","https://www.youtube.
 credits = ["Duncan Brannan|Programmer, Voice of Chuck E. Cheese, Mr. Munch, Show Announcer", "Annagrey Wiechman|Singing Voice of Helen Henny", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Steve White|Scriptwriter, Songwriter, Singing Voice (Demo Recordings)", "Carl Finch|Songwriter", "Joe Cripps|Songwriter", "Jeffrey Barnes|Songwriter", "Bubba Hernandez|Songwriter", "Stokes Group|Video Editing"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/August%201996%203-Stage.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***August 1996 Show*** (Also known as July 1996 Show) was a showtape that was released in August of 1996 at Chuck E. Cheese's locations{{< cite 1 >}} excluding {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}} which played {{< wiki-link "August 1996 Show (AAM)" >}} instead.
 

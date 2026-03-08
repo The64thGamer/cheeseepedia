@@ -9,8 +9,8 @@ manufacturer = "Terror Vision"
 unitsProduced = "1200"
 wholesalePrice = "$46.99"
 downloadLinks = ["https://archive.org/download/original-dreams-from-showbiz/Side%20A|Side A", "https://archive.org/download/original-dreams-from-showbiz/Side%20B.flac|Side B"]
-tags = ["Products"]
-categories = ["ShowBiz Pizza Place", "Creative Engineering"]
+type = "Products"
+tags = ["ShowBiz Pizza Place", "Creative Engineering"]
 +++
 Original Dreams: Songs from ShowBiz is a Rock-afire Explosion album released on April 12th, 2025.
 

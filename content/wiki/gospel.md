@@ -1,8 +1,8 @@
 +++
 title = "The Gospel of St. Pong Revisited - Vol 4, April 1977"
 draft = false
-tags = ["Corporate Documents"]
-categories = ["Pizza Time Theatre"]
+type = "Corporate Documents"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = "1977-04-00"
 endDate = "1977-04-00"

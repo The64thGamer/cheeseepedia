@@ -2,8 +2,8 @@
 
 title = "Half-A-Chuck San Jose Museum Showtape"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1982-10-27"
 endDate = "1991-00-00"
 contributors = ["The 64th Gamer","Ceclife13"]

@@ -6,8 +6,8 @@ endDate = "1991-00-00"
 pageThumbnailFile = "88R85mH7lfqIx7WdTpQB.avif"
 contributors = ["BurgersNuggs445", "Chouts1", "BigCDataFinder ", "The 64th Gamer", "CEC Tinley", "Capitanyoda20"]
 citations = ["http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf", "http://www.heroesinmycloset.com/2010/05/thing-is-part-iii-man-makes-suit.html"]
-tags = ["Costumed Characters"]
-categories = ["Pizza Time Theatre"]
+type = "Costumed Characters"
+tags = ["Pizza Time Theatre"]
 +++
 The 1982 Advertisement Campaign for Pizza Time Theatre introduced the first articulated head for Chuck E. Cheese onto televisions throughout the nation from 1982 to 1991. The remote-controlled head has been a concept that has predated that of technology Disney would develop throughout the 80's up to today for their costumes.
 

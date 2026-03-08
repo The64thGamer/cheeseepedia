@@ -2,8 +2,8 @@
 
 title = "Whatnots"
 draft = false
-tags = ["Characters"]
-categories = ["Chuck E. Cheese's"]
+type = "Characters"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["Crazy Muzzarino"]

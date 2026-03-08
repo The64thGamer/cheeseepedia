@@ -1,8 +1,8 @@
 +++
 title = "Jingle Bell Jamboree"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Creative Engineering"]
+type = "Animatronic Shows"
+tags = ["Creative Engineering"]
 
 
 startDate = "1977-00-00"

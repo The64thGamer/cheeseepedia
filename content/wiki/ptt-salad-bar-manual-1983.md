@@ -1,8 +1,8 @@
 +++
 title = "PTT Salad Bar Manual (1983)"
 draft = false
-tags = ["Documents"]
-categories = ["Pizza Time Theatre"]
+type = "Documents"
+tags = ["Pizza Time Theatre"]
 startDate = "1983-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

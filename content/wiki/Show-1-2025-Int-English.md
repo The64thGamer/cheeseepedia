@@ -7,8 +7,8 @@ contributors = ["Cyber Snout"]
 citations = ["Show 1 2025 DVD"]
 credits = ["CEC Entertainment, LLC"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Show 1 2025 International English** was released in January 2025 and played until March 2025
 

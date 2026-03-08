@@ -1,8 +1,8 @@
 +++
 title = "1994/1995 Basketball Magazine Poster"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 startDate = "1994-00-00"
 endDate = "0000-00-00"
 contributors = ["ArtieAntlers","The 64th Gamer"]

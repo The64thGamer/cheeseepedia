@@ -1,8 +1,8 @@
 +++
 title = "'Pizza Time (Birthday 8-TR)' (November 13, 1978)"
 draft = false
-categories = ["Pizza Time Theatre"]
-tags = ["Company Media"]
+tags = ["Pizza Time Theatre"]
+type = "Company Media"
 startDate = "1978-11-13"
 endDate = "1978-11-13"
 contributors = ["The 64th Gamer"]

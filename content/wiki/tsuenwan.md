@@ -6,7 +6,7 @@ endDate = "1991-00-00"
 stages = ["Balcony Stage|1985-00-00|1991-00-00|"]
 latitudeLongitude = ["22.3712427","114.1136227"]
 pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

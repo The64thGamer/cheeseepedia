@@ -9,8 +9,8 @@ manufacturer = "Terror Vision"
 unitsProduced = "200"
 downloadLinks = []
 alsoKnownAs = []
-tags = ["Products"]
-categories = ["ShowBiz Pizza Place", "Creative Engineering"]
+type = "Products"
+tags = ["ShowBiz Pizza Place", "Creative Engineering"]
 +++
 Original Dreams: Songs from ShowBiz was a Rock-afire Explosion casette purchasable starting on April 13th, 2025, being a different format to the Record Day exclusive of the vinyl album: {{< wiki-link "Original Dreams: Songs from ShowBiz" >}}.
 

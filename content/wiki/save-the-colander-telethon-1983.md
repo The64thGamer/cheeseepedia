@@ -2,8 +2,8 @@
 
 title = "Save The Colander Telethon (1983)"
 draft = false
-tags = ["Company Media"]
-categories = ["ShowBiz Pizza Place"]
+type = "Company Media"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1983-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

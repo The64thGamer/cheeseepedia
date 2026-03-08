@@ -1,8 +1,8 @@
 +++
 title = "Gulliver's World Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Creative Engineering"]
+type = "Stage Variations"
+tags = ["Creative Engineering"]
 
 
 startDate = "1992-00-00"

@@ -1,8 +1,8 @@
 +++
 title = "Looney Bird Interactive (Mijjin)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 
 
 startDate = "1998-00-00"

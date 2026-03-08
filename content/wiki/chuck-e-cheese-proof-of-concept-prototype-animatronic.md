@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer"]
 citations = ["http://www.showbizpizza.com/history/index.html", "https://www.newspapers.com/image/385999798/?terms=%22Fantasy%20Forest%22&match=1", "https://www.newspapers.com/image/746118093/?terms=%22Fantasy%20Forest%22&match=1", "https://www.tapatalk.com/groups/retro_pizza_zone/portrait-cheesevention-question-t4728.html"]
 manufacturer = "Fantasy Forest"
 unitsProduced = "1"
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 +++
 The ***Chuck E. Cheese Proof of Concept Prototype* (potentially at the time still called Rick Rat) was an animatronic created by Harold Goldbrandsen and his team at *Fantasy Forest Manufacturing* in 1976 to demonstrate the concept of animatronic characters to Nolan Bushnell.**
 

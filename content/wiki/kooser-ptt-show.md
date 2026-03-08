@@ -1,8 +1,8 @@
 +++
 title = "Kooser PTT Show"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Shows"
+tags = ["Pizza Time Theatre"]
 startDate = "1978-12-00"
 endDate = "1980-05-00"
 contributors = ["ChuckEPediaIsTheBest!","BackroomsWanderer49","Anonymous","C&R lover","Lil uzi vert","BurgersNuggs445","CEC Tinley","Anonymous","Stripes","PizzaTimeTheatre1977","Ptt1977","Concordio","Anonymous","The 64th Gamer","Pizza Entertainment Fan","CECMentor"]

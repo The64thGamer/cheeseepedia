@@ -1,8 +1,8 @@
 +++
 title = "CEC History of Rock and Roll"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "HistoryofRockandRoll.avif"
 startDate = "1986-04-00"
 endDate = "1986-09-01"

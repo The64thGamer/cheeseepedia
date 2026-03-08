@@ -6,9 +6,9 @@ startDate = "1980-00-00"
 manufacturer = "Creative Engineering"
 title = "Billy Bob (Animatronic)"
 contributors = ["CECMentor", "Livelycheese", "Stripes", "Kathydra"]
-tags = ["Animatronics"]
+type = "Animatronics"
 pageThumbnailFile = "aS9HrFnwFpSUb3f1nnvc.avif"
-categories = ["ShowBiz Pizza Place"]
+tags = ["ShowBiz Pizza Place"]
 +++
 
 The Billy Bob Animatronic was one of the main {{< wiki-link "Classic Stage" >}} animatronics produced by Creative Engineering Inc. The animatronic would first be developed in April of 1980, before debuting at the {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}} on August 14th of that year.

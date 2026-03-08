@@ -15,8 +15,8 @@ citations = ["http://csjpbce.sanjoseca.gov/ecmsviewer/704/407/3407704.pdf", "htt
 contributors = ["Cyber Snout", "Pench0782", "CECBowlingGreen", "EagleScout610", "The 64th Gamer", "JJperks", "Puppetpals", "Rexburg090", "KPIZZA03", "RessiduePezzzado", "PTT1977fan", "BloxxyColas", "Ceclife13", "BurgersNuggs445", "Midwestretail", "Concordio", "WalterB", "SinStar", "PTT at you're service", "FileFickle", "ThatBoiCydalan", "CECMentor", "Jaxonia", "Chouts1", "Pizza Entertainment Fan"]
 downloadLinks = ["https://archive.org/details/pizza-time-theatre-winchester-blueprints|Building Plans (1966-1998)"]
 pageThumbnailFile = "GnoV9ijC2b_NYaIy5vFS.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***San Jose, CA (370 S Winchester Blvd)*** was the first {{< wiki-link "Pizza Time Theatre" >}} that opened on May 17th, 1977, as a part of Warner Communications Inc, and closed in February of 1985.

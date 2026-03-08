@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "Cyber Snout", "CEC Denver", "Hollyb", "Anonym
 citations = []
 credits = ["Jaret Reddick|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Voice of Jasper T. Jowls, Singing Voice of Pasqually The Chef", "Earl Fisher|Voice of Pasqually The Chef", "Ryan Hollingsworth|Voice of Zoey, Steve Waters", "Paul Taylor|Larry The Technician", "Matt Daniel|Production Coordinator, Voice of Hard Hat Hank", "Michael Hill|Studio Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Fall 2012** was the first showtape to feature Jaret Reddick as the voice of Chuck E. Cheese and was released in September 2012.
 

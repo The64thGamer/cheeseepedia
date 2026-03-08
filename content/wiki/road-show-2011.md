@@ -5,8 +5,8 @@ startDate = "2010-12-01"
 endDate = "2012-08-00"
 pageThumbnailFile = ""
 contributors = ["Ceclife13"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 **Road Show 2011** was a CD released alongside the {{< wiki-link "Holiday Party 2010 Show" >}} which featured twelve {{< wiki-link "Road Shows" >}}. 
 

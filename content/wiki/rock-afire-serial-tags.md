@@ -1,8 +1,8 @@
 +++
 title = "Rock-afire Serial Tags"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = [""]
+type = "Animatronic Preservation"
+tags = [""]
 
 
 startDate = ""

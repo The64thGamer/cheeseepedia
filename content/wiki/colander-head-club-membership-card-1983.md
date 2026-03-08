@@ -1,8 +1,8 @@
 +++
 title = "Colander Head Club Membership Card"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["ShowBiz Pizza Place"]
+type = "In-Store Merchandise"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1983-03-00"
 endDate = "1983-03-00"
 contributors = ["The 64th Gamer"]

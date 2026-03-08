@@ -10,8 +10,8 @@ credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan H
 mediaDuration = "58:02"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/January%202010%203-Stage-008.iso|3-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/January%202010%20Studio%20C-004.iso|Studio C DVD 1 & 2 ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **January 2010** is the first and only show to use the AM and PM Schedule for Studio C. The AM show reuses the {{< wiki-link "Just for Kids Show 2000" >}} segments and the PM / Existing Stage shows reuse the {{< wiki-link "CEC TV April 2005 Show" >}} segments.
 This played from January to April 2010.

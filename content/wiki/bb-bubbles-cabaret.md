@@ -1,8 +1,8 @@
 +++
 title = "B.B. Bubbles (Cabaret)"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Shows"
+tags = ["Pizza Time Theatre"]
 
 
 startDate = "1982-00-00"

@@ -16,8 +16,8 @@ remodels = ["SPT 1980's Remodel Program|0000-00-00", "SPT 1990's Remodel Program
 stages = ["Classic Stage|1981-09-30|1991-00-00", "Concept Unification Stage|1991-00-00|2006-00-00|One of 6 3-Stages in Missouri to undergo Concept Unification.|"]
 downloadLinks = []
 latitudeLongitude = ["38.77222257", "-90.26767143"]
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***St. Louis, MO (2805 Target Dr)*** was a *Chuck E. Cheese's* location that opened on September 30, 1981 as a *ShowBiz Pizza Place* with a {{< wiki-link "Classic Stage" >}}, and closed as a *Chuck E. Cheese's* with a {{< wiki-link "Concept Unification Stage" >}} at an unknown date in Spring 2006.{{< cite 1 >}}
 

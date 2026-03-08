@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese International Show 1, 2023"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-01-00"
 endDate = "2023-04-17"
 contributors = ["Cyber Snout","ShowBiz Pizza International"]

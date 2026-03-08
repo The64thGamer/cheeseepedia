@@ -1,8 +1,8 @@
 +++
 title = "Chocolate Chip Cookie Pizza (PP&W Menu Item)"
 draft = false
-tags = ["Menu Items"]
-categories = ["Pasqually's Pizza & Wings"]
+type = "Menu Items"
+tags = ["Pasqually's Pizza & Wings"]
 pageThumbnailFile = "jnjla31uln120398fsdn.avif"
 startDate = "2020-00-00"
 endDate = "2020-07-08"

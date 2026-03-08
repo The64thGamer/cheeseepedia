@@ -9,8 +9,8 @@ citations = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday200
 credits = ["Jeremy Blaido|Director", "Robert Gotcher|Production Manager", "Matt Daniel|Production Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2001ShowUpdate.img|Studio C Floppy Disk"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E's Holiday Party 2001*** was a rerelease of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2001 holiday season. This was the final rerelease of this show to reuse the original 1999 DVDs.
 ## Existing Stages Show List:

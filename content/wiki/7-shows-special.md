@@ -1,8 +1,8 @@
 +++
 title = "7 Shows Special"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1981-09-21"
 endDate = "1981-10-20"
 contributors = ["The 64th Gamer"]

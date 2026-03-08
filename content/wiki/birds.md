@@ -1,8 +1,8 @@
 +++
 title = "Birds"
 draft = false
-tags = ["Characters"]
-categories = ["ShowBiz Pizza Place"]
+type = "Characters"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

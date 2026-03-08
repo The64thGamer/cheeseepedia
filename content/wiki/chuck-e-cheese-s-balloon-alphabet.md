@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Balloon Alphabet"
 draft = false
-tags = ["Video Games"]
-categories = [""]
+type = "Video Games"
+tags = [""]
 startDate = "2011-09-20"
 endDate = "0000-00-00"
 contributors = ["ChuckE1352","The 64th Gamer"]

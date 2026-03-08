@@ -1,7 +1,7 @@
 {{- define "main" -}}
   {{- .Page.Store.Set "citationsCount" dict -}}
   {{- $layout := "Article" -}}
-  {{- with .Params.tags -}}
+  {{- with .Params.type -}}
     {{- if in . "User" -}}
       {{- $layout = "user" -}}
     {{- else if in . "Transcriptions" -}}

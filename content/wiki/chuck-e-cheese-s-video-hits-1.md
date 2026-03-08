@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Video Hits 1"
 draft = false
-tags = ["Company Media"]
-categories = ["Chuck E. Cheese's"]
+type = "Company Media"
+tags = ["Chuck E. Cheese's"]
 startDate = "2003-09-00"
 endDate = "2003-09-00"
 contributors = ["The 64th Gamer"]

@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "53:47"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/April%202002%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio-c-floppy-discs-rips/April2002VerB.img|Studio C Floppy Disk (Ver. B)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***April 2002 Show*** was a show that released in April and ran through June 2002.
 This show featured 4 segments with 8 songs.

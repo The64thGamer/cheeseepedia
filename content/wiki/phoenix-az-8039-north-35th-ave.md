@@ -17,6 +17,6 @@ remodels = ["SPT 1980's Remodel Program|1990-10-00", "Phase 2 (1993)|1996-00-00"
 stages = ["Classic Stage|1983-10-28|1990-10-00", "Concept Unification Stage|1990-11-00|2023-12-28|One of 2 3-Stages in Arizona to undergo Concept Unification. Oldest CU 3-Stage conversion show in operation from summer 2001 until being removed between late 2022 and early 2023. Last 3-Stage in Arizona from 1998 until stage removal between late 2022/early 2023. Last 3-Stage with early CU backgrounds. Was in decent condition. Chuck had rare 'Cool Chuck' outfit, stage lacked Munch's Make Believe Band Sign for some time, and Wink had the 'In Pizza We Trust' slogan.|"]
 downloadLinks = []
 latitudeLongitude = ["33.55307282", "-112.1349273"]
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place", "Chuck E. Cheese's"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place", "Chuck E. Cheese's"]
 +++

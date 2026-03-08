@@ -1,8 +1,8 @@
 +++
 title = "Dr. Quack (Cyberamic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Pizza Entertainment Fan","Cy's Junk at School"]

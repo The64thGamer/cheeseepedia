@@ -1,8 +1,8 @@
 +++
 title = "Studio C Tech Term"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronic Control Systems"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","GallaRM","Himitsu"]

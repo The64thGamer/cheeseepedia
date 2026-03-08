@@ -1,8 +1,8 @@
 +++
 title = "Fantasy Forest"
 draft = false
-tags = ["Companies/Brands"]
-categories = ["Pizza Time Theatre"]
+type = "Companies/Brands"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

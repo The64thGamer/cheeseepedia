@@ -9,8 +9,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Stephanie Nadolny|Voice o
 citations = ["https://youtu.be/AXE3B5upD3M", "https://youtu.be/JGPhPDRzQvY?t"]
 mediaDuration = "50:17"
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***The Chuck E. Cheese Christmas Special*** was released on November 20, 1995, at Chuck E. Cheese's locations.
 

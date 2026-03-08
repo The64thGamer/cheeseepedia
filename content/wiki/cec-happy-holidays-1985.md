@@ -1,8 +1,8 @@
 +++
 title = "CEC Happy Holidays 1985"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "HappyHolidays8486.avif"
 startDate = "1985-11-00"
 endDate = "1985-12-00"

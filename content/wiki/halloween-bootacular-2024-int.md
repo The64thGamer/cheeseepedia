@@ -6,8 +6,8 @@ pageThumbnailFile = "l8gAMQ23TqFae4Bb6Iy0.avif"
 contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD","Media Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 Chuck E. Cheese Halloween Boo-Tacular 2024 Show International was the fall show released in October 2024. It would be re-issued in October 2025 and play until November 2025.
 

@@ -1,8 +1,8 @@
 +++
 title = "CEC Pizza Training Document"
 draft = false
-tags = ["Documents"]
-categories = ["Chuck E. Cheese's"]
+type = "Documents"
+tags = ["Chuck E. Cheese's"]
 startDate = "2000-00-00"
 endDate = ""
 contributors = ["The 64th Gamer","CEC Tinley"]

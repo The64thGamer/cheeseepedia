@@ -1,8 +1,8 @@
 +++
 title = "Studio C 3x DVD + Floppy"
 draft = false
-tags = ["Showtape Formats"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtape Formats"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["GallaRM"]

@@ -10,8 +10,8 @@ credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan H
 mediaDuration = "50:22"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_dvd_signals/December%202008%20CEC-stage-003.iso|CEC-Stage DVD ISO w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E's Holiday Party 2008* was a show which reused the segments and intermissions of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2008 holiday season.**
 

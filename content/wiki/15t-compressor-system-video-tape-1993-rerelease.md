@@ -1,8 +1,8 @@
 +++
 title = "15T Compressor System Video Tape 1993 Rerelease"
 draft = false
-tags = ["Company Media"]
-categories = ["Chuck E. Cheese's"]
+type = "Company Media"
+tags = ["Chuck E. Cheese's"]
 startDate = "1993-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

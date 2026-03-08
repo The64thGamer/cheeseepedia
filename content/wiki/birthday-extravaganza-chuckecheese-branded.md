@@ -1,8 +1,8 @@
 +++
 title = "Birthday Extravaganza (Chuck E. Cheese Branded)"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "birthdayextravaganzacec.avif"
 credits = ["Sundance Productions|Producer","Steve White|Writer","David Wolf|Composer","David Roth|Vocal Arrangements","Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Connie Nelson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "'Happy Birthday to You' - Patty Hill and Mildred J. Hill"]
 showtapeFormats = ["Cyberamics Reel","C&R SVHS (Pre-93)","3-Stage SVHS (Pre-93)","R12 SVHS (Pre-93)"]

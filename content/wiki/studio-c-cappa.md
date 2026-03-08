@@ -1,8 +1,8 @@
 +++
 title = "Studio C Cappa"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = "2003-03-00"

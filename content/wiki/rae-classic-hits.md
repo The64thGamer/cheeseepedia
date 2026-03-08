@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer"]
 citations = ["https://youtu.be/7ekedD2jCeM?si=232zm2MzjaxbCjC6"]
 showtapeFormats = ["CEI 4-Track Reel"]
 transcriptions = ["Catch A Wave", "Hit The Cymbal"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 **RAE Classic Hits** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1981.
 

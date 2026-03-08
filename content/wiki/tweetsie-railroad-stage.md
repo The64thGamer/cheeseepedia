@@ -1,8 +1,8 @@
 +++
 title = "Tweetsie Railroad Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Creative Engineering"]
+type = "Stage Variations"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

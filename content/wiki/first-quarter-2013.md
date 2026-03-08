@@ -9,8 +9,8 @@ citations = []
 credits = ["Jaret Reddick|Voice of Chuck E. Cheese", "Jeremy Blaido|Voice of Jasper T. Jowls, Mike Manly, Singing Voice of Pasqually The Chef", "Matt Daniel|Production Coordinator, Singer ('Working For The Weekend'), Voice of Hard Hat Hank", "Michael Hill|Studio Coordinator, Nigel The Sasquatch"]
 mediaDuration = "1:33:15"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **First Quarter 2013** is the Winter show released in January 2013, featuring eight songs returning from previous shows with new vocals by Jaret Reddick. 
 

@@ -14,7 +14,7 @@ citations = ["http://www.arvadacolorado.com/Restaurants.html"]
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "_MNGnolUkMs_K07A1nO7.avif"
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

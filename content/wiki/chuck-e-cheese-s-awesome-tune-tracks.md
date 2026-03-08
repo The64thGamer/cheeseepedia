@@ -2,8 +2,8 @@
 
 title = "Chuck E. Cheese's Awesome Tune Tracks"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 startDate = "1996-00-00"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","BurgersNuggs445","The 64th Gamer"]

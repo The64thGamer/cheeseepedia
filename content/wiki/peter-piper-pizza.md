@@ -1,8 +1,8 @@
 +++
 title = "Peter Piper Pizza"
 draft = false
-tags = ["Companies/Brands"]
-categories = ["Peter Piper Pizza"]
+type = "Companies/Brands"
+tags = ["Peter Piper Pizza"]
 startDate = ""
 endDate = ""
 contributors = ["CECBowlingGreen","ChuckEPediaIsTheBest!","Anonymous","Rexburg090"]

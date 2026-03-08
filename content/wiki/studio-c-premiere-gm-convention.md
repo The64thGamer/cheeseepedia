@@ -1,8 +1,8 @@
 +++
 title = "Studio C Premiere GM Convention"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 citations = ["https://youtu.be/7kC1qclicAM?si=vx50eRfN3YnkftE-"]
 pageThumbnailFile = "StudioCPreLasVegas.avif"
 startDate = "1998-02-00"

@@ -10,8 +10,8 @@ citations = ["https://youtu.be/qCyoDhgTEts"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 mediaDuration = "1:13:07"
 transcriptions = ["January 2014 Segment 1"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***January 2014*** is a show created to play from January 1st - March 31st 2014 featuring six songs.
 

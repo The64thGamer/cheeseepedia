@@ -6,8 +6,8 @@ endDate = "0000-00-00"
 pageThumbnailFile = "kbpqd5OjcVfHq3W6WrYz.avif"
 contributors = ["Nostalgia Cow", "BurgersNuggs445", "Randomguyfan22 Maker"]
 citations = []
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 +++
 The **CEC Pop Art Head (CEC Décor)** was a decoration created for Chuck E. Cheese's in 1998
 

@@ -1,8 +1,8 @@
 +++
 title = "Fall Show 2013"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2013-09-01"
 endDate = "2013-12-01"
 contributors = ["The 64th Gamer","Cyber Snout","John95","Anonymous","Ceclife13"]

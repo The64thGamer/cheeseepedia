@@ -8,8 +8,8 @@ contributors = ["Cyber Snout"]
 citations = ["https://www.youtube.com/watch?v=R78H7Hh9K2A"]
 mediaDuration = "4:44"
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)", "R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)", "Studio C 4x Laserdisc + Files", "Studio C 3x DVD + Floppy"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 \*\*Havin' A Party\*\* was a live show that was available from September 1992 through December 2000. In January 2001 the show would be rerecorded with the current voice cast and new TV visuals. 
 

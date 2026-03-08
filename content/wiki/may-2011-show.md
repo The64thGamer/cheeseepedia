@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "1:30:29"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/MAY11.EXE|Partial Studio C Floppy Disk Rip", "https://archive.org/download/studio_c_showtape_dvds/May%202011%20Studio%20C.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/May%202011%203-Stage-002.iso|3-Stage DVD ISO w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The **May 2011 Show** was the spring & summer show for the year of 2011, and the first of two shows to feature Robert Gotcher as the voice of Jasper following Jeremy Blaido's brief departure from the role. It featured eight new songs and ran through August 2011.
 

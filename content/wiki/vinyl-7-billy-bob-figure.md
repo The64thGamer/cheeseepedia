@@ -9,8 +9,8 @@ citations = ["https://www.instagram.com/justinishmael", "https://www.thetoychron
 manufacturer = "Mighty Jaxx"
 wholesalePrice = "$100 - $150"
 dimensions = "7\" - 11\""
-tags = ["Products"]
-categories = ["Creative Engineering"]
+type = "Products"
+tags = ["Creative Engineering"]
 +++
 ## History
 

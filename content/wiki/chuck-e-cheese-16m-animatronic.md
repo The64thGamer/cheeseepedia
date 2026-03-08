@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese 16m (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronics"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = ""

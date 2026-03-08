@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Live"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 startDate = "1987-05-09"
 endDate = "1990-12-00"
 contributors = ["The 64th Gamer","Cyber Snout","CEC Tinley","Cy's Junk at School","Ceclife13"]

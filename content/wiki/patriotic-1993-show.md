@@ -9,8 +9,8 @@ citations = ["https://www.youtube.com/watch?v=TiJjjaQ4rn4"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = []
 transcriptions = ["CEC TV News Safety"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Patriotic 1993 Show* was the final rerelease of the segments from {{< wiki-link "CEC American Pride" >}}.**
 

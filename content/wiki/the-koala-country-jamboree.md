@@ -9,8 +9,8 @@ citations = ["https://www.abc.net.au/news/2021-01-25/dreamworld-koala-country-ja
 manufacturer = "Hofmann Figuren"
 unitsProduced = "1"
 alsoKnownAs = ["Koala Country Jamboree"]
-tags = ["Animatronic Shows"]
-categories = ["Hofmann Figuren"]
+type = "Animatronic Shows"
+tags = ["Hofmann Figuren"]
 +++
 The Koala Country Show was a show from Dreamland Australia, built by Hofmann Figuren, that ran as a show attraction, opening from 1982 and closing in 2002. This show was one of the three Hofmann shows that were inspired by the Country Bear Jamboree.
 This show would be placed in a Country Bear Jamboree-inspired building named "The Gum Tree Gully Hall", the building would have a country and frontier-like exterior, just like the Country Bear Jamboree.

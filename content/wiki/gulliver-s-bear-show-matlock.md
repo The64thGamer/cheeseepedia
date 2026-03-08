@@ -1,8 +1,8 @@
 +++
 title = "Gulliver's Bear Show (Matlock)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 startDate = "1995-06-07"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Nebbytales","Letterstolooneybird"]

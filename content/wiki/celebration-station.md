@@ -1,8 +1,8 @@
 +++
 title = "Celebration Station"
 draft = false
-tags = ["Companies/Brands"]
-categories = ["Celebration Station"]
+type = "Companies/Brands"
+tags = ["Celebration Station"]
 startDate = "1982-05-24"
 endDate = ""
 contributors = ["BigCDataFinder "]

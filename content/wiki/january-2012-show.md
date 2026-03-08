@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "1:18:41"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/compress/january-show-2012-unused|Unused Original Audio", "https://archive.org/download/3stage_dvd_signals/January%202012%203-Stage-004.iso|3-Stage DVD ISO w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **January 2012** is a compilation show featuring eight reused songs from 1999 - 2011 alongside newly recorded dialogue.
 This was created to play from January 1, 2012 - March 31, 2012, though was valid as a backup show until the end of 2012.{{< cite 1 >}} This was the final showtape to have Robert Gotcher involved in any capacity, though much of his work was altered or removed in the final release.

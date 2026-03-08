@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Bob Coleslaw", "Annagrey Wi
 mediaDuration = "1:33:51"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Pre-93)", "3-Stage SVHS (Post-93)", "R12 SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Jan2005.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/January%202005%20Studio%20C-002.iso|Studio C DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***January 2005 Show*** was the first show released in 2005. This show was used to promote CEC's Winter 1-derland event.
 

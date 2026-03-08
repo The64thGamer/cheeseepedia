@@ -1,8 +1,8 @@
 +++
 title = "Winchester PTT Show"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Shows"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-05-17"
 endDate = "1981-00-00"
 contributors = ["PokeTogeKiss","BackroomsWanderer49","Lil uzi vert","The 64th Gamer","Anonymous","Stripes"]

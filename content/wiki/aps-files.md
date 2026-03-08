@@ -2,8 +2,8 @@
 
 title = "APS Files"
 draft = false
-tags = ["Showtape Formats"]
-categories = []
+type = "Showtape Formats"
+tags = []
 startDate = ""
 endDate = ""
 contributors = ["Himitsu","The 64th Gamer","CoolerDude","Ceclife13"]

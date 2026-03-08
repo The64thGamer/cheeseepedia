@@ -6,8 +6,8 @@ endDate = "1993-00-00"
 pageThumbnailFile = "4AHaZAT6G5LA4CbzTY89.avif"
 contributors = ["CECBowlingGreen", "The 64th Gamer", "Anonymous", "JamesLemony", "Pench0782", "ChuckEPediaIsTheBest!", "Anonymous", "CEC Tinley", "Charlesiiikingofengland", "Anonymous", "Ptt1977", "Tux Chuck", "Pizza Entertainment Fan", "CECMentor", "Caydenpedia"]
 citations = ["https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf"]
-tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+type = "Stage Variations"
+tags = ["Pizza Time Theatre"]
 credits = ["Manufacturer (Kooser Rd. Prototype)|Pete's Woodworking Inc."]
 +++
 The ***Balcony Stage*** (known internally as ***The Stage***) was a cyberamics stage type used at {{< wiki-link "Pizza Time Theatre" >}} locations in replacement for {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}. It was installed from 1980 to 1986.

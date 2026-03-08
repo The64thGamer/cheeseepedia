@@ -1,8 +1,8 @@
 +++
 title = "Star Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "2010-04-00"
 endDate = "2012-08-00"
 contributors = ["BurgersNuggs445","The 64th Gamer","CEC Tinley"]

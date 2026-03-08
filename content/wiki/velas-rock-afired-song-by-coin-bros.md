@@ -1,8 +1,8 @@
 +++
 title = "Velas * Rock-afired Song by Coin Bros"
 draft = false
-tags = ["Showtapes"]
-categories = []
+type = "Showtapes"
+tags = []
 startDate = "2021-11-17"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

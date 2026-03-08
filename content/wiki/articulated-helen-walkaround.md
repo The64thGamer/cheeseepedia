@@ -1,8 +1,8 @@
 +++
 title = "Articulated Helen Walkaround"
 draft = false
-tags = ["Costumed Characters"]
-categories = ["Chuck E. Cheese's","Chuck E. Cheese in the Galaxy 5000"]
+type = "Costumed Characters"
+tags = ["Chuck E. Cheese's","Chuck E. Cheese in the Galaxy 5000"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ShowBizMidwest","BurgersNuggs445","Anonymous","OnionMastori"]

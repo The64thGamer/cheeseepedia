@@ -6,8 +6,8 @@ endDate = "2013-12-31"
 pageThumbnailFile = "cecoldmac2005.avif"
 contributors = ["Ceclife13"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 ***'Old MacDonald'*** was a road show which was first released in September 2005 on the {{< wiki-link "Road Show 2005" >}} CD and featured a cover of the song ‘Old MacDonald’. In January 2007, it would be released for Studio C and Existing Stages along with a choreography video. It would stop being included in showtapes after April 2009, and wouldn’t return until 2010. It would continue to be included on Road Show CDs after its introduction, with the final to include it being {{< wiki-link "Road Show 2012" >}}, which could play until December 31, 2013. It would be replaced in January 2013 with {{< wiki-link "Old MacDonald 2013" >}}
 

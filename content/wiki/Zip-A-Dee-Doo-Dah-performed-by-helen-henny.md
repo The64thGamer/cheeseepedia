@@ -1,8 +1,8 @@
 +++
 title = "Zip-A-Dee-Doo-Dah Performed by Helen Henny"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2024-11-04"
 endDate = "2024-11-04"
 contributors = ["Cyber Snout"]

@@ -6,8 +6,8 @@ endDate = "2014-00-00"
 pageThumbnailFile = "zeDQg0B95yZSikNNF_YX.avif"
 contributors = ["ChuckEPediaIsTheBest!", "Ceclife13"]
 citations = ["https://youtu.be/FYy1xFReGF0", "https://youtu.be/-Z1j_aG4NHs", "https://youtu.be/sweTilaa8Ao", "https://showbizpizza.com/info/documents/cec/cec_dept18-2013-01.pdf", "https://archive.org/download/thatsentertainment_202507/That_s%20Entertainment%20-%20Fall%202013.pdf"]
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Road Shows*** (also known as ***Chuck E.'s Road Show*** and ***Portable Lives***) was an initiative rolled out nationwide in March of 2000 to allow live shows to be performed outside of the showroom through the use of a boombox, with new CDs released frequently. The last Road Show CD would be released in 2014.
 

@@ -7,8 +7,8 @@ contributors = ["The 64th Gamer", "Ceclife13", "CyberSnout"]
 pageThumbnailFile = "IMG_8531.avif"
 citations = ["https://archive.org/details/cecroadshowboomboxcds"]
 mediaDuration = "8:35"
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++ 
 **Chuck E. Cheese's Portable Live Show** was the first Road Show CD, which was released in April 2000 and featured two {{< wiki-link "Road Shows" >}}.
 

@@ -1,5 +1,5 @@
 {{- $currentTitle := .Title -}}
-{{- $tags := .Params.tags | default (slice) -}}
+{{- $tags := .Params.type | default (slice) -}}
 {{- $paramName := "" -}}
 
 {{- if in $tags "Animatronics" -}}

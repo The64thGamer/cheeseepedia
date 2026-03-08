@@ -1,8 +1,8 @@
 +++
 title = "Pizza Time Theatre Showtape"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 transcriptions = ["Bye Bye Blackbird (Demo)","The Can-Can (Demo)","Pasqually Show (Demo)","Cocktails for Two (Demo)","How Much Is That Doggy in the Window (Demo)"]
 startDate = "1977-05-01"
 endDate = "1977-08-12"

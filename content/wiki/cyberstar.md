@@ -1,8 +1,8 @@
 +++
 title = "Cyberstar"
 draft = false
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's","ShowBiz Pizza Place"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's","ShowBiz Pizza Place"]
 pageThumbnailFile = "DGCpvSYKLghz1h1Nc7nj.avif"
 startDate = "1987-01-00"
 endDate = "1990-00-00"

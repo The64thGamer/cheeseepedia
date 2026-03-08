@@ -1,8 +1,8 @@
 +++
 title = "2-Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = "1992-02-00"

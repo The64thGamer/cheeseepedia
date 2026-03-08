@@ -1,8 +1,8 @@
 +++
 title = "Chuck 2005 (Costume Head)"
 draft = false
-tags = ["Costumed Characters"]
-categories = ["Chuck E. Cheese's"]
+type = "Costumed Characters"
+tags = ["Chuck E. Cheese's"]
 startDate = "2005-00-00"
 endDate = "0000-00-00"
 contributors = ["Showtimeinc","CEC Tinley","Anonymous","The 64th Gamer"]

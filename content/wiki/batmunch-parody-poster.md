@@ -6,8 +6,8 @@ endDate = "0000-00-00"
 pageThumbnailFile = ""
 contributors = ["Capitanyoda20", "Randomguyfan22 Maker"]
 citations = ["https://www.youtube.com/watch?v=0y042y5ZBRk", "https://www.showbizpizza.com/photos/cec/tx_houston/02.jpg", "https://www.youtube.com/watch?v=irGg1xzgL5E"]
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 +++
 **BatMunch** was a poster created for Showbiz Pizza and Chuck E. Cheese in 1990.
 

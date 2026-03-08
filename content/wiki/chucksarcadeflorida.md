@@ -13,7 +13,7 @@ franchisees = []
 remodels = ["2025 Chuck's Arcade Remodel|2025-07-00"]
 downloadLinks = []
 latitudeLongitude = ["28.3293893", "-81.5978204"]
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Kissimmee, FL (7700 Westgate Blvd)*** is a Chuck's Arcade that opened in July of 2025 with a unique display featuring a display for an early retrofitted {{< wiki-link "Cybearmics" >}} band called The Wizbangs.

@@ -9,8 +9,8 @@ citations = ["https://archive.org/details/aps-yellow-case"]
 credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlissa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually the Chef"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)", "R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "2:41"
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 **Birthday Star '92** was the first released version of Birthday Star, which was released in March 1992.
 

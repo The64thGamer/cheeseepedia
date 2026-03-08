@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Or Bust"
 draft = false
-tags = ["Arcades and Attractions"]
-categories = ["Chuck E. Cheese's"]
+type = "Arcades and Attractions"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

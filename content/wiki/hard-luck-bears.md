@@ -1,8 +1,8 @@
 +++
 title = "Hard Luck Bears"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Creative Engineering"]
+type = "Animatronic Shows"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["Anonymous","Anonymous","BigCDataFinder ","Anonymous","Anonymous","Anonymous","Zlblosser23"]

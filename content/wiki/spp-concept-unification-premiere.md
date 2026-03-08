@@ -10,8 +10,8 @@ credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Che
 showtapeFormats = ["3-Stage SVHS (Pre-93)"]
 transcriptions = ["CU Premiere Segment 1", "CU Premiere Segment 2", "CU Premiere Segment 3"]
 alsoKnownAs = ["260-0621-90(C) S. P. T. Inc.SPP Concept Unification PremiereSerial #00143 Deck - 1506/21/90 - Master CYBERSTAR"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***SPP Concept Unification Premiere Show*** was the first showtape released for 3-Stage shows, which introduced Munch's Make Believe Band. It would be played at each store after undergoing Concept Unification until 1993.
 

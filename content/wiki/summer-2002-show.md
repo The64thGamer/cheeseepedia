@@ -10,8 +10,8 @@ credits = ["Jeremy Blaido|Director", "Robert Gotcher|Production Manager", "Matt 
 mediaDuration = "35:22"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Summer2002ShowUpgrade.img|Studio C Floppy Disk"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Summer 2002 Show*** was a rerelease of {{< wiki-link "Summertime 2001" >}}. This show is the same as the previous release with the exception of Segment 2, which was edited to remove footage of the World Trade Center.
 

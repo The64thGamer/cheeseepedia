@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch, Pasqually The Ch
 mediaDuration = "1:17:48"
 showtapeFormats = ["Studio C 4x Laserdisc + Files", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_svhs_signals/January%201999%20CEC-Stage-005.iso|CEC-Stage SVHS w/ Signals", "https://archive.org/download/3stage_post_93_svhs_signals/January%201999%203-Stage-005.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **January 1999 (Terrific Time Travel)** was released in January 1999 and ran until April 1999.
 This show featured five segments, each themed around a different decade from the second half of the 20th century.

@@ -15,7 +15,7 @@ citations = []
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "2wbk5POp46EaPNLH5IcS.avif"
-tags = ["Cancelled Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Cancelled Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

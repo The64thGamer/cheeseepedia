@@ -5,8 +5,8 @@ endDate = "2025-10-00"
 pageThumbnailFile = "show425int.avif"
 contributors = ["Cyber Snout"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Chuck E. Cheese Show 4 2025 International*** released in September 2025. The intermissions are unknown for this showtape currently. 
 

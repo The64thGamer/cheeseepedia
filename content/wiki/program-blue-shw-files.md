@@ -5,8 +5,8 @@ startDate = ""
 endDate = ""
 contributors = ["Himitsu", "The 64th Gamer", "BattleXGamer3"]
 citations = ["Deobfuscation of shw files that have version number V5.01"]
-tags = ["Showtape Formats"]
-categories = ["Creative Engineering"]
+type = "Showtape Formats"
+tags = ["Creative Engineering"]
 +++
 **Program Blue .shw** files are a custom, proprietary format used by the {{< wiki-link "Program Blue" >}} animatronics control software.
 

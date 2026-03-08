@@ -1,8 +1,8 @@
 +++
 title = "Willie Rabbit (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 
 
 startDate = "1976-00-00"

@@ -3,8 +3,8 @@ title = "Captain Andy"
 contributors = ["Kathydra"]
 citations = ["https://youtu.be/N9dm8NZh8PQ?si=a4jhzaqZWES4_Dxy&t=363", "https://youtu.be/LFsfBNuCduc?si=UhR_oeAP1CcmU4WY", "https://web.archive.org/web/20210419204732/https://casetext.com/case/whelan-v-abell-4", "https://www.memoriesofthorpepark.co.uk/cap'nandy's.html"]
 credits = []
-tags = ["Animatronics"]
-categories = ["Unknown Manufacturers"]
+type = "Animatronics"
+tags = ["Unknown Manufacturers"]
 +++
 
 ***Captain Andy*** is the character that was named after the show.

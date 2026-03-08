@@ -1,8 +1,8 @@
 +++
 title = "3-Stage Command Format"
 draft = false
-tags = ["Showtape Formats"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtape Formats"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Ls2018"]

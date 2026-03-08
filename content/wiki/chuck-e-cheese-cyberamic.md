@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese (Cyberamic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","SonicFazbear","Anonymous","ChuckECool","Jaxon11","ChuckEPediaIsTheBest!","Anonymous","CEC Tinley","Anonymous","BoyInCharge55","Saan1ty","CorrectorMan","ShowBizMidwest","Chez","Pizza Entertainment Fan","The 64th Gamer","CECMentor","Rooflunar","CEC1988","StarToday77"]

@@ -1,8 +1,8 @@
 +++
 title = "World of Music (Balcony Stage Theme)"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+type = "Stage Variations"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","BigCDataFinder ","Sponch man","CECMentor"]

@@ -1,8 +1,8 @@
 +++
 title = "The Muppets Traffic Safety Show"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Advanced Animations"]
+type = "Animatronic Shows"
+tags = ["Advanced Animations"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

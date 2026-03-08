@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Programmer, Voice of Chuck E. Cheese, Mr. Munch, Fly"
 mediaDuration = "46:28"
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)", "C&R SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/April%201997%203-stage-009.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese's 20th Anniversary*** was a showtape released on April 1st, 1997, to celebrate the 20th anniversary of Chuck E. Cheese's.
 This show ran from April 1997 to July 1997.

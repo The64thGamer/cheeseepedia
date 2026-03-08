@@ -9,8 +9,8 @@ citations = ["<a href=\"https://www.lisepedia.se/attraktioner/ap-o-teket\">https
 manufacturer = "Hofmann Figuren GmbH"
 unitsProduced = "2"
 alsoKnownAs = ["Die Klimbimski Affentheater Show (Phantasialand)", "Hellendoorn Magical Monkey Show", "Ap-O-Teket / Jubel i busken (Liseberg)", "Variety Show (Edenlandia)"]
-tags = ["Animatronic Shows"]
-categories = ["Hofmann Figuren"]
+type = "Animatronic Shows"
+tags = ["Hofmann Figuren"]
 +++
 The *Monkey Show* is an animatronic show type that has been manufactured by Hofmann Figuren since 1977. These ensemble shows are best known to be the first of Hofmann's animatronic creations, as well as the first animatronic shows to debut outside of the United States.
 

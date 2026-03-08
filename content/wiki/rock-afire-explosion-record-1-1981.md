@@ -1,8 +1,8 @@
 +++
 title = "Rock-afire Explosion Record 1 (1981)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["ShowBiz Pizza Place"]
+type = "In-Store Merchandise"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1981-07-16"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

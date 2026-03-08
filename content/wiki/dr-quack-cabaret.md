@@ -1,8 +1,8 @@
 +++
 title = "Dr. Quack (Cabaret)"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Shows"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

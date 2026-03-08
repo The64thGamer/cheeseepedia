@@ -8,8 +8,8 @@ contributors = ["Ceclife13"]
 citations = []
 credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Holiday 2006** is a rerelease of {{< wiki-link "Holiday 2004" >}} which played throughout December 2006.
 

@@ -1,8 +1,8 @@
 +++
 title = "Rain, Rain (Commercial)"
 draft = false
-tags = ["Commercials"]
-categories = ["Chuck E. Cheese's"]
+type = "Commercials"
+tags = ["Chuck E. Cheese's"]
 startDate = "2002-03-21"
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445"]

@@ -10,8 +10,8 @@ citations = ["https://youtu.be/51eVZREgYZg"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 transcriptions = ["July 1991 Segment 1", "July 1991 Segment 2", "CEC TV News - Munch's Incredible Scoop", "July 1991 Segment 3"]
 alsoKnownAs = ["260-0703-91 (C) S.P.T Inc. CU GAMES/WAVE BDAY (3 STAGE) Serial #00112 Deck - 7 07/09/91 - Master CYBERSTAR"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Games** is a summer-themed showtape that played at Chuck E. Cheese's in 1991.
 

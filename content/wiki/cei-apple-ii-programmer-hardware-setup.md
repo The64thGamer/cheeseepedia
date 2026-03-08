@@ -1,8 +1,8 @@
 +++
 title = "CEI Apple II Programmer Hardware Setup"
 draft = false
-tags = ["Programming Systems"]
-categories = ["Creative Engineering"]
+type = "Programming Systems"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

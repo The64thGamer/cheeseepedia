@@ -14,8 +14,8 @@ citations = ["https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=13263
 contributors = []
 downloadLinks = []
 pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Marinwood / San Rafael, CA (175 Marinwood Ave)*** was a Pizza Time Theatre that lasted from May 2nd, 1983 to 1995.

@@ -1,8 +1,8 @@
 +++
 title = "The Beagles"
 draft = false
-tags = ["Characters"]
-categories = ["Pizza Time Theatre"]
+type = "Characters"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

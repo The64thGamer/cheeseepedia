@@ -1,8 +1,8 @@
 +++
 title = "Waldo The Animated Talking Weber Wonder Dog (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Presentations"]
+type = "Animatronics"
+tags = ["Creative Presentations"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Lelmaster","Newbie editor"]

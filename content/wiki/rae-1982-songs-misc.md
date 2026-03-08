@@ -1,8 +1,8 @@
 +++
 title = "RAE 1982 Songs Misc"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "40c7uaejkmojilod.avif"
 startDate = "1982-00-00"
 endDate = "0000-00-00"

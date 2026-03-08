@@ -8,8 +8,8 @@ contributors = ["Ceclife13"]
 citations = []
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "50:17"
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E.'s Magical Holiday Celebration*** was a show that was released in December 1997 at Chuck E. Cheese's locations. This show is a rerelease of {{< wiki-link "Chuck E's Magical Holiday Celebration" >}}.
 

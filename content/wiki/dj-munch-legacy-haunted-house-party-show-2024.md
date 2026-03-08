@@ -6,8 +6,8 @@ contributors = ["Cyber Snout"]
 pageThumbnailFile = "djmunchbootacular.avif"
 citations = []
 showtapeFormats = ["Legacy Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***DJ Munch's Haunted House Party Show 2024*** was the fall show that would play after 6 pm. It was created to go along with the Boo-tacular showtape during the day. This show ran from September 30, 2024 - November 3, 2024.
 

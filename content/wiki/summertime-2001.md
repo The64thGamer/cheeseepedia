@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "35:22"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/June%202001%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals", "https://archive.org/download/studio-c-floppy-discs-rips/July2001Upgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/July%202001%20Studio%20C.iso|Studio C DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Summertime 2001*** was a summer themed show released in July 2001 which ran through August 2001.
 This show featured all of the songs and intermissions from {{< wiki-link "Summertime 2000" >}} alongside the addition of a new segment and two more interactive intermissions for Studio C.

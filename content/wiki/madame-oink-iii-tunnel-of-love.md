@@ -7,8 +7,8 @@ pageThumbnailFile = ""
 contributors = ["Luigigamin212", "Ceclife13"]
 credits = ["John Widelock|Voice of Chuck E. Cheese", "Paula Mulcahy|Voice of Madame Oink", "Scott Wilson|Voice of Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls"]
 citations = ["https://www.youtube.com/playlist?list=PLz0bp-Ui5yPBcusD39Dpo6aLj4SA2-dUK"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 ***Madame Oink III - 'Tunnel of Love'*** is the third showtape featuring the guest character *Madame Oink.*
 

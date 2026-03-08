@@ -1,8 +1,8 @@
 +++
 title = "Winchester Madam Oink (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1978-02-00"
 endDate = "1978-10-00"
 contributors = ["WalterB","Ptt1977","Concordio","CoolerDude"]

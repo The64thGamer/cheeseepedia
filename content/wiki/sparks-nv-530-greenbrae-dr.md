@@ -15,8 +15,8 @@ citations = ["https://archive.org/details/the-pizza-times-newsletters/1979%20The
 contributors = ["The 64th Gamer"]
 downloadLinks = ["https://archive.org/download/95-8431-bz-plans/-%3DFloorplan%20Archive%3D-/Pizza%20Time%20Theatre/Nevada/1_1_1982%20-%20MICROFILM%20PLANS%20PIZZA%20TIME%20-%20530%20-%20GREENBRAE%20DR%20-%20%20-.pdf|May 1982 Remodel Plans"]
 pageThumbnailFile = "b6po1sqlubkf3n9x.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Sparks, NV (530 Greenbrae Dr)*** is the seventh Pizza Time Theatre, the first to open outside of California, and the first franchised location, opening on December 20th, 1979, and lasting until 1984.{{< cite 1 >}}{{< cite 4 >}}

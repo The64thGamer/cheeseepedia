@@ -6,8 +6,8 @@ endDate = "0000-00-00"
 stages = []
 latitudeLongitude = ["22.3073946","114.1847039"]
 pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 citations = ["https://m.hkgolden.com/thread/6525046/page/13","https://hk.centanet.com/estate/en/Whampoa%20Garden/3-MZDIIHHAHN"]
 +++

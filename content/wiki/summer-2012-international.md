@@ -1,8 +1,8 @@
 +++
 title = "Summer 2012 (International)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2012-07-01"
 endDate = "2012-08-31"
 contributors = ["Cyber Snout", "Ceclife13"]

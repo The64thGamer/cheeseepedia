@@ -9,8 +9,8 @@ credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Che
 citations = []
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 transcriptions = ["March 1991 Segment 1", "March 1991 Segment 2", "March 1991 Segment 3"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Future** is a showtape that played from March 14 - May 6, 1991, at Chuck E. Cheese's. 
 

@@ -6,8 +6,8 @@ startDate = "2007-12-00"
 endDate = "2008-06-00"
 contributors = ["The 64th Gamer", "Cyber Snout", "Ceclife13"]
 citations = []
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "Chuck-cheese-january-2012-dvd-show_1_84052c7efa2d1c75f6d91abb2cdff3b4.avif"
 +++
 **Road Show 2008** was a Road Show CD released alongside the {{< wiki-link "Holiday 2007" >}} show which featured eleven {{< wiki-link "Road Shows" >}}.

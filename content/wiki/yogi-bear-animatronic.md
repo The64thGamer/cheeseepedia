@@ -7,8 +7,8 @@ pageThumbnailFile = "TAeX6o4lvI9OgFO0FSV4.avif"
 contributors = ["Kathydra","Cyber Snout"]
 citations = ["https://www.showbizpizza.com/info/documents/spt/spt_yogi_cpi-quote.pdf","https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_installation.pdf","https://www.newspapers.com/article/omaha-world-herald/114529089/"]
 storeNumber = ""
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronics"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 The Yogi Bear Animatronic was a retrofited {{< wiki-link "Rolfe Dewolfe & Earl Schmerle (Animatronic)" >}}

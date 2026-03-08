@@ -1,8 +1,8 @@
 +++
 title = "Dog (Mr. Munch Retrofit)"
 draft = false
-tags = ["Retrofits"]
-categories = ["Unknown Manufacturers"]
+type = "Retrofits"
+tags = ["Unknown Manufacturers"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["StudioC","BurgersNuggs445","Pizza Entertainment Fan"]

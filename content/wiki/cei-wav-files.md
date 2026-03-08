@@ -1,8 +1,8 @@
 +++
 title = "CEI .wav Files"
 draft = false
-tags = ["Showtape Formats"]
-categories = []
+type = "Showtape Formats"
+tags = []
 startDate = ""
 endDate = ""
 contributors = ["BattleXGamer3","The 64th Gamer"]

@@ -1,8 +1,8 @@
 +++
 title = "Navori System"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Control Systems"
+tags = ["Pizza Time Theatre"]
 startDate = "2022-05-00"
 endDate = ""
 contributors = ["The 64th Gamer","Bowling for Cheese","Cyber Snout","Anonymous","Ceclife13","Cy's Junk at School"]

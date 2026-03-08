@@ -10,8 +10,8 @@ credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan H
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_dvd_signals/September%202008%20CEC-Stage-005.ISO|CEC-Stage DVD ISO w/ Signals"]
 mediaDuration = "1:01:11"
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Best of CEC TV 2008*** is a showtape released in September 2008 that compiled various songs and intermissions from previous showtapes. This show was able to be used as an emergency backup through December 2012.
 

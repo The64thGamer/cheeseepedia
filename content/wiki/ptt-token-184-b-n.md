@@ -1,8 +1,8 @@
 +++
 title = "PTT Token 184 (B, N)"
 draft = false
-tags = ["Tokens"]
-categories = ["Pizza Time Theatre"]
+type = "Tokens"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

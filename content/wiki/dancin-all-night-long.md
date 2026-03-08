@@ -6,8 +6,8 @@ endDate = "2010-11-30"
 pageThumbnailFile = "cecdancinallnightlive.avif"
 contributors = ["Ceclife13"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Robert Gotcher - Director, Show Announcer", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 ***'Dancin' All Night Long'*** was a generic live show which was released alongside the {{< wiki-link "April 2009 Show" >}} and could be played through November 2010. 
 

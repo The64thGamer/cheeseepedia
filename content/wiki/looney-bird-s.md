@@ -2,8 +2,8 @@
 
 title = "Looney Bird's"
 draft = false
-tags = ["Companies/Brands"]
-categories = ["Creative Engineering"]
+type = "Companies/Brands"
+tags = ["Creative Engineering"]
 pageThumbnailFile = "LBvertical.avif"
 startDate = ""
 endDate = ""

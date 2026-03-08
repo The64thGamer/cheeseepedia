@@ -15,8 +15,8 @@ citations = ["https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o
 contributors = ["Cyber Snout"]
 downloadLinks = []
 pageThumbnailFile = "sterlingheightsexterior2025.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++
 ***Sterling Heights, MI (13745 Lakeside Circle) #103*** originally opened up on February 2, 2000, as a Chuck E. Cheese's {{< cite 1 >}} and is still open today as a Chuck E. Cheese.

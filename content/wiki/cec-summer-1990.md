@@ -1,8 +1,8 @@
 +++
 title = "CEC Summer 1990 (3 Skits)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "1990-04-17"
 endDate = "1990-06-00"
 contributors = ["DerekCat","The 64th Gamer","Ceclife13"]

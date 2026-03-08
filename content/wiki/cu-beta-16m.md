@@ -2,8 +2,8 @@
 
 title = "CU Beta 16M"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "2020-07-06"
 endDate = "2024-08-25"
 contributors = ["CECBowlingGreen","ShowBizMidwest","Cyber Snout","Anonymous","StudioC","ChuckEPediaIsTheBest!","RedaCEC","Bowling for Cheese","CEC Tinley","CorrectorMan","Stripes","BurgersNuggs445","Caydenpedia"]

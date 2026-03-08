@@ -1,8 +1,8 @@
 +++
 title = "Warren, MI Family Album Technical Documents (1984)"
 draft = false
-tags = ["Documents"]
-categories = ["Pizza Time Theatre"]
+type = "Documents"
+tags = ["Pizza Time Theatre"]
 startDate = "1984-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

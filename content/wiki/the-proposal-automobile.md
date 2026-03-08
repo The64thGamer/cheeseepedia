@@ -1,8 +1,8 @@
 +++
 title = "The Proposal / Automobile"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 
 
 startDate = "2012-09-23"

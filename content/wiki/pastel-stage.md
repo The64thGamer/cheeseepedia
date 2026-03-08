@@ -1,8 +1,8 @@
 +++
 title = "Pastel Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Stage Variations"
+tags = ["ShowBiz Pizza Place"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

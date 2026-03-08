@@ -21,7 +21,7 @@ downloadLinks = [
   "https://archive.org/download/2115-jericho-tpke-plans/2115_Jericho_Tpke_Plans.pdf|2003-2004 Site Remodel Plans"
 ]
 pageThumbnailFile = "CommackNY-1-Exterior.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

@@ -1,8 +1,8 @@
 +++
 title = "Family Vision (Nov 1987)"
 draft = false
-tags = ["Family Vision"]
-categories = ["ShowBiz Pizza Place"]
+type = "Family Vision"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1987-11-00"
 endDate = "1987-12-00"
 contributors = ["DerekCat"]

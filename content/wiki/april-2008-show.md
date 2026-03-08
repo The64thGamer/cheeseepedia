@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "1:04:14"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_dvd_signals/April%202008%20CEC%20Stage-008.iso|CEC-Stage DVD ISO w/ Signals", "https://archive.org/download/3stage_dvd_signals/April%202008%203-stage-005.iso|3-Stage DVD ISO w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***April 2008 Show*** is a showtape featuring nine songs that played through the spring of 2008.
 

@@ -7,8 +7,8 @@ pageThumbnailFile = "p9yMQXap3Aqioz4kv3x8.avif"
 contributors = ["The 64th Gamer", "Anonymous", "CEC Tinley", "Cy's Junk at School", "Animatronicbrainrot", "CECMentor", "Livelycheese", "Stripes"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/spp/spp_memos_84.pdf\">https://www.showbizpizza.com/info/documents/spp/spp_memos_84.pdf</a>"]
 manufacturer = "Creative Engineering"
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronics"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 The ***Beach Bear Animatronic*** (Also the ***3-Stage Jasper T. Jowls Animatronic***) was one of the main *Rock-afire Explosion* animatronics produced by *Creative Engineering Inc.* for *ShowBiz Pizza Place* restaurants.

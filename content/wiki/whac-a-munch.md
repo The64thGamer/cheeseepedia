@@ -1,8 +1,8 @@
 +++
 title = "Whac-A-Munch"
 draft = false
-tags = ["Arcades and Attractions"]
-categories = ["Chuck E. Cheese's","Pizza Time Theatre"]
+type = "Arcades and Attractions"
+tags = ["Chuck E. Cheese's","Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

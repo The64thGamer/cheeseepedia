@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Stephanie Nadolny|Voice o
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "55:03"
 downloadLinks = ["https://archive.org/download/chuck-e-cheese-1995-singles-stereo-mixes/I_Wont_Give_Up.mp3|'I Won't Give Up' Stereo Mix"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Don't Stop Thinking About Tomorrow*** was a show released in April of 1995 at Chuck E. Cheese's locations.
 

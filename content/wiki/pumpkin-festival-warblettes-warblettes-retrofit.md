@@ -1,8 +1,8 @@
 +++
 title = "Pumpkin Festival Warblettes (Warblettes Retrofit)"
 draft = false
-tags = ["Retrofits"]
-categories = ["Unknown Manufacturers"]
+type = "Retrofits"
+tags = ["Unknown Manufacturers"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","Pizza Entertainment Fan"]

@@ -10,8 +10,8 @@ credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Che
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "57:15"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/September%201993%203-Stage-013.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 transcriptions = ["September 1993 Segment 1", "September 1993 Segment 2", "September 1993 Segment 3"]
 alsoKnownAs = []
 +++

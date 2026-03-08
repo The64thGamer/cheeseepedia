@@ -1,8 +1,8 @@
 +++
 title = "Blue Robotoon (Billy Wilbur Retrofit)"
 draft = false
-tags = ["Retrofits"]
-categories = ["Villalobos Producciones"]
+type = "Retrofits"
+tags = ["Villalobos Producciones"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

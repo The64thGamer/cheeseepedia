@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-09-20"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","The 64th Gamer","Himitsu"]

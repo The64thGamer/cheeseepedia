@@ -8,8 +8,8 @@ contributors = ["Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=ETqTbv95hBQ"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch, Brain-I-Vac, Thesaurus Rex", "Annagrey Wiechman|Singing Voice of Helen Henny", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Steve White|Scriptwriter, Songwriter", "Brave Combo", "Stokes Group|Video Editing", "Brian Hagan|Programmer"]
 showtapeFormats = ["AAM 2x Laserdisc + Files"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **August 1997** released August 5, 1997, and ran until the removal of the Awesome Adventure Machine stage.
 

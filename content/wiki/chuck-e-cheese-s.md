@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's"
 draft = false
-tags = ["Companies/Brands"]
-categories = ["Chuck E. Cheese's"]
+type = "Companies/Brands"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Cheeseclassic","RavensFlock4L","Stripes"]

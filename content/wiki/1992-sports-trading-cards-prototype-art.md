@@ -1,8 +1,8 @@
 +++
 title = "1992 Sports Trading Cards (Prototype Art)"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445"]

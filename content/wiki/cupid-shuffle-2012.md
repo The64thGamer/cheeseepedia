@@ -6,8 +6,8 @@ endDate = "2013-12-31"
 pageThumbnailFile = "ceccupidshuffle2013edit.avif"
 contributors = ["Ceclife13"]
 credits = ["Jaret Reddick|Voice of Chuck E. Cheese", "Matt Daniel|Production Coordinator", "Michael Hill|Studio Coordinator"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 ***'Cupid Shuffle 2012'*** was a road show which was first released in September 2012 on the {{< wiki-link "Road Show 2012" >}} CD, which was a redub of {{< wiki-link "Cupid Shuffle" >}} with Jaret Reddick as Chuck E. Cheese. It would make its live show debut exclusively on Weigl stages for the remainder of 2012. It would then be released for Studio C and Existing Stages in January 2013.
 

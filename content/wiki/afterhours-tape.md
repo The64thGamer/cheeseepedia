@@ -2,8 +2,8 @@
 
 title = "Afterhours Tape"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "igneur00949.avif"
 startDate = "1984-08-24"
 endDate = "1984-00-00"

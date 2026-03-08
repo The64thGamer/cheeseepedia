@@ -6,8 +6,8 @@ pageThumbnailFile = "Evergreen2024septint.avif"
 contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Media Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Evergreen Show 2024 September Update International (Saudi Arabia)** was released on November 4, 2024 and ran until January 12, 2025.
 

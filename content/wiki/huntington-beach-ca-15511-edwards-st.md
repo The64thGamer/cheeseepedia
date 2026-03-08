@@ -15,8 +15,8 @@ contributors = ["The 64th Gamer"]
 animatronics = ["Chuck E. Cheese (Cyberamic)|1979-10-06|2025-09-21|N/A|In storage at the SPT Warehouse.","Warblettes (Cyberamic)|1979-10-06|0000-00-00|N/A|Unknown","Guest Star / Helen Henny (Cyberamic)|1979-10-06|2025-09-21|N/A|In storage at the SPT Warehouse.","Mr. Munch (Cyberamic)|1979-10-06|2025-09-21|N/A|In storage at the SPT Warehouse.","Pasqually (Cyberamic)|1979-10-06|2025-09-21|N/A|In storage at the SPT Warehouse.","Jasper T. Jowls (Cyberamic)|1979-10-06|2025-09-21|N/A|In storage at the SPT Warehouse.","Dolli Dimples (Cyberamic)|1979-10-06|0000-00-00|N/A|Unknown","Artie Antlers (Cyberamic)|1980-00-00|0000-00-00|N/A|Unknown","Applause Board (Cyberamic)|1979-10-06|0000-00-00|N/A|Unknown","Drum Board (Cyberamic)|1979-10-06|1985-00-00|N/A|Unknown","Flag Wavers (Cyberamic)|1979-10-06|1985-00-00|N/A|Unknown","Wink (Animatronic)|0000-00-00|2025-09-21|N/A|In storage at the SPT Warehouse.","Helen Henny (Lounge)|1979-10-06|0000-00-00|N/A|Unknown"]
 downloadLinks = ["https://archive.org/details/huntington-beach-kooser-rd-building-plans|Building Plans & Permits (1979)"]
 pageThumbnailFile = "gtk7pi6m7dzav3dj.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Huntington Beach, CA (15511 Edwards St)*** is the fifth{{< cite 10 >}} {{< wiki-link "Pizza Time Theatre" >}}, and the former Pizza Time Theatre Southern California District Office, opening on October 6th, 1979, and lasting to September 21, 2025.{{< cite 9 >}}

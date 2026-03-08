@@ -1,8 +1,8 @@
 +++
 title = "CEC Christmas '90"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "1990-11-00"
 endDate = "1990-12-00"
 contributors = ["The 64th Gamer","DerekCat","Rexburg090","Cyber Snout","Ceclife13"]

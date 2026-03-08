@@ -16,7 +16,7 @@ sqft = ""
 citations = []
 downloadLinks = []
 pageThumbnailFile = "wLIO8393W2ezZ8EWyXvY.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

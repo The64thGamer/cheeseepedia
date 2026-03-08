@@ -1,8 +1,8 @@
 +++
 title = "Jacksonville, FL (803 Price Street)"
 draft = false
-tags = ["Locations"]
-categories = ["Sally Corporation"]
+type = "Locations"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = "1980-00-00"
 endDate = "1994-00-00"

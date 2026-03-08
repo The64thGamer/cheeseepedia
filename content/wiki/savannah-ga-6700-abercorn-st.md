@@ -15,7 +15,7 @@ citations = []
 contributors = []
 downloadLinks = ["https://ia800308.us.archive.org/31/items/6-15-1982-showbiz-pizza-place-plans-598-n-mccarran-5450/Floorplan%20Archive%20SHOWBIZ/Georgia/6700Abercorn_9106380000.pdf"]
 pageThumbnailFile = "CDQK_MmQyLUWUJadihkR.avif"
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

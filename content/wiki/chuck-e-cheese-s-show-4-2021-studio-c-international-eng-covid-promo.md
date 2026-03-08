@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Show 4 2021 (Studio C) (International ENG Covid Promo)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-10-15"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","Himitsu","Dame868","Ceclife13"]

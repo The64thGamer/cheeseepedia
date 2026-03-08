@@ -1,8 +1,8 @@
 +++
 title = "Dimes N' Critters"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Unknown Manufacturers"]
+type = "Animatronic Shows"
+tags = ["Unknown Manufacturers"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

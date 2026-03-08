@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Halloween Boo-Tacular 2022 Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2022-09-19"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","Destinationimagination95","ShowBiz Pizza International","CEC Denver","CyCGM","John95","Pasquallytheplumber","Anonymous","The 64th Gamer","GallaRM"]

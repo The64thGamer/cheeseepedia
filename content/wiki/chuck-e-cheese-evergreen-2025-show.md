@@ -6,8 +6,8 @@ pageThumbnailFile = "evergreen2025.avif"
 contributors = ["Cyber Snout"]
 citations = ["CEC Navori Player"]
 showtapeFormats = ["Media Networking Module Files", "Cyberamics Networking Module Files"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Evergreen Show 2025** was the evergreen show released on January 6, 2025, and played until April 27, 2025. It featured a variety of songs released from 2014 to 2023. 
 

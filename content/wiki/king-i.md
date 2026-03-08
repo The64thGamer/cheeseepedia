@@ -11,8 +11,8 @@ mediaDuration = "1:18:02"
 showtapeFormats = ["Cyberamics Reel"]
 downloadLinks = ["https://archive.org/download/ptt_showtape_reels_w_signals/King%201.wav|Showtape w/ Signals"]
 alsoKnownAs = ["027-030-10 King I CABARET TAPE 04/29/86"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 King I was the first showtape released for the {{< wiki-link "The King / King Kat (Cyberamic)" >}} Lounge show in 1981, lasting through 1986. This show is comprised of original artist recordings of Elvis songs with newly recorded intros and outros.
 

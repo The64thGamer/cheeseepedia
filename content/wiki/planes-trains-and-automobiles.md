@@ -9,8 +9,8 @@ credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Che
 citations = ["https://www.youtube.com/watch?v=6tD70Kte6_o", "https://archive.org/details/aps-red-case/r10.jpg"]
 showtapeFormats = ["R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)"]
 alsoKnownAs = ["July 1992"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 transcriptions = ["August 1992 Segment 1", "August 1992 Segment 2", "August 1992 Segment 3"]
 +++
 **Planes, Trains, and Automobiles** was a show that played from July 6, 1992, through September 13, 1992, at Chuck E. Cheese's Pizza.

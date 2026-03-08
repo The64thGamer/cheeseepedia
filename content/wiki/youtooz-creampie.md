@@ -1,8 +1,8 @@
 +++
 title = "BOOTACULAR Chuck E. Cheese (Commercial)"
 draft = false
-tags = ["Commercials"]
-categories = ["Chuck E. Cheese's"]
+type = "Commercials"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "Screenshot_20251012_104115.avif"
 startDate = "2025-10-11"
 endDate = "2025-10-11"

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese and Friends Party Cookbook"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 startDate = "2024-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

@@ -15,8 +15,8 @@ citations = ["https://www.newspapers.com/article/the-sacramento-bee-citrus-heigh
 contributors = ["The 64th Gamer"]
 downloadLinks = []
 pageThumbnailFile = "s1jgpzu5tu2qqob6.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Citrus Heights, CA (7614 Greenback Lane)*** was the eighth Pizza Time Theatre that opened in Greenback Plaza on December 26th, 1979, and lasted until late 1984.

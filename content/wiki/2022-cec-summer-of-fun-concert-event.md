@@ -2,8 +2,8 @@
 
 title = "2022 CEC Summer of Fun Concert (Event)"
 draft = false
-tags = ["Events"]
-categories = ["Chuck E. Cheese's"]
+type = "Events"
+tags = ["Chuck E. Cheese's"]
 startDate = "2022-00-00"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","Mousester","The 64th Gamer","Himitsu"]

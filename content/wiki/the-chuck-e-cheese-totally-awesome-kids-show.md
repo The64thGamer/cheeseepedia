@@ -9,8 +9,8 @@ citations = ["https://youtu.be/xYiMJXXR6Gc", "https://www.youtube.com/watch?v=9G
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef, Mr. Munch", "Doug Teel|Singing Voice of Mr. Munch", "Cathy Turner|Singing Voice of Helen Henny", "Jeff Cosco|Singing Voice of Chuck E. Cheese (Demo Recordings)"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 alsoKnownAs = ["Apr 96 San Antonio 417 Playdates: April 22 - Aug 96 Stage Type: C Stage"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 downloadLinks = ["https://archive.org/details/rollin_202512|Early Showtape Cut"]
 +++
 ***The Chuck E. Cheese Totally Awesome Kids Show*** was a showtape that was released on April 23, 1996, at Chuck E. Cheese's locations. It was the last showtape produced by Disney{{< cite 1 >}} and focused on the band and R.O.S.E. helping kids with various means of transportation.

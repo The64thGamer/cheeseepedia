@@ -9,8 +9,8 @@ credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Che
 citations = []
 showtapeFormats = ["C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 transcriptions = ["CEC TV News Safety", "January 1993 Segment 1", "January 1993 Segment 2", "January 1993 Segment 3", "CEC TV News Triple A"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 alsoKnownAs = []
 +++
 **January 1993 Show** was the show that was released in January of 1993 at Chuck E. Cheese's locations.

@@ -1,8 +1,8 @@
 +++
 title = "Jasper T. Jowls Early Walkaround"
 draft = false
-tags = ["Costumed Characters"]
-categories = ["Pizza Time Theatre"]
+type = "Costumed Characters"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["NoName2000","Concordio"]

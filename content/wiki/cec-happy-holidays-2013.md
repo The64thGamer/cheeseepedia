@@ -9,8 +9,8 @@ citations = []
 credits = ["Matt Daniel|Production Manager", "Michael Hill|Studio Coordinator"]
 mediaDuration = "1:25:26"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Holiday Show 2013** is a revised version of the {{< wiki-link "December 2012 Show" >}} for the 2013 holiday season.
 

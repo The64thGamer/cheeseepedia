@@ -1,8 +1,8 @@
 +++
 title = "Pizza Show Biz"
 draft = false
-tags = ["Companies/Brands"]
-categories = ["Pizza Time Theatre","ShowBiz Pizza Place"]
+type = "Companies/Brands"
+tags = ["Pizza Time Theatre","ShowBiz Pizza Place"]
 startDate = "1979-06-00"
 endDate = "1980-00-00"
 contributors = ["The 64th Gamer"]

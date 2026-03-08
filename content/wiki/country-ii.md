@@ -7,8 +7,8 @@ pageThumbnailFile = "IMG_2659.avif"
 contributors = ["Luigigamin212"]
 transcriptions = ["Ricky Sckaggs Medley (Dook Ver.)", "Arguing Skit", "Going Downhill"]
 alsoKnownAs = ["CREATIVE ENGINEERING CST0501-111384 COUNTRY 2 SHOWTAPE LOW SPEED TAILWOUND 0111384", "CREATIVE ENGINEERING CST1611-012385 COUNTRY II SHOW TAPE LOW SPEED TAILWOUND 01/23/85"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 Country II is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on November 13, 1984, lasting until February of 1985, with the exception of parts of December and New Years dedicated to holiday tapes.
 

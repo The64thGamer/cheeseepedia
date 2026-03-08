@@ -1,8 +1,8 @@
 +++
 title = "Helen Henny (Lounge)"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Shows"
+tags = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "0000-00-00"
 contributors = ["JamesLemony","Pizza Entertainment Fan","FileFickle","The 64th Gamer","CECMadison"]

@@ -1,8 +1,8 @@
 +++
 title = "Country Helen"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1984-00-00"
 endDate = "1984-00-00"
 contributors = ["The 64th Gamer","Anonymous","Ceclife13"]

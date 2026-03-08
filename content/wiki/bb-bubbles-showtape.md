@@ -8,8 +8,8 @@ contributors = ["JamesLemony", "Chouts1", "Ceclife13"]
 citations = ["https://www.showbizpizza.com/review/ptt/cabaret-lounge_bubbles.html"]
 showtapeFormats = ["Cyberamics Reel"]
 alsoKnownAs = ["B.B. Bubbles"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 The ***B.B. Bubbles Showtape*** is a standard Cabaret Showtape used in the 1980s with the character B.B. Bubbles. 
 

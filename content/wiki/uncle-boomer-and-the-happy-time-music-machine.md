@@ -1,8 +1,8 @@
 +++
 title = "Uncle Boomer and the Happy Time Music Machine"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Unknown Manufacturers"]
+type = "Animatronic Shows"
+tags = ["Unknown Manufacturers"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

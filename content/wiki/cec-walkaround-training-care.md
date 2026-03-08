@@ -2,8 +2,8 @@
 
 title = "CEC Walkaround Training & Care"
 draft = false
-tags = ["Company Media"]
-categories = ["Chuck E. Cheese's"]
+type = "Company Media"
+tags = ["Chuck E. Cheese's"]
 startDate = "1988-10-12"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

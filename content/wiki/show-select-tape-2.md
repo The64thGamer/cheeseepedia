@@ -1,8 +1,8 @@
 +++
 title = "Show Select Tape 2"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1982-09-15"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

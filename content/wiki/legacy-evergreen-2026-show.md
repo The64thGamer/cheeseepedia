@@ -6,8 +6,8 @@ pageThumbnailFile = "evergreen2026.avif"
 contributors = ["Cyber Snout", "Anonymous", "CyberSnout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Legacy Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++
 **Chuck E. Cheese Evergreen 2026 Show** was released on December 29, 2026, and played until March 1, 2026.

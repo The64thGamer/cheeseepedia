@@ -1,4 +1,4 @@
-{{- if and .Params.tags (not (in .Params.tags "Meta")) (not (in .Params.tags "Transcriptions")) -}}
+{{- if and .Params.type (not (in .Params.type "Meta")) (not (in .Params.type "Transcriptions")) -}}
  <div class="article-infobox">
     {{- if .Params.pageThumbnailFile -}}
       <div class="article-thumbnail">
@@ -8,7 +8,7 @@
       </div>
     {{- end -}}
     {{- if or (.Params.startDate) (.Params.endDate) -}}
-    <b>{{- if in .Params.tags "Locations" -}}Operated: {{- else -}}Release: {{- end -}}</b>{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}
+    <b>{{- if in .Params.type "Locations" -}}Operated: {{- else -}}Release: {{- end -}}</b>{{- partial "Readable_Date.html" (dict "date" .Params.startDate "presentOnEmpty" false) -}}{{- " - " -}}{{- partial "Readable_Date.html" (dict "date" .Params.endDate "presentOnEmpty" true) -}}
     {{- end -}}
 
     {{- $currentPageTitle := .Title -}} 

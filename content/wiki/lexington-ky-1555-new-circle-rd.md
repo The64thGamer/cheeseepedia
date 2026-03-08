@@ -15,8 +15,8 @@ citations = ["https://www.newspapers.com/article/lexington-herald-leader/6305318
 contributors = ["Cyber Snout"]
 downloadLinks = []
 pageThumbnailFile = "LexingtonKYCEC2.0Exterior.avif"
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++
 ***Lexington, KY (1555 New Circle Rd) #156*** originally opened up on December 1, 1983{{< cite 1 >}}, as a Showbiz Pizza Place {{< cite 1 >}} and would close on August 3, 2025, as a Chuck E. Cheese. {{< cite 2 >}}

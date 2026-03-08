@@ -1,8 +1,8 @@
 +++
 title = "CEC American Pride / Neighbors"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "1990-01-00"
 endDate = "1990-02-00"
 contributors = ["DerekCat", "Ceclife13"]

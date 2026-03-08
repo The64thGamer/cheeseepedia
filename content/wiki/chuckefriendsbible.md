@@ -6,8 +6,8 @@ endDate = "2024-00-00"
 pageThumbnailFile = "chuckbutnotwithhisfriendscommahisenemies.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://archive.org/details/chuck-e-and-friends-story-bible_202503"]
-tags = ["Corporate Documents"]
-categories = ["Chuck E. Cheese's"]
+type = "Corporate Documents"
+tags = ["Chuck E. Cheese's"]
 downloadLinks = ["https://archive.org/details/chuck-e-and-friends-story-bible_202503|Story Bible","https://archive.org/details/40_20250329_202503|Bible PDF Image Assets"]
 credits = ["Jon Colton Barry","Bobby Pontillas","Sadaf Cohen Muncy","Zac Moncrief","Patrick O'Connor"]
 +++

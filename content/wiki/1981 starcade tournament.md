@@ -1,8 +1,8 @@
 +++
 title = "1981 Starcade Tournament (Event)"
 draft = false
-tags = ["Events"]
-categories = ["Pizza Time Theatre"]
+type = "Events"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = "1981-08-01"
 endDate = "1981-08-13"

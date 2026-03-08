@@ -10,8 +10,8 @@ credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Matt D
 mediaDuration = "1:21:34"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/December%202011%203-stage-002.iso|3-Stage DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Happy Holidays 2011** was a holiday show which released on November 25, 2011, featuring all the segments originally from {{< wiki-link "Holiday 2002" >}}. This would be the final show to use the original versions of these segments.
 

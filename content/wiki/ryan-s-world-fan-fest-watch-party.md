@@ -5,9 +5,9 @@ startDate = "2021-11-27"
 endDate = "2021-11-27"
 contributors = ["Cyber Snout", "The 64th Gamer", "BurgersNuggs445"]
 citations = []
-tags = ["Showtapes"]
+type = "Showtapes"
 pageThumbnailFile = "dt7jCC43eUoIQrywB55E.avif"
-categories = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 +++
 ***Ryan's World Fan Fest Watch Party* is a show which played for one day and one run on November 27, 2021 at 10:30 PST/ 1:30PM EST.

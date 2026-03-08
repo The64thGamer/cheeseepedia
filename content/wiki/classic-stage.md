@@ -6,8 +6,8 @@ endDate = ""
 pageThumbnailFile = "hlgyMiq7CvPd0DhEbIlB.avif"
 contributors = ["RockafireFan123", "The 64th Gamer", "Anonymous", "Anonymous", "Anonymous", "ShowBizMidwest", "Bowling for Cheese", "Sonichacker", "Cheeseclassic", "Cy's Junk at School", "CECMentor", "Livelycheese", "Caydenpedia", "Destinationimagination95", "Cyber Snout", "Nickzrss", "TheEntireShrekScript"]
 citations = ["<a href=\"https://www.newspapers.com/image/103319155/\">https://www.newspapers.com/image/103319155/</a>"]
-tags = ["Stage Variations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Stage Variations"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 The ***Classic Rock-afire Stage*** was the original default stage seen through the Rock-afire's life in *ShowBiz Pizza Place* through the 1980's, and later in various Family Entertainment Centers (FECs) throughout the 90's to early 2000's.

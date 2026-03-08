@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "DerekCat", "Cy's Junk at School", "Ceclife13"
 credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Annagrey Wiechman|Singing Voice of Helen Henny", "Charles Stewart|Songwriter, Singing Voice of Jasper T. Jowls", "Robert Gotcher|Mailman", "Darby Orr|Songwriter"]
 citations = []
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 transcriptions = ["March 1993 Segment 1", "March 1993 Segment 2", "March 1993 Segment 3", "CEC TV News Munch for President"]
 alsoKnownAs = []
 +++

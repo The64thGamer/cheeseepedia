@@ -5,8 +5,8 @@ startDate = "1997-12-17"
 endDate = ""
 contributors = ["ShowBizMidwest","Maddox121","The 64th Gamer","BurgersNuggs445","Sponch man","CECBowlingGreen","EagleScout610","Destinationimagination95","Rexburg090","Anonymous","Jaxon11","Pasquallytheplumber","ThatBoiCydalan","CEC Tinley","CorrectorMan","Ceclife13","Chuckstar69","Chucke.show","Chucke","Anonymous","Cheeseclassic","Cyber Snout","CECgamer","MasterMike","John95","AstridMascotFan2005","Thecheesymanfromschool","ConceptUnification2.0","Chuckatronics","Livelycheese","Nerdychucke","Caydenpedia","Ilikethisfanbase","CEC1988"]
 pageThumbnailFile = "Pgsmr42LUCJVhFZ0qxuu.avif"
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 +++
 
 The ***Studio C (1997)*** stage *(also known as **Studio C Alpha** by fans*(1)) is a stage format that was installed in Chuck E. Cheese's locations from 1997-2002, 2012 and 2015, and is still around to this day. It was the first widely installed stage to have just 1 main animatronic character, being Chuck E. Cheese himself.

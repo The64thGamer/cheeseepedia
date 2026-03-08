@@ -16,8 +16,8 @@ remodels = ["SPT 1980's Remodel Program|1990-10-12"]
 stages = ["Chuck E.'s House|1990-10-12|1994-00-00", "1-Stage|1994-00-00|1994-11-19"] 
 downloadLinks = [] 
 latitudeLongitude = ["41.70424272","-71.49431008"] 
-tags = ["Locations"] 
-categories = ["Chuck E. Cheese's"] 
+type = "Locations" 
+tags = ["Chuck E. Cheese's"] 
 +++***1245 Bald Hill Rd*** was a *Chuck E. Cheese's Pizza* located in Bald Hill Plaza and opened on October 12, 1990{{< cite 1 >}} and closed on November 19, 1994{{< cite 2 >}}. It was located in the Bald Hill Plaza
 
 ## History

@@ -1,8 +1,8 @@
 +++
 title = "Concept Unification Prototype Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "ZQOtd8ph5qqRwmzPTRw8.avif"
 startDate = "1989-00-00"
 endDate = "1990-06-00"

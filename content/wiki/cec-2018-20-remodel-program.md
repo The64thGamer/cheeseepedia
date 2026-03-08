@@ -1,8 +1,8 @@
 +++
 title = "CEC 2.0 Remodel Program"
 draft = false
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's"]
 startDate = "2017-07-00"
 endDate = ""
 contributors = ["CECBowlingGreen","ThatBoiCydalan","CEC Denver","Rexburg090","BurgersNuggs445","Epicniceperson","The 64th Gamer","Cy's Junk at School","CoolerDude","PasquallyAAAAAAAAAAAAAAAAAAAAAAAA","Moonrock","Cyber Snout","Gostapua210","Veronancy","AlexisCEC","Cheeseclassic","Caydenpedia","AstridMascotFan2005"]

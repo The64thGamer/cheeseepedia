@@ -1,8 +1,8 @@
 +++
 title = "Creative Engineering"
 draft = false
-tags = ["Companies/Brands"]
-categories = ["Creative Engineering"]
+type = "Companies/Brands"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer", "Pizza Entertainment Fan"]

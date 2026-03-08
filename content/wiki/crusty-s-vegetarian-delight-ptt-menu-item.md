@@ -1,8 +1,8 @@
 +++
 title = "Crusty's Vegetarian Delight (PTT Menu Item)"
 draft = false
-tags = ["Menu Items"]
-categories = ["Pizza Time Theatre"]
+type = "Menu Items"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-05-00"
 endDate = "1978-12-00"
 contributors = ["Pizza Entertainment Fan"]

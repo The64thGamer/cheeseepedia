@@ -1,8 +1,8 @@
 +++
 title = "Rock-afire Tolomatic Cylinder Maintenance"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = [""]
+type = "Animatronic Preservation"
+tags = [""]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

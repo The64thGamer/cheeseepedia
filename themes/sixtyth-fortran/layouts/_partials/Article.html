@@ -2,7 +2,7 @@
 {{- .Page.Store.Set "citationsCount" dict -}}
 
 {{/* Current First Tag, defaults to Meta */}}
-{{- $pageType := (index .Params.tags 0) | default "Meta" -}}
+{{- $pageType := (index .Params.type 0) | default "Meta" -}}
 {{- $isBasicArticle := not (in (slice "Photos" "Videos" "Reviews") $pageType) -}}
 
 {{- /* Article Sections */ -}}

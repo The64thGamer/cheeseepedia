@@ -1,8 +1,8 @@
 +++
 title = "Dr. Dux Diagnostic Stage/Shelf"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = "1982-12-01"
 endDate = "0000-00-00"

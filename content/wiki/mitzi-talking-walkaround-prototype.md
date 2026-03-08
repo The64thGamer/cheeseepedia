@@ -1,8 +1,8 @@
 +++
 title = "Mitzi Talking Walkaround Prototype"
 draft = false
-tags = ["Costumed Characters"]
-categories = ["Creative Engineering"]
+type = "Costumed Characters"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

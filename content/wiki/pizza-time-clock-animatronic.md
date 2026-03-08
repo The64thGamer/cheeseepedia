@@ -1,8 +1,8 @@
 +++
 title = "Pizza Time Clock (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronics"
+tags = ["Chuck E. Cheese's"]
 startDate = "1997-00-00"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","RedaCEC","BurgersNuggs445","Tobsters ;-;","Studio 18 Ent"]

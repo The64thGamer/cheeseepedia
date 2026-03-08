@@ -1,8 +1,8 @@
 +++
 title = "The Country Critters Jamboree"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Creative Presentations"]
+type = "Animatronic Shows"
+tags = ["Creative Presentations"]
 
 
 startDate = ""

@@ -9,8 +9,8 @@ citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/Best%
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_svhs_signals/Best%20of%2093%20CEC-Stage-006.iso|Incomplete R12 SVHS RIP w/ Signals"]
 transcriptions = ["CEC TV News Safety", "CEC TV News Pasqually on the moon"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Best of CEC TV 1993*** was a show that compiled segments and intermissions from 1991-1993.
 The show was additionally used {{< wiki-link "Emergency Show (Best of 93)" >}} starting from its release in May 1993 until it was replaced by {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}} in January 2000.

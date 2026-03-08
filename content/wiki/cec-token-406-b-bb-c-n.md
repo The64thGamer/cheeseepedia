@@ -2,8 +2,8 @@
 
 title = "CEC Token 406 (B, bB, C, N)"
 draft = false
-tags = ["Tokens"]
-categories = ["Chuck E. Cheese's"]
+type = "Tokens"
+tags = ["Chuck E. Cheese's"]
 startDate = "2000-00-00"
 endDate = "0000-00-00"
 contributors = ["CEC Tinley"]

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Show 5 2021 (International)"
 draft = false
-tags = ["Showtapes"]
-categories = []
+type = "Showtapes"
+tags = []
 startDate = "2021-11-15"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","Himitsu"]

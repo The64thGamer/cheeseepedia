@@ -13,7 +13,7 @@ sqft = ""
 latitudeLongitude = ["37.78517212","-121.9833539"]
 downloadLinks = []
 pageThumbnailFile = "gt6mrwn5kcf.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

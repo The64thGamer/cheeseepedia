@@ -1,8 +1,8 @@
 +++
 title = "Cyberamics Reel"
 draft = false
-tags = ["Showtape Formats"]
-categories = ["Pizza Time Theatre"]
+type = "Showtape Formats"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

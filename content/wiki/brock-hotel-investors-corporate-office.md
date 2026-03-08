@@ -1,8 +1,8 @@
 +++
 title = "Topeka, KS (2209 W. 29th Street)"
 draft = false
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1979-11-05"
 endDate = "1981-06-09"
 contributors = ["The 64th Gamer"]

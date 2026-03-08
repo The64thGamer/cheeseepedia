@@ -15,8 +15,8 @@ citations = ["https://www.showbizpizza.com/info/documents/spp/spp_sales_company_
 contributors = ["CyberSnout"]
 downloadLinks = []
 pageThumbnailFile = "WinterParkSPPSign.avif"
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++
 ***Orlando / Winter Park, FL (1300 Lee Rd)*** was one of three ShowBiz Pizza Places located in the Orlando, Florida area opening on April 27, 1982{{< cite 1 >}} and closing on January 1, 1984{{< cite 4 >}}. Though this location was short lived, it is notable for its appearance in promotional material for ShowBiz Pizza Place and news coverage.

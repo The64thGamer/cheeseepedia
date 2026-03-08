@@ -1,8 +1,8 @@
 +++
 title = "Chuck E.'s Parade"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 startDate = "1990-00-00"
 endDate = "1990-00-00"
 pageThumbnailFile = "chuckeparade.avif"

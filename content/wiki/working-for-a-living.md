@@ -10,8 +10,8 @@ credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Che
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 transcriptions = ["September 1992 Segment 1", "CEC TV News Strike", "September 1992 Segment 2", "September 1992 Segment 3"]
 alsoKnownAs = ["\"SHOWBIZ Pizza Time", "Inc.\"", "WORKING FOR A LIVING", "VALID PLAYDATES: 9/14 - 11/25/92"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Working For A Living** was a show that played from September 14, 1992, through November 25, 1992, at Chuck E. Cheese’s Pizza.
 

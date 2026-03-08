@@ -1,8 +1,8 @@
 +++
 title = "Mini Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Stage Variations"
+tags = ["ShowBiz Pizza Place"]
 
 
 startDate = "1983-03-23"

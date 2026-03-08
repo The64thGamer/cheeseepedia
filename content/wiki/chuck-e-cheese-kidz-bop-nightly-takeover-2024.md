@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese KIDZ BOP Nightly Takeover 2024"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2024-07-08"
 endDate = "2024-09-09"
 contributors = ["Cyber Snout","Dame0824","The 64th Gamer","ThatBoiCydalan"]

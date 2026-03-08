@@ -6,8 +6,8 @@ pageThumbnailFile = "Show125Int.avif"
 contributors = ["Cyber Snout"]
 citations = ["Dameaun / Show 1 2026 INT DVD"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Chuck E. Cheese Show 1 2026 International*** released in January 2026.
 

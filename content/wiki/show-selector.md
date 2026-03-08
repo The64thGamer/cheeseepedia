@@ -2,8 +2,8 @@
 
 title = "Show Selector"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronic Control Systems"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
 contributors = ["Monsterwaill"]

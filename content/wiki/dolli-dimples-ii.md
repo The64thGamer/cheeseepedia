@@ -1,8 +1,8 @@
 +++
 title = "Dolli Dimples II"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1982-00-00"
 endDate = "0000-00-00"
 contributors = ["JamesLemony","Rexburg090","The 64th Gamer","Ceclife13"]

@@ -1,8 +1,8 @@
 +++
 title = "CEC Roadshow January 2001"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "cecroadshowjan001cd.avif"
 startDate = "2001-01-00"
 endDate = "2001-03-00"

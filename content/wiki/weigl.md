@@ -1,8 +1,8 @@
 +++
 title = "Weigl"
 draft = false
-tags = ["Programming Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Programming Systems"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

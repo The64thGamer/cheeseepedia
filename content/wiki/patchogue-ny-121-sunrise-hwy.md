@@ -15,7 +15,7 @@ citations = ["https://archive.org/details/one-drive-1-11-22-2024"]
 contributors = ["Stripes"]
 downloadLinks = ["https://ia800909.us.archive.org/3/items/one-drive-1-11-22-2024/2289826-July1992.pdf|Original Location Plan (1992)", "https://ia800909.us.archive.org/3/items/one-drive-1-11-22-2024/05B27810-2005-04-19-Jan2004.pdf|2000's Remodel Plans (2002)", "https://archive.org/details/one-drive-1-11-22-2024|Historical Plans & Permits"]
 pageThumbnailFile = "_0GPQ5peI7ao5AIZn8r2.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

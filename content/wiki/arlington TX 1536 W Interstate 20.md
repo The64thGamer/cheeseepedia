@@ -14,8 +14,8 @@ citations = ["https://www.reddit.com/r/chuckecheese/comments/1m1im67/breaking_ne
 contributors = ["The 64th Gamer"]
 downloadLinks = []
 pageThumbnailFile = "pppv88qg3t35ucu5.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++
 

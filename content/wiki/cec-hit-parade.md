@@ -8,8 +8,8 @@ contributors = ["Luigigamin212","Cyber Snout","Ceclife13"]
 credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls", "Nancy Lenehan|Voice of Helen Henny"]
 citations = ["https://www.youtube.com/playlist?list=PLz0bp-Ui5yPAIMbt2vRMLLnm2FKinNWpV"]
 showtapeFormats = ["Cyberamics Reel"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ## Show List:
 1. Segment 1

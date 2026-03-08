@@ -16,8 +16,8 @@ remodels = ["SPT 1990's Remodel Program|1999-09-00","Phase 3 (2000)|0000-00-00"]
 stages = ["Studio C Alpha|1999-09-00|2009-00-00|"]
 downloadLinks = []
 latitudeLongitude = ["33.53680687", "-111.8880555"]
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Scottsdale, AZ (8890 E Indian Bend Rd)*** was a *Chuck E. Cheese's* location that opened in September 1999{{< cite 1 >}} with a {{< wiki-link "Studio C Alpha" >}} and closed in Fall 2009 with the same stage.
 

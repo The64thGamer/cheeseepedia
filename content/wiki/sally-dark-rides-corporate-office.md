@@ -1,8 +1,8 @@
 +++
 title = "Jacksonville, FL (745 W Forsyth St)"
 draft = false
-tags = ["Locations"]
-categories = ["Sally Corporation"]
+type = "Locations"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = "1994-00-00"
 endDate = ""

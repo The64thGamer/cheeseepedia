@@ -6,8 +6,8 @@ endDate = "1976-00-00"
 pageThumbnailFile = "pQ0JmYG79MyhuqRDlbwr.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.ataricompendium.com/archives/documents/press_kits/atari_leisure_time_game_center.pdf", "https://www.newspapers.com/image/717528185/?match=1&terms=atari%20game%20center", "https://mcurrent.name/atarihistory/syzygy.html", "https://flyers.arcade-museum.com/videogames/show/5730#gallery","https://www.ataricompendium.com/archives/interviews/jerry_donaldson/interview_jerry_donaldson.html","https://www.newspapers.com/image/527364142/?clipping_id=81476540&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjUyNzM2NDE0MiwiaWF0IjoxNzYwODIwNDQ2LCJleHAiOjE3NjA5MDY4NDZ9.otDl1iZTj4zXZicD5caKxNXi2rYiFlEK6HNpWkavlmA", "https://www.newspapers.com/image/520862185/?match=1&terms=Atari%20Game%20Center"]
-tags = ["Companies/Brands"]
-categories = ["Pizza Time Theatre"]
+type = "Companies/Brands"
+tags = ["Pizza Time Theatre"]
 +++
 The ***Atari Family Game Center*** (Initially called ***Atari Leisure Time Game Center***{{< cite 1 >}} and later renamed to ***Atari Game Center***), was a set of mall arcades predating the {{< wiki-link "Pizza Time Theatre" >}} concept from April of 1974 to Around 1976.{{< cite 3 >}}
 

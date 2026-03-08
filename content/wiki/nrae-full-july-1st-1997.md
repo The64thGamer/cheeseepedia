@@ -1,8 +1,8 @@
 +++
 title = "NRAE FULL July 1st 1997"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 startDate = "1997-00-00"
 endDate = "0000-00-00"
 contributors = ["Anonymous"]

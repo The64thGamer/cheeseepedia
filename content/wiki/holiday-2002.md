@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "1:07:04"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeVerB.img|Studio C Floppy Disk (Ver. B)", "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeFinal.img|Studio C Floppy Disk (Final Upgrade)", "https://archive.org/download/studio_c_showtape_dvds/December%202002%20Studio%20C.iso"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Happy Holidays 2002** is the holiday show released and played through December 2002. This show would also play in 2003 as the {{< wiki-link "Holiday 2003 Show" >}}.
 

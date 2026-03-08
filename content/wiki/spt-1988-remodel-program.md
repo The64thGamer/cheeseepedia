@@ -1,8 +1,8 @@
 +++
 title = "SPT 1980's Remodel Program"
 draft = false
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's","ShowBiz Pizza Place"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's","ShowBiz Pizza Place"]
 startDate = "1988-00-00"
 endDate = "1991-00-00"
 contributors = ["BurgersNuggs445","CorrectorMan","Rexburg090","RockyRhoad07","The 64th Gamer","Cyber Snout","Caydenpedia"]

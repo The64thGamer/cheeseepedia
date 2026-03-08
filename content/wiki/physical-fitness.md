@@ -11,8 +11,8 @@ mediaDuration = "51:59"
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)"]
 transcriptions = ["March 1992 Segment 1", "Birthday Star 1992", "CEC TV News Olympics", "March 1992 Segment 2", "March 1992 Segment 3"]
 alsoKnownAs = ["\"260-0214-92 (C) S.P.T.", "Inc.\"", "CU PHYSICAL FIT/BDAY STAR (3 STAGE)", "SERIAL #00159 DECK - 9", "02/14/92 Master CYBERSTAR"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Physical Fitness** was a showtape that played from March 1992 through May 1992 at Chuck E. Cheese’s Pizza.
 

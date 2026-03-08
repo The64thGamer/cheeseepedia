@@ -5,8 +5,8 @@ endDate = "2023-10-00"
 pageThumbnailFile = "Halloween2023int.avif"
 contributors = ["Ceclife13"]
 showtapeFormats = ["Studio C 3X DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***International Halloween 2023*** was a Halloween-themed show for international locations only.
 

@@ -5,8 +5,8 @@ startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer", "BattleXGamer3", "Ls2018", "AvaBeckLey"]
 citations = [" "]
-tags = ["Showtape Formats"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtape Formats"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 ## History

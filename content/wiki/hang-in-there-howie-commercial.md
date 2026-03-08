@@ -6,8 +6,8 @@ endDate = ""
 pageThumbnailFile = "zm8b3lnuyijgFmnuuw8Z.avif"
 contributors = ["Maddox121", "Midwestretail", "The 64th Gamer", "CEC Tinley", "Randomguyfan22 Maker"]
 citations = ["https://www.youtube.com/watch?v=IYwu8o33isA"]
-tags = ["Commercials"]
-categories = ["Pizza Time Theatre"]
+type = "Commercials"
+tags = ["Pizza Time Theatre"]
 +++
 ***Hang in There Howie* is a {{< wiki-link "Pizza Time Theatre" >}} commercial that aired around Summer of 1982**
 

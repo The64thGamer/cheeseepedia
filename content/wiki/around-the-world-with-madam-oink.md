@@ -1,8 +1,8 @@
 +++
 title = "Around the World with Madam Oink"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1980-11-07"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","JamesLemony","Ceclife13"]

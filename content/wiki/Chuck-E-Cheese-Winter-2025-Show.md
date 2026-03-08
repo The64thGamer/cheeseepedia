@@ -6,8 +6,8 @@ pageThumbnailFile = "winter2025.avif"
 contributors = ["Cyber Snout", "CyberSnout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Media Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++
 **Chuck E. Cheese Winter 2025 Show** was released on November 03, 2025, and played through December 28, 2025.

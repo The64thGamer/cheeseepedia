@@ -14,8 +14,8 @@ citations = ["http://csjpbce.sanjoseca.gov/ecmsviewer/148/836/3836148.pdf", "htt
 contributors = ["The 64th Gamer"]
 downloadLinks = ["https://archive.org/download/pizza-time-theatre-kooser-plans|Building Plans & Permits (1961-1996)","https://archive.org/details/huntington-beach-kooser-rd-building-plans/Administrative_Reviews_ARX1979029_-_Supporting_Documents-2.pdf|Kooser Road Fact Sheet (December 4th, 1978)"]
 pageThumbnailFile = "EFEMrtsXt5C6i62q1coh.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***San Jose, CA (1371 Kooser Rd) Store #404*** was a franchised *Pizza Time Theatre* that opened on December 2, 1978, with a Portrait Show, and closed on June 25, 2020. This location is the second-ever Pizza Time Theatre location and was the oldest location in the company until 2020. 

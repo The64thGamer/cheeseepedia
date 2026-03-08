@@ -9,8 +9,8 @@ citations = ["https://youtu.be/mBeAZ_AT0Gg?si=PTnS8IrEzdnc_EI5"]
 showtapeFormats = ["CEI 4-Track Reel"]
 transcriptions = ["The Night They Drove Ol Dixie Down"]
 alsoKnownAs = ["CREATIVE ENGINEERING CWST0110-11783 COUNTRY SHOWTAPE LOW SPEED TAILWOUND 110783"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***Country Night* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in June 1983.**
 

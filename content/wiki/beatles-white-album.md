@@ -1,8 +1,8 @@
 +++
 title = "Beatles White Album"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1983-09-09"
 endDate = "1983-11-24"
 contributors = ["The 64th Gamer"]

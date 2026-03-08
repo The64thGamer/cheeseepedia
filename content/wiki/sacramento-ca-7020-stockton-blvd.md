@@ -15,8 +15,8 @@ citations = ["https://www.newspapers.com/newspage/621381729/","https://www.newsp
 contributors = ["The 64th Gamer"]
 downloadLinks = []
 pageThumbnailFile = "Screenshot_20251018_133823.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Sacramento (Florin Mall), CA (7020 Stockton Blvd)*** was the fourth {{< wiki-link "Pizza Time Theatre" >}}, which opened on August 14th, 1979 with the second ever set of {{< wiki-link "Cyberamics" >}}, and closed in late 1985. {{< cite 3 >}}{{< cite 34 >}}{{< cite 35 >}}

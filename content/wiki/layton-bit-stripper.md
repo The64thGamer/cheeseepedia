@@ -1,8 +1,8 @@
 +++
 title = "Layton Bit Stripper"
 draft = false
-tags = ["Products"]
-categories = ["Creative Engineering"]
+type = "Products"
+tags = ["Creative Engineering"]
 
 
 startDate = "2019-00-00"

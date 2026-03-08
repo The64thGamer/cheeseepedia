@@ -10,8 +10,8 @@ mediaDuration = "1:28:55"
 credits = ["John Widelock|Voice of Chuck E. Cheese", "Paula Mulcahy|Voice of Madame Oink", "Scott Wilson|Voice of Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls"]
 downloadLinks = ["https://archive.org/download/ptt_showtape_reels_w_signals/Skit-Oink%203%20Tunnel-Love%20W-XMAS.wav|Reel Audio w/ Signals"]
 alsoKnownAs = ["ASSY # 027-0056-10 SKIT-OINK 3 TUNNEL/LOVE W/XMAS WO# 1141732400 WO QTY 100 BLT BY: GS DATE: 11/24/82"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 ***Skit-Oink 3 Tunnel/Love W/XMAS*** was a variant of {{< wiki-link "Madame Oink III - 'Tunnel of Love'" >}} that included Christmas songs released in November of 1982.
 

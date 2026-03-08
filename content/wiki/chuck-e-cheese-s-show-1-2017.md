@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "Cyber Snout", "Luigigamin212"]
 citations = ["https://youtu.be/t0UbAcbJDUI"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 transcriptions = ["Together We've Got It 2017", "Your Birthdays are special"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese's Show 1 2017* released January 3rd 2017.
 This was created to play from January 3rd, 2017 - February 26th, 2017. This show features four songs. 1 being new 1 being a remake of a classic and 2 being reused.**

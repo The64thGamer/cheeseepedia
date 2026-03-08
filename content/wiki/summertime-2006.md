@@ -10,8 +10,8 @@ credits = ["Robert Gotcher|Director", "Michael Hill|Production Coordinator", "Ry
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/June%202006%203-Stage-005.iso|3-Stage DVD ISO"]
 mediaDuration = "1:16:19"
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Summertime 2006** was the final rerelease of {{< wiki-link "Summertime 2003" >}} with intermission changes which played through the summer of 2006.
 

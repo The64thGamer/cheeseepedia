@@ -2,8 +2,8 @@
 
 title = "Studio C Control System"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronic Control Systems"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = ""

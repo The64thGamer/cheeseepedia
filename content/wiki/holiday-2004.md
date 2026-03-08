@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "BurgersNuggs445", "Ceclife13"]
 citations = ["https://showbizpizza.com/info/documents/cec/cec_dept18-2004-12.pdf"]
 credits = ["Robert Gotcher|Director", "Matt Daniel|Production Coordinator", "Ryan Hollingsworth|Production Specialist"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Holiday 2004** is an updated version of {{< wiki-link "Holiday 2002" >}} featuring new intermissions which played throughout December 2004. This show was rereleased as {{< wiki-link "Holiday 2005" >}} and {{< wiki-link "Holiday 2006" >}}.
 

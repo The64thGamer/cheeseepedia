@@ -2,8 +2,8 @@
 
 title = "Bendable Chuck E. Cheese Figure (1992)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 startDate = "1992-00-00"
 endDate = "0000-00-00"
 contributors = ["Tobsters ;-;"]

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Spring Show 2023"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-04-03"
 endDate = "2023-06-04"
 contributors = ["Bowling for Cheese","CEC Denver","The 64th Gamer","Cyber Snout","Pasquallytheplumber","Anonymous","Cy's Junk at School"]

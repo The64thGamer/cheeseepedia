@@ -1,8 +1,8 @@
 +++
 title = "Elvis"
 draft = false
-tags = ["Characters"]
-categories = ["Creative Engineering"]
+type = "Characters"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

@@ -15,8 +15,8 @@ citations = ["https://www.showbizpizza.com/info/documents/spp/spp_sales_company_
 contributors = ["Cyber Snout"]
 downloadLinks = []
 pageThumbnailFile = "upE3LhWSE4QOo0VURKcd.avif"
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++
 ***Sharonville, OH (1429 E Kemper Rd) #738*** originally opened up on October 21, 1981, as a ShowBiz Pizza Place {{< cite 1 >}} and then closed its doors on January 8, 1984. {{< cite 2 >}} The store would then re-open on September 8, 1992, as a Chuck E. Cheese's Pizza, still open to this day now as a Chuck E. Cheese.{{< cite 3 >}}

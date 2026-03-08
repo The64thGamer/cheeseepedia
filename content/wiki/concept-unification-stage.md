@@ -1,8 +1,8 @@
 +++
 title = "Concept Unification Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "1990-06-00"
 endDate = ""
 contributors = ["ShowBizMidwest","Montfortdog","Maddox121","The 64th Gamer","Store556.","ThatBoiCydalan","Cyber Snout","Rileypaulson","CECBowlingGreen","Rexburg090","Noahrbxt","Anonymous","Ceclife13","Anonymous","ChuckEPediaIsTheBest!","Epicniceperson","Stripes","Anonymous","ShowBizChuck","Anonymous","CECFan2023","Anonymous","BoyInCharge55","JamesLemony","SuperCreamPiper2008","Cheeseclassic","Caydenpedia","CyCGM","Pizza Entertainment Fan","CECMentor","Livelycheese","Cecanddisneyfan2004","AstridMascotFan2005","Cy's Junk at School","CECLover"]

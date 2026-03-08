@@ -2,8 +2,8 @@
 
 title = "Costume Character Cleaning & Preservation"
 draft = false
-tags = ["Costume Preservation"]
-categories = [""]
+type = "Costume Preservation"
+tags = [""]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Showtimeinc","CEC Tinley"]

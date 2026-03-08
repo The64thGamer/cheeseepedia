@@ -1,8 +1,8 @@
 +++
 title = "ShowBiz's Fabulous Fall Festival (Event)"
 draft = false
-tags = ["Events"]
-categories = ["ShowBiz Pizza Place"]
+type = "Events"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1983-09-05"
 endDate = "1983-11-24"
 contributors = ["The 64th Gamer","Stripes"]

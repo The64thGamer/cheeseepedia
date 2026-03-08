@@ -6,8 +6,8 @@ pageThumbnailFile = "IUoBhbwL9L3oRYkoHw0I.avif"
 contributors = ["Cyber Snout"]
 citations = ["CEC Show 3 2025 INT DVD"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Show 3 2025 International English** was released in July 2025 and played until September 2025. It would be reissued in November 2025 for INT locations
 

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Live Stage (Dance Floor)"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = "2015-05-00"

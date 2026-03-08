@@ -2,8 +2,8 @@
 
 title = "SPP Tune Machine"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "809fugo24jn3t.avif"
 startDate = "1988-02-26"
 endDate = "1988-00-00"

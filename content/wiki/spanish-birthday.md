@@ -1,8 +1,8 @@
 +++
 title = "Spanish Birthday"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 startDate = "1994-12-00"
 endDate = "2002-08-00"
 contributors = ["Ceclife13","Cyber Snout"]

@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "56:39"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/April2004.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202004%20Studio%20C-001.iso|Studio C DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese April 2004 Show*** was a show that released in April 2004 and ran through June 2004.
 This show featured 4 segments with 8 songs and was the last show produced with Jeremy Blaido as director.

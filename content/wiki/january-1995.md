@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Stephanie Nadolny|Voice o
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "58:16"
 alsoKnownAs = ["Jan 1995 Release 241.11 ver. CEC CS-0036Playdates: Jan 2 - April 10.Validation Code: 01091"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***January 1995*** was a show that released in January of 1995 at Chuck E. Cheese's locations.
 

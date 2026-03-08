@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch, Brain-I-Vac, Fly
 unitsProduced = "1"
 showtapeFormats = ["AAM 2x Laserdisc + Files"]
 downloadLinks = ["https://archive.org/details/awesome-adventure-machine-april-1997-flacs|Direct Showtape Audio Rips"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Chuck E. Cheese's 20th Anniversary Show (AAM Version)*** was a version of the {{< wiki-link "Chuck E. Cheese's 20th Anniversary" >}} for the {{< wiki-link "Awesome Adventure Machine" >}} stage.
 

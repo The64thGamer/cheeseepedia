@@ -6,8 +6,8 @@ endDate = "2026-03-02"
 pageThumbnailFile = " "
 contributors = ["Cyber Snout", "CyberSnout"]
 credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Caroline Richardson - Voice of Helen Henny", "Chris Hill - Voice of Mr. Munch", "Jeremy Blaido - Voice of Jasper T. Jowls", "Earl Fisher - Voice of Pasqually The Chef", "Matt Daniel - Production Manager"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 downloadLinks = []
 _newPageTag = "Live Shows"
 +++

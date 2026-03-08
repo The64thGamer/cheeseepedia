@@ -1,8 +1,8 @@
 +++
 title = "I've Got a Feeling-Black Eyed Peas"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = "2011-00-00"
 endDate = "0000-00-00"

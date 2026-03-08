@@ -7,8 +7,8 @@ pageThumbnailFile = "KidzBop2023.avif"
 contributors = ["Ceclife13", "ShowBiz Pizza International", "Bowling for Cheese", "ElWarlos35"]
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese Kidz Bop Show 2023*** is the spring show released in April 3 2023 featuring a variety of songs released from 2016-2021.
 This show is only for locations in Mexico during the month of April. This show features 7 Songs with the automatic live being Spring Break Break Dance.

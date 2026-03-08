@@ -1,8 +1,8 @@
 +++
 title = "Circles of Light"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = "2012-08-00"

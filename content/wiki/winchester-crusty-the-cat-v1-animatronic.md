@@ -1,8 +1,8 @@
 +++
 title = "Winchester Crusty the Cat V1 (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-05-00"
 endDate = "1984-00-00"
 contributors = ["EagleScout610","KPIZZA03","The 64th Gamer","Anonymous","Lelmaster","Pizza Entertainment Fan","CECMentor"]

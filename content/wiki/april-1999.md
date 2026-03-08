@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician", "Ann
 showtapeFormats = ["Studio C 4x Laserdisc + Files", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "59:17"
 downloadLinks = ["https://archive.org/details/april-1999-digital-audio-masters|Official Digital Audio Masters", "https://archive.org/download/3stage_post_93_svhs_signals/April%201999%203-stage-011.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***April 1999***, also known as "Dance Party", was a showtape that played during the spring and summer of 1999. This was the last Studio C show to run on Laserdisc.
 

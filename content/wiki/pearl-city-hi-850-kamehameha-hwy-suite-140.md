@@ -15,8 +15,8 @@ animatronics = ["Chuck E. Cheese (Cyberamic)|1994-11-00|2016-08-00|Unknown|Destr
 contributors = ["Cyber Snout"]
 downloadLinks = []
 pageThumbnailFile = "trkhusTQjKRVt_rMQLVm.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++
 ***Pearl City, HI (850 Kamehameha Hwy Suite 140)*** Opened in November 1994 as a Chuck E. Cheese's {{< cite 1 >}} This store was run by Entertainment America Inc. until it closed on August 10, 2025 as a Chuck E. Cheese's {{< cite 2 >}}.

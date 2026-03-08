@@ -6,8 +6,8 @@ endDate = "2005-08-00"
 pageThumbnailFile = "zeDQg0B95yZSikNNF_YX.avif"
 contributors = ["StudioC", "Ceclife13"]
 citations = []
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 **Super Chuck Road Show** was a {{< wiki-link "Road Shows" >}} CD released alongside the {{< wiki-link "Super Chuck Summer Show 2005" >}} which featured only one song.
 

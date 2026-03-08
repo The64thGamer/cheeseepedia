@@ -5,8 +5,8 @@ startDate = ""
 endDate = ""
 contributors = ["CECMentor", "Kathydra", "Gorillaman2"]
 citations = ["https://www.showbizpizza.com/info/documents/spp/spp_81_name-changes.pdf", "https://www.youtube.com/watch?v=S0noLwVLE1g"]
-tags = ["Characters"]
-categories = ["ShowBiz Pizza Place"]
+type = "Characters"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 ***Dook Larue*** is one of the main characters of the ShowBiz Pizza Place franchise, having made his debut as an animatronic at {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}}.

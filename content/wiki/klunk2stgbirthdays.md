@@ -2,8 +2,8 @@
 
 title = "3 Klunk B-Days for 2-Stage Shows"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1983-01-15"
 endDate = "1983-00-00"
 contributors = ["The 64th Gamer"]

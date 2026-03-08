@@ -1,8 +1,8 @@
 +++
 title = "Billy Bob (Early Mijjin)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 startDate = "1992-00-00"
 endDate = "0000-00-00"
 contributors = ["GallaRM","The 64th Gamer","Newbie editor"]

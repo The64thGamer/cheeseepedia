@@ -2,8 +2,8 @@
 
 title = "Pizza Time Theatre 'Bite Me!' Shirt"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Pizza Time Theatre"]
+type = "In-Store Merchandise"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-05-17"
 endDate = "1977-00-00"
 contributors = ["The 64th Gamer"]

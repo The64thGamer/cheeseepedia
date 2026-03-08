@@ -1,8 +1,8 @@
 +++
 title = "Spencer's The Bite of '87 Shirt"
 draft = false
-tags = ["Products"]
-categories = ["Five Nights at Freddy's"]
+type = "Products"
+tags = ["Five Nights at Freddy's"]
 pageThumbnailFile = "krdgbqb09lsaowhw.avif"
 startDate = "2017-00-00"
 endDate = "2017-00-00"

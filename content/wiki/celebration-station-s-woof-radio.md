@@ -8,8 +8,8 @@ citations = ["https://www.youtube.com/playlist?list=PLYN4FE48ElYtwdEf8lYhyVK1BuW
 manufacturer = "Creative Presentations, Inc. (CPI)"
 downloadLinks = ["https://drive.google.com/drive/folders/1VlLHbN4bVu6K6j41_OKSuM-BLEc7VGzs?usp=drive_link"]
 alsoKnownAs = ["The Pantones"]
-tags = ["Animatronic Shows"]
-categories = ["Creative Presentations"]
+type = "Animatronic Shows"
+tags = ["Creative Presentations"]
 +++
 
 ***W.O.O.F. Radio*** was an animatronic show produced by Creative Presentations, Inc. (CPI) for Celebration Station from 1982 to 1989, being used in several of the chain's locations up through 2001. Celebration Station's parent company, Whiteco, decided to officially end its relationship with Creative Presentations by 1990. Shortly thereafter, Sally Industries supplied the *Daniel and the Dixie Diggers Trio + Jethro P. Hogg* and *The Rockin' Rascals* animatronic shows for Celebration Station between 1991 and 1993.

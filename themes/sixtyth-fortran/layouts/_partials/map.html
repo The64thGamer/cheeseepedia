@@ -1,4 +1,4 @@
-{{- $pages := where . "Params.tags" "intersect" (slice "Locations") -}}
+{{- $pages := where . "Params.type" "intersect" (slice "Locations") -}}
 
 <div id="map" style="
     margin: 0.5em;

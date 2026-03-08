@@ -2,8 +2,8 @@
 
 title = "'ShowBiz Pizza' (SPT Exterior Signage)"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["ShowBiz Pizza Place"]
+type = "Store Fixtures"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Saan1ty"]

@@ -1,8 +1,8 @@
 +++
 title = "Cincinnati, OH (11400 Princeton Pike)"
 draft = false
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 startDate = "1982-05-19"
 endDate = "1984-00-00"
 remodels = ["PTT Standard Layout|1982-05-19"]

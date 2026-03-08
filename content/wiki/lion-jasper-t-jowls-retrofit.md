@@ -1,8 +1,8 @@
 +++
 title = "Lion (Jasper T. Jowls Retrofit)"
 draft = false
-tags = ["Retrofits"]
-categories = ["Unknown Manufacturers"]
+type = "Retrofits"
+tags = ["Unknown Manufacturers"]
 
 
 startDate = ""

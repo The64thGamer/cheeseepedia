@@ -1,8 +1,8 @@
 +++
 title = "Rock-afire Mac Valve Maintenance"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = [""]
+type = "Animatronic Preservation"
+tags = [""]
 startDate = ""
 endDate = ""
 contributors = ["ShowBizpizzawiki","Anonymous"]

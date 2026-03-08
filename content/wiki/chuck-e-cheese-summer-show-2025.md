@@ -6,8 +6,8 @@ pageThumbnailFile = "summer2025.avif"
 contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Legacy Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Chuck E. Cheese Summer Show 2025*** was released on April 28, 2025 and played until September 7, 2025. From July 7, to September 7, this show would end at 6 pm due to KIDZ BOP Nightly Takeover 2025.
 

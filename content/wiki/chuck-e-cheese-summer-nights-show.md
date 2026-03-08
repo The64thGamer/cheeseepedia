@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Summer Nights Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2022-07-04"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","The 64th Gamer","Dame868"]

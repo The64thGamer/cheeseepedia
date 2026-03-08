@@ -1,8 +1,8 @@
 +++
 title = "Beach Bowzers Cabaret Tape"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "1985-02-21"
 endDate = "1991-00-00"
 pageThumbnailFile = "j0FYtzluIACO31GvDe7v.avif"

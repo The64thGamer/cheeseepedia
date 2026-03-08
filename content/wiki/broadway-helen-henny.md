@@ -9,8 +9,8 @@ citations = []
 showtapeFormats = ["Cyberamics Reel"]
 credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Helen Henny", "Scott Wilson|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
 alsoKnownAs = ["Broadway Helen", "ASSY# 027-0063-10-0ASKIT TAPE-BROADWAY HELEN HENNYWO# 1901768200 WO QTY:BUILT BY: REB DATE:"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 ***Broadway Helen Henny*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny.
 This would be the last guest star showtape as Pizza Time Theatre's bankruptcy would occur shortly after its release.

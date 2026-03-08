@@ -1,8 +1,8 @@
 +++
 title = "SPP Summertime Showtape"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1988-05-05"
 endDate = "1988-00-00"
 contributors = ["The 64th Gamer"]

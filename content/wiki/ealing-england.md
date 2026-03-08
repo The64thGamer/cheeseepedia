@@ -2,8 +2,8 @@
 
 title = "Ealing, England"
 draft = false
-tags = ["Cancelled Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Cancelled Locations"
+tags = ["Pizza Time Theatre"]
 startDate = "1983-00-00"
 endDate = "1983-00-00"
 contributors = ["ChuckEPediaIsTheBest!","The 64th Gamer"]

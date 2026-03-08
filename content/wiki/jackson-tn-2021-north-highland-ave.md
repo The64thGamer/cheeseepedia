@@ -16,8 +16,8 @@ remodels = ["SPT 1990's Remodel Program|2003-07-30", "CEC 2000's Remodel Program
 stages = ["Studio C Cappa|2003-07-30|2025-11-23"]
 downloadLinks = []
 latitudeLongitude = ["35.65531822", "-88.8324472"]
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 +++
 Jackson, TN (2021 North Highland Ave) #667 originally opened up on July 30, 2003 as a Chuck E. Cheese’s{{< cite 1 >}} and would close on November 23, 2025, as a Chuck E. Cheese's.{{< cite 2 >}}
 

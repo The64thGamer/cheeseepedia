@@ -1,8 +1,8 @@
 +++
 title = "Liberty Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Stage Variations"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

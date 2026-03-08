@@ -1,8 +1,8 @@
 +++
 title = "2023 Piñata Smashlings CEC Promo Campaign (Event)"
 draft = false
-tags = ["Events"]
-categories = ["Chuck E. Cheese's"]
+type = "Events"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","CoolerDude"]

@@ -8,8 +8,8 @@ contributors = ["Ceclife13", "Cyber Snout"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Jeff Cosco|Singing Voice of Chuck E. Cheese, Mr. Munch", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Doug Moncrief|Singing Voice of Pasqually", "Cathy Turner|Singing Voice of Helen Henny", "Ron Schneider|Writer", "Jeff Palmer|Producer, Director", "Casey Filiaci|Composer"]
 citations = ["https://www.youtube.com/watch?v=5mqJMsr_PLU&lc=Ugyx4iGMQOETNJWbi0B4AaABAg", "https://youtu.be/JGPhPDRzQvY?t"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E.'s Tall Tales*** was a show released on December 26, 1995, at Chuck E. Cheese's locations.
 

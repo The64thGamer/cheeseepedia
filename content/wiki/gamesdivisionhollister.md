@@ -1,8 +1,8 @@
 +++
 title = "Hollister, CA (1802 Shelton Drive)"
 draft = false
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 startDate = "1982-04-30"
 endDate = "1984-08-00"
 contributors = ["The 64th Gamer"]

@@ -2,8 +2,8 @@
 
 title = "Showtape Preservation & Archival"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = ["Chuck E. Cheese's", "Creative Engineering","ShowBiz Pizza Place","Pizza Time Theatre"]
+type = "Animatronic Preservation"
+tags = ["Chuck E. Cheese's", "Creative Engineering","ShowBiz Pizza Place","Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["Himitsu","The 64th Gamer","Nebbytales","Ls2018","Anonymous"]

@@ -6,7 +6,7 @@ endDate = "1986-00-00"
 stages = ["Balcony Stage|1982-12-00|1986-00-00|"]
 latitudeLongitude = ["22.299499","114.177238"]
 pageThumbnailFile = "KOWLOON2.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "1:15:01"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/January2006.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/January%202006%20Studio%20C-004.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/January%202006%203-Stage-006.iso|3-Stage DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***January 2006 Show*** is a showtape that was released in January 2006 and played until the end of March 2006.
 

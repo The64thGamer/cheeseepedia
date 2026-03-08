@@ -8,8 +8,8 @@ contributors = ["Luigigamin212"]
 citations = ["https://youtu.be/7ekedD2jCeM?si=232zm2MzjaxbCjC6"]
 transcriptions = ["Catch A Wave", "Roast Beef Sandwich and a Pizza", "Hit The Cymbal"]
 alsoKnownAs = ["12 Shows Special / 10 20 81", "1981 Shows", "Creative Engineering- 12 Shows- Low Speed- Tailwound- 10/15/81 SM"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place", "Creative Engineering"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place", "Creative Engineering"]
 +++
 ***12 Shows Special*** (Also known as ***1981 Shows***) was a {{< wiki-link "Rock-afire Explosion" >}} showtape released on October 15th, 1981. The tape follows up exactly from the previous month's {{< wiki-link "7 Shows Special" >}}
 

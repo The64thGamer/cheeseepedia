@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "1:00:37"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Pre-93)", "3-Stage SVHS (Post-93)", "R12 SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Jan2004Show.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/January%202004%20Studio%20C-007.iso|Studio C DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***January 2004 Show*** is a showtape released in January 2004, which ran through March 2004.
 

@@ -2,7 +2,7 @@
 title = "Fun Zone & Pizza"
 draft = false
 tags = []
-categories = []
+tags = []
 
 
 startDate = ""

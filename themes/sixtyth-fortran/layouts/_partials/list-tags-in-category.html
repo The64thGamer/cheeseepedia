@@ -21,7 +21,7 @@
     <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
       {{- $tags := dict -}} <!-- Initialize a dictionary for tags -->
       {{- range $pages -}}
-        {{- range .Params.tags -}}
+        {{- range .Params.type -}}
           {{- $tag := . -}}
           {{- $count := index $tags $tag | default 0 -}}
           {{- $tags = merge $tags (dict $tag (add $count 1)) -}}

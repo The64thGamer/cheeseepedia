@@ -2,8 +2,8 @@
 
 title = "SPP Davenport (Commercial)"
 draft = false
-tags = ["Commercials"]
-categories = ["ShowBiz Pizza Place"]
+type = "Commercials"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ShowBizMidwest","Sponch man","Chouts1"]

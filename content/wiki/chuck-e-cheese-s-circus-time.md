@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Circus Time"
 draft = false
-tags = ["Arcades and Attractions"]
-categories = ["Pizza Time Theatre"]
+type = "Arcades and Attractions"
+tags = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Anonymous"]

@@ -1,8 +1,8 @@
 +++
 title = "SPP Liberty Wave Cyber"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1989-06-19"
 endDate = "1992-00-00"
 contributors = ["DerekCat"]

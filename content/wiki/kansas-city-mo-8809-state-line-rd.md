@@ -15,8 +15,8 @@ remodels = ["Peter Piper Pizza 2.0 Remodel Program|2023-06-20","CEC 2.0 Remodel 
 stages = ["Video Wall|2023-06-20|2026-01-06","Video Wall|2023-06-20|2024-06-30"]
 downloadLinks = []
 latitudeLongitude = ["38.96713327", "-94.60806003"]
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Kansas City, MO (8809 State Line Rd)*** originally opened June 20, 2023 as a Peter Piper Pizzeria{{< cite 1 >}} and closed on June 30th, 2024; it reopened as a Chuck E. Cheese's on August 28th, 2024, until closing again on June 22nd, 2025; it finally launched as a unique {{< wiki-link "Chuck's Arcade" >}} on June 28th, 2025, and closed on January 6, 2026.{{< cite 2 >}}. 
 

@@ -1,8 +1,8 @@
 +++
 title = "Kooser Flag Wavers (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1978-12-00"
 endDate = "1980-05-00"
 contributors = ["Pizza Entertainment Fan"]

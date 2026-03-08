@@ -1,8 +1,8 @@
 +++
 title = "The Chuck E. Cheese Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2014-07-01"
 endDate = "2014-08-31"
 contributors = ["Cyber Snout","Himitsu","The 64th Gamer","DerpJobi","ShowBizChuck","Ceclife13"]

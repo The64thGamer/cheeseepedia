@@ -7,8 +7,8 @@ pageThumbnailFile = "rockinxmas99.avif"
 contributors = ["Ceclife13"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Show Announcer", "Brian Hagan|Studio Manager", "Robert Gotcher|Production Coordinator", "Brent Gray|Studio Coordinator"]
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 ***'Rockin’ Christmas Eve'*** was a holiday live show which played alongside {{< wiki-link "Chuck E’s Holiday Party 1999" >}} and was reissued several times after. 
 

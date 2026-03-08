@@ -10,8 +10,8 @@ citations = ["https://archive.org/details/aps-red-case"]
 mediaDuration = "50:49"
 showtapeFormats = ["R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 transcriptions = ["May 1992 Segment 1", "May 1992 Segment 2", "CEC TV News Munch for President", "May 1992 Segment 3"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 alsoKnownAs = []
 +++
 **Environment** was a showtape that played from May 1992 through June 1992 at Chuck E. Cheese's Pizza.

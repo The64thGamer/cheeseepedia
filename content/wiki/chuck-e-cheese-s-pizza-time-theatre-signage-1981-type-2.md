@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Pizza Time Theatre Signage (1981, Type 2)"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["CEC1988"]

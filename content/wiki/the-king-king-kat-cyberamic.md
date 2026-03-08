@@ -10,8 +10,8 @@ manufacturer = "Creative Engineering, Inc."
 dimensions = "9 Feet tall, width unknown."
 showtapeFormats = ["Cyberamics Reel", "C&R SVHS (Post-93)"]
 alsoKnownAs = ["Elvis", "Michael Katzon"]
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 +++
 ***The King / King Kat (Cyberamic)*** was a 9-foot-tall animatronic character inspired by Elvis Presley, debuting at Chuck E. Cheese's Pizza Time Theatre.
 

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's - I'm Da Greatest / Biggest Fan (1985)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 startDate = "1985-00-00"
 endDate = "1985-00-00"
 contributors = ["The 64th Gamer","Tux Chuck"]

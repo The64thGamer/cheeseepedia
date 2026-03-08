@@ -11,8 +11,8 @@ mediaDuration = "52:46"
 showtapeFormats = ["C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 transcriptions = ["CEC TV News Pasqually on the moon"]
 alsoKnownAs = ["(C) S.P.T. Inc. CU JAN-92 SPACE/WAVE (3 STAGE) Serial #00139 Deck - 4 12/11/91 - Master REVISED"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Rock It In Space** was released in January 1992 and played until February of the same year.
 

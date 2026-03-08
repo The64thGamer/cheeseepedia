@@ -15,8 +15,8 @@ citations = ["https://archive.org/details/the-pizza-times-newsletters/1979%20The
 contributors = ["The 64th Gamer"]
 downloadLinks = ["https://archive.org/details/concord-ca-1975-diamond-blvd|Building Plans (May 23rd, 1979)"]
 pageThumbnailFile = "9dipf6po64hdlwbf.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Concord, CA (1975 Diamond Blvd, Building D-100)*** was the third *Pizza Time Theatre* location that opened sometime within the week of May 28th - June 3rd of 1979 with a {{< wiki-link "Portrait / Shelf Stage" >}} and two floors, which closed in January of 1994 with an unknown stage.{{< cite 4 >}}

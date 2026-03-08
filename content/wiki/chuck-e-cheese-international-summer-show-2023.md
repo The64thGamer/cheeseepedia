@@ -3,8 +3,8 @@ title = "Chuck E. Cheese International Summer Show 2023"
 pageThumbnailFile = "Summer2023Int.avif"
 contributors = ["Ceclife13"]
 showtapeFormats = ["Studio C 3X DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-06-00"
 endDate = "2023-09-00"
 +++

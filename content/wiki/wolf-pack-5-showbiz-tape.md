@@ -1,8 +1,8 @@
 +++
 title = "Wolf Pack 5 ShowBiz Tape"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place","Creative Engineering"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place","Creative Engineering"]
 startDate = "1980-03-03"
 endDate = "0000-00-00"
 contributors = ["Sponch man","Himitsu","The 64th Gamer","Anonymous"]

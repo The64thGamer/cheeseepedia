@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Show 3 2021 International"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-07-16"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","Himitsu"]

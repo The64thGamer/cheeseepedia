@@ -14,7 +14,7 @@
             <li class="recent-item"
                 data-updated="{{ .GitInfo.AuthorDate.Format "2006-01-02T15:04:05Z07:00" }}">
                 <a href="{{ .RelPermalink }}">
-                {{- with .Params.Tags -}}
+                {{- with .Params.type -}}
                     {{- partial "emojijustemoji.html" . -}}{{- " " -}}
                 {{- end -}}
                 {{- with .LinkTitle -}}

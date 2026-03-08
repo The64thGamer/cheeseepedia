@@ -2,8 +2,8 @@
 
 title = "Dusty (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronics"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = ""

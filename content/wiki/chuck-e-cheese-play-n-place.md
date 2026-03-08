@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Play-N-Place"
 draft = false
-tags = ["Arcades and Attractions"]
-categories = ["Pizza Time Theatre"]
+type = "Arcades and Attractions"
+tags = ["Pizza Time Theatre"]
 
 
 startDate = ""

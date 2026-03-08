@@ -1,8 +1,8 @@
 +++
 title = "Rock & Pizza Roll (CEC Menu Item)"
 draft = false
-tags = ["Menu Items"]
-categories = ["Chuck E. Cheese's"]
+type = "Menu Items"
+tags = ["Chuck E. Cheese's"]
 startDate = "2018-10-01"
 endDate = "2018-12-30"
 contributors = ["The 64th Gamer","Cyber Snout"]

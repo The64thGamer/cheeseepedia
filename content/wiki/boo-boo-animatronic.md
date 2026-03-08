@@ -1,8 +1,8 @@
 +++
 title = "Boo Boo (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronics"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "m7dJrLi4GybLImBFQ9Go.avif"
 startDate = "1987-09-00"
 endDate = "1987-11-00"

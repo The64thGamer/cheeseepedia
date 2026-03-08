@@ -9,8 +9,8 @@ credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Che
 citations = []
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)"]
 transcriptions = ["December 1991 Segment 1", "December 1991 Segment 2", "December 1991 Segment 3"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Xmas 1991 Show** is a Christmas showtape that played all December at Chuck E. Cheese's. This show is notable for being the first Munch's Make Believe Band Christmas showtape.
 

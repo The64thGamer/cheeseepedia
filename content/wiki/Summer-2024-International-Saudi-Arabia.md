@@ -6,8 +6,8 @@ pageThumbnailFile = "summer2024int.avif"
 contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Media Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Summer Show 2024 International (Saudi Arabia)** was released on May 6, 2024 and ran until August 4, 2024.
 

@@ -6,8 +6,8 @@ endDate = ""
 pageThumbnailFile = "PCAxj87MBMaErxKfhxDC.avif"
 contributors = ["Herzognate", "ChuckEPediaIsTheBest!", "Anonymous", "JasperLover", "Pizza Entertainment Fan", "The 64th Gamer", "SuperCreamPiper2008", "CECMentor"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf\">https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf</a>"]
-tags = ["Characters"]
-categories = ["Pizza Time Theatre"]
+type = "Characters"
+tags = ["Pizza Time Theatre"]
 +++
 
 ***Mr. Munch*** is one of the main characters of the Chuck E. Cheese's franchise, making his debut at the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} location in 1978.

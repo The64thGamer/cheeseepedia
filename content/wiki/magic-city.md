@@ -2,7 +2,7 @@
 title = "Magic City"
 draft = false
 tags = []
-categories = ["Creative Engineering"]
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

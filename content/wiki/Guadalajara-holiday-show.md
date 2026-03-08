@@ -1,8 +1,8 @@
 +++
 title = "Guadalajara Holiday Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "IntHolidayMexico.avif"
 startDate = "2020-11-19"
 endDate = "2020-00-00"

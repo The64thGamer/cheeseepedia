@@ -1,8 +1,8 @@
 +++
 title = "Around the World (Balcony Stage Theme)"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+type = "Stage Variations"
+tags = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["JamesLemony"]

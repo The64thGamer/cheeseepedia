@@ -1,8 +1,8 @@
 +++
 title = "SPP Best Of 1 Kids/Friends"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1990-08-17"
 endDate = "1992-00-00"
 contributors = ["DerekCat"]

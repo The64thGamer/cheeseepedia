@@ -2,8 +2,8 @@
 
 title = "Jasper T. Jowls Olympics Glass"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Pizza Time Theatre"]
+type = "In-Store Merchandise"
+tags = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["Jonn"]

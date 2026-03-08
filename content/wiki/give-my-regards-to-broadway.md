@@ -1,8 +1,8 @@
 +++
 title = "Give My Regards To Broadway"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "1998-09-00"
 endDate = "0000-00-00"

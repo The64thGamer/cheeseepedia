@@ -16,6 +16,6 @@ latitudeLongitude = ["32.23518977", "-110.8627695"]
 citations = []
 downloadLinks = []
 pageThumbnailFile = "s_mlQlEZbqLijJe9FKT4.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 +++

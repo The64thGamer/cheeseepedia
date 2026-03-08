@@ -9,8 +9,8 @@ citations = ["https://www.youtube.com/playlist?list=PLTXoj5l850hE0SaqxPDNMpvt3mR
 showtapeFormats = ["Cyberamics Reel"]
 credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Foxy Colleen", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
 transcriptions = ["Salute to The Great American Railroad"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 ***Foxy Colleen in Irish Stew*** is a Pizza Time Theatre showtape featuring the guest star *Foxy Colleen*.** **It was released in August of 1980.
 

@@ -2,8 +2,8 @@
 
 title = "Hits / Time Machine"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1986-03-20"
 endDate = "1986-00-00"
 contributors = ["The 64th Gamer"]

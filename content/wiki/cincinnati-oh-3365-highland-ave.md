@@ -15,8 +15,8 @@ citations = ["https://www.newspapers.com/article/the-cincinnati-enquirer-spp-hig
 contributors = ["CyberSnout"]
 downloadLinks = []
 pageThumbnailFile = "FWMcQP6cCrxlJAzSSLKl.avif"
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++
 ***Cincinnati, OH (3365 Highland Ave)*** was a *ShowBiz Pizza Place* location that opened on November 11, 1982{{< cite 2 >}} and would close in Fall 1985{{< cite 12 >}}.

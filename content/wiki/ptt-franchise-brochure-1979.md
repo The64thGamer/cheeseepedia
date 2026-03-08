@@ -1,8 +1,8 @@
 +++
 title = "PTT Franchise Brochure (1979)"
 draft = false
-tags = ["Documents"]
-categories = ["Pizza Time Theatre"]
+type = "Documents"
+tags = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "1979-00-00"
 contributors = ["Pizza Entertainment Fan"]

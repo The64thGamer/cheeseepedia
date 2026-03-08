@@ -1,8 +1,8 @@
 +++
 title = "New Rock-afire Explosion Control System"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["Creative Engineering"]
+type = "Animatronic Control Systems"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["Himitsu","Ls2018"]

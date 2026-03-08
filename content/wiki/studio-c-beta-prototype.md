@@ -1,8 +1,8 @@
 +++
 title = "Studio C Beta Prototype"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "2000-04-10"
 endDate = "2022-10-18"
 contributors = ["CECBowlingGreen","Cyber Snout","Ceclife13","ShowBizMidwest","BurgersNuggs445","Pasquallytheplumber","The 64th Gamer","Stripes","AstridMascotFan2005"]

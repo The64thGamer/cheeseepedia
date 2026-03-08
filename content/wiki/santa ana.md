@@ -14,8 +14,8 @@ latitudeLongitude = ["0","0"]
 citations = ["https://www.newspapers.com/article/the-los-angeles-times-potential-huntingt/181898791/","https://www.cectokencollectors.com/type-1b-tokens/","https://archive.org/details/play-meter-update-volume-5-number-12-july-1st-1979/Play%20Meter%20Update%20-%20Volume%205%2C%20Number%2012%20-%20July%201st%201979/page/n1/mode/2up?q=pizza+time+theatre"]
 contributors = ["The 64th Gamer"]
 downloadLinks = []
-tags = ["Cancelled Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Cancelled Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 pageThumbnailFile = "vp5gtoiqne86f1cv.avif"
 +++

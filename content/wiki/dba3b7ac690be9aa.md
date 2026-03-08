@@ -2,8 +2,8 @@
 
 title = "2023 CEC Ornament"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "58e174e3f64abe85.avif"
 startDate = "2023-00-00"
 endDate = "0000-00-00"

@@ -14,8 +14,8 @@ citations = ["Info from Operations Manager","Missing Source","https://www.facebo
 contributors = ["CyberSnout", "Mozilla", "MultiMonorail"]
 downloadLinks = []
 pageThumbnailFile = "yX_gKpHF3iezLHIyEHGj.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 attractions = []
 +++

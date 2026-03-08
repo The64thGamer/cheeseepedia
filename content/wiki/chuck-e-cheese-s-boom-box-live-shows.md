@@ -6,8 +6,8 @@ endDate = "2014-08-31"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = []
 pageThumbnailFile = "Boomboxlives.avif"
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese's Boom Box Live Shows** was a CD released alongside the {{< wiki-link "First Quarter 2014 Show" >}} which featured seven {{< wiki-link "Road Shows" >}}.
 

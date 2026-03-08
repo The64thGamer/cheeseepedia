@@ -1,8 +1,8 @@
 +++
 title = "Introducing: Yogi Bear!"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1987-09-00"
 endDate = "1987-11-00"
 pageThumbnailFile = "5ddZ2GY8x9TqXWjppj0r.avif"

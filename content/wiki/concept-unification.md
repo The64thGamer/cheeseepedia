@@ -1,8 +1,8 @@
 +++
 title = "Concept Unification"
 draft = false
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's","ShowBiz Pizza Place"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's","ShowBiz Pizza Place"]
 startDate = "1990-06-00"
 endDate = "1993-00-00"
 contributors = ["CECBowlingGreen","BurgersNuggs445","ChuckEPediaIsTheBest!","Anonymous","Rexburg090","Anonymous","The 64th Gamer","Anonymous","BigCDataFinder ","Stripes","Cyber Snout","Caydenpedia"]

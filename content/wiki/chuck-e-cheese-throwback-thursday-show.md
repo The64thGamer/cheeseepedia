@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Throwback Thursday Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2024-07-18"
 endDate = ""
 contributors = ["Cyber Snout","Dame0824","Cy's Junk at School","Ceclife13"]

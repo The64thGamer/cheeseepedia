@@ -5,8 +5,8 @@ startDate = "1979-00-00"
 endDate = ""
 pageThumbnailFile = "artie09234i9203i4.avif"
 contributors = ["Kathydra", "The 64th Gamer", "Pizza Entertainment Fan"]
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 citations = ["http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf", "http://riordanco.com/projects_success.php", "https://www.newspapers.com/article/the-salt-lake-tribune/55139423/", "https://www.newspapers.com/article/the-sacramento-bee/42661268/", "https://www.newspapers.com/article/the-salt-lake-tribune-utah-ptts-remodel/192723256/", "https://www.newspapers.com/article/the-courier-journal/38825091/", "https://www.facebook.com/photo/?fbid=1068050179902538&set=a.205752709465627", "https://www.showbizpizza.com/info/promo/ptt/ptt_77menu.pdf", "https://www.newspapers.com/article/daily-press/82956153/", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1979.pdf"]
 +++
 ***Artie Antlers*** was a set of Cabaret Piano Cyberamic Animatronics designed after the {{< wiki-link "Pizza Time Theatre" >}} character {{< wiki-link "Artie Antlers" >}} that were used as retrofits/replacements to {{< wiki-link "Dolli Dimples (Cabaret)" >}} Animatronics. The Animatronic was originally created for the character of {{< wiki-link "Elkton John" >}}.

@@ -2,8 +2,8 @@
 
 title = "1988 PTT Franchise Convention (Event)"
 draft = false
-tags = ["Events"]
-categories = ["Chuck E. Cheese's"]
+type = "Events"
+tags = ["Chuck E. Cheese's"]
 startDate = "1988-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

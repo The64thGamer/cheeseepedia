@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Evergreen Show 2023"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-01-09"
 endDate = "2023-04-02"
 contributors = ["Studio 18 Ent","Bowling for Cheese","Cyber Snout","The 64th Gamer","CyCGM","CEC Denver","BurgersNuggs445","CEC Tinley","Dame","YoyoandRonnie"]

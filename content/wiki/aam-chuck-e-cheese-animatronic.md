@@ -1,8 +1,8 @@
 +++
 title = "AAM Chuck E. Cheese (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronics"
+tags = ["Chuck E. Cheese's"]
 startDate = "1996-08-21"
 endDate = "1997-00-00"
 contributors = ["BurgersNuggs445","LolMarklosthisaccountalready","Anonymous","The 64th Gamer","Paskkkk"]

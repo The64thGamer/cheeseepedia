@@ -6,8 +6,8 @@ endDate = "0000-00-00"
 pageThumbnailFile = ""
 contributors = ["Kathydra"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/promo/cei/cei_1977promo.pdf\">https://www.showbizpizza.com/info/promo/cei/cei_1977promo.pdf</a> ", "<a href=\"https://www.youtube.com/watch?v=P_xrIayIsV8\">https://www.youtube.com/watch?v=P_xrIayIsV8</a> ", "<a href=\"https://www.showbizpizza.com/events/index.html\">https://www.showbizpizza.com/events/index.html</a>  "]
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 +++
 
 ***Elfis*** is Santa's only rock 'n' rebel.

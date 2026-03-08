@@ -1,8 +1,8 @@
 +++
 title = "1990-1992 APS Floppy Cases"
 draft = false
-tags = ["History"]
-categories = ["Chuck E. Cheese's"]
+type = "History"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Himitsu","Anonymous","Ceclife13"]

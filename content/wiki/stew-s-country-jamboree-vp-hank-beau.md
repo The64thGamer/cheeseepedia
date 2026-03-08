@@ -1,8 +1,8 @@
 +++
 title = "Stew's Country Jamboree (VP Hank & Beau)"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["VP Animations"]
+type = "Animatronic Shows"
+tags = ["VP Animations"]
 
 
 startDate = ""

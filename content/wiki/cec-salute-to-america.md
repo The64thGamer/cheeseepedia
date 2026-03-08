@@ -1,8 +1,8 @@
 +++
 title = "CEC Salute to America"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "Wkhk48BnyCrmNg4QFrtB.avif"
 startDate = "1985-06-00"
 endDate = "1985-07-00"

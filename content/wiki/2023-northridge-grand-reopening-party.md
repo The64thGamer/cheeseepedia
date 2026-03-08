@@ -1,8 +1,8 @@
 +++
 title = "2023 Northridge Grand Reopening Party"
 draft = false
-tags = ["Events"]
-categories = ["Chuck E. Cheese's"]
+type = "Events"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = "2023-00-00"

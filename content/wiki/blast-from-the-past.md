@@ -9,8 +9,8 @@ citations = ["https://www.youtube.com/watch?v=NnOlH7oRHZs"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "51:45"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/January%201998%203-Stage.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Blast From The Past*** was a compilation show that was released in January of 1998 at Chuck E. Cheese's. It was the last showtape made for C&R stages. Going forward, all Cyberamic stages would use R12 programming.
 

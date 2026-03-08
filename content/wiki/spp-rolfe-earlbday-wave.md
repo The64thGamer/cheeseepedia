@@ -10,8 +10,8 @@ credits = ["Joe Conti|Rolfe Dewolfe & Earl Schmerle"]
 showtapeFormats = ["ShowBiz SVHS"]
 downloadLinks = ["https://archive.org/download/rolfe-and-earle-dvd/Rolfe%20and%20Earle%20DVD.iso|VHS Rip (Missing Data)"]
 alsoKnownAs = ["260-0611-90(C) S. P. T. Inc.SPP Rolfe & EarlSerial #0042 Deck - 406/11/90 - Master HIFI"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 [[segments]]
 title = "Intermission 1"
 

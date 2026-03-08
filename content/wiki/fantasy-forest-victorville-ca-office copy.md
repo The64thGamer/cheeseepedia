@@ -1,8 +1,8 @@
 +++
 title = "Victorville, CA (15367 Tamarack Unit B)"
 draft = false
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 startDate = "1971-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

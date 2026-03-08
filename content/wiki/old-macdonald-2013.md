@@ -6,6 +6,6 @@ endDate = "2018-09-30"
 pageThumbnailFile = " "
 contributors = ["Cyber Snout"]
 credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Michael Hill - Studio Coordinator", "Matt Daniel - Production Manager"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++

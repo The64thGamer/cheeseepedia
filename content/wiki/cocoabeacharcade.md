@@ -1,8 +1,8 @@
 +++
 title = "Cocoa Beach, FL (401 Meade Avenue)"
 draft = false
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 startDate = "2025-11-01"
 endDate = ""
 contributors = ["The 64th Gamer"]

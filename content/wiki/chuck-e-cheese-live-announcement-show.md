@@ -9,8 +9,8 @@ citations = ["https://archive.org/details/chuck-e.-cheese-live-announcement", "h
 mediaDuration = "6:10"
 downloadLinks = ["https://archive.org/details/northridge-announcement-original-audio|Original Full Showtape Audio"]
 transcriptions = ["Northridge Legacy Announcement"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese LIVE Announcement Show*** was a Cyberamics showtape used exclusively for a livestreamed announcement regarding the first of the {{< wiki-link "CEC Legacy Locations" >}}. The tape would premiere November 2nd, 2023.
 

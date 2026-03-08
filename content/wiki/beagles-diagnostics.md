@@ -1,8 +1,8 @@
 +++
 title = "Beagles Diagnostics"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "BeaglesPromo.avif"

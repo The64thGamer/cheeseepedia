@@ -1,8 +1,8 @@
 +++
 title = "Interactive Console"
 draft = false
-tags = ["Other Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Other Systems"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["BurgersNuggs445","The 64th Gamer","CECBowlingGreen","SniffCEC","CEC Tinley","CorrectorMan","GuestIsJustBest","Stripes","Cyber Snout","BenTrainFan2000"]

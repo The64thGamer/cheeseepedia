@@ -14,8 +14,8 @@ citations = ["https://cdnc.ucr.edu/?a=d&d=OT19851218.1.72&srpos=1&e=-------en--2
 contributors = ["The 64th Gamer"]
 downloadLinks = []
 pageThumbnailFile = "ck2ipa77pic4r81z.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Fremont, CA (5141 Mowry Ave)*** was a Pizza Time Theatre that opened in December of 1980, and lasted until January of 1985.

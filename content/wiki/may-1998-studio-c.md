@@ -9,8 +9,8 @@ credits = ["Jeremy Blaido|Voice of Chuck E. Cheese, Wick Ladderback, Announcer, 
 citations = ["https://www.youtube.com/watch?v=6QRS--fDlbQ&t=649s"]
 mediaDuration = "51:28"
 showtapeFormats = ["R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **May 1998 Studio C** released May 1998 and ran until June 23rd, 1998. It would then be played again from July 7th, 1998, until September 1998.
 This show was a modified version of the Studio C Premiere show with retooled dialogue to better fit Existing Stages.

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Evergreen Show 2022 International (August Update)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2022-00-00"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","ShowBiz Pizza International"]

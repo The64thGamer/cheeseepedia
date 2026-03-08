@@ -11,8 +11,8 @@ showtapeFormats = ["Studio C 4x Laserdisc + Files"]
 downloadLinks = ["https://archive.org/download/studio-c-premiere-show/Studio%20C%20Premiere%20Show.mp4|DVCAM Full Premiere Recording (AI Upscaled)"]
 alsoKnownAs = ["Studio C Premiere (Final Ver)"]
 mediaDuration = "53:27"
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Studio C Premiere*** was released in December 1997 and ran until September 1998.
 This show was eventually modified and re-edited for MMBB stores with the {{< wiki-link "May 1998 Studio C" >}}.

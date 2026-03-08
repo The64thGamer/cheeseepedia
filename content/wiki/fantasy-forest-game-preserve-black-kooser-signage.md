@@ -1,8 +1,8 @@
 +++
 title = "Fantasy Forest Game Preserve - Black (Kooser Signage)"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Pizza Time Theatre"]
+type = "Store Fixtures"
+tags = ["Pizza Time Theatre"]
 startDate = "1978-00-00"
 endDate = "0000-00-00"
 contributors = ["Concordio"]

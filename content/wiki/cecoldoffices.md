@@ -1,8 +1,8 @@
 +++
 title = "Irving, TX (4441 W Airport Fwy Ste 215)"
 draft = false
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1983-00-00"
 endDate = "2015-07-00"
 contributors = ["The 64th Gamer","Anonymous","BurgersNuggs445","Cyber Snout","Chucke.show","Ceclife13","Chucke","Cy's Junk at School","SuperCreamPiper2008","Saan1ty"]

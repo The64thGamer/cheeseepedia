@@ -1,8 +1,8 @@
 +++
 title = "Madame Oink I"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1978-02-00"
 endDate = "1978-10-00"
 contributors = ["The 64th Gamer","WalterB","Ceclife13"]

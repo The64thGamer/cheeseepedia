@@ -1,8 +1,8 @@
 +++
 title = "Kooser Chuck Walkaround"
 draft = false
-tags = ["Costumed Characters"]
-categories = ["Pizza Time Theatre"]
+type = "Costumed Characters"
+tags = ["Pizza Time Theatre"]
 startDate = "1978-12-00"
 endDate = "0000-00-00"
 contributors = ["Jaxon11","RessiduePezzzado","NoName2000","The 64th Gamer"]

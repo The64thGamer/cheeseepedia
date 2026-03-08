@@ -7,8 +7,8 @@ contributors = ["Sponch man", "The 64th Gamer", "Luigigamin212"]
 citations = ["http://www.showbizpizza.com/rae/history/index.html", "https://www.showbizpizza.com/review/rae/1982_abbeyroad.html", "https://m.facebook.com/permalink.php?story_fbid=10150275198662312&id=101506232311", "https://youtu.be/lvMtt4EQJnc?t=12", "https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert"]
 showtapeFormats = ["CEI 8-Track Reel"]
 transcriptions = ["Clap for the Wolfman", "Dragstrip in The Sky"]
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 +++
 **The Wolf Pack 5 IAAPA 1978 Showtape** was the first showtape created for the {{< wiki-link "Wolf Pack 5" >}}.{{< cite 1 >}} It was created in 1978 specifically for the IAAPA 1978 Expo in Atlanta, Georgia, United States, where the Wolf Pack 5 made their original debut to the public.
 

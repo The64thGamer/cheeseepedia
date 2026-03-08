@@ -1,7 +1,7 @@
 <div class="tri-column">
   <ul>
       {{- range site.RegularPages -}}
-        {{- if not .Params.tags -}}
+        {{- if not .Params.type -}}
           <li><a href="{{- .Permalink -}}">{{- .Title -}}</a></li>
         {{- end -}}
       {{- end -}}

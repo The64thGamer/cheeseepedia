@@ -4,8 +4,8 @@ startDate = ""
 pageThumbnailFile = "CyberamicShoulderBarandbottombracket.avif"
 contributors = ["Luigigamin212"]
 citations = ["@Rockafire_Moon"]
-tags = ["Animatronic Parts"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Parts"
+tags = ["Pizza Time Theatre"]
 +++
 The *Cyberamic Shoulder Bar*, part of Part no. 000-0046, is an A36 carbon steel Bar that consists of two Welded pieces of metal (One long bar on top and another U shaped bracket used to stabilize the top bar to the spine) and has holes used to attach to the arms, neck bracket, and serve as a connection between the pieces in order for the body to turn.
 

@@ -1,8 +1,8 @@
 +++
 title = "Pizza Time Theatre Games Division"
 draft = false
-tags = ["Companies/Brands"]
-categories = ["Pizza Time Theatre"]
+type = "Companies/Brands"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = "1979-00-00"
 endDate = "1984-08-00"

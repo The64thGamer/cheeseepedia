@@ -9,8 +9,8 @@ citations = ["https://archive.org/download/studio-c-floppy-discs-rips/Summer2004
 credits = ["Robert Gotcher|Director", "Matt Daniel|Production Coordinator, VJ", "Ryan Hollingsworth|Production Specialist, Hank Howdy"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Pre-93)", "3-Stage SVHS (Post-93)", "R12 SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Summer2004.img|Studio C Floppy Disk"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Summer 2004 Show** was a rerelease of {{< wiki-link "Summertime 2003" >}} with new and revised intermissions.
 

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Show 5 2021"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-11-15"
 endDate = "2022-1-02"
 contributors = ["Cyber Snout","The 64th Gamer","Himitsu","Mousester","Dame868"]

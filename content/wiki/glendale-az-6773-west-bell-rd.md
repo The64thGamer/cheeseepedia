@@ -15,8 +15,8 @@ citations = []
 contributors = ["KawaiiZenbo"]
 downloadLinks = []
 pageThumbnailFile = "gVansnh57Md0oyXzlwcp.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 animatronics = ["Chuck E. Cheese 16m (Animatronic)|2005-06-29|2020-05-00||Unknown/Destroyed.", "Pizza Time Clock (Animatronic)|2005-06-29|2020-05-00||Unknown/Destroyed."]
 +++

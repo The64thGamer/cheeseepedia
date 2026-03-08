@@ -2,8 +2,8 @@
 
 title = "Cheese Roll"
 draft = false
-tags = ["Arcades and Attractions"]
-categories = ["Pizza Time Theatre"]
+type = "Arcades and Attractions"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = "4uu334ap1jcdf6tf.avif"
 startDate = "1983-00-00"
 endDate = "0000-00-00"

@@ -6,8 +6,8 @@ endDate = "1986-00-00"
 stages = ["Balcony Stage|1984-00-00|1986-00-00|"]
 latitudeLongitude = ["22.248411","114.154576"]
 pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 citations = ["https://sls.hkpl.gov.hk/digital-collection/en/contentcoverpage.html?currentPosition=1&catalogueId=1aea7ba29cb711ef9c2&mainKeyword=%E8%96%84%E9%A4%85%E6%A8%82%E5%9C%92&isHKMP="]
 +++

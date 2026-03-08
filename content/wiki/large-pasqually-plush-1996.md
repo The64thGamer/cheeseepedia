@@ -7,8 +7,8 @@ pageThumbnailFile = "zWS786Zf4MP1y1vaWL4B.avif"
 contributors = ["ToadEatSock", "BurgersNuggs445", "CEC Tinley", "randomguyfan22"]
 citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
 manufacturer = "Dennis Foland Inc's"
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 +++
 The **1996 Large Pasqually Plush** was an official product produced for the Prize counters in 1996 by Dennis Foland. Inc.
 

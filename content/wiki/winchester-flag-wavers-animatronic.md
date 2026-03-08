@@ -1,8 +1,8 @@
 +++
 title = "Winchester Flag Wavers (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-05-00"
 endDate = "1985-02-00"
 contributors = ["Pizza Entertainment Fan"]

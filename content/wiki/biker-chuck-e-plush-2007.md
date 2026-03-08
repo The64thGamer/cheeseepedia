@@ -5,6 +5,6 @@ endDate = "0000-00-00"
 contributors = ["showbizbetadude"]
 citations = ["Worthpoint"]
 manufacturer = "0000-00-00"
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 +++

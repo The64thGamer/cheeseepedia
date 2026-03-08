@@ -1,8 +1,8 @@
 +++
 title = "PTT Basic Ordering Agreement"
 draft = false
-tags = ["Documents"]
-categories = ["Pizza Time Theatre"]
+type = "Documents"
+tags = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

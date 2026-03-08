@@ -6,8 +6,8 @@ pageThumbnailFile = "U6FajdXvHM3uOV7c5e1z.avif"
 contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Media Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Evergreen 2024 Show August Update International (Mexico)** was released on August 5, 2024 and ran until September 29, 2024.
 

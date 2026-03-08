@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Summer of Fun 2022 Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2022-06-06"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","The 64th Gamer","Bowling for Cheese","Dame868"]

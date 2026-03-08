@@ -1,8 +1,8 @@
 +++
 title = "Rocky the Panda (Chuck E. Cheese Retrofit)"
 draft = false
-tags = ["Retrofits"]
-categories = ["Sally Corporation"]
+type = "Retrofits"
+tags = ["Sally Corporation"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Pizza Entertainment Fan"]

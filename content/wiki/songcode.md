@@ -2,8 +2,8 @@
 
 title = "SongCode"
 draft = false
-tags = ["Programming Systems"]
-categories = ["Pizza Time Theatre"]
+type = "Programming Systems"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Himitsu","CEC Tinley"]

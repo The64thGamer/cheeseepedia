@@ -1,8 +1,8 @@
 +++
 title = "Winchester Chuck E. Cheese V2 (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1978-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Anonymous","JJperks","Maddox121","EagleScout610","RedaCEC","BurgersNuggs445","KPIZZA03","Anonymous","SonicFazbear","Anonymous","Chucke.show","Anonymous","Pizza Entertainment Fan","Newbie editor","StarToday77"]

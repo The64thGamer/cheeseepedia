@@ -2,8 +2,8 @@
 
 title = "Biphase Mark Code"
 draft = false
-tags = ["Showtape Formats"]
-categories = ["Pizza Time Theatre"]
+type = "Showtape Formats"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["BattleXGamer3"]

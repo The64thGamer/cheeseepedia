@@ -4,8 +4,8 @@ startDate = "2026-00-00"
 pageThumbnailFile = "simulator-mony-mony.avif"
 contributors = ["BattleXGamer3"]
 citations = ["Official Statement from @BattleXGamer32"]
-tags = ["Simulators"]
-categories = ["Creative Engineering"]
+type = "Simulators"
+tags = ["Creative Engineering"]
 +++
 
 ***The Rock-afire Simulator*** is an in-development official Creative Engineering animatronics simulator, set to be released in 2025 or 2026.

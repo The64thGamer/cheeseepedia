@@ -15,8 +15,8 @@ citations = []
 contributors = ["CyberSnout"]
 downloadLinks = []
 pageThumbnailFile = "f3Js7KYB6TlERj6mdZYp.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 animatronics = []
 +++

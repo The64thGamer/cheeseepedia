@@ -1,8 +1,8 @@
 +++
 title = "Ronald McDonald (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Setmakers","AVG Technologies"]
+type = "Animatronics"
+tags = ["Setmakers","AVG Technologies"]
 startDate = "1984-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

@@ -8,8 +8,8 @@ contributors = ["Ceclife13"]
 credits = ["Kenny Ingram|Voice of King Kat"]
 citations = []
 showtapeFormats = ["Cyberamics Reel"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 King Kat was the only showtape released for the *King Kat* Lounge show in 1984. This show is comprised of original artist recordings of Michael Jackson songs with newly recorded intros and outros.
 

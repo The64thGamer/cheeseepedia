@@ -9,8 +9,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician", "Kar
 mediaDuration = "1:18:18"
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Just for Kids Show (April 2000)** was released in April 2000 and ran until July 2000.
 Featured 4 segments singing various kids' songs and parodies of kids songs.

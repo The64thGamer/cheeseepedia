@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician", "Ann
 mediaDuration = "1:51:09"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/January%202011%20Studio%20C-002.iso|Studio C DVD ISO", "https://archive.org/download/3stage_dvd_signals/January%202011%203-Stage-007.iso|3-Stage DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **January 2011** was a showtape featuring eight new songs, which was released in January 2011 and played through the spring.
 

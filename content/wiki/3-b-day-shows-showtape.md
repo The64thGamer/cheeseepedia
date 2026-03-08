@@ -2,8 +2,8 @@
 
 title = "3 B'Day Shows Showtape"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "kjncv98342y5.avif"
 startDate = "1986-05-07"
 endDate = "1989-00-00"

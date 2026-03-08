@@ -2,8 +2,8 @@
 
 title = "CEC Summer of Fun Concert (Event)"
 draft = false
-tags = ["Events"]
-categories = ["Chuck E. Cheese's"]
+type = "Events"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = "2021-00-00"

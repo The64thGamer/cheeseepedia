@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician", "Ann
 mediaDuration = "1:24:34"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/CECTVApril2005Show.img|Studio C Floppy Disk", "https://archive.org/download/studio_c_showtape_dvds/April%202005%20Studio%20C-007.iso|Studio C DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***CEC TV April 2005 Show*** is a showtape that was released in April 2005 and played until the end of June 2005.
 

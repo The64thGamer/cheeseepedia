@@ -1,8 +1,8 @@
 +++
 title = "Cheese Crawl"
 draft = false
-tags = ["Arcades and Attractions"]
-categories = ["Pizza Time Theatre"]
+type = "Arcades and Attractions"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = "c4xhid4x0ce0o1a4.avif"
 startDate = "1977-05-17"
 endDate = "0000-00-00"

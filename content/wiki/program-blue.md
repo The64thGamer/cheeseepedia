@@ -5,8 +5,8 @@ startDate = ""
 endDate = ""
 contributors = ["Charlie Rockit", "BattleXGamer3"]
 citations = ["https://www.servomagazine.com/magazine/article/rockin_robot_style"]
-tags = ["Programming Systems"]
-categories = ["Creative Engineering"]
+type = "Programming Systems"
+tags = ["Creative Engineering"]
 +++
 Program Blue is a windows based program created by David "Big Ham" Ferguson in the early 2000s. Written in C++ it can be utilised to control Cyberamics, RAE, beagles, guest stars, Mjjins and more.
 

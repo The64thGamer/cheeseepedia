@@ -1,8 +1,8 @@
 +++
 title = "Cyberamic Clippard Valve Maintenance"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = [""]
+type = "Animatronic Preservation"
+tags = [""]
 startDate = ""
 endDate = ""
 contributors = ["Anonymous","The 64th Gamer","ShowBizMidwest","Anonymous"]

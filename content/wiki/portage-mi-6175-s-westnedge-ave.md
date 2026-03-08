@@ -16,8 +16,8 @@ remodels = ["SPT 1990's Remodel Program|2000-09-26", "CEC 2.0 Remodel Program|20
 stages = ["Studio C Alpha|2000-09-26|2018-08-00", "Chuck E. Live Stage (Dance Floor)|2018-12-00|2023-08-00|2017 Model|", "Video Wall|2023-08-00|2025-09-07", "Chuck E. Live Stage (Dance Floor)|2018-12-00|2025-09-07|2017 Model|"]
 downloadLinks = []
 latitudeLongitude = ["42.227247078365956", "-85.58709755123635"]
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Portage, MI (6175 S Westnedge Ave) #327*** originally opened up on September 26, 2000, as a Chuck E. Cheese's {{< cite 1 >}} and would close on September 7, 2025, as a Chuck E. Cheese. {{< cite 2 >}}
 

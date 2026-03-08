@@ -1,8 +1,8 @@
 +++
 title = "Sally at The Piano"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Sally Corporation"]
+type = "Animatronic Shows"
+tags = ["Sally Corporation"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","BigCDataFinder "]

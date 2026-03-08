@@ -2,8 +2,8 @@
 
 title = "Chuck E. Cheese Brass Necklace"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Pizza Time Theatre"]
+type = "In-Store Merchandise"
+tags = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

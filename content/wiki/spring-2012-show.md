@@ -9,8 +9,8 @@ citations = ["https://www.youtube.com/watch?v=Abvo8H4Cnvc"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Larry the Technician", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Jeremy Blaido|Producer, Voice of Jasper, singing Voice of Pasqually", "Earl Fisher|Voice of Pasqually The Chef", "Matt Daniel|Director, Producer, Voice of Alowicious Dimpleton, Marvin The Technology Guru, Hard Hat Hank", "Ryan Hollingsworth|Voice of Zoey, Steve Waters", "Matt Rivera|Video Editor, Assistant", "T. Graybael|Camera"]
 mediaDuration = "1:34:59"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Spring 2012 Show** is a showtape which released in April 2012 and played through the spring. This was the last new showtape released to feature Duncan Brannan as Chuck E. Cheese.
 

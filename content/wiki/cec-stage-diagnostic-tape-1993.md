@@ -8,8 +8,8 @@ contributors = ["Cyber Snout"]
 citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/CEC%20Stage%20Diagnostics.iso"]
 mediaDuration = "49:47"
 showtapeFormats = ["R12 SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **CEC Stage Diagnostics 1993** was released in 1993 as a replacement for all older diagnostic material for stores with Cyberamic shows. This video would go on to be rereleased several times up to {{< wiki-link "CEC Stage Diagnostics DVD 2018" >}} with no changes to the contents of the video.
 

@@ -7,8 +7,8 @@ pageThumbnailFile = "qOY3HuNWzWpH1_Gniu4i.avif"
 contributors = ["Cyber Snout", "AstridMascotFan2005", "Dame0824", "Cheeseclassic"]
 citations = ["CEC Navori Player"]
 showtapeFormats = ["Legacy 3-Stage Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Evergreen 2024 (July Update)*** was the generic show released on July 29, 2024 and played until September 9, 2024. It features 'Every Boy, Every Girl' and 'Most Perfect Day'.
 

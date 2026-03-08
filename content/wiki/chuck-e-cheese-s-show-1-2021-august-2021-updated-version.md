@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Show 1 2021 (August 2021 Updated Version)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-08-20"
 endDate = "2021-9-20"
 contributors = ["Cyber Snout","The 64th Gamer","Himitsu"]

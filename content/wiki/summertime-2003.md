@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "1:01:36"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/SummertimeShowUpgradeUSAVersion.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/SummertimeV12.img|Studio C Floppy Disk (Ver. 1.2)", "https://archive.org/download/studio_c_showtape_dvds/July%202003%20Studio%20C.iso|Studio C DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Summertime 2003** was a showtape released in July 2003, which ran through August 2003.
 

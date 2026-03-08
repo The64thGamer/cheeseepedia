@@ -2,8 +2,8 @@
 
 title = "The Beagles / Beach Bowzers (Lounge)"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Shows"
+tags = ["Pizza Time Theatre"]
 startDate = "1980-10-00"
 endDate = "1996-00-00"
 contributors = ["Helly","BurgersNuggs445","Anonymous","CECMentor","CoolerDude"]

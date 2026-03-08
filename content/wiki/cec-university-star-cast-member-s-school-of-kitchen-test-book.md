@@ -2,8 +2,8 @@
 
 title = "CEC University: Star Cast Member's School of Kitchen Test Book"
 draft = false
-tags = ["Documents"]
-categories = ["Chuck E. Cheese's"]
+type = "Documents"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

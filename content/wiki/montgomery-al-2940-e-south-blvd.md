@@ -12,8 +12,8 @@ animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1982-09-30|2013-08-
 remodels = ["SPT 1980's Remodel Program|1992-00-00", "SPT 1990's Remodel Program|1998-00-00"]
 stages = ["Classic Stage|1982-09-30|1991-00-00", "Concept Unification Stage|1991-00-00|2013-08-00|One of 7 3-Stages in Alabama to receive Concept Unification. 4th-to-last 3-Stage in Alabama until store removal and stage removal in August 2013.|"]
 latitudeLongitude = ["32.32505612","-86.24878998"]
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***Montgomery, AL (2940 E South Blvd)*** originally opened up on September 30, 1982, as a Showbiz Pizza Place {{< cite 1 >}} and closed its doors in August 2013. {{< cite 2 >}} relocating to {{< wiki-link "Montgomery, AL (1116 Eastdale Mall)" >}}.
 

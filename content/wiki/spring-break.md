@@ -9,8 +9,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Stephanie Nadolny|Voice o
 citations = ["https://www.youtube.com/watch?v=8BErEtQIxuw"]
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 mediaDuration = "55:32"
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 transcriptions = ["April 1994 Segment 1", "April 1994 Segment 2", "April 1994 Segment 3"]
 alsoKnownAs = []
 +++

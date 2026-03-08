@@ -3,8 +3,8 @@ title = "Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園)"
 startDate = "1982-12-00"
 endDate = "1991-00-00"
 pageThumbnailFile = "KOWLOON2.avif"
-tags = ["Companies/Brands"]
-categories = ["Pizza Time Theatre"]
+type = "Companies/Brands"
+tags = ["Pizza Time Theatre"]
 credits = ["現代廣告公司 (Modern Advertising Company)|Advertising","Whimsy Company Ltd|Franchisees, Singapore Investors","Whimsy Recreation PTE Ltd.|Singapore Franchisees","Emporium Holdings Ltd|Singapore Investors",]
 draft = false
 citations = ["https://sls.hkpl.gov.hk/digital-collection/en/contentcoverpage.html?currentPosition=1&searchId=75ab30499bff493c8eb83ed143d91b41&catalogueId=1ae5b0359cb711ef9c2&mainKeyword=%E5%87%BA%E5%A5%87%E8%80%81%E9%BC%A0&isHKMP=", "https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-3/page/4/mode/2up?q=hong+kong","https://industrialhistoryhk.org/fourseas-bowling-centre-and-whimsy/","https://www.instagram.com/p/DPxrwLIAcOU/?img_index=2","https://sls.hkpl.gov.hk/digital-collection/en/contentcoverpage.html?currentPosition=1&catalogueId=1aea7ba29cb711ef9c2&mainKeyword=%E8%96%84%E9%A4%85%E6%A8%82%E5%9C%92&isHKMP=","https://m.hkgolden.com/thread/6525046/page/13"]

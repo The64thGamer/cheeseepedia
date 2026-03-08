@@ -1,8 +1,8 @@
 +++
 title = "Winchester Crusty the Cat V2 (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 
 
 startDate = "1978-00-00"

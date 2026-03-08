@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "Luigigamin212"]
 citations = ["https://youtu.be/LrdRgJMFxsI?si=c2wvF5aD2uJ7pWKA"]
 showtapeFormats = ["CEI 4-Track Reel"]
 transcriptions = ["Welcome In To Showbiz", "Come For The Pizza", "Goofy Gas Commercial "]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***Spring Shows '82* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in Spring 1982.**
 

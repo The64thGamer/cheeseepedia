@@ -5,8 +5,8 @@ endDate = ""
 pageThumbnailFile = "56u56u56345.avif"
 contributors = ["Luigigamin212"]
 citations = ["@Rockafire_Moon"]
-tags = ["Animatronic Parts"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Parts"
+tags = ["Pizza Time Theatre"]
 +++
 The *Cyberamic Eye Assembly*, Part no. 000-0043, is an assembly consisting of a wooden eyeball with a hole drilled in the center, and a A36 carbon steel rod that goes into the hole in the eyeball. The type of wood the eye itself is made out of is unknown. The steel rod also has a smaller metal rod that inserts into the eye to prevent the eye from twisting on the rod.
 

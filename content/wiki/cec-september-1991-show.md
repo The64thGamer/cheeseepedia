@@ -10,8 +10,8 @@ citations = ["https://www.youtube.com/watch?v=VgsROB6xwb4", "https://youtu.be/YI
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "C&R SVHS (Pre-93)", "R12 SVHS (Pre-93)", "APS Files"]
 downloadLinks = ["https://archive.org/download/aps-yellow-case/Family%20Times%203-Stage%20%28Scrapped%20Sept%201991%29.IMA|Original 'Family Times' 3-Stage APS .IMA"]
 transcriptions = ["September 1991 Segment 1", "September 1991 Segment 2", "CEC TV News Safety", "September 1991 Segment 3"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***CEC September 1991 Show*** is a showtape released in 1991 that mostly features songs for kids.
 

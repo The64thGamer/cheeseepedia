@@ -10,8 +10,8 @@ credits = ["Jeremy Blaido|Director", "Brian Hagan|Studio Manager", "Robert Gotch
 mediaDuration = "48:32"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2000ShowUpdateKaraoke.img|Studio C Floppy Disk (Karaoke)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E's Holiday Party 2000* was a rerelease of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2000 holiday season.**
 

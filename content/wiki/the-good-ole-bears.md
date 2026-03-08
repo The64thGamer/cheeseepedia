@@ -2,8 +2,8 @@
 
 title = "The Good Ole Bears"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Golding Leisure"]
+type = "Animatronic Shows"
+tags = ["Golding Leisure"]
 startDate = ""
 endDate = ""
 contributors = ["Gussygoose"]

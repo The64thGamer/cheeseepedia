@@ -1,8 +1,8 @@
 +++
 title = "Tone Decoder Control System"
 draft = false
-categories = ["Creative Engineering"]
-tags = ["Animatronic Control Systems"]
+tags = ["Creative Engineering"]
+type = "Animatronic Control Systems"
 startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["Himitsu","The 64th Gamer","BigCDataFinder "]

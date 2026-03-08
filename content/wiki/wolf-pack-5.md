@@ -2,8 +2,8 @@
 
 title = "Wolf Pack 5"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronic Shows"
+tags = ["ShowBiz Pizza Place"]
 
 
 startDate = ""

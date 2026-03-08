@@ -1,8 +1,8 @@
 +++
 title = "PTT Charlie Cheese Nameplate (1982)"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Pizza Time Theatre"]
+type = "Store Fixtures"
+tags = ["Pizza Time Theatre"]
 startDate = "1982-00-00"
 endDate = "1986-00-00"
 contributors = ["Concordio","Tux Chuck"]

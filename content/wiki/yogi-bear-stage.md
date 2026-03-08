@@ -1,8 +1,8 @@
 +++
 title = "Yogi Bear Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Stage Variations"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1987-09-00"
 endDate = "1987-11-00"
 pageThumbnailFile = "yogibearstage.avif"

@@ -5,8 +5,8 @@ startDate = "2002-04-00"
 endDate = "2005-08-00"
 contributors = ["The 64th Gamer", "Ceclife13", "CyberSnout"]
 citations = []
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 **CEC Roadshow April 2002** was a Road Show CD released alongside the {{< wiki-link "April 2002 Show" >}} which featured nine {{< wiki-link "Road Shows" >}}.
 

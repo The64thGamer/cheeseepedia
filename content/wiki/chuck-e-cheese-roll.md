@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Roll"
 draft = false
-tags = ["Arcades and Attractions"]
-categories = ["Chuck E. Cheese's"]
+type = "Arcades and Attractions"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ChuckE1352","The 64th Gamer","GuestIsJustBest","Stripes","CEC Tinley"]

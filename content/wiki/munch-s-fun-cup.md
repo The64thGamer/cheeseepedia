@@ -1,8 +1,8 @@
 +++
 title = "Munch's Fun Cup"
 draft = false
-tags = ["Promotional Material"]
-categories = ["Chuck E. Cheese's"]
+type = "Promotional Material"
+tags = ["Chuck E. Cheese's"]
 startDate = "1993-00-00"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout"]

@@ -1,8 +1,8 @@
 +++
 title = "Pizza Time Theatre Named Bike Tag (1979)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Pizza Time Theatre"]
+type = "In-Store Merchandise"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

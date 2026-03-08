@@ -1,8 +1,8 @@
 +++
 title = "Celebration Station's Rockin' Rascals Soundtrack"
 draft = false
-tags = ["Showtapes"]
-categories = ["Sally Corporation"]
+type = "Showtapes"
+tags = ["Sally Corporation"]
 startDate = "1993-12-17"
 endDate = "0000-00-00"
 contributors = ["FileFickle"]

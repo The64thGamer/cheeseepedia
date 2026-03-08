@@ -7,8 +7,8 @@ contributors = ["Cyber Snout"]
 citations = ["CEC Navori Player"]
 credits = []
 showtapeFormats = ["Cyberamic Legacy Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese Winter 2024 Show*** is a holiday show released on November 4, 2024, and was played until January 1, 2025.
 

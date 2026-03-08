@@ -2,8 +2,8 @@
 
 title = "Star Cast Member of the Month 2012 Pin"
 draft = false
-tags = ["Employee Wear"]
-categories = ["Chuck E. Cheese's"]
+type = "Employee Wear"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

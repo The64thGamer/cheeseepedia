@@ -1,8 +1,8 @@
 +++
 title = "Cyberamics Tester"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Control Systems"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","CECMentor"]

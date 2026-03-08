@@ -16,8 +16,8 @@ citations = ["https://www.newspapers.com/article/the-cincinnati-enquirer-cinci-c
 contributors = ["Cyber Snout"]
 downloadLinks = []
 pageThumbnailFile = "K0ql2KbQk252wzzPEtCL.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Cincinnati, OH (9712 Colerain Ave)*** located inside of the Prospect Square Shopping Center. It opened in July 1982{{< cite 1 >}}, and closed on October 4, 1983{{< cite 3 >}}. 

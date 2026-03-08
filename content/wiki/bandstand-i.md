@@ -10,8 +10,8 @@ credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Hel
 showtapeFormats = ["Cyberamics Reel"]
 transcriptions = ["1980s Video Hits", "Oldies but Goodies", "British Invasion", "Soul Music", "Hot Rod Songs", "Early 70s Music", "Warblettes Oldies Birthday ", "Pasquallys Birthday Rock", "My Girlfriends Birthday", "Happy Happy Birthday Baby", "KCEC Birthday", "Pasquallys Chuck E Intro Bandstand", "Disco Birthday", "Bandstand Cheer"]
 alsoKnownAs = ["Bandstand 1"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 ***Bandstand I*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny. The show was released in March of 1984{{< cite 1 >}}.
 

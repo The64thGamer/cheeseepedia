@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice o
 mediaDuration = "49:38"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_dvd_signals/January%202009%20CEC-Stage-004.iso|CEC-Stage DVD ISO w/ Signals", "https://archive.org/download/studio_c_showtape_dvds/January%202009%20Studio%20C-001.iso|Studio C DVD 1 & 2 ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **January 2009 Show** was a showtape themed to the 1980s, featuring seven covers of 80s songs and one original song.
 This was created to play from January to March 2009.

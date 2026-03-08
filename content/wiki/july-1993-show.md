@@ -10,8 +10,8 @@ mediaDuration = "1:23:16"
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Annagrey Wiechman|Singing Voice of Helen Henny", "Charles Stewart|Songwriter, Singing Voice of Jasper T. Jowls", "Darby Orr|Songwriter"]
 downloadLinks = ["https://ia801709.us.archive.org/9/items/pasqually/IMG_7827.mp4|Original Cut Segment 2 Audio (Do You Believe In Magic / Pasqually Come Home)", "https://archive.org/download/3stage_post_93_svhs_signals/June%201993%203-Stage-004.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 transcriptions = ["July 1993 Segment 1", "July 1993 Segment 2", "July 1993 Segment 3"]
 alsoKnownAs = []
 +++

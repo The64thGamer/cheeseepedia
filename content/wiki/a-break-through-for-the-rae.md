@@ -1,8 +1,8 @@
 +++
 title = "A Break Through for the Rock-Afire Explosion and Its Fans"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 startDate = "2024-11-22"
 endDate = "2024-11-22"
 contributors = ["The 64th Gamer"]

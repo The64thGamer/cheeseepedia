@@ -1,8 +1,8 @@
 +++
 title = "CEC World of Kids"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "WorldofKids.avif"
 startDate = "1986-01-00"
 endDate = "1986-03-00"

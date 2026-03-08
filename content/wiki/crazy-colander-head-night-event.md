@@ -1,8 +1,8 @@
 +++
 title = "Crazy Colander Head Night (Event)"
 draft = false
-tags = ["Events"]
-categories = ["ShowBiz Pizza Place"]
+type = "Events"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1983-03-01"
 endDate = "1983-03-31"
 contributors = ["The 64th Gamer"]

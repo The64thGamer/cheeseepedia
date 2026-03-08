@@ -1,8 +1,8 @@
 +++
 title = "Billy Bob CEI Walkaround"
 draft = false
-tags = ["Costumed Characters"]
-categories = ["ShowBiz Pizza Place"]
+type = "Costumed Characters"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

@@ -1,8 +1,8 @@
 +++
 title = "Smile America. Spell Chuck E. Cheese"
 draft = false
-tags = ["Events"]
-categories = ["Pizza Time Theatre"]
+type = "Events"
+tags = ["Pizza Time Theatre"]
 startDate = "1983-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

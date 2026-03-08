@@ -1,8 +1,8 @@
 +++
 title = "Pizza Time Theatre"
 draft = false
-tags = ["Companies/Brands"]
-categories = ["Pizza Time Theatre"]
+type = "Companies/Brands"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-05-17"
 endDate = "1985-05-31"
 contributors = ["The 64th Gamer"]

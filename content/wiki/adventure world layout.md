@@ -6,7 +6,7 @@ endDate = ""
 pageThumbnailFile = "07dkx4wu9g4p4bq2.avif"
 contributors = ["The 64th Gamer"]
 citations = [""]
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***CEC Adventure World Standard Layout*** is the initial design created for Adventure World location.

@@ -11,8 +11,8 @@ mediaDuration = "51:26"
 showtapeFormats = ["R12 SVHS (Post-93)", "C&R SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/chuck-e-cheese-1995-singles-stereo-mixes/CESSummer1995%20StereoMix.wav|Finalized Stereo Mixes of Showtape Songs", "https://archive.org/download/cyberamics_post_93_svhs_signals/August%201995%20CEC%20Stage.iso|R12 SVHS w/ Signals"]
 alsoKnownAs = ["Aug 1995Playdates: Aug 1 - Nov 23Stage Type: CEC"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Destination Imagination*** was a show that released from August 1st - November 23rd, 1995 at Chuck E. Cheese's locations.
 

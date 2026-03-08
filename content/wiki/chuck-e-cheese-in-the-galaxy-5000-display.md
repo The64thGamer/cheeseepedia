@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese in the Galaxy 5000 Display"
 draft = false
-tags = ["Promotional Material"]
-categories = ["Chuck E. Cheese's","Chuck E. Cheese in the Galaxy 5000"]
+type = "Promotional Material"
+tags = ["Chuck E. Cheese's","Chuck E. Cheese in the Galaxy 5000"]
 startDate = "1999-00-00"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","BurgersNuggs445","The 64th Gamer"]

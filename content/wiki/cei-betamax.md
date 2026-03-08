@@ -1,8 +1,8 @@
 +++
 title = "CEI Betamax"
 draft = false
-tags = ["Showtape Formats"]
-categories = ["Creative Engineering"]
+type = "Showtape Formats"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Himitsu"]

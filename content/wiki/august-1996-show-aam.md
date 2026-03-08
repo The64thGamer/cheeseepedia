@@ -7,8 +7,8 @@ contributors = ["The 64th Gamer", "CyCGM", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=mK2aIbNAt74","https://www.youtube.com/watch?v=ozcvlfNow0g","https://youtu.be/-o1juw-Td-k?si=38YsFgn762RDcUn8","https://www.youtube.com/watch?v=uinS1MfoOvI"]
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch, Brain-I-Vac, DUSTY", "Annagrey Wiechman|Singing Voice of Helen Henny", "Karlisa Burleson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef", "Steve White|Scriptwriter, Songwriter, Singing Voice (Demo Recordings)", "Carl Finch|Songwriter", "Joe Cripps|Songwriter", "Jeffrey Barnes|Songwriter", "Bubba Hernandez|Songwriter", "Stokes Group|Video Editing"]
 showtapeFormats = ["AAM 2x Laserdisc + Files"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***August 1996 Show (AAM)*** is the premiere showtape for the {{< wiki-link "Awesome Adventure Machine" >}} stage.
 

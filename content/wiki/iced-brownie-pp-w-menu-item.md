@@ -1,8 +1,8 @@
 +++
 title = "Iced Brownie (PP&W Menu Item)"
 draft = false
-tags = ["Menu Items"]
-categories = ["Pasqually's Pizza & Wings"]
+type = "Menu Items"
+tags = ["Pasqually's Pizza & Wings"]
 pageThumbnailFile = "ipoifadsifuqewrh.avif"
 startDate = "2020-07-08"
 endDate = "2021-11-00"

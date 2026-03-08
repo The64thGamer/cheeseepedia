@@ -9,8 +9,8 @@ citations = ["Showtape Stock Music"]
 credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Matt Daniel|Production Coordinator"]
 mediaDuration = "1:22:49"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***September 2010*** was a 'best of' show which played through the fall of 2010.
 This show featured eight songs from various shows released throughout the 2000s.

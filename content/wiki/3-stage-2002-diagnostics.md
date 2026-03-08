@@ -8,8 +8,8 @@ contributors = ["Cyber Snout", "The 64th Gamer", "Parum33", "CyCGM"]
 citations = ["https://www.youtube.com/watch?v=jLgTbE6psxk"]
 mediaDuration = "42:52"
 showtapeFormats = ["3-Stage SVHS (Post-93)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 
 **3-Stage 2002 Diagnostics** was released in 2002 to update the previous 1993 diagnostics to appear how most stores did by 2002. Those changes between 1993 and 2002 would be changing Chucks outfit from the Tuxedo to his Cool Chuck attire. Along with that would be Chuck, Helen, Munch, Jasper and Pasqually now having their plastic masks instead of latex. The original VHS release would be retired in 2008 as by that point all stores had upgraded to DVD.

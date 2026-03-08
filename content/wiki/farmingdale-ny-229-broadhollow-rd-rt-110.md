@@ -12,8 +12,8 @@ citations = ["Newspapers.com, Newsday, 1993-2011", "https://www.youtube.com/watc
 contributors = ["Stripes"]
 downloadLinks = []
 pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Other FECs"]
+type = "Locations"
+tags = ["Other FECs"]
 draft = false
 +++
 ***Farmingdale, NY (229 Broadhollow Rd./Rt. 110)*** was a *Nathan's Fun Zone* location that seemingly opened in the early 1990's, at earliest in 1993 per newspaper archives {{< cite 1 >}}. This location featured a {{< wiki-link "Classic Stage" >}} until 2011 when the show was auctioned off {{< cite 2 >}}.

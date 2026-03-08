@@ -1,8 +1,8 @@
 +++
 title = "Back to School (Balcony Stage Theme)"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "1985-09-00"
 endDate = "1985-11-00"
 contributors = ["Cyber Snout"]

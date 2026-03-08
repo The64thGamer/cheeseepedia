@@ -1,8 +1,8 @@
 +++
 title = "Peter Piper Pizza 2.0 Remodel Program"
 draft = false
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's"]
 startDate = "2013-04-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

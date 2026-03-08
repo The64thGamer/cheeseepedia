@@ -1,8 +1,8 @@
 +++
 title = "Confederate Critter Show"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Creative Engineering"]
+type = "Animatronic Shows"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["Charlie Rockit","Sponch man","FileFickle"]

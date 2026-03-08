@@ -1,8 +1,8 @@
 +++
 title = "Madame Oink IV - The Tune Machine"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1983-03-29"
 endDate = "1983-08-00"
 contributors = ["The 64th Gamer","Steven 'CEC' Master","CyCGM","Ceclife13"]

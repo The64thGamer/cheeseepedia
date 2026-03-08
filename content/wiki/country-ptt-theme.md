@@ -1,8 +1,8 @@
 +++
 title = "Country (Balcony Stage Theme)"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+type = "Stage Variations"
+tags = ["Pizza Time Theatre"]
 startDate = "1984-00-00"
 endDate = "1984-00-00"
 contributors = ["The 64th Gamer","Montfortdog","ChuckE1352","Anonymous","Ceclife13","CECMentor"]

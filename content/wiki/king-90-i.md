@@ -1,9 +1,9 @@
 +++
 title = "King '90 I"
 draft = false
-tags = ["Showtapes"]
+type = "Showtapes"
 citations = ["https://www.youtube.com/watch?v=RrgZraOiDJU"]
-categories = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "SbpRomrYP6GCh8zu9AK9.avif"
 startDate = "1990-00-00"
 endDate = "1995-00-00"

@@ -6,6 +6,6 @@ endDate = "1986-00-00"
 pageThumbnailFile = "Sm8rGln7e_zXokpYaF0K.avif"
 contributors = ["The 64th Gamer"]
 citations = [""]
-tags = ["Remodels and Initiatives"]
-categories = ["Pizza Time Theatre"]
+type = "Remodels and Initiatives"
+tags = ["Pizza Time Theatre"]
 +++

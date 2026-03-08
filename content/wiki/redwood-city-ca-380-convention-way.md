@@ -15,8 +15,8 @@ citations = ["https://archive.org/details/the-pizza-times-newsletters/1981%20The
 contributors = ["The 64th Gamer","Rexburg090","CEC Tinley","CECMadison"]
 downloadLinks = ["https://archive.org/download/95-8431-bz-plans/-%3DFloorplan%20Archive%3D-/Pizza%20Time%20Theatre/California/RedwoodCityPTT.pdf|Building Plans"]
 pageThumbnailFile = "ESu4w1lPWZgMccAV_oEt.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Redwood City, CA (380 Convention Way)*** (also known as ***San Mateo***) was a two-story {{< wiki-link "Pizza Time Theatre" >}} location that opened in August of 1981, and closed in early 1986{{< cite 2 >}}{{< cite 6 >}} 

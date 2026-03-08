@@ -2,8 +2,8 @@
 
 title = "Studio C Emergency Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2000-00-00"
 endDate = "2002-12-00"
 pageThumbnailFile = "BusinessCard_2021-08-09_164724.avif"

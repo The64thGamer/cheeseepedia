@@ -2,8 +2,8 @@
 
 title = "Chuck E. Cheese Spotify"
 draft = false
-tags = ["Social Media and Websites"]
-categories = ["Chuck E. Cheese's"]
+type = "Social Media and Websites"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","CECBowlingGreen"]

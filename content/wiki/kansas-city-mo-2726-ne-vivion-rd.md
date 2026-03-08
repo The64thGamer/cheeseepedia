@@ -13,8 +13,8 @@ latitudeLongitude = ["39.187056","-94.547774"]
 contributors = ["Pizza Entertainment Fan"]
 downloadLinks = []
 pageThumbnailFile = "vZRhhfXxiWkJ6j7eMwhY.avif"
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 citations = ["https://www.newspapers.com/article/the-kansas-city-star/60161601/", "https://www.newspapers.com/article/the-kansas-city-star-northland-shopping/192739655/", "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1979.pdf", "https://www.newspapers.com/article/the-kansas-city-times-antioch-spp-before/192688674/", "https://www.newspapers.com/article/the-kansas-city-star-pizza-showbiz-antio/192690264/", "https://www.showbizpizza.com/info/documents/spp/spp_memos_80.pdf", "https://www.newspapers.com/article/the-kansas-city-star-last-mention-of-ant/192749376/", "https://www.newspapers.com/article/the-kansas-city-star-the-showbiz-pizza-p/163148728/", "https://www.newspapers.com/article/the-kansas-city-star-kansas-city-star-co/192752350/", "https://mall-hall-of-fame.blogspot.com/2010/03/kansas-based-showbiz-pizza-place-opened.html (Concept Unification Date)", "https://www.newspapers.com/article/the-kansas-city-star/190542547/"]
 +++

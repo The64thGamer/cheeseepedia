@@ -6,8 +6,8 @@ endDate = "0000-00-00"
 pageThumbnailFile = "MxkeW87WQUbnHQZpGHaU.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1/page/n3/mode/2up", "https://www.atarimagazines.com/compute/issue39/213_1_FRIENDS_OF_THE_TURTLE.php", "https://www.atarimagazines.com/v2n7/Computercamp.html", "https://web.archive.org/web/19991111064630/http://www.atari-history.com/andro-atari.html"]
-tags = ["Remodels and Initiatives"]
-categories = ["Pizza Time Theatre"]
+type = "Remodels and Initiatives"
+tags = ["Pizza Time Theatre"]
 +++
 ***Chuck E. Cheese's Computer Learning Center*** was a program available at the {{< wiki-link "Sunnyvale, CA (1247 W El Camino Real)" >}} and {{< wiki-link "San Jose (Tully), CA (2445 Fontaine Rd)" >}} Pizza Time Theatre locations for teaching kids computer literacy, starting around March of 1983, and ending an unknown time later.{{< cite 1 >}}
 

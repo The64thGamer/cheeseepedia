@@ -2,8 +2,8 @@
 
 title = "Earl Schmerle"
 draft = false
-tags = ["Characters"]
-categories = ["ShowBiz Pizza Place"]
+type = "Characters"
+tags = ["ShowBiz Pizza Place"]
 
 
 startDate = ""

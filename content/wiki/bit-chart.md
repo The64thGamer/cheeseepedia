@@ -1,8 +1,8 @@
 +++
 title = "Bit Chart"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = [""]
+type = "Animatronic Preservation"
+tags = [""]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Himitsu"]

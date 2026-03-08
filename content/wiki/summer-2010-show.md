@@ -10,8 +10,8 @@ credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Matt D
 mediaDuration = "1:20:05"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/June%202010%203-Stage-003.iso|3-Stage DVD ISO w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Summer 2010** was a show featuring 4 songs from the {{< wiki-link "April 2010 Show" >}} and 2 segments from {{< wiki-link "Summer 2007 Show" >}} .
 This show played from July - August 31, 2010.

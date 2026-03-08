@@ -7,8 +7,8 @@ pageThumbnailFile = "pAI4IWZgXdgEpx7X32hg.avif"
 contributors = ["CECMentor", "Stripes", "BenTrainFan2000", "Kathydra"]
 citations = ["<a href=\"hhttps://ia801807.us.archive.org/1/items/rock-afire-explosion-service-manual/Rock-afire%20Explosion%20Service%20Manual%20Optimized.pdf\">https://ia801807.us.archive.org/1/items/rock-afire-explosion-service-manual/Rock-afire%20Explosion%20Service%20Manual%20Optimized.pdf</a>"]
 manufacturer = "Creative Engineering"
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronics"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 The Looney Bird Animatronic (Also the Pizzacam Animatronic) was one of the main {{< wiki-link "Classic Stage" >}} animatronics produced by Creative Engineering Inc. The animatronic would first be developed in April of 1980, before debuting at the {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}} on August 14th of that year.

@@ -1,8 +1,8 @@
 +++
 title = "The Hank and Beau Show"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Sally Corporation"]
+type = "Animatronic Shows"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

@@ -3,8 +3,8 @@ title = "CEC Produced 3 Stage Chuck Elbow"
 pageThumbnailFile = "CEC Produced 3 stage Chuck Elbow.avif"
 contributors = ["Luigigamin212"]
 citations = ["GallaRM for measurements", "@EnderSkippy for model"]
-tags = ["Animatronic Parts"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronic Parts"
+tags = ["Chuck E. Cheese's"]
 +++
 The *3 Stage Chuck Elbow* Is an aluminum bar with two pieces of aluminum welded on top to connect to the upper arm. one side has an opening for the hand mech to connect to and the the is walled off. There are three holes for connecting to other parts of the mech.
 

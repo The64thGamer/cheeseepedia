@@ -1,8 +1,8 @@
 +++
 title = "Youtooz Bootacular Chuck E. Cheese 9in. Plush"
 draft = false
-tags = ["Products"]
-categories = ["Chuck E. Cheese's"]
+type = "Products"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "7r6m49545j.avif"
 startDate = "2025-10-10"
 endDate = "2026-04-30"

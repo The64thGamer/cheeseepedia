@@ -1,8 +1,8 @@
 +++
 title = "Pizza Cam"
 draft = false
-tags = ["Characters"]
-categories = ["Chuck E. Cheese's"]
+type = "Characters"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

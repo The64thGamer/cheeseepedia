@@ -1,8 +1,8 @@
 +++
 title = "The King / King Kat (Lounge)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 
 
 startDate = "1981-00-00"

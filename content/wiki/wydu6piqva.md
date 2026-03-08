@@ -2,11 +2,11 @@
 title = "Chuck E. Cheese Legacy Spring 2026 Show"
 startDate = "2026-03-01"
 contributors = ["CyberSnout"]
-tags = ["Showtapes"]
+type = "Showtapes"
 endDate = "0000-00-00"
 pageThumbnailFile = "Spring2026.avif"
 downloadLinks = []
-categories = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's"]
 draft = false
 citations = []
 +++

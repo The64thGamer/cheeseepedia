@@ -2,8 +2,8 @@
 
 title = "Chuck E. Cheese Online Store"
 draft = false
-tags = ["Social Media and Websites"]
-categories = ["Chuck E. Cheese's"]
+type = "Social Media and Websites"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["CECBowlingGreen","Anonymous","Cyber Snout","BurgersNuggs445"]

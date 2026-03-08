@@ -18,7 +18,7 @@
   {{- $tags := dict -}} <!-- Initialize a dictionary to store tags and counts -->
   {{- range $pages -}}
   {{- $currentPage := . -}}
-  {{- range $currentPage.Params.tags -}} <!-- Iterate over tags in each page -->
+  {{- range $currentPage.Params.type -}} <!-- Iterate over tags in each page -->
   {{- $tag := . -}}
   {{- $count := index $tags $tag -}} <!-- Get current count for the tag -->
   {{- if $count -}}

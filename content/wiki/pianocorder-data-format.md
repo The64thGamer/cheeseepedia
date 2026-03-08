@@ -2,8 +2,8 @@
 
 title = "Pianocorder Data Format"
 draft = false
-tags = ["Showtape Formats"]
-categories = []
+type = "Showtape Formats"
+tags = []
 startDate = ""
 endDate = ""
 contributors = ["BattleXGamer3","Himitsu","The 64th Gamer"]

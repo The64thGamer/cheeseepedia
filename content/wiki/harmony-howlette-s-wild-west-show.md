@@ -9,8 +9,8 @@ citations = ["https://www.youtube.com/playlist?list=PLTXoj5l850hHY0I08ORdUcE4ig7
 showtapeFormats = ["Cyberamics Reel"]
 credits = ["John Widelock|Voice of Chuck E. Cheese", "Nancy Lenehan|Voice of Harmony Howlette", "Fritz Heilbron|Voice of Mr. Munch", "Scott Paulin|Voice of Jasper T. Jowls", "Joe Spano|Voice of Pasqually the Chef"]
 transcriptions = ["Waltz across Texas", "Honky Tonkin'", "Deep in the Heart of Texas"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 ***Harmony Howlette's Wild West Show*** is a Pizza Time Theatre Showtape featuring the guest star *Harmony Howlette* which was released in May of 1981.
 

@@ -1,8 +1,8 @@
 +++
 title = "Beagles I"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = "HOFwoSIS5WHpvuEPBeVU.avif"
 startDate = "1980-00-00"
 endDate = "0000-00-00"

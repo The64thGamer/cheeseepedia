@@ -1,8 +1,8 @@
 +++
 title = "September 1998"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "1998-09-00"
 endDate = "1998-12-00"
 contributors = ["Cyber Snout", "Cy's Junk at School", "Ceclife13"]

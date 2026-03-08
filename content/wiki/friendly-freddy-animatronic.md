@@ -1,8 +1,8 @@
 +++
 title = "Friendly Freddy (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 
 
 startDate = "1977-00-00"

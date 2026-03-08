@@ -1,8 +1,8 @@
 +++
 title = "CEI Multitrack Programmer"
 draft = false
-tags = ["Programming Systems"]
-categories = ["Creative Engineering"]
+type = "Programming Systems"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

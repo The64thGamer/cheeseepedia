@@ -1,8 +1,8 @@
 +++
 title = "PTT Helen Henny Name Sign"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Pizza Time Theatre"]
+type = "Store Fixtures"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

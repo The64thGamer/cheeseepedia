@@ -2,8 +2,8 @@
 
 title = "SPP New Years '88"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "09f7934uoh34jk.avif"
 startDate = "1987-12-31"
 endDate = "1988-01-01"

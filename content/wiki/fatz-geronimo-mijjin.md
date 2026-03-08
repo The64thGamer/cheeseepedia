@@ -7,8 +7,8 @@ pageThumbnailFile = "ySGBmMRGyVlfyJwHJ3Pb.avif"
 contributors = ["GallaRM", "The 64th Gamer", "The Nefarious Pizza Perpetrator"]
 citations = ["https://www.showbizpizza.com/info/promo/cei/cei_mijjins.pdf", "https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf"]
 manufacturer = "Creative Engineering"
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 +++
 The ***Fatz Geronimo Mijjin* was an animatronic produced by *Creative Engineering Inc.* for the Mijjins show in 1992 {{< cite 1 >}} and the New Rock-Afire Explosion in 1993. {{< cite 2 >}}**
 

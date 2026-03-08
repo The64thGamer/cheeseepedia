@@ -1,8 +1,8 @@
 +++
 title = "94-95 Rock-afire Explosion Demo Tape (Showtape)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 startDate = "1994-00-00"
 endDate = "1994-00-00"
 contributors = ["The 64th Gamer"]

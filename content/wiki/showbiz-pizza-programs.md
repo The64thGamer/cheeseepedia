@@ -6,8 +6,8 @@ endDate = "1989-08-31"
 pageThumbnailFile = "tO0eUmmpXJQSD1qm4ZMl.avif"
 contributors = ["The 64th Gamer"]
 citations = ["<a href=\"http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/\">http://www.fundinguniverse.com/company-histories/aei-music-network-inc-history/</a>"]
-tags = ["Remodels and Initiatives"]
-categories = ["ShowBiz Pizza Place", "Chuck E. Cheese's"]
+type = "Remodels and Initiatives"
+tags = ["ShowBiz Pizza Place", "Chuck E. Cheese's"]
 +++
 
 ***ShowBiz Pizza Program*** was a music cassette collection released alongside ShowBiz Pizza Place and Pizza Time Theatre showtapes as background music between segments. Similar to {{< wiki-link "Family Vision" >}}, these would be a precursor to Cyberstar, and would be released until its full integration into ShowBiz Pizza Place locations, despite Pizza Time Theatre locations continuing to use reels for another year.

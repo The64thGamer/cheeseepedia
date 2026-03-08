@@ -1,8 +1,8 @@
 +++
 title = "Bear-A-Dice Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Creative Engineering"]
+type = "Stage Variations"
+tags = ["Creative Engineering"]
 startDate = "1998-00-00"
 endDate = ""
 contributors = ["BigCDataFinder ","Tobsters ;-;","Destinationimagination95"]

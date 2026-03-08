@@ -1,8 +1,8 @@
 +++
 title = "Four Little Shavers (Ice Cream Emporium)"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Shows"
+tags = ["Pizza Time Theatre"]
 
 
 startDate = ""

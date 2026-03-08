@@ -2,7 +2,7 @@
 title = "Daniel and The Dixie Diggers (Rusutsu Resort)"
 draft = false
 tags = []
-categories = []
+tags = []
 startDate = ""
 endDate = ""
 contributors = ["TheMrMeisterr"]

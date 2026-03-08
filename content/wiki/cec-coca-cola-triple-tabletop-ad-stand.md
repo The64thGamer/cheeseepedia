@@ -1,8 +1,8 @@
 +++
 title = "CEC Coca-Cola Triple Tabletop Ad Stand"
 draft = false
-tags = ["Promotional Material"]
-categories = ["Chuck E. Cheese's"]
+type = "Promotional Material"
+tags = ["Chuck E. Cheese's"]
 startDate = "1995-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","Cyber Snout","RedaCEC","Pasquallytheplumber"]

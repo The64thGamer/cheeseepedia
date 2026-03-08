@@ -10,8 +10,8 @@ credits = ["Jeremy Blaido|Director", "Robert Gotcher|Production Manager", "Matt 
 mediaDuration = "1:07:04"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img|Studio C Floppy Disk (Ver. 1.03)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Holiday 2003 Show** is a rerelease of {{< wiki-link "Holiday 2002" >}} which played throughout December 2003.
 

@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese KIDZ BOP Never Stop Party Show 2023"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-07-25"
 endDate = "2023-09-30"
 contributors = ["Bowling for Cheese","Anonymous","Anonymous","Anonymous","Dame","The 64th Gamer","Cyber Snout"]

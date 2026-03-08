@@ -10,8 +10,8 @@ credits = ["Duncan Brannan|Programmer, Voice of Chuck E. Cheese, Mr. Munch, Brai
 showtapeFormats = ["R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)", "C&R SVHS (Post-93)"]
 mediaDuration = "1:00:06"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/August%201997%203-Stage-007.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **August 1997** released August 5, 1997, and ran until November 27, 1997.
 This was the last showtape to feature Awesome Adventure Machine.

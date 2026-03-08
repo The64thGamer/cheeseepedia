@@ -2,8 +2,8 @@
 
 title = "Uncle Klunk Controller"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["Creative Engineering"]
+type = "Animatronic Control Systems"
+tags = ["Creative Engineering"]
 startDate = "1983-07-14"
 endDate = "1985-12-00"
 contributors = ["Himitsu","Ls2018"]

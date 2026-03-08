@@ -1,8 +1,8 @@
 +++
 title = "SPP Westerns - Movies - R&R"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1987-02-00"
 endDate = "1987-00-00"
 contributors = ["DerekCat"]

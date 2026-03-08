@@ -1,8 +1,8 @@
 +++
 title = "Prototype CEC Baby Lion Plush (2016)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 startDate = "2016-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

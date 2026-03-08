@@ -4,8 +4,8 @@ startDate = "1983-03-07"
 endDate = "0000-00-00"
 contributors = ["Axiefae"]
 citations = ["https://www.youtube.com/watch?v=rX_XVQYSQnY"]
-tags = ["Companies/Brands"]
-categories = ["Unknown Manufacturers"]
+type = "Companies/Brands"
+tags = ["Unknown Manufacturers"]
 +++
 Captain Carnival, also known as Captain Carnival's Pizza Theatre, was a chain of restaurants in the 1980s.
 

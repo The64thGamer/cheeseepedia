@@ -1,8 +1,8 @@
 +++
 title = "PTT Fantasy Forest Game Preserve Sign (1978)"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Pizza Time Theatre"]
+type = "Store Fixtures"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Concordio"]

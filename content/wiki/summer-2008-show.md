@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "Cyber Snout", "Anonymous", "Dame", "AstridMas
 citations = ["https://showbizpizza.com/info/documents/cec/cec_dept18-2008-07.pdf"]
 credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Ryan Hollingsworth|Production Specialist"]
 showtapeFormats = ["3-Stage DVD", "Cyberamics DVD", "Studio C 3x DVD + Floppy"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Summer 2008 Show** was a rerelease of the {{< wiki-link "Summer 2007 Show" >}} with a few intermission changes.
 This show was released in July 2008 and played until August.

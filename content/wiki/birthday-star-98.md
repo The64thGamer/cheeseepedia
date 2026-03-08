@@ -1,8 +1,8 @@
 +++
 title = "Birthday Star '98"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 startDate = "1998-09-00"
 endDate = "2007-11-30"
 contributors = ["The 64th Gamer","Pasquallytheplumber","Ceclife13"]

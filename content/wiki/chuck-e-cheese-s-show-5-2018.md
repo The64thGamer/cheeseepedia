@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Show 5 2018"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2018-07-30"
 endDate = "2018-9-30"
 contributors = ["The 64th Gamer","Cyber Snout"]

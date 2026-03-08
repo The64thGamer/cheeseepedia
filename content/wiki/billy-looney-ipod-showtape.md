@@ -1,8 +1,8 @@
 +++
 title = "Billy & Looney iPod Showtape"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 startDate = "2006-00-00"
 endDate = "0000-00-00"
 contributors = ["Cyber Snout","The 64th Gamer","YBP123"]

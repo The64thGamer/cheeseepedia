@@ -1,8 +1,8 @@
 +++
 title = "CEC September 1990 Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 credits = ["David Robinson|Show Programmer", "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Connie Nelson|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef"]
 startDate = "1990-09-00"
 endDate = "1990-12-00"

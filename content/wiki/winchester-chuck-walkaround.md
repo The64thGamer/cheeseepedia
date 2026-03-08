@@ -1,8 +1,8 @@
 +++
 title = "Winchester Chuck Walkaround"
 draft = false
-tags = ["Costumed Characters"]
-categories = ["Pizza Time Theatre"]
+type = "Costumed Characters"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = "ihjbsdfvuihsdfva9hbger98234t8934tgh.avif"
 startDate = "1977-05-05"
 endDate = "0000-00-00"

@@ -1,8 +1,8 @@
 +++
 title = "Birthday Star 2001"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 startDate = "2001-01-00"
 endDate = ""
 credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls", "Brian Hagan|Studio Manager", "Robert Gotcher|Production Coordinator", "Brent Gray|Studio Coordinator"]

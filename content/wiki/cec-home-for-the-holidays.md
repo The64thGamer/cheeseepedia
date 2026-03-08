@@ -2,8 +2,8 @@
 
 title = "CEC Home for the Holidays"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "1987-12-00"
 endDate = "1987-12-00"
 contributors = ["The 64th Gamer","DerekCat"]

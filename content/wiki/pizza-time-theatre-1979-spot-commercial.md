@@ -1,8 +1,8 @@
 +++
 title = "Pizza Time Theatre 1980 Spot (Commercial)"
 draft = false
-tags = ["Commercials"]
-categories = ["Pizza Time Theatre"]
+type = "Commercials"
+tags = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "1981-00-00"
 contributors = ["The 64th Gamer", "FileFickle", "CyberSnout"]

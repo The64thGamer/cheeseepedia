@@ -15,8 +15,8 @@ citations = ["https://www.newspapers.com/article/the-cincinnati-post/99572685/",
 contributors = ["Cyber Snout"]
 downloadLinks = []
 pageThumbnailFile = "aEQwdC5UiLmBAXLVeM05.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Florence, Ky (7635 Mall Rd) #212/112*** originally opened on April 19, 1982 as a Pizza Time Theater with a {{< wiki-link "Balcony Stage" >}} under the Bernstein Resturant Group.{{< cite 1 >}} and is currently a Chuck E. Cheese with a {{< wiki-link "Chuck E. Live Stage (Dance Floor)" >}}.{{< cite 2 >}}

@@ -2,8 +2,8 @@
 
 title = "Billy Bob's Wonderland"
 draft = false
-tags = ["Companies/Brands"]
-categories = ["Creative Engineering"]
+type = "Companies/Brands"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["Saan1ty","The 64th Gamer","Anonymous","Stripes","Anonymous","Midwestretail","Rexburg090","Emcaacme","Totalrockafirenerd","Livelycheese"]

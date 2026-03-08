@@ -1,8 +1,8 @@
 +++
 title = "Santa Klunk On Stage Show 1985 (Event)"
 draft = false
-tags = ["Events"]
-categories = ["ShowBiz Pizza Place"]
+type = "Events"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1985-12-00"
 endDate = "1985-12-00"
 contributors = ["The 64th Gamer","Stripes"]

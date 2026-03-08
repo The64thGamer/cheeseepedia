@@ -9,8 +9,8 @@ citations = ["https://www.discogs.com/release/5506802-The-High-Time-Octet-The-Hi
 credits = ["Jim Cunningham|Voice of Artie Antlers"]
 showtapeFormats = ["Cyberamics Reel"]
 downloadLinks = ["https://archive.org/download/artie-antlers/Artie%20Antlers.wav|Showtape Reel w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 The ***Artie Antlers Showtape*** is a showtape released for the {{< wiki-link "Artie Antlers (Cabaret)" >}} Cabaret show in 1980.
 

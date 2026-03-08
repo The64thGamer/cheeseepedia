@@ -9,8 +9,8 @@ citations = ["https://archive.org/details/aps-blue-case"]
 mediaDuration = "49:56"
 showtapeFormats = ["3-Stage SVHS (Pre-93)", "R12 SVHS (Pre-93)", "C&R SVHS (Pre-93)"]
 transcriptions = ["CEC TV News - Munch's Incredible Scoop"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Children of America*** was the first rerelease of [CEC American Pride](https://decodedocdigitize.miraheze.org/wiki/CEC_American_Pride), which replaced the original CEC TV Specials and intermission background music. This would play through July 5, 1992. 
 

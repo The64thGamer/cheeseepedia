@@ -6,8 +6,8 @@ pageThumbnailFile = "Evergreen2025Int.avif"
 contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Media Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Evergreen Show 2025 International (Mexico)** was released on January 13, 2025 and ran until April 6, 2025.
 
