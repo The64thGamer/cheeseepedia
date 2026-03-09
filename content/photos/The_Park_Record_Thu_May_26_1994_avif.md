@@ -1,10 +1,10 @@
 +++
 title = "The_Park_Record_Thu_May_26_1994_.avif"
 type = "Photos"
-tags = []
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = ["Backyard Monsters"]
+
 
 citations = []
 +++

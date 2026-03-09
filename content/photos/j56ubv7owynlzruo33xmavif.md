@@ -2,8 +2,9 @@
 title = "J56UBv7OWYNlZruo33XM.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Lynnwood, WA (3717 196th St Suite 100)"]
+tags = ["ShowBiz Pizza Place", "Lynnwood, WA (3717 196th St Suite 100)"]
+
 startDate = ""
 +++
+
 Chuck E. Cheese wearing a 2005 Christmas Scarf.

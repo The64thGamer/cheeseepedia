@@ -2,9 +2,10 @@
 title = "P5nB91Mfiv35HjekKlaH.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Winchester Jasper T. Jowls (Animatronic)", "Winchester PTT Show","Irving, TX (4441 W Airport Fwy Ste 215)"]
+tags = ["Pizza Time Theatre", "Winchester Jasper T. Jowls (Animatronic)", "Winchester PTT Show", "Irving, TX (4441 W Airport Fwy Ste 215)"]
+
 startDate = "2001-00-00"
 citations = ["https://www.facebook.com/photo/?fbid=10162521603405554&set=pcb.10162521603625554"]
 +++
+
 Winchester Jasper animatronic at CEC Corporate headquarters. 

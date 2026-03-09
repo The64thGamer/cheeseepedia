@@ -2,8 +2,9 @@
 title = "FMuFdiO3XlnjETtbI7lK.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Chuck E. Cheese Proof of Concept Prototype (Animatronic)"]
+tags = ["Pizza Time Theatre", "Chuck E. Cheese Proof of Concept Prototype (Animatronic)"]
+
 startDate = ""
 +++
+
 Eye Closeup + Internals (2012)

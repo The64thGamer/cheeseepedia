@@ -1,10 +1,10 @@
 +++
 title = "King98.avif"
 type = "Photos"
-tags = []
+tags = ["Elvis (The King Retrofit)"]
 startDate = ""
 draft = false
-pages = ["Elvis (The King Retrofit)"]
+
 
 citations = []
 +++

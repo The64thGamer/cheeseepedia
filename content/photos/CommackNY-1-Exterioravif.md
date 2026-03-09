@@ -1,10 +1,10 @@
 +++
 title = "CommackNY-1-Exterior.avif"
 type = "Photos"
-tags = []
+tags = ["Commack, NY (2115 Jericho Turnpike)"]
 startDate = ""
 draft = false
-pages = ["Commack, NY (2115 Jericho Turnpike)"]
+
 
 citations = []
 +++

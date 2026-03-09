@@ -2,9 +2,10 @@
 title = "2bqx4nfrptu02n6p.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["West Hills, CA (22940 Van Owen St)"]
+tags = ["Chuck E. Cheese's", "West Hills, CA (22940 Van Owen St)"]
+
 startDate = "1994-00-00"
 citations = ["CECWestCoast"]
 +++
+
 West Hills

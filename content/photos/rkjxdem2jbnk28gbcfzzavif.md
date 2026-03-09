@@ -2,8 +2,9 @@
 title = "RkJXDem2jBNK28GBCfZz.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Takoma Park, MD (1127 University Blvd E)"]
+tags = ["Takoma Park, MD (1127 University Blvd E)"]
+
 startDate = ""
 +++
+
 Chuck E. Cheese's in Takoma Park, MD, 2022

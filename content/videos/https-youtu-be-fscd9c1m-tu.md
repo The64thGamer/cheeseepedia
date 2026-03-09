@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/FsCD9c1M-tU"
 startDate = "2023-07-28"
-pages = ["Northridge, CA (8425 Reseda Blvd)", "2-Stage", "Guest Star / Helen Henny (Cyberamic)", "Mr. Munch (Cyberamic)", "Chuck E. Cheese (Cyberamic)", "Jasper T Jowles (Cyberamic)", "Pasqually (Cyberamic)"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Northridge, CA (8425 Reseda Blvd)", "2-Stage", "Guest Star / Helen Henny (Cyberamic)", "Mr. Munch (Cyberamic)", "Chuck E. Cheese (Cyberamic)", "Jasper T Jowles (Cyberamic)", "Pasqually (Cyberamic)"]
 +++
+
 Store tour of Northridge, just days before the 2.0 remodel would begin. 

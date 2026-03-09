@@ -1,10 +1,10 @@
 +++
 title = "7g.avif"
 type = "Photos"
-tags = []
+tags = ["Physical Fitness"]
 startDate = ""
 draft = false
-pages = ["Physical Fitness"]
+
 
 citations = []
 +++

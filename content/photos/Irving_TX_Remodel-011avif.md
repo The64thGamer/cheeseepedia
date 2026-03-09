@@ -1,10 +1,10 @@
 +++
 title = "Irving_TX_Remodel-011.avif"
 type = "Photos"
-tags = []
+tags = ["Skytubes"]
 startDate = ""
 draft = false
-pages = ["Skytubes"]
+
 
 citations = []
 +++

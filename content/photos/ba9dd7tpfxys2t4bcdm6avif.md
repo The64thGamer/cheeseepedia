@@ -2,8 +2,9 @@
 title = "BA9dD7tpfXYS2T4bCDm6.avif"
 draft = false
 type = "Photos"
-tags = ["Unknown Manufacturers"]
-pages = ["Gigglebee's"]
+tags = ["Unknown Manufacturers", "Gigglebee's"]
+
 startDate = ""
 +++
+
 Picture of Stanley in a Pizza Peddler Ad from 1984

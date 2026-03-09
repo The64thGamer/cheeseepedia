@@ -1,10 +1,10 @@
 +++
 title = "Jan00P3.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E's Variety Show - Best of 1999"]
 startDate = ""
 draft = false
-pages = ["Chuck E's Variety Show - Best of 1999"]
+
 
 citations = []
 +++

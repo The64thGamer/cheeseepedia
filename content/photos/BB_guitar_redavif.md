@@ -1,10 +1,10 @@
 +++
 title = "BB_guitar_red.avif"
 type = "Photos"
-tags = []
+tags = ["Beach Bear (Animatronic)"]
 startDate = ""
 draft = false
-pages = ["Beach Bear (Animatronic)"]
+
 
 citations = []
 +++

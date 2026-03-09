@@ -1,7 +1,8 @@
 +++
 title = "https://youtu.be/opeTLlnISNY?si=27XSLSfhrK_yoLjS"
-pages = ["CEC Beach Bowzers Showtape"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "CEC Beach Bowzers Showtape"]
 +++
+
 Beach Bowzers 1991 | Pizza Time Playhouse

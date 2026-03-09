@@ -2,8 +2,9 @@
 title = "BI_PplZa8mBjdOWuM4VP.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Chuck E. Cheese's Circus"]
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese's Circus"]
+
 startDate = ""
 +++
+
 Van in Chico, CA (stripped of CEC branding)

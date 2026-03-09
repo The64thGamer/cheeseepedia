@@ -2,8 +2,9 @@
 title = "2ZVTYMJmxFG9zFHDOcvO.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Glen Burnie, MD (6637 Governor Ritchie Hwy)"]
+tags = ["Chuck E. Cheese's", "Glen Burnie, MD (6637 Governor Ritchie Hwy)"]
+
 startDate = ""
 +++
+
 The store's 2-Stage back in 2016 (PC: R Fox's Animatronic World

@@ -1,10 +1,10 @@
 +++
 title = "ThePizzaTimeTheatah.avif"
 type = "Photos"
-tags = []
+tags = ["Harmony Howlette"]
 startDate = ""
 draft = false
-pages = ["Harmony Howlette"]
+
 
 citations = []
 +++

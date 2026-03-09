@@ -2,8 +2,9 @@
 title = "EFpAc1bzn9TXgSs27BHF.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["ShowBiz Pizza Time Distribution Center (Topeka, KS)"]
+tags = ["Chuck E. Cheese's", "ShowBiz Pizza Time Distribution Center (Topeka, KS)"]
+
 startDate = ""
 +++
+
 SPT's team visited by David McKillips and higher ups + and a better look at the Thumb Chuck Logo (2022)

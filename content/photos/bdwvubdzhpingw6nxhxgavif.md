@@ -2,7 +2,7 @@
 title = "bDwvubdZhpinGw6nxhxg.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Presentations"]
-pages = ["Tommy Bartlett's Robot World"]
+tags = ["Creative Presentations", "Tommy Bartlett's Robot World"]
+
 startDate = ""
 +++

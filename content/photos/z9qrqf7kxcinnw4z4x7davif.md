@@ -2,8 +2,9 @@
 title = "Z9qRqf7KXCiNnw4z4x7d.avif"
 draft = false
 type = "Photos"
-tags = ["Celebration Station"]
-pages = ["Pineville, NC (10400 Cadillac St)"]
+tags = ["Celebration Station", "Pineville, NC (10400 Cadillac St)"]
+
 startDate = ""
 +++
+
 Jethro Valance & Curtain Track (April 18th, 2019)

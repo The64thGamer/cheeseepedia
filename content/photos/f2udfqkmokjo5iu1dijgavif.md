@@ -2,8 +2,9 @@
 title = "F2udfqkmOkJO5iU1DIJG.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["ShowBiz Pizza Program 9"]
+tags = ["", "ShowBiz Pizza Program 9"]
+
 startDate = ""
 +++
+
 ShowBiz Pizza Program 9

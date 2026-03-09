@@ -2,8 +2,9 @@
 title = "6aCld3XhsAVe7QyEi8Fj.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Jersey City, NJ (701 Route 440)"]
+tags = ["Jersey City, NJ (701 Route 440)"]
+
 startDate = ""
 +++
+
 Jersey City after finishing it's 2.0 remodel on July 2, 2024. (PC: Dr. EZ of CEC 2)

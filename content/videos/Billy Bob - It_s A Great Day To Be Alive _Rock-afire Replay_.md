@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/tn8z3Y1sEbU"
 startDate = "2020-11-02"
-pages = ["Rock-afire Replay"]
+
 type = "Videos"
-tags = ["Creative Engineering","ShowBiz Pizza Place"]
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Billy Bob - It's A Great Day To Be Alive (Rock-afire Replay)

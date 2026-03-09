@@ -2,8 +2,9 @@
 title = "Qutn7vEcN6LitnJtLNTP.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["It's Chuck E. Time!"]
+tags = ["Chuck E. Cheese's", "It's Chuck E. Time!"]
+
 startDate = ""
 +++
+
 It's Chuck E. Time Cassette Side 2

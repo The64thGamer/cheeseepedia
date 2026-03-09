@@ -1,10 +1,10 @@
 +++
 title = "Westland_1982.avif"
 type = "Photos"
-tags = []
+tags = ["Westland, MI (208 S Wayne Rd)"]
 startDate = ""
 draft = false
-pages = ["Westland, MI (208 S Wayne Rd)"]
+
 
 citations = []
 +++

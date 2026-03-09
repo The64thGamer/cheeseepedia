@@ -2,8 +2,9 @@
 title = "xbk3CYqQECJn7jTh2AZp.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Crazy Colander Head Night (Event)"]
+tags = ["ShowBiz Pizza Place", "Crazy Colander Head Night (Event)"]
+
 startDate = ""
 +++
+
 Letter from ShowBiz Pizza, Page 2 (February 24, 1983)

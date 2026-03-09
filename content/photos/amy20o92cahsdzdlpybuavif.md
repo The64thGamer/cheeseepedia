@@ -2,8 +2,9 @@
 title = "amY20O92CaHSDzDLpYbu.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Fresno, CA (3117 W Shaw Ave)"]
+tags = ["ShowBiz Pizza Place", "Fresno, CA (3117 W Shaw Ave)"]
+
 startDate = ""
 +++
+
 Exterior on February 20th, 2024 (PC: the object in roblox)

@@ -1,10 +1,10 @@
 +++
 title = "Dsafeghyjtgrfds.avif"
 type = "Photos"
-tags = []
+tags = ["Mommy, Me & Chuck E. Class CD"]
 startDate = ""
 draft = false
-pages = ["Mommy, Me & Chuck E. Class CD"]
+
 
 citations = []
 +++

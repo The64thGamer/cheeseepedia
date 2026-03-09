@@ -2,8 +2,9 @@
 title = "ZJAKli4yFodl2KiJoQra.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Birmingham, AL (500 Old Town Rd)"]
+tags = ["ShowBiz Pizza Place", "Birmingham, AL (500 Old Town Rd)"]
+
 startDate = ""
 +++
+
 Vestavia Chuck E. Cheese's interior photo from October of 1992.

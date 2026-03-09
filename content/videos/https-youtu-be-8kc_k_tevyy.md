@@ -1,9 +1,10 @@
 +++
 title = "https://youtu.be/8Kc_K_tEvyY"
 startDate = "1981-02-00"
-pages = ["Kansas City (Antioch), MO (2726 NE Vivion Rd)", "Fats Gorilla (Animatronic) ", "Wolf Pack 5", "Wolf Pack 5 ShowBiz Tape", "Classic Stage"]
+
 mirroredLinks = ["https://youtu.be/FqQPZvPYdoY"]
 type = "Videos"
-tags = ["ShowBiz Pizza Place"]
+tags = ["ShowBiz Pizza Place", "Kansas City (Antioch), MO (2726 NE Vivion Rd)", "Fats Gorilla (Animatronic) ", "Wolf Pack 5", "Wolf Pack 5 ShowBiz Tape", "Classic Stage"]
 +++
+
 1981 commercial for ShowBiz Pizza. Showcases the Wolf Pack 5 and beta Rock-afire. End tag promoting the opening of Davenport, IA (903 E Kimberly Rd).

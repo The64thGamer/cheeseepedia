@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/Yy6CescyNYQ"
 startDate = "1991-00-00"
-pages = ["Huntington Beach, CA (15511 Edwards St)", "Chuck E's House Facade", "Guest Star / Helen Henny (Cyberamic)", "Mr. Munch (Cyberamic)", "Jasper T. Jowls (Cyberamic)"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Huntington Beach, CA (15511 Edwards St)", "Chuck E's House Facade", "Guest Star / Helen Henny (Cyberamic)", "Mr. Munch (Cyberamic)", "Jasper T. Jowls (Cyberamic)"]
 +++
+
 Home movie of a birthday party at Huntington Beach, CA (15511 Edwards St) in 1991. Showcases the store, games, & C-Stage. It also shows the exterior but partially.

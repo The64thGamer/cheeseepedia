@@ -2,8 +2,9 @@
 title = "XKbfl7WEpH7nuCmGkOfl.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Engineering"]
-pages = ["Gulliver's Kingdom Stage"]
+tags = ["Creative Engineering", "Gulliver's Kingdom Stage"]
+
 startDate = ""
 +++
+
 Dook Larue on 2023/09/24

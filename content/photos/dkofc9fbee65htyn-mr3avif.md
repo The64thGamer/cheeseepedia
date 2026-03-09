@@ -2,8 +2,9 @@
 title = "dkoFC9fBee65HTyN_Mr3.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Chuck E. Cheese Play-N-Place"]
+tags = ["Pizza Time Theatre", "Chuck E. Cheese Play-N-Place"]
+
 startDate = ""
 +++
+
 Jasper's Jump Around in Phoenix, AZ's Play-N-Place

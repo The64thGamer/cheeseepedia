@@ -1,10 +1,10 @@
 +++
 title = "Madison,_TN_Dance_Floor.avif"
 type = "Photos"
-tags = []
+tags = ["Madison, TN (2070 Gallatin Pike)"]
 startDate = ""
 draft = false
-pages = ["Madison, TN (2070 Gallatin Pike)"]
+
 
 citations = []
 +++

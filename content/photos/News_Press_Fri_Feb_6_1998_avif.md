@@ -1,10 +1,10 @@
 +++
 title = "News_Press_Fri_Feb_6_1998_.avif"
 type = "Photos"
-tags = []
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = ["Backyard Monsters"]
+
 
 citations = []
 +++

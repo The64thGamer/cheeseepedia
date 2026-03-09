@@ -2,8 +2,9 @@
 title = "tmUfwDmtRk4aZ8tvS5pl.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Prop TV (Shelf Item)"]
+tags = ["Chuck E. Cheese's", "Prop TV (Shelf Item)"]
+
 startDate = ""
 +++
+
 ''I Love Lucy'' cast screen

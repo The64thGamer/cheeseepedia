@@ -1,8 +1,9 @@
 +++
 title = "Show125Int.avif"
 citations = ["https://www.youtube.com/watch?v=fs8aBtQJNmU"]
-pages = ["Chuck E. Cheese Show 1 2025 International English"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese Show 1 2025 International English"]
 +++
+
 Screenshot of 'Friendship Never Ends' (2024)

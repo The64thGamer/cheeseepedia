@@ -2,8 +2,9 @@
 title = "Y8HePczHbVoBMEni_CeX.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["New Years Eve 1983, 1984"]
+tags = ["New Years Eve 1983, 1984"]
+
 startDate = ""
 +++
+
 New Years Show Ad (December 27, 1983)https://www.newspapers.com/article/the-state/96638543/

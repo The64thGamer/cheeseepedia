@@ -2,8 +2,9 @@
 title = "moxzHpp75CkBOy8EZ94p.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["PTT Winchester Game Room Rules Sign"]
+tags = ["", "PTT Winchester Game Room Rules Sign"]
+
 startDate = ""
 +++
+
 Above.

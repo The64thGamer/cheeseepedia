@@ -2,8 +2,9 @@
 title = "nT4eOOtR8he9bmu4HIWK.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Edina, MN (7505 France Ave S)"]
+tags = ["Edina, MN (7505 France Ave S)"]
+
 startDate = ""
 +++
+
 Second floor in June of 2017

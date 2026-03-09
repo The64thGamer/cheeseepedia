@@ -2,8 +2,9 @@
 title = "7GQ97fgJnYbsPzjtpHVC.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["PTT 1980 3 Year Employee Pin"]
+tags = ["Pizza Time Theatre", "PTT 1980 3 Year Employee Pin"]
+
 startDate = ""
 +++
+
 Back

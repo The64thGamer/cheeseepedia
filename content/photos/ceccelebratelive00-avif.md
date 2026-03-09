@@ -1,7 +1,8 @@
 +++
 title = "ceccelebratelive00.avif"
-pages = ["Celebration 2000"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Celebration 2000"]
 +++
+
 Screenshot of "Celebration 2000" live show

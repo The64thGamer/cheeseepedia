@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/5RwV44mu0H0"
 startDate = "2025-05-18"
-pages = ["Huntington Beach, CA (15031 Goldenwest St)","Huntington Beach, CA (15511 Edwards St)"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Huntington Beach, CA (15031 Goldenwest St)", "Huntington Beach, CA (15511 Edwards St)"]
 +++
+
 Tour of both Huntington Beach stores.

@@ -2,7 +2,7 @@
 title = "XXHZpV59pc5w8HcWCIQo.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["CEC Suggestive Sales 101 (2008)"]
+tags = ["Chuck E. Cheese's", "CEC Suggestive Sales 101 (2008)"]
+
 startDate = ""
 +++

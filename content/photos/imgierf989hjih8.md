@@ -2,8 +2,9 @@
 title = "imgIERF989HJIH8.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place","Creative Engineering"]
-pages = ["12 Shows Special"]
+tags = ["ShowBiz Pizza Place", "Creative Engineering", "12 Shows Special"]
+
 startDate = "2024-10-01"
 +++
+
 12 Shows Special Showtape side cover. Shows alternate name '1981 SHOWS'

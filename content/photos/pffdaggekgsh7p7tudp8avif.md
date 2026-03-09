@@ -2,8 +2,9 @@
 title = "pFfDaggeKgSh7P7TudP8.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Orlando, FL (7419 International Dr)"]
+tags = ["ShowBiz Pizza Place", "Orlando, FL (7419 International Dr)"]
+
 startDate = ""
 +++
+
 The only known photo of the store's [[Concept Unification Stage

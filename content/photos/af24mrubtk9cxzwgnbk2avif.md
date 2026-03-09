@@ -2,8 +2,9 @@
 title = "af24mruBTk9CXZWGnbK2.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["The King / King Kat (Lounge)"]
+tags = ["Pizza Time Theatre", "The King / King Kat (Lounge)"]
+
 startDate = ""
 +++
+
 [[Brandon, FL (1540 W Brandon Blvd)

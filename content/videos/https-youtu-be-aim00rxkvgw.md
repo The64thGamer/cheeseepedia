@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/aIm00rXKVGw"
 startDate = "2023-11-09"
-pages = ["Northridge, CA (8425 Reseda Blvd)", "2-Stage"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Northridge, CA (8425 Reseda Blvd)", "2-Stage"]
 +++
+
 Footage of the animatronics at Northridge playing Let's Have A Party before the Reopening Party.

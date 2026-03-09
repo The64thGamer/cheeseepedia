@@ -2,8 +2,9 @@
 title = "U7cD1dGfaga4zdZB5G3x.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["CEC Token 406 (B, bB, C, N)"]
+tags = ["", "CEC Token 406 (B, bB, C, N)"]
+
 startDate = ""
 +++
+
 left

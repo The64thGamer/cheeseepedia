@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/m3H1mIf4CDY"
 startDate = "2021-01-25"
-pages = ["Rock-afire Replay"]
+
 type = "Videos"
-tags = ["Creative Engineering","ShowBiz Pizza Place"]
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 The Rock-afire Explosion Performs "The Monkees Medley" (Last Rock-afire Replay Performance)

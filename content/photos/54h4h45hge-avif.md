@@ -1,8 +1,9 @@
 +++
 title = "54h4h45hge.avif"
 startDate = "0000-00-00"
-pages = ["Animatronic Measurements & Parts Catalogue"]
+
 type = "Photos"
-tags = ["Pizza Time Theatre"]
+tags = ["Pizza Time Theatre", "Animatronic Measurements & Parts Catalogue"]
 +++
+
 3-Stage Chuck Upper Arm Measurements (No Holes)

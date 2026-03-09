@@ -2,8 +2,9 @@
 title = "A1iUUz0pILv1QzyZ7wIr.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Joliet, IL (3250 Chicagoland Circle)"]
+tags = ["Chuck E. Cheese's", "Joliet, IL (3250 Chicagoland Circle)"]
+
 startDate = ""
 +++
+
 A photo of the store's Beta before the 2.0 Remodel and being installed at Darien before their 2.0 remodel (9/11/2017) (PC: Cam H)

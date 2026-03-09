@@ -1,10 +1,10 @@
 +++
 title = "Jan00Floppy.avif"
 type = "Photos"
-tags = []
+tags = ["Studio C Emergency Show"]
 startDate = ""
 draft = false
-pages = ["Studio C Emergency Show"]
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "BatonRougeBoardwalkExterior.avif"
 type = "Photos"
-tags = []
+tags = ["Baton Rouge, LA (11324 Boardwalk Dr)"]
 startDate = ""
 draft = false
-pages = ["Baton Rouge, LA (11324 Boardwalk Dr)"]
+
 
 citations = []
 +++

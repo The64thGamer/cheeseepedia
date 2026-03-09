@@ -2,7 +2,7 @@
 title = "9i0hjdfgjkn2349tu0.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["SPP Working / Summertime"]
+tags = ["ShowBiz Pizza Place", "SPP Working / Summertime"]
+
 startDate = "2024-10-20"
 +++

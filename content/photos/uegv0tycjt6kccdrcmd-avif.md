@@ -2,8 +2,9 @@
 title = "UEgv0tycJT6kCcdrcMd_.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["North Las Vegas, NV (755 W. Craig Rd Suite 144)"]
+tags = ["Chuck E. Cheese's", "North Las Vegas, NV (755 W. Craig Rd Suite 144)"]
+
 startDate = ""
 +++
+
 The store's Trampoline Zone signage. (1/30/24)

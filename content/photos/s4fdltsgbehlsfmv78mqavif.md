@@ -2,8 +2,9 @@
 title = "s4fdltsgBehLsfmv78mq.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["San Jose, CA (1371 Kooser Rd)"]
+tags = ["Pizza Time Theatre", "San Jose, CA (1371 Kooser Rd)"]
+
 startDate = ""
 +++
+
 Fantasy Forest seen in the October 1979 issue of Food Service Marketing, page 47.

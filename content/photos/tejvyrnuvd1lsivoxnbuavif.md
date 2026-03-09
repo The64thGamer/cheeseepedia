@@ -2,7 +2,7 @@
 title = "tEJvYRnUVD1LsIVOXnbu.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Modesto, CA (3037 Sisk Rd)"]
+tags = ["Pizza Time Theatre", "Modesto, CA (3037 Sisk Rd)"]
+
 startDate = ""
 +++

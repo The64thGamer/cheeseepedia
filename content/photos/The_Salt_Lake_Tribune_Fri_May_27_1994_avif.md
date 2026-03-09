@@ -1,10 +1,10 @@
 +++
 title = "The_Salt_Lake_Tribune_Fri_May_27_1994_.avif"
 type = "Photos"
-tags = []
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = ["Backyard Monsters"]
+
 
 citations = []
 +++

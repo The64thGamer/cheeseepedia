@@ -1,10 +1,10 @@
 +++
 title = "Daily_Press_Fri_Jul_12_1996_.avif"
 type = "Photos"
-tags = []
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = ["Backyard Monsters"]
+
 
 citations = []
 +++

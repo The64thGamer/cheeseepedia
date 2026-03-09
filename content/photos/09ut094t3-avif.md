@@ -1,8 +1,9 @@
 +++
 title = "09ut094t3.avif"
 startDate = "0000-00-00"
-pages = ["Cyberamic Head Sheet Metal"]
+
 type = "Photos"
-tags = ["Pizza Time Theatre"]
+tags = ["Pizza Time Theatre", "Cyberamic Head Sheet Metal"]
 +++
+
 (Outdated, Inaccurate) Cyberamic Neck Bracket Measurements

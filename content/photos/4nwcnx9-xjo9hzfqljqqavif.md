@@ -2,9 +2,10 @@
 title = "4NWcNx9_Xjo9hzfQLJQQ.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Cincinnati, OH (8801 Colerain Ave)"]
+tags = ["ShowBiz Pizza Place", "Cincinnati, OH (8801 Colerain Ave)"]
+
 startDate = ""
 citations = ["https://www.facebook.com/photo/?fbid=10224824671351060&set=gm.4879274608781616/"]
 +++
+
 Center Stage of the RAE (88-90)

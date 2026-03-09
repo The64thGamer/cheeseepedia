@@ -2,8 +2,9 @@
 title = "UqaSSQo0ulaHVOS1f8Q4.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Chino, CA (5250 Philadelphia St)"]
+tags = ["Chuck E. Cheese's", "Chino, CA (5250 Philadelphia St)"]
+
 startDate = ""
 +++
+
 Chino Before 2.0.

@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/U-BkEcK_GcQ"
 startDate = "2021-11-28"
-pages = ["Rock-afire Replay"]
+
 type = "Videos"
-tags = ["Creative Engineering","ShowBiz Pizza Place"]
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Rock-afire Replay - Jolene Mitzi performance Complete

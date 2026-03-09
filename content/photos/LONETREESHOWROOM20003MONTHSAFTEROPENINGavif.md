@@ -1,10 +1,10 @@
 +++
 title = "LONETREESHOWROOM20003MONTHSAFTEROPENING.avif"
 type = "Photos"
-tags = []
+tags = ["Brentwood, CA (6061 Lone Tree Way)"]
 startDate = ""
 draft = false
-pages = ["Brentwood, CA (6061 Lone Tree Way)"]
+
 
 citations = []
 +++

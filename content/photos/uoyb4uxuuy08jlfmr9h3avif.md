@@ -2,8 +2,9 @@
 title = "uoYB4UxUuy08jlFmr9H3.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Mentor, OH (7900 Plaza Blvd)"]
+tags = ["Mentor, OH (7900 Plaza Blvd)"]
+
 startDate = ""
 +++
+
 Mentor's Chuck E.'s House Facade after the retrofit to Marc's

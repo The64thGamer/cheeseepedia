@@ -1,10 +1,10 @@
 +++
 title = "S96Munch.avif"
 type = "Photos"
-tags = []
+tags = ["Small Munch Plush (1996)"]
 startDate = ""
 draft = false
-pages = ["Small Munch Plush (1996)"]
+
 
 citations = []
 +++

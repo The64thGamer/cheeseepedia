@@ -2,8 +2,9 @@
 title = "wVKClez9STW3Cf1w0WNX.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Crazy Colander Head Night (Event)"]
+tags = ["ShowBiz Pizza Place", "Crazy Colander Head Night (Event)"]
+
 startDate = ""
 +++
+
 Letter from [[San Antonio, TX (6874 Ingram Rd)]] (February 25, 1983)

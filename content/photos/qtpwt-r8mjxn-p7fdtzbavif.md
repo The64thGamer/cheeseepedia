@@ -2,7 +2,7 @@
 title = "qtpWt_R8Mjxn_P7FDtzb.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Dr. Quack Showtape"]
+tags = ["Pizza Time Theatre", "Dr. Quack Showtape"]
+
 startDate = ""
 +++

@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/rhecghVtBvc"
 startDate = "2021-01-04"
-pages = ["Rock-afire Replay"]
+
 type = "Videos"
-tags = ["Creative Engineering","ShowBiz Pizza Place"]
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 My First Attempt at Programming a Mijjin in Rock-afire Replay

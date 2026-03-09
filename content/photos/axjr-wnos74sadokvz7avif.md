@@ -2,8 +2,9 @@
 title = "AXjr__WnOS74saDOkvz7.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Chuck E. Cheese Play-N-Place"]
+tags = ["Pizza Time Theatre", "Chuck E. Cheese Play-N-Place"]
+
 startDate = ""
 +++
+
 Dolli's Descent in Phoenix, AZ's Play-N-Place

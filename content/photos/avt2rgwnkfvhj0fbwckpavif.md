@@ -2,8 +2,9 @@
 title = "aVT2RGWnKfvhj0FbWcKp.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Lowell, MA (199 Plain St)"]
+tags = ["Chuck E. Cheese's", "Lowell, MA (199 Plain St)"]
+
 startDate = ""
 +++
+
 Lowell's 1-Stage in Late 2021 after Lowell's original Chuck, Helen, and Jasper top halves was replaced with Worcester's top halves.

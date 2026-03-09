@@ -1,7 +1,8 @@
 +++
 title = "cecheadshoulderskneestoes2008live.avif"
-pages = ["Head Shoulders Knees & Toes"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Head Shoulders Knees & Toes"]
 +++
+
 Screenshot of "Head, Shoulders, Knees and Toes" choreography video

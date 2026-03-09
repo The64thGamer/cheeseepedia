@@ -2,7 +2,7 @@
 title = "Ftg4CO_jT4E_1r5_cRlw.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Chuck E. Cheese Spotify"]
+tags = ["Chuck E. Cheese Spotify"]
+
 startDate = ""
 +++

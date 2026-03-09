@@ -1,10 +1,10 @@
 +++
 title = "Chuck_Mask.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese (Cyberamic)"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese (Cyberamic)"]
+
 
 citations = []
 +++

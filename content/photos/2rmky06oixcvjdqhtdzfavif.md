@@ -2,7 +2,7 @@
 title = "2RmkY06oiXcVjDqhTDZf.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Bridgeville, PA (1035 Washington Pike)"]
+tags = ["Chuck E. Cheese's", "Bridgeville, PA (1035 Washington Pike)"]
+
 startDate = ""
 +++

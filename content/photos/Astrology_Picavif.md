@@ -1,10 +1,10 @@
 +++
 title = "Astrology_Pic.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese's Astrology"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese's Astrology"]
+
 
 citations = []
 +++

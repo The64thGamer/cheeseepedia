@@ -1,10 +1,10 @@
 +++
 title = "98uh9j94tj93ij4g.avif"
 type = "Photos"
-tags = []
+tags = ["Original Dreams: Songs from ShowBiz"]
 startDate = ""
 draft = false
-pages = ["Original Dreams: Songs from ShowBiz"]
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "Adasdasdasdasd.avif"
 type = "Photos"
-tags = []
+tags = ["3-Stage Diagnostics 2007"]
 startDate = ""
 draft = false
-pages = ["3-Stage Diagnostics 2007"]
+
 
 citations = []
 +++

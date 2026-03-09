@@ -1,7 +1,8 @@
 +++
 title = "Now-Appearing-Foxy-Colleen.avif"
-pages = ["Guest Star / Helen Henny (Cyberamic)"]
+
 type = "Photos"
-tags = ["Pizza Time Theatre"]
+tags = ["Pizza Time Theatre", "Guest Star / Helen Henny (Cyberamic)"]
 +++
+
 Uncropped photo of Foxy Colleen for 'Now Appearing' poster

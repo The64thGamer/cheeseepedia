@@ -2,8 +2,9 @@
 title = "b0zWmwmazmK0mNVkNxv3.avif"
 draft = false
 type = "Photos"
-tags = ["Sally Corporation"]
-pages = ["Care Bears: Care-A-Lot Castle"]
+tags = ["Sally Corporation", "Care Bears: Care-A-Lot Castle"]
+
 startDate = ""
 +++
+
 Funshine Bear and Tenderheart Bear at IAAPA (1986)

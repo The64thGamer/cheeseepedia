@@ -105,6 +105,7 @@
       <div class="tab-panel" id="edit-actions">
         <div style="margin-top:1rem;">
           <button id="add-to-gallery-btn">Add Photos to Gallery</button>
+          <button id="add-video-btn" style="margin-left:1rem;">Add Video</button>
           <button id="write-review-btn" style="margin-left:1rem;">Write a Review</button>
         </div>
       </div>
@@ -211,6 +212,95 @@
           <button id="gallery-retry">Try Again</button>
         </div>
       </div>
+    </div>
+  </div>
+
+  <!-- ══════════════ VIDEO MODAL ══════════════ -->
+  <div id="video-upload-modal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <span class="close-video">&times;</span>
+
+      <!-- Step 1: URL + Mirrors -->
+      <div id="video-step-1" class="step">
+        <h3>Add Video — URL</h3>
+        <label style="display:block; margin-bottom:4px;">Primary Video URL</label>
+        <input type="text" id="video-url" placeholder="https://www.youtube.com/watch?v=..." autocomplete="off" style="width:100%; margin-bottom:12px;">
+        <label style="display:block; margin-bottom:4px;">Alternate / Mirror URLs <span style="font-size:0.8em; color:#aaa;">(optional)</span></label>
+        <div id="video-mirrors-list"></div>
+        <button id="video-add-mirror" style="margin-top:4px;">+ Add Alternate URL</button>
+        <div style="margin-top:16px;">
+          <button id="video-back-1">Cancel</button>
+          <button id="video-next-1" style="margin-left:8px;">Next</button>
+        </div>
+      </div>
+
+      <!-- Step 2: Description -->
+      <div id="video-step-2" class="step" style="display:none;">
+        <h3>Add Video — Description</h3>
+        <textarea id="video-description" placeholder="Describe what this video shows..." rows="6" autocomplete="off" style="width:100%;"></textarea>
+        <div style="margin-top:10px;">
+          <button id="video-back-2">Back</button>
+          <button id="video-next-2" style="margin-left:8px;">Next</button>
+        </div>
+      </div>
+
+      <!-- Step 3: Citations -->
+      <div id="video-step-3" class="step" style="display:none;">
+        <h3>Add Video — Citations</h3>
+        <p style="font-size:0.85em; color:#aaa; margin-bottom:8px;">Add any citations or sources (optional).</p>
+        <div id="video-citations-list"></div>
+        <button id="video-add-citation" style="margin-top:4px;">+ Add Citation</button>
+        <div style="margin-top:16px;">
+          <button id="video-back-3">Back</button>
+          <button id="video-next-3" style="margin-left:8px;">Next</button>
+        </div>
+      </div>
+
+      <!-- Step 4: Date -->
+      <div id="video-step-4" class="step" style="display:none;">
+        <h3>Add Video — Date</h3>
+        <p style="font-size:0.85em; color:#aaa; margin-bottom:8px;">When was this video recorded or uploaded?</p>
+        <div class="date-inputs">
+          <select id="video-year"  autocomplete="off"><option value="">Year (Unknown)</option></select>
+          <select id="video-month" autocomplete="off">
+            <option value="00">Month (Unknown)</option>
+            <option value="01">January</option><option value="02">February</option>
+            <option value="03">March</option><option value="04">April</option>
+            <option value="05">May</option><option value="06">June</option>
+            <option value="07">July</option><option value="08">August</option>
+            <option value="09">September</option><option value="10">October</option>
+            <option value="11">November</option><option value="12">December</option>
+          </select>
+          <select id="video-day" autocomplete="off"><option value="00">Day (Unknown)</option></select>
+        </div>
+        <div style="margin-top:16px;">
+          <button id="video-back-4">Back</button>
+          <button id="video-next-4" style="margin-left:8px;">Submit</button>
+        </div>
+      </div>
+
+      <!-- Step 5: Progress / Success / Error -->
+      <div id="video-step-5" class="step" style="display:none;">
+        <h3>Creating Pull Request...</h3>
+        <div id="video-progress">
+          <div class="progress-item"><span id="video-prog-1">&#8987;</span> Validating...</div>
+          <div class="progress-item"><span id="video-prog-2">&#8987;</span> Setting up fork...</div>
+          <div class="progress-item"><span id="video-prog-3">&#8987;</span> Uploading file...</div>
+          <div class="progress-item"><span id="video-prog-4">&#8987;</span> Committing...</div>
+          <div class="progress-item"><span id="video-prog-5">&#8987;</span> Creating PR...</div>
+        </div>
+        <div id="video-success" style="display:none;">
+          <h4 style="color:var(--yellow);">&#9989; Success!</h4>
+          <a id="video-pr-link" href="#" target="_blank" class="github-link">View Pull Request</a><br><br>
+          <button id="video-done">Done</button>
+        </div>
+        <div id="video-error" style="display:none; color:var(--orange);">
+          <h4>&#10060; Error</h4>
+          <p id="video-error-msg"></p>
+          <button id="video-retry">Try Again</button>
+        </div>
+      </div>
+
     </div>
   </div>
 

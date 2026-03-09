@@ -1,7 +1,8 @@
 +++
 title = "letsgrooveliveshow2004.avif"
-pages = ["Let's Groove"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Let's Groove"]
 +++
+
 Screenshot of "Let's Groove" live show

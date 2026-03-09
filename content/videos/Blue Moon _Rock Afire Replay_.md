@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/RTfT707zCM0"
 startDate = "2021-05-31"
-pages = ["Rock-afire Replay"]
+
 type = "Videos"
-tags = ["Creative Engineering","ShowBiz Pizza Place"]
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Blue Moon (Rock Afire Replay)

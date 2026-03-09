@@ -1,10 +1,10 @@
 +++
 title = "Santee_ca_7_3_2023_n1.avif"
 type = "Photos"
-tags = []
+tags = ["Santee, CA (265 Town Center Pkwy)"]
 startDate = ""
 draft = false
-pages = ["Santee, CA (265 Town Center Pkwy)"]
+
 
 citations = []
 +++

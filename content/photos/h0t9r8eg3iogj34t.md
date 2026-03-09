@@ -2,8 +2,9 @@
 title = "h0t9r8eg3iogj34t.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Newport, KY (301 Riverboat Row)"]
+tags = ["Pizza Time Theatre", "Newport, KY (301 Riverboat Row)"]
+
 startDate = "1981-00-00"
 +++
+
 Concept art for a cancelled Pizza Time Theatre on a riverboat, edited black and white copy.

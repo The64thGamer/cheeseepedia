@@ -1,10 +1,10 @@
 +++
 title = "SPTHQ_Pasqually.avif"
 type = "Photos"
-tags = []
+tags = ["Winchester Pasqually (Animatronic)"]
 startDate = ""
 draft = false
-pages = ["Winchester Pasqually (Animatronic)"]
+
 
 citations = []
 +++

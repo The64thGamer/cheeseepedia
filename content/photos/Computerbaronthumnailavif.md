@@ -1,10 +1,10 @@
 +++
 title = "Computerbaronthumnail.avif"
 type = "Photos"
-tags = []
+tags = ["'Computer Baron' News Cast (March 11, 1981)"]
 startDate = ""
 draft = false
-pages = ["'Computer Baron' News Cast (March 11, 1981)"]
+
 
 citations = []
 +++

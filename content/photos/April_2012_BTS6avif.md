@@ -1,10 +1,10 @@
 +++
 title = "April_2012_BTS6.avif"
 type = "Photos"
-tags = []
+tags = ["Studio C"]
 startDate = ""
 draft = false
-pages = ["Studio C"]
+
 
 citations = []
 +++

@@ -2,8 +2,9 @@
 title = "6tF6Cu7wkZfHtSqfRhHA.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["'Flabby Road' (CD Award)"]
+tags = ["'Flabby Road' (CD Award)"]
+
 startDate = ""
 +++
+
 1995 Release

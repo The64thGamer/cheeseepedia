@@ -1,10 +1,10 @@
 +++
 title = "Muncie_Evening_Press_Thu_Nov_12_1992_.avif"
 type = "Photos"
-tags = []
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = ["Backyard Monsters"]
+
 
 citations = []
 +++

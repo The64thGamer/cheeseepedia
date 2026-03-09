@@ -2,8 +2,9 @@
 title = "EF_lZpTWNst6d4JjR8We.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["PTT Kooser Helen Henny Name Sign (1978)"]
+tags = ["", "PTT Kooser Helen Henny Name Sign (1978)"]
+
 startDate = ""
 +++
+
 Seen in the 1978 Kooser Opening Promotional Brochure, published on 12/4/78, closeup.

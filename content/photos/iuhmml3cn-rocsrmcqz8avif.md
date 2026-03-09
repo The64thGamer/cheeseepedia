@@ -2,8 +2,9 @@
 title = "IuHMML3cn_roCSRMcqZ8.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["PTT Winchester Chuck E. Cheese Name Sign (1977)"]
+tags = ["", "PTT Winchester Chuck E. Cheese Name Sign (1977)"]
+
 startDate = ""
 +++
+
 Seen in the '4 Corners' news broadcast.

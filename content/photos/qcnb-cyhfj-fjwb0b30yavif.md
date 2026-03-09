@@ -2,8 +2,9 @@
 title = "QCNB_CYHFj_fjwB0b30Y.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Glen Burnie, MD (6637 Governor Ritchie Hwy)","Chuck E. Cheese (Cyberamic)"]
+tags = ["Chuck E. Cheese's", "Glen Burnie, MD (6637 Governor Ritchie Hwy)", "Chuck E. Cheese (Cyberamic)"]
+
 startDate = ""
 +++
+
  Cyberamic Chuck with the tux in 2003

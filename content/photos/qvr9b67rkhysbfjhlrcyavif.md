@@ -2,8 +2,9 @@
 title = "Qvr9B67RkhysBfJhLRcy.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Lowell, MA (199 Plain St)"]
+tags = ["Chuck E. Cheese's", "Lowell, MA (199 Plain St)"]
+
 startDate = ""
 +++
+
 Screenshot of Lowell's Interior in October 2023 from Google Maps.

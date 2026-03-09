@@ -2,7 +2,7 @@
 title = "lHYLB0Zi3t76Fv4cbW8d.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Studio C 3-Stage"]
+tags = ["Studio C 3-Stage"]
+
 startDate = ""
 +++

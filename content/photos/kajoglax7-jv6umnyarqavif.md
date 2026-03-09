@@ -2,7 +2,7 @@
 title = "KAjoglaX7_jV6umNYARq.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Richmond, VA (10430 Midlothian Turnpike)"]
+tags = ["ShowBiz Pizza Place", "Richmond, VA (10430 Midlothian Turnpike)"]
+
 startDate = ""
 +++

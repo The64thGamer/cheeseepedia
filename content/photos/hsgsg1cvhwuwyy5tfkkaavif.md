@@ -2,7 +2,7 @@
 title = "hsGsG1CvhwuWyy5TfKkA.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Sacramento , CA (7020 Stockton Blvd)"]
+tags = ["Sacramento , CA (7020 Stockton Blvd)"]
+
 startDate = ""
 +++

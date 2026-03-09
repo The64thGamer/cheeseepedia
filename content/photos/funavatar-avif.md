@@ -1,8 +1,9 @@
 +++
 title = "Funavatar.avif"
 startDate = "2022-10-10"
-pages = ["funavatar"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "funavatar"]
 +++
+
 Complete archive of u/funavatar

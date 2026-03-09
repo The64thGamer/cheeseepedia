@@ -1,10 +1,10 @@
 +++
 title = "Studio_C_Statue_1.avif"
 type = "Photos"
-tags = []
+tags = ["Studio C"]
 startDate = ""
 draft = false
-pages = ["Studio C"]
+
 
 citations = []
 +++

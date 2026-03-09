@@ -1,10 +1,10 @@
 +++
 title = "Haba.avif"
 type = "Photos"
-tags = []
+tags = ["Salem, OR (3180 Lancaster Dr)"]
 startDate = ""
 draft = false
-pages = ["Salem, OR (3180 Lancaster Dr)"]
+
 
 citations = []
 +++

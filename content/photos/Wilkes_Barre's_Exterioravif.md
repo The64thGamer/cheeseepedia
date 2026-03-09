@@ -1,10 +1,10 @@
 +++
 title = "Wilkes_Barre's_Exterior.avif"
 type = "Photos"
-tags = []
+tags = ["Wilkes-Barre Township, PA (2120 Market Place)"]
 startDate = ""
 draft = false
-pages = ["Wilkes-Barre Township, PA (2120 Market Place)"]
+
 
 citations = []
 +++

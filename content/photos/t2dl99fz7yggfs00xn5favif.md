@@ -2,8 +2,9 @@
 title = "t2Dl99fZ7YgGFs00xN5F.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["St Petersburg, FL (1024 58th St)"]
+tags = ["Pizza Time Theatre", "St Petersburg, FL (1024 58th St)"]
+
 startDate = ""
 +++
+
 A picture of St. Petersburg's exterior taken in 2017.

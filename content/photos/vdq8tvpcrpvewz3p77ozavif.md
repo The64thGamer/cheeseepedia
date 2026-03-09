@@ -2,9 +2,10 @@
 title = "vdQ8tvPcRPVEwZ3P77oZ.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Cincinnati, OH (8801 Colerain Ave)"]
+tags = ["ShowBiz Pizza Place", "Cincinnati, OH (8801 Colerain Ave)"]
+
 startDate = "2019-09-24"
 citations = ["Photo by Chuck E. Entertainment"]
 +++
+
 Store mid cleanout. Showing off the remains of the animatronics. (September 24, 2019)

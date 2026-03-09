@@ -2,8 +2,9 @@
 title = "ho27MTJSfazINKYkz5zo.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["PTT Winchester Chuck E. Cheese Name Sign (1977)"]
+tags = ["", "PTT Winchester Chuck E. Cheese Name Sign (1977)"]
+
 startDate = ""
 +++
+
 Seen in the 1977 B&W Winchester Promotional Photos.

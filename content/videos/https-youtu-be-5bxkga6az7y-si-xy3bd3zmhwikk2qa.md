@@ -1,7 +1,8 @@
 +++
 title = "https://youtu.be/5BXkGA6Az7Y?si=xy3Bd3zMHWIKk2Qa"
-pages = ["January 2004 Show"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "January 2004 Show"]
 +++
+
 January 2004 | Animatronium

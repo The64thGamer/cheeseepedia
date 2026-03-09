@@ -2,8 +2,9 @@
 title = "AX4umpQMVj0yMC_Fb31R.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Evansville, IN (559 N Green River Rd)"]
+tags = ["ShowBiz Pizza Place", "Evansville, IN (559 N Green River Rd)"]
+
 startDate = ""
 +++
+
 The store's exterior as of today. (PC: Adam Kunkel)

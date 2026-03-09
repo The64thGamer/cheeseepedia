@@ -1,10 +1,10 @@
 +++
 title = "Wcwdcwdcwdc.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese's Show 4 2019"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese's Show 4 2019"]
+
 
 citations = []
 +++

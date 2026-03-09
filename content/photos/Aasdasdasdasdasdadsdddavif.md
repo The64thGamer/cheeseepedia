@@ -1,10 +1,10 @@
 +++
 title = "Aasdasdasdasdasdadsddd.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese Springtastic Show 2022"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese Springtastic Show 2022"]
+
 
 citations = []
 +++

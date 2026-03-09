@@ -1,10 +1,10 @@
 +++
 title = "Rick_Rat.avif"
 type = "Photos"
-tags = []
+tags = ["Rick Rat Walkaround"]
 startDate = ""
 draft = false
-pages = ["Rick Rat Walkaround"]
+
 
 citations = []
 +++

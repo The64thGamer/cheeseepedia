@@ -2,8 +2,9 @@
 title = "SsvobWFuzZTDq8EpBKN8.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Grand Junction, CO (2424 US Hwy 6 & 50)"]
+tags = ["Chuck E. Cheese's", "Grand Junction, CO (2424 US Hwy 6 & 50)"]
+
 startDate = ""
 +++
+
 Grand Junction's Exterior in June 2019 (PC: Google Maps)

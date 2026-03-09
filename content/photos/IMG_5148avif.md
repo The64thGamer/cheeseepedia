@@ -1,10 +1,10 @@
 +++
 title = "IMG_5148.avif"
 type = "Photos"
-tags = []
+tags = ["Beach Bear (Animatronic)"]
 startDate = ""
 draft = false
-pages = ["Beach Bear (Animatronic)"]
+
 
 citations = []
 +++

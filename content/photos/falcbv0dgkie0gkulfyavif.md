@@ -2,7 +2,7 @@
 title = "_faLcbV0DGKIE0gkulfY.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Articulated Jasper Walkaround"]
+tags = ["Chuck E. Cheese's", "Articulated Jasper Walkaround"]
+
 startDate = ""
 +++

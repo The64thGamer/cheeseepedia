@@ -2,8 +2,9 @@
 title = "wc6JYbX2C65a8KVjTVFt.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Hialeah, FL (3805 W 20th Ave)"]
+tags = ["Chuck E. Cheese's", "Hialeah, FL (3805 W 20th Ave)"]
+
 startDate = ""
 +++
+
 '''Hialeah's Road Stage in 2012. (Before Chuck's Cool Chuck outfit was replaced with the Avenger outfit)'''

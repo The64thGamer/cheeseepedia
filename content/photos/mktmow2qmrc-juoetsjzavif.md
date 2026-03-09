@@ -2,8 +2,9 @@
 title = "mKtMOw2qMrc_JuOETSJz.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Main Page"]
+tags = ["Main Page"]
+
 startDate = ""
 +++
+
 960x960px

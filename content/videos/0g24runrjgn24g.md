@@ -1,11 +1,12 @@
 +++
 title = "https://www.youtube.com/watch?v=jPYmqO7KJU0"
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Long Island City, NY (3419 48th St)"]
 startDate = "2021-08-04"
 draft = false
-pages = ["Long Island City, NY (3419 48th St)"]
+
 citations = []
 mirroredLinks = []
 +++
+
 Tour of the Long Island City, NY (3419 48th St) Chuck E. Cheese's

@@ -2,8 +2,9 @@
 title = "5hx8rgRO3fnrTEBGL7Zf.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["PTT Madam Oink Name Sign (1978)"]
+tags = ["", "PTT Madam Oink Name Sign (1978)"]
+
 startDate = ""
 +++
+
 Although barely visible, Madam Oink with her nameplate can be seen to the top right.

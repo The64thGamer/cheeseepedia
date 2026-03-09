@@ -2,8 +2,9 @@
 title = "NnKCXj0lqF3JkD9ssKBA.avif"
 draft = false
 type = "Photos"
-tags = ["Unknown Manufacturers"]
-pages = ["Smartee's Pizza Brigade"]
+tags = ["Unknown Manufacturers", "Smartee's Pizza Brigade"]
+
 startDate = ""
 +++
+
 Smartee's newspaper ad talking about meeting Santa

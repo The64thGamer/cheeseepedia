@@ -2,8 +2,9 @@
 title = "nfBEZAe7E8KgOpmhmwmE.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Dublin, CA (7448 Amador Valley Blvd)"]
+tags = ["Chuck E. Cheese's", "Dublin, CA (7448 Amador Valley Blvd)"]
+
 startDate = ""
 +++
+
 Dublin, CA's Chuck E. Cheese cyberamic getting ready to be sent to corporate.

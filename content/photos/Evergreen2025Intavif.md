@@ -1,8 +1,9 @@
 +++
 title = "Evergreen2025Int.avif"
 citations = ["https://www.youtube.com/watch?v=2glMG7pp1cc"]
-pages = ["Chuck E. Cheese Evergreen Show 2025 International (Mexico), Chuck E. Cheese Evergreen Show 2025 International (Saudi Arabia)"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese Evergreen Show 2025 International (Mexico), Chuck E. Cheese Evergreen Show 2025 International (Saudi Arabia)"]
 +++
+
 Screenshot of 'Flower Fiesta'

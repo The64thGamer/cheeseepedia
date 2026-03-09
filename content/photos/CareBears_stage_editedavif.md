@@ -1,10 +1,10 @@
 +++
 title = "CareBears_stage_edited.avif"
 type = "Photos"
-tags = []
+tags = ["Care Bears: Care-A-Lot Castle"]
 startDate = ""
 draft = false
-pages = ["Care Bears: Care-A-Lot Castle"]
+
 
 citations = []
 +++

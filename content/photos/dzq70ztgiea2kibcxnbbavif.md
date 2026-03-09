@@ -2,8 +2,9 @@
 title = "DZQ70ZtGIEA2kIbCXnbB.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["3 Birthday Shows - Colander History - Indoctrination Skit"]
+tags = ["ShowBiz Pizza Place", "3 Birthday Shows - Colander History - Indoctrination Skit"]
+
 startDate = ""
 +++
+
 Ad for the showtape alongside the [[Crazy Colander Head Night]] tape.

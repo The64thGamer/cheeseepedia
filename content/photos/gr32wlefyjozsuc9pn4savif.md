@@ -2,8 +2,9 @@
 title = "GR32WlEfyJozSUc9pn4S.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["1-Stage"]
+tags = ["Chuck E. Cheese's", "1-Stage"]
+
 startDate = ""
 +++
+
 4th 1-Stage Design (With 2-Stage Backdrops) (1993 - Early 2010s)

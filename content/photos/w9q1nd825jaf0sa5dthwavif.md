@@ -2,8 +2,9 @@
 title = "w9Q1ND825jAf0sa5dTHW.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Fairfield, CA (1027 Oliver Rd)"]
+tags = ["Pizza Time Theatre", "Fairfield, CA (1027 Oliver Rd)"]
+
 startDate = ""
 +++
+
 The store exterior in 1983 with McGruff the Crime Dog

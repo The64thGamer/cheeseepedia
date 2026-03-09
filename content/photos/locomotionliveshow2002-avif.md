@@ -1,7 +1,8 @@
 +++
 title = "locomotionliveshow2002.avif"
-pages = ["Locomotion"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Locomotion"]
 +++
+
 Screenshot of "Locomotion" live show

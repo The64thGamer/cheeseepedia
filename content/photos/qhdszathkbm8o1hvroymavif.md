@@ -2,8 +2,9 @@
 title = "qhDSZaTHkbm8o1hvROym.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Lowell, MA (199 Plain St)"]
+tags = ["Chuck E. Cheese's", "Lowell, MA (199 Plain St)"]
+
 startDate = ""
 +++
+
 A screenshot from a YouTube video of the store's 1-Stage back in Early 2012 before they relocated the Showroom (PC: chuckecheeseshows on YouTube)

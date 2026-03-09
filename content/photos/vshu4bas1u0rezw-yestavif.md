@@ -2,8 +2,9 @@
 title = "VshU4BaS1U0rEzW_yest.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["San Antonio (Stone Oak), TX (1403 N Loop)"]
+tags = ["Chuck E. Cheese's", "San Antonio (Stone Oak), TX (1403 N Loop)"]
+
 startDate = ""
 +++
+
 Gameroom on July 22nd, 2012

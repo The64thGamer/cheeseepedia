@@ -2,7 +2,7 @@
 title = "4mcYDgu3w8EXlSzaAQ6k.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Chuck E. Cheese's Limited Edition Survivor Plush (2004)"]
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese's Limited Edition Survivor Plush (2004)"]
+
 startDate = ""
 +++

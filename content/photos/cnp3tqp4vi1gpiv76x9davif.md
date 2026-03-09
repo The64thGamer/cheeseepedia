@@ -2,7 +2,7 @@
 title = "cnp3tQP4vI1gpiV76x9d.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Springfield, MA (1716 Boston Rd)"]
+tags = ["ShowBiz Pizza Place", "Springfield, MA (1716 Boston Rd)"]
+
 startDate = ""
 +++

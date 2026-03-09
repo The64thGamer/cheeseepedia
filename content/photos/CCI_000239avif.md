@@ -1,10 +1,10 @@
 +++
 title = "CCI_000239.avif"
 type = "Photos"
-tags = []
+tags = ["APS Files"]
 startDate = ""
 draft = false
-pages = ["APS Files"]
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "Statueshowbizpic.avif"
 type = "Photos"
-tags = []
+tags = ["Statue of Liberty (Animatronic)"]
 startDate = ""
 draft = false
-pages = ["Statue of Liberty (Animatronic)"]
+
 
 citations = []
 +++

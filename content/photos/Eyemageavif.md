@@ -1,10 +1,10 @@
 +++
 title = "Eyemage.avif"
 type = "Photos"
-tags = []
+tags = ["September 2001 Show"]
 startDate = ""
 draft = false
-pages = ["September 2001 Show"]
+
 
 citations = []
 +++

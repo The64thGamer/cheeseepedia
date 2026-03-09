@@ -1,9 +1,9 @@
 +++
 title = "Chuckepedialogo.avif"
 type = "Photos"
-tags = []
+tags = ["Cheese-E-Pedia"]
 startDate = ""
 draft = false
-pages = ["Cheese-E-Pedia"]
+
 citations = []
 +++

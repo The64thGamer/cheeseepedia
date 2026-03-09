@@ -1,8 +1,9 @@
 +++
 title = "IntHolidayMexico.avif"
 citations = [""]
-pages = ["Guadalajara Holiday Show"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Guadalajara Holiday Show"]
 +++
+
 Screenshot of Show Break - ‘Holiday Season’

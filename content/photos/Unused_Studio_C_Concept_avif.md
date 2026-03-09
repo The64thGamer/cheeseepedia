@@ -1,10 +1,10 @@
 +++
 title = "Unused_Studio_C_Concept_.avif"
 type = "Photos"
-tags = []
+tags = ["Studio C"]
 startDate = ""
 draft = false
-pages = ["Studio C"]
+
 
 citations = []
 +++

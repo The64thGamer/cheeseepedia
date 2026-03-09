@@ -2,8 +2,8 @@
 title = "2age85jhcvg8wbgt.avif"
 startDate = "1997-01-01"
 citations = []
-pages = ["1997 Chuck E. Cheese 5.5\" x 3.75\" Sticker"]
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "1997 Chuck E. Cheese Sticker"]
 +++
+
 Back of the sticker

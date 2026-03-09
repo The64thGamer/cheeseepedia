@@ -2,8 +2,9 @@
 title = "ijbndfgh439u.avif"
 startDate = "1985-00-00"
 citations = ["https://www.showbizpizza.com/rae/characters/klunk_country.jpg"]
-pages = ["Country Klunk", "Country Klunk (Event)", "Click / Murray D. Bird (Animatronic)", "Classic Stage", "Uncle Klunk (Animatronic)"]
+
 type = "Photos"
-tags = ["ShowBiz Pizza Place", "Creative Engineering"]
+tags = ["ShowBiz Pizza Place", "Creative Engineering", "Country Klunk", "Country Klunk (Event)", "Click / Murray D. Bird (Animatronic)", "Classic Stage", "Uncle Klunk (Animatronic)"]
 +++
+
 Uncle Klunk in his Country Klunk outfit on stage.

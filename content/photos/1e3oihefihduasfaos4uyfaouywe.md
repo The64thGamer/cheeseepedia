@@ -3,7 +3,9 @@ title = "1e3oihefihduasfaos4uyfaouywe.avif"
 type = "Photos"
 startDate = "2019-03-29"
 draft = false
-pages = ["Unicorn Churros (CEC Menu Item)","Ronnie the Unicorn"]
+
 citations = ["https://web.archive.org/web/20190817003004/https://www.chuckecheese.com/images/default-source/menu/unicorn-churros.jpg?sfvrsn=4205e762_1"]
+tags = ["Unicorn Churros (CEC Menu Item)", "Ronnie the Unicorn"]
 +++
+
 Cropped official photograph of the four-piece Unicorn Churros.

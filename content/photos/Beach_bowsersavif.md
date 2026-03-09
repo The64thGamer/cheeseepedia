@@ -1,10 +1,10 @@
 +++
 title = "Beach_bowsers.avif"
 type = "Photos"
-tags = []
+tags = ["Beach Bowzers"]
 startDate = ""
 draft = false
-pages = ["Beach Bowzers"]
+
 
 citations = []
 +++

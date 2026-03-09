@@ -1,10 +1,10 @@
 +++
 title = "Chuck_E._Silhouette_Artwork_Bowling_Green.avif"
 type = "Photos"
-tags = []
+tags = ["Bowling Green, KY (2530 Scottsville Rd)"]
 startDate = ""
 draft = false
-pages = ["Bowling Green, KY (2530 Scottsville Rd)"]
+
 
 citations = []
 +++

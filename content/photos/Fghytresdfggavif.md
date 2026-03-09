@@ -1,10 +1,10 @@
 +++
 title = "Fghytresdfgg.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese's Pizza Factory"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese's Pizza Factory"]
+
 
 citations = []
 +++

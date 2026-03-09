@@ -2,8 +2,9 @@
 title = "MisihwjR28K_02o_xrvJ.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Altoona, PA (3415 Pleasant Valley Blvd)"]
+tags = ["ShowBiz Pizza Place", "Altoona, PA (3415 Pleasant Valley Blvd)"]
+
 startDate = ""
 +++
+
 Avenger Cheerleader Helen, Rockstar Chuck, Rockstar Mr. Munch, and Rockstar Jasper in the grand reopening event of the Altoona, PA location on August 6, 2024.

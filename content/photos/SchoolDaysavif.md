@@ -1,8 +1,9 @@
 +++
 title = "SchoolDays.avif"
 citations = [""]
-pages = ["CEC Back to School"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "CEC Back to School"]
 +++
+
 Balcony stage with 'School Days' backdrop

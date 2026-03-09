@@ -2,9 +2,10 @@
 title = "0321vaosaj4pan0m.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["2003 Token Pile Plush Hammer"]
+tags = ["Chuck E. Cheese's", "2003 Token Pile Plush Hammer"]
+
 startDate = "0000-00-00"
 citations = ["worthpoint"]
 +++
+
 Plush Hammer

@@ -2,8 +2,9 @@
 title = "yuktkyuikyuk.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Chuck E. Cheese Early Walkaround"]
+tags = ["Chuck E. Cheese Early Walkaround"]
+
 startDate = ""
 +++
+
 Early Chuck walkaround posing with Nolan Bushnell

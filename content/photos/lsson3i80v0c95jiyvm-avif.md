@@ -2,8 +2,9 @@
 title = "LsSON3i80v0C95JiYvM_.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Winchester Madam Oink (Animatronic)"]
+tags = ["Pizza Time Theatre", "Winchester Madam Oink (Animatronic)"]
+
 startDate = ""
 +++
+
 Picture of Winchester Madam Oink at the corporate offices.

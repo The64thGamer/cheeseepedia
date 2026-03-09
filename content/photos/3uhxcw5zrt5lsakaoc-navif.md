@@ -2,8 +2,9 @@
 title = "3uhxCw5Zrt5lSakaOc_n.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Orem, UT (40 E Center St)"]
+tags = ["ShowBiz Pizza Place", "Orem, UT (40 E Center St)"]
+
 startDate = ""
 +++
+
 Orem Under Construction

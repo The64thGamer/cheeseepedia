@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/QHIal3IZPUA"
 startDate = "1989-00-00"
-pages = ["San Jose, CA (2445 Fontaine Rd", "Half-A-Chuck (Cyberamic)", "Half-A-Chuck San Jose Museum Showtape"]
+
 type = "Videos"
-tags = ["Pizza Time Theatre"]
+tags = ["Pizza Time Theatre", "San Jose, CA (2445 Fontaine Rd", "Half-A-Chuck (Cyberamic)", "Half-A-Chuck San Jose Museum Showtape"]
 +++
+
 Clip from the 1989 documentary film 'The Silicon Valley Story'. Shows the exterior of Fontaine Rd and footage of the Half Chuck E. animatronic. Film is originally in English but clip is dubbed. 

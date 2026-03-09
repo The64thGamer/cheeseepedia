@@ -1,7 +1,8 @@
 +++
 title = "https://youtu.be/yCSLhg42uu0?si=ufGP0yrVweP6vjHp"
-pages = ["Fall Show 2013"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Fall Show 2013"]
 +++
+
 September 2013 | Retromation

@@ -1,10 +1,10 @@
 +++
 title = "Country_Helen_Reel_Case_Back.avif"
 type = "Photos"
-tags = []
+tags = ["Country Helen"]
 startDate = ""
 draft = false
-pages = ["Country Helen"]
+
 
 citations = []
 +++

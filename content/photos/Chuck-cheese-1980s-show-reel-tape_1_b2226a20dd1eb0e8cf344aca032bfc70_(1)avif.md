@@ -1,10 +1,10 @@
 +++
 title = "Chuck-cheese-1980s-show-reel-tape_1_b2226a20dd1eb0e8cf344aca032bfc70_(1).avif"
 type = "Photos"
-tags = []
+tags = ["CEC Dreams/Kids Showtape"]
 startDate = ""
 draft = false
-pages = ["CEC Dreams/Kids Showtape"]
+
 
 citations = []
 +++

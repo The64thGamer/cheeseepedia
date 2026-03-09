@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/vrN4PtoDvUg"
 startDate = "2023-08-10"
-pages = ["San Antonio, TX (6874 Ingram Rd)"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "San Antonio, TX (6874 Ingram Rd)"]
 +++
+
 Store tour of San Antonio, TX (Ingram Rd) in 2023. 

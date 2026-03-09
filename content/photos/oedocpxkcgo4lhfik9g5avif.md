@@ -2,8 +2,9 @@
 title = "oEdocpXkCGO4lHfIK9g5.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Jacksonville, FL (9820 Atlantic Blvd)"]
+tags = ["ShowBiz Pizza Place", "Jacksonville, FL (9820 Atlantic Blvd)"]
+
 startDate = ""
 +++
+
 Exterior back when it was ShowBiz Pizza Place (1980s).

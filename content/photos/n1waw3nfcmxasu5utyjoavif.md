@@ -2,7 +2,7 @@
 title = "N1Waw3nfCMXAsu5utyjo.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["Chuck E. Cheese YouTube Channels"]
+tags = ["", "Chuck E. Cheese YouTube Channels"]
+
 startDate = ""
 +++

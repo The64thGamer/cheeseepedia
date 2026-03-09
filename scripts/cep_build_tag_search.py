@@ -192,23 +192,6 @@ def extract_tags_from_frontmatter(fm: dict, canonical_map: dict):
                 if n:
                     tags.append(n)
 
-    for key in ("pages", "Pages", "page", "Page"):
-        if key in fm and fm[key]:
-            raw = fm[key]
-            if isinstance(raw, (list, tuple)):
-                for v in raw:
-                    n = normalize_tag_preserve_case(str(v), canonical_map)
-                    if n:
-                        tags.append(n)
-            elif isinstance(raw, str):
-                parts = re.split(r"[;,]", raw)
-                for p in parts:
-                    p = p.strip()
-                    if p:
-                        n = normalize_tag_preserve_case(p, canonical_map)
-                        if n:
-                            tags.append(n)
-
     special_params = [
         ("remodels", "Remodels"),
         ("stages", "Stages"),
@@ -582,7 +565,7 @@ def process_media_files(file_list: list, cmap: dict, tags_by_page_expanded: dict
         if t_year:
             raw_tags.append(t_year)
 
-        pages_field = fm.get("pages") or fm.get("Pages") or fm.get("page") or fm.get("Page") or []
+        pages_field = fm.get("tags") or fm.get("Tags") or []
         if isinstance(pages_field, str):
             pages_field = [p.strip() for p in re.split(r"[;,]", pages_field) if p.strip()]
 

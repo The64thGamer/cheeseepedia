@@ -1,8 +1,9 @@
 +++
 title = "9283uh94h9h.avif"
 startDate = "2025-01-30"
-pages = ["Lo Barnechea (Cantagallo), Chile"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Lo Barnechea (Cantagallo), Chile"]
 +++
+
 Citation on Cantagallo's restoration in late 2024 to early 2025.

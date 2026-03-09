@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/4rwVlB5fDSo"
 startDate = "2020-09-02"
-pages = ["April 2006 Show"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "April 2006 Show"]
 +++
+
 Upload of April 2006: Segment 3 Showtape Video (Studio C Split-view)

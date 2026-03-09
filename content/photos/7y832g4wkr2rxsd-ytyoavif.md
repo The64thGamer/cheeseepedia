@@ -2,8 +2,9 @@
 title = "7Y832G4WkR2rXSd_ytyo.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["Pumpkin Festival Chuck (Chuck E. Cheese Retrofit)"]
+tags = ["", "Pumpkin Festival Chuck (Chuck E. Cheese Retrofit)"]
+
 startDate = ""
 +++
+
 The Bot in 2018

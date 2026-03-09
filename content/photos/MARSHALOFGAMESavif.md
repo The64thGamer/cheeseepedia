@@ -1,10 +1,10 @@
 +++
 title = "MARSHALOFGAMES.avif"
 type = "Photos"
-tags = []
+tags = ["'Ambassador of Fun' (CEC Décor)"]
 startDate = ""
 draft = false
-pages = ["'Ambassador of Fun' (CEC Décor)"]
+
 
 citations = []
 +++

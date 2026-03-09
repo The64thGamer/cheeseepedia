@@ -2,8 +2,9 @@
 title = "5TcL6MdcZ231fqU2VZjP.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Poughkeepsie, NY (1895 South Rd)"]
+tags = ["Chuck E. Cheese's", "Poughkeepsie, NY (1895 South Rd)"]
+
 startDate = ""
 +++
+
 center

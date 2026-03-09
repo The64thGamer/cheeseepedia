@@ -1,10 +1,10 @@
 +++
 title = "Tv_Screen.avif"
 type = "Photos"
-tags = []
+tags = ["Studio C"]
 startDate = ""
 draft = false
-pages = ["Studio C"]
+
 
 citations = []
 +++

@@ -2,8 +2,9 @@
 title = "cFwH9Ey9N4wjJitQJcVA.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Crazy Colander Head Night (Event)"]
+tags = ["ShowBiz Pizza Place", "Crazy Colander Head Night (Event)"]
+
 startDate = ""
 +++
+
 Intracompany Correspondance from ShowBiz Pizza, addendum by Bob Brock (April 18, 1983)

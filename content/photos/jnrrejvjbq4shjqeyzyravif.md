@@ -2,8 +2,9 @@
 title = "jnrrEjVJBQ4SHJqeYzyr.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Redwood City, CA (380 Convention Way)"]
+tags = ["Pizza Time Theatre", "Redwood City, CA (380 Convention Way)"]
+
 startDate = ""
 +++
+
 Summer 1982 'Chuck E. Cheese Day' w/ Donna Clark

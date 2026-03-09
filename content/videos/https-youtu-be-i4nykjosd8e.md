@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/I4NykjOSd8E"
 startDate = "1991-06-08"
-pages = ["San Jose (Tully), CA (2445 Fontaine Rd)", "The King / King Kat (Cyberamic)"]
+
 type = "Videos"
-tags = ["Pizza Time Theatre"]
+tags = ["Pizza Time Theatre", "San Jose (Tully), CA (2445 Fontaine Rd)", "The King / King Kat (Cyberamic)"]
 +++
+
 Birthday Party in The King's lounge room at Fontaine Rd. 

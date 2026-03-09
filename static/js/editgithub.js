@@ -8,8 +8,8 @@
   const currentPageTitle      = window.EDITOR_CONFIG.pageTitle;
   // Hugo's jsonify may produce a string instead of an array if categories is a
   // single scalar value in the front matter, so always normalise to a proper JS array.
-  const currentPageTags = (() => {
-    const raw = window.EDITOR_CONFIG.pageTags;
+  const currentPageCategories = (() => {
+    const raw = window.EDITOR_CONFIG.pageCategories;
     if (!raw) return [];
     if (Array.isArray(raw)) return raw;
     if (typeof raw === 'string') {
@@ -255,7 +255,7 @@
     return out.join('\n');
   }
 
-  const INLINE_ARRAY_KEYS = new Set(['citations', 'downloadLinks', 'tags', 'latitudeLongitude']);
+  const INLINE_ARRAY_KEYS = new Set(['citations', 'downloadLinks', 'tags', 'categories', 'latitudeLongitude']);
 
   function applyFMUpdates(fm, updates) {
     const PROTECTED = new Set(['draft', 'contributors', 'title']);
@@ -1237,18 +1237,21 @@
       ));
     }
 
-    // Type — single dropdown (was "tags", now a plain string)
+    // Tag — single dropdown
     const tagSel = document.createElement('select');
     addOpt(tagSel, '', '— Select a tag —');
-    const currentTag = isNewPage ? '' : (parsedFM.type || '');
+    const currentTag = isNewPage ? '' : (parsedFM.tags || [])[0] || '';
     TAGS_LIST.forEach(t => addOpt(tagSel, t, t, t === currentTag));
     container.appendChild(fieldBlock('Tag', tagSel, isNewPage
       ? 'Determines which folder the page goes into.'
       : 'Page type.'));
 
-    // Tags — multi-select checkbox list (was "categories", now tags array)
-    const tagsCheck = makeCheckboxList(CATEGORIES_LIST, parsedFM.tags || []);
-    container.appendChild(fieldBlock('Tags', tagsCheck.el, 'Select all that apply.'));
+    // Categories — single dropdown
+    const catSel = document.createElement('select');
+    addOpt(catSel, '', '— Select a category —');
+    const currentCat = (parsedFM.categories || [])[0] || '';
+    CATEGORIES_LIST.forEach(c => addOpt(catSel, c, c, c === currentCat));
+    container.appendChild(fieldBlock('Category', catSel));
 
     const startDateEl = makeDateSelects('fm-startDate', parsedFM.startDate || '');
     container.appendChild(fieldBlock('Start Date', startDateEl));
@@ -1272,8 +1275,8 @@
 
     return () => ({
       title:             isNewPage ? (document.getElementById('new-page-title-input')?.value.trim() || '') : undefined,
-      type:              tagSel.value || (parsedFM.type || ''),
-      tags:              tagsCheck.getValues().length ? tagsCheck.getValues() : (parsedFM.tags || []),
+      tags:              tagSel.value ? [tagSel.value] : (parsedFM.tags || []),
+      categories:        catSel.value ? [catSel.value] : (parsedFM.categories || []),
       startDate:         readDateSelects(startDateEl),
       endDate:           readDateSelects(endDateEl),
       pageThumbnailFile: thumbInp.value.trim(),
@@ -1507,11 +1510,11 @@
     let fm = `title = "${toTomlStr(title)}"`;
     fm += `\nstartDate = "${startDate || todayStr}"`;
     fm += `\ncontributors = ["${toTomlStr(username)}"]`;
-    if (tag) fm += `\ntype = "${toTomlStr(tag)}"`;
+    if (tag) fm += `\ntags = ["${toTomlStr(tag)}"]`;
     if (extraFields) {
       for (const [key, value] of Object.entries(extraFields)) {
         // Skip private/internal keys (prefixed with _), and keys already written above
-        if (key.startsWith('_') || key === 'title' || key === 'startDate' || key === 'contributors' || key === 'type') continue;
+        if (key.startsWith('_') || key === 'title' || key === 'startDate' || key === 'contributors' || key === 'tags') continue;
         if (value === '' || value == null) continue;
         if (Array.isArray(value)) {
           const serialized = INLINE_ARRAY_KEYS.has(key) ? tomlInlineArray(value) : tomlStringArray(value);
@@ -1666,7 +1669,7 @@ videoLink = "${toTomlStr(vals.videoLink)}"`;
           endDate:           vals.endDate,
           pageThumbnailFile: vals.pageThumbnailFile,
           downloadLinks:     vals.downloadLinks,
-          tags:              vals.tags,
+          categories:        vals.categories,
         });
         await doSave(fm, editor.getMarkdown(), newPath);
       }
@@ -1934,8 +1937,8 @@ title = "${toTomlStr(title)}"
 startDate = "${startDate}"
 page = "${safeTitle(currentPageTitle)}"
 contributors = ["${toTomlStr(author)}"]
-type = "Reviews"
-tags = ["User-Generated Content"]
+tags = ["Reviews"]
+categories = ["User-Generated Content"]
 +++
 ${body}`;
         await commitFilesMulti(octokit, userLogin, branchName, baseSha,
@@ -2110,9 +2113,8 @@ ${body}`;
 title = "${toTomlStr(info.filename)}"
 startDate = "${dateStr}"
 citations = ${tomlInlineArray(citations)}
-pages = ["${safeTitle(currentPageTitle)}"]
 type = "Photos"
-tags = ${tomlInlineArray(currentPageTags || [])}
+tags = ${tomlInlineArray([safeTitle(currentPageTitle), ...(currentPageTags || [])])}
 +++
 ${desc}`
         }));
@@ -2162,6 +2164,171 @@ ${desc}`
         document.getElementById('gallery-progress').style.display = 'none';
         document.getElementById('gallery-error').style.display = 'block';
         document.getElementById('gallery-error-msg').textContent = error.message;
+      }
+    }
+  }
+
+  // ── Video submission modal ─────────────────────────────────────────────────
+  {
+    const videoModal = document.getElementById('video-upload-modal');
+    if (videoModal) {
+      const videoYear  = document.getElementById('video-year');
+      const videoMonth = document.getElementById('video-month');
+      const videoDay   = document.getElementById('video-day');
+
+      addOpt(videoYear, 'present', 'The Present');
+      for (let y = new Date().getFullYear(); y >= 1950; y--) addOpt(videoYear, y, y);
+      for (let d = 1; d <= 31; d++) addOpt(videoDay, String(d).padStart(2,'0'), d);
+
+      videoYear.addEventListener('change', () => {
+        const isPresent = videoYear.value === 'present';
+        videoMonth.disabled = isPresent;
+        videoDay.disabled   = isPresent;
+        videoMonth.style.opacity = isPresent ? '0.45' : '';
+        videoDay.style.opacity   = isPresent ? '0.45' : '';
+      });
+
+      function showVideoStep(num) {
+        videoModal.querySelectorAll('.step').forEach(s => s.style.display = 'none');
+        const el = document.getElementById(`video-step-${num}`);
+        if (el) el.style.display = 'block';
+      }
+
+      function addVideoMirrorRow() {
+        const list = document.getElementById('video-mirrors-list');
+        const row  = document.createElement('div');
+        row.style.cssText = 'display:flex;gap:0.4rem;margin-bottom:0.4rem;';
+        row.innerHTML = `<input type="text" placeholder="https://youtu.be/..." style="flex:1;padding:0.3rem 0.5rem;background:var(--dark2);color:var(--white);border:1px solid var(--dark3);border-radius:0.4rem;font-family:var(--font-display);font-size:0.85rem;">
+          <button style="background:var(--red);color:var(--white);border:none;border-radius:0.4rem;padding:0.2rem 0.6rem;cursor:pointer;font-family:var(--font-display);">✕</button>`;
+        row.querySelector('button').addEventListener('click', () => row.remove());
+        list.appendChild(row);
+      }
+
+      function addVideoCitRow() {
+        const list = document.getElementById('video-citations-list');
+        const row  = document.createElement('div');
+        row.style.cssText = 'display:flex;gap:0.4rem;margin-bottom:0.4rem;';
+        row.innerHTML = `<input type="text" placeholder="https://..." style="flex:1;padding:0.3rem 0.5rem;background:var(--dark2);color:var(--white);border:1px solid var(--dark3);border-radius:0.4rem;font-family:var(--font-display);font-size:0.85rem;">
+          <button style="background:var(--red);color:var(--white);border:none;border-radius:0.4rem;padding:0.2rem 0.6rem;cursor:pointer;font-family:var(--font-display);">✕</button>`;
+        row.querySelector('button').addEventListener('click', () => row.remove());
+        list.appendChild(row);
+      }
+
+      document.getElementById('add-video-btn')?.addEventListener('click', () => {
+        videoModal.style.display = 'block';
+        showVideoStep(1);
+      });
+
+      document.querySelector('.close-video')?.addEventListener('click', () => {
+        videoModal.style.display = 'none';
+      });
+
+      document.getElementById('video-next-1')?.addEventListener('click', () => {
+        const url = document.getElementById('video-url').value.trim();
+        if (!url) { alert('Please enter a video URL'); return; }
+        showVideoStep(2);
+      });
+
+      document.getElementById('video-back-1')?.addEventListener('click', () => {
+        videoModal.style.display = 'none';
+      });
+
+      document.getElementById('video-next-2')?.addEventListener('click', () => {
+        if (!document.getElementById('video-description').value.trim()) { alert('Please enter a description'); return; }
+        showVideoStep(3);
+      });
+      document.getElementById('video-back-2')?.addEventListener('click', () => showVideoStep(1));
+
+      document.getElementById('video-next-3')?.addEventListener('click', () => showVideoStep(4));
+      document.getElementById('video-back-3')?.addEventListener('click', () => showVideoStep(2));
+
+      document.getElementById('video-add-mirror')?.addEventListener('click', addVideoMirrorRow);
+      document.getElementById('video-add-citation')?.addEventListener('click', addVideoCitRow);
+
+      document.getElementById('video-back-4')?.addEventListener('click', () => showVideoStep(3));
+      document.getElementById('video-next-4')?.addEventListener('click', () => { showVideoStep(5); uploadVideo(); });
+      document.getElementById('video-done')?.addEventListener('click',   () => location.reload());
+      document.getElementById('video-retry')?.addEventListener('click',  () => showVideoStep(1));
+
+      function setVideoProgress(step, status) {
+        const el = document.getElementById(`video-prog-${step}`);
+        if (el) el.textContent = status === 'loading' ? '⏳' : status === 'success' ? '✅' : '❌';
+      }
+
+      async function uploadVideo() {
+        try {
+          const url       = document.getElementById('video-url').value.trim();
+          const desc      = document.getElementById('video-description').value.trim();
+          const year      = videoYear.value;
+          const month     = videoMonth.value;
+          const day       = videoDay.value;
+          const dateStr   = year === 'present' || year === '' ? '' : `${year||'0000'}-${month||'00'}-${day||'00'}`;
+
+          const mirrorInputs   = document.querySelectorAll('#video-mirrors-list input[type="text"]');
+          const citationInputs = document.querySelectorAll('#video-citations-list input[type="text"]');
+          const mirrors   = Array.from(mirrorInputs).map(i => i.value.trim()).filter(Boolean);
+          const citations = Array.from(citationInputs).map(i => i.value.trim()).filter(Boolean);
+
+          const randomName = Math.random().toString(36).substring(2, 18);
+
+          setVideoProgress(1, 'loading'); await octokit.rest.users.getAuthenticated(); setVideoProgress(1, 'success');
+          setVideoProgress(2, 'loading');
+          await ensureFork(octokit, userLogin);
+          const { branchName, baseSha } = await createBranch(octokit, userLogin, 'videos');
+          setVideoProgress(2, 'success');
+
+          setVideoProgress(3, 'loading');
+          const mdContent =
+`+++
+title = "${toTomlStr(url)}"
+startDate = "${dateStr}"
+${citations.length ? `citations = ${tomlInlineArray(citations)}\n` : ''}${mirrors.length ? `mirroredLinks = ${tomlInlineArray(mirrors)}\n` : ''}type = "Videos"
+tags = ${tomlInlineArray([safeTitle(currentPageTitle), ...(currentPageTags || [])])}
++++
+${desc}`;
+
+          const b64 = btoa(unescape(encodeURIComponent(mdContent)));
+          const { data: blob } = await octokit.rest.git.createBlob({
+            owner: userLogin, repo: GITHUB_REPO, content: b64, encoding: 'base64'
+          });
+
+          const { data: baseCommit } = await octokit.rest.git.getCommit({
+            owner: userLogin, repo: GITHUB_REPO, commit_sha: baseSha
+          });
+          const { data: newTree } = await octokit.rest.git.createTree({
+            owner: userLogin, repo: GITHUB_REPO,
+            base_tree: baseCommit.tree.sha,
+            tree: [{ path: `content/videos/${randomName}.md`, mode: '100644', type: 'blob', sha: blob.sha }]
+          });
+          const { data: newCommit } = await octokit.rest.git.createCommit({
+            owner: userLogin, repo: GITHUB_REPO,
+            message: `Add video: ${desc.substring(0, 60)}`,
+            tree: newTree.sha, parents: [baseSha]
+          });
+          await octokit.rest.git.updateRef({
+            owner: userLogin, repo: GITHUB_REPO, ref: `heads/${branchName}`, sha: newCommit.sha
+          });
+          setVideoProgress(3, 'success');
+          setVideoProgress(4, 'loading'); setVideoProgress(4, 'success');
+
+          setVideoProgress(5, 'loading');
+          const { data: pr } = await octokit.rest.pulls.create({
+            owner: GITHUB_OWNER, repo: GITHUB_REPO,
+            title: `Add video to ${currentPageTitle}`,
+            head: `${userLogin}:${branchName}`, base: GITHUB_BRANCH,
+            body: `## Video Submission\n\n**URL:** ${url}\n**Description:** ${desc}\n**Date:** ${dateStr}\n**Page:** ${currentPageTitle}${mirrors.length ? `\n**Alternate URLs:** ${mirrors.join(', ')}` : ''}`
+          });
+          setVideoProgress(5, 'success');
+          document.getElementById('video-progress').style.display = 'none';
+          document.getElementById('video-success').style.display = 'block';
+          document.getElementById('video-pr-link').href = pr.html_url;
+
+        } catch (error) {
+          console.error('Video upload error:', error);
+          document.getElementById('video-progress').style.display = 'none';
+          document.getElementById('video-error').style.display = 'block';
+          document.getElementById('video-error-msg').textContent = error.message;
+        }
       }
     }
   }

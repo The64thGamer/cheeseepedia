@@ -2,8 +2,9 @@
 title = "SCRq8bUXmWVFe3DC6Eli.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Helen Henny (Lounge)","Citrus Heights, CA (7614 Greenback Lane)"]
+tags = ["Pizza Time Theatre", "Helen Henny (Lounge)", "Citrus Heights, CA (7614 Greenback Lane)"]
+
 startDate = "0000-00-00"
 +++
+
 Lounge Helen Henny

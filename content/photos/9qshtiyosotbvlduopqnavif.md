@@ -2,8 +2,9 @@
 title = "9qshTiyoSOtbVlDUoPQn.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Presentations"]
-pages = ["Backyard Monsters"]
+tags = ["Creative Presentations", "Backyard Monsters"]
+
 startDate = ""
 +++
+
  A wall of moths in the exhibit https://www.newspapers.com/article/statesman-journal-bug/141525555/ 

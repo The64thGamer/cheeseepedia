@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/InOAJ84rjVM"
 startDate = "2025-09-27"
-pages = ["Huntington Beach, CA (15031 Goldenwest St)"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Huntington Beach, CA (15031 Goldenwest St)"]
 +++
+
 Grand reopening tour.

@@ -2,8 +2,9 @@
 title = "BMRvITwdBIGNUqey300b.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Brentwood, CA (6061 Lone Tree Way)"]
+tags = ["Chuck E. Cheese's", "Brentwood, CA (6061 Lone Tree Way)"]
+
 startDate = ""
 +++
+
 Brentwood's exterior in December 2022, prior to 2.0.

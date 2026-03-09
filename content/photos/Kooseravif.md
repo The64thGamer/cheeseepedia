@@ -1,10 +1,10 @@
 +++
 title = "Kooser.avif"
 type = "Photos"
-tags = []
+tags = ["San Jose, CA (1371 Kooser Rd)"]
 startDate = ""
 draft = false
-pages = ["San Jose, CA (1371 Kooser Rd)"]
+
 
 citations = []
 +++

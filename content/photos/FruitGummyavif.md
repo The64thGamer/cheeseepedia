@@ -1,10 +1,10 @@
 +++
 title = "FruitGummy.avif"
 type = "Photos"
-tags = []
+tags = ["CEC Fruit Flavored Gummy Candy"]
 startDate = ""
 draft = false
-pages = ["CEC Fruit Flavored Gummy Candy"]
+
 
 citations = []
 +++

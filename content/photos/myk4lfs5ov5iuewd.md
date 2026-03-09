@@ -2,9 +2,10 @@
 title = "myk4lfs5ov5iuewd.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Stockton, CA (4555 N Pershing Ave)", "Dolli Dimples (Cyberamic)"]
+tags = ["Pizza Time Theatre", "Stockton, CA (4555 N Pershing Ave)", "Dolli Dimples (Cyberamic)"]
+
 startDate = "1980-04-25"
 citations = ["https://files.core.ac.uk/download/542347857.pdf"]
 +++
+
 Dolli Dimples at Stockton

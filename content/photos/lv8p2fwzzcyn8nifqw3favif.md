@@ -2,8 +2,9 @@
 title = "LV8P2fwzzcyN8nIFqW3f.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Union, NJ (1660 US-22)"]
+tags = ["Pizza Time Theatre", "Union, NJ (1660 US-22)"]
+
 startDate = ""
 +++
+
 Chuck E. Cheese in front of the Union store in 1998. (PC: Richard Concepcion)

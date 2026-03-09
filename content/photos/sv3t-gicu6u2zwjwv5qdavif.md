@@ -2,8 +2,9 @@
 title = "sv3t_gicu6u2zWJwv5qD.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Memphis, TN (3649 Hickory Hill Rd)"]
+tags = ["ShowBiz Pizza Place", "Memphis, TN (3649 Hickory Hill Rd)"]
+
 startDate = ""
 +++
+
 Exterior, 2018

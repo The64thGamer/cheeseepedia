@@ -2,8 +2,9 @@
 title = "E6INVBbdmR94w6vrImbs.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Engineering"]
-pages = ["Beach Bear (Wolf Pack 5 Animatronic)"]
+tags = ["Creative Engineering", "Beach Bear (Wolf Pack 5 Animatronic)"]
+
 startDate = ""
 +++
+
 Under restoration (2016)

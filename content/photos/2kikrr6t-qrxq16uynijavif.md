@@ -2,7 +2,7 @@
 title = "2KIkrr6t_qRXQ16uyNIj.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["APS Files"]
+tags = ["APS Files"]
+
 startDate = ""
 +++

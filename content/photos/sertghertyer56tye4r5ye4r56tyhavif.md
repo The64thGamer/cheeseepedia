@@ -1,10 +1,10 @@
 +++
 title = "sertghertyer56tye4r5ye4r56tyh.avif"
 type = "Photos"
-tags = []
+tags = ["Mumbai (R City Mall), India"]
 startDate = ""
 draft = false
-pages = ["Mumbai (R City Mall), India"]
+
 
 citations = []
 +++

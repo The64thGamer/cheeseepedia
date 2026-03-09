@@ -2,7 +2,7 @@
 title = "PcbGX5xq9WsOxNGLWOXh.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["SPP Christmas '89 Wave Bday"]
+tags = ["ShowBiz Pizza Place", "SPP Christmas '89 Wave Bday"]
+
 startDate = ""
 +++

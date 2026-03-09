@@ -2,8 +2,9 @@
 title = "5J5F1l7lIbcRBmmugDtl.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Aurora, CO (12293 E Iliff Ave)"]
+tags = ["ShowBiz Pizza Place", "Aurora, CO (12293 E Iliff Ave)"]
+
 startDate = ""
 +++
+
 Guests posing in front of the 3-Stage (1990s)

@@ -2,9 +2,10 @@
 title = "s044pab1jbpprwhq.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Danvers, MA (139 Endicott St)"]
+tags = ["Chuck E. Cheese's", "Danvers, MA (139 Endicott St)"]
+
 startDate = "2021-05-04"
 citations = ["https://archive.org/details/@destination_imagination"]
 +++
+
 Danvers after closure.

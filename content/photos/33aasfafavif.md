@@ -1,10 +1,10 @@
 +++
 title = "33aasfaf.avif"
 type = "Photos"
-tags = []
+tags = ["PTT 1980 3 Year Employee Pin"]
 startDate = ""
 draft = false
-pages = ["PTT 1980 3 Year Employee Pin"]
+
 
 citations = []
 +++

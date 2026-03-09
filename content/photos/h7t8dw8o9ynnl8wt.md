@@ -2,8 +2,9 @@
 title = "h7t8dw8o9ynnl8wt.avif"
 startDate = "1985-11-00"
 citations = ["https://www.showbizpizza.com/rae/stages/test-magicstage.html", "ShowBiz Pizza Time, INC"]
-pages = ["Magic Stage Prototype"]
+
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
+tags = ["ShowBiz Pizza Place", "Magic Stage Prototype"]
 +++
+
 Magic Stage soon after installation.

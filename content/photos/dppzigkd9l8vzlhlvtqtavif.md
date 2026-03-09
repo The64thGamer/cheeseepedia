@@ -2,8 +2,9 @@
 title = "DPpZIgKD9l8Vzlhlvtqt.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["PTT Winchester Crusty Name Sign (1977)"]
+tags = ["", "PTT Winchester Crusty Name Sign (1977)"]
+
 startDate = ""
 +++
+
 Crusty alongside his nameplate seen in the '4 Corners' 1979 news broadcast.

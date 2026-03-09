@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/mNeLNeALLMM?t=1395"
 startDate = "1986-09-12"
-pages = ["Simi Valley, CA (71 Tierra Rejada Rd)", "The King / King Kat (Lounge)"]
+
 type = "Videos"
-tags = ["Pizza Time Theatre"]
+tags = ["Pizza Time Theatre", "Simi Valley, CA (71 Tierra Rejada Rd)", "The King / King Kat (Lounge)"]
 +++
+
 Family visit to Simi Valley, CA (71 Tierra Rejada Rd) in 1986. 

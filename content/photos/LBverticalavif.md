@@ -1,10 +1,10 @@
 +++
 title = "LBvertical.avif"
 type = "Photos"
-tags = []
+tags = ["Looney Bird's"]
 startDate = ""
 draft = false
-pages = ["Looney Bird's"]
+
 
 citations = []
 +++

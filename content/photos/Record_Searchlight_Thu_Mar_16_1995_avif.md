@@ -1,10 +1,10 @@
 +++
 title = "Record_Searchlight_Thu_Mar_16_1995_.avif"
 type = "Photos"
-tags = []
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = ["Backyard Monsters"]
+
 
 citations = []
 +++

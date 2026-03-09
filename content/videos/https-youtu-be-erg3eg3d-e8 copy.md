@@ -1,8 +1,9 @@
 +++
 title = "https://www.youtube.com/watch?v=lU2igLuCj4k"
 startDate = "1984-00-00"
-pages = ["Billy Bob Interactive Animation", "Dallas, TX (13125 Montfort Dr)", "Billy Bob (Animatronic)", "Classic Stage"]
+
 type = "Videos"
-tags = ["ShowBiz Pizza Place"]
+tags = ["ShowBiz Pizza Place", "Billy Bob Interactive Animation", "Dallas, TX (13125 Montfort Dr)", "Billy Bob (Animatronic)", "Classic Stage"]
 +++
+
 Billy Bob Interactive Animation Video Guide, taking place at Monfort Drive ShowBiz.

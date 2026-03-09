@@ -1,7 +1,8 @@
 +++
 title = "https://youtu.be/LzF9VEpGbTM?si=5uHZllZxhhxSw87O"
-pages = ["SPP Tune Machine"]
+
 type = "Videos"
-tags = ["ShowBiz Pizza Place"]
+tags = ["ShowBiz Pizza Place", "SPP Tune Machine"]
 +++
+
 Cyberstar Tune Machine | Retromation

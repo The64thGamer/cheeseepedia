@@ -2,7 +2,7 @@
 title = "w6tGncaAUxYMUbCgtARJ.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["CEC Legacy Locations"]
+tags = ["", "CEC Legacy Locations"]
+
 startDate = ""
 +++

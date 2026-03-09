@@ -2,8 +2,9 @@
 title = "lka45PGAlq4PB9uI8nSV.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Country Stage"]
+tags = ["ShowBiz Pizza Place", "Country Stage"]
+
 startDate = ""
 +++
+
  (Stage Left)

@@ -2,8 +2,8 @@
 title = "8d6bb9bda452acf6.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["1999 CEC Blue Pepperoni Plush"]
+tags = ["Chuck E. Cheese's", "1999 CEC Blue Pepperoni Plush"]
+
 startDate = "1999-00-00"
 citations = []
 +++

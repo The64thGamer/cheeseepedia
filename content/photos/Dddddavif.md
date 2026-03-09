@@ -1,10 +1,10 @@
 +++
 title = "Ddddd.avif"
 type = "Photos"
-tags = []
+tags = ["Best of CEC TV 2008"]
 startDate = ""
 draft = false
-pages = ["Best of CEC TV 2008"]
+
 
 citations = []
 +++

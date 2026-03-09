@@ -2,8 +2,9 @@
 title = "DQ_CeNBaZdwlYWHhq493.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Chuck E. Cheese CST 15' Alternate Plush"]
+tags = ["Chuck E. Cheese CST 15' Alternate Plush"]
+
 startDate = ""
 +++
+
 Plush Tag

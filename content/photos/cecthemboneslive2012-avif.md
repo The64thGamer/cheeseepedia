@@ -1,7 +1,8 @@
 +++
 title = "cecthemboneslive2012.avif"
-pages = ["Them Bones (Chucktober)"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Them Bones (Chucktober)"]
 +++
+
 Screenshot of "Them Bones" live show

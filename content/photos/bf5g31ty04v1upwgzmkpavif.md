@@ -2,8 +2,9 @@
 title = "BF5g31Ty04V1upWgzMKp.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Sun (Animatronic)"]
+tags = ["ShowBiz Pizza Place", "Sun (Animatronic)"]
+
 startDate = ""
 +++
+
 Sun with its finalized mechanism.

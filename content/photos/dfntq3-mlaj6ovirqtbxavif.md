@@ -2,8 +2,9 @@
 title = "dFNTq3_Mlaj6ovIrQtbx.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Wilkes-Barre Township, PA (2120 Market Place)"]
+tags = ["Chuck E. Cheese's", "Wilkes-Barre Township, PA (2120 Market Place)"]
+
 startDate = ""
 +++
+
 Wilkes Barre's Exterior before addition of the 2.0 Sign (Taken 04/15/2023)

@@ -2,9 +2,10 @@
 title = "LDJjKyLmtgSR5ZW4N_hR.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Cincinnati, OH (8801 Colerain Ave)"]
+tags = ["ShowBiz Pizza Place", "Cincinnati, OH (8801 Colerain Ave)"]
+
 startDate = "2004-00-00"
 citations = ["https://archive.org/details/CEC_Colerain_Photos/CECcolerain016.JPG/"]
 +++
+
 Pasquallys stagewith one latex and one plastic hand. (Fall 2004)

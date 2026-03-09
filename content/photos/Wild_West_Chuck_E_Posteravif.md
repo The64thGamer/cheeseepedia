@@ -1,10 +1,10 @@
 +++
 title = "Wild_West_Chuck_E_Poster.avif"
 type = "Photos"
-tags = []
+tags = ["Wild West (Magazine)"]
 startDate = ""
 draft = false
-pages = ["Wild West (Magazine)"]
+
 
 citations = []
 +++

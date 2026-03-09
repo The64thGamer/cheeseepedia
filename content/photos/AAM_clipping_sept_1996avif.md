@@ -1,10 +1,10 @@
 +++
 title = "AAM_clipping_sept_1996.avif"
 type = "Photos"
-tags = []
+tags = ["Awesome Adventure Machine"]
 startDate = ""
 draft = false
-pages = ["Awesome Adventure Machine"]
+
 
 citations = []
 +++

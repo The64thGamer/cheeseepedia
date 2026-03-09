@@ -2,8 +2,9 @@
 title = "UqU34fuz1sC8Lbri4iOS.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Houston, TX (2220 FM 1960)"]
+tags = ["ShowBiz Pizza Place", "Houston, TX (2220 FM 1960)"]
+
 startDate = ""
 +++
+
 A blurry old photo of the store's exterior with the 1995 Remodel in 2008 (PC: Google Maps Streetview)

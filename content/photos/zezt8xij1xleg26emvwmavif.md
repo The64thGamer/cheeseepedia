@@ -2,8 +2,9 @@
 title = "zezT8XIj1xLEG26EmvWM.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Concept Unification 1-Stage"]
+tags = ["Chuck E. Cheese's", "Concept Unification 1-Stage"]
+
 startDate = ""
 +++
+
 The current CU 1-Stage with 3-Stage backdrops and prop characters at the [[Chuck E. Cheese's Corporate Office]] in Irving, Texas in the early 2020s.

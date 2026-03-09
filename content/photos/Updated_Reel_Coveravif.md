@@ -1,10 +1,10 @@
 +++
 title = "Updated_Reel_Cover.avif"
 type = "Photos"
-tags = []
+tags = ["CEC Dreams/Kids Showtape"]
 startDate = ""
 draft = false
-pages = ["CEC Dreams/Kids Showtape"]
+
 
 citations = []
 +++

@@ -2,8 +2,8 @@
 title = "fee1653ccbded7f1.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["2008 Prince Chuck & Princess Helen 2 Pack"]
+tags = ["Chuck E. Cheese's", "2008 Prince Chuck & Princess Helen 2 Pack"]
+
 startDate = "2008-00-00"
 citations = []
 +++

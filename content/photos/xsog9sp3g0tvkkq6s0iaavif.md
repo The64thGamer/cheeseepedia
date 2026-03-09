@@ -2,8 +2,9 @@
 title = "xSog9sP3G0tvkKQ6s0Ia.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Cherry Hill, NJ (1660 N Kings Hwy)"]
+tags = ["ShowBiz Pizza Place", "Cherry Hill, NJ (1660 N Kings Hwy)"]
+
 startDate = ""
 +++
+
 The site of the former store. (PC: Google Maps)

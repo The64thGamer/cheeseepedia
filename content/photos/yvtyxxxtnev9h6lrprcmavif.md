@@ -2,7 +2,7 @@
 title = "yvtYXXXtNEV9H6lRprcm.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Mitzie (Parody Poster)"]
+tags = ["ShowBiz Pizza Place", "Mitzie (Parody Poster)"]
+
 startDate = ""
 +++

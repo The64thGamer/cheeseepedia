@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/0RTuUb_jK90"
 startDate = "2022-04-29"
-pages = ["West Des Moines, IA (1431 22nd St)", "Beach Bear (Animatronic)", "Dook Larue (Animatronic)", "Fatz Geronimo (Animatronic)", "Mitzi Mozzarella (Animatronic)", "Concept Unification Stage", "Rolfe Dewolfe & Earl Schmerle (Animatronic)", " Wink (Animatronic)"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "West Des Moines, IA (1431 22nd St)", "Beach Bear (Animatronic)", "Dook Larue (Animatronic)", "Fatz Geronimo (Animatronic)", "Mitzi Mozzarella (Animatronic)", "Concept Unification Stage", "Rolfe Dewolfe & Earl Schmerle (Animatronic)", " Wink (Animatronic)"]
 +++
+
 Together We've Got It at West Des Moines, IA (1431 22nd St)

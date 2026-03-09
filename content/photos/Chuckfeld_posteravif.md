@@ -1,10 +1,10 @@
 +++
 title = "Chuckfeld_poster.avif"
 type = "Photos"
-tags = []
+tags = ["'Chuckfeld' (Must C TV Award)"]
 startDate = ""
 draft = false
-pages = ["'Chuckfeld' (Must C TV Award)"]
+
 
 citations = []
 +++

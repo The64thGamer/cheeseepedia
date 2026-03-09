@@ -1,10 +1,10 @@
 +++
 title = "Cvhjkiuytfdfg.avif"
 type = "Photos"
-tags = []
+tags = ["CEC Numbered Table Marker"]
 startDate = ""
 draft = false
-pages = ["CEC Numbered Table Marker"]
+
 
 citations = []
 +++

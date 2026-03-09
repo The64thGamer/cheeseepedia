@@ -1,10 +1,10 @@
 +++
 title = "Maryestherbuilding.avif"
 type = "Photos"
-tags = []
+tags = ["Mary Esther, FL (321 Mary Esther Blvd)"]
 startDate = ""
 draft = false
-pages = ["Mary Esther, FL (321 Mary Esther Blvd)"]
+
 
 citations = []
 +++

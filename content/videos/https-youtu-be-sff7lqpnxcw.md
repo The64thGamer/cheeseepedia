@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/sfF7lQPNXCw"
 startDate = "2023-08-00"
-pages = ["Country Klunk", "Uncle Klunk (Animatronic)", "Antioch (Animatronic)", "Choo Choo (Animatronic)", "Fatz Geronimo (Animatronic)", "Dook Larue (Animatronic)", "Mitzi Mozzarella (Animatronic)", "Beach Bear (Animatronic)"]
+
 type = "Videos"
-tags = ["ShowBiz Pizza Place", "Creative Engineering"]
+tags = ["ShowBiz Pizza Place", "Creative Engineering", "Country Klunk", "Uncle Klunk (Animatronic)", "Antioch (Animatronic)", "Choo Choo (Animatronic)", "Fatz Geronimo (Animatronic)", "Dook Larue (Animatronic)", "Mitzi Mozzarella (Animatronic)", "Beach Bear (Animatronic)"]
 +++
+
 Uncle Klunk performing 'Exactly How I Feel' at Dreamfactory

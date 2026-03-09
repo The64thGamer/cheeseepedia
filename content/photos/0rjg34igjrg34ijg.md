@@ -2,8 +2,9 @@
 title = "0rjg34igjrg34ijg.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Engineering"]
-pages = ["94-95 Rock-afire Explosion Demo Tape (Showtape)","94-95 Rock-afire Explosion Demo Tape"]
+tags = ["Creative Engineering", "94-95 Rock-afire Explosion Demo Tape (Showtape)", "94-95 Rock-afire Explosion Demo Tape"]
+
 startDate = "1994-00-00"
 +++
+
 Screenshot from the Rock-afire Explosion 94-95 Demo Tape

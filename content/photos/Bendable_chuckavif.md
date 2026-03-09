@@ -1,10 +1,10 @@
 +++
 title = "Bendable_chuck.avif"
 type = "Photos"
-tags = []
+tags = ["Bendable Chuck E. Cheese Figure (1992)"]
 startDate = ""
 draft = false
-pages = ["Bendable Chuck E. Cheese Figure (1992)"]
+
 
 citations = []
 +++

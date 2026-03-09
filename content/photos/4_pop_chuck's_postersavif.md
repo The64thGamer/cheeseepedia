@@ -1,10 +1,10 @@
 +++
 title = "4_pop_chuck's_posters.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Swing"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Swing"]
+
 
 citations = []
 +++

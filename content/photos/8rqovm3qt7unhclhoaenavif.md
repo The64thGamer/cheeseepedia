@@ -2,8 +2,9 @@
 title = "8rqovm3QT7UNHcLhoaEn.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Engineering"]
-pages = ["The Wolfman (Animatronic)"]
+tags = ["Creative Engineering", "The Wolfman (Animatronic)"]
+
 startDate = ""
 +++
+
 Ditto

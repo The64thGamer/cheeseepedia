@@ -2,8 +2,9 @@
 title = "A6OBWvORNdfhPTETRVKE.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["San Jose (Tully), CA (2445 Fontaine Rd)"]
+tags = ["Pizza Time Theatre", "San Jose (Tully), CA (2445 Fontaine Rd)"]
+
 startDate = ""
 +++
+
 Magic Village 1975 - Plush Toy Department

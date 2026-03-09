@@ -2,8 +2,9 @@
 title = "VqyG4Vh9rnQbJRU_06SA.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Presentations"]
-pages = ["Backyard Monsters"]
+tags = ["Creative Presentations", "Backyard Monsters"]
+
 startDate = ""
 +++
+
  the Tarantula Animatronic being moved into a museum in pieces.https://www.newspapers.com/article/corpus-christi-caller-times-cpi-history/141524815/ 

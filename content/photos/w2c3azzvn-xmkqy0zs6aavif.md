@@ -2,8 +2,9 @@
 title = "w2c3aZZVn_Xmkqy0zS6a.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Lansing, MI (5451 L West Saginaw Hwy)"]
+tags = ["Chuck E. Cheese's", "Lansing, MI (5451 L West Saginaw Hwy)"]
+
 startDate = ""
 +++
+
 Close view of the Chuck E. animatronic on April 18th, 2010

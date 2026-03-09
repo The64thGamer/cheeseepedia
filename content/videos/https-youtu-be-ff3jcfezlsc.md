@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/Ff3JCFezLSc"
 startDate = "1991-00-00"
-pages = ["ShowBiz Pizza Campground", "3-Birthday Reel", "Darien, IL (7409 Cass Ave)", "Billy Bob (Animatronic)", "Dook Larue (Animatronic)", "Fatz Geronimo (Animatronic)", "Beach Bear (Animatronic)", "Mitzi Mozzarella (Animatronic)"]
+
 type = "Videos"
-tags = ["ShowBiz Pizza Place"]
+tags = ["ShowBiz Pizza Place", "ShowBiz Pizza Campground", "3-Birthday Reel", "Darien, IL (7409 Cass Ave)", "Billy Bob (Animatronic)", "Dook Larue (Animatronic)", "Fatz Geronimo (Animatronic)", "Beach Bear (Animatronic)", "Mitzi Mozzarella (Animatronic)"]
 +++
+
 Birthday party at Darien, IL from late 1991.

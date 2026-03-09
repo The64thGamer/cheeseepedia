@@ -1,10 +1,10 @@
 +++
 title = "T_making_magic.avif"
 type = "Photos"
-tags = []
+tags = ["Making Magical Memories"]
 startDate = ""
 draft = false
-pages = ["Making Magical Memories"]
+
 
 citations = []
 +++

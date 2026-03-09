@@ -2,9 +2,10 @@
 title = "2Xa5i_wJXPs5U0B1Os59.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Cincinnati, OH (8801 Colerain Ave)"]
+tags = ["ShowBiz Pizza Place", "Cincinnati, OH (8801 Colerain Ave)"]
+
 startDate = "2023-10-13"
 citations = ["Photo by Chuck E. Entertainment"]
 +++
+
 Helens movement list (October 2023)

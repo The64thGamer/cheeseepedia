@@ -2,9 +2,10 @@
 title = "u77jMFUR9KXH5hVWJ0Ur.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["San Jose, CA (370 S Winchester Blvd)","Winchester Chuck Walkaround"]
+tags = ["Pizza Time Theatre", "San Jose, CA (370 S Winchester Blvd)", "Winchester Chuck Walkaround"]
+
 startDate = "1977-05-17"
 citations = ["https://archive.org/details/atariincbusiness0000gold/page/352/mode/2up?q=%22Restaurant+Operating%22"]
 +++
+
 Grand Opening Promotional Photo

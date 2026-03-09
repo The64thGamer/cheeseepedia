@@ -2,8 +2,9 @@
 title = "sozaEVHYvQ1BxgxZr8yV.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["Sayville, NY (5750 Sunrise Highway 11782)"]
+tags = ["", "Sayville, NY (5750 Sunrise Highway 11782)"]
+
 startDate = ""
 +++
+
 A photo of the mega maze

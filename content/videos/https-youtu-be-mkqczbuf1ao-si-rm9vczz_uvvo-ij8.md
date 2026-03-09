@@ -1,7 +1,8 @@
 +++
 title = "https://youtu.be/mKQcZbuf1ao?si=RM9VCzZ_uVVO-IJ8"
-pages = ["CEC Salute to America"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "CEC Salute to America"]
 +++
+
 Salute to America | Retromation

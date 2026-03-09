@@ -1,10 +1,10 @@
 +++
 title = "PromoLooney.avif"
 type = "Photos"
-tags = []
+tags = ["Looney Bird Labratory (Mijjin)"]
 startDate = ""
 draft = false
-pages = ["Looney Bird Labratory (Mijjin)"]
+
 
 citations = []
 +++

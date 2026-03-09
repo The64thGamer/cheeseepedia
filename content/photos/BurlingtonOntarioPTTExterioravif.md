@@ -1,10 +1,10 @@
 +++
 title = "BurlingtonOntarioPTTExterior.avif"
 type = "Photos"
-tags = []
+tags = ["Burlington, Ontario, Canada (3345 Harvester Rd)"]
 startDate = ""
 draft = false
-pages = ["Burlington, Ontario, Canada (3345 Harvester Rd)"]
+
 
 citations = []
 +++

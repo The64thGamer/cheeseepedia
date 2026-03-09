@@ -1,10 +1,10 @@
 +++
 title = "HighQualityMunch.avif"
 type = "Photos"
-tags = []
+tags = ["Mr. Munch (Cyberamic)"]
 startDate = ""
 draft = false
-pages = ["Mr. Munch (Cyberamic)"]
+
 
 citations = []
 +++

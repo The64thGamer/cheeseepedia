@@ -1,10 +1,10 @@
 +++
 title = "145-State-Route-10-East-Hanover-NJ-Building-Photo-8-LargeHighDefinition.avif"
 type = "Photos"
-tags = []
+tags = ["East Hanover, NJ (145 Route 10)"]
 startDate = ""
 draft = false
-pages = ["East Hanover, NJ (145 Route 10)"]
+
 
 citations = []
 +++

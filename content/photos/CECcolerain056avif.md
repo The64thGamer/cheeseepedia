@@ -1,10 +1,10 @@
 +++
 title = "CECcolerain056.avif"
 type = "Photos"
-tags = []
+tags = ["Cheese Guitar (SPT Décor)"]
 startDate = ""
 draft = false
-pages = ["Cheese Guitar (SPT Décor)"]
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "Sc23.avif"
 type = "Photos"
-tags = []
+tags = ["Studio C Beta"]
 startDate = ""
 draft = false
-pages = ["Studio C Beta"]
+
 
 citations = []
 +++

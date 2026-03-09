@@ -2,8 +2,9 @@
 title = "0H02T2FhU8SeQOOt8oXG.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Northridge, CA (8425 Reseda Blvd)"]
+tags = ["Pizza Time Theatre", "Northridge, CA (8425 Reseda Blvd)"]
+
 startDate = ""
 +++
+
 Exterior (2020's)

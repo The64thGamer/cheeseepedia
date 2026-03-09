@@ -1,10 +1,10 @@
 +++
 title = "Novemberliberacechuck.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck Statue- Liberace (Shelf Item)"]
 startDate = ""
 draft = false
-pages = ["Chuck Statue- Liberace (Shelf Item)"]
+
 
 citations = []
 +++

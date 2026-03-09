@@ -1,10 +1,10 @@
 +++
 title = "Somethinguhhhegrkjn.avif"
 type = "Photos"
-tags = []
+tags = ["Ryan's World Fan Fest Watch Party"]
 startDate = ""
 draft = false
-pages = ["Ryan's World Fan Fest Watch Party"]
+
 
 citations = []
 +++

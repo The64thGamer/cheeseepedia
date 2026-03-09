@@ -1,10 +1,10 @@
 +++
 title = "Bbwllogo.avif"
 type = "Photos"
-tags = []
+tags = ["Billy Bob's Wonderland"]
 startDate = ""
 draft = false
-pages = ["Billy Bob's Wonderland"]
+
 
 citations = []
 +++

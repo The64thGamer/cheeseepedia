@@ -1,10 +1,10 @@
 +++
 title = "8aaaaa.avif"
 type = "Photos"
-tags = []
+tags = ["APS Files"]
 startDate = ""
 draft = false
-pages = ["APS Files"]
+
 
 citations = []
 +++

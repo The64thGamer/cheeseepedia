@@ -1,10 +1,10 @@
 +++
 title = "Chuck_e_cheese_memory_match_cabinet_monitor_plexi_support_panel_83.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese's Memory Match"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese's Memory Match"]
+
 
 citations = []
 +++

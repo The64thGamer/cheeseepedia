@@ -2,8 +2,9 @@
 title = "q3PjPf8gvUO_Leh4OuwJ.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Burlington, MA (10 Wall St)"]
+tags = ["Chuck E. Cheese's", "Burlington, MA (10 Wall St)"]
+
 startDate = ""
 +++
+
 (2004-2007)

@@ -1,10 +1,10 @@
 +++
 title = "Feb83.avif"
 type = "Photos"
-tags = []
+tags = ["Classic Stage"]
 startDate = ""
 draft = false
-pages = ["Classic Stage"]
+
 
 citations = []
 +++

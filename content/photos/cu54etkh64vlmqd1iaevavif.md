@@ -2,8 +2,9 @@
 title = "cu54ETkH64vLMQD1IaEv.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Kansas City (Antioch), MO (2726 NE Vivion Rd)"]
+tags = ["Kansas City (Antioch), MO (2726 NE Vivion Rd)"]
+
 startDate = ""
 +++
+
 The Store's WP5 Beach Bearhttps://www.showbizpizza.com/photos/spp/mo_antioch/index.html, 1980.

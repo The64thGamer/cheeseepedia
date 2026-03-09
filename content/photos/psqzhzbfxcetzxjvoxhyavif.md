@@ -2,8 +2,9 @@
 title = "psqzhZbFXcEtZXJVOXhY.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["Standard: Store Page"]
+tags = ["", "Standard: Store Page"]
+
 startDate = ""
 +++
+
 2010

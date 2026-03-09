@@ -1,10 +1,10 @@
 +++
 title = "American_Rider_Chuck_Poster.avif"
 type = "Photos"
-tags = []
+tags = ["American Rider (Magazine)"]
 startDate = ""
 draft = false
-pages = ["American Rider (Magazine)"]
+
 
 citations = []
 +++

@@ -2,8 +2,9 @@
 title = "9SsIKssY78wwuMdPxBe9.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Presentations"]
-pages = ["Backyard Monsters"]
+tags = ["Creative Presentations", "Backyard Monsters"]
+
 startDate = ""
 +++
+
  A giant Praying Mantis animatronic towers over guests https://www.newspapers.com/article/the-orlando-sentinel-cpi-bugs/141523506/ 

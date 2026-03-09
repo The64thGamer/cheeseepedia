@@ -2,9 +2,10 @@
 title = "7Knsbpx87e13yC33UmUb.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Winchester Jasper T. Jowls (Animatronic)","Winchester PTT Show","San Jose, CA (370 S Winchester Blvd)"]
+tags = ["Pizza Time Theatre", "Winchester Jasper T. Jowls (Animatronic)", "Winchester PTT Show", "San Jose, CA (370 S Winchester Blvd)"]
+
 startDate = "1979-00-00"
 citations = ["https://showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf"]
 +++
+
 Winchester Jasper T. Jowls.

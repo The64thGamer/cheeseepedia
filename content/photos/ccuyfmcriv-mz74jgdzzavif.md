@@ -2,8 +2,9 @@
 title = "CcuYFmcriv_mZ74jgDZZ.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Rick Rat Walkaround"]
+tags = ["Pizza Time Theatre", "Rick Rat Walkaround"]
+
 startDate = ""
 +++
+
 Busch Garden's The Old Country Rat Costume 'Rufus' (Unknown Year)https://youtu.be/gg-UHptqfss

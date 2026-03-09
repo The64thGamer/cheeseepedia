@@ -1,10 +1,10 @@
 +++
 title = "Melrose_Park_demolition.avif"
 type = "Photos"
-tags = []
+tags = ["Melrose Park, IL (1315 W North Ave)"]
 startDate = ""
 draft = false
-pages = ["Melrose Park, IL (1315 W North Ave)"]
+
 
 citations = []
 +++

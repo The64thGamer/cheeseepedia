@@ -2,8 +2,9 @@
 title = "zGCmRd4Sn8WXI_tgLsMZ.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["West Islip, NY (155 Sunrise Hwy)"]
+tags = ["Chuck E. Cheese's", "West Islip, NY (155 Sunrise Hwy)"]
+
 startDate = ""
 +++
+
 Before 2016

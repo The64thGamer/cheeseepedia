@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/eG7NZUecg40"
 startDate = "2022-05-28"
-pages = ["Reel to Real"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Reel to Real"]
 +++
+
 Reel to Real beta test custom showtape, 'That's What You Get', posted publically on July 13th, 2022.

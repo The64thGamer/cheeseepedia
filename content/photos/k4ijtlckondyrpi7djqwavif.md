@@ -2,8 +2,9 @@
 title = "K4IJTlcKONDyrPI7DJQw.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["Phase 1 (1994)"]
+tags = ["", "Phase 1 (1994)"]
+
 startDate = ""
 +++
+
 The Irving, TX location in 1994 with the Phase 1 refresh

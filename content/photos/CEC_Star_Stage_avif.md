@@ -1,10 +1,10 @@
 +++
 title = "CEC_Star_Stage_.avif"
 type = "Photos"
-tags = []
+tags = ["Star Stage"]
 startDate = ""
 draft = false
-pages = ["Star Stage"]
+
 
 citations = []
 +++

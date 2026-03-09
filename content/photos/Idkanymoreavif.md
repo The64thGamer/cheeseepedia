@@ -1,10 +1,10 @@
 +++
 title = "Idkanymore.avif"
 type = "Photos"
-tags = []
+tags = ["Winchester Chuck E. Cheese V2 (Animatronic)"]
 startDate = ""
 draft = false
-pages = ["Winchester Chuck E. Cheese V2 (Animatronic)"]
+
 
 citations = []
 +++

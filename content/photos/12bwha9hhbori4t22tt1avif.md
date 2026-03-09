@@ -2,8 +2,9 @@
 title = "12bwHa9hhBoRI4T22TT1.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Knoxville, TN (8225 Kingston Pike)"]
+tags = ["Chuck E. Cheese's", "Knoxville, TN (8225 Kingston Pike)"]
+
 startDate = ""
 +++
+
 Knoxville in September 1998

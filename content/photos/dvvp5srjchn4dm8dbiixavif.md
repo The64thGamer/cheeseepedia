@@ -2,8 +2,9 @@
 title = "DvVp5SRJChn4dM8DBIix.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["The 64th Gamer"]
+tags = ["The 64th Gamer"]
+
 startDate = ""
 +++
+
 right

@@ -1,10 +1,10 @@
 +++
 title = "Kedzie2.avif"
 type = "Photos"
-tags = []
+tags = ["Chicago, IL (5030 S Kedzie Ave)"]
 startDate = ""
 draft = false
-pages = ["Chicago, IL (5030 S Kedzie Ave)"]
+
 
 citations = []
 +++

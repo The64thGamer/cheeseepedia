@@ -2,8 +2,9 @@
 title = "YlkCLbDprIZO13urzXql.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Sunnyvale, CA (1247 W El Camino Real)"]
+tags = ["Pizza Time Theatre", "Sunnyvale, CA (1247 W El Camino Real)"]
+
 startDate = ""
 +++
+
 Official CEC art depicting the Winter 1982 blackout of the store. (March 1983)

@@ -2,8 +2,9 @@
 title = "n50Dv1R9x1CDDG_EWwKb.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Helen Henny (Lounge)","Huntington Beach, CA (15511 Edwards St)"]
+tags = ["Pizza Time Theatre", "Helen Henny (Lounge)", "Huntington Beach, CA (15511 Edwards St)"]
+
 startDate = "1979-11-28"
 +++
+
 Nolan Bushnell with Lounge Helen

@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/W9kZEJa06rE"
 startDate = "1999-07-24"
-pages = ["Costa Mesa, CA (2300 Harbor Blvd)", "2-Stage", "Chuck E. March"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Costa Mesa, CA (2300 Harbor Blvd)", "2-Stage", "Chuck E. March"]
 +++
+
 Birthday party at Costa Mesa, CA (2300 Harbor Blvd) in 1999. Slightly edited but shows a good amount of the store. 

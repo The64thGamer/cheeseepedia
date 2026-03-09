@@ -2,9 +2,10 @@
 title = "8nmkdl7es6l65ro2.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Cheese Crawl", "Redwood City, CA (380 Convention Way)"]
+tags = ["Pizza Time Theatre", "Cheese Crawl", "Redwood City, CA (380 Convention Way)"]
+
 startDate = "0000-00-00"
 citations = ["Redwood City Plans"]
 +++
+
 Cheese Crawl Blueprints

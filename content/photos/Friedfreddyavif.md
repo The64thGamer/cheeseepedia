@@ -1,10 +1,10 @@
 +++
 title = "Friedfreddy.avif"
 type = "Photos"
-tags = []
+tags = ["Friendly Freddy (Animatronic)"]
 startDate = ""
 draft = false
-pages = ["Friendly Freddy (Animatronic)"]
+
 
 citations = []
 +++

@@ -2,8 +2,9 @@
 title = "X5Kkj2cR4FeElqkmOZo3.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["SPT 1990's Remodel Program"]
+tags = ["", "SPT 1990's Remodel Program"]
+
 startDate = ""
 +++
+
 [[Artifact Shelves]] and updated showroom booths with planters.

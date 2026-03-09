@@ -1,10 +1,10 @@
 +++
 title = "Btgbgt.avif"
 type = "Photos"
-tags = []
+tags = ["Summertime 2001"]
 startDate = ""
 draft = false
-pages = ["Summertime 2001"]
+
 
 citations = []
 +++

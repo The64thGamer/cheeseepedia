@@ -2,8 +2,9 @@
 title = "6mdtBfcMQdLhSRvfizEx.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Baltimore, MD (8354 Eastern Ave)"]
+tags = ["Baltimore, MD (8354 Eastern Ave)"]
+
 startDate = ""
 +++
+
 Full stage back when they still had the Helicopter Light (Unknown Date)

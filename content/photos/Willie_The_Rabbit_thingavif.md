@@ -1,10 +1,10 @@
 +++
 title = "Willie_The_Rabbit_thing.avif"
 type = "Photos"
-tags = []
+tags = ["Willie Rabbit (Animatronic)"]
 startDate = ""
 draft = false
-pages = ["Willie Rabbit (Animatronic)"]
+
 
 citations = []
 +++

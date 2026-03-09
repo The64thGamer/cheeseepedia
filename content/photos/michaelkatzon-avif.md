@@ -1,7 +1,8 @@
 +++
 title = "Michael Katzon.avif"
-pages = ["The King / King Kat (Lounge)"]
+
 type = "Photos"
-tags = ["Pizza Time Theatre"]
+tags = ["Pizza Time Theatre", "The King / King Kat (Lounge)"]
 +++
+
 Photo of King Kat

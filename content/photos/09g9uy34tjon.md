@@ -2,7 +2,7 @@
 title = "09g9uy34tjon.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Billy Bob Diagnostic Tape"]
+tags = ["ShowBiz Pizza Place", "Billy Bob Diagnostic Tape"]
+
 startDate = "2024-10-20"
 +++

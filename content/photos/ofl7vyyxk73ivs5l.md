@@ -2,9 +2,10 @@
 title = "ofl7vyyxk73ivs5l.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["1997 Small Jasper Plush"]
+tags = ["Chuck E. Cheese's", "1997 Small Jasper Plush"]
+
 startDate = "0000-00-00"
 citations = ["worthpoint"]
 +++
+
 Plush Jasper

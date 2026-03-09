@@ -1,10 +1,10 @@
 +++
 title = "The_King_SPT.avif"
 type = "Photos"
-tags = []
+tags = ["The King / King Kat (Lounge)"]
 startDate = ""
 draft = false
-pages = ["The King / King Kat (Lounge)"]
+
 
 citations = []
 +++

@@ -1,8 +1,9 @@
 +++
 title = "WorldofKids.avif"
 citations = [""]
-pages = ["CEC World of Kids"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "CEC World of Kids"]
 +++
+
 A Pizza Time Theatre in March 1986.

@@ -2,8 +2,9 @@
 title = "_75JY0dbBkHhYPWzaxXU.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["West Allis, WI (2990 South 108th Ave)"]
+tags = ["Pizza Time Theatre", "West Allis, WI (2990 South 108th Ave)"]
+
 startDate = ""
 +++
+
 The store's Exterior before they remodeled 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative (11/20/2005) (PC: geocatching.com)

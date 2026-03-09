@@ -1,7 +1,8 @@
 +++
 title = "bday02trainingcdart.avif"
-pages = ["New Birthday Training CD"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "New Birthday Training CD"]
 +++
+
 Photo of New Birthday Training CD

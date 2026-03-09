@@ -2,7 +2,7 @@
 title = "69PaEI2tAyMxdPuEgSWl.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["The Dragon (Earl Retrofit)"]
+tags = ["", "The Dragon (Earl Retrofit)"]
+
 startDate = ""
 +++

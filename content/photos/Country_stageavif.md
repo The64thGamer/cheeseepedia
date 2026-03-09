@@ -1,10 +1,10 @@
 +++
 title = "Country_stage.avif"
 type = "Photos"
-tags = []
+tags = ["Country (Balcony Stage Theme)"]
 startDate = ""
 draft = false
-pages = ["Country (Balcony Stage Theme)"]
+
 
 citations = []
 +++

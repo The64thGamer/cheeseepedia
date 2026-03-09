@@ -2,8 +2,9 @@
 title = "zDPX_KZNtIAaapON0Xd2.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Bell, CA (5089 E Florence Ave)"]
+tags = ["Pizza Time Theatre", "Bell, CA (5089 E Florence Ave)"]
+
 startDate = ""
 +++
+
  Bell's Exterior before 2.0 Remodel (PC: Google Maps)

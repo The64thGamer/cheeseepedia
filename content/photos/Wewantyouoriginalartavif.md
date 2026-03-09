@@ -1,10 +1,10 @@
 +++
 title = "Wewantyouoriginalart.avif"
 type = "Photos"
-tags = []
+tags = ["Crazy Colander Head Night (Event)"]
 startDate = ""
 draft = false
-pages = ["Crazy Colander Head Night (Event)"]
+
 
 citations = []
 +++

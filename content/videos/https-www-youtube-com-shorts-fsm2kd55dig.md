@@ -1,8 +1,9 @@
 +++
 title = "https://www.youtube.com/shorts/fSm2kd55DIg"
 startDate = "2023-02-06"
-pages = ["Mumbai, Maharashtra, India (R City Mall)"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Mumbai, Maharashtra, India (R City Mall)"]
 +++
+
 Chuck E. Cheese Mumbai - Perfect Birthday Party Place for Kids

@@ -2,8 +2,9 @@
 title = "R4IIObN4CwYieXok7dUW.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Cincinnati, OH (8801 Colerain Ave)"]
+tags = ["ShowBiz Pizza Place", "Cincinnati, OH (8801 Colerain Ave)"]
+
 startDate = "2002-00-00"
 +++
+
 Colerains Showroom featuring some of the records and Tux Chuck (Winter 2002)

@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/BiyWoluJBhQ"
 startDate = "2022-06-14"
-pages = ["Chuck E. Cheese Summer of Fun 2022 Show", "Huntington Beach, CA (15511 Edwards St)", "Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Mr. Munch (Cyberamic)", "Jasper T. Jowls (Cyberamic)", "Pasqually (Cyberamic)", "2-Stage"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese Summer of Fun 2022 Show", "Huntington Beach, CA (15511 Edwards St)", "Chuck E. Cheese (Cyberamic)", "Guest Star / Helen Henny (Cyberamic)", "Mr. Munch (Cyberamic)", "Jasper T. Jowls (Cyberamic)", "Pasqually (Cyberamic)", "2-Stage"]
 +++
+
 'Join the Party' from Chuck E. Cheese Summer of Fun 2022 Show being performed on Huntington Beach's 2-Stage.

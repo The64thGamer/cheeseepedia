@@ -2,9 +2,10 @@
 title = "4geLhzxyY9iJmAYq5F4a.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Cincinnati, OH (8801 Colerain Ave)"]
+tags = ["ShowBiz Pizza Place", "Cincinnati, OH (8801 Colerain Ave)"]
+
 startDate = "2005-12-00"
 citations = ["https://archive.org/details/CEC_Colerain_Photos/CECcolerain075.JPG/"]
 +++
+
 Pasqually in Christmas attire (December 2005)

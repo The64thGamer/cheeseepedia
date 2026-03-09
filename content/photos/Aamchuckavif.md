@@ -1,10 +1,10 @@
 +++
 title = "Aamchuck.avif"
 type = "Photos"
-tags = []
+tags = ["Awesome Adventure Machine"]
 startDate = ""
 draft = false
-pages = ["Awesome Adventure Machine"]
+
 
 citations = []
 +++

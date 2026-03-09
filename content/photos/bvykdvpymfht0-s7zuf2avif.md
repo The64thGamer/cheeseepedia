@@ -2,8 +2,9 @@
 title = "BVYKdvpYMfHT0_S7zUf2.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["San Antonio (Stone Oak), TX (1403 N Loop)"]
+tags = ["Chuck E. Cheese's", "San Antonio (Stone Oak), TX (1403 N Loop)"]
+
 startDate = ""
 +++
+
 Exterior in June 2017 during 2.0 remodel

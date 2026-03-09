@@ -2,8 +2,9 @@
 title = "PXbf9Lcl6KGDWviYtiNX.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["San Salvador, ES (503 Carretera Panamericana)"]
+tags = ["San Salvador, ES (503 Carretera Panamericana)"]
+
 startDate = ""
 +++
+
 San Salvador's Gameroom

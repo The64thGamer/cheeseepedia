@@ -2,8 +2,9 @@
 title = "nGoxbfcjJquIr9qUp1Tq.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Winchester Warblettes (Animatronic)"]
+tags = ["Pizza Time Theatre", "Winchester Warblettes (Animatronic)"]
+
 startDate = ""
 +++
+
 Original Concept Art, 1977 (Created by Harold Goldbrandsen)

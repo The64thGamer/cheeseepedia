@@ -3,8 +3,9 @@ title = "vy0yv1fiD79xocqLXoA0.avif"
 draft = false
 type = "Photos"
 citations = ["https://www.showbizpizza.com/info/documents/spt/spt_87entertainment.pdf"]
-tags = ["ShowBiz Pizza Place"]
-pages = ["Yogi Bear Stage"]
+tags = ["ShowBiz Pizza Place", "Yogi Bear Stage"]
+
 startDate = ""
 +++
+
 Concept art of the Yogi Bear stage. Designed by Jul Kamen & Paul Linden

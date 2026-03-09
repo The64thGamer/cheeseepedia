@@ -2,8 +2,9 @@
 title = "IJjCHWnb6G_0CHeG9K9a.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Presentations"]
-pages = ["Weber Roast-A-Rama Show"]
+tags = ["Creative Presentations", "Weber Roast-A-Rama Show"]
+
 startDate = ""
 +++
+
 Promo Image/Logo of Waldo for shows in Floridahttps://www.newspapers.com/article/the-orlando-sentinel-cpi-weber-waldo-sho/141757190/

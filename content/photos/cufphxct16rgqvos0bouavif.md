@@ -2,8 +2,9 @@
 title = "CUfPHxCT16RGQvoS0BOU.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["White Settlement, TX (7750 Scott St)"]
+tags = ["ShowBiz Pizza Place", "White Settlement, TX (7750 Scott St)"]
+
 startDate = ""
 +++
+
 The store after it reopened as ShowBiz Pizza (PC: Unknown)

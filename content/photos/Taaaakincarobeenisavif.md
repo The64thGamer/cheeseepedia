@@ -1,10 +1,10 @@
 +++
 title = "Taaaakincarobeenis.avif"
 type = "Photos"
-tags = []
+tags = ["Taking Care of Business Live Demo"]
 startDate = ""
 draft = false
-pages = ["Taking Care of Business Live Demo"]
+
 
 citations = []
 +++

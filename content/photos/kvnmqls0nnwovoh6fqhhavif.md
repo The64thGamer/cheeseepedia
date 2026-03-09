@@ -2,7 +2,7 @@
 title = "kvnmqLs0NnwoVoH6FQHh.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["PTT 'Here's Chuck E.'s Scoop On Groups!' New York Variant (1982)"]
+tags = ["PTT 'Here's Chuck E.'s Scoop On Groups!' New York Variant (1982)"]
+
 startDate = ""
 +++

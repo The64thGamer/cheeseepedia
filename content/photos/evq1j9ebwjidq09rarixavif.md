@@ -2,8 +2,9 @@
 title = "Evq1j9eBWjIdQ09raRiX.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Canton, MI (42001 Ford Rd)"]
+tags = ["Chuck E. Cheese's", "Canton, MI (42001 Ford Rd)"]
+
 startDate = ""
 +++
+
 Street View of the store's Exterior in August 2019 (PC: Google Maps)

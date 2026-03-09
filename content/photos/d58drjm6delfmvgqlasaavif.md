@@ -2,8 +2,9 @@
 title = "D58DRJM6dELfmVGqLasA.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Wolf Pack 5"]
+tags = ["ShowBiz Pizza Place", "Wolf Pack 5"]
+
 startDate = ""
 +++
+
 Animal Band show in storage (2023)

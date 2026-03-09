@@ -2,8 +2,9 @@
 title = "8lGEXsoKffb9M6M48eVg.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Springfield, OH (2345 Valley Loop Rd)"]
+tags = ["ShowBiz Pizza Place", "Springfield, OH (2345 Valley Loop Rd)"]
+
 startDate = ""
 +++
+
 June 22, 2022

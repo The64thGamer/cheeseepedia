@@ -2,8 +2,9 @@
 title = "Bo6fiRy221ZhaOF0t92o.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Chicago, IL (1830 W Fullerton Ave)"]
+tags = ["Chuck E. Cheese's", "Chicago, IL (1830 W Fullerton Ave)"]
+
 startDate = ""
 +++
+
 2020, with new masks, TV's, and showroom benches

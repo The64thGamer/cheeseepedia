@@ -1,10 +1,10 @@
 +++
 title = "Ssssadasdasdddd.avif"
 type = "Photos"
-tags = []
+tags = ["January 2008 Show"]
 startDate = ""
 draft = false
-pages = ["January 2008 Show"]
+
 
 citations = []
 +++

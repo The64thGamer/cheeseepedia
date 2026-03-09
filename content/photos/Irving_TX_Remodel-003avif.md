@@ -1,10 +1,10 @@
 +++
 title = "Irving_TX_Remodel-003.avif"
 type = "Photos"
-tags = []
+tags = ["Mt. Chuckmore (SPT Décor)"]
 startDate = ""
 draft = false
-pages = ["Mt. Chuckmore (SPT Décor)"]
+
 
 citations = []
 +++

@@ -2,8 +2,9 @@
 title = "U22tDKCRQOnWONVzNRgj.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Lakewood, CA (5151 Lakewood Blvd)"]
+tags = ["ShowBiz Pizza Place", "Lakewood, CA (5151 Lakewood Blvd)"]
+
 startDate = ""
 +++
+
 The store's exterior before the 2005 remodel.

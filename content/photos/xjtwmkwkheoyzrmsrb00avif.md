@@ -2,8 +2,9 @@
 title = "XJTWmkWKhEoYzrMsrb00.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["3 Birthday Shows - Colander History - Indoctrination Skit"]
+tags = ["ShowBiz Pizza Place", "3 Birthday Shows - Colander History - Indoctrination Skit"]
+
 startDate = ""
 +++
+
 Nina, Pinta, & Straina Maria Card Scan

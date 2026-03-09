@@ -2,8 +2,9 @@
 title = "WMq4O7UnB3VDhICxuMkW.avif"
 draft = false
 type = "Photos"
-tags = ["Sally Corporation"]
-pages = ["Care Bears: Care-A-Lot Castle"]
+tags = ["Sally Corporation", "Care Bears: Care-A-Lot Castle"]
+
 startDate = ""
 +++
+
 Sally's 1986 IAAPA Booth, featuring the Care Bears

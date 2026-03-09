@@ -2,8 +2,9 @@
 title = "b25zw5FjxyGRWSjna2Dv.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["Jungle Jim's Chuck (Chuck E. Cheese Retrofit)"]
+tags = ["", "Jungle Jim's Chuck (Chuck E. Cheese Retrofit)"]
+
 startDate = ""
 +++
+
 The Bot during it's original run from 1995 to 1997.

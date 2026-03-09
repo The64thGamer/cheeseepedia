@@ -1,7 +1,8 @@
 +++
 title = "https://youtu.be/30QEolMlXKY?si=UWOexntGFIgfIdUi"
-pages = ["CEC Fractured Classics"]
+
 type = "Videos"
-tags = ["Pizza Time Theatre"]
+tags = ["Pizza Time Theatre", "CEC Fractured Classics"]
 +++
+
 Fractured Classics and Rock | Retromation

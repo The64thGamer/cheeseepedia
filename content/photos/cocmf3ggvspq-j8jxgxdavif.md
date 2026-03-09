@@ -2,8 +2,9 @@
 title = "COCMF3gGVspQ_J8JXGxD.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["ShowBiz Pizza Time Distribution Center (Topeka, KS)"]
+tags = ["Chuck E. Cheese's", "ShowBiz Pizza Time Distribution Center (Topeka, KS)"]
+
 startDate = ""
 +++
+
 Construction of [[Ninja Run]] courses (August 12, 2024)https://www.linkedin.com/feed/update/urn:li:activity:7228728183724916736/

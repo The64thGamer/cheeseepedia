@@ -2,8 +2,9 @@
 title = "3QwLGH0njgQb4W2Xa55B.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Torrance, CA (16920 Prairie Ave)"]
+tags = ["Pizza Time Theatre", "Torrance, CA (16920 Prairie Ave)"]
+
 startDate = ""
 +++
+
 A photo of the store's 2-Stage back in August 2016 (8/5/2016) (PC: Rosie R. on Yelp)

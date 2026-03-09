@@ -2,8 +2,9 @@
 title = "9ORcEmNJ6c4CkFvWTuUb.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9)"]
+tags = ["Chuck E. Cheese's", "Guatemala City, Guatemala (Blvd Liberación 6-31, Zona 9)"]
+
 startDate = ""
 +++
+
 Karate event taking place in front of the 2-Stage

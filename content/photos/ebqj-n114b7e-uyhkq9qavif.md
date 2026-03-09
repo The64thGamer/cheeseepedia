@@ -2,8 +2,9 @@
 title = "EbQJ_N114B7E_uYHKq9q.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["ShowBiz Pizza Place Equipment Listing Manual"]
+tags = ["ShowBiz Pizza Place", "ShowBiz Pizza Place Equipment Listing Manual"]
+
 startDate = ""
 +++
+
 'Furniture, Fixtures, and Equipment' Page

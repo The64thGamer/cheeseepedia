@@ -1,10 +1,10 @@
 +++
 title = "RaleighNCDolliDimples.avif"
 type = "Photos"
-tags = []
+tags = ["Dolli Dimples (Cabaret)"]
 startDate = ""
 draft = false
-pages = ["Dolli Dimples (Cabaret)"]
+
 
 citations = []
 +++

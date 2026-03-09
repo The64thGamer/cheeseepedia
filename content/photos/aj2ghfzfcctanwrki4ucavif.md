@@ -2,8 +2,9 @@
 title = "aj2ghfZfCCtAnWrKI4uC.avif"
 draft = false
 type = "Photos"
-tags = ["Walt Disney Imagineering"]
-pages = ["DACS"]
+tags = ["Walt Disney Imagineering", "DACS"]
+
 startDate = ""
 +++
+
 DACS Central at Magic Kingdom, 1995

@@ -2,8 +2,8 @@
 title = "ea7bad9d8ba3d276.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["2004 Survivor Chuck Binoculars"]
+tags = ["Chuck E. Cheese's", "2004 Survivor Chuck Binoculars"]
+
 startDate = "2004-00-00"
 citations = []
 +++

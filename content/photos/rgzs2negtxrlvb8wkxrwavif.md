@@ -2,8 +2,9 @@
 title = "RgzS2negTXrlVB8WkxrW.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Rick Rat Walkaround"]
+tags = ["Pizza Time Theatre", "Rick Rat Walkaround"]
+
 startDate = ""
 +++
+
 Busch Garden's The Old Country map, depicting the two rat costumes 'Robes-Pierre' and 'Rufus' (1978)https://plasticpumpkins.blogspot.com/2006/08/official-but-not-really-official.html

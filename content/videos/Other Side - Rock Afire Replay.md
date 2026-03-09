@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/FpFP4xws1hA"
 startDate = "2020-10-12"
-pages = ["Rock-afire Replay"]
+
 type = "Videos"
-tags = ["Creative Engineering","ShowBiz Pizza Place"]
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Other Side - Rock Afire Replay

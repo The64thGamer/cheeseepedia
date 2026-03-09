@@ -2,8 +2,9 @@
 title = "1vo5i420KMy_t2_AUo1I.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Brentwood, CA (6061 Lone Tree Way)"]
+tags = ["Chuck E. Cheese's", "Brentwood, CA (6061 Lone Tree Way)"]
+
 startDate = ""
 +++
+
 Brentwood's back exterior.

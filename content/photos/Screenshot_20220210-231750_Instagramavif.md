@@ -1,10 +1,10 @@
 +++
 title = "Screenshot_20220210-231750_Instagram.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese's Show 2 2019"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese's Show 2 2019"]
+
 
 citations = []
 +++

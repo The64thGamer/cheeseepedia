@@ -2,8 +2,9 @@
 title = "qo83nGDzO8ubxcG43kPA.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Cyberamic Control System"]
+tags = ["Pizza Time Theatre", "Cyberamic Control System"]
+
 startDate = ""
 +++
+
 Valve Bank Card (Rev C)

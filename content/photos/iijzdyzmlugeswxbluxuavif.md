@@ -2,8 +2,9 @@
 title = "iIJZdYZmlUGEsWXblUxU.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Hialeah, FL (3805 W 20th Ave)"]
+tags = ["Chuck E. Cheese's", "Hialeah, FL (3805 W 20th Ave)"]
+
 startDate = ""
 +++
+
 Road Stage, July 2013 (Helen, Munch, Jasper and Pasqually)

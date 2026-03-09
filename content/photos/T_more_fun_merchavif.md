@@ -1,10 +1,10 @@
 +++
 title = "T_more_fun_merch.avif"
 type = "Photos"
-tags = []
+tags = ["More Fun Merch Training"]
 startDate = ""
 draft = false
-pages = ["More Fun Merch Training"]
+
 
 citations = []
 +++

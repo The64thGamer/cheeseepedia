@@ -2,7 +2,7 @@
 title = "dz593vjydhMmgvrlYvoy.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Engineering"]
-pages = ["Layton Bit Stripper"]
+tags = ["Creative Engineering", "Layton Bit Stripper"]
+
 startDate = ""
 +++

@@ -2,8 +2,9 @@
 title = "OkjzjYW3SKprTOwQYir7.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["El Cerrito, CA (10 El Cerrito Plaza)"]
+tags = ["Pizza Time Theatre", "El Cerrito, CA (10 El Cerrito Plaza)"]
+
 startDate = ""
 +++
+
 Inside the City Council meeting. (June 6, 1983)

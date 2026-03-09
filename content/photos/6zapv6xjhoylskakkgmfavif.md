@@ -2,8 +2,9 @@
 title = "6ZAPV6xJHoYLskaKKgmF.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Lynnwood, WA (3717 196th St Suite 100)"]
+tags = ["ShowBiz Pizza Place", "Lynnwood, WA (3717 196th St Suite 100)"]
+
 startDate = ""
 +++
+
 Google Street View October 2018

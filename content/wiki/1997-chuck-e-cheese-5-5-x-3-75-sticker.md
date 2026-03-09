@@ -1,5 +1,5 @@
 +++
-title = "1997 Chuck E. Cheese 5.5\" x 3.75\" Sticker"
+title = "1997 Chuck E. Cheese Sticker"
 contributors = ["Luigigamin212"]
 citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
 type = "In-Store Merchandise"

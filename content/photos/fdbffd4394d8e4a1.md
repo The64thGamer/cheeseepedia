@@ -2,8 +2,8 @@
 title = "fdbffd4394d8e4a1.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["2009 Tourist Chuck"]
+tags = ["Chuck E. Cheese's", "2009 Tourist Chuck"]
+
 startDate = "2009-00-00"
 citations = []
 +++

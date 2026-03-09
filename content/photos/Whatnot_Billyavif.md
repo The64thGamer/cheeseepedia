@@ -1,10 +1,10 @@
 +++
 title = "Whatnot_Billy.avif"
 type = "Photos"
-tags = []
+tags = ["Whatnots"]
 startDate = ""
 draft = false
-pages = ["Whatnots"]
+
 
 citations = []
 +++

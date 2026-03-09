@@ -2,8 +2,9 @@
 title = "1p_q_ochAFg4amTv0aaU.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Irving, TX (4441 W Airport Fwy Ste 215)"]
+tags = ["ShowBiz Pizza Place", "Irving, TX (4441 W Airport Fwy Ste 215)"]
+
 startDate = ""
 +++
+
 December 2014

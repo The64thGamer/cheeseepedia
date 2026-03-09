@@ -2,7 +2,7 @@
 title = "21juZf_bELt3Q6581PiG.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Cedar Falls, IA (5911 University Ave)"]
+tags = ["Cedar Falls, IA (5911 University Ave)"]
+
 startDate = ""
 +++

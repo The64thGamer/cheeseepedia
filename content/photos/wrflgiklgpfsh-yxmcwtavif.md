@@ -2,8 +2,9 @@
 title = "WrFLgiKlGPFSh_yxmcwt.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["The Dragon (Earl Retrofit)"]
+tags = ["", "The Dragon (Earl Retrofit)"]
+
 startDate = ""
 +++
+
 The Dragon's mask being molded with clay, the viability of the eye shows that the Earl mechanism was still in the wire-frame when this was being done.

@@ -1,10 +1,10 @@
 +++
 title = "The_Vancouver_Sun_Thu_Oct_29_1992_.avif"
 type = "Photos"
-tags = []
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = ["Backyard Monsters"]
+
 
 citations = []
 +++

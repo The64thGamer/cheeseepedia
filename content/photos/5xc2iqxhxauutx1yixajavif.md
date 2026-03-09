@@ -2,8 +2,9 @@
 title = "5XC2iQXHXauuTx1yiXAJ.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Altamonte Springs, FL (541 W Hwy 436)"]
+tags = ["ShowBiz Pizza Place", "Altamonte Springs, FL (541 W Hwy 436)"]
+
 startDate = ""
 +++
+
 The exterior of Altamonte Springs in 1981 when it was a ShowBiz Pizza Place.

@@ -2,8 +2,9 @@
 title = "QcyFuSAsH7P5H7TPM8KE.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Portland, OR (9120 SE Powell Blvd)"]
+tags = ["Pizza Time Theatre", "Portland, OR (9120 SE Powell Blvd)"]
+
 startDate = ""
 +++
+
 The store's Chuck E's House Facade before the additions of Early 90s Helen Henny Cosmetics.

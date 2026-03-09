@@ -2,8 +2,9 @@
 title = "8u46lZ20QL5Eu0Hg8P4j.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Norfolk, VA (920 N Military Hwy)"]
+tags = ["Chuck E. Cheese's", "Norfolk, VA (920 N Military Hwy)"]
+
 startDate = ""
 +++
+
 Norfolk's Studio C Alpha on September 30th, 2012 (Marques S. on Foursquare)

@@ -2,7 +2,7 @@
 title = "WnzleG53lK1vYMAaLjhA.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Doha (Lusail), Qatar"]
+tags = ["Chuck E. Cheese's", "Doha (Lusail), Qatar"]
+
 startDate = ""
 +++

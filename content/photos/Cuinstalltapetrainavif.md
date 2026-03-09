@@ -1,10 +1,10 @@
 +++
 title = "Cuinstalltapetrain.avif"
 type = "Photos"
-tags = []
+tags = ["Concept Unification Installation Training Tape"]
 startDate = ""
 draft = false
-pages = ["Concept Unification Installation Training Tape"]
+
 
 citations = []
 +++

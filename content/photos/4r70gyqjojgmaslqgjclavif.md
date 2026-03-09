@@ -2,8 +2,9 @@
 title = "4r70GyQjojGmaSlQgjcl.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["New London, CT (389 N Frontage Rd)"]
+tags = ["Chuck E. Cheese's", "New London, CT (389 N Frontage Rd)"]
+
 startDate = ""
 +++
+
 A photo of the store's 1-Stage before the store's closure (PC: Unknown).

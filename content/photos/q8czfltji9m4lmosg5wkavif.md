@@ -2,8 +2,9 @@
 title = "Q8CzfLTJi9m4LmOSG5wk.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Pizza Time Theatre Showtape"]
+tags = ["Pizza Time Theatre", "Pizza Time Theatre Showtape"]
+
 startDate = "2024-00-00"
 +++
+
 Tape Side, 'BIG CHEESE Bob Black Big Cheese #36'

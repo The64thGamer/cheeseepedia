@@ -3,8 +3,9 @@ draft = false
 title = "sterlingheightsexterior2025.avif"
 startDate = "2025-08-00"
 citations = ["Google Maps"]
-pages = ["Sterling Heights, MI (13745 Lakeside Circle)"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Sterling Heights, MI (13745 Lakeside Circle)"]
 +++
+
 Sterling Heights Exterior

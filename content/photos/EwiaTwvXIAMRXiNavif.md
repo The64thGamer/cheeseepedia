@@ -1,10 +1,10 @@
 +++
 title = "EwiaTwvXIAMRXiN.avif"
 type = "Photos"
-tags = []
+tags = ["ShowBiz Pizza Campground"]
 startDate = ""
 draft = false
-pages = ["ShowBiz Pizza Campground"]
+
 
 citations = []
 +++

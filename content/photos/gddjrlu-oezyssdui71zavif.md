@@ -1,9 +1,10 @@
 +++
 title = "GddjRlU_oEZysSduI71z.avif"
 draft = false
-pages = ["San Jose, CA (370 S Winchester Blvd)", "Winchester Chuck Walkaround", "Winchester PTT Show"]
+
 type = "Photos"
-tags = ["Pizza Time Theatre"]
+tags = ["Pizza Time Theatre", "San Jose, CA (370 S Winchester Blvd)", "Winchester Chuck Walkaround", "Winchester PTT Show"]
 startDate = "0000-00-00"
 +++
+
 Guests at Winchester with the Chuck E. Cheese walkaround.

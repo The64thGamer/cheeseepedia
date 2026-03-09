@@ -2,8 +2,9 @@
 title = "qPmb2oPBI_JNotfchTF0.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["El Cerrito, CA (10 El Cerrito Plaza)"]
+tags = ["Pizza Time Theatre", "El Cerrito, CA (10 El Cerrito Plaza)"]
+
 startDate = ""
 +++
+
 The Chuck E. plush that was hung on a flagpole outside the El Cerrito City Hall. (May 23, 1983)

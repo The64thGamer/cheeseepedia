@@ -2,8 +2,9 @@
 title = "QTDW1xMwVW2X7qnLMt2f.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["San Jose (Tully), CA (2445 Fontaine Rd)"]
+tags = ["Pizza Time Theatre", "San Jose (Tully), CA (2445 Fontaine Rd)"]
+
 startDate = ""
 +++
+
 Exterior as of August 13, 2021

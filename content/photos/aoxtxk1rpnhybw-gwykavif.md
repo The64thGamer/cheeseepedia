@@ -2,8 +2,9 @@
 title = "_AOXtXk1RPnHyBw_gwYK.avif"
 draft = false
 startDate = "2007-05-00"
-pages = ["Simi Valley, CA (71 Tierra Rejada Rd)"]
+
 type = "Photos"
-tags = ["Pizza Time Theatre"]
+tags = ["Pizza Time Theatre", "Simi Valley, CA (71 Tierra Rejada Rd)"]
 +++
+
 Simi Valley in May 2007 during the CheeseVention 4 visit, and a little over than a year before closure.

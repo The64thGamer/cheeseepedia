@@ -2,8 +2,9 @@
 title = "FMZryuDRqBCTcmtYwelU.avif"
 draft = false
 type = "Photos"
-tags = ["Unknown Manufacturers"]
-pages = ["Gigglebee's"]
+tags = ["Unknown Manufacturers", "Gigglebee's"]
+
 startDate = ""
 +++
+
 Wilbur at the Sioux Falls Convention and Visitor's Bureau convincing people to visit Sioux Falls in 1994https://www.newspapers.com/image/240044762/?match=1&clipping_id=148075264

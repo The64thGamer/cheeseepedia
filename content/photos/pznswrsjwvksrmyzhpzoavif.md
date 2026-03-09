@@ -2,8 +2,9 @@
 title = "pZNswrsJwvKSRMYzhPZO.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Cyberamics Reel"]
+tags = ["Pizza Time Theatre", "Cyberamics Reel"]
+
 startDate = ""
 +++
+
 PTT Reel on a Tape Deck

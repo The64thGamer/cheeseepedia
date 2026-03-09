@@ -170,7 +170,7 @@ def build_photos_indices():
             continue
 
         title = fm.get("title") or os.path.splitext(os.path.basename(path))[0]
-        pages = normalize_pages_field(fm.get("pages"))
+        pages = normalize_pages_field(fm.get("tags"))
         content = load_content_only(path)
         start_date = fm.get("startDate") or fm.get("date") or ""
 
@@ -210,7 +210,7 @@ def build_videos_indices():
         title = fm.get("title") or os.path.splitext(os.path.basename(path))[0]
         video_link = fm.get("videoLink") or fm.get("videolink") or ""
         resolved_url = video_link if video_link else title
-        pages = normalize_pages_field(fm.get("pages"))
+        pages = normalize_pages_field(fm.get("tags"))
         content = load_content_only(path)
         start_date = fm.get("startDate") or fm.get("date") or ""
 

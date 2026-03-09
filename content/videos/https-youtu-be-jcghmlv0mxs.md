@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/jCGhmlV0mXs"
 startDate = "2020-09-08"
-pages = ["Rock-afire Replay"]
+
 type = "Videos"
-tags = ["ShowBiz Pizza Place", "Creative Engineering"]
+tags = ["ShowBiz Pizza Place", "Creative Engineering", "Rock-afire Replay"]
 +++
+
 An early Rock-afire Replay YouTube Video.

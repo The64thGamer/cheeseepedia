@@ -2,8 +2,9 @@
 title = "BAo67sTZK7FPi7GA3n_w.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Orlando, FL (7456 West Colonial Dr)"]
+tags = ["Orlando, FL (7456 West Colonial Dr)"]
+
 startDate = ""
 +++
+
 The exterior of the store before the removal of the Awnings (PC: varcamp.com)

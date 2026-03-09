@@ -2,8 +2,9 @@
 title = "dEB1pfV7im76xwh0TMGf.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Dothan, AL (3400 Ross Clark Circle)"]
+tags = ["ShowBiz Pizza Place", "Dothan, AL (3400 Ross Clark Circle)"]
+
 startDate = ""
 +++
+
 Part of the exterior as a ShowBiz Pizza Place. (1987)

@@ -2,8 +2,9 @@
 title = "owXXgCbHWmpSm4l0wVs5.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Chicago, IL (1830 W Fullerton Ave)"]
+tags = ["Chuck E. Cheese's", "Chicago, IL (1830 W Fullerton Ave)"]
+
 startDate = ""
 +++
+
 Chicago Fullerton 2005 Remodel in 2017 Note: The sides of the window were repainted black.

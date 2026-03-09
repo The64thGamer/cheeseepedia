@@ -2,8 +2,9 @@
 title = "hJbOkv9sHEcpJQqqH4fv.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Winnipeg, Manitoba, Canada (1931 Pembina Hwy)"]
+tags = ["Chuck E. Cheese's", "Winnipeg, Manitoba, Canada (1931 Pembina Hwy)"]
+
 startDate = ""
 +++
+
 A full photo of the store's 1-Stage in the Mid-Late 1990's (PC: Unknown)

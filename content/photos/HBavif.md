@@ -1,10 +1,10 @@
 +++
 title = "HB.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese's"]
+
 
 citations = []
 +++

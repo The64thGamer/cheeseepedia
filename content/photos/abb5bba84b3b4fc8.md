@@ -2,8 +2,8 @@
 title = "abb5bba84b3b4fc8.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["1997 CEC Hot Wheels Street Roader"]
+tags = ["Chuck E. Cheese's", "1997 CEC Hot Wheels Street Roader"]
+
 startDate = "1997-00-00"
 citations = []
 +++

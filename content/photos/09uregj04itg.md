@@ -2,8 +2,9 @@
 title = "09uregj04itg.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place","Creative Engineering"]
-pages = ["Senior Citizens"]
+tags = ["ShowBiz Pizza Place", "Creative Engineering", "Senior Citizens"]
+
 startDate = "2024-10-13"
 +++
+
 Senior Citizens revised showtape front label.

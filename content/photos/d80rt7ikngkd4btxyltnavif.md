@@ -2,8 +2,9 @@
 title = "d80RT7ikngKD4btxyltn.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Monroeville, PA (3813 William Penn Hwy)"]
+tags = ["Pizza Time Theatre", "Monroeville, PA (3813 William Penn Hwy)"]
+
 startDate = ""
 +++
+
 The site of the former PTT in 2023.

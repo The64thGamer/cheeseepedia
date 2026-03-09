@@ -2,8 +2,9 @@
 title = "Iign5xxys_XjO5PWiMo8.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["PTT Chuck E. Cheese Quote Sign (1977)"]
+tags = ["PTT Chuck E. Cheese Quote Sign (1977)"]
+
 startDate = ""
 +++
+
 At [[San Jose, CA (370 S Winchester Blvd)

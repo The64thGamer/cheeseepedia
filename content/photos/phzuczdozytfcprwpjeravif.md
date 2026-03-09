@@ -2,8 +2,9 @@
 title = "PhzUCzdOzytFCpRwpJEr.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Springfield, PA (371 Baltimore Pike)"]
+tags = ["Chuck E. Cheese's", "Springfield, PA (371 Baltimore Pike)"]
+
 startDate = ""
 +++
+
 Springfield's Exterior before 2.0 remodel (PC: Google Maps)

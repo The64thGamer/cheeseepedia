@@ -1,10 +1,10 @@
 +++
 title = "Ssss4.avif"
 type = "Photos"
-tags = []
+tags = ["7-1-99 (Show Selector 4)"]
 startDate = ""
 draft = false
-pages = ["7-1-99 (Show Selector 4)"]
+
 
 citations = []
 +++

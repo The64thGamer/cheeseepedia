@@ -1,10 +1,10 @@
 +++
 title = "Show517p1_2.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese's Show 5 2017"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese's Show 5 2017"]
+
 
 citations = []
 +++

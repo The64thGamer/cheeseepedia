@@ -1,10 +1,10 @@
 +++
 title = "NRAE_Dook.avif"
 type = "Photos"
-tags = []
+tags = ["Dook Larue (Mijjin)"]
 startDate = ""
 draft = false
-pages = ["Dook Larue (Mijjin)"]
+
 
 citations = []
 +++

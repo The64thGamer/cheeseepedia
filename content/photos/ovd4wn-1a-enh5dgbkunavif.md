@@ -2,8 +2,9 @@
 title = "oVd4wn_1A_enh5dgbkuN.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Oklahoma City, OK (7605 S Walker Ave)"]
+tags = ["ShowBiz Pizza Place", "Oklahoma City, OK (7605 S Walker Ave)"]
+
 startDate = ""
 +++
+
 Exterior before closure and demolition, Unknown Year

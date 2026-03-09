@@ -2,9 +2,10 @@
 title = "Azw10sTbjGicJ4bMfCi2.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Cincinnati, OH (8801 Colerain Ave)"]
+tags = ["ShowBiz Pizza Place", "Cincinnati, OH (8801 Colerain Ave)"]
+
 startDate = "2023-10-13"
 citations = ["Photo by Chuck E. Entertainment"]
 +++
+
 Center Stage Carpeting (October 2023)

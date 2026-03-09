@@ -2,8 +2,9 @@
 title = "u7XoVG8lETIugFpnGmi4.avif"
 draft = false
 type = "Photos"
-tags = ["Sally Corporation"]
-pages = ["Care Bears: Care-A-Lot Castle"]
+tags = ["Sally Corporation", "Care Bears: Care-A-Lot Castle"]
+
 startDate = ""
 +++
+
 Donna Gentry costuming the Dunia Grumpy Bear figure, also at Sally (1986)

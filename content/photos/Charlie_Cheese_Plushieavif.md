@@ -1,10 +1,10 @@
 +++
 title = "Charlie_Cheese_Plushie.avif"
 type = "Photos"
-tags = []
+tags = ["Charlie Cheese's Pizza Playhouse"]
 startDate = ""
 draft = false
-pages = ["Charlie Cheese's Pizza Playhouse"]
+
 
 citations = []
 +++

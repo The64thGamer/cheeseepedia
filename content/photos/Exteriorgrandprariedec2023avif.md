@@ -1,9 +1,9 @@
 +++
 title = "Exteriorgrandprariedec2023.avif"
 type = "Photos"
-tags = []
+tags = ["Grand Prairie, TX (2760 W I-20)"]
 startDate = ""
 draft = false
-pages = ["Grand Prairie, TX (2760 W I-20)"]
+
 citations = []
 +++

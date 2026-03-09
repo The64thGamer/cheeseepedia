@@ -2,8 +2,9 @@
 title = "YeoTu7qqLCQT0RN3t2b1.avif"
 draft = false
 type = "Photos"
-tags = ["Hofmann Figuren"]
-pages = ["Hofmann Monkey Show"]
+tags = ["Hofmann Figuren", "Hofmann Monkey Show"]
+
 startDate = ""
 +++
+
 Hellendoorn Western Monkey on Washboard, Louis Armstrong Monkey, & Gorilla Pianist

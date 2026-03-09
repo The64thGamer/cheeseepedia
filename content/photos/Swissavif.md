@@ -1,10 +1,10 @@
 +++
 title = "Swiss.avif"
 type = "Photos"
-tags = []
+tags = ["Swiss Cheese Coin Bank (1983)"]
 startDate = ""
 draft = false
-pages = ["Swiss Cheese Coin Bank (1983)"]
+
 
 citations = []
 +++

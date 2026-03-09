@@ -1,10 +1,10 @@
 +++
 title = "Wink.avif"
 type = "Photos"
-tags = []
+tags = ["Wink (Animatronic)"]
 startDate = ""
 draft = false
-pages = ["Wink (Animatronic)"]
+
 
 citations = []
 +++

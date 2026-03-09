@@ -2,9 +2,10 @@
 title = "wh70izmo0bfqrg0v.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Chuck E. Cheese Adventure World"]
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese Adventure World"]
+
 startDate = "2025-10-26"
 citations = ["https://www.instagram.com/dmckill/p/DQUAwaiALa2/"]
 +++
+
 Adventure World ad in CEC Headquarters

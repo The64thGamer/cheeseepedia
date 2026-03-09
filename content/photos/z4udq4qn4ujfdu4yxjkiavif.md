@@ -2,8 +2,9 @@
 title = "z4uDQ4Qn4UjFdu4YxjKi.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Edina, MN (7505 France Ave S)"]
+tags = ["Edina, MN (7505 France Ave S)"]
+
 startDate = ""
 +++
+
 Bot singing Chuck E.'s Dance Party

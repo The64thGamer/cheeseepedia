@@ -2,9 +2,10 @@
 title = "WJiOddStXlB3HcBMjtz9.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Cincinnati, OH (8801 Colerain Ave)"]
+tags = ["ShowBiz Pizza Place", "Cincinnati, OH (8801 Colerain Ave)"]
+
 startDate = "2019-09-25"
 citations = ["Photo by Chuck E. Entertainment"]
 +++
+
 Dumpster filled with Springfield, OH booths (September 25, 2019)

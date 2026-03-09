@@ -2,8 +2,9 @@
 title = "K7ylD8RFeE3ugbw7grb_.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Engineering"]
-pages = ["Gulliver's Kingdom Stage"]
+tags = ["Creative Engineering", "Gulliver's Kingdom Stage"]
+
 startDate = ""
 +++
+
 Fatz Geronimo's replacement mask 2024/01/13

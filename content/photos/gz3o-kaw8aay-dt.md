@@ -2,8 +2,9 @@
 title = "GZ3o-KAW8AAY-dt.avif"
 draft = false
 type = "Photos"
-tags = ["Five Nights at Freddy's 2 (Movie)"]
-pages = ["Five Nights at Freddy's 2 (Movie)", "FNaF 2 Sweepstakes"]
+tags = ["Five Nights at Freddy's 2 (Movie)", "FNaF 2 Sweepstakes"]
+
 startDate = "2024-10-01"
 +++
+
 FNaF 2 Sweepstakes site image.

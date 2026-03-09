@@ -2,8 +2,9 @@
 title = "TL0Em99hjgLkxdGukb4r.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Florence, KY (7635 Mall Rd)"]
+tags = ["Pizza Time Theatre", "Florence, KY (7635 Mall Rd)"]
+
 startDate = ""
 +++
+
 Florences Exterior in 2005https://archive.org/details/CECflorenece-ky-2005-2021-photos/FloreneceKy2005-2007Photos0008.png/

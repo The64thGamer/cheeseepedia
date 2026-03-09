@@ -2,8 +2,9 @@
 title = "PGzhiv8VwxvCu76VdYR2.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Rock-afire Explosion"]
+tags = ["ShowBiz Pizza Place", "Rock-afire Explosion"]
+
 startDate = ""
 +++
+
 [[NRAE Stage]] (Years installed: 1992 to 1998) (Unknown, possibly retired)

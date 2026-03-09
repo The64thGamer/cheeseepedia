@@ -2,8 +2,9 @@
 title = "BTCZm22CL3BE7vkwlFy6.avif"
 draft = false
 type = "Photos"
-tags = []
-pages = ["Kansas City (Antioch), MO (2726 NE Vivion Rd)"]
+tags = ["Kansas City (Antioch), MO (2726 NE Vivion Rd)"]
+
 startDate = ""
 +++
+
 Antioch after closure, June 2008

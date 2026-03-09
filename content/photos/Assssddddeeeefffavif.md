@@ -1,10 +1,10 @@
 +++
 title = "Assssddddeeeefff.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese's Show 4 2021 (Existing Stages) (International ENG Covid Promo)"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese's Show 4 2021 (Existing Stages) (International ENG Covid Promo)"]
+
 
 citations = []
 +++

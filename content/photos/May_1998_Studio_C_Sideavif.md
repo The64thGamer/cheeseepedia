@@ -1,10 +1,10 @@
 +++
 title = "May_1998_Studio_C_Side.avif"
 type = "Photos"
-tags = []
+tags = ["May 1998 Studio C"]
 startDate = ""
 draft = false
-pages = ["May 1998 Studio C"]
+
 
 citations = []
 +++

@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/0ooap52ZMxs"
 startDate = "2021-12-18"
-pages = ["Rock-afire Replay"]
+
 type = "Videos"
-tags = ["Creative Engineering","ShowBiz Pizza Place"]
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Rock-Afire Replay - Cheesy Pizza (Parody of Baggy Trousers) - Madness (Parody by J.Kipling)

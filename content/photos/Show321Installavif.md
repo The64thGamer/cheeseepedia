@@ -1,10 +1,10 @@
 +++
 title = "Show321Install.avif"
 type = "Photos"
-tags = []
+tags = ["Chuck E. Cheese's Show 3 2021"]
 startDate = ""
 draft = false
-pages = ["Chuck E. Cheese's Show 3 2021"]
+
 
 citations = []
 +++

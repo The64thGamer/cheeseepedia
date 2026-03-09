@@ -2,8 +2,9 @@
 title = "3xXWbvxSpT0m7coma8ei.avif"
 draft = false
 type = "Photos"
-tags = [""]
-pages = ["Jungle Jim's RAE Sign (RAE Sign Retrofit)"]
+tags = ["", "Jungle Jim's RAE Sign (RAE Sign Retrofit)"]
+
 startDate = ""
 +++
+
 Front of the RAE Sign

@@ -1,9 +1,10 @@
 +++
 title = "98jn34gn34jgn.avif"
 startDate = "0000-00-00"
-pages = ["Awesome Adventure Machine","Dallas, TX (13125 Montfort Dr)","AAM Chuck E. Cheese (Animatronic)","Chuck AAM (Costume Outfit)"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Awesome Adventure Machine", "Dallas, TX (13125 Montfort Dr)", "AAM Chuck E. Cheese (Animatronic)", "Chuck AAM (Costume Outfit)"]
 citations = [""]
 +++
+
 The Awesome Adventure Machine stage alongside its Walkaround costume.

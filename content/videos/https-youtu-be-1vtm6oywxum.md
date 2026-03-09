@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/1vTM6OywxUM"
 startDate = "1992-04-27"
-pages = ["Independence, MO (4039 S Noland Rd)", "Concept Unification Stage"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Independence, MO (4039 S Noland Rd)", "Concept Unification Stage"]
 +++
+
 Birthday party at Independence, MO (4039 S Noland Rd) in 1992.

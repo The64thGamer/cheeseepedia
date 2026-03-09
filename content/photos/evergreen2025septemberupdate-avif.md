@@ -2,8 +2,9 @@
 title = "evergreen2025septemberupdate.avif"
 startDate = "2025-09-08"
 citations = ["https://www.youtube.com/watch?v=nO7qk0TGgwY&pp=0gcJCckJAYcqIYzv"]
-pages = ["Chuck E. Cheese Evergreen 2025 September Update"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese Evergreen 2025 September Update"]
 +++
+
 Evergreen 2025 September Update

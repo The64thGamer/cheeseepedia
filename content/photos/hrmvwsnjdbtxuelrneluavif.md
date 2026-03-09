@@ -2,9 +2,10 @@
 title = "HrmVwsnJdBtXUelrNeLU.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["San Jose, CA (370 S Winchester Blvd)"]
+tags = ["Pizza Time Theatre", "San Jose, CA (370 S Winchester Blvd)"]
+
 startDate = "1977-05-17"
 citations = ["https://archive.org/details/atariincbusiness0000gold/page/352/mode/2up?q=%22Restaurant+Operating%22"]
 +++
+
 Grand Opening Promotional Photo

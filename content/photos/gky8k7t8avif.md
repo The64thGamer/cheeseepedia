@@ -1,10 +1,10 @@
 +++
 title = "gky8k7t8.avif"
 type = "Photos"
-tags = []
+tags = ["CEC September 1990 Show"]
 startDate = ""
 draft = false
-pages = ["CEC September 1990 Show"]
+
 
 citations = []
 +++

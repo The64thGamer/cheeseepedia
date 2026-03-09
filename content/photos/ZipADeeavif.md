@@ -1,8 +1,9 @@
 +++
 title = "ZipADee.avif"
 citations = ["https://www.youtube.com/watch?v=g6AZHAooa9k"]
-pages = ["Zip-A-Dee-Doo-Dah Performed by Helen Henny"]
+
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "Zip-A-Dee-Doo-Dah Performed by Helen Henny"]
 +++
+
 Screenshot of 'Zip-A-Dee-Doo-Dah Performed by Helen Henny' by 'Watootsi Jenkins'

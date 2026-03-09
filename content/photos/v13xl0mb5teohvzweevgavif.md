@@ -2,8 +2,9 @@
 title = "v13xl0MB5TeohvZwEEvG.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["Glen Burnie, MD (6637 Governor Ritchie Hwy)"]
+tags = ["Chuck E. Cheese's", "Glen Burnie, MD (6637 Governor Ritchie Hwy)"]
+
 startDate = ""
 +++
+
 Street view of the store's exterior from October 2013 (PC: Google Maps)

@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/kFAwFonWjvc"
 startDate = "2018-09-02"
-pages = ["San Bernardino, CA (955 South E St)", "2-Stage", "Chuck E. Cheese's Show 5 2018"]
+
 type = "Videos"
-tags = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's", "San Bernardino, CA (955 South E St)", "2-Stage", "Chuck E. Cheese's Show 5 2018"]
 +++
+
 Jasper's Country Classic preformed at San Bernardino, CA.

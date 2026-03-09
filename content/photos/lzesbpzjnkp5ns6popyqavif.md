@@ -2,8 +2,9 @@
 title = "LzEsBpZjnKP5NS6pOPyQ.avif"
 draft = false
 type = "Photos"
-tags = ["Creative Presentations"]
-pages = ["Weber Roast-A-Rama Show"]
+tags = ["Creative Presentations", "Weber Roast-A-Rama Show"]
+
 startDate = ""
 +++
+
 Image of Waldo Weber in the newspaper for the Sycamore Mall Shopping Centerhttps://www.newspapers.com/image/207257745/?match=1

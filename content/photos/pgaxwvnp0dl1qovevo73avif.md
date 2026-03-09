@@ -2,8 +2,9 @@
 title = "PgaXWvnp0Dl1qoVevO73.avif"
 draft = false
 type = "Photos"
-tags = ["ShowBiz Pizza Place"]
-pages = ["Sharonville, OH (1429 E Kemper Rd)"]
+tags = ["ShowBiz Pizza Place", "Sharonville, OH (1429 E Kemper Rd)"]
+
 startDate = ""
 +++
+
 Jasper & Pasqually (May 4, 2019)

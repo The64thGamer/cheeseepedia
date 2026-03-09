@@ -41,7 +41,7 @@
 </div>
 
 <h2>Tagged Articles</h2>
-{{- $callerPages := .Params.pages | default (slice) -}}
+{{- $callerPages := .Params.tags | default (slice) -}}
 {{- /* Efficiently resolve each wiki title to a Page object and render display-page-box */ -}}
 {{- $allWiki := where .Site.RegularPages "Section" "wiki" -}}
 {{- range $i, $title := $callerPages -}}
@@ -71,7 +71,7 @@ false) -}}
 {{- end -}}
 
 <h2>Tagged Articles</h2>
-{{- $callerPages := .Params.pages -}}
+{{- $callerPages := .Params.tags -}}
 {{- $pages := partialCached "grab-all-wiki-articles.html" "key"}}
 {{- range $pages -}}
 {{- $pageTitle := .Title}}

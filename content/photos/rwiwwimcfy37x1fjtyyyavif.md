@@ -2,8 +2,9 @@
 title = "RwIWwiMcFY37x1fJtYyy.avif"
 draft = false
 type = "Photos"
-tags = ["Pizza Time Theatre"]
-pages = ["Atlanta, GA (2963-A Cobb Pkwy)"]
+tags = ["Pizza Time Theatre", "Atlanta, GA (2963-A Cobb Pkwy)"]
+
 startDate = ""
 +++
+
 Children's Healthcare of Atlanta Christmas Parade (December 25th, 1983)

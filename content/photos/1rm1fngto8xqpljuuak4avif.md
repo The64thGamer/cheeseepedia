@@ -2,8 +2,9 @@
 title = "1Rm1fnGTo8XQpljuuaK4.avif"
 draft = false
 type = "Photos"
-tags = ["Chuck E. Cheese's"]
-pages = ["CEC Employee Red Shirt (90's)"]
+tags = ["Chuck E. Cheese's", "CEC Employee Red Shirt (90's)"]
+
 startDate = ""
 +++
+
 Five Incentives variant of the polo.
