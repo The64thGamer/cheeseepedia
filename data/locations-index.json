@@ -17758,8 +17758,8 @@
       "parts": [
         "Studio C Cappa",
         "2004-08-06",
-        "",
-        ""
+        "2026-04-04",
+        "Version 2"
       ],
       "sort": "20040806"
     },
@@ -30645,6 +30645,18 @@
       "sort": "20240000"
     },
     {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Trampoline Zone",
+        "2024-00-00",
+        "2026-04-04",
+        "3-pad variant, seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "20240000"
+    },
+    {
       "page_get": "wiki/cincinnati-oh-4394-eastgate-square-dr",
       "page_path": "content/wiki/cincinnati-oh-4394-eastgate-square-dr",
       "page_title": "Cincinnati, OH (4394 Eastgate Square Dr)",
@@ -30955,6 +30967,18 @@
         "Seen in October '24, October '25"
       ],
       "sort": "20240000"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Basketball Pro",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|Slide Up": [
@@ -31135,6 +31159,18 @@
         "Seen in October '24, October '25"
       ],
       "sort": "20240000"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Avengers Coin Pusher",
+        "",
+        "",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|Mega Blaster": [
@@ -31189,6 +31225,18 @@
         "Seen in October '24, June '25"
       ],
       "sort": "20240000"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Super Big Rig",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|Spongebob Super Striker": [
@@ -31259,6 +31307,18 @@
         "Seen in June '25, October '25"
       ],
       "sort": "20250000"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Polar Slide",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|Defender (Rerelease)": [
@@ -31487,6 +31547,18 @@
         "Seen in July '25, December '25"
       ],
       "sort": "20250628"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Plinko",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|Quarterback Pro": [
@@ -32862,6 +32934,18 @@
         "2019-09-22"
       ],
       "sort": "20090000"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "NBA Hoops",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|Alley Roller Classic": [
@@ -33097,9 +33181,33 @@
         "2019-09-22"
       ],
       "sort": "20090000"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Jett Rider",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|Dog Pounder": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Dog Pounder",
+        "0000-00-00",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "00000000"
+    },
     {
       "page_get": "wiki/cincinnati-oh-8801-colerain-ave",
       "page_path": "content/wiki/cincinnati-oh-8801-colerain-ave",
@@ -33188,6 +33296,18 @@
         "2019-09-22"
       ],
       "sort": "20090000"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Big Bass Wheel Pro",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|Spider-Bot": [
@@ -33253,6 +33373,18 @@
         "2019-09-22"
       ],
       "sort": "20090000"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Spongebob Squarepants Bikini Bottom Bowling",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|The Price is Right Plinko": [
@@ -33586,6 +33718,18 @@
         "2019-09-22"
       ],
       "sort": "20160400"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Pirate Hook",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|Winter X-Games SnoCross": [
@@ -33700,6 +33844,18 @@
         "2019-09-22"
       ],
       "sort": "20180800"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Barrel of Monkeys",
+        "",
+        "",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
     }
   ],
   "attractions|Teenage Mutant Ninja Turtles (2018)": [
@@ -35186,6 +35342,406 @@
       "sort": "00000000"
     }
   ],
+  "attractions|Galaga Assault": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Galaga Assault",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Launch Code": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Launch Code",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Operation": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Operation",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Jack Pot Extreme": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Jack Pot Extreme",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Paw Patrol": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Paw Patrol",
+        "0000-00-00",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Paw Patrol",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2023."
+      ],
+      "sort": "00000000"
+    }
+  ],
+  "attractions|Choppy Wood": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Choppy Wood",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Trolls": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Trolls",
+        "",
+        "",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Harpoon Lagoon": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Harpoon Lagoon",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Alleyroller Classic": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Alleyroller Classic",
+        "",
+        "",
+        "4 Lanes, seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|The Simpsons Soccer": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "The Simpsons Soccer",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "The Simpsons Soccer",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Baseball Pro Junior": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Baseball Pro Junior",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Fast & Furious Super Cars": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Fast & Furious Super Cars",
+        "",
+        "2026-04-04",
+        "2 machines, seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Whack and Win": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Whack and Win",
+        "",
+        "2026-04-04",
+        "Small variant, seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Eiffel Tower": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Eiffel Tower",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Golden Empire": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Golden Empire",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Luigi's Mansion Arcade": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Luigi's Mansion Arcade",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Pop It for Gold": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Pop It for Gold",
+        "",
+        "2026-04-04",
+        "CEC Avenger branded, seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Sketch Book": [
+    {
+      "page_get": "wiki/long-island-city-ny-3419-48th-st",
+      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
+      "page_title": "Long Island City, NY (3419 48th St)",
+      "parts": [
+        "Chuck E. Cheese's Sketch Book",
+        "0000-00-00",
+        "0000-00-00",
+        "Seen in footage from 2021 & 2023."
+      ],
+      "sort": "00000000"
+    },
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Chuck E. Cheese's Sketch Book",
+        "2004-08-06",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "20040806"
+    }
+  ],
+  "attractions|PJ Masks": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "PJ Masks",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Deadstorm Pirates": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Deadstorm Pirates",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Hot Racer": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Hot Racer",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Rainbow": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Chuck E. Cheese's Rainbow",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|High Five!": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "High Five!",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Kitty Cars Racing": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Kitty Cars Racing",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Minions Ride": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Minions Ride",
+        "",
+        "2026-04-04",
+        "Seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
+  "attractions|Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)": [
+    {
+      "page_get": "wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_path": "content/wiki/salisbury-md-2300-n-salisbury-blvd",
+      "page_title": "Salisbury, MD (2300 N Salisbury Blvd)",
+      "parts": [
+        "Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)",
+        "",
+        "2026-04-04",
+        "Camera and printer removed in Summer 2025, mix of Avenger and Rockstar graphics, seen in the 2025 Store Tour by Liam's Explorations"
+      ],
+      "sort": "99999999"
+    }
+  ],
   "attractions|Aftershock": [
     {
       "page_get": "wiki/houston-tx-6760-antoine-dr",
@@ -35621,20 +36177,6 @@
       "sort": "00000000"
     }
   ],
-  "attractions|Chuck E. Cheese's Sketch Book": [
-    {
-      "page_get": "wiki/long-island-city-ny-3419-48th-st",
-      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
-      "page_title": "Long Island City, NY (3419 48th St)",
-      "parts": [
-        "Chuck E. Cheese's Sketch Book",
-        "0000-00-00",
-        "0000-00-00",
-        "Seen in footage from 2021 & 2023."
-      ],
-      "sort": "00000000"
-    }
-  ],
   "attractions|Doodle Jump Arcade": [
     {
       "page_get": "wiki/long-island-city-ny-3419-48th-st",
@@ -35761,20 +36303,6 @@
       "sort": "00000000"
     }
   ],
-  "attractions|The Simpsons Soccer": [
-    {
-      "page_get": "wiki/long-island-city-ny-3419-48th-st",
-      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
-      "page_title": "Long Island City, NY (3419 48th St)",
-      "parts": [
-        "The Simpsons Soccer",
-        "0000-00-00",
-        "0000-00-00",
-        "Seen in footage from 2021 & 2023."
-      ],
-      "sort": "00000000"
-    }
-  ],
   "attractions|Wheel of Fortune (ICE coin pusher)": [
     {
       "page_get": "wiki/long-island-city-ny-3419-48th-st",
@@ -35866,20 +36394,6 @@
       "page_title": "Long Island City, NY (3419 48th St)",
       "parts": [
         "Hungry Chickens",
-        "0000-00-00",
-        "0000-00-00",
-        "Seen in footage from 2023."
-      ],
-      "sort": "00000000"
-    }
-  ],
-  "attractions|Paw Patrol": [
-    {
-      "page_get": "wiki/long-island-city-ny-3419-48th-st",
-      "page_path": "content/wiki/long-island-city-ny-3419-48th-st",
-      "page_title": "Long Island City, NY (3419 48th St)",
-      "parts": [
-        "Paw Patrol",
         "0000-00-00",
         "0000-00-00",
         "Seen in footage from 2023."

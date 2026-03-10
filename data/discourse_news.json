@@ -101,6 +101,13 @@
       "trust_level": 2
     },
     {
+      "id": 61,
+      "username": "cmsentance-byte",
+      "name": "Cmsentance Byte",
+      "avatar_template": "/user_avatar/forum.cheeseepedia.org/cmsentance-byte/{size}/908_2.png",
+      "trust_level": 1
+    },
+    {
       "id": 67,
       "username": "Jeff.Marks",
       "name": null,
@@ -111,13 +118,6 @@
       "flair_bg_color": "352240",
       "flair_color": "FFFFFF",
       "flair_group_id": 41,
-      "trust_level": 1
-    },
-    {
-      "id": 61,
-      "username": "cmsentance-byte",
-      "name": "Cmsentance Byte",
-      "avatar_template": "/user_avatar/forum.cheeseepedia.org/cmsentance-byte/{size}/908_2.png",
       "trust_level": 1
     },
     {
@@ -405,7 +405,7 @@
           }
         ],
         "tags_descriptions": {},
-        "views": 36,
+        "views": 44,
         "like_count": 2,
         "has_summary": false,
         "last_poster_username": "The-64th-Gamer",
@@ -638,7 +638,7 @@
           }
         ],
         "tags_descriptions": {},
-        "views": 395,
+        "views": 396,
         "like_count": 6,
         "has_summary": false,
         "last_poster_username": "RazorKatxD",
@@ -1141,14 +1141,14 @@
         "id": 284,
         "title": "Scott Drake Makes First Statement as CEO",
         "slug": "scott-drake-makes-first-statement-as-ceo",
-        "posts_count": 4,
-        "reply_count": 0,
-        "highest_post_number": 5,
+        "posts_count": 5,
+        "reply_count": 1,
+        "highest_post_number": 6,
         "image_url": "https://forum.cheeseepedia.org/uploads/default/optimized/2X/a/a4f7ca0dc8cf23038866c1201ba79ae0fe904939_2_682x1024.jpeg",
         "created_at": "2026-02-18T20:14:31.564Z",
-        "last_posted_at": "2026-02-25T03:33:29.698Z",
+        "last_posted_at": "2026-03-10T21:29:58.166Z",
         "bumped": true,
-        "bumped_at": "2026-02-25T03:33:29.698Z",
+        "bumped_at": "2026-03-10T21:29:58.166Z",
         "archetype": "regular",
         "unseen": false,
         "pinned": false,
@@ -1217,10 +1217,10 @@
           }
         ],
         "tags_descriptions": {},
-        "views": 377,
+        "views": 379,
         "like_count": 3,
         "has_summary": false,
-        "last_poster_username": "cmsentance-byte",
+        "last_poster_username": "Jeff.Marks",
         "category_id": 5,
         "op_like_count": 2,
         "pinned_globally": false,
@@ -1238,16 +1238,16 @@
           {
             "extras": null,
             "description": "Frequent Poster",
-            "user_id": 67,
-            "primary_group_id": 41,
-            "flair_group_id": 41
+            "user_id": 61,
+            "primary_group_id": null,
+            "flair_group_id": null
           },
           {
             "extras": "latest",
             "description": "Most Recent Poster",
-            "user_id": 61,
-            "primary_group_id": null,
-            "flair_group_id": null
+            "user_id": 67,
+            "primary_group_id": 41,
+            "flair_group_id": 41
           }
         ]
       },
