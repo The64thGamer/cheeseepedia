@@ -1,15 +1,10 @@
 +++
 title = "Salisbury, MD (2300 N Salisbury Blvd)"
-startDate = "2004-08-06"
-endDate = ""
 cuDate = ""
 franchisees = []
 citations = []
 contributors = ["CyberSnout"]
 downloadLinks = []
-pageThumbnailFile = ""
-type = "Locations"
-tags = ["Chuck E. Cheese's"]
 draft = false
 remodels = []
 animatronics = []
@@ -18,6 +13,11 @@ sqft = "8,000"
 latitudeLongitude = ["38.3974214", "-75.5654415"]
 stages = ["Studio C Cappa|2004-08-06|2026-04-04|Version 2"]
 attractions = ["Polar Slide|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Galaga Assault|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Launch Code|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Operation|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Jack Pot Extreme|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Paw Patrol|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Choppy Wood|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Basketball Pro|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Trolls|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Harpoon Lagoon|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Big Bass Wheel Pro|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Avengers Coin Pusher|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Barrel of Monkeys|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Plinko|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "NBA Hoops|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Alleyroller Classic|0000-00-00|2026-04-06|4 Lanes Seen in the 2025 Store Tour by Liam's Explorations", "The Simpsons Soccer|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Baseball Pro Junior|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Dog Pounder|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Trampoline Zone|2024-00-00|2026-04-04|3-pad variant seen in the 2025 Store Tour by Liam's Explorations", "Fast & Furious Super Cars|0000-00-00|2026-04-04|2 machines seen in the 2025 Store Tour by Liam's Explorations", "Whack and Win|0000-00-00|2026-04-04|Small variant seen in the 2025 Store Tour by Liam's Explorations", "Eiffel Tower|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Golden Empire|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Luigi's Mansion Arcade|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Pop It for Gold|0000-00-00|2026-04-04|CEC Avenger branded seen in the 2025 Store Tour by Liam's Explorations", "Chuck E. Cheese's Sketch Book|2004-08-06|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Spongebob Squarepants Bikini Bottom Bowling|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Pirate Hook|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "PJ Masks|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Deadstorm Pirates|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Jett Rider|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Hot Racer|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Chuck E. Cheese's Rainbow|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Super Big Rig|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "High Five!|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Kitty Cars Racing|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Minions Ride|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations", "Chuck E. Cheese's Color Photo Ride (Rockstar 2019)||2026-04-04|Camera and printer removed in Summer 2025 mix of Avenger and Rockstar graphics seen in the 2025 Store Tour by Liam's Explorations"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
+startDate = "2004-08-06"
+endDate = ""
+pageThumbnailFile = "uinfbtr7mo.avif"
 +++
 ***Salisbury, MD (2300 N Salisbury Blvd)*** is a Chuck E. Cheese's that opened on August 6, 2004, located at The Centre At Salisbury, and is set to close on April 4, 2026.
 
