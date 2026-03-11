@@ -5,7 +5,6 @@ franchisees = []
 citations = []
 contributors = ["CyberSnout"]
 downloadLinks = []
-pageThumbnailFile = ""
 draft = false
 storeNumber = "771"
 sqft = "8,000"
@@ -18,6 +17,7 @@ type = "Locations"
 tags = ["Chuck E. Cheese's"]
 startDate = "2004-08-06"
 endDate = ""
+pageThumbnailFile = "uinfbtr7mo.avif"
 +++
 ***Salisbury, MD (2300 N Salisbury Blvd)*** is a Chuck E. Cheese's that opened on August 6, 2004, located at The Centre At Salisbury, and is set to close on April 4, 2026.
 
