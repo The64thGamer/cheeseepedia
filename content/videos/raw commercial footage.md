@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/qfzNrL3TzE8"
-startdate = "2021-01-06"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-01-06"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 raw commercial footage

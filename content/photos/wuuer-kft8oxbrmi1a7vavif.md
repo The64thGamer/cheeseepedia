@@ -1,9 +1,10 @@
 +++
 title = "WUUER_kFT8OxbRmi1a7V.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Hofmann Figuren"]
-pages = ["Hofmann Monkey Show"]
+type = "Photos"
+tags = ["Hofmann Figuren", "Hofmann Monkey Show"]
+
 startDate = ""
 +++
+
 Edenlandia Variety Show (Post-Closure)

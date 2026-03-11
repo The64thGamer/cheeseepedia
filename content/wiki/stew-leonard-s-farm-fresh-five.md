@@ -1,8 +1,8 @@
 +++
 title = "Stew Leonard's Farm Fresh Five"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Advanced Animations"]
+type = "Animatronic Shows"
+tags = ["Advanced Animations"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

@@ -1,10 +1,11 @@
 +++
 title = "yrziyj50gmvdo6x8.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Showboat"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Showboat"]
+
 startDate = "1980-04-00"
 citations = [""]
 +++
+
 Showboat showtape poster.

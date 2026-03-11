@@ -6,11 +6,12 @@ endDate = "2002-12-00"
 pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Cy's Junk at School"]
 citations = ["https://archive.org/download/studio_c_showtape_dvds/December%202002%20Studio%20C.iso"]
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Mike Manly, Larry The Technician, Backup Singer 'Happy Holidays'", "Robert Gotcher - Production Manager, Backup Singer 'Happy Holidays'", "Matt Daniel - Production Coordinator, Backup Singer 'Happy Holidays'", "Eddie Coker - Lead Singer 'Happy Holidays'", "Sammy Davenport - Music Director"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese", "Annagrey Wiechman|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Mike Manly, Larry The Technician, Backup Singer 'Happy Holidays'", "Robert Gotcher|Production Manager, Backup Singer 'Happy Holidays'", "Matt Daniel|Production Coordinator, Backup Singer 'Happy Holidays'", "Eddie Coker|Lead Singer 'Happy Holidays'", "Sammy Davenport|Music Director"]
+mediaDuration = "1:07:04"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgrade.img|Studio C Floppy Disk", "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeVerB.img|Studio C Floppy Disk (Ver. B)", "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeFinal.img|Studio C Floppy Disk (Final Upgrade)", "https://archive.org/download/studio_c_showtape_dvds/December%202002%20Studio%20C.iso"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Happy Holidays 2002** is the holiday show released and played through December 2002. This show would also play in 2003 as the {{< wiki-link "Holiday 2003 Show" >}}.
 
@@ -78,7 +79,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Go Santa Go
 - Chuck E. March 2001

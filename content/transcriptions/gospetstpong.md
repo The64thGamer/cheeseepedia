@@ -1,6 +1,6 @@
 +++
 title = "The Gospel of St. Pong Revisited - Vol 4, April 1977"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["The 64th Gamer"]
 +++
 

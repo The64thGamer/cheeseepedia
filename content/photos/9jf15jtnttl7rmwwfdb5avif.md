@@ -1,9 +1,10 @@
 +++
 title = "9JF15JTnTTL7RMwwfDb5.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Confederate Critter Show"]
+type = "Photos"
+tags = ["Creative Engineering", "Confederate Critter Show"]
+
 startDate = ""
 +++
+
 alt=A black and white photo of Stonewall J. Fox

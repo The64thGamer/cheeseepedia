@@ -1,6 +1,6 @@
 +++
 title = "Chuck E. Cheese's Song ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Boy:**

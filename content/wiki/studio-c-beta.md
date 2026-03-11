@@ -1,11 +1,11 @@
 +++
 title = "Studio C Beta"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "2000-00-00"
 endDate = ""
-contributors = ["CECBowlingGreen","Destinationimagination95","ShowBizMidwest","Parum33","Rexburg090","Anonymous","Jaxon11","Anonymous","The 64th Gamer","RedaCEC","BurgersNuggs445","ChuckEPediaIsTheBest!","Pasquallytheplumber","ThatBoiCydalan","Anonymous","Anonymous","Chuckstar69","Anonymous","Cheeseclassic","CECgamer","AcTeZ","Stripes","Caydenpedia","Cy's Junk at School","Showb1zlov3r","CyberSnout","Chuckatronics","AstridMascotFan2005","Bay12","BenTrainFan2000","CEC1988","Chuck E theatre"]
+contributors = ["CECBowlingGreen","Destinationimagination95","ShowBizMidwest","Parum33","Rexburg090","Anonymous","Jaxon11","Anonymous","The 64th Gamer","RedaCEC","BurgersNuggs445","ChuckEPediaIsTheBest!","Pasquallytheplumber","ThatBoiCydalan","Anonymous","Anonymous","Chuckstar69","Anonymous","Cheeseclassic","CECgamer","AcTeZ","Stripes","Caydenpedia","Cy's Junk at School","Showb1zlov3r","Cyber Snout","Chuckatronics","AstridMascotFan2005","Bay12","BenTrainFan2000","CEC1988","Chuck E theatre"]
 citations = ["<ref></ref>","<ref></ref>","<ref></ref>","<ref></ref>","<a href=\"https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html\">https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html</a>","<a href=\"https://www.youtube.com/watch?v=5nx1BTfYDSE\">https://www.youtube.com/watch?v=5nx1BTfYDSE</a>"]
 pageThumbnailFile = "g1XE766lYTMXdsgIAOrN.avif"
 +++
@@ -14,7 +14,7 @@ pageThumbnailFile = "g1XE766lYTMXdsgIAOrN.avif"
 
 ## History
 
-Little is known about this particular variant, however, it is known that it originally replaced shows in locations with the {{< wiki-link "Concept Unification Stage" >}} in Fall 2000, although it also replaced a {{< wiki-link "Cyberamics Road Stage" >}} in {{< wiki-link "Clearwater, FL (25921 US Hwy 19)" >}} around the same time.
+Little is known about this particular variant, however, it is known that it originally replaced shows in locations with the {{< wiki-link "Concept Unification Stage" >}} in Fall 2000, although it also replaced a {{< wiki-link "Road Stage" >}} in {{< wiki-link "Clearwater, FL (25921 US Hwy 19)" >}} around the same time.
 
 ### Nomenclature
 

@@ -1,10 +1,10 @@
 +++
 title = "Evergreen2023_Floppy.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese Evergreen Show 2023"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,8 +1,8 @@
 +++
 title = "Newbie editor"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2024-02-21"
 endDate = ""
 contributors = ["Newbie editor"]

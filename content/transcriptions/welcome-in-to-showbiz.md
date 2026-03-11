@@ -1,6 +1,6 @@
 +++
 title = "Welcome In To Showbiz"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 

@@ -1,10 +1,11 @@
 +++
 title = "vdlocvmepg1uulth.avif"
 draft = false
-tags = ["Photos"]
-category = "Pizza Time Theatre"
-pages = ["Sparks, NV (530 Greenbrae Dr)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Sparks, NV (530 Greenbrae Dr)"]
+
 startDate = "0000-00-00"
-citation = ""
+citations = []
 +++
+
 Sparks Exterior

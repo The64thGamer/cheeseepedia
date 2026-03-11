@@ -1,9 +1,10 @@
 +++
 title = "_BlL_cF0k_5tVxfIGlVS.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["El Monte, CA (4567 Peck Rd)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "El Monte, CA (4567 Peck Rd)"]
+
 startDate = ""
 +++
+
 Exterior in the Early 90s

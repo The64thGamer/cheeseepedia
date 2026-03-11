@@ -1,9 +1,10 @@
 +++
 title = "h1Qpm9k351y_Nt2h6WRq.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Kooser Chuck E. Cheese (Animatronic)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Kooser Chuck E. Cheese (Animatronic)"]
+
 startDate = ""
 +++
+
 Promotional Photo, December 1978.

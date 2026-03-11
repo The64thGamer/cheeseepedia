@@ -1,8 +1,8 @@
 +++
 title = "Billy Bob Talking Walkaround"
 draft = false
-tags = ["Costumed Characters"]
-categories = ["Creative Engineering"]
+type = "Costumed Characters"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Emcaacme","Ls2018","CEC Tinley","The 64th Gamer","Stripes"]

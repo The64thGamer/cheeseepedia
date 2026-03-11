@@ -4,13 +4,14 @@ title = "Chuck E's Variety Show - Best of 1999"
 startDate = "2000-01-00"
 endDate = "2002-12-00"
 pageThumbnailFile = "uDsVmoVLrg1XCX13a2WP.avif"
-contributors = ["CyberSnout", "The 64th Gamer", "Ceclife13", "John95", "Cy's Junk at School"]
+contributors = ["Cyber Snout", "The 64th Gamer", "Ceclife13", "John95", "Cy's Junk at School"]
 citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/January%202000%20CEC-Stage-002.iso|CEC-Stage SVHS w/ Signals"]
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Larry The Technician", "Karlisa Burleson - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls", "Robert Gotcher - Production Coordinator", "Brian Hagan - Studio Manager", "Brent Gray - Studio Coordinator"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician", "Karlisa Burleson|Voice of Helen Henny", "John Bowen|Voice of Mr. Munch, Show Announcer", "Earl Fisher|Voice of Pasqually The Chef", "Jeremy Blaido|Director, Voice of Jasper T. Jowls", "Robert Gotcher|Production Coordinator", "Brian Hagan|Studio Manager", "Brent Gray|Studio Coordinator"]
+mediaDuration = "1:31:00"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio_c_showtape_dvds/January%202000%20Studio%20C-005.iso|Studio C DVD ISO (Disc 1 / 2)", "https://archive.org/download/variety-disc-3/Variety%20Disc%203.iso|Studio C DVD ISO (Disc 3)", "https://archive.org/download/cyberamics_post_93_svhs_signals/January%202000%20CEC-Stage-002.iso|Post '93 CEC-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E.'s Variety Show** was a showtape initially released in January 2000, which played normally through March 2000. This show was considered generic and could be used as a backup show until 2003.
 This show is primarily composed of material from 1997 to 1999, with a few intermissions from 1994 as well.
@@ -48,7 +49,7 @@ This show is primarily composed of material from 1997 to 1999, with a few interm
     2.  Ratings
     3.  CEC TV ID - 'Cows'
 13. **Segment 7**
-    1.  'Hip Mouse' (Parody of ['Brick House'] (https://en.wikipedia.org/wiki/Brick_House_(song)))
+    1.  'Hip Mouse' (Parody of ['Brick House'](https://en.wikipedia.org/wiki/Brick_House_(song)))
 14. **Intermission 7**
     1.  Larry The Technician - 'Curtains'
 15. **Segment 8**
@@ -90,10 +91,11 @@ This show is primarily composed of material from 1997 to 1999, with a few interm
 
 ## Live Shows:
 
-**During this time, live shows would be on separate VHS tapes for Existing Stage stores.**
+**Live shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Celebration 2000
 - Birthday Star '98
+- Spanish Birthday
 - Chuck E. March
 - Havin' A Party at Chuck E.'s Place
 - Chuck E's Fiesta Mexicana

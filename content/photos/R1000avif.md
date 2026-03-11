@@ -1,10 +1,10 @@
 +++
 title = "R1000.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Planes, Trains, And Automobiles"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

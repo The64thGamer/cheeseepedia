@@ -1,12 +1,14 @@
 +++
+
 title = "Dr. Juke"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronic Control Systems"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Mousester","Himitsu"]
 citations = []
+pageThumbnailFile = "BHagebtmafWeBZpjN4wg.avif"
 +++
 ***Dr. Juke* was a prototype {{< wiki-link "Show Selector" >}} concept created by *Creative Engineering* in 1983 that tested the use of showtapes on LaserDisc, and a touchscreen video interface.
 The concept would implement two major changes to a *Rock-afire Explosion* stage; It would provide a video touchscreen device in front of the stage as an upgraded Show Selector, and it would replace the {{< wiki-link "CEI 4-Track Reel" >}} showtape format and tape deck with a LaserDisc player.**

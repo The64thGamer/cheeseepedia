@@ -1,10 +1,10 @@
 +++
 title = "Prototype_New_Rockafirre.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

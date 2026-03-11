@@ -1,8 +1,8 @@
 +++
 title = "WKMG Creative Engineering Spot (1976)"
 draft = false
-tags = ["News Footage"]
-categories = ["Creative Engineering"]
+type = "News Footage"
+tags = ["Creative Engineering"]
 startDate = "1976-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

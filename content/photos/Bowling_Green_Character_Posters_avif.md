@@ -1,10 +1,10 @@
 +++
 title = "Bowling_Green_Character_Posters_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

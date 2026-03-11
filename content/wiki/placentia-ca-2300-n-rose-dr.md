@@ -1,4 +1,5 @@
 +++
+
 title = "Placentia, CA (2300 N Rose Dr)"
 storeNumber = ""
 startDate = "1991-09-24"
@@ -13,8 +14,8 @@ latitudeLongitude = ["33.90360777","-117.8430587"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "sVKeydtYQjZtpyzzG7ij.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

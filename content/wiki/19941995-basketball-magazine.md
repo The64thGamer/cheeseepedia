@@ -1,11 +1,11 @@
 +++
 title = "1994/1995 Basketball (Magazine)"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 startDate = "1994-00-00"
 endDate = "0000-00-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = []
 +++
 The ***Basketball magazine poster* was released in stores in 1994 and 1995 alongside numerous other magazine posters.**

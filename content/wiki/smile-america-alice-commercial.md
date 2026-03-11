@@ -1,8 +1,8 @@
 +++
 title = "Smile America - 'Alice' (Commercial)"
 draft = false
-tags = ["Commercials"]
-categories = ["Pizza Time Theatre"]
+type = "Commercials"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Maddox121","BurgersNuggs445"]

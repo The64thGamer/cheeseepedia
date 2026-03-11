@@ -6,8 +6,8 @@ endDate = "2007-11-30"
 pageThumbnailFile = "hokeypokeyliveshow2004.avif"
 contributors = ["Ceclife13"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch, Show Announcer", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 ***'Hokey Pokey'*** was a road show which was first released in April 2004 on the {{< wiki-link "Road Show 2004" >}} CD and played through December 31, 2004. It would then return with the {{< wiki-link "Road Show 2007" >}} CD in January 2007, which played until November 30, 2007. 
 

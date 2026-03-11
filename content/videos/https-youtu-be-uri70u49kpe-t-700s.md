@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/UrI70U49KpE&t=700s"
-startdate = "1998-01-19"
-pages = ["San Jose (Tully), CA (2445 Fontaine Rd)", "2-Stage"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "1998-01-19"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "San Jose (Tully), CA (2445 Fontaine Rd)", "2-Stage"]
 +++
+
 Children playing games and some footage of Fontaine's 2-Stage.

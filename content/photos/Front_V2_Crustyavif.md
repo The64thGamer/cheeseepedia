@@ -1,10 +1,10 @@
 +++
 title = "Front_V2_Crusty.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Winchester Crusty the Cat V2 (Animatronic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,9 +1,10 @@
 +++
 title = "yUw826QqnMYOJuys_1Ow.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
-pages = ["Untitled Dinosaur Show"]
+type = "Photos"
+tags = ["Creative Presentations", "Untitled Dinosaur Show"]
+
 startDate = ""
 +++
+
 The Hadrosaurid CPI was working on for the show.

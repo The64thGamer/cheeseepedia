@@ -1,8 +1,8 @@
 +++
 title = "Dr. Dux Diagnostic King"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1981-07-01"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","NoName2000"]

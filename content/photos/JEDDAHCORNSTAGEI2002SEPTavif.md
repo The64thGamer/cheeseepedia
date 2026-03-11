@@ -1,10 +1,10 @@
 +++
 title = "JEDDAHCORNSTAGEI2002SEPT.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

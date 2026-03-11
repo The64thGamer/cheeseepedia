@@ -1,6 +1,6 @@
 +++
 title = "Disco Birthday"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Helen Henny:**

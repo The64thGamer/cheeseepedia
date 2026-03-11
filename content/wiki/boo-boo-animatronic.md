@@ -1,12 +1,12 @@
 +++
 title = "Boo Boo (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronics"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "m7dJrLi4GybLImBFQ9Go.avif"
 startDate = "1987-09-00"
 endDate = "1987-11-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["https://www.showbizpizza.com/info/documents/spt/spt_yogi_cpi-quote.pdf","https://www.showbizpizza.com/info/documents/spt/spt_adp-binder.pdf","https://www.showbizpizza.com/info/documents/spt/spt_yogi_installation.pdf","https://www.newspapers.com/article/omaha-world-herald/114529089/","https://www.showbizpizza.com/info/documents/spt/spt_yogi_design.pdf"]
 +++
 

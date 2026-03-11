@@ -1,9 +1,10 @@
 +++
 title = "7ciKHvSbhVYxicT7DL9d.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Country (PTT Theme)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Country (Balcony Stage Theme)"]
+
 startDate = ""
 +++
+
 Costumes paired with Broadway backdrop shown here.

@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/O4kJZQSpzBQ"
-startdate = "2008-00-00"
-pages = ["San Antonio, TX (6874 Ingram Rd)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "2008-00-00"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "San Antonio, TX (6874 Ingram Rd)"]
 +++
+
 Holiday 1993 show played at San Antonio, TX (6874 Ingram Rd) with a decorated stage. 

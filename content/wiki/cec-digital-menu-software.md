@@ -1,8 +1,8 @@
 +++
 title = "CEC Digital Menu Software"
 draft = false
-tags = ["Other Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Other Systems"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "2018-00-00"
 endDate = ""

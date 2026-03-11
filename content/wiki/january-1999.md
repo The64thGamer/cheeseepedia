@@ -4,13 +4,14 @@ title = "January 1999"
 startDate = "1999-01-00"
 endDate = "1999-03-00"
 pageThumbnailFile = "nBYRzh1KZihIiTt4QyTm.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "CEC Illinois", "Ceclife13", "BurgersNuggs445", "RedaCEC", "Anonymous", "Ceclife13"]
+contributors = ["The 64th Gamer", "Cyber Snout", "CEC Illinois", "Ceclife13", "BurgersNuggs445", "RedaCEC", "Anonymous", "Ceclife13"]
 citations = ["https://archive.org/download/cyberamics_post_93_svhs_signals/January%201999%20CEC-Stage-005.iso"]
-credits = ["Duncan Brannan - Voice of Chuck E. Cheese, Mr. Munch, Pasqually The Chef", "Annagrey Weichman - Singing Voice of Helen Henny", "Karlisa Burleson - Voice of Helen Henny, Marsha", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Roger, Show Announcer", "Robert Gotcher - Production Coordinator", "Brian Hagan - Studio Manager", "Brent Gray - Studio Coordinator", "Sammy Davenport - Music Director", "Stokes Group - Video Editing"]
+credits = ["Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch, Pasqually The Chef", "Annagrey Wiechman|Singing Voice of Helen Henny", "Karlisa Burleson|Voice of Helen Henny, Marsha", "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Roger, Show Announcer", "Robert Gotcher|Production Coordinator", "Brian Hagan|Studio Manager", "Brent Gray|Studio Coordinator", "Sammy Davenport|Music Director", "Stokes Group|Video Editing"]
+mediaDuration = "1:17:48"
 showtapeFormats = ["Studio C 4x Laserdisc + Files", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/cyberamics_post_93_svhs_signals/January%201999%20CEC-Stage-005.iso|CEC-Stage SVHS w/ Signals", "https://archive.org/download/3stage_post_93_svhs_signals/January%201999%203-Stage-005.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **January 1999 (Terrific Time Travel)** was released in January 1999 and ran until April 1999.
 This show featured five segments, each themed around a different decade from the second half of the 20th century.
@@ -50,7 +51,7 @@ This show featured five segments, each themed around a different decade from the
 
 ## Live Shows:
 
-**During this time, live shows would be on separate VHS tapes for Existing Stage stores.**
+**Live shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Birthday Star 95'
 - Lean On Me
@@ -69,14 +70,6 @@ This show featured five segments, each themed around a different decade from the
 
 Rockin' Robin was filmed at the [Fort Worth Zoo](https://www.fortworthzoo.org/).
 
-### Credits
-
-- Brian Hagan & Brent Gray - Show Programmer
-- Stokes Group - Video Editing
-- Duncan Brannan - Chuck E. Cheese, Mr. Munch, & Pasqually Voice Actor
-- Karisa McKinney - Helen Henny Voice Actress
-- Jeremy Blaido - Director & Jasper T. Jowls Voice Actor
-- Sammy Davenport - Music Director
 
 ## Trivia:
 

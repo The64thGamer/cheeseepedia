@@ -1,9 +1,10 @@
 +++
 title = "AfUtBuhhJGBvnZMcgy_S.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Cheese E. Street"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cheese E. Street"]
+
 startDate = ""
 +++
+
 Taken from an article on the Danvers Pizza Time Theatre.

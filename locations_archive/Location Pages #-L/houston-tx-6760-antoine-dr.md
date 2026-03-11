@@ -37,7 +37,7 @@ Houston, TX (Antoine) opened on July 15th, 1981 as part of the center it was in.
 - Tower of Power
 - Barrel of Fun
 - Chuck E. Cheese's Kooky Konga
-- {{< wiki-link "Chuck E Cheese Roll" >}} (6 units)
+- {{< wiki-link "Chuck E. Cheese Roll" >}} (6 units)
 
 ## Animatronics
 

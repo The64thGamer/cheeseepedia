@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 4 2020"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2020-11-03"
 endDate = "2021-1-03"
-contributors = ["The 64th Gamer","CyberSnout","Himitsu"]
+contributors = ["The 64th Gamer","Cyber Snout","Himitsu"]
 citations = []
 pageThumbnailFile = "d1EpVQsJE3ZTiIqUOTpM.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]

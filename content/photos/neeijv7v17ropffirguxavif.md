@@ -1,9 +1,10 @@
 +++
 title = "neeIjv7v17rOpffIRGux.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Best of CEC TV 2008"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Best of CEC TV 2008"]
+
 startDate = ""
 +++
+
 Studio C DVD

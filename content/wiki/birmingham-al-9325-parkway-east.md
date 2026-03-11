@@ -1,4 +1,5 @@
 +++
+
 title = "Birmingham (Roebuck), AL (9325 Parkway East)"
 storeNumber = ""
 startDate = "1983-05-09"
@@ -13,8 +14,8 @@ latitudeLongitude = ["33.58864902","-86.69774538"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "Roebuck2007.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

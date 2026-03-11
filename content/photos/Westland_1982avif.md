@@ -1,10 +1,10 @@
 +++
 title = "Westland_1982.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Westland, MI (208 S Wayne Rd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

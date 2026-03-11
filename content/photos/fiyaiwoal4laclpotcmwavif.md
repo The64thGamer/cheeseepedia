@@ -1,9 +1,10 @@
 +++
 title = "fIyAiWoAl4LaclpoTCmW.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Cyberamics Tester"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cyberamics Tester"]
+
 startDate = ""
 +++
+
 Depth (8.5 in)

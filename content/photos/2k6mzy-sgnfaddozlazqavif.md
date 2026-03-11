@@ -1,9 +1,10 @@
 +++
 title = "2k6MZy_sgnfaddOZlazQ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Deptford, NJ (1500 Almonesson Rd)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Deptford, NJ (1500 Almonesson Rd)"]
+
 startDate = ""
 +++
+
 Deptford's 2.0 Exterior (2023) (PC: John Meeser)

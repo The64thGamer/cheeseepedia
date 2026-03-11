@@ -1,8 +1,8 @@
 +++
 title = "Family Vision 503"
 draft = false
-tags = ["Family Vision"]
-categories = ["ShowBiz Pizza Place"]
+type = "Family Vision"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","DerekCat"]

@@ -1,9 +1,10 @@
 +++
 title = "oA579xS4l7sZR9MNpdb7.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Louisville, KY (5743 Preston Hwy)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Louisville, KY (5743 Preston Hwy)"]
+
 startDate = ""
 +++
+
 C-Stage (1990s)

@@ -1,10 +1,10 @@
 +++
 title = "GO1ACassetteNoCase.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Gee, Our 1st Album Cassette (1982)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

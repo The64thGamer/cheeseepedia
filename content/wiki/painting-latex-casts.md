@@ -1,8 +1,8 @@
 +++
 title = "Painting Latex Casts"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = [""]
+type = "Animatronic Preservation"
+tags = [""]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

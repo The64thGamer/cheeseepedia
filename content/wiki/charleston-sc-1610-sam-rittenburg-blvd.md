@@ -1,4 +1,5 @@
 +++
+
 title = "Charleston, SC (1610 Sam Rittenburg Blvd)"
 storeNumber = ""
 startDate = "1982-09-20"
@@ -13,8 +14,8 @@ latitudeLongitude = ["32.80614282","-80.01223243"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "U5l1K1T6anWeca1YjFD9.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

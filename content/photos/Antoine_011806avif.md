@@ -1,10 +1,10 @@
 +++
 title = "Antoine_011806.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

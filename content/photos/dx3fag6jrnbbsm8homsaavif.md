@@ -1,9 +1,10 @@
 +++
 title = "Dx3fAG6jRNbbsM8HOmsA.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Bear Country Jubilee"]
+type = "Photos"
+tags = ["Creative Engineering", "Bear Country Jubilee"]
+
 startDate = ""
 +++
+
 Boom Boom Bosco

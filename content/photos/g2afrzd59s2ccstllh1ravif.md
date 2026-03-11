@@ -1,9 +1,10 @@
 +++
 title = "g2AfRZd59s2CcsTLLH1R.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
-pages = ["Gigglebee's"]
+type = "Photos"
+tags = ["Unknown Manufacturers", "Gigglebee's"]
+
 startDate = ""
 +++
+
 Gigglebee's name change announcement

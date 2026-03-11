@@ -1,9 +1,9 @@
 +++
 title = "20221008003306!Chuckepedialogo.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Cheese-E-Pedia"]
 startDate = ""
 draft = false
-pages = ["Cheese-E-Pedia"]
+
 citations = []
 +++

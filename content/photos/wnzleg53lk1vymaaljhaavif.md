@@ -1,8 +1,8 @@
 +++
 title = "WnzleG53lK1vYMAaLjhA.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Doha (Lusail), Qatar"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Doha (Lusail), Qatar"]
+
 startDate = ""
 +++

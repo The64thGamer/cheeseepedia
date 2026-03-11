@@ -1,9 +1,10 @@
 +++
 title = "4VgZGq4mTTRie_C_TtUr.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Sun (Animatronic)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Sun (Animatronic)"]
+
 startDate = ""
 +++
+
 Alternative paint Building prototype.

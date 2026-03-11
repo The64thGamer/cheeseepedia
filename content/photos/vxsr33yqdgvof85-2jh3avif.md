@@ -1,9 +1,10 @@
 +++
 title = "VXsr33YQDgVof85_2JH3.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["September 2000 Show"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "September 2000 Show"]
+
 startDate = ""
 +++
+
 CEC-Stage SVHS

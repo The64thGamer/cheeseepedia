@@ -1,10 +1,10 @@
 +++
 title = "Name_That_Cheese_Poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

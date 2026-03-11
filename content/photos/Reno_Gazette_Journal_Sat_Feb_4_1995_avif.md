@@ -1,10 +1,10 @@
 +++
 title = "Reno_Gazette_Journal_Sat_Feb_4_1995_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

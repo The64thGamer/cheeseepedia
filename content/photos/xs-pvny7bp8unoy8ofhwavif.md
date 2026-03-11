@@ -1,9 +1,10 @@
 +++
 title = "XS_PvNY7Bp8UNOy8ofHW.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["December 2009 Show"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "December 2009 Show"]
+
 startDate = ""
 +++
+
 3-Stage DVD Scan

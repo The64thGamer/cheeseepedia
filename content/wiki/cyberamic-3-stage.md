@@ -1,11 +1,11 @@
 +++
 title = "Cyberamic 3-Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "2000-00-00"
 endDate = "2023-07-23"
-contributors = ["CECBowlingGreen","Shmigobuff","Anonymous","The 64th Gamer","ChuckEPediaIsTheBest!","Rexburg090","Jacouby","Anonymous","Anonymous","ThatBoiCydalan","Harchambeault2026","AstridMascotFan2005","CyberSnout"]
+contributors = ["CECBowlingGreen","Shmigobuff","Anonymous","The 64th Gamer","ChuckEPediaIsTheBest!","Rexburg090","Jacouby","Anonymous","Anonymous","ThatBoiCydalan","Harchambeault2026","AstridMascotFan2005","Cyber Snout"]
 citations = []
 +++
 

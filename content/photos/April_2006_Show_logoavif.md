@@ -1,10 +1,10 @@
 +++
 title = "April_2006_Show_logo.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

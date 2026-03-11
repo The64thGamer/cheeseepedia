@@ -1,8 +1,8 @@
 +++
 title = "Rock-afire Re-furring Characters"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = [""]
+type = "Animatronic Preservation"
+tags = [""]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

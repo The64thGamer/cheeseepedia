@@ -1,10 +1,10 @@
 +++
 title = "Cecjar.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["CEC 20th Anniversary Cookie Jar (1997)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

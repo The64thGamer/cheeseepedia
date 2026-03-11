@@ -17,6 +17,6 @@ stages = ["Classic Stage|1984-08-30|1998-00-00", "Studio C Alpha (1997)|1998-00-
 downloadLinks = []
 alsoKnownAs = ["West Mesa"]
 latitudeLongitude = ["0", "0"]
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 +++

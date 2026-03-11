@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/bzg1gb9YXxo"
-startdate = "2021-05-02"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-05-02"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 ReminaProd - Rock afire Replay Show Compilation

@@ -1,10 +1,10 @@
 +++
 title = "Princeton_blue_screen.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

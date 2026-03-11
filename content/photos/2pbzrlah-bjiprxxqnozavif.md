@@ -1,9 +1,10 @@
 +++
 title = "2PBZRlah_bJIprxxQnoZ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Dolli Dimples II"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Dolli Dimples II"]
+
 startDate = ""
 +++
+
 Tape label

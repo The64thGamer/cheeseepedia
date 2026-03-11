@@ -1,10 +1,11 @@
 +++
 recommend = false
 title = "AI Slop"
-startdate = "2025-11-09"
+startDate = "2025-11-09"
 page = "Chuck E. Cheese Adventure World"
 contributors = ["The 64th Gamer"]
-tags = ["Reviews"]
+type = "Reviews"
+tags = ["User-Generated Content"]
 +++
 A disappointing venture with no soul. The entire building is full of AI Slop and garbage with no creativity, just the brand's IP slapped across random themes relating to 'adventure'. The brand has no artistry or care for making their experience magical, just whatever was the bare minimum to open a restaurant.
 

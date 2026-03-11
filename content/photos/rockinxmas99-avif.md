@@ -1,7 +1,8 @@
 +++
 title = "rockinxmas99.avif"
-pages = ["Rockin' Christmas Eve Live!"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Rockin' Christmas Eve Live!"]
 +++
+
 Screenshot of "Rockin' Christmas Eve" live show

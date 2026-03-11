@@ -6,8 +6,8 @@ endDate = "0000-00-00"
 pageThumbnailFile = "2Ak5tOPNqzkA5JbkWPRl.avif"
 contributors = ["Saan1ty", "ruby4ruby"]
 citations = ["https://www.youtube.com/watch?v=Tr1-muBNtRQ"]
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 +++
 
 The Flag Wavers were prop animatronics installed in Pizza Time Theatre locations throughout the 1980s, generally found on the {{< wiki-link "Cyberamics Portrait Shelf Stage" >}} and {{< wiki-link "Cyberamics Balcony Stage" >}} Throughout the 1980s, they would be largely produced by Riordan Co., who would also manufacture {{< wiki-link "Jasper T. Jowls (Cyberamic)" >}}'s banjo, and a later version of Artie Antlers' antlers. They would occasionally be found around the {{< wiki-link "Chuck E's House" >}}, {{< wiki-link "Chuck E's House Facade" >}} and on a couple {{< wiki-link "San Antonio, TX (8220 Windsor Cross)" >}}{{< wiki-link "Anchorage, AK (308 E Northern Lights Blvd)" >}}, too, as leftovers from the previously stated stages. The last location to have flags was the {{< wiki-link "Simi Valley, CA (71 Tierra Rejada Rd)" >}} location, which closed in May 2008.

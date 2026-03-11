@@ -1,8 +1,8 @@
 +++
 title = "Ronald McDonald in a Hot Air Balloon"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Setmakers","AVG Technologies"]
+type = "Animatronic Shows"
+tags = ["Setmakers","AVG Technologies"]
 startDate = "1984-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

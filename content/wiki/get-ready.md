@@ -1,8 +1,8 @@
 +++
 title = "Get Ready"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 startDate = "1997-04-01"
 endDate = "1997-08-04"
 contributors = ["StudioC"]

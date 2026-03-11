@@ -1,8 +1,8 @@
 +++
 title = "vnyJ0qStitDKBjsum6CM.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["CEC Manager Beige Long-Sleeve Shirt (Avenger)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "CEC Manager Beige Long-Sleeve Shirt (Avenger)"]
+
 startDate = ""
 +++

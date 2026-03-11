@@ -1,10 +1,10 @@
 +++
 title = "Maxell_UD_Inside.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Cyberamics Reel"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

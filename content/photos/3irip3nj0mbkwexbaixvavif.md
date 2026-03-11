@@ -1,9 +1,10 @@
 +++
 title = "3Irip3nj0MBkWExBaIXv.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Ocala, FL (3500 SW College Rd)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Ocala, FL (3500 SW College Rd)"]
+
 startDate = ""
 +++
+
 Blueprints during remodel, 2021

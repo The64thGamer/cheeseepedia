@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "DerekCat"]
 citations = ["https://www.youtube.com/watch?v=zL17F10EC1I"]
 showtapeFormats = ["ShowBiz SVHS"]
 alsoKnownAs = ["260-1206-90 (C) S.P.T. Inc. SPP BEST OF #2/WAVE BDAY Serial #00138 Deck - 3 12/06/90 - Master CYBERSTAR"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 transcriptions = ["Olympics Show"]
 +++
 ***SPP Best Of 2 / Wave Bday* is one of the last few showtapes released for *ShowBiz Pizza Place's*

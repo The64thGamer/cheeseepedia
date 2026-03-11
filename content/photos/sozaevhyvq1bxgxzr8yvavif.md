@@ -1,9 +1,10 @@
 +++
 title = "sozaEVHYvQ1BxgxZr8yV.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["Sayville, NY (5750 Sunrise Highway 11782)"]
+type = "Photos"
+tags = ["", "Sayville, NY (5750 Sunrise Highway 11782)"]
+
 startDate = ""
 +++
+
 A photo of the mega maze

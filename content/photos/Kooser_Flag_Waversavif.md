@@ -1,10 +1,10 @@
 +++
 title = "Kooser_Flag_Wavers.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Kooser Flag Wavers (Animatronic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

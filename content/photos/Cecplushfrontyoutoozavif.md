@@ -1,10 +1,10 @@
 +++
 title = "Cecplushfrontyoutooz.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["YouTooz Classic Chuck E. Cheese Plush"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,9 +1,10 @@
 +++
 title = "5I_eT5urB2L6SDjw0W0L.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Chicago, IL (1830 W Fullerton Ave)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Chicago, IL (1830 W Fullerton Ave)"]
+
 startDate = ""
 +++
+
 Gameroom October 2022

@@ -1,10 +1,10 @@
 +++
 title = "COL-ControlTouchPanel-2018.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Circles of Light"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,9 +1,10 @@
 +++
 title = "wdJQzMda6RpPkLHkWXqY.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
-pages = ["Gigglebee's"]
+type = "Photos"
+tags = ["Unknown Manufacturers", "Gigglebee's"]
+
 startDate = ""
 +++
+
 Ad to be a voice actor for Wilbur at Pizza Peddler

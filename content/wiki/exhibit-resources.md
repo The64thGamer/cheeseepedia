@@ -1,8 +1,8 @@
 +++
 title = "Exhibit Resources"
 draft = false
-tags = ["History"]
-categories = ["Sally Corporation"]
+type = "History"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

@@ -1,10 +1,10 @@
 +++
 title = "CECcolerain047.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Memory Match"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "OIP.jpg_3216.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

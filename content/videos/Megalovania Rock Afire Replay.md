@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/DaVTivvcKPE"
-startdate = "2021-03-10"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-03-10"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Megalovania Rock Afire Replay

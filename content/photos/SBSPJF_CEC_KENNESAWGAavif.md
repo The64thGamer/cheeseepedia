@@ -1,10 +1,10 @@
 +++
 title = "SBSPJF_CEC_KENNESAWGA.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Kennesaw, GA (824 Earnest W Barrett Pkwy)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

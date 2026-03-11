@@ -1,8 +1,8 @@
 +++
 title = "1991 Chuck E. Cheese Puppet 2"
 draft = false
-tags = ["Puppets"]
-categories = [""]
+type = "Puppets"
+tags = [""]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

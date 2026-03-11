@@ -1,9 +1,10 @@
 +++
 title = "YMgdsVnhetQ4OXJnysD0.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Winchester Crusty the Cat V2 (Animatronic)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Winchester Crusty the Cat V2 (Animatronic)"]
+
 startDate = ""
 +++
+
 2021

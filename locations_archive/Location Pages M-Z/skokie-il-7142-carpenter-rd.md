@@ -23,7 +23,7 @@ Skokie opened on August 20, 1991, with one of two Road Stages in Illinois, the o
 
 | Stage                                                        | Installed   | Removed      | Notes                                        |
 |--------------------------------------------------------------|-------------|--------------|----------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}              | August 1991 | 1994         | One of two Road Stages installed in Illinois |
+| {{< wiki-link "Road Stage" >}}              | August 1991 | 1994         | One of two Road Stages installed in Illinois |
 | {{< wiki-link "2-Stage" >}}                            | 1994        | 2019         | One of five 2-Stages installed in Illinois.  |
 | \|{{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | 2019        | Still In Use | 2019 Model.                                  |
 

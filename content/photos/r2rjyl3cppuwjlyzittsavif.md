@@ -1,9 +1,10 @@
 +++
 title = "R2RJyl3cPPuwJLYZItts.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["New Fandom Member FAQ"]
+type = "Photos"
+tags = ["", "New Fandom Member FAQ"]
+
 startDate = ""
 +++
+
 frameless

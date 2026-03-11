@@ -1,4 +1,5 @@
 +++
+
 title = "Richmond, VA (10430 Midlothian Turnpike)"
 storeNumber = ""
 startDate = "1990-05-01"
@@ -13,8 +14,8 @@ latitudeLongitude = ["37.50710342","-77.59033978"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "KAjoglaX7_jV6umNYARq.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

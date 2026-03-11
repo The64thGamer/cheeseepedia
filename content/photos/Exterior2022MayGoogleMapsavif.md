@@ -1,10 +1,10 @@
 +++
 title = "Exterior2022MayGoogleMaps.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

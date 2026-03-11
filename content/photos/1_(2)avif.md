@@ -1,10 +1,10 @@
 +++
 title = "1_(2).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Studio C Tech Term"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

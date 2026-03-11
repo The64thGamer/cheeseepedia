@@ -1,9 +1,10 @@
 +++
 title = "miAlXie7BG4DSZba61Pg.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Orem, UT (40 E Center St)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Orem, UT (40 E Center St)"]
+
 startDate = ""
 +++
+
 Chuck E. Animatronic

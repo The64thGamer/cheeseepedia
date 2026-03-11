@@ -1,6 +1,6 @@
 +++
 title = "Hot Rod Songs"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[Bandstand Jingle]**

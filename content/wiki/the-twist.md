@@ -1,8 +1,8 @@
 +++
 title = "The Twist"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 startDate = "1997-08-05"
 endDate = "1997-11-27"
 contributors = ["StudioC","The 64th Gamer"]

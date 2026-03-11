@@ -3,11 +3,11 @@ title = "Chuck E. Cheese Legacy Halloween Boo-Tacular 2025 Show"
 startDate = "2025-09-29"
 endDate = "2025-11-02"
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Legacy Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Halloween Boo-Tacular 2025 Show** was the fall show released on September 29, 2025. This was created in conjunction with the Halloween Boo-Tacular promotion. This would play from opening - 6 pm, when it would switch over to ‘DJ Munch's Haunted House Party Show’
 

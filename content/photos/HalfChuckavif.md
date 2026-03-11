@@ -1,10 +1,10 @@
 +++
 title = "HalfChuck.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Half-A-Chuck (Cyberamic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

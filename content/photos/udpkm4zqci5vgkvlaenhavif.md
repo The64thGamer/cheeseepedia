@@ -1,9 +1,10 @@
 +++
 title = "uDPkM4zqci5VgKVLaENh.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Cyberamics"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cyberamics"]
+
 startDate = ""
 +++
+
 [[Cyberamics Balcony Stage]] (Years installed: May 1980 to January 1986) (Now retired)

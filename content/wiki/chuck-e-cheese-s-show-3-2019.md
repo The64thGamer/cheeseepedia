@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 3 2019"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2019-07-01"
 endDate = "2019-9-01"
-contributors = ["The 64th Gamer","CyberSnout","Bowling for Cheese","John95","Anonymous","YoyoandRonnie"]
+contributors = ["The 64th Gamer","Cyber Snout","Bowling for Cheese","John95","Anonymous","YoyoandRonnie"]
 citations = []
 pageThumbnailFile = "U6FajdXvHM3uOV7c5e1z.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]

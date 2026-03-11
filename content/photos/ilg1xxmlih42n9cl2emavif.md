@@ -1,9 +1,10 @@
 +++
 title = "_ilG1XXmlIh42n9cL2eM.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Chuck E's Rockin' Rhymes"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Chuck E's Rockin' Rhymes"]
+
 startDate = ""
 +++
+
 3-Stage Front SVHS (Target Drive Store)

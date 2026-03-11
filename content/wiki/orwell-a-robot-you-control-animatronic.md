@@ -1,11 +1,11 @@
 +++
 title = "Orwell: A Robot You Control (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronics"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
-contributors = ["PizzaEntertainmentFanX"]
+contributors = ["Pizza Entertainment Fan"]
 citations = []
 unitsProduced = "1"
 manufacturer = "ShowBiz Pizza Time Inc."

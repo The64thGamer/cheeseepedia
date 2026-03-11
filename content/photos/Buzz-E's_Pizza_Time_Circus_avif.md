@@ -1,10 +1,10 @@
 +++
 title = "Buzz-E's_Pizza_Time_Circus_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

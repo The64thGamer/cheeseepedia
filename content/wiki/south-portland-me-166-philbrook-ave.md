@@ -1,4 +1,5 @@
 +++
+
 title = "South Portland, ME (166 Philbrook Ave)"
 storeNumber = ""
 startDate = "2002-12-17"
@@ -13,8 +14,8 @@ latitudeLongitude = ["43.62920157","-70.33297378"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "6W0zS_FmJVEHgiq2YJWT.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

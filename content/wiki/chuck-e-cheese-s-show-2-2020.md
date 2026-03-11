@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 2 2020"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2020-06-23"
 endDate = "2020-8-31"
-contributors = ["The 64th Gamer","CyberSnout","Himitsu","Mousester"]
+contributors = ["The 64th Gamer","Cyber Snout","Himitsu","Mousester"]
 citations = ["https://www.instagram.com/p/B8rbpKtnRzH/","https://www.instagram.com/p/B8rbpKtnRzH/"]
 pageThumbnailFile = "eQ5zVcW80pr1tPy5FVqK.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]

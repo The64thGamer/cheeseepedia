@@ -1,10 +1,11 @@
 +++
 title = "UE0xt03u8pTcoHppTzo3.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Cincinnati, OH (8801 Colerain Ave)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Cincinnati, OH (8801 Colerain Ave)"]
+
 startDate = "2010-00-00"
 citations = ["https://archive.org/details/CEC_Colerain_Photos/CECcolerain118.JPG/"]
 +++
+
 Ticket Blaster (Spring 2010)

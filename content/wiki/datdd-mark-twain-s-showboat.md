@@ -1,8 +1,8 @@
 +++
 title = "DATDD Mark Twain's Showboat"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Sally Corporation"]
+type = "Stage Variations"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

@@ -2,7 +2,6 @@
 title = "GCC's Summer Movie Camp (Commercial)"
 draft = false
 tags = []
-categories = []
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

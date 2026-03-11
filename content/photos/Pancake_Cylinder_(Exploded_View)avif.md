@@ -1,10 +1,10 @@
 +++
 title = "Pancake_Cylinder_(Exploded_View).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

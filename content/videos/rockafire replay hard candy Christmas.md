@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/owu_WwXEa3A"
-startdate = "2021-11-21"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-11-21"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 rockafire replay hard candy Christmas

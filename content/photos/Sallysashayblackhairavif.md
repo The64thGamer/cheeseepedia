@@ -1,10 +1,10 @@
 +++
 title = "Sallysashayblackhair.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Sally Sashay"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

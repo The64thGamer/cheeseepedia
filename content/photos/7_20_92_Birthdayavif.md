@@ -1,10 +1,10 @@
 +++
 title = "7_20_92_Birthday.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

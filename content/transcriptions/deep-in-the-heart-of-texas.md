@@ -1,6 +1,6 @@
 +++
 title = "Deep in the Heart of Texas"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Harmony Howlette:**

@@ -4,11 +4,11 @@ title = "Chuck E. Cheese Evergreen Show 2024 (July Update) 3-Stage Legacy"
 startDate = "2024-07-29"
 endDate = "2024-09-29"
 pageThumbnailFile = "qOY3HuNWzWpH1_Gniu4i.avif"
-contributors = ["CyberSnout", "AstridMascotFan2005", "Dame0824", "Cheeseclassic"]
+contributors = ["Cyber Snout", "AstridMascotFan2005", "Dame0824", "Cheeseclassic"]
 citations = ["CEC Navori Player"]
 showtapeFormats = ["Legacy 3-Stage Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Evergreen 2024 (July Update)*** was the generic show released on July 29, 2024 and played until September 9, 2024. It features 'Every Boy, Every Girl' and 'Most Perfect Day'.
 

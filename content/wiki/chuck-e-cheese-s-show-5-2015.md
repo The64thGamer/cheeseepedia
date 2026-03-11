@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 5 2015"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2015-08-10"
 endDate = "2015-9-27"
-contributors = ["The 64th Gamer","CyberSnout","Anonymous","YoyoandRonnie"]
+contributors = ["The 64th Gamer","Cyber Snout","Anonymous","YoyoandRonnie"]
 citations = []
 pageThumbnailFile = "KXyUIeY8OsNmb7JvIiq1.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]

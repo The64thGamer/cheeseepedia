@@ -1,9 +1,10 @@
 +++
 title = "tTWr_eS7fgS6XxziKDk8.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Crazy Colander Head Night (Event)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Crazy Colander Head Night (Event)"]
+
 startDate = ""
 +++
+
 Letter from Bob Brock (March 23, 1983)

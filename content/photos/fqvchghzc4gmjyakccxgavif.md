@@ -1,9 +1,10 @@
 +++
 title = "FqvchgHZc4gMjYAkcCxg.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["September 2010 Show"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "September 2010 Show"]
+
 startDate = ""
 +++
+
 CEC-Stage DVD

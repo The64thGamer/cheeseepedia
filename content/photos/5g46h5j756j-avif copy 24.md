@@ -1,8 +1,9 @@
 +++
 title = "ydfghjrtjt.avif"
-startdate = "2025-08-11"
-pages = ["1978 Chuck E. Cheese Halloween Mask"]
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+startDate = "2025-08-11"
+
+type = "Photos"
+tags = ["Pizza Time Theatre", "1978 Chuck E. Cheese Halloween Mask"]
 +++
+
 Chuck E. Cheese Halloween mask from 1979.

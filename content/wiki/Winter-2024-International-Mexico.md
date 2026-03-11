@@ -3,11 +3,11 @@ title = "Chuck E. Cheese Winter 2024 International (Mexico)"
 startDate = "2024-11-04"
 endDate = "2025-01-12"
 pageThumbnailFile = "winter2024int.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Media Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Winter 2024 International (Mexico)** was released on November 4, 2024 and ran until January 12, 2025.
 

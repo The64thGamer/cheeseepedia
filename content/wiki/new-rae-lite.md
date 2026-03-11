@@ -1,11 +1,11 @@
 +++
 title = "New RAE Lite"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Creative Engineering"]
+type = "Stage Variations"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = ""
-contributors = ["GallaRBX2"]
+contributors = ["GallaRM"]
 citations = []
 pageThumbnailFile = "NESn0iGjIZzghxh5UGhA.avif"
 +++

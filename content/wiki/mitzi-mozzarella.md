@@ -1,8 +1,8 @@
 +++
 title = "Mitzi Mozzarella"
 draft = false
-tags = ["Characters"]
-categories = ["ShowBiz Pizza Place"]
+type = "Characters"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1980-00-00"
 endDate = ""
 contributors = ["CECMentor","The 64th Gamer"]

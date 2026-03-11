@@ -1,8 +1,8 @@
 +++
 title = "PTT Show Selector"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Control Systems"
+tags = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

@@ -1,6 +1,6 @@
 +++
 title = "Showbiz to CEC ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese:**

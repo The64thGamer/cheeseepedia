@@ -5,7 +5,7 @@ startDate = "1979-12-20"
 endDate = "1984-00-00"
 cuDate = ""
 remodels = ["PTT Standard Layout|1979-12-20"]
-stages = ["Cyberamics Portrait / Shelf Stage|1979-10-00|1982-05-00|2-Wall","Balcony Stage|1982-05-00|1984-00-00"]
+stages = ["Portrait / Shelf Stage|1979-10-00|1982-05-00|2-Wall","Balcony Stage|1982-05-00|1984-00-00"]
 franchisees = ["Gary Harwin & Gene Finnigan|1979-12-20|0000-00-00"]
 attractions = ["Cheese Crawl|1979-12-20|0000-00-00|Seen at the opening and in January 1982.","Rondina Helicopter Kiddie Ride|0000-00-00|0000-00-00|Seen in January 1982.","Jasper's General Store|1979-12-20|0000-00-00|Mentioned during the opening."]
 animatronics = ["Chuck E. Cheese (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown","Warblettes (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown","Guest Star / Helen Henny (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown","Mr. Munch (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown","Pasqually (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown","Jasper T. Jowls (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown","Dolli Dimples (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown","Applause Board (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown","Drum Board (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown","Flag Wavers (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown"]
@@ -15,8 +15,8 @@ citations = ["https://archive.org/details/the-pizza-times-newsletters/1979%20The
 contributors = ["The 64th Gamer"]
 downloadLinks = ["https://archive.org/download/95-8431-bz-plans/-%3DFloorplan%20Archive%3D-/Pizza%20Time%20Theatre/Nevada/1_1_1982%20-%20MICROFILM%20PLANS%20PIZZA%20TIME%20-%20530%20-%20GREENBRAE%20DR%20-%20%20-.pdf|May 1982 Remodel Plans"]
 pageThumbnailFile = "b6po1sqlubkf3n9x.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Sparks, NV (530 Greenbrae Dr)*** is the seventh Pizza Time Theatre, the first to open outside of California, and the first franchised location, opening on December 20th, 1979, and lasting until 1984.{{< cite 1 >}}{{< cite 4 >}}
@@ -24,7 +24,7 @@ draft = false
 ## History
 
 ### Pre-Opening
-The building would begin construction in early October of 1979 in a former Safeway grocery store.{{< cite 4 >}} The first mention of the location would be of a job posting for a assistant manager and technician on November 19th, 1979.{{< cite 3 >}} In December PTT would note that the location would be opening on December 20th, and having its Grand Opening Party on Janury 7th of 1980. It would also be noted that the store was the first franchised location, owned by Gary Harwin, which would also be the store's manager. Gene Finnigan, a contractor for PTT which had built 3 previous stores, and now the Sparks location, would be co-owning the venture as well.{{< cite 2 >}} PTT would also note that they had previously recieved a $2,000,000 loan from Bank of America to expand stores into new areas, with this being likely one of the first stores to use that.{{< cite 1 >}} Gary and his wife, Cindy, would get PTT themed licensed plates for their new venture, with hers reading "PIZZA TME", and his reading "PZATME"{{< cite 2 >}}
+The building would begin construction in early October of 1979 in a former Safeway grocery store.{{< cite 4 >}} The first mention of the location would be of a job posting for a assistant manager and technician on November 19th, 1979.{{< cite 3 >}}  Gene Landrum would decades later note this exact store as being at the point the Chuck E. Cheese walkaround cost only $300, down from the $5,000 cost at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location. In December PTT would note that the location would be opening on December 20th, and having its Grand Opening Party on Janury 7th of 1980. It would also be noted that the store was the first franchised location, owned by Gary Harwin, which would also be the store's manager. Gene Finnigan, a contractor for PTT which had built 3 previous stores, and now the Sparks location, would be co-owning the venture as well.{{< cite 2 >}} PTT would also note that they had previously recieved a $2,000,000 loan from Bank of America to expand stores into new areas, with this being likely one of the first stores to use that.{{< cite 1 >}} Gary and his wife, Cindy, would get PTT themed licensed plates for their new venture, with hers reading "PIZZA TME", and his reading "PZATME"{{< cite 2 >}}
 
 ### Opening
 

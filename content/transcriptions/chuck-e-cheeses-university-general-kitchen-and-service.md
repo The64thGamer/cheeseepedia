@@ -1,6 +1,6 @@
 +++
 title = "Chuck E. Cheeses University General Kitchen and Service"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese:**

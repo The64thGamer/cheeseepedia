@@ -1,10 +1,10 @@
 +++
 title = "Phase_3_signage_at_Lone_Tree_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Brentwood, CA (6061 Lone Tree Way)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

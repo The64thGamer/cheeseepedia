@@ -1,8 +1,8 @@
 +++
 title = "Winchester Grand-Opening Advertisement (1977)"
 draft = false
-tags = ["Promotional Material"]
-categories = ["Pizza Time Theatre"]
+type = "Promotional Material"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-05-00"
 endDate = "1977-05-00"
 contributors = ["Concordio"]

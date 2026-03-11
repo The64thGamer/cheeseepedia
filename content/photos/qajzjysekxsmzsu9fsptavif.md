@@ -1,8 +1,8 @@
 +++
 title = "qaJZjYSeKXSMZsU9FSPT.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Country Helen"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Country Helen"]
+
 startDate = ""
 +++

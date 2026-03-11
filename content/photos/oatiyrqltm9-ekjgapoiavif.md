@@ -1,8 +1,8 @@
 +++
 title = "oatIYrqLTm9_ekjgapoi.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Beach Bear (Mijjin)"]
+type = "Photos"
+tags = ["Creative Engineering", "Beach Bear (Mijjin)"]
+
 startDate = ""
 +++

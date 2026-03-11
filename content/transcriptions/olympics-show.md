@@ -1,6 +1,6 @@
 +++
 title = "Olympics Show"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["The 64th Gamer"]
 +++
 **[Song: Olympics Fanfare]**

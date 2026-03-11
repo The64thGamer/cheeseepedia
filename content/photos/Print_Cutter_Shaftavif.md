@@ -1,10 +1,10 @@
 +++
 title = "Print_Cutter_Shaft.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

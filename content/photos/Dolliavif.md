@@ -1,10 +1,10 @@
 +++
 title = "Dolli.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Dolli Dimples"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

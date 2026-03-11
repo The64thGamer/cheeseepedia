@@ -1,4 +1,5 @@
 +++
+
 title = "Pasadena, TX (154 Fairmont Pkwy)"
 storeNumber = ""
 startDate = "1982-06-09"
@@ -13,8 +14,8 @@ latitudeLongitude = ["29.64939307","-95.20746153"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "IINSK1QzmW0KrvU_AIZt.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

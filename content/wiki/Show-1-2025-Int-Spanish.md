@@ -3,12 +3,12 @@ title = "Chuck E. Cheese Show 1 2025 International Spanish"
 startDate = "2025-01-00"
 endDate = "2025-03-00"
 pageThumbnailFile = "Show125Int.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["Show 1 2025 DVD"]
 credits = ["CEC Entertainment, LLC"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Show 1 2025 International Spanish** was released in January 2025 and played until March 2025
 

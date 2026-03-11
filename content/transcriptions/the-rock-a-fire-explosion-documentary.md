@@ -1,6 +1,6 @@
 +++
 title = "The Rock-afire Explosion (Movie)"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Aaron Fechter:**

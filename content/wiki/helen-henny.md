@@ -1,16 +1,17 @@
 +++
+
 title = "Helen Henny"
 draft = false
-tags = ["Characters"]
-categories = ["Pizza Time Theatre"]
+type = "Characters"
+tags = ["Pizza Time Theatre"]
 
 
 startDate = ""
 endDate = ""
 contributors = ["CECMentor","Animatronicbrainrot"]
 citations = []
+pageThumbnailFile = "Pw1fOEHLV3cVcDmZ45yM.avif"
 +++
-
 ***Helen Henny*** is one of the main characters of the Chuck E. Cheese's franchise, making her debut at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location in August 1977.
 
 ## History

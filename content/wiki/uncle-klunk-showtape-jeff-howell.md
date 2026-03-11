@@ -1,8 +1,8 @@
 +++
 title = "Uncle Klunk Showtape Jeff Howell"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "890h234uh34iog.avif"
 startDate = "1983-07-00"
 endDate = "1983-07-00"

@@ -1,9 +1,10 @@
 +++
 title = "7E5KmpSyWGTyzzbtCG77.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Applause Board (Cyberamic)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Applause Board (Cyberamic)"]
+
 startDate = ""
 +++
+
 [[Waterbury, CT (983 Wolcott St)

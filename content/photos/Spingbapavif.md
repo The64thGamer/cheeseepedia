@@ -1,10 +1,10 @@
 +++
 title = "Spingbap.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["September 2001 Show"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

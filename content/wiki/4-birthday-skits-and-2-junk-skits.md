@@ -7,8 +7,8 @@ pageThumbnailFile = "junkevent2934234.avif"
 contributors = ["The 64th Gamer"]
 citations = ["http://www.showbizpizza.com/review/rae/special_junk.html", "https://youtu.be/al4mKmLZdiA"]
 alsoKnownAs = ["CREATIVE ENGINEERING 0BD0115-101183 4 BIRTHDAY SKITS AND 2 JUNK SKITS LOW SPEED TAILWOUND 101183"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***4 Birthday Skits And 2 Junk Skits*** is a semi-lost Rock-afire Explosion showtape released on October 11, 1983. This would replace the standard Birthday tape.
 

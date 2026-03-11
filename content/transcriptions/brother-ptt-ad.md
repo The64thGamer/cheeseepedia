@@ -1,6 +1,6 @@
 +++
 title = "\"Brother\" PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **CBS Announcer:**

@@ -1,9 +1,10 @@
 +++
 title = "jkDRhpN8K4u57Bg5IF1e.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Bear-A-Dice Stage"]
+type = "Photos"
+tags = ["Creative Engineering", "Bear-A-Dice Stage"]
+
 startDate = ""
 +++
+
 Billy Bob, pre-restoration.

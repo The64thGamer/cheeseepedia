@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/8XTMfb8VB0U"
-startdate = "2004-00-00"
-pages = ["San Antonio, TX (6874 Ingram Rd)", "September 2004"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "2004-00-00"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "San Antonio, TX (6874 Ingram Rd)", "September 2004"]
 +++
+
 September 2004 show at San Antonio, TX (6874 Ingram Rd) Segment 4. 

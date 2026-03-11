@@ -1,10 +1,10 @@
 +++
 title = "Qweqwewer.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Pizza Time Theatre Warren, MI Soccerfest '83 Badge (1983)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

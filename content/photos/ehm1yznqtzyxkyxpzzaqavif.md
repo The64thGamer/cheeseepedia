@@ -1,9 +1,10 @@
 +++
 title = "eHm1YzNQtZYXKYxPzzaq.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Corona, CA (191 N McKinley St)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Corona, CA (191 N McKinley St)"]
+
 startDate = ""
 +++
+
 Exterior (January 2019)

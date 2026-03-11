@@ -1,11 +1,12 @@
 +++
 title = "https://youtu.be/5jDf0iYJq9g"
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+type = "Videos"
+tags = ["Chuck E. Cheese's", "Huntington Beach, CA (15511 Edwards St)", "Cyberamics"]
 startDate = "2025-03-27"
 draft = false
-pages = ["Huntington Beach, CA (15511 Edwards St)","Cyberamics"]
+
 citations = []
 mirroredLinks = []
 +++
+
 "Chuck E.'s Middle Name" performance at Huntington Beach.

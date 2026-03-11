@@ -4,12 +4,12 @@ title = "Chuck E. Cheese's Show 3 2016"
 startDate = "2016-03-28"
 endDate = "2016-5-22"
 pageThumbnailFile = "Ok7czkP04gF9Qyequac_.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "Mousester", "CECBowlingGreen", "Luigigamin212"]
+contributors = ["The 64th Gamer", "Cyber Snout", "Mousester", "CECBowlingGreen", "Luigigamin212"]
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 transcriptions = ["Your Birthdays are special"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese's Show 3 2016* originally released on March 28th, 2016 and intended to play through May 22nd, featured four new original songs as well as a new birthday show.**
 

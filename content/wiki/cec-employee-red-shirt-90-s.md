@@ -1,8 +1,8 @@
 +++
 title = "CEC Employee Red Shirt (90's)"
 draft = false
-tags = ["Employee Wear"]
-categories = ["Chuck E. Cheese's"]
+type = "Employee Wear"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Cam.i77","The 64th Gamer"]

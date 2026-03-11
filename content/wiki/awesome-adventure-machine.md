@@ -4,10 +4,10 @@ title = "Awesome Adventure Machine"
 startDate = "1996-08-21"
 endDate = "1997-00-00"
 pageThumbnailFile = "gini345ugn345g.avif"
-contributors = ["Nostalgia Cow", "The 64th Gamer", "Montfortdog", "BurgersNuggs445", "Stripes", "BigCtheDataFinder", "Anonymous", "Cy's Junk at School", "Ceclife13"]
+contributors = ["Nostalgia Cow", "The 64th Gamer", "Montfortdog", "BurgersNuggs445", "Stripes", "BigCDataFinder ", "Anonymous", "Cy's Junk at School", "Ceclife13"]
 citations = ["https://www.youtube.com/watch?v=99vsWR406xo", "https://www.youtube.com/watch?v=5mqJMsr_PLU"]
-tags = ["Animatronic Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronic Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Awesome Adventure Machine,*** also known internally as 'Stage 2000,' was a test stage that was installed at {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}}.
 This was the first attempt by CEC to create a stage centered around only one animatronic character. To make up for the absence of the other characters, the other cast was featured in walkaround form with articulated heads that interact in show segments, and a major focus was placed on video elements.

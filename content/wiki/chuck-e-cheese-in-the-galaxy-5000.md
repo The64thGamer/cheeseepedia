@@ -1,9 +1,9 @@
 +++
 title = "Chuck E. Cheese in the Galaxy 5000"
 draft = false
-tags = ["Movies"]
-categories = ["Chuck E. Cheese's","Chuck E. Cheese in the Galaxy 5000"]
-pageThumbnailFile = ""
+type = "Movies"
+tags = ["Chuck E. Cheese's","Chuck E. Cheese in the Galaxy 5000"]
+pageThumbnailFile = "448ubbhi0gvkfz47.avif"
 startDate = "1999-10-05"
 endDate = "1999-00-00"
 contributors = ["The 64th Gamer"]

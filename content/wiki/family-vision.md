@@ -6,8 +6,8 @@ endDate = "1989-00-00"
 pageThumbnailFile = "t_G5jKP4Z9PoZgp7y9vM.avif"
 contributors = ["The 64th Gamer", "DerekCat"]
 citations = ["<ref></ref>", "<a href=\"https://www.newspapers.com/image/99516545/?clipping_id=92076371&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjk5NTE2NTQ1LCJpYXQiOjE2Nzc2OTcwNjQsImV4cCI6MTY3Nzc4MzQ2NH0.L42I42heW9hHMik_FQ1WsSpeT13Jd3TWn9wo2GblZoc\">https://www.newspapers.com/image/99516545/?clipping_id=92076371&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjk5NTE2NTQ1LCJpYXQiOjE2Nzc2OTcwNjQsImV4cCI6MTY3Nzc4MzQ2NH0.L42I42heW9hHMik_FQ1WsSpeT13Jd3TWn9wo2GblZoc</a>", "<ref></ref>"]
-tags = ["Remodels and Initiatives"]
-categories = ["ShowBiz Pizza Place"]
+type = "Remodels and Initiatives"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 ***Family Vision*** were a collection of monthly Betamax tapes released to *ShowBiz Pizza Place* stores starting in 1984.(1) The tapes would provide video entertainment to guests during the downtime between showtape segments. (2) The videos would be projected onto a screen that would automatically come down once a show ended. The tapes themselves were charged at $55 a month once a store agreed to be in the program.

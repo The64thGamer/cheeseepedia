@@ -1,8 +1,8 @@
 +++
 title = "Half-A-Chuck (Cyberamic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1982-00-00"
 endDate = "0000-00-00"
 contributors = ["CoolerDude","Newbie editor"]

@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/at5W4LbMaNc"
-startdate = "2021-09-11"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-09-11"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Say So-Rock-afire Replay

@@ -1,8 +1,8 @@
 +++
 title = "SPP Token S17 (B, N, aZ)"
 draft = false
-tags = ["Tokens"]
-categories = ["ShowBiz Pizza Place"]
+type = "Tokens"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

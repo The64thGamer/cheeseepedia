@@ -1,10 +1,10 @@
 +++
 title = "CECLONETREEPHASE3.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Brentwood, CA (6061 Lone Tree Way)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

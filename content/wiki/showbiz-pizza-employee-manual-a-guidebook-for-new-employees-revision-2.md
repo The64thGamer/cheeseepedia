@@ -1,8 +1,8 @@
 +++
 title = "ShowBiz Pizza Employee Manual: A Guidebook for New Employees (Revision 2)"
 draft = false
-tags = ["Documents"]
-categories = ["ShowBiz Pizza Place"]
+type = "Documents"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = ""
 startDate = "0000-00-00"
 endDate = ""

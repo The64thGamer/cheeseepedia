@@ -1,8 +1,8 @@
 +++
 title = "Animation Programming System Hardware Setup"
 draft = false
-tags = ["Programming Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Programming Systems"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

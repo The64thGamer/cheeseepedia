@@ -1,8 +1,8 @@
 +++
 title = "Surprises Salad Bar (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronics"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

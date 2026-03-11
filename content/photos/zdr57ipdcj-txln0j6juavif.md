@@ -1,9 +1,10 @@
 +++
 title = "Zdr57IpDcJ_tXLN0j6JU.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["TJ Hartford's Sports Grille"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "TJ Hartford's Sports Grille"]
+
 startDate = ""
 +++
+
 2001 Logo

@@ -1,10 +1,10 @@
 +++
 title = "Davycrocketogcolanderart.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Crazy Colander Head Night (Event)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,8 +1,8 @@
 +++
 title = "Biphase Songcode Data Format"
 draft = false
-tags = ["Showtape Formats"]
-categories = ["Pizza Time Theatre"]
+type = "Showtape Formats"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

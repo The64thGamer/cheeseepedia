@@ -1,16 +1,17 @@
 +++
 draft = false
 title = "Chuck E's Holiday Party 2000"
-startDate = "2000-12-00"
+startDate = "2000-11-27"
 endDate = "2000-12-00"
 pageThumbnailFile = "J6XWHPOYJ_ciVKSfwCIt.avif"
-contributors = ["The 64th Gamer", "Ceclife13", "CyberSnout"]
+contributors = ["The 64th Gamer", "Ceclife13", "Cyber Snout"]
 citations = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2000ShowUpdateKaraoke.img"]
-credits = ["Jeremy Blaido - Director", "Brian Hagan - Studio Manager", "Robert Gotcher - Production Coordinator", "Brent Gray - Studio Coordinator"]
+credits = ["Jeremy Blaido|Director", "Brian Hagan|Studio Manager", "Robert Gotcher|Production Coordinator", "Brent Gray|Studio Coordinator"]
+mediaDuration = "48:32"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2000ShowUpdateKaraoke.img|Studio C Floppy Disk (Karaoke)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E's Holiday Party 2000* was a rerelease of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2000 holiday season.**
 
@@ -81,7 +82,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Rockin' Christmas Eve
 - Chuck E. Says

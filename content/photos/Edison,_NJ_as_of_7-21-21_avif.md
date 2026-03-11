@@ -1,10 +1,10 @@
 +++
 title = "Edison,_NJ_as_of_7-21-21_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Edison, NJ (1120 Route 1)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

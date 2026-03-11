@@ -1,6 +1,6 @@
 +++
 title = "Early 1970s Music"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 +++
 **Chuck E. Cheese:**
 

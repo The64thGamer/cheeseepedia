@@ -3,12 +3,12 @@ title = "Chuck E. Cheese Show 2 2025 International English"
 startDate = "2025-03-00"
 endDate = "2025-07-00"
 pageThumbnailFile = "oamiwrhMh6yTtNLxEPbs.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["Show 2 2025 DVD"]
 credits = ["CEC Entertainment, LLC"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Show 2 2025 International English** **was released in March 2025 and played until July 2025**
 

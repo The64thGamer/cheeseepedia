@@ -1,8 +1,8 @@
 +++
 title = "Bubba and the Happy Holiday Bears"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["VP Animations"]
+type = "Animatronic Shows"
+tags = ["VP Animations"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

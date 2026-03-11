@@ -1,10 +1,10 @@
 +++
 title = "DFGHJDfff.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["APS Files"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

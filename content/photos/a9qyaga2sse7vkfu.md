@@ -1,10 +1,11 @@
 +++
 title = "a9qyaga2sse7vkfu.avif"
 draft = false
-tags = ["Photos"]
-category = "Chuck E. Cheese's"
-pages = ["Chuck E. Cheese Shows (CEC Best of 1988)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese Shows (CEC Best of 1988)"]
+
 startDate = "2025-12-19"
-citation = "sonichacker"
+citations = ["sonichacker"]
 +++
+
 CEC Reel Showtape

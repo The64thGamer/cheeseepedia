@@ -1,9 +1,10 @@
 +++
 title = "mdyxlCnOcWsBWk976yue.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Raleigh, NC (4339 Falls of Neuse Rd)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Raleigh, NC (4339 Falls of Neuse Rd)"]
+
 startDate = ""
 +++
+
 An advertisement for the store's grand opening, a part of the Great All-American Pizza Show advertising.

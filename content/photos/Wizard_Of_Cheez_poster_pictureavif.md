@@ -1,10 +1,10 @@
 +++
 title = "Wizard_Of_Cheez_poster_picture.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Wizard Of Cheez (Parody Poster)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

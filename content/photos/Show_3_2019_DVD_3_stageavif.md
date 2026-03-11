@@ -1,10 +1,10 @@
 +++
 title = "Show_3_2019_DVD_3_stage.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Show 3 2019"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

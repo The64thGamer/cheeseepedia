@@ -1,6 +1,6 @@
 +++
 title = "River Boat Revue"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 

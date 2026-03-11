@@ -1,10 +1,10 @@
 +++
 title = "Sfddweweff.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["CEI LaserDisc"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,9 +1,10 @@
 +++
 title = "dTVepFvMSVMALYfsXAlx.avif"
 draft = false
-tags = ["Photos"]
-categories = []
-pages = ["Chuck E. Cheese (Cyberamic)"]
+type = "Photos"
+tags = ["Chuck E. Cheese (Cyberamic)"]
+
 startDate = ""
 +++
+
 A Portrait Chuck in a Brown Vest from [[Maple Heights, OH (5376 Northfield Rd)]].

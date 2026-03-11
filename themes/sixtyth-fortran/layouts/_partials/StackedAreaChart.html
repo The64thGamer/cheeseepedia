@@ -1,0 +1,240 @@
+{{- /* Partial: graph.html (stacked area + legend outside + ignores "Total") */ -}}
+
+{{ $id := .id | default (printf "graph-%d" (now.UnixNano) ) }}
+{{ $json := .data | jsonify }}
+{{ $type := .type | default "auto" }}
+{{ $height := .height | default 320 }}
+{{ $width := .width | default 800 }}
+
+<div id="{{ $id }}-container" style="display:flex; flex-direction:column; max-width:100%;">
+<div id="{{ $id }}" class="hugochart-area" role="img" aria-label="Data chart"
+       data-chart='{{ $json | safeJS }}' data-chart-type="{{ $type }}"
+       style="max-width:100%;"></div>
+
+  <div id="{{ $id }}-legend" class="hugochart-legend" style="overflow:auto; max-height:200px;">
+    <!-- legend items inserted via JS -->
+  </div>
+</div>
+
+<script>
+(function(){
+if (window.__hugochart_area_inited === undefined) {
+    window.__hugochart_area_inited = true;
+
+    function slug(s){ return String(s||"").toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,''); }
+
+    function extent(arr){ var min=Infinity,max=-Infinity; arr.forEach(function(v){ if (v!=null && !isNaN(v)){ min=Math.min(min,v); max=Math.max(max,v);} }); return [min===Infinity?null:min, max===-Infinity?null:max]; }
+    function linearScale(domainMin, domainMax, rangeMin, rangeMax){
+      var d0 = domainMin, d1 = domainMax;
+      if (d0 === d1) { d0 = d0 - 1; d1 = d1 + 1; }
+      var m = (rangeMax - rangeMin) / (d1 - d0);
+      return function(x){ return rangeMin + ( (x - d0) * m ); };
+    }
+    function fmtInt(v){ if (v == null || isNaN(v)) return ""; return Math.round(v).toLocaleString(); }
+
+    function drawChart(container, opts){
+      var data = opts.data;
+      var w = opts.width || {{ $width }};
+      var h = opts.height || {{ $height }};
+      var padding = {left:60, right:20, top:28, bottom:44};
+
+      var years = (data.years || []).map(y => +y);
+
+      // BUILD seriesMap while ignoring keys named "total" (case-insensitive)
+      var seriesMap = {};
+      if (data.openings && data.closings && data.openings.length === years.length){
+        if (String("Openings").toLowerCase() !== "total") seriesMap["Openings"] = data.openings;
+        if (String("Closings").toLowerCase() !== "total") seriesMap["Closings"] = data.closings;
+      } else if (data.series){
+        Object.keys(data.series).forEach(function(k){
+          if (k == null) return;
+          if (String(k).toLowerCase() === "total") return; // ignore Total
+          seriesMap[k] = data.series[k];
+        });
+      } else {
+        for (var k in data) {
+          if (!Array.isArray(data[k])) continue;
+          if (k === "years") continue;          // skip the x-axis
+          if (k === "y") continue;              // optional: skip generic y arrays
+          if (String(k).toLowerCase() === "total") continue; // ignore Total
+          if (data[k].length === years.length) seriesMap[k] = data[k];
+        }
+      }
+
+      // Convert values to numbers; treat null/"" as 0 for stacking
+      var seriesNames = Object.keys(seriesMap || {});
+      var nYears = years.length;
+      var values = {}; // values[name] = [num,...]
+      seriesNames.forEach(function(name){
+        values[name] = (seriesMap[name] || []).map(function(v){
+          if (v == null || v === "") return 0; // treat missing as 0 for stacking
+          var n = +v;
+          return isNaN(n) ? 0 : n;
+        });
+      });
+
+      // Compute stacked totals per year
+      var cumPerYear = new Array(nYears).fill(0);
+      var stacks = {}; // stacks[name] = [{y0:, y1:},...]
+      seriesNames.forEach(function(name){
+        stacks[name] = new Array(nYears);
+        for (var i=0;i<nYears;i++){
+          var y0 = cumPerYear[i];
+          var y1 = y0 + (values[name][i] || 0);
+          stacks[name][i] = { y0: y0, y1: y1 };
+          cumPerYear[i] = y1;
+        }
+      });
+
+      // y domain from 0 to max cumulative
+      var maxCum = 0;
+      for (var i=0;i<nYears;i++) maxCum = Math.max(maxCum, cumPerYear[i] || 0);
+      var ydomain = [0, maxCum === 0 ? 1 : maxCum];
+      var xdomain = extent(years); if(xdomain[0]===null) xdomain=[0,(years.length?years.length-1:1)];
+
+      var svgNS="http://www.w3.org/2000/svg";
+      function el(name, attrs){ var e=document.createElementNS(svgNS,name); for(var k in (attrs||{})){ e.setAttribute(k,attrs[k]); } return e; }
+
+      var svg=el("svg",{viewBox:"0 0 "+w+" "+h, preserveAspectRatio:"xMidYMid meet", class:"hugochart-svg"});
+      svg.style.width="100%"; svg.style.height="auto";
+      container.innerHTML=""; container.appendChild(svg);
+
+      var innerW=w-padding.left-padding.right;
+      var innerH=h-padding.top-padding.bottom;
+      var xScale=linearScale(xdomain[0], xdomain[1], padding.left, padding.left+innerW);
+      var yScale=linearScale(ydomain[0], ydomain[1], padding.top+innerH, padding.top);
+
+      svg.appendChild(el("line",{x1:padding.left, y1:padding.top+innerH, x2:padding.left+innerW, y2:padding.top+innerH, class:"axis x-axis"}));
+      svg.appendChild(el("line",{x1:padding.left, y1:padding.top, x2:padding.left, y2:padding.top+innerH, class:"axis y-axis"}));
+
+      // X ticks
+      var maxTicks=12; var step=Math.max(1,Math.ceil((xdomain[1]-xdomain[0])/maxTicks));
+      var ticks=[]; for(var yy=xdomain[0]; yy<=xdomain[1]; yy+=step) ticks.push(Math.round(yy));
+      if(ticks.length===0 && years.length) ticks=years;
+      ticks.forEach(function(t){ var x=xScale(t); var y=padding.top+innerH;
+        svg.appendChild(el("line",{x1:x,y1:y,x2:x,y2:y+6,class:"tick x-tick"}));
+        var tx=el("text",{x:x,y:y+22,"text-anchor":"middle",class:"tick-label x-tick-label"}); tx.textContent=t; svg.appendChild(tx);
+      });
+
+      // Y ticks
+      var yTicksCount=4;
+      for(var i=0;i<=yTicksCount;i++){ var v=ydomain[0]+((ydomain[1]-ydomain[0])*(i/yTicksCount)); var y=yScale(v);
+        svg.appendChild(el("line",{x1:padding.left-6,y1:y,x2:padding.left,y2:y,class:"tick y-tick"}));
+        svg.appendChild(el("line",{x1:padding.left,y1:y,x2:padding.left+innerW,y2:y,class:"grid y-grid"}));
+        var ty=el("text",{x:padding.left-10,y:y+4,"text-anchor":"end",class:"tick-label y-tick-label"}); ty.textContent=fmtInt(v); svg.appendChild(ty);
+      }
+
+      var palette = [
+        "#6bffd3",  // seafoam
+        "#ff6b6b", // soft red
+        "#ff9f43", // soft orange
+        "#ffe66d", // soft yellow
+        "#8dff6b", // light green
+        "#6b9fff", // soft blue
+        "#8d6bff", // light violet
+        "#ff0000", // red
+        "#ff7f00", // orange
+        "#ffff00", // yellow
+        "#7fff00", // chartreuse green
+        "#00ff00", // green
+        "#00ff7f", // spring green
+        "#00ffff", // cyan
+        "#007fff", // azure
+        "#0000ff", // blue
+        "#7f00ff", // violet
+        "#ff00ff", // magenta
+        "#ff007f", // rose
+        "#ff4500", // orange red
+        "#ffd700", // gold
+        "#32cd32", // lime green
+        "#00fa9a", // medium spring green
+        "#1e90ff", // dodger blue
+        "#8a2be2", // blue violet
+        "#ff1493", // deep pink
+        "#ff6347", // tomato
+        "#7cfc00", // lawn green
+        "#40e0d0", // turquoise
+        "#6a5acd", // slate blue
+        "#ff69b4"  // hot pink
+      ];
+
+      // Draw stacks in order (bottom to top)
+      seriesNames.forEach(function(name, idx){
+        if (!stacks[name]) return;
+        var d = "";
+        // top edge (y1) left->right
+        for (var i=0;i<nYears;i++){
+          var x = xScale(years[i]);
+          var y = yScale(stacks[name][i].y1);
+          if (i===0) d += "M "+x+" "+y+" ";
+          else d += "L "+x+" "+y+" ";
+        }
+        // bottom edge (y0) right->left
+        for (var i=nYears-1;i>=0;i--){
+          var x = xScale(years[i]);
+          var y = yScale(stacks[name][i].y0);
+          d += "L "+x+" "+y+" ";
+        }
+        d += "Z";
+
+        var path = el("path",{d:d, "data-series":name, class:"hugochart-area series-"+slug(name)});
+        path.style.fill = palette[idx % palette.length];
+        path.style.fillOpacity = 0.85;
+        path.style.stroke = palette[idx % palette.length];
+        path.style.strokeWidth = 0.6;
+        svg.appendChild(path);
+      });
+
+      // Optional center title
+      if(opts.title){ var t=el("text",{x:padding.left+innerW/2,y:padding.top-6,"text-anchor":"middle",class:"chart-title"}); t.textContent=opts.title; svg.appendChild(t); }
+
+      // OUTSIDE LEGEND (ignores Total)
+      var legendDiv = document.getElementById(opts.containerId + "-legend");
+      if (legendDiv) {
+        legendDiv.innerHTML = "";
+
+        // Use the same order as seriesNames
+        seriesNames.forEach(function(name, idx){
+          var item = document.createElement("div");
+          item.style.display = "flex";
+          item.style.alignItems = "center";
+          item.style.marginBottom = "6px";
+          item.style.paddingRight = "8px";
+
+          var swatch = document.createElement("div");
+          swatch.style.width = "14px";
+          swatch.style.height = "14px";
+          swatch.style.backgroundColor = palette[idx % palette.length];
+          swatch.style.marginRight = "8px";
+          swatch.style.borderRadius = "2px";
+
+          var label = document.createElement("div");
+          label.textContent = name;
+          label.style.flex = "1";
+
+          item.appendChild(swatch);
+          item.appendChild(label);
+          legendDiv.appendChild(item);
+        });
+      }
+    }
+
+    function initAll(){
+        var nodes = document.querySelectorAll(".hugochart-area");
+        nodes.forEach(function(node){
+        if(node.getAttribute("data-hugochart-rendered")) return;
+        try{
+          var raw=node.getAttribute("data-chart"); if(!raw) return;
+          var data=JSON.parse(raw); var type=node.getAttribute("data-chart-type")||"auto";
+          var width=node.getAttribute("data-width")||null; var height=node.getAttribute("data-height")||null;
+          var title=node.getAttribute("data-title")||null;
+          drawChart(node,{data:data,type:type,width:width?+width:undefined,height:height?+height:undefined,title:title,containerId:node.id});
+          node.setAttribute("data-hugochart-rendered","1");
+        }catch(err){ console.error("hugochart init error:",err); }
+      });
+    }
+
+    if(document.readyState==="loading"){ document.addEventListener("DOMContentLoaded", initAll); } else { setTimeout(initAll,0); }
+  }
+})();
+</script>

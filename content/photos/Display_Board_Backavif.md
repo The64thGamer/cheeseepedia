@@ -1,10 +1,10 @@
 +++
 title = "Display_Board_Back.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

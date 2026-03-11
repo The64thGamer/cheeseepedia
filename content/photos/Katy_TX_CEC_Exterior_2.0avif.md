@@ -1,10 +1,10 @@
 +++
 title = "Katy_TX_CEC_Exterior_2.0.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Katy, TX (2002 Gulfmont Dr)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

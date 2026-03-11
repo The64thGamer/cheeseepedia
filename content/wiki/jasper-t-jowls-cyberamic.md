@@ -4,10 +4,10 @@ title = "Jasper T. Jowls (Cyberamic)"
 startDate = "1979-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "5c_TAVUEL_uKccsbWrCn.avif"
-contributors = ["CECBowlingGreen", "BurgersNuggs445", "CEC Tinley", "The 64th Gamer", "CECMentor", "Cheeseclassic", "randomguyfan22"]
+contributors = ["CECBowlingGreen", "BurgersNuggs445", "CEC Tinley", "The 64th Gamer", "CECMentor", "Cheeseclassic", "Randomguyfan22 Maker"]
 citations = []
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 +++
 The **Jasper T. Jowls Cyberamic** is an animatronic figure created by Pizza Time Theatre Inc, Kinetix Group Inc, and Animation World Inc for Chuck E. Cheese's locations from 1979-1980's.
 

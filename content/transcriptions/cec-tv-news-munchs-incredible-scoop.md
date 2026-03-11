@@ -1,6 +1,6 @@
 +++
-title = "CEC TV News Munchs incredible scoop"
-tags = ["Transcriptions"]
+title = "CEC TV News - Munch's Incredible Scoop"
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Narrator:**

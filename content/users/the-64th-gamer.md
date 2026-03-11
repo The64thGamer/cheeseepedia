@@ -1,11 +1,11 @@
 +++
 title = "The 64th Gamer"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2024-05-30"
 endDate = ""
-contributors = ["The 64th Gamer","CyberSnout"]
+contributors = ["The 64th Gamer","Cyber Snout"]
 citations = []
 +++
 trans rights

@@ -1,9 +1,10 @@
 +++
 title = "4N9FSj2qokArdMNoIUGS.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Hofmann Figuren"]
-pages = ["Hofmann Monkey Show"]
+type = "Photos"
+tags = ["Hofmann Figuren", "Hofmann Monkey Show"]
+
 startDate = ""
 +++
+
 Edenlandia Gorilla Pianist & Hawaiian Monkey (Post-Closure)

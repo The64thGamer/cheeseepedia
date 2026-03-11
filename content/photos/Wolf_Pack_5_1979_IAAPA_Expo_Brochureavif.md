@@ -1,10 +1,10 @@
 +++
 title = "Wolf_Pack_5_1979_IAAPA_Expo_Brochure.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Wolf Pack 5"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

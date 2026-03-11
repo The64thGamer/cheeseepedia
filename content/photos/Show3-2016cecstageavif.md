@@ -1,10 +1,10 @@
 +++
 title = "Show3-2016cecstage.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

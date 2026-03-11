@@ -1,6 +1,6 @@
 +++
 title = "\"Get ready for Chuck E. Cheese\" ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Narrator:**

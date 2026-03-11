@@ -8,28 +8,28 @@
   "Animatronic Control Systems")
   "Documents" (slice "Promotional Material" "Documents" "Corporate Documents")
   "Media" (slice "Photos" "Videos" "News Footage" "Commercials" "Company Media")
-  "History" (slice "History" "Events" "Characters" "Social Media and Websites" "Restaurants/FECs")
+  "History" (slice "History" "Events" "Characters" "Social Media and Websites" "Companies/Brands")
   -}}
 
 
 {{- $pages := site.RegularPages -}}
 <div id="loadingText" class="loading-text">Loading. . .</div>
 <div id="tagsContainer" style="visibility:hidden;">
-  {{- $tags := dict -}} <!-- Initialize a dictionary to store tags and counts -->
+{{- $tags := dict -}}
   {{- range $pages -}}
-  {{- $currentPage := . -}}
-  {{- range $currentPage.Params.tags -}} <!-- Iterate over tags in each page -->
-  {{- $tag := . -}}
-  {{- $count := index $tags $tag -}} <!-- Get current count for the tag -->
-  {{- if $count -}}
-  {{- $tags = merge $tags (dict $tag (add $count 1)) -}}
-  {{- else -}}
-  {{- $tags = merge $tags (dict $tag 1) -}}
-  {{- end -}}
-  {{- end -}}
-  {{- end -}}
-  {{- $categorizedTags := dict -}} <!-- Store categorized tags -->
-  {{- $otherTags := dict -}} <!-- Store other tags -->
+{{- $currentPage := . -}}
+{{- $tag := $currentPage.Params.type -}}
+{{- if $tag -}}
+{{- $count := index $tags $tag -}}
+{{- if $count -}}
+{{- $tags = merge $tags (dict $tag (add $count 1)) -}}
+{{- else -}}
+{{- $tags = merge $tags (dict $tag 1) -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+{{- $categorizedTags := dict -}}
+{{- $otherTags := dict -}}
 
   <!-- Loop through tags and assign them to categories -->
   {{- range $tag, $count := $tags -}}
@@ -48,8 +48,7 @@
   {{- end -}}
   {{- end -}}
 
-  <div class="tri-column" style="column-count: 3;">
-
+  <div class="tri-column">
     <ul>
       <!-- Output categorized tags -->
       {{- range $category, $tags := $categorizedTags -}}

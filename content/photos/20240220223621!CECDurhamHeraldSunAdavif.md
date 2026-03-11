@@ -1,10 +1,10 @@
 +++
 title = "20240220223621!CECDurhamHeraldSunAd.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Durham, NC (3724 Mayfair St)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,12 +1,14 @@
 +++
+
 title = "SongCode"
 draft = false
-tags = ["Programming Systems"]
-categories = ["Pizza Time Theatre"]
+type = "Programming Systems"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Himitsu","CEC Tinley"]
 citations = []
+pageThumbnailFile = "HAFSY75TGiS2bcPg5g9t.avif"
 +++
 ***SongCode* was an animatronic programming system made for Pizza Time Theatre, running from 1978 to 1990.
 The first known usage would be at the second location {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, with its hardware detailed in the SongCode Control System.

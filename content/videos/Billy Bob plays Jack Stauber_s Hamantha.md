@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/nljUg5Bi_3U"
-startdate = "2020-10-30"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2020-10-30"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Billy Bob plays Jack Stauber's Hamantha

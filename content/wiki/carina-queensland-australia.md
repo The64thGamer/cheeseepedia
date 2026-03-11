@@ -1,10 +1,10 @@
 +++
-title = "Carina, Queensland, Australia"
+title = "Carindale, Queensland 4152, Australia (1151 Creek Rd)"
 storeNumber = ""
 startDate = "1982-00-00"
 endDate = "1986-00-00"
 cuDate = ""
-remodels = []
+remodels = ["Charlie Cheese's Standard Layout|1982-00-00"]
 stages = ["Balcony Stage|1982-00-00|1986-00-00|"]
 franchisees = []
 attractions = []
@@ -14,7 +14,7 @@ citations = []
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "Sm8rGln7e_zXokpYaF0K.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

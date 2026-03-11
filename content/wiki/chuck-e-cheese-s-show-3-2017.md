@@ -4,12 +4,12 @@ title = "Chuck E. Cheese's Show 3 2017"
 startDate = "2017-04-10"
 endDate = "2017-5-20"
 pageThumbnailFile = "wS5yxqjHtFjOh2431y2l.avif"
-contributors = ["The 64th Gamer", "CyberSnout"]
+contributors = ["The 64th Gamer", "Cyber Snout"]
 citations = ["https://youtu.be/4liffbZ9s0Q"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 transcriptions = ["Together We've Got It 2017"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese's Show 3 2017* released April 10th 2017.
 This was created to play from April 10th 2017. - May 20th 2017. This show features four songs two reused and two new. Also features a new live show.**

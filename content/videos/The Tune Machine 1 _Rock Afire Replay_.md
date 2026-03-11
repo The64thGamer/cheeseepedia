@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/BmKgPpSAWPo"
-startdate = "2021-03-16"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-03-16"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 The Tune Machine 1 (Rock Afire Replay)

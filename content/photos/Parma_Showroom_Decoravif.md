@@ -1,10 +1,10 @@
 +++
 title = "Parma_Showroom_Decor.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

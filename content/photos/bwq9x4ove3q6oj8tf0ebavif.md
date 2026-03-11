@@ -1,9 +1,10 @@
 +++
 title = "BwQ9x4OVE3q6oj8Tf0Eb.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Bradenton, FL (4420 14th St)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Bradenton, FL (4420 14th St)"]
+
 startDate = ""
 +++
+
 Bradenton's road sign after closure.

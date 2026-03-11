@@ -1,4 +1,5 @@
 +++
+
 title = "Lodi, CA (550 S Cherokee Lane)"
 storeNumber = ""
 startDate = "1982-09-26"
@@ -13,8 +14,8 @@ latitudeLongitude = ["38.1120527","-121.2604017"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "bhe1myxk02en7uiy.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

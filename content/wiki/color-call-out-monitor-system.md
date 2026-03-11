@@ -1,8 +1,8 @@
 +++
 title = "Color Call-out Monitor System"
 draft = false
-tags = ["Other Systems"]
-categories = ["Pizza Time Theatre"]
+type = "Other Systems"
+tags = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

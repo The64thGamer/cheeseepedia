@@ -1,9 +1,8 @@
 +++
 title = "Jh0wfmp9WAUZV9yzTxtY.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Friendly Freddy (Animatronic)"]
-startDate = ""
+type = "Photos"
+tags = ["Creative Engineering", "Friendly Freddy (Animatronic)"]
 
+startDate = ""
 +++

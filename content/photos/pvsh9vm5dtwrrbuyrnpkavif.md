@@ -1,9 +1,10 @@
 +++
 title = "pvsH9vM5DTWrrbuYRNPk.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["Cow (Pasqually Retrofit)"]
+type = "Photos"
+tags = ["", "Cow (Pasqually Retrofit)"]
+
 startDate = ""
 +++
+
 The Bot in the infamous 'No More Chuck E. Cheese' Video

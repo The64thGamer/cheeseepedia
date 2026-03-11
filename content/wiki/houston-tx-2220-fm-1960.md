@@ -1,4 +1,5 @@
 +++
+
 title = "Houston, TX (2220 FM 1960)"
 storeNumber = ""
 startDate = "1981-06-25"
@@ -13,8 +14,8 @@ latitudeLongitude = ["30.00798112", "-95.46439228"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "UqU34fuz1sC8Lbri4iOS.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

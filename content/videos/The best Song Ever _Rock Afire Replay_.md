@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/jIrMUqKNJk0"
-startdate = "2022-04-18"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2022-04-18"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 The best Song Ever (Rock Afire Replay)

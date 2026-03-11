@@ -1,10 +1,10 @@
 +++
 title = "Cheesy_C_Tv_Poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["'Cheesy Television' (Must C TV Award)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

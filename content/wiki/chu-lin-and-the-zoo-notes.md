@@ -1,8 +1,8 @@
 +++
 title = "Chu Lin and the Zoo Notes"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Sally Corporation"]
+type = "Animatronic Shows"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

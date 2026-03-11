@@ -4,11 +4,11 @@ title = "Chuck E. Cheese's Show 1 2020 (Covid Refresh)"
 startDate = "2020-06-21"
 endDate = "2020-6-22"
 pageThumbnailFile = "eQ5zVcW80pr1tPy5FVqK.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["Show 1 2020 DVD"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Show 1 2020 (Covid Update)* was released *on* June 21, 2020.
 This was created to play from June 21, 2020 - June 22, 2020. This show features five songs and the first show to include the Covid Message.**

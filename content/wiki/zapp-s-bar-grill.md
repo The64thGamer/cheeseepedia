@@ -1,8 +1,8 @@
 +++
 title = "Zapp's Bar & Grill"
 draft = false
-tags = ["Restaurants/FECs"]
-categories = ["Pizza Time Theatre"]
+type = "Companies/Brands"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

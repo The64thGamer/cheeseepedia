@@ -1,9 +1,10 @@
 +++
 title = "NLtHZ1cp15I1YUQUPqr1.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Cincinnati, OH (11400 Princeton Pike)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cincinnati, OH (11400 Princeton Pike)"]
+
 startDate = ""
 +++
+
  Grand Opening info

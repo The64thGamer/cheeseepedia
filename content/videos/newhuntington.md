@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/wM_9JQxtTig"
-startdate = "2025-01-05"
-pages = ["Huntington Beach, CA (15031 Goldenwest St)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "2025-01-05"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "Huntington Beach, CA (15031 Goldenwest St)"]
 +++
+
 Huntington Beach under construction.

@@ -1,9 +1,10 @@
 +++
 title = "vU_XMMKPUBaruXVWR67K.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Biloxi, MS (4550 W Beach Blvd)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Biloxi, MS (4550 W Beach Blvd)"]
+
 startDate = ""
 +++
+
 Late August 2005 Aerial (After Hurricane Katrina)

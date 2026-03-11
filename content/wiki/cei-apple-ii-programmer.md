@@ -1,8 +1,8 @@
 +++
 title = "CEI Apple II Programmer"
 draft = false
-tags = ["Programming Systems"]
-categories = ["Creative Engineering"]
+type = "Programming Systems"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Ls2018","Ls2018"]

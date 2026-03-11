@@ -1,10 +1,10 @@
 +++
 title = "Country_Helen_Reel_Front.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Country Helen"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

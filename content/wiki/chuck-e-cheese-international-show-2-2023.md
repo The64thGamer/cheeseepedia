@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese International Show 2 2023"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-04-17"
 endDate = "2023-06-00"
 contributors = ["Bowling for Cheese","ShowBiz Pizza International","The 64th Gamer"]

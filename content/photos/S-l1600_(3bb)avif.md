@@ -1,10 +1,10 @@
 +++
 title = "S-l1600_(3bb).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Show 5 2017"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

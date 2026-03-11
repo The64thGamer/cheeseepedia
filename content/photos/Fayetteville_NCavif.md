@@ -1,10 +1,10 @@
 +++
 title = "Fayetteville_NC.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Fayetteville, NC (511 North McPherson Church Rd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

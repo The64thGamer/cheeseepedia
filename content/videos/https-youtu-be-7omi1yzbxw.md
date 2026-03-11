@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/-7OMI1YzBXw"
-startdate = "1982-00-00"
-pages = ["Tempe, AZ (1000 E Broadway Rd)", "The Beagles / Beach Bowzers (Lounge)", "Beagles II"]
-tags = ["Videos"]
-categories = ["Pizza Time Theatre"]
+startDate = "1982-00-00"
+
+type = "Videos"
+tags = ["Pizza Time Theatre", "Tempe, AZ (1000 E Broadway Rd)", "The Beagles / Beach Bowzers (Lounge)", "Beagles II"]
 +++
+
 The Beagles preforming 'Paperback Writer' at Tempe, AZ.

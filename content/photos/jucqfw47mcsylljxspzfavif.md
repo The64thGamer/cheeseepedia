@@ -1,9 +1,10 @@
 +++
 title = "JUCqfW47MCsyLljXspzf.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Paducah, KY (5141 Hinkleville Rd)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Paducah, KY (5141 Hinkleville Rd)"]
+
 startDate = ""
 +++
+
 Property Value Assessment

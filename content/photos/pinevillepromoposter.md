@@ -1,8 +1,9 @@
 +++
 title = "PinevillePromoPoster.avif"
-startdate = "0000-00-00"
-pages = ["Wink", "Charlotte, NC (7701 Pineville-Matthews Rd)"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "0000-00-00"
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Wink", "Charlotte, NC (7701 Pineville-Matthews Rd)"]
 +++
+
 Promotional poster given out at Charlotte, NC (7701 Pineville-Matthews Rd) Grand Re-Opening

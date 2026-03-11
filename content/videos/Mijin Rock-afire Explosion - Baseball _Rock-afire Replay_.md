@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/r6JwOnoH5SE"
-startdate = "2020-11-01"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2020-11-01"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Mijin Rock-afire Explosion - Baseball (Rock-afire Replay)

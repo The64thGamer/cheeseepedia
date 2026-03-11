@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's April International Show 2019"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2019-04-00"
 endDate = "0000-00-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = []
 pageThumbnailFile = "BrV9G29sTJIL__FvldGy.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]

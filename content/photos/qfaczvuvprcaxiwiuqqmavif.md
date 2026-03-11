@@ -1,8 +1,8 @@
 +++
 title = "qfaczVUVPRcAxiwIuQqM.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["CEC Hanging Tabletop Ad Stand"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "CEC Hanging Tabletop Ad Stand"]
+
 startDate = ""
 +++

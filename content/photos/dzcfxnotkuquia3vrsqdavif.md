@@ -1,9 +1,10 @@
 +++
 title = "DzCfXnOtKUqUIa3vrSQd.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["Luigi (Pasqually Retrofit)"]
+type = "Photos"
+tags = ["", "Luigi (Pasqually Retrofit)"]
+
 startDate = ""
 +++
+
 Jungle Jim's Luigi.

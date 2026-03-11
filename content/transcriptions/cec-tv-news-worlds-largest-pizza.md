@@ -1,6 +1,6 @@
 +++
 title = "CEC TV News Worlds largest pizza"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Narrator:**

@@ -3,11 +3,11 @@ title = "Chuck E. Cheese Evergreen Show 2025 International (Saudi Arabia)"
 startDate = "2025-01-13"
 endDate = "2025-04-06"
 pageThumbnailFile = "Evergreen2025Int.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Media Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E. Cheese Evergreen Show 2025 International (Saudi Arabia)** was released on January 13, 2025 and ran until April 6, 2025.
 

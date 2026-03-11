@@ -1,13 +1,13 @@
 +++
 title = "Winchester Crusty the Cat V2 (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 
 
 startDate = "1978-00-00"
 endDate = "0000-00-00"
-contributors = ["EagleScout610","Anonymous","The 64th Gamer","KPIZZA03","BurgersNuggs445","SonicFazbear","Anonymous","Anonymous","PizzaEntertainmentFanX","CECMentor"]
+contributors = ["EagleScout610","Anonymous","The 64th Gamer","KPIZZA03","BurgersNuggs445","SonicFazbear","Anonymous","Anonymous","Pizza Entertainment Fan","CECMentor"]
 citations = []
 pageThumbnailFile = "HMamk13CgBpSJ7Cuhi9e.avif"
 unitsProduced = "1"

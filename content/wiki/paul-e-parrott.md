@@ -3,8 +3,8 @@ title = "Paul E. Parrott"
 startDate = "1982-07-18"
 contributors = ["Axiefae"]
 citations = ["https://www.youtube.com/watch?v=i87npenbfkw"]
-tags = ["Restaurants/FECs"]
-categories = ["Unknown Manufacturers"]
+type = "Companies/Brands"
+tags = ["Unknown Manufacturers"]
 +++
 Paul E. Parrott, also known as Paul E. Parrott's Pizza Place or Paul E. Parrott's Pizza N Games, was a pizza restaurant in Phoenix, AZ in the 1980s. The restaurant was incredibly obscure, to the point no photos of the building or the animatronics exist.
 

@@ -1,9 +1,10 @@
 +++
 title = "SpringBreak94.avif"
-tags = ["Photos"]
+type = "Photos"
 startDate = ""
 draft = false
-pages = ["Spring Break"]
+
 
 citations = []
+tags = ["Spring Break"]
 +++

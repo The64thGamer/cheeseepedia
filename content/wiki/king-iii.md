@@ -1,12 +1,12 @@
 +++
 title = "King III"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "d4xNCYEUPDlhOxb0Rq0q.avif"
 startDate = "1985-11-00"
 endDate = "1990-00-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 +++
 ***King III*** released in November 1985 and would play until 1990. 
 

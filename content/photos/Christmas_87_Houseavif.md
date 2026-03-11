@@ -1,10 +1,10 @@
 +++
 title = "Christmas_87_House.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["CEC Home for the Holidays"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

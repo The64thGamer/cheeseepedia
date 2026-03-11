@@ -1,8 +1,8 @@
 +++
 title = "Cool Dad (Commercial)"
 draft = false
-tags = ["Commercials"]
-categories = ["Chuck E. Cheese's"]
+type = "Commercials"
+tags = ["Chuck E. Cheese's"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["Maddox121","BurgersNuggs445"]

@@ -1,9 +1,10 @@
 +++
 title = "Z7hMtxQuNjBKFDRSVE6q.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Sally Corporation"]
-pages = ["Care Bears: Care-A-Lot Castle"]
+type = "Photos"
+tags = ["Sally Corporation", "Care Bears: Care-A-Lot Castle"]
+
 startDate = ""
 +++
+
 Donna Gentry costuming the Dunia Cheer Bear figure at Sally (1986)

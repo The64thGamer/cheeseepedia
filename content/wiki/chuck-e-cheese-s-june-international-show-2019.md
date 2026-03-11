@@ -3,11 +3,11 @@ draft = false
 endDate = "2019-09-00"
 citations = []
 title = "Chuck E. Cheese's June International Show 2019"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 startDate = "2019-06-00"
-tags = ["Showtapes"]
+type = "Showtapes"
 pageThumbnailFile = "cecjune2019.avif"
-categories = ["Chuck E. Cheese's"]
+tags = ["Chuck E. Cheese's"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
 +++
 ***Chuck E. Cheese's June International Show 2019*

@@ -1,9 +1,10 @@
 +++
 title = "VNMUvZ9gnOaWm8IORiDF.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Syracuse, NY (3023 Erie Blvd)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Syracuse, NY (3023 Erie Blvd)"]
+
 startDate = ""
 +++
+
 Exterior, 2022

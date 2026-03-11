@@ -1,10 +1,10 @@
 +++
 title = "Vrveferfer.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Show 2 2020"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "Beagles_1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["The Beagles / Beach Bowzers (Lounge)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

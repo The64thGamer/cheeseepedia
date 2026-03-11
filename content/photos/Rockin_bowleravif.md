@@ -1,10 +1,10 @@
 +++
 title = "Rockin_bowler.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Rockin-Bowler"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

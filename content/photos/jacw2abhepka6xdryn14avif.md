@@ -1,8 +1,8 @@
 +++
 title = "jAcw2AbHepKa6xDRyN14.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Awesome Adventure Machine"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Awesome Adventure Machine"]
+
 startDate = ""
 +++

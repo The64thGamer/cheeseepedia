@@ -7,10 +7,11 @@ pageThumbnailFile = "ojnerfgojn34otjn.avif"
 contributors = ["The 64th Gamer","Ceclife13"]
 citations = ["https://archive.org/download/ptt_showtape_reels_w_signals/Skit-Oink%203%20Tunnel-Love%20W-XMAS.wav|Reel Audio w/ Signals"]
 mediaDuration = "1:28:55"
+credits = ["John Widelock|Voice of Chuck E. Cheese", "Paula Mulcahy|Voice of Madame Oink", "Scott Wilson|Voice of Mr. Munch, Pasqually the Chef", "Scott Paulin|Voice of Jasper T. Jowls"]
 downloadLinks = ["https://archive.org/download/ptt_showtape_reels_w_signals/Skit-Oink%203%20Tunnel-Love%20W-XMAS.wav|Reel Audio w/ Signals"]
 alsoKnownAs = ["ASSY # 027-0056-10 SKIT-OINK 3 TUNNEL/LOVE W/XMAS WO# 1141732400 WO QTY 100 BLT BY: GS DATE: 11/24/82"]
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 +++
 ***Skit-Oink 3 Tunnel/Love W/XMAS*** was a variant of {{< wiki-link "Madame Oink III - 'Tunnel of Love'" >}} that included Christmas songs released in November of 1982.
 
@@ -18,7 +19,7 @@ categories = ["Pizza Time Theatre"]
 
 One tape is marked as being made on February 15, 1983, which shows the tape lasted up until the release of {{< wiki-link "Madame Oink IV - The Tune Machine" >}} in March of 1983.
 
-## Segments
+## Show List
 
 1. **Segment 1**
     1.  'Love Makes the World Go Round'
@@ -37,15 +38,15 @@ One tape is marked as being made on February 15, 1983, which shows the tape last
     1.  'Click Go the Shears'
     2.  'Waltzing Matilda'
     3.  'Sioux City Sue'
-5.**Special 1**
+5. **Special 1**
     1.  'Happy-Happy Birthday'
-6.**Special 2**
+6. **Special 2**
     1.  'It's a Special Day' (CEC 5th Birthday)
-7.**Special 3**
+7. **Special 3**
     1.  'It's Somebody's Birthday' (feat. Madame Oink)
-8.**Special 4**
+8. **Special 4**
     1.  Cheer - Trumpets
-9.**Special 5**
+9. **Special 5**
     1.  Christmas Medley
         1.  'Silver Bells'
         2.  'Fa-La-La'

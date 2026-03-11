@@ -1,6 +1,6 @@
 +++
 title = "Where a kid can be a kid PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Boy:**

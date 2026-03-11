@@ -1,9 +1,10 @@
 +++
 title = "pyW_XoLR2CzYLwIFk7S9.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Hofmann Figuren"]
-pages = ["Hofmann Monkey Show"]
+type = "Photos"
+tags = ["Hofmann Figuren", "Hofmann Monkey Show"]
+
 startDate = ""
 +++
+
 Hellendoorn 'Kisses For Me' Monkey Trio

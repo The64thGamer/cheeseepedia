@@ -6,8 +6,8 @@ endDate = ""
 pageThumbnailFile = "lofjkkafhjklahfsdio.avif"
 contributors = ["Kathydra"]
 citations = ["http://darkinthepark.com/Dracula/cdSounds/cdsounds.htm", "https://youtu.be/Y2nWfpG9gCY?si=JtN9igqhZwZc4bNa&t=480"]
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 +++
 
 ***Count Dracula*** is an animatronic that was placed outside of Castle Dracula on a balcony

@@ -1,6 +1,6 @@
 +++
 title = "Dragstrip in The Sky ft. Little Queenie"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **The Wolfman:**

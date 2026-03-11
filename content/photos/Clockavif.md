@@ -1,10 +1,10 @@
 +++
 title = "Clock.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Pizza Time Clock (Animatronic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

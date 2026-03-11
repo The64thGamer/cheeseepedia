@@ -1,10 +1,10 @@
 +++
 title = "mijinatorpartsi2oj3rij4f0j.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Mijjinator (Mijjin)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

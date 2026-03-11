@@ -1,8 +1,8 @@
 +++
 title = "Orlando Creative Engineering News Cast (1983)"
 draft = false
-tags = ["News Footage"]
-categories = ["Creative Engineering"]
+type = "News Footage"
+tags = ["Creative Engineering"]
 startDate = "1983-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

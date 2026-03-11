@@ -1,17 +1,17 @@
 +++
 title = "Whac-A-Munch"
 draft = false
-tags = ["Arcades and Attractions"]
-categories = ["Chuck E. Cheese's","Pizza Time Theatre"]
-startDate = "1981-00-00"
+type = "Arcades and Attractions"
+tags = ["Chuck E. Cheese's","Pizza Time Theatre"]
+startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
-citations = ["https://youtu.be/N58SxO-pPnw"]
+citations = ["https://youtu.be/N58SxO-pPnw","https://web.archive.org/web/20150705140821/http://www.atari.io/chuck-e-cheese-skee-ball-gene-landrum/","https://youtu.be/EYYyhySXQ48"]
 pageThumbnailFile = "efrjnxxfjn98o0fg.avif"
-manufacturer = "Bob's Space Racers, Inc."
+credits = ["Manufacturer|Bob's Space Racers, Inc.","Unknown Role|Pete's Woodworking Inc."]
 +++
 
-***Whac-A-Munch*** was a modified version of the original Whac-A-Mole cabinet exclusive to Chuck E. Cheese's from as early as August of 1981, and lasting production until around the late 90's, with cabinets continuing use until the mid 2010's.{{< cite 1 >}}
+***Whac-A-Munch*** was a modified version of the original Whac-A-Mole cabinet exclusive to Chuck E. Cheese's seen as far back as early 1980, and lasting production until around the late 90's, with cabinets continuing use until the mid 2010's.{{< cite 1 >}}
 
 The only difference between Whac-A-Munch and Whac-A-Mole cabinets are the ceramic gophers being replaced with Mr. Munch. Some cabinets also include the 'Whac-A-Munch' title on the bottom front panel, while others have no text. It is unclear what involvement Bob's Space Racers had on these versions, or if Pizza Time Theatre/ShowBiz Pizza Time purchased Whac-A-Mole cabinets and had them modified themselves to fit a Chuck E. Cheese theme.
 

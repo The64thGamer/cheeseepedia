@@ -1,9 +1,10 @@
 +++
 title = "nDV8lE6pCWR7PhTZ60V_.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["Barboursville, WV (5 Cracker Barrel Dr)"]
+type = "Photos"
+tags = ["", "Barboursville, WV (5 Cracker Barrel Dr)"]
+
 startDate = ""
 +++
+
 Rolfe and Earl in November 2022

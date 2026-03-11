@@ -1,10 +1,10 @@
 +++
 title = "Wp5_man.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

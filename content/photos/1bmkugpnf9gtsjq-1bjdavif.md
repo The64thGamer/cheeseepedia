@@ -1,9 +1,10 @@
 +++
 title = "1bmkUGPnF9GTsJq_1Bjd.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Covina, CA (601 Azusa Ave)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Covina, CA (601 Azusa Ave)"]
+
 startDate = ""
 +++
+
 Covina's exterior in May 2024. (PC: Google Maps)

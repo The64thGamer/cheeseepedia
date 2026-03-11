@@ -1,8 +1,8 @@
 +++
 title = "2marI35KQH7ih5woNpoV.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Studio C Cappa"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Studio C Cappa"]
+
 startDate = ""
 +++

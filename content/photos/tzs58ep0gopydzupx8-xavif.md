@@ -1,9 +1,10 @@
 +++
 title = "tzs58eP0GopyDzUPX8_X.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Pittsburgh, PA (20 McIntyre Square Dr)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Pittsburgh, PA (20 McIntyre Square Dr)"]
+
 startDate = ""
 +++
+
 Pre 2.0 Exterior (February 2022)

@@ -1,10 +1,10 @@
 +++
 title = "777.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["7 Shows Special"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "Display_Membrane.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

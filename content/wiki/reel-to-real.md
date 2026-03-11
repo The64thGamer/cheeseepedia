@@ -8,8 +8,8 @@ citations = ["https://youtu.be/ksd2jkhb9D4", "https://youtu.be/JSDOfjqk6AQ", "ht
 credits = ["The 64th Gamer - Developer", "Himitsu - Engine Optimization (Rock-afire Replay Engine)"]
 downloadLinks = ["https://archive.org/download/20221209-64th-gamer-cease-desist-letter-signed/20221209_64th%20Gamer%20Cease%20%26%20Desist%20Letter-signed.pdf|CEC Entertainent Cease & Desist Letter"]
 alsoKnownAs = ["RR"]
-tags = ["Simulators"]
-categories = ["Chuck E. Cheese's", "Pizza Time Theatre"]
+type = "Simulators"
+tags = ["Chuck E. Cheese's", "Pizza Time Theatre"]
 +++
 ***Reel to Real* was an unofficial open-source animatronic simulator game that succeeded the prior {{< wiki-link "Rock-afire Replay" >}}, focusing on Chuck E. Cheese animatronics, that lasted from July 24, 2022 to December 9th, 2022- where it received a Cease & Desist from CEC Entertainment.**
 

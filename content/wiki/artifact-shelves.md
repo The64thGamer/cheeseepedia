@@ -1,8 +1,8 @@
 +++
 title = "Artifact Shelves"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","ThatBoiCydalan","BurgersNuggs445","Ceclife13"]

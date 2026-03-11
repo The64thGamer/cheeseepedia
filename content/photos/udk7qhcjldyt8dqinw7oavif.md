@@ -1,9 +1,10 @@
 +++
 title = "udK7QhCjlDYt8DQinw7o.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Honolulu, HI (820 W Hind Dr)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Honolulu, HI (820 W Hind Dr)"]
+
 startDate = ""
 +++
+
 May 30, 2008

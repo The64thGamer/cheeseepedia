@@ -4,10 +4,10 @@ title = "Country Stage"
 startDate = "1985-01-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "VCh6daSE_TnrB5lgHcqV.avif"
-contributors = ["Emcaacme", "The 64th Gamer", "CECMentor", "CyberSnout", "smileshy22"]
+contributors = ["Emcaacme", "The 64th Gamer", "CECMentor", "Cyber Snout", "smileshy22"]
 citations = ["https://www.youtube.com/watch?v=6_dm_ddkeYU", "https://www.youtube.com/watch?v=FOzkOfORgVY"]
-tags = ["Stage Variations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Stage Variations"
+tags = ["ShowBiz Pizza Place"]
 +++
 The Country Stage, also referred to sometimes as the 'barn stage', was a one of a kind stage design at the {{< wiki-link "North Richland Hills, TX (7935 Grapevine Hwy)" >}} Showbiz Pizza location. This stage was created by ShowBiz Pizza Corporate with the release of the Country Klunk showtape in January 1985.
 Many ShowBiz Pizza locations would receive decorations and cosmetics for the country theme, like cowboy hats for each character, but none would ever come close to the barn stage concept.

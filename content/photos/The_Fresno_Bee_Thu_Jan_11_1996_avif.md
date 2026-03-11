@@ -1,10 +1,10 @@
 +++
 title = "The_Fresno_Bee_Thu_Jan_11_1996_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

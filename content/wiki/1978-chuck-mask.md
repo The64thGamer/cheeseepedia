@@ -1,8 +1,8 @@
 +++
 title = "1978 Chuck E. Cheese Halloween Mask"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "7979l.avif"
 startDate = "1978-10-00"
 endDate = "1979-10-31"

@@ -1,10 +1,10 @@
 +++
 title = "G3434gg3g45g3.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

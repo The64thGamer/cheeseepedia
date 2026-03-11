@@ -1,9 +1,10 @@
 +++
 title = "ujysDSoT36wNBNsO21Kc.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Chuck E. Cheese Winter Winner-Land 2022 Show"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese Winter Winner-Land 2022 Show"]
+
 startDate = ""
 +++
+
 CEC Stage DVD

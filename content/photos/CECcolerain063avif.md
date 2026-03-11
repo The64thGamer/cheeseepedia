@@ -1,10 +1,10 @@
 +++
 title = "CECcolerain063.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Cincinnati, OH (8801 Colerain Ave)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,0 +1,9 @@
++++
+title = "acc0ac1b5f85e77b.avif"
+draft = false
+type = "Photos"
+tags = ["Chuck E. Cheese's", "2002 Surfer Chuck"]
+
+startDate = "2002-00-00"
+citations = []
++++

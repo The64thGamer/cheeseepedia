@@ -1,9 +1,10 @@
 +++
 title = "00MuNtasmcP53SY4y8uA.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Reno, NV (651 E Moana Lane)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Reno, NV (651 E Moana Lane)"]
+
 startDate = ""
 +++
+
 Location after closing, January 2022

@@ -1,8 +1,8 @@
 +++
 title = "Tim's World Rules"
 draft = false
-tags = ["Other Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Other Systems"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "1992-00-00"
 endDate = "0000-00-00"

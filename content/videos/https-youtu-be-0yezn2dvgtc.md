@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/0YEZN2dvgtc"
-startdate = "2021-08-12"
-pages = ["Houston, TX (2220 FM 1960)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "2021-08-12"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "Houston, TX (2220 FM 1960)"]
 +++
+
 A look at Houston, TX (2220 FM 1960) after relocating and being abandoned.

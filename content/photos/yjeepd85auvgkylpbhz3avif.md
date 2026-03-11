@@ -1,9 +1,10 @@
 +++
 title = "yJEEpD85AuvgkyLpbHz3.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Hampton, VA (4027 W Mercury Blvd)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Hampton, VA (4027 W Mercury Blvd)"]
+
 startDate = ""
 +++
+
 An uncropped photo of the exterior.

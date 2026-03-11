@@ -1,8 +1,8 @@
 +++
 title = "Electronimation's Extravaganza of Excellence"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Creative Engineering"]
+type = "Animatronic Shows"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Summer of Fun Show 2022 International"
 draft = false
-tags = ["Showtapes"]
-categories = []
+type = "Showtapes"
+tags = []
 startDate = "2022-06-00"
 endDate = "0000-00-00"
-contributors = ["CyberSnout","Bowling for Cheese"]
+contributors = ["Cyber Snout","Bowling for Cheese"]
 citations = []
 pageThumbnailFile = "h6Tb1qaWcrAG0AfBr4Vm.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]

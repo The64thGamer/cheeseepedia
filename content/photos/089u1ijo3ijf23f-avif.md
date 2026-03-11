@@ -1,9 +1,10 @@
 +++
 title = "089u1ijo3ijf23f.avif"
-startdate = "2024-12-19"
+startDate = "2024-12-19"
 citations = []
-pages = ["Showtape"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Showtape"]
 +++
+
 90's Live tape, unclear which one.

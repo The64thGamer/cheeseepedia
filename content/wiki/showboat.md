@@ -1,8 +1,8 @@
 +++
 title = "Showboat"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = "45h45erth45yh.avif"
 startDate = "1980-04-00"
 endDate = "1980-00-00"

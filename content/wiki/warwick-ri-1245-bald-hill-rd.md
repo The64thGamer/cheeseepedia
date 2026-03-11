@@ -5,7 +5,7 @@ title = "Warwick, RI (1245 Bald Hill Rd)"
 startDate = "1990-10-12" 
 endDate = "1994-11-19" 
 pageThumbnailFile = "" 
-contributors = ["CyberSnout"] 
+contributors = ["Cyber Snout"] 
 citations = ["https://www.newspapers.com/article/journal-transcript-bald-hill-plaza-warw/182122607", "https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4", "https://www.youtube.com/watch?v=FhwsLzUINyU", "https://www.youtube.com/watch?v=txV9nM6Jqe8", "https://www.newspapers.com/article/the-boston-globe-chuck-e-cheese-warwick/103309922/", "http://mechanicaldisplays.com/clients/talkani/TA01.jpg", "https://www.youtube.com/watch?v=HhyeH0Tfdtc", "https://www.facebook.com/marketplace/item/1694667647532361/", "https://www.facebook.com/share/p/1CjY4zJAq4/"] 
 storeNumber = "" 
 sqft = "14,235" 
@@ -16,8 +16,8 @@ remodels = ["SPT 1980's Remodel Program|1990-10-12"]
 stages = ["Chuck E.'s House|1990-10-12|1994-00-00", "1-Stage|1994-00-00|1994-11-19"] 
 downloadLinks = [] 
 latitudeLongitude = ["41.70424272","-71.49431008"] 
-tags = ["Locations"] 
-categories = ["Chuck E. Cheese's"] 
+type = "Locations" 
+tags = ["Chuck E. Cheese's"] 
 +++***1245 Bald Hill Rd*** was a *Chuck E. Cheese's Pizza* located in Bald Hill Plaza and opened on October 12, 1990{{< cite 1 >}} and closed on November 19, 1994{{< cite 2 >}}. It was located in the Bald Hill Plaza
 
 ## History

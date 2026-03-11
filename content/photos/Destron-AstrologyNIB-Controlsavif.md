@@ -1,10 +1,10 @@
 +++
 title = "Destron-AstrologyNIB-Controls.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Astrology"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

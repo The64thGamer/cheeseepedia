@@ -1,10 +1,10 @@
 +++
 title = "Updated_Reel_Design.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "Roadshow2012.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Road Show 2012"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

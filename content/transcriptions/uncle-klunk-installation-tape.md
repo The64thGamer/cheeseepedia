@@ -1,6 +1,6 @@
 +++
 title = "Uncle Klunk Installation Tape"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[Klunk Pre-installation]**

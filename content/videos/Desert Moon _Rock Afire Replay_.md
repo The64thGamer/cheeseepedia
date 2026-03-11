@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/Bgbstc_nJlg"
-startdate = "2021-08-02"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-08-02"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Desert Moon (Rock Afire Replay)

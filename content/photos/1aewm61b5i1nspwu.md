@@ -1,10 +1,11 @@
 +++
 title = "1aewm61b5i1nspwu.avif"
 draft = false
-tags = ["Photos"]
-category = "Chuck E. Cheese's"
-pages = ["Jackson, TN (2021 North Highland Ave)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Jackson, TN (2021 North Highland Ave)"]
+
 startDate = "2025-11-22"
-citation = "CEP Discord @NeedlemouseCEC"
+citations = ["CEP Discord @NeedlemouseCEC"]
 +++
+
 Jackson, TN (2021 North Highland Ave)

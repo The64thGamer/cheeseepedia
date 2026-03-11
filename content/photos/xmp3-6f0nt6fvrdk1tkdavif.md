@@ -1,9 +1,10 @@
 +++
 title = "xMP3_6f0NT6fvRdk1TKd.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Small Munch Plush (1996)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Small Munch Plush (1996)"]
+
 startDate = ""
 +++
+
 Plush's Tag 

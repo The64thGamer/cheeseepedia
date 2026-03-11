@@ -1,10 +1,10 @@
 +++
 title = "2014RockStar.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

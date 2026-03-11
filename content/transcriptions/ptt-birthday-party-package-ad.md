@@ -1,6 +1,6 @@
 +++
 title = "PTT Birthday Party Package ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Narrator:**

@@ -1,9 +1,10 @@
 +++
 title = "uo5GUWLaRidUiBqQU9Q3.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Kooser Chuck Walkaround"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Kooser Chuck Walkaround"]
+
 startDate = ""
 +++
+
 The Costume as seen in the 1978 Kooser Rd promotional postcard.

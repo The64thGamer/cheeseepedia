@@ -1,14 +1,13 @@
 +++
 title = "ItAllStartsHereYT"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2024-09-18"
 endDate = ""
 contributors = ["ItAllStartsHereYT"]
 citations = []
 +++
-]]
 
 ## Favorites
 

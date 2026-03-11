@@ -1,10 +1,10 @@
 +++
 title = "Home_video_comment.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Miamisburg, OH (30 Prestige Place)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

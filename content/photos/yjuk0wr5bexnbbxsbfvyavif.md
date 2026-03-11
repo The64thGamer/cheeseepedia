@@ -1,9 +1,10 @@
 +++
 title = "yjUK0wr5beXnBbxSbFVy.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Friendly Freddy (Animatronic)"]
+type = "Photos"
+tags = ["Creative Engineering", "Friendly Freddy (Animatronic)"]
+
 startDate = ""
 +++
+
 Internal Mechanisms (1977)

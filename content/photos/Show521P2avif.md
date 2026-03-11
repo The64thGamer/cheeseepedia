@@ -1,10 +1,10 @@
 +++
 title = "Show521p2.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Show 5 2021"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

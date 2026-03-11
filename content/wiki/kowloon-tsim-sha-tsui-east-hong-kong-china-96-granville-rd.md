@@ -1,20 +1,12 @@
 +++
-title = "Kowloon, Hong Kong, China"
-storeNumber = ""
+
+title = "Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)"
 startDate = "1982-12-00"
 endDate = "1986-00-00"
-cuDate = ""
-remodels = []
 stages = ["Balcony Stage|1982-12-00|1986-00-00|"]
-franchisees = []
-attractions = []
-sqft = ""
-latitudeLongitude = ["22.29820947","114.175802"]
-citations = []
-contributors = []
-downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+latitudeLongitude = ["22.299499","114.177238"]
+pageThumbnailFile = "KOWLOON2.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

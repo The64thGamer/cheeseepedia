@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2015-04-00"
 endDate = ""
-contributors = ["Chez","Cheeseclassic","CECswag2009","CyberSnout"]
+contributors = ["Chez","Cheeseclassic","CECswag2009","Cyber Snout"]
 citations = []
 pageThumbnailFile = "wLIO8393W2ezZ8EWyXvY.avif"
 +++

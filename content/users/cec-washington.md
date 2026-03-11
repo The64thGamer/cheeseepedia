@@ -1,8 +1,8 @@
 +++
 title = "CEC Washington"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2022-09-08"
 endDate = ""
 contributors = ["CEC Washington"]

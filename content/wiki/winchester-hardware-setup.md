@@ -1,12 +1,14 @@
 +++
+
 title = "Winchester Hardware Setup"
 draft = false
-tags = ["Programming Systems"]
-categories = ["Pizza Time Theatre"]
+type = "Programming Systems"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","RessiduePezzzado","CEC Tinley"]
 citations = ["https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre","https://archive.org/details/atariincbusiness0000gold/page/328/mode/2up?q=theatre"]
+pageThumbnailFile = "hbRnm38xQC6DzaUR8Bdr.avif"
 +++
 The ***Pizza Time Theatre Winchester Hardware Setup* was the system used to program the animatronics exclusively at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} from May 1977 to sometime between 1980 and 1981.
 The system was developed by the Cyan Engineering subdivision of Atari (also known as the *Grass Valley Team*), headed by Larry Emmons and Gary Waters{{< cite 1 >}}**

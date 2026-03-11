@@ -1,4 +1,5 @@
 +++
+
 title = "Shawnee, KS (12280 Shawnee Mission)"
 storeNumber = ""
 startDate = "1981-08-19"
@@ -13,8 +14,8 @@ latitudeLongitude = ["38.970923","-94.9094629"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "CHCm0gqIc9kHmJDAoVJA.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

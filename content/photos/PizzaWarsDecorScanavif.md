@@ -1,10 +1,10 @@
 +++
 title = "PizzaWarsDecorScan.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Pizza Wars (Parody Poster)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

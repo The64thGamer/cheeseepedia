@@ -1,9 +1,10 @@
 +++
 title = "hYo86ezHpJfSky9weqR1.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
-pages = ["Gigglebee's"]
+type = "Photos"
+tags = ["Unknown Manufacturers", "Gigglebee's"]
+
 startDate = ""
 +++
+
 Tokens from Gigglebee's

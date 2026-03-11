@@ -1,10 +1,10 @@
 +++
 title = "Matt_Daniel_April_2012.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Spring 2012 Show"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

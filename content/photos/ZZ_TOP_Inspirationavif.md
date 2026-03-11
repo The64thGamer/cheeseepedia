@@ -1,10 +1,10 @@
 +++
 title = "ZZ_TOP_Inspiration.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

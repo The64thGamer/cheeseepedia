@@ -5,8 +5,8 @@ endDate = "0000-00-00"
 contributors = ["showbizdudebeta"]
 citations = ["Screenshot 2025-07-28 111159.jpg"]
 credits = []
-tags = ["Store Fixtures"]
-categories = ["ShowBiz Pizza Place"]
+type = "Store Fixtures"
+tags = ["ShowBiz Pizza Place"]
 +++
 The **Showroom Sign (SPP Signage) ** was a signage found at Showbiz Pizza locations.
 

@@ -9,8 +9,8 @@ citations = ["https://web.archive.org/web/20081219234700/http://www.showbizpizza
 showtapeFormats = ["CEI 4-Track Reel"]
 transcriptions = ["Rides Medley", "Tears of a Clown"]
 alsoKnownAs = ["Circus Night"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 The ***Circus Tape* is a semi-lost {{< wiki-link "Rock-afire Explosion" >}} showtape from 1985 for {{< wiki-link "ShowBiz Pizza Place" >}}.{{< cite 1 >}}**
 

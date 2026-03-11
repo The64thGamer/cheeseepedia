@@ -14,8 +14,8 @@ citations = ["https://youtu.be/wM_9JQxtTig","https://youtu.be/InOAJ84rjVM","http
 contributors = ["The 64th Gamer"]
 downloadLinks = []
 pageThumbnailFile = "9rt8m9lua6k1cw68.avif"
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++
 ***Huntington Beach, CA (15031 Goldenwest St)*** is a Chuck E. Cheese that opened on September 6th, 2025 as a relocation of the {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}} store.

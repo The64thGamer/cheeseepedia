@@ -1,10 +1,10 @@
 +++
 title = "Rocky_Mount’s_Exterior_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Rocky Mount, NC (730 Sutters Creek Blvd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

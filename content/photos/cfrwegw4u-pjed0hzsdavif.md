@@ -1,9 +1,10 @@
 +++
 title = "_CfrwEGw4u_PjED0hzSd.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Chuck E.'s House"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Chuck E.'s House"]
+
 startDate = ""
 +++
+
 Jul Kamen Concept Art

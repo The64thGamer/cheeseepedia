@@ -1,10 +1,11 @@
 +++
 title = "n3bxol0g5tofyg1w.avif"
 draft = false
-tags = ["Photos"]
-category = "ShowBiz Pizza Place"
-pages = ["Christmas 1983"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Christmas 1983"]
+
 startDate = "2025-12-00"
-citation = ""
+citations = []
 +++
+
 Christmas 83 Tape

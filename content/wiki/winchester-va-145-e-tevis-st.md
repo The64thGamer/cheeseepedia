@@ -1,4 +1,5 @@
 +++
+
 title = "Winchester, VA (145 E Tevis St)"
 storeNumber = ""
 startDate = "2013-08-12"
@@ -13,8 +14,8 @@ latitudeLongitude = ["39.15102882","-78.17611378"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "k16jAXgWruplvO4zeh61.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

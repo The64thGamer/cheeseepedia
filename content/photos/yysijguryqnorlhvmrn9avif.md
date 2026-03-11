@@ -1,8 +1,8 @@
 +++
 title = "YysIJGurYQnOrlHVmRN9.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Articulated Pasqually Walkaround"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Articulated Pasqually Walkaround"]
+
 startDate = ""
 +++

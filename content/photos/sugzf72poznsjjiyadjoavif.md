@@ -1,8 +1,8 @@
 +++
 title = "SuGZF72POZNsjjiYadjo.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Dook Larue (Animatronic)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Dook Larue (Animatronic)"]
+
 startDate = ""
 +++

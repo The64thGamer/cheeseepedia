@@ -1,11 +1,11 @@
 +++
 title = "Wolfman Zapp (Cyberamic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
-contributors = ["PizzaEntertainmentFanX","The 64th Gamer"]
+contributors = ["Pizza Entertainment Fan","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "NjRCODGx6e67Qz1NGR42.avif"
 unitsProduced = "1"

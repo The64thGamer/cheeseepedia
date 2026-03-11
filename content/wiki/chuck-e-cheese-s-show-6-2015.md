@@ -4,11 +4,11 @@ title = "Chuck E. Cheese's Show 6 2015"
 startDate = "2015-09-28"
 endDate = "2015-11-01"
 pageThumbnailFile = "PWFY8gxqmFJJQ53durbu.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "YoyoandRonnie", "Ceclife13"]
+contributors = ["The 64th Gamer", "Cyber Snout", "YoyoandRonnie", "Ceclife13"]
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Show 6 2015***, also known as ***Chuck E. Cheese's Chucktober 2015***, was the first showtape to be fully themed around Halloween and played throughout October of 2015.
 

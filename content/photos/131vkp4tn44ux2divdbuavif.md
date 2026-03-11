@@ -1,9 +1,10 @@
 +++
 title = "131Vkp4TN44UX2DIVdBU.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["PTT Winchester Crusty Name Sign (1977)"]
+type = "Photos"
+tags = ["", "PTT Winchester Crusty Name Sign (1977)"]
+
 startDate = ""
 +++
+
 At the bottom.

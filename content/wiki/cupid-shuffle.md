@@ -6,8 +6,8 @@ endDate = "2012-12-00"
 pageThumbnailFile = "cupidshuffleliveshow2012.avif"
 contributors = ["Ceclife13"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Robert Gotcher - Director", "Michael Hill - Studio Coordinator"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 ***'Cupid Shuffle'*** was a road show which was first released in January 2010 on the {{< wiki-link "Road Show 2010" >}} CD and featured a cover of the song ['Cupid Shuffle'](https://en.wikipedia.org/wiki/Cupid_Shuffle). Sometime in 2010, it would be released on Studio C. Existing Stages would not receive it until July 2012, where it would play until the end of December before being fully replaced by Cupid Shuffle 2012. Throughout its run, it would never be programmed.
 

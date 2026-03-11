@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Halloween Boo-Tacular 2023 Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-10-02"
 endDate = "2023-10-31"
 contributors = ["Cheeseclassic","Bowling for Cheese"]

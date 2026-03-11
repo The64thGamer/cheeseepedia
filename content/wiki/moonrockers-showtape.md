@@ -7,8 +7,8 @@ pageThumbnailFile = "1N01ZciX8nb42OiHJVtw.avif"
 contributors = ["The 64th Gamer", "TrainManAndy", "Anonymous", "Ls2018"]
 citations = ["https://youtu.be/5esiODZwv1o?feature=shared", "[A snapshot of the Youtube Video on the Wayback Machine](%22https://web.archive.org/web/20240125044306/https://www.youtube.com/watch?v=zrhq-dX56sw%22) "]
 showtapeFormats = ["CEI 4-Track Reel"]
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 +++
 The ***Moonrockers Showtape* is an official CEI showtape to the retrofit show of the main *Rock-afire Explosion,* called the {{< wiki-link "Moonrockers" >}}*.*
 The tape consists of 2 skits and 3 songs, used to demo at IAAPA for potential buyers. Nobody purchased the show, leaving the characters to instead be used in promotional videos for CEI moving forward.**

@@ -1,8 +1,8 @@
 +++
 title = "CEI Policy Manual"
 draft = false
-tags = ["Documents"]
-categories = ["Creative Engineering"]
+type = "Documents"
+tags = ["Creative Engineering"]
 startDate = "0000-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

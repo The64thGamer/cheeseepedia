@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/QyCujtmDKxg"
-startdate = "2008-00-00"
-pages = ["San Antonio, TX (6874 Ingram Rd)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "2008-00-00"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "San Antonio, TX (6874 Ingram Rd)"]
 +++
+
 Diagnostic Skit (Party Place) on the 3-Stage at San Antonio, TX (6874 Ingram Rd).

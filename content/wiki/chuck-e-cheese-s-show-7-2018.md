@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 7 2018"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2018-11-05"
 endDate = "2018-12-30"
-contributors = ["CyberSnout","Anonymous","Ceclife13","Dame868"]
+contributors = ["Cyber Snout","Anonymous","Ceclife13","Dame868"]
 citations = []
 pageThumbnailFile = "3SzGrMylyp56KLFu4gfa.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]

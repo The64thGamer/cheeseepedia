@@ -1,10 +1,10 @@
 +++
 title = "ColumbusOHMacswayExteriorBeforeClosure.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Columbus, OH (4284 Macsway Ave)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

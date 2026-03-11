@@ -1,10 +1,10 @@
 +++
 title = "Ceclivedemovideo.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Land of 1,000 Dances Live Demo"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

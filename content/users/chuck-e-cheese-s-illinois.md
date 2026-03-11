@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Illinois"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2022-07-23"
 endDate = ""
 contributors = ["Chuck E. Cheese's Illinois"]

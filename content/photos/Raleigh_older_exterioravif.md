@@ -1,10 +1,10 @@
 +++
 title = "Raleigh_older_exterior.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Raleigh, NC (4339 Falls of the Neuse Rd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

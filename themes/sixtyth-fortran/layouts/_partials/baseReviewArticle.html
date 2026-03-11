@@ -1,11 +1,5 @@
 
-{{- partial "display-breadcrumbs.html" . -}}
-<h1 data-pagefind-weight="10">{{- .Title | safeHTML -}}</h1>
-<aside data-pagefind-ignore="all">
-<div class="article-topBar">
-  {{- partial "editButton.html" . -}}
-</div>
-</aside>
+<h1>{{- .Title | safeHTML -}}</h1>
 <div id="section-article" class="article-section">
   <div class="review-content">
     {{- partial "display-review-box.html" . -}}

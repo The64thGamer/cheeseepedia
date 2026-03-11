@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/zcs0gUy_mU0"
-startdate = "2021-01-28"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-01-28"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Our House - Rock Afire Replay

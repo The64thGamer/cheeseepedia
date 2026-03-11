@@ -1,10 +1,6 @@
 
-{{- partial "display-breadcrumbs.html" . -}}
-<h1 data-pagefind-weight="10">{{- .Title | safeHTML -}}</h1>
-<aside data-pagefind-ignore="all">
-<div class="article-topBar">
-  {{- partial "editButton.html" . -}}
-</div>
+<h1>{{- .Title | safeHTML -}}</h1>
+<aside>
 <h2>Used In</h2>
 {{- $currentPageTitle := .Title -}}
 {{- $pages := partialCached "grab-all-wiki-articles.html" "key"}}

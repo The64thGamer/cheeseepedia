@@ -4,12 +4,12 @@ title = "1-Stage"
 startDate = "1992-03-24"
 endDate = ""
 pageThumbnailFile = "Irving_1_stage_full.avif"
-contributors = ["CECBowlingGreen", "ShowBizMidwest", "JamesLemony", "Destinationimagination95", "Rexburg090", "Anonymous", "Anonymous", "ThatBoiCydalan", "John95", "The 64th Gamer", "CECCheese", "BurgersNuggs445", "Anonymous", "Anonymous", "CorrectorMan", "CyberSnout", "Anonymous", "Landon animatronics", "Noshii", "Anonymous", "Anonymous", "Cheeseclassic", "Anonymous", "TheChuckECheeseGuy", "Anonymous", "Chez", "SuperCreamPiper2008", "Newbie editor", "Caydenpedia", "Saan1ty", "EagleScout610", "CECMentor", "Chuckatronics", "Moonrock", "AstridMascotFan2005", "Paskkkk", "CEC1988", "Cy's Junk at School", "Capitanyoda20", "randomguyfan22"]
+contributors = ["CECBowlingGreen", "ShowBizMidwest", "JamesLemony", "Destinationimagination95", "Rexburg090", "Anonymous", "Anonymous", "ThatBoiCydalan", "John95", "The 64th Gamer", "CECCheese", "BurgersNuggs445", "Anonymous", "Anonymous", "CorrectorMan", "Cyber Snout", "Anonymous", "Landon animatronics", "Noshii", "Anonymous", "Anonymous", "Cheeseclassic", "Anonymous", "TheChuckECheeseGuy", "Anonymous", "Chez", "SuperCreamPiper2008", "Newbie editor", "Caydenpedia", "Saan1ty", "EagleScout610", "CECMentor", "Chuckatronics", "Moonrock", "AstridMascotFan2005", "Paskkkk", "CEC1988", "Cy's Junk at School", "Capitanyoda20", "Randomguyfan22 Maker"]
 citations = ["Includes data sourced from the Every Location Ever List https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0"]
 manufacturer = "Corman & Associates"
 unitsProduced = "~70"
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 +++
 The 1-Stage is a stage format found at Chuck E. Cheese locations, which either opened with the stage or replaced a previous stage from 1992 - 1998, 2011, and 2015. It was the last official Munch's Make Believe Band stage created. As of August 2025, 2 1-Stages remain, both in the United States.
 

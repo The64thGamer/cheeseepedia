@@ -1,9 +1,10 @@
 +++
 title = "VNCqQv8MJUXGlav3BtYf.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Chuck E. Cheese 3216m Hybrid (Animatronic)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese 3216m Hybrid (Animatronic)"]
+
 startDate = ""
 +++
+
 An Image of the Bot

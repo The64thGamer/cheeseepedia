@@ -1,10 +1,10 @@
 +++
 title = "Show120.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Show 1 2020"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

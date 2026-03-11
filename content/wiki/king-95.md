@@ -9,8 +9,8 @@ citations = ["https://youtu.be/K1g0VsoUflo"]
 mediaDuration = "14:56"
 showtapeFormats = ["Cyberamics Reel"]
 alsoKnownAs = ["KING '95.", "5.5 VER. CAB. CS-0045", "AS OF 7/95"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***King '95* was the final cabaret showtape produced, as well as the only cabaret showtape to be produced by Disney.**
 

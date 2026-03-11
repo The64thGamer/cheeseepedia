@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/y9andi4vwF4"
-startdate = "2022-07-09"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2022-07-09"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Vanità - Giorgia [Rockafire Replay]

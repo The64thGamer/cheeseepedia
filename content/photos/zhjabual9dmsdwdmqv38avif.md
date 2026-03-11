@@ -1,9 +1,10 @@
 +++
 title = "zHJabUal9DmSdwdmQv38.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Kooser Jasper T. Jowls (Animatronic)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Kooser Jasper T. Jowls (Animatronic)"]
+
 startDate = ""
 +++
+
 1979 Footage

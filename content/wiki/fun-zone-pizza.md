@@ -2,12 +2,11 @@
 title = "Fun Zone & Pizza"
 draft = false
 tags = []
-categories = []
 
 
 startDate = ""
 endDate = ""
-contributors = ["PizzaEntertainmentFanX","BenTrainFan2000"]
+contributors = ["Pizza Entertainment Fan","BenTrainFan2000"]
 citations = []
 pageThumbnailFile = "ZsF5NZvLLGtggQmecGwM.avif"
 +++

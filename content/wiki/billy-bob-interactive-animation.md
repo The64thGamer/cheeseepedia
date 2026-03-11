@@ -5,8 +5,8 @@ endDate = "1992-00-00"
 contributors = ["The 64th Gamer"]
 citations = ["https://www.showbizpizza.com/info/documents/spp/spp_bbinteractive.pdf","https://www.worthpoint.com/worthopedia/showbiz-pizza-interactive-billy-bob-4748217208","https://youtu.be/FOzkOfORgVY","https://youtu.be/Erg3Eg3d-E8","https://www.youtube.com/watch?v=lU2igLuCj4k"]
 manufacturer = "ShowBiz Pizza Place"
-tags = ["Animatronic Control Systems"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronic Control Systems"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "billy-con-day-1-v0-gqffge2voccf1.avif"
 alsoKnownAs = ["Brock Electronics INTERACTIVE ANIMATION SERIES XVI"]
 +++

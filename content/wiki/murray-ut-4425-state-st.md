@@ -1,4 +1,5 @@
 +++
+
 title = "Murray, UT (4425 State St)"
 storeNumber = ""
 startDate = "1983-03-17"
@@ -13,8 +14,8 @@ latitudeLongitude = ["40.67345672","-111.888471"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "romUIt7LWc_D_yDLO9Xe.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

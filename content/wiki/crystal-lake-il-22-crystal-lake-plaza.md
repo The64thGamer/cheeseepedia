@@ -1,8 +1,8 @@
 +++
 title = "Crystal Lake, IL (22 Crystal Lake Plaza)"
 draft = false
-tags = ["Cancelled Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Cancelled Locations"
+tags = ["Pizza Time Theatre"]
 startDate = "1982-11-00"
 endDate = "1983-01-00"
 contributors = ["ShowBizMidwest","Rexburg090","The 64th Gamer"]

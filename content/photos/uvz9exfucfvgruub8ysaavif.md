@@ -1,9 +1,10 @@
 +++
 title = "uvZ9ExFucFvgRUUb8ysA.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["PTT 1980 3 Year Employee Pin"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "PTT 1980 3 Year Employee Pin"]
+
 startDate = ""
 +++
+
 Front

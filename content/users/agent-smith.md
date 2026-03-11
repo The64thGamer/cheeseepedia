@@ -1,8 +1,8 @@
 +++
 title = "Agent smith"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2022-12-03"
 endDate = ""
 contributors = ["Agent smith"]

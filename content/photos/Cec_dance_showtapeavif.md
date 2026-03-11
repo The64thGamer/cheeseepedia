@@ -1,10 +1,10 @@
 +++
 title = "Cec_dance_showtape.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["CEC Dance Showtape"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

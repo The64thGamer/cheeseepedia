@@ -1,4 +1,5 @@
 +++
+
 title = "West Melbourne, FL (2250 Coastal Lane)"
 storeNumber = ""
 startDate = "2011-04-26"
@@ -13,8 +14,8 @@ latitudeLongitude = ["28.07596107","-80.70603008"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "EZzYf37Re2ZI7Yixdvb6.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

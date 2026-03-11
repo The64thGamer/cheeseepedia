@@ -6,9 +6,9 @@ endDate = ""
 contributors = ["CECMentor", "SuperCreamPiper2008", "Thecheesymanfromschool", "Stripes", "Kathdra"]
 citations = ["<a href=\"hhttps://ia801807.us.archive.org/1/items/rock-afire-explosion-service-manual/Rock-afire%20Explosion%20Service%20Manual%20Optimized.pdf\">https://ia801807.us.archive.org/1/items/rock-afire-explosion-service-manual/Rock-afire%20Explosion%20Service%20Manual%20Optimized.pdf</a>"]
 manufacturer = "Creative Engineering"
-tags = ["Animatronics"]
+type = "Animatronics"
 pageThumbnailFile = "DUmyVYhmuby3wSCvlqR4.avif"
-categories = ["ShowBiz Pizza Place"]
+tags = ["ShowBiz Pizza Place"]
 +++
 
 The Rolfe Dewolfe &amp; Earl Schmerle Animatronic (Also the 3-Stage Chuck E. Cheese Animatronic) was one of the main {{< wiki-link "Classic Stage" >}} animatronics produced by Creative Engineering Inc. The animatronic would first be developed in April of 1980, before debuting at the {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}} on August 14th of that year. His character was based off the Wolfman from the {{< wiki-link "Wolf Pack 5" >}} animatronic show Creative Engineering had developed.

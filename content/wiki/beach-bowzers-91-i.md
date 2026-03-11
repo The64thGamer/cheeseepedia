@@ -1,25 +1,46 @@
 +++
-title = "Beach Bowzers '91 I"
+title = "CEC Beach Bowzers Showtape"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
-
-
-startDate = "1991-00-00"
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
+startDate = "1991-05-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","CyberSnout"]
+contributors = ["The 64th Gamer","Cyber Snout","Ceclife13"]
 citations = []
 pageThumbnailFile = "_1ATobDDks3Tl9gU3jRj.avif"
 showtapeFormats = ["Cyberamics Reel"]
 +++
 
-***Beach Bowzers '91 I*** is a showtape released for the Beagles / Beach Bowsers (Lounge) in March of 1991.
+***CEC Beach Bowzers Showtape*** (Also known as ***Beach Bowzers '91 I***) is a showtape released for the Beagles / Beach Bowsers (Lounge) in May of 1991.
+
+## Show List
+
+1. **Segment 1**
+    1. [California Girls](https://en.wikipedia.org/wiki/California_Girls)
+2. **Segment 2**
+   1. [*Little Deuce Coupe*](https://en.wikipedia.org/wiki/Little_Deuce_Coupe_%28song%29)
+3. **Segment 3**
+    1. [Surfer Girl](https://en.wikipedia.org/wiki/Surfer_Girl_%28song%29)
+4. **Segment 4**
+    1. [Help Me, Rhonda](https://en.wikipedia.org/wiki/Help_Me,_Rhonda)
+5. **Segment 5**
+    1. [Do You Want to Dance](https://en.wikipedia.org/wiki/Do_You_Want_to_Dance)
+6. **Segment 6**
+    1. [I Get Around](https://en.wikipedia.org/wiki/I_Get_Around)
+7. **Segment 7**
+    1. [Surf City](https://en.wikipedia.org/wiki/Surf_City_%28song%29)
+8. **Segment 8**
+    1. [Barbara Ann](https://en.wikipedia.org/wiki/Barbara_Ann)
+9. **Segment 9**
+    1. [Surfin' U.S.A.](https://en.wikipedia.org/wiki/Surfin%27_U.S.A.)
+10. **Segment 10**
+      1. [Fun, Fun, Fun](https://en.wikipedia.org/wiki/Fun,_Fun,_Fun)
 
 ## Production
 
 ### Master Tape
 
-The Master SVHS Tape for the show contains no signals, and states '3/11/91' during its intro, likely the date it was mastered. This date matches up with the APS modified dates for its files, which usually correspond to when programming was finished. Due to it being one of the few shows of the time to not contain any video, custom video is provided stating throughout: ELEMENT MASTER BEACH BOWZERS SONG (Song Number)
+The Master SVHS Tape for the show contains no signals and states '3/11/91' during its intro, likely the date it was mastered. This date matches up with the APS modified dates for its files, which usually correspond to when programming was finished. Due to it being one of the few shows of the time to not contain any video, a custom video is provided, stating throughout: ELEMENT MASTER BEACH BOWZERS SONG (Song Number)
 
 ### APS Files
 
@@ -44,35 +65,3 @@ The labels on the two floppies the files appear in states .APS files BEACH BOWZE
 | bow9.bzr  | 169,472      | 3/5/1991 1:56:14PM   | 2:45        | SURFIN' USA           | 2:45                          |
 | bow10.bzr | 164,352      | 3/6/1991 9:55:02 AM  | 2:40        | FUN, FUN, FUN         | 2:40                          |
 
-## Show List
-
-01. **Segment 1**
-    
-    1. [California Girls](https://en.wikipedia.org/wiki/California_Girls)
-02. **Segment 2**
-    
-    1. [*Little Deuce Coupe*](https://en.wikipedia.org/wiki/Little_Deuce_Coupe_%28song%29)
-03. **Segment 3**
-    
-    1. [Surfer Girl](https://en.wikipedia.org/wiki/Surfer_Girl_%28song%29)
-04. **Segment 4**
-    
-    1. [Help Me, Rhonda](https://en.wikipedia.org/wiki/Help_Me,_Rhonda)
-05. **Segment 5**
-    
-    1. [Do You Want to Dance](https://en.wikipedia.org/wiki/Do_You_Want_to_Dance)
-06. **Segment 6**
-    
-    1. [I Get Around](https://en.wikipedia.org/wiki/I_Get_Around)
-07. **Segment 7**
-    
-    1. [Surf City](https://en.wikipedia.org/wiki/Surf_City_%28song%29)
-08. **Segment 8**
-    
-    1. [Barbara Ann](https://en.wikipedia.org/wiki/Barbara_Ann)
-09. **Segment 9**
-    
-    1. [Surfin' U.S.A.](https://en.wikipedia.org/wiki/Surfin%27_U.S.A.)
-10. **Segment 10**
-    
-    1. [Fun, Fun, Fun](https://en.wikipedia.org/wiki/Fun,_Fun,_Fun)

@@ -1,6 +1,6 @@
 +++
 title = "Abbey Road Medley"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[Song: You Never Give Me Your Money.]**

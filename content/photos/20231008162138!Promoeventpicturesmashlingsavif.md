@@ -1,10 +1,10 @@
 +++
 title = "20231008162138!Promoeventpicturesmashlings.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["2023 Piñata Smashlings CEC Promo Campaign (Event)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,8 +1,8 @@
 +++
 title = "Studio 18 Ent"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2023-01-13"
 endDate = ""
 contributors = ["Studio 18 Ent"]

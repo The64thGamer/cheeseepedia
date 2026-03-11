@@ -1,10 +1,10 @@
 +++
 title = "Mah_damn_oint.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

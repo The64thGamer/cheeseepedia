@@ -1,12 +1,14 @@
 +++
+
 title = "Small Chuck E. Plush (1992)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 startDate = "1992-00-00"
 endDate = "0000-00-00"
 contributors = ["ToadEatSock"]
 citations = []
+pageThumbnailFile = "vEr_jHQ88bbPr4KQs8bc.avif"
 +++
 The **1992 Small Chuck E. Plush** was an official product produced for the prize counter in *1992.*
 

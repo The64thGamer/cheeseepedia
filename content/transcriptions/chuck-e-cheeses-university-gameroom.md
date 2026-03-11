@@ -1,6 +1,6 @@
 +++
 title = "Chuck E. Cheeses University Gameroom"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212", "Shozbizdudebeta"]
 +++
 **Chuck E. Cheese: (Voiceover)** 

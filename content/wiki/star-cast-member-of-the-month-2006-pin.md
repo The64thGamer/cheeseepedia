@@ -1,12 +1,14 @@
 +++
+
 title = "Star Cast Member of the Month 2006 Pin"
 draft = false
-tags = ["Employee Wear"]
-categories = ["Chuck E. Cheese's"]
+type = "Employee Wear"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "kPgrW4nmU_LyzhfJhSMl.avif"
 +++
 The ***Star Cast Member of the Month 2006 Pin* was given to CEC employees for their contributions in the store, to be worn on their lanyard.**
 

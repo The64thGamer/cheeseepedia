@@ -1,9 +1,10 @@
 +++
 title = "p_vUZvEr01lcemLuDsxb.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Dingo Starr (Animatronic)"]
+type = "Photos"
+tags = ["Creative Engineering", "Dingo Starr (Animatronic)"]
+
 startDate = ""
 +++
+
 Italpark

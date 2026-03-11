@@ -1,9 +1,10 @@
 +++
 title = "vprdlfm12I5n_FVrruyo.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["ShowBiz Pizza Time Distribution Center (Topeka, KS)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "ShowBiz Pizza Time Distribution Center (Topeka, KS)"]
+
 startDate = ""
 +++
+
 Group Photo (Unknown Year)

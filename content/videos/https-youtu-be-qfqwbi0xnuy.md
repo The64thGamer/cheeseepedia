@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/qfQwbI0xNuY"
-startdate = "1993-09-19"
-pages = ["Lake Forest, CA (24416 Muirlands Blvd)", "Cyberamics Portrait / Shelf Stage", "You're A Star"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "1993-09-19"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "Lake Forest, CA (24416 Muirlands Blvd)", "Portrait / Shelf Stage", "You're A Star"]
 +++
+
 Short clip of Lake Forest, CA 

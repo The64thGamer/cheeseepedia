@@ -1,10 +1,10 @@
 +++
 title = "Microsoft_Eyeless_Chuck_E.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

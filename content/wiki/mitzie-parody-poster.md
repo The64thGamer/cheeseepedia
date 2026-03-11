@@ -1,8 +1,8 @@
 +++
 title = "Mitzie (Parody Poster)"
 draft = false
-tags = ["Store Fixtures"]
-categories = ["ShowBiz Pizza Place","Creative Engineering"]
+type = "Store Fixtures"
+tags = ["ShowBiz Pizza Place","Creative Engineering"]
 startDate = "1988-00-00"
 endDate = "2019-00-00"
 contributors = ["BurgersNuggs445"]

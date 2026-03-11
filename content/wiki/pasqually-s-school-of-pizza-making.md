@@ -1,8 +1,8 @@
 +++
 title = "Pasqually's School of Pizza Making"
 draft = false
-tags = ["Company Media"]
-categories = ["Chuck E. Cheese's"]
+type = "Company Media"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ChuckfeldStan"]

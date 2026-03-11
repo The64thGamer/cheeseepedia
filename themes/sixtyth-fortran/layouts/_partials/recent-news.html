@@ -1,23 +1,16 @@
-{{/* Fetch and parse Discourse News topics safely */}}
-
-{{ $url := "https://forum.cheeseepedia.org/c/news/5/l/latest.json?order=created" }}
-{{ $data := dict }}
-
-{{ with resources.GetRemote $url }}
-  {{ $data = . | transform.Unmarshal }}
-{{ else }}
-  {{ warnf "Could not fetch Discourse JSON from %s" $url }}
-{{ end }}
+{{/* Read Discourse news from data file */}}
+{{ $data := .Site.Data.discourse_news }}
 
 <div class="horizontal-pagebox-scroll">
 {{ with $data.topic_list.topics }}
-  {{ range first 8 . }}
+  {{ $sortedTopics := sort . "created_at" "desc" }}
+  {{ range first 8 $sortedTopics }}
     {{ $topic := . }}
     {{ $id := int $topic.id }}
     {{ $title := $topic.title }}
     {{ $titleLen := len $title }}
     {{ $topicURL := printf "https://forum.cheeseepedia.org/t/%s/%d" $topic.slug $id }}
-
+    
     {{/* Handle image URL safely */}}
     {{ $img := "" }}
     {{ with $topic.image_url }}
@@ -29,16 +22,14 @@
     {{ else }}
       {{ $img = "images/news-fallback.jpg" | relURL }}
     {{ end }}
-
+    
     <div class="alt-list-page-block">
       <div class="alt-list-page-container">
-
         <div class="alt-list-image">
           <a href="{{ $topicURL }}">
             <img src="{{ $img }}" alt="{{ $title }}">
           </a>
         </div>
-
         <div class="alt-list-page-content">
           <a href="{{ $topicURL }}">
             {{- if gt $titleLen 20 -}}
@@ -47,12 +38,10 @@
               {{ $title | safeHTML }}
             {{- end -}}
           </a>
-
           <div class="alt-list-page-date">
             {{ (time $topic.created_at).Format "Jan 2, 2006" }}
           </div>
         </div>
-
       </div>
     </div>
   {{ end }}

@@ -1,9 +1,10 @@
 +++
 title = "TwV0YZ4jLijxYa7zk3dH.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["CEC Coca-Cola Triple Tabletop Ad Stand"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "CEC Coca-Cola Triple Tabletop Ad Stand"]
+
 startDate = ""
 +++
+
 Who Says Learning Can't Be Fun?

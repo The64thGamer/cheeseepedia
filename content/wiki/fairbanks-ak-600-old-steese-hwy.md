@@ -1,4 +1,5 @@
 +++
+
 title = "Fairbanks, AK (600 Old Steese Hwy)"
 storeNumber = ""
 startDate = "1986-01-00"
@@ -13,8 +14,8 @@ latitudeLongitude = ["64.84957302","-147.6970845"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "s1TUSHzM86_Ho_ojVgq8.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

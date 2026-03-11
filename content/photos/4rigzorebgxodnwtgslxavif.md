@@ -1,9 +1,10 @@
 +++
 title = "4RiGzoreBGxodnwtGSLx.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
-pages = ["Gigglebee's"]
+type = "Photos"
+tags = ["Unknown Manufacturers", "Gigglebee's"]
+
 startDate = ""
 +++
+
 Wilbur announcing he will be at an art festival.

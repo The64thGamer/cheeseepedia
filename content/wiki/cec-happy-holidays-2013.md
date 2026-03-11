@@ -4,12 +4,13 @@ title = "CEC Happy Holidays 2013"
 startDate = "2013-12-02"
 endDate = "2013-12-31"
 pageThumbnailFile = "3xQi1OgdEwHzCONX8G2j.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13"]
+contributors = ["The 64th Gamer", "Cyber Snout", "Ceclife13"]
 citations = []
-credits = ["Matt Daniel - Production Manager", "Michael Hill - Studio Coordinator"]
+credits = ["Matt Daniel|Production Manager", "Michael Hill|Studio Coordinator"]
+mediaDuration = "1:25:26"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Holiday Show 2013** is a revised version of the {{< wiki-link "December 2012 Show" >}} for the 2013 holiday season.
 

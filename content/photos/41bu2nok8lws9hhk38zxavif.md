@@ -1,9 +1,10 @@
 +++
 title = "41Bu2NOK8LWS9HHK38ZX.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Chicago, IL (5030 S Kedzie Ave)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Chicago, IL (5030 S Kedzie Ave)"]
+
 startDate = ""
 +++
+
 Current Exterior of the store

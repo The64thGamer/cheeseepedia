@@ -8,8 +8,8 @@ pageThumbnailFile = "whatilikelive01.avif"
 contributors = ["Ceclife13"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "John Bowen - Voice of Mr. Munch", "Earl Fisher - Voice of Pasqually The Chef", "Jeremy Blaido - Director, Voice of Jasper T. Jowls, Show Announcer", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator", "Brian Hagan - Studio Manager", "Brent Gray - Studio Coordinator"]
 showtapeFormats = ["3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 ***What I Like About You 2001*** was the main live show for the {{< wiki-link "September 2001 Show" >}}. It is a cover of ['What I Like About You'](https://en.wikipedia.org/wiki/What_I_Like_About_You_(The_Romantics_song)) with Chuck E. singing lead. 
 

@@ -1,8 +1,8 @@
 +++
 title = "Bubba and the Badland Band + Mark Twain"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Sally Corporation"]
+type = "Stage Variations"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

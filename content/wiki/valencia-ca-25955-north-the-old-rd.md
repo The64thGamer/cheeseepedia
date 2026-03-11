@@ -1,4 +1,5 @@
 +++
+
 title = "Valencia, CA (25955 North The Old Rd)"
 storeNumber = ""
 startDate = "1998-03-04"
@@ -13,8 +14,8 @@ latitudeLongitude = ["34.39125347","-118.5763864"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "__LGWcxiFbLDW1KzJ8hO.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

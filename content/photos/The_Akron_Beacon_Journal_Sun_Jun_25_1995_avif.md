@@ -1,10 +1,10 @@
 +++
 title = "The_Akron_Beacon_Journal_Sun_Jun_25_1995_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

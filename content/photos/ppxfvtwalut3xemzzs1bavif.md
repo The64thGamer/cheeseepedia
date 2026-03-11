@@ -1,9 +1,10 @@
 +++
 title = "PpxfvTWaLut3xEmzzs1b.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["January 2013 Show"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "First Quarter 2013"]
+
 startDate = ""
 +++
+
 3-Stage DVD

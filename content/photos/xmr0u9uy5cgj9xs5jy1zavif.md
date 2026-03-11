@@ -1,9 +1,10 @@
 +++
 title = "XMr0U9uy5CGj9XS5jy1Z.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Crazy Colander Head Night (Event)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Crazy Colander Head Night (Event)"]
+
 startDate = ""
 +++
+
 A ShowBiz employee wearing a decorated colander.

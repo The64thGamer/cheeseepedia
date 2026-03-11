@@ -1,9 +1,10 @@
 +++
 title = "zFDLe6hTw41ObFQMDaEa.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Wolfman Show"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Wolfman Show"]
+
 startDate = ""
 +++
+
 Jacksonville Plans, Top View Construction Notes (March 28, 1980)

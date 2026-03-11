@@ -1,4 +1,5 @@
 +++
+
 title = "Denton, TX (2307 I-35E)"
 storeNumber = ""
 startDate = "1983-00-00"
@@ -13,8 +14,8 @@ latitudeLongitude = ["33.18508352","-97.10783383"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "wMyTmTFTyGua0E6Ft8A3.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

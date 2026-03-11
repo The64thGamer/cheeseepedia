@@ -1,10 +1,10 @@
 +++
 title = "Raedocbanner1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["The Rock-afire Explosion (Movie)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

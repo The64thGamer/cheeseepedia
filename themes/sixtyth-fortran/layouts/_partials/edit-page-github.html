@@ -1,0 +1,350 @@
+<center>
+  {{ if .Params.newPage }}
+    Create a new page below. Fill in the content, then set your title and type in the <strong>General Info</strong> tab before saving.
+  {{ else }}
+    Edit this page's content and metadata below. Changes create a pull request for review before going live.
+  {{ end }}
+</center>
+<br>
+
+<div id="edit-page-content">
+
+  <!-- No-token notice (shown when sessionStorage token is missing) -->
+  <div id="no-token-notice" style="display:none; padding:1rem; border:0.25rem solid var(--brown); border-radius:1rem; background:var(--orange); color:var(--white); margin-bottom:1rem; text-align:center;">
+    ⚠️ No GitHub token set. Open <strong>⚙ Settings</strong> (bottom right) and paste your GitHub Personal Access Token to enable editing.
+  </div>
+
+  <div class="tabs" id="edit-tabs">
+    <div class="tab-buttons">
+      <button class="tab-button active" data-tab="edit-content">Content</button>
+      <button class="tab-button" data-tab="edit-fm-general">General Info</button>
+      <button class="tab-button" data-tab="edit-fm-location">Location</button>
+      <button class="tab-button" data-tab="edit-fm-showtape">Showtape</button>
+      <button class="tab-button" data-tab="edit-fm-products">Products</button>
+      <button class="tab-button" data-tab="edit-actions">Other Actions</button>
+    </div>
+
+    <div class="tab-content">
+
+      <!-- ══ CONTENT ══ -->
+      <div class="tab-panel active" id="edit-content">
+        <div id="custom-toolbar">
+          <button id="insert-wikilink" class="toolbar-btn">Insert Link to Page</button>
+          <button id="insert-citation" class="toolbar-btn">Insert Citation</button>
+        </div>
+        <div id="editor"></div>
+        <hr style="border-color:var(--brown); margin:1.5rem 0;">
+        <div id="citations-section">
+          <label style="display:block; color:var(--yellow); margin-bottom:0.5rem; font-family:var(--font-display);">Citations</label>
+          <p style="font-size:0.8rem; color:var(--deep-white); margin-bottom:0.75rem;">Numbered in the order they appear. Reference in article text with <code id="cite-hint"></code>.</p>
+          <div id="citations-editor"></div>
+        </div>
+        <div id="editor-actions" style="margin-top:1rem;">
+          <button id="save-changes-btn">
+            {{ if .Params.newPage }}Create Page &amp; Create PR{{ else }}Save Changes &amp; Create PR{{ end }}
+          </button>
+          <button id="cancel-edit-btn">Cancel</button>
+        </div>
+      </div>
+
+      <!-- ══ GENERAL FRONTMATTER ══ -->
+      <div class="tab-panel" id="edit-fm-general">
+        <p style="color:var(--deep-white); font-size:0.85rem; margin-bottom:1rem;">
+          {{ if .Params.newPage }}
+            Set the title, type, and tags for the new page. The type determines which folder it goes into.
+          {{ else }}
+            Fields here update the page's metadata. All saves go through a pull request for review.
+          {{ end }}
+        </p>
+        <div id="fm-general-fields"></div>
+        <div style="margin-top:1.5rem;">
+          <button id="save-fm-general-btn">
+            {{ if .Params.newPage }}Create Page &amp; Create PR{{ else }}Save General Info &amp; Create PR{{ end }}
+          </button>
+          <button id="cancel-fm-general-btn" style="margin-left:1rem;">Cancel</button>
+        </div>
+      </div>
+
+      <!-- ══ LOCATION FRONTMATTER ══ -->
+      <div class="tab-panel" id="edit-fm-location">
+        <p style="color:var(--deep-white); font-size:0.85rem; margin-bottom:1rem;">
+          Location-specific fields: store info, coordinates, animatronics, remodels, stages, etc.
+        </p>
+        <div id="fm-location-fields"></div>
+        <div style="margin-top:1.5rem;">
+          <button id="save-fm-location-btn">Save Location Data &amp; Create PR</button>
+          <button id="cancel-fm-location-btn" style="margin-left:1rem;">Cancel</button>
+        </div>
+      </div>
+
+      <!-- ══ SHOWTAPE FRONTMATTER ══ -->
+      <div class="tab-panel" id="edit-fm-showtape">
+        <p style="color:var(--deep-white); font-size:0.85rem; margin-bottom:1rem;">
+          Showtape-specific fields.
+        </p>
+        <div id="fm-showtape-fields"></div>
+        <div style="margin-top:1.5rem;">
+          <button id="save-fm-showtape-btn">Save Showtape Data &amp; Create PR</button>
+          <button id="cancel-fm-showtape-btn" style="margin-left:1rem;">Cancel</button>
+        </div>
+      </div>
+
+      <!-- ══ PRODUCTS FRONTMATTER ══ -->
+      <div class="tab-panel" id="edit-fm-products">
+        <p style="color:var(--deep-white); font-size:0.85rem; margin-bottom:1rem;">
+          Product-specific fields: pricing, sales records, manufacturer info.
+        </p>
+        <div id="fm-products-fields"></div>
+        <div style="margin-top:1.5rem;">
+          <button id="save-fm-products-btn">Save Products Data &amp; Create PR</button>
+          <button id="cancel-fm-products-btn" style="margin-left:1rem;">Cancel</button>
+        </div>
+      </div>
+
+      <!-- ══ OTHER ACTIONS ══ -->
+      <div class="tab-panel" id="edit-actions">
+        <div style="margin-top:1rem;">
+          <button id="add-to-gallery-btn">Add Photos to Gallery</button>
+          <button id="add-video-btn" style="margin-left:1rem;">Add Video</button>
+          <button id="write-review-btn" style="margin-left:1rem;">Write a Review</button>
+        </div>
+      </div>
+
+    </div>
+  </div><!-- /tabs -->
+
+
+  <!-- ══════════════ REVIEW MODAL ══════════════ -->
+  <div id="review-modal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <span class="close-review">&times;</span>
+      <div id="review-step-1" class="step">
+        <h3>Write a Review</h3>
+        <label style="display:block; margin-bottom:8px;">Do you recommend this?</label>
+        <div style="display:flex; gap:12px; margin-bottom:16px;">
+          <label><input type="radio" name="review-recommend" value="true"> &#128077; Yes</label>
+          <label><input type="radio" name="review-recommend" value="false"> &#128078; No</label>
+        </div>
+        <label for="review-title" style="display:block; margin-bottom:4px;">Review Title</label>
+        <input type="text" id="review-title" placeholder="e.g. A fun showtape!" autocomplete="off" style="width:100%; margin-bottom:12px;">
+        <label for="review-body" style="display:block; margin-bottom:4px;">Your Review</label>
+        <textarea id="review-body" placeholder="Write your review here..." rows="8" autocomplete="off" style="width:100%;"></textarea>
+        <p id="review-author-note" style="margin-top:14px; font-size:0.9em; color:#aaa;"></p>
+        <div style="margin-top:10px;">
+          <button id="review-submit">Submit Review</button>
+        </div>
+      </div>
+      <div id="review-step-2" class="step" style="display:none;">
+        <h3>Submitting Review...</h3>
+        <div id="review-progress">
+          <div class="progress-item"><span id="review-prog-1">&#8987;</span> Validating token...</div>
+          <div class="progress-item"><span id="review-prog-2">&#8987;</span> Setting up fork...</div>
+          <div class="progress-item"><span id="review-prog-3">&#8987;</span> Creating branch...</div>
+          <div class="progress-item"><span id="review-prog-4">&#8987;</span> Writing review file...</div>
+          <div class="progress-item"><span id="review-prog-5">&#8987;</span> Creating PR...</div>
+        </div>
+        <div id="review-success" style="display:none;">
+          <h4 style="color:var(--yellow);">&#9989; Review Submitted!</h4>
+          <a id="review-pr-link" href="#" target="_blank" class="github-link">View Pull Request on GitHub</a><br><br>
+          <button id="review-done">Done</button>
+        </div>
+        <div id="review-error" style="display:none; color:var(--orange);">
+          <h4>&#10060; Error</h4>
+          <p id="review-error-msg"></p>
+          <button id="review-retry">Try Again</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════ GALLERY MODAL ══════════════ -->
+  <div id="gallery-upload-modal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <span class="close-gallery">&times;</span>
+      <div id="gallery-step-2" class="step">
+        <h3>Select Images</h3>
+        <input type="file" id="gallery-image-files" accept=".avif" multiple>
+        <p>Only .avif files accepted.</p>
+        <button id="gallery-next-2">Next</button>
+      </div>
+      <div id="gallery-step-3" class="step" style="display:none;">
+        <h3>Image Description</h3>
+        <textarea id="gallery-description" placeholder="Enter description" rows="4" autocomplete="off"></textarea>
+        <button id="gallery-back-2">Back</button>
+        <button id="gallery-next-3">Next</button>
+      </div>
+      <div id="gallery-step-4" class="step" style="display:none;">
+        <h3>Date Photographed</h3>
+        <div class="date-inputs">
+          <select id="gallery-year"  autocomplete="off"><option value="">Year (Unknown)</option></select>
+          <select id="gallery-month" autocomplete="off">
+            <option value="">Month (Unknown)</option>
+            <option value="01">January</option><option value="02">February</option>
+            <option value="03">March</option><option value="04">April</option>
+            <option value="05">May</option><option value="06">June</option>
+            <option value="07">July</option><option value="08">August</option>
+            <option value="09">September</option><option value="10">October</option>
+            <option value="11">November</option><option value="12">December</option>
+          </select>
+          <select id="gallery-day" autocomplete="off"><option value="">Day (Unknown)</option></select>
+        </div>
+        <button id="gallery-back-3">Back</button>
+        <button id="gallery-next-4">Next</button>
+      </div>
+      <div id="gallery-step-5" class="step" style="display:none;">
+        <h3>Creating Pull Request...</h3>
+        <div id="gallery-progress">
+          <div class="progress-item"><span id="gallery-prog-1">&#8987;</span> Validating...</div>
+          <div class="progress-item"><span id="gallery-prog-2">&#8987;</span> Setting up fork...</div>
+          <div class="progress-item"><span id="gallery-prog-3">&#8987;</span> Uploading images...</div>
+          <div class="progress-item"><span id="gallery-prog-4">&#8987;</span> Creating files...</div>
+          <div class="progress-item"><span id="gallery-prog-5">&#8987;</span> Committing...</div>
+          <div class="progress-item"><span id="gallery-prog-6">&#8987;</span> Creating PR...</div>
+        </div>
+        <div id="gallery-success" style="display:none;">
+          <h4 style="color:var(--yellow);">&#9989; Success!</h4>
+          <a id="gallery-pr-link" href="#" target="_blank" class="github-link">View Pull Request</a><br><br>
+          <button id="gallery-done">Done</button>
+        </div>
+        <div id="gallery-error" style="display:none; color:var(--orange);">
+          <h4>&#10060; Error</h4>
+          <p id="gallery-error-msg"></p>
+          <button id="gallery-retry">Try Again</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ══════════════ VIDEO MODAL ══════════════ -->
+  <div id="video-upload-modal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <span class="close-video">&times;</span>
+
+      <!-- Step 1: URL + Mirrors -->
+      <div id="video-step-1" class="step">
+        <h3>Add Video — URL</h3>
+        <label style="display:block; margin-bottom:4px;">Primary Video URL</label>
+        <input type="text" id="video-url" placeholder="https://www.youtube.com/watch?v=..." autocomplete="off" style="width:100%; margin-bottom:12px;">
+        <label style="display:block; margin-bottom:4px;">Alternate / Mirror URLs <span style="font-size:0.8em; color:#aaa;">(optional)</span></label>
+        <div id="video-mirrors-list"></div>
+        <button id="video-add-mirror" style="margin-top:4px;">+ Add Alternate URL</button>
+        <div style="margin-top:16px;">
+          <button id="video-back-1">Cancel</button>
+          <button id="video-next-1" style="margin-left:8px;">Next</button>
+        </div>
+      </div>
+
+      <!-- Step 2: Description -->
+      <div id="video-step-2" class="step" style="display:none;">
+        <h3>Add Video — Description</h3>
+        <textarea id="video-description" placeholder="Describe what this video shows..." rows="6" autocomplete="off" style="width:100%;"></textarea>
+        <div style="margin-top:10px;">
+          <button id="video-back-2">Back</button>
+          <button id="video-next-2" style="margin-left:8px;">Next</button>
+        </div>
+      </div>
+
+      <!-- Step 3: Citations -->
+      <div id="video-step-3" class="step" style="display:none;">
+        <h3>Add Video — Citations</h3>
+        <p style="font-size:0.85em; color:#aaa; margin-bottom:8px;">Add any citations or sources (optional).</p>
+        <div id="video-citations-list"></div>
+        <button id="video-add-citation" style="margin-top:4px;">+ Add Citation</button>
+        <div style="margin-top:16px;">
+          <button id="video-back-3">Back</button>
+          <button id="video-next-3" style="margin-left:8px;">Next</button>
+        </div>
+      </div>
+
+      <!-- Step 4: Date -->
+      <div id="video-step-4" class="step" style="display:none;">
+        <h3>Add Video — Date</h3>
+        <p style="font-size:0.85em; color:#aaa; margin-bottom:8px;">When was this video recorded or uploaded?</p>
+        <div class="date-inputs">
+          <select id="video-year"  autocomplete="off"><option value="">Year (Unknown)</option></select>
+          <select id="video-month" autocomplete="off">
+            <option value="00">Month (Unknown)</option>
+            <option value="01">January</option><option value="02">February</option>
+            <option value="03">March</option><option value="04">April</option>
+            <option value="05">May</option><option value="06">June</option>
+            <option value="07">July</option><option value="08">August</option>
+            <option value="09">September</option><option value="10">October</option>
+            <option value="11">November</option><option value="12">December</option>
+          </select>
+          <select id="video-day" autocomplete="off"><option value="00">Day (Unknown)</option></select>
+        </div>
+        <div style="margin-top:16px;">
+          <button id="video-back-4">Back</button>
+          <button id="video-next-4" style="margin-left:8px;">Submit</button>
+        </div>
+      </div>
+
+      <!-- Step 5: Progress / Success / Error -->
+      <div id="video-step-5" class="step" style="display:none;">
+        <h3>Creating Pull Request...</h3>
+        <div id="video-progress">
+          <div class="progress-item"><span id="video-prog-1">&#8987;</span> Validating...</div>
+          <div class="progress-item"><span id="video-prog-2">&#8987;</span> Setting up fork...</div>
+          <div class="progress-item"><span id="video-prog-3">&#8987;</span> Uploading file...</div>
+          <div class="progress-item"><span id="video-prog-4">&#8987;</span> Committing...</div>
+          <div class="progress-item"><span id="video-prog-5">&#8987;</span> Creating PR...</div>
+        </div>
+        <div id="video-success" style="display:none;">
+          <h4 style="color:var(--yellow);">&#9989; Success!</h4>
+          <a id="video-pr-link" href="#" target="_blank" class="github-link">View Pull Request</a><br><br>
+          <button id="video-done">Done</button>
+        </div>
+        <div id="video-error" style="display:none; color:var(--orange);">
+          <h4>&#10060; Error</h4>
+          <p id="video-error-msg"></p>
+          <button id="video-retry">Try Again</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- ══════════════ SAVE PROGRESS MODAL ══════════════ -->
+  <div id="save-progress-modal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <h3>{{ if .Params.newPage }}Creating Page...{{ else }}Saving Changes...{{ end }}</h3>
+      <div id="save-progress">
+        <div class="progress-item"><span id="save-progress-1">&#8987;</span> Validating token...</div>
+        <div class="progress-item"><span id="save-progress-2">&#8987;</span> Setting up fork...</div>
+        <div class="progress-item"><span id="save-progress-3">&#8987;</span> Creating branch...</div>
+        <div class="progress-item"><span id="save-progress-4">&#8987;</span> {{ if .Params.newPage }}Writing new file...{{ else }}Updating file...{{ end }}</div>
+        <div class="progress-item"><span id="save-progress-5">&#8987;</span> Creating pull request...</div>
+      </div>
+      <div id="save-success" style="display:none;">
+        <h4 style="color:var(--yellow);">&#9989; Pull Request Created!</h4>
+        <a id="save-pr-link" href="#" target="_blank" class="github-link">View Pull Request on GitHub</a><br><br>
+        <button id="close-save-modal">Done</button>
+      </div>
+      <div id="save-error" style="display:none; color:var(--orange);">
+        <h4>&#10060; Error</h4>
+        <p id="save-error-message"></p>
+        <button id="retry-save">Try Again</button>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /edit-page-content -->
+<!-- Toast UI Editor -->
+<link rel="stylesheet" href="/css/toastui-editor.min.css">
+<link rel="stylesheet" href="/css/toastui-editor-dark.min.css">
+<script src="/js/toastui-editor-all.min.js"></script>
+
+<script type="module">
+import { Octokit } from 'https://cdn.skypack.dev/@octokit/rest';
+window.OctokitClass = Octokit;
+window.editorLibsReady = true;
+window.EDITOR_CONFIG = {
+  pageTitle:      {{ .Title | jsonify }},
+  pageTags:       {{ .Params.tags | jsonify }},
+  isNewPage:      {{ if .Params.newPage }}true{{ else }}false{{ end }},
+  sourceFilePath: "{{ if .File }}{{ .File.Path }}{{ end }}"
+};
+const s = document.createElement('script');
+s.src = '/js/editgithub.js';
+document.body.appendChild(s);
+</script>

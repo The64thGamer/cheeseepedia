@@ -1,8 +1,3 @@
-<div class="dropdown-area">
-{{- partialCached "display-dropdown-FEC.html" .Site -}}
-{{- partialCached "display-dropdown-manufacturer.html" .Site -}}
-{{- partialCached "display-dropdown-movie.html" .Site -}}
-</div>
 {{- $tagCategories := dict
   "Animatronics & Walkarounds" (slice "Animatronic Shows" "Stage Variations" "Animatronics" "Retrofits" "Costumed Characters" "Animatronic Parts" "Animatronic Preservation")
   "Showtapes" (slice "Showtapes" "Showtape Formats" "Live Shows" "Puppets" "Family Vision" "ShowBiz Pizza Programs")
@@ -12,7 +7,7 @@
   "Animatronic Control Systems")
   "Documents" (slice "Promotional Material" "Documents" "Corporate Documents")
   "Media" (slice "Photos" "Videos" "News Footage" "Commercials" "Company Media")
-  "History" (slice "History" "Events" "Characters" "Social Media and Websites" "Restaurants/FECs")
+  "History" (slice "History" "Events" "Characters" "Social Media and Websites" "Companies/Brands")
   -}}
 
 <div class="category-tags" id="category-all" style="display: block;">
@@ -22,19 +17,18 @@
 {{- $categories := .Site.Taxonomies.categories -}}
 <div id="loadingTextb" style="visibility:visible; text-align:center; margin-top:1em; color:var(--yellow)">Loading. . .</div>
 <div id="tagsContainerb" style="visibility:hidden;">
-  {{- range $categoryName, $pages := $categories -}}
+{{- range $categoryName, $pages := $categories -}}
     <div class="category-tags" id="category-{{- $categoryName | urlize -}}" style="display: none;">
-      {{- $tags := dict -}} <!-- Initialize a dictionary for tags -->
-      {{- range $pages -}}
-        {{- range .Params.tags -}}
-          {{- $tag := . -}}
-          {{- $count := index $tags $tag | default 0 -}}
-          {{- $tags = merge $tags (dict $tag (add $count 1)) -}}
-        {{- end -}}
-      {{- end -}}
-
-      {{- $categorizedTags := dict -}}
-      {{- $otherTags := dict -}}
+{{- $tags := dict -}}
+{{- range $pages -}}
+{{- $tag := .Params.type -}}
+{{- if $tag -}}
+{{- $count := index $tags $tag | default 0 -}}
+{{- $tags = merge $tags (dict $tag (add $count 1)) -}}
+{{- end -}}
+{{- end -}}
+{{- $categorizedTags := dict -}}
+{{- $otherTags := dict -}}
 
       <!-- Group tags into predefined categories -->
       {{- range $tag, $count := $tags -}}
@@ -51,7 +45,7 @@
       {{- end -}}
 
       <!-- Display grouped tags -->
-      <div class="tri-column" style="column-count: 3;">
+      <div class="tri-column">
 
         <ul>
           {{- range $category, $tags := $categorizedTags -}}

@@ -1,8 +1,8 @@
 +++
 title = "PTT School Computer Program"
 draft = false
-tags = ["History"]
-categories = ["Pizza Time Theatre"]
+type = "History"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

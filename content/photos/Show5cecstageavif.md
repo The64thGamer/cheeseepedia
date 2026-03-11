@@ -1,10 +1,10 @@
 +++
 title = "Show5cecstage.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Show 5 2015"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "6aaaaa.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["CEC American Pride"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,9 +1,10 @@
 +++
 title = "MxkeW87WQUbnHQZpGHaU.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Chuck E. Cheese's Computer Learning Center"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Chuck E. Cheese's Computer Learning Center"]
+
 startDate = ""
 +++
+
 CEC Computer Learning Center Logo

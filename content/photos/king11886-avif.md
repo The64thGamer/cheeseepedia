@@ -1,8 +1,9 @@
 +++
 title = "king11886.avif"
-startdate = "2025-03-00"
-pages = ["King I"]
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+startDate = "2025-03-00"
+
+type = "Photos"
+tags = ["Pizza Time Theatre", "King I"]
 +++
+
 A King I tape from April 29, 1986

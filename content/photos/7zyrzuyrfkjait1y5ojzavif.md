@@ -1,8 +1,8 @@
 +++
 title = "7ZYrzuYRfKJaIt1Y5Ojz.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["Cyberamic Clippard Valve Maintenance"]
+type = "Photos"
+tags = ["", "Cyberamic Clippard Valve Maintenance"]
+
 startDate = ""
 +++

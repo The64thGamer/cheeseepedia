@@ -5,7 +5,7 @@ startDate = "1981-06-00"
 endDate = "2001-00-00"
 cuDate = ""
 remodels = []
-stages = ["Cyberamics Portrait / Shelf Stage|1981-06-00|2001-00-00|"]
+stages = ["Portrait / Shelf Stage|1981-06-00|2001-00-00|"]
 franchisees = []
 attractions = []
 sqft = ""
@@ -14,7 +14,7 @@ citations = ["https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=13263
 contributors = []
 downloadLinks = []
 pageThumbnailFile = "Qi9mex3rZS1vuD3ZDCSi.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

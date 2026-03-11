@@ -1,10 +1,10 @@
 +++
 title = "April_1999_Side.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["April 1999"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

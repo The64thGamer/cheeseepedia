@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Summer Show 2024"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2024-04-29"
 endDate = "2024-07-07"
-contributors = ["CyberSnout","Dame0824","AstridMascotFan2005"]
+contributors = ["Cyber Snout","Dame0824","AstridMascotFan2005"]
 citations = []
 pageThumbnailFile = "e88yJV1E44_4lC1F8T1x.avif"
 showtapeFormats = ["3-Stage Navori","CEC Stage Navori","Media Navori"]

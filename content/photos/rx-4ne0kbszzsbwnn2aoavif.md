@@ -1,9 +1,10 @@
 +++
 title = "rX_4Ne0kbSzZsbWnN2Ao.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Cyberamics Tester"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cyberamics Tester"]
+
 startDate = ""
 +++
+
 Unit Back

@@ -6,15 +6,15 @@
 {{- $latestPages := first 30 $sortedPages -}}
 
 
-<aside data-pagefind-ignore="all">
-    <div class="tri-column" style="column-count: 3;">
+<aside>
+    <div class="tri-column">
 
         <ul id="recent-changes-list">
             {{- range $latestPages -}}
             <li class="recent-item"
                 data-updated="{{ .GitInfo.AuthorDate.Format "2006-01-02T15:04:05Z07:00" }}">
                 <a href="{{ .RelPermalink }}">
-                {{- with .Params.Tags -}}
+                {{- with .Params.type -}}
                     {{- partial "emojijustemoji.html" . -}}{{- " " -}}
                 {{- end -}}
                 {{- with .LinkTitle -}}

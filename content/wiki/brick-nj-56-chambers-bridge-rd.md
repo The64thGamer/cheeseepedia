@@ -1,4 +1,5 @@
 +++
+
 title = "Brick, NJ (56 Chambers Bridge Rd)"
 storeNumber = ""
 startDate = "1993-01-19"
@@ -13,8 +14,8 @@ latitudeLongitude = ["40.05727272","-74.14163633"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "YTikwXVT7W26QfxyrqYF.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

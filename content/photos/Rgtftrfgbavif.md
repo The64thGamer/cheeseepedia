@@ -1,10 +1,10 @@
 +++
 title = "Rgtftrfgb.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Cyberstar Diagnostic Tape"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

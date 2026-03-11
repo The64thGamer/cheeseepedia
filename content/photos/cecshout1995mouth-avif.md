@@ -1,7 +1,8 @@
 +++
 title = "cecshout1995mouth.avif"
-pages = ["Shout"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Shout"]
 +++
+
 Screenshot of "Shout" live show

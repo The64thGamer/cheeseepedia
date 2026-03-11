@@ -1,10 +1,10 @@
 +++
 title = "C498CBB3-A5B5-4D7F-9DBC-2CD9A3706AF0.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Show 4 2019"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

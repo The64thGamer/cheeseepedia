@@ -4,10 +4,10 @@ title = "Chuck E. Cheese 32m (Animatronic)"
 startDate = "1997-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "W972pdZkOB__ypEbG6AZ.avif"
-contributors = ["CECBowlingGreen", "BurgersNuggs445", "CyberSnout", "Destinationimagination95", "CEC Denver", "GallaRBX2", "ShowBizMidwest", "Anonymous", "Rexburg090", "RedaCEC", "The 64th Gamer", "ChuckfeldStan", "ChuckEPediaIsTheBest!", "Midwestretail", "Pasquallytheplumber", "ThatBoiCydalan", "AstridMascotFan2005", "randomguyfan22"]
+contributors = ["CECBowlingGreen", "BurgersNuggs445", "Cyber Snout", "Destinationimagination95", "CEC Denver", "GallaRM", "ShowBizMidwest", "Anonymous", "Rexburg090", "RedaCEC", "The 64th Gamer", "ChuckfeldStan", "ChuckEPediaIsTheBest!", "Midwestretail", "Pasquallytheplumber", "ThatBoiCydalan", "AstridMascotFan2005", "Randomguyfan22 Maker"]
 citations = ["<a href=\"https://www.micechat.com/170277-animatronic-life-build-better-animatronic-chuck-e-cheese/\">https://www.micechat.com/170277-animatronic-life-build-better-animatronic-chuck-e-cheese/</a>"]
-tags = ["Animatronics"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronics"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Chuck E. Cheese 32m Animatronic*** is an animatronic figure created by Garner Holt Productions Inc. for Chuck E. Cheese's locations, manufactured from 1997-2001. The {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}} was created in 2002 to replace this animatronic due to it's cost.
 

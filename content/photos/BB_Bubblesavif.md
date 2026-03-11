@@ -1,10 +1,10 @@
 +++
 title = "BB_Bubbles.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,13 +1,13 @@
 +++
 title = "Looney Bird Interactive (Mijjin)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 
 
 startDate = "1998-00-00"
 endDate = "0000-00-00"
-contributors = ["GallaRBX2","The 64th Gamer"]
+contributors = ["GallaRM","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "Zgp1dEGuAGSukbZnsSmT.avif"
 manufacturer = "Creative Engineering"

@@ -1,9 +1,10 @@
 +++
 title = "https://youtu.be/IYwu8o33isA"
-startdate = "1982-00-00"
-pages = ["Hang in There Howie (Commercial)", "1982 Articulated Chuck Walkaround"]
+startDate = "1982-00-00"
+
 mirroredLinks = ["https://youtu.be/ydvt3sI52DA", "https://www.showbizpizza.com/videos/legacy_wmv/ptt/commercials/ptt_howie.wmv"]
-tags = ["Videos"]
-categories = ["Pizza Time Theatre"]
+type = "Videos"
+tags = ["Pizza Time Theatre", "Hang in There Howie (Commercial)", "1982 Articulated Chuck Walkaround"]
 +++
+
 'Hang in There Howie' Commercial

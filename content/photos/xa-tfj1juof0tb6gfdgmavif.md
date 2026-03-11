@@ -1,9 +1,10 @@
 +++
 title = "xA_TFJ1jUof0Tb6GFdGm.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Milwaukee, WI (2701 S Chase Ave)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Milwaukee, WI (2701 S Chase Ave)"]
+
 startDate = ""
 +++
+
 Milwaukee before the 2.0 remodel. (September 2021)

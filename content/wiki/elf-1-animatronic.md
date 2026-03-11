@@ -7,8 +7,8 @@ pageThumbnailFile = ""
 contributors = ["Kathydra"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=P_xrIayIsV8\">https://www.youtube.com/watch?v=P_xrIayIsV8</a> ", "<a href=\"https://www.showbizpizza.com/events/index.html\">https://www.showbizpizza.com/events/index.html</a>  "]
 credits = []
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 +++
 
 ***Maynard*** is the Elf that plays the bass and thinks sometimes he is a one-elf band.

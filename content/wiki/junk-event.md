@@ -6,8 +6,8 @@ endDate = "1983-00-00"
 pageThumbnailFile = "junkevent2934234.avif"
 contributors = ["The 64th Gamer"]
 citations = ["http://www.showbizpizza.com/review/rae/special_junk.html", "https://youtu.be/al4mKmLZdiA"]
-tags = ["Events"]
-categories = ["ShowBiz Pizza Place"]
+type = "Events"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***Junk Day*** was a small trial event that took place at ShowBiz Pizza Places sometime in late 1983, most likely in October during {{< wiki-link "ShowBiz's Fabulous Fall Festival (Event)" >}}. Customers would bring in junk to hang up on the walls in exchange for free tokens.{{< cite 1 >}}{{< cite 2 >}}
 

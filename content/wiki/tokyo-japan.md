@@ -1,8 +1,8 @@
 +++
 title = "Tokyo, Japan"
 draft = false
-tags = ["Cancelled Locations"]
-categories = ["Chuck E. Cheese's"]
+type = "Cancelled Locations"
+tags = ["Chuck E. Cheese's"]
 startDate = "1999-00-00"
 endDate = "1999-00-00"
 contributors = ["ShowBizMidwest"]

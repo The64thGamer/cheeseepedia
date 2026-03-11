@@ -1,10 +1,10 @@
 +++
 title = "Chuck_e_chesse_memory_match_speaker_grill_35.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

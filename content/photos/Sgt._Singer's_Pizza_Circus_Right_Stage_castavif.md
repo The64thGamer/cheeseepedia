@@ -1,10 +1,10 @@
 +++
 title = "Sgt._Singer's_Pizza_Circus_Right_Stage_cast.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Sgt. Singer's Pizza Circus"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

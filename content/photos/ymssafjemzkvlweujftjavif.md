@@ -1,9 +1,10 @@
 +++
 title = "YMssAFJeMzKVLwEUJfTJ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Boys' Life (Magazine)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Boys' Life (Magazine)"]
+
 startDate = ""
 +++
+
 Full Poster with the bottom text.

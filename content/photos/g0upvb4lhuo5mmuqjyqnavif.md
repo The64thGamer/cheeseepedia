@@ -1,9 +1,10 @@
 +++
 title = "g0Upvb4LHuO5MmUqJyqN.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Gulliver's Kingdom Stage"]
+type = "Photos"
+tags = ["Creative Engineering", "Gulliver's Kingdom Stage"]
+
 startDate = ""
 +++
+
 Looney Bird on 2023/09/24

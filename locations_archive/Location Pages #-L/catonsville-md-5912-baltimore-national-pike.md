@@ -13,7 +13,7 @@ pageThumbnailFile = "f9P7NuEjSldXm9wJMn7J.avif"
 latitudeLongitude = ["39.28648827","-76.73636868"]
 +++
 
-***Catonsville, MD (5912 Baltimore National Pike)*** is a *Chuck E. Cheese* that opened on February 25, 1992 with a {{< wiki-link "Cyberamics Road Stage" >}}, and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
+***Catonsville, MD (5912 Baltimore National Pike)*** is a *Chuck E. Cheese* that opened on February 25, 1992 with a {{< wiki-link "Road Stage" >}}, and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
 
 ## History
 
@@ -24,6 +24,6 @@ This location opened February of 1992 with a Road Stage, In the mid 1990s they w
 | Stage                                                                                             | Installed | Removed      | Notes                               |
 |---------------------------------------------------------------------------------------------------|-----------|--------------|-------------------------------------|
 |                                                                                                   |           |              |                                     |
-| {{< wiki-link "Cyberamics Road Stage" >}}                                                   | May 1992  | Mid 90s      | One of three installed in Maryland. |
+| {{< wiki-link "Road Stage" >}}                                                   | May 1992  | Mid 90s      | One of three installed in Maryland. |
 | {{< wiki-link "2-Stage" >}}                                                                 | Mid 90s   | May 2024     | One of five installed in Maryland.  |
 | {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | May 2024  | Still in Use | 2021 Model                          |

@@ -1,9 +1,10 @@
 +++
 title = "Hi5pxpHWToVCfw2dyTBT.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
-pages = ["Gigglebee's"]
+type = "Photos"
+tags = ["Unknown Manufacturers", "Gigglebee's"]
+
 startDate = ""
 +++
+
 Bumper Cars at Track Stars

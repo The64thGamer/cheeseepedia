@@ -1,8 +1,8 @@
 +++
 title = "New Years Eve Countdown '82'"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1982-12-31"
 endDate = "1983-01-01"
 contributors = ["The 64th Gamer"]

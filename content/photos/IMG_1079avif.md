@@ -1,10 +1,10 @@
 +++
 title = "IMG_1079.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

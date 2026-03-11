@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Evergreen Show 2024 (July Update) Legacy CEC Stage"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2024-07-29"
 endDate = "2024-09-29"
-contributors = ["AstridMascotFan2005","CyberSnout","Dame0824"]
+contributors = ["AstridMascotFan2005","Cyber Snout","Dame0824"]
 citations = []
 pageThumbnailFile = "qOY3HuNWzWpH1_Gniu4i.avif"
 showtapeFormats = ["Legacy CEC Stage Navori"]

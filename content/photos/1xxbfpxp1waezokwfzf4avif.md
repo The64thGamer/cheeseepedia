@@ -1,9 +1,10 @@
 +++
 title = "1xXBfPXP1wAEZOkWfZf4.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["TJ Hartford's Sports Grille"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "TJ Hartford's Sports Grille"]
+
 startDate = ""
 +++
+
 April 2003 Black Logo

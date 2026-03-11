@@ -1,10 +1,10 @@
 +++
 title = "98chuckhead.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck 1998 (Costume Head)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

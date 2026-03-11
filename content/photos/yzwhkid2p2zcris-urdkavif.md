@@ -1,9 +1,10 @@
 +++
 title = "yZWhkid2P2ZCriS_uRDK.avif"
 draft = false
-tags = ["Photos"]
-categories = []
-pages = ["'Flabby Road' (CD Award)"]
+type = "Photos"
+tags = ["'Flabby Road' (CD Award)"]
+
 startDate = ""
 +++
+
 1991 Release

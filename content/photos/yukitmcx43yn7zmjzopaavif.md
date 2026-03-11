@@ -1,10 +1,11 @@
 +++
 title = "YUkITMCx43yN7zMjZopa.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Ogden, UT (3155 Harrison Blvd)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Ogden, UT (3155 Harrison Blvd)"]
+
 startDate = ""
 citations = ["https://www.facebook.com/pages/category/Performance---Event-Venue/The-Paris-Cafe-311007952339744/"]
 +++
+
 2012-2014

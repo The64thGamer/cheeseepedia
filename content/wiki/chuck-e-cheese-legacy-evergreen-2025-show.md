@@ -3,11 +3,11 @@ title = "Chuck E. Cheese Legacy Evergreen 2025 Show"
 startDate = "2025-01-06"
 endDate = "2025-04-27"
 pageThumbnailFile = "evergreen2025.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["CEC Navori Player"]
 showtapeFormats = ["Legacy Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese Evergreen Show 2025*** was the legacy evergreen show released on January 6, 2025.
 

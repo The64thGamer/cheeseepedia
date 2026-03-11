@@ -14,7 +14,7 @@ citations = []
 contributors = []
 downloadLinks = ["https://archive.org/download/ptt-diamond-bar-plans|Building Plans (1982)"]
 pageThumbnailFile = "yqaEWHMzKVWkHWQdSF6g.avif"
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

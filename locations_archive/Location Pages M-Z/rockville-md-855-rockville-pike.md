@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 startDate = "1981-06-00"
 endDate = "1985-00-00"
-contributors = ["Cheeseclassic","PizzaEntertainmentFanX"]
+contributors = ["Cheeseclassic","Pizza Entertainment Fan"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf\">https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf</a>","https://youtu.be/87BBFqL0PUY?si=fKxYr-nsQ7PX4rCO"]
 latitudeLongitude = ["39.07384167","-77.13856733"]
 +++

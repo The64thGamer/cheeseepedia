@@ -1,9 +1,10 @@
 +++
 title = "_khXV2yRh62FOx7AUUJD.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Layton, UT (450 North Main St)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Layton, UT (450 North Main St)"]
+
 startDate = ""
 +++
+
 Counters

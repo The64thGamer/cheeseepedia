@@ -1,10 +1,10 @@
 +++
 title = "Gju10.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["CEC Jan '91"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

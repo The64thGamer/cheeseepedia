@@ -1,4 +1,5 @@
 +++
+
 title = "Flint, MI (3489 Miller Rd)"
 storeNumber = ""
 startDate = "1982-12-03"
@@ -13,8 +14,8 @@ latitudeLongitude = ["42.98333682","-83.74945823"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "Flint,_MI_Exterior.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

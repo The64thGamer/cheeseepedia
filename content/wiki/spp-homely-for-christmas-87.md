@@ -1,8 +1,8 @@
 +++
 title = "SPP Homely For Christmas '87"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1987-11-16"
 endDate = "1988-01-00"
 contributors = ["The 64th Gamer","DerekCat"]

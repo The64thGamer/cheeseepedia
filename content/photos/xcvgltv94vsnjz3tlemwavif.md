@@ -1,9 +1,10 @@
 +++
 title = "xcvgLtv94VSNjz3TLEmw.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Gulliver's Bear Show (Matlock)"]
+type = "Photos"
+tags = ["Creative Engineering", "Gulliver's Bear Show (Matlock)"]
+
 startDate = ""
 +++
+
 The original master SVHS tape.

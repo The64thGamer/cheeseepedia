@@ -2,8 +2,8 @@
 title = "s-l16005g.avif"
 startDate = ""
 draft = false
-pages = ["1978 Chuck E. Cheese Halloween Mask"]
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+
+type = "Photos"
+tags = ["Pizza Time Theatre", "1978 Chuck E. Cheese Halloween Mask"]
 citations = []
 +++

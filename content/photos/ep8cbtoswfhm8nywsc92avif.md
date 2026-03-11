@@ -1,9 +1,10 @@
 +++
 title = "EP8CbTOSWFHM8nYWSC92.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Cyberamic Control System"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cyberamic Control System"]
+
 startDate = ""
 +++
+
 Chuck E. Character Drive Card (Rev A)

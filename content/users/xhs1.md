@@ -1,8 +1,8 @@
 +++
 title = "XHS1"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2023-07-28"
 endDate = ""
 contributors = ["XHS1"]

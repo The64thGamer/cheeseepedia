@@ -1,10 +1,11 @@
 +++
 title = "wwo89dsi51nkvlmu.avif"
 draft = false
-tags = ["Photos"]
-category = "ShowBiz Pizza Place"
-pages = ["ShowBiz Prize Place"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "ShowBiz Prize Place"]
+
 startDate = "2025-12-03"
-citation = "Twitter"
+citations = ["Twitter"]
 +++
+
 Twitter Ad featuring a fan-render.

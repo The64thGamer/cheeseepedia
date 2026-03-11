@@ -1,8 +1,8 @@
 +++
 title = "eF64zyUL_oB20H_xmMxY.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Mitzie (Parody Poster)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Mitzie (Parody Poster)"]
+
 startDate = ""
 +++

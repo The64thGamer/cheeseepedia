@@ -1,9 +1,10 @@
 +++
 title = "Nf8H1d4sbkyD0jfg6zEO.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Crazy Colander Head Night (Event)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Crazy Colander Head Night (Event)"]
+
 startDate = ""
 +++
+
 Letter From [[Savannah, GA (6700 Abercorn St)]] (After March)

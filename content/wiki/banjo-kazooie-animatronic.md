@@ -8,8 +8,8 @@ citations = ["https://www.youtube.com/watch?v=gjrzhAXdVog", "https://www.faceboo
 manufacturer = "Unknown"
 unitsProduced = "1"
 dimensions = "4.5' Wingspan"
-tags = ["Animatronics"]
-categories = ["AnimatedFX"]
+type = "Animatronics"
+tags = ["AnimatedFX"]
 +++
 ***Banjo & Kazooie* is an animatronic/puppet duo created by AnimatedFX, Inc. for use in a 1998 commercial for the game Banjo Kazooie.
 The animatronic consists of two separate bots: Banjo, whom is depicted like a realistic bear in a dangling pose, and Kazooie, who is picking him up in the air.**

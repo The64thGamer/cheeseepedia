@@ -4,11 +4,11 @@ title = "Large Jasper Plush (1996)"
 startDate = "1996-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "Ev9E25p9ZPbshvkj2o4o.avif"
-contributors = ["ToadEatSock", "BurgersNuggs445", "CEC Tinley", "randomguyfan22"]
+contributors = ["ToadEatSock", "BurgersNuggs445", "CEC Tinley", "Randomguyfan22 Maker"]
 citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
 manufacturer = "Dennis Foland Inc's"
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 +++
 The **1996 Large Jasper Plush** was a official product produced for the Prize counters in 1996 by Dennis Foland. Inc.
 

@@ -1,6 +1,6 @@
 +++
 title = "Smile America PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Female Singer:**

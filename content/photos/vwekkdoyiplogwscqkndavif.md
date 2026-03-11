@@ -1,9 +1,10 @@
 +++
 title = "VweKKDoYiPlOgWSCQKnd.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
-pages = ["Weber Bicentennial Time Machine Show"]
+type = "Photos"
+tags = ["Creative Presentations", "Weber Bicentennial Time Machine Show"]
+
 startDate = ""
 +++
+
 Image showing Kettle II and Weber Wabbithttps://www.newspapers.com/article/southend-reporter-cpi-time-machine-show/141756649/

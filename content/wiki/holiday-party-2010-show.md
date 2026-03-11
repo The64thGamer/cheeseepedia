@@ -4,11 +4,12 @@ title = "Holiday Party 2010 Show"
 startDate = "2010-12-01"
 endDate = "2010-12-00"
 pageThumbnailFile = "AkxqRm019DNvrcxRGspd.avif"
-contributors = ["The 64th Gamer", "CyberSnout", "Ceclife13"]
+contributors = ["The 64th Gamer", "Cyber Snout", "Ceclife13"]
 citations = []
+credits = ["Robert Gotcher|Director", "Michael Hill|Studio Coordinator", "Matt Daneil|Production Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E.'s Holiday Party 2010** released and played during December 2010.
 

@@ -1,10 +1,10 @@
 +++
 title = "Fm_1960_CEC_2018.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

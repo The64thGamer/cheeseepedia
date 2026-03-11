@@ -1,9 +1,10 @@
 +++
 title = "s_mlQlEZbqLijJe9FKT4.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Tucson, AZ (6125 E Speedway Blvd)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Tucson, AZ (6125 E Speedway Blvd)"]
+
 startDate = ""
 +++
+
 Exterior, 2023

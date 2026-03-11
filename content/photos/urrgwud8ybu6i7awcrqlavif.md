@@ -1,8 +1,8 @@
 +++
 title = "UrRGwUd8ybU6i7awCRql.avif"
 draft = false
-tags = ["Photos"]
-categories = []
-pages = ["BurgersNuggs445"]
+type = "Photos"
+tags = ["BurgersNuggs445"]
+
 startDate = ""
 +++

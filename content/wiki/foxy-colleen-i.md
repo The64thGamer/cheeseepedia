@@ -1,8 +1,8 @@
 +++
 title = "Foxy Colleen I"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1978-10-00"
 endDate = "1979-00-00"
 contributors = ["The 64th Gamer"]

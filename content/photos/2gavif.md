@@ -1,10 +1,10 @@
 +++
 title = "2g.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Environment '92"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -4,13 +4,14 @@ title = "December 2012 Show"
 startDate = "2012-11-26"
 endDate = "2012-12-00"
 pageThumbnailFile = "3xQi1OgdEwHzCONX8G2j.avif"
-contributors = ["CyberSnout", "Montfortdog", "John95", "Ceclife13", "The 64th Gamer", "Cy's Junk at School"]
+contributors = ["Cyber Snout", "Montfortdog", "John95", "Ceclife13", "The 64th Gamer", "Cy's Junk at School"]
 citations = []
-credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Matt Daniel - Production Coordinator", "Michael Hill - Studio Coordinator"]
+credits = ["Jaret Reddick|Voice of Chuck E. Cheese", "Matt Daniel|Production Coordinator", "Michael Hill|Studio Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
-alsoKnownAs = ["Chuck E. Cheese Happy Holidays 2012*USA VERSION*This DVD is only to be played at Chuck E. Cheese's locations with the CEC Stage DVD ShowPlay only during the month of December 20102.(C) Copyright 2012 CEC Entertainment Concepts L.P.All rights reserved.The more you give,the more you get."]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+alsoKnownAs = ["Chuck E. Cheese Happy Holidays 2012*USA VERSION*This DVD is only to be played at Chuck E. Cheese's locations with the CEC Stage DVD ShowPlay only during the month of December 2012.(C) Copyright 2012 CEC Entertainment Concepts L.P.All rights reserved.The more you give,the more you get."]
+mediaDuration = "1:31:40"
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **December 2012** is the Holiday show released November 26, 2012, featuring the nine songs from {{< wiki-link "Holiday 2002" >}} with their vocals re-recorded by Jaret Reddick, along with rerecorded instrumentals.
 

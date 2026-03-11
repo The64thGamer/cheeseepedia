@@ -1,9 +1,10 @@
 +++
 title = "ziFrAuxGdvOQazoj8v0W.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Bear Country Jubilee"]
+type = "Photos"
+tags = ["Creative Engineering", "Bear Country Jubilee"]
+
 startDate = ""
 +++
+
 Four Seasoned Bears at Americana

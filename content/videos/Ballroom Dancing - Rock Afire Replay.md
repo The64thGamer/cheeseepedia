@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/AlyDnm4t06s"
-startdate = "2021-03-03"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-03-03"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Ballroom Dancing - Rock Afire Replay

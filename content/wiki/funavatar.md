@@ -5,8 +5,8 @@ startDate = "2022-08-11"
 endDate = "2024-10-11"
 pageThumbnailFile = "Funavatar.avif"
 contributors = ["The 64th Gamer"]
-tags = ["History"]
-categories = ["Chuck E. Cheese's"]
+type = "History"
+tags = ["Chuck E. Cheese's"]
 citations = ["https://www.reddit.com/user/funavatar/comments/"]
 +++
 ***u/funavatar* was an alleged Reddit account of a CEC corporate employee that divulged internal information and the likely opinions of CEC Corporate as they were happening, mainly around the developments of the {{< wiki-link "CEC Legacy Locations" >}}.**

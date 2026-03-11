@@ -1,9 +1,9 @@
 +++
 title = "Retro_CEC_Funko_Pop.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Retro Chuck E. Cheese Funko POP!"]
 startDate = ""
 draft = false
-pages = ["Retro Chuck E. Cheese Funko POP!"]
+
 citations = []
 +++

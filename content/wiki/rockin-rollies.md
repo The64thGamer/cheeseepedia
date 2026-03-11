@@ -7,8 +7,8 @@ pageThumbnailFile = "CBvitHhOeADZEXMRJbIp.avif"
 contributors = ["Lelmaster"]
 citations = ["<a href=\"https://www.newspapers.com/image/239986137/?match=1&terms=The%20Rockin%20Rollies%20Animated%20Stage%20Show&clipping_id=142570522\">https://www.newspapers.com/image/239986137/?match=1&terms=The%20Rockin%20Rollies%20Animated%20Stage%20Show&clipping_id=142570522</a>", "<a href=\"https://www.newspapers.com/image/239986698/?match=1&clipping_id=148088987\">https://www.newspapers.com/image/239986698/?match=1&clipping_id=148088987</a>", "<a href=\"https://www.newspapers.com/image/239995538/?match=1\">https://www.newspapers.com/image/239995538/?match=1</a>", "<a href=\"https://www.newspapers.com/image/243773560/?match=1&terms=&#x22;Rockin%20Rollie%27s&#x22;&clipping_id=148087704\">https://www.newspapers.com/image/243773560/?match=1&terms=&#x22;Rockin%20Rollie%27s&#x22;&clipping_id=148087704</a>", "https://www.instagram.com/p/DEt3zBZuaGz/?igsh=YjFjN2J5anprOXQw", "https://www.newspapers.com/image/239990369/?match=1&clipping_id=148089196", "https://www.newspapers.com/image/240035399/?match=1&clipping_id=148089387"]
 credits = []
-tags = ["Animatronic Shows"]
-categories = ["Unknown Manufacturers"]
+type = "Animatronic Shows"
+tags = ["Unknown Manufacturers"]
 +++
 
 Rockin' Rollie's was an obscure animatronic pizza place that opened in Sioux Falls South Dakota on June 13th of 1990(1) and closed on July 31st of 1991.(1) The business was run by Galaxy Enterprises Inc owners Randy Koepsell, Randy Hindbjorgen, Chris Kirkus, and Doug McBeth.(2) Galaxy Enterprises commissioned LifeForms of Toledo to produce the show, and then made the show audio in house.(5)  

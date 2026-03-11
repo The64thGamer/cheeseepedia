@@ -1,8 +1,8 @@
 +++
 title = "Family Vision 505"
 draft = false
-tags = ["Family Vision"]
-categories = ["ShowBiz Pizza Place"]
+type = "Family Vision"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1986-10-00"
 endDate = "1986-11-00"
 contributors = ["The 64th Gamer","DerekCat"]

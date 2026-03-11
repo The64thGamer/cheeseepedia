@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/xUF5lKxTLE8"
-startdate = "2021-08-11"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-08-11"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 True Colors-Rockafire Replay

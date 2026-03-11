@@ -1,8 +1,9 @@
 +++
 title = "auuuuuuuuussiecharles.avif"
-startdate = "2025-03-17"
-pages = ["Perth, Australia"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "2025-03-17"
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Joondalup, WA, Australia (3/7 Winton Rd)"]
 +++
+
 Chuck E. walkaround in the city of Perth, AU.

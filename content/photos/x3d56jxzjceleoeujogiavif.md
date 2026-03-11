@@ -1,9 +1,10 @@
 +++
 title = "x3d56jXZJCElEoeUjogi.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Click / Murray D. Bird (Animatronic)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Click / Murray D. Bird (Animatronic)"]
+
 startDate = ""
 +++
+
 Back side of the clock, with Click inside.

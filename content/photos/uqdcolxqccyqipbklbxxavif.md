@@ -1,9 +1,10 @@
 +++
 title = "uqdCoLxQCcyqiPbklbxX.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Orlando (East), FL (449 N Alafaya Trail)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Orlando (East), FL (449 N Alafaya Trail)"]
+
 startDate = ""
 +++
+
 CEC Branded MooMoo Arcade (December 30, 2021)

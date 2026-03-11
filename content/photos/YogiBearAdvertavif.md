@@ -1,9 +1,10 @@
 +++
 title = "YogiBearAdvert.avif"
-startdate = "1987-10-00"
+startDate = "1987-10-00"
 citations = ["https://www.newspapers.com/article/omaha-world-herald-yogi/164127100/"]
-pages = ["Introducing: Yogi Bear!"]
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
+
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Introducing: Yogi Bear!"]
 +++
+
 Advertisement for the Yogi Bear show at Omaha, NE.

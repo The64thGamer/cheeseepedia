@@ -9,8 +9,8 @@ citations = ["https://youtu.be/NUJ8ektuBWk?si=-UoHJRO470BEjZ9l"]
 mediaDuration = "35:40"
 showtapeFormats = ["CEI 4-Track Reel"]
 transcriptions = ["Sals Birthday"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***3-Birthday Showtape (Rerelease)* is a rerelease of the {{< wiki-link "3-Birthday Reel" >}} Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on July 15, 1988.
 The audio quality of the reel is noticeably lower than the original release of the showtape.**

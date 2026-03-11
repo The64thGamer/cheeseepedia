@@ -1,11 +1,11 @@
 +++
 title = "Family Album"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronic Shows"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
-contributors = ["NoName2000","BlackMonkeyEater","Stripes","WalterB","The 64th Gamer","Cy's Junk at School"]
+contributors = ["NoName2000","Anonymous","Stripes","WalterB","The 64th Gamer","Cy's Junk at School"]
 citations = []
 pageThumbnailFile = "IweuF9lMO_Oad9Ea5r6Z.avif"
 +++

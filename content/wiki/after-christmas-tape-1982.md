@@ -1,8 +1,8 @@
 +++
 title = "After Christmas Tape 1982"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1982-12-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

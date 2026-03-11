@@ -1,10 +1,10 @@
 +++
 title = "BusinessCard_2021-08-09_182104.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Holiday 2003 Show"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

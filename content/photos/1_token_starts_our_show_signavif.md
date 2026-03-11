@@ -1,10 +1,10 @@
 +++
 title = "1_token_starts_our_show_sign.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["'1 Token Starts Our Show' (PTT Signage)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

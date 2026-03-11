@@ -1,10 +1,10 @@
 +++
 title = "Summer_05_Studio_C.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Super Chuck Summer Show 2005"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

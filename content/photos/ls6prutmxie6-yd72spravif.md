@@ -1,9 +1,10 @@
 +++
 title = "Ls6PRuTmxIe6_yd72SpR.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Clown (Animatronic)"]
+type = "Photos"
+tags = ["Creative Engineering", "Clown (Animatronic)"]
+
 startDate = ""
 +++
+
 Internal Mech & Shell

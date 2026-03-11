@@ -1,9 +1,10 @@
 +++
 title = "0rCHISMIucFikbqjy619.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["ShowBiz Pizza Place Equipment Listing Manual"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "ShowBiz Pizza Place Equipment Listing Manual"]
+
 startDate = ""
 +++
+
 Excerpt Snapshot

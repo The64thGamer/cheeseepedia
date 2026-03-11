@@ -1,10 +1,10 @@
 +++
 title = "Show817Floppy.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Show 8 2017"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

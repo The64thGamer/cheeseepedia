@@ -1,8 +1,8 @@
 +++
 title = "Family Vision 601"
 draft = false
-tags = ["Family Vision"]
-categories = ["ShowBiz Pizza Place"]
+type = "Family Vision"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

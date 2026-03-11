@@ -1,9 +1,10 @@
 +++
 title = "9KtJwyP7a_c3buQb6gEs.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Click / Murray D. Bird (Animatronic)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Click / Murray D. Bird (Animatronic)"]
+
 startDate = ""
 +++
+
 Click with the doors open.

@@ -1,10 +1,10 @@
 +++
 title = "Inside_Plaza_Oeste's_Chuck_E._bot.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Plaza Oeste, Chile"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

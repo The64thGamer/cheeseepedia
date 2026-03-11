@@ -1,8 +1,8 @@
 +++
 title = "Sally Corporation"
 draft = false
-tags = ["History"]
-categories = ["Sally Corporation"]
+type = "Companies/Brands"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

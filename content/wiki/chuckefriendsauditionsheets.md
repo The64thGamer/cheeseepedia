@@ -6,8 +6,8 @@ endDate = "2024-00-00"
 pageThumbnailFile = "auditionsheetifitwasevil.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://archive.org/details/3-fs-csng"]
-tags = ["Corporate Documents"]
-categories = ["Chuck E. Cheese's"]
+type = "Corporate Documents"
+tags = ["Chuck E. Cheese's"]
 downloadLinks = ["https://archive.org/details/3-fs-csng|Audition Sheets"]
 +++
 

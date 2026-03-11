@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 5 2021 (International SPA Covid Promo)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-11-15"
 endDate = "0000-00-00"
-contributors = ["CyberSnout","Himitsu","ShowBiz Pizza International","Cy's Junk at School"]
+contributors = ["Cyber Snout","Himitsu","ShowBiz Pizza International","Cy's Junk at School"]
 citations = []
 pageThumbnailFile = "d1EpVQsJE3ZTiIqUOTpM.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]

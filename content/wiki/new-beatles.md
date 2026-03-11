@@ -1,8 +1,8 @@
 +++
 title = "New Beatles"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
 contributors = ["Letterstolooneybird","The 64th Gamer"]

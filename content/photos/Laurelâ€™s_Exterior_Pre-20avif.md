@@ -1,10 +1,10 @@
 +++
 title = "Laurel’s_Exterior_Pre-20.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "Flower_mask.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Singing Flowers (Animatronic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

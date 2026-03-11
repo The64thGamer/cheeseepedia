@@ -1,9 +1,10 @@
 +++
 title = "kqecOHAVXv4XXIfu_vy7.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Orem, UT (40 E Center St)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Orem, UT (40 E Center St)"]
+
 startDate = ""
 +++
+
 Gameroom

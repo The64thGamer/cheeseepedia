@@ -1,14 +1,15 @@
 +++
+
 title = "The Good Ole Bears"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Golding Leisure"]
+type = "Animatronic Shows"
+tags = ["Golding Leisure"]
 startDate = ""
 endDate = ""
 contributors = ["Gussygoose"]
 citations = []
+pageThumbnailFile = "94FJ_jer6m3Q9i4r3vbQ.avif"
 +++
-
 ## Info
 
 The Good Ole Bears were created by a UK company called Golding Leisure, who specialised in animatronic shows and theming for theme parks.

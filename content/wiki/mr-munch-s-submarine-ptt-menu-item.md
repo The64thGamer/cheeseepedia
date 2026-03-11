@@ -1,8 +1,8 @@
 +++
 title = "Mr. Munch's Submarine (PTT Menu Item)"
 draft = false
-tags = ["Menu Items"]
-categories = ["Pizza Time Theatre"]
+type = "Menu Items"
+tags = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "1984-00-00"
 contributors = ["The 64th Gamer"]

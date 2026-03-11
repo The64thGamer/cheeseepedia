@@ -1,10 +1,10 @@
 +++
 title = "CCI_000240.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Summer of Fun Campaign 2004"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

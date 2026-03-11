@@ -6,9 +6,9 @@ startDate = "1980-00-00"
 manufacturer = "Creative Engineering"
 title = "Dook Larue (Animatronic)"
 contributors = ["CECMentor", "Stripes"]
-tags = ["Animatronics"]
+type = "Animatronics"
 pageThumbnailFile = "SuGZF72POZNsjjiYadjo.avif"
-categories = ["ShowBiz Pizza Place"]
+tags = ["ShowBiz Pizza Place"]
 +++
 
 The Dook Larue Animatronic (Also the 3-Stage Pasqually Animatronic) was one of the main {{< wiki-link "Classic Stage" >}} animatronics produced by Creative Engineering Inc. The animatronic would first be developed in April of 1980, before debuting at the {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}} on August 14th of that year. His character was based off Dingo Starr from the {{< wiki-link "Wolf Pack 5" >}} animatronic show Creative Engineering had developed.

@@ -1,9 +1,10 @@
 +++
 title = "R246Uuu1iicoblpufW6O.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Waco, TX (5106 West Waco Dr)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Waco, TX (5106 West Waco Dr)"]
+
 startDate = ""
 +++
+
 Salad Bar (2020)

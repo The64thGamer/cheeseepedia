@@ -1,9 +1,10 @@
 +++
 title = "9qP0nELRCd9r5mhxiTyZ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Waco, TX (5106 West Waco Dr)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Waco, TX (5106 West Waco Dr)"]
+
 startDate = ""
 +++
+
 Showroom (July 24, 2005)

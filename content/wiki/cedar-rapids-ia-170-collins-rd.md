@@ -1,4 +1,5 @@
 +++
+
 title = "Cedar Rapids, IA (170 Collins Rd)"
 storeNumber = ""
 startDate = "1981-11-26"
@@ -13,8 +14,8 @@ latitudeLongitude = ["42.02731387","-91.62948323"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "h0m5fQG5B9eWGlO8AY7E.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

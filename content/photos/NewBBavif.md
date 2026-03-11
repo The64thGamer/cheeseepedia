@@ -1,10 +1,10 @@
 +++
 title = "NewBB.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["B.B. Bubbles (Cyberamic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

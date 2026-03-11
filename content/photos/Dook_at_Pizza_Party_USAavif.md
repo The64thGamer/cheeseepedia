@@ -1,10 +1,10 @@
 +++
 title = "Dook_at_Pizza_Party_USA.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Dook Larue (Animatronic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

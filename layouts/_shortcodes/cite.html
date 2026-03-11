@@ -4,7 +4,7 @@
   {{- $userIndex := .Get 0 -}}
   {{- $citationIndex := sub $userIndex 1 -}}
   {{- if or (lt $citationIndex 0) (gt $citationIndex $citationsMaxIndex) -}}
-    {{- errorf "Invalid citation index used (%s, %d)" .Page.RelPermalink $userIndex -}}
+    {{- warnf "Invalid citation index used (%s, %d)" .Page.RelPermalink $userIndex -}}
   {{- else -}}
     {{- $citationsCount := .Page.Store.Get "citationsCount" -}}
     {{- $currentCitationCount := index $citationsCount (string $userIndex) -}}
@@ -17,5 +17,5 @@
     <sup><a href="#citation-{{- $userIndex -}}" id="ref-{{- $userIndex -}}.{{- $currentCitationCount -}}">[{{- $userIndex -}}]</a></sup>
   {{- end -}}
 {{- else -}}
-  {{- errorf "Page has no citations but citation shortcode was called (%s)" .Page.RelPermalink -}}
+  {{- warnf "Page has no citations but citation shortcode was called (%s)" .Page.RelPermalink -}}
 {{- end -}}

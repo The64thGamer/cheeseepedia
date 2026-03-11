@@ -6,8 +6,8 @@ endDate = "0000-00-00"
 pageThumbnailFile = ""
 contributors = ["showbizdudebeta"]
 citations = ["YouTube "]
-tags = ["Company Media"]
-categories = ["Chuck E. Cheese's"]
+type = "Company Media"
+tags = ["Chuck E. Cheese's"]
 +++
 ***CEC University: General Kitchen & Service* is an employee training program  for Chuck E. Cheese's restaurants specifically the "Chuck E. Cheese's University Training ( 1991) | General Kitchen & Service" video, which was released in 1991 <sup> (1) </sup>. 
 

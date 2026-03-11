@@ -1,10 +1,10 @@
 +++
 title = "Side_shot_of_the_poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Indiana Jowls (Parody Poster)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

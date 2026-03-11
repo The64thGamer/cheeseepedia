@@ -1,10 +1,10 @@
 +++
 title = "Tunnel_of_Love_3.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

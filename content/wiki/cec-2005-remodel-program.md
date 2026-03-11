@@ -1,10 +1,10 @@
 +++
 title = "CEC 2000's Remodel Program"
 draft = false
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's"]
-startDate = "1999-00-00"
-endDate = "2005-00-00"
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's"]
+startDate = "2003-00-00"
+endDate = "2015-00-00"
 contributors = ["BurgersNuggs445","ChuckECool","The 64th Gamer","Anonymous","Caydenpedia"]
 citations = []
 pageThumbnailFile = "fKyyymyR_xIlVMLX2OIQ.avif"

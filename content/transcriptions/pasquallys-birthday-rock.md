@@ -1,6 +1,6 @@
 +++
 title = "Pasquallys Birthday Rock"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Pasqually:**

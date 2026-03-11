@@ -1,9 +1,10 @@
 +++
 title = "zvmTff3HIdxHfc3BeuHO.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Gulliver's World Stage"]
+type = "Photos"
+tags = ["Creative Engineering", "Gulliver's World Stage"]
+
 startDate = ""
 +++
+
 Frog prop located in a farm ride.

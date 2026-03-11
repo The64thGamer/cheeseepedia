@@ -1,6 +1,6 @@
 +++
 title = "Oldies but Goodies"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[Bandstand Jingle]**  

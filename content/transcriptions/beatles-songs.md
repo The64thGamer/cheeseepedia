@@ -1,6 +1,6 @@
 +++
 title = "Beatles Songs"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese:**

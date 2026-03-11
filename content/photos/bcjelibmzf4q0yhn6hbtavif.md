@@ -1,9 +1,10 @@
 +++
 title = "bcJElIbMZF4q0YHN6hbt.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
-pages = ["Sgt. Singer (Animatronic)"]
+type = "Photos"
+tags = ["Creative Presentations", "Sgt. Singer (Animatronic)"]
+
 startDate = ""
 +++
+
 Sgt Singer (Barnyard Band Variant) from the side

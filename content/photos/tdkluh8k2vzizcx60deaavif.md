@@ -1,9 +1,10 @@
 +++
 title = "tDKluH8k2VzizCx60DEA.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Moonrockers"]
+type = "Photos"
+tags = ["Creative Engineering", "Moonrockers"]
+
 startDate = ""
 +++
+
 Antioch reskin in 2005

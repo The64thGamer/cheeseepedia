@@ -8,7 +8,7 @@ contributors = ["Kathydra", "The 64th Gamer"]
 citations = ["https://www.youtube.com/watch?v=vkgivnsr9FU"]
 manufacturer = "Creative Engineering"
 unitsProduced = "1"
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronics"
+tags = ["ShowBiz Pizza Place"]
 +++
 The ***2nd Generation Mitzi Mozzarella* was an updated version of the {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}} that featured a wider range of movements.**

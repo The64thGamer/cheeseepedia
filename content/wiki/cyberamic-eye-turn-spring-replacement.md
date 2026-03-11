@@ -1,8 +1,8 @@
 +++
 title = "Cyberamic Eye Turn Spring Replacement"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = [""]
+type = "Animatronic Preservation"
+tags = [""]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

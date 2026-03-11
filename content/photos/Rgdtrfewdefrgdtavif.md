@@ -1,10 +1,10 @@
 +++
 title = "Rgdtrfewdefrgdt.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["40 Years of Fun Dippin' Dots Berry Blast Sign"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

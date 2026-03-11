@@ -1,6 +1,6 @@
 +++
 title = "\"Big guys\" PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[A young boy attempts to play basketball with older kids]**

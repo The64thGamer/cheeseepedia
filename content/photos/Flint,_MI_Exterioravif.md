@@ -1,10 +1,10 @@
 +++
 title = "Flint,_MI_Exterior.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Flint, MI (3489 Miller Rd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

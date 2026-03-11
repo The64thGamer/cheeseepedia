@@ -1,10 +1,10 @@
 +++
 title = "Aba222.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese Spring Show 2003"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

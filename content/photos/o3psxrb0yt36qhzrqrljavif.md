@@ -1,9 +1,10 @@
 +++
 title = "O3pSXRb0YT36qhzRqrlj.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Fats Gorilla (Animatronic)"]
+type = "Photos"
+tags = ["Creative Engineering", "Fats Gorilla (Animatronic)"]
+
 startDate = ""
 +++
+
 Gaslight Village (Late 70s-Early 80s)

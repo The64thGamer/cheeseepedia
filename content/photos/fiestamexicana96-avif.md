@@ -1,7 +1,8 @@
 +++
 title = "fiestamexicana96.avif"
-pages = ["Chuck E's Fiesta Mexicana"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Chuck E's Fiesta Mexicana"]
 +++
+
 Screenshot of “Chuck E's Fiesta Mexicana” live show

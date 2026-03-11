@@ -1,4 +1,5 @@
 +++
+
 title = "Chesapeake, VA (4400 Peek Trail)"
 storeNumber = ""
 startDate = "2004-00-00"
@@ -13,8 +14,8 @@ latitudeLongitude = ["36.81913782","-76.42568653"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "2iXaTCPHbM0Qw4PacF1_.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

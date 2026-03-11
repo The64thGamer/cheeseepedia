@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 4 2021 (Existing Stages) (International SPA Covid Promo)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-10-15"
 endDate = "0000-00-00"
-contributors = ["CyberSnout","Himitsu","Anonymous","The 64th Gamer","Dame868","Ceclife13"]
+contributors = ["Cyber Snout","Himitsu","Anonymous","The 64th Gamer","Dame868","Ceclife13"]
 citations = []
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]

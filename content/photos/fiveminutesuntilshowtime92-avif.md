@@ -1,8 +1,8 @@
 +++
 title = "fiveminutesuntilshowtime92.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Birthday Star '92"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Birthday Star '92"]
+
 startDate = ""
 +++

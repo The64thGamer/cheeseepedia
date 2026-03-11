@@ -1,11 +1,11 @@
 +++
 title = "CEI .wav Files"
 draft = false
-tags = ["Showtape Formats"]
-categories = []
+type = "Showtape Formats"
+tags = []
 startDate = ""
 endDate = ""
-contributors = ["BattleXGamer","The 64th Gamer"]
+contributors = ["BattleXGamer3","The 64th Gamer"]
 citations = []
 +++
 ***CEI .wav Files* are .wav files that contain usually between 4 - 6 tracks of audio and {{< wiki-link "Data" >}}.

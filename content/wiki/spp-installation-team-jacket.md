@@ -1,8 +1,8 @@
 +++
 title = "SPP Installation Team Jacket"
 draft = false
-tags = ["Employee Wear"]
-categories = ["ShowBiz Pizza Place"]
+type = "Employee Wear"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]

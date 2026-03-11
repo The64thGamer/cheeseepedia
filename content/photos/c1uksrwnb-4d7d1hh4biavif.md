@@ -1,9 +1,10 @@
 +++
 title = "C1UKSrwnB_4d7D1hh4Bi.avif"
 draft = false
-tags = ["Photos"]
-categories = []
-pages = ["FileFickle"]
+type = "Photos"
+tags = ["FileFickle"]
+
 startDate = ""
 +++
+
 Y O U

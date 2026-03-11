@@ -6,8 +6,8 @@ endDate = ""
 pageThumbnailFile = "Adufq4HleUBHNtnTyj7G.avif"
 contributors = ["Lelmaster", "Rafedreams", "Stripes"]
 citations = ["https://www.oldcomputers.net/interact/interact_network_newsletter.pdf (Interact Network Newsletter Pg. 51 & 57)"]
-tags = ["Animatronic Shows"]
-categories = ["Unknown Manufacturers"]
+type = "Animatronic Shows"
+tags = ["Unknown Manufacturers"]
 +++
 Smartee's Pizza Brigade, also known as Smartee's Parties was a firehouse themed animatronic restaurant made by A. J. Falzone. The chain wasn't open very long unfortunately, as they closed about a year after opening. Their main selling point was about how parents could relax and watch television while their kids could play arcade games supervised. The show was likely produced by robotics company Good Displays.
 

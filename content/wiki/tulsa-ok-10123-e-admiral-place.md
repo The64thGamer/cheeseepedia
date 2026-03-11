@@ -1,4 +1,5 @@
 +++
+
 title = "Tulsa, OK (10123 E Admiral Place)"
 storeNumber = ""
 startDate = "1982-00-00"
@@ -13,8 +14,8 @@ latitudeLongitude = ["36.16025632","-95.86511993"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "lYnN0azIanp_NDCuS5Je.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

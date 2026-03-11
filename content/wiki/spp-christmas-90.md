@@ -7,8 +7,8 @@ pageThumbnailFile = "gTCWOrgGZduLpdwxxpqN.avif"
 contributors = ["DerekCat"]
 citations = ["https://www.youtube.com/watch?v=ufy3zY8INjY"]
 showtapeFormats = ["ShowBiz SVHS"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***SPP Christmas '90 / Wave Bday* is one of the last few showtapes released for *ShowBiz Pizza Place's* hosting the *Rock-afire Explosion*.
 For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape sent after {{< wiki-link "SPP Christmas '89 Wave Bday" >}} would become increasingly more rare as stores would convert to *3-Stages.*

@@ -1,10 +1,10 @@
 +++
 title = "Concord1982aerial.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Concord, CA (1975 Diamond Blvd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

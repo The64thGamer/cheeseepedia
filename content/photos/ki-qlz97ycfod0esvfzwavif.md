@@ -1,9 +1,10 @@
 +++
 title = "KI_Qlz97ycfOd0esvfZw.avif"
 draft = false
-tags = ["Photos"]
-categories = []
-pages = ["FileFickle"]
+type = "Photos"
+tags = ["FileFickle"]
+
 startDate = ""
 +++
+
 left

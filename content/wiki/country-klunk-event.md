@@ -1,8 +1,8 @@
 +++
 title = "Country Klunk (Event)"
 draft = false
-tags = ["Events"]
-categories = ["ShowBiz Pizza Place"]
+type = "Events"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "vHT3dz6gniHWYZS3WARr.avif"
 startDate = "1985-01-00"
 endDate = "1985-00-00"

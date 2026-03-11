@@ -1,6 +1,6 @@
 +++
 title = "Baseball"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[Sounds of a door slamming and someone walking, offstage]**

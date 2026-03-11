@@ -1,12 +1,9 @@
 +++
 draft = false
-endDate = ""
-citations = []
-startDate = "2024-08-17"
 title = "Site Guidelines & Rules"
 contributors = ["The 64th Gamer", "Anonymous"]
-tags = ["Meta"]
-categories = [""]
+type = "Meta"
+tags = ["Cheese-E-Pedia"]
 +++
 
 ## Writing Guidelines

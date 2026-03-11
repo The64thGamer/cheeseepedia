@@ -1,10 +1,10 @@
 +++
 title = "TicketBlaster_concept.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Ticket Blaster"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

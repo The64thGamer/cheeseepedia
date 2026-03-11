@@ -1,8 +1,8 @@
 +++
 title = "mNmEAO7N96wrYGZAMVKY.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["SPP Concept Unification Premiere"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "SPP Concept Unification Premiere"]
+
 startDate = ""
 +++

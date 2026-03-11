@@ -1,9 +1,10 @@
 +++
 title = "5s4UboXFyffw5Aohd92X.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Overland Park, KS (10510 Metcalf Lane)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Overland Park, KS (10510 Metcalf Lane)"]
+
 startDate = ""
 +++
+
 Exterior, October 2023

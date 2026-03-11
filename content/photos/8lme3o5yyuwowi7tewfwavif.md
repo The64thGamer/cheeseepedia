@@ -1,9 +1,10 @@
 +++
 title = "8lme3O5YYUWoWi7Tewfw.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Chuck E. Cheese Baby Pony (1989)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Chuck E. Cheese Baby Pony (1989)"]
+
 startDate = ""
 +++
+
 Original Packaging

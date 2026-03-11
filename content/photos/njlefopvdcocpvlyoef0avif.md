@@ -1,9 +1,10 @@
 +++
 title = "NjlefOpVDcocPvlyOEf0.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Spring 2012 Show"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Spring 2012 Show"]
+
 startDate = ""
 +++
+
 Marvin The Technology Guru

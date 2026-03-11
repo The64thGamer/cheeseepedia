@@ -1,8 +1,8 @@
 +++
 title = "ShowBiz Pizza Program 16"
 draft = false
-tags = ["ShowBiz Pizza Programs"]
-categories = ["ShowBiz Pizza Place"]
+type = "ShowBiz Pizza Programs"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","DerekCat"]

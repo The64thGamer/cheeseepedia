@@ -1,9 +1,10 @@
 +++
 title = "FJhjaLAvlXStGKpoxm06.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Orlando, FL (14500 Continental Gateway)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Orlando, FL (14500 Continental Gateway)"]
+
 startDate = ""
 +++
+
 Promotional Photo

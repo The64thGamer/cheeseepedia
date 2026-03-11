@@ -1,9 +1,10 @@
 +++
 title = "2c8oMG9XQBzYi7tBrkga.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Cincinnati, OH (8801 Colerain Ave)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Cincinnati, OH (8801 Colerain Ave)"]
+
 startDate = "1998-00-00"
 +++
+
 Helen, Munch Jr removed, Walkaround (Late 90s)

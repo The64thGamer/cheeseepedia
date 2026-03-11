@@ -1,9 +1,10 @@
 +++
 title = "z5uDRQLgOWxiMubRPA7G.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Mini Billy Bob (Animatronic)"]
+type = "Photos"
+tags = ["Creative Engineering", "Mini Billy Bob (Animatronic)"]
+
 startDate = ""
 +++
+
 Ceramic base

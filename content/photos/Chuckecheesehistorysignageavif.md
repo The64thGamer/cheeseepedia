@@ -1,10 +1,10 @@
 +++
 title = "Chuckecheesehistorysignage.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["CEC 2.0 Remodel Program"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

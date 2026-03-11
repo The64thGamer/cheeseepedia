@@ -1,10 +1,10 @@
 +++
 title = "Sept053stgdvd.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["September 2005 Show"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

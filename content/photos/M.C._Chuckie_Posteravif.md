@@ -1,10 +1,10 @@
 +++
 title = "M.C._Chuckie_Poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["'M.C. Chuckie' (CD Award)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

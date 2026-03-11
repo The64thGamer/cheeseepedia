@@ -1,8 +1,8 @@
 +++
 title = "Mitzi Cyberstar Walkaround"
 draft = false
-tags = ["Costumed Characters"]
-categories = ["ShowBiz Pizza Place"]
+type = "Costumed Characters"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Showb1zlov3r","The 64th Gamer"]

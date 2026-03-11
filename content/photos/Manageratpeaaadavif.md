@@ -1,10 +1,10 @@
 +++
 title = "Manageratpeaaad.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["5-1-96 (Manager)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

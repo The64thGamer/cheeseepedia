@@ -1,11 +1,12 @@
 +++
 title = "https://youtu.be/LikvdEWx3gk"
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+type = "Videos"
+tags = ["Chuck E. Cheese's", "Whac-A-Munch"]
 startDate = "2009-06-02"
 draft = false
-pages = ["Whac-A-Munch"]
+
 citations = []
 mirroredLinks = []
 +++
+
 Whac-A-Munch gameplay

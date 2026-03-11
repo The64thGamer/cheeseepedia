@@ -4,10 +4,10 @@ title = "Concept Unification 1-Stage"
 startDate = "2010-09-00"
 endDate = ""
 pageThumbnailFile = "6tOW79wZ7w4pl45dbEdH.avif"
-contributors = ["CyberSnout", "BigCtheDataFinder", "The 64th Gamer", "ShowBizMidwest", "CEC Tinley", "ThatBoiCydalan", "CorrectorMan", "CECMentor", "Livelycheese", "BurgersNuggs445", "Veronancy", "AstridMascotFan2005", "Caydenpedia", "Cy's Junk at School"]
+contributors = ["Cyber Snout", "BigCDataFinder ", "The 64th Gamer", "ShowBizMidwest", "CEC Tinley", "ThatBoiCydalan", "CorrectorMan", "CECMentor", "Livelycheese", "BurgersNuggs445", "Veronancy", "AstridMascotFan2005", "Caydenpedia", "Cy's Junk at School"]
 citations = ["<a href=\"https://www.nytimes.com/2024/05/24/business/chuck-e-cheese-band-animatronic.html\">https://www.nytimes.com/2024/05/24/business/chuck-e-cheese-band-animatronic.html</a>", "<ref></ref>", "<a href=\"https://www.youtube.com/watch?v=dZAohaEg3xk\">https://www.youtube.com/watch?v=dZAohaEg3xk</a>", "<a href=\"https://www.youtube.com/watch?v=LZsvTJTk8ek\">https://www.youtube.com/watch?v=LZsvTJTk8ek</a>", "<a href=\"https://www.youtube.com/watch?v=MXCw_4PAtsY\">https://www.youtube.com/watch?v=MXCw_4PAtsY</a>"]
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 +++
 
 The **Concept Unification 1-Stage**, known commonly as the 'CU 1-Stage', is a stage setup found at three Chuck E. Cheese locations that had the {{< wiki-link "Concept Unification Stage" >}} moved from a side wall or had to be moved due to the store expanding.

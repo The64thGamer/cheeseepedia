@@ -4,12 +4,12 @@ title = "Chuck E. Cheese's Show 4 2018"
 startDate = "2018-06-26"
 endDate = "2018-7-29"
 pageThumbnailFile = "5wZhhjXpCsqPFrr7HGko.avif"
-contributors = ["CyberSnout", "Luigigamin212"]
+contributors = ["Cyber Snout", "Luigigamin212"]
 citations = []
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C 3x DVD + Floppy", "Studio C USB + MicroSD", "3-Stage DVD", "Cyberamics DVD"]
 transcriptions = ["Your Birthdays are special"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese's Show 4 2018* released June 26, 2018
 This was created to play from June 26, 2018 - July 29, 2018. Featuring 4 reused songs.**

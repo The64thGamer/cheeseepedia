@@ -1,9 +1,10 @@
 +++
 title = "08zPLyMJ1Ag8PuZr6hNa.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Kooser Dolli Dimples (Animatronic)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Kooser Dolli Dimples (Animatronic)"]
+
 startDate = ""
 +++
+
 Western Foodservice (1979)

@@ -1,8 +1,8 @@
 +++
 title = "3-Stage Sixteen Tons"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "1996-09-00"
 endDate = "1996-09-00"
 contributors = ["The 64th Gamer","Himitsu"]

@@ -1,8 +1,8 @@
 +++
 title = "Tico Tico Show"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Golding Leisure"]
+type = "Animatronic Shows"
+tags = ["Golding Leisure"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

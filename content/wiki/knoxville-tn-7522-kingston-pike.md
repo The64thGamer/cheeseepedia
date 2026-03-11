@@ -1,4 +1,5 @@
 +++
+
 title = "Knoxville, TN (7522 Kingston Pike)"
 storeNumber = ""
 startDate = "1982-08-23"
@@ -13,8 +14,8 @@ latitudeLongitude = ["35.92706192","-84.03702673"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "99f9ufqlmpvdkdga.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

@@ -6,8 +6,8 @@ endDate = "0000-00-00"
 pageThumbnailFile = "static/photos/phase1gifts-prizes.avif"
 contributors = ["PRVYMM"]
 citations = ["None"]
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 +++
 The ‘Gifts & Prizes’ sign was put into stores around 1993 during the 1993 Update of 1994 SPT Repositioning / Remodel Program along with similar looking signs like the ‘Salad Bar’ and ‘Beverages’
 

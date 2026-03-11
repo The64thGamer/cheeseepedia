@@ -1,10 +1,9 @@
 +++
 title = "fh6ulps3f7w7o0kz.avif"
 draft = false
-tags = ["Photos"]
-category = "Pizza Time Theatre"
-pages = ["Pizza Show Biz"]
-startDate = "0000-00-00"
-citation = ""
-+++
+type = "Photos"
+tags = ["Pizza Time Theatre", "Pizza Show Biz"]
 
+startDate = "0000-00-00"
+citations = []
++++

@@ -1,10 +1,10 @@
 +++
 title = "Space_Chuck_Poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["TIME Space Race (Magazine)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

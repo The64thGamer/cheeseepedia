@@ -1,9 +1,10 @@
 +++
 title = "SNN9U3xZlYdZYHCDWxMN.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
-pages = ["Gigglebee's"]
+type = "Photos"
+tags = ["Unknown Manufacturers", "Gigglebee's"]
+
 startDate = ""
 +++
+
 Roxy from the Gigglebee's Ad

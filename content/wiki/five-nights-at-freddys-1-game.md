@@ -7,8 +7,8 @@ contributors = ["The 64th Gamer", "PizzaEntertainmentFan"]
 citations = ["https://web.archive.org/web/20140813230552/http://www.desura.com/games/five-nights-at-freddys", "https://static.wikia.nocookie.net/freddy-fazbears-pizza/images/9/92/Anniversary.jpg/revision/latest?cb=20160808221824", "https://www.youtube.com/watch?v=03E_hZdXqBE", "https://web.archive.org/web/20160731202519/http://steamcommunity.com/sharedfiles/filedetails/?id=270684111", "https://www.youtube.com/watch?v=RP4UTOek0-Y", "https://www.kickstarter.com/projects/977464073/five-nights-at-freddys", "https://www.amazon.com/Five-Nights-at-Freddys-Download/dp/B00M292RFS", "https://web.archive.org/web/20140815091207/https://www.indiedb.com/games/five-nights-at-freddys", "https://www.amazon.com/Five-Nights-at-Freddys-Download/dp/B00M26BP36?th=1", "https://www.orbispatches.com/CUSA16870"]
 downloadLinks = []
 prices = []
-tags = ["Video Games"]
-categories = ["Five Nights at Freddy's"]
+type = "Video Games"
+tags = ["Five Nights at Freddy's"]
 +++
 ***Five Nights at Freddy's*** (commonly referred to as ***Five Nights at Freddy's 1*** or ***FNaF 1***) is a point & click survival horror game developed by Scott Cawthon that was released on August 8th, 2014. (1) (4) The game takes place in a retro pizzeria, "Freddy Fazbear's Pizza", during the nightshift of the main character, "Mike Schmidt", who has to survive 6 nights against the Store's haunted animatronics.
 

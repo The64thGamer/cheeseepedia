@@ -1,10 +1,10 @@
 +++
 title = "Spring23StdCP2.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese Spring Show 2023"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

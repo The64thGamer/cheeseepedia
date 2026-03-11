@@ -1,10 +1,10 @@
 +++
 title = "AnnapolisExterior2022SeptemberGoogleMaps.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Annapolis, MD (2333-A Forest Dr)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

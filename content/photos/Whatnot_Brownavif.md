@@ -1,10 +1,10 @@
 +++
 title = "Whatnot_Brown.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Whatnots"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "BalconyCassinelli2.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Balcony Stage"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

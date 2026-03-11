@@ -1,10 +1,10 @@
 +++
 title = "JustissCEC-1993-DoYouBelieveInMagic.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

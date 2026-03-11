@@ -1,4 +1,5 @@
 +++
+
 title = "East Brunswick, NJ (647 NJ-18)"
 storeNumber = ""
 startDate = "1984-03-05"
@@ -13,8 +14,8 @@ latitudeLongitude = ["40.43067712","-74.39265143"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "baSuVjAJ7hnkFUg7NDac.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

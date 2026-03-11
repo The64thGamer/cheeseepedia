@@ -1,10 +1,10 @@
 +++
 title = "Streamwoodentrance.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Streamwood, IL (990 Barrington Rd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

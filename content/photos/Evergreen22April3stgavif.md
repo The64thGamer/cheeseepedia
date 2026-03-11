@@ -1,10 +1,10 @@
 +++
 title = "Evergreen22April3stg.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese Evergreen Show 2022"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

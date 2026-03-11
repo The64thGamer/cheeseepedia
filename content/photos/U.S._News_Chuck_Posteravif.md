@@ -1,10 +1,10 @@
 +++
 title = "U.S._News_Chuck_Poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["U.S. News (Magazine)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

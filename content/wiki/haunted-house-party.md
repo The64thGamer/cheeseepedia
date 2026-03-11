@@ -1,8 +1,8 @@
 +++
 title = "Haunted House Party"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = ""
 startDate = "2021-10-15"
 endDate = "2025-11-02"

@@ -1,6 +1,6 @@
 +++
 title = "'Four Corners: New Eatery Fad' Winchester ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Warblettes: (Singing)**

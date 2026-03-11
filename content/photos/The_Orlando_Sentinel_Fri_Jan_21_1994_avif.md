@@ -1,10 +1,10 @@
 +++
 title = "The_Orlando_Sentinel_Fri_Jan_21_1994_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

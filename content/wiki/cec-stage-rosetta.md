@@ -1,13 +1,13 @@
 +++
 title = "CEC-Stage Rosetta"
 draft = false
-tags = ["Programming Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Programming Systems"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer","Ceclife13","ShowBizMidwest","CyberSnout","CEC Tinley","Bullseye123"]
+contributors = ["The 64th Gamer","Ceclife13","ShowBizMidwest","Cyber Snout","CEC Tinley","Bullseye123"]
 citations = []
 +++
 

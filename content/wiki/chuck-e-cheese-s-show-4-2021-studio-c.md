@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 4 2021 (Studio C)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-09-20"
 endDate = "2021-10-31"
-contributors = ["CyberSnout","Himitsu","Dame868","Ceclife13","The 64th Gamer"]
+contributors = ["Cyber Snout","Himitsu","Dame868","Ceclife13","The 64th Gamer"]
 citations = []
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]

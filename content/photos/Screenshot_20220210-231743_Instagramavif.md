@@ -1,10 +1,10 @@
 +++
 title = "Screenshot_20220210-231743_Instagram.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

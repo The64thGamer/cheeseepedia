@@ -27,6 +27,7 @@
   "Commercials" "<img src=\"/UI/Emojis/movie_camera.svg\" class=\"emoji\">"
   "News Footage" "<img src=\"/UI/Emojis/tv.svg\" class=\"emoji\">"
   "Photos" "<img src=\"/UI/Emojis/camera_with_flash.svg\" class=\"emoji\">"
+  "Images" "<img src=\"/UI/Emojis/camera_with_flash.svg\" class=\"emoji\">"
   "Videos" "<img src=\"/UI/Emojis/film_frames.svg\" class=\"emoji\">"
   "Company Media" "<img src=\"/UI/Emojis/dvd.svg\" class=\"emoji\">"
   "In-Store Merchandise" "<img src=\"/UI/Emojis/free.svg\" class=\"emoji\">"
@@ -42,17 +43,15 @@
   "Showtape Formats" "<img src=\"/UI/Emojis/vhs.svg\" class=\"emoji\">"
   "Puppets" "<img src=\"/UI/Emojis/back_of_hand_paw_k2.svg\" class=\"emoji\">"
   "Showtapes" "<img src=\"/UI/Emojis/music_notes.svg\" class=\"emoji\">"
-  "Animatronic News" "<img src=\"/UI/Emojis/decreasing_graph.svg\" class=\"emoji\">"
   "Meta" "<img src=\"/UI/Emojis/zzz.svg\" class=\"emoji\">"
   "Reviews" "<img src=\"/UI/Emojis/fire.svg\" class=\"emoji\">"
   "Transcriptions" "<img src=\"/UI/Emojis/pencil.svg\" class=\"emoji\">"
   "User" "<img src=\"/UI/Emojis/furry_pride.svg\" class=\"emoji\">"
-  "Restaurants/FECs" "<img src=\"/UI/Emojis/plate.svg\" class=\"emoji\">"
-
+  "Companies/Brands" "<img src=\"/UI/Emojis/plate.svg\" class=\"emoji\">"
+  "Theories" "<img src=\"/UI/Emojis/red_question_mark.svg\" class=\"emoji\">"
 -}}
 
-{{- $inputString := . -}}
-
+{{- $inputString := . | default "" -}}
+{{- if eq $inputString "" -}}{{- return -}}{{- end -}}
 {{- $value := index $dictionary $inputString -}}
-
 {{- $value | safeHTML -}}

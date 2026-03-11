@@ -1,4 +1,5 @@
 +++
+
 title = "Jackson, MS (5465 I-55)"
 storeNumber = ""
 startDate = "1982-08-00"
@@ -13,8 +14,8 @@ latitudeLongitude = ["32.37576552","-90.15075508"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "PatbpziV8VszKZZEvkbO.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

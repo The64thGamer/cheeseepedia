@@ -1,10 +1,10 @@
 +++
 title = "Buffalo,_NY_Exterior.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Salem, OR (3180 Lancaster Dr)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

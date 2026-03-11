@@ -1,9 +1,10 @@
 +++
 title = "dytSIYAyc13tQlyTjOoR.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Creative Engineering"]
+type = "Photos"
+tags = ["Creative Engineering"]
+
 startDate = ""
 +++
+
 Logo (1983)

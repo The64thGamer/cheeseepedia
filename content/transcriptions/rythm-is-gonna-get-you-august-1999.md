@@ -1,6 +1,6 @@
 +++
 title = "Rhythm Is Gonna Get You (August 1999)"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 +++
 **Narrator:**
 

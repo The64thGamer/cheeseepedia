@@ -1,9 +1,10 @@
 +++
 title = "cKn3o9yf70Q5jbf6XRYt.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Hofmann Figuren"]
-pages = ["Hofmann Monkey Show"]
+type = "Photos"
+tags = ["Hofmann Figuren", "Hofmann Monkey Show"]
+
 startDate = ""
 +++
+
 Hellendoorn Drunken Bear & Bonvivant Monkey

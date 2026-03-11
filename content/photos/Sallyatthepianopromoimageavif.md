@@ -1,10 +1,10 @@
 +++
 title = "Sallyatthepianopromoimage.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Sally at The Piano"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,8 +1,8 @@
 +++
 title = "TxMkoPxyv53IxyekwLV2.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["Birdies (Warblettes Retrofit)"]
+type = "Photos"
+tags = ["", "Birdies (Warblettes Retrofit)"]
+
 startDate = ""
 +++

@@ -1,8 +1,8 @@
 +++
 title = "dz593vjydhMmgvrlYvoy.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Layton Bit Stripper"]
+type = "Photos"
+tags = ["Creative Engineering", "Layton Bit Stripper"]
+
 startDate = ""
 +++

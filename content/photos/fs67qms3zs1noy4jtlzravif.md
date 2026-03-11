@@ -1,9 +1,10 @@
 +++
 title = "Fs67QmS3zs1noy4JTlzR.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Prototype CEC Baby Lion Plush (2016)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Prototype CEC Baby Lion Plush (2016)"]
+
 startDate = ""
 +++
+
 Shirt Front

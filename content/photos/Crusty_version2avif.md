@@ -1,10 +1,10 @@
 +++
 title = "Crusty_version2.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Crusty the Cat"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

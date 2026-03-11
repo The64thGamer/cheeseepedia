@@ -1,8 +1,8 @@
 +++
 title = "SPT 1990's Remodel Program"
 draft = false
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's"]
 startDate = "1991-00-00"
 endDate = "2001-00-00"
 contributors = ["Stripes","The 64th Gamer","BurgersNuggs445","Caydenpedia"]

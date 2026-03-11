@@ -1,13 +1,11 @@
 +++
 title = "Chuck E.'s House Facade"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
-
-
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 startDate = "1988-00-00"
 endDate = "2003-00-00"
-contributors = ["CECBowlingGreen","The 64th Gamer","ChuckEPediaIsTheBest!","Anonymous","BurgersNuggs445","JamesLemony","Rexburg090","ShowBizMidwest","Anonymous","Steven 'CEC' Master","GabrielPennington9864","CorrectorMan","Pizzaman49","Snowbobsuperboi","Caydenpedia","SuperCreamPiper2008","JND","Cheeseclassic","CECMentor","CyberSnout","TestAccount6777","Stripes"]
+contributors = ["CECBowlingGreen","The 64th Gamer","ChuckEPediaIsTheBest!","Anonymous","BurgersNuggs445","JamesLemony","Rexburg090","ShowBizMidwest","Anonymous","Steven 'CEC' Master","GabrielPennington9864","CorrectorMan","Pizzaman49","Snowbobsuperboi","Caydenpedia","SuperCreamPiper2008","JND","Cheeseclassic","CECMentor","Cyber Snout","TestAccount6777","Stripes"]
 citations = ["<a href=\"https://showbizpizza.com/info/documents/spt/spt_facade-install.pdf\">https://showbizpizza.com/info/documents/spt/spt_facade-install.pdf</a>"]
 pageThumbnailFile = "QcyFuSAsH7P5H7TPM8KE.avif"
 +++

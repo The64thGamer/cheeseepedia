@@ -1,9 +1,10 @@
 +++
 title = "bQAb_h1dMCgoUnnH7J_n.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Queenie / Mini Mozzarella (Animatronic)"]
+type = "Photos"
+tags = ["Creative Engineering", "Queenie / Mini Mozzarella (Animatronic)"]
+
 startDate = ""
 +++
+
 Beto Carrero World

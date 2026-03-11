@@ -1,8 +1,8 @@
 +++
 title = "vjcreRCdc0rdrY6WOaxn.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Studio C Alpha"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Studio C Alpha"]
+
 startDate = ""
 +++

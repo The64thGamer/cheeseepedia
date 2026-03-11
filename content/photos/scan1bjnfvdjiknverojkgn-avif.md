@@ -1,8 +1,9 @@
 +++
 title = "Scan1Bjnfvdjiknverojkgn.avif"
-startdate = "2025-03-01"
-pages = ["Chuck E. Cheese (Cyberamic)"]
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+startDate = "2025-03-01"
+
+type = "Photos"
+tags = ["Pizza Time Theatre", "Chuck E. Cheese (Cyberamic)"]
 +++
+
 Chuck Vest Fabric Scan

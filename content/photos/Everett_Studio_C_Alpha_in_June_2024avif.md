@@ -1,10 +1,10 @@
 +++
 title = "Everett_Studio_C_Alpha_in_June_2024.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Everett, MA (29 Mystic View Rd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

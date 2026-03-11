@@ -4,10 +4,10 @@ title = "Indiana Jowls (Parody Poster)"
 startDate = "1988-00-00"
 endDate = "0000-00-00"
 pageThumbnailFile = "rlRyIpCee3CozwFTpF65"
-contributors = ["Nostalgia Cow", "Ceclife13", "ThatBoiCydalan", "randomguyfan22"]
+contributors = ["Nostalgia Cow", "Ceclife13", "ThatBoiCydalan", "Randomguyfan22 Maker"]
 citations = []
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 +++
 **Indiana Jowls** was a poster created for ShowBiz Pizza and Chuck E. Cheese in 1988.
 

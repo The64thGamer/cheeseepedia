@@ -1,6 +1,6 @@
 +++
 title = "\"You can be\" PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Old lady: (Singing)**

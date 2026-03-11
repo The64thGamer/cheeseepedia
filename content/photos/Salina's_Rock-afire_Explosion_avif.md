@@ -1,10 +1,10 @@
 +++
 title = "Salina's_Rock-afire_Explosion_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

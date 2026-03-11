@@ -1,8 +1,8 @@
 +++
 title = "SPP Faith / Dreams / Kids"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1989-08-31"
 endDate = "1989-00-00"
 contributors = ["DerekCat","Stripes"]

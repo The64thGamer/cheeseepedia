@@ -1,8 +1,8 @@
 +++
 title = "BDorIWTLGlgBnxpCItRt.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["CEC Legacy Locations"]
+type = "Photos"
+tags = ["", "CEC Legacy Locations"]
+
 startDate = ""
 +++

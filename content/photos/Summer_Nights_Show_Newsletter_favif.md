@@ -1,10 +1,10 @@
 +++
 title = "Summer_Nights_Show_Newsletter_f.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese Summer Nights Show"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

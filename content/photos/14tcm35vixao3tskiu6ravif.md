@@ -1,8 +1,8 @@
 +++
 title = "14tcM35vIxAO3tSKiU6r.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Ticket Blaster"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Ticket Blaster"]
+
 startDate = ""
 +++

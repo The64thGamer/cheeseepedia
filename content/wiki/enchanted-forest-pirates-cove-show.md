@@ -1,8 +1,8 @@
 +++
 title = "Enchanted Forest Pirates Cove Show"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Creative Presentations"]
+type = "Animatronic Shows"
+tags = ["Creative Presentations"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

@@ -1,8 +1,8 @@
 +++
 title = "Himitsu"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2022-12-08"
 endDate = ""
 contributors = ["Himitsu"]

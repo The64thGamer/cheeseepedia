@@ -1,8 +1,9 @@
 +++
 title = "HappyHolidays8486.avif"
 citations = [""]
-pages = ["CEC Happy Holidays 1985"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "CEC Happy Holidays 1985"]
 +++
+
 An unknown Pizza Time Theatre playing 'Happy Holidays'

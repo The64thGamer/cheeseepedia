@@ -1,10 +1,10 @@
 +++
 title = "The_Fresno_Bee_Sun_Jan_23_1994_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,9 +1,10 @@
 +++
 title = "kQTcKc3Llo73MlOcuyhT.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Houston, TX (6760 Antoine Dr)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Houston, TX (6760 Antoine Dr)"]
+
 startDate = ""
 +++
+
 After closure 2015 Pc: Google Maps

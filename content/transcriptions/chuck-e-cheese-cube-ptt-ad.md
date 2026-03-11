@@ -1,6 +1,6 @@
 +++
 title = "Chuck E. Cheese Cube PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Narrator:**

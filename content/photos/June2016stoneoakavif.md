@@ -1,10 +1,10 @@
 +++
 title = "June2016stoneoak.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["San Antonio (Stone Oak), TX (1403 N Loop)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

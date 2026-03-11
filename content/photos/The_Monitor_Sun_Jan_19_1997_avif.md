@@ -1,10 +1,10 @@
 +++
 title = "The_Monitor_Sun_Jan_19_1997_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

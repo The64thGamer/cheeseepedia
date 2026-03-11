@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Winter Winner-Land 2022 Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2022-11-21"
 endDate = "0000-00-00"
-contributors = ["CyberSnout","Anonymous","The 64th Gamer","John95"]
+contributors = ["Cyber Snout","Anonymous","The 64th Gamer","John95"]
 citations = []
 pageThumbnailFile = "d1EpVQsJE3ZTiIqUOTpM.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Studio C 3x DVD + Floppy","Studio C Networking Module Files"]

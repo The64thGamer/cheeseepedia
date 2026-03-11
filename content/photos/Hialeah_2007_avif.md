@@ -1,10 +1,10 @@
 +++
 title = "Hialeah_2007_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

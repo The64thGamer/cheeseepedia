@@ -1,10 +1,10 @@
 +++
 title = "Salem.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Salem, OR (3240 Lancaster Dr)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

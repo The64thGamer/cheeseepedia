@@ -7,8 +7,8 @@ pageThumbnailFile = "QTOP5vVLa9baQkq1zYvp.avif"
 contributors = ["CECMentor", "Livelycheese", "Stripes", "The Nefarious Pizza Perpetrator"]
 citations = ["Rock-afire Explosion Service Manual"]
 manufacturer = "Creative Engineering"
-tags = ["Animatronics"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronics"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 The Fatz Geronimo Animatronic (Also the 3-Stage Mr. Munch Animatronic) was one of the main {{< wiki-link "Classic Stage" >}} animatronics produced by Creative Engineering Inc. The animatronic would first be developed in April of 1980, before debuting at the {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}} on August 14th of that year. His character was based off Fats Gorilla from the {{< wiki-link "Wolf Pack 5" >}} animatronic show Creative Engineering had developed.

@@ -1,10 +1,10 @@
 +++
 title = "91Bk3GRLemcxFgBDWDSJ.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Studio C"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

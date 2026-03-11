@@ -1,10 +1,10 @@
 +++
 title = "Articulated_Chuck_E._Checkered.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

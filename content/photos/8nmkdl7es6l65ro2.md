@@ -1,10 +1,11 @@
 +++
 title = "8nmkdl7es6l65ro2.avif"
 draft = false
-tags = ["Photos"]
-category = "Pizza Time Theatre"
-pages = ["Cheese Crawl", "Redwood City, CA (380 Convention Way)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cheese Crawl", "Redwood City, CA (380 Convention Way)"]
+
 startDate = "0000-00-00"
-citation = "Redwood City Plans"
+citations = ["Redwood City Plans"]
 +++
+
 Cheese Crawl Blueprints

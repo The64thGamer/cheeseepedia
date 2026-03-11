@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/XZJBBjy8VNk?t=73"
-startdate = "2001-00-00"
-pages = ["Lake Forest, CA (24416 Muirlands Blvd)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "2001-00-00"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "Lake Forest, CA (24416 Muirlands Blvd)"]
 +++
+
 Video of Robert Gotcher and Jeremy Blaido visiting Lake Forest and interviewing their employees.

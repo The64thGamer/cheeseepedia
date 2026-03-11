@@ -1,10 +1,10 @@
 +++
 title = "Makemagicatthebizzaplace.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["PTT Make Magic Sign"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

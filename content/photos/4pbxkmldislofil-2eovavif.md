@@ -1,9 +1,10 @@
 +++
 title = "4PBxkmlDislOFiL_2EOV.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["San Agustin, Mexico"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "San Agustin, Mexico"]
+
 startDate = ""
 +++
+
 San Agustin's Exterior (PC: Google Maps)

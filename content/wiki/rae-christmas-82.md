@@ -1,8 +1,8 @@
 +++
 title = "RAE Christmas '82"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1982-11-16"
 endDate = "1983-00-00"
 contributors = ["BurgersNuggs445","The 64th Gamer"]

@@ -21,7 +21,7 @@ This location opened up on October 29, 1991, as the first location in Connecticu
 
 | Stage                                                        | Installed        | Removed        | Notes                                                                                                               |
 |--------------------------------------------------------------|------------------|----------------|---------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}              | October 29, 1991 | 1995           | Only Road Stage installed in Connecticut.                                                                           |
+| {{< wiki-link "Road Stage" >}}              | October 29, 1991 | 1995           | Only Road Stage installed in Connecticut.                                                                           |
 | {{< wiki-link "1-Stage" >}}                            | 1995             | September 2022 | One of 3 1-Stages installed in Connecticut. The last cyberamic stage and the last animatronic stage in Connecticut. |
 | \|{{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | September 2022   | Still In Use   | Currently the only stage type in Connecticut as of installation date.                                               |
 

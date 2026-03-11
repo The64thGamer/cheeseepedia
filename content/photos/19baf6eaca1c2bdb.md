@@ -1,0 +1,9 @@
++++
+title = "19baf6eaca1c2bdb.avif"
+draft = false
+type = "Photos"
+tags = ["Chuck E. Cheese's", "2000 Kid's Stuff Tie Dye Helen Plush"]
+
+startDate = "2000-00-00"
+citations = []
++++

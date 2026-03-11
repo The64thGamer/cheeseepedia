@@ -1,9 +1,9 @@
 +++
 title = "Casaratunleashed.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Rick Rat Walkaround"]
 startDate = ""
 draft = false
-pages = ["Rick Rat Walkaround"]
+
 citations = []
 +++

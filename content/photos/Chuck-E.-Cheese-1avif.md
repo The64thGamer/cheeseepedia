@@ -1,10 +1,10 @@
 +++
 title = "Chuck-E.-Cheese-1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

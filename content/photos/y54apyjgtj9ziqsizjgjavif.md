@@ -1,9 +1,10 @@
 +++
 title = "Y54ApYJgTJ9ZIQsiZJgJ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Queenie / Mini Mozzarella (Animatronic)"]
+type = "Photos"
+tags = ["Creative Engineering", "Queenie / Mini Mozzarella (Animatronic)"]
+
 startDate = ""
 +++
+
 Mask (2015)

@@ -1,6 +1,6 @@
 +++
 title = "Banana Hill "
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **All: (Singing)**

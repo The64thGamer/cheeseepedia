@@ -1,8 +1,8 @@
 +++
 title = "SPP/CEC/Monterey's Group Medical Plan Pamphlet (July 1990)"
 draft = false
-tags = ["Documents"]
-categories = ["ShowBiz Pizza Place"]
+type = "Documents"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1990-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

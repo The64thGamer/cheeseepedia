@@ -1,8 +1,8 @@
 +++
 title = "Studio C File Formats"
 draft = false
-tags = ["Showtape Formats"]
-categories = []
+type = "Showtape Formats"
+tags = []
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Himitsu"]

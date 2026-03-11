@@ -1,7 +1,8 @@
 +++
 title = "ymcaliveshow2003.avif"
-pages = ["YMCA 2003"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "YMCA 2003"]
 +++
+
 Screenshot of "YMCA 2003" live show

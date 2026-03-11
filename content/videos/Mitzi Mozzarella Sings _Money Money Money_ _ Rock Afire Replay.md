@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/PXxvnsMo7Xo"
-startdate = "2021-02-20"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-02-20"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Mitzi Mozzarella Sings "Money Money Money" | Rock Afire Replay

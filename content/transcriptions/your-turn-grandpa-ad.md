@@ -1,6 +1,6 @@
 +++
 title = "\"Your turn Grandpa\" ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Kids:**

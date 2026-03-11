@@ -1,10 +1,10 @@
 +++
 title = "The_Record_Fri_Jul_26_1996_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

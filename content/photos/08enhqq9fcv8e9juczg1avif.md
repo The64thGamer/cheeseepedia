@@ -1,9 +1,10 @@
 +++
 title = "08EnHQQ9fCV8e9jUCzG1.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Bear Country Jubilee"]
+type = "Photos"
+tags = ["Creative Engineering", "Bear Country Jubilee"]
+
 startDate = ""
 +++
+
 Beheaded Pierre Le Bear Billboard (1983)

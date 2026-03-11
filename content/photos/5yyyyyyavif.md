@@ -1,10 +1,10 @@
 +++
 title = "5yyyyyy.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Land Of 1,000 Dances"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

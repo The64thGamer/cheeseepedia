@@ -1,10 +1,10 @@
 +++
 title = "North_Olmsted_Today.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

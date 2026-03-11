@@ -1,9 +1,10 @@
 +++
 title = "zIw1lvkAGQxOZOOZxBJd.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Salt Lake City, UT (389 W 1830 South)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Salt Lake City, UT (389 W 1830 South)"]
+
 startDate = ""
 +++
+
 Counters

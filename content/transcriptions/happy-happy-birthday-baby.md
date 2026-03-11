@@ -1,6 +1,6 @@
 +++
 title = "Happy Happy Birthday Baby"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Jasper T. Jowls:**

@@ -1,6 +1,6 @@
 +++
 title = "Warblettes Oldies Birthday"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 +++
 **Chuck E. Cheese:**
 

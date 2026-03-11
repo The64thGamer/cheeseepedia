@@ -3,11 +3,11 @@ title = "Chuck E. Cheese Hicksville Evergreen 2025 Show"
 startDate = "2025-01-06"
 endDate = "2025-03-21"
 pageThumbnailFile = "evergreen2025.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Cyberamics Legacy Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Chuck E. Cheese Hicksville Evergreen Show 2025*** was the evergreen show released on January 6, 2025 for Hicksville, NY until March 21, 2025 when they installed the 3-Stage EPROM, resulting in changing the show over to the standard Legacy show.
 

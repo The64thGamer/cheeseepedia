@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 4 2021 (Studio C) (International SPA Covid Promo)"
 draft = false
-tags = ["Showtapes"]
-categories = []
+type = "Showtapes"
+tags = []
 startDate = "2021-10-15"
 endDate = "0000-00-00"
-contributors = ["CyberSnout","Himitsu"]
+contributors = ["Cyber Snout","Himitsu"]
 citations = []
 pageThumbnailFile = "COfz762VR5Gr76TWuiy4.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]

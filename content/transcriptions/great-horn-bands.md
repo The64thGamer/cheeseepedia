@@ -1,6 +1,6 @@
 +++
 title = "Great Horn Bands"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese:**

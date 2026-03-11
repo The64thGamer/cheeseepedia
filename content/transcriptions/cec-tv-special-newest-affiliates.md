@@ -1,6 +1,6 @@
 +++
 title = "CEC TV Special Newest Affiliates"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese:**

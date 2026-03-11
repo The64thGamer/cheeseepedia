@@ -1,10 +1,10 @@
 +++
 title = "Ergergergergwef.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Pizza Factory"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

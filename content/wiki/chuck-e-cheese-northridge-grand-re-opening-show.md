@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Northridge Grand Re-Opening Show"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-11-10"
 endDate = "2023-11-10"
-contributors = ["CyberSnout","The 64th Gamer","CyCGM","Dame0824","Ceclife13"]
+contributors = ["Cyber Snout","The 64th Gamer","CyCGM","Dame0824","Ceclife13"]
 citations = []
 pageThumbnailFile = "LegacyGrandOpening.avif"
 showtapeFormats = ["Legacy Cyberamic Navori"]

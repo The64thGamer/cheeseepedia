@@ -1,8 +1,8 @@
 +++
 title = "Wolfman Show"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronic Shows"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

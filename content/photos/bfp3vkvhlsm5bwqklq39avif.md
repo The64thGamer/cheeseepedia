@@ -1,9 +1,10 @@
 +++
 title = "BFp3VkVhLsM5BWqklq39.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["St. Louis, MO (2805 Target Dr)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "St. Louis, MO (2805 Target Dr)"]
+
 startDate = ""
 +++
+
 A closer view of the store's exterior with the old doors.

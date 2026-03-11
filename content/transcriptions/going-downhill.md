@@ -1,7 +1,7 @@
 +++
 title = "Going Downhill"
-tags = ["Transcriptions"]
-categories = []
+type = "Transcriptions"
+tags = []
 startDate = ""
 draft = false
 contributors = ["The 64th Gamer"]

@@ -1,6 +1,6 @@
 +++
 title = "Dragstrip in the Sky"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Rolfe Dewolfe:**

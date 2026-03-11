@@ -1,10 +1,10 @@
 +++
 title = "Gaslight_jamboree.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Wolf Pack 5"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

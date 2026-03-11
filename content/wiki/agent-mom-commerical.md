@@ -6,8 +6,8 @@ contributors = ["showbizdudebeta"]
 citations = ["https://www.youtube.com/watch?v=xaAZMLgi4T8&t=6s"]
 credits = ["SproutFan2019"]
 mediaDuration = "0:15"
-tags = ["Commercials"]
-categories = ["Chuck E. Cheese's"]
+type = "Commercials"
+tags = ["Chuck E. Cheese's"]
 +++
 'Agent Mom' was a Chuck E. Cheese Commerical released in 2008.
 

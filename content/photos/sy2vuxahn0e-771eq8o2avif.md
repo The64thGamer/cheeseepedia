@@ -1,9 +1,10 @@
 +++
 title = "Sy2vUXAHn0e_771Eq8O2.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Color Call-out Monitor System"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Color Call-out Monitor System"]
+
 startDate = ""
 +++
+
 Simi Valley CCMS

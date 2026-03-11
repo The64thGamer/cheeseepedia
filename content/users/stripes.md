@@ -1,8 +1,8 @@
 +++
 title = "Stripes"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2024-05-27"
 endDate = ""
 contributors = ["Stripes"]

@@ -1,10 +1,10 @@
 +++
 title = "CEC_Tune_Tracks_1997.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Awesome Tune Tracks"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

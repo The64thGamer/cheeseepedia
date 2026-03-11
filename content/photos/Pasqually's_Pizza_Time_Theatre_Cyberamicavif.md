@@ -1,10 +1,10 @@
 +++
 title = "Pasqually's_Pizza_Time_Theatre_Cyberamic.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Pasqually (Cyberamic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

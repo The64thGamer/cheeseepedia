@@ -1,8 +1,8 @@
 +++
 title = "Cyberstar 2000 Software"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = [""]
+type = "Animatronic Control Systems"
+tags = [""]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

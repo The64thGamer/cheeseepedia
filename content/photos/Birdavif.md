@@ -1,10 +1,10 @@
 +++
 title = "Bird.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Bird (Animatronic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

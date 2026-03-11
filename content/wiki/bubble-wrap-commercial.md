@@ -1,8 +1,8 @@
 +++
 title = "Bubble Wrap (Commercial)"
 draft = false
-tags = ["Commercials"]
-categories = ["Chuck E. Cheese's"]
+type = "Commercials"
+tags = ["Chuck E. Cheese's"]
 startDate = "2007-12-19"
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445"]

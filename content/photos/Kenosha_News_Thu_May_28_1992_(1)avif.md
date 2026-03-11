@@ -1,10 +1,10 @@
 +++
 title = "Kenosha_News_Thu_May_28_1992_(1).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

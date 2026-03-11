@@ -1,10 +1,10 @@
 +++
 title = "Guitar_Arm_Twist.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Take A Walk"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["showbizdudebeta"]
 +++
 **Chuck E. Cheese: (singing)**

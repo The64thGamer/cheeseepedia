@@ -1,8 +1,8 @@
 +++
 title = "Five Nights at Freddy's 3 (Troll Game)"
 draft = false
-tags = ["Video Games"]
-categories = ["Five Nights at Freddy's"]
+type = "Video Games"
+tags = ["Five Nights at Freddy's"]
 startDate = "2015-02-15"
 endDate = "2015-02-15"
 contributors = ["The 64th Gamer"]

@@ -1,10 +1,10 @@
 +++
 title = "Screenshot_20220714-161537_Instagram.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese Summer Nights Show"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,11 +1,11 @@
 +++
 title = "Winchester Helen Henny (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-08-00"
 endDate = "0000-00-00"
-contributors = ["WalterB","PizzaEntertainmentFanX","CECMentor"]
+contributors = ["WalterB","Pizza Entertainment Fan","CECMentor"]
 citations = ["https://archive.org/details/atariincbusiness0000gold/page/256/mode/2up"]
 pageThumbnailFile = "rVuURQpZGKq_BcifKP2S.avif"
 unitsProduced = "1"

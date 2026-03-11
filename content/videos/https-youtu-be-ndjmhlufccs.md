@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/ndjmHlUfCcs"
-startdate = "2019-01-04"
-pages = ["Brandon, FL (1540 W Brandon Blvd)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "2019-01-04"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "Brandon, FL (1540 W Brandon Blvd)"]
 +++
+
 'Birthday Star Spectacular' being performed on Brandon's 2-Stage

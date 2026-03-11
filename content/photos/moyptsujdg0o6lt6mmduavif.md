@@ -1,9 +1,10 @@
 +++
 title = "mOyPtSuJDG0o6Lt6mMDU.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Crazy Colander Head Night (Event)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Crazy Colander Head Night (Event)"]
+
 startDate = ""
 +++
+
 Beach Bear Signed Poster

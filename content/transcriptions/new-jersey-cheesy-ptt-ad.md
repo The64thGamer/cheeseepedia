@@ -1,6 +1,6 @@
 +++
 title = "New Jersey \"Cheesy\" PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Family: (Singing)**

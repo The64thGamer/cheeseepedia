@@ -24,7 +24,7 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 
 | Stage                                                                                             | Installed      | Removed        | Notes                                                     |
 |---------------------------------------------------------------------------------------------------|----------------|----------------|-----------------------------------------------------------|
-| {{< wiki-link "Cyberamics Road Stage" >}}                                                   | September 1991 | April 2023     | 7th to Last Road Stage. Installed on the Right Side Wall. |
+| {{< wiki-link "Road Stage" >}}                                                   | September 1991 | April 2023     | 7th to Last Road Stage. Installed on the Right Side Wall. |
 | {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | April 2023     | Still in store | 2021 Model. Installed on the Back Wall.                   |
 
 ## Animatronics

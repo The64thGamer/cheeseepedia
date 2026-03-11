@@ -1,6 +1,6 @@
 +++
 title = "PTT Christmas ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese: (Walkaround)**

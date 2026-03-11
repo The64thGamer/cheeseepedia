@@ -1,8 +1,8 @@
 +++
 title = "Jacksonville, FL (Plymouth St)"
 draft = false
-tags = ["Locations"]
-categories = ["Sally Corporation"]
+type = "Locations"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = "1977-00-00"
 endDate = "1978-00-00"

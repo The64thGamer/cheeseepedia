@@ -1,8 +1,8 @@
 +++
 title = "Eve of Destruction ft. Earle Schmerle"
 draft = false
-tags = ["Showtapes"]
-categories = ["Creative Engineering"]
+type = "Showtapes"
+tags = ["Creative Engineering"]
 startDate = "2013-06-28"
 endDate = "2020-00-00"
 contributors = ["The 64th Gamer","Cy's Junk at School"]

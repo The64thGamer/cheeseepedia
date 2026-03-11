@@ -1,8 +1,8 @@
 +++
 title = "Tropical Stage"
 draft = false
-tags = ["Stage Variations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Stage Variations"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1988-00-00"
 endDate = "1991-00-00"
 contributors = ["Emcaacme","The 64th Gamer"]

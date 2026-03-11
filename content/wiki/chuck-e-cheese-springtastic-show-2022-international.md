@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Springtastic Show 2022 International"
 draft = false
-tags = ["Showtapes"]
-categories = []
+type = "Showtapes"
+tags = []
 startDate = "2022-03-12"
 endDate = "0000-00-00"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = []
 pageThumbnailFile = "PapOnE_6L0XirbAPIUoY.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]

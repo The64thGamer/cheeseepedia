@@ -1,11 +1,11 @@
 +++
 title = "Pumpkin Festival Warblettes (Warblettes Retrofit)"
 draft = false
-tags = ["Retrofits"]
-categories = ["Unknown Manufacturers"]
+type = "Retrofits"
+tags = ["Unknown Manufacturers"]
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["CyberSnout","PizzaEntertainmentFanX"]
+contributors = ["Cyber Snout","Pizza Entertainment Fan"]
 citations = []
 pageThumbnailFile = "Uhc2zI4CPelDb9R6ef9o.avif"
 +++

@@ -1,8 +1,9 @@
 +++
 title = "3094jtg30i4gjn34g.avif"
-startdate = "0000-00-00"
-pages = ["Cyberamic Head Sheet Metal"]
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+startDate = "0000-00-00"
+
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cyberamic Head Sheet Metal"]
 +++
+
 (Outdated, Inaccurate) Cyberamic Mouth Lever Measurements

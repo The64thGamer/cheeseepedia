@@ -1,10 +1,10 @@
 +++
 title = "AtlantaGAExteriorJune2022.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Atlanta, GA (2990 Cumberland Blvd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

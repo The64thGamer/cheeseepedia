@@ -5,8 +5,8 @@ startDate = "2016-00-00"
 endDate = ""
 contributors = ["ChuckEPediaIsTheBest!"]
 citations = ["TBD"]
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's"]
 +++
 
 **Sensory Sensitive Sundays (SSS)** is a program used at Chuck E. Cheese restaurants, used to encourage families with children on the austism spectrum. The program started in 2016, in which every sunday in the month of April, participating CEC stores open an hour or two early to let families with autistic children experience CEC without the overly stimulating atmosphere of a normal visit.

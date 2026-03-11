@@ -1,10 +1,10 @@
 +++
 title = "Vintage-1994-Chuck-E-Cheese-Helen-Henny-Showbiz.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

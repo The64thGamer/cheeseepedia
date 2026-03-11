@@ -1,6 +1,6 @@
 +++
 title = "Together We've Got It 2017"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Ceclife13"]
 +++
 **[Song: Together We've Got It]**

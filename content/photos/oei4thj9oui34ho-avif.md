@@ -1,8 +1,9 @@
 +++
 title = "oei4thj9oui34ho.avif"
-startdate = "2024-12-16"
-pages = ["Skit-Oink 3 Tunnel/Love W/XMAS"]
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+startDate = "2024-12-16"
+
+type = "Photos"
+tags = ["Pizza Time Theatre", "Skit-Oink 3 Tunnel/Love W/XMAS"]
 +++
+
 Front reel case label for Oink 3 w/ XMAS, notably with a crossed out 11/24/82 date.

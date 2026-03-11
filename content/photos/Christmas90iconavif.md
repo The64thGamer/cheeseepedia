@@ -1,8 +1,8 @@
 +++
 title = "Christmas90icon.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["CEC Christmas '90"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "CEC Christmas '90"]
+
 startDate = ""
 +++

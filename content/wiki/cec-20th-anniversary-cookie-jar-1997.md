@@ -1,8 +1,8 @@
 +++
 title = "CEC 20th Anniversary Cookie Jar (1997)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 startDate = "1997-00-00"
 endDate = "0000-00-00"
 contributors = ["CEC Tinley","BurgersNuggs445","Ceclife13"]

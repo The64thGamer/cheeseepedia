@@ -1,11 +1,11 @@
 +++
 title = "SPP Christmas '89 / Wave Bday"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1989-11-15"
 endDate = "1990-00-00"
-contributors = ["CyberSnout","DerekCat","The 64th Gamer"]
+contributors = ["Cyber Snout","DerekCat","The 64th Gamer"]
 citations = ["https://youtu.be/LEhPFhcc7T8"]
 pageThumbnailFile = "PcbGX5xq9WsOxNGLWOXh.avif"
 showtapeFormats = ["ShowBiz SVHS"]

@@ -1,9 +1,10 @@
 +++
 title = "dRDdLk_UqSvu9_qFVFbM.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Carina, Queensland, Australia"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Carina, Queensland, Australia"]
+
 startDate = ""
 +++
+
 The Balcony show with Bandstand theming.

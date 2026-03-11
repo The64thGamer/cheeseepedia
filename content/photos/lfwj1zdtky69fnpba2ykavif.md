@@ -1,9 +1,10 @@
 +++
 title = "lFWJ1ZdTky69fnPBa2Yk.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["CEC Employee Oval Name Tag - Engraved (90's)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "CEC Employee Oval Name Tag - Engraved (90's)"]
+
 startDate = ""
 +++
+
 'Dexter' Tag

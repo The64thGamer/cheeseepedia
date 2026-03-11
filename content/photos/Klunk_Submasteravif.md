@@ -1,10 +1,10 @@
 +++
 title = "Klunk_Submaster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Uncle Klunk Showtape Jeff Howell"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

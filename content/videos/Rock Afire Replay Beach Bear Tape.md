@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/8U_sk1CSK0c"
-startdate = "2021-10-01"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-10-01"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Rock Afire Replay Beach Bear Tape

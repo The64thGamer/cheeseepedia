@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 7 2016"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2016-10-03"
 endDate = "2016-10-31"
-contributors = ["The 64th Gamer","CyberSnout","Anonymous","Dame868","Crazy Muzzarino"]
+contributors = ["The 64th Gamer","Cyber Snout","Anonymous","Dame868","Crazy Muzzarino"]
 citations = []
 pageThumbnailFile = "9N9auyUFxcsfNs7wJf0X.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]

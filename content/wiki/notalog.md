@@ -1,8 +1,8 @@
 +++
 title = "NOTALOG"
 draft = false
-tags = ["Other Systems"]
-categories = ["Pizza Time Theatre"]
+type = "Other Systems"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","BurgersNuggs445","CEC Tinley","GuestIsJustBest","Stripes"]

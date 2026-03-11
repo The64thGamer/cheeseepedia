@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 1 2020"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2019-12-30"
 endDate = "2020-3-17"
-contributors = ["The 64th Gamer","CyberSnout","Himitsu","Ceclife13","Mousester","GallaRBX2","Cy's Junk at School"]
+contributors = ["The 64th Gamer","Cyber Snout","Himitsu","Ceclife13","Mousester","GallaRM","Cy's Junk at School"]
 citations = []
 pageThumbnailFile = "wHsGLduZBT0qxCZqaknY.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]

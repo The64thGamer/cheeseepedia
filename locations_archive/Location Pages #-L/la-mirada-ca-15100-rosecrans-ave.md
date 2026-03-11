@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["33.89595832","-118.0099742"]
 +++
 
-***La Mirada, CA (15100 Rosecrans Ave)*** is a *Chuck E. Cheese's Pizza* that opened on February 25, 1992 with a {{< wiki-link "Cyberamics Road Stage" >}}, and is still open with the 2.0 remodel.
+***La Mirada, CA (15100 Rosecrans Ave)*** is a *Chuck E. Cheese's Pizza* that opened on February 25, 1992 with a {{< wiki-link "Road Stage" >}}, and is still open with the 2.0 remodel.
 
 ## Stages
 

@@ -1,9 +1,10 @@
 +++
 title = "YQAiKNEDE36ULJnU5uMf.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Dothan, AL (3400 Ross Clark Circle)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Dothan, AL (3400 Ross Clark Circle)"]
+
 startDate = ""
 +++
+
 Exterior as a Pizza Kastle

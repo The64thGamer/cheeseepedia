@@ -1,9 +1,10 @@
 +++
 title = "iacP3AgrihGy0O1JmTj6.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Bear Country Jubilee"]
+type = "Photos"
+tags = ["Creative Engineering", "Bear Country Jubilee"]
+
 startDate = ""
 +++
+
 GIF of Center Stage (Four Seasoned Bears)

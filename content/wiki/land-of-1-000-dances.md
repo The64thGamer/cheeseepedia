@@ -1,11 +1,11 @@
 +++
 title = "Land Of 1,000 Dances"
 draft = false
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 startDate = "1991-09-00"
 endDate = "1991-12-00"
-contributors = ["CyberSnout","MultiMonorail"]
+contributors = ["Cyber Snout","MultiMonorail"]
 citations = ["https://www.youtube.com/watch?v=-KJrEngl0Zk"]
 mediaDuration = "5:00"
 pageThumbnailFile = "rp5V_BlTyAX12R_4adwc.avif"

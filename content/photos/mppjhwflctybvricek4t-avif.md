@@ -1,8 +1,9 @@
 +++
 title = "mppjhwflctybvricek4t.avif"
-startdate = "2009-01-00"
-pages = ["January 2009 Show"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "2009-01-00"
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "January 2009 Show"]
 +++
+
 January 2009 show screenshot.

@@ -1,10 +1,10 @@
 +++
 title = "Wertyuiuytrews.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Pumpkin Festival Jasper (Jasper Retrofit)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

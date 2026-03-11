@@ -1,10 +1,10 @@
 +++
 title = "MX67-security-sdwan-product-tile.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

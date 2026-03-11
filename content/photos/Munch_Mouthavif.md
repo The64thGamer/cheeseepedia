@@ -1,10 +1,10 @@
 +++
 title = "Munch_Mouth.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Munch Mouth"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

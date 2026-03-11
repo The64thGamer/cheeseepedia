@@ -1,6 +1,6 @@
 +++
 title = "CEC Can't Bring Commercial"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese:**

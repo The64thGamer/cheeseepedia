@@ -1,9 +1,10 @@
 +++
 title = "raNTWSI0XOOXXkajq_OC.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Bear Country Jubilee"]
+type = "Photos"
+tags = ["Creative Engineering", "Bear Country Jubilee"]
+
 startDate = ""
 +++
+
 Waldo

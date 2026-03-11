@@ -1,10 +1,10 @@
 +++
 title = "2GO1A1nametag.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Gee, Our 1st Album Cassette (1982)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

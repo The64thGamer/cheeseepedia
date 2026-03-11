@@ -13,8 +13,8 @@ latitudeLongitude = ["0","0"]
 citations = ["https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf","https://www.worldradiohistory.com/Archive-All-Music/Cash-Box/70s/1979/CB-1979-02-17.pdf","https://permits.sanjoseca.gov/api/public-portal/property/document?docId=2512401"]
 contributors = ["The 64th Gamer"]
 downloadLinks = []
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 pageThumbnailFile = "Screenshot_20251018_141557.avif"
 +++

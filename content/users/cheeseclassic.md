@@ -1,8 +1,8 @@
 +++
 title = "Cheeseclassic"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2024-06-24"
 endDate = ""
 contributors = ["Cheeseclassic"]

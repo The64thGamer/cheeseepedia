@@ -1,8 +1,8 @@
 +++
 title = "Shark Cupcake (CEC Menu Item)"
 draft = false
-tags = ["Menu Items"]
-categories = ["Chuck E. Cheese's"]
+type = "Menu Items"
+tags = ["Chuck E. Cheese's"]
 startDate = "2022-07-16"
 endDate = "2022-8-28"
 contributors = ["The 64th Gamer"]

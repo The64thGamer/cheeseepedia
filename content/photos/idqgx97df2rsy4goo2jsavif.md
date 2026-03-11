@@ -1,9 +1,10 @@
 +++
 title = "IdqGX97df2RSy4goO2JS.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Character Cable Tester"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Character Cable Tester"]
+
 startDate = ""
 +++
+
 Front Label

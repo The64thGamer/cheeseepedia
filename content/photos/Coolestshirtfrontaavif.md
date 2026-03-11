@@ -1,10 +1,10 @@
 +++
 title = "Coolestshirtfronta.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Pizza Time Theatre 'Bite Me!' Shirt"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

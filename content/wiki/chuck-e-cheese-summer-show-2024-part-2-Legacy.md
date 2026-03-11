@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Summer Show 2024 Part 2 CEC Stage Legacy"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2024-07-08"
 endDate = "2024-07-28"
-contributors = ["CyberSnout","Dame0824","AstridMascotFan2005"]
+contributors = ["Cyber Snout","Dame0824","AstridMascotFan2005"]
 citations = []
 pageThumbnailFile = "VObER90Kgs1fjupJvysM.avif"
 showtapeFormats = ["Legacy CEC Stage Navori"]

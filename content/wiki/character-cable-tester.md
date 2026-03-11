@@ -1,8 +1,8 @@
 +++
 title = "Character Cable Tester"
 draft = false
-tags = ["Animatronic Control Systems"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronic Control Systems"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer","Ls2018","Ls2018"]

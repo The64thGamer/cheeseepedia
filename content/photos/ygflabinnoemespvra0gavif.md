@@ -1,9 +1,10 @@
 +++
 title = "ygflAbinnOemEspvRA0g.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["Jungle Jim's Flag Wavers (Flag Wavers Retrofit)"]
+type = "Photos"
+tags = ["", "Jungle Jim's Flag Wavers (Flag Wavers Retrofit)"]
+
 startDate = ""
 +++
+
  Up-Close with the reproduction Flag Wavers.

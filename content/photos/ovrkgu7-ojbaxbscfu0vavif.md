@@ -1,9 +1,10 @@
 +++
 title = "OvRkGU7_oJBaXbSCFU0v.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Jingle Bell Jamboree"]
+type = "Photos"
+tags = ["Creative Engineering", "Jingle Bell Jamboree"]
+
 startDate = ""
 +++
+
 Center Stage 1977

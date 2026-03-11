@@ -1,10 +1,10 @@
 +++
 title = "The_classic_stage.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Harmony Howlette"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,9 +1,10 @@
 +++
 title = "4hPjA1b5htUDDjbDIu5v.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Augusta, GA (3435 Wrightsboro Rd)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Augusta, GA (3435 Wrightsboro Rd)"]
+
 startDate = ""
 +++
+
 Exterior Before 2.0 Remodel

@@ -1,9 +1,9 @@
 +++
 title = "9uih4t9h2tt.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["CEC American Pride / Neighbors"]
 startDate = ""
 draft = false
-pages = ["CEC American Pride Neighbors"]
+
 citations = []
 +++

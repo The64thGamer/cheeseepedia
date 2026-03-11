@@ -1,10 +1,10 @@
 +++
 title = "New_redwood_city.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

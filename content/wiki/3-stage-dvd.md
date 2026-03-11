@@ -1,8 +1,8 @@
 +++
 title = "3-Stage DVD"
 draft = false
-tags = ["Showtape Formats"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtape Formats"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = ""
 contributors = ["Himitsu","The 64th Gamer"]

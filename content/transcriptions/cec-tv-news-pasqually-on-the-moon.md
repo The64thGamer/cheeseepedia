@@ -1,6 +1,6 @@
 +++
 title = "CEC TV News Pasqually on the moon"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Narrator:**

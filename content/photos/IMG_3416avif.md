@@ -1,10 +1,10 @@
 +++
 title = "IMG_3416.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Concept Unification Diagnostics Tape 1"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

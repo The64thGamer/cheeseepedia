@@ -1,10 +1,10 @@
 +++
 title = "7388111_orig.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Major Magic's All Star Pizza Revue"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

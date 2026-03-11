@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2001-12-27"
 endDate = ""
-contributors = ["Cheeseclassic","BigCtheDataFinder","CoolerDude","ThatBoiCydalan","AstridMascotFan2005"]
+contributors = ["Cheeseclassic","BigCDataFinder ","CoolerDude","ThatBoiCydalan","AstridMascotFan2005"]
 citations = ["<a href=\"https://m.youtube.com/shorts/GQXhQWRWv0A\">https://m.youtube.com/shorts/GQXhQWRWv0A</a>"]
 pageThumbnailFile = "PB6VfxPUjzyNQ_PVoX3o.avif"
 latitudeLongitude = ["39.44455767","-74.62963918"]

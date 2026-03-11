@@ -1,9 +1,10 @@
 +++
 title = "n92X4pvq5uWjpEz5YTBr.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Crazy Colander Head Night (Event)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Crazy Colander Head Night (Event)"]
+
 startDate = ""
 +++
+
 Billy Bob Signed Poster

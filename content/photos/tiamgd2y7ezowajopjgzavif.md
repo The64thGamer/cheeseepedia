@@ -1,9 +1,10 @@
 +++
 title = "TiaMGd2Y7ezOwAjOPjGz.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Orsi Show"]
+type = "Photos"
+tags = ["Creative Engineering", "Orsi Show"]
+
 startDate = ""
 +++
+
 File:Orsi Show Confirmation.png

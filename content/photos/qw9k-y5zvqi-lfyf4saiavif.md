@@ -1,9 +1,10 @@
 +++
 title = "qW9K_y5zVQI_lfyF4Sai.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Opening Team Pin (90's)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Opening Team Pin (90's)"]
+
 startDate = ""
 +++
+
 Front (New Hartford, NY)

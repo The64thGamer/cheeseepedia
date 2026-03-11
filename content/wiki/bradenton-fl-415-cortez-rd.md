@@ -14,7 +14,7 @@ citations = []
 contributors = []
 downloadLinks = ["https://ia600308.us.archive.org/31/items/6-15-1982-showbiz-pizza-place-plans-598-n-mccarran-5450/Floorplan%20Archive%20SHOWBIZ/Florida/BradentonSPP_text.pdf|The original Store Layout (1982)"]
 pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

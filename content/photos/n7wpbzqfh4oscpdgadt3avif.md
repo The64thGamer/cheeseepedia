@@ -1,9 +1,10 @@
 +++
 title = "N7wPbZQfH4OsCpdGADt3.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
-pages = ["Smartee's Pizza Brigade"]
+type = "Photos"
+tags = ["Unknown Manufacturers", "Smartee's Pizza Brigade"]
+
 startDate = ""
 +++
+
 A ad for Southwyck Malls 'Characters on Parade' event. Featuring the Smartee's Cast.

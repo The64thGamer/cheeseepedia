@@ -1,10 +1,10 @@
 +++
 title = "B-I-N-G-O.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["BINGO"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

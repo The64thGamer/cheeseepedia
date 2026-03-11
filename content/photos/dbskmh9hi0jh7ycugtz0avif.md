@@ -1,9 +1,10 @@
 +++
 title = "dBsKMH9Hi0JH7YcUGtz0.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Willie Rabbit (Animatronic)"]
+type = "Photos"
+tags = ["Creative Engineering", "Willie Rabbit (Animatronic)"]
+
 startDate = ""
 +++
+
 Willie in a Kiosk at the Orlando airport, Unknown year.

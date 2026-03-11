@@ -1,9 +1,10 @@
 +++
 title = "iuPXt7WE3oj8ifNN_RvU.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Cyberamics Tester"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cyberamics Tester"]
+
 startDate = ""
 +++
+
 Length (13 in)

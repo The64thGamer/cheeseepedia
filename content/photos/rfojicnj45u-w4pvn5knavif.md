@@ -1,9 +1,10 @@
 +++
 title = "rfoJICnj45U_W4pvn5Kn.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Paducah, KY (5141 Hinkleville Rd)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Paducah, KY (5141 Hinkleville Rd)"]
+
 startDate = ""
 +++
+
 Aerial photo of Paducah as a Chuck E. Cheese's Pizza (circa 1995)

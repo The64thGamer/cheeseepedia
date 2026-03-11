@@ -1,0 +1,9 @@
++++
+title = "3fb3b6bce1d73ce7.avif"
+draft = false
+type = "Photos"
+tags = ["Chuck E. Cheese's", "2007 Scuba Chuck"]
+
+startDate = "2007-00-00"
+citations = []
++++

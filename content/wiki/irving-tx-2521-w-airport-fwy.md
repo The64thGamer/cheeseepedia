@@ -1,4 +1,5 @@
 +++
+
 title = "Irving, TX (2521 W Airport Fwy)"
 storeNumber = ""
 startDate = "1983-00-00"
@@ -13,8 +14,8 @@ latitudeLongitude = ["32.83726607","-96.98091708"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "6WGI23nGrUVnFirdf0n1.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

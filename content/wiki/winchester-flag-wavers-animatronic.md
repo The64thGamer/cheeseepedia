@@ -1,11 +1,11 @@
 +++
 title = "Winchester Flag Wavers (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-05-00"
 endDate = "1985-02-00"
-contributors = ["PizzaEntertainmentFanX"]
+contributors = ["Pizza Entertainment Fan"]
 citations = ["https://www.showbizpizza.com/info/promo/ptt/ptt_77menu.pdf"]
 unitsProduced = "1"
 manufacturer = "Fantasy Forest"

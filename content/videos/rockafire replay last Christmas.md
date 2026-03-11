@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/XbaDYcLqfQA"
-startdate = "2021-11-22"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-11-22"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 rockafire replay last Christmas

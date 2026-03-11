@@ -1,9 +1,10 @@
 +++
 title = "37uEyoBCel0NhUPh4pNJ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Fats Gorilla (Animatronic)"]
+type = "Photos"
+tags = ["Creative Engineering", "Fats Gorilla (Animatronic)"]
+
 startDate = ""
 +++
+
 Knoebels Amusement Resort

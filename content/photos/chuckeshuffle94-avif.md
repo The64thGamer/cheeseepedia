@@ -1,7 +1,8 @@
 +++
 title = "chuckeshuffle94.avif"
-pages = ["Chuck E. Shuffle"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Chuck E. Shuffle"]
 +++
+
 Screenshot of "Chuck E. Shuffle" live show

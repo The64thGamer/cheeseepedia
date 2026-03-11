@@ -1,8 +1,8 @@
 +++
 title = "uJbewJqNQqNtXHqx9X90.avif"
 draft = false
-tags = ["Photos"]
-categories = []
-pages = ["Disney Jr Soccer (Commercial)"]
+type = "Photos"
+tags = ["Disney Jr Soccer (Commercial)"]
+
 startDate = ""
 +++

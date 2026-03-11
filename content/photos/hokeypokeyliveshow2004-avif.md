@@ -1,7 +1,8 @@
 +++
 title = "hokeypokeyliveshow2004.avif"
-pages = ["Hokey Pokey"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Hokey Pokey"]
 +++
+
 Screenshot of "Hokey Pokey" choreography video

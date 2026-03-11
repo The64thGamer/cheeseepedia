@@ -1,8 +1,8 @@
 +++
 title = "Master Blaster (Commercial)"
 draft = false
-tags = ["Commercials"]
-categories = ["Chuck E. Cheese's"]
+type = "Commercials"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["BurgersNuggs445","The 64th Gamer"]

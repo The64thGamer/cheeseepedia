@@ -1,10 +1,10 @@
 +++
 title = "Single_Acting_Cylinder_(Cycle).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

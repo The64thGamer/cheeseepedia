@@ -1,8 +1,8 @@
 +++
 title = "Texas State Fair"
 draft = false
-tags = ["History"]
-categories = [""]
+type = "History"
+tags = [""]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

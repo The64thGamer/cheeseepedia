@@ -1,8 +1,8 @@
 +++
 title = "Christmas 1983"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 pageThumbnailFile = "trZczuVcPdg5nnsd74CN.avif"
 startDate = "1983-11-20"
 endDate = "1985-12-31"

@@ -1,10 +1,10 @@
 +++
 title = "Hhhhhhhhjg.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Birthday Star Spectacular Choreography"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

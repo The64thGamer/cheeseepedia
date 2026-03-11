@@ -8,8 +8,8 @@ citations = ["https://web.archive.org/web/20200908202521/https://gamejolt.com/ga
 credits = ["The 64th Gamer - Developer", "Himitsu - Playback Optimization", "RayStarKitty - NRAE Room Art"]
 downloadLinks = ["https://archive.org/download/rock-afire-replay-fan-shows-pre-1.3-format_202207|Fan-Show Archive (Pre 1.3 Format)", "https://archive.org/download/rock-afire-replay-fan-shows|Fan-Show Archive (2020-2021)", "https://archive.org/download/rockafire-replay-archive|Game Archive (v0.1a - v1.31a)", "https://archive.org/download/rockafire-replay-source-code-backups|Source Code Backups (v0.1a ,v0.2a ,v0.4a)"]
 alsoKnownAs = ["RR / Replay"]
-tags = ["Simulators"]
-categories = ["Pizza Time Theatre", "ShowBiz Pizza Place", "Creative Engineering"]
+type = "Simulators"
+tags = ["Pizza Time Theatre", "ShowBiz Pizza Place", "Creative Engineering"]
 +++
 ***Rock-afire Replay* was the first digital animatronics simulator to ever release, being centered around the Rock-afire Explosion and a small bit of Pizza Time Theatre content as unofficial software, lasting from August 24, 2020 to January 5th, 2021, where the game was deleted due to various pressures from Creative Engineering.
 The game became the basis for many future mods that continued the project, such as the officially authorized by Creative Engineering mod Retromation, alongside continuations by the original creator as Faz-Anim and Reel to Real. The game would lead to two separately developed simulator projects currently in the works by Creative Engineering.**

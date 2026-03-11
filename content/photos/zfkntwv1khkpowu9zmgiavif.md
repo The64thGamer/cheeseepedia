@@ -1,9 +1,10 @@
 +++
 title = "ZfKntwv1KhKpOwU9zMgi.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Redwood City, CA (380 Convention Way)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Redwood City, CA (380 Convention Way)"]
+
 startDate = ""
 +++
+
 1981

@@ -1,8 +1,8 @@
 +++
 title = "Mijjin #6"
 draft = false
-tags = ["Characters"]
-categories = ["Creative Engineering"]
+type = "Characters"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

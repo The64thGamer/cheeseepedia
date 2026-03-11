@@ -1,8 +1,8 @@
 +++
 title = "Valve Banks"
 draft = false
-tags = ["Animatronic Preservation"]
-categories = [""]
+type = "Animatronic Preservation"
+tags = [""]
 startDate = ""
 endDate = ""
 contributors = ["ShowBizpizzawiki"]

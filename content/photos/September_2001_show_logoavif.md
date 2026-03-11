@@ -1,10 +1,10 @@
 +++
 title = "September_2001_show_logo.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

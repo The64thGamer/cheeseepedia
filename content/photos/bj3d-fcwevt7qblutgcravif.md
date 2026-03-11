@@ -1,9 +1,10 @@
 +++
 title = "bj3d_FcWEVT7QblUTGcr.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Sun (Animatronic)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Sun (Animatronic)"]
+
 startDate = ""
 +++
+
 Early Sun mechanism with body turn.

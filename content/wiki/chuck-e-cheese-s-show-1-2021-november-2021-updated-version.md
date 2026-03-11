@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 1 2021 (November 2021 Updated Version)"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-11-01"
 endDate = "2021-11-14"
-contributors = ["CyberSnout","The 64th Gamer","Himitsu"]
+contributors = ["Cyber Snout","The 64th Gamer","Himitsu"]
 citations = []
 pageThumbnailFile = "Pzvwwkiwxpwd9ModNwmt.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]

@@ -1,10 +1,10 @@
 +++
 title = "Southtown_Star_Thu_Jun_4_1992_(2).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

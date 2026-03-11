@@ -1,9 +1,10 @@
 +++
 title = "rAzN5XEvEnfuULLprR9_.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Circus Tape"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Circus Tape"]
+
 startDate = ""
 +++
+
 Showtape Case Side

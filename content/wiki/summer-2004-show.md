@@ -6,11 +6,11 @@ endDate = "2004-08-00"
 pageThumbnailFile = "xtTy7iCQBlJJCf40JMlv.avif"
 contributors = ["The 64th Gamer", "Ceclife13", "Anonymous"]
 citations = ["https://archive.org/download/studio-c-floppy-discs-rips/Summer2004.img"]
-credits = ["Robert Gotcher - Director", "Matt Daniel - Production Coordinator, VJ", "Ryan Hollingsworth - Production Specialist, Hank Howdy"]
+credits = ["Robert Gotcher|Director", "Matt Daniel|Production Coordinator, VJ", "Ryan Hollingsworth|Production Specialist, Hank Howdy"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage SVHS (Pre-93)", "3-Stage SVHS (Post-93)", "R12 SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Summer2004.img|Studio C Floppy Disk"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Summer 2004 Show** was a rerelease of {{< wiki-link "Summertime 2003" >}} with new and revised intermissions.
 
@@ -46,7 +46,7 @@ categories = ["Chuck E. Cheese's"]
     5.  Coke Groove
     6.  Countdown
 7. **Segment 4**
-    1.  ['Picnic'](https://raffi.fandom.com/wiki/Going_On_a_Picnic)
+    1.  'Going on a Picnic'
     2.  'Barbeque' (parody of ['Rock With You'](https://en.wikipedia.org/wiki/Rock_with_You))
 8. **Intermission 4**
     1.  Cinemark Summer Movie Clubhouse Spot
@@ -58,7 +58,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Birthday Star 2001
 - Spanish Birthday 2001
@@ -69,7 +69,6 @@ categories = ["Chuck E. Cheese's"]
 - Chuck E. Says 2002
 - Havin' A Party 2001
 - Happy and You Know It
-- Chuck E. Shuffle (Existing Stages)
 - Go Santa Go (Existing Stages)
 
 **Birthday Break**: April 2004 show logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.

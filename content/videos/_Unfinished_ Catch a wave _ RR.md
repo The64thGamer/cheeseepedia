@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/ENHUFL4c74g"
-startdate = "2021-02-01"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-02-01"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 (Unfinished) Catch a wave ~ RR

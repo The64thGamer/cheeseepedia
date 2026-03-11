@@ -1,10 +1,10 @@
 +++
 title = "Chcuk_e_chhese_tulsa_2.0.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

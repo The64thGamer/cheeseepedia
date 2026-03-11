@@ -1,10 +1,10 @@
 +++
 title = "20230717044057!Webster_texas.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Webster, TX (1541 West Bay Area Blvd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

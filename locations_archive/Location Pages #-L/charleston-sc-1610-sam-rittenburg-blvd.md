@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-09-20"
 endDate = "2020-06-18"
-contributors = ["Rexburg090","Anonymous","Anonymous","Anonymous","Midwestretail","ThatBoiCydalan","BigCtheDataFinder","Blowseborg062","Tux Chuck","AstridMascotFan2005"]
+contributors = ["Rexburg090","Anonymous","Anonymous","Anonymous","Midwestretail","ThatBoiCydalan","BigCDataFinder ","Blowseborg062","Tux Chuck","AstridMascotFan2005"]
 citations = []
 latitudeLongitude = ["32.80614282","-80.01223243"]
 +++

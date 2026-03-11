@@ -1,8 +1,8 @@
 +++
-title = "Christmas (PTT Theme)"
+title = "Christmas (Balcony Stage Theme)"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+type = "Stage Variations"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

@@ -1,4 +1,5 @@
 +++
+
 title = "San Bernardino, CA (777 E Hospitality Lane)"
 storeNumber = ""
 startDate = "2003-06-27"
@@ -13,8 +14,8 @@ latitudeLongitude = ["34.06511037","-117.2704021"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "AD76Q5rw38oXofNgQ0vo.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

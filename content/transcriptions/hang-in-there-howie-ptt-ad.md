@@ -1,6 +1,6 @@
 +++
 title = "Hang in there Howie PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Kids:**

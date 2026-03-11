@@ -3,10 +3,10 @@ title = "Chuck E. Cheese International Holiday 2024"
 startDate = "2024-11-00"
 endDate = "2024-12-00"
 pageThumbnailFile = "winter2024int.avif"
-contributors = ["Ceclife13, CyberSnout"]
+contributors = ["Ceclife13", "Cyber Snout"]
 showtapeFormats = ["Studio C 3X DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 ****Chuck E. Cheese International Holiday 2024*** is a holiday show released exclusively for international locations.
 

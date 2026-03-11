@@ -3,7 +3,7 @@ title = "Montgomery, AL (2940 E South Blvd)"
 startDate = "1982-09-30"
 endDate = "2013-08-00"
 pageThumbnailFile = "PAiXWvhpcJFeeKOSPWMX.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["https://www.newspapers.com/article/alabama-journal/64864452/", "https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0", "https://www.newspapers.com/article/the-montgomery-advertiser-roebuck-cu-dat/156253819/", "https://www.newspapers.com/image/259953269/","https://www.newspapers.com/article/the-montgomery-advertiser/133393569/", "https://www.wsfa.com/story/21673915/chuck-e-cheeses-coming-to-eastdale-mall/", "Store features fixtures from the 80s remodel and artwork from the 90s remodel. This location was during a period between remodels designs", "https://www.youtube.com/watch?v=Ru3r28ams4M", "https://youtu.be/e3D8uGagIA4?si=spmK1mKT7j9GtyrS&t=438","https://www.flickr.com/photos/63946722@N03/5826417823/", "https://share.google/YFwcGb1KIfK1CYLHk","https://www.reddit.com/r/chuckecheese/comments/1imlyaw/the_former_cecshowbiz_in_montgomery_al_that/"]
 storeNumber = "608"
 cuDate = "1991-00-00"
@@ -12,8 +12,8 @@ animatronics = ["Rolfe Dewolfe & Earl Schmerle (Animatronic)|1982-09-30|2013-08-
 remodels = ["SPT 1980's Remodel Program|1992-00-00", "SPT 1990's Remodel Program|1998-00-00"]
 stages = ["Classic Stage|1982-09-30|1991-00-00", "Concept Unification Stage|1991-00-00|2013-08-00|One of 7 3-Stages in Alabama to receive Concept Unification. 4th-to-last 3-Stage in Alabama until store removal and stage removal in August 2013.|"]
 latitudeLongitude = ["32.32505612","-86.24878998"]
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***Montgomery, AL (2940 E South Blvd)*** originally opened up on September 30, 1982, as a Showbiz Pizza Place {{< cite 1 >}} and closed its doors in August 2013. {{< cite 2 >}} relocating to {{< wiki-link "Montgomery, AL (1116 Eastdale Mall)" >}}.
 

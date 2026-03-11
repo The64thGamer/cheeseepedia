@@ -4,10 +4,10 @@ title = "Creative Engineering Premium Video Service"
 startDate = ""
 endDate = ""
 pageThumbnailFile = "ybtYgeKJWkYZdSBuIs2Z.avif"
-contributors = ["The 64th Gamer", "GallaRBX2", "gorillaman2"]
+contributors = ["The 64th Gamer", "GallaRM", "gorillaman2"]
 citations = ["<a href=\"https://www.ebay.com/itm/153434591769?hash=item23b96a1219:g:OrMAAOSw9fpbVUSw\">https://www.ebay.com/itm/153434591769?hash=item23b96a1219:g:OrMAAOSw9fpbVUSw</a>", "<a href=\"https://youtu.be/NXTDy5_3nGA\">https://youtu.be/NXTDy5_3nGA</a>"]
-tags = ["History"]
-categories = ["Creative Engineering"]
+type = "History"
+tags = ["Creative Engineering"]
 +++
 
 The ***Creative Engineering Premium Video Service*** was a video subscription service started by *Creative Engineering Inc.* on May 15th, 2017, and still runs to this day. The service allowed subscribers to see behind the scenes content from the main Creative Engineering YouTube channel, usually in longer-form videos with minimal editing. Video length could run from a few minutes to almost an hour, with length between videos going between twice a day, to months apart. As the service grew in subscriptions, the premium content would become the main focus of the channel, leaving public videos to come out far less often than before.

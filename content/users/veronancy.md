@@ -1,8 +1,8 @@
 +++
 title = "Veronancy"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2024-07-29"
 endDate = ""
 contributors = ["Veronancy"]

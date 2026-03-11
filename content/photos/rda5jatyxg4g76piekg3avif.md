@@ -1,9 +1,10 @@
 +++
 title = "rdA5JaTYxG4G76PIEkg3.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Bandstand II"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Bandstand II"]
+
 startDate = ""
 +++
+
 Reel Label

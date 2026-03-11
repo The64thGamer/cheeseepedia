@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/j78NuhJBY88"
-startdate = "2021-02-19"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-02-19"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Loony Bird Sings "Baseball"

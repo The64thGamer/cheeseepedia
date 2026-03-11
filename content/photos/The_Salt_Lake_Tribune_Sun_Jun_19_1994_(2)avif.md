@@ -1,10 +1,10 @@
 +++
 title = "The_Salt_Lake_Tribune_Sun_Jun_19_1994_(2).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

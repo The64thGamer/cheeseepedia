@@ -1,10 +1,10 @@
 +++
 title = "MAC_valve_MANUAL_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

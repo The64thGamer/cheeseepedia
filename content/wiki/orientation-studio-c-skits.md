@@ -1,8 +1,8 @@
 +++
 title = "Orientation Studio C Skits"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "StudioCOrientation.avif"
 startDate = "2007-11-00"
 endDate = "2014-00-00"

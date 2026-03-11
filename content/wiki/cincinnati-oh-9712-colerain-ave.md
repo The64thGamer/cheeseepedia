@@ -1,4 +1,5 @@
 +++
+
 title = "Cincinnati, OH (9712 Colerain Ave)"
 storeNumber = ""
 startDate = "1982-07-00"
@@ -8,15 +9,15 @@ remodels = ["PTT Standard Layout|1982-07-00"]
 stages = ["Balcony Stage|1982-07-00|1983-10-04"]
 franchisees = []
 attractions = []
-animatronics = ["Chuck E. Cheese (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Warblettes (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Guest Star / Helen Henny (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Mr. Munch (Cyberamic)|1979-12-26|1984-00-00|1982-07-00|1983-10-04|N/A|Unknown","Pasqually (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Jasper T. Jowls (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Applause Board (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Drum Board (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Flag Wavers (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown"]
+animatronics = ["Chuck E. Cheese (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Warblettes (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Guest Star / Helen Henny (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Mr. Munch (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Pasqually (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Jasper T. Jowls (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Applause Board (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Drum Board (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown","Flag Wavers (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown"]
 sqft = ""
 latitudeLongitude = ["39.24633332","-84.59723658"]
 citations = ["https://www.newspapers.com/article/the-cincinnati-enquirer-cinci-colerain-p/39076663/","https://www.newspapers.com/article/the-cincinnati-enquirer-colerain-ptt-ope/187475244/","Source has currently been lost, was previously closing article.","https://www.newspapers.com/article/the-cincinnati-enquirer/52398085/","https://www.newspapers.com/image/101612220/","https://www.newspapers.com/article/dayton-daily-news-former-colerain-ptt-de/187476458/"]
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "K0ql2KbQk252wzzPEtCL.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++
 ***Cincinnati, OH (9712 Colerain Ave)*** located inside of the Prospect Square Shopping Center. It opened in July 1982{{< cite 1 >}}, and closed on October 4, 1983{{< cite 3 >}}. 

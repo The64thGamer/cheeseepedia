@@ -1,8 +1,8 @@
 +++
 title = "QTOP5vVLa9baQkq1zYvp.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Fatz Geronimo (Animatronic)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Fatz Geronimo (Animatronic)"]
+
 startDate = ""
 +++

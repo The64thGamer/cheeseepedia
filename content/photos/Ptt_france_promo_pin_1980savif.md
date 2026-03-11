@@ -1,10 +1,10 @@
 +++
 title = "Ptt_france_promo_pin_1980s.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Creteil Soleil, Creteil, France"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,10 +1,10 @@
 +++
 title = "Soccer_Chuck_poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

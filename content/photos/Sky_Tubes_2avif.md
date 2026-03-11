@@ -1,10 +1,10 @@
 +++
 title = "Sky_Tubes_2.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Skytubes"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

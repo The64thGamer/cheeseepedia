@@ -1,8 +1,8 @@
 +++
 title = "ShowBiz Pizza Place Equipment Listing Manual"
 draft = false
-tags = ["Documents"]
-categories = ["ShowBiz Pizza Place"]
+type = "Documents"
+tags = ["ShowBiz Pizza Place"]
 startDate = "0000-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

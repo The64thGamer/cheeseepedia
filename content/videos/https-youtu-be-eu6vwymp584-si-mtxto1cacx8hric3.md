@@ -1,0 +1,8 @@
++++
+title = "https://youtu.be/Eu6VWYmP584?si=mtxto1cAcX8HRiC3"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "CEC Jan '91"]
++++
+
+January 1991 | Retromation

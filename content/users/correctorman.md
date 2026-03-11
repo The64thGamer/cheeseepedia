@@ -1,8 +1,8 @@
 +++
 title = "CorrectorMan"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2023-08-17"
 endDate = ""
 contributors = ["CorrectorMan","CEC Kokomo"]

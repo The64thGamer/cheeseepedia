@@ -1,8 +1,8 @@
 +++
 title = "CEC Eastern Region News July 9, 1997 - Volume 1, Issue 1"
 draft = false
-tags = ["Documents"]
-categories = ["Chuck E. Cheese's"]
+type = "Documents"
+tags = ["Chuck E. Cheese's"]
 startDate = "1997-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

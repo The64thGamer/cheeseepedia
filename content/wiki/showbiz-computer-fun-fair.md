@@ -1,8 +1,8 @@
 +++
 title = "ShowBiz Computer Fun Fair"
 draft = false
-tags = ["Arcades and Attractions"]
-categories = ["ShowBiz Pizza Place"]
+type = "Arcades and Attractions"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ChuckE1352","The 64th Gamer"]

@@ -6,15 +6,15 @@ endDate = "0000-00-00"
 pageThumbnailFile = "L67VoeSgh9cjohRq3jFy.avif"
 contributors = ["The 64th Gamer"]
 citations = ["https://surveys.chuckecheese.com/s3/LRP2024", "https://www.reuters.com/markets/deals/restaurant-chain-chuck-e-cheese-explores-sale-sources-2023-12-15/", "https://www.restaurantdive.com/news/chuck-e-cheese-grown-up-menu/702778/", "https://www.prnewswire.com/news-releases/cec-entertainment-appoints-mark-kupferman-as-new-chief-insights--marketing-officer-for-chuck-e-cheese-brand-301977544.html", "https://www.reddit.com/r/chuckecheese/comments/1bnqhvg/planning_survey_from_chuck_e_cheese/", "https://www.reddit.com/r/chuckecheese/comments/1bnqhvg/planning_survey_from_chuck_e_cheese/", "https://www.youtube.com/post/UgkxVDxAu5rrg1A427AP_ZYvcXraybQwjD3I", "https://www.youtube.com/channel/UCT51H7zhGxVfuuUvY3lGX4w/community?lb=UgkxD5ybtp1H5NQrQUvgmfoPDPpCTgt120PR", "https://www.youtube.com/watch?v=eIf-gG2MZI0", "https://www.reddit.com/r/Animatronics/comments/1bo0rtp/chuck_e_cheese_survey/", "https://www.restaurantdive.com/news/chuck-e-cheese-launches-national-tiered-subscription-pass-free-games-discount-food/724026/"]
-tags = ["Events"]
-categories = ["Chuck E. Cheese's"]
+type = "Events"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***2024 Chuck E. Cheese Future Planning Survey* was a survey released on March 25, 2024 asking customers and fans of Chuck E. Cheese's their thoughts on the future plans for the company, concluding with thousands of submissions from the community.{{< cite 1 >}}
 The survey focused on four major areas: opinions on the Munch's Make Believe Band Residency at {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}}, 5 different options for a differently themed CEC location- with one including an expanded version of the Residency, opinions on a CEC Fan Club with exclusive offerings, and what the company should do to celebrate its 50th anniversary in 2027.**
 
 ## History
 
-Chuck E. Cheese would experience financial hardship in 2023, causing cuts to their new menu items- which at the time were consistently around 5 per year, a cut to programming for new shows, and stores closing. This culminated in the December 2023 report of CEC's parent company looking to sell the brand and its assets.{{< cite 2 >}} CEC would do a few marketing pushes around the same time, being of the 'New Adult Menu'{{< cite 3 >}} and a location annoncement for {{< wiki-link "Perth, Australia" >}}. News from the company however would severely die down by the end of January.
+Chuck E. Cheese would experience financial hardship in 2023, causing cuts to their new menu items- which at the time were consistently around 5 per year, a cut to programming for new shows, and stores closing. This culminated in the December 2023 report of CEC's parent company looking to sell the brand and its assets.{{< cite 2 >}} CEC would do a few marketing pushes around the same time, being of the 'New Adult Menu'{{< cite 3 >}} and a location annoncement for {{< wiki-link "Joondalup, WA, Australia (3/7 Winton Rd)" >}}. News from the company however would severely die down by the end of January.
 On March 25, 2024 at 5:02PM CDT, *Mark Kupferman*, a recent hire from November 2023 as the new Chief Insights and Marketing Officer{{< cite 4 >}}, would make a post to the *r/chuckecheese* subreddit titled 'Planning Survey from Chuck E. Cheese'{{< cite 5 >}}. The post would note:
 
 > 'As we embark on an exciting phase of long-range planning, your insights as dedicated fans are incredibly important to us. We're exploring new ideas and would love to hear your thoughts.'

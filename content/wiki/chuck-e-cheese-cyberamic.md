@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese (Cyberamic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","SonicFazbear","Anonymous","ChuckECool","Jaxon11","ChuckEPediaIsTheBest!","Anonymous","CEC Tinley","Anonymous","BoyInCharge55","Saan1ty","CorrectorMan","ShowBizMidwest","Chez","PizzaEntertainmentFanX","The 64th Gamer","CECMentor","Rooflunar","CEC1988","StarToday77"]
+contributors = ["CECBowlingGreen","SonicFazbear","Anonymous","ChuckECool","Jaxon11","ChuckEPediaIsTheBest!","Anonymous","CEC Tinley","Anonymous","BoyInCharge55","Saan1ty","CorrectorMan","ShowBizMidwest","Chez","Pizza Entertainment Fan","The 64th Gamer","CECMentor","Rooflunar","CEC1988","StarToday77"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf\">https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf</a>"]
 pageThumbnailFile = "Q7GgvHrRn5opv9sobAJC.avif"
 manufacturer = "Pizza Time Theatre, SPT Inc., Kinetix Group Inc., Animation World"
@@ -61,7 +61,7 @@ The bot features 8 movements in total.
 | {{< wiki-link "Cyberamics Balcony Stage" >}}        | 1980, {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}              | 1993, {{< wiki-link "Edmonton, Alberta, Canada (9271 34th Ave)" >}} |                                                                                            |
 | {{< wiki-link "Chuck E's House" >}}                 | 1987, {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}          | 2022, {{< wiki-link "Rockford, IL (3600 E State St)" >}}            | Only ShowBiz Stage to use the Cyberamic Chuck bots. First Stage to use a Legged Chuck Bot. |
 | {{< wiki-link "Chuck E's House Facade" >}}          | 1989, {{< wiki-link "Anchorage, AK (308 E Northern Lights Blvd)" >}} | 2003, {{< wiki-link "Tacoma, WA (4911 Tacoma Mall Blvd)" >}}        | Last Half bodied Chuck Cyber                                                               |
-| {{< wiki-link "Cyberamics Road Stage" >}}           | 1990, {{< wiki-link "Jonesboro, GA (335 Upper Riverdale Rd)" >}}     | Still Used                                                                |                                                                                            |
+| {{< wiki-link "Road Stage" >}}           | 1990, {{< wiki-link "Jonesboro, GA (335 Upper Riverdale Rd)" >}}     | Still Used                                                                |                                                                                            |
 | {{< wiki-link "2-Stage" >}}                         | 1992, {{< wiki-link "White Settlement, TX (7750 Scott St)" >}}       | Still Used                                                                |                                                                                            |
 | {{< wiki-link "1-Stage" >}}                         | 1992, {{< wiki-link "Waldorf, MD (2928 Festival Way)" >}}            | Still Used                                                                |                                                                                            |
 | {{< wiki-link "Cyberamic 3-Stage" >}}               | 2000, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}     | 2023, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}    | Installed over a 3-Stage Rolfe/Chuck Bot.                                                  |

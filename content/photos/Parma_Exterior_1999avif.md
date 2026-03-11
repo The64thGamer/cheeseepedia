@@ -1,10 +1,10 @@
 +++
 title = "Parma_Exterior_1999.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Parma, OH (7601 W Ridgewood Rd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

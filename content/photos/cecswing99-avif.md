@@ -1,7 +1,8 @@
 +++
 title = "cecswing99.avif"
-pages = ["Chuck E. Swing"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Chuck E. Swing"]
 +++
+
 Screenshot of "Chuck E. Swing" live show

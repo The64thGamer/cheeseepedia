@@ -1,4 +1,5 @@
 +++
+
 title = "Burlington, Ontario, Canada (3345 Harvester Rd)"
 storeNumber = ""
 startDate = "1981-10-15"
@@ -13,8 +14,8 @@ latitudeLongitude = ["43.35797122","-79.79221583"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "P3YuxV21JxTkw9hQcVqv.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

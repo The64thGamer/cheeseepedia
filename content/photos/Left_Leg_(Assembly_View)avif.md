@@ -1,10 +1,10 @@
 +++
 title = "Left_Leg_(Assembly_View).avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Beach Bear (Animatronic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,9 +1,10 @@
 +++
 title = "l87VEt589KsRFhjKcW1N.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Grand Prairie, TX (2760 W I-20)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Grand Prairie, TX (2760 W I-20)"]
+
 startDate = ""
 +++
+
 Ninja Run Grand Opening (June 16, 2024)

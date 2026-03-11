@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/q5KJ9Vi5-eI"
-startdate = "1981-00-00"
-pages = ["Surfer's Paradise, Queensland, Australia", "Cyberamics Portrait / Shelf Stage", "Dolli Dimples (Cabaret)"]
-tags = ["Videos"]
-categories = ["Pizza Time Theatre"]
+startDate = "1981-00-00"
+
+type = "Videos"
+tags = ["Pizza Time Theatre", "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)", "Portrait / Shelf Stage", "Dolli Dimples (Cabaret)"]
 +++
+
 News footage about Grundy's and it's Charlie Cheese's. Shows the game room, dining room, Cabaret Room, & Portrait Show.

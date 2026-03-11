@@ -1,9 +1,10 @@
 +++
 title = "NIUWRuEftNR34eSrVaUi.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Jingle Bell Jamboree"]
+type = "Photos"
+tags = ["Creative Engineering", "Jingle Bell Jamboree"]
+
 startDate = ""
 +++
+
 Show during removal in 2006

@@ -1,8 +1,8 @@
 +++
 title = "FNaF 2 Sweepstakes"
 draft = false
-tags = ["Events"]
-categories = ["Five Nights at Freddy's 2 (Movie)", "Five Nights at Freddy's"]
+type = "Events"
+tags = ["Five Nights at Freddy's 2 (Movie)", "Five Nights at Freddy's"]
 pageThumbnailFile = "meduhdpkzaidjbbqay6g.avif"
 startDate = "2024-10-01"
 endDate = "2024-10-31"

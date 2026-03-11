@@ -4,8 +4,8 @@ startDate = "2024-01-03"
 endDate = "2024-00-00"
 contributors = ["Ceclife13"]
 showtapeFormats = ["Studio C 3X DVD + Floppy", "Studio C USB + MicroSD", "Cyberamics DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "Summer2023Int.avif"
 +++
 ***Chuck E. Cheese Evergreen 2024 International*** is a generic show released for international locations only

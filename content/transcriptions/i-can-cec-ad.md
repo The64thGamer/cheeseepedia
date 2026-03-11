@@ -1,6 +1,6 @@
 +++
 title = "\"I can\" CEC ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Kid: (Singing)**

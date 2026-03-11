@@ -1,6 +1,6 @@
 +++
 title = "Chuck E. Cheese's University Pizza Make and Oven Cut"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Chuck E. Cheese: (Voiceover)**

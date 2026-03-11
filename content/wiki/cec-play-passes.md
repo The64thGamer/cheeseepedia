@@ -1,8 +1,8 @@
 +++
 title = "CEC Play Passes"
 draft = false
-tags = ["Other Systems"]
-categories = ["Chuck E. Cheese's"]
+type = "Other Systems"
+tags = ["Chuck E. Cheese's"]
 startDate = "2016-00-00"
 endDate = ""
 contributors = ["CECBowlingGreen","The 64th Gamer"]

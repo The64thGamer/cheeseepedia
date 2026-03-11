@@ -1,9 +1,10 @@
 +++
 title = "d1pOxRWJYsPieo7TdMcF.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Arlington, TX (2216 S Fielder Rd)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Arlington, TX (2216 S Fielder Rd)"]
+
 startDate = ""
 +++
+
 Arlington's 2-Stage in 1999 (PC: Unknown).

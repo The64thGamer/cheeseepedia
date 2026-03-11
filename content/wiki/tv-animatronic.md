@@ -1,13 +1,13 @@
 +++
 title = "TV (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 
 
 startDate = "1993-00-00"
 endDate = "0000-00-00"
-contributors = ["GallaRBX2"]
+contributors = ["GallaRM"]
 citations = ["<a href=\"https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf\">https://www.showbizpizza.com/info/promo/cei/cei_nraepamph.pdf</a>"]
 pageThumbnailFile = "9lpoeLMd6knKOnN7gN48.avif"
 manufacturer = "Creative Engineering"

@@ -1,9 +1,10 @@
 +++
 title = "HPEsohwjq6DjaWd5KJaU.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
-pages = ["Gigglebee's"]
+type = "Photos"
+tags = ["Unknown Manufacturers", "Gigglebee's"]
+
 startDate = ""
 +++
+
 Table numbers held up by muppets in the restauranthttps://x.com/QoSBaszler/status/532992347064508416

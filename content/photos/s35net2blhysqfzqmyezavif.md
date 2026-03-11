@@ -1,9 +1,10 @@
 +++
 title = "s35NET2BLhySqfZqmyEz.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Monroe, LA (3731 Pecanland Mall Dr)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Monroe, LA (3731 Pecanland Mall Dr)"]
+
 startDate = ""
 +++
+
 Studio C Animatronic Missing

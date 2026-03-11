@@ -5,8 +5,8 @@ citations = []
 startDate = ""
 title = "Luigigamin212"
 contributors = ["Luigigamin212"]
-tags = ["User"]
+type = "User"
 pageThumbnailFile = ""
-categories = []
+tags = ["User-Generated Content"]
 +++
 I do almost all the transcripts pretty much. Goes by the same username on discord. 

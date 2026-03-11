@@ -1,9 +1,10 @@
 +++
 title = "lSxID8OBFG_kkv_K8iuq.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Cyberamic Control System"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cyberamic Control System"]
+
 startDate = ""
 +++
+
 Card Cage Tag

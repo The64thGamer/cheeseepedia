@@ -1,9 +1,10 @@
 +++
 title = "gZpRbIbEkBByasw4yS62.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["CEC Eastern Region News July 9, 1997 - Volume 1, Issue 1"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "CEC Eastern Region News July 9, 1997 - Volume 1, Issue 1"]
+
 startDate = ""
 +++
+
 Page 5

@@ -1,5 +1,6 @@
 +++
 title = "Nickzrss"
-tags = ["User"]
+type = "User"
+tags = ["User-Generated Content"]
 +++
 Hi im Nick

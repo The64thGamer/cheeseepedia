@@ -1,8 +1,8 @@
 +++
 title = "_arZ1S4mgbZllNkzKhd8.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["PTT Employee Red & Brown Shirt (1981)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "PTT Employee Red & Brown Shirt (1981)"]
+
 startDate = ""
 +++

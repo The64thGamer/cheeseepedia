@@ -4,14 +4,14 @@ title = "Gwen and the Magical Music Makers"
 startDate = "1983-06-25"
 endDate = "1994-02-00"
 pageThumbnailFile = ""
-contributors = ["BigCtheDataFinder"]
+contributors = ["BigCDataFinder "]
 citations = ["https://youtu.be/DE1fbCI4w_c?si=VPNCUyVjs5wfgk1H", "Information Shared by Sally's Dave Jones", "Information Shared by Sally's Jeff Alford", "Information Shared by Stewart C. (@showbizpizzafan)", "https://www.chicagotribune.com/news/ct-xpm-1996-02-14-9602140339-story.html", "https://archive.org/details/gwen-and-the-magical-music-makers", "https://en.wikipedia.org/wiki/Guinevere", "https://en.wikipedia.org/wiki/Lancelot", "https://youtu.be/6PrR8KMDEYU?si=Zsyh4q0rezJVRqxm"]
 manufacturer = "Sally Industries"
 unitsProduced = "1 (Quintet Prototype), 2 (Expanded Version)"
 animatronics = []
 showtapeFormats = []
-tags = ["Animatronic Shows"]
-categories = ["Sally Corporation"]
+type = "Animatronic Shows"
+tags = ["Sally Corporation"]
 +++
 ***Gwen and the Magical Music Makers*** was a Sally animatronic show produced in 1983, one of the company’s many *Showmation* ensemble shows. Especially created for and installed the Enchanted Castle chain of family entertainment centers (at the time owned by [Round Table Pizza](https://en.wikipedia.org/wiki/Round_Table_Pizza) {{< cite 1 >}}, the final and last remaining installation was converted into *The Jammin' Jesters* by 1994.
 

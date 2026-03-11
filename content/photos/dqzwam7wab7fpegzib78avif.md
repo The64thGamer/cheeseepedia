@@ -1,9 +1,10 @@
 +++
 title = "DqZWAm7WAB7fPEgZIB78.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Unknown Manufacturers"]
-pages = ["Gigglebee's"]
+type = "Photos"
+tags = ["Unknown Manufacturers", "Gigglebee's"]
+
 startDate = ""
 +++
+
 Piccadilly Circus name change announcement

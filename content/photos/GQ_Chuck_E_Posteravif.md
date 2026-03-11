@@ -1,10 +1,10 @@
 +++
 title = "GQ_Chuck_E_Poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["GQ Chuck E. Charming (Magazine)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

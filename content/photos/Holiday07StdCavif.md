@@ -1,10 +1,10 @@
 +++
 title = "Holiday07StdC.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Holiday 2007"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

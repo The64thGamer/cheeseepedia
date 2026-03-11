@@ -1,11 +1,11 @@
 +++
 title = "Winchester Chuck E. Cheese V1 (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1977-05-00"
 endDate = "1978-00-00"
-contributors = ["The 64th Gamer","Anonymous","KPIZZA03","Anonymous","PizzaEntertainmentFanX","CECMentor"]
+contributors = ["The 64th Gamer","Anonymous","KPIZZA03","Anonymous","Pizza Entertainment Fan","CECMentor"]
 citations = []
 unitsProduced = "1"
 manufacturer = "Fantasy Forest"

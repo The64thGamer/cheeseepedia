@@ -1,0 +1,18 @@
++++
+title = "1997 Large Chuck E. Plush"
+contributors = ["Luigigamin212"]
+citations = ["https://www.showbizpizza.com/info/documents/cec/cec_merchcatalog97.pdf"]
+wholesalePrice = "$9.99"
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
+startDate = "1997-00-00"
++++
+Item Number: 3987
+
+
+
+Number in Pack: 1 dozen
+
+
+
+Min. Order: 1 dozen

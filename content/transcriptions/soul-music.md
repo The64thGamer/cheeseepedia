@@ -1,6 +1,6 @@
 +++
 title = "Soul Music"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Mr. Munch:**

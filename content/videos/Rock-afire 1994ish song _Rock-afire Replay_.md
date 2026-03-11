@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/diQZe3OEVD0"
-startdate = "2021-12-15"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-12-15"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Rock-afire 1994ish song (Rock-afire Replay)

@@ -1,10 +1,10 @@
 +++
 title = "Chuck_E._Cheese’s_in_Silver_Spring,_MD.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Silver Spring, MD (13807 Outlet Dr)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

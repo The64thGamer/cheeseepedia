@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/JDqfYM84wbU"
-startdate = "2022-01-29"
-pages = ["West Des Moines, IA (1431 22nd St)", "Concept Unification Stage", "Beach Bear (Animatronic)", "Mitzi Mozzarella (Animatronic)", "Fatz Geronimo (Animatronic)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "2022-01-29"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "West Des Moines, IA (1431 22nd St)", "Concept Unification Stage", "Beach Bear (Animatronic)", "Mitzi Mozzarella (Animatronic)", "Fatz Geronimo (Animatronic)"]
 +++
+
 2022 footage of center stage curtains being tested. 

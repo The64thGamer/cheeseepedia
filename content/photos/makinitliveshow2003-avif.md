@@ -1,7 +1,8 @@
 +++
 title = "makinitliveshow2003.avif"
-pages = ["Makin' It"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Makin' It"]
 +++
+
 Screenshot of "Makin' It" live show

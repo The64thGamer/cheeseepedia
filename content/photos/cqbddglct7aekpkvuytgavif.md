@@ -1,9 +1,10 @@
 +++
 title = "cqBdDglCT7AEKpkvuytG.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Houston, TX (6760 Antoine Dr)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Houston, TX (6760 Antoine Dr)"]
+
 startDate = ""
 +++
+
 Left side of the showroom.

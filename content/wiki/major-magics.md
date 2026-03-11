@@ -1,8 +1,8 @@
 +++
 title = "Major Magics"
 draft = false
-tags = ["Animatronic Shows"]
-categories = ["Unknown Manufacturers"]
+type = "Animatronic Shows"
+tags = ["Unknown Manufacturers"]
 startDate = "1982-00-00"
 endDate = ""
 contributors = ["Rafedreams"]

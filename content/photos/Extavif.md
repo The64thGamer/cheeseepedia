@@ -1,10 +1,10 @@
 +++
 title = "Ext.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

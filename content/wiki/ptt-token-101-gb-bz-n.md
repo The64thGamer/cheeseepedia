@@ -1,8 +1,8 @@
 +++
 title = "PTT Token 101 (gB,Bz, N)"
 draft = false
-tags = ["Tokens"]
-categories = ["Pizza Time Theatre"]
+type = "Tokens"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer","CEC Tinley","Anonymous","ShowBizMidwest","Anonymous"]

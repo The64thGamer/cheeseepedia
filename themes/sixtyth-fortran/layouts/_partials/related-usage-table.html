@@ -1,14 +1,14 @@
 {{- $currentTitle := .Title -}}
-{{- $tags := .Params.tags | default (slice) -}}
+{{- $type := .Params.type | default "" -}}
 {{- $paramName := "" -}}
 
-{{- if in $tags "Animatronics" -}}
+{{- if eq $type "Animatronics" -}}
   {{- $paramName = "animatronics" -}}
-{{- else if in $tags "Arcades and Attractions" -}}
+{{- else if eq $type "Arcades and Attractions" -}}
   {{- $paramName = "attractions" -}}
-{{- else if in $tags "Stage Variations" -}}
+{{- else if eq $type "Stage Variations" -}}
   {{- $paramName = "stages" -}}
-{{- else if in $tags "Remodels and Initiatives" -}}
+{{- else if eq $type "Remodels and Initiatives" -}}
   {{- $paramName = "remodels" -}}
 {{- end -}}
 

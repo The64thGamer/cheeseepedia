@@ -1,8 +1,8 @@
 +++
 title = "Dr. Quack Showtape"
 draft = false
-tags = ["Showtapes"]
-categories = ["Pizza Time Theatre"]
+type = "Showtapes"
+tags = ["Pizza Time Theatre"]
 startDate = "1980-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
@@ -10,7 +10,7 @@ citations = ["https://www.newspapers.com/image/925456618/?clipping_id=124040758&
 pageThumbnailFile = "qtpWt_R8Mjxn_P7FDtzb.avif"
 showtapeFormats = ["Cyberamics Reel"]
 +++
-The ***Dr. Quack Showtape* is a lost showtape released in 1980 for the {{< wiki-link "Dr Quack (Cyberamic)" >}} Cabaret act.**
+The ***Dr. Quack Showtape* is a lost showtape released in 1980 for the {{< wiki-link "Dr. Quack (Cyberamic)" >}} Cabaret act.**
 
 ## Show List
 

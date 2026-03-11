@@ -1,9 +1,10 @@
 +++
 title = "fVOtA04SqJWjtCHaAUai.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["National City, CA (1143 Highland Ave)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "National City, CA (1143 Highland Ave)"]
+
 startDate = ""
 +++
+
 National city's exterior.

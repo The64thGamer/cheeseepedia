@@ -1,9 +1,10 @@
 +++
 title = "L0ULLTK_PXJcknqsjHXY.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Ealing, England"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Ealing, England"]
+
 startDate = ""
 +++
+
 The only reference to the Ealing, England PTT.

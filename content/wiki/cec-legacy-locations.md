@@ -4,10 +4,10 @@ title = "CEC Legacy Locations"
 startDate = "2023-07-25"
 endDate = ""
 pageThumbnailFile = "tL4JFKT5JXRhd4K9iP6Q.avif"
-contributors = ["The 64th Gamer", "CECBowlingGreen", "RedaCEC", "Anonymous", "Ceclife13", "ChuckfeldStan", "Anonymous", "Anonymous", "CEC Tinley", "Anonymous", "BurgersNuggs445", "Anonymous", "Anonymous", "ConceptUnification2.0", "SuperCreamPiper2008", "CyberSnout", "PizzaEntertainmentFanX", "Livelycheese", "Caydenpedia", "CECMentor", "Stripes", "Jaxonia", "AstridMascotFan2005", "BenTrainFan2000", "CEC1988"]
+contributors = ["The 64th Gamer", "CECBowlingGreen", "RedaCEC", "Anonymous", "Ceclife13", "ChuckfeldStan", "Anonymous", "Anonymous", "CEC Tinley", "Anonymous", "BurgersNuggs445", "Anonymous", "Anonymous", "ConceptUnification2.0", "SuperCreamPiper2008", "Cyber Snout", "Pizza Entertainment Fan", "Livelycheese", "Caydenpedia", "CECMentor", "Stripes", "Jaxonia", "AstridMascotFan2005", "BenTrainFan2000", "CEC1988"]
 citations = ["(Content Missing)", "(Content Missing)", "https://dnyuz.com/2024/05/24/after-outcry-chuck-e-cheese-says-it-will-keep-more-animatronic-bands/", "https://www.linkedin.com/feed/update/urn:li:ugcPost:7288158894101540865?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7288158894101540865%2C7290111496393502721%29&replyUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7288158894101540865%2C7294008473904680960%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287290111496393502721%2Curn%3Ali%3AugcPost%3A7288158894101540865%29&dashReplyUrn=urn%3Ali%3Afsd_comment%3A%287294008473904680960%2Curn%3Ali%3AugcPost%3A7288158894101540865%29", "https://cheeseepedia.org/photos/890u298fj23f.avif", "https://cheeseepedia.org/photos/9832u49823j4t.avif","https://youtu.be/Z0jticFrDDs","https://www.linkedin.com/posts/chuck-e-cheese_creativity-innovation-entertainment-activity-7125896598227693568-wGbM?utm_source=share&utm_medium=member_desktop","https://www.reddit.com/r/chuckecheese/comments/1ld32yg/road_stage_as_of_now_is_extinct/","https://app.galabid.com/cec2025/info/0bf71638-1048-4019-b7b9-7d321d806789"]
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Legacy Locations*** (previously referred to as the ***Munch's Make-Believe Band Residency***) are a variation of the {{< wiki-link "CEC 2.0 Remodel Program" >}} that keeps a store's Animatronic Stage.
 
@@ -115,7 +115,7 @@ Shortly after the decision to keep the Nanuet Studio C stage was released, CEC a
 
 ### Mississauga / Willowdale Chosen
 
-On February 8th, 2025, David Mckillips and Mark Kupferman would confirm that the Mississauga, Ontario, Canada (4141 Dixie Rd) store would be made as the sixth of the CEC Legacy Locations . The store had hosted the Cyberamics Road Stage, rounding out the legacy lineup with another stage type. Kupferman commented on the store stating that they wanted to keep a stage in Canada, and given it was the last Road Stage in existence it was a good fit. Additionally, another Canadian store, Willowdale, Ontario, Canada (2452 Sheppard Ave), would be set to keep its special Pizza Time Theatre Chuck E. statue through its remodel, though it would not be keeping its 2-Stage.{{< cite 4 >}}{{< cite 5 >}}{{< cite 6 >}}
+On February 8th, 2025, David Mckillips and Mark Kupferman would confirm that the Mississauga, Ontario, Canada (4141 Dixie Rd) store would be made as the sixth of the CEC Legacy Locations . The store had hosted the Road Stage, rounding out the legacy lineup with another stage type. Kupferman commented on the store stating that they wanted to keep a stage in Canada, and given it was the last Road Stage in existence it was a good fit. Additionally, another Canadian store, Willowdale, Ontario, Canada (2452 Sheppard Ave), would be set to keep its special Pizza Time Theatre Chuck E. statue through its remodel, though it would not be keeping its 2-Stage.{{< cite 4 >}}{{< cite 5 >}}{{< cite 6 >}}
 
 On May 27th, 2025, it was announced that Mississauga's stage would be moved to {{< wiki-link "Willowdale, Ontario, Canada (2452 Sheppard Ave)" >}} after corporate deemed Mississauga's bots to be unsalvageable. It was taken out on June 15th, 2025. Willowdale would have its grand reopening on July 24th, 2025, which coincided with an auction of its artwork.{{< cite 9 >}}{{< cite 10 >}}
 

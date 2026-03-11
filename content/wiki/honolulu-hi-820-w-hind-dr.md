@@ -1,4 +1,5 @@
 +++
+
 title = "Honolulu, HI (820 W Hind Dr)"
 storeNumber = ""
 startDate = "1983-02-15"
@@ -13,8 +14,8 @@ latitudeLongitude = ["21.27753092","-157.7561881"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "mlqB4PZSQLFxQWm0HtBx.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

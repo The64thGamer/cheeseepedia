@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese's Party Games"
 draft = false
-tags = ["Video Games"]
-categories = [""]
+type = "Video Games"
+tags = [""]
 startDate = "2010-00-00"
 endDate = "0000-00-00"
 contributors = ["ChuckfeldStan","CEC Tinley","The 64th Gamer","ChuckECheeseFan2007"]

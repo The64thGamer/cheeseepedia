@@ -1,10 +1,10 @@
 +++
 title = "SPT_Distribution_Center.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

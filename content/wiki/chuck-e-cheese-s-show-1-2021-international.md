@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's Show 1 2021 International"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2021-01-00"
 endDate = "0000-00-00"
-contributors = ["CyberSnout","Himitsu","ShowBiz Pizza International"]
+contributors = ["Cyber Snout","Himitsu","ShowBiz Pizza International"]
 citations = []
 pageThumbnailFile = "5e1jIg6efYaaUJ5wGpVm.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]

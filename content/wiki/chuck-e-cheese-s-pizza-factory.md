@@ -1,12 +1,14 @@
 +++
+
 title = "Chuck E. Cheese's Pizza Factory"
 draft = false
-tags = ["Products"]
-categories = ["Chuck E. Cheese's"]
+type = "Products"
+tags = ["Chuck E. Cheese's"]
 startDate = "1999-00-00"
 endDate = "0000-00-00"
 contributors = ["The 64th Gamer"]
 citations = []
+pageThumbnailFile = "Fghuytrfd.avif"
 +++
 ***Chuck E. Cheese's Pizza Factory* is an *[Easy-Bake Oven](https://en.wikipedia.org/wiki/Easy-Bake_Oven)* styled pizza maker released in 1999.
 The product was made by *[Wham-O](https://en.wikipedia.org/wiki/Wham-O)* and stayed in production for an undetermined amount of time. A similar product, Chuck E. Cheese's Pizza Maker Play Set, would show up later using *Avenger Chuck*'s design, being made by *EZ-2 Make.***

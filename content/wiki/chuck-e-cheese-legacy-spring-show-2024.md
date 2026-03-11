@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Legacy Spring Show 2024"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2024-04-01"
 endDate = "2024-04-28"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = []
 pageThumbnailFile = "bJtx3flLq1RF0O0A1b25.avif"
 showtapeFormats = ["Legacy CEC Stage Navori"]

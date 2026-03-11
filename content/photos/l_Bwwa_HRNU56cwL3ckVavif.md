@@ -1,10 +1,10 @@
 +++
 title = "l_Bwwa_HRNU56cwL3ckV.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

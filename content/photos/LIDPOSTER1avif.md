@@ -1,10 +1,10 @@
 +++
 title = "LIDPOSTER1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Studio C"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

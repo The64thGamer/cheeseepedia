@@ -1,9 +1,10 @@
 +++
 title = "MQQKTCH4MxWweBl1GREO.avif"
 draft = false
-tags = ["Photos"]
-categories = [""]
-pages = ["Jungle Jim's Moonshine & Rocks"]
+type = "Photos"
+tags = ["", "Jungle Jim's Moonshine & Rocks"]
+
 startDate = ""
 +++
+
 Moonshine Jugs, 2018

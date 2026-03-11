@@ -1,10 +1,10 @@
 +++
 title = "Z92stg6.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

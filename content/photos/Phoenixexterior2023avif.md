@@ -1,10 +1,10 @@
 +++
 title = "Phoenixexterior2023.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

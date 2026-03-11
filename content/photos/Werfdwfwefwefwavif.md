@@ -1,10 +1,10 @@
 +++
 title = "Werfdwfwefwefw.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese April 2004 Show"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

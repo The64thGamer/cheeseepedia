@@ -1,0 +1,10 @@
++++
+title = "gpxo6x6heq.avif"
+startDate = "1984-00-00"
+citations = []
+
+type = "Photos"
+tags = ["Pizza Time Theatre", "Singapore, Marine Parade (Parkway Parade, 80 Marine Parade Road, #01-35)"]
++++
+
+Newspaper Clipping

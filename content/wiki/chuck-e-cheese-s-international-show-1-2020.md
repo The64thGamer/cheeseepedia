@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese's International Show 1 2020"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2020-01-00"
 endDate = "0000-00-00"
-contributors = ["CyberSnout","Bowling for Cheese"]
+contributors = ["Cyber Snout","Bowling for Cheese"]
 citations = []
 pageThumbnailFile = "wHsGLduZBT0qxCZqaknY.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","Cyberamics DVD"]

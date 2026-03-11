@@ -1,8 +1,8 @@
 +++
 title = "Sponch man"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2022-08-25"
 endDate = ""
 contributors = ["Sponch man"]

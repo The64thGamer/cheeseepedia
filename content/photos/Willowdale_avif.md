@@ -1,10 +1,10 @@
 +++
 title = "Willowdale_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Willowdale, Ontario, Canada (2452 Sheppard Ave)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

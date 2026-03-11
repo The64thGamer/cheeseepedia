@@ -1,8 +1,8 @@
 +++
 title = "cHHrYpEceP7VlyC4qKwS.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Cyberamic Curtain Control"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Cyberamic Curtain Control"]
+
 startDate = ""
 +++

@@ -1,10 +1,10 @@
 +++
 title = "Durham_2015.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Durham, NC (3724 Mayfair St)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

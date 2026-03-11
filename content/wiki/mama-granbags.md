@@ -1,8 +1,8 @@
 +++
 title = "Mama Granbags"
 draft = false
-tags = ["Characters"]
-categories = ["Creative Engineering"]
+type = "Characters"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

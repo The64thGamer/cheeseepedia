@@ -1,8 +1,8 @@
 +++
 title = "kinhVViJsPJS0lMai4GN.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Articulated Munch Walkaround"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Articulated Munch Walkaround"]
+
 startDate = ""
 +++

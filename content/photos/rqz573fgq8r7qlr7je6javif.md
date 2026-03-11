@@ -1,9 +1,10 @@
 +++
 title = "RqZ573FGQ8r7Qlr7je6j.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Shark Cupcake (CEC Menu Item)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Shark Cupcake (CEC Menu Item)"]
+
 startDate = ""
 +++
+
 Summer of Fun Food Promo

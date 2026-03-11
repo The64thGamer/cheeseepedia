@@ -1,4 +1,5 @@
 +++
+
 title = "Hempstead, NY (162 Fulton Ave)"
 storeNumber = ""
 startDate = "2002-12-17"
@@ -13,8 +14,8 @@ latitudeLongitude = ["40.70571407","-73.63057818"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "rC4L1Oe53Y6GZVS1HLqV.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

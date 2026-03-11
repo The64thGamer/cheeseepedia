@@ -1,4 +1,5 @@
 +++
+
 title = "Tallahassee, FL (1155 Apalachee Pkwy)"
 storeNumber = ""
 startDate = "1982-08-09"
@@ -13,8 +14,8 @@ latitudeLongitude = ["30.43502777","-84.26571368"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "g4ujBpXDRtf6OPsI4Ids.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

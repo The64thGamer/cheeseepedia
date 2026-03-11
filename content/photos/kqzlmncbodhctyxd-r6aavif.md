@@ -1,9 +1,10 @@
 +++
 title = "kQzLmNCBodhCtyxD_r6A.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Concept Unification Stage"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Concept Unification Stage"]
+
 startDate = ""
 +++
+
 Center Stage (Helen and Munch Jr., [[Birmingham, AL (500 Old Town Rd)

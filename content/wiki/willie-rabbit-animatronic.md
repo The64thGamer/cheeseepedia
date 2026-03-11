@@ -1,13 +1,13 @@
 +++
 title = "Willie Rabbit (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Creative Engineering"]
+type = "Animatronics"
+tags = ["Creative Engineering"]
 
 
 startDate = "1976-00-00"
 endDate = "0000-00-00"
-contributors = ["PTT1977fan","Tobsters ;-;","Anonymous","The 64th Gamer","Newbie editor","PizzaEntertainmentFanX"]
+contributors = ["PTT1977fan","Tobsters ;-;","Anonymous","The 64th Gamer","Newbie editor","Pizza Entertainment Fan"]
 citations = []
 pageThumbnailFile = "z7bVOpEOyzuMfekVfDpx.avif"
 unitsProduced = "1"

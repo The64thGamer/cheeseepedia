@@ -1,8 +1,8 @@
 +++
 title = "Game Room Authorized Pin"
 draft = false
-tags = ["Employee Wear"]
-categories = ["Chuck E. Cheese's"]
+type = "Employee Wear"
+tags = ["Chuck E. Cheese's"]
 startDate = "2017-00-00"
 endDate = "0000-00-00"
 contributors = ["Bowling for Cheese","GuestIsJustBest","Stripes"]

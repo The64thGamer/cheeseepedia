@@ -1,10 +1,10 @@
 +++
 title = "Canarsie_Courier_Thu_Sep_14_1995_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Backyard Monsters"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

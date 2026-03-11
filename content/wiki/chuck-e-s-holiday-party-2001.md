@@ -6,13 +6,13 @@ endDate = "2001-12-00"
 pageThumbnailFile = "J6XWHPOYJ_ciVKSfwCIt.avif"
 contributors = ["The 64th Gamer", "Anonymous", "BurgersNuggs445", "Ceclife13"]
 citations = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2001ShowUpdate.img"]
-credits = ["Jeremy Blaido - Director", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator"]
+credits = ["Jeremy Blaido|Director", "Robert Gotcher|Production Manager", "Matt Daniel|Production Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Post-93)", "3-Stage SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2001ShowUpdate.img|Studio C Floppy Disk"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
-***Chuck E's Holiday Party 2001* was a rerelease of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2001 holiday season. This was the final rerelease of this show to reuse the original 1999 DVDs.**
+***Chuck E's Holiday Party 2001*** was a rerelease of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2001 holiday season. This was the final rerelease of this show to reuse the original 1999 DVDs.
 ## Existing Stages Show List:
 1. **Segment 1**
     1.  'Holly Jolly Christmas'
@@ -68,8 +68,12 @@ categories = ["Chuck E. Cheese's"]
     2.  Chuck E. Cheese's Classic Theatre - 'A Christmas Carol'
     4.  Super Jasper - 'Canine Snowball'
     5.  Up On The Housetop
+  
+
 ## Live Shows:
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
+
 - Rockin' Christmas Eve
 - Chuck E. Says
 - Chuck E. Swing
@@ -87,10 +91,15 @@ categories = ["Chuck E. Cheese's"]
 - Patriotic Live 2000 (Existing Stages)
 - Happy and You Know It (Existing Stages)
 - Give My Regards to Broadway (Existing Stages)
+
 **Birthday Break**: The Birthday Break uses the Holiday Party show logo. It could be set to a 1, 2 or 3 minute countdown which would then lead into the Birthday show.
+
+
 ## Production
+
 ### File Dates
 - Studio C Floppy: 11/21/01 7:42am
+
 #### Studio C Floppy:
 When inserting the upgrade floppy, a message would appear on the screen saying
 " HOLIDAY 2001 SHOW UPDATE FINISHED

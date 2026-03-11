@@ -63,7 +63,7 @@ Identified 1998 Machines
 - {{< wiki-link "Chuck E Cheese's Pow-Air Play" >}}
 - Chuck E. Cheese's All Star Triple Jam
 - [Robo-Bop](https://www.arcade-museum.com/Arcade/robo-bop)
-- {{< wiki-link "Chuck E Cheese Roll" >}}
+- {{< wiki-link "Chuck E. Cheese Roll" >}}
 - [Cyclone](https://www.arcade-museum.com/game_detail.php?game_id=19716)
 - [Buzzy Buzzy Bee](https://www.arcade-museum.com/game_detail.php?game_id=19671)
 

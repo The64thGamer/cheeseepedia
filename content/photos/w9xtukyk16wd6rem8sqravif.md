@@ -1,9 +1,10 @@
 +++
 title = "W9XtUkyK16wD6REm8SQR.avif"
 draft = false
-tags = ["Photos"]
-categories = []
-pages = ["Pizza Time Theatre 'Bite Me!' Shirt"]
+type = "Photos"
+tags = ["Pizza Time Theatre 'Bite Me!' Shirt"]
+
 startDate = ""
 +++
+
 Shirt Back

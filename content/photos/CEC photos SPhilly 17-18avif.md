@@ -1,9 +1,9 @@
 +++
 title = "CEC photos SPhilly 17-18.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Circus Pizza"]
-pages = [""]
+type = "Photos"
+tags = ["Circus Pizza", ""]
+
 
 citations = ["https://archive.org/details/img-6071-2"]
 +++

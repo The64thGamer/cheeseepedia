@@ -1,10 +1,10 @@
 +++
 title = "Cu-concept1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Concept Unification Prototype Stage"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,8 +1,8 @@
 +++
-title = "Broadway (PTT Theme)"
+title = "Broadway (Balcony Stage Theme)"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Pizza Time Theatre"]
+type = "Stage Variations"
+tags = ["Pizza Time Theatre"]
 startDate = "1983-08-00"
 endDate = "1984-03-00"
 contributors = ["JamesLemony","CEC Tinley"]

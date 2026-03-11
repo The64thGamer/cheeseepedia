@@ -4,14 +4,16 @@ title = "Best Of CEC TV 2003"
 startDate = "2003-01-00"
 endDate = "2008-08-00"
 pageThumbnailFile = "JTW1kI4Dzyl5h_Pgsu0B.avif"
-contributors = ["The 64th Gamer", "Ceclife13", "John95", "CyberSnout", "MasterMike"]
+contributors = ["The 64th Gamer", "Ceclife13", "John95", "Cyber Snout", "MasterMike"]
 citations = []
+credits = ["Jeremy Blaido|Director", "Robert Gotcher|Production Manager", "Matt Daniel|Production Coordinator"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
+mediaDuration = "1:00:09"
 downloadLinks = ["https://archive.org/download/3stage_post_93_svhs_signals/January%202003%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
-**Best of CEC TV 2003** released January 2003 and ran until April 2003. This was also used as a generic show which was valid from January 2003 - September 2008.
+**Best of CEC TV 2003** was released in January 2003 and ran through March 2003. This was also used as a generic show which was valid from January 2003 - September 2008.
 This show is made up of songs and intermissions reused from various 2000 - 2002 showtapes.
 
 ## Show List:
@@ -60,21 +62,20 @@ This show is made up of songs and intermissions reused from various 2000 - 2002 
     1.  'That's A Deal'
 16. **Intermission 8**
     1.  Wildlife
-    2.  Skydiving (Studio C only)
+    2.  Skydiving (Studio C)
 
-## Lives:
+## Live Shows:
 
-**During this time Lives would be on seperate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
-- {{< wiki-link "Birthday Star 01" >}}
-- Spanish Birthday 01
+- {{< wiki-link "Birthday Star 2001" >}}
+- Spanish Birthday 2001
 - New Birthday
-- Chuck E. Shuffle (New Footage) | Chuck E. Shuffle
 - Chuck E. Swing
-- Chuck E. March 01
-- {{< wiki-link "Bingo" >}}
-- {{< wiki-link "Chuck E Says 02" >}}
-- Havin' A Party 01
+- Chuck E. March 2001
+- BINGO
+- {{< wiki-link "Chuck E. Says 2002" >}}
+- Havin' A Party 2001
 - If You're Happy and You Know It
 - Go Santa Go
 

@@ -1,8 +1,8 @@
 +++
 title = "Concordio"
 draft = false
-tags = ["User"]
-categories = []
+type = "User"
+tags = ["User-Generated Content"]
 startDate = "2023-08-23"
 endDate = ""
 contributors = ["Concordio"]

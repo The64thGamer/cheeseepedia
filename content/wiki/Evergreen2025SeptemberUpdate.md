@@ -3,11 +3,11 @@ title = "Chuck E. Cheese Evergreen 2025 September Update"
 startDate = "2025-09-08"
 endDate = "2025-09-28"
 pageThumbnailFile = "evergreen2025septemberupdate.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["Dameaun / CEC Navori Player"]
 showtapeFormats = ["Media Navori", "CEC Stage Navori"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Chuck E. Cheese Evergreen 2025 September Update*** released on September 8, 2025 and played until September 28, 2025.
 

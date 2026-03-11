@@ -4,10 +4,10 @@ title = "Them Bones (Chucktober)"
 startDate = "2012-09-01"
 endDate = "2015-11-01"
 pageThumbnailFile = "cecthemboneslive2012.avif"
-contributors = ["Cybersnout", "Ceclife13"]
+contributors = ["Cyber Snout", "Ceclife13"]
 credits = ["Jaret Reddick - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "Jeremy Blaido - Voice of Jasper T. Jowls", "Matt Daniel - Production Coordinator, Voice of Hard Hat Hank", "Michael Hill - Studio Coordinator", "Donovan Marcelle - Existing Stage Programmer"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 ***'Them Bones'*** was a road show which was first released in September 2012 on the {{< wiki-link "Road Show 2012" >}} CD, though it was only intended to be played during October. It would make its live show debut exclusively on Weigl stages in October 2012. It would return as both a road show and a live show for all stages in October 2014. It would then return a final time in October 2015. This live show was meant to promote Chucktober.
 

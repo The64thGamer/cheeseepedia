@@ -8,8 +8,8 @@ contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://showbizpizza.com/info/documents/cec/cec_dept18-2007-01.pdf"]
 mediaDuration = "42:52"
 showtapeFormats = ["3-Stage DVD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **3-Stage Diagnostics** was a rerelease of {{< wiki-link "3-Stage 2002 Diagnostics" >}} on DVD. The diagnostics were initially included with all 3-Stage DVDs, but became their own disc in January 2007. This disc would be rereleased many times with multiple different covers (including a rockstar release in 2014) until 2023 when all 3-Stage stores converted from DVD to Navori, which had diagnostics uploaded digitally.
 

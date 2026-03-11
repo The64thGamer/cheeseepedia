@@ -1,6 +1,6 @@
 +++
 title = "May 1991 Segment 3"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[Song: Oh I Think My Pride Is Showing Again]**

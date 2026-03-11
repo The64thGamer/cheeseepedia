@@ -13,7 +13,7 @@ pageThumbnailFile = "7Cs_D7pB1FyP66M81dni.avif"
 latitudeLongitude = ["26.70633907","-80.09052248"]
 +++
 
-***2471 Okeechobee Blvd, Store #777*** was a Chuck E. Cheese's that opened on December 26, 2013 with a {{< wiki-link "Circles of Light" >}}, which is still open to this day. This location received 2.0 in March 2022, and kept the COL, but removed the bot. This is not to be confused with the West Palm Beach, FL (2101 Palm Beach Lakes) *Pizza Time Theatre* which opened in December 1982 and closed sometime in 1984 with a {{< wiki-link "Cyberamics Balcony Stage" >}} and {{< wiki-link "West Palm Beach, FL (4646 Okeechobee Blvd)" >}} *Chuck E. Cheese's Pizza* which opened on December 18th, 1990 with a {{< wiki-link "Cyberamics Road Stage" >}} and closed in December 2004 with a finalized Road Stage.
+***2471 Okeechobee Blvd, Store #777*** was a Chuck E. Cheese's that opened on December 26, 2013 with a {{< wiki-link "Circles of Light" >}}, which is still open to this day. This location received 2.0 in March 2022, and kept the COL, but removed the bot. This is not to be confused with the West Palm Beach, FL (2101 Palm Beach Lakes) *Pizza Time Theatre* which opened in December 1982 and closed sometime in 1984 with a {{< wiki-link "Cyberamics Balcony Stage" >}} and {{< wiki-link "West Palm Beach, FL (4646 Okeechobee Blvd)" >}} *Chuck E. Cheese's Pizza* which opened on December 18th, 1990 with a {{< wiki-link "Road Stage" >}} and closed in December 2004 with a finalized Road Stage.
 
 ## Stages
 

@@ -1,7 +1,8 @@
 +++
 title = "cupidshuffleliveshow2012.avif"
-pages = ["Cupid Shuffle"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Cupid Shuffle"]
 +++
+
 Screenshot of "Cupid Shuffle" live show

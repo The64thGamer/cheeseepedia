@@ -1,13 +1,13 @@
 +++
 title = "Chuck E. Cheese Show 5 2025 International Spanish"
 startDate = "2025-12-00"
-endDate = ""
+endDate = "2026-01-00"
 pageThumbnailFile = "winter2024int.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["Dameaun / Show 5 2025 INT DVD"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "Studio C USB + MicroSD"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Chuck E. Cheese Show 5 2025 International*** released in December 2025.
 

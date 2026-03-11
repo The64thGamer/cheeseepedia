@@ -1,10 +1,10 @@
 +++
 title = "Basketball_Magazine_poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Basketball (Magazine)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

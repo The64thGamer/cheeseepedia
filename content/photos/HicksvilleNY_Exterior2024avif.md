@@ -1,10 +1,10 @@
 +++
 title = "HicksvilleNY_Exterior2024.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,6 +1,6 @@
 +++
 title = "1980s Video Hits"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **[Bandstand Jingle]**

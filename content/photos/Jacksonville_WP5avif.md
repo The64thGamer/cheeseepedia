@@ -1,10 +1,10 @@
 +++
 title = "Jacksonville_WP5.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Wolf Pack 5"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

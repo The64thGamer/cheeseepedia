@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cheese Summer Show 2023"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-06-05"
 endDate = "2023-09-04"
 contributors = ["Bowling for Cheese","John95","Anonymous","Anonymous","Anonymous","Ceclife13","The 64th Gamer"]

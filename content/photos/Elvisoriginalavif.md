@@ -1,10 +1,10 @@
 +++
 title = "Elvisoriginal.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Elvis (The King Retrofit)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

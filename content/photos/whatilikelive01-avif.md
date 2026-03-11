@@ -1,7 +1,8 @@
 +++
 title = "whatilikelive01.avif"
-pages = ["What I Like About You 2001"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "What I Like About You 2001"]
 +++
+
 Screenshot of "What I Like About You 2001" live show

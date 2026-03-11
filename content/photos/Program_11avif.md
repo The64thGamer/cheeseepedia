@@ -1,10 +1,10 @@
 +++
 title = "Program_11.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["ShowBiz Pizza Program 11"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

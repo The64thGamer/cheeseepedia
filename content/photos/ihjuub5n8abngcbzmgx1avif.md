@@ -1,9 +1,10 @@
 +++
 title = "ihjuuB5n8abnGcbZmGx1.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Dallas, TX (13125 Montfort Dr)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Dallas, TX (13125 Montfort Dr)"]
+
 startDate = ""
 +++
+
 The exterior as a ShowBiz Pizza.

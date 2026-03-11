@@ -6,9 +6,9 @@ startDate = "1980-00-00"
 manufacturer = "Creative Engineering"
 title = "Mitzi Mozzarella (Animatronic)"
 contributors = ["Anonymous", "Cheeseclassic", "Newbie editor", "CECMentor", "Stripes"]
-tags = ["Animatronics"]
+type = "Animatronics"
 pageThumbnailFile = "sq4E5TxHIiRyB85HGu2k.avif"
-categories = ["ShowBiz Pizza Place"]
+tags = ["ShowBiz Pizza Place"]
 +++
 
 The Mitzi Mozzarella Animatronic (Also the 3-Stage Helen Henny Animatronic) was one of the main {{< wiki-link "Classic Stage" >}} animatronics produced by Creative Engineering Inc. The animatronic would first be developed in April of 1980, before debuting at the {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}} on August 14th of that year. Her character was based off Mini Mozzarella from the {{< wiki-link "Wolf Pack 5" >}} animatronic show Creative Engineering had developed.

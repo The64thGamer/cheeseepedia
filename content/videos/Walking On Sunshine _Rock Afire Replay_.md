@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/HkSVL6Vvhtc"
-startdate = "2021-06-05"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-06-05"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Walking On Sunshine (Rock Afire Replay)

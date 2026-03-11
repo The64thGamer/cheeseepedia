@@ -1,8 +1,8 @@
 +++
 title = "I9uLYxjdLFCKnavyCVhK.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["SPP Grammy - Summertime"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "SPP Grammy - Summertime"]
+
 startDate = ""
 +++

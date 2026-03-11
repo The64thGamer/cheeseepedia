@@ -5,8 +5,8 @@ startDate = ""
 endDate = ""
 contributors = ["CECMentor", "Livelycheese"]
 citations = ["<a href=\"https://youtu.be/HW5lq2LlXCU?si=rD9JeqZhqiBW6Bwu&t=192\">https://youtu.be/HW5lq2LlXCU?si=rD9JeqZhqiBW6Bwu&t=192</a>"]
-tags = ["Characters"]
-categories = ["ShowBiz Pizza Place"]
+type = "Characters"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 ***Fatz Geronimo*** is one of the main characters of the ShowBiz Pizza Place franchise, having made his debut as an animatronic at {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}}.

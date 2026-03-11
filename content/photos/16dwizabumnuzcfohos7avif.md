@@ -1,8 +1,8 @@
 +++
 title = "16DWIZabUmnuzCFOHoS7.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["North Little Rock, AR (4120 Landers Rd)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "North Little Rock, AR (4120 Landers Rd)"]
+
 startDate = ""
 +++

@@ -1,4 +1,5 @@
 +++
+
 title = "Mary Esther, FL (321 Mary Esther Blvd)"
 storeNumber = ""
 startDate = "1983-00-00"
@@ -13,8 +14,8 @@ latitudeLongitude = ["30.41512417","-86.65458313"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["ShowBiz Pizza Place"]
+pageThumbnailFile = "qwQuTR3Fny0l0aorMD3c.avif"
+type = "Locations"
+tags = ["ShowBiz Pizza Place"]
 draft = false
 +++

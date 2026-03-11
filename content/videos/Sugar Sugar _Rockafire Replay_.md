@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/ai0eZIBDQxI"
-startdate = "2021-01-05"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-01-05"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Sugar Sugar [Rockafire Replay]

@@ -1,6 +1,6 @@
 +++
 title = "March 1991 Segment 1"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Gorillaman2"]
 +++
 

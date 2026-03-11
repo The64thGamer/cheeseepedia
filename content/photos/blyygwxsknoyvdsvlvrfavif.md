@@ -1,9 +1,10 @@
 +++
 title = "bLyYgWxsknoyVDsVlVrf.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Skytubes"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Skytubes"]
+
 startDate = ""
 +++
+
 A typical Phase 3 style SkyTubes structure

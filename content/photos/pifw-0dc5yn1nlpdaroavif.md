@@ -1,9 +1,10 @@
 +++
 title = "Pifw__0dC5yN1NlPDarO.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Winchester Madam Oink (Animatronic)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Winchester Madam Oink (Animatronic)"]
+
 startDate = ""
 +++
+
 At Fantasy Forest Manufacturing

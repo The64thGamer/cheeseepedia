@@ -1,10 +1,10 @@
 +++
 title = "Exterior_of_the_FM_location.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

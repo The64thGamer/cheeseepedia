@@ -1,9 +1,10 @@
 +++
 title = "DQ_CeNBaZdwlYWHhq493.avif"
 draft = false
-tags = ["Photos"]
-categories = []
-pages = ["Chuck E. Cheese CST 15' Alternate Plush"]
+type = "Photos"
+tags = ["Chuck E. Cheese CST 15' Alternate Plush"]
+
 startDate = ""
 +++
+
 Plush Tag

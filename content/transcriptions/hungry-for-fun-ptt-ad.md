@@ -1,6 +1,6 @@
 +++
 title = "Hungry for Fun PTT ad"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Male Singer:**

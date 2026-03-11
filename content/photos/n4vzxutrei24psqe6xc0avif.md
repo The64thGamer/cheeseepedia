@@ -1,9 +1,10 @@
 +++
 title = "n4VZXUTrEi24pSQe6xc0.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Classic Stage"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Classic Stage"]
+
 startDate = ""
 +++
+
 The former Classic Stage at [[Lynchburg, VA (312 Border St)]]. (Now removed, now closed)

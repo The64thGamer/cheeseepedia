@@ -1,9 +1,10 @@
 +++
 title = "s5IFlsiNg8lgSqJYxFf9.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Small Pasqually Plush (1996)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Small Pasqually Plush (1996)"]
+
 startDate = ""
 +++
+
 Plush Back

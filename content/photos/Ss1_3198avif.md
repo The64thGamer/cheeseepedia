@@ -1,10 +1,10 @@
 +++
 title = "Ss1_3198.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["3-1-98 (Show Selector 1)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

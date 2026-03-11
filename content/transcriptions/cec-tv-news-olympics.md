@@ -1,6 +1,6 @@
 +++
 title = "CEC TV News Olympics"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Narrator:**

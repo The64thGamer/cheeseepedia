@@ -1,4 +1,5 @@
 +++
+
 title = "Lima, OH (2809 Elida Rd)"
 storeNumber = ""
 startDate = "2009-05-11"
@@ -13,8 +14,8 @@ latitudeLongitude = ["40.76466947","-84.15825788"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "IJWfLqWcwuZ8OBjL7USu.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

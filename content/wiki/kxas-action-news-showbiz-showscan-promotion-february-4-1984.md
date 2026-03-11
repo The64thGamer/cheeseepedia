@@ -1,8 +1,8 @@
 +++
 title = "KXAS Action News ShowBiz ShowScan Promotion (February 4, 1984)"
 draft = false
-tags = ["News Footage"]
-categories = ["ShowBiz Pizza Place"]
+type = "News Footage"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1984-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

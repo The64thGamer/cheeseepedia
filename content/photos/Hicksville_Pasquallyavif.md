@@ -1,10 +1,10 @@
 +++
 title = "Hicksville_Pasqually.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Hicksville, NY (Delco Plaza 11-15 Hanover Place)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

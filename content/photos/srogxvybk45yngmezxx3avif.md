@@ -1,8 +1,8 @@
 +++
 title = "SROGxvYbK45yNGMEZXx3.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["CEC American Pride Neighbors"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "CEC American Pride / Neighbors"]
+
 startDate = ""
 +++

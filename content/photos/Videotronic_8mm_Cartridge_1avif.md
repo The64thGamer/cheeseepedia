@@ -1,10 +1,10 @@
 +++
 title = "Videotronic_8mm_Cartridge_1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Pizza Time Theatre Cashiering"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

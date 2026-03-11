@@ -1,9 +1,10 @@
 +++
 title = "Mechadiceigshouldermeasurements.avif"
-startdate = "2025-03-11"
+startDate = "2025-03-11"
 citations = ["EnderSkippy"]
-pages = ["Cyberamic Shoulder Bar"]
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
+
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cyberamic Shoulder Bar"]
 +++
+
 (Outdated,Innacurate) Cyberamic Shoulder Bar Measurements

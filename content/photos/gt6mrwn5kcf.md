@@ -1,0 +1,10 @@
++++
+title = "gt6mrwn5kcf.avif"
+startDate = "1981-00-00"
+citations = []
+
+type = "Photos"
+tags = ["Pizza Time Theatre", "San Ramon, CA (1901 San Ramon Valley Blvd)"]
++++
+
+Exterior of San Ramon, CA, soon after opening

@@ -1,19 +1,18 @@
 {{- define "main" -}}
   {{- .Page.Store.Set "citationsCount" dict -}}
   {{- $layout := "Article" -}}
-  {{- with .Params.tags -}}
-    {{- if in . "User" -}}
+  {{- with .Params.type -}}
+    {{- if eq . "User" -}}
       {{- $layout = "user" -}}
-    {{- else if in . "Locations" -}}
-      {{- $layout = "baseStoreArticle" -}}
-    {{- else if in . "Cancelled Locations" -}}
-      {{- $layout = "baseStoreArticle" -}}
-    {{- else if in . "Transcriptions" -}}
+    {{- else if eq . "Transcriptions" -}}
       {{- $layout = "baseTranscriptionArticle" -}}
-    {{- else if in . "Reviews" -}}
+    {{- else if eq . "Reviews" -}}
       {{- $layout = "baseReviewArticle" -}}
     {{- end -}}
   {{- end -}}
+    {{- if eq .Section "theoryweb" -}}
+      {{- $layout = "TheoryWebARticle" -}}
+    {{- end -}}
   {{- partial $layout . -}}
 {{- end -}}
 

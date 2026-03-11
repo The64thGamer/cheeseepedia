@@ -1,16 +1,17 @@
 +++
+
 title = "Pasqually"
 draft = false
-tags = ["Characters"]
-categories = ["Pizza Time Theatre"]
+type = "Characters"
+tags = ["Pizza Time Theatre"]
 
 
 startDate = ""
 endDate = ""
 contributors = ["Animatronicbrainrot","CECMentor"]
 citations = []
+pageThumbnailFile = "i0D63758AbB5sBlBy_7n.avif"
 +++
-
 ***Pasqually the Chef***, full name ***Pasqually Pizza Pieplate***, is one of the main characters of the Chuck E. Cheese's franchise, having made his debut at the {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} location in 1977.
 
 ## History

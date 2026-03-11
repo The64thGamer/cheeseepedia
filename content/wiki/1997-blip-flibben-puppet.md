@@ -1,8 +1,8 @@
 +++
 title = "1997 Blip Flibben Puppet"
 draft = false
-tags = ["Puppets"]
-categories = [""]
+type = "Puppets"
+tags = [""]
 pageThumbnailFile = ""
 startDate = ""
 endDate = "0000-00-00"

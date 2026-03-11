@@ -1,10 +1,10 @@
 +++
 title = "7_Shows_Special_9_21_81.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["7 Shows Special"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,8 +1,9 @@
 +++
 title = "BeaglesPromo.avif"
 citations = ["https://www.facebook.com/share/1DG2pnPADX/"]
-pages = ["The Beagles / Beach Bowzers (Lounge)"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "The Beagles / Beach Bowzers (Lounge)"]
 +++
+
 The Beagles promotional photo.

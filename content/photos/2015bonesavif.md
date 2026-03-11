@@ -1,10 +1,10 @@
 +++
 title = "2015bones.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Them Bones Live Choreography 2015"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

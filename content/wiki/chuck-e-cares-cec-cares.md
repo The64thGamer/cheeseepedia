@@ -1,8 +1,8 @@
 +++
 title = "Chuck E. Cares (CEC Cares)"
 draft = false
-tags = ["History"]
-categories = ["Chuck E. Cheese's"]
+type = "History"
+tags = ["Chuck E. Cheese's"]
 startDate = "2000-03-30"
 endDate = ""
 contributors = ["The 64th Gamer"]

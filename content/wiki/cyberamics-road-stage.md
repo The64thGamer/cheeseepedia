@@ -4,12 +4,12 @@ title = "Road Stage"
 startDate = "1990-11-20"
 endDate = "2025-06-15"
 pageThumbnailFile = "roadstage91.avif"
-contributors = ["Bowling for Cheese", "Anonymous", "BigCtheDataFinder", "Anonymous", "Anonymous", "Sponch man", "Anonymous", "TrimSafe6859", "CECBowlingGreen", "ShowBizMidwest", "RPCEC Backup", "The 64th Gamer", "ThatBoiCydalan", "Rexburg090", "Maddox121", "Anonymous", "Anonymous", "Anonymous", "CorrectorMan", "CEC Kokomo", "Letterstolooneybird", "SuperCreamPiper2008", "Cheeseclassic", "Caydenpedia", "CoolerDude", "Ceclife13", "AstridMascotFan2005", "Cy's Junk at School", "CyberSnout"]
+contributors = ["Bowling for Cheese", "Anonymous", "BigCDataFinder ", "Anonymous", "Anonymous", "Sponch man", "Anonymous", "TrimSafe6859", "CECBowlingGreen", "ShowBizMidwest", "RPCEC Backup", "The 64th Gamer", "ThatBoiCydalan", "Rexburg090", "Maddox121", "Anonymous", "Anonymous", "Anonymous", "CorrectorMan", "CEC Kokomo", "Letterstolooneybird", "SuperCreamPiper2008", "Cheeseclassic", "Caydenpedia", "CoolerDude", "Ceclife13", "AstridMascotFan2005", "Cy's Junk at School", "Cyber Snout"]
 citations = ["https://julkamen.com/set-design.html", "https://youtu.be/FxdAvLI_wyc?t=2827", "https://youtu.be/3xeSdTBlE3Y", "https://www.showbizpizza.com/info/documents/spt/spt_2stage-install.pdf", "https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/"]
 manufacturer = "Corman & Associates"
 unitsProduced = "33"
-tags = ["Stage Variations"]
-categories = ["Chuck E. Cheese's"]
+type = "Stage Variations"
+tags = ["Chuck E. Cheese's"]
 +++
 The ***Road Stage*** was the first-ever Cyberamic setup for Munch's Make Believe Band, formerly found at Chuck E. Cheese's locations. Road Stages often opened with new stores, though they have also replaced previous stages at existing stores, between 1990 and 1992 (one installation had been relocated to an existing store by 1994). Gradually replaced by 2-Stages, 1-Stages, Studio C configurations, and Dance Floors, the last remaining Road Stage installation was removed in 2025, becoming an extinct stage variant.
 

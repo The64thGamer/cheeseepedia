@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Winter Show 2023 Legacy"
 draft = false
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 startDate = "2023-11-27"
 endDate = "2024-01-01"
-contributors = ["CyberSnout","Cheeseclassic"]
+contributors = ["Cyber Snout","Cheeseclassic"]
 citations = []
 pageThumbnailFile = "d1EpVQsJE3ZTiIqUOTpM.avif"
 showtapeFormats = ["Legacy Cyberamic Navori"]

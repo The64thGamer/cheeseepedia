@@ -1,12 +1,14 @@
 +++
+
 title = "PTT Jack Campbell Memo Pad"
 draft = false
-tags = ["Corporate Documents"]
-categories = ["Pizza Time Theatre"]
+type = "Corporate Documents"
+tags = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
 endDate = ""
 contributors = ["Concordio","The 64th Gamer"]
 citations = []
+pageThumbnailFile = "2fN6PXYwEAN9jHOtJGIL.avif"
 +++
 The ***Pizza Time Theatre Memo Pads* were given out to corporate employees from presumably 1980 to an unknown year.**
 

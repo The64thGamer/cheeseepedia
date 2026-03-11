@@ -1,0 +1,5 @@
+{{- $pages := slice -}}
+{{ range (where site.RegularPages "Section" "theoryweb" )}}
+    {{ $pages = $pages | append . }}
+{{ end }}
+{{- return $pages -}}

@@ -1,8 +1,9 @@
 +++
 title = "SalutetoKids.avif"
 citations = [""]
-pages = ["CEC Salute to Kids"]
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
+
+type = "Photos"
+tags = ["Chuck E. Cheese's", "CEC Salute to Kids"]
 +++
+
 Unknown Pizza Time Theatre with the Salute to Kids theme. 

@@ -1,9 +1,10 @@
 +++
 title = "3BZNTWHJNqok3yez9vki.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Homely For Christmas Cassette (1987)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Homely For Christmas Cassette (1987)"]
+
 startDate = ""
 +++
+
 Homely For Christmas Cassette

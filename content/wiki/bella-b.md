@@ -5,8 +5,8 @@ startDate = ""
 endDate = ""
 contributors = ["CECMentor", "Capitanyoda20"]
 citations = ["https://www.instagram.com/iamandyhayward/p/C8AYMpUx7IJ/"]
-tags = ["Characters"]
-categories = ["Chuck E. Cheese's"]
+type = "Characters"
+tags = ["Chuck E. Cheese's"]
 +++
 ***Bella B.* is one of the main characters of the Chuck E. Cheese's franchise, making her debut in the 2018 song 'Bailando.' She is the newest member in Munch's Make Believe Band.**
 

@@ -7,8 +7,8 @@ pageThumbnailFile = ""
 contributors = ["The 64th Gamer"]
 citations = ["https://youtu.be/al4mKmLZdiA"]
 alsoKnownAs = ["CREATIVE ENGINEERING SBD1614-91083 4 BIRTHDAY SKITS LOW SPEED TAILWOUND 091083"]
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place"]
 +++
 ***4 Birthday Skits*** is a Rock-afire Explosion showtape released September of 1983. This would replace the standard Birthday tape. It played during {{< wiki-link "ShowBiz's Fabulous Fall Festival (Event)" >}} every day except Wednesdays. A variant of it would follow the next month, being the {{< wiki-link "4 Birthday Skits And 2 Junk Skits" >}} tape.
 

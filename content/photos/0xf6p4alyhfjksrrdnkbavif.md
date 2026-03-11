@@ -1,9 +1,10 @@
 +++
 title = "0Xf6P4AlyHfJksRrDNkB.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
-pages = ["Untitled Dinosaur Show"]
+type = "Photos"
+tags = ["Creative Presentations", "Untitled Dinosaur Show"]
+
 startDate = ""
 +++
+
 Protoceratops being inspected by an employee at CPI

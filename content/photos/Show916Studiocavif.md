@@ -1,10 +1,10 @@
 +++
 title = "Show916Studioc.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Chuck E. Cheese's Show 9 2016"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

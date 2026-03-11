@@ -1,9 +1,10 @@
 +++
 title = "s6Z0YNhMmz8zlVTGAjk6.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Cyberamic Control System"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cyberamic Control System"]
+
 startDate = ""
 +++
+
 Character Drive Card

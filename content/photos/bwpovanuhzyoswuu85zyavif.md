@@ -1,9 +1,10 @@
 +++
 title = "BwPovanuhzyoswUU85ZY.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Moonrockers"]
+type = "Photos"
+tags = ["Creative Engineering", "Moonrockers"]
+
 startDate = ""
 +++
+
 Quazar in 2005

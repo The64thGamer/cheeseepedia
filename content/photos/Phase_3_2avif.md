@@ -1,10 +1,10 @@
 +++
 title = "Phase_3_2.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Italy (2001 Postcard)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

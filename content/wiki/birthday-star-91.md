@@ -4,12 +4,12 @@ title = "Birthday Star '91"
 startDate = "1991-05-00"
 endDate = "1991-05-00"
 pageThumbnailFile = "May91Bday91cassette.avif"
-contributors = ["CyberSnout"]
+contributors = ["Cyber Snout"]
 citations = ["https://archive.org/details/aps-yellow-case"]
 credits = ["Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch", "Karlissa McKinney|Voice of Helen Henny", "Bob West|Voice of Jasper T. Jowls, Pasqually the Chef"]
 mediaDuration = "2:24"
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 **Birthday Star '91** was a scrapped birthday show that was initially created for {{< wiki-link "CEC American Pride" >}}.
 

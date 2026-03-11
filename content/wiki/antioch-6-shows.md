@@ -1,8 +1,8 @@
 +++
 title = "Antioch 6 Shows"
 draft = false
-tags = ["Showtapes"]
-categories = ["ShowBiz Pizza Place","Creative Engineering"]
+type = "Showtapes"
+tags = ["ShowBiz Pizza Place","Creative Engineering"]
 pageThumbnailFile = "IMG_1477.avif"
 startDate = "1982-02-18"
 endDate = "0000-00-00"

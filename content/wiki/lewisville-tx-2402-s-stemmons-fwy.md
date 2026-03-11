@@ -1,4 +1,5 @@
 +++
+
 title = "Lewisville, TX (2402 S Stemmons Fwy)"
 storeNumber = ""
 startDate = "1992-10-27"
@@ -13,8 +14,8 @@ latitudeLongitude = ["33.00581382","-96.97211378"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Chuck E. Cheese's"]
+pageThumbnailFile = "_FNaKYePWETkjigD0jhQ.avif"
+type = "Locations"
+tags = ["Chuck E. Cheese's"]
 draft = false
 +++

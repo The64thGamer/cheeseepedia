@@ -1,8 +1,8 @@
 +++
 title = "Happy Birthday With The Pizza Time Players Birthday Party Package Poster"
 draft = false
-tags = ["Promotional Material"]
-categories = ["Pizza Time Theatre"]
+type = "Promotional Material"
+tags = ["Pizza Time Theatre"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["Concordio"]

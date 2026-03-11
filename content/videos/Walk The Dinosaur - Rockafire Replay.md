@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/C5Vxxyk9frI"
-startdate = "2021-08-28"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2021-08-28"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Walk The Dinosaur - Rockafire Replay

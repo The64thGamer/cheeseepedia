@@ -1,9 +1,10 @@
 +++
 title = "x3GXJUvKuSN_dfxPQ_r7.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["CEC TV April 2005 Show"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "CEC TV April 2005 Show"]
+
 startDate = ""
 +++
+
 3-Stage SVHS

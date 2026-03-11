@@ -6,8 +6,8 @@ endDate = ""
 pageThumbnailFile = "v1xd6hsj9DPBSdgnBlDR.avif"
 contributors = ["The 64th Gamer", "Newbie editor", "CECMentor", "Stripes", "Caydenpedia", "Nickzrss"]
 citations = ["Addresses from showbizpizza.com", "Official statements from owners of the respective listed shows."]
-tags = ["Animatronic Shows"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronic Shows"
+tags = ["ShowBiz Pizza Place"]
 +++
 
 The ***Rock-afire Explosion*** was an animatronic show created by {{< wiki-link "Creative Engineering" >}} for {{< wiki-link "ShowBiz Pizza Place" >}} from 1980 to 1983, which would be used in its restaurants until parent company ShowBiz Pizza Time, Inc. rolled out {{< wiki-link "Concept Unification" >}} in SPP locations with a Rock-afire show from June 1990 to March 1993. Most remaining Rock-afire shows were turned into Chuck E. Cheese 3-Stage|3-Stages, which are also being dwindled down due to the {{< wiki-link "CEC 2.0 Remodel Program" >}}. Creative Engineering would continue to use its spare shows to sell to family entertainment centers as-is, {{< wiki-link "Moonrockers" >}}, or with new additions such as video and karaoke throughout the 80's and 90's.

@@ -5,8 +5,8 @@ startDate = "2024-04-00"
 endDate = ""
 contributors = ["The 64th Gamer"]
 citations = ["Employee Correspondance","https://www.reddit.com/r/chuckecheese/comments/1jif0e3/comment/mjnzlhf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button","https://youtu.be/JwVSL0_MOcA","https://youtu.be/OX_VCvMBDek"]
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's"]
 pageThumbnailFile = "54zrb9pvrbsfwqb5.avif"
 +++
 The ***Low Volume Store Initiative*** is a set of plans in April of 2024 applied to underperforming stores to reduce costs, ususally resulting in a closure soon after. It seems some stores may have recieved this earlier, though this is unclear.

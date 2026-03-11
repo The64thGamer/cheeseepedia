@@ -1,8 +1,8 @@
 +++
 title = "Aaron's Auctions Website"
 draft = false
-tags = ["Social Media and Websites"]
-categories = ["Creative Engineering"]
+type = "Social Media and Websites"
+tags = ["Creative Engineering"]
 startDate = ""
 endDate = ""
 contributors = ["The 64th Gamer"]

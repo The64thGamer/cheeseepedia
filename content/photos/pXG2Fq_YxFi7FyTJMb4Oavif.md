@@ -1,10 +1,10 @@
 +++
 title = "pXG2Fq_YxFi7FyTJMb4O.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -1,6 +1,6 @@
 +++
 title = "Charlie Brown"
-tags = ["Transcriptions"]
+type = "Transcriptions"
 contributors = ["Luigigamin212"]
 +++
 **Major Magic:**

@@ -1,10 +1,10 @@
 +++
 title = "Centre_Daily_Times_Sun_Oct_18_1992_.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

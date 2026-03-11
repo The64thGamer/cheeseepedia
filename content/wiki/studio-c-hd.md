@@ -1,8 +1,8 @@
 +++
 title = "Studio C HD"
 draft = false
-tags = ["Showtape Formats"]
-categories = []
+type = "Showtape Formats"
+tags = []
 startDate = ""
 endDate = ""
 contributors = ["CECBowlingGreen"]

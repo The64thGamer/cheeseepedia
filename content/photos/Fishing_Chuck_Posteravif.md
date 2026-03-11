@@ -1,10 +1,10 @@
 +++
 title = "Fishing_Chuck_Poster.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Fishing (Magazine)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

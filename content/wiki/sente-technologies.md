@@ -1,10 +1,11 @@
 +++
 title = "Sente Technologies"
 draft = false
-tags = ["History"]
-categories = ["Pizza Time Theatre"]
+type = "Companies/Brands"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""
+citations = ["https://web.archive.org/web/20140709001229/http://flyers.arcade-museum.com/?page=flyer&db=videodb&id=3064&image=2"]
 contributors = []
 +++

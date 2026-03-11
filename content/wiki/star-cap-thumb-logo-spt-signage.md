@@ -6,8 +6,8 @@ endDate = "2001-00-00"
 pageThumbnailFile = ""
 contributors = ["smileshy22"]
 citations = ["https://www.showbizpizza.com/history/logos.html", "https://www.reddit.com/r/chuckecheese/comments/1l5bb0w/photo_i_took_of_willowdale_today/"]
-tags = ["Store Fixtures"]
-categories = ["Chuck E. Cheese's"]
+type = "Store Fixtures"
+tags = ["Chuck E. Cheese's"]
 +++
 Star Cap Thumb Logo was exterior signage produced for ShowBiz Pizza Time Inc from 1995 to 2001. Giving a thumbs up, Chuck E. wears a yellow sweater with green accents and a red baseball cap with a green interior and a yellow star on the crown. The word mark is red that subtly fades into orange.
 

@@ -1,9 +1,10 @@
 +++
 title = "Dg7wUfMTkC7Jn99JDUWZ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Biloxi, MS (4550 W Beach Blvd)"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Biloxi, MS (4550 W Beach Blvd)"]
+
 startDate = ""
 +++
+
 Store after closure as 'Showboat Buffet', still using PTT interior. (April 5, 1985)

@@ -1,10 +1,10 @@
 +++
 title = "MurrayDbirdThumbnail.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Click / Murray D. Bird (Animatronic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

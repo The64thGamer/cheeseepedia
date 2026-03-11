@@ -1,8 +1,8 @@
 +++
 title = "d3SEFEyyRcm0wmwcXsIJ.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Beatles White Album"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Beatles White Album"]
+
 startDate = ""
 +++

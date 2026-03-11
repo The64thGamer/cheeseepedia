@@ -1,10 +1,10 @@
 +++
 title = "C_yx8jcWt_YTfdDKnnxE.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Winchester PTT Show"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

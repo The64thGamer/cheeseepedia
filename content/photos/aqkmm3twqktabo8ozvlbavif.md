@@ -1,10 +1,10 @@
 +++
 title = "aQkMm3TWqkTABo8OZVlb.avif"
 draft = false
-startdate = "2019-06-27"
-pages = ["Topeka, KS (1301 SW Gage Blvd)"]
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-startDate = ""
+startDate = "2019-06-27"
+
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Topeka, KS (1301 SW Gage Blvd)"]
 +++
+
 Exterior (June 27, 2019)

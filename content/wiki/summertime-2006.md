@@ -6,11 +6,12 @@ endDate = "2006-08-00"
 pageThumbnailFile = "xtTy7iCQBlJJCf40JMlv.avif"
 contributors = ["Ceclife13", "Anonymous"]
 citations = ["https://archive.org/download/3stage_dvd_signals/June%202006%203-Stage-005.iso"]
-credits = ["Robert Gotcher - Director", "Michael Hill - Production Coordinator", "Ryan Hollingsworth - Production Specialist"]
+credits = ["Robert Gotcher|Director", "Michael Hill|Production Coordinator", "Ryan Hollingsworth|Production Specialist"]
 showtapeFormats = ["Studio C 3x DVD + Floppy", "3-Stage DVD", "Cyberamics DVD", "3-Stage SVHS (Post-93)", "R12 SVHS (Post-93)"]
 downloadLinks = ["https://archive.org/download/3stage_dvd_signals/June%202006%203-Stage-005.iso|3-Stage DVD ISO"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+mediaDuration = "1:16:19"
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Summertime 2006** was the final rerelease of {{< wiki-link "Summertime 2003" >}} with intermission changes which played through the summer of 2006.
 
@@ -42,7 +43,7 @@ categories = ["Chuck E. Cheese's"]
     3.  Coke Groove
     4.  Countdown
 7. **Segment 4**
-    1.  ['Picnic'](https://raffi.fandom.com/wiki/Going_On_a_Picnic)
+    1.  'Going on a Picnic'
     2.  'Barbeque' (parody of ['Rock With You'](https://en.wikipedia.org/wiki/Rock_with_You))
 8. **Intermission 4**
     1.  Cinemark Summer Movie Clubhouse Spot
@@ -65,7 +66,7 @@ categories = ["Chuck E. Cheese's"]
 - Happy and You Know It
 - Chuck E. Swing 
 
-**Birthday Break**: April 2005 show logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+**Birthday Break**: April 2005 show logo with music set to a 1 or 2 minute countdown, which would then lead into the Birthday show.
 
 ## Production
 

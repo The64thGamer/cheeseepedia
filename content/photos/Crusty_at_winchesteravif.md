@@ -1,10 +1,10 @@
 +++
 title = "Crusty_at_winchester.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = []
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

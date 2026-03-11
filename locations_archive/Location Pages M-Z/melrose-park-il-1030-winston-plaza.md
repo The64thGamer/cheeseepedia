@@ -11,7 +11,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***1030 Winston Plaza*** is a *Chuck E. Cheese's* that opened in September 2012 (day unknown) with a {{< wiki-link "Circles of Light" >}} and is still open today with the {{< wiki-link "CEC 2.0 Remodel Program" >}}. This is the relocation of {{< wiki-link "Melrose Park, IL (1315 W North Ave)" >}}, which opened on September 24, 1991 with a {{< wiki-link "Cyberamics Road Stage" >}} and closed in August 2012 with a {{< wiki-link "2-Stage" >}}.
+***1030 Winston Plaza*** is a *Chuck E. Cheese's* that opened in September 2012 (day unknown) with a {{< wiki-link "Circles of Light" >}} and is still open today with the {{< wiki-link "CEC 2.0 Remodel Program" >}}. This is the relocation of {{< wiki-link "Melrose Park, IL (1315 W North Ave)" >}}, which opened on September 24, 1991 with a {{< wiki-link "Road Stage" >}} and closed in August 2012 with a {{< wiki-link "2-Stage" >}}.
 
 ## Stage
 

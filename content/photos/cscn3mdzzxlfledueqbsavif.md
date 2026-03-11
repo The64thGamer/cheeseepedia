@@ -1,9 +1,10 @@
 +++
 title = "cscn3MDzzxLfleDueQBS.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["The Rock-afire Explosion Simulator"]
+type = "Photos"
+tags = ["Creative Engineering", "The Rock-afire Explosion Simulator"]
+
 startDate = ""
 +++
+
 RAE Simulator Logo

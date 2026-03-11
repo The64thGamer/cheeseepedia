@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/yLGKxHkrpFY"
-startdate = "2020-12-30"
-pages = ["Rock-afire Replay"]
-tags = ["Videos"]
-categories = ["Creative Engineering","ShowBiz Pizza Place"]
+startDate = "2020-12-30"
+
+type = "Videos"
+tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
 +++
+
 Born To Run - Rock Afire Replay

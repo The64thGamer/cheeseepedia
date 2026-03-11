@@ -1,9 +1,10 @@
 +++
 title = "EbBOrQqbWswqXDJqTV9h.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Largo, MD (1100 Shoppers Way)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Largo, MD (1100 Shoppers Way)"]
+
 startDate = ""
 +++
+
 Largo, MD's exterior in the year 2017

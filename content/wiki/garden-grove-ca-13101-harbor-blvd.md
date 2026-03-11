@@ -1,4 +1,5 @@
 +++
+
 title = "Garden Grove, CA (13101 Harbor Blvd)"
 storeNumber = ""
 startDate = "1981-00-00"
@@ -13,8 +14,8 @@ latitudeLongitude = ["33.77159722","-117.9226416"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "EXJlrLVu1m4opdtVQJhX.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

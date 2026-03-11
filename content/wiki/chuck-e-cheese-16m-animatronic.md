@@ -1,13 +1,13 @@
 +++
 title = "Chuck E. Cheese 16m (Animatronic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Chuck E. Cheese's"]
+type = "Animatronics"
+tags = ["Chuck E. Cheese's"]
 
 
 startDate = ""
 endDate = "0000-00-00"
-contributors = ["CECBowlingGreen","BurgersNuggs445","CyberSnout","CorrectorMan","Livelycheese","BenTrainFan2000"]
+contributors = ["CECBowlingGreen","BurgersNuggs445","Cyber Snout","CorrectorMan","Livelycheese","BenTrainFan2000"]
 citations = []
 +++
 

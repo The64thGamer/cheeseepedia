@@ -1,12 +1,14 @@
 +++
+
 title = "SPP Davenport (Commercial)"
 draft = false
-tags = ["Commercials"]
-categories = ["ShowBiz Pizza Place"]
+type = "Commercials"
+tags = ["ShowBiz Pizza Place"]
 startDate = ""
 endDate = "0000-00-00"
 contributors = ["ShowBizMidwest","Sponch man","Chouts1"]
 citations = ["https://youtu.be/FqQPZvPYdoY"]
+pageThumbnailFile = "L9olxoprEUv4E5jvUd4q.avif"
 +++
 This commercial was created in early 1981 and advertises the opening of the {{< wiki-link "Davenport, IA (903 E Kimberly Rd)" >}} ShowBiz Pizza Place. The commercial is 30 seconds long.
 

@@ -1,10 +1,10 @@
 +++
 title = "Winchester_Pasqually_1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["San Jose, CA (370 S Winchester Blvd)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

@@ -4,10 +4,10 @@ title = "Jungle Jim's Miscellaneous Rock-afire Explosion Props"
 startDate = "1986-00-00"
 endDate = "2018-00-00"
 pageThumbnailFile = "MQQKTCH4MxWweBl1GREO.avif"
-contributors = ["The 64th Gamer", "CEC Tinley", "CyberSnout"]
+contributors = ["The 64th Gamer", "CEC Tinley", "Cyber Snout"]
 citations = ["https://imgur.com/a/ojDIOE6", "https://www.newspapers.com/clip/79897864/jj/", "https://flickr.com/photos/junglejims/361678115/in/dateposted/", "https://flickr.com/photos/junglejims/355083459/in/dateposted/", "https://www.newspapers.com/clip/79897864/jj/"]
-tags = ["Retrofits"]
-categories = ["Jungle Jim's"]
+type = "Retrofits"
+tags = ["Jungle Jim's"]
 +++
 Jungle Jim's has had various props from the Rock Afire Explosion installed at various parts of the Fairfield, OH location. Those being Moonshine jugs, Rocks & Rolfe's Rainbow. These were all located at *Jungle Jim's International Market* in Cincinnati, Ohio. (5440 Dixie Hwy, Fairfield, OH 45014).
 

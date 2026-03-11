@@ -1,8 +1,8 @@
 +++
 title = "The Blast"
 draft = false
-tags = ["History"]
-categories = ["Creative Engineering"]
+type = "History"
+tags = ["Creative Engineering"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

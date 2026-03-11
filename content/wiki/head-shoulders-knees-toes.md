@@ -6,8 +6,8 @@ endDate = "2013-12-31"
 pageThumbnailFile = "cecheadshoulderskneestoes2008live.avif"
 contributors = ["Ceclife13"]
 credits = ["Duncan Brannan - Voice of Chuck E. Cheese", "Annagrey Wiechman - Voice of Helen Henny", "Robert Gotcher - Director", "Michael Hill - Studio Coordinator", "Ryan Hollingsworth - Production Specialist"]
-tags = ["Live Shows"]
-categories = ["Chuck E. Cheese's"]
+type = "Live Shows"
+tags = ["Chuck E. Cheese's"]
 +++
 ***'Head, Shoulders, Knees and Toes'*** was a road show which was first released in July 2008 on the {{< wiki-link "Revised Road Show 2008" >}} CD. It would then continue to be rereleased on further road show CDs, allowing it to be playable through the end of 2013.
 

@@ -1,8 +1,8 @@
 +++
 title = "Warblettes (Cyberamic)"
 draft = false
-tags = ["Animatronics"]
-categories = ["Pizza Time Theatre"]
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
 startDate = "1979-00-00"
 endDate = "0000-00-00"
 contributors = ["CECBowlingGreen","Anonymous","CECMentor"]

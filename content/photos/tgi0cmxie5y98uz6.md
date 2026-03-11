@@ -1,0 +1,11 @@
++++
+title = "tgi0cmxie5y98uz6.avif"
+draft = false
+type = "Photos"
+tags = ["Peter Piper Pizza", "Kansas City, MO (8809 State Line Rd)"]
+
+startDate = "2023-06-22"
+citations = ["Peter Piper Pizza Kansas City Opening Photos"]
++++
+
+Peter Piper Pizza Kansas City Opening Photos

@@ -1,10 +1,10 @@
 +++
 title = "Wewerwer.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Holiday Party 2010 Show"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

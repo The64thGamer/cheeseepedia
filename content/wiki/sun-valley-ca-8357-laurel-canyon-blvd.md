@@ -1,4 +1,5 @@
 +++
+
 title = "Sun Valley, CA (8375 Laurel Canyon Blvd)"
 storeNumber = ""
 startDate = "1980-07-00"
@@ -13,8 +14,8 @@ latitudeLongitude = ["34.22203132", "-118.3997938"]
 citations = []
 contributors = []
 downloadLinks = []
-pageThumbnailFile = ""
-tags = ["Locations"]
-categories = ["Pizza Time Theatre"]
+pageThumbnailFile = "a9Aso1eJdg7DvIk0zuzr.avif"
+type = "Locations"
+tags = ["Pizza Time Theatre"]
 draft = false
 +++

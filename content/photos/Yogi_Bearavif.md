@@ -1,10 +1,10 @@
 +++
 title = "Yogi_Bear.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Yogi Bear (Animatronic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

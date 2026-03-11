@@ -1,12 +1,14 @@
 +++
+
 title = "Wind-up Chuck E. Cheese Figure (1992)"
 draft = false
-tags = ["In-Store Merchandise"]
-categories = ["Chuck E. Cheese's"]
+type = "In-Store Merchandise"
+tags = ["Chuck E. Cheese's"]
 startDate = "1992-00-00"
 endDate = "0000-00-00"
 contributors = ["Tobsters ;-;"]
 citations = []
+pageThumbnailFile = "w2NcuK2qAYs5x7g7rJ7Z.avif"
 +++
 The **Wind-up Chuck E. Cheese Figure** was a prize counter item released in 1992.
 

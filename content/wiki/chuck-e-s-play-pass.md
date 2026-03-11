@@ -5,8 +5,8 @@ startDate = "2016-00-00"
 endDate = ""
 contributors = ["ChuckEPediaIsTheBest!"]
 citations = ["TBD"]
-tags = ["Remodels and Initiatives"]
-categories = ["Chuck E. Cheese's"]
+type = "Remodels and Initiatives"
+tags = ["Chuck E. Cheese's"]
 +++
 **Chuck E.'s Play Pass** (also referred to as **Chuck E.'s All You Can Play**) is a card system at Chuck E. Cheese restaurants, used to play games in the restaurants. Chuck E's Play Pass was first implemented in late 2016, as a replacement for tokens, which had been in use since the chain's founding in 1977. While tokens are still used somewhat, they are only used in coin action games (games in which the way to play is to place a token in the slot and score points.). E-Tickets, introduced in late 2020 during the COVID-19 Pandemic as the replacement to physical paper tickets, are stored on the Play Pass cards as well.
 

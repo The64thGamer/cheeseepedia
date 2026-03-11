@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2007-12-13"
 endDate = "2014-9-14"
-contributors = ["Detourenterprises","CyberSnout"]
+contributors = ["Detourenterprises","Cyber Snout"]
 citations = []
 pageThumbnailFile = "62uWb3FV5GO81YX71QhG.avif"
 +++

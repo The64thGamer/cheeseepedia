@@ -1,10 +1,10 @@
 +++
 title = "Var1.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["Beach Bear (Animatronic)"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

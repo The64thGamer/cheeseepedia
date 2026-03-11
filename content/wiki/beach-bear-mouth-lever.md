@@ -4,8 +4,8 @@ startDate = "0000-00-00"
 pageThumbnailFile = "Beach Bear Mouth lever Mech (1).avif"
 contributors = ["Luigigamin212"]
 citations = ["@Donovan Marcelle"]
-tags = ["Animatronic Parts"]
-categories = ["ShowBiz Pizza Place"]
+type = "Animatronic Parts"
+tags = ["ShowBiz Pizza Place"]
 +++
 The *Beach Bear Mouth Lever* is a two part aluminum assembly that consists of four main pieces. The main part is an aluminum square with a channel for the aluminum bar that connects to the mouth plate, It also has a hole cut out of the sides to allow for a rod to connect it to the main head frame. The second Part is an aluminum bar that connects to the mouth plate and fits into the aluminum square's channel, it also has a hole on one side that lines up with the hole in the square piece. The third part is an aluminum plate in the shape of a semi-circle, this part is welded to the mouth plate bar with welds. The final piece is a metal bar that stands on top of the bar for the mouth plate and the square piece, It has a hole for connecting to the mouth cylinder and it also welds to the square and mouth bar at the bottom.
 

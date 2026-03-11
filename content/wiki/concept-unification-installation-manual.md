@@ -1,8 +1,8 @@
 +++
 title = "Concept Unification Installation Manual"
 draft = false
-tags = ["Documents"]
-categories = ["Chuck E. Cheese's"]
+type = "Documents"
+tags = ["Chuck E. Cheese's"]
 startDate = "1991-00-00"
 endDate = ""
 contributors = ["The 64th Gamer"]

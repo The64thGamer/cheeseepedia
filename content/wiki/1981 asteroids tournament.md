@@ -1,8 +1,8 @@
 +++
 title = "1981 Play Asteroids and Benefit Muscular Dystrophy (Event)"
 draft = false
-tags = ["Events"]
-categories = ["Pizza Time Theatre"]
+type = "Events"
+tags = ["Pizza Time Theatre"]
 pageThumbnailFile = ""
 startDate = "1981-08-24"
 endDate = "1980-09-03"

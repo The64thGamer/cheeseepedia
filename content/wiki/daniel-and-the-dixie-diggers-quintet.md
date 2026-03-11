@@ -1,8 +1,8 @@
 +++
 title = "Daniel and the Dixie Diggers Quintet"
 draft = false
-tags = ["Stage Variations"]
-categories = ["Sally Corporation"]
+type = "Stage Variations"
+tags = ["Sally Corporation"]
 pageThumbnailFile = ""
 startDate = ""
 endDate = ""

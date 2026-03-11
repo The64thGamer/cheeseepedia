@@ -1,9 +1,10 @@
 +++
 title = "8NoGpd7RKt52GyCnFcAs.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Pizza Time Theatre"]
-pages = ["Cheese E. Street"]
+type = "Photos"
+tags = ["Pizza Time Theatre", "Cheese E. Street"]
+
 startDate = ""
 +++
+
 Taken from the Fun St. article.

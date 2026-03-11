@@ -4,8 +4,8 @@ startDate = "2025-06-00"
 pageThumbnailFile = "ypouiapsidufodasihcujkak1ewjrkhf.avif"
 contributors = ["Front-Row-Joe","The 64th Gamer"]
 citations = ["https://web.archive.org/web/20250628195508/https://chucksarcade.fun/", "https://www.chuckecheese.com/tyler-tx/blogs/chuck-e-cheese-launches-chucks-arcade-a-classic-brand-extension-ushering-in-a-new-era-of-modern-arcade-gaming/", "https://web.archive.org/web/20250701222358/https://chucksarcade.fun/", "https://web.archive.org/web/20250702223723/https://chucksarcade.fun/","https://youtu.be/STVV38HOtQk"]
-tags = ["Social Media and Websites"]
-categories = ["Chuck E. Cheese's"]
+type = "Social Media and Websites"
+tags = ["Chuck E. Cheese's"]
 +++
 [***chucksarcade.fun***](https://chucksarcade.fun) is the official website of {{< wiki-link "Chuck's Arcade" >}}. {{< cite 1 >}}
 

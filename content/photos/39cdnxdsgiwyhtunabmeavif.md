@@ -1,9 +1,10 @@
 +++
 title = "39CDNxDsGiwYhtUNaBME.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Moonrockers"]
+type = "Photos"
+tags = ["Creative Engineering", "Moonrockers"]
+
 startDate = ""
 +++
+
 Admiral Oort in 2005

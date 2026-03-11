@@ -1,8 +1,8 @@
 +++
 title = "Santa On Stage Show 1984 (Event)"
 draft = false
-tags = ["Events"]
-categories = ["ShowBiz Pizza Place"]
+type = "Events"
+tags = ["ShowBiz Pizza Place"]
 startDate = "1984-12-00"
 endDate = "1985-01-00"
 contributors = ["The 64th Gamer"]

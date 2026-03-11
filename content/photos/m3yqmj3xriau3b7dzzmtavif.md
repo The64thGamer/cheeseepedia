@@ -1,9 +1,10 @@
 +++
 title = "m3yqmj3XRIAU3b7DZZmt.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Engineering"]
-pages = ["Billy Bob Talking Walkaround"]
+type = "Photos"
+tags = ["Creative Engineering", "Billy Bob Talking Walkaround"]
+
 startDate = ""
 +++
+
 Billy Bob Talking-Walkaround at Fun Time Pizza in McAllen

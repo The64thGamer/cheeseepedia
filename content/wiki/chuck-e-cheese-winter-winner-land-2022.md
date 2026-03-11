@@ -1,11 +1,11 @@
 +++
 title = "Chuck E. Cheese Winter Winner-Land 2022"
 draft = false
-tags = ["Showtapes"]
-categories = []
+type = "Showtapes"
+tags = []
 startDate = "2022-11-21"
 endDate = "0000-00-00"
-contributors = ["Bowling for Cheese","CyberSnout","CEC Denver"]
+contributors = ["Bowling for Cheese","Cyber Snout","CEC Denver"]
 citations = []
 pageThumbnailFile = "d1EpVQsJE3ZTiIqUOTpM.avif"
 showtapeFormats = ["Studio C 3x DVD + Floppy","Studio C 3x DVD + Floppy","Studio C USB + MicroSD","3-Stage DVD","Cyberamics DVD"]

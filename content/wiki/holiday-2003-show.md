@@ -6,11 +6,12 @@ endDate = "2003-12-00"
 pageThumbnailFile = "Tackma4NbxyctGVjKWVN.avif"
 contributors = ["The 64th Gamer", "Ceclife13"]
 citations = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img"]
-credits = ["Jeremy Blaido - Director", "Robert Gotcher - Production Manager", "Matt Daniel - Production Coordinator"]
+credits = ["Jeremy Blaido|Director", "Robert Gotcher|Production Manager", "Matt Daniel|Production Coordinator"]
+mediaDuration = "1:07:04"
 showtapeFormats = ["Studio C 3x DVD + Floppy", "R12 SVHS (Pre-93)", "3-Stage SVHS (Pre-93)"]
 downloadLinks = ["https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img|Studio C Floppy Disk (Ver. 1.03)"]
-tags = ["Showtapes"]
-categories = ["Chuck E. Cheese's"]
+type = "Showtapes"
+tags = ["Chuck E. Cheese's"]
 +++
 **Holiday 2003 Show** is a rerelease of {{< wiki-link "Holiday 2002" >}} which played throughout December 2003.
 
@@ -78,7 +79,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## Live Shows:
 
-**During this time live shows would be on separate VHS tapes for MMBB based stores.**
+**Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
 - Go Santa Go
 - Chuck E. March 2001

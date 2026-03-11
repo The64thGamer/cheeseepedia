@@ -1,9 +1,10 @@
 +++
 title = "CI0yuXmZ3g07C6R8rXCa.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Hofmann Figuren"]
-pages = ["Hofmann Monkey Show"]
+type = "Photos"
+tags = ["Hofmann Figuren", "Hofmann Monkey Show"]
+
 startDate = ""
 +++
+
 Magical Monkey Show Chocomel Advertisement

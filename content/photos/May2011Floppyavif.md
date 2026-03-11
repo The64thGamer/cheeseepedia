@@ -1,10 +1,10 @@
 +++
 title = "May2011Floppy.avif"
-tags = ["Photos"]
-categories = []
+type = "Photos"
+tags = ["May 2011 Show"]
 startDate = ""
 draft = false
-pages = []
+
 
 citations = []
 +++

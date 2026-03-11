@@ -1,9 +1,10 @@
 +++
 title = "GHPRttDfOQ29OJ_7OYGj.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["Lancaster, CA (44650 Valley Central Way)"]
+type = "Photos"
+tags = ["Chuck E. Cheese's", "Lancaster, CA (44650 Valley Central Way)"]
+
 startDate = ""
 +++
+
 Exterior before closure.

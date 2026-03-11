@@ -1,9 +1,10 @@
 +++
 title = "OlsSyLTAzW786Pir9oe0.avif"
 draft = false
-tags = ["Photos"]
-categories = ["Creative Presentations"]
-pages = ["Untitled Dinosaur Show"]
+type = "Photos"
+tags = ["Creative Presentations", "Untitled Dinosaur Show"]
+
 startDate = ""
 +++
+
 CPI Tarbosaur and Protoceratops posing for camera in Dinosaurs: Next Exit

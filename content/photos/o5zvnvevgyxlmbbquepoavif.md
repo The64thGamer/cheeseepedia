@@ -1,9 +1,10 @@
 +++
 title = "o5zVNVEVgYxLMbbqUEpo.avif"
 draft = false
-tags = ["Photos"]
-categories = ["ShowBiz Pizza Place"]
-pages = ["Sun (Animatronic)"]
+type = "Photos"
+tags = ["ShowBiz Pizza Place", "Sun (Animatronic)"]
+
 startDate = ""
 +++
+
 Standard Building mask.

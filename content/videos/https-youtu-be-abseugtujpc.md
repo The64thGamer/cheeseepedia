@@ -1,8 +1,9 @@
 +++
 title = "https://youtu.be/ABSeuGtUjPc"
-startdate = "1985-05-18"
-pages = ["Baton Rouge, LA (11324 Boardwalk Dr)"]
-tags = ["Videos"]
-categories = ["Chuck E. Cheese's"]
+startDate = "1985-05-18"
+
+type = "Videos"
+tags = ["Chuck E. Cheese's", "Baton Rouge, LA (11324 Boardwalk Dr)"]
 +++
+
 Footage of Baton Rouge, LA (11324 Boardwalk Dr) as a ShowBiz Pizza Place
