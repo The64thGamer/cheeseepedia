@@ -2,7 +2,7 @@
 
 title = "Hung Hom, Hong Kong, China (Whampoa Garden Phase 1)"
 startDate = "1985-00-00"
-endDate = "0000-00-00"
+endDate = "1991-00-00"
 stages = []
 latitudeLongitude = ["22.3073946","114.1847039"]
 pageThumbnailFile = ""

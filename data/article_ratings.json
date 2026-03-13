@@ -6190,6 +6190,16 @@
     "rating": 0
   },
   {
+    "title": "Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園) Standard Layout",
+    "page_path": "content/wiki/ptt-1981-update copy 3.md",
+    "startDate": "1982-12-00",
+    "start_year": 1982,
+    "category": null,
+    "tag": "Pizza Time Theatre",
+    "contributors_count": 1,
+    "rating": 0
+  },
+  {
     "title": "Chuck E.'s Challenge (PTT Signage)",
     "page_path": "content/wiki/chuck-e-s-challenge-ptt-signage.md",
     "startDate": "1982-00-00",
@@ -16036,7 +16046,7 @@
     "start_year": 1982,
     "category": null,
     "tag": "ShowBiz Pizza Place",
-    "contributors_count": 2,
+    "contributors_count": 3,
     "rating": 2
   },
   {
@@ -22877,7 +22887,7 @@
     "category": null,
     "tag": "Pizza Time Theatre",
     "contributors_count": 0,
-    "rating": 0
+    "rating": 1
   },
   {
     "title": "PTT Token 135 (B, N)",
