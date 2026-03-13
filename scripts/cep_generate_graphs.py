@@ -11,7 +11,7 @@ converts to decimal hours, groups by start year, and writes two JSONs:
 Also: reads data/article_ratings.json and produces:
  - article_ratings_counts.json
  - article_ratings_score_by_year.json
- - article_ratings_score_by_category.json
+ - article_ratings_score_by_type.json
  - article_ratings_score_by_tag.json
 """
 from __future__ import annotations
@@ -141,7 +141,6 @@ def parse_stage_entry(s: str):
     if sy is None or s_unknown:
         return None
     if e_unknown:
-        # mark end_unknown so caller can ignore
         return {"name": name, "start_comp": (sy, sm, sd), "end_comp": None, "end_unknown": True}
     return {"name": name, "start_comp": (sy, sm, sd), "end_comp": (ey, em, ed) if ey is not None else None, "end_unknown": False}
 
@@ -177,7 +176,6 @@ def normalize_categories(cat_field):
     if isinstance(cat_field, (list, tuple)):
         return [str(c).strip() for c in cat_field if c is not None]
     if isinstance(cat_field, str):
-        # YAML/toml might store a single string; split on commas if present
         if "," in cat_field:
             return [c.strip() for c in cat_field.split(",") if c.strip()]
         return [cat_field.strip()]
@@ -494,7 +492,6 @@ def load_showtapes_pages(base_dir=BASE_CONTENT_DIR):
         start_raw = fm.get("startDate") or fm.get("startdate") or ""
         sy, sm, sd, s_unknown = parse_ymd(start_raw)
         if sy is None or s_unknown:
-            # skip pages w/o a usable start year
             continue
         categories = normalize_categories(fm.get("categories") or fm.get("Categories") or fm.get("category") or fm.get("Category"))
         media_raw = fm.get("mediaDuration") or fm.get("media_duration") or fm.get("duration") or fm.get("MediaDuration")
@@ -591,15 +588,12 @@ def find_trim_indices(years, series_map, extra_year_lists=None):
     last = None
     for i, y in enumerate(years):
         has_nonzero = False
-        # check series_map numeric arrays
         for vals in series_map.values():
             if i < len(vals):
                 v = vals[i]
-                # treat numeric non-zero as data
                 if isinstance(v, Number) and v != 0:
                     has_nonzero = True
                     break
-                # other truthy values (e.g., True) also count
                 if v and not isinstance(v, bool):
                     has_nonzero = True
                     break
@@ -616,7 +610,7 @@ def find_trim_indices(years, series_map, extra_year_lists=None):
 def compact_year_label(y):
     return f"{y%100:02d}"
 
-# ---------- NEW: Article ratings derived graphs ----------
+# ---------- Article ratings derived graphs ----------
 RATING_LABELS = {
     0: "Empty",
     1: "Very Bad",
@@ -637,7 +631,6 @@ def load_article_ratings(path=ARTICLE_RATINGS_JSON):
             data = json.load(fh)
             if isinstance(data, list):
                 return data
-            # If someone wrote object with entries inside, try to handle it gracefully
             if isinstance(data, dict) and "entries" in data and isinstance(data["entries"], list):
                 return data["entries"]
     except Exception as e:
@@ -658,7 +651,6 @@ def build_ratings_count_series(entries):
         except Exception:
             r = None
         if r is None or r not in RATING_LABELS:
-            # treat missing as 0 (Empty)
             counts[RATING_LABELS[0]] += 1
         else:
             counts[RATING_LABELS[r]] += 1
@@ -668,11 +660,6 @@ def build_ratings_count_series(entries):
 
 # helper: get first meaningful value from several possible keys (string or list)
 def _get_first_field(entry, keys):
-    """
-    entry: dict
-    keys: iterable of candidate field names (try in order)
-    Returns first non-empty string found, or None.
-    """
     for k in keys:
         if k not in entry:
             continue
@@ -687,7 +674,6 @@ def _get_first_field(entry, keys):
             s = v.strip()
             if s != "":
                 return s
-        # if it's another type (int etc), coerce to string
         try:
             s = str(v).strip()
             if s != "":
@@ -700,8 +686,6 @@ def build_total_rating_by_year(entries):
     """
     Sum of rating numbers per start year.
     Returns: {"years": [...], "Total Rating": [...]}
-    Years start at 1970 (threshold) and go through current year.
-    Entries with missing/invalid start_year are ignored.
     """
     THRESHOLD_YEAR = 1970
     buckets = defaultdict(int)
@@ -722,7 +706,6 @@ def build_total_rating_by_year(entries):
 
     miny = min(years_present)
     maxy = max(years_present)
-    # enforce threshold like build_year_range
     if miny < THRESHOLD_YEAR:
         miny = THRESHOLD_YEAR
     current_year = datetime.date.today().year
@@ -733,19 +716,21 @@ def build_total_rating_by_year(entries):
     totals = [buckets.get(y, 0) for y in years]
     return {"years": years, "Total Rating": totals}
 
-def build_avg_rating_by_category(entries):
+def build_avg_rating_by_type(entries):
     """
-    Average rating grouped by first category.
+    Average rating grouped by the string field 'type'.
     Rating 0 articles are ignored (not summed and not counted).
-    Returns: {"series": {category: avg_rating}}
+    Returns: {"series": {type: avg_rating}}
     """
     rating_sum = defaultdict(int)
     count = defaultdict(int)
 
     for e in entries:
-        cat = _get_first_field(e, ("first_category", "category", "categories"))
-        if not cat:
-            cat = "uncategorized"
+        t = e.get("type")
+        if not t or not isinstance(t, str) or not t.strip():
+            t = "untyped"
+        else:
+            t = t.strip()
 
         r = e.get("rating")
         if r is None:
@@ -753,22 +738,21 @@ def build_avg_rating_by_category(entries):
 
         r = int(r)
         if r <= 0:
-            continue  # <-- ignore empty / unrated articles
+            continue  # ignore empty / unrated articles
 
-        rating_sum[cat] += r
-        count[cat] += 1
+        rating_sum[t] += r
+        count[t] += 1
 
     series = {}
-    for cat in rating_sum:
-        if count[cat] > 0:
-            series[cat] = round(rating_sum[cat] / count[cat], 2)
+    for t in rating_sum:
+        if count[t] > 0:
+            series[t] = round(rating_sum[t] / count[t], 2)
 
     series = OrderedDict(
         sorted(series.items(), key=lambda kv: kv[1], reverse=True)
     )
 
     return {"series": series}
-
 
 def build_avg_rating_by_tag(entries):
     """
@@ -790,7 +774,7 @@ def build_avg_rating_by_tag(entries):
 
         r = int(r)
         if r <= 0:
-            continue  # <-- ignore empty / unrated articles
+            continue  # ignore empty / unrated articles
 
         rating_sum[tag] += r
         count[tag] += 1
@@ -838,7 +822,6 @@ def run():
     if not showtapes_pages:
         print("No Showtapes-tagged pages found (or none had usable start year/mediaDuration).", file=sys.stderr)
     else:
-        # Define category groups (exact match)
         group_a = {"Creative Engineering", "ShowBiz Pizza Place"}
         group_b = {"Pizza Time Theatre", "Chuck E. Cheese's"}
 
@@ -854,34 +837,30 @@ def run():
 
         write_json(os.path.join(OUT_JSON_DIR, "avg_media_duration_ce_showbiz.json"), a_json)
         write_json(os.path.join(OUT_JSON_DIR, "avg_media_duration_ptt_cec.json"), b_json)
-        write_json(os.path.join(OUT_JSON_DIR, "avg_media_duration_live_shows.json"),live_json)
+        write_json(os.path.join(OUT_JSON_DIR, "avg_media_duration_live_shows.json"), live_json)
 
-        print(" - avg_media_duration_live_shows.json", file=sys.stderr)
         print("Wrote Showtapes media duration JSON -> data/graphs:", file=sys.stderr)
         print(" - avg_media_duration_ce_showbiz.json", file=sys.stderr)
         print(" - avg_media_duration_ptt_cec.json", file=sys.stderr)
+        print(" - avg_media_duration_live_shows.json", file=sys.stderr)
 
-    # ---------- NEW: article ratings derived graphs ----------
+    # ---------- article ratings derived graphs ----------
     entries = load_article_ratings(ARTICLE_RATINGS_JSON)
     if not entries:
         print(f"No article_ratings.json found at {ARTICLE_RATINGS_JSON} or it's empty — skipping article rating graphs.", file=sys.stderr)
     else:
-        # 1) count of articles in each rating (0-4)
         counts_json = build_ratings_count_series(entries)
         write_json(os.path.join(OUT_JSON_DIR, "article_ratings_counts.json"), counts_json)
         print("Wrote article_ratings_counts.json", file=sys.stderr)
 
-        # 2) breakdown by startDate (sum of rating numbers per year) -> good for a line chart
         by_year_json = build_total_rating_by_year(entries)
         write_json(os.path.join(OUT_JSON_DIR, "article_ratings_score_by_year.json"), by_year_json)
         print("Wrote article_ratings_score_by_year.json", file=sys.stderr)
 
-        # 3) scoring by category
-        by_cat_json = build_avg_rating_by_category(entries)
-        write_json(os.path.join(OUT_JSON_DIR, "article_ratings_score_by_category.json"), by_cat_json)
-        print("Wrote article_ratings_score_by_category.json", file=sys.stderr)
+        by_type_json = build_avg_rating_by_type(entries)
+        write_json(os.path.join(OUT_JSON_DIR, "article_ratings_score_by_type.json"), by_type_json)
+        print("Wrote article_ratings_score_by_type.json", file=sys.stderr)
 
-        # 4) scoring by tags
         by_tag_json = build_avg_rating_by_tag(entries)
         write_json(os.path.join(OUT_JSON_DIR, "article_ratings_score_by_tag.json"), by_tag_json)
         print("Wrote article_ratings_score_by_tag.json", file=sys.stderr)

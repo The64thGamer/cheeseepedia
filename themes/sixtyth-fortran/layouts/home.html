@@ -57,10 +57,10 @@
           Pages scored by length and number of citations, whichever is lesser.
           <br><br>
           {{ partial "PieChart.html" (dict "id" "openings-8" "data" .Site.Data.graphs.article_ratings_counts "type" "auto" "height" 250 "width" 250) }}
-          <h2>Categories Scored by Average Quality</h2>
+          <h2>Types Scored by Average Quality</h2>
           Ignores empty pages, 4 is a perfect score.
           <br><br>
-          {{ partial "PieChart.html" (dict "id" "openings-9" "data" .Site.Data.graphs.article_ratings_score_by_category "type" "auto" "height" 250 "width" 250) }}
+          {{ partial "PieChart.html" (dict "id" "openings-9" "data" .Site.Data.graphs.article_ratings_score_by_type "type" "auto" "height" 250 "width" 250) }}
         </div>
           <div class="column" style="flex: 50%; max-width:50%">
           <h2>Tags Scored by Average Quality</h2>
