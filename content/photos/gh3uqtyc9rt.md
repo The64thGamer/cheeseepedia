@@ -1,0 +1,8 @@
++++
+title = "gh3uqtyc9rt.avif"
+startDate = "1981-00-00"
+citations = []
+type = "Photos"
+tags = ["Salt Lake City, UT (3344 South 1300)", "Pizza Time Theatre"]
++++
+Salt Lake City's Dolli Dimples
