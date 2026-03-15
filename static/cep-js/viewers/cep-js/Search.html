@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Search</title>
+<style>
+/* ── Layout ── */
+.s-wrap { max-width: 900px; margin: 0 auto; padding: 1rem; }
+.s-input-row { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; border: 1px solid var(--border, #444); border-radius: .5rem; padding: .4rem .6rem; background: var(--bg-input, #1a1a2e); }
+.s-chips { display: contents; }
+.s-chip { display: inline-flex; align-items: center; gap: .25rem; border-radius: 1rem; padding: .15rem .5rem; font-size: .8rem; }
+.s-chip-tag { background: var(--chip-tag, #2a4a7f); color: var(--chip-tag-text, #c0caf5); }
+.s-chip-neg { background: var(--chip-neg, #7f2a2a); color: var(--chip-neg-text, #f7c5c5); }
+.s-chip-fuzzy { background: var(--chip-fuzzy, #2a5a3a); color: var(--chip-fuzzy-text, #c5f7d5); }
+.s-chip-x { background: none; border: none; cursor: pointer; color: inherit; padding: 0; font-size: .75rem; opacity: .7; }
+.s-chip-x:hover { opacity: 1; }
+.s-input { flex: 1; min-width: 120px; background: none; border: none; outline: none; color: var(--text, #c0caf5); font-size: .95rem; }
+.s-suggest { position: absolute; z-index: 100; background: var(--bg-dropdown, #13141f); border: 1px solid var(--border, #444); border-radius: .4rem; max-height: 260px; overflow-y: auto; min-width: 220px; }
+.s-suggest-item { padding: .4rem .75rem; cursor: pointer; font-size: .875rem; display: flex; justify-content: space-between; }
+.s-suggest-item:hover, .s-suggest-item.active { background: var(--bg-hover, #24283b); }
+.s-suggest-count { opacity: .5; font-size: .75rem; }
+.s-suggest-wrap { position: relative; }
+
+/* ── Quick tags ── */
+.s-qtags h4 { margin: .5rem 0 .25rem; font-size: .8rem; opacity: .6; text-transform: uppercase; letter-spacing: .05em; }
+.s-qtags-scroll { display: flex; flex-wrap: wrap; gap: .35rem; }
+.s-qtag-btn { border: 1px solid var(--border, #444); border-radius: 1rem; padding: .2rem .6rem; font-size: .8rem; cursor: pointer; background: var(--bg-tag, #1a1b2e); color: var(--text, #c0caf5); }
+.s-qtag-btn:hover { background: var(--bg-hover, #24283b); }
+.s-qtag-count { opacity: .45; font-size: .7rem; }
+
+/* ── Controls ── */
+.s-controls { display: flex; flex-wrap: wrap; gap: .75rem; align-items: center; margin: .5rem 0; font-size: .85rem; }
+.s-controls label { display: flex; align-items: center; gap: .3rem; }
+.s-controls select { background: var(--bg-input, #1a1a2e); border: 1px solid var(--border, #444); color: var(--text, #c0caf5); border-radius: .3rem; padding: .15rem .4rem; }
+.s-toggle { display: inline-flex; align-items: center; gap: .3rem; cursor: pointer; font-size: .85rem; user-select: none; }
+.s-toggle input { cursor: pointer; }
+
+/* ── Tabs ── */
+.s-tab-btns { display: flex; gap: .3rem; flex-wrap: wrap; margin: .5rem 0 0; }
+.s-tab-btn { border: 1px solid var(--border, #444); border-radius: .4rem .4rem 0 0; padding: .3rem .75rem; cursor: pointer; background: var(--bg-input, #1a1a2e); color: var(--text-muted, #565f89); font-size: .85rem; }
+.s-tab-btn.active { background: var(--bg-hover, #24283b); color: var(--text, #c0caf5); border-bottom-color: transparent; }
+.s-tab-panel { display: none; }
+.s-tab-panel.active { display: block; }
+
+/* ── Results ── */
+.s-results { border: 1px solid var(--border, #444); border-radius: 0 .4rem .4rem .4rem; padding: .5rem; min-height: 40px; }
+.s-year-header { font-size: 1rem; font-weight: bold; opacity: .7; padding: .5rem .25rem .25rem; border-bottom: 1px solid var(--border, #444); margin-bottom: .4rem; }
+.s-year-group { margin-bottom: 1rem; }
+
+/* List mode */
+.s-item { display: flex; gap: .75rem; padding: .3rem .2rem; border-bottom: 1px solid var(--border-subtle, #2a2a3a); }
+.s-item:last-child { border-bottom: none; }
+.s-item-body { flex: 1; min-width: 0; display: flex; align-items: baseline; gap: .5rem; }
+.s-item-title { font-size: .9rem; }
+.s-item-title a { color: var(--link, #7aa2f7); text-decoration: none; }
+.s-item-title a:hover { text-decoration: underline; }
+.s-item-meta { font-size: .75rem; opacity: .55; white-space: nowrap; }
+
+/* Compact mode */
+.CompactCard { display: flex; gap: .5rem; padding: .35rem .2rem; border-bottom: 1px solid var(--border-subtle, #2a2a3a); align-items: center; }
+.CompactCard:last-child { border-bottom: none; }
+.CompactCard .CardImage { width: 56px; height: 38px; overflow: hidden; border-radius: .25rem; flex-shrink: 0; }
+.CompactCard .CardImage img { width: 100%; height: 100%; object-fit: cover; }
+.CompactCard .CardTextArea { flex: 1; min-width: 0; }
+.CompactCard .CardLink { font-size: .875rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.CompactCard .CardLink a { color: var(--link, #7aa2f7); text-decoration: none; }
+.CompactCard .CardText { font-size: .75rem; opacity: .55; }
+
+/* Card mode */
+.Carousel { display: flex; gap: 1rem; overflow-x: auto; overflow-y: hidden; padding: .5rem; padding-bottom: 1.5rem; scroll-behavior: smooth; }
+.s-cards-wrap { display: flex; flex-wrap: wrap; gap: 1rem; padding: .5rem 0; }
+
+/* Gallery (photos) */
+.s-gallery { display: flex; flex-wrap: wrap; gap: .5rem; }
+.s-gallery-item { width: 120px; }
+.s-gallery-item img { width: 100%; height: 80px; object-fit: cover; border-radius: .25rem; }
+.s-gallery-item-title { font-size: .7rem; opacity: .7; margin-top: .15rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.s-no-results { opacity: .5; padding: .5rem; font-size: .85rem; }
+.s-show-more { display: none; text-align: center; padding: .5rem; }
+.s-show-more a { font-size: .85rem; color: var(--link, #7aa2f7); }
+</style>
+</head>
+<body>
+<div class="s-wrap">
+
+  <!-- Search input -->
+  <div class="s-suggest-wrap">
+    <div class="s-input-row" id="sInputRow">
+      <span class="s-chips" id="sChips"></span>
+      <input class="s-input" id="sInput" placeholder="Search..." autocomplete="off" />
+    </div>
+    <div class="s-suggest" id="sSuggest" style="display:none"></div>
+  </div>
+
+  <!-- Quick tags -->
+  <div class="s-qtags" id="sQtags">
+    <h4>Quick Tags</h4>
+    <div class="s-qtags-scroll" id="sQtagsList"></div>
+  </div>
+
+  <!-- Controls + tabs (hidden until search) -->
+  <div id="sResultsWrap" style="display:none">
+    <div class="s-controls">
+      <label>Show:
+        <select id="sPerPage">
+          <option value="10" selected>10</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+          <option value="all">All</option>
+        </select>
+      </label>
+      <label>Sort:
+        <select id="sSort">
+          <option value="relevancy" selected>Relevancy</option>
+          <option value="oldest">Oldest &#x2192; Newest</option>
+          <option value="newest">Newest &#x2192; Oldest</option>
+        </select>
+      </label>
+      <label>Display:
+        <select id="sDisplay">
+          <option value="card" selected>Card</option>
+          <option value="compact">Compact</option>
+          <option value="list">List</option>
+        </select>
+      </label>
+      <label class="s-toggle">
+        <input type="checkbox" id="sKeepTags"> Quick Tags
+      </label>
+    </div>
+
+    <div class="s-tab-btns" id="sTabBtns"></div>
+    <div id="sTabPanels"></div>
+  </div>
+
+</div>
+
+<script>
+(async () => {
+
+// ── Config ───────────────────────────────────────────────────────────────────
+const BASE = '/viewers/cep-js/compiled-json/search';
+
+const TABS = [
+  { id: 'articles', label: 'Articles', types: null },
+  { id: 'photos',   label: 'Photos',   types: ['Photos'] },
+  { id: 'videos',   label: 'Videos',   types: ['Videos'] },
+  { id: 'reviews',  label: 'Reviews',  types: ['Reviews'] },
+];
+
+const QUICK_TAGS = [
+  "Pizza Time Theatre","ShowBiz Pizza Place","Chuck E. Cheese's",
+  "2026","1977","Locations","Showtapes","Animatronic Shows","Stage Variations",
+  "Animatronics","Animatronic Parts","Animatronic Preservation","Costumed Characters",
+  "Retrofits","History","Cancelled Locations","Remodels and Initiatives",
+  "Arcades and Attractions","Store Fixtures","Companies/Brands","Characters",
+  "Events","Animatronic Control Systems","Other Systems","Simulators",
+  "Programming Systems","Commercials","News Footage","Company Media","Movies",
+  "Puppets","Live Shows","ShowBiz Pizza Programs","Showtape Formats","Family Vision",
+  "Corporate Documents","Documents","Promotional Material","Social Media and Websites",
+  "Ad Vehicles","In-Store Merchandise","Products","Menu Items","Tickets","Tokens",
+  "Employee Wear","Video Games","Sally Corporation","Jim Henson's Creature Shop",
+  "Walt Disney Imagineering","Five Nights at Freddy's","Transcriptions",
+  "Unknown Year","User","Meta"
+];
+
+// ── State ────────────────────────────────────────────────────────────────────
+let DOCS = [], TAGS = {}, ALL_TAG_KEYS = [];
+const TRI_CACHE = {};
+let chips = [], suggestIdx = -1, searchTimer = null;
+
+// ── DOM ───────────────────────────────────────────────────────────────────────
+const sInput       = document.getElementById('sInput');
+const sChips       = document.getElementById('sChips');
+const sInputRow    = document.getElementById('sInputRow');
+const sSuggest     = document.getElementById('sSuggest');
+const sQtags       = document.getElementById('sQtags');
+const sQtagsList   = document.getElementById('sQtagsList');
+const sResultsWrap = document.getElementById('sResultsWrap');
+const sTabBtns     = document.getElementById('sTabBtns');
+const sTabPanels   = document.getElementById('sTabPanels');
+const sPerPage     = document.getElementById('sPerPage');
+const sSort        = document.getElementById('sSort');
+const sDisplay     = document.getElementById('sDisplay');
+const sKeepTags    = document.getElementById('sKeepTags');
+
+// Restore prefs
+sKeepTags.checked = localStorage.getItem('sKeepTags') === '1';
+sDisplay.value    = localStorage.getItem('sDisplay') || 'card';
+
+sKeepTags.addEventListener('change', () => {
+  localStorage.setItem('sKeepTags', sKeepTags.checked ? '1' : '0');
+  updateLayout();
+});
+sDisplay.addEventListener('change', () => {
+  localStorage.setItem('sDisplay', sDisplay.value);
+  executeSearch();
+});
+
+// ── Build tabs ───────────────────────────────────────────────────────────────
+TABS.forEach(t => {
+  const btn = document.createElement('button');
+  btn.className = 's-tab-btn' + (t.id === 'articles' ? ' active' : '');
+  btn.dataset.tab = t.id;
+  btn.textContent = t.label;
+  btn.onclick = () => activateTab(t.id);
+  sTabBtns.appendChild(btn);
+
+  const panel = document.createElement('div');
+  panel.className = 's-tab-panel' + (t.id === 'articles' ? ' active' : '');
+  panel.id = 'panel-' + t.id;
+  panel.innerHTML = '<div class="s-results" id="list-' + t.id + '"></div><div class="s-show-more" id="more-' + t.id + '"><a href="#">Show more</a></div>';
+  sTabPanels.appendChild(panel);
+
+  document.getElementById('more-' + t.id).querySelector('a').onclick = e => {
+    e.preventDefault();
+    const tiers = ['10','50','100','all'];
+    const idx = tiers.indexOf(sPerPage.value);
+    sPerPage.value = tiers[Math.min(idx+1, tiers.length-1)];
+    executeSearch();
+  };
+});
+
+function activateTab(id) {
+  document.querySelectorAll('.s-tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === id));
+  document.querySelectorAll('.s-tab-panel').forEach(p => p.classList.toggle('active', p.id === 'panel-'+id));
+}
+
+// ── Build quick tags ─────────────────────────────────────────────────────────
+QUICK_TAGS.forEach(tag => {
+  const btn = document.createElement('button');
+  btn.className = 's-qtag-btn';
+  btn.dataset.tag = tag;
+  btn.onclick = () => addChip('tag', tag, false);
+  btn.textContent = tag;
+  sQtagsList.appendChild(btn);
+});
+
+// ── Text utils ───────────────────────────────────────────────────────────────
+const reNW = /[^\w\s]/g, reS = /\s+/g;
+const norm = s => s ? String(s).toLowerCase().replace(reNW,' ').replace(reS,' ').trim() : '';
+function tris(s) {
+  s = '  ' + norm(s) + '  ';
+  const out = new Set();
+  for (let i = 0; i+3 <= s.length; i++) { const t = s.slice(i,i+3); if (t.trim()) out.add(t); }
+  return out;
+}
+function jaccard(a,b) {
+  if (!a.size||!b.size) return 0;
+  let n=0; for (const x of a) if (b.has(x)) n++;
+  return n/(a.size+b.size-n);
+}
+const esc = s => s ? String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;') : '';
+
+// ── Date utils ───────────────────────────────────────────────────────────────
+const MNAMES = ['','Jan. ','Feb. ','Mar. ','Apr. ','May ','Jun. ','Jul. ','Aug. ','Sep. ','Oct. ','Nov. ','Dec.'];
+
+// Returns {y, m, d} parsed from a date string, nulls where unknown/zero
+function parseDateParts(d) {
+  if (!d || !d.trim()) return null;
+  const [y,m,day] = d.split('-');
+  const yi = parseInt(y,10), mi = parseInt(m,10), di = parseInt(day,10);
+  return {
+    y: (yi && yi !== 0) ? String(yi) : null,
+    m: (mi && mi !== 0) ? mi : null,
+    d: (di && di !== 0) ? di : null,
+    unknown: (!yi || yi === 0)  // 0000 = explicitly unknown
+  };
+}
+
+// Format a single date into a string, optionally omitting the year
+function fmtParts(p, omitYear=false) {
+  if (!p) return '???';
+  if (p.unknown) return '???';
+  const mn = p.m ? MNAMES[p.m] : '';
+  const dn = p.d ? String(p.d) + (mn ? '' : '') : '';
+  const sep = (mn && dn) ? '' : '';
+  const datePart = mn + (dn ? dn : '');
+  if (omitYear) return datePart || '???';
+  return (datePart ? datePart + (datePart.endsWith(' ') ? '' : ' ') : '') + (p.y || '???');
+}
+
+// Full date string with year
+function fmtDate(d) {
+  if (!d || !d.trim()) return '???';
+  const p = parseDateParts(d);
+  return fmtParts(p, false);
+}
+
+// Month+day only (no year) — used inside year-grouped headers
+function fmtMonthDay(d) {
+  if (!d || !d.trim()) return '';
+  const p = parseDateParts(d);
+  if (!p || p.unknown) return '';
+  const mn = p.m ? MNAMES[p.m] : '';
+  const dn = p.d ? String(p.d) : '';
+  return (mn + dn).trim();
+}
+
+// Date range string: handles all combinations of start/end presence and 0000 unknown
+// yearGrouped=true means we omit the year from start (it's shown in the header)
+function fmtDateRange(start, end, yearGrouped=false) {
+  const sp = parseDateParts(start);
+  // start is blank/missing → always ???
+  const startUnknown = !start || !start.trim() || (sp && sp.unknown);
+  const startStr = startUnknown ? '???' : fmtParts(sp, yearGrouped);
+
+  // end cases
+  const endMissing = (end === undefined || end === null || end === '');
+  const ep = endMissing ? null : parseDateParts(end);
+  const endUnknown = !endMissing && ep && ep.unknown; // explicitly 0000-00-00
+
+  if (startUnknown && (endMissing || endUnknown)) return '???';
+
+  if (endMissing) {
+    // No endDate field at all → "Start - Present"
+    return startStr + ' - Present';
+  }
+  if (endUnknown) {
+    // endDate = 0000-00-00 → "Start - ???"
+    return startStr + ' - ???';
+  }
+  // Normal end date
+  const endStr = fmtParts(ep, yearGrouped);
+  if (startUnknown) return '??? - ' + endStr;
+  return startStr + ' - ' + endStr;
+}
+
+function getYear(d) {
+  if (!d || !d.trim()) return 'Unknown';
+  const p = parseDateParts(d);
+  return (p && p.y) ? p.y : 'Unknown';
+}
+
+// ── Load data ────────────────────────────────────────────────────────────────
+async function loadData() {
+  const [docsRes, tagsRes] = await Promise.all([
+    fetch(`${BASE}/docs.json`),
+    fetch(`${BASE}/tags.json`),
+  ]);
+  DOCS = await docsRes.json();
+  TAGS = await tagsRes.json();
+  ALL_TAG_KEYS = Object.keys(TAGS).sort((a,b) => a.localeCompare(b, undefined, {sensitivity:'base'}));
+
+  sQtagsList.querySelectorAll('.s-qtag-btn').forEach(btn => {
+    const tag = btn.dataset.tag;
+    const count = (TAGS[tag] || []).length;
+    if (count) btn.innerHTML = esc(tag) + ` <span class="s-qtag-count">(${count})</span>`;
+  });
+}
+
+// ── Trigram shard loader ─────────────────────────────────────────────────────
+async function loadTriShard(ch) {
+  if (TRI_CACHE[ch] !== undefined) return TRI_CACHE[ch];
+  try {
+    const r = await fetch(`${BASE}/tri_${ch}.json`);
+    TRI_CACHE[ch] = r.ok ? await r.json() : {};
+  } catch { TRI_CACHE[ch] = {}; }
+  return TRI_CACHE[ch];
+}
+
+// ── Chips ────────────────────────────────────────────────────────────────────
+function addChip(type, value, neg=false) {
+  if (!value) return;
+  if (type === 'tag') {
+    const found = ALL_TAG_KEYS.find(t => t.toLowerCase() === value.toLowerCase());
+    value = found || value;
+  }
+  const dup = chips.findIndex(c => c.type===type && c.value.toLowerCase()===value.toLowerCase() && c.neg===neg);
+  if (dup !== -1) return;
+  const opp = chips.findIndex(c => c.type===type && c.value.toLowerCase()===value.toLowerCase() && c.neg!==neg);
+  if (opp !== -1) chips.splice(opp,1);
+  chips.push({type, value, neg});
+  renderChips();
+}
+
+function renderChips() {
+  sChips.innerHTML = '';
+  chips.forEach((c,i) => {
+    const el = document.createElement('span');
+    el.className = 's-chip ' + (c.type==='fuzzy' ? 's-chip-fuzzy' : c.neg ? 's-chip-neg' : 's-chip-tag');
+    el.innerHTML = `<button class="s-chip-x" data-i="${i}">&#x2715;</button>${esc((c.neg?'-':'')+(c.type==='fuzzy'?'"'+c.value+'"':c.value))}`;
+    sChips.appendChild(el);
+  });
+  sInput.value = '';
+  sInput.focus();
+  scheduleSearch();
+  updateLayout();
+}
+
+sChips.addEventListener('click', e => {
+  const btn = e.target.closest('.s-chip-x');
+  if (!btn) return;
+  chips.splice(Number(btn.dataset.i),1);
+  renderChips();
+});
+sInputRow.addEventListener('click', () => sInput.focus());
+
+// ── Suggestions ──────────────────────────────────────────────────────────────
+function showSuggestions(q) {
+  if (!q) { hideSuggestions(); return; }
+  const neg = q.startsWith('-');
+  const qn = norm(neg ? q.slice(1) : q);
+  if (!qn) { hideSuggestions(); return; }
+  const matches = ALL_TAG_KEYS
+    .filter(t => norm(t).includes(qn))
+    .map(t => ({t, count: (TAGS[t]||[]).length, neg}))
+    .sort((a,b) => b.count-a.count)
+    .slice(0,12);
+  if (!matches.length) { hideSuggestions(); return; }
+  sSuggest.innerHTML = '';
+  matches.forEach((m,i) => {
+    const el = document.createElement('div');
+    el.className = 's-suggest-item';
+    el.dataset.i = i;
+    el.innerHTML = `<span>${esc((m.neg?'-':'')+m.t)}</span><span class="s-suggest-count">${m.count}</span>`;
+    el.onmousedown = ev => { ev.preventDefault(); addChip('tag', m.t, m.neg); hideSuggestions(); };
+    el.onmouseover = () => { suggestIdx=i; highlightSuggest(); };
+    sSuggest.appendChild(el);
+  });
+  sSuggest.style.display = 'block';
+  suggestIdx = -1;
+}
+
+function hideSuggestions() { sSuggest.style.display='none'; sSuggest.innerHTML=''; suggestIdx=-1; }
+function highlightSuggest() {
+  Array.from(sSuggest.children).forEach((el,i) => el.classList.toggle('active', i===suggestIdx));
+}
+
+sInput.addEventListener('input', () => showSuggestions(sInput.value));
+sInput.addEventListener('keydown', e => {
+  const items = Array.from(sSuggest.children);
+  if (e.key === 'Enter' || e.key === 'Tab') {
+    e.preventDefault();
+    const active = items[suggestIdx];
+    if (active) {
+      const txt = active.querySelector('span').textContent;
+      const neg = txt.startsWith('-');
+      addChip('tag', neg ? txt.slice(1) : txt, neg);
+      hideSuggestions();
+    } else {
+      const v = sInput.value.trim();
+      if (v) {
+        const neg = v.startsWith('-');
+        const term = neg ? v.slice(1) : v;
+        const matched = ALL_TAG_KEYS.find(t => t.toLowerCase()===term.toLowerCase());
+        addChip(matched ? 'tag' : 'fuzzy', matched||term, neg);
+        hideSuggestions();
+      }
+    }
+  } else if (e.key==='ArrowDown' && items.length) {
+    e.preventDefault(); suggestIdx=Math.min(suggestIdx+1,items.length-1); highlightSuggest();
+    items[suggestIdx].scrollIntoView({block:'nearest'});
+  } else if (e.key==='ArrowUp' && items.length) {
+    e.preventDefault(); suggestIdx=Math.max(suggestIdx-1,0); highlightSuggest();
+    items[suggestIdx].scrollIntoView({block:'nearest'});
+  } else if (e.key==='Escape') hideSuggestions();
+});
+document.addEventListener('click', e => {
+  if (!sSuggest.contains(e.target) && e.target!==sInput) hideSuggestions();
+});
+
+// ── Layout ───────────────────────────────────────────────────────────────────
+function updateLayout() {
+  const hasSearch = chips.length > 0 || sInput.value.trim();
+  sResultsWrap.style.display = hasSearch ? 'block' : 'none';
+  sQtags.style.display = (!hasSearch || sKeepTags.checked) ? 'block' : 'none';
+}
+
+// ── Search ───────────────────────────────────────────────────────────────────
+function scheduleSearch() {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(executeSearch, 150);
+}
+
+async function executeSearch() {
+  if (!DOCS.length) return;
+  updateLayout();
+
+  const tagChips   = chips.filter(c => c.type==='tag');
+  const fuzzyChips = chips.filter(c => c.type==='fuzzy');
+  const fuzzyQ     = fuzzyChips.map(c => c.value).join(' ');
+
+  if (!tagChips.length && !fuzzyQ) {
+    TABS.forEach(t => {
+      document.getElementById('list-'+t.id).innerHTML='';
+      document.getElementById('more-'+t.id).style.display='none';
+    });
+    return;
+  }
+
+  let results;
+
+  if (!fuzzyQ) {
+    let ids = null;
+    for (const c of tagChips) {
+      const tagIds = new Set(TAGS[c.value] || []);
+      if (c.neg) {
+        if (!ids) ids = new Set(DOCS.map((_,i)=>i));
+        for (const id of tagIds) ids.delete(id);
+      } else {
+        ids = ids ? new Set([...ids].filter(x => tagIds.has(x))) : new Set(tagIds);
+      }
+    }
+    results = [...(ids||[])].map(id => ({score:0, doc:DOCS[id]})).filter(r=>r.doc);
+    const pt = tagChips.find(c=>!c.neg);
+    if (pt) {
+      const qtris = tris(pt.value);
+      results.forEach(r => r.score = jaccard(tris(r.doc.t||''), qtris));
+      results.sort((a,b)=>b.score-a.score);
+    }
+  } else {
+    const qTris = tris(fuzzyQ);
+    const shardKeys = new Set([...qTris].map(t => t[0].match(/[a-z]/) ? t[0] : '_'));
+    const shards = await Promise.all([...shardKeys].map(loadTriShard));
+    const merged = Object.assign({}, ...shards);
+    const hits = {};
+    for (const tri of qTris) for (const id of (merged[tri]||[])) hits[id]=(hits[id]||0)+1;
+    const tagFilterSets = tagChips.map(c => ({neg:c.neg, ids:new Set(TAGS[c.value]||[])}));
+    results = Object.entries(hits).map(([id,h]) => {
+      const doc = DOCS[+id];
+      if (!doc) return null;
+      for (const f of tagFilterSets) {
+        if (f.neg && f.ids.has(+id)) return null;
+        if (!f.neg && !f.ids.has(+id)) return null;
+      }
+      return {score: h/qTris.size + (norm(doc.t||'').includes(norm(fuzzyQ))?0.3:0), doc};
+    }).filter(Boolean).sort((a,b)=>b.score-a.score);
+  }
+
+  // Sort
+  const sort = sSort.value;
+  if (sort !== 'relevancy') {
+    results.sort((a,b) => {
+      const ad=a.doc.d||'', bd=b.doc.d||'';
+      if (!ad&&!bd) return 0; if (!ad) return 1; if (!bd) return -1;
+      return sort==='oldest' ? ad.localeCompare(bd) : bd.localeCompare(ad);
+    });
+  }
+
+  // Split into tab buckets
+  const buckets = {};
+  TABS.forEach(t => buckets[t.id]=[]);
+  for (const r of results) {
+    const tp = (r.doc.tp||'').toLowerCase();
+    const tab = TABS.find(t => t.types && t.types.map(x=>x.toLowerCase()).includes(tp));
+    (tab ? buckets[tab.id] : buckets['articles']).push(r);
+  }
+
+  // Render
+  const limit   = sPerPage.value==='all' ? Infinity : parseInt(sPerPage.value)||10;
+  const display = sDisplay.value;
+  const byYear  = sort !== 'relevancy';
+
+  TABS.forEach(t => {
+    const list = document.getElementById('list-'+t.id);
+    const more = document.getElementById('more-'+t.id);
+    const arr  = buckets[t.id];
+    const btn  = sTabBtns.querySelector(`[data-tab="${t.id}"]`);
+    if (btn) btn.textContent = `${t.label} (${arr.length})`;
+
+    list.innerHTML = '';
+    if (!arr.length) { list.innerHTML='<div class="s-no-results">No results</div>'; more.style.display='none'; return; }
+
+    const shown = limit===Infinity ? arr : arr.slice(0,limit);
+
+    if (t.id==='photos') {
+      const g = document.createElement('div'); g.className='s-gallery';
+      shown.forEach(r => g.appendChild(renderPhoto(r.doc)));
+      list.appendChild(g);
+    } else if (byYear) {
+      // Group by year with headers
+      const groups = {}, order = [];
+      shown.forEach(r => {
+        const y = getYear(r.doc.d);
+        if (!groups[y]) { groups[y]=[]; order.push(y); }
+        groups[y].push(r);
+      });
+      order.forEach(year => {
+        const group = document.createElement('div');
+        group.className = 's-year-group';
+        const header = document.createElement('div');
+        header.className = 's-year-header';
+        header.textContent = year;
+        group.appendChild(header);
+        if (display === 'card') {
+          const carousel = document.createElement('div');
+          carousel.className = 'Carousel';
+          groups[year].forEach(r => carousel.appendChild(renderCard(r.doc, true)));
+          group.appendChild(carousel);
+        } else {
+          groups[year].forEach(r => group.appendChild(
+            display==='compact' ? renderCompact(r.doc, true) : renderList(r.doc, true)
+          ));
+        }
+        list.appendChild(group);
+      });
+    } else {
+      // Relevancy — no year grouping
+      if (display === 'card') {
+        const wrap = document.createElement('div'); wrap.className='s-cards-wrap';
+        shown.forEach(r => wrap.appendChild(renderCard(r.doc, false)));
+        list.appendChild(wrap);
+      } else {
+        shown.forEach(r => list.appendChild(
+          display==='compact' ? renderCompact(r.doc, false) : renderList(r.doc, false)
+        ));
+      }
+    }
+
+    more.style.display = (limit!==Infinity && arr.length>shown.length) ? 'block' : 'none';
+  });
+}
+
+// ── Renderers ────────────────────────────────────────────────────────────────
+function permalink(p) { return p ? '/?='+encodeURIComponent(p) : '#'; }
+function thumbSrc(doc) {
+  if (doc.img) return '/content/'+esc(doc.img)+'/photo.avif';
+  if ((doc.tp||'').toLowerCase() === 'photos') return '/content/'+esc(doc.p)+'/photo.avif';
+  return '';
+}
+
+function renderList(doc, yearGrouped) {
+  const el = document.createElement('div');
+  el.className = 's-item';
+  const href = permalink(doc.p);
+  const date = yearGrouped ? fmtDateRange(doc.d, doc.de, true) : fmtDateRange(doc.d, doc.de, false);
+  el.innerHTML = `<div class="s-item-body">
+    <div class="s-item-title"><a href="${esc(href)}">${esc(doc.t||doc.p)}</a></div>
+    ${date ? `<div class="s-item-meta">${esc(date)}</div>` : ''}
+  </div>`;
+  return el;
+}
+
+function renderCompact(doc, yearGrouped) {
+  const el = document.createElement('div');
+  el.className = 'CompactCard';
+  const href = permalink(doc.p);
+  const date = fmtDateRange(doc.d, doc.de, yearGrouped);
+  const src = thumbSrc(doc);
+  el.innerHTML = `
+    <div class="CardImage">${src ? `<img src="${src}" alt="${esc(doc.t)}" loading="lazy" onerror="this.style.display='none'">` : ''}</div>
+    <div class="CardTextArea">
+      <div class="CardLink"><a href="${esc(href)}">${esc(doc.t||doc.p)}</a></div>
+      <div class="CardText">${esc(date)}</div>
+    </div>`;
+  return el;
+}
+
+function renderCard(doc, yearGrouped) {
+  const el = document.createElement('div');
+  el.className = 'Card';
+  const href = permalink(doc.p);
+  const date = fmtDateRange(doc.d, doc.de, yearGrouped);
+  const src = thumbSrc(doc);
+  el.innerHTML = `
+    <div class="CardImage">${src ? `<img src="${src}" alt="${esc(doc.t)}" loading="lazy" onerror="this.style.display='none'">` : ''}</div>
+    <div class="CardTextArea">
+      <div class="CardLink"><span><a href="${esc(href)}">${esc(doc.t||doc.p)}</a></span></div>
+      <div class="CardText">${esc(date)}</div>
+    </div>`;
+  return el;
+}
+
+function renderPhoto(doc) {
+  const el = document.createElement('div');
+  el.className = 's-gallery-item';
+  const href = permalink(doc.p);
+  const src = thumbSrc(doc);
+  el.innerHTML = `
+    <a href="${esc(href)}">${src ? `<img src="${src}" alt="${esc(doc.t)}" loading="lazy" onerror="this.style.display='none'">` : ''}</a>
+    <div class="s-gallery-item-title">${esc(doc.t)}</div>`;
+  return el;
+}
+
+// ── Init ─────────────────────────────────────────────────────────────────────
+await loadData();
+sPerPage.addEventListener('change', executeSearch);
+sSort.addEventListener('change', executeSearch);
+
+})();
+</script>
+</body>
+</html>

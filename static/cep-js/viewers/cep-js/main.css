@@ -1,153 +1,141 @@
 :root {
-  --blue: #233355;
-  --aqua: #39A481;
-  --white: #dbd1b1;
-  --deep-white: #62777a;
-  --yellow: #e0961f;
-  --orange: #D44A02;
-  --red: #D44A02;
-  --deep-orange: #993b08;
-  --brown: #2c2422;
+  --background: #233355;
+  --good-link: #39A481;
+  --text: #dbd1b1;
+  --primary: #e0961f;
+  --secondary: #D44A02;
+  --bad-link: #D44A02;
+  --border: #993b08;
+  --dark: #2c2422;
   --font-body: "Aleo";
   --font-display: "RockoFLF";
 }
 
 [data-theme="dark"] {
-  --blue: #000c26;
-  --aqua: #24795D;
-  --white: #ccc5ab;
-  --deep-white: #43666c;
-  --yellow: #ac7318;
-  --orange: #8C3000;
-  --red: #8C3000;
-  --deep-orange: #000000;
-  --brown: #000000;
+  --background: #000c26;
+  --good-link: #24795D;
+  --text: #ccc5ab;
+  --primary: #ac7318;
+  --secondary: #8C3000;
+  --bad-link: #8C3000;
+  --border: #000000;
+  --dark: #000000;
 }
 
 [data-theme="light"] {
-  --blue: #fff;
-  --aqua: #3b6bbf;
-  --white: #2f2e2a;
-  --deep-white: #b9b9b9;
-  --yellow: #959595;
-  --orange: #646464;
-  --red: #646464;
-  --deep-orange: #fff;
-  --brown: #c4c4c4;
+  --background: #fff;
+  --good-link: #3b6bbf;
+  --text: #2f2e2a;
+  --primary: #959595;
+  --secondary: #646464;
+  --bad-link: #646464;
+  --border: #fff;
+  --dark: #c4c4c4;
 }
 
 [data-theme="classic"] {
-  --blue: #1e2c4c;
-  --aqua: #d73333;
-  --white: #FFF;
-  --deep-white: #96e1ff;
-  --yellow: #4070D0;
-  --orange: #121d34;
-  --red: #d73333;
-  --deep-orange: #1e2c4c;
-  --brown: #121d34;
+  --background: #1e2c4c;
+  --good-link: #96e1ff;
+  --text: #FFF;
+  --primary: #4070D0;
+  --secondary: #121d34;
+  --bad-link: #d73333;
+  --border: #1e2c4c;
+  --dark: #121d34;
   --font-display: "sans-serif";
   --font-body: "sans-serif";
 }
 
 [data-theme="funnet"] {
-  --blue: #006bad;
-  --aqua: #3333ff;
-  --white: #000000ff;
-  --deep-white: #993399;
-  --yellow: #cccc66;
-  --orange: #ffef08;
-  --red: #ff0033;
-  --deep-orange: #b594bd;
-  --brown: #d94d04;
+  --background: #006bad;
+  --good-link: #3333ff;
+  --text: #000000ff;
+  --primary: #cccc66;
+  --secondary: #ffef08;
+  --bad-link: #ff0033;
+  --border: #b594bd;
+  --dark: #d94d04;
   --font-display: "Sylvar";
   --font-body: "helvetica";
 }
 
 [data-theme="showbiz"] {
-  --blue: #201f1f;
-  --aqua: #A66332;
-  --white: #dbd1b1;
-  --deep-white: #716666;
-  --yellow: #d2c72a;
-  --orange: #d29400;
-  --red: #df221c;
-  --deep-orange: #df221c;
-  --brown: #171515;
+  --background: #201f1f;
+  --good-link: #A66332;
+  --text: #dbd1b1;
+  --primary: #d2c72a;
+  --secondary: #d29400;
+  --bad-link: #df221c;
+  --border: #df221c;
+  --dark: #171515;
 }
 
 [data-theme="fnaf"] {
-  --blue: #101010ff;
-  --aqua: #acce18ff;
-  --white: #c6c6c6;
-  --deep-white: #5b5b5bff;
-  --yellow: #4a4a4aff;
-  --orange: #2a2a2aff;
-  --red: #cd0000ff;
-  --deep-orange: #000;
-  --brown: #000;
+  --background: #101010ff;
+  --good-link: #acce18ff;
+  --text: #c6c6c6;
+  --primary: #4a4a4aff;
+  --secondary: #2a2a2aff;
+  --bad-link: #cd0000ff;
+  --border: #000;
+  --dark: #000;
   --font-display: "Stalker";
 }
 
 [data-theme="pasqually"] {
-  --blue: #6D1A1F;
-  --aqua: #009047;
-  --white: #d9d7d1;
-  --deep-white: #9b6767;
-  --yellow: #d9d7d1;
-  --orange: #CD2F3A;
-  --red: #CD2F3A;
-  --deep-orange: #009047;
-  --brown: #2f1515;
+  --background: #6D1A1F;
+  --good-link: #009047;
+  --text: #d9d7d1;
+  --primary: #d9d7d1;
+  --secondary: #CD2F3A;
+  --bad-link: #CD2F3A;
+  --border: #009047;
+  --dark: #2f1515;
 }
 
 [data-theme="winter"] {
-  --blue: #1c3d4d;
-  --aqua: #47AEB3;
-  --white: #ccc;
-  --deep-white: #47757b;
-  --yellow: #3c8636;
-  --orange: #376A3C;
-  --red: #ce293aff;
-  --deep-orange: #4a7e86;
-  --brown: #1a1e37;
+  --background: #1c3d4d;
+  --good-link: #47AEB3;
+  --text: #ccc;
+  --primary: #3c8636;
+  --secondary: #376A3C;
+  --bad-link: #ce293aff;
+  --border: #4a7e86;
+  --dark: #1a1e37;
 }
 
 [data-theme="halloween"] {
-  --blue: #0e0611;
-  --aqua: #CE2929;
-  --white: #f2de73;
-  --deep-white: #795677;
-  --yellow: #9f5620;
-  --orange: #DF7426;
-  --red: #a20606ff;
-  --deep-orange: #24172f;
-  --brown: #220902;
+  --background: #0e0611;
+  --good-link: #CE2929;
+  --text: #f2de73;
+  --primary: #9f5620;
+  --secondary: #DF7426;
+  --bad-link: #a20606ff;
+  --border: #24172f;
+  --dark: #220902;
   --font-display: "Unutterable";
 }
 
 [data-theme="pride"] {
-  --blue: #7d0c4c;
-  --aqua: #ff7fc4;
-  --white: #dbd1b1;
-  --deep-white: #da62a3;
-  --yellow: #e38d59;
-  --orange: #de2d1e;
-  --red: #de2d1e;
-  --deep-orange: #b33227;
-  --brown: #2c2422;
+  --background: #7d0c4c;
+  --good-link: #ff7fc4;
+  --text: #dbd1b1;
+  --primary: #e38d59;
+  --secondary: #de2d1e;
+  --bad-link: #de2d1e;
+  --border: #b33227;
+  --dark: #2c2422;
 }
 
 [data-theme="anniversary"] {
-  --blue: #404040;
-  --aqua: #888;
-  --white: #d9d9d9;
-  --deep-white: #737373;
-  --yellow: #a2a2a2;
-  --orange: #686868;
-  --red: #464646ff;
-  --deep-orange: #2f2f2f;
-  --brown: #222;
+  --background: #404040;
+  --good-link: #888;
+  --text: #d9d9d9;
+  --primary: #a2a2a2;
+  --secondary: #686868;
+  --bad-link: #464646ff;
+  --border: #2f2f2f;
+  --dark: #222;
 }
 
 @font-face {
@@ -191,19 +179,19 @@
 }
 
 html{
-    background-color: var(--deep-orange);
+    background-color: var(--border);
 }
 
 body {
-  color: var(--white);
-  background-color: var(--blue);
+  color: var(--text);
+  background-color: var(--background);
   font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.5;
   margin: 0 auto;
   max-width: 65rem;
   min-width: 30rem;
-  border-color: var(--yellow);
+  border-color: var(--primary);
   border-style: solid;
   border-width: 3rem;
   border-radius: 8rem;
@@ -211,43 +199,55 @@ body {
   padding-right: 5rem;
   padding-top: 3rem;
   padding-bottom: 3rem;
-  outline-color: var(--white);
+  outline-color: var(--text);
   outline-width: 1.5rem;
   outline-style: solid;
-  box-shadow: 0 0 0 2rem var(--brown), inset 0 0 0 0.5rem var(--brown);
+  box-shadow: 0 0 0 2rem var(--dark), inset 0 0 0 0.5rem var(--dark);
   text-wrap: pretty;
   word-wrap: anywhere;
 }
 
 a {
-    color: var(--aqua);
-    text-decoration: none;
+  color: var(--good-link);
+  text-decoration: none;
 }
 
 .Logo img{
-    max-width:100%;
-    margin-left: auto;
-    margin-right:auto;
-    display:block;
-    margin-top: -2rem;
-    margin-bottom: -2rem;
+  max-width:100%;
+  margin-left: auto;
+  margin-right:auto;
+  display:block;
+  margin-top: -2rem;
+  margin-bottom: -2rem;
 }
 
 .FlavorText{
-    font-family: var(--font-display);
-    color:var(--white);
-    text-align: center;
-    font-size: 1.25rem;
-    letter-spacing: .1rem;
+  font-family: var(--font-display);
+  color:var(--text);
+  text-align: center;
+  font-size: 1.25rem;
+  letter-spacing: .1rem;
+}
+
+.FlavorText strong {
+    animation: letterSpacing 3s ease-in-out infinite;
+    color: var(--primary);
+}
+
+@keyframes letterSpacing {
+    0%   { letter-spacing: 0; }
+    50%  { letter-spacing: 0.2rem; }
+    100% { letter-spacing: 0; }
 }
 
 .FlavorText sup{
-    color:var(--light-gray);
+  color:var(--light-gray);
 }
 
 .SplashText {
   position: relative;
-  color: var(--white);
+  color: var(--dark);
+  opacity: 50%;
   text-align: center;
   transform: translate(0%, -4.25rem);
   font-family: var(--font-display);
@@ -256,27 +256,116 @@ a {
 }
 
 .HorizontalButtonHolder{
-    display: grid;
-    grid-auto-flow: column;
-    gap: 1rem;
-    margin-top:1rem;
+  display: grid;
+  grid-auto-flow: column;
+  gap: 1rem;
+  margin-top:1rem;
 }
 
 .Button {
-    background-color: var(--deep-gray);
-    color:var(--green);
-    font-family: var(--font-display);
-    font-size: 2rem;
-    border-width: 0.25rem;
-    border-style: solid;
-    border-color: var(--gray);
-    letter-spacing: .1rem;
-    transition: transform 0.15s ease;
+  background-color: var(--deep-gray);
+  color:var(--green);
+  font-family: var(--font-display);
+  font-size: 2rem;
+  border-width: 0.25rem;
+  border-style: solid;
+  border-color: var(--gray);
+  letter-spacing: .1rem;
+  transition: transform 0.15s ease;
 }
 
 .Button:hover{
-    background-color: var(--gray);
-    border-color: var(--green);
-    color:var(--white);
-    transform: translateY(-0.25rem);
+  background-color: var(--gray);
+  border-color: var(--green);
+  color:var(--text);
+  transform: translateY(-0.25rem);
+}
+
+.Card{
+  border-radius: 1rem;
+  min-width: 12.5rem;
+  max-width: 12.5rem;
+  transition: transform 0.15s ease;
+  border-color: var(--dark);
+  border-style: solid;
+  border-width: .25rem;
+  box-shadow: 0 0 0 0.25rem var(--secondary);
+  overflow: hidden;
+}
+
+.Card:hover{
+  box-shadow: 0 0 0 0.25rem var(--good-link);
+  transform: translateY(-0.25rem);
+}
+
+.Card img{
+  transition: transform 0.15s ease;
+}
+
+
+.Card:hover img {
+  transform: scale(1.1);
+}
+
+.CardLink{
+  mask-image: linear-gradient(to right,black 0%,black 90%,transparent 100%);
+}
+
+.CardText {
+  color: color-mix(in srgb, var(--text) 50%, transparent);
+  font-size: 0.8rem;
+}
+
+.CardText strong {
+    color: var(--primary);
+}
+
+.CardLink span{
+  display: inline-block;
+  padding-right: 2rem;
+  transform: translateX(0);
+  transition: none;
+}
+
+.Card:hover span{
+  transition: transform 2s linear;
+  transform: translateX(-75%);
+}
+
+.CardTextArea{
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 0.75rem;
+  margin-right: 0.75rem;
+  line-height: 1.75rem;
+}
+
+.CardImage {
+  height:8rem;
+  overflow: hidden;
+}
+.CardImage img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+}
+
+.Carousel{
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.5rem;
+  padding-bottom: 1.5rem;
+  scroll-behavior: smooth;
+  white-space: nowrap;
+}
+
+.Footer{
+  text-align: center;
+  color: color-mix(in srgb, var(--text) 50%, transparent);
+}
+
+.Footer a{
+  color: var(--good-link);
 }
