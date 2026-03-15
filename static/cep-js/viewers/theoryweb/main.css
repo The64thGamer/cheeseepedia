@@ -16,12 +16,12 @@
 
 @font-face {
     font-family: "Aleo";
-    src: url('/viewers/theoryweb/assets/Fonts/Aleo-Regular.otf') format('opentype');
+    src: url('/viewers/cep-js/assets/Fonts/Aleo-Regular.otf') format('opentype');
 }
 
 @font-face {
     font-family: "Stalker";
-    src: url('/viewers/theoryweb/assets/Fonts/stalker1.ttf') format('truetype');
+    src: url('/viewers/cep-js/assets/Fonts/stalker1.ttf') format('truetype');
 }
 
 html{

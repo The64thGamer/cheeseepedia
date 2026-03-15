@@ -3,13 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/viewers/theoryweb/main.css">
 </head>
 <body>
   <div id="app"></div>
   <script type="module">
     const params = new URLSearchParams(window.location.search);
-    const viewer = params.get('v') || 'theoryweb/default';
+    const viewer = params.get('v') || 'cep-js/default';
 
     const mod = await import(`/viewers/${viewer}.js`);
     mod.render(params, document.getElementById('app'));
