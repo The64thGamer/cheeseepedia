@@ -1,0 +1,4 @@
+***The Bite of 87' Shirt*** was a {{< wiki-link "Five Nights at Freddy's" >}} shirt that had a limited run through Spencer's in 2017 before having the product pulled by Scott Cawthon. {{< cite 1 >}}
+
+## History
+The shirt would be first discovered on January 9th, 2017 in a Canadian Spencer's and posted to r/fivenightsatfreddys. The post and its replies would comment on the direct association of a character with the Bite of '87 monacer implying a possible confirmation of its lore. The attention would lead to Scott Cawthon commenting "Ug. That was a rejected design for this very reason. Any info on where this shirt was being sold?". Users noted they couldn't find the shirt online at the time of the post. The shirt was likely pulled entirely after this point, and one hasn't been found since. The original poster also seemingly did not purchase the shirt.{{< cite 1 >}}
