@@ -1,0 +1,1 @@
+Items taken from Huntington Beach after its closure.
