@@ -1,0 +1,1 @@
+A promo photo advertising plushies meant for use with the ShowBiz Prize Place.
