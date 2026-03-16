@@ -1,0 +1,1 @@
+The ***CEC Adventure World Standard Layout*** is the initial design created for Adventure World location.
