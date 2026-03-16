@@ -1,0 +1,1 @@
+The Beagles promotional photo.
