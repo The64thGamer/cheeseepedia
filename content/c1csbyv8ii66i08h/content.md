@@ -1,0 +1,1 @@
+Exterior of Antioch Center and Chuck E. Cheese's during demolition.
