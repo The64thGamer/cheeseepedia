@@ -1,0 +1,1 @@
+The ***2020 COVID-19 Removals*** was an initiative to remove the {{< wiki-link "Skytubes" >}} and {{< wiki-link "Ticket Muncher" >}} from all locations due to the COVID-19 pandemic. It would last from Fall of 2020 to February of 2021.
