@@ -1,0 +1,1 @@
+Parma's Studio C bot. One of the final Studio C animatronics to wear the full 'Cool Chuck' outfit
