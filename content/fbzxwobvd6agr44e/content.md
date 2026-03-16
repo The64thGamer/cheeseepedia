@@ -1,0 +1,1 @@
+Winchester Grand-Opening Advertisement
