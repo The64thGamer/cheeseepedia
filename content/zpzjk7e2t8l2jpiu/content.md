@@ -1,0 +1,1 @@
+Citrus Heights Little Miss Pageant Winners Denise Bean and Susan Sullivan at the Citrus Heights opening. Lounge Helen Henny sits behind them.
