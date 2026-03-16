@@ -1,0 +1,1 @@
+The ***PTT Standard Layout*** was the initial design created for early Pizza Time Theatre locations before the {{< wiki-link "PTT 1981 Exterior Update" >}}. Some early layout stores would recieve the 1981 update as a remodel, while others stayed the same until the {{< wiki-link "SPT 1980's Remodel Program" >}}.
