@@ -1,0 +1,1 @@
+'Every Game is Only One Point' sign.
