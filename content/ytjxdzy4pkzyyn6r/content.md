@@ -1,0 +1,1 @@
+Front Exterior of Store
