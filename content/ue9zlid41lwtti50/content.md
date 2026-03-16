@@ -1,0 +1,1 @@
+Footage of January 2006: Segment 4 at Whitehall, PA's 3-Stage

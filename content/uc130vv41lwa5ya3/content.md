@@ -1,0 +1,1 @@
+The head used in the notorious CEC movie, *Chuck E. Cheese In The Galaxy 5000*,{{< cite 1 >}} is the {{< wiki-link "Articulated Munch Walkaround" >}} that was created in 1996 by David "Billy Bob" Irvin. The head is seen paired with his standard outfit and a yellow hat that was only seen in the movie.
