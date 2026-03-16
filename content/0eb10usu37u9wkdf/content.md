@@ -1,0 +1,128 @@
+**Chuck E. Cheese:** 
+
+Hi everybody
+
+**All:** 
+
+Hi
+
+**Chuck E. Cheese:** 
+
+Like the man said, I’m Chuck E. Cheese and this doohickey is my awesome adventure machine
+
+**Jasper T. Jowls:** 
+
+It can even show you some of the most awesome adventures that we’ve ever had
+
+**Chuck E. Cheese:** 
+
+And if you just watch the screen, you’ll see how it all started when I asked Pasqually what was wrong back in the kitchen
+
+**Pasqually:** 
+
+We’re all out of cheese! Even the greatest chef in the world can’t make pizzas without cheese! What are we gonna do?
+
+**Chuck E. Cheese:** 
+
+There was only one thing we could do. We had to get more cheese and plenty of it
+
+**Jasper T. Jowls:** 
+
+So, I figured somewhere out in space was mozzarella cheese. All we had to do was go and get it!
+
+**Chuck E. Cheese:** 
+
+And that’s just what we did. So watch the adventure machine screen and hang onto your space helmets. You’re about to boldly go where no audience has gone before. Prepare for takeoff. Hypersonic wings. Check. Futon wrap jet engines. Check. ? Check. Alright. Y’all ready for this? Wow, we’re on our way. Woah, duck! Uh oh, more traffic. That’s better. Outer space, here we come. Uh oh, hang on. Now what? I wonder where my friends are
+
+**Jasper T. Jowls:** 
+
+On your tail, Chuck E.
+
+**Helen Henny:** 
+
+Right here
+
+**Mr. Munch:** 
+
+Oh yeah, space is the place
+
+**Pasqually:** 
+
+There must be an easier way to get the cheese
+
+**Chuck E. Cheese:** 
+
+Hey, Pasqually, do you have an anti-matter engine in that thing?
+
+**Pasqually:** 
+
+Actually, it’s an anti-pasta engine
+
+**Helen Henny:** 
+
+Don’t look now, boys, but I think we’re headed straight for Saturn
+
+**Jasper T. Jowls:** 
+
+Saturn? That has a familiar ring to it
+
+
+**Chuck E. Cheese:** 
+
+Yeah we’re gonna go right through the ring. Y'all ready for this?
+
+**All:** 
+
+Woah
+
+**Mr. Munch:** 
+
+Somebody tell me does this flight have an onboard snack?
+
+**Chuck E. Cheese:** 
+
+Hey guys, I see the mozzarella moon straight ahead. Better peel off for landing. See you on the ground. Going down. This is the place, alright. And here comes everyone else
+
+**Mr. Munch:** 
+
+Man oh man, just look at all of this cheese. I wish I had me a really really big cracker
+
+**Pasqually:** 
+
+This is magnifico! So much cheese and it’s all ours
+
+**Chuck E. Cheese:** 
+
+Yep, it’s one small step for man, one giant leap for rodents
+
+**Helen Henny:** 
+
+Boys, I think we better cheese it
+
+**Chuck E. Cheese:** 
+
+Oh no, it’s robot cheese slicers. I sure hope our ship can take it. Uh oh, there goes the power. Alright, now let’s get out of here. Blast off. Yeah, did everybody else get out ok?
+
+**Jasper T. Jowls:** 
+
+Sure did
+
+**Pasqually:** 
+
+So, that’s one large cheese to go, eh?
+
+**Chuck E. Cheese:** 
+
+And at this speed, we’ll be there in 30 seconds or less. Here comes the earth. See you later, guys
+
+**All:** 
+
+Bye
+
+**Chuck E. Cheese:** 
+
+There’s my restaurant. Fasten your seatbelts, everybody. Phew, now that’s what I call and adventure. And now that we’ve got enough cheese to make pizza, I think I could use a little pizza and quiet. But don’t go too far, it’ll be time for another adventure real soon
+
+**Pasqually:** 
+
+Oh no, Chuck E. Now we’re all out of tomato sauce! What are we gonna do?
