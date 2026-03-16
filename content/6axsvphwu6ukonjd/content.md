@@ -1,0 +1,1 @@
+Knoxville's Campground stage from around 1988
