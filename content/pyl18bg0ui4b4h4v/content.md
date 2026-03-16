@@ -1,0 +1,1 @@
+Magic Stage soon after installation.
