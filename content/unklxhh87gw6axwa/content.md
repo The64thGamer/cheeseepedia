@@ -1,0 +1,1 @@
+\*Can't Bring\* is a 2008 Chuck E. Cheese commercial that shows how parents can go online and plan a fundraising night for a school at a local Chuck E. Cheese's. The main part of the commercial is the fact that schools got 15% of the groups sales for the night.
