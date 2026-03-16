@@ -1,0 +1,1 @@
+The former CU 1-Stage at [[Columbus, GA (3201 Macon Rd)]] on December 18, 2016. (Now Removed / Replaced, Now 2.0)
