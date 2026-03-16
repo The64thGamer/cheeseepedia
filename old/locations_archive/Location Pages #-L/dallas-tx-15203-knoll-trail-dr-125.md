@@ -1,0 +1,10 @@
++++
+title = "Dallas, TX (15203 Knoll Trail Dr #125)"
+draft = false
+tags = ["Locations"]
+categories = ["Pizza Time Theatre"]
+pageThumbnailFile = ""
+startDate = "1981-00-00"
+endDate = ""
+contributors = []
++++
