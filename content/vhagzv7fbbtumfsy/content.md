@@ -1,0 +1,2 @@
+Just a Random CEC fan in Wisconsin
+Pages i Created, {{< wiki-link "Pedro (Guest Retrofit)" >}}, {{< wiki-link "Maple Heights, OH (5376 Northfield Rd)" >}}{{< cite 1 >}}, {{< wiki-link "Appleton, WI (2424 W College Ave)" >}}, {{< wiki-link "Racine, WI (5612 Durand Ave)" >}}, {{< wiki-link "Janesville, WI" >}}, {{< wiki-link "Maryville, TN (141 Foothills Mall)" >}}, {{< wiki-link "Hampton, VA (5 Towne Centre Way)" >}}, {{< wiki-link "Johnson City, NY (365 Harry L Dr)" >}}, {{< wiki-link "Lafayette, LA (3221 Ambassador Caffery Pkwy)" >}}.
