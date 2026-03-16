@@ -1,0 +1,1 @@
+Simpsons Soccer Dismantled for parts at Eastgate. Balloon Pop was also used for parts removed and in the tech room by this point. (September 22, 2019)
