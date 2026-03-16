@@ -1,0 +1,1 @@
+Unknown exterior taken from advertisement.
