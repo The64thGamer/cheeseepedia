@@ -1,1 +1,0 @@
-Bayamon prior to renovations beginning.

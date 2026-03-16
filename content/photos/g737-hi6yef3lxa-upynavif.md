@@ -1,8 +1,0 @@
-+++
-title = "g737_HI6YEF3Lxa_UPYn.avif"
-draft = false
-type = "Photos"
-tags = ["ShowBiz Pizza Place", "Crazy Colander Head Night (Event)"]
-
-startDate = ""
-+++

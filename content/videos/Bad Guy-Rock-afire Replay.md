@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/RrahpuFlhC0"
-startDate = "2021-08-04"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Bad Guy-Rock-afire Replay

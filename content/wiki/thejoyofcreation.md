@@ -1,9 +1,0 @@
-+++
-title = "THE JOY OF CREATION"
-draft = false
-type = "Video Games"
-tags = ["Five Nights at Freddy's"]
-startDate = "2024-08-02"
-contributors = ["The 64th Gamer"]
-citations = ["https://steamdb.info/app/3107070/"]
-+++

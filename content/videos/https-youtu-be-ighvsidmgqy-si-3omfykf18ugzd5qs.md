@@ -1,8 +1,0 @@
-+++
-title = "https://youtu.be/igHvsidMGQY?si=3OmFYKF18uGzd5qs"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "Working For A Living"]
-+++
-
-Working for a Living | Retromation

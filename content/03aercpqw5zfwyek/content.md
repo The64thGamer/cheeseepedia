@@ -1,1 +1,0 @@
-Sweepstakes Advertisement, Hawaii

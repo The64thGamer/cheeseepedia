@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/uWmg6hJq-AY"
-startDate = "2022-07-09"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Lights Up - Harry Styles [Rockafire Replay]

@@ -1,8 +1,0 @@
-+++
-title = "portableliveshowsmarch00newpic.avif"
-
-type = "Photos"
-tags = ["Chuck E. Cheese's", "Chuck E. Cheese's Portable Live Show"]
-+++
-
-Photo of Portable Live Show CD

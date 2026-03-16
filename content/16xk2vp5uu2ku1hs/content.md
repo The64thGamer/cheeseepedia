@@ -1,1 +1,0 @@
-Purple Floppy Chuck E.

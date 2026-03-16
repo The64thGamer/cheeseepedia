@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/k4OWKtDeVqc"
-startDate = "2024-10-12"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "April 2006 Show", "RetroMation", "Concept Unification Stage"]
-+++
-
-3-Stage, April 2006: Segment 1, Official Signals in Retromation

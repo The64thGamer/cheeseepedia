@@ -1,8 +1,0 @@
-+++
-title = "tcuN633XbBqVVeTTTpXw.avif"
-draft = false
-type = "Photos"
-tags = ["Chuck E. Cheese's", "Chuck E. Cheese's Pizza Delivery"]
-
-startDate = ""
-+++

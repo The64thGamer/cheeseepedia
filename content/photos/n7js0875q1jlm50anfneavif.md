@@ -1,8 +1,0 @@
-+++
-title = "n7Js0875Q1jLM50aNFNe.avif"
-draft = false
-type = "Photos"
-tags = ["Pizza Time Theatre", "Kiddie Dog (PTT Menu Item)"]
-
-startDate = ""
-+++

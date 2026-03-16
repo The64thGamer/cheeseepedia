@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/yDf-Hav7Dw0"
-startDate = "2021-04-17"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Hit The Cymbal - Rolfe And Earl

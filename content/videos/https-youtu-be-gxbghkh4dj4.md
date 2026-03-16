@@ -1,8 +1,0 @@
-+++
-title = "https://youtu.be/gXBgHKH4Dj4"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "San Antonio, TX (6874 Ingram Rd)"]
-+++
-
-Video on the history of San Antonio, TX (6874 Ingram Rd)

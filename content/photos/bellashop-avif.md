@@ -1,9 +1,0 @@
-+++
-title = "bellashop.avif"
-startDate = "2025-00-00"
-
-type = "Photos"
-tags = ["Chuck E. Cheese's", "Garland, TX (4992 State Hwy 190)"]
-+++
-
-Bella's Snack Shop

@@ -1,1 +1,0 @@
-Destroying a Guitar Smashable

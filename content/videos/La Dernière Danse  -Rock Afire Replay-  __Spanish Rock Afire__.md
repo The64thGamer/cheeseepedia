@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/jp5VPnRs66w"
-startDate = "2020-12-02"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-La Dernière Danse  -Rock Afire Replay-  //Spanish Rock Afire//

@@ -1,8 +1,0 @@
-+++
-title = "https://youtu.be/KFifqHZUiuk?si=QMuDtBPIfKl6oPXY"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "Planes, Trains, And Automobiles"]
-+++
-
-Planes, Trains, and Automobiles | Retromation

@@ -1,1 +1,0 @@
-Studio C Floppy Disc

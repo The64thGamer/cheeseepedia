@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/Ei5qxue7Wrk"
-startDate = "2002-07-21"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "New Orleans, LA (3701 General DeGaulle Dr)", "Concept Unification Stage", "Summer 2002 Show"]
-+++
-
-Birthday party at New Orleans, LA (3701 General DeGaulle Dr) in 2002. 

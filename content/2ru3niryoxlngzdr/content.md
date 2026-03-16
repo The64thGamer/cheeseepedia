@@ -1,1 +1,0 @@
-Helen Henny's Description

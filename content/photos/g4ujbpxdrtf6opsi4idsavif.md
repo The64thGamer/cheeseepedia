@@ -1,8 +1,0 @@
-+++
-title = "g4ujBpXDRtf6OPsI4Ids.avif"
-draft = false
-type = "Photos"
-tags = ["Pizza Time Theatre", "Tallahassee, FL (1155 Apalachee Pkwy)"]
-
-startDate = ""
-+++

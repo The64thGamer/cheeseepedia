@@ -1,8 +1,0 @@
-+++
-title = "9VaSENm5ZV8wVtE6KQFw.avif"
-draft = false
-type = "Photos"
-tags = ["Chuck E. Cheese's", "Holiday Special 1992"]
-
-startDate = ""
-+++

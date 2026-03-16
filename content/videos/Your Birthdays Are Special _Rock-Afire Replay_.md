@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/daQO6ChgmG4"
-startDate = "2020-11-04"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Your Birthdays Are Special (Rock-Afire Replay)

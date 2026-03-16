@@ -1,9 +1,0 @@
-+++
-title = "Irving_1_stage_full.avif"
-startDate = "2000-00-00"
-
-type = "Photos"
-tags = ["Chuck E. Cheese's", "1-Stage", "Irving, TX (3903 W Airport Fwy)"]
-+++
-
-The 1-Stage at Irving, TX (3903 W Airport Fwy).

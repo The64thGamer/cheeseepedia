@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/V-ziru7PLxk"
-startDate = "2022-02-18"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "Darien, IL (7409 Cass Ave)"]
-+++
-
-Store tour of Darien, IL in 2022. 

@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/MVXRXdP99WY"
-startDate = "2022-02-13"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Rock-afire Replay - I'm Coming Back

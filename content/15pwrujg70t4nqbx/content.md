@@ -1,1 +1,0 @@
-PTT Yellow Variant

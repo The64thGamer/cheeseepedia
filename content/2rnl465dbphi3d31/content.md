@@ -1,1 +1,0 @@
-Mr. Munch with his nametag seen in the 'Real People' 1979 Chuck E. Cheese's Pizza Time Theatre news broadcast. https://www.youtube.com/watch?v=4tgH_eThNZI

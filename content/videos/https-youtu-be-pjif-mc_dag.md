@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/Pjif-MC_Dag"
-startDate = "2014-04-06"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "San Antonio, TX (6874 Ingram Rd)"]
-+++
-
-First footage of the botless Circles of Light stage at San Antonio, TX (Ingram Rd)

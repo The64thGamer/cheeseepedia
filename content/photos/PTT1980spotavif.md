@@ -1,9 +1,0 @@
-+++
-title = "PTT1980spot.avif"
-citations = ["https://www.youtube.com/watch?v=EYYyhySXQ48"]
-
-type = "Photos"
-tags = ["Pizza Time Theatre", "Pizza Time Theatre 1980 Spot (Commercial)"]
-+++
-
-Screenshot of 'Pizza Time Theatre Spot' (1980)

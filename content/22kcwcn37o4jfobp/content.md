@@ -1,1 +1,0 @@
-Liseberg Gorilla Pianist

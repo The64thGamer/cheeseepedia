@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/x0wGWZ2Z2CM"
-startDate = "2021-08-31"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Friday-Rockafire Replay

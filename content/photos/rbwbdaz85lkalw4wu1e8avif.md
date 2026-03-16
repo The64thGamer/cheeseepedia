@@ -1,8 +1,0 @@
-+++
-title = "rBwBdaz85LKAlW4WU1e8.avif"
-draft = false
-type = "Photos"
-tags = ["ShowBiz Pizza Place", "Crazy Colander Head Night (Event)"]
-
-startDate = ""
-+++

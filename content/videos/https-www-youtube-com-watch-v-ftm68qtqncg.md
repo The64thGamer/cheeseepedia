@@ -1,9 +1,0 @@
-+++
-title = "https://www.youtube.com/watch?v=Ftm68QTqnCg"
-startDate = "2009-11-15"
-
-type = "Videos"
-tags = ["ShowBiz Pizza Place", "Creative Engineering", "Country Klunk", "Uncle Klunk (Animatronic)"]
-+++
-
-A privately owned Uncle Klunk with missing cosmetics performing 'Ricky Scaggs Medley'.

@@ -1,8 +1,0 @@
-+++
-title = "https://youtu.be/FkAh5wU_s4w?si=BpRftAJdHa6Z1nCG"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "Chuck E's Variety Show - Best of 1999"]
-+++
-
-January 2000 | Party Time Productions

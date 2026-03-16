@@ -1,1 +1,0 @@
-Studio C Install CD

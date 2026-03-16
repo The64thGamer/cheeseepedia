@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/XCBnDxb8eK8"
-startDate = "2021-03-06"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Pachacuti - Rock-afire Replay Performance

@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/Erg3Eg3d-E8"
-startDate = "1987-00-00"
-
-type = "Videos"
-tags = ["ShowBiz Pizza Place", "Billy Bob Interactive Animation", "Darien, IL (7409 Cass Ave)", "Billy Bob (Animatronic)", "3-Birthday Reel", "Classic Stage"]
-+++
-
-Birthday party at the Darien, IL ShowBiz. Contains footage of the Billy Bob Interactive Animation. 

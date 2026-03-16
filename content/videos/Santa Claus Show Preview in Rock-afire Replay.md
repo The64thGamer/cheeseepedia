@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/bTqCyFwuR2c"
-startDate = "2020-12-23"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Santa Claus Show Preview in Rock-afire Replay

@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/vRGDaS2dMu8"
-startDate = "2020-12-10"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-For Ivy - COIN - Sort It out - Rock Afire Replay

@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/nPCgqdE508I"
-startDate = "2020-10-07"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Billy Bob Plays Bear Necessities

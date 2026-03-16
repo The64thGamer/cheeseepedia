@@ -1,9 +1,0 @@
-+++
-title = "simulator-mony-mony.avif"
-startDate = "2025-00-00"
-
-type = "Photos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "The Rock-afire Simulator"]
-+++
-
-Screenshot from The Rock-afire Simulator.

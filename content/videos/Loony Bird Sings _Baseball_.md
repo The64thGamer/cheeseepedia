@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/j78NuhJBY88"
-startDate = "2021-02-19"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Loony Bird Sings "Baseball"

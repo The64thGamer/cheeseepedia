@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/fFUskNuqhg4"
-startDate = "2021-09-27"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-High Hopes Rock-afire Replay

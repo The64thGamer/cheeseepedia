@@ -1,1 +1,0 @@
-Alternate Photo

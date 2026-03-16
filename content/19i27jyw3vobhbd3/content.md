@@ -1,1 +1,0 @@
-***San Leandro, CA (E. 14th St. at 155th Ave.)*** was an {{< wiki-link "Atari Family Game Center" >}} that opened in 1974 at the Bayfair Regional Shopping Center, and closed at an unknown time.

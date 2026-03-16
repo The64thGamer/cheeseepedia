@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/FTvE25C9ETI"
-startDate = "2022-02-16"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Beatle's Birthday

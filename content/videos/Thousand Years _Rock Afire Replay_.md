@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/r1eVFx8mRPg"
-startDate = "2022-04-22"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Thousand Years (Rock Afire Replay)

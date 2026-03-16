@@ -1,9 +1,0 @@
-+++
-title = "5be64daf2ed787ec.avif"
-draft = false
-type = "Photos"
-tags = ["Chuck E. Cheese's", "2014 Large Helen Plush"]
-
-startDate = "2014-00-00"
-citations = []
-+++

@@ -1,3 +1,0 @@
-The ***Pizza Time Theatre 1979 Animated Spot* is an unnamed 1979 commercial featuring an animated Chuck E. Cheese, Pasqually, and a kid.
-
-The commercial would become known in the 2010's after Smitty's Super Service Station got ahold of a binder full of completed cels and sketches. In August of 2022 scans of the cels would be leaked online, showing the entirety of the collection. Many of the cels could be put together to form back the animation, but many were also missing. 

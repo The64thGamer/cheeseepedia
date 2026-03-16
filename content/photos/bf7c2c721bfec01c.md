@@ -1,9 +1,0 @@
-+++
-title = "bf7c2c721bfec01c.avif"
-draft = false
-type = "Photos"
-tags = ["Pizza Time Theatre", "1980 PTT Stein Mug"]
-
-startDate = "1980-00-00"
-citations = []
-+++

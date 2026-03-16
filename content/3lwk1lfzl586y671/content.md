@@ -1,1 +1,0 @@
-Screenshot of 'More Cheese'

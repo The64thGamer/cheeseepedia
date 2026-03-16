@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/DZbpKbdZf98"
-startDate = "2018-09-02"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "San Bernardino, CA (955 South E St)", "2-Stage", "Chuck E. Cheese's Show 5 2018"]
-+++
-
-Chuck E. World preformed at San Bernardino, CA 

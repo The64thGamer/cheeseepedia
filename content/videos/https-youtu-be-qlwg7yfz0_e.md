@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/qlWG7YfZ0_E"
-startDate = "1986-00-00"
-
-type = "Videos"
-tags = ["Pizza Time Theatre", "Modesto, CA (3037 Sisk Rd)", "Cyberamics Balcony Stage"]
-+++
-
-Modesto, CA Balcony Stage around Christmas time

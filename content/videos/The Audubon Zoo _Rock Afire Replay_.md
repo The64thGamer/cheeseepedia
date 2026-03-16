@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/PZIqAyxQtAA"
-startDate = "2021-05-16"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-The Audubon Zoo (Rock Afire Replay)

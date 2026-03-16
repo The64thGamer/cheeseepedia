@@ -1,1 +1,0 @@
-Chuck Vest Fabric Scan

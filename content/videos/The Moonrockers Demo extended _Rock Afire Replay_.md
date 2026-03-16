@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/JpdsqPs2sog"
-startDate = "2021-05-15"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-The Moonrockers Demo extended (Rock Afire Replay)

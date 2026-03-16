@@ -1,1 +1,0 @@
-The New 'Avenger' outfit.

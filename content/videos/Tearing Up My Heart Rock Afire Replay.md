@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/gU2AfJ2WNVA"
-startDate = "2021-03-09"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Tearing Up My Heart Rock Afire Replay

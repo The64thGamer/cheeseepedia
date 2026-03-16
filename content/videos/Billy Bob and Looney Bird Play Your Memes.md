@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/U0sczv5Br6o"
-startDate = "2020-09-28"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Billy Bob and Looney Bird Play Your Memes

@@ -1,1 +1,0 @@
-Chuck E. Early Walkarounds featuring the second mask design with a more open mouth at Fantasy Forest.

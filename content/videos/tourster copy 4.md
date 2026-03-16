@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/cGy8MTpBDWE"
-startDate = "2023-06-27"
-
-type = "Videos"
-tags = ["Peter Piper Pizza", "Kansas City, MO (8809 State Line Rd)"]
-+++
-
-Footage of Kansas City Peter Piper Pizza Opening

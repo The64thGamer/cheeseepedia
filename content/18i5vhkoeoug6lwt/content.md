@@ -1,1 +1,0 @@
-VHS Front Label

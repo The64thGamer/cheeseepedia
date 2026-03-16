@@ -1,8 +1,0 @@
-+++
-title = "whatilikelive01.avif"
-
-type = "Photos"
-tags = ["Chuck E. Cheese's", "What I Like About You 2001"]
-+++
-
-Screenshot of "What I Like About You 2001" live show

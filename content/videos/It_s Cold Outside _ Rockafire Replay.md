@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/ErHumVY9_-E"
-startDate = "2022-07-09"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-It's Cold Outside | Rockafire Replay

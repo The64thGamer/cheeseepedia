@@ -1,8 +1,0 @@
-+++
-title = "https://youtu.be/VMT-KFetCR0?si=94a0xLrRhT_iCZjt"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "CEC Home for the Holidays"]
-+++
-
-Home for the Holidays | Retromation

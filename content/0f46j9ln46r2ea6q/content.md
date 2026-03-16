@@ -1,1 +1,0 @@
-Winchester Pasqually Promo Photo

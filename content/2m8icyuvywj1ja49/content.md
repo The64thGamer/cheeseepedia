@@ -1,1 +1,0 @@
-Brentwood's sassy headshots.

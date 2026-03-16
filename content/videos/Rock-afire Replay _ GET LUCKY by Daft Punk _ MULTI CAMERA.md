@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/HgrAntuRU-Q"
-startDate = "2020-11-23"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Rock-afire Replay | GET LUCKY by Daft Punk | MULTI CAMERA

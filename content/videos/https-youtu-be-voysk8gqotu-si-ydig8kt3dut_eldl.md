@@ -1,8 +1,0 @@
-+++
-title = "https://youtu.be/VOySK8gQotU?si=yDiG8KT3Dut_eldl"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "CEC American Pride"]
-+++
-
-American Pride 1991 | Retromation

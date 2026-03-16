@@ -1,9 +1,0 @@
-+++
-title = "eeb3ec3d6cb170a5.avif"
-draft = false
-type = "Photos"
-tags = ["Chuck E. Cheese's", "2006 Fiesta Chuck"]
-
-startDate = "2006-00-00"
-citations = []
-+++

@@ -1,8 +1,0 @@
-+++
-title = "_POmHKPtjdMfsBM1uqbm.avif"
-draft = false
-type = "Photos"
-tags = ["ShowBiz Pizza Place", "SPP Kids - Tune Machine"]
-
-startDate = ""
-+++

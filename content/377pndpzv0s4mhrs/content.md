@@ -1,1 +1,0 @@
-January 2006: Segment 4, Official Signals in Retromation CU 1-Stage

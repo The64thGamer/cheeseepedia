@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/S7FFYWQJHyI"
-startDate = "2021-01-21"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Rock Afire Replay - Footloose

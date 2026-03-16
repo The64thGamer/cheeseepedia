@@ -1,1 +1,0 @@
-Liseberg Louis Armstrong Monkey

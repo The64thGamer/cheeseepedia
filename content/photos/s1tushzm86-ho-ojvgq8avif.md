@@ -1,8 +1,0 @@
-+++
-title = "s1TUSHzM86_Ho_ojVgq8.avif"
-draft = false
-type = "Photos"
-tags = ["Chuck E. Cheese's", "Fairbanks, AK (600 Old Steese Hwy)"]
-
-startDate = ""
-+++

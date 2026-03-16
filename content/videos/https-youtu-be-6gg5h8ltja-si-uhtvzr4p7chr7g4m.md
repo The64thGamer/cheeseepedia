@@ -1,8 +1,0 @@
-+++
-title = "https://youtu.be/-6GG5H8LtJA?si=UhTVZr4p7chr7G4m"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "May 2011 Show"]
-+++
-
-May 2011 | Rock Afire Reboot

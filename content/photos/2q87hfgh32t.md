@@ -1,8 +1,0 @@
-+++
-title = "2q87hfgh32t.avif"
-draft = false
-type = "Photos"
-tags = ["ShowBiz Pizza Place", "3 B'Day Shows Showtape"]
-
-startDate = "2024-10-20"
-+++

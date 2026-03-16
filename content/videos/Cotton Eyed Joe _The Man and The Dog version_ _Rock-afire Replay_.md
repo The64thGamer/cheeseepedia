@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/p2uxdGMsFX8"
-startDate = "2021-12-13"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Cotton Eyed Joe (The Man and The Dog version) (Rock-afire Replay)

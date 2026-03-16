@@ -1,9 +1,0 @@
-+++
-title = "9cb5befee1e96c06.avif"
-draft = false
-type = "Photos"
-tags = ["Chuck E. Cheese's", "1994 SPT Comb Compact"]
-
-startDate = "1994-00-00"
-citations = []
-+++

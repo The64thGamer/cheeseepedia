@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/qMAFodawDfY"
-startDate = "2021-03-01"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Rock Afire Replay - Happy Birthday

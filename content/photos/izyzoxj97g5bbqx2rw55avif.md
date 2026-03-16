@@ -1,8 +1,0 @@
-+++
-title = "IzYZoXJ97g5BbQx2Rw55.avif"
-draft = false
-type = "Photos"
-tags = ["ShowBiz Pizza Place", "Charlotte, NC (7701 Pineville-Matthews Rd)"]
-
-startDate = ""
-+++

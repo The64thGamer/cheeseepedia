@@ -1,1 +1,0 @@
-Crusty Promo Photo

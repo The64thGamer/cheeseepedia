@@ -1,8 +1,0 @@
-+++
-title = "KDKawL5m8G0dd0I_B1vZ.avif"
-draft = false
-type = "Photos"
-tags = ["Chuck E. Cheese's", "January 2002 Show"]
-
-startDate = ""
-+++

@@ -1,9 +1,0 @@
-+++
-title = "SchoolDays.avif"
-citations = [""]
-
-type = "Photos"
-tags = ["Chuck E. Cheese's", "CEC Back to School"]
-+++
-
-Balcony stage with 'School Days' backdrop

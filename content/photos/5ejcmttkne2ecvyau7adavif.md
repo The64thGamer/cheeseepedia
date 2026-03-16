@@ -1,8 +1,0 @@
-+++
-title = "5EJcmttKne2ECVYaU7AD.avif"
-draft = false
-type = "Photos"
-tags = ["ShowBiz Pizza Place", "Englewood, CO (1001 W Hampden Ave)"]
-
-startDate = ""
-+++

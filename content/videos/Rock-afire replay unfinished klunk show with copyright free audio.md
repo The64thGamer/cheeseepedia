@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/7YY_1rqWwdQ"
-startDate = "2020-12-16"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Rock-afire replay unfinished klunk show with copyright free audio

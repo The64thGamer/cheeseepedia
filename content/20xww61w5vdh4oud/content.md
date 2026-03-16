@@ -1,1 +1,0 @@
-The Winchester Pasqually animatronic.

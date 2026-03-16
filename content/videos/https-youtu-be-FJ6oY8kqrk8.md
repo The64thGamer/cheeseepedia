@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/vYbAQXV5lEQ"
-startDate = "2008-12-00"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "San Antonio, TX (6874 Ingram Rd)"]
-+++
-
-Holiday Party 2008 show at San Antonio, TX (6874 Ingram Rd).

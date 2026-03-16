@@ -1,1 +1,0 @@
-Adventure World interior during construction.

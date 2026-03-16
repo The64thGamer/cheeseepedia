@@ -1,3 +1,0 @@
-= my user page =
-i was fucking banned from the discord studio because i said "w" to a STAR OF DAVID. idk if 64th is team palestine but this is a hard time for jews and i respect him. also my religion stems from judaism and those are my roots. i have no idea why but yeah!Roblox.
-cheese e peddiaaaseisseekdr

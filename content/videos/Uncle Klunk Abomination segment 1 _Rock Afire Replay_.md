@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/empFpwEYs1U"
-startDate = "2021-04-05"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Uncle Klunk Abomination segment 1 (Rock Afire Replay)

@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/Ps0zO9QLWGs"
-startDate = "2025-10-03"
-
-type = "Videos"
-tags = ["Chuck E. Cheese's", "Kansas City, MO (8809 State Line Rd)"]
-+++
-
-Footage of Kansas City Chuck E. Cheese's

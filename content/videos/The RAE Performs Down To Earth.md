@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/igdBRJTo4is"
-startDate = "2020-12-17"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-The RAE Performs Down To Earth

@@ -1,8 +1,0 @@
-+++
-title = "10wsidjcfg24g.avif"
-draft = false
-type = "Photos"
-tags = ["ShowBiz Pizza Place", "Creative Engineering", "3 Birthday Shows - Colander History - Indoctrination Skit"]
-
-startDate = "2024-10-20"
-+++

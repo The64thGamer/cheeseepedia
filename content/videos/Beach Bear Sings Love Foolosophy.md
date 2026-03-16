@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/L4YdSg9TydM"
-startDate = "2020-12-22"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-Beach Bear Sings Love Foolosophy

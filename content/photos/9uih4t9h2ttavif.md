@@ -1,9 +1,0 @@
-+++
-title = "9uih4t9h2tt.avif"
-type = "Photos"
-tags = ["CEC American Pride / Neighbors"]
-startDate = ""
-draft = false
-
-citations = []
-+++
