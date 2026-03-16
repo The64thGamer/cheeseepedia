@@ -1,0 +1,1 @@
+A Crazy Colander Head Night box that was relabeled as Circus Show. The tape inside was the revised Uncle Klunk show- overwritten to be the Circus Tape. Label says 'Creative Engineering KST112-72283- Uncle Klunk Showtape 'Revised'- Low Speed- Tailwound'
