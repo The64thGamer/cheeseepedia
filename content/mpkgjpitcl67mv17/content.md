@@ -1,0 +1,1 @@
+Alternative paint Building prototype.
