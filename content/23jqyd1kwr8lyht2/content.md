@@ -1,0 +1,1 @@
+Tour of Citrus Heights exterior and a peek of the interior after closing.
