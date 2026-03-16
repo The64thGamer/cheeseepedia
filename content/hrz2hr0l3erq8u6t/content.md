@@ -1,0 +1,1 @@
+Photo from the 1997 catalog
