@@ -2,7 +2,7 @@
 
 ## History
 
-Released to stores alongside {{< wiki-link "Physical Fitness" >}}, this is the first edition of Birthday Star, the long-running original birthday song performed at Chuck E. Cheese's restaurants for over two decades. Originally released as a hidden birthday track on the same videocassette as its debut showtape and all subsequent showtapes, it was re-released in September 1992, on a separate VHS tape, much like other live shows of the time. Birthday Star '92 is an audio-only show and has no footage as it was intended to play during intermissions over the top of the show countdown. Like all birthday shows that came before it, Birthday Star was not produced to be a live show. All of the animatronic characters, including Chuck E. Cheese, were programmed to perform the song at birthday parties at the press of a button. As was standard practice since the brand's inception, however, the Chuck E. Cheese walk-around character was present in the showroom, and stores found that the show lent itself well to live performances on account of it being a straightforward three-minute song with no character dialogue or skits. It was later reissued in 1993 without Chuck E.'s animatronic, light, and curtain signals. The show was succeeded by {{< wiki-link "Birthday Star '95" >}} in April 1995, though it could be played through other valid live shows that it was included on through 2002.
+Released to stores alongside [Physical Fitness], this is the first edition of Birthday Star, the long-running original birthday song performed at Chuck E. Cheese's restaurants for over two decades. Originally released as a hidden birthday track on the same videocassette as its debut showtape and all subsequent showtapes, it was re-released in September 1992, on a separate VHS tape, much like other live shows of the time. Birthday Star '92 is an audio-only show and has no footage as it was intended to play during intermissions over the top of the show countdown. Like all birthday shows that came before it, Birthday Star was not produced to be a live show. All of the animatronic characters, including Chuck E. Cheese, were programmed to perform the song at birthday parties at the press of a button. As was standard practice since the brand's inception, however, the Chuck E. Cheese walk-around character was present in the showroom, and stores found that the show lent itself well to live performances on account of it being a straightforward three-minute song with no character dialogue or skits. It was later reissued in 1993 without Chuck E.'s animatronic, light, and curtain signals. The show was succeeded by [Birthday Star '95] in April 1995, though it could be played through other valid live shows that it was included on through 2002.
 
 ## Summary
 
@@ -10,32 +10,32 @@ Birthday Star '92 is an upbeat and eclectic big band/swing number. The show open
 
 ## Showtape Releases
 
-Birthday Star was released in March 1992 alongside {{< wiki-link "Physical Fitness" >}}. It was produced exclusively on SVHS tapes for the three supported stage types in stores at the time: 3-Stage, C&R (C-Stage and Rocker Stage), and R12 (Road Stage, 1-Stage, and 2-Stage). 
+Birthday Star was released in March 1992 alongside [Physical Fitness]. It was produced exclusively on SVHS tapes for the three supported stage types in stores at the time: 3-Stage, C&R (C-Stage and Rocker Stage), and R12 (Road Stage, 1-Stage, and 2-Stage). 
 
 ## Showtape Releases:
 
 | Release Year | Showtape                                                  | Format                                               |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
-| 1992         | {{< wiki-link "Physical Fitness" >}}                      | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
-| 1992         | {{< wiki-link "Environment '92" >}}                       | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
-| 1992         | {{< wiki-link "Children of America '92" >}}               | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
-| 1992         | {{< wiki-link "Planes, Trains, and Automobiles" >}}       | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
-| 1992         | {{< wiki-link "Working For A Living" >}}                  | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
-| 1992         | {{< wiki-link "Holiday Special 1992" >}}                  | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
-| 1993         | {{< wiki-link "January 1993 Show" >}}                     | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
-| 1993         | {{< wiki-link "Spring Training" >}}                       | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
-| 1993         | {{< wiki-link "Spring Training Revised" >}}               | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
-| 1993         | {{< wiki-link "Best of CEC TV 1993" >}}                   | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1993         | {{< wiki-link "Patriotic 1993 Show" >}}                   | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1993         | {{< wiki-link "July 1993 Show" >}}                        | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1993         | {{< wiki-link "You're A Star" >}}                         | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1993         | {{< wiki-link "Chuck E. March" >}}                        | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1994         | {{< wiki-link "Let The Good Times Roll" >}}               | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1994         | {{< wiki-link "Twist and Shout" >}}                       | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1994         | {{< wiki-link "CEC Shuffle / Bday Star" >}}               | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1994         | {{< wiki-link "Patriotic Live" >}}                        | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1994         | {{< wiki-link "Celebration" >}}                           | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1994         | {{< wiki-link "YMCA" >}}                                  | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1992         | [Physical Fitness]                      | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
+| 1992         | [Environment '92]                       | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
+| 1992         | [Children of America '92]               | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
+| 1992         | [Planes, Trains, and Automobiles]       | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
+| 1992         | [Working For A Living]                  | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
+| 1992         | [Holiday Special 1992]                  | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
+| 1993         | [January 1993 Show]                     | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
+| 1993         | [Spring Training]                       | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
+| 1993         | [Spring Training Revised]               | C&R SVHS (Pre-93), R12 SVHS (Pre-93), 3-Stage SVHS (Pre-93)    |
+| 1993         | [Best of CEC TV 1993]                   | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1993         | [Patriotic 1993 Show]                   | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1993         | [July 1993 Show]                        | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1993         | [You're A Star]                         | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1993         | [Chuck E. March]                        | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1994         | [Let The Good Times Roll]               | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1994         | [Twist and Shout]                       | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1994         | [CEC Shuffle / Bday Star]               | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1994         | [Patriotic Live]                        | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1994         | [Celebration]                           | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1994         | [YMCA]                                  | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
 
 
 ## Floppy Disk Label

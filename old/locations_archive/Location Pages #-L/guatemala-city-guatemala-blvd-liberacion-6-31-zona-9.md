@@ -13,7 +13,7 @@ pageThumbnailFile = "7XeFCJxNWvZMs3jgtAqr.avif"
 latitudeLongitude = ["14.59516757","-90.52249703"]
 +++
 
-***Blvd Liberación 6-31, Zona 9, Store #2140*** was a franchised *Chuck E. Cheese's* that opened in 1996 with a {{< wiki-link "Concept Unification" >}} and {{< wiki-link "2-Stage" >}} show and closed in 2016. This location, in particular, appeared to be an anchor store for its own shopping center, 'Chuck E. Cheese's Center'. The center formerly had a red and yellow color scheme much like the awnings over the CEC building. Later on, the color scheme was updated to purple and red before becoming a plain brown color in 2010. Little information is known about the history of the shopping center this CEC location sat in, or why the center was named after Chuck E. Cheese's.
+***Blvd Liberación 6-31, Zona 9, Store #2140*** was a franchised *Chuck E. Cheese's* that opened in 1996 with a [Concept Unification] and [2-Stage] show and closed in 2016. This location, in particular, appeared to be an anchor store for its own shopping center, 'Chuck E. Cheese's Center'. The center formerly had a red and yellow color scheme much like the awnings over the CEC building. Later on, the color scheme was updated to purple and red before becoming a plain brown color in 2010. Little information is known about the history of the shopping center this CEC location sat in, or why the center was named after Chuck E. Cheese's.
 
 ## Stages
 
@@ -26,7 +26,7 @@ When Zona 9 first opened, it housed a 3-Stage in its Chuck E. Cheese's building 
 
 ## History
 
-This location is relocated from its previous {{< wiki-link "Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)" >}} location in 1996, taking various assets such as art, games, and the 3-Stage. Although this location was remodeled at some point, it was a very minor remodel, it only changed the exterior into a standardized look and only painted select walls purple with two pieces of Avenger Chuck E. artwork being provided. This also meant the absence of wall details being added on and the continued use of booths and lighting used since opening. In 2013 Zona 9's showroom was repainted for a short period of time to red and green before being repainted white as it was before.
+This location is relocated from its previous [Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)] location in 1996, taking various assets such as art, games, and the 3-Stage. Although this location was remodeled at some point, it was a very minor remodel, it only changed the exterior into a standardized look and only painted select walls purple with two pieces of Avenger Chuck E. artwork being provided. This also meant the absence of wall details being added on and the continued use of booths and lighting used since opening. In 2013 Zona 9's showroom was repainted for a short period of time to red and green before being repainted white as it was before.
 
 ### 2010 Downsizing
 
@@ -66,10 +66,10 @@ Identified machines before closure.
 - [Hammer Fun](https://www.coinopexpress.com/products/machines/redemption-machines/Hammer-Fun-Arcade-Ticket-Redemption-Machine-10798.html)
 - [Speedy Pizza / Speed Demon](https://www.highwaygames.com/arcade-machines/speed-demon-8147/)
 - [Rock N' Moon Rally](https://www.arcade-museum.com/game_detail.php?game_id=20006)
-- {{< wiki-link "Air Hockey" >}}
-- {{< wiki-link "Ken Chuck E Derby" >}}
+- [Air Hockey]
+- [Ken Chuck E Derby]
 - Chuck E's Marathon Runner
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Chuck E. Cheese's Trolly|Chuck E. Cheese's Trolley
 - Tower of Power
 - Teacup Ride
@@ -115,18 +115,18 @@ Identified machines before closure.
 | Animatronic                                                               | Serial / Manufacturing Date | Status                                                                  |
 |---------------------------------------------------------------------------|-----------------------------|-------------------------------------------------------------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                   | Unknown                     | Used for parts / Unknown.                                               |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}              | Unknown                     | Used for parts / Unknown.                                               |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}                            | Unknown                     | Used for parts / Unknown.                                               |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}                      | Unknown                     | Used for parts / Unknown.                                               |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}                           | Unknown                     | Used for parts / Unknown.                                               |
-| {{< wiki-link "Wink (Cyberamic)" >}}                                | N/A                         | Unknown.                                                                |
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 1-82 1-26                   | On display at Concepcion County, Guatemala\|Concepcion County location. |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 1-82 2-26                   | On display at Concepcion County, Guatemala\|Concepcion County location. |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 1-82 3-26                   | On display at Concepcion County, Guatemala\|Concepcion County location. |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 1-82 4-26                   | On display at Concepcion County, Guatemala\|Concepcion County location. |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 1-82 5-26                   | On display at Concepcion County, Guatemala\|Concepcion County location. |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 1-82 7-26                   | Unknown.                                                                |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 1-82 8-26                   | Unknown.                                                                |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 1-82 10-26                  | Unknown.                                                                |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 1-82 11-26                  | Unknown.                                                                |
+| [Guest Star Helen Henny (Cyberamic)]              | Unknown                     | Used for parts / Unknown.                                               |
+| [Mr Munch (Cyberamic)]                            | Unknown                     | Used for parts / Unknown.                                               |
+| [Jasper T Jowls (Cyberamic)]                      | Unknown                     | Used for parts / Unknown.                                               |
+| [Pasqually (Cyberamic)]                           | Unknown                     | Used for parts / Unknown.                                               |
+| [Wink (Cyberamic)]                                | N/A                         | Unknown.                                                                |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-26                   | On display at Concepcion County, Guatemala\|Concepcion County location. |
+| [Dook Larue (Animatronic)]                        | 1-82 2-26                   | On display at Concepcion County, Guatemala\|Concepcion County location. |
+| [Fatz Geronimo (Animatronic)]                     | 1-82 3-26                   | On display at Concepcion County, Guatemala\|Concepcion County location. |
+| [Beach Bear (Animatronic)]                        | 1-82 4-26                   | On display at Concepcion County, Guatemala\|Concepcion County location. |
+| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-26                   | On display at Concepcion County, Guatemala\|Concepcion County location. |
+| [Looney Bird (Animatronic)]                       | 1-82 7-26                   | Unknown.                                                                |
+| [Choo Choo (Animatronic)]                         | 1-82 8-26                   | Unknown.                                                                |
+| [Sun (Animatronic)]                               | 1-82 10-26                  | Unknown.                                                                |
+| [Moon (Animatronic)]                              | 1-82 11-26                  | Unknown.                                                                |
 | Wink (Animatronic)                                                        | N/A                         | Unknown.                                                                |

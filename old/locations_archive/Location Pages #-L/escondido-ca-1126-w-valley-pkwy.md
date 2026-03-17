@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["33.11574827","-117.0996761"]
 +++
 
-***1126 W Valley Pkwy, Store #788*** is a *Chuck E. Cheese's* that opened on January 3, 2007 with a {{< wiki-link "Studio C Beta" >}}, 16m and is still open with 2.0 as of December 2021. This is not to be confused with the {{< wiki-link "Escondido, CA (624 W Mission Ave)" >}} location, which opened on August 1, 1983 as a ShowBiz Pizza Place, and closed in March 2006 (day unknown) as a CEC with a 3-Stage.
+***1126 W Valley Pkwy, Store #788*** is a *Chuck E. Cheese's* that opened on January 3, 2007 with a [Studio C Beta], 16m and is still open with 2.0 as of December 2021. This is not to be confused with the [Escondido, CA (624 W Mission Ave)] location, which opened on August 1, 1983 as a ShowBiz Pizza Place, and closed in March 2006 (day unknown) as a CEC with a 3-Stage.
 
 ## Stages
 

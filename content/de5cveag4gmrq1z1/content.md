@@ -1,5 +1,5 @@
 ***Chuck E. Cheese Spring Show 2023*** is the spring show released on April 3, 2023 - June 4, 2023. featuring a variety of songs released from 2015-2021.
-This is the final physical show to be released in the domestic market due to the installation of the {{< wiki-link "Navori System" >}} in all domestic stores. This show features 7 Songs with the automatic live being Spring Break Break Dance.
+This is the final physical show to be released in the domestic market due to the installation of the [Navori System] in all domestic stores. This show features 7 Songs with the automatic live being Spring Break Break Dance.
 
 ## Physical Release Show List
 
@@ -169,6 +169,6 @@ This is the final physical show to be released in the domestic market due to the
 
 ## Trivia
 
-- Stores running on the Navori system received bonus videos from {{< wiki-link "Chuck E. Cheese Evergreen Show 2023" >}}; Main Stages recieved As It Was, Play All You Can Play and a second CEC Online Store spot, and CEC Stages received As It Was, Little Bitty Kitty Cat, a second CEC Online Store spot, and Late Night Talking in place of KIDZ BOP Never Stop.
+- Stores running on the Navori system received bonus videos from [Chuck E. Cheese Evergreen Show 2023]; Main Stages recieved As It Was, Play All You Can Play and a second CEC Online Store spot, and CEC Stages received As It Was, Little Bitty Kitty Cat, a second CEC Online Store spot, and Late Night Talking in place of KIDZ BOP Never Stop.
 - Studio C Install CDs and CEC Stage DVDs for this show are blank unlabeled discs with the show name and format stamped onto them. This is because the label maker used to print the disc labels broke partway through production.
 - This is the last show to include a newsletter for store employees.

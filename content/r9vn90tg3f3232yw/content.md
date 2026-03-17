@@ -2,7 +2,7 @@ Paul E. Parrott, also known as Paul E. Parrott's Pizza Place or Paul E. Parrott'
 
 ## History
 
-Paul E. Parrott's Pizza opened on July 18th, 1982. Its only location was at {{< wiki-link "Phoenix, AZ (1810 W. Montebello)" >}}.
+Paul E. Parrott's Pizza opened on July 18th, 1982. Its only location was at [Phoenix, AZ (1810 W. Montebello)].
 The restaurant shut down at some point in late 1983, with an auction being held on October 3rd to sell off the building's equpiment. Notably, the animatronics were specified as being sold "subject to owner's approval." The whereabouts of the show are still unknown.
 
 ## Show

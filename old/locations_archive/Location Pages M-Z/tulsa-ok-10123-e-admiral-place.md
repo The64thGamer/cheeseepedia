@@ -10,7 +10,7 @@ citations = []
 latitudeLongitude = ["36.16025632","-95.86511993"]
 +++
 ***10123 E Admiral Place* was a Chuck E. Cheese's Pizza Time Theatre that opened in 1982 and closed in 1985 with a Balcony Stage and unknown cabaret/lounge acts. Very little is known about the location, mainly because it was either undocumented, or short lived.
-This location is not to be confused with the {{< wiki-link "Tulsa, OK (7108 S Memorial Dr)" >}} which opened on September 15, 1980 as a ShowBiz Piazza Place, Received Concept Unification in 1991, and is still open today with the 2.0 remodel.**
+This location is not to be confused with the [Tulsa, OK (7108 S Memorial Dr)] which opened on September 15, 1980 as a ShowBiz Piazza Place, Received Concept Unification in 1991, and is still open today with the 2.0 remodel.**
 
 ## History
 

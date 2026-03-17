@@ -66,5 +66,5 @@
 
 ## Trivia:
 
-- September 2011 was shot in 5 days according to a behind the scenes video.{{< cite 1 >}}
-- Geography Rap - 'Australia' is reused from {{< wiki-link "CEC American Pride" >}}, Monkey Ninjas Episode 1 is reused from the {{< wiki-link "January 2002 Show" >}}, Monkey Ninjas Episode 2 is reused from the {{< wiki-link "April 2002 Show" >}}, Chillout - 'Animals' and Chillout - 'Space' are edited versions of countdowns from the {{< wiki-link "September 2002 Show" >}}, and Chillout - 'Landscapes' and Chillout - 'Wildlife' are edited versions of countdowns from the {{< wiki-link "January 2011 Show" >}}.
+- September 2011 was shot in 5 days according to a behind the scenes video.[1]
+- Geography Rap - 'Australia' is reused from [CEC American Pride], Monkey Ninjas Episode 1 is reused from the [January 2002 Show], Monkey Ninjas Episode 2 is reused from the [April 2002 Show], Chillout - 'Animals' and Chillout - 'Space' are edited versions of countdowns from the [September 2002 Show], and Chillout - 'Landscapes' and Chillout - 'Wildlife' are edited versions of countdowns from the [January 2011 Show].

@@ -13,11 +13,11 @@ pageThumbnailFile = "m21SYA0irPgqG4pUEJ_P.avif"
 latitudeLongitude = ["39.05106802","-77.10654423"]
 +++
 
-***5270 Randolph Road, Store #531*** was a {{< wiki-link "Chuck E Cheese's" >}} that opened on August 20, 2002 with a {{< wiki-link "Studio C Beta" >}} and closed on October 29th, 2023 This is not to be confused with the {{< wiki-link "Rockville, MD (855 Rockville Pike)" >}} Pizza Time Theatre which opened in May 1981 and closed in 1985 with a {{< wiki-link "Cyberamics Balcony Stage" >}}.
+***5270 Randolph Road, Store #531*** was a [Chuck E Cheese's] that opened on August 20, 2002 with a [Studio C Beta] and closed on October 29th, 2023 This is not to be confused with the [Rockville, MD (855 Rockville Pike)] Pizza Time Theatre which opened in May 1981 and closed in 1985 with a [Cyberamics Balcony Stage].
 
 ## History
 
-Rockville opened on August 20, 2002 with a 32 movement Studio C Beta. They were the second Maryland CEC to open with Studio C. They received the {{< wiki-link "Phase 3 (2000)" >}} remodel and installed fluorescent lighting in 2011. They were rumored to be relocating in 2022 to the other side of the shopping plaza for a bigger space but plans were canceled. In March 2023, it was announced that they would relocate to {{< wiki-link "Kensington, MD (5238 Nicholson Ln)" >}}, which the store would eventually close on October 29th, 2023
+Rockville opened on August 20, 2002 with a 32 movement Studio C Beta. They were the second Maryland CEC to open with Studio C. They received the [Phase 3 (2000)] remodel and installed fluorescent lighting in 2011. They were rumored to be relocating in 2022 to the other side of the shopping plaza for a bigger space but plans were canceled. In March 2023, it was announced that they would relocate to [Kensington, MD (5238 Nicholson Ln)], which the store would eventually close on October 29th, 2023
 
 ## Stages
 
@@ -27,8 +27,8 @@ Rockville opened with a 32 movement bot Studio C Beta|Studio C . Just like Frede
 
 | Animatronic                                                | Serial | Status  |
 |------------------------------------------------------------|--------|---------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 173    | Unknown |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A    | Unknown |
+| [Chuck E Cheese 32m (Animatronic)] | 173    | Unknown |
+| [Pizza Time Clock (Animatronic)]   | N/A    | Unknown |
 
 ## Videos
 

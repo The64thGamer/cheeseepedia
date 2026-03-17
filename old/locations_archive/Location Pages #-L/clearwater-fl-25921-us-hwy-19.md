@@ -21,7 +21,7 @@ Not to be confused with 2539 Countryside Blvd, which was a Pizza Time Theatre. C
 
 ## Stages
 
-Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a {{< wiki-link "Studio C Beta" >}}. Clearwater’s Beta was one of the first, and was the first Beta with only one screen in the middle instead of the usual three. Clearwater’s Beta also featured a unique, one of a kind bluescreen, which read "CEC Studio" at the top. Next to the bluescreen was some unique art featuring Chuck E. pointing towards the bluescreen, as well as some kids and an applause sign. At some point, Chuck E.’s base and leg shells were replaced with 16M ones. The base being a 16M base meant that there was no foot tap mechanism. Clearwater received the Cool Chuck outfit sometime in the mid 2000’s, and the Avenger outfit in 2012, however, they kept the original red hat.
+Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a [Studio C Beta]. Clearwater’s Beta was one of the first, and was the first Beta with only one screen in the middle instead of the usual three. Clearwater’s Beta also featured a unique, one of a kind bluescreen, which read "CEC Studio" at the top. Next to the bluescreen was some unique art featuring Chuck E. pointing towards the bluescreen, as well as some kids and an applause sign. At some point, Chuck E.’s base and leg shells were replaced with 16M ones. The base being a 16M base meant that there was no foot tap mechanism. Clearwater received the Cool Chuck outfit sometime in the mid 2000’s, and the Avenger outfit in 2012, however, they kept the original red hat.
 
 | Stage                    | Installed   | Removed       |
 |--------------------------|-------------|---------------|
@@ -35,8 +35,8 @@ Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a {{
 
 - Deadstorm Pirates
 - Spongebob Squarepants Pineapple Arcade
-- {{< wiki-link "Big Win Super Spin" >}}
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Big Win Super Spin]
+- [Chuck E Cheese's Sketch Book]
 - Crazy Tower
 - Tons of Tickets
 - Batman (2013)
@@ -52,7 +52,7 @@ Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a {{
 - Choppy Wood
 - Big Bass Wheel Pro
 - Jurassic Park Arcade
-- {{< wiki-link "Pop It for Gold" >}}
+- [Pop It for Gold]
 - Pigs Might Fly
 - Barrel of Monkeys
 - The Price is Right Shell Game
@@ -119,11 +119,11 @@ Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a {{
 | Animatronic                                                  | Serial  | Whereabouts                    |
 |--------------------------------------------------------------|---------|--------------------------------|
 | Chuck E Cheese (Cyberamic)                                   | Unknown | Used for parts at Brandon, FL. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown | Used for parts at Brandon, FL. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown | Used for parts at Brandon, FL. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown | Used for parts at Brandon, FL. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown | Used for parts at Brandon, FL. |
-| \|{{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 114     | Destroyed                      |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown | Used for parts at Brandon, FL. |
+| [Mr Munch (Cyberamic)]               | Unknown | Used for parts at Brandon, FL. |
+| [Jasper T Jowls (Cyberamic)]         | Unknown | Used for parts at Brandon, FL. |
+| [Pasqually (Cyberamic)]              | Unknown | Used for parts at Brandon, FL. |
+| \|[Chuck E Cheese 32m (Animatronic)] | 114     | Destroyed                      |
 
 ## Decor
 

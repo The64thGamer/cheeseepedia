@@ -10,7 +10,7 @@ citations = ["[https://www.newspapers.com/article/the-atlanta-constitution/53852
 pageThumbnailFile = "vH0Wih3iO3gLYbY5EFdq.avif"
 latitudeLongitude = ["33.88220402","-84.46117423"]
 +++
-***Atlanta, GA (2963-A Cobb Pkwy)* was a {{< wiki-link "Pizza Time Theatre" >}} that opened in September 4th, 1982 with a {{< wiki-link "Cyberamics Balcony Stage" >}}, which closed later in 1984.<sup>(1)</sup>https://www.newspapers.com/article/the-atlanta-constitution/39075919/<sup>(2)</sup>**
+***Atlanta, GA (2963-A Cobb Pkwy)* was a [Pizza Time Theatre] that opened in September 4th, 1982 with a [Cyberamics Balcony Stage], which closed later in 1984.<sup>(1)</sup>https://www.newspapers.com/article/the-atlanta-constitution/39075919/<sup>(2)</sup>**
 
 ## History
 

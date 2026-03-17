@@ -12,13 +12,13 @@ citations = []
 latitudeLongitude = ["35.38864597","-97.52452008"]
 +++
 
-***Oklahoma City, OK (7601 S Walker Ave), Store #888*** is a *Chuck E. Cheese's* that opened in May 2005 (day unknown) with a {{< wiki-link "Studio C Beta" >}} and is open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
+***Oklahoma City, OK (7601 S Walker Ave), Store #888*** is a *Chuck E. Cheese's* that opened in May 2005 (day unknown) with a [Studio C Beta] and is open to this day with the [CEC 2.0 Remodel Program].
 
 ## Stages
 
 | Stage                                   | Installed     | Removed                |
 |-----------------------------------------|---------------|------------------------|
-| {{< wiki-link "Studio C Beta" >}} | May 2005      | November-December 2018 |
+| [Studio C Beta] | May 2005      | November-December 2018 |
 | Dance Floor                             | December 2018 | Still In Use.          |
 | Video Wall                              | 2021 or later | Still In Use.          |
 

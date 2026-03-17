@@ -11,7 +11,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***Towson, MD (809 Goucher Blvd)*** ***Store #79***(1) was a *Chuck E. Cheese's* located in Towson, Maryland, in a plaza next to Towson Place. The location opened its doors as a Chuck E. Cheese’s Pizza location in August 1993 (Date Unknown) with a {{< wiki-link "1-Stage" >}} and closed in Spring 2007 (Month &amp; Date currently unknown).
+***Towson, MD (809 Goucher Blvd)*** ***Store #79***(1) was a *Chuck E. Cheese's* located in Towson, Maryland, in a plaza next to Towson Place. The location opened its doors as a Chuck E. Cheese’s Pizza location in August 1993 (Date Unknown) with a [1-Stage] and closed in Spring 2007 (Month &amp; Date currently unknown).
 
 ## Stages
 
@@ -21,7 +21,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## History
 
-The Towson Location opened sometime around August 1993 with the {{< wiki-link "1-Stage" >}} (One of three installed in Maryland, the other being in {{< wiki-link "Bel Air, MD (5 Bel Air South Pkwy)" >}} &amp; {{< wiki-link "Waldorf, MD (2928 Festival Way)" >}}) with side curtains, a green valance (normally black on 1-Stages), and the 1993 Remodel. The store stayed opened up until around Spring 2007 (Month &amp; Date currently unknown); Keeping the 1993 Remodel the {{< wiki-link "1-Stage" >}}. The store closed its doors for their final time before the shopping center was demolished and rebuilt months after the location closed.
+The Towson Location opened sometime around August 1993 with the [1-Stage] (One of three installed in Maryland, the other being in [Bel Air, MD (5 Bel Air South Pkwy)] &amp; [Waldorf, MD (2928 Festival Way)]) with side curtains, a green valance (normally black on 1-Stages), and the 1993 Remodel. The store stayed opened up until around Spring 2007 (Month &amp; Date currently unknown); Keeping the 1993 Remodel the [1-Stage]. The store closed its doors for their final time before the shopping center was demolished and rebuilt months after the location closed.
 
 ## Videos
 
@@ -34,9 +34,9 @@ The Towson Location opened sometime around August 1993 with the {{< wiki-link "1
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                      |
 |--------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | 1992-1993          | Sent to {{< wiki-link "Baltimore, MD (8354 Eastern Ave)" >}}, now unknown. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1992-1993          | Sent to {{< wiki-link "Baltimore, MD (8354 Eastern Ave)" >}}, now unknown. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1992-1993          | Sent to {{< wiki-link "Baltimore, MD (8354 Eastern Ave)" >}}, now unknown. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1992-1993          | Sent to {{< wiki-link "Baltimore, MD (8354 Eastern Ave)" >}}, now unknown. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1992-1993          | Sent to {{< wiki-link "Baltimore, MD (8354 Eastern Ave)" >}}, now unknown. |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1992-1993          | Unknown                                                                          |
+| Chuck E Cheese (Cyberamic)                                   | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
+| [Guest Star Helen Henny (Cyberamic)] | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
+| [Mr Munch (Cyberamic)]               | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
+| [Jasper T Jowls (Cyberamic)]         | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
+| [Pasqually (Cyberamic)]              | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
+| [Wink (Cyberamic)]                   | 1992-1993          | Unknown                                                                          |

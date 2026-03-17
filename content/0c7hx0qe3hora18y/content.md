@@ -79,8 +79,8 @@ A Version 2 of this show was released which added the Play-Doh spot. When insert
 
 - Chuck's curtains close during 'Mayberry' on existing stages.
 - The backgrounds for the Studio C puppets are their regular ones, but without the usual diagonal line.
-- The Fundraising Spot is reused from {{< wiki-link "September 2004" >}} with that show's logo replaced with the September 2005 logo.
-- 'Spring Cleaning' is reused from {{< wiki-link "Spring Break" >}} and the kaleidoscope countdown is reused from {{< wiki-link "September 2003 Show" >}}
-- The countdowns reuse footage from {{< wiki-link "April 2002 Show" >}}, {{< wiki-link "September 2002 Show" >}} and 'Footloose' live.
-- The Play-Doh spot uses the instrumental of 'What Up' from {{< wiki-link "September 2004" >}}.
+- The Fundraising Spot is reused from [September 2004] with that show's logo replaced with the September 2005 logo.
+- 'Spring Cleaning' is reused from [Spring Break] and the kaleidoscope countdown is reused from [September 2003 Show]
+- The countdowns reuse footage from [April 2002 Show], [September 2002 Show] and 'Footloose' live.
+- The Play-Doh spot uses the instrumental of 'What Up' from [September 2004].
 - 'Old MacDonald', ‘Chuck E. Shuffle’, and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.

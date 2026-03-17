@@ -1,4 +1,4 @@
-*The **Black Fantasy Forest Game Preserve*** sign first appeared at the second Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} located in the Blossom Hill Shopping Center in San Jose California, placed above one of the multiple Fantasy Forest entrances from December 1978 to most likely the 1981 Remodel.
+*The **Black Fantasy Forest Game Preserve*** sign first appeared at the second Chuck E. Cheese's Pizza Time Theatre on [San Jose, CA (1371 Kooser Rd)] located in the Blossom Hill Shopping Center in San Jose California, placed above one of the multiple Fantasy Forest entrances from December 1978 to most likely the 1981 Remodel.
 
 ## Production
 

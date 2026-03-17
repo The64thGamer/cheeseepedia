@@ -60,6 +60,6 @@
 - This was the final CEC showtape to use the act format originally introduced in 2014.
 - The set used for the Studio C puppets in 2012 is used for the Battle of the Bands.
 - Winter 2015 was originally supposed to run until February 22nd, 2015, but the end date was extended to March 15th, 2015.
-- Both Show Breaks and Hard Hat Hank - 'Box' are reused from {{< wiki-link "The Chuck E. Cheese Show" >}}
+- Both Show Breaks and Hard Hat Hank - 'Box' are reused from [The Chuck E. Cheese Show]
 - The Pizza Time Theatre logo can be seen on Chuck E.'s shirt during scenes that take place in his home.
 - This show was originally planned to include six songs, like most shows since April 2013; the latter two would've been covers. However, following the entertainment department's budget cuts after the cat video incident, they were removed, leaving the show with only four songs. This would've included Helen singing a cover of ['Crazy'](https://en.wikipedia.org/wiki/Crazy_(Willie_Nelson_song)), and the other cover is currently unknown.

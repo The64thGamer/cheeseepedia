@@ -1,4 +1,4 @@
-**Super Chuck Summer Show 2005** was a rerelease of {{< wiki-link "Summertime 2003" >}} with new and revised intermissions promoting the 2005 Super Chuck Summer Event. It is the first known show to be released on the DVD format for Existing Stages.
+**Super Chuck Summer Show 2005** was a rerelease of [Summertime 2003] with new and revised intermissions promoting the 2005 Super Chuck Summer Event. It is the first known show to be released on the DVD format for Existing Stages.
 
 ## Studio C Show List:
 

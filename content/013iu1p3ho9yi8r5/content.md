@@ -1,6 +1,6 @@
 *Beatles White Album* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on September 9 -
 November 24, 1983.
-Due to the {{< wiki-link "ShowBiz's Fabulous Fall Festival (Event)" "ShowBiz's Fabulous Fall Festival" >}}
+Due to the [ShowBiz's Fabulous Fall Festival (Event)]
 event, the showtape was only played every Friday, Saturday, and Sunday of its run.
 
 ## Employee Performance
@@ -8,7 +8,7 @@ event, the showtape was only played every Friday, Saturday, and Sunday of its ru
 The 'Tribute to Frank Sinatra' segment would need to be performed with an employee, whom would come out as 'Johnny
 DeJockimo' (official spelling unknown) to interact with Rolfe & Earl.
 https://www.showbizpizza.com/review/rae/1983_beatleswhite.html
-This is directly tied to the {{< wiki-link "ShowBiz's Fabulous Fall Festival (Event)" "ShowBiz's Fabulous Fall Festival" >}} reusing the {{< wiki-link "3 Birthday Shows - Colander History - Indoctrination Skit" "Colander History / Indoctrination Skit" >}} on Wednesday nights, which also has the same employee
+This is directly tied to the [ShowBiz's Fabulous Fall Festival (Event)] reusing the [3 Birthday Shows - Colander History - Indoctrination Skit] on Wednesday nights, which also has the same employee
 performance dynamic.
 
 ## Production
@@ -16,17 +16,17 @@ performance dynamic.
 ### Small Appliances / End of the World
 
 The showtape was originally going to contain the skit and song 'Small Appliances / End of the World'. The skit would
-feature Rolfe creating a counter movement to the {{< wiki-link "Crazy Colander Head Night (Event)" "Colander-head Club" >}} where customers would come in with 'Small appliances strapped to their head'. A
-similar idea is joked about in the {{< wiki-link "Save The Colander Telethon (1983)" "Save The Colander Telethon" >}} with an employee noting Pizza Time Theatre was going to have patrons strap refrigerators to their
+feature Rolfe creating a counter movement to the [Crazy Colander Head Night (Event)] where customers would come in with 'Small appliances strapped to their head'. A
+similar idea is joked about in the [Save The Colander Telethon (1983)] with an employee noting Pizza Time Theatre was going to have patrons strap refrigerators to their
 backs, with Burt Wilson replying 'Ah, they're going to get into appliances on their heads, they might get us on that'.
 Earl directly mentions the Colander Head night taking place on Wednesday nights. This was because of the return of the
-Crazy Colander Head Night during {{< wiki-link "ShowBiz's Fabulous Fall Festival (Event)" "ShowBiz's Fabulous Fall Festival" >}}, where both White Album and the {{< wiki-link "Crazy Colander Head Night (Event)" "Crazy Colander Head Night" >}} showtape would be playing in the same weeks for the entirety of their run.
+Crazy Colander Head Night during [ShowBiz's Fabulous Fall Festival (Event)], where both White Album and the [Crazy Colander Head Night (Event)] showtape would be playing in the same weeks for the entirety of their run.
 This was originally meant to synergize the two showtapes, which was already being done by the inclusion of employee
-performances in 'Tribute to Frank Sinatra'.{{< cite 1 >}}
+performances in 'Tribute to Frank Sinatra'.[1]
 The segment in the end would be cut, but would still appear exclusively on Rock-afire Explosion Record 10
-(1983)|Rock-afire Explosion Record 10, minus the Small Appliances skit.{{< cite 1 >}} Oddly, 2 days before the event was
+(1983)|Rock-afire Explosion Record 10, minus the Small Appliances skit.[1] Oddly, 2 days before the event was
 planned to start, an interview with Aaron Fechter has him directly discussing the Small Appliances segment, implying it
-might have been cut very last minute.{{< cite 1 >}}
+might have been cut very last minute.[1]
 
 ### White Album Revised & ADAT Edit
 
@@ -38,11 +38,11 @@ showtape, but may have been what was on the revised/original tape.
 
 ### ShowBiz's Fabulous Fall Festival
 
-The tape was exclusively part of {{< wiki-link "ShowBiz's Fabulous Fall Festival (Event)" "ShowBiz's Fabulous Fall Festival" >}} as the 'New Stage Shows' portion of the event. The tape would play every Friday,
-Saturday, and Sunday, with {{< wiki-link "Fatz Showtape (Uncle Klunk Install 2 Stg)" "Fatz Showtape" >}}
-playing on Mondays, {{< wiki-link "Country Night" "Country Night" >}} playing on Tuesdays and Thursdays, and
-{{< wiki-link "Crazy Colander Head Night" "Crazy Colander Head Night" >}} playing on Wednesdays.
-After this, the store would move onto playing {{< wiki-link "Christmas 1983" "Christmas 1983" >}}, meaning
+The tape was exclusively part of [ShowBiz's Fabulous Fall Festival (Event)] as the 'New Stage Shows' portion of the event. The tape would play every Friday,
+Saturday, and Sunday, with [Fatz Showtape (Uncle Klunk Install 2 Stg)]
+playing on Mondays, [Country Night] playing on Tuesdays and Thursdays, and
+[Crazy Colander Head Night] playing on Wednesdays.
+After this, the store would move onto playing [Christmas 1983], meaning
 Beatles White Album never played for a continuous amount of time like all other showtape releases, and was playing
 alongside previously released shows.
 

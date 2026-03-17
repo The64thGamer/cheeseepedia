@@ -1,5 +1,5 @@
 ***Tree Tops from Helen Henny* was a segment programmed at CEC Corporate by *Matt Daniel* for fun.
-The segment's audio was the song 'Tree Tops' by Eisley{{< cite 1 >}}, and programmed by Matt on the 3-Stage using {{< wiki-link "Animation Programming System" >}}. The song was uploaded to Matt's YouTube channel on January 30, 2006, though it was later unlisted and then turned private. At some point in 2023 the video was made unlisted again.**
+The segment's audio was the song 'Tree Tops' by Eisley[1], and programmed by Matt on the 3-Stage using [Animation Programming System]. The song was uploaded to Matt's YouTube channel on January 30, 2006, though it was later unlisted and then turned private. At some point in 2023 the video was made unlisted again.**
 
 ## Creation
 

@@ -1,1 +1,1 @@
-Cyberstar Countdown 3 Minutes with {{< wiki-link "SPT 1980's Remodel Program" >}} neon.
+Cyberstar Countdown 3 Minutes with [SPT 1980's Remodel Program] neon.

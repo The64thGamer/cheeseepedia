@@ -14,7 +14,7 @@ pageThumbnailFile = "YJkLg7TSdEGZd39i0Txt.avif"
 latitudeLongitude = ["27.45973917","-82.57292308"]
 +++
 
-**905 44th Ave W, Store #720** is a *Chuck E. Cheese’s* that opened on March 3rd, 1999, with a Studio C Alpha, which is still open to this day. This is not to be confused with the Pizza Time Theatre on {{< wiki-link "Bradenton, FL (4420 14th St)" >}} which opened in October 1981 and closed on June 16th, 1984 with a {{< wiki-link "Cyberamics Balcony Stage" >}} and the ShowBiz Pizza Place on {{< wiki-link "Bradenton, FL (415 Cortez Rd)" >}} which opened on March 25th, 1982, and closed in 1985/1986 (Unknown Day &amp; Month) with the {{< wiki-link "Classic Stage" >}}.
+**905 44th Ave W, Store #720** is a *Chuck E. Cheese’s* that opened on March 3rd, 1999, with a Studio C Alpha, which is still open to this day. This is not to be confused with the Pizza Time Theatre on [Bradenton, FL (4420 14th St)] which opened in October 1981 and closed on June 16th, 1984 with a [Cyberamics Balcony Stage] and the ShowBiz Pizza Place on [Bradenton, FL (415 Cortez Rd)] which opened on March 25th, 1982, and closed in 1985/1986 (Unknown Day &amp; Month) with the [Classic Stage].
 
 ## History
 
@@ -26,16 +26,16 @@ Originally when the store opened, they had a Studio C Alpha. In April 2023, they
 
 | Stage                                                                                             | Installed        | Removed         | Note        |
 |---------------------------------------------------------------------------------------------------|------------------|-----------------|-------------|
-| {{< wiki-link "Studio C Alpha" >}}                                                          | March 3rd, 1999  | April 9th, 2023 |             |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | April 10th, 2023 | Still In Use    | 2021 Model. |
+| [Studio C Alpha]                                                          | March 3rd, 1999  | April 9th, 2023 |             |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | April 10th, 2023 | Still In Use    | 2021 Model. |
 
 ## Animatronics
 
 | Animatronic                                                | Serial Number | Whereabouts                        |
 |------------------------------------------------------------|---------------|------------------------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 033           | Destroyed                          |
-| {{< wiki-link "Bird (Animatronic)" >}}               | N/A           | Destroyed, replaced with I-Drive’s |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}        | N/A           | Destroyed, replaced with I-Drive’s |
+| [Chuck E Cheese 32m (Animatronic)] | 033           | Destroyed                          |
+| [Bird (Animatronic)]               | N/A           | Destroyed, replaced with I-Drive’s |
+| [Pizza Phone (Animatronic)]        | N/A           | Destroyed, replaced with I-Drive’s |
 
 TODO
 

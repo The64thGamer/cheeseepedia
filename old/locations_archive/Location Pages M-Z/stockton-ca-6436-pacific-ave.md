@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["38.00788817","-121.3199927"]
 +++
 
-***6436 Pacific Ave*** is a Chuck E. Cheese's that opened on September 6, 2005 with a Studio C Beta, 16M, and is still open today with the 2.0 remodel. This location is not to be confused with {{< wiki-link "Stockton, CA (4555 N Pershing Ave)" >}}, which opened in October 1979 (day unknown) with a Shelf Stage and closed in December 1998 (day unknown) with a 2-Stage.
+***6436 Pacific Ave*** is a Chuck E. Cheese's that opened on September 6, 2005 with a Studio C Beta, 16M, and is still open today with the 2.0 remodel. This location is not to be confused with [Stockton, CA (4555 N Pershing Ave)], which opened in October 1979 (day unknown) with a Shelf Stage and closed in December 1998 (day unknown) with a 2-Stage.
 
 ## Stages
 
@@ -25,7 +25,7 @@ Stockton opened with a Studio C Beta, 16m. It would remain all the way up until 
 
 ## History
 
-Stockton opened on September 6, 2005 with the 2005 remodel, which included {{< wiki-link "CEC 2000's Remodel Program" >}} decor, Skytubes, and a Studio C Beta, 16M. Despite being open, there isn't that much documentation on the internet. In August 2018, they received the 2.0 remodel, which removed the Studio C Beta for a 2017 Model Dance Floor. The Skytubes were removed as well. As of July 2023, Stockton remains like this.
+Stockton opened on September 6, 2005 with the 2005 remodel, which included [CEC 2000's Remodel Program] decor, Skytubes, and a Studio C Beta, 16M. Despite being open, there isn't that much documentation on the internet. In August 2018, they received the 2.0 remodel, which removed the Studio C Beta for a 2017 Model Dance Floor. The Skytubes were removed as well. As of July 2023, Stockton remains like this.
 
 ## Animatronics
 

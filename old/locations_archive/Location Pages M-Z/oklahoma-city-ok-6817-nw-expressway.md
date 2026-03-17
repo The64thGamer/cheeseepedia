@@ -16,7 +16,7 @@ latitudeLongitude = ["35.55590037","-97.63626713"]
 
 ## History
 
-Oklahoma City (Expressway) opened on January 27th, 1982, with a Rock-Afire Explosion stage. This was the 3rd ShowBiz Pizza Place in Oklahoma (After {{< wiki-link "Tulsa, OK (7108 S Memorial Dr)" >}} &amp; the {{< wiki-link "Oklahoma City, OK (7605 S Walker Ave)" >}} location). Oklahoma City (Expressway) would then receive the 1988 remodel remodeling the exterior, and removing older SPP decor for newer decor, and the change to the Billy Bob stage. In 1991, Oklahoma City (Expressway) would receive Concept Unification which removed all SPP decor for CEC decor, an exterior change now saying, 'Chuck E. Cheese's Pizza', and the conversion of the Rock-Afire Explosion for the 3-Stage. In the Mid-90's, the older decor was removed for newer decor. In the Late 90's, Oklahoma City (Expressway) received the Phase 2 remodel removing the older 90's decor, adding newer decor, and the addition of SkyTubes. In 2006, Oklahoma City (Expressway) received the 2005 {{< wiki-link "CEC 2000's Remodel Program" >}} remodel removing all older decor including Record Posters, and the addition of newer decor, another exterior remodel, and the removal of the 3-Stage for the Studio C Beta, 16m. They also expanded the store during this remodel. At some point between 2010-2011, Oklahoma City (Expressway) would expand again to fit in more games and tables. Oklahoma City (Expressway) would remain like this until the Fall of 2021 when they received the 2.0 remodel and removed all {{< wiki-link "CEC 2000's Remodel Program" >}} artwork for 2.0 artwork, another exterior change, and the removal of the Studio C Beta for the Dance Floor and Video Wall. Currently, as of March 2023, the location still has the 2.0 remodel and the Dance Floor and Video Wall.
+Oklahoma City (Expressway) opened on January 27th, 1982, with a Rock-Afire Explosion stage. This was the 3rd ShowBiz Pizza Place in Oklahoma (After [Tulsa, OK (7108 S Memorial Dr)] &amp; the [Oklahoma City, OK (7605 S Walker Ave)] location). Oklahoma City (Expressway) would then receive the 1988 remodel remodeling the exterior, and removing older SPP decor for newer decor, and the change to the Billy Bob stage. In 1991, Oklahoma City (Expressway) would receive Concept Unification which removed all SPP decor for CEC decor, an exterior change now saying, 'Chuck E. Cheese's Pizza', and the conversion of the Rock-Afire Explosion for the 3-Stage. In the Mid-90's, the older decor was removed for newer decor. In the Late 90's, Oklahoma City (Expressway) received the Phase 2 remodel removing the older 90's decor, adding newer decor, and the addition of SkyTubes. In 2006, Oklahoma City (Expressway) received the 2005 [CEC 2000's Remodel Program] remodel removing all older decor including Record Posters, and the addition of newer decor, another exterior remodel, and the removal of the 3-Stage for the Studio C Beta, 16m. They also expanded the store during this remodel. At some point between 2010-2011, Oklahoma City (Expressway) would expand again to fit in more games and tables. Oklahoma City (Expressway) would remain like this until the Fall of 2021 when they received the 2.0 remodel and removed all [CEC 2000's Remodel Program] artwork for 2.0 artwork, another exterior change, and the removal of the Studio C Beta for the Dance Floor and Video Wall. Currently, as of March 2023, the location still has the 2.0 remodel and the Dance Floor and Video Wall.
 
 ## Stages
 
@@ -24,29 +24,29 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 | Stage                                                                                             | Installed    | Removed      | Notes                                                                        |
 |---------------------------------------------------------------------------------------------------|--------------|--------------|------------------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                                                           | January 1982 | 1991         | 3rd ShowBiz Pizza store to open in Oklahoma.                                 |
-| {{< wiki-link "Concept Unification Stage" >}}                                               | 1991         | 2006         | One of three ShowBiz Pizza stores in Oklahoma to receive Concept Unification |
-| {{< wiki-link "Studio C Beta" >}}, 16m                                                      | 2006         | Fall 2021    | Last Studio C in Oklahoma                                                    |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | Fall 2021    | Still in use | 2021 Model.                                                                  |
+| [Classic Stage]                                                           | January 1982 | 1991         | 3rd ShowBiz Pizza store to open in Oklahoma.                                 |
+| [Concept Unification Stage]                                               | 1991         | 2006         | One of three ShowBiz Pizza stores in Oklahoma to receive Concept Unification |
+| [Studio C Beta], 16m                                                      | 2006         | Fall 2021    | Last Studio C in Oklahoma                                                    |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | Fall 2021    | Still in use | 2021 Model.                                                                  |
 
 ## Animatronics
 
 | Character                                                                 | Serial     | Status            |
 |---------------------------------------------------------------------------|------------|-------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 4-81 1-19  | Unknown/Destroyed |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 4-81 2-19  | Unknown/Destroyed |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 4-81 3-19  | Unknown/Destroyed |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 4-81 4-19  | Unknown/Destroyed |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 4-81 5-19  | Unknown/Destroyed |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 4-81 6-19  | Unknown/Destroyed |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 4-81 7-19  | Unknown/Destroyed |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 4-81 8-19  | Unknown/Destroyed |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 4-81 10-19 | Unknown/Destroyed |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 4-81 11-19 | Unknown/Destroyed |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A        | Unknown/Destroyed |
-| {{< wiki-link "Wink" >}}                                            | N/A        | Unknown/Destroyed |
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}                | Unknown    | Destroyed         |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}                  | N/A        | Destroyed         |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-19  | Unknown/Destroyed |
+| [Dook Larue (Animatronic)]                        | 4-81 2-19  | Unknown/Destroyed |
+| [Fatz Geronimo (Animatronic)]                     | 4-81 3-19  | Unknown/Destroyed |
+| [Beach Bear (Animatronic)]                        | 4-81 4-19  | Unknown/Destroyed |
+| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-19  | Unknown/Destroyed |
+| [Billy Bob (Animatronic)]                         | 4-81 6-19  | Unknown/Destroyed |
+| [Looney Bird (Animatronic)]                       | 4-81 7-19  | Unknown/Destroyed |
+| [Choo Choo (Animatronic)]                         | 4-81 8-19  | Unknown/Destroyed |
+| [Sun (Animatronic)]                               | 4-81 10-19 | Unknown/Destroyed |
+| [Moon (Animatronic)]                              | 4-81 11-19 | Unknown/Destroyed |
+| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed |
+| [Wink]                                            | N/A        | Unknown/Destroyed |
+| [Chuck E Cheese 16m (Animatronic)]                | Unknown    | Destroyed         |
+| [Pizza Time Clock (Animatronic)]                  | N/A        | Destroyed         |
 
 ## Videos
 

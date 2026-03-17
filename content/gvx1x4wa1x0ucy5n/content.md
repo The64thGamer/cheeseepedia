@@ -1,4 +1,4 @@
-***Holiday '94*** was a rerelease of {{< wiki-link "Holiday '93" >}} for the 1994 holiday season.
+***Holiday '94*** was a rerelease of [Holiday '93] for the 1994 holiday season.
 
 ## Show List
 

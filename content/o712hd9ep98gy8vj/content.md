@@ -1,7 +1,7 @@
 .]]
-The ***CEI LaserDisc* was a prototype showtape format created by Creative Engineering Inc. in 1983 for the {{< wiki-link "Dr Juke" >}} *Rock-afire Explosion* Show Selector. Utilizing a CAV LaserDisc, with playback controlled by associated hardware, it featured interactive touchscreen video elements when show segments were not playing.
+The ***CEI LaserDisc* was a prototype showtape format created by Creative Engineering Inc. in 1983 for the [Dr Juke] *Rock-afire Explosion* Show Selector. Utilizing a CAV LaserDisc, with playback controlled by associated hardware, it featured interactive touchscreen video elements when show segments were not playing.
 The need to provide four channels of audio (two for the music program, two for show data) necessitated the use of the video portion of the disc for PCM adaptor audio during show segments. Standard video was usable when a show segment was not playing, with CAV LaserDisc's frame-addressable random access being used to select individual frames to display.
-Only one LaserDisc was produced for the format, the {{< wiki-link "Dr Juke Test Tape" >}}, manufactured by Pioneer.**
+Only one LaserDisc was produced for the format, the [Dr Juke Test Tape], manufactured by Pioneer.**
 
 ## Format
 
@@ -12,4 +12,4 @@ Following the Klunk segment are all the showtape segments. The video portion of 
 
 ## Potential Tape Media
 
-Due to LaserDisc not being able to simultaneously play audio and video from separate sections of the disc, there would be no way of having audio play during the frame-by-frame show selection segments. Due to the Rock-afire Explosion tape decks going unused with the Dr. Juke system, the decks could have potentially been used to host the show selector audio, with the entire format consisting of a Laserdisc and a {{< wiki-link "CEI 4-Track Reel" >}} for each showtape. Due to the limited information available on Dr. Juke, it is unclear if this was the case or another solution was implemented.
+Due to LaserDisc not being able to simultaneously play audio and video from separate sections of the disc, there would be no way of having audio play during the frame-by-frame show selection segments. Due to the Rock-afire Explosion tape decks going unused with the Dr. Juke system, the decks could have potentially been used to host the show selector audio, with the entire format consisting of a Laserdisc and a [CEI 4-Track Reel] for each showtape. Due to the limited information available on Dr. Juke, it is unclear if this was the case or another solution was implemented.

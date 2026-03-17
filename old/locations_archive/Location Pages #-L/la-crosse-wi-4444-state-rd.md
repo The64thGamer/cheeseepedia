@@ -21,9 +21,9 @@ Originally, La Crosse featured a Rock-Afire Explosion, as all other ShowBiz loca
 
 | Stage                                                                                             | Installed     | Removed      |
 |---------------------------------------------------------------------------------------------------|---------------|--------------|
-| {{< wiki-link "Classic Stage" >}}                                                           | December 1982 | 1991         |
-| {{< wiki-link "Concept Unification Stage" >}}                                               | 1991          | June 2022    |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | June 2022     | Still in Use |
+| [Classic Stage]                                                           | December 1982 | 1991         |
+| [Concept Unification Stage]                                               | 1991          | June 2022    |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | June 2022     | Still in Use |
 
 ## History
 
@@ -48,6 +48,6 @@ La Crosse opened on December 15th, 1982 as the fifth ShowBiz Pizza Place in Wisc
 
 ## Trivia
 
-- La Crosse was the 5th ShowBiz to open in Wisconsin after {{< wiki-link "Milwaukee, WI (7401 Good Hope Rd)" >}} (Opened June 17th, 1981), Milwaukee, WI (4595 S 27th St) (Opened August 27th, 1981), {{< wiki-link "Madison, WI (438 Grand Canyon Dr)" >}} (Opened July 7th, 1982), &amp; {{< wiki-link "Green Bay, WI (1273 Lombardi Access)" >}} (Opened October 28th, 1982).
-- La Crosse was one of three ShowBiz locations in Wisconsin to undergo Concept Unification (The other two being {{< wiki-link "Madison, WI (438 Grand Canyon Dr)" >}} &amp; {{< wiki-link "Green Bay, WI (1273 Lombardi Access)" >}}) as Milwaukee, WI (7401 Good Hope Rd) replaced their Rock-afire with a [Rocker Stage](https://cheeseepedia.org/wiki/Cyberamics_Rocker_Stage) in June 1988 (Their show would get Concept Unification when the show was installed at [Raleigh](https://cheeseepedia.org/wiki/Raleigh,_NC_%283501-131_Capital_Blvd%29)) and the store would eventually close sometime in 1995 with a [1-Stage](https://cheeseepedia.org/wiki/1-Stage). This also happened in {{< wiki-link "Citrus Heights, CA (6251 Sunrise Blvd)" >}} though they got a Road Stage around 1993/1994 and then a 1-Stage in 2015. Milwaukee, WI (4595 S 27th St) &amp; [Appleton](https://cheeseepedia.org/wiki/Appleton,_WI_%282424_W_College_Ave%29) on the other hand were closed by 1986 and never converted into Chuck E. Cheese.
+- La Crosse was the 5th ShowBiz to open in Wisconsin after [Milwaukee, WI (7401 Good Hope Rd)] (Opened June 17th, 1981), Milwaukee, WI (4595 S 27th St) (Opened August 27th, 1981), [Madison, WI (438 Grand Canyon Dr)] (Opened July 7th, 1982), &amp; [Green Bay, WI (1273 Lombardi Access)] (Opened October 28th, 1982).
+- La Crosse was one of three ShowBiz locations in Wisconsin to undergo Concept Unification (The other two being [Madison, WI (438 Grand Canyon Dr)] &amp; [Green Bay, WI (1273 Lombardi Access)]) as Milwaukee, WI (7401 Good Hope Rd) replaced their Rock-afire with a [Rocker Stage](https://cheeseepedia.org/wiki/Cyberamics_Rocker_Stage) in June 1988 (Their show would get Concept Unification when the show was installed at [Raleigh](https://cheeseepedia.org/wiki/Raleigh,_NC_%283501-131_Capital_Blvd%29)) and the store would eventually close sometime in 1995 with a [1-Stage](https://cheeseepedia.org/wiki/1-Stage). This also happened in [Citrus Heights, CA (6251 Sunrise Blvd)] though they got a Road Stage around 1993/1994 and then a 1-Stage in 2015. Milwaukee, WI (4595 S 27th St) &amp; [Appleton](https://cheeseepedia.org/wiki/Appleton,_WI_%282424_W_College_Ave%29) on the other hand were closed by 1986 and never converted into Chuck E. Cheese.
 - It was also the 130th ShowBiz location to open.

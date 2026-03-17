@@ -33,29 +33,29 @@ I've also been to a few others but it was so long ago that I can't recall the ex
 
 ### Signage
 
-1.  {{< wiki-link "PTT Skee-Ball Points Sign (1978)" >}}
-2.  {{< wiki-link "PTT Fantasy Forest Game Preserve Sign (1978)" >}}
-3.  {{< wiki-link "Fantasy Forest Game Preserve - Black (Kooser Signage)" >}}
-4.  {{< wiki-link "PTT Pasquallys Perfect Pizza Sign (1978)" >}}
-5.  {{< wiki-link "PTT Winchester Restrooms Sign" >}}
-6.  {{< wiki-link "PTT Winchester Game Room Rules Sign" >}}
+1.  [PTT Skee-Ball Points Sign (1978)]
+2.  [PTT Fantasy Forest Game Preserve Sign (1978)]
+3.  [Fantasy Forest Game Preserve - Black (Kooser Signage)]
+4.  [PTT Pasquallys Perfect Pizza Sign (1978)]
+5.  [PTT Winchester Restrooms Sign]
+6.  [PTT Winchester Game Room Rules Sign]
 
 ### Nameplates
 
 #### Winchester
 
-1.  {{< wiki-link "PTT Winchester Chuck E. Cheese Name Sign (1977)" >}}
-2.  {{< wiki-link "PTT Winchester Crusty Name Sign (1977)" >}}
-3.  {{< wiki-link "PTT Winchester Jasper T Jowls Name Sign (1977)" >}}
-4.  {{< wiki-link "PTT Winchester Warblettes Name Sign (1977)" >}}
-5.  {{< wiki-link "PTT Winchester Helen Henny Name Sign (1977)" >}}
-6.  {{< wiki-link "PTT Madam Oink Name Sign (1978)" >}}
-7.  {{< wiki-link "PTT Winchester Foxy Colleen Name Sign (1978)" >}}
+1.  [PTT Winchester Chuck E. Cheese Name Sign (1977)]
+2.  [PTT Winchester Crusty Name Sign (1977)]
+3.  [PTT Winchester Jasper T Jowls Name Sign (1977)]
+4.  [PTT Winchester Warblettes Name Sign (1977)]
+5.  [PTT Winchester Helen Henny Name Sign (1977)]
+6.  [PTT Madam Oink Name Sign (1978)]
+7.  [PTT Winchester Foxy Colleen Name Sign (1978)]
 
 #### Kooser
 
-1.  {{< wiki-link "PTT Kooser Chuck E. Cheese Name Sign (1978)" >}}
-2.  {{< wiki-link "PTT Kooser Mr Munch Name Sign (1978)" >}}
-3.  {{< wiki-link "PTT Kooser Jasper T Jowls Name Sign (1978)" >}}
-4.  {{< wiki-link "PTT Kooser Helen Henny Name Sign (1978)" >}}
-5.  {{< wiki-link "PTT Kooser Mopsey Sisters Name Sign (1978)" >}}
+1.  [PTT Kooser Chuck E. Cheese Name Sign (1978)]
+2.  [PTT Kooser Mr Munch Name Sign (1978)]
+3.  [PTT Kooser Jasper T Jowls Name Sign (1978)]
+4.  [PTT Kooser Helen Henny Name Sign (1978)]
+5.  [PTT Kooser Mopsey Sisters Name Sign (1978)]

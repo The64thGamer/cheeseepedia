@@ -61,16 +61,16 @@ The North Richland Hills, TX CEC is featured in the first segment. Chuck E. Town
 
 ### Unused Blue Screen Footage
 
-All the Studio C segments would be filmed by Brian Hagan with the Chuck E. animatronic in front of a blue screen. This was done in case blue screen footage was ever needed, but ultimately went unused.{{< cite 1 >}} These were filmed on DVCAM tapes.
-On December 23, 2021, all the unused footage would be uploaded to Brian's YouTube channel.{{< cite 2 >}}
+All the Studio C segments would be filmed by Brian Hagan with the Chuck E. animatronic in front of a blue screen. This was done in case blue screen footage was ever needed, but ultimately went unused.[1] These were filmed on DVCAM tapes.
+On December 23, 2021, all the unused footage would be uploaded to Brian's YouTube channel.[2]
 
 ### Digital Audio Masters
 
-The showtape's original stereo audio for all the segments and the live show would be preserved on Digital Audio Tape. On March 4, 2022, Brian Hagan would upload the original DAT recordings to his YouTube channel{{< cite 2 >}}, while providing lossless FLACs of the audio to the community.
+The showtape's original stereo audio for all the segments and the live show would be preserved on Digital Audio Tape. On March 4, 2022, Brian Hagan would upload the original DAT recordings to his YouTube channel[2], while providing lossless FLACs of the audio to the community.
 
 ## Trivia
 
-- Dancin' On The Moon is originally from {{< wiki-link "CEC Rock It Into Space" >}},
+- Dancin' On The Moon is originally from [CEC Rock It Into Space],
 - This was the first show to feature John Bowen as Mr. Munch and Earl Fisher as Pasqually, as well as the first to feature Mike Manley and the Super Jasper intermissions.
 - This was the final show to use walkarounds to portray Munch's Make Believe Band on Studio C. Starting with the next show, puppets would be used instead.
 - For Studio C, 'Hip Mouse' and 'Dancin' On The Moon' were sung by Chuck E. Cheese. On existing stages, Munch sang 'Hip Mouse' and Jasper sang 'Dancin' On The Moon'. 'Pizza Serenade' also has added vocals by Chuck E. on Studio C. 

@@ -1,4 +1,4 @@
-***Holiday 1993*** was a rerelease of {{< wiki-link "Holiday Special 1992" >}} for the 1993 holiday season, which rearranged the intermissions and allowed the segments to play with the 1993 EPROM.
+***Holiday 1993*** was a rerelease of [Holiday Special 1992] for the 1993 holiday season, which rearranged the intermissions and allowed the segments to play with the 1993 EPROM.
 
 ## Show List
 

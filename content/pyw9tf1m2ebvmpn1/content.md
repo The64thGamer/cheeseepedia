@@ -1,5 +1,5 @@
 The ***SPP Curtain Cont Bypass Board* is a board used in an unknown amount of Gray Box|Gray Boxes.
-The only confirmed sightings of the board would be at {{< wiki-link "Fargo, ND (1202 Nodak Dr)" >}} and in a Gray Box eBay listing.**
+The only confirmed sightings of the board would be at [Fargo, ND (1202 Nodak Dr)] and in a Gray Box eBay listing.**
 
 ## Function
 

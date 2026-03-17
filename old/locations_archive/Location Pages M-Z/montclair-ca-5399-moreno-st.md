@@ -9,7 +9,7 @@ contributors = ["Destinationimagination95","CEC1988"]
 citations = ["<a href=\"https://www.newspapers.com/article/the-los-angeles-times-kids-r-us-montcl/147039230/\">https://www.newspapers.com/article/the-los-angeles-times-kids-r-us-montcl/147039230/</a>"]
 +++
 
-***Montclair, CA (5399 Moreno Street, Space B)*** was a planned {{< wiki-link "Chuck E Cheese's" >}} to open around 2002-2003 in the Montclair East Shopping Center. The store would've most likely had {{< wiki-link "Studio C Beta" >}} if completed. This location should not be confused with the {{< wiki-link "ShowBiz Pizza Place" >}} that previously operated nearby in {{< wiki-link "Montclair, CA (5060 E Montclair Plaza Lane)" >}}.
+***Montclair, CA (5399 Moreno Street, Space B)*** was a planned [Chuck E Cheese's] to open around 2002-2003 in the Montclair East Shopping Center. The store would've most likely had [Studio C Beta] if completed. This location should not be confused with the [ShowBiz Pizza Place] that previously operated nearby in [Montclair, CA (5060 E Montclair Plaza Lane)].
 
 ## History
 
@@ -17,7 +17,7 @@ On August 14th, 2002, *The Los Angeles Times* reported Chuck E. Cheese's had lea
 
 ## Stages
 
-This location (if opened) would house one of the few Studio C Beta's in California, especially the southern side alongside {{< wiki-link "Fullerton, CA (1134 S Harbor Blvd)" >}}
+This location (if opened) would house one of the few Studio C Beta's in California, especially the southern side alongside [Fullerton, CA (1134 S Harbor Blvd)]
 
 ## Stages
 
@@ -29,5 +29,5 @@ This location (if opened) would house one of the few Studio C Beta's in Californ
 
 | Animatronic                                                | Serial Number | Whereabouts |
 |------------------------------------------------------------|---------------|-------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A           | Unknown     |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A           | Unknown     |
+| [Chuck E Cheese 16m (Animatronic)] | N/A           | Unknown     |
+| [Pizza Time Clock (Animatronic)]   | N/A           | Unknown     |

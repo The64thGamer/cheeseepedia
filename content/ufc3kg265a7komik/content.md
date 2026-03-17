@@ -73,7 +73,7 @@
 
 ### APS Files
 
-The show was part of the {{< wiki-link "1990-1992 APS Floppy Cases" >}}, being the third tape known to have been made using APS.
+The show was part of the [1990-1992 APS Floppy Cases], being the third tape known to have been made using APS.
 
 #### Floppy Disk Labels
 
@@ -81,7 +81,7 @@ The show was part of the {{< wiki-link "1990-1992 APS Floppy Cases" >}}, being t
 
 #### Files
 
-This table excludes entries for the {{< wiki-link "CEC Christmas '90 Wave Bday" >}} show.
+This table excludes entries for the [CEC Christmas '90 Wave Bday] show.
 
 | File Name | Size (bytes) | Modified Date         | Header Time | Header Title 1              | Header Title 2            |
 |-----------|--------------|-----------------------|-------------|-----------------------------|---------------------------|
@@ -107,4 +107,4 @@ The entry '#an-1.atl' was recovered from a deleted section of the disk, with the
 ## Trivia:
 
 - This was the final show to use the 'It's Showtime' bumper and Cyberstar Intro.
-- The intermission music is the same as {{< wiki-link "SPP Best Of 2" >}} (except it excludes a couple of songs for that show).
+- The intermission music is the same as [SPP Best Of 2] (except it excludes a couple of songs for that show).

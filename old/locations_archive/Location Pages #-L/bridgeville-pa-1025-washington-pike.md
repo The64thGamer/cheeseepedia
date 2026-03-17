@@ -13,7 +13,7 @@ pageThumbnailFile = "ziojPIB3XWH8z9vSYsTc.avif"
 latitudeLongitude = ["40.36444672","-80.11325788"]
 +++
 
-***1025 Washington Pike*** was a *Pizza Time Theatre/Chuck E. Cheese* that opened on February 17, 1983, as a franchised *Pizza Time Theatre* with a Balcony Stage Show and closed in October 2002 with the 2-Stage. It was located in the Chartiers Valley Shopping Center. This store relocated to the {{< wiki-link "Bridgeville, PA (1035 Washington Pike)" >}} which is still open to this day.
+***1025 Washington Pike*** was a *Pizza Time Theatre/Chuck E. Cheese* that opened on February 17, 1983, as a franchised *Pizza Time Theatre* with a Balcony Stage Show and closed in October 2002 with the 2-Stage. It was located in the Chartiers Valley Shopping Center. This store relocated to the [Bridgeville, PA (1035 Washington Pike)] which is still open to this day.
 
 ## History
 
@@ -21,29 +21,29 @@ Bridgeville opened its doors on February 17th, 1983, with a Balcony Stage. It wa
 
 ## Stages
 
-When Bridgeville opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Unfortunately, there are not many videos and no photos to exist of Bridgeville back then. Sometime between the Late 80's, they installed {{< wiki-link "Chuck E's House Facade" >}}, otherwise known as the C-Stage. This location would get a 2-Stage installed in 1992. In 2002, Bridgeville relocated to their current location which destroyed their 2-Stage.
+When Bridgeville opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Unfortunately, there are not many videos and no photos to exist of Bridgeville back then. Sometime between the Late 80's, they installed [Chuck E's House Facade], otherwise known as the C-Stage. This location would get a 2-Stage installed in 1992. In 2002, Bridgeville relocated to their current location which destroyed their 2-Stage.
 
 | Stage                                              | Installed     | Removed   | Notes                                           |
 |----------------------------------------------------|---------------|-----------|-------------------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | February 1983 | 1989/1990 | 3rd Pizza Time Theatre to open in Pennsylvania. |
-| {{< wiki-link "Chuck E's House Facade" >}}   | 1989/1990     | 1992      | One of 4 installed in Pennsylvania.             |
-| {{< wiki-link "2-Stage" >}}                  | 1992          | 2002      | One of 7/8 installed in Pennsylvania.           |
+| [Cyberamics Balcony Stage] | February 1983 | 1989/1990 | 3rd Pizza Time Theatre to open in Pennsylvania. |
+| [Chuck E's House Facade]   | 1989/1990     | 1992      | One of 4 installed in Pennsylvania.             |
+| [2-Stage]                  | 1992          | 2002      | One of 7/8 installed in Pennsylvania.           |
 
 ## Animatronics
 
 | Character                                                    | Serial Number | Status              |
 |--------------------------------------------------------------|---------------|---------------------|
 | Chuck E Cheese (Cyberamic)                                   | Unknown       | Unknown / Destroyed |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown       | Unknown / Destroyed |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown       | Unknown / Destroyed |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown       | Unknown / Destroyed |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown       | Unknown / Destroyed |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown       | Unknown / Destroyed |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Unknown / Destroyed |
+| [Mr Munch (Cyberamic)]               | Unknown       | Unknown / Destroyed |
+| [Jasper T Jowls (Cyberamic)]         | Unknown       | Unknown / Destroyed |
+| [Pasqually (Cyberamic)]              | Unknown       | Unknown / Destroyed |
+| [Warblettes (Cyberamic)]             | Unknown       | Unknown / Destroyed |
 | Waving Flags (Cyberamic)                                     | Unknown       | Unknown / Destroyed |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown       | Unknown / Destroyed |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown       | Unknown / Destroyed |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | Unknown       | Unknown / Destroyed |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | Unknown       | Unknown / Destroyed |
+| [Applause Board (Cyberamic)]         | Unknown       | Unknown / Destroyed |
+| [Drum Board (Cyberamic)]             | Unknown       | Unknown / Destroyed |
+| [Singing Flowers (Cyberamic)]        | Unknown       | Unknown / Destroyed |
+| [Wink (Cyberamic)]                   | Unknown       | Unknown / Destroyed |
 
 ## Videos
 

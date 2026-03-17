@@ -10,11 +10,11 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***Athens, GA(3654-I Atlanta Hwy)*** is a Chuck E. Cheese’s that opened on April 10, 2000 and is still open today with the {{< wiki-link "CEC 2.0 Remodel Program" >}}. This location should not be confused with {{< wiki-link "Athens, GA (3585 Atlanta Hwy)" >}} which opened on March 07, 1983 and closed on 1984 (month and day unknown)
+***Athens, GA(3654-I Atlanta Hwy)*** is a Chuck E. Cheese’s that opened on April 10, 2000 and is still open today with the [CEC 2.0 Remodel Program]. This location should not be confused with [Athens, GA (3585 Atlanta Hwy)] which opened on March 07, 1983 and closed on 1984 (month and day unknown)
 
 ## Stages
 
-When this location opened, it had a prototype {{< wiki-link "Studio C Beta" >}}(1) that had one TV. It would stay like this until February 2022 when it would be replaced by the 2019 Model {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}.
+When this location opened, it had a prototype [Studio C Beta](1) that had one TV. It would stay like this until February 2022 when it would be replaced by the 2019 Model [Chuck E Live Stage (Dance Floor)].
 
 ## History
 
@@ -38,7 +38,7 @@ Athens opened on April 10, 2000 with the major 90s remodel. It would remain like
 
 | Animatronic                                                | Serial | Wherabouts        |
 |------------------------------------------------------------|--------|-------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | N/A    | Unknown/Destroyed |
+| [Chuck E Cheese 32m (Animatronic)] | N/A    | Unknown/Destroyed |
 
 ## Games
 

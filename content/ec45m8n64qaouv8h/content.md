@@ -1,4 +1,4 @@
-***Uncle Klunk Showtape (Jeff Howell)* is an unreleased Rock-afire Explosion showtape originally intended to be released in ShowBiz Pizza Place locations in July 1983. It was replaced by the final {{< wiki-link "Uncle Klunk Showtape" >}}.**
+***Uncle Klunk Showtape (Jeff Howell)* is an unreleased Rock-afire Explosion showtape originally intended to be released in ShowBiz Pizza Place locations in July 1983. It was replaced by the final [Uncle Klunk Showtape].**
 
 ## Segment List
 

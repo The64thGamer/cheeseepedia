@@ -29,9 +29,9 @@ The bot features 16 movements in total, hence the name, with the majority being 
 
 ## Stages Used In
 
-- {{< wiki-link "Studio C Alpha" >}}: Installed from 1997-2002, 2012 and 2015. Animatronic Installed in one location, June 2020 - November 2020.
-- {{< wiki-link "Studio C Beta" >}}: Installed from 2003-2012. 1 preserved in {{< wiki-link "Nanuet, NY (250 West Route 59)" >}} as part of legacy location.
-- {{< wiki-link "Studio C Cappa" >}}: Installed from 2003-2006. 12 left as of September 2024.
-- {{< wiki-link "Galaxy Stage" >}}: Was exclusive to the West Melbourne, FL store. Removed April 10, 2023.
-- {{< wiki-link "Circles of Light" >}}: Installed from 2012-2013, 2014, 2015, 2018. 9 left as of September 2024.
-- {{< wiki-link "CU Beta 16M" >}}: Installed in two locations, July 2020 &amp; October 2020. 0 left as of July 2024.
+- [Studio C Alpha]: Installed from 1997-2002, 2012 and 2015. Animatronic Installed in one location, June 2020 - November 2020.
+- [Studio C Beta]: Installed from 2003-2012. 1 preserved in [Nanuet, NY (250 West Route 59)] as part of legacy location.
+- [Studio C Cappa]: Installed from 2003-2006. 12 left as of September 2024.
+- [Galaxy Stage]: Was exclusive to the West Melbourne, FL store. Removed April 10, 2023.
+- [Circles of Light]: Installed from 2012-2013, 2014, 2015, 2018. 9 left as of September 2024.
+- [CU Beta 16M]: Installed in two locations, July 2020 &amp; October 2020. 0 left as of July 2024.

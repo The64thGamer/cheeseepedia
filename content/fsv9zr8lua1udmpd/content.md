@@ -10,7 +10,7 @@ The show has a prototype version that was shown in the original pamplet for the 
 
 ### Unveiling
 
-Only one showtape was made with the stage, being the {{< wiki-link "Moonrockers Showtape" >}} shown at the November 1985 IAPPA event, where Mitzi's voice actor Shalisa Sloan would sing alongside the animatronics. The first two segments were meta references to the stage being swapped out from the Rock-afire Explosion during the event, based on Mitzi being re-costumed and the band tuning up. The third segment consists of 3 songs played by the Moonrockers, being the Moonrockers' Theme, Cyclops Boogie, and a reprise of the Moonrockers' Theme. Despite the selection of segments, the general public outside of those that attended the event only knew of the initial Moonrockers' Theme due to the limited selection of promotional footage. Creative Engineering would also never acknowledge the existence of any other songs on the showtape until 2022. Currently, only a select portion of this song is available to the public, with the full showtape only watchable for {{< wiki-link "Creative Engineering Premium Video Service" >}} members.
+Only one showtape was made with the stage, being the [Moonrockers Showtape] shown at the November 1985 IAPPA event, where Mitzi's voice actor Shalisa Sloan would sing alongside the animatronics. The first two segments were meta references to the stage being swapped out from the Rock-afire Explosion during the event, based on Mitzi being re-costumed and the band tuning up. The third segment consists of 3 songs played by the Moonrockers, being the Moonrockers' Theme, Cyclops Boogie, and a reprise of the Moonrockers' Theme. Despite the selection of segments, the general public outside of those that attended the event only knew of the initial Moonrockers' Theme due to the limited selection of promotional footage. Creative Engineering would also never acknowledge the existence of any other songs on the showtape until 2022. Currently, only a select portion of this song is available to the public, with the full showtape only watchable for [Creative Engineering Premium Video Service] members.
 
 ### Post-IAPPA
 
@@ -18,7 +18,7 @@ Going into the 1990s and 2000s, the show would mostly just sit in the CEI buildi
 
 ### Disassembly
 
-Most recently, as preparations for the move to the {{< wiki-link "Creative Engineering Museum" >}}, the official Rock-afire Explosion YouTube channel released a video showcasing the beginning of the stage being packed up for the move. Other footage of the show to recently surface is of the original introduction show being tested after years of the show sitting in the CEI building, showing the condition of the show before it has been fully restored yet for its place in the museum. At this time the showtape would finally be digitized, and fans would learn of the other segments.
+Most recently, as preparations for the move to the [Creative Engineering Museum], the official Rock-afire Explosion YouTube channel released a video showcasing the beginning of the stage being packed up for the move. Other footage of the show to recently surface is of the original introduction show being tested after years of the show sitting in the CEI building, showing the condition of the show before it has been fully restored yet for its place in the museum. At this time the showtape would finally be digitized, and fans would learn of the other segments.
 
 ## Videos
 

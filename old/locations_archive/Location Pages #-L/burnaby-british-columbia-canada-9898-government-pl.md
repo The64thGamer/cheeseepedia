@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["49.24483752","-122.9024755"]
 +++
 
-***9898 Government Place*** or ***9898 Gatineau Place*** was a Chuck E Cheese's Pizza Time Theater that opened in December 1983 (day unknown) with a {{< wiki-link "Cyberamics Balcony Stage" >}} and closed in 1995 (month and day unknown) with {{< wiki-link "Chuck E's House Facade" >}}. It was in a 2-story building.
+***9898 Government Place*** or ***9898 Gatineau Place*** was a Chuck E Cheese's Pizza Time Theater that opened in December 1983 (day unknown) with a [Cyberamics Balcony Stage] and closed in 1995 (month and day unknown) with [Chuck E's House Facade]. It was in a 2-story building.
 
 ## History
 
@@ -29,15 +29,15 @@ TODO
 
 | Character                                                    | Manufacturing Date | Status  |
 |--------------------------------------------------------------|--------------------|---------|
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown |
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | Unknown            | Unknown |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Unknown |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown |
+| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown |
 | Waving Flags (Cyberamic)                                     | Unknown            | Unknown |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown            | Unknown |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown            | Unknown |
+| [Applause Board (Cyberamic)]         | Unknown            | Unknown |
+| [Drum Board (Cyberamic)]             | Unknown            | Unknown |
 
 ## Videos
 

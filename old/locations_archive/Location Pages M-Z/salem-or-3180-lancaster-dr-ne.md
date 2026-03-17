@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["44.96516192","-122.9847033"]
 +++
 
-***3180 Lancaster Drive Northeast*** was a *Pizza Time Theatre* that opened on January 1, 1984, and closed somewhere between 1988-1989 with a {{< wiki-link "Cyberamics Balcony Stage" >}}. It was located across from the Oak Park Plaza shopping mall. It relocated to the {{< wiki-link "Salem, OR (3240 Lancaster Dr NE)" >}} location which opened around 1988-1989 with {{< wiki-link "Chuck E's House" >}}, and is still open to this day as a 2.0 with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and {{< wiki-link "Video Wall" >}}.
+***3180 Lancaster Drive Northeast*** was a *Pizza Time Theatre* that opened on January 1, 1984, and closed somewhere between 1988-1989 with a [Cyberamics Balcony Stage]. It was located across from the Oak Park Plaza shopping mall. It relocated to the [Salem, OR (3240 Lancaster Dr NE)] location which opened around 1988-1989 with [Chuck E's House], and is still open to this day as a 2.0 with a [Chuck E Live Stage (Dance Floor)] and [Video Wall].
 
 ## Stages
 
@@ -27,11 +27,11 @@ Old Salem opened on January 1st, 1984, as the 3rd and last Pizza Time Theatre to
 | Animatronic                                                  | Serial | Manufacturing Date | Whereabouts        |
 |--------------------------------------------------------------|--------|--------------------|--------------------|
 | Chuck E Cheese (Cyberamic)                                   | N/A    | N/A                | Unknown/Destroyed. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | N/A    | N/A                | Unknown/Destroyed. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | N/A    | N/A                | Unknown/Destroyed. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | N/A    | N/A                | Unknown/Destroyed. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | N/A    | N/A                | Unknown/Destroyed. |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | N/a    | N/A                | Unknown/Destroyed. |
+| [Guest Star Helen Henny (Cyberamic)] | N/A    | N/A                | Unknown/Destroyed. |
+| [Mr Munch (Cyberamic)]               | N/A    | N/A                | Unknown/Destroyed. |
+| [Jasper T Jowls (Cyberamic)]         | N/A    | N/A                | Unknown/Destroyed. |
+| [Pasqually (Cyberamic)]              | N/A    | N/A                | Unknown/Destroyed. |
+| [Warblettes (Cyberamic)]             | N/a    | N/A                | Unknown/Destroyed. |
 | Clapper Board (Cyberamic)                                    | N/A    | N/A                | Unknown/Destroyed. |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | N/A    | N/A                | Unknown/Destroyed. |
-| {{< wiki-link "Flag Wavers (Cyberamic)" >}}            | N/A    | N/A                | Unknown/Destroyed. |
+| [The King King Kat (Lounge)]         | N/A    | N/A                | Unknown/Destroyed. |
+| [Flag Wavers (Cyberamic)]            | N/A    | N/A                | Unknown/Destroyed. |

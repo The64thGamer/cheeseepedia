@@ -2,8 +2,8 @@ The ***Chuck E. Cheese Baby Pony*** was a Chuck E. Cheese branded *My Little Pon
  
 ## Design
 
-The pony used the 1984 Baby Pony mold from the Play & Care Sets line.{{< cite 1 >}} The body used the standard Dark Pink color, and the hair with a blue color. The eyes were painted green, and the *rump design* (later colloquially referred to as a *Cutie Mark*){{< cite 2 >}}{{< cite 3 >}} was white line art of a standard Chuck E. Cheese artwork with white text below it reading 'Chuck E. Cheese'- taken from the *Pizza Time Theatre* logo.
-The pony came in a plastic *My Little Pony* branded bag with no other accessories. This is similar to the Mail Order Ponies that were available which came in unlabeled plastic bags, causing later confusion that the CEC pony was also mail order.{{< cite 4 >}}
+The pony used the 1984 Baby Pony mold from the Play & Care Sets line.[1] The body used the standard Dark Pink color, and the hair with a blue color. The eyes were painted green, and the *rump design* (later colloquially referred to as a *Cutie Mark*)[2][3] was white line art of a standard Chuck E. Cheese artwork with white text below it reading 'Chuck E. Cheese'- taken from the *Pizza Time Theatre* logo.
+The pony came in a plastic *My Little Pony* branded bag with no other accessories. This is similar to the Mail Order Ponies that were available which came in unlabeled plastic bags, causing later confusion that the CEC pony was also mail order.[4]
 
 ### Degradation
 

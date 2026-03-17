@@ -1,4 +1,4 @@
-The ***Pizza Time Theatre Broadway Helen Theme* was a temporary alteration to the stage and character designs for use in the 1983 {{< wiki-link "Broadway Helen Henny" >}} showtape.**
+The ***Pizza Time Theatre Broadway Helen Theme* was a temporary alteration to the stage and character designs for use in the 1983 [Broadway Helen Henny] showtape.**
 
 ## Stage Design
 

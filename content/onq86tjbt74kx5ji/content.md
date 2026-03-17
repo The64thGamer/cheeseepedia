@@ -1,4 +1,4 @@
-**P.T. Bearum** was an animatronic made by **Creative Presentations** for **Craig Singer** to be used in his restaurant chain called {{< wiki-link "Sgt Singer's Pizza Circus" >}}. He would play along with **Sgt. Singer** and **Pounce D' Lion** on the main stage of the restaurant.
+**P.T. Bearum** was an animatronic made by **Creative Presentations** for **Craig Singer** to be used in his restaurant chain called [Sgt Singer's Pizza Circus]. He would play along with **Sgt. Singer** and **Pounce D' Lion** on the main stage of the restaurant.
 
 ## History
 

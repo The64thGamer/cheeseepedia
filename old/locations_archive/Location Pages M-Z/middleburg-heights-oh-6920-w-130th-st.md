@@ -16,11 +16,11 @@ categories = ["Pizza Time Theatre"]
 
 ### Pizza Time Theater
 
-The Middleburg Heights Pizza Time Theatre opened in May 1981 with a {{< wiki-link "Cyberamics Balcony Stage" >}} Unfortunately there is one photo of it but no videos exist of this location as a PTT. The location would end up closing in 1986.
+The Middleburg Heights Pizza Time Theatre opened in May 1981 with a [Cyberamics Balcony Stage] Unfortunately there is one photo of it but no videos exist of this location as a PTT. The location would end up closing in 1986.
 
 ### Marc's Funtime
 
-The location was purchased by Marc Glassman, owner of the Marc's Grocery Store chain, and converted to the first Marc's Funtime Pizza Palace. The new location opened in 1987, keeping the original balcony stage, flag wavers, and band board, but retrofitting the Pizza Time Players to the 'Marc's Funtime Band'. The location also featured a {{< wiki-link "Click Murray D Bird (Animatronic)" >}} animatronic from ShowBiz Pizza Place.
+The location was purchased by Marc Glassman, owner of the Marc's Grocery Store chain, and converted to the first Marc's Funtime Pizza Palace. The new location opened in 1987, keeping the original balcony stage, flag wavers, and band board, but retrofitting the Pizza Time Players to the 'Marc's Funtime Band'. The location also featured a [Click Murray D Bird (Animatronic)] animatronic from ShowBiz Pizza Place.
 
 ### Closure
 
@@ -31,11 +31,11 @@ Marc's Funtime would end up closing before 2003, with the original plaza being d
 | Animatronic                                                  | Manufactuer Date | Status                          |
 |--------------------------------------------------------------|------------------|---------------------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981             | Retrofitted, 1986               |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1981             | Retrofitted, 1986               |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1981             | Retrofitted, 1986               |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1981             | Retrofitted, 1986               |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1981             | Retrofitted, 1986               |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | Unknown          | Kept on Display, Destroyed 2016 |
+| [Guest Star Helen Henny (Cyberamic)] | 1981             | Retrofitted, 1986               |
+| [Mr Munch (Cyberamic)]               | 1981             | Retrofitted, 1986               |
+| [Jasper T Jowls (Cyberamic)]         | 1981             | Retrofitted, 1986               |
+| [Pasqually (Cyberamic)]              | 1981             | Retrofitted, 1986               |
+| [Wink (Cyberamic)]                   | Unknown          | Kept on Display, Destroyed 2016 |
 | Clapper Board                                                | 1981             | Removed 2000's, Unknown         |
 | Flag Wavers                                                  | 1981             | Removed 2000's, Unknown         |
 | Marc (Chuck E. Cheese Retrofit)                              | 1987             | Removed 2000's, Unknown         |

@@ -1,5 +1,5 @@
-***Rock-afire Explosion Record 1* is a 45rpm vinyl music record released on July 16, 1981 featuring 2 Rock-afire Explosion songs.{{< cite 1 >}}
-The songs featured are 'Do You Love Me' from {{< wiki-link "RAE Classic Hits" >}}, and 'Happy Birthday Medley' from {{< wiki-link "3-Birthday Reel" >}}.**
+***Rock-afire Explosion Record 1* is a 45rpm vinyl music record released on July 16, 1981 featuring 2 Rock-afire Explosion songs.[1]
+The songs featured are 'Do You Love Me' from [RAE Classic Hits], and 'Happy Birthday Medley' from [3-Birthday Reel].**
 
 ## Birthday Promotion
 
@@ -8,11 +8,11 @@ Alongside being able to purchase Record 1 at the gift shop, all birthday parties
 ## Production
 
 The records would be first produced on May 14, 1981 by *QCA Custom Pressings Inc.* in Cincinnati, OH, and sent from Creative Engineering to Brock Hotel Corporation with an enclosed letter.https://youtu.be/ooetqLjPZVk
-On July 16, 1981, the records would be sent out to all ShowBiz stores (23 open at the time), with Record 1 having 400 copies sent to each store, making a total initial run of 9200.{{< cite 1 >}}
+On July 16, 1981, the records would be sent out to all ShowBiz stores (23 open at the time), with Record 1 having 400 copies sent to each store, making a total initial run of 9200.[1]
 
 ### Variants
 
-The record sleeve could either come in thick paperboard, or thin glossy paper, with the thinner variant the more rare kind. Separately, the inner record could either have its copyright date in white near the top, or in black near the right side.{{< cite 1 >}}
+The record sleeve could either come in thick paperboard, or thin glossy paper, with the thinner variant the more rare kind. Separately, the inner record could either have its copyright date in white near the top, or in black near the right side.[1]
 
 ### Set
 
@@ -23,5 +23,5 @@ The record sleeve could either come in thick paperboard, or thin glossy paper, w
 
 ## Design
 
-The front of the record sleeve features the {{< wiki-link "Beach Bear (Animatronic)" >}} on a blue backdrop. The back features artwork by David Thomas of the Rock-afire Explosion amongst an exploding background of yellow on red. Both sides are accompanied by text and a yellow border.
+The front of the record sleeve features the [Beach Bear (Animatronic)] on a blue backdrop. The back features artwork by David Thomas of the Rock-afire Explosion amongst an exploding background of yellow on red. Both sides are accompanied by text and a yellow border.
 The record label has a vertical gradient of black to white, with a yellow explosion coming out of the center. The Creative Records logo amongst other text is on the label.

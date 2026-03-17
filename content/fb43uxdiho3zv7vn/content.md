@@ -6,11 +6,11 @@ This character was produced in 1993 for the New Rock-Afire Explosion show. The c
 
 ## Design
 
-This bot is the head of a Standard Mijjin mech, with the neck of a Prototype Mijjin mech, and a custom plate for mounting to the stage. The mech has green eye pieces. The bot is the Looney Bird Character from the {{< wiki-link "Rock-afire Explosion" >}} in the smaller Mijjin style, This bot is only the head, as it would appear in the window on Beach Bear's stage.
+This bot is the head of a Standard Mijjin mech, with the neck of a Prototype Mijjin mech, and a custom plate for mounting to the stage. The mech has green eye pieces. The bot is the Looney Bird Character from the [Rock-afire Explosion] in the smaller Mijjin style, This bot is only the head, as it would appear in the window on Beach Bear's stage.
 
 ## Movements
 
-All movements are on the Bottom Drawer. Eyes and eyelids are controlled by servos. This bot's servo movements are tied to the servo movements for the {{< wiki-link "Looney Bird Labratory (Mijjin)" >}} bot.
+All movements are on the Bottom Drawer. Eyes and eyelids are controlled by servos. This bot's servo movements are tied to the servo movements for the [Looney Bird Labratory (Mijjin)] bot.
 
 | Bit# | Function   |
 |------|------------|

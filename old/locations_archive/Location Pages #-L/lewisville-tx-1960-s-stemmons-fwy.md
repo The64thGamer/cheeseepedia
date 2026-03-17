@@ -11,7 +11,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***Lewisville, TX (1960 S Stemmons Fwy)*** was a {{< wiki-link "TJ Hartford's Sports Grille" >}} that opened on October 1, 2001, and closed on February 17, 2008. The location was the only one of its kind, though a second location had planned to be opened in 2002.(1)
+***Lewisville, TX (1960 S Stemmons Fwy)*** was a [TJ Hartford's Sports Grille] that opened on October 1, 2001, and closed on February 17, 2008. The location was the only one of its kind, though a second location had planned to be opened in 2002.(1)
 
 ## History
 

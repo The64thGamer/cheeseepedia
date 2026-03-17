@@ -17,7 +17,7 @@ latitudeLongitude = ["45.49532927","-122.57023"]
 
 ## History
 
-Portland opened on November 19th, 1982, as a Franchised Pizza Time Theatre. Portland would then remodel to the 1986 SPT Remodel Program|1988 Remodel in around 1989/1990 which converted the Balcony Stage to {{< wiki-link "Chuck E's House Facade" >}} (Keeping the Balcony Stage nameplates in the process). In around 1994, Portland would receive a minor remodel which involved converting {{< wiki-link "Chuck E's House Facade" >}} into a 2-Stage. In around 1997, Portland would receive {{< wiki-link "Phase 1 (1994)" >}} of the 1994 SPT Repositioning / Remodel Program which involved the showroom being redone and removing all traces of the 1988 Remodel, the store's showroom would receive a major remodel around this time. In around Mid-Late 2007, Portland would remodel again to the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. The store would remain this way until October 12th, 2020, when the store closed after almost 38 years of operation. As of April 2023, the location is still a vacant building.
+Portland opened on November 19th, 1982, as a Franchised Pizza Time Theatre. Portland would then remodel to the 1986 SPT Remodel Program|1988 Remodel in around 1989/1990 which converted the Balcony Stage to [Chuck E's House Facade] (Keeping the Balcony Stage nameplates in the process). In around 1994, Portland would receive a minor remodel which involved converting [Chuck E's House Facade] into a 2-Stage. In around 1997, Portland would receive [Phase 1 (1994)] of the 1994 SPT Repositioning / Remodel Program which involved the showroom being redone and removing all traces of the 1988 Remodel, the store's showroom would receive a major remodel around this time. In around Mid-Late 2007, Portland would remodel again to the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative. The store would remain this way until October 12th, 2020, when the store closed after almost 38 years of operation. As of April 2023, the location is still a vacant building.
 
 ## Stages
 
@@ -34,17 +34,17 @@ When Portland opened, it housed a Balcony Stage like most other Pizza Time Theat
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                                           |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982               | Owned by a Private Collector with new cosmetics. Cosmetics from store were destroyed, but they're owned by another Private Collector. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1982               | Destroyed, Remains owned by LKD Animatronics and a Private Collector.                                                                 |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | 1982               | Unknown                                                                                                                               |
+| [Guest Star Helen Henny (Cyberamic)] | 1982               | Destroyed, Remains owned by LKD Animatronics and a Private Collector.                                                                 |
+| [Mr Munch (Cyberamic)]               | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
+| [Jasper T Jowls (Cyberamic)]         | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
+| [Pasqually (Cyberamic)]              | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
+| [Warblettes (Cyberamic)]             | 1982               | Unknown                                                                                                                               |
 | Waving Flags (Cyberamic)                                     | 1982               | Unknown                                                                                                                               |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | 1982               | Unknown                                                                                                                               |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | 1982               | Unknown                                                                                                                               |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | 1989/1990          | Unknown                                                                                                                               |
-| {{< wiki-link "Dolli Dimples (Cabaret)" >}}            | 1982               | Unknown                                                                                                                               |
-| {{< wiki-link "Wink" >}}                               | 1993/1994          | Destroyed.                                                                                                                            |
+| [Applause Board (Cyberamic)]         | 1982               | Unknown                                                                                                                               |
+| [Drum Board (Cyberamic)]             | 1982               | Unknown                                                                                                                               |
+| [Singing Flowers (Cyberamic)]        | 1989/1990          | Unknown                                                                                                                               |
+| [Dolli Dimples (Cabaret)]            | 1982               | Unknown                                                                                                                               |
+| [Wink]                               | 1993/1994          | Destroyed.                                                                                                                            |
 
 ## Videos
 

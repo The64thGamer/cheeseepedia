@@ -10,7 +10,7 @@ citations = []
 pageThumbnailFile = "H2i56I5BaxHooYqCQyLk.avif"
 +++
 
-***Store #383, 660 Spartan Blvd Ste. 250*** is a Chuck E. Cheese's in Spartanburg, South Carolina that opened on March 1, 1999 with a {{< wiki-link "Studio C Alpha" >}} stage and is still open today.
+***Store #383, 660 Spartan Blvd Ste. 250*** is a Chuck E. Cheese's in Spartanburg, South Carolina that opened on March 1, 1999 with a [Studio C Alpha] stage and is still open today.
 
 ## History
 

@@ -1,4 +1,4 @@
-The Jasper T. Jowls Early Walkaround was a walkaround costume that would appear at the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} located in the Blossom Hill Shopping Center in San Jose California, used alongside the Prototype Chuck Walkaround & Munch Early Walkaround.
+The Jasper T. Jowls Early Walkaround was a walkaround costume that would appear at the [San Jose, CA (1371 Kooser Rd)] located in the Blossom Hill Shopping Center in San Jose California, used alongside the Prototype Chuck Walkaround & Munch Early Walkaround.
 
 ## History
 

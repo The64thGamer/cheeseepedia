@@ -1,4 +1,4 @@
-The ***Patriotic 1993 Show* was the final rerelease of the segments from {{< wiki-link "CEC American Pride" >}}.**
+The ***Patriotic 1993 Show* was the final rerelease of the segments from [CEC American Pride].**
 
 ## Show List
 

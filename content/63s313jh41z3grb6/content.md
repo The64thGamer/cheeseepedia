@@ -1,4 +1,4 @@
-**Holiday 2003 Show** is a rerelease of {{< wiki-link "Holiday 2002" >}} which played throughout December 2003.
+**Holiday 2003 Show** is a rerelease of [Holiday 2002] which played throughout December 2003.
 
 ## Studio C Show List:
 

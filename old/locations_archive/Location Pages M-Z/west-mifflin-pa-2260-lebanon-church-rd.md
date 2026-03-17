@@ -13,7 +13,7 @@ pageThumbnailFile = "FJ0CNrt2Lgd5ZIAGd0rZ.avif"
 latitudeLongitude = ["40.34673172","-79.94306888"]
 +++
 
-***2260 Lebanon Church Rd*** was a Chuck E. Cheese that opened in August 1983, as a franchise location with a Balcony Stage and closed on November 24th, 1996, with a 2-Stage. It was located in a freestanding building in the Greenbrier Shopping Center and was about 16 minutes away from the Kennywood Amusement Park. When this store received the 1988 remodel, it had a unique logo on the road sign (The 'Chuck E. Cheese's Pizza' lettering was the same as every other store opening at the time) that was also featured on the exterior of the {{< wiki-link "Harrisburg, PA (3883 Union Deposit Rd)" >}} &amp; the road sign of the {{< wiki-link "Bridgeville, PA (1025 Washington Pike)" >}} location.
+***2260 Lebanon Church Rd*** was a Chuck E. Cheese that opened in August 1983, as a franchise location with a Balcony Stage and closed on November 24th, 1996, with a 2-Stage. It was located in a freestanding building in the Greenbrier Shopping Center and was about 16 minutes away from the Kennywood Amusement Park. When this store received the 1988 remodel, it had a unique logo on the road sign (The 'Chuck E. Cheese's Pizza' lettering was the same as every other store opening at the time) that was also featured on the exterior of the [Harrisburg, PA (3883 Union Deposit Rd)] &amp; the road sign of the [Bridgeville, PA (1025 Washington Pike)] location.
 
 ## History
 
@@ -25,26 +25,26 @@ Originally, this store housed a Balcony Stage with Helen Henny. In 1989-1990, th
 
 | Stage                                              | Installed           | Removed       | Notes                                              |
 |----------------------------------------------------|---------------------|---------------|----------------------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | August 1983         | 1989-1990     | One of 9 Balcony Stages in Pennsylvania.           |
-| {{< wiki-link "Chuck E's House Facade" >}}   | 1989-1990           | Early 90's    | One of 4 Chuck E.'s House Facades in Pennsylvania. |
-| {{< wiki-link "2-Stage" >}}                  | Sometime after 1991 | November 1996 | One of 8 2-Stages installed in Pennsylvania.       |
+| [Cyberamics Balcony Stage] | August 1983         | 1989-1990     | One of 9 Balcony Stages in Pennsylvania.           |
+| [Chuck E's House Facade]   | 1989-1990           | Early 90's    | One of 4 Chuck E.'s House Facades in Pennsylvania. |
+| [2-Stage]                  | Sometime after 1991 | November 1996 | One of 8 2-Stages installed in Pennsylvania.       |
 
 ## Animatronics
 
 | Animatronic                                                  | Manufacturing Date | Serial | Status             |
 |--------------------------------------------------------------|--------------------|--------|--------------------|
 | Chuck E Cheese (Cyberamic)                                   | 1983               | N/A    | Unknown/Destroyed. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1983               | N/A    | Unknown/Destroyed. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1983               | N/A    | Unknown/Destroyed. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1983               | N/A    | Unknown/Destroyed. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1983               | N/A    | Unknown/Destroyed. |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | 1983               | N/A    | Unknown/Destroyed. |
+| [Guest Star Helen Henny (Cyberamic)] | 1983               | N/A    | Unknown/Destroyed. |
+| [Mr Munch (Cyberamic)]               | 1983               | N/A    | Unknown/Destroyed. |
+| [Jasper T Jowls (Cyberamic)]         | 1983               | N/A    | Unknown/Destroyed. |
+| [Pasqually (Cyberamic)]              | 1983               | N/A    | Unknown/Destroyed. |
+| [Warblettes (Cyberamic)]             | 1983               | N/A    | Unknown/Destroyed. |
 | Waving Flags (Cyberamic)                                     | 1983               | N/A    | Unknown/Destroyed. |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | 1983               | N/A    | Unknown/Destroyed. |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | 1983               | N/A    | Unknown/Destroyed. |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | 1989/1990          | N/A    | Unknown/Destroyed. |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | 1983               | N/A    | Unknown/Destroyed. |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1990's             | N/A    | Unknown/Destroyed. |
+| [Applause Board (Cyberamic)]         | 1983               | N/A    | Unknown/Destroyed. |
+| [Drum Board (Cyberamic)]             | 1983               | N/A    | Unknown/Destroyed. |
+| [Singing Flowers (Cyberamic)]        | 1989/1990          | N/A    | Unknown/Destroyed. |
+| [The King King Kat (Lounge)]         | 1983               | N/A    | Unknown/Destroyed. |
+| [Wink (Cyberamic)]                   | 1990's             | N/A    | Unknown/Destroyed. |
 
 ## Videos
 

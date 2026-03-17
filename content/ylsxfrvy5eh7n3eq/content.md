@@ -7,7 +7,7 @@ The 1996 set introduced putting wires and cardboard pieces into the plushies leg
 
 ### Prototypes
 
-A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} with some minor differences in design.
+A prototype of this plush exists in the 1997-1998 Merch Catalog[1] with some minor differences in design.
 
 #### Prototype Gallery
 
@@ -15,10 +15,10 @@ A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} wi
 
 This plush was released in a set containing other characters and sizes:
 
-* {{< wiki-link "Large Chuck E. Plush (1996)" >}}
-* {{< wiki-link "Large Munch Plush (1996)" >}}
-* {{< wiki-link "Large Jasper Plush (1996)" >}}
-* {{< wiki-link "Large Pasqually Plush (1996)" >}}
+* [Large Chuck E. Plush (1996)]
+* [Large Munch Plush (1996)]
+* [Large Jasper Plush (1996)]
+* [Large Pasqually Plush (1996)]
 
 ## Design
 
@@ -26,4 +26,4 @@ The plush had a pretty complex design. It has a cylindrical body with two yellow
 
 ### Differences Between Smaller Size
 
-There are only very minor details that are different between this plush and it's {{< wiki-link "Small Helen Plush (1996)" >}}, although the larger version tends to look a lot better.
+There are only very minor details that are different between this plush and it's [Small Helen Plush (1996)], although the larger version tends to look a lot better.

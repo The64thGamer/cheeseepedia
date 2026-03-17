@@ -1,12 +1,12 @@
-The ***Rock & Pizza Roll* was a limited time appetizer at Chuck E. Cheese locations from 2018 through 2019.{{< cite 1 >}}
+The ***Rock & Pizza Roll* was a limited time appetizer at Chuck E. Cheese locations from 2018 through 2019.[1]
 The item is a long strip of pepperonis and cheese wrapped in a 15 inch roll of dough, served with marinara sauce or ranch. The item is meant to look like the neck of a guitar, with its box completing the look.**
 
 ## Rereleases
 
-The initial release started on October 1, 2018, with the item being discontinued on December 30th.{{< cite 2 >}} Two months later the item would relaunch and continue presumably into the summer.{{< cite 3 >}} A third launch would happen on October 1, 2019, continuing somewhere into late November.
+The initial release started on October 1, 2018, with the item being discontinued on December 30th.[2] Two months later the item would relaunch and continue presumably into the summer.[3] A third launch would happen on October 1, 2019, continuing somewhere into late November.
 The third launch would see an updated description on the website:
 
-> The Rock & Pizza Roll is back for an encore! This pizza roll is over-sized (at 15 inches long!), which makes it the perfect appetizer or snack for anyone in the family. Our fresh-made dough is stuffed with cheese and pepperoni, baked fresh and served with the sauce of your choice (marinara or ranch). This fun, one-of-a-kind item is available starting on October 1st, while supplies last.{{< cite 4 >}}
+> The Rock & Pizza Roll is back for an encore! This pizza roll is over-sized (at 15 inches long!), which makes it the perfect appetizer or snack for anyone in the family. Our fresh-made dough is stuffed with cheese and pepperoni, baked fresh and served with the sauce of your choice (marinara or ranch). This fun, one-of-a-kind item is available starting on October 1st, while supplies last.[4]
 
 ## Guitar Jingle
 

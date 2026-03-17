@@ -13,11 +13,11 @@ pageThumbnailFile = "6pUU0Zg9BsTXoMViRz7H.avif"
 latitudeLongitude = ["33.19786912","-87.52655488"]
 +++
 
-***Tuscaloosa, AL (1375 McFarland Blvd), Store #704*** was a *Chuck E. Cheese's* that opened in November 2003 with a {{< wiki-link "Studio C Cappa" >}}. This store is notable for being destroyed by a deadly tornado which occurred on April 27th, 2011. It should also not be confused with Tuscaloosa, AL (1800 McFarland Blvd)|its replacement store, which opened on August 30th, 2015 with a {{< wiki-link "Circles of Light" >}} show.
+***Tuscaloosa, AL (1375 McFarland Blvd), Store #704*** was a *Chuck E. Cheese's* that opened in November 2003 with a [Studio C Cappa]. This store is notable for being destroyed by a deadly tornado which occurred on April 27th, 2011. It should also not be confused with Tuscaloosa, AL (1800 McFarland Blvd)|its replacement store, which opened on August 30th, 2015 with a [Circles of Light] show.
 
 ## Stage
 
-This store opened with a {{< wiki-link "Studio C Cappa" >}} stage with a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}.
+This store opened with a [Studio C Cappa] stage with a [Chuck E Cheese 16m (Animatronic)].
 
 ## History
 
@@ -34,10 +34,10 @@ On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit th
 #### Skill
 
 - Slam-a-Winner
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Johnny Nero Action Hero
-- {{< wiki-link "Chuck E Cheese's Super Shot" >}}
-- {{< wiki-link "Chuck E's Duckies" >}}
+- [Chuck E Cheese's Super Shot]
+- [Chuck E's Duckies]
 - Robo-Bop
 - Skee-Ball [units](4)
 - Western Train
@@ -61,4 +61,4 @@ On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit th
 
 | Animatronic                                                | Serial Number | Whereabouts |
 |------------------------------------------------------------|---------------|-------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A           | Destroyed   |
+| [Chuck E Cheese 16m (Animatronic)] | N/A           | Destroyed   |

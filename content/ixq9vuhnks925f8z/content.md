@@ -73,11 +73,11 @@
 5. **Special 3**
     1.  Beach Boys Birthday
 6. **Special 4**
-    1.  {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}}
+    1.  [Birthday Extravaganza (Chuck E. Cheese Branded)]
 7. **Special 5**
-    1.  {{< wiki-link "Chuck E. Cheese Live" >}}
+    1.  [Chuck E. Cheese Live]
 8. **Special 6**
-    1.  {{< wiki-link "Birthday Extravaganza (ShowBiz Branded)" >}}
+    1.  [Birthday Extravaganza (ShowBiz Branded)]
 9. **Segment 3**
     1. ['Rhythm of the Night'](https://en.wikipedia.org/wiki/Rhythm_of_the_Night_(song))
     2. ['Shout'](https://en.wikipedia.org/wiki/Shout_(Isley_Brothers_song))
@@ -89,11 +89,11 @@
 
 The 3-Stage version was only seen in a handful of locations, as few 3-Stages existed during its release. The current ones known are:
 
-- {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}}
-- {{< wiki-link "Arlington, TX (3200 Justiss Dr)" >}}
-- {{< wiki-link "Altamonte Springs, FL (541 W Hwy 436)" >}}
+- [Dallas, TX (13125 Montfort Dr)]
+- [Arlington, TX (3200 Justiss Dr)]
+- [Altamonte Springs, FL (541 W Hwy 436)]
 - Mesa (West), AZ (856 S Alma School Rd)
-- {{< wiki-link "Phoenix, AZ (8039 North 35th Ave)" >}}
+- [Phoenix, AZ (8039 North 35th Ave)]
 
 
 ### Filming Locations
@@ -102,7 +102,7 @@ The 3-Stage version was only seen in a handful of locations, as few 3-Stages exi
 
 ### APS Files
 
-The show was a part of the {{< wiki-link "1990-1992 APS Floppy Cases" >}}, being the first tape known to be made using APS. Only it's 3-Stage files were placed in the collection, making it unknown if the Cyberamics version was also programmed in APS, or was still using {{< wiki-link "SongCode" >}} for its programming.
+The show was a part of the [1990-1992 APS Floppy Cases], being the first tape known to be made using APS. Only it's 3-Stage files were placed in the collection, making it unknown if the Cyberamics version was also programmed in APS, or was still using [SongCode] for its programming.
 
 #### Floppy Disk Label
 
@@ -121,4 +121,4 @@ All three segments' files were last updated on October 10, 1990, a month after t
 
 ## Trivia
 
-- The intermission music for this showtape is the same as {{< wiki-link "SPP Concept Unification Premiere" >}} and {{< wiki-link "SPP Best Of 1 Kids / Friends" >}} (Only is missing two songs from those shows).
+- The intermission music for this showtape is the same as [SPP Concept Unification Premiere] and [SPP Best Of 1 Kids / Friends] (Only is missing two songs from those shows).

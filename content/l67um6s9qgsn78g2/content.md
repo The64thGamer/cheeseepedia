@@ -53,5 +53,5 @@
 ## Trivia
 
 - The Department 18 logo appears in 'Wacky Pirates in The Outfield.'
-- This show's logo reuses clips from various shows released in 1999-2000. This includes 'Hip Mouse' from {{< wiki-link "April 1999" >}}, 'Do Your Ears Hang Low' 'Are You Eating Mr. Munch' 'The Muffin Man' and 'Song of Sixpence' from {{< wiki-link "Just for Kids Show 2000" >}}, 'Pizza Cabana' from {{< wiki-link "Summertime 2000" >}}, and 'Chuck E.' from {{< wiki-link "September 2000 Show" >}}.
+- This show's logo reuses clips from various shows released in 1999-2000. This includes 'Hip Mouse' from [April 1999], 'Do Your Ears Hang Low' 'Are You Eating Mr. Munch' 'The Muffin Man' and 'Song of Sixpence' from [Just for Kids Show 2000], 'Pizza Cabana' from [Summertime 2000], and 'Chuck E.' from [September 2000 Show].
 - The Studio C version of the show logo has the Studio C logo. This is edited out in the Existing Stage version, though it can still be seen faintly in the background.

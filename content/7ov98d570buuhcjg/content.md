@@ -9,9 +9,9 @@ The tape starts with a five-minute countdown featuring Larry the Technician gett
 1. 5 Minute Countdown
 2. ['Celebration'](https://en.wikipedia.org/wiki/Celebration_(Kool_%26_the_Gang_song))
 3. Birthday Break
-4. {{< wiki-link "Birthday Star '92" >}}
+4. [Birthday Star '92]
 
 
 ## Live Trivia:
 
-- This live show was later re-edited and rereleased as {{< wiki-link "Celebration 2000" >}}.
+- This live show was later re-edited and rereleased as [Celebration 2000].

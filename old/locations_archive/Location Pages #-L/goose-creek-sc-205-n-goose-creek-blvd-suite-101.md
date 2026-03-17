@@ -10,7 +10,7 @@ citations = ["<a href=\"https://www.reddit.com/r/Charleston/comments/3nno80/comm
 pageThumbnailFile = "AN4tY0dD6RHSe9edt4YX.avif"
 +++
 
-Berkeley Square Shopping center was home to Track Stars, which was a restaurant similar in concept to {{< wiki-link "Gigglebee's" >}} and shared the same animatronics.
+Berkeley Square Shopping center was home to Track Stars, which was a restaurant similar in concept to [Gigglebee's] and shared the same animatronics.
 
 ## Arcade Machines
 

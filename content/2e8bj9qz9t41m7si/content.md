@@ -1,5 +1,5 @@
 ]
-**Dingo Star** was a member of the Wolf Pack 5, an animatronic band created by Creative Engineering.{{< cite 1 >}} He was a parody of real life musician [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr), who played drums for [The Beatles](https://en.wikipedia.org/wiki/The_Beatles). He was voiced by an unknown member of the band Clutch.{{< cite 2 >}} Later on, he would become Dook LaRue in the successor animatronic band, The Rock-afire Explosion.
+**Dingo Star** was a member of the Wolf Pack 5, an animatronic band created by Creative Engineering.[1] He was a parody of real life musician [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr), who played drums for [The Beatles](https://en.wikipedia.org/wiki/The_Beatles). He was voiced by an unknown member of the band Clutch.[2] Later on, he would become Dook LaRue in the successor animatronic band, The Rock-afire Explosion.
 
 ## Appearance
 
@@ -19,9 +19,9 @@ Whether or not this biography is to be considered canonical is up for debate. It
 
 ## Quotes
 
-- "On behalf of the band and meself, I hope we passed the audition."{{< cite 3 >}} (Reference to a line spoken by John Lennon at the end of [The Beatles' rooftop concert](https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert))
-- [Star](Dingo) "I know she won't go out with me." [Wolfman](Wolfman) "Why not?" [Star](Dingo) "I wouldn't ask her!"{{< cite 4 >}} (Spoken in reference to Mini Mozzarella after she performed her song, 'My Boyfriend's Back,' a song about her turning down someone that asked to date her)
-- "Hey King Kong, if you're not careful you're going to break your piano."{{< cite 5 >}} (Spoken to Fats Gorilla after his performance of the song, 'Banana Hill')
+- "On behalf of the band and meself, I hope we passed the audition."[3] (Reference to a line spoken by John Lennon at the end of [The Beatles' rooftop concert](https://en.wikipedia.org/wiki/The_Beatles%27_rooftop_concert))
+- [Star](Dingo) "I know she won't go out with me." [Wolfman](Wolfman) "Why not?" [Star](Dingo) "I wouldn't ask her!"[4] (Spoken in reference to Mini Mozzarella after she performed her song, 'My Boyfriend's Back,' a song about her turning down someone that asked to date her)
+- "Hey King Kong, if you're not careful you're going to break your piano."[5] (Spoken to Fats Gorilla after his performance of the song, 'Banana Hill')
 
 ## Trivia
 

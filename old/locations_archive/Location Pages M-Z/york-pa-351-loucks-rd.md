@@ -13,7 +13,7 @@ pageThumbnailFile = "X5aBaDGWGwDScwn82SvH.avif"
 latitudeLongitude = ["39.98364392","-76.74072568"]
 +++
 
-***York, PA (351 Loucks Rd)*** was a *Pizza Time Theatre* location that opened on August 23, 1983 and closed on February 19, 1984 with a Balcony Stage and unknown cabaret/lounge acts. Very little is known about this location, mainly because it was either undocumented, or short lived. This location is not to be confused with the {{< wiki-link "York, PA (2801 E Market St)" >}}, which opened on March 4, 1983 as a ShowBiz Pizza Place, received CU in 1991, and is still open today with the 2.0 remodel.
+***York, PA (351 Loucks Rd)*** was a *Pizza Time Theatre* location that opened on August 23, 1983 and closed on February 19, 1984 with a Balcony Stage and unknown cabaret/lounge acts. Very little is known about this location, mainly because it was either undocumented, or short lived. This location is not to be confused with the [York, PA (2801 E Market St)], which opened on March 4, 1983 as a ShowBiz Pizza Place, received CU in 1991, and is still open today with the 2.0 remodel.
 
 ## History
 

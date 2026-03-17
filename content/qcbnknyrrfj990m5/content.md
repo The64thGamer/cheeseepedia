@@ -55,9 +55,9 @@
 ## Trivia
 
 - This is the first show to feature 'Them Bones' with programming for Studio C SD and Existing Stage stores.
-- 'Safe and Sound' was originally going to use footage of the Chuck puppet, but this was scrapped. Instead, the footage is reused from 'Take a Walk' from the {{< wiki-link "Spring 2013 Show" >}}.
+- 'Safe and Sound' was originally going to use footage of the Chuck puppet, but this was scrapped. Instead, the footage is reused from 'Take a Walk' from the [Spring 2013 Show].
 - On the Studio C SD DVD, between 'Do The Chuck E.' and 'Rockstar Birthday 2014', 2 minutes and 46 seconds of behind-the-scenes material for Fall 2014 are shown. This includes behind-the-scenes footage for Pasqually's shot in 'Because We're Friends', Munch's up-close shot in Coconut, and a shot of a scrapped video for 'Safe and Sound'.
-- On the Studio C SD DVD after 'Rockstar Birthday 2014' and before 'Rockstar Birthday 2014', a 10-minute loop of the footage of 'We Got The Beat' from the {{< wiki-link "May 2011 Show" >}} is played.
+- On the Studio C SD DVD after 'Rockstar Birthday 2014' and before 'Rockstar Birthday 2014', a 10-minute loop of the footage of 'We Got The Beat' from the [May 2011 Show] is played.
 - This was the only show where The Chuck E. Cheese Show (Summer 2014) was allowed as a generic show.
-- Hidden at the end of the Studio C SD copy of Fall 2014, Chaz's theme plays from {{< wiki-link "Fall 2012 Show" >}} with a picture of Matt Daniel and his dog.
+- Hidden at the end of the Studio C SD copy of Fall 2014, Chaz's theme plays from [Fall 2012 Show] with a picture of Matt Daniel and his dog.
 - The music played on the DVD menu for Existing Stages is the instrumental to 'Because We're Friends'. 

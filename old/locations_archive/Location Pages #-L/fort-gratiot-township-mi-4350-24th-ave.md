@@ -34,6 +34,6 @@ The store opened on July 8th, 2004 with the Small-Town Studio C &amp; the Cool C
 
 | Animatronic                                                | Manufacturing Date | Serial Number | Whereabouts                                 |
 |------------------------------------------------------------|--------------------|---------------|---------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | 2004               | Unknown       | Unknown, Likely Destroyed Or Used for Parts |
+| [Chuck E Cheese 16m (Animatronic)] | 2004               | Unknown       | Unknown, Likely Destroyed Or Used for Parts |
 
 ## Videos

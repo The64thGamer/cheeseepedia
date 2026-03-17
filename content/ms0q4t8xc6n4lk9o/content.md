@@ -10,7 +10,7 @@ As of 2024, it is unknown of where the head or any other accompanying parts coul
 
 - Awesome Adventure Machine (July 1996)
 - Ticket Rap (Commercial)
-- {{< wiki-link "Get Ready 1997 Live Training" >}}
+- [Get Ready 1997 Live Training]
 - 20th Anniversary show (April 1997)
 - August 1997
 - Chuck E. Cheese in the Galaxy 5000.
@@ -21,6 +21,6 @@ The head itself is based off of the, at the time, newest variation of the in-sto
 
 ## Trivia
 
-- The former voice of Chuck E. Cheese, Duncan Brannan, described wearing the head as wearing a bomb on your head.{{< cite 1 >}}
+- The former voice of Chuck E. Cheese, Duncan Brannan, described wearing the head as wearing a bomb on your head.[1]
 
 ## Formatting

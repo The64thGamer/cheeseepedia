@@ -1,4 +1,4 @@
-***Willie Rabbit*** was an animatronic created by {{< wiki-link "Creative Engineering" >}} in 1976 to advertise [*Mystery Fun House*](https://en.wikipedia.org/wiki/Mystery_Fun_House) in Orlando, Florida. The Bot was placed in a small glass kiosk at the Orlando Airporthttps://www.youtube.com/watch?v=NMdZ-7nwigo. It is unknown the fate of The Bot, though it was most likely either thrown out or sent back to the {{< wiki-link "Orlando, FL (47 W Jefferson St)" >}}.
+***Willie Rabbit*** was an animatronic created by [Creative Engineering] in 1976 to advertise [*Mystery Fun House*](https://en.wikipedia.org/wiki/Mystery_Fun_House) in Orlando, Florida. The Bot was placed in a small glass kiosk at the Orlando Airporthttps://www.youtube.com/watch?v=NMdZ-7nwigo. It is unknown the fate of The Bot, though it was most likely either thrown out or sent back to the [Orlando, FL (47 W Jefferson St)].
 
 ## History
 
@@ -8,7 +8,7 @@ In 1976, Creative Engineering would be set to create animatronic advertising for
 
 ### Creation
 
-Not much is known about the creation of the Bot, though it was probably built in 1976 at {{< wiki-link "Creative Engineering Original Company Building" >}}.
+Not much is known about the creation of the Bot, though it was probably built in 1976 at [Creative Engineering Original Company Building].
 
 ### Usage
 

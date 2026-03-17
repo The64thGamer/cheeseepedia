@@ -1,4 +1,4 @@
-**Boom Box Live Shows** was a Road Show CD released alongside the {{< wiki-link "Fall 2014 Show" >}} which featured nine {{< wiki-link "Road Shows" >}}. This was the final Road Show CD released.
+**Boom Box Live Shows** was a Road Show CD released alongside the [Fall 2014 Show] which featured nine [Road Shows]. This was the final Road Show CD released.
 
 ## Track List:
 

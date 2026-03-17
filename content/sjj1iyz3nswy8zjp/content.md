@@ -7,11 +7,11 @@ As the precision of tone detection using analog electronics is relatively limite
 
 ## Uses
 
-- {{< wiki-link "Jingle Bell Jamboree" >}} (prior to 1979 upgrade)
-- {{< wiki-link "Bear Country Jubilee" >}}
-- {{< wiki-link "Confederate Critter Show" >}}
-- {{< wiki-link "Wolf Pack 5" >}} (original shows - possibly upgraded to Pianocorder-based control in some cases)
-- {{< wiki-link "Hard Luck Bears" >}} (original shows - like WP5, possibly upgraded to Pianocorder-based control or {{< wiki-link "Rock-afire Explosion Control System" >}} in some cases)
+- [Jingle Bell Jamboree] (prior to 1979 upgrade)
+- [Bear Country Jubilee]
+- [Confederate Critter Show]
+- [Wolf Pack 5] (original shows - possibly upgraded to Pianocorder-based control in some cases)
+- [Hard Luck Bears] (original shows - like WP5, possibly upgraded to Pianocorder-based control or [Rock-afire Explosion Control System] in some cases)
 
 ## Contemporary usage
 

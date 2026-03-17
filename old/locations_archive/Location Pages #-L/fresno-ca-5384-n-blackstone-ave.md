@@ -12,11 +12,11 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
 
-***Fresno, CA (5384 N Blackstone Ave)*** was a *Pizza Time Theatre* that opened on June 28, 1980(6) with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}, which closed in May of 1985.https://www.newspapers.com/article/the-fresno-bee-fresno-jun-25-1985/86368897/ This is not to be confused with the ShowBiz Pizza store on {{< wiki-link "Fresno, CA (3117 W Shaw Ave)" >}} that opened on October 28th, 1982 with a {{< wiki-link "Classic Stage" >}} and is still operational as a Chuck E. Cheese's with a Studio C Alpha as of September 2023 and the {{< wiki-link "Fresno, CA (7809 N Blackstone Ave)" >}} location that opened on September 24th, 2002 with a {{< wiki-link "Studio C Beta" >}} and is also still operational as of September 2023.
+***Fresno, CA (5384 N Blackstone Ave)*** was a *Pizza Time Theatre* that opened on June 28, 1980(6) with a [Cyberamics Portrait Shelf Stage], which closed in May of 1985.https://www.newspapers.com/article/the-fresno-bee-fresno-jun-25-1985/86368897/ This is not to be confused with the ShowBiz Pizza store on [Fresno, CA (3117 W Shaw Ave)] that opened on October 28th, 1982 with a [Classic Stage] and is still operational as a Chuck E. Cheese's with a Studio C Alpha as of September 2023 and the [Fresno, CA (7809 N Blackstone Ave)] location that opened on September 24th, 2002 with a [Studio C Beta] and is also still operational as of September 2023.
 
 ## Stages
 
-The store would open with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}} that lasted throughout the store's run. It also had a lounge with {{< wiki-link "The King King Kat (Lounge)" >}} and a Cabaret with {{< wiki-link "Dolli Dimples (Cabaret)" >}}.(1)(2)
+The store would open with a [Cyberamics Portrait Shelf Stage] that lasted throughout the store's run. It also had a lounge with [The King King Kat (Lounge)] and a Cabaret with [Dolli Dimples (Cabaret)].(1)(2)
 
 ## History
 
@@ -27,13 +27,13 @@ The location originally started as a Country Boy Market store, before being remo
 | Character                                                    | Serial Number | Status            |
 |--------------------------------------------------------------|---------------|-------------------|
 | Chuck E Cheese (Cyberamic)                                   | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown       | Unknown/Destroyed |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Unknown/Destroyed |
+| [Mr Munch (Cyberamic)]               | Unknown       | Unknown/Destroyed |
+| [Jasper T Jowls (Cyberamic)]         | Unknown       | Unknown/Destroyed |
+| [Pasqually (Cyberamic)]              | Unknown       | Unknown/Destroyed |
+| [Warblettes (Cyberamic)]             | Unknown       | Unknown/Destroyed |
 | Waving Flags (Cyberamic)                                     | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Dolli Dimples (Cabaret)" >}}            | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | Unknown       | Unknown/Destroyed |
+| [Applause Board (Cyberamic)]         | Unknown       | Unknown/Destroyed |
+| [Drum Board (Cyberamic)]             | Unknown       | Unknown/Destroyed |
+| [Dolli Dimples (Cabaret)]            | Unknown       | Unknown/Destroyed |
+| [The King King Kat (Lounge)]         | Unknown       | Unknown/Destroyed |

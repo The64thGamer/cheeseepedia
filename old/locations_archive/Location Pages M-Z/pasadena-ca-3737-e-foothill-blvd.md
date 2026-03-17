@@ -11,15 +11,15 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***Pasadena, CA (3737 E Foothill Blvd)*** is a *Chuck E. Cheese's* that opened on October 14, 1993 with a {{< wiki-link "2-Stage" >}}, and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}. This store was an relocation of the {{< wiki-link "Pasadena, CA (3765 E Foothill Blvd)" >}} location, which opened on December 15, 1982 as a *ShowBiz Pizza Place* with a {{< wiki-link "Classic Stage" >}}, and closed in October 1993 as a *Chuck E. Cheese's Pizza* with a 3-Stage, shortly before the current Pasadena location opening. This location is known for the [E. Cheese for my birthday'](https://youtu.be/r1v63bTxxiw?si=DlW-yjZ6RfEy7b5q%7C%27Chuck) video being filmed here.
+***Pasadena, CA (3737 E Foothill Blvd)*** is a *Chuck E. Cheese's* that opened on October 14, 1993 with a [2-Stage], and is still open to this day with the [CEC 2.0 Remodel Program]. This store was an relocation of the [Pasadena, CA (3765 E Foothill Blvd)] location, which opened on December 15, 1982 as a *ShowBiz Pizza Place* with a [Classic Stage], and closed in October 1993 as a *Chuck E. Cheese's Pizza* with a 3-Stage, shortly before the current Pasadena location opening. This location is known for the [E. Cheese for my birthday'](https://youtu.be/r1v63bTxxiw?si=DlW-yjZ6RfEy7b5q%7C%27Chuck) video being filmed here.
 
 ## Stage
 
-Pasadena opened with a {{< wiki-link "2-Stage" >}}. Their history is just like most other 2-Stages, but in the beginning months of 2023, their original bots were replaced with {{< wiki-link "Valencia, CA (25955 North The Old Rd)" >}}.
+Pasadena opened with a [2-Stage]. Their history is just like most other 2-Stages, but in the beginning months of 2023, their original bots were replaced with [Valencia, CA (25955 North The Old Rd)].
 
 ## History
 
-The current Pasadena location opened on October 14, 1993 with the {{< wiki-link "2-Stage" >}} and the {{< wiki-link "Phase 1 (1994)" >}} remodel. Pasadena would receive the {{< wiki-link "Phase 2 (1997)" >}} and {{< wiki-link "Phase 3 (2000)" >}} game packages at one point around the mid 1990’s to the early 2000’s. Around 2005-2007, this location would receive the 2005 update to the {{< wiki-link "CEC 2000's Remodel Program" >}}. In 2012, the location would receive an expansion. The Jasper animatronic was turned off for unknown reasons in October 2022. This carried to when the bots were replaced, with the Jasper animatronic still being off. In 2023, Pasadena would replace its original bots with the ones from the {{< wiki-link "Valencia, CA (25955 North The Old Rd)" >}} location. In May/June 2023, the animatronic was turned on. Interestingly, Munch, Jasper, and Pasqually have Munch's programming. When the location installed Navori, the animatronics got stuck in random mode and have remained that way since. On February 5, 2024, the stage would be removed for 2.0. They also added a Trampoline Zone during the remodel.
+The current Pasadena location opened on October 14, 1993 with the [2-Stage] and the [Phase 1 (1994)] remodel. Pasadena would receive the [Phase 2 (1997)] and [Phase 3 (2000)] game packages at one point around the mid 1990’s to the early 2000’s. Around 2005-2007, this location would receive the 2005 update to the [CEC 2000's Remodel Program]. In 2012, the location would receive an expansion. The Jasper animatronic was turned off for unknown reasons in October 2022. This carried to when the bots were replaced, with the Jasper animatronic still being off. In 2023, Pasadena would replace its original bots with the ones from the [Valencia, CA (25955 North The Old Rd)] location. In May/June 2023, the animatronic was turned on. Interestingly, Munch, Jasper, and Pasqually have Munch's programming. When the location installed Navori, the animatronics got stuck in random mode and have remained that way since. On February 5, 2024, the stage would be removed for 2.0. They also added a Trampoline Zone during the remodel.
 
 ## Games
 
@@ -114,8 +114,8 @@ The current Pasadena location opened on October 14, 1993 with the {{< wiki-link 
 | Animatronic                                                  | Serial | Whereabouts                                                         |
 |--------------------------------------------------------------|--------|---------------------------------------------------------------------|
 | Chuck E Cheese (Cyberamic)                                   | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
+| [Guest Star Helen Henny (Cyberamic)] | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
+| [Mr Munch (Cyberamic)]               | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
+| [Jasper T Jowls (Cyberamic)]         | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
+| [Pasqually (Cyberamic)]              | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
+| [Wink (Cyberamic)]                   | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |

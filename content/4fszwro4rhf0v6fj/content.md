@@ -1,4 +1,4 @@
-King I was the first showtape released for the {{< wiki-link "The King / King Kat (Cyberamic)" >}} Lounge show in 1981, lasting through 1986. This show is comprised of original artist recordings of Elvis songs with newly recorded intros and outros.
+King I was the first showtape released for the [The King / King Kat (Cyberamic)] Lounge show in 1981, lasting through 1986. This show is comprised of original artist recordings of Elvis songs with newly recorded intros and outros.
 
 
 ## Show List

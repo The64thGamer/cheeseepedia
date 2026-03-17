@@ -1,4 +1,4 @@
-The ***Pizza Time Theatre Back to School Theme*** was a temporary alteration to the stage and character designs for use in the 1985 {{< wiki-link "CEC Back to School" >}} showtape.**
+The ***Pizza Time Theatre Back to School Theme*** was a temporary alteration to the stage and character designs for use in the 1985 [CEC Back to School] showtape.**
 
 ## Stage Design
 

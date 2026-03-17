@@ -13,7 +13,7 @@ pageThumbnailFile = "a3SqcpVCjmmpZIl9dCzc.avif"
 latitudeLongitude = ["33.19458547","-97.13140333"]
 +++
 
-***341 South I-35*** is a was a *Chuck E. Cheese's* that opened on November 11, 2002 with a {{< wiki-link "Studio C Beta" >}}, which is still open to this day. This is not to be confused with {{< wiki-link "Denton, TX (2307 I-35E)" >}} which opened in 1983 and closed in 1984.
+***341 South I-35*** is a was a *Chuck E. Cheese's* that opened on November 11, 2002 with a [Studio C Beta], which is still open to this day. This is not to be confused with [Denton, TX (2307 I-35E)] which opened in 1983 and closed in 1984.
 
 ## History
 
@@ -25,14 +25,14 @@ This location opened with a Studio C Beta 32M, the newest stage shows for Chuck 
 
 | Stage                                                      | Installed     | Removed      | Note                             |
 |------------------------------------------------------------|---------------|--------------|----------------------------------|
-| {{< wiki-link "Studio C Beta" >}}                    | November 2002 | January 2023 | One of few Single Screen stages. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | January 2023  | Still In Use | 2021 Model.                      |
+| [Studio C Beta]                    | November 2002 | January 2023 | One of few Single Screen stages. |
+| [Chuck E Live Stage (Dance Floor)] | January 2023  | Still In Use | 2021 Model.                      |
 
 ## Animatronics
 
 | Animatronic                                                | Serial | Whereabouts |
 |------------------------------------------------------------|--------|-------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 176    | Unknown     |
+| [Chuck E Cheese 32m (Animatronic)] | 176    | Unknown     |
 
 ## Videos
 

@@ -1,4 +1,4 @@
-The ***Salute To America Theme* was a {{< wiki-link "Cyberamics Balcony Stage" >}} Theme created by {{< wiki-link "Pizza Time Theatre" >}} for June 1985 & replaced the following months. The Stage theme was for that year's Fourth Of July & was most likely used with the CEC Salute to America Showtape.**
+The ***Salute To America Theme* was a [Cyberamics Balcony Stage] Theme created by [Pizza Time Theatre] for June 1985 & replaced the following months. The Stage theme was for that year's Fourth Of July & was most likely used with the CEC Salute to America Showtape.**
 
 ## History
 

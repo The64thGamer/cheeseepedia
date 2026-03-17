@@ -20,7 +20,7 @@ Concepción opened with a Studio C Beta, 16M, being the last location to open wi
 
 | Stage                                        | Installed   | Removed      | Notes                                       |
 |----------------------------------------------|-------------|--------------|---------------------------------------------|
-| {{< wiki-link "Studio C Beta" >}}, 16M | August 2012 | Still in use | Last location to open with a Studio C Beta. |
+| [Studio C Beta], 16M | August 2012 | Still in use | Last location to open with a Studio C Beta. |
 
 ## History
 
@@ -30,4 +30,4 @@ Concepción opened on August 18, 2012 as the first CEC to open in the Rockstar e
 
 | Animatronic                                                | Serial Number | Wheareabouts     |
 |------------------------------------------------------------|---------------|------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A           | Currently in use |
+| [Chuck E Cheese 16m (Animatronic)] | N/A           | Currently in use |

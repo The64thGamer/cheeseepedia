@@ -1,4 +1,4 @@
-***Chuck E.'s Magical Holiday Celebration*** was a show that was released in December 1996 at Chuck E. Cheese's locations. This show is the same as {{< wiki-link "The Chuck E. Cheese Christmas Special" >}}, but with the intros and outros of each segment replaced.
+***Chuck E.'s Magical Holiday Celebration*** was a show that was released in December 1996 at Chuck E. Cheese's locations. This show is the same as [The Chuck E. Cheese Christmas Special], but with the intros and outros of each segment replaced.
 
 ## Show List
 

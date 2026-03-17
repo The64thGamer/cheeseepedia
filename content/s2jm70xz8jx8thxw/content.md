@@ -1,4 +1,4 @@
-***Celebration 2000*** is a re-edit of {{< wiki-link "Celebration" >}}, which was released alongside {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}}.
+***Celebration 2000*** is a re-edit of [Celebration], which was released alongside [Chuck E's Variety Show - Best of 1999].
 
 ## Summary
 
@@ -9,13 +9,13 @@ The live show starts with a five-minute countdown featuring Larry the Technician
 1. 5 Minute Countdown
 2. ['Celebration'](https://en.wikipedia.org/wiki/Celebration_(Kool_%26_the_Gang_song))
 3. Birthday Break
-4. {{< wiki-link "Birthday Star '98" >}}
+4. [Birthday Star '98]
 
 ## Showtape Releases:
 
 | Release Year | Showtape                             | Format            |
 |--------------|--------------------------------------|-------------------|
-| 2000         | {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}} | Studio C 3X DVD + Floppy|
+| 2000         | [Chuck E's Variety Show - Best of 1999] | Studio C 3X DVD + Floppy|
 
 ## Live Trivia:
 

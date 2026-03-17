@@ -1,4 +1,4 @@
-The **New Rock-afire Explosion Control System** is a control system designed by Creative Engineering Inc. in the early 1990s as the standard control system for use with the New Rock-afire Explosion. It is significantly more technologically advanced than previous Creative Engineering control systems and was designed fully in-house, in contrast to prior systems such as {{< wiki-link "Rock-afire Explosion Control System" >}}.
+The **New Rock-afire Explosion Control System** is a control system designed by Creative Engineering Inc. in the early 1990s as the standard control system for use with the New Rock-afire Explosion. It is significantly more technologically advanced than previous Creative Engineering control systems and was designed fully in-house, in contrast to prior systems such as [Rock-afire Explosion Control System].
 As the hardware and software comprising this system has been unavailable for analysis by knowledgeable persons, some of the information on this page is incomplete or of a speculative nature.
 
 ## Overall system architecture
@@ -30,7 +30,7 @@ Also known as the Big Important Board, the **Turntable Board** handles many more
 
 ## 27 Bit Strippers
 
-The **27 Bit Strippers** in the system accept {{< wiki-link "Pianocorder Data Format" >}} as input. A 6801 microcontroller decodes the data and controls open-drain outputs for character valves, while a 6805 microcontroller (68705, UVEPROM programmable variant) generates standard 'analog' control signals for servos. These boards can decode a a total of 27 bits, hence their name. Twenty-one of these bits can control valves, with the remaining six being used for position selection for the servos. There is support for three servos, usually eyes left/right, eyes up/down, and eyelids wide/closed. Each servo has two bits dedicated to it, with each bit being dedicated to one of the two 'away' positions. With neither bit activated, the movement returns to its 'home' position.
+The **27 Bit Strippers** in the system accept [Pianocorder Data Format] as input. A 6801 microcontroller decodes the data and controls open-drain outputs for character valves, while a 6805 microcontroller (68705, UVEPROM programmable variant) generates standard 'analog' control signals for servos. These boards can decode a a total of 27 bits, hence their name. Twenty-one of these bits can control valves, with the remaining six being used for position selection for the servos. There is support for three servos, usually eyes left/right, eyes up/down, and eyelids wide/closed. Each servo has two bits dedicated to it, with each bit being dedicated to one of the two 'away' positions. With neither bit activated, the movement returns to its 'home' position.
 TODO: Is the 74'07 buffering the data for passthrough?
 
 ## Video Decoder

@@ -1,37 +1,37 @@
-The ***1990-1992 APS Floppy Cases* is a collection of 5 floppy disk cases containing floppy discs with {{< wiki-link "Animation Programming System" >}} showtapes on them**
+The ***1990-1992 APS Floppy Cases* is a collection of 5 floppy disk cases containing floppy discs with [Animation Programming System] showtapes on them**
 
 ## History
 
-From the beginning of use of the {{< wiki-link "Animation Programming System" >}} until August of 1992 the {{< wiki-link "APS Files" >}} would be stored for each stage variant of a showtape onto a single floppy disk. These disks would then be stored in cases and later labeled.
-These cases would stay in storage at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} until the mid-2000's, where they would be thrown into the trash for unknown reasons. An employee, Matt Rivera, would notice this and decide to take the cases home for preservation. The cases would pass hands between 2 more fandom members before being archived online.
+From the beginning of use of the [Animation Programming System] until August of 1992 the [APS Files] would be stored for each stage variant of a showtape onto a single floppy disk. These disks would then be stored in cases and later labeled.
+These cases would stay in storage at the [ShowBiz Pizza Time Corporate Office] until the mid-2000's, where they would be thrown into the trash for unknown reasons. An employee, Matt Rivera, would notice this and decide to take the cases home for preservation. The cases would pass hands between 2 more fandom members before being archived online.
 
 ## Showtapes
 
 The shows on the discs are from October 10, 1990 to August 20, 1992, covering full showtapes for 3-Stage, Cyberamics and Cabaret, Live Shows, Birthday Shows, and Random Movements.
 
-- {{< wiki-link "CEC September 1990 Show" >}} (October)
-- {{< wiki-link "CEC Christmas '90" >}} (November 9)
-- {{< wiki-link "CEC Jan '91" >}} (December 10)
-- {{< wiki-link "Chuck E. Cheese's Live 90" >}} (December 31)
-- {{< wiki-link "CEC Beach Bowzers Showtape" >}} (March 11)
-- {{< wiki-link "CEC Future" >}} (March 14)
-- {{< wiki-link "CEC American Pride" >}} (May 7)
+- [CEC September 1990 Show] (October)
+- [CEC Christmas '90] (November 9)
+- [CEC Jan '91] (December 10)
+- [Chuck E. Cheese's Live 90] (December 31)
+- [CEC Beach Bowzers Showtape] (March 11)
+- [CEC Future] (March 14)
+- [CEC American Pride] (May 7)
 - CEC TV Classics '91 (June)
-- {{< wiki-link "CEC Games" >}} (July 9)
-- {{< wiki-link "Land Of 1,000 Dances" >}} (September)
-- {{< wiki-link "CEC September 1991 Show" >}} (September 10)
-- {{< wiki-link "CEC Xmas 1991 Show" >}} (December 6)
-- {{< wiki-link "CEC Rock It Into Space" >}} (December 11)
+- [CEC Games] (July 9)
+- [Land Of 1,000 Dances] (September)
+- [CEC September 1991 Show] (September 10)
+- [CEC Xmas 1991 Show] (December 6)
+- [CEC Rock It Into Space] (December 11)
 - Taking Care of Business, Rhyming Rap (January)
-- {{< wiki-link "Physical Fitness" >}} (February 14)
-- {{< wiki-link "Environment '92" >}} (April 4)
-- {{< wiki-link "Dance To The Music" >}} (May)
-- {{< wiki-link "Planes, Trains, And Automobiles" >}} (July 6)
+- [Physical Fitness] (February 14)
+- [Environment '92] (April 4)
+- [Dance To The Music] (May)
+- [Planes, Trains, And Automobiles] (July 6)
 - Walking On Sunshine (August)
-- {{< wiki-link "Working For A Living" >}} (September 14)
-- {{< wiki-link "Birthday Star '92" >}} (September 22)
+- [Working For A Living] (September 14)
+- [Birthday Star '92] (September 22)
 
-Notably two shows are missing from the lineup that were released in this period, that being King '90 I (October 1990) and King '90 II (December 1990). It is theorized these shows were recorded prior to the installation of the APS system on the older {{< wiki-link "Big C's Cyberamics Center" >}}.
+Notably two shows are missing from the lineup that were released in this period, that being King '90 I (October 1990) and King '90 II (December 1990). It is theorized these shows were recorded prior to the installation of the APS system on the older [Big C's Cyberamics Center].
 
 ## Green Case 91-A
 

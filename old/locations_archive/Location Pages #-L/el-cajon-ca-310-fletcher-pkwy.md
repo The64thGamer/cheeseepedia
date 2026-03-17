@@ -13,11 +13,11 @@ pageThumbnailFile = "zDlAN5d1udR1RzWINxsf.avif"
 latitudeLongitude = ["32.80659837","-116.966424"]
 +++
 
-***310 Fletcher Pkwy*** was a *Pizza Time Theatre* in El Cajon, California. The store opened in May 1982 with a {{< wiki-link "Cyberamics Balcony Stage" >}} and closed in July 1993 (Possibly a few weeks or so before La Mesa's opening) with a {{< wiki-link "Chuck E's House Facade" >}}. It's possible that this store relocated to {{< wiki-link "La Mesa, CA (5500 Grossmont Center Dr)" >}} which is about 10 minutes away from the location.
+***310 Fletcher Pkwy*** was a *Pizza Time Theatre* in El Cajon, California. The store opened in May 1982 with a [Cyberamics Balcony Stage] and closed in July 1993 (Possibly a few weeks or so before La Mesa's opening) with a [Chuck E's House Facade]. It's possible that this store relocated to [La Mesa, CA (5500 Grossmont Center Dr)] which is about 10 minutes away from the location.
 
 ## History
 
-El Cajon would open sometime in May 1982 (Date Unknown) in the former Kmart Foods Space with a {{< wiki-link "Cyberamics Balcony Stage" >}} as a franchised location. This was one of many installed in California and was the 2nd or 3rd Pizza Time Theatre to open in the San Diego area. On October 22nd, 1984, El Cajon was bought out by Corporate along with 50 other locations. El Cajon then received the 1988 Remodel in 1989-1990 converting the Balcony Stage to a {{< wiki-link "Chuck E's House Facade" >}}, added Blue and White awnings, removed older decor for newer decor, and checkers. The store would remain this way until they closed sometime in 1993 (Possibly around July as the store is not that far from La Mesa and was in the same area). Sometime after that, the store was gutted and became part of the expansion of the neighboring Kmart store which would remain open until 2004 when it closed. Not long after it closed, the building was demolished for a Home Depot which opened around 2005-2006. Currently, as of May 2023, Home Depot still sits on the site and is still open to this day.
+El Cajon would open sometime in May 1982 (Date Unknown) in the former Kmart Foods Space with a [Cyberamics Balcony Stage] as a franchised location. This was one of many installed in California and was the 2nd or 3rd Pizza Time Theatre to open in the San Diego area. On October 22nd, 1984, El Cajon was bought out by Corporate along with 50 other locations. El Cajon then received the 1988 Remodel in 1989-1990 converting the Balcony Stage to a [Chuck E's House Facade], added Blue and White awnings, removed older decor for newer decor, and checkers. The store would remain this way until they closed sometime in 1993 (Possibly around July as the store is not that far from La Mesa and was in the same area). Sometime after that, the store was gutted and became part of the expansion of the neighboring Kmart store which would remain open until 2004 when it closed. Not long after it closed, the building was demolished for a Home Depot which opened around 2005-2006. Currently, as of May 2023, Home Depot still sits on the site and is still open to this day.
 
 ## Stages
 
@@ -30,15 +30,15 @@ El Cajon would open sometime in May 1982 (Date Unknown) in the former Kmart Food
 
 | Animatronic                                                  | Whereabouts |
 |--------------------------------------------------------------|-------------|
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown.    |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown.    |
+| [Mr Munch (Cyberamic)]               | Unknown.    |
+| [Jasper T Jowls (Cyberamic)]         | Unknown.    |
 | Chuck E Cheese (Cyberamic)                                   | Unknown.    |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown.    |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown.    |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown.    |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown.    |
+| [Pasqually (Cyberamic)]              | Unknown.    |
+| [Warblettes (Cyberamic)]             | Unknown.    |
 | Waving Flags (Cyberamic)                                     | Unknown.    |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown.    |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown.    |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | Unknown.    |
+| [Applause Board (Cyberamic)]         | Unknown.    |
+| [Drum Board (Cyberamic)]             | Unknown.    |
+| [Singing Flowers (Cyberamic)]        | Unknown.    |
 
 TODO

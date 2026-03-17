@@ -1,4 +1,4 @@
-***'Rockin’ Christmas Eve'*** was a holiday live show which played alongside {{< wiki-link "Chuck E’s Holiday Party 1999" >}} and was reissued several times after. 
+***'Rockin’ Christmas Eve'*** was a holiday live show which played alongside [Chuck E’s Holiday Party 1999] and was reissued several times after. 
 
 ## Summary
 
@@ -8,15 +8,15 @@ The live show is a rock and roll song themed to Christmas Eve. In the middle of 
 
 1. 'Rockin’ Christmas Eve'
 2. Birthday Break
-3. {{< wiki-link "Birthday Star '98" >}}
+3. [Birthday Star '98]
 
 ## Showtape Releases:
 
 | Release Year | Showtape                                                  | Format                                               |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
-| 1999         | {{< wiki-link "Chuck E's Holiday Party 1999" >}}          | Studio C 3X DVD + Floppy                             |
-| 2000         | {{< wiki-link "Chuck E's Holiday Party 2000" >}}                   | Studio C 3X DVD + Floppy                             |
-| 2001         | {{< wiki-link "Chuck E's Holiday Party 2001" >}}                   | Studio C 3X DVD + Floppy                             |
-| 2010       | {{< wiki-link "Holiday Party 2010 Show" >}}                      | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2011         | {{< wiki-link "Happy Holidays 2011" >}}                   | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 1999         | [Chuck E's Holiday Party 1999]          | Studio C 3X DVD + Floppy                             |
+| 2000         | [Chuck E's Holiday Party 2000]                   | Studio C 3X DVD + Floppy                             |
+| 2001         | [Chuck E's Holiday Party 2001]                   | Studio C 3X DVD + Floppy                             |
+| 2010       | [Holiday Party 2010 Show]                      | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2011         | [Happy Holidays 2011]                   | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 

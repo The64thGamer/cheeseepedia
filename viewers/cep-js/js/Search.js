@@ -317,7 +317,7 @@ function renderTabResults(list, tabId, shown, display, byYear) {
 }
 
 // ── Shared helpers ────────────────────────────────────────────────────────────
-function permalink(p) { return p?'/?='+encodeURIComponent(p):'#'; }
+function permalink(p) { return p ? '/?v=cep-js&=' + encodeURIComponent(p) : '#'; }
 
 function thumbSrc(doc) {
   if (doc.img) return '/content/'+esc(doc.img)+'/photo.avif';
@@ -482,14 +482,14 @@ function buildReviewHTML(doc, meta, body, showFull) {
   const emoji=recommend?'👍':'👎';
   const title=esc(meta.title||doc.t||'');
   const page=meta.page||'';
-  const pageLink=page?`<a href="/?=${encodeURIComponent(norm(page))}" class="ReviewPage">${esc(page)}</a>`:'';
+  const pageLink = page ? `<a href="/?v=cep-js&=${encodeURIComponent(norm(page))}" class="ReviewPage">${esc(page)}</a>` : '';
   const contribs=(meta.contributors||[]).map(c=>esc(c)).join(', ');
   const date=esc(fmtDate(meta.startDate||doc.d));
   const metaLine=[date,contribs,pageLink].filter(Boolean).join(' · ');
   const bodyHTML=showFull
     ?`<div class="ReviewBody">${esc(body||'')}</div>`
     :`<div class="ReviewExcerpt">${esc(doc.e||'')}</div>`;
-  return `<div class="ReviewTitle"><span class="ReviewEmoji">${emoji}</span> <a href="/?=${encodeURIComponent(doc.p)}">${title}</a></div>
+  return `<div class="ReviewTitle"><span class="ReviewEmoji">${emoji}</span><a href="/?v=cep-js&=${encodeURIComponent(doc.p)}">${title}</a></div>
     <div class="ReviewMeta">${metaLine}</div>
     ${bodyHTML}`;
 }
@@ -522,7 +522,7 @@ function renderReviewList(doc) {
     const page=meta.page;
     if (page) {
       const metaEl=el.querySelector('.s-item-meta');
-      if (metaEl) metaEl.insertAdjacentHTML('beforeend',` · <a href="/?=${encodeURIComponent(norm(page))}">${esc(page)}</a>`);
+      if (metaEl) metaEl.insertAdjacentHTML('beforeend', ` · <a href="/?v=cep-js&=${encodeURIComponent(norm(page))}">${esc(page)}</a>`);
     }
   });
   return el;

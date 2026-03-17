@@ -56,7 +56,7 @@
 
 ### Filming Locations
 
-Segments not filmed on location are filmed at MPS Studios, an exception to this is the the CEC TV Intro, which was filmed inside Dept 18. at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
+Segments not filmed on location are filmed at MPS Studios, an exception to this is the the CEC TV Intro, which was filmed inside Dept 18. at the [ShowBiz Pizza Time Corporate Office].
 This show is completely filmed in the DFW area.
 - 'Hold On' was filmed at the now closed Americas Ice Garden.
 - 'I Thank You' was filmed at Leonhardt Lagoon Nature Walk, The Dallas Arboretum and Botanical Garden, and N Market St.
@@ -83,8 +83,8 @@ A version 1.01 floppy was also released which fixed an issue with the show audio
 
 ## Trivia
 
-- The logo shown on the monitor held by Chuck E. between songs is from the Existing Stage version of {{< wiki-link "January 2001 Show" >}}. The last few seconds of 'Larger Than Life' can also be seen before the logo appears.
-- The countdowns in intermission 1 and 3 reuse music from the {{< wiki-link "August 1997 Show" >}}.
-- Some of the stock footage in intermission 2's countdown previously appeared in the {{< wiki-link "September 2002 Show" >}}.
+- The logo shown on the monitor held by Chuck E. between songs is from the Existing Stage version of [January 2001 Show]. The last few seconds of 'Larger Than Life' can also be seen before the logo appears.
+- The countdowns in intermission 1 and 3 reuse music from the [August 1997 Show].
+- Some of the stock footage in intermission 2's countdown previously appeared in the [September 2002 Show].
 - Chuck E's curtains close during 'I Will Survive' on all versions, as well as Pasqually's on the 3-stage version. Chuck E's curtains also close during 'Respect' on the Studio C version.
 - ‘Chuck E. Shuffle’ and 'Go Santa Go' appear on the Studio C DVDs but could not be played.

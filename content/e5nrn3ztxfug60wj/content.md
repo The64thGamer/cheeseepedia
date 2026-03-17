@@ -73,11 +73,11 @@
 5. **Special 3**
     1.  Beach Boys Birthday
 6. **Special 4**
-    1.  {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}}
+    1.  [Birthday Extravaganza (Chuck E. Cheese Branded)]
 7. **Special 5**
-    1.  {{< wiki-link "Chuck E. Cheese Live" >}}
+    1.  [Chuck E. Cheese Live]
 8. **Special 6**
-    1.  {{< wiki-link "Birthday Extravaganza (ShowBiz Branded)" >}}
+    1.  [Birthday Extravaganza (ShowBiz Branded)]
 9. **Segment 3**
     1. Twelve Days of Christmas
 10. **Segment 4**
@@ -89,15 +89,15 @@
 
 ## Production
 
-This show started out as a Christmas showtape called {{< wiki-link "CEC Home for the Holidays" >}} in late 1987, originally on reel it later got a Cyberstar version two years later as Christmas '89. The major difference between the 1989 and 1990 versions are the copyrighted music for the intermissions countdowns, other than that the shows are remotely the same.
+This show started out as a Christmas showtape called [CEC Home for the Holidays] in late 1987, originally on reel it later got a Cyberstar version two years later as Christmas '89. The major difference between the 1989 and 1990 versions are the copyrighted music for the intermissions countdowns, other than that the shows are remotely the same.
 
 ### Road Stage Version
 
-The 1990 release would be the first ever showtape released for the {{< wiki-link "Road Stage" >}}, having new programming made in the {{< wiki-link "Animation Programming System" >}}. This would be the only full showtape to have been programmed in {{< wiki-link "SongCode" >}} and APS.
+The 1990 release would be the first ever showtape released for the [Road Stage], having new programming made in the [Animation Programming System]. This would be the only full showtape to have been programmed in [SongCode] and APS.
 
 ### APS Files
 
-The show was a part of the {{< wiki-link "1990-1992 APS Floppy Cases" >}}, being the second tape known to be made using APS. It would be split across three disks, overlapping with the {{< wiki-link "CEC Jan '91" >}} disk.
+The show was a part of the [1990-1992 APS Floppy Cases], being the second tape known to be made using APS. It would be split across three disks, overlapping with the [CEC Jan '91] disk.
 
 #### Floppy Disk Labels
 
@@ -125,7 +125,7 @@ The entry '#daywave.atl' was recovered from a deleted section of the disk, with 
 | xmas4.roa    | 727,552      | 10/27/1990 1:43:04 PM | 11:50       | 'XMAS SONG'/'WISH YOU A...' | 'WNTR WNDRLND'/'WISH YOU A(rprse |
 | #daywave.atl | 195,072      | 12/6/1990 3:27:20 PM  | 4:00        |                             |                                  |
 
-This table excludes entries for the {{< wiki-link "CEC Jan '91" >}} show.
+This table excludes entries for the [CEC Jan '91] show.
 
 | File Name    | Size (bytes) | Modified Date        | Header Time | Header Title 1 | Header Title 2 |
 |--------------|--------------|----------------------|-------------|----------------|----------------|

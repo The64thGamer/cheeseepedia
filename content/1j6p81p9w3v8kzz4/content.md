@@ -77,4 +77,4 @@ Disclaimer: The segment list is currently incomplete, as it is unclear what the 
 
 ## Trivia
 
-- This is the last show to feature reused segments with programming for the {{< wiki-link "Drum Board (Cyberamic)" >}}. After this show, the Drum Board would be left unused and would subsequently be removed in many locations.
+- This is the last show to feature reused segments with programming for the [Drum Board (Cyberamic)]. After this show, the Drum Board would be left unused and would subsequently be removed in many locations.

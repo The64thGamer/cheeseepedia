@@ -10,7 +10,7 @@ citations = []
 latitudeLongitude = ["30.38205522","-89.04495603"]
 +++
 
-***320 Courthouse Rd*** was a *ShowBiz Pizza Place* that opened on November 14th, 1983 with a {{< wiki-link "Classic Stage" >}}, and closed on June 30th, 1996 as a *Chuck E Cheese's Pizza* with a {{< wiki-link "Concept Unification Stage" >}}.
+***320 Courthouse Rd*** was a *ShowBiz Pizza Place* that opened on November 14th, 1983 with a [Classic Stage], and closed on June 30th, 1996 as a *Chuck E Cheese's Pizza* with a [Concept Unification Stage].
 
 ## History
 
@@ -27,15 +27,15 @@ TODO
 
 | Animatronic                                                               | Serial | Whereabouts       |
 |---------------------------------------------------------------------------|--------|-------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Wink" >}}                                            | N/A    | Unknown/Destroyed |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | N/A    | Unknown/Destroyed |
+| [Dook Larue (Animatronic)]                        | N/A    | Unknown/Destroyed |
+| [Fatz Geronimo (Animatronic)]                     | N/A    | Unknown/Destroyed |
+| [Beach Bear (Animatronic)]                        | N/A    | Unknown/Destroyed |
+| [Mitzi Mozzarella (Animatronic)]                  | N/A    | Unknown/Destroyed |
+| [Billy Bob (Animatronic)]                         | N/A    | Unknown/Destroyed |
+| [Looney Bird (Animatronic)]                       | N/A    | Unknown/Destroyed |
+| [Choo Choo (Animatronic)]                         | N/A    | Unknown/Destroyed |
+| [Sun (Animatronic)]                               | N/A    | Unknown/Destroyed |
+| [Moon (Animatronic)]                              | N/A    | Unknown/Destroyed |
+| [Antioch (Animatronic)]                           | N/A    | Unknown/Destroyed |
+| [Wink]                                            | N/A    | Unknown/Destroyed |

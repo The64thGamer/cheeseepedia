@@ -1,4 +1,4 @@
-Fats Gorilla was created for the {{< wiki-link "Wolf Pack 5" >}} show and debuted at the 1978 IAAPA. He is a parody of rhythm and blues musician, Fats Domino. His mech was later reused for Billy Bill in the {{< wiki-link "Hard Luck Bears" >}}.
+Fats Gorilla was created for the [Wolf Pack 5] show and debuted at the 1978 IAAPA. He is a parody of rhythm and blues musician, Fats Domino. His mech was later reused for Billy Bill in the [Hard Luck Bears].
 
 ## History
 

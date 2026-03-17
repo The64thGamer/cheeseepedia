@@ -1,4 +1,4 @@
-The ***Concept Unification Installation Tape* was a 1991 training tape sent with the {{< wiki-link "Concept Unification" >}} package as a visual medium for demonstrating the Concept Unification Process.**
+The ***Concept Unification Installation Tape* was a 1991 training tape sent with the [Concept Unification] package as a visual medium for demonstrating the Concept Unification Process.**
 
 ## Contents
 

@@ -1,4 +1,4 @@
-**Holiday 2005** is a rerelease of {{< wiki-link "Holiday 2004" >}} which played throughout December 2005.
+**Holiday 2005** is a rerelease of [Holiday 2004] which played throughout December 2005.
 
 ## Show List:
 
@@ -44,9 +44,9 @@
 - Chuck E. Swing
 - BINGO
 - If You're Happy and You Know It
-- {{< wiki-link "Birthday Star 2001" >}}
+- [Birthday Star 2001]
 - Spanish Birthday 01
-- {{< wiki-link "Chuck E. Says 2002" >}}
+- [Chuck E. Says 2002]
 - New Birthday
 - Go Santa Go
 

@@ -1,4 +1,4 @@
-The ***Chuck E. Cheese's 20th Anniversary Show (AAM Version)*** was a version of the {{< wiki-link "Chuck E. Cheese's 20th Anniversary" >}} for the {{< wiki-link "Awesome Adventure Machine" >}} stage.
+The ***Chuck E. Cheese's 20th Anniversary Show (AAM Version)*** was a version of the [Chuck E. Cheese's 20th Anniversary] for the [Awesome Adventure Machine] stage.
 
 
 
@@ -37,4 +37,4 @@ Disclaimer: The show list is currently incomplete, as only some intermissions ar
 
 ## Archive Recording
 
-*Brian Hagan*, programmer for the showtape and later Studio Manager of CEC Entertainment, would record the show's major segments as an archival recording of the stage, being the only footage known of the {{< wiki-link "Awesome Adventure Machine" >}}. The footage would be recorded on a Sony Hi8 camcorder with the video fed to a Sony Betacam SP video recorder. The audio was recorded directly to the Betacam SP deck from the Laserdisc source, making it the only known copy of the original audio, as Brian recounts that all AAM showtape discs were thrown out.{{< cite 1 >}}
+*Brian Hagan*, programmer for the showtape and later Studio Manager of CEC Entertainment, would record the show's major segments as an archival recording of the stage, being the only footage known of the [Awesome Adventure Machine]. The footage would be recorded on a Sony Hi8 camcorder with the video fed to a Sony Betacam SP video recorder. The audio was recorded directly to the Betacam SP deck from the Laserdisc source, making it the only known copy of the original audio, as Brian recounts that all AAM showtape discs were thrown out.[1]

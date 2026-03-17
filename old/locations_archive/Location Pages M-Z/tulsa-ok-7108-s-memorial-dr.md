@@ -54,7 +54,7 @@ Tulsa opened its doors on September 15th, 1980, as the first store in Oklahoma a
 | Moon                                                       | 4-81 11-1     | Unknown/Destroyed. |
 | Antioch                                                    | N/A           | Unknown/Destroyed. |
 | Wink                                                       | N/A           | Unknown/Destroyed. |
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 0??           | Destroyed.         |
+| [Chuck E Cheese 32m (Animatronic)] | 0??           | Destroyed.         |
 | Parrot (Animatronic)                                       | N/A           | Destroyed.         |
 | Clock                                                      | N/A           | Destroyed.         |
 | Pizza Phone                                                | N/A           | Destroyed.         |

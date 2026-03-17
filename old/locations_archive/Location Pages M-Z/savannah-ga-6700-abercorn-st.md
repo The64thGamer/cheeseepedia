@@ -33,17 +33,17 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 | Animatronic                                                               | Serial Number | Whereabouts                                                                                                                        |
 |---------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 1-82 1-22     | Destroyed, major remains such as the head were sent to Augusta, GA. Owned by a Private Collector after removal of Augusta's stage. |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 1-82 2-22     | Destroyed                                                                                                                          |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 1-82 3-22     | Unknown/Destroyed                                                                                                                  |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 1-82 4-22     | Destroyed                                                                                                                          |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 1-82 5-22     | Destroyed, cosmetics sent to Augusta, GA                                                                                           |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 1-82 6-22     | Unknown/Destroyed                                                                                                                  |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 1-82 7-22     | Unknown/Destroyed                                                                                                                  |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 1-82 8-22     | Unknown/Destroyed                                                                                                                  |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 1-82 10-22    | Owned by a private collectorhttps://www.youtube.com/shorts/EGientJyndo                                                             |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 1-82 11-22    | Owned by a private collector(0)                                                                                                    |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown/Destroyed                                                                                                                  |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Destroyed.                                                                                                                         |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-22     | Destroyed, major remains such as the head were sent to Augusta, GA. Owned by a Private Collector after removal of Augusta's stage. |
+| [Dook Larue (Animatronic)]                        | 1-82 2-22     | Destroyed                                                                                                                          |
+| [Fatz Geronimo (Animatronic)]                     | 1-82 3-22     | Unknown/Destroyed                                                                                                                  |
+| [Beach Bear (Animatronic)]                        | 1-82 4-22     | Destroyed                                                                                                                          |
+| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-22     | Destroyed, cosmetics sent to Augusta, GA                                                                                           |
+| [Billy Bob (Animatronic)]                         | 1-82 6-22     | Unknown/Destroyed                                                                                                                  |
+| [Looney Bird (Animatronic)]                       | 1-82 7-22     | Unknown/Destroyed                                                                                                                  |
+| [Choo Choo (Animatronic)]                         | 1-82 8-22     | Unknown/Destroyed                                                                                                                  |
+| [Sun (Animatronic)]                               | 1-82 10-22    | Owned by a private collectorhttps://www.youtube.com/shorts/EGientJyndo                                                             |
+| [Moon (Animatronic)]                              | 1-82 11-22    | Owned by a private collector(0)                                                                                                    |
+| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed                                                                                                                  |
+| [Wink]                                            | N/A           | Destroyed.                                                                                                                         |
 
 [Photos from 2007](https://www.showbizpizza.com/photos/cec/ga_savannah/index.html)

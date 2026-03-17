@@ -1,4 +1,4 @@
-***BillyCon V* was the 5th ever BillyCon event hosted at {{< wiki-link "Billy Bob's Wonderland" >}} ({{< wiki-link "Barboursville, WV (5 Cracker Barrel Dr)" >}}) from July 11th-13th, 2025.Admission was free to the event, but up to 100 guests could pre-purchase the VIP pass for $50, which included merchandise, a VIP lounge, early access to the event, a stage tour, and more. All VIP tickets were sold out by the event's start.**
+***BillyCon V* was the 5th ever BillyCon event hosted at [Billy Bob's Wonderland] ([Barboursville, WV (5 Cracker Barrel Dr)]) from July 11th-13th, 2025.Admission was free to the event, but up to 100 guests could pre-purchase the VIP pass for $50, which included merchandise, a VIP lounge, early access to the event, a stage tour, and more. All VIP tickets were sold out by the event's start.**
 
 **Some things that were included in the VIP pass for the events were: Custom VIP lanyards, Billy Bob's Swag Bag, Billy Bob's T-Shirts, Tokens, Wristbands, Early access to Billy Bobs before it opens, Discounted show requests, Exclusive VIP Lounge and Stage tours.** 
 

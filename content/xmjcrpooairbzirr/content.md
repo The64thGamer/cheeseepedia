@@ -1,4 +1,4 @@
-The ***Winchester Game Room Rules Sign* first appeared at the Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} from May 1977 to potentially the 1981 remodel.**
+The ***Winchester Game Room Rules Sign* first appeared at the Chuck E. Cheese's Pizza Time Theatre on [San Jose, CA (370 S Winchester Blvd)] from May 1977 to potentially the 1981 remodel.**
 
 ## Production
 
@@ -7,7 +7,7 @@ Similarly to the restroom sign, the game room rules sign has very little informa
 ## Usage
 
 The only known usage of the sign is at 370 South Winchester Boulevard, with no other units known to be shipped to Chuck E. Cheese's Pizza Time Theatre units meaning it was most likely store specific.
-The sign would be placed above the game room directly under {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}}
+The sign would be placed above the game room directly under [Winchester Jasper T. Jowls (Animatronic)]
 
 ## Design
 

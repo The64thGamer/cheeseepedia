@@ -10,7 +10,7 @@ citations = ["[https://www.newspapers.com/article/the-press-democrat/50027079/](
 pageThumbnailFile = "2rKLREFcNGxG_rs732je.avif"
 latitudeLongitude = ["38.44121247","-122.7104046"]
 +++
-***Santa Rosa, CA (545 Ross St)* was a {{< wiki-link "Pizza Time Theatre" >}} that was open from April 1981 to April 27, 1986.**
+***Santa Rosa, CA (545 Ross St)* was a [Pizza Time Theatre] that was open from April 1981 to April 27, 1986.**
 
 ## History
 

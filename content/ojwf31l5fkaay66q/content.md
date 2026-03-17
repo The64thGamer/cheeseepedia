@@ -1,4 +1,4 @@
-**3-Stage Diagnostics** was a rerelease of {{< wiki-link "3-Stage 2002 Diagnostics" >}} on DVD. The diagnostics were initially included with all 3-Stage DVDs, but became their own disc in January 2007. This disc would be rereleased many times with multiple different covers (including a rockstar release in 2014) until 2023 when all 3-Stage stores converted from DVD to Navori, which had diagnostics uploaded digitally.
+**3-Stage Diagnostics** was a rerelease of [3-Stage 2002 Diagnostics] on DVD. The diagnostics were initially included with all 3-Stage DVDs, but became their own disc in January 2007. This disc would be rereleased many times with multiple different covers (including a rockstar release in 2014) until 2023 when all 3-Stage stores converted from DVD to Navori, which had diagnostics uploaded digitally.
 
 ## Diagnostics List:
 

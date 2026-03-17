@@ -2,7 +2,7 @@ The ***SPP Westerns - Movies - R&R*** is a ShowBiz Corporate produced showtape r
 
 ## ShowBiz Pizza Program
 
-This showtape would used the {{< wiki-link "ShowBiz Pizza Program 4" >}} tape for the background music.
+This showtape would used the [ShowBiz Pizza Program 4] tape for the background music.
 
 ## Family Vision
 

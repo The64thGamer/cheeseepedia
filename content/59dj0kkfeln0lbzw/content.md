@@ -1,8 +1,8 @@
-***Skit-Oink 3 Tunnel/Love W/XMAS*** was a variant of {{< wiki-link "Madame Oink III - 'Tunnel of Love'" >}} that included Christmas songs released in November of 1982.
+***Skit-Oink 3 Tunnel/Love W/XMAS*** was a variant of [Madame Oink III - 'Tunnel of Love'] that included Christmas songs released in November of 1982.
 
 ## History
 
-One tape is marked as being made on February 15, 1983, which shows the tape lasted up until the release of {{< wiki-link "Madame Oink IV - The Tune Machine" >}} in March of 1983.
+One tape is marked as being made on February 15, 1983, which shows the tape lasted up until the release of [Madame Oink IV - The Tune Machine] in March of 1983.
 
 ## Show List
 

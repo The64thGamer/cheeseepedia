@@ -11,6 +11,6 @@ Warhol was released in 1998 and was manufactured by Corman & Associates up to 20
 
 ## Design
 
-This art was based on Andy Warhol's [Marilyn Diptych](https://en.wikipedia.org/wiki/Marilyn_Diptych). The head for used in this parody was most likely based of the the 3D model of Chuck E. Cheese seen in the {{< wiki-link "Interactive Console" >}}.
+This art was based on Andy Warhol's [Marilyn Diptych](https://en.wikipedia.org/wiki/Marilyn_Diptych). The head for used in this parody was most likely based of the the 3D model of Chuck E. Cheese seen in the [Interactive Console].
 
 ### Digital Recreations

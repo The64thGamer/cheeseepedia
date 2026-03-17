@@ -13,7 +13,7 @@ pageThumbnailFile = "tchHeHIXywhBekfBJpdh.avif"
 latitudeLongitude = ["53.46408257","-113.4758963"]
 +++
 
-**9271 34th Avenue** was a Chuck E. Cheese's Pizza Time Theatre that opened in November 1985 with a Balcony Stage, which closed in 1995. This store was the second last Balcony Stage store to open, as well as the second last PTT to open, both being before {{< wiki-link "Fairbanks, AK (600 Old Steese Hwy)" >}}, which opened in January 1986. Edmonton would be the last Balcony Stage, being replaced in 1993 with a 2-Stage.
+**9271 34th Avenue** was a Chuck E. Cheese's Pizza Time Theatre that opened in November 1985 with a Balcony Stage, which closed in 1995. This store was the second last Balcony Stage store to open, as well as the second last PTT to open, both being before [Fairbanks, AK (600 Old Steese Hwy)], which opened in January 1986. Edmonton would be the last Balcony Stage, being replaced in 1993 with a 2-Stage.
 
 ## History
 
@@ -32,13 +32,13 @@ Originally when the store opened, they featured a Balcony Stage. Edmonton's Balc
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown     |
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | Unknown            | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown     |
+| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown     |
 | Guest Star/ Helen Henny (Cyberamic)\|Helen Henny (Cyberamic) | Unknown            | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown     |
 
 ## Videos
 
-{| class='wikitable' |+ !Link !Filming Date !Notes |- |https://youtu.be/Tr1-muBNtRQ?si=1c\_FzvEWHbHbeQAF |June 29, 1992 |Footage of the store and its Balcony Stage playing {{< wiki-link "Environment '92" >}} and {{< wiki-link "Birthday Star '92" >}}.
+{| class='wikitable' |+ !Link !Filming Date !Notes |- |https://youtu.be/Tr1-muBNtRQ?si=1c\_FzvEWHbHbeQAF |June 29, 1992 |Footage of the store and its Balcony Stage playing [Environment '92] and [Birthday Star '92].

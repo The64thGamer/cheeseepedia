@@ -1,8 +1,8 @@
-***PTT 1981 Exterior Update*** was a change in exterior design for Pizza Time Theatre locations that were being built, with a few stores being remodeled to take on the new look. It was released in the summer of 1981. The {{< wiki-link "SPT 1980's Remodel Program" >}} would replace it from 1988-1991.
+***PTT 1981 Exterior Update*** was a change in exterior design for Pizza Time Theatre locations that were being built, with a few stores being remodeled to take on the new look. It was released in the summer of 1981. The [SPT 1980's Remodel Program] would replace it from 1988-1991.
 
 ## History
 
-In May 1981, it was announced that Pizza Time Theatre locations would be updating all of its existing registered trademarks along with announcing that San Francisco based, S&O Consultants{{< cite 1 >}} would be redesigning their logos, exteriors, décor, and signage. This package would roll out to locations through the summer of 1981.
+In May 1981, it was announced that Pizza Time Theatre locations would be updating all of its existing registered trademarks along with announcing that San Francisco based, S&O Consultants[1] would be redesigning their logos, exteriors, décor, and signage. This package would roll out to locations through the summer of 1981.
 
 ## Design
 

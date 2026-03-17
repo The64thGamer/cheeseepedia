@@ -61,7 +61,7 @@ Featured 4 segments singing various kids' songs and parodies of kids songs.
 - Rockin' Christmas Eve
 - Give My Regards to Broadway (Existing Stages)
 
-**Birthday Break**: Just for Kids Show logo with music (reused from {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}}) set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: Just for Kids Show logo with music (reused from [Chuck E's Variety Show - Best of 1999]) set to a 1 minute, 2 minute countdown. This would then lead into the Birthday show.
 
 ## Production
 
@@ -71,5 +71,5 @@ Featured 4 segments singing various kids' songs and parodies of kids songs.
 ## Trivia:
 
 - The Studio C Puppets for this show feature white borders around each square for the Studio C Puppets. Helen's is green, Pasqually's is red, Munch is amber, and Jasper is blue.
-- This was the final show to feature the Studio C Bluescreen footage. It also seemingly has the Studio C Bluescreen footage leftover from {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}}.
+- This was the final show to feature the Studio C Bluescreen footage. It also seemingly has the Studio C Bluescreen footage leftover from [Chuck E's Variety Show - Best of 1999].
 - This was Karisa McKinney's final show as Helen Henny.

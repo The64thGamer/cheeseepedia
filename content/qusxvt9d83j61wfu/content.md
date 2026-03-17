@@ -1,5 +1,5 @@
 The ***CEI 4-Track Reel* is the format of the Reel to Reels that CEI produced and sent to stores that contains the audio and data to a showtape.
-These showtapes usually have the audio DBX Encoded and the stores usually have a DBX Decoder to Decode the audio. The signals on the reel will require waveshaping to properly work with a Gray Box and a {{< wiki-link "Layton Bit Stripper" >}} (Built in).**
+These showtapes usually have the audio DBX Encoded and the stores usually have a DBX Decoder to Decode the audio. The signals on the reel will require waveshaping to properly work with a Gray Box and a [Layton Bit Stripper] (Built in).**
 
 ## Format
 
@@ -7,8 +7,8 @@ The 4 Track Format is below.
 
 1.  The First Track contains the Showtape Audio Left Channel. This Audio is usually DBX Encoded and requires DBX Decoding.
 2.  The Second Track contains the Showtape Audio Right Channel. This Audio is usually DBX Encoded and requires DBX Decoding.
-3.  The Third Track contains {{< wiki-link "Pianocorder Data Format" >}} {{< wiki-link "Biphase Mark Code" >}} Data. This data is for the Top Drawer and to play correctly requires a waveshaper.
-4.  The Fourth Track contains {{< wiki-link "Pianocorder Data Format" >}} {{< wiki-link "Biphase Mark Code" >}} Data. This data is for the Bottom Drawer and to play correctly requires a waveshaper.
+3.  The Third Track contains [Pianocorder Data Format] [Biphase Mark Code] Data. This data is for the Top Drawer and to play correctly requires a waveshaper.
+4.  The Fourth Track contains [Pianocorder Data Format] [Biphase Mark Code] Data. This data is for the Bottom Drawer and to play correctly requires a waveshaper.
 
 ## Baking
 

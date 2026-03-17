@@ -1,4 +1,4 @@
-**CEC Roadshow January 2001** was a Road Show CD released alongside the {{< wiki-link "January 2001 Show" >}} which featured four {{< wiki-link "Road Shows" >}}.
+**CEC Roadshow January 2001** was a Road Show CD released alongside the [January 2001 Show] which featured four [Road Shows].
 
 ## Track List:
 1. **Track 1**

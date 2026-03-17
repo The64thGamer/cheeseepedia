@@ -13,7 +13,7 @@ pageThumbnailFile = "3L7xBVbM77TL145D7JzU.avif"
 latitudeLongitude = ["34.31308932","-88.70488228"]
 +++
 
-**4383 Mall Dr** is a *Chuck E. Cheese's* that opened in April 2008 with a {{< wiki-link "Studio C Beta" >}}, and is still open to this day.
+**4383 Mall Dr** is a *Chuck E. Cheese's* that opened in April 2008 with a [Studio C Beta], and is still open to this day.
 
 ## History
 
@@ -25,13 +25,13 @@ The Melvin franchise locations received 'Star Stage' Artwork in 2010, that would
 
 | Stage                                   | Installed  | Removed      |
 |-----------------------------------------|------------|--------------|
-| {{< wiki-link "Studio C Beta" >}} | April 2008 | Still In Use |
+| [Studio C Beta] | April 2008 | Still In Use |
 
 ## Animatronics
 
 | Animatronic                                                | Serial  | Whereabouts                                |
 |------------------------------------------------------------|---------|--------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | Unknown | Removed from stage, whereabouts unknown(1) |
+| [Chuck E Cheese 16m (Animatronic)] | Unknown | Removed from stage, whereabouts unknown(1) |
 
 ## Trivia
 

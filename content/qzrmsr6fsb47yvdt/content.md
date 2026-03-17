@@ -2,7 +2,7 @@ Captain Carnival, also known as Captain Carnival's Pizza Theatre, was a chain of
 
 ## History
 
-The first and main location opened in Winsdor, Canada, at {{< wiki-link "7755 Teschuma Road, E" >}} on March 7th, 1983. At some point in 1983, multiple licenses for franchising were sold- two in Massachusetts, three in Vancouver, two in Toronto, and one in London- however, the one in London, set at {{< wiki-link "1051 Wellington Rd." >}}, is the only one confirmed to have opened. Locations were also potentially set to open in Atlanta, GA, Massachusetts, Pittsburgh, and New Jersey.
+The first and main location opened in Winsdor, Canada, at [7755 Teschuma Road, E] on March 7th, 1983. At some point in 1983, multiple licenses for franchising were sold- two in Massachusetts, three in Vancouver, two in Toronto, and one in London- however, the one in London, set at [1051 Wellington Rd.], is the only one confirmed to have opened. Locations were also potentially set to open in Atlanta, GA, Massachusetts, Pittsburgh, and New Jersey.
 In August of 1984, the Winsdor location put up a sign for renovation that would stay there for two months, with the building officially being replaced by a Chi-Chi's in August of 1985.
 
 ## Shows

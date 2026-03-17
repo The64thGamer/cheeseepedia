@@ -12,7 +12,7 @@ citations = ["<a href=\"https://www.showbizpizza.com/info/documents/cec/cec_focu
 latitudeLongitude = ["30.35787287","-97.73202963"]
 +++
 
-***Austin, TX (8038 Burnet Rd), Store #936***(1) was a *ShowBiz Pizza Place/Chuck E. Cheese* that opened on January 28, 1982, as a corporate location with a {{< wiki-link "Classic Stage" >}} and closed on October 29, 2006 with a 3-Stage.
+***Austin, TX (8038 Burnet Rd), Store #936***(1) was a *ShowBiz Pizza Place/Chuck E. Cheese* that opened on January 28, 1982, as a corporate location with a [Classic Stage] and closed on October 29, 2006 with a 3-Stage.
 
 ## History
 
@@ -24,32 +24,32 @@ Originally, Austin (Burnet) featured a Rock-Afire Explosion, as all other ShowBi
 
 | Stage                                               | Intalled     | Removed      | Notes                                                                |
 |-----------------------------------------------------|--------------|--------------|----------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}             | January 1982 | 1991         | 5th ShowBiz Pizza store to open in Texas.                            |
-| {{< wiki-link "Concept Unification Stage" >}} | 1991         | October 2006 | One of 17 ShowBiz locations in Texas to receive Concept Unification. |
+| [Classic Stage]             | January 1982 | 1991         | 5th ShowBiz Pizza store to open in Texas.                            |
+| [Concept Unification Stage] | 1991         | October 2006 | One of 17 ShowBiz locations in Texas to receive Concept Unification. |
 
 ## Arcade Machines
 
 ### Identified Machines
 
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
-- {{< wiki-link "Chuck E Cheese's Memory Match" >}}
+- [Chuck E Cheese's Sketch Book]
+- [Chuck E Cheese's Memory Match]
 
 ## Animatronics
 
 | Animatronic                                                               | Serial Number | Whereabouts        |
 |---------------------------------------------------------------------------|---------------|--------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 7-81 1-4      | Unknown/Destroyed. |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 7-81 2-4      | Unknown/Destroyed. |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 7-81 3-4      | Unknown/Destroyed. |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 7-81 4-4      | Unknown/Destroyed. |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 7-81 5-4      | Unknown/Destroyed. |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 7-81 6-4      | Unknown/Destroyed. |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 7-81 7-4      | Unknown/Destroyed. |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 7-81 8-4      | Unknown/Destroyed. |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 7-81 10-4     | Unknown/Destroyed. |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 7-81 11-4     | Unknown/Destroyed. |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown/Destroyed. |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown/Destroyed. |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-81 1-4      | Unknown/Destroyed. |
+| [Dook Larue (Animatronic)]                        | 7-81 2-4      | Unknown/Destroyed. |
+| [Fatz Geronimo (Animatronic)]                     | 7-81 3-4      | Unknown/Destroyed. |
+| [Beach Bear (Animatronic)]                        | 7-81 4-4      | Unknown/Destroyed. |
+| [Mitzi Mozzarella (Animatronic)]                  | 7-81 5-4      | Unknown/Destroyed. |
+| [Billy Bob (Animatronic)]                         | 7-81 6-4      | Unknown/Destroyed. |
+| [Looney Bird (Animatronic)]                       | 7-81 7-4      | Unknown/Destroyed. |
+| [Choo Choo (Animatronic)]                         | 7-81 8-4      | Unknown/Destroyed. |
+| [Sun (Animatronic)]                               | 7-81 10-4     | Unknown/Destroyed. |
+| [Moon (Animatronic)]                              | 7-81 11-4     | Unknown/Destroyed. |
+| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed. |
+| [Wink]                                            | N/A           | Unknown/Destroyed. |
 
 ## Videos
 

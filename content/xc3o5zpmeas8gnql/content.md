@@ -59,5 +59,5 @@ Rockin' Robin was filmed at the [Fort Worth Zoo](https://www.fortworthzoo.org/).
 ## Trivia:
 
 - This was the first show with Jeremy Blaido as director of entertainment, as well as the first show he voiced Jasper.
-- 'The Future Looks Fun To Me' is originally from {{< wiki-link "CEC Future" >}}.
+- 'The Future Looks Fun To Me' is originally from [CEC Future].
 - An extended intro for 'The Future Looks Fun To Me' was recorded but can only be heard in the On-Hold audio on Studio C DVDs.

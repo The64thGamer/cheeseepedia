@@ -2,7 +2,7 @@
 
 ## Potential Revision
 
-An "Appearing Now" insert card containing most of the segments of the show would be found. This card however contains the segments "Banana Hill" and "Roast Beef Sandwich and a Pizza". For locations that would recieve a Klunk the next month, the {{< wiki-link "Uncle Klunk Showtape" >}} would contain both of these songs. It is not clear if this card is intended for this tape however.
+An "Appearing Now" insert card containing most of the segments of the show would be found. This card however contains the segments "Banana Hill" and "Roast Beef Sandwich and a Pizza". For locations that would recieve a Klunk the next month, the [Uncle Klunk Showtape] would contain both of these songs. It is not clear if this card is intended for this tape however.
 
 ## Segment List
 

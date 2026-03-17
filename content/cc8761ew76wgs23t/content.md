@@ -6,7 +6,7 @@ This character was produced in 1993 for the New Rock-Afire Explosion show, with 
 
 ## Design
 
-This bot is a Standard Mijjin mech with less movements, the mech has green eye pieces. The bot is the Looney Bird Character from the {{< wiki-link "Rock-afire Explosion" >}} in the smaller Mijjin style, now with a body. This character is only seen wearing a Lab Coat.
+This bot is a Standard Mijjin mech with less movements, the mech has green eye pieces. The bot is the Looney Bird Character from the [Rock-afire Explosion] in the smaller Mijjin style, now with a body. This character is only seen wearing a Lab Coat.
 
 ## Movements
 

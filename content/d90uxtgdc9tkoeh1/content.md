@@ -4,9 +4,9 @@ This tape also includes three original songs written by members of the productio
 
 ## Production
 
-When producing the *Abbey Road* segment, CEI rented 23 musicians to perform additional instruments, specifically listed are the horns and strings. During *Louisiana,* CEI moved their drums into a warehouse for recording to provide proper reverberation. *Child of the Rock* has 15 children from a local elementary school provide the backup vocals.{{< cite 1 >}}
-Three songs on the tape would be original productions by The Noize. *Louisiana* would be written by Burt 'Sal' Wilson, *Child of the Rock* would be written by Duke Chauppetta, and *Goofy Gas* by Jeff 'Claude' Howell.{{< cite 1 >}}
-The showtape would be completed in late August.{{< cite 1 >}}
+When producing the *Abbey Road* segment, CEI rented 23 musicians to perform additional instruments, specifically listed are the horns and strings. During *Louisiana,* CEI moved their drums into a warehouse for recording to provide proper reverberation. *Child of the Rock* has 15 children from a local elementary school provide the backup vocals.[1]
+Three songs on the tape would be original productions by The Noize. *Louisiana* would be written by Burt 'Sal' Wilson, *Child of the Rock* would be written by Duke Chauppetta, and *Goofy Gas* by Jeff 'Claude' Howell.[1]
+The showtape would be completed in late August.[1]
 
 ## Show List
 
@@ -47,7 +47,7 @@ The showtape would be completed in late August.{{< cite 1 >}}
 ## Trivia
 
 - This show was the first to feature Shalisa Sloan as the voice of Mitzi. She was only 11-years-old when she got the part.
-- This show was also the first to feature Rick Bailey as a lead vocalist, although not as Beach Bear, but as the Moon in 'Golden Slumbers'. Previously, he had done instrumental work and back-up vocals for the band, but this is his first time singing lead. He would end up replacing Aaron Fechter as the voice of Beach Bear in the following showtape, {{< wiki-link "RAE Christmas '82" >}}.
+- This show was also the first to feature Rick Bailey as a lead vocalist, although not as Beach Bear, but as the Moon in 'Golden Slumbers'. Previously, he had done instrumental work and back-up vocals for the band, but this is his first time singing lead. He would end up replacing Aaron Fechter as the voice of Beach Bear in the following showtape, [RAE Christmas '82].
 - This is Aaron Fechter's final show recording any new vocals for Beach Bear. Anytime his Beach Bear voice is heard following this tape, it's through reused segments.
 - All of the segments from this showtape would go on to be reused in future compilation tapes.
 - At the time of it's release, the Abbey Road Medley was the longest individual segment on a Rock-afire showtape, clocking in at 14-minutes. This title has since been taken by longer tracks, however.

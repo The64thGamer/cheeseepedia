@@ -2,7 +2,7 @@
 
 ## Crazy Colander Head Night
 
-The showtape would officially play every single day from March 1st - 31, 1983. This was to coincide with the {{< wiki-link "Crazy Colander Head Night (Event)" >}}, which the showtape makes direct reference to. This show was also specifically paired up with the {{< wiki-link "3 Birthday Shows - Colander History - Indoctrination Skit" >}} as the Birthday reel.
+The showtape would officially play every single day from March 1st - 31, 1983. This was to coincide with the [Crazy Colander Head Night (Event)], which the showtape makes direct reference to. This show was also specifically paired up with the [3 Birthday Shows - Colander History - Indoctrination Skit] as the Birthday reel.
 
 ## Show List
 

@@ -1,4 +1,4 @@
-The ***Billy Bob Glass w/ Handle*** was a piece of merchandise sold at {{< wiki-link "ShowBiz Pizza Place" >}}.
+The ***Billy Bob Glass w/ Handle*** was a piece of merchandise sold at [ShowBiz Pizza Place].
 
-It was seemingly produced alongside the {{< wiki-link "Mitzi Mozzarella Glass w/ Handle" >}}, with also variants without handles as the {{< wiki-link "Billy Bob Glass" >}} and {{< wiki-link "Mitzi Mozzarella Glass" >}}.
+It was seemingly produced alongside the [Mitzi Mozzarella Glass w/ Handle], with also variants without handles as the [Billy Bob Glass] and [Mitzi Mozzarella Glass].
  

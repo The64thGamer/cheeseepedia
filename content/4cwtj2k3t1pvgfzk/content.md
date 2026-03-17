@@ -1,4 +1,4 @@
-***Beagles III*** is the third {{< wiki-link "The Beagles / Beach Bowzers (Lounge)" >}} showtape, released in August of 1983. 
+***Beagles III*** is the third [The Beagles / Beach Bowzers (Lounge)] showtape, released in August of 1983. 
 
 ## Show List:
 1. Segment 1

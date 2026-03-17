@@ -1,1 +1,1 @@
-***Taikoo Shing, Hong Kong, China (City Plaza, Unit 502)*** was a {{< wiki-link "Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園)" >}} lasting from 1984 to 1987-1991.
+***Taikoo Shing, Hong Kong, China (City Plaza, Unit 502)*** was a [Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園)] lasting from 1984 to 1987-1991.

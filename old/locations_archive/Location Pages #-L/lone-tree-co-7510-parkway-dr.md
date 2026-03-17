@@ -9,7 +9,7 @@ contributors = ["CEC Denver","The 64th Gamer","Himitsu","Rexburg090","Anonymous"
 citations = []
 +++
 
-***Lone Tree, CO (7510 Parkway Dr)*** is a *{{< wiki-link "Chuck E Cheese's" >}}* that opened on February 15th, 2000, with a {{< wiki-link "Studio C Alpha" >}} stage. This store is known for its appearance on the Food Network's *Unwrapped*. This store is also significant for being the 300th Chuck E. Cheese's restaurant when it opened. It went through multiple different acquisitions in the 90s until finally landing in Chuck E. Cheese's hands in 1999. It expanded in 2009 and received the 2.0 remodel in 2022.
+***Lone Tree, CO (7510 Parkway Dr)*** is a *[Chuck E Cheese's]* that opened on February 15th, 2000, with a [Studio C Alpha] stage. This store is known for its appearance on the Food Network's *Unwrapped*. This store is also significant for being the 300th Chuck E. Cheese's restaurant when it opened. It went through multiple different acquisitions in the 90s until finally landing in Chuck E. Cheese's hands in 1999. It expanded in 2009 and received the 2.0 remodel in 2022.
 
 ## Stages
 
@@ -40,7 +40,7 @@ In 2022, Lone Tree received the 2.0 remodel. It began on May 23. This remodel or
 
 ## Arcade Machines
 
-This list consists of all machines Lone Tree has as of June 24, 2024. Their game selection has only minorly changed since the 2.0 remodel, with changes consisting of a Hollywood Reels cabinet from the {{< wiki-link "Englewood, CO (1001 W Hampden Ave)" >}} location's 2.0 remodel replacing their Big Bass Wheel Pro that was damaged beyond repair in December 2022, Comet Catcher, Winner's Wheel, and Hit Music being removed to make room for their Trampoline Zone in March 2024, and CEC Street Hoops, Bop 2 Win, Intermission, Operation, Jackpot Xtreme, and Lane Master being removed to make room for their Ninja Run in June 2024.
+This list consists of all machines Lone Tree has as of June 24, 2024. Their game selection has only minorly changed since the 2.0 remodel, with changes consisting of a Hollywood Reels cabinet from the [Englewood, CO (1001 W Hampden Ave)] location's 2.0 remodel replacing their Big Bass Wheel Pro that was damaged beyond repair in December 2022, Comet Catcher, Winner's Wheel, and Hit Music being removed to make room for their Trampoline Zone in March 2024, and CEC Street Hoops, Bop 2 Win, Intermission, Operation, Jackpot Xtreme, and Lane Master being removed to make room for their Ninja Run in June 2024.
 
 ### Play Pass Machines
 
@@ -87,7 +87,7 @@ This list consists of all machines Lone Tree has as of June 24, 2024. Their game
 - Chuck E.'s Fun Photos Photo Booth
 - Super Monkey Ball Ticket Blitz
 - Let’s Go Jungle!
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Down the Clown
 - NBA Hoops
 - Alley Roller Classic
@@ -118,7 +118,7 @@ This list consists of all machines Lone Tree has as of June 24, 2024. Their game
 - Pirates Hook
 - Nicktoons Nitro
 - KC Cobra
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Giraffe Play
 - Bike Rally
 - City Tour Bus
@@ -142,7 +142,7 @@ This list consists of all machines Lone Tree has as of June 24, 2024. Their game
 
 ### Other Machines
 
-- {{< wiki-link "Ticket Blaster" >}}
+- [Ticket Blaster]
 
 ## Videos
 
@@ -151,44 +151,44 @@ This list consists of all machines Lone Tree has as of June 24, 2024. Their game
 | [Link](https://www.youtube.com/watch?v=HuslrK9OKLc&t=0s)                                            | Lone Tree on the Food Network's *Unwrapped* in HD quality                                                                                                       | 2003               |
 | [Link](https://www.youtube.com/watch?v=AlU_pq0uDP4&list=PLfKIrd3cLCn367R7sjBag09bjI280-R_D&index=1) | Two girls in the Ticket Blaster during a Birthday Party                                                                                                         | August 2, 2015     |
 | [Link](https://youtu.be/cKwxn1NfUgc)                                                                | Family vlog in which they visit Littleton                                                                                                                       | 2017               |
-| [Link](https://youtu.be/gFqRkwuwBEU)                                                                | 'Song Title' from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} being performed on Lone Tree's Alpha                                                   | February 19, 2017  |
+| [Link](https://youtu.be/gFqRkwuwBEU)                                                                | 'Song Title' from [Chuck E Cheese's Show 5 2016] being performed on Lone Tree's Alpha                                                   | February 19, 2017  |
 | [Link](https://youtu.be/WLLuE3NEnfs)                                                                | Various footage from Littleton including a store tour                                                                                                           | April 28, 2017     |
-| [Link](https://youtu.be/HCRA9ZJYNko)                                                                | 'Trio' from {{< wiki-link "Chuck E Cheese's Show 3 2017" >}} being performed on Littleton's Alpha                                                         | April 28, 2017     |
-| [Link](https://youtu.be/S1ihOnIFQMk)                                                                | 'Chuck E.'s Place' from {{< wiki-link "Chuck E Cheese's Show 3 2017" >}} being performed on Littleton's Alpha                                             | April 28, 2017     |
-| [Link](https://youtu.be/wTWFzO9QbYc)                                                                | 20 seconds of an unknown segment from {{< wiki-link "Chuck E Cheese's Show 3 2017" >}} running on Littleton's Alpha                                       | May 29, 2017       |
-| [Link](https://www.youtube.com/watch?v=DgPn1p2rF44&t=37s)                                           | 'Trio' from {{< wiki-link "Chuck E Cheese's Show 3 2017" >}} being performed on Littleton's Alpha                                                         | May 29, 2017       |
-| [Link](https://youtu.be/zZ7ExqK8c1s)                                                                | 'Gamin' Time' from {{< wiki-link "Chuck E Cheese's Show 3 2016" >}} being performed on Littleton's Alpha                                                  | May 15, 2019       |
-| [Link](https://www.youtube.com/watch?v=8RTYlrhO1fY&t=107s)                                          | 'Gamin' Time' from {{< wiki-link "Chuck E Cheese's Show 3 2016" >}} being performed on Littleton's Alpha                                                  | April 13, 2019     |
-| [Link](https://www.youtube.com/watch?v=GaJ6MzSFoi0&t=31s)                                           | 'Out of This World' from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} being performed on Littleton's Alpha                                            | July 30, 2019      |
+| [Link](https://youtu.be/HCRA9ZJYNko)                                                                | 'Trio' from [Chuck E Cheese's Show 3 2017] being performed on Littleton's Alpha                                                         | April 28, 2017     |
+| [Link](https://youtu.be/S1ihOnIFQMk)                                                                | 'Chuck E.'s Place' from [Chuck E Cheese's Show 3 2017] being performed on Littleton's Alpha                                             | April 28, 2017     |
+| [Link](https://youtu.be/wTWFzO9QbYc)                                                                | 20 seconds of an unknown segment from [Chuck E Cheese's Show 3 2017] running on Littleton's Alpha                                       | May 29, 2017       |
+| [Link](https://www.youtube.com/watch?v=DgPn1p2rF44&t=37s)                                           | 'Trio' from [Chuck E Cheese's Show 3 2017] being performed on Littleton's Alpha                                                         | May 29, 2017       |
+| [Link](https://youtu.be/zZ7ExqK8c1s)                                                                | 'Gamin' Time' from [Chuck E Cheese's Show 3 2016] being performed on Littleton's Alpha                                                  | May 15, 2019       |
+| [Link](https://www.youtube.com/watch?v=8RTYlrhO1fY&t=107s)                                          | 'Gamin' Time' from [Chuck E Cheese's Show 3 2016] being performed on Littleton's Alpha                                                  | April 13, 2019     |
+| [Link](https://www.youtube.com/watch?v=GaJ6MzSFoi0&t=31s)                                           | 'Out of This World' from [Chuck E Cheese's Show 5 2016] being performed on Littleton's Alpha                                            | July 30, 2019      |
 | [Link](https://youtu.be/GOpnnfV_y1M)                                                                | Family vlog of a birthday party at Littleton                                                                                                                    | September 27, 2020 |
-| [Link](https://youtu.be/9EXn8wJDCss)                                                                | 'Sammy the Skateboarding Skeleton' from {{< wiki-link "Chuck E Cheese's Show 3 2020 &amp; DJ Munch's Glow Party" >}} being performed on Littleton's Alpha | October 3, 2020    |
+| [Link](https://youtu.be/9EXn8wJDCss)                                                                | 'Sammy the Skateboarding Skeleton' from [Chuck E Cheese's Show 3 2020 &amp; DJ Munch's Glow Party] being performed on Littleton's Alpha | October 3, 2020    |
 | [Link](https://youtu.be/RVR4obg3o0E)                                                                | 'Chuck E.'s Halloween Boo-Tastic Dance' being performed on Littleton's Alpha                                                                                    | October 3, 2020    |
-| [Link](https://youtu.be/Frlg_PVZDpw)                                                                | 'Nobody There' from {{< wiki-link "Chuck E Cheese's Show 3 2020 &amp; DJ Munch's Glow Party" >}} being performed on Littleton's Alpha                     | October 3, 2020    |
+| [Link](https://youtu.be/Frlg_PVZDpw)                                                                | 'Nobody There' from [Chuck E Cheese's Show 3 2020 &amp; DJ Munch's Glow Party] being performed on Littleton's Alpha                     | October 3, 2020    |
 | [Link](https://youtu.be/xeyasblxlDQ)                                                                | 'Chuck E.'s Halloween Boo-Tastic Dance' being performed on Littleton's Alpha                                                                                    | October 3, 2020    |
-| [Link](https://www.youtube.com/watch?v=QfEC1qWyX64&t=27s)                                           | 'Disco Dancing Dinosaur Party' from {{< wiki-link "Chuck E Cheese's Show 1 2020" >}} being performed on Littleton's Alpha                                 | March 10, 2021     |
-| [Link](https://youtu.be/_FuhRnnChHs)                                                                | 20 seconds of 'Disco Dancing Dinosaur Party' from {{< wiki-link "Chuck E Cheese's Show 1 2020" >}} being performed on Littleton's Alpha                   | March 24, 2021     |
+| [Link](https://www.youtube.com/watch?v=QfEC1qWyX64&t=27s)                                           | 'Disco Dancing Dinosaur Party' from [Chuck E Cheese's Show 1 2020] being performed on Littleton's Alpha                                 | March 10, 2021     |
+| [Link](https://youtu.be/_FuhRnnChHs)                                                                | 20 seconds of 'Disco Dancing Dinosaur Party' from [Chuck E Cheese's Show 1 2020] being performed on Littleton's Alpha                   | March 24, 2021     |
 | [Link](https://youtu.be/R1DNIosW23Q)                                                                | Store tour of Littleton                                                                                                                                         | April 3, 2021      |
-| [Link](https://www.youtube.com/watch?v=oewOqexaSj8&t=161s)                                          | 'Out of This World' from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} being performed on Littleton's Alpha                                            | June 3, 2021       |
-| [Link](https://youtu.be/Tu9_83N3aEY)                                                                | 'Song Title' from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} being performed on Littleton's Alpha                                                   | June 3, 2021       |
-| [Link](https://youtu.be/qHw0vfcwqo4)                                                                | 'Chuck E. Cheese is All About Fun!' from {{< wiki-link "Chuck E Cheese's Show 3 2018" >}} being performed on Littleton's Alpha                            | June 3, 2021       |
-| [Link](https://youtu.be/Tf7GVt-wdJA)                                                                | 'Song of Summer' from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}} being interrupted by 'Chuck E.'s Beach Party Bash' on Littleton's Alpha            | June 3, 2021       |
-| [Link](https://youtu.be/0GgHcUtYUhQ)                                                                | 'Song of Summer' from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}} being performed on Littleton's Alpha                                               | June 3, 2021       |
-| [Link](https://youtu.be/DZ0TMDANyXM)                                                                | 'Dog Days of Summer' from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}} being performed on Littleton's Alpha                                           | June 3, 2021       |
-| [Link](https://youtu.be/4A_wYd9Kvzg)                                                                | 'I Dare You Not To Laugh' from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}} being performed on Littleton's Alpha                                      | June 3, 2021       |
-| [Link](https://www.youtube.com/watch?v=cHEqpIy3AvI)                                                 | 'Let's Be Friends' from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}} being performed on Littleton's Alpha                                             | June 3, 2021       |
-| [Link](https://youtu.be/2yA7zTZGqyc)                                                                | 'Out of This World' from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} being performed on Littleton's Alpha                                            | June 6, 2021       |
-| [Link](https://youtu.be/Da1BodQ-tMQ)                                                                | 'DJ Munch Mashup' from {{< wiki-link "Chuck E Cheese's Show 1 2021" >}} being performed on Littleton's Alpha                                              | September 4, 2021  |
-| [Link](https://youtu.be/GXC3i8gdjaw)                                                                | 'Let's Have a Party' from {{< wiki-link "Chuck E Cheese's Show 1 2016" >}} being performed on Littleton's Alpha                                           | September 4, 2021  |
-| [Link](https://youtu.be/s6zEe20lCgM)                                                                | 'The Tail of Jasper T.' from {{< wiki-link "Chuck E Cheese's Show 1 2019" >}} being performed on Littleton's Alpha                                        | September 4, 2021  |
-| [Link](https://youtu.be/W8oIhedL3rI)                                                                | 'Ves Al Ratoncito' from {{< wiki-link "Chuck E Cheese's Show 2 2019" >}} being performed on Littleton's Alpha                                             | September 4, 2021  |
-| [Link](https://youtu.be/-eAZEhEyYh4)                                                                | 'Merry Christmastime' from {{< wiki-link "Chuck E Cheese's Show 9 2016" >}} being performed on Littleton's Alpha                                          | January 2, 2022    |
-| [Link](https://youtu.be/U7fLtt5wPU4)                                                                | 'Out of This World' from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} being performed on Littleton's Alpha                                            | June 7, 2022       |
+| [Link](https://www.youtube.com/watch?v=oewOqexaSj8&t=161s)                                          | 'Out of This World' from [Chuck E Cheese's Show 5 2016] being performed on Littleton's Alpha                                            | June 3, 2021       |
+| [Link](https://youtu.be/Tu9_83N3aEY)                                                                | 'Song Title' from [Chuck E Cheese's Show 5 2016] being performed on Littleton's Alpha                                                   | June 3, 2021       |
+| [Link](https://youtu.be/qHw0vfcwqo4)                                                                | 'Chuck E. Cheese is All About Fun!' from [Chuck E Cheese's Show 3 2018] being performed on Littleton's Alpha                            | June 3, 2021       |
+| [Link](https://youtu.be/Tf7GVt-wdJA)                                                                | 'Song of Summer' from [Chuck E Cheese's Show 3 2021] being interrupted by 'Chuck E.'s Beach Party Bash' on Littleton's Alpha            | June 3, 2021       |
+| [Link](https://youtu.be/0GgHcUtYUhQ)                                                                | 'Song of Summer' from [Chuck E Cheese's Show 3 2021] being performed on Littleton's Alpha                                               | June 3, 2021       |
+| [Link](https://youtu.be/DZ0TMDANyXM)                                                                | 'Dog Days of Summer' from [Chuck E Cheese's Show 3 2021] being performed on Littleton's Alpha                                           | June 3, 2021       |
+| [Link](https://youtu.be/4A_wYd9Kvzg)                                                                | 'I Dare You Not To Laugh' from [Chuck E Cheese's Show 3 2021] being performed on Littleton's Alpha                                      | June 3, 2021       |
+| [Link](https://www.youtube.com/watch?v=cHEqpIy3AvI)                                                 | 'Let's Be Friends' from [Chuck E Cheese's Show 3 2021] being performed on Littleton's Alpha                                             | June 3, 2021       |
+| [Link](https://youtu.be/2yA7zTZGqyc)                                                                | 'Out of This World' from [Chuck E Cheese's Show 5 2016] being performed on Littleton's Alpha                                            | June 6, 2021       |
+| [Link](https://youtu.be/Da1BodQ-tMQ)                                                                | 'DJ Munch Mashup' from [Chuck E Cheese's Show 1 2021] being performed on Littleton's Alpha                                              | September 4, 2021  |
+| [Link](https://youtu.be/GXC3i8gdjaw)                                                                | 'Let's Have a Party' from [Chuck E Cheese's Show 1 2016] being performed on Littleton's Alpha                                           | September 4, 2021  |
+| [Link](https://youtu.be/s6zEe20lCgM)                                                                | 'The Tail of Jasper T.' from [Chuck E Cheese's Show 1 2019] being performed on Littleton's Alpha                                        | September 4, 2021  |
+| [Link](https://youtu.be/W8oIhedL3rI)                                                                | 'Ves Al Ratoncito' from [Chuck E Cheese's Show 2 2019] being performed on Littleton's Alpha                                             | September 4, 2021  |
+| [Link](https://youtu.be/-eAZEhEyYh4)                                                                | 'Merry Christmastime' from [Chuck E Cheese's Show 9 2016] being performed on Littleton's Alpha                                          | January 2, 2022    |
+| [Link](https://youtu.be/U7fLtt5wPU4)                                                                | 'Out of This World' from [Chuck E Cheese's Show 5 2016] being performed on Littleton's Alpha                                            | June 7, 2022       |
 
 ## Animatronics
 
 | Animatronic                                                                                           | Serial | Whereabouts                 |
 |-------------------------------------------------------------------------------------------------------|--------|-----------------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}                                            | 057    | Destroyed on July 14, 2022. |
-| {{< wiki-link "Bird (Animatronic)" >}}                                                          | N/A    | Destroyed on June 9, 2022.  |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}} {{< wiki-link "Bird (Animatronic)" >}} | N/A    | Destroyed.                  |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}} {{< wiki-link "Bird (Animatronic)" >}}      | N/A    | Destroyed.                  |
+| [Chuck E Cheese 32m (Animatronic)]                                            | 057    | Destroyed on July 14, 2022. |
+| [Bird (Animatronic)]                                                          | N/A    | Destroyed on June 9, 2022.  |
+| [Pizza Time Clock (Animatronic)] [Bird (Animatronic)] | N/A    | Destroyed.                  |
+| [Pizza Phone (Animatronic)] [Bird (Animatronic)]      | N/A    | Destroyed.                  |

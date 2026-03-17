@@ -1,6 +1,6 @@
-The ***Dr. Juke Test Tape* was an unreleased showtape testing the {{< wiki-link "Dr Juke" >}} show selector concept.
-The tape was the only of its kind using the {{< wiki-link "CEI LaserDisc" >}} format, where during the showtape segments the video contained PCM adaptor audio for the showtapes, and the LaserDisc audio tracks contained show control data.
-Similar to what would become {{< wiki-link "Studio C" >}} showtapes, programs outside the segments were placed on the disc, allowing software to control animated segments while a show was waiting to be selected.**
+The ***Dr. Juke Test Tape* was an unreleased showtape testing the [Dr Juke] show selector concept.
+The tape was the only of its kind using the [CEI LaserDisc] format, where during the showtape segments the video contained PCM adaptor audio for the showtapes, and the LaserDisc audio tracks contained show control data.
+Similar to what would become [Studio C] showtapes, programs outside the segments were placed on the disc, allowing software to control animated segments while a show was waiting to be selected.**
 
 ## Show List:
 

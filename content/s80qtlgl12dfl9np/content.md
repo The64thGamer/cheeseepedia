@@ -1,4 +1,4 @@
-Gulliver's Kingdom has a retrofitted {{< wiki-link "Rock-afire Explosion" >}} renamed to 'Hard Luck Bears' located in the The Liliput Land Theatre, the character positioning is the same to the original Rock-afire Explosion set-up except the characters themselves feature different clothing and all have replacement bear masks. The stage itself features the usual 3-stage design however with a large rectangular platform in front and 2 water fountains embedded within, the characters Antioch and Choo Choo are not on the main stage and are instead located on the rectangular stage in front, Looney Bird also used to be located under this stage(1) but was moved to Billy Bob's stage with the shows restoration. Billy Bob and Looney Bird's stage has the Antioch cloud as Antioch no longer needs it, Rolfe and Earl's stage has a platform behind the character with a rotating automation band made up of foxes and a frog created by Heimotion these automations used to be on all the time but are now connected to a flood light signal.(2) Rolfe's stage also features a modified version of the rainbow prop with a beehive and honey pot instead of pots of gold.
+Gulliver's Kingdom has a retrofitted [Rock-afire Explosion] renamed to 'Hard Luck Bears' located in the The Liliput Land Theatre, the character positioning is the same to the original Rock-afire Explosion set-up except the characters themselves feature different clothing and all have replacement bear masks. The stage itself features the usual 3-stage design however with a large rectangular platform in front and 2 water fountains embedded within, the characters Antioch and Choo Choo are not on the main stage and are instead located on the rectangular stage in front, Looney Bird also used to be located under this stage(1) but was moved to Billy Bob's stage with the shows restoration. Billy Bob and Looney Bird's stage has the Antioch cloud as Antioch no longer needs it, Rolfe and Earl's stage has a platform behind the character with a rotating automation band made up of foxes and a frog created by Heimotion these automations used to be on all the time but are now connected to a flood light signal.(2) Rolfe's stage also features a modified version of the rainbow prop with a beehive and honey pot instead of pots of gold.
 
 ## History
 
@@ -28,39 +28,39 @@ On 27 February 2022 Instagram user 'xan\_rock\_afire\_fan' announced that he wou
 
 ### Earl Schmerle
 
-{{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} is unchanged from his original Rock-afire Explosion design.
+[Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] is unchanged from his original Rock-afire Explosion design.
 
 ### Rolfe DeWolfe
 
-{{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} wears a new outfit featuring a plad shirt, and is using the bear mask of previous Creative Engineering character Repete Thornsberry.
+[Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] wears a new outfit featuring a plad shirt, and is using the bear mask of previous Creative Engineering character Repete Thornsberry.
 
 ### Dook Larue
 
-{{< wiki-link "Dook Larue (Animatronic)" >}} wears a new outfit featuring a red t-shirt with yellow spots and blue overalls, his arms are furred and he wears a propeller hat, his character mask is of previous Creative Engineering character Billy Boy. His drum set has the snare and kickdrum replaced with wooden prop drums.
+[Dook Larue (Animatronic)] wears a new outfit featuring a red t-shirt with yellow spots and blue overalls, his arms are furred and he wears a propeller hat, his character mask is of previous Creative Engineering character Billy Boy. His drum set has the snare and kickdrum replaced with wooden prop drums.
 
 ### Fatz Geronimo
 
-{{< wiki-link "Fatz Geronimo (Animatronic)" >}} wears a new outfit featuring a white shirt and a plad suit and bow tie, his hands and feet have been replaced with bear claws, his character mask is of previous Creative Engineering character Billy Bill. Fatz Tune Machine organ has a wooden covering with a custom logo.
+[Fatz Geronimo (Animatronic)] wears a new outfit featuring a white shirt and a plad suit and bow tie, his hands and feet have been replaced with bear claws, his character mask is of previous Creative Engineering character Billy Bill. Fatz Tune Machine organ has a wooden covering with a custom logo.
 
 ### Beach Bear
 
-{{< wiki-link "Beach Bear (Animatronic)" >}} remains mostly unchanged compared to his Rock-afire Explosion design, instead having plad shorts and using a lighter colored Billy Bob Guitar.
+[Beach Bear (Animatronic)] remains mostly unchanged compared to his Rock-afire Explosion design, instead having plad shorts and using a lighter colored Billy Bob Guitar.
 
 ### Mitzi Mozzarella
 
-{{< wiki-link "Mitzi Mozzarella (Animatronic)" >}} wears a new outfit featuring a patterned long sleeve shirt, a plad overall dress and a straw hat, her shoes are original to the Rock-AFire Explosion design but feature blue socks, her character mask is of previous Creative Engineering character Pete Thornsberry.
+[Mitzi Mozzarella (Animatronic)] wears a new outfit featuring a patterned long sleeve shirt, a plad overall dress and a straw hat, her shoes are original to the Rock-AFire Explosion design but feature blue socks, her character mask is of previous Creative Engineering character Pete Thornsberry.
 
 ### Billy Bob
 
-{{< wiki-link "Billy Bob (Animatronic)" >}} is unchanged from his original Rock-AFire Explosion design, he features his '1990's standard' character mask.
+[Billy Bob (Animatronic)] is unchanged from his original Rock-AFire Explosion design, he features his '1990's standard' character mask.
 
 ### Looney Bird
 
-{{< wiki-link "Looney Bird (Animatronic)" >}} is unchanged from his original Rock-AFire Explosion design, his plant has been replaced as the original has went missing.
+[Looney Bird (Animatronic)] is unchanged from his original Rock-AFire Explosion design, his plant has been replaced as the original has went missing.
 
 ### Prop Characters
 
-All prop characters are unchanged from the original Rock-AFire Explosion designs. ({{< wiki-link "Sun (Animatronic)" >}}, {{< wiki-link "Moon (Animatronic)" >}}, {{< wiki-link "Choo Choo (Animatronic)" >}}, Frog, Birthday Bird &amp; {{< wiki-link "Antioch (Animatronic)" >}}).
+All prop characters are unchanged from the original Rock-AFire Explosion designs. ([Sun (Animatronic)], [Moon (Animatronic)], [Choo Choo (Animatronic)], Frog, Birthday Bird &amp; [Antioch (Animatronic)]).
 
 ## Trivia
 

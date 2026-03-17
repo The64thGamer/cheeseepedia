@@ -12,11 +12,11 @@ citations = []
 latitudeLongitude = ["39.77167692","-85.99051978"]
 +++
 
-***10021 E Washington St, Store #714*** is a Chuck E. Cheese that opened in December 2011 (day unknown) with a Studio C Beta and closed on March 31st, 2025. It is the relocation of {{< wiki-link "Indianapolis, IN (8109 E Washington St)" >}} which originally opened on June 18, 1982, and closed in December 2011.
+***10021 E Washington St, Store #714*** is a Chuck E. Cheese that opened in December 2011 (day unknown) with a Studio C Beta and closed on March 31st, 2025. It is the relocation of [Indianapolis, IN (8109 E Washington St)] which originally opened on June 18, 1982, and closed in December 2011.
 
 ## History
 
-Indianapolis opened in December 2011 as the relocation of {{< wiki-link "Indianapolis, IN (8109 E Washington St)" >}}. It is located about 4 minutes away from the original location. It opened with the 2005 Remodel and the Studio C Beta, which it retained until closure.
+Indianapolis opened in December 2011 as the relocation of [Indianapolis, IN (8109 E Washington St)]. It is located about 4 minutes away from the original location. It opened with the 2005 Remodel and the Studio C Beta, which it retained until closure.
 
 ## Stages
 
@@ -24,14 +24,14 @@ The store opened with a Studio C Beta 16m stage in December 2011, which was late
 
 | Stage                                       | Installed     | Removed          | Notes                                  |
 |---------------------------------------------|---------------|------------------|----------------------------------------|
-| {{< wiki-link "Studio C Beta" >}} 16m | December 2011 | March 31st, 2025 | Last Animatronic Show in Indianapolis. |
+| [Studio C Beta] 16m | December 2011 | March 31st, 2025 | Last Animatronic Show in Indianapolis. |
 
 ## Animatronic
 
 | Character                                                   | Serial | Status                                                                                 |
 |-------------------------------------------------------------|--------|----------------------------------------------------------------------------------------|
-| {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}} | N/A    | Taken to {{< wiki-link "Showbiz Pizza Time Distribution Center (Topeka, KS)" >}} |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}    | N/A    | Unknown.                                                                               |
+| [Chuck E. Cheese 16m (Animatronic)] | N/A    | Taken to [Showbiz Pizza Time Distribution Center (Topeka, KS)] |
+| [Pizza Time Clock (Animatronic)]    | N/A    | Unknown.                                                                               |
 
 TODO
 

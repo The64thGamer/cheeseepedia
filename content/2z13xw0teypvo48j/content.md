@@ -71,12 +71,12 @@
 - ['Act 5' on Archive.org](https://archive.org/details/unlistedcec/Chuck+E.+Cheese%E2%80%99s+Holidays+%E2%80%93+Part+5+++Chuck+E.+Cheese%E2%80%99s.mp4)
 
 ## Trivia:
-- 'Let's Play Some Game For The Holidays' was previously used as a theme for commercials. A shortened version of the song was previously used as an intermission in the {{< wiki-link "December 2012 Show" >}} and {{< wiki-link "CEC Happy Holidays 2013" >}}.
-- 'Deck the Halls', 'Jolly Old Saint Nicholas',  and 'Toyland' all use their original footage from {{< wiki-link "Holiday 2002" >}} with their rerecorded instrumentals from the {{< wiki-link "December 2012 Show" >}}. The instrumental for 'Oh Christmas Tree' is paired with footage from a Chillout from the {{< wiki-link "December 2012 Show" >}}.
-- Show Break 2 and Show Break 6 are reused from the {{< wiki-link "December 2012 Show" >}}.
-- The Social Media Promos use the instrumentals of 'Big Band Santa' and 'Holiday Medley' from {{< wiki-link "Chuck E's Holiday Party 1999" >}}.
-- The Studio C SD copy of the show features 2 minutes and 41 seconds of {{< wiki-link "Chuck E.'s Magical Holiday Celebration" >}} Segment 2.
-- 'Share the Joy' is a remake of a song from the {{< wiki-link "CEC Xmas 1991 Show" >}}.
-- 'Snowboarding' is a recut of an intermission from the {{< wiki-link "January 2006 Show" >}} set to the instrumental of 'Jingle Bells' from {{< wiki-link "Holiday 2002" >}}.
+- 'Let's Play Some Game For The Holidays' was previously used as a theme for commercials. A shortened version of the song was previously used as an intermission in the [December 2012 Show] and [CEC Happy Holidays 2013].
+- 'Deck the Halls', 'Jolly Old Saint Nicholas',  and 'Toyland' all use their original footage from [Holiday 2002] with their rerecorded instrumentals from the [December 2012 Show]. The instrumental for 'Oh Christmas Tree' is paired with footage from a Chillout from the [December 2012 Show].
+- Show Break 2 and Show Break 6 are reused from the [December 2012 Show].
+- The Social Media Promos use the instrumentals of 'Big Band Santa' and 'Holiday Medley' from [Chuck E's Holiday Party 1999].
+- The Studio C SD copy of the show features 2 minutes and 41 seconds of [Chuck E.'s Magical Holiday Celebration] Segment 2.
+- 'Share the Joy' is a remake of a song from the [CEC Xmas 1991 Show].
+- 'Snowboarding' is a recut of an intermission from the [January 2006 Show] set to the instrumental of 'Jingle Bells' from [Holiday 2002].
 - Hidden at the end of the Studio C SD copy of the show is a bit tune version of 'Deck the Halls' with a picture of Matt Daniel and his dog.
 - This was the final show to feature newly recorded material with Larry The Technician, Betty, Hard Hat Hank, and Zoey. 

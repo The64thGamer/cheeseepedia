@@ -17,7 +17,7 @@ latitudeLongitude = ["40.75142972","-73.91557878"]
 
 ## History
 
-Long Island City would open on January 7, 2000 with a Studio C Alpha and Phase 3. In around 2006/2007, the store would receive the {{< wiki-link "CEC 2000's Remodel Program" >}}; keeping the store's exterior as is, In around 2016, the store would remodel once again; yet again, the store's exterior would remain untouched. The location would receive 2.0 in August 2023.
+Long Island City would open on January 7, 2000 with a Studio C Alpha and Phase 3. In around 2006/2007, the store would receive the [CEC 2000's Remodel Program]; keeping the store's exterior as is, In around 2016, the store would remodel once again; yet again, the store's exterior would remain untouched. The location would receive 2.0 in August 2023.
 
 ## Stages
 
@@ -25,8 +25,8 @@ When the store opened, they had a Studio C Alpha, like most other store opening 
 
 | Stage                                                                                             | Installed    | Removed      | Notes                                      |
 |---------------------------------------------------------------------------------------------------|--------------|--------------|--------------------------------------------|
-| {{< wiki-link "Studio C Alpha" >}}                                                          | January 2000 | August 2023  | One of two Studio C Alphas on Long Island. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | August 2023  | Still in Use |                                            |
+| [Studio C Alpha]                                                          | January 2000 | August 2023  | One of two Studio C Alphas on Long Island. |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | August 2023  | Still in Use |                                            |
 
 [2001](https://www.showbizpizza.com/photos/cec/ny_queens/index.html)
 

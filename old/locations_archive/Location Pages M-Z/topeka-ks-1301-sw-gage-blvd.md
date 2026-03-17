@@ -15,7 +15,7 @@ categories = ["ShowBiz Pizza Place"]
 
 ## Stage
 
-The Topeka ShowBiz Pizza was the 6th store to receive the in-development (Beta) variant of the {{< wiki-link "Classic Stage" >}} show. After the closure, the animatronics were sold off in an auction and later repurchased by Creative Engineering.
+The Topeka ShowBiz Pizza was the 6th store to receive the in-development (Beta) variant of the [Classic Stage] show. After the closure, the animatronics were sold off in an auction and later repurchased by Creative Engineering.
 
 ## History
 
@@ -48,14 +48,14 @@ Additional Machines identified in [Operation Promotion video](https://www.youtub
 
 | Animatronic                                                               | Serial Number | Whereabouts        |
 |---------------------------------------------------------------------------|---------------|--------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 7-80 1-6      | Unknown            |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 7-80 2-6      | Unknown            |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 7-80 3-6      | In Storage         |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 7-80 4-6      | Unknown            |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 7-80 5-6      | Owned by Sully.(7) |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 7-80 6-6      | Unknown            |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 7-80 7-6      | In Storage         |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 7-80 8-6      | Unknown            |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 7-80 10-6     | Unknown            |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 7-80 11-6     | Unknown            |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown            |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-80 1-6      | Unknown            |
+| [Dook Larue (Animatronic)]                        | 7-80 2-6      | Unknown            |
+| [Fatz Geronimo (Animatronic)]                     | 7-80 3-6      | In Storage         |
+| [Beach Bear (Animatronic)]                        | 7-80 4-6      | Unknown            |
+| [Mitzi Mozzarella (Animatronic)]                  | 7-80 5-6      | Owned by Sully.(7) |
+| [Billy Bob (Animatronic)]                         | 7-80 6-6      | Unknown            |
+| [Looney Bird (Animatronic)]                       | 7-80 7-6      | In Storage         |
+| [Choo Choo (Animatronic)]                         | 7-80 8-6      | Unknown            |
+| [Sun (Animatronic)]                               | 7-80 10-6     | Unknown            |
+| [Moon (Animatronic)]                              | 7-80 11-6     | Unknown            |
+| [Antioch (Animatronic)]                           | N/A           | Unknown            |

@@ -43,5 +43,5 @@
 ## Trivia:
 - This show was originally recorded with Duncan Brannan but was redubbed before release. 
 - This is the final show to use the 'Band Stage' setup for the Studio C puppets. This would also be the final show to use the 1999 Helen, Munch, and Pasqually puppets. 
-- Segment 4 has several references to previous shows. The band reads the script to {{< wiki-link "September '94" >}} Segment 1. At the end of the segment, Chuck E. says 'Don't Hurry To Worry' as a reference to the song from {{< wiki-link "Chuck E. Cheese's 20th Anniversary" >}}. He then tells the band to repeat 'Chuck E. Chose The Cheddar and Chews The Cheese He Chose', which originated in {{< wiki-link "January 1995" >}}. Finally, Pasqually mentions {{< wiki-link "Destination Imagination" >}}.
-- 'Ratings' is reused from {{< wiki-link "April 1999" >}}.
+- Segment 4 has several references to previous shows. The band reads the script to [September '94] Segment 1. At the end of the segment, Chuck E. says 'Don't Hurry To Worry' as a reference to the song from [Chuck E. Cheese's 20th Anniversary]. He then tells the band to repeat 'Chuck E. Chose The Cheddar and Chews The Cheese He Chose', which originated in [January 1995]. Finally, Pasqually mentions [Destination Imagination].
+- 'Ratings' is reused from [April 1999].

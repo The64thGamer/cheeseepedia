@@ -13,11 +13,11 @@ pageThumbnailFile = "O3Q6J2DJizh_HnOGlEt2.avif"
 latitudeLongitude = ["32.39561642","-90.13887153"]
 +++
 
-***6352 Ridgewood Court Rd, Store #3011*** is a *Chuck E. Cheese's* that opened in June of 2009 with a {{< wiki-link "Studio C Beta" >}}, and still open to this day with the 2.0 remodel. This is a franchised relocation from {{< wiki-link "Jackson, MS (5465 I-55)" >}} to Jackson, MS (6352 Ridgewood Court Rd).
+***6352 Ridgewood Court Rd, Store #3011*** is a *Chuck E. Cheese's* that opened in June of 2009 with a [Studio C Beta], and still open to this day with the 2.0 remodel. This is a franchised relocation from [Jackson, MS (5465 I-55)] to Jackson, MS (6352 Ridgewood Court Rd).
 
 ## Stages
 
-This location was the second to last Studio C Beta to be installed with a {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} and was also speculated to have the oldest Studio C Animatronic on a Studio C Beta. The Chuck E. Cheese Animatronic was installed incorrectly with many movements reversed or hooked up to the wrong valve, making the eyelids being stuck upwards and for the head to be stuck tilted for years. The Show itself was updated at some point from 2017 to 2020 to have LED lighting; at the same time, new fur arms, jeans, feet, and small miscellaneous repairs for the Chuck E. Animatronic.
+This location was the second to last Studio C Beta to be installed with a [Chuck E Cheese 32m (Animatronic)] and was also speculated to have the oldest Studio C Animatronic on a Studio C Beta. The Chuck E. Cheese Animatronic was installed incorrectly with many movements reversed or hooked up to the wrong valve, making the eyelids being stuck upwards and for the head to be stuck tilted for years. The Show itself was updated at some point from 2017 to 2020 to have LED lighting; at the same time, new fur arms, jeans, feet, and small miscellaneous repairs for the Chuck E. Animatronic.
 
 | Stage                    | Installed | Removed      |
 |--------------------------|-----------|--------------|
@@ -26,7 +26,7 @@ This location was the second to last Studio C Beta to be installed with a {{< wi
 
 ## History
 
-In June of 2009, the Melvin franchise permanently closed their {{< wiki-link "Jackson, MS (5465 I-55)" >}} location and had relocated most of the assets to the Ridgewood Court location.
+In June of 2009, the Melvin franchise permanently closed their [Jackson, MS (5465 I-55)] location and had relocated most of the assets to the Ridgewood Court location.
 
 ### Artwork
 
@@ -47,12 +47,12 @@ As of August 2024, Jackson remains like this with the 2.0 remodel
 ## Arcade Machines
 
 - Chuck E. Cheese's Photo Ride (1997)
-- {{< wiki-link "Chuck E Cheese's Super Shot" >}}
-- {{< wiki-link "Chuck E's Duckies" >}}
+- [Chuck E Cheese's Super Shot]
+- [Chuck E's Duckies]
 - CEC Street Hoops
 - Monster Truck
 - Tik Tak Clock
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 
 ## Videos
 
@@ -72,7 +72,7 @@ As of August 2024, Jackson remains like this with the 2.0 remodel
 
 | Animatronic                                                | Serial  | Whereabouts                  |
 |------------------------------------------------------------|---------|------------------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | Unknown | Unknown (probably destroyed) |
+| [Chuck E Cheese 32m (Animatronic)] | Unknown | Unknown (probably destroyed) |
 
 ## Trivia
 

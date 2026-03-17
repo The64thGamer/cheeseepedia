@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["28.07596107","-80.70603008"]
 +++
 
-***2250 Coastal Lane, Store #699*** is a {{< wiki-link "Chuck E Cheese's" >}} that opened on April 26, 2011 with the {{< wiki-link "Galaxy Stage" >}}, which is still open to this day. The Galaxy Stage is a test stage that was only installed in this location, and was the predecessor to the {{< wiki-link "Circles of Light" >}} stage.
+***2250 Coastal Lane, Store #699*** is a [Chuck E Cheese's] that opened on April 26, 2011 with the [Galaxy Stage], which is still open to this day. The Galaxy Stage is a test stage that was only installed in this location, and was the predecessor to the [Circles of Light] stage.
 
 ## History
 
@@ -20,13 +20,13 @@ West Melbourne opened on April 26th, 2011 as the location with the 2010 Update t
 
 ## Stages
 
-This location opened with the {{< wiki-link "Galaxy Stage" >}}, which was a test stage only installed in this location. On April 10, 2023, West Melbourne removed the one and only Galaxy Stage for a 2021 Model Dance Floor &amp; Video Wall during their 2.0 Remodel, marking it's extinction.
+This location opened with the [Galaxy Stage], which was a test stage only installed in this location. On April 10, 2023, West Melbourne removed the one and only Galaxy Stage for a 2021 Model Dance Floor &amp; Video Wall during their 2.0 Remodel, marking it's extinction.
 
 ## Animatronics
 
 | Animatronic                                                | Serial  | Whereabouts                                 |
 |------------------------------------------------------------|---------|---------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | Unknown | Unknown, Likely Destroyed or Used for Parts |
+| [Chuck E Cheese 16m (Animatronic)] | Unknown | Unknown, Likely Destroyed or Used for Parts |
 
 TODO
 

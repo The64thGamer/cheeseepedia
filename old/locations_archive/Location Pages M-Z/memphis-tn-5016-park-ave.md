@@ -10,7 +10,7 @@ citations = []
 latitudeLongitude = ["35.10643677","-89.89584803"]
 +++
 ***5016 Park Ave* was the first *Pizza Time Theater in Tennessee* that opened during August 1981 and closed during August 1984.
-Not to be confused with either the {{< wiki-link "Memphis, TN (3649 Hickory Hill Rd)" >}} location, which opened on August 24, 1982 as a *ShowBiz Pizza Place*, and closed on October 27, 2020 with a 3-Stage or the {{< wiki-link "Memphis, TN (3268 Austin Peay Hwy)" >}} location, which opened on August 7, 1983 as a franchised *ShowBiz Pizza Place,* and closed on April 1, 2013 with the 3-Stage.**
+Not to be confused with either the [Memphis, TN (3649 Hickory Hill Rd)] location, which opened on August 24, 1982 as a *ShowBiz Pizza Place*, and closed on October 27, 2020 with a 3-Stage or the [Memphis, TN (3268 Austin Peay Hwy)] location, which opened on August 7, 1983 as a franchised *ShowBiz Pizza Place,* and closed on April 1, 2013 with the 3-Stage.**
 
 ## History
 

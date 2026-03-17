@@ -20,9 +20,9 @@ Waukegan opened with a Balcony Stage. In 1989-1990, they received a C Stage. In 
 
 | Stage                                              | Installed  | Removed      | Notes                                                                                                     |
 |----------------------------------------------------|------------|--------------|-----------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | Early 1983 | 1989/1990    | One of many installed in Illinois.                                                                        |
-| {{< wiki-link "Chuck E's House Facade" >}}   | 1989/1990  | 1994         | One of three installed in Illinois.                                                                       |
-| {{< wiki-link "2-Stage" >}}                  | 1994       | January 1997 | One of five 2-Stages installed in Illinois. Show sent to Fairview Heights to be converted into a 1-Stage. |
+| [Cyberamics Balcony Stage] | Early 1983 | 1989/1990    | One of many installed in Illinois.                                                                        |
+| [Chuck E's House Facade]   | 1989/1990  | 1994         | One of three installed in Illinois.                                                                       |
+| [2-Stage]                  | 1994       | January 1997 | One of five 2-Stages installed in Illinois. Show sent to Fairview Heights to be converted into a 1-Stage. |
 
 ## History
 
@@ -35,14 +35,14 @@ After Waukegan closed in January 1997, their show was excluded from the auction.
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                           |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1982/1983          | Sent to Fairview Heights. Removed in 2019, owned by a collector.                      |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | 1982/1983          | Unknown.                                                                              |
+| [Guest Star Helen Henny (Cyberamic)] | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
+| [Mr Munch (Cyberamic)]               | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
+| [Jasper T Jowls (Cyberamic)]         | 1982/1983          | Sent to Fairview Heights. Removed in 2019, owned by a collector.                      |
+| [Pasqually (Cyberamic)]              | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
+| [Warblettes (Cyberamic)]             | 1982/1983          | Unknown.                                                                              |
 | Waving Flags (Cyberamic)                                     | 1982/1983          | Unknown.                                                                              |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | 1982/1983          | Unknown.                                                                              |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | 1982/1983          | Unknown.                                                                              |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | 1989/1990          | Unknown.                                                                              |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | 1982/1983          | Unknown.                                                                              |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1994               | Unknown.                                                                              |
+| [Applause Board (Cyberamic)]         | 1982/1983          | Unknown.                                                                              |
+| [Drum Board (Cyberamic)]             | 1982/1983          | Unknown.                                                                              |
+| [Singing Flowers (Cyberamic)]        | 1989/1990          | Unknown.                                                                              |
+| [The King King Kat (Lounge)]         | 1982/1983          | Unknown.                                                                              |
+| [Wink (Cyberamic)]                   | 1994               | Unknown.                                                                              |

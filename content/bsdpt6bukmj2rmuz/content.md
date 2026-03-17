@@ -1,4 +1,4 @@
-The ***Artie Antlers {{< wiki-link "Cyberamics" >}}*** were a set of retrofitted animatronics created by {{< wiki-link "Pizza Time Theatre" >}} in the early 80's for the Cabaret. This animatronic first premiered at the {{< wiki-link "Sacramento , CA (7020 Stockton Blvd)" >}} in 1980. He was the second cabaret act that {{< wiki-link "Pizza Time Theatre" >}} introduced, replacing {{< wiki-link "Dolli Dimples (Cabaret)" >}}.
+The ***Artie Antlers [Cyberamics]*** were a set of retrofitted animatronics created by [Pizza Time Theatre] in the early 80's for the Cabaret. This animatronic first premiered at the [Sacramento , CA (7020 Stockton Blvd)] in 1980. He was the second cabaret act that [Pizza Time Theatre] introduced, replacing [Dolli Dimples (Cabaret)].
 
 ## Movements
 

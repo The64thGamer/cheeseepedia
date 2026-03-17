@@ -1,5 +1,5 @@
 ***Chuck E. Cheese Springfield Grand Re-Opening Show*** is the showtape released on July 26, 2024, to play exclusively for Springfield Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
-This show features no intermissions and would play six segments on repeat from around 5:00-7:00pm. After the event it would play {{< wiki-link "Chuck E. Cheese Evergreen Show 2024 (July Update) 3-Stage Legacy" >}} from 7:00pm-closing.
+This show features no intermissions and would play six segments on repeat from around 5:00-7:00pm. After the event it would play [Chuck E. Cheese Evergreen Show 2024 (July Update) 3-Stage Legacy] from 7:00pm-closing.
 
 ## Show List
 

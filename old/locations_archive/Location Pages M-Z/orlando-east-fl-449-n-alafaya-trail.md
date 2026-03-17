@@ -13,7 +13,7 @@ pageThumbnailFile = "xKDRFNTEnvDH2UceoMOD.avif"
 latitudeLongitude = ["28.55233967","-81.20382928"]
 +++
 
-***Orlando (East), FL (449 N Alafaya Trail)*** also known as ***East Orlando*,** is a Chuck E. Cheese that opened on June 21, 2000 with a Studio C (1997)|Studio C Alpha, and is still operating to this day. This location received the 2.0 remodel in April 2023, receiving a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and a {{< wiki-link "Video Wall" >}}. This location is not to be confused with the {{< wiki-link "Orlando, FL (7456 West Colonial Dr)" >}} location, which opened on November 12, 1998 and is still open with the 2.0 remodel, or the {{< wiki-link "Orlando, FL (7419 International Dr)" >}} location, which opened on July 22, 1981 as a ShowBiz Pizza Place, received Concept Unification between 1991 and 1992, and is still open, also with 2.0.
+***Orlando (East), FL (449 N Alafaya Trail)*** also known as ***East Orlando*,** is a Chuck E. Cheese that opened on June 21, 2000 with a Studio C (1997)|Studio C Alpha, and is still operating to this day. This location received the 2.0 remodel in April 2023, receiving a [Chuck E Live Stage (Dance Floor)] and a [Video Wall]. This location is not to be confused with the [Orlando, FL (7456 West Colonial Dr)] location, which opened on November 12, 1998 and is still open with the 2.0 remodel, or the [Orlando, FL (7419 International Dr)] location, which opened on July 22, 1981 as a ShowBiz Pizza Place, received Concept Unification between 1991 and 1992, and is still open, also with 2.0.
 
 ## History
 

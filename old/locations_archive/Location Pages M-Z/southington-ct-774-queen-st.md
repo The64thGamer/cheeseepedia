@@ -16,22 +16,22 @@ latitudeLongitude = ["41.63422572","-72.87626833"]
 
 ## Stages
 
-Southington opened with a {{< wiki-link "Cyberamics Balcony Stage" >}} which remained until closure. The animatronics were either destroyed, Sent to another location or placed in storage.
+Southington opened with a [Cyberamics Balcony Stage] which remained until closure. The animatronics were either destroyed, Sent to another location or placed in storage.
 
 |                                                    |           |         |
 |----------------------------------------------------|-----------|---------|
 | Stage                                              | Installed | Removed |
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | July 1983 | 1985    |
+| [Cyberamics Balcony Stage] | July 1983 | 1985    |
 
 ## Animatronics
 
 | Animatronics                                                 | Manufacturing Date | Status  |
 |--------------------------------------------------------------|--------------------|---------|
 | Chuck E Cheese (Cyberamic)                                   | Unknown            | Unknown |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Unknown |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown |
 
 Category:Stage

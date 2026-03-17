@@ -1,5 +1,5 @@
 ***Uncle Santa Showtape*** is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in November 1983.
-It would be used for the {{< wiki-link "Santa On Stage Show 1983 (Event)">}}.
+It would be used for the [Santa On Stage Show 1983 (Event)].
 
 ## Segment List
 

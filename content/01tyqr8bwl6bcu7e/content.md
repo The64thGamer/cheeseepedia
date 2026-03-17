@@ -1,4 +1,4 @@
-This {{< wiki-link "Family Vision" >}} tape has no official number, but it played in November 1987 as part of a collection of monthly Family Vision Betamax tapes released to *ShowBiz Pizza Place* stores starting in 1984.
+This [Family Vision] tape has no official number, but it played in November 1987 as part of a collection of monthly Family Vision Betamax tapes released to *ShowBiz Pizza Place* stores starting in 1984.
 
 ## Video List
 

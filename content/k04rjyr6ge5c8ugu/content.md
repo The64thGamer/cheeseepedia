@@ -85,12 +85,12 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 ## Trivia
 
-- Three intermissions were originally planned to be on this show, but were scrapped. The first was 'Hockey', which featured hockey footage with the instrumental of 'Dreamin'' from {{< wiki-link "Chuck E. Cheese April 2004 Show" >}}. The second was a Coke Spot reused from {{< wiki-link "September 2004" >}}. The third was 'Eliot Moose', another Funimation cartoon. These intermissions still appear on the Studio C DVD, though they are skipped by the floppy.
-- 'Mailman' is a remake of a song from the {{< wiki-link "Working For A Living" >}}. Robert Gotcher appears in the video, reprising his role as the mailman from the original.
-- Eddie Coker's 'I Believe' is reused from {{< wiki-link "September 2001 Show" >}}. Countdown 2 and 3 are reused from {{< wiki-link "September 2004" >}}.
-- The Studio C puppets return to their regular backgrounds for this show, but the diagonal line is replaced with a cloud-like design similar to the {{< wiki-link "Just for Kids Show 2000" >}}.
-- The Studio C puppets appear on-screen only during the dialogue portions, and when one of the other characters has a solo just like in {{< wiki-link "August 1999" >}}. 
-- 'Football' reuses music from 'Closing Time?' from {{< wiki-link "September 2000 Show" >}}.
+- Three intermissions were originally planned to be on this show, but were scrapped. The first was 'Hockey', which featured hockey footage with the instrumental of 'Dreamin'' from [Chuck E. Cheese April 2004 Show]. The second was a Coke Spot reused from [September 2004]. The third was 'Eliot Moose', another Funimation cartoon. These intermissions still appear on the Studio C DVD, though they are skipped by the floppy.
+- 'Mailman' is a remake of a song from the [Working For A Living]. Robert Gotcher appears in the video, reprising his role as the mailman from the original.
+- Eddie Coker's 'I Believe' is reused from [September 2001 Show]. Countdown 2 and 3 are reused from [September 2004].
+- The Studio C puppets return to their regular backgrounds for this show, but the diagonal line is replaced with a cloud-like design similar to the [Just for Kids Show 2000].
+- The Studio C puppets appear on-screen only during the dialogue portions, and when one of the other characters has a solo just like in [August 1999]. 
+- 'Football' reuses music from 'Closing Time?' from [September 2000 Show].
 - The Winter 1-derland Spot is programmed on all versions of the show.
 - Chuck E.'s curtains close during 'Blue Suede Shoes' on all versions of the show.
 - ‘Chuck E. Shuffle’ and ‘Go Santa Go’ both appear on the Studio C DVDs, but could not be played.

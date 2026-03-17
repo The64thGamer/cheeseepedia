@@ -16,7 +16,7 @@ latitudeLongitude = ["40.84324692","-73.27908548"]
 
 ## Stages
 
-This location opened with a {{< wiki-link "1-Stage" >}} show, which featured a turntable for Chuck E. In 2005, the showroom was relocated from the back left-hand corner of the restaurant to the right-hand side of the restaurant which can be seen upon entry. In the process, the existing stage was replaced with a {{< wiki-link "Studio C Cappa" >}}.
+This location opened with a [1-Stage] show, which featured a turntable for Chuck E. In 2005, the showroom was relocated from the back left-hand corner of the restaurant to the right-hand side of the restaurant which can be seen upon entry. In the process, the existing stage was replaced with a [Studio C Cappa].
 
 ## History
 
@@ -34,8 +34,8 @@ The location's first major known renovation was in 2005, when the showroom was s
 | Animatronic                                                  | Serial  | Whereabouts |
 |--------------------------------------------------------------|---------|-------------|
 | Chuck E Cheese (Cyberamic)                                   | Unknown | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown | Unknown     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown | Unknown     |
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   | N/A     | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown | Unknown     |
+| [Chuck E Cheese 16m (Animatronic)]   | N/A     | Unknown     |

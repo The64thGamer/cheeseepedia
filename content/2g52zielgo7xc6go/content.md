@@ -7,7 +7,7 @@ The 1996 set introduced putting wires and cardboard pieces into the plush's legs
 
 ### Prototypes
 
-A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} with some differences in design. For example, the size of his eyes is different and have slight differences in printing.
+A prototype of this plush exists in the 1997-1998 Merch Catalog[1] with some differences in design. For example, the size of his eyes is different and have slight differences in printing.
 
 #### Prototype Gallery
 
@@ -15,10 +15,10 @@ A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} wi
 
 This plush was released in a set containing other characters and sizes:
 
-- {{< wiki-link "Large Chuck E Plush (1996)" >}}
-- {{< wiki-link "Large Helen Plush (1996)" >}}
-- {{< wiki-link "Large Jasper Plush (1996)" >}}
-- {{< wiki-link "Large Pasqually Plush (1996)" >}}
+- [Large Chuck E Plush (1996)]
+- [Large Helen Plush (1996)]
+- [Large Jasper Plush (1996)]
+- [Large Pasqually Plush (1996)]
 
 ## Design
 
@@ -27,5 +27,5 @@ Its tag reads as **'Chuck E. Cheese's** © 1996 ShowBiz Pizza Time, Inc. Made in
 
 ### Differences Between Smaller Sizes
 
-There aren't many differences between this plush and it's {{< wiki-link "Small Munch Plush (1996)" >}} except for the glaring difference in the size of the plastic eyes. The eyes are significantly better looking on this plush compared to its smaller size. Also, the build of the plush is noticeably different between the two.
-Comparing it to the plush's {{< wiki-link "Large Munch Plush (1996)" >}}, on the other hand, is much harder. They're very close in design. It really all comes down to the build of the plush. The 20' plush has more prominent shoulders, and its left hand on its belly instead of its waist.
+There aren't many differences between this plush and it's [Small Munch Plush (1996)] except for the glaring difference in the size of the plastic eyes. The eyes are significantly better looking on this plush compared to its smaller size. Also, the build of the plush is noticeably different between the two.
+Comparing it to the plush's [Large Munch Plush (1996)], on the other hand, is much harder. They're very close in design. It really all comes down to the build of the plush. The 20' plush has more prominent shoulders, and its left hand on its belly instead of its waist.

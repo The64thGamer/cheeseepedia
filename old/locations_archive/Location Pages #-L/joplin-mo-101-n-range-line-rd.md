@@ -13,7 +13,7 @@ pageThumbnailFile = "FGAAYS4fZFjMXb27tAbp.avif"
 latitudeLongitude = ["37.08941252","-94.47575213"]
 +++
 
-***Joplin, MO (101 N Rangeline Rd), Store #749*** was a Chuck E. Cheese’s that opened on July 22, 2003 and closed on March 30, 2024 after nearly 21 years of operation. It was known for having the first {{< wiki-link "Studio C Cappa" >}}
+***Joplin, MO (101 N Rangeline Rd), Store #749*** was a Chuck E. Cheese’s that opened on July 22, 2003 and closed on March 30, 2024 after nearly 21 years of operation. It was known for having the first [Studio C Cappa]
 
 ## Stages
 
@@ -21,7 +21,7 @@ Joplin opened with a Studio C Cappa, the first ever. They never recieved 2.0.
 
 | Stage                                    | Installed | Removed    |
 |------------------------------------------|-----------|------------|
-| {{< wiki-link "Studio C Cappa" >}} | 2003      | April 2024 |
+| [Studio C Cappa] | 2003      | April 2024 |
 
 ## History
 
@@ -31,4 +31,4 @@ Joplin opened in 2003. It is not known how the 2011 Joplin Tornado affected the 
 
 | Animatronic                                                | **Serial / Manufacturing Date** | Whereabouts       |
 |------------------------------------------------------------|---------------------------------|-------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A                             | Unknown/Destroyed |
+| [Chuck E Cheese 16m (Animatronic)] | N/A                             | Unknown/Destroyed |

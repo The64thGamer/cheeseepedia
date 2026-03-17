@@ -7,20 +7,20 @@ The ***Jingle Bell Jamboree*** (Stylized as JINGLEBELL JAMBOREE) was an Animatro
 ### Production
 
 
-The Show originally began production in 1977 as 'The Santa Claus Revue'{{< cite 1 >}} by Creative Engineering. The Concept Art showcased Left stage with Rudolph, Center Stage with the 3 Elves, Right Stage with Santa, and Elfis and Ms Claus on the Side Walls. The Show was created for Santa's Village unlike previous CEI Animatronics & Attractions.
+The Show originally began production in 1977 as 'The Santa Claus Revue'[1] by Creative Engineering. The Concept Art showcased Left stage with Rudolph, Center Stage with the 3 Elves, Right Stage with Santa, and Elfis and Ms Claus on the Side Walls. The Show was created for Santa's Village unlike previous CEI Animatronics & Attractions.
 
 
 ### Creative Engineering
 
 
-Jingle Bell Jamboree was installed at an unknown time in 1977 in Santa's Village's Jingle Bell Theater{{< cite 2 >}}. The Show differed from Concept Art, scrapping Ms Claus and having Elfis be in the Center of Center Stage after Rudolph's Segment using a Trap Door. The Show also installed 3 small Animal Animatronics. The Show was originally installed with Three 8-Track Reels, but CEI later took a private flight to Santa's Village in 1979 to install a new CEI 4-Track Reel Showtape as a sign of appreciation{{< cite 2 >}}.
-The Show eventually began to break down, and began removal in 2006{{< cite 3 >}}.
+Jingle Bell Jamboree was installed at an unknown time in 1977 in Santa's Village's Jingle Bell Theater[2]. The Show differed from Concept Art, scrapping Ms Claus and having Elfis be in the Center of Center Stage after Rudolph's Segment using a Trap Door. The Show also installed 3 small Animal Animatronics. The Show was originally installed with Three 8-Track Reels, but CEI later took a private flight to Santa's Village in 1979 to install a new CEI 4-Track Reel Showtape as a sign of appreciation[2].
+The Show eventually began to break down, and began removal in 2006[3].
 
 
 ### Advanced Animations
 
 
-Santa's Village would get Advanced Animation's to redo the Show alongside the Outside Rudolph Head which was also originally developed by Creative Engineering, Creating Concept art and Building the Animatronics between 2009-2010. In 2009, The Show was retrofitted into a Half Animatronic Half Live show called the 'Jingle Bell Talent Show'{{< cite 4 >}}. The Talent Show only Used Rudolph and Elfin John's animatronic retrofitted into an unknown Elf character.
+Santa's Village would get Advanced Animation's to redo the Show alongside the Outside Rudolph Head which was also originally developed by Creative Engineering, Creating Concept art and Building the Animatronics between 2009-2010. In 2009, The Show was retrofitted into a Half Animatronic Half Live show called the 'Jingle Bell Talent Show'[4]. The Talent Show only Used Rudolph and Elfin John's animatronic retrofitted into an unknown Elf character.
 
 
 The Show was finished and installed in 2010, using the original showtape. The Show removed the 3 Smaller Animals, and later removed the Red backdrop on the Top Art. The Show continued to run until 2016, in which it was removed.

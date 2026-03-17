@@ -12,15 +12,15 @@ citations = ["<a href=\"https://archive.org/details/the-pizza-times-newsletters/
 latitudeLongitude = ["37.49355032","-122.2312132"]
 +++
 
-***Redwood City, CA (380 Convention Way) (***also known as ***San Mateo***) was a two-story {{< wiki-link "Pizza Time Theatre" >}} location that opened in August of 1981, and closed in February of 1986(1)https://www.newspapers.com/clip/32795765/redwood-city-auction/ This is not to be confused with the {{< wiki-link "Redwood City, CA (2541-43 El Camino Real)" >}} which opened on December 28th, 1999, with a Studio C (1997)|Studio C Alpha. As of April 2023, that location is still operational.
+***Redwood City, CA (380 Convention Way) (***also known as ***San Mateo***) was a two-story [Pizza Time Theatre] location that opened in August of 1981, and closed in February of 1986(1)https://www.newspapers.com/clip/32795765/redwood-city-auction/ This is not to be confused with the [Redwood City, CA (2541-43 El Camino Real)] which opened on December 28th, 1999, with a Studio C (1997)|Studio C Alpha. As of April 2023, that location is still operational.
 
 ## Stages
 
-The store would open with {{< wiki-link "Cyberamics" >}} on the Balcony Stage. {{< wiki-link "Dolli Dimples (Cabaret)" >}} is also confirmed to have been at the location.https://forums.arcade-museum.com/threads/mid-1980s-chuck-e-cheese-pizza-time-theater-animatronics.356457/
+The store would open with [Cyberamics] on the Balcony Stage. [Dolli Dimples (Cabaret)] is also confirmed to have been at the location.https://forums.arcade-museum.com/threads/mid-1980s-chuck-e-cheese-pizza-time-theater-animatronics.356457/
 
 ## History
 
-RSKT, Inc., franchisee of the {{< wiki-link "Sunnyvale, CA (1247 W El Camino Real)" >}} and Milpitas, CA (346 S Abel St) locations would open Redwood City as their third franchise in August of 1981.(2) In Summer of 1982, the location's CEC Mascot would present with Donna Clark, Miss Redwood City of 1982, a proclamation of 'Chuck E. Cheese Day' for the city of Redwood on an uncited day.(3)
+RSKT, Inc., franchisee of the [Sunnyvale, CA (1247 W El Camino Real)] and Milpitas, CA (346 S Abel St) locations would open Redwood City as their third franchise in August of 1981.(2) In Summer of 1982, the location's CEC Mascot would present with Donna Clark, Miss Redwood City of 1982, a proclamation of 'Chuck E. Cheese Day' for the city of Redwood on an uncited day.(3)
 
 ### Angel Island Run
 
@@ -42,11 +42,11 @@ The location would hold a closing auction on February 8, 1986, at 10AM.(0) The a
 | Animatronic                                                  | Manufacturing Date | Whereabouts                 |
 |--------------------------------------------------------------|--------------------|-----------------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981               | Owned by 80's Girl /Kobun37 |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1981               | Owned by Damon E. Breland   |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1981               | Owned by Damon E. Breland   |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1981               | Owned by Damon E. Breland   |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1981               | Owned by Damon E. Breland   |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | 1981               | Owned by Damon E. Breland   |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | 1981               | Owned by Damon E. Breland   |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | 1981               | Unknown                     |
-| {{< wiki-link "Dolli Dimples (Cabaret)" >}}            | 1981               | Unknown                     |
+| [Guest Star Helen Henny (Cyberamic)] | 1981               | Owned by Damon E. Breland   |
+| [Mr Munch (Cyberamic)]               | 1981               | Owned by Damon E. Breland   |
+| [Jasper T Jowls (Cyberamic)]         | 1981               | Owned by Damon E. Breland   |
+| [Pasqually (Cyberamic)]              | 1981               | Owned by Damon E. Breland   |
+| [Drum Board (Cyberamic)]             | 1981               | Owned by Damon E. Breland   |
+| [Applause Board (Cyberamic)]         | 1981               | Owned by Damon E. Breland   |
+| [Warblettes (Cyberamic)]             | 1981               | Unknown                     |
+| [Dolli Dimples (Cabaret)]            | 1981               | Unknown                     |

@@ -25,26 +25,26 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 | Stage                                                                                             | Installed     | Removed       | Notes                                                                                           |
 |---------------------------------------------------------------------------------------------------|---------------|---------------|-------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                                                           | February 1981 | 1991          | 10th ShowBiz Pizza Store, 1st to open in Louisiana.                                             |
-| {{< wiki-link "Concept Unification Stage" >}}                                               | 1991          | March 7, 2023 | One of 5 ShowBiz stores in Louisiana to undergo Concept Unification. Last 3-Stage in Louisiana. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | March 7, 2023 | Still In Use. | 2021 Model.                                                                                     |
+| [Classic Stage]                                                           | February 1981 | 1991          | 10th ShowBiz Pizza Store, 1st to open in Louisiana.                                             |
+| [Concept Unification Stage]                                               | 1991          | March 7, 2023 | One of 5 ShowBiz stores in Louisiana to undergo Concept Unification. Last 3-Stage in Louisiana. |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | March 7, 2023 | Still In Use. | 2021 Model.                                                                                     |
 
 ## Animatronics
 
 | Animatronic                                                               | Serial Number | Whereabouts                  |
 |---------------------------------------------------------------------------|---------------|------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 10-80 1-4     | Owned by a private collector |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 10-80 2-4     | Unknown/Destroyed            |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 10-80 3-4     | Unknown/Destroyed            |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 10-80 4-4     | Unknown/Destroyed            |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 10-80 5-4     | Unknown/Destroyed            |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 10-80 6-4     | Unknown/Destroyed            |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 10-80 7-4     | Unknown/Destroyed            |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 10-80 8-4     | Unknown/Destroyed            |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 10-80 10-4    | Unknown/Destroyed            |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 10-80 11-4    | Unknown/Destroyed            |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown/Destroyed            |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Owned by a private collector |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-80 1-4     | Owned by a private collector |
+| [Dook Larue (Animatronic)]                        | 10-80 2-4     | Unknown/Destroyed            |
+| [Fatz Geronimo (Animatronic)]                     | 10-80 3-4     | Unknown/Destroyed            |
+| [Beach Bear (Animatronic)]                        | 10-80 4-4     | Unknown/Destroyed            |
+| [Mitzi Mozzarella (Animatronic)]                  | 10-80 5-4     | Unknown/Destroyed            |
+| [Billy Bob (Animatronic)]                         | 10-80 6-4     | Unknown/Destroyed            |
+| [Looney Bird (Animatronic)]                       | 10-80 7-4     | Unknown/Destroyed            |
+| [Choo Choo (Animatronic)]                         | 10-80 8-4     | Unknown/Destroyed            |
+| [Sun (Animatronic)]                               | 10-80 10-4    | Unknown/Destroyed            |
+| [Moon (Animatronic)]                              | 10-80 11-4    | Unknown/Destroyed            |
+| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed            |
+| [Wink]                                            | N/A           | Owned by a private collector |
 
 ## Videos
 

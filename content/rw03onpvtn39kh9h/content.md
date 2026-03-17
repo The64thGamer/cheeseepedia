@@ -1,4 +1,4 @@
-The 94-95 Rock-afire Explosion Demo Tape Showtape were a collection of {{< wiki-link "New Rock-afire Explosion" >}} segments created for use in the {{< wiki-link "94-95 Rock-afire Explosion Demo Tape" >}} in 1994. These were never used outside the filming of the promo footage, and consist of about 4 minutes of dialogue that is programmed.
+The 94-95 Rock-afire Explosion Demo Tape Showtape were a collection of [New Rock-afire Explosion] segments created for use in the [94-95 Rock-afire Explosion Demo Tape] in 1994. These were never used outside the filming of the promo footage, and consist of about 4 minutes of dialogue that is programmed.
 
 ## Show List
 

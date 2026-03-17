@@ -2,7 +2,7 @@ The **Mr. Munch Cyberamic** is an animatronic figure created by Pizza Time Theat
 
 ## History
 
-This animatronic first premiered at the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} in 1979. The only changes to his look over the years were the addition of a baseball hat that read 'Munch' as well as legs and shoes.
+This animatronic first premiered at the [Concord, CA (1975 Diamond Blvd)] in 1979. The only changes to his look over the years were the addition of a baseball hat that read 'Munch' as well as legs and shoes.
 
 ## Movements
 
@@ -18,7 +18,7 @@ The bot features 8-9 movements in total.
 | Head Turn Left                                                     |
 | Left Arm                                                           |
 | Right Arm                                                          |
-| Door (Used in {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}) |
+| Door (Used in [Cyberamics Portrait Shelf Stage]) |
 
 ## Stages Used In
 

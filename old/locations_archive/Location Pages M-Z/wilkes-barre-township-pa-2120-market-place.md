@@ -27,7 +27,7 @@ Wilkes-Barre opened on April 21st, 2004 in the Wilkes-Barre Township Marketplace
 
 | Animatronic                                                | Manufacturing Date | Serial Number | Whereabouts                                           |
 |------------------------------------------------------------|--------------------|---------------|-------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | 2004               | N/A           | Destroyed. Some remains owned by a private collecter. |
+| [Chuck E Cheese 16m (Animatronic)] | 2004               | N/A           | Destroyed. Some remains owned by a private collecter. |
 
 ## Videos
 

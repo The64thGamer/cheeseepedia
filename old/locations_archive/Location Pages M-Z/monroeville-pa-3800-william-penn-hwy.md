@@ -13,7 +13,7 @@ pageThumbnailFile = "IEZIO3ULER4Gg3vigT45.avif"
 latitudeLongitude = ["40.43457092","-79.78490843"]
 +++
 
-***3800 William Penn Hwy, Store #537*** was a Chuck E. Cheese that opened in March 1993 (day not found) with a 2-Stage, and closed on March 30, 2024.(1) It should not be confused with the {{< wiki-link "Monroeville, PA (3813 William Penn Hwy)" >}} which was just across the street and opened in the Holiday Center Shopping Mall opened 11 years prior in March 1982 with a Balcony Stage and relocated to this store in March 1993 with Chuck E.'s House Facade and was also the first CEC to open in Pennsylvania.
+***3800 William Penn Hwy, Store #537*** was a Chuck E. Cheese that opened in March 1993 (day not found) with a 2-Stage, and closed on March 30, 2024.(1) It should not be confused with the [Monroeville, PA (3813 William Penn Hwy)] which was just across the street and opened in the Holiday Center Shopping Mall opened 11 years prior in March 1982 with a Balcony Stage and relocated to this store in March 1993 with Chuck E.'s House Facade and was also the first CEC to open in Pennsylvania.
 
 ## History
 
@@ -25,19 +25,19 @@ Originally, when the store opened in March 1993, they had a 2-Stage like every o
 
 | Stage                                                      | Installed  | Removed     | Notes                                          |
 |------------------------------------------------------------|------------|-------------|------------------------------------------------|
-| {{< wiki-link "2-Stage" >}}                          | March 1993 | August 2018 | One of 7/8 2-Stages installed in Pennsylvania. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | July 2018  | March 2024  | 2017 Model. First 2.0 in Pennsylvania.         |
+| [2-Stage]                          | March 1993 | August 2018 | One of 7/8 2-Stages installed in Pennsylvania. |
+| [Chuck E Live Stage (Dance Floor)] | July 2018  | March 2024  | 2017 Model. First 2.0 in Pennsylvania.         |
 
 ## Animatronics
 
 | Character                                                    | Manufacturer Date | Status     |
 |--------------------------------------------------------------|-------------------|------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1992/1993         | Destroyed. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1992/1993         | Destroyed. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1992/1993         | Destroyed. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1992/1993         | Destroyed. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1992/1993         | Destroyed. |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1992/1993         | Destroyed. |
+| [Guest Star Helen Henny (Cyberamic)] | 1992/1993         | Destroyed. |
+| [Mr Munch (Cyberamic)]               | 1992/1993         | Destroyed. |
+| [Jasper T Jowls (Cyberamic)]         | 1992/1993         | Destroyed. |
+| [Pasqually (Cyberamic)]              | 1992/1993         | Destroyed. |
+| [Wink (Cyberamic)]                   | 1992/1993         | Destroyed. |
 
 ## Videos
 

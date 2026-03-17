@@ -6,7 +6,7 @@ The magic stage was installed in November of 1985 at only one location- most lik
 
 ### Austin, TX (8038 Burnet Rd)
 
-Sometime later, the {{< wiki-link "Austin, TX (8038 Burnet Rd)" >}} ShowBiz Pizza Place would obtain the magic stage cosmetics. The stage was outfitted with each character costume and the valance (minus the 'MAGIC' lettering) until Concept Unification.
+Sometime later, the [Austin, TX (8038 Burnet Rd)] ShowBiz Pizza Place would obtain the magic stage cosmetics. The stage was outfitted with each character costume and the valance (minus the 'MAGIC' lettering) until Concept Unification.
 
 ## Design
 

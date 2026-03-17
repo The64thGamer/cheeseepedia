@@ -1,8 +1,8 @@
-The ***Winchester Crusty Nameplate* was only used at the first Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} located in the Town & Country Shopping Center in San Jose, California; placed under the {{< wiki-link "Winchester Crusty the Cat V1 (Animatronic)" >}} for the purpose of identifying it from 1977 to 1980.**
+The ***Winchester Crusty Nameplate* was only used at the first Chuck E. Cheese's Pizza Time Theatre on [San Jose, CA (370 S Winchester Blvd)] located in the Town & Country Shopping Center in San Jose, California; placed under the [Winchester Crusty the Cat V1 (Animatronic)] for the purpose of identifying it from 1977 to 1980.**
 
 ## Production
 
-Although barely any info about the production of the Winchester nameplates have surfaced, we can speculate that it was produced shortly after opening, as no nameplates are present in some earlier photographs. Production was most likely carried out by the Fantasy Forest Manufacturing Company and was probably shipped with {{< wiki-link "Winchester Helen Henny (Animatronic)" >}} along with the several other Winchester nameplates, those being Chuck E. Cheese, Jasper T. Jowls, Warblettes, and Helen Hennys nameplates respectively. If production was not carried out by Harold Guldbrandsen's Fantasy Forest Manufacturing Company, it was either produced at Atari or in-house by an employee.
+Although barely any info about the production of the Winchester nameplates have surfaced, we can speculate that it was produced shortly after opening, as no nameplates are present in some earlier photographs. Production was most likely carried out by the Fantasy Forest Manufacturing Company and was probably shipped with [Winchester Helen Henny (Animatronic)] along with the several other Winchester nameplates, those being Chuck E. Cheese, Jasper T. Jowls, Warblettes, and Helen Hennys nameplates respectively. If production was not carried out by Harold Guldbrandsen's Fantasy Forest Manufacturing Company, it was either produced at Atari or in-house by an employee.
 
 ## Usage
 

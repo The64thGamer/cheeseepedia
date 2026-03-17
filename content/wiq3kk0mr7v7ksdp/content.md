@@ -1,4 +1,4 @@
-***RetroMation*** (formerly Rock-afire Remake) is a fanmade mod of {{< wiki-link "Rock-afire Replay" >}} that started in January of 2021 which gained official support by Creative Engineering in 2024 to release, alongside CEI using the program for various official showtapes until {{< wiki-link "The Rock-afire Simulator" >}} releases.<sup>(1)(5)</sup>
+***RetroMation*** (formerly Rock-afire Remake) is a fanmade mod of [Rock-afire Replay] that started in January of 2021 which gained official support by Creative Engineering in 2024 to release, alongside CEI using the program for various official showtapes until [The Rock-afire Simulator] releases.<sup>(1)(5)</sup>
 The mod also has a build containing Chuck E. Cheese characters, which began passing around in private after the Cease & Desist of Reel to Real as to try to not be noticed and stopped as well, despite many public videos of this build in action being uploaded to YouTube since 2022.<sup>(2)(3)(4)</sup>
 
 ## History
@@ -37,21 +37,21 @@ to do
 
 ## Official Shows
 
-* {{< wiki-link "A Break Through for the Rock-Afire Explosion and Its Fans" >}}
-* {{< wiki-link "Experimental Simulated New 'Billybob Show' Idea Selling Advent Calendars" >}}
-* {{< wiki-link "Morgan Teaches About Paintbrushes for the Advent Calendar Project" >}}
-* {{< wiki-link "Rock-Afire Explosion Advent Calendar * Day 02" >}}
-* {{< wiki-link "Rock-Afire Explosion Advent Calendar * Day 03" >}}
-* {{< wiki-link "Rock-Afire Explosion Advent Calendar  *Day 04*  Mitzi's Hand" >}}
-* {{< wiki-link "Advent Calendar  *Day 5*  the Xmas Cassette * Homely for Christmas" >}}
-* {{< wiki-link "Advent Calendar  *Day 6*  Painting the Tongue" >}}
-* {{< wiki-link "Rock-Afire Advent Calendar  *Day 7*  Painting the Dook Mask" >}}
-* {{< wiki-link "Rock-Afire Advent Calendar  *Day 8*  Painting the Bumblebee" >}}
-* {{< wiki-link "Rock-Afire Advent Calendar  *Day 9*  Mitzi's Other Hand" >}}
-* {{< wiki-link "Rock-Afire Advent Calendar  *Day 10*  Painting the Mitzi Mask" >}}
-* {{< wiki-link "Rock-Afire Advent Calendar Day 11 * Painting Dook's Space Hat" >}}
-* {{< wiki-link "Rock-Afire Advent Calendar  *Day 12*  Fatz and Mitzi Fur" >}}
-* {{< wiki-link "Monkees Medley Performed By Piano Billybob" >}}
+* [A Break Through for the Rock-Afire Explosion and Its Fans]
+* [Experimental Simulated New 'Billybob Show' Idea Selling Advent Calendars]
+* [Morgan Teaches About Paintbrushes for the Advent Calendar Project]
+* [Rock-Afire Explosion Advent Calendar * Day 02]
+* [Rock-Afire Explosion Advent Calendar * Day 03]
+* [Rock-Afire Explosion Advent Calendar  *Day 04*  Mitzi's Hand]
+* [Advent Calendar  *Day 5*  the Xmas Cassette * Homely for Christmas]
+* [Advent Calendar  *Day 6*  Painting the Tongue]
+* [Rock-Afire Advent Calendar  *Day 7*  Painting the Dook Mask]
+* [Rock-Afire Advent Calendar  *Day 8*  Painting the Bumblebee]
+* [Rock-Afire Advent Calendar  *Day 9*  Mitzi's Other Hand]
+* [Rock-Afire Advent Calendar  *Day 10*  Painting the Mitzi Mask]
+* [Rock-Afire Advent Calendar Day 11 * Painting Dook's Space Hat]
+* [Rock-Afire Advent Calendar  *Day 12*  Fatz and Mitzi Fur]
+* [Monkees Medley Performed By Piano Billybob]
 
 ## Versions
 

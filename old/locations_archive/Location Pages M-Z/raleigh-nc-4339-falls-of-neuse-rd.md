@@ -13,7 +13,7 @@ pageThumbnailFile = "mdyxlCnOcWsBWk976yue.avif"
 latitudeLongitude = ["35.83965977","-78.61504223"]
 +++
 
-***4339 Falls of Neuse Rd*** was a *Pizza Time Theatre* in Raleigh, North Carolina that opened in November 1980 (day unknown) and closed in October 1984 with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}. It was the 20th Pizza Time Theatre to open. This is not to be confused with the {{< wiki-link "Raleigh, NC (3501-131 Capital Blvd)" >}} location, which opened in June 1988 as a ShowBiz Pizza Place, converted to a Chuck E. Cheese's in 1991 (after the city went seven years without a Chuck E. Cheese) and still operates to this day with a 2019 model {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and {{< wiki-link "Video Wall" >}}.
+***4339 Falls of Neuse Rd*** was a *Pizza Time Theatre* in Raleigh, North Carolina that opened in November 1980 (day unknown) and closed in October 1984 with a [Cyberamics Portrait Shelf Stage]. It was the 20th Pizza Time Theatre to open. This is not to be confused with the [Raleigh, NC (3501-131 Capital Blvd)] location, which opened in June 1988 as a ShowBiz Pizza Place, converted to a Chuck E. Cheese's in 1991 (after the city went seven years without a Chuck E. Cheese) and still operates to this day with a 2019 model [Chuck E Live Stage (Dance Floor)] and [Video Wall].
 
 ## History
 
@@ -27,13 +27,13 @@ The store opened up with a Portrait/Shelf stage, recieving the typical guest sta
 
 | Animatronic                                                  | Whereabouts |
 |--------------------------------------------------------------|-------------|
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown     |
 | Chuck E Cheese (Cyberamic)                                   | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown     |
 | Waving Flags (Cyberamic)                                     | Unknown     |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown     |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown     |
-| {{< wiki-link "Dolli Dimples (Cabaret)" >}}            | Unknown     |
+| [Applause Board (Cyberamic)]         | Unknown     |
+| [Drum Board (Cyberamic)]             | Unknown     |
+| [Dolli Dimples (Cabaret)]            | Unknown     |

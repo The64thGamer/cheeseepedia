@@ -1,4 +1,4 @@
-The ***Pizza Time Theatre Musical Ferris Wheel*** was a {{< wiki-link "Pizza Time Theatre" >}} themed variant of the *Musical Ferris Wheel* by All-Tech Industries.(1) After inserting a quarter, the ride would spin the child in the seat around while playing 1-bit fair ground music.(2)
+The ***Pizza Time Theatre Musical Ferris Wheel*** was a [Pizza Time Theatre] themed variant of the *Musical Ferris Wheel* by All-Tech Industries.(1) After inserting a quarter, the ride would spin the child in the seat around while playing 1-bit fair ground music.(2)
 
 ## Variants
 

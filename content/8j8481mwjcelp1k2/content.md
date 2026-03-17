@@ -1,9 +1,9 @@
-***Queenie / Mini Mozzarella* was an animatronic created for the {{< wiki-link "Wolf Pack 5" >}} show and debuted at the 1978 IAAPA.
-She uses the same mask mold as {{< wiki-link "Grandma Bear (Animatronic)" >}}/Beatrice from the {{< wiki-link "Bear Country Jubilee" >}} and a nearly identical mech as Mama Grandbags from the {{< wiki-link "Hard Luck Bears" >}}.**
+***Queenie / Mini Mozzarella* was an animatronic created for the [Wolf Pack 5] show and debuted at the 1978 IAAPA.
+She uses the same mask mold as [Grandma Bear (Animatronic)]/Beatrice from the [Bear Country Jubilee] and a nearly identical mech as Mama Grandbags from the [Hard Luck Bears].**
 
 ## History
 
-During the creation of the {{< wiki-link "Rock-afire Explosion" >}} in 1980, Queenie was going to be reused as a character much like the rest of the Wolf Pack 5. However, marketing executive for {{< wiki-link "ShowBiz Pizza Place" >}}, Stan Emmerson suggested replacing her with a mouse to go with the pizza theme and because {{< wiki-link "Pizza Time Theatre" >}} and Disney both had mouse mascots. In an attempt to not come off as arrogant, Aaron Fetcher allowed for Queenie to be converted into Mini Mozzarella.{{< cite 1 >}}
+During the creation of the [Rock-afire Explosion] in 1980, Queenie was going to be reused as a character much like the rest of the Wolf Pack 5. However, marketing executive for [ShowBiz Pizza Place], Stan Emmerson suggested replacing her with a mouse to go with the pizza theme and because [Pizza Time Theatre] and Disney both had mouse mascots. In an attempt to not come off as arrogant, Aaron Fetcher allowed for Queenie to be converted into Mini Mozzarella.[1]
 
 ## Design
 

@@ -1,10 +1,10 @@
 ***SPP Emergency Backup Tape*** was a special backup tape, being one of the last few showtapes released for *ShowBiz Pizza Place's* hosting the *Rock-afire Explosion*.
-For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape sent after {{< wiki-link "SPP Christmas '89 / Wave Bday" >}} would become increasingly more rare as stores would convert to *3-Stages.*
+For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape sent after [SPP Christmas '89 / Wave Bday] would become increasingly more rare as stores would convert to *3-Stages.*
 Despite the later years of *Cyberstar* being mostly re-used segments from earlier showtapes, the last showtapes became the 'Best of' series, bringing back every single *Cyberstar* segment for stores to have. It was said at this time that due to the *Rock-afire Explosion* being phased out, stores could play whatever showtapes they had without sticking to the most recent show. The *Best of* series could be seen as an encouragement of this.
 
 ## Emergency Backup Format
 
-As stated in the {{< wiki-link "Concept Unification Installation Manual" >}}, the emergency backup tapes were used in the event of a deck failure. A deck failure would mean the store would need to order a consumer stereo deck as a replacement, which could not support the 4-channel audio of a standard showtape. A standard tape had audio on Hifi left/right, with the programming signals on linear left/right, while the emergency tape duplicated the signals to both linear and Hifi left, and the audio to both linear and Hifi right. This resulted in the birthday signals being lost, with only the standard shows being able to play.
+As stated in the [Concept Unification Installation Manual], the emergency backup tapes were used in the event of a deck failure. A deck failure would mean the store would need to order a consumer stereo deck as a replacement, which could not support the 4-channel audio of a standard showtape. A standard tape had audio on Hifi left/right, with the programming signals on linear left/right, while the emergency tape duplicated the signals to both linear and Hifi left, and the audio to both linear and Hifi right. This resulted in the birthday signals being lost, with only the standard shows being able to play.
 
 ## Recycled Video Intermissions
 
@@ -12,13 +12,13 @@ This showtape included video segments from other ShowBiz Pizza Place & Chuck E. 
 
 - *Animal Babies in the Wild - Let's All Do the Hop*
   - CEC Neighbors / Dreams
-  - {{< wiki-link "SPP Faith / Dreams / Kids" >}}
-  - {{< wiki-link "SPP Rolfe & Earl" >}}
-  - {{< wiki-link "SPP Concept Unification Premiere" >}}
+  - [SPP Faith / Dreams / Kids]
+  - [SPP Rolfe & Earl]
+  - [SPP Concept Unification Premiere]
 - *Song City U.S.A - Dinosaurs (We Adore Dinosaurs)*
   - CEC Kids / American Pride
-  - {{< wiki-link "SPP Moms / TV Themes / Neighbors" >}}
-  - {{< wiki-link "SPP Concept Unification Premiere" >}}
+  - [SPP Moms / TV Themes / Neighbors]
+  - [SPP Concept Unification Premiere]
 
 ## Show List:
 
@@ -80,4 +80,4 @@ This showtape included video segments from other ShowBiz Pizza Place & Chuck E. 
 
 ## Trivia:
 
-- The background radio music for the Cyberstar countdowns is from {{< wiki-link "ShowBiz Pizza Program 18" >}} cassette tape released a year prior.
+- The background radio music for the Cyberstar countdowns is from [ShowBiz Pizza Program 18] cassette tape released a year prior.

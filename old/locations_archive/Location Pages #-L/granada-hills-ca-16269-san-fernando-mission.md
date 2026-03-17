@@ -11,17 +11,17 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
 
-***16269 San Fernando Mission*** was a *Pizza Time Theatre* that opened between 1981-1982 with a {{< wiki-link "Cyberamics Balcony Stage" >}}, and closed as a *Chuck E. Cheese's* on March 1st, 2021 with a {{< wiki-link "Studio C Beta" >}}.
+***16269 San Fernando Mission*** was a *Pizza Time Theatre* that opened between 1981-1982 with a [Cyberamics Balcony Stage], and closed as a *Chuck E. Cheese's* on March 1st, 2021 with a [Studio C Beta].
 
 ## Stages
 
 | Stage                                              | Installed | Removed   | Notes                                |
 |----------------------------------------------------|-----------|-----------|--------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | 1982/1983 | 1988/1989 | One of many installed in California. |
-| {{< wiki-link "Chuck E's House Facade" >}}   | 1988/1989 | 1991      | Uncomfirimed installation.           |
-| {{< wiki-link "Road Stage" >}}    | 1991/1992 | Mid 90's  | One of many installed in California. |
-| {{< wiki-link "2-Stage" >}}                  | Mid 90's  | 2007      | One of many installed in California. |
-| {{< wiki-link "Studio C Beta" >}}            | 2007      | 2021      | One of many installed in California. |
+| [Cyberamics Balcony Stage] | 1982/1983 | 1988/1989 | One of many installed in California. |
+| [Chuck E's House Facade]   | 1988/1989 | 1991      | Uncomfirimed installation.           |
+| [Road Stage]    | 1991/1992 | Mid 90's  | One of many installed in California. |
+| [2-Stage]                  | Mid 90's  | 2007      | One of many installed in California. |
+| [Studio C Beta]            | 2007      | 2021      | One of many installed in California. |
 
 ## History
 

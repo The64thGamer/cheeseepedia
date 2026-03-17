@@ -1,9 +1,9 @@
-The Country Stage, also referred to sometimes as the 'barn stage', was a one of a kind stage design at the {{< wiki-link "North Richland Hills, TX (7935 Grapevine Hwy)" >}} Showbiz Pizza location. This stage was created by ShowBiz Pizza Corporate with the release of the Country Klunk showtape in January 1985.
+The Country Stage, also referred to sometimes as the 'barn stage', was a one of a kind stage design at the [North Richland Hills, TX (7935 Grapevine Hwy)] Showbiz Pizza location. This stage was created by ShowBiz Pizza Corporate with the release of the Country Klunk showtape in January 1985.
 Many ShowBiz Pizza locations would receive decorations and cosmetics for the country theme, like cowboy hats for each character, but none would ever come close to the barn stage concept.
 
 ## History
 
-This was one of many ways ShowBiz Pizza Time Inc. would try to freshen up the Rockafire Explosion every once in a while. The seasonal changes to Pizza Time Theatre's Balcony Stage were simulated and applied to the Rock-afire Explosion several times. The Magic Stage was the first concept to tested. The Country Stage would be the last time any new or major stage variations were developed by ShowBiz Pizza Time, mostly due to cost. Stage variations for Balcony stage were much cheaper to preform. The Country Stage would reappear in various 1986 ShowBiz Pizza Place ads. Although by this point the backdrop had been replaced with streamers and center stage receiving a neon 'Rock-Afire' sign. {{< cite 1 >}}
+This was one of many ways ShowBiz Pizza Time Inc. would try to freshen up the Rockafire Explosion every once in a while. The seasonal changes to Pizza Time Theatre's Balcony Stage were simulated and applied to the Rock-afire Explosion several times. The Magic Stage was the first concept to tested. The Country Stage would be the last time any new or major stage variations were developed by ShowBiz Pizza Time, mostly due to cost. Stage variations for Balcony stage were much cheaper to preform. The Country Stage would reappear in various 1986 ShowBiz Pizza Place ads. Although by this point the backdrop had been replaced with streamers and center stage receiving a neon 'Rock-Afire' sign. [1]
 
 ## Design
 
@@ -19,4 +19,4 @@ Billy Bob and Looney Bird stayed cosmetically the same. The backdrop, which is a
 
 ### Stage Right
 
-This stage featured Country Klunk instead of Rolfe and Earl. Click still made an appearance with Klunk, despite the changes. The design would be similar to Stage Left and would feature a farm with a scarecrow and tractor. A picket fence was placed on the sides of the stage and above to hide overhead lights.{{< cite 2 >}}
+This stage featured Country Klunk instead of Rolfe and Earl. Click still made an appearance with Klunk, despite the changes. The design would be similar to Stage Left and would feature a farm with a scarecrow and tractor. A picket fence was placed on the sides of the stage and above to hide overhead lights.[2]

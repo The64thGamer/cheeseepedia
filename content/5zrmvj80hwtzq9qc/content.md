@@ -58,5 +58,5 @@
 
 ## Trivia:
 
-* Both versions of Party Place are reused from {{< wiki-link "Spring Break" >}}
+* Both versions of Party Place are reused from [Spring Break]
 * Act Naturally was filmed at Disney MGM Studios

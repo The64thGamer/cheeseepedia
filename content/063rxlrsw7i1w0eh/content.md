@@ -1,4 +1,4 @@
-***Beach Bowzers Cabaret Tape*** was a showtape released for the Beach Bowzers cabaret show, featuring original artist recordings of Beach Boys songs with newly recorded intros. It would play until May of 1991 when {{< wiki-link "CEC Beach Bowzers Showtape" >}} would release.
+***Beach Bowzers Cabaret Tape*** was a showtape released for the Beach Bowzers cabaret show, featuring original artist recordings of Beach Boys songs with newly recorded intros. It would play until May of 1991 when [CEC Beach Bowzers Showtape] would release.
 
 ## Show List
 1. **Segment 1**

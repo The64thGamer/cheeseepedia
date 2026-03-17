@@ -1,4 +1,4 @@
-**Holiday 2006** is a rerelease of {{< wiki-link "Holiday 2004" >}} which played throughout December 2006.
+**Holiday 2006** is a rerelease of [Holiday 2004] which played throughout December 2006.
 
 ## Show List:
 

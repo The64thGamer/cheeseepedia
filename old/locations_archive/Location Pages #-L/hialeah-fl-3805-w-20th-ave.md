@@ -13,7 +13,7 @@ pageThumbnailFile = "cZKpvS2QNfWIBqkcryRw.avif"
 latitudeLongitude = ["25.85474312","-80.32245868"]
 +++
 
-***3805 W 20th Ave, Store #424*** is a *Chuck E. Cheese* that opened on April 2, 1991, as a corporate location with a Road Stage, which is still open to this day with the 2.0 remodel. It is located in the Westland Promenade Shopping Mall. It should not be confused with the {{< wiki-link "Hialeah, FL (500 W 49th St)" >}} location as it opened as a franchised location on December 20th, 1982, and was located in the Palm Springs Mills, and was bought by corporate on October 22nd, 1984, along with 50 other locations, and closed in 1985 or 1986 with a Balcony Stage.
+***3805 W 20th Ave, Store #424*** is a *Chuck E. Cheese* that opened on April 2, 1991, as a corporate location with a Road Stage, which is still open to this day with the 2.0 remodel. It is located in the Westland Promenade Shopping Mall. It should not be confused with the [Hialeah, FL (500 W 49th St)] location as it opened as a franchised location on December 20th, 1982, and was located in the Palm Springs Mills, and was bought by corporate on October 22nd, 1984, along with 50 other locations, and closed in 1985 or 1986 with a Balcony Stage.
 
 ## Stages
 
@@ -23,7 +23,7 @@ Like all Road Stages at the time, Chuck wore his tuxedo &amp; derby outfit And H
 
 ### 2000s
 
-In the Early-Mid 2000's, the tuxedo was replaced with the Cool Chuck outfit and a new TV was added but still kept the 90s rear TV Projection (but was removed either before or after the {{< wiki-link "CEC 2000's Remodel Program" >}} remodel).
+In the Early-Mid 2000's, the tuxedo was replaced with the Cool Chuck outfit and a new TV was added but still kept the 90s rear TV Projection (but was removed either before or after the [CEC 2000's Remodel Program] remodel).
 
 ### 2010s
 
@@ -49,7 +49,7 @@ Hialeah opened on April 2nd, 1991, as a corporate-owned location. Hialeah opened
 
 Around the mid-late 1990s, Hialeah remodeled to the 1992 remodel which involved replacing their logo with Coach Chuck on the exterior, The removal of the older 90's decor for newer decor and the ball pit for Sky Tubes. The Road Stage was modified at that time. Around 2005 and 2006, for unknown reasons, the 2004 Avenger Chuck Logo was installed replacing Coach Chuck, and one section of the awnings were removed. In 2008, They received their purple awnings.
 
-### {{< wiki-link "CEC 2000's Remodel Program" >}}: 2009/2010-2021
+### [CEC 2000's Remodel Program]: 2009/2010-2021
 
 Around 2009-2010, Hialeah remodeled to the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved the removal of the showroom walls, removing older decor for newer decor, &amp; adding purple walls. The store was also expanded which prompted China Buffet move to the other side of the shopping center. Around 2010-2011, The Ticket Blaster was added to the store which was placed next to the Road Stage. The Purple awnings were modified from Late January to April 2013. In 2015, Hialeah along with 6 other stores tested out the Lazer Challenge which was then removed by 2019-2020. By 2018, The Toddler Zone Fences were removed. In 2020, The Sky tubes and the Toddler Zone Play Areas were removed due to the Pandemic.
 
@@ -65,27 +65,27 @@ W.I.P
 
 | Link                                                | Description                                                                                                 | Publish Date |
 |-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------|
-| [Link](https://www.youtube.com/watch?v=J_4dDxN-Y-c) | 'Deck the Halls' from {{< wiki-link "December 2012 Show" >}} being performed on Hialeah's Road Stage. | 12-29-2014   |
+| [Link](https://www.youtube.com/watch?v=J_4dDxN-Y-c) | 'Deck the Halls' from [December 2012 Show] being performed on Hialeah's Road Stage. | 12-29-2014   |
 | [Link](https://www.youtube.com/watch?v=Kg16-10wH50) | Footage of a girl playing Ken Chuck E Derby while the store being Phase 3                                   | 10-12-2008   |
 | Link                                                | Close look at the Animatronics                                                                              | 07-11-2015   |
-| Link                                                | Short Tour showcasing the store as a {{< wiki-link "CEC 2000's Remodel Program" >}} Store             | 07-12-2015   |
+| Link                                                | Short Tour showcasing the store as a [CEC 2000's Remodel Program] Store             | 07-12-2015   |
 | Link                                                | Animatronics performing May 1992 Segment 3 while wearing Christmas Hats                                     | 12-22-2015   |
 | Link                                                | Party With You Road Stage Perfomance                                                                        | 06-15-2016   |
 | Link                                                | Video from January 2022 showcasing the overall store mostly the gameroom                                    | 01-31-2022   |
 | Link                                                | Remember That Time being showed on the video wall                                                           | 04-26-2024   |
 
-[{{< wiki-link "CEC 2000's Remodel Program" >}} Hialeah (2011)](https://photos.app.goo.gl/kfAdhwSRHrMrziRy8) [Hialeah Showroom (2013)](https://www.catchmyparty.com/photos/1279723) [Hialeah 2.0 (January 2022)](https://photos.app.goo.gl/3PZ9NTZu5Eo73VJP9)
+[[CEC 2000's Remodel Program] Hialeah (2011)](https://photos.app.goo.gl/kfAdhwSRHrMrziRy8) [Hialeah Showroom (2013)](https://www.catchmyparty.com/photos/1279723) [Hialeah 2.0 (January 2022)](https://photos.app.goo.gl/3PZ9NTZu5Eo73VJP9)
 
 ## Animatronics
 
 | Animatronic                                                  | Manufacturing Date | Status     |
 |--------------------------------------------------------------|--------------------|------------|
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | 1980s              | Destroyed. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1980s              | Destroyed. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1980s              | Destroyed. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1980s              | Destroyed. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1980s              | Destroyed. |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1990s              | Destroyed. |
+| [Chuck E Cheese (Cyberamic)]         | 1980s              | Destroyed. |
+| [Guest Star Helen Henny (Cyberamic)] | 1980s              | Destroyed. |
+| [Mr Munch (Cyberamic)]               | 1980s              | Destroyed. |
+| [Jasper T Jowls (Cyberamic)]         | 1980s              | Destroyed. |
+| [Pasqually (Cyberamic)]              | 1980s              | Destroyed. |
+| [Wink (Cyberamic)]                   | 1990s              | Destroyed. |
 
 ## Walkarounds
 

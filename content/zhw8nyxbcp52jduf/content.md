@@ -3,7 +3,7 @@ The For a free show... push this button and watch me go! was a sign created for 
 ## Production
 
 This unique sign was used in the cabaret and lounge areas at Pizza Time Theatre locations.
-This sign allegedly replaced the '1 Token Starts Our Show' (PTT Signage)|'1 Token Starts Our Show' sign and system, although would still retain the same concept in showing guests they could start the show on command.{{< cite 1 >}}
+This sign allegedly replaced the '1 Token Starts Our Show' (PTT Signage)|'1 Token Starts Our Show' sign and system, although would still retain the same concept in showing guests they could start the show on command.[1]
 
 ## Design
 

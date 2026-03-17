@@ -7,16 +7,16 @@ The 1996 set introduced putting wires and cardboard pieces into the plush's legs
 
 ### Prototypes
 
-A prototype plush can be seen in the 1997-1998 Merch Catalog.{{< cite 1 >}} Pictures of the plush show that this plush was originally going to have separate pieces for its eyebrows as apposed to the released plush having them printed on its eyes.
+A prototype plush can be seen in the 1997-1998 Merch Catalog.[1] Pictures of the plush show that this plush was originally going to have separate pieces for its eyebrows as apposed to the released plush having them printed on its eyes.
 
 #### Prototype Gallery
 
 ### Set
 
-- {{< wiki-link "Small Chuck E Plush (1996)" >}}
-- {{< wiki-link "Small Helen Plush (1996)" >}}
-- {{< wiki-link "Small Munch Plush (1996)" >}}
-- {{< wiki-link "Small Jasper Plush (1996)" >}}
+- [Small Chuck E Plush (1996)]
+- [Small Helen Plush (1996)]
+- [Small Munch Plush (1996)]
+- [Small Jasper Plush (1996)]
 
 ## Design
 

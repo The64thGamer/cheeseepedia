@@ -1,4 +1,4 @@
-**Chuck E. Cheese's Boom Box Live Shows** was a CD released alongside the {{< wiki-link "First Quarter 2014 Show" >}} which featured seven {{< wiki-link "Road Shows" >}}.
+**Chuck E. Cheese's Boom Box Live Shows** was a CD released alongside the [First Quarter 2014 Show] which featured seven [Road Shows].
 
 ##  List:
 
@@ -19,4 +19,4 @@
 
 ## Trivia:
 
-- ‘Birthday (English)’ and ‘Birthday (Spanish)’ are shortened versions of {{< wiki-link "Chuck E. Cheese’s Rockstar Birthday" >}} and {{< wiki-link "Spanish Rockstar Birthday" >}} respectively, which feature only ‘Happy Birthday to You’ and ‘Birthday Star’.
+- ‘Birthday (English)’ and ‘Birthday (Spanish)’ are shortened versions of [Chuck E. Cheese’s Rockstar Birthday] and [Spanish Rockstar Birthday] respectively, which feature only ‘Happy Birthday to You’ and ‘Birthday Star’.

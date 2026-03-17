@@ -15,7 +15,7 @@ categories = ["ShowBiz Pizza Place"]
 
 ## Stages
 
-The store opened with the {{< wiki-link "Classic Stage" >}} on November 11, 1982. They would receive Uncle Klunk in 1983 as part of {{< wiki-link "The Amazing Uncle Klunk Traveling Show (Event)" >}}.(1) They would also retain Klunk retrofitting him into Santa as part of {{< wiki-link "Santa On Stage Show 1983 (Event)" >}}(2). On January 3, 1986 the Rock-afire Explosion would be auctioned off. It would end up being purchased Jungle Jim's International Market.
+The store opened with the [Classic Stage] on November 11, 1982. They would receive Uncle Klunk in 1983 as part of [The Amazing Uncle Klunk Traveling Show (Event)].(1) They would also retain Klunk retrofitting him into Santa as part of [Santa On Stage Show 1983 (Event)](2). On January 3, 1986 the Rock-afire Explosion would be auctioned off. It would end up being purchased Jungle Jim's International Market.
 
 ## History
 
@@ -25,14 +25,14 @@ The Highland, Ave ShowBiz Pizza Place opened up November 11, 1982 in Cincinnati,
 
 | Animatronic                                                               | Serial Number | Whereabouts                                                                   |
 |---------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 4-82 1-2      | Purchased by Jungle Jim's International Market, now unknown.                  |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 4-82 2-2      | Purchased by Jungle Jim's International Market, now unknown.                  |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 4-82 3-2      | Used for the Nirobi Trio at Jungle Jim's International Market, now destroyed. |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 4-82 4-2      | Base reused for Nirobi Trio Drummer, now unknown.                             |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 4-82 5-2      | Purchased by Jungle Jim's International Market, now unknown.                  |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 4-82 6-2      | Used for the Nirobi Trio at Jungle Jim's International Market, now destroyed. |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 4-82 7-2      | Purchased by Jungle Jim's International Market, now unknown.                  |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 4-82 8-2      | Purchased by Jungle Jim's International Market, now unknown.                  |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 4-82 10-2     | Purchased by Jungle Jim's International Market, now unknown.                  |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 4-82 11-2     | Purchased by Jungle Jim's International Market, now unknown.                  |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Purchased by Jungle Jim's International Market, now unknown.                  |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-82 1-2      | Purchased by Jungle Jim's International Market, now unknown.                  |
+| [Dook Larue (Animatronic)]                        | 4-82 2-2      | Purchased by Jungle Jim's International Market, now unknown.                  |
+| [Fatz Geronimo (Animatronic)]                     | 4-82 3-2      | Used for the Nirobi Trio at Jungle Jim's International Market, now destroyed. |
+| [Beach Bear (Animatronic)]                        | 4-82 4-2      | Base reused for Nirobi Trio Drummer, now unknown.                             |
+| [Mitzi Mozzarella (Animatronic)]                  | 4-82 5-2      | Purchased by Jungle Jim's International Market, now unknown.                  |
+| [Billy Bob (Animatronic)]                         | 4-82 6-2      | Used for the Nirobi Trio at Jungle Jim's International Market, now destroyed. |
+| [Looney Bird (Animatronic)]                       | 4-82 7-2      | Purchased by Jungle Jim's International Market, now unknown.                  |
+| [Choo Choo (Animatronic)]                         | 4-82 8-2      | Purchased by Jungle Jim's International Market, now unknown.                  |
+| [Sun (Animatronic)]                               | 4-82 10-2     | Purchased by Jungle Jim's International Market, now unknown.                  |
+| [Moon (Animatronic)]                              | 4-82 11-2     | Purchased by Jungle Jim's International Market, now unknown.                  |
+| [Antioch (Animatronic)]                           | N/A           | Purchased by Jungle Jim's International Market, now unknown.                  |

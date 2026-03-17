@@ -30,12 +30,12 @@ Fairbanks opened in January 1986 (day unknown) with a Balcony Stage. This would 
 
 | Animatronics                                                 | Production Date | Whereabouts |
 |--------------------------------------------------------------|-----------------|-------------|
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown         | Unknown     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown         | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown         | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown         | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown         | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown         | Unknown     |
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown         | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown         | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown         | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown         | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown         | Unknown     |
 | Waving Flags (Cyberamic)                                     | Unknown         | Unknown     |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown         | Unknown     |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown         | Unknown     |
+| [Applause Board (Cyberamic)]         | Unknown         | Unknown     |
+| [Drum Board (Cyberamic)]             | Unknown         | Unknown     |

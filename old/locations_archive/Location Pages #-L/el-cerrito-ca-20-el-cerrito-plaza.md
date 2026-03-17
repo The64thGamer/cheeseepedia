@@ -13,7 +13,7 @@ pageThumbnailFile = "x3pjVTGcSVPJoeI15vlr.avif"
 latitudeLongitude = ["37.89811422","-122.3017875"]
 +++
 
-***20 El Cerrito Plaza*** was a *Chuck E. Cheese's* that opened in 1993 (day and month unknown) with a {{< wiki-link "1-Stage" >}}, and closed on July 19th, 2000.
+***20 El Cerrito Plaza*** was a *Chuck E. Cheese's* that opened in 1993 (day and month unknown) with a [1-Stage], and closed on July 19th, 2000.
 
 ## History
 
@@ -23,7 +23,7 @@ TODO
 
 | Stage                             | Installed | Removed   | Notes                                |
 |-----------------------------------|-----------|-----------|--------------------------------------|
-| {{< wiki-link "1-Stage" >}} | 1993      | July 2000 | One of many installed in California. |
+| [1-Stage] | 1993      | July 2000 | One of many installed in California. |
 
 ## Videos
 
@@ -36,7 +36,7 @@ TODO
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Unknown     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown     |

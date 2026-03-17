@@ -1,4 +1,4 @@
-***Dolli Dimples*** Dolli Dimples was staniory at the Piano Bar Lounge and was the only Cabaret / Lounge act to get a first gen Cyberamic in the form of {{< wiki-link "Dolli Dimples (Cabaret)" >}}
+***Dolli Dimples*** Dolli Dimples was staniory at the Piano Bar Lounge and was the only Cabaret / Lounge act to get a first gen Cyberamic in the form of [Dolli Dimples (Cabaret)]
 
 ## History
 

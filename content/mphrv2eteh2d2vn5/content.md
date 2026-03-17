@@ -1,9 +1,9 @@
-***Click* (AKA ***Murray D. Bird*) was an animatronic produced for {{< wiki-link "The Amazing Uncle Klunk Traveling Show (Event)" >}} event at ShowBiz Pizza Place locations by Creative Engineering in 1983.
-The animatronic is a large cuckoo clock with Click on the inside. The clock is intended to be hung up on the Stage Right wall on {{< wiki-link "Uncle Klunk (Animatronic)" >}} left, with the doors being roughly at the same height as Klunk's head.****
+***Click* (AKA ***Murray D. Bird*) was an animatronic produced for [The Amazing Uncle Klunk Traveling Show (Event)] event at ShowBiz Pizza Place locations by Creative Engineering in 1983.
+The animatronic is a large cuckoo clock with Click on the inside. The clock is intended to be hung up on the Stage Right wall on [Uncle Klunk (Animatronic)] left, with the doors being roughly at the same height as Klunk's head.****
 
 ## History
 
-Click seems to have been a late addition to {{< wiki-link "The Amazing Uncle Klunk Traveling Show (Event)" >}}, as the {{< wiki-link "Save The Colander Telethon (1983)" >}} footage of Klunk from early 1983 doesn't have Click on the stage.
+Click seems to have been a late addition to [The Amazing Uncle Klunk Traveling Show (Event)], as the [Save The Colander Telethon (1983)] footage of Klunk from early 1983 doesn't have Click on the stage.
 
 ### Prototype
 
@@ -11,7 +11,7 @@ An early version of the bird portion of the animatronic was found in the 2010's.
 
 ### Initial Reveal
 
-By the time Klunk's first reveal happened to the employees of Creative Engineering during a showtape premiere, the final design for Click would be seen rather than the prototype.{{< cite 1 >}}
+By the time Klunk's first reveal happened to the employees of Creative Engineering during a showtape premiere, the final design for Click would be seen rather than the prototype.[1]
 
 ### Reuse
 
@@ -39,7 +39,7 @@ Despite the perceived thin appearance of the bird from expected angles, the inne
 
 ### Prototype Design
 
-The prototype design features lighter skin, a more raised up belly-button, less defined cheeks, less outstretched arms, and no separated jaw for a mouth movement. The inner latex for the body has 'This is NOT a standard' written on the inside.{{< cite 1 >}}
+The prototype design features lighter skin, a more raised up belly-button, less defined cheeks, less outstretched arms, and no separated jaw for a mouth movement. The inner latex for the body has 'This is NOT a standard' written on the inside.[1]
 
 ## Movements
 

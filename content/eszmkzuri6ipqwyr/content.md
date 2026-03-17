@@ -70,5 +70,5 @@ Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. 
 - Summertime is filmed at [NRH2O Family Water Park](https://www.nrh2o.com/)
 
 ## Trivia
-- 'The Announcer' is reused from {{< wiki-link "Studio C Premiere" >}}, VeggieTales - 'The Pirates Who Don't Do Anything' is reused from {{< wiki-link "Just for Kids Show 2000" >}}, and Monkey Ninjas - 'Episode 4' is reused from {{< wiki-link "September 2003 Show" >}}.
+- 'The Announcer' is reused from [Studio C Premiere], VeggieTales - 'The Pirates Who Don't Do Anything' is reused from [Just for Kids Show 2000], and Monkey Ninjas - 'Episode 4' is reused from [September 2003 Show].
 - Birthday Star Extravaganza 2007 is featured exclusively on Studio C discs. This show adds both a 5-minute and a 3-minute countdown.

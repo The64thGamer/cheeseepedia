@@ -1,4 +1,4 @@
-**Program Blue .shw** files are a custom, proprietary format used by the {{< wiki-link "Program Blue" >}} animatronics control software.
+**Program Blue .shw** files are a custom, proprietary format used by the [Program Blue] animatronics control software.
 
 ## Brief Overview of Format
 

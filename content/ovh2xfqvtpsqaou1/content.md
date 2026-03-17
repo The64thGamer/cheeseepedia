@@ -1,5 +1,5 @@
 ***Making Magic Through Live Performance* is a CEC character performer training disc made with the 2007 wave of training DVDs.
-Filming took place at the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} and {{< wiki-link "Grand Prairie, TX (2760 W I-20)" >}} location.**
+Filming took place at the [ShowBiz Pizza Time Corporate Office] and [Grand Prairie, TX (2760 W I-20)] location.**
 
 ## Summary
 

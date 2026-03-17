@@ -11,15 +11,15 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***Katy, TX (2002 Gulfmont Dr), Store #598*** is a Chuck E. Cheese’s that opened on December 30, 2001 and is still open today with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
+***Katy, TX (2002 Gulfmont Dr), Store #598*** is a Chuck E. Cheese’s that opened on December 30, 2001 and is still open today with the [CEC 2.0 Remodel Program].
 
 ## Stages
 
-When this location opened, it had a prototype {{< wiki-link "Studio C Beta" >}}(1) that had one TV. Somewhere between the early-mid 2010s, the curtains would be removed. It would stay like this until 2020 when it would be replaced by the 2019 Model {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}. It would later be upgraded to the 2021 Model sometime in February of 2023 due to corporate’s funding of the Houston locations.
+When this location opened, it had a prototype [Studio C Beta](1) that had one TV. Somewhere between the early-mid 2010s, the curtains would be removed. It would stay like this until 2020 when it would be replaced by the 2019 Model [Chuck E Live Stage (Dance Floor)]. It would later be upgraded to the 2021 Model sometime in February of 2023 due to corporate’s funding of the Houston locations.
 
 ## History
 
-Katy opened on December 30, 2001 near the growing Katy Mills mall with the major 90s remodel. Somewhere between 2009-2011, Katy would receive the {{< wiki-link "CEC 2000's Remodel Program" >}} which involved removing showroom walls, replacing older decor for newer decor, and painting specific walls purple. The store would also receive an expansion in 2009 for the back of the place. Despite this, the phase 3 exterior remained intact. However, new letters were installed. Around 2018, the skytubes would be removed. It would remain like this until March of 2020 right before the pandemic when this location would receive 2.0 which involved replacing older decor with newer decor, getting rid of the studio c beta, and upgrading the atmosphere to a more modern look. In December 2023, Katy would receive the new trampoline zone concept. As of 2024, Katy remains like this.
+Katy opened on December 30, 2001 near the growing Katy Mills mall with the major 90s remodel. Somewhere between 2009-2011, Katy would receive the [CEC 2000's Remodel Program] which involved removing showroom walls, replacing older decor for newer decor, and painting specific walls purple. The store would also receive an expansion in 2009 for the back of the place. Despite this, the phase 3 exterior remained intact. However, new letters were installed. Around 2018, the skytubes would be removed. It would remain like this until March of 2020 right before the pandemic when this location would receive 2.0 which involved replacing older decor with newer decor, getting rid of the studio c beta, and upgrading the atmosphere to a more modern look. In December 2023, Katy would receive the new trampoline zone concept. As of 2024, Katy remains like this.
 
 ## Stages
 
@@ -47,8 +47,8 @@ Katy opened on December 30, 2001 near the growing Katy Mills mall with the major
 
 | Animatronic                                                | Serial | Wherabouts        |
 |------------------------------------------------------------|--------|-------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | N/A    | Unknown/Destroyed |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A    | Unknown/Destroyed |
+| [Chuck E Cheese 32m (Animatronic)] | N/A    | Unknown/Destroyed |
+| [Pizza Time Clock (Animatronic)]   | N/A    | Unknown/Destroyed |
 
 ## Games
 

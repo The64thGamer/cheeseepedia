@@ -1,4 +1,4 @@
-The ***1978 Helen Henny Name Sign* made its only appearance at the second Chuck E. Cheese's Pizza Time Theatre located on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} in the Blossom Hill Shopping Center in San Jose, California; where it took the role of identifying the Kooser Helen Henny animatronic from November 1978 to May, 1980.**
+The ***1978 Helen Henny Name Sign* made its only appearance at the second Chuck E. Cheese's Pizza Time Theatre located on [San Jose, CA (1371 Kooser Rd)] in the Blossom Hill Shopping Center in San Jose, California; where it took the role of identifying the Kooser Helen Henny animatronic from November 1978 to May, 1980.**
 
 ## Production
 

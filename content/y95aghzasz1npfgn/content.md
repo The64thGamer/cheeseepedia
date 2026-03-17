@@ -1,4 +1,4 @@
-***u/funavatar* was an alleged Reddit account of a CEC corporate employee that divulged internal information and the likely opinions of CEC Corporate as they were happening, mainly around the developments of the {{< wiki-link "CEC Legacy Locations" >}}.**
+***u/funavatar* was an alleged Reddit account of a CEC corporate employee that divulged internal information and the likely opinions of CEC Corporate as they were happening, mainly around the developments of the [CEC Legacy Locations].**
 
 ## History
 
@@ -6,7 +6,7 @@ The user was an anonymous account that posted on r/chuckecheese before being dis
 
 ### Posts
 
-The account posted on various software subreddits, r/chuckecheese, r/fivenightsatfreddy's, and notably r/sixflags, which most of CEC Corporate's current higher ups were previously employed at. The account would be aggressive towards stances against CEC corporate, notably around the handling of animatronics, {{< wiki-link "CEC Legacy Locations" >}}, and how the company was running.
+The account posted on various software subreddits, r/chuckecheese, r/fivenightsatfreddy's, and notably r/sixflags, which most of CEC Corporate's current higher ups were previously employed at. The account would be aggressive towards stances against CEC corporate, notably around the handling of animatronics, [CEC Legacy Locations], and how the company was running.
 Various posts are notable:
 
 - "I'm sorry, are you on the Chuck E. Cheese senior management team? Have you been reading their financial records? How do you know that they are struggling? If they are struggling so much, why are they opening new locations?"

@@ -1,17 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-  <div id="app"></div>
-  <script type="module">
-    const params = new URLSearchParams(window.location.search);
-    const viewer = params.get('v') || 'cep-js/default';
+<div id="app"></div>
+<script type="module">
+const params = new URLSearchParams(window.location.search);
 
-    const mod = await import(`/viewers/${viewer}.js`);
-    mod.render(params, document.getElementById('app'));
-  </script>
+const viewerMap = {
+  'cep-js':      'cep-js/default',
+  'theoryweb':   'theoryweb/default',
+};
+const viewerKey = params.get('v') || 'cep-js';
+const viewer = viewerMap[viewerKey] || 'cep-js/default';
+
+if (!params.has('v')) {
+  params.set('v', viewerKey);
+  const newUrl = `${window.location.pathname}?${params.toString()}${window.location.hash}`;
+  window.history.replaceState(null, '', newUrl);
+}
+
+const mod = await import(`/viewers/${viewer}.js`);
+mod.render(params, document.getElementById('app'));
+</script>
 </body>
 </html>

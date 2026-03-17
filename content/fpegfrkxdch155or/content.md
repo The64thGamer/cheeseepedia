@@ -228,4 +228,4 @@
 2. 09/02 Update - Ryan's World The Movie Trailer is removed.
 3. 09/23 Update - Zigazoo Star Showcase - 'Bubble Bubble Bop!' is removed.
 
-- Despite {{< wiki-link "Billings, MT (100 24th St)" >}} removing the animatronics on July 28, 2024 Billings would receive the 3-Stage version of Evergreen 2024 July Update without the Legacy content. This would play for 9 hours as on July 30th the store would switch over to the Media Navori system.
+- Despite [Billings, MT (100 24th St)] removing the animatronics on July 28, 2024 Billings would receive the 3-Stage version of Evergreen 2024 July Update without the Legacy content. This would play for 9 hours as on July 30th the store would switch over to the Media Navori system.

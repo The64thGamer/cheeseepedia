@@ -9,7 +9,7 @@ This was the first officially released live show created for Munch's Make Believ
 LIVE 90 #1 Random Movements files (.mvt) LiveLite.3st (Same as LIVE90 #1 w/addition of live lights) 3-STAGE 12-90 #90-12
 
 ## APS File
-Programming for the {{< wiki-link "Road Stage" >}},{{< wiki-link "Chuck E.'s House Facade" >}}, and {{< wiki-link "Chuck E.'s House" >}} were finalized in December 1990 for a January 1991 release. the {{< wiki-link "Concept Unification Stage" >}} programming wouldn't be finished till March 1991 with a release sometime in April 1991 with the SVHS release being mastered on April 5, 1991. 
+Programming for the [Road Stage],[Chuck E.'s House Facade], and [Chuck E.'s House] were finalized in December 1990 for a January 1991 release. the [Concept Unification Stage] programming wouldn't be finished till March 1991 with a release sometime in April 1991 with the SVHS release being mastered on April 5, 1991. 
 
 | File Name   | Size (bytes) | Modified Date          | Header Time | Header Title 1           | Header Title 2           |
 | ----------- | ------------ | ---------------------- | ----------- | ------------------------ | ------------------------ |

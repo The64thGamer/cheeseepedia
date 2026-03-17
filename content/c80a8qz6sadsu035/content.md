@@ -1,4 +1,4 @@
-**Sgt. Singer** was an animatronic made by **Creative Presentations** for **Craig Singer** to be used in his restaurant chain called {{< wiki-link "Sgt Singer's Pizza Circus" >}}. He would play along with **P.T Bearum** and **Pounce D' Lion** on the main stage of the restaurant.
+**Sgt. Singer** was an animatronic made by **Creative Presentations** for **Craig Singer** to be used in his restaurant chain called [Sgt Singer's Pizza Circus]. He would play along with **P.T Bearum** and **Pounce D' Lion** on the main stage of the restaurant.
 
 ## History
 

@@ -12,11 +12,11 @@ citations = []
 latitudeLongitude = ["40.05727272","-74.14163633"]
 +++
 
-***56 Chambers Bridge Rd, Store #482*** is a Chuck E. Cheese that opened on January 19, 1993, with a 2-Stage and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}. It is located in the Brick Plaza Shopping Center.
+***56 Chambers Bridge Rd, Store #482*** is a Chuck E. Cheese that opened on January 19, 1993, with a 2-Stage and is still open to this day with the [CEC 2.0 Remodel Program]. It is located in the Brick Plaza Shopping Center.
 
 ## History
 
-Brick opened on January 19th, 1993, as an expansion at the Brick Plaza Shopping Center with a {{< wiki-link "2-Stage" >}}. It opened with the 1992 update of the 1988 remodel which has checkers around the store, the Blue and White awnings, ad some Record Posters and decor. The store would receive its first remodel around the Late 1990's which included the removal of the Ball Crawl for the Sky Tubes and the changing of the exterior logo. Brick would remain this way until 2007 when they would receive the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing the Showroom Walls, Balcony Seating, and removing the 2-Stage for the Studio C Beta, 16m. In around the Late 2000s-Early 2010s, a few elements from the 2005 update were removed which included the Dinner Lights and the sign above Kid Check. In 2013/2014, Brick replaced their exterior sign with the Rockstar logo. The store's exterior was remodeled in 2015 when the Brick Plaza Shopping Center underwent a major remodel. Sometime around May 2024, the store would receive its {{< wiki-link "CEC 2.0 Remodel Program" >}}, removing the stage for a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and {{< wiki-link "Video Wall" >}}. On July 25th, 2024, the location of this store had it's grand reopening event.
+Brick opened on January 19th, 1993, as an expansion at the Brick Plaza Shopping Center with a [2-Stage]. It opened with the 1992 update of the 1988 remodel which has checkers around the store, the Blue and White awnings, ad some Record Posters and decor. The store would receive its first remodel around the Late 1990's which included the removal of the Ball Crawl for the Sky Tubes and the changing of the exterior logo. Brick would remain this way until 2007 when they would receive the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing the Showroom Walls, Balcony Seating, and removing the 2-Stage for the Studio C Beta, 16m. In around the Late 2000s-Early 2010s, a few elements from the 2005 update were removed which included the Dinner Lights and the sign above Kid Check. In 2013/2014, Brick replaced their exterior sign with the Rockstar logo. The store's exterior was remodeled in 2015 when the Brick Plaza Shopping Center underwent a major remodel. Sometime around May 2024, the store would receive its [CEC 2.0 Remodel Program], removing the stage for a [Chuck E Live Stage (Dance Floor)] and [Video Wall]. On July 25th, 2024, the location of this store had it's grand reopening event.
 
 ## Stages
 
@@ -24,10 +24,10 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 
 | Stage                                                      | Installed    | Removed  | Notes                                                                                                                                                       |
 |------------------------------------------------------------|--------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "2-Stage" >}}                          | January 1993 | 2007     | One of three installed in New Jersey. Was installed at an angle.                                                                                            |
+| [2-Stage]                          | January 1993 | 2007     | One of three installed in New Jersey. Was installed at an angle.                                                                                            |
 | Studio C Beta, 16m                                         | 2007         | May 2024 | One of three 16m Betas installed in New Jersey. One of four Betas installed in New Jersey (Mays Landing is a 32m). Last Studio C conversion still in store. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | May 2024     | In Use   |                                                                                                                                                             |
-| {{< wiki-link "Video Wall" >}}                       | May 2024     | In Use   |                                                                                                                                                             |
+| [Chuck E Live Stage (Dance Floor)] | May 2024     | In Use   |                                                                                                                                                             |
+| [Video Wall]                       | May 2024     | In Use   |                                                                                                                                                             |
 
 ## Arcade Machines
 
@@ -77,7 +77,7 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 - Hammer 2
 - Arka Jungle Boat
 - Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Spongebob Super Striker
 - Bunny Pond
 - Spongebob Order Up!
@@ -89,7 +89,7 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 | https://youtu.be/NhdP6694624 | Footage of Chuck E. LIVE! performing Mony Mony. Oldest known footage of this store.                                                               | July 18th, 1993    |
 | https://youtu.be/FKFIatxbYjM | Footage of the stage and showroom in 1996.                                                                                                        | January 4th, 1996  |
-| https://youtu.be/A3g2Qj2eBRY | Footage of the store (mostly skytubes) and {{< wiki-link "2-Stage" >}} months prior to being replaced with the Studio C Beta stage in 2007. | January 15th, 2007 |
+| https://youtu.be/A3g2Qj2eBRY | Footage of the store (mostly skytubes) and [2-Stage] months prior to being replaced with the Studio C Beta stage in 2007. | January 15th, 2007 |
 |                              |                                                                                                                                                   |                    |
 
 ## Animatronics
@@ -97,11 +97,11 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 | Animatronic                                                  | Serial Number | Whereabouts |
 |--------------------------------------------------------------|---------------|-------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown       | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown       | Unknown     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown       | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown       | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown       | Unknown     |
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   | N/A           | Unknown     |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     | N/A           | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown       | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown       | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown       | Unknown     |
+| [Chuck E Cheese 16m (Animatronic)]   | N/A           | Unknown     |
+| [Pizza Time Clock (Animatronic)]     | N/A           | Unknown     |
 
 TODO

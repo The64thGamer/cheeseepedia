@@ -36,7 +36,7 @@ Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatre
 
 ## Arcade Machines
 
-- {{< wiki-link "Pizza Time Theatre Musical Ferris Wheel" >}}
+- [Pizza Time Theatre Musical Ferris Wheel]
 
 ## Videos
 
@@ -53,8 +53,8 @@ Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatre
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
 | Chuck E Cheese (Cyberamic)                                   | Unknown            | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Unknown     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown     |

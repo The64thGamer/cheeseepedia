@@ -22,23 +22,23 @@ Pontiac opened its doors on November 4th, 1982, as the 4th ShowBiz Pizza in Mich
 
 | Stage                                   | Installed     | Removed      | Notes                                |
 |-----------------------------------------|---------------|--------------|--------------------------------------|
-| {{< wiki-link "Classic Stage" >}} | November 1982 | January 1984 | 4th ShowBiz Pizza store in Michigan. |
+| [Classic Stage] | November 1982 | January 1984 | 4th ShowBiz Pizza store in Michigan. |
 
 ## Animatronics
 
 | Character                                                                 | Serial    | Status                        |
 |---------------------------------------------------------------------------|-----------|-------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 4-82 1-7  | Unknown / Destroyed.          |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 4/82 2-7  | Owned by a private collector. |
-| {{< wiki-link "Fatz Geronimo" >}}                                   | 4/82 3-7  | Owned by a private collector. |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 4-82 4-7  | Owned by a private collector. |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 4-82 5-7  | Owned by a private collector. |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 4-82 6-7  | Owned by a private collector. |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 4-82 7-7  | Unknown / Destroyed.          |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 4-82 8-7  | Unknown / Destroyed.          |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 4-82 10-7 | Unknown / Destroyed.          |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 4-82 11-7 | Unknown / Destroyed.          |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A       | Unknown / Destroyed.          |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-82 1-7  | Unknown / Destroyed.          |
+| [Dook Larue (Animatronic)]                        | 4/82 2-7  | Owned by a private collector. |
+| [Fatz Geronimo]                                   | 4/82 3-7  | Owned by a private collector. |
+| [Beach Bear (Animatronic)]                        | 4-82 4-7  | Owned by a private collector. |
+| [Mitzi Mozzarella (Animatronic)]                  | 4-82 5-7  | Owned by a private collector. |
+| [Billy Bob (Animatronic)]                         | 4-82 6-7  | Owned by a private collector. |
+| [Looney Bird (Animatronic)]                       | 4-82 7-7  | Unknown / Destroyed.          |
+| [Choo Choo (Animatronic)]                         | 4-82 8-7  | Unknown / Destroyed.          |
+| [Sun (Animatronic)]                               | 4-82 10-7 | Unknown / Destroyed.          |
+| [Moon (Animatronic)]                              | 4-82 11-7 | Unknown / Destroyed.          |
+| [Antioch (Animatronic)]                           | N/A       | Unknown / Destroyed.          |
 
 N/A
 

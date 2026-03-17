@@ -1,4 +1,4 @@
-***Concept Unification Diagnostics Tape 1*** was the first diagnostics tape released for the {{< wiki-link "Concept Unification Stage" >}}. This would be used to diagnose any issues with the show. Tape 1 goes over Slate & Dual Pressure Specifications, Chuck E. Cheese, Helen Henny, Mr. Munch, Jasper, Pasqually, and Camera. In May 1993 {{< wiki-link "3-Stage Diagnostic Tape 1993" >}} would replace Concept Unification Diagnostics Tape 1 and Tape 2. 
+***Concept Unification Diagnostics Tape 1*** was the first diagnostics tape released for the [Concept Unification Stage]. This would be used to diagnose any issues with the show. Tape 1 goes over Slate & Dual Pressure Specifications, Chuck E. Cheese, Helen Henny, Mr. Munch, Jasper, Pasqually, and Camera. In May 1993 [3-Stage Diagnostic Tape 1993] would replace Concept Unification Diagnostics Tape 1 and Tape 2. 
 
 ## Diagnostics List:
 Each Movement is tested for approximately 1 1/2 Minutes. Movement test is in order of the valve banks.

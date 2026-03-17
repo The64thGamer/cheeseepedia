@@ -1,5 +1,5 @@
 The ***CEC Pizza Training Document* was a document consisting of 3 laminated pages used for training on pizza making, released at an unknown point around the 2000's.
-The document goes over each step in making a standard pizza, not specific to any variant with toppings. It would be hung on the wall of the kitchen during its use.{{< cite 1 >}}**
+The document goes over each step in making a standard pizza, not specific to any variant with toppings. It would be hung on the wall of the kitchen during its use.[1]**
 
 ## Transcription
 

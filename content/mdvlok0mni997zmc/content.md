@@ -1,4 +1,4 @@
-***Pumpkin Festival Munch* is a retrofit of {{< wiki-link "Mr. Munch (Cyberamic)" >}} at *Burger Farm & Garden Center* in Cincinnati, Ohio (7849 Main St. (RT 32), Cincinnati, OH 45244).**
+***Pumpkin Festival Munch* is a retrofit of [Mr. Munch (Cyberamic)] at *Burger Farm & Garden Center* in Cincinnati, Ohio (7849 Main St. (RT 32), Cincinnati, OH 45244).**
 
 ## Usage
 

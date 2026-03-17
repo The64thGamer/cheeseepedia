@@ -1,4 +1,4 @@
-**Studio C Emergency Show** was a modified release of {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}} for emergency use. 
+**Studio C Emergency Show** was a modified release of [Chuck E's Variety Show - Best of 1999] for emergency use. 
 
 ## Show List:
 

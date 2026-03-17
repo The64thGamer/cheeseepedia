@@ -1,4 +1,4 @@
-The ***Cyberamics Control Center* is a computer that plays showtapes and controls animatronics for the {{< wiki-link "Kooser PTT Show" >}} that debuted in December of 1978, and later the {{< wiki-link "Cyberamics" >}} shows that were produced from 1979 onwards, which is still used to the current day.
+The ***Cyberamics Control Center* is a computer that plays showtapes and controls animatronics for the [Kooser PTT Show] that debuted in December of 1978, and later the [Cyberamics] shows that were produced from 1979 onwards, which is still used to the current day.
 Originally running showtapes on 7' reels, it would be upgraded in 1988 to support SVHS tapes, and in 2005 to support DVDs.**
 
 ## Function
@@ -6,26 +6,26 @@ Originally running showtapes on 7' reels, it would be upgraded in 1988 to suppor
 The unit controls a set of animatronic characters, props, speakers, and lights through automatic playback of showtape media. Employees set a showtape reel on the lefthand spool of the tape deck, wind it through, and hit play. The unit will continuously loop the showtape until stopped. Certain buttons can be pressed to queue up special shows on the tape to play. These special shows when detected are usually skipped, but will be allowed to continue playing when correctly assigned.
 Later on in the late 80's to the mid 2000's, employees would instead insert a single SVHS tape to play. These tapes got rid of the skippable special segments, instead having hidden audio tracks that would become audible if the Birthday button was pressed. Employees could also run simple diagnostics from a new LCD screen.
 After the mid-2000's', employees would now insert a DVD, which could now queue up video diagnostics and Live Shows at any time.
-In 2023 the data system would switch over to the {{< wiki-link "Navori System" >}}, now streaming showtapes from an online server.
+In 2023 the data system would switch over to the [Navori System], now streaming showtapes from an online server.
 
 ## History
 
-An early variation of the Cyberamic Control System is seen in the news video for the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} store, being the first to use it,{{< cite 1 >}} The only visible hardware difference is the tape deck, being a TEAC A-2340, rather than the later TEAC X-7. The housing box is also designed differently.
+An early variation of the Cyberamic Control System is seen in the news video for the [San Jose, CA (1371 Kooser Rd)] store, being the first to use it,[1] The only visible hardware difference is the tape deck, being a TEAC A-2340, rather than the later TEAC X-7. The housing box is also designed differently.
 The standard units would be produced for stores from early 1979 to November 1983.
 
 ### Upgrades
 
-The {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} would have their unit uniquely upgraded to support the {{< wiki-link "Cyberamics Betamax" >}} format in January of 1987.
+The [Arlington, TX (2216 S Fielder Rd)] would have their unit uniquely upgraded to support the [Cyberamics Betamax] format in January of 1987.
 From 1988 to 1990, the unit would be upgraded using parts from Triad to support SVHS tapes with scrambled showtape signals, replacing the tape reading functionality. This would be named the Cyberstar (disambiguation)|Cyberstar upgrade to the unit.
 Somewhere around the late 80's to early 90's, some variant of upgrades would feature a yellow control panel. This would remove the volume knob, and move over the small metal power switch in its place- now becoming a large red switch.
-In 1993, the control system would see an upgrade to the original CPU to a 68HC11, alongside a new LCD display.{{< cite 2 >}}
+In 1993, the control system would see an upgrade to the original CPU to a 68HC11, alongside a new LCD display.[2]
 From 2005 to April 2008 the units would upgrade to replace the SVHS player with a DVD player.
 
 ## Parts
 
 ### Modified TEAC X-7 Tape Deck
 
-The system houses a modified TEAC X-7 tape deck that allows audio to be outputted even when in rewind mode.{{< cite 3 >}} This is to allow the *Tape Start* {{< wiki-link "Data" >}} to be heard to automatically switch off rewind mode. The signal is around 21 hertz, but is sped up into an audible signal due to the X-7 rewind speed being 144IPS.{{< cite 4 >}}
+The system houses a modified TEAC X-7 tape deck that allows audio to be outputted even when in rewind mode.[3] This is to allow the *Tape Start* [Data] to be heard to automatically switch off rewind mode. The signal is around 21 hertz, but is sped up into an audible signal due to the X-7 rewind speed being 144IPS.[4]
 
 ### CPU Assembly Card
 
@@ -61,4 +61,4 @@ The Light Driver Card controlled the lights of the stage and functioned exactly 
 
 ### Valve Bank Card (06-0006)
 
-The Valve Bank Card is a card external to the Cyberamic Control System that would manage the airflow of valves in a {{< wiki-link "Cyberamics" >}} character, usually placed at the character's base. Each card was connected to a Character Drive Card.
+The Valve Bank Card is a card external to the Cyberamic Control System that would manage the airflow of valves in a [Cyberamics] character, usually placed at the character's base. Each card was connected to a Character Drive Card.

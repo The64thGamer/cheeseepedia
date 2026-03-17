@@ -13,7 +13,7 @@ pageThumbnailFile = "BMRvITwdBIGNUqey300b.avif"
 latitudeLongitude = ["37.95886462","-121.7415093"]
 +++
 
-***Brentwood, CA (6061 Lone Tree Way), Store #783*** is a *Chuck E. Cheese* that opened on May 27th, 2007, with a {{< wiki-link "Studio C Beta" >}}, which is currently operating today with their 2.0 refresh which they received in February 2024.
+***Brentwood, CA (6061 Lone Tree Way), Store #783*** is a *Chuck E. Cheese* that opened on May 27th, 2007, with a [Studio C Beta], which is currently operating today with their 2.0 refresh which they received in February 2024.
 
 ## History
 

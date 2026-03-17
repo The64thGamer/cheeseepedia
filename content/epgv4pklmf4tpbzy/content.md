@@ -2,7 +2,7 @@
 
 ## History
 
-During IAAPA 2007, *Funovation*, an attractions company, debuted their newest attraction called the Laser Maze Challenge. This attraction would be described as "just like in the movies, where players pretend they are a jewel thief and must navigate around a web of lasers to break the security system and capture the prized jewel." The attraction would be noticed by CEC Entertainment during early/mid 2014, when it would be purchased and tested at 6 locations: {{< wiki-link "Dallas, TX (13364 Montfort Dr)" >}}, Troy, MI (740 John R Rd), Pasadena, TX (5075 Fairmont Pkwy), {{< wiki-link "Columbus, GA (3201 Macon Rd)" >}}, {{< wiki-link "Hialeah, FL (3805 W 20th Ave)" >}}, and {{< wiki-link "Canton, OH (6370 Strip Ave)" >}}. Eventually, all of the Laser Challenge games would be removed from all locations.
+During IAAPA 2007, *Funovation*, an attractions company, debuted their newest attraction called the Laser Maze Challenge. This attraction would be described as "just like in the movies, where players pretend they are a jewel thief and must navigate around a web of lasers to break the security system and capture the prized jewel." The attraction would be noticed by CEC Entertainment during early/mid 2014, when it would be purchased and tested at 6 locations: [Dallas, TX (13364 Montfort Dr)], Troy, MI (740 John R Rd), Pasadena, TX (5075 Fairmont Pkwy), [Columbus, GA (3201 Macon Rd)], [Hialeah, FL (3805 W 20th Ave)], and [Canton, OH (6370 Strip Ave)]. Eventually, all of the Laser Challenge games would be removed from all locations.
 
 ## Gameplay
 

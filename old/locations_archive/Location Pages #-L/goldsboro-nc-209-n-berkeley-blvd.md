@@ -30,13 +30,13 @@ Goldsboro opened on September 19th, 2003, in the Ashley Plaza with a Small-Town 
 | Stage                                                                                             | Installed      | Removed      | Notes                                                       |
 |---------------------------------------------------------------------------------------------------|----------------|--------------|-------------------------------------------------------------|
 | Small-Town Studio C                                                                               | September 2003 | August 2023  | One of 7 Small Town Studio C V1s installed.                 |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | August 2023    | Still in use | In-floor dance floor installed, located in old kiddie area. |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | August 2023    | Still in use | In-floor dance floor installed, located in old kiddie area. |
 
 ## Animatronics
 
 | Animatronic                                                | Manufacturing date | Status    |
 |------------------------------------------------------------|--------------------|-----------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | 2003\|2003         | Destroyed |
+| [Chuck E Cheese 16m (Animatronic)] | 2003\|2003         | Destroyed |
 
 ## Videos
 

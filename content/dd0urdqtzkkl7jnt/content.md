@@ -1,8 +1,8 @@
-These one of a kind animatronic Birds were created exclusively for the {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}} for use on their {{< wiki-link "Chuck E's House" >}} stage. The manufacturer is unknown.
+These one of a kind animatronic Birds were created exclusively for the [Irving, TX (3903 W Airport Fwy)] for use on their [Chuck E's House] stage. The manufacturer is unknown.
 
 ## Movement Rosetta
 
-These birds repurpose the mouth and spotlight signals used for the {{< wiki-link "Warblettes (Cyberamic)" >}} and {{< wiki-link "Singing Flowers (Cyberamic)" >}}.
+These birds repurpose the mouth and spotlight signals used for the [Warblettes (Cyberamic)] and [Singing Flowers (Cyberamic)].
 
 | Terminal # | Header #2 |
 |------------|-----------|

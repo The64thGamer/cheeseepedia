@@ -22,7 +22,7 @@ Clearview Mall opened sometime in 1981, the space that would become Chuck E. Che
 
 ### CEC (April 2004-March 2016)
 
-Butler opened on April 21st, 2004 in the Clearview Mall (Alongside the still operational {{< wiki-link "Wilkes-Barre Township, PA (2120 Market Place)" >}} location) with the Small Town Studio C &amp; the Cool Chuck outfit. The store would remain completely unremodeled until they closed on March 26th, 2016 after almost 12 years of operation.
+Butler opened on April 21st, 2004 in the Clearview Mall (Alongside the still operational [Wilkes-Barre Township, PA (2120 Market Place)] location) with the Small Town Studio C &amp; the Cool Chuck outfit. The store would remain completely unremodeled until they closed on March 26th, 2016 after almost 12 years of operation.
 
 ### Post CEC (March 2016-Present)
 
@@ -36,7 +36,7 @@ The store opened on April 21st, 2004 with the Small-Town Studio C &amp; the Cool
 
 | Animatronic                                                | Manufacturing Date | Serial Number | Whereabouts |
 |------------------------------------------------------------|--------------------|---------------|-------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | 2004               | N/A           | Unknown.    |
+| [Chuck E Cheese 16m (Animatronic)] | 2004               | N/A           | Unknown.    |
 
 ## Videos
 

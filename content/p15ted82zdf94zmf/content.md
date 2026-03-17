@@ -1,4 +1,4 @@
-Dingo Starr was created for the {{< wiki-link "Wolf Pack 5" >}} show and debuted at the 1978 IAAPA. He is a parody of drummer, Ringo Starr of The Beatles. His mech was later reused for Billy Boy in the {{< wiki-link "Hard Luck Bears" >}}.
+Dingo Starr was created for the [Wolf Pack 5] show and debuted at the 1978 IAAPA. He is a parody of drummer, Ringo Starr of The Beatles. His mech was later reused for Billy Boy in the [Hard Luck Bears].
 
 ## History
 

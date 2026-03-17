@@ -43,8 +43,8 @@ W.I.P
 | Animatronic                                                  | Manufacturing Date | Status                        |
 |--------------------------------------------------------------|--------------------|-------------------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A                | Destroyed.                    |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | N/A                | Destroyed.                    |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | N/A                | Destroyed.                    |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | N/A                | Destroyed.                    |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | N/A                | Destroyed.                    |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1991               | Owned by a Private Collector. |
+| [Guest Star Helen Henny (Cyberamic)] | N/A                | Destroyed.                    |
+| [Mr Munch (Cyberamic)]               | N/A                | Destroyed.                    |
+| [Jasper T Jowls (Cyberamic)]         | N/A                | Destroyed.                    |
+| [Pasqually (Cyberamic)]              | N/A                | Destroyed.                    |
+| [Wink (Cyberamic)]                   | 1991               | Owned by a Private Collector. |

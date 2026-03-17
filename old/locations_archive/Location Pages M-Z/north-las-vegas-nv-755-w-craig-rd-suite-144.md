@@ -11,7 +11,7 @@ pageThumbnailFile = "S3PCmbssDjvltzkj2ao_.avif"
 latitudeLongitude = ["36.23663257","-115.1532147"]
 +++
 ***755 W. Craig Rd Suite 144, Store #208* is a *Chuck E. Cheese* located in North Las Vegas inside the Revere Marketplace that opened on January 19th, 2024, and is open to this day.
-This is not to be confused with the {{< wiki-link "North Las Vegas, NV (2520 E Lake Mead Blvd)" >}} Pizza Time Theatre that opened in October 1982 and closed sometime in 1984 with a {{< wiki-link "Cyberamics Balcony Stage" >}} as it was 17 minutes away.**
+This is not to be confused with the [North Las Vegas, NV (2520 E Lake Mead Blvd)] Pizza Time Theatre that opened in October 1982 and closed sometime in 1984 with a [Cyberamics Balcony Stage] as it was 17 minutes away.**
 
 ## History
 

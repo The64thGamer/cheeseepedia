@@ -16,7 +16,7 @@ latitudeLongitude = ["41.69736097","-83.64783563"]
 
 ## History
 
-Toledo on Monroe opened on September 6th, 1993 along with the {{< wiki-link "Toledo, OH (5455 Airport Hwy)" >}} location with the 1-Stage. The store would then received the 2005 Remodel in around 2006-2007 which included the removal of the Record Posters, Showroom Walls, &amp; Dim Lighting. In around 2010-2011, the store expanded their gameroom, adding even more games. The store would then remain this way until they remodeled to 2.0 in around Late August 2021.
+Toledo on Monroe opened on September 6th, 1993 along with the [Toledo, OH (5455 Airport Hwy)] location with the 1-Stage. The store would then received the 2005 Remodel in around 2006-2007 which included the removal of the Record Posters, Showroom Walls, &amp; Dim Lighting. In around 2010-2011, the store expanded their gameroom, adding even more games. The store would then remain this way until they remodeled to 2.0 in around Late August 2021.
 
 ## Stages
 
@@ -24,8 +24,8 @@ W.I.P: Stage History
 
 | Stage                                                                   | Installed      | Removed        | Notes                                   |
 |-------------------------------------------------------------------------|----------------|----------------|-----------------------------------------|
-| {{< wiki-link "1-Stage" >}}                                       | September 1993 | September 2021 | One of Seven 1-Stages installed in Ohio |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + Video Wall | September 2021 | Still In Use   | First 2021 Model in Ohio                |
+| [1-Stage]                                       | September 1993 | September 2021 | One of Seven 1-Stages installed in Ohio |
+| [Chuck E Live Stage (Dance Floor)] + Video Wall | September 2021 | Still In Use   | First 2021 Model in Ohio                |
 
 W.I.P
 

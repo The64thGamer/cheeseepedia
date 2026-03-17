@@ -45,8 +45,8 @@ According to the debut article in 1983, there were 53 placed into locations. The
 | Location                                                        | Opening / Installation Date | Removal Date      |
 |-----------------------------------------------------------------|-----------------------------|-------------------|
 | Las Vegas, NV (4750 Vegas Dr)                                   | May 16, 1982                | 1985              |
-| {{< wiki-link "Abilene, TX (4220 N 1st St)" >}}           | 1982                        | 1984              |
+| [Abilene, TX (4220 N 1st St)]           | 1982                        | 1984              |
 | Lawton, OK (1048 NW 38th St)                                    | 1982                        | 1984              |
 | Shreveport, LA (1724 E 70th St)                                 | August 2, 1982              | May 3, 1987       |
-| {{< wiki-link "Tallahassee, FL (1155 Apalachee Pkwy)" >}} | August 8, 1982              | November 18, 1984 |
-| {{< wiki-link "Phoenix, AZ (4310 W Thomas Rd)" >}}        | 1983                        | 1985              |
+| [Tallahassee, FL (1155 Apalachee Pkwy)] | August 8, 1982              | November 18, 1984 |
+| [Phoenix, AZ (4310 W Thomas Rd)]        | 1983                        | 1985              |

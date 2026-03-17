@@ -13,11 +13,11 @@ pageThumbnailFile = "2UjB9YVefghEKryhQnba.avif"
 latitudeLongitude = ["33.93900302","-117.9344119"]
 +++
 
-***901 Harbor Blvd*** (now ***1111 S. Harbor Blvd***) was a *Chuck E. Cheese's Pizza Time Theatre* that opened in May 1980 and closed in December 1984 with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}.https://www.newspapers.com/article/the-los-angeles-times-california-ptt-sal/32792267/ This was the 10th CEC ever opened.
+***901 Harbor Blvd*** (now ***1111 S. Harbor Blvd***) was a *Chuck E. Cheese's Pizza Time Theatre* that opened in May 1980 and closed in December 1984 with a [Cyberamics Portrait Shelf Stage].https://www.newspapers.com/article/the-los-angeles-times-california-ptt-sal/32792267/ This was the 10th CEC ever opened.
 
 ## Stage
 
-La Habra opened with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}. However, further documentation is unknown.
+La Habra opened with a [Cyberamics Portrait Shelf Stage]. However, further documentation is unknown.
 
 ## History
 
@@ -25,22 +25,22 @@ Pizza Time Theatre would announce in December of 1979 a La Habra store opening i
 
 ### Opening
 
-La Habra opened in May of 1980 with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}, and was the 10th PTT to open.(3)(1) By May of 1981 La Habra would join with the Huntington Beach, Fullerton, and Garden Grove stores for two sports promotions. One would be sponsoring alongside the Long Beach store the California Surfs soccer team's MVP award, and the other was hosting a softball league called the 'Pizza Leagues'. La Habra's team would be the champions of the league.(5)
+La Habra opened in May of 1980 with a [Cyberamics Portrait Shelf Stage], and was the 10th PTT to open.(3)(1) By May of 1981 La Habra would join with the Huntington Beach, Fullerton, and Garden Grove stores for two sports promotions. One would be sponsoring alongside the Long Beach store the California Surfs soccer team's MVP award, and the other was hosting a softball league called the 'Pizza Leagues'. La Habra's team would be the champions of the league.(5)
 
 ### Closing
 
-On October 21, 1984, the store would be selected to be auctioned off as part of {{< wiki-link "Pizza Time Theatre" >}} bankruptcy.(6) Its lease would be auctioned on November 27th along with 58 other locations, though it is unknown if it was purchased on that day.(7) By December 2nd a separate auction company would announce an auction to clear out all animatronics, kitchen equipment, arcades, and other items in the store. The auction would take place on December 11th.(8)(0) It is unknown what the location would become after the auction, though by November of 2008 it would be a Yang Ming Marine Transport location, and by November 2012 the location would be demolished and rebuilt as a CVS Health. It is unknown if the 2008 building was the original Pizza Time Theatre building or if it had gone through demolitions or expansions during the decades.
+On October 21, 1984, the store would be selected to be auctioned off as part of [Pizza Time Theatre] bankruptcy.(6) Its lease would be auctioned on November 27th along with 58 other locations, though it is unknown if it was purchased on that day.(7) By December 2nd a separate auction company would announce an auction to clear out all animatronics, kitchen equipment, arcades, and other items in the store. The auction would take place on December 11th.(8)(0) It is unknown what the location would become after the auction, though by November of 2008 it would be a Yang Ming Marine Transport location, and by November 2012 the location would be demolished and rebuilt as a CVS Health. It is unknown if the 2008 building was the original Pizza Time Theatre building or if it had gone through demolitions or expansions during the decades.
 
 ## Animatronics
 
 | Animatronic                                                  | Serial Number | Whereabouts |
 |--------------------------------------------------------------|---------------|-------------|
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown       | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown       | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown       | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown       | Unknown     |
 | Chuck E Cheese (Cyberamic)                                   | Unknown       | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown       | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown       | Unknown     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown       | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown       | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown       | Unknown     |
 | Waving Flags (Cyberamic)                                     | Unknown       | Unknown     |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown       | Unknown     |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown       | Unknown     |
+| [Applause Board (Cyberamic)]         | Unknown       | Unknown     |
+| [Drum Board (Cyberamic)]             | Unknown       | Unknown     |

@@ -1,4 +1,4 @@
-The ***Chuck E. Cheese Nutritional Poster*** was a poster displayed in all {{< wiki-link "Pizza Time Theatre" >}} restaurants starting some time in 1981.(1) The piece discusses the nutritional value of the {{< wiki-link "Big C's Combo (PTT Menu Item)" >}} pizza.
+The ***Chuck E. Cheese Nutritional Poster*** was a poster displayed in all [Pizza Time Theatre] restaurants starting some time in 1981.(1) The piece discusses the nutritional value of the [Big C's Combo (PTT Menu Item)] pizza.
 
 ## History
 

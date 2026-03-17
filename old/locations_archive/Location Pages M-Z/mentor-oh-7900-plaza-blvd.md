@@ -10,7 +10,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
 
-**Mentor, OH (7900 Plaza Blvd)** was a Pizza Time Theatre which opened in June 1982 with a {{< wiki-link "Cyberamics Balcony Stage" >}}. It should not be confused with {{< wiki-link "Mentor, OH (8000 Plaza Blvd)" >}}, which is the current Chuck E. Cheese's location that opened on July 20th, 1998 with a 1-Stage and is still open to this day. This location, alongside Akron,{{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}, Boardman, and another unknown store would be previewed in a video showcasing the 1986 SPT Remodel Program benefits. Mentor would eventually become one of 5 Pizza Time Theatres to be rebranded as Marc's Funtime Pizza Palace. It was located in the Erie Commons Shopping Mall.
+**Mentor, OH (7900 Plaza Blvd)** was a Pizza Time Theatre which opened in June 1982 with a [Cyberamics Balcony Stage]. It should not be confused with [Mentor, OH (8000 Plaza Blvd)], which is the current Chuck E. Cheese's location that opened on July 20th, 1998 with a 1-Stage and is still open to this day. This location, alongside Akron,[Huntington Beach, CA (15511 Edwards St)], Boardman, and another unknown store would be previewed in a video showcasing the 1986 SPT Remodel Program benefits. Mentor would eventually become one of 5 Pizza Time Theatres to be rebranded as Marc's Funtime Pizza Palace. It was located in the Erie Commons Shopping Mall.
 
 ## History
 
@@ -27,10 +27,10 @@ In December 1991, Marc Glassman, owner of the Marc's grocery chain, purchased th
 | Animatronic                                                  | Whereabouts                   |
 |--------------------------------------------------------------|-------------------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Retrofitted in 1991.          |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Retrofitted in 1991.          |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Retrofitted in 1991.          |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Retrofitted in 1991.          |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Retrofitted in 1991.          |
+| [Guest Star Helen Henny (Cyberamic)] | Retrofitted in 1991.          |
+| [Mr Munch (Cyberamic)]               | Retrofitted in 1991.          |
+| [Jasper T Jowls (Cyberamic)]         | Retrofitted in 1991.          |
+| [Pasqually (Cyberamic)]              | Retrofitted in 1991.          |
 | The King                                                     | Unknown.                      |
 | Dolli Dimples                                                | Unknown.                      |
 | Marc (Chuck E. Cheese Retrofit)                              | Owned by a private collector. |

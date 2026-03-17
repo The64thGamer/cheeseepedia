@@ -52,6 +52,6 @@
 
 - The backdrop for the Studio C puppets goes back to how it looked during the 2000s. The backdrop colors are as follows: Pasqually is red, Helen is green, Jasper is blue and Munch is orange.
 - The show logo is reused from April 2005.
-- This show features the first new episode of Helen Henny's Hollywood since {{< wiki-link "Physical Fitness" >}}, and the first new episode of Baking with Betty since the {{< wiki-link "Chuck E. Cheese April 2004 Show" >}}.
+- This show features the first new episode of Helen Henny's Hollywood since [Physical Fitness], and the first new episode of Baking with Betty since the [Chuck E. Cheese April 2004 Show].
 - The hidden timecode video for Studio C is a clip from 'Kitten in the Kitchen Wearing Mittens'
 - This is the first show to feature Nigel the Sasquatch in puppet form. Previously, he was portrayed in live-action.

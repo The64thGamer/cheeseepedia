@@ -1,4 +1,4 @@
-**Orientation Studio C Skits** was released in November 2007. These were included as apart of the 11/07 {{< wiki-link "Chuck E. Cheese Orientation Video 2007" >}}. 
+**Orientation Studio C Skits** was released in November 2007. These were included as apart of the 11/07 [Chuck E. Cheese Orientation Video 2007]. 
 
 **Studio C Skits**
 1. Skit 1

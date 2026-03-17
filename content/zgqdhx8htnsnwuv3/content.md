@@ -1,4 +1,4 @@
-***Chuck E. Cheese Northridge Grand Re-Opening Show*** was released on November 10, 2023, to play exclusively for {{< wiki-link "2023 Northridge Grand Reopening Party" >}} event. The show features a variety of songs released from 2014-2023.
+***Chuck E. Cheese Northridge Grand Re-Opening Show*** was released on November 10, 2023, to play exclusively for [2023 Northridge Grand Reopening Party] event. The show features a variety of songs released from 2014-2023.
 This show features no intermissions and would play six segments on repeat from around 5:30 - Closing.
 
 ## Show List
@@ -48,5 +48,5 @@ This show features no intermissions and would play six segments on repeat from a
 
 ## Trivia
 
-- This would be the first showtape to have curtains officially programmed since the {{< wiki-link "September 2005 Show" >}}.
+- This would be the first showtape to have curtains officially programmed since the [September 2005 Show].
 - At 7:50pm a countdown started reading 'Show Starts In' with a 10 minute countdown. Once finished playing, Together We've Got It 2017 would play.

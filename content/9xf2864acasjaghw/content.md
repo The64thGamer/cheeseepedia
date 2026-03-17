@@ -1,4 +1,4 @@
-***Chuck E. Cheese Throwback Thursday Show*** was released on July 18, 2024, to play exclusively for the Throwback Thursday at {{< wiki-link "Nanuet, NY (250 West Route 59)" >}}. 
+***Chuck E. Cheese Throwback Thursday Show*** was released on July 18, 2024, to play exclusively for the Throwback Thursday at [Nanuet, NY (250 West Route 59)]. 
 
 ## Show List 01/04 Update:
 1. **Intermission 1**
@@ -332,9 +332,9 @@ NOTE: The standard live shows apart of the main show are still available at Nanu
 4. 01/04 Update - Reverted back to 01/06/25 Update.
 
 
-- This show briefly played at {{< wiki-link "Kansas City, MO (8809 State Line Rd))" >}} from July 2025 till August 2025 with the introduction of {{< wiki-link "Chuck E. Cheese Throwback Show" >}} 
-- *Jolly Old Saint Nicholas*, *We Wish You A Merry Christmas*, and *Up On The Housetop* is from {{< wiki-link "Holiday 2002" >}}, *Dreidel Song* is from {{< wiki-link "Chuck E's Holiday Party 1999" >}}
-- *Chuck E.'s Place* is from the {{< wiki-link "January 2004 Show" >}}, *Jump* is from the {{< wiki-link "September 2000 Show" >}}, *The Muffin Man* is from {{< wiki-link "Just for Kids Show 2000" >}}, *Humpty Dumpty* is from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}, *That's A Deal* is from the {{< wiki-link "April 2002 Show" >}}, *What Up* is from the {{< wiki-link "September 2004" >}}, *I Love the Sunshine* is from the {{< wiki-link "Summer 2007 Show" >}}, *CEC Chuck E. Cheese* is from the {{< wiki-link "April 2002 Show" >}}, *Opposite Day* and *Colors* are from the {{< wiki-link "CEC TV April 2005 Show" >}}, and *No Other Place* is from the {{< wiki-link "September 2000 Show" >}}.
+- This show briefly played at [Kansas City, MO (8809 State Line Rd))] from July 2025 till August 2025 with the introduction of [Chuck E. Cheese Throwback Show] 
+- *Jolly Old Saint Nicholas*, *We Wish You A Merry Christmas*, and *Up On The Housetop* is from [Holiday 2002], *Dreidel Song* is from [Chuck E's Holiday Party 1999]
+- *Chuck E.'s Place* is from the [January 2004 Show], *Jump* is from the [September 2000 Show], *The Muffin Man* is from [Just for Kids Show 2000], *Humpty Dumpty* is from [Chuck E's Rockin' Rhymes], *That's A Deal* is from the [April 2002 Show], *What Up* is from the [September 2004], *I Love the Sunshine* is from the [Summer 2007 Show], *CEC Chuck E. Cheese* is from the [April 2002 Show], *Opposite Day* and *Colors* are from the [CEC TV April 2005 Show], and *No Other Place* is from the [September 2000 Show].
 - The only 2010s-era song or segment featured in this show is the live show *Me & My Friends*.
-- Before {{< wiki-link "Birthday Star 2001" >}}, Havin' A Party 01, and If You're Happy and You Know It, a portion of the Birthday Break from {{< wiki-link "January 2001 Show" >}} plays.
+- Before [Birthday Star 2001], Havin' A Party 01, and If You're Happy and You Know It, a portion of the Birthday Break from [January 2001 Show] plays.
 - Despite all of the songs being programmed in their respective shows, this show has no programming for Studio C, with the animatronic being set to random movements at all times.

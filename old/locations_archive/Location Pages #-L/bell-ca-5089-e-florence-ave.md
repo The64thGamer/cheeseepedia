@@ -25,27 +25,27 @@ Bell opened with the Balcony Stage in 1982. Fortunately, there are a lot of phot
 
 | Stage                                                                                             | Installed    | Removed      | Notes                                                                                                                                       |
 |---------------------------------------------------------------------------------------------------|--------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}}                                                | 1982         | 1989/1990    | One of many in Caifornia.                                                                                                                   |
-| {{< wiki-link "Chuck E's House Facade" >}}                                                  | 1989/1990    | 1993/1994    | One of many in Caifornia. Looked identical to the one installed at the {{< wiki-link "Torrance, CA (16920 Prairie Ave)" >}} location. |
-| {{< wiki-link "2-Stage" >}}                                                                 | 1993/1994    | October 2023 | One of many installed in California.                                                                                                        |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | October 2023 | Still in Use | One of many installed in California.                                                                                                        |
+| [Cyberamics Balcony Stage]                                                | 1982         | 1989/1990    | One of many in Caifornia.                                                                                                                   |
+| [Chuck E's House Facade]                                                  | 1989/1990    | 1993/1994    | One of many in Caifornia. Looked identical to the one installed at the [Torrance, CA (16920 Prairie Ave)] location. |
+| [2-Stage]                                                                 | 1993/1994    | October 2023 | One of many installed in California.                                                                                                        |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | October 2023 | Still in Use | One of many installed in California.                                                                                                        |
 
 ## Animatronics
 
 | Character                                                    | Manufacturing Date | Status   |
 |--------------------------------------------------------------|--------------------|----------|
 | Chuck E Cheese (Cyberamic)                                   | 1981/1982          | Unknown. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1981/1982          | Unknown. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1981/1982          | Unknown. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1981/1982          | Unknown. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1981/1982          | Unknown. |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | 1981/1982          | Unknown. |
+| [Guest Star Helen Henny (Cyberamic)] | 1981/1982          | Unknown. |
+| [Mr Munch (Cyberamic)]               | 1981/1982          | Unknown. |
+| [Jasper T Jowls (Cyberamic)]         | 1981/1982          | Unknown. |
+| [Pasqually (Cyberamic)]              | 1981/1982          | Unknown. |
+| [Warblettes (Cyberamic)]             | 1981/1982          | Unknown. |
 | Waving Flags (Cyberamic)                                     | 1981/1982          | Unknown. |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | 1981/1982          | Unknown. |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | 1981/1982          | Unknown. |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | 1981/1982          | Unknown. |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | 1981/1982          | Unknown. |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1981/1982          | Unknown. |
+| [Applause Board (Cyberamic)]         | 1981/1982          | Unknown. |
+| [Drum Board (Cyberamic)]             | 1981/1982          | Unknown. |
+| [Singing Flowers (Cyberamic)]        | 1981/1982          | Unknown. |
+| [The King King Kat (Lounge)]         | 1981/1982          | Unknown. |
+| [Wink (Cyberamic)]                   | 1981/1982          | Unknown. |
 
 [2007](https://www.showbizpizza.com/photos/cec/ca_bell/index.html)
 
@@ -57,8 +57,8 @@ Bell opened with the Balcony Stage in 1982. Fortunately, there are a lot of phot
 | [Link](https://youtu.be/_i0gRzT2Gbc?t=48)           | A video showcasing the store, games, and 2-Stage back in 2002                                                          | 2002             | March 9, 2022  |
 | [Link](https://youtu.be/qNP3CkRCA0s)                | A video of the store during Cheesevention III in May 2007 before the 2005 Update.                                      | May 2007         | May 23, 2021   |
 | [Link](https://youtu.be/Qmz1-wslFl4)                | A tour of the Showroom back in 2012                                                                                    | March 31, 2012   | April 1, 2012  |
-| [Link](https://youtu.be/f0cYFDLM2fw)                | 'Jack and Jill' from {{< wiki-link "January 2012 Show" >}} being performed on Bell's 2-Stage.                    | March 31, 2012   | April 5, 2012  |
-| [Link](https://youtu.be/INt8JArHcvg)                | 'Because We're Friends' from the {{< wiki-link "Fall 2014 Show" >}} being performed on Bell's 2-Stage.           | May 18, 2015     | May 23, 2015   |
-| [Link](https://youtu.be/7_LcGz23bs4)                | 'Keep Drummin' from {{< wiki-link "Chuck E Cheese's Show 1 2016" >}} being performed on Bell's 2-Stage           | January 17, 2022 | April 14, 2023 |
-| [Link](https://youtu.be/nAXNtGiYA5w)                | 'Chuck E.'s Middle Name' from {{< wiki-link "Chuck E Cheese's Show 2 2021" >}} being performed on Bell's 2-Stage | January 17, 2022 | April 15, 2023 |
+| [Link](https://youtu.be/f0cYFDLM2fw)                | 'Jack and Jill' from [January 2012 Show] being performed on Bell's 2-Stage.                    | March 31, 2012   | April 5, 2012  |
+| [Link](https://youtu.be/INt8JArHcvg)                | 'Because We're Friends' from the [Fall 2014 Show] being performed on Bell's 2-Stage.           | May 18, 2015     | May 23, 2015   |
+| [Link](https://youtu.be/7_LcGz23bs4)                | 'Keep Drummin' from [Chuck E Cheese's Show 1 2016] being performed on Bell's 2-Stage           | January 17, 2022 | April 14, 2023 |
+| [Link](https://youtu.be/nAXNtGiYA5w)                | 'Chuck E.'s Middle Name' from [Chuck E Cheese's Show 2 2021] being performed on Bell's 2-Stage | January 17, 2022 | April 15, 2023 |
 | [Link](https://youtu.be/92VOy_kPr2w)                | A store tour of Bell in 2022                                                                                           | Aug 16, 2022     | Aug 16, 2022   |

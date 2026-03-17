@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["33.18508352","-97.10783383"]
 +++
 
-**2307 I-35E** was a Pizza Time Theatre that opened in 1983 with a Balcony Stage, which closed in 1984 due to the company's bankruptcy. This location has very little known history about it, only a little bit of advertising has been found. It should not be confused with {{< wiki-link "Denton, TX (341 South I-35)" >}}, which is the current Chuck E. Cheese's location.
+**2307 I-35E** was a Pizza Time Theatre that opened in 1983 with a Balcony Stage, which closed in 1984 due to the company's bankruptcy. This location has very little known history about it, only a little bit of advertising has been found. It should not be confused with [Denton, TX (341 South I-35)], which is the current Chuck E. Cheese's location.
 
 ## History
 
@@ -31,9 +31,9 @@ The location would open with a Balcony Stage. It is unknown what features this b
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Unknown     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown     |
 | The King (Cyberamic)                                         | Unknown            | Unknown     |

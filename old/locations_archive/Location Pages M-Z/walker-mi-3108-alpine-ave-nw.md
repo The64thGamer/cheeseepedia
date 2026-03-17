@@ -13,7 +13,7 @@ pageThumbnailFile = "lZIx_to_ZQR8IOk51kHv.avif"
 latitudeLongitude = ["43.01822807","-85.68784048"]
 +++
 
-***3108 Alpine Ave NW, Store #828*** is a was a *Chuck E. Cheese's* that opened on September 9, 2002 with a {{< wiki-link "Studio C Beta" >}}, which is still open to this day. This location is the relocation of the {{< wiki-link "Walker, MI (3175 Alpine Ave NW)" >}} location which opened October 26, 1982 with a {{< wiki-link "Classic Stage" >}} and closed in 2002 with a {{< wiki-link "Concept Unification Stage" >}}.
+***3108 Alpine Ave NW, Store #828*** is a was a *Chuck E. Cheese's* that opened on September 9, 2002 with a [Studio C Beta], which is still open to this day. This location is the relocation of the [Walker, MI (3175 Alpine Ave NW)] location which opened October 26, 1982 with a [Classic Stage] and closed in 2002 with a [Concept Unification Stage].
 
 ## History
 
@@ -25,14 +25,14 @@ This location opened with a Studio C Beta, the newest stage show for Chuck E. Ch
 
 | Stage                                                      | Installed      | Removed      | Note                                                                                                                                |
 |------------------------------------------------------------|----------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Studio C Beta" >}}                    | September 2002 | 2018         | One of 2 Studio C Beta 32Ms installed in Michigan (The other being Novi, MI (44275 Twelve Mile Rd)\|Novi, MI which got 2.0 in 2022) |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | 2018           | Still In Use | 2017 Model. One of first two 2.0s in Michigan                                                                                       |
+| [Studio C Beta]                    | September 2002 | 2018         | One of 2 Studio C Beta 32Ms installed in Michigan (The other being Novi, MI (44275 Twelve Mile Rd)\|Novi, MI which got 2.0 in 2022) |
+| [Chuck E Live Stage (Dance Floor)] | 2018           | Still In Use | 2017 Model. One of first two 2.0s in Michigan                                                                                       |
 
 ## Animatronics
 
 | Animatronic                                                | Serial  | Whereabouts                                                                                    |
 |------------------------------------------------------------|---------|------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | Unknown | Head sent to {{< wiki-link "Mays Landing, NJ (4215 Black Horse Pike)" >}}; Now destroyed |
+| [Chuck E Cheese 32m (Animatronic)] | Unknown | Head sent to [Mays Landing, NJ (4215 Black Horse Pike)]; Now destroyed |
 
 ## Videos
 

@@ -1,9 +1,9 @@
-The ***2023 Piñata Smashlings CEC Promo Campaign*** (AKA ***Chuck E. Cheese Enters The Piñataverse***) was an in-store and Roblox game event lasting from October 5th - December 31, 2023.{{< cite 1 >}}
-The partnership was between CEC and ***Toikido*, creators of Piñata Smashlings.{{ cite 7 }}
+The ***2023 Piñata Smashlings CEC Promo Campaign*** (AKA ***Chuck E. Cheese Enters The Piñataverse***) was an in-store and Roblox game event lasting from October 5th - December 31, 2023.[1]
+The partnership was between CEC and ***Toikido*, creators of Piñata Smashlings.[7]
 
 ## Roblox Event
 
-Starting October 7th of 2023, the Piñata Smashlings Roblox Experience added a new area to its map called 'Chuck E. Cheese's Fun Fair', an outdoor theme-park themed area. Its main function is for users to spin a prize wheel to obtain exclusive CEC items in-game, alongside Roblox UGC items that can work in any Roblox Experience.{{< cite 2 >}}{{< cite 3 >}}{{< cite 6 >}}
+Starting October 7th of 2023, the Piñata Smashlings Roblox Experience added a new area to its map called 'Chuck E. Cheese's Fun Fair', an outdoor theme-park themed area. Its main function is for users to spin a prize wheel to obtain exclusive CEC items in-game, alongside Roblox UGC items that can work in any Roblox Experience.[2][3][6]
 
 ### Ticket Earning
 
@@ -51,9 +51,9 @@ All of the In-game Smashlings won at the prize wheel function exactly like stand
 
 ## CEC In-Store Event
 
-The current plans for the in-store event haven't been announced in detail. It is claimed there will be '...a range of exciting events, including product sampling weekends and an opportunity for fans to design their own Piñata Smashlings character.' Both product samplings have dates, but it is unknown when the character design portion of the event will take place.{{< cite 1 >}}
+The current plans for the in-store event haven't been announced in detail. It is claimed there will be '...a range of exciting events, including product sampling weekends and an opportunity for fans to design their own Piñata Smashlings character.' Both product samplings have dates, but it is unknown when the character design portion of the event will take place.[1]
 
 ### Product Samplings
 
-On October 21, participating CEC Stores will give away 100,000 Piñata Smashlings collectible figurines with one per child.{{< cite 4 >}}
-From November 11-12, the Piñata Smashlings CEC Starter Pack (2023)|Piñata Smashlings CEC Starter Pack will be available at participating locations. This pack is known to include Chuck E. Cheese as card #6.{{< cite 5 >}}
+On October 21, participating CEC Stores will give away 100,000 Piñata Smashlings collectible figurines with one per child.[4]
+From November 11-12, the Piñata Smashlings CEC Starter Pack (2023)|Piñata Smashlings CEC Starter Pack will be available at participating locations. This pack is known to include Chuck E. Cheese as card #6.[5]

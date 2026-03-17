@@ -12,11 +12,11 @@ citations = ["<a href=\"https://taxcama.dconc.gov/camapwa/PropertySummary.aspx?P
 latitudeLongitude = ["35.96749237","-78.95366668"]
 +++
 
-***3724 Mayfair St, Store #380*** is a Chuck E. Cheese location in Durham, North Carolina. The store opened on March 7, 1994, with a {{< wiki-link "1-Stage" >}}. It is the last Mini Unit variant of the 1-stage, and also the last location to have a full exterior with original 90s checkers. It is also the last CEC location in the [Triangle](https://en.wikipedia.org/wiki/Research_Triangle) to have animatronics, after the {{< wiki-link "Raleigh, NC (3501-131 Capital Blvd)" >}} location in Raleigh removed their {{< wiki-link "Concept Unification Stage" >}} for the {{< wiki-link "CEC 2.0 Remodel Program" >}} on August 31, 2022.
+***3724 Mayfair St, Store #380*** is a Chuck E. Cheese location in Durham, North Carolina. The store opened on March 7, 1994, with a [1-Stage]. It is the last Mini Unit variant of the 1-stage, and also the last location to have a full exterior with original 90s checkers. It is also the last CEC location in the [Triangle](https://en.wikipedia.org/wiki/Research_Triangle) to have animatronics, after the [Raleigh, NC (3501-131 Capital Blvd)] location in Raleigh removed their [Concept Unification Stage] for the [CEC 2.0 Remodel Program] on August 31, 2022.
 
 ## History
 
-Durham opened on March 7, 1994, as one of two North Carolina locations with a Cyberamic Munch's Make-Believe Band Stage (the other was {{< wiki-link "Charlotte, NC (5612 Albemarle Rd)" >}} which opened in November 1991 with a Road Stage). They opened with the now unique prototype version of the 1-Stage called the Mini Unit, which is smaller than the average 1-Stage, and has a unique ceiling valance, only installed in {{< wiki-link "Waldorf, MD (2928 Festival Way)" >}} {{< wiki-link "Columbus, OH (3631 Soldano Blvd)" >}} {{< wiki-link "Lancaster, CA (44650 Valley Central Way)" >}} {{< wiki-link "El Paso, TX (710 Sunland Park Dr)" >}} between 1992 and 1994 as a test stage for smaller stores. Durham is the last Cyberamic show in the Carolinas, and the entire Southeast region as a whole.
+Durham opened on March 7, 1994, as one of two North Carolina locations with a Cyberamic Munch's Make-Believe Band Stage (the other was [Charlotte, NC (5612 Albemarle Rd)] which opened in November 1991 with a Road Stage). They opened with the now unique prototype version of the 1-Stage called the Mini Unit, which is smaller than the average 1-Stage, and has a unique ceiling valance, only installed in [Waldorf, MD (2928 Festival Way)] [Columbus, OH (3631 Soldano Blvd)] [Lancaster, CA (44650 Valley Central Way)] [El Paso, TX (710 Sunland Park Dr)] between 1992 and 1994 as a test stage for smaller stores. Durham is the last Cyberamic show in the Carolinas, and the entire Southeast region as a whole.
 
 ### Opening
 
@@ -24,11 +24,11 @@ Due to advertisements using the March 2nd date less than 10 days until the store
 
 ### 1990s
 
-Durham would open up with the {{< wiki-link "SPT 1990's Remodel Program" >}}, which was the standard for the time. Inside, the store would have the standard 90s decor, such as the CD Award parody posters, sports magazines, and planters. The store either opened up or received shortly after the {{< wiki-link "Phase 1 (1994)" >}} games package. With the pictures we have, we can tell a good amount of how the store would have looked. It is safe to assume it had a layout nearly identical other later Mini Unit 1-Stage stores, bearing close resemblance to El Paso before expansion.(2) In the later half of 1994, the store would receive the sky crawl, (an early version of the Skytubes) with installation plans for it dated from August 1994. In the mid/late 90s, Durham would receive updated signage for the exterior featuring the thumbs-up Chuck art with the star cap and would also receive larger awnings which covered the checkers. In the late 90s, the store would receive the {{< wiki-link "Phase 2 (1997)" >}} games package. At an unknown point after 1998, the main sign above the entrance was switched out with the updated C-cap version for an unknown reason.
+Durham would open up with the [SPT 1990's Remodel Program], which was the standard for the time. Inside, the store would have the standard 90s decor, such as the CD Award parody posters, sports magazines, and planters. The store either opened up or received shortly after the [Phase 1 (1994)] games package. With the pictures we have, we can tell a good amount of how the store would have looked. It is safe to assume it had a layout nearly identical other later Mini Unit 1-Stage stores, bearing close resemblance to El Paso before expansion.(2) In the later half of 1994, the store would receive the sky crawl, (an early version of the Skytubes) with installation plans for it dated from August 1994. In the mid/late 90s, Durham would receive updated signage for the exterior featuring the thumbs-up Chuck art with the star cap and would also receive larger awnings which covered the checkers. In the late 90s, the store would receive the [Phase 2 (1997)] games package. At an unknown point after 1998, the main sign above the entrance was switched out with the updated C-cap version for an unknown reason.
 
 ### 2000s
 
-Durham would stay mostly unchanged in the early 2000s, likely receiving the standard {{< wiki-link "Phase 3 (2000)" >}} games package. This would change in late 2005, most likely September, when the store remodeled to the {{< wiki-link "CEC 2000's Remodel Program" >}}, which included drastically changing the store's layout (moving the prize counter, changing the entrance to be on the side), removal of showroom walls and expanding the showroom area, all major 90s decor pieces, and painting certain walls purple. Surprisingly, they would keep the dim lighting and Coach signage on the exterior. The stage would not change much after the remodel, except by 2008, Chuck's tuxedo and derby would be removed for the full Avenger outfit and cap.
+Durham would stay mostly unchanged in the early 2000s, likely receiving the standard [Phase 3 (2000)] games package. This would change in late 2005, most likely September, when the store remodeled to the [CEC 2000's Remodel Program], which included drastically changing the store's layout (moving the prize counter, changing the entrance to be on the side), removal of showroom walls and expanding the showroom area, all major 90s decor pieces, and painting certain walls purple. Surprisingly, they would keep the dim lighting and Coach signage on the exterior. The stage would not change much after the remodel, except by 2008, Chuck's tuxedo and derby would be removed for the full Avenger outfit and cap.
 
 ### 2010s
 
@@ -50,24 +50,24 @@ Just like nearly all other stores by then, Durham received the new Navori system
 
 | Stage                             | Installed  | Removed      | Notes                                                                                         |
 |-----------------------------------|------------|--------------|-----------------------------------------------------------------------------------------------|
-| {{< wiki-link "1-Stage" >}} | March 1994 | Still in use | Last of five Mini Unit 1-Stages ever installed. Last Cyberamic stage in the Southeast region. |
+| [1-Stage] | March 1994 | Still in use | Last of five Mini Unit 1-Stages ever installed. Last Cyberamic stage in the Southeast region. |
 
 Durham opened up with a Mini Unit 1-Stage, and was the last of its kind, sporting the finalized stage appearance, albeit condensed, with the characters being mere inches away from each other.
 
 | Animatronic                                                  | Serial No. | Whereabouts | Notes                         |
 |--------------------------------------------------------------|------------|-------------|-------------------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 2030       | In-store    | Eyelids are stuck at the top  |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | N/A        | In-store    | Missing eyelids               |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | N/A        | In-store    | Low mouth flows               |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | N/A        | In-store    | Eyelids stay up during shows. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | N/A        | In-store    | Arms barely work              |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | N/A        | In-store    | Operational                   |
+| [Guest Star Helen Henny (Cyberamic)] | N/A        | In-store    | Missing eyelids               |
+| [Mr Munch (Cyberamic)]               | N/A        | In-store    | Low mouth flows               |
+| [Jasper T Jowls (Cyberamic)]         | N/A        | In-store    | Eyelids stay up during shows. |
+| [Pasqually (Cyberamic)]              | N/A        | In-store    | Arms barely work              |
+| [Wink (Cyberamic)]                   | N/A        | In-store    | Operational                   |
 
 ## Arcade Machines
 
 These are most of the games currently at use within the store.
 
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Gum Drop
 - Alley Roller Classic (Skee Ball)
 - Down the Clown
@@ -81,7 +81,7 @@ These are most of the games currently at use within the store.
 - Hammer 2
 - Chuck E. Cheese's Boulder's Dozer's
 - Bop 2 Win
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Pop The Lock
 - Sonic Spinner
 - Crank It!
@@ -109,8 +109,8 @@ These are most of the games currently at use within the store.
 - 'Ambassador of Fun' (CEC Décor)
 - 'Grand Marshal of Games' (CEC Décor)
 - 'Titan of Tokens' (CEC Décor)
-- {{< wiki-link "CEC Warhol - Tri (CEC Décor)" >}}
-- {{< wiki-link "CEC Warhol - Quad (CEC Décor)" >}}
+- [CEC Warhol - Tri (CEC Décor)]
+- [CEC Warhol - Quad (CEC Décor)]
 - Chuck E. (1999 Portrait)
 - 'Friends' (CEC Décor)
 - 'Laughs' (CEC Décor)
@@ -144,7 +144,7 @@ These are most of the games currently at use within the store.
 - Wall Sconce Lights (SPT Décor)
 - Wall Sconce Planters (SPT Décor)
 - Reflective Stars (SPT Décor)
-- {{< wiki-link "Red CEC Tickets (CEC Décor)" >}}
+- [Red CEC Tickets (CEC Décor)]
 - PBS Kids Proud Sponsor (CEC Décor)
 - 'Make Magic' (SPT Décor)
 
@@ -153,7 +153,7 @@ These are most of the games currently at use within the store.
 - Star Cap Round Logo (SPT Signage)
 - Show Room Signs (SPT Signage)
 - Checkers (SPT Signage)
-- {{< wiki-link "Beverages (SPT Signage)" >}}
+- [Beverages (SPT Signage)]
 - Salad Bar (SPT Signage)
 - Gifts &amp; Prizes (SPT Signage)
 
@@ -169,11 +169,11 @@ The only known walkarounds they currently have is the standard Rockstar Chuck co
 
 | Head                                                | Outfits &amp; Suits                                                                      | Accessories                                                                                                       | Whereabouts       | Notes                                                          |
 |-----------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------|----------------------------------------------------------------|
-| Chuck 1993\|Chuck 1993 (Costume Head)               | {{< wiki-link "Chuck Tux 1 93 (Costume Outfit)" >}}, Chuck Long Fur (Costume Suit) | Chuck Long Fur Loose Legs (Costume Accessory), {{< wiki-link "Chuck Long Fur Arms (Costume Accessory)" >}}, | Unknown/Destroyed | First walkaround the store recieved.                           |
-| {{< wiki-link "Chuck 1999 (Costume Head)" >}} | Chuck Tux 98 (Costume Outfit)                                                            | Cool Chuck Hat 1 (Costume Accessory)                                                                              | Unknown/Destroyed | Head may be a conversion of the former head to 1999 standards. |
-| {{< wiki-link "Chuck 2005 (Costume Head)" >}} | {{< wiki-link "Chuck Avenger Attire (Costume Outfit)" >}}                          | Chuck 05 Avenger Shoes (Costume Accessory), Avenger Hat (Costume Accessory)                                       | Unknown/Destroyed |                                                                |
-| {{< wiki-link "Chuck 2010 (Costume Head)" >}} | {{< wiki-link "Chuck Avenger Attire (Costume Outfit)" >}}                          | Chuck Short Fur (Costume Suit)                                                                                    | Unknown/Destroyed | Used up through 2013.                                          |
-| {{< wiki-link "Chuck 2014 (Costume Head)" >}} | Chuck Rockstar Attire 1 (Costume Outfit)                                                 | Chuck Rockstar Shoes (Costume Accessory), Chuck Short Fur Vinyl Gloves (Costume Accessory)                        | In-store          |                                                                |
+| Chuck 1993\|Chuck 1993 (Costume Head)               | [Chuck Tux 1 93 (Costume Outfit)], Chuck Long Fur (Costume Suit) | Chuck Long Fur Loose Legs (Costume Accessory), [Chuck Long Fur Arms (Costume Accessory)], | Unknown/Destroyed | First walkaround the store recieved.                           |
+| [Chuck 1999 (Costume Head)] | Chuck Tux 98 (Costume Outfit)                                                            | Cool Chuck Hat 1 (Costume Accessory)                                                                              | Unknown/Destroyed | Head may be a conversion of the former head to 1999 standards. |
+| [Chuck 2005 (Costume Head)] | [Chuck Avenger Attire (Costume Outfit)]                          | Chuck 05 Avenger Shoes (Costume Accessory), Avenger Hat (Costume Accessory)                                       | Unknown/Destroyed |                                                                |
+| [Chuck 2010 (Costume Head)] | [Chuck Avenger Attire (Costume Outfit)]                          | Chuck Short Fur (Costume Suit)                                                                                    | Unknown/Destroyed | Used up through 2013.                                          |
+| [Chuck 2014 (Costume Head)] | Chuck Rockstar Attire 1 (Costume Outfit)                                                 | Chuck Rockstar Shoes (Costume Accessory), Chuck Short Fur Vinyl Gloves (Costume Accessory)                        | In-store          |                                                                |
 
 ## Videos
 

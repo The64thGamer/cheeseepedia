@@ -15,31 +15,31 @@ categories = ["Pizza Time Theatre"]
 
 ## History
 
-Spokane opened on April 14th, 1983, as part of the center it was in and was franchised. Spokane received the 1986 SPT Remodel Program|1988 Remodel in around 1989/1990 which included the conversion from Balcony Stage to Chuck E.'s House Facade, the removal of PTT decor for newer decor, and the addition of the Blue and White awnings above the salad bar and checkers across and outside the store. Spokane would have Chuck E.'s House Facade until around 1993/1994 when they would receive the 1993 Remodel which involved converting Chuck E.'s House Facade into a {{< wiki-link "2-Stage" >}}, the removal of older decor for newer decor, and the Blue and White awnings removed. In March 2000, the location relocated to {{< wiki-link "Spokane, WA (10007 N Nevada St)" >}} as a decision made by the franchise owners. Currently, as of April 2023, the location is now part of a Walmart.
+Spokane opened on April 14th, 1983, as part of the center it was in and was franchised. Spokane received the 1986 SPT Remodel Program|1988 Remodel in around 1989/1990 which included the conversion from Balcony Stage to Chuck E.'s House Facade, the removal of PTT decor for newer decor, and the addition of the Blue and White awnings above the salad bar and checkers across and outside the store. Spokane would have Chuck E.'s House Facade until around 1993/1994 when they would receive the 1993 Remodel which involved converting Chuck E.'s House Facade into a [2-Stage], the removal of older decor for newer decor, and the Blue and White awnings removed. In March 2000, the location relocated to [Spokane, WA (10007 N Nevada St)] as a decision made by the franchise owners. Currently, as of April 2023, the location is now part of a Walmart.
 
 ## Stages
 
 | Stage                                              | Installed  | Removed    | Notes                                                                                                                                                                                         |
 |----------------------------------------------------|------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | April 1983 | 1989/1990  | Possibly the 8th Pizza Time Theatre to open in Washington State.                                                                                                                              |
-| {{< wiki-link "Chuck E's House Facade" >}}   | 1989/1990  | 1993/1994  | One of three installed in Washington State.                                                                                                                                                   |
-| {{< wiki-link "2-Stage" >}}                  | 1993/1994  | March 2000 | Only one Installed in Washington State. Sent to {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}} to be converted into one of two {{< wiki-link "Cyberamic 3-Stage" >}}. |
+| [Cyberamics Balcony Stage] | April 1983 | 1989/1990  | Possibly the 8th Pizza Time Theatre to open in Washington State.                                                                                                                              |
+| [Chuck E's House Facade]   | 1989/1990  | 1993/1994  | One of three installed in Washington State.                                                                                                                                                   |
+| [2-Stage]                  | 1993/1994  | March 2000 | Only one Installed in Washington State. Sent to [Lynnwood, WA (3717 196th St Suite 100)] to be converted into one of two [Cyberamic 3-Stage]. |
 
 ## Animatronics
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                               |
 |--------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown                                                                                   |
+| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
+| [Mr Munch (Cyberamic)]               | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
+| [Pasqually (Cyberamic)]              | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown                                                                                   |
 | Waving Flags (Cyberamic)                                     | N/A                | Unknown                                                                                   |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown            | Unknown                                                                                   |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown            | Unknown                                                                                   |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | Unknown            | Unknown                                                                                   |
-| {{< wiki-link "Wink" >}}                               | 1993/1994          | Sent to the now closed, {{< wiki-link "Lynnwood, WA (3717 196th St Suite 100)" >}}. |
+| [Applause Board (Cyberamic)]         | Unknown            | Unknown                                                                                   |
+| [Drum Board (Cyberamic)]             | Unknown            | Unknown                                                                                   |
+| [Singing Flowers (Cyberamic)]        | Unknown            | Unknown                                                                                   |
+| [Wink]                               | 1993/1994          | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
 
 TODO
 

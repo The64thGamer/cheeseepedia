@@ -1,4 +1,4 @@
-***12 Shows Special*** (Also known as ***1981 Shows***) was a {{< wiki-link "Rock-afire Explosion" >}} showtape released on October 15th, 1981. The tape follows up exactly from the previous month's {{< wiki-link "7 Shows Special" >}}
+***12 Shows Special*** (Also known as ***1981 Shows***) was a [Rock-afire Explosion] showtape released on October 15th, 1981. The tape follows up exactly from the previous month's [7 Shows Special]
 
 ## Show List
 

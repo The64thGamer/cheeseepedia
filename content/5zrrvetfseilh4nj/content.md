@@ -49,4 +49,4 @@ It is currently unclear if the known segment list is the exact order from the sh
 
 ## Trivia:
 
-This uses the same intermission music as {{< wiki-link "CEC Games" >}} (except for the last two intermissions)
+This uses the same intermission music as [CEC Games] (except for the last two intermissions)

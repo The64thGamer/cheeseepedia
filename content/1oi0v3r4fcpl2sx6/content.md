@@ -2,4 +2,4 @@ The Video Velocitor was a dedicated custom TV for displaying showtape footage in
 
 ## History
 
-The TV would be installed mostly with the {{< wiki-link "SPT 1990's Remodel Program" >}} starting around 1991 into former Pizza Time Theatre's that had a Lounge area. The Velocitor would later be refereced directly in the {{< wiki-link "Don't Stop Thinking About Tomorrow" >}} show in April of 1995. The TVs would last until the 2000's, where the final location to use it was {{< wiki-link "Simi Valley, CA (71 Tierra Rejada Rd)" >}}, which closed in May of 2008.
+The TV would be installed mostly with the [SPT 1990's Remodel Program] starting around 1991 into former Pizza Time Theatre's that had a Lounge area. The Velocitor would later be refereced directly in the [Don't Stop Thinking About Tomorrow] show in April of 1995. The TVs would last until the 2000's, where the final location to use it was [Simi Valley, CA (71 Tierra Rejada Rd)], which closed in May of 2008.

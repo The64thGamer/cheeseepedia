@@ -13,7 +13,7 @@ pageThumbnailFile = "n1vRJk4QeRtsxToGptVd.avif"
 latitudeLongitude = ["32.52851102","-93.70623498"]
 +++
 
-***Bossier City, LA (2001 Airline Dr), Store #215*** was a Chuck E. Cheese's Pizza that opened on November 23, 1992 and closed in May 2013 (day unknown) with a 2-Stage. This location is known for keeping many aspects of the 1988 remodel, like the blue and white awnings, checkers, and neon signage up until 2007. This location relocated to {{< wiki-link "Bossier City, LA (2515 Viking Dr)" >}}, which opened in May 2013 (day unknown) with a Circles of Light, 16M and is still open to this day.
+***Bossier City, LA (2001 Airline Dr), Store #215*** was a Chuck E. Cheese's Pizza that opened on November 23, 1992 and closed in May 2013 (day unknown) with a 2-Stage. This location is known for keeping many aspects of the 1988 remodel, like the blue and white awnings, checkers, and neon signage up until 2007. This location relocated to [Bossier City, LA (2515 Viking Dr)], which opened in May 2013 (day unknown) with a Circles of Light, 16M and is still open to this day.
 
 ## Stages
 

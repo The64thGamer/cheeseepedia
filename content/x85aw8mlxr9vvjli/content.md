@@ -1,4 +1,4 @@
-**CEC Stage Diagnostics 1993** was released in 1993 as a replacement for all older diagnostic material for stores with Cyberamic shows. This video would go on to be rereleased several times up to {{< wiki-link "CEC Stage Diagnostics DVD 2018" >}} with no changes to the contents of the video.
+**CEC Stage Diagnostics 1993** was released in 1993 as a replacement for all older diagnostic material for stores with Cyberamic shows. This video would go on to be rereleased several times up to [CEC Stage Diagnostics DVD 2018] with no changes to the contents of the video.
 
 ## Diagnostics list
 
@@ -87,9 +87,9 @@ Movements for the characters are repeated 15 times. Lights are done once. The tu
   - Gobo Light
   - House Lights Dimmer
 - **Skit Comparison**
-  - {{< wiki-link "Environment '92" >}} Segment 3
+  - [Environment '92] Segment 3
 
 ## Trivia
 
 - The Munch's Make Believe Band sign seen in the video is a unique 'Munch's Party Time Band' sign, which was only installed in the corporate office.
-- This diagnostic tape would be digitized for DVD in 2004, when it would be a part of showtape releases until January 2007, when CEC Stage Diagnostics would be released as its own separate disc. It would be re-released once again in 2018 and would be uploaded to Navori as a digital file starting in 2023 until 2025, with the EPROM upgrade no longer allowing CEC Stage diagnostics as an option. The last store to have the CEC Stage diagnostics was {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}
+- This diagnostic tape would be digitized for DVD in 2004, when it would be a part of showtape releases until January 2007, when CEC Stage Diagnostics would be released as its own separate disc. It would be re-released once again in 2018 and would be uploaded to Navori as a digital file starting in 2023 until 2025, with the EPROM upgrade no longer allowing CEC Stage diagnostics as an option. The last store to have the CEC Stage diagnostics was [Huntington Beach, CA (15511 Edwards St)]

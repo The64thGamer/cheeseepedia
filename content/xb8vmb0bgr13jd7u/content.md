@@ -4,7 +4,7 @@
 
 A tape variant labeled 'Magic Night (Revised)' was released to cut out the dated sections of Segment 8. This
 cut out the entirety of the intro, and reduced the *Michael Jackson Melody* to just the song 'Beat
-It'. It is likely the variant rereleased in October of 1984 is this tape.{{< cite 1 >}}
+It'. It is likely the variant rereleased in October of 1984 is this tape.[1]
 
 ## Part 1-3 Version
 

@@ -57,7 +57,7 @@
 
 ## Production
 
-CEC TV ID - 'Space Kids' was animated by Mike Michalski while working at Radical Axis {{< cite 1 >}}
+CEC TV ID - 'Space Kids' was animated by Mike Michalski while working at Radical Axis [1]
 
 ### File Dates
 
@@ -76,6 +76,6 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 ## Trivia:
 
-- 'That's a Deal' is reused from {{< wiki-link "April 2002 Show" >}} and 'Dreamin'' is reused from {{< wiki-link "Chuck E. Cheese April 2004 Show" >}}.
+- 'That's a Deal' is reused from [April 2002 Show] and 'Dreamin'' is reused from [Chuck E. Cheese April 2004 Show].
 - This is the last showtape to feature new programming for the House Lights.
 - ‘Old MacDonald’ and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.

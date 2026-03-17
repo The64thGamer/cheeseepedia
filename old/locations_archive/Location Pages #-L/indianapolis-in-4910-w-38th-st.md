@@ -17,7 +17,7 @@ latitudeLongitude = ["39.82333372","-86.24404043"]
 
 ## History
 
-4910 W 38th St opened on November 4th, 1981 and had a Rock-Afire Explosion like every other ShowBiz. Around 1991 or 1992, they would receive Concept Unification and receive the Concept Unification decor and a new exterior. In around the Mid 1990's, They would receive either {{< wiki-link "Phase 1 (1994)" >}} or {{< wiki-link "Phase 2 (1997)" >}} which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights. In the late 90's, they received the Phase 3 remodel. It got a new exterior and most of the early 90s decor was removed and the late 90's and 2000's decor and SkyTubes were added. They closed in November 2011 after 30 years in operation due to numerous issues. They were abandoned with the inside gutted for almost 4 years. They became a car dealership named 'Carplex' in 2015. As of January 2023, the Carplex is still there with most Chuck E. Cheese remnants removed.
+4910 W 38th St opened on November 4th, 1981 and had a Rock-Afire Explosion like every other ShowBiz. Around 1991 or 1992, they would receive Concept Unification and receive the Concept Unification decor and a new exterior. In around the Mid 1990's, They would receive either [Phase 1 (1994)] or [Phase 2 (1997)] which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights. In the late 90's, they received the Phase 3 remodel. It got a new exterior and most of the early 90s decor was removed and the late 90's and 2000's decor and SkyTubes were added. They closed in November 2011 after 30 years in operation due to numerous issues. They were abandoned with the inside gutted for almost 4 years. They became a car dealership named 'Carplex' in 2015. As of January 2023, the Carplex is still there with most Chuck E. Cheese remnants removed.
 
 ## Stages
 
@@ -25,25 +25,25 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 
 | Stage                                               | Installed     | Removed       | Notes                                                                                           |
 |-----------------------------------------------------|---------------|---------------|-------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}             | November 1981 | 1991-1992     | 1st ShowBiz Store to open in Indiana.                                                           |
-| {{< wiki-link "Concept Unification Stage" >}} | 1991-1992     | December 2011 | One of 7 ShowBiz stores in Indiana to get Concept Unification. Third to last 3-Stage in Indiana |
+| [Classic Stage]             | November 1981 | 1991-1992     | 1st ShowBiz Store to open in Indiana.                                                           |
+| [Concept Unification Stage] | 1991-1992     | December 2011 | One of 7 ShowBiz stores in Indiana to get Concept Unification. Third to last 3-Stage in Indiana |
 
 ## Animatronics
 
 | Animatronic                                                               | Serial Code | Whereabouts |
 |---------------------------------------------------------------------------|-------------|-------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 4-81 1-7    | Unknown     |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 4-81 2-7    | Unknown     |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 4-81 3-7    | Unknown     |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 4-81 4-7    | Unknown     |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 4-81 5-7    | Unknown     |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 4-81 6-7    | Unknown     |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 4-81 7-7    | Unknown     |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 4-81 8-7    | Unknown     |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 4-81 10-7   | Unknown     |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 4-81 11-7   | Unknown     |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A         | Unknown     |
-| {{< wiki-link "Wink" >}}                                            | N/A         | Unknown     |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-7    | Unknown     |
+| [Dook Larue (Animatronic)]                        | 4-81 2-7    | Unknown     |
+| [Fatz Geronimo (Animatronic)]                     | 4-81 3-7    | Unknown     |
+| [Beach Bear (Animatronic)]                        | 4-81 4-7    | Unknown     |
+| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-7    | Unknown     |
+| [Billy Bob (Animatronic)]                         | 4-81 6-7    | Unknown     |
+| [Looney Bird (Animatronic)]                       | 4-81 7-7    | Unknown     |
+| [Choo Choo (Animatronic)]                         | 4-81 8-7    | Unknown     |
+| [Sun (Animatronic)]                               | 4-81 10-7   | Unknown     |
+| [Moon (Animatronic)]                              | 4-81 11-7   | Unknown     |
+| [Antioch (Animatronic)]                           | N/A         | Unknown     |
+| [Wink]                                            | N/A         | Unknown     |
 
 ## YouTube Videos
 

@@ -1,21 +1,21 @@
-***Winchester Chuck E. Cheese (V1)* was an animatronic created by Harold Goldbrandsen of {{< wiki-link "Fantasy Forest" >}} in 1977 for the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} as an animatronic version of {{< wiki-link "Chuck E. Cheese" >}}.
-The bot was used until Summer 1978, when the bot replaced with {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}}. The bot was sent to The {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, where it remained until 1984.**
+***Winchester Chuck E. Cheese (V1)* was an animatronic created by Harold Goldbrandsen of [Fantasy Forest] in 1977 for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)] as an animatronic version of [Chuck E. Cheese].
+The bot was used until Summer 1978, when the bot replaced with [Winchester Chuck E. Cheese V2 (Animatronic)]. The bot was sent to The [Sunnyvale, CA (1213 Innsbruck Drive)], where it remained until 1984.**
 
 ## History
 
 ### Prototype Bot / Proof Of Concept Bot
 
-Before the V1 bot was made, Harold Goldbrandsen made a {{< wiki-link "Chuck E. Cheese Proof of Concept Prototype (Animatronic)" >}}. The bot was based mostly around the Ricky Rat Walkaround. The bot was very different to the V1 bot, having a more pink muzzle, a pink belly, no suit/vest, no hat, different eyes, & different ears.
+Before the V1 bot was made, Harold Goldbrandsen made a [Chuck E. Cheese Proof of Concept Prototype (Animatronic)]. The bot was based mostly around the Ricky Rat Walkaround. The bot was very different to the V1 bot, having a more pink muzzle, a pink belly, no suit/vest, no hat, different eyes, & different ears.
 
 ### Finalized Bot
 
 #### San Jose, California (370 South, Winchester Boulevard)
 
-The animatronic was finalized by May 1977 & placed in the store. The animatronic was located in the dining area on the right main entrance wall corner (Left of {{< wiki-link "Winchester Crusty the Cat V1 (Animatronic)" >}} & Right of {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}}). The Bot was programmed to the {{< wiki-link "Pizza Time Theatre Showtape" >}}. The bot could be seen in several promotional pictures of the store from May 17th 1977 to August 1977. The bot was later programmed to the {{< wiki-link "Helen Henny Showtape" >}}. The bot's last Showtape to be programmed to was the {{< wiki-link "Madame Oink I" >}} Showtape in February 1978.
+The animatronic was finalized by May 1977 & placed in the store. The animatronic was located in the dining area on the right main entrance wall corner (Left of [Winchester Crusty the Cat V1 (Animatronic)] & Right of [Winchester Jasper T. Jowls (Animatronic)]). The Bot was programmed to the [Pizza Time Theatre Showtape]. The bot could be seen in several promotional pictures of the store from May 17th 1977 to August 1977. The bot was later programmed to the [Helen Henny Showtape]. The bot's last Showtape to be programmed to was the [Madame Oink I] Showtape in February 1978.
 
 #### Replacment & V2 Bot
 
-In Summer 1978, {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}} was created to replace the former. The V2 Bot had more movements & was higher quality.
+In Summer 1978, [Winchester Chuck E. Cheese V2 (Animatronic)] was created to replace the former. The V2 Bot had more movements & was higher quality.
 
 #### Sunnyvale, California (PTT Corporate Office)
 
@@ -23,7 +23,7 @@ In Summer 1978, after the V2 Bot was installed, the V1 bot was sent to the Corpo
 
 ### Current Whereabouts
 
-Nothing has been seen of the animatronic after its last seen appearance at the Sunnyvale, CA office. It is suspected the bot was destroyed during the corporate move to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} on Irving, TX in 1984, though since there is no confirmed reason for the bot's disappearance, it is unclear if the bot currently still exists in private hands or not.
+Nothing has been seen of the animatronic after its last seen appearance at the Sunnyvale, CA office. It is suspected the bot was destroyed during the corporate move to the [ShowBiz Pizza Time Corporate Office] on Irving, TX in 1984, though since there is no confirmed reason for the bot's disappearance, it is unclear if the bot currently still exists in private hands or not.
 
 ## Design
 
@@ -38,11 +38,11 @@ The bot had a yellow Undershirt, a Blue, Red, & Yellow Vest, a pink bow-tie, & a
 
 ### Microphone
 
-From Summer 1978 to Early 1983 at Sunnyvale, the bot was given a gray & black microphone with a cord on it. this was most likely to make it consistent with the {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}} {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}}.
+From Summer 1978 to Early 1983 at Sunnyvale, the bot was given a gray & black microphone with a cord on it. this was most likely to make it consistent with the [Winchester Chuck E. Cheese V2 (Animatronic)] [Kooser Chuck E. Cheese (Animatronic)].
 
 ## Movements
 
-Due to the lack of internal pictures or videos of it moving, it is very uncertain what movements the bot had access to. Only what's been confirmed by the creator has been stated. Despite the eyes being in different directions in multiple pics, this is likely the use of eyes that moved on a nylon-string, that swivelled left to right. Due to the adjacent photos available, there is no detection of the head being able to turn left or right in any sort of way. However, it seems that the bot had access to an eyelid raise. Another thing to clarify is when the bot was moved to {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, the ears were tilted down, so it's safe to assume that the ears could wiggle or tilt in a way.
+Due to the lack of internal pictures or videos of it moving, it is very uncertain what movements the bot had access to. Only what's been confirmed by the creator has been stated. Despite the eyes being in different directions in multiple pics, this is likely the use of eyes that moved on a nylon-string, that swivelled left to right. Due to the adjacent photos available, there is no detection of the head being able to turn left or right in any sort of way. However, it seems that the bot had access to an eyelid raise. Another thing to clarify is when the bot was moved to [Sunnyvale, CA (1213 Innsbruck Drive)], the ears were tilted down, so it's safe to assume that the ears could wiggle or tilt in a way.
 
 - Mouth
 - Right Arm Raise

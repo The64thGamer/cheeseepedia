@@ -11,15 +11,15 @@ tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
 
-***12293 E Iliff Ave*** was a *ShowBiz Pizza Place* which opened on January 28, 1981 with a {{< wiki-link "Classic Stage" >}}, and closed on April 20, 1994, as a *Chuck E. Cheese's Pizza* with a {{< wiki-link "Concept Unification Stage" >}}. This location is widely recognized as the location of the 1993 Aurora, Colorado shooting(1), which ultimately led to the location's closure in 1994. The store itself was located in the Iliff Commons Shopping Center. (When it first opened, the shopping plaza it was in was called the London Square Shopping Center.)
+***12293 E Iliff Ave*** was a *ShowBiz Pizza Place* which opened on January 28, 1981 with a [Classic Stage], and closed on April 20, 1994, as a *Chuck E. Cheese's Pizza* with a [Concept Unification Stage]. This location is widely recognized as the location of the 1993 Aurora, Colorado shooting(1), which ultimately led to the location's closure in 1994. The store itself was located in the Iliff Commons Shopping Center. (When it first opened, the shopping plaza it was in was called the London Square Shopping Center.)
 
 ## Stages
 
-The location opened with a {{< wiki-link "Classic Stage" >}} show; then received the ShowBiz Pizza Campground upgrade in the late '80s.(2) The stage show was converted into the {{< wiki-link "Concept Unification Stage" >}} between 1991 and 1992 and remained intact until the store's closure.
+The location opened with a [Classic Stage] show; then received the ShowBiz Pizza Campground upgrade in the late '80s.(2) The stage show was converted into the [Concept Unification Stage] between 1991 and 1992 and remained intact until the store's closure.
 
 ## History
 
-Aurora opened on January 28, 1981, as the 10th ShowBiz Pizza Place location and the first location in Colorado. The store opened with the Beta Rockafire when it first opened. Some after, the Beta cosmetics were replaced by the newer cosmetics, but the Beta props stayed behind. In either 1982 or 1983, the Beta props and cosmetics were replaced by the default cosmetics and the props were changed to reflect it. The store would remain like this until it received the {{< wiki-link "SPT 1980's Remodel Program" >}}. This was also around this time, (sometime in either 1989 or 1990.) Billy Bob's stage was replaced with the ShowBiz Pizza Campground stage and added windows to the Show Room. Also during this remodel, the store would recieve PTT art, the Ball-Crawl, new games and rides, and received a 1983 Chuck E walkaround. (Which would later be replaced with a 1991 Tuxedo Chuck walkaround.) Between 1991 and 1992, the location underwent {{< wiki-link "Concept Unification" >}}. Sometime in either late 1992 or early 1993, the store would get the newer Tuxedo Chuck walkaround along with the '92 Helen, Jasper, and Pasqually walkarounds.(3) (It's currently unknown if they ever got a Munch walkaround.)
+Aurora opened on January 28, 1981, as the 10th ShowBiz Pizza Place location and the first location in Colorado. The store opened with the Beta Rockafire when it first opened. Some after, the Beta cosmetics were replaced by the newer cosmetics, but the Beta props stayed behind. In either 1982 or 1983, the Beta props and cosmetics were replaced by the default cosmetics and the props were changed to reflect it. The store would remain like this until it received the [SPT 1980's Remodel Program]. This was also around this time, (sometime in either 1989 or 1990.) Billy Bob's stage was replaced with the ShowBiz Pizza Campground stage and added windows to the Show Room. Also during this remodel, the store would recieve PTT art, the Ball-Crawl, new games and rides, and received a 1983 Chuck E walkaround. (Which would later be replaced with a 1991 Tuxedo Chuck walkaround.) Between 1991 and 1992, the location underwent [Concept Unification]. Sometime in either late 1992 or early 1993, the store would get the newer Tuxedo Chuck walkaround along with the '92 Helen, Jasper, and Pasqually walkarounds.(3) (It's currently unknown if they ever got a Munch walkaround.)
 
 ### 1993 Aurora Shooting
 
@@ -61,15 +61,15 @@ This is the list of the games that were claimed to be featured in the restaurant
 
 | Animatronic                                                               | Serial Number | Whereabouts |
 |---------------------------------------------------------------------------|---------------|-------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 10-80 1-3     | Unknown     |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 10-80 2-3     | Unknown     |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 10-80 3-3     | Unknown     |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 10-80 4-3     | Unknown     |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 10-80 5-3     | Unknown     |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 10-80 6-3     | Unknown     |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 10-80 7-3     | Unknown     |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 10-80 8-3     | Unknown     |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 10-80 10-3    | Unknown     |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 10-80 11-3    | Unknown     |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown     |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown     |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-80 1-3     | Unknown     |
+| [Dook Larue (Animatronic)]                        | 10-80 2-3     | Unknown     |
+| [Fatz Geronimo (Animatronic)]                     | 10-80 3-3     | Unknown     |
+| [Beach Bear (Animatronic)]                        | 10-80 4-3     | Unknown     |
+| [Mitzi Mozzarella (Animatronic)]                  | 10-80 5-3     | Unknown     |
+| [Billy Bob (Animatronic)]                         | 10-80 6-3     | Unknown     |
+| [Looney Bird (Animatronic)]                       | 10-80 7-3     | Unknown     |
+| [Choo Choo (Animatronic)]                         | 10-80 8-3     | Unknown     |
+| [Sun (Animatronic)]                               | 10-80 10-3    | Unknown     |
+| [Moon (Animatronic)]                              | 10-80 11-3    | Unknown     |
+| [Antioch (Animatronic)]                           | N/A           | Unknown     |
+| [Wink]                                            | N/A           | Unknown     |

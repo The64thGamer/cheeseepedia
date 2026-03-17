@@ -2,7 +2,7 @@
 
 ## Gameplay
 
-The game takes place at a nondescript {{< wiki-link "Chuck E. Cheese's" >}} location.
+The game takes place at a nondescript [Chuck E. Cheese's] location.
 
 ### Playable Characters
 
@@ -18,7 +18,7 @@ The game takes place at a nondescript {{< wiki-link "Chuck E. Cheese's" >}} loca
 - The kid owns a Chuck E. Cheese TV. These TVs do not exist in real life.
 - The uniforms displayed in the intro look more like security cop uniforms, compared to real life, which have uniforms more similar to an amusement park ride operator.
 - The restaurant takes place in what looks to be a dome, no real-life restaurant takes place inside a dome.
-- The arcade is inside a separate, smaller, building-in-a-building. The closest to real life is when you take into account the Showroom Walls, which even then, does not make sense, since the location in the game is a {{< wiki-link "CEC 2000's Remodel Program" >}}, which does not have showroom walls.
+- The arcade is inside a separate, smaller, building-in-a-building. The closest to real life is when you take into account the Showroom Walls, which even then, does not make sense, since the location in the game is a [CEC 2000's Remodel Program], which does not have showroom walls.
 - The prize area has video games that are non-existent in real life, like 'Helen Run'.
 - There is no way you can buy a video game for only 500 tickets in real life, even at the time, where physical tickets still existed.
 - Very few of the artwork as seen in 'Photo Hunt' exists elsewhere,

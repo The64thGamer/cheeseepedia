@@ -1,4 +1,4 @@
-The **Moon Animatronic** is an animatronic figure created by Creative Engineering Inc. for ShowBiz Pizza Place locations from 1980-1983. It is a very simple figure, as its only movements are its raising from behind the backdrop and opening its mouth. Moon would later be used during {{< wiki-link "Concept Unification Stage" >}}, where it would go unchanged.
+The **Moon Animatronic** is an animatronic figure created by Creative Engineering Inc. for ShowBiz Pizza Place locations from 1980-1983. It is a very simple figure, as its only movements are its raising from behind the backdrop and opening its mouth. Moon would later be used during [Concept Unification Stage], where it would go unchanged.
 
 ## Movements
 
@@ -13,8 +13,8 @@ Moon features 2 movements, being its head raise, and mouth.
 
 | Place                                                                | Address                                                     | Availability                               | Condition        |
 |----------------------------------------------------------------------|-------------------------------------------------------------|--------------------------------------------|------------------|
-| {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} | 7701 Pineville-Matthews Rd                                  | Public                                     | Operational.     |
-| {{< wiki-link "Billy Bob's Wonderland" >}}                     | 5 Cracker Barrel Dr, Barboursville, WV 25504                | Public                                     | Operational.     |
+| [Charlotte, NC (7701 Pineville-Matthews Rd)] | 7701 Pineville-Matthews Rd                                  | Public                                     | Operational.     |
+| [Billy Bob's Wonderland]                     | 5 Cracker Barrel Dr, Barboursville, WV 25504                | Public                                     | Operational.     |
 | Creative Engineering, Inc.                                           | 116 Shriners Club Rd, Pomona Park, FL 32112                 | Privately owned, need contact for viewing. | Operational.     |
 | Smitty's Super Service Station                                       | 1545 MS-48 E, Sandy Hook, MS 39478                          | Privately owned, need contact for viewing. | Operational.     |
 | Volo Museum                                                          | 27582 Volo Village Rd, Volo, IL 60073                       | Public                                     | Operational.     |

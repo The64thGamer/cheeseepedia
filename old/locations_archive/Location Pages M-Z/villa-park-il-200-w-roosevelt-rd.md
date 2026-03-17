@@ -13,7 +13,7 @@ pageThumbnailFile = "XE2XxzSyJLDZd6X1OjVb.avif"
 latitudeLongitude = ["41.85916222","-87.98393408"]
 +++
 
-***200 W Roosevelt Rd*** is a Chuck E. Cheese's location that opened on August 7, 2001, in the Villa Oaks Shopping Center with a {{< wiki-link "Studio C Beta" >}}, which is still open to this day with a 2.0 remodel and dance floor.
+***200 W Roosevelt Rd*** is a Chuck E. Cheese's location that opened on August 7, 2001, in the Villa Oaks Shopping Center with a [Studio C Beta], which is still open to this day with a 2.0 remodel and dance floor.
 
 ## History
 
@@ -23,14 +23,14 @@ Originally when the store opened, they had a Studio C Beta, 32M, first one in th
 
 | Stage                                                                   | Installed   | Removed      | Notes                           |
 |-------------------------------------------------------------------------|-------------|--------------|---------------------------------|
-| {{< wiki-link "Studio C Beta" >}}                                 | August 2001 | May 2022     | First Studio C Beta in Illinois |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + Video Wall | May 2022    | Still In Use | 2021 Model                      |
+| [Studio C Beta]                                 | August 2001 | May 2022     | First Studio C Beta in Illinois |
+| [Chuck E Live Stage (Dance Floor)] + Video Wall | May 2022    | Still In Use | 2021 Model                      |
 
 ## Animatronics
 
 | Animatronic                                                | Serial Number | Whereabouts |
 |------------------------------------------------------------|---------------|-------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 144           | Destroyed   |
+| [Chuck E Cheese 32m (Animatronic)] | 144           | Destroyed   |
 
 ## Videos
 

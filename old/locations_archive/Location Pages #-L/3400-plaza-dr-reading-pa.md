@@ -26,7 +26,7 @@ This location opened with the Rock Afire Explosion. it is unknown what happened 
 
 | Stage                                   | Installed     | Removed | Whereabouts |
 |-----------------------------------------|---------------|---------|-------------|
-| {{< wiki-link "Classic Stage" >}} | December 1982 | 1988    | Unkown      |
+| [Classic Stage] | December 1982 | 1988    | Unkown      |
 
 ## Animatronics
 

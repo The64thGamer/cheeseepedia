@@ -12,7 +12,7 @@ citations = ["<a href=\"https://www.facebook.com/photo?fbid=902259228612658&set=
 pageThumbnailFile = "lRNw4fmA25YWY6IB1mk1.avif"
 +++
 
-***Ocean City, NJ (600 Boardwalk)*** is the first ***Gillian's Wonderland Pier*** that was founded in 1929 by ***David Gillian*** as a historic amusement park. The place contains a retrofitted {{< wiki-link "Pizza Time Theatre" >}} {{< wiki-link "Cyberamics Balcony Stage" >}} known as ***Rocky &amp; The Railroad Ramblers***.
+***Ocean City, NJ (600 Boardwalk)*** is the first ***Gillian's Wonderland Pier*** that was founded in 1929 by ***David Gillian*** as a historic amusement park. The place contains a retrofitted [Pizza Time Theatre] [Cyberamics Balcony Stage] known as ***Rocky &amp; The Railroad Ramblers***.
 
 ## History
 
@@ -22,7 +22,7 @@ Gillian's Wonderland Pier was founded in 1929 by David Gillian in Ocean City, Ne
 
 #### Classic Version (1992-2001)
 
-The original bots came from the {{< wiki-link "Dickson City Scranton, PA (1011 Scranton Carbondale)" >}} Pizza Time Theatre, and were recycled for Zach Perriwinkles, later being sent to Captain Good Times in Turnersville, NJ(2). Rocky &amp; The Railroad Ramblers were bought from Captain Good Times in either 1992 or 1993. Gillian's would hire Sally Corp to retrofit the mechs. The bots were placed in the upstairs area next to the train ride. The area would have a barrier surrounding the stage, some boxes &amp; other props, and a roof set. The area also had a sign at the bottom with Text stating stuff about the characters, establishment date, &amp; the price of the show. The show would take $1.00 per song. The area had 5 animatronics from left to right, Bubba (Mr. Munch), Rocky (Chuck E. Cheese), Henrietta Hatpin (Guest Star / Helen Henny), Hank (Jasper), &amp; Antonio (Pasqually). The area's roof had a sign saying 'Shipment Receiving'. Sally Corp would create a showtape for the show. The area would be renamed to 'The Man &amp; Dog Show' in 1995 or 1996. The flowers would be moved in 1997. the area gained some new accessories in 1998.
+The original bots came from the [Dickson City Scranton, PA (1011 Scranton Carbondale)] Pizza Time Theatre, and were recycled for Zach Perriwinkles, later being sent to Captain Good Times in Turnersville, NJ(2). Rocky &amp; The Railroad Ramblers were bought from Captain Good Times in either 1992 or 1993. Gillian's would hire Sally Corp to retrofit the mechs. The bots were placed in the upstairs area next to the train ride. The area would have a barrier surrounding the stage, some boxes &amp; other props, and a roof set. The area also had a sign at the bottom with Text stating stuff about the characters, establishment date, &amp; the price of the show. The show would take $1.00 per song. The area had 5 animatronics from left to right, Bubba (Mr. Munch), Rocky (Chuck E. Cheese), Henrietta Hatpin (Guest Star / Helen Henny), Hank (Jasper), &amp; Antonio (Pasqually). The area's roof had a sign saying 'Shipment Receiving'. Sally Corp would create a showtape for the show. The area would be renamed to 'The Man &amp; Dog Show' in 1995 or 1996. The flowers would be moved in 1997. the area gained some new accessories in 1998.
 
 #### Revised Version (2001-2015)
 
@@ -46,8 +46,8 @@ This is every animatronic stage Gillian's have had.
 
 | Name                                                                | Installed | Removed    | Notes                                                                     |
 |---------------------------------------------------------------------|-----------|------------|---------------------------------------------------------------------------|
-| {{< wiki-link "Rocky the Panda (Chuck E Cheese Retrofit)" >}} | 1992      | Still Used | Retrofit of {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}.         |
-| {{< wiki-link "Antonio (Pasqually Retrofit)" >}}              | 1992      | Still Used | Retrofit of {{< wiki-link "Pasqually (Cyberamic)" >}}.              |
-| Henrietta Hatpin (Helen Henny Retrofit)\|Henrietta Hatpin           | 1992      | Still Used | Retrofit of {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}. |
-| Hank The Dalmatian (Jasper Retrofit)\|Hank The Dalmatian            | 1992      | Still Used | Retrofit of {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}.         |
-| Bubba (Mr. Munch Retrofit)\|Bubba                                   | 1992      | Still Used | Retrofit of {{< wiki-link "Mr Munch (Cyberamic)" >}}.               |
+| [Rocky the Panda (Chuck E Cheese Retrofit)] | 1992      | Still Used | Retrofit of [Chuck E Cheese (Cyberamic)].         |
+| [Antonio (Pasqually Retrofit)]              | 1992      | Still Used | Retrofit of [Pasqually (Cyberamic)].              |
+| Henrietta Hatpin (Helen Henny Retrofit)\|Henrietta Hatpin           | 1992      | Still Used | Retrofit of [Guest Star Helen Henny (Cyberamic)]. |
+| Hank The Dalmatian (Jasper Retrofit)\|Hank The Dalmatian            | 1992      | Still Used | Retrofit of [Jasper T Jowls (Cyberamic)].         |
+| Bubba (Mr. Munch Retrofit)\|Bubba                                   | 1992      | Still Used | Retrofit of [Mr Munch (Cyberamic)].               |

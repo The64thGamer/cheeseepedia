@@ -59,7 +59,7 @@
 
 ## Production
 
-CEC TV ID - 'Flashing Hand', CEC TV ID - 'Bubble Kids', and CEC TV ID - 'Digestion' were animated by Mike Michalski while working at Radical Axis {{< cite 1 >}}
+CEC TV ID - 'Flashing Hand', CEC TV ID - 'Bubble Kids', and CEC TV ID - 'Digestion' were animated by Mike Michalski while working at Radical Axis [1]
 
 ### File Dates
 
@@ -76,6 +76,6 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 ## Trivia:
 
-- The countdowns are reused from {{< wiki-link "September 2002 Show" >}}, 'Skateboarding' is reused from {{< wiki-link "January 2005 Show" >}}, 'Drawing Chuck E.' is reused from {{< wiki-link "August 1999" >}}, VeggieTales - 'His Cheeseburger' is reused from {{< wiki-link "September 2001 Show" >}} and 'Will Frye The Nutrition Guy' is reused from {{< wiki-link "Studio C Premiere" >}}.
+- The countdowns are reused from [September 2002 Show], 'Skateboarding' is reused from [January 2005 Show], 'Drawing Chuck E.' is reused from [August 1999], VeggieTales - 'His Cheeseburger' is reused from [September 2001 Show] and 'Will Frye The Nutrition Guy' is reused from [Studio C Premiere].
 - Munch was originally going to sing 'Baby I Need Your Loving', which is still alluded to in the dialogue both leading into and coming out of the song.
 - ‘Old MacDonald’ and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.

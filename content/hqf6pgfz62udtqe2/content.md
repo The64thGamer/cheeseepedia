@@ -1,1 +1,1 @@
-***Kissimmee, FL (7700 Westgate Blvd)*** is a Chuck's Arcade that opened in July of 2025 with a unique display featuring a display for an early retrofitted {{< wiki-link "Cybearmics" >}} band called The Wizbangs.
+***Kissimmee, FL (7700 Westgate Blvd)*** is a Chuck's Arcade that opened in July of 2025 with a unique display featuring a display for an early retrofitted [Cybearmics] band called The Wizbangs.

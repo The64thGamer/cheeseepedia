@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["43.35797122","-79.79221583"]
 +++
 
-***3345 Harvester Rd*** was a Chuck E. Cheese's Pizza Time Theatre|Chuck E. Cheese's *Pizza Time Theatre* that opened on October 15, 1981, with a Balcony Stage, which closed on October 27, 1991 with {{< wiki-link "Chuck E's House Facade" >}}. Burlington was the second PTT store to open outside of the United States, after {{< wiki-link "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)" >}}, which opened in March 1981. Burlington was also the first PTT/CEC to open in Canada, of which 10 CECs currently exist in the country.
+***3345 Harvester Rd*** was a Chuck E. Cheese's Pizza Time Theatre|Chuck E. Cheese's *Pizza Time Theatre* that opened on October 15, 1981, with a Balcony Stage, which closed on October 27, 1991 with [Chuck E's House Facade]. Burlington was the second PTT store to open outside of the United States, after [Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)], which opened in March 1981. Burlington was also the first PTT/CEC to open in Canada, of which 10 CECs currently exist in the country.
 
 ## History
 
@@ -31,13 +31,13 @@ Burlington opened with the Balcony Stage in October 1981. In 1989/1990 they remo
 
 | Character                                                    | Manufacturing Date | Status  |
 |--------------------------------------------------------------|--------------------|---------|
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown |
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | Unknown            | Unknown |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Unknown |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown |
+| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown |
 | Waving Flags (Cyberamic)                                     | Unknown            | Unknown |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown            | Unknown |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown            | Unknown |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | Unknown            | Unknown |
+| [Applause Board (Cyberamic)]         | Unknown            | Unknown |
+| [Drum Board (Cyberamic)]             | Unknown            | Unknown |
+| [Singing Flowers (Cyberamic)]        | Unknown            | Unknown |

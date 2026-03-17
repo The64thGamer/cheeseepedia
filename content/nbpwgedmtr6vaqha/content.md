@@ -90,4 +90,4 @@ Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. 
 - This is the first show to feature Birthday Extravaganza 2007, though it is only on Studio C, and it is unknown if it was playable. The version in this show lacks a countdown and has several other editing differences.
 - Rob Gotcher and Michael Hill are seen working at the Movie Theatre in 'Listen To The Music'
 - The Studio C puppets remain on-screen during 'Is It Love'.
-- VeggieTales - 'I Love My Lips' is reused from {{< wiki-link "April 1999" >}}, VeggieTales - 'Belly Button' is reused from {{< wiki-link "September 2003 Show" >}}, Skateboarding is reused from {{< wiki-link "January 2005 Show" >}}, and the Minute Maid Spot is reused from {{< wiki-link "CEC TV April 2005 Show" >}}.
+- VeggieTales - 'I Love My Lips' is reused from [April 1999], VeggieTales - 'Belly Button' is reused from [September 2003 Show], Skateboarding is reused from [January 2005 Show], and the Minute Maid Spot is reused from [CEC TV April 2005 Show].

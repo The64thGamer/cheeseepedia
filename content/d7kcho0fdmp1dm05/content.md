@@ -1,4 +1,4 @@
-The ***Winchester Warblettes Nameplate* made its first and only appearance at the first Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} located in the Town & Country Shopping Center in San Jose, California; where it took the role of identifying the Winchester Warblettes Animatronic.**
+The ***Winchester Warblettes Nameplate* made its first and only appearance at the first Chuck E. Cheese's Pizza Time Theatre on [San Jose, CA (370 S Winchester Blvd)] located in the Town & Country Shopping Center in San Jose, California; where it took the role of identifying the Winchester Warblettes Animatronic.**
 
 ## Production
 

@@ -1,5 +1,5 @@
 ***Best of CEC TV 1993*** was a show that compiled segments and intermissions from 1991-1993.
-The show was additionally used {{< wiki-link "Emergency Show (Best of 93)" >}} starting from its release in May 1993 until it was replaced by {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}} in January 2000.
+The show was additionally used [Emergency Show (Best of 93)] starting from its release in May 1993 until it was replaced by [Chuck E's Variety Show - Best of 1999] in January 2000.
 
 ## Show List
 

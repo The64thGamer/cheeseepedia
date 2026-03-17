@@ -13,7 +13,7 @@ pageThumbnailFile = "de4VQ4phrIEjW3BCmdLU.avif"
 latitudeLongitude = ["43.06100967","-88.06828148"]
 +++
 
-***2435 N 124th St*** was a Chuck E. Cheese's Pizza Time Theatre that opened in August 1982 (day unknown) with a Balcony Stage and relocated in most likely December 1997 (day unknown) with a 1-Stage. This location relocated to {{< wiki-link "Brookfield, WI (19125 W Blue Mound Rd)" >}} which opened on December 17, 1997 with the very first Studio C Alpha, and is still open to this day having undergone the 2.0 remodel.
+***2435 N 124th St*** was a Chuck E. Cheese's Pizza Time Theatre that opened in August 1982 (day unknown) with a Balcony Stage and relocated in most likely December 1997 (day unknown) with a 1-Stage. This location relocated to [Brookfield, WI (19125 W Blue Mound Rd)] which opened on December 17, 1997 with the very first Studio C Alpha, and is still open to this day having undergone the 2.0 remodel.
 
 ## Stages
 

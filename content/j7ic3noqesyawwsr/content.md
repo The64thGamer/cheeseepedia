@@ -56,6 +56,6 @@
 
 ## Trivia:
 
-- 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day' is originally from {{< wiki-link "Chuck E. Cheese's Show 1 2018" >}}, and 'Lend a Helping Hand' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2018" >}}.
+- 'Loppinsboopinfakindoopinfloppenloopenfunnin's Day' is originally from [Chuck E. Cheese's Show 1 2018], and 'Lend a Helping Hand' is originally from [Chuck E. Cheese's Show 5 2018].
 - The filming for 'All I Want for Christmas is Snow' and 'Holiday Traditions' happened at the same time that 'The Tail of Jasper T.' was filmed. This is why 'The Tail of Jasper T.' uses the same band and town set.
 - Despite releasing on December 31, 2018, the show did not actually start playing until January 4, 2019 due to shipping delays.

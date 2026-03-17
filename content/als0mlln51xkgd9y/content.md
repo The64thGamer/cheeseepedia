@@ -2,5 +2,5 @@
 
 ## History
 
-In the September 1983 issue of the Pizza Times, Pizza Time Theatre, Inc.'s newsletter for things happening in the company, a section of text on page 4, under the title of 'New Stores Open', states the following: 'Chuck E. Cheese soon will be adding additional overseas units. Among the locations coming up are Cretail, France and Ealing, England. Also, an agreement recently was signed by Whimsy Recreation to build two stores in Singapore.{{< cite 1 >}}
+In the September 1983 issue of the Pizza Times, Pizza Time Theatre, Inc.'s newsletter for things happening in the company, a section of text on page 4, under the title of 'New Stores Open', states the following: 'Chuck E. Cheese soon will be adding additional overseas units. Among the locations coming up are Cretail, France and Ealing, England. Also, an agreement recently was signed by Whimsy Recreation to build two stores in Singapore.[1]
 This reference was the only ever mention of a PTT in England and/or the United Kingdom, the reasons for the store not opening may be because a franchisee was never found, or the agreement to place a PTT in England may have fallen through before the store possibly started construction.

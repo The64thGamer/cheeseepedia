@@ -32,7 +32,7 @@ Originally when the store opened, they had a Studio C Alpha. They would have it 
 
 | Animatronic                                                | Serial Number | Whereabouts |
 |------------------------------------------------------------|---------------|-------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | Unknown       | Destroyed   |
+| [Chuck E Cheese 32m (Animatronic)] | Unknown       | Destroyed   |
 | Bird (Studio C)                                            | N/A           | Destroyed   |
 
 ## Arcade Machines &amp; Rides

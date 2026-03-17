@@ -17,27 +17,27 @@ latitudeLongitude = ["38.64908232","-77.29963748"]
 
 ## History
 
-Dale City opened on February 15th, 1993, with a {{< wiki-link "2-Stage" >}}. The store would be remodeled a few times, until March of 2018, when there was a fire outside the building that damaged the building, forcing them to receive the 2.0 remodel. As of March 2023, the store still has the 2.0 remodel.
+Dale City opened on February 15th, 1993, with a [2-Stage]. The store would be remodeled a few times, until March of 2018, when there was a fire outside the building that damaged the building, forcing them to receive the 2.0 remodel. As of March 2023, the store still has the 2.0 remodel.
 
 ## Stages
 
-The store opened with a 2-Stage. They kept their 2-Stage up until March 2018 when an exterior fire damaged the store badly which made them start their 2.0 remodel which lasted roughly 7 months. The 2.0 remodel added the Pizzeria and Games logo, Play Pass machines, removal of {{< wiki-link "Skytubes" >}} and stage, and a nicer interior. Dale City was the last Cyberamic store in northern Virginia and the third to last in the state; this was also the last 2-Stage in Virginia that didn't come from a closed store. The final MMBB stage in Virginia was {{< wiki-link "Chesapeake, VA (1528 Sam's Circle)" >}} which used animatronics from the {{< wiki-link "Merced, CA (721 W Olive Ave)" >}} location that closed in 1995.
+The store opened with a 2-Stage. They kept their 2-Stage up until March 2018 when an exterior fire damaged the store badly which made them start their 2.0 remodel which lasted roughly 7 months. The 2.0 remodel added the Pizzeria and Games logo, Play Pass machines, removal of [Skytubes] and stage, and a nicer interior. Dale City was the last Cyberamic store in northern Virginia and the third to last in the state; this was also the last 2-Stage in Virginia that didn't come from a closed store. The final MMBB stage in Virginia was [Chesapeake, VA (1528 Sam's Circle)] which used animatronics from the [Merced, CA (721 W Olive Ave)] location that closed in 1995.
 
 | Stage                                                      | Installed     | Removed      | Notes                                                                                       |
 |------------------------------------------------------------|---------------|--------------|---------------------------------------------------------------------------------------------|
-| {{< wiki-link "2-Stage" >}}                          | February 1993 | March 2018   | One of Five installed in Virginia. Last 2-Stage in Virginia that was not from closed store. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | March 2018    | Still in Use | 2017 Model. First 2.0 in Virginia.                                                          |
+| [2-Stage]                          | February 1993 | March 2018   | One of Five installed in Virginia. Last 2-Stage in Virginia that was not from closed store. |
+| [Chuck E Live Stage (Dance Floor)] | March 2018    | Still in Use | 2017 Model. First 2.0 in Virginia.                                                          |
 
 ## Animatronics
 
 | Animatronic                                                  | Serial    | Condition | Whereabouts |
 |--------------------------------------------------------------|-----------|-----------|-------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown   | Poor      | Destroyed.  |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown   | Poor      | Destroyed.  |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown   | Horrible  | Destroyed.  |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown   | Okay      | Destroyed.  |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown   | Horrible  | Destroyed.  |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1992-1993 | N/A       | Destroyed.  |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown   | Poor      | Destroyed.  |
+| [Mr Munch (Cyberamic)]               | Unknown   | Horrible  | Destroyed.  |
+| [Jasper T Jowls (Cyberamic)]         | Unknown   | Okay      | Destroyed.  |
+| [Pasqually (Cyberamic)]              | Unknown   | Horrible  | Destroyed.  |
+| [Wink (Cyberamic)]                   | 1992-1993 | N/A       | Destroyed.  |
 
 = Gallery =
 

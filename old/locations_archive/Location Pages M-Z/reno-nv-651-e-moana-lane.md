@@ -26,8 +26,8 @@ On May 6th, 1986, Zapp's would host the *Fashion Auction Show* in collaboration 
 | Animatronic                                                  | Whereabouts |
 |--------------------------------------------------------------|-------------|
 | Chuck E Cheese (Cyberamic)                                   | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown     |

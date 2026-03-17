@@ -1,4 +1,4 @@
-The first ***Pizza Time Theatre Skee-Ball Points sign* debuted at the second Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} located in the Blossom Hill Shopping Center from December 1978 to an unknown year, presumably 1981.**
+The first ***Pizza Time Theatre Skee-Ball Points sign* debuted at the second Chuck E. Cheese's Pizza Time Theatre on [San Jose, CA (1371 Kooser Rd)] located in the Blossom Hill Shopping Center from December 1978 to an unknown year, presumably 1981.**
 
 ## Production
 
@@ -10,7 +10,7 @@ The only documented appearance of the sign was at the 1371 Kooser Road store, wh
 
 - **A.** *The sign was placed in storage at the location itself.*
 - **B.** *The sign was destroyed after it completed its run.*
-- **C.** *The sign was shipped to the Chuck E. Cheese's Pizza Time Theatre {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}*
+- **C.** *The sign was shipped to the Chuck E. Cheese's Pizza Time Theatre [Sunnyvale, CA (1213 Innsbruck Drive)]*
 
 It was most likely placed in storage at the location itself, and the current whereabouts of the sign are unknown.
 

@@ -1,20 +1,20 @@
-***Winchester Jasper T. Jowls* was an animatronic created by {{< wiki-link "Fantasy Forest" >}} for the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} as an animatronic version of {{< wiki-link "Jasper T Jowls" >}}, with the bot being the first design of Jasper. The bot was controlled & programmed through the {{< wiki-link "Winchester Control System" >}} & {{< wiki-link "Winchester Hardware Setup" >}}. The bot was used at Winchester from 1977 until its replacement in 1981 when Winchester received {{< wiki-link "Cyberamics" >}}.**
+***Winchester Jasper T. Jowls* was an animatronic created by [Fantasy Forest] for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)] as an animatronic version of [Jasper T Jowls], with the bot being the first design of Jasper. The bot was controlled & programmed through the [Winchester Control System] & [Winchester Hardware Setup]. The bot was used at Winchester from 1977 until its replacement in 1981 when Winchester received [Cyberamics].**
 
 ## History
 
 ### Creation
 
-The Winchester Jasper Bot was created by Harold Goldbrandsen of Fantasy Forest in early 1977 after the {{< wiki-link "Winchester Crusty the Cat V1 (Animatronic)" >}} & {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)" >}}.
+The Winchester Jasper Bot was created by Harold Goldbrandsen of Fantasy Forest in early 1977 after the [Winchester Crusty the Cat V1 (Animatronic)] & [Winchester Chuck E. Cheese V1 (Animatronic)].
 
 ### Release
 
 #### San Jose, California (370 South Winchester Boulevard)
 
-In May 1977, The Bot was installed at the Right dining area wall at Winchester(1)(2). The bot was programmed to the {{< wiki-link "Pizza Time Theatre Showtape" >}} & later, the {{< wiki-link "Helen Henny Showtape" >}}. The bot was later programmed to the {{< wiki-link "Madame Oink I" >}} & {{< wiki-link "Foxy Colleen I" >}} Showtapes during 1978.
+In May 1977, The Bot was installed at the Right dining area wall at Winchester(1)(2). The bot was programmed to the [Pizza Time Theatre Showtape] & later, the [Helen Henny Showtape]. The bot was later programmed to the [Madame Oink I] & [Foxy Colleen I] Showtapes during 1978.
 
 #### Corporate Move
 
-After Pizza Time Theatre vacated the Sunnyvale building in 1984, Jasper, along with Winchester's {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}} and {{< wiki-link "Winchester Pasqually (Animatronic)" >}} would be rescued by Jul Kamen. Jul would end up loaning all three portrait bots to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} in the mid 1990's to display in a museum dedicated to the history of Chuck E. Cheese's. The museum plans would never go through, and the animatronics would simply be used as display pieces.
+After Pizza Time Theatre vacated the Sunnyvale building in 1984, Jasper, along with Winchester's [Winchester Chuck E. Cheese V2 (Animatronic)] and [Winchester Pasqually (Animatronic)] would be rescued by Jul Kamen. Jul would end up loaning all three portrait bots to the [ShowBiz Pizza Time Corporate Office] in the mid 1990's to display in a museum dedicated to the history of Chuck E. Cheese's. The museum plans would never go through, and the animatronics would simply be used as display pieces.
 At some point, Jasper's shirt was replaced with a green and white striped sweatshirt and his muzzle had extra dots added.
 
 ### Destruction
@@ -35,7 +35,7 @@ The bot had a red & white patterned button-up cowboy shirt, light blue Big-Smith
 
 #### SPT Outfit
 
-During the bot's time at the SPT HQ, it had a green & white striped sweatshirt, a blue bandana, light blue overalls, & a straw country hat with black & white band.{{< cite 3 >}}
+During the bot's time at the SPT HQ, it had a green & white striped sweatshirt, a blue bandana, light blue overalls, & a straw country hat with black & white band.[3]
 
 ### Accessories
 

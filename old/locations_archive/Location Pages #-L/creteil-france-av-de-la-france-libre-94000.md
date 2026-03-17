@@ -18,7 +18,7 @@ The location would first be mentioned in March 1983, stating it would be open so
 
 > *"We are very pleased to be in partnership with this top-ranking leader in international food service, and look forward to opening the first Chuck E. Cheese's center in Paris by the end of the year,"(3)* -Jack Campbell, V.P. of Pizza Time Theatre
 
-By December of 1983 however, the '83 opening date would be delayed, with the company now stating the location as just 'coming up'.(4) The location would finally open on April 5, 1984 in the Creteil Soleil Mall. The store would have certain custom merchandise, such as a {{< wiki-link "Chuck E Cheese Créteil Soleil Pin (1984)" >}}, alongside the PTT Token 124 (B, NBS). Most things were still their American variants, alongside showtapes and other signage still being in English. By 1986, the location would close for unknown reasons.
+By December of 1983 however, the '83 opening date would be delayed, with the company now stating the location as just 'coming up'.(4) The location would finally open on April 5, 1984 in the Creteil Soleil Mall. The store would have certain custom merchandise, such as a [Chuck E Cheese Créteil Soleil Pin (1984)], alongside the PTT Token 124 (B, NBS). Most things were still their American variants, alongside showtapes and other signage still being in English. By 1986, the location would close for unknown reasons.
 
 ## Stages
 
@@ -39,10 +39,10 @@ This store opened with a Balcony Stage, as all other Pizza Time Theatres did. It
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Unknown     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown     |
 | The King/King Kat (Lounge)                                   | Unknown            | Unknown     |
 | Unknown Cabaret Character                                    | Unknown            | Unknown     |

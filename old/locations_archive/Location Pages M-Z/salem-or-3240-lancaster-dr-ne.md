@@ -21,19 +21,19 @@ Originally, this location had a Chuck E's House like all other SP/CEC's at the t
 
 | Stage                                     | Installed     | Removed       |
 |-------------------------------------------|---------------|---------------|
-| {{< wiki-link "Chuck E's House" >}} | 1988-1989     | 1999-2000     |
+| [Chuck E's House] | 1988-1989     | 1999-2000     |
 | Studio C Alpha                            | 1999-2000     | February 2021 |
 | Dance Floor + Video Wall                  | February 2021 | Still in use. |
 
 ## History
 
-New Salem opened between 1988-1989 as the relocation of the original Salem location which originally opened on January 1st, 1984 and was a separate free-standing building and was demolished in 1988-1989 for this location. New Salem opened with the 1988 Remodel including the checkers on the walls and outside, the Blue and White awnings, the 1988 decor, and Chuck E's House. New Salem remained like this until 1991-1992 when they would receive a minor remodel, replacing older decor with newer decor, and received an exterior change renaming 'ShowBiz Pizza' to 'Chuck E. Cheese's Pizza'. Ironically, the Porch Stage was kept. Around the mid 90's, New Salem received the Phase 2 Remodel removing older decor for newer decor, received another exterior change which is the logo and road sign, received SkyTubes to replace the ball pit, and removed the checkers and Blue and White awnings. Around 1999-2000, the Chuck E's House was removed and replaced with the Studio C Alpha stage. Around 2006-2007, New Salem received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing older decor for newer decor, removed Showroom Walls, Balcony Seating, relocated the stage, painting some walls purple, and some aspects of the store. The Phase 3 exterior sign was kept, though the road sign changed. Around 2014, New Salem somewhat received the 2013 Remodel painting the walls to blue, green and orange, changing the exterior logo and road sign, and replacing the booths. In 2020, a 2.0 art sign was installed. In February 2021, New Salem received the 2.0 Remodel removing the Alpha for the Dance Floor and Video Wall. Surprisingly, this was only an interior remodel as the exterior stayed the same since the 2013 Remodel. The booths also stayed the same even after the 2.0 Remodel. Sometime during 2024, New Salem would install its {{< wiki-link "CEC 2.0 Remodel Program" >}}. As of right now, New Salem remains like this.
+New Salem opened between 1988-1989 as the relocation of the original Salem location which originally opened on January 1st, 1984 and was a separate free-standing building and was demolished in 1988-1989 for this location. New Salem opened with the 1988 Remodel including the checkers on the walls and outside, the Blue and White awnings, the 1988 decor, and Chuck E's House. New Salem remained like this until 1991-1992 when they would receive a minor remodel, replacing older decor with newer decor, and received an exterior change renaming 'ShowBiz Pizza' to 'Chuck E. Cheese's Pizza'. Ironically, the Porch Stage was kept. Around the mid 90's, New Salem received the Phase 2 Remodel removing older decor for newer decor, received another exterior change which is the logo and road sign, received SkyTubes to replace the ball pit, and removed the checkers and Blue and White awnings. Around 1999-2000, the Chuck E's House was removed and replaced with the Studio C Alpha stage. Around 2006-2007, New Salem received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing older decor for newer decor, removed Showroom Walls, Balcony Seating, relocated the stage, painting some walls purple, and some aspects of the store. The Phase 3 exterior sign was kept, though the road sign changed. Around 2014, New Salem somewhat received the 2013 Remodel painting the walls to blue, green and orange, changing the exterior logo and road sign, and replacing the booths. In 2020, a 2.0 art sign was installed. In February 2021, New Salem received the 2.0 Remodel removing the Alpha for the Dance Floor and Video Wall. Surprisingly, this was only an interior remodel as the exterior stayed the same since the 2013 Remodel. The booths also stayed the same even after the 2.0 Remodel. Sometime during 2024, New Salem would install its [CEC 2.0 Remodel Program]. As of right now, New Salem remains like this.
 
 ## Arcade Machines
 
 ### Skill
 
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Big Bass Wheel Pro
 - Pop the Lock
 - Barrel of Monkeys
@@ -64,7 +64,7 @@ New Salem opened between 1988-1989 as the relocation of the original Salem locat
 - Crossy Road Arcade
 - Cruis'n Blast
 - Fruit Ninja FX
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Ticket Time
 
 ### Coin-Action

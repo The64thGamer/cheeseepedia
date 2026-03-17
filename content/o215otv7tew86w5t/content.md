@@ -1,4 +1,4 @@
-Beach Bear was created for the {{< wiki-link "Wolf Pack 5" >}} show and debuted at the 1978 IAAPA. His mask uses the same mold as {{< wiki-link "Boom Boom Bosco (Animatronic)" >}} from the {{< wiki-link "Bear Country Jubilee" >}}.
+Beach Bear was created for the [Wolf Pack 5] show and debuted at the 1978 IAAPA. His mask uses the same mold as [Boom Boom Bosco (Animatronic)] from the [Bear Country Jubilee].
 
 ## History
 

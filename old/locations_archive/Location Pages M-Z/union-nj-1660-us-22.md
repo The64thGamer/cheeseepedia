@@ -13,11 +13,11 @@ pageThumbnailFile = "gh4Ec2LRHtIOCncmvaHq.avif"
 latitudeLongitude = ["40.69485622","-74.25570773"]
 +++
 
-***1660 US-22, Store #3006/542*** was a {{< wiki-link "Pizza Time Theatre" >}} that opened on August 6, 1984, and closed on November 17, 2019 as a {{< wiki-link "Chuck E Cheese's" >}}.
+***1660 US-22, Store #3006/542*** was a [Pizza Time Theatre] that opened on August 6, 1984, and closed on November 17, 2019 as a [Chuck E Cheese's].
 
 ## History
 
-Union opened as store #3006 on August 6, 1984, under Animated Family Restaurants franchise ownership. The building it occupied was originally a movie theater that closed in 1982. Union had Chuck E. Cheese, Mr. Munch, Jasper, and Pasqually walkaround costumes when they first opened. Union survived PTT's 1984 bankruptcy and stayed under franchise ownership following the closure of the two other New Jersey PTTs, East Brunswick and Wayne in 1986, who were also under the same franchise ownership. Union was the only operating store in the state of New Jersey for 5 years until the opening of the {{< wiki-link "Deptford, NJ (1500 Almonesson Rd)" >}} store in 1991. They received the 1986 SPT Remodel Program|1986 SPT Remodel in the early 90's and installed their first MMBB stage (2-Stage) in 1992. They maintained this remodel throughout the 90's (and received Parody Posters in the late 90's). Longtime CEC fan and mascot performer Richard Concepcion (1957-2017) was hired to be a walkaround performer in 1994 and was all-day Chuck at Union in a monthly rotation. They also had Helen and Jasper 90's walkarounds that would often make appearances throughout the day alongside Chuck E.
+Union opened as store #3006 on August 6, 1984, under Animated Family Restaurants franchise ownership. The building it occupied was originally a movie theater that closed in 1982. Union had Chuck E. Cheese, Mr. Munch, Jasper, and Pasqually walkaround costumes when they first opened. Union survived PTT's 1984 bankruptcy and stayed under franchise ownership following the closure of the two other New Jersey PTTs, East Brunswick and Wayne in 1986, who were also under the same franchise ownership. Union was the only operating store in the state of New Jersey for 5 years until the opening of the [Deptford, NJ (1500 Almonesson Rd)] store in 1991. They received the 1986 SPT Remodel Program|1986 SPT Remodel in the early 90's and installed their first MMBB stage (2-Stage) in 1992. They maintained this remodel throughout the 90's (and received Parody Posters in the late 90's). Longtime CEC fan and mascot performer Richard Concepcion (1957-2017) was hired to be a walkaround performer in 1994 and was all-day Chuck at Union in a monthly rotation. They also had Helen and Jasper 90's walkarounds that would often make appearances throughout the day alongside Chuck E.
 
 ### 2000's
 
@@ -29,18 +29,18 @@ Over the years, the Chuck E animatronic received the Avenger shirt in the Summer
 
 ### 2020s
 
-Due to the COVID-19 pandemic and CEC falling into bankruptcy in 2020, talks on opening a new CEC in the Union were put on pause. Construction of a new location down the highway started in 2022. The new {{< wiki-link "Union, NJ (2700 US-22)" >}} CEC had its soft opening on May 15, 2023 and grand opening on June 22.
+Due to the COVID-19 pandemic and CEC falling into bankruptcy in 2020, talks on opening a new CEC in the Union were put on pause. Construction of a new location down the highway started in 2022. The new [Union, NJ (2700 US-22)] CEC had its soft opening on May 15, 2023 and grand opening on June 22.
 
 ## Stages
 
-Union opened with a Balcony Stage and The Beagles. Many recall 'The King' also being at this location. They received {{< wiki-link "Chuck E's House Facade" >}} stage around 1989 and switched to a 2-Stage in 1992. After undergoing the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, they installed a Studio C Beta removing the animatronics that performed at the location for 20 years since opening. The Beta was saved by private collectors following the store's closure in November 2019.
+Union opened with a Balcony Stage and The Beagles. Many recall 'The King' also being at this location. They received [Chuck E's House Facade] stage around 1989 and switched to a 2-Stage in 1992. After undergoing the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, they installed a Studio C Beta removing the animatronics that performed at the location for 20 years since opening. The Beta was saved by private collectors following the store's closure in November 2019.
 
 | Stage                                              | Installed   | Removed       | Notes                                                                                                              |
 |----------------------------------------------------|-------------|---------------|--------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | August 1984 | 1989          | One of three Balcony Stages installed in New Jersey.                                                               |
-| {{< wiki-link "Chuck E's House Facade" >}}   | 1989        | 1992          | Only Chuck E.'s House Facade that was installed in New Jersey.                                                     |
-| {{< wiki-link "2-Stage" >}}                  | 1992        | Early 2005    | One of three 2-Stages installed in New Jersey.                                                                     |
-| {{< wiki-link "Studio C Beta" >}}            | Early 2005  | November 2019 | One of three 16m Betas installed in New Jersey. One of four Betas installed in New Jersey (Mays Landing is a 32m). |
+| [Cyberamics Balcony Stage] | August 1984 | 1989          | One of three Balcony Stages installed in New Jersey.                                                               |
+| [Chuck E's House Facade]   | 1989        | 1992          | Only Chuck E.'s House Facade that was installed in New Jersey.                                                     |
+| [2-Stage]                  | 1992        | Early 2005    | One of three 2-Stages installed in New Jersey.                                                                     |
+| [Studio C Beta]            | Early 2005  | November 2019 | One of three 16m Betas installed in New Jersey. One of four Betas installed in New Jersey (Mays Landing is a 32m). |
 
 ## Arcade Machines
 
@@ -72,7 +72,7 @@ Union opened with a Balcony Stage and The Beagles. Many recall 'The King' also b
 - Popcorn
 - Brave Firefighters
 - Buster Bubbles
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Spider-Bot
 - Tippin' Bloks
 - High Five!
@@ -92,7 +92,7 @@ Union opened with a Balcony Stage and The Beagles. Many recall 'The King' also b
 - NBA Hoop Troop Jr
 - Stuart Little
 - Bunny Pond
-- {{< wiki-link "Ken Chuck E Derby" >}}
+- [Ken Chuck E Derby]
 - Cheeky Monkey Football
 - Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 - Chuck E. Cheese's Fun House
@@ -107,24 +107,24 @@ Union opened with a Balcony Stage and The Beagles. Many recall 'The King' also b
 
 | Character                                                    | Manufacturing Date | Serial Number | Status                                                              |
 |--------------------------------------------------------------|--------------------|---------------|---------------------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | Unknown            | Unknown       | Used for Parts / Destroyed                                          |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Unknown       | Used for Parts / Destroyed, head frame owned by a Private Collector |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown       | Used for Parts / Destroyed                                          |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown       | Used for Parts / Destroyed, head frame owned by a Private Collector |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown       | Used for Parts / Destroyed, arms owned by a Private Collector       |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1992?              | Unknown       | Unknown / Destroyed                                                 |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown       | Unknown / Destroyed                                                 |
+| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown       | Used for Parts / Destroyed                                          |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown       | Used for Parts / Destroyed, head frame owned by a Private Collector |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown       | Used for Parts / Destroyed                                          |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown       | Used for Parts / Destroyed, head frame owned by a Private Collector |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown       | Used for Parts / Destroyed, arms owned by a Private Collector       |
+| [Wink (Cyberamic)]                   | 1992?              | Unknown       | Unknown / Destroyed                                                 |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown       | Unknown / Destroyed                                                 |
 | Waving Flags (Cyberamic)                                     | Unknown            | Unknown       | Unknown / Destroyed                                                 |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown            | Unknown       | Unknown / Destroyed                                                 |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown            | Unknown       | Unknown / Destroyed                                                 |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | Unknown            | Unknown       | Unknown / Destroyed                                                 |
+| [Applause Board (Cyberamic)]         | Unknown            | Unknown       | Unknown / Destroyed                                                 |
+| [Drum Board (Cyberamic)]             | Unknown            | Unknown       | Unknown / Destroyed                                                 |
+| [Singing Flowers (Cyberamic)]        | Unknown            | Unknown       | Unknown / Destroyed                                                 |
 | Paul (Cyberamic)                                             | Unknown            | Unknown       | Unknown / Destroyed                                                 |
 | George (Cyberamic)                                           | Unknown            | Unknown       | Unknown / Destroyed                                                 |
 | Ringo (Cyberamic)                                            | Unknown            | Unknown       | Unknown / Destroyed                                                 |
 | John / Woodie Bowzer (Cyberamic)                             | Unknown            | Unknown       | Unknown / Destroyed                                                 |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | Unknown            | Unknown       | Unknown / Destroyed                                                 |
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   | 2004?              | 7-32          | Owned by a Private Collector.                                       |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     | 2004?              | N/A           | Owned by a Private Collector.                                       |
+| [The King King Kat (Lounge)]         | Unknown            | Unknown       | Unknown / Destroyed                                                 |
+| [Chuck E Cheese 16m (Animatronic)]   | 2004?              | 7-32          | Owned by a Private Collector.                                       |
+| [Pizza Time Clock (Animatronic)]     | 2004?              | N/A           | Owned by a Private Collector.                                       |
 
 ## Videos
 
@@ -135,7 +135,7 @@ Union opened with a Balcony Stage and The Beagles. Many recall 'The King' also b
 | https://www.youtube.com/watch?v=Wr34l-rihzw                                             | YMCA Live '94 performed by Richard Concepcion. Munch has a new mask and both him and Pasqually have new arm mechs since the last footage. The Jasper walkaround also makes an appearance in this video.                                                                                                                   | December 1994     |
 | https://www.youtube.com/watch?v=Igv5LH98hLw                                             | The 2-Stage performing Destination Imagination in 1995. Briefly shows Helen and Chuck walkarounds.                                                                                                                                                                                                                        | 1995              |
 | https://www.youtube.com/watch?v=R0mkGdmhZyo&amp;list=RDMMR0mkGdmhZyo&amp;start\_radio=1 | Strike it Up Live Show performed by Chuck E. and Rapid T. Rabbit. The helicopter light was replaced with a gemini and the center stage now has lift curtains. Fun fact: they did not receive lift curtains for Chuck E's stage and was likely the only store to have two different kinds of curtains on different stages. | January 1997      |
-| https://www.youtube.com/watch?v=n7SaGWo-NSU                                             | Lean on Me Live performed by Chuck E. and Rapid T. Rabbit. Last 90's footage of Union and before the {{< wiki-link "Phase 2 (1997)" >}} (and last footage Richard Concepcion\|Richard has from Union as far as we know)                                                                                             | Q1 1999           |
+| https://www.youtube.com/watch?v=n7SaGWo-NSU                                             | Lean on Me Live performed by Chuck E. and Rapid T. Rabbit. Last 90's footage of Union and before the [Phase 2 (1997)] (and last footage Richard Concepcion\|Richard has from Union as far as we know)                                                                                             | Q1 1999           |
 | https://www.youtube.com/watch?v=5HOnwZWMrSU                                             | Union following their final remodel before the 2-Stage was replaced. The area around the stage is now white and there are new bigger screens and speakers next to the stage. This is the last known video of Union's 2-Stage as of December 2023.                                                                         | June 29, 2002     |
 | https://www.youtube.com/watch?v=9kDgYKAX\_PM&amp;t=185s                                 | Footage of the April 2012 Show with their Studio C Beta. Chuck wore his avenger outfit and red cool chuck cap from Q1 2010 until September 2013.                                                                                                                                                                          | May 1, 2012       |
 | https://www.youtube.com/watch?v=NHkYSWUumUw                                             | Store tour showing how Union looked in its last few years                                                                                                                                                                                                                                                                 | May 27, 2016      |

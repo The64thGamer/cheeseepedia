@@ -148,10 +148,10 @@ A version 1.2 floppy was also sent to stores, which removed the outdated Kool-Ai
 
 ## Trivia:
 - 'Chuck E. Shuffle' and 'Go Santa Go' appear on the Studio C DVDs but could not be played.
-- 'Dog Jammin'' is a remake of a song from {{< wiki-link "Let The Good Times Roll" >}} and 'Baseball Diamond Dreams' is a remake of a song from {{< wiki-link "Spring Break" >}}
+- 'Dog Jammin'' is a remake of a song from [Let The Good Times Roll] and 'Baseball Diamond Dreams' is a remake of a song from [Spring Break]
 - 'America' was originally used as a live show in 1999. In this show, programming for Chuck E. has been added and the footage has been changed to stock footage of an American flag.
-- 'Boat of Love' and 'We Sail The Ocean Blue' are reused from {{< wiki-link "August 1999" >}}. They do not have programming in this show.
-- 'Baking With Betty' is reused from {{< wiki-link "April 2002 Show" >}} and 'Monkey Ninjas' is reused from {{< wiki-link "September 2002 Show" >}}
-- All of the countdowns are reused from {{< wiki-link "September 2002 Show" >}}. They have been shortened from 7 minutes to 3 minutes and no longer include VJ spots.
+- 'Boat of Love' and 'We Sail The Ocean Blue' are reused from [August 1999]. They do not have programming in this show.
+- 'Baking With Betty' is reused from [April 2002 Show] and 'Monkey Ninjas' is reused from [September 2002 Show]
+- All of the countdowns are reused from [September 2002 Show]. They have been shortened from 7 minutes to 3 minutes and no longer include VJ spots.
 - The Kool-Aid spot advertises a promotion which ended in 2001. This was removed for Studio C by the Version 1.2 floppy.
-- This show was intended to be kept after it's run to be used in 2004, but this did not happen as the {{< wiki-link "Summer 2004 Show" >}} replaced it.
+- This show was intended to be kept after it's run to be used in 2004, but this did not happen as the [Summer 2004 Show] replaced it.

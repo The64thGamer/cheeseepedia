@@ -1,4 +1,4 @@
-The Wolfman was created for the {{< wiki-link "Wolf Pack 5" >}} show and debuted at the 1978 IAAPA. He is meant to be a parody of the radio DJ, Wolfman Jack. Wolfman's mask uses the same mold as {{< wiki-link "Buddy Crash (Animatronic)" >}} from the {{< wiki-link "Bear Country Jubilee" >}}, with teeth and mustache glued on. His mech was later reused for Repete Thornsberry in the {{< wiki-link "Hard Luck Bears" >}}.
+The Wolfman was created for the [Wolf Pack 5] show and debuted at the 1978 IAAPA. He is meant to be a parody of the radio DJ, Wolfman Jack. Wolfman's mask uses the same mold as [Buddy Crash (Animatronic)] from the [Bear Country Jubilee], with teeth and mustache glued on. His mech was later reused for Repete Thornsberry in the [Hard Luck Bears].
 
 ## History
 

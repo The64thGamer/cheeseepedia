@@ -46,7 +46,7 @@ The show is notable for having only one song per segment (similar to Chuck E's V
 
 ## Production
 
-- Loren Soman created the CEC TV 3D bumper seen after the first segment.{{< cite 1 >}}
+- Loren Soman created the CEC TV 3D bumper seen after the first segment.[1]
 - The working title for this show was 'The Just for Kids Show II'.
 - The footage for 'Be My Friend' was filmed at the Orlando, FL (I-Drive) and Dallas, TX (Monfort) locations.
 
@@ -82,4 +82,4 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 ## Trivia
 
-- "Party Place" is a remake of a song from {{< wiki-link "Spring Break" >}}
+- "Party Place" is a remake of a song from [Spring Break]

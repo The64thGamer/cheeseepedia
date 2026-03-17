@@ -5,7 +5,7 @@ Explosion's use in ShowBiz Pizza Place on August 31, 1989.**
 
 On September 6, 1989, a revision of the tape would be sent out replacing "Wave Birthday" with "Regular Birthday". It is not confirmed which Birthday show was included in this revision.
 
-A birthday promotion inserted before the Cyberstar Intro on Intermission 2 was found in a home video of the showtape, with only its audio recovered. {{< cite 1 >}}
+A birthday promotion inserted before the Cyberstar Intro on Intermission 2 was found in a home video of the showtape, with only its audio recovered. [1]
 
 ## Show List
 
@@ -84,8 +84,8 @@ A birthday promotion inserted before the Cyberstar Intro on Intermission 2 was f
 
 ## Trivia:
 
-- The same intermission music & videos would be used in the {{< wiki-link "SPP Rolfe & Earl" >}} except for Gigi On The Beach 'Please Please Me' which would have
+- The same intermission music & videos would be used in the [SPP Rolfe & Earl] except for Gigi On The Beach 'Please Please Me' which would have
   been replaced with the Rolfe & Earl Birthday skit for the potential birthday parties while construction was
   happening with the other two stages. CEC Neighbors / Dreams can also be considered to use the same intermission
   music & videos as it was released around the same time frame.
-- This show recycles two segments from it's previous showtape {{< wiki-link "SPP Kids - Tune Machine" >}} that was released earlier this year.
+- This show recycles two segments from it's previous showtape [SPP Kids - Tune Machine] that was released earlier this year.

@@ -1,4 +1,4 @@
-**Studio C Premiere GM Convention** was the showtape created for the GM Convention in 1998. Day 1 of the GM Convention would play {{< wiki-link "Studio C Premiere" >}}.{{< cite 1 >}} 
+**Studio C Premiere GM Convention** was the showtape created for the GM Convention in 1998. Day 1 of the GM Convention would play [Studio C Premiere].[1] 
 
 ## Show list:
 1. Day 2 (Breakfast). 

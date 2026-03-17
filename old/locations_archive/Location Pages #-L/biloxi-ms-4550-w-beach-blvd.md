@@ -21,7 +21,7 @@ The store would open as part of an expansion of new outlets to the *Edgewater Vi
 
 ### Closure
 
-The store would close on October 7th, 1984 due to the merger and followed restructuring of {{< wiki-link "Pizza Time Theatre" >}} and ShowBiz Pizza Place(0). With the {{< wiki-link "Gulfport, MS (320 Courthouse Rd)" >}} ShowBiz store already in operation, it was chosen to close the Biloxi location. Of the 38 employees working by the store's closure, 35 of them had found jobs in other local businesses by October 9th.(4)
+The store would close on October 7th, 1984 due to the merger and followed restructuring of [Pizza Time Theatre] and ShowBiz Pizza Place(0). With the [Gulfport, MS (320 Courthouse Rd)] ShowBiz store already in operation, it was chosen to close the Biloxi location. Of the 38 employees working by the store's closure, 35 of them had found jobs in other local businesses by October 9th.(4)
 
 ### Post Closure
 
@@ -55,9 +55,9 @@ Children's rides also incluuded: Covered Wagon, Noah's Ark, Bulldozer, Motorcycl
 | Animatronic                                                  | Serial | Whereabouts                                          |
 |--------------------------------------------------------------|--------|------------------------------------------------------|
 | Chuck E Cheese (Cyberamic)                                   | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | ???    | Sold at Auction in 1986, unknown current wearabouts. |
+| [Guest Star Helen Henny (Cyberamic)] | ???    | Sold at Auction in 1986, unknown current wearabouts. |
+| [Mr Munch (Cyberamic)]               | ???    | Sold at Auction in 1986, unknown current wearabouts. |
+| [Pasqually (Cyberamic)]              | ???    | Sold at Auction in 1986, unknown current wearabouts. |
+| [Jasper T Jowls (Cyberamic)]         | ???    | Sold at Auction in 1986, unknown current wearabouts. |
+| [Warblettes (Cyberamic)]             | ???    | Sold at Auction in 1986, unknown current wearabouts. |
 | (Unknown Lounge or Cabaret Cyberamic)                        | ???    | Sold at Auction in 1986, unknown current wearabouts. |

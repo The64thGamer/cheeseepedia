@@ -42,8 +42,8 @@
 
 - Birthday 2009
 - Spanish Birthday 2010
-- {{< wiki-link "BINGO" >}}
-- {{< wiki-link "Chuck E. Says 2002" >}}
+- [BINGO]
+- [Chuck E. Says 2002]
 - If You're Happy & You Know It
 - Old MacDonald
 
@@ -57,7 +57,7 @@
 
    Segment four starts with Alowicious introducing the band. Then Chuck E. sadly greets the audience and reveals that he wanted to go for a bike ride, but something was wrong with his wheel. He tells the story by singing 'Need A New Wheel', and by the end of the song, everything is better. The band then discusses how all of their problems seem to get solved by singing. Pasqually tells the band it's time for a joke, and a new theme song plays, which also announces that it's time for a joke. After the joke, Chuck E. convinces Helen to sing a new song she's been practicing. After she sings 'Best of My Love', the band tells the audience how much they appreciate them. This leads Pasqually into talking about how he used to be in a band of squirrels that rarely had an audience. As the segment ends, Munch finally figures out the joke Pasqually told earlier.
 
-## Production{{< cite 1 >}}
+## Production[1]
 
 Production of April 2012 began in February 2012.
 
@@ -77,8 +77,8 @@ In 'Party Rock' The Break Dancing Teddy Bear is seen in areas not included in th
 - All of the chillouts are reused. 'Shopping Cart' is from April 2005, 'Flying' and 'Green Room' are from September 2006, and 'Animals' is from September 2011.
 - This would be the last show released with Duncan Brannan as the voice of Chuck E. Cheese and Larry the Technician.
 - This show introduced five new characters: Steve Waters, Hard Hat Hank, Zoey, Alowicious Dimpleton, and Marvin the Technology Guru.
-- The footage of 'Best of My Love' is reused from 'Respect' from {{< wiki-link "September 2003 Show" >}}.
-- Pizza Oven reuses footage from 'Ain't That a Shame' from {{< wiki-link "January 2004 Show" >}} & 'You'll Never Find' from April 2007 Show.
+- The footage of 'Best of My Love' is reused from 'Respect' from [September 2003 Show].
+- Pizza Oven reuses footage from 'Ain't That a Shame' from [January 2004 Show] & 'You'll Never Find' from April 2007 Show.
 - 'Camouflage' reuses footage from 'On The Road Again' from January 2002.
 - Larry's appearance in this show reuses animation from January 2000.
 - A clip of Steve Waters drinking Pepsi Max is hidden at the end of the Studio C version.

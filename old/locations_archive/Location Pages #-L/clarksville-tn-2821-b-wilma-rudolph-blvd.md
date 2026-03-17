@@ -25,13 +25,13 @@ Originally when the store opened, they had a Studio C Prototype, this was a rare
 | Stage                                                      | Installed             | Removed               | Notes                                          |
 |------------------------------------------------------------|-----------------------|-----------------------|------------------------------------------------|
 | Studio C Alpha / Beta Mix                                  | February 2001         | August/September 2019 | Last Studio C Beta Prototype installed.        |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | August/September 2019 | Still In Use          | First Studio C Beta Prototype removed for 2.0. |
+| [Chuck E Live Stage (Dance Floor)] | August/September 2019 | Still In Use          | First Studio C Beta Prototype removed for 2.0. |
 
 ## Animatronics
 
 | Animatronic                                                | Serial  | Whereabouts |
 |------------------------------------------------------------|---------|-------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | Unknown | Unknown     |
+| [Chuck E Cheese 32m (Animatronic)] | Unknown | Unknown     |
 | Parrot (Animatronic)\|Bird (Studio C)                      | N/A     | Unknown     |
 
 TODO

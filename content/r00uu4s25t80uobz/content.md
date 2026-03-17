@@ -58,9 +58,9 @@
 
 ## Trivia:
 
-- Show Break 1 - 'Cats' background track is based closely on the instrumental for 'Chromeo - Jealous (I Ain't With It)'{{< cite 2 >}}
-- Munch's voiceline at the beginning of the show is reused from Segment 3 of {{< wiki-link "January 2007" >}}.
+- Show Break 1 - 'Cats' background track is based closely on the instrumental for 'Chromeo - Jealous (I Ain't With It)'[2]
+- Munch's voiceline at the beginning of the show is reused from Segment 3 of [January 2007].
 - 'Happy To Be Seeing You' reuses the 2012 Studio C puppet set.
 - This show introduces a shorter re-edit of Rockstar Birthday with Munch's new voice and refilmed puppet footage for Studio C, alongside a new intro.
-- The greenscreen cat footage in Show Break 1 - 'Cats' was taken without permission from [Cory Williams Vimeo Page](https://vimeo.com/11317509?embedded=true&source=vimeo_logo&owner=147991). {{< cite 1 >}} Cory soon found out about this and posted a video about it to his YouTube channel on September 17, 2014. An apology was issued a day later on the Chuck E. Cheese Facebook page, with CEC mentioning compensating Cory for the video and having him guest-produce a video, though it is unknown if either of these things ever happened.
+- The greenscreen cat footage in Show Break 1 - 'Cats' was taken without permission from [Cory Williams Vimeo Page](https://vimeo.com/11317509?embedded=true&source=vimeo_logo&owner=147991). [1] Cory soon found out about this and posted a video about it to his YouTube channel on September 17, 2014. An apology was issued a day later on the Chuck E. Cheese Facebook page, with CEC mentioning compensating Cory for the video and having him guest-produce a video, though it is unknown if either of these things ever happened.
 - This show was created as a generic show that could be played in the case of an issue with the main show. Due to the cat video incident, it was invalidated very quickly in the fall of 2014.

@@ -37,7 +37,7 @@ Brookfield opened on December 17, 1997, with the Phase 2 remodel. This included 
 
 | Animatronic                                                | Serial           | Whereabouts     |
 |------------------------------------------------------------|------------------|-----------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 003 (NO R&amp;D) | Privately Owned |
-| {{< wiki-link "Bird (Animatronic)" >}}               | N/A              | Destroyed       |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A              | Destroyed       |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}        | N/A              | Destroyed       |
+| [Chuck E Cheese 32m (Animatronic)] | 003 (NO R&amp;D) | Privately Owned |
+| [Bird (Animatronic)]               | N/A              | Destroyed       |
+| [Pizza Time Clock (Animatronic)]   | N/A              | Destroyed       |
+| [Pizza Phone (Animatronic)]        | N/A              | Destroyed       |

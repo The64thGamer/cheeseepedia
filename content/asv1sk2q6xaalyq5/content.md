@@ -78,11 +78,11 @@ Jeremiah was a bullfrog character, not much is currently known about them. Freid
 
 ### South Carolina
 
-{{< wiki-link "Goose Creek, SC (205 N Goose Creek Blvd Suite 101)" >}} as **Track Stars** Offered a large arcade selection and bumper cars Summerville, SC (Oakbrook Center, 10040 Dorchester Road)|Summerville, SC **(Oakbrook Center, 10040 Dorchester Road)** as **Track Stars** Track Stars location after relocating on June 24, 1993. No longer had bumper cars.(53)
+[Goose Creek, SC (205 N Goose Creek Blvd Suite 101)] as **Track Stars** Offered a large arcade selection and bumper cars Summerville, SC (Oakbrook Center, 10040 Dorchester Road)|Summerville, SC **(Oakbrook Center, 10040 Dorchester Road)** as **Track Stars** Track Stars location after relocating on June 24, 1993. No longer had bumper cars.(53)
 
 ### South Dakota
 
-{{< wiki-link "Sioux Falls, SD (519 S Minnesota Ave)" >}} The original Gigglebee's. Some of the robot operators were:
+[Sioux Falls, SD (519 S Minnesota Ave)] The original Gigglebee's. Some of the robot operators were:
 
 - Dan Hindbjorgen(3)
 - Nate Welch(54)
@@ -125,7 +125,7 @@ After the restaurant's closing in 2008, an auction was held and Wilbur was sold 
 - At Sioux Falls, Wilbur's Birthday is July 26, 1986.
 - At River City, Wilbur's Birthday is 'Octember 33rd', and he is always seven years old.
 - In late 2000, Gigglebee's would make a website that would inform customers about their business.(71) The website is down today but you can visit that website [on the Internet Archive](https://web.archive.org/web/20040901110037/http://gigglebees.com/). The website would stay up until early May of 2006.
-- Randy Hindbjorgen used his company Galaxy Enterprise Inc to run another animatronic pizza place in Sioux Falls called {{< wiki-link "Rockin Rollies" >}}.
+- Randy Hindbjorgen used his company Galaxy Enterprise Inc to run another animatronic pizza place in Sioux Falls called [Rockin Rollies].
 - In 2021 a comic was written starring Wilbur(72)
 - Gigglebee's was briefly mentioned in an article in Canada.(73)
 - Gigglebee's in Sioux Falls held a New Years celebration for children throughout most of it's operating time where they would set the clock 4 hours ahead so that New Years could be celebrated at 8pm.

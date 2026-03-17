@@ -1,4 +1,4 @@
-**Summer 2004 Show** was a rerelease of {{< wiki-link "Summertime 2003" >}} with new and revised intermissions.
+**Summer 2004 Show** was a rerelease of [Summertime 2003] with new and revised intermissions.
 
 ## Show List:
 
@@ -76,4 +76,4 @@ When inserting the upgrade floppy, a message would appear on the screen saying
  REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
 
 ## Trivia:
-- This show was intended to be kept after it’s run to be used in 2005, but this did not happen as the {{< wiki-link "Super Chuck Summer Show 2005" >}} replaced it.
+- This show was intended to be kept after it’s run to be used in 2005, but this did not happen as the [Super Chuck Summer Show 2005] replaced it.

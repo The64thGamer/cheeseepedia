@@ -40,11 +40,11 @@ By this point in time, the *Sgt. Singer's Pizza Circus* chain had officially bee
 
 ### Pete and Repete
 
-Not to be confused with Creative Engineering's Pete Thornsberry and Repeat Thornsberry of the {{< wiki-link "Hard Luck Bears" >}}, Pete (an elephant) and Repete (a mouse) were supposedly a comedic duo on Stage Left. Not much information is known about these two, though it's possible that they were retrofitted versions of Patty the Piano-Playing Pachyderm and Mortimer D. Mouse from CPI's Animal Crackers (which was used in the Decatur, GA store).(1)
+Not to be confused with Creative Engineering's Pete Thornsberry and Repeat Thornsberry of the [Hard Luck Bears], Pete (an elephant) and Repete (a mouse) were supposedly a comedic duo on Stage Left. Not much information is known about these two, though it's possible that they were retrofitted versions of Patty the Piano-Playing Pachyderm and Mortimer D. Mouse from CPI's Animal Crackers (which was used in the Decatur, GA store).(1)
 
 ## Stage Composition
 
-Although stage documentation is obscure, it is confirmed that Sgt. Singer's used at least a 3-Stage configuration (similar to other animatronic shows at the time). Center Stage included {{< wiki-link "P T Bearum (Animatronic)" >}}, {{< wiki-link "Sgt Singer (Animatronic)" >}}, and Pounce D' Lion (Animatronic)|Pounce D' Lion. Stage Right allegedly contained Dolly Porker (Animatronic)|Dolly Porker (though it is currently unconfirmed), while Stage Left supposedly included Pete and Repete. When Creative Presentations began to sell off the remaining Sgt. Singer's stock, the previous arrangement of characters was reduced to just the aforementioned three characters on Center Stage (Bearum, Singer, and Pounce). One Sgt. Singer figure was paired with Purrscilla Purr and Big Bear from {{< wiki-link "Celebration Station's WOOF Radio" >}} for a show installation at [Mirapolis](https://en.wikipedia.org/wiki/Mirapolis) (a defunct theme park in France).
+Although stage documentation is obscure, it is confirmed that Sgt. Singer's used at least a 3-Stage configuration (similar to other animatronic shows at the time). Center Stage included [P T Bearum (Animatronic)], [Sgt Singer (Animatronic)], and Pounce D' Lion (Animatronic)|Pounce D' Lion. Stage Right allegedly contained Dolly Porker (Animatronic)|Dolly Porker (though it is currently unconfirmed), while Stage Left supposedly included Pete and Repete. When Creative Presentations began to sell off the remaining Sgt. Singer's stock, the previous arrangement of characters was reduced to just the aforementioned three characters on Center Stage (Bearum, Singer, and Pounce). One Sgt. Singer figure was paired with Purrscilla Purr and Big Bear from [Celebration Station's WOOF Radio] for a show installation at [Mirapolis](https://en.wikipedia.org/wiki/Mirapolis) (a defunct theme park in France).
 
 ## Installed Locations
 
@@ -84,4 +84,4 @@ Shortly after Creative Presentations began selling off Sgt. Singer's stock, Japa
 ## Trivia
 
 - The *Sgt. Singer's* store in Decatur, Georgia actually featured The Animal Crackers (with Sheriff Bob Wire &amp; the B.O.Y.S, Patty Pachyderm &amp; Mortimer D. Mouse, and the Ape-Ology's) instead of the standard show. It's unknown why this was the case, though rumors suggest it was due to the previous figures requiring off-stage maintenance.(4)
-- During {{< wiki-link "Concept Unification" >}}, Creative Presentations proposed replacing the Rock-afire Explosion with four retrofit options to ShowBiz Pizza Time. Sgt. Singer was one of many CPI characters included in these concepts, along with the Ape-Ologys.(5)
+- During [Concept Unification], Creative Presentations proposed replacing the Rock-afire Explosion with four retrofit options to ShowBiz Pizza Time. Sgt. Singer was one of many CPI characters included in these concepts, along with the Ape-Ologys.(5)

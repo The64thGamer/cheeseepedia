@@ -1,4 +1,4 @@
-***CEC Shuffle/Bday Star*** is a live show tape released in April 1994 featuring the live show ‘Chuck E. Shuffle’ alongside {{< wiki-link "Birthday Star '92" >}}.
+***CEC Shuffle/Bday Star*** is a live show tape released in April 1994 featuring the live show ‘Chuck E. Shuffle’ alongside [Birthday Star '92].
 
 ## Summary
 
@@ -9,9 +9,9 @@ At the 3-minute and 1-minute marks of the countdown, kids count down from ten un
 1. 3 Minute Countdown
 2. Chuck E. Shuffle
 3. Surfing
-4. {{< wiki-link "Birthday Star '92" >}}
+4. [Birthday Star '92]
 
 ## Live Trivia:
 
-- ‘Surfing" is reused from {{< wiki-link "You're a Star" >}}
+- ‘Surfing" is reused from [You're a Star]
 

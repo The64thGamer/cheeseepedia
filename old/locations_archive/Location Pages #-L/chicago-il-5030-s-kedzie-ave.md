@@ -13,7 +13,7 @@ pageThumbnailFile = "41Bu2NOK8LWS9HHK38ZX.avif"
 latitudeLongitude = ["41.80120192","-87.70596208"]
 +++
 
-***For the North Side location, see: {{< wiki-link "Chicago, IL (1830 W Fullerton Ave)" >}}*** **Chicago, IL (5030 S Kedzie Ave)** is a former ShowBiz Pizza Place that opened on November 1, 1984 and is still open to this day. It opened with a Rock-Afire Explosion. This location received {{< wiki-link "Concept Unification" >}} in 1991 or 1992, a {{< wiki-link "CU Beta 16M" >}} in 2020, and a video wall and dance floor on August 25, 2024. It is located next to a few businesses and a former Kmart.
+***For the North Side location, see: [Chicago, IL (1830 W Fullerton Ave)]*** **Chicago, IL (5030 S Kedzie Ave)** is a former ShowBiz Pizza Place that opened on November 1, 1984 and is still open to this day. It opened with a Rock-Afire Explosion. This location received [Concept Unification] in 1991 or 1992, a [CU Beta 16M] in 2020, and a video wall and dance floor on August 25, 2024. It is located next to a few businesses and a former Kmart.
 
 ## Stages
 
@@ -23,8 +23,8 @@ Originally when the store opened, they had The Rock-Afire Explosion. Kedzie’s 
 |------------------------------------------------------------|-----------------|-------------------|------------------------------------------------------------------------------------------------------|
 | Rock-Afire Explosion                                       | October 1984    | Late 1991         | Opened with Uncle Klunk.                                                                             |
 | 3-Stage                                                    | 1991/1992       | November 2020     | One of 10 ShowBiz Pizza stores in Illinois to undergo Concept Unification. Last 3-Stage in Illinois. |
-| {{< wiki-link "CU Beta 16M" >}}                      | November 2020   | August 25th, 2024 | Last CU Beta 16m in a location.                                                                      |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | August 25, 2024 | N/A               |                                                                                                      |
+| [CU Beta 16M]                      | November 2020   | August 25th, 2024 | Last CU Beta 16m in a location.                                                                      |
+| [Chuck E Live Stage (Dance Floor)] | August 25, 2024 | N/A               |                                                                                                      |
 
 ## History
 
@@ -51,16 +51,16 @@ Chicago (Kedzie) opened next to Kmart on November 1st, 1984 which opened nearly 
 
 | Animatronic                                                               | Serial    | Whereabouts                                                                      |
 |---------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 7-82 1-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 7-82 2-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 7-82 3-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 7-82 4-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 7-82 5-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 7-82 6-9  | Unknown/Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd). |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 7-82 7-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 7-82 8-9  | Unknown/Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd). |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 7-82 10-9 | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 7-82 11-9 | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A       | Unknown. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).           |
-| {{< wiki-link "Wink" >}}                                            | N/A       | Destroyed.                                                                       |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-82 1-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
+| [Dook Larue (Animatronic)]                        | 7-82 2-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
+| [Fatz Geronimo (Animatronic)]                     | 7-82 3-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
+| [Beach Bear (Animatronic)]                        | 7-82 4-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
+| [Mitzi Mozzarella (Animatronic)]                  | 7-82 5-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
+| [Billy Bob (Animatronic)]                         | 7-82 6-9  | Unknown/Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd). |
+| [Looney Bird (Animatronic)]                       | 7-82 7-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
+| [Choo Choo (Animatronic)]                         | 7-82 8-9  | Unknown/Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd). |
+| [Sun (Animatronic)]                               | 7-82 10-9 | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
+| [Moon (Animatronic)]                              | 7-82 11-9 | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
+| [Antioch (Animatronic)]                           | N/A       | Unknown. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).           |
+| [Wink]                                            | N/A       | Destroyed.                                                                       |
 | Chuck E. Cheese 16M (Studio C)                                            | 1127      | Destroyed. Originally from Lafayette, IN (100 S Creasy Lane).                    |

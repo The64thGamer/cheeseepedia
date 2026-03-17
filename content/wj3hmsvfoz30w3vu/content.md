@@ -50,12 +50,12 @@
 
 ### Filming Locations
 
-- Interior shots of Chuck E. Cheese's were shot at the {{< wiki-link "Orlando, FL (7419 International Dr)" >}} location.
+- Interior shots of Chuck E. Cheese's were shot at the [Orlando, FL (7419 International Dr)] location.
 
 ## Trivia:
 
 - This show featured the first appearance of Mr. Mouth.
-- *Did You Know* and *Party Place* were both reused from {{< wiki-link "September '94" >}}.
+- *Did You Know* and *Party Place* were both reused from [September '94].
 - This show reveals Pasqually's full name of Pasqually P. Pieplate.
 - One of the kids interviewed in Segment 2 is named Jeff Palmer. This is a reference to the producer and director of the show.
 - Part of the song 'Go Chuck E. Go' is played in four segments at the same time.

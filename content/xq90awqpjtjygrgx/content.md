@@ -1,4 +1,4 @@
-The ***Make Magic Sign* was a sign produced for {{< wiki-link "Chuck E. Cheese's" >}} locations from the late 80's to the 2000's.
+The ***Make Magic Sign* was a sign produced for [Chuck E. Cheese's] locations from the late 80's to the 2000's.
 The sign would be hung in the kitchen or employees-only areas as an inspirational poster for cast members.**
 
 ## Production

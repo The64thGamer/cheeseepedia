@@ -1,4 +1,4 @@
-Original Dreams: Songs from ShowBiz was a Rock-afire Explosion CD purchasable starting on April 13th, 2025, being a different format to the Record Day exclusive of the vinyl album: {{< wiki-link "Original Dreams: Songs from ShowBiz" >}}.
+Original Dreams: Songs from ShowBiz was a Rock-afire Explosion CD purchasable starting on April 13th, 2025, being a different format to the Record Day exclusive of the vinyl album: [Original Dreams: Songs from ShowBiz].
 
 ## Tracklist
 

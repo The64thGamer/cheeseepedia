@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["40.73940972","-89.63581733"]
 +++
 
-***2601 West Lake Avenue, Store #360*** is a *ShowBiz Pizza Place*/*Chuck E. Cheese* that opened on December 3, 1982, as a corporate-owned ShowBiz Pizza store with a Rock-afire Explosion, and is still open to this day. It opened on the same day as the {{< wiki-link "Flint, MI (3489 Miller Rd)" >}} location. It is also located in the Westland Shopping Center.
+***2601 West Lake Avenue, Store #360*** is a *ShowBiz Pizza Place*/*Chuck E. Cheese* that opened on December 3, 1982, as a corporate-owned ShowBiz Pizza store with a Rock-afire Explosion, and is still open to this day. It opened on the same day as the [Flint, MI (3489 Miller Rd)] location. It is also located in the Westland Shopping Center.
 
 ## Stages
 

@@ -21,15 +21,15 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 
 | Stage                                                                                             | Installed | Removed      | Notes                                                            |
 |---------------------------------------------------------------------------------------------------|-----------|--------------|------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}}                                                | 1982      | 1989/1990    | 1st and last CEC in Alaska.                                      |
-| {{< wiki-link "Chuck E's House Facade" >}}                                                  | 1989/1990 | 1993/1994    | First C Stage, Only one in Alaska.                               |
-| {{< wiki-link "2-Stage" >}}                                                                 | 1993/1994 | 2006         | Only one installed in the state. Kept Flag Wavers until removal. |
-| {{< wiki-link "Studio C Beta" >}}, 16M                                                      | 2006      | July 2022    | Only one installed in the state.                                 |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | July 2022 | Still In Use | 2021 Model.                                                      |
+| [Cyberamics Balcony Stage]                                                | 1982      | 1989/1990    | 1st and last CEC in Alaska.                                      |
+| [Chuck E's House Facade]                                                  | 1989/1990 | 1993/1994    | First C Stage, Only one in Alaska.                               |
+| [2-Stage]                                                                 | 1993/1994 | 2006         | Only one installed in the state. Kept Flag Wavers until removal. |
+| [Studio C Beta], 16M                                                      | 2006      | July 2022    | Only one installed in the state.                                 |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | July 2022 | Still In Use | 2021 Model.                                                      |
 
 ## History
 
-This store was the first to open in the state of Alaska, opening in 1982 (month and day unknown) and originally had a Balcony Stage and was a franchised owned store. Anchorage would receive the 1988 remodel in 1989 or 1990 removing the Balcony Stage for Chuck E.'s House Facade. In around 1993/1994, the Chuck E.'s House Facade was removed for the {{< wiki-link "2-Stage" >}}. In the Late 90's, Anchorage received the Phase 3 Remodel which removed older 90's decor, added newer decor, and SkyTubes. They would be bought on January 2nd, 2005, by CEC Entertainment and becoming a corporate-owned store. Anchorage received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in Fall 2006 which removed the Showroom Walls, Balcony Seating, and relocating the show and replacing the 2-Stage with the Studio C Beta, 16m. Anchorage remained like this until July 2022 when they received the 2.0 Remodel removing the Beta for a 2021 model {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and Video Wall. They also remodeled the Phase 3 logo on the roof in the back which was there from when they remodeled to Phase 3, it has also been there since opening. Currently, as of February 2023, they still have the 2.0 remodel and 2021 model Dance Floor + Video Wall.
+This store was the first to open in the state of Alaska, opening in 1982 (month and day unknown) and originally had a Balcony Stage and was a franchised owned store. Anchorage would receive the 1988 remodel in 1989 or 1990 removing the Balcony Stage for Chuck E.'s House Facade. In around 1993/1994, the Chuck E.'s House Facade was removed for the [2-Stage]. In the Late 90's, Anchorage received the Phase 3 Remodel which removed older 90's decor, added newer decor, and SkyTubes. They would be bought on January 2nd, 2005, by CEC Entertainment and becoming a corporate-owned store. Anchorage received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in Fall 2006 which removed the Showroom Walls, Balcony Seating, and relocating the show and replacing the 2-Stage with the Studio C Beta, 16m. Anchorage remained like this until July 2022 when they received the 2.0 Remodel removing the Beta for a 2021 model [Chuck E Live Stage (Dance Floor)] and Video Wall. They also remodeled the Phase 3 logo on the roof in the back which was there from when they remodeled to Phase 3, it has also been there since opening. Currently, as of February 2023, they still have the 2.0 remodel and 2021 model Dance Floor + Video Wall.
 
 ## Videos
 
@@ -45,16 +45,16 @@ TODO
 | Animatronic                                                  | Serial Number | Whereabouts       |
 |--------------------------------------------------------------|---------------|-------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown       | Unknown/Destroyed |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Unknown/Destroyed |
+| [Mr Munch (Cyberamic)]               | Unknown       | Unknown/Destroyed |
+| [Jasper T Jowls (Cyberamic)]         | Unknown       | Unknown/Destroyed |
+| [Pasqually (Cyberamic)]              | Unknown       | Unknown/Destroyed |
+| [Warblettes (Cyberamic)]             | Unknown       | Unknown/Destroyed |
 | Waving Flags (Cyberamic)                                     | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | Unknown       | Unknown/Destroyed |
-| {{< wiki-link "Wink" >}}                               | N/A           | Unknown/Destroyed |
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   | N/A           | Destroyed         |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     | N/A           | Destroyed         |
+| [Applause Board (Cyberamic)]         | Unknown       | Unknown/Destroyed |
+| [Drum Board (Cyberamic)]             | Unknown       | Unknown/Destroyed |
+| [Singing Flowers (Cyberamic)]        | Unknown       | Unknown/Destroyed |
+| [The King King Kat (Lounge)]         | Unknown       | Unknown/Destroyed |
+| [Wink]                               | N/A           | Unknown/Destroyed |
+| [Chuck E Cheese 16m (Animatronic)]   | N/A           | Destroyed         |
+| [Pizza Time Clock (Animatronic)]     | N/A           | Destroyed         |

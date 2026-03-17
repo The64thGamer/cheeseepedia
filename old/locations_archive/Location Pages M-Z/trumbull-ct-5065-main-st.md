@@ -9,7 +9,7 @@ contributors = ["The 64th Gamer"]
 citations = ["[http://www.theconnecticutscoop.com/connecticutscoop/big-scoop-chuck-e-cheese-launching-new-prototype-in-trumbull](%22http://www.theconnecticutscoop.com/connecticutscoop/big-scoop-chuck-e-cheese-launching-new-prototype-in-trumbull%22)","[https://web.archive.org/web/20240830173647/https://trumbullmall.com/store/Fun-Spot-Arcade/2139016843/](%22https://web.archive.org/web/20240830173647/https://trumbullmall.com/store/Fun-Spot-Arcade/2139016843/%22)"]
 latitudeLongitude = ["41.22787047","-73.22721578"]
 +++
-***Trumbull, CT (5065 Main St)* is a {{< wiki-link "Chuck's Arcade" >}} run by {{< wiki-link "Chuck E Cheese" >}} that opened on September 6th, 2024 at the *Trumbull Mall*.<sup>(1)</sup>**
+***Trumbull, CT (5065 Main St)* is a [Chuck's Arcade] run by [Chuck E Cheese] that opened on September 6th, 2024 at the *Trumbull Mall*.<sup>(1)</sup>**
 
 ## History
 

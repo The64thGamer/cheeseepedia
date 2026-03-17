@@ -1,5 +1,5 @@
-The ***Cyberstar Diagnostic Tape*** (AKA ***Cyberstar Character Adjust Tape***) is a diagnostic Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1988.{{< cite 1 >}}
-One rip of the tape is dated 1986, despite the Cyberstar name not being coined until 1988 and the conversion of ShowBiz corporate's Rock-afire show to the 'ShowBiz Campground' style not being until Fall of 1987. {{< cite 2 >}}
+The ***Cyberstar Diagnostic Tape*** (AKA ***Cyberstar Character Adjust Tape***) is a diagnostic Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in 1988.[1]
+One rip of the tape is dated 1986, despite the Cyberstar name not being coined until 1988 and the conversion of ShowBiz corporate's Rock-afire show to the 'ShowBiz Campground' style not being until Fall of 1987. [2]
 
 ## Show List
 

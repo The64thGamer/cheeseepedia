@@ -1,7 +1,7 @@
 Phase 3 is the third major upgrade for ShowBiz Pizza Time locations that includes a new game package, enhanced prize and merchandise offerings, 'Toddler Zone', and improved product presentation and service. To advertise these improvements to guests, a 'New 4 You' sign would be placed over new games and rides.
 This upgrade was rolled out to most locations by the end of 2003.
 
-## Phase III{{< cite 1 >}}
+## Phase III[1]
 
 ### Kid Check & Menu Improvements
 
@@ -10,17 +10,17 @@ The Kid Check has received a station, adding on an overhead black light to see i
 ### Skytubes & Toddler Zone Improvements
 
 The Skytubes in most locations were slightly downsized and had new additions, such as a Nascar or Police car, and monkey cage. In addition to this, the Ball Crawl was also to be removed in later renditions of this upgrade.
-In addition, this phase introduces the finalized 'Toddler Town' concept from {{< wiki-link "Phase 1 (1994)" >}} as the 'Toddler Zone'. The Toddler Zone would now have a small playground and a wider variety of games and rides suitable for toddlers.
+In addition, this phase introduces the finalized 'Toddler Town' concept from [Phase 1 (1994)] as the 'Toddler Zone'. The Toddler Zone would now have a small playground and a wider variety of games and rides suitable for toddlers.
 
 ### Ticket Munchers
 
-Ticket Munchers were the initial replacements for the traditional way of counting tickets with an electronic ticket counter. This was tested at the {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}} location as early as 1998.
+Ticket Munchers were the initial replacements for the traditional way of counting tickets with an electronic ticket counter. This was tested at the [Dallas, TX (13125 Montfort Dr)] location as early as 1998.
 
 ### Games Package
 
 - Barney The Dinosaur Train
 - Bob The Builder Scoop
 - [Brave Firefighters](https://www.arcade-museum.com/game_detail.php?game_id=7212)
-- {{< wiki-link "Chuck E. Cheese's Hightops" >}}
-- {{< wiki-link "Chuck E. Cheese's Super Shot" >}}
+- [Chuck E. Cheese's Hightops]
+- [Chuck E. Cheese's Super Shot]
 - Ely Fly

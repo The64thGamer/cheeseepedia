@@ -13,7 +13,7 @@ pageThumbnailFile = "Orywi_6zEEcgsqIZlCf_.avif"
 latitudeLongitude = ["38.79217497","-97.61331148"]
 +++
 
-***2555 Market Place*** was a *ShowBiz Pizza Place* that opened on September 10, 1981 with a {{< wiki-link "Classic Stage" >}}, and closed on January 8, 1984.(1)https://www.newspapers.com/article/the-salina-journal-showbiz-pizza-salina/32791643/
+***2555 Market Place*** was a *ShowBiz Pizza Place* that opened on September 10, 1981 with a [Classic Stage], and closed on January 8, 1984.(1)https://www.newspapers.com/article/the-salina-journal-showbiz-pizza-salina/32791643/
 
 ## History
 
@@ -27,20 +27,20 @@ By January of 1984 the store would be reduced to 20 employees from its opening 8
 
 | Stage                                   | Installed      | Removed      |
 |-----------------------------------------|----------------|--------------|
-| {{< wiki-link "Classic Stage" >}} | September 1981 | January 1984 |
+| [Classic Stage] | September 1981 | January 1984 |
 
 ## Animatronics
 
 | Animatronic                                                               | Serial     | Whereabouts       |
 |---------------------------------------------------------------------------|------------|-------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 1-81 1-12  | Unknown/Destroyed |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 1-81 2-12  | Unknown/Destroyed |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 1-81 3-12  | Unknown/Destroyed |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 1-81 4-12  | Unknown/Destroyed |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 1-81 5-12  | Unknown/Destroyed |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 1-81 6-12  | Unknown/Destroyed |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 1-81 7-12  | Unknown/Destroyed |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 1-81 8-12  | Unknown/Destroyed |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 1-81 10-12 | Unknown/Destroyed |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 1-81 11-12 | Unknown/Destroyed |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A        | Unknown/Destroyed |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-81 1-12  | Unknown/Destroyed |
+| [Dook Larue (Animatronic)]                        | 1-81 2-12  | Unknown/Destroyed |
+| [Fatz Geronimo (Animatronic)]                     | 1-81 3-12  | Unknown/Destroyed |
+| [Beach Bear (Animatronic)]                        | 1-81 4-12  | Unknown/Destroyed |
+| [Mitzi Mozzarella (Animatronic)]                  | 1-81 5-12  | Unknown/Destroyed |
+| [Billy Bob (Animatronic)]                         | 1-81 6-12  | Unknown/Destroyed |
+| [Looney Bird (Animatronic)]                       | 1-81 7-12  | Unknown/Destroyed |
+| [Choo Choo (Animatronic)]                         | 1-81 8-12  | Unknown/Destroyed |
+| [Sun (Animatronic)]                               | 1-81 10-12 | Unknown/Destroyed |
+| [Moon (Animatronic)]                              | 1-81 11-12 | Unknown/Destroyed |
+| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed |

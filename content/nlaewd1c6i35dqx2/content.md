@@ -1,4 +1,4 @@
-***Chuck E. Cheese Roll*** is a CEC branded Skee-Ball machine that was found in many of the restaurants. It is distinctly different than the "Skee ball" and "Alley Roller" games, which were also found in restaurants later on. It dates all the way to Pizza Time Theatre, and early on was one of the only ways to earn tickets in the restaurants. {{< cite 1 >}}
+***Chuck E. Cheese Roll*** is a CEC branded Skee-Ball machine that was found in many of the restaurants. It is distinctly different than the "Skee ball" and "Alley Roller" games, which were also found in restaurants later on. It dates all the way to Pizza Time Theatre, and early on was one of the only ways to earn tickets in the restaurants. [1]
 
 ## Appearance and Scoring
 

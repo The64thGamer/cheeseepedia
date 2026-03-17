@@ -1,4 +1,4 @@
-The ***Winchester Grand Opening Advertisement* was distributed by the Atari sub-division of Warner Communications Incorporated in May 1977, to advertise the new family concept of Chuck E. Cheese's Pizza Time Theatre which would make its debut on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} located in the Town & Country Shopping Center in San Jose, California.**
+The ***Winchester Grand Opening Advertisement* was distributed by the Atari sub-division of Warner Communications Incorporated in May 1977, to advertise the new family concept of Chuck E. Cheese's Pizza Time Theatre which would make its debut on [San Jose, CA (370 S Winchester Blvd)] located in the Town & Country Shopping Center in San Jose, California.**
 
 ## History
 
@@ -21,7 +21,7 @@ The previously mentioned 4 categories read:
 
 ### 'The Food's Something Else.'
 
-*'Delicious special recipe pizzas - your favorites, plus a new high-protein treat. There's {{< wiki-link "Unknown Sandwich Item (PTT Menu Item)" >}} Salad Bar (PTT Menu Item)|a salad bar, and the newest treat - sensational Soft Frozen Yogurt (PTT Menu Item)|soft frozen yogurt.*
+*'Delicious special recipe pizzas - your favorites, plus a new high-protein treat. There's [Unknown Sandwich Item (PTT Menu Item)] Salad Bar (PTT Menu Item)|a salad bar, and the newest treat - sensational Soft Frozen Yogurt (PTT Menu Item)|soft frozen yogurt.*
 
 ### 'In Pizza We Trust.'
 

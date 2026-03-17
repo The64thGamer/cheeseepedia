@@ -13,15 +13,15 @@ pageThumbnailFile = "DTWJNph5RlWCzJq9IGp8.avif"
 latitudeLongitude = ["33.02114032","-96.79570708"]
 +++
 
-***1604 Preston Rd, Store #950*** is a *Chuck E. Cheese's* that opened in May 1998 with Studio C (1997)|Studio C and is currently open as of 2023. This location installed the first {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} in 2015 and would later become the standard for all newly remodeled stores during the 2017 2.0 Remodel Program|2.0 Remodel initiative. This store was shown in several commercials in the 2000s, 2010s, and 2020s along with {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}}.
+***1604 Preston Rd, Store #950*** is a *Chuck E. Cheese's* that opened in May 1998 with Studio C (1997)|Studio C and is currently open as of 2023. This location installed the first [Chuck E Live Stage (Dance Floor)] in 2015 and would later become the standard for all newly remodeled stores during the 2017 2.0 Remodel Program|2.0 Remodel initiative. This store was shown in several commercials in the 2000s, 2010s, and 2020s along with [Irving, TX (3903 W Airport Fwy)].
 
 ## Stages
 
-Plano, TX is one of the first stores to debut with the new Studio C (1997)|Studio C concept in 1998. Despite its significance the stage shows while it was at the Plano, TX store would go undocumented during the rise of animatronic connoisseurs throughout the 2000s. The Studio C show would be removed during a remodel in 2015 and sent to {{< wiki-link "Dearborn, MI (24399 Michigan Ave)" >}} to replace their 3-Stage show. The {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} would replace Plano's Studio C in the May of 2015 and would later be updated once in 2019 and once more during the store's 2022 remodel. The remodel would set the Dance Floor into the ground and would remove the six monitors above the Dance Floor and to feature the {{< wiki-link "Video Wall" >}}.
+Plano, TX is one of the first stores to debut with the new Studio C (1997)|Studio C concept in 1998. Despite its significance the stage shows while it was at the Plano, TX store would go undocumented during the rise of animatronic connoisseurs throughout the 2000s. The Studio C show would be removed during a remodel in 2015 and sent to [Dearborn, MI (24399 Michigan Ave)] to replace their 3-Stage show. The [Chuck E Live Stage (Dance Floor)] would replace Plano's Studio C in the May of 2015 and would later be updated once in 2019 and once more during the store's 2022 remodel. The remodel would set the Dance Floor into the ground and would remove the six monitors above the Dance Floor and to feature the [Video Wall].
 
 ## History
 
-Plano, Texas's Chuck E. Cheese's opened on May 4, 1998, as one of the first newly designed standalone stores in the company after {{< wiki-link "Concept Unification" >}} The store featured some of the first 1998 parody pieces created based on the Studio C concept. This included the Andy Warhol-inspired headshots of Chuck E. Cheese(1) and 'Must C TV' awards, which were parodies of at the time popular media.(2)
+Plano, Texas's Chuck E. Cheese's opened on May 4, 1998, as one of the first newly designed standalone stores in the company after [Concept Unification] The store featured some of the first 1998 parody pieces created based on the Studio C concept. This included the Andy Warhol-inspired headshots of Chuck E. Cheese(1) and 'Must C TV' awards, which were parodies of at the time popular media.(2)
 
 ### Media
 
@@ -45,7 +45,7 @@ In 2004 the store would receive one of the first 2003 'Cool Chuck' Reconfigurati
 
 | Animatronic                                                | Serial | Whereabouts                                                                             |
 |------------------------------------------------------------|--------|-----------------------------------------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 006    | Sent to {{< wiki-link "Dearborn, MI (24399 Michigan Ave)" >}}, currently Unknown. |
-| {{< wiki-link "Bird (Animatronic)" >}}               | N/A    | Sent to {{< wiki-link "Dearborn, MI (24399 Michigan Ave)" >}}, currently Unknown. |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A    | Unknown                                                                                 |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}        | N/A    | Sent to {{< wiki-link "Dearborn, MI (24399 Michigan Ave)" >}}, currently Unknown. |
+| [Chuck E Cheese 32m (Animatronic)] | 006    | Sent to [Dearborn, MI (24399 Michigan Ave)], currently Unknown. |
+| [Bird (Animatronic)]               | N/A    | Sent to [Dearborn, MI (24399 Michigan Ave)], currently Unknown. |
+| [Pizza Time Clock (Animatronic)]   | N/A    | Unknown                                                                                 |
+| [Pizza Phone (Animatronic)]        | N/A    | Sent to [Dearborn, MI (24399 Michigan Ave)], currently Unknown. |

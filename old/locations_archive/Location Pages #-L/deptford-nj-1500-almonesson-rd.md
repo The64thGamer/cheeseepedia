@@ -21,24 +21,24 @@ This location opened up with a Road Stage and was converted to a 1-stage sometim
 
 | Stage                                                      | Installed     | Removed       | Notes                                                                                                                                                                                                                                  |
 |------------------------------------------------------------|---------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Road Stage" >}}            | November 1991 | 1994/1995     | One of two installed in New Jersey. First location in New Jersey with a MMBB Stage of any kind as {{< wiki-link "Union, NJ (1660 US-22)" >}} was a {{< wiki-link "Chuck E's House Facade" >}} at the time Deptford opened. |
-| {{< wiki-link "1-Stage" >}}                          | 1994/1995     | December 2022 | One of six installed in New Jersey. Had 2-Stage Background and Props.                                                                                                                                                                  |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | December 2022 | Still in Use  | 2021 Model. First 2.0 remodel in Southern New Jersey.                                                                                                                                                                                  |
+| [Road Stage]            | November 1991 | 1994/1995     | One of two installed in New Jersey. First location in New Jersey with a MMBB Stage of any kind as [Union, NJ (1660 US-22)] was a [Chuck E's House Facade] at the time Deptford opened. |
+| [1-Stage]                          | 1994/1995     | December 2022 | One of six installed in New Jersey. Had 2-Stage Background and Props.                                                                                                                                                                  |
+| [Chuck E Live Stage (Dance Floor)] | December 2022 | Still in Use  | 2021 Model. First 2.0 remodel in Southern New Jersey.                                                                                                                                                                                  |
 
 ## History
 
-The store received the {{< wiki-link "CEC 2000's Remodel Program" >}} around mid-May of 2007. In May 2014, The Court at Deptford shopping center was acquired by DLC Management and planned to redevelop the entire shopping center to give it a more modernized look. These renovations started in autumn 2015 and were completed the following summer. In November 2022, Deptford started their 2.0 Remodel which will involve the removal of the store's 1-Stage which was finally removed on December 14th, 2022. Deptford's Grand Reopening was on February 22nd, 2023.
+The store received the [CEC 2000's Remodel Program] around mid-May of 2007. In May 2014, The Court at Deptford shopping center was acquired by DLC Management and planned to redevelop the entire shopping center to give it a more modernized look. These renovations started in autumn 2015 and were completed the following summer. In November 2022, Deptford started their 2.0 Remodel which will involve the removal of the store's 1-Stage which was finally removed on December 14th, 2022. Deptford's Grand Reopening was on February 22nd, 2023.
 
 ## Animatronics
 
 | Animatronic                                                  | Manufacturing date                                        | Status            |
 |--------------------------------------------------------------|-----------------------------------------------------------|-------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Owned by a private collector                              |                   |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Owned by a private collector                              |                   |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Various parts owned by Wayfinder\_triko/Private collector |                   |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Owned by a private collector                              |                   |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Owned by a private collector                              |                   |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1991                                                      | Unknown/Destroyed |
+| [Guest Star Helen Henny (Cyberamic)] | Owned by a private collector                              |                   |
+| [Mr Munch (Cyberamic)]               | Various parts owned by Wayfinder\_triko/Private collector |                   |
+| [Jasper T Jowls (Cyberamic)]         | Owned by a private collector                              |                   |
+| [Pasqually (Cyberamic)]              | Owned by a private collector                              |                   |
+| [Wink (Cyberamic)]                   | 1991                                                      | Unknown/Destroyed |
 
 ## Videos
 

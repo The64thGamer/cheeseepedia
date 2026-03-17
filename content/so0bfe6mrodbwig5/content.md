@@ -1,4 +1,4 @@
-**Rockin-Bowler** is an arcade game manufactured by ICE, first used in 2004.{{< cite 1 >}}
+**Rockin-Bowler** is an arcade game manufactured by ICE, first used in 2004.[1]
 
 ## Gameplay
 
@@ -10,4 +10,4 @@ The audio is output through a speaker at the front.
 
 ## Release
 
-The original version released in January 2004.{{< cite 1 >}} Then a version without the curtains released in July 2004.{{< cite 3 >}}
+The original version released in January 2004.[1] Then a version without the curtains released in July 2004.[3]

@@ -1,9 +1,9 @@
-**January 2010** is the first and only show to use the AM and PM Schedule for Studio C. The AM show reuses the {{< wiki-link "Just for Kids Show 2000" >}} segments and the PM / Existing Stage shows reuse the {{< wiki-link "CEC TV April 2005 Show" >}} segments.
+**January 2010** is the first and only show to use the AM and PM Schedule for Studio C. The AM show reuses the [Just for Kids Show 2000] segments and the PM / Existing Stage shows reuse the [CEC TV April 2005 Show] segments.
 This played from January to April 2010.
 
 ## Cyberstar 2.00 Update for Studio C
 
-This update contained a provision for initiating an alternate show schedule at a pre-defined time during the day. From the time the show is started until the pre-determined 'swap' time (Which would be managed by the Entertainment Department), the controller will play shows from the primary schedule. After the 'swap' time has passed, the controller will revert to playing shows from the alternate schedule.{{< cite 1 >}}
+This update contained a provision for initiating an alternate show schedule at a pre-defined time during the day. From the time the show is started until the pre-determined 'swap' time (Which would be managed by the Entertainment Department), the controller will play shows from the primary schedule. After the 'swap' time has passed, the controller will revert to playing shows from the alternate schedule.[1]
 
 ## Studio C AM Schedule
 
@@ -152,5 +152,5 @@ This update contained a provision for initiating an alternate show schedule at a
 - This was the only show to use the AM/PM format on Studio C. In April 2010 the system was updated to remove the AM/PM feature but kept the clock on the panel.
 - Jonas Brothers: 'Love Bug' appears twice on show DVDs for all stage types, with one version being glitched. This glitched version is skipped by the DVDs.
 - 'Free Ride' has been re-edited with a vintage filter placed over it. 'Disco Inferno' has also been edited, with it now featuring each character's name at the beginning of the song.
-- Trivia, Charlie Rockit - 'Cooler Downer' and Chuck E.'s Zoo View are reused from {{< wiki-link "Let The Good Times Roll" >}}, Chuck E.'s Big Bowling Date is reused from {{< wiki-link "September '94" >}}, The Announcer is reused from {{< wiki-link "Studio C Premiere" >}}, Singing Cowboy reused from {{< wiki-link "April 1999" >}}, Pasqually's Polka Minute is reused from {{< wiki-link "January 2002 Show" >}}, Snowboarding is reused from {{< wiki-link "January 2006 Show" >}}, and the Chillouts are reused from {{< wiki-link "January 2007" >}}.
+- Trivia, Charlie Rockit - 'Cooler Downer' and Chuck E.'s Zoo View are reused from [Let The Good Times Roll], Chuck E.'s Big Bowling Date is reused from [September '94], The Announcer is reused from [Studio C Premiere], Singing Cowboy reused from [April 1999], Pasqually's Polka Minute is reused from [January 2002 Show], Snowboarding is reused from [January 2006 Show], and the Chillouts are reused from [January 2007].
 - Birthday 2009 Program/Training are labeled as BDAY 10 Program/Training on the show DVD menu.

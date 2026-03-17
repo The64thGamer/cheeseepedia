@@ -6,7 +6,7 @@ This character was produced in 1993 for the New Rock-Afire Explosion show. The c
 
 ## Design
 
-This bot is a standard Mijjin mech, the mech has brown eye pieces. The bot is the Dook Larue Character from the {{< wiki-link "Rock-afire Explosion" >}} in the smaller Mijjin style, sporting a brand new outfit, consisting of Beige Boots, Purple Overalls, a Green Shirt, and a hat with the colors Pink, Blue, and Purple. The only cosmetic differences between bots are different fabric patches on the Overalls.
+This bot is a standard Mijjin mech, the mech has brown eye pieces. The bot is the Dook Larue Character from the [Rock-afire Explosion] in the smaller Mijjin style, sporting a brand new outfit, consisting of Beige Boots, Purple Overalls, a Green Shirt, and a hat with the colors Pink, Blue, and Purple. The only cosmetic differences between bots are different fabric patches on the Overalls.
 
 ## Movements
 

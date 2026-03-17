@@ -1,9 +1,9 @@
-***Country Klunk* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in January 1985 as an alternative version of {{< wiki-link "Country II" >}} for stores that had {{< wiki-link "Uncle Klunk (Animatronic)" >}}.
+***Country Klunk* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations in January 1985 as an alternative version of [Country II] for stores that had [Uncle Klunk (Animatronic)].
 The tape cuts out all of the intro segments from Country II, replaces the Ricky Scaggs Medley to have Klunk take over Dook's park in Heartbroke, and 3 new Klunk specific songs are added.**
 
 ## History
 
-Upon the digitization of Rock-afire Explosion tapes in the early 2000's, the segment "My Own Grandpa" would not be found for unknown reasons. The segment appears on the proper tape due to two separate pieces of footage confirming its existence. Both pieces however do not show the entire segment, as one is filmed at ShowBiz briefly, and another at Circus Pizza in full- but with edits by Creative Engineering to remove mentions of "ShowBiz" in the intro.{{< cite 1 >}}
+Upon the digitization of Rock-afire Explosion tapes in the early 2000's, the segment "My Own Grandpa" would not be found for unknown reasons. The segment appears on the proper tape due to two separate pieces of footage confirming its existence. Both pieces however do not show the entire segment, as one is filmed at ShowBiz briefly, and another at Circus Pizza in full- but with edits by Creative Engineering to remove mentions of "ShowBiz" in the intro.[1]
 
 ## Segment List
 

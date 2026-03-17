@@ -16,11 +16,11 @@
 5. **Special 3**
     1.  Beach Boys Birthday
 6. **Special 4**
-    1.  {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}}
+    1.  [Birthday Extravaganza (Chuck E. Cheese Branded)]
 7. **Special 5**
-    1.  {{< wiki-link "Chuck E. Cheese Live" >}}
+    1.  [Chuck E. Cheese Live]
 8. **Special 6**
-    1.  {{< wiki-link "Birthday Extravaganza (ShowBiz Branded)" >}}
+    1.  [Birthday Extravaganza (ShowBiz Branded)]
 9. **Segment 3**
     1. Twelve Days of Christmas
 10. **Segment 4**

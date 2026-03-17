@@ -8,4 +8,4 @@ The is a solid brass circular pin. Engraved is Chuck E. Cheese with his arms out
 
 ## Acquirement
 
-Employees could only receive this pin after being an employee at Pizza Time Theatre for 3 consecutive years. This pin specifically was given out to employees at the original *San Jose, CA (370 S Winchester Blvd) {{< wiki-link "Pizza Time Theatre" >}}* location who began work at the store's opening or throughout 1977. It is unclear if this was also given to the *San Jose, CA (1371 Kooser Rd) Pizza Time Theatre* location employees.
+Employees could only receive this pin after being an employee at Pizza Time Theatre for 3 consecutive years. This pin specifically was given out to employees at the original *San Jose, CA (370 S Winchester Blvd) [Pizza Time Theatre]* location who began work at the store's opening or throughout 1977. It is unclear if this was also given to the *San Jose, CA (1371 Kooser Rd) Pizza Time Theatre* location employees.

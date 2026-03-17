@@ -1,4 +1,4 @@
-The ***Talking Clock* in the *Bubble House* attraction is a retrofit of {{< wiki-link "Sun (Animatronic)" >}} at the Texas State Fair.
+The ***Talking Clock* in the *Bubble House* attraction is a retrofit of [Sun (Animatronic)] at the Texas State Fair.
 The Bubble House is a fun house attraction with the main gimmick being, as the name implies, bubbles. It is designed to spray and cover the participant with bubbles as they maneuver through different rooms with colorful lights, moving platforms, and fun designs by the end of the experience. The talking clock is included with the many decorative scenes on the outside of the attraction at the top of the farthest right, yellow building.
 This Sun retrofit was most likely installed to the fun house around the same time as the other Rock-afire Explosion retrofits at the Texas State Fair in the late 90's or early 2000's. In 2021, the Bubble House did receive a restoration which freshened-up its appearance. However, the Sun was here to stay, and can still be viewed at the Texas State Fair today.**
 

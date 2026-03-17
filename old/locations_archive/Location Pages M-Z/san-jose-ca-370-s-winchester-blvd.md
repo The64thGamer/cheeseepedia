@@ -12,15 +12,15 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
 
-***San Jose, CA (370 S Winchester Blvd)*** was the first {{< wiki-link "Pizza Time Theatre" >}} that opened on May 17th, 1977, as apart of Warner Communications Inc, and closed in February of 1985.
+***San Jose, CA (370 S Winchester Blvd)*** was the first [Pizza Time Theatre] that opened on May 17th, 1977, as apart of Warner Communications Inc, and closed in February of 1985.
 
 ## Stage
 
-Winchester opened with a show consisting of Chuck E. Cheese, Crusty the Cat and Jasper T. Jowls in portrait frames. Also featured was Pasqually the Chef behind kitchen doors and the Warblettes on their own platform. Scattered on shelves throughout the room would be the Pizza Time Orchestra and the Clapper Board as well as various other objects. A more advanced bot, Helen Henny, would be delivered to the store on August 12, 1977. She would be replaced with Madam Oink in February 1978, and Foxy Colleen followed in October 1978. Around June of 1978, upgraded versions of Crusty and Chuck E. Cheese with more movements would be installed. As shown in 1979 footage of the store, the store's bots were not maintained often. Between 1980-1981, Winchester would replace their bots with {{< wiki-link "Cyberamics" >}}.
+Winchester opened with a show consisting of Chuck E. Cheese, Crusty the Cat and Jasper T. Jowls in portrait frames. Also featured was Pasqually the Chef behind kitchen doors and the Warblettes on their own platform. Scattered on shelves throughout the room would be the Pizza Time Orchestra and the Clapper Board as well as various other objects. A more advanced bot, Helen Henny, would be delivered to the store on August 12, 1977. She would be replaced with Madam Oink in February 1978, and Foxy Colleen followed in October 1978. Around June of 1978, upgraded versions of Crusty and Chuck E. Cheese with more movements would be installed. As shown in 1979 footage of the store, the store's bots were not maintained often. Between 1980-1981, Winchester would replace their bots with [Cyberamics].
 
 ## History
 
-Development of Winchester as a location dates back to 1976 under the name 'The Big Cheese', 'Pizza Game Center', etc. The venue was planned to be a 6,000 square foot venue with 2 arcades and a casino lounge. A total of $43,106 worth of games and rides were purposed alongside the Mood Box and a Theatre Program. The second location (later being {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}) was also being planned alongside Winchester at the time. The spot chosen would be a 5,000 square foot building that *Security Pacific Bank* was moving out of. Drafts for a remodel of the building would be completed by December 22, 1976.(1) By January 18th, 1977, the plans for Winchester were sent to the County of Santa Clara and were approved with minor changes suggested by the county. On March 3rd, The Planning Commission gave the go-ahead to Warner Communications inc. to begin construction.(2) The Kooser Road store was also being proposed around this time, having it's location being voted on by the Planning Commission of San Jose.
+Development of Winchester as a location dates back to 1976 under the name 'The Big Cheese', 'Pizza Game Center', etc. The venue was planned to be a 6,000 square foot venue with 2 arcades and a casino lounge. A total of $43,106 worth of games and rides were purposed alongside the Mood Box and a Theatre Program. The second location (later being [San Jose, CA (1371 Kooser Rd)]) was also being planned alongside Winchester at the time. The spot chosen would be a 5,000 square foot building that *Security Pacific Bank* was moving out of. Drafts for a remodel of the building would be completed by December 22, 1976.(1) By January 18th, 1977, the plans for Winchester were sent to the County of Santa Clara and were approved with minor changes suggested by the county. On March 3rd, The Planning Commission gave the go-ahead to Warner Communications inc. to begin construction.(2) The Kooser Road store was also being proposed around this time, having it's location being voted on by the Planning Commission of San Jose.
 
 ### Opening
 
@@ -83,22 +83,22 @@ Around February 1985, Winchester would close permanently for unknown reasons, ho
 
 | Animatronic                                                             | Manufacturing Date | Whereabouts                                                  |
 |-------------------------------------------------------------------------|--------------------|--------------------------------------------------------------|
-| {{< wiki-link "Winchester Chuck E. Cheese V1 (Animatronic)" >}}   | Unknown            | Unknown.                                                     |
-| {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}}   | Unknown            | Owned by Travis Schafer.                                     |
-| {{< wiki-link "Winchester Crusty the Cat V1 (Animatronic)" >}}    | Unknown            | Unknown.                                                     |
-| {{< wiki-link "Winchester Crusty the Cat V2 (Animatronic)" >}}    | Unknown            | Owned by Travis Schafer.                                     |
-| {{< wiki-link "Winchester Pasqually (Animatronic)" >}}            | Unknown            | Destroyed.                                                   |
-| {{< wiki-link "Winchester Jasper T. Jowls (Animatronic)" >}}      | Unknown            | Destroyed.                                                   |
-| {{< wiki-link "Winchester Helen Henny (Animatronic)" >}}          | 8/12/1977          | Unknown.                                                     |
-| {{< wiki-link "Winchester Madam Oink (Animatronic)" >}}           | Unknown            | Unknown                                                      |
-| {{< wiki-link "Winchester Foxy Colleen (Animatronic)" >}}         | Unknown            | Unknown                                                      |
-| {{< wiki-link "Winchester Warblettes (Animatronic)" >}}           | Unknown            | Unknown.                                                     |
-| {{< wiki-link "Winchester Pizza Time Orchestra (Animatronic)" >}} | Unknown            | Unknown.                                                     |
-| {{< wiki-link "Winchester Flag Wavers (Animatronic)" >}}          | Unknown            | Unknown.                                                     |
-| {{< wiki-link "Winchester Applause Board (Animatronic)" >}}       | Unknown            | Unknown.                                                     |
+| [Winchester Chuck E. Cheese V1 (Animatronic)]   | Unknown            | Unknown.                                                     |
+| [Winchester Chuck E. Cheese V2 (Animatronic)]   | Unknown            | Owned by Travis Schafer.                                     |
+| [Winchester Crusty the Cat V1 (Animatronic)]    | Unknown            | Unknown.                                                     |
+| [Winchester Crusty the Cat V2 (Animatronic)]    | Unknown            | Owned by Travis Schafer.                                     |
+| [Winchester Pasqually (Animatronic)]            | Unknown            | Destroyed.                                                   |
+| [Winchester Jasper T. Jowls (Animatronic)]      | Unknown            | Destroyed.                                                   |
+| [Winchester Helen Henny (Animatronic)]          | 8/12/1977          | Unknown.                                                     |
+| [Winchester Madam Oink (Animatronic)]           | Unknown            | Unknown                                                      |
+| [Winchester Foxy Colleen (Animatronic)]         | Unknown            | Unknown                                                      |
+| [Winchester Warblettes (Animatronic)]           | Unknown            | Unknown.                                                     |
+| [Winchester Pizza Time Orchestra (Animatronic)] | Unknown            | Unknown.                                                     |
+| [Winchester Flag Wavers (Animatronic)]          | Unknown            | Unknown.                                                     |
+| [Winchester Applause Board (Animatronic)]       | Unknown            | Unknown.                                                     |
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                 | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}                    | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}                          | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}                         | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}}            | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}                        | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
+| [Jasper T Jowls (Cyberamic)]                    | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
+| [Mr Munch (Cyberamic)]                          | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
+| [Pasqually (Cyberamic)]                         | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
+| [Guest Star Helen Henny (Cyberamic)]            | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
+| [Warblettes (Cyberamic)]                        | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |

@@ -10,11 +10,11 @@ citations = ["<a href=\"https://www.youtube.com/watch?v=eTY3GuEOTX4\">https://ww
 pageThumbnailFile = "yPnXQTg52y5eZWexn04A.avif"
 +++
 
-***(2908 S Broad St)*** was an Pizza Party USA that opened in the late 1990's with a {{< wiki-link "Classic Stage" >}}.(1) It closed at an unknown date.
+***(2908 S Broad St)*** was an Pizza Party USA that opened in the late 1990's with a [Classic Stage].(1) It closed at an unknown date.
 
 ## History
 
-The store would be opened by Gana Garner sometime in the late 1990's with a Rock-afire Explosion, sometime before or in 1997. After only a few years of operation it would fall into disrepair. Once the location finally closed, the Rock-afire Explosion was sent back to {{< wiki-link "Orlando, FL (47 W Jefferson St)" >}}.
+The store would be opened by Gana Garner sometime in the late 1990's with a Rock-afire Explosion, sometime before or in 1997. After only a few years of operation it would fall into disrepair. Once the location finally closed, the Rock-afire Explosion was sent back to [Orlando, FL (47 W Jefferson St)].
 
 ## Videos
 

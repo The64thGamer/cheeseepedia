@@ -1,5 +1,5 @@
 Holiday Special 1992 is a Christmas-themed showtape that played during the 1992 holiday season. It was the second Christmas showtape to be produced for Munch's Make Believe Band.
-The majority of this show's content would end up being reused for {{< wiki-link "Holiday '93" >}}, which would run from 1993 to 1994.
+The majority of this show's content would end up being reused for [Holiday '93], which would run from 1993 to 1994.
 
 ## Show List:
 

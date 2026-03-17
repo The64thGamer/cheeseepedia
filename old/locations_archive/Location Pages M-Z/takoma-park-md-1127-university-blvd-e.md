@@ -10,7 +10,7 @@ citations = []
 pageThumbnailFile = "RkJXDem2jBNK28GBCfZz.avif"
 +++
 
-***Takoma Park, MD (1127 University Blvd E)*** is a Chuck E. Cheese’s location that opened in 2012 with a {{< wiki-link "Circles of Light" >}} {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} stage and animatronic. It is located in the Hampshire Langley Shopping Center in Takoma Park, MD. Takoma Park is one of the stores to have a Circles of Light stage with an animatronic.
+***Takoma Park, MD (1127 University Blvd E)*** is a Chuck E. Cheese’s location that opened in 2012 with a [Circles of Light] [Chuck E Cheese 16m (Animatronic)] stage and animatronic. It is located in the Hampshire Langley Shopping Center in Takoma Park, MD. Takoma Park is one of the stores to have a Circles of Light stage with an animatronic.
 
 ## Stages and Animatronics
 
@@ -18,7 +18,7 @@ Takoma Park is home to a Circles of Light Studio C stage. It has not recieved th
 
 | Stage                                      | Installed | Removed | Status       |
 |--------------------------------------------|-----------|---------|--------------|
-| {{< wiki-link "Circles of Light" >}} | 2012      | N/A     | Still in use |
+| [Circles of Light] | 2012      | N/A     | Still in use |
 
 ## History
 

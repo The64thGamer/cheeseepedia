@@ -61,8 +61,8 @@ The **January 2008 Show** was a showtape released in 2008 with eight songs.
 
 ### Store Submitted Videos
 
-- In the {{< wiki-link "Summer 2007 Show" >}} newsletter, an ad invited stores to submit videos for inclusion in the January 2008 Show. The same thing was attempted previously for the {{< wiki-link "April 2007 Show" >}}. Cast members were to record videos of themselves lip-syncing to the song while doing their job. The deadline for submissions was October 29th, 2007. {{< wiki-link "Atlanta, GA (2990 Cumberland Blvd)" >}} and {{< wiki-link "Fayetteville, GA (786 Glynn St)" >}} were chosen and featured in the video for 'Takin' Care of Business'.
+- In the [Summer 2007 Show] newsletter, an ad invited stores to submit videos for inclusion in the January 2008 Show. The same thing was attempted previously for the [April 2007 Show]. Cast members were to record videos of themselves lip-syncing to the song while doing their job. The deadline for submissions was October 29th, 2007. [Atlanta, GA (2990 Cumberland Blvd)] and [Fayetteville, GA (786 Glynn St)] were chosen and featured in the video for 'Takin' Care of Business'.
 
 ## Trivia:
 
-- Super Jasper - 'Cadilac Ranch' is reused from {{< wiki-link "April 1999" >}}, VeggieTales - 'Gated Community' is reused from {{< wiki-link "January 2006 Show" >}}, the Minute Maid Spot is reused from {{< wiki-link "April 2006 Show" >}}, and Flying is reused from {{< wiki-link "September 2006 Show" >}}.
+- Super Jasper - 'Cadilac Ranch' is reused from [April 1999], VeggieTales - 'Gated Community' is reused from [January 2006 Show], the Minute Maid Spot is reused from [April 2006 Show], and Flying is reused from [September 2006 Show].

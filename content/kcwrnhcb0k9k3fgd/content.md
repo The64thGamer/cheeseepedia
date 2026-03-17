@@ -17,6 +17,6 @@ It is currently unclear if the known segment list is the exact order from the sh
 
 ## Trivia:
 
-- All of the songs in this show are from previous CEC showtapes with some lyrics changed to better fit The King. 'Party Place' and 'Baseball Diamond Dreams' are from {{< wiki-link "Spring Break" >}}, 'Chuck E. Shuffle' was originally a Chuck E. Shuffle |live show, 'Go Chuck E. Go' is from {{< wiki-link "January 1995" >}} and 'I Won't Give Up' is from {{< wiki-link "Don't Stop Thinking About Tomorrow" >}}.
+- All of the songs in this show are from previous CEC showtapes with some lyrics changed to better fit The King. 'Party Place' and 'Baseball Diamond Dreams' are from [Spring Break], 'Chuck E. Shuffle' was originally a Chuck E. Shuffle |live show, 'Go Chuck E. Go' is from [January 1995] and 'I Won't Give Up' is from [Don't Stop Thinking About Tomorrow].
 - This showtape is one of the last to be released as a reel-to-reel tape. A majority of locations had already converted to SVHS format for Cyberamic shows.
 - As this is the last cabaret showtape, it is likely that stores were instructed to play this tape until further notice. As a result, this show would continue for several months up until all Cabaret acts were removed from locations.

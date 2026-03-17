@@ -1,4 +1,4 @@
-***Bandstand I*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny. The show was released in March of 1984{{< cite 1 >}}.
+***Bandstand I*** is a standard Pizza Time Theatre showtape covering a wide array of song genres with Helen Henny. The show was released in March of 1984[1].
 
 ## Show List:
 

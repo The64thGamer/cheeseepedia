@@ -1,4 +1,4 @@
-**Road Show 2011** was a CD released alongside the {{< wiki-link "Holiday Party 2010 Show" >}} which featured twelve {{< wiki-link "Road Shows" >}}. 
+**Road Show 2011** was a CD released alongside the [Holiday Party 2010 Show] which featured twelve [Road Shows]. 
 
 ## Track List:
 

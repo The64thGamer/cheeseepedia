@@ -84,17 +84,17 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 ## Trivia
 
 - Most of the intermissions in this show are reused
-  - The two Charlie Rockit intermissions, 'Chuck E.'s Zoo View' and the footage in countdown 7 are reused from {{< wiki-link "Let The Good Times Roll" >}}.
-  - The music in countdown 7 first appeared in {{< wiki-link "January 1995" >}}.
-  - Countdown 2 reuses footage from {{< wiki-link "April 1999" >}}.
-  - Countdowns 3 and 5 reuse footage from {{< wiki-link "January 2001 Show" >}}.
-  - Super Jasper - 'Resist The Temptation' is reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}.
-  - Countdowns 1 and 6 reuse footage from {{< wiki-link "September 2001 Show" >}}.
+  - The two Charlie Rockit intermissions, 'Chuck E.'s Zoo View' and the footage in countdown 7 are reused from [Let The Good Times Roll].
+  - The music in countdown 7 first appeared in [January 1995].
+  - Countdown 2 reuses footage from [April 1999].
+  - Countdowns 3 and 5 reuse footage from [January 2001 Show].
+  - Super Jasper - 'Resist The Temptation' is reused from [Chuck E's Rockin' Rhymes].
+  - Countdowns 1 and 6 reuse footage from [September 2001 Show].
   - 'Pasqually's Polka Minute' is reused from January 2002.
-  - 'Pizza Survivor' is reused from {{< wiki-link "September 2002 Show" >}}.
-  - VeggieTales - 'Belly Button' is reused from {{< wiki-link "September 2003 Show" >}}.
-  - Countdown 4 uses the cut footage for 'Going On A Diet' from {{< wiki-link "September 2004" >}}. Also, the instrumental for 'Smile' is used for Countdown 3.
-- In segment 3, when the video feed is rebooted, various pieces of footage appear on the screen. All of them are from this show with the exception of two frames from {{< wiki-link "You're A Star" >}}, those being a shot of Dick Frank in 'Frank's Barber Shop' and stock footage from 'Vacation'.
+  - 'Pizza Survivor' is reused from [September 2002 Show].
+  - VeggieTales - 'Belly Button' is reused from [September 2003 Show].
+  - Countdown 4 uses the cut footage for 'Going On A Diet' from [September 2004]. Also, the instrumental for 'Smile' is used for Countdown 3.
+- In segment 3, when the video feed is rebooted, various pieces of footage appear on the screen. All of them are from this show with the exception of two frames from [You're A Star], those being a shot of Dick Frank in 'Frank's Barber Shop' and stock footage from 'Vacation'.
 - The Studio C DVD contains a version of 'Nobody But Me' live, which has text saying '8 Minutes to Showtime!'. This was a mistake and was fixed with a second version of the live which appears at the end of the disc. 'Super Jasper' also appears twice on the disc, though there doesn't seem to be any reason why.
 - This was the last show programmed by Matt Daniel before leaving the entertainment department and moving to California.
 - ‘Chuck E. Shuffle’ and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.

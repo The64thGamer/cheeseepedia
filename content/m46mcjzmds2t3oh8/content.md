@@ -1,4 +1,4 @@
-The ***Pizza Time Theatre Around the World theme* was a temporary alteration to the stage and character designs for use in the 1980 {{< wiki-link "Around the World with Madam Oink" >}} showtape.**
+The ***Pizza Time Theatre Around the World theme* was a temporary alteration to the stage and character designs for use in the 1980 [Around the World with Madam Oink] showtape.**
 
 ## Stage Design
 

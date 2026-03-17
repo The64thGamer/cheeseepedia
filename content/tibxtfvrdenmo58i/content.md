@@ -1,4 +1,4 @@
-Gulliver's World has a retrofitted {{< wiki-link "Rock-afire Explosion" >}} show renamed to 'The Hard Luck Bears' and is located in its own theater. the character positioning is the same to the original Rock-afire Explosion set-up except the characters themselves feature different clothing and all have replacement bear masks.
+Gulliver's World has a retrofitted [Rock-afire Explosion] show renamed to 'The Hard Luck Bears' and is located in its own theater. the character positioning is the same to the original Rock-afire Explosion set-up except the characters themselves feature different clothing and all have replacement bear masks.
 
 ## History
 
@@ -30,39 +30,39 @@ Todo: Describe outfits
 
 ### Earl Schmerle
 
-{{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} is unchanged from his original Rock-afire Explosion design.
+[Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] is unchanged from his original Rock-afire Explosion design.
 
 ### Rolfe DeWolfe
 
-{{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} is using the bear mask of previous Creative Engineering character Repete Thornsberry.
+[Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] is using the bear mask of previous Creative Engineering character Repete Thornsberry.
 
 ### Dook Larue
 
-{{< wiki-link "Dook Larue (Animatronic)" >}} uses the character mask is of previous Creative Engineering character Billy Boy. His drum set has the snare and kickdrum replaced with wooden prop drums.
+[Dook Larue (Animatronic)] uses the character mask is of previous Creative Engineering character Billy Boy. His drum set has the snare and kickdrum replaced with wooden prop drums.
 
 ### Fatz Geronimo
 
-{{< wiki-link "Fatz Geronimo (Animatronic)" >}} has many cosmetic changes his hands and feet have been replaced with bear claws and his character mask is of previous Creative Engineering character Billy Bill. Fatz Tune Machine organ has a wooden covering with a custom logo.
+[Fatz Geronimo (Animatronic)] has many cosmetic changes his hands and feet have been replaced with bear claws and his character mask is of previous Creative Engineering character Billy Bill. Fatz Tune Machine organ has a wooden covering with a custom logo.
 
 ### Beach Bear
 
-{{< wiki-link "Beach Bear (Animatronic)" >}} remains mostly unchanged compared to his Rock-afire Explosion design, instead having plad shorts and using a lighter colored Billy Bob Guitar.
+[Beach Bear (Animatronic)] remains mostly unchanged compared to his Rock-afire Explosion design, instead having plad shorts and using a lighter colored Billy Bob Guitar.
 
 ### Mitzi Mozzarella
 
-{{< wiki-link "Mitzi Mozzarella (Animatronic)" >}} wears the character mask is of previous Creative Engineering character Pete Thornsberry.
+[Mitzi Mozzarella (Animatronic)] wears the character mask is of previous Creative Engineering character Pete Thornsberry.
 
 ### Billy Bob
 
-{{< wiki-link "Billy Bob (Animatronic)" >}} is unchanged from his original Rock-AFire Explosion design, he features his '1990's standard' character mask.
+[Billy Bob (Animatronic)] is unchanged from his original Rock-AFire Explosion design, he features his '1990's standard' character mask.
 
 ### Looney Bird
 
-{{< wiki-link "Looney Bird (Animatronic)" >}} is unchanged from his original Rock-AFire Explosion design.
+[Looney Bird (Animatronic)] is unchanged from his original Rock-AFire Explosion design.
 
 ### Prop Characters
 
-All prop characters are unchanged from the original Rock-AFire Explosion designs. ({{< wiki-link "Sun (Animatronic)" >}}, {{< wiki-link "Moon (Animatronic)" >}}, {{< wiki-link "Choo Choo (Animatronic)" >}}, Frog, Birthday Bird &amp; {{< wiki-link "Antioch (Animatronic)" >}}).
+All prop characters are unchanged from the original Rock-AFire Explosion designs. ([Sun (Animatronic)], [Moon (Animatronic)], [Choo Choo (Animatronic)], Frog, Birthday Bird &amp; [Antioch (Animatronic)]).
 
 ## Trivia
 

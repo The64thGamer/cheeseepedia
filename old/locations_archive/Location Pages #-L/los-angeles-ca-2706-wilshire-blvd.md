@@ -17,7 +17,7 @@ latitudeLongitude = ["34.05956897","-118.2844846"]
 
 ## Stages
 
-As the location was being planned in 2011, it was originally going to house a {{< wiki-link "Studio C Beta" >}}. But ever since it was pushed back it eventually got a {{< wiki-link "Circles of Light" >}} show with a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}.
+As the location was being planned in 2011, it was originally going to house a [Studio C Beta]. But ever since it was pushed back it eventually got a [Circles of Light] show with a [Chuck E Cheese 16m (Animatronic)].
 
 ## History
 
@@ -36,4 +36,4 @@ The earliest documentation of this location being developed goes back to Septemb
 
 | Animatronic                                                | Serial | Whereabouts       |
 |------------------------------------------------------------|--------|-------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A    | Unknown/Destroyed |
+| [Chuck E Cheese 16m (Animatronic)] | N/A    | Unknown/Destroyed |

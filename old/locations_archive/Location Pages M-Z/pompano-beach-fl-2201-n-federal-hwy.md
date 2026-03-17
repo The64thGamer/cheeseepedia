@@ -13,7 +13,7 @@ pageThumbnailFile = "NOfGOEl8Ss2m_xwfpwfv.avif"
 latitudeLongitude = ["26.25604812","-80.10370908"]
 +++
 
-***Pompano Beach, FL (2201 N Federal Hwy), Store #789*** is a *Chuck E. Cheese's* that opened on November 17, 2014 with a {{< wiki-link "Circles of Light" >}}, which is still open to this day. This location received the 2.0 Remodel in February 2022, keeping the COL, being the only location to completely keep the stage (West Palm Beach got 2.0 in March 2022, but they removed the 32M Chuck E. Bot).
+***Pompano Beach, FL (2201 N Federal Hwy), Store #789*** is a *Chuck E. Cheese's* that opened on November 17, 2014 with a [Circles of Light], which is still open to this day. This location received the 2.0 Remodel in February 2022, keeping the COL, being the only location to completely keep the stage (West Palm Beach got 2.0 in March 2022, but they removed the 32M Chuck E. Bot).
 
 ## History
 
@@ -72,7 +72,7 @@ Originally when the store opened, they had a Circles of Light with no Chuck E. b
 - Gear it Up!
 - Jumpin' Fantasy
 - Jackpot Xtreme
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 
 ### Coin Action
 
@@ -87,7 +87,7 @@ Originally when the store opened, they had a Circles of Light with no Chuck E. b
 
 - Ducky Splash
 - Dog Pounder
-- {{< wiki-link "Air Hockey" >}}
+- [Air Hockey]
 - Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 - Jett Rider
 - Arka Jungle Boat

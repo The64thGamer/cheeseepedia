@@ -1,4 +1,4 @@
-The ***Studio C Interactive Console* was an element included with the {{< wiki-link "Studio C" >}} Alpha Stages as a way to make the show more of an interactive experience.
+The ***Studio C Interactive Console* was an element included with the [Studio C] Alpha Stages as a way to make the show more of an interactive experience.
 The final Interactive Console was at the Bridgewater, New Jersey location until April 7, 2024 when the store would close.**
 
 ## Design and Features

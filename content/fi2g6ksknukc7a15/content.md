@@ -6,7 +6,7 @@ Video would output to an external monitor on the diagnostics cart, and signals/a
 Only a few tapes are known to have been in this format:
 
 - Billy Bob Diagnostic Tape
-- {{< wiki-link "Beach Bear Diagnostic Tape" >}}
+- [Beach Bear Diagnostic Tape]
 - Rolfe & Earl Diagnostic Tape
-- {{< wiki-link "ShowBiz Pizza Calibration Video Tape" >}}
-- {{< wiki-link "Uncle Klunk Diagnostic Tape" >}}
+- [ShowBiz Pizza Calibration Video Tape]
+- [Uncle Klunk Diagnostic Tape]

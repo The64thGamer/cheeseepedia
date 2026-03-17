@@ -96,5 +96,5 @@
 
 ## Trivia:
 
-- All segments in this show are originally from {{< wiki-link "Chuck E's Holiday Party 1999" >}}
-- This would mark the final time {{< wiki-link "Chuck E's Holiday Party 1999" >}} would be reissued.
+- All segments in this show are originally from [Chuck E's Holiday Party 1999]
+- This would mark the final time [Chuck E's Holiday Party 1999] would be reissued.

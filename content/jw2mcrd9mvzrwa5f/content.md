@@ -1,6 +1,6 @@
 ***3-Stage Diagnostics Tape 1993* was a diagnostics tape released just two years after the initial Concept Unification Diagnostics Tape 1, as the original was no longer usable during the 1993 showtape conversion of signals.
 Multiple things from the *ShowBiz Pizza Time* corporate office show can be seen changed between each tape. Chuck and Helen's masks are different, Munch's organ cover was changed from the early sunrise design to the standard design, Jasper's guitar was changed from the original Beach Bear guitar to the cheese guitar, and Pasqually's drum front changing from the orange swirl design to the blue explosion design.
-The {{< wiki-link "CU Flower (Animatronic)" >}} also makes an appearance in the tape, being shown on Pasqually's stage.**
+The [CU Flower (Animatronic)] also makes an appearance in the tape, being shown on Pasqually's stage.**
 
 ## Diagnostics List:
 

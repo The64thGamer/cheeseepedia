@@ -1,8 +1,8 @@
-The ***Pizza Phone*** is an animatronic figure created by Garner Holt Productions, Inc. for Chuck E. Cheese's locations, manufactured from 1997-2001. It was only used on the {{< wiki-link "Studio C Alpha" >}} stage, and was also used at {{< wiki-link "Jeddah (Corniche Road), Saudi Arabia" >}} on their unique {{< wiki-link "Studio C Beta Prototype" >}}.
+The ***Pizza Phone*** is an animatronic figure created by Garner Holt Productions, Inc. for Chuck E. Cheese's locations, manufactured from 1997-2001. It was only used on the [Studio C Alpha] stage, and was also used at [Jeddah (Corniche Road), Saudi Arabia] on their unique [Studio C Beta Prototype].
 
 ## History
 
-The Pizza Phone was created by Garner Holt Productions in 1997 as part of the {{< wiki-link "Studio C Alpha" >}} stage, situated next to Chuck in the main booth. Pizza Phones would be installed from 1997-2002, alongside 2012 and 2015. In December of 2001, it would be installed in the {{< wiki-link "Jeddah (Corniche Road), Saudi Arabia" >}} location on their unique {{< wiki-link "Studio C Beta Prototype" >}}. The phone would not be included in the designs for {{< wiki-link "Studio C Beta" >}} and {{< wiki-link "Studio C Cappa" >}} going forward. In July of 2019 the Jeddah store would close, leaving the rest of Pizza Phones exclusively at {{< wiki-link "Studio C Alpha" >}} locations. As of August 2024, only 7 Pizza Phones remain in stores.
+The Pizza Phone was created by Garner Holt Productions in 1997 as part of the [Studio C Alpha] stage, situated next to Chuck in the main booth. Pizza Phones would be installed from 1997-2002, alongside 2012 and 2015. In December of 2001, it would be installed in the [Jeddah (Corniche Road), Saudi Arabia] location on their unique [Studio C Beta Prototype]. The phone would not be included in the designs for [Studio C Beta] and [Studio C Cappa] going forward. In July of 2019 the Jeddah store would close, leaving the rest of Pizza Phones exclusively at [Studio C Alpha] locations. As of August 2024, only 7 Pizza Phones remain in stores.
 
 ## Design
 

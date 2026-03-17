@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["37.70695697","-121.9332431"]
 +++
 
-***Dublin, CA (7590 Amador Valley Blvd)*** was a ShowBiz Pizza Place that opened on April 21, 1982 with a Wolf Pack 5, and closed in December 1985 (day unknown) with a Rock-afire Explosion. This location is not to be confused with {{< wiki-link "Dublin, CA (7448 Amador Valley Blvd)" >}}, which was a Chuck E. Cheese's, which opened on August 1, 1994, with a 1-Stage and is still open to this day.
+***Dublin, CA (7590 Amador Valley Blvd)*** was a ShowBiz Pizza Place that opened on April 21, 1982 with a Wolf Pack 5, and closed in December 1985 (day unknown) with a Rock-afire Explosion. This location is not to be confused with [Dublin, CA (7448 Amador Valley Blvd)], which was a Chuck E. Cheese's, which opened on August 1, 1994, with a 1-Stage and is still open to this day.
 
 ## History
 

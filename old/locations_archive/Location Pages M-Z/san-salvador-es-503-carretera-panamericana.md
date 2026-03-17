@@ -28,7 +28,7 @@ The location received positive reviews from Salvadorans.
 
 ## Dance Floor Model
 
-The location opened with what is presumed to be a 2019 {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}.
+The location opened with what is presumed to be a 2019 [Chuck E Live Stage (Dance Floor)].
 
 | Model               | Installed | Removed | Notes                |
 |---------------------|-----------|---------|----------------------|

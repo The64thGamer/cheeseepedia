@@ -1,4 +1,4 @@
-The ***Cyberamics Reel* was a showtape format used for all showtapes on the {{< wiki-link "Cyberamic Control System" >}}.
+The ***Cyberamics Reel* was a showtape format used for all showtapes on the [Cyberamic Control System].
 The tape itself was a Maxell UD 35-90 7', and was produced with a trans-black plastic shell, with 1800ft of tape spooled around it. The Cyberamic signals and showtape audio would be recorded into the left and right channels on the tape, making the audio only in mono when played through the stage speakers.**
 
 ## Product Quality Seal

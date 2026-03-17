@@ -1,5 +1,5 @@
 ***Chuck E. Cheese's Show 3 2017 Part 2* released May 21st 2017.
-This was created to play from May 21st 2017. - June 18th 2017. This show was a reissue of {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}} to remove any reference to the Guiness World Record and adding Helen's Birthday skit.**
+This was created to play from May 21st 2017. - June 18th 2017. This show was a reissue of [Chuck E. Cheese's Show 3 2017] to remove any reference to the Guiness World Record and adding Helen's Birthday skit.**
 
 ## Show List:
 
@@ -82,7 +82,7 @@ This was created to play from May 21st 2017. - June 18th 2017. This show was a r
 
 ## Trivia:
 
-- 'Remember That Time' and 'Together We've Got It' are both from {{< wiki-link "Chuck E. Cheese's Show 1 2017" >}}. Helen's Birthday is originally from {{< wiki-link "Chuck E. Cheese's Show 4 2016" >}}
-- 'Chuck E.'s Place 2017' is a modern remake of the {{< wiki-link "CEC Jan '91" >}} version of the song.
+- 'Remember That Time' and 'Together We've Got It' are both from [Chuck E. Cheese's Show 1 2017]. Helen's Birthday is originally from [Chuck E. Cheese's Show 4 2016]
+- 'Chuck E.'s Place 2017' is a modern remake of the [CEC Jan '91] version of the song.
 - 'Chuck E.'s Place 2017' was filmed at the Plano, TX Chuck E. Cheese.
 - Helen's Birthday and all of the '40 Years of Fun' skits are only programmed for 3stage and Cyberamic stores, despite the former being programmed on Studio C for Show 4 2016.

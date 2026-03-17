@@ -1,1 +1,1 @@
-***Hollister, CA (1802 Shelton Drive)*** was the {{< wiki-link "Pizza Time Theatre Games Division" >}} Manufacturing Facility from April 1982 to August 1984, which housed employees of Pete's Woodworking, Inc. after it was bought out and moved to the new building.
+***Hollister, CA (1802 Shelton Drive)*** was the [Pizza Time Theatre Games Division] Manufacturing Facility from April 1982 to August 1984, which housed employees of Pete's Woodworking, Inc. after it was bought out and moved to the new building.

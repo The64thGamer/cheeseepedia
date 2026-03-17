@@ -24,9 +24,9 @@ Originally, Sacramento (Arden) had a Balcony Stage when it first opened in Febru
 
 | Stage                                              | Installed             | Removed          | Notes                                |
 |----------------------------------------------------|-----------------------|------------------|--------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | February 1982         | Late 80's        | One of many installed in California. |
-| {{< wiki-link "Chuck E's House Facade" >}}   | Late 80's             | Early 90's       | One of many installed in California. |
-| {{< wiki-link "2-Stage" >}}                  | Early 90's            | January 22, 2024 | One of many installed in California. |
+| [Cyberamics Balcony Stage] | February 1982         | Late 80's        | One of many installed in California. |
+| [Chuck E's House Facade]   | Late 80's             | Early 90's       | One of many installed in California. |
+| [2-Stage]                  | Early 90's            | January 22, 2024 | One of many installed in California. |
 | Dance Floor + Video Wall                           | January-February 2024 | Still in use.    |                                      |
 
 ## Animatronics
@@ -34,16 +34,16 @@ Originally, Sacramento (Arden) had a Balcony Stage when it first opened in Febru
 | Animatronic                                                  | Serial Code | Condition | Whereabouts                           |
 |--------------------------------------------------------------|-------------|-----------|---------------------------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A         |           | Owned by Firecat\_p                   |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | N/A         |           | Owned by Firecat\_p                   |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | N/A         |           | Owned by Firecat\_P /Wayfinder\_triko |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | N/A         |           | Owned by Firecat\_P                   |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | N/A         |           | Owned by Firecat\_P                   |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | N/A         | N/A       | Unknown/Destroyed                     |
+| [Guest Star Helen Henny (Cyberamic)] | N/A         |           | Owned by Firecat\_p                   |
+| [Mr Munch (Cyberamic)]               | N/A         |           | Owned by Firecat\_P /Wayfinder\_triko |
+| [Jasper T Jowls (Cyberamic)]         | N/A         |           | Owned by Firecat\_P                   |
+| [Pasqually (Cyberamic)]              | N/A         |           | Owned by Firecat\_P                   |
+| [Warblettes (Cyberamic)]             | N/A         | N/A       | Unknown/Destroyed                     |
 | Waving Flags (Cyberamic)                                     | N/A         | N/A       | Unknown/Destroyed                     |
 | Clapper Board (Cyberamic)                                    | N/A         | N/A       | Unknown/Destroyed                     |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | N/A         | N/A       | Unknown/Destroyed                     |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | N/A         | N/A       | Unknown/Destroyed                     |
-| {{< wiki-link "Wink" >}}                               | N/A         |           | Unknown/Destroyed                     |
+| [Singing Flowers (Cyberamic)]        | N/A         | N/A       | Unknown/Destroyed                     |
+| [The King King Kat (Lounge)]         | N/A         | N/A       | Unknown/Destroyed                     |
+| [Wink]                               | N/A         |           | Unknown/Destroyed                     |
 
 ## Videos
 

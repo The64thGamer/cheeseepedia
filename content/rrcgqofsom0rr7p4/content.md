@@ -1,5 +1,5 @@
 ***Chuck E. Cheese Pineville Grand Re-Opening Show*** is the showtape released on July 26, 2024, to play exclusively for Pinevilles Grand Re-Opening event. The show features a variety of songs released from 2014-2023.
-This show features no intermissions and would play six segments on repeat from around 5:00pm-7:00pm. After 7:00 {{< wiki-link "Chuck E. Cheese Evergreen Show 2024 (July Update) 3-Stage Legacy" >}} would begin playing.
+This show features no intermissions and would play six segments on repeat from around 5:00pm-7:00pm. After 7:00 [Chuck E. Cheese Evergreen Show 2024 (July Update) 3-Stage Legacy] would begin playing.
 
 ## Show List
 

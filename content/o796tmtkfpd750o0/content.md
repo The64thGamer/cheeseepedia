@@ -1,4 +1,4 @@
-The ***Dolli Dimples {{< wiki-link "Cyberamics" >}}*** were a set of animatronics created by {{< wiki-link "Pizza Time Theatre" >}} in the early 80's for the Cabaret. This animatronic first premiered at the {{< wiki-link "Concord, CA (1975 Diamond Blvd)" >}} in 1979. She now appeared much more simplified and polished than her first appearance in {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}.
+The ***Dolli Dimples [Cyberamics]*** were a set of animatronics created by [Pizza Time Theatre] in the early 80's for the Cabaret. This animatronic first premiered at the [Concord, CA (1975 Diamond Blvd)] in 1979. She now appeared much more simplified and polished than her first appearance in [San Jose, CA (1371 Kooser Rd)].
 
 ## Movements
 

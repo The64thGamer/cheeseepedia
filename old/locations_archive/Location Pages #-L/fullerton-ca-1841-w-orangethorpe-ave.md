@@ -13,7 +13,7 @@ pageThumbnailFile = "MLg3fza51aiP6T6HgTmb.avif"
 latitudeLongitude = ["33.85856937","-117.9626361"]
 +++
 
-***1841 W Orangethorpe Ave*** was a Chuck E. Cheese's Pizza Time Theatre that opened in March 1980 and closed in 1985 with a Portrait Stage. This was the 9th location ever opened. It is not to be confused with the {{< wiki-link "Fullerton, CA (1134 S Harbor Blvd)" >}} location, which opened on December 17, 1991 with a 3-Stage and closed on November 17, 2020 with a Studio C Beta, 16m.
+***1841 W Orangethorpe Ave*** was a Chuck E. Cheese's Pizza Time Theatre that opened in March 1980 and closed in 1985 with a Portrait Stage. This was the 9th location ever opened. It is not to be confused with the [Fullerton, CA (1134 S Harbor Blvd)] location, which opened on December 17, 1991 with a 3-Stage and closed on November 17, 2020 with a Studio C Beta, 16m.
 
 ## Stages
 

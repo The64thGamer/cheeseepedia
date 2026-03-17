@@ -13,7 +13,7 @@ pageThumbnailFile = "uC0c53XDpqgCK9Zxq3RV.avif"
 latitudeLongitude = ["40.68531802","-74.31173243"]
 +++
 
-***Union, NJ (2700 US-22), Store #542*** is *Chuck E. Cheese* that opened on May 15th, 2023 with a 2019 Model {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and {{< wiki-link "Video Wall" >}}. This store is a relocation of {{< wiki-link "Union, NJ (1660 US-22)" >}}, which opened on August 6th, 1984 with a {{< wiki-link "Cyberamics Balcony Stage" >}} and closed in November 2019 with a Studio C Beta, 16m.
+***Union, NJ (2700 US-22), Store #542*** is *Chuck E. Cheese* that opened on May 15th, 2023 with a 2019 Model [Chuck E Live Stage (Dance Floor)] and [Video Wall]. This store is a relocation of [Union, NJ (1660 US-22)], which opened on August 6th, 1984 with a [Cyberamics Balcony Stage] and closed in November 2019 with a Studio C Beta, 16m.
 
 ## Stages
 
@@ -23,7 +23,7 @@ latitudeLongitude = ["40.68531802","-74.31173243"]
 
 ## History
 
-Following the closure announcement of its original location at {{< wiki-link "Union, NJ (1660 US-22)" >}} in 2019, plans emerged to relocate the original Union CEC to the Route 22 Retail Center. However, due to COVID-19 and the company falling into bankruptcy in 2020, the plans were put to a halt until 2022. This location was a former Petco that relocated in 2019. After the building was vacated, a Spirit Halloween occupied the space for two Halloween seasons. In May 2022 a sign was put in the window to signify that a new Chuck E. Cheese location was coming soon, with construction beginning sometime around December 2022,(1) starting out with completely gutting the interior of the former Petco. On May 15th, 2023, the location had its soft opening, with Chuck E. Cheese fan *'Dr. EZ*' being the first guest to step foot inside the location. The grand opening date for this store was originally set for June 9th, 2023,(2) but was postponed a day before the supposed date due to the Canadian wildfires happening at the time, moving the grand opening date to June 22nd. The store would then held its grand opening on June 22nd, 2023. Since the store didn't have the other character walkarounds at the time of the its grand opening, they had to use character walkarounds from nearby stores for the event, with the Avenger Helen costume {{< wiki-link "Deptford, NJ (1500 Almonesson Rd)" >}}(3), and the Mr. Munch and Jasper costumes {{< wiki-link "Princeton, NJ (520 Nassau Park Blvd)" >}}. In May 2024, the store would receive parts for its Trampoline Zone.
+Following the closure announcement of its original location at [Union, NJ (1660 US-22)] in 2019, plans emerged to relocate the original Union CEC to the Route 22 Retail Center. However, due to COVID-19 and the company falling into bankruptcy in 2020, the plans were put to a halt until 2022. This location was a former Petco that relocated in 2019. After the building was vacated, a Spirit Halloween occupied the space for two Halloween seasons. In May 2022 a sign was put in the window to signify that a new Chuck E. Cheese location was coming soon, with construction beginning sometime around December 2022,(1) starting out with completely gutting the interior of the former Petco. On May 15th, 2023, the location had its soft opening, with Chuck E. Cheese fan *'Dr. EZ*' being the first guest to step foot inside the location. The grand opening date for this store was originally set for June 9th, 2023,(2) but was postponed a day before the supposed date due to the Canadian wildfires happening at the time, moving the grand opening date to June 22nd. The store would then held its grand opening on June 22nd, 2023. Since the store didn't have the other character walkarounds at the time of the its grand opening, they had to use character walkarounds from nearby stores for the event, with the Avenger Helen costume [Deptford, NJ (1500 Almonesson Rd)](3), and the Mr. Munch and Jasper costumes [Princeton, NJ (520 Nassau Park Blvd)]. In May 2024, the store would receive parts for its Trampoline Zone.
 
 ## Arcade Machines
 
@@ -78,7 +78,7 @@ Following the closure announcement of its original location at {{< wiki-link "Un
 - Wild Boat
 - KC Cobra
 - Car Tuned Racing
-- {{< wiki-link "Air Hockey" >}}
+- [Air Hockey]
 - Octonauts (Peso)
 - Bigfoot Crush
 - Spydero (White)
@@ -100,4 +100,4 @@ Following the closure announcement of its original location at {{< wiki-link "Un
 
 | Head                                                | Outfit &amp; Suits                       | Accessories | Whereabouts |
 |-----------------------------------------------------|------------------------------------------|-------------|-------------|
-| {{< wiki-link "Chuck 2014 (Costume Head)" >}} | Chuck Rockstar Attire 1 (Costume Outfit) | None        | In Use      |
+| [Chuck 2014 (Costume Head)] | Chuck Rockstar Attire 1 (Costume Outfit) | None        | In Use      |

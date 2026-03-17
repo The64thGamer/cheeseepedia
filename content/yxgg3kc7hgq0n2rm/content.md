@@ -75,6 +75,6 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 ## Trivia
 
-- This show uses songs from previous shows as countdowns. 'Where is Chuck E.', 'The More We Get Together' and 'Home With A Range' are from {{< wiki-link "Just For Kids Show 2000" >}} and 'Pizza Cabana' is from {{< wiki-link "Summertime 2000" >}}.
-- 'Chuck E.'s Place' is a remake of a song from {{< wiki-link "CEC Jan '91" >}}.
+- This show uses songs from previous shows as countdowns. 'Where is Chuck E.', 'The More We Get Together' and 'Home With A Range' are from [Just For Kids Show 2000] and 'Pizza Cabana' is from [Summertime 2000].
+- 'Chuck E.'s Place' is a remake of a song from [CEC Jan '91].
 - ‘Chuck E. Shuffle’ and 'Go Santa Go' appear on the Studio C DVDs but could not be played.

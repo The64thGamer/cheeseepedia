@@ -1,4 +1,4 @@
-The ***Animation Programming System (APS)*** was a collection of software created by David Philipsen for Chuck E. Cheese corporate in 1990. This would be used by the Entertainment department as the new way for creating and synching animatronic movements to their video productions. Notably this began around the time Concept Unification was being integrated into stores, making this software all-encompassing for handling the 3-Stage's Grey Box, the Cabaret's {{< wiki-link "Cyberamic Control System" >}}, and the newer Cyberamic SVHS stage controllers in one package. Sometime in the late 90's, it was updated to include support for Studio C. It continues to be used to this day for most programming at CEC Entertainment Corp.
+The ***Animation Programming System (APS)*** was a collection of software created by David Philipsen for Chuck E. Cheese corporate in 1990. This would be used by the Entertainment department as the new way for creating and synching animatronic movements to their video productions. Notably this began around the time Concept Unification was being integrated into stores, making this software all-encompassing for handling the 3-Stage's Grey Box, the Cabaret's [Cyberamic Control System], and the newer Cyberamic SVHS stage controllers in one package. Sometime in the late 90's, it was updated to include support for Studio C. It continues to be used to this day for most programming at CEC Entertainment Corp.
 
 ## Software
 
@@ -11,7 +11,7 @@ A few pieces of software were used in tandem for all the processes related to cr
 
 ## Version History
 
-Info on the versions is unclear, with the initial 1.0 version seen in 1991 being the only confirmation of a version number. *Brian Hagan* by his time working there mentions none of the menus for the Cabaret characters, suspecting some sort of major version change by 1996. The software would be updated once Studio C was made, as it is known to be programmed on APS. Finally, as confirmed by *Donovan Marcelle*, the last known update of APS was for the {{< wiki-link "Friday Night Neon" >}} show, in which David Philipsen flew in to update the software for the unique day/night shows.(1) This implies a previous update of the software for the {{< wiki-link "January 2010 Show" >}}, as that show also included a similar day/night system. This makes the potential updates:
+Info on the versions is unclear, with the initial 1.0 version seen in 1991 being the only confirmation of a version number. *Brian Hagan* by his time working there mentions none of the menus for the Cabaret characters, suspecting some sort of major version change by 1996. The software would be updated once Studio C was made, as it is known to be programmed on APS. Finally, as confirmed by *Donovan Marcelle*, the last known update of APS was for the [Friday Night Neon] show, in which David Philipsen flew in to update the software for the unique day/night shows.(1) This implies a previous update of the software for the [January 2010 Show], as that show also included a similar day/night system. This makes the potential updates:
 
 - v1.0 - Initial release (Around September 1990)
 - v??? - Cabaret removal (1995-1996)
@@ -29,7 +29,7 @@ The main APS program was used to select between five different types of animatro
 4. Beagles Programming
 5. Bowzers Programming
 
-At some point, CEC Road Stage programming was possibly added to the list, which would eventually lead to the *R12* format. Notably, the Beagles and Beach Bowzers are listed separately on the main menu. This could have been to simply change the names of the characters when using the editor, but could also possibly mean some bits on the {{< wiki-link "Bit Chart" >}} were swapped around. The Beagles being on the main menu also provides evidence towards the rumored 90's Beagles showtapes.
+At some point, CEC Road Stage programming was possibly added to the list, which would eventually lead to the *R12* format. Notably, the Beagles and Beach Bowzers are listed separately on the main menu. This could have been to simply change the names of the characters when using the editor, but could also possibly mean some bits on the [Bit Chart] were swapped around. The Beagles being on the main menu also provides evidence towards the rumored 90's Beagles showtapes.
 
 ## Programming Systems
 
@@ -47,7 +47,7 @@ The *ShowBiz Pizza Time Animation Program (SPTAP)* or *ShowBiz Pizza Time Animat
 | SNARES.ASG   | SPOTLTS.ASG  | S-R(?) |
 | WINK.ASG     |              | WAS(?) |
 
-(The third row of files is obscured, but can partially be seen) The main software allowed the user to play a programmed showtape live on their animatronics through the software. The show could be paused, fast-forwarded, and rewound, along with being able to skip to other segments in the show. Users could use their controller to activate bits on the {{< wiki-link "Bit Chart" >}}. The controller consisted of a top row of 8 toggle buttons, and a bottom row of 8 input buttons. Each toggle would record inputs for the button below it when enabled. These recorded inputs would activate movements and lights, creating the programming for the showtape.
+(The third row of files is obscured, but can partially be seen) The main software allowed the user to play a programmed showtape live on their animatronics through the software. The show could be paused, fast-forwarded, and rewound, along with being able to skip to other segments in the show. Users could use their controller to activate bits on the [Bit Chart]. The controller consisted of a top row of 8 toggle buttons, and a bottom row of 8 input buttons. Each toggle would record inputs for the button below it when enabled. These recorded inputs would activate movements and lights, creating the programming for the showtape.
 
 ## ShowBiz Pizza SMPTE Synchronization Program
 

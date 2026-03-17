@@ -1,4 +1,4 @@
-**Spring Training Revised** was a rerelease of {{< wiki-link "Spring Training" >}} with intermission changes.
+**Spring Training Revised** was a rerelease of [Spring Training] with intermission changes.
 
 ## Show List
 
@@ -69,5 +69,5 @@
 
 ## Trivia:
 
-- The footage for 'Good Lovin'' is replaced with reused footage from {{< wiki-link "Planes, Trains, And Automobiles" >}}.
+- The footage for 'Good Lovin'' is replaced with reused footage from [Planes, Trains, And Automobiles].
 - This release of the show replaces 'Groove Is In The Heart' and 'The Motown Song' with 'Train Ride' and 'Twinkle Twinkle'. Another 1 Minute Countdown was also added.

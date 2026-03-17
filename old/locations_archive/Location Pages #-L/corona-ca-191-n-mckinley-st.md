@@ -10,11 +10,11 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***191 N McKinley St, Store #407*** is a Chuck E. Cheese that opened on May 19, 1992, as a corporate location with a Road Stage which is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}. It is located next to Denny's that closed in 2020 and a gas station like {{< wiki-link "Huntington Beach, CA (15511 Edwards St)" >}}.
+***191 N McKinley St, Store #407*** is a Chuck E. Cheese that opened on May 19, 1992, as a corporate location with a Road Stage which is still open to this day with the [CEC 2.0 Remodel Program]. It is located next to Denny's that closed in 2020 and a gas station like [Huntington Beach, CA (15511 Edwards St)].
 
 ## History
 
-Corona opened on May 19th, 1992, as a corporate-owned location. Corona opened with the 1988 Remodel including the CU decor, and the Road Stage. Around the Mid 1990's, They replaced the logo with Coach Chuck and removed older 90's decor for newer decor, the removal of the ball pit for SkyTubes. In 1999-2001, they would receive {{< wiki-link "Phase 3 (2000)" >}} which includes an expansion to make room for more games and replacing the Record Posters for Must C TV ones and adding some new decor. Corona remained like this until in Summer 2007, when they received the {{< wiki-link "CEC 2000's Remodel Program" >}}. which involved the removal of the showroom walls, removing older decor for newer decor, new booths, &amp; adding purple walls; they managed to keep the dim lighting. In around the Early 2010's, some of the decor such as the Dinner Lights and the sign above the Kid Check were removed. Corona remained like this until they remodeled to the 2.0 remodel between February-March 2024. Currently, as of May 2024, the location still has the 2.0 Remodel and the Dance Floor.
+Corona opened on May 19th, 1992, as a corporate-owned location. Corona opened with the 1988 Remodel including the CU decor, and the Road Stage. Around the Mid 1990's, They replaced the logo with Coach Chuck and removed older 90's decor for newer decor, the removal of the ball pit for SkyTubes. In 1999-2001, they would receive [Phase 3 (2000)] which includes an expansion to make room for more games and replacing the Record Posters for Must C TV ones and adding some new decor. Corona remained like this until in Summer 2007, when they received the [CEC 2000's Remodel Program]. which involved the removal of the showroom walls, removing older decor for newer decor, new booths, &amp; adding purple walls; they managed to keep the dim lighting. In around the Early 2010's, some of the decor such as the Dinner Lights and the sign above the Kid Check were removed. Corona remained like this until they remodeled to the 2.0 remodel between February-March 2024. Currently, as of May 2024, the location still has the 2.0 Remodel and the Dance Floor.
 
 ## Stages
 
@@ -22,19 +22,19 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 
 | Stage                                           | Installed           | Removed                                          |
 |-------------------------------------------------|---------------------|--------------------------------------------------|
-| {{< wiki-link "Road Stage" >}} | May 1992            | February 11, 2024. Refurbished in April of 2021. |
+| [Road Stage] | May 1992            | February 11, 2024. Refurbished in April of 2021. |
 | Dance Floor + Video Wall                        | February/March 2024 | Still in Use.                                    |
 
 ## Animatronics
 
 | Animatronic                                                  | Manufacturing Date | Serial Number | Status                                                |
 |--------------------------------------------------------------|--------------------|---------------|-------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | 1992               | Unknown       | Destroyed.https://www.youtube.com/watch?v=8yVK9Q7cADw |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1992               | 1032          | Destroyed.(0)                                         |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1992               | 1051          | Destroyed.(0)                                         |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1992               | 1079          | Owned by a private collector.                         |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1992               | Unknown       | Destroyed.(0)                                         |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1992               | N/A           | Destroyed.(0)                                         |
+| [Chuck E Cheese (Cyberamic)]         | 1992               | Unknown       | Destroyed.https://www.youtube.com/watch?v=8yVK9Q7cADw |
+| [Guest Star Helen Henny (Cyberamic)] | 1992               | 1032          | Destroyed.(0)                                         |
+| [Mr Munch (Cyberamic)]               | 1992               | 1051          | Destroyed.(0)                                         |
+| [Jasper T Jowls (Cyberamic)]         | 1992               | 1079          | Owned by a private collector.                         |
+| [Pasqually (Cyberamic)]              | 1992               | Unknown       | Destroyed.(0)                                         |
+| [Wink (Cyberamic)]                   | 1992               | N/A           | Destroyed.(0)                                         |
 
 ## Games
 
@@ -108,9 +108,9 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 | Link                                                   | Description                                                                                                                                             | Filming Date     | Publish Date     |
 |--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------|
 | [YouTube](https://www.youtube.com/watch?v=YdhZ6DfWz-M) | A video showcasing the store, games, &amp; Road Stage in December 2001                                                                                  | December 4, 2001 | February 7, 2023 |
-| [YouTube](https://www.youtube.com/watch?v=3p4lDqv9TRo) | 'Loppinsboopinfakindoopinfloopenloopenfunnin's Day' from {{< wiki-link "Chuck E Cheese's Show 1 2018" >}} being performed on Corona's Road Stage. | June 2020        | October 21, 2020 |
+| [YouTube](https://www.youtube.com/watch?v=3p4lDqv9TRo) | 'Loppinsboopinfakindoopinfloopenloopenfunnin's Day' from [Chuck E Cheese's Show 1 2018] being performed on Corona's Road Stage. | June 2020        | October 21, 2020 |
 | [YouTube](https://www.youtube.com/watch?v=ojQbbMdYxmA) | Store Tour 2020                                                                                                                                         | July 2020        | July 4, 2020     |
 | [YouTube](https://www.youtube.com/watch?v=zupbeIl4kCE) | Family vlog in which they visit Corona after closing for the 2nd time during the COVID-19 Pandemic.                                                     | April 2022       | April 11, 2022   |
 | [YouTube](https://www.youtube.com/watch?v=TucZ8US7tyo) | Family vlog in which they visit Corona after closing for the 2nd time during the COVID-19 Pandemic.                                                     | April/May 2022   | May 1, 2022      |
-| [YouTube](https://www.youtube.com/watch?v=TNmKGMxseFo) | 'Let's Be Friends' from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}} being performed on Corona's Road Stage.                                  | August 2022      | Aug 15, 2022     |
+| [YouTube](https://www.youtube.com/watch?v=TNmKGMxseFo) | 'Let's Be Friends' from [Chuck E Cheese's Show 3 2021] being performed on Corona's Road Stage.                                  | August 2022      | Aug 15, 2022     |
 | [YouTube](https://www.youtube.com/watch?v=ouB60iqWMuU) | Arcade Tour Chuck e Cheeses Corona CA                                                                                                                   | 22 july 2024     | 22 july 2024     |

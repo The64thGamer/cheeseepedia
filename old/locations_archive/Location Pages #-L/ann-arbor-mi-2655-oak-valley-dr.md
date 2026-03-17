@@ -13,7 +13,7 @@ pageThumbnailFile = "RFqhTtN94N4RiQc2spY_.avif"
 latitudeLongitude = ["42.24621377","-83.76971763"]
 +++
 
-**2655 Oak Valley Dr, Store #334** was a Chuck E. Cheese's that opened on November 2, 2000 with a Studio C Alpha, which closed on December 2, 2020. This location received the 16M Chuck E. animatronic from the Muskegon, Michigan store in June 2020, essentially turning it into a Studio C Alpha, 16M. Also, this location should not be confused with Ann Arbor, MI (2196 W Stadium Blvd) which was a Pizza Time Theatre location that opened on December 30, 1981 with the {{< wiki-link "Cyberamics Balcony Stage" >}} and closed in 1985 with the Family Album.
+**2655 Oak Valley Dr, Store #334** was a Chuck E. Cheese's that opened on November 2, 2000 with a Studio C Alpha, which closed on December 2, 2020. This location received the 16M Chuck E. animatronic from the Muskegon, Michigan store in June 2020, essentially turning it into a Studio C Alpha, 16M. Also, this location should not be confused with Ann Arbor, MI (2196 W Stadium Blvd) which was a Pizza Time Theatre location that opened on December 30, 1981 with the [Cyberamics Balcony Stage] and closed in 1985 with the Family Album.
 
 ## History
 
@@ -32,10 +32,10 @@ Originally when the store opened, they had a Studio C Alpha with a 32M Chuck E. 
 
 | Animatronic                                                | Serial Number | Whereabouts | Notes                                                    |
 |------------------------------------------------------------|---------------|-------------|----------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | Unknown       | Destroyed   | Replaced in June 2020                                    |
+| [Chuck E Cheese 32m (Animatronic)] | Unknown       | Destroyed   | Replaced in June 2020                                    |
 | Chuck E. Cheese 16M (Studio C)                             | Unknown       | Destroyed   | Came from Muskegon, Michigan, which closed in June 2020. |
 | Parrot (Animatronic)\|Bird (Studio C)                      | N/A           | Destroyed   |                                                          |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}        | N/A           | Destroyed   |                                                          |
+| [Pizza Phone (Animatronic)]        | N/A           | Destroyed   |                                                          |
 
 ## Arcade Machines
 

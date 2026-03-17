@@ -50,13 +50,13 @@
 - Spanish Birthday 2001
 - Patriotic Live 2000 (Existing Stages)
 
-**Birthday Break**: {{< wiki-link "January 2001 Show" >}} logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+**Birthday Break**: [January 2001 Show] logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
 
 ## Production
 
 ### Filming Locations
 
-- 'Bring The House Down' and 'The Tube Explorer' were shot at the {{< wiki-link "Grand Prairie, TX (2760 W I-20)" >}} location.
+- 'Bring The House Down' and 'The Tube Explorer' were shot at the [Grand Prairie, TX (2760 W I-20)] location.
 - 'La Bamba' was shot at Don Pablo's Mexican Cantina
 - 'Take The Last Train To Clarksville' was shot at The Grapevine Train Depot
 ### File Dates
@@ -72,6 +72,6 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 ## Trivia:
 - 'What I Like About You' Live and 'Patriotic Live 2000' both appear on the Studio C DVDs but could not be played.
-- VeggieTales 'The Song of The Cebu' and 'The Pirates Who Don't Do Anything' were reused from the {{< wiki-link "Just for Kids Show 2000" >}} and 'Will Frye The Nutrition Guy' is reused from {{< wiki-link "Studio C Premiere" >}}, though the music during the pyramid scene is different.
-- 'Dancing in the Street' mixes footage reused from the cover of the same song featured in {{< wiki-link "Spring Break" >}} and new footage.
+- VeggieTales 'The Song of The Cebu' and 'The Pirates Who Don't Do Anything' were reused from the [Just for Kids Show 2000] and 'Will Frye The Nutrition Guy' is reused from [Studio C Premiere], though the music during the pyramid scene is different.
+- 'Dancing in the Street' mixes footage reused from the cover of the same song featured in [Spring Break] and new footage.
 - Chuck's curtains close during 'Dancing in the Street' on all stages.

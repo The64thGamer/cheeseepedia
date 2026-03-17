@@ -1,5 +1,5 @@
 ***Chuck E. Cheese Summer Show 2023*** is the generic summer show released on June 5, 2023 featuring a variety of songs released from 2016-2023.
-This show released with 6 songs, with 2 more songs added in a later update. This is the first CEC Media Network exclusive showtape. Stores without the CEC Media Network will continue to play {{< wiki-link "Chuck E. Cheese Evergreen Show 2023" >}} until they install the CEC Media Network system.
+This show released with 6 songs, with 2 more songs added in a later update. This is the first CEC Media Network exclusive showtape. Stores without the CEC Media Network will continue to play [Chuck E. Cheese Evergreen Show 2023] until they install the CEC Media Network system.
 
 ## Show List 7/21 Update
 

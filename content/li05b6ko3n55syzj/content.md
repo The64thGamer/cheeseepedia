@@ -1,4 +1,4 @@
-**Chuck E. Cheese's Portable Live Show** was the first Road Show CD, which was released in April 2000 and featured two {{< wiki-link "Road Shows" >}}.
+**Chuck E. Cheese's Portable Live Show** was the first Road Show CD, which was released in April 2000 and featured two [Road Shows].
 
 ## Track List:
 1. **Track 1**

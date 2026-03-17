@@ -1,5 +1,5 @@
 ***SPP Neighbors - Faith - Dreams* is one of the last few showtapes released for *ShowBiz Pizza Place's* hosting the *Rock-afire Explosion*.
-For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape sent after {{< wiki-link "SPP Christmas '89 Wave Bday" >}} would become increasingly more rare as stores would convert to *3-Stages.*
+For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape sent after [SPP Christmas '89 Wave Bday] would become increasingly more rare as stores would convert to *3-Stages.*
 Note: It not comfirm to when this show was released but it was sometime between January or February 1990.**
 
 ## Show List:

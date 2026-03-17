@@ -13,11 +13,11 @@ pageThumbnailFile = "rE789UgiqrSAVtcNCqFq.avif"
 latitudeLongitude = ["41.06564377","-111.972663"]
 +++
 
-**450 N Main St** was a Chuck E Cheese's opened in 2008 (day Unknown) with a {{< wiki-link "Studio C Beta" >}} and closed in June 2020
+**450 N Main St** was a Chuck E Cheese's opened in 2008 (day Unknown) with a [Studio C Beta] and closed in June 2020
 
 ## History
 
-Layton opened as a {{< wiki-link "CEC 2000's Remodel Program" >}} store and had little to no changes during it's lifespan. This store has little to no documentation, and few photos. After 2017 Layton and Salt Lake City were the only 2 Chuck E Cheese's in the state of Utah. Layton opened with {{< wiki-link "Skytubes" >}} but they were removed later on.
+Layton opened as a [CEC 2000's Remodel Program] store and had little to no changes during it's lifespan. This store has little to no documentation, and few photos. After 2017 Layton and Salt Lake City were the only 2 Chuck E Cheese's in the state of Utah. Layton opened with [Skytubes] but they were removed later on.
 
 ## Stages
 

@@ -31,22 +31,22 @@ Marietta opened its doors on December 16th, 1981 as the second ShowBiz Pizza sto
 
 | Animatronics                                                              | Serial Number | Whereabouts        |
 |---------------------------------------------------------------------------|---------------|--------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 4-81 1-15     | Unknown/Destroyed. |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 4-81 2-15     | Unknown/Destroyed. |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 4-81 3-15     | Unknown/Destroyed. |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 4-81 4-15     | Unknown/Destroyed. |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 4-81 5-15     | Unknown/Destroyed. |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 4-81 6-15     | Unknown/Destroyed. |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 4-81 7-15     | Unknown/Destroyed. |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 4-81 8-15     | Unknown/Destroyed. |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 4-81 10-15    | Unknown/Destroyed. |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 4-81 11-15    | Unknown/Destroyed. |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown/Destroyed. |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown/Destroyed. |
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}                | Unknown       | Destroyed.         |
-| {{< wiki-link "Bird (Animatronic)" >}}                              | N/A           | Destroyed.         |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}                  | N/A           | Destroyed.         |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}                       | N/A           | Destroyed.         |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-15     | Unknown/Destroyed. |
+| [Dook Larue (Animatronic)]                        | 4-81 2-15     | Unknown/Destroyed. |
+| [Fatz Geronimo (Animatronic)]                     | 4-81 3-15     | Unknown/Destroyed. |
+| [Beach Bear (Animatronic)]                        | 4-81 4-15     | Unknown/Destroyed. |
+| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-15     | Unknown/Destroyed. |
+| [Billy Bob (Animatronic)]                         | 4-81 6-15     | Unknown/Destroyed. |
+| [Looney Bird (Animatronic)]                       | 4-81 7-15     | Unknown/Destroyed. |
+| [Choo Choo (Animatronic)]                         | 4-81 8-15     | Unknown/Destroyed. |
+| [Sun (Animatronic)]                               | 4-81 10-15    | Unknown/Destroyed. |
+| [Moon (Animatronic)]                              | 4-81 11-15    | Unknown/Destroyed. |
+| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed. |
+| [Wink]                                            | N/A           | Unknown/Destroyed. |
+| [Chuck E Cheese 32m (Animatronic)]                | Unknown       | Destroyed.         |
+| [Bird (Animatronic)]                              | N/A           | Destroyed.         |
+| [Pizza Time Clock (Animatronic)]                  | N/A           | Destroyed.         |
+| [Pizza Phone (Animatronic)]                       | N/A           | Destroyed.         |
 
 (W.I.P)
 

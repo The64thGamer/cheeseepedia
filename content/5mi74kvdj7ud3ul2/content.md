@@ -1,4 +1,4 @@
-The ***Pizza Time Theatre Winchester Restroom sign* first appeared at the first Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} in San Jose, California from May 1977 to presumably the 1981 remodel.**
+The ***Pizza Time Theatre Winchester Restroom sign* first appeared at the first Chuck E. Cheese's Pizza Time Theatre on [San Jose, CA (370 S Winchester Blvd)] in San Jose, California from May 1977 to presumably the 1981 remodel.**
 
 ## Production
 

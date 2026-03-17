@@ -2,7 +2,7 @@
 
 ## Revision
 
-The tape would see a revision a week later on April 26, 1984. It is unknown what was changed in the revision.{{< cite 1 >}}
+The tape would see a revision a week later on April 26, 1984. It is unknown what was changed in the revision.[1]
 
 ## Segment List
 

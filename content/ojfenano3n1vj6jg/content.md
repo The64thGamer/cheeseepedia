@@ -72,11 +72,11 @@ This show was intended to play from November 21st, 2016 - January 2nd, 2017 and 
 
 ## Trivia:
 
-- 'Let's Play Some Games for the Holidays' and 'Share The Joy' are originally from {{< wiki-link "Holiday 2014 Show" >}}.
+- 'Let's Play Some Games for the Holidays' and 'Share The Joy' are originally from [Holiday 2014 Show].
 - 'Merry Christmastime' and 'Holiday Medley' were both refilmed and re-recorded.
-- All of the songs have been reprogrammed from their original {{< wiki-link "Holiday 2014 Show" >}} runs.
+- All of the songs have been reprogrammed from their original [Holiday 2014 Show] runs.
 - Despite the fact that dialogue was added to the beginning of 'Merry Christmastime', the programming does not reflect that. This incited speculation that the songs were programmed using the 2014 audio before the 2016 versions were created.
 - Munch's lines in 'Share The Joy' were re-recorded in order to sound more in line with the current 'Rockstar' Munch vocals.
 - 'Pasqually's Birthday' reuses lines from 'Keep Drummin'', specifically when Pasqually says 'Ah, Thank You Thank You'. The subsequent laugh is taken from a 'Jokes from Pasqually' intermission.
 - 'Chuck E.'s Holiday Happy Dance' was a variation of 'Chuck E.'s Happy Dance' but with visuals and lyrics altered to fit the holiday theme.
-- The countdown for 'Chuck E.'s Holiday Happy Dance' features many instrumentals from {{< wiki-link "Holiday 1999 DATA UPGRADE" >}} and {{< wiki-link "Holiday 2002" >}} The songs used are '12 Days of Christmas', 'Boar's Head Carol', and 'We Wish You a Merry Christmas'.
+- The countdown for 'Chuck E.'s Holiday Happy Dance' features many instrumentals from [Holiday 1999 DATA UPGRADE] and [Holiday 2002] The songs used are '12 Days of Christmas', 'Boar's Head Carol', and 'We Wish You a Merry Christmas'.

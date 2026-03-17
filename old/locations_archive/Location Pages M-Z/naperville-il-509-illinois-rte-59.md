@@ -10,7 +10,7 @@ citations = ["<a href=\"https://www.google.com/maps/place/Chuck+E.+Cheese/@41.76
 pageThumbnailFile = "NpoggWRXqjhrmEtZ4nXs.avif"
 +++
 
-***506 Illinois Route 59, Store #97*** is a *Chuck E. Cheese* that opened on March 9, 2015, as the relocation of the {{< wiki-link "Naperville, IL (1154 E Ogden Ave)" >}} location which originally opened as a ShowBiz Pizza Place on April 4th, 1983, with a Rock-Afire Explosion and closed on March 1st, 2015, with a Studio C Alpha.
+***506 Illinois Route 59, Store #97*** is a *Chuck E. Cheese* that opened on March 9, 2015, as the relocation of the [Naperville, IL (1154 E Ogden Ave)] location which originally opened as a ShowBiz Pizza Place on April 4th, 1983, with a Rock-Afire Explosion and closed on March 1st, 2015, with a Studio C Alpha.
 
 ## History
 
@@ -22,7 +22,7 @@ Naperville opened with the Circles of Lights stage which they still have to this
 
 | Stage                                      | Installed  | Removed       | Notes                              |
 |--------------------------------------------|------------|---------------|------------------------------------|
-| {{< wiki-link "Circles of Light" >}} | March 2015 | Still in Use. | One of four installed in Illinois. |
+| [Circles of Light] | March 2015 | Still in Use. | One of four installed in Illinois. |
 
 ## Videos
 

@@ -196,4 +196,4 @@ Movements are repeated five times while lights and curtains are only done once. 
 
 ## Trivia:
 
-- This Diagnostics video has been reissued several times since 2002. For all 3-Stage DVDs until {{< wiki-link "Holiday 2006" >}} it was installed onto each showtape. This continued until January 2007 where it was reissued onto DVD. Finally, it was reissued digitally on Navori in 2022. The contents of the tape have never been modified since its original 2002 release.
+- This Diagnostics video has been reissued several times since 2002. For all 3-Stage DVDs until [Holiday 2006] it was installed onto each showtape. This continued until January 2007 where it was reissued onto DVD. Finally, it was reissued digitally on Navori in 2022. The contents of the tape have never been modified since its original 2002 release.

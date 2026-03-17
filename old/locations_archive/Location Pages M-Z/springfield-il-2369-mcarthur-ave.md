@@ -13,20 +13,20 @@ pageThumbnailFile = "TEtOs4g0sqeuQWAvd1RH.avif"
 latitudeLongitude = ["39.6536259","-89.7731769"]
 +++
 
-***2369 McArthur Ave (current address 2369 S MacArthur Blvd), Store #47*** is a *Chuck E. Cheese’s* that opened on April 22, 1982, as a corporate owned *ShowBiz Pizza Place* with the {{< wiki-link "Classic Stage" >}} and is still open to this day, with the last {{< wiki-link "Concept Unification 1-Stage" >}} It is located in the Town and Country Shopping Center. In May of 2024, CEC Entertainment would announce that Springfield would be one of 5 locations to keep its stage and be designated as a Munch's Make Believe Band Residency|Legacy Location.
+***2369 McArthur Ave (current address 2369 S MacArthur Blvd), Store #47*** is a *Chuck E. Cheese’s* that opened on April 22, 1982, as a corporate owned *ShowBiz Pizza Place* with the [Classic Stage] and is still open to this day, with the last [Concept Unification 1-Stage] It is located in the Town and Country Shopping Center. In May of 2024, CEC Entertainment would announce that Springfield would be one of 5 locations to keep its stage and be designated as a Munch's Make Believe Band Residency|Legacy Location.
 
 ## Stages
 
 | Stage                                                 | Installed     | Removed      | Notes                                                                                                                                                                    |
 |-------------------------------------------------------|---------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}               | April 1982    | 1991         | 4th ShowBiz Pizza store to open in Illinois.                                                                                                                             |
-| {{< wiki-link "Concept Unification Stage" >}}   | 1991          | Early 2011   | One of 10 ShowBiz stores in Illinois to undergo Concept Unification.                                                                                                     |
-| {{< wiki-link "Concept Unification 1-Stage" >}} | Early 2011    | Still in Use | One of three installed in-store. Last CU 1-Stage in existence. Last Creative Engineering bots in the state and region. Will be kept in-store throughout the 2.0 remodel. |
+| [Classic Stage]               | April 1982    | 1991         | 4th ShowBiz Pizza store to open in Illinois.                                                                                                                             |
+| [Concept Unification Stage]   | 1991          | Early 2011   | One of 10 ShowBiz stores in Illinois to undergo Concept Unification.                                                                                                     |
+| [Concept Unification 1-Stage] | Early 2011    | Still in Use | One of three installed in-store. Last CU 1-Stage in existence. Last Creative Engineering bots in the state and region. Will be kept in-store throughout the 2.0 remodel. |
 | Dance Floor                                           | June 15, 2024 | Still in Use | 2019 Model.                                                                                                                                                              |
 
 ## History
 
-Springfield opened its doors on April 22nd, 1982, as the 4th ShowBiz Pizza Place in Illinois (4th after {{< wiki-link "Darien, IL (7409 Cass Ave)" >}}, {{< wiki-link "Bloomingdale, IL (132 E Lake St)" >}}, {{< wiki-link "Arlington Heights, IL (955 W Dundee Rd)" >}}). It was originally and currently a corporate-owned store. Like many other ShowBiz locations, it had a typical ShowBiz layout. Although some little documentation exists back in the ShowBiz days, it can be determined that Springfield was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package). Like many ShowBiz locations in the late 1980s, Springfield received the ShowBiz Pizza Campground upgrade and the 80s remodel. In 1991, Springfield received Concept Unification. This converted the show to Munch's Make Believe Band. In around the Mid-Late 90s, Springfield would receive {{< wiki-link "Phase 1 (1994)" >}} and {{< wiki-link "Phase 2 (1997)" >}} which removed some early 90s decor, added new decor, and added SkyTubes. Springfield remained this way until Early 2011, when they received the 2005 remodel and the {{< wiki-link "Concept Unification 1-Stage" >}}. This also included tearing down the Showroom walls &amp; balcony seating, removing 90s decor, expanding the store, adding bright florescent lighting, &amp; adding purple walls. On June 11th, 2024, the store would begin its Legacy Store variant of the {{< wiki-link "CEC 2.0 Remodel Program" >}}. On June 14th, 2024, Springfield would receive parts from {{< wiki-link "Whitehall, PA (1000 Lehigh Valley Mall)" >}}'s CU-1 Stage and {{< wiki-link "Laurel, MD (936 Fairlawn Ave)" >}}'s 3-Stage from the {{< wiki-link "ShowBiz Pizza Time Distribution Center (Topeka, KS)" >}}. Once the parts arrived, mechanical repairs began taking place on the show. The purple walls would be repainted to white and the Gameroom TVs were installed in the store. The store would also keep the majority of its 2005 remodel art. On July 3rd, 2024, CEC announced that the Grand Reopening would take place on the 25th.
+Springfield opened its doors on April 22nd, 1982, as the 4th ShowBiz Pizza Place in Illinois (4th after [Darien, IL (7409 Cass Ave)], [Bloomingdale, IL (132 E Lake St)], [Arlington Heights, IL (955 W Dundee Rd)]). It was originally and currently a corporate-owned store. Like many other ShowBiz locations, it had a typical ShowBiz layout. Although some little documentation exists back in the ShowBiz days, it can be determined that Springfield was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package). Like many ShowBiz locations in the late 1980s, Springfield received the ShowBiz Pizza Campground upgrade and the 80s remodel. In 1991, Springfield received Concept Unification. This converted the show to Munch's Make Believe Band. In around the Mid-Late 90s, Springfield would receive [Phase 1 (1994)] and [Phase 2 (1997)] which removed some early 90s decor, added new decor, and added SkyTubes. Springfield remained this way until Early 2011, when they received the 2005 remodel and the [Concept Unification 1-Stage]. This also included tearing down the Showroom walls &amp; balcony seating, removing 90s decor, expanding the store, adding bright florescent lighting, &amp; adding purple walls. On June 11th, 2024, the store would begin its Legacy Store variant of the [CEC 2.0 Remodel Program]. On June 14th, 2024, Springfield would receive parts from [Whitehall, PA (1000 Lehigh Valley Mall)]'s CU-1 Stage and [Laurel, MD (936 Fairlawn Ave)]'s 3-Stage from the [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Once the parts arrived, mechanical repairs began taking place on the show. The purple walls would be repainted to white and the Gameroom TVs were installed in the store. The store would also keep the majority of its 2005 remodel art. On July 3rd, 2024, CEC announced that the Grand Reopening would take place on the 25th.
 
 ## Arcade Machines
 
@@ -57,7 +57,7 @@ Springfield opened its doors on April 22nd, 1982, as the 4th ShowBiz Pizza Place
 - Dead Heat Street Racing (2 units)
 - Mad Wave Motion Theater
 - Terminator Salvation
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Frogger
 - Jumpin’ Fantasy
 - SideShow
@@ -68,7 +68,7 @@ Springfield opened its doors on April 22nd, 1982, as the 4th ShowBiz Pizza Place
 - Pump Jump
 - Robin Hood
 - Nicktoons Nitro Racing
-- {{< wiki-link "Pop It for Gold" >}}
+- [Pop It for Gold]
 
 #### Coin Action
 
@@ -100,15 +100,15 @@ Springfield opened its doors on April 22nd, 1982, as the 4th ShowBiz Pizza Place
 
 | Character                                                                 | Serial     | Status                                          |
 |---------------------------------------------------------------------------|------------|-------------------------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 7-81 1-16  | In store.                                       |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 7-81 2-16  | In store.                                       |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 7-81 3-16  | In store.                                       |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 7-81 4-16  | In store. Last Beach Bear guitar in a location. |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 7-81 5-16  | In store.                                       |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 7-81 6-16  | Dismantled, parts kept in storage.              |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 7-81 7-16  | Head owned by a private collector.              |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 7-81 8-16  | Unknown, possibly destroyed.                    |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 7-81 10-16 | Unknown, possibly destroyed.                    |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 7-81 11-16 | Unknown, possibly destroyed.                    |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A        | Unknown, possibly destroyed.                    |
-| {{< wiki-link "Wink" >}}                                            | N/A        | Unknown, possibly destroyed.                    |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-81 1-16  | In store.                                       |
+| [Dook Larue (Animatronic)]                        | 7-81 2-16  | In store.                                       |
+| [Fatz Geronimo (Animatronic)]                     | 7-81 3-16  | In store.                                       |
+| [Beach Bear (Animatronic)]                        | 7-81 4-16  | In store. Last Beach Bear guitar in a location. |
+| [Mitzi Mozzarella (Animatronic)]                  | 7-81 5-16  | In store.                                       |
+| [Billy Bob (Animatronic)]                         | 7-81 6-16  | Dismantled, parts kept in storage.              |
+| [Looney Bird (Animatronic)]                       | 7-81 7-16  | Head owned by a private collector.              |
+| [Choo Choo (Animatronic)]                         | 7-81 8-16  | Unknown, possibly destroyed.                    |
+| [Sun (Animatronic)]                               | 7-81 10-16 | Unknown, possibly destroyed.                    |
+| [Moon (Animatronic)]                              | 7-81 11-16 | Unknown, possibly destroyed.                    |
+| [Antioch (Animatronic)]                           | N/A        | Unknown, possibly destroyed.                    |
+| [Wink]                                            | N/A        | Unknown, possibly destroyed.                    |

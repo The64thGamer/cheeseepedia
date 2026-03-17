@@ -2,7 +2,7 @@ The ***Bear Review* Showtape was the last showtape sent out at *Creative Enginee
 
 ## Summary
 
-Rather than the usual names of the {{< wiki-link "Mini Stage" >}} cast, the characters are given unique ones except for Billy Bob:
+Rather than the usual names of the [Mini Stage] cast, the characters are given unique ones except for Billy Bob:
 
 - Looney Bird - Clem
 - Mitzi Mozzarella - Peaches

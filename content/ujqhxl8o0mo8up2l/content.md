@@ -1,5 +1,5 @@
-The ***Uncle Klunk Diagnostic Showtape* is a July 1983 diagnostic tape for {{< wiki-link "Uncle Klunk (Animatronic)" >}} using the {{< wiki-link "CEI Betamax" >}} format to display an identical diagnostic video alongside the {{< wiki-link "Data" >}}.
-The only segment, *Pizza Expert*, was reused from the {{< wiki-link "Uncle Klunk Showtape" >}} bundled in the same package Uncle Klunk was shipped with.**
+The ***Uncle Klunk Diagnostic Showtape* is a July 1983 diagnostic tape for [Uncle Klunk (Animatronic)] using the [CEI Betamax] format to display an identical diagnostic video alongside the [Data].
+The only segment, *Pizza Expert*, was reused from the [Uncle Klunk Showtape] bundled in the same package Uncle Klunk was shipped with.**
 
 ## Segment List
 

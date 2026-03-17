@@ -13,7 +13,7 @@ pageThumbnailFile = "fG4rGSeUwx7ugzQz2ll7.avif"
 latitudeLongitude = ["42.22353992","-88.29033693"]
 +++
 
-***4725 Northwest Highway, Store #053*** is a *Chuck E. Cheese's* that opened on October 16th, 2000, with a Studio C Alpha and currently has the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
+***4725 Northwest Highway, Store #053*** is a *Chuck E. Cheese's* that opened on October 16th, 2000, with a Studio C Alpha and currently has the [CEC 2.0 Remodel Program].
 
 ## Stages
 
@@ -43,21 +43,21 @@ Crystal Lake opened on October 16th, 2000, with the 90s remodel and a Studio C A
 - Angry Birds Arcade
 - Slam-A-Winner
 - NBA Game Time
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Launch Code
 - Jumpin' Fantasy
 - H2Overdrive
 - Eiffel Tower
 - Panning For Gold
 - Super Monkey Ball Ticket Blitz
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Sonic Spinner
 - Sonic Blast Ball
 - Barrel of Monkeys
 - Teeter Totter Castle
 - Temple Run
 - Frogger
-- {{< wiki-link "Pop It for Gold" >}}
+- [Pop It for Gold]
 - Crossbow Master: Chuck E. Cheese's
 - Ice Age
 - Disney Crossy Road
@@ -94,7 +94,7 @@ Crystal Lake opened on October 16th, 2000, with the 90s remodel and a Studio C A
 
 | Animatronic                                                | Serial | Whereabouts |
 |------------------------------------------------------------|--------|-------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 105    | Destroyed   |
-| {{< wiki-link "Bird (Animatronic)" >}}               | N/A    | Destroyed   |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}        | N/A    | Destroyed   |
+| [Chuck E Cheese 32m (Animatronic)] | 105    | Destroyed   |
+| [Bird (Animatronic)]               | N/A    | Destroyed   |
+| [Pizza Phone (Animatronic)]        | N/A    | Destroyed   |
 |                                                            |        |             |

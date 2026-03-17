@@ -18,9 +18,9 @@ latitudeLongitude = ["29.53523062","-95.1500438"]
 
 | Stage                                                      | Installed   | Removed       | Notes                                                                       |
 |------------------------------------------------------------|-------------|---------------|-----------------------------------------------------------------------------|
-| {{< wiki-link "2-Stage" >}}                          | March 1993  | 1999-2000     | The where bout's of the animatronics are unknown, Most likely trashed.      |
-| {{< wiki-link "Studio C Alpha" >}}                   | 1999-2000   | August 2019   | The 32 movement was most likely sent back to SPT, Serial number is unknown. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | August 2019 | Still in Use. | This is the latest stage that Webster has. Later upgraded to 2021 model.    |
+| [2-Stage]                          | March 1993  | 1999-2000     | The where bout's of the animatronics are unknown, Most likely trashed.      |
+| [Studio C Alpha]                   | 1999-2000   | August 2019   | The 32 movement was most likely sent back to SPT, Serial number is unknown. |
+| [Chuck E Live Stage (Dance Floor)] | August 2019 | Still in Use. | This is the latest stage that Webster has. Later upgraded to 2021 model.    |
 | Video Wall                                                 | 2021-2024   | Still in use. |                                                                             |
 
 ## History

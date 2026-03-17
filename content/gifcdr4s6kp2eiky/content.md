@@ -89,8 +89,8 @@
 
 ## Trivia:
 
-- 'Rock It Up' is reused from {{< wiki-link "CEC Rock It Into Space" >}}, 'Train Ride' is reused from {{< wiki-link "Planes, Trains, And Automobiles" >}}, 'Vamos a Bailar' is reused from the {{< wiki-link "January 1993 Show" >}}, 'Take Me Out To The Ballgame' and 'Midnight Special' are reused from {{< wiki-link "Spring Training" >}}, 'Ball Crawl', 'Willie & The Hand Jive', and 'Clock Tells Me (Time For Chuck E.'s Place)' are reused from the {{< wiki-link "July 1993 Show" >}}, 'Freeze Frame' is reused from {{< wiki-link "Let The Good Times Roll" >}}, both versions of 'Party Place' and 'Baseball Diamond Dreams' are reused from {{< wiki-link "Spring Break" >}}, Chuck E. Cheese Video Olympics is reused from {{< wiki-link "January 1995" >}}, and 'I Won't Give Up' is reused from {{< wiki-link "Don't Stop Thinking About Tomorrow" >}}.
+- 'Rock It Up' is reused from [CEC Rock It Into Space], 'Train Ride' is reused from [Planes, Trains, And Automobiles], 'Vamos a Bailar' is reused from the [January 1993 Show], 'Take Me Out To The Ballgame' and 'Midnight Special' are reused from [Spring Training], 'Ball Crawl', 'Willie & The Hand Jive', and 'Clock Tells Me (Time For Chuck E.'s Place)' are reused from the [July 1993 Show], 'Freeze Frame' is reused from [Let The Good Times Roll], both versions of 'Party Place' and 'Baseball Diamond Dreams' are reused from [Spring Break], Chuck E. Cheese Video Olympics is reused from [January 1995], and 'I Won't Give Up' is reused from [Don't Stop Thinking About Tomorrow].
 - All of the segments include newly recorded intros and outros as well as the Jukebox Jam logo.
-- 'Freeze Frame' has different footage in this show, which is reused from the {{< wiki-link "Patriotic 1994 Show" >}}.
-- Unlike in {{< wiki-link "Don't Stop Thinking About Tomorrow" >}}, 'I Won't Give Up' is the complete song, with a line of dialogue by Chuck that was not in the original show. It also has completely different footage.
-- The showtape had merchandise with the {{< wiki-link "Chuck E's Jukebox Jam Cup (1997)" >}}
+- 'Freeze Frame' has different footage in this show, which is reused from the [Patriotic 1994 Show].
+- Unlike in [Don't Stop Thinking About Tomorrow], 'I Won't Give Up' is the complete song, with a line of dialogue by Chuck that was not in the original show. It also has completely different footage.
+- The showtape had merchandise with the [Chuck E's Jukebox Jam Cup (1997)]

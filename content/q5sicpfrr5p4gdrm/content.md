@@ -6,7 +6,7 @@ The design is a metal pin featuring Coach Chuck art. The bottom section of the p
 
 ### Store Variations
 
-- 'New Hartford, NY' ({{< wiki-link "New Hartford, NY (4631 Commercial Dr)" >}}, 2006)
+- 'New Hartford, NY' ([New Hartford, NY (4631 Commercial Dr)], 2006)
 
 ## Acquirement
 

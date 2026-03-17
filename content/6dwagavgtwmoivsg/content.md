@@ -1,8 +1,8 @@
-The ***Cyberamics Tester* was a diagnostic unit used in the early days of the {{< wiki-link "Cyberamics" >}} that allowed individual testing of each bit of a character card.**
+The ***Cyberamics Tester* was a diagnostic unit used in the early days of the [Cyberamics] that allowed individual testing of each bit of a character card.**
 
 ## Description
 
-The unit would presumably bypass the {{< wiki-link "Cyberamic Control System" >}}, having the character card plug directly into it, and having its outputs go straight to the solenoid board of the character. Due to the solenoid board being directly on the animatronic, the tester likely had to climb directly onto the stage and test the movements right next to the character. An audio out port exists on the top of the machine, it is unclear what this was used for.
+The unit would presumably bypass the [Cyberamic Control System], having the character card plug directly into it, and having its outputs go straight to the solenoid board of the character. Due to the solenoid board being directly on the animatronic, the tester likely had to climb directly onto the stage and test the movements right next to the character. An audio out port exists on the top of the machine, it is unclear what this was used for.
 
 ## Production / Usage
 

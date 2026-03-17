@@ -1,4 +1,4 @@
-The ***Kooser Chuck E. Cheese Nameplate* was only used at the second Chuck E. Cheese's Pizza Time Theatre located on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} located in the Blossom Hill Shopping Center in San Jose California; where it was placed under the {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}} from November 1978 to May, 1980.**
+The ***Kooser Chuck E. Cheese Nameplate* was only used at the second Chuck E. Cheese's Pizza Time Theatre located on [San Jose, CA (1371 Kooser Rd)] located in the Blossom Hill Shopping Center in San Jose California; where it was placed under the [Kooser Chuck E. Cheese (Animatronic)] from November 1978 to May, 1980.**
 
 ## Production
 
@@ -7,14 +7,14 @@ There is a high chance the Kooser Chuck E. Cheese nameplate was the first develo
 
 ## Usage
 
-The only usage of the nameplate was at the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} where it was placed under the Kooser Chuck E. Cheese animatronic from as early as November 1978, where it lasted until May 1980. After the Kooser Portrait Show was retired, several scenarios involving the nameplate could have played out after May 1980, those being:
+The only usage of the nameplate was at the [San Jose, CA (1371 Kooser Rd)] where it was placed under the Kooser Chuck E. Cheese animatronic from as early as November 1978, where it lasted until May 1980. After the Kooser Portrait Show was retired, several scenarios involving the nameplate could have played out after May 1980, those being:
 **A.** *The nameplate was placed in one of several storage rooms at the 1371 Kooser Road location and thrown out.*
 **B.** *The nameplate was placed in one of several storage rooms at the 1371 Kooser Road location and destroyed.*
-**C.** *The nameplate was sent to the Sunnyvale, CA (1213 Innsbruck Drive)|1213 Innsbruck Drive corporate office in Sunnyvale, California, alongside the {{< wiki-link "Kooser PTT Show" >}}*
+**C.** *The nameplate was sent to the Sunnyvale, CA (1213 Innsbruck Drive)|1213 Innsbruck Drive corporate office in Sunnyvale, California, alongside the [Kooser PTT Show]*
 
 ## Design
 
-Pizza Time Theatre Incorporated most likely wanted the nameplate uniform to the nameplates they had at their {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} although more rectangular, plus less rounded, then changing out the white colored areas to a more yellow color. Chuck E. Cheese's nameplate used a rounded, brown wooden base, and placed the text 'CHUCK E. CHEESE' in yellow text, enclosed in a thin border of the same color, with supporting bolts on each side of the text.
+Pizza Time Theatre Incorporated most likely wanted the nameplate uniform to the nameplates they had at their [San Jose, CA (370 S Winchester Blvd)] although more rectangular, plus less rounded, then changing out the white colored areas to a more yellow color. Chuck E. Cheese's nameplate used a rounded, brown wooden base, and placed the text 'CHUCK E. CHEESE' in yellow text, enclosed in a thin border of the same color, with supporting bolts on each side of the text.
 It is unknown if the Kooser Chuck E. Cheese nameplate received the text '© PIZZA TIME THEATRE INC. 1978' below the Chuck E. Cheese name as Winchester received in late 1979.
 
 1.  https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf

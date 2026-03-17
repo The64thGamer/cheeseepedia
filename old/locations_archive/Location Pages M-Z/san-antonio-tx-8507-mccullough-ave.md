@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["29.51440267","-98.49428968"]
 +++
 
-**San Antonio, TX (8507 McCullough Ave)** was a *Chuck E. Cheese's Pizza Time Theatre* that opened in August 1981 and closed in 1984 with a {{< wiki-link "Cyberamics Balcony Stage" >}}. First Pizza Time Theatre in San Antonio.
+**San Antonio, TX (8507 McCullough Ave)** was a *Chuck E. Cheese's Pizza Time Theatre* that opened in August 1981 and closed in 1984 with a [Cyberamics Balcony Stage]. First Pizza Time Theatre in San Antonio.
 
 ## Stage
 
@@ -20,7 +20,7 @@ The location had a Balcony Stage, any further documentation is unknown.
 
 | Stage                                              | Installed   | Removed | Notes                                                |
 |----------------------------------------------------|-------------|---------|------------------------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | August 1981 | 1984    | Whereabouts Unknown. One of many installed in Texas. |
+| [Cyberamics Balcony Stage] | August 1981 | 1984    | Whereabouts Unknown. One of many installed in Texas. |
 
 ## History
 
@@ -30,12 +30,12 @@ Unfortunately, there is no documentation on this store other than select adverti
 
 | Animatronic                                                  | Whereabouts |
 |--------------------------------------------------------------|-------------|
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown     |
 | Chuck E Cheese (Cyberamic)                                   | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown     |
 | Waving Flags (Cyberamic)                                     | Unknown     |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown     |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown     |
+| [Applause Board (Cyberamic)]         | Unknown     |
+| [Drum Board (Cyberamic)]             | Unknown     |

@@ -1,4 +1,4 @@
-The **Sun Animatronic** (Also the Building Animatronic) is a figure created by Creative Engineering Inc. for ShowBiz Pizza Place locations from 1980-1983. It is a very simple figure, as its only movements are raising from behind the backdrop and opening its mouth. During {{< wiki-link "Concept Unification" >}}, Sun was retrofitted into Building.
+The **Sun Animatronic** (Also the Building Animatronic) is a figure created by Creative Engineering Inc. for ShowBiz Pizza Place locations from 1980-1983. It is a very simple figure, as its only movements are raising from behind the backdrop and opening its mouth. During [Concept Unification], Sun was retrofitted into Building.
 
 ## Movements
 
@@ -15,7 +15,7 @@ It is notable that early Sun mechanisms used to have a body turn, however this w
 
 | Place                                            | Address                                                     | Availability                               | Condition        |
 |--------------------------------------------------|-------------------------------------------------------------|--------------------------------------------|------------------|
-| {{< wiki-link "Billy Bob's Wonderland" >}} | 5 Cracker Barrel Dr, Barboursville, WV 25504                | Public                                     | Operational.     |
+| [Billy Bob's Wonderland] | 5 Cracker Barrel Dr, Barboursville, WV 25504                | Public                                     | Operational.     |
 | Creative Engineering, Inc.                       | 116 Shriners Club Rd, Pomona Park, FL 32112                 | Privately owned, need contact for viewing. | Operational.     |
 | Smitty's Super Service Station                   | 1545 MS-48 E, Sandy Hook, MS 39478                          | Privately owned, need contact for viewing. | Operational.     |
 | Volo Museum                                      | 27582 Volo Village Rd, Volo, IL 60073                       | Public                                     | Operational.     |
@@ -38,4 +38,4 @@ It is notable that early Sun mechanisms used to have a body turn, however this w
 |                 |                                                                      |
 |-----------------|----------------------------------------------------------------------|
 | Place           | Address                                                              |
-| Chuck E. Cheese | {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}} |
+| Chuck E. Cheese | [Charlotte, NC (7701 Pineville-Matthews Rd)] |

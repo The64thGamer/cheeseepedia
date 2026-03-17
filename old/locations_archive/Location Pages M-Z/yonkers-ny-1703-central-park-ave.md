@@ -13,7 +13,7 @@ pageThumbnailFile = "YYskT3k26kyjSFhJfxmt.avif"
 latitudeLongitude = ["40.95639647","-73.84480908"]
 +++
 
-***1703 Central Park Ave, Store #65*3** is a Chuck E. Cheese that opened on September 3rd, 2022, with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}
+***1703 Central Park Ave, Store #65*3** is a Chuck E. Cheese that opened on September 3rd, 2022, with a [Chuck E Live Stage (Dance Floor)]
 
 ## History
 

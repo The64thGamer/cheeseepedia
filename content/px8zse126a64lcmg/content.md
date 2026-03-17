@@ -1,4 +1,4 @@
-***Mini-stage Skits* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations featuring the {{< wiki-link "Mini Stage" >}} in 1983.**
+***Mini-stage Skits* is a Rock-afire Explosion showtape released in ShowBiz Pizza Place locations featuring the [Mini Stage] in 1983.**
 
 ## Segment List
 

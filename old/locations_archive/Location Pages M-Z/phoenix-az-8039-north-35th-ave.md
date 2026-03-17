@@ -13,7 +13,7 @@ citations = []
 latitudeLongitude = ["33.55307282","-112.1349273"]
 +++
 
-***Phoenix, AZ (8039 North 35th Ave)*** ***Store #621*** was a ShowBiz Pizza Place that opened on October 28, 1983 with a Rock-Afire Explosion, which is still open to this day. This location is notable for the many fake fnaf cec videos on youtube. This location received {{< wiki-link "Concept Unification" >}} in November 1990 and removed their stage in late December 2022.
+***Phoenix, AZ (8039 North 35th Ave)*** ***Store #621*** was a ShowBiz Pizza Place that opened on October 28, 1983 with a Rock-Afire Explosion, which is still open to this day. This location is notable for the many fake fnaf cec videos on youtube. This location received [Concept Unification] in November 1990 and removed their stage in late December 2022.
 
 ## History
 
@@ -25,9 +25,9 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 | Stage                                                                                             | Installed     | Removed       | Notes                                       |
 |---------------------------------------------------------------------------------------------------|---------------|---------------|---------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                                                           | October 1983  | November 1990 | One of three ShowBiz locations in Arizona.  |
-| {{< wiki-link "Concept Unification Stage" >}}                                               | November 1990 | January 2023  | Oldest 3-Stage from 2001 until 2.0 remodel. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | January 2023  | Still In Use  | 2021 Model. First 2.0 in Arizona.           |
+| [Classic Stage]                                                           | October 1983  | November 1990 | One of three ShowBiz locations in Arizona.  |
+| [Concept Unification Stage]                                               | November 1990 | January 2023  | Oldest 3-Stage from 2001 until 2.0 remodel. |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | January 2023  | Still In Use  | 2021 Model. First 2.0 in Arizona.           |
 
 ## Animatronics
 

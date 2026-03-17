@@ -17,7 +17,7 @@ latitudeLongitude = ["30.19416837","-81.74246728"]
 
 ## History
 
-Jacksonville (Youngerman) opened December 22nd, 1981, as the 7th ShowBiz Pizza store in Florida with a Rock-afire Explosion show. This location is located next to 3 hotels and a shopping plaza, and it was also a franchised location. On August 31st, 1987, Jacksonville (Youngerman) was bought by ShowBiz Pizza Time, Inc along with {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}}, and {{< wiki-link "Pensacola, FL (7350 Plantation Rd)" >}}. In 1988-1989, Jacksonville (Youngerman) would receive the 1988 Remodel removing the old ShowBiz decor, adding some newer decor, and the Billy Bob stage layout being changed. In 1991, this store received Concept Unification removing older decor for newer decor, added Blue and White awnings, added checkers, and converted the Rock-afire Explosion band into the 3-Stage. Jacksonville (Youngerman) underwent the Phase 3 remodel in the year 2000 which involved the removal of the Neon Signage, Blue and White Awnings, some checkers around the store, and the removal of the 3-Stage for the Studio C Alpha. In 2006-2007, Jacksonville (Youngerman) received the CEC 2005 Remodel|2005 Remodel which removing all 1990's store art, Balcony Seating, Showroom Walls, relocated the stage, adding purple walls, and also relocated some parts of the store. In 2020, Jacksonville (Youngerman) would receive the 2.0 remodel which removed the Alpha for the Dance Floor and Video Wall. As of January 2023, Jacksonville (Youngerman) still has the 2.0 Remodel and Dance Floor and Video Wall.
+Jacksonville (Youngerman) opened December 22nd, 1981, as the 7th ShowBiz Pizza store in Florida with a Rock-afire Explosion show. This location is located next to 3 hotels and a shopping plaza, and it was also a franchised location. On August 31st, 1987, Jacksonville (Youngerman) was bought by ShowBiz Pizza Time, Inc along with [Jacksonville, FL (9820 Atlantic Blvd)], and [Pensacola, FL (7350 Plantation Rd)]. In 1988-1989, Jacksonville (Youngerman) would receive the 1988 Remodel removing the old ShowBiz decor, adding some newer decor, and the Billy Bob stage layout being changed. In 1991, this store received Concept Unification removing older decor for newer decor, added Blue and White awnings, added checkers, and converted the Rock-afire Explosion band into the 3-Stage. Jacksonville (Youngerman) underwent the Phase 3 remodel in the year 2000 which involved the removal of the Neon Signage, Blue and White Awnings, some checkers around the store, and the removal of the 3-Stage for the Studio C Alpha. In 2006-2007, Jacksonville (Youngerman) received the CEC 2005 Remodel|2005 Remodel which removing all 1990's store art, Balcony Seating, Showroom Walls, relocated the stage, adding purple walls, and also relocated some parts of the store. In 2020, Jacksonville (Youngerman) would receive the 2.0 remodel which removed the Alpha for the Dance Floor and Video Wall. As of January 2023, Jacksonville (Youngerman) still has the 2.0 Remodel and Dance Floor and Video Wall.
 
 ## Stages
 
@@ -34,22 +34,22 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 | Animatronic                                                               | Serial Number | Whereabouts                   |
 |---------------------------------------------------------------------------|---------------|-------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 4-81 1-16     | Unknown/Destroyed             |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 4-81 2-16     | Unknown/Destroyed             |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 4-81 3-16     | Unknown/Destroyed             |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 4-81 4-16     | Unknown/Destroyed             |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 4-81 5-16     | Unknown/Destroyed             |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 4-81 6-16     | Unknown/Destroyed             |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 4-81 7-16     | Unknown/Destroyed             |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 4-81 8-16     | Unknown/Destroyed             |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 4-81 10-16    | Unknown/Destroyed             |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 4-81 11-16    | Unknown/Destroyed             |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown/Destroyed             |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown/Destroyed.            |
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}                | 041           | Owned by a Private Collector. |
-| {{< wiki-link "Bird (Animatronic)" >}}                              | N/A           | Destroyed.                    |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}                  | N/A           | Destroyed.                    |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}                       | N/A           | Destroyed.                    |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-16     | Unknown/Destroyed             |
+| [Dook Larue (Animatronic)]                        | 4-81 2-16     | Unknown/Destroyed             |
+| [Fatz Geronimo (Animatronic)]                     | 4-81 3-16     | Unknown/Destroyed             |
+| [Beach Bear (Animatronic)]                        | 4-81 4-16     | Unknown/Destroyed             |
+| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-16     | Unknown/Destroyed             |
+| [Billy Bob (Animatronic)]                         | 4-81 6-16     | Unknown/Destroyed             |
+| [Looney Bird (Animatronic)]                       | 4-81 7-16     | Unknown/Destroyed             |
+| [Choo Choo (Animatronic)]                         | 4-81 8-16     | Unknown/Destroyed             |
+| [Sun (Animatronic)]                               | 4-81 10-16    | Unknown/Destroyed             |
+| [Moon (Animatronic)]                              | 4-81 11-16    | Unknown/Destroyed             |
+| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed             |
+| [Wink]                                            | N/A           | Unknown/Destroyed.            |
+| [Chuck E Cheese 32m (Animatronic)]                | 041           | Owned by a Private Collector. |
+| [Bird (Animatronic)]                              | N/A           | Destroyed.                    |
+| [Pizza Time Clock (Animatronic)]                  | N/A           | Destroyed.                    |
+| [Pizza Phone (Animatronic)]                       | N/A           | Destroyed.                    |
 
 ## Videos
 

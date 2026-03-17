@@ -12,7 +12,7 @@ citations = ["<a href=\"https://youtu.be/Yk7E3i996fU\">https://youtu.be/Yk7E3i99
 latitudeLongitude = ["33.92227382","-118.1009578"]
 +++
 
-***10949 Firestone Blvd i***s a Chuck E. Cheese that opened on October 29, 1991, as a corporate location with a Road Stage which is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}. It is located in the Firestone Shopping Center and opened on the same day as {{< wiki-link "Newington, CT (3075 Berlin Tpke)" >}}. It was known for not allowing guests to film.
+***10949 Firestone Blvd i***s a Chuck E. Cheese that opened on October 29, 1991, as a corporate location with a Road Stage which is still open to this day with the [CEC 2.0 Remodel Program]. It is located in the Firestone Shopping Center and opened on the same day as [Newington, CT (3075 Berlin Tpke)]. It was known for not allowing guests to film.
 
 ## Stages
 
@@ -21,11 +21,11 @@ Like all Road Stages at the time, Chuck wore his tuxedo &amp; derby. Lift curtai
 | Stage                                                                                             | Installed     | Removed       |
 |---------------------------------------------------------------------------------------------------|---------------|---------------|
 | Road Stage                                                                                        | October 1991  | February 2024 |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | February 2024 | In Use        |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | February 2024 | In Use        |
 
 ## History
 
-Norwalk opened on October 29th, 1991, as a corporate-owned location in the Firestone Shopping Center. Norwalk opened with the 1988 Remodel including the CU decor, and the Road Stage. Around the mid-late 1990s, they replaced the logo with Coach Chuck and removed older 90's decor for newer decor and the removal of the ball pit for SkyTubes. Norwalk remained like this until in 2006, when they received the {{< wiki-link "CEC 2000's Remodel Program" >}}, which involved the removal of the showroom walls, removing older decor for newer decor, new booths, relocating the stage, &amp; adding purple walls. Norwalk still remains like this. Around February 2024, the store would receive the {{< wiki-link "CEC 2.0 Remodel Program" >}}, removing its Road Stage for a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and {{< wiki-link "Video Wall" >}}, which is how the store currently stands.
+Norwalk opened on October 29th, 1991, as a corporate-owned location in the Firestone Shopping Center. Norwalk opened with the 1988 Remodel including the CU decor, and the Road Stage. Around the mid-late 1990s, they replaced the logo with Coach Chuck and removed older 90's decor for newer decor and the removal of the ball pit for SkyTubes. Norwalk remained like this until in 2006, when they received the [CEC 2000's Remodel Program], which involved the removal of the showroom walls, removing older decor for newer decor, new booths, relocating the stage, &amp; adding purple walls. Norwalk still remains like this. Around February 2024, the store would receive the [CEC 2.0 Remodel Program], removing its Road Stage for a [Chuck E Live Stage (Dance Floor)] and [Video Wall], which is how the store currently stands.
 
 ## Videos
 
@@ -38,9 +38,9 @@ Norwalk opened on October 29th, 1991, as a corporate-owned location in the Fires
 
 | Animatronic                                                  | Manufacturing Date | Status                                              |
 |--------------------------------------------------------------|--------------------|-----------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | N/A                | Unknown/Destroyed                                   |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | N/A                | Unknown/Destroyed                                   |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | N/A                | Unknown/Destroyed                                   |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | N/A                | Destroyed, mask remains owned by CTTRobotics.(1)    |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | N/A                | Unknown/Destroyed                                   |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | N/A                | Destroyed. Remains salvaged by a private collector. |
+| [Chuck E Cheese (Cyberamic)]         | N/A                | Unknown/Destroyed                                   |
+| [Guest Star Helen Henny (Cyberamic)] | N/A                | Unknown/Destroyed                                   |
+| [Mr Munch (Cyberamic)]               | N/A                | Unknown/Destroyed                                   |
+| [Jasper T Jowls (Cyberamic)]         | N/A                | Destroyed, mask remains owned by CTTRobotics.(1)    |
+| [Pasqually (Cyberamic)]              | N/A                | Unknown/Destroyed                                   |
+| [Wink (Cyberamic)]                   | N/A                | Destroyed. Remains salvaged by a private collector. |

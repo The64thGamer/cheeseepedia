@@ -13,13 +13,13 @@ categories = ["Chuck E. Cheese's"]
 
 ***5500 Grossmont Center Dr, Store #405*** is a *Chuck E. Cheese's Pizza* that opened on August 2, 1993 with a 1-Stage and closed on December 29, 2024.
 
-This location was the last location that still says 'Chuck E. Cheese's Pizza' on the building, and the second-to-last to have the text at all, with {{< wiki-link "Altoona, PA (3415 Pleasant Valley Blvd)" >}} having the logo on the sidewalk sign. This store is possibly a relocation of {{< wiki-link "El Cajon, CA (310 Fletcher Pkwy)" >}} *Pizza Time Theatre*, as it was only 10 minutes away from La Mesa's CEC. That store opened in May 1982 with a {{< wiki-link "Cyberamics Balcony Stage" >}} and closed in 1993 (Possibly a few weeks or so before La Mesa's opening) with a {{< wiki-link "Chuck E's House Facade" >}} which was next to Kmart (The building was demolished for Home Depot sometime in 2004).
+This location was the last location that still says 'Chuck E. Cheese's Pizza' on the building, and the second-to-last to have the text at all, with [Altoona, PA (3415 Pleasant Valley Blvd)] having the logo on the sidewalk sign. This store is possibly a relocation of [El Cajon, CA (310 Fletcher Pkwy)] *Pizza Time Theatre*, as it was only 10 minutes away from La Mesa's CEC. That store opened in May 1982 with a [Cyberamics Balcony Stage] and closed in 1993 (Possibly a few weeks or so before La Mesa's opening) with a [Chuck E's House Facade] which was next to Kmart (The building was demolished for Home Depot sometime in 2004).
 
-This location was the last location that still says 'Chuck E. Cheese's Pizza' on the building, and the second-to-last to have the text at all, with {{< wiki-link "Altoona, PA (3415 Pleasant Valley Blvd)" >}} having the logo on the sidewalk sign. With the acquiring and future redevelopment of Grossmont Center (The mall the La Mesa CEC is a part of) by a real estate firm in 2021, the La Mesa store would close in December 2024.
+This location was the last location that still says 'Chuck E. Cheese's Pizza' on the building, and the second-to-last to have the text at all, with [Altoona, PA (3415 Pleasant Valley Blvd)] having the logo on the sidewalk sign. With the acquiring and future redevelopment of Grossmont Center (The mall the La Mesa CEC is a part of) by a real estate firm in 2021, the La Mesa store would close in December 2024.
 
 ## History
 
-La Mesa opened on August 2, 1993, with the 1988 remodel and a {{< wiki-link "1-Stage" >}}. They received {{< wiki-link "Phase 1 (1994)" >}} not long after likely in 1995/1996. La Mesa stayed like this for many years. In 2019 various art pieces from the 90s remodel were removed. The new artwork would come from Vista which had just recently begun 2.0, The Chuck E. Cheese graphic sign fell off the building in November 2022. Not long after it would be replaced with an unofficial vector of the original.
+La Mesa opened on August 2, 1993, with the 1988 remodel and a [1-Stage]. They received [Phase 1 (1994)] not long after likely in 1995/1996. La Mesa stayed like this for many years. In 2019 various art pieces from the 90s remodel were removed. The new artwork would come from Vista which had just recently begun 2.0, The Chuck E. Cheese graphic sign fell off the building in November 2022. Not long after it would be replaced with an unofficial vector of the original.
 
 ## Stages
 
@@ -34,10 +34,10 @@ La Mesa opened with a 1-Stage of some videos in 2022 showing the character cable
 | Animatronic                                                  | Manufacturing Date | Whereabouts      |
 |--------------------------------------------------------------|--------------------|------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Currently In Use |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Currently In Use |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Currently In Use |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Currently In Use |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Currently In Use |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Currently In Use |
+| [Mr Munch (Cyberamic)]               | Unknown            | Currently In Use |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Currently In Use |
+| [Pasqually (Cyberamic)]              | Unknown            | Currently In Use |
 
 ## Current Games
 

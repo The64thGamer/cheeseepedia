@@ -1,4 +1,4 @@
-**Holiday 2004** is an updated version of {{< wiki-link "Holiday 2002" >}} featuring new intermissions which played throughout December 2004. This show was rereleased as {{< wiki-link "Holiday 2005" >}} and {{< wiki-link "Holiday 2006" >}}.
+**Holiday 2004** is an updated version of [Holiday 2002] featuring new intermissions which played throughout December 2004. This show was rereleased as [Holiday 2005] and [Holiday 2006].
 
 ## Show List:
 

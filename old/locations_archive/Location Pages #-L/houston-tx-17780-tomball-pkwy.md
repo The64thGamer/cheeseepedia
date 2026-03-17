@@ -13,11 +13,11 @@ pageThumbnailFile = "uEo4B1jaLlC73QEvMZVV.avif"
 latitudeLongitude = ["29.95834987","-95.54523698"]
 +++
 
-***Houston, TX (17780 Tomball Pkwy), Store #585***, otherwise referred to as ***Willowbrook***, is a *Chuck E. Cheese's* that opened on November 10, 2006 with a {{< wiki-link "Studio C Beta" >}} stage. This store is a possible relocation of {{< wiki-link "Houston, TX (6760 Antoine Dr)" >}}, which opened in July 1981 as a *ShowBiz Pizza Place* and closed in September 2006 with a {{< wiki-link "Concept Unification Stage" >}}.
+***Houston, TX (17780 Tomball Pkwy), Store #585***, otherwise referred to as ***Willowbrook***, is a *Chuck E. Cheese's* that opened on November 10, 2006 with a [Studio C Beta] stage. This store is a possible relocation of [Houston, TX (6760 Antoine Dr)], which opened in July 1981 as a *ShowBiz Pizza Place* and closed in September 2006 with a [Concept Unification Stage].
 
 ## Stages
 
-When the store opened in 2006, it featured a Studio C Beta stage with a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}. By 2013, the animatronic would have its outfit replaced with the Rockstar outfit. This would remain this way until the store's remodel; when the store received 2.0, the stage's backdrop was removed first(1) before the entire stage's eventual removal by mid-July 2019.
+When the store opened in 2006, it featured a Studio C Beta stage with a [Chuck E Cheese 16m (Animatronic)]. By 2013, the animatronic would have its outfit replaced with the Rockstar outfit. This would remain this way until the store's remodel; when the store received 2.0, the stage's backdrop was removed first(1) before the entire stage's eventual removal by mid-July 2019.
 
 ## History
 
@@ -31,7 +31,7 @@ On November 10th, 2006, the store would open its doors with the 2003 'Cool Chuck
 
 ### 2.0 Remodel
 
-Around July 2019, the store would start their 2.0 remodel, removing the animatronic stage and adding a 2019 model dance floor. The store would then host its grand reopening on September 5th, 2019.(4) Around February 2023, the store would add a {{< wiki-link "Video Wall" >}} and replace its {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} with a 2021 Model version of it.
+Around July 2019, the store would start their 2.0 remodel, removing the animatronic stage and adding a 2019 model dance floor. The store would then host its grand reopening on September 5th, 2019.(4) Around February 2023, the store would add a [Video Wall] and replace its [Chuck E Live Stage (Dance Floor)] with a 2021 Model version of it.
 
 ## Arcade Machines
 
@@ -57,7 +57,7 @@ Around July 2019, the store would start their 2.0 remodel, removing the animatro
 - Shooting Mania
 - Cruisi'n Blast (2 units)
 - Dead Heat Racing (2 units)
-- {{< wiki-link "Pop It for Gold" >}}
+- [Pop It for Gold]
 - Big Bass Wheel Pro
 - Redhot
 - Temple Run
@@ -73,7 +73,7 @@ Around July 2019, the store would start their 2.0 remodel, removing the animatro
 - Alley Roller Classic (4 units)
 - NBA Hoops (2 units)
 - Bean Bag Toss
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Maze Escape
 - Disney Pixar Cars
 - Spider-Bot
@@ -94,10 +94,10 @@ Around July 2019, the store would start their 2.0 remodel, removing the animatro
 - NBA Hoop Troop Jr.
 - Dino Pop
 - Nicktoons Nitro Racing
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 - Mini Fire Truck
-- {{< wiki-link "Air Hockey" >}}
+- [Air Hockey]
 - Minions
 - Camper Van (CEC Branded)
 - Angel Carousel
@@ -116,11 +116,11 @@ Around July 2019, the store would start their 2.0 remodel, removing the animatro
 | Link                                                | Description                                                                                           | Filming Date     |
 |-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------|
 | [Link](https://youtu.be/hsAoAHuaB3A)                | Prize counter                                                                                         | February 2007    |
-| [Link](https://www.youtube.com/watch?v=HWuCZCc87Pw) | The store's show performing *Friendship Never Ends* from the {{< wiki-link "July 2014 Show" >}} | July 27th, 2015  |
+| [Link](https://www.youtube.com/watch?v=HWuCZCc87Pw) | The store's show performing *Friendship Never Ends* from the [July 2014 Show] | July 27th, 2015  |
 | [Link](https://youtu.be/JJo2XQ6JtFY)                | Footage of the store's show                                                                           | November 2015    |
 | [Link](https://youtu.be/zQTnS10UT94)                | Footage of the arcade pre-2.0                                                                         | August 1st, 2017 |
-| [Link](https://youtu.be/Ba7qkSn7IaE)                | Store tour during {{< wiki-link "CEC 2.0 Remodel Program" >}}                                   | July 2nd, 2019   |
-| [Link](https://youtu.be/B1JR8Od149Y)                | The store's show performing *Gamin' Time* from {{< wiki-link "Chuck E Cheese's Show 3 2016" >}} | July 2nd, 2019   |
+| [Link](https://youtu.be/Ba7qkSn7IaE)                | Store tour during [CEC 2.0 Remodel Program]                                   | July 2nd, 2019   |
+| [Link](https://youtu.be/B1JR8Od149Y)                | The store's show performing *Gamin' Time* from [Chuck E Cheese's Show 3 2016] | July 2nd, 2019   |
 | [Link](https://youtu.be/L8aN7t4Xwto)                | The Easy Dance                                                                                        | July 2nd, 2019   |
 | [Link](https://youtu.be/uEUu-aVKXrI)                | 2.0 Store Tour                                                                                        | June 27th, 2020  |
 
@@ -128,5 +128,5 @@ Around July 2019, the store would start their 2.0 remodel, removing the animatro
 
 | Animatronic                                                | Serial | Whereabouts |
 |------------------------------------------------------------|--------|-------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A    | Unknown     |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A    | Unknown     |
+| [Chuck E Cheese 16m (Animatronic)] | N/A    | Unknown     |
+| [Pizza Time Clock (Animatronic)]   | N/A    | Unknown     |

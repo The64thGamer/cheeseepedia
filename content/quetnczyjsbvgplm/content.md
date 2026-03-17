@@ -1,8 +1,8 @@
-***CEC-Stage Rosetta*** was a special software created by *Dave Philipson* in 1997 used to translate programming from the 3-Stage to the {{< wiki-link "Cyberamics" >}} stage. This was done to reduce unneeded programming of characters across both stages and began use in the {{< wiki-link "August 1997 Show" >}} showtape. The name *CEC-Stage Rosetta* was used as the software could be described as 'Translating' the programming information from the 3-Stage {{< wiki-link "Bit Chart" >}} to the {{< wiki-link "Cyberamics" >}} equivalent bits.
+***CEC-Stage Rosetta*** was a special software created by *Dave Philipson* in 1997 used to translate programming from the 3-Stage to the [Cyberamics] stage. This was done to reduce unneeded programming of characters across both stages and began use in the [August 1997 Show] showtape. The name *CEC-Stage Rosetta* was used as the software could be described as 'Translating' the programming information from the 3-Stage [Bit Chart] to the [Cyberamics] equivalent bits.
 
 ## Conversion Process
 
-The conversion process can be reverse engineered by comparing multiple showtapes' signals from both stages. Given this, showtapes where signal data is lost or private for CEC-Stage can be recreated from the official conversion chart, assuming no bugs or additional programming wasn't added in the official release. Bits will be named and numbered by their conversion to the ***Road, 1 + 2*** {{< wiki-link "Bit Chart" >}} format. Other Cyberamic stages before the creation of the *CEC-Stage Rosetta* software would be using the bits for different purposes.
+The conversion process can be reverse engineered by comparing multiple showtapes' signals from both stages. Given this, showtapes where signal data is lost or private for CEC-Stage can be recreated from the official conversion chart, assuming no bugs or additional programming wasn't added in the official release. Bits will be named and numbered by their conversion to the ***Road, 1 + 2*** [Bit Chart] format. Other Cyberamic stages before the creation of the *CEC-Stage Rosetta* software would be using the bits for different purposes.
 
 ### Top Drawer
 

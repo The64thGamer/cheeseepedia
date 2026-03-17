@@ -61,8 +61,8 @@ The **September 2000 Show** (also known as The Chuck E. Cheese Show) was a show 
 
 #### Filming Locations:
 
-- The Store Intros and 'No Other Place' were filmed at {{< wiki-link "Springfield, MO (3500-A S Glenstone Ave)" >}}.
-- 'Closing Time?' was filmed at {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}} in early 2000.
+- The Store Intros and 'No Other Place' were filmed at [Springfield, MO (3500-A S Glenstone Ave)].
+- 'Closing Time?' was filmed at [Irving, TX (3903 W Airport Fwy)] in early 2000.
 - 'Flyball' was filmed at a Texas Heat dog show
 
 ## Trivia
@@ -71,5 +71,5 @@ The **September 2000 Show** (also known as The Chuck E. Cheese Show) was a show 
   - Duncan Brannan appears as a cast member in 'Closing Time?'
   - Jeremy Blaido and Robert Gotcher can be seen in 'Behind The Video'. The voiceover for this skit was done by Brian Hagan.
   - Matt Daniel is the DJ in 'Chuck E.' and a dancer in 'Drinkin' A Coca-Cola' alongside Ryan Hollingsworth.
-- The music for 'Football' and 'Flyball' is reused from {{< wiki-link "August 1997 Show" >}} and {{< wiki-link "September 1998" >}} respectively.
-- 'M.O.T.H.E.R.' got a remake with new voice actors in 2020 exclusively for YouTube.{{< cite 1 >}}
+- The music for 'Football' and 'Flyball' is reused from [August 1997 Show] and [September 1998] respectively.
+- 'M.O.T.H.E.R.' got a remake with new voice actors in 2020 exclusively for YouTube.[1]

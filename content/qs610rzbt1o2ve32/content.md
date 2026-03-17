@@ -1,4 +1,4 @@
-***Sally 1 / Xmas / USA*** is a Pizza Time Theatre showtape featuring the guest star *Sally Sashay*, which played from November of 1979 to the latest confirmed showing in mid January of 1980.{{< cite 2 >}}
+***Sally 1 / Xmas / USA*** is a Pizza Time Theatre showtape featuring the guest star *Sally Sashay*, which played from November of 1979 to the latest confirmed showing in mid January of 1980.[2]
 
 ## Show List:
 1.  Segment 1

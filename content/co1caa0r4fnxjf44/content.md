@@ -1,4 +1,4 @@
-***Chuck E's Holiday Party 2000* was a rerelease of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2000 holiday season.**
+***Chuck E's Holiday Party 2000* was a rerelease of [Chuck E's Holiday Party 1999] for the 2000 holiday season.**
 
 ## Existing Stages Show List:
 

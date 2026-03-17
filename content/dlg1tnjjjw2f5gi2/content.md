@@ -8,5 +8,5 @@ The live show begins with an announcer introducing Chuck E. Cheese following up 
 
 | Release Year | Showtape                                                          | Format                    |
 |--------------|-------------------------------------------------------------------|---------------------------|
-| 1997         | {{< wiki-link "Chuck E. Cheese's 20th Anniversary" >}}       | 3-stage, Cyberamics       |
-| 1997         | {{< wiki-link "Chuck E. Cheese's 20th Anniversary (AAM)" >}} | Awesome Adventure Machine |
+| 1997         | [Chuck E. Cheese's 20th Anniversary]       | 3-stage, Cyberamics       |
+| 1997         | [Chuck E. Cheese's 20th Anniversary (AAM)] | Awesome Adventure Machine |

@@ -1,12 +1,12 @@
-***Winchester Madam Oink* was a Guest Star animatronic featured at the first Pizza Time Theatre in {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}}.**
+***Winchester Madam Oink* was a Guest Star animatronic featured at the first Pizza Time Theatre in [San Jose, CA (370 S Winchester Blvd)].**
 
 ## History
 
-Winchester Madam Oink was installed in February of 1978, replacing {{< wiki-link "Winchester Helen Henny (Animatronic)" >}}. She would later be replaced in October of 1978 with {{< wiki-link "Winchester Foxy Colleen (Animatronic)" >}}. Sometime after this she was sent back to {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}. Her current whereabouts are unknown, but she was most likely destroyed along with most of the other portrait bots during the move to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}} in 1984.
+Winchester Madam Oink was installed in February of 1978, replacing [Winchester Helen Henny (Animatronic)]. She would later be replaced in October of 1978 with [Winchester Foxy Colleen (Animatronic)]. Sometime after this she was sent back to [Sunnyvale, CA (1213 Innsbruck Drive)]. Her current whereabouts are unknown, but she was most likely destroyed along with most of the other portrait bots during the move to the [ShowBiz Pizza Time Corporate Office] in 1984.
 
 ## Design
 
-Madam Oink had short white hair, hazel eyes, a green dress, a white necklace, a gold ascot, an emerald ring, a feather boa in her right hand, and a metallic grey microphone in her left hand similar to {{< wiki-link "Winchester Chuck E. Cheese V2 (Animatronic)" >}}.
+Madam Oink had short white hair, hazel eyes, a green dress, a white necklace, a gold ascot, an emerald ring, a feather boa in her right hand, and a metallic grey microphone in her left hand similar to [Winchester Chuck E. Cheese V2 (Animatronic)].
 
 ## Movements
 

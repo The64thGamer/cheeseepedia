@@ -63,6 +63,6 @@
 
 ## Trivia:
 
-- This was one of two showtapes to replace the puppets with the animatronics between songs, the other being the {{< wiki-link "April 2009 Show" >}}.
-- Baking With Betty - 'Mad Cows' and 'Amphicar' are reused from the {{< wiki-link "September 2001 Show" >}}, 'NASA footage' is reused from {{< wiki-link "CEC TV April 2005 Show" >}}, 'Juggling' is reused from the {{< wiki-link "April 2007 Show" >}}, and Sing-along Guys - 'Itsy Bitsy Spider' is reused from the {{< wiki-link "April 2008 Show" >}}.
+- This was one of two showtapes to replace the puppets with the animatronics between songs, the other being the [April 2009 Show].
+- Baking With Betty - 'Mad Cows' and 'Amphicar' are reused from the [September 2001 Show], 'NASA footage' is reused from [CEC TV April 2005 Show], 'Juggling' is reused from the [April 2007 Show], and Sing-along Guys - 'Itsy Bitsy Spider' is reused from the [April 2008 Show].
 

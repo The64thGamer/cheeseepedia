@@ -1,4 +1,4 @@
-**Road Show Generic CD** was a CD released alongside {{< wiki-link "Chuck E's Holiday Party 2008" >}} which featured eleven {{< wiki-link "Road Shows" >}}.
+**Road Show Generic CD** was a CD released alongside [Chuck E's Holiday Party 2008] which featured eleven [Road Shows].
 
 ## Track List:
 

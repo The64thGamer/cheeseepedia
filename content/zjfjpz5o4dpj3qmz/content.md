@@ -1,4 +1,4 @@
-**Spring Training** was a show released in March of 1993. This is the last show to use the {{< wiki-link "R12 SVHS (Pre-93)" >}} and {{< wiki-link "C&R SVHS (Pre-93)" >}} formats.
+**Spring Training** was a show released in March of 1993. This is the last show to use the [R12 SVHS (Pre-93)] and [C&R SVHS (Pre-93)] formats.
 
 ## Show List
 

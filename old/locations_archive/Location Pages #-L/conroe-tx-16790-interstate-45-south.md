@@ -25,14 +25,14 @@ Originally when the store opened, they had a Studio C Beta. They got the 2.0 Rem
 | Stage                                                                                            | Installed  | Removed      | Notes                                                                   |
 |--------------------------------------------------------------------------------------------------|------------|--------------|-------------------------------------------------------------------------|
 | Studio C Beta, 32m                                                                               | June 2001  | April 2023   | One of 21 installed in Texas (One of 10 32m installations in the state) |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} +{{< wiki-link "Video Wall" >}} | April 2023 | Still in Use | 2021 Model.                                                             |
+| [Chuck E Live Stage (Dance Floor)] +[Video Wall] | April 2023 | Still in Use | 2021 Model.                                                             |
 
 ## Animatronics
 
 | Animatronic                                                | Serial  | Whereabouts |
 |------------------------------------------------------------|---------|-------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | Unknown | Unknown     |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A     | Unknown     |
+| [Chuck E Cheese 32m (Animatronic)] | Unknown | Unknown     |
+| [Pizza Time Clock (Animatronic)]   | N/A     | Unknown     |
 
 ## Arcade Games &amp; Rides
 

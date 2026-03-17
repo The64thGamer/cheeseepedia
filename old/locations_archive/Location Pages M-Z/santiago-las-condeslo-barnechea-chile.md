@@ -11,15 +11,15 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-**Av. San Josemaría Escrivá de Balaguer 12352, Lo Barnechea** is a Chuck E. Cheese's that opened in December 1994 with a 1-Stage, which is still open to this day. This location is the first and oldest location opened in the country of Chile. It also has the only 1-Stage outside of the United States after the relocation of {{< wiki-link "Santiago (Plaza Oeste), Chile" >}}, also in Chile.
+**Av. San Josemaría Escrivá de Balaguer 12352, Lo Barnechea** is a Chuck E. Cheese's that opened in December 1994 with a 1-Stage, which is still open to this day. This location is the first and oldest location opened in the country of Chile. It also has the only 1-Stage outside of the United States after the relocation of [Santiago (Plaza Oeste), Chile], also in Chile.
 
 ## History
 
-Cantagallo opened its doors in December 1994 with a 1-Stage as the first Chilean Chuck E. Cheese location and the second international location at the time outside of Canada (with the first being {{< wiki-link "Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)" >}}). The store opened with the Major 90s Remodel. In late 2008, the store received an expansion and received the {{< wiki-link "CEC 2000's Remodel Program" >}}). At some point during the 2020s, the store received 2.0 art.
+Cantagallo opened its doors in December 1994 with a 1-Stage as the first Chilean Chuck E. Cheese location and the second international location at the time outside of Canada (with the first being [Guatemala City, Guatemala (Ave La Reforma 7-62, Zona 9)]). The store opened with the Major 90s Remodel. In late 2008, the store received an expansion and received the [CEC 2000's Remodel Program]). At some point during the 2020s, the store received 2.0 art.
 
 ## Stages
 
-This store opened with a 1-Stage, which also had a turntable. During the 2000s, Helen wore a custom-made cheerleader outfit. During the 2008 remodel, the entire stage was restructured, removing the turntable and wink, replacing Chuck E.'s tuxedo outfit with the avenger outfit and Helen's cheerleader outfit with her regular outfit, replacing all character cosmetics with newer ones, replacing all CRT TVs with flat modern ones, and restructuring the backstage. In early 2024, the cyberstar broke and no longer functioned. As of December 2024, the 1-Stage is still there, where Chuck E. still wears his Avenger outfit with his hat. The animatronics are currently in very poor condition and the show is in the process of being restored using assets from the 1-Stage of the recently relocated {{< wiki-link "Santiago (Plaza Oeste), Chile" >}} location.
+This store opened with a 1-Stage, which also had a turntable. During the 2000s, Helen wore a custom-made cheerleader outfit. During the 2008 remodel, the entire stage was restructured, removing the turntable and wink, replacing Chuck E.'s tuxedo outfit with the avenger outfit and Helen's cheerleader outfit with her regular outfit, replacing all character cosmetics with newer ones, replacing all CRT TVs with flat modern ones, and restructuring the backstage. In early 2024, the cyberstar broke and no longer functioned. As of December 2024, the 1-Stage is still there, where Chuck E. still wears his Avenger outfit with his hat. The animatronics are currently in very poor condition and the show is in the process of being restored using assets from the 1-Stage of the recently relocated [Santiago (Plaza Oeste), Chile] location.
 
 | Stage   | Installed     | Removed      | Condition / Notes                            |
 |---------|---------------|--------------|----------------------------------------------|
@@ -29,7 +29,7 @@ This store opened with a 1-Stage, which also had a turntable. During the 2000s, 
 
 | Animatronic                 | Manufacturing Date  | Whereabouts                                                                                         |
 |-----------------------------|---------------------|-----------------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic) | February 1, 1982(3) | Original animatronic replaced with one from {{< wiki-link "Santiago (Plaza Oeste), Chile" >}} |
+| Chuck E. Cheese (Cyberamic) | February 1, 1982(3) | Original animatronic replaced with one from [Santiago (Plaza Oeste), Chile] |
 | Helen Henny (Cyberamic)     | Unknown             | Currently in Use                                                                                    |
 | Mr. Munch (Cyberamic)       | Unknown             | Currently in Use                                                                                    |
 | Jasper T. Jowls (Cyberamic) | Unknown             | Currently in Use                                                                                    |

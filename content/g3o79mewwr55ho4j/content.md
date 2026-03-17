@@ -14,7 +14,7 @@ Pizza Time Theatre Pasqually cyberamics feature these movements.
 | Eye Turn Left                                                      |
 | Eyelids                                                            |
 | Arms                                                               |
-| Door (Used in {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}) |
+| Door (Used in [Cyberamics Portrait Shelf Stage]) |
 
 Pasqually cyberamics made for later stages feature these movements.
 
@@ -35,7 +35,7 @@ Pasqually cyberamics made for later stages feature these movements.
 * Balcony Stage: Installed from 1980-1986. Went extinct in 2001 at Lake forest, CA
 * Rocker Stage: Installed from 1987-1990. Went extinct on June 12, 2022 at Rockford, IL.
 * C-Stage: Installed from 1989-1990?. Went extinct in 2003 at Tacoma, WA.
-* Road Stage: Installed from 1990-1992. Went extinct on June 15, 2025 at {{< wiki-link "Mississauga, Ontario, Canada (4141 Dixie Rd)" >}} 
+* Road Stage: Installed from 1990-1992. Went extinct on June 15, 2025 at [Mississauga, Ontario, Canada (4141 Dixie Rd)] 
 * 2-Stage: Installed from 1992-1993, 1996-1997. 4 left as of June 2024.
 * 1-Stage: Installed from 1992, 1993-1996, 1997-1998, 2011. 10 left as of June 2024.
 * Cyberamic 3-Stage: Installed in 2000 at Lynnwood, WA, Installed in November 2017 at Springfield, MA. Went extinct on July 23, 2023 at Lynnwood, WA.

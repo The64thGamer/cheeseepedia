@@ -88,5 +88,5 @@
 ## Trivia:
 
 - This is the first show to feature the 'Ladies & Gentlemen It's Showtime!' intro. This intro would be programmed for the next and subsequent showtapes, and is based on the ' [Saturday Night Live](https://en.wikipedia.org/wiki/Saturday_Night_Live)' intro,
-- The start of Segment 1 references the song 'Party Place', originally from {{< wiki-link "Spring Break" >}}
+- The start of Segment 1 references the song 'Party Place', originally from [Spring Break]
 - Clips of the footage shot for 'Baby' were eventually reused in 2017 for various 40 Years of Fun promotional videos.

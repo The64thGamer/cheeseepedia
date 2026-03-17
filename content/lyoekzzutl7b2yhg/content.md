@@ -1,7 +1,7 @@
-The *Mijjinator* is a gold chrome plated Mijjin animatronic created for the Mijjins show in 1992.{{< cite 1 >}}
+The *Mijjinator* is a gold chrome plated Mijjin animatronic created for the Mijjins show in 1992.[1]
 The animatronic would be the highest member on the Mijjins stage, but would be concealed by two sliding doors. The shows used the mech as an announcer that would then not be present for the songs played.
 
-At an unknown point after 1992, The Mijjinator was scrapped. The remaining parts consist of various chrome plated pieces held at Creative Engineering.{{< cite 2 >}} 
+At an unknown point after 1992, The Mijjinator was scrapped. The remaining parts consist of various chrome plated pieces held at Creative Engineering.[2] 
 
 ## Design
 

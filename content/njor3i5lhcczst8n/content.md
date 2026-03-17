@@ -1,4 +1,4 @@
-**Super Chuck Road Show** was a {{< wiki-link "Road Shows" >}} CD released alongside the {{< wiki-link "Super Chuck Summer Show 2005" >}} which featured only one song.
+**Super Chuck Road Show** was a [Road Shows] CD released alongside the [Super Chuck Summer Show 2005] which featured only one song.
 
 ## Track List:
 

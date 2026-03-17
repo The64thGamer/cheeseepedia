@@ -1,1 +1,1 @@
-The ***Fun Spot Arcade Standard Layout*** was the design built into early Fun Spot Arcades that started in May of 2022, which was replaced by the  {{< wiki-link "2025 Chuck's Arcade Remodel" >}} that began showing in new locations in April of 2025 and remodeling locations in July of that year. 
+The ***Fun Spot Arcade Standard Layout*** was the design built into early Fun Spot Arcades that started in May of 2022, which was replaced by the  [2025 Chuck's Arcade Remodel] that began showing in new locations in April of 2025 and remodeling locations in July of that year. 

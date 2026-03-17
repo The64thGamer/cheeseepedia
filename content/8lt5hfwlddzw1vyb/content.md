@@ -1,5 +1,5 @@
 ***Show 4 2015*** released June 15th 2015 featuring two songs
-This was created to play from June 15th 2015 - August 9th 2015. This show features two songs reused from {{< wiki-link "The Chuck E. Cheese Show" >}}.
+This was created to play from June 15th 2015 - August 9th 2015. This show features two songs reused from [The Chuck E. Cheese Show].
 
 ## Show List:
 
@@ -45,4 +45,4 @@ This was created to play from June 15th 2015 - August 9th 2015. This show featur
 
 ## Trivia:
 
-- 'Friendship Never Ends' and 'Dare to Be You' are originally from {{< wiki-link "The Chuck E. Cheese Show" >}}
+- 'Friendship Never Ends' and 'Dare to Be You' are originally from [The Chuck E. Cheese Show]

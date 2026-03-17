@@ -1,14 +1,14 @@
-The ***Kooser PTT Show*** (also known as The ***Kooser Portrait / Shelf Stage &amp; Kooser Lounge Area***) was a show format used at the second *{{< wiki-link "Pizza Time Theatre" >}}* on {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} from December 1978 up until its replacement by the first {{< wiki-link "Cyberamics Balcony Stage" >}} in May 1980. The show was the last non-{{< wiki-link "Cyberamics" >}} Show produced by PTT.
+The ***Kooser PTT Show*** (also known as The ***Kooser Portrait / Shelf Stage &amp; Kooser Lounge Area***) was a show format used at the second *[Pizza Time Theatre]* on [San Jose, CA (1371 Kooser Rd)] from December 1978 up until its replacement by the first [Cyberamics Balcony Stage] in May 1980. The show was the last non-[Cyberamics] Show produced by PTT.
 
 ## History
 
 ### Production
 
-In Fall 1978, {{< wiki-link "Fantasy Forest" >}} &amp; Harold Goldbrandsen were tasked with building the animatronic stage show for the second PTT that was being built on Kooser Road. The stage would have features not seen in {{< wiki-link "Winchester PTT Show" >}}, like The Mopsey Sisters &amp; {{< wiki-link "Mr Munch" >}}. The Overall Show would also have Dolli Dimples in a Cabaret room.
+In Fall 1978, [Fantasy Forest] &amp; Harold Goldbrandsen were tasked with building the animatronic stage show for the second PTT that was being built on Kooser Road. The stage would have features not seen in [Winchester PTT Show], like The Mopsey Sisters &amp; [Mr Munch]. The Overall Show would also have Dolli Dimples in a Cabaret room.
 
 ### Early History
 
-The Stage was delivered to Kooser in Late November &amp; first seen at Kooser's Grand Opening in December 1978. The Stage was set in Kooser's Dining Area on 2 separate walls, unlike {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} using all 4 walls. {{< wiki-link "Kooser Dolli Dimples (Animatronic)" >}} was placed in a separate Cabaret Room. The Stage would be seen in several promotional papers from the time.
+The Stage was delivered to Kooser in Late November &amp; first seen at Kooser's Grand Opening in December 1978. The Stage was set in Kooser's Dining Area on 2 separate walls, unlike [San Jose, CA (370 S Winchester Blvd)] using all 4 walls. [Kooser Dolli Dimples (Animatronic)] was placed in a separate Cabaret Room. The Stage would be seen in several promotional papers from the time.
 
 ### Later History
 
@@ -32,14 +32,14 @@ Kooser had its own set of characters built exclusively for this store. Mr. Munch
 
 |                                                                     | Used From                 | Stage Used in          |
 |---------------------------------------------------------------------|---------------------------|------------------------|
-| {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}}       | December 1978-May 1980    | Portrait / Shelf Stage |
-| {{< wiki-link "Kooser Pasqually (Animatronic)" >}}            | December 1978-May 1980    | Portrait / Shelf Stage |
-| {{< wiki-link "Kooser Jasper T. Jowls (Animatronic)" >}}      | December 1978-May 1980    | Portrait / Shelf Stage |
-| {{< wiki-link "Kooser Mr Munch (Animatronic)" >}}             | December 1978-May 1980    | Portrait / Shelf Stage |
+| [Kooser Chuck E. Cheese (Animatronic)]       | December 1978-May 1980    | Portrait / Shelf Stage |
+| [Kooser Pasqually (Animatronic)]            | December 1978-May 1980    | Portrait / Shelf Stage |
+| [Kooser Jasper T. Jowls (Animatronic)]      | December 1978-May 1980    | Portrait / Shelf Stage |
+| [Kooser Mr Munch (Animatronic)]             | December 1978-May 1980    | Portrait / Shelf Stage |
 | Kooser Mopsey Sisters (Animatronic)                                 | December 1978-May 1980    | Portrait / Shelf Stage |
 | Kooser Applause Board (Animatronic)                                 | December 1978-May 1980    | Portrait / Shelf Stage |
-| {{< wiki-link "Kooser Flag Wavers (Animatronic)" >}}          | December 1978-May 1980    | Portrait / Shelf Stage |
-| {{< wiki-link "Kooser Pizza Time Orchestra (Animatronic)" >}} | December 1978-May 1980    | Portrait / Shelf Stage |
-| {{< wiki-link "Kooser Dolli Dimples (Animatronic)" >}}        | December 1978-1979 / 1980 | Lounge Area            |
+| [Kooser Flag Wavers (Animatronic)]          | December 1978-May 1980    | Portrait / Shelf Stage |
+| [Kooser Pizza Time Orchestra (Animatronic)] | December 1978-May 1980    | Portrait / Shelf Stage |
+| [Kooser Dolli Dimples (Animatronic)]        | December 1978-1979 / 1980 | Lounge Area            |
 
-- {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}
+- [San Jose, CA (1371 Kooser Rd)]

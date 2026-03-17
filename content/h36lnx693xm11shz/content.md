@@ -1,4 +1,4 @@
-**Road Show 2010** was a CD released in 2010 which featured twelve {{< wiki-link "Road Shows" >}}.
+**Road Show 2010** was a CD released in 2010 which featured twelve [Road Shows].
 
 ## Track List:
 

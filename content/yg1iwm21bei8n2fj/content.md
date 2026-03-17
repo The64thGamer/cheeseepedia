@@ -1,4 +1,4 @@
-***Munch Mouth* is an arcade machine used in {{< wiki-link "Pizza Time Theatre" >}}.**
+***Munch Mouth* is an arcade machine used in [Pizza Time Theatre].**
 
 ## Gameplay
 

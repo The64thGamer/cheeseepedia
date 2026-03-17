@@ -1,4 +1,4 @@
-***Me &amp; My Friends*** is a live show released with {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}} in April 2017. It was re-edited in 2021 to remove mentions of the *Ticket Splash*, alongside redoing the countdown of the show.
+***Me &amp; My Friends*** is a live show released with [Chuck E. Cheese's Show 3 2017] in April 2017. It was re-edited in 2021 to remove mentions of the *Ticket Splash*, alongside redoing the countdown of the show.
 
 ## Summary
 
@@ -20,12 +20,12 @@ The show is a listing of Chuck E.'s friends and their attributes, with Chuck E. 
 |------------|--------------------------------------------------------------------------------------------|---------------|
 | Studio C   | Chuck E. Cheese's Show 1 2021 (Covid Update Promo)                                         | DVD + Floppy  |
 | Studio C   | Chuck E. Cheese's Show 1 2021 (Covid Update Promo)                                         | USB + MicroSD |
-| Studio C   | {{< wiki-link "Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)" >}} | DVD + Floppy  |
-| Studio C   | {{< wiki-link "Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)" >}} | USB + MicroSD |
-| Cyberamics | {{< wiki-link "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD           |
-| 3-Stage    | {{< wiki-link "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD           |
-| Studio C   | {{< wiki-link "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | DVD + Floppy  |
-| Studio C   | {{< wiki-link "Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)" >}}         | USB + MicroSD |
+| Studio C   | [Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)] | DVD + Floppy  |
+| Studio C   | [Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)] | USB + MicroSD |
+| Cyberamics | [Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)]         | DVD           |
+| 3-Stage    | [Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)]         | DVD           |
+| Studio C   | [Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)]         | DVD + Floppy  |
+| Studio C   | [Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)]         | USB + MicroSD |
 
 ## Trivia:
 - It originally released with Show 1 2021 on Studio C/Weigl, but wasn't able to be played. It was then playable with the Show 1 2021 (Covid Promo Update), before finally being released across all stages with Show 1 2021 (Ryan's FanFest World Promo).

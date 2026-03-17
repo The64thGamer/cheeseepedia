@@ -1,4 +1,4 @@
-***Bandstand II*** is the second Pizza Time Theatre showtape with the Bandstand theming, and the final showtape to feature John Widelock as the voice of Chuck E. Cheese. It is unknown when the show was released, but it was at least playing by August of 1984 {{< cite 1 >}}.
+***Bandstand II*** is the second Pizza Time Theatre showtape with the Bandstand theming, and the final showtape to feature John Widelock as the voice of Chuck E. Cheese. It is unknown when the show was released, but it was at least playing by August of 1984 [1].
 
 ## Show List:
 

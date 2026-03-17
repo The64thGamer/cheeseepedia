@@ -45,8 +45,8 @@
 
 ## Trivia:
 
-- The Ballgame is originally from {{< wiki-link "Spring Break" >}}, 'Summertime Groove', 'Fun, Fun, Fun', 'Good Old Summertime', and Wildlife are originally from {{< wiki-link "Summertime 2000" >}}, Baking With Betty - 'Trail Mix' is originally from the {{< wiki-link "January 2001 Show" >}}, Pizza Survivor is originally from the {{< wiki-link "September 2002 Show" >}}, 'In My Pool' 'Going on a Picnic' and "Barbeque" are originally from {{< wiki-link "Summertime 2003" >}}, and 'SPF' and 'Summertime' are originally from the {{< wiki-link "Summer 2007 Show" >}}.
-- 'Firehouse' was originally used in the {{< wiki-link "January 2005 Show" >}}. The music was changed to be the same song used for the Birthday Break before {{< wiki-link "Birthday Star '95" >}}.
-- This was the first show to run on the {{< wiki-link "Circles of Light" >}}, and possibly the first show on USB used in stores outside Star Stage
+- The Ballgame is originally from [Spring Break], 'Summertime Groove', 'Fun, Fun, Fun', 'Good Old Summertime', and Wildlife are originally from [Summertime 2000], Baking With Betty - 'Trail Mix' is originally from the [January 2001 Show], Pizza Survivor is originally from the [September 2002 Show], 'In My Pool' 'Going on a Picnic' and "Barbeque" are originally from [Summertime 2003], and 'SPF' and 'Summertime' are originally from the [Summer 2007 Show].
+- 'Firehouse' was originally used in the [January 2005 Show]. The music was changed to be the same song used for the Birthday Break before [Birthday Star '95].
+- This was the first show to run on the [Circles of Light], and possibly the first show on USB used in stores outside Star Stage
 - This was the first showtape to be entirely formatted for widescreen TVs. All reused material that was previously in 4:3 was edited to appear in widescreen. 
 

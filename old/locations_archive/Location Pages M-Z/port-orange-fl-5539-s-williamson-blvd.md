@@ -13,11 +13,11 @@ pageThumbnailFile = "iQ7CCaiJV9wtvPwJ7ygE.avif"
 latitudeLongitude = ["29.10794462","-81.03516003"]
 +++
 
-***5539 S Williamson Blvd*** was a Chuck E. Cheese's that opened on December 26, 2013, and closed on September 29, 2022, with a {{< wiki-link "Circles of Light" >}}. A new location scheduled to be built on the site of the former location will reopen in late 2024 with the 2.0 remodel.
+***5539 S Williamson Blvd*** was a Chuck E. Cheese's that opened on December 26, 2013, and closed on September 29, 2022, with a [Circles of Light]. A new location scheduled to be built on the site of the former location will reopen in late 2024 with the 2.0 remodel.
 
 ## Stages
 
-When the store opened, they had a Circles of Light, 32M, the animatronic came from the {{< wiki-link "Dallas, TX (13364 Montfort Dr)" >}} location; which was originally removed in September 2012. The robot had 16M legs and therefore no foot tap movement when it was installed in Port Orange.
+When the store opened, they had a Circles of Light, 32M, the animatronic came from the [Dallas, TX (13364 Montfort Dr)] location; which was originally removed in September 2012. The robot had 16M legs and therefore no foot tap movement when it was installed in Port Orange.
 
 ## History
 
@@ -45,4 +45,4 @@ A Chuck E. Cheese's restaurant had not existed in Volusia County, the Daytona Be
 
 | Animatronic                                                | Serial Number | Whereabouts                                                                                                                                                                                                        |
 |------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 155           | Survived Hurricane Ian. Head mechanisms and avenger hat owned by private collector. Body and body cosmetics completely destroyed by demolition team. From {{< wiki-link "Dallas, TX (13364 Montfort Dr)" >}} |
+| [Chuck E Cheese 32m (Animatronic)] | 155           | Survived Hurricane Ian. Head mechanisms and avenger hat owned by private collector. Body and body cosmetics completely destroyed by demolition team. From [Dallas, TX (13364 Montfort Dr)] |

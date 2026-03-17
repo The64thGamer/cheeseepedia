@@ -12,7 +12,7 @@ citations = ["<a href=\"https://showbizpizza.com/info/documents/ptt/ptt_pizzatim
 latitudeLongitude = ["39.54738367","-119.7511583"]
 +++
 
-***530 Greenbrae Dr*** was a *Pizza Time Theatre* that opened on December 20th, 1979(1) with a Cyberamics Portrait Stage|Portrait Stage, which closed in 1984 with a {{< wiki-link "Cyberamics Balcony Stage" >}}. The store was the first franchised PTT, and the first PTT outside of California. This is not to be confused with the ShowBiz Pizza Place on Sparks, NV (598 N McCarran Blvd)|598 N McCarran Blvd that opened on August 10th, 1982, and closed in November 1985 with the {{< wiki-link "Classic Stage" >}}.
+***530 Greenbrae Dr*** was a *Pizza Time Theatre* that opened on December 20th, 1979(1) with a Cyberamics Portrait Stage|Portrait Stage, which closed in 1984 with a [Cyberamics Balcony Stage]. The store was the first franchised PTT, and the first PTT outside of California. This is not to be confused with the ShowBiz Pizza Place on Sparks, NV (598 N McCarran Blvd)|598 N McCarran Blvd that opened on August 10th, 1982, and closed in November 1985 with the [Classic Stage].
 
 ## History
 
@@ -22,13 +22,13 @@ Sparks opened on December 20th, 1979 in the *Greenbrae Center* with a Portrait S
 
 | Animatronic                                                  | Whereabouts |
 |--------------------------------------------------------------|-------------|
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown     |
 | Chuck E Cheese (Cyberamic)                                   | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown     |
 | Waving Flags (Cyberamic)                                     | Unknown     |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown     |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown     |
-| {{< wiki-link "Dolli Dimples (Cabaret)" >}}            | Unknown     |
+| [Applause Board (Cyberamic)]         | Unknown     |
+| [Drum Board (Cyberamic)]             | Unknown     |
+| [Dolli Dimples (Cabaret)]            | Unknown     |

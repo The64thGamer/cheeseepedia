@@ -11,11 +11,11 @@ tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
 
-***710 Downtowner Loop, Store #560,*** was a *ShowBiz Pizza Place* that opened on February 10, 1982, with a {{< wiki-link "Classic Stage" >}}
+***710 Downtowner Loop, Store #560,*** was a *ShowBiz Pizza Place* that opened on February 10, 1982, with a [Classic Stage]
 
 ## Stages
 
-This location housed The Rock-Afire Explosion until May 1991, when the show was retrofitted into Munch's Make Believe Band. Sometime around 1993, the 3-Stage was beyond repair, however a new hire, Brian Hagan, was hired as a technician and majorly improved the decrepit condition the show was in. Brian was employed at the location until being contacted by ShowBiz Pizza Time in 1996 and relocating to Dallas, Texas(1). The reason for his departure was because of the many improvements he'd made to his district, notably customizing Mobile's stage setup three times throughout 1995 and 1996. The first of these customizations was the Vegas Stage (Mobile, AL)|Vegas Stage. At first, it was small quality-of-life improvements and making the show look better. Later on, it became its own concept. Afterward was a Winter Stage (Mobile, AL)|Winter Stage retrofit Brian also made use of Antioch's tolomatic lift, children's toys, and customized a tuxedo for Chuck E. Cheese for the Playroom Stage (Mobile, AL)|Playroom Stage. In 1992, the Playroom Stage retrofit began being retrofitted back into the standard 3-Stage look but with some things being untouched like Pasqually's position, Jasper's can, and Chuck E's base. All of the characters' outfits were also reverted. The backdrops were sourced from SPT, the store's originals having been thrown away rather than stored. At an unknown point after 2002, Chuck E's base was replaced with the regular black one. By 2010, the tuxedo on Chuck E. was finally replaced with the new 'Avenger' outfit. In April 2012 Snapper Ard does maintenance on the show and later sold off the prop characters.(2) The animatronics started to fall into disrepair shortly after his departure but was able to be recovered in 2016, around the same time they gave Chuck E. the 'Rockstar' shirt. The Cyberstar (disambiguation)|Cyberstar broke shortly before the 3-Stage was removed in October 2019, making the location to have the first {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} installed in Alabama. The showroom would be called mediocre by many due to only having the art of Chuck E. Cheese and Helen Henny in the area and then having two screens between. This would finally be changed sometime in June 2023 when the store received the {{< wiki-link "Video Wall" >}}.
+This location housed The Rock-Afire Explosion until May 1991, when the show was retrofitted into Munch's Make Believe Band. Sometime around 1993, the 3-Stage was beyond repair, however a new hire, Brian Hagan, was hired as a technician and majorly improved the decrepit condition the show was in. Brian was employed at the location until being contacted by ShowBiz Pizza Time in 1996 and relocating to Dallas, Texas(1). The reason for his departure was because of the many improvements he'd made to his district, notably customizing Mobile's stage setup three times throughout 1995 and 1996. The first of these customizations was the Vegas Stage (Mobile, AL)|Vegas Stage. At first, it was small quality-of-life improvements and making the show look better. Later on, it became its own concept. Afterward was a Winter Stage (Mobile, AL)|Winter Stage retrofit Brian also made use of Antioch's tolomatic lift, children's toys, and customized a tuxedo for Chuck E. Cheese for the Playroom Stage (Mobile, AL)|Playroom Stage. In 1992, the Playroom Stage retrofit began being retrofitted back into the standard 3-Stage look but with some things being untouched like Pasqually's position, Jasper's can, and Chuck E's base. All of the characters' outfits were also reverted. The backdrops were sourced from SPT, the store's originals having been thrown away rather than stored. At an unknown point after 2002, Chuck E's base was replaced with the regular black one. By 2010, the tuxedo on Chuck E. was finally replaced with the new 'Avenger' outfit. In April 2012 Snapper Ard does maintenance on the show and later sold off the prop characters.(2) The animatronics started to fall into disrepair shortly after his departure but was able to be recovered in 2016, around the same time they gave Chuck E. the 'Rockstar' shirt. The Cyberstar (disambiguation)|Cyberstar broke shortly before the 3-Stage was removed in October 2019, making the location to have the first [Chuck E Live Stage (Dance Floor)] installed in Alabama. The showroom would be called mediocre by many due to only having the art of Chuck E. Cheese and Helen Henny in the area and then having two screens between. This would finally be changed sometime in June 2023 when the store received the [Video Wall].
 
 | Stage                | installed     | Removed       |
 |----------------------|---------------|---------------|
@@ -32,7 +32,7 @@ Before ShowBiz Pizza opened in Mobile an advertisement was run in the local news
 
 ### Remodels
 
-The location would receive the 1988 update to the 1986 SPT Remodel Program in July of 1990. It would receive Concept Unification in May of the following year. The location was remodeled once again in 1996 during the 1994 SPT Repositioning / Remodel Program|1994 SPT Repositioning Initiative and also received {{< wiki-link "Phase 1 (1994)" >}}. Afterwards, the store received {{< wiki-link "Phase 2 (1997)" >}} and {{< wiki-link "Phase 3 (2000)" >}} in-around their respective dates. In 2005 the location is updated during the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|2003 'Cool Chuck' Remodel Initiative. In April 2010 store's skills area and entrance is expanded, taking over existing parking spaces in front of the building. During expansion, a temporary entrance was made between the skills and kiddie area, which had most of its games moved out of the way. This location began to remodel in October of 2019, first painting the exterior white and then removing the 3-Stage. The rest of the interior was finished before 2020 and the exterior wasn't finished until a few months after the fact, most likely due to COVID19.
+The location would receive the 1988 update to the 1986 SPT Remodel Program in July of 1990. It would receive Concept Unification in May of the following year. The location was remodeled once again in 1996 during the 1994 SPT Repositioning / Remodel Program|1994 SPT Repositioning Initiative and also received [Phase 1 (1994)]. Afterwards, the store received [Phase 2 (1997)] and [Phase 3 (2000)] in-around their respective dates. In 2005 the location is updated during the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|2003 'Cool Chuck' Remodel Initiative. In April 2010 store's skills area and entrance is expanded, taking over existing parking spaces in front of the building. During expansion, a temporary entrance was made between the skills and kiddie area, which had most of its games moved out of the way. This location began to remodel in October of 2019, first painting the exterior white and then removing the 3-Stage. The rest of the interior was finished before 2020 and the exterior wasn't finished until a few months after the fact, most likely due to COVID19.
 
 ### July 22, 2023 Fire
 
@@ -40,7 +40,7 @@ On July 22, a fire allegedly started in the building.(3)
 
 ### Misc.
 
-- When the store was remodeled in 2005 they received {{< wiki-link "CEC Warhol - Quad (CEC Décor)" >}} but was missing the fourth one that was supposed to come with it ever since.
+- When the store was remodeled in 2005 they received [CEC Warhol - Quad (CEC Décor)] but was missing the fourth one that was supposed to come with it ever since.
 - On May 19, 2011, a Geocache named 'Chuck E Cheese Geo to JAPAN' is created with the intent of sending a Chuck E. Cheese plushie location to Japan. On June 7, 2011, the Plush toy was last seen in a photo with the Chuck E. Cheese walkaround at the Mobile, AL Chuck E. Cheese's.(6)
 - Sometime around June 2023, the store's street sign was removed.
 
@@ -58,23 +58,23 @@ On July 22, a fire allegedly started in the building.(3)
 
 | Animatronic                                                               | Serial    | Whereabouts         |
 |---------------------------------------------------------------------------|-----------|---------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 7-81 1-5  | Destroyed           |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 7-81 2-5  | Destroyed           |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 7-81 3-5  | Destroyed           |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 7-81 4-5  | Destroyed           |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 7-81 5-5  | Destroyed           |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 7-81 6-5  | Unknown             |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 7-81 7-5  | Sold by Snapper Ard |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 7-81 8-5  | Unknown             |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 7-81 10-5 | Sold by Snapper Ard |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 7-81 11-5 | Sold by Snapper Ard |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A       | Unknown             |
-| {{< wiki-link "Wink" >}}                                            | N/A       | Destroyed           |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-81 1-5  | Destroyed           |
+| [Dook Larue (Animatronic)]                        | 7-81 2-5  | Destroyed           |
+| [Fatz Geronimo (Animatronic)]                     | 7-81 3-5  | Destroyed           |
+| [Beach Bear (Animatronic)]                        | 7-81 4-5  | Destroyed           |
+| [Mitzi Mozzarella (Animatronic)]                  | 7-81 5-5  | Destroyed           |
+| [Billy Bob (Animatronic)]                         | 7-81 6-5  | Unknown             |
+| [Looney Bird (Animatronic)]                       | 7-81 7-5  | Sold by Snapper Ard |
+| [Choo Choo (Animatronic)]                         | 7-81 8-5  | Unknown             |
+| [Sun (Animatronic)]                               | 7-81 10-5 | Sold by Snapper Ard |
+| [Moon (Animatronic)]                              | 7-81 11-5 | Sold by Snapper Ard |
+| [Antioch (Animatronic)]                           | N/A       | Unknown             |
+| [Wink]                                            | N/A       | Destroyed           |
 
 ## Walkarounds
 
 | Head                                                | Outfits &amp; Suits                                       | Accessories                                                                                      | Whereabouts |
 |-----------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------|
-| Chuck 1994 (Costume Head)                           | {{< wiki-link "Chuck Tux 1 93 (Costume Outfit)" >}} | Large Cowboy Hat, Chuck Fur Paw Gloves (Costume Accessory), Chuck Rat Feet 2 (Costume Accessory) | Unknown     |
-| {{< wiki-link "Chuck 2000 (Costume Head)" >}} | Chuck 'Cool Chuck' Attire (Costume Outfit)                | {{< wiki-link "Chuck Long Fur Arms (Costume Accessory)" >}}, Chuck Vinyl Paw Gloves        | Unknown     |
-| {{< wiki-link "Chuck 2005 (Costume Head)" >}} | Chuck Avenger Attire (Costume Outfit)                     | Chuck Short Fur Vinyl Gloves (Costume Accessory), Chuck 05 Avenger Shoes (Costume Accessory)     | Unknown     |
+| Chuck 1994 (Costume Head)                           | [Chuck Tux 1 93 (Costume Outfit)] | Large Cowboy Hat, Chuck Fur Paw Gloves (Costume Accessory), Chuck Rat Feet 2 (Costume Accessory) | Unknown     |
+| [Chuck 2000 (Costume Head)] | Chuck 'Cool Chuck' Attire (Costume Outfit)                | [Chuck Long Fur Arms (Costume Accessory)], Chuck Vinyl Paw Gloves        | Unknown     |
+| [Chuck 2005 (Costume Head)] | Chuck Avenger Attire (Costume Outfit)                     | Chuck Short Fur Vinyl Gloves (Costume Accessory), Chuck 05 Avenger Shoes (Costume Accessory)     | Unknown     |

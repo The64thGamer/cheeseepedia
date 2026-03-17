@@ -13,7 +13,7 @@ pageThumbnailFile = "niFpPBMmslKQECEIfKQP.avif"
 latitudeLongitude = ["33.87530502","-118.3446832"]
 +++
 
-***16920 Prairie Ave, Store #465*** also known as 'Prairie' was a Chuck E. Cheese's Pizza Time Theatre that opened on 1983 (month and day currently unknown). This location should not be confused with {{< wiki-link "Torrance, CA (2821 Pacific Coast Hwy)" >}} as it opened on March 24, 1983, as a ShowBiz Pizza Place and is still open to this day. It is also known for having a PTT and a SPP within the same city.
+***16920 Prairie Ave, Store #465*** also known as 'Prairie' was a Chuck E. Cheese's Pizza Time Theatre that opened on 1983 (month and day currently unknown). This location should not be confused with [Torrance, CA (2821 Pacific Coast Hwy)] as it opened on March 24, 1983, as a ShowBiz Pizza Place and is still open to this day. It is also known for having a PTT and a SPP within the same city.
 
 ## History
 
@@ -25,28 +25,28 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 
 | Stage                                                                                             | Installed       | Removed         | Notes                                                                                                                                     |
 |---------------------------------------------------------------------------------------------------|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}}                                                | 1983            | 1989/1990       | One of many in Caifornia.                                                                                                                 |
-| {{< wiki-link "Chuck E's House Facade" >}}                                                  | 1989/1990       | Mid-Late 1990's | One of many in Caifornia. Looked identical to the one installed at the {{< wiki-link "Bell, CA (5089 E Florence Ave)" >}} location. |
-| {{< wiki-link "2-Stage" >}}                                                                 | Mid-Late 1990's | January 2023    | One of many in Caifornia.                                                                                                                 |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | January 2023    | Still In Use    | 2019 Model                                                                                                                                |
+| [Cyberamics Balcony Stage]                                                | 1983            | 1989/1990       | One of many in Caifornia.                                                                                                                 |
+| [Chuck E's House Facade]                                                  | 1989/1990       | Mid-Late 1990's | One of many in Caifornia. Looked identical to the one installed at the [Bell, CA (5089 E Florence Ave)] location. |
+| [2-Stage]                                                                 | Mid-Late 1990's | January 2023    | One of many in Caifornia.                                                                                                                 |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | January 2023    | Still In Use    | 2019 Model                                                                                                                                |
 
 ## Animatronics
 
 | Animatronic                                                  | Serial Number | Whereabouts       |
 |--------------------------------------------------------------|---------------|-------------------|
 | Chuck E Cheese (Cyberamic)                                   | N/A           | Destroyed         |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | N/A           | Destroyed         |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | N/A           | Destroyed         |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | N/A           | Destroyed         |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | N/A           | Destroyed         |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | N/A           | Unknown/Destroyed |
+| [Guest Star Helen Henny (Cyberamic)] | N/A           | Destroyed         |
+| [Mr Munch (Cyberamic)]               | N/A           | Destroyed         |
+| [Jasper T Jowls (Cyberamic)]         | N/A           | Destroyed         |
+| [Pasqually (Cyberamic)]              | N/A           | Destroyed         |
+| [Warblettes (Cyberamic)]             | N/A           | Unknown/Destroyed |
 | Waving Flags (Cyberamic)                                     | N/A           | Unknown/Destroyed |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | N/A           | Unknown/Destroyed |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | N/A           | Unknown/Destroyed |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | N/A           | Unknown/Destroyed |
-| {{< wiki-link "Dolli Dimples (Cabaret)" >}}            | N/A           | Unknown/Destroyed |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | N/A           | Unknown/Destroyed |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | N/A           | Destroyed         |
+| [Applause Board (Cyberamic)]         | N/A           | Unknown/Destroyed |
+| [Drum Board (Cyberamic)]             | N/A           | Unknown/Destroyed |
+| [Singing Flowers (Cyberamic)]        | N/A           | Unknown/Destroyed |
+| [Dolli Dimples (Cabaret)]            | N/A           | Unknown/Destroyed |
+| [The King King Kat (Lounge)]         | N/A           | Unknown/Destroyed |
+| [Wink (Cyberamic)]                   | N/A           | Destroyed         |
 
 ## Videos
 
@@ -57,14 +57,14 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 | [Link](https://youtu.be/W07z0Bc_plY?t=519)                | A video showcasing the store, games, &amp; 2-Stage back in June 2003.                                                             | June 20, 2003          | August 16, 2022   |
 | [Link](https://youtu.be/Q1_9efgA-Os?t=87)                 | A vlog where Lambie from LambCam - Kids Entertainment visits Torrance (Prairie).                                                  | January 2011           | January 12, 2011  |
 | [Link](https://www.youtube.com/watch?v=s99dv11Vtcc&t=18s) | Footage Birthday Extravaganza 2008 in 2012. Chuck E. still has his red cap and avenger outfit                                     | Summer 2012            | June 22, 2016     |
-| [Link](https://youtu.be/JRAU8KVDPtU)                      | 'Song of Summer' from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}} being performed on Torrance (Prairie)'s 2-Stage.     | August 20, 2021        | August 21, 2021   |
-| [Link](https://youtu.be/2_zNQm5UPLU)                      | 'Dog Days of Summer' from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}} being performed on Torrance (Prairie)'s 2-Stage. | August 20, 2021        | August 21, 2021   |
-| [Link](https://youtu.be/M5iFo0TfbiI)                      | 'Let's Have a Party' from {{< wiki-link "Chuck E Cheese's Show 1 2016" >}} being performed on Torrance (Prairie)'s 2-Stage. | September 13, 2021     | April 13, 2023    |
-| [Link](https://youtu.be/Zx9jb82xmGg)                      | 'DJ Munch Mashup' from {{< wiki-link "Chuck E Cheese's Show 1 2021" >}} being performed on Torrance (Prairie)'s 2-Stage.    | September 13, 2021     | April 13, 2023    |
+| [Link](https://youtu.be/JRAU8KVDPtU)                      | 'Song of Summer' from [Chuck E Cheese's Show 3 2021] being performed on Torrance (Prairie)'s 2-Stage.     | August 20, 2021        | August 21, 2021   |
+| [Link](https://youtu.be/2_zNQm5UPLU)                      | 'Dog Days of Summer' from [Chuck E Cheese's Show 3 2021] being performed on Torrance (Prairie)'s 2-Stage. | August 20, 2021        | August 21, 2021   |
+| [Link](https://youtu.be/M5iFo0TfbiI)                      | 'Let's Have a Party' from [Chuck E Cheese's Show 1 2016] being performed on Torrance (Prairie)'s 2-Stage. | September 13, 2021     | April 13, 2023    |
+| [Link](https://youtu.be/Zx9jb82xmGg)                      | 'DJ Munch Mashup' from [Chuck E Cheese's Show 1 2021] being performed on Torrance (Prairie)'s 2-Stage.    | September 13, 2021     | April 13, 2023    |
 | [Link](https://youtu.be/DrWZeb4n_xw)                      | Store tour from December 2021.                                                                                                    | December 2, 2021       | July 20, 2022     |
-| [Link](https://youtu.be/qKZqGvjOcLU)                      | 'Dream Big' from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} being performed on Torrance (Prairie)'s 2-Stage.          | January 29, 2022       | April 13, 2023    |
-| [Link](https://youtu.be/JBIvjOTFn5Y)                      | 'Crochet All Day' from {{< wiki-link "Chuck E Cheese's Show 2 2021" >}} being performed on Torrance (Prairie)'s 2-Stage.    | February 21, 2022      | April 14, 2023    |
-| [Link](https://youtu.be/EhRtD0UEoAM)                      | 'Out of this World' from {{< wiki-link "Chuck E Cheese's Show 5 2016" >}} being performed on Torrance (Prairie)'s 2-Stage.  | June 9, 2022           | June 11, 2022     |
+| [Link](https://youtu.be/qKZqGvjOcLU)                      | 'Dream Big' from [Chuck E Cheese's Show 5 2016] being performed on Torrance (Prairie)'s 2-Stage.          | January 29, 2022       | April 13, 2023    |
+| [Link](https://youtu.be/JBIvjOTFn5Y)                      | 'Crochet All Day' from [Chuck E Cheese's Show 2 2021] being performed on Torrance (Prairie)'s 2-Stage.    | February 21, 2022      | April 14, 2023    |
+| [Link](https://youtu.be/EhRtD0UEoAM)                      | 'Out of this World' from [Chuck E Cheese's Show 5 2016] being performed on Torrance (Prairie)'s 2-Stage.  | June 9, 2022           | June 11, 2022     |
 | [Link](https://youtu.be/BEEl3kx1HoY)                      | Store tour from around September/October 2022 during Bootacular.                                                                  | September/October 2022 | October 8, 2022   |
 | [Link](https://youtu.be/Aw4bxsomgnU)                      | Final moments of the store's 2-Stage during the 2.0 Remodel.                                                                      | November 27, 2022      | November 27, 2022 |
 | [Link](https://www.youtube.com/watch?v=aVrU2pjUoPc)       | Store Tour of the Store after the 2.0 Remodel.                                                                                    | April 2023             | April 28, 2023    |

@@ -1,4 +1,4 @@
-***The Chuck E. Cheese Totally Awesome Kids Show*** was a showtape that was released on April 23, 1996, at Chuck E. Cheese's locations. It was the last showtape produced by Disney{{< cite 1 >}} and focused on the band and R.O.S.E. helping kids with various means of transportation.
+***The Chuck E. Cheese Totally Awesome Kids Show*** was a showtape that was released on April 23, 1996, at Chuck E. Cheese's locations. It was the last showtape produced by Disney[1] and focused on the band and R.O.S.E. helping kids with various means of transportation.
 
 ## Show List
 1. **Segment 1**
@@ -33,7 +33,7 @@
       2.  Sports Bloopers
 
 ## Production
-During production, demo versions of each song were recorded with different instrumentals and featuring the voices of Jeff Cosco and Kathy Turner. The lyrics for each song were mostly finalized by this point, with only a few differences, such as 'Don't Drive Me Wacky' being named 'Don't Drive Me Crazy'. On December 30, 2025, these demo recordings were uploaded to YouTube by user 'thetrapinquestion', which was ripped from a cassette tape found at the CEC corporate offices by Gabe (Pizzacam) {{< cite 2 >}}. The contents on the cassette are as follows.
+During production, demo versions of each song were recorded with different instrumentals and featuring the voices of Jeff Cosco and Kathy Turner. The lyrics for each song were mostly finalized by this point, with only a few differences, such as 'Don't Drive Me Wacky' being named 'Don't Drive Me Crazy'. On December 30, 2025, these demo recordings were uploaded to YouTube by user 'thetrapinquestion', which was ripped from a cassette tape found at the CEC corporate offices by Gabe (Pizzacam) [2]. The contents on the cassette are as follows.
 
 - 'It's The Chuck E. Cheese Totally Awesome Kids Show' Intro and Exit vocal.
 - 'Cut 1, Theme - I'm Gettin' Around'
@@ -49,8 +49,8 @@ During production, demo versions of each song were recorded with different instr
 - 'Cut 11, Show Ending Outro Theme'
 
 #### Filming Locations:
-- The ending of Segment 5 was filmed at {{< wiki-link "Orlando, FL (7419 International Dr)" >}}.
+- The ending of Segment 5 was filmed at [Orlando, FL (7419 International Dr)].
 
 ## Trivia:
-- The skateboarding footage in 'Thrillseekers' was previously used for 'Roll With It' in {{< wiki-link "Spring Training" >}}.
+- The skateboarding footage in 'Thrillseekers' was previously used for 'Roll With It' in [Spring Training].
 - In the Cyberamic version of the show, the 1-Stage curtains are programmed to open and close, after and before the 2-Stage Curtains.

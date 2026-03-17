@@ -1,4 +1,4 @@
-Chuck E. Cheese's Pizza was exterior signage produced for ShowBiz Pizza Time Inc from January 12th, 1990 to 1995 for the {{< wiki-link "SPT 1980's Remodel Program" >}}.
+Chuck E. Cheese's Pizza was exterior signage produced for ShowBiz Pizza Time Inc from January 12th, 1990 to 1995 for the [SPT 1980's Remodel Program].
 
 ## Usage
 
@@ -7,4 +7,4 @@ It's unknown which location used the signage, contrary to popular belief it was 
 ## Variants
 
 There would be a few variants of this signage used throughout its lifespan.
-The CEC signage would often be seen accompanied by two smaller signs next to the main sign which read 'Family' and 'Fun' Like the Preston Highway location(formerly used by ShowBiz Pizza Place to say 'Pizza' and 'Place') There were also many unique variants used at some locations during its lifespan., for example some would only say 'Chuck. E. Cheese's', others would only use Letters like {{< wiki-link "Corona, CA (191 N McKinley St)" >}}.
+The CEC signage would often be seen accompanied by two smaller signs next to the main sign which read 'Family' and 'Fun' Like the Preston Highway location(formerly used by ShowBiz Pizza Place to say 'Pizza' and 'Place') There were also many unique variants used at some locations during its lifespan., for example some would only say 'Chuck. E. Cheese's', others would only use Letters like [Corona, CA (191 N McKinley St)].

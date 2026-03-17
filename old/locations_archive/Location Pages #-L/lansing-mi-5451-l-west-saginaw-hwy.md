@@ -13,14 +13,14 @@ pageThumbnailFile = "gw2l0n6horHbvd6T39mY.avif"
 latitudeLongitude = ["42.73744107","-84.62827913"]
 +++
 
-***Lansing, MI (5451 L West Saginaw Hwy), Store #326*** is a *Chuck E. Cheese's Pizza* that opened on June 16th, 1992 with a {{< wiki-link "2-Stage" >}}. The store is located in the Lansing Towne Centre. It opened on the same day as Orange, CT.
+***Lansing, MI (5451 L West Saginaw Hwy), Store #326*** is a *Chuck E. Cheese's Pizza* that opened on June 16th, 1992 with a [2-Stage]. The store is located in the Lansing Towne Centre. It opened on the same day as Orange, CT.
 
 ## Stages
 
 | Stage                                                                                             | Installed   | Removed      | Notes                                                                     |
 |---------------------------------------------------------------------------------------------------|-------------|--------------|---------------------------------------------------------------------------|
-| {{< wiki-link "2-Stage" >}}                                                                 | June 1992   | August 2023  | One of four 2-Stages installed in Michigan. Last MMBB Stage in the state. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | August 2023 | Still In Use | 2021 Model.                                                               |
+| [2-Stage]                                                                 | June 1992   | August 2023  | One of four 2-Stages installed in Michigan. Last MMBB Stage in the state. |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | August 2023 | Still In Use | 2021 Model.                                                               |
 
 ## History
 
@@ -39,8 +39,8 @@ This location opened up on June 16th 1992 with A 2 Stage show and the 1988 Remod
 | Animatronic                                                  | Manufacturing date | Status     |
 |--------------------------------------------------------------|--------------------|------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1992               | Destroyed. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1992               | Destroyed. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1992               | Destroyed. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1992               | Destroyed. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1992               | Destroyed. |
-| {{< wiki-link "Wink" >}}                               | 1992               | Destroyed. |
+| [Guest Star Helen Henny (Cyberamic)] | 1992               | Destroyed. |
+| [Mr Munch (Cyberamic)]               | 1992               | Destroyed. |
+| [Jasper T Jowls (Cyberamic)]         | 1992               | Destroyed. |
+| [Pasqually (Cyberamic)]              | 1992               | Destroyed. |
+| [Wink]                               | 1992               | Destroyed. |

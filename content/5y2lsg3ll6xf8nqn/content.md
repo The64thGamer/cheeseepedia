@@ -1,4 +1,4 @@
-The ***Wolf Pack 5*** was an animatronic band produced by Creative Engineering from 1978 to 1979 for various worldwide attractions and temporarily was used in 1980 for the first ShowBiz Pizza Place in Kansas City (Antioch), MO (2726 NE Vivion Rd) while the {{< wiki-link "Rock-afire Explosion" >}} was still in development. The band primarily played song covers in a 50's and 60’s rock and roll style. It was one of the predecessors to the Rock-afire Explosion, the other being the {{< wiki-link "Hard Luck Bears" >}}. All of the main characters- minus Queenie in her original incarnation, would have direct counterparts or be used again in the Rock-Afire Explosion.
+The ***Wolf Pack 5*** was an animatronic band produced by Creative Engineering from 1978 to 1979 for various worldwide attractions and temporarily was used in 1980 for the first ShowBiz Pizza Place in Kansas City (Antioch), MO (2726 NE Vivion Rd) while the [Rock-afire Explosion] was still in development. The band primarily played song covers in a 50's and 60’s rock and roll style. It was one of the predecessors to the Rock-afire Explosion, the other being the [Hard Luck Bears]. All of the main characters- minus Queenie in her original incarnation, would have direct counterparts or be used again in the Rock-Afire Explosion.
 
 ## Characters
 
@@ -12,7 +12,7 @@ Fats Gorilla was a gorilla animatronic parodying [Fats Domino](https://en.wikipe
 
 #### **Dingo Star**
 
-{{< wiki-link "Dingo Star" >}} was a beagle that parodied The Beatles' [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr). Dingo Star played the drums for the Wolf Pack 5. There is some debate as to how his name is spelt. Some written material spells his name as 'Dingo Star,' while others spell it as 'Dingo Starr.' Though it was previously believed that he was voiced by Duke Chaupetta, he was actually voiced by an unknown member of Clutch. He would go on to become Dook LaRue in the Rock-afire Explosion.
+[Dingo Star] was a beagle that parodied The Beatles' [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr). Dingo Star played the drums for the Wolf Pack 5. There is some debate as to how his name is spelt. Some written material spells his name as 'Dingo Star,' while others spell it as 'Dingo Starr.' Though it was previously believed that he was voiced by Duke Chaupetta, he was actually voiced by an unknown member of Clutch. He would go on to become Dook LaRue in the Rock-afire Explosion.
 
 #### **Beach Bear**
 
@@ -108,11 +108,11 @@ Due to the extreme similarities between this show and the 1979 IAAPA Expo show, 
 
 | Show Name / Label Name                                    | Day | Month    | Year   | Format                                     |
 |-----------------------------------------------------------|-----|----------|--------|--------------------------------------------|
-| {{< wiki-link "Wolf Pack 5 IAAPA 1978 Showtape" >}} |     | November | 1978   | CEI 8-Track Reel                           |
+| [Wolf Pack 5 IAAPA 1978 Showtape] |     | November | 1978   | CEI 8-Track Reel                           |
 | Wolf Pack 5 IAAPA 1979 Showtape                           |     | November | 1979   | CEI 8-Track Reel                           |
-| {{< wiki-link "Wolf Pack 5 ShowBiz Tape" >}}        |     | March    | 1980   | {{< wiki-link "CEI 4-Track Reel" >}} |
-| {{< wiki-link "Wolfman Showtape" >}}                |     | March    | 1980   | {{< wiki-link "CEI 4-Track Reel" >}} |
-| **Wolf Skit 1-3**                                         |     |          | 1980's | {{< wiki-link "CEI 4-Track Reel" >}} |
-| Wolf 1-3\|**Wolf 1-3**                                    |     |          | 1980's | {{< wiki-link "CEI 4-Track Reel" >}} |
+| [Wolf Pack 5 ShowBiz Tape]        |     | March    | 1980   | [CEI 4-Track Reel] |
+| [Wolfman Showtape]                |     | March    | 1980   | [CEI 4-Track Reel] |
+| **Wolf Skit 1-3**                                         |     |          | 1980's | [CEI 4-Track Reel] |
+| Wolf 1-3\|**Wolf 1-3**                                    |     |          | 1980's | [CEI 4-Track Reel] |
 
 Some custom showtapes existed for the various parks the Wolf Pack 5 was sold to, but these have not been preserved or discovered as of the time of this writing.

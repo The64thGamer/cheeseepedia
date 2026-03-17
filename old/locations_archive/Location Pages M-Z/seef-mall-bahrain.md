@@ -24,7 +24,7 @@ As the store is a 2.0, they have a Dance Floor, it is the 2021 Model, and the st
 
 | Stage                                                                   | Installed    | Removed      | Notes      |
 |-------------------------------------------------------------------------|--------------|--------------|------------|
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + Video Wall | October 2021 | Still In Use | 2021 Model |
+| [Chuck E Live Stage (Dance Floor)] + Video Wall | October 2021 | Still In Use | 2021 Model |
 
 TODO
 

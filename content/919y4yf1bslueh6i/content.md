@@ -1,1 +1,1 @@
-The ***Chuck E. Cheese in the Galaxy 5000 Display*** is a display placed on counters that would be used to advertise the {{< wiki-link "Chuck E. Cheese in the Galaxy 5000" >}} Movie in 1999. The display was paired alongside an example VHS copy, and a price plate for $12.95.
+The ***Chuck E. Cheese in the Galaxy 5000 Display*** is a display placed on counters that would be used to advertise the [Chuck E. Cheese in the Galaxy 5000] Movie in 1999. The display was paired alongside an example VHS copy, and a price plate for $12.95.

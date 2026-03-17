@@ -12,7 +12,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
 
-***Hialeah, FL (500 W 49th St)*** was a *Pizza Time Theatre* that opened on December 20, 1982 with a {{< wiki-link "Cyberamics Balcony Stage" >}}, which closed around 1985-1986.
+***Hialeah, FL (500 W 49th St)*** was a *Pizza Time Theatre* that opened on December 20, 1982 with a [Cyberamics Balcony Stage], which closed around 1985-1986.
 
 ## History
 
@@ -27,8 +27,8 @@ No videos have surfaced of this location.
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
 | Chuck E Cheese (Cyberamic)                                   | 1980s              | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1980s              | Unknown     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1980s              | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1980s              | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1980s              | Unknown     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | 1980s              | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | 1980s              | Unknown     |
+| [Mr Munch (Cyberamic)]               | 1980s              | Unknown     |
+| [Pasqually (Cyberamic)]              | 1980s              | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | 1980s              | Unknown     |
+| [Warblettes (Cyberamic)]             | 1980s              | Unknown     |

@@ -11,11 +11,11 @@ tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
 
-***Overland Park, KS (10510 Metcalf Lane), Store #67*** is a *ShowBiz Pizza Place* restaurant located in Overland Park, Kansas which opened on September 29, 1980. It is currently the only remaining ShowBiz Pizza in Kansas after {{< wiki-link "Manhattan, KS (519 Richards Dr)" >}} closed in 1993.
+***Overland Park, KS (10510 Metcalf Lane), Store #67*** is a *ShowBiz Pizza Place* restaurant located in Overland Park, Kansas which opened on September 29, 1980. It is currently the only remaining ShowBiz Pizza in Kansas after [Manhattan, KS (519 Richards Dr)] closed in 1993.
 
 ## History
 
-Overland Park, KS opened its doors on September 29th, 1980 as the first store in Kansas. This was one of 18/19 stores to receive a Beta RockAfire Explosion show, though it was very still unique in several ways. In 1991-1992, Concept Unification was growing strong, Replacing the RockAfire Explosion with Munch's Make Believe Band. It also was a franchised location until February 25th, 1985 when they were bought by the corporate along with {{< wiki-link "Independence, MO (4039 S Noland Rd)" >}}. Then store would receive the 1993 remodel sometime by the 1990s, complete with: Platinum CD Award posters; Mt. Chuckmore poster; 1991 Postcard posters (Pasqually's Italy and Jasper's Wild West); Cheese Guitar sign; 1993 Salad Bar, Beverages and Round Chuck signs; 1991 Confetti Portraits; and other misc signage. In 2000, Overland Park would remodel once again, this time to Phase 3 which involved remodeling the exterior, destroying the 3-Stage for the Studio C Beta, 32m stage and removing some old decor. In Early-Mid 2007, Overland Park would receive the CEC 2005 Remodel|2005 Remodel; removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls. It is unknown when they received the Cool Chuck outfit. In 2017, Overland Park started their 2.0 Remodel as one of the first of the 7 2.0's. The stage was removed in 2017.
+Overland Park, KS opened its doors on September 29th, 1980 as the first store in Kansas. This was one of 18/19 stores to receive a Beta RockAfire Explosion show, though it was very still unique in several ways. In 1991-1992, Concept Unification was growing strong, Replacing the RockAfire Explosion with Munch's Make Believe Band. It also was a franchised location until February 25th, 1985 when they were bought by the corporate along with [Independence, MO (4039 S Noland Rd)]. Then store would receive the 1993 remodel sometime by the 1990s, complete with: Platinum CD Award posters; Mt. Chuckmore poster; 1991 Postcard posters (Pasqually's Italy and Jasper's Wild West); Cheese Guitar sign; 1993 Salad Bar, Beverages and Round Chuck signs; 1991 Confetti Portraits; and other misc signage. In 2000, Overland Park would remodel once again, this time to Phase 3 which involved remodeling the exterior, destroying the 3-Stage for the Studio C Beta, 32m stage and removing some old decor. In Early-Mid 2007, Overland Park would receive the CEC 2005 Remodel|2005 Remodel; removing the 90's decorations, knocking down the Showroom walls, removing the balcony seating, adding purple walls. It is unknown when they received the Cool Chuck outfit. In 2017, Overland Park started their 2.0 Remodel as one of the first of the 7 2.0's. The stage was removed in 2017.
 
 ## Stages
 
@@ -23,10 +23,10 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 
 | Stage                                                      | Installed      | Removed      | Notes                                                                           |
 |------------------------------------------------------------|----------------|--------------|---------------------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                    | September 1980 | 1991-1992    | First ShowBiz Pizza in Kansas.                                                  |
-| {{< wiki-link "Concept Unification Stage" >}}        | 1991-1992      | 2000         | One of two Kansas locations to receive Concept Unification.                     |
+| [Classic Stage]                    | September 1980 | 1991-1992    | First ShowBiz Pizza in Kansas.                                                  |
+| [Concept Unification Stage]        | 1991-1992      | 2000         | One of two Kansas locations to receive Concept Unification.                     |
 | Studio C Beta                                              | 2000           | 2017         | Only animatronic show in Overland Park. One of first five Studio C Beta stages. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | 2017           | Still in Use | 2019 Model. Only remaining ShowBiz Pizza in Kansas. First of the 7 2.0's.       |
+| [Chuck E Live Stage (Dance Floor)] | 2017           | Still in Use | 2019 Model. Only remaining ShowBiz Pizza in Kansas. First of the 7 2.0's.       |
 
 ## Arcade Machines
 
@@ -53,7 +53,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 - Transformers Human Alliance
 - Pop The Lock
 - Maze Escape
-- {{< wiki-link "Pop It for Gold" >}}
+- [Pop It for Gold]
 - Baseball Pro
 - Bean Bag Toss
 - Alley Roller Classic (4 units)
@@ -66,13 +66,13 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 - Jackpot Extreme
 - Monster Drop (2 units)
 - Teenage Mutant Ninja Turtles (2017)
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Robin Hood
 - Water Gun Fun Pixel Play
 - Full Tilt
 - Rabbids Hollywood
 - Treasure Quest
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - High Five!
 - Deadstorm Pirates
 - Spongebob Super Striker
@@ -121,19 +121,19 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 | Beta Sun                                                                  | 7-80 10-3     | Destroyed           |
 | Beta Moon                                                                 | 7-80 11-3     | Destroyed           |
 | Beta Antioch                                                              | N/A           | Destroyed           |
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 4-81 1-2      | Unknown / Destroyed |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 4-81 2-2      | Unknown / Destroyed |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 4-81 3-2      | Unknown / Destroyed |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 4-81 4-2      | Unknown / Destroyed |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 4-81 5-2      | Unknown / Destroyed |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 4-81 6-2      | Unknown / Destroyed |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 4-81 7-2      | Unknown / Destroyed |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 4-81 8-2      | Unknown / Destroyed |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 4-81 10-2     | Unknown / Destroyed |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 4-81 11-2     | Unknown / Destroyed |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown / Destroyed |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Destroyed           |
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}                | 0??           | Destroyed           |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-2      | Unknown / Destroyed |
+| [Dook Larue (Animatronic)]                        | 4-81 2-2      | Unknown / Destroyed |
+| [Fatz Geronimo (Animatronic)]                     | 4-81 3-2      | Unknown / Destroyed |
+| [Beach Bear (Animatronic)]                        | 4-81 4-2      | Unknown / Destroyed |
+| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-2      | Unknown / Destroyed |
+| [Billy Bob (Animatronic)]                         | 4-81 6-2      | Unknown / Destroyed |
+| [Looney Bird (Animatronic)]                       | 4-81 7-2      | Unknown / Destroyed |
+| [Choo Choo (Animatronic)]                         | 4-81 8-2      | Unknown / Destroyed |
+| [Sun (Animatronic)]                               | 4-81 10-2     | Unknown / Destroyed |
+| [Moon (Animatronic)]                              | 4-81 11-2     | Unknown / Destroyed |
+| [Antioch (Animatronic)]                           | N/A           | Unknown / Destroyed |
+| [Wink]                                            | N/A           | Destroyed           |
+| [Chuck E Cheese 32m (Animatronic)]                | 0??           | Destroyed           |
 | Clock                                                                     | N/A           | Destroyed           |
 
 TODO

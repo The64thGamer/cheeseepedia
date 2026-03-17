@@ -1,4 +1,4 @@
-***Chuck E's Holiday Party 2008* was a show which reused the segments and intermissions of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2008 holiday season.**
+***Chuck E's Holiday Party 2008* was a show which reused the segments and intermissions of [Chuck E's Holiday Party 1999] for the 2008 holiday season.**
 
 1.  Segment 1
     1.  'Holly Jolly Christmas'

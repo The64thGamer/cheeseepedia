@@ -1,4 +1,4 @@
-***Summer 2013*** is a showtape released in 2013 featuring the segments of {{< wiki-link "Summer 2012" >}} with Chuck E.'s vocals redone by Jaret Reddick.
+***Summer 2013*** is a showtape released in 2013 featuring the segments of [Summer 2012] with Chuck E.'s vocals redone by Jaret Reddick.
 
 ## Show List:
 
@@ -45,5 +45,5 @@
 - Old MacDonald 2013 (Michael Hill Countdown)
 
 ## Trivia:
-- All segments and Summer Safety with Steve Waters are reused from {{< wiki-link "Summer 2012" >}}, Hard Hat Hank - 'Surprise', Chillout - 'Underwater', Chillout - 'Water Fly Over', and Chillout - 'Desert' are from the {{< wiki-link "Fall 2012 Show" >}}, and Chillout - 'Night Drive' and Super Jasper - 'Break The Record' are from {{< wiki-link "First Quarter 2013" >}}.
+- All segments and Summer Safety with Steve Waters are reused from [Summer 2012], Hard Hat Hank - 'Surprise', Chillout - 'Underwater', Chillout - 'Water Fly Over', and Chillout - 'Desert' are from the [Fall 2012 Show], and Chillout - 'Night Drive' and Super Jasper - 'Break The Record' are from [First Quarter 2013].
 - This is the first show to include Rockstar Birthday.

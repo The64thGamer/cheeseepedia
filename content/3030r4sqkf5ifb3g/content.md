@@ -1,4 +1,4 @@
-The **ACS-50** is a Playback and Programming Control Unit produced by **Sally Industries.** Typically configured by **Sally Industries** at the factory, depending on the customer's specific application. {{< cite 1 >}}
+The **ACS-50** is a Playback and Programming Control Unit produced by **Sally Industries.** Typically configured by **Sally Industries** at the factory, depending on the customer's specific application. [1]
 
 ## Function
 
@@ -100,7 +100,7 @@ Some ACS-50 units may reconfigure this button to control a signal for the show, 
 
 ##### **Celebration Station - Jethro P. Hogg** 
 
-{{< cite 2 >}}
+[2]
 
 | **Buttons** | **1** | **2** | **3** | **4** | **5** | **6** | **7** |
 | ------- | --- | --- | --- | --- | --- | --- | --- |
@@ -112,7 +112,7 @@ Some ACS-50 units may reconfigure this button to control a signal for the show, 
 
 ##### Jethro P. Hogg - Solo
 
-{{< cite 3 >}}
+[3]
 
 | **Buttons** | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | ------- | --- | --- | --- | --- | --- | --- | --- |

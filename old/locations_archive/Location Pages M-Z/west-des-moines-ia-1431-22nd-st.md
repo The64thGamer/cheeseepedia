@@ -25,9 +25,9 @@ Originally when the store opened, West Des Moines had a Rock-afire Explosion. It
 
 | Stage                                                                                             | Installed    | Removed       | Notes                                                                                                                                                                                    |
 |---------------------------------------------------------------------------------------------------|--------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                                                           | October 1980 | April 1991    | First ShowBiz Pizza Store to open in Iowa. Original animatronics replaced in 1981.                                                                                                       |
-| {{< wiki-link "Concept Unification Stage" >}}                                               | April 1991   | July 16, 2023 | One of 4 ShowBiz Pizza stores in Iowa to undergo Concept Unification. Last animatronic stage in Iowa. Munch has Cyberamic keyboard. No Wink. Chuck E. wore the rare 'Cool Chuck' outfit. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | July 2023    | Still in use  | 2021 Model.                                                                                                                                                                              |
+| [Classic Stage]                                                           | October 1980 | April 1991    | First ShowBiz Pizza Store to open in Iowa. Original animatronics replaced in 1981.                                                                                                       |
+| [Concept Unification Stage]                                               | April 1991   | July 16, 2023 | One of 4 ShowBiz Pizza stores in Iowa to undergo Concept Unification. Last animatronic stage in Iowa. Munch has Cyberamic keyboard. No Wink. Chuck E. wore the rare 'Cool Chuck' outfit. |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | July 2023    | Still in use  | 2021 Model.                                                                                                                                                                              |
 
 ## Animatronics
 

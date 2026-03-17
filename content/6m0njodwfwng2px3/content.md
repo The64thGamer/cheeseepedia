@@ -1,4 +1,4 @@
-***December 2009 Show*** was a show which reused the segments and intermissions of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2009 holiday season.
+***December 2009 Show*** was a show which reused the segments and intermissions of [Chuck E's Holiday Party 1999] for the 2009 holiday season.
 
 ## Show List:
 
@@ -56,4 +56,4 @@
 
 ## Trivia:
 
-- The Coke Groove is reused from the {{< wiki-link "January 2004 Show" >}} , and the Coke Spot is reused from {{< wiki-link "Holiday 2004" >}}
+- The Coke Groove is reused from the [January 2004 Show] , and the Coke Spot is reused from [Holiday 2004]

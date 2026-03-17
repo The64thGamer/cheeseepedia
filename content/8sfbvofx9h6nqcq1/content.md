@@ -1,10 +1,10 @@
 ***SPP Friends / Moms / TV Themes*** is one of the last few showtapes released for *ShowBiz Pizza Place's* hosting the *Rock-afire Explosion*, releasing on June 11, 1990.
 For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape
-sent after {{< wiki-link "SPP Christmas '89 Wave Bday" >}} would become
+sent after [SPP Christmas '89 Wave Bday] would become
 increasingly more rare as stores would convert to *3-Stages.*
 It was also the final showtape to feature any new *Rock-afire Explosion* material from CEI as Friends and Rock
 & Roll Tribute were the last segments they've released.
-In September 1990 they released {{< wiki-link "SPP Best of 1 Kids/Friends" >}} out of 5 in a series of compilation tapes, *ShowBiz Pizza Place* locations would play them
+In September 1990 they released [SPP Best of 1 Kids/Friends] out of 5 in a series of compilation tapes, *ShowBiz Pizza Place* locations would play them
 until that store received *Concept Unification*.
 
 ## Show List:
@@ -83,6 +83,6 @@ until that store received *Concept Unification*.
 ## Trivia:
 
 - The video segment [CGI Animated Graphics](https://en.wikipedia.org/wiki/Odyssey_Productions) was
-  also in {{< wiki-link "SPP Concept Unification Premiere" >}}
+  also in [SPP Concept Unification Premiere]
   along with other videos from past CEC/SPP showtapes.
-- This show recycles two segments from the previous showtape {{< wiki-link "SPP Moms / TV Themes / Neighbors" >}}.
+- This show recycles two segments from the previous showtape [SPP Moms / TV Themes / Neighbors].

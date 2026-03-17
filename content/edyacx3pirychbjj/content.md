@@ -1,4 +1,4 @@
-B.B. Bubbles was the last side act placed inside the Piona bar and was a retrofited {{< wiki-link "Dolli Dimples (Cabaret)" >}}.
+B.B. Bubbles was the last side act placed inside the Piona bar and was a retrofited [Dolli Dimples (Cabaret)].
 
 ## History
 
@@ -12,7 +12,7 @@ B.B. was a pink elephant with blue springs for hair and wearing a blue dress and
 
 ### Movements
 
-B.B. had 13 movements, the bosom movement from {{< wiki-link "Dolli Dimples (Cabaret)" >}} was repurposed for the trunk.
+B.B. had 13 movements, the bosom movement from [Dolli Dimples (Cabaret)] was repurposed for the trunk.
 
 | Movement        |
 |-----------------|

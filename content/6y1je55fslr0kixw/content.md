@@ -53,13 +53,13 @@ This show is made up of songs and intermissions reused from various 2000 - 2002 
 
 **Live Shows would be on separate VHS tapes for Existing Stage stores.**
 
-- {{< wiki-link "Birthday Star 2001" >}}
+- [Birthday Star 2001]
 - Spanish Birthday 2001
 - New Birthday
 - Chuck E. Swing
 - Chuck E. March 2001
 - BINGO
-- {{< wiki-link "Chuck E. Says 2002" >}}
+- [Chuck E. Says 2002]
 - Havin' A Party 2001
 - If You're Happy and You Know It
 - Go Santa Go
@@ -69,14 +69,14 @@ This show is made up of songs and intermissions reused from various 2000 - 2002 
 ## Trivia:
 
 - Most of the songs and intermissions in this show are reused.
-  - 'The Muffin Man' is reused from {{< wiki-link "Just for Kids Show 2000" >}}.
-  - 'Wildlife' is reused from {{< wiki-link "Summertime 2000" >}}.
-  - 'Chuck E.', 'Drinkin' A Coca-Cola', 'Jump', and 'Closing Time?' are reused from {{< wiki-link "September 2000 Show" >}}.
-  - 'Larger Than Life', 'Baking With Betty', and 'WFW Babysitter' are reused from {{< wiki-link "January 2001 Show" >}}.
-  - 'Humpty Dumpty' and 'Super Jasper' are reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}.
-  - 'Paper or Plastic', 'Amphicar', and 'Eddie Coker' are reused from {{< wiki-link "September 2001 Show" >}}. Also featured are bloopers of the 'Sing-along Guys' intermission from that show.
+  - 'The Muffin Man' is reused from [Just for Kids Show 2000].
+  - 'Wildlife' is reused from [Summertime 2000].
+  - 'Chuck E.', 'Drinkin' A Coca-Cola', 'Jump', and 'Closing Time?' are reused from [September 2000 Show].
+  - 'Larger Than Life', 'Baking With Betty', and 'WFW Babysitter' are reused from [January 2001 Show].
+  - 'Humpty Dumpty' and 'Super Jasper' are reused from [Chuck E's Rockin' Rhymes].
+  - 'Paper or Plastic', 'Amphicar', and 'Eddie Coker' are reused from [September 2001 Show]. Also featured are bloopers of the 'Sing-along Guys' intermission from that show.
   - 'Tube Explorer' and 'Pasqually's Polka Minute' are reused from January 2002.
-  - 'CEC Chuck E. Cheese', 'That's A Deal' and 'Monkey Ninjas' are reused from {{< wiki-link "April 2002 Show" >}}.
+  - 'CEC Chuck E. Cheese', 'That's A Deal' and 'Monkey Ninjas' are reused from [April 2002 Show].
 - All of the puppet footage for Studio C is reused from each song's original show.
 - 'The Muffin Man' does not feature programming or Studio C puppets in this show.
 - Chuck's curtains stay closed during 'Chuck E.' on all versions of the show.

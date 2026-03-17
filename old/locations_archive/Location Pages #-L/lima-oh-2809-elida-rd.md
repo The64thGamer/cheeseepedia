@@ -16,7 +16,7 @@ latitudeLongitude = ["40.76466947","-84.15825788"]
 
 ## Stages
 
-When the store opened, it housed a {{< wiki-link "Studio C Beta" >}} with a 16 movement bot wearing the 'Cool Chuck' outfit. This outfit (besides the red hat) was replaced in early 2013 with the 'Avenger' outfit. The hat also remained past Fall 2013 when all stores were ordered to remove them, though it was taken off for a short period in December 2013 before being put back on. Around this time, the bot stopped being aired up and the show system had frequent glitches. This was eventually fixed around Summer 2014. The bot continued to run as normal with a few movements out, though in October 2015 the teeth were removed from the bot. Shortly after, the bot's eyelashes were also missing. The bot stayed in this state throughout 2016. In 2017, the system starting glitching once again and the bot was not aired up. The bot was fixed later in the year and it ran throughout 2018, though the system glitches continued. Alongside the store being purchased by corporate in early 2019, the bot was replaced with a 32 movement from the Downingtown PA store. The show saw no more major changes until the store's closure in 2020. It should also be noted that this location was one of the last with the bluescreen camera.
+When the store opened, it housed a [Studio C Beta] with a 16 movement bot wearing the 'Cool Chuck' outfit. This outfit (besides the red hat) was replaced in early 2013 with the 'Avenger' outfit. The hat also remained past Fall 2013 when all stores were ordered to remove them, though it was taken off for a short period in December 2013 before being put back on. Around this time, the bot stopped being aired up and the show system had frequent glitches. This was eventually fixed around Summer 2014. The bot continued to run as normal with a few movements out, though in October 2015 the teeth were removed from the bot. Shortly after, the bot's eyelashes were also missing. The bot stayed in this state throughout 2016. In 2017, the system starting glitching once again and the bot was not aired up. The bot was fixed later in the year and it ran throughout 2018, though the system glitches continued. Alongside the store being purchased by corporate in early 2019, the bot was replaced with a 32 movement from the Downingtown PA store. The show saw no more major changes until the store's closure in 2020. It should also be noted that this location was one of the last with the bluescreen camera.
 
 ## History
 
@@ -41,5 +41,5 @@ Due to the Covid-19 pandemic all stores were required to only allow pick-up and 
 
 | Animatronic                                                | Serial | Whereabouts         |
 |------------------------------------------------------------|--------|---------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A    | Whereabouts unknown |
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 098    | Partially destroyed |
+| [Chuck E Cheese 16m (Animatronic)] | N/A    | Whereabouts unknown |
+| [Chuck E Cheese 32m (Animatronic)] | 098    | Partially destroyed |

@@ -1,4 +1,4 @@
-**Road Show 2008** was a Road Show CD released alongside the {{< wiki-link "Holiday 2007" >}} show which featured eleven {{< wiki-link "Road Shows" >}}.
+**Road Show 2008** was a Road Show CD released alongside the [Holiday 2007] show which featured eleven [Road Shows].
 
 ## Track List:
 

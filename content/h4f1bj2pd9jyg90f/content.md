@@ -1,4 +1,4 @@
-The ***Fatz Geronimo Mijjin* was an animatronic produced by *Creative Engineering Inc.* for the Mijjins show in 1992 {{< cite 1 >}} and the New Rock-Afire Explosion in 1993. {{< cite 2 >}}**
+The ***Fatz Geronimo Mijjin* was an animatronic produced by *Creative Engineering Inc.* for the Mijjins show in 1992 [1] and the New Rock-Afire Explosion in 1993. [2]**
 
 ## History
 
@@ -8,7 +8,7 @@ The character's mech was changed to the standard Mijjin mech in 1993 when the Ne
 
 ## Design
 
-This bot is a standard Mijjin mech, the mech has brown eye pieces. The bot is the Fatz Geronimo Character from the {{< wiki-link "Rock-afire Explosion" >}} in the smaller Mijjin style, sporting the classic Gold tuxedo, The bowtie is made with a Sparkly Rainbow fabric with Black dots. The same fabric was used for Mitzi's Dress.
+This bot is a standard Mijjin mech, the mech has brown eye pieces. The bot is the Fatz Geronimo Character from the [Rock-afire Explosion] in the smaller Mijjin style, sporting the classic Gold tuxedo, The bowtie is made with a Sparkly Rainbow fabric with Black dots. The same fabric was used for Mitzi's Dress.
 
 #### Toyland
 

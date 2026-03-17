@@ -1,4 +1,4 @@
-***Family Vision #621*** was part of a collection of monthly {{< wiki-link "Family Vision" >}} Betamax tapes released to *ShowBiz Pizza Place* stores starting in 1984. This specific tape played during the month of April 1989.
+***Family Vision #621*** was part of a collection of monthly [Family Vision] Betamax tapes released to *ShowBiz Pizza Place* stores starting in 1984. This specific tape played during the month of April 1989.
 
 ## Video List
 

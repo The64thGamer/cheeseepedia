@@ -1,4 +1,4 @@
-***SPP Homely for Christmas* was a rerelease of {{< wiki-link "SPP Homely For Christmas '87" >}} in December of 1988.
+***SPP Homely for Christmas* was a rerelease of [SPP Homely For Christmas '87] in December of 1988.
 This release would add Cyberstar video clips to the original segments, alongside intermission videos.**
 
 ## Show List:

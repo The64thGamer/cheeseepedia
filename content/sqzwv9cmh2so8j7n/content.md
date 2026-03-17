@@ -1,4 +1,4 @@
-***Chuck E.'s Magical Holiday Celebration*** was a show that was released in December 1997 at Chuck E. Cheese's locations. This show is a rerelease of {{< wiki-link "Chuck E's Magical Holiday Celebration" >}}.
+***Chuck E.'s Magical Holiday Celebration*** was a show that was released in December 1997 at Chuck E. Cheese's locations. This show is a rerelease of [Chuck E's Magical Holiday Celebration].
 
 ## Show List
 

@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["42.01077907","-88.14850258"]
 +++
 
-***1000 S Barrington Rd*** is a *Chuck E. Cheese's* that opened on June 6, 2014 and is still open today with a {{< wiki-link "Circles of Light" >}} stage (with no bot). This was the relocation of {{< wiki-link "Streamwood, IL (990 S Barrington Rd)" >}}, which opened on March 6, 1990 with Chuck E.'s House and closed in June 2014 (day unknown) with a {{< wiki-link "2-Stage" >}}.
+***1000 S Barrington Rd*** is a *Chuck E. Cheese's* that opened on June 6, 2014 and is still open today with a [Circles of Light] stage (with no bot). This was the relocation of [Streamwood, IL (990 S Barrington Rd)], which opened on March 6, 1990 with Chuck E.'s House and closed in June 2014 (day unknown) with a [2-Stage].
 
 ## Stage
 
@@ -20,7 +20,7 @@ Streamwood opened with a bot-less Circles of Light stage. The stage still remain
 
 | Stage                                      | Installed | Removed      | Notes |
 |--------------------------------------------|-----------|--------------|-------|
-| {{< wiki-link "Circles of Light" >}} | June 2014 | Still in use | N/A   |
+| [Circles of Light] | June 2014 | Still in use | N/A   |
 
 ## History
 

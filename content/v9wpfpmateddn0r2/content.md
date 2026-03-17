@@ -1,8 +1,8 @@
-**Kooser Pasqually** was the upgraded {{< wiki-link "Winchester Pasqually (Animatronic)" >}} used at the opening of the {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} Pizza Time Theatre in December 1978. It was used until May 1980, when the Portrait Show would be replaced by the {{< wiki-link "Cyberamics Balcony Stage" >}}
+**Kooser Pasqually** was the upgraded [Winchester Pasqually (Animatronic)] used at the opening of the [San Jose, CA (1371 Kooser Rd)] Pizza Time Theatre in December 1978. It was used until May 1980, when the Portrait Show would be replaced by the [Cyberamics Balcony Stage]
 
 ## History
 
-After Kooser replaced their Portrait Show with the Balcony Stage, Pasqually and the other Portrait Bots, aside from {{< wiki-link "Kooser Chuck E. Cheese (Animatronic)" >}}, which we have confirmation of, were persumably sent to Sunnyvale. After PTT vacated the building due to bankruptcy, Pasqually would, along with the rest of Kooser's animatronics would be considered lost, as none of their fates have been learned, although the most likely option is they were thrown away.
+After Kooser replaced their Portrait Show with the Balcony Stage, Pasqually and the other Portrait Bots, aside from [Kooser Chuck E. Cheese (Animatronic)], which we have confirmation of, were persumably sent to Sunnyvale. After PTT vacated the building due to bankruptcy, Pasqually would, along with the rest of Kooser's animatronics would be considered lost, as none of their fates have been learned, although the most likely option is they were thrown away.
 
 ## Design
 

@@ -1,10 +1,10 @@
-Thank you for wanting to contribute to {{< wiki-link "Cheese-E-Pedia" >}}! Check out the {{< forums >}} for more info and help.
+Thank you for wanting to contribute to [Cheese-E-Pedia]! Check out the {{< forums >}} for more info and help.
 
 ## Help
-  * {{< wiki-link "New Fandom Member FAQ" >}}
-  * {{< wiki-link "Site Guidelines & Rules" >}}
-  * {{< wiki-link "Cheese-E-Pedia" >}}
-  * {{< wiki-link "Editing Cheese-E-Pedia in Local Environments" >}}
+  * [New Fandom Member FAQ]
+  * [Site Guidelines & Rules]
+  * [Cheese-E-Pedia]
+  * [Editing Cheese-E-Pedia in Local Environments]
       * This covers advanced steps for admins or power users to make advanced edits or to work on site layout changes.
 
 ## Recent Changes

@@ -7,7 +7,7 @@ The showtape would debut at the IAAPA 1995 convention along with the Toyland sta
 
 ## Show List:
 
-Segment 1 is listed as {{< wiki-link "Bad Data" >}}, due to some sort of issue with the show. The segment was re-added
+Segment 1 is listed as [Bad Data], due to some sort of issue with the show. The segment was re-added
 
 1. **Segment 1**
     1.  Happy Birthday to You (90's Segment) (BAD DATA)

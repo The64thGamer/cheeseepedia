@@ -1,8 +1,8 @@
-***Wolfman Zapp* was a {{< wiki-link "Cyberamics" >}} created by {{< wiki-link "Pizza Time Theatre" >}} for Zapp's Bar & Grill in the 1980s.**
+***Wolfman Zapp* was a [Cyberamics] created by [Pizza Time Theatre] for Zapp's Bar & Grill in the 1980s.**
 
 ## History
 
-The Wolfman Zapp Cyberamic was produced in the early 80's by Pizza Time Theatre. Not much is known about the bot other than it being produced & possibly sent to {{< wiki-link "Reno, NV (651 E Moana Lane)" >}}. The Bot was later stored at the {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}. The bot was most likely thrown out during the movement from Sunnyvale to the {{< wiki-link "ShowBiz Pizza Time Corporate Office" >}}.
+The Wolfman Zapp Cyberamic was produced in the early 80's by Pizza Time Theatre. Not much is known about the bot other than it being produced & possibly sent to [Reno, NV (651 E Moana Lane)]. The Bot was later stored at the [Sunnyvale, CA (1213 Innsbruck Drive)]. The bot was most likely thrown out during the movement from Sunnyvale to the [ShowBiz Pizza Time Corporate Office].
 
 ## Design
 

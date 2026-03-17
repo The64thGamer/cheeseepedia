@@ -13,7 +13,7 @@ pageThumbnailFile = "Pww2j9VJUKgdHZ90USs_.avif"
 latitudeLongitude = ["33.79353322","-118.3371088"]
 +++
 
-***2821 Pacific Coast Hwy, Store #358*** (also known as ***Pacific Coast*** or ***PCH***) was a *ShowBiz Pizza Place* that opened on March 24, 1983 with a Rock-Afire Explosion, which is still open to this day. Torrance (Pacific Coast) converted to a Chuck E. Cheese around 1991, converted to the Studio C Alpha in 2000, received a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} in 2016, and then received 2.0 in October 2021. It is located in the 'Town&amp;Country' shopping center. This location should not be confused with the {{< wiki-link "Torrance, CA (16920 Prairie Ave)" >}} location, which was a former Pizza Time Theatre that opened in Fall 1983 (month and day unknown) and is still open to this day. Torrance is one of the 2 cities to have a Pizza Time Theatre and ShowBiz Pizza within the same city, like with {{< wiki-link "San Antonio, TX (238 SW Military Dr)" >}} {{< wiki-link "San Antonio, TX (6874 Ingram Rd)" >}}.
+***2821 Pacific Coast Hwy, Store #358*** (also known as ***Pacific Coast*** or ***PCH***) was a *ShowBiz Pizza Place* that opened on March 24, 1983 with a Rock-Afire Explosion, which is still open to this day. Torrance (Pacific Coast) converted to a Chuck E. Cheese around 1991, converted to the Studio C Alpha in 2000, received a [Chuck E Live Stage (Dance Floor)] in 2016, and then received 2.0 in October 2021. It is located in the 'Town&amp;Country' shopping center. This location should not be confused with the [Torrance, CA (16920 Prairie Ave)] location, which was a former Pizza Time Theatre that opened in Fall 1983 (month and day unknown) and is still open to this day. Torrance is one of the 2 cities to have a Pizza Time Theatre and ShowBiz Pizza within the same city, like with [San Antonio, TX (238 SW Military Dr)] [San Antonio, TX (6874 Ingram Rd)].
 
 ## History
 
@@ -25,31 +25,31 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 | Stage                                                      | Installed  | Removed      | Notes                                                                       |
 |------------------------------------------------------------|------------|--------------|-----------------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                    | March 1983 | 1991         | 8th ShowBiz Pizza to open in California.                                    |
-| {{< wiki-link "Concept Unification Stage" >}}        | 1991       | 2000         | One of 8 ShowBiz Pizzas in California to receive Concept Unification.       |
+| [Classic Stage]                    | March 1983 | 1991         | 8th ShowBiz Pizza to open in California.                                    |
+| [Concept Unification Stage]        | 1991       | 2000         | One of 8 ShowBiz Pizzas in California to receive Concept Unification.       |
 | Studio C (1997)\|Studio C Alpha                            | 2000       | Early 2020   | One of many installed in California. One of 7 locations to get 2.0 in 2020. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | Early 2020 | Still in Use | 2019 Model. Installed on the back wall.                                     |
+| [Chuck E Live Stage (Dance Floor)] | Early 2020 | Still in Use | 2019 Model. Installed on the back wall.                                     |
 
 ## Animatronics
 
 | Animatronic                                                               | Serial     | Whereabouts        |
 |---------------------------------------------------------------------------|------------|--------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 7-82 1-29  | Unknown/Destroyed. |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 7-82 2-29  | Unknown/Destroyed. |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 7-82 3-29  | Unknown/Destroyed. |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 7-82 4-29  | Unknown/Destroyed. |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 7-82 5-29  | Unknown/Destroyed. |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 7-82 6-29  | Unknown/Destroyed. |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 7-82 7-29  | Unknown/Destroyed. |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 7-82 8-29  | Unknown/Destroyed. |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 7-82 10-29 | Unknown/Destroyed. |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 7-82 11-29 | Unknown/Destroyed. |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A        | Unknown/Destroyed. |
-| {{< wiki-link "Wink" >}}                                            | N/A        | Unknown/Destroyed. |
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}                | Unknown    | Destroyed.         |
-| {{< wiki-link "Bird (Animatronic)" >}}                              | N/A        | Destroyed.         |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}                  | N/A        | Destroyed.         |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}                       | N/A        | Destroyed.         |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-82 1-29  | Unknown/Destroyed. |
+| [Dook Larue (Animatronic)]                        | 7-82 2-29  | Unknown/Destroyed. |
+| [Fatz Geronimo (Animatronic)]                     | 7-82 3-29  | Unknown/Destroyed. |
+| [Beach Bear (Animatronic)]                        | 7-82 4-29  | Unknown/Destroyed. |
+| [Mitzi Mozzarella (Animatronic)]                  | 7-82 5-29  | Unknown/Destroyed. |
+| [Billy Bob (Animatronic)]                         | 7-82 6-29  | Unknown/Destroyed. |
+| [Looney Bird (Animatronic)]                       | 7-82 7-29  | Unknown/Destroyed. |
+| [Choo Choo (Animatronic)]                         | 7-82 8-29  | Unknown/Destroyed. |
+| [Sun (Animatronic)]                               | 7-82 10-29 | Unknown/Destroyed. |
+| [Moon (Animatronic)]                              | 7-82 11-29 | Unknown/Destroyed. |
+| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed. |
+| [Wink]                                            | N/A        | Unknown/Destroyed. |
+| [Chuck E Cheese 32m (Animatronic)]                | Unknown    | Destroyed.         |
+| [Bird (Animatronic)]                              | N/A        | Destroyed.         |
+| [Pizza Time Clock (Animatronic)]                  | N/A        | Destroyed.         |
+| [Pizza Phone (Animatronic)]                       | N/A        | Destroyed.         |
 
 ## Videos
 
@@ -58,5 +58,5 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | [Link](https://www.youtube.com/watch?v=2CP56r0YtOM&t=0s) | A video showcasing the store, games and 3-Stage in November 1993.                                       | November 1993    | August 4, 2022    |
 | [Link](https://www.youtube.com/watch?v=krVqfu3medU&t=9s) | A video showcasing the store, games and 3-Stage in Early 1994.                                          | Early 1994       | December 31, 2013 |
 | [Link](https://youtu.be/Sbz_pROkA6M)                     | A Birthday Party that took place at the store.                                                          | March 2011       | March 24, 2011    |
-| [Link](https://youtu.be/yIIAtDVLL-M)                     | {{< wiki-link "April 2013 Show" >}} Segment 6 being performed on Torrance (Pacific Coast)'s Alpha | April 5, 2013    | April 5, 2013     |
-| [Link](https://youtu.be/0Jkn5qsENkk)                     | {{< wiki-link "Fall Show 2013" >}} Segment 1 being performed on Torrance (Pacific Coast)'s Alpha  | October 21, 2013 | December 5, 2013  |
+| [Link](https://youtu.be/yIIAtDVLL-M)                     | [April 2013 Show] Segment 6 being performed on Torrance (Pacific Coast)'s Alpha | April 5, 2013    | April 5, 2013     |
+| [Link](https://youtu.be/0Jkn5qsENkk)                     | [Fall Show 2013] Segment 1 being performed on Torrance (Pacific Coast)'s Alpha  | October 21, 2013 | December 5, 2013  |

@@ -14,7 +14,7 @@ categories = ["Chuck E. Cheese's"]
 
 ## History
 
-2003 W Worley Rd would open in the Stadium Plaza on October 29, 2005, with a Now Hiring advertisement being placed in the newspapers several days before they opened. They would most likely open with the {{< wiki-link "CEC 2000's Remodel Program" >}} when they opened and would retain it until closure, the same goes for their Studio C Beta stage. The store would remain like this until they closed on June 15, 2020 during the company's Chapter 11 bankruptcy.
+2003 W Worley Rd would open in the Stadium Plaza on October 29, 2005, with a Now Hiring advertisement being placed in the newspapers several days before they opened. They would most likely open with the [CEC 2000's Remodel Program] when they opened and would retain it until closure, the same goes for their Studio C Beta stage. The store would remain like this until they closed on June 15, 2020 during the company's Chapter 11 bankruptcy.
 
 ### Post-Closure
 
@@ -36,10 +36,10 @@ The store opened on October 29, 2005 with a Studio C Beta, which would be kept u
 
 | Stage                                   | Installed    | Removed   |
 |-----------------------------------------|--------------|-----------|
-| {{< wiki-link "Studio C Beta" >}} | October 2005 | June 2020 |
+| [Studio C Beta] | October 2005 | June 2020 |
 
 ## Animatronic
 
 | Character                                                   | Serial | Status   |
 |-------------------------------------------------------------|--------|----------|
-| {{< wiki-link "Chuck E. Cheese 16m (Animatronic)" >}} | N/A    | Unknown. |
+| [Chuck E. Cheese 16m (Animatronic)] | N/A    | Unknown. |

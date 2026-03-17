@@ -1,5 +1,5 @@
 ***SPP Christmas '90 / Wave Bday* is one of the last few showtapes released for *ShowBiz Pizza Place's* hosting the *Rock-afire Explosion*.
-For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape sent after {{< wiki-link "SPP Christmas '89 Wave Bday" >}} would become increasingly more rare as stores would convert to *3-Stages.*
+For some stores, this was the last tape used before *Concept Unification* would start at their location. Each tape sent after [SPP Christmas '89 Wave Bday] would become increasingly more rare as stores would convert to *3-Stages.*
 Despite the later years of *Cyberstar* being mostly re-used segments from earlier showtapes, the last showtapes became the 'Best of' series, bringing back every single *Cyberstar* segment for stores to have. It was said at this time that due to the *Rock-afire Explosion* being phased out, stores could play whatever showtapes they had without sticking to the most recent show. The *Best of* series could be seen as an encouragement of this.
 This show has the same segments, and music videos from last years release, but the copyrighted music that played during the countdowns is the newest addition.**
 
@@ -8,7 +8,7 @@ This show has the same segments, and music videos from last years release, but t
 1. **Intermission 1**
     1.  6 Minute Countdown
         1.  [My Favorite Things](https://en.wikipedia.org/wiki/Merry_Christmas_(The_Supremes_album))
-        2.  Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas'){{< cite 1 >}}
+        2.  Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas')[1]
         3.  Birthday Spectacular
     2.  Cyberstar Intro
 2. **Segment 1**
@@ -76,4 +76,4 @@ This show has the same segments, and music videos from last years release, but t
 
 ## Trivia:
 
-The intermission music is the same as {{< wiki-link "CEC Christmas '90 Wave Bday" >}}, however two of the songs [Silver Bells](https://en.wikipedia.org/wiki/Anne_Murray%27s_Christmas_Album), & [Winter Wonderland](https://en.wikipedia.org/wiki/Christmas_Album_(Herb_Alpert_album)) were skipped, and they left out the last three songs from the CEC version.
+The intermission music is the same as [CEC Christmas '90 Wave Bday], however two of the songs [Silver Bells](https://en.wikipedia.org/wiki/Anne_Murray%27s_Christmas_Album), & [Winter Wonderland](https://en.wikipedia.org/wiki/Christmas_Album_(Herb_Alpert_album)) were skipped, and they left out the last three songs from the CEC version.

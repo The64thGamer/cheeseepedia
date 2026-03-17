@@ -1,4 +1,4 @@
-**Holiday 2007** was an updated rerelease of {{< wiki-link "Holiday 2002" >}} which played in December 2007.
+**Holiday 2007** was an updated rerelease of [Holiday 2002] which played in December 2007.
 
 ## Show List:
 
@@ -48,7 +48,7 @@
 
 ## Trivia:
 
-- 'Super Jasper', 'Veggietales', 'Chuck E.'s Ski Trip' and 'Classic Theatre' are reused from {{< wiki-link "Chuck E's Holiday Party 1999" >}}.
+- 'Super Jasper', 'Veggietales', 'Chuck E.'s Ski Trip' and 'Classic Theatre' are reused from [Chuck E's Holiday Party 1999].
   - 'Chuck E.'s Ski Trip' has been updated with new music.
 - Since the segments are all reused, this show features curtain open and close signals on all stages.
 - Unlike previous rereleases of Holiday 2002, this show does not include 'Boar's Head Carol'.

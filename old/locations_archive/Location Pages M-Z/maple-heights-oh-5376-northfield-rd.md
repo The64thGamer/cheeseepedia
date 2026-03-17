@@ -11,7 +11,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 +++
 
-***5376 Northfield Rd*** was a *{{< wiki-link "Pizza Time Theatre" >}}* that opened in November 1980 with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}, and closed in June 1985(1).
+***5376 Northfield Rd*** was a *[Pizza Time Theatre]* that opened in November 1980 with a [Cyberamics Portrait Shelf Stage], and closed in June 1985(1).
 
 ## Stages
 
@@ -19,7 +19,7 @@ The Main Stage was most likely always a portrait stage while Dolli Dimples was s
 
 | Name                                                      | Installed         | Removed   | Notes                                                                               |
 |-----------------------------------------------------------|-------------------|-----------|-------------------------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Portrait Shelf Stage" >}} | **November 1980** | 1985/1986 | First PTT in Ohio. First Portrait Stage in Ohio. Had Madame Oink as the guest star. |
+| [Cyberamics Portrait Shelf Stage] | **November 1980** | 1985/1986 | First PTT in Ohio. First Portrait Stage in Ohio. Had Madame Oink as the guest star. |
 
 ## History
 
@@ -30,12 +30,12 @@ Maple Heights opened sometime in November 1980 with a Portrait Stage, and was th
 | Animatronic                                                  | Serial Number | Installed     | Removed   | Whereabouts              | Notes                         |
 |--------------------------------------------------------------|---------------|---------------|-----------|--------------------------|-------------------------------|
 | Chuck E Cheese (Cyberamic)                                   | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction | Used Door Opening Mechanisms. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction | Used Madame Oink Cosmetics.   |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
+| [Jasper T Jowls (Cyberamic)]         | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
+| [Pasqually (Cyberamic)]              | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction | Used Door Opening Mechanisms. |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction | Used Madame Oink Cosmetics.   |
+| [Mr Munch (Cyberamic)]               | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
+| [Warblettes (Cyberamic)]             | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
 | Waving Flags (Cyberamic)                                     | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
-| {{< wiki-link "Dolli Dimples (Cabaret)" >}}            | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
+| [Applause Board (Cyberamic)]         | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
+| [Drum Board (Cyberamic)]             | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
+| [Dolli Dimples (Cabaret)]            | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |

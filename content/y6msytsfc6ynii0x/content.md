@@ -73,5 +73,5 @@ Stores using Chuck E.'s Token Card would feature exclusive promo intermissions. 
 
 ## Trivia:
 
-- Super Jasper - 'Cadilac Ranch' is reused from {{< wiki-link "April 1999" >}} and Sing-along Guys - 'BINGO' is reused from {{< wiki-link "January 2006 Show" >}}.
-- Each segment features a different show logo, with all of them being reused from previous shows. Segment 1 is reused from {{< wiki-link "January 2005 Show" >}}, Segment 2 is reused from {{< wiki-link "CEC TV April 2005 Show" >}}, Segment 3 is reused from {{< wiki-link "September 2000 Show" >}}, and Segment 4 is reused from {{< wiki-link "January 2002 Show" >}}.
+- Super Jasper - 'Cadilac Ranch' is reused from [April 1999] and Sing-along Guys - 'BINGO' is reused from [January 2006 Show].
+- Each segment features a different show logo, with all of them being reused from previous shows. Segment 1 is reused from [January 2005 Show], Segment 2 is reused from [CEC TV April 2005 Show], Segment 3 is reused from [September 2000 Show], and Segment 4 is reused from [January 2002 Show].

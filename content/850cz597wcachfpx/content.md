@@ -1,4 +1,4 @@
-***Summer 2002 Show*** was a rerelease of {{< wiki-link "Summertime 2001" >}}. This show is the same as the previous release with the exception of Segment 2, which was edited to remove footage of the World Trade Center.
+***Summer 2002 Show*** was a rerelease of [Summertime 2001]. This show is the same as the previous release with the exception of Segment 2, which was edited to remove footage of the World Trade Center.
 
 ## Existing Stages Show List:
 
@@ -77,13 +77,13 @@
 - Chuck E. Swing
 - Give My Regards to Broadway (Existing Stages)
 
-**Birthday Break**: The Birthday Break is reused from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}. It could be set to a 1 or 2 minute countdown, which would then lead into the Birthday show.
+**Birthday Break**: The Birthday Break is reused from [Chuck E's Rockin' Rhymes]. It could be set to a 1 or 2 minute countdown, which would then lead into the Birthday show.
 
 ## Production
 
 #### Studio C Floppy:
 
-This show's floppy disk for Studio C removed footage of the World Trade Center from 'America' in Segment 2, as the {{< wiki-link "Summertime 2001" >}} DVDs were used. When inserting the upgrade floppy, a message would appear on the screen saying
+This show's floppy disk for Studio C removed footage of the World Trade Center from 'America' in Segment 2, as the [Summertime 2001] DVDs were used. When inserting the upgrade floppy, a message would appear on the screen saying
 " SUMMER 2002 SHOW UPDATE FINISHED
  VALID JULY & AUGUST 2002 ONLY!!!!
  THANKS FOR ALL YOUR HARD WORK, KEEP ON MAKING MAGIC!

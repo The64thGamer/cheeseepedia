@@ -13,7 +13,7 @@ pageThumbnailFile = "D0lKjDhfjfdyds69Tk7X.avif"
 latitudeLongitude = ["32.75134042","-117.207339"]
 +++
 
-***3146 Sports Arena Blvd, Store #441*** is a *Chuck E. Cheese's* located in Rosecrans Plaza that opened on April 19, 1993, with a {{< wiki-link "1-Stage" >}}. This location should not be confused with {{< wiki-link "San Diego, CA (6403 El Cajon Blvd)" >}}, {{< wiki-link "San Diego Mira Mesa, CA (9840 Hibert St)" >}}, or {{< wiki-link "San Diego, CA (3414 College Ave)" >}}, all which opened in March 1981 and closed in 1984, opened in 1981/1982, and is still open, and opened on December 19th, 2012, which is also still open. Rosecrans Plaza was formerly Glasshouse Square, which is considered to be one of San Diego's haunted areas by few.
+***3146 Sports Arena Blvd, Store #441*** is a *Chuck E. Cheese's* located in Rosecrans Plaza that opened on April 19, 1993, with a [1-Stage]. This location should not be confused with [San Diego, CA (6403 El Cajon Blvd)], [San Diego Mira Mesa, CA (9840 Hibert St)], or [San Diego, CA (3414 College Ave)], all which opened in March 1981 and closed in 1984, opened in 1981/1982, and is still open, and opened on December 19th, 2012, which is also still open. Rosecrans Plaza was formerly Glasshouse Square, which is considered to be one of San Diego's haunted areas by few.
 
 ## Stages
 
@@ -55,14 +55,14 @@ On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                              |
 |--------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | 1992/1993          | Sent to {{< wiki-link "National City, CA (1143 Highland Ave)" >}}, then destroyed. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1992/1993          | Sent to National City, then destroyed.                                                   |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1992/1993          | Sent to National City, then destroyed.                                                   |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1992/1993          | Sent to National City, then destroyed.                                                   |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1992/1993          | Sent to National City, then destroyed.                                                   |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1992/1993          | Destroyed                                                                                |
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}   | 2003-2004          | Destroyed (removed on 6/13/2023)                                                         |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     | 2003-2004          | Destroyed (removed on 6/13/2023)                                                         |
+| Chuck E Cheese (Cyberamic)                                   | 1992/1993          | Sent to [National City, CA (1143 Highland Ave)], then destroyed. |
+| [Guest Star Helen Henny (Cyberamic)] | 1992/1993          | Sent to National City, then destroyed.                                                   |
+| [Mr Munch (Cyberamic)]               | 1992/1993          | Sent to National City, then destroyed.                                                   |
+| [Jasper T Jowls (Cyberamic)]         | 1992/1993          | Sent to National City, then destroyed.                                                   |
+| [Pasqually (Cyberamic)]              | 1992/1993          | Sent to National City, then destroyed.                                                   |
+| [Wink (Cyberamic)]                   | 1992/1993          | Destroyed                                                                                |
+| [Chuck E Cheese 16m (Animatronic)]   | 2003-2004          | Destroyed (removed on 6/13/2023)                                                         |
+| [Pizza Time Clock (Animatronic)]     | 2003-2004          | Destroyed (removed on 6/13/2023)                                                         |
 
 ## Games
 

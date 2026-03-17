@@ -1,9 +1,9 @@
-**Cyberstar 2000** is the primary piece of software used in the {{< wiki-link "Studio C Control System" >}}.
+**Cyberstar 2000** is the primary piece of software used in the [Studio C Control System].
 TODO: A lot of stuff on this page. Formatting probably needs some work.
 
 ## File formats
 
-Documentation on the formats the Cyberstar 2000 program uses is documented in the {{< wiki-link "Studio C File Formats" >}} page.
+Documentation on the formats the Cyberstar 2000 program uses is documented in the [Studio C File Formats] page.
 
 - .cec
 - .ccf
@@ -14,7 +14,7 @@ Documentation on the formats the Cyberstar 2000 program uses is documented in th
 
 ## v1.23
 
-***Cyberstar 2000: v1.23* was the January 2003 update to the *Cyberstar 2000 Software* inside *Studio C* systems. The version was released in the {{< wiki-link "Best Of CEC TV 2003" >}} Studio C floppy disk, which would be installed upon booting the software.**
+***Cyberstar 2000: v1.23* was the January 2003 update to the *Cyberstar 2000 Software* inside *Studio C* systems. The version was released in the [Best Of CEC TV 2003] Studio C floppy disk, which would be installed upon booting the software.**
 
 ## v1.30
 
@@ -30,11 +30,11 @@ Documentation on the formats the Cyberstar 2000 program uses is documented in th
 
 ## v1.35
 
-***Cyberstar 2000: v1.35* was the January 2008 update to the *Cyberstar 2000 Software* inside *Studio C* systems. The version was released in the {{< wiki-link "January 2008 Show" >}} Studio C floppy disk, which would be installed upon booting the software.**
+***Cyberstar 2000: v1.35* was the January 2008 update to the *Cyberstar 2000 Software* inside *Studio C* systems. The version was released in the [January 2008 Show] Studio C floppy disk, which would be installed upon booting the software.**
 
 ## v1.36
 
-***Cyberstar 2000: v1.36* was the January 2009 update to the *Cyberstar 2000 Software* inside *Studio C* systems. The version was released in the {{< wiki-link "January 2009 Show" >}} Studio C floppy disk, which would be installed upon booting the software.**
+***Cyberstar 2000: v1.36* was the January 2009 update to the *Cyberstar 2000 Software* inside *Studio C* systems. The version was released in the [January 2009 Show] Studio C floppy disk, which would be installed upon booting the software.**
 
 ## v2.0
 
@@ -42,7 +42,7 @@ Documentation on the formats the Cyberstar 2000 program uses is documented in th
 
 ## v2.02
 
-***Cyberstar 2000: v2.02* was the April 2010 update to the *Cyberstar 2000 Software* inside *Studio C* systems. The version was released in the {{< wiki-link "April 2010 Show" >}} Studio C floppy disk, which would be installed upon booting the software.**
+***Cyberstar 2000: v2.02* was the April 2010 update to the *Cyberstar 2000 Software* inside *Studio C* systems. The version was released in the [April 2010 Show] Studio C floppy disk, which would be installed upon booting the software.**
 
 ## v2.07t
 

@@ -6,7 +6,7 @@ This character was produced in 1993 for the New Rock-Afire Explosion show.
 
 ## Design
 
-This bot is a standard Mijjin mech, the mech has blue eye pieces. The bot is the Beach Bear Character from the {{< wiki-link "Rock-afire Explosion" >}} in the smaller Mijjin style, wearing Plaid Shorts, and a T-Shirt. The Shorts and T-Shirt design varies between Beach Bear bots.
+This bot is a standard Mijjin mech, the mech has blue eye pieces. The bot is the Beach Bear Character from the [Rock-afire Explosion] in the smaller Mijjin style, wearing Plaid Shorts, and a T-Shirt. The Shorts and T-Shirt design varies between Beach Bear bots.
 
 ## Movements
 

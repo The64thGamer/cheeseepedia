@@ -1,4 +1,4 @@
-The ***Concept Unification Installation Manual* is a manual sent alongside the {{< wiki-link "Concept Unification" >}} package in 1991 as the main guide for the stage replacement process.
+The ***Concept Unification Installation Manual* is a manual sent alongside the [Concept Unification] package in 1991 as the main guide for the stage replacement process.
 The manual lists info such as part lists shipped to the store, the Concept Unification schedule for the week, numbers to call incase of needed parts, proper destruction procedure of the *Rock-afire Explosion* stage characters, a detailed guide on the Concept Unification process including detailed diagrams and art, a set of written documents proving the safety of the flame-proof items, and a description of the showtapes included with the package and their purpose.**
 
 ## Table of Contents

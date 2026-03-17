@@ -7,7 +7,7 @@ The 1996 set introduced putting wires and cardboard pieces into the plush's legs
 
 ### Prototypes
 
-A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} with little to no difference in design.
+A prototype of this plush exists in the 1997-1998 Merch Catalog[1] with little to no difference in design.
 
 #### Prototype Gallery
 
@@ -15,10 +15,10 @@ A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} wi
 
 This plush was released in a set containing other characters and sizes:
 
-* {{< wiki-link "Large Chuck E. Plush (1996)" >}}
-* {{< wiki-link "Large Helen Plush (1996)" >}}
-* {{< wiki-link "Large Munch Plush (1996)" >}}
-* {{< wiki-link "Large Pasqually Plush (1996)" >}}
+* [Large Chuck E. Plush (1996)]
+* [Large Helen Plush (1996)]
+* [Large Munch Plush (1996)]
+* [Large Pasqually Plush (1996)]
 
 ## Design
 
@@ -27,4 +27,4 @@ His hat uses a weird papery material with a red ribbon. He has a red bandana tha
 
 ### Differences Between Smaller Size
 
-There's little to no difference between this plush and the {{< wiki-link "Small Jasper Plush (1996)" >}}, but the biggest key difference between this plush and it's smaller size is the eyes. The large Jaspers eyes are more proportionate than the smaller versions eyes.
+There's little to no difference between this plush and the [Small Jasper Plush (1996)], but the biggest key difference between this plush and it's smaller size is the eyes. The large Jaspers eyes are more proportionate than the smaller versions eyes.

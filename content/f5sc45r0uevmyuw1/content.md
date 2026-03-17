@@ -55,9 +55,9 @@ This was created to play from May 23th, 2016 - June 26th, 2016. This show featur
 ## Trivia:
 
 - Happy Birthday, Helen reuses Dialogue from 'Gamin' Time' when she says 'Thanks, Chuck E.'
-- 'In The Future' is originally from {{< wiki-link "Chuck E. Cheese's Show 2 2015" >}}, 'Nobody Knows' and 'Arizona' are originally from {{< wiki-link "The Chuck E. Cheese Show" >}}, 'Gamin' Time' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2016" >}}, and 'Party With You' is originally from {{< wiki-link "Chuck E. Cheese's Winter 2015 Show" >}}.
+- 'In The Future' is originally from [Chuck E. Cheese's Show 2 2015], 'Nobody Knows' and 'Arizona' are originally from [The Chuck E. Cheese Show], 'Gamin' Time' is originally from [Chuck E. Cheese's Show 3 2016], and 'Party With You' is originally from [Chuck E. Cheese's Winter 2015 Show].
 - 'Gamin' Time' has text added onto the screen for Helen's birthday. It starts out saying 'We are celebrating Helen's birthday!', then for the rest of the song gives facts about Helen's Life. The text throughout the video says 'Helen Henny was born May 27th and grew up in New York City', 'Helen is a serious gamer!', 'Years ago, Helen met Chuck E. in a arcade and challenged him to a Pong tournament', 'Helen ultimately won that day, earning Chuck E.'s respect.', 'She then broke into a victory song.', 'When it came for Chuck E. to add a singer to his band, guess who he called?!', and last 'Helen has 2 brothers named Henry & Harvey'. Once the song is over, the text 'Happy Birthday, Helen Henny' shows up on screen.
-- 'Party With You' was re-edited for this show to remove most shots featuring the 'Battle of the Bands' board, and adds the logo of {{< wiki-link "The Chuck E. Cheese Show" >}}.
+- 'Party With You' was re-edited for this show to remove most shots featuring the 'Battle of the Bands' board, and adds the logo of [The Chuck E. Cheese Show].
 - On the Newsletter for this show, 'Arizona' was not listed.
 - 'Happy Dance' was reprogrammed  for Weigl-based stores.
 - 'In The Future' was reprogrammed to add more movements to the original programming and redo all the lighting.

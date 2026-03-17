@@ -1,1 +1,1 @@
-***Billy Bob's Barnyard*** was an attraction at ShowBiz Pizza Places similar to the Pizza Time Theatre {{< wiki-link "Cheese Crawl" >}}.
+***Billy Bob's Barnyard*** was an attraction at ShowBiz Pizza Places similar to the Pizza Time Theatre [Cheese Crawl].

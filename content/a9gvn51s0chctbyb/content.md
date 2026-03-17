@@ -31,7 +31,7 @@ The Master SVHS Tape for the show contains no signals and states '3/11/91' durin
 
 ### APS Files
 
-The show was a part of the {{< wiki-link "1990-1992 APS Floppy Cases" >}}, being split across two tapes. Other unrelated files are amongst the disks, such as the Road Stage random movements, {{< wiki-link "Birthday Star '92" >}} live for C&amp;R and Road Stages, and the TV intro segment for both Cyberamics and 3-Stage.
+The show was a part of the [1990-1992 APS Floppy Cases], being split across two tapes. Other unrelated files are amongst the disks, such as the Road Stage random movements, [Birthday Star '92] live for C&amp;R and Road Stages, and the TV intro segment for both Cyberamics and 3-Stage.
 
 #### Floppy Disk Label
 

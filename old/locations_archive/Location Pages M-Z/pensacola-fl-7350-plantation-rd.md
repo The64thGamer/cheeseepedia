@@ -39,15 +39,15 @@ This store opened as a franchised ShowBiz Pizza Place owned by Wellington Develo
 
 | Animatronic                                                               | Serial Number | Whereabouts                                               |
 |---------------------------------------------------------------------------|---------------|-----------------------------------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 4-81 1-14     | Sold to Steven Parker. Parts currently owned by Connor L. |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 4-81 2-14     | Sold to Steven Parker. Unknown.                           |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 4-81 3-14     | Sold to Steven Parker. Owned by private collector.        |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 4-81 4-14     | Sold to Steven Parker. Owned by a Private Collector       |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 4-81 5-14     | Sold to Steven Parker. Owned by Layton                    |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 4-81 6-14     | Unknown                                                   |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 4-81 7-14     | Sold to Steven Parker. Unknown.                           |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 4-81 8-14     | Unknown.                                                  |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 4-81 10-14    | Taken by Snapper Ard. Unknown.                            |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 4-81 11-14    | Taken by Snapper Ard. Unknown.                            |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown.                                                  |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown.                                                  |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-14     | Sold to Steven Parker. Parts currently owned by Connor L. |
+| [Dook Larue (Animatronic)]                        | 4-81 2-14     | Sold to Steven Parker. Unknown.                           |
+| [Fatz Geronimo (Animatronic)]                     | 4-81 3-14     | Sold to Steven Parker. Owned by private collector.        |
+| [Beach Bear (Animatronic)]                        | 4-81 4-14     | Sold to Steven Parker. Owned by a Private Collector       |
+| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-14     | Sold to Steven Parker. Owned by Layton                    |
+| [Billy Bob (Animatronic)]                         | 4-81 6-14     | Unknown                                                   |
+| [Looney Bird (Animatronic)]                       | 4-81 7-14     | Sold to Steven Parker. Unknown.                           |
+| [Choo Choo (Animatronic)]                         | 4-81 8-14     | Unknown.                                                  |
+| [Sun (Animatronic)]                               | 4-81 10-14    | Taken by Snapper Ard. Unknown.                            |
+| [Moon (Animatronic)]                              | 4-81 11-14    | Taken by Snapper Ard. Unknown.                            |
+| [Antioch (Animatronic)]                           | N/A           | Unknown.                                                  |
+| [Wink]                                            | N/A           | Unknown.                                                  |

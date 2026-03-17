@@ -2,4 +2,4 @@
 
 ## History
 
-On June 3rd, 1999, the trademark for the film is filed under "GALAXY 5000.", from the Chuck E. Cheese Film and Video LLC. {{< cite 4 >}}
+On June 3rd, 1999, the trademark for the film is filed under "GALAXY 5000.", from the Chuck E. Cheese Film and Video LLC. [4]

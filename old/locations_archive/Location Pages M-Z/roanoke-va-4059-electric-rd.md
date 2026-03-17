@@ -39,26 +39,26 @@ Originally, Roanoke featured a Rock-Afire Explosion, as all other ShowBiz locati
 
 | Stage                                                                   | Installed   | Removed      | Notes                                       |
 |-------------------------------------------------------------------------|-------------|--------------|---------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                                 | June 1983   | 1991         | 1st ShowBiz to open in Virginia.            |
-| {{< wiki-link "Concept Unification Stage" >}}                     | 1991        | August 2022  | One of five to undergo Concept Unification. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + Video Wall | August 2022 | Still In Use | 2021 Model.                                 |
+| [Classic Stage]                                 | June 1983   | 1991         | 1st ShowBiz to open in Virginia.            |
+| [Concept Unification Stage]                     | 1991        | August 2022  | One of five to undergo Concept Unification. |
+| [Chuck E Live Stage (Dance Floor)] + Video Wall | August 2022 | Still In Use | 2021 Model.                                 |
 
 ## Animatronics
 
 | Animatronic                                                               | Serial      | Whereabouts |
 |---------------------------------------------------------------------------|-------------|-------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 10-82 1-18  | Destroyed   |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 10-82 2-18  | Destroyed   |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 10-82 3-18  | Destroyed   |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 10-82 4-18  | Destroyed   |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 10-82 5-18  | Destroyed   |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 10-82 6-18  | Unknown     |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 10-82 7-18  | Destroyed   |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 10-82 8-18  | Destroyed   |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 10-82 10-18 | Destroyed   |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 10-82 11-18 | Destroyed   |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A         | Destroyed   |
-| {{< wiki-link "Wink" >}}                                            | N/A         | Destroyed   |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-82 1-18  | Destroyed   |
+| [Dook Larue (Animatronic)]                        | 10-82 2-18  | Destroyed   |
+| [Fatz Geronimo (Animatronic)]                     | 10-82 3-18  | Destroyed   |
+| [Beach Bear (Animatronic)]                        | 10-82 4-18  | Destroyed   |
+| [Mitzi Mozzarella (Animatronic)]                  | 10-82 5-18  | Destroyed   |
+| [Billy Bob (Animatronic)]                         | 10-82 6-18  | Unknown     |
+| [Looney Bird (Animatronic)]                       | 10-82 7-18  | Destroyed   |
+| [Choo Choo (Animatronic)]                         | 10-82 8-18  | Destroyed   |
+| [Sun (Animatronic)]                               | 10-82 10-18 | Destroyed   |
+| [Moon (Animatronic)]                              | 10-82 11-18 | Destroyed   |
+| [Antioch (Animatronic)]                           | N/A         | Destroyed   |
+| [Wink]                                            | N/A         | Destroyed   |
 
 ## Videos
 

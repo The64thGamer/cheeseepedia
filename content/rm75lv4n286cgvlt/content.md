@@ -1,4 +1,4 @@
-***Antonio* is a retrofit of {{< wiki-link "Pasqually (Cyberamic)" >}} created by Sally Corp for {{< wiki-link "Ocean City, NJ (600 Boardwalk)" >}} in 1992.**
+***Antonio* is a retrofit of [Pasqually (Cyberamic)] created by Sally Corp for [Ocean City, NJ (600 Boardwalk)] in 1992.**
 
 ## History
 

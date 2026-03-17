@@ -17,7 +17,7 @@ latitudeLongitude = ["35.82016442","-90.66197968"]
 
 ## Stages
 
-Jonesboro opened with a Studio C Beta Cappa Mix stage, and {{< wiki-link "CEC 2000's Remodel Program" >}}. From 2005 to (at the latest) 2012, the Chuck E. animatronic wore his 'Cool Chuck' outfit. This would later be replaced by the 'Avenger' outfit, which remained on the animatronic up until its removal. Throughout its years of operation, the animatronic would remain in great condition, with its only problems rising in April 2022 with it unnaturally turning its head 270 degrees around. Its final day of full operation was September 9, 2022, as that evening after closing it would be dismantled and removed.
+Jonesboro opened with a Studio C Beta Cappa Mix stage, and [CEC 2000's Remodel Program]. From 2005 to (at the latest) 2012, the Chuck E. animatronic wore his 'Cool Chuck' outfit. This would later be replaced by the 'Avenger' outfit, which remained on the animatronic up until its removal. Throughout its years of operation, the animatronic would remain in great condition, with its only problems rising in April 2022 with it unnaturally turning its head 270 degrees around. Its final day of full operation was September 9, 2022, as that evening after closing it would be dismantled and removed.
 
 ## History
 
@@ -28,10 +28,10 @@ Jonesboro opened on December 19th, 2005, as a corporate-owned store. It opened w
 - Drop It Drop It
 - Tippin’ Bloks
 - Avengers Coin Pusher (Single)
-- {{< wiki-link "Pop It for Gold" >}}
+- [Pop It for Gold]
 - Plants Vs. Zombies: The Last Stand
 - Doodle Jump Arcade
-- {{< wiki-link "Air Hockey" >}} (Goalie All-Stars)
+- [Air Hockey] (Goalie All-Stars)
 - Deadstorm Pirates
 - ICE Cube Crane
 - Sonic Blast Ball
@@ -69,7 +69,7 @@ Jonesboro opened on December 19th, 2005, as a corporate-owned store. It opened w
 - Hot Racers
 - Astro Invasion
 - Hammer Fun|Chuck E's Hammer Fun
-- {{< wiki-link "Ticket Blaster" >}}
+- [Ticket Blaster]
 
 ## Animatronics
 

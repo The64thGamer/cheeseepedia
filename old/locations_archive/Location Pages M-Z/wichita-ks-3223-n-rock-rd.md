@@ -17,7 +17,7 @@ latitudeLongitude = ["37.74057662","-97.24662853"]
 
 ## History
 
-Wichita opened its doors on December 16th, 1991, a year after the opening of {{< wiki-link "Topeka, KS (2215 SW Wanamaker Rd)" >}}. Like Topeka before it, Wichita was initially franchised, furnished with the {{< wiki-link "SPT 1980's Remodel Program" >}}, and premiered with a Road Stage. On September 16, 1996, Wichita and Topeka became corporate-owned, both undergoing the {{< wiki-link "SPT 1990's Remodel Program" >}} around the same time. In the late 2000's, Wichita slightly expanded in square footage as part of the {{< wiki-link "CEC 2000's Remodel Program" >}}. Interestingly, the store's road sign was updated with the 2003 Thumb / Avenger Chuck hybrid logo, while the exterior bore the finalized Avenger logo on the front and sides of the building. As part of this remodel, the previous fixtures and showroom walls were removed, though the Road Stage remained. Aside from the rotation of game packages, Wichita was otherwise unmodified throughout the 2010's. In September 2022, Wichita underwent the {{< wiki-link "CEC 2.0 Remodel Program" >}}, overhauling the infrastructure and removing the Road Stage. The 2.0. Remodel has been the current iteration of Wichita ever since.
+Wichita opened its doors on December 16th, 1991, a year after the opening of [Topeka, KS (2215 SW Wanamaker Rd)]. Like Topeka before it, Wichita was initially franchised, furnished with the [SPT 1980's Remodel Program], and premiered with a Road Stage. On September 16, 1996, Wichita and Topeka became corporate-owned, both undergoing the [SPT 1990's Remodel Program] around the same time. In the late 2000's, Wichita slightly expanded in square footage as part of the [CEC 2000's Remodel Program]. Interestingly, the store's road sign was updated with the 2003 Thumb / Avenger Chuck hybrid logo, while the exterior bore the finalized Avenger logo on the front and sides of the building. As part of this remodel, the previous fixtures and showroom walls were removed, though the Road Stage remained. Aside from the rotation of game packages, Wichita was otherwise unmodified throughout the 2010's. In September 2022, Wichita underwent the [CEC 2.0 Remodel Program], overhauling the infrastructure and removing the Road Stage. The 2.0. Remodel has been the current iteration of Wichita ever since.
 
 ## Stages
 
@@ -25,19 +25,19 @@ Wichita premiered with a Road Stage, as did other CEC locations between 1990 and
 
 | Stage                                                                                             | Installed      | Removed        | Notes                                                                  |
 |---------------------------------------------------------------------------------------------------|----------------|----------------|------------------------------------------------------------------------|
-| {{< wiki-link "Road Stage" >}}                                                   | December 1991  | September 2022 | 2nd Chuck E. Cheese in Kansas. 1 of 2 Road Stages installed in Kansas. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | September 2022 | Still In Use   | 2021 Model.                                                            |
+| [Road Stage]                                                   | December 1991  | September 2022 | 2nd Chuck E. Cheese in Kansas. 1 of 2 Road Stages installed in Kansas. |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | September 2022 | Still In Use   | 2021 Model.                                                            |
 
 ## Animatronics
 
 | Animatronic                                                  | Serial | Whereabouts                                   |
 |--------------------------------------------------------------|--------|-----------------------------------------------|
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | 1980s  | Owned by a Private Collector                  |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1980s  | Owned by a Private Collector                  |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1980s  | Owned by a Private Collector/Wayfinder\_triko |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1980s  | Owned by a Private Collector                  |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1980s  | Owned by a Private Collector                  |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1991   | Unknown/Destroyed                             |
+| [Chuck E Cheese (Cyberamic)]         | 1980s  | Owned by a Private Collector                  |
+| [Guest Star Helen Henny (Cyberamic)] | 1980s  | Owned by a Private Collector                  |
+| [Mr Munch (Cyberamic)]               | 1980s  | Owned by a Private Collector/Wayfinder\_triko |
+| [Jasper T Jowls (Cyberamic)]         | 1980s  | Owned by a Private Collector                  |
+| [Pasqually (Cyberamic)]              | 1980s  | Owned by a Private Collector                  |
+| [Wink (Cyberamic)]                   | 1991   | Unknown/Destroyed                             |
 
 ## Videos
 

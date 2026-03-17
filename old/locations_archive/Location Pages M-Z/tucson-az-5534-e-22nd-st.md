@@ -13,7 +13,7 @@ pageThumbnailFile = "74WCpQ9Xa7aMjjsGnDTU.avif"
 latitudeLongitude = ["32.20467947","-110.8752883"]
 +++
 
-***Tucson, AZ (5534 E 22nd St)*** was a *Pizza Time Theatre* in Tucson, Arizona that opened in July 15, 1980 with a {{< wiki-link "Cyberamics Portrait Shelf Stage" >}}. This is not to be confused with the {{< wiki-link "Tucson, AZ (8616 E Broadway Blvd)" >}} Pizza Time Theatre that opened on May 4th, 1981 and closed in 1983 with a {{< wiki-link "Cyberamics Balcony Stage" >}}. This is also not to be confused with the {{< wiki-link "Tucson, AZ (6130 E Speedway Blvd)" >}} location which opened in April 1995 with a {{< wiki-link "1-Stage" >}} and was relocated to {{< wiki-link "Tucson, AZ (6125 E Speedway Blvd)" >}} in October 2014 with a {{< wiki-link "Circles of Light" >}} and still operates to this day.
+***Tucson, AZ (5534 E 22nd St)*** was a *Pizza Time Theatre* in Tucson, Arizona that opened in July 15, 1980 with a [Cyberamics Portrait Shelf Stage]. This is not to be confused with the [Tucson, AZ (8616 E Broadway Blvd)] Pizza Time Theatre that opened on May 4th, 1981 and closed in 1983 with a [Cyberamics Balcony Stage]. This is also not to be confused with the [Tucson, AZ (6130 E Speedway Blvd)] location which opened in April 1995 with a [1-Stage] and was relocated to [Tucson, AZ (6125 E Speedway Blvd)] in October 2014 with a [Circles of Light] and still operates to this day.
 
 ## History
 
@@ -23,12 +23,12 @@ The store would open on July 15th, 1980 in the *County Fair Shopping Center* wit
 
 | Animatronic                                                  | Whereabouts |
 |--------------------------------------------------------------|-------------|
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown     |
+| [Mr Munch (Cyberamic)]               | Unknown     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown     |
 | Chuck E Cheese (Cyberamic)                                   | Unknown     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown     |
+| [Pasqually (Cyberamic)]              | Unknown     |
+| [Warblettes (Cyberamic)]             | Unknown     |
 | Waving Flags (Cyberamic)                                     | Unknown     |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown     |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown     |
+| [Applause Board (Cyberamic)]         | Unknown     |
+| [Drum Board (Cyberamic)]             | Unknown     |

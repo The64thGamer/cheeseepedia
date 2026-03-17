@@ -11,7 +11,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***3731 Pecanland Mall Dr*** was a *Chuck E. Cheese's* that opened in July 9, 2011 with a {{< wiki-link "Studio C Beta" >}} and closed in August 2024 (Unknown Day), after 13 years in operation. The Chuck E. Cheese Animatronic was installed incorrectly onto to show which led to its eyelids being stuck upwards and the head being stuck tilted for years. The Show itself was updated at some point from 2017 to 2020 to have LED lighting; at the same time, new fur arms, jeans, feet, and miscellaneous repairs for the Chuck E. Animatronic.
+***3731 Pecanland Mall Dr*** was a *Chuck E. Cheese's* that opened in July 9, 2011 with a [Studio C Beta] and closed in August 2024 (Unknown Day), after 13 years in operation. The Chuck E. Cheese Animatronic was installed incorrectly onto to show which led to its eyelids being stuck upwards and the head being stuck tilted for years. The Show itself was updated at some point from 2017 to 2020 to have LED lighting; at the same time, new fur arms, jeans, feet, and miscellaneous repairs for the Chuck E. Animatronic.
 
 ## Stages
 
@@ -29,4 +29,4 @@ Monroe opened in 2011. In May 2021, Monroe reopened after being closed in Januar
 
 | Animatronic                                                | Serial | Whereabouts                     |
 |------------------------------------------------------------|--------|---------------------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A    | Unknown, most likely destroyed. |
+| [Chuck E Cheese 16m (Animatronic)] | N/A    | Unknown, most likely destroyed. |

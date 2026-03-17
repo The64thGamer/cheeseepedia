@@ -16,7 +16,7 @@ latitudeLongitude = ["35.36887262","-94.3766594"]
 
 ## History
 
-Fort Smith opened in 1988 and had a Rock-Afire Explosion like every other ShowBiz. It was also the 2nd to last location to open and was originally a franchised location until October 1st, 1990, when it was bought by corporate along with {{< wiki-link "Fayetteville, AR (1330 N College Ave)" >}}. Around 1991 or 1992, they would receive Concept Unification and receive some decor, remove ShowBiz Pizza decor, and a new exterior. In the Mid 1990's, They would receive either {{< wiki-link "Phase 1 (1994)" >}} or {{< wiki-link "Phase 2 (1997)" >}} which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights. They would remain like this until 2005-2006 when they received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing the Showroom walls, Balcony Seating, and 90s decor. They would remain like this until they received the 2.0 remodel in August 2018 removing the 3-Stage for the Dance Floor. Strangely, they kept the 2005 Update booths. As of January 2023, they still have the 2.0 remodel and the Dance Floor.
+Fort Smith opened in 1988 and had a Rock-Afire Explosion like every other ShowBiz. It was also the 2nd to last location to open and was originally a franchised location until October 1st, 1990, when it was bought by corporate along with [Fayetteville, AR (1330 N College Ave)]. Around 1991 or 1992, they would receive Concept Unification and receive some decor, remove ShowBiz Pizza decor, and a new exterior. In the Mid 1990's, They would receive either [Phase 1 (1994)] or [Phase 2 (1997)] which added a lot of 1990s decor and assets such as the Record Posters and Colored Chase Lights. They would remain like this until 2005-2006 when they received the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing the Showroom walls, Balcony Seating, and 90s decor. They would remain like this until they received the 2.0 remodel in August 2018 removing the 3-Stage for the Dance Floor. Strangely, they kept the 2005 Update booths. As of January 2023, they still have the 2.0 remodel and the Dance Floor.
 
 ## Stages
 
@@ -24,15 +24,15 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 
 | Stage                                                      | Installed    | Removed      | Notes                                                                                                       |
 |------------------------------------------------------------|--------------|--------------|-------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                    | 1988         | 1991-1992    | 2nd to last ShowBiz Pizza store. Last to open in Arkansas. Possibly came from a closed ShowBiz Pizza store. |
-| {{< wiki-link "Concept Unification Stage" >}}        | 1991-1992    | October 2018 | Underwent Concept Unification just like the others in the state.                                            |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | October 2018 | Still in use | 2017 Model. First 2.0 in Arkansas.                                                                          |
+| [Classic Stage]                    | 1988         | 1991-1992    | 2nd to last ShowBiz Pizza store. Last to open in Arkansas. Possibly came from a closed ShowBiz Pizza store. |
+| [Concept Unification Stage]        | 1991-1992    | October 2018 | Underwent Concept Unification just like the others in the state.                                            |
+| [Chuck E Live Stage (Dance Floor)] | October 2018 | Still in use | 2017 Model. First 2.0 in Arkansas.                                                                          |
 
 ## Arcade Machine
 
 ### Skill
 
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Ice Age: Ice Breaker
 - Pump Jump
 - Teeter Totter Castle
@@ -65,10 +65,10 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 - Lets Go Jungle
 - Avengers
 - Space Invaders Frenzy
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Real Heros Fire Rescue
 - Spongebob Squarepants
-- {{< wiki-link "Pop It for Gold" >}}
+- [Pop It for Gold]
 - Paw Patrol
 - Graveyard Smash
 - Redhot
@@ -107,18 +107,18 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 
 | Animatronic                                                               | Serial Code | Whereabouts |
 |---------------------------------------------------------------------------|-------------|-------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | ?-8? 1-??   | Unknown     |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | ?-8? 2-??   | Unknown     |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | ?-8? 3-??   | Unknown     |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | ?-8? 4-??   | Unknown     |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | ?-8? 5-??   | Unknown     |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | ?-8? 6-??   | Unknown     |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | ?-8? 7-??   | Unknown     |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | ?-8? 8-??   | Unknown     |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | ?-8? 10-??  | Unknown     |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | ?-8? 11-??  | Unknown     |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A         | Unknown     |
-| {{< wiki-link "Wink" >}}                                            | N/A         | Unknown     |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ?-8? 1-??   | Unknown     |
+| [Dook Larue (Animatronic)]                        | ?-8? 2-??   | Unknown     |
+| [Fatz Geronimo (Animatronic)]                     | ?-8? 3-??   | Unknown     |
+| [Beach Bear (Animatronic)]                        | ?-8? 4-??   | Unknown     |
+| [Mitzi Mozzarella (Animatronic)]                  | ?-8? 5-??   | Unknown     |
+| [Billy Bob (Animatronic)]                         | ?-8? 6-??   | Unknown     |
+| [Looney Bird (Animatronic)]                       | ?-8? 7-??   | Unknown     |
+| [Choo Choo (Animatronic)]                         | ?-8? 8-??   | Unknown     |
+| [Sun (Animatronic)]                               | ?-8? 10-??  | Unknown     |
+| [Moon (Animatronic)]                              | ?-8? 11-??  | Unknown     |
+| [Antioch (Animatronic)]                           | N/A         | Unknown     |
+| [Wink]                                            | N/A         | Unknown     |
 
 ## Videos
 

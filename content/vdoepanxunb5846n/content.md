@@ -1,4 +1,4 @@
-The ***Pasqually's Perfect Pizza* sign first appeared at the second Chuck E. Cheese's Pizza Time Theatre on 1371 Kooser Road, installed alongside the {{< wiki-link "PTT Fantasy Forest Game Preserve Sign (1978)" >}} to direct users to the ordering counters, and was presumably taken out in the 1981 remodel.**
+The ***Pasqually's Perfect Pizza* sign first appeared at the second Chuck E. Cheese's Pizza Time Theatre on 1371 Kooser Road, installed alongside the [PTT Fantasy Forest Game Preserve Sign (1978)] to direct users to the ordering counters, and was presumably taken out in the 1981 remodel.**
 
 ## Production
 
@@ -6,10 +6,10 @@ Like all the other signs from the time period (1977-1978) it is presumed most we
 
 ## Usage/Releases
 
-Very little is known about the usage of the sign, but as stated before it is theorized most signs from the era, including this sign, were store specific. The only known usage is at {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}} outside of this, no other stores are known to have used this.
+Very little is known about the usage of the sign, but as stated before it is theorized most signs from the era, including this sign, were store specific. The only known usage is at [San Jose, CA (1371 Kooser Rd)] outside of this, no other stores are known to have used this.
 
 ## Design
 
-Placed on a yellow cylindrical shape can be seen in black text 'PASQUALLY'S PERFECT' with larger red text 'PIZZA' resting below alongside an arrow under the text. The name 'Pasqually's Perfect Pizza' would later be reused in a 1979 Californian Pizza Time Theatre brochure. {{< cite 1 >}}
+Placed on a yellow cylindrical shape can be seen in black text 'PASQUALLY'S PERFECT' with larger red text 'PIZZA' resting below alongside an arrow under the text. The name 'Pasqually's Perfect Pizza' would later be reused in a 1979 Californian Pizza Time Theatre brochure. [1]
 
 1.  https://www.showbizpizza.com/info/promo/ptt/ptt_program_ca.pdf

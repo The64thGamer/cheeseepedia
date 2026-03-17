@@ -1,4 +1,4 @@
-the 1978 Madam Oink Nameplate was only used at the first Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} located in the Town & Country Shopping Center in San Jose California; placed under {{< wiki-link "Winchester Madam Oink (Animatronic)" >}} was in use to identify the animatronic.
+the 1978 Madam Oink Nameplate was only used at the first Chuck E. Cheese's Pizza Time Theatre on [San Jose, CA (370 S Winchester Blvd)] located in the Town & Country Shopping Center in San Jose California; placed under [Winchester Madam Oink (Animatronic)] was in use to identify the animatronic.
 
 ## Production
 

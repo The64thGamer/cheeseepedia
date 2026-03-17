@@ -9,4 +9,4 @@ contributors = ["ItAllStartsHereYT"]
 citations = []
 latitudeLongitude = ["42.30737712","-83.39083648"]
 +++
-redirect: {{< wiki-link "Westland MI (208 S Wayne Rd)" >}}
+redirect: [Westland MI (208 S Wayne Rd)]

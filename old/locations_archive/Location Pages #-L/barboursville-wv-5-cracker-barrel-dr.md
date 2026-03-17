@@ -9,11 +9,11 @@ contributors = ["Saan1ty","Rexburg090","Stripes"]
 citations = []
 +++
 
-***5 Cracker Barrel Dr or 'Barboursville***' is a {{< wiki-link "Billy Bob's Wonderland" >}} location in Barboursville, West Virginia, and is currently the only location of the franchise. It opened in 2003 around the time when the other two locations, {{< wiki-link "Barboursville, WV (3419 US Rt 60)" >}} and Ashland, KY (12862 KY Rd. 180)|Ashland, KY locations closed.
+***5 Cracker Barrel Dr or 'Barboursville***' is a [Billy Bob's Wonderland] location in Barboursville, West Virginia, and is currently the only location of the franchise. It opened in 2003 around the time when the other two locations, [Barboursville, WV (3419 US Rt 60)] and Ashland, KY (12862 KY Rd. 180)|Ashland, KY locations closed.
 
 ## History
 
-The current Billy Bob's Wonderland would open in 2003 after the closure of the {{< wiki-link "Barboursville, WV (3419 US Rt 60)" >}} (Which was a former ShowBiz Pizza Place) and Ashland, KY (12862 KY Rd. 180)|Ashland, KY locations. The store would open with even more arcade games, a mini-golf course, and laser tag which wasn't possible to fit in at the former two locations.
+The current Billy Bob's Wonderland would open in 2003 after the closure of the [Barboursville, WV (3419 US Rt 60)] (Which was a former ShowBiz Pizza Place) and Ashland, KY (12862 KY Rd. 180)|Ashland, KY locations. The store would open with even more arcade games, a mini-golf course, and laser tag which wasn't possible to fit in at the former two locations.
 
 ### Relationship with Creative Engineering/Aaron Fechter
 
@@ -37,7 +37,7 @@ On July 26, 2024, it would be announced a movie was being filmed at the location
 
 ## Extra Shows
 
-In addition to the main show at their current location, Billy Bob's Wonderland also has two extra shows inside trailers near the building, which originated from the previous locations in Ashland and Barboursville. In addition, they also acquired the {{< wiki-link "Parkersburg, WV (3500 Murdoch Ave)" >}} location's 3-stage after their closure in 1998. Currently, their show uses a combination of East Barboursville's and Ashland's shows, with Parkersburg being used for extra parts.
+In addition to the main show at their current location, Billy Bob's Wonderland also has two extra shows inside trailers near the building, which originated from the previous locations in Ashland and Barboursville. In addition, they also acquired the [Parkersburg, WV (3500 Murdoch Ave)] location's 3-stage after their closure in 1998. Currently, their show uses a combination of East Barboursville's and Ashland's shows, with Parkersburg being used for extra parts.
 
 ## Videos
 

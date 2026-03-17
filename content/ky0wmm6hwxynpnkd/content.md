@@ -1,2 +1,2 @@
-The ***Showdog* is a cancelled {{< wiki-link "ShowBiz Pizza Place" >}} menu item from 1985.
-The item would have a trademark filing on July 23, 1985, featuring a stippled logo displaying 'SHOWDOG'. The listing describes it as a hot dog that would come with potato chips and a soft drink. Also in 1985, the {{< wiki-link "Torpedo Dog (SPP Menu Item)" >}} would release. It is possible the Showdog would be an unused name for the Torpedo Dog, but it is unconfirmed.{{< cite 1 >}}**
+The ***Showdog* is a cancelled [ShowBiz Pizza Place] menu item from 1985.
+The item would have a trademark filing on July 23, 1985, featuring a stippled logo displaying 'SHOWDOG'. The listing describes it as a hot dog that would come with potato chips and a soft drink. Also in 1985, the [Torpedo Dog (SPP Menu Item)] would release. It is possible the Showdog would be an unused name for the Torpedo Dog, but it is unconfirmed.[1]**

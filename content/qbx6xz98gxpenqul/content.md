@@ -1,5 +1,5 @@
-Orwell: A Robot You Control (Also, simply known as Orwell) was an animatronic attraction created for {{< wiki-link "ShowBiz Pizza Place" >}} in the mid to late 80's. The bot was a retrofitted {{< wiki-link "Uncle Klunk (Animatronic)" >}} That gave patrons the ability to control the Mech using a control module.
-Orwell was the first ShowBiz bot to be produced by {{< wiki-link "Chuck E. Cheese's" >}} & not Creative Engineering Inc..
+Orwell: A Robot You Control (Also, simply known as Orwell) was an animatronic attraction created for [ShowBiz Pizza Place] in the mid to late 80's. The bot was a retrofitted [Uncle Klunk (Animatronic)] That gave patrons the ability to control the Mech using a control module.
+Orwell was the first ShowBiz bot to be produced by [Chuck E. Cheese's] & not Creative Engineering Inc..
 
 ## History
 

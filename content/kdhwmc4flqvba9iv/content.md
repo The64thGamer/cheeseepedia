@@ -1,4 +1,4 @@
-The ***1978 Foxy Colleen nameplate* was used at the first {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} located inside the Town and Country Shopping Center in [San Jose, California;](https://en.wikipedia.org/wiki/San_Jose%2C_California) placed under the guest star portrait while {{< wiki-link "Winchester Foxy Colleen (Animatronic)" >}} was in use to identify the animatronic.**
+The ***1978 Foxy Colleen nameplate* was used at the first [San Jose, CA (370 S Winchester Blvd)] located inside the Town and Country Shopping Center in [San Jose, California;](https://en.wikipedia.org/wiki/San_Jose%2C_California) placed under the guest star portrait while [Winchester Foxy Colleen (Animatronic)] was in use to identify the animatronic.**
 
 ## Production
 

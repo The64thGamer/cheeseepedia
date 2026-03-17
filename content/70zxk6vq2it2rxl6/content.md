@@ -1,5 +1,5 @@
 ***Chuck E. Cheese Willowdale Grand Re-Opening Show*** was released on July 24, 2024, to play exclusively for Willowdale's Grand Re-Opening event. The show features a variety of songs released from 2014-2023. 
-This would play starting at 5:00pm, once finished, it would begin playing {{< wiki-link "Chuck E. Cheese Legacy Summer Show 2025" >}}.
+This would play starting at 5:00pm, once finished, it would begin playing [Chuck E. Cheese Legacy Summer Show 2025].
 
 ## Show List
 

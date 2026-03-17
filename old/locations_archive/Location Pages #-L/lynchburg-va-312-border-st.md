@@ -16,13 +16,13 @@ pageThumbnailFile = "GRDORNFgrfHztlniVqoS.avif"
 
 ## Stages
 
-When the store first opened, they had a regular {{< wiki-link "Classic Stage" >}}. The location underwent {{< wiki-link "Concept Unification" >}} in 1991 and would remain as a {{< wiki-link "Concept Unification Stage" >}} until around the Fall of 1994 when Creative Engineering converted the stage back into a Rock-Afire Explosion during the store's conversion to Billy Bob's Pizza, albeit with remnants of the 3-Stage. The show's animatronics would be sold during the 1999 auction of the store's space, where they would then be stored into a barn.(2) The stage would still remain by the time the space was reopened as Billy Joe's Ice Cream Parlor, despite having no animatronics on it with some stage props and curtains left behind during Billy Joe's operation until its closure in 2007. Nearly 13 years later, in 2020, [Connor Leschinsky](https://www.youtube.com/channel/UCgxzb-fN2B43_3FirF1XDnQ) and [Sptproductions](https://www.youtube.com/c/sptproductions/videos) purchased the animatronic characters. Connor would get Beach Bear and Dook, along with the cosmetics of Rolfe, Mitzi, and Fatz, and Jack would have the rest. All of the bots have been sold off to private collectors.[https://youtu.be/Ht-IAh0a0xg](https://youtu.be/Ht-IAh0a0xg)
+When the store first opened, they had a regular [Classic Stage]. The location underwent [Concept Unification] in 1991 and would remain as a [Concept Unification Stage] until around the Fall of 1994 when Creative Engineering converted the stage back into a Rock-Afire Explosion during the store's conversion to Billy Bob's Pizza, albeit with remnants of the 3-Stage. The show's animatronics would be sold during the 1999 auction of the store's space, where they would then be stored into a barn.(2) The stage would still remain by the time the space was reopened as Billy Joe's Ice Cream Parlor, despite having no animatronics on it with some stage props and curtains left behind during Billy Joe's operation until its closure in 2007. Nearly 13 years later, in 2020, [Connor Leschinsky](https://www.youtube.com/channel/UCgxzb-fN2B43_3FirF1XDnQ) and [Sptproductions](https://www.youtube.com/c/sptproductions/videos) purchased the animatronic characters. Connor would get Beach Bear and Dook, along with the cosmetics of Rolfe, Mitzi, and Fatz, and Jack would have the rest. All of the bots have been sold off to private collectors.[https://youtu.be/Ht-IAh0a0xg](https://youtu.be/Ht-IAh0a0xg)
 
 ## History
 
 ### SPP &amp; CEC
 
-Lynchburg opened on September 1st, 1983 as the second ShowBiz Pizza Place in Virginia as a franchised location. It featured a unique exterior that was seen at 4 other locations. Lynchburg was also the second location to get this exterior. The also had the game room, the sports room, and the showroom. The store would remain unchanged until late 1988. They received the {{< wiki-link "SPT 1980's Remodel Program" >}} This remodel gave the store colored checkers, blue and white awnings, the SPP Campground backdrop for Billy Bob's stage and added PTT wall art. The PTT art would be left there until its closure. They also got a Chuck E. walkaround costume from the early 80s. The mascot didn't have a derby hat. The store would get Concept Unification around Late 1991. Despite the store getting CU, the rest didn't change. (Minus the Billy Bob Merry Go Round ride having the top hat removed and being repainted.) along with that, the store's menu board and the sports room weren't removed too. The exterior went unchanged as it kept it's SPP name and 'Now Appearing' signs next to the entrance.
+Lynchburg opened on September 1st, 1983 as the second ShowBiz Pizza Place in Virginia as a franchised location. It featured a unique exterior that was seen at 4 other locations. Lynchburg was also the second location to get this exterior. The also had the game room, the sports room, and the showroom. The store would remain unchanged until late 1988. They received the [SPT 1980's Remodel Program] This remodel gave the store colored checkers, blue and white awnings, the SPP Campground backdrop for Billy Bob's stage and added PTT wall art. The PTT art would be left there until its closure. They also got a Chuck E. walkaround costume from the early 80s. The mascot didn't have a derby hat. The store would get Concept Unification around Late 1991. Despite the store getting CU, the rest didn't change. (Minus the Billy Bob Merry Go Round ride having the top hat removed and being repainted.) along with that, the store's menu board and the sports room weren't removed too. The exterior went unchanged as it kept it's SPP name and 'Now Appearing' signs next to the entrance.
 
 ### Billy Bob's Pizza Conversion
 
@@ -56,15 +56,15 @@ On June 23, 2011, the building was purchased and redevelopment plans started to 
 
 | Animatronic                                                               | Serial Number | Whereabouts                  |
 |---------------------------------------------------------------------------|---------------|------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 10-82 1-33    | Owned by a Private Collector |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 10-82 2-33    | Owned by a Private Collector |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 10-82 3-33    | Owned by a Private Collector |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 10-82 4-33    | Owned by a Private Collector |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 10-82 5-33    | Owned by a Private Collector |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 10-82 6-33    | Owned by a Private Collector |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 10-82 7-33    | Owned by a Private Collector |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 10-82 8-33    | Owned by Connor Leschinsky   |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 10-82 10-33   | Owned by a Private Collector |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 10-82 11-33   | Owned by a YouTuber          |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown                      |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown                      |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-82 1-33    | Owned by a Private Collector |
+| [Dook Larue (Animatronic)]                        | 10-82 2-33    | Owned by a Private Collector |
+| [Fatz Geronimo (Animatronic)]                     | 10-82 3-33    | Owned by a Private Collector |
+| [Beach Bear (Animatronic)]                        | 10-82 4-33    | Owned by a Private Collector |
+| [Mitzi Mozzarella (Animatronic)]                  | 10-82 5-33    | Owned by a Private Collector |
+| [Billy Bob (Animatronic)]                         | 10-82 6-33    | Owned by a Private Collector |
+| [Looney Bird (Animatronic)]                       | 10-82 7-33    | Owned by a Private Collector |
+| [Choo Choo (Animatronic)]                         | 10-82 8-33    | Owned by Connor Leschinsky   |
+| [Sun (Animatronic)]                               | 10-82 10-33   | Owned by a Private Collector |
+| [Moon (Animatronic)]                              | 10-82 11-33   | Owned by a YouTuber          |
+| [Antioch (Animatronic)]                           | N/A           | Unknown                      |
+| [Wink]                                            | N/A           | Unknown                      |

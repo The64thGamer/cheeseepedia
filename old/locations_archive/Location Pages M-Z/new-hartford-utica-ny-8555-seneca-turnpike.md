@@ -13,11 +13,11 @@ pageThumbnailFile = "QbfLf1KGpvGVTXsE7YAN.avif"
 latitudeLongitude = ["43.0802761","-75.3186754"]
 +++
 
-***New Hartford / Utica, NY (8555 Seneca Turnpike)*** was a *Pizza Time Theatre* that opened on December 16, 1982 with a {{< wiki-link "Cyberamics Balcony Stage" >}}, which closed on July 29, 1985. The location was a franchise-owned location operated by Pizza Concepts, Ltd. based in Rochester, NY.
+***New Hartford / Utica, NY (8555 Seneca Turnpike)*** was a *Pizza Time Theatre* that opened on December 16, 1982 with a [Cyberamics Balcony Stage], which closed on July 29, 1985. The location was a franchise-owned location operated by Pizza Concepts, Ltd. based in Rochester, NY.
 
 ## Stages
 
-The location had a {{< wiki-link "Cyberamics Balcony Stage" >}}.
+The location had a [Cyberamics Balcony Stage].
 
 ## History
 
@@ -27,14 +27,14 @@ Construction of the location within the Sangertown Square Mall was recorded as e
 
 ### Closure
 
-Operations winded down in 1985 due to poor sales amidst the company's filing for Chapter 11 Bankruptcy and pressures on the franchisee from competitor {{< wiki-link "ShowBiz Pizza Place" >}} (2).
+Operations winded down in 1985 due to poor sales amidst the company's filing for Chapter 11 Bankruptcy and pressures on the franchisee from competitor [ShowBiz Pizza Place] (2).
 
 ## Animatronics
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
 | Chuck E Cheese (Cyberamic)                                   |                    | Destroyed   |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} |                    | Destroyed   |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               |                    | Destroyed   |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              |                    | Destroyed   |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         |                    | Destroyed   |
+| [Guest Star Helen Henny (Cyberamic)] |                    | Destroyed   |
+| [Mr Munch (Cyberamic)]               |                    | Destroyed   |
+| [Pasqually (Cyberamic)]              |                    | Destroyed   |
+| [Jasper T Jowls (Cyberamic)]         |                    | Destroyed   |

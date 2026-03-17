@@ -13,7 +13,7 @@ The ***Artifact Shelves*** were unique shelves featured in stores that received 
 
 Store Date Recieved Themes Theme 1 Items Theme 2 Items Generic Items 
 
-{{< wiki-link "Springfield, PA (381 Baltimore Pike)" >}} Mid-1990's Sports, Hollywood
+[Springfield, PA (381 Baltimore Pike)] Mid-1990's Sports, Hollywood
 
 - Bowling Pins (Shelf Item)
 - Babe Ruth Poster (Shelf Item)
@@ -37,11 +37,11 @@ Store Date Recieved Themes Theme 1 Items Theme 2 Items Generic Items
 <!--THE END-->
 
 - Trophy Prop (Shelf Item)
-- {{< wiki-link "Prop TV (Shelf Item)" >}}
+- [Prop TV (Shelf Item)]
 
-{{< wiki-link "New London, CT (389 N Frontage Rd)" >}} 1990s Music, Hollywood
+[New London, CT (389 N Frontage Rd)] 1990s Music, Hollywood
 
-- {{< wiki-link "Chuck Statue- Musician (Shelf Item)" >}}
+- [Chuck Statue- Musician (Shelf Item)]
 - Mini Crosley CR-11 (Shelf Item)
 - The Beatles Poster (Shelf Item)
 - (???) Human Figure w/ Black Hair
@@ -61,4 +61,4 @@ Store Date Recieved Themes Theme 1 Items Theme 2 Items Generic Items
 <!--THE END-->
 
 - Trophy Prop (Shelf Item)
-- {{< wiki-link "Prop TV (Shelf Item)" >}}
+- [Prop TV (Shelf Item)]

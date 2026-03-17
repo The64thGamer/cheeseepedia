@@ -20,7 +20,7 @@ Hattiesburg opened on July 26, 1984, with a Rock-afire Explosion. Not much is kn
 
 | Stage                                   | Installed | Removed      | Notes                                       |
 |-----------------------------------------|-----------|--------------|---------------------------------------------|
-| {{< wiki-link "Classic Stage" >}} | July 1984 | October 1986 | Final ShowBiz Pizza to open in Mississippi. |
+| [Classic Stage] | July 1984 | October 1986 | Final ShowBiz Pizza to open in Mississippi. |
 
 ## History
 
@@ -30,16 +30,16 @@ Hattiesburg opened on July 26, 1984, with a Rock-afire Explosion. This was confi
 
 | Animatronic                                                               | Serial Number | Whereabouts |
 |---------------------------------------------------------------------------|---------------|-------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | ?-8? 1-??     | Unknown.    |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | ?-8? 2-??     | Unknown.    |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | ?-8? 3-??     | Unknown.    |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | ?-8? 4-??     | Unknown.    |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | ?-8? 5-??     | Unknown.    |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | ?-8? 6-??     | Unknown.    |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | ?-8? 7-??     | Unknown.    |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | ?-8? 8-??     | Unknown.    |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | ?-8? 10-??    | Unknown.    |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | ?-8? 11-??    | Unknown.    |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown.    |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ?-8? 1-??     | Unknown.    |
+| [Dook Larue (Animatronic)]                        | ?-8? 2-??     | Unknown.    |
+| [Fatz Geronimo (Animatronic)]                     | ?-8? 3-??     | Unknown.    |
+| [Beach Bear (Animatronic)]                        | ?-8? 4-??     | Unknown.    |
+| [Mitzi Mozzarella (Animatronic)]                  | ?-8? 5-??     | Unknown.    |
+| [Billy Bob (Animatronic)]                         | ?-8? 6-??     | Unknown.    |
+| [Looney Bird (Animatronic)]                       | ?-8? 7-??     | Unknown.    |
+| [Choo Choo (Animatronic)]                         | ?-8? 8-??     | Unknown.    |
+| [Sun (Animatronic)]                               | ?-8? 10-??    | Unknown.    |
+| [Moon (Animatronic)]                              | ?-8? 11-??    | Unknown.    |
+| [Antioch (Animatronic)]                           | N/A           | Unknown.    |
 
 No photos or videos exist of the store are found as of July 2023.

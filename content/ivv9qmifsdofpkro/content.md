@@ -33,4 +33,4 @@
 ## Trivia:
 
 - One of the animations in Techno Dreams was also used in Birthday Star 1995
-- The phone number on the Tuneland promo now leads to a menu for an adult website{{< cite 1 >}}
+- The phone number on the Tuneland promo now leads to a menu for an adult website[1]

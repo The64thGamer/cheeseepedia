@@ -1,4 +1,4 @@
-**December 2012** is the Holiday show released November 26, 2012, featuring the nine songs from {{< wiki-link "Holiday 2002" >}} with their vocals re-recorded by Jaret Reddick, along with rerecorded instrumentals.
+**December 2012** is the Holiday show released November 26, 2012, featuring the nine songs from [Holiday 2002] with their vocals re-recorded by Jaret Reddick, along with rerecorded instrumentals.
 
 ## Show List
 
@@ -62,12 +62,12 @@
 
 ## Trivia
 
-- In addition to Chuck E.'s vocals being redubbed, the instrumentals for the songs from {{< wiki-link "Holiday 2002" >}}.
+- In addition to Chuck E.'s vocals being redubbed, the instrumentals for the songs from [Holiday 2002].
 - New footage was recorded for 'I Heard The Bells' and 'Boar's Head Carol'. Both feature the characters walking around downtown Frisco, TX, during the holiday season.
 - The Existing Stage version of 'Oh Christmas Tree' uses stock footage of Christmas trees during the intro, while the Studio C version uses footage of the Munch puppet from 2002.
-- 'Dreidel Song' is reused from {{< wiki-link "Chuck E's Holiday Party 1999" >}} with no edits to the audio.
-- Baking With Betty - 'Potato Latkes' is reused from {{< wiki-link "Chuck E's Holiday Party 1999" >}}, VeggieTales - 'Donuts For Benny' is reused from the {{< wiki-link "December 2009 Show" >}}, and VeggieTales - 'The 8 Polish Foods of Christmas' and Super Jasper - 'Cookies For Santa' are reused from {{< wiki-link "Happy Holidays 2011" >}}.
-- Chillout 1, Chillout 3, and Chillout 7 reuse music from the {{< wiki-link "Holiday 2002" >}} countdowns. Chillout 5 reuses both audio and footage from a {{< wiki-link "Holiday 2002" >}} countdown, though without the countdown text. Chillout 9 reuses footage from {{< wiki-link "Holiday Special 1992" >}}.
+- 'Dreidel Song' is reused from [Chuck E's Holiday Party 1999] with no edits to the audio.
+- Baking With Betty - 'Potato Latkes' is reused from [Chuck E's Holiday Party 1999], VeggieTales - 'Donuts For Benny' is reused from the [December 2009 Show], and VeggieTales - 'The 8 Polish Foods of Christmas' and Super Jasper - 'Cookies For Santa' are reused from [Happy Holidays 2011].
+- Chillout 1, Chillout 3, and Chillout 7 reuse music from the [Holiday 2002] countdowns. Chillout 5 reuses both audio and footage from a [Holiday 2002] countdown, though without the countdown text. Chillout 9 reuses footage from [Holiday Special 1992].
 - All footage that was originally 4:3 was cropped to become 16:9. Baking with Betty was re-edited so shots with Betty would remain in 4:3 and feature a VHS scanline effect.
 - This was the final show to feature the original versions of 'Cupid Shuffle' and 'Happy & You Know It', as well as the final to feature 'Chuck E. March 2001'.
 - The hidden timecode video on the Studio C DVD for this show is a clip from 'National Lampoon's Christmas Vacation'.

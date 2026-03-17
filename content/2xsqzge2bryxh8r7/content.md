@@ -42,4 +42,4 @@ This was created as a unique showtape to only be played at Northridge to preserv
 
 ## Trivia:
 
-1. 'It's the 70s' & 'Every Boy, Every Girl' are both originally from {{< wiki-link "Chuck E. Cheese's Show 5 2017" >}}.
+1. 'It's the 70s' & 'Every Boy, Every Girl' are both originally from [Chuck E. Cheese's Show 5 2017].

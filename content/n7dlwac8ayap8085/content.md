@@ -1,5 +1,5 @@
-***60 Minute Emergency Back-Up*** was a shortened emergency backup version of the {{< wiki-link "Best of CEC TV 1993">}}, lasting from May 1993 to the {{< wiki-link "Chuck E's Variety Show - Best of 1999">}} in January 2000.
-The tape is only 60 minutes compared to the full tape's 84 minutes. It cuts off just before the 1 minute countdown into Segment 5.{{< cite 1 >}}
+***60 Minute Emergency Back-Up*** was a shortened emergency backup version of the [Best of CEC TV 1993], lasting from May 1993 to the [Chuck E's Variety Show - Best of 1999] in January 2000.
+The tape is only 60 minutes compared to the full tape's 84 minutes. It cuts off just before the 1 minute countdown into Segment 5.[1]
 
 ## Show List
 
@@ -58,7 +58,7 @@ The tape is only 60 minutes compared to the full tape's 84 minutes. It cuts off 
 
 ## Emergency Backup Format
 
-As stated in the {{< wiki-link "Concept Unification Installation Manual">}}, the emergency backup tapes were used in the event of a deck failure. A deck failure would mean the store would need to order a consumer stereo deck as a replacement, which could not support the 4-channel audio of a standard showtape. A standard tape had audio on Hifi left/right, with the programming signals on linear left/right, while the emergency tape duplicated the signals to both linear and Hifi left, and the audio to both linear and Hifi right. This resulted in the birthday signals being lost, with only the standard shows being able to play.
+As stated in the [Concept Unification Installation Manual], the emergency backup tapes were used in the event of a deck failure. A deck failure would mean the store would need to order a consumer stereo deck as a replacement, which could not support the 4-channel audio of a standard showtape. A standard tape had audio on Hifi left/right, with the programming signals on linear left/right, while the emergency tape duplicated the signals to both linear and Hifi left, and the audio to both linear and Hifi right. This resulted in the birthday signals being lost, with only the standard shows being able to play.
 
 ## Trivia:
 

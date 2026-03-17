@@ -80,16 +80,16 @@
 
 ## Trivia:
 
-- 'Workin' for the Weekend' is originally from {{< wiki-link "January 2006 Show" >}}, 'Need a New Wheel', 'Pizza Oven' and Hard Hat Hank are originally from {{< wiki-link "Spring 2012 Show" >}}, 'Crocodile Rock' is originally from {{< wiki-link "September 2005 Show" >}}, 'Sing a Song' is originally from {{< wiki-link "January 2004 Show" >}}, 'Everybody Wants to Rule the World' is originally from {{< wiki-link "January 2009 Show" >}}, 'Come On Let's Go' is originally from {{< wiki-link "September 2011 Show" >}}, and 'Get Down On It' is originally from {{< wiki-link "April 2007 Show" >}}. Jaret Reddick rerecorded all of Chuck E.'s lines.
+- 'Workin' for the Weekend' is originally from [January 2006 Show], 'Need a New Wheel', 'Pizza Oven' and Hard Hat Hank are originally from [Spring 2012 Show], 'Crocodile Rock' is originally from [September 2005 Show], 'Sing a Song' is originally from [January 2004 Show], 'Everybody Wants to Rule the World' is originally from [January 2009 Show], 'Come On Let's Go' is originally from [September 2011 Show], and 'Get Down On It' is originally from [April 2007 Show]. Jaret Reddick rerecorded all of Chuck E.'s lines.
 - The footage for 'Workin' for the Weekend', 'Crocodile Rock', and 'Everybody Wants to Rule the World' was redone.
 - The new footage for 'Working for the Weekend' and 'Everybody Wants to Rule the World' has the walkarounds for Chuck & Helen wearing outfits closer to their Rockstar designs, though they still use the previous walkaround heads. This would be the last show to use the old walkaround.
 - 'Working for the Weekend', 'Crocodile Rock', 'Everybody Wants to Rule the World', and 'Get Down on It' all lack the announcer at the beginning. Despite this, Bird's programming for these was left intact for all except 'Crocodile Rock'.
 - 'Working for the Weekend' removes Chuck E. and Jasper's spoken lines during the interlude. Despite this, the spotlight programming was left intact on Existing Stages.
-- The {{< wiki-link "September 2011 Show" >}} logo is shown at the end of 'Sing a Song', replacing the January 2004 logo.
+- The [September 2011 Show] logo is shown at the end of 'Sing a Song', replacing the January 2004 logo.
 - The music for all the cover songs was reworked to varying degrees, most notably the drums.
 - This was the first show to feature versions of the live shows redubbed by Jaret Reddick at all stores.
-- Birthday 2009 stills uses Duncan Brannan's voice, though the 'Little Bit of 80s' footage at the beginning has been changed to the 'We Got The Beat' footage from the {{< wiki-link "May 2011 Show" >}}.
+- Birthday 2009 stills uses Duncan Brannan's voice, though the 'Little Bit of 80s' footage at the beginning has been changed to the 'We Got The Beat' footage from the [May 2011 Show].
 - This show featured the final 'Super Jasper' intermission. This was also the final time the 1999 Jasper puppet (or any of the 1999 puppets) would be seen in newly produced footage. Similarly, the 'Trololo' live show countdown introduced with the show was the first to use any of the 2013 puppets.
 - This was the first show to use the automatic live show feature for Studio C and Weigl stores. With this feature, live shows will start automatically every hour. Five-minute countdowns have also been added to all live shows.
 - 'Need a New Wheel', 'Pizza Oven', and 'Get Down on It' all lack the applause SFX at the end. 'Come on, Let's Go' uses different applause SFX than its original show.
-- Hidden at the end of the Studio C DVD is the theme song for Bobby Bear, which would later be used in the {{< wiki-link "Spring 2013 Show" >}}. The intermission was planned for this show, but was not finished in time.
+- Hidden at the end of the Studio C DVD is the theme song for Bobby Bear, which would later be used in the [Spring 2013 Show]. The intermission was planned for this show, but was not finished in time.

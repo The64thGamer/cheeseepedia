@@ -1,4 +1,4 @@
-**Happy Holidays 2011** was a holiday show which released on November 25, 2011, featuring all the segments originally from {{< wiki-link "Holiday 2002" >}}. This would be the final show to use the original versions of these segments.
+**Happy Holidays 2011** was a holiday show which released on November 25, 2011, featuring all the segments originally from [Holiday 2002]. This would be the final show to use the original versions of these segments.
 
 
 ## Show List:
@@ -69,4 +69,4 @@
 
 - A snow effect is added to the 'NBC Chime', 'Cow Abduction' and 'Cell Tower' CEC TV IDs.
 - The 'Ladies & Gentlemen It's Showtime' Intro is not programmed in this show.
-- Super Jasper - 'Cookies For Santa' was originally recorded for {{< wiki-link "Holiday 2002" >}} but was not released until this show.
+- Super Jasper - 'Cookies For Santa' was originally recorded for [Holiday 2002] but was not released until this show.

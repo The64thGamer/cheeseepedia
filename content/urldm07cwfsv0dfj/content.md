@@ -1,4 +1,4 @@
-The ***Uncle Klunk Showtape* is a {{< wiki-link "Rock-afire Explosion" >}} showtape released in ShowBiz Pizza Place locations in July 1983. This was a limited release for locations participating in the {{< wiki-link "The Amazing Uncle Klunk Traveling Show (Event)" >}}.**
+The ***Uncle Klunk Showtape* is a [Rock-afire Explosion] showtape released in ShowBiz Pizza Place locations in July 1983. This was a limited release for locations participating in the [The Amazing Uncle Klunk Traveling Show (Event)].**
 
 ## Revised Edition
 

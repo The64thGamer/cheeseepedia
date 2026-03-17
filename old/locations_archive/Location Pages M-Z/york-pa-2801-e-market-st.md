@@ -13,7 +13,7 @@ pageThumbnailFile = "DX8OSOoW_MRQNWfi5chg.avif"
 latitudeLongitude = ["39.97645047","-76.67319193"]
 +++
 
-***2801 E Market St, Store #965*** was a ShowBiz Pizza Place that opened on March 4, 1983 with a Rock-Afire Explosion. This location received CU in the early 1990's, and would have the 3-Stage until they got 2.0 in September 2018. As of September 2022, they still have the 2.0 Remodel. This location is not to be confused with {{< wiki-link "York, PA (351 Loucks Rd)" >}}, which opened on August 23, 1983 and closed on February 19, 1984 with a Balcony Stage.
+***2801 E Market St, Store #965*** was a ShowBiz Pizza Place that opened on March 4, 1983 with a Rock-Afire Explosion. This location received CU in the early 1990's, and would have the 3-Stage until they got 2.0 in September 2018. As of September 2022, they still have the 2.0 Remodel. This location is not to be confused with [York, PA (351 Loucks Rd)], which opened on August 23, 1983 and closed on February 19, 1984 with a Balcony Stage.
 
 ## History
 
@@ -25,26 +25,26 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 | Stage                                                      | Installed      | Removed        | Notes                                                           |
 |------------------------------------------------------------|----------------|----------------|-----------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                    | March 1983     | Around 1991    | One of six ShowBiz locations to open in Pennsylvania.           |
-| {{< wiki-link "Concept Unification Stage" >}}        | Around 1991    | September 2018 | One of three Pennsylvania locations to get Concept Unification. |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | September 2018 | Still In Use   | 2017 Model                                                      |
+| [Classic Stage]                    | March 1983     | Around 1991    | One of six ShowBiz locations to open in Pennsylvania.           |
+| [Concept Unification Stage]        | Around 1991    | September 2018 | One of three Pennsylvania locations to get Concept Unification. |
+| [Chuck E Live Stage (Dance Floor)] | September 2018 | Still In Use   | 2017 Model                                                      |
 
 ## Animatronics
 
 | Animatronic                                                               | Serial Number | Whereabouts |
 |---------------------------------------------------------------------------|---------------|-------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 7-82 1-22     | Unknown     |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 7-82 2-22     | Unknown     |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 7-82 3-22     | Unknown     |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 7-82 4-22     | Unknown     |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 7-82 5-22     | Unknown     |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 7-82 6-22     | Unknown     |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 7-82 7-22     | Unknown     |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 7-82 8-22     | Unknown     |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 7-82 10-22    | Unknown     |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 7-82 11-22    | Unknown     |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown     |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown     |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-82 1-22     | Unknown     |
+| [Dook Larue (Animatronic)]                        | 7-82 2-22     | Unknown     |
+| [Fatz Geronimo (Animatronic)]                     | 7-82 3-22     | Unknown     |
+| [Beach Bear (Animatronic)]                        | 7-82 4-22     | Unknown     |
+| [Mitzi Mozzarella (Animatronic)]                  | 7-82 5-22     | Unknown     |
+| [Billy Bob (Animatronic)]                         | 7-82 6-22     | Unknown     |
+| [Looney Bird (Animatronic)]                       | 7-82 7-22     | Unknown     |
+| [Choo Choo (Animatronic)]                         | 7-82 8-22     | Unknown     |
+| [Sun (Animatronic)]                               | 7-82 10-22    | Unknown     |
+| [Moon (Animatronic)]                              | 7-82 11-22    | Unknown     |
+| [Antioch (Animatronic)]                           | N/A           | Unknown     |
+| [Wink]                                            | N/A           | Unknown     |
 
 ## Videos
 

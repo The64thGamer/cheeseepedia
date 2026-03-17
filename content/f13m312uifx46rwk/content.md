@@ -1,4 +1,4 @@
-**Summer 2009 Show** was a rerelease of the {{< wiki-link "Summer 2007 Show" >}} with a few intermission changes. This was also the first show to include Birthday 2009.
+**Summer 2009 Show** was a rerelease of the [Summer 2007 Show] with a few intermission changes. This was also the first show to include Birthday 2009.
 This show was released in July 2009 and played until August.
 
 ## Show List:

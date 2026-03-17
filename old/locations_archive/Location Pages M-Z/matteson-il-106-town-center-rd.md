@@ -16,7 +16,7 @@ latitudeLongitude = ["41.50345172","-87.73742633"]
 
 ## Stages
 
-This location debuted with the {{< wiki-link "Classic Stage" >}} in 1983 and received {{< wiki-link "Concept Unification" >}} in 1991. The 3-Stage at this particular location kept its SPP valance and was in excellent condition for the time before being set ablaze in February 2015. Their 3-Stage would end up being replaced with the {{< wiki-link "Circles of Light" >}} show prior before reopening. As for the animatronics, They were sent to the {{< wiki-link "Darien, IL (7409 Cass Ave)" >}} location for parts.
+This location debuted with the [Classic Stage] in 1983 and received [Concept Unification] in 1991. The 3-Stage at this particular location kept its SPP valance and was in excellent condition for the time before being set ablaze in February 2015. Their 3-Stage would end up being replaced with the [Circles of Light] show prior before reopening. As for the animatronics, They were sent to the [Darien, IL (7409 Cass Ave)] location for parts.
 
 ## History
 
@@ -24,7 +24,7 @@ Matteson opened on May 23, 1983, with a Rock-afire Explosion. Not much changed u
 
 ### Remodels
 
-Matteson would remodel for the first time sometime in the late 80’s. They would remodel again around 1992/1993. In 2009, Matteson would receive the {{< wiki-link "CEC 2000's Remodel Program" >}}. In February 2015 due to a fire starting inside of the building the location would remodel for the final time, receiving new artwork and the Circles of Light in the process.(1)
+Matteson would remodel for the first time sometime in the late 80’s. They would remodel again around 1992/1993. In 2009, Matteson would receive the [CEC 2000's Remodel Program]. In February 2015 due to a fire starting inside of the building the location would remodel for the final time, receiving new artwork and the Circles of Light in the process.(1)
 
 ### MLB Controversy
 
@@ -45,15 +45,15 @@ On June 18, 2020, this location would be permanently closed due to CEC Entertain
 
 | Animatronics                                                              | Serial Number | Status                                                                                               |
 |---------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | Unknown       | Not seen at Darien, current status unknown.                                                          |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | Unknown       | Sent to Darien for parts, later sent to Kedzie. Head frame owned by a collector.                     |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | Unknown       | Some parts seen at Darien, current status unknown. Likely thrown away over time between 2015 - 2020. |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | Unknown       | Some parts seen at Darien, current status unknown. Likely thrown away over time between 2015 - 2020. |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | Unknown       | Sent to Darien for parts, now owned by a collector.                                                  |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | Unknown       | Unknown / Destroyed                                                                                  |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | Unknown       | Unknown / Destroyed                                                                                  |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | Unknown       | Unknown / Destroyed                                                                                  |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | Unknown       | Not seen at Darien, current status unknown.                                                          |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | Unknown       | Not seen at Darien, current status unknown.                                                          |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown / Destroyed                                                                                  |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Destroyed in fire.                                                                                   |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | Unknown       | Not seen at Darien, current status unknown.                                                          |
+| [Dook Larue (Animatronic)]                        | Unknown       | Sent to Darien for parts, later sent to Kedzie. Head frame owned by a collector.                     |
+| [Fatz Geronimo (Animatronic)]                     | Unknown       | Some parts seen at Darien, current status unknown. Likely thrown away over time between 2015 - 2020. |
+| [Beach Bear (Animatronic)]                        | Unknown       | Some parts seen at Darien, current status unknown. Likely thrown away over time between 2015 - 2020. |
+| [Mitzi Mozzarella (Animatronic)]                  | Unknown       | Sent to Darien for parts, now owned by a collector.                                                  |
+| [Billy Bob (Animatronic)]                         | Unknown       | Unknown / Destroyed                                                                                  |
+| [Looney Bird (Animatronic)]                       | Unknown       | Unknown / Destroyed                                                                                  |
+| [Choo Choo (Animatronic)]                         | Unknown       | Unknown / Destroyed                                                                                  |
+| [Sun (Animatronic)]                               | Unknown       | Not seen at Darien, current status unknown.                                                          |
+| [Moon (Animatronic)]                              | Unknown       | Not seen at Darien, current status unknown.                                                          |
+| [Antioch (Animatronic)]                           | N/A           | Unknown / Destroyed                                                                                  |
+| [Wink]                                            | N/A           | Destroyed in fire.                                                                                   |

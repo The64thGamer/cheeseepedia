@@ -25,27 +25,27 @@ Originally, Fairfax featured a Rock-Afire Explosion, as were all the other ShowB
 
 | Stage                                                                   | Installed     | Removed      | Notes                                    |
 |-------------------------------------------------------------------------|---------------|--------------|------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                                 | December 1983 | 1991/1992    | 4th ShowBiz to open in Virginia.         |
-| {{< wiki-link "Concept Unification Stage" >}}                     | 1991/1992     | 2000         | One of 5 to undergo Concept Unification. |
+| [Classic Stage]                                 | December 1983 | 1991/1992    | 4th ShowBiz to open in Virginia.         |
+| [Concept Unification Stage]                     | 1991/1992     | 2000         | One of 5 to undergo Concept Unification. |
 | Studio C (1997)\|Studio C Alpha                                         | 2000          | October 2018 | One of 5 installed in Virginia.          |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + Video Wall | October 2018  | Still In Use | 2017 Model.                              |
+| [Chuck E Live Stage (Dance Floor)] + Video Wall | October 2018  | Still In Use | 2017 Model.                              |
 
 ## Animatronics
 
 | Animatronic                                                               | Serial      | Whereabouts                                                     |
 |---------------------------------------------------------------------------|-------------|-----------------------------------------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 10-82 1-40  | Unknown.                                                        |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 10-82 2-40  | Unknown.                                                        |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 10-82 3-40  | Unknown.                                                        |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 10-82 4-40  | Unknown.                                                        |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 10-82 5-40  | Unknown.                                                        |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 10-82 6-40  | Unknown.                                                        |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 10-82 7-40  | Sent to {{< wiki-link "Laurel, MD (936 Fairlawn Ave)" >}} |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 10-82 6-40  | Unknown.                                                        |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 10-82 10-40 | Unknown.                                                        |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 10-82 11-40 | Unknown.                                                        |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A         | Unknown.                                                        |
-| {{< wiki-link "Wink" >}}                                            | N/A         | Unknown.                                                        |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-82 1-40  | Unknown.                                                        |
+| [Dook Larue (Animatronic)]                        | 10-82 2-40  | Unknown.                                                        |
+| [Fatz Geronimo (Animatronic)]                     | 10-82 3-40  | Unknown.                                                        |
+| [Beach Bear (Animatronic)]                        | 10-82 4-40  | Unknown.                                                        |
+| [Mitzi Mozzarella (Animatronic)]                  | 10-82 5-40  | Unknown.                                                        |
+| [Billy Bob (Animatronic)]                         | 10-82 6-40  | Unknown.                                                        |
+| [Looney Bird (Animatronic)]                       | 10-82 7-40  | Sent to [Laurel, MD (936 Fairlawn Ave)] |
+| [Choo Choo (Animatronic)]                         | 10-82 6-40  | Unknown.                                                        |
+| [Sun (Animatronic)]                               | 10-82 10-40 | Unknown.                                                        |
+| [Moon (Animatronic)]                              | 10-82 11-40 | Unknown.                                                        |
+| [Antioch (Animatronic)]                           | N/A         | Unknown.                                                        |
+| [Wink]                                            | N/A         | Unknown.                                                        |
 | Studio C (1997)\|Chuck E. Cheese, 32m                                     | Unknown     | Destroyed.                                                      |
 | Parrot                                                                    | Unknown     | Destroyed.                                                      |
 | Pizza Time Phone                                                          | Unknown     | Destroyed.                                                      |
@@ -57,7 +57,7 @@ Originally, Fairfax featured a Rock-Afire Explosion, as were all the other ShowB
 |----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------|
 | https://youtu.be/kWOmSwSPMLU                                               | As a ShowBiz Pizza Place.                                                                           | 1987                |
 | https://www.youtube.com/watch?v=iF2O9MklUBY                                | Earliest known footage of Fairfax's CU 3-Stage in 1991.                                             | Summer 1991         |
-| [https://youtu.be/lfM-YoQusfA](https://www.youtube.com/shorts/lfM-YoQusfA) | Clip of the show performing *Nobody Knows* from {{< wiki-link "The Chuck E Cheese Show" >}}.  | February/March 2016 |
+| [https://youtu.be/lfM-YoQusfA](https://www.youtube.com/shorts/lfM-YoQusfA) | Clip of the show performing *Nobody Knows* from [The Chuck E Cheese Show].  | February/March 2016 |
 | https://youtu.be/9CysCUh4I20                                               | Store Tour                                                                                          | Summer 2017         |
-| https://youtu.be/bTszuZFpxUo                                               | The show performing *Friendship Never Ends* from {{< wiki-link "The Chuck E Cheese Show" >}}. | July 31st, 2017     |
+| https://youtu.be/bTszuZFpxUo                                               | The show performing *Friendship Never Ends* from [The Chuck E Cheese Show]. | July 31st, 2017     |
 | https://youtu.be/ldyussyja4M                                               | Grand Reopening                                                                                     | January 29th, 2019  |

@@ -1,4 +1,4 @@
-***Chuck E. Shuffle*** is a generic live show released in April 1994. This live show would be re-edited for Studio C stages in September 2001 by {{< wiki-link "Chuck E. Shuffle 2001" >}}, while Existing Stages would continue playing the 1994 version through the end of 2002.
+***Chuck E. Shuffle*** is a generic live show released in April 1994. This live show would be re-edited for Studio C stages in September 2001 by [Chuck E. Shuffle 2001], while Existing Stages would continue playing the 1994 version through the end of 2002.
 
 ## Summary
 
@@ -17,25 +17,25 @@ The Studio C version of this live show does not include the countdown and instea
 
 | Release Year | Showtape                             | Format            |
 |--------------|--------------------------------------|-------------------|
-| 1997         | {{< wiki-link "Studio C Premiere" >}} | Studio C 4X Laserdisc + Files|
-| 1998         | {{< wiki-link "September 1998" >}} | Studio C 4X Laserdisc + Files|
-| 1999         | {{< wiki-link "January 1999" >}} | Studio C 4X Laserdisc + Files|
-| 1999         | {{< wiki-link "April 1999" >}} | Studio C 4X Laserdisc + Files|
-| 1999         | {{< wiki-link "August 1999" >}} | Studio C 3X DVD + Floppy|
-| 1999         | {{< wiki-link "Chuck E's Holiday Party 1999" >}} | Studio C 3X DVD + Floppy|
-| 2000         | {{< wiki-link "Chuck E's Variety Show - Best of 1999" >}} | Studio C 3X DVD + Floppy|
-| 2000         | {{< wiki-link "Just For Kids Show 2000" >}} | Studio C 3X DVD + Floppy|
-| 2000         | {{< wiki-link "Summertime 2000" >}} | Studio C 3X DVD + Floppy|
-| 2000         | {{< wiki-link "September 2000 Show" >}} | Studio C 3X DVD + Floppy|
-| 2000         | {{< wiki-link "Chuck E's Holiday Party 2000" >}} | Studio C 3X DVD + Floppy|
-| 2001         | {{< wiki-link "January 2001 Show" >}} | Studio C 3X DVD + Floppy|
-| 2001         | {{< wiki-link "Chuck E's Rockin' Rhymes" >}} | Studio C 3X DVD + Floppy|
-| 2001         | {{< wiki-link "Summertime 2001" >}} | Studio C 3X DVD + Floppy|
-| 2001         | {{< wiki-link "Chuck E's Holiday Party 2001" >}} | Studio C 3X DVD + Floppy|
-| 2002         | {{< wiki-link "Summer 2002 Show" >}} | Studio C 3X DVD + Floppy|
+| 1997         | [Studio C Premiere] | Studio C 4X Laserdisc + Files|
+| 1998         | [September 1998] | Studio C 4X Laserdisc + Files|
+| 1999         | [January 1999] | Studio C 4X Laserdisc + Files|
+| 1999         | [April 1999] | Studio C 4X Laserdisc + Files|
+| 1999         | [August 1999] | Studio C 3X DVD + Floppy|
+| 1999         | [Chuck E's Holiday Party 1999] | Studio C 3X DVD + Floppy|
+| 2000         | [Chuck E's Variety Show - Best of 1999] | Studio C 3X DVD + Floppy|
+| 2000         | [Just For Kids Show 2000] | Studio C 3X DVD + Floppy|
+| 2000         | [Summertime 2000] | Studio C 3X DVD + Floppy|
+| 2000         | [September 2000 Show] | Studio C 3X DVD + Floppy|
+| 2000         | [Chuck E's Holiday Party 2000] | Studio C 3X DVD + Floppy|
+| 2001         | [January 2001 Show] | Studio C 3X DVD + Floppy|
+| 2001         | [Chuck E's Rockin' Rhymes] | Studio C 3X DVD + Floppy|
+| 2001         | [Summertime 2001] | Studio C 3X DVD + Floppy|
+| 2001         | [Chuck E's Holiday Party 2001] | Studio C 3X DVD + Floppy|
+| 2002         | [Summer 2002 Show] | Studio C 3X DVD + Floppy|
 
 
 
 ## Live Trivia:
 
-- {{< wiki-link "Chuck E's Holiday Party 2001" >}} and {{< wiki-link "Summer 2002 Show" >}} both included the original version of ‘Chuck E. Shuffle’ instead of the 2001 re-edit due to those shows reusing DVDs.
+- [Chuck E's Holiday Party 2001] and [Summer 2002 Show] both included the original version of ‘Chuck E. Shuffle’ instead of the 2001 re-edit due to those shows reusing DVDs.

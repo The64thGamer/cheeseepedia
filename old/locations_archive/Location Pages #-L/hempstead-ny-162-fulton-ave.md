@@ -16,7 +16,7 @@ latitudeLongitude = ["40.70571407","-73.63057818"]
 
 ## History
 
-Hempstead opened on December 17, 2002, in a shopping center named 'The Hub'. It at first contained the {{< wiki-link "Phase 3 (2000)" >}} (not that Phase 3, the package with the 1990s Major Remodel) remodel, containing early 2000s decor, Skytubes, and the Studio C Beta, 32M. Hempstead didn't see any major changes until 2017, when it was ordered to undergo the 2015 CEC Remodel, removing older decor for new decor, got minor exterior renovations, and received brighter lighting. In May 2023, Hempstead began the 2.0 remodel, slowly removing old decor for 2.0 decor, but wasn't able to remove the Studio C Beta until early-mid June. As of June 2023, Hempstead still has the 2.0 remodel.
+Hempstead opened on December 17, 2002, in a shopping center named 'The Hub'. It at first contained the [Phase 3 (2000)] (not that Phase 3, the package with the 1990s Major Remodel) remodel, containing early 2000s decor, Skytubes, and the Studio C Beta, 32M. Hempstead didn't see any major changes until 2017, when it was ordered to undergo the 2015 CEC Remodel, removing older decor for new decor, got minor exterior renovations, and received brighter lighting. In May 2023, Hempstead began the 2.0 remodel, slowly removing old decor for 2.0 decor, but wasn't able to remove the Studio C Beta until early-mid June. As of June 2023, Hempstead still has the 2.0 remodel.
 
 ## Stages
 
@@ -24,14 +24,14 @@ Hempstead opened with the Studio C Beta, 32M. The stage would be generally untou
 
 | Stage                                   | Installed     | Removed      |
 |-----------------------------------------|---------------|--------------|
-| {{< wiki-link "Studio C Beta" >}} | December 2002 | June 2023    |
+| [Studio C Beta] | December 2002 | June 2023    |
 | Dance Floor + Video Wall                | May/June 2023 | Still in use |
 
 ## Animatronics
 
 | Animatronic                                                | Serial Number      | Whereabouts |
 |------------------------------------------------------------|--------------------|-------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 142 (R&amp;D 5000) | Destroyed   |
+| [Chuck E Cheese 32m (Animatronic)] | 142 (R&amp;D 5000) | Destroyed   |
 
 ## Videos
 

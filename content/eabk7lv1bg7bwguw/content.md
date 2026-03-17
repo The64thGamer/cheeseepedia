@@ -216,4 +216,4 @@
 2. 09/02 Update - Ryan's World The Movie Trailer is removed.
 3. 09/23 Update - Zigazoo Star Showcase - 'Bubble Bubble Bop!' is removed.
 
-- On September 3, 2024, {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} would be the first store to receive the finalized updated EPROM. This would involve converting the signals live from 3-Stage to fit the bit chart for Cyberamics.
+- On September 3, 2024, [Northridge, CA (8425 Reseda Blvd)] would be the first store to receive the finalized updated EPROM. This would involve converting the signals live from 3-Stage to fit the bit chart for Cyberamics.

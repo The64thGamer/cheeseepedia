@@ -1,4 +1,4 @@
-The ***Winchester Hours Signage* was only used at the first Chuck E. Cheese's Pizza Time Theatre on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} located in the Town & Country Shopping Center in San Jose, California; for the sake of informing customers on the operational hours of the restaurant from 1977 to an unknown year.**
+The ***Winchester Hours Signage* was only used at the first Chuck E. Cheese's Pizza Time Theatre on [San Jose, CA (370 S Winchester Blvd)] located in the Town & Country Shopping Center in San Jose, California; for the sake of informing customers on the operational hours of the restaurant from 1977 to an unknown year.**
 
 ## Production
 

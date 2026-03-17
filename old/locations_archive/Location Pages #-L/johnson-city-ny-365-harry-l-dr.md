@@ -13,7 +13,7 @@ pageThumbnailFile = "8Wa1zc63mW7VX3q489i6.avif"
 latitudeLongitude = ["42.12217817","-75.96433658"]
 +++
 
-***365 Harry L Drive***, was a Chuck E. Cheese's Pizza Time Theater that opened on June 7th, 1983, with a {{< wiki-link "Cyberamics Balcony Stage" >}} and closed on November 17th, 1996, with a {{< wiki-link "2-Stage" >}}. It was located in The Small Mall.
+***365 Harry L Drive***, was a Chuck E. Cheese's Pizza Time Theater that opened on June 7th, 1983, with a [Cyberamics Balcony Stage] and closed on November 17th, 1996, with a [2-Stage]. It was located in The Small Mall.
 
 ## History
 

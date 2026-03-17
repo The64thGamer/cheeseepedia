@@ -61,4 +61,4 @@ This was created with conjunction with the Summer of Fun promotion and would pla
 
 ## Trivia
 
-- During the '{{< wiki-link "CEC Summer of Fun Concert (Event)" >}}' CEC made a duet version of ['Dog Days of Summer'](https://www.youtube.com/watch?v=bTIpWzNSQpk) between Jasper and Helen.
+- During the '[CEC Summer of Fun Concert (Event)]' CEC made a duet version of ['Dog Days of Summer'](https://www.youtube.com/watch?v=bTIpWzNSQpk) between Jasper and Helen.

@@ -1,11 +1,11 @@
-**Birthday Star '91** was a scrapped birthday show that was initially created for {{< wiki-link "CEC American Pride" >}}.
+**Birthday Star '91** was a scrapped birthday show that was initially created for [CEC American Pride].
 
 ## Release
 
-Originally intended to be released to stores alongside {{< wiki-link "CEC American Pride" >}}, this would have been the first edition of Birthday Star. 
+Originally intended to be released to stores alongside [CEC American Pride], this would have been the first edition of Birthday Star. 
 Like all birthday shows that came before it, Birthday Star was not produced to be a live show. All of the animatronic characters, including Chuck E. Cheese, were programmed to perform the song at birthday parties at the press of a button. 
 As was standard practice since the brand's inception, however, the Chuck E. Cheese walk-around character was present in the showroom and stores found that the show lent itself well to live performances on account of it being a straightforward three-minute song with no character dialogue or skits.
-The show would be modified and release in 1992 as {{< wiki-link "Birthday Star '92" >}}.
+The show would be modified and release in 1992 as [Birthday Star '92].
 
 ## Summary
 
@@ -24,7 +24,7 @@ The floppy disk is labeled as "BIRTHDAY STAR FILES for C&R and ROAD STAGES" '*BD
 
 ## APS Files
 All two segments’ files were last updated between March 20, 1991, and March 22, 1991, being finalized roughly 2 months before its planned release. Birthday '91
-was never programmed for {{< wiki-link "Concept Unification Stage" >}}.
+was never programmed for [Concept Unification Stage].
 
 | File Name    | Size (bytes) | Modified Date          | Header Time | Header Title 1                    | Header Title 2                   |
 | ------------ | ------------ | ---------------------- | ----------- | --------------------------------- | -------------------------------- |

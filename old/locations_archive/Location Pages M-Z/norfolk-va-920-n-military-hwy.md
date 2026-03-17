@@ -27,6 +27,6 @@ This particular Chuck E. Cheese location commenced operations on June 12, 2000, 
 
 | Animatronic                                                | Serial             | Whereabouts   |
 |------------------------------------------------------------|--------------------|---------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 087(R&amp;D 4599)  | Owned by Jay6 |
-| {{< wiki-link "Bird (Animatronic)" >}}               | N/A (R&amp;D 4599) | Owned by Jay6 |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}        | N/A (R&amp;D 4599) | Owned by Jay6 |
+| [Chuck E Cheese 32m (Animatronic)] | 087(R&amp;D 4599)  | Owned by Jay6 |
+| [Bird (Animatronic)]               | N/A (R&amp;D 4599) | Owned by Jay6 |
+| [Pizza Phone (Animatronic)]        | N/A (R&amp;D 4599) | Owned by Jay6 |

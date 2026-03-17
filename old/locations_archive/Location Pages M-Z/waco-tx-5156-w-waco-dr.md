@@ -10,7 +10,7 @@ citations = ["[https://goo.gl/maps/diVBVVrPQg6HGPoPA](%22https://goo.gl/maps/diV
 pageThumbnailFile = "sGW6Si52xTsMLC4B4HQP.avif"
 latitudeLongitude = ["31.51754827","-97.18220388"]
 +++
-***5156 W Waco Dr.* was a *ShowBiz Pizza Place* that opened in 1986 with a {{< wiki-link "Classic Stage" >}} and closed in 1992.
+***5156 W Waco Dr.* was a *ShowBiz Pizza Place* that opened in 1986 with a [Classic Stage] and closed in 1992.
 This specific ShowBiz Pizza location was the smallest location to ever open and allegedly only had a capacity for just 175 patrons. This location also was coincidentally located within the same shopping center as the current Chuck E. Cheese location that would open in 2002.<sup>(1)(2)</sup>**
 
 ## Stages

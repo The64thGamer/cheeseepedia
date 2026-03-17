@@ -1,4 +1,4 @@
-**Summer 2008 Show** was a rerelease of the {{< wiki-link "Summer 2007 Show" >}} with a few intermission changes.
+**Summer 2008 Show** was a rerelease of the [Summer 2007 Show] with a few intermission changes.
 This show was released in July 2008 and played until August.
 
 ## Show List:

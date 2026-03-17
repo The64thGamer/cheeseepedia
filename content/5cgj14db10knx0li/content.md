@@ -44,5 +44,5 @@
 
 ## Trivia
 
-* This show was not released on Studio C. {{< wiki-link "September 1998" >}} would continue to play through the holidays.
+* This show was not released on Studio C. [September 1998] would continue to play through the holidays.
 * A 'Happy Holidays 1998' logo was added to all of the segments.

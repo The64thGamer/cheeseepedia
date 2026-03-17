@@ -12,7 +12,7 @@ citations = ["<a href=\"https://texasarchive.org/2017_00873\">https://texasarchi
 latitudeLongitude = ["30.12565202","-94.15543873"]
 +++
 
-***5874 Eastex Fwy*** was a *Pizza Time Theatre* was a *Pizza Time Theatre* located in the North Park Plaza that opened in 1982 (sometime before August 19th) and closed November 25, 1985 with a {{< wiki-link "Cyberamics Balcony Stage" >}}.(1)(2) This location is not to be confused with the current *Chuck E. Cheese* location on {{< wiki-link "Beaumont, TX (4180 Dowlen Rd)" >}} that opened on June 20th, 2001 with a Studio C Beta, 32m which got removed in November 2019 for a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}, that store still operates to this day.
+***5874 Eastex Fwy*** was a *Pizza Time Theatre* was a *Pizza Time Theatre* located in the North Park Plaza that opened in 1982 (sometime before August 19th) and closed November 25, 1985 with a [Cyberamics Balcony Stage].(1)(2) This location is not to be confused with the current *Chuck E. Cheese* location on [Beaumont, TX (4180 Dowlen Rd)] that opened on June 20th, 2001 with a Studio C Beta, 32m which got removed in November 2019 for a [Chuck E Live Stage (Dance Floor)], that store still operates to this day.
 
 ## History
 
@@ -22,22 +22,22 @@ Beaumont opened with either Harmony Howlette or Madame Oink. They also had The K
 
 | Stage                                              | Installed | Removed | Notes                                |
 |----------------------------------------------------|-----------|---------|--------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | 1982      | 1985    | Whereabouts of Animatronics Unknown. |
+| [Cyberamics Balcony Stage] | 1982      | 1985    | Whereabouts of Animatronics Unknown. |
 
 ## Animatronics
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1981/1982          | Unknown.    |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1981/1982          | Unknown.    |
+| [Mr Munch (Cyberamic)]               | 1981/1982          | Unknown.    |
+| [Jasper T Jowls (Cyberamic)]         | 1981/1982          | Unknown.    |
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981/1982          | Unknown.    |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1981/1982          | Unknown.    |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1981/1982          | Unknown.    |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | 1981/1982          | Unknown.    |
+| [Guest Star Helen Henny (Cyberamic)] | 1981/1982          | Unknown.    |
+| [Pasqually (Cyberamic)]              | 1981/1982          | Unknown.    |
+| [Warblettes (Cyberamic)]             | 1981/1982          | Unknown.    |
 | Waving Flags (Cyberamic)                                     | 1981/1982          | Unknown.    |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | 1981/1982          | Unknown.    |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | 1981/1982          | Unknown.    |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | 1981/1982          | Unknown.    |
+| [Applause Board (Cyberamic)]         | 1981/1982          | Unknown.    |
+| [Drum Board (Cyberamic)]             | 1981/1982          | Unknown.    |
+| [The King King Kat (Lounge)]         | 1981/1982          | Unknown.    |
 
 ## Videos
 

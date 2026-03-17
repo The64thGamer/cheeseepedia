@@ -14,7 +14,7 @@ pageThumbnailFile = "yqaEWHMzKVWkHWQdSF6g.avif"
 latitudeLongitude = ["33.98591862","-117.8451201"]
 +++
 
-***Diamond Bar, CA (1900 S Brea Canyon Rd), Store #409*** was a {{< wiki-link "Pizza Time Theatre" >}} in Diamond Bar, California that opened in 1983 and closed in April 2020.
+***Diamond Bar, CA (1900 S Brea Canyon Rd), Store #409*** was a [Pizza Time Theatre] in Diamond Bar, California that opened in 1983 and closed in April 2020.
 
 ## History
 
@@ -22,23 +22,23 @@ Diamond Bar opened sometime in 1983 with a Balcony Stage(1). Diamond Bar would h
 
 | Stage                                              | Installed  | Removed    |
 |----------------------------------------------------|------------|------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | 1983       | 1989/1990  |
-| {{< wiki-link "Chuck E's House Facade" >}}   | 1989/1990  | Mid 1990's |
-| {{< wiki-link "1-Stage" >}}                  | Mid 1990's | April 2020 |
+| [Cyberamics Balcony Stage] | 1983       | 1989/1990  |
+| [Chuck E's House Facade]   | 1989/1990  | Mid 1990's |
+| [1-Stage]                  | Mid 1990's | April 2020 |
 
 ## Animatronics
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                  |
 |--------------------------------------------------------------|--------------------|----------------------------------------------|
 | Chuck E Cheese (Cyberamic)                                   | Unknown            | Unknown.                                     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Unknown.                                     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Unknown.                                     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Unknown. Pants owned by a Private Collector. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Unknown.                                     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Unknown.                                     |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown.                                     |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown.                                     |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown. Pants owned by a Private Collector. |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown.                                     |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown.                                     |
 | Waving Flags (Cyberamic)                                     | Unknown            | Unknown.                                     |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | Unknown            | Unknown.                                     |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | Unknown            | Unknown.                                     |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | Unknown            | Unknown.                                     |
-| {{< wiki-link "The King King Kat (Lounge)" >}}         | Unknown            | Unknown.                                     |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | Mid 1990's         | Owned by [}}">CEC1988](%7B%7B%3C%20ref)   |
+| [Applause Board (Cyberamic)]         | Unknown            | Unknown.                                     |
+| [Drum Board (Cyberamic)]             | Unknown            | Unknown.                                     |
+| [Singing Flowers (Cyberamic)]        | Unknown            | Unknown.                                     |
+| [The King King Kat (Lounge)]         | Unknown            | Unknown.                                     |
+| [Wink (Cyberamic)]                   | Mid 1990's         | Owned by [}}">CEC1988](%7B%7B%3C%20ref)   |

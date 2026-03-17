@@ -12,7 +12,7 @@ citations = ["<a href=\"https://www.showbizpizza.com/info/documents/cec/cec_focu
 latitudeLongitude = ["41.52122432","-88.12775883"]
 +++
 
-***1965 W Jefferson St,*** ***Store #94***(1) was a *ShowBiz Pizza Place/Chuck E. Cheese's* that opened on July 13th, 1983 with a Rock-afire Explosion, which got concept unification in 1991/1992 and closed in January 2007 and relocated to the {{< wiki-link "Joliet, IL (3250 Chicagoland Circle)" >}} on January 29th 2007 as Chuck E. Cheese's with a Studio c Beta and is still open with 2.0. The store was attached to Kmart #4095 on the left side of the building.
+***1965 W Jefferson St,*** ***Store #94***(1) was a *ShowBiz Pizza Place/Chuck E. Cheese's* that opened on July 13th, 1983 with a Rock-afire Explosion, which got concept unification in 1991/1992 and closed in January 2007 and relocated to the [Joliet, IL (3250 Chicagoland Circle)] on January 29th 2007 as Chuck E. Cheese's with a Studio c Beta and is still open with 2.0. The store was attached to Kmart #4095 on the left side of the building.
 
 ## Stages
 
@@ -36,15 +36,15 @@ As previously mentioned, the animatronics from Joliet were sent to Mishawaka, IN
 | Chuck E. Cheese / Rolfe DeWolfe                     | 10-82 1-23  | Owned by Doc Ferdifer.                                                                                                                                     |
 | Pasqually the Chef / Dook Larue                     | 10-82 2-23  | Unknown where the bot went after the fire.                                                                                                                 |
 | Mr. Munch / Fatz Geronimo                           | 10-82 3-23  | Unknown where the bot went after the fire.                                                                                                                 |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}  | 10-82 4-23  | Later used at {{< wiki-link "Mishawaka, IN (822 W McKinley Ave)" >}} after the Joliet fire, now Owned by Private Collector after the Mishawaka fire. |
+| [Beach Bear (Animatronic)]  | 10-82 4-23  | Later used at [Mishawaka, IN (822 W McKinley Ave)] after the Joliet fire, now Owned by Private Collector after the Mishawaka fire. |
 | Helen Henny / Mitzi Mozzarella                      | 10-82 5-23  | Owned by a private collector.                                                                                                                              |
 | Billy Bob                                           | 10-82 6-23  | Unknown                                                                                                                                                    |
-| {{< wiki-link "Looney Bird (Animatronic)" >}} | 10-82 7-23  | Unknown                                                                                                                                                    |
+| [Looney Bird (Animatronic)] | 10-82 7-23  | Unknown                                                                                                                                                    |
 | Munch Jr./Choo Choo                                 | 10-82 8-23  | Unknown                                                                                                                                                    |
 | Building/Sun                                        | 10-82 10-23 | Unknown, possibly not sent to Mishawaka                                                                                                                    |
 | Moon                                                | 10-82 11-23 | Unknown, possibly not sent to Mishawaka                                                                                                                    |
 | Antioch                                             | N/A         | Unknown                                                                                                                                                    |
-| {{< wiki-link "Wink" >}}                      | N/A         | Unknown, not sent to Mishawaka                                                                                                                             |
+| [Wink]                      | N/A         | Unknown, not sent to Mishawaka                                                                                                                             |
 
 ## Games
 

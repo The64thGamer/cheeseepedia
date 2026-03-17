@@ -39,14 +39,14 @@ Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. Up a
 - Disney Crossy Road
 - Maze Escape
 - Tight Rope
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Monopoly
-- {{< wiki-link "Pop It for Gold" >}}
+- [Pop It for Gold]
 - Nerf Arcade
 - Water Blast
 - Nitro Trucks
 - Big Bass Wheel Pro
-- {{< wiki-link "Chuck E Hoops" >}}
+- [Chuck E Hoops]
 - Alley Roller Classic
 - 2 Minute Drill
 - Treasure Quest
@@ -89,12 +89,12 @@ Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. Up a
 
 | Animatronic                                                  | Manufacturing Date | Status     |
 |--------------------------------------------------------------|--------------------|------------|
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | N/A                | Destroyed. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | N/A                | Destroyed. |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | N/A                | Destroyed. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | N/A                | Destroyed. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | N/A                | Destroyed. |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | N/A                | Destroyed. |
+| [Chuck E Cheese (Cyberamic)]         | N/A                | Destroyed. |
+| [Guest Star Helen Henny (Cyberamic)] | N/A                | Destroyed. |
+| [Mr Munch (Cyberamic)]               | N/A                | Destroyed. |
+| [Jasper T Jowls (Cyberamic)]         | N/A                | Destroyed. |
+| [Pasqually (Cyberamic)]              | N/A                | Destroyed. |
+| [Wink (Cyberamic)]                   | N/A                | Destroyed. |
 
 ## Videos
 

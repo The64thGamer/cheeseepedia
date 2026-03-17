@@ -12,7 +12,7 @@ tags = ["Locations"]
 categories = ["ShowBiz Pizza Place"]
 +++
 
-***541 W Hwy 436, Store #681*** was a *ShowBiz Pizza Place* located in Altamonte Springs, Florida. It opened in March 1981 and was the fourteenth ShowBiz to ever open (This was also the first ShowBiz to open in the Orlando area &amp; the third to open in Florida following the {{< wiki-link "Jacksonville, FL (9820 Atlantic Blvd)" >}} &amp; Tampa, FL (1707 E Fowler Ave)|Tampa locations).
+***541 W Hwy 436, Store #681*** was a *ShowBiz Pizza Place* located in Altamonte Springs, Florida. It opened in March 1981 and was the fourteenth ShowBiz to ever open (This was also the first ShowBiz to open in the Orlando area &amp; the third to open in Florida following the [Jacksonville, FL (9820 Atlantic Blvd)] &amp; Tampa, FL (1707 E Fowler Ave)|Tampa locations).
 
 ## History
 
@@ -22,30 +22,30 @@ Altamonte Springs opened its doors on March 25th, 1981 with the RockAfire Explos
 
 | Stage                                                                   | Installed     | Removed       |
 |-------------------------------------------------------------------------|---------------|---------------|
-| {{< wiki-link "Classic Stage" >}}                                 | March 1981    | 1990          |
-| {{< wiki-link "Concept Unification Stage" >}}                     | 1990          | 1998          |
-| {{< wiki-link "Studio C Alpha" >}}                                | 1998          | November 2022 |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + Video Wall | November 2022 | Still In Use  |
+| [Classic Stage]                                 | March 1981    | 1990          |
+| [Concept Unification Stage]                     | 1990          | 1998          |
+| [Studio C Alpha]                                | 1998          | November 2022 |
+| [Chuck E Live Stage (Dance Floor)] + Video Wall | November 2022 | Still In Use  |
 
 ## Animatronics
 
 | Animatronic                                                               | Serial Number | Whereabouts |
 |---------------------------------------------------------------------------|---------------|-------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 10-80 1-8     | Destroyed   |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 10-80 2-8     | Destroyed   |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 10-80 3-8     | Destroyed   |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 10-80 4-8     | Destroyed   |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 10-80 5-8     | Destroyed   |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 10-80 6-8     | Destroyed   |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 10-80 7-8     | Destroyed   |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 10-80 8-8     | Destroyed   |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 10-80 10-8    | Destroyed   |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 10-80 11-8    | Destroyed   |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Destroyed   |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Destroyed   |
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}                | 012           | Destroyed   |
-| {{< wiki-link "Bird (Animatronic)" >}}                              | N/A           | Destroyed   |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}                  | N/A           | Destroyed   |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}                       | N/A           | Destroyed   |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-80 1-8     | Destroyed   |
+| [Dook Larue (Animatronic)]                        | 10-80 2-8     | Destroyed   |
+| [Fatz Geronimo (Animatronic)]                     | 10-80 3-8     | Destroyed   |
+| [Beach Bear (Animatronic)]                        | 10-80 4-8     | Destroyed   |
+| [Mitzi Mozzarella (Animatronic)]                  | 10-80 5-8     | Destroyed   |
+| [Billy Bob (Animatronic)]                         | 10-80 6-8     | Destroyed   |
+| [Looney Bird (Animatronic)]                       | 10-80 7-8     | Destroyed   |
+| [Choo Choo (Animatronic)]                         | 10-80 8-8     | Destroyed   |
+| [Sun (Animatronic)]                               | 10-80 10-8    | Destroyed   |
+| [Moon (Animatronic)]                              | 10-80 11-8    | Destroyed   |
+| [Antioch (Animatronic)]                           | N/A           | Destroyed   |
+| [Wink]                                            | N/A           | Destroyed   |
+| [Chuck E Cheese 32m (Animatronic)]                | 012           | Destroyed   |
+| [Bird (Animatronic)]                              | N/A           | Destroyed   |
+| [Pizza Time Clock (Animatronic)]                  | N/A           | Destroyed   |
+| [Pizza Phone (Animatronic)]                       | N/A           | Destroyed   |
 
 (W.I.P)

@@ -1,10 +1,10 @@
-Phase 1 is the first major upgrade for ShowBiz Pizza Time locations that includes a new game package, Kid Check, enhanced prize and merchandise offerings, '{{< wiki-link "Skytubes" >}}', and improved product presentation and service.
-In an informational sheet from a 1998 Storybook Crystal Corporate Gift Set, the document refers to 1994 as the 'Thumb Chuck' era of the company, describing the various attractions and a 'new logo, new exterior package, and total renovation of the interior.' {{< cite 1 >}}
+Phase 1 is the first major upgrade for ShowBiz Pizza Time locations that includes a new game package, Kid Check, enhanced prize and merchandise offerings, '[Skytubes]', and improved product presentation and service.
+In an informational sheet from a 1998 Storybook Crystal Corporate Gift Set, the document refers to 1994 as the 'Thumb Chuck' era of the company, describing the various attractions and a 'new logo, new exterior package, and total renovation of the interior.' [1]
 Correspondence between SPT and its construction partners suggest the name 'Operation Thumb Chuck' while merchandise provided to managers and renovation team members is also suggestive of the same.
 
 ## History
 
-In 1993 the games enhancement initiative was put in the planning phases to bring more tickets into the game rooms and to rework the merchandise areas in existing restaurants. In the spring of 1994, {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}} became the first location to receive the Phase 1 games upgrade.
+In 1993 the games enhancement initiative was put in the planning phases to bring more tickets into the game rooms and to rework the merchandise areas in existing restaurants. In the spring of 1994, [Irving, TX (3903 W Airport Fwy)] became the first location to receive the Phase 1 games upgrade.
 
 ## Phase I
 
@@ -14,9 +14,9 @@ Kid Check is an initiative taken to keep children safer in CEC locations to calm
 
 ### Sky Crawl & Toddler Town
 
-The Sky Crawl is an early concept of the {{< wiki-link "Skytubes" >}}, which were colorful tubes that were paired with the Ball Crawl. These tubes were usually near 'Toddler Town', an earlier concept of the Toddler Zone, an area with a smaller ball crawl, games, and rides suitable for smaller children.
+The Sky Crawl is an early concept of the [Skytubes], which were colorful tubes that were paired with the Ball Crawl. These tubes were usually near 'Toddler Town', an earlier concept of the Toddler Zone, an area with a smaller ball crawl, games, and rides suitable for smaller children.
 
-### Games Package {{< cite 2 >}}
+### Games Package [2]
 
 - [After Shock](https://www.highwaygames.com/arcade-machines/aftershock-and-the-7119/)
 - Chuck E. Cheese's Photo Ride (1993)

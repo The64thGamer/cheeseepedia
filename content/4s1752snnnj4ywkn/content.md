@@ -1,8 +1,8 @@
-The ***Wolfman Showtape*** is a currently lost showtape that played in the first ShowBiz store Kansas City (Antioch), MO (2726 NE Vivion Rd) for the side {{< wiki-link "Wolfman Show" >}} hosted in the Electric Room.
+The ***Wolfman Showtape*** is a currently lost showtape that played in the first ShowBiz store Kansas City (Antioch), MO (2726 NE Vivion Rd) for the side [Wolfman Show] hosted in the Electric Room.
 
 ## Segments
 
-10 segments are confirmed for the tape, but no segment or song names have been cited.{{< cite 1 >}}
+10 segments are confirmed for the tape, but no segment or song names have been cited.[1]
 
 1. **Segment 1**
     1.  ???

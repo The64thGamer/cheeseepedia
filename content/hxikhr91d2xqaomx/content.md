@@ -1,4 +1,4 @@
-The Studio C Dining Marquee is a sign created in 1998 for locations equipped with {{< wiki-link "Studio C" >}} {{< wiki-link "Studio C Alpha" >}} and {{< wiki-link "Studio C Beta" >}}.
+The Studio C Dining Marquee is a sign created in 1998 for locations equipped with [Studio C] [Studio C Alpha] and [Studio C Beta].
 
 ## Appearance
 

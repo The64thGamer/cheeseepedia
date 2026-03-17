@@ -7,7 +7,7 @@ The 1996 set introduced putting wires and cardboard pieces into the plush's legs
 
 ### Prototypes
 
-A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} with some differences in design. For example the size of his eyes are different and have slight differences in printing.
+A prototype of this plush exists in the 1997-1998 Merch Catalog[1] with some differences in design. For example the size of his eyes are different and have slight differences in printing.
 
 #### Prototype Gallery
 
@@ -15,10 +15,10 @@ A prototype of this plush exists in the 1997-1998 Merch Catalog{{< cite 1 >}} wi
 
 This plush was released in a set containing other characters and sizes:
 
-- {{< wiki-link "Large Chuck E Plush (1996)" >}}
-- {{< wiki-link "Large Helen Plush (1996)" >}}
-- {{< wiki-link "Large Jasper Plush (1996)" >}}
-- {{< wiki-link "Large Pasqually Plush (1996)" >}}
+- [Large Chuck E Plush (1996)]
+- [Large Helen Plush (1996)]
+- [Large Jasper Plush (1996)]
+- [Large Pasqually Plush (1996)]
 
 ## Design
 
@@ -27,4 +27,4 @@ Its tag reads as **'Chuck E. Cheese's** © 1996 ShowBiz Pizza Time, Inc. Made in
 
 ### Differences Between Smaller Size
 
-There aren't many differences between this plush and it's {{< wiki-link "Small Munch Plush (1996)" >}} except for the glaring difference in the size of the plastic eyes. The eyes are significantly better looking on this plush compared to it's smaller size.
+There aren't many differences between this plush and it's [Small Munch Plush (1996)] except for the glaring difference in the size of the plastic eyes. The eyes are significantly better looking on this plush compared to it's smaller size.

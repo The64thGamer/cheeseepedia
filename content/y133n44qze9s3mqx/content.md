@@ -1,4 +1,4 @@
-***CEC Summer 1990*** is a showtape released in May 1990 themed to the summertime. It is the first CEC showtape to have been made with three original segments, which would be the standard for showtapes until {{< wiki-link "You're A Star" >}} in September 1993.
+***CEC Summer 1990*** is a showtape released in May 1990 themed to the summertime. It is the first CEC showtape to have been made with three original segments, which would be the standard for showtapes until [You're A Star] in September 1993.
 
 ## SVHS Show List:
 
@@ -86,11 +86,11 @@
 5. **Special 3**
     1.  Beach Boys Birthday
 6. **Special 4**
-    1.  {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}}
+    1.  [Birthday Extravaganza (Chuck E. Cheese Branded)]
 7. **Special 5**
-    1.  {{< wiki-link "Chuck E. Cheese Live" >}}
+    1.  [Chuck E. Cheese Live]
 8. **Special 6**
-    1.  {{< wiki-link "Birthday Extravaganza (ShowBiz Branded)" >}}
+    1.  [Birthday Extravaganza (ShowBiz Branded)]
 9. **Segment 3**
     1.  [Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini](https://en.wikipedia.org/wiki/Itsy_Bitsy_Teenie_Weenie_Yellow_Polkadot_Bikini)
     2.  Wild Fashions Skit

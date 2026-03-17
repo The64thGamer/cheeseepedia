@@ -2,7 +2,7 @@
 
 ## Changes
 
-The tape is a recut of {{< wiki-link "New Years Eve Countdown '82'" >}}, which includes dialogue changes to remove references to the exact year, alongside removal of any audience noises.{{< cite 1 >}}
+The tape is a recut of [New Years Eve Countdown '82'], which includes dialogue changes to remove references to the exact year, alongside removal of any audience noises.[1]
 
 ## Show List
 

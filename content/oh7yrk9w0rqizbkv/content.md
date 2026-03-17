@@ -1,4 +1,4 @@
-**CEC Roadshow January 2002** was a Road Show CD released alongside the {{< wiki-link "January 2002 Show" >}} which featured eight {{< wiki-link "Road Shows" >}}.
+**CEC Roadshow January 2002** was a Road Show CD released alongside the [January 2002 Show] which featured eight [Road Shows].
 
 ## Track List:
 

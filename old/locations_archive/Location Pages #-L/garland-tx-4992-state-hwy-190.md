@@ -12,15 +12,15 @@ citations = ["<a href=\"https://www.youtube.com/watch?v=d1kw1RmzrP\">https://www
 latitudeLongitude = ["32.8302751","-96.7059039"]
 +++
 
-***4992 State Hwy 190, Store #584*** is a *Chuck E. Cheese's* location running from November 15, 2006, to current day. This store is the relocation of {{< wiki-link "Richardson, TX (1235 E Belt Line Rd)" >}} which opened as a *ShowBiz Pizza Place* with a {{< wiki-link "Classic Stage" >}} and closed as a *Chuck E. Cheese's* with a {{< wiki-link "Concept Unification Stage" >}} earlier in the month.
+***4992 State Hwy 190, Store #584*** is a *Chuck E. Cheese's* location running from November 15, 2006, to current day. This store is the relocation of [Richardson, TX (1235 E Belt Line Rd)] which opened as a *ShowBiz Pizza Place* with a [Classic Stage] and closed as a *Chuck E. Cheese's* with a [Concept Unification Stage] earlier in the month.
 
 ## Stages
 
-When the store opened, they had a Studio C Beta, 16m which they still have to this day. When they opened, the store's {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} had the Cool Chuck outfit with the Shirt, Khaki Shorts, and Red Cap. In around the Early-Mid 2010's, Garland replaced Chuck's outfit with the Avenger outfit. In 2013, Chuck's cap was removed. In the Mid 2010's, Chuck's Avenger shorts were replaced with the Rockstar Jeans. This the last of two Garland locations to have an animatronic show.
+When the store opened, they had a Studio C Beta, 16m which they still have to this day. When they opened, the store's [Chuck E Cheese 16m (Animatronic)] had the Cool Chuck outfit with the Shirt, Khaki Shorts, and Red Cap. In around the Early-Mid 2010's, Garland replaced Chuck's outfit with the Avenger outfit. In 2013, Chuck's cap was removed. In the Mid 2010's, Chuck's Avenger shorts were replaced with the Rockstar Jeans. This the last of two Garland locations to have an animatronic show.
 
 ## History
 
-The Garland TX location on State Hwy 190 opened on November 15th, 2006 as a relocation to the Richardson location 15 minutes away. They opened with a Studio C Beta, 16m &amp; the 2005 Remodel. In around 2014-2015, they remodeled to have an Open Kitchen alongside the {{< wiki-link "Dallas, TX (13364 Montfort Dr)" >}} location. In around 2017, they remodeled the exterior to a 2.0 Exterior (Without remodeling the interior). As of February 2023, Garland still has the 2005 Remodel, 2.0 Exterior, &amp; Studio C Beta 16m.
+The Garland TX location on State Hwy 190 opened on November 15th, 2006 as a relocation to the Richardson location 15 minutes away. They opened with a Studio C Beta, 16m &amp; the 2005 Remodel. In around 2014-2015, they remodeled to have an Open Kitchen alongside the [Dallas, TX (13364 Montfort Dr)] location. In around 2017, they remodeled the exterior to a 2.0 Exterior (Without remodeling the interior). As of February 2023, Garland still has the 2005 Remodel, 2.0 Exterior, &amp; Studio C Beta 16m.
 
 ## Infamous Photo
 
@@ -30,7 +30,7 @@ A popular photo was taken of the restaurant that was used heavily in media to po
 
 | Link                                                   | Description                                                                                                                       | Footage Date  | Published Date   |
 |--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------|------------------|
-| [YouTube](https://www.youtube.com/watch?v=1CC9aTZtZTo) | 'I Didn't Need to be Afraid' from {{< wiki-link "Chuck E Cheese's Show 6 2018" >}} being performed on Garland's Beta.       | October 2020  | October 11, 2020 |
-| [YouTube](https://www.youtube.com/watch?v=DUlwZkfVvIE) | 'Just Be Yourself' from {{< wiki-link "Chuck E Cheese's Show 4 2019" >}} being performed on Garland's Beta.                 | October 2020  | October 11, 2020 |
-| [YouTube](https://youtu.be/GVOK4hMill4)                | Footage of the store, the arcade machines, and the Studio C bot performing {{< wiki-link "Chuck E Cheese's Show 3 2021" >}} | June 25, 2021 | August 2, 2021   |
-| [YouTube](https://www.youtube.com/watch?v=KIOvbJTSnFE) | 'Dog Days of Summer' from {{< wiki-link "Chuck E Cheese's Show 3 2021" >}} being performed on Garland's Beta.               | June 29, 2022 | July 14, 2022    |
+| [YouTube](https://www.youtube.com/watch?v=1CC9aTZtZTo) | 'I Didn't Need to be Afraid' from [Chuck E Cheese's Show 6 2018] being performed on Garland's Beta.       | October 2020  | October 11, 2020 |
+| [YouTube](https://www.youtube.com/watch?v=DUlwZkfVvIE) | 'Just Be Yourself' from [Chuck E Cheese's Show 4 2019] being performed on Garland's Beta.                 | October 2020  | October 11, 2020 |
+| [YouTube](https://youtu.be/GVOK4hMill4)                | Footage of the store, the arcade machines, and the Studio C bot performing [Chuck E Cheese's Show 3 2021] | June 25, 2021 | August 2, 2021   |
+| [YouTube](https://www.youtube.com/watch?v=KIOvbJTSnFE) | 'Dog Days of Summer' from [Chuck E Cheese's Show 3 2021] being performed on Garland's Beta.               | June 29, 2022 | July 14, 2022    |

@@ -41,13 +41,13 @@ It happened around the Late 90's when they removed old decor and added new decor
 | Character                                                    | Serial  | Status                        |
 |--------------------------------------------------------------|---------|-------------------------------|
 | Chuck E Cheese (Cyberamic)                                   | Unknown | Owned by a Private Collector. |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown | Unknown/Destroyed.            |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown | Owned by a Private Collector. |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown | Unknown/Destroyed             |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown | Owned by a Private Collector. |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | N/A     | Unknown/Destroyed             |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown | Unknown/Destroyed.            |
+| [Mr Munch (Cyberamic)]               | Unknown | Owned by a Private Collector. |
+| [Jasper T Jowls (Cyberamic)]         | Unknown | Unknown/Destroyed             |
+| [Pasqually (Cyberamic)]              | Unknown | Owned by a Private Collector. |
+| [Warblettes (Cyberamic)]             | N/A     | Unknown/Destroyed             |
 | Waving Flags (Cyberamic)                                     | N/A     | Unknown/Destroyed             |
-| {{< wiki-link "Applause Board (Cyberamic)" >}}         | N/A     | Unknown/Destroyed             |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}             | N/A     | Unknown/Destroyed             |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | N/A     | Unknown/Destroyed             |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | N/A     | Owned by a Private Collector. |
+| [Applause Board (Cyberamic)]         | N/A     | Unknown/Destroyed             |
+| [Drum Board (Cyberamic)]             | N/A     | Unknown/Destroyed             |
+| [Singing Flowers (Cyberamic)]        | N/A     | Unknown/Destroyed             |
+| [Wink (Cyberamic)]                   | N/A     | Owned by a Private Collector. |

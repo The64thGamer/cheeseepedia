@@ -1,4 +1,4 @@
-**Holiday Show 2013** is a revised version of the {{< wiki-link "December 2012 Show" >}} for the 2013 holiday season.
+**Holiday Show 2013** is a revised version of the [December 2012 Show] for the 2013 holiday season.
 
 ## Show List:
 
@@ -66,5 +66,5 @@
 
 ## Trivia:
 - This was the final show to feature 'Cupid Shuffle'. Footage featuring the Chuck E. walkaround was edited back in for the Existing Stage version after being removed with the Rockstar re-edit. Studio C stores would use a different edit without the walkaround.
-- Ken Chuck E. Derby and Larry The Technician are reused from {{< wiki-link "Holiday 2002" >}}, and 'The Bells of Fraggle Rock' is reused from {{< wiki-link "Happy Holidays 2011" >}}. 
+- Ken Chuck E. Derby and Larry The Technician are reused from [Holiday 2002], and 'The Bells of Fraggle Rock' is reused from [Happy Holidays 2011]. 
 - The hidden timecode video on the Studio C DVD for this show is a clip from Sesame Street with the text *'Merry Christmas Michael! Thanks for all that you do.'*

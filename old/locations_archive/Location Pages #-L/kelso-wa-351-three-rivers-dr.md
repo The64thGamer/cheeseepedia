@@ -16,7 +16,7 @@ latitudeLongitude = ["46.13843542","-122.9018667"]
 
 ## History
 
-On December 22nd, 2004, Chuck E. Cheese's made its grand opening in the Three Rivers Mall, likely taking up the space of several smaller businesses in the area. This store opened with the 1998 exterior sign and text, likely having the {{< wiki-link "Phase 3 (2000)" >}} game package, which is what the 2004 stores all had at the time. This store opened with the new at the time Small-Town Studio C stage, with a 16 movement Chuck E. Cheese animatronic on the stage. This stage would be used until the store closed. Sometime in the mid-late 2000s, date unknown, they would receive the {{< wiki-link "CEC 2000's Remodel Program" >}}, which would replace the 1990s decor with modernized artwork, and new exterior signage. They would never remodel after that. For unknown reasons, on April 6th, 2014, this store closed permanently and was vacated. The 16m Chuck E. Cheese animatronic was sent to the {{< wiki-link "Tucson, AZ (6125 E Speedway Blvd)" >}} location, which was about to open at the time. The fate of all other items is unknown, but all extra items are presumed destroyed.
+On December 22nd, 2004, Chuck E. Cheese's made its grand opening in the Three Rivers Mall, likely taking up the space of several smaller businesses in the area. This store opened with the 1998 exterior sign and text, likely having the [Phase 3 (2000)] game package, which is what the 2004 stores all had at the time. This store opened with the new at the time Small-Town Studio C stage, with a 16 movement Chuck E. Cheese animatronic on the stage. This stage would be used until the store closed. Sometime in the mid-late 2000s, date unknown, they would receive the [CEC 2000's Remodel Program], which would replace the 1990s decor with modernized artwork, and new exterior signage. They would never remodel after that. For unknown reasons, on April 6th, 2014, this store closed permanently and was vacated. The 16m Chuck E. Cheese animatronic was sent to the [Tucson, AZ (6125 E Speedway Blvd)] location, which was about to open at the time. The fate of all other items is unknown, but all extra items are presumed destroyed.
 
 ## Stages
 
@@ -28,6 +28,6 @@ On December 22nd, 2004, Chuck E. Cheese's made its grand opening in the Three Ri
 
 | Animatronic                                                | Serial Number | Whereabouts                                                                         |
 |------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A           | Sent to {{< wiki-link "Tucson, AZ (6125 E Speedway Blvd)" >}}, now destroyed. |
+| [Chuck E Cheese 16m (Animatronic)] | N/A           | Sent to [Tucson, AZ (6125 E Speedway Blvd)], now destroyed. |
 
 TODO

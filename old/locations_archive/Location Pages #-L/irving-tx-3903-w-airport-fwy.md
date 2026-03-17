@@ -12,22 +12,22 @@ citations = []
 latitudeLongitude = ["32.83640352","-97.00265133"]
 +++
 
-***Irving, TX (3903 W Airport Fwy), Store #81*** is a *Chuck E. Cheese's* that opened in 1988 under the name ShowBiz Pizza with {{< wiki-link "Chuck E's House" >}}. This location is featured in training material, advertisements, and is one of the several test sites for new attractions. The interior shots for Chuck E. Cheese in the Galaxy 5000 and Closing Time intermission were also filmed at this location.
+***Irving, TX (3903 W Airport Fwy), Store #81*** is a *Chuck E. Cheese's* that opened in 1988 under the name ShowBiz Pizza with [Chuck E's House]. This location is featured in training material, advertisements, and is one of the several test sites for new attractions. The interior shots for Chuck E. Cheese in the Galaxy 5000 and Closing Time intermission were also filmed at this location.
 
 ## Stages
 
-Their Chuck E.'s House lasted up to early 1994, when it would be replaced for the first finalized {{< wiki-link "1-Stage" >}}. This 1-Stage in particular had special outfits for Jasper and Helen but would be removed before 2006. As time went on, the show started to show its age, and started to become broken and beyond disrepair. In 2019 the 1-Stage is removed, and the animatronics are used for parts and stored at the {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}. The Showroom relocated into the skills area and the skills area is moved to where the Showroom originally was. In 2021 they updated their Showroom to include the Video wall and recently replaced dance floor.
+Their Chuck E.'s House lasted up to early 1994, when it would be replaced for the first finalized [1-Stage]. This 1-Stage in particular had special outfits for Jasper and Helen but would be removed before 2006. As time went on, the show started to show its age, and started to become broken and beyond disrepair. In 2019 the 1-Stage is removed, and the animatronics are used for parts and stored at the [Arlington, TX (2216 S Fielder Rd)]. The Showroom relocated into the skills area and the skills area is moved to where the Showroom originally was. In 2021 they updated their Showroom to include the Video wall and recently replaced dance floor.
 
 | Stage                                     | Installed     | Removed               |
 |-------------------------------------------|---------------|-----------------------|
-| {{< wiki-link "Chuck E's House" >}} | 1988          | Early 1994            |
-| {{< wiki-link "1-Stage" >}}         | 1994          | October-November 2019 |
+| [Chuck E's House] | 1988          | Early 1994            |
+| [1-Stage]         | 1994          | October-November 2019 |
 | Dance Floor                               | November 2019 | Still in use.         |
 | Video Wall                                | 2021          | Still in use.         |
 
 ## History
 
-***3903 W Airport Fwy, Irving, TX*** opened as a ShowBiz Pizza on September 27, 1988. In 1991 and 1994, they filmed a collection of training tapes for employees. 1994 is also the year this location remodeled for the first time and received {{< wiki-link "Phase 1 (1994)" >}} and the {{< wiki-link "1-Stage" >}} show concept. Between 1997 and 2000 they expand the skills area for more games and seating. In 2004 they received an early version of the 'Cool Chuck' remodel. Shortly after in 2006 they tested the 'Token Card' and 'Chuck E-Tickets' system, an alternative way to play games. This would be the predecessor to the Play-Pass and E-Tickets, that would utilize the same concepts as before. On July 21st, 2006, Cheesevention III would be hosted at the location, along with the now closed {{< wiki-link "Richardson, TX (1235 E Belt Line Rd)" >}} location. This location got the prototype {{< wiki-link "Ticket Blaster" >}} in 2008, because of its positive reception it was replaced with a finalized version in 2009. Then In 2010, the original street sign was replaced and bought closer towards to building. Around this time, they would also majorly downsize their {{< wiki-link "Skytubes" >}} to fit in a smaller area. On July 23rd, 2011, Cheesevention 8 would be hosted at the location as well. In 2015 the location received its third remodel, receiving new art, multicolored walls, and a refurbished exterior. Accompanying this was a short-lived area called 'Chuck E. Cheese's Spectacular Boardwalk', a small area that had Milk Jug Toss, 'Gold Fishin', and 'Down the Clown'. This would be its shortest-lived remodel because in 2019 they would remodel into the new '2.0' design then would finally be featured in advertisements from that point forward. The store would then remodel again by the Summer of 2021 to relocate the showroom in favor of installing a {{< wiki-link "Video Wall" >}} to be used for filming Live Shows up until around early 2023.
+***3903 W Airport Fwy, Irving, TX*** opened as a ShowBiz Pizza on September 27, 1988. In 1991 and 1994, they filmed a collection of training tapes for employees. 1994 is also the year this location remodeled for the first time and received [Phase 1 (1994)] and the [1-Stage] show concept. Between 1997 and 2000 they expand the skills area for more games and seating. In 2004 they received an early version of the 'Cool Chuck' remodel. Shortly after in 2006 they tested the 'Token Card' and 'Chuck E-Tickets' system, an alternative way to play games. This would be the predecessor to the Play-Pass and E-Tickets, that would utilize the same concepts as before. On July 21st, 2006, Cheesevention III would be hosted at the location, along with the now closed [Richardson, TX (1235 E Belt Line Rd)] location. This location got the prototype [Ticket Blaster] in 2008, because of its positive reception it was replaced with a finalized version in 2009. Then In 2010, the original street sign was replaced and bought closer towards to building. Around this time, they would also majorly downsize their [Skytubes] to fit in a smaller area. On July 23rd, 2011, Cheesevention 8 would be hosted at the location as well. In 2015 the location received its third remodel, receiving new art, multicolored walls, and a refurbished exterior. Accompanying this was a short-lived area called 'Chuck E. Cheese's Spectacular Boardwalk', a small area that had Milk Jug Toss, 'Gold Fishin', and 'Down the Clown'. This would be its shortest-lived remodel because in 2019 they would remodel into the new '2.0' design then would finally be featured in advertisements from that point forward. The store would then remodel again by the Summer of 2021 to relocate the showroom in favor of installing a [Video Wall] to be used for filming Live Shows up until around early 2023.
 
 ## Videos
 
@@ -57,10 +57,10 @@ Their Chuck E.'s House lasted up to early 1994, when it would be replaced for th
 | Animatronic                                                  | Manufacturing Date | Whereabouts                |
 |--------------------------------------------------------------|--------------------|----------------------------|
 | Chuck E Cheese (Cyberamic)                                   | 1980s?             | Owned by private collector |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1980s?             | Owned by private collector |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1980s?             | Owned by private collector |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1980s?             | Owned by private collector |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1980s?             | Owned by private collector |
-| {{< wiki-link "Birds (Animatronic)" >}}                | N/A                | Unknown                    |
-| {{< wiki-link "Singing Flowers (Cyberamic)" >}}        | N/A                | Unknown                    |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | N/A                | Unknown                    |
+| [Guest Star Helen Henny (Cyberamic)] | 1980s?             | Owned by private collector |
+| [Mr Munch (Cyberamic)]               | 1980s?             | Owned by private collector |
+| [Jasper T Jowls (Cyberamic)]         | 1980s?             | Owned by private collector |
+| [Pasqually (Cyberamic)]              | 1980s?             | Owned by private collector |
+| [Birds (Animatronic)]                | N/A                | Unknown                    |
+| [Singing Flowers (Cyberamic)]        | N/A                | Unknown                    |
+| [Wink (Cyberamic)]                   | N/A                | Unknown                    |

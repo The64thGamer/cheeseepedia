@@ -1,4 +1,4 @@
-***SPP Circus - Monkees* was a continuation of the prior {{< wiki-link "Circus Tape" >}} played in ShowBiz Pizza Places, removing the track Tears of a Clown and replacing it with the Monkees Medley.**
+***SPP Circus - Monkees* was a continuation of the prior [Circus Tape] played in ShowBiz Pizza Places, removing the track Tears of a Clown and replacing it with the Monkees Medley.**
 
 ## Show List
 

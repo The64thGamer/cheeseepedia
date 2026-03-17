@@ -1,4 +1,4 @@
-Birthday Star '95 was a birthday show produced exclusively for Chuck E. Cheese's Pizza restaurants in April 1995. It is the second edition of the long-running Birthday Star show and succeeded {{< wiki-link "Birthday Star '92" >}}. The show was produced by Disney-MGM Studios, which ShowBiz Pizza Time Inc. had outsourced showtape production to in 1994, and uses the then-current voice acting and instrumentation featured in the shows they produced. This was the first birthday show produced from the ground up to be a live show, and some elements of the show reflect that. Upon its release in January 1995, it was produced on a videocassette separate from the main showtape usually paired up with whatever live show was currently valid. The two shows would be separated by a 'birthday break', a short intermission designed to give the walk-around performer(s) a rest between performances.  The tape would also see releases on LaserDisc for the {{< wiki-link "Awesome Adventure Machine" >}} and {{< wiki-link "Studio C Alpha" >}}. The show would remain valid under several forms through December 2000, when it was succeeded by Birthday Star 2001, though it could be played through other valid live shows it was included on through December 2001.
+Birthday Star '95 was a birthday show produced exclusively for Chuck E. Cheese's Pizza restaurants in April 1995. It is the second edition of the long-running Birthday Star show and succeeded [Birthday Star '92]. The show was produced by Disney-MGM Studios, which ShowBiz Pizza Time Inc. had outsourced showtape production to in 1994, and uses the then-current voice acting and instrumentation featured in the shows they produced. This was the first birthday show produced from the ground up to be a live show, and some elements of the show reflect that. Upon its release in January 1995, it was produced on a videocassette separate from the main showtape usually paired up with whatever live show was currently valid. The two shows would be separated by a 'birthday break', a short intermission designed to give the walk-around performer(s) a rest between performances.  The tape would also see releases on LaserDisc for the [Awesome Adventure Machine] and [Studio C Alpha]. The show would remain valid under several forms through December 2000, when it was succeeded by Birthday Star 2001, though it could be played through other valid live shows it was included on through December 2001.
 
 ## Summary
 
@@ -17,26 +17,26 @@ Birthday Star '95 is radically different in style and tone compared to its prede
 
 ## Showtape Release
 
-Birthday Star '95 was released in January 1995 alongside the {{< wiki-link "January 1995" >}} show. It was initially released on Cyberstar SVHS tapes for the three supported stage types in stores at the time: 3-Stage, C&R (C-Stage and Rocker Stage), and R12 (Road Stage, 1-Stage and 2-Stage). It would remain this way until August 1996, when the {{< wiki-link "Awesome Adventure Machine" >}} made its debut at the {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}}. Unlike all of the existing stage types in stores at the time, the AAM utilized LaserDiscs to play the show video, and the birthday show was released on LaserDisc alongside the three showtapes that supported it. The show would be released on LaserDisc again with the debut of {{< wiki-link "Studio C Alpha" >}} at the {{< wiki-link "Brookfield, WI (19125 W Blue Mound Rd)" >}} location on December 17th, 1997, and would be rolled out to additional locations on the format as Studio C began its first wave of nationwide installations in 1998. Beginning with the September 1998 show, Birthday Star '95 would be reissued as {{< wiki-link "Birthday Star '98" >}}, which omitted the Mr. Mouth pre-show among other minor changes. Birthday Star '95 would remain valid on Studio C until the transition from LaserDisc to DVD was completed in August 1999.
+Birthday Star '95 was released in January 1995 alongside the [January 1995] show. It was initially released on Cyberstar SVHS tapes for the three supported stage types in stores at the time: 3-Stage, C&R (C-Stage and Rocker Stage), and R12 (Road Stage, 1-Stage and 2-Stage). It would remain this way until August 1996, when the [Awesome Adventure Machine] made its debut at the [Dallas, TX (13125 Montfort Dr)]. Unlike all of the existing stage types in stores at the time, the AAM utilized LaserDiscs to play the show video, and the birthday show was released on LaserDisc alongside the three showtapes that supported it. The show would be released on LaserDisc again with the debut of [Studio C Alpha] at the [Brookfield, WI (19125 W Blue Mound Rd)] location on December 17th, 1997, and would be rolled out to additional locations on the format as Studio C began its first wave of nationwide installations in 1998. Beginning with the September 1998 show, Birthday Star '95 would be reissued as [Birthday Star '98], which omitted the Mr. Mouth pre-show among other minor changes. Birthday Star '95 would remain valid on Studio C until the transition from LaserDisc to DVD was completed in August 1999.
 
 ## Showtape Releases:
 
 | Release Year | Showtape                                                  | Format                                               |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
-| 1995         | {{< wiki-link "Shout" >}}                                 | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1995         | {{< wiki-link "Hokey Pokey (Brave Combo)" >}}             | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1995         | {{< wiki-link "Run Run Rudolph" >}}                       | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1996         | {{< wiki-link "Chuck E.'s Fiesta Mexicana" >}}            | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1996         | {{< wiki-link "Chuck E. Says" >}}                         | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1996         | {{< wiki-link "August 1996 Show (AAM)" >}}                | AAM 2X Laserdisc + Files |
-| 1996         | {{< wiki-link "Strike It Up" >}}                          | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1997         | {{< wiki-link "Macarena" >}}                              | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1997         | {{< wiki-link "Chuck E. Cheese's 20th Anniversary (AAM)" >}}  | AAM 2X Laserdisc + Files |
-| 1997         | {{< wiki-link "Get Ready" >}}                             | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1997         | {{< wiki-link "August 1997 Show (AAM)" >}}                | AAM 2X Laserdisc + Files |
-| 1997         | {{< wiki-link "The Twist" >}}                             | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1997         | {{< wiki-link "Studio C Premiere" >}}                     | Studio C 4X Laserdisc + Files |
-| 1998         | {{< wiki-link "YMCA 1998" >}}                             | R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
-| 1998         | {{< wiki-link "September 1998" >}}                        | Studio C 4X Laserdisc + Files |
-| 1999         | {{< wiki-link "January 1999" >}}                          | Studio C 4X Laserdisc + Files |
-| 1999         | {{< wiki-link "April 1999" >}}                            | Studio C 4X Laserdisc + Files |
+| 1995         | [Shout]                                 | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1995         | [Hokey Pokey (Brave Combo)]             | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1995         | [Run Run Rudolph]                       | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1996         | [Chuck E.'s Fiesta Mexicana]            | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1996         | [Chuck E. Says]                         | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1996         | [August 1996 Show (AAM)]                | AAM 2X Laserdisc + Files |
+| 1996         | [Strike It Up]                          | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1997         | [Macarena]                              | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1997         | [Chuck E. Cheese's 20th Anniversary (AAM)]  | AAM 2X Laserdisc + Files |
+| 1997         | [Get Ready]                             | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1997         | [August 1997 Show (AAM)]                | AAM 2X Laserdisc + Files |
+| 1997         | [The Twist]                             | C&R SVHS (Post-93), R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1997         | [Studio C Premiere]                     | Studio C 4X Laserdisc + Files |
+| 1998         | [YMCA 1998]                             | R12 SVHS (Post-93), 3-Stage SVHS (Post-93) |
+| 1998         | [September 1998]                        | Studio C 4X Laserdisc + Files |
+| 1999         | [January 1999]                          | Studio C 4X Laserdisc + Files |
+| 1999         | [April 1999]                            | Studio C 4X Laserdisc + Files |

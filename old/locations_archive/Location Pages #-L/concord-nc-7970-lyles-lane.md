@@ -26,14 +26,14 @@ Originally when the store opened, they had a Studio C Beta. They got the 2.0 Rem
 | Stage                                                                                             | Installed   | Removed      | Notes                                                                                                |
 |---------------------------------------------------------------------------------------------------|-------------|--------------|------------------------------------------------------------------------------------------------------|
 | Studio C Beta, 32m                                                                                | August 2001 | March 2023   | One of 3 installed in North Carolina (4 in the Carolinas) (One of 2 32m installations in the state). |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | March 2023  | Still in Use | 2021 Model. First 2.0 remodel in Charlotte NC area.                                                  |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | March 2023  | Still in Use | 2021 Model. First 2.0 remodel in Charlotte NC area.                                                  |
 
 ## Animatronics
 
 | Animatronic                                                | Serial Number | Whereabouts                                      |
 |------------------------------------------------------------|---------------|--------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 148           | Destroyed, Remains owned by a Private Collector. |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A           | Destroyed, Remains owned by a Private Collector. |
+| [Chuck E Cheese 32m (Animatronic)] | 148           | Destroyed, Remains owned by a Private Collector. |
+| [Pizza Time Clock (Animatronic)]   | N/A           | Destroyed, Remains owned by a Private Collector. |
 
 ## YouTube Videos
 

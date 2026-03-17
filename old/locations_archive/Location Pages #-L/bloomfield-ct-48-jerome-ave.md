@@ -12,7 +12,7 @@ citations = []
 latitudeLongitude = ["41.82892767","-72.73536038"]
 +++
 
-***48 Jerome Ave*** was a {{< wiki-link "Pizza Time Theatre" >}} that opened in August 1983 and closed in August 1984 with a Balcony Stage. This location is known for becoming ***Banjoe's Family Pizza Playhouse***, which operated 1984/1985 until July 1987.
+***48 Jerome Ave*** was a [Pizza Time Theatre] that opened in August 1983 and closed in August 1984 with a Balcony Stage. This location is known for becoming ***Banjoe's Family Pizza Playhouse***, which operated 1984/1985 until July 1987.
 
 ## Stages
 
@@ -20,7 +20,7 @@ Bloomfield opened with a Balcony Stage, which the store would have until its 198
 
 | Stage                                              | Installed   | Removed     | Notes                                                            |
 |----------------------------------------------------|-------------|-------------|------------------------------------------------------------------|
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | August 1983 | August 1984 | 5th Chuck E. Cheese's location in Connecticut.                   |
+| [Cyberamics Balcony Stage] | August 1983 | August 1984 | 5th Chuck E. Cheese's location in Connecticut.                   |
 | Retrofitted Balcony                                | 1984/1985   | July 1987   | Retrofitted during it's time as Banjoe's Family Pizza Playhouse. |
 
 ## History
@@ -31,7 +31,7 @@ Before its time as a Pizza Time Theatre, there was a 2-screen movie theatre in i
 
 ### Pizza Time Theatre (1983-84)
 
-The Pizza Time Theatre in Bloomfield opened in August 1983 as the fifth location in Connecticut. Little is known about this store, as no photos or videos have been found of it during its time as a PTT. The store would permanently close in August 1984 after only one year in operation, due to the company's bankruptcy of the same year. This was the only 2 store's in the state to be at auction along with {{< wiki-link "Waterbury, CT (983 Wolcott St)" >}}.
+The Pizza Time Theatre in Bloomfield opened in August 1983 as the fifth location in Connecticut. Little is known about this store, as no photos or videos have been found of it during its time as a PTT. The store would permanently close in August 1984 after only one year in operation, due to the company's bankruptcy of the same year. This was the only 2 store's in the state to be at auction along with [Waterbury, CT (983 Wolcott St)].
 
 ### Banjoe's Family Pizza Playhouse (1984-87)
 
@@ -45,15 +45,15 @@ The building would remain vacant again for a few years until it became a bank. T
 
 | Animatronics                                                                | Manufacturing Date | Status                                      |
 |-----------------------------------------------------------------------------|--------------------|---------------------------------------------|
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}} (Ted E. Bear)          | 1983               | Unknown                                     |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} (Polly Parton) | 1983               | Unknown                                     |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}} (Corporal Crunch)            | 1983               | Unknown                                     |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}} (Banjoe)               | 1983               | Unknown                                     |
-| {{< wiki-link "Pasqually (Cyberamic)" >}} (Sergeant Pepperoni)        | 1983               | Unknown                                     |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}                            | 1983               | Owned by the American Treasure Tour Museum. |
+| [Chuck E Cheese (Cyberamic)] (Ted E. Bear)          | 1983               | Unknown                                     |
+| [Guest Star Helen Henny (Cyberamic)] (Polly Parton) | 1983               | Unknown                                     |
+| [Mr Munch (Cyberamic)] (Corporal Crunch)            | 1983               | Unknown                                     |
+| [Jasper T Jowls (Cyberamic)] (Banjoe)               | 1983               | Unknown                                     |
+| [Pasqually (Cyberamic)] (Sergeant Pepperoni)        | 1983               | Unknown                                     |
+| [Warblettes (Cyberamic)]                            | 1983               | Owned by the American Treasure Tour Museum. |
 | Clapper Board (Cyberamic)                                                   | 1983               | Unknown                                     |
-| {{< wiki-link "Drum Board (Cyberamic)" >}}                            | 1983               | Unknown                                     |
-| {{< wiki-link "Flag Wavers (Cyberamic)" >}}                           | 1983               | Unknown                                     |
+| [Drum Board (Cyberamic)]                            | 1983               | Unknown                                     |
+| [Flag Wavers (Cyberamic)]                           | 1983               | Unknown                                     |
 
 ## Videos
 

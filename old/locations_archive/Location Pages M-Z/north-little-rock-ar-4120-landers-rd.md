@@ -20,13 +20,13 @@ Originally when the store opened, they had a Rock-afire Explosion, as all other 
 
 | Stage                                                      | Installed    | Removed      | Notes                                                                        |
 |------------------------------------------------------------|--------------|--------------|------------------------------------------------------------------------------|
-| {{< wiki-link "Classic Stage" >}}                    | October 1983 | 1991-1992    | 3rd ShowBiz store to open in Arkansas.                                       |
-| {{< wiki-link "Concept Unification Stage" >}}        | 1991-1992    | August 2019  | All four ShowBiz locations in Arkansas got Concept Unification.              |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | August 2019  | Still In Use | 2019 Model. Second 2.0 in Arkansas, Last MMBB Stage of any kind in Arkansas. |
+| [Classic Stage]                    | October 1983 | 1991-1992    | 3rd ShowBiz store to open in Arkansas.                                       |
+| [Concept Unification Stage]        | 1991-1992    | August 2019  | All four ShowBiz locations in Arkansas got Concept Unification.              |
+| [Chuck E Live Stage (Dance Floor)] | August 2019  | Still In Use | 2019 Model. Second 2.0 in Arkansas, Last MMBB Stage of any kind in Arkansas. |
 
 ## History
 
-North Little Rock opened on October 27, 1983. North Little Rock would originally feature the Rock-afire Explosion from when it first opened until 1991-1992, when they would convert to a 3-Stage. They would then remodel to an update of the 1994 SPT Repositioning / Remodel Program sometime in the mid 90's, They would have it for a bit adding Skytubes later on. The store was acquired by Corporate alongside {{< wiki-link "Little Rock, AR (10901 N Rodney Parham Road 303)" >}} on January 30th, 1998. Then they got remodeled to the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in 2006-2007, which they would still have until August 2019, when they got the 2017 2.0 Remodel Program|2.0 Remodel which involved removing the 3-Stage for a 2019 Model {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}}. As of May 2023, North Little Rock still has the 2019 model Dance Floor and the 2.0 Remodel.
+North Little Rock opened on October 27, 1983. North Little Rock would originally feature the Rock-afire Explosion from when it first opened until 1991-1992, when they would convert to a 3-Stage. They would then remodel to an update of the 1994 SPT Repositioning / Remodel Program sometime in the mid 90's, They would have it for a bit adding Skytubes later on. The store was acquired by Corporate alongside [Little Rock, AR (10901 N Rodney Parham Road 303)] on January 30th, 1998. Then they got remodeled to the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in 2006-2007, which they would still have until August 2019, when they got the 2017 2.0 Remodel Program|2.0 Remodel which involved removing the 3-Stage for a 2019 Model [Chuck E Live Stage (Dance Floor)]. As of May 2023, North Little Rock still has the 2019 model Dance Floor and the 2.0 Remodel.
 
 ### Armed Robbery
 

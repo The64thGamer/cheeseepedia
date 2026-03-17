@@ -72,8 +72,8 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 ## Trivia
 
-- All of the countdowns in this show are reused. Countdowns 1, 2, 5, and 6 are from {{< wiki-link "CEC TV April 2005 Show" >}}. Countdowns 3 and 4 are from {{< wiki-link "January 2005 Show" >}}. Countdown 7 is from {{< wiki-link "Summer 2004 Show" >}}.
-- The Coke Spot is reused from {{< wiki-link "September 2004" >}}.
-- Charlie Rockit - 'Sports' is reused from {{< wiki-link "September '94" >}}. It does not feature any of the background music and sound effects present in the original release.
+- All of the countdowns in this show are reused. Countdowns 1, 2, 5, and 6 are from [CEC TV April 2005 Show]. Countdowns 3 and 4 are from [January 2005 Show]. Countdown 7 is from [Summer 2004 Show].
+- The Coke Spot is reused from [September 2004].
+- Charlie Rockit - 'Sports' is reused from [September '94]. It does not feature any of the background music and sound effects present in the original release.
 - This is the first show with no new curtain programming for any stage.
 - 'Old MacDonald', ‘Chuck E. Shuffle’, and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.

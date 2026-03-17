@@ -25,8 +25,8 @@ Originally when the store opened, they had a Studio C Alpha, they would have it 
 
 | Stage                                                                                             | Installed   | Removed      | Note                                    |
 |---------------------------------------------------------------------------------------------------|-------------|--------------|-----------------------------------------|
-| {{< wiki-link "Studio C Alpha" >}}                                                          | August 1999 | May 2020     | Store Closed in May 2020.               |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | July 2021   | Still In Use | Store Reopened in July 2021. 2021 Model |
+| [Studio C Alpha]                                                          | August 1999 | May 2020     | Store Closed in May 2020.               |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | July 2021   | Still In Use | Store Reopened in July 2021. 2021 Model |
 
 ## Animatronics
 

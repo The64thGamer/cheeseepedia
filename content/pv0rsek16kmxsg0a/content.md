@@ -6,7 +6,7 @@ The character was first produced for the Mijjins show in 1992. This character wa
 
 ## Design
 
-This bot is a standard Mijjin mech, the mech has blue eye pieces. The bot is the Billy Bob Character from the {{< wiki-link "Rock-afire Explosion" >}} in the smaller Mijjin style, sporting the classic Red and Yellow striped overalls, and a new White and Red polka dot shirt.
+This bot is a standard Mijjin mech, the mech has blue eye pieces. The bot is the Billy Bob Character from the [Rock-afire Explosion] in the smaller Mijjin style, sporting the classic Red and Yellow striped overalls, and a new White and Red polka dot shirt.
 
 #### Toyland
 

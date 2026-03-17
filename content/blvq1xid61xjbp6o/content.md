@@ -56,12 +56,12 @@ This show featured 4 segments with 8 songs.
 - New Birthday (Birthday 2002)
 - Patriotic Live 2000 (Existing Stages)
 
-**Birthday Break**: {{< wiki-link "January 2001 Show" >}} logo with music set to a 1 minute or 2-minute countdown. This would then lead into the Birthday show.
+**Birthday Break**: [January 2001 Show] logo with music set to a 1 minute or 2-minute countdown. This would then lead into the Birthday show.
 
 ## Production
 
 ### Filming Locations
-'Go To Chuck E. Cheese' and parts of 'Keep on Smiling' were filmed at the {{< wiki-link "Dallas, TX (13364 Montfort Dr)" >}} location. 'Ease On Down the Road' was filmed at *SpeedZone Dallas*.
+'Go To Chuck E. Cheese' and parts of 'Keep on Smiling' were filmed at the [Dallas, TX (13364 Montfort Dr)] location. 'Ease On Down the Road' was filmed at *SpeedZone Dallas*.
 
 ### File Dates
 - Studio C DVD: 3/5/2002 12:31am
@@ -77,7 +77,7 @@ This show received a 'Version B' floppy disk for Studio C which fixed an issue t
 
 ## Trivia
 
-- Eddie Coker's 'Woo Woo Dance' was reused from the {{< wiki-link "Just for Kids Show 2000" >}} and 'Time to Fly' was reused from {{< wiki-link "Summertime 2000" >}}.
+- Eddie Coker's 'Woo Woo Dance' was reused from the [Just for Kids Show 2000] and 'Time to Fly' was reused from [Summertime 2000].
 - In 'Go to Chuck E. Cheese', Chuck E. yells, 'Come on Rob!' This is a reference to Robert Gotcher.
 - Chuck's curtains close during 'Everywhere' on all versions of the show.
 - ‘Rockin’ Christmas Eve’ and ‘Patriotic Live 2000’ both appear on the Studio C DVDs, but could not be played.

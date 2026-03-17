@@ -1,9 +1,9 @@
-***Smile America. Spell Chuck E. Cheese*** was a sweepstakes promotion game that ran at select {{< wiki-link "Pizza Time Theatre" >}} locations from June 6th to August 15th of 1983.
+***Smile America. Spell Chuck E. Cheese*** was a sweepstakes promotion game that ran at select [Pizza Time Theatre] locations from June 6th to August 15th of 1983.
 
 ## Sweepstakes
 
 Upon visiting a location and requesting, guests are given a game sheet and a random game piece with a letter on it. Guests are encouraged to continue to return and collect game pieces to eventually spell one of the Pizza Time Players' names on the sheet, similar to Bingo. Winners would receive one of many various prizes, including cash up to $10,000.
-No purchase was necessary to participate, though later in July 1983 a coupon would be run implying a potential change to required purchase for the rest of the event. The event may have also been extended to August 30th at this point{{< cite 2 >}}.
+No purchase was necessary to participate, though later in July 1983 a coupon would be run implying a potential change to required purchase for the rest of the event. The event may have also been extended to August 30th at this point[2].
 
 ### Names
 
@@ -14,15 +14,15 @@ It is also unknown the exact depictions of the names on the sheet needed to spel
 
 The prizes totaled $10 Million to be given away, though it is unclear which prizes had multiple offerings. It is unknown who were the winners of the main prizes after the event ended.
 
-- Game Tokens{{< cite 1 >}}
-- Large Pizza{{< cite 1 >}}
-- Pitcher of Coke{{< cite 1 >}}
-- Home Computer{{< cite 1 >}}
-- Androbot. Inc, Topo I Robot{{< cite 1 >}}
-- Q-Bert Arcade Machine{{< cite 1 >}}
-- Cash Prize, $5000{{< cite 1 >}}
-- Cash Prize, $10,000{{< cite 1 >}}
+- Game Tokens[1]
+- Large Pizza[1]
+- Pitcher of Coke[1]
+- Home Computer[1]
+- Androbot. Inc, Topo I Robot[1]
+- Q-Bert Arcade Machine[1]
+- Cash Prize, $5000[1]
+- Cash Prize, $10,000[1]
 
 ### Development
 
-The game and its pieces would be produced by *Benditt & Hall Marketing, Inc* based in Atlanta, Georgia, and sponsored by *Coca-Cola.*{{< cite 1 >}} All corporate stores at the time, along with select franchise units, would participate in the event.{{< cite 1 >}} Pat Saign, vice president of marketing would comment that PTT's goal during the promotion would be to 'increase sales by 15% and to build frequency during the summer period'.
+The game and its pieces would be produced by *Benditt & Hall Marketing, Inc* based in Atlanta, Georgia, and sponsored by *Coca-Cola.*[1] All corporate stores at the time, along with select franchise units, would participate in the event.[1] Pat Saign, vice president of marketing would comment that PTT's goal during the promotion would be to 'increase sales by 15% and to build frequency during the summer period'.

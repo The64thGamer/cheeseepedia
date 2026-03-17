@@ -4,12 +4,12 @@ I'm Athena, but you can call me Caco. I don't edit often since source editing sc
 
 ### My Favs
 
-- Favorite PTT Location: {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}
-- Favorite SPP Location: {{< wiki-link "Tacoma, WA (4911 Tacoma Mall Blvd)" >}}
-- Favorite CEC Location: {{< wiki-link "Tacoma, WA (4911 Tacoma Mall Blvd)" >}}
+- Favorite PTT Location: [Arlington, TX (2216 S Fielder Rd)]
+- Favorite SPP Location: [Tacoma, WA (4911 Tacoma Mall Blvd)]
+- Favorite CEC Location: [Tacoma, WA (4911 Tacoma Mall Blvd)]
 - Favorite Disney Park: Disneyland Paris
-- Favorite CEC Character: {{< wiki-link "Chuck E. Cheese (Cyberamic)" >}} (specifically PTT/Tux incarnations)
-- Favorite RAE Character: {{< wiki-link "Tacoma, WA (4911 Tacoma Mall Blvd)" >}} (she's literally me)
+- Favorite CEC Character: [Chuck E. Cheese (Cyberamic)] (specifically PTT/Tux incarnations)
+- Favorite RAE Character: [Tacoma, WA (4911 Tacoma Mall Blvd)] (she's literally me)
 - Favorite Disney Character: Alice (if you hate her you will go to hell)
 
 ### Other Stuff I'm Into

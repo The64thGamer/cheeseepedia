@@ -66,8 +66,8 @@ This show was originally going to be released May of 1993, but was delayed to Ju
 
 ### Cut Song
 
-The original version of **Segment 2** was to start with *Do You Believe In Magic,* followed by the cut song *Pasqually Come Home*. The final version has *Feel the Rhythm* as the beginning song, which has transitional dialogue into *Do You Believe In Magic* not present in the cut version.{{< cite 1 >}}
+The original version of **Segment 2** was to start with *Do You Believe In Magic,* followed by the cut song *Pasqually Come Home*. The final version has *Feel the Rhythm* as the beginning song, which has transitional dialogue into *Do You Believe In Magic* not present in the cut version.[1]
 
 ## Trivia
 
-* This was the last show to use the intermission format started with {{< wiki-link "Working For A Living" >}}
+* This was the last show to use the intermission format started with [Working For A Living]

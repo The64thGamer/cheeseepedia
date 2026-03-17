@@ -1,4 +1,4 @@
-***'Them Bones'*** was a road show which was first released in September 2012 on the {{< wiki-link "Road Show 2012" >}} CD, though it was only intended to be played during October. It would make its live show debut exclusively on Weigl stages in October 2012. It would return as both a road show and a live show for all stages in October 2014. It would then return a final time in October 2015. This live show was meant to promote Chucktober.
+***'Them Bones'*** was a road show which was first released in September 2012 on the [Road Show 2012] CD, though it was only intended to be played during October. It would make its live show debut exclusively on Weigl stages in October 2012. It would return as both a road show and a live show for all stages in October 2014. It would then return a final time in October 2015. This live show was meant to promote Chucktober.
 
 ## Summary
 
@@ -13,14 +13,14 @@ In October 2015, the countdown would feature a girl getting ready for the live s
 
 | Release Year | CD                                         |
 | ------------ | ------------------------------------------------ |
-| 2012         | {{< wiki-link "Road Show 2012" >}}                  |
-| 2014         | {{< wiki-link "Boom Box Live Shows" >}}                  |
+| 2012         | [Road Show 2012]                  |
+| 2014         | [Boom Box Live Shows]                  |
 
 ## Showtape Releases:
 
 | Release Year | Showtape                                         | Format                        |
 | ------------ | ------------------------------------------------ | ----------------------------- |
-| 2012         | {{< wiki-link "Fall 2012 Show" >}}                   | Studio C USB + MicroSD  |
-| 2014         | {{< wiki-link "Fall 2014 Show" >}}                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2015         | {{< wiki-link "Chuck E. Cheese’s Show 6 2015" >}}                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2012         | [Fall 2012 Show]                   | Studio C USB + MicroSD  |
+| 2014         | [Fall 2014 Show]                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2015         | [Chuck E. Cheese’s Show 6 2015]                  | Studio C USB + MicroSD, Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
 

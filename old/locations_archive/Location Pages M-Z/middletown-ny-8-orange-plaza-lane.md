@@ -11,13 +11,13 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 +++
 
-***8 Orange Plaza Lane*** was a *Chuck E. Cheese's* that opened on December 17, 2002 with a {{< wiki-link "Studio C Beta" >}}, and closed on October 22, 2017 due to leasing issues.(1)(2)
+***8 Orange Plaza Lane*** was a *Chuck E. Cheese's* that opened on December 17, 2002 with a [Studio C Beta], and closed on October 22, 2017 due to leasing issues.(1)(2)
 
 ## Stages
 
 | Stage                                   | Installed     | Removed       | Notes              |
 |-----------------------------------------|---------------|---------------|--------------------|
-| {{< wiki-link "Studio C Beta" >}} | December 2002 | November 2017 | Single Screen Beta |
+| [Studio C Beta] | December 2002 | November 2017 | Single Screen Beta |
 
 ## History
 

@@ -12,7 +12,7 @@ citations = ["<a href=\"https://www.sandiegoville.com/2023/01/first-new-age-chuc
 latitudeLongitude = ["32.84114272","-116.9865602"]
 +++
 
-***Santee, CA (275 Town Center Pkwy), Store #207*** is a Chuck E. Cheese that opened on September 18th, 2023 with a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and {{< wiki-link "Video Wall" >}}. This store opened as the fourth 2.0 in the San Diego area (Oceanside is also a suburb of San Diego, which received 2.0 in 2021), and is the newest CEC to open in California since Los Angeles (2706 Wilshire Blvd) opened in April 2014 ({{< wiki-link "Fairfield, CA (1027 Oliver Rd)" >}} reopened as CEC in July 2022, so they are not new to CEC).
+***Santee, CA (275 Town Center Pkwy), Store #207*** is a Chuck E. Cheese that opened on September 18th, 2023 with a [Chuck E Live Stage (Dance Floor)] and [Video Wall]. This store opened as the fourth 2.0 in the San Diego area (Oceanside is also a suburb of San Diego, which received 2.0 in 2021), and is the newest CEC to open in California since Los Angeles (2706 Wilshire Blvd) opened in April 2014 ([Fairfield, CA (1027 Oliver Rd)] reopened as CEC in July 2022, so they are not new to CEC).
 
 ## History
 
@@ -32,7 +32,7 @@ In January 2023, a bid appeared on Parkway Construction's (the company that does
 - Crossbow Master: Chuck E. Cheese's
 - Whack N' Win!
 - Batman (x2)
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Full Tilt
 - Jurassic World: Fallen Kingdom
 - Connect 4 Hoops
@@ -52,7 +52,7 @@ In January 2023, a bid appeared on Parkway Construction's (the company that does
 - Sky Riders
 - Carnival Cups
 - Despicable Me Jelly Lab
-- {{< wiki-link "Air Hockey" >}}
+- [Air Hockey]
 - Clutch Shoot
 - Tons of Tickets
 - Fast &amp; Furious: SuperCars (x2)
@@ -90,8 +90,8 @@ Santee features a Chuck E. Live Stage and Video Wall.
 
 | Stage                                                      | Installed        | Removed  | Note       |
 |------------------------------------------------------------|------------------|----------|------------|
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | Late August 2023 | In Store | 2021 Model |
-| {{< wiki-link "Video Wall" >}}                       | August 2023      | In Store | 2021 Model |
+| [Chuck E Live Stage (Dance Floor)] | Late August 2023 | In Store | 2021 Model |
+| [Video Wall]                       | August 2023      | In Store | 2021 Model |
 
 ## Videos
 

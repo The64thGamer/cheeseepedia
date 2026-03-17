@@ -1,4 +1,4 @@
-***Summer 2012 (International)*** is a re-edited version of {{< wiki-link "Summer 2012" >}} for international locations, with several intermissions replaced.
+***Summer 2012 (International)*** is a re-edited version of [Summer 2012] for international locations, with several intermissions replaced.
 
 ## Show List:
 
@@ -45,6 +45,6 @@
 
 ## Trivia:
 
-- The Ballgame is originally from {{< wiki-link "Spring Break" >}}, 'Summertime Groove', 'Fun, Fun, Fun', 'Good Old Summertime', and Wildlife are originally from {{< wiki-link "Summertime 2000" >}}, Baking With Betty - 'Trail Mix' is originally from the {{< wiki-link "January 2001 Show" >}}, Pizza Survivor is originally from the {{< wiki-link "September 2002 Show" >}}, 'In My Pool' 'Going on a Picnic' and "Barbeque" are originally from {{< wiki-link "Summertime 2003" >}}, and 'SPF' and 'Summertime' are originally from the {{< wiki-link "Summer 2007 Show" >}}.
-- 'Firehouse' was originally used in the {{< wiki-link "January 2005 Show" >}}. The music was changed to be the same song used for the Birthday Break before {{< wiki-link "Birthday Star '95" >}}.
-- The only difference between {{< wiki-link "Summer 2012" >}} and Summer 2012 (International) is that 'My Little Pony' was replaced with Amphicar from {{< wiki-link "September 2001 Show" >}} and 'Pound Puppies' was replaced with Closing Time? from {{< wiki-link "September 2000 Show" >}}. The version of these intermissions included on this show seems to be from the ChuckECheeseTV YouTube Channel, as the end card used on those uploads is present in both intermissions.
+- The Ballgame is originally from [Spring Break], 'Summertime Groove', 'Fun, Fun, Fun', 'Good Old Summertime', and Wildlife are originally from [Summertime 2000], Baking With Betty - 'Trail Mix' is originally from the [January 2001 Show], Pizza Survivor is originally from the [September 2002 Show], 'In My Pool' 'Going on a Picnic' and "Barbeque" are originally from [Summertime 2003], and 'SPF' and 'Summertime' are originally from the [Summer 2007 Show].
+- 'Firehouse' was originally used in the [January 2005 Show]. The music was changed to be the same song used for the Birthday Break before [Birthday Star '95].
+- The only difference between [Summer 2012] and Summer 2012 (International) is that 'My Little Pony' was replaced with Amphicar from [September 2001 Show] and 'Pound Puppies' was replaced with Closing Time? from [September 2000 Show]. The version of these intermissions included on this show seems to be from the ChuckECheeseTV YouTube Channel, as the end card used on those uploads is present in both intermissions.

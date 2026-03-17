@@ -11,6 +11,6 @@ The first stage was installed in Clawson in 1983 but was additional to the Balco
 - Ann Arbor, MI (2196 W Stadium Blvd)
 - Okemos, MI (2020 W Grand River Ave)
 - Clawson / Troy, MI (1241 E 14 Mile Rd)
-- {{< wiki-link "Danvers, MA (139 Endicott St)" >}}
-- {{< wiki-link "Warwick, RI (1960 Post Rd)" >}}
+- [Danvers, MA (139 Endicott St)]
+- [Warwick, RI (1960 Post Rd)]
 - 

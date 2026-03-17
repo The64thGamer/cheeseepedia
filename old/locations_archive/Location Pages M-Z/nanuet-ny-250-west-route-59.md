@@ -13,11 +13,11 @@ pageThumbnailFile = "Nhj4z3OFlkgKongHj8SA.avif"
 latitudeLongitude = ["41.10839537","-74.04926263"]
 +++
 
-***Nanuet, NY (250 West Route 59), Store #849*** is a Chuck E. Cheese's that opened on December 20th, 2003 with a {{< wiki-link "Studio C Beta" >}} {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}, and is still open to this day. This store is one of the 5 stores selected for the {{< wiki-link "CEC Legacy Locations" >}}, planning to keep its animatronic stage even after its {{< wiki-link "CEC 2.0 Remodel Program" >}}
+***Nanuet, NY (250 West Route 59), Store #849*** is a Chuck E. Cheese's that opened on December 20th, 2003 with a [Studio C Beta] [Chuck E Cheese 16m (Animatronic)], and is still open to this day. This store is one of the 5 stores selected for the [CEC Legacy Locations], planning to keep its animatronic stage even after its [CEC 2.0 Remodel Program]
 
 ## History
 
-The store would open with the SPT 1992/1993 Remodel Program, later updating the store with pieces of art from the {{< wiki-link "CEC 2000's Remodel Program" >}}. Its exterior would be updated to Rockstar Chuck in the 2010s. On May 11, 2024, The New York Times confirmed that Nanuet was selected as one of the locations to retain their animatronic show after {{< wiki-link "Northridge, CA (8425 Reseda Blvd)" >}} was selected in 2023.(1) This was controversial within the community as it was assumed that CEC Entertainment had chose this location for the sole purpose of fulfilling an East Coast retro store concept as this location is the closest one to the New York City metro area until weeks after where they would announce that three other stages would remain. On June 12, 2024, the store began its retro store remodel, receiving a 2019 Model Dance Floor with no Video Wall. The store would also keep the majority of its older art from 1992 and 2005 remodels. The Grand Reopening would be held on July 18, 2024 with Avenger Chuck making an Appearance at the store.
+The store would open with the SPT 1992/1993 Remodel Program, later updating the store with pieces of art from the [CEC 2000's Remodel Program]. Its exterior would be updated to Rockstar Chuck in the 2010s. On May 11, 2024, The New York Times confirmed that Nanuet was selected as one of the locations to retain their animatronic show after [Northridge, CA (8425 Reseda Blvd)] was selected in 2023.(1) This was controversial within the community as it was assumed that CEC Entertainment had chose this location for the sole purpose of fulfilling an East Coast retro store concept as this location is the closest one to the New York City metro area until weeks after where they would announce that three other stages would remain. On June 12, 2024, the store began its retro store remodel, receiving a 2019 Model Dance Floor with no Video Wall. The store would also keep the majority of its older art from 1992 and 2005 remodels. The Grand Reopening would be held on July 18, 2024 with Avenger Chuck making an Appearance at the store.
 
 ## Stages
 
@@ -25,7 +25,7 @@ This store opened housing a Studio C Beta (Beta) with a 16 movement Garner Holt 
 
 | Stage                                   | Installed     | Removed      | Notes                                                                                                          |
 |-----------------------------------------|---------------|--------------|----------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Studio C Beta" >}} | December 2003 | Still in use | Kept in-store throughout the retro store 2.0 remodel. One of the last 2 animatronics of any kind in the state. |
+| [Studio C Beta] | December 2003 | Still in use | Kept in-store throughout the retro store 2.0 remodel. One of the last 2 animatronics of any kind in the state. |
 | Dance Floor                             | June 2024     | Still in use | 2019 model                                                                                                     |
 
 ## Animatronics
@@ -33,8 +33,8 @@ This store opened housing a Studio C Beta (Beta) with a 16 movement Garner Holt 
 |                                                            |               |                                                                      |
 |------------------------------------------------------------|---------------|----------------------------------------------------------------------|
 | Animatronic                                                | Serial Number | Whereabouts                                                          |
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | Unknown       | In store; Replaced by another 16m animatronic from SPT Distrubition. |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | Unknown       | In store.                                                            |
+| [Chuck E Cheese 16m (Animatronic)] | Unknown       | In store; Replaced by another 16m animatronic from SPT Distrubition. |
+| [Pizza Time Clock (Animatronic)]   | Unknown       | In store.                                                            |
 
 ## Videos
 
@@ -49,7 +49,7 @@ This store opened housing a Studio C Beta (Beta) with a 16 movement Garner Holt 
 | https://www.youtube.com/watch?v=EMtVqJmCAAc             | Segment 8 of the January 2013 being performed on Nanuet's Studio C Beta, 16m.                                                          | 2/23/2013 | 4/1/2013   |
 | https://www.youtube.com/watch?v=XhRYmrQCtM8             | Clip of 'Good Time' from Fall 2013 Segment 2 being performed on Nanuet's Studio C Beta, 16m.                                           | 9/28/2013 | 8/18/2014  |
 | https://www.youtube.com/watch?v=tBdKUvq\_1ro&amp;t=216s | Store tour of Nanuet in 2021                                                                                                           | N/A       | 7/5/21     |
-| https://www.youtube.com/watch?v=fSWD03NiD3I             | 'Join the Party' from {{< wiki-link "Chuck E Cheese Summer of Fun 2022 Show" >}} being performed on Nanuet's Studio C Beta, 16m. | N/A       | 7/12/2022  |
+| https://www.youtube.com/watch?v=fSWD03NiD3I             | 'Join the Party' from [Chuck E Cheese Summer of Fun 2022 Show] being performed on Nanuet's Studio C Beta, 16m. | N/A       | 7/12/2022  |
 | https://youtu.be/hXPWtNO7cik                            | Avenger Chuck performs 'Me and My Friends' Live Show at the Grand reopening event                                                      | 7/18/2024 | 7/18/2024  |
 | https://youtu.be/Vg7pR-b01dw                            | Birthday Star 01 being performed on Nanuet                                                                                             | 7/18/2024 | 7/25/2024  |
 

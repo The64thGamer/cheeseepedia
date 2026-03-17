@@ -47,4 +47,4 @@
 - Everything that wasn't shot on location was filmed at Disney's Hollywood Studios, then known as Disney-MGM Studios at the time.
 ## Trivia:
 
-- 'Tricks For Treats', Joke Pizza Wall - 'Movies' and Joke Pizza Wall - 'School' are reused from {{< wiki-link "Patriotic 1994 Show" >}}. 'A Game of Horseshoes' and 'The Virtuoso' are reused from {{< wiki-link "September '94" >}}.
+- 'Tricks For Treats', Joke Pizza Wall - 'Movies' and Joke Pizza Wall - 'School' are reused from [Patriotic 1994 Show]. 'A Game of Horseshoes' and 'The Virtuoso' are reused from [September '94].

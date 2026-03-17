@@ -29,7 +29,7 @@ In 2021/2022, the salon 'Juut Salonspa' opened on the space. As of July 2023, Ju
 
 | Stage                                    | Installed   | Removed   | Note                                          |
 |------------------------------------------|-------------|-----------|-----------------------------------------------|
-| {{< wiki-link "Studio C Alpha" >}} | August 1999 | June 2020 | Bot never had eyelashes. Former Circus Pizza. |
+| [Studio C Alpha] | August 1999 | June 2020 | Bot never had eyelashes. Former Circus Pizza. |
 
 ## Games
 

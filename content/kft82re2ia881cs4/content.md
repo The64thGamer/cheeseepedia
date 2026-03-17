@@ -1,5 +1,5 @@
 ***SPP Christmas- '89 / Wave Bday* was a rerelease of SPP Homely for Christmas|SPP Homely For Christmas '88 in December 1989.
-The tape featured the Concept Unification Premiere Demo hidden at the end of the tape, not normally seen in regular playback but available for store employees to watch.{{< cite 1 >}}**
+The tape featured the Concept Unification Premiere Demo hidden at the end of the tape, not normally seen in regular playback but available for store employees to watch.[1]**
 
 ## Show List
 

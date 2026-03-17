@@ -16,13 +16,13 @@ Favorite video games: Team Fortress 2, Half-Life 2
 - Some location in/near Sacramento Ca. [2013-2015, I don't remember.]
 
 
-- {{< wiki-link "beaverton-or-4145-sw-110th-ave" >}} [February 2023, sometime in 2024, pre-remodel.]
+- [beaverton-or-4145-sw-110th-ave] [February 2023, sometime in 2024, pre-remodel.]
 
 
-- {{< wiki-link "salinas-ca-1447-north-davis-rd" >}}[2/1/2024] I wanted to see the Studio C Alpha there, but they had started remodeling just the day before. I did manage to snag a sign though, so that was cool.
+- [salinas-ca-1447-north-davis-rd][2/1/2024] I wanted to see the Studio C Alpha there, but they had started remodeling just the day before. I did manage to snag a sign though, so that was cool.
 
 
-- {{< wiki-link "northridge-ca-8425-reseda-blvd" >}} [July 2024]
+- [northridge-ca-8425-reseda-blvd] [July 2024]
 
  
 

@@ -13,7 +13,7 @@ pageThumbnailFile = "nSCXPPuiNJz5qn6uOENx.avif"
 latitudeLongitude = ["33.93864702","-117.2599338"]
 +++
 
-***23160 Sunnymead Blvd, Store #393*** is a *Chuck E. Cheese's* that opened on March 11, 2002 with a {{< wiki-link "Studio C Beta" >}}. This location received 2.0 in December 2022.
+***23160 Sunnymead Blvd, Store #393*** is a *Chuck E. Cheese's* that opened on March 11, 2002 with a [Studio C Beta]. This location received 2.0 in December 2022.
 
 ## History
 
@@ -21,19 +21,19 @@ Moreno Valley opened on March 11, 2002, alongside the Frederick, MD (7210 Guilfo
 
 ## Stages
 
-This location opened with a Studio C Beta, featuring the 32-movement Chuck E. Cheese animatronic from the {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}} location (Which relocated to {{< wiki-link "Dallas, TX (13364 Montfort Dr)" >}} in December 2001). created by Garner Holt. The location would have their Studio C Beta until December 2022, they remodeled to 2.0, replacing the stage with a Dance Floor &amp; Video Wall.
+This location opened with a Studio C Beta, featuring the 32-movement Chuck E. Cheese animatronic from the [Dallas, TX (13125 Montfort Dr)] location (Which relocated to [Dallas, TX (13364 Montfort Dr)] in December 2001). created by Garner Holt. The location would have their Studio C Beta until December 2022, they remodeled to 2.0, replacing the stage with a Dance Floor &amp; Video Wall.
 
 | Stage                                                                   | Installed     | Removed       | Note                                                                      |
 |-------------------------------------------------------------------------|---------------|---------------|---------------------------------------------------------------------------|
-| Studio C Beta, 32m                                                      | March 2002    | December 2022 | Animatronic from {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}} |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + Video Wall | December 2022 | Still In Use  | 2021 Model.                                                               |
+| Studio C Beta, 32m                                                      | March 2002    | December 2022 | Animatronic from [Dallas, TX (13125 Montfort Dr)] |
+| [Chuck E Live Stage (Dance Floor)] + Video Wall | December 2022 | Still In Use  | 2021 Model.                                                               |
 
 ## Animatronics
 
 | Animatronic                                                | Serial Number | Whereabouts                                                                         |
 |------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 002           | Destroyed. Originally from {{< wiki-link "Dallas, TX (13125 Montfort Dr)" >}} |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A           | Destroyed.                                                                          |
+| [Chuck E Cheese 32m (Animatronic)] | 002           | Destroyed. Originally from [Dallas, TX (13125 Montfort Dr)] |
+| [Pizza Time Clock (Animatronic)]   | N/A           | Destroyed.                                                                          |
 
 ## Videos
 

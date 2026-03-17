@@ -13,13 +13,13 @@ pageThumbnailFile = "twOqPB7P5vbRSAv_FAYU.avif"
 latitudeLongitude = ["39.95564667","-105.1694037"]
 +++
 
-***Superior, CO (305 Marshall Rd)*** is a *Chuck E. Cheese* that opened on December 23rd, 2003 with a Studio C Beta | Studio C Beta, 16M, and is still open to this day with the {{< wiki-link "CEC 2.0 Remodel Program" >}}.
+***Superior, CO (305 Marshall Rd)*** is a *Chuck E. Cheese* that opened on December 23rd, 2003 with a Studio C Beta | Studio C Beta, 16M, and is still open to this day with the [CEC 2.0 Remodel Program].
 
 ## History
 
 ### Early Years
 
-Superior opened in the Superior Marketplace on December 23, 2003 with a {{< wiki-link "Studio C Beta" >}}. For unknown reasons, Superior never had a road sign. Not much is known about Superior in the early years, besides the removal of SkyTubes and the Toddler Zone in October 2020. Currently, there is no footage of Superior in the 2000's.
+Superior opened in the Superior Marketplace on December 23, 2003 with a [Studio C Beta]. For unknown reasons, Superior never had a road sign. Not much is known about Superior in the early years, besides the removal of SkyTubes and the Toddler Zone in October 2020. Currently, there is no footage of Superior in the 2000's.
 
 ### Wildfire Incident
 
@@ -27,14 +27,14 @@ On the afternoon of December 30, 2021, people inside the location had to evacuat
 
 ### 2.0 Remodel
 
-Superior was closed for the {{< wiki-link "CEC 2.0 Remodel Program" >}}. The Studio C Beta was removed in favor of a {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} and a {{< wiki-link "Video Wall" >}}. The Grand Reopening Event took place on May 5th, 2022. As of September 2023, Superior still has the 2.0 Remodel.
+Superior was closed for the [CEC 2.0 Remodel Program]. The Studio C Beta was removed in favor of a [Chuck E Live Stage (Dance Floor)] and a [Video Wall]. The Grand Reopening Event took place on May 5th, 2022. As of September 2023, Superior still has the 2.0 Remodel.
 
 ## Stages
 
 | Stage                                                                                             | Installed     | Removed      | Notes      |
 |---------------------------------------------------------------------------------------------------|---------------|--------------|------------|
-| {{< wiki-link "Studio C Beta" >}}                                                           | December 2003 | January 2022 | 16M Beta   |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | Spring 2022   | Still in Use | 2021 Model |
+| [Studio C Beta]                                                           | December 2003 | January 2022 | 16M Beta   |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | Spring 2022   | Still in Use | 2021 Model |
 
 ## Arcade Machines
 

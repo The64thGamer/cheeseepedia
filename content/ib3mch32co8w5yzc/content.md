@@ -1,6 +1,6 @@
 ***SPP Best Of 2 / Wave Bday* is one of the last few showtapes released for *ShowBiz Pizza Place's*
 hosting the *Rock-afire Explosion*, being released on December 6, 1990. For some stores, this was the last tape
-used before *Concept Unification* would start at their location. Each tape sent after {{< wiki-link "SPP Christmas '89 Wave Bday" >}} would become increasingly more rare as stores
+used before *Concept Unification* would start at their location. Each tape sent after [SPP Christmas '89 Wave Bday] would become increasingly more rare as stores
 would convert to *3-Stages.*
 Despite the later years of *Cyberstar* being mostly re-used segments from earlier showtapes, the last showtapes
 became the 'Best of' series, bringing back every single *Cyberstar* segment for stores to have. It was said at
@@ -9,7 +9,7 @@ had without sticking to the most recent show. The *Best of* series could be seen
 
 ## Show List:
 
-The info about this showtape is still not clear, though it also was featured in {{< wiki-link "CEC Jan '91" >}}.
+The info about this showtape is still not clear, though it also was featured in [CEC Jan '91].
 
 1. **Intermission 1**
     1.  6 Minute Countdown
@@ -89,7 +89,7 @@ The info about this showtape is still not clear, though it also was featured in 
 
 ## Trivia:
 
-- Just like it counterpart {{< wiki-link "CEC Jan '91" >}} this is the last
+- Just like it counterpart [CEC Jan '91] this is the last
   show to feature any video intermissions moving forward, It's Showtime! bumper which was introduced
   back in 1988 retires. While CEC dropped the Cyberstar Intro in their next show [}}">CEC Future](%7B%7B%3C%20ref%20){wiki="" cec="" future"=""} in favor for their new CEC-TV animated intro, ShowBiz Pizza
   continues to use the Cyberstar Intro in their next show [}}">SPP Best Of 3](%7B%7B%3C%20ref%20){wiki="" spp="" best="" of="" 3="" wave="" bday"=""}.

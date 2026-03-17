@@ -67,9 +67,9 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 
 
 ## Trivia
-- This show uses songs from previous shows as countdowns. 'Clementine' and 'Oh Susanna' are from {{< wiki-link "Just For Kids Show 2000" >}} and 'Jack & Jill' is from {{< wiki-link "Chuck E's Rockin' Rhymes" >}}.
-- The swirl background shown when the band goes through time first appeared in the {{< wiki-link "August 1996 Show" >}} during 'Turn The Beat Around'.
+- This show uses songs from previous shows as countdowns. 'Clementine' and 'Oh Susanna' are from [Just For Kids Show 2000] and 'Jack & Jill' is from [Chuck E's Rockin' Rhymes].
+- The swirl background shown when the band goes through time first appeared in the [August 1996 Show] during 'Turn The Beat Around'.
 - 'I Love A Piano' and 'Italian Street Song' are programmed on all stages and have puppet footage for Studio C.
 - All of the songs in this show are covers.
-- The beginning of 'The Future Looks Fun To Me' from {{< wiki-link "January 1999" >}} is played briefly in Segment 3.
+- The beginning of 'The Future Looks Fun To Me' from [January 1999] is played briefly in Segment 3.
 - ‘Chuck E. Shuffle’ and ‘Go Santa Go’ both appear on the Studio C DVDs but could not be played.

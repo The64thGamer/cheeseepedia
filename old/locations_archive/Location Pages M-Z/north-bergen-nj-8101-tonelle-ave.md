@@ -16,20 +16,20 @@ latitudeLongitude = ["40.80677952","-74.0197603"]
 
 ## Stages
 
-Originally when the store opened, they had the {{< wiki-link "SPT 1990's Remodel Program" >}} which included checkers around the store and a 1-Stage show. North Bergen would receive the CEC 2005 Remodel in 2008, however their exterior still included checkers. They would have the 1-Stage for 28 years and 9 months, until October 2022, when they would start the 2.0 Remodel.
+Originally when the store opened, they had the [SPT 1990's Remodel Program] which included checkers around the store and a 1-Stage show. North Bergen would receive the CEC 2005 Remodel in 2008, however their exterior still included checkers. They would have the 1-Stage for 28 years and 9 months, until October 2022, when they would start the 2.0 Remodel.
 
 | Stage                                                                   | Installed     | Removed      | Notes                                       |
 |-------------------------------------------------------------------------|---------------|--------------|---------------------------------------------|
-| {{< wiki-link "1-Stage" >}}                                       | December 1993 | October 2022 | One of six 1-Stages installed in New Jersey |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + Video Wall | October 2022  | Still In Use | 2021 Model                                  |
+| [1-Stage]                                       | December 1993 | October 2022 | One of six 1-Stages installed in New Jersey |
+| [Chuck E Live Stage (Dance Floor)] + Video Wall | October 2022  | Still In Use | 2021 Model                                  |
 
 ## Animatronics
 
 | Animatronics                                                 | Manufacturing Date | Whereabouts         |
 |--------------------------------------------------------------|--------------------|---------------------|
 | Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Unknown / Destroyed |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1993               | Unknown / Destroyed |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1993               | Unknown / Destroyed |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1993               | Unknown / Destroyed |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1993               | Unknown / Destroyed |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | 1993               | Unknown / Destroyed |
+| [Guest Star Helen Henny (Cyberamic)] | 1993               | Unknown / Destroyed |
+| [Mr Munch (Cyberamic)]               | 1993               | Unknown / Destroyed |
+| [Jasper T Jowls (Cyberamic)]         | 1993               | Unknown / Destroyed |
+| [Pasqually (Cyberamic)]              | 1993               | Unknown / Destroyed |
+| [Wink (Cyberamic)]                   | 1993               | Unknown / Destroyed |

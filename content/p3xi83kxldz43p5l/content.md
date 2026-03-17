@@ -1,4 +1,4 @@
-***Chuck E's Holiday Party 2001*** was a rerelease of {{< wiki-link "Chuck E's Holiday Party 1999" >}} for the 2001 holiday season. This was the final rerelease of this show to reuse the original 1999 DVDs.
+***Chuck E's Holiday Party 2001*** was a rerelease of [Chuck E's Holiday Party 1999] for the 2001 holiday season. This was the final rerelease of this show to reuse the original 1999 DVDs.
 ## Existing Stages Show List:
 1. **Segment 1**
     1.  'Holly Jolly Christmas'

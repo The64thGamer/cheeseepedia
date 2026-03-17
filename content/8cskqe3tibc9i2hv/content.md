@@ -1,5 +1,5 @@
 ***Show 1 2021* also known as the 'Evergreen show' is the generic show released January 4, 2021 featuring a variety of songs released from 2016-2020
-This was created with the idea to play between promotional events. This show features 8 Songs. 7 Reused and 1 new. Originally played January 4, 2021 - February 28, 2021 then after {{< wiki-link "Chuck E. Cheese's Show 2 2021" >}} played again from April 26, 2021 - May 30, 2021.**
+This was created with the idea to play between promotional events. This show features 8 Songs. 7 Reused and 1 new. Originally played January 4, 2021 - February 28, 2021 then after [Chuck E. Cheese's Show 2 2021] played again from April 26, 2021 - May 30, 2021.**
 
 ## Show List:
 

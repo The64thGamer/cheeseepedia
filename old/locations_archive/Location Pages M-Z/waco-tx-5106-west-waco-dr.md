@@ -43,4 +43,4 @@ During the 2020 pandemic, Kade Perry, an employee at the Waco location, stood ou
 
 | Animatronic                                                | Manufacturing Date | Whereabouts |
 |------------------------------------------------------------|--------------------|-------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | 2003               | Unknown     |
+| [Chuck E Cheese 16m (Animatronic)] | 2003               | Unknown     |

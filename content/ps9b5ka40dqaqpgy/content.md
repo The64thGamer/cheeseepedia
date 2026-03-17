@@ -8,5 +8,5 @@ The show begins with an intro of Chuck E. Cheese using different forms of transp
 
 | Release Year | Showtape                                   | Format                    |
 |--------------|--------------------------------------------|---------------------------|
-| 1997         | {{< wiki-link "August 1997 Show" >}} | 3-stage, Cyberamics       |
+| 1997         | [August 1997 Show] | 3-stage, Cyberamics       |
 | 1997         | August 1997 Show (AAM)                     | Awesome Adventure Machine |

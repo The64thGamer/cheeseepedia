@@ -1,6 +1,6 @@
 ***SongCode* was an animatronic programming system made for Pizza Time Theatre, running from 1978 to 1990.
-The first known usage would be at the second location {{< wiki-link "San Jose, CA (1371 Kooser Rd)" >}}, with its hardware detailed in the SongCode Control System.
-It was used to animate the {{< wiki-link "Kooser PTT Show" >}}, {{< wiki-link "Cyberamics" >}}, and later {{< wiki-link "Rock-afire Explosion" >}} showtapes throughout the late 80's. The {{< wiki-link "Animation Programming System" >}} (APS) would replace it in 1990, staying as the main programming software till present day.**
+The first known usage would be at the second location [San Jose, CA (1371 Kooser Rd)], with its hardware detailed in the SongCode Control System.
+It was used to animate the [Kooser PTT Show], [Cyberamics], and later [Rock-afire Explosion] showtapes throughout the late 80's. The [Animation Programming System] (APS) would replace it in 1990, staying as the main programming software till present day.**
 
 ## Software
 
@@ -9,4 +9,4 @@ By 1978 most PDP-11 users created programs on Unix 6th Edition, which could mean
 
 ## Encoding Format
 
-The format is believed to be an earlier variation of what would later appear in the {{< wiki-link "Studio C 3x DVD + Floppy" >}} showtape format, being a command-based structure, rather than a snapshot based one.
+The format is believed to be an earlier variation of what would later appear in the [Studio C 3x DVD + Floppy] showtape format, being a command-based structure, rather than a snapshot based one.

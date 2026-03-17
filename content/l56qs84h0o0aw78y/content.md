@@ -1,4 +1,4 @@
-***Chuck E. Cheese Throwback Show*** was released on August 28, 2025, to play exclusively at {{< wiki-link "Kansas City, MO (8809 State Line Rd)" >}} This show would stop playing on January 6, 2026, alongside the closing of the only location this played at. 
+***Chuck E. Cheese Throwback Show*** was released on August 28, 2025, to play exclusively at [Kansas City, MO (8809 State Line Rd)] This show would stop playing on January 6, 2026, alongside the closing of the only location this played at. 
 
 ## Show List 01/04 Update:
 1. **Segment 1**

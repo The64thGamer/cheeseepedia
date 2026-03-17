@@ -20,27 +20,27 @@ When Waldorf opened, ShowBiz Pizza Time Inc. decided to test a new stage called 
 
 | Stage                             | Installed  | Removed  | Notes                                                              |
 |-----------------------------------|------------|----------|--------------------------------------------------------------------|
-| {{< wiki-link "1-Stage" >}} | March 1992 | 2000     | First 1-Stage in Maryland. First 1-Stage ever installed.           |
-| Studio C (1997)\|Studio C Alpha   | 2000       | May 2012 | Brought to {{< wiki-link "Waldorf, MD (3241 Plaza Way)" >}}. |
+| [1-Stage] | March 1992 | 2000     | First 1-Stage in Maryland. First 1-Stage ever installed.           |
+| Studio C (1997)\|Studio C Alpha   | 2000       | May 2012 | Brought to [Waldorf, MD (3241 Plaza Way)]. |
 
 ## History
 
-Waldorf opened on March 24, 1992 with a test 1-Stage. Their 1-Stage was similar to early 1-Stages such as {{< wiki-link "Columbus, OH (3631 Soldano Blvd)" >}} or {{< wiki-link "Lancaster, CA (44650 Valley Central Way)" >}}. In the mid 90's, they received {{< wiki-link "Phase 1 (1994)" >}} of the 1994 SPT Repositioning / Remodel Program. They received {{< wiki-link "Phase 3 (2000)" >}} in 2000 and removed the first 1-Stage ever for a Studio C (1997)|Studio C Alpha. In 2012, they decided to relocate to a {{< wiki-link "Waldorf, MD (3241 Plaza Way)" >}} after 20 years of operation. Surprisingly enough, they relocated the entire stage when they moved, and the new location became the last Chuck E. Cheese's location to open with an Alpha (and second to last Alpha installed in any store beat by {{< wiki-link "Dearborn, MI (24399 Michigan Ave)" >}}).
+Waldorf opened on March 24, 1992 with a test 1-Stage. Their 1-Stage was similar to early 1-Stages such as [Columbus, OH (3631 Soldano Blvd)] or [Lancaster, CA (44650 Valley Central Way)]. In the mid 90's, they received [Phase 1 (1994)] of the 1994 SPT Repositioning / Remodel Program. They received [Phase 3 (2000)] in 2000 and removed the first 1-Stage ever for a Studio C (1997)|Studio C Alpha. In 2012, they decided to relocate to a [Waldorf, MD (3241 Plaza Way)] after 20 years of operation. Surprisingly enough, they relocated the entire stage when they moved, and the new location became the last Chuck E. Cheese's location to open with an Alpha (and second to last Alpha installed in any store beat by [Dearborn, MI (24399 Michigan Ave)]).
 
 ## Animatronics
 
 | Character                                                    | Serial Number | Status                                                                                          |
 |--------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | N/A           | Unknown/Destroyed.                                                                              |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | N/A           | Unknown/Destroyed.                                                                              |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | N/A           | Unknown/Destroyed.                                                                              |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | N/A           | Unknown/Destroyed.                                                                              |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | N/A           | Unknown/Destroyed.                                                                              |
-| {{< wiki-link "Wink (Cyberamic)" >}}                   | N/A           | Unknown/Destroyed.                                                                              |
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}}   | 109           | Sent to new {{< wiki-link "Waldorf, MD (3241 Plaza Way)" >}} store. Removed in Late 2023. |
-| {{< wiki-link "Bird (Animatronic)" >}}                 | N/A           | Sent to new{{< wiki-link "Waldorf, MD (3241 Plaza Way)" >}} store. Removed in Late 2023.  |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}     | N/A           | Sent to new{{< wiki-link "Waldorf, MD (3241 Plaza Way)" >}} store. Removed in Late 2023.  |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}          | N/A           | Sent to new{{< wiki-link "Waldorf, MD (3241 Plaza Way)" >}} store. Removed in Late 2023.  |
+| [Chuck E Cheese (Cyberamic)]         | N/A           | Unknown/Destroyed.                                                                              |
+| [Guest Star Helen Henny (Cyberamic)] | N/A           | Unknown/Destroyed.                                                                              |
+| [Mr Munch (Cyberamic)]               | N/A           | Unknown/Destroyed.                                                                              |
+| [Jasper T Jowls (Cyberamic)]         | N/A           | Unknown/Destroyed.                                                                              |
+| [Pasqually (Cyberamic)]              | N/A           | Unknown/Destroyed.                                                                              |
+| [Wink (Cyberamic)]                   | N/A           | Unknown/Destroyed.                                                                              |
+| [Chuck E Cheese 32m (Animatronic)]   | 109           | Sent to new [Waldorf, MD (3241 Plaza Way)] store. Removed in Late 2023. |
+| [Bird (Animatronic)]                 | N/A           | Sent to new[Waldorf, MD (3241 Plaza Way)] store. Removed in Late 2023.  |
+| [Pizza Time Clock (Animatronic)]     | N/A           | Sent to new[Waldorf, MD (3241 Plaza Way)] store. Removed in Late 2023.  |
+| [Pizza Phone (Animatronic)]          | N/A           | Sent to new[Waldorf, MD (3241 Plaza Way)] store. Removed in Late 2023.  |
 
 ## Videos
 

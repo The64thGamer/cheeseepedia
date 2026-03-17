@@ -1,4 +1,4 @@
-**Summertime 2006** was the final rerelease of {{< wiki-link "Summertime 2003" >}} with intermission changes which played through the summer of 2006.
+**Summertime 2006** was the final rerelease of [Summertime 2003] with intermission changes which played through the summer of 2006.
 
 ## Show List:
 

@@ -11,7 +11,7 @@ pageThumbnailFile = "8oO30A9OSmL3kbdWHRIp.avif"
 latitudeLongitude = ["37.89811422","-122.3017875"]
 +++
 ***El Cerrito, CA (10 El Cerrito Plaza)* was a planned *Pizza Time Theater* location that was planned to open inside a popular restaurant spot in December 1982, but was ultimately cancelled on June 7, 1983 due to the city council's restrictions on its planned space.
-This store is not to be confused with the {{< wiki-link "El Cerrito, CA (20 El Cerrito Plaza)" >}}, which ended up being built and opened in 1993, but closed in July 2000.**
+This store is not to be confused with the [El Cerrito, CA (20 El Cerrito Plaza)], which ended up being built and opened in 1993, but closed in July 2000.**
 
 ## History
 
@@ -28,4 +28,4 @@ Despite public backlash about the store's proposal, Pizza Time Theater Inc. woul
 
 ### Cancellation
 
-During the June 6th meeting, the City Council decided to issue Pizza Time Theater Inc. the permits with the restrictions. The decision sparked tons of 'boos' from protestors at the meeting who opposed the planned store. Since Pizza Time Theater Inc. was already opposing the plaza's restrictions, they would eventually announce the next day that the store would be withdrawn from the plaza on June 7th, 1983,<sup>(2)</sup> eventually leaving Viale to sign an addition lease with Homart for his restaurants. The CEC would end up being constructed {{< wiki-link "El Cerrito, CA (20 El Cerrito Plaza)" >}}
+During the June 6th meeting, the City Council decided to issue Pizza Time Theater Inc. the permits with the restrictions. The decision sparked tons of 'boos' from protestors at the meeting who opposed the planned store. Since Pizza Time Theater Inc. was already opposing the plaza's restrictions, they would eventually announce the next day that the store would be withdrawn from the plaza on June 7th, 1983,<sup>(2)</sup> eventually leaving Viale to sign an addition lease with Homart for his restaurants. The CEC would end up being constructed [El Cerrito, CA (20 El Cerrito Plaza)]

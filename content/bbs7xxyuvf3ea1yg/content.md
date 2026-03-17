@@ -1,4 +1,4 @@
-**The Hard Luck Bears** (originally referred to as the **Country Bear Jubilee**) was a predecessor show to {{< wiki-link "Rock-afire Explosion" >}} that was created in 1979 and first premiered at IAAPA. It was a successor to the Bear Country Jubilee in many ways, with its stage basis being an inspiration for the common 3-Stage used in various Creative Engineering shows.
+**The Hard Luck Bears** (originally referred to as the **Country Bear Jubilee**) was a predecessor show to [Rock-afire Explosion] that was created in 1979 and first premiered at IAAPA. It was a successor to the Bear Country Jubilee in many ways, with its stage basis being an inspiration for the common 3-Stage used in various Creative Engineering shows.
 In a timespan between 1980 and 2000, the Hard Luck Bears have been installed in numerous theme parks around the world with the first installation being Carowinds in Charlotte, NC (a relocation of the original show seen at IAAPA). The last operational show was in Fantasilandia, Chile (MundoMagico's show relocated), though has since been retrofitted to become "The Robotoons.' The second Hard Luck Bears installation at Knoebels in Elysburg, PA still has the majority of figures and props in storage and around the park, currently the only other show to be confirmed to remain existent (but not operating).
 
 ## Summary
@@ -13,11 +13,11 @@ In a timespan between 1980 and 2000, the Hard Luck Bears have been installed in 
 
 #### Billy Bill
 
-(Voiced by Burt 'Sal' Wilson) Billy Bill is a grey-furred, baritone-voiced bear that would play the piano, 'ticklin' the ivories' as Wilbur described once. The mechanism he utilized was a retrofit of Fats Gorilla from the {{< wiki-link "Wolf Pack 5" >}}.
+(Voiced by Burt 'Sal' Wilson) Billy Bill is a grey-furred, baritone-voiced bear that would play the piano, 'ticklin' the ivories' as Wilbur described once. The mechanism he utilized was a retrofit of Fats Gorilla from the [Wolf Pack 5].
 
 #### Billy Boy
 
-Billy Boy is said to be one of the youngest of the four Hard Luck Bears (according to the Rockin' Billy Wilbur and the Bearcats showtape) that played the drums. Similar to Wilbur, he is a dark brown (later light brown)-furred bear. The mechanism he utilized was a retrofit of {{< wiki-link "Dingo Star" >}} from the Wolf Pack 5.
+Billy Boy is said to be one of the youngest of the four Hard Luck Bears (according to the Rockin' Billy Wilbur and the Bearcats showtape) that played the drums. Similar to Wilbur, he is a dark brown (later light brown)-furred bear. The mechanism he utilized was a retrofit of [Dingo Star] from the Wolf Pack 5.
 
 #### Billy Bob
 
@@ -55,7 +55,7 @@ The names of the characters were as follows:
 - Aunt Lullabelle (Repeat Thornsberry)
 - Uncle Jinglebell (Pete Thornsberry)
 
-It is the only Hard Luck Bears show that has major mechanical differences compared to shows produced after (which were made to be more 'standardized' and be compatible with parts from the Rock-afire Explosion). These did not have cylinders or other mechanical pieces that were separate from fiberglass body shells (with the exception of head mechs), as well as inconsistently-sized eyes and jaw lever pieces. Because the original masks for the IAAPA/Carowinds show did not meet the requirements for standardization and were unable to adjust in size with Rock-afire parts, this is the only set to use these original masks as all the characters (except for Repete Thornsberry and Mama Granbags) were required to have resculpted molds in order to fit the new size requirements for future installations. This show was also one of few installations to operate on the primitive {{< wiki-link "Tone Decoder Control System" >}}, instead of a {{< wiki-link "Rock-afire Explosion Control System" >}} as future sets would utilize.
+It is the only Hard Luck Bears show that has major mechanical differences compared to shows produced after (which were made to be more 'standardized' and be compatible with parts from the Rock-afire Explosion). These did not have cylinders or other mechanical pieces that were separate from fiberglass body shells (with the exception of head mechs), as well as inconsistently-sized eyes and jaw lever pieces. Because the original masks for the IAAPA/Carowinds show did not meet the requirements for standardization and were unable to adjust in size with Rock-afire parts, this is the only set to use these original masks as all the characters (except for Repete Thornsberry and Mama Granbags) were required to have resculpted molds in order to fit the new size requirements for future installations. This show was also one of few installations to operate on the primitive [Tone Decoder Control System], instead of a [Rock-afire Explosion Control System] as future sets would utilize.
 Around 1982, a two-parter Harmony Hall production called 'The Phantom of the Opry,' spread across two operating seasons, reused the figures from the Honey Bear Bunch Family Reunion. In it, the Phantom character 'murders' the bear characters, which reappear in the next operating season (1983) as ghosts. The fate of the figures are currently unknown, though Carowinds employees have claimed the figures were disassembled years ago.
 
 #### Knoebels

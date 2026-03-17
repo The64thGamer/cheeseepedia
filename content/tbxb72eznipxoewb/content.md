@@ -1,4 +1,4 @@
-The ***Pizza Time Theatre Country Theme* was a temporary alteration to the stage and character designs for use in the 1984 {{< wiki-link "Country Helen" >}} showtape.**
+The ***Pizza Time Theatre Country Theme* was a temporary alteration to the stage and character designs for use in the 1984 [Country Helen] showtape.**
 
 ## Stage Design
 

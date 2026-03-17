@@ -70,4 +70,4 @@ In Segment 5 'When I Think Of You', Chuck E. & Helen visit T&P Hill in Dallas.
 ## Trivia:
 
 - 'Chuck E. Shuffle' is mislabeled as 'Chuck E. Says' on the DVD menu for Existing Stages.
-- Baking with Betty - 'Vegetable Medley' is reused from {{< wiki-link "August 1999" >}}, 'Pizza Survivor' and Monkey Ninjas Episode 3 are reused from {{< wiki-link "September 2002 Show" >}}, and CEC TV Artist Spotlight is reused from {{< wiki-link "January 2006 Show" >}}.
+- Baking with Betty - 'Vegetable Medley' is reused from [August 1999], 'Pizza Survivor' and Monkey Ninjas Episode 3 are reused from [September 2002 Show], and CEC TV Artist Spotlight is reused from [January 2006 Show].

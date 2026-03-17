@@ -1,4 +1,4 @@
-**CEC-Stage Diagnostics 2007** was a rerelease of {{< wiki-link "CEC-Stage Diagnostic Tape 1993" >}} on DVD. The diagnostics were initially included with all 3-Stage DVDs, but became their own disc in January 2007. This disc would be rereleased many times with multiple different covers until 2023 when all US CEC-Stage stores converted from DVD to Navori, which had diagnostics uploaded digitally. The last store to use this disc was {{< wiki-link "Lo Barnechea (Cantagallo), Chile" >}}.
+**CEC-Stage Diagnostics 2007** was a rerelease of [CEC-Stage Diagnostic Tape 1993] on DVD. The diagnostics were initially included with all 3-Stage DVDs, but became their own disc in January 2007. This disc would be rereleased many times with multiple different covers until 2023 when all US CEC-Stage stores converted from DVD to Navori, which had diagnostics uploaded digitally. The last store to use this disc was [Lo Barnechea (Cantagallo), Chile].
 
 ## Diagnostics List:
 
@@ -87,7 +87,7 @@ Movements for the characters are repeated 15 times. Lights done once. Turn Table
   - Gobo Light
   - House Lights Dimmer
 - **Skit Comparison**
-  - {{< wiki-link "Environment '92" >}} Segment 3
+  - [Environment '92] Segment 3
 
 ## Production
 

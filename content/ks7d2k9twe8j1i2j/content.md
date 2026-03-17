@@ -1,4 +1,4 @@
-The ***Pizza Time Theatre 'Bite Me!' Shirt*** was a shirt available at the first {{< wiki-link "Pizza Time Theatre" >}} in {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} in 1977.
+The ***Pizza Time Theatre 'Bite Me!' Shirt*** was a shirt available at the first [Pizza Time Theatre] in [San Jose, CA (370 S Winchester Blvd)] in 1977.
 
 ## History
 

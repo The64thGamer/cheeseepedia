@@ -6,63 +6,63 @@ Birthday Star 2001 is a modernized update of Birthday Star '95 and builds on the
 
 ## History
 
- The show would initially be released on its own SVHS tape for Existing Stages. Similar to previous birthday shows, it would also be included at the end of standard live show tapes alongside a birthday break. A shortened version of the show was included on Road Show CDs from its initial release in 2001 through 2012. The show would continue to be included with new showtapes for several years, with it being joined by {{< wiki-link "New Birthday (2002)" >}} in April 2002. In December 2007, Birthday Extravaganza was rolled out company-wide as the new standard birthday show, replacing Birthday Star 2001. Birthday Star 2001 would not be featured on any show DVDs past 2007; however, the SVHS release was considered valid by the entertainment department until the Summer of 2008, and it would continue to be released on new Road Show CDs up to 2012. Birthday Star 2001 would make a return in 2024, exclusive to the {{< wiki-link "Nanuet, NY (250 West Route 59)" >}} grand reopening and Throwback Thursday show following its 2.0 legacy store remodel.
+ The show would initially be released on its own SVHS tape for Existing Stages. Similar to previous birthday shows, it would also be included at the end of standard live show tapes alongside a birthday break. A shortened version of the show was included on Road Show CDs from its initial release in 2001 through 2012. The show would continue to be included with new showtapes for several years, with it being joined by [New Birthday (2002)] in April 2002. In December 2007, Birthday Extravaganza was rolled out company-wide as the new standard birthday show, replacing Birthday Star 2001. Birthday Star 2001 would not be featured on any show DVDs past 2007; however, the SVHS release was considered valid by the entertainment department until the Summer of 2008, and it would continue to be released on new Road Show CDs up to 2012. Birthday Star 2001 would make a return in 2024, exclusive to the [Nanuet, NY (250 West Route 59)] grand reopening and Throwback Thursday show following its 2.0 legacy store remodel.
 
 ## Showtape Releases:
 
 | Release Year | Showtape                                                  | Format                                               |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
-| 2001         | {{< wiki-link "January 2001 Show" >}}                     | Studio C 3X DVD + Floppy                             |
-| 2001         | {{< wiki-link "Chuck E's Rockin’ Rhymes" >}}              | Studio C 3X DVD + Floppy                             |
-| 2001         | {{< wiki-link "Summertime 2001" >}}                       | Studio C 3X DVD + Floppy                             |
-| 2001         | {{< wiki-link "September 2001 Show" >}}                   | Studio C 3X DVD + Floppy                             |
-| 2002         | {{< wiki-link "January 2002 Show" >}}                     | Studio C 3X DVD + Floppy                             |
-| 2002         | {{< wiki-link "April 2002 Show" >}}                       | Studio C 3X DVD + Floppy                             |
-| 2002         | {{< wiki-link "Summer 2002 Show" >}}                      | Studio C 3X DVD + Floppy                             |
-| 2002         | {{< wiki-link "September 2002 Show" >}}                   | Studio C 3X DVD + Floppy                             |
-| 2002         | {{< wiki-link "Holiday 2002" >}}                          | Studio C 3X DVD + Floppy                             |
-| 2003         | {{< wiki-link "Best Of CEC TV 2003" >}}                   | Studio C 3X DVD + Floppy                             |
-| 2003         | {{< wiki-link "Chuck E. Cheese Spring Show 2003" >}}      | Studio C 3X DVD + Floppy                             |
-| 2003         | {{< wiki-link "Summertime 2003" >}}                       | Studio C 3X DVD + Floppy                             |
-| 2003         | {{< wiki-link "September 2003 Show" >}}                   | Studio C 3X DVD + Floppy                             |
-| 2003         | {{< wiki-link "Holiday 2003 Show" >}}                     | Studio C 3X DVD + Floppy                             |
-| 2004         | {{< wiki-link "January 2004 Show" >}}                     | Studio C 3X DVD + Floppy                             |
-| 2004         | {{< wiki-link "Chuck E. Cheese April 2004 Show" >}}       | Studio C 3X DVD + Floppy                             |
-| 2004         | {{< wiki-link "Summer 2004 Show" >}}                      | Studio C 3X DVD + Floppy                             |
-| 2004         | {{< wiki-link "September 2004" >}}                        | Studio C 3X DVD + Floppy                             |
-| 2004         | {{< wiki-link "Holiday 2004" >}}                          | Studio C 3X DVD + Floppy                             |
-| 2005         | {{< wiki-link "January 2005 Show" >}}                     | Studio C 3X DVD + Floppy                             |
-| 2005         | {{< wiki-link "CEC TV April 2005 Show" >}}                | Studio C 3X DVD + Floppy                             |
-| 2005         | {{< wiki-link "Super Chuck Summer Show 2005" >}}          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2005         | {{< wiki-link "September 2005 Show" >}}                   | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2005         | {{< wiki-link "Holiday 2005" >}}                          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2006         | {{< wiki-link "January 2006 Show" >}}                     | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2006         | {{< wiki-link "April 2006 Show" >}}                       | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2006         | {{< wiki-link "Summertime 2006" >}}                       | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2006         | {{< wiki-link "September 2006 Show" >}}                   | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2006         | {{< wiki-link "Holiday 2006" >}}                          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2007         | {{< wiki-link "January 2007" >}}                          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2007         | {{< wiki-link "April 2007 Show" >}}                       | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2007         | {{< wiki-link "Summer 2007 Show" >}}                      | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2007         | {{< wiki-link "September 2007 Show" >}}                   | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2007         | {{< wiki-link "Holiday 2007" >}}                          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
-| 2024         | {{< wiki-link "Chuck E. Cheese Throwback Thursday Show" >}} | Media Navori                                    |
+| 2001         | [January 2001 Show]                     | Studio C 3X DVD + Floppy                             |
+| 2001         | [Chuck E's Rockin’ Rhymes]              | Studio C 3X DVD + Floppy                             |
+| 2001         | [Summertime 2001]                       | Studio C 3X DVD + Floppy                             |
+| 2001         | [September 2001 Show]                   | Studio C 3X DVD + Floppy                             |
+| 2002         | [January 2002 Show]                     | Studio C 3X DVD + Floppy                             |
+| 2002         | [April 2002 Show]                       | Studio C 3X DVD + Floppy                             |
+| 2002         | [Summer 2002 Show]                      | Studio C 3X DVD + Floppy                             |
+| 2002         | [September 2002 Show]                   | Studio C 3X DVD + Floppy                             |
+| 2002         | [Holiday 2002]                          | Studio C 3X DVD + Floppy                             |
+| 2003         | [Best Of CEC TV 2003]                   | Studio C 3X DVD + Floppy                             |
+| 2003         | [Chuck E. Cheese Spring Show 2003]      | Studio C 3X DVD + Floppy                             |
+| 2003         | [Summertime 2003]                       | Studio C 3X DVD + Floppy                             |
+| 2003         | [September 2003 Show]                   | Studio C 3X DVD + Floppy                             |
+| 2003         | [Holiday 2003 Show]                     | Studio C 3X DVD + Floppy                             |
+| 2004         | [January 2004 Show]                     | Studio C 3X DVD + Floppy                             |
+| 2004         | [Chuck E. Cheese April 2004 Show]       | Studio C 3X DVD + Floppy                             |
+| 2004         | [Summer 2004 Show]                      | Studio C 3X DVD + Floppy                             |
+| 2004         | [September 2004]                        | Studio C 3X DVD + Floppy                             |
+| 2004         | [Holiday 2004]                          | Studio C 3X DVD + Floppy                             |
+| 2005         | [January 2005 Show]                     | Studio C 3X DVD + Floppy                             |
+| 2005         | [CEC TV April 2005 Show]                | Studio C 3X DVD + Floppy                             |
+| 2005         | [Super Chuck Summer Show 2005]          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2005         | [September 2005 Show]                   | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2005         | [Holiday 2005]                          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2006         | [January 2006 Show]                     | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2006         | [April 2006 Show]                       | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2006         | [Summertime 2006]                       | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2006         | [September 2006 Show]                   | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2006         | [Holiday 2006]                          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2007         | [January 2007]                          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2007         | [April 2007 Show]                       | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2007         | [Summer 2007 Show]                      | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2007         | [September 2007 Show]                   | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2007         | [Holiday 2007]                          | Studio C 3X DVD + Floppy, 3-Stage DVD, CEC-Stage DVD |
+| 2024         | [Chuck E. Cheese Throwback Thursday Show] | Media Navori                                    |
 
 ## Road Show Releases:
 
 | Release Year | CD                                         |
 | ------------ | ------------------------------------------------ |
-| 2001 | {{< wiki-link "CEC Roadshow January 2001" >}}     |
-| 2001 | {{< wiki-link "CEC Roadshow April 2001" >}}       |
-| 2001 | {{< wiki-link "CEC Roadshow July 2001" >}}        |
-| 2002 | {{< wiki-link "CEC Roadshow January 2002" >}}     |
-| 2002 | {{< wiki-link "CEC Roadshow April 2002" >}}       |
-| 2005 | {{< wiki-link "Road Show 2005" >}}                |
-| 2006 | {{< wiki-link "Road Show 2006" >}}                |
-| 2007 | {{< wiki-link "Road Show 2007" >}}                |
-| 2008 | {{< wiki-link "Road Show 2008" >}}                |
-| 2008 | {{< wiki-link "Revised Road Show 2008" >}}        |
-| 2009 | {{< wiki-link "Road Show Generic CD" >}}          |
-| 2010 | {{< wiki-link "Road Show 2010" >}}                |
-| 2011 | {{< wiki-link "Road Show 2011" >}}                |
-| 2012 | {{< wiki-link "Road Show 2012" >}}                |
+| 2001 | [CEC Roadshow January 2001]     |
+| 2001 | [CEC Roadshow April 2001]       |
+| 2001 | [CEC Roadshow July 2001]        |
+| 2002 | [CEC Roadshow January 2002]     |
+| 2002 | [CEC Roadshow April 2002]       |
+| 2005 | [Road Show 2005]                |
+| 2006 | [Road Show 2006]                |
+| 2007 | [Road Show 2007]                |
+| 2008 | [Road Show 2008]                |
+| 2008 | [Revised Road Show 2008]        |
+| 2009 | [Road Show Generic CD]          |
+| 2010 | [Road Show 2010]                |
+| 2011 | [Road Show 2011]                |
+| 2012 | [Road Show 2012]                |

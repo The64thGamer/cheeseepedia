@@ -1,4 +1,4 @@
-The ***Unnamed Chuck E. Cheese Documentary* is a potentially cancelled 2022 documentary that was set to detail Chuck E. Cheese's, and later its fandom.{{< cite 1 >}}**
+The ***Unnamed Chuck E. Cheese Documentary* is a potentially cancelled 2022 documentary that was set to detail Chuck E. Cheese's, and later its fandom.[1]**
 
 ## Summary
 

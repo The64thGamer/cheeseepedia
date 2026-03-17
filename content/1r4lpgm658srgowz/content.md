@@ -83,5 +83,5 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 - This show's episode of 'Baking With Betty' features a reference to the infamous [Howard Dean scream](https://en.wikipedia.org/wiki/Dean_scream).
 - The shot of Pasqually at the beginning of 'Baking with Betty' is reused from the 'Trail Mix' episode from the January 2001 show.
 - CEC TV ID - 'Abstract' has new music.
-- Both 'VeggieTales' intermissions are reused from {{< wiki-link "April 1999" >}}
+- Both 'VeggieTales' intermissions are reused from [April 1999]
 - ‘Chuck E. Shuffle’ and ‘Go Santa Go’ both appear on the Studio C DVDs but could not be played.

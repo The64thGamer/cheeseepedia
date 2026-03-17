@@ -60,7 +60,7 @@ This show featured 4 segments with 8 songs.
 
 **Birthday Break**: The September 2001 logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
 
-## Production{{< cite 1 >}}
+## Production[1]
 
 ### File Dates
 
@@ -90,7 +90,7 @@ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER"
 
 - All segments that not shot on location was shot at Mercury Studios in Irving, TX.
 - Boogie Shoes - Finish Line In Irving, TX Mall
-- How Sweet It Is - {{< wiki-link "Skokie, IL (7142 Carpenter Rd)" >}}
+- How Sweet It Is - [Skokie, IL (7142 Carpenter Rd)]
 - Paper Or Plastic - Unknown Whole Foods Location in Irving, TX
 - Louie Louie - Griggs Park (2200 Hugo St, Dallas, TX 75204)
 

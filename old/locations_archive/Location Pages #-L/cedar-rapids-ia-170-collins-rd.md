@@ -26,7 +26,7 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 
 ### Skill
 
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - H2Overdrive
 - Tippin' Bloks
 - Ticket Troopers
@@ -38,7 +38,7 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 - 2 Minute Drill
 - NBA Hoops
 - Redhot
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Buster Bubbles
 - Sega Racing Classic
 - Top Glo
@@ -56,12 +56,12 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 
 - Barney Train
 - Hungry Froggy
-- {{< wiki-link "Ken Chuck E Derby" >}}
+- [Ken Chuck E Derby]
 - Chuck E.'s JR. Basketball
 - Dog Pounder
 - Chuck E.'s Glider Rider
 - Chuck E's Ball Blast
-- {{< wiki-link "Air Hockey" >}}
+- [Air Hockey]
 - Chuck E. Cheese's Photo Ride (1997)
 - Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime
 
@@ -76,18 +76,18 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 
 | Animatronic                                                               | Serial Number | Whereabouts                                                                                                                          |
 |---------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)" >}} | 4-81 1-12     | Sold on eBay, current status unknown.                                                                                                |
-| {{< wiki-link "Dook Larue (Animatronic)" >}}                        | 4-81 2-12     | Owned by a private collector.                                                                                                        |
-| {{< wiki-link "Fatz Geronimo (Animatronic)" >}}                     | 4-81 3-12     | Originally sold to CavitySam / Andrea, but supposedly she never got it shipped. Possibly re-listed for sale. Current status unknown. |
-| {{< wiki-link "Beach Bear (Animatronic)" >}}                        | 4-81 4-12     | Owned by a private collector.                                                                                                        |
-| {{< wiki-link "Mitzi Mozzarella (Animatronic)" >}}                  | 4-81 5-12     | Owned by a private collector.                                                                                                        |
-| {{< wiki-link "Billy Bob (Animatronic)" >}}                         | 4-81 6-12     | Unknown/Destroyed.                                                                                                                   |
-| {{< wiki-link "Looney Bird (Animatronic)" >}}                       | 4-81 7-12     | Unknown/Destroyed.                                                                                                                   |
-| {{< wiki-link "Choo Choo (Animatronic)" >}}                         | 4-81 8-12     | Unknown/Destroyed.                                                                                                                   |
-| {{< wiki-link "Sun (Animatronic)" >}}                               | 4-81 10-12    | Unknown/Destroyed.                                                                                                                   |
-| {{< wiki-link "Moon (Animatronic)" >}}                              | 4-81 11-12    | Unknown/Destroyed.                                                                                                                   |
-| {{< wiki-link "Antioch (Animatronic)" >}}                           | N/A           | Unknown/Destroyed.                                                                                                                   |
-| {{< wiki-link "Wink" >}}                                            | N/A           | Unknown/Destroyed.                                                                                                                   |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-12     | Sold on eBay, current status unknown.                                                                                                |
+| [Dook Larue (Animatronic)]                        | 4-81 2-12     | Owned by a private collector.                                                                                                        |
+| [Fatz Geronimo (Animatronic)]                     | 4-81 3-12     | Originally sold to CavitySam / Andrea, but supposedly she never got it shipped. Possibly re-listed for sale. Current status unknown. |
+| [Beach Bear (Animatronic)]                        | 4-81 4-12     | Owned by a private collector.                                                                                                        |
+| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-12     | Owned by a private collector.                                                                                                        |
+| [Billy Bob (Animatronic)]                         | 4-81 6-12     | Unknown/Destroyed.                                                                                                                   |
+| [Looney Bird (Animatronic)]                       | 4-81 7-12     | Unknown/Destroyed.                                                                                                                   |
+| [Choo Choo (Animatronic)]                         | 4-81 8-12     | Unknown/Destroyed.                                                                                                                   |
+| [Sun (Animatronic)]                               | 4-81 10-12    | Unknown/Destroyed.                                                                                                                   |
+| [Moon (Animatronic)]                              | 4-81 11-12    | Unknown/Destroyed.                                                                                                                   |
+| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed.                                                                                                                   |
+| [Wink]                                            | N/A           | Unknown/Destroyed.                                                                                                                   |
 
 ## Videos
 

@@ -13,10 +13,10 @@ This variation was essentially a repaint of the cloud backdrop covering center a
 There are still other possible locations to potentially have gotten it, but these are the only ones with available proof.
 
 - Surfside Beach, SC (900 US-17 BUS)|Surfside Beach, SC
-- {{< wiki-link "Richmond, VA (10430 Midlothian Turnpike)" >}}
-- {{< wiki-link "Virginia Beach, VA (2699 Lishelle Place)" >}}
-- {{< wiki-link "Charlotte, NC (7701 Pineville-Matthews Rd)" >}}
-- {{< wiki-link "Panama City, FL (4432 US-98)" >}}
-- {{< wiki-link "Lynchburg, VA (312 Border St)" >}}
-- {{< wiki-link "Fayetteville, NC (511 North McPherson Church Rd)" >}}
-- {{< wiki-link "Myrtle Beach, SC (615 Lake Arrowhead Rd)" >}}
+- [Richmond, VA (10430 Midlothian Turnpike)]
+- [Virginia Beach, VA (2699 Lishelle Place)]
+- [Charlotte, NC (7701 Pineville-Matthews Rd)]
+- [Panama City, FL (4432 US-98)]
+- [Lynchburg, VA (312 Border St)]
+- [Fayetteville, NC (511 North McPherson Church Rd)]
+- [Myrtle Beach, SC (615 Lake Arrowhead Rd)]

@@ -31,14 +31,14 @@ On June 2nd, 2016, A grandmother was about to park into a space when she acciden
 
 | Stage                                                                                             | Installed  | Removed    | Notes                                                                                        |
 |---------------------------------------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------|
-| {{< wiki-link "Studio C Beta" >}}                                                           | April 2002 | April 2024 | 32M Beta                                                                                     |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} + {{< wiki-link "Video Wall" >}} | April 2024 | 2021 Model | Dance Floor originally came from {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}} |
+| [Studio C Beta]                                                           | April 2002 | April 2024 | 32M Beta                                                                                     |
+| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | April 2024 | 2021 Model | Dance Floor originally came from [Arlington, TX (2216 S Fielder Rd)] |
 
 ## Animatronics
 
 | Animatronic                                                | Serial | Whereabouts       |
 |------------------------------------------------------------|--------|-------------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 160    | Unknown/Destroyed |
+| [Chuck E Cheese 32m (Animatronic)] | 160    | Unknown/Destroyed |
 
 ## Games &amp; Rides
 
@@ -60,7 +60,7 @@ On June 2nd, 2016, A grandmother was about to park into a space when she acciden
 - Choppy Wood
 - The Simpsons Kooky Carnival
 - Subway Surfers
-- {{< wiki-link "The Great Ticket Carnival" >}}
+- [The Great Ticket Carnival]
 - Tippin' Bloks
 - Alley Roller
 - NBA Hoops
@@ -76,7 +76,7 @@ On June 2nd, 2016, A grandmother was about to park into a space when she acciden
 
 - Whack'em Funky Gators
 - Hungry Chickens
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Hammer Fun
 - Magix Floor
 - Astro Invasion

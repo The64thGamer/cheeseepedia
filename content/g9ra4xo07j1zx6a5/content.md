@@ -59,6 +59,6 @@ This was created to play from November 1, 2017 - November, 19 2017. This show fe
 
 ## Trivia:
 
-- 'Dream Big' is originally from {{< wiki-link "Chuck E. Cheese's Show 5 2016" >}}, Nobody Knows is originally from {{< wiki-link "The Chuck E. Cheese Show" >}}, 'If Everyone Were Chuck E.' and 'Every Boy, Every Girl' are originally from {{< wiki-link "Chuck E. Cheese's Show 5 2017" >}}, 'It's A Date' is {{< wiki-link "Chuck E. Cheese's Show 5 2015" >}}, and 'Trio' is originally from {{< wiki-link "Chuck E. Cheese's Show 3 2017" >}}.
+- 'Dream Big' is originally from [Chuck E. Cheese's Show 5 2016], Nobody Knows is originally from [The Chuck E. Cheese Show], 'If Everyone Were Chuck E.' and 'Every Boy, Every Girl' are originally from [Chuck E. Cheese's Show 5 2017], 'It's A Date' is [Chuck E. Cheese's Show 5 2015], and 'Trio' is originally from [Chuck E. Cheese's Show 3 2017].
 - For franchised USA Locations, 'If Everyone Were Chuck E.' does not play.
 - The corner of the screen during intermissions features the 'Chuck E. TV' Logo with fall leaves surrounding it.

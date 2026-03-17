@@ -1,5 +1,5 @@
 ***ShowBiz Pizza Program 1* is a music cassette released alongside ShowBiz Pizza Place and Pizza Time Theatre showtapes as background music between segments. This would eventually evolve into Cyberstar, though the cassettes would still be produced for stores not yet converted to it.
-These programs were still produced by *Sight & Sound Entertainment Corporation*, however the company would be merged into *Audio Environments Inc.,* rebranding as *AEI Music*. Under AEI, the company would become specialized in creating music tape compilations for retail stores and airlines. This provided a specific mood tailored to the store, in which AEI describes to '-harmonize with the lifestyle of (the store's) patrons'{{< cite 1 >}} The ShowBiz Pizza Programs were specifically labeled as *Inflight Audio Entertainment*, and each gave the address of AEI Music Network Inc. at the bottom of the label.**
+These programs were still produced by *Sight & Sound Entertainment Corporation*, however the company would be merged into *Audio Environments Inc.,* rebranding as *AEI Music*. Under AEI, the company would become specialized in creating music tape compilations for retail stores and airlines. This provided a specific mood tailored to the store, in which AEI describes to '-harmonize with the lifestyle of (the store's) patrons'[1] The ShowBiz Pizza Programs were specifically labeled as *Inflight Audio Entertainment*, and each gave the address of AEI Music Network Inc. at the bottom of the label.**
 
 ## Releases
 
@@ -31,4 +31,4 @@ The program isn't entirely clear what it was released with, but it is presumed t
 
 ## Trivia:
 
-- Two songs from this tape would get reused for {{< wiki-link "ShowBiz Pizza Program 5" >}}, those being [Up, Up And Away](https://en.wikipedia.org/wiki/Up,_Up_and_Away_(song)), and [Saturday In The Park](https://en.wikipedia.org/wiki/Saturday_in_the_Park).
+- Two songs from this tape would get reused for [ShowBiz Pizza Program 5], those being [Up, Up And Away](https://en.wikipedia.org/wiki/Up,_Up_and_Away_(song)), and [Saturday In The Park](https://en.wikipedia.org/wiki/Saturday_in_the_Park).

@@ -35,7 +35,7 @@ The selection of pins are grouped into four categories, *Certification Pins, Ach
 
 *Once you have completed the overview for waking up Chuck E. and have been validated by your Training Manger, you will earn yourself the Chuck E. certification pin!*
 
-#### {{< wiki-link "Star Cast Member of the Month 2019 Pin" >}}
+#### [Star Cast Member of the Month 2019 Pin]
 
 *Have you been chosen as Star Cast Member of the Month? You will receive one of these pins as part of your recognition!*
 

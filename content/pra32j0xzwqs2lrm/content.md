@@ -2,7 +2,7 @@ The ***CEC LRS Order Pager* is a tabletop electronic pager that vibrates to aler
 
 ## LRS
 
-The *Long Range Systems LLC Guest Connect Note* is the pager used in the stores, being part of the *LRS Guest Connect Note Paging Kit*{{< cite 1 >}}*,* a package including 15-60 notes (It is unclear currently which count of notes stores received), a transmitter, 2 power supplies, and a lid kit for custom inserts.
+The *Long Range Systems LLC Guest Connect Note* is the pager used in the stores, being part of the *LRS Guest Connect Note Paging Kit*[1]*,* a package including 15-60 notes (It is unclear currently which count of notes stores received), a transmitter, 2 power supplies, and a lid kit for custom inserts.
 
 ## Design
 
@@ -12,6 +12,6 @@ A custom sticker adorns the front of the pager, featuring a green background wit
 
 Some locations were not able to use these pagers, as their kitchen window was inside an employee-only area, making customer pickup at the window incompatible.
 
-- {{< wiki-link "Sharonville, OH (1429 E Kemper Rd)" >}}
-- {{< wiki-link "Princeton, NJ (520 Nassau Park Blvd)" >}}
-- {{< wiki-link "Goodyear, AZ (13371 West McDowell Rd)" >}}
+- [Sharonville, OH (1429 E Kemper Rd)]
+- [Princeton, NJ (520 Nassau Park Blvd)]
+- [Goodyear, AZ (13371 West McDowell Rd)]

@@ -1,4 +1,4 @@
-***CEC TV Classics*** is a showtape released in July 1990, which featured covers of various TV theme songs. The intermission lineup of songs & videos is from {{< wiki-link "SPP Friends / Moms / TV Themes" >}} the counterpart showtape released around the same time frame. 
+***CEC TV Classics*** is a showtape released in July 1990, which featured covers of various TV theme songs. The intermission lineup of songs & videos is from [SPP Friends / Moms / TV Themes] the counterpart showtape released around the same time frame. 
 
 ## SVHS Show List:
 
@@ -94,11 +94,11 @@
 5. **Special 3**
     1.  Beach Boys Birthday
 6. **Special 4**
-    1.  {{< wiki-link "Birthday Extravaganza (Chuck E. Cheese Branded)" >}}
+    1.  [Birthday Extravaganza (Chuck E. Cheese Branded)]
 7. **Special 5**
-    1.  {{< wiki-link "Chuck E. Cheese Live" >}}
+    1.  [Chuck E. Cheese Live]
 8. **Special 6**
-    1.  {{< wiki-link "Birthday Extravaganza (ShowBiz Branded)" >}}
+    1.  [Birthday Extravaganza (ShowBiz Branded)]
 9. **Segment 3**
     1.  [Alfred Hitch-Chuck Presents Skit (Parody of Alfred Hitchcock Presents)](https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents)
     2.  [F-Troop Theme](https://en.wikipedia.org/wiki/F_Troop)

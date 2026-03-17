@@ -12,11 +12,11 @@ citations = []
 latitudeLongitude = ["38.59271132","-90.58984683"]
 +++
 
-***15913 Manchester Rd, Store #947*** is a Chuck E. Cheese that opened on August 21, 1990 with the Rocker Stage, which is still open to this day currently receiving the {{< wiki-link "CEC 2.0 Remodel Program" >}}. It is located in the Ellisville Square Shopping Center.
+***15913 Manchester Rd, Store #947*** is a Chuck E. Cheese that opened on August 21, 1990 with the Rocker Stage, which is still open to this day currently receiving the [CEC 2.0 Remodel Program]. It is located in the Ellisville Square Shopping Center.
 
 ## History
 
-Ellisville opened on August 21st, 1990, as part of an expansion of the shopping center it was in. Unfortunately, there is not much information on this location when it had the 1988 Remodel. This location opened with the 1988 Remodel which includes the CU decor, checkers around the store, the Blue and White awnings, and the Rocker Stage. In 1994, Ellisville would receive a minor remodel which added a lot of 1990s decor and removed the CU decor, and added assets such as the Record Posters, Colored Chase Lights, and the removal of the Rocker Stage for the 1-Stage. In 2005-2006, it would undergo the {{< wiki-link "CEC 2000's Remodel Program" >}} which involved the expansion of the exterior and store, the removal of the early 2000's posters, the new decor and booths, and the removal of the 1-Stage for the 3rd Generation Studio C Cappa. By October 10th, 2023, the store would start its 2.0 remodel beginning with the destruction of the store's show.
+Ellisville opened on August 21st, 1990, as part of an expansion of the shopping center it was in. Unfortunately, there is not much information on this location when it had the 1988 Remodel. This location opened with the 1988 Remodel which includes the CU decor, checkers around the store, the Blue and White awnings, and the Rocker Stage. In 1994, Ellisville would receive a minor remodel which added a lot of 1990s decor and removed the CU decor, and added assets such as the Record Posters, Colored Chase Lights, and the removal of the Rocker Stage for the 1-Stage. In 2005-2006, it would undergo the [CEC 2000's Remodel Program] which involved the expansion of the exterior and store, the removal of the early 2000's posters, the new decor and booths, and the removal of the 1-Stage for the 3rd Generation Studio C Cappa. By October 10th, 2023, the store would start its 2.0 remodel beginning with the destruction of the store's show.
 
 ## Stages
 

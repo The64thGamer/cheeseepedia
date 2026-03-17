@@ -13,11 +13,11 @@ pageThumbnailFile = "7xBvT3CQ8YEtLcfkV4np.avif"
 latitudeLongitude = ["38.21641152","-85.59003613"]
 +++
 
-***2030 South Hurstbourne Parkway, Store #111*** is a Chuck E. Cheese's that opened on January 2, 2000, with a Studio C (1997), which is still open to this day. They are the 3rd location in Louisville, after the {{< wiki-link "Louisville, KY (5743 Preston Hwy)" >}} and {{< wiki-link "Louisville, KY (5000 Shelbyville Rd)" >}} locations which closed in November 1997 &amp; December 1991 respectively. Louisville was the last animatronic stage in Kentucky, after {{< wiki-link "Bowling Green, KY (2625 Scottsville Rd)" >}} removed their {{< wiki-link "Studio C Cappa" >}} during their 2.0 remodel in July 2022.
+***2030 South Hurstbourne Parkway, Store #111*** is a Chuck E. Cheese's that opened on January 2, 2000, with a Studio C (1997), which is still open to this day. They are the 3rd location in Louisville, after the [Louisville, KY (5743 Preston Hwy)] and [Louisville, KY (5000 Shelbyville Rd)] locations which closed in November 1997 &amp; December 1991 respectively. Louisville was the last animatronic stage in Kentucky, after [Bowling Green, KY (2625 Scottsville Rd)] removed their [Studio C Cappa] during their 2.0 remodel in July 2022.
 
 ## Stages
 
-The store originally opened with a Studio C (1997), being the first Studio C stage in the state, and the only Alpha in the state. Prior to April 2013, the Bluescreen &amp; Camera, and the {{< wiki-link "Interactive Console" >}} were removed. Chuck's cap was removed between December 2013 and January 2014. Sometime in 2014-2015 Chuck received his Rockstar outfit. Louisville was the last animatronic stage in Kentucky, after the {{< wiki-link "Bowling Green, KY (2625 Scottsville Rd)" >}} location removed their {{< wiki-link "Studio C Cappa" >}} in July of 2022 until April 1st, 2024 when it was removed for the Dance Floor.
+The store originally opened with a Studio C (1997), being the first Studio C stage in the state, and the only Alpha in the state. Prior to April 2013, the Bluescreen &amp; Camera, and the [Interactive Console] were removed. Chuck's cap was removed between December 2013 and January 2014. Sometime in 2014-2015 Chuck received his Rockstar outfit. Louisville was the last animatronic stage in Kentucky, after the [Bowling Green, KY (2625 Scottsville Rd)] location removed their [Studio C Cappa] in July of 2022 until April 1st, 2024 when it was removed for the Dance Floor.
 
 | Stage                    | Installed     | Removed      |
 |--------------------------|---------------|--------------|
@@ -26,7 +26,7 @@ The store originally opened with a Studio C (1997), being the first Studio C sta
 
 ## History
 
-2 years after the last Louisville store closed, a new Chuck E. Cheese's opened on 2030 South Hurstbourne Parkway, with a {{< wiki-link "Studio C Alpha" >}} stage, being the first Studio C stage in Kentucky, and the only Alpha to ever be installed in the State. Louisville was formerly a Discovery Zone restaurant, and when DZ closed every remaining store, Chuck E. Cheese's would acquire their assets and open many new restaurants in their place, with Louisville included. After Chuck E. Cheese's took over, the business reopened with the first Studio C (1997)|Studio C Alpha in the state of Kentucky, with the other being {{< wiki-link "Bowling Green, KY (2625 Scottsville Rd)" >}}, which was installed/opened in 2004. Louisville opened with the {{< wiki-link "Phase 2 (1997)" >}} game package and the 1993 remodel, featuring a unique awning, which all other stores in the plaza also had. In 2011, this store would remodel to the {{< wiki-link "CEC 2000's Remodel Program" >}} and replace the old artwork and games, adding new fixtures. During this time, the plaza would also remodel, giving the outlets new awnings, which the store would use. Louisville remained like this until April 1st, 2024 which they began the 2.0 remodel overnight which is now completed between mid-late April-early May, 2024. Currently, as of July 2024, the location still has the 2.0 Remodel and the Dance Floor.
+2 years after the last Louisville store closed, a new Chuck E. Cheese's opened on 2030 South Hurstbourne Parkway, with a [Studio C Alpha] stage, being the first Studio C stage in Kentucky, and the only Alpha to ever be installed in the State. Louisville was formerly a Discovery Zone restaurant, and when DZ closed every remaining store, Chuck E. Cheese's would acquire their assets and open many new restaurants in their place, with Louisville included. After Chuck E. Cheese's took over, the business reopened with the first Studio C (1997)|Studio C Alpha in the state of Kentucky, with the other being [Bowling Green, KY (2625 Scottsville Rd)], which was installed/opened in 2004. Louisville opened with the [Phase 2 (1997)] game package and the 1993 remodel, featuring a unique awning, which all other stores in the plaza also had. In 2011, this store would remodel to the [CEC 2000's Remodel Program] and replace the old artwork and games, adding new fixtures. During this time, the plaza would also remodel, giving the outlets new awnings, which the store would use. Louisville remained like this until April 1st, 2024 which they began the 2.0 remodel overnight which is now completed between mid-late April-early May, 2024. Currently, as of July 2024, the location still has the 2.0 Remodel and the Dance Floor.
 
 ## Videos
 
@@ -40,7 +40,7 @@ The store originally opened with a Studio C (1997), being the first Studio C sta
 
 | Animatronic                                                | Serial  | Whereabouts     |
 |------------------------------------------------------------|---------|-----------------|
-| {{< wiki-link "Chuck E Cheese 32m (Animatronic)" >}} | 064     | Privately Owned |
-| {{< wiki-link "Bird (Animatronic)" >}}               | Unknown | Destroyed.      |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | Unknown | Destroyed.      |
-| {{< wiki-link "Pizza Phone (Animatronic)" >}}        | Unknown | Destroyed.      |
+| [Chuck E Cheese 32m (Animatronic)] | 064     | Privately Owned |
+| [Bird (Animatronic)]               | Unknown | Destroyed.      |
+| [Pizza Time Clock (Animatronic)]   | Unknown | Destroyed.      |
+| [Pizza Phone (Animatronic)]        | Unknown | Destroyed.      |

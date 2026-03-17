@@ -3,7 +3,7 @@ The original prototype of this system was designed and written around early 1982
 
 ## Programmer
 
-Several branches of Programmer are known to exist. The most familiar branch is designed for programming the classic Rock-afire, but branches also exist for programming the New Rock-afire, the Mijjin show, and the {{< wiki-link "Hard Luck Bears" >}} show at Knoebels. Because of a lack of need, the Mijjin and Knoebels branches were never upgraded to version 7.02 and are lacking some features that were introduced later on.
+Several branches of Programmer are known to exist. The most familiar branch is designed for programming the classic Rock-afire, but branches also exist for programming the New Rock-afire, the Mijjin show, and the [Hard Luck Bears] show at Knoebels. Because of a lack of need, the Mijjin and Knoebels branches were never upgraded to version 7.02 and are lacking some features that were introduced later on.
 
 ### Data storage
 

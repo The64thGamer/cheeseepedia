@@ -16,7 +16,7 @@ pageThumbnailFile = "62uWb3FV5GO81YX71QhG.avif"
 
 ### CEC Era (2007-2014)
 
-Sometime in 2007, a Chuck E. Cheese's would open in Gateway Mall. It opened with the {{< wiki-link "CEC 2000's Remodel Program" >}}. This store's stage was {{< wiki-link "Studio C Beta" >}}, which wore the Avenger outfit. Springfield, OR opened with {{< wiki-link "Skytubes" >}} and has had them for its entire existence. On September 14, 2014, the store would be permanently closed. It was likely due to the mall's renovation plans that was scheduled to take place that following year. It is unknown what happened to the animatronics at this location, although it was most likely taken back to the SPT distribution center.
+Sometime in 2007, a Chuck E. Cheese's would open in Gateway Mall. It opened with the [CEC 2000's Remodel Program]. This store's stage was [Studio C Beta], which wore the Avenger outfit. Springfield, OR opened with [Skytubes] and has had them for its entire existence. On September 14, 2014, the store would be permanently closed. It was likely due to the mall's renovation plans that was scheduled to take place that following year. It is unknown what happened to the animatronics at this location, although it was most likely taken back to the SPT distribution center.
 
 ### Post-CEC Era (2014-Present)
 
@@ -24,11 +24,11 @@ After the store permanently closed, the location along with several other buildi
 
 ## Stages
 
-The location opened with a {{< wiki-link "Studio C Beta" >}}, 16m, which would be kept until the store’s closure in 2014. After closing the TV Portion of the Studio C Beta would be sent to {{< wiki-link "Miamisburg, OH (30 Prestige Place)" >}}.
+The location opened with a [Studio C Beta], 16m, which would be kept until the store’s closure in 2014. After closing the TV Portion of the Studio C Beta would be sent to [Miamisburg, OH (30 Prestige Place)].
 
 | Stage                                   | Installed | Removed        |
 |-----------------------------------------|-----------|----------------|
-| {{< wiki-link "Studio C Beta" >}} | 2007      | September 2014 |
+| [Studio C Beta] | 2007      | September 2014 |
 
 ## Arcade Machines
 
@@ -59,5 +59,5 @@ The location opened with a {{< wiki-link "Studio C Beta" >}}, 16m, which would b
 
 | Animatronics                                               | Serial Number | Whereabouts |
 |------------------------------------------------------------|---------------|-------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A           | Unknown     |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A           | Unknown     |
+| [Chuck E Cheese 16m (Animatronic)] | N/A           | Unknown     |
+| [Pizza Time Clock (Animatronic)]   | N/A           | Unknown     |

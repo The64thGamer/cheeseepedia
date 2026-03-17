@@ -1,13 +1,13 @@
-The ***YouTooz Classic Chuck E. Cheese Plush* is an upcoming plush of {{< wiki-link "Chuck E. Cheese" >}} in his classic outfit from {{< wiki-link "Pizza Time Theatre" >}}.https://www.tiktok.com/@youtooz/video/7388608776221330731**
+The ***YouTooz Classic Chuck E. Cheese Plush* is an upcoming plush of [Chuck E. Cheese] in his classic outfit from [Pizza Time Theatre].https://www.tiktok.com/@youtooz/video/7388608776221330731**
 
 ## History
 
-The plush was first announced on July 6th at 3:40pm EST on Youtooz's TikTok account in a video showing the front and back of the plush, with the CEC song 'Pumpkins in my pockets' playing.{{< cite 1 >}}
-On July 10th, Youtooz would confirm in an AMA that the plush would be releasing in its own singular wave, and that more plushies were planned for the future.{{< cite 1 >}}
-On the 15th they would release a promotional advertisement for their various franchises in a parody poster of the movie *Shrek*. This would feature Chuck, *Monty Gator* from *Five Nights at Freddy's,* *Ramona Flowers* from *Scott Pilgrim*, and the V-tuber *Chibidoki.*{{< cite 2 >}}
-On the 16th they would confirm the plush would be shipping worldwide, being one of the few pieces of merchandise of its time to be directly available outside of the US.{{< cite 3 >}}
-On July 19th Youtooz would announce the plush to be dropping on July 23rd at 3pm EST, and lasting until July 30th.{{< cite 4 >}} The plush would plan to ship from November 1-30th of 2024.{{< cite 5 >}}
+The plush was first announced on July 6th at 3:40pm EST on Youtooz's TikTok account in a video showing the front and back of the plush, with the CEC song 'Pumpkins in my pockets' playing.[1]
+On July 10th, Youtooz would confirm in an AMA that the plush would be releasing in its own singular wave, and that more plushies were planned for the future.[1]
+On the 15th they would release a promotional advertisement for their various franchises in a parody poster of the movie *Shrek*. This would feature Chuck, *Monty Gator* from *Five Nights at Freddy's,* *Ramona Flowers* from *Scott Pilgrim*, and the V-tuber *Chibidoki.*[2]
+On the 16th they would confirm the plush would be shipping worldwide, being one of the few pieces of merchandise of its time to be directly available outside of the US.[3]
+On July 19th Youtooz would announce the plush to be dropping on July 23rd at 3pm EST, and lasting until July 30th.[4] The plush would plan to ship from November 1-30th of 2024.[5]
 
 ## Design
 
-The design features Chuck E. Cheese in his classic {{< wiki-link "Pizza Time Theatre" >}} red vest, yellow shirt, and red derby hat attire. His shirt features two black buttons and a bowtie. On the back of the vest features yellow lettering saying 'THE *E* STANDS FOR ENTERTAINMENT'. His notable rat tail is present as well. The plush is posed sitting down in a neutral position, with Chuck smiling and his eyelids half closed.
+The design features Chuck E. Cheese in his classic [Pizza Time Theatre] red vest, yellow shirt, and red derby hat attire. His shirt features two black buttons and a bowtie. On the back of the vest features yellow lettering saying 'THE *E* STANDS FOR ENTERTAINMENT'. His notable rat tail is present as well. The plush is posed sitting down in a neutral position, with Chuck smiling and his eyelids half closed.

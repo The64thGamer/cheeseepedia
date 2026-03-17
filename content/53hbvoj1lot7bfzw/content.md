@@ -1,5 +1,5 @@
 ***Studio C Premiere*** was released in December 1997 and ran until September 1998.
-This show was eventually modified and re-edited for MMBB stores with the {{< wiki-link "May 1998 Studio C" >}}.
+This show was eventually modified and re-edited for MMBB stores with the [May 1998 Studio C].
 
 ## Show List:
 
@@ -70,8 +70,8 @@ This show was eventually modified and re-edited for MMBB stores with the {{< wik
 
 ## DVCAM Footage
 
-The first full footage of the show will be provided by Brian Hagan on December 21, 2021.{{< cite 1 >}} This was through a DVCAM recording of the show video spliced with recordings of the {{< wiki-link "Studio C" >}} stage performing the showtape. This recording would additionally be AI upscaled.
-The footage would be copyright-claimed minutes after upload, but was able to be downloaded before being pulled. The footage would be reuploaded multiple times with cut-down segments, but improved video clarity.{{< cite 2 >}}
+The first full footage of the show will be provided by Brian Hagan on December 21, 2021.[1] This was through a DVCAM recording of the show video spliced with recordings of the [Studio C] stage performing the showtape. This recording would additionally be AI upscaled.
+The footage would be copyright-claimed minutes after upload, but was able to be downloaded before being pulled. The footage would be reuploaded multiple times with cut-down segments, but improved video clarity.[2]
 
 ## Trivia:
 

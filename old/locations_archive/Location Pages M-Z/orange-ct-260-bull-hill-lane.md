@@ -17,21 +17,21 @@ latitudeLongitude = ["41.27162472","-72.99135508"]
 
 ## Stage
 
-Orange opened with a {{< wiki-link "Cyberamics Balcony Stage" >}} which remained until closure. The animatronics were sold at auction and their current whereabouts are unknown.
+Orange opened with a [Cyberamics Balcony Stage] which remained until closure. The animatronics were sold at auction and their current whereabouts are unknown.
 
 |                                                    |           |         |
 |----------------------------------------------------|-----------|---------|
 | Stage                                              | Installed | Removed |
-| {{< wiki-link "Cyberamics Balcony Stage" >}} | May 1983  | 1985    |
+| [Cyberamics Balcony Stage] | May 1983  | 1985    |
 
 ## Animatronics
 
 |                                                              |                    |                                              |
 |--------------------------------------------------------------|--------------------|----------------------------------------------|
 | Animatronics                                                 | Manufacturing Date | Status                                       |
-| {{< wiki-link "Chuck E Cheese (Cyberamic)" >}}         | Unknown            | Sold at auction, current whereabouts unknown |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | Unknown            | Sold at auction, current whereabouts unknown |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | Unknown            | Sold at auction, current whereabouts unknown |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | Unknown            | Sold at auction, current whereabouts unknown |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | Unknown            | Sold at auction, current whereabouts unknown |
-| {{< wiki-link "Warblettes (Cyberamic)" >}}             | Unknown            | Sold at auction, current whereabouts unknown |
+| [Chuck E Cheese (Cyberamic)]         | Unknown            | Sold at auction, current whereabouts unknown |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Sold at auction, current whereabouts unknown |
+| [Mr Munch (Cyberamic)]               | Unknown            | Sold at auction, current whereabouts unknown |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Sold at auction, current whereabouts unknown |
+| [Pasqually (Cyberamic)]              | Unknown            | Sold at auction, current whereabouts unknown |
+| [Warblettes (Cyberamic)]             | Unknown            | Sold at auction, current whereabouts unknown |

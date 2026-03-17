@@ -1,4 +1,4 @@
-The ***Prop TV* was a {{< wiki-link "Artifact Shelves" >}} item that was created for Chuck E. Cheese's locations in 1994.**
+The ***Prop TV* was a [Artifact Shelves] item that was created for Chuck E. Cheese's locations in 1994.**
 
 ## Design
 

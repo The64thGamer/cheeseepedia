@@ -58,8 +58,8 @@ This show featured 4 segments with 8 songs.
 
 #### Filming Locations:
 
-- 'That's The Way (I Like It)' was filmed at the {{< wiki-link "Grapevine, TX (2755 E Grapevine Mills Circle)" >}} location.
-- The location featured at the end of 'Living In America' is the {{< wiki-link "Grand Prairie, TX (2760 W I-20)" >}} location.
+- 'That's The Way (I Like It)' was filmed at the [Grapevine, TX (2755 E Grapevine Mills Circle)] location.
+- The location featured at the end of 'Living In America' is the [Grand Prairie, TX (2760 W I-20)] location.
 
 ### File Dates
 
@@ -77,6 +77,6 @@ When inserting the upgrade floppy, a message would appear on the screen saying
 ## Trivia
 - 'Chuck E, Says' 1996, ‘Rockin’ Christmas Eve’ and ‘Patriotic Live 2000’ appear on the Studio C DVDs but could not be played.
 - 'Locomotion' includes puppet footage for Studio C. This is the only live show to do this.
-- All of the CEC TV IDs are reused from the {{< wiki-link "April 2002 Show" >}}
-- 'ABC' reuses footage from {{< wiki-link "Patriotic 1994 Show" >}}
-- In 'Pizza Survivor' Jasper sings a line of 'Cheese Pizza is Pure Delight' from {{< wiki-link "August 1999" >}}.
+- All of the CEC TV IDs are reused from the [April 2002 Show]
+- 'ABC' reuses footage from [Patriotic 1994 Show]
+- In 'Pizza Survivor' Jasper sings a line of 'Cheese Pizza is Pure Delight' from [August 1999].

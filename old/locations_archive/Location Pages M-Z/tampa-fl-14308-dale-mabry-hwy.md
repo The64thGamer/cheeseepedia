@@ -13,11 +13,11 @@ pageThumbnailFile = "k9HkefN8G7kJesuyLLeN.avif"
 latitudeLongitude = ["28.07526637","-82.50890098"]
 +++
 
-***14308 Dale Mabry Hwy, Store #430*** is a *Chuck E. Cheese* that opened in July 1991 with a {{< wiki-link "Road Stage" >}}. This store was the 10th Road Stage constructed, the 4th store to open up as a *Chuck E. Cheese's Pizza* location in the state of Florida.(1) This location should not be confused with Tampa, FL (13210 N Dale Mabry Hwy)|13210 N Dale Mabry Hwy which was a Pizza Time Theatre location that opened in August 1981 and closed in 1984 with a {{< wiki-link "Cyberamics Balcony Stage" >}} &amp; Tampa, FL (12707 Dale Mabry Hwy)|12707 Dale Mabry Hwy which opened as a ShowBiz Pizza Place on November 24th, 1981, and closed in August of 1986.
+***14308 Dale Mabry Hwy, Store #430*** is a *Chuck E. Cheese* that opened in July 1991 with a [Road Stage]. This store was the 10th Road Stage constructed, the 4th store to open up as a *Chuck E. Cheese's Pizza* location in the state of Florida.(1) This location should not be confused with Tampa, FL (13210 N Dale Mabry Hwy)|13210 N Dale Mabry Hwy which was a Pizza Time Theatre location that opened in August 1981 and closed in 1984 with a [Cyberamics Balcony Stage] &amp; Tampa, FL (12707 Dale Mabry Hwy)|12707 Dale Mabry Hwy which opened as a ShowBiz Pizza Place on November 24th, 1981, and closed in August of 1986.
 
 ## Stages
 
-This store debuted with a finalized version of the {{< wiki-link "Road Stage" >}} retaining everything that came with a road stage past the couple of prototype stages prior. Mr. Munch &amp; Pasqually's had their PTT movements for the 1st couple of years the store was opened. In 1993 the store would switch out his Pasqually's arms movement for ones resembling Chuck E's while Mr. Munch would retain his movements up until the conversion of the store in 1994. From 1994 to 2019 they would receive a {{< wiki-link "2-Stage" >}} to replace their Road Stage alongside all of the parts to give Mr. Munch &amp; Pasqually their 2-Stage arm movements &amp; Jasper's Cheese Guitar. In 2006 with their 2nd major expansion, they would receive the {{< wiki-link "CEC 2000's Remodel Program" >}} update which removed the Phase 3 Sports Shelves surrounding the stage &amp; the extra TV's surrounding it, they would replace Chuck E's Tux Outfit with his Avenger Outfit, but Chuck E. &amp; Helen still kept their microphones. They would also receive the Jasper animatronic from Lakeland, FL (3558 US Hwy 98)|Lakeland, FL (3558 US Hwy 98) in 2006. The 2-Stage was also planned to be removed for a {{< wiki-link "Studio C Beta" >}} but the plans fell through due to the height of the ceiling causing issues. Post early 2010's they would remove the orange dimmed lighting from the gameroom &amp; showroom, alongside the showroom walls shortly after following the removal of extra TV's hanging on columns outside of the showroom. In late 2011 they would remove the décor surrounding the television on stage replacing it with a generic flat screen Samsung TV, the removal of the showroom walls &amp; balcony seating era was also evident around this time. Sometime in Pre-2012 Munch &amp; Pasqually had their body turns unlocked allowing them to move left &amp; right alongside their heads. In 2013 they removed Chuck E's Avenger Hat &amp; Jasper's Cowboy Hat to fit in more with the branding of Rockstar Era. In Late 2014-Late 2016 the show had following into a deep state of disrepair with barely any of the animatronics working at all with Munch being in the best condition (only lacking his hand movements &amp; his left eye color being faded out) while Chuck E. &amp; Helen being in the worst condition during that time, the show was still better than Brandon, FL (The only other 2-Stage in Florida &amp; closest location next to it) but it wasn't much of a competition since both were below average around that time. On March 23, 2016, the brief time Grant came by the store he reenabled the curtains for Chuck E's stage, being able to use them for live shows in the near future. Munch still had his body turn function unlocked &amp; it would remain this way for the rest of stage's life.
+This store debuted with a finalized version of the [Road Stage] retaining everything that came with a road stage past the couple of prototype stages prior. Mr. Munch &amp; Pasqually's had their PTT movements for the 1st couple of years the store was opened. In 1993 the store would switch out his Pasqually's arms movement for ones resembling Chuck E's while Mr. Munch would retain his movements up until the conversion of the store in 1994. From 1994 to 2019 they would receive a [2-Stage] to replace their Road Stage alongside all of the parts to give Mr. Munch &amp; Pasqually their 2-Stage arm movements &amp; Jasper's Cheese Guitar. In 2006 with their 2nd major expansion, they would receive the [CEC 2000's Remodel Program] update which removed the Phase 3 Sports Shelves surrounding the stage &amp; the extra TV's surrounding it, they would replace Chuck E's Tux Outfit with his Avenger Outfit, but Chuck E. &amp; Helen still kept their microphones. They would also receive the Jasper animatronic from Lakeland, FL (3558 US Hwy 98)|Lakeland, FL (3558 US Hwy 98) in 2006. The 2-Stage was also planned to be removed for a [Studio C Beta] but the plans fell through due to the height of the ceiling causing issues. Post early 2010's they would remove the orange dimmed lighting from the gameroom &amp; showroom, alongside the showroom walls shortly after following the removal of extra TV's hanging on columns outside of the showroom. In late 2011 they would remove the décor surrounding the television on stage replacing it with a generic flat screen Samsung TV, the removal of the showroom walls &amp; balcony seating era was also evident around this time. Sometime in Pre-2012 Munch &amp; Pasqually had their body turns unlocked allowing them to move left &amp; right alongside their heads. In 2013 they removed Chuck E's Avenger Hat &amp; Jasper's Cowboy Hat to fit in more with the branding of Rockstar Era. In Late 2014-Late 2016 the show had following into a deep state of disrepair with barely any of the animatronics working at all with Munch being in the best condition (only lacking his hand movements &amp; his left eye color being faded out) while Chuck E. &amp; Helen being in the worst condition during that time, the show was still better than Brandon, FL (The only other 2-Stage in Florida &amp; closest location next to it) but it wasn't much of a competition since both were below average around that time. On March 23, 2016, the brief time Grant came by the store he reenabled the curtains for Chuck E's stage, being able to use them for live shows in the near future. Munch still had his body turn function unlocked &amp; it would remain this way for the rest of stage's life.
 
 ### Stage Repair/Additions
 
@@ -29,10 +29,10 @@ The era of animatronics for this store came to an end in August 13, 2019, when t
 
 | Stage                                                      | Installed       | Removed         | Notes                                                                                                     |
 |------------------------------------------------------------|-----------------|-----------------|-----------------------------------------------------------------------------------------------------------|
-| {{< wiki-link "Road Stage" >}}            | July 1991       | 1994-1995       | One of 6 installed in Florida.                                                                            |
-| {{< wiki-link "2-Stage" >}}                          | 1994-1995       | August 28, 2019 | One of 4 installed in Florida.                                                                            |
-| {{< wiki-link "Chuck E Live Stage (Dance Floor)" >}} | August 21, 2019 | Still In Use    | 2019 Model. Was originally supposed to get 2.0 in around 2017-2018. Upgraded to 2021 Model in April 2023. |
-| {{< wiki-link "Video Wall" >}}                       | April 2023      | Still In Use    | Added in April 2023.                                                                                      |
+| [Road Stage]            | July 1991       | 1994-1995       | One of 6 installed in Florida.                                                                            |
+| [2-Stage]                          | 1994-1995       | August 28, 2019 | One of 4 installed in Florida.                                                                            |
+| [Chuck E Live Stage (Dance Floor)] | August 21, 2019 | Still In Use    | 2019 Model. Was originally supposed to get 2.0 in around 2017-2018. Upgraded to 2021 Model in April 2023. |
+| [Video Wall]                       | April 2023      | Still In Use    | Added in April 2023.                                                                                      |
 
 ## History
 
@@ -40,7 +40,7 @@ The era of animatronics for this store came to an end in August 13, 2019, when t
 
 ### Phase Remodels
 
-In 1991 the store 1st opened with a pretty standardized layout at the time with a Ball Bath &amp; checker pattern designs on the walls. In 1994 the location received the Phase 1 update which included Kid Check, Skytubes, &amp; new artwork alongside record posters &amp; sports décor in the showroom. Then in 1997 a major expansion in terms of general layout changes &amp; receiving the Phase 2 update with a whole new game section near the back of the store which used to just be storage, a new game package, &amp; a bit of a rework of the in-store layout like the showroom wall entrance being moved further up. (2) Sometime between 2000-2002 they would receive a Phase 3 update which would remove the ball pit for a Toddler Zone area alongside a new game package, this store would retain many of the Phase 2 artwork &amp; design though. This would be followed in 2006 where the store saw its 2nd major remodel as it updated the store into a {{< wiki-link "CEC 2000's Remodel Program" >}} removing most of the Phase 2 &amp; Phase 3 artwork and décor for the kids and parody posters etc., the only surviving pieces of artwork includes some of the 2000's postcards posters &amp; the showroom entrance logo. This location would also receive a new game package, curtains being turned off, dimmed lighting being removed from the showroom. In 2012 they would their last significant update in 2011-2012 where they would receive the 2010 remodel which removed the extra TV's outside of the showroom, removal of the showroom walls &amp; balcony seating, the dimmed orangish lighting inside of the building being turned off, &amp; the reduced size of the toddler zone. In 2014-2015 they would completely remove the {{< wiki-link "Skytubes" >}} &amp; Toddler Zone for Chuck E's Bumper Cars, finally in 2018 they would change up the layout in the entrance inside of the store to widen up the gameroom &amp; make it more open this however would be reverted back in late 2019 with the 2.0 remodel. In 2017 they were one of the 5 Florida test locations for Chuck E. Cheese Menu items to be delivered via UberEats. (3)
+In 1991 the store 1st opened with a pretty standardized layout at the time with a Ball Bath &amp; checker pattern designs on the walls. In 1994 the location received the Phase 1 update which included Kid Check, Skytubes, &amp; new artwork alongside record posters &amp; sports décor in the showroom. Then in 1997 a major expansion in terms of general layout changes &amp; receiving the Phase 2 update with a whole new game section near the back of the store which used to just be storage, a new game package, &amp; a bit of a rework of the in-store layout like the showroom wall entrance being moved further up. (2) Sometime between 2000-2002 they would receive a Phase 3 update which would remove the ball pit for a Toddler Zone area alongside a new game package, this store would retain many of the Phase 2 artwork &amp; design though. This would be followed in 2006 where the store saw its 2nd major remodel as it updated the store into a [CEC 2000's Remodel Program] removing most of the Phase 2 &amp; Phase 3 artwork and décor for the kids and parody posters etc., the only surviving pieces of artwork includes some of the 2000's postcards posters &amp; the showroom entrance logo. This location would also receive a new game package, curtains being turned off, dimmed lighting being removed from the showroom. In 2012 they would their last significant update in 2011-2012 where they would receive the 2010 remodel which removed the extra TV's outside of the showroom, removal of the showroom walls &amp; balcony seating, the dimmed orangish lighting inside of the building being turned off, &amp; the reduced size of the toddler zone. In 2014-2015 they would completely remove the [Skytubes] &amp; Toddler Zone for Chuck E's Bumper Cars, finally in 2018 they would change up the layout in the entrance inside of the store to widen up the gameroom &amp; make it more open this however would be reverted back in late 2019 with the 2.0 remodel. In 2017 they were one of the 5 Florida test locations for Chuck E. Cheese Menu items to be delivered via UberEats. (3)
 
 ### 2.0 Store Remodel
 
@@ -53,7 +53,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 | Arcade Machine/Ride                                                                      | Installed | Removed      |
 |------------------------------------------------------------------------------------------|-----------|--------------|
 | After Burner Climax                                                                      | 2014      | 2018         |
-| {{< wiki-link "Air Hockey" >}}                                                     | 1991      | 1997         |
+| [Air Hockey]                                                     | 1991      | 1997         |
 | ***Alleyroller***                                                                        | 2015      | Still In Use |
 | ***Aliens Extermination***                                                               | 2017      | Still In Use |
 | American Train Ride                                                                      | 2007      | 2013         |
@@ -63,7 +63,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 | Basket Fever                                                                             | 2002      | 2015         |
 | ***Big Bass Wheel***                                                                     | 2009      | Still In Use |
 | Big Mouth 2000                                                                           | 2000      | 2009         |
-| ***{{< wiki-link "Big Win Super Spin" >}}***                                       | 2010      | Still In Use |
+| ***[Big Win Super Spin]***                                       | 2010      | Still In Use |
 | ***Black Hole***                                                                         | 2018      | Still In Use |
 | Bob The Builder Scoop Ride                                                               | 2002      | 2013         |
 | ***Bop 2 Win***                                                                          | 2017      | Still In Use |
@@ -87,24 +87,24 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 | Chuck E's Bumper Cars                                                                    | 2014      | 2019         |
 | Chuck E. Cheese's Coloring Book                                                          | 2002      | 2011         |
 | Country Acres\|Chuck E's Country Acres                                                   | 2004      | 2014         |
-| {{< wiki-link "Chuck E's Duckies" >}}                                              | 2002      | 2014         |
+| [Chuck E's Duckies]                                              | 2002      | 2014         |
 | Chuck E. Cheese's Flyin' Fish                                                            | 2000      | 2007         |
 | Chuck E's Free Fall                                                                      | 2007      | 2011         |
 | Chuck E.'s Glider Rider\|Chuck E's Helicopter Ride                                       | 2002      | 2014         |
 | Chuck E. Cheese's Kiddie Coaster: Thrill of a Lifetime\|Chuck E. Cheese's Kiddie Coaster | 2005      | 2012         |
 | Chuck E. Cheese's Kooky Konga                                                            | 2008      | 2013         |
-| {{< wiki-link "Chuck E Cheese's Memory Match" >}}                                  | 1996      | 2003         |
+| [Chuck E Cheese's Memory Match]                                  | 1996      | 2003         |
 | Chuck E's Penalty Shoot-Off                                                              | 1994      | 2007         |
 | Chuck E. Cheese's Photo Ride (1993)                                                      | 1996      | 1997         |
 | Chuck E. Cheese's Photo Ride (1997)                                                      | 1997      | 2014         |
 | ***Chuck E. Cheese's Photo Ride (2014)***                                                | 2014      | Still In Use |
-| ***{{< wiki-link "Pop It for Gold" >}}***                                          | 2004      | Still In Use |
+| ***[Pop It for Gold]***                                          | 2004      | Still In Use |
 | Chuck E's Pump N' Jump                                                                   | 2010      | 2014         |
 | Chuck E. Cheese's Ripper Ribbit                                                          | 1999      | 2012         |
-| {{< wiki-link "Chuck E. Cheese Roll" >}}                                            | 1991      | 1997         |
+| [Chuck E. Cheese Roll]                                            | 1991      | 1997         |
 | Chuck E's Rubble Bubble                                                                  | 2004      | 2016         |
 | Chuck E's Skee Ball                                                                      | 1997      | 2015         |
-| ***{{< wiki-link "Chuck E Cheese's Sketch Book" >}}***                             | 2005      | Still In Use |
+| ***[Chuck E Cheese's Sketch Book]***                             | 2005      | Still In Use |
 | CEC Street Hoops\|Chuck E's Street Hoops                                                 | 2002      | 2015         |
 | Thunderation\|Chuck E's Thunderation                                                     | 2009      | 2011         |
 | Chuck E. Cheese's Trolly\|Chuck E's Trolley Ride                                         | 1991      | 2015         |
@@ -174,7 +174,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 | ***Hat Tricks***                                                                         | 2015      | Still In Use |
 | Haunted Manor                                                                            | 2011      | 2019         |
 | Helen Car Ride                                                                           | 1997      | 2001         |
-| {{< wiki-link "Chuck E Cheese's Hightops" >}}                                      | 1997      | 2014         |
+| [Chuck E Cheese's Hightops]                                      | 1997      | 2014         |
 | Teacup Ride\|Hot Chocolate Ride                                                          | 2012      | 2015         |
 | Hungry Frogeye                                                                           | 2015      | 2019         |
 | Hungry Hungry Hippos                                                                     | 1997      | 2000         |
@@ -195,7 +195,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 | ***Marathon Runners***                                                                   | 2011      | Still In Use |
 | Monopoly (Cyclone Clone)                                                                 | 2010      | 2015         |
 | Monster Truck                                                                            | 2001      | 2014         |
-| {{< wiki-link "Munch Mouth" >}}                                                    | 1991      | 2000         |
+| [Munch Mouth]                                                    | 1991      | 2000         |
 | Nascar Racing                                                                            | 2010      | 2017         |
 | ***NBA Hoops***                                                                          | 2015      | Still In Use |
 | ***NBA Hoop Troops***                                                                    | 2020      | Still In Use |
@@ -245,7 +245,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 | Teletubbies Noo-Noo Ride                                                                 | 2003      | 2011         |
 | ***Teenage Mutant Ninja Turtles (2012)***                                                | 2019      | Still In Use |
 | The Doctor Monster Truck Ride                                                            | 2005      | 2010         |
-| {{< wiki-link "The Great Ticket Carnival" >}}                                      | 2012      | 2017         |
+| [The Great Ticket Carnival]                                      | 2012      | 2017         |
 | The Flintstones Pinball                                                                  | 1997      | 1999         |
 | ***The Price Is Right***                                                                 | 2013      | Still In Use |
 | ***The Revenge Of Hammerhead***                                                          | 2017      | Still In Use |
@@ -308,8 +308,8 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                   |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------|
 | Chuck E Cheese (Cyberamic)                                   | 1991               | Owned by a Private Collector.                                                                                 |
-| {{< wiki-link "Guest Star Helen Henny (Cyberamic)" >}} | 1991               | Owned by a Private Collector.                                                                                 |
-| {{< wiki-link "Mr Munch (Cyberamic)" >}}               | 1991               | Owned by a Private Collector.                                                                                 |
-| {{< wiki-link "Jasper T Jowls (Cyberamic)" >}}         | 1991/1993          | Original Bot unknown, replaced with bot from Lakeland, FL (3558 US Hwy 98), now owned by a Private Collector. |
-| {{< wiki-link "Pasqually (Cyberamic)" >}}              | 1991               | Owned by a Private Collector.                                                                                 |
+| [Guest Star Helen Henny (Cyberamic)] | 1991               | Owned by a Private Collector.                                                                                 |
+| [Mr Munch (Cyberamic)]               | 1991               | Owned by a Private Collector.                                                                                 |
+| [Jasper T Jowls (Cyberamic)]         | 1991/1993          | Original Bot unknown, replaced with bot from Lakeland, FL (3558 US Hwy 98), now owned by a Private Collector. |
+| [Pasqually (Cyberamic)]              | 1991               | Owned by a Private Collector.                                                                                 |
 | Wink (Animatronic)\|Wink (Cyberamic)                         | 1991               | Owned by a Private Collector.                                                                                 |

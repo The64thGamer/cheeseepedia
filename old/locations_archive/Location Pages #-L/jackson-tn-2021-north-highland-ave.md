@@ -62,7 +62,7 @@ TODO
 - Operation
 - Lumber Jack
 - Safari Ranger
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Big Win Super Spin]
 - Full Tilt
 - Drop It! Drop It!
 - Skee Racer
@@ -82,7 +82,7 @@ TODO
 
 ### Kiddie
 
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Hammer Fun
 - Angel Carousel
 - Octonauts (Kwazii)
@@ -114,4 +114,4 @@ TODO
 
 | Animatronic                                                | Serial | Whereabouts      |
 |------------------------------------------------------------|--------|------------------|
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A    | Currently in Use |
+| [Chuck E Cheese 16m (Animatronic)] | N/A    | Currently in Use |

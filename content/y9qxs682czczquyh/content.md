@@ -1,4 +1,4 @@
-***3-Birthday Showtape (Rerelease)* is a rerelease of the {{< wiki-link "3-Birthday Reel" >}} Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on July 15, 1988.
+***3-Birthday Showtape (Rerelease)* is a rerelease of the [3-Birthday Reel] Rock-afire Explosion showtape released in ShowBiz Pizza Place locations on July 15, 1988.
 The audio quality of the reel is noticeably lower than the original release of the showtape.**
 
 ## Show List

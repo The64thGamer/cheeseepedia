@@ -28,22 +28,22 @@ Oh yeah, now I remember.
 
 ## Locations I have visited
 
-{{< wiki-link "Silver Spring, MD (13807 Outlet Dr)" >}}
-{{< wiki-link "Laurel, MD (936 Fairlawn Ave)" >}}
-{{< wiki-link "Largo, MD (1100 Shoppers Way)" >}}
-{{< wiki-link "Takoma Park, MD (1127 University Blvd E)" >}}
-{{< wiki-link "Rockville, MD (5270 Randolph Rd)" >}}
-{{< wiki-link "San Salvador, ES (503 Carretera Panamericana)" >}} (International Location!)
-{{< wiki-link "Annapolis, MD (2333-A Forest Dr)" >}}
-{{< wiki-link "Alexandria, VA (6301 Richmond Hwy)" >}} (i think im not sure)
+[Silver Spring, MD (13807 Outlet Dr)]
+[Laurel, MD (936 Fairlawn Ave)]
+[Largo, MD (1100 Shoppers Way)]
+[Takoma Park, MD (1127 University Blvd E)]
+[Rockville, MD (5270 Randolph Rd)]
+[San Salvador, ES (503 Carretera Panamericana)] (International Location!)
+[Annapolis, MD (2333-A Forest Dr)]
+[Alexandria, VA (6301 Richmond Hwy)] (i think im not sure)
 
 ## Pages I have created/contributed to greatly
 
-{{< wiki-link "Silver Spring, MD (13807 Outlet Dr)" >}}
-{{< wiki-link "Largo, MD (1100 Shoppers Way)" >}}
-{{< wiki-link "Takoma Park, MD (1127 University Blvd E)" >}}
-{{< wiki-link "Joplin, MO (101 N Range Line Rd)" >}}
-{{< wiki-link "San Salvador, ES (503 Carretera Panamericana)" >}}
+[Silver Spring, MD (13807 Outlet Dr)]
+[Largo, MD (1100 Shoppers Way)]
+[Takoma Park, MD (1127 University Blvd E)]
+[Joplin, MO (101 N Range Line Rd)]
+[San Salvador, ES (503 Carretera Panamericana)]
 
 ## General Announcement
 

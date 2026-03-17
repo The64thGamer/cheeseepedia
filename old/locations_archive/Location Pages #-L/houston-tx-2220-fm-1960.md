@@ -14,7 +14,7 @@ categories = ["ShowBiz Pizza Place"]
 
 ## Stages
 
-When this location first opened, it featured {{< wiki-link "Classic Stage" >}}, receiving {{< wiki-link "Concept Unification" >}} sometime around 1991/1992. Around 2009-2010, when the store remodeled again, the stage was replaced with a Studio C Beta stage featuring a {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}}. As the store's closure date neared in August 2018, the animatronic bot would lose his teeth,(1) remaining up to the closure of the store.
+When this location first opened, it featured [Classic Stage], receiving [Concept Unification] sometime around 1991/1992. Around 2009-2010, when the store remodeled again, the stage was replaced with a Studio C Beta stage featuring a [Chuck E Cheese 16m (Animatronic)]. As the store's closure date neared in August 2018, the animatronic bot would lose his teeth,(1) remaining up to the closure of the store.
 
 ## History
 
@@ -26,7 +26,7 @@ This location originally opened as a ShowBiz Pizza Place on June 25th, 1981. Lik
 
 ### Chuck E. Cheese's
 
-Presumably around 1991/1992, the store would undergo {{< wiki-link "Concept Unification" >}}. Not that much information is known about this store, but had received several changes/remodels on its stage and store over the years. Around 2009-2010, this location received the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, involving some slight downsizing at the back of the store and replacing the 3-Stage for a {{< wiki-link "Studio C Beta" >}} with a 16M movement bot. Over the years, the store's surrounding area would worsen as its shopping center became more abandoned, causing crime rates at this location to be on the rise. Because of these issues, this location would plan a relocation to the North Junction Plaza, eventually being announced with the closure originally planned around March 2018, but was delayed. This location would close their doors on August 26th, 2018 and reopen their new location on September 1st the same year at Houston, TX (146 FM 1960)|146 FM 1960. To this day, this store still remains abandoned and vacant.
+Presumably around 1991/1992, the store would undergo [Concept Unification]. Not that much information is known about this store, but had received several changes/remodels on its stage and store over the years. Around 2009-2010, this location received the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, involving some slight downsizing at the back of the store and replacing the 3-Stage for a [Studio C Beta] with a 16M movement bot. Over the years, the store's surrounding area would worsen as its shopping center became more abandoned, causing crime rates at this location to be on the rise. Because of these issues, this location would plan a relocation to the North Junction Plaza, eventually being announced with the closure originally planned around March 2018, but was delayed. This location would close their doors on August 26th, 2018 and reopen their new location on September 1st the same year at Houston, TX (146 FM 1960)|146 FM 1960. To this day, this store still remains abandoned and vacant.
 
 ## Arcade Machines
 
@@ -34,11 +34,11 @@ Presumably around 1991/1992, the store would undergo {{< wiki-link "Concept Unif
 
 - Alley Roller Classic
 - CEC Street Hoops
-- {{< wiki-link "Chuck E Cheese's Sketch Book" >}}
+- [Chuck E Cheese's Sketch Book]
 - Cyclone Junior
 - Penalty Shot Chuck E. Cheese's
-- {{< wiki-link "Pop It for Gold" >}}
-- {{< wiki-link "Big Win Super Spin" >}}
+- [Pop It for Gold]
+- [Big Win Super Spin]
 - Pop The Lock
 - Harpoon Lagoon
 - Reactor
@@ -120,5 +120,5 @@ Presumably around 1991/1992, the store would undergo {{< wiki-link "Concept Unif
 | Moon                                                       | 1-81 11-4 | Unknown     |
 | Antioch                                                    | N/A       | Unknown     |
 | Wink                                                       | N/A       | Unknown     |
-| {{< wiki-link "Chuck E Cheese 16m (Animatronic)" >}} | N/A       | Unknown     |
-| {{< wiki-link "Pizza Time Clock (Animatronic)" >}}   | N/A       | Unknown     |
+| [Chuck E Cheese 16m (Animatronic)] | N/A       | Unknown     |
+| [Pizza Time Clock (Animatronic)]   | N/A       | Unknown     |

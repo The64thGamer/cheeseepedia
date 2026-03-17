@@ -6,7 +6,7 @@ This character was produced in 1998 for the Marvelously Interactive Animation sh
 
 ## Design
 
-This bot is a Standard Mijjin mech, the mech has blue eye pieces and is a retrofit of a Billy Bob. The bot is the Looney Bird Character from the {{< wiki-link "Rock-afire Explosion" >}} in the smaller Mijjin style, now with a body. This character is seen wearing a unique Lab Coat, with 4 multicolored buttons on the front, similar to Toyland Fatz.
+This bot is a Standard Mijjin mech, the mech has blue eye pieces and is a retrofit of a Billy Bob. The bot is the Looney Bird Character from the [Rock-afire Explosion] in the smaller Mijjin style, now with a body. This character is seen wearing a unique Lab Coat, with 4 multicolored buttons on the front, similar to Toyland Fatz.
 
 ## Movements
 

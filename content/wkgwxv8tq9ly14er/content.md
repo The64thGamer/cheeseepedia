@@ -1,4 +1,4 @@
-The 1984 ***Warren, MI Family Album Technical Documents* were a set of handwritten documents by an employee going by 'Jimmie' for controlling the {{< wiki-link "Family Album" >}} stage show at the Warren, MI (11555 Engleman Rd) Pizza Time Theatre.**
+The 1984 ***Warren, MI Family Album Technical Documents* were a set of handwritten documents by an employee going by 'Jimmie' for controlling the [Family Album] stage show at the Warren, MI (11555 Engleman Rd) Pizza Time Theatre.**
 
 ## Contents
 

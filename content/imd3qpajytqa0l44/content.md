@@ -1,4 +1,4 @@
-**Patriotic 1998 (June 1998)** Played from June 23, 1998 - July 6, 1998, after which {{< wiki-link "May 1998 Studio C" >}} would play again.
+**Patriotic 1998 (June 1998)** Played from June 23, 1998 - July 6, 1998, after which [May 1998 Studio C] would play again.
 
 ## History
 

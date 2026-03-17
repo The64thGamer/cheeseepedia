@@ -109,9 +109,9 @@
 
 ## ShowBiz Pizza Program
 
-For stores using reels, an accompanying music cassette was provided that included radio songs. These would be played between segments on the reel to make up for the lack of intermissions. This showtape used {{< wiki-link "ShowBiz Pizza Program 3" >}}.
+For stores using reels, an accompanying music cassette was provided that included radio songs. These would be played between segments on the reel to make up for the lack of intermissions. This showtape used [ShowBiz Pizza Program 3].
 
 ## Trivia:
 
-- This tape was the first used with the Cybervision test at {{< wiki-link "Arlington, TX (2216 S Fielder Rd)" >}}.
+- This tape was the first used with the Cybervision test at [Arlington, TX (2216 S Fielder Rd)].
 - This show's special skits are reused from CEC History of Rock and Roll.

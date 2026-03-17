@@ -1,4 +1,4 @@
-**American Pride** is a patriotic-themed show that played at Chuck E. Cheese's, not to be confused with {{< wiki-link "CEC American Pride . Neighbors" >}}.
+**American Pride** is a patriotic-themed show that played at Chuck E. Cheese's, not to be confused with [CEC American Pride . Neighbors].
 
 ## Show List
 
@@ -83,7 +83,7 @@
 
 ## Trivia:
 
-- The intermission music is the same as {{< wiki-link "SPP Best Of 4" >}}.
+- The intermission music is the same as [SPP Best Of 4].
 - The first show to include CEC TV Specials.
 - This show introduced a brand new Helen Henny walkaround costume.
 - Locations in Canada played the CEC TV Classics '91 show instead.

@@ -1,13 +1,13 @@
-The ***SPT 1980's Remodel Program* was a remodel of *Pizza Time Theatre* and *ShowBiz Pizza Place* restaurants that has been conceptualized during {{< wiki-link "Concept Unification" >}} to unite the two brands under one look. The remodel also aimed to look more like a place families would stop by on the regular, as by this time ShowBiz was more focused on giving families their best experience when they visit.**
+The ***SPT 1980's Remodel Program* was a remodel of *Pizza Time Theatre* and *ShowBiz Pizza Place* restaurants that has been conceptualized during [Concept Unification] to unite the two brands under one look. The remodel also aimed to look more like a place families would stop by on the regular, as by this time ShowBiz was more focused on giving families their best experience when they visit.**
 
 ## History
 
-During {{< wiki-link "Concept Unification" >}}, there was an effort to unite both Pizza Time Theatre and ShowBiz Pizza Place stores under a unified design.
-The first location to be remodeled under this program would be the {{< wiki-link "Austin, TX (502 W Ben White Blvd)" >}} location in 1986 and would later be the building blocks for the later 1994 SPT Repositioning / Remodel Program|1990s remodels that would take place between 1994 and 1997
+During [Concept Unification], there was an effort to unite both Pizza Time Theatre and ShowBiz Pizza Place stores under a unified design.
+The first location to be remodeled under this program would be the [Austin, TX (502 W Ben White Blvd)] location in 1986 and would later be the building blocks for the later 1994 SPT Repositioning / Remodel Program|1990s remodels that would take place between 1994 and 1997
 
 ## Design
 
-Contrary to popular belief, the iconic checkers around the building that the remodel is most commonly associated with didn't debut until around the opening of the {{< wiki-link "Irving, TX (3903 W Airport Fwy)" >}} in 1988.
+Contrary to popular belief, the iconic checkers around the building that the remodel is most commonly associated with didn't debut until around the opening of the [Irving, TX (3903 W Airport Fwy)] in 1988.
 
 #### Exterior
 
@@ -16,5 +16,5 @@ ShowBiz Pizza Place and Pizza Time Theatre locations would have received a retro
 
 #### Interior
 
-All interiors were redone to have white walls with brown breadboards accompanying them. The first few locations to receive the remodel in 1986 and 1987 had the bottom halves of the walls repainted to be blue.{{< cite 1 >}}
+All interiors were redone to have white walls with brown breadboards accompanying them. The first few locations to receive the remodel in 1986 and 1987 had the bottom halves of the walls repainted to be blue.[1]
 The service areas of locations would have their accompanying neon sign above, most of the time is accompanied by a blue and white striped canopy behind it.
