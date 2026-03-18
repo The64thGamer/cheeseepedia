@@ -1,0 +1,41 @@
+{
+  "title": "Davenport, IA (903 E Kimberly Rd)",
+  "storeNumber": "",
+  "startDate": "1981-02-25",
+  "endDate": "2024-04-07",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-02-25",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-04-00",
+      "e": "2019-09-00",
+      "desc": "One of 4 3-Stages in Iowa to undergo Concept Unification. Was in decent condition. Chuck had rare 'Cool Chuck' outfit."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00",
+      "e": "2024-04-07"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.55574582",
+    "-90.56374873"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Av3QZUfBGffSGOloYCBY.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

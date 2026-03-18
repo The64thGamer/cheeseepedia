@@ -1,0 +1,52 @@
+{
+  "title": "Brandon, FL (1540 W Brandon Blvd)",
+  "storeNumber": "",
+  "startDate": "1981-08-00",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-08-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2021-04-15",
+      "desc": "One of 4 installed in Florida. Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2021-04-09",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Mega Superhero Playground",
+      "s": "2025-07-00",
+      "desc": "First Ever Installation"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "27.93751732",
+    "-82.30943808"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "LnzsZG73IC14oJ8r9us0.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

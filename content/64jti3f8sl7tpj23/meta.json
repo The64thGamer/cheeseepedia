@@ -1,0 +1,40 @@
+{
+  "title": "Bridgeville, PA (1025 Washington Pike)",
+  "storeNumber": "",
+  "startDate": "1983-02-17",
+  "endDate": "2002-00-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-02-17",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1992-00-00",
+      "e": "2002-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.36444672",
+    "-80.11325788"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "ziojPIB3XWH8z9vSYsTc.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

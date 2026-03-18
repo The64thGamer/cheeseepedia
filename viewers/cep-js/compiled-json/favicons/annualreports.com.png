@@ -1,0 +1,364 @@
+<!DOCTYPE html><html lang="en">
+<head>
+	<title>AnnualReports.com</title>
+	<meta charset="utf-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/x-icon" href="/img/ar/favicon.ico"><link rel="stylesheet" href="/css/ar/style.css" type="text/css" media="all" />
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-265KX25TCT"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-265KX25TCT');
+</script>
+</head>
+<body>
+<div class="container"">
+        <header class="header">
+            <div class="left_section">
+                <div class="logo">
+                    <a href="/"><img src="/img/ar/logo.webp" alt="AnnualReports.com"></a>
+                </div>
+            </div>
+            <div id="mobile_nav">
+                <div id="toggle">
+                    <div>
+                    <div class="bar1"></div>
+                    <div class="bar2"></div>
+                    <div class="bar3"></div>
+                    </div>
+                    <div>Menu</div>
+                </div>
+                <div id="mb-nav" class="middle_section">
+                    <div class="mb-nav-wrapper">
+                        <div class="browseby">
+                            <a href="javascript:;">BROWSE BY</a>
+                            <ul>
+                                <li><a href="/Browse/Exchange">Exchanges</a></li>
+                                <li><a href="/Browse/Industry">Industry</a></li>
+                                <li><a href="/Search">Other Filters</a></li>
+                            </ul>
+                        </div>
+                        <div class="search">
+                            <form action="/Companies" method="get">
+                            <input type="text" name="search" placeholder="Company or Ticker Symbol">
+                            <input type="submit" value="Search">
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="middle_section">
+                <div class="browseby">
+                    <a href="javascript:;">BROWSE BY</a>
+                    <ul>
+                        <li><a href="/Browse/Exchange">Exchanges</a></li>
+                        <li><a href="/Browse/Industry">Industry</a></li>
+                        <li><a href="/Search">Other Filters</a></li>
+                    </ul>
+                </div>
+                <div class="search">
+                    <form action="/Companies">
+                    <input type="text" name="search" placeholder="Company or Ticker Symbol">
+                    <input type="submit" value="Search">
+                    </form>
+                </div>
+            </div>
+            <div class="right_section">
+                <div class="cart">
+                    <div class="cart_icon">
+                        <a href="/Cart"><img src="/img/ar/cart.webp" alt=""></a>
+                    </div>
+                    <div class="count" id="cart_count">0</div>
+                </div>
+            </div>
+        </header>
+        <section class="banner_section">
+            <div class="banner_content_wrapper">
+                <div class="top_banner_section">
+                    <div class="left_section">
+                        <h1>Annual reports for 10,379 international companies</h1>
+                        <p>Search <span class="numer">152,114</span> annual reports from <span class="numer">10,379</span> global companies help you make the right investment decision</p>
+                        <form action="/Companies" method="get">
+                            <span class="heading">Search for a Report</span>
+                            <input type="text" name="search" placeholder="Company Name or Ticker Symbol">
+                            <input type="submit" value="Search">
+                        </form>
+                    </div>
+                    <div class="right_section">
+                        <div class="img_block">
+                            <img src="/img/ar/banner_img.webp" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="banner_bottom_txt">
+                    AnnualReports.com is the most complete and up-to-date listing of annual report on the internet.
+                </div>
+            </div>
+        </section>
+        <section class="featured_reports">
+            <div class="featured_content_wrapper">
+                <h2>Featured Reports</h2>
+                <ul>
+                    <li>
+                        <div class="img_block">
+                            <img src="/HostedData/_ar_prvw/36657.webp" alt="Papa John's International Inc.">
+                        </div>
+                        <span class="category violetColor">Services</span>
+                        <span class="name">Papa John's International Inc.</span>
+                        <span class="button_featured_reports">
+                            <a href="/Company/papa-johns-international-inc" class="violetColor">View Report</a>
+                        </span>
+                    </li>
+                    <li>
+                        <div class="img_block">
+                            <img src="/HostedData/_ar_prvw/21302.webp" alt="The Sherwin-Williams Company">
+                        </div>
+                        <span class="category greenColor">Basic Materials</span>
+                        <span class="name">The Sherwin-Williams Company</span>
+                        <span class="button_featured_reports">
+                            <a href="/Company/the-sherwin-williams-company" class="greenColor">View Report</a>
+                        </span>
+                    </li>
+                    <li>
+                        <div class="img_block">
+                            <img src="/HostedData/_ar_prvw/22747.webp" alt="salesforce.com">
+                        </div>
+                        <span class="category blueColor">Technology</span>
+                        <span class="name">salesforce.com</span>
+                        <span class="button_featured_reports">
+                            <a href="/Company/salesforcecom-inc" class="blueColor">View Report</a>
+                        </span>
+                    </li>
+                    <li>
+                        <div class="img_block">
+                            <img src="/HostedData/_ar_prvw/36539.webp" alt="Bank of America Corporation">
+                        </div>
+                        <span class="category orangeColor">Financial</span>
+                        <span class="name">Bank of America Corporation</span>
+                        <span class="button_featured_reports">
+                            <a href="/Company/bank-of-america-corporation" class="orangeColor">View Report</a>
+                        </span>
+                    </li>
+                </ul>
+                <div class="button_browse_report">
+                    <a href="/Featured/Reports">Browse Reports</a>
+                </div>
+            </div>
+        </section>
+        <section class="featured_companies_annual_report">
+            <div class="featured_companies_block">
+                <h2>Featured Companies</h2>
+                <ul>
+                <li>
+                    <div class="img_block">
+                        <a href="/Company/safety-insurance-group-inc"><img src="/HostedData/CompanyLogos/sfe.gif" alt="SAFT"></a>
+                    </div>
+                    <span class="title">Ticker : SAFT</span>
+                </li>
+                <li>
+                    <div class="img_block">
+                        <a href="/Company/timberland-bancorp-inc"><img src="/HostedData/CompanyLogos/NASDAQ_TSBK.png" alt="TSBK"></a>
+                    </div>
+                    <span class="title">Ticker : TSBK</span>
+                </li>
+                <li>
+                    <div class="img_block">
+                        <a href="/Company/red-hat-inc"><img src="/HostedData/CompanyLogos/NYSE_RHT.png" alt="RHT"></a>
+                    </div>
+                    <span class="title">Ticker : RHT</span>
+                </li>
+                <li>
+                    <div class="img_block">
+                        <a href="/Company/helios-technologies"><img src="/HostedData/CompanyLogos/NASDAQ_HLIO.png" alt="SNHY"></a>
+                    </div>
+                    <span class="title">Ticker : SNHY</span>
+                </li>
+                <li>
+                    <div class="img_block">
+                        <a href="/Company/kellanova"><img src="/HostedData/CompanyLogos/NYSE_K.jpg" alt="K"></a>
+                    </div>
+                    <span class="title">Ticker : K</span>
+                </li>
+                <li>
+                    <div class="img_block">
+                        <a href="/Company/realty-income-corp"><img src="/HostedData/CompanyLogos/NYSE_O.png" alt="O"></a>
+                    </div>
+                    <span class="title">Ticker : O</span>
+                </li>
+                </ul>
+            </div>
+            <div class="annual_reports_section">
+                <span class="heading">Find Companies & Annual Reports</span>
+                <ul>
+                    <li>
+                        <h2>Popular Industries</h2>
+                        <ul class="popular_industries">
+                        </ul>
+                    </li>
+                    <li>
+                        <h2>Alphabetically</h2>
+                        <ul class="alphabetically"> 
+                            <li><a href="/Companies?a=#">#</a></li> 
+                            <li><a href="/Companies?a=A">A</a></li> 
+                            <li><a href="/Companies?a=B">B</a></li> 
+                            <li><a href="/Companies?a=C">C</a></li> 
+                            <li><a href="/Companies?a=D">D</a></li> 
+                            <li><a href="/Companies?a=E">E</a></li> 
+                            <li><a href="/Companies?a=F">F</a></li> 
+                            <li><a href="/Companies?a=G">G</a></li> 
+                            <li><a href="/Companies?a=H">H</a></li> 
+                            <li><a href="/Companies?a=I">I</a></li> 
+                            <li><a href="/Companies?a=J">J</a></li> 
+                            <li><a href="/Companies?a=K">K</a></li> 
+                            <li><a href="/Companies?a=L">L</a></li> 
+                            <li><a href="/Companies?a=M">M</a></li> 
+                            <li><a href="/Companies?a=N">N</a></li> 
+                            <li><a href="/Companies?a=O">O</a></li> 
+                            <li><a href="/Companies?a=P">P</a></li> 
+                            <li><a href="/Companies?a=Q">Q</a></li> 
+                            <li><a href="/Companies?a=R">R</a></li> 
+                            <li><a href="/Companies?a=S">S</a></li> 
+                            <li><a href="/Companies?a=T">T</a></li> 
+                            <li><a href="/Companies?a=U">U</a></li> 
+                            <li><a href="/Companies?a=V">V</a></li> 
+                            <li><a href="/Companies?a=W">W</a></li> 
+                            <li><a href="/Companies?a=X">X</a></li> 
+                            <li><a href="/Companies?a=Y">Y</a></li> 
+                            <li><a href="/Companies?a=Z">Z</a></li>
+                        </ul>
+                    </li>
+                    <li>
+                        <h2>Search by Stock Exchange</h2>
+                        <ul class="popular_stock_exchanges">
+                            <li>
+                                <div class="img_block">
+                                    <a href="/Companies?exch=1"><img src="/HostedData/ExchangeLogos/NYSE.png" alt="NYSE"></a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="img_block">
+                                    <a href="/Companies?exch=7"><img src="/HostedData/ExchangeLogos/asx.jpg" alt="ASX"></a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="img_block">
+                                    <a href="/Companies?exch=5"><img src="/HostedData/ExchangeLogos/tsx.jpg" alt="TSX"></a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="img_block">
+                                    <a href="/Companies?exch=2"><img src="/HostedData/ExchangeLogos/NASDAQ.png" alt="NASDAQ"></a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="img_block">
+                                    <a href="/Companies?exch=9"><img src="/HostedData/ExchangeLogos/lse.jpg" alt="LSE"></a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="img_block">
+                                    <a href="/Companies?exch=8"><img src="/HostedData/ExchangeLogos/AIM.png" alt="AIM"></a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="img_block">
+                                    <a href="/Companies?exch=3"><img src="/HostedData/ExchangeLogos/AMEX.png" alt="AMEX"></a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="img_block">
+                                    <a href="/Companies?exch=4"><img src="/HostedData/ExchangeLogos/OTC.png" alt="OTC"></a>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="img_block">
+                                    <a href="/Companies?exch=6"><img src="/HostedData/ExchangeLogos/TSX-V.png" alt="TSX-V"></a>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div></section>
+        <section class="institutional_investors_section">
+            <div class="institutional_investors">
+                <h2>Institutional Investors Using Our Database</h2>
+                <p>Investors from all over the world use AnnualReports.com to always know what is happening in the business world</p>
+            <ul>
+                <li>
+                    <div class="img_block">
+                        <img src="/img/ar/blackrock.webp" alt="Blackrock">
+                    </div>
+                </li>
+                <li>
+                    <div class="img_block">
+                        <img src="/img/ar/tRowe_price.webp" alt="T Rowe Price">
+                    </div>
+                </li>
+                <li>
+                    <div class="img_block">
+                        <img src="/img/ar/calpers.webp" alt="CalPERS">
+                    </div>
+                </li>
+                <li>
+                    <div class="img_block">
+                        <img src="/img/ar/vanguard.webp" alt="Vanguard">
+                    </div>
+                </li>
+                <li>
+                    <div class="img_block">
+                        <img src="/img/ar/fidelity.webp" alt="Fidelity">
+                    </div>
+                </li>
+            </ul>
+            </div>
+        </section>
+<section class="traded_company_section">
+            <div class="traded_company_block">
+                <div class="left_section">
+                    <span class="heading">Are you a publicly traded company?</span>
+                    <p>Claim your profile or add your company to the largest Annual Report Directory in the world. Learn about our company profile programs and how you can start receiving potential investor views of your annual report.</p>
+                    <div class="button_claim_profile">
+                        <a href="/AddCompany">Claim Profile</a>
+                    </div>
+                </div>
+                <div class="right_section">
+                    <div class="img_block">
+                        <img src="/img/ar/laptop.webp" alt="Computer Screen" title="See your statistics updated in real-time.">
+                    </div>
+                </div>
+            </div>
+        </section>
+<footer class="footer">
+    <div class="left_section">
+        &copy;2003-2026 <a href="/">AnnualReports.com</a>
+    </div>
+    <div class="right_section">
+        <div class="footer_nav">
+            <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/About">About</a></li>
+            <li><a href="/Contact">Contact</a></li>
+            <li><a href="/FAQ">FAQs</a></li>
+            <li><a href="/Disclaimer">Legal</a></li>
+            <li><a href="https://www.irsolutions.com">Visit IR Solutions</a></li>
+            <li><a href="/AddCompany">Add My Company</a></li>
+            </ul>
+        </div>
+    </div>
+</footer></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdn.userway.org/widget.js" data-account="8xFc0YpAzT"></script>
+<script src="/js/ar/custom.js"></script>
+
+<script src="https://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-910726-1";
+urchinTracker();
+</script>
+</body>
+</html>

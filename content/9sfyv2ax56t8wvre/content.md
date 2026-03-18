@@ -1,0 +1,1 @@
+Early Uncle Klunk photo.

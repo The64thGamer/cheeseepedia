@@ -1,0 +1,35 @@
+{
+  "title": "Rockford, IL (3600 E State St)",
+  "storeNumber": "",
+  "startDate": "1988-10-30",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Chuck E.'s House",
+      "s": "1988-10-30",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-06-12",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.26550922",
+    "-89.04240238"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "AbgacyvkD8mwdgtjeeYx.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

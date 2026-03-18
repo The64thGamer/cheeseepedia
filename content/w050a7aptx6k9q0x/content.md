@@ -1,0 +1,1 @@
+Photo of Sgt. Singer performing at Mirapolis on July 22nd, 1990. The show most likely used a Beach Bums variant and then changed the cosmetics.

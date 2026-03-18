@@ -1,0 +1,40 @@
+{
+  "title": "Best of CEC TV 2008",
+  "startDate": "2008-09-00",
+  "endDate": "2012-12-00",
+  "pageThumbnailFile": "2ZyYJUusi7Mjl5cJQZhl.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Ceclife13",
+    "Bullseye123",
+    "Anonymous",
+    "Anonymous",
+    "Princessof2007",
+    "AstridMascotFan2005"
+  ],
+  "citations": [
+    "https://archive.org/download/cyberamics_post_93_dvd_signals/September%202008%20CEC-Stage-005.ISO"
+  ],
+  "credits": [
+    "Robert Gotcher|Director",
+    "Michael Hill|Studio Coordinator",
+    "Ryan Hollingsworth|Production Specialist",
+    "Matt Daniel|VJ"
+  ],
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/cyberamics_post_93_dvd_signals/September%202008%20CEC-Stage-005.ISO",
+      "label": "CEC-Stage DVD ISO w/ Signals"
+    }
+  ],
+  "mediaDuration": "1:01:11",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

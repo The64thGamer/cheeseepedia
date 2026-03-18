@@ -1,0 +1,35 @@
+{
+  "title": "Valencia, CA (25955 North The Old Rd)",
+  "storeNumber": "",
+  "startDate": "1998-03-04",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1998-03-04",
+      "e": "2023-01-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-01-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.39125347",
+    "-118.5763864"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "__LGWcxiFbLDW1KzJ8hO.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

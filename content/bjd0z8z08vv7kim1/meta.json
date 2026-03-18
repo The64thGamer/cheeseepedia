@@ -1,0 +1,52 @@
+{
+  "title": "Pico Rivera, CA (6005 Rosemead Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-00-00",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2010-00-00",
+      "desc": "One of many installed in California. Converted into 1-Stage in 2010."
+    },
+    {
+      "n": "1-Stage",
+      "s": "2011-00-00",
+      "e": "2024-03-03",
+      "desc": "1-Stage w/ 2-Stage props"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-04-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.99119867",
+    "-118.092583"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "VgiuvSBZOu0l7uECXh0R.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

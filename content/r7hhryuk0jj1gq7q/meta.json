@@ -1,0 +1,216 @@
+{
+  "title": "Florence, KY (7635 Mall Rd)",
+  "storeNumber": "112",
+  "startDate": "1982-04-19",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1989-00-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1998-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2010-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-05-10"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-04-19",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Chuck E.'s House",
+      "s": "1989-00-00",
+      "e": "2003-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "2002-00-00",
+      "e": "2022-03-31",
+      "desc": "Only 2-Stage installed in Kentucky. Originally from Hampton, VA (4027 W Mercury Blvd). Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-03-31",
+      "e": "0000-00-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2022-04-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Bernstein Restaurant Group",
+      "s": "1982-04-19",
+      "e": "2008-08-25"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Trampoline Zone",
+      "s": "2024-08-29"
+    },
+    {
+      "n": "Superhero Playground",
+      "s": "2025-09-00"
+    }
+  ],
+  "animatronics": [
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1982-04-19",
+      "e": "2003-00-00",
+      "l": "N/A",
+      "st": "mech sent to USS Nightmare"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1982-04-19",
+      "e": "2003-00-00",
+      "l": "N/A",
+      "st": "mech sent to USS Nightmare"
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1982-04-19",
+      "e": "2003-00-00",
+      "l": "N/A",
+      "st": "mech sent to USS Nightmare"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1982-04-19",
+      "e": "2003-00-00",
+      "l": "N/A",
+      "st": "Animatronic head sent to USS Nightmares, rest of animatronic sent to USS Nightmare"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1982-04-19",
+      "e": "2003-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1982-04-19",
+      "e": "1989-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1982-04-19",
+      "e": "1989-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1982-04-19",
+      "e": "1989-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1982-04-19",
+      "e": "1989-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "1982-04-19",
+      "e": "1989-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "1989-00-00",
+      "e": "2000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "2003-00-00",
+      "e": "2022-03-31",
+      "l": "N/A",
+      "st": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "2003-00-00",
+      "e": "2022-03-31",
+      "l": "N/A",
+      "st": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "2003-00-00",
+      "e": "2022-03-31",
+      "l": "N/A",
+      "st": "Originally from Hampton, VA (4027 W Mercury Blvd)"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "2003-00-00",
+      "e": "2022-03-31",
+      "l": "N/A",
+      "st": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "2003-00-00",
+      "e": "2022-03-31",
+      "l": "N/A",
+      "st": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
+    }
+  ],
+  "sqft": "2,500",
+  "latitudeLongitude": [
+    "38.99825842",
+    "-84.65566588"
+  ],
+  "citations": [
+    "https://www.newspapers.com/article/the-cincinnati-post/99572685/",
+    "https://www.youtube.com/watch?v=dhSpJSqxkn0",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer/32415087/",
+    "https://www.newspapers.com/article/the-courier-journal/32427085/",
+    "https://www.instagram.com/p/CcGxjQavlow",
+    "https://www.youtube.com/watch?v=WFkViBxFxlc",
+    "https://www.newspapers.com/article/the-courier-journal/38825040/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer/38804479/",
+    "https://youtu.be/xUVm-D2eDck?si=YrOyqOPXLo-IYgT3&t=5620",
+    "https://youtu.be/sf6stbxEwjo?si=5aW2ZDINAdQL3jSO&t=2025",
+    "https://youtu.be/3pWf0YEJgxU?si=KdfDFaHsWf-AkQAD&t=5233",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-florence-expansi/147691436/",
+    "CEC Workday page",
+    "statement from tech",
+    "Internal CEC Document",
+    "https://www.instagram.com/explore/locations/1508155/chuck-e-cheese/recent/"
+  ],
+  "contributors": [
+    "Cyber Snout"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "aEQwdC5UiLmBAXLVeM05.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

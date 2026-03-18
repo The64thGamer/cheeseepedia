@@ -1,0 +1,51 @@
+{
+  "title": "Anchorage, AK (308 E Northern Lights Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-00-00",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2006-00-00",
+      "desc": "Only 2-Stage installed in Alaska. Replaced with Studio C Beta in 2006."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-07-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "61.19340252",
+    "-149.8796405"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "JR7quTHE_8FESMFKZKvd.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

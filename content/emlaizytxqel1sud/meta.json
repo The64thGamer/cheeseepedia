@@ -1,0 +1,48 @@
+{
+  "title": "September 2002 Show",
+  "startDate": "2002-09-00",
+  "endDate": "2002-11-00",
+  "pageThumbnailFile": "xiwL0CJmrk8qDmYDYinW.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/September%202002%20Studio%20C.iso"
+  ],
+  "credits": [
+    "Duncan Brannan|Voice of Chuck E. Cheese",
+    "Annagrey Wiechman|Voice of Helen Henny",
+    "John Bowen|Voice of Mr. Munch",
+    "Earl Fisher|Voice of Pasqually The Chef",
+    "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Mike Manley, Wick Ladderback, Betty, Show Announcer",
+    "Robert Gotcher|Production Manager",
+    "Matt Daniel|Production Coordinator, Shining Star, DJ",
+    "Ryan Hollingsworth|Hank Howdy",
+    "Sammy Davenport|Music Director"
+  ],
+  "mediaDuration": "1:17:07",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "R12 SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/September%202002%203-Stage-001.ISO",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Sept2002ShowUpgrade.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/September%202002%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

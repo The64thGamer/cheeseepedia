@@ -1,0 +1,1 @@
+Official promotional render of the ShowBiz Prize Place claw machine.

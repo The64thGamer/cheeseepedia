@@ -1,0 +1,41 @@
+{
+  "title": "Canton, MI (42001 Ford Rd)",
+  "storeNumber": "",
+  "startDate": "1988-05-03",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Chuck E.'s House",
+      "s": "1988-05-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2022-08-00",
+      "desc": "Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-08-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.32075952",
+    "-83.45718303"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "WADiWVHUayCJoYD9AH3V.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

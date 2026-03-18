@@ -1,0 +1,36 @@
+{
+  "title": "Newark, CA (39839 Mowry School Rd)",
+  "storeNumber": "",
+  "startDate": "1997-08-05",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1997-08-05",
+      "e": "2018-00-00",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2018-12-00",
+      "desc": "2017 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.52243472",
+    "-121.9935018"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "uLe9xpepIsEaYIClbug_.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

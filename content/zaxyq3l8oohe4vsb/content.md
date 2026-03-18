@@ -1,0 +1,1 @@
+Additional Warblettes at Fantasy Forest, with Dolli's lips and snout visible in bottom right.

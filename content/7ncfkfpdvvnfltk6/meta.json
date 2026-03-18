@@ -1,0 +1,35 @@
+{
+  "title": "St. Cloud, MN (3333 W Division St)",
+  "storeNumber": "",
+  "startDate": "1984-04-24",
+  "endDate": "1992-04-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1984-04-24",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "1992-04-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "45.55239382",
+    "-94.20160813"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

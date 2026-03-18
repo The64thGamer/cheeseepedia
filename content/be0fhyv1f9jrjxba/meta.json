@@ -1,0 +1,36 @@
+{
+  "title": "Middletown, NJ (1107 Route 35)",
+  "storeNumber": "",
+  "startDate": "1994-07-25",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1994-07-25",
+      "e": "2024-06-02",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-06-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.39686952",
+    "-74.11000663"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "wzOC3iZW0Clzol5cO4zE.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

@@ -1,0 +1,1 @@
+Exterior of San Ramon, CA, soon after opening

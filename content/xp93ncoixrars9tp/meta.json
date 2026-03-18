@@ -1,0 +1,32 @@
+{
+  "title": "Chuck E. Cheese LIVE Announcement Show",
+  "startDate": "2023-11-02",
+  "endDate": "2023-11-02",
+  "pageThumbnailFile": "9gPEMnaBj2y5m5llQSMP.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Luigigamin212"
+  ],
+  "citations": [
+    "https://archive.org/details/chuck-e.-cheese-live-announcement",
+    "https://youtu.be/npNu7jGDhAQ",
+    "Employee Testimony",
+    "https://discord.com/channels/866130462137516052/866133548158550067/1166867401296584755",
+    "https://www.chuckecheese.com/rohnert-park-ca/blogs/northridge-residency-announcement/",
+    "https://youtu.be/Ytbr2G1QtKA"
+  ],
+  "mediaDuration": "6:10",
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/details/northridge-announcement-original-audio",
+      "label": "Original Full Showtape Audio"
+    }
+  ],
+  "transcriptions": [
+    "Northridge Legacy Announcement"
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Brookfield, WI (2435 N 124th St)",
+  "storeNumber": "",
+  "startDate": "1982-08-00",
+  "endDate": "1997-00-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-08-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "1-Stage",
+      "s": "1994-00-00",
+      "e": "1997-00-00",
+      "desc": "1-Stage w/ Turntable"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "43.06100967",
+    "-88.06828148"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "de4VQ4phrIEjW3BCmdLU.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Streamwood, IL (990 Barrington Rd)",
+  "storeNumber": "",
+  "startDate": "1990-03-06",
+  "endDate": "2014-06-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Chuck E.'s House",
+      "s": "1990-03-06",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2014-06-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.01112047",
+    "-88.14665943"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Streamwoodentrance.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

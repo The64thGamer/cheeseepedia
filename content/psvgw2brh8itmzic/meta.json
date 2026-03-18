@@ -1,0 +1,37 @@
+{
+  "title": "King II",
+  "startDate": "1983-04-24",
+  "endDate": "0000-00-00",
+  "pageThumbnailFile": "982h4iuhn4g4g.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Luigigamin212",
+    "Ceclife13"
+  ],
+  "credits": [
+    "Bob Sarlatte|Voice of The King"
+  ],
+  "citations": [
+    "Showtape Image"
+  ],
+  "showtapeFormats": [
+    "Cyberamics Reel"
+  ],
+  "alsoKnownAs": [
+    "ASSY# 027-0060-10-0A SKIT-KING II LOUNGE #2 WO# 1401233700 WO QTY 56 BUILT BY: Rex B DATE 4-24-83"
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Skit-King%20II%20Lounge%20%232/King%20II%20Lounge%202.wav",
+      "label": "Showtape Rip w/ Signals (#1)"
+    },
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/unknown%201%20%28no%20box%29/unkonwn%20label%20fell%20off.wav",
+      "label": "Showtape Rip w/ Signals (#2)"
+    }
+  ]
+}

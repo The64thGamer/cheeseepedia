@@ -1,0 +1,1 @@
+Nolan Bushnell and Gene Landrum (Edited photo, subjects moved closer together)

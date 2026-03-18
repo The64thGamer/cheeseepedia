@@ -1,0 +1,22 @@
+**Chuck E. Cheese's Boom Box Live Shows** was a CD released alongside the [First Quarter 2014 Show] which featured seven [Road Shows].
+
+##  List:
+
+1. ** Track 1**
+    1. Do The Chuck E.
+2. ** Track 2**
+    1. Head, Shoulders, Knees & Toes
+3. ** Track 3**
+    1. Happy & You Know It
+4. ** Track 4**
+    1. Old MacDonald
+5. **Track 5**
+    1. BINGO
+6. **Track 6**
+    1. Birthday (English)
+7. **Track 7**
+    1. Birthday (Spanish)
+
+## Trivia:
+
+- ‘Birthday (English)’ and ‘Birthday (Spanish)’ are shortened versions of [Chuck E. Cheese’s Rockstar Birthday] and [Spanish Rockstar Birthday] respectively, which feature only ‘Happy Birthday to You’ and ‘Birthday Star’.

@@ -1,0 +1,429 @@
+{
+  "cuDate": "",
+  "title": "Kansas City, MO (8809 State Line Rd)",
+  "startDate": "2023-06-22",
+  "endDate": "2026-01-06",
+  "pageThumbnailFile": "ChucksArcadeStateLine.avif",
+  "contributors": [
+    "smileshy22",
+    "Cyber Snout",
+    "sudo trans --pony"
+  ],
+  "citations": [
+    "https://www.instagram.com/p/Ctu35PoJz0s/?igsh=cjN1azF1ZHRqaTFj",
+    "https://www.facebook.com/share/p/15TUCeqHD7T/",
+    "https://www.qsrmagazine.com/growth/peter-piper-pizza-builds-growth-ready-portfolio/",
+    "https://www.peterpiperpizza.com/press-room/peter-piper-pizza-debuts-its-first-fast-casual-pizzeria-concept-in-kansas-city/",
+    "https://www.peterpiperpizza.com/press-room/peter-piper-pizzeria-continues-expansion-in-kansas-city-with-grand-opening-june-22/",
+    "https://www.kansascity.com/news/business/openings-closings/article289695344.html",
+    "https://www.instagram.com/p/C_CISU1pK4O/",
+    "https://kansascitymag.com/restaurant-news-a-new-chuck-e-cheese-comes-to-state-line-road/",
+    "https://www.youtube.com/watch?v=1lC7mgVgMqs",
+    "https://www.youtube.com/post/UgkxbFoQ3xlRhfxDfqjeqQ3IVF8-FOb5YIk4",
+    "https://www.facebook.com/kansascitydiscover/posts/chuck-e-cheese-opened-its-first-adult-arcade-in-kansas-city-chuck-e-cheese-recen/1431686558148895/",
+    "https://www.youtube.com/watch?v=NPcdNzIPkqU",
+    "https://www.reddit.com/r/chuckecheese/comments/1ms3q45/kc_chucks_arcade_is_getting_a_new_prize_area/",
+    "https://www.reddit.com/r/chuckecheese/comments/1okj78m/prize_counter_at_chucks_arcade_stateline_replaced/",
+    "https://www.linkedin.com/posts/leawood-chamber-of-commerce_peter-piper-pizzeria-is-officially-open-for-activity-7079867063032311809--J0X"
+  ],
+  "storeNumber": "747",
+  "sqft": "4,650",
+  "attractions": [
+    {
+      "n": "Wicked Tuna",
+      "s": "2023-06-22",
+      "e": "2026-01-06",
+      "desc": "Seen at first opening and October '25"
+    },
+    {
+      "n": "Mario & Sonic at the Olympic Games Arcade Edition",
+      "s": "2023-06-22",
+      "e": "2026-01-06",
+      "desc": "Seen at first opening and in October '25"
+    },
+    {
+      "n": "Dr. NO Pinball",
+      "s": "2023-06-22",
+      "e": "2023-00-00",
+      "desc": "Seen at first opening and December '23"
+    },
+    {
+      "n": "Big Buck Hunter Reloaded",
+      "s": "2023-06-22",
+      "e": "2023-00-00",
+      "desc": "Seen at first opening and December '23"
+    },
+    {
+      "n": "Spacewarp 66",
+      "s": "2023-06-22",
+      "e": "2026-01-06",
+      "desc": "Seen at first opening and October '25, no marquee"
+    },
+    {
+      "n": "Quick Shot",
+      "s": "2023-00-00",
+      "e": "2023-00-00",
+      "desc": "Seen in November '23, 2 units."
+    },
+    {
+      "n": "Transformers Human Alliance",
+      "s": "2023-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in November '23 and October '25"
+    },
+    {
+      "n": "Jet Pong",
+      "s": "2023-00-00",
+      "e": "2023-00-00",
+      "desc": "Seen in November '23."
+    },
+    {
+      "n": "The Walking Dead",
+      "s": "2023-00-00",
+      "e": "2023-00-00",
+      "desc": "Seen in December '23."
+    },
+    {
+      "n": "Golden Tee",
+      "s": "2023-00-00",
+      "e": "2023-00-00",
+      "desc": "Seen in December '23."
+    },
+    {
+      "n": "Minecraft Dungeons",
+      "s": "2023-00-00",
+      "e": "2023-00-00",
+      "desc": "Seen in December '23, triple setup variant"
+    },
+    {
+      "n": "Injustice Arcade",
+      "s": "2023-00-00",
+      "e": "2023-00-00",
+      "desc": "Seen in December 2023, Series 4 variant."
+    },
+    {
+      "n": "Iron Maiden Legacy of the Beast Pinball",
+      "s": "2023-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in November '23, not in 2024, re-emerged in July 2025, last seen October '25"
+    },
+    {
+      "n": "Pac-Man's Pixel Bash",
+      "s": "2023-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in November '23, December '23 as 2 units, not in 2024, and in July '25 + October '25 as 1 unit"
+    },
+    {
+      "n": "Jurassic Park Arcade (Raw Thrills)",
+      "s": "2023-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in December '23 and December '25, no motion variant"
+    },
+    {
+      "n": "Tight Rope",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25"
+    },
+    {
+      "n": "Basketball Pro",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25"
+    },
+    {
+      "n": "Slide Up",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25"
+    },
+    {
+      "n": "Ticket Blaster",
+      "s": "2024-00-00",
+      "e": "2025-06-22",
+      "desc": "Seen in October '24, June '25"
+    },
+    {
+      "n": "Duo Drive",
+      "s": "2024-00-00",
+      "e": "2025-06-22",
+      "desc": "Seen in October '24, June '25"
+    },
+    {
+      "n": "Trampoline Zone",
+      "s": "2024-00-00",
+      "e": "2025-06-22",
+      "desc": "Seen in October '24, June '25, 3-Pad variant"
+    },
+    {
+      "n": "Play Pass Machine",
+      "s": "2024-00-00",
+      "e": "2025-00-00",
+      "desc": "Seen in October '24, October '25, 2 units"
+    },
+    {
+      "n": "Halo Fireteam Raven",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25"
+    },
+    {
+      "n": "Nitro Trucks",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, December '25, 2 units"
+    },
+    {
+      "n": "Nerf Arcade",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, December '25"
+    },
+    {
+      "n": "Batman",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25"
+    },
+    {
+      "n": "Clutch Shoot",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25"
+    },
+    {
+      "n": "Jurassic World Fallen Kingdom",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25"
+    },
+    {
+      "n": "NBA Game Time",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25, 2 units"
+    },
+    {
+      "n": "Tons of Tickets",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, December '25"
+    },
+    {
+      "n": "Avengers Coin Pusher",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25"
+    },
+    {
+      "n": "Mega Blaster",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25"
+    },
+    {
+      "n": "FGTeev",
+      "s": "2024-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '24, October '25"
+    },
+    {
+      "n": "Super Big Rig",
+      "s": "2024-00-00",
+      "e": "2025-06-22",
+      "desc": "Seen in October '24, June '25"
+    },
+    {
+      "n": "Spongebob Super Striker",
+      "s": "2025-00-00",
+      "e": "2025-06-22",
+      "desc": "Seen in June '25"
+    },
+    {
+      "n": "Chuck E. Cheese Air Hockey",
+      "s": "2025-00-00",
+      "e": "2025-06-22",
+      "desc": "Seen in June '25"
+    },
+    {
+      "n": "Chuck E. Cheese Photo Ride",
+      "s": "2025-00-00",
+      "e": "2025-06-22",
+      "desc": "Seen in June '25, Rockstar variant"
+    },
+    {
+      "n": "PJ Masks Cat-Car Kiddie Ride",
+      "s": "2025-00-00",
+      "e": "2025-06-22",
+      "desc": "Seen in June '25"
+    },
+    {
+      "n": "Polar Slide",
+      "s": "2025-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in June '25, October '25"
+    },
+    {
+      "n": "Defender (Rerelease)",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Donkey Kong (Rerelease)",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Mortal Kombat Kollection",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Deadpool Pinball",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Carnival Cups",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Quik Drop",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Big Ticket Drop",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Monster Drop",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25, 2 units"
+    },
+    {
+      "n": "Crossy Road",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Rampage",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Space Invaders Frenzy",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Spider-Man Coin Pusher",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, December '25"
+    },
+    {
+      "n": "Plinko",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, December '25"
+    },
+    {
+      "n": "Quarterback Pro",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Break Plate",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Terminator Salvation",
+      "s": "2025-06-28",
+      "e": "2026-01-06",
+      "desc": "Seen in July '25, October '25"
+    },
+    {
+      "n": "Gaurdians of the Galaxy Coin Pusher",
+      "s": "2025-06-28",
+      "e": "02026-01-06",
+      "desc": "Seen in July '25, December '25"
+    },
+    {
+      "n": "Tron (Rerelease)",
+      "s": "2025-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '25"
+    },
+    {
+      "n": "Galaga/Ms. Pac-Man Cocktail (Rerelease)",
+      "s": "2025-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in October '25"
+    },
+    {
+      "n": "Chuck's Arcade Game Pass Machine",
+      "s": "2025-00-00",
+      "e": "2026-01-06",
+      "desc": "Seen in December '25, 2 units"
+    },
+    {
+      "n": "Prize Hub",
+      "s": "2025-08-00",
+      "e": "2026-01-06",
+      "desc": "Seen in August '25 and December '25"
+    }
+  ],
+  "franchisees": [],
+  "remodels": [
+    {
+      "n": "Peter Piper Pizza 2.0 Remodel Program",
+      "s": "2023-06-20"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-08-23"
+    },
+    {
+      "n": "2025 Chuck's Arcade Remodel",
+      "s": "2025-06-28"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Video Wall",
+      "s": "2023-06-20",
+      "e": "2026-01-06"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2023-06-20",
+      "e": "2024-06-30"
+    }
+  ],
+  "downloadLinks": [],
+  "latitudeLongitude": [
+    "38.96713327",
+    "-94.60806003"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

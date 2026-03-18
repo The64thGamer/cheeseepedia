@@ -1,0 +1,36 @@
+{
+  "title": "Pasadena, CA (3765 E Foothill Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-12-15",
+  "endDate": "1993-10-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-12-15",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1993-03-00",
+      "e": "1993-10-00",
+      "desc": "One of 10 3-Stages in California to undergo Concept Unification. Last 3-Stage to converted during Concept Unification's lifetime. One of the first 3-Stages to be removed. Only 3-Stage to not last for more than a year. Shortest lived 3-Stage."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.14896422",
+    "-118.0728672"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

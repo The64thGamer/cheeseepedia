@@ -1,0 +1,41 @@
+{
+  "title": "Newington, NH (30 Fox Run Rd)",
+  "storeNumber": "",
+  "startDate": "1983-08-00",
+  "endDate": "2018-03-31",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-08-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1996-00-00",
+      "e": "2018-03-31",
+      "desc": "One of two installed in New Hampshire. Last 2-Stage in the state."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "43.09693172",
+    "-70.81009813"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "so51wxaJz75RQ4jDFX_x.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

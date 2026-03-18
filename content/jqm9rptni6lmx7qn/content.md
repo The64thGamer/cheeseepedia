@@ -1,0 +1,1 @@
+I am a private collector located in ohio. that's about it, cya.

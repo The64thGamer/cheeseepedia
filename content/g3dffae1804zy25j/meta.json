@@ -1,0 +1,41 @@
+{
+  "title": "Laurel, MD (936 Fairlawn Ave)",
+  "storeNumber": "",
+  "startDate": "1982-10-27",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-27",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2022-06-00",
+      "desc": "Only 3-Stage in Maryland."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-06-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.09615392",
+    "-76.85633373"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "cOdIUHDLZ9eMPW7Zshdj.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

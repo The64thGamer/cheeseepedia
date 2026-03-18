@@ -1,0 +1,45 @@
+{
+  "title": "Humble, TX (124 E FM 1960 Bypass)",
+  "storeNumber": "",
+  "startDate": "1999-12-16",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "1999-12-16",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-05-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Mega Superhero Playground",
+      "s": "2026-02-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.00157662",
+    "-95.26794923"
+  ],
+  "citations": [],
+  "contributors": [
+    "CyberSnout"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "f3Js7KYB6TlERj6mdZYp.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": []
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Oceanside, CA (2481 Vista Way)",
+  "storeNumber": "",
+  "startDate": "1983-02-08",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-02-08",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 10 3-Stages in California to undergo Concept Unification."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2021-11-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.18031807",
+    "-117.3351457"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "8RbyUZ2ZXjHj9BWmV1w2.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

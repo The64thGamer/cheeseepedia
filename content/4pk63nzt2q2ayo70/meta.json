@@ -1,0 +1,35 @@
+{
+  "title": "Valencia, CA (23154 Valencia Blvd)",
+  "storeNumber": "",
+  "startDate": "1983-04-26",
+  "endDate": "1996-02-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-04-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "1996-02-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.41982052",
+    "-118.5443682"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Richmond, VA (9030 Broad St)",
+  "storeNumber": "",
+  "startDate": "1999-03-04",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "1999-03-04",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-09-05",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.63622657",
+    "-77.54944403"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "32rOrkwQKpRKBxSY6uQ6.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

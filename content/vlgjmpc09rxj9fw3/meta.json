@@ -1,0 +1,30 @@
+{
+  "title": "Omaha, NE (2531 S 133rd Plaza)",
+  "storeNumber": "",
+  "startDate": "1981-04-22",
+  "endDate": "1985-00-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-04-22",
+      "e": "1985-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.2355299",
+    "-96.1214174"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

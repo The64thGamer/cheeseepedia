@@ -1,0 +1,143 @@
+{
+  "cuDate": "",
+  "title": "Cincinnati, OH (4394 Eastgate Square Dr)",
+  "startDate": "1990-06-17",
+  "endDate": "",
+  "pageThumbnailFile": "kKCPkC8vdXPffxccO69E.avif",
+  "contributors": [
+    "Cyber Snout"
+  ],
+  "citations": [
+    "https://docs.google.com/spreadsheets/d/1-hyawyZq2UymJD00WwAm1Grw-o2jbDmvtPZXabfBaB4/edit?gid=0#gid=0",
+    "https://www.youtube.com/watch?v=dt4U-J2kioQ",
+    "https://www.youtube.com/watch?v=gncBc5Ru8Pw",
+    "https://www.youtube.com/watch?v=tRZH6lOgSbw",
+    "https://www.facebook.com/photo.php?fbid=1104755625678&set=a.1268012426996",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer/137691294/",
+    "https://www.youtube.com/watch?v=uYbS8yvsuHU",
+    "CEC Workday page",
+    "https://www.instagram.com/explore/locations/1960685/chuck-e-cheese/recent/",
+    "https://www.youtube.com/watch?v=_hR5M5f0KvY",
+    "https://www.instagram.com/p/C5g1QN1JDhV/?img_index=1",
+    "Internal CEC Document",
+    "https://www.youtube.com/watch?v=bqldZsbOUEg",
+    "https://youtube.com/shorts/forMwIdOiEk?si=y8vJxtgbv8hFU0Uq",
+    "Internal document"
+  ],
+  "storeNumber": "102",
+  "sqft": "",
+  "attractions": [
+    {
+      "n": "Trampoline Zone",
+      "s": "2024-08-26"
+    },
+    {
+      "n": "Superhero Playground",
+      "s": "2025-10-28"
+    }
+  ],
+  "animatronics": [
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1990-06-17",
+      "e": "2005-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1990-06-17",
+      "e": "2005-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1990-06-17",
+      "e": "2005-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1990-06-17",
+      "e": "2005-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1990-06-17",
+      "e": "2005-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "2005-00-00",
+      "e": "2024-04-07",
+      "l": "1106",
+      "st": "Dismantled, thrown into dumpster"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Bernstein Restaurant Group",
+      "s": "1990-06-17",
+      "e": "2008-08-25"
+    }
+  ],
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-06-17"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1998-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2005-11-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-05-29"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Chuck E.'s House",
+      "s": "1990-06-16",
+      "e": "2005-00-00"
+    },
+    {
+      "n": "Studio C Cappa",
+      "s": "2005-00-00",
+      "e": "2012-00-00"
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "2012-00-00",
+      "e": "2024-04-07"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-04-09",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2024-04-09"
+    }
+  ],
+  "downloadLinks": [],
+  "latitudeLongitude": [
+    "39.09249612",
+    "-84.26932168"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

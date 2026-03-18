@@ -1,0 +1,35 @@
+{
+  "title": "Lafayette, LA (3555 Ambassador Caffery Pkwy)",
+  "storeNumber": "",
+  "startDate": "1999-01-04",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "1999-01-04",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-00-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.1763303",
+    "-92.0722623"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Chino, CA (5250 Philadelphia St)",
+  "storeNumber": "",
+  "startDate": "1988-12-30",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Chuck E.'s House",
+      "s": "1988-12-30",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1994-05-02",
+      "e": "2022-11-18",
+      "desc": "One of many installed in California. Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-11-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.03303392",
+    "-117.6922709"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "KzbV9PZLDueqHh2KjOhO.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

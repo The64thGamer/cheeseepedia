@@ -1,0 +1,5 @@
+The ***Cheese Crawl*** was the first themed attraction for Pizza Time Theatre and a mainstay of its early locations, first appearing at [San Jose, CA (370 S Winchester Blvd)] on May 17th, 1977, and lasting for an unknown amount of years.
+
+## History
+
+By the early 1980's the Cheese Crawl would become standardized with the same layout in each store.

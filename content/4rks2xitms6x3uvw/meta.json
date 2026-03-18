@@ -1,0 +1,50 @@
+{
+  "title": "Summertime 2001",
+  "startDate": "2001-07-00",
+  "endDate": "2001-08-00",
+  "pageThumbnailFile": "Ow2_Rl6uPT7cXdfhFzOv.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Tux Chuck",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://youtu.be/-4s6eWFx5Ig",
+    "https://archive.org/download/studio-c-floppy-discs-rips/July2001Upgrade.img"
+  ],
+  "credits": [
+    "Duncan Brannan|Voice of Chuck E. Cheese",
+    "Annagrey Wiechman|Voice of Helen Henny",
+    "John Bowen|Voice of Mr. Munch",
+    "Earl Fisher|Voice of Pasqually The Chef",
+    "Jeremy Blaido|Voice of Jasper T. Jowls, Director",
+    "Brian Hagan|Studio Manager",
+    "Robert Gotcher|Production Coordinator",
+    "Brent Gray|Studio Coordinator"
+  ],
+  "mediaDuration": "35:22",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "R12 SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/June%202001%203-Stage-001.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/July2001Upgrade.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/July%202001%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

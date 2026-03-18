@@ -1,0 +1,36 @@
+{
+  "title": "Myrtle Beach, SC (615 Lake Arrowhead Rd)",
+  "storeNumber": "",
+  "startDate": "1983-06-13",
+  "endDate": "1997-10-26",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-06-13",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "1997-10-26",
+      "desc": "One of 4 3-Stages in South Carolina to receive Concept Unification."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.77303172",
+    "-78.79157928"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

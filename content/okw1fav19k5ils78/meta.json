@@ -1,0 +1,35 @@
+{
+  "title": "Mentor, OH (7900 Plaza Blvd #170a)",
+  "storeNumber": "",
+  "startDate": "1982-06-00",
+  "endDate": "1991-11-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-06-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "1991-11-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.6569990",
+    "-81.3669635"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "C3wfOEYFeaG0ciQqhMZr.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "Fall 2014 Show",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "startDate": "2014-09-01",
+  "endDate": "2014-11-17",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Himitsu",
+    "MultiMonorail",
+    "Cheeseclassic",
+    "Ceclife13"
+  ],
+  "credits": [
+    "Jaret Reddick|Voice of Chuck E. Cheese",
+    "Annagrey Wiechman|Voice of Helen Henny",
+    "Chris Hill|Voice of Mr. Munch",
+    "Jeremy Blaido|Voice of Jasper T. Jowls, Singing Voice of Pasqually the Chef",
+    "Earl Fisher|Voice of Pasqually The Chef, Justin Beaver",
+    "Ryan Hollingsworth|Voice of Zoey, Steve Waters",
+    "Matt Daniel|Production Manager, Voice of Hard Hat Hank, Marvin the Technology Guru",
+    "Eric Neal|Voice of Mike Wolf",
+    "Michael Hill|Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch",
+    "Donovan Marcelle|Existing Stage Programmer"
+  ],
+  "mediaDuration": "56:28",
+  "citations": [],
+  "pageThumbnailFile": "G1SRzYjw08bGH3DH1J7h.avif",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "Studio C USB + MicroSD",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ]
+}

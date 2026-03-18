@@ -1,0 +1,1 @@
+Huntington Beach store tour on its final day.

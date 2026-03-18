@@ -1,0 +1,35 @@
+{
+  "title": "Joliet, IL (3250 Chicagoland Circle)",
+  "storeNumber": "",
+  "startDate": "2007-01-29",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2007-01-29",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2020-02-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.58371117",
+    "-88.16523318"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "DVHd3OmneUfRjC2Huaz6.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

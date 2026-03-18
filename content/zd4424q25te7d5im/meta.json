@@ -1,0 +1,41 @@
+{
+  "title": "Alexandria, VA (6303 Richmond Hwy)",
+  "storeNumber": "",
+  "startDate": "1982-09-20",
+  "endDate": "2009-00-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-09-20",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1992-00-00",
+      "e": "2009-11-00",
+      "desc": "One of six 2-Stages installed in Virginia."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.77874777",
+    "-77.07819373"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "CfJGWyC4tNOouezwK3sA.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

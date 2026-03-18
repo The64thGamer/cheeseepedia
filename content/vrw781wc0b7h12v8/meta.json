@@ -1,0 +1,62 @@
+{
+  "cuDate": "",
+  "title": "Jackson, TN (2021 North Highland Ave)",
+  "startDate": "2003-07-30",
+  "endDate": "2025-11-23",
+  "pageThumbnailFile": "ziveu743ofetjjh3.avif",
+  "contributors": [
+    "Cyber Snout"
+  ],
+  "citations": [
+    "https://www.newspapers.com/article/the-jackson-sun-chuck-e-cheese-jackson/184908859/",
+    "https://www.facebook.com/share/p/17ph5ggoBK/",
+    "https://www.newspapers.com/article/the-jackson-sun/38959649/",
+    "https://www.instagram.com/explore/locations/10548091/chuck-e-cheese/recent/",
+    "https://www.youtube.com/watch?v=e_auIC84vLQ",
+    "https://www.youtube.com/watch?v=6D8LvUzYg6M",
+    "Employee correpondance"
+  ],
+  "storeNumber": "667",
+  "sqft": "7,400",
+  "attractions": [],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "2003-07-30",
+      "e": "2025-11-23",
+      "l": "Unknown",
+      "st": "Unknown"
+    }
+  ],
+  "franchisees": [],
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2003-07-30"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2012-00-00"
+    },
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "0000-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "s": "2003-07-30",
+      "e": "2025-11-23"
+    }
+  ],
+  "downloadLinks": [],
+  "latitudeLongitude": [
+    "35.65531822",
+    "-88.8324472"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

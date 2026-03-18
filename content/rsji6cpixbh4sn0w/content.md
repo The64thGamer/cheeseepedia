@@ -1,0 +1,5 @@
+- That one guy.
+- 20 years old.
+- No longer in the community, only doing some minor edits.
+- DNI for malicious reasons.
+- Wrote the history of the [Danvers, MA (139 Endicott St)] page, among a few others.

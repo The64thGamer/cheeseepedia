@@ -1,0 +1,1 @@
+Huntington Beach construction progress over time.

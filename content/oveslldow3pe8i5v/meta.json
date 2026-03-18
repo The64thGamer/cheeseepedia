@@ -1,0 +1,41 @@
+{
+  "title": "Merced, CA (721 W Olive Ave)",
+  "storeNumber": "",
+  "startDate": "1983-04-18",
+  "endDate": "1995-00-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-04-18",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1992-04-00",
+      "e": "1995-00-00",
+      "desc": "One of many installed in California. One of the first 2-Stages installed. Sent to Chesapeake, VA (1528 Sam's Circle)"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.31828022",
+    "-120.4827837"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "MACtLFeIeOeL2f0KYZ8F.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

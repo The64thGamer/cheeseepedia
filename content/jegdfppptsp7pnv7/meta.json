@@ -1,0 +1,45 @@
+{
+  "title": "Sacramento, CA (1690-96 Arden Way)",
+  "storeNumber": "",
+  "startDate": "1982-02-00",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-02-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2022-01-00",
+      "desc": "One of many installed in California. Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.59690932",
+    "-121.429028"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

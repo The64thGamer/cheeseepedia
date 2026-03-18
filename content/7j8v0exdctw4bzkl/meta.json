@@ -1,0 +1,35 @@
+{
+  "title": "Normal, IL (1540 E College Ave)",
+  "storeNumber": "",
+  "startDate": "1983-03-28",
+  "endDate": "1992-02-29",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-03-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "1992-02-29"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.51042267",
+    "-88.95869608"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

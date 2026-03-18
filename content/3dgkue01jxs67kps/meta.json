@@ -1,0 +1,41 @@
+{
+  "title": "Madison, WI (438 Grand Canyon Dr)",
+  "storeNumber": "",
+  "startDate": "1982-07-07",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-07-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-08-00",
+      "e": "2021-07-07",
+      "desc": "One of 3 3-Stages in Wisconsin to undergo Concept Unification. 2nd-to-last 3-Stage in Wisconsin from fall 2000 until stage removal in July 2021. Was in Decent Condition, Jasper had blue Beach Bear Guitar, Pasqually had blue explosion drumfront."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2021-07-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "43.05719472",
+    "-89.49859708"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "5WvsAwQ0zipx_Rr9cdMv.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

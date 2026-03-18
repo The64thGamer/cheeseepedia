@@ -1,0 +1,46 @@
+{
+  "title": "Milwaukee, WI (2701 S Chase Ave)",
+  "storeNumber": "",
+  "startDate": "1983-04-00",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-04-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "1-Stage",
+      "s": "1994-00-00",
+      "e": "2024-08-18",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-08-15",
+      "desc": "2019 or 2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.99287397",
+    "-87.91469308"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "xA_TFJ1jUof0Tb6GFdGm.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Peoria, IL (2601 W Lake Ave)",
+  "storeNumber": "",
+  "startDate": "1982-12-03",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-12-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2019-08-00",
+      "desc": "One of 10 3-Stagess in Illinois to undergo Concept Unification. 3rd-to-last 3-Stage in Illinois."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-00-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.73940972",
+    "-89.63581733"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

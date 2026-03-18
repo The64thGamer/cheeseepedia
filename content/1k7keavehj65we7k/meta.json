@@ -1,0 +1,25 @@
+{
+  "title": "Madame Oink II",
+  "type": "Showtapes",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "startDate": "1979-00-00",
+  "endDate": "1979-11-00",
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "pageThumbnailFile": "1979-Kooser-Oink.avif",
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/details/cyberamic/Audio+08.wav",
+      "label": "Pizza Time (Birthday 8-TR) (November 13, 1978)"
+    }
+  ],
+  "citations": [
+    "https://archive.org/details/cyberamic/Audio+08.wav",
+    "https://youtu.be/zv0xjHNYs_U",
+    "https://youtu.be/SJetRINEjoY",
+    "https://www.newspapers.com/image/621369056/?fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjYyMTM2OTA1NiwiaWF0IjoxNzYwODk3MDQ2LCJleHAiOjE3NjA5ODM0NDZ9.C7wKNrxigDBqPUx8UblSIk1_aoQx2xRPzfG8TMX5EmQ"
+  ]
+}

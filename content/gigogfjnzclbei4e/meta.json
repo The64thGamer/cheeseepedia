@@ -1,0 +1,60 @@
+{
+  "title": "Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)",
+  "storeNumber": "",
+  "startDate": "1981-03-00",
+  "endDate": "1982-00-00",
+  "cuDate": "",
+  "remodels": [
+    {
+      "n": "Charlie Cheese's Standard Layout",
+      "s": "1981-03-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-03-00",
+      "e": "1982-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Cheese Crawl",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in 1981 footage"
+    },
+    {
+      "n": "Frog Spring Rider",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in postcard next to Cheese Crawl"
+    },
+    {
+      "n": "Pig Spring Rider",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in postcard next to Cheese Crawl"
+    },
+    {
+      "n": "Pizza Time Theatre Musical Ferris Wheel",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Pizza Playhouse variant"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "-28.0190455",
+    "153.4110529"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "kvgEu9R_qFzzS7lsefPc.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

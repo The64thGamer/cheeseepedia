@@ -1,0 +1,51 @@
+{
+  "title": "Bakersfield, CA (3760 Ming Ave)",
+  "storeNumber": "",
+  "startDate": "1982-11-16",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-11-16",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "1998-00-00",
+      "desc": "One of 10 3-Stages in California to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-06-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Mega Superhero Playground",
+      "s": "2026-00-00"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "35.33937987",
+    "-119.0452633"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "AAqzobOQhSPq2MevCdpf.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

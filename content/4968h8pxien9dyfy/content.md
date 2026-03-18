@@ -1,0 +1,1 @@
+Promotional photo of early Madame Oink.

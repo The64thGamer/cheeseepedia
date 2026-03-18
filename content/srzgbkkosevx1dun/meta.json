@@ -1,0 +1,44 @@
+{
+  "title": "Super Chuck Summer Show 2005",
+  "startDate": "2005-07-00",
+  "endDate": "2005-08-00",
+  "pageThumbnailFile": "3_e7wufh1rgY2THzUe0S.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/July%202005%20Studio%20C.iso"
+  ],
+  "credits": [
+    "Robert Gotcher|Director",
+    "Michael Hill|Studio Coordinator",
+    "Ryan Hollingsworth|Production Specialist"
+  ],
+  "mediaDuration": "1:10:33",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD",
+    "3-Stage SVHS (Post-93)",
+    "R12 SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Summer2005USAVersion.img",
+      "label": "Studio C Floppy Disk (USA Ver.)"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/July%202005%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/June%202005%203-Stage-007.iso",
+      "label": "3-Stage DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

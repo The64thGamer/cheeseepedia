@@ -1,0 +1,30 @@
+***Citrus Heights, CA (7614 Greenback Lane)*** was the eighth Pizza Time Theatre that opened in Greenback Plaza on December 26th, 1979, and lasted until late 1984.
+
+## History
+
+### Pre-Opening
+
+The first mention of the location would be on July 28th, 1979, with the permit to sell alchohol. Notably the location was set for the incorrect address of 7620 Greenback Lane, which continued in further permit notices. On November 4th, 1979, a building permit for the location would be published.[1]
+
+In early December the store would be set for the same opening date as [Sparks, NV (530 Greenbrae Dr)], December 20th. The store's manager, Dave Wright, would note the store being the first in Northern California to have [Helen Henny (Lounge)], and a new configuration for the [Portrait / Shelf Stage] that had all the characters on a singular wall. On December 23rd however it would be noted this was moved to December 26th. It would also note the location would have Dolli Dimples, 65 games, and a 350 seat capacity.[2]
+
+### Opening
+The location would open on December 26th, 1979. During the opening the Sacramento and Citrus Heights Little Miss Pageant winners would attend, alongside kids from the Sacramento Recieving Home, Citrus Heights Chamber Director Leo Pappas, and previous President of the Citrus Heights Chamber Diane Hazelroth. The opening would start with a 'Cheese Cutting Ceremony' by the Chuck Walkaround and guests right next to the Cheese Crawl. Due to the building not having its gas turned on by the city yet, pizzas were delivered from its sister store of [Sacramento (Florin Mall), CA (7020 Stockton Blvd)]. Two days later it would begin putting out coupons for its opening month.[3] It would be the second and last location to open with the [Helen Henny (Lounge)], featuring an altered design and a simplified backdrop.
+
+A week after opening Sacramento's Channel 40 would do a Newsplus at 10 feature on Citrus Height's Cyberamics system.[26]
+
+### 1980's
+Around January of 1980 the walkaround from Citrus Heights would appear in pre-event news covereage of the upcoming the United Cerebral Palsy Telethon. It would also appear during the telethon handing out Chuck E. Bucks to the volunteers on the telephones.[26][27] On February 24th, 1980, the location would participate with the [Sacramento (Florin Mall), CA (7020 Stockton Blvd)] store on the "Say 'Cheese' with Chuck E.!" promotion. Customers with any purchase could get a free color photo with the Chuck E. Cheese walkaround, alongside a part in a drawing to win a Polaroid One-Step camera. The giveaway would happen between then and the 28th.[4][5] In early 1980, the [Pizza Time Theatre 1980 Spot (Commercial)] commercial would be filmed at the location.[26] In May of 1980 it would be announced the store was soon to recieve Artie Antlers. From October 6th through the 16th, 1980, the location would participate in the [1980 Roll for Multiple Sclerosis (Event)] alongside all other stores.[23]
+
+During the first two weeks of August 1981 the store alongside many others would hold the [1981 Starcade Tournament (Event)] to find participants for the upcoming Starcade TV show pilot.[28] Just after the contests, from August 24th through Setpember 3rd, 1981, the store would participate in the [1981 Play Asteroids and Benefit Muscular Dystrophy (Event)]. In December of 1981 the store's walkaround would visit the children's wards of local hospitals.[29]
+
+Sometime around or before early 1982, the store would recieve The Beagles, alongside their Artie Antlers being swapped back to Dolli Dimples. On February 25th, 1982, it would be stated the location had 84 attractions, noting the company comes in every month to replace two old and unpopular games with new ones.[32]
+
+In March of 1983 PTT would note that the tech, George Wallace, had taken time out of his schedule to give a blind boy a touch tour of the games and Cyberamics. The kid was so excited to touch Chuck E. that George recieved a thank you letter from the boy in Braille.[30]
+
+Some time before closure the Beagles would convert to the Beach Bowzers.
+
+### Closure
+The location would close some time in late 1984, with its last direct mention outside of auctions being on June 13th.[21]It would later be noted the store had 80 arcade games by its closure.[19]
+
+On October 21, 1984, Citrus Heights would be listed in 74 locations set to be auctioned by the end of the year.[15] An update on November 18th would mark it as of the 58 locations going for sale on November 27th.[16] The location's items would be set for auction under Joes Presswood Company on January 12th, 1985, before rescheduling for January 10th.[17][18] On the 10th, it would be reported that the Chuck Cyberamic sold for $250 to the Sacramento Land Park carnival operator Sam Johnston. He would also purchase Mr. Munch, Pasqually, and Dolli Dimples. He would have plans to use them in the Castle of Terror ride set to open in his park that year. Chuck would be planned to be converted into a ghost, while the others would not be overhauled.[24] Ray Reynolds of and Orangevale bar & grill called The Rambler purchased the pianobar for $150, alongsize the Zaxxon and Moon Lander arcades for $300 each. Pete Pon purchased a Helen Henny Cyberamic. Steve Somers bought a cocktail configured Galaga for $725.[33] The highest bid would be for the Beach Bowzers, which would sell for $1,900 to Bonnie Collins, who planned to reformat them as lions and start a new pizza restaurant, 'King Lion'. It would be noted seveal hundred people attended the auction.

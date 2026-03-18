@@ -1,0 +1,40 @@
+{
+  "title": "Carson, CA (20700 S Avalon Blvd #100)",
+  "storeNumber": "",
+  "startDate": "1983-00-00",
+  "endDate": "2014-01-05",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2014-01-05"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.8583914",
+    "-118.2662615"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

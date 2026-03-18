@@ -1,0 +1,47 @@
+{
+  "title": "January 2011 Show",
+  "startDate": "2011-01-00",
+  "endDate": "2011-04-00",
+  "pageThumbnailFile": "L_78QNChS6VU4XIOSgzJ.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Mousester",
+    "Anonymous",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/January%202011%20Studio%20C-002.iso"
+  ],
+  "credits": [
+    "Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician",
+    "Annagrey Wiechman|Voice of Helen Henny",
+    "John Bowen|Voice of Mr. Munch, Munch's Mom",
+    "Jeremy Blaido|Voice of Jasper T. Jowls",
+    "Earl Fisher|Voice of Pasqually The Chef",
+    "Robert Gotcher|Director, Show Announcer",
+    "Michael Hill|Studio Coordinator",
+    "Matt Daniel|Production Coordinator, Show Announcer",
+    "Dave Wilson|Songwriter 'Dancin' In The Sun', 'On The Brightside'"
+  ],
+  "mediaDuration": "1:51:09",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/January%202011%20Studio%20C-002.iso",
+      "label": "Studio C DVD ISO"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/January%202011%203-Stage-007.iso",
+      "label": "3-Stage DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

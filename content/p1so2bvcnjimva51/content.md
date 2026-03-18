@@ -1,0 +1,1 @@
+"Chuck E.'s Middle Name" performance at Huntington Beach.

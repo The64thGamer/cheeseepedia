@@ -1,0 +1,51 @@
+{
+  "title": "September 2003 Show",
+  "startDate": "2003-09-00",
+  "endDate": "2003-11-00",
+  "pageThumbnailFile": "tSrbgUKhLk1AfkKjO9IJ.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Ceclife13",
+    "RedaCEC",
+    "BurgersNuggs445",
+    "John95"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/September%202003%20Studio%20C.iso"
+  ],
+  "credits": [
+    "Duncan Brannan|Voice of Chuck E. Cheese",
+    "Annagrey Wiechman|Voice of Helen Henny",
+    "John Bowen|Voice of Mr. Munch",
+    "Earl Fisher|Voice of Pasqually The Chef",
+    "Jeremy Blaido|Voice of Jasper T. Jowls, Director",
+    "Robert Gotcher|Production Manager",
+    "Matt Daniel|Production Coordinator",
+    "Sammy Davenport|Music Director"
+  ],
+  "mediaDuration": "1:01:51",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage SVHS (Post-93)",
+    "R12 SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Sept03ShowUpgrade.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Sept2003ShowUpgradeV101.img",
+      "label": "Studio C Floppy Disk (Ver. 1.01)"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/September%202003%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Paducah, KY (5141 Hinkleville Rd)",
+  "storeNumber": "",
+  "startDate": "1982-12-09",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-12-09",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1992-09-00",
+      "e": "2018-12-00",
+      "desc": "One of 3 3-Stages in Kentucky to undergo Concept Unification. Last 3-Stage in Kentucky from mid 2000s until stage removal in December 2018. Was in Decent Condition. Last 3-Stage to have ShowBiz side wood paneling, Jasper had Beach Bear Guitar, and Pasqually had TKO Drumfront."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2018-12-00",
+      "desc": "2017 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.07511117",
+    "-88.69143473"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Wg0o11bqviN7ZuXFOhPt.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

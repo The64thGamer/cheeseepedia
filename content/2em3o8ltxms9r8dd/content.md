@@ -1,0 +1,1 @@
+A photo of the store's Beta before the 2.0 Remodel and being installed at Darien before their 2.0 remodel (9/11/2017) (PC: Cam H)

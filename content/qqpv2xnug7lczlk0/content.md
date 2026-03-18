@@ -1,0 +1,1 @@
+Avenger Cheerleader Helen, Rockstar Chuck, Rockstar Mr. Munch, and Rockstar Jasper in the grand reopening event of the Altoona, PA location on August 6, 2024.

@@ -1,0 +1,30 @@
+{
+  "title": "Columbus, OH (2044 Crown Plaza Dr)",
+  "storeNumber": "",
+  "startDate": "1982-06-30",
+  "endDate": "1984-01-08",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-06-30",
+      "e": "1984-01-08"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.0654383",
+    "-83.0716274"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

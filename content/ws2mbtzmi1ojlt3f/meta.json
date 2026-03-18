@@ -1,0 +1,41 @@
+{
+  "title": "San Diego, CA (3146 Sports Arena Blvd)",
+  "storeNumber": "",
+  "startDate": "1993-04-19",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-04-19",
+      "e": "2003-00-00",
+      "desc": "Mini Unit 1-Stage"
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-06-13",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.75134042",
+    "-117.207339"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "D0lKjDhfjfdyds69Tk7X.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

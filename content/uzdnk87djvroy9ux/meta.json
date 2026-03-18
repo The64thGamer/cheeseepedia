@@ -1,0 +1,30 @@
+{
+  "title": "Montgomery, AL (3560 Atlanta Hwy)",
+  "storeNumber": "",
+  "startDate": "1982-11-00",
+  "endDate": "1984-09-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-11-00",
+      "e": "1984-09-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.3851503",
+    "-86.2545717"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

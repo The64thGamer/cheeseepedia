@@ -1,0 +1,36 @@
+{
+  "title": "Pasadena, CA (3737 E Foothill Blvd)",
+  "storeNumber": "",
+  "startDate": "1993-10-14",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "2-Stage",
+      "s": "1993-10-00",
+      "e": "2024-02-05",
+      "desc": "One of many installed in California. Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-02-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.14962982",
+    "-118.073889"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "0BCYOW63UBD6CwjykNld.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

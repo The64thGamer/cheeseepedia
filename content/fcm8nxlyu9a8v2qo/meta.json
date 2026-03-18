@@ -1,0 +1,35 @@
+{
+  "title": "Lake Charles, LA (3221 E Prien Lake Rd)",
+  "storeNumber": "",
+  "startDate": "2001-12-19",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2001-12-19",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2018-07-00",
+      "desc": "2017 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.19735587",
+    "-93.17238148"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "tTyR_XkQMbthy2yYRRPK.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

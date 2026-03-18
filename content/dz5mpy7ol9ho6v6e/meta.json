@@ -1,0 +1,35 @@
+{
+  "title": "Lowell, MA (199 Plain St)",
+  "storeNumber": "",
+  "startDate": "1993-05-27",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-05-27",
+      "e": "2023-09-17"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-09-17",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.62095817",
+    "-71.31928918"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "cgNII9GosQSCMi1r_SK6.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

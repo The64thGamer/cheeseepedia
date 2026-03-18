@@ -1,0 +1,42 @@
+{
+  "title": "Reel to Real",
+  "startDate": "2022-07-24",
+  "endDate": "2022-12-09",
+  "pageThumbnailFile": "98h23498th39248th.avif",
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "citations": [
+    "https://youtu.be/ksd2jkhb9D4",
+    "https://youtu.be/JSDOfjqk6AQ",
+    "https://the64thgamer.artstation.com/projects/Qnndz3",
+    "https://discord.com/channels/866130462137516052/866130462137516055/995758028966072361",
+    "https://gamejolt.com/games/reel2real/710517",
+    "https://youtu.be/DE5A3BT-Jb4",
+    "https://youtu.be/TrEv0gYnV6s",
+    "https://youtu.be/FCEu1ndMzpI",
+    "https://youtu.be/VgsROB6xwb4",
+    "https://drive.google.com/file/d/1SMi22CD-D7Tw73NlxxK8QDdtstnSWMRS/view?usp=sharing",
+    "https://youtu.be/VKplitUQXp4",
+    "https://archive.org/download/20221209-64th-gamer-cease-desist-letter-signed/20221209_64th%20Gamer%20Cease%20%26%20Desist%20Letter-signed.pdf|CEC Entertainent Cease & Desist Letter",
+    "Correspondance from sudo trans --pony"
+  ],
+  "credits": [
+    "sudo trans --pony - Developer",
+    "Himitsu - Engine Optimization (Rock-afire Replay Engine)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/20221209-64th-gamer-cease-desist-letter-signed/20221209_64th%20Gamer%20Cease%20%26%20Desist%20Letter-signed.pdf",
+      "label": "CEC Entertainent Cease & Desist Letter"
+    }
+  ],
+  "alsoKnownAs": [
+    "RR"
+  ],
+  "type": "Simulators",
+  "tags": [
+    "Chuck E. Cheese's",
+    "Pizza Time Theatre"
+  ]
+}

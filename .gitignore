@@ -21,3 +21,19 @@ public/
 # Go workspace file
 go.work
 .DS_Store
+
+hugo-build.log
+.hugo_build.lock
+
+.venv/
+/data/search
+/data/tags
+/static/data
+/data
+/static/theoryweb/FNaF 1 Game/FNaF 1 Audio
+/static/theoryweb/FNaF 1 Game/Unsorted
+/static/theoryweb/FNaF 1 Audio
+/old/theoryweb/FNaF 1 Game
+/old/theoryweb/FNaF 1 Audio
+*.pyc
+/viewers/cep-js/scripts/__pycache__

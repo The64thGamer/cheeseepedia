@@ -1,0 +1,41 @@
+{
+  "title": "Dallas, TX (7110 S Westmoreland Rd)",
+  "storeNumber": "",
+  "startDate": "1982-09-15",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-09-15",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2022-08-00",
+      "desc": "One of 17 3-Stages in Texas to undergo Concept Unification. Last 3-Stage in Texas from early 2020 until stage removal in August 2022. Was in Very Poor Condition."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-08-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.65938892",
+    "-96.88285323"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Y3r0mwP2d7uBvdtxnPUh.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

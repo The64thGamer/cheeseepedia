@@ -1,0 +1,535 @@
+{
+  "title": "Concord, CA (1975 Diamond Blvd)",
+  "storeNumber": "3",
+  "startDate": "1979-05-00",
+  "endDate": "1994-01-00",
+  "cuDate": "",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1979-05-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "2-Wall"
+    },
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "0000-00-00",
+      "e": "1994-01-00",
+      "desc": "1-Wall, other side taken up by large plushes."
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Ulrike-Grandjean Corporation",
+      "s": "1986-03-18",
+      "e": "1994-01-00"
+    }
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Dolli Dimples (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Artie Antlers (Cyberamic)",
+      "s": "1980-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "B.B. Bubbles (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1985-00-00",
+      "l": "N/A",
+      "st": "2 Were installed, unknown wherabouts."
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1985-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1985-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Cheese Crawl",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "2-Story Layout, going from the showroom up to the arcade."
+    },
+    {
+      "n": "'Puppet Show'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Likely The Original Bimbo 3 Ring Circus. Mentioned in building plans."
+    },
+    {
+      "n": "'Cut-Down Pins'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Likely Pinball. Mentioned in building plans."
+    },
+    {
+      "n": "Night Driver",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Top Sim AT",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Space Invaders",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Circus Time",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Firetouch",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Air Hockeys",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Shootaway",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Metal Typer",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Sea Wolf",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Old Time Basketball",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Starfire",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Super Breakout",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Space Wars",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Bumper Cars",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans. Possibly same as Huntington Beach."
+    },
+    {
+      "n": "Perfume Lady",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Indy",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "'Pins' (Pinball)",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "'Misc Videos'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "'Misc Arcades-5'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Atari Football",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "'Game Tree'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Killer Bees",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Sprint 2",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "'Sex Game'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Likely Love Tester. Mentioned in building plans."
+    },
+    {
+      "n": "Rotation 8's",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Take 5",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Whac-A-Mole",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans (Might be Whac-A-Munch, given it appears in early 1980)."
+    },
+    {
+      "n": "Asteroids",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Noted by a customer years later"
+    },
+    {
+      "n": "Ms. Pac-Man",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Noted by a customer years later"
+    },
+    {
+      "n": "Pac-Man",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage (1 unit) and seen in 1992 (2 units)"
+    },
+    {
+      "n": "Moon Lander",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Noted by a customer years later"
+    },
+    {
+      "n": "Star Wars (1983)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Noted by a customer years later"
+    },
+    {
+      "n": "Rondina Helicopter Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Yellow variant, seen in Oct. 25, 1986 footage and noted by a customer there in the early 90's"
+    },
+    {
+      "n": "Whac-A-Munch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Single unit Red/Green variant. Seen in 1992."
+    },
+    {
+      "n": "Whac-A-Munch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Double Yellow/Red variant, seen in early 1980."
+    },
+    {
+      "n": "Sega Thunder Blade",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in 1992."
+    },
+    {
+      "n": "Galaga",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in 1992."
+    },
+    {
+      "n": "Fanky Malloon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "'Flying Fun Balloons' marquee, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Cotton Candy Machine",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Yellow cabinet labeled 'Cotton Candy' with clown face, unknown manufacturer, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Pizza Time Theatre Musical Ferris Wheel",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Cane variant, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Elektro-Mobiltechnik Santa Fe Train Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Unknown Crane Game",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Large red crane game, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Wedges & Ledges",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Rondina Space Shuttle Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Skee-Roll",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Multiple mentioned in building plans. 6 alleys with cages, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Unknown Spinning Prize Game",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Multi-player redemption game in octagonal shape with jewlery as prizes, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Unknown Black F1 Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Unknown Fire Truck Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Pizza Time Theatre Hot Air Balloon Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Rondina Scout Ball Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Silver variant, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Sega Turbo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Unknown Video Jukebox",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Spy Hunter",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Shoot Away",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Centipede",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Super Chexx",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Pole Position",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Nintendo Vs. Double Cabinet",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Vs. Hogans Alley + Vs. Super Mario Bros, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Tapper",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Cliff Hanger",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    }
+  ],
+  "sqft": "10,000",
+  "latitudeLongitude": [
+    "37.96875627",
+    "-122.0574822"
+  ],
+  "citations": [
+    "https://archive.org/details/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1/",
+    "https://forums.atariage.com/topic/240567-what-was-chuck-e-cheese-like-back-in-the-1980s/",
+    "https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-1/page/n3/mode/2up?q=concord",
+    "https://web.archive.org/web/20120913192049/http://claycord.com:80/2012/09/11/claycord-online-museum-the-old-chuck-e-cheese-in-the-willows-shopping-center/",
+    "https://www.newspapers.com/clip/98320483/oakland-tribune/",
+    "https://www.newspapers.com/article/oakland-tribune/82325882/",
+    "https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf",
+    "https://www.newspapers.com/image/841084118/?clipping_id=105027559&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg0MTA4NDExOCwiaWF0IjoxNzYwODA3OTg0LCJleHAiOjE3NjA4OTQzODR9.bAPjU5EEFQTyHBSxOZhM0j-_WAgr7OcT-MMdfBP8rM8",
+    "https://archive.org/details/play-meter-update-volume-5-number-10-june-1st-1979/Play%20Meter%20Update%20-%20Volume%205%2C%20Number%2010%20-%20June%201st%201979/mode/2up?q=pizza+time+theatre",
+    "https://www.newspapers.com/article/martinez-news-gazette-pizza-time-theatre/141016565/",
+    "https://www.newspapers.com/article/martinez-news-gazette-concord/104763001/",
+    "https://cdnc.ucr.edu/?a=d&d=CASAL19790529.1.32&srpos=88&e=------197-en--20--81-byDA-txt-txIN-Nolan+Bushnell-------",
+    "https://www.bizprofile.net/authorized-person/ulrike-grandjean-corporation-a",
+    "https://youtu.be/2yr3tlSLcwE"
+  ],
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/details/concord-ca-1975-diamond-blvd",
+      "label": "Building Plans (May 23rd, 1979)"
+    }
+  ],
+  "pageThumbnailFile": "9dipf6po64hdlwbf.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

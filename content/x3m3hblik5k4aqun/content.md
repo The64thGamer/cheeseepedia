@@ -1,0 +1,5 @@
+The ***1981 Starcade Tournament*** was a contest held at select Pizza Time Theatres in August of 1981 to poll for contestants to be on the then upcoming Starcade TV show pilot.
+
+## Description
+
+During the first two weeks of August 1981, [Huntington Beach, CA (15511 Edwards St)], [Citrus Heights, CA (7614 Greenback Lane)], [San Ramon, CA (1901 San Ramon Valley Blvd)], [Garden Grove, CA (11889 Valley View St)], [Long Beach, CA (4706 Los Coyotes Diagonal)], [San Diego (Mira Mesa), CA (9840 Hibert St)], [Modesto, CA (3037 Sisk Rd)], [Pinole, CA (1570 Fitzgerald Dr)], [Orlando / Winter Park, FL (1300 Lee Rd)], [Tampa, FL (1707 E Fowler Ave)], [Arlington, TX (2216 S Fielder Rd)], and [Fort Worth, TX (8740 Hwy 80 West)] would have customers play arcade games in contests to win a chance at being on the pilot for the upcoming TV show 'Starcade'. Random contestants were also selected from home entry forms that were submitted at these locations.[1] The pilot would air on September 13th, 1981, which had all 24 contestants win a party for 10 at their local PTT.[2][3]

@@ -1,0 +1,22 @@
+{
+  "title": "Pasqually's Pizza & Wings",
+  "startDate": "2020-03-00",
+  "endDate": "2025-03-30",
+  "pageThumbnailFile": "assWallys.avif",
+  "contributors": [
+    "Bowling for Cheese",
+    "sudo trans --pony",
+    "CorrectorMan",
+    "CECMentor"
+  ],
+  "citations": [
+    "https://www.chuckecheese.com/darien-il/blogs/chuck-e-cheese-unveils-new-grown-up-menu/",
+    "Employee correspondance",
+    "https://www.pizzamarketplace.com/news/chuck-e-cheese-inks-deal-with-california-water-park/",
+    "https://www.pasquallyspizza.com/"
+  ],
+  "type": "Companies/Brands",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

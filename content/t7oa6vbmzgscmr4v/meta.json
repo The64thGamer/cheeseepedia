@@ -1,0 +1,31 @@
+{
+  "title": "Artie Antlers Showtape",
+  "startDate": "1980-00-00",
+  "endDate": "",
+  "pageThumbnailFile": "0hQYlwZJF6STIfXN94fd.avif",
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "citations": [
+    "https://www.discogs.com/release/5506802-The-High-Time-Octet-The-High-Time-Octet",
+    "http://www.showbizpizza.com/review/ptt/cabaret-lounge_artie1.html",
+    "https://www.allmusic.com/artist/tom-salisbury-mn0000063612/credits",
+    "https://en.wikipedia.org/wiki/William_%22Smitty%22_Smith"
+  ],
+  "credits": [
+    "Jim Cunningham|Voice of Artie Antlers"
+  ],
+  "showtapeFormats": [
+    "Cyberamics Reel"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/artie-antlers/Artie%20Antlers.wav",
+      "label": "Showtape Reel w/ Signals"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

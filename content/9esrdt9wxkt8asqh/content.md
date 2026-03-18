@@ -1,0 +1,1 @@
+Rat costume at Rose Park Senior Citizens Center.

@@ -1,0 +1,45 @@
+{
+  "title": "Saginaw, MI (5105 Bay Rd)",
+  "storeNumber": "",
+  "startDate": "1982-10-13",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-13",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "1999-00-00",
+      "desc": "One of 6 3-Stages in Michigan to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "43.48029827",
+    "-83.97774933"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

@@ -1,0 +1,1 @@
+Ceramic base w/ speaker

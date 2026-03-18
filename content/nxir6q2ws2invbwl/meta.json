@@ -1,0 +1,46 @@
+{
+  "title": "Darien, IL (7409 Cass Ave)",
+  "storeNumber": "",
+  "startDate": "1981-02-24",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-02-24",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-11-00",
+      "e": "2023-00-00",
+      "desc": "One of 10 3-Stages in Illinois to undergo Concept Unification. Second-to-last 3-Stage in Illinois from August 2019 until stage removal between June/July 2020. Replaced with the first CU Beta 16M stage due to the 3-Stage air compressor malfunctioning. 3-Stage characters were given to collectors after stage removal. Was in very poor condition, Jasper had Beach Bear Guitar, and Pasqually was in center of his stage after Pizzacam was removed."
+    },
+    {
+      "n": "CU Beta 16M",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-06-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.75191932",
+    "-87.97335123"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "93DmvQuqD2EbjbOkNYSL.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

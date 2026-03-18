@@ -1,0 +1,1 @@
+***Hong Kong, China (Causeway Bay)*** was a planned [Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園)] that was stated to be opening in Summer of 1983 under the direction of the Whimsy Company, who had previously opened the [Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)] location a few months prior.

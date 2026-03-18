@@ -1,0 +1,1 @@
+Photo displayed before printing

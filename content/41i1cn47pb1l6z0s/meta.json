@@ -1,0 +1,45 @@
+{
+  "title": "Alexandria, LA (1725 Metro Dr)",
+  "storeNumber": "",
+  "startDate": "1983-06-27",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-06-27",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2009-04-00",
+      "desc": "One of 5 3-Stages in Louisiana to undergo Concept Unification. Stage replaced with the last ever installed Studio C Cappa in April 2009."
+    },
+    {
+      "n": "Studio C Cappa",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "31.27505132",
+    "-92.47295248"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "2nqcR0yu3ELwnjYHlY72.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

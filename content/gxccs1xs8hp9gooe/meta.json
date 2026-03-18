@@ -1,0 +1,264 @@
+{
+  "title": "Huntington Beach, CA (15511 Edwards St)",
+  "storeNumber": "",
+  "startDate": "1979-10-06",
+  "endDate": "2025-09-21",
+  "cuDate": "",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1979-10-06"
+    },
+    {
+      "n": "PTT Early Cyberamic Replacements",
+      "s": "1983-00-00"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Phase 2 (1997)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Phase 3 (2000)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "2020 COVID-19 Removals",
+      "s": "0000-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1979-10-06",
+      "e": "0000-00-00",
+      "desc": "2-Wall"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2025-09-21",
+      "desc": "Oldest CEC location currently. Opened in October 1979 as the 5th Pizza Time Theatre with a Portrait Stage. Last store from the 1970's that is still open. One of last two 2-Stage's operating in California."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Depth Charge",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Star Hawk",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Cheese Crawl",
+      "s": "1979-10-06",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Warlords",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Skee Ball",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "12 Lanes"
+    },
+    {
+      "n": "Bumper Cars",
+      "s": "1979-10-06",
+      "e": "0000-00-00",
+      "desc": "12x18ft concrete pad with six bumper cars."
+    },
+    {
+      "n": "Ball Pit",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Jasper's General Store",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned June 22nd, 1981."
+    },
+    {
+      "n": "Bella's Snack Bar",
+      "s": "2025-06-00",
+      "e": "2025-09-21"
+    }
+  ],
+  "sqft": "17,000",
+  "latitudeLongitude": [
+    "33.73543952",
+    "-118.0179572"
+  ],
+  "citations": [
+    "https://www.newspapers.com/newspage/841084118/",
+    "https://www.newspapers.com/article/oakland-tribune/82325882/",
+    "https://archive.org/details/play-meter-update-volume-5-number-12-july-1st-1979/Play%20Meter%20Update%20-%20Volume%205%2C%20Number%2012%20-%20July%201st%201979/page/n1/mode/2up?q=pizza+time+theatre",
+    "https://showbizpizza.com/info/promo/ptt/ptt_draw-win-eat.pdf",
+    "https://www.newspapers.com/article/the-los-angeles-times/21696884/",
+    "https://www.newspapers.com/article/the-los-angeles-times-potential-huntingt/181898791/",
+    "https://archive.org/details/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1/page/n1/mode/2up?q=huntington",
+    "https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=1326071&dbid=0&repo=CNB&searchid=f20e6d2a-af85-4f89-9ecc-0a5da1ce2bbf",
+    "Source has currently been lost, was previously opening day article.",
+    "https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=1235797&dbid=0&repo=CNB&searchid=4dbc461d-bd8e-4523-b558-8fa240af1495",
+    "https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=1326749&dbid=0&repo=CNB&searchid=4dbc461d-bd8e-4523-b558-8fa240af1495",
+    "https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=1295418&dbid=0&repo=CNB&searchid=4dbc461d-bd8e-4523-b558-8fa240af1495",
+    "https://www.newspapers.com/article/the-los-angeles-times-chuck-e-cheeses/169475752/",
+    "https://archive.org/details/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1/page/n1/mode/2up?q=huntington",
+    "https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/page/n1/mode/2up?q=huntington",
+    "https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-1/page/n3/mode/2up?q=huntington",
+    "https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-2/page/n3/mode/2up?q=huntington",
+    "https://starcade.tv/pilotx/pilot.htm",
+    "https://archive.org/download/thepizzatimeshow/ChuckECheese.mp4",
+    "https://archive.org/details/huntington-beach-kooser-rd-building-plans",
+    "https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-3/page/n5/mode/2up?q=beach",
+    "https://archive.org/details/the-pizza-times-newsletters/1982%20The%20Pizza%20Times%202-3/page/n1/mode/2up?q=beach",
+    "https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=1295578&dbid=0&repo=CNB&searchid=b162c15a-4da6-4acd-b237-0bf881521030",
+    "https://www.newspapers.com/article/the-los-angeles-times/36450843/",
+    "https://www.newspapers.com/article/the-los-angeles-times-numerous-la-oc/86817858/",
+    "https://www.newspapers.com/article/the-los-angeles-times/183696156/",
+    "https://www.newspapers.com/article/the-los-angeles-times/136412202/",
+    "https://youtu.be/wihG5BTS9L8",
+    "https://youtu.be/Yy6CescyNYQ",
+    "https://youtu.be/9Iq_Sju1oaY",
+    "https://youtu.be/MqKRYd3RwjU",
+    "https://www.youtube.com/watch?v=MqKRYd3RwjU",
+    "https://youtu.be/wM_9JQxtTig",
+    "https://youtu.be/InOAJ84rjVM",
+    "https://youtu.be/36de3wzTTNk"
+  ],
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1979-10-06",
+      "e": "2025-09-21",
+      "l": "N/A",
+      "st": "In storage at the SPT Warehouse."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1979-10-06",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1979-10-06",
+      "e": "2025-09-21",
+      "l": "N/A",
+      "st": "In storage at the SPT Warehouse."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1979-10-06",
+      "e": "2025-09-21",
+      "l": "N/A",
+      "st": "In storage at the SPT Warehouse."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1979-10-06",
+      "e": "2025-09-21",
+      "l": "N/A",
+      "st": "In storage at the SPT Warehouse."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1979-10-06",
+      "e": "2025-09-21",
+      "l": "N/A",
+      "st": "In storage at the SPT Warehouse."
+    },
+    {
+      "n": "Dolli Dimples (Cyberamic)",
+      "s": "1979-10-06",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Artie Antlers (Cyberamic)",
+      "s": "1980-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1979-10-06",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1979-10-06",
+      "e": "1985-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1979-10-06",
+      "e": "1985-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Wink (Animatronic)",
+      "s": "0000-00-00",
+      "e": "2025-09-21",
+      "l": "N/A",
+      "st": "In storage at the SPT Warehouse."
+    },
+    {
+      "n": "Helen Henny (Lounge)",
+      "s": "1979-10-06",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    }
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/details/huntington-beach-kooser-rd-building-plans",
+      "label": "Building Plans & Permits (1979)"
+    }
+  ],
+  "pageThumbnailFile": "gtk7pi6m7dzav3dj.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "title": "Spokane, WA (2301 W Wellesley Ave)",
+  "storeNumber": "",
+  "startDate": "1983-04-14",
+  "endDate": "2000-00-00",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-04-14",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2000-03-00",
+      "desc": "Only 2-Stage in Washington."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "47.69800262",
+    "-117.4468955"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "m0Mp529DOJBd6vCUn8_j.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

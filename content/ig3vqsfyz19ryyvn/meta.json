@@ -1,0 +1,39 @@
+{
+  "title": "Dublin, OH (2711 Martin Rd)",
+  "storeNumber": "",
+  "startDate": "1993-10-11",
+  "endDate": "",
+  "cuDate": "",
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-10-11",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.0946729",
+    "-83.0950565"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "kMYcUj30x_Fx9WE9C1xj.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

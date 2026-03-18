@@ -1,0 +1,52 @@
+<div class="s-wrap">
+
+  <!-- Search input -->
+  <div class="s-suggest-wrap">
+    <div class="s-input-row" id="sInputRow">
+      <span class="s-chips" id="sChips"></span>
+      <input class="s-input" id="sInput" placeholder="Search..." autocomplete="off" />
+    </div>
+    <div class="s-suggest" id="sSuggest" style="display:none"></div>
+  </div>
+
+  <!-- Quick tags -->
+  <div class="s-qtags" id="sQtags">
+    <h4>Quick Tags</h4>
+    <div class="s-qtags-scroll" id="sQtagsList"></div>
+  </div>
+
+  <!-- Controls + tabs (hidden until search) -->
+  <div id="sResultsWrap" style="display:none">
+    <div class="s-controls">
+      <label>Show:
+        <select id="sPerPage">
+          <option value="10" selected>10</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+          <option value="all">All</option>
+        </select>
+      </label>
+      <label>Sort:
+        <select id="sSort">
+          <option value="relevancy" selected>Relevancy</option>
+          <option value="oldest">Oldest &#x2192; Newest</option>
+          <option value="newest">Newest &#x2192; Oldest</option>
+        </select>
+      </label>
+      <label>Display:
+        <select id="sDisplay">
+          <option value="card" selected>Card</option>
+          <option value="compact">Compact</option>
+          <option value="list">List</option>
+        </select>
+      </label>
+      <label class="s-toggle">
+        <input type="checkbox" id="sKeepTags"> Quick Tags
+      </label>
+    </div>
+
+    <div class="s-tab-btns" id="sTabBtns"></div>
+    <div id="sTabPanels"></div>
+  </div>
+
+</div>
