@@ -1,1 +1,1 @@
-The ***Sally Unlimited Corporate Office (567 Bishop Gate Ln, Jacksonville, FL)*** was the second offices for Sally Corporation, lasting from 1978 to sometime after July of 1980.<sup>(1)(2)</sup>
+The ***Sally Unlimited Corporate Office (567 Bishop Gate Ln, Jacksonville, FL)*** was the second offices for Sally Corporation, lasting from 1978 to sometime after July of 1980.[1][2]

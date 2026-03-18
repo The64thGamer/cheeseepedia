@@ -55,7 +55,7 @@ const TAG_COLORS = {
   "User":"#5a5a5a","Meta":"#5a5a5a",
 };
 
-let DOCS=[], TAGS={}, ALL_TAG_KEYS=[], ARTICLE_LINKER={};
+let DOCS=[], TAGS={}, ALL_TAG_KEYS=[], ARTICLE_LINKER={}, VIEWS={};
 const TRI_CACHE={};
 let chips=[], suggestIdx=-1, searchTimer=null, sQtagsOpen=false;
 
@@ -127,12 +127,14 @@ function jaccard(a,b) {
 }
 
 async function loadData() {
-  const [dr,tr,lr]=await Promise.all([
+  const [dr,tr,lr,vr]=await Promise.all([
     fetch(`${BASE}/docs.json`),fetch(`${BASE}/tags.json`),
     fetch('/viewers/cep-js/compiled-json/ArticleLinker.json'),
+    fetch('/viewers/cep-js/compiled-json/views.json'),
   ]);
   DOCS=await dr.json(); TAGS=await tr.json();
   ARTICLE_LINKER=lr.ok?await lr.json():{};
+  VIEWS=vr.ok?await vr.json():{};
   ALL_TAG_KEYS=Object.keys(TAGS).sort((a,b)=>a.localeCompare(b,undefined,{sensitivity:'base'}));
   sQtagsList.querySelectorAll('.s-qtag-btn').forEach(btn=>{
     const count=(TAGS[btn.dataset.tag]||[]).length;
@@ -251,7 +253,19 @@ async function executeSearch() {
 
   const sort=sSort.value;
   if(sort!=='relevancy'){
-    results.sort((a,b)=>{const ad=a.doc.d||'',bd=b.doc.d||'';if(!ad&&!bd)return 0;if(!ad)return 1;if(!bd)return-1;return sort==='oldest'?ad.localeCompare(bd):bd.localeCompare(ad);});
+    results.sort((a,b)=>{
+      if(sort==='most-views'||sort==='least-views'){
+        const av=VIEWS[a.doc.p]||0, bv=VIEWS[b.doc.p]||0;
+        return sort==='most-views'?bv-av:av-bv;
+      }
+      if(sort==='newest-updated'||sort==='oldest-updated'){
+        const am=a.doc.mt||0, bm=b.doc.mt||0;
+        return sort==='newest-updated'?bm-am:am-bm;
+      }
+      const ad=a.doc.d||'',bd=b.doc.d||'';
+      if(!ad&&!bd)return 0;if(!ad)return 1;if(!bd)return-1;
+      return sort==='oldest'?ad.localeCompare(bd):bd.localeCompare(ad);
+    });
   }
 
   const buckets={};TABS.forEach(t=>buckets[t.id]=[]);
@@ -262,7 +276,7 @@ async function executeSearch() {
   }
 
   const limit=sPerPage.value==='all'?Infinity:parseInt(sPerPage.value)||10;
-  const display=sDisplay.value,byYear=sort!=='relevancy';
+  const display=sDisplay.value,byYear=sort==='oldest'||sort==='newest';
 
   TABS.forEach(t=>{
     const list=app.querySelector('#list-'+t.id),more=app.querySelector('#more-'+t.id);

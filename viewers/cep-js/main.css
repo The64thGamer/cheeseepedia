@@ -434,6 +434,7 @@ sup {
 }
 
 .Footer {
+  margin-top: 1rem;
   text-align: center;
   color: color-mix(in srgb, var(--text) 30%, transparent);
 }

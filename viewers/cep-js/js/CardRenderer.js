@@ -67,6 +67,7 @@ export function renderArticleCard(doc) {
       <div class="CardText"><strong>${esc(fmtDateRange(doc.d,doc.de))}</strong></div>
     </div>`;
   if (isEmpty) injectEmptySvg(el);
+  injectViewCount(el, doc.p);
   return el;
 }
 
@@ -82,6 +83,7 @@ export function renderArticleCompact(doc) {
       <div class="CardText"><strong>${esc(fmtDateRange(doc.d,doc.de))}</strong></div>
     </div>`;
   if (!src) injectEmptySvg(el);
+  injectViewCount(el, doc.p);
   return el;
 }
 
@@ -92,6 +94,7 @@ export function renderArticleList(doc) {
     <div class="s-item-title"><a href="${esc(href)}">${esc(doc.t||doc.p)}</a></div>
     ${doc.d?`<div class="s-item-meta">${esc(fmtDateRange(doc.d,doc.de))}</div>`:''}
   </div>`;
+  injectViewCount(el, doc.p, '.s-item-meta');
   return el;
 }
 
@@ -104,6 +107,7 @@ export function renderPhotoCard(doc) {
     <div class="PhotoCardExcerpt">${esc(doc.e||'')}</div>
     <div class="PhotoCardDate">${esc(fmtDate(doc.d))}</div>
   </div>`);
+  injectViewCount(el, doc.p, '.PhotoCardDate');
   return el;
 }
 
@@ -112,6 +116,7 @@ export function renderPhotoCompact(doc) {
   const a=document.createElement('a'); a.href=permalink(doc.p); a.className='PhotoCompactImage';
   a.appendChild(ProgressiveImage(doc.p,doc.t)); el.appendChild(a);
   el.insertAdjacentHTML('beforeend',`<div class="PhotoCompactDate">${esc(fmtDate(doc.d))}</div>`);
+  injectViewCount(el, doc.p, '.PhotoCompactDate');
   return el;
 }
 
@@ -135,6 +140,7 @@ export function renderVideoCard(doc) {
       <div class="CardText"><strong>${esc(fmtDate(doc.d))}</strong></div>
     </div>`;
   if (!thumb) injectEmptySvg(el);
+  injectViewCount(el, doc.p);
   return el;
 }
 
@@ -150,6 +156,7 @@ export function renderVideoCompact(doc) {
       <div class="CardText"><strong>${esc(fmtDate(doc.d))}</strong></div>
     </div>`;
   if (!thumb) injectEmptySvg(el);
+  injectViewCount(el, doc.p);
   return el;
 }
 
@@ -160,7 +167,25 @@ export function renderVideoList(doc) {
     <div class="s-item-title"><a href="${esc(href)}">${esc(doc.e||doc.t)}</a></div>
     ${doc.d?`<div class="s-item-meta">${esc(fmtDate(doc.d))}</div>`:''}
   </div>`;
+  injectViewCount(el, doc.p, '.s-item-meta');
   return el;
+}
+
+// ── View count helpers ────────────────────────────────────────────────────────
+let _views = null;
+async function getViews() {
+  if (!_views) _views = await fetch('/viewers/cep-js/compiled-json/view.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
+  return _views;
+}
+export function fmtViews(n) { return ' '+(n??0)+' view'+((n??0)===1?'':'s'); }
+
+/** Appends a view-count span to the .CardText or .s-item-meta element inside `el`. */
+export function injectViewCount(el, path, selector='.CardText') {
+  getViews().then(views=>{
+    const n = views[path]??0;
+    const target = el.querySelector(selector);
+    if (target) target.appendChild(document.createTextNode(fmtViews(n)));
+  });
 }
 
 // ── Review renderers ──────────────────────────────────────────────────────────
@@ -178,12 +203,13 @@ function fetchReviewData(doc, showFull) {
 }
 
 async function buildReviewHTML(doc, meta, body, showFull) {
-  const linker = await getLinker();
+  const [linker, views] = await Promise.all([getLinker(), getViews()]);
   const recommend=meta.recommend??meta.recommended??true;
   const page=meta.page||'';
   const pageId=page?linker[page]:null;
   const pageLink=page?`<a href="/?v=cep-js&=${encodeURIComponent(pageId||norm(page))}" class="ReviewPage">${esc(page)}</a>`:'';
-  const metaLine=[esc(fmtDate(meta.startDate||doc.d)),(meta.contributors||[]).map(c=>esc(c)).join(', '),pageLink].filter(Boolean).join(' · ');
+  const viewSpan=fmtViews(views[doc.p]??0).trim();
+  const metaLine=[esc(fmtDate(meta.startDate||doc.d)),(meta.contributors||[]).map(c=>esc(c)).join(', '),pageLink,viewSpan].filter(Boolean).join(' · ');
   const bodyHTML=showFull?`<div class="ReviewBody">${esc(body||'')}</div>`:`<div class="ReviewExcerpt">${esc(doc.e||'')}</div>`;
   return `<div class="ReviewTitle"><span class="ReviewEmoji">${recommend?'👍':'👎'}</span><a href="/?v=cep-js&=${encodeURIComponent(doc.p)}">${esc(meta.title||doc.t||'')}</a></div>
     <div class="ReviewMeta">${metaLine}</div>${bodyHTML}`;
@@ -210,7 +236,7 @@ export function renderReviewList(doc) {
     <div class="s-item-title"><a href="${esc(href)}">${esc(doc.t||doc.p)}</a></div>
     ${doc.d?`<div class="s-item-meta">${esc(fmtDate(doc.d))}</div>`:''}
   </div>`;
-  Promise.all([fetch(`/content/${doc.p}/meta.json`).then(r=>r.json()).catch(()=>({})), getLinker()]).then(([meta,linker])=>{
+  Promise.all([fetch(`/content/${doc.p}/meta.json`).then(r=>r.json()).catch(()=>({})), getLinker(), getViews()]).then(([meta,linker,views])=>{
     const emoji=(meta.recommend??meta.recommended??true)?'👍':'👎';
     const titleEl=el.querySelector('.s-item-title a');
     if (titleEl) titleEl.textContent=emoji+' '+(meta.title||doc.t||'');
@@ -220,6 +246,8 @@ export function renderReviewList(doc) {
       const metaEl=el.querySelector('.s-item-meta');
       if (metaEl) metaEl.insertAdjacentHTML('beforeend',` · <a href="/?v=cep-js&=${encodeURIComponent(pid||norm(page))}">${esc(page)}</a>`);
     }
+    const metaEl=el.querySelector('.s-item-meta');
+    if (metaEl) metaEl.appendChild(document.createTextNode(fmtViews(views[doc.p]??0)));
   });
   return el;
 }

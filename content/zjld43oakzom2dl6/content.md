@@ -5,7 +5,7 @@ The bot was used up until Kooser got the first [Cyberamics Balcony Stage] in May
 
 ### At Kooser
 
-The bot debuted at the opening of the Kooser store in December of 1978. It would be seen in many promotional material for Chuck E. Cheese's Pizza Time Theater<sup>(1)(2)</sup>. It would appear in a segment for the show, Real People, in 1979[3]. The bot would be removed in 1980 after the placement of a Balcony Stage at Kooser.
+The bot debuted at the opening of the Kooser store in December of 1978. It would be seen in many promotional material for Chuck E. Cheese's Pizza Time Theater[1][2]. It would appear in a segment for the show, Real People, in 1979[3]. The bot would be removed in 1980 after the placement of a Balcony Stage at Kooser.
 
 ### Corporate Move
 

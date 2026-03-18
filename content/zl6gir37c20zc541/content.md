@@ -1,4 +1,4 @@
-The ***Big C's Combo* was a pizza served at [Pizza Time Theatre] locations from 1977 through 1984.<sup>(1)(2)(3)</sup>
+The ***Big C's Combo* was a pizza served at [Pizza Time Theatre] locations from 1977 through 1984.[1][2][3]
 The pizza was served with 9-10 different toppings in multiple sizes throughout its run.**
 
 ## History

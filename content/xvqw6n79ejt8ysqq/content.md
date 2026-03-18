@@ -21,5 +21,5 @@ New director commentary from Brett Whitcomb and Bradford Thomason over the film 
 
 ## Release
 
-On February 1st, 2024, the *American Genre Film Archive* would work in tandem with *Vinegar Syndrome* to begin pre-orders for the film.<sup>(2)(3)</sup> Only 2000 would be made for the release. Within the first week around 500 copies had been ordered.[4] By February 26th, 1,300 copies had been ordered.[5] The earliest known copy would arrive on February 28th, 2024.[6]
+On February 1st, 2024, the *American Genre Film Archive* would work in tandem with *Vinegar Syndrome* to begin pre-orders for the film.[2][3] Only 2000 would be made for the release. Within the first week around 500 copies had been ordered.[4] By February 26th, 1,300 copies had been ordered.[5] The earliest known copy would arrive on February 28th, 2024.[6]
 By July 31, 2024, 117 copies would be left in stock.[7] By November 8th, 2024, 11 copies would be left. [8] The copies would likely sell out by the end of November, though the first archive of the page showing 'out of stock' would be on June 9th, 2025. [9]

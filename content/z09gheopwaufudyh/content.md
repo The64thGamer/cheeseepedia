@@ -4,7 +4,7 @@ Jungle Jim's International Market (Also known as just Jungle Jim's) is a chain o
 
 ### 1971
 
-- Jim Bonaminio sets up his first semi-permanent produce stand. Located on the corner of Erie Blvd and High Street in Hamilton, this stand is set up on a former used car lot. The stand reportedly made $200 a week.<sup>(1)(2)</sup>
+- Jim Bonaminio sets up his first semi-permanent produce stand. Located on the corner of Erie Blvd and High Street in Hamilton, this stand is set up on a former used car lot. The stand reportedly made $200 a week.[1][2]
 
 ### 1972
 
@@ -13,21 +13,21 @@ Jungle Jim's International Market (Also known as just Jungle Jim's) is a chain o
 
 ### 1973
 
-- Jim was getting used to moving the stand around often, The traffic his business brought made the vacant lots it was placed on much more desirable to developers, who would buy the land and force Jungle Jim's to move. <sup>(1)(2)</sup>
+- Jim was getting used to moving the stand around often, The traffic his business brought made the vacant lots it was placed on much more desirable to developers, who would buy the land and force Jungle Jim's to move. [1][2]
 - After setting up a temporary location at 1215 Main St on the west side of Hamilton, the stand would move back to Fairfield on Route 4, this time across from the Fisher Body manufacturing plant. [2]
 
 ### 1974
 
-- Jim would purchase a piece of property in Fairfield from Jim Ivers and Bruce Cunagin to build a permanent year-round location for Jungle Jim's. Jim didn't have any credit and refused to have his parents be his co-signers, Bruce's mom Fanny would step up and co-sign for him. <sup>(1)(2)</sup>
+- Jim would purchase a piece of property in Fairfield from Jim Ivers and Bruce Cunagin to build a permanent year-round location for Jungle Jim's. Jim didn't have any credit and refused to have his parents be his co-signers, Bruce's mom Fanny would step up and co-sign for him. [1][2]
 
 ### 1975
 
-- The store had issues getting the proper permits from the city, since the land was zoned for industrial use. The biggest argument for Jungle Jim's to operate was that an exemption to the zoning had been made for an Arthur Treacher's Fish & Chips location that had been built nearby. Esther Benzing, president of Fairfield's planning commission, reportedly told Jim "good luck son" after approving the store to operate. <sup>(1)(2)</sup>
+- The store had issues getting the proper permits from the city, since the land was zoned for industrial use. The biggest argument for Jungle Jim's to operate was that an exemption to the zoning had been made for an Arthur Treacher's Fish & Chips location that had been built nearby. Esther Benzing, president of Fairfield's planning commission, reportedly told Jim "good luck son" after approving the store to operate. [1][2]
 - The location at [Fairfield, OH (5440 Dixie Hwy)] opens sometime during this year. The store is only 4,200 square feet. Today, this area is the Health and Beauty department. [1]
 
 ### 1982
 
-- The store receives its first major expansion, adding more general grocery items like milk and bread to the produce selection, and bringing the store to 15,000 square feet. <sup>(2)(3)</sup>
+- The store receives its first major expansion, adding more general grocery items like milk and bread to the produce selection, and bringing the store to 15,000 square feet. [2][3]
 
 ### 1983
 
@@ -71,7 +71,7 @@ Jungle Jim's International Market (Also known as just Jungle Jim's) is a chain o
 
 ### 1999
 
-- By June, the Nirobi Trio would be removed and replaced with The General Mills Big G Cereal Bowl Band. A national trademark would be filed on October 5th. <sup>(4)(6)</sup>
+- By June, the Nirobi Trio would be removed and replaced with The General Mills Big G Cereal Bowl Band. A national trademark would be filed on October 5th. [4][6]
 
 ### 2001
 
