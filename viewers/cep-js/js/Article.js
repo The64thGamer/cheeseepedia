@@ -100,6 +100,7 @@ export async function loadArticle(app, articleId) {
   const body = app.querySelector('#ArticleBody');
   const infobox = app.querySelector('#Infobox');
   const titleEl = app.querySelector('#ArticleTitle');
+  const header = app.querySelector('.ArticleHeader');
   if (!body || !infobox) return;
 
   body.innerHTML = '<p class="ArticleLoading">Loading…</p>';
@@ -119,7 +120,35 @@ export async function loadArticle(app, articleId) {
   const md = mdRes?.ok ? await mdRes.text() : '';
 
   if (meta.title) document.title = meta.title;
+
+
   if (titleEl) titleEl.textContent = meta.title || '';
+
+  if (header) {
+    const pinBtn = document.createElement('button');
+    pinBtn.className = 'PinButton';
+    pinBtn.textContent = '📌';
+
+    const pins = () => JSON.parse(localStorage.getItem('Pins') || '[]');
+    const setPinned = (pinned) => {
+      pinBtn.classList.toggle('PinButtonActive', pinned);
+      pinBtn.title = pinned ? 'Unpin article' : 'Pin article';
+    };
+
+    setPinned(pins().includes(articleId));
+
+    pinBtn.addEventListener('click', () => {
+      let p = pins();
+      const idx = p.indexOf(articleId);
+      if (idx === -1) p.push(articleId);
+      else p.splice(idx, 1);
+      localStorage.setItem('Pins', JSON.stringify(p));
+      setPinned(idx === -1);
+    });
+
+    header.appendChild(pinBtn);
+  }
+
 
   // Infobox
   const linker = await getLinker();

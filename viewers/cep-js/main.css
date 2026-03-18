@@ -797,6 +797,47 @@ sup {
   color: var(--good-link);
 }
 
+.ArticleBody table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .9rem;
+  margin: 1rem 0;
+  border: 1px solid var(--border);
+  border-radius: .5rem;
+  overflow: hidden;
+}
+
+.ArticleBody thead tr {
+  background: var(--primary);
+  color: var(--dark);
+  font-family: var(--font-display);
+  text-align: left;
+}
+
+.ArticleBody th {
+  padding: .5rem .75rem;
+  font-weight: normal;
+  letter-spacing: .02em;
+}
+
+.ArticleBody td {
+  padding: .4rem .75rem;
+  border-top: 1px solid color-mix(in srgb, var(--border) 40%, transparent);
+  vertical-align: top;
+}
+
+.ArticleBody tbody tr:nth-child(odd) {
+  background: color-mix(in srgb, var(--dark) 30%, transparent);
+}
+
+.ArticleBody tbody tr:nth-child(even) {
+  background: color-mix(in srgb, var(--dark) 15%, transparent);
+}
+
+.ArticleBody tbody tr:hover {
+  background: color-mix(in srgb, var(--primary) 15%, transparent);
+}
+
 /* ── Photo ── */
 .PhotoGrid {
   display: flex;
@@ -948,7 +989,12 @@ sup {
 .ArticleHeader {
   border-bottom: 0.25rem solid var(--dark);
   padding-bottom: .25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
 }
+
 
 .ArticleBody a {
   color: var(--good-link);
@@ -1060,7 +1106,12 @@ sup {
   margin-top: 0;
   margin-bottom: 1rem;
   font-size: 1.75rem;
+  flex: 1;
 }
+
+
+
+
 
 .InfoboxThumb {
   width: 100%;
@@ -1237,3 +1288,20 @@ sup a:hover {
 .UserBubbleVisible {
   opacity: 1;
 }
+
+.ArticleTitle { display: flex; align-items: center; gap: .5rem; }
+
+
+.PinButton {
+  font-size: .9rem;
+  padding: .2rem .4rem;
+  border-radius: .4rem;
+  border: 1px solid var(--border);
+  background: var(--background);
+  cursor: pointer;
+  transition: background .15s;
+  flex-shrink: 0;
+}
+.PinButton:hover       { background: color-mix(in srgb, var(--primary) 30%, var(--background)); }
+.PinButtonActive       { background: var(--primary); }
+.PinButtonActive:hover { background: color-mix(in srgb, var(--primary) 80%, var(--background)); }
