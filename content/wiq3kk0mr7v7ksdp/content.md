@@ -25,7 +25,7 @@ On March 27, 2022, Coder "Sal" would reskin a Token Logger Virus into a file nam
 
 ### Source Code Updates
 
-RetroMation's source code would undergo multiple updates to it's Source Code. Starting off as a rip of Rock-Afire Replay 1.24.1. Eventually, it became a rip of an unknown Faz-Anim version, this would happen twice. Unfortunately, the versions of these source codes cannot be verified as they're lost due to the Hard Drive in Galla's computer failing. Eventually, when The 64th Gamer would release Faz-Anim's source code, RetroMation would move to it's first officially released source code. RetroMation would also update alongside Reel to Real, until the cancellation of Reel to Real on December 9th, 2022. This is when RetroMation would settle on its current source code.
+RetroMation's source code would undergo multiple updates to it's Source Code. Starting off as a rip of Rock-Afire Replay 1.24.1. Eventually, it became a rip of an unknown Faz-Anim version, this would happen twice. Unfortunately, the versions of these source codes cannot be verified as they're lost due to the Hard Drive in Galla's computer failing. Eventually, when sudo trans --pony would release Faz-Anim's source code, RetroMation would move to it's first officially released source code. RetroMation would also update alongside Reel to Real, until the cancellation of Reel to Real on December 9th, 2022. This is when RetroMation would settle on its current source code.
 
 ### Development After R2R C&D
 

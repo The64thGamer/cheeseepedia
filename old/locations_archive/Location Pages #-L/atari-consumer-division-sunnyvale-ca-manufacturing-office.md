@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer"]
+contributors = ["sudo trans --pony"]
 citations = ["[http://ftp.pigwa.net/stuff/collections/atari_forever/www/www.atarihistory.de/atari/sunnyvale.htm](%22http://ftp.pigwa.net/stuff/collections/atari_forever/www/www.atarihistory.de/atari/sunnyvale.htm%22)","[https://archive.org/details/atariincbusiness0000gold/page/166/mode/2up?q=%22consumer+division%22](%22https://archive.org/details/atariincbusiness0000gold/page/166/mode/2up?q=%22consumer+division%22%22)"]
 latitudeLongitude = ["37.407720","-122.020280"]
 +++

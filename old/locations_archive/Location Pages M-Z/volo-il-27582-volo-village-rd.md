@@ -6,7 +6,7 @@ categories = ["Creative Engineering"]
 latitudeLongitude = ["42.32761954553941", "-88.17145704502323"]
 startDate = "1960-00-00"
 endDate = ""
-contributors = ["ShowBizMidwest","CoolerDude","The 64th Gamer","CEC1988"]
+contributors = ["ShowBizMidwest","CoolerDude","sudo trans --pony","CEC1988"]
 citations = ["<a href=\"https://www.volocars.com/volofun/history\">https://www.volocars.com/volofun/history</a>"]
 +++
 

@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1982-12-15"
 endDate = "1993-10-00"
-contributors = ["Cheeseclassic","SuperCreamPiper2008","The 64th Gamer","Cy's Junk at School"]
+contributors = ["Cheeseclassic","SuperCreamPiper2008","sudo trans --pony","Cy's Junk at School"]
 citations = []
 latitudeLongitude = ["34.14896422","-118.0728672"]
 +++

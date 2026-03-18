@@ -7,7 +7,7 @@ categories = [""]
 
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer"]
+contributors = ["sudo trans --pony"]
 citations = []
 +++
 

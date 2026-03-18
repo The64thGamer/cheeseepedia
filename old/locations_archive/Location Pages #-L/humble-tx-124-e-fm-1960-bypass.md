@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1999-12-16"
 endDate = ""
-contributors = ["ThatBoiCydalan","The 64th Gamer","Rexburg090","Chucke.show","Chucke","CEC Tinley"]
+contributors = ["ThatBoiCydalan","sudo trans --pony","Rexburg090","Chucke.show","Chucke","CEC Tinley"]
 citations = ["<a href=\"https://www.loopnet.com/Listing/14839229/122-262-FM-1960-Bypass-Humble-TX/\">https://www.loopnet.com/Listing/14839229/122-262-FM-1960-Bypass-Humble-TX/</a>","<a href=\"https://houstonhistoricretail.com/grocery/randalls-food-markets/\">https://houstonhistoricretail.com/grocery/randalls-food-markets/</a>","<a href=\"https://youtu.be/AU6EVxtHqkM\">https://youtu.be/AU6EVxtHqkM</a>"]
 latitudeLongitude = ["30.00157662","-95.26794923"]
 +++

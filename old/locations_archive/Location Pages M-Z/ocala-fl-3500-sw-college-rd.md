@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2005-04-26"
 endDate = ""
-contributors = ["The 64th Gamer","Anonymous","NintendoCraft","Anonymous"]
+contributors = ["sudo trans --pony","Anonymous","NintendoCraft","Anonymous"]
 citations = []
 pageThumbnailFile = "3Irip3nj0MBkWExBaIXv.avif"
 latitudeLongitude = ["29.15219657","-82.18186228"]

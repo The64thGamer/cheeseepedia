@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1979-05-00"
 endDate = "1994-01-00"
-contributors = ["The 64th Gamer","ChuckEPediaIsTheBest!","Rexburg090","SuperCreamPiper2008","CECMentor","Jaxonia","Douggaming","CECMadison","AstridMascotFan2005","CECLover"]
+contributors = ["sudo trans --pony","ChuckEPediaIsTheBest!","Rexburg090","SuperCreamPiper2008","CECMentor","Jaxonia","Douggaming","CECMadison","AstridMascotFan2005","CECLover"]
 citations = ["<a href=\"https://archive.org/details/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1/\">https://archive.org/details/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1/</a>","<a href=\"https://forums.atariage.com/topic/240567-what-was-chuck-e-cheese-like-back-in-the-1980s/\">https://forums.atariage.com/topic/240567-what-was-chuck-e-cheese-like-back-in-the-1980s/</a>","<a href=\"https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-1/page/n3/mode/2up?q=concord\">https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-1/page/n3/mode/2up?q=concord</a>","https://web.archive.org/web/20120913192049/http://claycord.com:80/2012/09/11/claycord-online-museum-the-old-chuck-e-cheese-in-the-willows-shopping-center/","https://www.newspapers.com/clip/98320483/oakland-tribune/"]
 downloadLinks = ["https://archive.org/details/concord-ca-1975-diamond-blvd|Building Plans (May 23rd, 1979)"]
 pageThumbnailFile = "VBl4vyxU9D5KTbOqCZUv.avif"

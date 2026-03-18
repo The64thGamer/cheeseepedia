@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1980-03-00"
 endDate = "1985-00-00"
-contributors = ["CorrectorMan","The 64th Gamer","CEC1988"]
+contributors = ["CorrectorMan","sudo trans --pony","CEC1988"]
 citations = []
 pageThumbnailFile = "MLg3fza51aiP6T6HgTmb.avif"
 latitudeLongitude = ["33.85856937","-117.9626361"]

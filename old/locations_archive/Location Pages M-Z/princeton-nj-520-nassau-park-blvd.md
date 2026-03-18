@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2001-00-00"
 endDate = ""
-contributors = ["The 64th Gamer","Cecnj98","Pasquallytheplumber","Rexburg090","ThatBoiCydalan","Cecanddisneyfan2004","AstridMascotFan2005","Destinationimagination95"]
+contributors = ["sudo trans --pony","Cecnj98","Pasquallytheplumber","Rexburg090","ThatBoiCydalan","Cecanddisneyfan2004","AstridMascotFan2005","Destinationimagination95"]
 citations = ["<a href=\"<a\"> href=\"https://www.youtube.com/channel/UCT51H7zhGxVfuuUvY3lGX4w/community?lb=UgkxkB0DrbCoAiUNCQCGWrqtEIN6iVpqoOb7\"> Chuck E Entertainment's YT Post</a></a>"]
 pageThumbnailFile = "ydDnFlNv4Q063leXjbzM.avif"
 latitudeLongitude = ["40.30479942","-74.68025878"]

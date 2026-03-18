@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 startDate = ""
 endDate = ""
-contributors = ["The 64th Gamer"]
+contributors = ["sudo trans --pony"]
 citations = []
 +++
 TODO:

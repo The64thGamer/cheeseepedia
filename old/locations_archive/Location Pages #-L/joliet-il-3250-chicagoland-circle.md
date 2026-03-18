@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2007-01-29"
 endDate = ""
-contributors = ["Rexburg090","The 64th Gamer","ShowBizMidwest","CoolerDude"]
+contributors = ["Rexburg090","sudo trans --pony","ShowBizMidwest","CoolerDude"]
 citations = []
 pageThumbnailFile = "DVHd3OmneUfRjC2Huaz6.avif"
 latitudeLongitude = ["41.58371117","-88.16523318"]

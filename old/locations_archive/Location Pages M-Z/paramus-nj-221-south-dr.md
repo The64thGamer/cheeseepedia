@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1993-00-00"
 endDate = ""
-contributors = ["Rexburg090","Anonymous","The 64th Gamer","Anonymous","Cecnj98","Anonymous","Tux Chuck"]
+contributors = ["Rexburg090","Anonymous","sudo trans --pony","Anonymous","Cecnj98","Anonymous","Tux Chuck"]
 citations = ["<a href=\"http://wikimapia.org/14661916/Chuck-E-Cheese-s\">http://wikimapia.org/14661916/Chuck-E-Cheese-s</a>"]
 pageThumbnailFile = "mA7dtYhR5R_HSiURnetv.avif"
 latitudeLongitude = ["40.95811392","-74.05659158"]

@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1983-04-24"
 endDate = "2020-04-15"
-contributors = ["Destinationimagination95","Rexburg090","RedaCEC","Anonymous","CEC Tinley","The 64th Gamer","Dakaraimoore1203","NativeNew Yorker","CECMentor","Moonrock"]
+contributors = ["Destinationimagination95","Rexburg090","RedaCEC","Anonymous","CEC Tinley","sudo trans --pony","Dakaraimoore1203","NativeNew Yorker","CECMentor","Moonrock"]
 citations = ["<a href=\"http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-2.pdf\">http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-2.pdf</a>"]
 latitudeLongitude = ["42.54948617","-70.93592168"]
 +++

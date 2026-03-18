@@ -7,7 +7,7 @@ categories = [""]
 
 startDate = "2018-05-24"
 endDate = "2019-2-25"
-contributors = ["GhostReplay","The 64th Gamer","BurgersNuggs445"]
+contributors = ["GhostReplay","sudo trans --pony","BurgersNuggs445"]
 citations = []
 pageThumbnailFile = "hxWIbHrkV_mAaAqYCoC2.avif"
 +++

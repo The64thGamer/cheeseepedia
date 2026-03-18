@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1993-05-27"
 endDate = ""
-contributors = ["The 64th Gamer","Destinationimagination95","Anonymous","Rexburg090","Anonymous","CECCheese","Anonymous","BurgersNuggs445","Anonymous","Anonymous","Anonymous","Cheeseclassic","Slussier1","YBP123","Harchambeault2026"]
+contributors = ["sudo trans --pony","Destinationimagination95","Anonymous","Rexburg090","Anonymous","CECCheese","Anonymous","BurgersNuggs445","Anonymous","Anonymous","Anonymous","Cheeseclassic","Slussier1","YBP123","Harchambeault2026"]
 citations = []
 pageThumbnailFile = "cgNII9GosQSCMi1r_SK6.avif"
 latitudeLongitude = ["42.62095817","-71.31928918"]

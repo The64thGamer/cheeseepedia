@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2012-00-00"
 endDate = ""
-contributors = ["PachCEC","The 64th Gamer"]
+contributors = ["PachCEC","sudo trans --pony"]
 citations = []
 pageThumbnailFile = "RkJXDem2jBNK28GBCfZz.avif"
 +++

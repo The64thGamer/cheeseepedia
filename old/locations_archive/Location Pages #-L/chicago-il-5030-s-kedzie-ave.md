@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1984-00-00"
 endDate = ""
-contributors = ["CECBowlingGreen","ShowBizMidwest","Rexburg090","ChuckECool","CorrectorMan","Anonymous","CEC Illinois","CEC Tinley","CoolerDude","Midwestern Jasper T.","Chuck e cheese repairs","The 64th Gamer"]
+contributors = ["CECBowlingGreen","ShowBizMidwest","Rexburg090","ChuckECool","CorrectorMan","Anonymous","CEC Illinois","CEC Tinley","CoolerDude","Midwestern Jasper T.","Chuck e cheese repairs","sudo trans --pony"]
 citations = []
 pageThumbnailFile = "41Bu2NOK8LWS9HHK38ZX.avif"
 latitudeLongitude = ["41.80120192","-87.70596208"]

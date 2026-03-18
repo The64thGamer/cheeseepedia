@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's","Circus Pizza"]
 startDate = "1999-08-10"
 endDate = "2020-6-25"
-contributors = ["Rileypaulson","The 64th Gamer","CorrectorMan","ThatBoiCydalan"]
+contributors = ["Rileypaulson","sudo trans --pony","CorrectorMan","ThatBoiCydalan"]
 citations = []
 +++
 

@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
-contributors = ["ShowBizMidwest","Rexburg090","The 64th Gamer"]
+contributors = ["ShowBizMidwest","Rexburg090","sudo trans --pony"]
 citations = ["[https://www.newspapers.com/image/184155209/?terms=%22Pizza%20Time%20Theatre%22%20%22a%20request%20to%22%20%20&match=1](%22https://www.newspapers.com/image/184155209/?terms=%22Pizza%20Time%20Theatre%22%20%22a%20request%20to%22%20%20&match=1%22)"]
 latitudeLongitude = ["42.22599917","-88.32610518"]
 +++

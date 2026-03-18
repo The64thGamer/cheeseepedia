@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1984-02-08"
 endDate = "2024-03-18"
-contributors = ["RedaCEC","ChuckECool","Rexburg090","Anonymous","Anonymous","Anonymous","Bombocec","The 64th Gamer","Anonymous","CEC Tinley","CoolerDude","ThatBoiCydalan","AnthonyRWikis7283","Cheeseclassic","PachCEC","Tux Chuck","UltimatelyFun"]
+contributors = ["RedaCEC","ChuckECool","Rexburg090","Anonymous","Anonymous","Anonymous","Bombocec","sudo trans --pony","Anonymous","CEC Tinley","CoolerDude","ThatBoiCydalan","AnthonyRWikis7283","Cheeseclassic","PachCEC","Tux Chuck","UltimatelyFun"]
 citations = ["<a href=\"https://www.valleynewslive.com/2024/03/18/chuck-e-cheese-fargo-permanently-closes-with-little-no-warning/?outputType=amp\">https://www.valleynewslive.com/2024/03/18/chuck-e-cheese-fargo-permanently-closes-with-little-no-warning/?outputType=amp</a>","Testimony from Fargo's General Manager, whom was around to witness the events.","<a href=\"https://www.inforum.com/business/chuck-e-cheese-to-reopen-soon-in-south-fargo\">https://www.inforum.com/business/chuck-e-cheese-to-reopen-soon-in-south-fargo</a>"]
 pageThumbnailFile = "qPJQmPivgG4mvVMcBUrR.avif"
 latitudeLongitude = ["46.86134222","-96.83309748"]

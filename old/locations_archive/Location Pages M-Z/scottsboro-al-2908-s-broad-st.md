@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Creative Engineering"]
 startDate = "1990-00-00"
 endDate = ""
-contributors = ["Totalrockafirenerd","The 64th Gamer","SuperCreamPiper2008"]
+contributors = ["Totalrockafirenerd","sudo trans --pony","SuperCreamPiper2008"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=eTY3GuEOTX4\">https://www.youtube.com/watch?v=eTY3GuEOTX4</a>"]
 pageThumbnailFile = "yPnXQTg52y5eZWexn04A.avif"
 +++

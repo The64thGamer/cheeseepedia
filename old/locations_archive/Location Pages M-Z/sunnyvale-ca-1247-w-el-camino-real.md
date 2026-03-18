@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1980-00-00"
 endDate = "1984-00-00"
-contributors = ["The 64th Gamer","Floorplanmuncher"]
+contributors = ["sudo trans --pony","Floorplanmuncher"]
 citations = ["Translation reveals King at the location. "]
 pageThumbnailFile = "UY3uOWJBIHCnlJUVkAeY.avif"
 latitudeLongitude = ["37.37355267","-122.0587514"]

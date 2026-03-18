@@ -2,7 +2,7 @@
 draft = false
 latitudeLongitude = ["34.57117937", "-87.01859668"]
 title = "Decatur, AL (1801 Beltline Rd)"
-contributors = ["MFHALSTON", "Scofow76", "The 64th Gamer", "Stripes", "AstridMascotFan2005", "Caydenpedia"]
+contributors = ["MFHALSTON", "Scofow76", "sudo trans --pony", "Stripes", "AstridMascotFan2005", "Caydenpedia"]
 endDate = ""
 citations = []
 startDate = "2005-12-26"

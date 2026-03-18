@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1983-02-08"
 endDate = ""
-contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","The 64th Gamer","Stripes","Caydenpedia"]
+contributors = ["ChuckECool","Rexburg090","ThatBoiCydalan","sudo trans --pony","Stripes","Caydenpedia"]
 citations = []
 pageThumbnailFile = "8RbyUZ2ZXjHj9BWmV1w2.avif"
 latitudeLongitude = ["33.18031807","-117.3351457"]

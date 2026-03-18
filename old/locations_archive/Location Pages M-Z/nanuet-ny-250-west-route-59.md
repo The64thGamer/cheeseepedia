@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2003-12-20"
 endDate = ""
-contributors = ["Poochy867","Rexburg090","Cy's Junk at School","CECMentor","ThatBoiCydalan","The 64th Gamer","Moonrock","Livelycheese","Veronancy","AstridMascotFan2005","CoolerDude","CECswag2009","BenTrainFan2000","Caydenpedia","Paskkkk","Stripes","TailsFan628"]
+contributors = ["Poochy867","Rexburg090","Cy's Junk at School","CECMentor","ThatBoiCydalan","sudo trans --pony","Moonrock","Livelycheese","Veronancy","AstridMascotFan2005","CoolerDude","CECswag2009","BenTrainFan2000","Caydenpedia","Paskkkk","Stripes","TailsFan628"]
 citations = ["<a href=\"https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html\">https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html</a>"]
 pageThumbnailFile = "Nhj4z3OFlkgKongHj8SA.avif"
 latitudeLongitude = ["41.10839537","-74.04926263"]

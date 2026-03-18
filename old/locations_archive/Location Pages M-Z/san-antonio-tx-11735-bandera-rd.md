@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2002-04-16"
 endDate = ""
-contributors = ["StudioC","CEC Tinley","Cam.i77","The 64th Gamer","ThatBoiCydalan","Cheeseclassic","Gostapua210","AstridMascotFan2005"]
+contributors = ["StudioC","CEC Tinley","Cam.i77","sudo trans --pony","ThatBoiCydalan","Cheeseclassic","Gostapua210","AstridMascotFan2005"]
 citations = ["Metairie, LA General Manager","<a href=\"https://news4sanantonio.com/news/local/woman-crashes-car-into-chuck-e-cheeses-restaurant\">https://news4sanantonio.com/news/local/woman-crashes-car-into-chuck-e-cheeses-restaurant</a>"]
 pageThumbnailFile = "fqx7onohd6V5jq_EzHwB.avif"
 latitudeLongitude = ["29.54969917","-98.66937583"]

@@ -3,7 +3,7 @@ draft = false
 title = "Corona, CA (191 N McKinley St)"
 startDate = "1992-05-19"
 endDate = "2020-00-00"
-contributors = ["ChuckECool", "Rexburg090", "Anonymous", "CEC Tinley", "The 64th Gamer", "Anonymous", "Chez", "Stripes", "SuperCreamPiper2008", "Caydenpedia", "AstridMascotFan2005", "CECMadison", "Destinationimagination95", "tyhomas"]
+contributors = ["ChuckECool", "Rexburg090", "Anonymous", "CEC Tinley", "sudo trans --pony", "Anonymous", "Chez", "Stripes", "SuperCreamPiper2008", "Caydenpedia", "AstridMascotFan2005", "CECMadison", "Destinationimagination95", "tyhomas"]
 citations = ["<a href=\"{{< ref \"https://www.youtube.com/watch?v=ouB60iqWMuU\" >}}\">Arcade Tour Chuck e Cheeses Corona CA</a>"]
 latitudeLongitude = ["33.88480057", "-117.5168422"]
 tags = ["Locations"]

@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2001-09-26"
 endDate = ""
-contributors = ["The 64th Gamer","AstridMascotFan2005"]
+contributors = ["sudo trans --pony","AstridMascotFan2005"]
 citations = ["<a href=\"https://www.reddit.com/r/chuckecheese/comments/1dhdxvx/the_new_ninja_run_at_grand_prairie_via_david/\">https://www.reddit.com/r/chuckecheese/comments/1dhdxvx/the_new_ninja_run_at_grand_prairie_via_david/</a>"]
 latitudeLongitude = ["32.67235072","-97.15028313"]
 +++

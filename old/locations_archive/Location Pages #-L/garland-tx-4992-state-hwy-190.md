@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2006-00-00"
 endDate = ""
-contributors = ["The 64th Gamer","Anonymous","Anonymous","Thecheesydude"]
+contributors = ["sudo trans --pony","Anonymous","Anonymous","Thecheesydude"]
 citations = ["<a href=\"https://www.youtube.com/watch?v=d1kw1RmzrP\">https://www.youtube.com/watch?v=d1kw1RmzrP</a>"]
 latitudeLongitude = ["32.8302751","-96.7059039"]
 +++

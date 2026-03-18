@@ -7,7 +7,7 @@ categories = ["ShowBiz Pizza Place"]
 
 startDate = "1981-09-10"
 endDate = "1984-01-08"
-contributors = ["Cheeseclassic","The 64th Gamer"]
+contributors = ["Cheeseclassic","sudo trans --pony"]
 citations = ["<a href=\"https://www.newspapers.com/article/the-salina-journal/56832763/\">https://www.newspapers.com/article/the-salina-journal/56832763/</a>","<a href=\"https://www.newspapers.com/article/the-salina-journal/22251464/\">https://www.newspapers.com/article/the-salina-journal/22251464/</a>","<a href=\"https://www.newspapers.com/article/the-salina-journal/56832763/\">https://www.newspapers.com/article/the-salina-journal/56832763/</a>"]
 pageThumbnailFile = "Orywi_6zEEcgsqIZlCf_.avif"
 latitudeLongitude = ["38.79217497","-97.61331148"]

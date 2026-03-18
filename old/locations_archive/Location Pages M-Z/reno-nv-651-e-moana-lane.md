@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-00-00"
 endDate = "1983-00-00"
-contributors = ["The 64th Gamer","Anonymous","BurgersNuggs445","Estsproduction","Destinationimagination95"]
+contributors = ["sudo trans --pony","Anonymous","BurgersNuggs445","Estsproduction","Destinationimagination95"]
 citations = ["<a href=\"https://www.newspapers.com/image/149368772/?terms=%22zapp%27s%22&match=1\">https://www.newspapers.com/image/149368772/?terms=%22zapp%27s%22&match=1</a>"]
 pageThumbnailFile = "00MuNtasmcP53SY4y8uA.avif"
 latitudeLongitude = ["39.49228977","-119.7896316"]

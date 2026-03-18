@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1983-00-00"
 endDate = "2020-04-00"
-contributors = ["The 64th Gamer","Rexburg090","Pench0782","RedaCEC","Anonymous","CEC Tinley","Anonymous","Chuckstar69","CoolerDude","CEC1988"]
+contributors = ["sudo trans --pony","Rexburg090","Pench0782","RedaCEC","Anonymous","CEC Tinley","Anonymous","Chuckstar69","CoolerDude","CEC1988"]
 citations = ["<a href=\"https://edocs.diamondbarca.gov/WebLink/DocView.aspx?id=767452&dbid=0&repo=DiamondBar\">https://edocs.diamondbarca.gov/WebLink/DocView.aspx?id=767452&dbid=0&repo=DiamondBar</a>"]
 downloadLinks = ["https://archive.org/download/ptt-diamond-bar-plans|Building Plans (1982)"]
 pageThumbnailFile = "yqaEWHMzKVWkHWQdSF6g.avif"

@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2000-02-15"
 endDate = ""
-contributors = ["CEC Denver","The 64th Gamer","Himitsu","Rexburg090","Anonymous","CEC Tinley","SuperCreamPiper2008","AstridMascotFan2005"]
+contributors = ["CEC Denver","sudo trans --pony","Himitsu","Rexburg090","Anonymous","CEC Tinley","SuperCreamPiper2008","AstridMascotFan2005"]
 citations = []
 +++
 

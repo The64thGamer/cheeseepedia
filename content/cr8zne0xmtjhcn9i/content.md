@@ -66,7 +66,7 @@ In basic terms, templates (HTML mixed with custom code mixed in) are created and
 | static/lowphotos | Low-res versions of all of the site's photos (`cheeseepedia.org/lowphotos/*.avif`). |
 | static/photos | Original versions of all of the site's photos (`cheeseepedia.org/photos/*.avif`). |
 | themes | A directory containing all of the themes available on compile. The theme can be switched in `config.toml` -- only one theme can be used at a time, and is only switchable on the backend, not to the user. Themes may have their own folders that act the same as the root folders and included in the build. |
-| themes/sixtyth-fortran | The directory containing the current theme, built by [The 64th Gamer] |
+| themes/sixtyth-fortran | The directory containing the current theme, built by [sudo trans --pony] |
 
 ### Parameters
 Each Markdown page in Hugo uses TOML (Tom's Obvious, Minimal Language) for its "front matter" -- this is template content at the top of every page. Parameters are how Hugo parse pages for data, which templates take advantage of to generate lists of pages, link pages to other pages, etc.

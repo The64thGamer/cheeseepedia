@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-08-00"
 endDate = ""
-contributors = ["ChuckECool","Rexburg090","Anonymous","Anonymous","CECCheese","Cheeseclassic","The 64th Gamer","Anonymous","Anonymous","Cy's Junk at School","Harchambeault2026","Cecanddisneyfan2004","CEC1988","Destinationimagination95"]
+contributors = ["ChuckECool","Rexburg090","Anonymous","Anonymous","CECCheese","Cheeseclassic","sudo trans --pony","Anonymous","Anonymous","Cy's Junk at School","Harchambeault2026","Cecanddisneyfan2004","CEC1988","Destinationimagination95"]
 citations = ["<a href=\"http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-3.pdf\">http://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-3.pdf</a>"]
 pageThumbnailFile = "ugJgKDyR75veMSxuNjpj.avif"
 latitudeLongitude = ["42.95254707","-71.43941403"]

@@ -7,7 +7,7 @@ categories = ["Creative Engineering"]
 
 startDate = "0000-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer","RockAfire Alex"]
+contributors = ["sudo trans --pony","RockAfire Alex"]
 citations = []
 latitudeLongitude = ["0","0"]
 +++

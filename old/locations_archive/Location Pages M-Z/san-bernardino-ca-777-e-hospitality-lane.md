@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "2003-06-27"
 endDate = ""
-contributors = ["AnthonyRWikis7283","The 64th Gamer"]
+contributors = ["AnthonyRWikis7283","sudo trans --pony"]
 citations = ["<a href=\"https://abc7.com/san-bernardino-shooting-chuck-e-cheese/5667815/\">https://abc7.com/san-bernardino-shooting-chuck-e-cheese/5667815/</a>"]
 latitudeLongitude = ["34.06511037","-117.2704021"]
 +++

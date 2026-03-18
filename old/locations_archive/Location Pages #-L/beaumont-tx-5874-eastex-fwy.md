@@ -7,7 +7,7 @@ categories = ["Pizza Time Theatre"]
 
 startDate = "1982-00-00"
 endDate = "1985-11-25"
-contributors = ["Blowseborg062","The 64th Gamer"]
+contributors = ["Blowseborg062","sudo trans --pony"]
 citations = ["<a href=\"https://texasarchive.org/2017_00873\">https://texasarchive.org/2017_00873</a>","<a href=\"https://www.newspapers.com/article/the-atlanta-constitution/56536547/\">https://www.newspapers.com/article/the-atlanta-constitution/56536547/</a>"]
 latitudeLongitude = ["30.12565202","-94.15543873"]
 +++

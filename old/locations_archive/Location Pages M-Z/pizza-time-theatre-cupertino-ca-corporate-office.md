@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer"]
+contributors = ["sudo trans --pony"]
 citations = ["[https://www.newspapers.com/image/841084118/?clipping_id=105027559&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg0MTA4NDExOCwiaWF0IjoxNzE2MjQzNzAxLCJleHAiOjE3MTYzMzAxMDF9.NXcjzoA16gpg_ch0zb6cXbi4ypfU_o2h8HaHbvVzeyc](%22https://www.newspapers.com/image/841084118/?clipping_id=105027559&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg0MTA4NDExOCwiaWF0IjoxNzE2MjQzNzAxLCJleHAiOjE3MTYzMzAxMDF9.NXcjzoA16gpg_ch0zb6cXbi4ypfU_o2h8HaHbvVzeyc%22)","[https://uspto.report/TM/73239678](%22https://uspto.report/TM/73239678%22)"]
 latitudeLongitude = ["0","0"]
 +++

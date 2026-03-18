@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
 startDate = "2003-00-00"
 endDate = ""
-contributors = ["Anonymous","The 64th Gamer","ChuckfeldStan","CorrectorMan","CEC New Jersey","Cheeseclassic"]
+contributors = ["Anonymous","sudo trans --pony","ChuckfeldStan","CorrectorMan","CEC New Jersey","Cheeseclassic"]
 citations = []
 latitudeLongitude = ["40.86188922","-73.83458633"]
 +++

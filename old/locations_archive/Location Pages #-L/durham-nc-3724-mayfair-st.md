@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1994-03-07"
 endDate = ""
-contributors = ["RPCEC","Rexburg090","Saan1ty","Anonymous","ChuckECool","ChuckfeldStan","Anonymous","The 64th Gamer","Caydenpedia","Moonrock","Jaxonia"]
+contributors = ["RPCEC","Rexburg090","Saan1ty","Anonymous","ChuckECool","ChuckfeldStan","Anonymous","sudo trans --pony","Caydenpedia","Moonrock","Jaxonia"]
 citations = ["<a href=\"https://taxcama.dconc.gov/camapwa/PropertySummary.aspx?PARCELPK=20584&pageIndex=0\">https://taxcama.dconc.gov/camapwa/PropertySummary.aspx?PARCELPK=20584&pageIndex=0</a>","<a href=\"https://www.youtube.com/watch?v=bgc6abiW2fE\">https://www.youtube.com/watch?v=bgc6abiW2fE</a>","<a href=\"https://www.youtube.com/watch?v=boeES1s8FWE\">https://www.youtube.com/watch?v=boeES1s8FWE</a>","<a href=\"https://www.youtube.com/watch?v=aD6L6fHr49E\">https://www.youtube.com/watch?v=aD6L6fHr49E</a>"]
 latitudeLongitude = ["35.96749237","-78.95366668"]
 +++

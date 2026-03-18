@@ -6,7 +6,7 @@ categories = ["ShowBiz Pizza Place"]
 startDate = "1984-08-30"
 endDate = "2015-08-24"
 cuDate = "1990-11-00"
-contributors = ["Anonymous","ChuckECool","Midwestretail","Rexburg090","Anonymous","Anonymous","CorrectorMan","Anonymous","Anonymous","CEC Tinley","The 64th Gamer","Estsproduction"]
+contributors = ["Anonymous","ChuckECool","Midwestretail","Rexburg090","Anonymous","Anonymous","CorrectorMan","Anonymous","Anonymous","CEC Tinley","sudo trans --pony","Estsproduction"]
 citations = []
 pageThumbnailFile = "Tm8f9Ac6s0mH8NM65ZW5.avif"
 +++

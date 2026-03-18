@@ -5,7 +5,7 @@ tags = ["Locations"]
 categories = ["Pizza Time Theatre"]
 startDate = "0000-00-00"
 endDate = "0000-00-00"
-contributors = ["The 64th Gamer"]
+contributors = ["sudo trans --pony"]
 citations = ["[https://www.newspapers.com/image/745993257/?match=1&clipping_id=141075723](%22https://www.newspapers.com/image/745993257/?match=1&clipping_id=141075723%22)","PTT Harold Goldbrandsen Business Card (Ver. B)"]
 pageThumbnailFile = "Z1008i7FiATxv7VdQhJn.avif"
 latitudeLongitude = ["0","0"]
