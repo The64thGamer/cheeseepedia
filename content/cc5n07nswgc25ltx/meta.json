@@ -6,9 +6,22 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1981-12-16|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|2000-00-00|One of 6 3-Stages in Georgia to receive Concept Unification. One of many 3-Stages replaced with a Studio C Alpha.|",
-    "Studio C Alpha|0000-00-00|2015-04-05|"
+    {
+      "n": "Classic Stage",
+      "s": "1981-12-16",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 6 3-Stages in Georgia to receive Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "2015-04-05"
+    }
   ],
   "franchisees": [],
   "attractions": [],

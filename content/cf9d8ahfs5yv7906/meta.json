@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Balcony Stage|1985-11-00|0000-00-00|",
-    "2-Stage|1993-00-00|1995-00-00|Only 2-Stage in Alberta.|"
+    {
+      "n": "Balcony Stage",
+      "s": "1985-11-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "1995-00-00",
+      "desc": "Only 2-Stage in Alberta."
+    }
   ],
   "franchisees": [],
   "attractions": [],

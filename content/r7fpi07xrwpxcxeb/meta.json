@@ -32,21 +32,69 @@
   "sqft": "14,920",
   "attractions": [],
   "animatronics": [
-    "Chuck E. Cheese 32m (Animatronic)|2000-09-26|2018-08-00|Unknown|Unknown",
-    "Bird (Animatronic)|2000-09-26|2018-08-00|Unknown|Unknown",
-    "Pizza Phone (Animatronic)|2000-09-26|2018-08-00|Unknown|Unknown",
-    "Pizza Time Clock (Animatronic)|2000-09-26|2018-08-00|N/A|Unknown"
+    {
+      "n": "Chuck E. Cheese 32m (Animatronic)",
+      "s": "2000-09-26",
+      "e": "2018-08-00",
+      "l": "Unknown",
+      "st": "Unknown"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "2000-09-26",
+      "e": "2018-08-00",
+      "l": "Unknown",
+      "st": "Unknown"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "2000-09-26",
+      "e": "2018-08-00",
+      "l": "Unknown",
+      "st": "Unknown"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "2000-09-26",
+      "e": "2018-08-00",
+      "l": "N/A",
+      "st": "Unknown"
+    }
   ],
   "franchisees": [],
   "remodels": [
-    "SPT 1990's Remodel Program|2000-09-26",
-    "CEC 2.0 Remodel Program|2018-07-00"
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2000-09-26"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2018-07-00"
+    }
   ],
   "stages": [
-    "Studio C Alpha|2000-09-26|2018-08-00",
-    "Chuck E. Live Stage (Dance Floor)|2018-12-00|2023-08-00|2017 Model|",
-    "Video Wall|2023-08-00|2025-09-07",
-    "Chuck E. Live Stage (Dance Floor)|2018-12-00|2025-09-07|2017 Model|"
+    {
+      "n": "Studio C Alpha",
+      "s": "2000-09-26",
+      "e": "2018-08-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2018-12-00",
+      "e": "2023-08-00",
+      "desc": "2017 Model"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2023-08-00",
+      "e": "2025-09-07"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2018-12-00",
+      "e": "2025-09-07",
+      "desc": "2017 Model"
+    }
   ],
   "downloadLinks": [],
   "latitudeLongitude": [

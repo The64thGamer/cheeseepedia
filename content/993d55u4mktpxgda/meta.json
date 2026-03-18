@@ -20,20 +20,59 @@
   "sqft": "",
   "attractions": [],
   "animatronics": [
-    "(Chuck E. Cheese 32m (Animatronic)|1999-03-29|2015-01-00|unknown|moved to Chandler, AZ)",
-    "Bird (Animatronic)|1999-03-29|2015-01-00|unknown|unknown",
-    "Pizza Time Clock (Animatronic)|1999-03-29|2015-01-00|unknown|unknown",
-    "Pizza Phone (Animatronic)|1999-03-29|2015-01-00|unknown|unknown"
+    {
+      "n": "(Chuck E. Cheese 32m (Animatronic)",
+      "s": "1999-03-29",
+      "e": "2015-01-00",
+      "l": "unknown",
+      "st": "moved to Chandler, AZ)"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "1999-03-29",
+      "e": "2015-01-00",
+      "l": "unknown",
+      "st": "unknown"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "1999-03-29",
+      "e": "2015-01-00",
+      "l": "unknown",
+      "st": "unknown"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "1999-03-29",
+      "e": "2015-01-00",
+      "l": "unknown",
+      "st": "unknown"
+    }
   ],
   "franchisees": [
-    "Unknown Tucson franchisee|1999-01-00|0000-00-00",
-    "Melvin Entertainment|2006-00-00|0000-00-00"
+    {
+      "n": "Unknown Tucson franchisee",
+      "s": "1999-01-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Melvin Entertainment",
+      "s": "2006-00-00",
+      "e": "0000-00-00"
+    }
   ],
   "remodels": [
-    "CEC 2000's Remodel Program|2006/07-00-00"
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2006/07-00-00"
+    }
   ],
   "stages": [
-    "Studio C Alpha (1997)|1999-03-29|2015-01-00"
+    {
+      "n": "Studio C Alpha (1997)",
+      "s": "1999-03-29",
+      "e": "2015-01-00"
+    }
   ],
   "downloadLinks": [],
   "latitudeLongitude": [

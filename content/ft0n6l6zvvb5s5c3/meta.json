@@ -11,7 +11,10 @@
     "sudo trans --pony"
   ],
   "downloadLinks": [
-    "https://archive.org/details/cyberstar-password-software-dos|Software (DOS)"
+    {
+      "url": "https://archive.org/details/cyberstar-password-software-dos",
+      "label": "Software (DOS)"
+    }
   ],
   "citations": [
     "https://archive.org/details/cyberstar-password-software-dos"

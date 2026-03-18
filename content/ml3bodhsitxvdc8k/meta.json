@@ -20,7 +20,10 @@
   ],
   "mediaDuration": "51:45",
   "downloadLinks": [
-    "https://archive.org/download/3stage_post_93_svhs_signals/January%201998%203-Stage.iso|Post '93 3-Stage SVHS w/ Signals"
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/January%201998%203-Stage.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Studio C Alpha|2000-11-20|2015-09-20|"
+    {
+      "n": "Studio C Alpha",
+      "s": "2000-11-20",
+      "e": "2015-09-20"
+    }
   ],
   "franchisees": [],
   "attractions": [],

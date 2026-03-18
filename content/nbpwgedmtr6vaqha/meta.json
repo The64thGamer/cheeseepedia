@@ -35,8 +35,14 @@
     "R12 SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/3stage_dvd_signals/April%202007%203-stage-006.iso|3-Stage DVD ISO w/ Signals",
-    "https://archive.org/download/studio_c_showtape_dvds/April%202007%20Studio%20C.iso|Studio C DVD ISO"
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/April%202007%203-stage-006.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/April%202007%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    }
   ],
   "alsoKnownAs": [
     "Studio C Valid April 1st - June 30th, 2007"

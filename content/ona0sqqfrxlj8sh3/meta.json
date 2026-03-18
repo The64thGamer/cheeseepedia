@@ -6,8 +6,16 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1982-10-26|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|2002-00-00|"
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2002-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

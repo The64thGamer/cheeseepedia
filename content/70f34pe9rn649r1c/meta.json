@@ -20,7 +20,10 @@
     "https://youtu.be/ig3EDNNI5Uw"
   ],
   "downloadLinks": [
-    "https://archive.org/details/2002-cyberamic-cec-updgrade-patch|2002 CEC Upgrade Patch"
+    {
+      "url": "https://archive.org/details/2002-cyberamic-cec-updgrade-patch",
+      "label": "2002 CEC Upgrade Patch"
+    }
   ],
   "pageThumbnailFile": "ZJrhchMTRJEph1FvvR8n.avif"
 }

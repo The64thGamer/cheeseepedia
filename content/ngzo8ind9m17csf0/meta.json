@@ -6,8 +6,16 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Chuck E.'s House|1988-08-18|0000-00-00|",
-    "Road Stage|1994-00-00|2003-00-00|"
+    {
+      "n": "Chuck E.'s House",
+      "s": "1988-08-18",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Road Stage",
+      "s": "1994-00-00",
+      "e": "2003-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

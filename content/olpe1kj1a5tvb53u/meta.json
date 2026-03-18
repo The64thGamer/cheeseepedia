@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Circles of Light|2014-08-05|2024-11-17|"
+    {
+      "n": "Circles of Light",
+      "s": "2014-08-05",
+      "e": "2024-11-17"
+    }
   ],
   "franchisees": [],
   "attractions": [],

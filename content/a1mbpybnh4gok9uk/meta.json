@@ -6,10 +6,25 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1982-10-20|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|0000-00-00|",
-    "Studio C Beta|0000-00-00|0000-00-00|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00||"
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-20",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

@@ -6,8 +6,15 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "1-Stage|1997-11-11|2024-04-28|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00||"
+    {
+      "n": "1-Stage",
+      "s": "1997-11-11",
+      "e": "2024-04-28"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

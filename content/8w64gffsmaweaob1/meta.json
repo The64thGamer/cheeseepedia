@@ -30,8 +30,14 @@
     "R12 SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/studio-c-floppy-discs-rips/CECTVApril2005Show.img|Studio C Floppy Disk",
-    "https://archive.org/download/studio_c_showtape_dvds/April%202005%20Studio%20C-007.iso|Studio C DVD ISO"
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/CECTVApril2005Show.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/April%202005%20Studio%20C-007.iso",
+      "label": "Studio C DVD ISO"
+    }
   ],
   "type": "Showtapes",
   "tags": [

@@ -20,7 +20,10 @@
   ],
   "citations": [],
   "downloadLinks": [
-    "https://archive.org/compress/studio-c-interactive-console-1999/formats|1999 Interactive Console Software"
+    {
+      "url": "https://archive.org/compress/studio-c-interactive-console-1999/formats",
+      "label": "1999 Interactive Console Software"
+    }
   ],
   "pageThumbnailFile": "bwdazayQr8n3Zfl9ShR3.avif"
 }

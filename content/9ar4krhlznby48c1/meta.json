@@ -16,7 +16,10 @@
     "https://www.youtube.com/watch?v=OuK-x3H_mJI"
   ],
   "downloadLinks": [
-    "https://archive.org/details/Rock-Afire-Explosion-Simulator-Kickstarter-Demo|Software Demo"
+    {
+      "url": "https://archive.org/details/Rock-Afire-Explosion-Simulator-Kickstarter-Demo",
+      "label": "Software Demo"
+    }
   ],
   "pageThumbnailFile": "cscn3MDzzxLfleDueQBS.avif"
 }

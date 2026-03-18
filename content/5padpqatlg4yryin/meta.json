@@ -6,8 +6,16 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "2-Stage|1992-07-00|2023-10-00|Last 2-Stage in the state. Replaced by Dance Floor + Video Wall.|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00||"
+    {
+      "n": "2-Stage",
+      "s": "1992-07-00",
+      "e": "2023-10-00",
+      "desc": "Last 2-Stage in the state. Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

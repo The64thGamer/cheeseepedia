@@ -11,7 +11,10 @@
   ],
   "pageThumbnailFile": "1979-Kooser-Oink.avif",
   "downloadLinks": [
-    "https://archive.org/details/cyberamic/Audio+08.wav|Pizza Time (Birthday 8-TR) (November 13, 1978)"
+    {
+      "url": "https://archive.org/details/cyberamic/Audio+08.wav",
+      "label": "Pizza Time (Birthday 8-TR) (November 13, 1978)"
+    }
   ],
   "citations": [
     "https://archive.org/details/cyberamic/Audio+08.wav",

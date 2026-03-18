@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Concept Unification Stage|1991-12-17|2007-05-00|One of 10 3-Stages in California to undergo Concept Unification. 3-Stage converted from a stage that came from Creative Engineering. First 3-Stage installed in a new Chuck E. Cheese's location.|",
-    "Studio C Beta|0000-00-00|2020-11-17|"
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-12-17",
+      "e": "2007-05-00",
+      "desc": "One of 10 3-Stages in California to undergo Concept Unification. 3-Stage converted from a stage that came from Creative Engineering. First 3-Stage installed in a new Chuck E. Cheese's location."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "2020-11-17"
+    }
   ],
   "franchisees": [],
   "attractions": [],

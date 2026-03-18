@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Chuck E.'s House|1988-02-24|1994-07-16|"
+    {
+      "n": "Chuck E.'s House",
+      "s": "1988-02-24",
+      "e": "1994-07-16"
+    }
   ],
   "franchisees": [],
   "attractions": [],

@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Balcony Stage|1982-08-09|1984-11-18|"
+    {
+      "n": "Balcony Stage",
+      "s": "1982-08-09",
+      "e": "1984-11-18"
+    }
   ],
   "franchisees": [],
   "attractions": [],

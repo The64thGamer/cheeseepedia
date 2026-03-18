@@ -6,18 +6,58 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "1-Stage|1993-09-25|2022-08-23|",
-    "Chuck E. Live Stage (Dance Floor)|2022-08-00||2021 Model|"
+    {
+      "n": "1-Stage",
+      "s": "1993-09-25",
+      "e": "2022-08-23"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-08-00",
+      "desc": "2021 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [
-    "Jambo! Safari|0000-00-00|0000-00-00|Seen in a photograph from around the late 1990s or 2000s.",
-    "Frogger (ICE)|0000-00-00|0000-00-00",
-    "Black Hole (Coastal Amusements)|0000-00-00|0000-00-00|Seen in a photograph from October 2022.",
-    "Crossy Road Arcade|0000-00-00|0000-00-00|Seen in a photograph from October 2022.",
-    "Rockin & Rollin|0000-00-00|0000-00-00|Seen in a photograph from October 2022.",
-    "Super Monkey Ball: Ticket Blitz|0000-00-00|0000-00-00|Seen in a photograph from October 2022.",
-    "Super Fun by Chuck E. Cheese|2025-00-00||"
+    {
+      "n": "Jambo! Safari",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from around the late 1990s or 2000s."
+    },
+    {
+      "n": "Frogger (ICE)",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Black Hole (Coastal Amusements)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from October 2022."
+    },
+    {
+      "n": "Crossy Road Arcade",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from October 2022."
+    },
+    {
+      "n": "Rockin & Rollin",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from October 2022."
+    },
+    {
+      "n": "Super Monkey Ball: Ticket Blitz",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from October 2022."
+    },
+    {
+      "n": "Super Fun by Chuck E. Cheese",
+      "s": "2025-00-00"
+    }
   ],
   "sqft": "",
   "latitudeLongitude": [

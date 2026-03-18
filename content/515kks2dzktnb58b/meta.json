@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-00-00|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|2005-01-00|One of 7 3-Stages in Florida to undergo Concept Unification.|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2005-01-00",
+      "desc": "One of 7 3-Stages in Florida to undergo Concept Unification."
+    }
   ],
   "franchisees": [],
   "attractions": [],

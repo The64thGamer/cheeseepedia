@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-07-01|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|1998-00-00|One of six 3-Stages in Missouri to undergo Concept Unification.|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-07-01",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "1998-00-00",
+      "desc": "One of six 3-Stages in Missouri to undergo Concept Unification."
+    }
   ],
   "franchisees": [],
   "attractions": [],

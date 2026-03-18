@@ -6,10 +6,25 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-05-03|0000-00-00|",
-    "Concept Unification Stage|1991-00-00||One of 8 3-Stages in Tennessee to get Concept Unification. One of many 3-Stages replaced with a Studio C Beta.|",
-    "Studio C Beta|0000-00-00|0000-00-00|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00||"
+    {
+      "n": "Classic Stage",
+      "s": "1983-05-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "desc": "One of 8 3-Stages in Tennessee to get Concept Unification. One of many 3-Stages replaced with a Studio C Beta."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

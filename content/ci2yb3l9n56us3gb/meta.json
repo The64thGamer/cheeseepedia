@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1985-10-00|0000-00-00|",
-    "Concept Unification Stage|1991-00-00|1995-11-00|One of 3 3-Stages in Kentucky to undergo Concept Unification.|"
+    {
+      "n": "Classic Stage",
+      "s": "1985-10-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "1995-11-00",
+      "desc": "One of 3 3-Stages in Kentucky to undergo Concept Unification."
+    }
   ],
   "franchisees": [],
   "attractions": [],

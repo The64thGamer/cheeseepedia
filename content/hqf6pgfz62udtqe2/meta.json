@@ -16,7 +16,10 @@
   "sqft": "",
   "franchisees": [],
   "remodels": [
-    "2025 Chuck's Arcade Remodel|2025-07-00"
+    {
+      "n": "2025 Chuck's Arcade Remodel",
+      "s": "2025-07-00"
+    }
   ],
   "downloadLinks": [],
   "latitudeLongitude": [

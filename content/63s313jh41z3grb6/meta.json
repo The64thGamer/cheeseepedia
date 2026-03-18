@@ -22,7 +22,10 @@
     "3-Stage SVHS (Pre-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img|Studio C Floppy Disk (Ver. 1.03)"
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img",
+      "label": "Studio C Floppy Disk (Ver. 1.03)"
+    }
   ],
   "type": "Showtapes",
   "tags": [

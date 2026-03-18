@@ -6,8 +6,16 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Galaxy Stage|2011-04-26|0000-00-00|",
-    "Chuck E. Live Stage (Dance Floor)|2023-04-10||2021 Model|"
+    {
+      "n": "Galaxy Stage",
+      "s": "2011-04-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-04-10",
+      "desc": "2021 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Portrait / Shelf Stage|1980-10-28|1986-00-00|"
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1980-10-28",
+      "e": "1986-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

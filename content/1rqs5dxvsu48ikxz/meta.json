@@ -26,7 +26,10 @@
     "Cyberamics DVD"
   ],
   "downloadLinks": [
-    "https://archive.org/download/cyberamics_post_93_dvd_signals/December%202008%20CEC-stage-003.iso|CEC-Stage DVD ISO w/ Signals"
+    {
+      "url": "https://archive.org/download/cyberamics_post_93_dvd_signals/December%202008%20CEC-stage-003.iso",
+      "label": "CEC-Stage DVD ISO w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

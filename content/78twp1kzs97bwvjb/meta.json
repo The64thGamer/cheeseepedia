@@ -14,7 +14,10 @@
     "https://youtu.be/2OHgZnUj0kU"
   ],
   "downloadLinks": [
-    "https://archive.org/download/helenhenny/IMG_7823.mp4|Audio Rip 'Escapade' by Helen Henny"
+    {
+      "url": "https://archive.org/download/helenhenny/IMG_7823.mp4",
+      "label": "Audio Rip 'Escapade' by Helen Henny"
+    }
   ],
   "pageThumbnailFile": "0vT3q3zOwSil3y145xNi.avif"
 }

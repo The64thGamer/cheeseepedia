@@ -13,7 +13,10 @@
     "3-Stage SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/3stage_post_93_svhs_signals/December%201993%203-stage-006.iso|Post '93 3-Stage SVHS w/ Signals"
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/December%201993%203-stage-006.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

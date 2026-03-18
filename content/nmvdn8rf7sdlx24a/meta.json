@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-00-00|0000-00-00|",
-    "Concept Unification Stage|1991-03-00|1998-00-00|Only 3-Stage in West Virginia to undergo Concept Unification. Animatronics went to storage at Barboursville, WV (5 Cracker Barrel Dr) in Barboursville, WV for spare parts sometime after the CEC store closure.|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-03-00",
+      "e": "1998-00-00",
+      "desc": "Only 3-Stage in West Virginia to undergo Concept Unification. Animatronics went to storage at Barboursville, WV (5 Cracker Barrel Dr) in Barboursville, WV for spare parts sometime after the CEC store closure."
+    }
   ],
   "franchisees": [],
   "attractions": [],

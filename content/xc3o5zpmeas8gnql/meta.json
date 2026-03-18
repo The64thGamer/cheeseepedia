@@ -34,8 +34,14 @@
     "3-Stage SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/cyberamics_post_93_svhs_signals/January%201999%20CEC-Stage-005.iso|CEC-Stage SVHS w/ Signals",
-    "https://archive.org/download/3stage_post_93_svhs_signals/January%201999%203-Stage-005.iso|Post '93 3-Stage SVHS w/ Signals"
+    {
+      "url": "https://archive.org/download/cyberamics_post_93_svhs_signals/January%201999%20CEC-Stage-005.iso",
+      "label": "CEC-Stage SVHS w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/January%201999%203-Stage-005.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

@@ -30,8 +30,14 @@
   ],
   "pageThumbnailFile": "4q2oQSqEHCxQT6bXvwVp.avif",
   "downloadLinks": [
-    "https://archive.org/download/bigcheese/Stereo.wav|Big Cheese Birthday Show 2-Track Audio",
-    "https://archive.org/details/winchester-crusty-cds#review-1717546212|Winchester Crusty CDs"
+    {
+      "url": "https://archive.org/download/bigcheese/Stereo.wav",
+      "label": "Big Cheese Birthday Show 2-Track Audio"
+    },
+    {
+      "url": "https://archive.org/details/winchester-crusty-cds#review-1717546212",
+      "label": "Winchester Crusty CDs"
+    }
   ],
   "credits": [
     "John Widelock|Voice of Chuck E. Cheese, Jasper T. Jowls (Demo), Pasqually the Chef (Demo), Crusty the Cat (Demo)",

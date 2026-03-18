@@ -21,7 +21,10 @@
   ],
   "mediaDuration": "57:23",
   "downloadLinks": [
-    "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.wav|Full Showtape Rip (No Signals)"
+    {
+      "url": "https://archive.org/download/rae-uncle-santa-1984-showtape-rips-2025/Santa%20Rip%20Stereo%20Dbx.wav",
+      "label": "Full Showtape Rip (No Signals)"
+    }
   ],
   "segments": [
     {

@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "1-Stage|1992-11-24|2022-11-00|Mini Unit 1-Stage|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00|2024-10-06|"
+    {
+      "n": "1-Stage",
+      "s": "1992-11-24",
+      "e": "2022-11-00",
+      "desc": "Mini Unit 1-Stage"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00",
+      "e": "2024-10-06"
+    }
   ],
   "franchisees": [],
   "attractions": [],

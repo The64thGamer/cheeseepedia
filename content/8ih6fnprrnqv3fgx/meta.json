@@ -5,17 +5,42 @@
   "endDate": "2020-06-25",
   "cuDate": "",
   "remodels": [
-    "PTT Standard Layout|1978-12-02",
-    "PTT Early Cyberamic Replacements|1983-00-00"
+    {
+      "n": "PTT Standard Layout",
+      "s": "1978-12-02"
+    },
+    {
+      "n": "PTT Early Cyberamic Replacements",
+      "s": "1983-00-00"
+    }
   ],
   "stages": [
-    "Kooser PTT Show|1978-12-02|1980-04-00|2-Wall",
-    "Balcony Stage|1980-04-00|0000-00-00",
-    "2-Stage|1993-00-00|2020-06-00|One of many installed in California. Second CEC to ever open.|"
+    {
+      "n": "Kooser PTT Show",
+      "s": "1978-12-02",
+      "e": "1980-04-00",
+      "desc": "2-Wall"
+    },
+    {
+      "n": "Balcony Stage",
+      "s": "1980-04-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2020-06-00",
+      "desc": "One of many installed in California. Second CEC to ever open."
+    }
   ],
   "franchisees": [],
   "attractions": [
-    "Cheese Crawl|1978-12-02|0000-00-00|Non-Standard"
+    {
+      "n": "Cheese Crawl",
+      "s": "1978-12-02",
+      "e": "0000-00-00",
+      "desc": "Non-Standard"
+    }
   ],
   "sqft": "19,000",
   "latitudeLongitude": [
@@ -40,8 +65,14 @@
     "sudo trans --pony"
   ],
   "downloadLinks": [
-    "https://archive.org/download/pizza-time-theatre-kooser-plans|Building Plans & Permits (1961-1996)",
-    "https://archive.org/details/huntington-beach-kooser-rd-building-plans/Administrative_Reviews_ARX1979029_-_Supporting_Documents-2.pdf|Kooser Road Fact Sheet (December 4th, 1978)"
+    {
+      "url": "https://archive.org/download/pizza-time-theatre-kooser-plans",
+      "label": "Building Plans & Permits (1961-1996)"
+    },
+    {
+      "url": "https://archive.org/details/huntington-beach-kooser-rd-building-plans/Administrative_Reviews_ARX1979029_-_Supporting_Documents-2.pdf",
+      "label": "Kooser Road Fact Sheet (December 4th, 1978)"
+    }
   ],
   "pageThumbnailFile": "EFEMrtsXt5C6i62q1coh.avif",
   "type": "Locations",

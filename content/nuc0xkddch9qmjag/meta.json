@@ -30,8 +30,14 @@
   ],
   "mediaDuration": "1:08:33",
   "downloadLinks": [
-    "https://archive.org/download/cyberamics_post_93_svhs_signals/September%201994%20C-Stage-004.iso|C&R SVHS w/ Signals",
-    "https://archive.org/download/3stage_post_93_svhs_signals/September%201994%203-Stage-014.iso|Post '93 3-Stage SVHS w/ Signals"
+    {
+      "url": "https://archive.org/download/cyberamics_post_93_svhs_signals/September%201994%20C-Stage-004.iso",
+      "label": "C&R SVHS w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/September%201994%203-Stage-014.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

@@ -5,23 +5,84 @@
   "endDate": "1983-10-04",
   "cuDate": "",
   "remodels": [
-    "PTT Standard Layout|1982-07-00"
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-07-00"
+    }
   ],
   "stages": [
-    "Balcony Stage|1982-07-00|1983-10-04"
+    {
+      "n": "Balcony Stage",
+      "s": "1982-07-00",
+      "e": "1983-10-04"
+    }
   ],
   "franchisees": [],
   "attractions": [],
   "animatronics": [
-    "Chuck E. Cheese (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown",
-    "Warblettes (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown",
-    "Guest Star / Helen Henny (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown",
-    "Mr. Munch (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown",
-    "Pasqually (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown",
-    "Jasper T. Jowls (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown",
-    "Applause Board (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown",
-    "Drum Board (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown",
-    "Flag Wavers (Cyberamic)|1982-07-00|1983-10-04|N/A|Unknown"
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "st": "Unknown"
+    }
   ],
   "sqft": "",
   "latitudeLongitude": [

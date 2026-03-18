@@ -17,48 +17,190 @@
   "franchisees": [],
   "storeNumber": "734",
   "downloadLinks": [
-    "https://archive.org/download/95-8431-bz-plans/Antoine1998CEC.pdf|Building Plans"
+    {
+      "url": "https://archive.org/download/95-8431-bz-plans/Antoine1998CEC.pdf",
+      "label": "Building Plans"
+    }
   ],
   "latitudeLongitude": [
     "29.8623186,",
     "-95.4707919,244"
   ],
   "remodels": [
-    "SPT 1980's Remodel Program|0000-00-00",
-    "SPT 1990's Remodel Program|1998-08-23"
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1998-08-23"
+    }
   ],
   "stages": [
-    "Classic Stage|1981-07-15|1991-00-00|",
-    "Concept Unification Stage|1991-00-00|2006-09-00|"
+    {
+      "n": "Classic Stage",
+      "s": "1981-07-15",
+      "e": "1991-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2006-09-00"
+    }
   ],
   "animatronics": [
-    "Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-07-15|2006-09-00|1-81 1-5|Owned by Sully G",
-    "Dook Larue (Animatronic)|1981-07-15|2006-09-00|1-81 2-5|Owned by ItzaRob",
-    "Fatz Geronimo (Animatronic)|1981-07-15|2006-09-00|1-81 3-5|Owned by a Private Collector",
-    "Beach Bear (Animatronic)|1981-07-15|2006-09-00|1-81 4-5|Sent to the location on 5535 Weslayan St, now destroyed",
-    "Mitzi Mozzarella (Animatronic)|1981-07-15|2006-09-00|1-81 5-5|Owned by a Private Collector",
-    "Billy Bob (Animatronic)|1981-07-15|1991-00-00|1-81 6-5|Unknown",
-    "Looney Bird (Animatronic)|1981-07-15|0000-00-00|1-81 7-5|Unknown",
-    "Choo Choo (Animatronic)|1981-07-15|0000-00-00|1-81 8-5|Unknown",
-    "Sun (Animatronic)|1981-07-15|2006-09-00|1-81 10-5|Unknown",
-    "Moon (Animatronic)|1981-07-15|2006-09-00|1-81 11-5|Unknown",
-    "Antioch (Animatronic)|1981-07-15|1991-00-00|Unknown|Unknown",
-    "Wink|1991-00-00|2006-09-00|Unknown|Unknown"
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "1981-07-15",
+      "e": "2006-09-00",
+      "l": "1-81 1-5",
+      "st": "Owned by Sully G"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "1981-07-15",
+      "e": "2006-09-00",
+      "l": "1-81 2-5",
+      "st": "Owned by ItzaRob"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "1981-07-15",
+      "e": "2006-09-00",
+      "l": "1-81 3-5",
+      "st": "Owned by a Private Collector"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "1981-07-15",
+      "e": "2006-09-00",
+      "l": "1-81 4-5",
+      "st": "Sent to the location on 5535 Weslayan St, now destroyed"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "1981-07-15",
+      "e": "2006-09-00",
+      "l": "1-81 5-5",
+      "st": "Owned by a Private Collector"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "1981-07-15",
+      "e": "1991-00-00",
+      "l": "1-81 6-5",
+      "st": "Unknown"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "1981-07-15",
+      "e": "0000-00-00",
+      "l": "1-81 7-5",
+      "st": "Unknown"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "1981-07-15",
+      "e": "0000-00-00",
+      "l": "1-81 8-5",
+      "st": "Unknown"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "1981-07-15",
+      "e": "2006-09-00",
+      "l": "1-81 10-5",
+      "st": "Unknown"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "1981-07-15",
+      "e": "2006-09-00",
+      "l": "1-81 11-5",
+      "st": "Unknown"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "1981-07-15",
+      "e": "1991-00-00",
+      "l": "Unknown",
+      "st": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "1991-00-00",
+      "e": "2006-09-00",
+      "l": "Unknown",
+      "st": "Unknown"
+    }
   ],
   "attractions": [
-    "Aftershock|0000-00-00|2006-09-00|",
-    "Double Cheese|0000-00-00|2006-09-00|",
-    "Chuck E. Cheese's Grand Slam|0000-00-00|2006-09-00|",
-    "Total Eclipse|0000-00-00|2006-09-00|",
-    "Buzzy Buzzy Bee|0000-00-00|2006-09-00|",
-    "Arctic Thunder|0000-00-00|2006-09-00|",
-    "Cyclone|0000-00-00|2006-09-00|",
-    "Coin Circus|0000-00-00|2006-09-00|",
-    "Bob The Builder|0000-00-00|2006-09-00|",
-    "Tower of Power|0000-00-00|2006-09-00|",
-    "Barrel of Fun|0000-00-00|2006-09-00|",
-    "Chuck E. Cheese's Kooky Konga|0000-00-00|2006-09-00|",
-    "Chuck E. Cheese Roll|0000-00-00|2006-09-00|6 Units"
+    {
+      "n": "Aftershock",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Double Cheese",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Grand Slam",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Total Eclipse",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Buzzy Buzzy Bee",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Arctic Thunder",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Cyclone",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Coin Circus",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Bob The Builder",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Tower of Power",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Barrel of Fun",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Kooky Konga",
+      "s": "0000-00-00",
+      "e": "2006-09-00"
+    },
+    {
+      "n": "Chuck E. Cheese Roll",
+      "s": "0000-00-00",
+      "e": "2006-09-00",
+      "desc": "6 Units"
+    }
   ],
   "citations": [
     "https://www.reddit.com/r/chuckecheese/comments/1ltt13b/found_an_advertisement_for_the_houston_tx_antoine/",

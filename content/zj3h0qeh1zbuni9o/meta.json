@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-08-18|0000-00-00|",
-    "Concept Unification Stage|1991-00-00|1993-00-00|One of 2 3-Stages in Kansas to undergo Concept Unification. Shortest lived 3-Stage.|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-08-18",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "1993-00-00",
+      "desc": "One of 2 3-Stages in Kansas to undergo Concept Unification. Shortest lived 3-Stage."
+    }
   ],
   "franchisees": [],
   "attractions": [],

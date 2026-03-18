@@ -6,8 +6,18 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "2-Stage|1992-12-00|2010-00-00|Converted to a 1-Stage.|",
-    "1-Stage|2010-00-00|2018-04-15|1-Stage w/ 2-Stage props|"
+    {
+      "n": "2-Stage",
+      "s": "1992-12-00",
+      "e": "2010-00-00",
+      "desc": "Converted to a 1-Stage."
+    },
+    {
+      "n": "1-Stage",
+      "s": "2010-00-00",
+      "e": "2018-04-15",
+      "desc": "1-Stage w/ 2-Stage props"
+    }
   ],
   "franchisees": [],
   "attractions": [],

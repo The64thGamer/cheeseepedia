@@ -33,9 +33,18 @@
     "R12 SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/studio-c-floppy-discs-rips/April2006.img|Studio C Floppy Disk",
-    "https://archive.org/download/studio_c_showtape_dvds/April%202006%20Studio%20c-003.iso|Studio C DVD ISO",
-    "https://archive.org/download/3stage_dvd_signals/April%202006%203-stage-003.iso|3-Stage DVD ISO"
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/April2006.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/April%202006%20Studio%20c-003.iso",
+      "label": "Studio C DVD ISO"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/April%202006%203-stage-003.iso",
+      "label": "3-Stage DVD ISO"
+    }
   ],
   "type": "Showtapes",
   "tags": [

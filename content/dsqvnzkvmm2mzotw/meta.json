@@ -6,13 +6,29 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1982-07-14|0000-00-00|",
-    "Concept Unification Stage|1991-10-13|2023-04-25|One of 6 3-Stages in Georgia to receive Concept Unification. Last 3-Stage in Georgia from late 2011 until stage removal in April 2023. Last pair of CEI bots in Georgia from April 24 to April 25, 2023. Was in Good Condition. Chuck had Rockstar jeans, and Pasqually had blue explosion drumfront.|",
-    "Chuck E. Live Stage (Dance Floor)|2023-04-24||2021 Model|"
+    {
+      "n": "Classic Stage",
+      "s": "1982-07-14",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-10-13",
+      "e": "2023-04-25",
+      "desc": "One of 6 3-Stages in Georgia to receive Concept Unification. Last 3-Stage in Georgia from late 2011 until stage removal in April 2023. Last pair of CEI bots in Georgia from April 24 to April 25, 2023. Was in Good Condition. Chuck had Rockstar jeans, and Pasqually had blue explosion drumfront."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-04-24",
+      "desc": "2021 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [
-    "Mega Superhero Playground|2026-00-00||"
+    {
+      "n": "Mega Superhero Playground",
+      "s": "2026-00-00"
+    }
   ],
   "sqft": "",
   "latitudeLongitude": [

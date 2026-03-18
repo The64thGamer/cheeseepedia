@@ -6,8 +6,16 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Studio C Alpha|1998-03-19|0000-00-00|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00|2020-06-16|"
+    {
+      "n": "Studio C Alpha",
+      "s": "1998-03-19",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00",
+      "e": "2020-06-16"
+    }
   ],
   "franchisees": [],
   "attractions": [],

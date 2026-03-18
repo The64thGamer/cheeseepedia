@@ -26,7 +26,10 @@
     "C&R SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/3stage_post_93_svhs_signals/April%201997%203-stage-009.iso|Post '93 3-Stage SVHS w/ Signals"
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/April%201997%203-stage-009.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

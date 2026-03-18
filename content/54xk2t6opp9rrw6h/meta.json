@@ -31,7 +31,10 @@
   ],
   "mediaDuration": "55:03",
   "downloadLinks": [
-    "https://archive.org/download/chuck-e-cheese-1995-singles-stereo-mixes/I_Wont_Give_Up.mp3|'I Won't Give Up' Stereo Mix"
+    {
+      "url": "https://archive.org/download/chuck-e-cheese-1995-singles-stereo-mixes/I_Wont_Give_Up.mp3",
+      "label": "'I Won't Give Up' Stereo Mix"
+    }
   ],
   "type": "Showtapes",
   "tags": [

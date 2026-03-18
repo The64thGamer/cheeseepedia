@@ -6,10 +6,26 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-06-27|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|2009-04-00|One of 5 3-Stages in Louisiana to undergo Concept Unification. Stage replaced with the last ever installed Studio C Cappa in April 2009.|",
-    "Studio C Cappa|0000-00-00|0000-00-00|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00||"
+    {
+      "n": "Classic Stage",
+      "s": "1983-06-27",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2009-04-00",
+      "desc": "One of 5 3-Stages in Louisiana to undergo Concept Unification. Stage replaced with the last ever installed Studio C Cappa in April 2009."
+    },
+    {
+      "n": "Studio C Cappa",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

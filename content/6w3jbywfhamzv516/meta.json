@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1982-08-31|1985-10-16|"
+    {
+      "n": "Classic Stage",
+      "s": "1982-08-31",
+      "e": "1985-10-16"
+    }
   ],
   "franchisees": [],
   "attractions": [],

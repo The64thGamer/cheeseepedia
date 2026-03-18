@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Studio C Alpha/Small Town Mix|2001-12-12|2019-07-00|"
+    {
+      "n": "Studio C Alpha/Small Town Mix",
+      "s": "2001-12-12",
+      "e": "2019-07-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

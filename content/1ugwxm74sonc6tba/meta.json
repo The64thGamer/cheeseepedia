@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "1-Stage|1997-08-05|2018-00-00|1-Stage w/ Turntable|",
-    "Chuck E. Live Stage (Dance Floor)|2018-12-00||2017 Model|"
+    {
+      "n": "1-Stage",
+      "s": "1997-08-05",
+      "e": "2018-00-00",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2018-12-00",
+      "desc": "2017 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

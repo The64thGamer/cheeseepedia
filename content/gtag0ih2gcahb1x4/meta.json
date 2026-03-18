@@ -6,7 +6,10 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "1-Stage|1994-01-24||"
+    {
+      "n": "1-Stage",
+      "s": "1994-01-24"
+    }
   ],
   "franchisees": [],
   "attractions": [],

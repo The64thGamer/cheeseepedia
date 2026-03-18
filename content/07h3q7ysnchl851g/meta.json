@@ -14,8 +14,14 @@
     "Chuck E. Cheese's"
   ],
   "downloadLinks": [
-    "https://archive.org/details/chuck-e-and-friends-story-bible_202503|Story Bible",
-    "https://archive.org/details/40_20250329_202503|Bible PDF Image Assets"
+    {
+      "url": "https://archive.org/details/chuck-e-and-friends-story-bible_202503",
+      "label": "Story Bible"
+    },
+    {
+      "url": "https://archive.org/details/40_20250329_202503",
+      "label": "Bible PDF Image Assets"
+    }
   ],
   "credits": [
     "Jon Colton Barry",

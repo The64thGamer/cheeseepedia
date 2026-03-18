@@ -6,9 +6,21 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Road Stage|1992-07-21|2000-00-00|",
-    "Studio C Beta|0000-00-00|0000-00-00|",
-    "Chuck E. Live Stage (Dance Floor)|2023-06-00||2021 Model|"
+    {
+      "n": "Road Stage",
+      "s": "1992-07-21",
+      "e": "2000-00-00"
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-06-00",
+      "desc": "2021 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

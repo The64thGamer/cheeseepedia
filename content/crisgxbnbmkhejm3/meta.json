@@ -28,7 +28,10 @@
   ],
   "mediaDuration": "1:00:06",
   "downloadLinks": [
-    "https://archive.org/download/3stage_post_93_svhs_signals/August%201997%203-Stage-007.iso|Post '93 3-Stage SVHS w/ Signals"
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/August%201997%203-Stage-007.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

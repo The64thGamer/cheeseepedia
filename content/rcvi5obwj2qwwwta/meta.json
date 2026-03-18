@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Studio C Cappa|2004-06-02|2020-05-04|"
+    {
+      "n": "Studio C Cappa",
+      "s": "2004-06-02",
+      "e": "2020-05-04"
+    }
   ],
   "franchisees": [],
   "attractions": [],

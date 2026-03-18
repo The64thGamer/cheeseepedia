@@ -6,10 +6,26 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Balcony Stage|1981-05-18|0000-00-00|",
-    "Chuck E.'s House Facade|0000-00-00|0000-00-00|",
-    "2-Stage|0000-00-00|2023-10-00|One of many installed in California. Replaced by Dance Floor + Video Wall.|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00||"
+    {
+      "n": "Balcony Stage",
+      "s": "1981-05-18",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2023-10-00",
+      "desc": "One of many installed in California. Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

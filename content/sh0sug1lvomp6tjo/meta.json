@@ -3,7 +3,11 @@
   "startDate": "1985-00-00",
   "endDate": "1991-00-00",
   "stages": [
-    "Balcony Stage|1985-00-00|1991-00-00|"
+    {
+      "n": "Balcony Stage",
+      "s": "1985-00-00",
+      "e": "1991-00-00"
+    }
   ],
   "latitudeLongitude": [
     "22.3712427",

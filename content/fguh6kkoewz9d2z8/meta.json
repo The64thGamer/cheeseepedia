@@ -32,8 +32,14 @@
     "R12 SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/3stage_dvd_signals/January%202008%203-Stage-002.iso|3-Stage DVD ISO w/ Signals",
-    "https://archive.org/download/studio_c_showtape_dvds/January%202008%20Studio%20C-002.ISO|Studio C DVD ISO"
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/January%202008%203-Stage-002.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/January%202008%20Studio%20C-002.ISO",
+      "label": "Studio C DVD ISO"
+    }
   ],
   "type": "Showtapes",
   "tags": [

@@ -25,7 +25,13 @@
     "Pizza Time Theatre"
   ],
   "downloadLinks": [
-    "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Skit-King%20II%20Lounge%20%232/King%20II%20Lounge%202.wav|Showtape Rip w/ Signals (#1)",
-    "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/unknown%201%20%28no%20box%29/unkonwn%20label%20fell%20off.wav|Showtape Rip w/ Signals (#2)"
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Skit-King%20II%20Lounge%20%232/King%20II%20Lounge%202.wav",
+      "label": "Showtape Rip w/ Signals (#1)"
+    },
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/unknown%201%20%28no%20box%29/unkonwn%20label%20fell%20off.wav",
+      "label": "Showtape Rip w/ Signals (#2)"
+    }
   ]
 }

@@ -12,7 +12,10 @@
   ],
   "citations": [],
   "downloadLinks": [
-    "ptt_bdayhostworkbook.pdf|Birthday Host Workbook"
+    {
+      "url": "ptt_bdayhostworkbook.pdf",
+      "label": "Birthday Host Workbook"
+    }
   ],
   "pageThumbnailFile": "Bib8gL2XqINXbnbFxwB9.avif"
 }

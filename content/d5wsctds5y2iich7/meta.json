@@ -13,7 +13,10 @@
     "https://archive.org/details/cec-video-hits"
   ],
   "downloadLinks": [
-    "https://archive.org/download/cec-video-hits/CEC%20Video%20Hits.iso|DVD ISO"
+    {
+      "url": "https://archive.org/download/cec-video-hits/CEC%20Video%20Hits.iso",
+      "label": "DVD ISO"
+    }
   ],
   "pageThumbnailFile": "KiD25ur0vVp8L0k2KqEl.avif"
 }

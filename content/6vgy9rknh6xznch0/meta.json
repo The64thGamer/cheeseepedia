@@ -6,10 +6,27 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Balcony Stage|1981-10-00|0000-00-00|",
-    "Chuck E.'s House Facade|0000-00-00|0000-00-00|",
-    "2-Stage|1993-00-00|2022-09-00|Only 2-Stage in New Mexico. Replaced by Dance Floor + Video Wall.|",
-    "Chuck E. Live Stage (Dance Floor)|2022-09-00||2021 Model|"
+    {
+      "n": "Balcony Stage",
+      "s": "1981-10-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2022-09-00",
+      "desc": "Only 2-Stage in New Mexico. Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-09-00",
+      "desc": "2021 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

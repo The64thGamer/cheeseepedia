@@ -6,9 +6,22 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-10-27|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|2019-08-00|One of 4 3-Stages in Arkansas to undergo Concept Unification. Last MMBB stage and 3-Stage in Arkansas. Was in Very Poor Condition. Chuck had rare 'Cool Chuck' outfit and Wink had 'In Pizza We Trust' slogan.|",
-    "Chuck E. Live Stage (Dance Floor)|2019-08-00||2019 Model|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-10-27",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2019-08-00",
+      "desc": "One of 4 3-Stages in Arkansas to undergo Concept Unification. Last MMBB stage and 3-Stage in Arkansas. Was in Very Poor Condition. Chuck had rare 'Cool Chuck' outfit and Wink had 'In Pizza We Trust' slogan."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-08-00",
+      "desc": "2019 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

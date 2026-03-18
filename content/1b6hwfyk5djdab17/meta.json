@@ -21,7 +21,10 @@
     "027-0489-01 ShowBiz Pizza Time, Inc. BEST OF 1988 SHOWTAPE Serial #000039 Deck - 7 04/26/89 - Master HEADWOUND"
   ],
   "downloadLinks": [
-    "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Best%20of%201988%20Showtape/027-0489-01%20s000039.wav|Showtape Rip w/ Signals"
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Best%20of%201988%20Showtape/027-0489-01%20s000039.wav",
+      "label": "Showtape Rip w/ Signals"
+    }
   ],
   "pageThumbnailFile": "a9qyaga2sse7vkfu.avif"
 }

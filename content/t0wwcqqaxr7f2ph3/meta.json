@@ -17,7 +17,10 @@
     "https://reel-reel.com/tape-recorder/teac-x-7x-7r/"
   ],
   "downloadLinks": [
-    "https://archive.org/download/cyberamic-1.6-r-12-27-c-256/Cyberamic_1.6_R12_27C256.BIN|256Kbit VHS Random Movements EPROM v.1.6"
+    {
+      "url": "https://archive.org/download/cyberamic-1.6-r-12-27-c-256/Cyberamic_1.6_R12_27C256.BIN",
+      "label": "256Kbit VHS Random Movements EPROM v.1.6"
+    }
   ],
   "pageThumbnailFile": "Eoy0bZZfZjyorXT5rLPH.avif"
 }

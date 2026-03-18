@@ -6,7 +6,12 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "1-Stage|1993-03-08|2011-03-13|Mini Unit 1-Stage|"
+    {
+      "n": "1-Stage",
+      "s": "1993-03-08",
+      "e": "2011-03-13",
+      "desc": "Mini Unit 1-Stage"
+    }
   ],
   "franchisees": [],
   "attractions": [],

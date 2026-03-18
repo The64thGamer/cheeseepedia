@@ -6,9 +6,22 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-05-02|0000-00-00|",
-    "Concept Unification Stage|1991-00-00|2024-02-04|One of 10 3-Stages in California to undergo Concept Unification. Last 3-Stage in California from May 2007 until stage removal in February 2024. Was in Very Poor Condition, Chuck had rare 'Cool Chuck' outfit with walkaround shoes, Jasper had Beach Bear Guitar.|",
-    "Chuck E. Live Stage (Dance Floor)|2024-02-00||2019 Model|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-05-02",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2024-02-04",
+      "desc": "One of 10 3-Stages in California to undergo Concept Unification. Last 3-Stage in California from May 2007 until stage removal in February 2024. Was in Very Poor Condition, Chuck had rare 'Cool Chuck' outfit with walkaround shoes, Jasper had Beach Bear Guitar."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-02-00",
+      "desc": "2019 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

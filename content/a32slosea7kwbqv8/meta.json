@@ -6,7 +6,12 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "1-Stage|1994-05-16|2014-05-11|1-Stage w/ Turntable|"
+    {
+      "n": "1-Stage",
+      "s": "1994-05-16",
+      "e": "2014-05-11",
+      "desc": "1-Stage w/ Turntable"
+    }
   ],
   "franchisees": [],
   "attractions": [],

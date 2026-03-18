@@ -5,31 +5,122 @@
   "endDate": "1984-00-00",
   "cuDate": "",
   "remodels": [
-    "PTT Standard Layout|1979-12-20"
+    {
+      "n": "PTT Standard Layout",
+      "s": "1979-12-20"
+    }
   ],
   "stages": [
-    "Portrait / Shelf Stage|1979-10-00|1982-05-00|2-Wall",
-    "Balcony Stage|1982-05-00|1984-00-00"
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1979-10-00",
+      "e": "1982-05-00",
+      "desc": "2-Wall"
+    },
+    {
+      "n": "Balcony Stage",
+      "s": "1982-05-00",
+      "e": "1984-00-00"
+    }
   ],
   "franchisees": [
-    "Gary Harwin & Gene Finnigan|1979-12-20|0000-00-00"
+    {
+      "n": "Gary Harwin & Gene Finnigan",
+      "s": "1979-12-20",
+      "e": "0000-00-00"
+    }
   ],
   "attractions": [
-    "Cheese Crawl|1979-12-20|0000-00-00|Seen at the opening and in January 1982.",
-    "Rondina Helicopter Kiddie Ride|0000-00-00|0000-00-00|Seen in January 1982.",
-    "Jasper's General Store|1979-12-20|0000-00-00|Mentioned during the opening."
+    {
+      "n": "Cheese Crawl",
+      "s": "1979-12-20",
+      "e": "0000-00-00",
+      "desc": "Seen at the opening and in January 1982."
+    },
+    {
+      "n": "Rondina Helicopter Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in January 1982."
+    },
+    {
+      "n": "Jasper's General Store",
+      "s": "1979-12-20",
+      "e": "0000-00-00",
+      "desc": "Mentioned during the opening."
+    }
   ],
   "animatronics": [
-    "Chuck E. Cheese (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown",
-    "Warblettes (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown",
-    "Guest Star / Helen Henny (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown",
-    "Mr. Munch (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown",
-    "Pasqually (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown",
-    "Jasper T. Jowls (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown",
-    "Dolli Dimples (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown",
-    "Applause Board (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown",
-    "Drum Board (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown",
-    "Flag Wavers (Cyberamic)|1979-12-20|1984-00-00|N/A|Unknown"
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1979-12-20",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1979-12-20",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1979-12-20",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1979-12-20",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1979-12-20",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1979-12-20",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Dolli Dimples (Cyberamic)",
+      "s": "1979-12-20",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1979-12-20",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1979-12-20",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1979-12-20",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    }
   ],
   "sqft": "9500",
   "latitudeLongitude": [
@@ -60,7 +151,10 @@
     "sudo trans --pony"
   ],
   "downloadLinks": [
-    "https://archive.org/download/95-8431-bz-plans/-%3DFloorplan%20Archive%3D-/Pizza%20Time%20Theatre/Nevada/1_1_1982%20-%20MICROFILM%20PLANS%20PIZZA%20TIME%20-%20530%20-%20GREENBRAE%20DR%20-%20%20-.pdf|May 1982 Remodel Plans"
+    {
+      "url": "https://archive.org/download/95-8431-bz-plans/-%3DFloorplan%20Archive%3D-/Pizza%20Time%20Theatre/Nevada/1_1_1982%20-%20MICROFILM%20PLANS%20PIZZA%20TIME%20-%20530%20-%20GREENBRAE%20DR%20-%20%20-.pdf",
+      "label": "May 1982 Remodel Plans"
+    }
   ],
   "pageThumbnailFile": "b6po1sqlubkf3n9x.avif",
   "type": "Locations",

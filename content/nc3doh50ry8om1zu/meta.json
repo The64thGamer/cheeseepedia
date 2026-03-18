@@ -24,7 +24,10 @@
     "ShowBiz SVHS"
   ],
   "downloadLinks": [
-    "https://archive.org/download/rolfe-and-earle-dvd/Rolfe%20and%20Earle%20DVD.iso|VHS Rip (Missing Data)"
+    {
+      "url": "https://archive.org/download/rolfe-and-earle-dvd/Rolfe%20and%20Earle%20DVD.iso",
+      "label": "VHS Rip (Missing Data)"
+    }
   ],
   "alsoKnownAs": [
     "260-0611-90(C) S. P. T. Inc.SPP Rolfe & EarlSerial #0042 Deck - 406/11/90 - Master HIFI"

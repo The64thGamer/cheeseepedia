@@ -32,8 +32,14 @@
     "R12 SVHS (Pre-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/studio-c-floppy-discs-rips/Jan2005.img|Studio C Floppy Disk",
-    "https://archive.org/download/studio_c_showtape_dvds/January%202005%20Studio%20C-002.iso|Studio C DVD ISO"
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Jan2005.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/January%202005%20Studio%20C-002.iso",
+      "label": "Studio C DVD ISO"
+    }
   ],
   "type": "Showtapes",
   "tags": [

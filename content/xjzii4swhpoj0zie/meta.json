@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1986-05-07|0000-00-00|",
-    "Concept Unification Stage|1991-06-21|2007-00-00|One of 7 3-Stages in Florida to undergo Concept Unification. Munch Jr. would remain until closure.|"
+    {
+      "n": "Classic Stage",
+      "s": "1986-05-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-06-21",
+      "e": "2007-00-00",
+      "desc": "One of 7 3-Stages in Florida to undergo Concept Unification. Munch Jr. would remain until closure."
+    }
   ],
   "franchisees": [],
   "attractions": [],

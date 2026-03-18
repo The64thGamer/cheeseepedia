@@ -3,21 +3,91 @@
   "startDate": "1993-00-00",
   "endDate": "2014-00-00",
   "stages": [
-    "Classic Stage|1993-00-00|2014-00-00|"
+    {
+      "n": "Classic Stage",
+      "s": "1993-00-00",
+      "e": "2014-00-00"
+    }
   ],
   "franchisees": [],
   "animatronics": [
-    "Rolfe Dewolfe & Earl Schmerle (Animatronic)|1993-00-00|2011-00-00|1-83 1-47|Owned by private collector.",
-    "Dook Larue (Animatronic)|1993-00-00|2011-00-00|1-83 2-47|Owned by private collector.",
-    "Fatz Geromino (Animatronic)|1993-00-00|2011-00-00|1-83 3-47|Owned by private collector.",
-    "Beach Bear (Animatronic)|1993-00-00|2011-00-00|1-83 4-47|Owned by private collector.",
-    "Mitzi Mozzerella (Animatronic)|1993-00-00|2011-00-00|1-83 5-47|Owned by private collector.",
-    "Billy Bob (Animatronic)|1993-00-00|2011-00-00|1-83 6-47|Owned by private collector.",
-    "Looney Bird (Animatronic)|1993-00-00|2011-00-00|1-83 7-47|Owned by private collector.",
-    "Choo-Choo (Animatronic)|1993-00-00|2011-00-00|1-83 8-47|Owned by private collector.",
-    "Antioch (Animatronic)|1993-00-00|2011-00-00|1-83 9-47|Owned by private collector.",
-    "Sun (Animatronic)|1993-00-00|2011-00-00|1-83 10-47|Owned by private collector.",
-    "Moon (Animatronic)|1993-00-00|2011-00-00|1-83 11-47|Owned by private collector."
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 1-47",
+      "st": "Owned by private collector."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 2-47",
+      "st": "Owned by private collector."
+    },
+    {
+      "n": "Fatz Geromino (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 3-47",
+      "st": "Owned by private collector."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 4-47",
+      "st": "Owned by private collector."
+    },
+    {
+      "n": "Mitzi Mozzerella (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 5-47",
+      "st": "Owned by private collector."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 6-47",
+      "st": "Owned by private collector."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 7-47",
+      "st": "Owned by private collector."
+    },
+    {
+      "n": "Choo-Choo (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 8-47",
+      "st": "Owned by private collector."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 9-47",
+      "st": "Owned by private collector."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 10-47",
+      "st": "Owned by private collector."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 11-47",
+      "st": "Owned by private collector."
+    }
   ],
   "sqft": "",
   "latitudeLongitude": [

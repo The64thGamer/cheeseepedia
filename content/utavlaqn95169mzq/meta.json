@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1982-01-25|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|2020-06-18|One of 3-Stages in Ohio to receive Concept Unification. 2nd to last 3-Stage in Ohio. Was in Decent Condition. Center Stage had lighting similar to New Orleans, Louisiana's former 3-Stage.|"
+    {
+      "n": "Classic Stage",
+      "s": "1982-01-25",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2020-06-18",
+      "desc": "One of 3-Stages in Ohio to receive Concept Unification. 2nd to last 3-Stage in Ohio. Was in Decent Condition. Center Stage had lighting similar to New Orleans, Louisiana's former 3-Stage."
+    }
   ],
   "franchisees": [],
   "attractions": [],

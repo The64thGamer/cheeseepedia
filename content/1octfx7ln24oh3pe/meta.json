@@ -7,29 +7,110 @@
   "startDate": "1982-05-19",
   "endDate": "1984-00-00",
   "remodels": [
-    "PTT Standard Layout|1982-05-19"
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-05-19"
+    }
   ],
   "stages": [
-    "Balcony Stage|1982-05-19|1984-00-00|"
+    {
+      "n": "Balcony Stage",
+      "s": "1982-05-19",
+      "e": "1984-00-00"
+    }
   ],
   "franchisees": [
-    "Electronic Theatre Resturants|1982-05-19|1984-00-00"
+    {
+      "n": "Electronic Theatre Resturants",
+      "s": "1982-05-19",
+      "e": "1984-00-00"
+    }
   ],
   "attractions": [
-    "Cheese Crawl|1982-05-19|1984-00-00"
+    {
+      "n": "Cheese Crawl",
+      "s": "1982-05-19",
+      "e": "1984-00-00"
+    }
   ],
   "animatronics": [
-    "Mr. Munch (Cyberamic)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market",
-    "Jasper T. Jowls (Cyberamic)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market",
-    "Chuck E. Cheese (Cyberamic)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market, retrofitted as part of 'Nirobi Trio'",
-    "Guest Star / Helen Henny (Cyberamic)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market used for Luigi/Pedro",
-    "Pasqually (Cyberamic)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market used for Luigi/Pedro",
-    "Warblettes (Cyberamic)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market, retroffited into 'The Birdies'",
-    "Applause Board (Cyberamic)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market",
-    "Drum Board (Cyberamic)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market",
-    "Flag Wavers (Cyberamic)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market, installed around Jungle Jim's until 2018",
-    "The King / King Kat (Lounge)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market, retrofitted into Elvis",
-    "Dolli Dimples (Cyberamic)|1982-05-19|1984-00-00|N/A|Puchased by Jungle Jim's International Market, retrofitted into Dolly"
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market, retrofitted as part of 'Nirobi Trio'"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market used for Luigi/Pedro"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market used for Luigi/Pedro"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market, retroffited into 'The Birdies'"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market, installed around Jungle Jim's until 2018"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market, retrofitted into Elvis"
+    },
+    {
+      "n": "Dolli Dimples (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "st": "Puchased by Jungle Jim's International Market, retrofitted into Dolly"
+    }
   ],
   "contributors": [
     "CyberSnout"

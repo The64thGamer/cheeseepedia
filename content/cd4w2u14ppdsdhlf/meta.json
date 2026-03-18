@@ -5,93 +5,497 @@
   "endDate": "1994-01-00",
   "cuDate": "",
   "remodels": [
-    "PTT Standard Layout|1979-05-00"
+    {
+      "n": "PTT Standard Layout",
+      "s": "1979-05-00"
+    }
   ],
   "stages": [
-    "Portrait / Shelf Stage|1979-05-00|0000-00-00|2-Wall",
-    "Portrait / Shelf Stage|0000-00-00|1994-01-00|1-Wall, other side taken up by large plushes."
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "2-Wall"
+    },
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "0000-00-00",
+      "e": "1994-01-00",
+      "desc": "1-Wall, other side taken up by large plushes."
+    }
   ],
   "franchisees": [
-    "Ulrike-Grandjean Corporation|1986-03-18|1994-01-00"
+    {
+      "n": "Ulrike-Grandjean Corporation",
+      "s": "1986-03-18",
+      "e": "1994-01-00"
+    }
   ],
   "animatronics": [
-    "Chuck E. Cheese (Cyberamic)|1979-05-00|1994-01-00|N/A|Unknown",
-    "Warblettes (Cyberamic)|1979-05-00|1994-01-00|N/A|Unknown",
-    "Guest Star / Helen Henny (Cyberamic)|1979-05-00|1994-01-00|N/A|Unknown",
-    "Mr. Munch (Cyberamic)|1979-05-00|1994-01-00|N/A|Unknown",
-    "Pasqually (Cyberamic)|1979-05-00|1994-01-00|N/A|Unknown",
-    "Jasper T. Jowls (Cyberamic)|1979-05-00|1994-01-00|N/A|Unknown",
-    "Dolli Dimples (Cyberamic)|1979-05-00|0000-00-00|N/A|Unknown",
-    "Artie Antlers (Cyberamic)|1980-00-00|0000-00-00|N/A|Unknown",
-    "B.B. Bubbles (Cyberamic)|0000-00-00|0000-00-00|N/A|Unknown",
-    "Applause Board (Cyberamic)|1979-05-00|1985-00-00|N/A|2 Were installed, unknown wherabouts.",
-    "Drum Board (Cyberamic)|1979-05-00|1985-00-00|N/A|Unknown",
-    "Flag Wavers (Cyberamic)|1979-05-00|1985-00-00|N/A|Unknown"
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1994-01-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Dolli Dimples (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Artie Antlers (Cyberamic)",
+      "s": "1980-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "B.B. Bubbles (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1985-00-00",
+      "l": "N/A",
+      "st": "2 Were installed, unknown wherabouts."
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1985-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1979-05-00",
+      "e": "1985-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    }
   ],
   "attractions": [
-    "Cheese Crawl|1979-05-00|0000-00-00|2-Story Layout, going from the showroom up to the arcade.",
-    "'Puppet Show'|1979-05-00|0000-00-00|Likely The Original Bimbo 3 Ring Circus. Mentioned in building plans.",
-    "'Cut-Down Pins'|1979-05-00|0000-00-00|Likely Pinball. Mentioned in building plans.",
-    "Night Driver|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Top Sim AT|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Space Invaders|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Circus Time|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Firetouch|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Air Hockeys|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Shootaway|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Metal Typer|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Sea Wolf|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Old Time Basketball|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Starfire|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Super Breakout|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Space Wars|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Bumper Cars|1979-05-00|0000-00-00|Mentioned in building plans. Possibly same as Huntington Beach.",
-    "Perfume Lady|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Indy|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "'Pins' (Pinball)|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "'Misc Videos'|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "'Misc Arcades-5'|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Atari Football|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "'Game Tree'|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Killer Bees|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Sprint 2|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "'Sex Game'|1979-05-00|0000-00-00|Likely Love Tester. Mentioned in building plans.",
-    "Rotation 8's|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Take 5|1979-05-00|0000-00-00|Mentioned in building plans.",
-    "Whac-A-Mole|1979-05-00|0000-00-00|Mentioned in building plans (Might be Whac-A-Munch, given it appears in early 1980).",
-    "Asteroids|0000-00-00|0000-00-00|Noted by a customer years later",
-    "Ms. Pac-Man|0000-00-00|0000-00-00|Noted by a customer years later",
-    "Pac-Man|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage (1 unit) and seen in 1992 (2 units)",
-    "Moon Lander|0000-00-00|0000-00-00|Noted by a customer years later",
-    "Star Wars (1983)|0000-00-00|0000-00-00|Noted by a customer years later",
-    "Rondina Helicopter Kiddie Ride|0000-00-00|0000-00-00|Yellow variant, seen in Oct. 25, 1986 footage and noted by a customer there in the early 90's",
-    "Whac-A-Munch|0000-00-00|0000-00-00|Single unit Red/Green variant. Seen in 1992.",
-    "Whac-A-Munch|0000-00-00|0000-00-00|Double Yellow/Red variant, seen in early 1980.",
-    "Sega Thunder Blade|0000-00-00|0000-00-00|Seen in 1992.",
-    "Galaga|0000-00-00|0000-00-00|Seen in 1992.",
-    "Fanky Malloon|0000-00-00|0000-00-00|'Flying Fun Balloons' marquee, seen in Oct. 25, 1986 footage.",
-    "Cotton Candy Machine|0000-00-00|0000-00-00|Yellow cabinet labeled 'Cotton Candy' with clown face, unknown manufacturer, seen in Oct. 25, 1986 footage.",
-    "Pizza Time Theatre Musical Ferris Wheel|0000-00-00|0000-00-00|Cane variant, seen in Oct. 25, 1986 footage.",
-    "Elektro-Mobiltechnik Santa Fe Train Kiddie Ride|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Unknown Crane Game|0000-00-00|0000-00-00|Large red crane game, seen in Oct. 25, 1986 footage.",
-    "Wedges & Ledges|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Rondina Space Shuttle Kiddie Ride|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Skee-Roll|1979-05-00|0000-00-00|Multiple mentioned in building plans. 6 alleys with cages, seen in Oct. 25, 1986 footage.",
-    "Unknown Spinning Prize Game|0000-00-00|0000-00-00|Multi-player redemption game in octagonal shape with jewlery as prizes, seen in Oct. 25, 1986 footage.",
-    "Unknown Black F1 Kiddie Ride|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Unknown Fire Truck Kiddie Ride|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Pizza Time Theatre Hot Air Balloon Kiddie Ride|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Rondina Scout Ball Kiddie Ride|0000-00-00|0000-00-00|Silver variant, seen in Oct. 25, 1986 footage.",
-    "Sega Turbo|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Unknown Video Jukebox|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Spy Hunter|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Shoot Away|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Centipede|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Super Chexx|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Pole Position|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Nintendo Vs. Double Cabinet|0000-00-00|0000-00-00|Vs. Hogans Alley + Vs. Super Mario Bros, seen in Oct. 25, 1986 footage.",
-    "Tapper|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage.",
-    "Cliff Hanger|0000-00-00|0000-00-00|Seen in Oct. 25, 1986 footage."
+    {
+      "n": "Cheese Crawl",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "2-Story Layout, going from the showroom up to the arcade."
+    },
+    {
+      "n": "'Puppet Show'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Likely The Original Bimbo 3 Ring Circus. Mentioned in building plans."
+    },
+    {
+      "n": "'Cut-Down Pins'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Likely Pinball. Mentioned in building plans."
+    },
+    {
+      "n": "Night Driver",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Top Sim AT",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Space Invaders",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Circus Time",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Firetouch",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Air Hockeys",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Shootaway",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Metal Typer",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Sea Wolf",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Old Time Basketball",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Starfire",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Super Breakout",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Space Wars",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Bumper Cars",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans. Possibly same as Huntington Beach."
+    },
+    {
+      "n": "Perfume Lady",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Indy",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "'Pins' (Pinball)",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "'Misc Videos'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "'Misc Arcades-5'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Atari Football",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "'Game Tree'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Killer Bees",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Sprint 2",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "'Sex Game'",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Likely Love Tester. Mentioned in building plans."
+    },
+    {
+      "n": "Rotation 8's",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Take 5",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans."
+    },
+    {
+      "n": "Whac-A-Mole",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in building plans (Might be Whac-A-Munch, given it appears in early 1980)."
+    },
+    {
+      "n": "Asteroids",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Noted by a customer years later"
+    },
+    {
+      "n": "Ms. Pac-Man",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Noted by a customer years later"
+    },
+    {
+      "n": "Pac-Man",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage (1 unit) and seen in 1992 (2 units)"
+    },
+    {
+      "n": "Moon Lander",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Noted by a customer years later"
+    },
+    {
+      "n": "Star Wars (1983)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Noted by a customer years later"
+    },
+    {
+      "n": "Rondina Helicopter Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Yellow variant, seen in Oct. 25, 1986 footage and noted by a customer there in the early 90's"
+    },
+    {
+      "n": "Whac-A-Munch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Single unit Red/Green variant. Seen in 1992."
+    },
+    {
+      "n": "Whac-A-Munch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Double Yellow/Red variant, seen in early 1980."
+    },
+    {
+      "n": "Sega Thunder Blade",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in 1992."
+    },
+    {
+      "n": "Galaga",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in 1992."
+    },
+    {
+      "n": "Fanky Malloon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "'Flying Fun Balloons' marquee, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Cotton Candy Machine",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Yellow cabinet labeled 'Cotton Candy' with clown face, unknown manufacturer, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Pizza Time Theatre Musical Ferris Wheel",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Cane variant, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Elektro-Mobiltechnik Santa Fe Train Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Unknown Crane Game",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Large red crane game, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Wedges & Ledges",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Rondina Space Shuttle Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Skee-Roll",
+      "s": "1979-05-00",
+      "e": "0000-00-00",
+      "desc": "Multiple mentioned in building plans. 6 alleys with cages, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Unknown Spinning Prize Game",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Multi-player redemption game in octagonal shape with jewlery as prizes, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Unknown Black F1 Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Unknown Fire Truck Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Pizza Time Theatre Hot Air Balloon Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Rondina Scout Ball Kiddie Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Silver variant, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Sega Turbo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Unknown Video Jukebox",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Spy Hunter",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Shoot Away",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Centipede",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Super Chexx",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Pole Position",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Nintendo Vs. Double Cabinet",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Vs. Hogans Alley + Vs. Super Mario Bros, seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Tapper",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    },
+    {
+      "n": "Cliff Hanger",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in Oct. 25, 1986 footage."
+    }
   ],
   "sqft": "10,000",
   "latitudeLongitude": [
@@ -118,7 +522,10 @@
     "sudo trans --pony"
   ],
   "downloadLinks": [
-    "https://archive.org/details/concord-ca-1975-diamond-blvd|Building Plans (May 23rd, 1979)"
+    {
+      "url": "https://archive.org/details/concord-ca-1975-diamond-blvd",
+      "label": "Building Plans (May 23rd, 1979)"
+    }
   ],
   "pageThumbnailFile": "9dipf6po64hdlwbf.avif",
   "type": "Locations",

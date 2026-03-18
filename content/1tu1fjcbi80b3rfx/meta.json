@@ -5,10 +5,16 @@
   "endDate": "",
   "cuDate": "",
   "remodels": [
-    "Low Volume Store Initiative|0000-00-00"
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "0000-00-00"
+    }
   ],
   "stages": [
-    "Studio C Alpha|2000-03-00||"
+    {
+      "n": "Studio C Alpha",
+      "s": "2000-03-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

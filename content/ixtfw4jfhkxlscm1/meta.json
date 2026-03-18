@@ -5,13 +5,24 @@
   "endDate": "2020-05-00",
   "cuDate": "",
   "remodels": [
-    "CEC 2000's Remodel Program|2005-06-29"
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2005-06-29"
+    }
   ],
   "stages": [
-    "Studio C Beta|2005-06-29|2020-05-00|"
+    {
+      "n": "Studio C Beta",
+      "s": "2005-06-29",
+      "e": "2020-05-00"
+    }
   ],
   "franchisees": [
-    "Melvin Entertainment|2005-06-29|2020-05-00"
+    {
+      "n": "Melvin Entertainment",
+      "s": "2005-06-29",
+      "e": "2020-05-00"
+    }
   ],
   "attractions": [],
   "sqft": "",
@@ -30,7 +41,17 @@
     "Chuck E. Cheese's"
   ],
   "animatronics": [
-    "Chuck E. Cheese 16m (Animatronic)|2005-06-29|2020-05-00||Unknown/Destroyed.",
-    "Pizza Time Clock (Animatronic)|2005-06-29|2020-05-00||Unknown/Destroyed."
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "2005-06-29",
+      "e": "2020-05-00",
+      "st": "Unknown/Destroyed."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "2005-06-29",
+      "e": "2020-05-00",
+      "st": "Unknown/Destroyed."
+    }
   ]
 }

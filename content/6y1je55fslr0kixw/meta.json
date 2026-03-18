@@ -23,7 +23,10 @@
   ],
   "mediaDuration": "1:00:09",
   "downloadLinks": [
-    "https://archive.org/download/3stage_post_93_svhs_signals/January%202003%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals"
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/January%202003%203-Stage-001.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

@@ -47,120 +47,557 @@
   "storeNumber": "561",
   "sqft": "10,406",
   "attractions": [
-    "Tik Tak|0000-00-00|2019-09-22",
-    "Chuck E. Cheese’s Sketch Book|0000-00-00|2019-09-22",
-    "CEC Street Hoops|2009-00-00|2019-09-22",
-    "CEC Street Hoops|2009-00-00|2019-09-22",
-    "NBA Hoops|2009-00-00|2019-09-22",
-    "NBA Hoops|2009-00-00|2019-09-22",
-    "Alley Roller Classic|2009-00-00|2019-09-22",
-    "Alley Roller Classic|2009-00-00|2019-09-22",
-    "Alley Roller Classic|2009-00-00|2019-09-22",
-    "Alley Roller Classic|2009-00-00|2019-09-22",
-    "Alley Roller Classic|2009-00-00|2019-09-22",
-    "Wonder Land|2009-00-00|2019-09-22",
-    "After Burner Climax|2009-00-00|2019-09-22",
-    "Winner Wheel|2009-00-00|2019-09-22",
-    "Sea Wolf (2008)|2009-00-00|2019-09-22",
-    "Ghost Hunter|2009-00-00|2019-09-22",
-    "Red Hot|2009-00-00|2019-09-22",
-    "Let’s Go Jungle!|2009-00-00|2019-09-22",
-    "2 Minute Drill|2009-00-00|2019-09-22",
-    "Water Blast|2009-00-00|2019-09-22",
-    "Deal or No Deal|2009-00-00|2019-09-22",
-    "Jett Rider|2009-00-00|2019-09-22",
-    "Dog Pounder|2009-00-00|2019-09-22",
-    "Big Win Superspin|2009-00-00|2019-09-22",
-    "Hammer 2 (CEC)|2009-00-00|2019-09-22",
-    "Pump Jump (CEC)|2009-00-00|2019-09-22",
-    "Nascar Racing|2009-00-00|2019-09-22",
-    "Boulder's Dozer's|2009-00-00|2019-09-22",
-    "Big Bass Wheel Pro|2009-00-00|2019-09-22",
-    "Spider-Bot|2009-00-00|2019-09-22",
-    "Wonder Wheel|2009-00-00|2019-09-22",
-    "Ticket Troopers|2009-00-00|2019-09-22",
-    "Chuck E.’s Duckies|2009-00-00|2019-09-22",
-    "Spongebob Squarepants Bikini Bottom Bowling|2009-00-00|2019-09-22",
-    "The Price is Right Plinko|2009-00-00|2019-09-22",
-    "Pop it For Gold|2009-00-00|2019-09-22",
-    "Jackpot Xtreme|2009-00-00|2019-09-22",
-    "Chuck E. Cheese’s Photo Ride|2014-00-00|2019-09-22",
-    "Racer 1 Yellow Ferrari|2014-00-00|2019-09-22",
-    "Rollin' on 24's|2014-00-00|2019-09-22",
-    "Tippin' Bloks|2014-00-00|2019-09-22",
-    "CEC Basketball|2014-00-00|2019-09-22",
-    "Barney Train|2014-00-00|2019-09-22",
-    "Barney Train|2014-00-00|2019-09-22",
-    "Speed Demon|2014-00-00|2019-09-22",
-    "Hat Trick|2014-00-00|2019-09-22",
-    "Hungry Froggy|2014-00-00|2019-09-22",
-    "Circle Train (CEC)|2016-04-00|2019-09-22",
-    "Batman (2013)|2016-04-00|2019-09-22",
-    "Batman (2013)|2016-04-00|2019-09-22",
-    "Operation Skill Game|2016-04-00|2019-09-22",
-    "Flappy Tickets|2016-04-00|2019-09-22",
-    "Deep Sea Treasure|2016-04-00|2019-09-22",
-    "Spongebob Squarepants|2016-04-00|2019-09-22",
-    "Doodle Jump|2016-04-00|2019-09-22",
-    "Extreme Wheel’m In|2016-04-00|2019-09-22",
-    "Reactor|2016-04-00|2019-09-22",
-    "Bunny Pond|2016-04-00|2019-09-22",
-    "Pirate Hook|2016-04-00|2019-09-22",
-    "After Burner Climax|2016-04-00|2019-09-22",
-    "Winter X-Games SnoCross|2016-04-00|2019-09-22",
-    "Moo Moo|2016-04-00|2019-09-22",
-    "The Simpons Soccer|2016-04-00|2019-09-22",
-    "Winter X-Games SnoCross|2016-04-00|2019-09-22",
-    "Platinum Heights|2018-08-00|2019-09-22",
-    "The Revenge of Hammerhead|2018-08-00|2019-09-22",
-    "Robin Hood|2018-08-00|2019-09-22",
-    "Barrel of Monkeys|2018-08-00|2019-09-22",
-    "Monster Drop|2018-08-00|2019-09-22",
-    "Teenage Mutant Ninja Turtles (2018)|2018-00-00|2019-09-22",
-    "Space Invaders Frenzy|2018-08-00|2019-09-22",
-    "Ice Cubes|2018-08-00|2019-09-22",
-    "Fruit Ninja FX|2018-08-00|2019-09-22",
-    "The Sideshow|2018-08-00|2019-09-22",
-    "Dinosaur Catcher|2018-08-00|2019-09-22",
-    "Paw Patrol Ready For Action|2018-08-00|2019-09-22",
-    "Hot Chocolate Ride (CEC)|2018-08-00|2019-09-22",
-    "Monopoly|2018-08-00|2019-09-22",
-    "Teeter Totter Castle|2018-08-00|2019-09-22",
-    "Pigs Might Fly|2018-08-00|2019-09-22",
-    "Captain Seawolf|2018-08-00|2019-09-22",
-    "Puppy Jump|2018-08-00|2019-09-22",
-    "City Bus Tours|2018-08-00|2019-09-22"
+    {
+      "n": "Tik Tak",
+      "s": "0000-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Chuck E. Cheese’s Sketch Book",
+      "s": "0000-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "CEC Street Hoops",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "CEC Street Hoops",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "NBA Hoops",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "NBA Hoops",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Alley Roller Classic",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Alley Roller Classic",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Alley Roller Classic",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Alley Roller Classic",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Alley Roller Classic",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Wonder Land",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "After Burner Climax",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Winner Wheel",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Sea Wolf (2008)",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Ghost Hunter",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Red Hot",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Let’s Go Jungle!",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "2 Minute Drill",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Water Blast",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Deal or No Deal",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Jett Rider",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Dog Pounder",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Big Win Superspin",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Hammer 2 (CEC)",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Pump Jump (CEC)",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Nascar Racing",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Boulder's Dozer's",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Big Bass Wheel Pro",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Spider-Bot",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Wonder Wheel",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Ticket Troopers",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Chuck E.’s Duckies",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Spongebob Squarepants Bikini Bottom Bowling",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "The Price is Right Plinko",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Pop it For Gold",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Jackpot Xtreme",
+      "s": "2009-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Chuck E. Cheese’s Photo Ride",
+      "s": "2014-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Racer 1 Yellow Ferrari",
+      "s": "2014-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Rollin' on 24's",
+      "s": "2014-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Tippin' Bloks",
+      "s": "2014-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "CEC Basketball",
+      "s": "2014-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Barney Train",
+      "s": "2014-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Barney Train",
+      "s": "2014-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Speed Demon",
+      "s": "2014-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Hat Trick",
+      "s": "2014-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Hungry Froggy",
+      "s": "2014-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Circle Train (CEC)",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Batman (2013)",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Batman (2013)",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Operation Skill Game",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Flappy Tickets",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Deep Sea Treasure",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Spongebob Squarepants",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Doodle Jump",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Extreme Wheel’m In",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Reactor",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Bunny Pond",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Pirate Hook",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "After Burner Climax",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Winter X-Games SnoCross",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Moo Moo",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "The Simpons Soccer",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Winter X-Games SnoCross",
+      "s": "2016-04-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Platinum Heights",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "The Revenge of Hammerhead",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Robin Hood",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Barrel of Monkeys",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Monster Drop",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Teenage Mutant Ninja Turtles (2018)",
+      "s": "2018-00-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Space Invaders Frenzy",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Ice Cubes",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Fruit Ninja FX",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "The Sideshow",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Dinosaur Catcher",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Paw Patrol Ready For Action",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Hot Chocolate Ride (CEC)",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Monopoly",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Teeter Totter Castle",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Pigs Might Fly",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Captain Seawolf",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "Puppy Jump",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    },
+    {
+      "n": "City Bus Tours",
+      "s": "2018-08-00",
+      "e": "2019-09-22"
+    }
   ],
   "animatronics": [
-    "Rolfe Dewolfe & Earl Schmerle (Animatronic)|1981-11-11|2019-09-22|4-81 1-8|Dismantled during cleanout",
-    "Dook Larue (Animatronic)|1981-11-11|2019-09-22|4-81 2-8|Owned by a Private Collector",
-    "Fatz Geronimo (Animatronic)|1981-11-11|2019-09-22|4-81 3-8|Dismantled during cleanout",
-    "Beach Bear (Animatronic)|1981-11-11|2019-09-22|4-81 4-8|Owned by a Private Collector",
-    "Mitzi Mozzarella (Animatronic)|1981-11-11|2019-09-22|4-81 5-8|Owned by a Private Collector",
-    "Billy Bob (Animatronic)|1981-11-11|1991-04-00|4-81 6-8|Unknown",
-    "Looney Bird (Animatronic)|1981-11-11|2002-00-00|4-81 7-8|Unknown",
-    "Choo Choo (Animatronic)|1981-11-11|1997-00-00|4-81 8-8|Unknown",
-    "Sun (Animatronic)|1981-11-11|2018-00-00|4-81 11-8|Unknown",
-    "Moon (Animatronic)|1981-11-11|2017-00-00|4-81 11-8|Unknown",
-    "Antioch (Animatronic)|1981-11-11|1991-04-00||Unknown",
-    "Uncle Klunk (Animatronic)|1983-00-00|1983-00-00||Unknown",
-    "Wink|1991-05-00|2019-09-22||Intact during cleanout, currently unknown"
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "1981-11-11",
+      "e": "2019-09-22",
+      "l": "4-81 1-8",
+      "st": "Dismantled during cleanout"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "1981-11-11",
+      "e": "2019-09-22",
+      "l": "4-81 2-8",
+      "st": "Owned by a Private Collector"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "1981-11-11",
+      "e": "2019-09-22",
+      "l": "4-81 3-8",
+      "st": "Dismantled during cleanout"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "1981-11-11",
+      "e": "2019-09-22",
+      "l": "4-81 4-8",
+      "st": "Owned by a Private Collector"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "1981-11-11",
+      "e": "2019-09-22",
+      "l": "4-81 5-8",
+      "st": "Owned by a Private Collector"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "1981-11-11",
+      "e": "1991-04-00",
+      "l": "4-81 6-8",
+      "st": "Unknown"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "1981-11-11",
+      "e": "2002-00-00",
+      "l": "4-81 7-8",
+      "st": "Unknown"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "1981-11-11",
+      "e": "1997-00-00",
+      "l": "4-81 8-8",
+      "st": "Unknown"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "1981-11-11",
+      "e": "2018-00-00",
+      "l": "4-81 11-8",
+      "st": "Unknown"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "1981-11-11",
+      "e": "2017-00-00",
+      "l": "4-81 11-8",
+      "st": "Unknown"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "1981-11-11",
+      "e": "1991-04-00",
+      "st": "Unknown"
+    },
+    {
+      "n": "Uncle Klunk (Animatronic)",
+      "s": "1983-00-00",
+      "e": "1983-00-00",
+      "st": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "1991-05-00",
+      "e": "2019-09-22",
+      "st": "Intact during cleanout, currently unknown"
+    }
   ],
   "franchisees": [],
   "remodels": [
-    "SPT 1980's Remodel Program|1989-00-00",
-    "SPT 1990's Remodel Program|1992-00-00",
-    "Phase 1 (1994)|1996-00-00",
-    "Phase 2 (1997)|0000-00-00",
-    "Phase 3 (2000)|0000-00-00",
-    "CEC 2000's Remodel Program|2009-00-00"
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1989-00-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1992-00-00"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "1996-00-00"
+    },
+    {
+      "n": "Phase 2 (1997)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Phase 3 (2000)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2009-00-00"
+    }
   ],
   "stages": [
-    "Classic Stage|1981-11-11|1991-05-02",
-    "Concept Unification Stage|1991-04-28|2019-09-24|One of 4 3-Stages in Ohio to receive Concept Unification. Was in Poor Condition. Chuck lacked his teeth, Munch had Sunrise organ, and Stage lacked Munch's Make Believe Band sign.|"
+    {
+      "n": "Classic Stage",
+      "s": "1981-11-11",
+      "e": "1991-05-02"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-04-28",
+      "e": "2019-09-24",
+      "desc": "One of 4 3-Stages in Ohio to receive Concept Unification. Was in Poor Condition. Chuck lacked his teeth, Munch had Sunrise organ, and Stage lacked Munch's Make Believe Band sign."
+    }
   ],
   "downloadLinks": [
-    "https://archive.org/details/chuck-e.-cheeses-colerain-remodel-2009|Remodel Plans (2009)"
+    {
+      "url": "https://archive.org/details/chuck-e.-cheeses-colerain-remodel-2009",
+      "label": "Remodel Plans (2009)"
+    }
   ],
   "latitudeLongitude": [
     "39.22993802",

@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1982-01-28|0000-00-00|",
-    "Concept Unification Stage|1991-00-00|2006-10-00|One of 17 3-Stages in Texas to undergo Concept Unification. Was in Good Condition, Chuck had full rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, and Stage had Pizzacam.|"
+    {
+      "n": "Classic Stage",
+      "s": "1982-01-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2006-10-00",
+      "desc": "One of 17 3-Stages in Texas to undergo Concept Unification. Was in Good Condition, Chuck had full rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, and Stage had Pizzacam."
+    }
   ],
   "franchisees": [],
   "attractions": [],

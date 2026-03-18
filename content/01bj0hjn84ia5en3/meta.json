@@ -5,35 +5,146 @@
   "endDate": "2025-08-03",
   "cuDate": "1991-11-00",
   "remodels": [
-    "SPT 1980's Remodel Program|1990-00-00",
-    "SPT 1990's Remodel Program|1993-05-00",
-    "CEC 2000's Remodel Program|2007-00-00",
-    "CEC 2.0 Remodel Program|2019-09-00"
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-00-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-05-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2007-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2019-09-00"
+    }
   ],
   "stages": [
-    "Rock-afire Explosion|1983-12-01|1991-11-00",
-    "Concept Unification Stage|1991-00-00|2006-00-00|One of 3 3-Stages in Kentucky to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Beta.|",
-    "Studio C Beta|2007-00-00|2019-09-00",
-    "Chuck E. Live Stage (Dance Floor)|2019-09-00|2025-08-03"
+    {
+      "n": "Rock-afire Explosion",
+      "s": "1983-12-01",
+      "e": "1991-11-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2006-00-00",
+      "desc": "One of 3 3-Stages in Kentucky to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Beta."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "2007-00-00",
+      "e": "2019-09-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-09-00",
+      "e": "2025-08-03"
+    }
   ],
   "franchisees": [
-    "McBiz Corporation|1983-12-01|1996-09-16"
+    {
+      "n": "McBiz Corporation",
+      "s": "1983-12-01",
+      "e": "1996-09-16"
+    }
   ],
   "attractions": [],
   "animatronics": [
-    "Rolfe Dewolfe & Earl Schmerle (Animatronic)|1983-12-01|2007-00-00|1-83 1-1|Unknown",
-    "Dook Larue (Animatronic)|1983-12-01|2007-00-00|1-83 2-1|Unknown",
-    "Fatz Geronimo (Animatronic)|1983-12-01|2007-00-00|1-83 3-1|Unknown",
-    "Beach Bear (Animatronic)|1983-12-01|2007-00-00|1-83 4-1|Unknown",
-    "Mitzi Mozzarella (Animatronic)|1983-12-01|2007-00-00|1-83 5-1|Unknown",
-    "Billy Bob (Animatronic)|1983-12-01|1991-11-00|1-83 6-1|Unknown",
-    "Looney Bird (Animatronic)|1983-12-01|2007-00-00|1-83 7-1|Unknown",
-    "Choo Choo (Animatronic)|1983-12-01|1990s-00-00|1-83 8-1|Unknown",
-    "Sun (Animatronic)|1983-12-01|2007-00-00|1-83 11-1|Unknown",
-    "Moon (Animatronic)|1983-12-01|2007-00-00|1-83 11-1|Unknown",
-    "Antioch (Animatronic)|1981-11-11|1991-04-00|N/A|Unknown",
-    "Wink|1991-11-00|2007-00-00|N/A|Unknown",
-    "Chuck E. Cheese 16m (Animatronic)|2007-00-00|2019-09-00|Unknown|Unknown"
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 1-1",
+      "st": "Unknown"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 2-1",
+      "st": "Unknown"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 3-1",
+      "st": "Unknown"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 4-1",
+      "st": "Unknown"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 5-1",
+      "st": "Unknown"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "1983-12-01",
+      "e": "1991-11-00",
+      "l": "1-83 6-1",
+      "st": "Unknown"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 7-1",
+      "st": "Unknown"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "1983-12-01",
+      "e": "1990s-00-00",
+      "l": "1-83 8-1",
+      "st": "Unknown"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 11-1",
+      "st": "Unknown"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 11-1",
+      "st": "Unknown"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "1981-11-11",
+      "e": "1991-04-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "1991-11-00",
+      "e": "2007-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "2007-00-00",
+      "e": "2019-09-00",
+      "l": "Unknown",
+      "st": "Unknown"
+    }
   ],
   "sqft": "",
   "latitudeLongitude": [

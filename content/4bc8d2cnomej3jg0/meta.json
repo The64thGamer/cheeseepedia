@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Family Album|1984-06-00|1990-00-00|"
+    {
+      "n": "Family Album",
+      "s": "1984-06-00",
+      "e": "1990-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

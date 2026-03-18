@@ -6,8 +6,16 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Portrait / Shelf Stage|1980-10-20|0000-00-00|",
-    "Chuck E.'s House|0000-00-00|2008-04-27|"
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1980-10-20",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House",
+      "s": "0000-00-00",
+      "e": "2008-04-27"
+    }
   ],
   "franchisees": [],
   "attractions": [],

@@ -4,15 +4,31 @@
     "-111.8929381"
   ],
   "remodels": [
-    "CEC 2013 Update Program|2014-04-00",
-    "CEC 2.0 Remodel Program|2023-00-00"
+    {
+      "n": "CEC 2013 Update Program",
+      "s": "2014-04-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-00-00"
+    }
   ],
   "stages": [
-    "Circles of Light|2014-04-00|0000-00-00|Animatronic was removed during the 2.0 Remodel."
+    {
+      "n": "Circles of Light",
+      "s": "2014-04-00",
+      "e": "0000-00-00",
+      "desc": "Animatronic was removed during the 2.0 Remodel."
+    }
   ],
   "franchisees": [],
   "animatronics": [
-    "Chuck E. Cheese 32m (Animatronic)|2014-04-00|2023-00-00||Unknown/Destroyed. Came from the Phoenix, AZ (3329 E Bell Rd) location."
+    {
+      "n": "Chuck E. Cheese 32m (Animatronic)",
+      "s": "2014-04-00",
+      "e": "2023-00-00",
+      "st": "Unknown/Destroyed. Came from the Phoenix, AZ (3329 E Bell Rd) location."
+    }
   ],
   "attractions": [],
   "contributors": [

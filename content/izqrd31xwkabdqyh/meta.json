@@ -33,8 +33,14 @@
     "3-Stage SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/3stage_post_93_svhs_signals/September%201999%203-Stage-012.iso|Post '93 3-Stage SVHS w/ Signals",
-    "https://archive.org/download/studio_c_showtape_dvds/August%201999%20Studio%20C.iso|Studio C DVD ISO"
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/September%201999%203-Stage-012.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/August%201999%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    }
   ],
   "transcriptions": [
     "Rhythm Is Gonna Get You (August 1999)"

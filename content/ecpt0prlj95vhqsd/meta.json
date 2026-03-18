@@ -5,14 +5,28 @@
   "endDate": "",
   "cuDate": "",
   "remodels": [
-    "SPT 1990's Remodel Program|2003-06-00",
-    "CEC 2.0 Remodel Program|2026-02-00"
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2003-06-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2026-02-00"
+    }
   ],
   "stages": [
-    "Studio C Beta|2003-06-00|0000-00-00|"
+    {
+      "n": "Studio C Beta",
+      "s": "2003-06-00",
+      "e": "0000-00-00"
+    }
   ],
   "franchisees": [
-    "Unknown PR Franchise|2003-06-00|0000-00-00"
+    {
+      "n": "Unknown PR Franchise",
+      "s": "2003-06-00",
+      "e": "0000-00-00"
+    }
   ],
   "sqft": "",
   "latitudeLongitude": [

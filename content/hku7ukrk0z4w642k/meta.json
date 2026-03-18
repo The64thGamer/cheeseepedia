@@ -17,8 +17,14 @@
   "unitsProduced": "1200",
   "wholesalePrice": "$46.99",
   "downloadLinks": [
-    "https://archive.org/download/original-dreams-from-showbiz/Side%20A|Side A",
-    "https://archive.org/download/original-dreams-from-showbiz/Side%20B.flac|Side B"
+    {
+      "url": "https://archive.org/download/original-dreams-from-showbiz/Side%20A",
+      "label": "Side A"
+    },
+    {
+      "url": "https://archive.org/download/original-dreams-from-showbiz/Side%20B.flac",
+      "label": "Side B"
+    }
   ],
   "type": "Products",
   "tags": [

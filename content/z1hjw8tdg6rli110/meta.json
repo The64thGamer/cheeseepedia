@@ -1,14 +1,30 @@
 {
   "remodels": [
-    "CEC 2013 Update Program|2014-10-00",
-    "CEC 2.0 Remodel Program|2023-00-00"
+    {
+      "n": "CEC 2013 Update Program",
+      "s": "2014-10-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-00-00"
+    }
   ],
   "stages": [
-    "Circles of Light|2014-10-00|0000-00-00|Animatronic removed during the 2.0 remodel."
+    {
+      "n": "Circles of Light",
+      "s": "2014-10-00",
+      "e": "0000-00-00",
+      "desc": "Animatronic removed during the 2.0 remodel."
+    }
   ],
   "franchisees": [],
   "animatronics": [
-    "Chuck E. Cheese 16m (Animatronic)|2014-10-00|2023-00-00||Unknown/Destroyed. Came from the Kelso WA (351 Three Rivers Dr) location. Had Cool Chuck outfit until 2022"
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "2014-10-00",
+      "e": "2023-00-00",
+      "st": "Unknown/Destroyed. Came from the Kelso WA (351 Three Rivers Dr) location. Had Cool Chuck outfit until 2022"
+    }
   ],
   "attractions": [],
   "contributors": [

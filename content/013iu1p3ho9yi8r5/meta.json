@@ -17,7 +17,10 @@
     "CEI 4-Track Reel"
   ],
   "downloadLinks": [
-    "https://ia600506.us.archive.org/15/items/small-appliances-end-of-the-world-audio/Small%20Appliances%20-%20End%20of%20the%20World.mp3|Small Appliances / End of the World Outtake"
+    {
+      "url": "https://ia600506.us.archive.org/15/items/small-appliances-end-of-the-world-audio/Small%20Appliances%20-%20End%20of%20the%20World.mp3",
+      "label": "Small Appliances / End of the World Outtake"
+    }
   ],
   "alsoKnownAs": [
     "CREATIVE ENGINEERING WST110-082583 WHITE ALBUM SHOWTAPE LOW SPEED TAILWOUND 082583",

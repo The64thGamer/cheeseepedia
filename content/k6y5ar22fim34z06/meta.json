@@ -6,8 +6,16 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Balcony Stage|1981-12-30|0000-00-00|",
-    "Family Album|0000-00-00|1985-09-00|"
+    {
+      "n": "Balcony Stage",
+      "s": "1981-12-30",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Family Album",
+      "s": "0000-00-00",
+      "e": "1985-09-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

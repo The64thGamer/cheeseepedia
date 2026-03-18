@@ -6,9 +6,20 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Studio C Beta|2001-12-21|0000-00-00|",
-    "Star Stage|0000-00-00|0000-00-00|",
-    "Circles of Light|0000-00-00||"
+    {
+      "n": "Studio C Beta",
+      "s": "2001-12-21",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Star Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Circles of Light",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

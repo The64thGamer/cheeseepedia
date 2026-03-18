@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-11-14|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|1996-06-00|Only 3-Stage in Mississippi.|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-11-14",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "1996-06-00",
+      "desc": "Only 3-Stage in Mississippi."
+    }
   ],
   "franchisees": [],
   "attractions": [],

@@ -27,9 +27,18 @@
     "R12 SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/studio-c-floppy-discs-rips/SummertimeShowUpgradeUSAVersion.img|Studio C Floppy Disk",
-    "https://archive.org/download/studio-c-floppy-discs-rips/SummertimeV12.img|Studio C Floppy Disk (Ver. 1.2)",
-    "https://archive.org/download/studio_c_showtape_dvds/July%202003%20Studio%20C.iso|Studio C DVD ISO"
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/SummertimeShowUpgradeUSAVersion.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/SummertimeV12.img",
+      "label": "Studio C Floppy Disk (Ver. 1.2)"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/July%202003%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    }
   ],
   "type": "Showtapes",
   "tags": [

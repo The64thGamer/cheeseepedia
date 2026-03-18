@@ -6,9 +6,22 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Balcony Stage|1983-04-18|0000-00-00|",
-    "Chuck E.'s House Facade|0000-00-00|0000-00-00|",
-    "2-Stage|1992-04-00|1995-00-00|One of many installed in California. One of the first 2-Stages installed. Sent to Chesapeake, VA (1528 Sam's Circle)|"
+    {
+      "n": "Balcony Stage",
+      "s": "1983-04-18",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1992-04-00",
+      "e": "1995-00-00",
+      "desc": "One of many installed in California. One of the first 2-Stages installed. Sent to Chesapeake, VA (1528 Sam's Circle)"
+    }
   ],
   "franchisees": [],
   "attractions": [],

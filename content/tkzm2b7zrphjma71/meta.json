@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-03-17|0000-00-00|",
-    "Concept Unification Stage|1991-00-00|1997-07-00|One of 2 3-Stages in Utah to get Concept Unification.|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-03-17",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "1997-07-00",
+      "desc": "One of 2 3-Stages in Utah to get Concept Unification."
+    }
   ],
   "franchisees": [],
   "attractions": [],

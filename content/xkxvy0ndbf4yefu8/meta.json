@@ -32,6 +32,9 @@
     "Chuck E. Cheese's"
   ],
   "downloadLinks": [
-    "https://archive.org/details/rollin_202512|Early Showtape Cut"
+    {
+      "url": "https://archive.org/details/rollin_202512",
+      "label": "Early Showtape Cut"
+    }
   ]
 }

@@ -20,16 +20,35 @@
   "sqft": "7,400",
   "attractions": [],
   "animatronics": [
-    "Chuck E. Cheese 16m (Animatronic)|2003-07-30|2025-11-23|Unknown|Unknown"
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "2003-07-30",
+      "e": "2025-11-23",
+      "l": "Unknown",
+      "st": "Unknown"
+    }
   ],
   "franchisees": [],
   "remodels": [
-    "SPT 1990's Remodel Program|2003-07-30",
-    "CEC 2000's Remodel Program|2012-00-00",
-    "Low Volume Store Initiative|0000-00-00"
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2003-07-30"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2012-00-00"
+    },
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "0000-00-00"
+    }
   ],
   "stages": [
-    "Studio C Cappa|2003-07-30|2025-11-23"
+    {
+      "n": "Studio C Cappa",
+      "s": "2003-07-30",
+      "e": "2025-11-23"
+    }
   ],
   "downloadLinks": [],
   "latitudeLongitude": [

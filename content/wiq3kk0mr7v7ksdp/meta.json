@@ -13,7 +13,10 @@
     "https://youtu.be/GD1jrn7v-jI"
   ],
   "downloadLinks": [
-    "https://gamejolt.com/get/build?game=750950&build=1701144|Current Game Build"
+    {
+      "url": "https://gamejolt.com/get/build?game=750950&build=1701144",
+      "label": "Current Game Build"
+    }
   ],
   "type": "Simulators",
   "tags": [

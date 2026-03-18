@@ -27,32 +27,109 @@
   "storeNumber": "102",
   "sqft": "",
   "attractions": [
-    "Trampoline Zone|2024-08-26||",
-    "Superhero Playground|2025-10-28||"
+    {
+      "n": "Trampoline Zone",
+      "s": "2024-08-26"
+    },
+    {
+      "n": "Superhero Playground",
+      "s": "2025-10-28"
+    }
   ],
   "animatronics": [
-    "Mr. Munch (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown",
-    "Jasper T. Jowls (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown",
-    "Chuck E. Cheese (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown",
-    "Guest Star / Helen Henny (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown",
-    "Pasqually (Cyberamic)|1990-06-17|2005-00-00|N/A|Unknown",
-    "Chuck E. Cheese 16m (Animatronic)|2005-00-00|2024-04-07|1106|Dismantled, thrown into dumpster"
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1990-06-17",
+      "e": "2005-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1990-06-17",
+      "e": "2005-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1990-06-17",
+      "e": "2005-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1990-06-17",
+      "e": "2005-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1990-06-17",
+      "e": "2005-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "2005-00-00",
+      "e": "2024-04-07",
+      "l": "1106",
+      "st": "Dismantled, thrown into dumpster"
+    }
   ],
   "franchisees": [
-    "Bernstein Restaurant Group|1990-06-17|2008-08-25"
+    {
+      "n": "Bernstein Restaurant Group",
+      "s": "1990-06-17",
+      "e": "2008-08-25"
+    }
   ],
   "remodels": [
-    "SPT 1980's Remodel Program|1990-06-17",
-    "SPT 1990's Remodel Program|1998-00-00",
-    "CEC 2000's Remodel Program|2005-11-00",
-    "CEC 2.0 Remodel Program|2024-05-29"
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-06-17"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1998-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2005-11-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-05-29"
+    }
   ],
   "stages": [
-    "Chuck E.'s House|1990-06-16|2005-00-00",
-    "Studio C Cappa|2005-00-00|2012-00-00",
-    "Studio C Beta|2012-00-00|2024-04-07",
-    "Chuck E. Live Stage (Dance Floor)|2024-04-09| |2021 Model|",
-    "Video Wall|2024-04-09||"
+    {
+      "n": "Chuck E.'s House",
+      "s": "1990-06-16",
+      "e": "2005-00-00"
+    },
+    {
+      "n": "Studio C Cappa",
+      "s": "2005-00-00",
+      "e": "2012-00-00"
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "2012-00-00",
+      "e": "2024-04-07"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-04-09",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2024-04-09"
+    }
   ],
   "downloadLinks": [],
   "latitudeLongitude": [

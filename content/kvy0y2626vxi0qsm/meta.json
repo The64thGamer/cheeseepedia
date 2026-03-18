@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-12-00|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|1998-04-22|One of 7 3-Stages in Alabama to undergo Concept Unification.|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-12-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "1998-04-22",
+      "desc": "One of 7 3-Stages in Alabama to undergo Concept Unification."
+    }
   ],
   "franchisees": [],
   "attractions": [],

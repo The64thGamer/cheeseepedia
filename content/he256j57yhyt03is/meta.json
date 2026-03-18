@@ -6,8 +6,16 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "1-Stage|1993-10-04|2019-11-11|",
-    "Chuck E. Live Stage (Dance Floor)|2019-11-11||2019 Model|"
+    {
+      "n": "1-Stage",
+      "s": "1993-10-04",
+      "e": "2019-11-11"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-11-11",
+      "desc": "2019 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

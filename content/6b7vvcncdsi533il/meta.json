@@ -27,8 +27,14 @@
     "Cyberamics DVD"
   ],
   "downloadLinks": [
-    "https://archive.org/download/3stage_dvd_signals/January%202010%203-Stage-008.iso|3-Stage DVD ISO w/ Signals",
-    "https://archive.org/download/studio_c_showtape_dvds/January%202010%20Studio%20C-004.iso|Studio C DVD 1 & 2 ISO"
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/January%202010%203-Stage-008.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/January%202010%20Studio%20C-004.iso",
+      "label": "Studio C DVD 1 & 2 ISO"
+    }
   ],
   "type": "Showtapes",
   "tags": [

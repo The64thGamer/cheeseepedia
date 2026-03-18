@@ -6,9 +6,22 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Chuck E.'s House|1988-09-27|0000-00-00|",
-    "1-Stage|1994-00-00|2019-00-00|1-Stage w/ Turntable|",
-    "Chuck E. Live Stage (Dance Floor)|2019-11-00||2021 Model|"
+    {
+      "n": "Chuck E.'s House",
+      "s": "1988-09-27",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "1-Stage",
+      "s": "1994-00-00",
+      "e": "2019-00-00",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-11-00",
+      "desc": "2021 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

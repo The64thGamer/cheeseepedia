@@ -28,6 +28,9 @@
     "Chuck E. Cheese's"
   ],
   "downloadLinks": [
-    "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Grammy%20Awards%20Showtape/027-0688-01%20s000036%20maybe.wav|Showtape Rip w/ Signals"
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Grammy%20Awards%20Showtape/027-0688-01%20s000036%20maybe.wav",
+      "label": "Showtape Rip w/ Signals"
+    }
   ]
 }

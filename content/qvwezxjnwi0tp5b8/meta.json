@@ -32,8 +32,14 @@
     "3-Stage SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/studio-c-floppy-discs-rips/Sept2004ShowUpgrade.img|Studio C Floppy Disk",
-    "https://archive.org/download/studio_c_showtape_dvds/September%202004%20Studio%20C.iso|Studio C DVD ISO"
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Sept2004ShowUpgrade.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/September%202004%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    }
   ],
   "type": "Showtapes",
   "tags": [

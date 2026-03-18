@@ -30,8 +30,14 @@
     "Cyberamics DVD"
   ],
   "downloadLinks": [
-    "https://archive.org/compress/january-show-2012-unused|Unused Original Audio",
-    "https://archive.org/download/3stage_dvd_signals/January%202012%203-Stage-004.iso|3-Stage DVD ISO w/ Signals"
+    {
+      "url": "https://archive.org/compress/january-show-2012-unused",
+      "label": "Unused Original Audio"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/January%202012%203-Stage-004.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

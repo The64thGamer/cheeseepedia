@@ -19,7 +19,10 @@
     "Cyberamics Reel"
   ],
   "downloadLinks": [
-    "https://archive.org/download/artie-antlers/Artie%20Antlers.wav|Showtape Reel w/ Signals"
+    {
+      "url": "https://archive.org/download/artie-antlers/Artie%20Antlers.wav",
+      "label": "Showtape Reel w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

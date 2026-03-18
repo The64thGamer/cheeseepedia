@@ -16,48 +16,247 @@
     "-75.5654415"
   ],
   "stages": [
-    "Studio C Cappa|2004-08-06|2026-04-04|Version 2"
+    {
+      "n": "Studio C Cappa",
+      "s": "2004-08-06",
+      "e": "2026-04-04",
+      "desc": "Version 2"
+    }
   ],
   "attractions": [
-    "Polar Slide|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Galaga Assault|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Launch Code|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Operation|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Jack Pot Extreme|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Paw Patrol|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Choppy Wood|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Basketball Pro|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Trolls|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Harpoon Lagoon|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Big Bass Wheel Pro|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Avengers Coin Pusher|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Barrel of Monkeys|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Plinko|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "NBA Hoops|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Alleyroller Classic|0000-00-00|2026-04-06|4 Lanes Seen in the 2025 Store Tour by Liam's Explorations",
-    "The Simpsons Soccer|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Baseball Pro Junior|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Dog Pounder|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Trampoline Zone|2024-00-00|2026-04-04|3-pad variant seen in the 2025 Store Tour by Liam's Explorations",
-    "Fast & Furious Super Cars|0000-00-00|2026-04-04|2 machines seen in the 2025 Store Tour by Liam's Explorations",
-    "Whack and Win|0000-00-00|2026-04-04|Small variant seen in the 2025 Store Tour by Liam's Explorations",
-    "Eiffel Tower|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Golden Empire|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Luigi's Mansion Arcade|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Pop It for Gold|0000-00-00|2026-04-04|CEC Avenger branded seen in the 2025 Store Tour by Liam's Explorations",
-    "Chuck E. Cheese's Sketch Book|2004-08-06|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Spongebob Squarepants Bikini Bottom Bowling|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Pirate Hook|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "PJ Masks|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Deadstorm Pirates|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Jett Rider|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Hot Racer|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Chuck E. Cheese's Rainbow|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Super Big Rig|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "High Five!|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Kitty Cars Racing|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Minions Ride|0000-00-00|2026-04-04|Seen in the 2025 Store Tour by Liam's Explorations",
-    "Chuck E. Cheese's Color Photo Ride (Rockstar 2019)||2026-04-04|Camera and printer removed in Summer 2025 mix of Avenger and Rockstar graphics seen in the 2025 Store Tour by Liam's Explorations"
+    {
+      "n": "Polar Slide",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Galaga Assault",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Launch Code",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Operation",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Jack Pot Extreme",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Paw Patrol",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Choppy Wood",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Basketball Pro",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Trolls",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Harpoon Lagoon",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Big Bass Wheel Pro",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Avengers Coin Pusher",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Barrel of Monkeys",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Plinko",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "NBA Hoops",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Alleyroller Classic",
+      "s": "0000-00-00",
+      "e": "2026-04-06",
+      "desc": "4 Lanes Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "The Simpsons Soccer",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Baseball Pro Junior",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Dog Pounder",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Trampoline Zone",
+      "s": "2024-00-00",
+      "e": "2026-04-04",
+      "desc": "3-pad variant seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Fast & Furious Super Cars",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "2 machines seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Whack and Win",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Small variant seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Eiffel Tower",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Golden Empire",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Luigi's Mansion Arcade",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Pop It for Gold",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "CEC Avenger branded seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Chuck E. Cheese's Sketch Book",
+      "s": "2004-08-06",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Spongebob Squarepants Bikini Bottom Bowling",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Pirate Hook",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "PJ Masks",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Deadstorm Pirates",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Jett Rider",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Hot Racer",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Chuck E. Cheese's Rainbow",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Super Big Rig",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "High Five!",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Kitty Cars Racing",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Minions Ride",
+      "s": "0000-00-00",
+      "e": "2026-04-04",
+      "desc": "Seen in the 2025 Store Tour by Liam's Explorations"
+    },
+    {
+      "n": "Chuck E. Cheese's Color Photo Ride (Rockstar 2019)",
+      "e": "2026-04-04",
+      "desc": "Camera and printer removed in Summer 2025 mix of Avenger and Rockstar graphics seen in the 2025 Store Tour by Liam's Explorations"
+    }
   ],
   "type": "Locations",
   "tags": [

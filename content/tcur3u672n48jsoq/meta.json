@@ -17,7 +17,10 @@
     "3-Stage SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/cyberamics_post_93_svhs_signals/Best%20of%2093%20CEC-Stage-006.iso|Incomplete R12 SVHS RIP w/ Signals"
+    {
+      "url": "https://archive.org/download/cyberamics_post_93_svhs_signals/Best%20of%2093%20CEC-Stage-006.iso",
+      "label": "Incomplete R12 SVHS RIP w/ Signals"
+    }
   ],
   "transcriptions": [
     "CEC TV News Safety",

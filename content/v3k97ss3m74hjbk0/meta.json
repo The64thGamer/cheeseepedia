@@ -36,37 +36,137 @@
   "storeNumber": "",
   "sqft": "12,000",
   "attractions": [
-    "Skee Ball|0000-00-00|2009-00-00|6 Units, Sent to Goodyear, AZ.",
-    "Penalty Shoot Out|0000-00-00|0000-00-00",
-    "Chuck E. Cheese's Super Shot|0000-00-00|0000-00-00",
-    "Skytubes|0000-00-00|0000-00-00",
-    "Frantic Fred|0000-00-00|0000-00-00",
-    "Chuck E. Cheese's Photo Ride (1997)|0000-00-00|0000-00-00",
-    "Tik Tak Clock|0000-00-00|0000-00-00",
-    "Amutec Turbo Car|0000-00-00|0000-00-00",
-    "Jungle Joggers|0000-00-00|0000-00-00",
-    "Frog Song|0000-00-00|0000-00-00",
-    "Buzzy Buzzy Bee|0000-00-00|0000-00-00",
-    "Fetch The Vet|0000-00-00|0000-00-00",
-    "Toddler Zone|0000-00-00|2009-00-00",
-    "Chuck E. Cheese's Pizza Delivery|0000-00-00|2009-00-00|Sent to Goodyear, AZ.",
-    "Chuck E. Cheese's Pow-Air Play|0000-00-00|0000-00-00"
+    {
+      "n": "Skee Ball",
+      "s": "0000-00-00",
+      "e": "2009-00-00",
+      "desc": "6 Units, Sent to Goodyear, AZ."
+    },
+    {
+      "n": "Penalty Shoot Out",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Super Shot",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Skytubes",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Frantic Fred",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Photo Ride (1997)",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Tik Tak Clock",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Amutec Turbo Car",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Jungle Joggers",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Frog Song",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Buzzy Buzzy Bee",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Fetch The Vet",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Toddler Zone",
+      "s": "0000-00-00",
+      "e": "2009-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Pizza Delivery",
+      "s": "0000-00-00",
+      "e": "2009-00-00",
+      "desc": "Sent to Goodyear, AZ."
+    },
+    {
+      "n": "Chuck E. Cheese's Pow-Air Play",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
   ],
   "animatronics": [
-    "Chuck E. Cheese 32m (Animatronic)|1999-09-00|2009-00-00|053|Sent to Goodyear, AZ",
-    "Bird (Animatronic)|1999-09-00|2009-00-00|Unknown|Unknown.",
-    "Pizza Phone (Animatronic)|1999-09-00|2009-00-00|Unknown|Unknown.",
-    "Pizza Time Clock (Animatronic)|1999-09-00|2009-00-00|N/A|Sent to Goodyear, AZ"
+    {
+      "n": "Chuck E. Cheese 32m (Animatronic)",
+      "s": "1999-09-00",
+      "e": "2009-00-00",
+      "l": "053",
+      "st": "Sent to Goodyear, AZ"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "1999-09-00",
+      "e": "2009-00-00",
+      "l": "Unknown",
+      "st": "Unknown."
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "1999-09-00",
+      "e": "2009-00-00",
+      "l": "Unknown",
+      "st": "Unknown."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "1999-09-00",
+      "e": "2009-00-00",
+      "l": "N/A",
+      "st": "Sent to Goodyear, AZ"
+    }
   ],
   "franchisees": [
-    "Melvin Entertainment|1999-09-00|2009-00-00"
+    {
+      "n": "Melvin Entertainment",
+      "s": "1999-09-00",
+      "e": "2009-00-00"
+    }
   ],
   "remodels": [
-    "SPT 1990's Remodel Program|1999-09-00",
-    "Phase 3 (2000)|0000-00-00"
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1999-09-00"
+    },
+    {
+      "n": "Phase 3 (2000)",
+      "s": "0000-00-00"
+    }
   ],
   "stages": [
-    "Studio C Alpha|1999-09-00|2009-00-00|"
+    {
+      "n": "Studio C Alpha",
+      "s": "1999-09-00",
+      "e": "2009-00-00"
+    }
   ],
   "downloadLinks": [],
   "latitudeLongitude": [

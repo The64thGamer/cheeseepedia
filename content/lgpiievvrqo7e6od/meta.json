@@ -6,7 +6,12 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "2-Stage|1992-11-00|2020-05-00|One of 5 installed in Massachusetts.|"
+    {
+      "n": "2-Stage",
+      "s": "1992-11-00",
+      "e": "2020-05-00",
+      "desc": "One of 5 installed in Massachusetts."
+    }
   ],
   "franchisees": [],
   "attractions": [],

@@ -22,10 +22,21 @@
     "-78.61504223"
   ],
   "remodels": [
-    "PTT Standard Layout|1980-11-00",
-    "PTT 1981 Exterior Update|0000-00-00"
+    {
+      "n": "PTT Standard Layout",
+      "s": "1980-11-00"
+    },
+    {
+      "n": "PTT 1981 Exterior Update",
+      "s": "0000-00-00"
+    }
   ],
   "stages": [
-    "Balcony Stage|1980-11-00|1984-10-00|Unstandardized Stage."
+    {
+      "n": "Balcony Stage",
+      "s": "1980-11-00",
+      "e": "1984-10-00",
+      "desc": "Unstandardized Stage."
+    }
   ]
 }

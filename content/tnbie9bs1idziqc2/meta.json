@@ -39,6 +39,9 @@
     "Dolli Dimples 1 (Cabaret Portion)"
   ],
   "downloadLinks": [
-    "https://archive.org/details/dollidimples/Audio+01.wav|Donna Miller Session Recording 1 (November 9, 1978)"
+    {
+      "url": "https://archive.org/details/dollidimples/Audio+01.wav",
+      "label": "Donna Miller Session Recording 1 (November 9, 1978)"
+    }
   ]
 }

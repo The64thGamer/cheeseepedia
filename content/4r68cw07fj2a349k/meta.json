@@ -24,7 +24,10 @@
     "AAM 2x Laserdisc + Files"
   ],
   "downloadLinks": [
-    "https://archive.org/details/awesome-adventure-machine-april-1997-flacs|Direct Showtape Audio Rips"
+    {
+      "url": "https://archive.org/details/awesome-adventure-machine-april-1997-flacs",
+      "label": "Direct Showtape Audio Rips"
+    }
   ],
   "type": "Showtapes",
   "tags": [

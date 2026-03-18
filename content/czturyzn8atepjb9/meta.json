@@ -5,10 +5,18 @@
   "endDate": "2025-09-01",
   "cuDate": "",
   "remodels": [
-    "Low Volume Store Initiative|2024-04-00"
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "2024-04-00"
+    }
   ],
   "stages": [
-    "2-Stage|1993-00-00|2025-09-01|Last 2-Stage in Maryland. Pasqually's Brick Wall isn't present in this location.|"
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2025-09-01",
+      "desc": "Last 2-Stage in Maryland. Pasqually's Brick Wall isn't present in this location."
+    }
   ],
   "franchisees": [],
   "attractions": [],

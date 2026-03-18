@@ -31,10 +31,22 @@
     "3-Stage SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/studio-c-floppy-discs-rips/Sept2001Upgrade.img|Studio C Floppy Disk",
-    "https://archive.org/download/studio-c-floppy-discs-rips/Sept2001Version2.img|Studio C Floppy Disk (Ver. 2)",
-    "https://archive.org/download/studio_c_showtape_dvds/September%202001%20Studio%20C.iso|Studio C DVD ISO",
-    "https://archive.org/download/cyberamics_post_93_svhs_signals/September%202001%20CEC-Stage.iso|CEC-Stage SVHS"
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Sept2001Upgrade.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Sept2001Version2.img",
+      "label": "Studio C Floppy Disk (Ver. 2)"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/September%202001%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    },
+    {
+      "url": "https://archive.org/download/cyberamics_post_93_svhs_signals/September%202001%20CEC-Stage.iso",
+      "label": "CEC-Stage SVHS"
+    }
   ],
   "type": "Showtapes",
   "tags": [

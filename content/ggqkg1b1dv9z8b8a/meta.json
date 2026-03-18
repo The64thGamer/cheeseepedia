@@ -6,9 +6,21 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-01-12|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|2022-08-10|One of 4 3-Stages in Ohio to receive Concept Unification. Last 3-Stage in Ohio from June 2020 until show removal in August 2022. Was in Poor Condition.|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00||"
+    {
+      "n": "Classic Stage",
+      "s": "1983-01-12",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2022-08-10",
+      "desc": "One of 4 3-Stages in Ohio to receive Concept Unification. Last 3-Stage in Ohio from June 2020 until show removal in August 2022. Was in Poor Condition."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

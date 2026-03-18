@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "1-Stage|1993-06-14|2020-06-25|"
+    {
+      "n": "1-Stage",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    }
   ],
   "franchisees": [],
   "attractions": [],

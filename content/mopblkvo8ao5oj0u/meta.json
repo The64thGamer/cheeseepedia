@@ -5,39 +5,176 @@
   "endDate": "1985-00-00",
   "cuDate": "",
   "remodels": [
-    "SPP Standard Layout|1982-11-11"
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-11-11"
+    }
   ],
   "stages": [
-    "Classic Stage|1982-11-11|1985-00-00|"
+    {
+      "n": "Classic Stage",
+      "s": "1982-11-11",
+      "e": "1985-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [
-    "Q*Bert|1983-02-00|1985-00-00|Mentioned in 1983 advertisement and auction advertisment",
-    "Popeye|1983-02-00|0000-00-00|Mentioned in 1983 advertisement",
-    "Baby Pac Man|1983-02-00|0000-00-00|Mentioned in 1983 advertisement",
-    "Zaxxxon|0000-00-00|1985-00-00|Mentioned in auction advertisment",
-    "Donkey Kong|0000-00-00|1985-00-00|Mentioned in auction advertisment",
-    "Centipede|0000-00-00|1985-00-00|Mentioned in auction advertisment",
-    "Star Wars|0000-00-00|1985-00-00|Mentioned in auction advertisment",
-    "Helicopter|0000-00-00|1985-00-00|Mentioned in auction advertisment",
-    "Horse|0000-00-00|1985-00-00|Mentioned in auction advertisment",
-    "Car|0000-00-00|1985-00-00|Mentioned in auction advertisment",
-    "Airplane|0000-00-00|1985-00-00|Mentioned in auction advertisment",
-    "Skeeball|0000-00-00|1985-00-00|10-12 Lanes, Mentioned in auction advertisment"
+    {
+      "n": "Q*Bert",
+      "s": "1983-02-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in 1983 advertisement and auction advertisment"
+    },
+    {
+      "n": "Popeye",
+      "s": "1983-02-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in 1983 advertisement"
+    },
+    {
+      "n": "Baby Pac Man",
+      "s": "1983-02-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in 1983 advertisement"
+    },
+    {
+      "n": "Zaxxxon",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Donkey Kong",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Centipede",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Star Wars",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Helicopter",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Horse",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Car",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Airplane",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Skeeball",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "10-12 Lanes, Mentioned in auction advertisment"
+    }
   ],
   "animatronics": [
-    "Rolfe Dewolfe & Earl Schmerle (Animatronic)|1982-11-11|1985-00-00|4-82 1-2|Purchased by Jungle Jim's International Market",
-    "Dook Larue (Animatronic)|1982-11-11|1985-00-00|4-82 2-2|Purchased by Jungle Jim's International Market",
-    "Fatz Geronimo (Animatronic)|1982-11-11|1985-00-00|4-81 3-2|Purchased by Jungle Jim's International Market",
-    "Beach Bear (Animatronic)|1982-11-11|1985-00-00|4-82 4-2|Purchased by Jungle Jim's International Market, base used for Nirobi Trio",
-    "Mitzi Mozzarella (Animatronic)|1982-11-11|1985-00-00|4-82 5-2|Purchased by Jungle Jim's International Market",
-    "Billy Bob (Animatronic)|1982-11-11|1985-00-00|4-82 6-2|Purchased by Jungle Jim's International Market, used for Nirobi Trio",
-    "Looney Bird (Animatronic)|1982-11-11|1985-00-00|4-82 7-2|Purchased by Jungle Jim's International Market",
-    "Choo Choo (Animatronic)|1982-11-11|1985-00-00|4-82 8-2|Purchased by Jungle Jim's International Market",
-    "Sun (Animatronic)|1982-11-11|1985-00-00|4-82 11-2|Purchased by Jungle Jim's International Market",
-    "Moon (Animatronic)|1982-11-11|1985-00-00|4-82 11-2|Purchased by Jungle Jim's International Market",
-    "Antioch (Animatronic)|1982-11-11|1985-00-00||Purchased by Jungle Jim's International Market",
-    "Uncle Klunk (Animatronic)|1983-07-00|1983-12-00||Unknown"
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 1-2",
+      "st": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 2-2",
+      "st": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-81 3-2",
+      "st": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 4-2",
+      "st": "Purchased by Jungle Jim's International Market, base used for Nirobi Trio"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 5-2",
+      "st": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 6-2",
+      "st": "Purchased by Jungle Jim's International Market, used for Nirobi Trio"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 7-2",
+      "st": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 8-2",
+      "st": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 11-2",
+      "st": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 11-2",
+      "st": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "st": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Uncle Klunk (Animatronic)",
+      "s": "1983-07-00",
+      "e": "1983-12-00",
+      "st": "Unknown"
+    }
   ],
   "sqft": "",
   "latitudeLongitude": [

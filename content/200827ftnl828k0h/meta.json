@@ -39,6 +39,9 @@
     "The Galaxy 5000 Starring Chuck E. Cheese"
   ],
   "downloadLinks": [
-    "https://archive.org/download/chuck-e.-cheese-in-the-galaxy-5000/Chuck%20E.%20Cheese%20In%20the%20Galaxy%205000.m4v|VHS Rip"
+    {
+      "url": "https://archive.org/download/chuck-e.-cheese-in-the-galaxy-5000/Chuck%20E.%20Cheese%20In%20the%20Galaxy%205000.m4v",
+      "label": "VHS Rip"
+    }
   ]
 }

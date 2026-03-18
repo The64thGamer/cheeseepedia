@@ -6,9 +6,22 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1981-06-17|0000-00-00|",
-    "Chuck E.'s House|0000-00-00|0000-00-00|",
-    "1-Stage|1994-00-00|1995-00-00|1-Stage w/ Turntable|"
+    {
+      "n": "Classic Stage",
+      "s": "1981-06-17",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "1-Stage",
+      "s": "1994-00-00",
+      "e": "1995-00-00",
+      "desc": "1-Stage w/ Turntable"
+    }
   ],
   "franchisees": [],
   "attractions": [],

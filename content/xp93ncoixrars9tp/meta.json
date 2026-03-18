@@ -17,7 +17,10 @@
   ],
   "mediaDuration": "6:10",
   "downloadLinks": [
-    "https://archive.org/details/northridge-announcement-original-audio|Original Full Showtape Audio"
+    {
+      "url": "https://archive.org/details/northridge-announcement-original-audio",
+      "label": "Original Full Showtape Audio"
+    }
   ],
   "transcriptions": [
     "Northridge Legacy Announcement"

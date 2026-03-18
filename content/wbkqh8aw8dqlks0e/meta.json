@@ -6,9 +6,22 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-06-21|0000-00-00|",
-    "Concept Unification Stage|1991-00-00|2022-08-00|One of 5 3-Stages in Virginia to undergo Concept Unification. Was in Very Poor Condition. Jasper had Beach Bear Guitar, Pasqually had blue explosion drumfront, stage lacked the Wink, and had black Pizzacam.|",
-    "Chuck E. Live Stage (Dance Floor)|2022-07-00||2021 Model|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-06-21",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2022-08-00",
+      "desc": "One of 5 3-Stages in Virginia to undergo Concept Unification. Was in Very Poor Condition. Jasper had Beach Bear Guitar, Pasqually had blue explosion drumfront, stage lacked the Wink, and had black Pizzacam."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-07-00",
+      "desc": "2021 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

@@ -6,9 +6,21 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "2-Stage|1993-01-00|2007-00-00|Replaced by Studio C Beta 16M.|",
-    "Studio C Beta|0000-00-00|0000-00-00|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00||"
+    {
+      "n": "2-Stage",
+      "s": "1993-01-00",
+      "e": "2007-00-00",
+      "desc": "Replaced by Studio C Beta 16M."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

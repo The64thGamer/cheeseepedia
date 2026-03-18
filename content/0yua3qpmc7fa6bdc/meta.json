@@ -28,31 +28,126 @@
   "sqft": "",
   "attractions": [],
   "animatronics": [
-    "Rolfe Dewolfe & Earl Schmerle (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Chuck E. Cheese, then unknown/destroyed",
-    "Dook Larue (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Pasqually, then unknown/destroyed",
-    "Fatz Geronimo (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Mr. Munch, then unknown/destroyed",
-    "Beach Bear (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Jasper T. Jowls, then unknown/destroyed",
-    "Mitzi Mozzeralla (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Helen Henny, then unknown/destroyed",
-    "Billy Bob (Animatronic)|1983-10-28|1990-10-00|unknown|dismantled during cleanout",
-    "Looney Bird (Animatronic)|1983-10-28|2000s-00-00|unknown|converted to Pizzacam, then unknown/destroyed",
-    "Choo Choo (Animatronic)|1983-10-28|200s-00-00|unknown|converted to Munch Jr., then unknown/destroyed",
-    "Sun (Animatronic)|1983-10-28|2000s-00-00|unknown|converted to Building, then unknown/destroyed",
-    "Moon (Animatronic)|1983-10-28|2000s-00-00|unknown|left alone, then unknown/destroyed",
-    "Antioch (Animatronic)|1983-10-28|2022-12-28|unknown|converted to Wink, then unknown/destroyed"
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "1983-10-28",
+      "e": "2022-12-28",
+      "l": "unknown",
+      "st": "converted to Chuck E. Cheese, then unknown/destroyed"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "1983-10-28",
+      "e": "2022-12-28",
+      "l": "unknown",
+      "st": "converted to Pasqually, then unknown/destroyed"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "1983-10-28",
+      "e": "2022-12-28",
+      "l": "unknown",
+      "st": "converted to Mr. Munch, then unknown/destroyed"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "1983-10-28",
+      "e": "2022-12-28",
+      "l": "unknown",
+      "st": "converted to Jasper T. Jowls, then unknown/destroyed"
+    },
+    {
+      "n": "Mitzi Mozzeralla (Animatronic)",
+      "s": "1983-10-28",
+      "e": "2022-12-28",
+      "l": "unknown",
+      "st": "converted to Helen Henny, then unknown/destroyed"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "1983-10-28",
+      "e": "1990-10-00",
+      "l": "unknown",
+      "st": "dismantled during cleanout"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "1983-10-28",
+      "e": "2000s-00-00",
+      "l": "unknown",
+      "st": "converted to Pizzacam, then unknown/destroyed"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "1983-10-28",
+      "e": "200s-00-00",
+      "l": "unknown",
+      "st": "converted to Munch Jr., then unknown/destroyed"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "1983-10-28",
+      "e": "2000s-00-00",
+      "l": "unknown",
+      "st": "converted to Building, then unknown/destroyed"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "1983-10-28",
+      "e": "2000s-00-00",
+      "l": "unknown",
+      "st": "left alone, then unknown/destroyed"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "1983-10-28",
+      "e": "2022-12-28",
+      "l": "unknown",
+      "st": "converted to Wink, then unknown/destroyed"
+    }
   ],
   "franchisees": [
-    "Mark Scurr (c14)|1987-00-00|0000-00-00",
-    "Melvin Entertainment (c15)|2006-00-00|0000-00-00"
+    {
+      "n": "Mark Scurr (c14)",
+      "s": "1987-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Melvin Entertainment (c15)",
+      "s": "2006-00-00",
+      "e": "0000-00-00"
+    }
   ],
   "remodels": [
-    "SPT 1980's Remodel Program|1990-10-00",
-    "Phase 2 (1993)|1996-00-00",
-    "CEC 2000's Remodel Program|0000-00-00",
-    "CEC 2.0 Remodel Program|2022-12-29"
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-10-00"
+    },
+    {
+      "n": "Phase 2 (1993)",
+      "s": "1996-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-12-29"
+    }
   ],
   "stages": [
-    "Classic Stage|1983-10-28|1990-10-00",
-    "Concept Unification Stage|1990-11-00|2023-12-28|One of 2 3-Stages in Arizona to undergo Concept Unification. Oldest CU 3-Stage conversion show in operation from summer 2001 until being removed between late 2022 and early 2023. Last 3-Stage in Arizona from 1998 until stage removal between late 2022/early 2023. Last 3-Stage with early CU backgrounds. Was in decent condition. Chuck had rare 'Cool Chuck' outfit, stage lacked Munch's Make Believe Band Sign for some time, and Wink had the 'In Pizza We Trust' slogan.|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-10-28",
+      "e": "1990-10-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1990-11-00",
+      "e": "2023-12-28",
+      "desc": "One of 2 3-Stages in Arizona to undergo Concept Unification. Oldest CU 3-Stage conversion show in operation from summer 2001 until being removed between late 2022 and early 2023. Last 3-Stage in Arizona from 1998 until stage removal between late 2022/early 2023. Last 3-Stage with early CU backgrounds. Was in decent condition. Chuck had rare 'Cool Chuck' outfit, stage lacked Munch's Make Believe Band Sign for some time, and Wink had the 'In Pizza We Trust' slogan."
+    }
   ],
   "downloadLinks": [],
   "latitudeLongitude": [

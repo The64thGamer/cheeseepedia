@@ -6,7 +6,10 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Circles of Light|2018-10-00||"
+    {
+      "n": "Circles of Light",
+      "s": "2018-10-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

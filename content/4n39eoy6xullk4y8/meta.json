@@ -5,32 +5,128 @@
   "endDate": "1998-00-00",
   "cuDate": "",
   "remodels": [
-    "PTT Standard Layout|1979-10-00",
-    "PTT 1981 Exterior Update|0000-00-00",
-    "PTT Early Cyberamic Replacements|1983-00-00",
-    "SPT 1980's Remodel Program|0000-00-00"
+    {
+      "n": "PTT Standard Layout",
+      "s": "1979-10-00"
+    },
+    {
+      "n": "PTT 1981 Exterior Update",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "PTT Early Cyberamic Replacements",
+      "s": "1983-00-00"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "0000-00-00"
+    }
   ],
   "stages": [
-    "Portrait / Shelf Stage|1979-10-00|0000-00-00|2-Wall",
-    "Chuck E.'s House Facade|0000-00-00|0000-00-00",
-    "2-Stage|1993-00-00|1998-12-00|One of many installed in California.|"
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "2-Wall"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "1998-12-00",
+      "desc": "One of many installed in California."
+    }
   ],
   "franchisees": [],
   "attractions": [
-    "Atari Football|1979-10-00|0000-00-00|Seen at the opening.",
-    "Cheese Crawl|1979-10-00|0000-00-00|Seen at the opening.",
-    "Lunar Lander|1979-10-00|0000-00-00|Seen at the opening.",
-    "Warrior|1979-10-00|0000-00-00|Seen at the opening.",
-    "Space Invaders|0000-00-00|0000-00-00|Mentioned in February and December 1980.",
-    "Galaxy|0000-00-00|0000-00-00|Seen in December 1980.",
-    "Air Hockey|0000-00-00|0000-00-00|Seen in December 1980.",
-    "'Driving Skill Games'|0000-00-00|0000-00-00|Seen in December 1980.",
-    "Spy Hunter|0000-00-00|0000-00-00|Played by customer in late 80's, early 90's.",
-    "Metal Typer|0000-00-00|0000-00-00|Seen in photo.",
-    "Star Wars|0000-00-00|0000-00-00|Played by customer in late 80's, early 90's.",
-    "Pole Position|0000-00-00|0000-00-00|Played by customer in late 80's, early 90's.",
-    "Solar Warrior|0000-00-00|0000-00-00|Played by customer in late 80's, early 90's.",
-    "Skeet Shooting|0000-00-00|0000-00-00|Played by customer in late 80's, early 90's."
+    {
+      "n": "Atari Football",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "Seen at the opening."
+    },
+    {
+      "n": "Cheese Crawl",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "Seen at the opening."
+    },
+    {
+      "n": "Lunar Lander",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "Seen at the opening."
+    },
+    {
+      "n": "Warrior",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "Seen at the opening."
+    },
+    {
+      "n": "Space Invaders",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in February and December 1980."
+    },
+    {
+      "n": "Galaxy",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in December 1980."
+    },
+    {
+      "n": "Air Hockey",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in December 1980."
+    },
+    {
+      "n": "'Driving Skill Games'",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in December 1980."
+    },
+    {
+      "n": "Spy Hunter",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Played by customer in late 80's, early 90's."
+    },
+    {
+      "n": "Metal Typer",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in photo."
+    },
+    {
+      "n": "Star Wars",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Played by customer in late 80's, early 90's."
+    },
+    {
+      "n": "Pole Position",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Played by customer in late 80's, early 90's."
+    },
+    {
+      "n": "Solar Warrior",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Played by customer in late 80's, early 90's."
+    },
+    {
+      "n": "Skeet Shooting",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Played by customer in late 80's, early 90's."
+    }
   ],
   "sqft": "7,114",
   "latitudeLongitude": [
@@ -68,17 +164,83 @@
     "sudo trans --pony"
   ],
   "animatronics": [
-    "Chuck E. Cheese (Cyberamic)|1979-10-00|1998-00-00|N/A|Unknown",
-    "Warblettes (Cyberamic)|1979-10-00|0000-00-00|N/A|Unknown",
-    "Guest Star / Helen Henny (Cyberamic)|1979-10-00|1998-00-00|N/A|Unknown",
-    "Mr. Munch (Cyberamic)|1979-10-00|1998-00-00|N/A|Unknown",
-    "Pasqually (Cyberamic)|1979-10-00|1998-00-00|N/A|Unknown",
-    "Jasper T. Jowls (Cyberamic)|1979-10-00|1998-00-00|N/A|Unknown",
-    "Dolli Dimples (Cyberamic)|1979-10-00|0000-00-00|N/A|Unknown",
-    "Artie Antlers (Cyberamic)|1980-00-00|0000-00-00|N/A|Unknown",
-    "Applause Board (Cyberamic)|1979-10-00|0000-00-00|N/A|Unknown",
-    "Drum Board (Cyberamic)|1979-10-00|0000-00-00|N/A|Unknown",
-    "Flag Wavers (Cyberamic)|1979-10-00|0000-00-00|N/A|Unknown"
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1998-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1998-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1998-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1998-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1998-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Dolli Dimples (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Artie Antlers (Cyberamic)",
+      "s": "1980-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "st": "Unknown"
+    }
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "9iZgkgdFP2DqRNRmaqwJ.avif",

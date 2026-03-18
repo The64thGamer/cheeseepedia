@@ -5,11 +5,20 @@
   "endDate": "",
   "cuDate": "",
   "remodels": [
-    "CEC 2.0 Remodel Program|2025-09-25"
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2025-09-25"
+    }
   ],
   "stages": [
-    "Chuck E. Live Stage (Dance Floor)|2025-09-25|",
-    "Video Wall|2025-09-25|"
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2025-09-25"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2025-09-25"
+    }
   ],
   "franchisees": [],
   "attractions": [],

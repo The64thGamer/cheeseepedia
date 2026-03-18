@@ -6,7 +6,11 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Road Stage|1991-08-31|1994-00-00|"
+    {
+      "n": "Road Stage",
+      "s": "1991-08-31",
+      "e": "1994-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

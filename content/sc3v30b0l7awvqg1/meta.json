@@ -6,9 +6,21 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1982-06-23|0000-00-00|",
-    "Concept Unification Stage|1991-00-00|2022-04-00|One of 2 3-Stages in Nebraska to receive Concept Unification. Last 3-Stage in Nebraska from June 2020 until removal in April 2022. Was in Very Poor Condition, Chuck had rare 'Cool Chuck' outfit, and Stage lacked Munch's Make Believe Band sign.|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00||"
+    {
+      "n": "Classic Stage",
+      "s": "1982-06-23",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2022-04-00",
+      "desc": "One of 2 3-Stages in Nebraska to receive Concept Unification. Last 3-Stage in Nebraska from June 2020 until removal in April 2022. Was in Very Poor Condition, Chuck had rare 'Cool Chuck' outfit, and Stage lacked Munch's Make Believe Band sign."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

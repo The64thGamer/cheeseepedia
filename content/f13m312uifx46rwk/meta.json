@@ -25,7 +25,10 @@
     "Studio C 3x DVD + Floppy"
   ],
   "downloadLinks": [
-    "https://archive.org/download/3stage_dvd_signals/June%202009%203-Stage-002.iso |3-Stage DVD ISO w/ Signals"
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/June%202009%203-Stage-002.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

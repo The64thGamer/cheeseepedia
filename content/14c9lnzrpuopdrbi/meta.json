@@ -6,9 +6,22 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Balcony Stage|1983-06-07|0000-00-00|",
-    "Chuck E.'s House Facade|0000-00-00|0000-00-00|",
-    "2-Stage|1992-00-00|1996-09-00|Possibly sent to Virginia Beach, VA (2699 Lishelle Place)|"
+    {
+      "n": "Balcony Stage",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1992-00-00",
+      "e": "1996-09-00",
+      "desc": "Possibly sent to Virginia Beach, VA (2699 Lishelle Place)"
+    }
   ],
   "franchisees": [],
   "attractions": [],

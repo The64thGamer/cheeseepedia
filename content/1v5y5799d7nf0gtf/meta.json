@@ -32,9 +32,18 @@
     "Cyberamics DVD"
   ],
   "downloadLinks": [
-    "https://archive.org/download/studio-c-floppy-discs-rips/January2006.img|Studio C Floppy Disk",
-    "https://archive.org/download/studio_c_showtape_dvds/January%202006%20Studio%20C-004.iso|Studio C DVD ISO",
-    "https://archive.org/download/3stage_dvd_signals/January%202006%203-Stage-006.iso|3-Stage DVD ISO"
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/January2006.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/January%202006%20Studio%20C-004.iso",
+      "label": "Studio C DVD ISO"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/January%202006%203-Stage-006.iso",
+      "label": "3-Stage DVD ISO"
+    }
   ],
   "type": "Showtapes",
   "tags": [

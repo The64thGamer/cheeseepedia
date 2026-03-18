@@ -6,8 +6,16 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Studio C Cappa|2000-07-17|0000-00-00|",
-    "Chuck E. Live Stage (Dance Floor)|2019-00-00||2019 Model|"
+    {
+      "n": "Studio C Cappa",
+      "s": "2000-07-17",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-00-00",
+      "desc": "2019 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

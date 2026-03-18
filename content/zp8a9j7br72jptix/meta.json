@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1983-07-13|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|2007-01-00|One of 10 3-Stages in Illinois to undergo Concept Unification. Animatronics sent to Mishawaka, IN (822 W McKinley Ave) after stage removal and store closure in 2007.|"
+    {
+      "n": "Classic Stage",
+      "s": "1983-07-13",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2007-01-00",
+      "desc": "One of 10 3-Stages in Illinois to undergo Concept Unification. Animatronics sent to Mishawaka, IN (822 W McKinley Ave) after stage removal and store closure in 2007."
+    }
   ],
   "franchisees": [],
   "attractions": [],

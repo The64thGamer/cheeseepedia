@@ -6,8 +6,16 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "2-Stage|1992-08-00|2021-10-00|One of 5 installed in Massachusetts. Replaced by Dance Floor + Video Wall. Last 2-Stage in the state.|",
-    "Chuck E. Live Stage (Dance Floor)|0000-00-00||"
+    {
+      "n": "2-Stage",
+      "s": "1992-08-00",
+      "e": "2021-10-00",
+      "desc": "One of 5 installed in Massachusetts. Replaced by Dance Floor + Video Wall. Last 2-Stage in the state."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [],

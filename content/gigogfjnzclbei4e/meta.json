@@ -5,17 +5,44 @@
   "endDate": "1982-00-00",
   "cuDate": "",
   "remodels": [
-    "Charlie Cheese's Standard Layout|1981-03-00"
+    {
+      "n": "Charlie Cheese's Standard Layout",
+      "s": "1981-03-00"
+    }
   ],
   "stages": [
-    "Balcony Stage|1981-03-00|1982-00-00|"
+    {
+      "n": "Balcony Stage",
+      "s": "1981-03-00",
+      "e": "1982-00-00"
+    }
   ],
   "franchisees": [],
   "attractions": [
-    "Cheese Crawl|1981-00-00|0000-00-00|Seen in 1981 footage",
-    "Frog Spring Rider|0000-00-00|0000-00-00|Seen in postcard next to Cheese Crawl",
-    "Pig Spring Rider|0000-00-00|0000-00-00|Seen in postcard next to Cheese Crawl",
-    "Pizza Time Theatre Musical Ferris Wheel|0000-00-00|0000-00-00|Pizza Playhouse variant"
+    {
+      "n": "Cheese Crawl",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in 1981 footage"
+    },
+    {
+      "n": "Frog Spring Rider",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in postcard next to Cheese Crawl"
+    },
+    {
+      "n": "Pig Spring Rider",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in postcard next to Cheese Crawl"
+    },
+    {
+      "n": "Pizza Time Theatre Musical Ferris Wheel",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Pizza Playhouse variant"
+    }
   ],
   "sqft": "",
   "latitudeLongitude": [

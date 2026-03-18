@@ -27,8 +27,14 @@
     "Darby Orr|Songwriter"
   ],
   "downloadLinks": [
-    "https://ia801709.us.archive.org/9/items/pasqually/IMG_7827.mp4|Original Cut Segment 2 Audio (Do You Believe In Magic / Pasqually Come Home)",
-    "https://archive.org/download/3stage_post_93_svhs_signals/June%201993%203-Stage-004.iso|Post '93 3-Stage SVHS w/ Signals"
+    {
+      "url": "https://ia801709.us.archive.org/9/items/pasqually/IMG_7827.mp4",
+      "label": "Original Cut Segment 2 Audio (Do You Believe In Magic / Pasqually Come Home)"
+    },
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/June%201993%203-Stage-004.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

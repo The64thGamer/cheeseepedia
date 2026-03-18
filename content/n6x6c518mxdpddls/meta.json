@@ -8,12 +8,42 @@
   "stages": [],
   "franchisees": [],
   "attractions": [
-    "Air Hockey|0000-00-00|0000-00-00|Seen in March 27, 1976 Ad",
-    "Indy 800|0000-00-00|0000-00-00|Seen in March 27, 1976 Ad",
-    "Tank|0000-00-00|0000-00-00|Seen in March 27, 1976 Ad",
-    "Pong|0000-00-00|0000-00-00|Seen in March 27, 1976 Ad",
-    "Track 10|0000-00-00|0000-00-00|Seen in March 27, 1976 Ad",
-    "Shark-Jaws|0000-00-00|0000-00-00|Seen in March 27, 1976 Ad"
+    {
+      "n": "Air Hockey",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in March 27, 1976 Ad"
+    },
+    {
+      "n": "Indy 800",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in March 27, 1976 Ad"
+    },
+    {
+      "n": "Tank",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in March 27, 1976 Ad"
+    },
+    {
+      "n": "Pong",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in March 27, 1976 Ad"
+    },
+    {
+      "n": "Track 10",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in March 27, 1976 Ad"
+    },
+    {
+      "n": "Shark-Jaws",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in March 27, 1976 Ad"
+    }
   ],
   "sqft": "",
   "latitudeLongitude": [

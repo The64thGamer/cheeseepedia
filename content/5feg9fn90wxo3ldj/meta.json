@@ -5,17 +5,41 @@
   "endDate": "2025-08-10",
   "cuDate": "",
   "remodels": [
-    "SPT 1990's Remodel Program|1994-11-00",
-    "Phase 1 (1994)|1994-11-00",
-    "Phase 2 (1997)|0000-00-00",
-    "Phase 3 (2000)|000-00-00",
-    "CEC 2000's Remodel Program|2009-00-00"
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1994-11-00"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "1994-11-00"
+    },
+    {
+      "n": "Phase 2 (1997)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Phase 3 (2000)",
+      "s": "000-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2009-00-00"
+    }
   ],
   "stages": [
-    "1-Stage|1994-11-00|2025-08-10|1-Stage w/ Turntable|"
+    {
+      "n": "1-Stage",
+      "s": "1994-11-00",
+      "e": "2025-08-10",
+      "desc": "1-Stage w/ Turntable"
+    }
   ],
   "franchisees": [
-    "Entertainment America Inc.|1994-11-00|2025-08-10"
+    {
+      "n": "Entertainment America Inc.",
+      "s": "1994-11-00",
+      "e": "2025-08-10"
+    }
   ],
   "attractions": [],
   "sqft": "",
@@ -47,12 +71,48 @@
     "Employee correspondence in Gallery"
   ],
   "animatronics": [
-    "Chuck E. Cheese (Cyberamic)|1994-11-00|2016-08-00|Unknown|Destroyed.",
-    "Guest Star / Helen Henny (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.",
-    "Mr. Munch (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.",
-    "Pasqually (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.",
-    "Jasper T. Jowls (Cyberamic)|1994-11-00|2025-08-10|Unknown|In storage at the SPT Warehouse.",
-    "Wink (Animatronic)|1994-11-00|2009-00-00|N/A|Destroyed."
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1994-11-00",
+      "e": "2016-08-00",
+      "l": "Unknown",
+      "st": "Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1994-11-00",
+      "e": "2025-08-10",
+      "l": "Unknown",
+      "st": "In storage at the SPT Warehouse."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1994-11-00",
+      "e": "2025-08-10",
+      "l": "Unknown",
+      "st": "In storage at the SPT Warehouse."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1994-11-00",
+      "e": "2025-08-10",
+      "l": "Unknown",
+      "st": "In storage at the SPT Warehouse."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1994-11-00",
+      "e": "2025-08-10",
+      "l": "Unknown",
+      "st": "In storage at the SPT Warehouse."
+    },
+    {
+      "n": "Wink (Animatronic)",
+      "s": "1994-11-00",
+      "e": "2009-00-00",
+      "l": "N/A",
+      "st": "Destroyed."
+    }
   ],
   "contributors": [
     "Cyber Snout"

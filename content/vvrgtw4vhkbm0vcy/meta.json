@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1981-08-26|0000-00-00|",
-    "Concept Unification Stage|1991-00-00|2012-10-24|One of 17 3-Stages in Texas to undergo Concept Unification.|"
+    {
+      "n": "Classic Stage",
+      "s": "1981-08-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2012-10-24",
+      "desc": "One of 17 3-Stages in Texas to undergo Concept Unification."
+    }
   ],
   "franchisees": [],
   "attractions": [],

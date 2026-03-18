@@ -29,7 +29,10 @@
     "3-Stage SVHS (Post-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/studio_c_showtape_dvds/September%202000%20Studio%20C.iso|Studio C DVD ISO"
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/September%202000%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    }
   ],
   "type": "Showtapes",
   "tags": [

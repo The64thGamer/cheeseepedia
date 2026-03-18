@@ -5,11 +5,22 @@
   "endDate": "",
   "cuDate": "",
   "remodels": [
-    "Low Volume Store Initiative|2024-00-00"
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "2024-00-00"
+    }
   ],
   "stages": [
-    "Road Stage|1991-11-00|2024-06-02|",
-    "Chuck E. Live Stage (Dance Floor)|2024-06-06||2021 Model|"
+    {
+      "n": "Road Stage",
+      "s": "1991-11-00",
+      "e": "2024-06-02"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-06-06",
+      "desc": "2021 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

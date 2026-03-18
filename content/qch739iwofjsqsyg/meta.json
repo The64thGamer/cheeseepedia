@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1984-11-05|0000-00-00|",
-    "Concept Unification Stage|1991-07-00|1995-01-00|One of 5 3-Stages in Louisiana to undergo Concept Unification.|"
+    {
+      "n": "Classic Stage",
+      "s": "1984-11-05",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-07-00",
+      "e": "1995-01-00",
+      "desc": "One of 5 3-Stages in Louisiana to undergo Concept Unification."
+    }
   ],
   "franchisees": [],
   "attractions": [],

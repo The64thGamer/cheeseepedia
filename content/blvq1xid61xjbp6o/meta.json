@@ -30,8 +30,14 @@
     "3-Stage SVHS (Pre-93)"
   ],
   "downloadLinks": [
-    "https://archive.org/download/3stage_post_93_svhs_signals/April%202002%203-Stage-001.iso|Post '93 3-Stage SVHS w/ Signals",
-    "https://archive.org/download/studio-c-floppy-discs-rips/April2002VerB.img|Studio C Floppy Disk (Ver. B)"
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/April%202002%203-Stage-001.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/April2002VerB.img",
+      "label": "Studio C Floppy Disk (Ver. B)"
+    }
   ],
   "type": "Showtapes",
   "tags": [

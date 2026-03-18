@@ -1,137 +1,96 @@
 #!/usr/bin/env python3
-import os, re, json, shutil, random, string, sys
+import json, os
 from pathlib import Path
 
-try:
-    import tomllib as toml
-except ImportError:
-    try:
-        import tomli as toml
-    except ImportError:
-        print("ERROR: needs tomllib (py3.11+) or tomli: pip install tomli --break-system-packages")
-        sys.exit(1)
+CONTENT_DIR = "content"
+def parse_animatronic(s):
+    p = [x.strip() for x in s.split('|')]
+    d = {"n": p[0]}
+    if len(p) > 1 and p[1]: d["s"] = p[1]
+    if len(p) > 2 and p[2]: d["e"] = p[2]
+    if len(p) > 3 and p[3]: d["l"] = p[3]
+    if len(p) > 4 and p[4]: d["st"] = p[4]
+    return d
 
-BASE        = Path(__file__).parent
-CONTENT_DIR = BASE / "content"
-OUT_DIR     = BASE / "static" / "cep-js" / "content"
-PHOTOS_DIR  = BASE / "static" / "photos"
-LOWPHOTOS_DIR = BASE / "static" / "lowphotos"
-SKIP_DIRS   = {"theoryweb"}
-STRIP_KEYS  = {"draft"}
+def parse_attraction(s):
+    p = [x.strip() for x in s.split('|')]
+    d = {"n": p[0]}
+    if len(p) > 1 and p[1]: d["s"] = p[1]
+    if len(p) > 2 and p[2]: d["e"] = p[2]
+    if len(p) > 3 and p[3]: d["desc"] = p[3]
+    return d
 
-def rand_id(used):
-    chars = string.ascii_lowercase + string.digits
-    while True:
-        s = ''.join(random.choices(chars, k=16))
-        if s not in used:
-            used.add(s)
-            return s
+def parse_download(s):
+    p = [x.strip() for x in s.split('|')]
+    d = {"url": p[0]}
+    if len(p) > 1 and p[1]: d["label"] = p[1]
+    return d
 
-def parse_md(path):
-    try:
-        raw = Path(path).read_bytes()
-        txt = raw.decode("utf-8-sig")
-    except Exception:
-        txt = raw.decode("latin-1", errors="ignore")
-    txt = txt.replace("\r\n", "\n").replace("\r", "\n").lstrip()
-    if not txt.startswith("+++"):
-        return None, txt
-    parts = re.split(r"(?m)^\+{3}\s*$", txt)
-    if len(parts) < 3:
-        return None, txt
-    try:
-        fm = toml.loads(parts[1].strip())
-    except Exception as e:
-        print(f"  TOML error in {path}: {e}", file=sys.stderr)
-        return None, txt
-    body = "+++".join(parts[2:]).lstrip("\n")
-    return fm, body
+def parse_remodel(s):
+    p = [x.strip() for x in s.split('|')]
+    d = {"n": p[0]}
+    if len(p) > 1 and p[1]: d["s"] = p[1]
+    return d
 
-def find_photo(filename, photo_dir):
-    if not filename:
-        return None
-    direct = photo_dir / filename
-    if direct.exists():
-        return direct
-    for p in photo_dir.rglob(filename):
-        return p
-    return None
+def parse_stage(s):
+    p = [x.strip() for x in s.split('|')]
+    d = {"n": p[0]}
+    if len(p) > 1 and p[1]: d["s"] = p[1]
+    if len(p) > 2 and p[2]: d["e"] = p[2]
+    if len(p) > 3 and p[3]: d["desc"] = p[3]
+    return d
 
-def convert():
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
-    used = set(p.name for p in OUT_DIR.iterdir() if p.is_dir())
+def parse_franchisee(s):
+    p = [x.strip() for x in s.split('|')]
+    d = {"n": p[0]}
+    if len(p) > 1 and p[1]: d["s"] = p[1]
+    if len(p) > 2 and p[2]: d["e"] = p[2]
+    return d
 
-    # Collect all source dirs (non-recursive top-level folders under content/)
-    source_dirs = [
-        d for d in CONTENT_DIR.iterdir()
-        if d.is_dir() and d.name not in SKIP_DIRS
-    ]
+PARSERS = {
+    "animatronics": parse_animatronic,
+    "attractions":  parse_attraction,
+    "downloadLinks":parse_download,
+    "remodels":     parse_remodel,
+    "stages":       parse_stage,
+    "franchisees":  parse_franchisee,
+}
 
-    # Collect all .md files across all source dirs
-    md_files = []
-    for src_dir in source_dirs:
-        for p in src_dir.rglob("*.md"):
-            if p.name.startswith("_"):
-                continue
-            md_files.append(p)
+def needs_conversion(val):
+    return isinstance(val, list) and val and isinstance(val[0], str) and '|' in val[0]
 
-    print(f"Found {len(md_files)} .md files across {len(source_dirs)} folders")
-    print(f"Output: {OUT_DIR}\n")
-
-    converted = skipped = photos_moved = photos_missing = 0
-
-    for md_path in sorted(md_files):
-        fm, body = parse_md(md_path)
-        if fm is None:
-            print(f"SKIP (no frontmatter): {md_path.relative_to(BASE)}")
-            skipped += 1
+def main():
+    converted = skipped = 0
+    for folder in Path(CONTENT_DIR).iterdir():
+        if not folder.is_dir(): continue
+        mp = folder / 'meta.json'
+        if not mp.exists(): continue
+        try:
+            meta = json.loads(mp.read_text(encoding='utf-8'))
+        except Exception as e:
+            print(f"  ERROR reading {mp}: {e}")
             continue
 
-        is_photo = str(fm.get("type", "")).lower() == "photos"
-        title = fm.get("title", "")
+        changed = False
+        for field, parser in PARSERS.items():
+            val = meta.get(field)
+            if not val or not needs_conversion(val): continue
+            try:
+                meta[field] = [parser(v) for v in val]
+                changed = True
+            except Exception as e:
+                print(f"  ERROR parsing {field} in {folder.name}: {e}")
 
-        # Strip unwanted keys
-        for k in STRIP_KEYS:
-            fm.pop(k, None)
+        if changed:
+            mp.write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding='utf-8')
+            converted += 1
+        else:
+            skipped += 1
 
-        folder_id = rand_id(used)
-        out_folder = OUT_DIR / folder_id
-        out_folder.mkdir()
+    print(f"Done. {converted} files updated, {skipped} unchanged.")
 
-        # Write meta.json
-        (out_folder / "meta.json").write_text(
-            json.dumps(fm, indent=2, ensure_ascii=False), encoding="utf-8"
-        )
+def run():
+    main()
 
-        # Write content.md
-        (out_folder / "content.md").write_text(body, encoding="utf-8")
-
-        # Move photo files if this is a photo article
-        if is_photo and title:
-            src_photo = find_photo(title, PHOTOS_DIR)
-            if src_photo:
-                shutil.move(str(src_photo), str(out_folder / "photo.avif"))
-                photos_moved += 1
-            else:
-                print(f"  WARNING: photo not found: {title}")
-                photos_missing += 1
-
-            src_low = find_photo(title, LOWPHOTOS_DIR)
-            if src_low:
-                shutil.move(str(src_low), str(out_folder / "lowphoto.avif"))
-
-        # Move the source .md file out of the way (delete after successful conversion)
-        md_path.unlink()
-        converted += 1
-
-        if converted % 500 == 0:
-            print(f"  {converted} converted...")
-
-    print(f"\nDone.")
-    print(f"  Converted : {converted}")
-    print(f"  Skipped   : {skipped}")
-    print(f"  Photos moved  : {photos_moved}")
-    print(f"  Photos missing: {photos_missing}")
-
-if __name__ == "__main__":
-    convert()
+if __name__ == '__main__':
+    main()

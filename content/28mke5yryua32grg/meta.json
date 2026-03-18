@@ -25,6 +25,9 @@
     "ASSY# 027-0059-10-0ASKIT-DOLLI II CAB #2WO# 1201922100 WO QTY 169BUILT BY: AH DATE 2-18-1983"
   ],
   "downloadLinks": [
-    "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Dolly%202-Lounge/027-0058-01%20s0030.wav|Showtape Rip w/ Signals"
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Dolly%202-Lounge/027-0058-01%20s0030.wav",
+      "label": "Showtape Rip w/ Signals"
+    }
   ]
 }

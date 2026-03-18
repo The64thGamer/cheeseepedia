@@ -29,7 +29,10 @@
     "APS Files"
   ],
   "downloadLinks": [
-    "https://archive.org/download/aps-yellow-case/Family%20Times%203-Stage%20%28Scrapped%20Sept%201991%29.IMA|Original 'Family Times' 3-Stage APS .IMA"
+    {
+      "url": "https://archive.org/download/aps-yellow-case/Family%20Times%203-Stage%20%28Scrapped%20Sept%201991%29.IMA",
+      "label": "Original 'Family Times' 3-Stage APS .IMA"
+    }
   ],
   "transcriptions": [
     "September 1991 Segment 1",

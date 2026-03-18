@@ -6,9 +6,22 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1982-10-27|0000-00-00|",
-    "Concept Unification Stage|1991-00-00|2022-06-00|Only 3-Stage in Maryland.|",
-    "Chuck E. Live Stage (Dance Floor)|2022-06-00||2021 Model|"
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-27",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2022-06-00",
+      "desc": "Only 3-Stage in Maryland."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-06-00",
+      "desc": "2021 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

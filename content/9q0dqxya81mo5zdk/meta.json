@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "2-Stage|1993-02-00|2018-03-00|One of six 2-Stages installed in Virginia. Replaced by Dance Floor.|",
-    "Chuck E. Live Stage (Dance Floor)|2018-00-00||2021 Model|"
+    {
+      "n": "2-Stage",
+      "s": "1993-02-00",
+      "e": "2018-03-00",
+      "desc": "One of six 2-Stages installed in Virginia. Replaced by Dance Floor."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2018-00-00",
+      "desc": "2021 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

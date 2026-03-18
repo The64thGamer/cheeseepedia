@@ -24,7 +24,10 @@
     "Cyberamics DVD"
   ],
   "downloadLinks": [
-    "https://archive.org/download/3stage_dvd_signals/December%202011%203-stage-002.iso|3-Stage DVD ISO"
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/December%202011%203-stage-002.iso",
+      "label": "3-Stage DVD ISO"
+    }
   ],
   "type": "Showtapes",
   "tags": [

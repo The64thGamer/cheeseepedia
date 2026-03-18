@@ -6,10 +6,27 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Balcony Stage|1983-00-00|0000-00-00|",
-    "Unique C Stage|0000-00-00|0000-00-00|",
-    "2-Stage|0000-00-00|2023-01-00|One of many installed in California. Replaced by Dance Floor + Video Wall.|",
-    "Chuck E. Live Stage (Dance Floor)|2023-01-00||2019 Model|"
+    {
+      "n": "Balcony Stage",
+      "s": "1983-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Unique C Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2023-01-00",
+      "desc": "One of many installed in California. Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-01-00",
+      "desc": "2019 Model"
+    }
   ],
   "franchisees": [],
   "attractions": [],

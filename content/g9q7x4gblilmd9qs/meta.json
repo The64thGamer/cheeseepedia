@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "1-Stage|1992-03-24|2000-00-00|Mini Unit 1-Stage|",
-    "Studio C Alpha|0000-00-00|2012-05-24|"
+    {
+      "n": "1-Stage",
+      "s": "1992-03-24",
+      "e": "2000-00-00",
+      "desc": "Mini Unit 1-Stage"
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "2012-05-24"
+    }
   ],
   "franchisees": [],
   "attractions": [],

@@ -22,10 +22,21 @@
     "-95.1657082"
   ],
   "stages": [
-    "Studio C Beta|2007-02-20|2023-03-00|",
-    "Chuck E. Live Stage (Dance Floor)|2023-03-00||2021 Model"
+    {
+      "n": "Studio C Beta",
+      "s": "2007-02-20",
+      "e": "2023-03-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-03-00",
+      "desc": "2021 Model"
+    }
   ],
   "attractions": [
-    "Mega Superhero Playground|2026-00-00||"
+    {
+      "n": "Mega Superhero Playground",
+      "s": "2026-00-00"
+    }
   ]
 }

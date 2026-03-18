@@ -6,8 +6,17 @@
   "cuDate": "",
   "remodels": [],
   "stages": [
-    "Classic Stage|1981-12-28|0000-00-00|",
-    "Concept Unification Stage|0000-00-00|2001-01-00|One of 4 3-Stages in Iowa to undergo Concept Unification. Location relocated in 2001 to the Cedar Falls, IA (5911 University Ave) with formerly a Studio C Beta, 32M.|"
+    {
+      "n": "Classic Stage",
+      "s": "1981-12-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2001-01-00",
+      "desc": "One of 4 3-Stages in Iowa to undergo Concept Unification. Location relocated in 2001 to the Cedar Falls, IA (5911 University Ave) with formerly a Studio C Beta, 32M."
+    }
   ],
   "franchisees": [],
   "attractions": [],
