@@ -1147,3 +1147,93 @@ sup a {
 sup a:hover {
   text-decoration: underline;
 }
+
+.UserCards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  padding: .5rem 0;
+}
+
+.UserCard {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  border-radius: 2rem;
+  padding: .35rem .75rem .35rem .4rem;
+  cursor: default;
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 0 0 .15rem color-mix(in srgb, currentColor 20%, transparent);
+}
+
+.UserCard:hover {
+  transform: translateY(-2px);
+}
+
+.UserAvatar {
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.UserLink {
+  text-decoration: none;
+  display: contents;
+}
+
+.UserLabel {
+  display: flex;
+  align-items: baseline;
+  gap: .3rem;
+}
+
+.UserName {
+  font-family: var(--font-display);
+  font-size: .9rem;
+  color: #fff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .4);
+  white-space: nowrap;
+}
+
+.UserCount {
+  font-size: .72rem;
+  color: rgba(255, 255, 255, .75);
+  white-space: nowrap;
+}
+
+.UserBubble {
+  position: absolute;
+  bottom: calc(100% + .4rem);
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--dark);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: .6rem;
+  padding: .4rem .65rem;
+  font-size: .78rem;
+  white-space: nowrap;
+  max-width: 220px;
+  white-space: normal;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  z-index: 10;
+}
+
+.UserBubble::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid transparent;
+  border-top-color: var(--border);
+}
+
+.UserBubbleVisible {
+  opacity: 1;
+}

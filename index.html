@@ -6,24 +6,6 @@
 </head>
 <body>
 <div id="app"></div>
-<script type="module">
-const params = new URLSearchParams(window.location.search);
-
-const viewerMap = {
-  'cep-js':      'cep-js/default',
-  'theoryweb':   'theoryweb/default',
-};
-const viewerKey = params.get('v') || 'cep-js';
-const viewer = viewerMap[viewerKey] || 'cep-js/default';
-
-if (!params.has('v')) {
-  params.set('v', viewerKey);
-  const newUrl = `${window.location.pathname}?${params.toString()}${window.location.hash}`;
-  window.history.replaceState(null, '', newUrl);
-}
-
-const mod = await import(`/viewers/${viewer}.js`);
-mod.render(params, document.getElementById('app'));
-</script>
+<script type="module" src="/index.js"></script>
 </body>
 </html>
