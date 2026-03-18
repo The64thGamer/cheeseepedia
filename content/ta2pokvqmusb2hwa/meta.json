@@ -8,14 +8,38 @@
     "Cyber Snout"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Stephanie Nadolny|Voice of Helen Henny",
-    "Doug Teel|Voice of Mr. Munch",
-    "Reggie Smith|Voice of Jasper T. Jowls",
-    "Joel McCrary|Voice of Pasqually The Chef",
-    "Ron Schneider|Writer, Voice of Santa Claus",
-    "Jeff Palmer|Producer, Director",
-    "Casey Filiaci|Composer"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Stephanie Nadolny",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Doug Teel",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Reggie Smith",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Joel McCrary",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Ron Schneider",
+      "role": "Writer, Voice of Santa Claus"
+    },
+    {
+      "n": "Jeff Palmer",
+      "role": "Producer, Director"
+    },
+    {
+      "n": "Casey Filiaci",
+      "role": "Composer"
+    }
   ],
   "citations": [
     "https://youtu.be/AXE3B5upD3M",

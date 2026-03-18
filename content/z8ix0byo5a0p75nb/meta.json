@@ -19,15 +19,42 @@
     "https://archive.org/download/studio-c-floppy-discs-rips/MAY11.EXE"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Robert Gotcher|Director, Voice of Jasper T. Jowls, Show Announcer, Songwriter ('The Place To Be')",
-    "Michael Hill|Studio Coordinator",
-    "Matt Daniel|Production Coordinator, 'Jiggawatt'",
-    "Sammy Davenport|Music Director",
-    "Dave Wilson|Songwriter ('Don't You Wanna Share', 'The Weekend', 'Never A Long Goodbye')"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Voice of Jasper T. Jowls, Show Announcer, Songwriter ('The Place To Be')"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, 'Jiggawatt'"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    },
+    {
+      "n": "Dave Wilson",
+      "role": "Songwriter ('Don't You Wanna Share', 'The Weekend', 'Never A Long Goodbye')"
+    }
   ],
   "mediaDuration": "1:30:29",
   "showtapeFormats": [

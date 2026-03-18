@@ -14,17 +14,50 @@
     "https://showbizpizza.com/info/documents/cec/cec_focus-2007-01.pdf"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Show Announcer (Segment 1)",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Robert Gotcher|Director, Show Announcer (Segment 4)",
-    "Michael Hill|Studio Coordinator",
-    "Ryan Hollingsworth|Production Specialist",
-    "Sammy Davenport|Music Director",
-    "Deva George|Animator",
-    "Matt Daniel|Scriptwriter"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Show Announcer (Segment 1)"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Show Announcer (Segment 4)"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    },
+    {
+      "n": "Deva George",
+      "role": "Animator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Scriptwriter"
+    }
   ],
   "mediaDuration": "1:07:13",
   "showtapeFormats": [

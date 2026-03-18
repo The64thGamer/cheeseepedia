@@ -12,12 +12,29 @@
     "Ceclife13"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch, Larry The Technician, Announcer (Deep Voice)",
-    "Karlisa Burleson|Voice of Helen Henny",
-    "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef",
-    "Jeremy Blaido|Will Frye, Voice of Announcer (Squeaky Voice)",
-    "Robert Gotcher",
-    "Brian Hagan|Programmer"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch, Larry The Technician, Announcer (Deep Voice)"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Will Frye, Voice of Announcer (Squeaky Voice)"
+    },
+    {
+      "n": "Robert Gotcher"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Programmer"
+    }
   ],
   "mediaDuration": "1:00:37",
   "citations": [],

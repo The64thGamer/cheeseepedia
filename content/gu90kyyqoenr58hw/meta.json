@@ -12,15 +12,42 @@
     "Ceclife13"
   ],
   "credits": [
-    "David Robinson|Show Programmer",
-    "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch",
-    "Karlisa Burleson|Voice of Helen Henny",
-    "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef",
-    "Robert Gotcher|Voice of Jasper T. Jowls (Segment 1)",
-    "Annagrey Wiechman|Singing Voice of Helen Henny",
-    "Charles Stewart|Songwriter, Singing Voice of Jasper T. Jowls",
-    "Darby Orr|Songwriter",
-    "Jim Newberry|Farmer"
+    {
+      "n": "David Robinson",
+      "role": "Show Programmer"
+    },
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Voice of Jasper T. Jowls (Segment 1)"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Charles Stewart",
+      "role": "Songwriter, Singing Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Darby Orr",
+      "role": "Songwriter"
+    },
+    {
+      "n": "Jim Newberry",
+      "role": "Farmer"
+    }
   ],
   "citations": [
     "https://archive.org/details/aps-red-case"

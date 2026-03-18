@@ -14,11 +14,26 @@
   ],
   "citations": [],
   "credits": [
-    "Jaret Reddick|Voice of Chuck E. Cheese",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Singing Voice of Pasqually The Chef",
-    "Matt Daniel|Production Manager, Voice of Hard Hat Hank",
-    "Michael Hill|Studio Coordinator, Studio C Programmer",
-    "Donovan Marcelle|Existing Stage Programmer"
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Singing Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager, Voice of Hard Hat Hank"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator, Studio C Programmer"
+    },
+    {
+      "n": "Donovan Marcelle",
+      "role": "Existing Stage Programmer"
+    }
   ],
   "mediaDuration": "1:19:55",
   "pageThumbnailFile": "v0wlTBzkJ6Djd6q5Bccf.avif",

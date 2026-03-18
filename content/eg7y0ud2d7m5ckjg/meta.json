@@ -15,10 +15,22 @@
     "https://youtu.be/9iXXrpz24dw"
   ],
   "credits": [
-    "David Robinson|Show Programmer",
-    "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch",
-    "Karlisa Burleson|Voice of Helen Henny",
-    "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef"
+    {
+      "n": "David Robinson",
+      "role": "Show Programmer"
+    },
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    }
   ],
   "showtapeFormats": [
     "3-Stage SVHS (Pre-93)",

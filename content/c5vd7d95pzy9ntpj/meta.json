@@ -13,16 +13,46 @@
     "https://youtu.be/Xfk9e0scyY4"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Mike Manly, Wick Ladderback",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Robert Gotcher|Director, Show Announcer",
-    "Michael Hill|Studio Coordinator",
-    "Ryan Hollingsworth|Production Specialist, Richard Hunderton",
-    "Sammy Davenport|Music Director",
-    "Matt Daniel|Scriptwriter"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Mike Manly, Wick Ladderback"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Show Announcer"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist, Richard Hunderton"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Scriptwriter"
+    }
   ],
   "mediaDuration": "1:18:22",
   "showtapeFormats": [

@@ -14,15 +14,42 @@
     "https://archive.org/download/studio_c_showtape_dvds/January%202005%20Studio%20C-002.iso"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese, Bob Coleslaw",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Jeremy Blaido|Voice of Jasper T. Jowls",
-    "Robert Gotcher|Director, Show Announcer",
-    "Matt Daniel|Production Coordinator, Songwriter 'Chores'",
-    "Ryan Hollingsworth|Production Specialist, Hank Howdy",
-    "Sammy Davenport|Music Director"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Bob Coleslaw"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Show Announcer"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, Songwriter 'Chores'"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist, Hank Howdy"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    }
   ],
   "mediaDuration": "1:33:51",
   "showtapeFormats": [

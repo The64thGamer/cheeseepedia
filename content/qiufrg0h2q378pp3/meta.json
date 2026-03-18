@@ -6,14 +6,37 @@
   ],
   "pageThumbnailFile": "birthdayextravaganzacec.avif",
   "credits": [
-    "Sundance Productions|Producer",
-    "Steve White|Writer",
-    "David Wolf|Composer",
-    "David Roth|Vocal Arrangements",
-    "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch",
-    "Connie Nelson|Voice of Helen Henny",
-    "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef",
-    "'Happy Birthday to You' - Patty Hill and Mildred J. Hill"
+    {
+      "n": "Sundance Productions",
+      "role": "Producer"
+    },
+    {
+      "n": "Steve White",
+      "role": "Writer"
+    },
+    {
+      "n": "David Wolf",
+      "role": "Composer"
+    },
+    {
+      "n": "David Roth",
+      "role": "Vocal Arrangements"
+    },
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Connie Nelson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "'Happy Birthday to You' - Patty Hill and Mildred J. Hill"
+    }
   ],
   "showtapeFormats": [
     "Cyberamics Reel",

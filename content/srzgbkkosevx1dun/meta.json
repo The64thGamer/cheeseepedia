@@ -11,9 +11,18 @@
     "https://archive.org/download/studio_c_showtape_dvds/July%202005%20Studio%20C.iso"
   ],
   "credits": [
-    "Robert Gotcher|Director",
-    "Michael Hill|Studio Coordinator",
-    "Ryan Hollingsworth|Production Specialist"
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
   ],
   "mediaDuration": "1:10:33",
   "showtapeFormats": [

@@ -26,6 +26,9 @@
     "https://showbizpizza.com/info/documents/ptt/ptt_gamesexaminer-sente.pdf"
   ],
   "credits": [
-    "Founder|Pete Mirrione"
+    {
+      "n": "Founder",
+      "role": "Pete Mirrione"
+    }
   ]
 }

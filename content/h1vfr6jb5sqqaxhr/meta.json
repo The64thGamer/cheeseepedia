@@ -20,6 +20,9 @@
   ],
   "pageThumbnailFile": "PTT1980spot.avif",
   "credits": [
-    "Bob Wilkins Advertising Inc|Producers"
+    {
+      "n": "Bob Wilkins Advertising Inc",
+      "role": "Producers"
+    }
   ]
 }

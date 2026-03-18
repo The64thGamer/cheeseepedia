@@ -10,16 +10,46 @@
   ],
   "citations": [],
   "credits": [
-    "Jaret Reddick|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "Chris Hill|Voice of Mr. Munch",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Betty, Singing Voice of Pasqually The Chef",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Ryan Hollingsworth|Voice of Charlie Rockit, Zoey, Steve Waters",
-    "Paul Taylor|Larry The Technican",
-    "Matt Daniel|Production Manager, Voice of Hard Hat Hank",
-    "Michael Hill|Studio Coordinator, Studio C Programmer, Voice of Nigel The Sasquatch",
-    "Donovan Marcelle|Existing Stage Programmer"
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Chris Hill",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Betty, Singing Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Voice of Charlie Rockit, Zoey, Steve Waters"
+    },
+    {
+      "n": "Paul Taylor",
+      "role": "Larry The Technican"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager, Voice of Hard Hat Hank"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator, Studio C Programmer, Voice of Nigel The Sasquatch"
+    },
+    {
+      "n": "Donovan Marcelle",
+      "role": "Existing Stage Programmer"
+    }
   ],
   "showtapeFormats": [
     "Studio C 3x DVD + Floppy",

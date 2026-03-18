@@ -16,13 +16,34 @@
     "https://youtu.be/JGPhPDRzQvY?t"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Stephanie Nadolny|Voice of Helen Henny",
-    "Doug Teel|Voice of Mr. Munch",
-    "Reggie Smith|Voice of Jasper",
-    "Joel McCrary|Voice of Pasqually The Chef",
-    "Ron Schneider|Writer, Voice of Mr. Mouth",
-    "Jeff Palmer|Producer, Director"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Stephanie Nadolny",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Doug Teel",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Reggie Smith",
+      "role": "Voice of Jasper"
+    },
+    {
+      "n": "Joel McCrary",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Ron Schneider",
+      "role": "Writer, Voice of Mr. Mouth"
+    },
+    {
+      "n": "Jeff Palmer",
+      "role": "Producer, Director"
+    }
   ],
   "showtapeFormats": [
     "R12 SVHS (Post-93)",

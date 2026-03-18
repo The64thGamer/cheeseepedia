@@ -11,7 +11,10 @@
     "Ceclife13"
   ],
   "credits": [
-    "John Widelock|Voice of Chuck E. Cheese"
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese"
+    }
   ],
   "citations": [],
   "downloadLinks": [

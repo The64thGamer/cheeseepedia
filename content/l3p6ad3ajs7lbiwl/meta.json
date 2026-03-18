@@ -11,10 +11,22 @@
     "https://www.washingtonpost.com/archive/business/1984/03/05/chuck-e-tries-to-up-score-of-pizza-video/6006d1de-28cb-4e93-b028-bfad3c37f1d1/"
   ],
   "credits": [
-    "John Widelock|Voice of Chuck E. Cheese",
-    "Nancy Lenehan|Voice of Helen Henny",
-    "Scott Wilson|Voice of Mr. Munch, Pasqually the Chef",
-    "Scott Paulin|Voice of Jasper T. Jowls"
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Nancy Lenehan",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Mr. Munch, Pasqually the Chef"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    }
   ],
   "showtapeFormats": [
     "Cyberamics Reel"

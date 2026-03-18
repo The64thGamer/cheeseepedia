@@ -18,16 +18,46 @@
     "https://www.youtube.com/watch?v=dSz9_hQ3ZJ4"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician",
-    "Annagrey Wiechman|Singing Voice of Helen Henny",
-    "Karlisa Burleson|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch, Show Announcer",
-    "Earl Fisher|Voice of Pasqually The Chef, Bird",
-    "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Mike Manley, Singing Cowboy",
-    "Robert Gotcher|Production Coordinator",
-    "Brian Hagan|Studio Manager",
-    "Brent Gray|Studio Coordinator",
-    "Brett Roberts|Puppeteer"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Larry The Technician"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch, Show Announcer"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef, Bird"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Mike Manley, Singing Cowboy"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Brett Roberts",
+      "role": "Puppeteer"
+    }
   ],
   "showtapeFormats": [
     "Studio C 4x Laserdisc + Files",

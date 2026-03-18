@@ -15,9 +15,18 @@
     "https://showbizpizza.com/info/documents/cec/cec_dept18-2008-07.pdf"
   ],
   "credits": [
-    "Robert Gotcher|Director",
-    "Michael Hill|Studio Coordinator",
-    "Ryan Hollingsworth|Production Specialist"
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
   ],
   "showtapeFormats": [
     "3-Stage DVD",

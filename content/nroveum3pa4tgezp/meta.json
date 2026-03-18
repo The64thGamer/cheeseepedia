@@ -14,10 +14,22 @@
     "https://youtu.be/woJQoO0pitM"
   ],
   "credits": [
-    "John Widelock|Voice of Chuck E. Cheese",
-    "Nancy Lenehan|Voice of Helen Henny",
-    "Scott Wilson|Voice of Mr. Munch, Pasqually the Chef",
-    "Scott Paulin|Voice of Jasper T. Jowls"
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Nancy Lenehan",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Mr. Munch, Pasqually the Chef"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    }
   ],
   "pageThumbnailFile": "WbxClQPXQsm2oy_AQsbT.avif"
 }

@@ -15,7 +15,7 @@ BRACKET_RE   = re.compile(r'\[([^\]]+)\]')
 _nonword     = re.compile(r'[^\w\s]', re.UNICODE)
 _multispace  = re.compile(r'\s+')
 
-DICT_TAG_FIELDS   = ('remodels','stages','animatronics','franchisees','attractions')
+DICT_TAG_FIELDS   = ('remodels','stages','animatronics','franchisees','attractions','credits')
 STRING_TAG_FIELDS = ('tags','pages','page')
 
 def normalize(s): return _multispace.sub(' ', _nonword.sub(' ', s.lower())).strip()

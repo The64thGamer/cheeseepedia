@@ -12,9 +12,18 @@
     "https://showbizpizza.com/info/documents/cec/cec_dept18-2004-12.pdf"
   ],
   "credits": [
-    "Robert Gotcher|Director",
-    "Matt Daniel|Production Coordinator",
-    "Ryan Hollingsworth|Production Specialist"
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
   ],
   "showtapeFormats": [
     "Studio C 3x DVD + Floppy",

@@ -10,9 +10,18 @@
   ],
   "citations": [],
   "credits": [
-    "Robert Gotcher|Director",
-    "Michael Hill|Studio Coordinator",
-    "Matt Daneil|Production Coordinator"
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daneil",
+      "role": "Production Coordinator"
+    }
   ],
   "showtapeFormats": [
     "Studio C 3x DVD + Floppy",

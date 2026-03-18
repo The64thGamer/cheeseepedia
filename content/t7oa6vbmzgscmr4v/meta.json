@@ -13,7 +13,10 @@
     "https://en.wikipedia.org/wiki/William_%22Smitty%22_Smith"
   ],
   "credits": [
-    "Jim Cunningham|Voice of Artie Antlers"
+    {
+      "n": "Jim Cunningham",
+      "role": "Voice of Artie Antlers"
+    }
   ],
   "showtapeFormats": [
     "Cyberamics Reel"

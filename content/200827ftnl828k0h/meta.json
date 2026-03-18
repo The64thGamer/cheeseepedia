@@ -33,7 +33,10 @@
     "$0.75|2025-10-27|https://web.archive.org/web/20251103100212/https://www.reddit.com/r/chuckecheese/comments/1ohveaf/i_apparently_found_a_piece_of_history_today_for/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1"
   ],
   "credits": [
-    "VHS Manufacturer|Goldhil Home Media"
+    {
+      "n": "VHS Manufacturer",
+      "role": "Goldhil Home Media"
+    }
   ],
   "alsoKnownAs": [
     "The Galaxy 5000 Starring Chuck E. Cheese"
