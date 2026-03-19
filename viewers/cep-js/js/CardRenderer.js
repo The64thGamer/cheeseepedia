@@ -116,7 +116,7 @@ export function renderPhotoCompact(doc) {
   const el=document.createElement('div'); el.className='PhotoCompact';
   const a=document.createElement('a'); a.href=permalink(doc.p); a.className='PhotoCompactImage';
   a.appendChild(ProgressiveImage(doc.p,doc.t)); el.appendChild(a);
-  el.insertAdjacentHTML('beforeend',`<div class="PhotoCompactDate">${esc(fmtDate(doc.d))}</div>`);
+  el.insertAdjacentHTML('beforeend',`<div class="PhotoCompactDate"><strong>${esc(fmtDate(doc.d))}</strong></div>`);
   injectViewCount(el, doc.p, '.PhotoCompactDate');
   return el;
 }

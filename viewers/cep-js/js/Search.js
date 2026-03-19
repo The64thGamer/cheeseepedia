@@ -74,7 +74,7 @@ TABS.forEach(t => {
   sTabPanels.appendChild(panel);
   panel.querySelector('.s-show-more a').onclick=e=>{
     e.preventDefault();
-    const tiers=['10','50','100','all'];
+    const tiers=['20','50','100','all'];
     sPerPage.value=tiers[Math.min(tiers.indexOf(sPerPage.value)+1,tiers.length-1)];
     executeSearch();
   };

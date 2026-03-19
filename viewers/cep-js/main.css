@@ -655,8 +655,12 @@ sup {
 .s-results {
   border: 0.25rem solid var(--dark);
   border-radius: 0 .4rem .4rem .4rem;
-  min-height: 40px;
   margin-top: -0.25rem;
+}
+
+#list-photos{
+  display:flex;
+  flex-wrap:wrap;
 }
 
 .s-year-header {
@@ -811,7 +815,8 @@ sup {
 }
 
 .s-show-more a {
-  font-size: .85rem;
+  font-size: 1.5rem;
+  font-family: var(--font-display);
   color: var(--good-link);
 }
 
@@ -894,21 +899,25 @@ sup {
 .PhotoCompact {
   display: flex;
   flex-direction: column;
-  width: 100px;
+  width: 7rem;
 }
 
 .PhotoCompactImage img {
   width: 100%;
-  height: 70px;
+  height: 5rem;
   object-fit: cover;
   border-radius: .35rem;
 }
 
 .PhotoCompactDate {
   font-size: .7rem;
-  opacity: .5;
   text-align: center;
-  margin-top: .15rem;
+  margin-bottom: .15rem;
+  color: color-mix(in srgb, var(--text) 30%, transparent);
+}
+
+.PhotoCompactDate strong {
+  color: var(--primary);
 }
 
 .PhotoListItem {
@@ -916,8 +925,8 @@ sup {
 }
 
 .PhotoListImg {
-  width: 80px;
-  height: 55px;
+  width: 4rem;
+  height: 4rem;
   object-fit: cover;
   border-radius: .25rem;
 }
