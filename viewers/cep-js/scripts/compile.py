@@ -9,6 +9,7 @@ import buildCitationLinker
 import buildContributors
 import buildSearch
 import buildFinalData
+import buildRelated
 
 def main():
     print("Start")
@@ -17,5 +18,6 @@ def main():
     buildArticleLinker.main()
     buildCitationLinker.main()
     buildContributors.main()
+    buildRelated.main()
 
     buildFinalData.main()

@@ -1,7 +1,9 @@
 {
   "title": "Better All Over",
   "type": "Transcriptions",
-  "tags": [],
+  "tags": [
+    "Country Klunk"
+  ],
   "startDate": "",
   "contributors": [
     "sudo trans --pony"

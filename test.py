@@ -4,37 +4,66 @@ from pathlib import Path
 
 CONTENT_DIR = "content"
 
-def parse_credit(s):
-    p = [x.strip() for x in s.split('|')]
-    d = {"n": p[0]}
-    if len(p) > 1 and p[1]: d["role"] = p[1]
-    return d
+def load_meta(folder):
+    mp = folder / 'meta.json'
+    if not mp.exists(): return None, mp
+    try: return json.loads(mp.read_text(encoding='utf-8')), mp
+    except Exception: return None, mp
 
-def needs_conversion(val):
-    return isinstance(val, list) and val and isinstance(val[0], str) and '|' in val[0]
+def save_meta(mp, meta):
+    mp.write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding='utf-8')
 
 def main():
-    converted = skipped = 0
-    for folder in Path(CONTENT_DIR).iterdir():
-        if not folder.is_dir(): continue
-        mp = folder / 'meta.json'
-        if not mp.exists(): continue
-        try:
-            meta = json.loads(mp.read_text(encoding='utf-8'))
-        except Exception as e:
-            print(f"  ERROR reading {mp}: {e}")
-            continue
-        val = meta.get('credits')
-        if val and needs_conversion(val):
-            try:
-                meta['credits'] = [parse_credit(v) for v in val]
-                mp.write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding='utf-8')
-                converted += 1
-            except Exception as e:
-                print(f"  ERROR parsing credits in {folder.name}: {e}")
-        else:
-            skipped += 1
-    print(f"Done. {converted} files updated, {skipped} unchanged.")
+    folders = [f for f in Path(CONTENT_DIR).iterdir() if f.is_dir()]
 
-if __name__ == '__main__':
-    main()
+    # Build title -> folder map for transcription lookup
+    title_map = {}
+    for folder in folders:
+        meta, _ = load_meta(folder)
+        if meta and meta.get('title'):
+            title_map[meta['title']] = folder
+
+    fixed_transcriptions = fixed_page = 0
+
+    for folder in folders:
+        meta, mp = load_meta(folder)
+        if meta is None: continue
+        changed = False
+
+        # Fix 'transcriptions' param — add this article's title to each named transcription's tags
+        trans = meta.pop('transcriptions', None)
+        if trans:
+            article_title = meta.get('title', '')
+            for name in (trans if isinstance(trans, list) else [trans]):
+                name = str(name).strip()
+                target_folder = title_map.get(name)
+                if not target_folder:
+                    print(f"  WARNING: transcription target '{name}' not found")
+                    continue
+                t_meta, t_mp = load_meta(target_folder)
+                if t_meta is None: continue
+                tags = t_meta.setdefault('tags', [])
+                if article_title and article_title not in tags:
+                    tags.append(article_title)
+                    save_meta(t_mp, t_meta)
+                    print(f"  Tagged '{name}' with '{article_title}'")
+            changed = True
+            fixed_transcriptions += 1
+
+        # Fix 'page' param — move into tags[]
+        page = meta.pop('page', None)
+        if page:
+            page = str(page).strip()
+            tags = meta.setdefault('tags', [])
+            if page and page not in tags:
+                tags.append(page)
+            changed = True
+            fixed_page += 1
+
+        if changed:
+            save_meta(mp, meta)
+
+    print(f"\nDone. transcriptions fixed: {fixed_transcriptions}, page fixed: {fixed_page}")
+
+def run(): main()
+if __name__ == '__main__': main()

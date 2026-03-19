@@ -1306,3 +1306,10 @@ sup a:hover {
 .PinButton:hover       { background: color-mix(in srgb, var(--primary) 30%, var(--background)); }
 .PinButtonActive       { background: var(--primary); }
 .PinButtonActive:hover { background: color-mix(in srgb, var(--primary) 80%, var(--background)); }
+
+.ArticleHeaderBtns {
+  display: flex;
+  gap: .35rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
