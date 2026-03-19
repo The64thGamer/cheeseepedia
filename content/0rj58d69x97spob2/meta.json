@@ -469,88 +469,88 @@
       "s": "1981-11-11",
       "e": "2019-09-22",
       "l": "4-81 1-8",
-      "st": "Dismantled during cleanout"
+      "desc": "Dismantled during cleanout"
     },
     {
       "n": "Dook Larue (Animatronic)",
       "s": "1981-11-11",
       "e": "2019-09-22",
       "l": "4-81 2-8",
-      "st": "Owned by a Private Collector"
+      "desc": "Owned by a Private Collector"
     },
     {
       "n": "Fatz Geronimo (Animatronic)",
       "s": "1981-11-11",
       "e": "2019-09-22",
       "l": "4-81 3-8",
-      "st": "Dismantled during cleanout"
+      "desc": "Dismantled during cleanout"
     },
     {
       "n": "Beach Bear (Animatronic)",
       "s": "1981-11-11",
       "e": "2019-09-22",
       "l": "4-81 4-8",
-      "st": "Owned by a Private Collector"
+      "desc": "Owned by a Private Collector"
     },
     {
       "n": "Mitzi Mozzarella (Animatronic)",
       "s": "1981-11-11",
       "e": "2019-09-22",
       "l": "4-81 5-8",
-      "st": "Owned by a Private Collector"
+      "desc": "Owned by a Private Collector"
     },
     {
       "n": "Billy Bob (Animatronic)",
       "s": "1981-11-11",
       "e": "1991-04-00",
       "l": "4-81 6-8",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Looney Bird (Animatronic)",
       "s": "1981-11-11",
       "e": "2002-00-00",
       "l": "4-81 7-8",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Choo Choo (Animatronic)",
       "s": "1981-11-11",
       "e": "1997-00-00",
       "l": "4-81 8-8",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Sun (Animatronic)",
       "s": "1981-11-11",
       "e": "2018-00-00",
       "l": "4-81 11-8",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Moon (Animatronic)",
       "s": "1981-11-11",
       "e": "2017-00-00",
       "l": "4-81 11-8",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Antioch (Animatronic)",
       "s": "1981-11-11",
       "e": "1991-04-00",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Uncle Klunk (Animatronic)",
       "s": "1983-00-00",
       "e": "1983-00-00",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Wink",
       "s": "1991-05-00",
       "e": "2019-09-22",
-      "st": "Intact during cleanout, currently unknown"
+      "desc": "Intact during cleanout, currently unknown"
     }
   ],
   "franchisees": [],

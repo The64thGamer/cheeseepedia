@@ -86,84 +86,84 @@
       "s": "1981-09-30",
       "e": "2006-00-00",
       "l": "1-81 1-13",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Dook Larue (Animatronic)",
       "s": "1981-09-30",
       "e": "2006-00-00",
       "l": "1-81 2-13",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Fatz Geronimo (Animatronic)",
       "s": "1981-09-30",
       "e": "2006-00-00",
       "l": "1-81 3-13",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Beach Bear (Animatronic)",
       "s": "1981-09-30",
       "e": "2006-00-00",
       "l": "1-81 4-13",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Mitzi Mozzarella (Animatronic)",
       "s": "1981-09-30",
       "e": "2006-00-00",
       "l": "1-81 5-13",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Billy Bob (Animatronic)",
       "s": "1981-09-30",
       "e": "1991-00-00",
       "l": "1-81 6-13",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Looney Bird (Animatronic)",
       "s": "1981-09-30",
       "e": "2006-00-00",
       "l": "1-81 7-13",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Choo Choo (Animatronic)",
       "s": "1981-09-30",
       "e": "0000-00-00",
       "l": "1-81 8-13",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Sun (Animatronic)",
       "s": "1981-09-30",
       "e": "2006-00-00",
       "l": "1-81 10-13",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Moon (Animatronic)",
       "s": "1981-09-30",
       "e": "2006-00-00",
       "l": "1-81 11-13",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Antioch (Animatronic)",
       "s": "1981-09-30",
       "e": "1991-00-00",
       "l": "Unknown",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     },
     {
       "n": "Wink",
       "s": "1991-00-00",
       "e": "2006-00-00",
       "l": "Unknown",
-      "st": "Unknown/Destroyed"
+      "desc": "Unknown/Destroyed"
     }
   ],
   "franchisees": [],
