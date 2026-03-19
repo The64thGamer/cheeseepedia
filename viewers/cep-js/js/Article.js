@@ -43,8 +43,6 @@ async function renderMarkdown(md){
     .replace(/`([^`]+)`/g,'<code>$1</code>')
     .replace(/^&gt;\s+(.+)$/gm,'<blockquote>$1</blockquote>')
     .replace(/^(-{3,}|\*{3,})$/gm,'<hr>')
-    .replace(/^[\*\-]\s+(.+)$/gm,'<li>$1</li>').replace(/^\d+\.\s+(.+)$/gm,'<li>$1</li>')
-    .replace(/(<li>.*<\/li>\n?)+/g,m=>`<ul>${m}</ul>`)
     .replace(/!\[([^\]]*)\]\(([^)]+)\)/g,'<img src="$2" alt="$1">')
     .replace(/\[([^\]]+)\]\(([^)]+)\)/g,'<a href="$2">$1</a>')
     .replace(/\[(\d+)\]/g,(_,n)=>`<sup>(${n})</sup>`)
@@ -57,13 +55,18 @@ async function renderMarkdown(md){
       const ph=`\x00TABLE${blocks.length}\x00`;
       blocks.push(`<table><thead>${parseRow(header,'th')}</thead><tbody>${body.trim().split('\n').filter(Boolean).map(r=>parseRow(r,'td')).join('')}</tbody></table>`);
       return ph;
-    })
-    .split('\n\n').map(block=>{
+    });
+  // parseLists must run BEFORE split('\n\n') — the splitter collapses \n to spaces,
+  // destroying the per-line structure that list parsing depends on.
+  const listBlocks=[];
+  html=parseLists(html,listBlocks);
+  html=html.split('\n\n').map(block=>{
       const t=block.trim();if(!t)return '';
-      if(/^\x00TABLE/.test(t)||/^<(h[1-6]|ul|ol|li|blockquote|hr|img|pre|code|sup|span|a)/.test(t))return t;
+      if(/^\x00TABLE/.test(t)||/^\x00LIST/.test(t)||/^<(h[1-6]|ul|ol|li|blockquote|hr|img|pre|code|sup|span|a)/.test(t))return t;
       return `<p>${t.replace(/\n/g,' ')}</p>`;
     }).join('\n');
   blocks.forEach((b,i)=>{html=html.replaceAll(`\x00TABLE${i}\x00`,b);});
+  listBlocks.forEach((b,i)=>{html=html.replaceAll(`\x00LIST${i}\x00`,b);});
   return html;
 }
 
@@ -113,6 +116,77 @@ box('Credits', meta.credits, c=>{
 });
 
   return parts.length?`<div class="InfoboxContent">${parts.join('')}</div>`:'';
+}
+
+function parseLists(text, blocks) {
+  const lines = text.split('\n');
+  const out = [];
+  const stack = [];
+
+  // Pop everything strictly deeper than 'depth', embedding into parent item
+  const flushDeeper = (depth) => {
+    while (stack.length && stack[stack.length-1].indent > depth) {
+      const top = stack.pop();
+      const tag = top.ordered ? 'ol' : 'ul';
+      const html = `<${tag}>${top.items.join('')}</${tag}>`;
+      const parent = stack[stack.length-1];
+      const last = parent.items.length ? parent.items.pop() : '<li>';
+      parent.items.push(last.replace(/<\/li>$/, '') + html + '</li>');
+    }
+  };
+
+  // Pop everything, emitting completed top-level lists as placeholders
+  const flushAll = () => {
+    while (stack.length) {
+      const top = stack.pop();
+      const tag = top.ordered ? 'ol' : 'ul';
+      const html = `<${tag}>${top.items.join('')}</${tag}>`;
+      if (stack.length) {
+        const parent = stack[stack.length-1];
+        const last = parent.items.length ? parent.items.pop() : '<li>';
+        parent.items.push(last.replace(/<\/li>$/, '') + html + '</li>');
+      } else {
+        const ph = `\x00LIST${blocks.length}\x00`;
+        blocks.push(html);
+        out.push(ph);
+      }
+    }
+  };
+
+  for (const line of lines) {
+    const ul = line.match(/^(\s*)[\*\-]\s+(.+)$/);
+    const ol = line.match(/^(\s*)\d+\.\s{1,3}(.+)$/);
+
+    if (!ul && !ol) { flushAll(); out.push(line); continue; }
+
+    const raw = ul ? ul[1] : ol[1];
+    const indent = Math.floor(raw.length / 2);
+    const ordered = !!ol;
+    const content = ul ? ul[2] : ol[2];
+    const top = stack[stack.length-1];
+
+    if (top && top.indent === indent && top.ordered === ordered) {
+      // Sibling in same list
+      top.items.push(`<li>${content}</li>`);
+    } else if (!top || indent > top.indent) {
+      // Going deeper — nest inside parent's last item
+      stack.push({ indent, ordered, items: [`<li>${content}</li>`] });
+    } else {
+      // Returning to same or shallower indent — flush nested lists into parent first
+      flushDeeper(indent);
+      const newTop = stack[stack.length-1];
+      if (newTop && newTop.indent === indent && newTop.ordered === ordered) {
+        newTop.items.push(`<li>${content}</li>`);
+      } else {
+        // Different list type at this level — close out and start fresh
+        flushAll();
+        stack.push({ indent, ordered, items: [`<li>${content}</li>`] });
+      }
+    }
+  }
+
+  flushAll();
+  return out.join('\n');
 }
 
 // ── Inventory section ─────────────────────────────────────────────────────────
