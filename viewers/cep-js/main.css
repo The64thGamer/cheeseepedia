@@ -5,7 +5,7 @@
   --primary: #e0961f;
   --secondary: #D44A02;
   --bad-link: #D44A02;
-  --border: #993b08;
+  --distant: #993b08;
   --dark: #2c2422;
   --font-body: "Aleo";
   --font-display: "RockoFLF";
@@ -18,7 +18,7 @@
   --primary: #ac7318;
   --secondary: #8C3000;
   --bad-link: #8C3000;
-  --border: #000000;
+  --distant: #000000;
   --dark: #000000;
 }
 
@@ -29,7 +29,7 @@
   --primary: #959595;
   --secondary: #646464;
   --bad-link: #646464;
-  --border: #fff;
+  --distant: #fff;
   --dark: #c4c4c4;
 }
 
@@ -40,7 +40,7 @@
   --primary: #4070D0;
   --secondary: #121d34;
   --bad-link: #d73333;
-  --border: #1e2c4c;
+  --distant: #1e2c4c;
   --dark: #121d34;
   --font-display: "sans-serif";
   --font-body: "sans-serif";
@@ -53,7 +53,7 @@
   --primary: #cccc66;
   --secondary: #ffef08;
   --bad-link: #ff0033;
-  --border: #b594bd;
+  --distant: #b594bd;
   --dark: #d94d04;
   --font-display: "Sylvar";
   --font-body: "helvetica";
@@ -66,7 +66,7 @@
   --primary: #d2c72a;
   --secondary: #d29400;
   --bad-link: #df221c;
-  --border: #df221c;
+  --distant: #df221c;
   --dark: #171515;
 }
 
@@ -77,7 +77,7 @@
   --primary: #4a4a4aff;
   --secondary: #2a2a2aff;
   --bad-link: #cd0000ff;
-  --border: #000;
+  --distant: #000;
   --dark: #000;
   --font-display: "Stalker";
 }
@@ -89,7 +89,7 @@
   --primary: #d9d7d1;
   --secondary: #CD2F3A;
   --bad-link: #CD2F3A;
-  --border: #009047;
+  --distant: #009047;
   --dark: #2f1515;
 }
 
@@ -100,7 +100,7 @@
   --primary: #3c8636;
   --secondary: #376A3C;
   --bad-link: #ce293aff;
-  --border: #4a7e86;
+  --distant: #4a7e86;
   --dark: #1a1e37;
 }
 
@@ -111,7 +111,7 @@
   --primary: #9f5620;
   --secondary: #DF7426;
   --bad-link: #a20606ff;
-  --border: #24172f;
+  --distant: #24172f;
   --dark: #220902;
   --font-display: "Unutterable";
 }
@@ -123,7 +123,7 @@
   --primary: #e38d59;
   --secondary: #de2d1e;
   --bad-link: #de2d1e;
-  --border: #b33227;
+  --distant: #b33227;
   --dark: #2c2422;
 }
 
@@ -134,7 +134,7 @@
   --primary: #a2a2a2;
   --secondary: #686868;
   --bad-link: #464646ff;
-  --border: #2f2f2f;
+  --distant: #2f2f2f;
   --dark: #222;
 }
 
@@ -180,7 +180,7 @@
 
 /* ── Base ── */
 html {
-  background-color: var(--border);
+  background-color: var(--distant);
 }
 
 body {
@@ -569,6 +569,7 @@ sup {
   background: var(--tag-color, color-mix(in srgb, var(--dark) 60%, transparent));
   color: var(--dark);
   font-family: var(--font-display);
+  height: 3rem;
 }
 
 .s-qtag-btn:hover {
@@ -578,7 +579,14 @@ sup {
 .s-qtag-count {
   opacity: .45;
   font-size: .7rem;
+  padding-left: 0.5rem;
 }
+
+.s-qtag-icon{
+  padding-right: 0.5rem;
+  width: 1rem;
+}
+
 
 .s-controls {
   display: flex;
@@ -693,9 +701,15 @@ sup {
 
 .s-item-meta {
   font-size: .75rem;
-  color: var(--primary);
   white-space: nowrap;
+  color: color-mix(in srgb, var(--text) 30%, transparent);
 }
+
+.s-item-meta strong{
+  color: var(--primary);
+  margin-right: 1rem;
+}
+
 
 .CompactCard {
   display: flex;
@@ -826,7 +840,7 @@ sup {
 
 .ArticleBody td {
   padding: .4rem .75rem;
-  border-top: 1px solid color-mix(in srgb, var(--border) 40%, transparent);
+  border-top: 1px solid color-mix(in srgb, var(--distant) 40%, transparent);
   vertical-align: top;
 }
 
@@ -911,7 +925,7 @@ sup {
 /* ── Review ── */
 .ReviewCard {
   padding: .75rem;
-  border-bottom: 1px solid color-mix(in srgb, var(--border) 40%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--distant) 40%, transparent);
 }
 
 .ReviewCard:last-child {
@@ -966,7 +980,7 @@ sup {
 
 .ReviewListItem {
   padding: .3rem .2rem;
-  border-bottom: 1px solid color-mix(in srgb, var(--border) 40%, transparent);
+  border-bottom: 1px solid color-mix(in srgb, var(--distant) 40%, transparent);
 }
 
 .ArticleWrap {
@@ -1047,12 +1061,12 @@ sup {
   opacity: .6;
   font-weight: normal;
   white-space: nowrap;
-  border-top: 1px solid color-mix(in srgb, var(--border) 40%, transparent);
+  border-top: 1px solid color-mix(in srgb, var(--distant) 40%, transparent);
 }
 
 .InfoboxTable td {
   padding: .35rem .6rem;
-  border-top: 1px solid color-mix(in srgb, var(--border) 40%, transparent);
+  border-top: 1px solid color-mix(in srgb, var(--distant) 40%, transparent);
 }
 
 .ArticleLoading,
@@ -1112,20 +1126,17 @@ sup {
 
 .InfoboxThumb {
   width: 100%;
-  aspect-ratio: 4/3;
-  overflow: hidden;
+  background-color: var(--background);
 }
 
 .InfoboxThumb img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
   display: block;
 }
 
 .Citations {
   margin-top: 2rem;
-  border-top: 1px solid var(--border);
+  border-top: 1px solid var(--distant);
   padding-top: 1rem;
 }
 
@@ -1134,12 +1145,8 @@ sup {
   gap: .75rem;
   align-items: flex-start;
   padding: .4rem 0;
-  border: 0.125rem solid var(--dark);
 }
 
-.CitationItem:last-child {
-  border-bottom: none;
-}
 
 .CitationIcon {
   width: 1.5rem;
@@ -1364,7 +1371,7 @@ sup a:hover {
 
 .InventoryTable td {
   padding: .35rem .65rem;
-  border-top: 1px solid color-mix(in srgb, var(--border) 40%, transparent);
+  border-top: 1px solid color-mix(in srgb, var(--distant) 40%, transparent);
   vertical-align: top;
 }
 

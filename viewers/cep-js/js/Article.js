@@ -230,7 +230,7 @@ const SECTION_RENDERERS={
   reviews:        doc=>renderReviewCard(doc),
   transcriptions: doc=>renderArticleList(doc),
 };
-const SECTION_LABELS={photos:'Photos',videos:'Videos',reviews:'Reviews',transcriptions:'Transcriptions'};
+const SECTION_LABELS={photos:'Gallery',videos:'Videos',reviews:'Reviews',transcriptions:'Transcriptions'};
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 export async function loadArticle(app, articleId){

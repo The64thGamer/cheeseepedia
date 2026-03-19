@@ -87,12 +87,13 @@ export function renderArticleCompact(doc) {
   return el;
 }
 
+
 export function renderArticleList(doc) {
   const el=document.createElement('div'); el.className='s-item';
   const href=permalink(doc.p);
-  el.innerHTML=`<div class="s-item-body">
+el.innerHTML=`<div class="s-item-body">
     <div class="s-item-title"><a href="${esc(href)}">${esc(doc.t||doc.p)}</a></div>
-    ${doc.d?`<div class="s-item-meta">${esc(fmtDateRange(doc.d,doc.de))}</div>`:''}
+    <div class="s-item-meta">${doc.d?`<strong>${esc(fmtDateRange(doc.d,doc.de))}</strong> `:''}</div>
   </div>`;
   injectViewCount(el, doc.p, '.s-item-meta');
   return el;
@@ -234,7 +235,7 @@ export function renderReviewList(doc) {
   const href=permalink(doc.p);
   el.innerHTML=`<div class="s-item-body">
     <div class="s-item-title"><a href="${esc(href)}">${esc(doc.t||doc.p)}</a></div>
-    ${doc.d?`<div class="s-item-meta">${esc(fmtDate(doc.d))}</div>`:''}
+    <div class="s-item-meta"><strong>${doc.d?esc(fmtDate(doc.d)):''}</strong></div>
   </div>`;
   Promise.all([fetch(`/content/${doc.p}/meta.json`).then(r=>r.json()).catch(()=>({})), getLinker(), getViews()]).then(([meta,linker,views])=>{
     const emoji=(meta.recommend??meta.recommended??true)?'👍':'👎';

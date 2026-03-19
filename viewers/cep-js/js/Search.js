@@ -5,6 +5,7 @@ import {
   renderVideoCard, renderVideoCompact, renderVideoList,
   renderReviewCard, renderReviewCompact, renderReviewList,
 } from '/viewers/cep-js/js/CardRenderer.js';
+import { renderQuickTags } from '/viewers/cep-js/js/QuickTags.js';
 
 export function initSearch(app) {
 (async () => {
@@ -18,7 +19,9 @@ const TABS = [
   { id:'reviews',  label:'Reviews',  types:['Reviews'] },
 ];
 
-const QUICK_TAGS = [
+
+
+const QUICK_TAGS_LIST = [
   "Pizza Time Theatre","ShowBiz Pizza Place","Chuck E. Cheese's",
   "2026","1977","Locations","Showtapes","Animatronic Shows","Stage Variations",
   "Animatronics","Animatronic Parts","Animatronic Preservation","Costumed Characters",
@@ -33,28 +36,6 @@ const QUICK_TAGS = [
   "Walt Disney Imagineering","Five Nights at Freddy's","Transcriptions",
   "Unknown Year","User","Meta"
 ];
-
-const TAG_COLORS = {
-  "Pizza Time Theatre":"#b7471bff","ShowBiz Pizza Place":"#b7471bff","Chuck E. Cheese's":"#b7471bff",
-  "Locations":"#c26827ff","Showtapes":"#7b4fd6","Animatronic Shows":"#4a7bd1",
-  "Animatronics":"#4a7bd1","Animatronic Parts":"#4a7bd1","Animatronic Preservation":"#4a7bd1",
-  "Stage Variations":"#4a7bd1","Costumed Characters":"#4a7bd1","Characters":"#2e8857ff",
-  "Retrofits":"#4a7bd1","Remodels and Initiatives":"#c26827ff","History":"#c26827ff",
-  "Cancelled Locations":"#c26827ff","Arcades and Attractions":"#c26827ff","Store Fixtures":"#c26827ff",
-  "Companies/Brands":"#2e8857ff","Events":"#2e8857ff","Animatronic Control Systems":"#99852aff",
-  "Other Systems":"#99852aff","Simulators":"#99852aff","Programming Systems":"#99852aff",
-  "Commercials":"#d14a4a","News Footage":"#d14a4a","Company Media":"#d14a4a","Movies":"#d14a4a",
-  "Puppets":"#7b4fd6","Live Shows":"#7b4fd6","ShowBiz Pizza Programs":"#7b4fd6",
-  "Showtape Formats":"#7b4fd6","Family Vision":"#7b4fd6","Corporate Documents":"#607f77ff",
-  "Documents":"#607f77ff","Promotional Material":"#607f77ff","Social Media and Websites":"#607f77ff",
-  "Ad Vehicles":"#607f77ff","In-Store Merchandise":"#0d9488","Products":"#0d9488",
-  "Menu Items":"#0d9488","Tickets":"#0d9488","Tokens":"#0d9488","Employee Wear":"#0d9488",
-  "Video Games":"#0d9488","Sally Corporation":"#b7471bff","Jim Henson's Creature Shop":"#b7471bff",
-  "Walt Disney Imagineering":"#b7471bff","Five Nights at Freddy's":"#b7471bff",
-  "Transcriptions":"#5a5a5a","Unknown Year":"#5a5a5a","2026":"#5a5a5a","1977":"#5a5a5a",
-  "User":"#5a5a5a","Meta":"#5a5a5a",
-};
-
 let DOCS=[], TAGS={}, ALL_TAG_KEYS=[], ARTICLE_LINKER={}, VIEWS={};
 const TRI_CACHE={};
 let chips=[], suggestIdx=-1, searchTimer=null, sQtagsOpen=false;
@@ -104,15 +85,7 @@ function activateTab(id) {
   sTabPanels.querySelectorAll('.s-tab-panel').forEach(p=>p.classList.toggle('active',p.id==='panel-'+id));
 }
 
-QUICK_TAGS.forEach(tag => {
-  const btn=document.createElement('button');
-  btn.className='s-qtag-btn'; btn.dataset.tag=tag;
-  btn.onclick=()=>addChip('tag',tag,false);
-  btn.textContent=tag;
-  const color=TAG_COLORS[tag];
-  if (color) btn.style.setProperty('--tag-color',color);
-  sQtagsList.appendChild(btn);
-});
+renderQuickTags(sQtagsList, QUICK_TAGS_LIST, tag => addChip('tag', tag, false));
 
 const reNW=/[^\w\s]/g, reS=/\s+/g;
 function tris(s) {
@@ -138,7 +111,11 @@ async function loadData() {
   ALL_TAG_KEYS=Object.keys(TAGS).sort((a,b)=>a.localeCompare(b,undefined,{sensitivity:'base'}));
   sQtagsList.querySelectorAll('.s-qtag-btn').forEach(btn=>{
     const count=(TAGS[btn.dataset.tag]||[]).length;
-    if(count) btn.innerHTML=esc(btn.dataset.tag)+` <span class="s-qtag-count">(${count})</span>`;
+    if(count){
+      let countEl=btn.querySelector('.s-qtag-count');
+      if(!countEl){countEl=document.createElement('span');countEl.className='s-qtag-count';btn.appendChild(countEl);}
+      countEl.textContent=`(${count})`;
+    }
   });
 }
 
