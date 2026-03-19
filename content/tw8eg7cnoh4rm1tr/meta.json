@@ -11,6 +11,68 @@
     "sudo trans --pony",
     "Tux Chuck"
   ],
+  "sales": [
+    {
+      "m": "$127.50",
+      "s": "2026-03-13",
+      "l": "https://web.archive.org/web/20260319210841/https://www.ebay.com/itm/267584215078"
+    },
+    {
+      "m": "$35.00",
+      "s": "2026-03-07",
+      "l": "https://web.archive.org/web/20260319211744/https://www.ebay.com/itm/117051915510"
+    },
+    {
+      "m": "$46.00",
+      "s": "2026-02-19",
+      "l": "https://web.archive.org/web/20260319211955/https://www.ebay.com/itm/168160521142"
+    },
+    {
+      "m": "$57.66",
+      "s": "2025-02-15",
+      "l": "https://web.archive.org/web/20260319214009/https://www.ebay.com/itm/227207480495"
+    },
+    {
+      "m": "$35.00",
+      "s": "2026-02-11",
+      "l": "https://web.archive.org/web/20260319214215/https://www.ebay.com/itm/389579720605"
+    },
+    {
+      "m": "$65.00",
+      "s": "2026-02-06",
+      "l": "https://web.archive.org/web/20260319214557/https://www.ebay.com/itm/397569125441"
+    },
+    {
+      "m": "$74.39",
+      "s": "2026-02-01",
+      "l": "https://web.archive.org/web/20260319214750/https://www.ebay.com/itm/267550008628"
+    },
+    {
+      "m": "$70.00",
+      "s": "2026-01-21",
+      "l": "https://web.archive.org/web/20260319214843/https://www.ebay.com/itm/157625675408"
+    },
+    {
+      "m": "$95.00",
+      "s": "2026-12-21",
+      "l": "https://web.archive.org/web/20260319215058/https://www.ebay.com/itm/389350112391"
+    },
+    {
+      "m": "$60.00",
+      "s": "2026-01-20",
+      "l": "https://web.archive.org/web/20260319214952/https://www.ebay.com/itm/187960463496"
+    },
+    {
+      "m": "$54.99",
+      "s": "2026-01-08",
+      "l": "https://web.archive.org/web/20260319215232/https://www.ebay.com/itm/168067990655"
+    },
+    {
+      "m": "$65.99",
+      "s": "2026-01-19",
+      "l": "https://web.archive.org/web/20260319215320/https://www.ebay.com/itm/157605680364"
+    }
+  ],
   "citations": [
     "http://mylittlewiki.org/wiki/Category:Play_and_Care_Sets",
     "https://archive.org/details/my-little-pony-model-sheet-master-file-page-167/My%20Little%20Pony%20model%20sheet%20master%20file_Page_160.jpg",
