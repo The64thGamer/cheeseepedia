@@ -267,7 +267,7 @@ const SECTION_RENDERERS={
 const SECTION_LABELS={photos:'Gallery',videos:'Videos',reviews:'Reviews',transcriptions:'Transcriptions'};
 
 // ── Main ──────────────────────────────────────────────────────────────────────
-export async function loadArticle(app, articleId){
+export async function loadArticle(app, articleId, addTag){
   const body   =app.querySelector('#ArticleBody');
   const infobox=app.querySelector('#Infobox');
   const titleEl=app.querySelector('#ArticleTitle');
@@ -295,7 +295,9 @@ export async function loadArticle(app, articleId){
     const articleTags=buildArticleTags(meta,md);
     if(articleTags.length){
       renderQuickTags(relatedTagsEl, articleTags, tag=>{
-        window.location.href=`/?v=cep-js&search=${encodeURIComponent(tag)}`;
+        if(addTag) addTag(tag);
+        const searchEl=document.querySelector('.Search');
+        if(searchEl) searchEl.scrollIntoView({behavior:'smooth',block:'start'});
       });
     }
   }
