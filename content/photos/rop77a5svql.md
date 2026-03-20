@@ -1,0 +1,8 @@
++++
+title = "rop77a5svql.avif"
+startDate = "1993-00-00"
+citations = ["Jungle Jim's International Market Archive"]
+type = "Photos"
+tags = ["Dolly (Dolli Dimples Retrofit)", "Jungle Jim's"]
++++
+Early construction for the relocated stage.
