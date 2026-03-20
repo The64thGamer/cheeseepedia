@@ -4,6 +4,7 @@ import { buildCitations } from './Citations.js';
 import { renderUsers } from './UserTag.js';
 import { renderPhotoCard, renderVideoCard, renderReviewCard, renderArticleList } from '/viewers/cep-js/js/CardRenderer.js';
 import { renderQuickTags } from '/viewers/cep-js/js/QuickTags.js';
+import { renderSalesTab } from '/viewers/cep-js/js/Sales.js';
 
 // ── Caches ────────────────────────────────────────────────────────────────────
 let LINKER=null, CONTRIBUTORS=null, RELATED=null;
@@ -340,6 +341,7 @@ export async function loadArticle(app, articleId, addTag){
   const sections=related[articleId]||{};
   const hasAnySections=Object.values(sections).some(v=>v?.length);
   const hasInventory=['animatronics','attractions','fixtures'].some(k=>meta[k]?.length);
+  const hasSales=Array.isArray(meta.sales)&&meta.sales.length>0;
 
   if(btnBar){
     btnBar.innerHTML='';
@@ -352,7 +354,7 @@ export async function loadArticle(app, articleId, addTag){
       btnBar.appendChild(btn);return btn;
     };
 
-    const needsArticleBtn=hasAnySections||hasInventory;
+    const needsArticleBtn=hasAnySections||hasInventory||hasSales;
     let articleBtn=null;
     if(needsArticleBtn)articleBtn=makeBtn('Article',showArticle);
 
@@ -376,6 +378,14 @@ export async function loadArticle(app, articleId, addTag){
         showInbox(false);
         body.innerHTML='';
         body.appendChild(renderInventorySection(meta,linker));
+      });
+    }
+
+    if(hasSales){
+      makeBtn(`Sales (${meta.sales.length})`,()=>{
+        showInbox(false);
+        body.innerHTML='';
+        body.appendChild(renderSalesTab(meta.sales));
       });
     }
 
