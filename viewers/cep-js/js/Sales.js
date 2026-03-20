@@ -22,52 +22,17 @@ function dateToTs(d) {
 }
 
 /**
- * Weighted recent projection.
- * First isolates the most recent contiguous cluster of sales — if there's a
- * large time gap between sales (>2x the median gap in the cluster), earlier
- * outliers are excluded. Then does exponentially-weighted linear regression
- * on up to the last 8 sales in that cluster.
+ * Recent price average.
+ * Prefers sales within the last 3 months if there are at least 3.
+ * Falls back to the most recent 10 sales otherwise.
  */
-function projectPrice(entries, targetTs) {
-  if(entries.length < 2) return entries[entries.length-1]?.price ?? 0;
-
-  // Find the recent cluster: walk backwards and stop when a gap is >2x the
-  // median gap of the trailing sales. This drops ancient outliers like a
-  // 1999 sale mixed in with 2025 sales.
-  const recent = [entries[entries.length-1]];
-  for(let i = entries.length-2; i >= 0; i--) {
-    const gap     = entries[i+1].ts - entries[i].ts;
-    const clusterSpan = recent[recent.length-1].ts - recent[0].ts;
-    const clusterN    = recent.length;
-    // If cluster has at least 2 points, check if this gap is an outlier
-    if(clusterN >= 2) {
-      const medianGap = clusterSpan / (clusterN - 1);
-      // Gap is more than 4x the current cluster's average gap — stop here
-      if(gap > medianGap * 4) break;
-    }
-    recent.unshift(entries[i]);
-  }
-
-  // Use up to last 8 sales from the cluster
-  const pool = recent.slice(-8);
-  if(pool.length < 2) return pool[pool.length-1].price;
-
-  // Exponential weights: most recent = highest weight
-  const weights = pool.map((_, i) => Math.pow(2, i));
-  const totalW  = weights.reduce((s,w) => s+w, 0);
-
-  const wMeanX = pool.reduce((s,e,i) => s + weights[i]*e.ts,    0) / totalW;
-  const wMeanY = pool.reduce((s,e,i) => s + weights[i]*e.price, 0) / totalW;
-  const num    = pool.reduce((s,e,i) => s + weights[i]*(e.ts-wMeanX)*(e.price-wMeanY), 0);
-  const den    = pool.reduce((s,e,i) => s + weights[i]*(e.ts-wMeanX)**2, 0);
-
-  if(den === 0) return wMeanY;
-  const slope     = num / den;
-  const intercept = wMeanY - slope * wMeanX;
-  const raw = slope * targetTs + intercept;
-  // Floor at half the cluster weighted mean — prevents runaway extrapolation
-  // on short downtrends from reporting an implausible near-zero price.
-  return Math.max(wMeanY * 0.5, raw);
+function recentAvg(entries) {
+  if(!entries.length) return 0;
+  const threeMonthsMs = 90 * 24 * 60 * 60 * 1000;
+  const cutoff = Date.now() - threeMonthsMs;
+  const recent3mo = entries.filter(e => e.ts >= cutoff);
+  const pool = recent3mo.length >= 3 ? recent3mo : entries.slice(-10);
+  return pool.reduce((s,e) => s+e.price, 0) / pool.length;
 }
 
 export function renderSalesTab(sales) {
@@ -98,10 +63,11 @@ export function renderSalesTab(sales) {
   const nowTs     = Date.now();
   const lastEntry = entries[entries.length-1];
 
-  // Only show projection if latest sale isn't today
-  const dayMs = 86400000;
-  const showProjection = (nowTs - lastEntry.ts) > dayMs;
-  const projectedNow   = showProjection ? projectPrice(entries, nowTs) : lastEntry.price;
+  // Recent average — always shown as long as there are sales
+  const recentAvgPrice = recentAvg(entries);
+  const threeMonthsMs  = 90 * 24 * 60 * 60 * 1000;
+  const recent3mo      = entries.filter(e => e.ts >= Date.now() - threeMonthsMs);
+  const recentLabel    = recent3mo.length >= 3 ? '3-Month Avg' : 'Recent Avg (last 10)';
 
   // Chart bounds: X from first sale to today, Y from 0 to max+headroom
   const minTs    = entries[0].ts;
@@ -119,7 +85,7 @@ export function renderSalesTab(sales) {
   stats.innerHTML = `
     <span class="SalesStat"><span class="SalesStatLabel">Sales</span> ${entries.length}</span>
     <span class="SalesStat"><span class="SalesStatLabel">Average Price</span> $${avgPrice.toFixed(2)}</span>
-    ${showProjection ? `<span class="SalesStat"><span class="SalesStatLabel">Projected Price</span> $${projectedNow.toFixed(2)}</span>` : ''}
+    <span class="SalesStat"><span class="SalesStatLabel">${recentLabel}</span> $${recentAvgPrice.toFixed(2)}</span>
     <span class="SalesStat"><span class="SalesStatLabel">Range</span> $${minPrice.toFixed(2)} – $${maxPrice.toFixed(2)}</span>
   `;
   wrap.appendChild(stats);
@@ -157,7 +123,7 @@ export function renderSalesTab(sales) {
   const svg = document.createElementNS(svgNS, 'svg');
   svg.setAttribute('viewBox', `0 0 ${W} ${H}`);
   svg.setAttribute('class', 'SalesChart');
-  svg.style.cssText = 'width:100%;px;display:block;';
+  svg.style.cssText = 'width:100%;display:block;';
 
   const mk = (tag, attrs = {}, parent = svg) => {
     const el = document.createElementNS(svgNS, tag);
@@ -196,17 +162,7 @@ export function renderSalesTab(sales) {
     stroke:'var(--color-accent2,#f0a030)', 'stroke-width':'1.5',
     'stroke-dasharray':'6 3', opacity:'0.75'});
 
-  // ── Projection line (dashed, from last sale dot → right edge) ─────────────
-  // Only drawn if latest sale isn't today; starts exactly at the last dot.
-  if(showProjection) {
-    const px1 = tx(lastEntry.ts);
-    const py1 = ty(lastEntry.price);
-    const px2 = tx(nowTs);
-    const py2 = ty(projectedNow);
-    mk('line', {x1:px1, y1:py1, x2:px2, y2:py2,
-      stroke:'var(--color-accent,#7b9ef0)', 'stroke-width':'1.5',
-      'stroke-dasharray':'5 4', opacity:'0.55'});
-  }
+
 
   // ── Sale price polyline (solid, only between actual sale points) ───────────
   const polyPoints = entries.map(e =>
@@ -216,12 +172,7 @@ export function renderSalesTab(sales) {
     stroke:'var(--color-accent,#7b9ef0)', 'stroke-width':'2',
     'stroke-linejoin':'round', 'stroke-linecap':'round'});
 
-  // ── Projected endpoint dot ────────────────────────────────────────────────
-  if(showProjection) {
-    mk('circle', {cx:tx(nowTs), cy:ty(projectedNow), r:'4',
-      fill:'none', stroke:'var(--color-accent,#7b9ef0)',
-      'stroke-width':'1.5', opacity:'0.55', 'stroke-dasharray':'2 2'});
-  }
+
 
   // ── Tooltip ───────────────────────────────────────────────────────────────
   const tooltip = document.createElement('div');
@@ -280,9 +231,7 @@ export function renderSalesTab(sales) {
     <span class="SalesLegendItem">${mkLegendSvg(
       `<line x1="0" y1="6" x2="28" y2="6" stroke="var(--color-accent2,#f0a030)" stroke-width="1.5" stroke-dasharray="6 3"/>`
     )} Average</span>
-    ${showProjection ? `<span class="SalesLegendItem">${mkLegendSvg(
-      `<line x1="0" y1="6" x2="28" y2="6" stroke="var(--color-accent,#7b9ef0)" stroke-width="1.5" stroke-dasharray="5 4" opacity="0.55"/>`
-    )} Projection</span>` : ''}
+
   `;
   wrap.appendChild(legend);
 

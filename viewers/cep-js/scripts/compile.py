@@ -9,6 +9,7 @@ import buildCitationLinker
 import buildContributors
 import buildSearch
 import buildFinalData
+import buildLocationInventoryLinker
 import buildRelated
 
 def main():
@@ -18,6 +19,7 @@ def main():
     buildArticleLinker.main()
     buildCitationLinker.main()
     buildContributors.main()
+    buildLocationInventoryLinker.main()
     buildRelated.main()
 
     buildFinalData.main()

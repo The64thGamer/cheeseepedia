@@ -5,6 +5,7 @@ import { renderUsers } from './UserTag.js';
 import { renderPhotoCard, renderVideoCard, renderReviewCard, renderArticleList } from '/viewers/cep-js/js/CardRenderer.js';
 import { renderQuickTags } from '/viewers/cep-js/js/QuickTags.js';
 import { renderSalesTab } from '/viewers/cep-js/js/Sales.js';
+import { renderInventoriesTab } from '/viewers/cep-js/js/InventoriesTab.js';
 
 // ── Caches ────────────────────────────────────────────────────────────────────
 let LINKER=null, CONTRIBUTORS=null, RELATED=null;
@@ -365,7 +366,14 @@ export async function loadArticle(app, articleId, addTag){
         showInbox(false);
         body.innerHTML='';
         const wrap=document.createElement('div');wrap.className='CardWrap';
-        items.forEach(item=>{
+        const sorted=[...items].sort((a,b)=>{
+          const ad=a.d||'', bd=b.d||'';
+          const aUnk=!ad||ad==='0000-00-00'||ad.startsWith('0000');
+          const bUnk=!bd||bd==='0000-00-00'||bd.startsWith('0000');
+          if(aUnk&&bUnk)return 0; if(aUnk)return 1; if(bUnk)return -1;
+          return ad.localeCompare(bd);
+        });
+        sorted.forEach(item=>{
           const doc={t:item.t,p:item.p,d:item.d||'',de:'',e:item.e||'',tp:type.charAt(0).toUpperCase()+type.slice(1)};
           wrap.appendChild(renderer(doc));
         });
@@ -388,6 +396,16 @@ export async function loadArticle(app, articleId, addTag){
         body.appendChild(renderSalesTab(meta.sales));
       });
     }
+
+    // Inventories tab — shows all locations this item appears in
+    renderInventoriesTab(meta.title, linker).then(el=>{
+      if(!el) return;
+      makeBtn('Inventory',()=>{
+        showInbox(false);
+        body.innerHTML='';
+        body.appendChild(el);
+      });
+    });
 
     if(articleBtn)setActive(articleBtn);
   }
