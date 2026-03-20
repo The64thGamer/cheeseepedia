@@ -554,7 +554,7 @@ sup {
   letter-spacing: .05em;
 }
 
-.s-qtags-scroll {
+.s-qtags-scroll, .RelatedTags {
   display: flex;
   flex-wrap: wrap;
   gap: .35rem;
@@ -566,7 +566,7 @@ sup {
   padding: .2rem .6rem;
   font-size: .8rem;
   cursor: pointer;
-  background: var(--tag-color, color-mix(in srgb, var(--dark) 60%, transparent));
+  background: var(--tag-color, color-mix(in srgb, var(--text) 30%, transparent));
   color: var(--dark);
   font-family: var(--font-display);
   height: 3rem;

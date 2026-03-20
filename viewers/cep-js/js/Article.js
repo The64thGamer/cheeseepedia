@@ -3,6 +3,7 @@ import { ProgressiveImage } from './ProgressiveImage.js';
 import { buildCitations } from './Citations.js';
 import { renderUsers } from './UserTag.js';
 import { renderPhotoCard, renderVideoCard, renderReviewCard, renderArticleList } from '/viewers/cep-js/js/CardRenderer.js';
+import { renderQuickTags } from '/viewers/cep-js/js/QuickTags.js';
 
 // ── Caches ────────────────────────────────────────────────────────────────────
 let LINKER=null, CONTRIBUTORS=null, RELATED=null;
@@ -26,6 +27,39 @@ function fmtDateRange(s,e){
   return start+' - '+fmtDate(e);
 }
 const esc=s=>s?String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'):'';
+
+// ── Tag extraction (mirrors build script extract_tags + extract_wiki_link_tags) ──
+const DICT_TAG_FIELDS   = ['remodels','stages','animatronics','franchisees','attractions','credits'];
+const STRING_TAG_FIELDS = ['tags','pages','page'];
+function extractName(val){ return typeof val==='object'&&val!==null?String(val.n||'').trim():String(val).split('|')[0].trim(); }
+function extractTags(fm){
+  const tags=[], seen=new Set();
+  const push=v=>{ v=String(v).trim(); if(v&&!seen.has(v.toLowerCase())){seen.add(v.toLowerCase());tags.push(v);} };
+  DICT_TAG_FIELDS.forEach(f=>{ (fm[f]||[]).forEach(item=>push(extractName(item))); });
+  STRING_TAG_FIELDS.forEach(f=>{ const val=fm[f]; if(!val)return; (Array.isArray(val)?val:[val]).forEach(item=>push(String(item).split('|')[0].trim())); });
+  push(fm.type||'');
+  (fm.credits||[]).forEach(c=>push(String(c).split('|')[0].trim()));
+  push(fm.title||'');
+  const year=(fm.startDate||'').split('-')[0];
+  push((year&&year!=='0000')?year:'Unknown Year');
+  return tags;
+}
+function extractWikiLinkTags(md){
+  const tags=[], seen=new Set();
+  for(const m of md.matchAll(/\[([^\]]+)\]/g)){
+    const val=m[1].trim();
+    if(val&&!/^\d+$/.test(val)&&!seen.has(val.toLowerCase())){seen.add(val.toLowerCase());tags.push(val);}
+  }
+  return tags;
+}
+function buildArticleTags(fm, md){
+  const seen=new Set(), tags=[];
+  const push=v=>{ if(v&&!seen.has(v.toLowerCase())){seen.add(v.toLowerCase());tags.push(v);} };
+  extractTags(fm).forEach(push);
+  extractWikiLinkTags(md).forEach(push);
+  return tags;
+}
+
 
 // ── Markdown ──────────────────────────────────────────────────────────────────
 async function renderMarkdown(md){
@@ -253,6 +287,18 @@ export async function loadArticle(app, articleId){
 
   if(meta.title)document.title=meta.title;
   if(titleEl)titleEl.textContent=meta.title||'';
+
+  // Related tags
+  const relatedTagsEl=app.querySelector('.RelatedTags');
+  if(relatedTagsEl){
+    relatedTagsEl.innerHTML='';
+    const articleTags=buildArticleTags(meta,md);
+    if(articleTags.length){
+      renderQuickTags(relatedTagsEl, articleTags, tag=>{
+        window.location.href=`/?v=cep-js&search=${encodeURIComponent(tag)}`;
+      });
+    }
+  }
 
   // Infobox
   const linker=await getLinker();
