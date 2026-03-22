@@ -1,5 +1,4 @@
 {
-  "cuDate": "1991-00-00",
   "title": "St. Louis, MO (2805 Target Dr)",
   "startDate": "1981-09-30",
   "endDate": "2006-00-00",
@@ -179,6 +178,10 @@
     {
       "n": "Phase 2 (1997)",
       "s": "1997-00-00"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
     }
   ],
   "stages": [

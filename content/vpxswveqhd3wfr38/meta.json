@@ -1,5 +1,4 @@
 {
-  "cuDate": "1991-00-00",
   "title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
   "startDate": "1982-10-20",
   "endDate": "",
@@ -170,6 +169,10 @@
     {
       "n": "CEC 2.0 Remodel Program",
       "s": "2024-07-26"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
     }
   ],
   "stages": [

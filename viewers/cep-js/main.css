@@ -542,6 +542,11 @@ sup {
   color: var(--text);
 }
 
+.s-suggest-years {
+  color: color-mix(in srgb, var(--text) 30%, transparent);
+  margin-right: 1rem;
+}
+
 .s-suggest-item:hover,
 .s-suggest-item.active {
   background: color-mix(in srgb, var(--primary) 15%, transparent);
