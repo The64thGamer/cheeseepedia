@@ -5,7 +5,6 @@ import { loadArticle } from './js/Article.js';
 import { loadPinnedCards } from './js/PinnedArticles.js';
 import { loadRandomCards } from './js/RandomCards.js';
 
-
 const DEFAULT_PINS = ['2zcr9lyoaq2ifmmf', 'bds7nm5tkdgnikq4', 'w4vtcv03ctirl55h'];
 
 export async function render(params, app) {
@@ -28,6 +27,7 @@ export async function render(params, app) {
     }
     root.toggleAttribute('data-wide', localStorage.getItem('cep-wide') === '1');
   }
+
   // Apply logo matching the current theme
   const LOGOS = {
     'standard':    'CEPLogo.avif',
@@ -55,7 +55,6 @@ export async function render(params, app) {
     if(!img) { img = document.createElement('img'); logoWrap.appendChild(img); }
     img.src = '/viewers/cep-js/assets/Logos/' + logoFile;
   };
-
 
   // Init pins
   if (!localStorage.getItem('Pins'))
@@ -105,6 +104,12 @@ export async function render(params, app) {
   } else {
     loadNewsCards(app);
     loadPinnedCards(app);
+    // Map loads on home page — dynamic import so Leaflet isn't fetched on article pages
+    const mapContainer = app.querySelector('#MapRoot');
+    if(mapContainer) {
+      const { initMap } = await import('./js/Map.js');
+      initMap(mapContainer);
+    }
   }
 
   loadRandomCards(app);

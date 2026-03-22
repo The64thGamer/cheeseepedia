@@ -552,6 +552,12 @@ sup {
   background: color-mix(in srgb, var(--primary) 15%, transparent);
 }
 
+.Map{
+  display:flex;
+  flex-direction:column;
+  height:30rem;
+}
+
 .s-suggest-count {
   opacity: .5;
   font-size: .75rem;
