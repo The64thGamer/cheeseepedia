@@ -63,12 +63,22 @@ export async function render(params, app) {
   const articleId = params.get('') || params.get('=');
   const page      = params.get('page');
 
+  // For articles, peek at meta.json to pick the right HTML template
+  let articleType = null;
+  if(articleId) {
+    try {
+      const m = await fetch(`/content/${articleId}/meta.json`);
+      if(m.ok) { const j = await m.json(); articleType = (j.type||'').toLowerCase(); }
+    } catch {}
+  }
+
   // Determine which body HTML to load
   let bodyUrl;
-  if      (page === 'settings') bodyUrl = '/viewers/cep-js/Settings.html';
-  else if (page === 'stats')    bodyUrl = '/viewers/cep-js/Stats.html';
-  else if (articleId)           bodyUrl = '/viewers/cep-js/Article.html';
-  else                          bodyUrl = '/viewers/cep-js/Home.html';
+  if      (page === 'settings')   bodyUrl = '/viewers/cep-js/Settings.html';
+  else if (page === 'stats')      bodyUrl = '/viewers/cep-js/Stats.html';
+  else if (articleType === 'user') bodyUrl = '/viewers/cep-js/User.html';
+  else if (articleId)             bodyUrl = '/viewers/cep-js/Article.html';
+  else                            bodyUrl = '/viewers/cep-js/Home.html';
 
   const [baseRes, bodyRes, searchRes] = await Promise.all([
     fetch('/viewers/cep-js/Base.html'),

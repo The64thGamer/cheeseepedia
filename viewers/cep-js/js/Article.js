@@ -264,7 +264,7 @@ const SECTION_RENDERERS={
   photos:         doc=>renderPhotoCard(doc),
   videos:         doc=>renderVideoCard(doc),
   reviews:        doc=>renderReviewCard(doc),
-  transcriptions: doc=>renderArticleList(doc),
+  transcriptions: async doc=>{ const {renderTranscript}=await import('./TranscriptArticle.js'); return renderTranscript(doc); },
 };
 const SECTION_LABELS={photos:'Gallery',videos:'Videos',reviews:'Reviews',transcriptions:'Transcriptions'};
 
@@ -275,9 +275,9 @@ export async function loadArticle(app, articleId, addTag){
   const titleEl=app.querySelector('#ArticleTitle');
   const btnBar =app.querySelector('#ArticleHeaderBtns');
   const header =app.querySelector('.ArticleHeader');
-  if(!body||!infobox)return;
+  if(!body)return;
 
-  const showInbox=show=>{ infobox.style.display=show?'':'none'; };
+  const showInbox=show=>{ if(infobox)infobox.style.display=show?'':'none'; };
   body.innerHTML='<p class="ArticleLoading">Loading...</p>';
 
   let metaRes,mdRes;
@@ -286,6 +286,25 @@ export async function loadArticle(app, articleId, addTag){
 
   const meta=metaRes.ok?await metaRes.json():{};
   const md=mdRes?.ok?await mdRes.text():'';
+
+  // Dispatch to type-specific renderer if applicable
+  const typeKey=(meta.type||'').toLowerCase();
+  if(typeKey==='photos'||typeKey==='videos'){
+    const {loadPhotoVideoArticle}=await import('./PhotoVideoArticle.js');
+    return loadPhotoVideoArticle(app,articleId,meta,md,addTag);
+  }
+  if(typeKey==='reviews'){
+    const {loadReviewArticle}=await import('./ReviewArticle.js');
+    return loadReviewArticle(app,articleId,meta,md,addTag);
+  }
+  if(typeKey==='transcriptions'){
+    const {loadTranscriptArticle}=await import('./TranscriptArticle.js');
+    return loadTranscriptArticle(app,articleId,meta,md,addTag);
+  }
+  if(typeKey==='user'){
+    const {loadUserArticle}=await import('./UserArticle.js');
+    return loadUserArticle(app,articleId,meta,md,addTag);
+  }
 
   if(meta.title)document.title=meta.title;
   if(titleEl)titleEl.textContent=meta.title||'';
@@ -373,11 +392,12 @@ export async function loadArticle(app, articleId, addTag){
           if(aUnk&&bUnk)return 0; if(aUnk)return 1; if(bUnk)return -1;
           return ad.localeCompare(bd);
         });
-        sorted.forEach(item=>{
-          const doc={t:item.t,p:item.p,d:item.d||'',de:'',e:item.e||'',tp:type.charAt(0).toUpperCase()+type.slice(1)};
-          wrap.appendChild(renderer(doc));
-        });
         body.appendChild(wrap);
+        Promise.all(sorted.map(async item=>{
+          const doc={t:item.t,p:item.p,d:item.d||'',de:'',e:item.e||'',tp:type.charAt(0).toUpperCase()+type.slice(1)};
+          const el=await renderer(doc);
+          wrap.appendChild(el);
+        }));
       });
     });
 
@@ -397,7 +417,6 @@ export async function loadArticle(app, articleId, addTag){
       });
     }
 
-    // Inventories tab — shows all locations this item appears in
     renderInventoriesTab(meta.title, linker).then(el=>{
       if(!el) return;
       makeBtn('Inventory',()=>{
