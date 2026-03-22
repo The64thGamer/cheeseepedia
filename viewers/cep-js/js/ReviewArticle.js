@@ -1,9 +1,4 @@
-/**
- * ReviewArticle.js
- * Renderer for pages with type "Reviews".
- * Renders as a single review card using CardRenderer.
- * No infobox, no tabs, no contributors, no related tags.
- */
+
 import { renderReviewCard } from '/viewers/cep-js/js/CardRenderer.js';
 import { setTitle } from './ArticleUtils.js';
 
@@ -13,6 +8,7 @@ export async function loadReviewArticle(app, articleId, meta, md, addTag){
   if(infobox) infobox.style.display='none';
 
   setTitle(app, meta.title);
+  renderArticleMeta(app, articleId);
 
   if(body){
     body.innerHTML='';

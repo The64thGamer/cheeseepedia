@@ -6,7 +6,7 @@ import { renderPhotoCard, renderVideoCard, renderReviewCard, renderArticleList }
 import { renderQuickTags } from '/viewers/cep-js/js/QuickTags.js';
 import { renderSalesTab } from '/viewers/cep-js/js/Sales.js';
 import { renderInventoriesTab } from '/viewers/cep-js/js/InventoriesTab.js';
-
+import { renderArticleMeta } from '/viewers/cep-js/js/ArticleUtils.js';
 // ── Caches ────────────────────────────────────────────────────────────────────
 let LINKER=null, CONTRIBUTORS=null, RELATED=null;
 const getLinker   = async () => LINKER       ||= await fetch('/viewers/cep-js/compiled-json/ArticleLinker.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
@@ -165,12 +165,17 @@ function parseLists(text, blocks) {
       const top = stack.pop();
       const tag = top.ordered ? 'ol' : 'ul';
       const html = `<${tag}>${top.items.join('')}</${tag}>`;
-      const parent = stack[stack.length-1];
-      const last = parent.items.length ? parent.items.pop() : '<li>';
-      parent.items.push(last.replace(/<\/li>$/, '') + html + '</li>');
+      if (stack.length) {
+        const parent = stack[stack.length-1];
+        const last = parent.items.length ? parent.items.pop() : '<li>';
+        parent.items.push(last.replace(/<\/li>$/, '') + html + '</li>');
+      } else {
+        const ph = `LIST${blocks.length}`;
+        blocks.push(html);
+        out.push(ph);
+      }
     }
   };
-
   // Pop everything, emitting completed top-level lists as placeholders
   const flushAll = () => {
     while (stack.length) {
@@ -308,7 +313,7 @@ export async function loadArticle(app, articleId, addTag){
 
   if(meta.title)document.title=meta.title;
   if(titleEl)titleEl.textContent=meta.title||'';
-
+  renderArticleMeta(app, articleId); 
   // Related tags
   const relatedTagsEl=app.querySelector('.RelatedTags');
   if(relatedTagsEl){

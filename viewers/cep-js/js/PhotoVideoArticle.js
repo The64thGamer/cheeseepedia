@@ -1,12 +1,6 @@
-/**
- * PhotoVideoArticle.js
- * Renderer for pages with type "Photos" or "Videos".
- * Photos: displays photo.avif via ProgressiveImage, then content.md description.
- * Videos: embeds YouTube or archive.org from meta.title, lists mirroredLinks, then content.md.
- * Both show contributors and related tags.
- */
 import { ProgressiveImage } from './ProgressiveImage.js';
 import { setTitle, renderBody, renderContributors, renderRelatedTags } from './ArticleUtils.js';
+import { renderArticleMeta } from '/viewers/cep-js/js/ArticleUtils.js';
 
 function embedVideo(url) {
   const el = document.createElement('div');
@@ -56,6 +50,7 @@ export async function loadPhotoVideoArticle(app, articleId, meta, md, addTag) {
   if (infobox) infobox.style.display = 'none';
 
   setTitle(app, meta.title);
+  renderArticleMeta(app, articleId);
   if (!body) return;
   body.innerHTML = '';
 

@@ -1,14 +1,6 @@
-/**
- * TranscriptArticle.js
- * Renderer for pages with type "Transcriptions".
- * Displays content.md in a dedicated TranscriptBody container,
- * plus contributors and related tags.
- * No infobox, no tabs.
- *
- * Also exports renderTranscript(articleId) for use in Article.js tabs,
- * so transcription tabs display full content rather than just a link.
- */
+
 import { setTitle, renderBody, renderContributors, renderRelatedTags, getLinker } from './ArticleUtils.js';
+import { renderArticleMeta } from '/viewers/cep-js/js/ArticleUtils.js';
 
 export async function loadTranscriptArticle(app, articleId, meta, md, addTag){
   const body=app.querySelector('#ArticleBody');
@@ -16,6 +8,8 @@ export async function loadTranscriptArticle(app, articleId, meta, md, addTag){
   if(infobox) infobox.style.display='none';
 
   setTitle(app, meta.title);
+    renderArticleMeta(app, articleId);
+
 
   if(body){
     body.innerHTML='';
@@ -33,10 +27,6 @@ export async function loadTranscriptArticle(app, articleId, meta, md, addTag){
   }
 }
 
-/**
- * Fetch and render a single transcript as a self-contained block.
- * Used by Article.js Transcriptions tab to show full content inline.
- */
 export async function renderTranscript(item){
   const wrap=document.createElement('div');
   wrap.className='TranscriptBody';

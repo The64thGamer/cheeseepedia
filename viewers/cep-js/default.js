@@ -1,4 +1,4 @@
-import { loadNewsCards } from './js/DiscourseNews.js';
+import { loadNewsCards } from './js/HomeNews.js';
 import { loadSplashText } from './js/SplashText.js';
 import { initSearch } from './js/Search.js';
 import { loadArticle } from './js/Article.js';

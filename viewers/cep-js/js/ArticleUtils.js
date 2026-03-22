@@ -10,13 +10,15 @@ import { buildCitations }  from './Citations.js';
 import { initLinkPreviews } from './LinkPreview.js';
 
 // ── Caches ────────────────────────────────────────────────────────────────────
-let LINKER=null, CONTRIBUTORS=null, RELATED=null;
+let LINKER=null, CONTRIBUTORS=null, RELATED=null, SEARCH_DOCS=null, VIEWS=null;
 export const getLinker    = async () => LINKER       ||= await fetch('/viewers/cep-js/compiled-json/ArticleLinker.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
 export const getContribs  = async () => CONTRIBUTORS ||= await fetch('/viewers/cep-js/compiled-json/contributors.json').then(r=>r.json()).catch(()=>[]);
 export const getRelated   = async () => RELATED      ||= await fetch('/viewers/cep-js/compiled-json/related.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
+export const getSearchDocs= async () => SEARCH_DOCS  ||= await fetch('/viewers/cep-js/compiled-json/search/docs.json').then(r=>r.ok?r.json():[]).catch(()=>[]);
+export const getViews     = async () => VIEWS        ||= await fetch('/viewers/cep-js/compiled-json/views.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
 
 // ── Date utils ────────────────────────────────────────────────────────────────
-const MNAMES=['','Jan. ','Feb. ','Mar. ','Apr. ','May ','Jun. ','Jul. ','Aug. ','Sep. ','Oct. ','Nov. ','Dec.'];
+const MNAMES=['','Jan. ','Feb. ','Mar. ','Apr. ','May ','Julet LINKER=null, CONTRIBUTORS=null, RELATED=null, SEARCH_DOCS=null, VIEWS=null;n. ','Jul. ','Aug. ','Sep. ','Oct. ','Nov. ','Dec.'];
 export function fmtDate(d){
   if(!d||d==='0000-00-00'||!d.trim()) return '???';
   const [y,m,day]=d.split('-'), yi=parseInt(y,10), mi=parseInt(m,10), di=parseInt(day,10);
@@ -62,6 +64,42 @@ export function buildArticleTags(fm,md){
   extractTags(fm).forEach(push);
   extractWikiLinkTags(md).forEach(push);
   return tags;
+}
+function timeAgo(unixSeconds){
+  if(!unixSeconds) return '';
+  const diff=Math.floor(Date.now()/1000-unixSeconds);
+  if(diff<60)        return 'just now';
+  if(diff<3600)      { const m=Math.floor(diff/60);    return `${m} minute${m!==1?'s':''} ago`; }
+  if(diff<86400)     { const h=Math.floor(diff/3600);   return `${h} hour${h!==1?'s':''} ago`; }
+  if(diff<7*86400)   { const d=Math.floor(diff/86400);  return `${d} day${d!==1?'s':''} ago`; }
+  if(diff<30*86400)  { const w=Math.floor(diff/604800); return `${w} week${w!==1?'s':''} ago`; }
+  if(diff<365*86400) { const mo=Math.floor(diff/2592000);return `${mo} month${mo!==1?'s':''} ago`; }
+  return new Date(unixSeconds*1000).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
+}
+
+export async function renderArticleMeta(app, articleId){
+  const [docs, views] = await Promise.all([getSearchDocs(), getViews()]);
+  const doc   = docs.find(d => d.p === articleId);
+  const mt    = doc?.mt || 0;
+  const count = views[articleId] ?? 0;
+
+  const bar = document.createElement('div');
+  bar.className = 'ArticleMetaBar';
+
+  if(mt){
+    const updated = document.createElement('span');
+    updated.className = 'ArticleMetaUpdated';
+    updated.textContent = `Updated ${timeAgo(mt)}`;
+    bar.appendChild(updated);
+  }
+
+  const viewEl = document.createElement('span');
+  viewEl.className = 'ArticleMetaViews';
+  viewEl.textContent = `${count.toLocaleString()} view${count!==1?'s':''}`;
+  bar.appendChild(viewEl);
+
+  const header = app.querySelector('.ArticleHeader');
+if(header) header.insertAdjacentElement('afterend', bar);
 }
 
 // ── Markdown renderer ─────────────────────────────────────────────────────────
