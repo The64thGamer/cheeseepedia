@@ -260,6 +260,22 @@ export function initSettings(app) {
       applyTheme(val);
       customPanel.style.display = 'none';
     }
+    // Update logo to match new theme
+    const LOGOS = {
+      'standard':'CEPLogo.avif','dark':'LogoDark.avif','light':'LogoLight.avif',
+      'classic':'LogoClassic.avif','funnet':'LogoFunNet.avif','showbiz':'LogoShowBiz.avif',
+      'fnaf':'LogoFNaF.avif','pasqually':'LogoPasqually.avif','winter':'LogoWinter.avif',
+      'halloween':'LogoHalloween.avif','pride':'LogoPride.avif','anniversary':'LogoAnniversary.avif',
+    };
+    const logoWrap = app.querySelector('.Logo') || document.querySelector('.Logo');
+    if(logoWrap) {
+      let img = logoWrap.querySelector('img');
+      if(!img){ img = document.createElement('img'); logoWrap.appendChild(img); }
+      const logoFile = val === 'custom'
+        ? (customValues['--logo'] || 'CEPLogo.avif')
+        : (LOGOS[val] || 'CEPLogo.avif');
+      img.src = '/viewers/cep-js/assets/Logos/' + logoFile;
+    }
   });
 
   root.appendChild(themeSection);
