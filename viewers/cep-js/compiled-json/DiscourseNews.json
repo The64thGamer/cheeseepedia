@@ -1,22 +1,29 @@
 [
   {
+    "title": "The New Wiki! (CEP-JS)",
+    "image_url": "/viewers/cep-js/compiled-json/images/348.jpg",
+    "views": 1,
+    "created_at": "2026-03-23T04:26:57.131Z",
+    "url": "https://forum.cheeseepedia.org/t/the-new-wiki-cep-js/348"
+  },
+  {
     "title": "Abilene, TX Closing April 4th!",
     "image_url": "/viewers/cep-js/compiled-json/images/346.jpg",
-    "views": 66,
+    "views": 70,
     "created_at": "2026-03-22T02:20:10.651Z",
     "url": "https://forum.cheeseepedia.org/t/abilene-tx-closing-april-4th/346"
   },
   {
     "title": "CEC Minisodes Preserved on Amazon Prime",
     "image_url": "/viewers/cep-js/compiled-json/images/343.jpg",
-    "views": 33,
+    "views": 34,
     "created_at": "2026-03-21T17:07:41.475Z",
     "url": "https://forum.cheeseepedia.org/t/cec-minisodes-preserved-on-amazon-prime/343"
   },
   {
     "title": "Salisbury MD closing on April 4th",
     "image_url": "/viewers/cep-js/compiled-json/images/325.jpg",
-    "views": 572,
+    "views": 573,
     "created_at": "2026-03-10T19:01:28.915Z",
     "url": "https://forum.cheeseepedia.org/t/salisbury-md-closing-on-april-4th/325"
   },
@@ -86,7 +93,7 @@
   {
     "title": "Gigantic PTT/CEC Showtape Drop",
     "image_url": "/viewers/cep-js/compiled-json/images/269.jpg",
-    "views": 568,
+    "views": 569,
     "created_at": "2026-02-10T20:07:32.106Z",
     "url": "https://forum.cheeseepedia.org/t/gigantic-ptt-cec-showtape-drop/269"
   },
@@ -128,7 +135,7 @@
   {
     "title": "David Mckillips Steps Down as CEO, Replaced with Scott Drake",
     "image_url": "/viewers/cep-js/compiled-json/images/241.jpg",
-    "views": 1908,
+    "views": 1909,
     "created_at": "2026-02-03T15:36:57.929Z",
     "url": "https://forum.cheeseepedia.org/t/david-mckillips-steps-down-as-ceo-replaced-with-scott-drake/241"
   },
@@ -201,12 +208,5 @@
     "views": 440,
     "created_at": "2026-01-12T00:11:59.158Z",
     "url": "https://forum.cheeseepedia.org/t/david-mckillips-continues-years-long-pajamas-and-cereal-delusions/200"
-  },
-  {
-    "title": "Kansas City Closes for the 3rd Time!",
-    "image_url": "/viewers/cep-js/compiled-json/images/196.jpg",
-    "views": 475,
-    "created_at": "2026-01-06T17:32:56.002Z",
-    "url": "https://forum.cheeseepedia.org/t/kansas-city-closes-for-the-3rd-time/196"
   }
 ]
