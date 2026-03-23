@@ -1,4 +1,4 @@
-***Winchester Jasper T. Jowls* was an animatronic created by [Fantasy Forest] for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)] as an animatronic version of [Jasper T Jowls], with the bot being the first design of Jasper. The bot was controlled & programmed through the [Winchester Control System] & [Winchester Hardware Setup]. The bot was used at Winchester from 1977 until its replacement in 1981 when Winchester received [Cyberamics].**
+***Winchester Jasper T. Jowls ***was an animatronic created by [Fantasy Forest] for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)] as an animatronic version of [Jasper T Jowls], with the bot being the first design of Jasper. The bot was controlled & programmed through the [Winchester Control System] & [Winchester Hardware Setup]. The bot was used at Winchester from 1977 until its replacement in 1981 when Winchester received [Cyberamics].
 
 ## History
 

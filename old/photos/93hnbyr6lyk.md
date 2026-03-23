@@ -1,8 +1,0 @@
-+++
-title = "93hnbyr6lyk.avif"
-startDate = "1988-08-18"
-citations = []
-type = "Photos"
-tags = ["Murray, UT (4425 State St)", "ShowBiz Pizza Place"]
-+++
-A Man tried to rob this location with a toy gun.

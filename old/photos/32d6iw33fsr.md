@@ -1,8 +1,0 @@
-+++
-title = "32d6iw33fsr.avif"
-startDate = ""
-citations = []
-type = "Photos"
-tags = ["Sandy, UT (792 E 9400)", "Pizza Time Theatre"]
-+++
-Birthday Party at Sandy UT PTT

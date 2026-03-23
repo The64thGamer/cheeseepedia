@@ -1,4 +1,4 @@
-***Winchester Foxy Colleen* was an animatronic produced by [Fantasy Forest] in October 1978 for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)] as the third PTT guest star, Foxy Colleen. The bot was used until 1981, when Winchester received [Cyberamics].**
+***Winchester Foxy Colleen ***was an animatronic produced by [Fantasy Forest] in October 1978 for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)] as the third PTT guest star, Foxy Colleen. The bot was used until 1981, when Winchester received [Cyberamics].
 
 ## History
 

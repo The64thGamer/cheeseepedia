@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/L5s_o8j9-Fk"
-startDate = "2020-10-31"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-:flushed:

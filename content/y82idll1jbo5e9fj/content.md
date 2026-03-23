@@ -1,0 +1,1 @@
+This Grand opening along with others show the location as 4604 South 4000 West, and says it was right next to the Smiths on some articles.

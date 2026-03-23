@@ -1,4 +1,5 @@
 {
+  "cuDate": "1991-00-00",
   "title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
   "startDate": "1982-10-20",
   "endDate": "",
@@ -11,189 +12,48 @@
   "storeNumber": "64",
   "sqft": "",
   "attractions": [
-    {
-      "n": "Black Hole",
-      "s": "2024-06-18"
-    },
-    {
-      "n": "Crab Rush",
-      "s": "2024-06-18"
-    },
-    {
-      "n": "Drop It Drop It",
-      "s": "2024-06-18"
-    },
-    {
-      "n": "FGTEEV: Out of Time",
-      "s": "2024-06-18"
-    },
-    {
-      "n": "Halo: Fireteam Raven",
-      "s": "2024-06-18"
-    },
-    {
-      "n": "Lumber Jack",
-      "s": "2024-06-18"
-    },
-    {
-      "n": "Mega Blaster",
-      "s": "2024-06-18"
-    },
-    {
-      "n": "SpongeBob SquarePants: Ticket Coaster",
-      "s": "2024-06-18"
-    },
-    {
-      "n": "Teenage Mutant Ninja Turtles (2017)",
-      "s": "2024-06-18"
-    },
-    {
-      "n": "Tons of Tickets",
-      "s": "2024-06-18"
-    }
+    "Black Hole|2024-06-18||",
+    "Crab Rush|2024-06-18||",
+    "Drop It Drop It|2024-06-18||",
+    "FGTEEV: Out of Time|2024-06-18||",
+    "Halo: Fireteam Raven|2024-06-18||",
+    "Lumber Jack|2024-06-18||",
+    "Mega Blaster|2024-06-18||",
+    "SpongeBob SquarePants: Ticket Coaster|2024-06-18||",
+    "Teenage Mutant Ninja Turtles (2017)|2024-06-18||",
+    "Tons of Tickets|2024-06-18||"
   ],
   "animatronics": [
-    {
-      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
-      "s": "1982-10-20",
-      "l": "1-82 1-23",
-      "desc": "In store"
-    },
-    {
-      "n": "Dook Larue (Animatronic)",
-      "s": "1982-10-20",
-      "l": "1-82 2-23",
-      "desc": "In store"
-    },
-    {
-      "n": "Fatz Geronimo (Animatronic)",
-      "s": "1982-10-20",
-      "l": "1-82 3-23",
-      "desc": "In store"
-    },
-    {
-      "n": "Beach Bear (Animatronic)",
-      "s": "1982-10-20",
-      "l": "1-82 4-23",
-      "desc": "In store"
-    },
-    {
-      "n": "Mitzi Mozzarella (Animatronic)",
-      "s": "1982-10-20",
-      "l": "1-82 5-23",
-      "desc": "In store"
-    },
-    {
-      "n": "Billy Bob (Animatronic)",
-      "s": "1982-10-20",
-      "e": "1991-00-00",
-      "l": "1-82 6-23",
-      "desc": "Unknown"
-    },
-    {
-      "n": "Looney Bird (Animatronic)",
-      "s": "1982-10-20",
-      "e": "2010s-00-00",
-      "l": "1-82 7-23",
-      "desc": "Dismantled"
-    },
-    {
-      "n": "Looney Bird (Animatronic)",
-      "s": "2024-06-20",
-      "l": "1-82 7-24",
-      "desc": "In store; Re-located from {{< wiki-link \"Laurel, MD (936 Fairlawn Ave)\" >}}."
-    },
-    {
-      "n": "Choo Choo (Animatronic)",
-      "s": "1982-10-20",
-      "e": "2000s-00-00",
-      "l": "1-82 8-23",
-      "desc": "Unknown; Custom replica in store."
-    },
-    {
-      "n": "Sun (Animatronic)",
-      "s": "1982-10-20",
-      "l": "1-82 10-23",
-      "desc": "In store"
-    },
-    {
-      "n": "Moon (Animatronic)",
-      "s": "1982-10-20",
-      "l": "1-82 11-23",
-      "desc": "In store"
-    },
-    {
-      "n": "Antioch (Animatronic)",
-      "s": "1982-10-20",
-      "e": "1991-00-00",
-      "l": "N/A",
-      "desc": "Unknown"
-    },
-    {
-      "n": "Wink",
-      "s": "1991-00-00",
-      "l": "N/A",
-      "desc": "In store"
-    },
-    {
-      "n": "Bird (Animatronic)",
-      "s": "2024-00-00",
-      "l": "Unknown",
-      "desc": "In store, static display; Re-located from {{< wiki-link \"Spartanburg, SC (660 Spartan Blvd #250)\" >}}."
-    }
+    "Rolfe Dewolfe & Earl Schmerle (Animatronic)|1982-10-20||1-82 1-23|In store",
+    "Dook Larue (Animatronic)|1982-10-20||1-82 2-23|In store",
+    "Fatz Geronimo (Animatronic)|1982-10-20||1-82 3-23|In store",
+    "Beach Bear (Animatronic)|1982-10-20||1-82 4-23|In store",
+    "Mitzi Mozzarella (Animatronic)|1982-10-20||1-82 5-23|In store",
+    "Billy Bob (Animatronic)|1982-10-20|1991-00-00|1-82 6-23|Unknown",
+    "Looney Bird (Animatronic)|1982-10-20|2010s-00-00|1-82 7-23|Dismantled",
+    "Looney Bird (Animatronic)|2024-06-20||1-82 7-24|In store; Re-located from {{< wiki-link \"Laurel, MD (936 Fairlawn Ave)\" >}}.",
+    "Choo Choo (Animatronic)|1982-10-20|2000s-00-00|1-82 8-23|Unknown; Custom replica in store.",
+    "Sun (Animatronic)|1982-10-20||1-82 10-23|In store",
+    "Moon (Animatronic)|1982-10-20||1-82 11-23|In store",
+    "Antioch (Animatronic)|1982-10-20|1991-00-00|N/A|Unknown",
+    "Wink|1991-00-00||N/A|In store",
+    "Bird (Animatronic)|2024-00-00||Unknown|In store, static display; Re-located from {{< wiki-link \"Spartanburg, SC (660 Spartan Blvd #250)\" >}}."
   ],
   "franchisees": [
-    {
-      "n": "Adventure Restaurant Corporation",
-      "s": "1982-10-20",
-      "e": "1993-01-26"
-    }
+    "Adventure Restaurant Corporation|1982-10-20|1993-01-26"
   ],
   "remodels": [
-    {
-      "n": "SPP Standard Layout",
-      "s": "1982-10-20"
-    },
-    {
-      "n": "SPT 1980's Remodel Program",
-      "s": "0000-00-00"
-    },
-    {
-      "n": "SPT 1990's Remodel Program",
-      "s": "0000-00-00"
-    },
-    {
-      "n": "CEC 2000's Remodel Program",
-      "s": "0000-00-00"
-    },
-    {
-      "n": "CEC 2.0 Remodel Program",
-      "s": "2024-07-26"
-    },
-    {
-      "n": "Concept Unification",
-      "s": "1991-00-00"
-    }
+    "SPP Standard Layout|1982-10-20",
+    "SPT 1980's Remodel Program|0000-00-00",
+    "SPT 1990's Remodel Program|0000-00-00",
+    "CEC 2000's Remodel Program|0000-00-00",
+    "CEC 2.0 Remodel Program|2024-07-26"
   ],
   "stages": [
-    {
-      "n": "Classic Stage",
-      "s": "1982-10-20",
-      "e": "1991-00-00"
-    },
-    {
-      "n": "Concept Unification Stage",
-      "s": "1991-00-00"
-    },
-    {
-      "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2024-06-00",
-      "desc": "2021 Model"
-    },
-    {
-      "n": "Video Wall",
-      "s": "2024-06-00"
-    }
+    "Classic Stage|1982-10-20|1991-00-00",
+    "Concept Unification Stage|1991-00-00||",
+    "Chuck E. Live Stage (Dance Floor)|2024-06-00| |2021 Model|",
+    "Video Wall|2024-06-00||"
   ],
   "downloadLinks": [],
   "alsoKnownAs": [
@@ -211,6 +71,7 @@
     "https://www.newspapers.com/article/the-charlotte-news-pineville-showbiz-piz/124846491/",
     "https://www.newspapers.com/article/the-charlotte-observer-carmel-commons-p/146564383/",
     "https://www.youtube.com/watch?v=5MEcoRu445M",
-    "https://dnyuz.com/2024/05/24/after-outcry-chuck-e-cheese-says-it-will-keep-more-animatronic-bands/"
+    "https://dnyuz.com/2024/05/24/after-outcry-chuck-e-cheese-says-it-will-keep-more-animatronic-bands/",
+    "http://youtube.com/post/Ugkx4TQ6U7hjqShzeB6hKRQiLaCyqWDkon_Y"
   ]
 }
