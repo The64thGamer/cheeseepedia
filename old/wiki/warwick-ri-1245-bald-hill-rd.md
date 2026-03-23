@@ -18,7 +18,8 @@ downloadLinks = []
 latitudeLongitude = ["41.70424272","-71.49431008"] 
 type = "Locations" 
 tags = ["Chuck E. Cheese's"] 
-+++***1245 Bald Hill Rd*** was a *Chuck E. Cheese's Pizza* located in Bald Hill Plaza and opened on October 12, 1990[1] and closed on November 19, 1994[2]. It was located in the Bald Hill Plaza
++++
+***1245 Bald Hill Rd*** was a *Chuck E. Cheese's Pizza* located in Bald Hill Plaza and opened on October 12, 1990[1] and closed on November 19, 1994[2]. It was located in the Bald Hill Plaza
 
 ## History
 ### 1990's
