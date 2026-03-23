@@ -13,16 +13,46 @@
     "Ceclife13"
   ],
   "credits": [
-    "Jaret Reddick|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Betty, Singing Voice of Pasqually the Chef",
-    "Earl Fisher|Voice of Pasqually The Chef, Justin Beaver",
-    "Ryan Hollingsworth|Steve Waters",
-    "Paul Taylor|Larry The Technician",
-    "Matt Daniel|Production Manager, Voice of Helen Henny's Hollywood Announcer, Singer (Kitten in the Kitchen)",
-    "Michael Hill|Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch",
-    "Donovan Marcelle|Existing Stage Programmer"
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Betty, Singing Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef, Justin Beaver"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Steve Waters"
+    },
+    {
+      "n": "Paul Taylor",
+      "role": "Larry The Technician"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager, Voice of Helen Henny's Hollywood Announcer, Singer (Kitten in the Kitchen)"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch"
+    },
+    {
+      "n": "Donovan Marcelle",
+      "role": "Existing Stage Programmer"
+    }
   ],
   "citations": [
     "https://youtu.be/qCyoDhgTEts"
@@ -34,9 +64,6 @@
     "Cyberamics DVD"
   ],
   "mediaDuration": "1:13:07",
-  "transcriptions": [
-    "January 2014 Segment 1"
-  ],
   "type": "Showtapes",
   "tags": [
     "Chuck E. Cheese's"

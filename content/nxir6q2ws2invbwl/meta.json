@@ -3,8 +3,12 @@
   "storeNumber": "",
   "startDate": "1981-02-24",
   "endDate": "",
-  "cuDate": "",
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-11-00"
+    }
+  ],
   "stages": [
     {
       "n": "Classic Stage",

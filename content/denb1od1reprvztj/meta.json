@@ -8,10 +8,22 @@
     "Pizza Time Theatre"
   ],
   "credits": [
-    "現代廣告公司 (Modern Advertising Company)|Advertising",
-    "Whimsy Company Ltd|Franchisees, Singapore Investors",
-    "Whimsy Recreation PTE Ltd.|Singapore Franchisees",
-    "Emporium Holdings Ltd|Singapore Investors"
+    {
+      "n": "現代廣告公司 (Modern Advertising Company)",
+      "role": "Advertising"
+    },
+    {
+      "n": "Whimsy Company Ltd",
+      "role": "Franchisees, Singapore Investors"
+    },
+    {
+      "n": "Whimsy Recreation PTE Ltd.",
+      "role": "Singapore Franchisees"
+    },
+    {
+      "n": "Emporium Holdings Ltd",
+      "role": "Singapore Investors"
+    }
   ],
   "contributors": [
     "sudo trans --pony"

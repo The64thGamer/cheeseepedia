@@ -1,4 +1,4 @@
-***NOTALOG* was a order callout system for the first *Pizza Time Theatre* location, [San Jose, CA (370 S Winchester Blvd)], created by Ted Dabney at the request of Nolan Bushnell sometime after 1979.<sup>(1)(2)</sup>**
+***NOTALOG* was a order callout system for the first *Pizza Time Theatre* location, [San Jose, CA (370 S Winchester Blvd)], created by Ted Dabney at the request of Nolan Bushnell sometime after 1979.[1][2]**
 
 ## Function
 

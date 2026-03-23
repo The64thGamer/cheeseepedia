@@ -12,10 +12,22 @@
     "https://archive.org/download/studio-c-floppy-discs-rips/Holiday2000ShowUpdateKaraoke.img"
   ],
   "credits": [
-    "Jeremy Blaido|Director",
-    "Brian Hagan|Studio Manager",
-    "Robert Gotcher|Production Coordinator",
-    "Brent Gray|Studio Coordinator"
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    }
   ],
   "mediaDuration": "48:32",
   "showtapeFormats": [

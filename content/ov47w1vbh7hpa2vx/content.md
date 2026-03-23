@@ -1,5 +1,5 @@
 The ***SPT 1990's Remodel Program* was a company-wide initiative driven by ShowBiz Pizza Time to refresh the Chuck E. Cheese's brand and increase profits amongst its locations.
-This remodel initiative is commonly and incorrectly referred to as [Phase 1 (1994)], also known as *Operation Thumb Chuck*, [Phase 2 (1997)], and [Phase 3 (2000)], which were instead game and entertainment packages that came with a remodel if it was not already completed. <sup>(1)(2)</sup>**
+This remodel initiative is commonly and incorrectly referred to as [Phase 1 (1994)], also known as *Operation Thumb Chuck*, [Phase 2 (1997)], and [Phase 3 (2000)], which were instead game and entertainment packages that came with a remodel if it was not already completed. [1][2]**
 
 ## History
 

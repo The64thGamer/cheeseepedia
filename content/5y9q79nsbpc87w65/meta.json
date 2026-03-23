@@ -1,7 +1,9 @@
 {
   "title": "Pasqually Show (Demo)",
   "type": "Transcriptions",
-  "tags": [],
+  "tags": [
+    "Pizza Time Theatre Showtape"
+  ],
   "startDate": "",
   "contributors": [
     "sudo trans --pony"

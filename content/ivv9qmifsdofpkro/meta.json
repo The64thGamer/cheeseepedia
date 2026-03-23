@@ -8,14 +8,38 @@
     "Cyber Snout"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Jeff Cosco|Singing Voice of Chuck E. Cheese, Mr. Munch",
-    "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef",
-    "Doug Moncrief|Singing Voice of Pasqually",
-    "Cathy Turner|Singing Voice of Helen Henny",
-    "Ron Schneider|Writer",
-    "Jeff Palmer|Producer, Director",
-    "Casey Filiaci|Composer"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Jeff Cosco",
+      "role": "Singing Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Doug Moncrief",
+      "role": "Singing Voice of Pasqually"
+    },
+    {
+      "n": "Cathy Turner",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Ron Schneider",
+      "role": "Writer"
+    },
+    {
+      "n": "Jeff Palmer",
+      "role": "Producer, Director"
+    },
+    {
+      "n": "Casey Filiaci",
+      "role": "Composer"
+    }
   ],
   "citations": [
     "https://www.youtube.com/watch?v=5mqJMsr_PLU&lc=Ugyx4iGMQOETNJWbi0B4AaABAg",

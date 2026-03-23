@@ -13,15 +13,42 @@
     "https://archive.org/download/studio_c_showtape_dvds/April%202005%20Studio%20C-007.iso"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Jeremy Blaido|Voice of Jasper T. Jowls",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Robert Gotcher|Director, Show Announcer",
-    "Matt Daniel|Production Coordinator, Show Announcer",
-    "Ryan Hollingsworth|Production Specialist",
-    "Sammy Davenport|Music Director"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Larry The Technician"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Show Announcer"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, Show Announcer"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    }
   ],
   "mediaDuration": "1:24:34",
   "showtapeFormats": [

@@ -11,9 +11,18 @@
     "https://archive.org/download/3stage_dvd_signals/June%202006%203-Stage-005.iso"
   ],
   "credits": [
-    "Robert Gotcher|Director",
-    "Michael Hill|Production Coordinator",
-    "Ryan Hollingsworth|Production Specialist"
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
   ],
   "showtapeFormats": [
     "Studio C 3x DVD + Floppy",

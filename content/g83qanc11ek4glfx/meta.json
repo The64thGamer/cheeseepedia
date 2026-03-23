@@ -15,9 +15,18 @@
     "https://archive.org/details/studio-c-premiere-show"
   ],
   "credits": [
-    "Duncan Brannan|Programmer, Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Singing Voice of Helen Henny",
-    "Stokes Group|Video Editing"
+    {
+      "n": "Duncan Brannan",
+      "role": "Programmer, Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Stokes Group",
+      "role": "Video Editing"
+    }
   ],
   "mediaDuration": "9:25",
   "showtapeFormats": [

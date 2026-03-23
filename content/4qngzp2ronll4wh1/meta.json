@@ -17,7 +17,13 @@
   ],
   "pageThumbnailFile": "efrjnxxfjn98o0fg.avif",
   "credits": [
-    "Manufacturer|Bob's Space Racers, Inc.",
-    "Unknown Role|Pete's Woodworking Inc."
+    {
+      "n": "Manufacturer",
+      "role": "Bob's Space Racers, Inc."
+    },
+    {
+      "n": "Unknown Role",
+      "role": "Pete's Woodworking Inc."
+    }
   ]
 }

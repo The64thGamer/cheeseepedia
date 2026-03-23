@@ -12,11 +12,26 @@
     "Ceclife13"
   ],
   "credits": [
-    "John Widelock|Voice of Chuck E. Cheese",
-    "Paula Mulcahy|Voice of Madam Oink",
-    "Fritz Heilbron|Voice of Mr. Munch",
-    "Scott Paulin|Voice of Jasper T. Jowls",
-    "Joe Spano|Voice of Pasqually the Chef"
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Paula Mulcahy",
+      "role": "Voice of Madam Oink"
+    },
+    {
+      "n": "Fritz Heilbron",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Joe Spano",
+      "role": "Voice of Pasqually the Chef"
+    }
   ],
   "citations": [],
   "pageThumbnailFile": "0G4QMhWkbgVIxHm3Wh9h.avif",

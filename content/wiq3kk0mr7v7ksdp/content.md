@@ -1,5 +1,5 @@
-***RetroMation*** (formerly Rock-afire Remake) is a fanmade mod of [Rock-afire Replay] that started in January of 2021 which gained official support by Creative Engineering in 2024 to release, alongside CEI using the program for various official showtapes until [The Rock-afire Simulator] releases.<sup>(1)(5)</sup>
-The mod also has a build containing Chuck E. Cheese characters, which began passing around in private after the Cease & Desist of Reel to Real as to try to not be noticed and stopped as well, despite many public videos of this build in action being uploaded to YouTube since 2022.<sup>(2)(3)(4)</sup>
+***RetroMation*** (formerly Rock-afire Remake) is a fanmade mod of [Rock-afire Replay] that started in January of 2021 which gained official support by Creative Engineering in 2024 to release, alongside CEI using the program for various official showtapes until [The Rock-afire Simulator] releases.[1][5]
+The mod also has a build containing Chuck E. Cheese characters, which began passing around in private after the Cease & Desist of Reel to Real as to try to not be noticed and stopped as well, despite many public videos of this build in action being uploaded to YouTube since 2022.[2][3][4]
 
 ## History
 

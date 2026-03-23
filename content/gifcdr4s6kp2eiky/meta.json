@@ -11,8 +11,14 @@
     "https://youtu.be/oQGODcEvemk"
   ],
   "credits": [
-    "Duncan Brannan|Programmer, Voice of Chuck E. Cheese, Mr. Munch, Jasper T. Jowls, Pasqually The Chef",
-    "Karlisa Burleson|Voice of Helen Henny"
+    {
+      "n": "Duncan Brannan",
+      "role": "Programmer, Voice of Chuck E. Cheese, Mr. Munch, Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    }
   ],
   "showtapeFormats": [
     "R12 SVHS (Post-93)",

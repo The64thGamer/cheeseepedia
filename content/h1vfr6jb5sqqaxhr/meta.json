@@ -15,11 +15,11 @@
     "https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/page/n3/mode/2up?q=concord",
     "https://www.youtube.com/watch?v=EYYyhySXQ48"
   ],
-  "transcriptions": [
-    "Concord/Citrus Heights PTT ad"
-  ],
   "pageThumbnailFile": "PTT1980spot.avif",
   "credits": [
-    "Bob Wilkins Advertising Inc|Producers"
+    {
+      "n": "Bob Wilkins Advertising Inc",
+      "role": "Producers"
+    }
   ]
 }

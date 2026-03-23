@@ -15,15 +15,42 @@
     "https://www.youtube.com/watch?v=Abvo8H4Cnvc"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese, Larry the Technician",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Jeremy Blaido|Producer, Voice of Jasper, singing Voice of Pasqually",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Matt Daniel|Director, Producer, Voice of Alowicious Dimpleton, Marvin The Technology Guru, Hard Hat Hank",
-    "Ryan Hollingsworth|Voice of Zoey, Steve Waters",
-    "Matt Rivera|Video Editor, Assistant",
-    "T. Graybael|Camera"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Larry the Technician"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Producer, Voice of Jasper, singing Voice of Pasqually"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Director, Producer, Voice of Alowicious Dimpleton, Marvin The Technology Guru, Hard Hat Hank"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Voice of Zoey, Steve Waters"
+    },
+    {
+      "n": "Matt Rivera",
+      "role": "Video Editor, Assistant"
+    },
+    {
+      "n": "T. Graybael",
+      "role": "Camera"
+    }
   ],
   "mediaDuration": "1:34:59",
   "showtapeFormats": [

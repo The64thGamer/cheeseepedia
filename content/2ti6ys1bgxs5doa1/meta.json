@@ -12,9 +12,18 @@
     "https://archive.org/download/studio-c-floppy-discs-rips/Summer2004.img"
   ],
   "credits": [
-    "Robert Gotcher|Director",
-    "Matt Daniel|Production Coordinator, VJ",
-    "Ryan Hollingsworth|Production Specialist, Hank Howdy"
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, VJ"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist, Hank Howdy"
+    }
   ],
   "showtapeFormats": [
     "Studio C 3x DVD + Floppy",

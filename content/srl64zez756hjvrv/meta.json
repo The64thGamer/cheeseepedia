@@ -2,12 +2,10 @@
   "recommend": true,
   "title": "Great alternate showtape!",
   "startDate": "2024-12-14",
-  "page": "Country Klunk",
   "contributors": [
     "sudo trans --pony"
   ],
   "type": "Reviews",
-  "tags": [
-    "User-Generated Content"
+  "tags": ["Country Klunk"
   ]
 }

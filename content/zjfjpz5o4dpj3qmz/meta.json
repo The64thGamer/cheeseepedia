@@ -11,14 +11,38 @@
     "Luigigamin212"
   ],
   "credits": [
-    "David Robinson|Show Programmer",
-    "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch",
-    "Karlisa Burleson|Voice of Helen Henny",
-    "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef",
-    "Annagrey Wiechman|Singing Voice of Helen Henny",
-    "Charles Stewart|Songwriter, Singing Voice of Jasper T. Jowls",
-    "Robert Gotcher|Mailman",
-    "Darby Orr|Songwriter"
+    {
+      "n": "David Robinson",
+      "role": "Show Programmer"
+    },
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Charles Stewart",
+      "role": "Songwriter, Singing Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Mailman"
+    },
+    {
+      "n": "Darby Orr",
+      "role": "Songwriter"
+    }
   ],
   "citations": [],
   "showtapeFormats": [
@@ -29,12 +53,6 @@
   "type": "Showtapes",
   "tags": [
     "Chuck E. Cheese's"
-  ],
-  "transcriptions": [
-    "March 1993 Segment 1",
-    "March 1993 Segment 2",
-    "March 1993 Segment 3",
-    "CEC TV News Munch for President"
   ],
   "alsoKnownAs": []
 }

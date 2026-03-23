@@ -1,5 +1,5 @@
 {
-  "cuDate": "",
+  
   "title": "Portage, MI (6175 S Westnedge Ave)",
   "startDate": "2000-09-26",
   "endDate": "2025-09-07",
@@ -37,28 +37,28 @@
       "s": "2000-09-26",
       "e": "2018-08-00",
       "l": "Unknown",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Bird (Animatronic)",
       "s": "2000-09-26",
       "e": "2018-08-00",
       "l": "Unknown",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Pizza Phone (Animatronic)",
       "s": "2000-09-26",
       "e": "2018-08-00",
       "l": "Unknown",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Pizza Time Clock (Animatronic)",
       "s": "2000-09-26",
       "e": "2018-08-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     }
   ],
   "franchisees": [],

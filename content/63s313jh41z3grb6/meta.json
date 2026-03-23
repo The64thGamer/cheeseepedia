@@ -11,9 +11,18 @@
     "https://archive.org/download/studio-c-floppy-discs-rips/Holiday2003ShowUpgradeV103.img"
   ],
   "credits": [
-    "Jeremy Blaido|Director",
-    "Robert Gotcher|Production Manager",
-    "Matt Daniel|Production Coordinator"
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    }
   ],
   "mediaDuration": "1:07:04",
   "showtapeFormats": [

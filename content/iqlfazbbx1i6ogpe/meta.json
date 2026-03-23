@@ -14,15 +14,42 @@
     "https://www.youtube.com/watch?v=XN6-ayiwhPM"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Robert Gotcher|Director, Voice of Jasper T. Jowls, Show Announcer",
-    "Michael Hill|Studio Coordinator",
-    "Matt Daniel|Production Coordinator",
-    "Deva George|Animator",
-    "Logan 'Robot' Gladden|Little Pasqually"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Voice of Jasper T. Jowls, Show Announcer"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Deva George",
+      "role": "Animator"
+    },
+    {
+      "n": "Logan 'Robot' Gladden",
+      "role": "Little Pasqually"
+    }
   ],
   "mediaDuration": "1:21:47",
   "showtapeFormats": [

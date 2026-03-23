@@ -1,5 +1,4 @@
 {
-  "cuDate": "1991-00-00",
   "title": "Charlotte, NC (7701 Pineville-Matthews Rd)",
   "startDate": "1982-10-20",
   "endDate": "",
@@ -58,89 +57,89 @@
       "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
       "s": "1982-10-20",
       "l": "1-82 1-23",
-      "st": "In store"
+      "desc": "In store"
     },
     {
       "n": "Dook Larue (Animatronic)",
       "s": "1982-10-20",
       "l": "1-82 2-23",
-      "st": "In store"
+      "desc": "In store"
     },
     {
       "n": "Fatz Geronimo (Animatronic)",
       "s": "1982-10-20",
       "l": "1-82 3-23",
-      "st": "In store"
+      "desc": "In store"
     },
     {
       "n": "Beach Bear (Animatronic)",
       "s": "1982-10-20",
       "l": "1-82 4-23",
-      "st": "In store"
+      "desc": "In store"
     },
     {
       "n": "Mitzi Mozzarella (Animatronic)",
       "s": "1982-10-20",
       "l": "1-82 5-23",
-      "st": "In store"
+      "desc": "In store"
     },
     {
       "n": "Billy Bob (Animatronic)",
       "s": "1982-10-20",
       "e": "1991-00-00",
       "l": "1-82 6-23",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Looney Bird (Animatronic)",
       "s": "1982-10-20",
       "e": "2010s-00-00",
       "l": "1-82 7-23",
-      "st": "Dismantled"
+      "desc": "Dismantled"
     },
     {
       "n": "Looney Bird (Animatronic)",
       "s": "2024-06-20",
       "l": "1-82 7-24",
-      "st": "In store; Re-located from {{< wiki-link \"Laurel, MD (936 Fairlawn Ave)\" >}}."
+      "desc": "In store; Re-located from {{< wiki-link \"Laurel, MD (936 Fairlawn Ave)\" >}}."
     },
     {
       "n": "Choo Choo (Animatronic)",
       "s": "1982-10-20",
       "e": "2000s-00-00",
       "l": "1-82 8-23",
-      "st": "Unknown; Custom replica in store."
+      "desc": "Unknown; Custom replica in store."
     },
     {
       "n": "Sun (Animatronic)",
       "s": "1982-10-20",
       "l": "1-82 10-23",
-      "st": "In store"
+      "desc": "In store"
     },
     {
       "n": "Moon (Animatronic)",
       "s": "1982-10-20",
       "l": "1-82 11-23",
-      "st": "In store"
+      "desc": "In store"
     },
     {
       "n": "Antioch (Animatronic)",
       "s": "1982-10-20",
       "e": "1991-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Wink",
       "s": "1991-00-00",
       "l": "N/A",
-      "st": "In store"
+      "desc": "In store"
     },
     {
       "n": "Bird (Animatronic)",
       "s": "2024-00-00",
       "l": "Unknown",
-      "st": "In store, static display; Re-located from {{< wiki-link \"Spartanburg, SC (660 Spartan Blvd #250)\" >}}."
+      "desc": "In store, static display; Re-located from {{< wiki-link \"Spartanburg, SC (660 Spartan Blvd #250)\" >}}."
     }
   ],
   "franchisees": [
@@ -170,6 +169,10 @@
     {
       "n": "CEC 2.0 Remodel Program",
       "s": "2024-07-26"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
     }
   ],
   "stages": [

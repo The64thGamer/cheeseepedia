@@ -3,7 +3,7 @@ It was vegetarian themed version of the regular PTT pizza with 6 topping & 3 siz
 
 ## History
 
-***Crusty's Vegetarian Delight* was created as a type of pizza for the Pizza Time Theatre on [San Jose, CA (370 S Winchester Blvd)]. The Pizza would be only made at Winchester, at [San Jose, CA (1371 Kooser Rd)] would replace Crusty with [Mr Munch]. ***Crusty's Vegetarian Delight* was replaced with Mr. Munch's Vegetarian Delight in 1978/1979<sup>(1)(2)</sup>.****
+***Crusty's Vegetarian Delight* was created as a type of pizza for the Pizza Time Theatre on [San Jose, CA (370 S Winchester Blvd)]. The Pizza would be only made at Winchester, at [San Jose, CA (1371 Kooser Rd)] would replace Crusty with [Mr Munch]. ***Crusty's Vegetarian Delight* was replaced with Mr. Munch's Vegetarian Delight in 1978/1979[1][2].****
 
 ## Recipe
 

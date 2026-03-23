@@ -3,7 +3,7 @@
   "storeNumber": "",
   "startDate": "1977-05-17",
   "endDate": "1985-02-00",
-  "cuDate": "",
+  
   "remodels": [
     {
       "n": "PTT Standard Layout",
@@ -25,133 +25,133 @@
       "s": "1977-05-17",
       "e": "1978-06-00",
       "l": "N/A",
-      "st": "Sent to the Corporate Offices. Current whereabouts Unknown"
+      "desc": "Sent to the Corporate Offices. Current whereabouts Unknown"
     },
     {
       "n": "Winchester Chuck E. Cheese V2 (Animatronic)",
       "s": "1978-06-00",
       "e": "1979-10-00",
       "l": "N/A",
-      "st": "Sent to the Corporate Offices. Owned by Travis Schafer."
+      "desc": "Sent to the Corporate Offices. Owned by Travis Schafer."
     },
     {
       "n": "Winchester Crusty the Cat V1 (Animatronic)",
       "s": "1977-05-17",
       "e": "1978-06-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Winchester Crusty the Cat V2 (Animatronic)",
       "s": "1978-06-00",
       "e": "1979-10-00",
       "l": "N/A",
-      "st": "Sent to the Corporate Offices. Owned by Travis Schafer."
+      "desc": "Sent to the Corporate Offices. Owned by Travis Schafer."
     },
     {
       "n": "Winchester Pasqually (Animatronic)",
       "s": "1977-05-17",
       "e": "1981-00-00",
       "l": "N/A",
-      "st": "Destroyed at CEC Entertainment."
+      "desc": "Destroyed at CEC Entertainment."
     },
     {
       "n": "Winchester Jasper T. Jowls (Animatronic)",
       "s": "1977-05-17",
       "e": "1979-10-00",
       "l": "N/A",
-      "st": "Sent to the Corporate Offices. Destroyed at CEC Entertainment."
+      "desc": "Sent to the Corporate Offices. Destroyed at CEC Entertainment."
     },
     {
       "n": "Winchester Warblettes (Animatronic)",
       "s": "1977-05-17",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "2 Produced. Unknown"
+      "desc": "2 Produced. Unknown"
     },
     {
       "n": "Winchester Pizza Time Orchestra (Animatronic)",
       "s": "1977-05-17",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Winchester Flag Wavers (Animatronic)",
       "s": "1977-05-17",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Winchester Applause Board (Animatronic)",
       "s": "1977-05-17",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Winchester Helen Henny (Animatronic)",
       "s": "1977-08-12",
       "e": "1978-02-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Winchester Madam Oink (Animatronic)",
       "s": "1978-02-00",
       "e": "1978-10-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Winchester Foxy Colleen (Animatronic)",
       "s": "1978-10-00",
       "e": "1979-10-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Chuck E. Cheese (Cyberamic)",
       "s": "1979-10-00",
       "e": "1985-02-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Jasper T Jowls (Cyberamic)",
       "s": "1979-10-00",
       "e": "1985-02-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "s": "1979-10-00",
       "e": "1985-02-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "s": "1979-10-00",
       "e": "1985-02-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "s": "1979-10-00",
       "e": "1985-02-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Dolli Dimples (Cyberamic)",
       "s": "1979-10-00",
       "e": "1985-02-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     }
   ],
   "attractions": [

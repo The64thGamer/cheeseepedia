@@ -14,16 +14,46 @@
     "https://www.youtube.com/watch?v=uinS1MfoOvI"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch, Brain-I-Vac, DUSTY",
-    "Annagrey Wiechman|Singing Voice of Helen Henny",
-    "Karlisa Burleson|Voice of Helen Henny",
-    "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef",
-    "Steve White|Scriptwriter, Songwriter, Singing Voice (Demo Recordings)",
-    "Carl Finch|Songwriter",
-    "Joe Cripps|Songwriter",
-    "Jeffrey Barnes|Songwriter",
-    "Bubba Hernandez|Songwriter",
-    "Stokes Group|Video Editing"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch, Brain-I-Vac, DUSTY"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Steve White",
+      "role": "Scriptwriter, Songwriter, Singing Voice (Demo Recordings)"
+    },
+    {
+      "n": "Carl Finch",
+      "role": "Songwriter"
+    },
+    {
+      "n": "Joe Cripps",
+      "role": "Songwriter"
+    },
+    {
+      "n": "Jeffrey Barnes",
+      "role": "Songwriter"
+    },
+    {
+      "n": "Bubba Hernandez",
+      "role": "Songwriter"
+    },
+    {
+      "n": "Stokes Group",
+      "role": "Video Editing"
+    }
   ],
   "showtapeFormats": [
     "AAM 2x Laserdisc + Files"

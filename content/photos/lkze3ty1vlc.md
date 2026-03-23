@@ -1,0 +1,8 @@
++++
+title = "lkze3ty1vlc.avif"
+startDate = "1983-09-24"
+citations = []
+type = "Photos"
+tags = ["West Valley, UT (4600 South 4000)", "Pizza Time Theatre"]
++++
+West Valley's Grand Opening

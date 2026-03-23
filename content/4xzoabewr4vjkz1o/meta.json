@@ -19,9 +19,18 @@
     "http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-07.pdf"
   ],
   "credits": [
-    "Robert Gotcher|Director",
-    "Michael Hill|Studio Coordinator",
-    "Matt Daniel|Production Coordinator"
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    }
   ],
   "mediaDuration": "1:20:05",
   "showtapeFormats": [
