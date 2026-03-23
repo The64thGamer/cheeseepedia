@@ -106,7 +106,7 @@ export function renderPhotoCard(doc) {
   a.appendChild(ProgressiveImage(doc.p,doc.t)); el.appendChild(a);
   el.insertAdjacentHTML('beforeend',`<div class="PhotoCardBody">
     <div class="PhotoCardExcerpt">${esc(doc.e||'')}</div>
-    <div class="PhotoCardDate">${esc(fmtDate(doc.d))}</div>
+    <div class="PhotoCardDate"><strong>${esc(fmtDate(doc.d))}</strong></div>
   </div>`);
   injectViewCount(el, doc.p, '.PhotoCardDate');
   return el;

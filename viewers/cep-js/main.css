@@ -675,6 +675,7 @@ sup {
   align-items: center;
   margin: .5rem 0;
   color: var(--text);
+  justify-content: center;
 }
 
 .s-controls label {
@@ -708,6 +709,7 @@ sup {
   gap: .5rem;
   flex-wrap: wrap;
   margin: .5rem 0 0;
+  justify-content: center;
 }
 
 .s-tab-btn {
@@ -971,9 +973,14 @@ sup {
 }
 
 .PhotoCardDate {
-  font-size: .72rem;
-  opacity: .5;
+  font-size: .75rem;
+  color: color-mix(in srgb, var(--text) 30%, transparent);
   margin-top: .15rem;
+}
+
+
+.PhotoCardDate strong {
+  color: var(--primary)
 }
 
 .PhotoCompact {
@@ -1057,8 +1064,7 @@ sup {
 }
 
 .ReviewExcerpt {
-  font-size: .85rem;
-  opacity: .7;
+  font-size: 1rem;
 }
 
 .ReviewLoading {

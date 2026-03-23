@@ -360,7 +360,16 @@ const PARAM_SCHEMA = [
 ];
 
 const TYPE_OPTIONS = [
-  'Locations','Photos','Videos','Reviews','Transcriptions','User','Showtapes','Animatronics','Attractions'
+  'Animatronics','Animatronic Shows','Animatronic Parts','Animatronic Preservation',
+  'Stage Variations','Costumed Characters','Characters','Locations','Cancelled Locations',
+  'Showtapes','Showtape Formats','ShowBiz Pizza Programs','Family Vision','Live Shows',
+  'Puppets','Commercials','News Footage','Company Media','Movies','Transcriptions',
+  'Video Games','Menu Items','Tickets','Tokens','Documents','Corporate Documents',
+  'Promotional Material','Events','Remodels and Initiatives','Retrofits','History',
+  'Arcades and Attractions','Companies/Brands','Animatronic Control Systems',
+  'Other Systems','Programming Systems','Simulators','Social Media and Websites',
+  'Ad Vehicles','In-Store Merchandise','Products','Employee Wear','Meta','Store Fixtures',
+  'Photos','Videos','Reviews','User',
 ];
 
 const DICT_FIELDS = {
