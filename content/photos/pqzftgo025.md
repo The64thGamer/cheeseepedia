@@ -1,0 +1,8 @@
++++
+title = "pqzftgo025.avif"
+startDate = "1981-05-14"
+citations = []
+type = "Photos"
+tags = ["Salt Lake City, UT (3344 South 1300)", "Pizza Time Theatre"]
++++
+Salt Lake City's Grand Opening PTT
