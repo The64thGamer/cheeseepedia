@@ -73,12 +73,14 @@ export async function render(params, app) {
   }
 
   // Determine which body HTML to load
+  const isNewArticle = params.has('newarticle');
   let bodyUrl;
-  if      (page === 'settings')   bodyUrl = '/viewers/cep-js/Settings.html';
-  else if (page === 'stats')      bodyUrl = '/viewers/cep-js/Stats.html';
+  if      (page === 'settings')    bodyUrl = '/viewers/cep-js/Settings.html';
+  else if (page === 'stats')       bodyUrl = '/viewers/cep-js/Stats.html';
   else if (articleType === 'user') bodyUrl = '/viewers/cep-js/User.html';
-  else if (articleId)             bodyUrl = '/viewers/cep-js/Article.html';
-  else                            bodyUrl = '/viewers/cep-js/Home.html';
+  else if (articleId)              bodyUrl = '/viewers/cep-js/Article.html';
+  else if (isNewArticle)           bodyUrl = '/viewers/cep-js/Article.html';
+  else                             bodyUrl = '/viewers/cep-js/Home.html';
 
   const [baseRes, bodyRes, searchRes] = await Promise.all([
     fetch('/viewers/cep-js/Base.html'),
@@ -109,8 +111,13 @@ export async function render(params, app) {
   } else if (page === 'stats') {
     const { initStats } = await import('./js/Stats.js');
     initStats(app);
-  } else if (articleId) {
+  } else if (articleId && !isNewArticle) {
     loadArticle(app, articleId, addTag);
+  } else if (isNewArticle) {
+    // Body is handled entirely by the editor — set a minimal title
+    const titleEl = app.querySelector('#ArticleTitle');
+    if (titleEl) titleEl.textContent = 'New Article';
+    document.title = 'New Article';
   } else {
     loadNewsCards(app);
     loadPinnedCards(app);
@@ -124,4 +131,34 @@ export async function render(params, app) {
 
   loadRandomCards(app);
   loadSplashText(app);
+
+  // Editor — lazy load, always available
+  {
+    const link = document.createElement('link');
+    link.rel = 'stylesheet'; link.href = '/viewers/cep-js/editor.css';
+    if (!document.querySelector('link[href="/viewers/cep-js/editor.css"]'))
+      document.head.appendChild(link);
+
+    const { initEditor } = await import('./js/Editor.js');
+
+    // Fetch content.md for the editor if on an article page
+    let articleContent = '';
+    if (articleId) {
+      try {
+        const r = await fetch(`/content/${articleId}/content.md`);
+        if (r.ok) articleContent = await r.text();
+      } catch {}
+    }
+
+    const isNew = params.has('newarticle');
+    const editorArticleId = articleId || (isNew ? null : null);
+
+    initEditor(
+      app,
+      editorArticleId,
+      articleType ? await fetch(`/content/${editorArticleId}/meta.json`).then(r=>r.ok?r.json():{}).catch(()=>({})) : {},
+      articleContent,
+      isNew
+    );
+  }
 }

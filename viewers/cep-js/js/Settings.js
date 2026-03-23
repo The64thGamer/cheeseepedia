@@ -15,6 +15,7 @@ const CSS_VARS = [
   { key: '--good-link',  label: 'Good Link'   },
   { key: '--bad-link',   label: 'Bad Link'    },
   { key: '--distant',    label: 'Distant'     },
+  { key: '--edit-background',    label: 'Editor Background'     },
   { key: '--dark',       label: 'Dark'        },
 ];
 
@@ -33,6 +34,7 @@ const LOGOS = [
 // Default custom values — used only if no saved custom exists yet
 const CUSTOM_DEFAULTS = {
   '--background': '#233355',
+  '--edit-background': '#234555ff',
   '--text':       '#dbd1b1',
   '--primary':    '#e0961f',
   '--secondary':  '#D44A02',

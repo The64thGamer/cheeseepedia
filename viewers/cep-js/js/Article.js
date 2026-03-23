@@ -92,8 +92,6 @@ async function renderMarkdown(md){
       blocks.push(`<table><thead>${parseRow(header,'th')}</thead><tbody>${body.trim().split('\n').filter(Boolean).map(r=>parseRow(r,'td')).join('')}</tbody></table>`);
       return ph;
     });
-  // parseLists must run BEFORE split('\n\n') — the splitter collapses \n to spaces,
-  // destroying the per-line structure that list parsing depends on.
   const listBlocks=[];
   html=parseLists(html,listBlocks);
   html=html.split('\n\n').map(block=>{
@@ -144,12 +142,12 @@ function buildInfobox(meta, linker){
     const range=fmtDateRange(f.s||'',f.e||'');
     return link(f.n)+(range&&range!=='???'?` (${esc(range)})`:'');
   });
-box('Credits', meta.credits, c=>{
-  if(!c)return null;
-  const name=typeof c==='string'?c:(c.n||'');
-  const role=c.role||'';
-  return (role?`<span class="InfoboxCreditRole">${esc(role)}</span> `:'') + esc(name);
-});
+  box('Credits', meta.credits, c=>{
+    if(!c)return null;
+    const name=typeof c==='string'?c:(c.n||'');
+    const role=c.role||'';
+    return (role?`<span class="InfoboxCreditRole">${esc(role)}</span> `:'') + esc(name);
+  });
 
   return parts.length?`<div class="InfoboxContent">${parts.join('')}</div>`:'';
 }
@@ -159,7 +157,6 @@ function parseLists(text, blocks) {
   const out = [];
   const stack = [];
 
-  // Pop everything strictly deeper than 'depth', embedding into parent item
   const flushDeeper = (depth) => {
     while (stack.length && stack[stack.length-1].indent > depth) {
       const top = stack.pop();
@@ -170,13 +167,12 @@ function parseLists(text, blocks) {
         const last = parent.items.length ? parent.items.pop() : '<li>';
         parent.items.push(last.replace(/<\/li>$/, '') + html + '</li>');
       } else {
-        const ph = `LIST${blocks.length}`;
+        const ph = `\x00LIST${blocks.length}\x00`;
         blocks.push(html);
         out.push(ph);
       }
     }
   };
-  // Pop everything, emitting completed top-level lists as placeholders
   const flushAll = () => {
     while (stack.length) {
       const top = stack.pop();
@@ -207,19 +203,15 @@ function parseLists(text, blocks) {
     const top = stack[stack.length-1];
 
     if (top && top.indent === indent && top.ordered === ordered) {
-      // Sibling in same list
       top.items.push(`<li>${content}</li>`);
     } else if (!top || indent > top.indent) {
-      // Going deeper — nest inside parent's last item
       stack.push({ indent, ordered, items: [`<li>${content}</li>`] });
     } else {
-      // Returning to same or shallower indent — flush nested lists into parent first
       flushDeeper(indent);
       const newTop = stack[stack.length-1];
       if (newTop && newTop.indent === indent && newTop.ordered === ordered) {
         newTop.items.push(`<li>${content}</li>`);
       } else {
-        // Different list type at this level — close out and start fresh
         flushAll();
         stack.push({ indent, ordered, items: [`<li>${content}</li>`] });
       }
@@ -275,6 +267,9 @@ const SECTION_LABELS={photos:'Gallery',videos:'Videos',reviews:'Reviews',transcr
 
 // ── Main ──────────────────────────────────────────────────────────────────────
 export async function loadArticle(app, articleId, addTag){
+  // Expose addTag globally so editor exit can restore the page
+  window.__CEP_ADD_TAG = addTag;
+
   const body   =app.querySelector('#ArticleBody');
   const infobox=app.querySelector('#Infobox');
   const titleEl=app.querySelector('#ArticleTitle');
@@ -313,7 +308,8 @@ export async function loadArticle(app, articleId, addTag){
 
   if(meta.title)document.title=meta.title;
   if(titleEl)titleEl.textContent=meta.title||'';
-  renderArticleMeta(app, articleId); 
+  renderArticleMeta(app, articleId);
+
   // Related tags
   const relatedTagsEl=app.querySelector('.RelatedTags');
   if(relatedTagsEl){
@@ -422,9 +418,9 @@ export async function loadArticle(app, articleId, addTag){
       });
     }
 
-    renderInventoriesTab(meta.title, linker).then(el=>{
+    renderInventoriesTab(meta.title, linker, meta.type).then(el=>{
       if(!el) return;
-      makeBtn('Inventory',()=>{
+      makeBtn('Inventories',()=>{
         showInbox(false);
         body.innerHTML='';
         body.appendChild(el);
@@ -434,10 +430,11 @@ export async function loadArticle(app, articleId, addTag){
     if(articleBtn)setActive(articleBtn);
   }
 
-  // Pin button
+  // Pin button — remove existing first to avoid duplication on re-render
   if(header){
+    header.querySelector('.PinButton[data-pin]')?.remove();
     const pinBtn=document.createElement('button');
-    pinBtn.className='PinButton';pinBtn.textContent='📌';
+    pinBtn.className='PinButton';pinBtn.textContent='📌';pinBtn.dataset.pin='1';
     const pins=()=>JSON.parse(localStorage.getItem('Pins')||'[]');
     const setPinned=pinned=>{ pinBtn.classList.toggle('PinButtonActive',pinned);pinBtn.title=pinned?'Unpin article':'Pin article'; };
     setPinned(pins().includes(articleId));
@@ -450,4 +447,25 @@ export async function loadArticle(app, articleId, addTag){
   }
 
   await showArticle();
+}
+
+// ── Editor infobox refresh ────────────────────────────────────────────────────
+export async function refreshInfobox(app, meta, articleId){
+  const infobox=app.querySelector('#Infobox');
+  if(!infobox) return;
+  const linker=await getLinker();
+  const isPhoto=(meta.type||'').toLowerCase()==='photos';
+  const thumbFolder=isPhoto?articleId:(meta.pageThumbnailFile?linker[meta.pageThumbnailFile]:null);
+  infobox.innerHTML='';
+  infobox.style.display='';
+  if(thumbFolder){
+    const imgWrap=document.createElement('div');
+    imgWrap.className='InfoboxThumb';
+    imgWrap.appendChild(ProgressiveImage(thumbFolder,meta.title||''));
+    infobox.appendChild(imgWrap);
+  }
+  infobox.insertAdjacentHTML('beforeend',buildInfobox(meta,linker));
+  if(!thumbFolder && !infobox.querySelector('.InfoboxContent')){
+    infobox.style.display='none';
+  }
 }
