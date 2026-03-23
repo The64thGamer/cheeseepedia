@@ -3,9 +3,18 @@
   "type": "Photos",
   "tags": [
     "Circus Pizza",
-    ""
+    "Circus Pizza"
   ],
   "citations": [
-    "https://archive.org/details/img-6071-2"
+    "https://archive.org/details/img-6071-2",
+    ""
+  ],
+  "startDate": "0000-00-00",
+  "endDate": "0000-00-00",
+  "pageThumbnailFile": "",
+  "credits": [],
+  "downloadLinks": [],
+  "contributors": [
+    "Anonymous"
   ]
 }
