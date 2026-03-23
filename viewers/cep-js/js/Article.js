@@ -269,7 +269,7 @@ const SECTION_LABELS={photos:'Gallery',videos:'Videos',reviews:'Reviews',transcr
 export async function loadArticle(app, articleId, addTag){
   // Expose addTag globally so editor exit can restore the page
   window.__CEP_ADD_TAG = addTag;
-
+  if(articleId) fetch(`/track?p=${encodeURIComponent(articleId)}`).catch(()=>{});
   const body   =app.querySelector('#ArticleBody');
   const infobox=app.querySelector('#Infobox');
   const titleEl=app.querySelector('#ArticleTitle');
