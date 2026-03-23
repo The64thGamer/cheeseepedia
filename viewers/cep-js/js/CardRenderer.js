@@ -175,7 +175,7 @@ export function renderVideoList(doc) {
 // ── View count helpers ────────────────────────────────────────────────────────
 let _views = null;
 async function getViews() {
-  if (!_views) _views = await fetch('/viewers/cep-js/compiled-json/view.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
+  if (!_views) _views = await fetch('/viewers/cep-js/compiled-json/views.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
   return _views;
 }
 export function fmtViews(n) { return ' '+(n??0)+' view'+((n??0)===1?'':'s'); }
