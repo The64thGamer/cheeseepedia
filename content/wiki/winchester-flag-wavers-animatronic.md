@@ -1,0 +1,34 @@
++++
+title = "Winchester Flag Wavers (Animatronic)"
+draft = false
+type = "Animatronics"
+tags = ["Pizza Time Theatre"]
+startDate = "1977-05-00"
+endDate = "1985-02-00"
+contributors = ["Pizza Entertainment Fan", "StarToday77"]
+unitsProduced = "1"
+manufacturer = "Fantasy Forest"
+pageThumbnailFile = "ahX5A2M5qbQTOMLREVPd.avif"
+citations = ["https://www.showbizpizza.com/info/promo/ptt/ptt_77menu.pdf"]
++++
+The ***Winchester Flag Wavers ***was an animatronic produced by {{< wiki-link "Fantasy Forest" >}} for the {{< wiki-link "Pizza Time Theatre" >}} on {{< wiki-link "San Jose, CA (370 S Winchester Blvd)" >}} in May 1977. The Bot was a collection of waving flags that were around the room that were controlled through one animatronic system.The Bot was used from May 1977 up until either Winchester got {{< wiki-link "Cyberamics" >}} in 1981, or when the location closed in 1985.
+
+## History
+
+The Winchester Flag Wavers were installed in May 1977 in the dining areahttps://www.showbizpizza.com/info/promo/ptt/ptt\_79franchise.pdf (Contains the Thumbnail image & Broad Dining Area Shot.). They would wave along to the showtapes{{< cite 1 >}}. The Bot appeared in the 'The Great All-American Pizza Show' Brochure in 1979, where there referred to as just 'flags'{{< cite 1 >}}. The Bot would remain at Winchester until it got Cyberamics in 1981. The Bot's were either sent to {{< wiki-link "Sunnyvale, CA (1213 Innsbruck Drive)" >}}, or thrown out.
+
+## Design
+
+The Winchester Flag Wavers had multiple Flag designs listed below:
+
+* American Flag{{< cite 1 >}}
+* California Flag{{< cite 1 >}}https://archive.org/details/Atari\_Coin\_Connection\_Volume\_1\_Number\_7\_June\_1977/page/n1/mode/2uphttps://archive.org/details/atariincbusiness0000gold/page/348/mode/2up?q=theatre
+* Confederate Flag{{< cite 1 >}}
+* Italian Flag{{< cite 1 >}}
+
+## Movements
+
+* American Flags Wave
+* Italian Flags Wave
+* Confederate Flags Wave
+* Californian Flags Wave
