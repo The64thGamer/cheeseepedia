@@ -1,0 +1,245 @@
+{
+  "title": "Redwood City, CA (380 Convention Way)",
+  "storeNumber": "",
+  "startDate": "1981-08-00",
+  "endDate": "1986-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-08-00",
+      "e": "1986-00-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "RSKT, Inc.",
+      "s": "1981-08-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Owned by 80's Girl / Kobun37"
+    },
+    {
+      "n": "Guest Star Helen Henny (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Owned by Damon E. Breland"
+    },
+    {
+      "n": "Mr Munch (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Owned by Damon E. Breland"
+    },
+    {
+      "n": "Jasper T Jowls (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Owned by Damon E. Breland"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Owned by Damon E. Breland"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Owned by Damon E. Breland"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Owned by Damon E. Breland"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dolli Dimples (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Cheese Crawl",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1981 photograph."
+    },
+    {
+      "n": "Astro Invaders",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1981 photograph."
+    },
+    {
+      "n": "Berzerk",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1981 photograph."
+    },
+    {
+      "n": "Crazy Climber",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1981 photograph."
+    },
+    {
+      "n": "Defender",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "At least 4 machines plus a cocktail cabinet. Seen in photographs from 1981."
+    },
+    {
+      "n": "Galaxian",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "At least 2 machine. Seen in a 1981 photograph."
+    },
+    {
+      "n": "Gorf",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "At least 3 machines. Seen in a 1981 photograph."
+    },
+    {
+      "n": "Monaco GP",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "A sit-down and a regular cabinet. Seen in photographs from 1981."
+    },
+    {
+      "n": "Omega Race",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1981 photograph."
+    },
+    {
+      "n": "Pac-Man",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "At least 4 machines. Seen in photographs from 1981."
+    },
+    {
+      "n": "Pizza Time Theatre Music Ferris Wheel",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Head-only design. Seen in a 1981 photograph."
+    },
+    {
+      "n": "Pleiades",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "At least 2 machines. Seen in photographs from 1981."
+    },
+    {
+      "n": "Scramble",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "At least 2 machines. Seen in photographs from 1981."
+    },
+    {
+      "n": "Skee Roll",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "At least 4 machines. Seen in photographs from 1981."
+    },
+    {
+      "n": "Space Fury",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in photographs from 1981."
+    },
+    {
+      "n": "Star Castle",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "At least 3 machines. Seen in photographs from 1981."
+    },
+    {
+      "n": "Super Cobra",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in photographs from 1981."
+    },
+    {
+      "n": "Tranquilizer Gun",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in photographs from 1981."
+    },
+    {
+      "n": "Warlords",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1981 photograph."
+    },
+    {
+      "n": "Wizard of Wor",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1981 photograph."
+    },
+    {
+      "n": "Whac-A-Munch",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "desc": "Rare 4-unit version. Seen in photographs from 1981."
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.49355032",
+    "-122.2312132"
+  ],
+  "citations": [
+    "https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-2/page/n1/mode/2up?q=redwood",
+    "https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-1/page/n1/mode/2up?q=redwood",
+    "https://archive.org/details/the-pizza-times-newsletters/1982%20The%20Pizza%20Times%202-2/page/n1/mode/2up",
+    "https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-2/page/2/mode/2up?q=redwood",
+    "https://www.newspapers.com/clip/32795765/redwood-city-auction/",
+    "https://forums.arcade-museum.com/threads/mid-1980s-chuck-e-cheese-pizza-time-theater-animatronics.356457/"
+  ],
+  "contributors": [
+    "sudo trans --pony",
+    "Rexburg090",
+    "CEC Tinley",
+    "CECMadison"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/95-8431-bz-plans/-%3DFloorplan%20Archive%3D-/Pizza%20Time%20Theatre/California/RedwoodCityPTT.pdf",
+      "label": "Building Plans"
+    }
+  ],
+  "pageThumbnailFile": "ESu4w1lPWZgMccAV_oEt.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

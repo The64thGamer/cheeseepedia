@@ -1,0 +1,64 @@
+{
+  "title": "Holiday 2014 Show",
+  "startDate": "2014-11-17",
+  "endDate": "2014-12-28",
+  "pageThumbnailFile": "lNZaxI5xoxtjHAcrs1VR.avif",
+  "contributors": [
+    "Cyber Snout",
+    "Himitsu",
+    "Ceclife13"
+  ],
+  "citations": [],
+  "credits": [
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Chris Hill",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Betty, Singing Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Voice of Charlie Rockit, Zoey, Steve Waters"
+    },
+    {
+      "n": "Paul Taylor",
+      "role": "Larry The Technican"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager, Voice of Hard Hat Hank"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator, Studio C Programmer, Voice of Nigel The Sasquatch"
+    },
+    {
+      "n": "Donovan Marcelle",
+      "role": "Existing Stage Programmer"
+    }
+  ],
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "Studio C USB + MicroSD",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

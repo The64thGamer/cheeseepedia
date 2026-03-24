@@ -1,0 +1,1 @@
+The ***15T Compressor System Video Tape Rerelease* was a training tape released in the late 90's detailing how to service the [Concept Unification Stage] *Ingersoll Rand* compressor. It would be an exact rerelease of the [15T Compressor System Video Tape], and the second known rerelease.**

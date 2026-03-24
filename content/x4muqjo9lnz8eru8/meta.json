@@ -1,0 +1,41 @@
+{
+  "title": "Tinley Park, IL (16090 S Harlem Ave)",
+  "storeNumber": "",
+  "startDate": "1989-01-31",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Chuck E.'s House",
+      "s": "1989-01-31",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1994-00-00",
+      "e": "2023-11-26",
+      "desc": "Last 2-Stage in the state. Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-11-29",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.59776697",
+    "-87.79602278"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "M9EgfJ5q49hzp4B0yA_H.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

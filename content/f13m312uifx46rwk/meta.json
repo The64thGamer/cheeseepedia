@@ -1,0 +1,46 @@
+{
+  "title": "Summer 2009 Show",
+  "startDate": "2009-07-00",
+  "endDate": "2009-08-00",
+  "pageThumbnailFile": "FHNOL6LIzgB1eDf7kwjY.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Dame",
+    "AstridMascotFan2005",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/3stage_dvd_signals/June%202009%203-Stage-002.iso"
+  ],
+  "credits": [
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Coordinator"
+    }
+  ],
+  "mediaDuration": "46:11",
+  "showtapeFormats": [
+    "3-Stage DVD",
+    "Cyberamics DVD",
+    "Studio C 3x DVD + Floppy"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/June%202009%203-Stage-002.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

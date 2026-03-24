@@ -1,0 +1,67 @@
+{
+  "title": "Fall 2012 Show",
+  "startDate": "2012-09-01",
+  "endDate": "2012-11-25",
+  "pageThumbnailFile": "Vz3_taAouzzg0TZ6DxEa.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "CEC Denver",
+    "Hollyb",
+    "Anonymous",
+    "Ceclife13",
+    "Anonymous",
+    "Anonymous",
+    "Anonymous",
+    "Cheeseclassic"
+  ],
+  "citations": [],
+  "credits": [
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Singing Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Voice of Zoey, Steve Waters"
+    },
+    {
+      "n": "Paul Taylor",
+      "role": "Larry The Technician"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, Voice of Hard Hat Hank"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    }
+  ],
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "Studio C USB + MicroSD",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

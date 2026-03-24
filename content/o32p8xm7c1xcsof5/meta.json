@@ -1,0 +1,30 @@
+{
+  "title": "Springfield, IL (1766 Wabash Ave)",
+  "storeNumber": "",
+  "startDate": "1981-12-14",
+  "endDate": "1985-06-30",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-12-14",
+      "e": "1985-06-30"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.7630478",
+    "-89.6851406"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

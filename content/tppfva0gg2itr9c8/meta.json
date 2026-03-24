@@ -1,0 +1,30 @@
+{
+  "title": "San Miguel, Peru",
+  "storeNumber": "",
+  "startDate": "2020-03-07",
+  "endDate": "2025-08-31",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2020-03-07",
+      "e": "2025-08-31"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "-6.9768275",
+    "-78.9409485"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

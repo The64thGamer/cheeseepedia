@@ -1,0 +1,1 @@
+The Location's opening Newspaper

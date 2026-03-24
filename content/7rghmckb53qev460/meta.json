@@ -1,0 +1,40 @@
+{
+  "title": "Brick, NJ (56 Chambers Bridge Rd)",
+  "storeNumber": "",
+  "startDate": "1993-01-19",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "2-Stage",
+      "s": "1993-01-00",
+      "e": "2007-00-00",
+      "desc": "Replaced by Studio C Beta 16M."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.05727272",
+    "-74.14163633"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "YTikwXVT7W26QfxyrqYF.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

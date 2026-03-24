@@ -1,0 +1,50 @@
+{
+  "latitudeLongitude": [
+    "33.2977973",
+    "-111.8929381"
+  ],
+  "remodels": [
+    {
+      "n": "CEC 2013 Update Program",
+      "s": "2014-04-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Circles of Light",
+      "s": "2014-04-00",
+      "e": "0000-00-00",
+      "desc": "Animatronic was removed during the 2.0 Remodel."
+    }
+  ],
+  "franchisees": [],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 32m (Animatronic)",
+      "s": "2014-04-00",
+      "e": "2023-00-00",
+      "desc": "Unknown/Destroyed. Came from the Phoenix, AZ (3329 E Bell Rd) location."
+    }
+  ],
+  "attractions": [],
+  "contributors": [
+    "KawaiiZenbo"
+  ],
+  "title": "Chandler, AZ (2977 West Frye Rd)",
+  "storeNumber": "",
+  "startDate": "2015-04-00",
+  "endDate": "",
+  
+  "sqft": "",
+  "citations": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "wLIO8393W2ezZ8EWyXvY.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

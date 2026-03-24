@@ -1,0 +1,30 @@
+{
+  "title": "Seattle, WA (13216 Aurora Ave)",
+  "storeNumber": "",
+  "startDate": "1982-09-00",
+  "endDate": "1984-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-09-00",
+      "e": "1984-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "47.7249065",
+    "-122.3448734"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

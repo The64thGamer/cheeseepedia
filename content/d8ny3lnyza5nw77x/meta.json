@@ -1,0 +1,354 @@
+{
+  "title": "Princeton, NJ (520 Nassau Park Blvd)",
+  "storeNumber": "510",
+  "startDate": "2001-10-17",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "2001-10-17",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-06-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Cave Mania",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Shooting Hoops 2000",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Spider Stompin",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "High Tops",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Skee Ball Too!",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Skee Ball Too!",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Skee Ball Too!",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Skee Ball Too!",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Skee Ball Too!",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Skee Ball Too!",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Super Shot",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Artic Thunder",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Amutec Carousel",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Barney",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Barrel Of Fun",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Bozo II",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Buzy Bee",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "CEC Air Hockey",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "CEC Photo Ride",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Chuck E. Duckies",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Crazy Balloon",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Dino Dash",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Drum",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Fish N Fun",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Football Fury",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Frantic Fred",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Frog Song",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Funny Clette",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "JR Bob Bulldozer",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Jurassic Park",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Kids Whac",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Magical Truck",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Chuck E. Cheese's Memory Match",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Paint Game",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Penalty Shootout",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Ripper Ribbit",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Robo Bop",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Speed Shifter",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Star Wars",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Strike Fighter",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Tele Dome",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Toddler Sidewinder",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Toddler Whac",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Top Glo Water",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Total Eclipse",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Train",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Wave Runner",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Chatty Chuck E.",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Pop A Tac Toe",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Bill Changers",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Bill Changers",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Water",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    },
+    {
+      "n": "Skytubes",
+      "s": "2001-10-17",
+      "e": "0000-00-00",
+      "desc": "Seen in construction documents."
+    }
+  ],
+  "sqft": "10,032",
+  "latitudeLongitude": [
+    "40.30479942",
+    "-74.68025878"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "ydDnFlNv4Q063leXjbzM.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

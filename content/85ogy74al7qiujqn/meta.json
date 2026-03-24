@@ -1,0 +1,50 @@
+{
+  "title": "Chattanooga, TN (22 Northgate Park)",
+  "storeNumber": "",
+  "startDate": "1982-10-19",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-19",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2006-00-00",
+      "desc": "One of 8 3-Stages in Tennessee to get Concept Unification. One of many 3-Stages replaced with a Studio C Beta."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-00-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "35.13125872",
+    "-85.23865038"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Calgary, Alberta, Canada (3320 20th Ave)",
+  "storeNumber": "",
+  "startDate": "1983-08-00",
+  "endDate": "1988-08-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-08-00",
+      "e": "1988-08-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "0",
+    "0"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "title": "May 2011 Show",
+  "startDate": "2011-05-00",
+  "endDate": "2011-08-00",
+  "pageThumbnailFile": "1fCBkSlMpiy_YLP5B1q9.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "BurgersNuggs445",
+    "Mousester",
+    "Chuck E. Cheese's Illinois",
+    "John95",
+    "Anonymous",
+    "Anonymous",
+    "Anonymous",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/studio-c-floppy-discs-rips/MAY11.EXE"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Voice of Jasper T. Jowls, Show Announcer, Songwriter ('The Place To Be')"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, 'Jiggawatt'"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    },
+    {
+      "n": "Dave Wilson",
+      "role": "Songwriter ('Don't You Wanna Share', 'The Weekend', 'Never A Long Goodbye')"
+    }
+  ],
+  "mediaDuration": "1:30:29",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/MAY11.EXE",
+      "label": "Partial Studio C Floppy Disk Rip"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/May%202011%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/May%202011%203-Stage-002.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

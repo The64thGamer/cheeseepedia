@@ -1,0 +1,30 @@
+{
+  "title": "West Valley, UT (4600 South 4000)",
+  "storeNumber": "",
+  "startDate": "1983-09-00",
+  "endDate": "1985-04-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-09-00",
+      "e": "1985-04-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.6700708",
+    "-111.9627081"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Fresno, CA (7809 N Blackstone Ave)",
+  "storeNumber": "",
+  "startDate": "2002-09-24",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2002-09-24",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-02-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.84790692",
+    "-119.7933948"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "TEMe8rldHjVnPtbocWjv.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Chuck E's Holiday Party 2001",
+  "startDate": "2001-12-00",
+  "endDate": "2001-12-00",
+  "pageThumbnailFile": "J6XWHPOYJ_ciVKSfwCIt.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Anonymous",
+    "BurgersNuggs445",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/studio-c-floppy-discs-rips/Holiday2001ShowUpdate.img"
+  ],
+  "credits": [
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    }
+  ],
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "R12 SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Holiday2001ShowUpdate.img",
+      "label": "Studio C Floppy Disk"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

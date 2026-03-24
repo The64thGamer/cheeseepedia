@@ -1,0 +1,35 @@
+{
+  "title": "Fall River, MA (35 Mariano Bishop Blvd)",
+  "storeNumber": "",
+  "startDate": "1985-02-00",
+  "endDate": "1991-04-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1985-02-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "1991-04-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.67579112",
+    "-71.16420153"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "46Vp0mhtHKaQ8nNWs2NM.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,1 @@
+Chuck E's outfit he premiered with the [August 1996 Show] and [Awesome Adventure Machine]. Designed by Shelly Atkins, this outfit features a bright, colorful top, gray shorts, elbow & knee pads, and some unique black shoes.

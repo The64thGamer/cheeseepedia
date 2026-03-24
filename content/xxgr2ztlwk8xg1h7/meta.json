@@ -1,0 +1,46 @@
+{
+  "title": "Whitehall, PA (1000 Lehigh Valley Mall)",
+  "storeNumber": "",
+  "startDate": "1983-12-16",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-12-16",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2010-09-00",
+      "desc": "One of 3-Stages in Pennsylvania to undergo Concept Unification. 3-Stage was converted into the first ever CU 1-Stage. Was in Good Condition. Chuck had full rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, Pasqually had CU Drumfront, and Stage had Pizzacam. Animatronics now at SPT Distribution."
+    },
+    {
+      "n": "Concept Unification 1-Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-07-12",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.63075037",
+    "-75.47716658"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "EA6R7GLgi62sAoWGPJ4b.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

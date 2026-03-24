@@ -1,0 +1,35 @@
+{
+  "title": "Mays Landing, NJ (4215 Black Horse Pike)",
+  "storeNumber": "",
+  "startDate": "2001-12-27",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2001-12-27",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-05-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.44455767",
+    "-74.62963918"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "PB6VfxPUjzyNQ_PVoX3o.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

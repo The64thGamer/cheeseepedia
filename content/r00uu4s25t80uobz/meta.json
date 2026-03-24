@@ -1,0 +1,74 @@
+{
+  "title": "The Chuck E. Cheese Show",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "startDate": "2014-07-01",
+  "endDate": "2014-08-31",
+  "contributors": [
+    "Cyber Snout",
+    "Himitsu",
+    "sudo trans --pony",
+    "DerpJobi",
+    "ShowBizChuck",
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Chris Hill",
+      "role": "Voice of Mr. Munch, Scriptwriter (Pizza Plant)"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Mike Manly, Singing Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef, Justin Beaver, Show Announcer"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Voice of Zoey, Charlie Rockit, Steve Waters"
+    },
+    {
+      "n": "Paul Taylor",
+      "role": "Larry The Technician"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager, Voice of Hard Hat Hank, Marvin the Technology Guru"
+    },
+    {
+      "n": "Dave Walzer",
+      "role": "Bobby Bear, Songwriter (Arizona)"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch"
+    },
+    {
+      "n": "Donovan Marcelle",
+      "role": "Existing Stage Programmer"
+    }
+  ],
+  "citations": [
+    "https://newmediarockstars.com/2014/09/chuck-e-cheese-rips-off-dude-like-hella-video/",
+    "https://www.youtube.com/watch?v=RhmUnk454MA"
+  ],
+  "pageThumbnailFile": "wLhQ2r_Jtj6fgp4YmOFV.avif",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "Studio C USB + MicroSD",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "title": "September 2000 Show",
+  "startDate": "2000-09-01",
+  "endDate": "2000-11-26",
+  "pageThumbnailFile": "II_jNqmGA1F7FlfiC2f2.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://www.youtube.com/watch?v=k3lJRDHOySQ"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager, Voiceover (Behind The Video)"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "DJ, Dancer"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Dancer"
+    }
+  ],
+  "mediaDuration": "52:01",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "R12 SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/September%202000%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

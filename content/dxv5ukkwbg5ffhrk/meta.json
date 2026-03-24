@@ -1,0 +1,64 @@
+{
+  "title": "Pizza Time Theatre Showtape",
+  "type": "Showtapes",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "startDate": "1977-05-01",
+  "endDate": "1977-08-12",
+  "contributors": [
+    "sudo trans --pony",
+    "CEC Tinley",
+    "Ceclife13"
+  ],
+  "citations": [
+    "http://www.showbizpizza.com/review/ptt/1977_crusty.html",
+    "http://cocatalog.loc.gov/cgi-bin/doctitles.cgi?V1704P125",
+    "https://www.youtube.com/watch?v=C2cQFyz12hA",
+    "https://archive.org/details/sanfranciscosanf1978rlpo/page/n373/mode/2up?q=%22Bogas+Productions%22",
+    "https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977",
+    "https://youtu.be/AEklLTqgdQg?t=1976",
+    "https://youtu.be/Unm8FPZhFDc?t=2255",
+    "https://youtu.be/AEklLTqgdQg?t=347"
+  ],
+  "pageThumbnailFile": "4q2oQSqEHCxQT6bXvwVp.avif",
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/bigcheese/Stereo.wav",
+      "label": "Big Cheese Birthday Show 2-Track Audio"
+    },
+    {
+      "url": "https://archive.org/details/winchester-crusty-cds#review-1717546212",
+      "label": "Winchester Crusty CDs"
+    }
+  ],
+  "credits": [
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese, Jasper T. Jowls (Demo), Pasqually the Chef (Demo), Crusty the Cat (Demo)"
+    },
+    {
+      "n": "Joe Spano",
+      "role": "Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Ed Bogas",
+      "role": "Voice of Crusty the Cat"
+    },
+    {
+      "n": "Bob Sarlatte",
+      "role": "Voice of Crusty the Cat"
+    },
+    {
+      "n": "Buffy Sainte-Marie",
+      "role": "Voice of the Warblettes"
+    }
+  ],
+  "showtapeFormats": [
+    "Cyberamics Reel"
+  ]
+}

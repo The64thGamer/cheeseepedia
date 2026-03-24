@@ -1,0 +1,69 @@
+{
+  "title": "Chuck E's Holiday Party 1999",
+  "startDate": "1999-12-00",
+  "endDate": "1999-12-00",
+  "pageThumbnailFile": "4IoBenMsYGU9fgFHv2iq.avif",
+  "contributors": [
+    "Ceclife13",
+    "sudo trans --pony",
+    "Cyber Snout",
+    "MultiMonorail"
+  ],
+  "citations": [
+    "https://youtu.be/5mqJMsr_PLU?t=6418"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch, Show Announcer"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper, Betty, Mike Manly"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Lynne Moon",
+      "role": "Props Person"
+    }
+  ],
+  "mediaDuration": "48:32",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "R12 SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/December%201999%20Studio%20C.ISO",
+      "label": "Studio C DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

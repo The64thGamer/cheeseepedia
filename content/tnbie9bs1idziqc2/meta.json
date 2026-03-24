@@ -1,0 +1,68 @@
+{
+  "title": "Kooser Main Show & Dolli Showtape",
+  "type": "Showtapes",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "startDate": "1978-12-00",
+  "endDate": "1979-00-00",
+  "contributors": [
+    "sudo trans --pony",
+    "Blowseborg062",
+    "BeachBear",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://www.youtube.com/watch?v=CdZcDC1pJyc",
+    "https://worldradiohistory.com/Archive-All-Audio/Archive-Recording-Engineer/70s/Recording-1978-10.pdf",
+    "https://worldradiohistory.com/Archive-All-Audio/Mix-Magazine/70s/1979/Mix-1979-07.pdf",
+    "https://archive.org/details/PersonalComputing197904/page/n11/mode/2up?q=pizza+time+theatre+pdp",
+    "https://www.showbizpizza.com/info/articles/cec/ptt_79sjmercury.pdf",
+    "https://youtu.be/EdKLsomLbtY",
+    "https://www.showbizpizza.com/info/articles/cec/ptt_79fsm.pdf",
+    "https://youtu.be/E6sa_RtChko"
+  ],
+  "pageThumbnailFile": "RSEKM5ZyV79H3d4p4ycO.avif",
+  "credits": [
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Nancy Lenehan",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Fritz Heilbron",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Joe Spano",
+      "role": "Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Donna Miller",
+      "role": "Voice of Dolli Dimples"
+    },
+    {
+      "n": "Corasound",
+      "role": "Recording Studio"
+    }
+  ],
+  "showtapeFormats": [
+    "Cyberamics Reel"
+  ],
+  "alsoKnownAs": [
+    "Dolli Dimples 1 (Cabaret Portion)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/details/dollidimples/Audio+01.wav",
+      "label": "Donna Miller Session Recording 1 (November 9, 1978)"
+    }
+  ]
+}

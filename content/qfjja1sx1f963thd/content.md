@@ -1,0 +1,1 @@
+Slightly higher res scan.

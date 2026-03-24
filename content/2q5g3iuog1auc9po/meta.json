@@ -1,0 +1,77 @@
+{
+  "title": "Spring 2013 Show",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "startDate": "2013-04-00",
+  "endDate": "2013-06-00",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "John95",
+    "Anonymous",
+    "Anonymous",
+    "Harchambeault2026",
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Show Announcer, Singing Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Steve Waters"
+    },
+    {
+      "n": "Paul Taylor",
+      "role": "Larry The Technician"
+    },
+    {
+      "n": "Ricco Fajardo",
+      "role": "Gary the Centaur"
+    },
+    {
+      "n": "Dave Walzer",
+      "role": "Bobby Bear"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager, Voice of Hard Hat Hank, Tuxedo Mouse, Voiceover (CEC Live Promo)"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator, Studio C Programmer, Nigel the Sasquatch"
+    },
+    {
+      "n": "Donovan Marcelle",
+      "role": "Existing Stage Programmer"
+    }
+  ],
+  "mediaDuration": "1:12:46",
+  "citations": [],
+  "pageThumbnailFile": "SSyzvXIS2WmBuy81LAne.avif",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "Studio C USB + MicroSD",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ]
+}

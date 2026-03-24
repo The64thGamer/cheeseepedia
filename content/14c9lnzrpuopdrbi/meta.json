@@ -1,0 +1,41 @@
+{
+  "title": "Johnson City, NY (365 Harry L Dr)",
+  "storeNumber": "",
+  "startDate": "1983-06-07",
+  "endDate": "1996-11-17",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1992-00-00",
+      "e": "1996-09-00",
+      "desc": "Possibly sent to Virginia Beach, VA (2699 Lishelle Place)"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.12217817",
+    "-75.96433658"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "8Wa1zc63mW7VX3q489i6.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

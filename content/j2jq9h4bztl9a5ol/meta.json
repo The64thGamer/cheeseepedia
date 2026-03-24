@@ -1,0 +1,41 @@
+{
+  "title": "Skokie, IL (7142 Carpenter Rd)",
+  "storeNumber": "",
+  "startDate": "1991-08-20",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-08-20",
+      "e": "1994-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1994-00-00",
+      "e": "2019-00-00",
+      "desc": "Replaced by Dance Floor."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-10-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.00933787",
+    "-87.76378393"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "vc9bDmGZkxcMsGADVX09.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

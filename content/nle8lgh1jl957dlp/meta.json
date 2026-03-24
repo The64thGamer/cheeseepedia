@@ -1,0 +1,34 @@
+{
+  "title": "Rohnert Park, CA (601 Rohnert Park Expressway)",
+  "storeNumber": "",
+  "startDate": "1993-12-06",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-12-06",
+      "e": "2014-00-00"
+    },
+    {
+      "n": "Circles of Light",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.3477426",
+    "-122.7249094"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

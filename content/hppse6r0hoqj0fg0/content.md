@@ -1,0 +1,257 @@
+**Helen Henny:(Singing)** 
+
+One can have a dream, baby
+
+**Chuck E. Cheese:(Singing)** 
+
+Two can make the dream so real
+
+**Helen Henny:(Singing)** 
+
+One can talk about being in love
+
+**Chuck E. Cheese:(Singing)** 
+
+Two can see how real it feels
+
+**Helen Henny:(Singing)** 
+
+One can wish upon a star
+
+**Chuck E. Cheese:(Singing)** 
+
+Two can make a wish come true
+
+**Helen Henny:(Singing)** 
+
+One can stand alone in the dark
+
+**Chuck E. Cheese:(Singing)** 
+
+Two can make a light shine through
+
+**Chuck E. Cheese & Helen Henny:(Singing)** 
+
+It takes two, baby.
+
+It takes two, baby. 
+
+Just me and you. 
+
+You know it takes two
+
+**Helen Henny:(Singing)** 
+
+One can have a broken heart living in misery
+
+**Chuck E. Cheese:(Singing)** 
+
+Two can really ease the pain just like a perfect remedy
+
+**Helen Henny:(Singing)** 
+
+One can be alone in a crowd. Like an item he’s all alone
+
+**Chuck E. Cheese & Helen Henny:(Singing)** 
+
+Two can make just any place seem just like being at home. 
+
+It takes two, baby. 
+
+It takes two, baby. 
+
+Just me and you. 
+
+You know it takes two
+
+**Pasqually:** 
+
+Oh, you two are such a cute couple
+
+**Jasper T. Jowls:** 
+
+Yep, like Romeo and Juliet
+
+**Mr. Munch:** 
+
+Or like peanut butter and jelly
+
+**Helen Henny:** 
+
+Oh Munch
+
+**Chuck E. Cheese:** 
+
+Cut it out, you guys
+
+**Chuck E. Cheese & Helen Henny:(Singing)** 
+
+It takes two, baby. 
+
+It takes two, baby. 
+
+Just me and you. 
+
+You know it takes two
+
+**Helen Henny:(Singing)** 
+
+One can go out to a movie looking for that special treat
+
+**Chuck E. Cheese:(Singing)** 
+
+Two can make that single movie something really kind of neat
+
+**Helen Henny:(Singing)** 
+
+One can take a walk in the moonlight thinking that it’s really nice
+
+**Chuck E. Cheese:(Singing)** 
+
+But two people walking hand in hand
+
+**Chuck E. Cheese & Helen Henny:(Singing)** 
+
+It’s like adding just a pinch of spice. 
+
+It takes two, baby. 
+
+It takes two, baby. 
+
+Just me and you. 
+
+You know it takes two
+
+**Chuck E. Cheese:** 
+
+Thank you. Thanks everybody
+
+**Helen Henny:** 
+
+Chuck E., you’re my best friend
+
+**Chuck E. Cheese:** 
+
+Of course, thanks Helen. You’re my friend too. And you know, friends are very important
+
+**Pasqually:** 
+
+Oh yes. And to have a friend you have to be a friend
+
+**Jasper T. Jowls:** 
+
+Let’s ask all of our friends here to help us sing our next song
+
+**Mr. Munch:** 
+
+That’s a great idea. I’ll start
+
+**Pasqually:(Singing)** 
+
+Place: park. Scene: dark. 
+
+Silvery moon shining through the trees.
+
+Cast: two. Me, you.
+
+Sound of kisses floating on the breeze. 
+
+Act one: begun. 
+
+Dialogue: where would you like to spoon?
+
+My cue with you underneath the silvery moon. 
+
+By the light
+
+**All:(Singing)** 
+
+By the daunt of the light
+
+**Pasqually:(Singing)** 
+
+Of the silvery moon
+
+**All:(Singing)** 
+
+Not the sun but the moon
+
+**Pasqually:(Singing)** 
+
+I want to spoon
+
+**All:(Singing)** 
+
+Not a fork but a spoon
+
+**Pasqually:(Singing)** 
+
+To my honey I’ll croon loves tune. 
+
+Honeymoon
+
+**Mr. Munch:(Singing)** 
+
+Honeymoon
+
+**All:(Singing)**
+
+Honeymoon
+
+**Pasqually:(Singing)** 
+
+Keep shining in June
+
+**All:(Singing)** 
+
+Not May but June. 
+
+Your silvery beams will bring love’s dreams
+
+**Pasqually:(Singing)** 
+
+We’ll be cuddling soon
+
+**All:(Singing)** 
+
+By the silvery moon
+
+**Pasqually:(Singing)** 
+
+By the light of the silvery moon I want to spoon. 
+
+To my honey I’ll
+
+**All:(Singing)** 
+
+Croon loves tune
+
+**Pasqually:(Singing)** 
+
+Honeymoon keep shining in June
+
+**All:(Singing)** 
+
+Not May but June. 
+
+Your silvery beams will bring loves dreams
+
+**Pasqually:(Singing)** 
+
+We’ll be cuddling soon
+
+**All:(Singing)** 
+
+By the silvery moon. Your silvery beams will bring love’s dreams
+
+**Pasqually:(Singing)** 
+
+We’ll be cuddling soon
+
+**All:(Singing)** 
+
+By the silvery moon
+
+**Chuck E. Cheese:** 
+
+Ok pals and gals, the band and I are gonna take a break now. So keep watching CEC TV and we’ll be right back

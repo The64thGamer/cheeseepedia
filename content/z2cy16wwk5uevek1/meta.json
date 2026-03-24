@@ -1,0 +1,40 @@
+{
+  "title": "Brookfield, WI (19125 W Blue Mound Rd)",
+  "storeNumber": "",
+  "startDate": "1997-12-17",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "1997-12-17",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-08-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Mega Superhero Playground",
+      "s": "2025-00-00"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "43.03509092",
+    "-88.06849228"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Wq3KDtZqguDydYlINhjq.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

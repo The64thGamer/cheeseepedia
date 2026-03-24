@@ -1,0 +1,30 @@
+{
+  "title": "Alton, IL (1709 Homer M Adams Pkwy)",
+  "storeNumber": "",
+  "startDate": "1982-11-17",
+  "endDate": "1985-09-18",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-11-17",
+      "e": "1985-09-18"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.9186622",
+    "-90.1663813"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

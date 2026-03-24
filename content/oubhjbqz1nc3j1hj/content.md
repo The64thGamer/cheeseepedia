@@ -1,0 +1,1 @@
+Footage of January 2006: Segment 3 at Waterbury, CT's 2-Stage

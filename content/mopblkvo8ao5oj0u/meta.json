@@ -1,0 +1,210 @@
+{
+  "title": "Cincinnati, OH (3365 Highland Ave)",
+  "storeNumber": "",
+  "startDate": "1982-11-11",
+  "endDate": "1985-00-00",
+  
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-11-11"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-11-11",
+      "e": "1985-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Q*Bert",
+      "s": "1983-02-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in 1983 advertisement and auction advertisment"
+    },
+    {
+      "n": "Popeye",
+      "s": "1983-02-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in 1983 advertisement"
+    },
+    {
+      "n": "Baby Pac Man",
+      "s": "1983-02-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in 1983 advertisement"
+    },
+    {
+      "n": "Zaxxxon",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Donkey Kong",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Centipede",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Star Wars",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Helicopter",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Horse",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Car",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Airplane",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "Mentioned in auction advertisment"
+    },
+    {
+      "n": "Skeeball",
+      "s": "0000-00-00",
+      "e": "1985-00-00",
+      "desc": "10-12 Lanes, Mentioned in auction advertisment"
+    }
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 1-2",
+      "desc": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 2-2",
+      "desc": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-81 3-2",
+      "desc": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 4-2",
+      "desc": "Purchased by Jungle Jim's International Market, base used for Nirobi Trio"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 5-2",
+      "desc": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 6-2",
+      "desc": "Purchased by Jungle Jim's International Market, used for Nirobi Trio"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 7-2",
+      "desc": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 8-2",
+      "desc": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 11-2",
+      "desc": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "l": "4-82 11-2",
+      "desc": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "1982-11-11",
+      "e": "1985-00-00",
+      "desc": "Purchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Uncle Klunk (Animatronic)",
+      "s": "1983-07-00",
+      "e": "1983-12-00",
+      "desc": "Unknown"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.16845822",
+    "-84.42462983"
+  ],
+  "citations": [
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-spp-highland-now/191159906/",
+    "https://www.newspapers.com/article/the-cincinnati-post-spp-highland-now-ope/191160136/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-spp-highland-sh/191160333/",
+    "https://www.newspapers.com/article/the-cincinnati-post-spp-highland-robbing/191160549/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-spp-highland-sho/191160758/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-spp-highland-mus/191161059/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer/14428025/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-uncle-klunk-cin/180548476/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-sharonville-spp/180679459/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-spp-highland-pro/191161767/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-spp-highland-c/191162334/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-showbiz-cincinna/32794259/",
+    "https://wedge1.hcauditor.org/view/re/5200270005100/2025/transfers",
+    "https://www.newspapers.com/image/764648118/?match=1&terms=%22Frank%27s%20Nursery%20and%20Crafts%22",
+    "https://www.newspapers.com/image/102610542/"
+  ],
+  "contributors": [
+    "Cyber Snout"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "FWMcQP6cCrxlJAzSSLKl.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

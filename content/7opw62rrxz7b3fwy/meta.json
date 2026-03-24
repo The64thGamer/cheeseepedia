@@ -1,0 +1,30 @@
+{
+  "title": "Fort Worth, TX (8740 Hwy 80 West)",
+  "storeNumber": "",
+  "startDate": "1981-06-00",
+  "endDate": "1983-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-06-00",
+      "e": "1983-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "0",
+    "0"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

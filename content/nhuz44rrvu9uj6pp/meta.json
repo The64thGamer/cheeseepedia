@@ -1,0 +1,23 @@
+{
+  "title": "CEC World of Kids",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "pageThumbnailFile": "WorldofKids.avif",
+  "startDate": "1986-01-00",
+  "endDate": "1986-03-00",
+  "contributors": [
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch, Jasper T. Jowls, Pasqually the Chef"
+    },
+    {
+      "n": "Nancy Lenehan",
+      "role": "Voice of Helen Henny"
+    }
+  ]
+}

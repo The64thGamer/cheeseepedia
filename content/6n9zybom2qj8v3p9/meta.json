@@ -1,0 +1,30 @@
+{
+  "title": "Salinas, CA (957 N Main St)",
+  "storeNumber": "",
+  "startDate": "1981-09-00",
+  "endDate": "1995-08-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-09-00",
+      "e": "1995-08-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.69073862",
+    "-121.6537888"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

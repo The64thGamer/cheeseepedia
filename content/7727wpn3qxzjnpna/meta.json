@@ -1,0 +1,51 @@
+{
+  "title": "Gaithersburg, MD (516 N Frederick Ave)",
+  "storeNumber": "",
+  "startDate": "1983-03-00",
+  "endDate": "2020-06-17",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-03-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Road Stage",
+      "s": "1991-00-00",
+      "e": "1995-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1994-00-00",
+      "e": "2005-00-00",
+      "desc": "Replaced by Studio C Beta 16M."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "2020-06-17"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.14609897",
+    "-77.21015943"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "1JRYFlnQGlLwl_3KnOKX.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

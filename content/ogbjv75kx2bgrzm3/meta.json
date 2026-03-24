@@ -1,0 +1,73 @@
+{
+  "title": "Destination Imagination",
+  "startDate": "1995-08-01",
+  "endDate": "1995-11-23",
+  "pageThumbnailFile": "V0AI2nvmmEFNzaQ7bGAx.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Anonymous",
+    "Agent 5",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/cyberamics_post_93_svhs_signals/August%201995%20CEC%20Stage.iso",
+    "https://youtu.be/JGPhPDRzQvY?t"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Jeff Cosco",
+      "role": "Singing Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef, Mr. Munch"
+    },
+    {
+      "n": "Doug Moncrief",
+      "role": "Singing Voice of Pasqually"
+    },
+    {
+      "n": "Cathy Turner",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Ron Schneider",
+      "role": "Writer, Giant"
+    },
+    {
+      "n": "Jeff Palmer",
+      "role": "Producer, Director"
+    },
+    {
+      "n": "Casey Filiaci",
+      "role": "Composer"
+    }
+  ],
+  "mediaDuration": "51:26",
+  "showtapeFormats": [
+    "R12 SVHS (Post-93)",
+    "C&R SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/chuck-e-cheese-1995-singles-stereo-mixes/CESSummer1995%20StereoMix.wav",
+      "label": "Finalized Stereo Mixes of Showtape Songs"
+    },
+    {
+      "url": "https://archive.org/download/cyberamics_post_93_svhs_signals/August%201995%20CEC%20Stage.iso",
+      "label": "R12 SVHS w/ Signals"
+    }
+  ],
+  "alsoKnownAs": [
+    "Aug 1995Playdates: Aug 1 - Nov 23Stage Type: CEC"
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

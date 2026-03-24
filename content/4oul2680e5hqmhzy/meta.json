@@ -1,0 +1,35 @@
+{
+  "title": "Orem, UT (40 W Center St)",
+  "storeNumber": "",
+  "startDate": "1983-08-31",
+  "endDate": "2017-07-30",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-08-31",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2017-07-30"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.29561002",
+    "-111.6950823"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "XiMNkN6DVTXO6_cdjt8P.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Schenectady, NY (2330 Watt St)",
+  "storeNumber": "",
+  "startDate": "1983-06-00",
+  "endDate": "1985-07-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-06-00",
+      "e": "1985-07-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.7841382",
+    "-73.9184603"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

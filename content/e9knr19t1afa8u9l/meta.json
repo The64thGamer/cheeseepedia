@@ -1,0 +1,35 @@
+{
+  "title": "Warren, MI (11555 Engleman Rd)",
+  "storeNumber": "",
+  "startDate": "1981-10-14",
+  "endDate": "1986-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-10-14",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Family Album",
+      "s": "0000-00-00",
+      "e": "1986-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.4818784",
+    "-83.0067891"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "St. Louis, MO (7499 S Lindbergh Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-03-18",
+  "endDate": "1999-04-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-03-18",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "1999-04-00",
+      "desc": "One of 5 3-Stages in Missouri to undergo Concept Unification."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.50412087",
+    "-90.32315878"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

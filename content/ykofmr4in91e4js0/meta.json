@@ -1,0 +1,41 @@
+{
+  "title": "Hampton, VA (4027 W Mercury Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-05-00",
+  "endDate": "2002-05-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-05-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2002-05-00",
+      "desc": "One of six 2-Stages installed in Virginia. Sent to Florence, KY (7635 Mall Rd) after closure."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.02649957",
+    "-76.42558368"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "bwYuOOZap5QB4nSq0mxU.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

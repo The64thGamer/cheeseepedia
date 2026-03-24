@@ -1,0 +1,41 @@
+{
+  "title": "Milwaukee, WI (7401 Good Hope Rd)",
+  "storeNumber": "",
+  "startDate": "1981-06-17",
+  "endDate": "1995-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-06-17",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "1-Stage",
+      "s": "1994-00-00",
+      "e": "1995-00-00",
+      "desc": "1-Stage w/ Turntable"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "43.14574937",
+    "-88.00367783"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

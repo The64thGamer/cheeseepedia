@@ -1,0 +1,51 @@
+{
+  "title": "Granada Hills, CA (16269 San Fernando Mission)",
+  "storeNumber": "",
+  "startDate": "1981-00-00",
+  "endDate": "2021-03-01",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Road Stage",
+      "s": "1991-00-00",
+      "e": "1994-04-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2007-00-00",
+      "desc": "One of many installed in California. Replaced by Studio C Beta 16M in 2007."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "2021-03-01"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.27163642",
+    "-118.488"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "y5Csc9qrNGpAGomcKymV.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

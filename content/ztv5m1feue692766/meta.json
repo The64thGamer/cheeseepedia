@@ -1,0 +1,46 @@
+{
+  "title": "Tulsa, OK (7108 S Memorial Dr)",
+  "storeNumber": "",
+  "startDate": "1980-09-15",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1980-09-15",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 3 3-Stages in Oklahoma to get Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-10-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.05857127",
+    "-95.88844638"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

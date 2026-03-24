@@ -1,0 +1,30 @@
+{
+  "title": "Waterbury, CT (983 Wolcott St)",
+  "storeNumber": "",
+  "startDate": "1982-04-00",
+  "endDate": "1984-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-04-00",
+      "e": "1984-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.56719462",
+    "-73.00999973"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "id_7qXnLMbzUrCdb_LrW.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Cincinnati, OH (9712 Colerain Ave)",
+  "storeNumber": "",
+  "startDate": "1982-07-00",
+  "endDate": "1983-10-04",
+  
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-07-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-07-00",
+      "e": "1983-10-04"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1982-07-00",
+      "e": "1983-10-04",
+      "l": "N/A",
+      "desc": "Unknown"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.24633332",
+    "-84.59723658"
+  ],
+  "citations": [
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-cinci-colerain-p/39076663/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-colerain-ptt-ope/187475244/",
+    "Source has currently been lost, was previously closing article.",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer/52398085/",
+    "https://www.newspapers.com/image/101612220/",
+    "https://www.newspapers.com/article/dayton-daily-news-former-colerain-ptt-de/187476458/"
+  ],
+  "contributors": [
+    "Cyber Snout"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "K0ql2KbQk252wzzPEtCL.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

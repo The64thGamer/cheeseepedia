@@ -1,0 +1,10 @@
+The ***Animation Programming System (APS) Hardware Setup* is a collection of devices used by Chuck E. Cheese's to program animatronic shows on the [Animation Programming System] software starting in 1990.
+APS and its hardware would be a direct upgrade to the [SongCode] programmer and its [Big C's Cyberamics Center], using many similar concepts and devices.**
+
+## Setup
+
+It is currently unclear what the original hardware is, though the keyboard shown looks to be an IBM Model M keyboard.
+
+### 2001 Setup
+
+(TODO: Examine and detail setup)

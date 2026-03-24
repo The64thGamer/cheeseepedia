@@ -1,0 +1,30 @@
+{
+  "title": "Tucson, AZ (5534 E 22nd St)",
+  "storeNumber": "",
+  "startDate": "1980-07-00",
+  "endDate": "1987-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1980-07-00",
+      "e": "1987-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.20467947",
+    "-110.8752883"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "74WCpQ9Xa7aMjjsGnDTU.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

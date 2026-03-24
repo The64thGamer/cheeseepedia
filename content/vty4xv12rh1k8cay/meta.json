@@ -1,0 +1,73 @@
+{
+  "title": "Chuck E. Cheese Spring Show 2003",
+  "startDate": "2003-04-00",
+  "endDate": "2003-06-00",
+  "pageThumbnailFile": "PggZPMxZi1PDdFK1wTjL.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Ceclife13",
+    "RedaCEC"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/April%202003%20Studio%20C-006.iso"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Show Announcer"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Hank Howdy"
+    }
+  ],
+  "mediaDuration": "1:07:10",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage SVHS (Post-93)",
+    "R12 SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/CECSpringShow2003ShowUpgrade.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/April%202003%20Studio%20C-006.iso",
+      "label": "Studio C DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

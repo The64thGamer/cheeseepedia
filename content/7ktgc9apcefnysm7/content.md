@@ -1,0 +1,1 @@
+The Ashland, Kentucky location

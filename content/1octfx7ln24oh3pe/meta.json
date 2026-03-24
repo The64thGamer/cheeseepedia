@@ -1,0 +1,141 @@
+{
+  "title": "Cincinnati, OH (11400 Princeton Pike)",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "startDate": "1982-05-19",
+  "endDate": "1984-00-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-05-19"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-05-19",
+      "e": "1984-00-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Electronic Theatre Resturants",
+      "s": "1982-05-19",
+      "e": "1984-00-00"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Cheese Crawl",
+      "s": "1982-05-19",
+      "e": "1984-00-00"
+    }
+  ],
+  "animatronics": [
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market, retrofitted as part of 'Nirobi Trio'"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market used for Luigi/Pedro"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market used for Luigi/Pedro"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market, retroffited into 'The Birdies'"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market, installed around Jungle Jim's until 2018"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market, retrofitted into Elvis"
+    },
+    {
+      "n": "Dolli Dimples (Cyberamic)",
+      "s": "1982-05-19",
+      "e": "1984-00-00",
+      "l": "N/A",
+      "desc": "Puchased by Jungle Jim's International Market, retrofitted into Dolly"
+    }
+  ],
+  "contributors": [
+    "Cyber Snout"
+  ],
+  "citations": [
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-casinelli-square/191099895/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-electronic-theat/191100005/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer/39074328/",
+    "https://www.newspapers.com/article/the-cincinnati-post-cincinattiflorence/133140895/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer/52799017/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-ptt-mcalpins-pr/191102045/",
+    "https://www.newspapers.com/article/the-cincinnati-post-cassinelli-square-op/122085058/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer/52616689/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer/53579781/",
+    "https://www.newspapers.com/article/the-cincinnati-post-cassinelli-square-pt/191104354/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-ptt-replacement/191105118/",
+    "https://www.newspapers.com/article/the-cincinnati-post-ptt-replacement-1140/191105129/",
+    "https://www.newspapers.com/image/101747573/",
+    "https://www.newspapers.com/image/765188870/",
+    "https://www.newspapers.com/article/the-cincinnati-enquirer-gutting-of-the-f/191105881/"
+  ],
+  "pageThumbnailFile": "NLtHZ1cp15I1YUQUPqr1.avif",
+  "latitudeLongitude": [
+    "39.28331642",
+    "-84.46849513"
+  ],
+  "sqft": "13,000"
+}

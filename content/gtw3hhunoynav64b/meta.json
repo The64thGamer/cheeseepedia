@@ -1,0 +1,41 @@
+{
+  "title": "Rancho Cucamonga, CA (9339 Foothill Blvd)",
+  "storeNumber": "",
+  "startDate": "1990-03-21",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Chuck E.'s House",
+      "s": "1990-03-21",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2019-00-00",
+      "desc": "One of many installed in California. Replaced by Dance Floor."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-00-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.10386352",
+    "-117.6024937"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "HwYJpIAhpIDnxwfONfG8.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Holiday 2004",
+  "startDate": "2004-11-26",
+  "endDate": "2004-12-31",
+  "pageThumbnailFile": "Tackma4NbxyctGVjKWVN.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "BurgersNuggs445",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://showbizpizza.com/info/documents/cec/cec_dept18-2004-12.pdf"
+  ],
+  "credits": [
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
+  ],
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "R12 SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

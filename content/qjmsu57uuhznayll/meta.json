@@ -1,0 +1,41 @@
+{
+  "title": "Catonsville, MD (5912 Baltimore National Pike)",
+  "storeNumber": "",
+  "startDate": "1992-02-25",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1992-02-25",
+      "e": "1995-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2024-05-00",
+      "desc": "Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-05-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.28648827",
+    "-76.73636868"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "f9P7NuEjSldXm9wJMn7J.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

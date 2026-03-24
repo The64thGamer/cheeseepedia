@@ -1,0 +1,38 @@
+{
+  "title": "Chuck E. Cheese Live",
+  "type": "Live Shows",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "startDate": "1987-05-09",
+  "endDate": "1990-12-00",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "CEC Tinley",
+    "Cy's Junk at School",
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch, Show Announcer"
+    },
+    {
+      "n": "Connie Nelson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    }
+  ],
+  "citations": [],
+  "mediaDuration": "11:26",
+  "pageThumbnailFile": "m343ZtjFK3uTm55jtFnG.avif",
+  "showtapeFormats": [
+    "Cyberamics Betamax",
+    "Cyberamics Reel",
+    "C&R SVHS (Pre-93)"
+  ]
+}

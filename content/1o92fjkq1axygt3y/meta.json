@@ -1,0 +1,71 @@
+{
+  "title": "Chuck E's Rockin' Rhymes",
+  "startDate": "2001-04-00",
+  "endDate": "2001-06-00",
+  "pageThumbnailFile": "hzwqBS_ykHsQIyUQG1hA.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "John95",
+    "Anastasia.laguardia",
+    "Cyber Snout",
+    "Ceclife13",
+    "CECMadison"
+  ],
+  "citations": [
+    "https://vimeo.com/33748276"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper, Mike Manly, Betty, Show Announcer"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    }
+  ],
+  "mediaDuration": "59:38",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "R12 SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/April2001Upgrade.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/April%202001%20Studio%20C-005.iso",
+      "label": "Studio C DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

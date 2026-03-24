@@ -1,0 +1,30 @@
+{
+  "title": "Tampa, FL (2363 E Fowler Ave)",
+  "storeNumber": "",
+  "startDate": "1981-05-05",
+  "endDate": "1983-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-05-05",
+      "e": "1983-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "28.0544127",
+    "-82.4332177"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

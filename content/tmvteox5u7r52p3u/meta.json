@@ -1,0 +1,30 @@
+{
+  "title": "Towson, MD (809 Goucher Blvd)",
+  "storeNumber": "",
+  "startDate": "1993-08-00",
+  "endDate": "2007-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-08-00",
+      "e": "2007-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.39473082",
+    "-76.58592048"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "T6ujyR0ZqGIhusK5_UOQ.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

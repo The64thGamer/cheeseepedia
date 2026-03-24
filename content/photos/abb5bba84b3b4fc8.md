@@ -1,9 +1,0 @@
-+++
-title = "abb5bba84b3b4fc8.avif"
-draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["1997 CEC Hot Wheels Street Roader"]
-startDate = "1997-00-00"
-citations = []
-+++

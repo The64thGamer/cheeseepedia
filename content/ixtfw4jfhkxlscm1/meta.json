@@ -1,0 +1,57 @@
+{
+  "title": "Glendale, AZ (6773 West Bell Rd)",
+  "storeNumber": "",
+  "startDate": "2005-06-29",
+  "endDate": "2020-05-00",
+  
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2005-06-29"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2005-06-29",
+      "e": "2020-05-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Melvin Entertainment",
+      "s": "2005-06-29",
+      "e": "2020-05-00"
+    }
+  ],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.63454737",
+    "-112.2063011"
+  ],
+  "citations": [],
+  "contributors": [
+    "KawaiiZenbo"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "gVansnh57Md0oyXzlwcp.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "2005-06-29",
+      "e": "2020-05-00",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "2005-06-29",
+      "e": "2020-05-00",
+      "desc": "Unknown/Destroyed."
+    }
+  ]
+}

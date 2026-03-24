@@ -1,0 +1,41 @@
+{
+  "title": "Marietta, GA (4340 Roswell Rd)",
+  "storeNumber": "",
+  "startDate": "1981-12-16",
+  "endDate": "2015-04-05",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-12-16",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 6 3-Stages in Georgia to receive Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "2015-04-05"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.98288432",
+    "-84.42666693"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "lg3TeoSsQa_QujhYw_C8.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

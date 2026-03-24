@@ -1,0 +1,46 @@
+{
+  "title": "Atlanta, GA (2990 Cumberland Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-08-26",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-08-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "1999-00-00",
+      "desc": "One of 6 3-Stages in Georgia to undergo Concept Unification. One of 6 3-Stages in Georgia. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-03-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.87916807",
+    "-84.47560953"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "g3nwOC8Rq5zzptpc0JG7.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

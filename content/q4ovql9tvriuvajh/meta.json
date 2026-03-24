@@ -1,0 +1,30 @@
+{
+  "title": "CEC Dance Showtape",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "startDate": "1988-09-00",
+  "endDate": "1988-11-00",
+  "contributors": [
+    "sudo trans --pony",
+    "DerekCat",
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Connie Nelson",
+      "role": "Voice of Helen Henny"
+    }
+  ],
+  "citations": [],
+  "pageThumbnailFile": "Cec_dance_showtape.avif"
+}

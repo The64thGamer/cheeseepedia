@@ -1,9 +1,0 @@
-+++
-title = "3be0cbd2a2c9aac5.avif"
-draft = false
-tags = ["Photos"]
-categories = ["Chuck E. Cheese's"]
-pages = ["2008 Baseball Chuck"]
-startDate = "2008-00-00"
-citations = []
-+++

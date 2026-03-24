@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"       content="width=device-width, initial-scale=1.0">
+    <meta name="description"    content="Antelecom - Connecting Made Easy">
+    <meta name="keywords"       content="antelecom, internet, lancaster, antelopevalley">
+    <meta name="author"         content="Coderspoint">
+
+    <!-- Site title -->
+    <title>Antelecom - Connecting Made Easy</title>
+
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+
+    <!-- Bootstrap css -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <!--Font Awesome css -->
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Animate css -->
+    <link href="assets/css/animate.min.css" rel="stylesheet">
+
+    <!-- imagehover css -->
+    <link href="assets/css/imagehover.min.css" rel="stylesheet">
+
+    <!-- Normalizer css -->
+    <link href="assets/css/normalize.css" rel="stylesheet">
+
+    <!-- Owl Carousel css -->
+    <link href="assets/css/owl.carousel.min.css" rel="stylesheet">
+    <link href="assets/css/owl.transitions.css" rel="stylesheet">
+
+    <!-- Magnific popup css -->
+    <link href="assets/css/magnific-popup.css" rel="stylesheet">
+
+    <!-- Site css -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- Responsive css -->
+    <link href="assets/css/responsive.css" rel="stylesheet">
+
+
+
+
+    <!-- <link rel="stylesheet" href="assets/css/skin/orange.css" /> -->
+    <!-- <link rel="stylesheet" href="assets/css/skin/green.css" /> -->
+    <!-- <link rel="stylesheet" href="assets/css/skin/yellow.css" /> -->
+    <!-- <link rel="stylesheet" href="assets/css/skin/wood.css" /> -->
+    <!-- <link rel="stylesheet" href="assets/css/skin/asbestos.css" /> -->
+    <!-- <link rel="stylesheet" href="assets/css/skin/alizarin.css" /> -->
+<link rel="stylesheet" href="assets/css/skin/magenta.css"> 
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+</head>
+
+<body>
+
+    <!-- Preloader starts-->
+    <div id="preloader"></div>
+    <!-- Preloader ends -->
+
+
+    <!-- Navigation area starts -->
+    <div class="menu-area navbar-fixed-top">
+        <div class="container">
+            <div class="row">
+
+
+                <!-- Navigation starts -->
+                <div class="col-md-12">
+                    <div class="mainmenu">
+                        <div class="navbar navbar-nobg">
+                            <div class="navbar-header">
+                                <img src="assets/img/logo/navlogo.png" />
+                                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+                            </div>
+
+
+                            <div class="navbar-collapse collapse">
+                                <nav>
+                                    <ul class="nav navbar-nav navbar-right">
+                                        <li class="active"><a class="smooth_scroll" href="#slider">Home</a></li>
+                                        <li><a class="smooth_scroll" href="#contact">Contact Us</a></li>
+                                        <li><a class="smooth_scroll" href="#"></a></li>
+                                        <li><a href="https://smtp.antelecom.net/surgeweb" target="_blank">Email</a></li>
+                                        <li><a class="btn" href="https://secure.antelecom.net/cgi-bin/show_login" target="_blank">Account Portal</a></li>
+                                        <br>
+                                    </ul>
+
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Navigation ends -->
+
+            </div>
+        </div>
+    </div>
+    <!-- Navigation area ends -->
+
+
+
+    <!-- Slider area starts -->
+    <section id="slider">
+        <div id="carousel-example-generic" class="carousel slide carousel-fade">
+
+            <div class="carousel-inner" role="listbox">
+
+                <!-- Item 1 -->
+                <div class="item active slide1">
+                    <div class="table">
+                        <div class="table-cell">
+                            <div class="intro-text">
+                                <img src="assets/img/logo/02.png" alt="" >
+                                <br>
+                                <br>
+                                <h1 data-animation="animated fadeInDown">Connecting Made Easy</h1>
+                                <h4 data-animation="animated fadeInDown"><font color="white">Serving the Antelope Valley and Surrounding Areas </font></h4>
+                                <br>
+                                <a href="#about" class="btn btn-trnsp" data-animation="animated fadeInDown">Learn More</a>
+
+                            </div>
+                        </div>
+                    </div>
+                 </div>
+            <!-- End Wrapper for slides-->
+
+
+        </div>
+    </section>
+    <!-- Slider area ends -->
+
+
+
+
+    <!-- Service area starts -->
+    <section id="service" class="service-area section-big">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="section-title">
+                        <h2>High speed internet for <br>your home and business</h2>
+                        <p>Service built by the engineers, not the sales team. Each of our services are designed and delivered on Quality of Service and backed by the quality of our Customer Service.</p>
+                    </div>
+                </div>
+            </div>
+
+        <div class="row">
+
+               <!-- Services Item 1 Begin -->
+                <div class="col-md-4 col-sm-6 text-center">                 
+                    <div class="col-md-12 services-item">
+                        <div class="services-bg-icon"><i class="fa fa-money"></i></div>
+                        <span class="services-icon">
+                            <i class="fa fa-money"></i>
+                        </span>
+                        <h3>Affordable Prices</h3>
+                        <p>From residential homes to commercial businesses, we have multiple pricing options to fit your needs. 
+                        </p>
+                    </div>
+                </div>
+                <!-- Services Item 1 End -->
+                
+                <!-- Services Item 2 Begin -->
+                <div class="col-md-4 col-sm-6 text-center">
+                    <div class="col-md-12 services-item">
+                        <div class="services-bg-icon"><i class="fa fa-handshake-o"></i></div>
+                        <span class="services-icon">
+                            <i class="fa fa-handshake-o"></i>
+                        </span>
+                        <h3>Reliable Service</h3>
+                        <p>Fast and consistent service, whether you are streaming shows, working from home or running a business. You can count on us. 
+                        </p>
+                    </div>
+                </div>
+                <!-- Services Item 2 End -->
+                
+                <!-- Services Item 3 Begin -->
+                <div class="col-md-4 col-sm-6 text-center">
+                    <div class="col-md-12 services-item">
+                        <div class="services-bg-icon"><i class="fa fa-group"></i></div>
+                        <span class="services-icon">
+                            <i class="fa fa-group"></i>
+                        </span>
+                        <h3>Quality Support</h3>
+                        <p>Getting help doesn't have to be painful. we're just a call or email away. Our local teams are here to support you. </p>
+                    </div>
+                </div>
+                <!-- Services Item 3 End -->
+
+        </div>
+
+
+
+        </div>
+    </section>
+    <!-- Service area ends -->
+
+
+
+
+    <!-- Action starts -->
+    <section id="action" class="action-area section-small">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 text-center">
+            <h2>Get started by scheduling an appointment <strong>TODAY!</strong></h2>
+          </div>
+          <div class="col-md-2 text-center" align="left"><a href="#contact" class="btn">CONTACT US</a></div>
+        </div>
+      </div>
+    </section>
+    <!-- Action area ends -->
+
+
+
+
+    <!-- About area starts -->
+    <section id="about" class="about-area section-big">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="section-title">
+                        <h2>About Us</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+
+                <!-- About Image -->
+                <div class="col-md-6 about-img text-center">
+                    <img src="assets/img/about/about.png" alt="" >
+                </div>
+
+                <!-- About Text -->
+                <div class="col-md-6">
+                    <div class="about-text">
+                        <h3>Your Local Internet Service Provider</h3>
+                        <p>Antelecom has been a staple in the Antelope Valley community for over 20 years! When we started, we took pride  in providing service to rural communities where other providers wouldn’t. Throughout the years we've continued to expand our network to provide fast, reliable and quality service for our customers. </p>
+                        <p>Whether it’s business or pleasure you will find the benefits of our high speed internet access to be indispensable. Our offerings are tailored to the needs of our customers. We deliver on our products, customer service and experience. </p>
+                        <p>We want to help you take your connection to the next level, so contact us today to get started.</p>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <!-- About area ends -->
+
+
+    <!-- Subscribe area starts -->
+    <div id="subscribe" class="subscribe-area section-big">
+        <div class="container">
+            <div class="subscribe-box">
+                <h2>Stay up to date</h2>
+                <p><strong>Follow us </strong> on social media to get the latest information on what we are working on.</p>
+
+                <a href="https://www.facebook.com/antelecominternet" class="btn" target="_blank"><i class="fa fa-facebook"> </a></i>
+                <a href="https://www.instagram.com/antelecominternet" class="btn" target="_blank"><i class="fa fa-instagram"></a></i>
+            </div>
+        </div>
+    </div>
+    <!-- Subscribe area ends -->
+
+
+
+
+
+
+    <!-- Contact area starts -->
+    <section id="contact" class="contact-area section-big">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="section-title">
+                        <h2>Contact Us</h2>
+                        <p class="contact-info"> <b>Want to know more?</b> We're here to answer your questions. Call or send us a message and one of our sales team members will be in touch as soon as possible.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-4">
+                </div>
+
+                <div class="col-md-4">
+                    <img src="assets/img/contact/office.png" alt="" width="450px" height="auto">
+
+                    <br>
+                    <br>
+                    <div class="address-box clearfix">
+                        <i class="fa fa-map-marker"></i>
+                        <p>44931 10th St. West Lancaster, CA 93534</p>
+                    </div>
+                    <div class="address-box clearfix">
+                        <i class="fa fa-phone"></i>
+                        <p><a href="tel:6617263516">661-726-3516</a></p>
+                    </div>
+                    <div class="address-box clearfix">
+                        <i class="fa fa-envelope"></i>
+                        <p><a href="mailto:sales@antelecom.net">sales@antelecom.net</a></p> 
+                    </div>
+                      <div class="address-box clearfix">
+                        <i class="fa fa-globe"></i>
+                        <p><a href="http://www.antelecom.net" target="_blank">www.antelecom.net</a></p>
+                    </div>
+
+
+                </div>
+
+               <div class="col-md-4">
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+    <!-- Contact area ends -->
+
+
+
+    <!-- Google Map starts-->
+    <div class="mapouter"><div class="gmap_canvas"><iframe width="100%" height="264" id="gmap_canvas" src="https://maps.google.com/maps?q=44931%2010th%20St.%20West%20Lancaster,%20CA%2093534-231&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://fmovies-online.net"></a><br><style>.mapouter{position:relative;text-align:right;height:264px;width:100%;}</style><a href="https://www.embedgooglemap.net">embedgooglemap.net</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:264px;width:100%;}</style></div></div>
+    <!-- Google Map ends -->
+
+
+
+
+    <!-- Footer area starts -->
+    <footer class="footer-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-4">
+                    <img src="assets/img/logo/footerlogo.png" alt="">
+                    <p>44931 10th St. West <br>Lancaster, CA 93534-2313</p>
+                    <a href="tel:6617263516">661-726-3516</a><br>
+                    <a href="mailto:sales@antelecom.net">sales@antelecom.net</a>
+                    <br>
+                </div>
+                
+                <div class="col-md-4 col-sm-4">
+                </div>
+
+                <div class="col-md-4 col-sm-4">
+                    <p><h4>CONNECT WITH US</h4></p>
+                    <ul class="social-links">
+                        <li><a href="https://www.facebook.com/antelecominternet" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.instagram.com/antelecominternet" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                    
+                </div>
+            </div>
+
+            <br>
+
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <p><a href="#news-modal-1" data-toggle="modal">ACCEPTABLE USE</a> | <a href="#news-modal-2" data-toggle="modal">EMAIL</a> | <a href="#news-modal-3" data-toggle="modal">WEBSERVER</a> | <a href="#news-modal-4" data-toggle="modal">NET NEUTRALITY</a> | <a href="#news-modal-5" data-toggle="modal">COPYRIGHT INFRINGEMENT</a></p>
+                    <a class="btn" href="#news-modal-6" data-toggle="modal">Help & FAQ</a>
+                    <br>
+                </div>
+                <br>
+                 <div class="col-md-12 text-center">
+                    <br>
+                    <p>&copy; 2022 Antelecom, Inc. All rights reserved.</p>
+                </div>
+            </div>
+
+            </div>
+        </div>
+    </footer>
+<!-- Footer area ends -->
+
+
+
+<!-- News 1 Modals - Acceptable Use Policy -->
+            <div class="news-modal modal fade" id="news-modal-1" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-content">
+                    <div class="close-modal" data-dismiss="modal">
+                        <div class="lr">
+                            <div class="rl">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8 col-lg-offset-2">
+                                <div class="modal-body">
+
+                                    <h2>Acceptable Use Policy</h2>
+
+                                    <p>Antelecom, Inc. , requires all those using its network to comply with this Acceptable Use Policy ("Policy"). Your use of Antelecom.net's network by originating electronic data or signals which contact or are transported by Antelecom.net's network or equipment manifests your agreement to be bound by all of the terms and conditions of this Policy. Your use of our network may be terminated or restricted if in the sole discretion of Antelecom.Net, you violate either the letter or the spirit of this policy, or for any other reason that Antelecom.net, in its sole discretion, deems appropriate cause for termination or restriction. Restriction includes reduction of speeds or protocols if it determined that the user activity interferes with our network or our ability to provide quality service to other users. </p>
+
+                                    <p>Users of our network agree to obey the laws, regulations and ordinances of the United States of America, the State of California and of those political subdivisions from where you use Antelecom.net's services. Those persons or entities using our network shall not knowingly, recklessly or negligently transmit or cause to be transmitted, over or through our network or over or through the Internet, electronic data or signals of any sort including but not limited to, text, graphics, video or sound which maybe perceived as either threatening, malicious, obscene, libelous or which violate trade-secret, patent or copyright and/or trademark protections.</p>
+
+                                    <p>Antelecom.net users should comply with the rules and regulations of all other networks and/or carriers over which, or thought which the user's electronic data or signal is transported. The user should comply with all reasonable policies, rules and regulations, if any, that are imposed by any network accessible through the Internet.</p>
+
+                                    <p>In the event that litigation or the threat of litigation ensues against Antelecom.net, or any of its employees, agents or assigns, which is related to the user's activity on the Internet or Antelecom.net's services, the user agrees that it will hold Antelecom.net, its employees agents and assigns harmless and be liable to Antelecom.net for the full costs of its defense including, but not limited, to Antelecom.net's reasonable attorney fees.</p>
+
+                                    <p>Failure to adhere to the this Policy may be cause for Antelecom.net to immediately and permanently and without notice terminate a user's account, and/or block such user from accessing or contacting any of Antelecom.net's systems or equipment. If a user's account is terminated, Antelecom.net will have no obligation to that user, or any other party, with regard to any data stored on Antelecom.net's network including but limited to, email or web site content which was accessable to the user. In addition, legal action may be initiated by Antelecom.net against the offending user.</p>
+
+                                    <p>Antelecom.net reserves the right to enforce this Policy as it sees fit in its sole discretion. However, Antelecom.net is under no obligation whatsoever to any user or third party to enforce this policy. You agree that in the event that Antelecom.net terminates your account that Antelecom.net is under no obligation to return any funds you may have on account with Antelecom.net, and that such amount on account, if any, may be used to offset the costs of resources consumed by Antelecom.net relating to your violation of this policy or the termination of your account or the restriction of your access. You also agree that should Antelecom.net be required to litigate against you that personal jurisdiction will be proper in any court of competent jurisdiction residing in Los Angeles, Riverside, or San Diego County, California and that venue is likewise proper in such courts. Your use of Antelecom.net's network, directly or indirectly, for any purpose manifests your agreement to be bound by this policy and its terms and conditions.</p>
+                                    <br>
+                                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    <!-- End of News 1 Modals - Acceptable Use Policy -->
+
+
+     <!-- News 2 Modals - Email Use Policy-->
+            <div class="news-modal modal fade" id="news-modal-2" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-content">
+                    <div class="close-modal" data-dismiss="modal">
+                        <div class="lr">
+                            <div class="rl">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8 col-lg-offset-2">
+                                <div class="modal-body">
+
+                                    <h2>Email Use Policy</h2>
+
+                                    <p>Antelecom.net, an electronic mail service provider strictly prohibits the use of its domain name (ANTELECOM.NET), service and/or equipment for the delivery of unsolicited electronic mail advertisements to its registered users and further prohibits the use of its domain name (ANTELECOM.NET), services and/or equipment to facilitate the delivery of unsolicited electronic mail advertisements to any other electronic mail user.</p>
+
+                                    <p>Unsolicited electronic mail advertisements are defined as: Any electronic mail message which is addressed to a recipient with who the initiator of the electronic mail does not have an existing business or personal relationship and which is not sent at the request of or with the express consent of the recipient. This definition includes, but is not limited to, any mail message for which the initiator does not have a basis to believe that the email address is a valid registered electronic mail address. Violation of this policy will be cause to terminate service to the email initiator and all may result in legal action.</p>
+
+                                    <p>If you feel your mail was unfairly rejected please contact support. They will provide you with an email address to send your mail to for review. If we find that the mail was indeed unfairly rejected we will adjust the filters accordingly.</p>
+
+                                    <p>If you wish to check your Email please log in to <a href="">SurgeWeb</a> or /<a href="https://smtp.antelecom.net">WebMail</a></p>
+                                    <br>
+                                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    <!-- End of News 2 Modals - Email Use Policy-->
+
+
+
+    <!-- News 3 Modals - WebServer Policies -->
+            <div class="news-modal modal fade" id="news-modal-3" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-content">
+                    <div class="close-modal" data-dismiss="modal">
+                        <div class="lr">
+                            <div class="rl">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8 col-lg-offset-2">
+                                <div class="modal-body">
+
+                                    <h2>WebServer Use Policy</h2>
+
+                                    <p>"User Home Pages" or "Hosted WebSites" can be as unique as you are. Have fun, and feel free to include whatever you want others to see, as long as it's in good taste. The more your Web pages reflect your business, interests and who you are, the more likely it is that others will enjoy looking at them and sharing them with others.</p>
+
+                                    <p>Remember that millions of people all over the world will be able to see the information you make available. Make sure that you don't include anything that you don't want others to see. Be aware that the following are strictly forbidden:</p>
+
+                                    <p>- Obscene or Sexually Explicit Language and Images: This includes explicit descriptions or depictions of sexual acts.</p>
+                                    <p>-  Grossly Repugnant Material: This refers to material ti>hat is grossly repugnant to Web community standards, including blatant expressions of bigotry, racism or hate.</p>
+                                    <p>- Copyright Infringement: Any text, images or sounds you post must be your own or in the public domain, or you must have the permission of the copyright holder.</p>
+                                    <p>- Illegal Material/Threats: Material that is illegal or fraudulent, threats of personal harm to property damage, or incitement to violence, are not permitted.</p>
+
+                                     <p>Should we become aware of such material in a Hosted Web Page, we may refer the matter to law enforcement authorities.</p>
+                                     <br>
+                                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    <!-- End of News 3 Modals - WebServer Policies -->
+
+
+    <!-- News 4 Modals - Net Discolosure -->
+            <div class="news-modal modal fade" id="news-modal-4" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-content">
+                    <div class="close-modal" data-dismiss="modal">
+                        <div class="lr">
+                            <div class="rl">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8 col-lg-offset-2">
+                                <div class="modal-body">
+
+                                    <h2>Antelecom.Net Broadband Disclosure</h2>
+
+                                    <p>Antelecom.net strives to provide consumers with accessible, easy-to-understand information about the services we provide. Additionally, the Federal Communications Commission ("FCC") requires that We and other providers of broadband Internet access services disclose certain information regarding those Internet services. The information required for disclosure under the FCC's rules are found below.</p>
+
+                                    <h3>Network Practices</h3>
+                                    <p>Antelecom.net does not discriminate against lawful Internet content, applications, services, or non-harmful devices.</p>
+
+                                    <h3>Throttling</h3>
+                                    <p>Antelecom.net does not degrade or impair access to lawful Internet traffic on the basis of content, application, service, user, or use of a non-harmful device. We do engage in reasonable network management practices.</p>
+
+                                    <h3>Prioritization</h3>
+                                    <p>Antelecom.net does not directly or indirectly favor any traffic through the use of techniques such as traffic shaping, prioritization, or resource reservation.</p>
+
+                                    <h3>Network Management</h3>
+                                    <p>Antelecom.net manages its network to deliver the best possible broadband Internet access service to all of its customers. To further this effort, Antelecom.net uses reasonable network management practices that are consistent with industry standards.</p>
+
+                                    <h3>Device Attachment</h3>
+                                    <p>Antelecom.net has no restrictions on devices that have both UL and FCC certification.</p>
+
+                                    <h3>Application-Specific Behavior</h3>
+                                    <p>Antelecom.net provides its broadband Internet access service customers with full access to all the lawful content, services, and applications that the Internet has to offer. We do not block or rate-control specific protocols or protocol ports except to prevent spam, malicious attacks, and identity theft.</p>
+
+                                    <h3>Security</h3>
+                                    <p>Antelecom.net employs a number of practices to help prevent unwanted communications, such as spam, and to protect the security of our customers and network. We limit the number of Login, SMTP, and DNS transactions per second in order to protect them from Denial of Service (DoS) attacks.</p>
+
+                                    <h3>Service Description</h3>
+                                    <p>Antelecom.net provides Wireless Internet Services using both digital QAM and Internet Protocol ("IP") technologies.</p>
+
+                                    <h3>Commercial Terms</h3>
+                                    <p>Antelecom.net's Internet access services may be subject to promotional rates. Additional fees, such as for installation, and early termination, may apply. Standard services begin at $53.95/month.</p>
+
+                                    <h3>Data Usage</h3>
+                                    <p>Antelecom.net provides an unlimitted service, without data caps, on a Best Effort basis.</p>
+
+                                    <h3>Privacy Policies</h3>
+                                    <p>Antelecom.net does not sell customer information of any kind.</p>
+
+                                    <h3>Redress</h3>
+                                    <p>For questions or resolving of complaints please see "Contact US" from the main page.</p>
+                                    <br>
+                                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+
+    <!-- End of News 4 Modals - Net Discolosure -->
+
+
+    <!-- News 5  Modals - COPYRIGHT -->
+            <div class="news-modal modal fade" id="news-modal-5" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-content">
+                    <div class="close-modal" data-dismiss="modal">
+                        <div class="lr">
+                            <div class="rl">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8 col-lg-offset-2">
+                                <div class="modal-body">
+
+                                    <h2>Copyright Infringment Policy</h2>
+
+                                    <p>Under the DMCA, copyright owners have the right to notify Antelecom’s register agent if they believe that an Antelecom customer has infringed on their work(s). When Antelecom receives a complaint notice from a copyright owner, Antelecom will notify the identifiable customer of the alleged infringement by providing them a copy of the submitted DMCA notice. As required by law, Antelecom may determine that the customer is a repeat copyright infringer and reserves the right to suspend or terminate the accounts of repeat copyright infringers.</p>
+
+                                    <p>It is possible that the activity can occur without a customers permission or knowledge by an unauthorized user, a minor who may not fully understand the copyright laws, or even as a result of a computer virus. However, as a named subscriber on your Antelecom account, you may be held responsible for any misuse of your account. Please be aware that using Antelecom’s service to engage in any form of copyright infringement is expressly prohibited by Antelecom's Acceptable Use Policy and that repeat copyright infringement, or violations of any other Antelecom policy, may result in the suspension or termination of your service.</p>
+                                    <p>You may view Antelecom’s Acceptable Use Policy, under the Acceptable Use section of our website at www.antelecom.net.</p>
+                                    <br>
+                                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    <!-- End of News 5 Modals - COPYRIGHT Policies -->
+
+
+
+        <!-- News 6  Modals - HELP & FAQ -->
+            <div class="news-modal modal fade" id="news-modal-6" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="modal-content">
+                    <div class="close-modal" data-dismiss="modal">
+                        <div class="lr">
+                            <div class="rl">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-lg-8 col-lg-offset-2">
+                                <div class="modal-body">
+
+                                    <h2>Help & FAQ</h2>
+
+                                    <p>We strives to provide the best possible customer service, so we've gathered answers to some of our most frequently asked questions (FAQ) to help you get answers and keep moving. We've also included quicklinks to  our portal for tickets, email and domain management.</p>
+                                    <br>
+
+                                    <a class="btn" href="https://secure.antelecom.net/cgi-bin/show_login" target="_blank">Open Trouble Ticket</a>
+                                    <a class="btn" href="https://smtp.antelecom.net/surgeweb" target="_blank">Manage Email </a>
+                                    <a class="btn" href="https://manage.opensrs.net/index" target="_blank">Manage Domain</a>
+                                    <br>
+                                    <br>
+                              
+
+
+                    <div class="col-md-12 accordion">
+
+                    <!-- accordion starts -->
+
+                    <div class="panel-group" id="accordion" role="tablist">
+
+                        <div class="panel clearfix">
+                            <div class="panel-heading" role="tab">
+                                <a href="#accordion01" class="collapsed" data-toggle="collapse" data-parent="#accordion" aria-expanded="false" class="">
+                                    <i class="fa fa-minus"></i>
+                                    <h4 class="panel-title">How do we get started?</h4>
+                                </a>
+                            </div>
+                            <div id="accordion01" class="panel-collapse collapse" role="tabpanel" aria-expanded="false">
+                                <div class="panel-body">
+                                    <ol type="1">
+                                    <li>Contact us via the contact us form or send an email to <b>sales@antelecom.net.</b> Don't forget to check your details. If you make a mistake we might not be able to contact you!</li>
+                                    <li> Once we've answered your initial questions. Our sales engineers will confirm service availability and arrange a site survey if necessary.</li>
+                                    <li>Once you're ready our technician will get you connected.</li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel clearfix">
+                            <div class="panel-heading" role="tab">
+                                <a href="#accordion02" class="collapsed" data-toggle="collapse" data-parent="#accordion" aria-expanded="false">
+                                    <i class="fa fa-minus"></i>
+                                    <h4 class="panel-title">Do you have a referral program?</h4>
+                                </a>
+                            </div>
+                            <div id="accordion02" class="panel-collapse collapse" role="tabpanel" aria-expanded="false" style="height: 0px;">
+                                <div class="panel-body">
+                                    Yes, we have a referral program where both you and the new customer you referred receives a $50 credit. Please be sure they mention your name at the time of inquiry or installation.
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel clearfix">
+                            <div class="panel-heading" role="tab">
+                                <a href="#accordion03" class="collapsed" data-toggle="collapse" data-parent="#accordion" aria-expanded="false">
+                                    <i class="fa fa-minus"></i>
+                                    <h4 class="panel-title">Which routers will work with your service?</h4>
+                                </a>
+                            </div>
+                            <div id="accordion03" class="panel-collapse collapse" role="tabpanel" aria-expanded="false" style="height: 0px;">
+                                <div class="panel-body">
+                                    Any current consumer-grade router is compatible with our service. It is recommended that you purchase a mid-range router as this will give you a good price/performance ratio. Below are a few models that we have found to work well:
+                                    <p>
+                                    <ul style="list-style-type:circle;">
+                                        <li>Netgear Nighthawk RAX 43</li>
+                                        <li>Netgear Nighthawk RAX 50</li>
+                                        <li>TP Link Archer AX 50</li>
+                                        <li>TP Link Archer AX 73</li>
+                                    </ul>
+                                    </p>
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="panel clearfix">
+                            <div class="panel-heading" role="tab">
+                                <a href="#accordion04" class="collapsed" data-toggle="collapse" data-parent="#accordion" aria-expanded="false">
+                                    <i class="fa fa-minus"></i>
+                                    <h4 class="panel-title">I am unable to send or receive email.</h4>
+                                </a>
+                            </div>
+                            <div id="accordion04" class="panel-collapse collapse" role="tabpanel" aria-expanded="false" style="height: 0px;">
+                                <div class="panel-body">
+                                    The most common reason is that there is no internet access, or the settings are incorrect.  The first step is to check and see if you can bring up other internet content.  If you can, it may be best to give us a call so that we can help you check your settings.  Other causes could be: A full mailbox, black list rejection, or another issue that will need to be diagnosed.
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- / accordion ends-->
+
+                                    <br>
+                                    <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    <!-- End of News 5 Modals - HELP & FAQs -->
+
+
+
+
+
+
+
+    <!-- Latest jQuery -->
+    <script src="assets/js/jquery.min.js"></script>
+
+    <!-- Bootstrap js-->
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Owl Carousel js -->
+    <script src="assets/js/owl.carousel.min.js"></script>
+
+    <!-- Mixitup js -->
+    <script src="assets/js/jquery.mixitup.js"></script>
+
+    <!-- Magnific popup js -->
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+
+    <!-- Waypoint js -->
+    <script src="assets/js/jquery.waypoints.min.js"></script>
+
+    <!-- Ajax Mailchimp js -->
+    <script src="assets/js/jquery.ajaxchimp.min.js"></script>
+
+    <!-- GOOGLE MAP JS -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB0YyDTa0qqOjIerob2VTIwo_XVMhrruxo"></script>
+
+
+    <!-- Main js-->
+    <script src="assets/js/main_script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,44 @@
+{
+  "title": "Omaha, NE (225 N 76th St)",
+  "storeNumber": "",
+  "startDate": "1982-06-23",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-06-23",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2022-04-00",
+      "desc": "One of 2 3-Stages in Nebraska to receive Concept Unification. Last 3-Stage in Nebraska from June 2020 until removal in April 2022. Was in Very Poor Condition, Chuck had rare 'Cool Chuck' outfit, and Stage lacked Munch's Make Believe Band sign."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.26025092",
+    "-96.03187943"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "j_VdXwhN5AWtfA9UU6Dd.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

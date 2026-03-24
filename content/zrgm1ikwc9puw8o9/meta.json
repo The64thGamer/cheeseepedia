@@ -1,0 +1,30 @@
+{
+  "title": "San Jose / Cupertino, CA (975 S De Anza Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-00-00",
+  "endDate": "1983-05-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-00-00",
+      "e": "1983-05-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.30953562",
+    "-122.0351313"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

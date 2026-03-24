@@ -1,0 +1,2 @@
+The ***Prototype Chuck Walkaround* was a walkaround costume that would first appear at the [San Jose, CA (1371 Kooser Rd)] location alongside the [Jasper T Jowls Early Walkaround] and Munch Early Walkaround.
+This costume was used at the location from 1978-1981 before being phased out by the standard 1981 costume. The costume is most famous for being in plenty of PTT promotional material throughout the late 70s early 80s. it was most used in grand opening advertisements, postcards, and sports events.**

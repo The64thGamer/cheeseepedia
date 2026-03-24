@@ -1,0 +1,58 @@
+{
+  "title": "Chuck E. Cheese's 20th Anniversary",
+  "startDate": "1997-04-01",
+  "endDate": "1997-08-04",
+  "pageThumbnailFile": "4H0_dN3Xt9jzrIjywaZx.avif",
+  "contributors": [
+    "StudioC",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://www.youtube.com/watch?v=wAW1HVEZxRk"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Programmer, Voice of Chuck E. Cheese, Mr. Munch, Fly"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Steve White",
+      "role": "Scriptwriter, Songwriter"
+    },
+    {
+      "n": "Brave Combo"
+    },
+    {
+      "n": "Stokes Group",
+      "role": "Video Editing"
+    }
+  ],
+  "mediaDuration": "46:28",
+  "showtapeFormats": [
+    "3-Stage SVHS (Post-93)",
+    "R12 SVHS (Post-93)",
+    "C&R SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/April%201997%203-stage-009.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

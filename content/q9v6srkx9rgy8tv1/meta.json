@@ -1,0 +1,31 @@
+{
+  "title": "Old MacDonald",
+  "startDate": "2005-09-00",
+  "endDate": "2013-12-31",
+  "pageThumbnailFile": "cecoldmac2005.avif",
+  "contributors": [
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
+  ],
+  "type": "Live Shows",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

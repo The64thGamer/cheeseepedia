@@ -1,0 +1,40 @@
+{
+  "title": "Houston, TX (7735 W Bellfort Ave)",
+  "storeNumber": "",
+  "startDate": "1982-06-01",
+  "endDate": "1993-09-00",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-06-01",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "1993-00-00",
+      "desc": "One of 17 3-Stages in Texas to get Concept Unification."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "29.65456042",
+    "-95.51402688"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

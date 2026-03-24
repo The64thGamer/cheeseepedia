@@ -1,0 +1,29 @@
+{
+  "title": "Whac-A-Munch",
+  "type": "Arcades and Attractions",
+  "tags": [
+    "Chuck E. Cheese's",
+    "Pizza Time Theatre"
+  ],
+  "startDate": "1980-00-00",
+  "endDate": "0000-00-00",
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "citations": [
+    "https://youtu.be/N58SxO-pPnw",
+    "https://web.archive.org/web/20150705140821/http://www.atari.io/chuck-e-cheese-skee-ball-gene-landrum/",
+    "https://youtu.be/EYYyhySXQ48"
+  ],
+  "pageThumbnailFile": "efrjnxxfjn98o0fg.avif",
+  "credits": [
+    {
+      "n": "Manufacturer",
+      "role": "Bob's Space Racers, Inc."
+    },
+    {
+      "n": "Unknown Role",
+      "role": "Pete's Woodworking Inc."
+    }
+  ]
+}

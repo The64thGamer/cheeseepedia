@@ -1,0 +1,30 @@
+{
+  "title": "Midwest City, OK (6620 E Reno Ave)",
+  "storeNumber": "",
+  "startDate": "1982-06-02",
+  "endDate": "1986-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-06-02",
+      "e": "1986-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "35.4639906",
+    "-97.4109067"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

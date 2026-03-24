@@ -1,0 +1,40 @@
+{
+  "title": "Parkersburg, WV (3500 Murdoch Ave)",
+  "storeNumber": "",
+  "startDate": "1983-00-00",
+  "endDate": "1998-00-00",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-03-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-03-00",
+      "e": "1998-00-00",
+      "desc": "Only 3-Stage in West Virginia to undergo Concept Unification. Animatronics went to storage at Barboursville, WV (5 Cracker Barrel Dr) in Barboursville, WV for spare parts sometime after the CEC store closure."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.29249312",
+    "-81.54764008"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "FliD6xhdviovgomDveSF.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

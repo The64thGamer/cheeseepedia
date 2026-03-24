@@ -1,0 +1,59 @@
+{
+  "title": "Chuck E. Cheese's 20th Anniversary (AAM)",
+  "startDate": "1997-04-01",
+  "endDate": "1997-08-05",
+  "pageThumbnailFile": "3LebTXFwUdgiVWh_qxZT.avif",
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "citations": [
+    "https://youtu.be/3ynDO4UGEqk"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch, Brain-I-Vac, Fly"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Steve White",
+      "role": "Scriptwriter, Songwriter"
+    },
+    {
+      "n": "Brave Combo"
+    },
+    {
+      "n": "Stokes Group",
+      "role": "Video Editing"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Programmer"
+    }
+  ],
+  "unitsProduced": "1",
+  "showtapeFormats": [
+    "AAM 2x Laserdisc + Files"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/details/awesome-adventure-machine-april-1997-flacs",
+      "label": "Direct Showtape Audio Rips"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

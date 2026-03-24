@@ -1,0 +1,61 @@
+{
+  "title": "You're A Star",
+  "startDate": "1993-09-14",
+  "endDate": "1993-11-25",
+  "pageThumbnailFile": "MNhoimSy_DBvXYEwlhmf.avif",
+  "contributors": [
+    "Ceclife13",
+    "BurgersNuggs445",
+    "Luigigamin212"
+  ],
+  "citations": [
+    "https://www.youtube.com/watch?v=XK8Az2zKNsw"
+  ],
+  "credits": [
+    {
+      "n": "David Robinson",
+      "role": "Show Programmer"
+    },
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Charles Stewart",
+      "role": "Songwriter, Singing Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Darby Orr",
+      "role": "Songwriter"
+    }
+  ],
+  "showtapeFormats": [
+    "R12 SVHS (Post-93)",
+    "C&R SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "mediaDuration": "57:15",
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/September%201993%203-Stage-013.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "alsoKnownAs": []
+}

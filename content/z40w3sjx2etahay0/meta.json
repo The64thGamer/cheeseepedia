@@ -1,0 +1,27 @@
+{
+  "title": "CEC History of Rock and Roll",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "pageThumbnailFile": "HistoryofRockandRoll.avif",
+  "startDate": "1986-04-00",
+  "endDate": "1986-09-01",
+  "credits": [
+    {
+      "n": "Lonny Wilder",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Connie Nelson",
+      "role": "Voice of Helen Henny"
+    }
+  ],
+  "contributors": [
+    "Ceclife13"
+  ]
+}

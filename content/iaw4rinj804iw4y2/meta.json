@@ -1,0 +1,30 @@
+{
+  "title": "Waco, TX (731 N Valley Mills Dr)",
+  "storeNumber": "",
+  "startDate": "1983-00-00",
+  "endDate": "1984-10-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-00-00",
+      "e": "1984-10-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "31.5296791",
+    "-97.1781402"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

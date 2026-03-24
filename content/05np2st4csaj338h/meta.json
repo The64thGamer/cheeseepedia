@@ -1,0 +1,30 @@
+{
+  "title": "Long Beach, CA (4706 Los Coyotes Diagonal)",
+  "storeNumber": "",
+  "startDate": "1980-12-00",
+  "endDate": "1984-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1980-12-00",
+      "e": "1984-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.8262063",
+    "-118.1030977"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

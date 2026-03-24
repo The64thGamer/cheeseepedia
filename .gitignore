@@ -33,3 +33,8 @@ hugo-build.log
 /static/theoryweb/FNaF 1 Game/FNaF 1 Audio
 /static/theoryweb/FNaF 1 Game/Unsorted
 /static/theoryweb/FNaF 1 Audio
+/old/theoryweb/FNaF 1 Game
+/old/theoryweb/FNaF 1 Audio
+*.pyc
+/viewers/cep-js/scripts/__pycache__
+viewers/cep-js/compiled-json/.views.json.kate-swp

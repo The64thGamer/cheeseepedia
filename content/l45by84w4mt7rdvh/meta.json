@@ -1,0 +1,41 @@
+{
+  "title": "Orange, CT (82 Boston Post Rd)",
+  "storeNumber": "",
+  "startDate": "1992-06-16",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "2-Stage",
+      "s": "1992-06-00",
+      "e": "2006-08-00",
+      "desc": "One of two in Connecticut. Replaced by Studio C Beta 16M."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-03-23",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.27645367",
+    "-72.98842298"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "QAmfNms7eD7wfl0DhEg_.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

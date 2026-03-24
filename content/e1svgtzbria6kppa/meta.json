@@ -1,0 +1,30 @@
+{
+  "title": "Blaine, MN (8949 University Ave)",
+  "storeNumber": "",
+  "startDate": "1982-06-00",
+  "endDate": "1988-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-06-00",
+      "e": "1988-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "45.1340417",
+    "-93.2667308"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

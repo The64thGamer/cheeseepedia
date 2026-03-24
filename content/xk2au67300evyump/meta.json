@@ -1,0 +1,31 @@
+{
+  "title": "Birthday Star '91",
+  "startDate": "1991-05-00",
+  "endDate": "1991-05-00",
+  "pageThumbnailFile": "May91Bday91cassette.avif",
+  "contributors": [
+    "Cyber Snout"
+  ],
+  "citations": [
+    "https://archive.org/details/aps-yellow-case"
+  ],
+  "credits": [
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Karlissa McKinney",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually the Chef"
+    }
+  ],
+  "mediaDuration": "2:24",
+  "type": "Live Shows",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

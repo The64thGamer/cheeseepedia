@@ -1,0 +1,53 @@
+{
+  "title": "CEC September 1991 Show",
+  "startDate": "1991-09-10",
+  "endDate": "1991-12-05",
+  "pageThumbnailFile": "n02eKh04LQEEbI5q3DMs.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "DerekCat",
+    "Cheeseclassic",
+    "Luigigamin212",
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "David Robinson",
+      "role": "Show Programmer"
+    },
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    }
+  ],
+  "citations": [
+    "https://www.youtube.com/watch?v=VgsROB6xwb4",
+    "https://youtu.be/YIwEWOMB2LI",
+    "https://youtu.be/ZbSCCVqTd0A"
+  ],
+  "showtapeFormats": [
+    "3-Stage SVHS (Pre-93)",
+    "C&R SVHS (Pre-93)",
+    "R12 SVHS (Pre-93)",
+    "APS Files"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/aps-yellow-case/Family%20Times%203-Stage%20%28Scrapped%20Sept%201991%29.IMA",
+      "label": "Original 'Family Times' 3-Stage APS .IMA"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

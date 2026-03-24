@@ -1,0 +1,84 @@
+{
+  "title": "September 2005 Show",
+  "startDate": "2005-09-00",
+  "endDate": "2005-11-00",
+  "pageThumbnailFile": "L_78QNChS6VU4XIOSgzJ.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "RedaCEC",
+    "Ceclife13",
+    "Cyber Snout",
+    "John95"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/September%202005%20Studio%20C.iso"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Show Announcer, Plumber, Biker"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    }
+  ],
+  "mediaDuration": "1:03:50",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD",
+    "3-Stage SVHS (Post-93)",
+    "R12 SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Sept2005.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Sept2005Version2.img",
+      "label": "Studio C Floppy Disk (Ver. 2)"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/September%202005%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/September%202005%203-Stage-004.iso",
+      "label": "3-Stage DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

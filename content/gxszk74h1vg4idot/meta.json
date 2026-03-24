@@ -1,0 +1,53 @@
+{
+  "title": "September 1998",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "startDate": "1998-09-00",
+  "endDate": "1998-12-00",
+  "contributors": [
+    "Cyber Snout",
+    "Cy's Junk at School",
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch, Larry The Technician, Announcer (Deep Voice)"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Will Frye, Voice of Announcer (Squeaky Voice)"
+    },
+    {
+      "n": "Robert Gotcher"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Programmer"
+    }
+  ],
+  "mediaDuration": "1:00:37",
+  "citations": [],
+  "pageThumbnailFile": "TndnNM07cXDXau80frxy.avif",
+  "showtapeFormats": [
+    "Studio C 4x Laserdisc + Files",
+    "R12 SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/3stage_post_93_svhs_signals/September%201998%203-Stage-010.iso",
+      "label": "Post '93 3-Stage SVHS w/ Signals"
+    }
+  ]
+}

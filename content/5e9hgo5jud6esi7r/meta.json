@@ -1,0 +1,30 @@
+{
+  "title": "Amarillo, TX (2800 Civic Circle)",
+  "storeNumber": "",
+  "startDate": "1982-06-15",
+  "endDate": "1985-12-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-06-15",
+      "e": "1985-12-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "35.1919336",
+    "-101.8685649"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

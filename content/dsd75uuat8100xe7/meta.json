@@ -1,0 +1,30 @@
+{
+  "title": "Marrero, LA (1951 Ames Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-00-00",
+  "endDate": "1984-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-00-00",
+      "e": "1984-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "29.87771967",
+    "-90.11522343"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

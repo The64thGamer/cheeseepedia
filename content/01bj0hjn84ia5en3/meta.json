@@ -1,0 +1,210 @@
+{
+  "title": "Lexington, KY (1555 New Circle Rd)",
+  "storeNumber": "156",
+  "startDate": "1983-12-01",
+  "endDate": "2025-08-03",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-00-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-05-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2007-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2019-09-00"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1991-11-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Rock-afire Explosion",
+      "s": "1983-12-01",
+      "e": "1991-11-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2006-00-00",
+      "desc": "One of 3 3-Stages in Kentucky to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Beta."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "2007-00-00",
+      "e": "2019-09-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-09-00",
+      "e": "2025-08-03"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "McBiz Corporation",
+      "s": "1983-12-01",
+      "e": "1996-09-16"
+    }
+  ],
+  "attractions": [],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 1-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 2-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 3-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 4-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 5-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "1983-12-01",
+      "e": "1991-11-00",
+      "l": "1-83 6-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 7-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "1983-12-01",
+      "e": "1990s-00-00",
+      "l": "1-83 8-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 11-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "1983-12-01",
+      "e": "2007-00-00",
+      "l": "1-83 11-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "1981-11-11",
+      "e": "1991-04-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "1991-11-00",
+      "e": "2007-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "2007-00-00",
+      "e": "2019-09-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.01760227",
+    "-84.45609923"
+  ],
+  "citations": [
+    "https://www.newspapers.com/article/lexington-herald-leader/63053183/",
+    "https://www.kentucky.com/lexgoeat/restaurants/article311570069.html",
+    "https://www.newspapers.com/article/lexington-herald-leader/78559165/",
+    "https://www.newspapers.com/article/lexington-herald-leader-lexington-spp-li/184952965/",
+    "https://www.newspapers.com/article/lexington-herald-leader-showbiz-pizza-le/184953013/",
+    "https://www.newspapers.com/article/lexington-herald-leader-showbiz-pizza-op/78559289/",
+    "https://www.newspapers.com/article/lexington-herald-leader-lexington-spp-ar/184953856/",
+    "https://www.newspapers.com/article/lexington-herald-leader-showbiz-pizza-l/184953701/",
+    "https://www.newspapers.com/article/lexington-herald-leader-lexington-spp-co/184954575/",
+    "https://www.newspapers.com/article/lexington-herald-leader-billy-bob-at-tat/78559418/",
+    "https://www.newspapers.com/article/lexington-herald-leader-billy-bob-bluegr/184955162/",
+    "https://www.newspapers.com/article/lexington-herald-leader/78559797/",
+    "https://www.newspapers.com/article/lexington-herald-leader-beat-the-clock-t/184955726/",
+    "https://www.newspapers.com/article/lexington-herald-leader/78559888/",
+    "https://www.newspapers.com/article/lexington-herald-leader/78560175/",
+    "https://www.newspapers.com/article/lexington-herald-leader-billy-bobs-birt/184956621/",
+    "https://www.newspapers.com/article/lexington-herald-leader-santas-arrival/184957140/",
+    "https://www.newspapers.com/article/lexington-herald-leader-ring-in-the-new/184957411/",
+    "https://www.newspapers.com/article/lexington-herald-leader-1986-safe-hallow/184958612/",
+    "https://www.newspapers.com/article/lexington-herald-leader-showbiz-children/184958895/",
+    "https://www.newspapers.com/article/lexington-herald-leader-1988-dentist-spp/184958973/",
+    "https://www.newspapers.com/article/lexington-herald-leader-showbiz-children/184958895/",
+    "https://www.newspapers.com/article/lexington-herald-leader-safe-halloween-p/184959579/",
+    "https://www.newspapers.com/article/lexington-herald-leader/78560889/",
+    "https://www.newspapers.com/article/lexington-herald-leader-mcalpins-showbi/184964342/",
+    "https://www.newspapers.com/article/lexington-herald-leader/78561203/",
+    "https://www.newspapers.com/article/the-courier-journal-lexington-cu/32792643/",
+    "https://www.newspapers.com/article/lexington-herald-leader-chuck-e-cheese-p/184969528/",
+    "https://www.newspapers.com/article/lexington-herald-leader-chuck-e-cheese/184969885/",
+    "https://www.newspapers.com/article/lexington-herald-leader-cec-entertainmen/184972290/",
+    "Missing Source",
+    "https://www.kentucky.com/news/local/crime/article87332692.html",
+    "https://www.kentucky.com/news/local/counties/fayette-county/article65720262.html",
+    "https://www.facebook.com/share/p/1LNbitnGcV/",
+    "https://www.facebook.com/share/p/1VV3qDCdLp/",
+    "https://www.facebook.com/share/p/19oxHx9vU6/",
+    "https://www.instagram.com/p/-908BhDayQ/",
+    "https://www.instagram.com/p/9jL1e7PB35/",
+    "https://www.youtube.com/watch?v=6N2n75xYW08",
+    "Internal Corporate Document",
+    "https://www.wkyt.com/2024/04/19/exclusive-couple-claims-trip-lexington-chuck-e-cheese-made-them-sick/",
+    "https://www.instagram.com/p/DM-mEvaRTYR/"
+  ],
+  "contributors": [
+    "Cyber Snout"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "LexingtonKYCEC2.0Exterior.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

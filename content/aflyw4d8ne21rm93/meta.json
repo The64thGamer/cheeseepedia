@@ -1,0 +1,30 @@
+{
+  "title": "Loves Park, IL (6505 N 2nd St)",
+  "storeNumber": "",
+  "startDate": "1981-11-00",
+  "endDate": "1988-10-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-11-00",
+      "e": "1988-10-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.32325462",
+    "-89.05888463"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "title": "Joliet, IL (1965 W Jefferson St)",
+  "storeNumber": "",
+  "startDate": "1983-07-13",
+  "endDate": "2007-01-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-07-13",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2007-01-00",
+      "desc": "One of 10 3-Stages in Illinois to undergo Concept Unification. Animatronics sent to Mishawaka, IN (822 W McKinley Ave) after stage removal and store closure in 2007."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.52122432",
+    "-88.12775883"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "K4HtaY29SVPIsIrLB1RW.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "title": "January 2004 Show",
+  "startDate": "2004-01-00",
+  "endDate": "2004-03-00",
+  "pageThumbnailFile": "awtPcwDXLQnV4zLqi8oZ.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/January%202004%20Studio%20C-007.iso"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Show Announcer"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Hank Howdy"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    },
+    {
+      "n": "Todrick Hall",
+      "role": "Lead Dancer 'Sing a Song'"
+    }
+  ],
+  "mediaDuration": "1:00:37",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage SVHS (Pre-93)",
+    "3-Stage SVHS (Post-93)",
+    "R12 SVHS (Pre-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/Jan2004Show.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/January%202004%20Studio%20C-007.iso",
+      "label": "Studio C DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

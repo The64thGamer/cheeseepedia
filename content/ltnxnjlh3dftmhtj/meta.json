@@ -1,0 +1,30 @@
+{
+  "title": "Hail, Saudi Arabia",
+  "storeNumber": "",
+  "startDate": "2018-02-00",
+  "endDate": "2022-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Circles of Light",
+      "s": "2018-02-00",
+      "e": "2022-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "26.9920987",
+    "41.4892578"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

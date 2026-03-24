@@ -1,0 +1,46 @@
+{
+  "title": "Arlington, TX (2216 S Fielder Rd)",
+  "storeNumber": "",
+  "startDate": "1980-10-00",
+  "endDate": "2024-03-17",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1980-10-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1997-00-00",
+      "e": "2022-10-00",
+      "desc": "Replaced by Dance Floor + Video Wall. Last 2-Stage in the state."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00",
+      "e": "2024-03-17"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.70600557",
+    "-97.13506548"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "KfMBM7YPRjHLGXCWST5p.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

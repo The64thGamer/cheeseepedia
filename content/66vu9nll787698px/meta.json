@@ -1,0 +1,30 @@
+{
+  "title": "Mountain View, CA (455 North Bernardo Avenue, Suite A)",
+  "storeNumber": "",
+  "startDate": "1978-00-00",
+  "endDate": "1979-00-00",
+  
+  "remodels": [],
+  "stages": [],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "0",
+    "0"
+  ],
+  "citations": [
+    "https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf",
+    "https://www.worldradiohistory.com/Archive-All-Music/Cash-Box/70s/1979/CB-1979-02-17.pdf",
+    "https://permits.sanjoseca.gov/api/public-portal/property/document?docId=2512401"
+  ],
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "downloadLinks": [],
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "pageThumbnailFile": "Screenshot_20251018_141557.avif"
+}

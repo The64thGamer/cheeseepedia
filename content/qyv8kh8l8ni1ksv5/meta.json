@@ -1,0 +1,30 @@
+{
+  "title": "Beaumont, TX (5874 Eastex Fwy)",
+  "storeNumber": "",
+  "startDate": "1982-00-00",
+  "endDate": "1985-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-00-00",
+      "e": "1985-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.12565202",
+    "-94.15543873"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "U9Gv2oV2BrELObj9X27b.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

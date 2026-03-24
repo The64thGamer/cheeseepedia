@@ -1,0 +1,45 @@
+{
+  "title": "Evansville, IN (559 N Green River Rd)",
+  "storeNumber": "",
+  "startDate": "1982-12-21",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-12-21",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2006-00-00",
+      "desc": "One of 7 3-Stages in Indiana to undergo Concept Unification. one of a dozen 3-Stages replaced with a Studio C Cappa."
+    },
+    {
+      "n": "Studio C Cappa",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.98049637",
+    "-87.49298428"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "AX4umpQMVj0yMC_Fb31R.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

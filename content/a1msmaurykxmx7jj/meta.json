@@ -1,0 +1,35 @@
+{
+  "title": "Toledo, OH (5077 Monroe St)",
+  "storeNumber": "",
+  "startDate": "1993-09-06",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-09-06",
+      "e": "2021-08-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2021-09-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.69736097",
+    "-83.64783563"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

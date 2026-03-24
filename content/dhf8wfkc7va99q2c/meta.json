@@ -1,0 +1,30 @@
+{
+  "title": "Bloomfield, CT (48 Jerome Ave)",
+  "storeNumber": "",
+  "startDate": "1983-08-00",
+  "endDate": "1984-08-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-08-00",
+      "e": "1984-08-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.82892767",
+    "-72.73536038"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

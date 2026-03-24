@@ -1,0 +1,36 @@
+{
+  "title": "Dothan, AL (3400 Ross Clark Circle)",
+  "storeNumber": "",
+  "startDate": "1983-12-00",
+  "endDate": "1998-04-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-12-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "1998-04-22",
+      "desc": "One of 7 3-Stages in Alabama to undergo Concept Unification."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "31.24216582",
+    "-85.43017083"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "YQAiKNEDE36ULJnU5uMf.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

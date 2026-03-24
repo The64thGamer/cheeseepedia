@@ -1,0 +1,47 @@
+{
+  "title": "Commack, NY (2115 Jericho Turnpike)",
+  "storeNumber": "504",
+  "startDate": "1995-01-23",
+  "endDate": "2015-06-14",
+  
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1995-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1995-01-23",
+      "e": "2004-00-00",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Studio C Cappa",
+      "s": "2003-00-00",
+      "e": "2015-06-14"
+    }
+  ],
+  "animatronics": [],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "9480",
+  "latitudeLongitude": [
+    "40.84324692",
+    "-73.27908548"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/2115-jericho-tpke-plans/2115_Jericho_Tpke_Plans.pdf",
+      "label": "2003-2004 Site Remodel Plans"
+    }
+  ],
+  "pageThumbnailFile": "CommackNY-1-Exterior.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Holiday Party 2010 Show",
+  "startDate": "2010-12-01",
+  "endDate": "2010-12-00",
+  "pageThumbnailFile": "AkxqRm019DNvrcxRGspd.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Ceclife13"
+  ],
+  "citations": [],
+  "credits": [
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daneil",
+      "role": "Production Coordinator"
+    }
+  ],
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

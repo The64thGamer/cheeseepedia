@@ -1,0 +1,52 @@
+{
+  "title": "Norcross, GA (5019 Jimmy Carter Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-05-26",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-05-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "1993-00-00",
+      "desc": "One of 6 3-Stages in Georgia to receive Concept Unification."
+    },
+    {
+      "n": "1-Stage",
+      "s": "1996-00-00",
+      "e": "2000-00-00",
+      "desc": "1-Stage w/ 2-Stage props"
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2021-08-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.9173269",
+    "-84.2095267"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

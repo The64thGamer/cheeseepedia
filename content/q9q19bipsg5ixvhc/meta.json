@@ -1,0 +1,30 @@
+{
+  "title": "Pontiac, MI (965 S Opdyke Rd)",
+  "storeNumber": "",
+  "startDate": "1982-11-04",
+  "endDate": "1984-01-08",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-11-04",
+      "e": "1984-01-08"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.62054102",
+    "-83.25008098"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

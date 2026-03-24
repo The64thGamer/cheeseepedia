@@ -1,0 +1,40 @@
+{
+  "title": "Charlotte, NC (5612 Albemarle Rd)",
+  "storeNumber": "",
+  "startDate": "1991-11-00",
+  "endDate": "",
+  
+  "remodels": [
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "2024-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-11-00",
+      "e": "2024-06-02"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-06-06",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "35.20164082",
+    "-80.75370023"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "HT_NwShK6i0ppGH3VIze.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

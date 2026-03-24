@@ -1,0 +1,30 @@
+{
+  "title": "Holland, MI (12331 James St)",
+  "storeNumber": "",
+  "startDate": "2003-09-04",
+  "endDate": "2015-04-12",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "s": "2003-09-04",
+      "e": "2015-04-12"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.8155994",
+    "-86.0874075"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

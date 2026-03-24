@@ -1,0 +1,50 @@
+{
+  "title": "Torrance, CA (2821 Pacific Coast Hwy)",
+  "storeNumber": "",
+  "startDate": "1983-03-24",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-03-24",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 10 3-Stages in California to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2020-01-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.79353322",
+    "-118.3371088"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Pww2j9VJUKgdHZ90USs_.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

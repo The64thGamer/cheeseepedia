@@ -1,0 +1,30 @@
+{
+  "title": "El Cerrito, CA (20 El Cerrito Plaza)",
+  "storeNumber": "",
+  "startDate": "1993-00-00",
+  "endDate": "2000-07-19",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-12-13",
+      "e": "2000-07-19"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.89811422",
+    "-122.3017875"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "x3pjVTGcSVPJoeI15vlr.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

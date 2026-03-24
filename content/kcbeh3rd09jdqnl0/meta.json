@@ -1,0 +1,21 @@
+{
+  "title": "Hollister, CA (1802 Shelton Drive)",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "startDate": "1982-04-30",
+  "endDate": "1984-08-00",
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "citations": [
+    "https://showbizpizza.com/info/documents/ptt/ptt_gamesexaminer1-2.pdf",
+    "https://sanbenito.com/letter-to-the-editor-many-thanks-to-chuck-e-cheese-crew/"
+  ],
+  "latitudeLongitude": [
+    "36.886143",
+    "-121.394344"
+  ],
+  "sqft": "35,000"
+}

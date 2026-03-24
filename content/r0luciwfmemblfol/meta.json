@@ -1,0 +1,42 @@
+{
+  "title": "Pasadena, TX (5075 Fairmont Pkwy)",
+  "storeNumber": "",
+  "startDate": "2007-02-20",
+  "endDate": "",
+  
+  "remodels": [],
+  "franchisees": [],
+  "sqft": "",
+  "citations": [],
+  "contributors": [
+    "Cyber Snout"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "latitudeLongitude": [
+    "29.6498989",
+    "-95.1657082"
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2007-02-20",
+      "e": "2023-03-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-03-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Mega Superhero Playground",
+      "s": "2026-00-00"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Wichita, KS (2100 N Amidon Ave)",
+  "storeNumber": "",
+  "startDate": "1982-01-26",
+  "endDate": "1984-05-20",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-01-26",
+      "e": "1984-05-20"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.7212644",
+    "-97.3629534"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

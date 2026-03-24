@@ -1,0 +1,36 @@
+{
+  "title": "Bellevue, WA (2239 148th Ave)",
+  "storeNumber": "",
+  "startDate": "1996-00-00",
+  "endDate": "2025-04-27",
+  
+  "remodels": [
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "2024-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1996-00-00",
+      "e": "2025-04-27",
+      "desc": "1-Stage w/ Turntable"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "47.62914437",
+    "-122.1464441"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "dOSdSr5n8Jb94Vlh0vVj.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

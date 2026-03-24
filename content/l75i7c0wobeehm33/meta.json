@@ -1,0 +1,45 @@
+{
+  "title": "Springfield, MA (1716 Boston Rd)",
+  "storeNumber": "",
+  "startDate": "1983-03-22",
+  "endDate": "2020-06-18",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-03-22",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2017-11-00",
+      "desc": "Only 3-Stage in New England and only one to get Concept Unification. Only 3-Stage in New England. CEI bots were replaced with Cyberamics from Burlington, MA (10 Wall St) in 2017. Was in Poor Condition. Stage lacked Munch's Make Believe Band Sign and CEC Neon Sign."
+    },
+    {
+      "n": "Cyberamic 3-Stage",
+      "s": "0000-00-00",
+      "e": "2020-06-18"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.14441082",
+    "-72.48737478"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "FWH8qdUB7jaGmIzlc2X0.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

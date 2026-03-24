@@ -1,0 +1,1 @@
+West Valley's Grand Opening

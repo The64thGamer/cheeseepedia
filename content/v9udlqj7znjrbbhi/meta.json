@@ -1,0 +1,35 @@
+{
+  "title": "Simi Valley, CA (71 Tierra Rejada Rd)",
+  "storeNumber": "",
+  "startDate": "1980-10-20",
+  "endDate": "2008-04-27",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1980-10-20",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House",
+      "s": "0000-00-00",
+      "e": "2008-04-27"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.27195067",
+    "-118.801151"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "_AOXtXk1RPnHyBw_gwYK.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

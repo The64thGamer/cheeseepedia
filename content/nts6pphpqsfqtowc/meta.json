@@ -1,0 +1,35 @@
+{
+  "title": "Melrose Park, IL (1315 W North Ave)",
+  "storeNumber": "",
+  "startDate": "1991-09-24",
+  "endDate": "2012-08-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-09-24",
+      "e": "1994-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1994-00-00",
+      "e": "2012-08-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.90690732",
+    "-87.84847078"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "z6CjwtReqjI7AfUxDLzV.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

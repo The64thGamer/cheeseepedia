@@ -1,0 +1,35 @@
+{
+  "title": "Boardman, OH (813 Boardman Poland Rd)",
+  "storeNumber": "",
+  "startDate": "1982-10-00",
+  "endDate": "1991-11-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-10-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "1991-11-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.02224642",
+    "-80.64065528"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "bQp10jirQKaQp1Zu2_57.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

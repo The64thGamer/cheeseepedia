@@ -1,0 +1,1 @@
+The ***Chill Out Ice Cream Machine* is an ice cream vending machine created by Blue Bunny for C.E.C Ent. The Machine has 2 versions. The first being one made most likely in 1997. The first version has a different name being 'I scream, you Scream, kids scream for ice cream!'**

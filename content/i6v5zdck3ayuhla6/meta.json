@@ -1,0 +1,75 @@
+{
+  "title": "September 2009 Show",
+  "startDate": "2009-09-00",
+  "endDate": "2009-11-00",
+  "pageThumbnailFile": "VWyaqvxIywrhnGFIhu0b.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Haywardmaster",
+    "Anonymous",
+    "Dame0824",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/September%202009%20Studio%20C.iso"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Show Announcer"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Dave Wilson",
+      "role": "Songwriter (\"Toppings\", \"Fall For Everyone\", \"Let's Dance\")"
+    }
+  ],
+  "mediaDuration": "53:28",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/September%202009%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/September%202009%203-Stage-002.iso",
+      "label": "3-Stage DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

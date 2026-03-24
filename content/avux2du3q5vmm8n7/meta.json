@@ -1,0 +1,37 @@
+{
+  "title": "Summer 2012",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "startDate": "2012-07-01",
+  "endDate": "2012-08-31",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Ceclife13"
+  ],
+  "citations": [],
+  "credits": [
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, Voice of Announcer, UV Monster"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Steve Waters"
+    }
+  ],
+  "pageThumbnailFile": "iolFogMS1MY5iGWu6ECc.avif",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "Studio C USB + MicroSD",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "mediaDuration": "59:25"
+}

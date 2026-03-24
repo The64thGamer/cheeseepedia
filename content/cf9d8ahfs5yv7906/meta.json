@@ -1,0 +1,36 @@
+{
+  "title": "Edmonton, Alberta, Canada (9271 34th Ave)",
+  "storeNumber": "",
+  "startDate": "1985-11-00",
+  "endDate": "1995-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1985-11-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "1995-00-00",
+      "desc": "Only 2-Stage in Alberta."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "53.46408257",
+    "-113.4758963"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "tchHeHIXywhBekfBJpdh.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

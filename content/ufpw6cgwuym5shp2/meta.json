@@ -1,0 +1,51 @@
+{
+  "title": "St. Charles, MO (2669 Veterans Memorial Pkwy)",
+  "storeNumber": "",
+  "startDate": "1982-10-27",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-27",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 5 3-Stages in Missouri to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-10-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Mega Superhero Playground",
+      "s": "2025-00-00"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.77676452",
+    "-90.51956538"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "r4bhwhgxjbqn615k.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

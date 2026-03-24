@@ -1,0 +1,41 @@
+{
+  "title": "Metairie, LA (7000 Veterans Blvd)",
+  "storeNumber": "",
+  "startDate": "1981-06-24",
+  "endDate": "2024-03-17",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-06-24",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "0000-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 5 3-Stages in Louisiana to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha. Helen had cheerleader outfit."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "2024-03-17"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.00121547",
+    "-90.13682873"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "XtsFCG1pefIYhk7eoCWQ.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

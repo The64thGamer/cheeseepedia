@@ -1,0 +1,41 @@
+{
+  "title": "Webster, TX (1541 West Bay Area Blvd)",
+  "storeNumber": "",
+  "startDate": "1993-03-15",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "2-Stage",
+      "s": "1993-03-00",
+      "e": "1999-00-00",
+      "desc": "Replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-09-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "29.53523062",
+    "-95.1500438"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "LYBFC4YRORRkQ32BMkXE.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

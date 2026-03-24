@@ -1,0 +1,39 @@
+{
+  "title": "Dallas, TX (13364 Montfort Dr)",
+  "storeNumber": "",
+  "startDate": "2001-12-21",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2001-12-21",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Star Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Circles of Light",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.92971437",
+    "-96.81218158"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "T3QEJAmQA344Gbf4V0Sq.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

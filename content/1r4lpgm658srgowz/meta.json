@@ -1,0 +1,69 @@
+{
+  "title": "Chuck E. Cheese April 2004 Show",
+  "startDate": "2004-04-00",
+  "endDate": "2004-06-00",
+  "pageThumbnailFile": "x3Jq_DI5eSGn1ZKCfxbW.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Ceclife13",
+    "John95",
+    "RedaCEC"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/April%202004%20Studio%20C-001.iso"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Mike Manly, Wick Ladderback, Betty, Joyce, Rockin' Grandma"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    }
+  ],
+  "mediaDuration": "56:39",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "R12 SVHS (Pre-93)",
+    "3-Stage SVHS (Pre-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/April2004.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/April%202004%20Studio%20C-001.iso",
+      "label": "Studio C DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

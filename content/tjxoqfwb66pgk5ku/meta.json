@@ -1,0 +1,35 @@
+{
+  "title": "Rocky Mount, NC (730 Sutters Creek Blvd)",
+  "storeNumber": "",
+  "startDate": "2003-12-17",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "s": "2003-12-17",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-04-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "35.97133992",
+    "-77.81191053"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "IRA7PmWIbcwlLRLhpvHh.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

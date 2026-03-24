@@ -1,0 +1,40 @@
+{
+  "title": "Honolulu, HI (820 W Hind Dr)",
+  "storeNumber": "",
+  "startDate": "1983-02-15",
+  "endDate": "2009-00-00",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-03-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-02-15",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-03-00",
+      "e": "2009-05-00",
+      "desc": "Only 3-Stage in Hawaii until stage removal and store closure in 2009. Poor Condition. Chuck had full 'Cool Chuck' outfit, Wink had the visible 'In Pizza We Trust' slogan, kept CU carpet, kept Munch Jr., and stage had short height."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "21.27753092",
+    "-157.7561881"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "mlqB4PZSQLFxQWm0HtBx.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

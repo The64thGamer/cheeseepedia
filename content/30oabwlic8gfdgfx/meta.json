@@ -1,0 +1,39 @@
+{
+  "title": "Decatur, AL (1801 Beltline Rd)",
+  "storeNumber": "",
+  "startDate": "2005-12-26",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "s": "2005-12-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.57117937",
+    "-87.01859668"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "k5ygUCyNBm3wwt0Q6z1v.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

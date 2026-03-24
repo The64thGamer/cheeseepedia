@@ -1,0 +1,52 @@
+{
+  "title": "January 2010 Show",
+  "startDate": "2010-01-00",
+  "endDate": "2010-3-00",
+  "pageThumbnailFile": "H9SFBO59Zvmz6IQcWq8X.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Bullseye123",
+    "Ceclife13",
+    "Anonymous",
+    "Anonymous",
+    "Anonymous"
+  ],
+  "citations": [
+    "http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-01.pdf"
+  ],
+  "credits": [
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
+  ],
+  "mediaDuration": "58:02",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/January%202010%203-Stage-008.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/January%202010%20Studio%20C-004.iso",
+      "label": "Studio C DVD 1 & 2 ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

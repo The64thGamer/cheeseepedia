@@ -1,0 +1,1 @@
+The ***Character Cable Tester* is a device made by *Creative Engineering* to test the [Rock-afire Explosion Control System] continuity of each wire of a character cable from one connector to the other. This is a one-off device that was made for internal CEI use during cable manufacturing and testing.**

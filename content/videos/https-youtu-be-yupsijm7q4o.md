@@ -1,8 +1,0 @@
-+++
-title = "https://youtu.be/YuPsiJM7q4o"
-startDate = "1982-00-00"
-pages = ["Sacramento (Florin Mall), CA (7020 Stockton Blvd)"]
-tags = ["Videos"]
-categories = ["Pizza Time Theatre"]
-+++
-Super 8mm film of a birthday party at Sacramento, CA (7020 Stockton Blvd).

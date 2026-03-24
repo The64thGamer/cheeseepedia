@@ -1,0 +1,30 @@
+{
+  "title": "Columbia, MO (1729 W Broadway)",
+  "storeNumber": "",
+  "startDate": "1982-06-03",
+  "endDate": "1985-10-16",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-06-03",
+      "e": "1985-10-16"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.9560434",
+    "-92.3644248"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "title": "Rapid City, SD (30 Knollwood Dr)",
+  "storeNumber": "",
+  "startDate": "2004-12-16",
+  "endDate": "2020-05-28",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "s": "2004-12-16",
+      "e": "2020-05-28"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "44.1036463",
+    "-103.2139640"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

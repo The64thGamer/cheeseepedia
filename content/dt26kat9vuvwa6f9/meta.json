@@ -1,0 +1,40 @@
+{
+  "title": "Lincoln, NE (221 N 66th St)",
+  "storeNumber": "",
+  "startDate": "1982-12-29",
+  "endDate": "2020-06-15",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1992-01-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-12-29",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1992-01-00",
+      "e": "2020-06-00",
+      "desc": "One of 2 3-Stages in Nebraska to receive Concept Unification. Second to Last 3-Stage in Nebraska. Was in Very Poor Condition."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.81459932",
+    "-96.63243553"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "9EG4vCDnpzudNjm0J7Qj.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

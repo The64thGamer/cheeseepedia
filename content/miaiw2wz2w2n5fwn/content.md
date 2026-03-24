@@ -1,0 +1,1 @@
+***Costa Mesa, CA (2300 Harbor Blvd)*** was a Pizza Time Theatre that opened sometime between July 17th to October 23rd, 1981, lasting to 1984 before being reopened on January 12, 1993, before closing again in Summer of 1999 and reopening that September, lasting to present day.

@@ -1,0 +1,383 @@
+{
+  "title": "San Jose, CA (370 S Winchester Blvd)",
+  "storeNumber": "",
+  "startDate": "1977-05-17",
+  "endDate": "1985-02-00",
+  
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1977-05-17"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Winchester PTT Show",
+      "s": "1977-05-17",
+      "e": "1985-02-00",
+      "desc": "First Stage Created. Only Winchester PTT Show. Later retrofitted with Cyberamics, but retained layout."
+    }
+  ],
+  "franchisees": [],
+  "animatronics": [
+    {
+      "n": "Winchester Chuck E. Cheese V1 (Animatronic)",
+      "s": "1977-05-17",
+      "e": "1978-06-00",
+      "l": "N/A",
+      "desc": "Sent to the Corporate Offices. Current whereabouts Unknown"
+    },
+    {
+      "n": "Winchester Chuck E. Cheese V2 (Animatronic)",
+      "s": "1978-06-00",
+      "e": "1979-10-00",
+      "l": "N/A",
+      "desc": "Sent to the Corporate Offices. Owned by Travis Schafer."
+    },
+    {
+      "n": "Winchester Crusty the Cat V1 (Animatronic)",
+      "s": "1977-05-17",
+      "e": "1978-06-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Winchester Crusty the Cat V2 (Animatronic)",
+      "s": "1978-06-00",
+      "e": "1979-10-00",
+      "l": "N/A",
+      "desc": "Sent to the Corporate Offices. Owned by Travis Schafer."
+    },
+    {
+      "n": "Winchester Pasqually (Animatronic)",
+      "s": "1977-05-17",
+      "e": "1981-00-00",
+      "l": "N/A",
+      "desc": "Destroyed at CEC Entertainment."
+    },
+    {
+      "n": "Winchester Jasper T. Jowls (Animatronic)",
+      "s": "1977-05-17",
+      "e": "1979-10-00",
+      "l": "N/A",
+      "desc": "Sent to the Corporate Offices. Destroyed at CEC Entertainment."
+    },
+    {
+      "n": "Winchester Warblettes (Animatronic)",
+      "s": "1977-05-17",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "2 Produced. Unknown"
+    },
+    {
+      "n": "Winchester Pizza Time Orchestra (Animatronic)",
+      "s": "1977-05-17",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Winchester Flag Wavers (Animatronic)",
+      "s": "1977-05-17",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Winchester Applause Board (Animatronic)",
+      "s": "1977-05-17",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Winchester Helen Henny (Animatronic)",
+      "s": "1977-08-12",
+      "e": "1978-02-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Winchester Madam Oink (Animatronic)",
+      "s": "1978-02-00",
+      "e": "1978-10-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Winchester Foxy Colleen (Animatronic)",
+      "s": "1978-10-00",
+      "e": "1979-10-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1985-02-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Jasper T Jowls (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1985-02-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1985-02-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1985-02-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1985-02-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dolli Dimples (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1985-02-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Brunswick - Air Hockey 8'",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Americoin - Junkyard",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Midway - Boot Hill",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Air Hockey 8' - Brunswick",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Shooting Trainer - Sega",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pong Double-Kit - Atari",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Breakout - Atari",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Dominoes - Atari",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Tank - Atari",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Sprint II - Atari1977-00-00",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Night Driver - Atari",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Indy 4 - Atari",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "F-1 Mach - Atari and Namco",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Puppy Pong - Atari",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Cheese Crawl",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Atarians - Atari",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Night Rider - Bally",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Freedom - Bally",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Solar City - Gottlieb",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Grand Prix - Williams",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Captain Fantastic - Bally",
+      "s": "1977-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Football - Atari",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Touch-Me - Atari",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Starship 1 - Atari",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Fire Truck - Atari",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Unknown Shooter",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Circus - Exidy",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Orbit - Atari",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "LeMans - Atari",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Football - Atari",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Lunar Lander - Atari",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Atari Baseball - Atari",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Sea Wolf 2 - Midway",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Stunt Cycle - Atari",
+      "s": "1979-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "sqft": "5000",
+  "latitudeLongitude": [
+    "37.31836087",
+    "-121.9513324"
+  ],
+  "citations": [
+    "http://csjpbce.sanjoseca.gov/ecmsviewer/704/407/3407704.pdf",
+    "http://csjpbce.sanjoseca.gov/ecmsviewer/705/407/3407705.pdf",
+    "https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977",
+    "http://www.showbizpizza.com/videos/index.html",
+    "http://csjpbce.sanjoseca.gov/ecmsviewer/021/470/2470021.pdf",
+    "http://csjpbce.sanjoseca.gov/ecmsviewer/723/539/3539723.pdf",
+    "http://csjpbce.sanjoseca.gov/ecmsviewer/022/470/2470022.pdf",
+    "https://www.metroactive.com/papers/metro/06.04.98/dining-9822.html",
+    "https://cdnc.ucr.edu/?a=d&d=LGT19781110.1.1&srpos=1&e=------197-en--20--1-byDA-txt-txIN-%22Chuck+E+Cheese%22-------",
+    "https://cdnc.ucr.edu/?a=d&d=LGT19790928.1.6&srpos=94&e=------197-en--20--81-byDA-txt-txIN-Nolan+Bushnell-------"
+  ],
+  "contributors": [
+    "Cyber Snout",
+    "Pench0782",
+    "CECBowlingGreen",
+    "EagleScout610",
+    "sudo trans --pony",
+    "JJperks",
+    "Puppetpals",
+    "Rexburg090",
+    "KPIZZA03",
+    "RessiduePezzzado",
+    "PTT1977fan",
+    "BloxxyColas",
+    "Ceclife13",
+    "BurgersNuggs445",
+    "Midwestretail",
+    "Concordio",
+    "WalterB",
+    "SinStar",
+    "PTT at you're service",
+    "FileFickle",
+    "ThatBoiCydalan",
+    "CECMentor",
+    "Jaxonia",
+    "Chouts1",
+    "Pizza Entertainment Fan"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/details/pizza-time-theatre-winchester-blueprints",
+      "label": "Building Plans (1966-1998)"
+    }
+  ],
+  "pageThumbnailFile": "GnoV9ijC2b_NYaIy5vFS.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

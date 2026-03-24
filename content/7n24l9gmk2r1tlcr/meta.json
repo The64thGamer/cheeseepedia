@@ -1,0 +1,70 @@
+{
+  "title": "January 2012 Show",
+  "startDate": "2012-01-01",
+  "endDate": "2012-12-00",
+  "pageThumbnailFile": "yiyeZ9uOGZM5QAbMVtA8.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Ceclife13",
+    "Anonymous",
+    "MultiMonorail"
+  ],
+  "citations": [
+    "http://showbizpizza.com/info/documents/cec/cec_dept18-2012-12.pdf"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, Show Announcer"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Voice of Jasper T. Jowls, Show Announcer (Unused Version)"
+    }
+  ],
+  "mediaDuration": "1:18:41",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/compress/january-show-2012-unused",
+      "label": "Unused Original Audio"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/January%202012%203-Stage-004.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

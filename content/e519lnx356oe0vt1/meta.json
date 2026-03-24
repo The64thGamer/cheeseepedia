@@ -1,0 +1,19 @@
+{
+  "title": "Chuck E. Cheese's Astrology",
+  "type": "Arcades and Attractions",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "startDate": "",
+  "endDate": "0000-00-00",
+  "contributors": [
+    "sudo trans --pony",
+    "Himitsu",
+    "Tux Chuck"
+  ],
+  "citations": [
+    "<ref></ref>",
+    "<a href=\"https://github.com/mamedev/mame/blob/master/src/mame/drivers/dmainevent.cpp\">https://github.com/mamedev/mame/blob/master/src/mame/drivers/dmainevent.cpp</a>"
+  ],
+  "pageThumbnailFile": "BdVp0SPCcnplcUUX07F9.avif"
+}

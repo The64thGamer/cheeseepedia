@@ -1,0 +1,77 @@
+{
+  "title": "April 2008 Show",
+  "startDate": "2008-04-01",
+  "endDate": "2008-06-30",
+  "pageThumbnailFile": "3kaFTvcbUpEQD8SD8ftw.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Bowling for Cheese",
+    "BurgersNuggs445",
+    "Anonymous",
+    "Anonymous",
+    "AstridMascotFan2005",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/cyberamics_post_93_dvd_signals/April%202008%20CEC%20Stage-008.iso"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Mike Manly, Wick Ladderback"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Singing Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    }
+  ],
+  "mediaDuration": "1:04:14",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/cyberamics_post_93_dvd_signals/April%202008%20CEC%20Stage-008.iso",
+      "label": "CEC-Stage DVD ISO w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/April%202008%203-stage-005.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

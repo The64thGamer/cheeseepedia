@@ -1,0 +1,60 @@
+{
+  "title": "January 2001 Show",
+  "startDate": "2001-01-00",
+  "endDate": "2001-03-00",
+  "pageThumbnailFile": "MmPRs3ORygD_1csev3_k.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Ceclife13",
+    "Tux Chuck"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Betty, Voiceover (Wacky Pirates in the Outfield)"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Muffin Boy"
+    }
+  ],
+  "mediaDuration": "48:41",
+  "citations": [],
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "R12 SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

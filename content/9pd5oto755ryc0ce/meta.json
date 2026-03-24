@@ -1,0 +1,45 @@
+{
+  "title": "Jonesboro, GA (335 Upper Riverdale Rd)",
+  "storeNumber": "",
+  "startDate": "1990-11-20",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1990-11-20",
+      "e": "1996-00-00"
+    },
+    {
+      "n": "1-Stage",
+      "s": "1996-00-00",
+      "e": "2000-00-00"
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-07-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.58039417",
+    "-84.38279328"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "AkiycK0123w4Iiv0gOnq.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

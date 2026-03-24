@@ -1,0 +1,33 @@
+{
+  
+  "title": "Kissimmee, FL (7700 Westgate Blvd)",
+  "startDate": "2025-07-00",
+  "endDate": "",
+  "pageThumbnailFile": "",
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "citations": [
+    "https://www.mainstmagic.com/mystery-fun-house-arcade-westgate-resorts-and-chuck-e-cheese-collaboration/",
+    "https://youtu.be/k0BHkG7u7BA",
+    "https://youtu.be/bpxgqV4733g"
+  ],
+  "storeNumber": "",
+  "sqft": "",
+  "franchisees": [],
+  "remodels": [
+    {
+      "n": "2025 Chuck's Arcade Remodel",
+      "s": "2025-07-00"
+    }
+  ],
+  "downloadLinks": [],
+  "latitudeLongitude": [
+    "28.3293893",
+    "-81.5978204"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

@@ -1,0 +1,1 @@
+View of the mural

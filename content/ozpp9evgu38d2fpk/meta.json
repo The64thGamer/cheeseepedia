@@ -1,0 +1,45 @@
+{
+  "title": "Madame Oink I",
+  "type": "Showtapes",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "startDate": "1978-02-00",
+  "endDate": "1978-10-00",
+  "contributors": [
+    "sudo trans --pony",
+    "WalterB",
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Joe Spano",
+      "role": "Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Ed Bogas",
+      "role": "Voice of Crusty the Cat"
+    },
+    {
+      "n": "Paula Mulcahy",
+      "role": "Voice of Madam Oink"
+    },
+    {
+      "n": "Buffy Sainte-Marie",
+      "role": "Voice of the Warblettes"
+    }
+  ],
+  "citations": [],
+  "pageThumbnailFile": "q4Xqy0ih2g8TOKnoaeWX.avif",
+  "showtapeFormats": [
+    "Cyberamics Reel"
+  ]
+}

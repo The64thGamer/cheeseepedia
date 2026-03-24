@@ -1,0 +1,47 @@
+{
+  "title": "Savannah, GA (6700 Abercorn St)",
+  "storeNumber": "",
+  "startDate": "1982-10-05",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-05",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2021-12-11",
+      "desc": "One of 6 3-Stages in Georgia to receive Concept Unification. 2nd-to-last 3-Stage in Georgia until stage removal in December 2021. 3rd-to-last set of CEI bots in Georgia until stage removal."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2021-12-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.01422807",
+    "-81.11322273"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [
+    "https://ia800308.us.archive.org/31/items/6-15-1982-showbiz-pizza-place-plans-598-n-mccarran-5450/Floorplan%20Archive%20SHOWBIZ/Georgia/6700Abercorn_9106380000.pdf"
+  ],
+  "pageThumbnailFile": "CDQK_MmQyLUWUJadihkR.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

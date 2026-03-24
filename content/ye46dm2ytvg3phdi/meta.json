@@ -1,0 +1,36 @@
+{
+  "title": "San Bruno, CA (1270-1272 El Camino Real)",
+  "storeNumber": "",
+  "startDate": "1994-05-30",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1994-05-30",
+      "e": "2019-00-00",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-05-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.63809582",
+    "-122.4204687"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "urRBA_sejqzjwnjGQkn1.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

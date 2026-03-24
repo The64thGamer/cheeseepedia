@@ -1,0 +1,41 @@
+{
+  "title": "Roseville, MI (31920 Gratiot Ave)",
+  "storeNumber": "",
+  "startDate": "1991-04-22",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-04-22",
+      "e": "1995-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1996-00-00",
+      "e": "2021-00-00",
+      "desc": "Replaced by Dance Floor + Video Wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2021-08-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.52935727",
+    "-82.91348733"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

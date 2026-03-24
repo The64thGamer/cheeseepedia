@@ -1,0 +1,36 @@
+{
+  "title": "Waldorf, MD (2928 Festival Way)",
+  "storeNumber": "",
+  "startDate": "1992-03-24",
+  "endDate": "2012-05-24",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1992-03-24",
+      "e": "2000-00-00",
+      "desc": "Mini Unit 1-Stage"
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "2012-05-24"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.62751012",
+    "-76.91135448"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

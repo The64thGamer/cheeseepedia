@@ -1,0 +1,79 @@
+{
+  "title": "January 2006 Show",
+  "startDate": "2006-01-00",
+  "endDate": "2006-03-00",
+  "pageThumbnailFile": "fc6_tAkfLz7TLdphp8Dp.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Ceclife13",
+    "RedaCEC",
+    "Cy's Junk at School"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/January%202006%20Studio%20C-004.iso"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Sing-along Guy"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Show Announcer, Sing-along Guy, Voice of Larry The Technician"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    }
+  ],
+  "mediaDuration": "1:15:01",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage SVHS (Post-93)",
+    "R12 SVHS (Post-93)",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/January2006.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/January%202006%20Studio%20C-004.iso",
+      "label": "Studio C DVD ISO"
+    },
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/January%202006%203-Stage-006.iso",
+      "label": "3-Stage DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "title": "Beach Bowzers Cabaret Tape",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "startDate": "1985-02-21",
+  "endDate": "1991-00-00",
+  "pageThumbnailFile": "j0FYtzluIACO31GvDe7v.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "CoolerDude",
+    "Ceclife13"
+  ],
+  "citations": [],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Beach%20Bowzers%20Showtape/027-0500-01%20s0013.wav",
+      "label": "Showtape Rip w/ Signals (#1)"
+    },
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Beach%20Bowzers%20Showtape/027-0500-01%20s0049.wav",
+      "label": "Showtape Rip w/ Signals (#2)"
+    },
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Beach%20Bowzers%20Showtape/027-0500-01%20s006.wav",
+      "label": "Showtape Rip w/ Signals (#3)"
+    },
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/CEC%20Beach%20Bowzers%20Showtape/027-0500-01xx%20s0020.wav",
+      "label": "Showtape Rip w/ Signals (#4)"
+    },
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Beach%20Bowzers%20%28OK%29/Beach%20Bowzers%20%28OK%29.wav",
+      "label": "Showtape Rip w/ Signals (#5)"
+    },
+    {
+      "url": "https://archive.org/download/be213cf6-0473-11f1-a23e-71cdfab6c364/Beach%20Bowzers%20Cabaret%20Tape/027-050-10%20gv.wav",
+      "label": "Showtape Rip w/ Signals (#6)"
+    }
+  ]
+}

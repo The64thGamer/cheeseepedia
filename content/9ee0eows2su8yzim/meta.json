@@ -1,0 +1,41 @@
+{
+  "title": "Tampa, FL (14308 Dale Mabry Hwy)",
+  "storeNumber": "",
+  "startDate": "1991-07-01",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-07-01",
+      "e": "1995-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1994-00-00",
+      "e": "2019-08-28",
+      "desc": "One of 4 installed in Florida. Replaced by Dance Floor."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-08-29",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "28.07526637",
+    "-82.50890098"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "k9HkefN8G7kJesuyLLeN.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

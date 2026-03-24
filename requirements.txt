@@ -1,5 +1,0 @@
-python-frontmatter
-PyYAML
-pyvips[binary]
-matplotlib
-toml

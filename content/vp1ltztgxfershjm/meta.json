@@ -1,0 +1,41 @@
+{
+  "title": "Bel Air, MD (5 Bel Air South Pkwy)",
+  "storeNumber": "",
+  "startDate": "1993-03-29",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-03-29",
+      "e": "2019-11-20",
+      "desc": "1-Stage w/ 2-Stage Backdrops"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-11-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Super Fun by Chuck E. Cheese",
+      "s": "2026-00-00"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.49577447",
+    "-76.32814143"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "po9XJw0XvUXYKwevdA7O.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

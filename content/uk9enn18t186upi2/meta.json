@@ -1,0 +1,50 @@
+{
+  "title": "Green Bay, WI (1273 Lombardi Access)",
+  "storeNumber": "",
+  "startDate": "1982-10-28",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1991-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 3 3-Stages in Wisconsin to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Beta."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2021-09-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "44.50504167",
+    "-88.07570803"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "2CwFz70Fh3eC4TYN2dVR.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ]
+}

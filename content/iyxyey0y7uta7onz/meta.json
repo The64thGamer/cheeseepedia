@@ -1,0 +1,71 @@
+{
+  "title": "First Quarter 2014 Show",
+  "startDate": "2014-01-01",
+  "endDate": "2014-03-31",
+  "pageThumbnailFile": "zk2IfDQiirivpgODzHvi.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Himitsu",
+    "CyCGM",
+    "RedaCEC",
+    "Cy's Junk at School",
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Betty, Singing Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef, Justin Beaver"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Steve Waters"
+    },
+    {
+      "n": "Paul Taylor",
+      "role": "Larry The Technician"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager, Voice of Helen Henny's Hollywood Announcer, Singer (Kitten in the Kitchen)"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch"
+    },
+    {
+      "n": "Donovan Marcelle",
+      "role": "Existing Stage Programmer"
+    }
+  ],
+  "citations": [
+    "https://youtu.be/qCyoDhgTEts"
+  ],
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "Studio C USB + MicroSD",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "mediaDuration": "1:13:07",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

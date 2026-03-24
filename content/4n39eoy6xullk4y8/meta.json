@@ -1,0 +1,251 @@
+{
+  "title": "Stockton, CA (4555 N Pershing Ave)",
+  "storeNumber": "",
+  "startDate": "1979-10-00",
+  "endDate": "1998-00-00",
+  
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1979-10-00"
+    },
+    {
+      "n": "PTT 1981 Exterior Update",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "PTT Early Cyberamic Replacements",
+      "s": "1983-00-00"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "2-Wall"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "1998-12-00",
+      "desc": "One of many installed in California."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Atari Football",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "Seen at the opening."
+    },
+    {
+      "n": "Cheese Crawl",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "Seen at the opening."
+    },
+    {
+      "n": "Lunar Lander",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "Seen at the opening."
+    },
+    {
+      "n": "Warrior",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "Seen at the opening."
+    },
+    {
+      "n": "Space Invaders",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in February and December 1980."
+    },
+    {
+      "n": "Galaxy",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in December 1980."
+    },
+    {
+      "n": "Air Hockey",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in December 1980."
+    },
+    {
+      "n": "'Driving Skill Games'",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in December 1980."
+    },
+    {
+      "n": "Spy Hunter",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Played by customer in late 80's, early 90's."
+    },
+    {
+      "n": "Metal Typer",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in photo."
+    },
+    {
+      "n": "Star Wars",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Played by customer in late 80's, early 90's."
+    },
+    {
+      "n": "Pole Position",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Played by customer in late 80's, early 90's."
+    },
+    {
+      "n": "Solar Warrior",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Played by customer in late 80's, early 90's."
+    },
+    {
+      "n": "Skeet Shooting",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Played by customer in late 80's, early 90's."
+    }
+  ],
+  "sqft": "7,114",
+  "latitudeLongitude": [
+    "37.98592732",
+    "-121.324278"
+  ],
+  "citations": [
+    "https://www.newspapers.com/article/oakland-tribune/82325882/",
+    "https://www.newspapers.com/article/the-peninsula-times-tribune/105027559/",
+    "https://archive.org/details/play-meter-update-volume-5-number-12-july-1st-1979/Play%20Meter%20Update%20-%20Volume%205%2C%20Number%2012%20-%20July%201st%201979/page/n1/mode/2up?q=pizza+time+theatre",
+    "https://www.showbizpizza.com/info/promo/ptt/ptt_78kooser.pdf",
+    "https://www.newspapers.com/article/the-sacramento-union/180628029/",
+    "https://www.newspapers.com/article/the-sacramento-union/180627977/",
+    "https://www.newspapers.com/article/the-modesto-bee/124627642/",
+    "https://dn720006.ca.archive.org/0/items/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1_text.pdf",
+    "https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/page/n1/mode/2up?q=stockton",
+    "https://ia601503.us.archive.org/21/items/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-1_text.pdf",
+    "https://archive.org/details/the-pizza-times-newsletters/1982%20The%20Pizza%20Times%202-4",
+    "https://archive.org/details/stockton-ports-1993-pocket-schedule-w-chuck-e-cheeses-pizza-ad/Scan_20211029.jpg",
+    "https://www.reddit.com/r/Stockton/comments/1g70z7a/dose_anybody_have_any_photos_memories_stories_or/",
+    "https://youtu.be/6z7pjjao9Po",
+    "https://www.newspapers.com/article/the-modesto-bee/67572747/",
+    "https://www.newspapers.com/article/the-fresno-bee-cec-assaulted/139628207/",
+    "https://www.newspapers.com/article/the-modesto-bee/67572963/",
+    "https://youtu.be/MaDpco-Pj1s",
+    "https://archive.org/details/rgergesrgerg/542347857.pdf",
+    "https://archive.org/details/rgergesrgerg/rgergesrgerg.pdf",
+    "https://files.core.ac.uk/download/542347848.pdf",
+    "https://files.core.ac.uk/download/554057888.pdf",
+    "https://files.core.ac.uk/download/554057909.pdf",
+    "https://www.commercialsearch.com/commercial-property/us/ca/stockton/venetian-square-3/",
+    "https://aca-prod.accela.com/stockton/default.aspx"
+  ],
+  "contributors": [
+    "sudo trans --pony"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1998-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1998-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1998-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1998-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "1998-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dolli Dimples (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Artie Antlers (Cyberamic)",
+      "s": "1980-00-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "l": "N/A",
+      "desc": "Unknown"
+    }
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "9iZgkgdFP2DqRNRmaqwJ.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

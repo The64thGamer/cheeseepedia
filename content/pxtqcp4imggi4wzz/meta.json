@@ -1,0 +1,45 @@
+{
+  "title": "Happy Holidays 2011",
+  "startDate": "2011-11-25",
+  "endDate": "2012-01-01",
+  "pageThumbnailFile": "Tackma4NbxyctGVjKWVN.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "StudioC",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://archive.org/download/3stage_dvd_signals/December%202011%203-stage-002.iso"
+  ],
+  "credits": [
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    }
+  ],
+  "mediaDuration": "1:21:34",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/December%202011%203-stage-002.iso",
+      "label": "3-Stage DVD ISO"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

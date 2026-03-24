@@ -1,0 +1,87 @@
+{
+  "title": "April 2007 Show",
+  "startDate": "2007-04-01",
+  "endDate": "2007-06-30",
+  "pageThumbnailFile": "IcvRObASccnL7qxSIw4I.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "BurgersNuggs445",
+    "RedaCEC",
+    "Anonymous",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://showbizpizza.com/info/documents/cec/cec_focus-2007-01.pdf"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Show Announcer (Segment 1)"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Show Announcer (Segment 4)"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    },
+    {
+      "n": "Deva George",
+      "role": "Animator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Scriptwriter"
+    }
+  ],
+  "mediaDuration": "1:07:13",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD",
+    "3-Stage SVHS (Post-93)",
+    "R12 SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/April%202007%203-stage-006.iso",
+      "label": "3-Stage DVD ISO w/ Signals"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/April%202007%20Studio%20C.iso",
+      "label": "Studio C DVD ISO"
+    }
+  ],
+  "alsoKnownAs": [
+    "Studio C Valid April 1st - June 30th, 2007"
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

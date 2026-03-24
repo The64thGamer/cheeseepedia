@@ -1,0 +1,30 @@
+{
+  "title": "Tukwila, WA (17195 Southcenter Pkwy)",
+  "storeNumber": "",
+  "startDate": "1982-00-00",
+  "endDate": "1987-00-00",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-00-00",
+      "e": "1987-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "47.4493892",
+    "-122.2632080"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

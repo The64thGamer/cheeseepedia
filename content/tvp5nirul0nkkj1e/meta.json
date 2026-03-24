@@ -1,0 +1,41 @@
+{
+  "title": "Deptford, NJ (1500 Almonesson Rd)",
+  "storeNumber": "",
+  "startDate": "1991-11-12",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-11-12",
+      "e": "1995-00-00"
+    },
+    {
+      "n": "1-Stage",
+      "s": "1995-00-00",
+      "e": "2022-12-13",
+      "desc": "1-Stage w/ 2-Stage props"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-12-14",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.82532117",
+    "-75.10387053"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "2k6MZy_sgnfaddOZlazQ.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

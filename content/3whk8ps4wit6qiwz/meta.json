@@ -1,0 +1,40 @@
+{
+  "title": "Summer 2008 Show",
+  "startDate": "2008-07-01",
+  "endDate": "2008-08-00",
+  "pageThumbnailFile": "FHNOL6LIzgB1eDf7kwjY.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Cyber Snout",
+    "Anonymous",
+    "Dame",
+    "AstridMascotFan2005",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://showbizpizza.com/info/documents/cec/cec_dept18-2008-07.pdf"
+  ],
+  "credits": [
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
+  ],
+  "showtapeFormats": [
+    "3-Stage DVD",
+    "Cyberamics DVD",
+    "Studio C 3x DVD + Floppy"
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

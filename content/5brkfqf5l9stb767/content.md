@@ -1,0 +1,1 @@
+***A Chuck E. Cheese Christmas*** is the first special and pilot of the [Chuck E. And Friends!] TV Show, releasing with an early watch party that premieres at all Chuck E. Cheese locations on November 23rd, 2025, and releasing in full on YouTube and Amazon Prime Video on November 27th.

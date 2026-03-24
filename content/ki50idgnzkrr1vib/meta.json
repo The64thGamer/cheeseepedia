@@ -1,0 +1,79 @@
+{
+  "title": "Holiday 2002",
+  "startDate": "2002-12-00",
+  "endDate": "2002-12-00",
+  "pageThumbnailFile": "Tackma4NbxyctGVjKWVN.avif",
+  "contributors": [
+    "sudo trans --pony",
+    "Ceclife13",
+    "Cy's Junk at School"
+  ],
+  "citations": [
+    "https://archive.org/download/studio_c_showtape_dvds/December%202002%20Studio%20C.iso"
+  ],
+  "credits": [
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Mike Manly, Larry The Technician, Backup Singer 'Happy Holidays'"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager, Backup Singer 'Happy Holidays'"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, Backup Singer 'Happy Holidays'"
+    },
+    {
+      "n": "Eddie Coker",
+      "role": "Lead Singer 'Happy Holidays'"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    }
+  ],
+  "mediaDuration": "1:07:04",
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "R12 SVHS (Post-93)",
+    "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgrade.img",
+      "label": "Studio C Floppy Disk"
+    },
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeVerB.img",
+      "label": "Studio C Floppy Disk (Ver. B)"
+    },
+    {
+      "url": "https://archive.org/download/studio-c-floppy-discs-rips/HappyHolidays2002ShowUpgradeFinal.img",
+      "label": "Studio C Floppy Disk (Final Upgrade)"
+    },
+    {
+      "url": "https://archive.org/download/studio_c_showtape_dvds/December%202002%20Studio%20C.iso"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

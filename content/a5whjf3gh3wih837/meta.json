@@ -1,0 +1,39 @@
+{
+  "title": "Newington, CT (3075 Berlin Turnpike)",
+  "storeNumber": "",
+  "startDate": "1991-10-29",
+  "endDate": "",
+  
+  "remodels": [],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-10-29",
+      "e": "1995-00-00"
+    },
+    {
+      "n": "1-Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.66496927",
+    "-72.72348093"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "XXeVjr5gfUWnISwZCb4T.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}

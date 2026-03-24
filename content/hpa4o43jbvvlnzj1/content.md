@@ -1,0 +1,6 @@
+The ***Billy Bob Cyberstar Walkaround* was a walkaround intended to be used exclusively for the [Cyberstar Segments]. at the [ShowBiz Pizza Time Corporate Office].
+The walkaround was produced by J&M Costumers, alongside the other costumes used in the Cyberstar videos.[1]**
+
+## Variants
+
+There was a version of the Billy Bob Walkaround that was specifically made for The Cyberstar videos, but wasn't used in videos, instead they used the [Billy Bob Standard Walkaround] it is unclear why they didn't use the one made. The way you would be able to see out of the costume was possibly through the eyes or mouth.

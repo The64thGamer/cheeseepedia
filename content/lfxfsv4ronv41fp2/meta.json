@@ -1,0 +1,114 @@
+{
+  "title": "Farmingdale, NY (229 Broadhollow Rd./Rt. 110)",
+  "startDate": "1993-00-00",
+  "endDate": "2014-00-00",
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1993-00-00",
+      "e": "2014-00-00"
+    }
+  ],
+  "franchisees": [],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 1-47",
+      "desc": "Owned by private collector."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 2-47",
+      "desc": "Owned by private collector."
+    },
+    {
+      "n": "Fatz Geromino (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 3-47",
+      "desc": "Owned by private collector."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 4-47",
+      "desc": "Owned by private collector."
+    },
+    {
+      "n": "Mitzi Mozzerella (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 5-47",
+      "desc": "Owned by private collector."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 6-47",
+      "desc": "Owned by private collector."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 7-47",
+      "desc": "Owned by private collector."
+    },
+    {
+      "n": "Choo-Choo (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 8-47",
+      "desc": "Owned by private collector."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 9-47",
+      "desc": "Owned by private collector."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 10-47",
+      "desc": "Owned by private collector."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "1-83 11-47",
+      "desc": "Owned by private collector."
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.71481886138825",
+    "-73.42656605338004"
+  ],
+  "citations": [
+    "Newspapers.com, Newsday, 1993-2011",
+    "https://www.youtube.com/watch?v=5AHHayUEAa4",
+    "https://web.archive.org/web/*/http://www.funzoneamusements.com/",
+    "https://www.facebook.com/funzonefarmingdaleny/",
+    "https://www.tapatalk.com/groups/retro_pizza_zone/tills-totally-terrible-thotos-t6527-s460.html",
+    "https://westseattleblog.com/2012/02/west-seattle-businesses-whats-up-in-the-former-petco-space/"
+  ],
+  "contributors": [
+    "Stripes"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Other FECs"
+  ]
+}

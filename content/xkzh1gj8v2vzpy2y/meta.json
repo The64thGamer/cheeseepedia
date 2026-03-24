@@ -1,0 +1,42 @@
+{
+  "title": "Harmony Howlette's Wild West Show",
+  "startDate": "1981-00-00",
+  "endDate": "0000-00-00",
+  "pageThumbnailFile": "Now-Appearing-Harmony-Howlette.avif",
+  "contributors": [
+    "Luigigamin212",
+    "Ceclife13"
+  ],
+  "citations": [
+    "https://www.youtube.com/playlist?list=PLTXoj5l850hHY0I08ORdUcE4ig7eAd6X3"
+  ],
+  "showtapeFormats": [
+    "Cyberamics Reel"
+  ],
+  "credits": [
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Nancy Lenehan",
+      "role": "Voice of Harmony Howlette"
+    },
+    {
+      "n": "Fritz Heilbron",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Joe Spano",
+      "role": "Voice of Pasqually the Chef"
+    }
+  ],
+  "type": "Showtapes",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Summertime 2006",
+  "startDate": "2006-07-00",
+  "endDate": "2006-08-00",
+  "pageThumbnailFile": "xtTy7iCQBlJJCf40JMlv.avif",
+  "contributors": [
+    "Ceclife13",
+    "Anonymous"
+  ],
+  "citations": [
+    "https://archive.org/download/3stage_dvd_signals/June%202006%203-Stage-005.iso"
+  ],
+  "credits": [
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
+  ],
+  "showtapeFormats": [
+    "Studio C 3x DVD + Floppy",
+    "3-Stage DVD",
+    "Cyberamics DVD",
+    "3-Stage SVHS (Post-93)",
+    "R12 SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/3stage_dvd_signals/June%202006%203-Stage-005.iso",
+      "label": "3-Stage DVD ISO"
+    }
+  ],
+  "mediaDuration": "1:16:19",
+  "type": "Showtapes",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
+}
