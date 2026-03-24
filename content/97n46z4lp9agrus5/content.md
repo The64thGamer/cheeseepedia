@@ -1,4 +1,4 @@
-***Winchester Madam Oink* was a Guest Star animatronic featured at the first Pizza Time Theatre in [San Jose, CA (370 S Winchester Blvd)].**
+***Winchester Madam Oink ***was a Guest Star animatronic featured at the first Pizza Time Theatre in [San Jose, CA (370 S Winchester Blvd)].
 
 ## History
 
@@ -10,17 +10,17 @@ Madam Oink had short white hair, hazel eyes, a green dress, a white necklace, a 
 
 ## Movements
 
-- Mouth
-- Eyes Left
-- Eyes Right
-- Eyes Up
-- Eyes Down
-- Eyelids
-- Head Up
-- Head Tilt
-- Head Turn Right
-- Body Turn Right + Left Arm Twist
-- Right Arm Up
-- Right Elbow
+* Mouth
+* Eyes Left
+* Eyes Right
+* Eyes Up
+* Eyes Down
+* Eyelids
+* Head Up
+* Head Tilt
+* Head Turn Right
+* Body Turn Right + Left Arm Twist
+* Right Arm Up
+* Right Elbow
 
-https://www.showbizpizza.com/ptp/characters/madameoink_winchester.jpg
+https://www.showbizpizza.com/ptp/characters/madameoink\_winchester.jpg

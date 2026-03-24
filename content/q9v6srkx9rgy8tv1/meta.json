@@ -7,10 +7,22 @@
     "Ceclife13"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Robert Gotcher|Director",
-    "Michael Hill|Studio Coordinator",
-    "Ryan Hollingsworth|Production Specialist"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
   ],
   "type": "Live Shows",
   "tags": [

@@ -13,15 +13,42 @@
     "Ceclife13"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician",
-    "Karlisa Burleson|Voice of Helen Henny",
-    "Annagrey Wiechman|Singing Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch, Show Announcer",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Will Frye The Nutrition Guy, Bystander, Hillbilly",
-    "Robert Gotcher|Production Coordinator, Hillbilly",
-    "Brian Hagan|Studio Manager, Paparazzi",
-    "Brent Gray|Studio Coordinator"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Larry The Technician"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch, Show Announcer"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Will Frye The Nutrition Guy, Bystander, Hillbilly"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator, Hillbilly"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager, Paparazzi"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    }
   ],
   "mediaDuration": "1:18:18",
   "citations": [],

@@ -1,5 +1,5 @@
 {
-  "cuDate": "",
+  
   "title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
   "startDate": "1999-09-00",
   "endDate": "2009-00-00",
@@ -120,28 +120,28 @@
       "s": "1999-09-00",
       "e": "2009-00-00",
       "l": "053",
-      "st": "Sent to Goodyear, AZ"
+      "desc": "Sent to Goodyear, AZ"
     },
     {
       "n": "Bird (Animatronic)",
       "s": "1999-09-00",
       "e": "2009-00-00",
       "l": "Unknown",
-      "st": "Unknown."
+      "desc": "Unknown."
     },
     {
       "n": "Pizza Phone (Animatronic)",
       "s": "1999-09-00",
       "e": "2009-00-00",
       "l": "Unknown",
-      "st": "Unknown."
+      "desc": "Unknown."
     },
     {
       "n": "Pizza Time Clock (Animatronic)",
       "s": "1999-09-00",
       "e": "2009-00-00",
       "l": "N/A",
-      "st": "Sent to Goodyear, AZ"
+      "desc": "Sent to Goodyear, AZ"
     }
   ],
   "franchisees": [

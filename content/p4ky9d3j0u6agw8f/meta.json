@@ -3,11 +3,14 @@
   "storeNumber": "",
   "startDate": "1982-04-22",
   "endDate": "",
-  "cuDate": "",
   "remodels": [
     {
       "n": "Low Volume Store Initiative",
       "s": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
     }
   ],
   "stages": [

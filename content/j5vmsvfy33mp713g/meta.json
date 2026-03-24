@@ -23,27 +23,92 @@
     "Chuck E. Cheese's"
   ],
   "credits": [
-    "Executive Producer, Song Co-Writer|Jon Colton Barry",
-    "Character Designer|Bobby Pontillas",
-    "Senior Vice President of Production & Development|Sadaf Cohen Muncy",
-    "Co-Director, Writer, Song Co-Writer|Zac Moncrief",
-    "Unknown|Patrick O'Connor",
-    "Voice of Chuck E. Cheese|Nathan Kress",
-    "VA|Grey Griffin",
-    "VA|Nolan North",
-    "VA|Kari Wahlgren",
-    "VA|Fred Tatasciore",
-    "Song Co-Writer|Jeff Barry",
-    "Composer|Ben Bromfield",
-    "Production|HappyNest",
-    "Animation|Pixel Zoo Animation Studios",
-    "Director|Steve Trenbirth",
-    "Lead|Paul Gillett",
-    "Matt Daniel",
-    "Media Licensing|Melissa Mcleanas",
-    "Legal|David Deck",
-    "Director of Development|Derek Switaj",
-    "Licensing & Merchandise|Matt Cwieka",
-    "Manager of Creative Development|Mackenzie Malpass"
+    {
+      "n": "Executive Producer, Song Co-Writer",
+      "role": "Jon Colton Barry"
+    },
+    {
+      "n": "Character Designer",
+      "role": "Bobby Pontillas"
+    },
+    {
+      "n": "Senior Vice President of Production & Development",
+      "role": "Sadaf Cohen Muncy"
+    },
+    {
+      "n": "Co-Director, Writer, Song Co-Writer",
+      "role": "Zac Moncrief"
+    },
+    {
+      "n": "Unknown",
+      "role": "Patrick O'Connor"
+    },
+    {
+      "n": "Voice of Chuck E. Cheese",
+      "role": "Nathan Kress"
+    },
+    {
+      "n": "VA",
+      "role": "Grey Griffin"
+    },
+    {
+      "n": "VA",
+      "role": "Nolan North"
+    },
+    {
+      "n": "VA",
+      "role": "Kari Wahlgren"
+    },
+    {
+      "n": "VA",
+      "role": "Fred Tatasciore"
+    },
+    {
+      "n": "Song Co-Writer",
+      "role": "Jeff Barry"
+    },
+    {
+      "n": "Composer",
+      "role": "Ben Bromfield"
+    },
+    {
+      "n": "Production",
+      "role": "HappyNest"
+    },
+    {
+      "n": "Animation",
+      "role": "Pixel Zoo Animation Studios"
+    },
+    {
+      "n": "Director",
+      "role": "Steve Trenbirth"
+    },
+    {
+      "n": "Lead",
+      "role": "Paul Gillett"
+    },
+    {
+      "n": "Matt Daniel"
+    },
+    {
+      "n": "Media Licensing",
+      "role": "Melissa Mcleanas"
+    },
+    {
+      "n": "Legal",
+      "role": "David Deck"
+    },
+    {
+      "n": "Director of Development",
+      "role": "Derek Switaj"
+    },
+    {
+      "n": "Licensing & Merchandise",
+      "role": "Matt Cwieka"
+    },
+    {
+      "n": "Manager of Creative Development",
+      "role": "Mackenzie Malpass"
+    }
   ]
 }

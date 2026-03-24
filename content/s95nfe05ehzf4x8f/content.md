@@ -17,7 +17,7 @@ The survey would conclude some time around 5PM CDT on March 27th, 2024, giving e
 > 'Thank you so much for coming to our survey! We received thousands of great, thoughtful responses and we very much appreciate everyone's participation. We're sorry we missed your feedback this time around, but we plan to be conducting additional surveys soon!'
 
 By the closure, the original Reddit post still only had 33 upvotes and 48 comments. Most of the submissions came directly from word of mouth.
-While the exact count of responses nor any analytics were released, many public posts about taking the survey suggest most users picked the themed location to be retro themed, alongside the choice for other animatronics displays to be [Billings, MT (100 24th St)], [Hicksville, NY (Delco Plaza 11-15 Hanover Place)], [Springfield, IL (2369 McArthur Ave)], and [Charlotte, NC (7701 Pineville-Matthews Rd)].<sup>(5)(7)(8)(9)(10)</sup>
+While the exact count of responses nor any analytics were released, many public posts about taking the survey suggest most users picked the themed location to be retro themed, alongside the choice for other animatronics displays to be [Billings, MT (100 24th St)], [Hicksville, NY (Delco Plaza 11-15 Hanover Place)], [Springfield, IL (2369 McArthur Ave)], and [Charlotte, NC (7701 Pineville-Matthews Rd)].[5][7][8][9][10]
 The survey would re-open at an unknown time around March 29-30th, continuing to allow submissions. No statement announced the reopening. It would close again sometime within the week.
 
 ## Aftermath

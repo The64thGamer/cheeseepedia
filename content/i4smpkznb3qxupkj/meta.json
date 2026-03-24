@@ -29,11 +29,26 @@
     "https://youtu.be/DvIElzoMZ3M?si=yOSbd3D9ThJrU_kJ"
   ],
   "credits": [
-    "Daws Butler|Yogi Bear",
-    "Don Messick|Boo Boo",
-    "Lorraine Denham|Mitzi Mozzerella",
-    "Mark Brink|Fatz Geronimo",
-    "Joe Conti|Programmer"
+    {
+      "n": "Daws Butler",
+      "role": "Yogi Bear"
+    },
+    {
+      "n": "Don Messick",
+      "role": "Boo Boo"
+    },
+    {
+      "n": "Lorraine Denham",
+      "role": "Mitzi Mozzerella"
+    },
+    {
+      "n": "Mark Brink",
+      "role": "Fatz Geronimo"
+    },
+    {
+      "n": "Joe Conti",
+      "role": "Programmer"
+    }
   ],
   "showtapeFormats": [
     "CEI 8-Track Reel"

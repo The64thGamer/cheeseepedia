@@ -9,7 +9,10 @@
     "Ceclife13"
   ],
   "credits": [
-    "Bob Sarlatte|Voice of The King"
+    {
+      "n": "Bob Sarlatte",
+      "role": "Voice of The King"
+    }
   ],
   "citations": [
     "Showtape Image"

@@ -3,5 +3,8 @@
   "type": "Transcriptions",
   "contributors": [
     "sudo trans --pony"
+  ],
+  "tags": [
+    "Circus Tape"
   ]
 }

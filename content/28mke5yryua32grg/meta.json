@@ -13,7 +13,10 @@
     "Ceclife13"
   ],
   "credits": [
-    "Lady Bianca|Voice of Dolli Dimples"
+    {
+      "n": "Lady Bianca",
+      "role": "Voice of Dolli Dimples"
+    }
   ],
   "citations": [],
   "pageThumbnailFile": "lVtaRKygc5MC4ujWs7ii.avif",

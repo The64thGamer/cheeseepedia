@@ -3,7 +3,7 @@
   "storeNumber": "",
   "startDate": "1981-08-00",
   "endDate": "1986-00-00",
-  "cuDate": "",
+  
   "remodels": [],
   "stages": [
     {
@@ -25,63 +25,63 @@
       "s": "1981-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Owned by 80's Girl / Kobun37"
+      "desc": "Owned by 80's Girl / Kobun37"
     },
     {
       "n": "Guest Star Helen Henny (Cyberamic)",
       "s": "1981-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Owned by Damon E. Breland"
+      "desc": "Owned by Damon E. Breland"
     },
     {
       "n": "Mr Munch (Cyberamic)",
       "s": "1981-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Owned by Damon E. Breland"
+      "desc": "Owned by Damon E. Breland"
     },
     {
       "n": "Jasper T Jowls (Cyberamic)",
       "s": "1981-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Owned by Damon E. Breland"
+      "desc": "Owned by Damon E. Breland"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "s": "1981-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Owned by Damon E. Breland"
+      "desc": "Owned by Damon E. Breland"
     },
     {
       "n": "Drum Board (Cyberamic)",
       "s": "1981-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Owned by Damon E. Breland"
+      "desc": "Owned by Damon E. Breland"
     },
     {
       "n": "Applause Board (Cyberamic)",
       "s": "1981-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Owned by Damon E. Breland"
+      "desc": "Owned by Damon E. Breland"
     },
     {
       "n": "Warblettes (Cyberamic)",
       "s": "1981-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Dolli Dimples (Cyberamic)",
       "s": "1981-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     }
   ],
   "attractions": [

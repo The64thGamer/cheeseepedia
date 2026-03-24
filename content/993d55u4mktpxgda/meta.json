@@ -1,5 +1,5 @@
 {
-  "cuDate": "",
+  
   "title": "Phoenix, AZ (3329 E Bell Rd)",
   "startDate": "1999-03-26",
   "endDate": "2015-01-00",
@@ -25,28 +25,28 @@
       "s": "1999-03-29",
       "e": "2015-01-00",
       "l": "unknown",
-      "st": "moved to Chandler, AZ)"
+      "desc": "moved to Chandler, AZ)"
     },
     {
       "n": "Bird (Animatronic)",
       "s": "1999-03-29",
       "e": "2015-01-00",
       "l": "unknown",
-      "st": "unknown"
+      "desc": "unknown"
     },
     {
       "n": "Pizza Time Clock (Animatronic)",
       "s": "1999-03-29",
       "e": "2015-01-00",
       "l": "unknown",
-      "st": "unknown"
+      "desc": "unknown"
     },
     {
       "n": "Pizza Phone (Animatronic)",
       "s": "1999-03-29",
       "e": "2015-01-00",
       "l": "unknown",
-      "st": "unknown"
+      "desc": "unknown"
     }
   ],
   "franchisees": [

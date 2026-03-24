@@ -11,16 +11,46 @@
     "https://archive.org/download/studio_c_showtape_dvds/January%202004%20Studio%20C-007.iso"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Show Announcer",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Robert Gotcher|Production Manager",
-    "Matt Daniel|Production Coordinator",
-    "Ryan Hollingsworth|Hank Howdy",
-    "Sammy Davenport|Music Director",
-    "Todrick Hall|Lead Dancer 'Sing a Song'"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Show Announcer"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Hank Howdy"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    },
+    {
+      "n": "Todrick Hall",
+      "role": "Lead Dancer 'Sing a Song'"
+    }
   ],
   "mediaDuration": "1:00:37",
   "showtapeFormats": [

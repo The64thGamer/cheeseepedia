@@ -1,7 +1,10 @@
 {
   "title": "Going Downhill",
   "type": "Transcriptions",
-  "tags": [],
+  "tags": [
+    "Country II",
+    "Country Klunk"
+  ],
   "startDate": "",
   "contributors": [
     "sudo trans --pony"

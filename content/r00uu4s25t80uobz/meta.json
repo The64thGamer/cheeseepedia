@@ -15,17 +15,50 @@
     "Ceclife13"
   ],
   "credits": [
-    "Jaret Reddick|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "Chris Hill|Voice of Mr. Munch, Scriptwriter (Pizza Plant)",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Mike Manly, Singing Voice of Pasqually the Chef",
-    "Earl Fisher|Voice of Pasqually The Chef, Justin Beaver, Show Announcer",
-    "Ryan Hollingsworth|Voice of Zoey, Charlie Rockit, Steve Waters",
-    "Paul Taylor|Larry The Technician",
-    "Matt Daniel|Production Manager, Voice of Hard Hat Hank, Marvin the Technology Guru",
-    "Dave Walzer|Bobby Bear, Songwriter (Arizona)",
-    "Michael Hill|Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch",
-    "Donovan Marcelle|Existing Stage Programmer"
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Chris Hill",
+      "role": "Voice of Mr. Munch, Scriptwriter (Pizza Plant)"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Mike Manly, Singing Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef, Justin Beaver, Show Announcer"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Voice of Zoey, Charlie Rockit, Steve Waters"
+    },
+    {
+      "n": "Paul Taylor",
+      "role": "Larry The Technician"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager, Voice of Hard Hat Hank, Marvin the Technology Guru"
+    },
+    {
+      "n": "Dave Walzer",
+      "role": "Bobby Bear, Songwriter (Arizona)"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch"
+    },
+    {
+      "n": "Donovan Marcelle",
+      "role": "Existing Stage Programmer"
+    }
   ],
   "citations": [
     "https://newmediarockstars.com/2014/09/chuck-e-cheese-rips-off-dude-like-hella-video/",

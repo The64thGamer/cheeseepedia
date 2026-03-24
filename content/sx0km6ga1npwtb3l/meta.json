@@ -3,7 +3,7 @@
   "storeNumber": "738",
   "startDate": "1981-10-21",
   "endDate": "",
-  "cuDate": "",
+  
   "remodels": [
     {
       "n": "SPT 1990's Remodel Program",
@@ -55,126 +55,126 @@
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "4-81 1-5",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Dook Larue (Animatronic)",
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "4-81 2-5",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Fatz Geronimo (Animatronic)",
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "4-81 3-5",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Beach Bear (Animatronic)",
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "4-81 4-5",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Mitzi Mozzarella (Animatronic)",
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "4-81 5-5",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Billy Bob (Animatronic)",
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "4-81 6-5",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Looney Bird (Animatronic)",
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "4-81 7-5",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Choo Choo (Animatronic)",
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "4-81 8-5",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Sun (Animatronic)",
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "4-81 11-5",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Moon (Animatronic)",
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "4-81 11-5",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Antioch (Animatronic)",
       "s": "1981-10-21",
       "e": "1984-01-08",
       "l": "N/A",
-      "st": "Sent to Miami, FL (19191 S Dixie Hwy)"
+      "desc": "Sent to Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "Uncle Klunk (Animatronic)",
       "s": "1983-00-00",
       "e": "1984-01-08",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Chuck E. Cheese (Cyberamic)",
       "s": "1992-09-08",
       "e": "2019-10-30",
       "l": "Unknown",
-      "st": "Sent to Florence, KY (7635 Mall Rd) for parts"
+      "desc": "Sent to Florence, KY (7635 Mall Rd) for parts"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "s": "1992-09-08",
       "e": "2019-10-30",
       "l": "Unknown",
-      "st": "Sent to Florence, KY (7635 Mall Rd) for parts"
+      "desc": "Sent to Florence, KY (7635 Mall Rd) for parts"
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "s": "1992-09-08",
       "e": "2019-10-30",
       "l": "Unknown",
-      "st": "Sent to Florence, KY (7635 Mall Rd) for parts"
+      "desc": "Sent to Florence, KY (7635 Mall Rd) for parts"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "s": "1992-09-08",
       "e": "2019-10-30",
       "l": "Unknown",
-      "st": "Sent to Florence, KY (7635 Mall Rd) for parts"
+      "desc": "Sent to Florence, KY (7635 Mall Rd) for parts"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "s": "1992-09-08",
       "e": "2019-10-30",
       "l": "Unknown",
-      "st": "Sent to Florence, KY (7635 Mall Rd) for parts"
+      "desc": "Sent to Florence, KY (7635 Mall Rd) for parts"
     },
     {
       "n": "Wink",
       "s": "1992-09-08",
       "e": "2019-10-30",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     }
   ],
   "sqft": "10,406",

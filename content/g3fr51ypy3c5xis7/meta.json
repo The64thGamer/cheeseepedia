@@ -12,14 +12,37 @@
     "Luigigamin212"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Stephanie Nadolny|Voice of Helen Henny",
-    "Doug Teel|Voice of Mr. Munch",
-    "Reggie Smith|Voice of Jasper T. Jowls",
-    "Joel McCrary|Voice of Pasqually The Chef",
-    "Jeremy Blaido|VJ, Voice of Charlie Rockit",
-    "Robert Gotcher",
-    "David Robinson|Programmer"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Stephanie Nadolny",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Doug Teel",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Reggie Smith",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Joel McCrary",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "VJ, Voice of Charlie Rockit"
+    },
+    {
+      "n": "Robert Gotcher"
+    },
+    {
+      "n": "David Robinson",
+      "role": "Programmer"
+    }
   ],
   "citations": [
     "https://www.youtube.com/watch?v=8BErEtQIxuw"
@@ -33,11 +56,6 @@
   "type": "Showtapes",
   "tags": [
     "Chuck E. Cheese's"
-  ],
-  "transcriptions": [
-    "April 1994 Segment 1",
-    "April 1994 Segment 2",
-    "April 1994 Segment 3"
   ],
   "alsoKnownAs": []
 }

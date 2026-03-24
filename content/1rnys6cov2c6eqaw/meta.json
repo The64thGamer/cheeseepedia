@@ -17,14 +17,38 @@
     "https://youtu.be/wzM8V_eEpiY"
   ],
   "credits": [
-    "Duncan Brannan|Scriptwriter, Voice of Chuck E. Cheese, Dr. Phil",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Lulu, Show Announcer",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Robert Gotcher|Director",
-    "Michael Hill|Studio Coordinator",
-    "Ryan Hollingsworth|Production Specialist"
+    {
+      "n": "Duncan Brannan",
+      "role": "Scriptwriter, Voice of Chuck E. Cheese, Dr. Phil"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Lulu, Show Announcer"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
   ],
   "mediaDuration": "1:02:00",
   "showtapeFormats": [

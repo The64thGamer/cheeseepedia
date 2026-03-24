@@ -2,12 +2,10 @@
   "recommend": true,
   "title": "Good showtape!",
   "startDate": "2025-09-02",
-  "page": "CEC Movie Magic",
   "contributors": [
     "crowdigger18"
   ],
   "type": "Reviews",
-  "tags": [
-    "User-Generated Content"
+  "tags": ["CEC Movie Magic"
   ]
 }

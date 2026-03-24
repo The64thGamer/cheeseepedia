@@ -14,14 +14,38 @@
     "https://archive.org/download/studio_c_showtape_dvds/April%202002%20Studio%20C-008.iso"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch, Show Announcer",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Jeremy Blaido|Director, Voice of Jasper, Mike Manly, Betty",
-    "Robert Gotcher|Production Manager",
-    "Matt Daniel|Production Coordinator",
-    "Ryan Hollingsworth|Hank Howdy"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch, Show Announcer"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper, Mike Manly, Betty"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Hank Howdy"
+    }
   ],
   "mediaDuration": "53:47",
   "showtapeFormats": [

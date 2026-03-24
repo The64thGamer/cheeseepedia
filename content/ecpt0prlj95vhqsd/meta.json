@@ -3,7 +3,7 @@
   "storeNumber": "522",
   "startDate": "2003-06-00",
   "endDate": "",
-  "cuDate": "",
+  
   "remodels": [
     {
       "n": "SPT 1990's Remodel Program",
@@ -68,7 +68,7 @@
     "https://www.bwmtexas.com/photos/cec-fresno.jpg"
   ],
   "contributors": [
-    "CyberSnout",
+    "Cyber Snout",
     "Mozilla",
     "MultiMonorail"
   ],

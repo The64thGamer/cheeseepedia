@@ -9,6 +9,9 @@ import buildCitationLinker
 import buildContributors
 import buildSearch
 import buildFinalData
+import buildMapPins
+import buildLocationInventoryLinker
+import buildRelated
 
 def main():
     print("Start")
@@ -17,5 +20,8 @@ def main():
     buildArticleLinker.main()
     buildCitationLinker.main()
     buildContributors.main()
+    buildMapPins.main()
+    buildLocationInventoryLinker.main()
+    buildRelated.main()
 
     buildFinalData.main()

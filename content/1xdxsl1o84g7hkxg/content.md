@@ -1,4 +1,4 @@
-the ***Winchester Helen Henny Animatronic* was an animatronic version of [Helen Henny] created in August 1977 by [Fantasy Forest] for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)]. The Bot was removed in February 1978, when [Winchester Madam Oink (Animatronic)] was installed.**
+the ***Winchester Helen Henny Animatronic ***was an animatronic version of [Helen Henny] created in August 1977 by [Fantasy Forest] for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)]. The Bot was removed in February 1978, when [Winchester Madam Oink (Animatronic)] was installed.
 
 ## History
 

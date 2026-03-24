@@ -13,8 +13,14 @@
   "citations": [],
   "pageThumbnailFile": "6sj8PfgNhKY9tJ0HIAo0.avif",
   "credits": [
-    "Dolli Dimples VA|Donna Miller",
-    "Recording Studio|Corasound"
+    {
+      "n": "Dolli Dimples VA",
+      "role": "Donna Miller"
+    },
+    {
+      "n": "Recording Studio",
+      "role": "Corasound"
+    }
   ],
   "showtapeFormats": [
     "Cyberamics Reel"

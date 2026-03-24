@@ -13,9 +13,18 @@
   "citations": [],
   "pageThumbnailFile": "SROGxvYbK45yNGMEZXx3.avif",
   "credits": [
-    "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch",
-    "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef",
-    "Connie Nelson|Voice of Helen Henny"
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    },
+    {
+      "n": "Connie Nelson",
+      "role": "Voice of Helen Henny"
+    }
   ],
   "showtapeFormats": [
     "C&R SVHS (Pre-93)",

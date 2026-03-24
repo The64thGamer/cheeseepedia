@@ -1,0 +1,1 @@
+Chuck E. Cheese with a trophy from the Sandy location.

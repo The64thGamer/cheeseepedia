@@ -20,15 +20,42 @@
     "http://www.showbizpizza.com/info/documents/cec/cec_dept18-2010-04.pdf"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Jeremy Blaido|Voice of Jasper T. Jowls",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Robert Gotcher|Director",
-    "Michael Hill|Studio Coordinator",
-    "Deva George|Animator",
-    "Dave Wilson|Songwriter"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Deva George",
+      "role": "Animator"
+    },
+    {
+      "n": "Dave Wilson",
+      "role": "Songwriter"
+    }
   ],
   "mediaDuration": "1:38:21",
   "showtapeFormats": [
