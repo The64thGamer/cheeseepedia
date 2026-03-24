@@ -1,4 +1,4 @@
-![image](viewers/cep-js/assets/logos/CEPLogo.avif)
+![image](viewers/cep-js/assets/Logos/CEPLogo.avif)
 
 The animatronic archival website, Cheese-E-Pedia! Previously hosted through Miraheze using the MediaWiki platform, this website is now hosted through GitHub.
 
