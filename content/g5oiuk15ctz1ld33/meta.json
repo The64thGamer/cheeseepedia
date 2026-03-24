@@ -14,9 +14,18 @@
     "Ceclife13"
   ],
   "credits": [
-    "Matt Daniel|Production Coordinator",
-    "Michael Hill|Studio Coordinator",
-    "Jaret Reddick|Voice of Chuck E. Cheese"
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    }
   ],
   "citations": [],
   "pageThumbnailFile": "iolFogMS1MY5iGWu6ECc.avif",

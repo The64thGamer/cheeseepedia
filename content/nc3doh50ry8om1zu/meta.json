@@ -18,7 +18,10 @@
     "https://www.youtube.com/watch?v=2VAOVxh6HaM"
   ],
   "credits": [
-    "Joe Conti|Rolfe Dewolfe & Earl Schmerle"
+    {
+      "n": "Joe Conti",
+      "role": "Rolfe Dewolfe & Earl Schmerle"
+    }
   ],
   "showtapeFormats": [
     "ShowBiz SVHS"

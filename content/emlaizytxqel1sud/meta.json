@@ -11,15 +11,42 @@
     "https://archive.org/download/studio_c_showtape_dvds/September%202002%20Studio%20C.iso"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Mike Manley, Wick Ladderback, Betty, Show Announcer",
-    "Robert Gotcher|Production Manager",
-    "Matt Daniel|Production Coordinator, Shining Star, DJ",
-    "Ryan Hollingsworth|Hank Howdy",
-    "Sammy Davenport|Music Director"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Mike Manley, Wick Ladderback, Betty, Show Announcer"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, Shining Star, DJ"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Hank Howdy"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    }
   ],
   "mediaDuration": "1:17:07",
   "showtapeFormats": [

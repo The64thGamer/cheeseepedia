@@ -12,17 +12,29 @@
     "https://www.newspapers.com/image-view/1012353732/?clipping_id=135287216&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjEwMTIzNTM3MzIsImlhdCI6MTc2NTE1MTU5MiwiZXhwIjoxNzY1MjM3OTkyfQ.JIbcJH2IsSLhkhuouUEYMEGcIXwRmfBc--hFYW-MwzU"
   ],
   "credits": [
-    "John Widelock|Voice of Chuck E. Cheese",
-    "Lady Bianca|Voice of Sally Sashay",
-    "Fritz Heilbron|Voice of Mr. Munch",
-    "Scott Paulin|Voice of Jasper T. Jowls",
-    "Joe Spano|Voice of Pasqually the Chef"
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Lady Bianca",
+      "role": "Voice of Sally Sashay"
+    },
+    {
+      "n": "Fritz Heilbron",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Joe Spano",
+      "role": "Voice of Pasqually the Chef"
+    }
   ],
   "showtapeFormats": [
     "Cyberamics Reel"
-  ],
-  "transcriptions": [
-    "Salute to The Great American Railroad"
   ],
   "alsoKnownAs": [
     "SKIT-SALLY 1XMAS-USA 027-0019-10"

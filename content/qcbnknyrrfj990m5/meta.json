@@ -15,16 +15,46 @@
     "Ceclife13"
   ],
   "credits": [
-    "Jaret Reddick|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "Chris Hill|Voice of Mr. Munch",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Singing Voice of Pasqually the Chef",
-    "Earl Fisher|Voice of Pasqually The Chef, Justin Beaver",
-    "Ryan Hollingsworth|Voice of Zoey, Steve Waters",
-    "Matt Daniel|Production Manager, Voice of Hard Hat Hank, Marvin the Technology Guru",
-    "Eric Neal|Voice of Mike Wolf",
-    "Michael Hill|Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch",
-    "Donovan Marcelle|Existing Stage Programmer"
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Chris Hill",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Singing Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef, Justin Beaver"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Voice of Zoey, Steve Waters"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager, Voice of Hard Hat Hank, Marvin the Technology Guru"
+    },
+    {
+      "n": "Eric Neal",
+      "role": "Voice of Mike Wolf"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch"
+    },
+    {
+      "n": "Donovan Marcelle",
+      "role": "Existing Stage Programmer"
+    }
   ],
   "mediaDuration": "56:28",
   "citations": [],

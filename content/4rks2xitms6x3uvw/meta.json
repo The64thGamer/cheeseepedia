@@ -14,14 +14,38 @@
     "https://archive.org/download/studio-c-floppy-discs-rips/July2001Upgrade.img"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Director",
-    "Brian Hagan|Studio Manager",
-    "Robert Gotcher|Production Coordinator",
-    "Brent Gray|Studio Coordinator"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Director"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    }
   ],
   "mediaDuration": "35:22",
   "showtapeFormats": [

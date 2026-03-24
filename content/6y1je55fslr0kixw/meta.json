@@ -12,9 +12,18 @@
   ],
   "citations": [],
   "credits": [
-    "Jeremy Blaido|Director",
-    "Robert Gotcher|Production Manager",
-    "Matt Daniel|Production Coordinator"
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    }
   ],
   "showtapeFormats": [
     "Studio C 3x DVD + Floppy",

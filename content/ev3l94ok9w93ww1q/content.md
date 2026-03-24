@@ -1,5 +1,4 @@
-***Winchester Pasqually* was an animatronic created by [Fantasy Forest] for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)] as an animatronic version of [Pasqually]. The bot was controlled & programmed through the [Winchester Control System] & [Winchester Hardware Setup].
-The bot was used at Winchester from 1977 until it's replacement in 1981 when Winchester received [Cyberamics].**
+***Winchester Pasqually ***was an animatronic created by [Fantasy Forest] for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)] as an animatronic version of [Pasqually]. The bot was controlled & programmed through the [Winchester Control System] & [Winchester Hardware Setup].The bot was used at Winchester from 1977 until it's replacement in 1981 when Winchester received [Cyberamics].
 
 ## History
 
@@ -31,7 +30,7 @@ During his stay at the [ShowBiz Pizza Time Corporate Office], most of his cosmet
 
 ## Movements
 
-- Doors
-- Mouth
-- Eyelids
-- Mustache
+* Doors
+* Mouth
+* Eyelids
+* Mustache

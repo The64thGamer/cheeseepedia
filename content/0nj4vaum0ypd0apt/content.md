@@ -1,0 +1,1 @@
+Sandy's Chuck E. Cheese with what looks like a beauty pageant

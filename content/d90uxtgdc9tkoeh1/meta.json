@@ -14,18 +14,42 @@
     "https://youtu.be/c6zUGfr4BRE?si=pk1q2xQdjPFpgwBJ"
   ],
   "credits": [
-    "Creative Engineering / Creative Records|Production Studio",
-    "Skitzo Noize / The Tropical Cleaners|Instrumentals / vocals",
-    "Aaron Fechter|Rolfe, Earl, Billy Bob, Looney Bird, Beach Bear vocals",
-    "Duke Chauppetta|Dook LaRue vocals / Song writer",
-    "Burt Wilson|Fatz Geronimo vocals / Song writer",
-    "Shalisa Sloan|Mitzi Mozzarella vocals",
-    "Rick Bailey|Moon vocals / Background vocalist",
-    "Jeff Howell|Song writer / Background vocalist",
-    "Kathy Norman|Show programmer"
-  ],
-  "transcriptions": [
-    "Abbey Road Medley"
+    {
+      "n": "Creative Engineering / Creative Records",
+      "role": "Production Studio"
+    },
+    {
+      "n": "Skitzo Noize / The Tropical Cleaners",
+      "role": "Instrumentals / vocals"
+    },
+    {
+      "n": "Aaron Fechter",
+      "role": "Rolfe, Earl, Billy Bob, Looney Bird, Beach Bear vocals"
+    },
+    {
+      "n": "Duke Chauppetta",
+      "role": "Dook LaRue vocals / Song writer"
+    },
+    {
+      "n": "Burt Wilson",
+      "role": "Fatz Geronimo vocals / Song writer"
+    },
+    {
+      "n": "Shalisa Sloan",
+      "role": "Mitzi Mozzarella vocals"
+    },
+    {
+      "n": "Rick Bailey",
+      "role": "Moon vocals / Background vocalist"
+    },
+    {
+      "n": "Jeff Howell",
+      "role": "Song writer / Background vocalist"
+    },
+    {
+      "n": "Kathy Norman",
+      "role": "Show programmer"
+    }
   ],
   "type": "Showtapes",
   "tags": [

@@ -25,21 +25,69 @@
   ],
   "pageThumbnailFile": "8jwt9yjl8ulgd4sj.avif",
   "credits": [
-    "President and Chairman of TIM|Robert L. Brock",
-    "Vice-President, Operations|Rolfe Kennard",
-    "Vice-President, Real Estate & Finance; General Counsel|Jim Parrish",
-    "Vice-President, Franchise Sales and Site Analyst|Mickey Powell",
-    "Senior Vice-President; Chief Financial Officer|Andrew J. Whelan",
-    "Architect|Leonard Eudaley",
-    "Interior Designer|John Fulton",
-    "Field Operations|Harry Badford",
-    "Director of Electronic Planning|Doughlas J. Harper",
-    "Director of Education|Clay Harvey",
-    "Director of Construction|Craig S. Sweeney",
-    "Project Coordinator, Central Region|Thomas J. Corcoran, Jr.",
-    "Project Coordinator, Southern Region|Bill Ridgway",
-    "Project Coordinator, Florida Region|Jack Sargent",
-    "Project Coordinator, Northern Region|Craige Chandler Sweeney",
-    "Unknown Role|Andy Whelan"
+    {
+      "n": "President and Chairman of TIM",
+      "role": "Robert L. Brock"
+    },
+    {
+      "n": "Vice-President, Operations",
+      "role": "Rolfe Kennard"
+    },
+    {
+      "n": "Vice-President, Real Estate & Finance; General Counsel",
+      "role": "Jim Parrish"
+    },
+    {
+      "n": "Vice-President, Franchise Sales and Site Analyst",
+      "role": "Mickey Powell"
+    },
+    {
+      "n": "Senior Vice-President; Chief Financial Officer",
+      "role": "Andrew J. Whelan"
+    },
+    {
+      "n": "Architect",
+      "role": "Leonard Eudaley"
+    },
+    {
+      "n": "Interior Designer",
+      "role": "John Fulton"
+    },
+    {
+      "n": "Field Operations",
+      "role": "Harry Badford"
+    },
+    {
+      "n": "Director of Electronic Planning",
+      "role": "Doughlas J. Harper"
+    },
+    {
+      "n": "Director of Education",
+      "role": "Clay Harvey"
+    },
+    {
+      "n": "Director of Construction",
+      "role": "Craig S. Sweeney"
+    },
+    {
+      "n": "Project Coordinator, Central Region",
+      "role": "Thomas J. Corcoran, Jr."
+    },
+    {
+      "n": "Project Coordinator, Southern Region",
+      "role": "Bill Ridgway"
+    },
+    {
+      "n": "Project Coordinator, Florida Region",
+      "role": "Jack Sargent"
+    },
+    {
+      "n": "Project Coordinator, Northern Region",
+      "role": "Craige Chandler Sweeney"
+    },
+    {
+      "n": "Unknown Role",
+      "role": "Andy Whelan"
+    }
   ]
 }

@@ -17,8 +17,8 @@
 ### 1970-1971
 
 - Nolan would begin dreaming of owning an establishment featuring games and food.[29] He would plan for the entertainment center to serve pizza as it was an easy food to produce that couldn't be screwed up as long as the ingredients were good.[1]
-- Nolan would visit the Redwood City *Pizza and Pipes* and discover there was desire for entertainment alongside food, as seen by their organist playing throughout the day.<sup>(1)(30)</sup>
-- He would make a trip to *Disney Land* and would be inspired by the animatronics of the Enchanted Tiki Room. He would settle on the restaurant's entertainment to be animatronic shows. Nolan would plan to build these computerized characters in his garage- and have the business franchised out to various locations.<sup>(6)(1)(8)</sup>
+- Nolan would visit the Redwood City *Pizza and Pipes* and discover there was desire for entertainment alongside food, as seen by their organist playing throughout the day.[1][30]
+- He would make a trip to *Disney Land* and would be inspired by the animatronics of the Enchanted Tiki Room. He would settle on the restaurant's entertainment to be animatronic shows. Nolan would plan to build these computerized characters in his garage- and have the business franchised out to various locations.[6][1][8]
 
 ### 1974
 
@@ -28,7 +28,7 @@
 
 #### April
 
-- In April, Lloyd Warman would become Vice President of Operations, and set on creating [Atari Family Game Center]. Sometime after this two centers would open in the Oakridge Mall San Jose, CA (925 Blossom Hill Rd)|(925 Blossom Hill Rd) and Orange Mall Orange, CA (1500 East Village Way)|(1500 East Village Way).<sup>(32)(1)(33)</sup>
+- In April, Lloyd Warman would become Vice President of Operations, and set on creating [Atari Family Game Center]. Sometime after this two centers would open in the Oakridge Mall San Jose, CA (925 Blossom Hill Rd)|(925 Blossom Hill Rd) and Orange Mall Orange, CA (1500 East Village Way)|(1500 East Village Way).[32][1][33]
 
 #### May
 
@@ -36,12 +36,12 @@
 
 #### Mid-Late 1974
 
-- Sometime before the November 1974 IAAPA convention, he would set the codename for his arcade restaurant project to be 'Coyote Pizza'.<sup>(1)(2)</sup>
+- Sometime before the November 1974 IAAPA convention, he would set the codename for his arcade restaurant project to be 'Coyote Pizza'.[1][2]
 
 #### November
 
 - Just before the November IAAPA show, it would be stated Nolan's Coyote Pizza idea would be close to being greenlit for development at Atari.[1]
-- Nolan attends the *56th Annual IAAPA Convention.* At the event he would purchase a [Rick Rat Walkaround] from a costuming company to be shipped to the Atari offices later. Nolan would believe this costume to be of a coyote.<sup>(34)(3)</sup> It is unconfirmed if Nolan had seen a different costume to the one he was eventually shipped, as other variants of the costume didn't have the rat tail or buck teeth- also being referred to by their owners as a coyote.[4]
+- Nolan attends the *56th Annual IAAPA Convention.* At the event he would purchase a [Rick Rat Walkaround] from a costuming company to be shipped to the Atari offices later. Nolan would believe this costume to be of a coyote.[34][3] It is unconfirmed if Nolan had seen a different costume to the one he was eventually shipped, as other variants of the costume didn't have the rat tail or buck teeth- also being referred to by their owners as a coyote.[4]
 
 #### Winter
 
@@ -90,7 +90,7 @@
 #### August
 
 - On the 2nd, a set of building plans for the first restaurant would be written. The restaurant would be labeled as 'The Big Cheese', and as a 'Pizza Cabaret'.[11]
-- Sometime in August, Gene Landrum would quit his job at National Semiconductor to work fully at Atari.[3] Atari opens the *Restaurant Operating Division* of the company to pursue the restaurant concept, Gene Landrum is appointed as General Manager of the division and President of the *Atari Consumer Division*.<sup>(12)(2)</sup> By this point Gene begins searching for a 6,000 square foot building to house the first location.[39]
+- Sometime in August, Gene Landrum would quit his job at National Semiconductor to work fully at Atari.[3] Atari opens the *Restaurant Operating Division* of the company to pursue the restaurant concept, Gene Landrum is appointed as General Manager of the division and President of the *Atari Consumer Division*.[12][2] By this point Gene begins searching for a 6,000 square foot building to house the first location.[39]
 
 #### Late 1976 (or early 1977)
 - Gene goes to the city of San Jose with a Big Cheese mascot. The mascot kisses the hand of the mayor, and hands out popsicles and lollipops to the city council members.[45]
@@ -98,7 +98,7 @@
 
 #### September
 
-- On the 7th Nolan Bushnell sells Atari to Warner Communications for $28,000,000.[14] Nolan stays as head of the company, but signs a 5 year non-compete agreement. Warner also signs to invest $120,000,000 into Atari, which Nolan is permitted to use for his restaurant concept.<sup>(15)(0)</sup>
+- On the 7th Nolan Bushnell sells Atari to Warner Communications for $28,000,000.[14] Nolan stays as head of the company, but signs a 5 year non-compete agreement. Warner also signs to invest $120,000,000 into Atari, which Nolan is permitted to use for his restaurant concept.[15][1]
 
 #### October
 
@@ -172,7 +172,7 @@
 #### November
 
 - On the 17th, 13 different copyright filings would be submitted. These would be 'Chuck E. Cheese's theme', 'How will I know?', 'Roots in the country', 'Endlessly awake, part 1', 'Chuck E. Cheese (token)', 'Chuck E. Cheese's Pizza Time Theatre (long sign)', 'Chuck E. Cheese's Pizza Time Theatre (regular sign)', 'Chuck E. Cheese (in frame)', 'Chuck E. Cheese (standing)', 'Crusty the cat (three full views)', 'Crusty the cat (two head views)', 'Billy Banjo Boggs', 'Pasqually', 'Singing magpies'.[25]
-- On the 29th, the copyright for 'Mister Munch' and The Mopsy Sisters would be filed.<sup>(26)(27)</sup>
+- On the 29th, the copyright for 'Mister Munch' and The Mopsy Sisters would be filed.[26][27]
 
 ### 1979
 

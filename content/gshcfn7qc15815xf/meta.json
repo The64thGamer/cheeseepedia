@@ -10,8 +10,14 @@
   ],
   "citations": [],
   "credits": [
-    "Matt Daniel|Production Manager",
-    "Michael Hill|Studio Coordinator"
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    }
   ],
   "mediaDuration": "1:25:26",
   "showtapeFormats": [

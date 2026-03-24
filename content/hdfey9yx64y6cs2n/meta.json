@@ -1,7 +1,9 @@
 {
   "title": "How Much Is That Doggy in the Window (Demo)",
   "type": "Transcriptions",
-  "tags": [],
+  "tags": [
+    "Pizza Time Theatre Showtape"
+  ],
   "startDate": "",
   "contributors": [
     "sudo trans --pony"

@@ -8,11 +8,26 @@
     "Ceclife13"
   ],
   "credits": [
-    "Luis Leonardo Suárez|Voice of Chuck E. Cheese",
-    "Miguel Ángel Ruiz|Voice of Jasper T. Jowls",
-    "Salvador Chantrés|Voice of Pasqually The Chef",
-    "Michael Hill|Studio Coordinator",
-    "Matt Daniel|Production Manager"
+    {
+      "n": "Luis Leonardo Suárez",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Miguel Ángel Ruiz",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Salvador Chantrés",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager"
+    }
   ],
   "type": "Live Shows",
   "tags": [

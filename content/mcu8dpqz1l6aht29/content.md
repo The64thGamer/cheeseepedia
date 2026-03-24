@@ -4,7 +4,7 @@
 
 - On November 28, 2023, the Hollywood Handle would confirm the second film's production to start in 2024 with emma Tammi returning as director.[3]
 - On April 9th, 2024, Jason Blum would release the first development photo of the film, being of Robert Bennet working on prototype animatronic figures at Jim Henson's Creature Shop.[4]
-- On April 10th, Universal would announce at CinemaCon that the film's release date would be in Fall of 2025, with Blumhouse later tweeting the confirmation.<sup>(5)(6)</sup>
+- On April 10th, Universal would announce at CinemaCon that the film's release date would be in Fall of 2025, with Blumhouse later tweeting the confirmation.[5][6]
 - On April 20th, rumors that casting for a major male character role in the movie would begin. This role at the time would be believed to be for the character Henry Emily. Additionally the film would also be set to film sometime in Q4 of 2024.[17]
 - On May 16, the release date of the film would be revelead, set for December 5, 2025.[2]
 - On June 19, ScottGames would confirm that possibly some FNaF 2 movie updates would arrive during the week of the FNaF 10th anniversary.[7]

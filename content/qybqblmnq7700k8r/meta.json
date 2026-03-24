@@ -11,7 +11,10 @@
     "Ceclife13"
   ],
   "credits": [
-    "Donovan Marcelle|Programmer"
+    {
+      "n": "Donovan Marcelle",
+      "role": "Programmer"
+    }
   ],
   "citations": [
     "https://youtu.be/A4kEZka1AC4",

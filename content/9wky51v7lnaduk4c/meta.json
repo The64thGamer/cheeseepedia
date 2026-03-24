@@ -3,7 +3,7 @@
   "storeNumber": "",
   "startDate": "1979-08-14",
   "endDate": "1985-00-00",
-  "cuDate": "",
+  
   "remodels": [
     {
       "n": "PTT Standard Layout",
@@ -25,77 +25,77 @@
       "s": "1979-08-14",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Warblettes (Cyberamic)",
       "s": "1979-08-14",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "s": "1979-08-14",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "s": "1979-08-14",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "s": "1979-08-14",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "s": "1979-08-14",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Dolli Dimples (Cyberamic)",
       "s": "1979-08-14",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Artie Antlers (Cyberamic)",
       "s": "1980-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Applause Board (Cyberamic)",
       "s": "1979-08-14",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Drum Board (Cyberamic)",
       "s": "1979-08-14",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Flag Wavers (Cyberamic)",
       "s": "1979-08-14",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     }
   ],
   "attractions": [

@@ -1,4 +1,4 @@
-The ***ShowBiz Computer Fun Fair* was an arcade machine present in [ShowBiz Pizza Place] restaurants sometime around 1982-1983.<sup>(1)(2)</sup>**
+The ***ShowBiz Computer Fun Fair* was an arcade machine present in [ShowBiz Pizza Place] restaurants sometime around 1982-1983.[1][2]**
 
 ## Description
 
@@ -14,7 +14,7 @@ Users could also check the time they had remaining from this screen.
 
 #### The Talking Machine
 
-This game would allow users to type in any word they wanted for the game to speak back to them. A filter list was created to prevent users from putting swear words into the prompt, reportedly either notifying 'I can't say that' or 'Billy Bob can't say that'.<sup>(0)(1)</sup>
+This game would allow users to type in any word they wanted for the game to speak back to them. A filter list was created to prevent users from putting swear words into the prompt, reportedly either notifying 'I can't say that' or 'Billy Bob can't say that'.[1][1]
 
 ### Technical
 

@@ -1,4 +1,4 @@
-The ***Winchester Pizza Time Orchestra* was an animatronic produced by [Fantasy Forest] in 1977 as an animatronic version of the Pizza Time Orchestra at the first PTT on [San Jose, CA (370 S Winchester Blvd)].**
+The ***Winchester Pizza Time Orchestra ***was an animatronic produced by [Fantasy Forest] in 1977 as an animatronic version of the Pizza Time Orchestra at the first PTT on [San Jose, CA (370 S Winchester Blvd)].
 
 ## History
 
@@ -17,7 +17,6 @@ South Wall:
 * "Woody" Woodblock
 * "Teddy" Tamborine
 
-
 East Wall:
 
 * The "Skillet Sextet"
@@ -26,6 +25,5 @@ East Wall:
 * "Wally" Washboard
 * "Chubby" Churn
 * "Speedy" Spoons
-
 
 Along with the aforementioned instruments, a Coffee Grinder & a (lighted) Oil Lamp were also placed on the East Wall shelves.

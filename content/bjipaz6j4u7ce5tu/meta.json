@@ -8,7 +8,10 @@
   ],
   "citations": [],
   "credits": [
-    "Duncan Brannan|Programmer, Voice of Chuck E. Cheese, Mr. Munch, Jasper T. Jowls, Pasqually"
+    {
+      "n": "Duncan Brannan",
+      "role": "Programmer, Voice of Chuck E. Cheese, Mr. Munch, Jasper T. Jowls, Pasqually"
+    }
   ],
   "showtapeFormats": [
     "R12 SVHS (Post-93)",

@@ -14,17 +14,50 @@
     "https://youtu.be/YvjpHQMbRMI"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician",
-    "Annagrey Wiechman|Singing Voice of Helen Henny",
-    "Karlisa Burleson|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch, Show Announcer",
-    "Earl Fisher|Voice of Pasqually The Chef, Bird",
-    "Eddie Coker|Opera Singer, Opera Audience, Wilson Hackett",
-    "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Betty, Mike Manley, Opera Announcer",
-    "Robert Gotcher|Production Coordinator, Pirate",
-    "Brian Hagan|Studio Manager, Pirate",
-    "Brent Gray|Studio Coordinator, Pirate",
-    "Brett Roberts|Puppeteer"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Larry The Technician"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch, Show Announcer"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef, Bird"
+    },
+    {
+      "n": "Eddie Coker",
+      "role": "Opera Singer, Opera Audience, Wilson Hackett"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Betty, Mike Manley, Opera Announcer"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator, Pirate"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager, Pirate"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator, Pirate"
+    },
+    {
+      "n": "Brett Roberts",
+      "role": "Puppeteer"
+    }
   ],
   "mediaDuration": "1:01:06",
   "showtapeFormats": [
@@ -41,9 +74,6 @@
       "url": "https://archive.org/download/studio_c_showtape_dvds/August%201999%20Studio%20C.iso",
       "label": "Studio C DVD ISO"
     }
-  ],
-  "transcriptions": [
-    "Rhythm Is Gonna Get You (August 1999)"
   ],
   "type": "Showtapes",
   "tags": [
