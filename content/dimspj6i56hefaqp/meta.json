@@ -21,7 +21,6 @@
     "https://www.reddit.com/r/chuckecheese/comments/1imlyaw/the_former_cecshowbiz_in_montgomery_al_that/"
   ],
   "storeNumber": "608",
-  "cuDate": "1991-00-00",
   "sqft": "10,400",
   "animatronics": [
     {
@@ -117,6 +116,10 @@
     {
       "n": "SPT 1990's Remodel Program",
       "s": "1998-00-00"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
     }
   ],
   "stages": [

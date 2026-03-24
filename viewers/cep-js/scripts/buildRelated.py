@@ -16,7 +16,6 @@ def main():
         return
 
     linker = json.loads(open(LINKER_FILE, encoding='utf-8').read())
-    # lowercase lookup for case-insensitive matching
     linker_lower = {k.lower(): v for k, v in linker.items()}
 
     related = defaultdict(lambda: {'photos':[], 'videos':[], 'reviews':[], 'transcriptions':[]})
@@ -42,13 +41,21 @@ def main():
 
             entry = {'p': folder.name, 't': meta.get('title', folder.name)}
             if meta.get('startDate'): entry['d'] = meta['startDate']
+
             if tp == 'photos':
-                entry['e'] = meta.get('excerpt', '')
+                # Use full content.md as the description
+                content_file = folder / 'content.md'
+                if content_file.exists():
+                    try:
+                        entry['e'] = content_file.read_text(encoding='utf-8').strip()
+                    except Exception:
+                        entry['e'] = ''
+                else:
+                    entry['e'] = ''
 
             related[article_id][tp].append(entry)
             matched += 1
 
-    # Strip empty buckets and articles with no related content
     out = {}
     for article_id, buckets in related.items():
         cleaned = {k: v for k, v in buckets.items() if v}

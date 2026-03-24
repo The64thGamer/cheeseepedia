@@ -1,10 +1,9 @@
-import { loadNewsCards } from './js/DiscourseNews.js';
+import { loadNewsCards } from './js/HomeNews.js';
 import { loadSplashText } from './js/SplashText.js';
 import { initSearch } from './js/Search.js';
 import { loadArticle } from './js/Article.js';
 import { loadPinnedCards } from './js/PinnedArticles.js';
 import { loadRandomCards } from './js/RandomCards.js';
-
 
 const DEFAULT_PINS = ['2zcr9lyoaq2ifmmf', 'bds7nm5tkdgnikq4', 'w4vtcv03ctirl55h'];
 
@@ -28,6 +27,7 @@ export async function render(params, app) {
     }
     root.toggleAttribute('data-wide', localStorage.getItem('cep-wide') === '1');
   }
+
   // Apply logo matching the current theme
   const LOGOS = {
     'standard':    'CEPLogo.avif',
@@ -56,7 +56,6 @@ export async function render(params, app) {
     img.src = '/viewers/cep-js/assets/Logos/' + logoFile;
   };
 
-
   // Init pins
   if (!localStorage.getItem('Pins'))
     localStorage.setItem('Pins', JSON.stringify(DEFAULT_PINS));
@@ -64,12 +63,24 @@ export async function render(params, app) {
   const articleId = params.get('') || params.get('=');
   const page      = params.get('page');
 
+  // For articles, peek at meta.json to pick the right HTML template
+  let articleType = null;
+  if(articleId) {
+    try {
+      const m = await fetch(`/content/${articleId}/meta.json`);
+      if(m.ok) { const j = await m.json(); articleType = (j.type||'').toLowerCase(); }
+    } catch {}
+  }
+
   // Determine which body HTML to load
+  const isNewArticle = params.has('newarticle');
   let bodyUrl;
-  if      (page === 'settings') bodyUrl = '/viewers/cep-js/Settings.html';
-  else if (page === 'stats')    bodyUrl = '/viewers/cep-js/Stats.html';
-  else if (articleId)           bodyUrl = '/viewers/cep-js/Article.html';
-  else                          bodyUrl = '/viewers/cep-js/Home.html';
+  if      (page === 'settings')    bodyUrl = '/viewers/cep-js/Settings.html';
+  else if (page === 'stats')       bodyUrl = '/viewers/cep-js/Stats.html';
+  else if (articleType === 'user') bodyUrl = '/viewers/cep-js/User.html';
+  else if (articleId)              bodyUrl = '/viewers/cep-js/Article.html';
+  else if (isNewArticle)           bodyUrl = '/viewers/cep-js/Article.html';
+  else                             bodyUrl = '/viewers/cep-js/Home.html';
 
   const [baseRes, bodyRes, searchRes] = await Promise.all([
     fetch('/viewers/cep-js/Base.html'),
@@ -100,13 +111,54 @@ export async function render(params, app) {
   } else if (page === 'stats') {
     const { initStats } = await import('./js/Stats.js');
     initStats(app);
-  } else if (articleId) {
+  } else if (articleId && !isNewArticle) {
     loadArticle(app, articleId, addTag);
+  } else if (isNewArticle) {
+    // Body is handled entirely by the editor — set a minimal title
+    const titleEl = app.querySelector('#ArticleTitle');
+    if (titleEl) titleEl.textContent = 'New Article';
+    document.title = 'New Article';
   } else {
     loadNewsCards(app);
     loadPinnedCards(app);
+    // Map loads on home page — dynamic import so Leaflet isn't fetched on article pages
+    const mapContainer = app.querySelector('#MapRoot');
+    if(mapContainer) {
+      const { initMap } = await import('./js/Map.js');
+      initMap(mapContainer);
+    }
   }
 
   loadRandomCards(app);
   loadSplashText(app);
+
+  // Editor — lazy load, always available
+  {
+    const link = document.createElement('link');
+    link.rel = 'stylesheet'; link.href = '/viewers/cep-js/editor.css';
+    if (!document.querySelector('link[href="/viewers/cep-js/editor.css"]'))
+      document.head.appendChild(link);
+
+    const { initEditor } = await import('./js/Editor.js');
+
+    // Fetch content.md for the editor if on an article page
+    let articleContent = '';
+    if (articleId) {
+      try {
+        const r = await fetch(`/content/${articleId}/content.md`);
+        if (r.ok) articleContent = await r.text();
+      } catch {}
+    }
+
+    const isNew = params.has('newarticle');
+    const editorArticleId = articleId || (isNew ? null : null);
+
+    initEditor(
+      app,
+      editorArticleId,
+      articleType ? await fetch(`/content/${editorArticleId}/meta.json`).then(r=>r.ok?r.json():{}).catch(()=>({})) : {},
+      articleContent,
+      isNew
+    );
+  }
 }

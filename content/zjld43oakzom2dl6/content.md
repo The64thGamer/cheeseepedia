@@ -1,11 +1,10 @@
-The ***Kooser Chuck E. Cheese Animatronic* was an animatronic created by [Fantasy Forest] in Fall of 1978 for the second [Pizza Time Theatre] on [San Jose, CA (1371 Kooser Rd)]. The bot was programmed using [SongCode] & it's [Big C's Cyberamics Center] and was controlled using the [Cyberamic Control System].
-The bot was used up until Kooser got the first [Cyberamics Balcony Stage] in May 1980.**
+The ***Kooser Chuck E. Cheese Animatronic ***was an animatronic created by [Fantasy Forest] in Fall of 1978 for the second [Pizza Time Theatre] on [San Jose, CA (1371 Kooser Rd)]. The bot was programmed using [SongCode] & it's [Big C's Cyberamics Center] and was controlled using the [Cyberamic Control System].The bot was used up until Kooser got the first [Cyberamics Balcony Stage] in May 1980.
 
 ## History
 
 ### At Kooser
 
-The bot debuted at the opening of the Kooser store in December of 1978. It would be seen in many promotional material for Chuck E. Cheese's Pizza Time Theater[1][2]. It would appear in a segment for the show, Real People, in 1979[3]. The bot would be removed in 1980 after the placement of a Balcony Stage at Kooser.
+The bot debuted at the opening of the Kooser store in December of 1978. It would be seen in many promotional material for Chuck E. Cheese's Pizza Time Theater(1)(2). It would appear in a segment for the show, Real People, in 1979[3]. The bot would be removed in 1980 after the placement of a Balcony Stage at Kooser.
 
 ### Corporate Move
 
@@ -27,11 +26,11 @@ Oddly, The bot's design is very similar to the Chuck E. used in the Rat Tales co
 
 ## Movements
 
-- Mouth
-- Head Up
-- Head Left
-- Head Right
-- Eye Left
-- Eye Right
-- Eyelids
-- Right Arm Raise
+* Mouth
+* Head Up
+* Head Left
+* Head Right
+* Eye Left
+* Eye Right
+* Eyelids
+* Right Arm Raise

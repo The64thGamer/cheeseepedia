@@ -1,5 +1,4 @@
-***Winchester Chuck E. Cheese (V2)* was an animatronic created by [Fantasy Forest] in Summer 1978 for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)] as an animatronic version [Chuck E. Cheese]. The bot was controlled & programmed through the [Winchester Control System] & [Winchester Hardware Setup].
-The bot would remain at the store until its removal in 1981 when Winchester would receive [Cyberamics]. It is currently in the possession of Travis Schafer.**
+***Winchester Chuck E. Cheese (V2) ***was an animatronic created by [Fantasy Forest] in Summer 1978 for the [Pizza Time Theatre] on [San Jose, CA (370 S Winchester Blvd)] as an animatronic version [Chuck E. Cheese]. The bot was controlled & programmed through the [Winchester Control System] & [Winchester Hardware Setup].The bot would remain at the store until its removal in 1981 when Winchester would receive [Cyberamics]. It is currently in the possession of Travis Schafer.
 
 ## History
 
@@ -42,63 +41,72 @@ When Chuck V2 was saved by Jul Kamen and moved into her house, the bot was given
 
 ## Movements
 
-- Mouth
-- Eyes Left
-- Eyes Right
-- Eyes Up
-- Eyes Down
-- Eyelids
-- Ears
-- Head Up
-- Head Tilt
-- Head Turn Right
-- Body Turn Right + Left Arm Twist
-- Right Arm Up
-- Right Elbow
+* Mouth
+* Eyes Left
+* Eyes Right
+* Eyes Up
+* Eyes Down
+* Eyelids
+* Ears
+* Head Up
+* Head Tilt
+* Head Turn Right
+* Body Turn Right + Left Arm Twist
+* Right Arm Up
+* Right Elbow
 
 ## Parts
 
-|-|Mechanisms=
--
+\|\-\|Mechanisms=
+---
+
 Eyelid Assembly=
 The Eyelid Assembly is the cylinder assembly that controlled the eyelids of Chuck E.
 The two single-acting cylinders that control the eyelids would be bolted into the base of the head and would connect to the eyelids via the piston rods alongside springs going back onto the cap of the cylinder. These eyelids would be synchronized in movement by being connected by a 3-way connector piece.
 
 ### Part Gallery
 
--
-}}
-|-|Hardware=
-|-|Shells, Guards, & Covers=
--
+* 
+
+\}\}\|\-\|Hardware=\|\-\|Shells\, Guards\, & Covers=
+---
+
 Upper Chest Shell=
--
-Lower Chest Shell=
-}}
-|-|Cosmetics=
--
+---
+
+Lower Chest Shell=\}\}\|\-\|Cosmetics=
+---
+
 Teeth=
--
+---
+
 Left Ear=
--
+---
+
 Right Ear=
--
+---
+
 Derby=
--
-Torso Fur=
-Chuck E.'s torso is a gray faux fur coat-like cosmetic with a zipper in the back that would reveal the hole in Chuck E.'s back for maintenance.
--
+---
+
+Torso Fur=Chuck E.'s torso is a gray faux fur coat-like cosmetic with a zipper in the back that would reveal the hole in Chuck E.'s back for maintenance.
+---
+
 Vest + Dickey & Bowtie=
--
+---
+
 Arm Fur (2x)=
--
+---
+
 Left Hand=
--
+---
+
 Right Hand=
--
-Microphone=
-The Chuck E. and Crusty animatronics both used the same hand molds for their respective props, for Chuck E., he had a microphone in his right hand. The prop microphone had a black head and a silver body with a cord coming out from the end that would lead into the other side of the frame Chuck E. originally was placed in.
--
+---
+
+Microphone=The Chuck E. and Crusty animatronics both used the same hand molds for their respective props, for Chuck E., he had a microphone in his right hand. The prop microphone had a black head and a silver body with a cord coming out from the end that would lead into the other side of the frame Chuck E. originally was placed in.
+---
+
 Cigar=
 in Chuck E.'s left hand was his infamous prop cigar. The cigar gave the appearance of being already lit with the intentional wear and tear and redness given to the outside end of the prop. The prop also appears to be split in half so it could give the impression of it being held by his left hand.
 }}
