@@ -8,14 +8,38 @@
     "Ceclife13"
   ],
   "credits": [
-    "Jaret Reddick|Voice of Chuck E. Cheese",
-    "Caroline Richardson|Voice of Helen Henny",
-    "Chris Hill|Voice of Mr. Munch",
-    "Jeremy Blaido|Voice of Jasper T. Jowls",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Matt Daniel|Production Manager, Announcer (2021 Countdown)",
-    "Donovan Marcelle|Programmer",
-    "Ricco Fajardo|Countdown Host"
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Caroline Richardson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Chris Hill",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Manager, Announcer (2021 Countdown)"
+    },
+    {
+      "n": "Donovan Marcelle",
+      "role": "Programmer"
+    },
+    {
+      "n": "Ricco Fajardo",
+      "role": "Countdown Host"
+    }
   ],
   "type": "Live Shows",
   "tags": [

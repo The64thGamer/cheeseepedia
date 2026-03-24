@@ -7,7 +7,7 @@ The tape was used until the Wolf Pack 5 was replaced with the Rock-afire Explosi
 The Wolf Pack 5 ShowBiz Tape was based on the previous [}}">Wolf Pack 5](%7B%7B%3C%20ref%20){wiki="" wolf="" pack="" 5"=""}
 showtapes that had been seen during the 1978 and 1979 IAAPA Expos, though some modifications and additions were made.
 Like the previous showtapes, a band from Baton Rouge, Louisiana by the name of Clutch provided the music for this
-showtape.<sup>(2)(3)</sup>
+showtape.[2][3]
 This showtape was broken into separate segments instead of playing as a complete show as its previous incarnations had.
 The announcer from the previous showtapes would open and close the show before and after each segment. Additional lines
 were recorded for him to accommodate the new segmented format. New songs were recorded to add more segments to the

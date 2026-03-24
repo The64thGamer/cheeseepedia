@@ -1,5 +1,5 @@
 {
-  "cuDate": "",
+  
   "title": "Cincinnati, OH (4394 Eastgate Square Dr)",
   "startDate": "1990-06-17",
   "endDate": "",
@@ -42,42 +42,42 @@
       "s": "1990-06-17",
       "e": "2005-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "s": "1990-06-17",
       "e": "2005-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Chuck E. Cheese (Cyberamic)",
       "s": "1990-06-17",
       "e": "2005-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "s": "1990-06-17",
       "e": "2005-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "s": "1990-06-17",
       "e": "2005-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Chuck E. Cheese 16m (Animatronic)",
       "s": "2005-00-00",
       "e": "2024-04-07",
       "l": "1106",
-      "st": "Dismantled, thrown into dumpster"
+      "desc": "Dismantled, thrown into dumpster"
     }
   ],
   "franchisees": [

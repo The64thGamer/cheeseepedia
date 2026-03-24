@@ -3,7 +3,7 @@ The book would be authored by Weldon Owen, whom had previously made many cookboo
 
 ## Production
 
-Preorders would begin appearing on various book sellers in mid-August of 2023, which would be spotted on August 18th.<sup>(2)(0)(3)</sup>
+Preorders would begin appearing on various book sellers in mid-August of 2023, which would be spotted on August 18th.[2][1][3]
 The cover would be uploaded some time before November 3rd, alongside more product details.[4]
 
 ## Official Description

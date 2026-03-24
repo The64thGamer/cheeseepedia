@@ -1,5 +1,4 @@
 {
-  "cuDate": "",
   "title": "Houston, TX (6760 Antoine Dr)",
   "startDate": "1981-07-15",
   "endDate": "2006-00-00",
@@ -34,6 +33,10 @@
     {
       "n": "SPT 1990's Remodel Program",
       "s": "1998-08-23"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
     }
   ],
   "stages": [
@@ -54,84 +57,84 @@
       "s": "1981-07-15",
       "e": "2006-09-00",
       "l": "1-81 1-5",
-      "st": "Owned by Sully G"
+      "desc": "Owned by Sully G"
     },
     {
       "n": "Dook Larue (Animatronic)",
       "s": "1981-07-15",
       "e": "2006-09-00",
       "l": "1-81 2-5",
-      "st": "Owned by ItzaRob"
+      "desc": "Owned by ItzaRob"
     },
     {
       "n": "Fatz Geronimo (Animatronic)",
       "s": "1981-07-15",
       "e": "2006-09-00",
       "l": "1-81 3-5",
-      "st": "Owned by a Private Collector"
+      "desc": "Owned by a Private Collector"
     },
     {
       "n": "Beach Bear (Animatronic)",
       "s": "1981-07-15",
       "e": "2006-09-00",
       "l": "1-81 4-5",
-      "st": "Sent to the location on 5535 Weslayan St, now destroyed"
+      "desc": "Sent to the location on 5535 Weslayan St, now destroyed"
     },
     {
       "n": "Mitzi Mozzarella (Animatronic)",
       "s": "1981-07-15",
       "e": "2006-09-00",
       "l": "1-81 5-5",
-      "st": "Owned by a Private Collector"
+      "desc": "Owned by a Private Collector"
     },
     {
       "n": "Billy Bob (Animatronic)",
       "s": "1981-07-15",
       "e": "1991-00-00",
       "l": "1-81 6-5",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Looney Bird (Animatronic)",
       "s": "1981-07-15",
       "e": "0000-00-00",
       "l": "1-81 7-5",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Choo Choo (Animatronic)",
       "s": "1981-07-15",
       "e": "0000-00-00",
       "l": "1-81 8-5",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Sun (Animatronic)",
       "s": "1981-07-15",
       "e": "2006-09-00",
       "l": "1-81 10-5",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Moon (Animatronic)",
       "s": "1981-07-15",
       "e": "2006-09-00",
       "l": "1-81 11-5",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Antioch (Animatronic)",
       "s": "1981-07-15",
       "e": "1991-00-00",
       "l": "Unknown",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Wink",
       "s": "1991-00-00",
       "e": "2006-09-00",
       "l": "Unknown",
-      "st": "Unknown"
+      "desc": "Unknown"
     }
   ],
   "attractions": [

@@ -14,7 +14,10 @@
   ],
   "citations": [],
   "credits": [
-    "Nancy Lenehan|Voice of Helen Henny"
+    {
+      "n": "Nancy Lenehan",
+      "role": "Voice of Helen Henny"
+    }
   ],
   "pageThumbnailFile": "LXIgAqIDH5b9NErvD2yD.avif",
   "showtapeFormats": [

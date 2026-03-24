@@ -23,7 +23,7 @@
       "n": "Chuck E. Cheese 16m (Animatronic)",
       "s": "2014-10-00",
       "e": "2023-00-00",
-      "st": "Unknown/Destroyed. Came from the Kelso WA (351 Three Rivers Dr) location. Had Cool Chuck outfit until 2022"
+      "desc": "Unknown/Destroyed. Came from the Kelso WA (351 Three Rivers Dr) location. Had Cool Chuck outfit until 2022"
     }
   ],
   "attractions": [],
@@ -34,7 +34,7 @@
   "storeNumber": "",
   "startDate": "1995-04-00",
   "endDate": "",
-  "cuDate": "",
+  
   "sqft": "",
   "latitudeLongitude": [
     "32.23518977",

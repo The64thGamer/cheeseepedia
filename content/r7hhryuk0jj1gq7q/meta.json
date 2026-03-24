@@ -3,7 +3,7 @@
   "storeNumber": "112",
   "startDate": "1982-04-19",
   "endDate": "",
-  "cuDate": "",
+  
   "remodels": [
     {
       "n": "SPT 1980's Remodel Program",
@@ -73,112 +73,112 @@
       "s": "1982-04-19",
       "e": "2003-00-00",
       "l": "N/A",
-      "st": "mech sent to USS Nightmare"
+      "desc": "mech sent to USS Nightmare"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "s": "1982-04-19",
       "e": "2003-00-00",
       "l": "N/A",
-      "st": "mech sent to USS Nightmare"
+      "desc": "mech sent to USS Nightmare"
     },
     {
       "n": "Chuck E. Cheese (Cyberamic)",
       "s": "1982-04-19",
       "e": "2003-00-00",
       "l": "N/A",
-      "st": "mech sent to USS Nightmare"
+      "desc": "mech sent to USS Nightmare"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "s": "1982-04-19",
       "e": "2003-00-00",
       "l": "N/A",
-      "st": "Animatronic head sent to USS Nightmares, rest of animatronic sent to USS Nightmare"
+      "desc": "Animatronic head sent to USS Nightmares, rest of animatronic sent to USS Nightmare"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "s": "1982-04-19",
       "e": "2003-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Warblettes (Cyberamic)",
       "s": "1982-04-19",
       "e": "1989-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Applause Board (Cyberamic)",
       "s": "1982-04-19",
       "e": "1989-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Drum Board (Cyberamic)",
       "s": "1982-04-19",
       "e": "1989-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Flag Wavers (Cyberamic)",
       "s": "1982-04-19",
       "e": "1989-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "The King / King Kat (Lounge)",
       "s": "1982-04-19",
       "e": "1989-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Singing Flowers (Cyberamic)",
       "s": "1989-00-00",
       "e": "2000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Chuck E. Cheese (Cyberamic)",
       "s": "2003-00-00",
       "e": "2022-03-31",
       "l": "N/A",
-      "st": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
+      "desc": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "s": "2003-00-00",
       "e": "2022-03-31",
       "l": "N/A",
-      "st": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
+      "desc": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "s": "2003-00-00",
       "e": "2022-03-31",
       "l": "N/A",
-      "st": "Originally from Hampton, VA (4027 W Mercury Blvd)"
+      "desc": "Originally from Hampton, VA (4027 W Mercury Blvd)"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "s": "2003-00-00",
       "e": "2022-03-31",
       "l": "N/A",
-      "st": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
+      "desc": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "s": "2003-00-00",
       "e": "2022-03-31",
       "l": "N/A",
-      "st": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
+      "desc": "Dismantled, thrown into dumpster. Originally from Hampton, VA (4027 W Mercury Blvd)"
     }
   ],
   "sqft": "2,500",

@@ -14,11 +14,26 @@
   ],
   "citations": [],
   "credits": [
-    "John Widelock|Voice of Chuck E. Cheese",
-    "Paula Mulcahy|Voice of Madame Oink",
-    "Scott Wilson|Voice of Mr. Munch",
-    "Scott Paulin|Voice of Jasper T. Jowls",
-    "Joe Spano|Voice of Pasqually the Chef"
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Paula Mulcahy",
+      "role": "Voice of Madame Oink"
+    },
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Joe Spano",
+      "role": "Voice of Pasqually the Chef"
+    }
   ],
   "pageThumbnailFile": "d7OhTHVALagdQ5JeHF5j.avif",
   "showtapeFormats": [

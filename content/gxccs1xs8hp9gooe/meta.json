@@ -3,7 +3,7 @@
   "storeNumber": "",
   "startDate": "1979-10-06",
   "endDate": "2025-09-21",
-  "cuDate": "",
+  
   "remodels": [
     {
       "n": "PTT Standard Layout",
@@ -163,91 +163,91 @@
       "s": "1979-10-06",
       "e": "2025-09-21",
       "l": "N/A",
-      "st": "In storage at the SPT Warehouse."
+      "desc": "In storage at the SPT Warehouse."
     },
     {
       "n": "Warblettes (Cyberamic)",
       "s": "1979-10-06",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "s": "1979-10-06",
       "e": "2025-09-21",
       "l": "N/A",
-      "st": "In storage at the SPT Warehouse."
+      "desc": "In storage at the SPT Warehouse."
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "s": "1979-10-06",
       "e": "2025-09-21",
       "l": "N/A",
-      "st": "In storage at the SPT Warehouse."
+      "desc": "In storage at the SPT Warehouse."
     },
     {
       "n": "Pasqually (Cyberamic)",
       "s": "1979-10-06",
       "e": "2025-09-21",
       "l": "N/A",
-      "st": "In storage at the SPT Warehouse."
+      "desc": "In storage at the SPT Warehouse."
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "s": "1979-10-06",
       "e": "2025-09-21",
       "l": "N/A",
-      "st": "In storage at the SPT Warehouse."
+      "desc": "In storage at the SPT Warehouse."
     },
     {
       "n": "Dolli Dimples (Cyberamic)",
       "s": "1979-10-06",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Artie Antlers (Cyberamic)",
       "s": "1980-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Applause Board (Cyberamic)",
       "s": "1979-10-06",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Drum Board (Cyberamic)",
       "s": "1979-10-06",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Flag Wavers (Cyberamic)",
       "s": "1979-10-06",
       "e": "1985-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     },
     {
       "n": "Wink (Animatronic)",
       "s": "0000-00-00",
       "e": "2025-09-21",
       "l": "N/A",
-      "st": "In storage at the SPT Warehouse."
+      "desc": "In storage at the SPT Warehouse."
     },
     {
       "n": "Helen Henny (Lounge)",
       "s": "1979-10-06",
       "e": "0000-00-00",
       "l": "N/A",
-      "st": "Unknown"
+      "desc": "Unknown"
     }
   ],
   "downloadLinks": [

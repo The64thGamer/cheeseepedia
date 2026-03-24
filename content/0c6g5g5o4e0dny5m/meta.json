@@ -12,8 +12,17 @@
     "Ceclife13"
   ],
   "credits": [
-    "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch, Pasqually the Chef",
-    "Scott Paulin|Voice of Jasper T. Jowls",
-    "Nancy Lenehan|Voice of Helen Henny"
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch, Pasqually the Chef"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Nancy Lenehan",
+      "role": "Voice of Helen Henny"
+    }
   ]
 }

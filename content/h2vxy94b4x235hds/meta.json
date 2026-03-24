@@ -3,5 +3,9 @@
   "type": "Transcriptions",
   "contributors": [
     "sudo trans --pony"
+  ],
+  "tags": [
+    "SPP Best Of 2",
+    "SPP Best Of 3"
   ]
 }

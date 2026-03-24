@@ -14,12 +14,30 @@
     "https://youtu.be/sB1_nX3Ydpc"
   ],
   "credits": [
-    "Jeremy Blaido|Voice of Chuck E. Cheese, Wick Ladderback, Announcer, Dr. Googleplex, Will Frye The Nutrition Guy",
-    "Duncan Brannan|Voice of Mr. Munch, Announcer, Larry The Technician, Blip Flibben",
-    "Karlisa Burleson|Voice of Helen Henny",
-    "Bob West|Voice of Jasper T. Jowls",
-    "Brian Hagan|Programmer",
-    "Robert Gotcher|Voice of Bird"
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Chuck E. Cheese, Wick Ladderback, Announcer, Dr. Googleplex, Will Frye The Nutrition Guy"
+    },
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Mr. Munch, Announcer, Larry The Technician, Blip Flibben"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Programmer"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Voice of Bird"
+    }
   ],
   "showtapeFormats": [
     "Studio C 4x Laserdisc + Files"

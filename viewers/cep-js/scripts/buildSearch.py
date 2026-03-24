@@ -11,10 +11,11 @@ MIN_TRI_FREQ = 2
 WIKI_LINK_RE = re.compile(r'\{\{<?\s*wiki-link\s+["\']?([^"\'}\s]+)["\']?[^>]*>?\s*\}\}', re.IGNORECASE)
 CITE_RE      = re.compile(r'\{\{<?\s*cite\s+[^>]*>?\s*\}\}', re.IGNORECASE)
 MD_RE        = re.compile(r'[*_`#>\[\]!]')
+BRACKET_RE   = re.compile(r'\[([^\]]+)\]')
 _nonword     = re.compile(r'[^\w\s]', re.UNICODE)
 _multispace  = re.compile(r'\s+')
 
-DICT_TAG_FIELDS   = ('remodels','stages','animatronics','franchisees','attractions')
+DICT_TAG_FIELDS   = ('remodels','stages','animatronics','franchisees','attractions','credits')
 STRING_TAG_FIELDS = ('tags','pages','page')
 
 def normalize(s): return _multispace.sub(' ', _nonword.sub(' ', s.lower())).strip()
@@ -37,13 +38,24 @@ def extract_name(val):
     if isinstance(val, dict): return str(val.get('n','')).strip()
     return str(val).split('|',1)[0].strip()
 
+def mod_time(folder):
+    times = [f.stat().st_mtime for f in (folder/'meta.json', folder/'content.md') if f.exists()]
+    return max(times) if times else 0
+
 def read_article(folder):
     mp = folder/'meta.json'
-    if not mp.exists(): return None, None
+    if not mp.exists(): return None, None, 0
     try: fm = json.loads(mp.read_text(encoding='utf-8'))
-    except Exception: return None, None
+    except Exception: return None, None, 0
     body = (folder/'content.md').read_text(encoding='utf-8') if (folder/'content.md').exists() else ''
-    return fm, body
+    return fm, body, mod_time(folder)
+
+def extract_wiki_link_tags(body):
+    tags = []
+    for m in re.finditer(r'\[([^\]]+)\]', body):
+        val = m.group(1).strip()
+        if val and not val.isdigit(): tags.append(val)
+    return tags
 
 def extract_tags(fm):
     tags, seen = [], set()
@@ -70,7 +82,7 @@ def build():
 
     photo_map = {}
     for folder in folders:
-        fm, _ = read_article(folder)
+        fm, _, _ = read_article(folder)
         if fm and (fm.get('type','') or '').lower()=='photos':
             t = fm.get('title','')
             if t: photo_map[t] = folder.name
@@ -78,19 +90,21 @@ def build():
     docs, tag_idx, tri_idx = [], defaultdict(list), defaultdict(list)
 
     for doc_id, folder in enumerate(sorted(folders)):
-        fm, body = read_article(folder)
+        fm, body, mt = read_article(folder)
         if fm is None: continue
         title = fm.get('title', folder.name)
         tp    = fm.get('type','')
         contribs = fm.get('contributors',[])
         doc = {'t':title,'p':folder.name,'e':excerpt(body),'tp':tp,
                'd':fm.get('startDate',''),'de':fm.get('endDate',''),
-               'c':contribs if isinstance(contribs,list) else [contribs]}
+               'c':contribs if isinstance(contribs,list) else [contribs],
+               'mt':int(mt)}
         if (tp or '').lower()!='photos':
             thumb = fm.get('pageThumbnailFile','')
             if thumb and thumb in photo_map: doc['img'] = photo_map[thumb]
         docs.append(doc)
         for tag in extract_tags(fm): tag_idx[tag].append(doc_id)
+        for tag in extract_wiki_link_tags(body): tag_idx[tag].append(doc_id)
         fuzzy = ' '.join([title, tp, fm.get('startDate',''),
             ' '.join(str(v) for v in (fm.get('tags') or [])),
             ' '.join(str(v) for v in (fm.get('contributors') or [])),

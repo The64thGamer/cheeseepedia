@@ -24,13 +24,34 @@
   ],
   "pageThumbnailFile": "RSEKM5ZyV79H3d4p4ycO.avif",
   "credits": [
-    "John Widelock|Voice of Chuck E. Cheese",
-    "Nancy Lenehan|Voice of Helen Henny",
-    "Fritz Heilbron|Voice of Mr. Munch",
-    "Scott Paulin|Voice of Jasper T. Jowls",
-    "Joe Spano|Voice of Pasqually the Chef",
-    "Donna Miller|Voice of Dolli Dimples",
-    "Corasound|Recording Studio"
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Nancy Lenehan",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Fritz Heilbron",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Joe Spano",
+      "role": "Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Donna Miller",
+      "role": "Voice of Dolli Dimples"
+    },
+    {
+      "n": "Corasound",
+      "role": "Recording Studio"
+    }
   ],
   "showtapeFormats": [
     "Cyberamics Reel"

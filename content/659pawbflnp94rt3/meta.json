@@ -15,14 +15,38 @@
     "https://archive.org/download/studio_c_showtape_dvds/September%202003%20Studio%20C.iso"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Director",
-    "Robert Gotcher|Production Manager",
-    "Matt Daniel|Production Coordinator",
-    "Sammy Davenport|Music Director"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Director"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Manager"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    }
   ],
   "mediaDuration": "1:01:51",
   "showtapeFormats": [

@@ -49,7 +49,7 @@ CEC operates family entertainment centers focused on live entertainment, birthda
 - [Davenport, IA (903 E Kimberly Rd)] would close on April 7th after 43 years of service.
 - On the 12th, CEC employees would receive an exclusive discount for CEC shirts sold on 80sTees.
 - Some time in early April, Florida locations would be instructed to remove all napkin holders from tables, presumably to cut costs. Napkins would still be available in other parts of the store. This would then be rolled out to more locations during the month.
-- In early April low volume stores would be told to reduce their hours of operation and to cut their salad bar indefinitely.<sup>(5)(5)</sup>
+- In early April low volume stores would be told to reduce their hours of operation and to cut their salad bar indefinitely.[5][5]
 - On the 15th, CEC would announce a partnership with the *American Society for Deaf Children* to provide a more inclusive experience for deaf guests. This would include more American Sign Language support media, staff training, fundraisers, and various helpful programs for deaf kids.[7]
 - On the 18th CEC would post a survey on its [website](https://www.chuckecheese.com/) for a redesign of the [Ticket Blaster].
 - The annual *Summer of Fun* event would begin on April 29th. From then through September 2nd, CEC employees would be allowed to wear any *Summer of Fun* T-shirts or appropriate generic Hawaiian shirts at work. The new Strawberry Lemonade drink would be added permanently to the lineup. The first new food item of 2024 would be included, the limited-time *Summer of Fun* item of [Strawberry Lemonade Cotton Candy (CEC Menu Item)].
@@ -69,13 +69,13 @@ CEC operates family entertainment centers focused on live entertainment, birthda
 #### June
 
 - On the 1st, Mark Kupferman would tease the upcoming Ninja Run concept to be coming to a few U.S. stores.[16]
-- On the 11th, CEC would make a post to its stores confirming that the Nanuet, NY location would be a '100% retro store', which would include 'retro nights'. The retro nights wouldn't be explained, but said they would focus around the early 2000's era of CEC.<sup>(5)(5)</sup>
-- On the 12th, CEC would announce the Ninja Run, being a test addon to the Trampoline Zone. The announced test store would be [Grand Prairie, TX (2760 W I-20)], but the [Medford, OR (293 E Barnett Rd)], [Buffalo, NY (2638 Delaware Ave)] and an unnamed Colorado location would also be rumored to receive it.<sup>(5)(20)</sup>
+- On the 11th, CEC would make a post to its stores confirming that the Nanuet, NY location would be a '100% retro store', which would include 'retro nights'. The retro nights wouldn't be explained, but said they would focus around the early 2000's era of CEC.[5][5]
+- On the 12th, CEC would announce the Ninja Run, being a test addon to the Trampoline Zone. The announced test store would be [Grand Prairie, TX (2760 W I-20)], but the [Medford, OR (293 E Barnett Rd)], [Buffalo, NY (2638 Delaware Ave)] and an unnamed Colorado location would also be rumored to receive it.[5][20]
 - On the 16th, the first Ninja Run would be confirmed to open at the Grand Prairie, TX store.[21]
 - On the 18th, a [Looney Bird (Animatronic)] animatronic was sent to the Charlotte Pineville-Matthews location from the [ShowBiz Pizza Time Distribution Center (Topeka, KS)] for installation. This animatronic was previously from the [Laurel, MD (936 Fairlawn Ave)] store and had been sitting in the warehouse for 2 years and 10 days.[5]
 - On June 26th, *Blank Tag Co.* would produce a set of CEC stickers featuring Avenger era artwork with new colors and shading.[23]
 - On June 28th, CEC would announce internally that the Hicksville, NY location would reopen on July 19th as one of the [CEC Legacy Locations].[5]
-- On June 29th, Mark Kupferman would clarify that Nanuet, NY was not meant to be interpreted as a 'retro store' from a prior newsletter, but rather just a 'bonus location' to the [CEC Legacy Locations]. Its 'retro nights' and additional artwork was not intended to have expectations of its [Studio C Beta] stage being upgraded to a [Studio C Alpha] or that programming would be brought back for the store, but simply additions to make the store unique and interesting.<sup>(25)(26)(27)</sup>
+- On June 29th, Mark Kupferman would clarify that Nanuet, NY was not meant to be interpreted as a 'retro store' from a prior newsletter, but rather just a 'bonus location' to the [CEC Legacy Locations]. Its 'retro nights' and additional artwork was not intended to have expectations of its [Studio C Beta] stage being upgraded to a [Studio C Alpha] or that programming would be brought back for the store, but simply additions to make the store unique and interesting.[25][26][27]
 
 #### July
 

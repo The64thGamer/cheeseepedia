@@ -24,4 +24,4 @@ Due to evidence that [Chicago, IL (5030 S Kedzie Ave)] installed their sign mech
 Two stores had some sort of Klunk part discovered at their location. Springfield with Klunk valves, and Davenport with a Klunk arm. This confirms Klunk was present at their store at some point, but it is unknown which event(s) he was used in. Davenport does mention potentially receiving a Klunk for 1983 however.
 
 - [Springfield, OH (2345 Valley Loop Rd)][3]
-- [Davenport, IA (903 E Kimberly Rd)]<sup>(4)(0)</sup>
+- [Davenport, IA (903 E Kimberly Rd)][4][1]

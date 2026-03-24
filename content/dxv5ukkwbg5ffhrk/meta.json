@@ -4,13 +4,6 @@
   "tags": [
     "Pizza Time Theatre"
   ],
-  "transcriptions": [
-    "Bye Bye Blackbird (Demo)",
-    "The Can-Can (Demo)",
-    "Pasqually Show (Demo)",
-    "Cocktails for Two (Demo)",
-    "How Much Is That Doggy in the Window (Demo)"
-  ],
   "startDate": "1977-05-01",
   "endDate": "1977-08-12",
   "contributors": [
@@ -40,12 +33,30 @@
     }
   ],
   "credits": [
-    "John Widelock|Voice of Chuck E. Cheese, Jasper T. Jowls (Demo), Pasqually the Chef (Demo), Crusty the Cat (Demo)",
-    "Joe Spano|Voice of Pasqually the Chef",
-    "Scott Paulin|Voice of Jasper T. Jowls",
-    "Ed Bogas|Voice of Crusty the Cat",
-    "Bob Sarlatte|Voice of Crusty the Cat",
-    "Buffy Sainte-Marie|Voice of the Warblettes"
+    {
+      "n": "John Widelock",
+      "role": "Voice of Chuck E. Cheese, Jasper T. Jowls (Demo), Pasqually the Chef (Demo), Crusty the Cat (Demo)"
+    },
+    {
+      "n": "Joe Spano",
+      "role": "Voice of Pasqually the Chef"
+    },
+    {
+      "n": "Scott Paulin",
+      "role": "Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Ed Bogas",
+      "role": "Voice of Crusty the Cat"
+    },
+    {
+      "n": "Bob Sarlatte",
+      "role": "Voice of Crusty the Cat"
+    },
+    {
+      "n": "Buffy Sainte-Marie",
+      "role": "Voice of the Warblettes"
+    }
   ],
   "showtapeFormats": [
     "Cyberamics Reel"

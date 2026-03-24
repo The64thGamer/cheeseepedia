@@ -13,9 +13,18 @@
   ],
   "citations": [],
   "credits": [
-    "Matt Daniel|Production Coordinator, Voice of Announcer, UV Monster",
-    "Michael Hill|Studio Coordinator",
-    "Ryan Hollingsworth|Steve Waters"
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, Voice of Announcer, UV Monster"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Steve Waters"
+    }
   ],
   "pageThumbnailFile": "iolFogMS1MY5iGWu6ECc.avif",
   "showtapeFormats": [

@@ -14,9 +14,18 @@
     "Ceclife13"
   ],
   "credits": [
-    "Scott Wilson|Voice of Chuck E. Cheese, Mr. Munch, Show Announcer",
-    "Connie Nelson|Voice of Helen Henny",
-    "Bob West|Voice of Jasper T. Jowls, Pasqually The Chef"
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch, Show Announcer"
+    },
+    {
+      "n": "Connie Nelson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually The Chef"
+    }
   ],
   "citations": [],
   "mediaDuration": "11:26",

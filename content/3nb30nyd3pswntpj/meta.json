@@ -13,9 +13,18 @@
   ],
   "citations": [],
   "credits": [
-    "Jaret Reddick|Voice of Chuck E. Cheese",
-    "Matt Daniel|Production Coordinator",
-    "Michael Hill|Studio Coordinator"
+    {
+      "n": "Jaret Reddick",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Michael Hill",
+      "role": "Studio Coordinator"
+    }
   ],
   "showtapeFormats": [
     "Studio C 3x DVD + Floppy",

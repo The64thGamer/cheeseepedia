@@ -1,7 +1,9 @@
 {
   "title": "Ricky Scaggs Medley",
   "type": "Transcriptions",
-  "tags": [],
+  "tags": [
+    "Country Klunk"
+  ],
   "startDate": "",
   "contributors": [
     "sudo trans --pony"

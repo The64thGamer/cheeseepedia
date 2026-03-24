@@ -11,7 +11,10 @@
     "Ceclife13"
   ],
   "credits": [
-    "Mike Hatcher|Programmer, Voiceover"
+    {
+      "n": "Mike Hatcher",
+      "role": "Programmer, Voiceover"
+    }
   ],
   "downloadLinks": [
     {

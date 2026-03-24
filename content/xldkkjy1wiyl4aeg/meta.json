@@ -14,14 +14,38 @@
     "https://archive.org/download/cyberamics_post_93_svhs_signals/January%202000%20CEC-Stage-002.iso|CEC-Stage SVHS w/ Signals"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese, Larry The Technician",
-    "Karlisa Burleson|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch, Show Announcer",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Jeremy Blaido|Director, Voice of Jasper T. Jowls",
-    "Robert Gotcher|Production Coordinator",
-    "Brian Hagan|Studio Manager",
-    "Brent Gray|Studio Coordinator"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Larry The Technician"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch, Show Announcer"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    }
   ],
   "mediaDuration": "1:31:00",
   "showtapeFormats": [

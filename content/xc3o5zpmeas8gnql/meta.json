@@ -17,15 +17,42 @@
     "https://archive.org/download/cyberamics_post_93_svhs_signals/January%201999%20CEC-Stage-005.iso"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese, Mr. Munch, Pasqually The Chef",
-    "Annagrey Wiechman|Singing Voice of Helen Henny",
-    "Karlisa Burleson|Voice of Helen Henny, Marsha",
-    "Jeremy Blaido|Director, Voice of Jasper T. Jowls, Roger, Show Announcer",
-    "Robert Gotcher|Production Coordinator",
-    "Brian Hagan|Studio Manager",
-    "Brent Gray|Studio Coordinator",
-    "Sammy Davenport|Music Director",
-    "Stokes Group|Video Editing"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch, Pasqually The Chef"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Singing Voice of Helen Henny"
+    },
+    {
+      "n": "Karlisa Burleson",
+      "role": "Voice of Helen Henny, Marsha"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls, Roger, Show Announcer"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    },
+    {
+      "n": "Sammy Davenport",
+      "role": "Music Director"
+    },
+    {
+      "n": "Stokes Group",
+      "role": "Video Editing"
+    }
   ],
   "mediaDuration": "1:17:48",
   "showtapeFormats": [

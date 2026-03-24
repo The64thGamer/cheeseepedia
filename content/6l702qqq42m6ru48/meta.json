@@ -28,6 +28,9 @@
     "Pizza Time Theatre"
   ],
   "credits": [
-    "Manufacturer (Kooser Rd. Prototype)|Pete's Woodworking Inc."
+    {
+      "n": "Manufacturer (Kooser Rd. Prototype)",
+      "role": "Pete's Woodworking Inc."
+    }
   ]
 }

@@ -3,7 +3,7 @@
   "storeNumber": "3194",
   "startDate": "1994-11-00",
   "endDate": "2025-08-10",
-  "cuDate": "",
+  
   "remodels": [
     {
       "n": "SPT 1990's Remodel Program",
@@ -76,42 +76,42 @@
       "s": "1994-11-00",
       "e": "2016-08-00",
       "l": "Unknown",
-      "st": "Destroyed."
+      "desc": "Destroyed."
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "s": "1994-11-00",
       "e": "2025-08-10",
       "l": "Unknown",
-      "st": "In storage at the SPT Warehouse."
+      "desc": "In storage at the SPT Warehouse."
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "s": "1994-11-00",
       "e": "2025-08-10",
       "l": "Unknown",
-      "st": "In storage at the SPT Warehouse."
+      "desc": "In storage at the SPT Warehouse."
     },
     {
       "n": "Pasqually (Cyberamic)",
       "s": "1994-11-00",
       "e": "2025-08-10",
       "l": "Unknown",
-      "st": "In storage at the SPT Warehouse."
+      "desc": "In storage at the SPT Warehouse."
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "s": "1994-11-00",
       "e": "2025-08-10",
       "l": "Unknown",
-      "st": "In storage at the SPT Warehouse."
+      "desc": "In storage at the SPT Warehouse."
     },
     {
       "n": "Wink (Animatronic)",
       "s": "1994-11-00",
       "e": "2009-00-00",
       "l": "N/A",
-      "st": "Destroyed."
+      "desc": "Destroyed."
     }
   ],
   "contributors": [

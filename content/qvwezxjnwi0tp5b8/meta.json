@@ -16,14 +16,38 @@
     "https://youtu.be/iGoWidEOlbc"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Jeremy Blaido|Voice of Jasper T. Jowls, Pepperoni",
-    "Robert Gotcher|Director, Show Announcer (Segment 3)",
-    "Matt Daniel|Production Coordinator, Show Announcer (Segment 1), Songwriter 'What Up'",
-    "Ryan Hollingsworth|Production Specialist"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Voice of Jasper T. Jowls, Pepperoni"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Director, Show Announcer (Segment 3)"
+    },
+    {
+      "n": "Matt Daniel",
+      "role": "Production Coordinator, Show Announcer (Segment 1), Songwriter 'What Up'"
+    },
+    {
+      "n": "Ryan Hollingsworth",
+      "role": "Production Specialist"
+    }
   ],
   "mediaDuration": "1:15:55",
   "showtapeFormats": [

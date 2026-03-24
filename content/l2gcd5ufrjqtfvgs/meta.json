@@ -10,14 +10,38 @@
     "BurgersNuggs445"
   ],
   "credits": [
-    "Duncan Brannan|Voice of Chuck E. Cheese",
-    "Annagrey Wiechman|Voice of Helen Henny",
-    "John Bowen|Voice of Mr. Munch",
-    "Earl Fisher|Voice of Pasqually The Chef",
-    "Jeremy Blaido|Director, Voice of Jasper T. Jowls",
-    "Robert Gotcher|Production Coordinator",
-    "Brian Hagan|Studio Manager",
-    "Brent Gray|Studio Coordinator"
+    {
+      "n": "Duncan Brannan",
+      "role": "Voice of Chuck E. Cheese"
+    },
+    {
+      "n": "Annagrey Wiechman",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "John Bowen",
+      "role": "Voice of Mr. Munch"
+    },
+    {
+      "n": "Earl Fisher",
+      "role": "Voice of Pasqually The Chef"
+    },
+    {
+      "n": "Jeremy Blaido",
+      "role": "Director, Voice of Jasper T. Jowls"
+    },
+    {
+      "n": "Robert Gotcher",
+      "role": "Production Coordinator"
+    },
+    {
+      "n": "Brian Hagan",
+      "role": "Studio Manager"
+    },
+    {
+      "n": "Brent Gray",
+      "role": "Studio Coordinator"
+    }
   ],
   "mediaDuration": "28:22",
   "citations": [],
