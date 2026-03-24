@@ -106,7 +106,7 @@ export function renderPhotoCard(doc) {
   a.appendChild(ProgressiveImage(doc.p,doc.t)); el.appendChild(a);
   el.insertAdjacentHTML('beforeend',`<div class="PhotoCardBody">
     <div class="PhotoCardExcerpt">${esc(doc.e||'')}</div>
-    <div class="PhotoCardDate">${esc(fmtDate(doc.d))}</div>
+    <div class="PhotoCardDate"><strong>${esc(fmtDate(doc.d))}</strong></div>
   </div>`);
   injectViewCount(el, doc.p, '.PhotoCardDate');
   return el;
@@ -175,7 +175,7 @@ export function renderVideoList(doc) {
 // ── View count helpers ────────────────────────────────────────────────────────
 let _views = null;
 async function getViews() {
-  if (!_views) _views = await fetch('/viewers/cep-js/compiled-json/view.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
+  if (!_views) _views = await fetch('/viewers/cep-js/compiled-json/views.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
   return _views;
 }
 export function fmtViews(n) { return ' '+(n??0)+' view'+((n??0)===1?'':'s'); }

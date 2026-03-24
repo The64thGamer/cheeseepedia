@@ -1,0 +1,1 @@
+Dolly is sitting next to the 'European Village' after being removed due to construction. She would not return.

@@ -1,4 +1,4 @@
-The Kooser Pizza Time Orchestra was an animatronic produced by [Fantasy Forest] in 1978 for the 2nd Pizza Time Theatre at [San Jose, CA (1371 Kooser Rd)].
+The ***Kooser Pizza Time Orchestra*** was an animatronic produced by [Fantasy Forest] in 1978 for the 2nd Pizza Time Theatre at [San Jose, CA (1371 Kooser Rd)].
 
 ## History
 
