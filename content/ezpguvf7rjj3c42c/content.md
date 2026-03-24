@@ -1,6 +1,38 @@
 **Chuck E. Cheese Spring 2026 Show** was released on March 2, 2026.
 
-## Show list 03/04 Update:
+## Showlist 03/14 Update:
+
+1. Intermission 1
+    1. Harlem Globetrotters - 'Ways We Celebrate'
+    2. Chuck E. Cheese - 'Stay Positive'
+    3. Dippin' Dots Promo
+    4. Chuck E. & Friends - 'Do Re Mi'
+    5. KIDZ BOP Kids - 'Golden' (ASL)
+    6. Bella B. & Chuck E. - 'Bella's Garden'
+    7. Jasper T. Jowls - 'This Friendship Ain't No Accident'
+    8. Chuck E. & Friends - 'Water Buffalo' (ASL)
+    9. Helen Henny - 'Disco Dancing Dinosaur Party'
+    10. Chuck E. & Helen - 'I Dare You Not to Laugh'
+    11. KIDZ BOP Kids - 'DeBÍ TiRAR MáS FOToS'
+    12. Chuck E. & Friends - 'Barbara The Barnyard Barber'
+    13. Chuck E. & Friends - 'Chuck E.'s Middle Name'
+    14. KIDZ BOP Kids - 'Manchild'
+    15. Chuck E. & Friends - 'Bubble Bubble Pop'
+    16. Jasper T. Jowls - 'That's A Deal'
+    17. Bella B. & Helen - 'Bailando'
+    18. KIDZ BOP Kids - 'Ordinary' (ASL)
+    19. Bella B. - ‘¡A Divertinos!’
+    20. KIDZ BOP Kids - 'Tears'
+    21. Paris & Pups: Paris Hilton - 'STARKLE ON!'
+
+## Lives 03/14 Update:
+
+1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
+2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
+3. Me & My Friends (Media Navori)
+4. Spring Break Break Dance (Media Navori)
+
+## Showlist 03/03 Update:
 
 1. Intermission 1
     1. Harlem Globetrotters - 'Ways We Celebrate'
@@ -24,14 +56,14 @@
     19. KIDZ BOP Kids - 'Tears'
     20. Paris & Pups: Paris Hilton - 'STARKLE ON!'
 
-## Lives 03/04 Update:
+## Lives 03/03 Update:
 
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
 3. Me & My Friends (Media Navori)
 4. Spring Break Break Dance (Media Navori)
 
-## Show list:
+## Showlist:
 
 1. Intermission 1
     1. Harlem Globetrotters - 'Ways We Celebrate'
@@ -51,7 +83,7 @@
     15. KIDZ BOP Kids - 'Manchild'
     16. Chuck E. & Friends - 'Bubble Bubble Pop'
     17. Jasper T. Jowls - 'That's A Deal'
-    18. Bella B. & Helen - 'Bailando' 
+    18. Bella B. & Helen - 'Bailando'
     19. KIDZ BOP Kids - 'Ordinary' (ASL)
     20. Chuck E. Cheese - 'Rainbow Hamster Family'
     21. Chuck E. Cheese - 'Dancin' Kitten'
@@ -73,4 +105,5 @@
 
 ## Trivia:
 
-1. 03/04 Update - Chuck E. Cheese - 'The Snail Band Marching Band', Chuck E. & Friends - 'Just Like This', Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!', Chuck E. Cheese - 'Rainbow Hamster Family', Chuck E. Cheese - 'Dancin' Kitten', Pasqually The Chef - 'It's The 70's', Chuck E. & Friends - 'Let's Have a Party' (DJ Munch Remix), Chuck E. & Friends - 'Crochet All Day', Chuck E. Cheese - 'Where do the Socks Go?', and Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends' are removed. 
+1. 03/04 Update - Chuck E. Cheese - 'The Snail Band Marching Band', Chuck E. & Friends - 'Just Like This', Chuck E. Cheese Silly Song - 'Unicorn, Unicorn!', Chuck E. Cheese - 'Rainbow Hamster Family', Chuck E. Cheese - 'Dancin' Kitten', Pasqually The Chef - 'It's The 70's', Chuck E. & Friends - 'Let's Have a Party' (DJ Munch Remix), Chuck E. & Friends - 'Crochet All Day', Chuck E. Cheese - 'Where do the Socks Go?', and Chuck E. Cheese Partymobile Sing-Along - 'Me & My Friends' are removed.
+2. 03/14 Update - Dippin' Dots Promo is added.
