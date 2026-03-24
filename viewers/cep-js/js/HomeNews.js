@@ -1,9 +1,4 @@
-/**
- * HomeNews.js
- * Replaces loadNewsCards with a tabbed news section:
- *   News | Recent Changes | Recent Photos | Recent Videos
- * Changes/Photos/Videos are grouped by relative time from ExtraStatistics.json.
- */
+
 import {
   renderArticleCompact, renderPhotoCompact, renderVideoCompact, videoThumbSrc, permalink, esc, fmtDate
 } from '/viewers/cep-js/js/CardRenderer.js';

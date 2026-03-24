@@ -89,7 +89,7 @@
   --font-display: "Stalker";
 }
 
-[data-theme="pasqually"] {
+[data-theme="italy"] {
   --background: #6D1A1F;
   --edit-background: #892d4aff;
   --good-link: #009047;
@@ -239,6 +239,13 @@ body {
   text-wrap: pretty;
   word-wrap: anywhere;
 }
+
+[data-theme="italy"] body{
+  outline-width: 0rem;
+  border-width: 4.5rem;
+  box-shadow: 0 0 0 0.5rem var(--dark), inset 0 0 0 0.5rem var(--dark);
+}
+
 
 [data-wide] body{
   max-width: 80rem;
@@ -1140,7 +1147,7 @@ sup {
 .Infobox {
   float: right;
   clear: right;
-  width: 16rem;
+  width: 18rem;
   margin: 0 0 1rem 1.5rem;
   border: 0.125rem solid var(--dark);
   border-radius: .75rem;
@@ -1422,8 +1429,8 @@ color: color-mix(in srgb, var(--text) 30%, transparent);
 .PinButton {
   font-size: .9rem;
   padding: .2rem .4rem;
-  border-radius: .4rem;
-  border: 0.125rem solid var(--dark);
+  border-radius: .5rem;
+  border: 0.25rem solid var(--dark);
   cursor: pointer;
   transition: background .15s;
   background-color: var(--background);
@@ -2006,7 +2013,7 @@ color: color-mix(in srgb, var(--text) 30%, transparent);
   border-color: var(--background);
 }
 
-[data-theme="missingno"] .Card, .PinButton, .s-input-row {
+[data-theme="missingno"] .Card,[data-theme="missingno"] .PinButton,[data-theme="missingno"] .s-input-row {
   border-radius: 0rem;
 }
 

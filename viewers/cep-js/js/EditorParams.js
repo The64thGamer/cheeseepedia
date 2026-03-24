@@ -84,7 +84,8 @@ function makeStringArray(values, onChange, searchSuggestions = false) {
   const wrap = document.createElement('div');
   wrap.className = 'EditorArrayWrap';
 
-  const items = [...(values || [])];
+  // Normalize: if items are objects (e.g. from wrong field type), convert to strings
+  const items = (values || []).map(v => typeof v === 'object' && v !== null ? (v.n || v.name || JSON.stringify(v)) : String(v));
 
   const render = () => {
     wrap.innerHTML = '';
@@ -119,7 +120,7 @@ function makeDictArray(values, fields, onChange) {
   // fields: [{key, label, type}] where type is 'string'|'date'|'search'
   const wrap = document.createElement('div');
   wrap.className = 'EditorDictArrayWrap';
-  const items = (values || []).map(v => ({ ...v }));
+  const items = (values || []).map(v => typeof v === 'string' ? { n: v } : { ...v });
 
   const render = () => {
     wrap.innerHTML = '';
@@ -231,7 +232,7 @@ function wireSearchSuggestions(input, onSelect) {
 function makeDownloadLinks(values, onChange) {
   const wrap = document.createElement('div');
   wrap.className = 'EditorArrayWrap';
-  const items = (values || []).map(v => ({ ...v }));
+  const items = (values || []).map(v => typeof v === 'string' ? { n: v } : { ...v });
 
   const render = () => {
     wrap.innerHTML = '';

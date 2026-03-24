@@ -34,21 +34,34 @@ export async function getAuthenticatedUser() {
   return ghFetch('/user');
 }
 
-async function ensureFork(userLogin) {
+async function ensureForkSynced(userLogin) {
+  // Create fork if it doesn't exist
+  let forkExists = false;
   try {
     await ghFetch(`/repos/${userLogin}/${REPO}`);
+    forkExists = true;
   } catch {
     await ghFetch(`/repos/${OWNER}/${REPO}/forks`, { method: 'POST', body: {} });
-    // Wait for fork to be ready
     for (let i = 0; i < 12; i++) {
       await new Promise(r => setTimeout(r, 2500));
-      try { await ghFetch(`/repos/${userLogin}/${REPO}`); break; } catch {}
+      try { await ghFetch(`/repos/${userLogin}/${REPO}`); forkExists = true; break; } catch {}
     }
+  }
+
+  // Always sync fork to upstream main before branching so PRs show real diffs
+  try {
+    await ghFetch(`/repos/${userLogin}/${REPO}/merge-upstream`, {
+      method: 'POST',
+      body: { branch: BRANCH },
+    });
+  } catch {
+    // merge-upstream may fail if already up to date — that's fine
   }
 }
 
-async function getMainSha(userLogin) {
-  const ref = await ghFetch(`/repos/${userLogin}/${REPO}/git/ref/heads/${BRANCH}`);
+async function getUpstreamSha() {
+  // Always read from upstream (OWNER), not fork, so we're on latest main
+  const ref = await ghFetch(`/repos/${OWNER}/${REPO}/git/ref/heads/${BRANCH}`);
   return ref.object.sha;
 }
 
@@ -74,11 +87,11 @@ export async function pushAllChanges(onProgress) {
   const user = await getAuthenticatedUser();
   const userLogin = user.login;
 
-  onProgress(10, 'Ensuring fork…');
-  await ensureFork(userLogin);
+  onProgress(10, 'Syncing fork to latest main…');
+  await ensureForkSynced(userLogin);
 
-  onProgress(20, 'Getting latest commit…');
-  const sha = await getMainSha(userLogin);
+  onProgress(20, 'Getting latest upstream commit…');
+  const sha = await getUpstreamSha();
 
   onProgress(25, 'Creating branch…');
   const branchName = await createBranch(userLogin, sha);
@@ -124,7 +137,8 @@ export async function pushAllChanges(onProgress) {
   }
 
   onProgress(72, 'Creating tree…');
-  const baseCommit = await ghFetch(`/repos/${userLogin}/${REPO}/git/commits/${sha}`);
+  // Use upstream base commit tree so we diff against real current state
+  const baseCommit = await ghFetch(`/repos/${OWNER}/${REPO}/git/commits/${sha}`);
   const newTree = await ghFetch(`/repos/${userLogin}/${REPO}/git/trees`, {
     method: 'POST',
     body: { base_tree: baseCommit.tree.sha, tree: treeItems },

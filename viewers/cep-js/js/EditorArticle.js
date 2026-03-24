@@ -323,8 +323,10 @@ export async function initArticleEditor(app, articleId, meta, content, editorNam
     } else if (kind === 'photo') {
       workingPhoto = args[0];
     } else if (kind === 'type-change') {
+      // Ensure new type is in workingMeta before saving
+      workingMeta = { ...workingMeta, type: args[0] };
       commitLocal();
-      window.location.href = window.location.href;
+      window.location.reload();
       return;
     }
     commitLocal();

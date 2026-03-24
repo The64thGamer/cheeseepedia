@@ -10,7 +10,7 @@ const DEFAULT_PINS = ['2zcr9lyoaq2ifmmf', 'bds7nm5tkdgnikq4', 'w4vtcv03ctirl55h'
 const LOGOS = {
   standard:'CEPLogo.avif', dark:'LogoDark.avif', light:'LogoLight.avif',
   classic:'LogoClassic.avif', funnet:'LogoFunNet.avif', showbiz:'LogoShowBiz.avif',
-  fnaf:'LogoFNaF.avif', pasqually:'LogoPasqually.avif', winter:'LogoWinter.avif',
+  fnaf:'LogoFNaF.avif', italy:'LogoPasqually.avif', winter:'LogoWinter.avif',
   halloween:'LogoHalloween.avif', pride:'LogoPride.avif', anniversary:'LogoAnniversary.avif',
 };
 
