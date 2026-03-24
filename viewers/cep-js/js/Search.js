@@ -40,6 +40,12 @@ let DOCS=[], TAGS={}, ALL_TAG_KEYS=[], VIEWS={};
 const TRI_CACHE={};
 let chips=[], suggestIdx=-1, searchTimer=null;
 
+// ── Precomputed lookup structures (populated after loadData) ───────────────────
+let TAG_LOOKUP        = new Map(); // lowercase tag → canonical tag key
+let DOCS_BY_NORM_TITLE= new Map(); // norm(title) → doc
+let TAG_YEAR_RANGE    = new Map(); // canonical tag → year range string e.g. "1992–2020"
+let TYPE_TO_TAB       = new Map(); // lowercase doc type → tab id
+
 const sInput      = app.querySelector('#sInput');
 const sChips      = app.querySelector('#sChips');
 const sInputRow   = app.querySelector('#sInputRow');
@@ -62,9 +68,6 @@ sQtags.style.display       = 'none';
 sResultsWrap.style.display = 'none';
 
 // ── Layout ────────────────────────────────────────────────────────────────────
-// Called after every state change. Pure function of chips, input value, keepTags.
-// hasQuery = chips or committed text (NOT mid-typing text — input event should
-//            not count as a query until a chip is actually added).
 function updateLayout() {
   const hasQuery = chips.length > 0;
   sResultsWrap.style.display = hasQuery ? 'block' : 'none';
@@ -72,6 +75,9 @@ function updateLayout() {
 }
 
 // ── Tabs ──────────────────────────────────────────────────────────────────────
+// Cache per-tab DOM references to avoid repeated querySelector calls in hot paths
+const TAB_ELS = {}; // tabId → { list, more, btn }
+
 TABS.forEach(t => {
   const btn = document.createElement('button');
   btn.className = 's-tab-btn' + (t.id==='articles' ? ' active' : '');
@@ -90,6 +96,13 @@ TABS.forEach(t => {
     const tiers = ['20','50','100','all'];
     sPerPage.value = tiers[Math.min(tiers.indexOf(sPerPage.value)+1, tiers.length-1)];
     executeSearch();
+  };
+
+  // Cache references now that the panel is in the DOM
+  TAB_ELS[t.id] = {
+    list: panel.querySelector('#list-' + t.id),
+    more: panel.querySelector('#more-' + t.id),
+    btn,
   };
 });
 
@@ -130,6 +143,48 @@ async function loadData() {
   TAGS  = await tr.json();
   VIEWS = vr.ok ? await vr.json() : {};
   ALL_TAG_KEYS = Object.keys(TAGS).sort((a,b) => a.localeCompare(b, undefined, {sensitivity:'base'}));
+
+  // ── Build lookup structures ──────────────────────────────────────────────────
+
+  // O(1) canonical tag resolution — replaces linear .find() in addChip & keydown
+  TAG_LOOKUP = new Map(ALL_TAG_KEYS.map(k => [k.toLowerCase(), k]));
+
+  // O(1) doc lookup by normalised title — replaces linear DOCS.find() in showSuggestions
+  DOCS_BY_NORM_TITLE = new Map();
+  for(const doc of DOCS) {
+    if(doc) {
+      const key = norm(doc.t || '');
+      if(key && !DOCS_BY_NORM_TITLE.has(key)) DOCS_BY_NORM_TITLE.set(key, doc);
+    }
+  }
+
+  // Precompute year ranges per tag — eliminates per-keystroke doc scanning in showSuggestions
+  TAG_YEAR_RANGE = new Map();
+  for(const tag of ALL_TAG_KEYS) {
+    const matchDoc = DOCS_BY_NORM_TITLE.get(norm(tag));
+    if(!matchDoc) continue;
+    const startYear = matchDoc.d && !matchDoc.d.startsWith('0000') ? matchDoc.d.slice(0,4) : null;
+    let maxYear = null;
+    for(const id of (TAGS[tag] || [])) {
+      const doc = DOCS[id];
+      if(!doc || !doc.d || doc.d.startsWith('0000')) continue;
+      const y = doc.d.slice(0,4);
+      if(!maxYear || y > maxYear) maxYear = y;
+    }
+    let yearRange = '';
+    if(startYear && maxYear && maxYear !== startYear) yearRange = `${startYear}–${maxYear}`;
+    else if(startYear) yearRange = startYear;
+    else if(maxYear)   yearRange = maxYear;
+    if(yearRange) TAG_YEAR_RANGE.set(tag, yearRange);
+  }
+
+  // O(1) doc-type → tab routing — replaces per-result TABS.find()+.map() in executeSearch
+  TYPE_TO_TAB = new Map();
+  for(const t of TABS) {
+    if(t.types) for(const tp of t.types) TYPE_TO_TAB.set(tp.toLowerCase(), t.id);
+  }
+
+  // Update quick-tag counts
   sQtagsList.querySelectorAll('.s-qtag-btn').forEach(btn => {
     const count = (TAGS[btn.dataset.tag]||[]).length;
     if(count) {
@@ -150,10 +205,12 @@ async function loadTriShard(ch) {
 // ── Chips ─────────────────────────────────────────────────────────────────────
 function addChip(type, value, neg=false) {
   if(!value) return;
-  if(type==='tag') { const f=ALL_TAG_KEYS.find(t=>t.toLowerCase()===value.toLowerCase()); value=f||value; }
-  const dup = chips.findIndex(c => c.type===type && c.value.toLowerCase()===value.toLowerCase() && c.neg===neg);
+  // O(1) canonical tag lookup instead of linear .find()
+  if(type==='tag') value = TAG_LOOKUP.get(value.toLowerCase()) || value;
+  const vl = value.toLowerCase();
+  const dup = chips.findIndex(c => c.type===type && c.value.toLowerCase()===vl && c.neg===neg);
   if(dup !== -1) return;
-  const opp = chips.findIndex(c => c.type===type && c.value.toLowerCase()===value.toLowerCase() && c.neg!==neg);
+  const opp = chips.findIndex(c => c.type===type && c.value.toLowerCase()===vl && c.neg!==neg);
   if(opp !== -1) chips.splice(opp, 1);
   chips.push({type, value, neg});
   sInput.value = '';
@@ -200,7 +257,9 @@ function showSuggestions(q) {
   matches.forEach((m, i) => {
     const el = document.createElement('div');
     el.className = 's-suggest-item'; el.dataset.i = i;
-    el.innerHTML = `<span>${esc((m.neg?'-':'')+m.t)}</span><span class="s-suggest-count">${m.count}</span>`;
+    // Precomputed — no per-keystroke doc scanning
+    const yearRange = TAG_YEAR_RANGE.get(m.t) || '';
+    el.innerHTML = `<span>${esc((m.neg?'-':'')+m.t)}</span><span class="s-suggest-count">${yearRange ? `<span class="s-suggest-years">${yearRange}</span>` : ''}${m.count}</span>`;
     el.onmousedown = ev => { ev.preventDefault(); addChip('tag', m.t, m.neg); };
     el.onmouseover = () => { suggestIdx=i; highlightSuggest(); };
     sSuggest.appendChild(el);
@@ -224,7 +283,8 @@ sInput.addEventListener('keydown', e => {
       const v=sInput.value.trim();
       if(v) {
         const neg=v.startsWith('-'), term=neg?v.slice(1):v;
-        const matched=ALL_TAG_KEYS.find(t=>t.toLowerCase()===term.toLowerCase());
+        // O(1) lookup instead of linear .find()
+        const matched = TAG_LOOKUP.get(term.toLowerCase());
         addChip(matched?'tag':'fuzzy', matched||term, neg);
       }
     }
@@ -266,8 +326,8 @@ async function executeSearch() {
 
   if(!tagChips.length && !fuzzyQ) {
     TABS.forEach(t => {
-      const l=app.querySelector('#list-'+t.id), m=app.querySelector('#more-'+t.id);
-      if(l) l.innerHTML=''; if(m) m.style.display='none';
+      const { list, more } = TAB_ELS[t.id];
+      list.innerHTML=''; more.style.display='none';
     });
     updateLayout();
     return;
@@ -282,7 +342,15 @@ async function executeSearch() {
         if(!ids) ids=new Set(DOCS.map((_,i)=>i));
         for(const id of tagIds) ids.delete(id);
       } else {
-        ids=ids?new Set([...ids].filter(x=>tagIds.has(x))):new Set(tagIds);
+        if(!ids) {
+          ids = new Set(tagIds);
+        } else {
+          // Iterate the smaller set to minimise intersection work
+          const [small, large] = ids.size < tagIds.size ? [ids, tagIds] : [tagIds, ids];
+          const next = new Set();
+          for(const id of small) if(large.has(id)) next.add(id);
+          ids = next;
+        }
       }
     }
     results=[...(ids||[])].map(id=>({score:0,doc:DOCS[id]})).filter(r=>r.doc);
@@ -294,6 +362,7 @@ async function executeSearch() {
     }
   } else {
     const qTris=tris(fuzzyQ);
+    const normFuzzyQ=norm(fuzzyQ); // hoist: computed once instead of per-doc
     const shardKeys=new Set([...qTris].map(t=>t[0].match(/[a-z]/)?t[0]:'_'));
     const shards=await Promise.all([...shardKeys].map(loadTriShard));
     const merged=Object.assign({},...shards), hits={};
@@ -302,7 +371,7 @@ async function executeSearch() {
     results=Object.entries(hits).map(([id,h]) => {
       const doc=DOCS[+id]; if(!doc) return null;
       for(const f of tf) { if(f.neg&&f.ids.has(+id)) return null; if(!f.neg&&!f.ids.has(+id)) return null; }
-      return {score:h/qTris.size+(norm(doc.t||'').includes(norm(fuzzyQ))?0.3:0), doc};
+      return {score:h/qTris.size+(norm(doc.t||'').includes(normFuzzyQ)?0.3:0), doc};
     }).filter(Boolean).sort((a,b)=>b.score-a.score);
   }
 
@@ -325,11 +394,11 @@ async function executeSearch() {
     });
   }
 
+  // O(1) bucketing via precomputed type map — no per-result TABS.find()+.map()
   const buckets={}; TABS.forEach(t=>buckets[t.id]=[]);
   for(const r of results) {
-    const tp=(r.doc.tp||'').toLowerCase();
-    const tab=TABS.find(t=>t.types&&t.types.map(x=>x.toLowerCase()).includes(tp));
-    (tab?buckets[tab.id]:buckets['articles']).push(r);
+    const tabId = TYPE_TO_TAB.get((r.doc.tp||'').toLowerCase()) || 'articles';
+    buckets[tabId].push(r);
   }
 
   const limit  =sPerPage.value==='all'?Infinity:parseInt(sPerPage.value)||10;
@@ -337,9 +406,8 @@ async function executeSearch() {
   const byYear =sort==='oldest'||sort==='newest';
 
   TABS.forEach(t => {
-    const list=app.querySelector('#list-'+t.id), more=app.querySelector('#more-'+t.id);
+    const { list, more, btn } = TAB_ELS[t.id]; // cached — no querySelector
     const arr=buckets[t.id];
-    const btn=sTabBtns.querySelector(`[data-tab="${t.id}"]`);
     if(btn) btn.textContent=`${t.label} (${arr.length})`;
     list.innerHTML='';
     if(!arr.length) { list.innerHTML='<div class="s-no-results">No results</div>'; more.style.display='none'; return; }

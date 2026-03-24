@@ -1,5 +1,4 @@
 {
-  "cuDate": "",
   "title": "Houston, TX (6760 Antoine Dr)",
   "startDate": "1981-07-15",
   "endDate": "2006-00-00",
@@ -34,6 +33,10 @@
     {
       "n": "SPT 1990's Remodel Program",
       "s": "1998-08-23"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
     }
   ],
   "stages": [

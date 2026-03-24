@@ -1,29 +1,60 @@
 {
   "title": "Abilene, TX (4310 Buffalo Gap Rd)",
-  "storeNumber": "",
   "startDate": "2005-11-08",
   "endDate": "",
   "cuDate": "",
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Studio C Cappa",
-      "s": "2005-11-08"
-    }
-  ],
   "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "32.400456",
-    "-99.761621"
-  ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Cyber Snout"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "storeNumber": "582",
+  "sqft": "8,897",
+  "latitudeLongitude": [
+    "32.400456",
+    "-99.761621"
+  ],
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2005-11-08",
+      "e": "2026-04-04"
+    },
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "2024-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "s": "2005-11-08",
+      "e": "2026-04-04"
+    }
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "2005-11-08",
+      "e": "2026-04-04"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Superhero Playground",
+      "s": "2025-04-00",
+      "e": "2026-04-04"
+    },
+    {
+      "n": "Trampoline Zone",
+      "s": "2024-00-00",
+      "e": "2026-04-04"
+    }
   ]
 }

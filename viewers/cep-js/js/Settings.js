@@ -15,6 +15,7 @@ const CSS_VARS = [
   { key: '--good-link',  label: 'Good Link'   },
   { key: '--bad-link',   label: 'Bad Link'    },
   { key: '--distant',    label: 'Distant'     },
+  { key: '--edit-background',    label: 'Editor Background'     },
   { key: '--dark',       label: 'Dark'        },
 ];
 
@@ -33,6 +34,7 @@ const LOGOS = [
 // Default custom values — used only if no saved custom exists yet
 const CUSTOM_DEFAULTS = {
   '--background': '#233355',
+  '--edit-background': '#234555ff',
   '--text':       '#dbd1b1',
   '--primary':    '#e0961f',
   '--secondary':  '#D44A02',
@@ -259,6 +261,22 @@ export function initSettings(app) {
     } else {
       applyTheme(val);
       customPanel.style.display = 'none';
+    }
+    // Update logo to match new theme
+    const LOGOS = {
+      'standard':'CEPLogo.avif','dark':'LogoDark.avif','light':'LogoLight.avif',
+      'classic':'LogoClassic.avif','funnet':'LogoFunNet.avif','showbiz':'LogoShowBiz.avif',
+      'fnaf':'LogoFNaF.avif','pasqually':'LogoPasqually.avif','winter':'LogoWinter.avif',
+      'halloween':'LogoHalloween.avif','pride':'LogoPride.avif','anniversary':'LogoAnniversary.avif',
+    };
+    const logoWrap = app.querySelector('.Logo') || document.querySelector('.Logo');
+    if(logoWrap) {
+      let img = logoWrap.querySelector('img');
+      if(!img){ img = document.createElement('img'); logoWrap.appendChild(img); }
+      const logoFile = val === 'custom'
+        ? (customValues['--logo'] || 'CEPLogo.avif')
+        : (LOGOS[val] || 'CEPLogo.avif');
+      img.src = '/viewers/cep-js/assets/Logos/' + logoFile;
     }
   });
 

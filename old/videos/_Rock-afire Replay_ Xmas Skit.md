@@ -1,9 +1,0 @@
-+++
-title = "https://youtu.be/RJ9867iHsKs"
-startDate = "2021-07-08"
-
-type = "Videos"
-tags = ["Creative Engineering", "ShowBiz Pizza Place", "Rock-afire Replay"]
-+++
-
-(Rock-afire Replay) Xmas Skit

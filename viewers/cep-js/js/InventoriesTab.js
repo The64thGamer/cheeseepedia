@@ -1,3 +1,12 @@
+/**
+ * InventoriesTab.js
+ * Renders a "where has this appeared" table for animatronics, stages,
+ * remodels, and attractions — sourced from inventoryIndex.json.
+ *
+ * Usage: renderInventoriesTab(articleTitle, linker) → Promise<HTMLElement|null>
+ * Returns null if the article has no index entries.
+ */
+
 let INDEX = null;
 const getIndex = async () =>
   INDEX ||= await fetch('/viewers/cep-js/compiled-json/inventoryIndex.json')
@@ -29,7 +38,7 @@ const FIELD_LABELS = {
   attractions:  'Attractions',
 };
 
-export async function renderInventoriesTab(articleTitle, linker) {
+export async function renderInventoriesTab(articleTitle, linker, articleType) {
   const index = await getIndex();
   const entries = index[articleTitle];
   if(!entries?.length) return null;
@@ -61,7 +70,9 @@ export async function renderInventoriesTab(articleTitle, linker) {
     // Columns: Location | Dates | Serial # | Notes
     // Serial and Notes only shown for animatronics
     const showSerial = field === 'animatronics';
-    const cols = ['Location', 'Dates', ...(showSerial ? ['Serial #'] : []), 'Notes'];
+    const isRemodelField = field === 'remodels' || (articleType||'').toLowerCase().includes('remodel');
+    const dateCol = isRemodelField ? 'Date' : 'Dates';
+    const cols = ['Location', dateCol, ...(showSerial ? ['Serial #'] : []), 'Notes'];
     table.innerHTML = `<thead><tr>${cols.map(c => `<th>${c}</th>`).join('')}</tr></thead>`;
 
     const tbody = document.createElement('tbody');
@@ -82,7 +93,8 @@ export async function renderInventoriesTab(articleTitle, linker) {
 
       // Dates cell
       const tdDate = document.createElement('td');
-      tdDate.textContent = fmtDateRange(row.s || '', row.e);
+      const isRemodel = field === 'remodels' || (articleType||'').toLowerCase() === 'remodels and initiatives' || (articleType||'').toLowerCase() === 'remodels';
+      tdDate.textContent = isRemodel ? fmtDate(row.s || '') : fmtDateRange(row.s || '', row.e);
 
       tr.appendChild(tdLoc);
       tr.appendChild(tdDate);
