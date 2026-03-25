@@ -4,15 +4,15 @@ The ***Wolf Pack 5*** was an animatronic band produced by Creative Engineering f
 
 #### **The Wolfman**
 
-The Wolfman was an animatronic wolf that served as a leader and emcee for the band. Occasionally, he would also sing. He parodied [Wolfman Jack](https://en.wikipedia.org/wiki/Wolfman_Jack). He was voiced by Aaron Fechter.https://showbizpizza.fandom.com/wiki/The\_Wolf\_Pack\_5 He would go on to become Rolfe Dewolfe in the Rock-afire Explosion.
+The Wolfman was an animatronic wolf that served as a leader and emcee for the band. Occasionally, he would also sing. He is a parody of [Wolfman Jack](https://en.wikipedia.org/wiki/Wolfman_Jack). He was voiced by Joe Montione originally and Aaron Fechter and would go on to voice him in the Showbiz Pizza Place showtape. He would go on to become Rolfe Dewolfe in the Rock-afire Explosion.
 
 #### **Fats Gorilla**
 
 Fats Gorilla was a gorilla animatronic parodying [Fats Domino](https://en.wikipedia.org/wiki/Fats_Domino). He played piano and sang for the band. He was voiced by Burt Wilson, a member of the band Clutch. He would go on to become Fatz Geronimo in the Rock-afire Explosion.
 
-#### **Dingo Star**
+#### **Dingo Starr**
 
-[Dingo Star] was a beagle that parodied The Beatles' [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr). Dingo Star played the drums for the Wolf Pack 5. There is some debate as to how his name is spelt. Some written material spells his name as 'Dingo Star,' while others spell it as 'Dingo Starr.' Though it was previously believed that he was voiced by Duke Chaupetta, he was actually voiced by an unknown member of Clutch. He would go on to become Dook LaRue in the Rock-afire Explosion.
+Dingo Starr was a beagle that parodied The Beatles' [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr). Dingo played the drums for the Wolf Pack 5. There is some debate as to how his name is spelt. Some written material spells his name as 'Dingo Star,' while others spell it as 'Dingo Starr.' Though it was previously believed that he was voiced by Duke Chaupetta, he was actually voiced by Johnny Moonlight, A member of Clutch. He would go on to become Dook LaRue in the Rock-afire Explosion.
 
 #### **Beach Bear**
 
@@ -60,11 +60,11 @@ The Wolf Pack 5 would make a return to the 1979 IAAPA Expo in New Orleans, Louis
 
 [Kings Dominion](https://en.wikipedia.org/wiki/Kings_Dominion) is an amusement park within Doswell, Virginia, that opened in 1975. The Wolf Pack 5 was put into the park in 1979 for the summer season in or near the Lost World area.(14) According to a user in a forum thread, the Wolf Pack 5 show was allegedly located in a dining area within a venue called Livingston's at the park.(15) The band was brought in to replace a film that was shown in the theater at Livingston's. Since this information is not confirmed by official sources, it is to be taken with a grain of salt. A clip of the Kings Dominion's band can be found on [here](https://www.youtube.com/watch?v=9u2JxCrB3o8). This stage was tropical themed, with cutouts of palm trees sitting in the background. It was a one stage show. A cutout reading "Wolf Pack 5" sat in the background with the palm trees. Wolfman was dressed in a blue tuxedo and wore a black bowtie. Fats wore a blue tuxedo, and his upright piano was brown with leaves and flowers draped over it. Dingo Star had a black turtleneck and a yellow overshirt. He also wore what looked to either be a yellow bowtie or string around his neck. His drum set was customized to read "Kings Dominion." Beach Bear wore yellow tropical-floral patterned shorts and a lei. Queenie is difficult to see, but she wore a dress that looks to be white on the top and lavender on the bottom. It is unknown if she held something in one of her hands. There is some confusion as to the fate of the band. They are stated to have been repurposed into a unique animatronic show for Livingston's. However, the new show had characteristics of a Rock-afire Explosion show, as it contained an animatronic that was a modified Looney Bird. A photo discovered shows a Wolfman animatronic and a Queenie animatronic that have been given new cosmetics.(16) It is very well possible that the show used a mixture of Wolf Pack 5 animatronics and animatronics from a different band. According to a post within the aforementioned forum thread, the park received a Rock-afire Explosion show from a ShowBiz Pizza Place that underwent Concept Unification. It is possible that this was the show that the Wolf Pack 5 was mixed with. This new band had custom programming instead of using songs from Creative Engineering. One user in the forum thread recalls some of the songs as being:
 
-- "Magic To Do," from Pippin. This was sung by a gorilla animatronic (likely Fatz) and a magic lamp.
-- "Octopus Song," from Fanny. This was sung by a snake animatronic in a pot which had likely formerly been a Looney Bird.
-- "Shake, Rattle, and Roll," by Big Joe Turner. This song was sung by animatronic skeletons on spikes that resided on the right side of the venue.
-- "King Tut," by Steve Martin. This was sung by the wolf animatronic dressed as a pharaoh. This was likely Wolfman judging by the image.
-- "Midnight at the Oasis," by Maria Muldaur. This was sung by the animatronic dressed as a queen. This was likely Queenie judging by the image.
+* "Magic To Do," from Pippin. This was sung by a gorilla animatronic (likely Fatz) and a magic lamp.
+* "Octopus Song," from Fanny. This was sung by a snake animatronic in a pot which had likely formerly been a Looney Bird.
+* "Shake, Rattle, and Roll," by Big Joe Turner. This song was sung by animatronic skeletons on spikes that resided on the right side of the venue.
+* "King Tut," by Steve Martin. This was sung by the wolf animatronic dressed as a pharaoh. This was likely Wolfman judging by the image.
+* "Midnight at the Oasis," by Maria Muldaur. This was sung by the animatronic dressed as a queen. This was likely Queenie judging by the image.
 
 The user states that there were other songs, but that they were unable to remember them. Since this is not coming from a verified source, this information is to be taken with a grain of salt. According to another user further down in the thread, the animatronic show caught fire one night. Beach Bear’s face was melted, and since Mitzi was positioned close to him, she caught fire and was burnt as well. They were put away in the Kingswood Ampitheater’s basement. In 2001, they were thrown out into a graveyard for rollercoasters. The user is unsure about the whereabouts of the other animatronics. Once more, since this is not a verified source, this information is to be taken with a grain of salt. It is also unknown if the user is mistaking Wolf Pack 5 members for the Rock-afire Explosion. They use the names of Rock-afire Explosion characters instead of the Wolf Pack 5’s, leaving a great deal of confusion as to what actually happened to this Wolf Pack 5 show.
 
@@ -106,13 +106,13 @@ Due to the extreme similarities between this show and the 1979 IAAPA Expo show, 
 
 ## Showtapes
 
-| Show Name / Label Name                                    | Day | Month    | Year   | Format                                     |
-|-----------------------------------------------------------|-----|----------|--------|--------------------------------------------|
-| [Wolf Pack 5 IAAPA 1978 Showtape] |     | November | 1978   | CEI 8-Track Reel                           |
-| Wolf Pack 5 IAAPA 1979 Showtape                           |     | November | 1979   | CEI 8-Track Reel                           |
-| [Wolf Pack 5 ShowBiz Tape]        |     | March    | 1980   | [CEI 4-Track Reel] |
-| [Wolfman Showtape]                |     | March    | 1980   | [CEI 4-Track Reel] |
-| **Wolf Skit 1-3**                                         |     |          | 1980's | [CEI 4-Track Reel] |
-| Wolf 1-3\|**Wolf 1-3**                                    |     |          | 1980's | [CEI 4-Track Reel] |
+| Show Name / Label Name | Day | Month | Year | Format |
+| ---------------------- | --- | ----- | ---- | ------ |
+| [Wolf Pack 5 IAAPA 1978 Showtape] |  | November | 1978 | CEI 8-Track Reel |
+| Wolf Pack 5 IAAPA 1979 Showtape |  | November | 1979 | CEI 8-Track Reel |
+| [Wolf Pack 5 ShowBiz Tape] |  | March | 1980 | [CEI 4-Track Reel] |
+| [Wolfman Showtape] |  | March | 1980 | [CEI 4-Track Reel] |
+| **Wolf Skit 1-3** |  |  | 1980's | [CEI 4-Track Reel] |
+| Wolf 1\-3\|**Wolf 1-3** |  |  | 1980's | [CEI 4-Track Reel] |
 
 Some custom showtapes existed for the various parks the Wolf Pack 5 was sold to, but these have not been preserved or discovered as of the time of this writing.
