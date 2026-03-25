@@ -3,7 +3,6 @@
   "storeNumber": "738",
   "startDate": "1981-10-21",
   "endDate": "",
-  
   "remodels": [
     {
       "n": "SPT 1990's Remodel Program",
@@ -16,6 +15,11 @@
     {
       "n": "CEC 2.0 Remodel Program",
       "s": "2019-12-12"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1981-10-21",
+      "e": "1984-01-08"
     }
   ],
   "stages": [
@@ -26,7 +30,7 @@
     },
     {
       "n": "2-Stage",
-      "s": "1992-09-00",
+      "s": "1992-09-08",
       "e": "2019-10-30",
       "desc": "Replaced by Dance Floor. Last 2-Stage in the state."
     },
@@ -38,8 +42,9 @@
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2019-10-30",
-      "desc": "2019 Model"
+      "s": "2024-08-13",
+      "desc": "2019 Model",
+      "e": ""
     }
   ],
   "franchisees": [],
@@ -220,7 +225,8 @@
     "https://www.newspapers.com/article/the-cincinnati-post-sharonville-spp-appr/180490142/"
   ],
   "contributors": [
-    "Cyber Snout"
+    "Cyber Snout",
+    "CyberSnout"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "upE3LhWSE4QOo0VURKcd.avif",
