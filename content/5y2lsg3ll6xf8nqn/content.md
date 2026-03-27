@@ -4,15 +4,15 @@ The ***Wolf Pack 5*** was an animatronic band produced by Creative Engineering f
 
 #### **The Wolfman**
 
-The Wolfman was an animatronic wolf that served as a leader and emcee for the band. Occasionally, he would also sing. He parodied [Wolfman Jack](https://en.wikipedia.org/wiki/Wolfman_Jack). He was voiced by Aaron Fechter.https://showbizpizza.fandom.com/wiki/The\_Wolf\_Pack\_5 He would go on to become Rolfe Dewolfe in the Rock-afire Explosion.
+The Wolfman was an animatronic wolf that served as a leader and emcee for the band. Occasionally, he would also sing. He is a parody of [Wolfman Jack](https://en.wikipedia.org/wiki/Wolfman_Jack). He was voiced by Joe Montione originally and Aaron Fechter and would go on to voice him in the Showbiz Pizza Place showtape. He would go on to become Rolfe Dewolfe in the Rock-afire Explosion.
 
 #### **Fats Gorilla**
 
 Fats Gorilla was a gorilla animatronic parodying [Fats Domino](https://en.wikipedia.org/wiki/Fats_Domino). He played piano and sang for the band. He was voiced by Burt Wilson, a member of the band Clutch. He would go on to become Fatz Geronimo in the Rock-afire Explosion.
 
-#### **Dingo Star**
+#### **Dingo Starr**
 
-[Dingo Star] was a beagle that parodied The Beatles' [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr). Dingo Star played the drums for the Wolf Pack 5. There is some debate as to how his name is spelt. Some written material spells his name as 'Dingo Star,' while others spell it as 'Dingo Starr.' Though it was previously believed that he was voiced by Duke Chaupetta, he was actually voiced by an unknown member of Clutch. He would go on to become Dook LaRue in the Rock-afire Explosion.
+Dingo Starr was a beagle that parodied The Beatles' [Ringo Starr](https://en.wikipedia.org/wiki/Ringo_Starr). Dingo played the drums for the Wolf Pack 5. There is some debate as to how his name is spelt. Some written material spells his name as 'Dingo Star,' while others spell it as 'Dingo Starr.' Though it was previously believed that he was voiced by Duke Chaupetta, he was actually voiced by Johnny Moonlight, A member of Clutch. He would go on to become Dook LaRue in the Rock-afire Explosion.
 
 #### **Beach Bear**
 
