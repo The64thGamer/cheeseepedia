@@ -174,7 +174,6 @@ async function enterEditMode() {
   const user      = getEditorUser();
 
   if (!articleId) {
-    // New article page
     initNewArticle(initArticleEditor, user.name || 'Anonymous', params);
     return;
   }

@@ -4,7 +4,7 @@ const WIDE_KEY     = 'cep-wide';
 
 export const THEMES = [
   'standard','dark','light','classic','funnet','showbiz',
-  'fnaf','pasqually','winter','halloween','pride','anniversary',
+  'fnaf','italy','winter','halloween','pride','anniversary',
 ];
 
 const CSS_VARS = [
@@ -21,7 +21,7 @@ const CSS_VARS = [
 
 const FONTS = [
   'Aleo','RockoFLF','Stalker','Sylvar','Octobre','Unutterable',
-  'sans-serif','serif','monospace',
+  'sans-serif','serif','monospace','RBYGSC'
 ];
 
 const LOGOS = [
@@ -266,7 +266,7 @@ export function initSettings(app) {
     const LOGOS = {
       'standard':'CEPLogo.avif','dark':'LogoDark.avif','light':'LogoLight.avif',
       'classic':'LogoClassic.avif','funnet':'LogoFunNet.avif','showbiz':'LogoShowBiz.avif',
-      'fnaf':'LogoFNaF.avif','pasqually':'LogoPasqually.avif','winter':'LogoWinter.avif',
+      'fnaf':'LogoFNaF.avif','italy':'LogoPasqually.avif','winter':'LogoWinter.avif',
       'halloween':'LogoHalloween.avif','pride':'LogoPride.avif','anniversary':'LogoAnniversary.avif',
     };
     const logoWrap = app.querySelector('.Logo') || document.querySelector('.Logo');

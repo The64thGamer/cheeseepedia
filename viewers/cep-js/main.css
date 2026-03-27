@@ -89,7 +89,7 @@
   --font-display: "Stalker";
 }
 
-[data-theme="pasqually"] {
+[data-theme="italy"] {
   --background: #6D1A1F;
   --edit-background: #892d4aff;
   --good-link: #009047;
@@ -150,6 +150,20 @@
   --dark: #222;
 }
 
+[data-theme="missingno"] {
+  --background: #d8ddd3ff;
+  --edit-background: #f7d77c;
+  --good-link: #48a75a;
+  --text: #151716ff;
+  --primary: #f7b68d;
+  --secondary: #85749d;
+  --bad-link: #f7d77c;
+  --distant: #d8ddd3ff;
+  --dark: #151716ff;
+  --font-display: "RBYGSC";
+  --font-body: "RBYGSC";
+}
+
 /* ── Fonts ── */
 @font-face {
   font-family: "Aleo";
@@ -166,6 +180,11 @@
   font-family: "RockoFLF";
   src: url('/viewers/cep-js/assets/Fonts/jf-openhuninn-2.1.ttf') format('truetype');
   unicode-range: U+3000-9FFF, U+F900-FAFF, U+FE30-FE4F, U+FF00-FFEF, U+20000-2A6DF;
+}
+
+@font-face {
+  font-family: "RBYGSC";
+  src: url('/viewers/cep-js/assets/Fonts/PKMN RBYGSC.ttf') format('truetype');
 }
 
 @font-face {
@@ -193,6 +212,7 @@
 /* ── Base ── */
 html {
   background-color: var(--distant);
+  font-family: var(--font-body);
 }
 
 body {
@@ -219,6 +239,13 @@ body {
   text-wrap: pretty;
   word-wrap: anywhere;
 }
+
+[data-theme="italy"] body{
+  outline-width: 0rem;
+  border-width: 4.5rem;
+  box-shadow: 0 0 0 0.5rem var(--dark), inset 0 0 0 0.5rem var(--dark);
+}
+
 
 [data-wide] body{
   max-width: 80rem;
@@ -1120,7 +1147,7 @@ sup {
 .Infobox {
   float: right;
   clear: right;
-  width: 16rem;
+  width: 18rem;
   margin: 0 0 1rem 1.5rem;
   border: 0.125rem solid var(--dark);
   border-radius: .75rem;
@@ -1402,12 +1429,13 @@ color: color-mix(in srgb, var(--text) 30%, transparent);
 .PinButton {
   font-size: .9rem;
   padding: .2rem .4rem;
-  border-radius: .4rem;
-  border: 0.125rem solid var(--dark);
+  border-radius: .5rem;
+  border: 0.25rem solid var(--dark);
   cursor: pointer;
   transition: background .15s;
   background-color: var(--background);
   flex-shrink: 0;
+  font-family: var(--font-body);
 }
 
 .ArticleHeaderBtns .PinButton {
@@ -1481,7 +1509,7 @@ color: color-mix(in srgb, var(--text) 30%, transparent);
 .UserNameBig {
   font-size: 1.6rem;
   margin: 0;
-  font-family: var(--font-display, sans-serif);
+  font-family: var(--font-display);
   color: var(--text);
 }
 
@@ -1963,4 +1991,144 @@ color: color-mix(in srgb, var(--text) 30%, transparent);
 /* Anchor the suggest box relative to the array row */
 .EditorArrayRow {
   position: relative;
+}
+
+
+[data-theme="funnet"] {
+  background-image: url(/viewers/cep-js/assets/Logos/funnet.avif);
+  background-size: 20rem;
+  image-rendering: crisp-edges;
+}
+
+[data-theme="missingno"] {
+  image-rendering: crisp-edges;
+}
+[data-theme="missingno"] * {
+	font-size: 1rem !important;
+	border-radius: 0rem !important;
+	background: var(--background) !important;
+}
+
+[data-theme="missingno"] body {
+  border-color: var(--background);
+}
+
+[data-theme="missingno"] .Card,[data-theme="missingno"] .PinButton,[data-theme="missingno"] .s-input-row {
+  border-radius: 0rem;
+}
+
+
+[data-theme="fnaf"] body {
+  outline-style: none;
+  box-shadow: none;
+  border-width: 0.5rem;
+  border-radius: 0rem;
+  border-color: var(--text);
+}
+
+
+[data-theme="fnaf"] * {
+  border-radius: 0rem;
+  border-color: var(--text);
+}
+
+
+[data-theme="funnet"] body {
+  outline-style: none;
+  box-shadow: none;
+  border-width: 0rem;
+  border-radius: 0rem;
+  background-color: transparent;
+}
+
+[data-theme="classic"] body {
+  outline-style: none;
+  box-shadow: none;
+  border: none;
+}
+
+[data-theme="classic"] h1 {
+  color:var(--text);
+  font-family: 'Linux Libertine','Georgia','Times',serif;
+}
+
+[data-theme="funnet"] h1,
+[data-theme="funnet"] h2,
+[data-theme="funnet"] h3{
+  color:var(--distant)
+}
+
+
+[data-theme="classic"] .s-qtag-btn {
+  color:var(--text);
+  background-color:var(--dark);
+  border-radius: 0rem;
+}
+
+[data-theme="funnet"] .s-qtag-btn {
+  color:var(--text);
+  background-color: var(--distant);
+  border-color: var(--blue);
+  font-family: var(--font-body);
+
+}
+[data-theme="funnet"] .s-input {
+  color:var(--text);
+  font-family: var(--font-body);
+}
+
+[data-theme="funnet"] .s-input::placeholder {
+  color:var(--text);
+  font-family: var(--font-body);
+}
+
+[data-theme="classic"] .FlavorText {
+	border: 0.125rem solid var(--text);
+	padding: 0.5rem;
+	border-left-color: var(--primary);
+	border-left-width: 0.75rem;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+[data-theme="funnet"] .Logo {
+  width:100%;
+}
+
+[data-theme="missingno"] .Logo {
+  display: none;
+}
+
+
+[data-width="wide"] .Logo img {
+  width: 80%;
+  margin-left: auto;
+  margin-right:auto;
+  display:block;
+}
+
+[data-theme="funnet"] .FlavorText strong {
+  color: var(--blue);
+}
+
+[data-theme="classic"] h2,h3,h4 {
+  color:var(--deep-white)
+}
+
+[data-width="wide"] body {
+  max-width: 80rem;
+}
+[data-theme="classic"] hr {
+  border: 0.05125rem solid var(--text);
+}
+
+[data-theme="classic"] .SplashText {
+  margin-top:2rem;
+  margin-bottom:-3rem;
+}
+
+[data-theme="fnaf"] .SplashText {
+  margin-top:2rem;
+  margin-bottom:-3rem;
+  color:var(--aqua)
 }
