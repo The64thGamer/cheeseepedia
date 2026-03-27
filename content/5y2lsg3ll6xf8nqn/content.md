@@ -1,4 +1,4 @@
-The ***Wolf Pack 5*** was an animatronic band produced by Creative Engineering from 1978 to 1979 for various worldwide attractions and temporarily was used in 1980 for the first ShowBiz Pizza Place in Kansas City (Antioch), MO (2726 NE Vivion Rd) while the [Rock-afire Explosion] was still in development. The band primarily played song covers in a 50's and 60’s rock and roll style. It was one of the predecessors to the Rock-afire Explosion, the other being the [Hard Luck Bears]. All of the main characters- minus Queenie in her original incarnation, would have direct counterparts or be used again in the Rock-Afire Explosion.
+The ***Wolf Pack 5*** was an animatronic band produced by Creative Engineering from 1978 to 1979 for various worldwide attractions and temporarily was used in 1980 for the first ShowBiz Pizza Place in [Kansas City (Antioch), MO (2726 NE Vivion Rd)] while the [Rock-afire Explosion] was still in development. The band primarily played song covers in a 50's and 60’s rock and roll style. It was one of the predecessors to the Rock-afire Explosion, the other being the [Hard Luck Bears]. All of the main characters- minus Queenie in her original incarnation, would have direct counterparts or be used again in the Rock-Afire Explosion.
 
 ## Characters
 
@@ -60,11 +60,11 @@ The Wolf Pack 5 would make a return to the 1979 IAAPA Expo in New Orleans, Louis
 
 [Kings Dominion](https://en.wikipedia.org/wiki/Kings_Dominion) is an amusement park within Doswell, Virginia, that opened in 1975. The Wolf Pack 5 was put into the park in 1979 for the summer season in or near the Lost World area.(14) According to a user in a forum thread, the Wolf Pack 5 show was allegedly located in a dining area within a venue called Livingston's at the park.(15) The band was brought in to replace a film that was shown in the theater at Livingston's. Since this information is not confirmed by official sources, it is to be taken with a grain of salt. A clip of the Kings Dominion's band can be found on [here](https://www.youtube.com/watch?v=9u2JxCrB3o8). This stage was tropical themed, with cutouts of palm trees sitting in the background. It was a one stage show. A cutout reading "Wolf Pack 5" sat in the background with the palm trees. Wolfman was dressed in a blue tuxedo and wore a black bowtie. Fats wore a blue tuxedo, and his upright piano was brown with leaves and flowers draped over it. Dingo Star had a black turtleneck and a yellow overshirt. He also wore what looked to either be a yellow bowtie or string around his neck. His drum set was customized to read "Kings Dominion." Beach Bear wore yellow tropical-floral patterned shorts and a lei. Queenie is difficult to see, but she wore a dress that looks to be white on the top and lavender on the bottom. It is unknown if she held something in one of her hands. There is some confusion as to the fate of the band. They are stated to have been repurposed into a unique animatronic show for Livingston's. However, the new show had characteristics of a Rock-afire Explosion show, as it contained an animatronic that was a modified Looney Bird. A photo discovered shows a Wolfman animatronic and a Queenie animatronic that have been given new cosmetics.(16) It is very well possible that the show used a mixture of Wolf Pack 5 animatronics and animatronics from a different band. According to a post within the aforementioned forum thread, the park received a Rock-afire Explosion show from a ShowBiz Pizza Place that underwent Concept Unification. It is possible that this was the show that the Wolf Pack 5 was mixed with. This new band had custom programming instead of using songs from Creative Engineering. One user in the forum thread recalls some of the songs as being:
 
-- "Magic To Do," from Pippin. This was sung by a gorilla animatronic (likely Fatz) and a magic lamp.
-- "Octopus Song," from Fanny. This was sung by a snake animatronic in a pot which had likely formerly been a Looney Bird.
-- "Shake, Rattle, and Roll," by Big Joe Turner. This song was sung by animatronic skeletons on spikes that resided on the right side of the venue.
-- "King Tut," by Steve Martin. This was sung by the wolf animatronic dressed as a pharaoh. This was likely Wolfman judging by the image.
-- "Midnight at the Oasis," by Maria Muldaur. This was sung by the animatronic dressed as a queen. This was likely Queenie judging by the image.
+* "Magic To Do," from Pippin. This was sung by a gorilla animatronic (likely Fatz) and a magic lamp.
+* "Octopus Song," from Fanny. This was sung by a snake animatronic in a pot which had likely formerly been a Looney Bird.
+* "Shake, Rattle, and Roll," by Big Joe Turner. This song was sung by animatronic skeletons on spikes that resided on the right side of the venue.
+* "King Tut," by Steve Martin. This was sung by the wolf animatronic dressed as a pharaoh. This was likely Wolfman judging by the image.
+* "Midnight at the Oasis," by Maria Muldaur. This was sung by the animatronic dressed as a queen. This was likely Queenie judging by the image.
 
 The user states that there were other songs, but that they were unable to remember them. Since this is not coming from a verified source, this information is to be taken with a grain of salt. According to another user further down in the thread, the animatronic show caught fire one night. Beach Bear’s face was melted, and since Mitzi was positioned close to him, she caught fire and was burnt as well. They were put away in the Kingswood Ampitheater’s basement. In 2001, they were thrown out into a graveyard for rollercoasters. The user is unsure about the whereabouts of the other animatronics. Once more, since this is not a verified source, this information is to be taken with a grain of salt. It is also unknown if the user is mistaking Wolf Pack 5 members for the Rock-afire Explosion. They use the names of Rock-afire Explosion characters instead of the Wolf Pack 5’s, leaving a great deal of confusion as to what actually happened to this Wolf Pack 5 show.
 
@@ -86,7 +86,7 @@ Pyramid Place was a venue housing various attractions in Niagara Falls, Canada.(
 
 ### **Spreepark**
 
-[Spreepark](https://en.wikipedia.org/wiki/Spreepark) was an amusement park in Berlin, Germany that opened in 1969 and operated until 2002. A modified Wolf Pack 5 show performed there. They were located on a balcony within the park. Alongside new cosmetics, turning them into completely new characters, the band was also referred to by a different name. They were called the Crazy Critters Band.(0) Some speculate that they were previously the traveling Europe show before being purchased by Spreepark. A video of them can be found on YouTube [here](https://www.youtube.com/watch?v=iNAixJQ3jeA). The Wolf Pack 5 show disappeared from their usual place in the park once it closed down. The band's whereabouts are not confirmed at this time. A commenter on the video claimed to have reached out to the owners of the park.(25) The owners allegedly stated that they had the animatronics, were storing them in a warehouse, and were unwilling to sell them, as they are planning to open the park again. As this information is not confirmed by official sources, take this information with a grain of salt.
+[Spreepark](https://en.wikipedia.org/wiki/Spreepark) was an amusement park in Berlin, Germany that opened in 1969 and operated until 2002. A modified Wolf Pack 5 show performed there. They were located on a balcony within the park. Alongside new cosmetics, turning them into completely new characters, the band was also referred to by a different name. They were called the Crazy Critters Band.(0) Some speculate that they were previously the traveling Europe show before being purchased by Spreepark. A video of them can be found on YouTube [here](https://www.youtube.com/watch?v=iNAixJQ3jeA). The Wolf Pack 5 show disappeared from their usual place in the park once it closed down. On March 17, 2026 it was discovered that the Wolf Pack 5 show was relocated to Rancho Aventura Park in Peru on display on a horror-themed display. The only characters on display were the Wolfman and Fats(25). On March 23, 2026 it was published that the show was purchased by an unknown individual. [39]
 
 ### **The Traveling Europe Show**
 
@@ -106,13 +106,13 @@ Due to the extreme similarities between this show and the 1979 IAAPA Expo show, 
 
 ## Showtapes
 
-| Show Name / Label Name                                    | Day | Month    | Year   | Format                                     |
-|-----------------------------------------------------------|-----|----------|--------|--------------------------------------------|
-| [Wolf Pack 5 IAAPA 1978 Showtape] |     | November | 1978   | CEI 8-Track Reel                           |
-| Wolf Pack 5 IAAPA 1979 Showtape                           |     | November | 1979   | CEI 8-Track Reel                           |
-| [Wolf Pack 5 ShowBiz Tape]        |     | March    | 1980   | [CEI 4-Track Reel] |
-| [Wolfman Showtape]                |     | March    | 1980   | [CEI 4-Track Reel] |
-| **Wolf Skit 1-3**                                         |     |          | 1980's | [CEI 4-Track Reel] |
-| Wolf 1-3\|**Wolf 1-3**                                    |     |          | 1980's | [CEI 4-Track Reel] |
+| Show Name / Label Name | Day | Month | Year | Format |
+| ---------------------- | --- | ----- | ---- | ------ |
+| [Wolf Pack 5 IAAPA 1978 Showtape] |  | November | 1978 | CEI 8-Track Reel |
+| Wolf Pack 5 IAAPA 1979 Showtape |  | November | 1979 | CEI 8-Track Reel |
+| [Wolf Pack 5 ShowBiz Tape] |  | March | 1980 | [CEI 4-Track Reel] |
+| [Wolfman Showtape] |  | March | 1980 | [CEI 4-Track Reel] |
+| **Wolf Skit 1-3** |  |  | 1980's | [CEI 4-Track Reel] |
+| Wolf 1\-3\|**Wolf 1-3** |  |  | 1980's | [CEI 4-Track Reel] |
 
 Some custom showtapes existed for the various parks the Wolf Pack 5 was sold to, but these have not been preserved or discovered as of the time of this writing.
