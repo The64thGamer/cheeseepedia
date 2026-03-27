@@ -7,7 +7,7 @@ categories = ["Chuck E. Cheese's"]
 
 startDate = "1993-04-10"
 endDate = ""
-contributors = ["Rexburg090","Anonymous","Sptparole","Tux Chuck","PachCEC","Chuckepoggers69","sudo trans --pony","Caydenpedia","Cyber Snout"]
+contributors = ["Rexburg090","Anonymous","Sptparole","Tux Chuck","PachCEC","Chuckepoggers69","sudo trans --pony","Caydenpedia","CyberSnout"]
 citations = []
 latitudeLongitude = ["38.97895537","-76.54700493"]
 +++
