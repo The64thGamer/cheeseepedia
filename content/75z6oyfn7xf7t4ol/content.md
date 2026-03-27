@@ -3,6 +3,7 @@
 Cheese-E-Pedia's goal is to archive everything that has happened in the 50+ year timespan of every major FEC animatronics company. No topic, item, or idea will be left undocumented, and every piece of data in the public's hands will be preserved and archived. Every item is believed to deserve its own page to allow community members to delve into a topic as much as they would like, promoting community involvement from the wide range of enthusiasts and fans. Its information is free to copy and re-host (Under CC BY-SA 4.0).
 
 ## History
+
 The site launched to private access in November of 2021, where 7 community members would spend the next eight months building the infrastructure of the site. The site was run on Mediawiki and hosted on Miraheze. They would discuss the layout of categories, create articles, build standards and formats for articles, and begin to gather exclusive and thoroughly researched information for the legitimization of the site.
 
 On July 10th, 2022, the site would be announced in the Cheese-E-Pedia Discord Server (Then called *Pizza Time Techs*), set to release the next week. The actual release would arrive early on July 14th, launching without issue. Initial throughput of articles and changes were slow, though picked up by the end of the year.
@@ -23,131 +24,128 @@ On September 6th, the entirety of all articles tagged 'Location' would have thei
 
 On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate directly into the site, and be another attempt to get off of Discord. The Discord would have its channels reduced to more bare essentials, while news and wiki discussion were moved entirely to the new forums. Later on the Discord would have all invites closed.
 
-In late December 2025 to January 2026, the site would recieve many CSS changes, homepage graphs, and a new search engine.
+In late December 2025 to January 2026, the site would recieve many CSS changes, homepage graphs, and a new search engine. Throughout February the site would test using the GitHub API to do in-site editing and finally get rid of Decap, which would succeed near the end of the month. Tests would also begin for an alternate
+
+On March 22nd the entire site would be overhauled and rewritten from scratch to remove Hugo and DecapCMS entirely in favor of being a Single Page Application with future potential 'viewers' of the same content, one being Theory Web. Theory Web is planned as a Five Nights at Freddy's variant of the site only showing FNaF articles and in a format as to write and share 'Theory' pages, which will not be seen in default CEP.
 
 ### Changes Timeline
 
 #### 2021
 
-- **November 28th -** Wiki goes live as 'Decode-Document-Digitize Wiki'. Visibility set to private.
+* **November 28th -** Wiki goes live as 'Decode-Document-Digitize Wiki'. Visibility set to private.
 
 #### 2022
 
-- **February 18th -** Wiki name changes to 'Chuck E. Encyclopedia'
-- **July 10th -** Announcement of public unveiling for July 17th.
-- **July 14th -** Early opening of Wiki to the public. Site name changes finally to 'Chuck-E-Pedia'
-- **August 21st -** The Wiki's first major lost media search, that being of the 1979 Pizza Time Theatre Ad, commences.
-- **September 5th -** A preliminary logo is added to the site's design.
-- **October 7th -** The Wiki's complete flower-styled logo is designed and added to the site.
-- **November 17th -** Wiki host Miraheze loses all files to the wiki, and the site goes offline.
-- **November 20th -** The Wiki's Discord Server reaches 1000 members.
-- **November 22nd -** The Wiki's flower-styled icon is designed.
-- **November 29th -** A backup from August 2022 is restored and the Wiki goes back online.
-- **November 30th -** The flower-styled icon is applied to the site design.
-- **December 5th -** Infoboxes, thumbnail embeds, and other styling is set in the site's design standards.
-- **December 16th -** An incorporation of Joe Lewis' token and ticket identification standard is added to the wiki.
-- **December 19th -** Wiki host Miraheze confirms the lost pages from November are recovered and will be implemented soon.
-- **December 31st -** Wiki host Miraheze merges November pages back into Chuck-E-Pedia, successfully bringing back the wiki in full.
+* **February 18th -** Wiki name changes to 'Chuck E. Encyclopedia'
+* **July 10th -** Announcement of public unveiling for July 17th.
+* **July 14th -** Early opening of Wiki to the public. Site name changes finally to 'Chuck-E-Pedia'
+* **August 21st -** The Wiki's first major lost media search, that being of the 1979 Pizza Time Theatre Ad, commences.
+* **September 5th -** A preliminary logo is added to the site's design.
+* **October 7th -** The Wiki's complete flower-styled logo is designed and added to the site.
+* **November 17th -** Wiki host Miraheze loses all files to the wiki, and the site goes offline.
+* **November 20th -** The Wiki's Discord Server reaches 1000 members.
+* **November 22nd -** The Wiki's flower-styled icon is designed.
+* **November 29th -** A backup from August 2022 is restored and the Wiki goes back online.
+* **November 30th -** The flower-styled icon is applied to the site design.
+* **December 5th -** Infoboxes, thumbnail embeds, and other styling is set in the site's design standards.
+* **December 16th -** An incorporation of Joe Lewis' token and ticket identification standard is added to the wiki.
+* **December 19th -** Wiki host Miraheze confirms the lost pages from November are recovered and will be implemented soon.
+* **December 31st -** Wiki host Miraheze merges November pages back into Chuck-E-Pedia, successfully bringing back the wiki in full.
 
 #### 2023
 
-- **February 3rd -** The wiki reaches 700 articles.
-- **February 5th -** The site receives a massive design overhaul, cleaning up the front page, adding tabs, and setting site colors to a deep blue. Sections for FECs and retrofitted animatronic shows are also added for users to contribute to.
-- **March 31st -** Removed Mobile Frontend to align layout to the PC experience for mobile users.
-- **April 17th-** Community votes on wiki name change to 'Cheese-E-Pedia' to avoid trademark violations.
-- **April 18th -** Media Viewer and Popup extensions enabled for easier browsing of the site.
-- **June 19th -** First non CEC/SPP/PTT/CEI article created going over DACS, though isn't integrated into site navigation yet.
-- **July 4th -** The wiki hits 1000 articles.
-- **July 8th -** The wiki begins its first community project for contributing to specific wiki sections: the Artifact Shelves & 1990s Major Remodel
-- **October 23rd -** Miraheze updates the wiki to Mediawiki 1.40, moving all sidebars to hidden menus and decluttering the pages.
-- **November 2nd -** The wiki's front page changes to have a 'Home' tab instead of information being under the logo.
-- **November 27th -** 'Sally Corp' section added to the front page tabs.
-- **December 18th -** Added auto-updating ranking of top 5 users in past 30 days to the main page.
+* **February 3rd -** The wiki reaches 700 articles.
+* **February 5th -** The site receives a massive design overhaul, cleaning up the front page, adding tabs, and setting site colors to a deep blue. Sections for FECs and retrofitted animatronic shows are also added for users to contribute to.
+* **March 31st -** Removed Mobile Frontend to align layout to the PC experience for mobile users.
+* **April 17th-** Community votes on wiki name change to 'Cheese-E-Pedia' to avoid trademark violations.
+* **April 18th -** Media Viewer and Popup extensions enabled for easier browsing of the site.
+* **June 19th -** First non CEC/SPP/PTT/CEI article created going over DACS, though isn't integrated into site navigation yet.
+* **July 4th -** The wiki hits 1000 articles.
+* **July 8th -** The wiki begins its first community project for contributing to specific wiki sections: the Artifact Shelves & 1990s Major Remodel
+* **October 23rd -** Miraheze updates the wiki to Mediawiki 1.40, moving all sidebars to hidden menus and decluttering the pages.
+* **November 2nd -** The wiki's front page changes to have a 'Home' tab instead of information being under the logo.
+* **November 27th -** 'Sally Corp' section added to the front page tabs.
+* **December 18th -** Added auto-updating ranking of top 5 users in past 30 days to the main page.
 
 #### 2024
 
-- **January 24th -** 'Creative Presentations' sections begin being worked on.
-- **April 29th -** Browser extension *Indie Wiki Buddy* adds CEP as the overwriting site for the CEC Fandom Wiki.
-- **May 2nd-** Creative Presentations section added to homepage
-- **May 22nd -** ''Advanced Animations', 'AVG Technologies', 'VP Animations', 'Hofmann Figuren', and 'Unknown Manufacturers' sections begin being worked on.
-- **May 24th -** The wiki hits 1500 articles.
-- **May 26th -** New admin *Stripes* fixes many CSS problems with the wiki for a better look. CirrusSearch, AdvancedSearch, and RelatedArticles extensions enabled by Miraheze Stewards.
-- **May 31st -** The site is mentioned by *The Charlotte Ledger* in a news article. (https://charlotteledger.substack.com/p/in-a-chuck-e-cheese-on-pineville)
-- **June 22nd -** Removed the very old 'Terms & Additional Topics' page, moving terms to ':Category:Animatronic Preservation', and deleting the disambiguation pages.
-- **July 14th -** Testing for a new homepage begins.
-- **July 15th -** New homepage layout is implemented.
-- **August 1st -** Featured Articles return to the main page.
-- **August 17th -** All CSS is moved out of Common.css to allow per-theme modifications.
-- **September 9th -** The site begins plans to potentially move to a static Hugo site.
-- **September 12th -** Plans to move to Hugo solidified, test site goes live at (https://cheeser-bj9nd.ondigitalocean.app/)
-- **September 18th -** First implementation of the new site's map.
-- **September 24th -** Site fully moves to the new version.
-- **September 28th -** Site implements video pages and color themes.
-- **September 29th -** Site implements movie categories.
-- **October 6th -** Added program to automate adding video pages.
-- **October 17th -** Site implements transcription pages.
-- **October 19th -** Removed manual entry of last modified dates for articles, now is automated. Forums launch.
-- **November 19th -** Implementation of holiday themes that overwrote the Standard and Classic themes.
-- **December 3rd -** First implementation of new Decap CMS visual article editor.
-- **December 4th -** Implementation of snow for Winter theme.
-- **December 6th -** Implementation of header splash text alongside a selector for holiday themes that now can apply to any main theme.
-- **December 7th -** Decap CMS editor finally begins working.
-- **December 12th -** Implemented news page.
-- **December 13th -** Updated site to Hugo 0.139.4 and improved compile times.
+* **January 24th -** 'Creative Presentations' sections begin being worked on.
+* **April 29th -** Browser extension *Indie Wiki Buddy* adds CEP as the overwriting site for the CEC Fandom Wiki.
+* **May 2nd-** Creative Presentations section added to homepage
+* **May 22nd -** ''Advanced Animations', 'AVG Technologies', 'VP Animations', 'Hofmann Figuren', and 'Unknown Manufacturers' sections begin being worked on.
+* **May 24th -** The wiki hits 1500 articles.
+* **May 26th -** New admin *Stripes* fixes many CSS problems with the wiki for a better look. CirrusSearch, AdvancedSearch, and RelatedArticles extensions enabled by Miraheze Stewards.
+* **May 31st -** The site is mentioned by *The Charlotte Ledger* in a news article. (https://charlotteledger.substack.com/p/in-a-chuck-e-cheese-on-pineville)
+* **June 22nd -** Removed the very old 'Terms & Additional Topics' page, moving terms to ':Category:Animatronic Preservation', and deleting the disambiguation pages.
+* **July 14th -** Testing for a new homepage begins.
+* **July 15th -** New homepage layout is implemented.
+* **August 1st -** Featured Articles return to the main page.
+* **August 17th -** All CSS is moved out of Common.css to allow per-theme modifications.
+* **September 9th -** The site begins plans to potentially move to a static Hugo site.
+* **September 12th -** Plans to move to Hugo solidified, test site goes live at (https://cheeser-bj9nd.ondigitalocean.app/)
+* **September 18th -** First implementation of the new site's map.
+* **September 24th -** Site fully moves to the new version.
+* **September 28th -** Site implements video pages and color themes.
+* **September 29th -** Site implements movie categories.
+* **October 6th -** Added program to automate adding video pages.
+* **October 17th -** Site implements transcription pages.
+* **October 19th -** Removed manual entry of last modified dates for articles, now is automated. Forums launch.
+* **November 19th -** Implementation of holiday themes that overwrote the Standard and Classic themes.
+* **December 3rd -** First implementation of new Decap CMS visual article editor.
+* **December 4th -** Implementation of snow for Winter theme.
+* **December 6th -** Implementation of header splash text alongside a selector for holiday themes that now can apply to any main theme.
+* **December 7th -** Decap CMS editor finally begins working.
+* **December 12th -** Implemented news page.
+* **December 13th -** Updated site to Hugo 0.139.4 and improved compile times.
 
 #### 2025
 
-- **January 4th -** Removed the CEP forums due to lack of activity (Probably brought on by the fact nobody could make an account accidentally)
-- **January 19th -** Added visual design for blank pages in lists, added emojis for categories, and fixed random articles to always have content in them.
-- **January 30th -** Articles now display a download icon if they contain downloadable files.
-- **January 31st -** Stripes fixes 92 photos to properly display.
-- **February 2nd -** Tons of untagged and uncategorized pages are fixed, Social Media & Websites category brought back.
-- **February 3rd -** CSS for mobile devices improved.
-- **March 13th -** New "Community Garden" logo with variants for every theme. Alongside this adding the Italy theme and more splash text.
-- **March 14th -** Recent Changes updated with better look.
-- **March 15th -** Many articles fixed to have unknown 'end-date' parameter instead of the default set to the Present.
-- **March 17th -** Reviews properly display as infoboxes on user pages and articles.
-- **March 30th -** Location Map markers updated with rough icons for which stores are which company.
-- **April 30th -** New Revolt server as an alternative to the Discord server opens up, reaches 70 members in the first 2 days.
-- **May 24th -** CEP Discord server updated with new ticketing system and many changes to the server set it to be closer to the Revolt one.
-- **May 26th -** Revolt and Discord server linked with a bridging bot, has many issues but begins efforts to sync both.
-- **June 2nd -** CEP appears in the news again: https://www.metrosiliconvalley.com/pizza-time-theater-kooser-chuck-e-cheese/
-- **July 3rd -** Revolt server removed after low activity.
-- **July 22nd -** All articles moved from HTML to Markdown.
-- **August 10th -** 'cite' shortcode added.
-- **August 11th -** 'Sales' section added for articles to graph out second-hand sales data.
-- **August 14th -** Decap changed to remove 'live preview' and instead integrate the preview into the text-box itself.
-- **September 6th-** All location article texts wiped, infobox CSS fixes, location thumbnail images expanded, and loading text added for lists. User count drops by 500, article count drops by 1000.
-- **September 11th-** Loading text now animates, changed 'filenotfound.jpg' to frown design.
-- **October 3rd-** The site accidentally displays 6623 articles instead of the usual 1000+ after photo and video articles change in formatting, allowing them to be counted (in error).
-- **October 11th-** The site hits 100+ transcription pages.
-- **October 12th-** The article count display is fixed, now at 1301. Users previously from Mediawiki who just had an IP address are lumped into 'Anonymous' user. Users on user pages are colored by total article count.
-- **October 15th-** Cheese-E-Pedia forums are tried once again, this time on Discourse. 'Recent News' section is temporarily removed from homepage.
-- **October 16th-** CEP Discord channels are closed and reduced to the essentials. Wiki-related channels are especially closed to move conversations to the Forums.
-- **October 20th-** Forums recieve groups (roles) users can join or leave, such as Merch Owner, CEC Employee, Animatronic Owners, etc.
-- **October 21st-** Recent News section on homepage is reinstated and connected to the News posts on the Forum.
-- **November 8th-** Locations map is fixed due to multiple page errors previously breaking it
-- **November 15th-** Auto-generated tables for arcade, remodel, animatronic, and stage pages are added that link to locatiosn that have them.
-- **November 26th-** Photo galleries become broken.
-- **December 7th-** After a month of changes, the wiki goes from 28 minutes to compile (after auto-generated tables were introduced) down to 9 minutes. The Photos category is also paginated. Wiki compilation begins to be split into python files that need to run before Hugo.
-- **December 9th-** Bash scripts for compiling introduced, low-res image previews introduced.
-- **December 18th-** Bash scripts replaced with Python scripts, scripts split out further to each function, and more are introduced for optimization. News and recent changes are compiled into one section, while also adding New Photos and New Videos. Recent Changes are also dynamically grouped by changed time.
-- **December 31st-** Many back-end changes made to clean up the site and prepare it for multiple Hugo themes.
+* **January 4th -** Removed the CEP forums due to lack of activity (Probably brought on by the fact nobody could make an account accidentally)
+* **January 19th -** Added visual design for blank pages in lists, added emojis for categories, and fixed random articles to always have content in them.
+* **January 30th -** Articles now display a download icon if they contain downloadable files.
+* **January 31st -** Stripes fixes 92 photos to properly display.
+* **February 2nd -** Tons of untagged and uncategorized pages are fixed, Social Media & Websites category brought back.
+* **February 3rd -** CSS for mobile devices improved.
+* **March 13th -** New "Community Garden" logo with variants for every theme. Alongside this adding the Italy theme and more splash text.
+* **March 14th -** Recent Changes updated with better look.
+* **March 15th -** Many articles fixed to have unknown 'end-date' parameter instead of the default set to the Present.
+* **March 17th -** Reviews properly display as infoboxes on user pages and articles.
+* **March 30th -** Location Map markers updated with rough icons for which stores are which company.
+* **April 30th -** New Revolt server as an alternative to the Discord server opens up, reaches 70 members in the first 2 days.
+* **May 24th -** CEP Discord server updated with new ticketing system and many changes to the server set it to be closer to the Revolt one.
+* **May 26th -** Revolt and Discord server linked with a bridging bot, has many issues but begins efforts to sync both.
+* **June 2nd -** CEP appears in the news again: https://www.metrosiliconvalley.com/pizza-time-theater-kooser-chuck-e-cheese/
+* **July 3rd -** Revolt server removed after low activity.
+* **July 22nd -** All articles moved from HTML to Markdown.
+* **August 10th -** 'cite' shortcode added.
+* **August 11th -** 'Sales' section added for articles to graph out second-hand sales data.
+* **August 14th -** Decap changed to remove 'live preview' and instead integrate the preview into the text-box itself.
+* **September 6th-** All location article texts wiped, infobox CSS fixes, location thumbnail images expanded, and loading text added for lists. User count drops by 500, article count drops by 1000.
+* **September 11th-** Loading text now animates, changed 'filenotfound.jpg' to frown design.
+* **October 3rd-** The site accidentally displays 6623 articles instead of the usual 1000+ after photo and video articles change in formatting, allowing them to be counted (in error).
+* **October 11th-** The site hits 100+ transcription pages.
+* **October 12th-** The article count display is fixed, now at 1301. Users previously from Mediawiki who just had an IP address are lumped into 'Anonymous' user. Users on user pages are colored by total article count.
+* **October 15th-** Cheese-E-Pedia forums are tried once again, this time on Discourse. 'Recent News' section is temporarily removed from homepage.
+* **October 16th-** CEP Discord channels are closed and reduced to the essentials. Wiki-related channels are especially closed to move conversations to the Forums.
+* **October 20th-** Forums recieve groups (roles) users can join or leave, such as Merch Owner, CEC Employee, Animatronic Owners, etc.
+* **October 21st-** Recent News section on homepage is reinstated and connected to the News posts on the Forum.
+* **November 8th-** Locations map is fixed due to multiple page errors previously breaking it
+* **November 15th-** Auto-generated tables for arcade, remodel, animatronic, and stage pages are added that link to locatiosn that have them.
+* **November 26th-** Photo galleries become broken.
+* **December 7th-** After a month of changes, the wiki goes from 28 minutes to compile (after auto-generated tables were introduced) down to 9 minutes. The Photos category is also paginated. Wiki compilation begins to be split into python files that need to run before Hugo.
+* **December 9th-** Bash scripts for compiling introduced, low-res image previews introduced.
+* **December 18th-** Bash scripts replaced with Python scripts, scripts split out further to each function, and more are introduced for optimization. News and recent changes are compiled into one section, while also adding New Photos and New Videos. Recent Changes are also dynamically grouped by changed time.
+* **December 31st-** Many back-end changes made to clean up the site and prepare it for multiple Hugo themes.
 
 #### 2026
 
-- **January 2nd-** New card version of article previews created and used for various parts of the site. Random articles optimized and increased to 10 per page. Entire site CSS reevaluated and tweaked. Fixed many showtape segment lists not having correct indentation. Added graphs and statistics on homepage.
-- **January 8th-** New robust searching feature is implemented to get away from the rigid tags and categories navigation, now with its own auto-tagging system based on article contents, linked articles, and page parameters.
-- **January 10th-** All Animatronic News articles are deleted and moved to the forums. The Monthly Topic is brought back, focusing on merchandise and products. Many pages are immediately updated.
-- **January 11th-** The homepage gets the article heirarchy removed, tags added to each page's bottom, and many articles which have a gallery but no thumbnail become fixed. Photos/Videos/etc now get the tags of their linked pages.
-- **January 25th-** Certain showtape articles are upgraded to support show playback with timestamps.
-- **February 3rd-** The wiki moves from DigitalOcean to a VPS due to high costs and no space. The site now doesn't auto-compile when a new commit is merged, and must be updated manually.
-- **February 3rd-** Users are overhauled to include new rank names, consistent displaying of users, and integration with the forums.
-
-### Planned Upcoming Changes
-
-- Switch from Decap CMS to Sveltia CMS (2026) - Currently the site's editing system, Decap CMS, sucks really bad but is basically the only option for live editing with moderation tools. There is a fork of it called Sveltia CMS that's just a single link replacement to improve many aspects- but the problem is it currently hasn't implemented "Open Authoring", which allows people to automatically push updates to the site for approval. Their timeline says OA will be implemented after release in 2026, so it's just a waiting game for when that is done.
-One major flaw of Decap that will handicap moderation speeds is that image uploads are currently broken. Mods have to track down the file on the user's fork and upload it themselves through GitHub. There are also issues with pages having their live preview displayed.
+* **January 2nd-** New card version of article previews created and used for various parts of the site. Random articles optimized and increased to 10 per page. Entire site CSS reevaluated and tweaked. Fixed many showtape segment lists not having correct indentation. Added graphs and statistics on homepage.
+* **January 8th-** New robust searching feature is implemented to get away from the rigid tags and categories navigation, now with its own auto-tagging system based on article contents, linked articles, and page parameters.
+* **January 10th-** All Animatronic News articles are deleted and moved to the forums. The Monthly Topic is brought back, focusing on merchandise and products. Many pages are immediately updated.
+* **January 11th-** The homepage gets the article heirarchy removed, tags added to each page's bottom, and many articles which have a gallery but no thumbnail become fixed. Photos/Videos/etc now get the tags of their linked pages.
+* **January 25th-** Certain showtape articles are upgraded to support show playback with timestamps.
+* **February 3rd-** The wiki moves from DigitalOcean to a VPS due to high costs and no space. The site now doesn't auto-compile when a new commit is merged, and must be updated manually.
+* **February 3rd-** Users are overhauled to include new rank names, consistent displaying of users, and integration with the forums.
 
 ## History of CEC Information Before CEP
 
