@@ -337,9 +337,9 @@ async function executeSearch() {
   if(!fuzzyQ) {
     let ids=null;
     for(const c of tagChips) {
-      const tagIds=new Set(TAGS[c.value]||[]);
+const tagIds = new Set((TAGS[c.value] || []).map(Number));
       if(c.neg) {
-        if(!ids) ids=new Set(DOCS.map((_,i)=>i));
+        if(!ids) ids=new Set(DOCS.map((_,i)=>i+1));
         for(const id of tagIds) ids.delete(id);
       } else {
         if(!ids) {
@@ -353,7 +353,7 @@ async function executeSearch() {
         }
       }
     }
-    results=[...(ids||[])].map(id=>({score:0,doc:DOCS[id]})).filter(r=>r.doc);
+    results=[...(ids||[])].map(id=>({score:0,doc:DOCS[id-1]})).filter(r=>r.doc);
     const pt=tagChips.find(c=>!c.neg);
     if(pt) {
       const qt=tris(pt.value);
