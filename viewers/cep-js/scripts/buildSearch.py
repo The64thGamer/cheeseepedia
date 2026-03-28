@@ -89,7 +89,8 @@ def build():
 
     docs, tag_idx, tri_idx = [], defaultdict(list), defaultdict(list)
 
-    for doc_id, folder in enumerate(sorted(folders)):
+    doc_id = 0
+    for folder in sorted(folders):
         fm, body, mt = read_article(folder)
         if fm is None: continue
         title = fm.get('title', folder.name)
@@ -110,6 +111,7 @@ def build():
             ' '.join(str(v) for v in (fm.get('contributors') or [])),
             clean_body(body)])
         for tri in trigrams(fuzzy): tri_idx[tri].append(doc_id)
+        doc_id += 1
 
     tri_idx = {k:v for k,v in tri_idx.items() if len(v)>=MIN_TRI_FREQ}
     shards  = defaultdict(dict)

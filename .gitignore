@@ -38,3 +38,4 @@ hugo-build.log
 *.pyc
 /viewers/cep-js/scripts/__pycache__
 viewers/cep-js/compiled-json/.views.json.kate-swp
+/viewers/cep-js/scripts/__pycache__
