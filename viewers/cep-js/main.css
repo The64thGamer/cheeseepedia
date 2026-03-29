@@ -881,6 +881,7 @@ sup {
   flex-wrap: wrap;
   gap: 1rem;
   padding: .5rem 0;
+  justify-content: center;
 }
 
 .s-gallery {
@@ -2131,4 +2132,26 @@ color: color-mix(in srgb, var(--text) 30%, transparent);
   margin-top:2rem;
   margin-bottom:-3rem;
   color:var(--aqua)
+}
+
+
+@media (min-aspect-ratio: 0.7) {
+  body{
+    border-style: none;
+    outline-style: none;
+    box-shadow: none;
+    border-radius: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+  }
+
+  .Logo img{
+    margin-bottom: 0rem;
+  }
+
+  .s-input-row{
+    padding: 1rem;
+  }
 }
