@@ -1,7 +1,15 @@
 {
   "title": "Ceclife13",
   "type": "User",
-  "tags": [
-    
+  "tags": [],
+  "quotes": [
+    "Hasta la pasta",
+    "Hasta la pizza",
+    "Hasta la blah blah"
+  ],
+  "pageThumbnailFile": "brnaurys7ldzrwabd1bg.avif",
+  "contributors": [
+    "Ceclife13",
+    "Anonymous"
   ]
 }
