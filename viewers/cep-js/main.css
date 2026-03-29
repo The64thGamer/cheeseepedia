@@ -2145,6 +2145,8 @@ color: color-mix(in srgb, var(--text) 30%, transparent);
     padding-right: 1rem;
     padding-top: 2rem;
     padding-bottom: 5rem;
+    max-width: auto;
+    min-width: auto;
   }
 
   .Logo img{
