@@ -2135,8 +2135,8 @@ color: color-mix(in srgb, var(--text) 30%, transparent);
 }
 
 
-@media (min-aspect-ratio: 0.7) {
-  body{
+@media (max-aspect-ratio: 1/1) {
+    body{
     border-style: none;
     outline-style: none;
     box-shadow: none;
