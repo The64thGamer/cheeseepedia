@@ -1,8 +1,8 @@
-The ***Big C's Combo ***was a pizza served at \[Pizza Time Theatre\] locations from 1977 through 1984\.\[1\]\[2\]\[3\]The pizza was served with 9\-10 different toppings in multiple sizes throughout its run\.
+The ***Big C's Combo ***was a pizza served at [Pizza Time Theatre] locations from 1977 through 1984.[1][2][3]The pizza was served with 9-10 different toppings in multiple sizes throughout its run.
 
 ## History
 
-It would first appear at the \[San Jose\, CA \(370 S Winchester Blvd\)\] on May 3rd\, 1977\, at the Pizza Time Theatre Grand Opening Review \(Event\)\|Pizza Time Theatre Grand Opening Review\.https://archive\.org/details/the\-gospel\-of\-st\.\-pong\-revisited\-vol\-4\-april\-1977/page/n1/mode/2up The event described the locations pizza:
+It would first appear at the [San Jose, CA (370 S Winchester Blvd)] on May 3rd, 1977, at the Pizza Time Theatre Grand Opening Review (Event)|Pizza Time Theatre Grand Opening Review.https://archive.org/details/the-gospel-of-st.-pong-revisited-vol-4-april-1977/page/n1/mode/2up The event described the locations pizza:
 
 > '-Pasqually would like to introduce his new finger kissin' pizza, his new high-protein pizza which features whole-wheat crust containing protein equivalent to a ⅓ lb. sirloin steak.'[4]
 
