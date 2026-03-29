@@ -1,0 +1,6 @@
+
+
+## Structure
+
+### Folders
+* /content/ contains
