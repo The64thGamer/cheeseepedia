@@ -1,5 +1,5 @@
-The *Moonrockers Showtape* is an official CEI showtape to the retrofit show of the main *Rock-afire Explosion,* called the [Moonrockers].
-The tape consists of 2 skits and 3 songs, used to demo at IAAPA for potential buyers. Nobody purchased the show, leaving the characters to instead be used in promotional videos for CEI moving forward.\*\*
+The ***Moonrockers Showtape*** is an official CEI showtape to the retrofit show of the main *Rock-afire Explosion,* called the [Moonrockers].
+The tape consists of 2 skits and 3 songs, used to demo at IAAPA for potential buyers. Nobody purchased the show, leaving the characters to instead be used in promotional videos for CEI moving forward.
 
 ## IAAPA November 1985
 
