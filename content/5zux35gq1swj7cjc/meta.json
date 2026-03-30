@@ -23,7 +23,192 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Angry Birds Arcade",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Astro Invasion",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Big Dog Pounder",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Big Win Super Spin",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Brave Firefighters",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Buzzy Buzzy Bee",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Cars",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Chuck E. Cheese's Kiddie Coaster",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Kooky Konga",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Ripper Ribbit",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese Roll",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Sketch Book",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E's Duckies",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Country Acres",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Crus'n Blast",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "2 linked cabinets. Seen in a store tour from 2020."
+    },
+    {
+      "n": "Fishbowl Frenzy",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Frogger (ICE)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Fruit Ninja FX",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "H2Overdrive",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Let's Go Jungle! Lost on the Island of Spice",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Standard cabinet. Seen in a store tour from 2020."
+    },
+    {
+      "n": "NBA Game Time",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Operation Skill Game",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Pump It Up Jump!",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Red Hot!",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "The Sideshow",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "The Simpsons Kooky Carnival",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Smokin' Token Extreme",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "2 cabinets. Seen in a store tour from 2020."
+    },
+    {
+      "n": "Spin-O-Rama",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Subway Surfers",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Ticket Troopers",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Water Blast",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a store tour from 2020."
+    },
+    {
+      "n": "Winter X Games SnoCross",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "2 linked cabinets. Seen in a store tour from 2020."
+    },
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "30.42975972",

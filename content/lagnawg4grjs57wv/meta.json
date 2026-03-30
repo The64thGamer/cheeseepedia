@@ -13,7 +13,28 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Chuck E. Cheese's Sketch Book",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "The Great Ticket Carnival",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Skytubes",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Tik Tak",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "41.06564377",

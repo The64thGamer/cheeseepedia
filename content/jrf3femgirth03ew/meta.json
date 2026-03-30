@@ -14,7 +14,32 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Buzzy Buzzy Bee",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph taken between 2004 and 2007."
+    },
+    {
+      "n": "Chuck E. Cheese Roll",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph taken between 2004 and 2007."
+    },
+    {
+      "n": "Chuck E. Cheese's Sketch Book",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph taken between 2004 and 2007."
+    },
+    {
+      "n": "Whirlwind (redemption game)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph taken between 2004 and 2007."
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "42.48381127",

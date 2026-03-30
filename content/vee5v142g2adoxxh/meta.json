@@ -18,7 +18,20 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Dunk N' Alien!",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 2013 photograph."
+    },
+    {
+      "n": "Flamin' Finger",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 2013 photograph."
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "25.85474312",

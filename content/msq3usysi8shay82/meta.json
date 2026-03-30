@@ -24,7 +24,24 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Chuck E. Cheese's Circus",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Was stripped of CEC branding at one point."
+    },
+    {
+      "n": "Fantasy Forest",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Wheel of Fortune (ICE redemption game)",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "39.76008477",
