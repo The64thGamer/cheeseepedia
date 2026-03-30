@@ -1,0 +1,50 @@
+<div class="s-wrap">
+
+  <!-- Search input -->
+  <div class="s-suggest-wrap">
+    <div class="s-input-row" id="sInputRow">
+      <span class="s-chips" id="sChips"></span>
+      <input class="s-input" id="sInput" placeholder="Search..." autocomplete="off" />
+    </div>
+    <div class="s-suggest" id="sSuggest" style="display:none"></div>
+  </div>
+
+  <!-- Quick tags -->
+  <div class="s-qtags" id="sQtags">
+    <h4>Quick Tags</h4>
+    <div class="s-qtags-scroll" id="sQtagsList"></div>
+  </div>
+
+  <!-- Controls + web canvas (hidden until search) -->
+  <div id="sResultsWrap" style="display:none">
+    <div class="s-controls">
+      <label>Show:
+        <select id="sPerPage">
+          <option value="20" selected>20</option>
+          <option value="50">50</option>
+          <option value="100">100</option>
+          <option value="500">500</option>
+          <option value="all">All</option>
+        </select>
+      </label>
+      <label>Sort:
+        <select id="sSort">
+          <option value="relevancy" selected>Relevancy</option>
+          <option value="oldest">Oldest → Newest</option>
+          <option value="newest">Newest → Oldest</option>
+          <option value="newest-updated">Recently Updated</option>
+          <option value="oldest-updated">Least Recently Updated</option>
+        </select>
+      </label>
+      <label class="s-toggle">
+        <input type="checkbox" id="sKeepTags"> Quick Tags
+      </label>
+    </div>
+
+    <!-- Web canvas viewport -->
+    <div class="tw-viewport" id="twViewport">
+      <div class="tw-canvas" id="twCanvas"></div>
+    </div>
+  </div>
+
+</div>

@@ -14,7 +14,7 @@ import buildLocationInventoryLinker
 import buildRelated
 
 def main():
-    print("Start")
+    print("Start (CEP-JS)")
     discourseFetchNews.main()
     buildSearch.main()
     buildArticleLinker.main()
