@@ -33,7 +33,26 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Daytona USA",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "4 linked cabinets. Seen in photographs from May 2007."
+    },
+    {
+      "n": "Rockin-Bowler",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from May 2007."
+    },
+    {
+      "n": "Wheel of Fortune (ICE redemption game)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from May 2007."
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "37.31746487",
