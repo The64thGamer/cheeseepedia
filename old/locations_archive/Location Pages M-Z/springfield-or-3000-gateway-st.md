@@ -34,7 +34,7 @@ The location opened with a [Studio C Beta], 16m, which would be kept until the s
 
 - Deep Sea Treasures
 - Hungry Froggy
-- Chuck E's Duckies
+- Chuck E.'s Duckies
 - Chuck E. Cheese Sketch Book
 - Big Bass Wheel Pro
 - Tippin' Bloks

@@ -87,7 +87,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 | Chuck E's Bumper Cars                                                                    | 2014      | 2019         |
 | Chuck E. Cheese's Coloring Book                                                          | 2002      | 2011         |
 | Country Acres\|Chuck E's Country Acres                                                   | 2004      | 2014         |
-| [Chuck E's Duckies]                                              | 2002      | 2014         |
+| [Chuck E.'s Duckies]                                              | 2002      | 2014         |
 | Chuck E. Cheese's Flyin' Fish                                                            | 2000      | 2007         |
 | Chuck E's Free Fall                                                                      | 2007      | 2011         |
 | Chuck E.'s Glider Rider\|Chuck E's Helicopter Ride                                       | 2002      | 2014         |

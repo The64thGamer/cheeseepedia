@@ -51,7 +51,7 @@ As previously mentioned, the animatronics from Joliet were sent to Mishawaka, IN
 ##### Identified Late 90s Games
 
 - Chuck E. Cheese's Memory Match(2)
-- Chuck E's Duckies
+- Chuck E.'s Duckies
 - The Simpsons (1990)
 - Chuck E. Cheese's Coloring Book
 - Skee Ball

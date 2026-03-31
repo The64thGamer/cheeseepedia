@@ -75,7 +75,7 @@ Before the store's development began, the store was a movie theater called Cinew
 - [Air Hockey]
 - Lil' Hoops
 - Barney
-- [Chuck E's Duckies]
+- [Chuck E.'s Duckies]
 - Gallopers Carousel
 - Buster Bubbles
 - Hammerhead
@@ -92,3 +92,5 @@ Before the store's development began, the store was a movie theater called Cinew
 | [Jasper T Jowls (Cyberamic)]         | 1994               | Destroyed   |
 | [Pasqually (Cyberamic)]              | 1994               | Destroyed   |
 | [Wink (Cyberamic)]                   | 1994               | Destroyed   |
+
+

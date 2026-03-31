@@ -48,7 +48,7 @@ As of August 2024, Jackson remains like this with the 2.0 remodel
 
 - Chuck E. Cheese's Photo Ride (1997)
 - [Chuck E Cheese's Super Shot]
-- [Chuck E's Duckies]
+- [Chuck E.'s Duckies]
 - CEC Street Hoops
 - Monster Truck
 - Tik Tak Clock

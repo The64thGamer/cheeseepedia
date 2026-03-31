@@ -123,7 +123,7 @@ With the decline of the Northline Mall, plans emerged in 2005 to redevelop in th
 - Giraffe Ride
 - Whacky Froggy
 - Bike Rally
-- [Chuck E's Duckies]
+- [Chuck E.'s Duckies]
 
 ## Animatronics
 

@@ -40,7 +40,7 @@ In June 2007, the location's shopping center was sold to a California company, w
 - Alley Hoops
 - Scat Cats (Skee Ball)
 - Flamin Finger
-- [Chuck E's Duckies]
+- [Chuck E.'s Duckies]
 - [Chuck E Cheese's Sketch Book]
 - Buzzy Buzzy Bee
 - Wheel of Fortune

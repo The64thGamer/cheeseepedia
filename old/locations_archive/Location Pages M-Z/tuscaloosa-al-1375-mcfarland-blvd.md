@@ -37,7 +37,7 @@ On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit th
 - [Chuck E Cheese's Sketch Book]
 - Johnny Nero Action Hero
 - [Chuck E Cheese's Super Shot]
-- [Chuck E's Duckies]
+- [Chuck E.'s Duckies]
 - Robo-Bop
 - Skee-Ball [units](4)
 - Western Train

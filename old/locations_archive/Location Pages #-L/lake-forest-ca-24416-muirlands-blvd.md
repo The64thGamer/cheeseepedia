@@ -43,7 +43,7 @@ Identified 2001 Machines.
 
 - Chuck E. Phone
 - Chuck E. Cheese's Trolly
-- [Chuck E's Duckies]
+- [Chuck E.'s Duckies]
 - [Chuck E Cheese's Circus]
 - Cyclone
 - [Ms. Pac-Man/Galaga - Class Of 1981](https://www.arcade-museum.com/game_detail.php?game_id=8784)
