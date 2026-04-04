@@ -1,34 +1,34 @@
 ## What is/are?
 
-- *Data? -* The community always refers to lost media as this, though this term is also used for
-  Showtape [Data]. This is because both are synonymous with being hard to get your hands on.
-- *Showtapes? -* these are a physical piece of media that contains generally 30 mins - 2 hours of
-  musical content. They are all generally formatted to have a hidden audio channel that passes through Showtape [Data] to the computer for processing, which aren't usually posted online. Stores have always
-  received new showtapes every few months for the past 40 years, and they usually just keep older tapes in a
-  storage room or throw them away, as it is not permitted to play previous tapes. Showtapes take on different
-  formats throughout the years:
-  - 70's to mid 80's: 2-4 Track Reel
-  - Mid 80's to Mid 2000's: SVHS Tape
-  - Mid 2000's to 2023: DVD ([Studio C] shows have their animation signals split onto a Floppy
-    Disc.)
-  - 2023+: [Navori System] transfers from the cloud. No longer on any physical medium.
-- *2.0 -* This is the [CEC 2.0 Remodel Program] that has been replacing all animatronic shows since 2018. Only the few [CEC Legacy Locations] remaining have animatronics.
-- *Phases -* This is a commonly used phrase to erroneously refer to the current remodel of a store,
-  when it is actually a separately installed package stores could opt into. The [Remodels and Initiatives](https://cheeseepedia.org/tags/remodels-and-initiatives/) section clears up what delineates each variant a store can be at any given time.
+* *Data? -* The community always refers to lost media as this, though this term is also used for
+    Showtape [Data]. This is because both are synonymous with being hard to get your hands on.
+* *Showtapes? -* these are a physical piece of media that contains generally 30 mins - 2 hours of
+    musical content. They are all generally formatted to have a hidden audio channel that passes through Showtape [Data] to the computer for processing, which aren't usually posted online. Stores have always
+    received new showtapes every few months for the past 40 years, and they usually just keep older tapes in a
+    storage room or throw them away, as it is not permitted to play previous tapes. Showtapes take on different
+    formats throughout the years:
+    * 70's to mid 80's: 2-4 Track Reel
+    * Mid 80's to Mid 2000's: SVHS Tape
+    * Mid 2000's to 2023: DVD ([Studio C] shows have their animation signals split onto a Floppy
+        Disc.)
+    * 2023+: [Navori System] transfers from the cloud. No longer on any physical medium.
+* *2.0 -* This is the [CEC 2.0 Remodel Program] that has been replacing all animatronic shows since 2017. Only the few [CEC Legacy Locations] remaining have animatronics.
+* *Phases -* This is a commonly used phrase to erroneously refer to the current remodel of a store,
+    when it is actually a separately installed package stores could opt into. Searching 'Remodels and Initiatives' should clear up what delineates each variant a store can be at any given time.
 
 ## I want to learn more, any video recommendations?
 
-- [Disney's Animatronics: A Living History](https://youtu.be/jjNca1L6CUk) - A 2024 documentary that goes over the early history of animatronics, alongside intricately detailing every step in the process of how an audio-animatronic functions.
-- [The Rock-afire Explosion (Movie)] - A 2008 official documentary about the Rock-afire, its creator, and its early fanbase keeping the animatronics alive long after ShowBiz Pizza ceased to exist. It does not reflect the fandom as it is today, but delves into the emotion and passion behind how its early fanbase formed.
-- [The Rock-afire Explosion: The Best Band You've Never Heard Of](https://www.youtube.com/watch?v=VvE4jNhJTlA) - A 2023 documentary focusing on introducing the Rock-afire to people through showing the band in action and detailing its history. The video additionally covers Creative Engineering's, Aaron Fechter's, and Chuck E. Cheese's history after they split all the way to their current state in 2023.
-- [The Rise & Fall of ShowBiz Pizza & Chuck E. Cheese](https://youtu.be/7HXTwLbvQPM) - A 2021 documentary covering Chuck E. Cheese's history from inception to the video's release.
-- [Concept Unification Installation Training Tape] (Video available in the article) - An infamous training tape showing how the Rock-afire Explosion was turned into the Chuck E. Cheese 3-Stage.
-- CheeseVention 1-6 DVDs ( [1](https://www.youtube.com/watch?v=eQRNgKKmASU&list=PL8Q9sP0ERTn677Bf1nIqn2O_N-VuXmIdG&index=1&t=1s&pp=iAQB)) ( [2](https://www.youtube.com/watch?v=LwmuMcDpYdQ&list=PL8Q9sP0ERTn677Bf1nIqn2O_N-VuXmIdG&index=2&pp=iAQB)) ( [3](https://www.youtube.com/watch?v=YlLYRXBgecg&list=PLk1C5u_PiS7JK7U8Zi9Za0uEVp_9Y1UzA)) ( [4](https://www.youtube.com/watch?v=ARWbOfAA3tc&list=PL8Q9sP0ERTn677Bf1nIqn2O_N-VuXmIdG&index=4&pp=iAQB)) ( [5](https://www.youtube.com/watch?v=DowaLDigPMI&list=PL8Q9sP0ERTn677Bf1nIqn2O_N-VuXmIdG&index=5&pp=iAQB)) ( [6](https://www.youtube.com/watch?v=sypnTHXTVss&list=PL8Q9sP0ERTn677Bf1nIqn2O_N-VuXmIdG&index=6&t=9198s&pp=iAQB)) - A series of DVDs covering old fan conventions from 2004-2009. CheeseVention 7-10 also happened but do not have DVDs.
-- Creative Engineering Tours ( [Grant's 2015 Tour](https://youtu.be/tl3vFiHoOpE)) ( [Fandom 2006 Tour](https://youtu.be/jqs0AAOtspE?list=PLk1C5u_PiS7JzhtaOcDA7nIQPmVwappUy)) ( [Damon's 2003 Tour](https://youtu.be/L5kXUq6aEvg)) - Lots of relaxing tours of the [Orlando, FL (47 W Jefferson St)] throughout the years. Guests travel the mostly untouched building as Aaron Fechter discusses the history of what they're seeing and answers questions. Every tour talks about different things and goes on different paths. Most have a section dedicated to watching the building's working Rock-afire Explosion show in action. Lots and lots of tours have been uploaded on YouTube throughout the past decade.
-- [The Rock-afire Official YouTube Channel](https://www.youtube.com/@therockafire/videos) - Almost two decades of various videos detailing projects at Creative Engineering. Most current videos are locked behind the [Creative Engineering Premium Video Service], but lots of great public content is available from 2008-2017.
-- [Save The Colander Telethon (1983)] - An hour long fake telethon for ShowBiz employees advertising Creative Engineering's [Crazy Colander Head Night (Event)] plans for ShowBiz restaurants. It features the entire Rock-afire cast doing skits and songs.
-- [Sets, Streets & Eats Uncut Tully Tour Video](https://archive.org/details/my-tour-of-the-worlds-largest-and-greatest-chuck-e.-cheese-the-tully-rd.-store-san-jose-ca) - A 2022 tour of the historical [San Jose (Tully), CA (2445 Fontaine Rd)] location and its abandoned third floor full of priceless PTT equipment and art.
-- [Interview with Brian Hagan - Former Studio Manager of Chuck E. Cheese](https://youtu.be/5mqJMsr_PLU) - A 5 hour long interview with a prominent former corporate employee of Chuck E. Cheese's.
+* [Disney's Animatronics: A Living History](https://youtu.be/jjNca1L6CUk) - A 2024 documentary that goes over the early history of animatronics, alongside intricately detailing every step in the process of how an audio-animatronic functions.
+* [The Rock-afire Explosion (Movie)] - A 2008 official documentary about the Rock-afire, its creator, and its early fanbase keeping the animatronics alive long after ShowBiz Pizza ceased to exist. It does not reflect the fandom as it is today, but delves into the emotion and passion behind how its early fanbase formed.
+* [The Rock-afire Explosion: The Best Band You've Never Heard Of](https://www.youtube.com/watch?v=VvE4jNhJTlA) - A 2023 documentary focusing on introducing the Rock-afire to people through showing the band in action and detailing its history. The video additionally covers Creative Engineering's, Aaron Fechter's, and Chuck E. Cheese's history after they split all the way to their current state in 2023.
+* [The Rise & Fall of ShowBiz Pizza & Chuck E. Cheese](https://youtu.be/7HXTwLbvQPM) - A 2021 documentary covering Chuck E. Cheese's history from inception to the video's release.
+* [Concept Unification Installation Training Tape] (Video available in the article) - An infamous training tape showing how the Rock-afire Explosion was turned into the Chuck E. Cheese 3-Stage.
+* CheeseVention 1-6 DVDs ( [1](https://www.youtube.com/watch?v=eQRNgKKmASU&list=PL8Q9sP0ERTn677Bf1nIqn2O_N-VuXmIdG&index=1&t=1s&pp=iAQB)) ( [2](https://www.youtube.com/watch?v=LwmuMcDpYdQ&list=PL8Q9sP0ERTn677Bf1nIqn2O_N-VuXmIdG&index=2&pp=iAQB)) ( [3](https://www.youtube.com/watch?v=YlLYRXBgecg&list=PLk1C5u_PiS7JK7U8Zi9Za0uEVp_9Y1UzA)) ( [4](https://www.youtube.com/watch?v=ARWbOfAA3tc&list=PL8Q9sP0ERTn677Bf1nIqn2O_N-VuXmIdG&index=4&pp=iAQB)) ( [5](https://www.youtube.com/watch?v=DowaLDigPMI&list=PL8Q9sP0ERTn677Bf1nIqn2O_N-VuXmIdG&index=5&pp=iAQB)) ( [6](https://www.youtube.com/watch?v=sypnTHXTVss&list=PL8Q9sP0ERTn677Bf1nIqn2O_N-VuXmIdG&index=6&t=9198s&pp=iAQB)) - A series of DVDs covering old fan conventions from 2004-2009. CheeseVention 7-10 also happened but do not have DVDs.
+* Creative Engineering Tours ( [Grant's 2015 Tour](https://youtu.be/tl3vFiHoOpE)) ( [Fandom 2006 Tour](https://youtu.be/jqs0AAOtspE?list=PLk1C5u_PiS7JzhtaOcDA7nIQPmVwappUy)) ( [Damon's 2003 Tour](https://youtu.be/L5kXUq6aEvg)) - Lots of relaxing tours of the [Orlando, FL (47 W Jefferson St)] throughout the years. Guests travel the mostly untouched building as Aaron Fechter discusses the history of what they're seeing and answers questions. Every tour talks about different things and goes on different paths. Most have a section dedicated to watching the building's working Rock-afire Explosion show in action. Lots and lots of tours have been uploaded on YouTube throughout the past decade.
+* [The Rock-afire Official YouTube Channel](https://www.youtube.com/@therockafire/videos) - Almost two decades of various videos detailing projects at Creative Engineering. Most current videos are locked behind the [Creative Engineering Premium Video Service], but lots of great public content is available from 2008-2017.
+* [Save The Colander Telethon (1983)] - An hour long fake telethon for ShowBiz employees advertising Creative Engineering's [Crazy Colander Head Night (Event)] plans for ShowBiz restaurants. It features the entire Rock-afire cast doing skits and songs.
+* [Sets, Streets & Eats Uncut Tully Tour Video](https://archive.org/details/my-tour-of-the-worlds-largest-and-greatest-chuck-e.-cheese-the-tully-rd.-store-san-jose-ca) - A 2022 tour of the historical [San Jose (Tully), CA (2445 Fontaine Rd)] location and its abandoned third floor full of priceless PTT equipment and art.
+* [Interview with Brian Hagan - Former Studio Manager of Chuck E. Cheese](https://youtu.be/5mqJMsr_PLU) - A 5 hour long interview with a prominent former corporate employee of Chuck E. Cheese's.
 
 ## Where can I / how should I watch showtapes?
 
@@ -63,10 +63,10 @@ Be aware however that any showtape performance, whether on authentic animatronic
 
 Outside of manually finding sources through newspaper.com, archive.org, and home videos on YouTube, there are a few places the fandom has compiled information on outside of Cheese-E-Pedia.
 
-1.  [ShowBiz Pizza Forum](https://web.archive.org/web/20071015093425/http://showbizpizzaforum.com/archive/index.php?f-5.html) was the first forums ever from 2000-2014. Not many articles have been saved on Wayback, but some rare bits of information may be within its pages. It was abandoned in 2014 after being infected with adware.
-2.  [Retro Pizza Zone](https://www.tapatalk.com/groups/retro_pizza_zone/) was the original forums between 2014-2018. Many knowledgeable members who had worked for the companies in the 80's and 90's have lots of information and pictures on there. It was abandoned after Zetaboards merged with Tapatalk and ruined the site's user interface.
-3.  When looking for images of rare signs, parts, robots, ect, accounts on Instagram have their collections posted. This is where a lot of the fandom moved to after 2018, but are now mostly on Discord servers.
-4.  [showbizpizza.com](http://www.showbizpizza.com/) is a site created in the early 2000's that was the original history book for everything. It is the easiest way to ease yourself into the history of the companies, as its articles talk about broader and interweaving concepts. However, new articles haven't been written in almost a decade, leaving many pages blank, and nothing in the modern era discussed at all.
+1. [ShowBiz Pizza Forum](https://web.archive.org/web/20071015093425/http://showbizpizzaforum.com/archive/index.php?f-5.html) was the first forums ever from 2000-2014. Not many articles have been saved on Wayback, but some rare bits of information may be within its pages. It was abandoned in 2014 after being infected with adware.
+2. [Retro Pizza Zone](https://www.tapatalk.com/groups/retro_pizza_zone/) was the original forums between 2014-2018. Many knowledgeable members who had worked for the companies in the 80's and 90's have lots of information and pictures on there. It was abandoned after Zetaboards merged with Tapatalk and ruined the site's user interface.
+3. When looking for images of rare signs, parts, robots, ect, accounts on Instagram have their collections posted. This is where a lot of the fandom moved to after 2018, but are now mostly on Discord servers.
+4. [showbizpizza.com](http://www.showbizpizza.com/) is a site created in the early 2000's that was the original history book for everything. It is the easiest way to ease yourself into the history of the companies, as its articles talk about broader and interweaving concepts. However, new articles haven't been written in almost a decade, leaving many pages blank, and nothing in the modern era discussed at all.
 
 ## Where can I get animatronics/other stuff?
 
@@ -88,8 +88,8 @@ After SPP lost the rights to the Rock-afire Explosion, they had to pivot back to
 
 ## Where can I communicate with the Cheese-E-Pedia Community or its Admins?
 
-The main place to go is the officially run {{< forums >}}, where community efforts are made to create pages, find sources, archive lost media, and have general discussion. Some users on the Wiki will also have links to their contact pages on their user profile page, alongside discussion being done on an article's *Discussion Tab*.
+The main place to go is the officially run forums, where community efforts are made to create pages, find sources, archive lost media, and have general discussion. Some users on the Wiki will also have links to their contact pages on their user profile page, alongside discussion being done on an article's *Discussion Tab*.
 
 ## I have Lost Media in my possession, where can I upload it?
 
-If the item is an image or scan, feel free to upload it to the relevant article on the site. If it is a document, video file, audio, or anything else that cannot be hosted directly on Cheese-E-Pedia, join the {{< forums >}} and contact the admins about getting the item uploaded to our [archive](https://archive.org/details/@decode_document_digitize). If you own an item that you do not have the resources to archive, notify the {{< forums >}} to see if someone may be able to cooperate with you. The Cheese-E-Pedia community will do what it can to see all media preserved.
+If the item is an image or scan, feel free to upload it to the relevant article on the site. If it is a document, video file, audio, or anything else that cannot be hosted directly on Cheese-E-Pedia, join the forums and contact the admins about getting the item uploaded to our [archive](https://archive.org/details/@decode_document_digitize). If you own an item that you do not have the resources to archive, notify the forums to see if someone may be able to cooperate with you. The Cheese-E-Pedia community will do what it can to see all media preserved.
