@@ -1,5 +1,12 @@
 This is a manual for wanting to work with Cheese-E-Pedia's code and understand its layout.
 
+## How it Works
+
+Cheese-E-Pedia is a Single Page Application that uses link parameters (e.g. /?v=cep-js&=434ngf34ngjktegrfh for this page) to fetch various pieces of content and builds the page in real time. The content itself is uncompressed photos, .md files for articles, and .json files for metadata/parameters. This allows for minimal pre-processing and duplication of the data. Some pre-processing is done with the root compile.py, which compiles additional .json used for article linking and the search, but any direct content push to the site should have it immediately show up once its merged in the repository.
+Pages are sorted by **type** and **tags**. Type decides how a page renders, like a review/photo/video, but still places articles into a sort of category based on the subject being discussed, like "Locations", "Showtapes", "History". This type is required for the article to work, and there is no base "Article" type, so pages are forced into at least having one piece of organization.
+Tags are compiled from various parts of the article or other articles to form the 'Related Tags' section seen at the bottom of all pages, which is also what the site sees when running searches. In meta.json there is a direct 'tags' parameter for forcing a tag, but otherwise any linked articles in the content will also be included, alongside special parameters like "Remodels", "Credits", "Attractions", which within the context of reading the article are also linked pages. (except 'Credits' which allows you to search by names on the site, but to not be intrusive no single person can have a page)
+Even with this setup, the site's SPA 'viewer' is fully modular. Arbitrary viewers can be added at the root /viewers/ folder to completely change the setup, though they will still need to deal with the underlying formatting of the articles. Articles are all in one giant list under /content/ with the same file structure, making it easy to parse through them in other ways.
+
 ## Structure
 
 ### Folders
