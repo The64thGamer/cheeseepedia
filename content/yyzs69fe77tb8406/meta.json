@@ -8,8 +8,23 @@
   "endDate": "1987-12-00",
   "contributors": [
     "sudo trans --pony",
-    "DerekCat"
+    "DerekCat",
+    "Ceclife13"
   ],
   "citations": [],
-  "pageThumbnailFile": "Christmas_87_House.avif"
+  "pageThumbnailFile": "Christmas_87_House.avif",
+  "credits": [
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually the Chef"
+    },
+    {
+      "n": "Connie Nelson",
+      "role": "Voice of Helen Henny"
+    }
+  ]
 }
