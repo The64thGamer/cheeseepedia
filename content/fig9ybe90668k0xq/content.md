@@ -4,30 +4,30 @@
 
 1. Segment 1
     1. Movie Magic
-          1. [Hooray for Hollywood](https://en.wikipedia.org/wiki/Hooray_for_Hollywood)
-          2. [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters_(song))
-          3. [Back In Time](https://en.wikipedia.org/wiki/Back_in_Time_(Huey_Lewis_and_the_News_song))
-          4. [Maniac](https://en.wikipedia.org/wiki/Maniac_(Michael_Sembello_song))
-          5. [Up Where We Belong](https://en.wikipedia.org/wiki/Up_Where_We_Belong)
-          6. [The Wiz](https://en.wikipedia.org/wiki/The_Wiz_(film)) Medley
-              1. [Ease On Down The Road](https://en.wikipedia.org/wiki/Ease_on_Down_the_Road)
-              2. [Somewhere Over The Rainbow](https://en.wikipedia.org/wiki/Over_the_Rainbow)
-              3. [I'm A Mean Ole Lion](https://en.wikipedia.org/wiki/The_Wiz_(soundtrack))
-              4. [Don't You Bring Me No Bad News](https://en.wikipedia.org/wiki/The_Wiz_(soundtrack))
+        1. [Hooray for Hollywood](https://en.wikipedia.org/wiki/Hooray_for_Hollywood)
+        2. [Ghostbusters](https://en.wikipedia.org/wiki/Ghostbusters_(song))
+        3. [Back In Time](https://en.wikipedia.org/wiki/Back_in_Time_(Huey_Lewis_and_the_News_song))
+        4. [Maniac](https://en.wikipedia.org/wiki/Maniac_(Michael_Sembello_song))
+        5. [Up Where We Belong](https://en.wikipedia.org/wiki/Up_Where_We_Belong)
+        6. [The Wiz](https://en.wikipedia.org/wiki/The_Wiz_(film)) Medley
+            1. [Ease On Down The Road](https://en.wikipedia.org/wiki/Ease_on_Down_the_Road)
+            2. [Somewhere Over The Rainbow](https://en.wikipedia.org/wiki/Over_the_Rainbow)
+            3. [I'm A Mean Ole Lion](https://en.wikipedia.org/wiki/The_Wiz_(soundtrack))
+            4. [Don't You Bring Me No Bad News](https://en.wikipedia.org/wiki/The_Wiz_(soundtrack))
 2. Special 1
     1. Beatles Birthday
 3. Special 2
-   1. Celebration Birthday
+    1. Celebration Birthday
 4. Special 3
-   1. Old Style Rock Birthday
+    1. Old Style Rock Birthday
 5. Special 4
-   1. Cheer - Famous Pizza Time Cheer
+    1. Cheer - Famous Pizza Time Cheer
 6. Special 5
-   1. Intro - The One, The Only
+    1. Intro - The One, The Only
 7. Segment 2
     1. TV Themes
-        1. [*Mister Ed* theme](https://en.wikipedia.org/wiki/Mister_Ed)
-        2. [*Flipper* theme](https://en.wikipedia.org/wiki/Flipper_(1964_TV_series))
+        1. *[Mister Ed](https://en.wikipedia.org/wiki/Mister_Ed)*[ theme](https://en.wikipedia.org/wiki/Mister_Ed)
+        2. *[Flipper](https://en.wikipedia.org/wiki/Flipper_(1964_TV_series))*[ theme](https://en.wikipedia.org/wiki/Flipper_(1964_TV_series))
         3. ['The Adventures of Robin Hood' theme](https://en.wikipedia.org/wiki/The_Adventures_of_Robin_Hood_(TV_series))
         4. ['Star Trek' theme](https://en.wikipedia.org/wiki/Theme_from_Star_Trek)
         5. [The Ballad of Jed Clampett](https://en.wikipedia.org/wiki/The_Ballad_of_Jed_Clampett)
@@ -113,5 +113,5 @@ For stores using reels, an accompanying music cassette was provided that include
 
 ## Trivia:
 
-- This tape was the first used with the Cybervision test at [Arlington, TX (2216 S Fielder Rd)].
-- This show's special skits are reused from CEC History of Rock and Roll.
+* This tape was the first used with the Cybervision test at [Arlington, TX (2216 S Fielder Rd)].
+* This show's special skits are reused from CEC History of Rock and Roll.
