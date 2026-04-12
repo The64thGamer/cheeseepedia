@@ -7,7 +7,22 @@
   "startDate": "1988-05-00",
   "endDate": "1988-06-00",
   "contributors": [
-    "sudo trans --pony"
+    "sudo trans --pony",
+    "Ceclife13"
   ],
-  "citations": []
+  "citations": [],
+  "credits": [
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually the Chef"
+    },
+    {
+      "n": "Connie Nelson",
+      "role": "Voice of Helen Henny"
+    }
+  ]
 }

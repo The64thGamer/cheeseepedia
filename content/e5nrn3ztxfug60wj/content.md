@@ -1,46 +1,47 @@
 ***CEC Christmas '90*** is a Christmas/Holiday themed showtape that played throughout all of December 1990. This is the last known showtape to be produced on reel for Cyberamics.
 
-## Show List
-01. **Intermission 1**
+## SVHS Show List
+
+1. **Intermission 1**
     1. 8 Minute Countdown
-       1. [My Favorite Things](https://en.wikipedia.org/wiki/Merry_Christmas_%28The_Supremes_album%29)
-       2. Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas')
-       3. [Silver Bells](https://en.wikipedia.org/wiki/Anne_Murray%27s_Christmas_Album)
+        1. [My Favorite Things](https://en.wikipedia.org/wiki/Merry_Christmas_%28The_Supremes_album%29)
+        2. Let It Snow, Let It Snow, Let It Snow (From Lee Greenwood's 'Christmas to Christmas')
+        3. [Silver Bells](https://en.wikipedia.org/wiki/Anne_Murray%27s_Christmas_Album)
     2. Cyberstar Intro
-02. **Segment 1**
+2. **Segment 1**
     1. Jingle Bells
     2. Sleigh Ride
     3. Rudolph the Red-Nosed Reindeer
-03. **Intermission 2**
+3. **Intermission 2**
     1. 8 Minute Countdown
-       1. [Winter Wonderland](https://en.wikipedia.org/wiki/Christmas_Album_%28Herb_Alpert_album%29)
-       2. [Toyland](https://en.wikipedia.org/wiki/Christmas_Eve_with_Johnny_Mathis)
-       3. [Santa Claus Is Coming to Town](https://en.wikipedia.org/wiki/A_Very_Special_Christmas_%28album%29)
+        1. [Winter Wonderland](https://en.wikipedia.org/wiki/Christmas_Album_%28Herb_Alpert_album%29)
+        2. [Toyland](https://en.wikipedia.org/wiki/Christmas_Eve_with_Johnny_Mathis)
+        3. [Santa Claus Is Coming to Town](https://en.wikipedia.org/wiki/A_Very_Special_Christmas_%28album%29)
     2. Cyberstar Intro
-04. **Segment 2**
+4. **Segment 2**
     1. Santa Claus is Coming to Town
     2. Twas The Night Before Christmas
-05. **Intermission 3**
+5. **Intermission 3**
     1. 8 Minute Countdown
-       1. [Christmas In the Caribbean](https://en.wikipedia.org/wiki/Boats,_Beaches,_Bars_%26_Ballads)
-       2. [White Christmas Makes Me Blue](https://en.wikipedia.org/wiki/An_Old_Time_Christmas)
-       3. All I Want For Christmas (From Ray Charles 'The Spirit of Christmas')
+        1. [Christmas In the Caribbean](https://en.wikipedia.org/wiki/Boats,_Beaches,_Bars_%26_Ballads)
+        2. [White Christmas Makes Me Blue](https://en.wikipedia.org/wiki/An_Old_Time_Christmas)
+        3. All I Want For Christmas (From Ray Charles 'The Spirit of Christmas')
     2. It's Showtime!
-06. **Video 1**
+6. **Video 1**
     1. [Manheim Steamroller - The Little Drummer Boy](https://en.wikipedia.org/wiki/A_Fresh_Aire_Christmas)
-07. **Intermission 4**
+7. **Intermission 4**
     1. 8 Minute Countdown
-       1. [Run Rudolph Run](https://en.wikipedia.org/wiki/Run_Rudolph_Run)
-       2. [Frosty the Snowman](https://en.wikipedia.org/wiki/Pretty_Paper)
-       3. [Have Yourself a Merry Little Christmas](https://en.wikipedia.org/wiki/Jackson_5_Christmas_Album)
+        1. [Run Rudolph Run](https://en.wikipedia.org/wiki/Run_Rudolph_Run)
+        2. [Frosty the Snowman](https://en.wikipedia.org/wiki/Pretty_Paper)
+        3. [Have Yourself a Merry Little Christmas](https://en.wikipedia.org/wiki/Jackson_5_Christmas_Album)
     2. Cyberstar Intro
-08. **Segment 3**
+8. **Segment 3**
     1. Twelve Days of Christmas
-09. **Intermission 5**
+9. **Intermission 5**
     1. 8 Minute Countdown
-       1. [I Saw Mommy Kissing Santa Claus](https://en.wikipedia.org/wiki/A_Very_Special_Christmas_%28album%29)
-       2. [White Christmas](https://en.wikipedia.org/wiki/Christmas_%28Kenny_Rogers_album%29)
-       3. [What Are You Doing New Year's Eve](https://en.wikipedia.org/wiki/Ella_Wishes_You_a_Swinging_Christmas)
+        1. [I Saw Mommy Kissing Santa Claus](https://en.wikipedia.org/wiki/A_Very_Special_Christmas_%28album%29)
+        2. [White Christmas](https://en.wikipedia.org/wiki/Christmas_%28Kenny_Rogers_album%29)
+        3. [What Are You Doing New Year's Eve](https://en.wikipedia.org/wiki/Ella_Wishes_You_a_Swinging_Christmas)
     2. Cyberstar Intro
 10. **Segment 4**
     1. The Christmas Song (Chestnuts Roasting on an Open Fire)
@@ -50,15 +51,15 @@
     5. We Need a Little Christmas
 11. **Intermission 6**
     1. 8 Minute Countdown
-       1. Jingle Bells (From Smokey Robinson &amp; the Miracles's 'The Season for Miracles')
-       2. [Christmas Without You](https://en.wikipedia.org/wiki/A_Shoulder_to_Cry_On_%28Tommy_Page_song%29)
-       3. [You Make It Christmas](https://en.wikipedia.org/wiki/Christmas_with_The_Jets)
+        1. Jingle Bells (From Smokey Robinson & the Miracles's 'The Season for Miracles')
+        2. [Christmas Without You](https://en.wikipedia.org/wiki/A_Shoulder_to_Cry_On_%28Tommy_Page_song%29)
+        3. [You Make It Christmas](https://en.wikipedia.org/wiki/Christmas_with_The_Jets)
     2. It's Showtime!
 12. **Video 2**
     1. [California Raisins - Rudolph the Red-Nosed Reindeer](https://en.wikipedia.org/wiki/A_Claymation_Christmas_Celebration)
 
 ## Reel Show List:
-      
+
 1. **Segment 1**
     1. Jingle Bells
     2. Sleigh Ride
@@ -67,17 +68,17 @@
     1. Santa Claus is Coming to Town
     2. Twas The Night Before Christmas
 3. **Special 1**
-    1.  Joy To The World Birthday
+    1. Joy To The World Birthday
 4. **Special 2**
-    1.  Dancin' In The Street Birthday
+    1. Dancin' In The Street Birthday
 5. **Special 3**
-    1.  Beach Boys Birthday
+    1. Beach Boys Birthday
 6. **Special 4**
-    1.  [Birthday Extravaganza (Chuck E. Cheese Branded)]
+    1. [Birthday Extravaganza (Chuck E. Cheese Branded)]
 7. **Special 5**
-    1.  [Chuck E. Cheese Live]
+    1. [Chuck E. Cheese Live]
 8. **Special 6**
-    1.  [Birthday Extravaganza (ShowBiz Branded)]
+    1. [Birthday Extravaganza (ShowBiz Branded)]
 9. **Segment 3**
     1. Twelve Days of Christmas
 10. **Segment 4**
@@ -111,22 +112,22 @@ Noticeably all three floppies were changed after their initial archival, as evid
 
 (All files were originally given the extention '.ATL' before being changed to '.ROA' on December 6, 1990.)
 
-| File Name | Size (bytes) | Modified Date         | Header Time | Header Title 1           | Header Title 2                |
-|-----------|--------------|-----------------------|-------------|--------------------------|-------------------------------|
-| xmas1.roa | 481,792      | 10/26/1990 5:44:14 PM | 7:50        | 'JINGLE BELLS'           | 'SLEIGH RIDE'/'RUDOLPH'       |
-| xmas2.roa | 461,312      | 10/26/1990 9:57:28 AM | 7:30        | 'SANTA'S COMING TO TOWN' | 'T'WAS THE NIGHT BEFORE XMAS' |
-| xmas3.roa | 420,352      | 10/27/1990 2:09:08 PM | 6:50        | '12 DAYS OF CHRISTMAS'   |                               |
+| File Name | Size (bytes) | Modified Date | Header Time | Header Title 1 | Header Title 2 |
+| --------- | ------------ | ------------- | ----------- | -------------- | -------------- |
+| xmas1.roa | 481,792 | 10/26/1990 5:44:14 PM | 7:50 | 'JINGLE BELLS' | 'SLEIGH RIDE'/'RUDOLPH' |
+| xmas2.roa | 461,312 | 10/26/1990 9:57:28 AM | 7:30 | 'SANTA'S COMING TO TOWN' | 'T'WAS THE NIGHT BEFORE XMAS' |
+| xmas3.roa | 420,352 | 10/27/1990 2:09:08 PM | 6:50 | '12 DAYS OF CHRISTMAS' |  |
 
 The entry '#daywave.atl' was recovered from a deleted section of the disk, with the pound sign in its name denoting deletion. The floppy label sources the full name, being 'bdaywave.atl'. This version is identical to the version found on the Jan '91 disk.
 
-| File Name    | Size (bytes) | Modified Date         | Header Time | Header Title 1              | Header Title 2                   |
-|--------------|--------------|-----------------------|-------------|-----------------------------|----------------------------------|
-| live90#1.roa | 492,032      | 12/6/1990 4:23:34 PM  | 8:00        | 'GOOD VIBRATION' LIVE SHOW  | for ROAD STAGE!!                 |
-| xmas4.roa    | 727,552      | 10/27/1990 1:43:04 PM | 11:50       | 'XMAS SONG'/'WISH YOU A...' | 'WNTR WNDRLND'/'WISH YOU A(rprse |
-| #daywave.atl | 195,072      | 12/6/1990 3:27:20 PM  | 4:00        |                             |                                  |
+| File Name | Size (bytes) | Modified Date | Header Time | Header Title 1 | Header Title 2 |
+| --------- | ------------ | ------------- | ----------- | -------------- | -------------- |
+| live90#1.roa | 492,032 | 12/6/1990 4:23:34 PM | 8:00 | 'GOOD VIBRATION' LIVE SHOW | for ROAD STAGE!! |
+| xmas4.roa | 727,552 | 10/27/1990 1:43:04 PM | 11:50 | 'XMAS SONG'/'WISH YOU A...' | 'WNTR WNDRLND'/'WISH YOU A(rprse |
+| #daywave.atl | 195,072 | 12/6/1990 3:27:20 PM | 4:00 |  |  |
 
 This table excludes entries for the [CEC Jan '91] show.
 
-| File Name    | Size (bytes) | Modified Date        | Header Time | Header Title 1 | Header Title 2 |
-|--------------|--------------|----------------------|-------------|----------------|----------------|
-| bdaywave.roa | 195,072      | 12/6/1990 3:27:20 PM | 4:00        |                |                |
+| File Name | Size (bytes) | Modified Date | Header Time | Header Title 1 | Header Title 2 |
+| --------- | ------------ | ------------- | ----------- | -------------- | -------------- |
+| bdaywave.roa | 195,072 | 12/6/1990 3:27:20 PM | 4:00 |  |  |

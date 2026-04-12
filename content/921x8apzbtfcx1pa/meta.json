@@ -7,5 +7,21 @@
   "pageThumbnailFile": "w4trgh4w5624356u.avif",
   "startDate": "1989-03-00",
   "endDate": "1989-04-00",
-  "contributors": []
+  "contributors": [
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually the Chef"
+    },
+    {
+      "n": "Connie Nelson",
+      "role": "Voice of Helen Henny"
+    }
+  ]
 }

@@ -11,7 +11,7 @@ Disclaimer: The segment list is currently incomplete, as it is unclear what the 
         3. ['Everybody Have Fun Tonight'](https://en.wikipedia.org/wiki/Everybody_Have_Fun_Tonight)
 2. **Segment 2**
     1. Personal Favorites 2
-        1. [‘Every Little Kiss’](https://en.wikipedia.org/wiki/Every_Little_Kiss)
+        1. [[‘Every Little Kiss’](https://en.wikipedia.org/wiki/Every_Little_Kiss)
         2. [‘Funkytown’](https://en.wikipedia.org/wiki/Funkytown)
         3. [‘I Wanna Dance with Somebody (Who Loves Me)’](https://en.wikipedia.org/wiki/I_Wanna_Dance_with_Somebody_(Who_Loves_Me))
 3. **Special 1**
