@@ -12,8 +12,8 @@ On August 6, 2004, the Chuck E. Cheese's in Salisbury would officially open to t
 
 ### 2010's
 
-During the 2010's\, the Chuck E\. Cheese's in Salisbury would repaint some walls purple and receive the Ticket Blaster\. During Summer 2017\, the store would receive the\[Chuck E\.'s Play Pass\]\[7\]
+During the 2010's, the Chuck E. Cheese's in Salisbury would repaint some walls purple and receive the Ticket Blaster. During Summer 2017, the store would receive the[Chuck E.'s Play Pass][7]
 
 ### 2020's
 
-In March 2020\, the location would close due to COVID\-19\. On July 15\, 2020\, the location would re\-open\[8\]\. Later that year\, the store would remove the \[Skytubes\] and \[Ticket Muncher\] as apart of the \[2020 COVID\-19 Removals\]\. In 2024\, the location would receive the \[Trampoline Zone\]\[9\]\. Beginning in April 2024\, begin participation in the \[Low Volume Store Initiative\]\[11\]\. On March 9\, 2026\, it was announced that the Salisbury Chuck E\. Cheese's would cease operations on April 4\, 2026\. \[10\]
+In March 2020, the location would close due to COVID-19. On July 15, 2020, the location would re-open[8]. Later that year, the store would remove the [Skytubes] and [Ticket Muncher] as apart of the [2020 COVID-19 Removals]. In 2024, the location would receive the [Trampoline Zone][9]. Beginning in April 2024, begin participation in the [Low Volume Store Initiative][11]. On March 9, 2026, it was announced that the Salisbury Chuck E. Cheese's would cease operations on April 4, 2026. [10]
