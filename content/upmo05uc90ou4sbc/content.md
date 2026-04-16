@@ -4,7 +4,7 @@ Ladies and gentlemen, boys and girls, welcome to Chuck Eâ€™s Totally Awesome 80â
 
 **[Song: Everybody Wants to Rule the World]**
 
-\*\*Chuck E. Cheese:(Singing)\*\*
+**Chuck E. Cheese:(Singing)**
 
 Welcome to your life
 
@@ -248,7 +248,7 @@ I'm talking to you, come on
 
 Shout, shout, let it all out
 
-\**Helen Henny:(Singing)*
+**Helen Henny:(Singing)*
 
 Let it all out!
 
