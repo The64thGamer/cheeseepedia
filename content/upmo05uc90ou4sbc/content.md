@@ -4,9 +4,9 @@ Ladies and gentlemen, boys and girls, welcome to Chuck E’s Totally Awesome 80�
 
 **[Song: Everybody Wants to Rule the World]**
 
-**Chuck E. Cheese:(Singing)
+**Chuck E. Cheese:(Singing)**
 
- Welcome to your life
+Welcome to your life
 
 There's no turning back
 
@@ -86,23 +86,23 @@ Sweet song man. I dig it.
 
 **Chuck E. Cheese:**
 
-Thanks folks! Thank you very much! You kids are awesome. 
+Thanks folks! Thank you very much! You kids are awesome.
 
 **Mr. Munch:**
 
-Man Chuck E, that song takes me back to a totally different time. 
+Man Chuck E, that song takes me back to a totally different time.
 
-**Chuck E. Cheese:** 
+**Chuck E. Cheese:**
 
-Is that so Munch? 
+Is that so Munch?
 
 **Mr. Munch:**
 
-Oh yeah! Now let me see, there was another pizza place at the time. Hm, what was the name? 
+Oh yeah! Now let me see, there was another pizza place at the time. Hm, what was the name?
 
 **Jasper T. Jowls:**
 
-Oh come on, Munch. We were part of the biggest pizza place battles in the history of children’s entertainment, and you can’t even remember their name? 
+Oh come on, Munch. We were part of the biggest pizza place battles in the history of children’s entertainment, and you can’t even remember their name?
 
 **Mr. Munch:**
 
@@ -110,37 +110,37 @@ Can you give me a hint?
 
 **Jasper T. Jowls:**
 
-Huh? Fat chance. 
+Huh? Fat chance.
 
 **Helen Henny:**
 
-Munch, you gotta be kidding, right? 
+Munch, you gotta be kidding, right?
 
 **Mr. Munch:**
 
-No, I’m not kidding. Now hold on, it’s on the tip of my tongue. 
+No, I’m not kidding. Now hold on, it’s on the tip of my tongue.
 
 **Jasper T. Jowls:**
 
-Ok, just stick your tongue out and I’ll read it back to you. Hahahahahaha. I kill myself, heh. 
+Ok, just stick your tongue out and I’ll read it back to you. Hahahahahaha. I kill myself, heh.
 
 **Pasqually:**
 
-Heh, Jasper, you’re too much! Why don’t you just tell him the name of that other pizza place from the 80s? 
+Heh, Jasper, you’re too much! Why don’t you just tell him the name of that other pizza place from the 80s?
 
 **Jasper T. Jowls:**
 
-Cause it’s more fun this way. You guys ready for another 80s song? 
+Cause it’s more fun this way. You guys ready for another 80s song?
 
 **[Everyone laughs]**
 
 **Pasqually:**
 
-Yeah. 
+Yeah.
 
 **Helen Henny:**
 
-Yeah. 
+Yeah.
 
 **Chuck E. Cheese:**
 
@@ -218,7 +218,7 @@ Come on
 
 I'm talking to you, come on
 
-Shout, shout, let it all out 
+Shout, shout, let it all out
 
 These are the things I can do without
 
@@ -266,11 +266,11 @@ Hey, still can’t come up with the name of that pizza place huh Munch?
 
 **Mr. Munch:**
 
-Nope. 
+Nope.
 
 **Chuck E. Cheese:**
 
-Ah, Munch, don’t worry about it. Sometimes you forget things when you’re on stage, you know what people say. 
+Ah, Munch, don’t worry about it. Sometimes you forget things when you’re on stage, you know what people say.
 
 **Mr. Munch:**
 
@@ -282,17 +282,17 @@ That’s Showbiz! Heheheh
 
 **Pasqually:**
 
-Heheheh, Showbiz. 
+Heheheh, Showbiz.
 
 **Mr. Munch:**
 
-I don’t get it. 
+I don’t get it.
 
 **[Pasqually and Jasper laugh]**
 
 **Mr. Munch:**
 
-What’re you talking about? 
+What’re you talking about?
 
 **Jasper T. Jowls:**
 
@@ -302,12 +302,12 @@ You still don’t get it?
 
 **Jasper T. Jowls:**
 
-Seriously? 
+Seriously?
 
 **Chuck E. Cheese:**
 
-Alright folks, while Munch is figuring things out, we’re gonna take a break. Thanks a lot for hanging out with us here, you guys are totally awesome. We’ll see ya later. 
+Alright folks, while Munch is figuring things out, we’re gonna take a break. Thanks a lot for hanging out with us here, you guys are totally awesome. We’ll see ya later.
 
 **Mr. Munch:**
 
-Now what was the pizza place's name? 
+Now what was the pizza place's name?
