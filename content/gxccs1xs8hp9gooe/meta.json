@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1979-10-06",
   "endDate": "2025-09-21",
-  
   "remodels": [
     {
       "n": "PTT Standard Layout",
@@ -155,7 +154,8 @@
     "https://youtu.be/36de3wzTTNk"
   ],
   "contributors": [
-    "sudo trans --pony"
+    "sudo trans --pony",
+    "Anonymous"
   ],
   "animatronics": [
     {
