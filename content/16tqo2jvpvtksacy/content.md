@@ -1,4 +1,4 @@
-***Fullerton, CA (1841 W Orangethorpe Ave)*** (Also called ***West Fullerton Center*** [8]) was a {{< wiki-link "Pizza Time Theatre" >}} that opened in March of 1980 and closed in late 1985.
+***Fullerton, CA (1841 W Orangethorpe Ave)*** (Also called ***West Fullerton Center*** [8]) was a [Pizza Time Theatre] that opened in March of 1980 and closed in late 1985.
 
 ## History
 

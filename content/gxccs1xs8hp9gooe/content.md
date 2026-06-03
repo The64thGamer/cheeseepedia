@@ -1,4 +1,4 @@
-***Huntington Beach, CA (15511 Edwards St)*** is the fifth\[10\] \[Pizza Time Theatre\]\, and the former Pizza Time Theatre Southern California District Office\, opening on October 6th\, 1979\, and lasting to September 21\, 2025\.\[9\]
+***Huntington Beach, CA (15511 Edwards St)*** is the fifth[10] [Pizza Time Theatre], and the former Pizza Time Theatre Southern California District Office, opening on October 6th, 1979, and lasting to September 21, 2025.[9]
 
 ## History
 
@@ -48,7 +48,7 @@ On September 14th, 1985, the Huntington Beach Jaycees would hold a children's fi
 
 ## 1990's - 2010's
 
-Some time between 1987 to 1991 \(likely within the range of 1989\-1990\)\, the store would convert from a \[Portrait / Shelf Stage\] to \[Chuck E\.'s House Facade\]\.\[28\]\[29\] Some time in the 1990's the store would receive a \[2\-Stage\]\, the \[SPT 1990's Remodel Program\]\, and a drop ceiling\. The stage would also be moved from the left showroom wall\, where it previously was as the C\-Stage\, to the back wall\. It is unclear if this happened before\, during\, or after the 2\-Stage conversion\. Some time after 2003 the store would also receive the \[CEC 2000's Remodel Program\]\.\[34\]
+Some time between 1987 to 1991 (likely within the range of 1989-1990), the store would convert from a [Portrait / Shelf Stage] to [Chuck E.'s House Facade].[28][29] Some time in the 1990's the store would receive a [2-Stage], the [SPT 1990's Remodel Program], and a drop ceiling. The stage would also be moved from the left showroom wall, where it previously was as the C-Stage, to the back wall. It is unclear if this happened before, during, or after the 2-Stage conversion. Some time after 2003 the store would also receive the [CEC 2000's Remodel Program].[34]
 
 ## 2020's & Closure
 
@@ -56,4 +56,4 @@ On November 7th, 2023, CEC Corporate would need a set of curtains to use for the
 
 On February 18th, 2024, a conversation between a fan and an employee of the store would reveal the store's plans to relocate to a new building. This would be due to the owners not wanting to renew the release, deciding to move the store to a nearby fabric store. The store would initially be set to close mid to late 2024. On March 12th bidding for contractors for the new location would commence on Parkway, with another round happening on October 4th, 2024. Huntington would continue operating past its initial plans for closure.
 
-The store would first be found in construction on January 5th\, 2025\, being \[Huntington Beach\, CA \(15031 Goldenwest St\)\]\, a former Joann fabric store\. Rumors would also set the new location's opening for August of that year\.\[32\] Huntington would receive the \[Bella's Snack Shop\] extension sometime between June 14th and June 27th\, 2025\.\[30\]\[31\] The old store would finally close on September 21\, 2025\, with its relocation opening on September 25th\, 2025\.\[33\]
+The store would first be found in construction on January 5th, 2025, being [Huntington Beach, CA (15031 Goldenwest St)], a former Joann fabric store. Rumors would also set the new location's opening for August of that year.[32] Huntington would receive the [Bella's Snack Shop] extension sometime between June 14th and June 27th, 2025.[30][31] The old store would finally close on September 21, 2025, with its relocation opening on September 25th, 2025.[33]
