@@ -1,5 +1,5 @@
 ***SPP Rolfe & Earl*** was a special showtape used during [Concept Unification] to entertain guests while the *Rock-afire Explosion* was converted over to *Munch's Make Believe Band*.
-The tape stars the Rolfe and Earl voice actors from ShowBiz Pizza Time Inc., (Speculated to have been Joe Conti as Rolfe) returning from their roles in 1986. They comment about the stage being under construction, with Rolfe providing Earl hints throughout the tape to figure out that Chuck E. Cheese is behind the changes.\*\*
+The tape stars the Rolfe and Earl voice actors from ShowBiz Pizza Time Inc., (Speculated to have been Joe Conti as Rolfe) returning from their roles in 1986. They comment about the stage being under construction, with Rolfe providing Earl hints throughout the tape to figure out that Chuck E. Cheese is behind the changes.
 
 ## Concept Unification
 
