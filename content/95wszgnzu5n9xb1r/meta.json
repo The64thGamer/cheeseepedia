@@ -11,5 +11,19 @@
     "Ceclife13"
   ],
   "citations": [],
-  "pageThumbnailFile": "Updated_Reel_Cover.avif"
+  "pageThumbnailFile": "Updated_Reel_Cover.avif",
+  "credits": [
+    {
+      "n": "Scott Wilson",
+      "role": "Voice of Chuck E. Cheese, Mr. Munch"
+    },
+    {
+      "n": "Cheryl Cleavenger",
+      "role": "Voice of Helen Henny"
+    },
+    {
+      "n": "Bob West",
+      "role": "Voice of Jasper T. Jowls, Pasqually the Chef"
+    }
+  ]
 }
