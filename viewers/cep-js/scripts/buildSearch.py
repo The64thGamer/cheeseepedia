@@ -119,8 +119,8 @@ def build():
 
     os.makedirs(OUT_DIR, exist_ok=True)
     def w(n, o):
-    with open(os.path.join(OUT_DIR,n),'w',encoding='utf-8') as f:
-        f.write(json.dumps(o,ensure_ascii=False,separators=(',',':')))
+        with open(os.path.join(OUT_DIR,n),'w',encoding='utf-8') as f:
+            f.write(json.dumps(o,ensure_ascii=False,separators=(',',':')))
     w('docs.json', docs)
     w('tags.json', dict(tag_idx))
     for ch,data in shards.items(): w(f'tri_{ch}.json', data)
