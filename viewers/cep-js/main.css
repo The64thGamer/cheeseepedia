@@ -1740,6 +1740,13 @@ color: color-mix(in srgb, var(--text) 30%, transparent);
   flex-direction: column;
 }
 
+.OldWarning{
+  background-color: var(--secondary);
+  padding: 1em;
+  border-radius: 1em;
+  display: flex;
+  margin: auto;
+}
 
 .ProseMirror{
   color:var(--text);

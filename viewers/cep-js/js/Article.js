@@ -284,12 +284,17 @@ let metaRes,mdRes,oldRes;
   try{ [metaRes,mdRes,oldRes]=await Promise.all([fetch(`/content/${articleId}/meta.json`),fetch(`/content/${articleId}/content.md`),fetch(`/content/${articleId}/old.md`)]); }
   catch{ body.innerHTML='<p class="ArticleError">Failed to load article.</p>';return; }
 
-  const meta=metaRes.ok?await metaRes.json():{};
-  let md=mdRes?.ok?await mdRes.text():'';
-  if(oldRes?.ok) md+='\n\n'+await oldRes.text();
+  const meta = metaRes.ok ? await metaRes.json() : {};
+  let md = mdRes?.ok ? await mdRes.text() : '';
+  let oldHtml = '';
 
-  const meta=metaRes.ok?await metaRes.json():{};
-  const md=mdRes?.ok?await mdRes.text():'';
+  const isBlank = !md || !md.trim();
+
+  if (isBlank && oldRes?.ok) {
+    const oldHtmlRes = await fetch('/viewers/cep-js/Old.html');
+    oldHtml = oldHtmlRes.ok ? await oldHtmlRes.text() : '';
+    md = await oldRes.text();
+  }
 
   // Dispatch to type-specific renderer if applicable
   const typeKey=(meta.type||'').toLowerCase();
@@ -344,6 +349,7 @@ let metaRes,mdRes,oldRes;
   async function showArticle(){
     showInbox(true);
     body.innerHTML='';
+    if(oldHtml) body.insertAdjacentHTML('beforeend', oldHtml);
     body.insertAdjacentHTML('beforeend',await renderMarkdown(md)||'<p class="ArticleEmpty">No content.</p>');
     initLinkPreviews(body);
     await buildCitations(body,meta.citations||[]);
