@@ -3,12 +3,12 @@
   "storeNumber": "",
   "startDate": "1999-12-28",
   "endDate": "",
-  
   "remodels": [],
   "stages": [
     {
       "n": "Studio C Alpha",
-      "s": "1999-12-28"
+      "s": "1999-12-28",
+      "e": "2026-07-05"
     }
   ],
   "franchisees": [],
@@ -19,7 +19,9 @@
     "-122.2179174"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "TutorialTimeYT"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "9vB3FPv8qRa_zkOkPzyS.avif",
   "type": "Locations",
