@@ -17,7 +17,7 @@ An "Appearing Now" insert card containing most of the segments of the show would
         3.  'Good Hearted Woman'
         4.  'Hey Good Lookin''
         5.  'Looking For Love In All The Wrong Places'
-        6.  'Proud To Be A Rebel'
+        6.  'The South's Gonna Do It Again'
         7.  'Act Naturally'
         8.  'Mountain Music'
 3. **Segment 3**

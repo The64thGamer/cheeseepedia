@@ -133,7 +133,7 @@
         "I stopped worrying about what my legacy with the Rock-A-Fire Explosion would be before I found out there were fans.",
         "Majorly Magic",
         "Where A Historian Can Be A Historian",
-        "Haters of Discord",
+        "Hater of Discord",
         "It's called a residency.",
         "All Pages, Zero Tokens",
         "Let the enter-train-ment begin!",
