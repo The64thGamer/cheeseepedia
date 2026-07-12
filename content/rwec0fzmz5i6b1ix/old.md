@@ -1,0 +1,23 @@
+**774 Queen Street** was a Chuck E. Cheese's Pizza Time Theatre in Southington, CT that opened in July 1983 and closed in 1985. It used to be in the ShopRite Plaza (Where it used to be called Edwards Plaza). It was in the corner of the plaza (where it's now a JOANN).
+
+## Stages
+
+Southington opened with a [Cyberamics Balcony Stage] which remained until closure. The animatronics were either destroyed, Sent to another location or placed in storage.
+
+|                                                    |           |         |
+|----------------------------------------------------|-----------|---------|
+| Stage                                              | Installed | Removed |
+| [Cyberamics Balcony Stage] | July 1983 | 1985    |
+
+## Animatronics
+
+| Animatronics                                                 | Manufacturing Date | Status  |
+|--------------------------------------------------------------|--------------------|---------|
+| Chuck E Cheese (Cyberamic)                                   | Unknown            | Unknown |
+| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown |
+| [Mr Munch (Cyberamic)]               | Unknown            | Unknown |
+| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown |
+| [Pasqually (Cyberamic)]              | Unknown            | Unknown |
+| [Warblettes (Cyberamic)]             | Unknown            | Unknown |
+
+Category:Stage

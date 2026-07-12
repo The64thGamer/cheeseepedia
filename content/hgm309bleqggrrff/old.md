@@ -1,0 +1,16 @@
+***Tempe, AZ(1000 E Broadway Rd)*** was a *Pizza Time Theater* that opened in June 1981 and closed on December 24, 1984.
+
+## History
+
+Tempe opened in 1981 and was a regular PTT. It had Harmony Howlette, Madame Oink and Helen Henny throughout its lifespan. It also had Dolli Dimples as a cabaret. The stars of the local kids' show *Wallace &amp; Ladmo* performed a Christmas show at the location in 1982.(1) The walkaround also appeared with Ladmo at Tempe Public Library in the early 80s.(2) The location would remain the same throughout its lifespan, closing right after the bankruptcy.
+
+## Animatronics
+
+| Animatronics                                                   | Manufacturing Date | Whereabouts     |
+|----------------------------------------------------------------|--------------------|-----------------|
+| [Chuck E Cheese (Cyberamic)]           | N/A                | Sent to Mexico. |
+| [Guest Star Helen Henny (Cyberamic)]   | N/A                | Sent to Mexico. |
+| [Mr Munch (Cyberamic)]                 | N/A                | Sent to Mexico. |
+| [Jasper T Jowls (Cyberamic)]           | N/A                | Sent to Mexico. |
+| [Pasqually (Cyberamic)]                | N/A                | Sent to Mexico. |
+| [The Beagles / Beach Bowzers (Lounge)] | N/A                | Unkown.         |

@@ -280,9 +280,13 @@ export async function loadArticle(app, articleId, addTag){
   const showInbox=show=>{ if(infobox)infobox.style.display=show?'':'none'; };
   body.innerHTML='<p class="ArticleLoading">Loading...</p>';
 
-  let metaRes,mdRes;
-  try{ [metaRes,mdRes]=await Promise.all([fetch(`/content/${articleId}/meta.json`),fetch(`/content/${articleId}/content.md`)]); }
+let metaRes,mdRes,oldRes;
+  try{ [metaRes,mdRes,oldRes]=await Promise.all([fetch(`/content/${articleId}/meta.json`),fetch(`/content/${articleId}/content.md`),fetch(`/content/${articleId}/old.md`)]); }
   catch{ body.innerHTML='<p class="ArticleError">Failed to load article.</p>';return; }
+
+  const meta=metaRes.ok?await metaRes.json():{};
+  let md=mdRes?.ok?await mdRes.text():'';
+  if(oldRes?.ok) md+='\n\n'+await oldRes.text();
 
   const meta=metaRes.ok?await metaRes.json():{};
   const md=mdRes?.ok?await mdRes.text():'';

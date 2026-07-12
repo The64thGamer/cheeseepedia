@@ -1,0 +1,1 @@
+***4180 N Dowlen Rd, Store #930* is a Chuck E. Cheese's that opened in June 2001 with a Studio C Beta, 32m. They received the 2.0 remodel in 2020. It is a freestanding building in the Parkdale Place Shopping Center.**

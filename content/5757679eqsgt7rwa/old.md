@@ -1,0 +1,1 @@
+***210 2nd Ave* was a ShowBiz Pizza Place located in Cullman, Alabama. It opened on June 1, 1983, and closed in April 1986. Cullman was one of 3 locations to receive the [Mini Stage] concept for smaller ShowBiz locations. It's unknown if they did upgrade to the regular [Classic Stage] later in its run.**
