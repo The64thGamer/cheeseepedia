@@ -1,7 +1,7 @@
 const params = new URLSearchParams(window.location.search);
 const viewerMap = {
   'cep-js':    'cep-js/default',
-  'theoryweb': 'theoryweb/default',
+  'cep-editor': 'cep-editor/default',
 };
 const viewerKey = params.get('v') || 'cep-js';
 const viewer = viewerMap[viewerKey] || 'cep-js/default';
