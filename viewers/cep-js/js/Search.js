@@ -193,6 +193,8 @@ async function loadData() {
       el.textContent = `(${count})`;
     }
   });
+
+  window.DOCS = DOCS; window.TAGS = TAGS; // TEMP debug
 }
 
 async function loadTriShard(ch) {

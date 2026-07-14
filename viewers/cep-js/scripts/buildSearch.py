@@ -88,6 +88,7 @@ def build():
             if t: photo_map[t] = folder.name
 
     docs, tag_idx, tri_idx = [], defaultdict(list), defaultdict(list)
+    tag_canon = {}  
 
     doc_id = 0
     for folder in sorted(folders):
@@ -104,8 +105,13 @@ def build():
             thumb = fm.get('pageThumbnailFile','')
             if thumb and thumb in photo_map: doc['img'] = photo_map[thumb]
         docs.append(doc)
-        for tag in extract_tags(fm): tag_idx[tag].append(doc_id)
-        for tag in extract_wiki_link_tags(body): tag_idx[tag].append(doc_id)
+        seen_this_doc = set()
+        for tag in extract_tags(fm) + extract_wiki_link_tags(body):
+            key = tag.lower()
+            if key in seen_this_doc: continue
+            seen_this_doc.add(key)
+            canon = tag_canon.setdefault(key, tag)
+            tag_idx[canon].append(doc_id)
         fuzzy = ' '.join([title, tp, fm.get('startDate',''),
             ' '.join(str(v) for v in (fm.get('tags') or [])),
             ' '.join(str(v) for v in (fm.get('contributors') or [])),
