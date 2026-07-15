@@ -1,0 +1,27 @@
+textarea{
+    padding: 3em;
+    width: 100%;
+    min-height:40em;
+    background-color: var(--dark);
+    color: var(--text);
+    font-family: var(--font-body);
+    font-size: 1rem;
+    line-height: 1.5;
+    box-sizing: border-box;
+    field-sizing: content;
+}
+
+.EditorImage, .EditorImageLow{
+    margin:auto;
+    width: 80%;
+    display: flex;
+    padding: 1em;
+}
+
+.EditorImageLow{
+    image-rendering: crisp-edges;
+}
+
+.RawDisplay{
+    margin: 1em;
+}

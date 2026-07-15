@@ -15,11 +15,19 @@ export async function render(params, app) {
 
   root.toggleAttribute('data-wide', localStorage.getItem('cep-wide') === '1');
 
-  const loginHTML = await fetch('/viewers/cep-editor/Editor.html');
+  const loginHTML = await fetch('/viewers/cep-editor/Login.html');
   app.innerHTML = await loginHTML.text();
 
-  const { loadFolder } = await import('/viewers/cep-editor/js/Editor.js');
-  const articleId    = params.get('') || params.get('=');
+  await loadScript('https://cdnjs.cloudflare.com/ajax/libs/forge/1.3.1/forge.min.js');
+  await import('/viewers/cep-editor/Login.js');
+}
 
-  loadFolder(articleId, document.getElementById('fileViewer'));
+function loadScript(src) {
+  return new Promise((resolve, reject) => {
+    const s = document.createElement('script');
+    s.src = src;
+    s.onload = resolve;
+    s.onerror = reject;
+    document.head.appendChild(s);
+  });
 }

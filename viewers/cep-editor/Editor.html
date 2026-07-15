@@ -1,0 +1,43 @@
+<head>
+    <link rel="icon" href="/viewers/cep-js/assets/Logos/favicon-cep.ico">
+    <link rel="stylesheet" href="/viewers/cep-js/main.css">
+    <link rel="stylesheet" href="/viewers/cep-editor/main.css">
+</head>
+<div class="Header"></div>
+<div class="Body">
+  <div class="EditTabs">
+    <button>Edit</button>
+    <button>Edit Raw</button>
+  </div>
+  <div class="EditRawBlock">
+    <button id="ButtonContent">content.md</button>
+    <button id="ButtonOld">old.md</button>
+    <button id="ButtonMeta">meta.json</button>
+    <button id="ButtonPhoto">photo.avif</button>
+    <button id="ButtonLowPhoto">lowphoto.avif</button>
+    <div id="RawContent" class="RawDisplay">
+        This is all of the raw Markdown article content.
+        <textarea id="FileContent"></textarea>
+    </div>
+    <div id="RawOld" class="RawDisplay">
+        This is a file containing old article data that needs to be rewritten. Once 'content.md' has text in it, the text here becomes hidden on the final page.
+        <textarea id="FileOld"></textarea>
+    </div>
+    <div id="RawMeta" class="RawDisplay">
+        This is the file containing all parameters that make up the page.
+        <textarea id="FileMeta"></textarea>
+    </div>
+    <div id="RawPhoto" class="RawDisplay">
+        This file is only displayed if the article type is set to 'Photo'.
+        <img id="FilePhoto" class="EditorImage">
+    </div>
+    <div id="RawLowPhoto" class="RawDisplay">
+        This image is pre-generated when the website is compiled.
+        <img id="FileLowPhoto" class="EditorImageLow">
+    </div>
+  </div>
+  <div class="EditFinalButtons">
+    <button id="ZipDownload">Download Edits</button>
+  </div>
+</div>
+<div class="Footer"></div>
