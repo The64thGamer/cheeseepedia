@@ -3,18 +3,24 @@
     <link rel="stylesheet" href="/viewers/cep-js/main.css">
     <link rel="stylesheet" href="/viewers/cep-editor/main.css">
 </head>
-<div class="Header"></div>
+<div class="Header">
+<h1>Editing Page</h1>
+    <div class="EditTabs">
+        <button id="ButtonEdit">Edit</button>
+        <button id="ButtonEditRaw">Edit Raw</button>
+    </div>
+</div>
 <div class="Body">
-  <div class="EditTabs">
-    <button>Edit</button>
-    <button>Edit Raw</button>
+  <div id="EditBlock">
+    <div id="ToastUI"></div>
   </div>
-  <div class="EditRawBlock">
+  <div id="EditRawBlock">
     <button id="ButtonContent">content.md</button>
     <button id="ButtonOld">old.md</button>
     <button id="ButtonMeta">meta.json</button>
     <button id="ButtonPhoto">photo.avif</button>
     <button id="ButtonLowPhoto">lowphoto.avif</button>
+    <button id="ButtonAddPhoto">+ Add Photo</button>
     <div id="RawContent" class="RawDisplay">
         This is all of the raw Markdown article content.
         <textarea id="FileContent"></textarea>
@@ -29,7 +35,9 @@
     </div>
     <div id="RawPhoto" class="RawDisplay">
         This file is only displayed if the article type is set to 'Photo'.
-        <img id="FilePhoto" class="EditorImage">
+        <br>
+        <button id="ButtonReplacePhoto">Replace Photo</button>
+        <img id="FilePhoto" class="EditorImage">        
     </div>
     <div id="RawLowPhoto" class="RawDisplay">
         This image is pre-generated when the website is compiled.

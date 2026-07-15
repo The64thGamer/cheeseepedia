@@ -18,10 +18,45 @@ textarea{
     padding: 1em;
 }
 
+body{
+    background-color: var(--edit-background);
+}
+
 .EditorImageLow{
     image-rendering: crisp-edges;
 }
 
 .RawDisplay{
     margin: 1em;
+}
+
+#ToastUI{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+
+button {
+  font-size: .9rem;
+  padding: .2rem .4rem;
+  border-radius: .5rem;
+  border: 0.25rem solid var(--dark);
+  cursor: pointer;
+  transition: background .15s;
+  background-color: var(--secondary);
+  flex-shrink: 0;
+  font-family: var(--font-body);
+}
+
+button:hover {
+  background: var(--primary);
+}
+
+.Header{
+    display:flex;
+}
+
+.EditTabs{
+    align-self: center;
+    margin-left: auto;
 }
