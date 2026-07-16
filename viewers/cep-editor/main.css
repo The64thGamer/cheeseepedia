@@ -1,7 +1,4 @@
-textarea{
-    padding: 3em;
-    width: 100%;
-    min-height:40em;
+textarea, input{
     background-color: var(--dark);
     color: var(--text);
     font-family: var(--font-body);
@@ -11,11 +8,27 @@ textarea{
     field-sizing: content;
 }
 
+textarea{
+    padding: 3em;
+    width: 100%;
+    min-height:40em;
+}
+
+input{
+    padding: 0.5em;
+    margin-left: 3em;
+    width: 50%;
+}
+
 .EditorImage, .EditorImageLow{
     margin:auto;
     width: 80%;
     display: flex;
     padding: 1em;
+}
+
+.ParamLabel{
+    color: var(--primary);
 }
 
 body{
@@ -33,6 +46,7 @@ body{
 #ToastUI{
     margin-top: 1em;
     margin-bottom: 1em;
+    filter: invert(0.9) hue-rotate(180deg);
 }
 
 

@@ -11,8 +11,92 @@
     </div>
 </div>
 <div class="Body">
+    
   <div id="EditBlock">
+    <div class="ParamLabel">Title:</div>
+    Ensure this title is accurate as this will update all links to this article with the new name.
+    <input id="MetaTitle" type="text">
+    <br><br>
+    <div class="ParamLabel">Type:</div>
+    Changes how the article is displayed on the site, alongside being a category to sort.
+    <br>
+    <select id="MetaType">
+        <option value="Animatronics">Animatronics</option>
+        <option value="Animatronic Shows">Animatronic Shows</option>
+        <option value="Animatronic Parts">Animatronic Parts</option>
+        <option value="Animatronic Preservation">Animatronic Preservation</option>
+        <option value="Stage Variations">Stage Variations</option>
+        <option value="Costumed Characters">Costumed Characters</option>
+        <option value="Characters">Characters</option>
+        <option value="Locations">Locations</option>
+        <option value="Cancelled Locations">Cancelled Locations</option>
+        <option value="Showtapes">Showtapes</option>
+        <option value="Showtape Formats">Showtape Formats</option>
+        <option value="ShowBiz Pizza Programs">ShowBiz Pizza Programs</option>
+        <option value="Family Vision">Family Vision</option>
+        <option value="Live Shows">Live Shows</option>
+        <option value="Puppets">Puppets</option>
+        <option value="Commercials">Commercials</option>
+        <option value="News Footage">News Footage</option>
+        <option value="Company Media">Company Media</option>
+        <option value="Movies">Movies</option>
+        <option value="Transcriptions">Transcriptions</option>
+        <option value="Video Games">Video Games</option>
+        <option value="Menu Items">Menu Items</option>
+        <option value="Tickets">Tickets</option>
+        <option value="Tokens">Tokens</option>
+        <option value="Documents">Documents</option>
+        <option value="Corporate Documents">Corporate Documents</option>
+        <option value="Promotional Material">Promotional Material</option>
+        <option value="Events">Events</option>
+        <option value="Remodels and Initiatives">Remodels and Initiatives</option>
+        <option value="Retrofits">Retrofits</option>
+        <option value="History">History</option>
+        <option value="Arcades and Attractions">Arcades and Attractions</option>
+        <option value="Companies/Brands">Companies/Brands</option>
+        <option value="Animatronic Control Systems">Animatronic Control Systems</option>
+        <option value="Other Systems">Other Systems</option>
+        <option value="Programming Systems">Programming Systems</option>
+        <option value="Simulators">Simulators</option>
+        <option value="Social Media and Websites">Social Media and Websites</option>
+        <option value="Ad Vehicles">Ad Vehicles</option>
+        <option value="In-Store Merchandise">In-Store Merchandise</option>
+        <option value="Products">Products</option>
+        <option value="Employee Wear">Employee Wear</option>
+        <option value="Meta">Meta</option>
+        <option value="Store Fixtures">Store Fixtures</option>
+        <option value="Photos">Photos</option>
+        <option value="Videos">Videos</option>
+        <option value="Reviews">Reviews</option>
+        <option value="User">User</option>
+    </select>
+    <br><br>
+    <div class="ParamLabel">Tags:</div>
+    Articles generate tags based on parameters and linked articles. Here you can force tags onto the page, such as "Chuck E. Cheese" or "ShowBiz Pizza Place". Video and Photo pages should have as many forced tags as possible describing them. Tags are the titles of other articles.
+    <div id="MetaTags"></div>
+    <br>
+    <div class="ParamLabel">Article:</div>
+    Keep your article well written, sourced, and to put any additional info in the extra parameters below rather than stuffing the text with it.
     <div id="ToastUI"></div>
+    <div class="ParamLabel">Citations:</div>
+    Link ciations in the article like this: [1] [12] [4]
+    <div id="MetaCitations"></div>
+    <br>
+    <div class="ParamLabel">Credits:</div>
+    <div id="MetaCredits"></div>
+    <br>
+    <div class="ParamLabel">Operation Dates:</div>
+    Start: <div id="MetaStartDate"></div>
+    End: <div id="MetaEndDate"></div>
+    <br>
+    <div class="ParamLabel">Stages:</div>
+    <div id="MetaStages"></div>
+    <br>
+    <div class="ParamLabel">Article Thumbnail Photo:</div>
+    This will be the title of an image on the site to use for the thumbnail, like: photo(1).avif
+    <input id="MetaThumbnail" type="text">
+    <br><br>
+
   </div>
   <div id="EditRawBlock">
     <button id="ButtonContent">content.md</button>
