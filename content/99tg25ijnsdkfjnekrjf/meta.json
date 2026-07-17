@@ -6,37 +6,42 @@
   ],
   "sqft":"12,000",
   "pageThumbnailFile": "",
-  "startDate": "1983-10-00",
+  "startDate": "1981-05-05",
   "endDate": "0000-00-00",
   "attractions": [
     {
       "n": "Shuffleboard",
       "s": "1984-00-00",
       "e": "0000-00-00",
-      "desc": "Mentioned in June of 1984."
+      "desc": "Zapp's, Mentioned in June of 1984."
     },
     {
       "n": "Darts",
       "s": "1984-00-00",
       "e": "0000-00-00",
-      "desc": "Mentioned in June of 1984."
+      "desc": "Zapp's, Mentioned in June of 1984."
     },
     {
       "n": "Pente",
       "s": "1984-00-00",
       "e": "0000-00-00",
-      "desc": "Mentioned in June of 1984."
+      "desc": "Zapp's, Mentioned in June of 1984."
     },
     {
       "n": "Backgammon",
       "s": "1984-00-00",
       "e": "0000-00-00",
-      "desc": "Mentioned in June of 1984."
+      "desc": "Zapp's, Mentioned in June of 1984."
     }
   ],
   "contributors": ["sudo trans --pony"],
   "citations": [
     "https://www.newspapers.com/article/the-tampa-tribune-zapps-bar-grill-off/161267182/",
-    "https://archive.org/details/Video_Games_Volume_2_Number_04_1984-01_Pumpkin_Press_US/page/n13/mode/2up?q=zapp%27s"
+    "https://archive.org/details/Video_Games_Volume_2_Number_04_1984-01_Pumpkin_Press_US/page/n13/mode/2up?q=zapp%27s",
+    "https://www.newspapers.com/article/the-tampa-tribune-last-public-mention-of/201585509/",
+    "https://www.newspapers.com/article/the-tampa-tribune-zapps-tampa-ad/201585422/",
+    "https://www.newspapers.com/article/the-tampa-tribune-zapps-tampa-hiring-ad/201585376/",
+    "https://www.newspapers.com/article/the-tampa-tribune-tampa-area-locations/201585058/",
+    "https://www.newspapers.com/article/the-tampa-tribune-tampa-area-locations/201584981/"
   ]
 }

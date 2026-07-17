@@ -33,29 +33,44 @@
     },
     {
       "n": "Pool Table",
-      "s": "0000-00-00",
+      "s": "1983-05-00",
       "e": "0000-00-00",
-      "desc": "Mentioned in January of 1984."
+      "desc": "Mentioned near opening and in January of 1984."
     },
     {
       "n": "Backgammon",
-      "s": "0000-00-00",
+      "s": "1983-05-00",
       "e": "0000-00-00",
-      "desc": "Mentioned in January of 1984."
+      "desc": "Mentioned near opening and in January of 1984."
     },
         {
       "n": "Shuffleboard",
-      "s": "0000-00-00",
+      "s": "1983-05-00",
       "e": "0000-00-00",
-      "desc": "Mentioned in January of 1984."
+      "desc": "Mentioned near opening and in January of 1984."
+    },
+    {
+      "n": "Chess",
+      "s": "1983-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned near opening."
+    },
+    {
+      "n": "Darts",
+      "s": "1983-05-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned near opening."
     }
   ],
-  "sqft": "",
+  "sqft": "10400",
   "latitudeLongitude": [
     "37.30953562",
     "-122.0351313"
   ],
-  "citations": [],
+  "citations": [
+    "https://archive.org/details/Video_Games_Volume_2_Number_04_1984-01_Pumpkin_Press_US/page/n13/mode/2up",
+    "https://www.newspapers.com/article/usa-today-zapps-bar-and-grill/174113485/"
+   ],
   "contributors": [],
   "downloadLinks": [],
   "pageThumbnailFile": "",
