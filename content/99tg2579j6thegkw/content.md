@@ -1,4 +1,4 @@
-***Zapp's Bar & Grill***, (Also known as ***Zapp's Cabaret***[8] in Canada) was a small chain of barcades spread across the US and Canada- mostly consisting of former [Pizza Time Theatre] locations from late 1982 to the early 90's. The bar concept would later be continued by [Chuck E. Cheese's] in 2001 with [TJ Hartford's Sports Grille].
+***Zapp's Bar & Grill***, (Also known as ***Zapp's Cabaret***[8] in Canada) was a small chain of barcades spread across the US and Canada- mostly consisting of former [Pizza Time Theatre] locations from May of 1983 to August of 1993. Between 1984-1985 the company was sold or spun-off to not be part of the PTT brand.[31][13] The bar concept would later be continued by [Chuck E. Cheese's] in 2001 with [TJ Hartford's Sports Grille].
 
 ## Confusion With Gilbert Zapp's
 
@@ -14,16 +14,22 @@ An unknown amount of Zapp's locations, possibly all of them, came with a [Wolfma
 
 The first Zapp's would open in the former Pizza Time Theatre at [Cupertino, CA (975 S De Anza Blvd)] in May of 1983.[30] The location was noted as wanting to create the "...same kind of video dining fantasy land that has made the company's chain of Chuck E. Cheese restaurants one of the USA's hottest businesses...". The goal would be targeting the 25-35 year old crowd that frequented T.G.I. Friday's and Bennigan's Tavern. Gene Landrum would be guiding the brand, while Jack Campbell is also noted under the subdivision.[28][30] The location is noted as having over 100 games, but only a quarter being video arcades, with the rest being items such as pool, shuffleboard, chess, darts, and backgammon. Private rooms are also provided with curtains. These rooms provide a telephone, a TV, and a big red button to summon a waitress.[30]
 
-On July 11th, 1983, Pizza Time Theatre would note plans to open a location in Tampa and Dallas, with plans 3 months out to decide whether to expand the chain into a "full-fledged operation".[30]
+On July 11th, 1983, Pizza Time Theatre would note plans to open a location in Tampa and Dallas, with plans 3 months out to decide whether to expand the chain into a "full-fledged operation".[30] It is likely the Dallas store was of [Dallas, TX (8021 Walnut Hill Lane)], as a mention of the Zapp's is being "Across town..." from the first Dave & Busters, which was in Dallas, TX (2481 Manana Dr). The other candidate PTT is [Dallas, TX (2905 Forest Lane)], but that location is only 3 miles away from the D&B.
 
 ### Captain Zapp
 In a December 1983 ad for the [Reno, NV (651 E Moana Lane)] location, a light-haired character would appear in a superhero outfit with sunglasses and a 'Z' printed on their shirt. In January of 1984 "Captain Zapp" is mentioned as a new mascot for the arcade portion of the brand. However, this character is mentioned as having dark hair and a mustache, with no mentions of the superhero attire.[12]
 
 ### Bankruptcy
 
-After [Pizza Time Theatre] filed for Chapter 11 bankruptcy in March of 1984, an interview with Nolan Bushnell would mention Zapp's in May, where he would note the brand was for 21-35 year olds. He noted "city fathers" not liking the concept which forced the brand outside of larger city areas. He also mentioned only 4 stores opened, "Tampa, San Jose, Dallas, Reno..." and one opening soon in Boulder, CO., likely in the then or soon to be closed Pizza Time Theatre at [Boulder, CO (633 S Broadway)][6]
+After [Pizza Time Theatre] filed for Chapter 11 bankruptcy in March of 1984, an interview with Nolan Bushnell would mention Zapp's in May, where he would note the brand was for 21-35 year olds. He noted "city fathers" not liking the concept which forced the brand outside of larger city areas. He also mentioned only 4 stores opened, "Tampa, San Jose, Dallas, Reno..." and one opening soon in Boulder, CO., likely in the then or soon to be closed Pizza Time Theatre at [Boulder, CO (633 S Broadway)].[6] There is no evidence for if a Zapp's in Boulder ever eventually opened.
 
-The company would note later in June during discussions of the sale of Pizza Time Theatre locations that it had Zapp's "on the block" alongside other divisions of the company.[13]
+The company would note later in June during discussions of the sale of Pizza Time Theatre locations that it had Zapp's "on the block" alongside other divisions of the company.[13] The 1983 annual report for the company, filed some time after March of 1984, also mentions "The sale of Zapp's is currently being negotiated and will also be subject to Court approval."[30]
+
+### Post-PTT Sale
+
+Zapp's was either sold or spun-off as an independent company before [Pizza Time Theatre's] merger with [ShowBiz Pizza Place] completed in May of 1985. ShowBiz Pizza Time, Inc.'s earliest known 1989 annual report mentions nothing of Zapp's despite locations still being open at the time.[31] Post-sale would see the opening of the Fremont and Kelowna stores.
+
+The company would close on August 17, 1993.[27]
 
 ## Locations
 
@@ -32,7 +38,7 @@ The company would note later in June during discussions of the sale of Pizza Tim
 | [Cupertino, CA (975 S De Anza Blvd)]    | May 1983 - Unknown   | Yes |
 | [Tampa, FL (2363 E. Fowler Ave)][5]    | October 1983 - Sometime after July 1985 | Yes |
 | [Reno, NV (651 E Moana Lane)]    | December 1983 - Summer 1986   | Yes |
-| [Dallas]    | Early 1984 - Last mentioned 1995   | ??? |
-| [Boulder, CO (633 S Broadway)] | 1984 - Unknown   | Yes |
+| [Dallas, TX (8021 Walnut Hill Lane)]    | 1983 - Last mentioned 1995   | Yes |
+| [Boulder, CO (633 S Broadway)] | Unclear if ever reopened   | Yes |
 | [Kelowna, British Columbia, Canada] | Mentioned in 1988, says closed by 1991 | No |
 | [Fremont, CA (44350 S Grimmer Blvd)][29] | Mentioned in 1991 | No |

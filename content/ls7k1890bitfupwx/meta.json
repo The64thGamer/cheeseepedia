@@ -1,14 +1,14 @@
 {
-  "title": "Dallas, TX (2905 Forest Lane)",
+  "title": "Dallas, TX (8021 Walnut Hill Lane)",
   "storeNumber": "",
-  "startDate": "1981-08-00",
-  "endDate": "1983-00-00",
+  "startDate": "1981-12-00",
+  "endDate": "0000-00-00",
   
   "remodels": [],
   "stages": [
     {
       "n": "Balcony Stage",
-      "s": "1981-08-00",
+      "s": "1981-12-00",
       "e": "1983-00-00"
     }
   ],
@@ -16,8 +16,8 @@
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
-    "32.9093020",
-    "-96.8803654"
+    "32.7755679",
+    "-96.7955954"
   ],
   "citations": [],
   "contributors": [],
@@ -25,6 +25,7 @@
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
-    "Pizza Time Theatre"
+    "Pizza Time Theatre",
+    "Zapp's Bar & Grill"
   ]
 }
