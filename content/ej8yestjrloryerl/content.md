@@ -1,0 +1,1 @@
+Lewisville, TX (1960 S Stemmons Fwy) was the only [TJ Hartford's Sports Grille] produced by [Chuck E. Cheese's], lasting from October 1, 2001, to February 17th, 2008.
