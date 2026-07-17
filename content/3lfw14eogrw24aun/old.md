@@ -1,4 +1,4 @@
-***Reno, NV (651 E Moana Lane)*** was a *Pizza Time Theatre* that opened in December of 1982 with a Balcony Stage, which closed in 1983 before being reopened as a PTT-owned Zapp's Bar &amp; Grill restaurant in 1983 and lasting to 1986-1987.
+***Reno, NV (651 E Moana Lane)*** was a *Pizza Time Theatre* that opened in December of 1982 with a Balcony Stage, which closed in 1983 before being reopened as a PTT-owned [Zapp's Bar & Grill] restaurant in 1983 and lasting to 1986-1987.
 
 ## History
 

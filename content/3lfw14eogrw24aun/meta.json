@@ -13,13 +13,26 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Video Jukebox",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in November of 1984."
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "39.49228977",
     "-119.7896316"
   ],
-  "citations": [],
+  "citations": [
+    "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-grand-o/201604204/",
+    "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-opening/201604189/",
+    "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-comedy/201604249/",
+    "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-closed/201604291/",
+    "Lost citation from an older version of the page."
+    ],
   "contributors": [],
   "downloadLinks": [],
   "pageThumbnailFile": "00MuNtasmcP53SY4y8uA.avif",

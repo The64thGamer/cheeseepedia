@@ -7,5 +7,20 @@
   "pageThumbnailFile": "",
   "startDate": "",
   "endDate": "",
-  "contributors": []
+  "contributors": ["sudo trans --pony"],
+  "citations": [
+    "https://www.tapatalk.com/groups/retro_pizza_zone/i-think-wolfman-zapp-survived-t4780.html",
+    "https://www.reddit.com/r/funny/comments/26m8y2/in_case_you_have_trouble_finding_me_ill_be_in_the/",
+    "https://showbizpizza.com/info/documents/ptt/ptt_cyberamicspartsmanual.pdf",
+    "https://www.facebook.com/groups/SanJoseHistory/posts/2425536004244286/",
+    "https://www.newspapers.com/article/the-tampa-tribune-zapps-bar-grill-off/161267182/",
+    "https://archive.org/details/Video_Games_Volume_2_Number_08_1984-05_Pumpkin_Press_US/page/n69/mode/2up",
+    "https://archive.org/details/Video_Games_Volume_2_Number_04_1984-01_Pumpkin_Press_US/page/n13/mode/2up",
+    "https://forum.cheeseepedia.org/t/zapps-cabaret-canadian-location-discovered/420",
+    "https://www.etsy.com/listing/4388873292/vintage-80s-zapps-cabaret-kelowna-tank",
+    "https://www.worldradiohistory.com/Archive-All-Music/Pollstar/90s/95/Pollstar-1995-10-16.pdf",
+    "https://www.newspapers.com/image/511666385/?match=1&terms=%22zapp%27s%20cabaret%22",
+    "https://archive.org/details/Video_Games_Volume_2_Number_04_1984-01_Pumpkin_Press_US/page/n13/mode/2up?q=zapp%27s"
+
+  ]
 }

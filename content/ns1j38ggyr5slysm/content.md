@@ -1,4 +1,4 @@
-***Wolfman Zapp* was a [Cyberamics] created by [Pizza Time Theatre] for Zapp's Bar & Grill in the 1980s.**
+***Wolfman Zapp*** was a [Cyberamics] animatronic created by [Pizza Time Theatre] for [Zapp's Bar & Grill] in the mid 1980s.
 
 ## History
 

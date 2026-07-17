@@ -1,10 +1,9 @@
-***TJ Hartford's Grill & Bar* (Formerly ***TJ Hartford's* ***Sports Grille)* was a single restaurant and company created by ***CEC Corporate* on October 1, 2001 and lasting to February 17, 2008.https://web.archive.org/web/20020605030127fw_/http://www.tjhartfords.com/company.html[1]
-The only location was located at [Lewisville, TX (1960 S Stemmons Fwy)].********
+***TJ Hartford's Grill & Bar*** (Formerly ***TJ Hartford's Sports Grille***) was a single restaurant and company created by CEC Corporate on October 1, 2001 and lasting to February 17, 2008.[9][1] The only location was located at [Lewisville, TX (1960 S Stemmons Fwy)].
 
 ## History
 
-TJ Hartford's would begin as a concept within CEC Corporate to grow their restaurant business. As a juxtaposition to Chuck E. Cheese's children-centered marketing strategy, TJ's would appeal to an adult demographic by being a large contemporary dining restaurant- including a bar and multiple dozen TV's scattered throughout the building for sports entertainment. CEC Corporate considered TJ's to be '-a new expansion vehicle to compliment our future growth strategy'.https://web.archive.org/web/20020605030127/http://www.tjhartfords.com/company.html
-The company would be created as ***TJH Restaurant Group, Inc.* in 2001. The first location would open on October 1, 2001[1], though another source also states September 2001- possibly a soft opening.[2] The restaurant would feature arcade games for additional entertainment, crafting special tokens for the machines. At some point the company would switch to quarters for play.[3]
+TJ Hartford's would begin as a concept within CEC Corporate to grow their restaurant business. As a juxtaposition to Chuck E. Cheese's children-centered marketing strategy, TJ's would appeal to an adult demographic by being a large contemporary dining restaurant- including a bar and multiple dozen TV's scattered throughout the building for sports entertainment. CEC Corporate considered TJ's to be '-a new expansion vehicle to compliment our future growth strategy'.[9]
+The company would be created as *TJH Restaurant Group, Inc.* in 2001. The first location would open on October 1, 2001[1], though another source also states September 2001- possibly a soft opening.[2] The restaurant would feature arcade games for additional entertainment, crafting special tokens for the machines. At some point the company would switch to quarters for play.[3]
 Plans to open a second TJ's in 2002 would be considered, but never materialized.[4]**
 
 ### Rebrand

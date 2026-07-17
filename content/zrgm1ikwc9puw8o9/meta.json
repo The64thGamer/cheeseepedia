@@ -1,9 +1,8 @@
 {
-  "title": "San Jose / Cupertino, CA (975 S De Anza Blvd)",
+  "title": "Cupertino, CA (975 S De Anza Blvd)",
   "storeNumber": "",
   "startDate": "1982-00-00",
-  "endDate": "1983-05-00",
-  
+  "endDate": "0000-00-00",
   "remodels": [],
   "stages": [
     {
@@ -13,7 +12,44 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Dragon's Lair",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in January of 1984."
+    },
+    {
+      "n": "Pole Position",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in January of 1984."
+    },
+    {
+      "n": "Pac-Man",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in January of 1984."
+    },
+    {
+      "n": "Pool Table",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in January of 1984."
+    },
+    {
+      "n": "Backgammon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in January of 1984."
+    },
+        {
+      "n": "Shuffleboard",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Mentioned in January of 1984."
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "37.30953562",
@@ -25,6 +61,7 @@
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
-    "Pizza Time Theatre"
+    "Pizza Time Theatre",
+    "Zapp's Bar & Grill"
   ]
 }
