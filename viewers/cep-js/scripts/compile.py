@@ -12,6 +12,7 @@ import buildFinalData
 import buildMapPins
 import buildLocationInventoryLinker
 import buildRelated
+import buildParamHinter
 
 def main():
     print("Start (CEP-JS)")
@@ -22,6 +23,7 @@ def main():
     buildContributors.main()
     buildMapPins.main()
     buildLocationInventoryLinker.main()
+    buildParamHinter.main()
     buildRelated.main()
 
     buildFinalData.main()

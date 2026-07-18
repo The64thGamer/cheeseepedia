@@ -50,6 +50,15 @@ body{
     background-color: var(--primary);
 }
 
+.MetaDateGroup{
+    display:contents;
+}
+
+.MetaDateGroup select{
+    margin: 0.25em;
+    width: auto;
+}
+
 #ToastUI{
     margin-top: 1em;
     margin-bottom: 1em;
@@ -61,21 +70,44 @@ body{
 }
 
 .MetaObjectRow {
-	margin: 0.5em;
-	border: solid var(--dark) 0.25em;
-	padding: 0.5em;
-	display: flex;
-	width: 100%;
-	border-radius: 0.5em;
-    word-wrap: initial;
-    align-items: center;
-    box-sizing: border-box;
+  margin: 0.5em;
+  border: solid var(--dark) 0.25em;
+  padding: 0.5em;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+  border-radius: 0.5em;
+  word-wrap: initial;
+  box-sizing: border-box;
 }
 
-.MetaObjectRow input{
-    width: 100%;
-    margin-left: 1em;
-    margin-right: 2em;
+.MetaFieldLine {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em;
+  width: 100%;
+  margin: 0.25em 0;
+}
+
+.MetaField {
+  display: flex;
+  align-items: center;
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.MetaField input,
+.MetaField select {
+  flex: 1 1 auto;
+  width: auto;
+  min-width: 0;
+  margin-left: 1em;
+}
+
+select:disabled{
+    color: color-mix(in oklab,var(--dark), var(--text))  
 }
 
 #MetaStartDate,#MetaEndDate{
@@ -84,6 +116,44 @@ body{
 
 .MetaListRow button{
     margin-left: 1em;
+}
+
+.MetaSuggestWrap {
+  position: relative;
+  flex: 1 1 auto;
+  min-width: 0;
+  margin-left: 1em;
+}
+
+.MetaSuggestWrap input {
+  width: 100%;
+  margin-left: 0;
+}
+
+.MetaSuggestBox {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 20;
+  max-height: 12em;
+  overflow-y: auto;
+  background-color: var(--dark);
+  border: 0.15em solid var(--text);
+  border-radius: 0.5em;
+  margin-top: 0.25em;
+}
+
+.MetaSuggestItem {
+  padding: 0.4em 0.6em;
+  cursor: pointer;
+}
+
+.MetaSuggestItem.active,
+.MetaSuggestItem:hover {
+  background-color: var(--primary);
+  color: var(--dark);
 }
 
 
