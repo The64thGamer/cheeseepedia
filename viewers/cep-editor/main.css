@@ -1,11 +1,10 @@
-textarea, input{
+textarea, input, select{
     background-color: var(--dark);
     color: var(--text);
     font-family: var(--font-body);
     font-size: 1rem;
     line-height: 1.5;
     box-sizing: border-box;
-    field-sizing: content;
 }
 
 textarea{
@@ -14,10 +13,13 @@ textarea{
     min-height:40em;
 }
 
-input{
+
+
+input, select{
     padding: 0.5em;
     margin-left: 3em;
     width: 50%;
+    border-radius:0.5em;
 }
 
 .EditorImage, .EditorImageLow{
@@ -43,10 +45,45 @@ body{
     margin: 1em;
 }
 
+#MetaTitle{
+    color:var(--dark);
+    background-color: var(--primary);
+}
+
 #ToastUI{
     margin-top: 1em;
     margin-bottom: 1em;
     filter: invert(0.9) hue-rotate(180deg);
+}
+
+.Meta{
+    margin-left: 2em;
+}
+
+.MetaObjectRow {
+	margin: 0.5em;
+	border: solid var(--dark) 0.25em;
+	padding: 0.5em;
+	display: flex;
+	width: 100%;
+	border-radius: 0.5em;
+    word-wrap: initial;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.MetaObjectRow input{
+    width: 100%;
+    margin-left: 1em;
+    margin-right: 2em;
+}
+
+#MetaStartDate,#MetaEndDate{
+    display:flex;
+}
+
+.MetaListRow button{
+    margin-left: 1em;
 }
 
 

@@ -283,15 +283,10 @@ function renderObjectListField(key, cfg) {
     const row = document.createElement('div');
     row.className = 'MetaObjectRow';
 
-    const label = document.createElement('span');
-    label.textContent = `${i + 1}.`;
-    row.appendChild(label);
-
     for (const f of cfg.fields) {
-      const wrap = document.createElement('div');
       const flabel = document.createElement('label');
       flabel.textContent = f.label;
-      wrap.appendChild(flabel);
+      row.appendChild(flabel);
 
       const onChange = v => {
         item[f.key] = v;
@@ -303,18 +298,16 @@ function renderObjectListField(key, cfg) {
         const input = document.createElement('input');
         input.type = 'text';
         bindLine(input, item[f.key], onChange);
-        wrap.appendChild(input);
+        row.appendChild(input);
       } else if (f.type === 'dropdown') {
         const select = document.createElement('select');
         bindDropdown(select, item[f.key], onChange, f.options);
-        wrap.appendChild(select);
+        row.appendChild(select);
       } else if (f.type === 'date') {
         const dateWrap = document.createElement('div');
         buildDateField(dateWrap, item[f.key], onChange);
-        wrap.appendChild(dateWrap);
+        row.appendChild(dateWrap);
       }
-
-      row.appendChild(wrap);
     }
 
     const removeBtn = document.createElement('button');

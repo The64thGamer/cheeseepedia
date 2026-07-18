@@ -1,1 +1,3 @@
-[Twitch](https://www.twitch.tv/chuckecheese)
+The ***Chuck E. Cheese*** Twitch channel (https://www.twitch.tv/chuckecheese) was a channel used throughout 2020 to host streams of Chuck E. Cheese playing *Animal Crossing: New Horizons*, *Fall Guys (Switch Edition)*, and *Super Mario 3D All-Stars Collection*, alongside watching an unknown *Launch America* launch.[11]
+
+The account has laid dormant since 2020, with no archives of previous streams saved outside of nearly 7 hours of user-saved clips.[11]
