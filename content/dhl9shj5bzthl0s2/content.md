@@ -1,1 +1,1 @@
-Center stage, date unknown
+Jingle bell Jamboree Center stage elfs,early 70's
