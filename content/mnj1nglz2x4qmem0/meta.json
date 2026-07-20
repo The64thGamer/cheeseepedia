@@ -7,5 +7,17 @@
   "pageThumbnailFile": "10ijf9234t4.avif",
   "startDate": "1986-12-12",
   "endDate": "1987-02-00",
-  "contributors": []
+  "contributors": [
+    "Ceclife13"
+  ],
+  "credits": [
+    {
+      "n": "Bob West",
+      "role": "Voice of Billy Bob, Looney Bird (R&R Demo)"
+    },
+    {
+      "n": "Lonny Wilder",
+      "role": "Voice of Dook LaRue (R&R Demo)"
+    }
+  ]
 }
