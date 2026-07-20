@@ -1,1 +1,1 @@
-Promotional Photo
+Promotional Photo of the Jingle Bell Jamboree Center stage
