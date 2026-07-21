@@ -2,10 +2,21 @@
   "title": "Rudolph (Animatronic)",
   "type": "Animatronics",
   "tags": [
-    "Creative Engineering"
+    "Creative Engineering",
+    "Jingle Bell Jamboree",
+    "Rudolph (Animatronic)"
   ],
   "pageThumbnailFile": "",
-  "startDate": "",
-  "endDate": "0000-00-00",
-  "contributors": []
+  "startDate": "1977-00-00",
+  "endDate": "2006-00-00",
+  "contributors": [
+    "TutorialTimeYT"
+  ],
+  "citations": [
+    "https://www.youtube.com/watch?v=P_xrIayIsV8",
+    "https://www.showbizpizza.com/events/12daysofdata/index.html",
+    "https://www.instagram.com/p/CEgu7b2HDWb"
+  ],
+  "credits": "",
+  "downloadLinks": []
 }
