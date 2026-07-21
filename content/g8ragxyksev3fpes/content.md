@@ -1,1 +1,1 @@
-Rudolph, date unknown
+Rudolph/Rudy in the early 80's
