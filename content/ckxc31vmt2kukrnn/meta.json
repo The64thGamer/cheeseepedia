@@ -5,10 +5,36 @@
     "ShowBiz Pizza Place"
   ],
   "pageThumbnailFile": "",
-  "startDate": "1986-11-00",
-  "endDate": "1987-00-00",
+  "startDate": "1986-12-00",
+  "endDate": "1986-12-00",
   "contributors": [
-    "sudo trans --pony"
+    "sudo trans --pony",
+    "Ceclife13"
   ],
-  "alsoKnownAs": []
+  "alsoKnownAs": [],
+  "citations": [
+    "https://youtu.be/IoMzfFASLJQ"
+  ],
+  "credits": [
+    {
+      "n": "Aaron Fechter",
+      "role": "Voice of Billy Bob, Looney Bird, Rolfe DeWolfe, Earl Schmerle"
+    },
+    {
+      "n": "Shalisa Sloan",
+      "role": "Voice of Mitzi Mozzarella"
+    },
+    {
+      "n": "Rick Bailey",
+      "role": "Voice of Beach Bear"
+    },
+    {
+      "n": "Burt Wilson",
+      "role": "Voice of Fatz Geronimo"
+    },
+    {
+      "n": "Duke Chauppetta",
+      "role": "Voice of Dook LaRue"
+    }
+  ]
 }
