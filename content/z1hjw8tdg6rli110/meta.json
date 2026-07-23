@@ -2,18 +2,20 @@
   "remodels": [
     {
       "n": "CEC 2013 Update Program",
-      "s": "2014-10-00"
+      "s": "2014-10-00",
+      "e": "2023-02-26"
     },
     {
       "n": "CEC 2.0 Remodel Program",
-      "s": "2023-00-00"
+      "s": "2023-02-26",
+      "e": ""
     }
   ],
   "stages": [
     {
       "n": "Circles of Light",
       "s": "2014-10-00",
-      "e": "0000-00-00",
+      "e": "",
       "desc": "Animatronic removed during the 2.0 remodel."
     }
   ],
@@ -22,7 +24,7 @@
     {
       "n": "Chuck E. Cheese 16m (Animatronic)",
       "s": "2014-10-00",
-      "e": "2023-00-00",
+      "e": "2023-02-27",
       "desc": "Unknown/Destroyed. Came from the Kelso WA (351 Three Rivers Dr) location. Had Cool Chuck outfit until 2022"
     }
   ],
@@ -32,9 +34,8 @@
   ],
   "title": "Tucson, AZ (6125 E Speedway Blvd)",
   "storeNumber": "",
-  "startDate": "1995-04-00",
+  "startDate": "2014-10-00",
   "endDate": "",
-  
   "sqft": "",
   "latitudeLongitude": [
     "32.23518977",
