@@ -19,13 +19,19 @@
       "desc": "Animatronic removed during the 2.0 remodel."
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "Melvin Entertainment",
+      "s": "2014-10-00",
+      "e": "2021-11-00"
+    }
+  ],
   "animatronics": [
     {
       "n": "Chuck E. Cheese 16m (Animatronic)",
       "s": "2014-10-00",
       "e": "2023-02-27",
-      "desc": "Unknown/Destroyed. Came from the Kelso WA (351 Three Rivers Dr) location. Had Cool Chuck outfit until 2022"
+      "desc": "Destroyed. Leg shells saved by private collector. Came from the Kelso WA (351 Three Rivers Dr) location. Had Cool Chuck outfit until 2022."
     }
   ],
   "attractions": [],
