@@ -1,0 +1,76 @@
+{
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "startDate": "1995-04-00",
+  "endDate": "2014-10-00",
+  "storeNumber": "#3197",
+  "sqft": "12,441",
+  "latitudeLongitude": [
+    "32.235274",
+    "-110.8638255"
+  ],
+  "pageThumbnailFile": "W7GBo1y8AbhvOyVCi86L.avif",
+  "stages": [
+    {
+      "n": "Turntable 1-Stage",
+      "s": "1995-04-00",
+      "e": "2014-10-00"
+    }
+  ],
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1995-04-00",
+      "e": ""
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "",
+      "e": "2014-10-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Melvin Entertainment",
+      "s": "1995-04-00",
+      "e": "2014-10-00"
+    }
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese (Cyberamic)",
+      "s": "1995-04-00",
+      "e": "2014-10-00",
+      "l": ""
+    },
+    {
+      "n": "Guest Star Helen Henny (Cyberamic)",
+      "s": "1995-04-00",
+      "e": "2014-10-00",
+      "l": ""
+    },
+    {
+      "n": "Mr Munch (Cyberamic)",
+      "s": "1995-04-00",
+      "e": "2014-10-00",
+      "l": ""
+    },
+    {
+      "n": "Jasper T Jowls (Cyberamic)",
+      "s": "1995-04-00",
+      "e": "2014-10-00",
+      "l": ""
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1995-04-00",
+      "e": "2014-10-00",
+      "l": ""
+    }
+  ],
+  "contributors": [
+    "KawaiiZenbo"
+  ]
+}
