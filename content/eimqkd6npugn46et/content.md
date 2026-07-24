@@ -63,7 +63,3 @@
 * After two years, a CEC TV Bumper (singing animals bumper) was once again put into the show after 'Escapade'. It depicts three animals singing 'Ba ba dum, C, E, C, TV' with a newly edited CEC TV logo in the corner featuring Rockstar Chuck's head.
 * Pasqually's puppet was redesigned, and the Munch puppet received updates.
 * During the run of this show, CEC uploaded footage of the animatronics at their corporate office singing the songs.
-
-# Free Download:
-
-https://archive.org/download/show-5-2016-stcdvd/Show%205%202016%20-%20STCDVD.iso
