@@ -1,0 +1,1 @@
+Close up of Rudy and The Foot Tapping Rabbit from the Jingle Bell Jamboree during the 2006 removal.With Elfen John in the background and the exit door open
