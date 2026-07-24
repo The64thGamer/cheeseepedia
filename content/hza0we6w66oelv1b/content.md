@@ -1,1 +1,1 @@
-Center Stage 1977
+The Jingle Bell Jamboree Center Stage before Elfis's appearance and a bit of stage left with Santa in 1977
