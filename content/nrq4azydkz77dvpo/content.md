@@ -1,0 +1,1 @@
+Elfen John and his 2003 park piano from the Jingle Bell Jamboree during the 2006 removal
