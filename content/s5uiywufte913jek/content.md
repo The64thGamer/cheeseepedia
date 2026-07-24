@@ -1,0 +1,1 @@
+Full Body Close up photo of Maynard,with Satchemo in the background,from The Jingle Bell Jamboree during the 2006 removal 
