@@ -1,0 +1,1 @@
+Full body phot of Satchemo from the Jingle Bell Jamboree during the 2006 removal
