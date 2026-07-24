@@ -1,0 +1,1 @@
+Elfis with his park mask with Elfen John behind him,from the Jingle Bell Jamboree during the 2006 removal
