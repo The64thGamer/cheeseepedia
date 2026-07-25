@@ -1,0 +1,1 @@
+Close up of Elfis's bottom half and park skateboard from the Jingle Bell Jamboree during the 2006 removal
