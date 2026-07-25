@@ -1,1 +1,1 @@
-Show during removal in 2006
+Center stage from the Jingle Bell Jamboree before Elfis's appearance during the 2006 removal
