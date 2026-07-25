@@ -1,1 +1,1 @@
-Promotional Photo 1977
+Black and White Promotional Photo of the full Jingle Bell Jamboree stage from 1977
