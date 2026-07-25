@@ -1,0 +1,1 @@
+Full body close up of Elfen John and his original piano keys from the Jingle Bell Jamboree during the 2006 removal
