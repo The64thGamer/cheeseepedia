@@ -1,0 +1,1 @@
+Close up of Santa's bottom half and the Tail Wagging Dog from the Jingle Bell Jamboree during the 2006 removal 
