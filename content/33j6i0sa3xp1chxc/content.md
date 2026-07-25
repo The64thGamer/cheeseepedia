@@ -1,0 +1,1 @@
+Photo Of stage right and the side of center stage showing Maynard,Satchemo,Santa and the dog

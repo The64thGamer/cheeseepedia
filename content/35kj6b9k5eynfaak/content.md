@@ -1,0 +1,1 @@
+Jingle Bell Jamboree center stage during the 2006 removal showing Elfis,Satchemo,Elfen John,Maynard's bass and hand and the Head Bobbing Cat
