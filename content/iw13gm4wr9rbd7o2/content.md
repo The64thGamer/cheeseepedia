@@ -1,0 +1,1 @@
+Close up of Maynard from the Jingle Bell Jamboree during the 2006 removal
