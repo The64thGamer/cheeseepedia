@@ -1,0 +1,1 @@
+Close up of The Foot Tapping Rabbit and Rudy's lower half from the Jingle Bell Jamboree during the 2006 removal
