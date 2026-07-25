@@ -1,0 +1,1 @@
+Close up of Elfen John from the Jingle Bell Jamboree during the 2006 removal
