@@ -1,0 +1,1 @@
+Full body close up of Santa Claus and the Tail Wagging Dog from the Jingle Bell Jamboree during the 2006 removal
