@@ -1,1 +1,1 @@
-Fingers Dan (CEI, 1978)
+The Fingers Dan built for the Americana Amusement Park at Creative Engineering in late 1977 before getting shipped out.Missing his hat.He's at his piano with the bear prop headless on top
