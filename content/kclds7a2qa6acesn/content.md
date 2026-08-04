@@ -1,1 +1,1 @@
-Friendly Freddy in the Opera House Window
+Friendly Freddy animatronic in the Opera House Window
