@@ -1,1 +1,1 @@
-Pierre Le Bear Billboard (1978)
+The Billboard for the Bear Country Jubilee at Morey's Pier featuring art of Pierre Le Bear (1978)
