@@ -1,1 +1,1 @@
-Pierre / Pete & Waldo / Repeat (1984)
+Pierre and Waldo from the Bear Country Jubilee on stage at Morey's Pier in 1984.By this point the 2 characters had taken on the roles of Pete And Repete Thornsberry from the Hard Luck Bears,which is the reason why Waldo is holding a chicken
