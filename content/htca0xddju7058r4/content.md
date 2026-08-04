@@ -1,1 +1,1 @@
-BCJ Theater Abandoned (2018)
+BCJ Theater at Americana in 2018 abandoned. It had been severely vandalized by this point
