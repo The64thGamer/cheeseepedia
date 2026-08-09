@@ -22,7 +22,11 @@
     "https://youtube.com/watch?v=M3JwDrkLGhk",
     "https://www.instagram.com/p/Dby5cviR0gJ",
     "https://www.linkedin.com/feed/update/urn:li:activity:7491961970171015168",
-    "https://www.americandream.com/five-nights-at-freddys-sign-in"
+    "https://www.americandream.com/five-nights-at-freddys-sign-in",
+    "https://deadline.com/2026/08/five-nights-at-freddys-immersive-freddy-fazbears-pizza-nj-1237029600/",
+    "https://www.instagram.com/fnafpoint/p/Dbxx5egDEbd/",
+    "https://x.com/daregularsauce/status/2086505178270675072",
+    "https://x.com/daregularsauce/status/2086507988173324764"
   ],
   "contributors": [
     "sudo trans --pony"
@@ -37,6 +41,10 @@
     {
       "role": "Collaborator",
       "n": "Scott Cawthon"
+    },
+    {
+      "role": "Creative Lead",
+      "n": "Atreyu Alcantar (@daregularsauce)"
     },
     {
       "role": "Lead 2D Artist",
