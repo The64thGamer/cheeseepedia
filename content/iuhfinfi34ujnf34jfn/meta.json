@@ -19,7 +19,10 @@
     "https://x.com/FNAF_ScottGames/status/2086173138401034577",
     "https://x.com/americandream/status/2086149260790157333",
     "https://www.facebook.com/americandreamofficial/posts/pfbid02eEF4twTwrnwbQdY9xyt3MfNX2amfKqtgRuF5XZESs9geAuFWnqKVux8UHqoxSkWLl?rdid=MVmcOT1TEBRpAh9M&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fp%2F18LhdFVeeA%2F",
-    "https://youtube.com/watch?v=M3JwDrkLGhk"
+    "https://youtube.com/watch?v=M3JwDrkLGhk",
+    "https://www.instagram.com/p/Dby5cviR0gJ",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7491961970171015168",
+    "https://www.americandream.com/five-nights-at-freddys-sign-in"
   ],
   "contributors": [
     "sudo trans --pony"
@@ -34,6 +37,10 @@
     {
       "role": "Collaborator",
       "n": "Scott Cawthon"
+    },
+    {
+      "role": "Lead 2D Artist",
+      "n": "Derek Bolz"
     }
   ]
 }
