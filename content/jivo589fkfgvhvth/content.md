@@ -1,1 +1,1 @@
-Buddy Crash (CEI, 1978)
+The Buddy Crash built for the Americana Amusement Park with his unfinished drums at Creative Engineering in late 1977 before getting shipped out
