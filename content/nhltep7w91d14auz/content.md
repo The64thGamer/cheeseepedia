@@ -1,1 +1,1 @@
-Chet Faddikins (CEI, 1978)
+The Chet Faddikins built for the Americana Amusement Park at Creative Engineering in late 1977 before getting shipped out

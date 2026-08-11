@@ -1,1 +1,1 @@
-Pierre Le Bear & Waldo (CEI, 1978)
+The Pierre Le Bear & Waldo built for the Americana Amusement Park at Creative Engineering in late 1977 before getting shipped out

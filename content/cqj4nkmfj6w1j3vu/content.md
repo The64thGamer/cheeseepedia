@@ -1,1 +1,1 @@
-Aerial View of Morey's Pier (Opera House located on the right end of the slides)
+Aerial View of Morey's Pier from either 1978 or 79 (Opera House located on the right end of the slides)
