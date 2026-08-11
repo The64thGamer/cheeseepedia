@@ -1,1 +1,1 @@
-Boom Boom Bosco (CEI, 1978)
+The Boom Boom Bosco built for the Americana Amusement Park at Creative Engineering in late 1977 before getting shipped out
