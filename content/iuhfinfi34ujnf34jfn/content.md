@@ -8,6 +8,8 @@ The location is above *Angry Birds Golf* on the second floor, across from *Yoyos
 
 On October 1st, 2020, the American Dream mall would open it's retail shops area, with the lot for the future Freddy Fazbear's Pizza being unused for 6 years- being covered up with advertising for adjacent shops or other brands.[15]
 
+The earlist noted development of the location is of Atreyu Alcantar's hiring by American Dream in January of 2026.[17]
+
 On August 8th, 2026, the twelfth anniversary of [Five Nights at Freddy's], the FNAF-ScottGames X account would post a teaser image at 9:00AM that would hide multiple clues to the announcement of the location. This would include a map of the American Dream mall lot with a empty section marked 'Coming Soon', a circled 'NJ', and a portion of the American Dream logo.[1][2] American Dream would comment with eye emojis on an unrelated[11] 12 years of FNaF post, alongside following and unfollowing the FNaF-Scottgames Instagram account.[6]
 
 Three hours later the American Dream account would post a video confirming the teaser, showing off the location's logo, and using the taglines 'Freddy's Comes to Life' and 'Fantasy and Fun Come to Life'.[3][4] Three more hours later a Facebook post by American Dream would clarify the location was a permanent establishment, being a 'immersive restaurant experience' in collaboration with ScottGames. The location would be confirmed to have arcade games, animatronic stages of the main cast alongside Foxy's Pirate Cove, and a 'step behind the curtain' with multiplayer survival-horror experiences. Official opening dates and ticketing information would be set to announce at a later date. [5]
