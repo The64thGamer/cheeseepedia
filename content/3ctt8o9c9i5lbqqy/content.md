@@ -1,5 +1,5 @@
-***Rock-afire Replay* was the first digital animatronics simulator to ever release, being centered around the Rock-afire Explosion and a small bit of Pizza Time Theatre content as unofficial software, lasting from August 24, 2020 to January 5th, 2021, where the game was deleted due to various pressures from Creative Engineering.
-The game became the basis for many future mods that continued the project, such as the officially authorized by Creative Engineering mod Retromation, alongside continuations by the original creator as Faz-Anim and Reel to Real. The game would lead to two separately developed simulator projects currently in the works by Creative Engineering.**
+***Rock-afire Replay*** was the first digital animatronics simulator to ever release, being centered around the Rock-afire Explosion and a small bit of Pizza Time Theatre content as unofficial software, lasting from August 24, 2020 to January 5th, 2021, where the game was deleted due to various pressures from Creative Engineering.
+The game became the basis for many future mods that continued the project, such as the officially authorized by Creative Engineering mod Retromation, alongside continuations by the original creator as Faz-Anim and Reel to Real. The game would lead to two separately developed simulator projects currently in the works by Creative Engineering.
 
 ## History
 
@@ -25,7 +25,7 @@ sudo trans --pony would reply stating the game as simply a passion project, and 
 
 > "I'll be very disappointed if we can't take this opportunity not only to have 64th's talent on our team, but also to unite behind this goal. It's true that in my vision, 64th doesn't control this project, but he was never entitled to that. His vision and talent is greatly respected by me. But his vision doesn't go as far as Ryan and I are promising the fans with absolute accurate simulation of the real world effects on these moving parts, and the tools to program these characters that will become the actual tools that I myself will use to program my own show." "...Without financial success, a demo like 64th has given us cannot survive and develop further."[2]
 
-There was also some potential worry that since Aaron did not know who 64th was, that he was part of one of the few harassment groups within the fandom. 64th would contact Aaron about a collaboration, but would cease communication after Aaron required 64th's full legal name to proceed talks.[2]
+There was also some potential worry that since Aaron did not know who Sudo was, that he was part of one of the few harassment groups within the fandom. Sudo would contact Aaron about a collaboration, but would cease communication after Aaron required Sudo's full legal name to proceed talks.[2]
 
 ### Development Continues
 
@@ -38,8 +38,8 @@ Over the coming days and weeks from the launch of the Kickstarter, Aaron would b
 > "...You should see the s*** I took down last night. Without me fighting for the Rock-afire, it would be destroyed quickly. If you guys want to program simulated animatronic characters to do and say whatever you want, why don't you make up your own characters? Why do you have to destroy my life's work?"
 > "...I asked the creator of Replay to talk to me about these concerns. But he has not contacted me. Meanwhile, I have asked that people who publish Rock-afire content ask me to approve it. Letting every 13 year old with no filter and an enjoyment of watching the characters cuss is not the future of The Rock-afire. I have never had a problem with fan art, but these videos crossed the line into a "content" category that will lead to the ruin of the Rock-afire if not controlled."[2]
 
-By the middle of November, Aaron had become furious with the community's shows, regardless of their profanity, as he felt it was encroaching on his copyrights, which was intensified by Aaron's various court hearings that month. He would put out a bounty for $100 in Rock-afire merch for anyone who could find 64ths full name and address so he could be served a lawsuit.[4]
-On the 15th of November, Aaron would take down multiple fan-shows featuring profanity from "JWS0127 3", which inadvertently caused the entire channel to be terminated. Both of these events caused immediate disdain in the community, and caused 64th to remove downloads for Replay out of the fear of being sued.[4]
+By the middle of November, Aaron had become furious with the community's shows, regardless of their profanity, as he felt it was encroaching on his copyrights, which was intensified by Aaron's various court hearings that month. He would put out a bounty for $100 in Rock-afire merch for anyone who could find Sudo's full name and address so he could be served a lawsuit.[4]
+On the 15th of November, Aaron would take down multiple fan-shows featuring profanity from "JWS0127 3", which inadvertently caused the entire channel to be terminated. Both of these events caused immediate disdain in the community, and caused Sudo to remove downloads for Replay out of the fear of being sued.[4]
 
 ### CEI's Change of Mind
 
@@ -76,7 +76,7 @@ On the 15th, Aaron would make one final call for the game to be developed with C
 
 > "Let's bury the hatchet and work on a project together. I am going to be selling my building in the near future. That means the tours I give will come to an end. It also means I'll have the financial means to support a big project. Let's create a virtual tour of The Jefferson Building while it's still there, where all the shows and pieces actually work. I am open to creating programmable versions of all the shows as well as long as we have a system for preventing vulgar uplaods. Imagine having access to all the mechanical drawings of the Hard Luck Bears, the rock-afire and everything else. We just have to work together for this to have a future."
 
-64th would not respond to the message, choosing to continue developing the game privately. Fan-shows would continue to be worked on for the coming years on the final version of the software. Aaron would also make a single "Programming Lesson" video in October which featured helping someone program a fan-show.[7]
+Sudo would not respond to the message, choosing to continue developing the game privately. Fan-shows would continue to be worked on for the coming years on the final version of the software. Aaron would also make a single "Programming Lesson" video in October which featured helping someone program a fan-show.[7]
 
 ### Private Development
 
