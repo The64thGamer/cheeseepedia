@@ -1,0 +1,1 @@
+Close up of the Prototype Mijjin's face in march of 1991

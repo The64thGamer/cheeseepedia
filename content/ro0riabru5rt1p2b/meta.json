@@ -1,11 +1,23 @@
 {
-  "title": "Elf #3 (Animatronic)",
+  "title": "Elfen John (Animatronic)",
   "type": "Animatronics",
   "tags": [
-    "Creative Engineering"
+    "Creative Engineering",
+    "Elfen John (Animatronic)",
+    "Animatronics",
+    "Animatronic",
+    "Elfen John",
+    "Jingle Bell Jamboree"
   ],
   "pageThumbnailFile": "",
-  "startDate": "",
-  "endDate": "0000-00-00",
-  "contributors": []
+  "startDate": "1977-00-00",
+  "endDate": "2006-00-00",
+  "contributors": [],
+  "citations": [
+    "https://www.showbizpizza.com/info/promo/cei/cei_1977promo.pdf",
+    "https://www.youtube.com/watch?v=P_xrIayIsV8",
+    "https://www.youtube.com/watch?v=gXRLC910FQA",
+    "https://www.showbizpizza.com/events/12daysofdata/index.html",
+    "https://www.instagram.com/p/CEgu7b2HDWb"
+  ]
 }
