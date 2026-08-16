@@ -10,6 +10,7 @@ const TOAST_CSS = 'https://uicdn.toast.com/editor/latest/toastui-editor.min.css'
 const TOAST_JS  = 'https://uicdn.toast.com/editor/latest/toastui-editor-all.min.js';
 const JSZIP_JS  = 'https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js';
 const SUGGESTIONS_URL = '/viewers/cep-js/compiled-json/Suggestions.json';
+const SUBMIT_URL = '/submit';
 
 const META_MAP = {
   title:              { type: 'line',     el: 'MetaTitle' },
@@ -186,6 +187,7 @@ export async function loadFolder(folder) {
     }
   }
 
+  document.getElementById('ButtonSubmit').onclick = submitZip;
   document.getElementById('ButtonEdit').onclick = showEdit;
   document.getElementById('ButtonEditRaw').onclick = showEditRaw;
   document.getElementById('ZipDownload').onclick = downloadAllAsZip;
@@ -561,6 +563,39 @@ async function downloadAllAsZip() {
   a.download = `${currentFolder}.zip`;
   a.click();
   URL.revokeObjectURL(a.href);
+}
+
+async function submitZip() {
+  const key = localStorage.getItem('discourse_user_api_key');
+  const clientId = localStorage.getItem('discourse_client_id');
+  const msg = document.getElementById('SubmitStatus');
+  if (!key || !clientId) { msg.textContent = 'Log in first.'; return; }
+
+  await loadJSZip();
+  const zip = new JSZip();
+  for (const [file, content] of Object.entries(scratch)) zip.file(file, content);
+  const blob = await zip.generateAsync({ type: 'blob' });
+
+  if (blob.size > 25 * 1024 * 1024) { msg.textContent = 'Zip too large (max 25MB).'; return; }
+
+  if (!currentFolder) {
+    currentFolder = Array.from(crypto.getRandomValues(new Uint8Array(16)))
+      .map(b => 'abcdefghijklmnopqrstuvwxyz0123456789'[b % 36]).join('');
+  }
+
+  msg.textContent = 'Submitting...';
+  const res = await fetch(SUBMIT_URL, {
+    method: 'POST',
+    headers: {
+      'X-Api-Key': key,
+      'X-Client-Id': clientId,
+      'X-Article-Id': currentFolder,
+      'Content-Type': 'application/zip',
+    },
+    body: blob,
+  });
+
+  msg.textContent = res.ok ? 'Submitted for review.' : `Submit failed: ${(await res.json().catch(() => ({}))).error || res.status}`;
 }
 
 function reuploadZip() {
