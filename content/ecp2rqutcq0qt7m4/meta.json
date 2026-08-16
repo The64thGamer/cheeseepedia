@@ -4,16 +4,19 @@
   "tags": [
     "Sally Corporation"
   ],
-  "startDate": "",
-  "endDate": "",
+  "startDate": "1983-00-00",
+  "endDate": "1987-00-00",
   "contributors": [
     "sudo trans --pony",
-    "BigCDataFinder "
+    "BigCDataFinder ",
+    "sudo-trans-pony"
   ],
   "citations": [
     "https://nydailynews.newspapers.com/image/487947112/?terms=Sally%20Piano&match=1",
     "https://www.youtube.com/watch?v=54vKJlAx3yY",
-    "https://www.worthpoint.com/worthopedia/animatronic-sally-at-the-piano-life-size"
+    "https://www.worthpoint.com/worthopedia/animatronic-sally-at-the-piano-life-size",
+    "https://www.newspapers.com/newspage/461553609/?terms=%22Sally%20Industries%22%20Piano&match=4https://archive.org/details/sally-the-singing-robot-plays-a-holiday-inn-lounge-in-dallas-1983.-tech-jazz-rob",
+    "https://nydailynews.newspapers.com/image/487943410/?terms=Sally%20Piano&match=2"
   ],
   "pageThumbnailFile": "6wdhfAESZdY2ob8eZ9_i.avif"
 }

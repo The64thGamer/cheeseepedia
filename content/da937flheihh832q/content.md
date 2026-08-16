@@ -1,4 +1,4 @@
-The **Studio C** concept is a stage concept found at Chuck E. Cheese's locations that opened from 1997-2012, or replaced a previous stage. Starting with the Studio C (1997), which was installed from 1997-2002 2012 & 2015, then Studio C Beta,which was installed from 2000-2012,then the Small-Town Studio C, which was installed from 2003-2006.
+The ***Studio C*** concept is a stage concept found at Chuck E. Cheese's locations that opened from 1997-2012, or replaced a previous stage. Starting with the Studio C (1997), which was installed from 1997-2002 2012 & 2015, then Studio C Beta,which was installed from 2000-2012,then the Small-Town Studio C, which was installed from 2003-2006.
 
 ## History
 
