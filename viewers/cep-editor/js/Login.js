@@ -112,7 +112,7 @@ function handleReturn(payloadParam) {
 function checkSession() {
   const key = localStorage.getItem("discourse_user_api_key");
   if (!key) {
-    showLoggedOut();
+    startLogin();
     return;
   }
 
