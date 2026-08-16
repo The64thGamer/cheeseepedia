@@ -10,6 +10,7 @@ const TOAST_CSS = 'https://uicdn.toast.com/editor/latest/toastui-editor.min.css'
 const TOAST_JS  = 'https://uicdn.toast.com/editor/latest/toastui-editor-all.min.js';
 const JSZIP_JS  = 'https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js';
 const SUGGESTIONS_URL = '/viewers/cep-js/compiled-json/Suggestions.json';
+const RELATED_URL = '/viewers/cep-js/compiled-json/related.json';
 const SUBMIT_URL = '/submit';
 const LOGIN_URL = '/viewers/cep-editor/Login.html';
 
@@ -84,6 +85,8 @@ let firstValidFile = null;
 let metaData = {};
 let SUGGESTIONS = {};
 let suggestionsLoaded = false;
+let RELATED = [];
+let relatedLoaded = false;
 
 async function loadSuggestions() {
   if (suggestionsLoaded) return;
@@ -94,6 +97,19 @@ async function loadSuggestions() {
     suggestionsLoaded = true;
   } catch (err) {
     console.warn('Failed to load suggestions:', err);
+  }
+}
+
+async function loadRelated() {
+  if (relatedLoaded) return;
+  try {
+    const res = await fetch(RELATED_URL);
+    if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+    const data = await res.json();
+    RELATED = Object.values(data).flatMap(v => Array.isArray(v?.photos) ? v.photos : []);
+    relatedLoaded = true;
+  } catch (err) {
+    console.warn('Failed to load related.json:', err);
   }
 }
 
@@ -131,6 +147,7 @@ async function loadJSZip() {
 async function showEdit() {
   document.getElementById('EditBlock').style.display = '';
   document.getElementById('EditRawBlock').style.display = 'none';
+  document.getElementById('HelpBlock').style.display = 'none';
 
   initMetaFields();
 
@@ -170,37 +187,83 @@ window.addEventListener('storage', e => {
 function showEditRaw() {
   document.getElementById('EditBlock').style.display = 'none';
   document.getElementById('EditRawBlock').style.display = '';
+  document.getElementById('HelpBlock').style.display = 'none';
   if (firstValidFile) showRaw(firstValidFile, FILE_MAP[firstValidFile]);
 }
 
-export async function loadFolder(folder) {
+function showHelp() {
+  document.getElementById('EditBlock').style.display = 'none';
+  document.getElementById('EditRawBlock').style.display = 'none';
+  document.getElementById('HelpBlock').style.display = '';
+}
+
+function blankMetaData() {
+  const data = {};
+  for (const [key, cfg] of Object.entries(META_MAP)) {
+    if (cfg.type === 'list' || cfg.type === 'objectList') data[key] = [];
+    else if (cfg.type === 'date') data[key] = '0000-00-00';
+    else if (cfg.type === 'dropdown') {
+      const el = document.getElementById(cfg.el);
+      data[key] = el?.options[0]?.value || '';
+    } else data[key] = '';
+  }
+  return data;
+}
+
+export async function loadFolder(articleId) {
+  const isNew = !(await pageExists(articleId));
+  const folder = isNew ? randomId() : articleId;
+
+  if (isNew) {
+    const params = new URLSearchParams(location.search);
+    params.delete('=');
+    params.set('', folder);
+    history.replaceState(null, '', `${location.pathname}?${params.toString()}`);
+  }
+
   currentFolder = folder;
   scratch = {};
   firstValidFile = null;
 
   await loadSuggestions();
 
+  if (isNew) {
+    scratch['content.md'] = '';
+    scratch['meta.json'] = JSON.stringify(blankMetaData(), null, 2);
+    firstValidFile = 'content.md';
+  }
+
   for (const [file, cfg] of Object.entries(FILE_MAP)) {
     const btn = document.getElementById(`Button${cfg.name}`);
-    document.getElementById(`Raw${cfg.name}`).style.display = 'none';
-    btn.onclick = () => showRaw(file, cfg);
+    const rawDiv = document.getElementById(`Raw${cfg.name}`);
+    if (rawDiv) rawDiv.style.display = 'none';
+    if (btn) btn.onclick = () => showRaw(file, cfg);
+
+    if (isNew) {
+      const isKept = file === 'content.md' || file === 'meta.json';
+      if (btn) btn.style.display = isKept ? '' : 'none';
+      if (isKept) {
+        const fileEl = document.getElementById(`File${cfg.name}`);
+        if (fileEl) fileEl.addEventListener('input', e => { scratch[file] = e.target.value; });
+      }
+      continue;
+    }
 
     const url = `/content/${folder}/${file}`;
     const head = await fetch(url, { method: 'HEAD' });
 
     if (!head.ok) {
-      btn.style.display = 'none';
+      if (btn) btn.style.display = 'none';
       continue;
     }
 
-    btn.style.display = '';
+    if (btn) btn.style.display = '';
     if (!firstValidFile) firstValidFile = file;
 
     if (cfg.type === 'text') {
       scratch[file] = await (await fetch(url)).text();
-      document.getElementById(`File${cfg.name}`).addEventListener('input', e => {
-        scratch[file] = e.target.value;
-      });
+      const fileEl = document.getElementById(`File${cfg.name}`);
+      if (fileEl) fileEl.addEventListener('input', e => { scratch[file] = e.target.value; });
     } else {
       scratch[file] = await (await fetch(url)).blob();
     }
@@ -210,6 +273,7 @@ export async function loadFolder(folder) {
   document.getElementById('ButtonSubmit').onclick = submitZip;
   document.getElementById('ButtonEdit').onclick = showEdit;
   document.getElementById('ButtonEditRaw').onclick = showEditRaw;
+  document.getElementById('ButtonHelp').onclick = showHelp;
   document.getElementById('ZipDownload').onclick = downloadAllAsZip;
   document.getElementById('ButtonAddPhoto').onclick = replacePhoto;
   document.getElementById('ButtonReplacePhoto').onclick = replacePhoto;
@@ -248,12 +312,57 @@ function applyBreak(el) {
   el.insertAdjacentElement('afterend', brk);
 }
 
+function applyTypeVisibility() {
+  const type = (document.getElementById('MetaType').value || '').toLowerCase();
+  document.querySelectorAll('#EditBlock [data-types]').forEach(el => {
+    const list = el.dataset.types.split(',').map(t => t.trim().toLowerCase());
+    el.style.display = list.includes(type) ? '' : 'none';
+  });
+}
+
+async function updateThumbnailPreview() {
+  const img = document.getElementById('MetaThumbnailPreview');
+  const input = document.getElementById('MetaThumbnail');
+  if (!img || !input) return;
+
+  const name = input.value.trim();
+  if (!name) { img.style.display = 'none'; img.src = ''; return; }
+
+  await loadRelated();
+  const match = RELATED.find(r => r.t === name);
+  if (!match) { img.style.display = 'none'; img.src = ''; return; }
+
+  const url = `/content/${match.p}/photo.avif`;
+  try {
+    const head = await fetch(url, { method: 'HEAD' });
+    if (head.ok) { img.src = url; img.style.display = ''; }
+    else { img.style.display = 'none'; img.src = ''; }
+  } catch {
+    img.style.display = 'none';
+    img.src = '';
+  }
+}
+
 function initMetaFields() {
   loadMetaData();
   for (const [key, cfg] of Object.entries(META_MAP)) {
     RENDERERS[cfg.type](key, cfg);
     if (cfg.break) applyBreak(document.getElementById(cfg.el));
   }
+
+  applyTypeVisibility();
+  const typeEl = document.getElementById('MetaType');
+  if (typeEl && !typeEl.dataset.visBound) {
+    typeEl.dataset.visBound = '1';
+    typeEl.addEventListener('change', applyTypeVisibility);
+  }
+
+  const thumbEl = document.getElementById('MetaThumbnail');
+  if (thumbEl && !thumbEl.dataset.previewBound) {
+    thumbEl.dataset.previewBound = '1';
+    thumbEl.addEventListener('input', updateThumbnailPreview);
+  }
+  updateThumbnailPreview();
 }
 
 function attachSuggestions(input, list) {
@@ -599,8 +708,7 @@ async function submitZip() {
   if (blob.size > 25 * 1024 * 1024) { msg.textContent = 'Zip too large (max 25MB).'; return; }
 
   if (!currentFolder) {
-    currentFolder = Array.from(crypto.getRandomValues(new Uint8Array(16)))
-      .map(b => 'abcdefghijklmnopqrstuvwxyz0123456789'[b % 36]).join('');
+    currentFolder = randomId();
   }
 
   msg.textContent = 'Submitting...';
@@ -645,4 +753,19 @@ function reuploadZip() {
   };
 
   input.click();
+}
+
+function randomId(len = 16) {
+  return Array.from(crypto.getRandomValues(new Uint8Array(len)))
+    .map(b => 'abcdefghijklmnopqrstuvwxyz0123456789'[b % 36]).join('');
+}
+
+async function pageExists(folder) {
+  if (!folder) return false;
+  try {
+    const res = await fetch(`/content/${folder}/meta.json`, { method: 'HEAD' });
+    return res.ok;
+  } catch {
+    return false;
+  }
 }

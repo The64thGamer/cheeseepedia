@@ -1,4 +1,4 @@
-Phase 1 is the first major upgrade for ShowBiz Pizza Time locations that includes a new game package, Kid Check, enhanced prize and merchandise offerings, '[Skytubes]', and improved product presentation and service.
+***Phase 1*** is the first major upgrade for ShowBiz Pizza Time locations that includes a new game package, Kid Check, enhanced prize and merchandise offerings, [Skytubes], and improved product presentation and service.
 In an informational sheet from a 1998 Storybook Crystal Corporate Gift Set, the document refers to 1994 as the 'Thumb Chuck' era of the company, describing the various attractions and a 'new logo, new exterior package, and total renovation of the interior.' [1]
 Correspondence between SPT and its construction partners suggest the name 'Operation Thumb Chuck' while merchandise provided to managers and renovation team members is also suggestive of the same.
 
@@ -18,16 +18,16 @@ The Sky Crawl is an early concept of the [Skytubes], which were colorful tubes t
 
 ### Games Package [2]
 
-- [After Shock](https://www.highwaygames.com/arcade-machines/aftershock-and-the-7119/)
-- Chuck E. Cheese's Photo Ride (1993)
-- [Dino Rally](https://www.arcade-museum.com/game_detail.php?game_id=19728)
-- Fling Shot
-- [Hightops](https://www.highwaygames.com/arcade-machines/hightops-6236/)
-- [Hungry Hungry Hippos](https://www.highwaygames.com/arcade-machines/hungry-hungry-hippos-6241/)
-- [Jurassic Park](https://www.arcade-museum.com/game_detail.php?game_id=8262)
-- [Ridge Racer](https://www.arcade-museum.com/game_detail.php?game_id=9312)
-- [Rock N' Bowl](https://www.arcade-museum.com/game_detail.php?game_id=18215)
-- [Robo-Bop](https://www.highwaygames.com/arcade-machines/robo-bop-6093/)
-- Sidewinder
-- [Super Shot](https://www.highwaygames.com/arcade-machines/super-shot-basketball-arcade-machine-16502/)
-- Wheel M' In
+* [After Shock](https://www.highwaygames.com/arcade-machines/aftershock-and-the-7119/)
+* Chuck E. Cheese's Photo Ride (1993)
+* [Dino Rally](https://www.arcade-museum.com/game_detail.php?game_id=19728)
+* Fling Shot
+* [Hightops](https://www.highwaygames.com/arcade-machines/hightops-6236/)
+* [Hungry Hungry Hippos](https://www.highwaygames.com/arcade-machines/hungry-hungry-hippos-6241/)
+* [Jurassic Park](https://www.arcade-museum.com/game_detail.php?game_id=8262)
+* [Ridge Racer](https://www.arcade-museum.com/game_detail.php?game_id=9312)
+* [Rock N' Bowl](https://www.arcade-museum.com/game_detail.php?game_id=18215)
+* [Robo-Bop](https://www.highwaygames.com/arcade-machines/robo-bop-6093/)
+* Sidewinder
+* [Super Shot](https://www.highwaygames.com/arcade-machines/super-shot-basketball-arcade-machine-16502/)
+* Wheel M' In

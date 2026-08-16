@@ -4,161 +4,219 @@
     <link rel="stylesheet" href="/viewers/cep-editor/main.css">
 </head>
 <div class="Header">
-<h1>Editing Page</h1>
+    <h1>Editing Page</h1>
     <div class="EditTabs">
+        <button
+            onclick="let currentUrl = window.location.href;let newUrl = currentUrl.replace('cep-editor', 'cep-js');window.location.href = newUrl;">Go
+            Back</button>
         <button id="ButtonEdit">Edit</button>
         <button id="ButtonEditRaw">Edit Raw</button>
+        <button id="ButtonHelp">Help</button>
     </div>
 </div>
 <div class="Body">
-    
-  <div id="EditBlock">
-    <div class="ParamLabel">Title:</div>
-    Ensure this title is accurate as this will update all links to this article with the new name.
-    <input id="MetaTitle" type="text" class="Meta">
-    <br><br>
-    <div class="ParamLabel">Type:</div>
-    Changes how the article is displayed on the site, alongside being a category to sort.
-    <br>
-    <select id="MetaType" class="Meta">
-        <option value="Animatronics">Animatronics</option>
-        <option value="Animatronic Shows">Animatronic Shows</option>
-        <option value="Animatronic Parts">Animatronic Parts</option>
-        <option value="Animatronic Preservation">Animatronic Preservation</option>
-        <option value="Stage Variations">Stage Variations</option>
-        <option value="Costumed Characters">Costumed Characters</option>
-        <option value="Characters">Characters</option>
-        <option value="Locations">Locations</option>
-        <option value="Cancelled Locations">Cancelled Locations</option>
-        <option value="Showtapes">Showtapes</option>
-        <option value="Showtape Formats">Showtape Formats</option>
-        <option value="ShowBiz Pizza Programs">ShowBiz Pizza Programs</option>
-        <option value="Family Vision">Family Vision</option>
-        <option value="Live Shows">Live Shows</option>
-        <option value="Puppets">Puppets</option>
-        <option value="Commercials">Commercials</option>
-        <option value="News Footage">News Footage</option>
-        <option value="Company Media">Company Media</option>
-        <option value="Movies">Movies</option>
-        <option value="Transcriptions">Transcriptions</option>
-        <option value="Video Games">Video Games</option>
-        <option value="Menu Items">Menu Items</option>
-        <option value="Tickets">Tickets</option>
-        <option value="Tokens">Tokens</option>
-        <option value="Documents">Documents</option>
-        <option value="Corporate Documents">Corporate Documents</option>
-        <option value="Promotional Material">Promotional Material</option>
-        <option value="Events">Events</option>
-        <option value="Remodels and Initiatives">Remodels and Initiatives</option>
-        <option value="Retrofits">Retrofits</option>
-        <option value="History">History</option>
-        <option value="Arcades and Attractions">Arcades and Attractions</option>
-        <option value="Companies/Brands">Companies/Brands</option>
-        <option value="Animatronic Control Systems">Animatronic Control Systems</option>
-        <option value="Other Systems">Other Systems</option>
-        <option value="Programming Systems">Programming Systems</option>
-        <option value="Simulators">Simulators</option>
-        <option value="Social Media and Websites">Social Media and Websites</option>
-        <option value="Ad Vehicles">Ad Vehicles</option>
-        <option value="In-Store Merchandise">In-Store Merchandise</option>
-        <option value="Products">Products</option>
-        <option value="Employee Wear">Employee Wear</option>
-        <option value="Meta">Meta</option>
-        <option value="Store Fixtures">Store Fixtures</option>
-        <option value="Photos">Photos</option>
-        <option value="Videos">Videos</option>
-        <option value="Reviews">Reviews</option>
-        <option value="User">User</option>
-    </select>
-    <br><br>
-    <div class="ParamLabel">Tags:</div>
-    Articles generate tags based on parameters and linked articles. Here you can force tags onto the page, such as "Chuck E. Cheese" or "ShowBiz Pizza Place". Video and Photo pages should have as many forced tags as possible describing them. Tags are the titles of other articles.
-    <div id="MetaTags" class="Meta"></div>
-    <br>
-    <div class="ParamLabel">Article:</div>
-    Keep your article well written, sourced, and to put any additional info in the extra parameters below rather than stuffing the text with it.
-    <div id="ToastUI"></div>
-    <div class="ParamLabel">Citations:</div>
-    Link ciations in the article like this: [1] [12] [4]
-    <div id="MetaCitations" class="Meta"></div>
-    <br>
-    <div class="ParamLabel">Credits:</div>
-    Credit anyone or any company found in relation to creating the article's subject.
-    <div id="MetaCredits" class="Meta"></div>
-    <br>
-    <div class="ParamLabel">Article Thumbnail Photo:</div>
-    This will be the title of an image on the site to use for the thumbnail, like: photo(1).avif
-    <input id="MetaThumbnail" class="Meta" type="text">
-    <br><br>
-    <h2>Location Specific</h2>
-    <div class="ParamLabel">Operation Dates:</div>
-    When did the subject of the article begin and end?
-    Start: <div id="MetaStartDate" class="Meta"></div>
-    End: <div id="MetaEndDate" class="Meta"></div>
-    <br>
-    <div class="ParamLabel">Remodels & Initiatives:</div>
-    Changes to a location and when they took place.
-    <div id="MetaRemodels" class="Meta"></div>
-    <br>
-    <div class="ParamLabel">Franchisees:</div>
-    If a location was franchised, who took stake and when.
-    <div id="MetaFranchisees" class="Meta"></div>
-    <br>
-    <div class="ParamLabel">Animatronics:</div>
-    Animatronics found at the location, note their current wherabouts in the notes section if possible.
-    <div id="MetaAnimatronics" class="Meta"></div>
-    <br>
-    <div class="ParamLabel">Stages:</div>
-    What animatronic stages were present at the location?
-    <div id="MetaStages" class="Meta"></div>
-    <br>
-    <div class="ParamLabel">Attractions:</div>
-    Arcades, games, attractions, and other such found in locations. Note anything in particular about the game.
-    <div id="MetaAttractions" class="Meta"></div>
-    <h2>Showtape Specific</h2>
-    <div class="ParamLabel">Showtape Formats:</div>
-    What formats were a showtape released on?
-    <div id="MetaShowtapeFormats" class="Meta"></div>
-    <br>
-    <br>
 
+    <div id="EditBlock">
+        <div class="ParamGroup">
+            <div class="ParamLabel">Title:</div>
+            Ensure this title is accurate as this will update all links to this article with the new name.
+            <input id="MetaTitle" type="text" class="Meta">
+            <br><br>
+        </div>
+        <div class="ParamGroup">
+            <div class="ParamLabel">Type:</div>
+            Changes how the article is displayed on the site, alongside being a category to sort.
+            <br>
+            <select id="MetaType" class="Meta">
+                <option value="Animatronics">Animatronics</option>
+                <option value="Animatronic Shows">Animatronic Shows</option>
+                <option value="Animatronic Parts">Animatronic Parts</option>
+                <option value="Animatronic Preservation">Animatronic Preservation</option>
+                <option value="Stage Variations">Stage Variations</option>
+                <option value="Costumed Characters">Costumed Characters</option>
+                <option value="Characters">Characters</option>
+                <option value="Locations">Locations</option>
+                <option value="Cancelled Locations">Cancelled Locations</option>
+                <option value="Showtapes">Showtapes</option>
+                <option value="Showtape Formats">Showtape Formats</option>
+                <option value="ShowBiz Pizza Programs">ShowBiz Pizza Programs</option>
+                <option value="Family Vision">Family Vision</option>
+                <option value="Live Shows">Live Shows</option>
+                <option value="Puppets">Puppets</option>
+                <option value="Commercials">Commercials</option>
+                <option value="News Footage">News Footage</option>
+                <option value="Company Media">Company Media</option>
+                <option value="Movies">Movies</option>
+                <option value="Transcriptions">Transcriptions</option>
+                <option value="Video Games">Video Games</option>
+                <option value="Menu Items">Menu Items</option>
+                <option value="Tickets">Tickets</option>
+                <option value="Tokens">Tokens</option>
+                <option value="Documents">Documents</option>
+                <option value="Corporate Documents">Corporate Documents</option>
+                <option value="Promotional Material">Promotional Material</option>
+                <option value="Events">Events</option>
+                <option value="Remodels and Initiatives">Remodels and Initiatives</option>
+                <option value="Retrofits">Retrofits</option>
+                <option value="History">History</option>
+                <option value="Arcades and Attractions">Arcades and Attractions</option>
+                <option value="Companies/Brands">Companies/Brands</option>
+                <option value="Animatronic Control Systems">Animatronic Control Systems</option>
+                <option value="Other Systems">Other Systems</option>
+                <option value="Programming Systems">Programming Systems</option>
+                <option value="Simulators">Simulators</option>
+                <option value="Social Media and Websites">Social Media and Websites</option>
+                <option value="Ad Vehicles">Ad Vehicles</option>
+                <option value="In-Store Merchandise">In-Store Merchandise</option>
+                <option value="Products">Products</option>
+                <option value="Employee Wear">Employee Wear</option>
+                <option value="Meta">Meta</option>
+                <option value="Store Fixtures">Store Fixtures</option>
+                <option value="Photos">Photos</option>
+                <option value="Videos">Videos</option>
+                <option value="Reviews">Reviews</option>
+                <option value="User">User</option>
+            </select>
+            <br><br>
+        </div>
+        <div class="ParamGroup">
+            <div class="ParamLabel">Article Thumbnail Photo:</div>
+            This will be the title of an image on the site to use for the thumbnail, like: photo(1).avif
+            <input id="MetaThumbnail" class="Meta" type="text">
+            <br>
+            <img id="MetaThumbnailPreview" class="EditorImageThumbnail" style="display:none">
+            <br><br>
+        </div>
+        <div class="ParamGroup">
+            <div class="ParamLabel">Article:</div>
+            Keep your article well written, sourced, and to put any additional info in the extra parameters below rather
+            than stuffing the text with it. You can link to other articles using their title inside <strong>[]</strong>,
+            like <strong>[Phase 1 (1994)]</strong>.
+            <div id="ToastUI"></div>
+        </div>
+        <div class="ParamGroup">
+            <div class="ParamLabel">Citations:</div>
+            Link ciations in the article like this: [1] [12] [4]
+            <div id="MetaCitations" class="Meta"></div>
+            <br>
+        </div>
+        <div class="ParamGroup">
+            <div class="ParamLabel">Credits:</div>
+            Credit anyone or any company found in relation to creating the article's subject.
+            <div id="MetaCredits" class="Meta"></div>
+            <br>
+        </div>
+        <div class="ParamGroup">
+            <div class="ParamLabel">Tags:</div>
+            Articles generate tags based on parameters and linked articles. Here you can force tags onto the page, such
+            as "Chuck E. Cheese" or "ShowBiz Pizza Place". Video and Photo pages should have as many forced tags as
+            possible describing them. Tags are the titles of other articles.
+            <div id="MetaTags" class="Meta"></div>
+            <br>
+        </div>
+        <div class="ParamGroup">
+            <div class="ParamLabel">Operation Dates:</div>
+            When did the subject of the article begin and end?
+            Start: <div id="MetaStartDate" class="Meta"></div>
+            End: <div id="MetaEndDate" class="Meta"></div>
+            <br>
+        </div>
+        <div class="ParamGroup" data-types="Locations,Cancelled Locations">
+            <div class="ParamLabel">Remodels & Initiatives:</div>
+            Changes to a location and when they took place.
+            <div id="MetaRemodels" class="Meta"></div>
+            <br>
+        </div>
+        <div class="ParamGroup" data-types="Locations,Cancelled Locations">
+            <div class="ParamLabel">Franchisees:</div>
+            If a location was franchised, who took stake and when.
+            <div id="MetaFranchisees" class="Meta"></div>
+            <br>
+        </div>
+        <div class="ParamGroup" data-types="Locations,Cancelled Locations">
+            <div class="ParamLabel">Animatronics:</div>
+            Animatronics found at the location, note their current wherabouts in the notes section if possible.
+            <div id="MetaAnimatronics" class="Meta"></div>
+            <br>
+        </div>
+        <div class="ParamGroup" data-types="Locations,Cancelled Locations">
+            <div class="ParamLabel">Stages:</div>
+            What animatronic stages were present at the location?
+            <div id="MetaStages" class="Meta"></div>
+            <br>
+        </div>
+        <div class="ParamGroup" data-types="Locations,Cancelled Locations">
+            <div class="ParamLabel">Attractions:</div>
+            Arcades, games, attractions, and other such found in locations. Note anything in particular about the game.
+            <div id="MetaAttractions" class="Meta"></div>
+        </div>
+        <div class="ParamGroup" data-types="Showtapes">
+            <div class="ParamLabel">Showtape Formats:</div>
+            What formats were a showtape released on?
+            <div id="MetaShowtapeFormats" class="Meta"></div>
+            <br>
+            <br>
+        </div>
+
+    </div>
+    <div id="EditRawBlock">
+        <button id="ButtonContent">content.md</button>
+        <button id="ButtonOld">old.md</button>
+        <button id="ButtonMeta">meta.json</button>
+        <button id="ButtonPhoto">photo.avif</button>
+        <button id="ButtonLowPhoto">lowphoto.avif</button>
+        <button id="ButtonAddPhoto">+ Add Photo</button>
+        <div id="RawContent" class="RawDisplay">
+            This is all of the raw Markdown article content.
+            <textarea id="FileContent"></textarea>
+        </div>
+        <div id="RawOld" class="RawDisplay">
+            This is a file containing old article data that needs to be rewritten. Once 'content.md' has text in it, the
+            text here becomes hidden on the final page.
+            <textarea id="FileOld"></textarea>
+        </div>
+        <div id="RawMeta" class="RawDisplay">
+            This is the file containing all parameters that make up the page.
+            <textarea id="FileMeta"></textarea>
+        </div>
+        <div id="RawPhoto" class="RawDisplay">
+            This file is only displayed if the article type is set to 'Photo'.
+            <br>
+            <button id="ButtonReplacePhoto">Replace Photo</button>
+            <img id="FilePhoto" class="EditorImage">
+        </div>
+        <div id="RawLowPhoto" class="RawDisplay">
+            This image is pre-generated when the website is compiled.
+            <img id="FileLowPhoto" class="EditorImageLow">
+        </div>
+    </div>
+      <div id="HelpBlock" style="display:none">
+    <h1>HELP!</h1>
+    Welcome to Cheese-E-Pedia's uh, fourth? editor? It's been the roughest part of the site since the move from Mediawiki, but after a lot of iteration and failure, this should be hopefully the easiest experience. Welcome new or returning editors!
+
+    <h3>How do I create a new page?</h3>
+    Simple, <a href="https://cheeseepedia.org/?v=cep-editor">click this link!</a>
+    <h3>What type of account do I need to edit?</h3>
+    You need to create an account on the Cheese-E-Pedia forums. Apologies for longtime users who were forced to make GitHub accounts before- but! you are able to create a forums account using that same GitHub account. (As of August 16th, 2026) For new users you may notice user pages directly on the site itself with custom descriptions and images/ranking. Be aware this is being merged into the forums, soon the site will merely display and link to forum users.
+    <h3>What are the standards for making a page?</h3>
+    Best is to look to every other article. Article content consists of unique, citable information. Keep information dense- but not redundant. Cheese-E-Pedia has a parameters system that lets you log stuff like dates, remodels, stages, credits, downloads, etc. It mixes these parameters together to create a web of automated information. Keep a lot of duplicate info away from the written page unless it is important to the content/history/story the article is trying to convey.
+    <br><br>
+    Otherwise cite your sources, do spell checking, and use common sense! Your submitted articles aren't going to be tidied up before they go live, and if you're too sloppy they may be flatout rejected!
+    <h3>How do I set up article photos, videos, reviews, transcripts?</h3>
+    (As of August 16th, 2026) These aspects of the editor still need to be streamlined. If you're familiar with how CEP works under the hood these are possible using the <strong>Edit Raw</strong> tab. Otherwise assume you can't. Don't mistake the <strong>Add Photo</strong> button in <strong>Edit Raw</strong> as a way to add a thumbnail or gallery images to an article either, it is for creating a Photo type article.
+    <h3>How long do submissions take?</h3>
+    Submissions are manually reviewed so this can generally be between a few minutes to up to a week. Be patient and try to submit your edit when it's all done and ready. Don't spam a million revisions into the system.
+    <h3>Is there a way to track my submission?</h3>
+    No, unlike previous editors these don't go through a third party and are directly logged into the web server for manual review. If you're worried about a rejected edit, feel free to hit the <strong>Download Edits</strong> button. Post on the forums if you feel a submission was lost or was wrongly rejected. 
+    <br><br><br>
   </div>
-  <div id="EditRawBlock">
-    <button id="ButtonContent">content.md</button>
-    <button id="ButtonOld">old.md</button>
-    <button id="ButtonMeta">meta.json</button>
-    <button id="ButtonPhoto">photo.avif</button>
-    <button id="ButtonLowPhoto">lowphoto.avif</button>
-    <button id="ButtonAddPhoto">+ Add Photo</button>
-    <div id="RawContent" class="RawDisplay">
-        This is all of the raw Markdown article content.
-        <textarea id="FileContent"></textarea>
+
+    <div class="EditFinalButtons">
+        <button id="ZipDownload">⭳ Download Edits</button>
+        <button id="ZipReupload">🗀 Reupload Edits</button>
+        <button id="ButtonLogin">🌐 Login to CEP Forums to Submit</button>
+        <button id="ButtonSubmit">☑ Submit</button>
+        <span id="SubmitStatus"></span>
     </div>
-    <div id="RawOld" class="RawDisplay">
-        This is a file containing old article data that needs to be rewritten. Once 'content.md' has text in it, the text here becomes hidden on the final page.
-        <textarea id="FileOld"></textarea>
-    </div>
-    <div id="RawMeta" class="RawDisplay">
-        This is the file containing all parameters that make up the page.
-        <textarea id="FileMeta"></textarea>
-    </div>
-    <div id="RawPhoto" class="RawDisplay">
-        This file is only displayed if the article type is set to 'Photo'.
-        <br>
-        <button id="ButtonReplacePhoto">Replace Photo</button>
-        <img id="FilePhoto" class="EditorImage">        
-    </div>
-    <div id="RawLowPhoto" class="RawDisplay">
-        This image is pre-generated when the website is compiled.
-        <img id="FileLowPhoto" class="EditorImageLow">
-    </div>
-  </div>
-  <div class="EditFinalButtons">
-    <button id="ZipDownload">⭳ Download Edits</button>
-    <button id="ZipReupload">🗀 Reupload Edits</button>
-    <button id="ButtonLogin">Log in</button>
-    <button id="ButtonSubmit">☑ Submit</button>
-    <span id="SubmitStatus"></span>
-  </div>
 </div>
 <div class="Footer"></div>

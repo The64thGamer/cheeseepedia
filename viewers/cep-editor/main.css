@@ -13,6 +13,10 @@ textarea{
     min-height:40em;
 }
 
+.MetaObjectRow:nth-child(2n+1)
+{
+   background-color: color-mix(in oklab, var(--edit-background), black 15%)
+}
 
 
 input, select{
@@ -29,7 +33,14 @@ input, select{
     padding: 1em;
 }
 
-.ParamLabel{
+.EditorImageThumbnail{
+    margin:auto;
+    height: 20em;
+    display: block;
+    padding: 1em;
+}
+
+.ParamLabel,strong,h3{
     color: var(--primary);
 }
 
