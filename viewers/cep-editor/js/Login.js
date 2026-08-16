@@ -27,14 +27,7 @@ function showLoggedOut() {
 function showLoggedIn(username) {
   statusEl.textContent = "Logged in as " + username;
   controlsEl.innerHTML = "";
-  if (window.opener) {
-    setTimeout(() => window.close(), 600);
-    return;
-  }
-  const btn = document.createElement("button");
-  btn.textContent = "Log out";
-  btn.onclick = logout;
-  controlsEl.appendChild(btn);
+  setTimeout(() => window.close(), 600);
 }
 
 function showError(msg) {
