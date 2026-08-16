@@ -11,6 +11,7 @@ const TOAST_JS  = 'https://uicdn.toast.com/editor/latest/toastui-editor-all.min.
 const JSZIP_JS  = 'https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js';
 const SUGGESTIONS_URL = '/viewers/cep-js/compiled-json/Suggestions.json';
 const SUBMIT_URL = '/submit';
+const LOGIN_URL = '/viewers/cep-editor/Login.html';
 
 const META_MAP = {
   title:              { type: 'line',     el: 'MetaTitle' },
@@ -148,6 +149,24 @@ async function showEdit() {
   }
 }
 
+function hasSession() {
+  return !!localStorage.getItem('discourse_user_api_key');
+}
+
+function updateAuthUI() {
+  const loggedIn = hasSession();
+  document.getElementById('ButtonLogin').style.display = loggedIn ? 'none' : '';
+  document.getElementById('ButtonSubmit').style.display = loggedIn ? '' : 'none';
+}
+
+function openLogin() {
+  window.open(LOGIN_URL, 'cepLogin', 'width=420,height=520');
+}
+
+window.addEventListener('storage', e => {
+  if (e.key === 'discourse_user_api_key') updateAuthUI();
+});
+
 function showEditRaw() {
   document.getElementById('EditBlock').style.display = 'none';
   document.getElementById('EditRawBlock').style.display = '';
@@ -186,7 +205,8 @@ export async function loadFolder(folder) {
       scratch[file] = await (await fetch(url)).blob();
     }
   }
-
+  document.getElementById('ButtonLogin').onclick = openLogin;
+  updateAuthUI();
   document.getElementById('ButtonSubmit').onclick = submitZip;
   document.getElementById('ButtonEdit').onclick = showEdit;
   document.getElementById('ButtonEditRaw').onclick = showEditRaw;
