@@ -1,4 +1,4 @@
-The ***Chuck E. Cheese Metaverse* (Also called the ***Chuck E. Verse)* was a cancelled plan in 2022 for a metaverse application, which could appear on mobile, PC, or VR devices.****
+The ***Chuck E. Cheese Metaverse ***(Also called the ***Chuck E. Verse) ***was a cancelled plan in 2022 for a metaverse application, which could appear on mobile, PC, or VR devices.
 
 ## Description
 
