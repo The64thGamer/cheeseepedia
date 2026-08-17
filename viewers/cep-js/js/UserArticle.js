@@ -12,12 +12,12 @@ const getSearchDocs = async () =>
   SEARCH_DOCS ||= await fetch(SEARCH_DOCS_URL).then(r => r.ok ? r.json() : []).catch(() => []);
 
 const TIERS = [
-  { min:0,    max:1,    start:'#464141', end:'#464141', rank:'Bankruptcy'         },
+  { min:0,    max:1,    start:'#464141', end:'#464141', rank:'Haha, One!'         },
   { min:2,    max:4,    start:'#613583', end:'#613583', rank:'Toddler Zone'       },
-  { min:5,    max:9,    start:'#3b538a', end:'#3b538a', rank:'Crusty & Greasy'    },
+  { min:5,    max:9,    start:'#3b538a', end:'#3b538a', rank:'5 Edits at Wiki'    },
   { min:10,   max:24,   start:'#26a269', end:'#26a269', rank:'Jumpscare Fodder'   },
   { min:25,   max:49,   start:'#d3b31c', end:'#d3b31c', rank:'Store Tourist'      },
-  { min:50,   max:74,   start:'#ff7800', end:'#ff7800', rank:'Wiki Wanderer'      },
+  { min:50,   max:74,   start:'#ffa41d', end:'#ffa41d', rank:'Wiki Wanderer'      },
   { min:75,   max:99,   start:'#e01b24', end:'#e01b24', rank:'Article Wizard'     },
   { min:100,  max:149,  start:'#ff8383', end:'#ff006d', rank:'Historian'          },
   { min:150,  max:299,  start:'#aaa8bc', end:'#241f31', rank:'Guest Star'         },
