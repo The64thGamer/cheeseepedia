@@ -413,15 +413,6 @@ export async function loadArticle(app, articleId, addTag) {
       });
     });
 
-    const editBtn=document.createElement('button');
-    editBtn.className='PinButton';editBtn.textContent='Edit Page (Beta)';
-    editBtn.addEventListener('click',()=>{
-      const url=new URL(window.location.href);
-      url.searchParams.set('v','cep-editor');
-      window.location.href=url.toString();
-    });
-    btnBar.appendChild(editBtn);
-
     if (hasInventory) {
       makeBtn('Inventory', () => {
         showInbox(false);
@@ -446,6 +437,15 @@ export async function loadArticle(app, articleId, addTag) {
         body.appendChild(el);
       });
     });
+
+    const editBtn=document.createElement('button');
+    editBtn.className='PinButton';editBtn.textContent='Edit Page (Beta)';
+    editBtn.addEventListener('click',()=>{
+      const url=new URL(window.location.href);
+      url.searchParams.set('v','cep-editor');
+      window.location.href=url.toString();
+    });
+    btnBar.appendChild(editBtn);
 
     if (articleBtn) setActive(articleBtn);
   }

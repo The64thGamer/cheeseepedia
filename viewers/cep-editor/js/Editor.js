@@ -23,6 +23,8 @@ const META_MAP = {
   tags:               { type: 'list',     el: 'MetaTags' },
   startDate:          { type: 'date',     el: 'MetaStartDate' },
   endDate:            { type: 'date',     el: 'MetaEndDate' },
+  recommend:          { type: 'boolean',  el: 'MetaRecommend' },
+  latitudeLongitude:  { type: 'pair',     el: 'MetaLatLong', labels: ['Latitude', 'Longitude'] },
   credits: {
     type: 'objectList', el: 'MetaCredits',
     fields: [
@@ -87,6 +89,9 @@ let SUGGESTIONS = {};
 let suggestionsLoaded = false;
 let RELATED = [];
 let relatedLoaded = false;
+// Filenames of extra gallery images added this session, kept separate from
+// FILE_MAP since these use their own real filenames instead of photo.avif.
+let galleryFiles = [];
 
 async function loadSuggestions() {
   if (suggestionsLoaded) return;
@@ -201,7 +206,9 @@ function blankMetaData() {
   const data = {};
   for (const [key, cfg] of Object.entries(META_MAP)) {
     if (cfg.type === 'list' || cfg.type === 'objectList') data[key] = [];
+    else if (cfg.type === 'pair') data[key] = ['', ''];
     else if (cfg.type === 'date') data[key] = '0000-00-00';
+    else if (cfg.type === 'boolean') data[key] = false;
     else if (cfg.type === 'dropdown') {
       const el = document.getElementById(cfg.el);
       data[key] = el?.options[0]?.value || '';
@@ -214,9 +221,16 @@ export async function loadFolder(articleId) {
   const isNew = !(await pageExists(articleId));
   const folder = isNew ? randomId() : articleId;
 
+  // Read these before the URL is rewritten below, since ?tag= and ?type=
+  // are only meant to seed a brand new page and shouldn't stick around.
+  const params = new URLSearchParams(location.search);
+  const tagParam = params.get('tag');
+  const typeParam = params.get('type');
+
   if (isNew) {
-    const params = new URLSearchParams(location.search);
     params.delete('=');
+    params.delete('tag');
+    params.delete('type');
     params.set('', folder);
     history.replaceState(null, '', `${location.pathname}?${params.toString()}`);
   }
@@ -224,12 +238,29 @@ export async function loadFolder(articleId) {
   currentFolder = folder;
   scratch = {};
   firstValidFile = null;
+  // There's no directory-listing endpoint, so any gallery images already
+  // saved on an existing page can't be auto-discovered here - only ones
+  // added this session (or restored via Reupload Edits below) are tracked.
+  galleryFiles = [];
 
   await loadSuggestions();
 
   if (isNew) {
     scratch['content.md'] = '';
-    scratch['meta.json'] = JSON.stringify(blankMetaData(), null, 2);
+    const blank = blankMetaData();
+
+    if (typeParam) {
+      const typeEl = document.getElementById(META_MAP.type.el);
+      const matchedType = matchTypeOption(typeEl, typeParam);
+      if (matchedType) blank.type = matchedType;
+    }
+
+    if (tagParam) {
+      const tagTitle = await lookupTitle(tagParam);
+      if (tagTitle) blank.tags = [tagTitle];
+    }
+
+    scratch['meta.json'] = JSON.stringify(blank, null, 2);
     firstValidFile = 'content.md';
   }
 
@@ -278,8 +309,11 @@ export async function loadFolder(articleId) {
   document.getElementById('ButtonAddPhoto').onclick = replacePhoto;
   document.getElementById('ButtonReplacePhoto').onclick = replacePhoto;
   document.getElementById('ZipReupload').onclick = reuploadZip;
+  const addGalleryBtn = document.getElementById('ButtonAddGalleryImages');
+  if (addGalleryBtn) addGalleryBtn.onclick = addGalleryImages;
 
   refreshPhotoButtons();
+  renderGallery();
   showEdit();
 }
 
@@ -449,6 +483,11 @@ function bindExistingDropdown(el, value, onChange) {
   el.onchange = () => onChange(el.value);
 }
 
+function bindCheckbox(el, value, onChange) {
+  el.checked = !!value;
+  el.onchange = () => onChange(el.checked);
+}
+
 function makeSelect(items, value) {
   const el = document.createElement('select');
   for (const [v, label] of items) {
@@ -555,6 +594,40 @@ function renderListField(key, cfg) {
   container.appendChild(addBtn);
 }
 
+function renderPairField(key, cfg) {
+  const container = document.getElementById(cfg.el);
+  if (!container) return;
+  container.innerHTML = '';
+
+  // Always exactly 2 entries - this is a restricted array, not a general list.
+  const existing = Array.isArray(metaData[key]) ? metaData[key] : [];
+  const pair = [existing[0] || '', existing[1] || ''];
+  metaData[key] = pair;
+
+  const labels = cfg.labels || ['', ''];
+  labels.forEach((label, i) => {
+    const field = document.createElement('div');
+    field.className = 'MetaField MetaPairField';
+
+    if (label) {
+      const flabel = document.createElement('label');
+      flabel.textContent = label;
+      field.appendChild(flabel);
+    }
+
+    const input = document.createElement('input');
+    input.type = 'text';
+    field.appendChild(input);
+    bindLine(input, pair[i], v => {
+      pair[i] = v;
+      metaData[key] = pair;
+      saveMetaData();
+    });
+
+    container.appendChild(field);
+  });
+}
+
 function renderObjectListField(key, cfg) {
   const container = document.getElementById(cfg.el);
   if (!container) return;
@@ -648,6 +721,8 @@ const RENDERERS = {
   },
   dropdown: makeSimpleRenderer(bindExistingDropdown),
   date: makeSimpleRenderer(buildDateField),
+  boolean: makeSimpleRenderer(bindCheckbox),
+  pair: renderPairField,
   list: renderListField,
   objectList: renderObjectListField,
 };
@@ -675,6 +750,66 @@ function replacePhoto() {
     if (document.getElementById('RawPhoto').style.display !== 'none') {
       showRaw('photo.avif', FILE_MAP['photo.avif']);
     }
+  };
+
+  input.click();
+}
+
+function renderGallery() {
+  const container = document.getElementById('MetaGalleryImages');
+  if (!container) return;
+  container.innerHTML = '';
+
+  galleryFiles.forEach(name => {
+    const item = document.createElement('div');
+    item.className = 'MetaGalleryItem';
+    item.style.cssText = 'display:inline-flex;flex-direction:column;align-items:center;gap:4px;margin:4px;position:relative;width:112px;';
+
+    const img = document.createElement('img');
+    img.className = 'MetaGalleryThumb';
+    img.src = URL.createObjectURL(scratch[name]);
+    img.alt = name;
+    img.style.cssText = 'width:112px;height:112px;object-fit:cover;border-radius:4px;';
+
+    const caption = document.createElement('span');
+    caption.className = 'MetaGalleryName';
+    caption.textContent = name;
+    caption.style.cssText = 'font-size:0.75em;word-break:break-all;text-align:center;';
+
+    const removeBtn = document.createElement('button');
+    removeBtn.type = 'button';
+    removeBtn.className = 'MetaGalleryRemove';
+    removeBtn.textContent = '✕';
+    removeBtn.title = `Remove ${name}`;
+    removeBtn.style.cssText = 'position:absolute;top:2px;right:2px;line-height:1;';
+    removeBtn.onclick = () => {
+      delete scratch[name];
+      galleryFiles = galleryFiles.filter(n => n !== name);
+      renderGallery();
+    };
+
+    item.append(img, caption, removeBtn);
+    container.appendChild(item);
+  });
+}
+
+function addGalleryImages() {
+  const input = document.createElement('input');
+  input.type = 'file';
+  input.accept = '.avif';
+  input.multiple = true;
+
+  input.onchange = () => {
+    for (const file of input.files) {
+      if (!/\.avif$/i.test(file.name)) continue;
+      // photo.avif / lowphoto.avif are reserved for the article's own single
+      // photo - gallery images always keep their real, original filename.
+      if (file.name in FILE_MAP) continue;
+
+      scratch[file.name] = file;
+      if (!galleryFiles.includes(file.name)) galleryFiles.push(file.name);
+    }
+    renderGallery();
   };
 
   input.click();
@@ -747,7 +882,17 @@ function reuploadZip() {
       document.getElementById(`Button${cfg.name}`).style.display = '';
     }
 
+    // Any .avif files in the zip beyond the known FILE_MAP entries are
+    // gallery images saved under their own filenames - restore those too.
+    galleryFiles = [];
+    for (const entry of Object.values(zip.files)) {
+      if (entry.dir || entry.name in FILE_MAP || !/\.avif$/i.test(entry.name)) continue;
+      scratch[entry.name] = await entry.async('blob');
+      galleryFiles.push(entry.name);
+    }
+
     refreshPhotoButtons();
+    renderGallery();
     initMetaFields();
     if (toastEditor) toastEditor.setMarkdown(scratch['content.md'] || '');
   };
@@ -768,4 +913,32 @@ async function pageExists(folder) {
   } catch {
     return false;
   }
+}
+
+// Resolves a folder id (as passed via ?tag=) to that article's real title,
+// so a link can reference a page by its folder id without the author needing
+// to know or type out its display title.
+async function lookupTitle(folder) {
+  if (!folder) return null;
+  try {
+    const res = await fetch(`/content/${folder}/meta.json`);
+    if (!res.ok) return null;
+    const data = await res.json();
+    return data?.title || null;
+  } catch {
+    return null;
+  }
+}
+
+// Matches a ?type= URL param against the MetaType dropdown's option values.
+// Tries an exact case-insensitive match first, then tolerates a missing
+// trailing "s" (e.g. "Review" -> "Reviews"), then falls back to a prefix match.
+function matchTypeOption(typeEl, typeParam) {
+  if (!typeEl || !typeParam) return null;
+  const wanted = typeParam.trim().toLowerCase();
+  const options = Array.from(typeEl.options).map(o => o.value);
+  return options.find(v => v.toLowerCase() === wanted)
+    || options.find(v => v.toLowerCase() === `${wanted}s`)
+    || options.find(v => v.toLowerCase().startsWith(wanted))
+    || null;
 }

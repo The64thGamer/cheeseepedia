@@ -17,15 +17,33 @@
 <div class="Body">
 
     <div id="EditBlock">
-        <div class="ParamGroup">
-            <div class="ParamLabel">Title:</div>
-            Ensure this title is accurate as this will update all links to this article with the new name.
+        <div class="ParamGroup" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures, Reviews, Videos">
+            <div class="ParamLabel" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures">Title:</div>
+            <div class="ParamDesc" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures">Ensure this title is accurate as this will update all links to this article with the new name.</div>
+            <div class="ParamLabel" data-types="Reviews">Review Title:</div>
+            <div class="ParamDesc" data-types="Reviews">Your general thoughts in the review.</div>
+            <div class="ParamLabel" data-types="Videos">Link:</div>
+            <div class="ParamDesc" data-types="Videos">The link to the video. Be aware Cheese-E-Pedia mainly supports <strong>YouTube</strong> links and the filepaths to <strong>archive.org</strong> videos.</div>
             <input id="MetaTitle" type="text" class="Meta">
+            <br><br>
+        </div>
+        <div class="ParamGroup" data-types="Photos">
+            <div class="ParamLabel">Images:</div>
+            <div class="ParamDesc">Only <strong>.avif</strong> files are permitted. You are allowed to upload multiple images, but be aware they are going to all be given the same description, dates, and tags. Unless they are very similar pictures, please submit them separately.</div>
+            <br>
+            <div id="MetaGalleryImages" class="MetaGallery"></div>
+            <button id="ButtonAddGalleryImages" type="button">+ Add Images</button>
+            <br><br>
+        </div>
+        <div class="ParamGroup" data-types="Reviews">
+            <div class="ParamLabel">Recommend:</div>
+            <div class="ParamDesc">Check this if you'd recommend it to others. This is basically your like or dislike.</div>
+            <input id="MetaRecommend" type="checkbox" class="Meta">
             <br><br>
         </div>
         <div class="ParamGroup">
             <div class="ParamLabel">Type:</div>
-            Changes how the article is displayed on the site, alongside being a category to sort.
+            <div class="ParamDesc">Changes how the article is displayed on the site, alongside being a category to sort.</div>
             <br>
             <select id="MetaType" class="Meta">
                 <option value="Animatronics">Animatronics</option>
@@ -79,85 +97,98 @@
             </select>
             <br><br>
         </div>
-        <div class="ParamGroup">
+        <div class="ParamGroup" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures, User">
             <div class="ParamLabel">Article Thumbnail Photo:</div>
-            This will be the title of an image on the site to use for the thumbnail, like <strong>photo(1).avif</strong>
+            <div class="ParamDesc">This will be the title of an image on the site to use for the thumbnail, like <strong>photo(1).avif</strong></div>
             <input id="MetaThumbnail" class="Meta" type="text">
             <br>
             <img id="MetaThumbnailPreview" class="EditorImageThumbnail" style="display:none">
             <br><br>
         </div>
         <div class="ParamGroup">
-            <div class="ParamLabel">Article:</div>
-            Keep your article well written, sourced, and to put any additional info in the extra parameters below rather
+            <div class="ParamLabel" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures, User">Article:</div>
+            <div class="ParamDesc" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures, User">Keep your article well written, sourced, and to put any additional info in the extra parameters below rather
             than stuffing the text with it. You can link to other articles using their title inside <strong>[]</strong>,
-            like <strong>[Phase 1 (1994)]</strong>.
+            like <strong>[Phase 1 (1994)]</strong>.</div>
+            <div class="ParamLabel" data-types="Photos, Videos">Description:</div>
+            <div class="ParamDesc" data-types="Photos, Videos">Describe what is going on in the photo for accessibility. Refrain from using dates as those are filled in the parameter below.</div>
+            <div class="ParamLabel" data-types="Reviews">Review:</div>
+            <div class="ParamDesc" data-types="Reviews">Describe your thoughts and feelings on the subject in question.</div>
             <div id="ToastUI"></div>
         </div>
-        <div class="ParamGroup">
+        <div class="ParamGroup" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures, Photos, Videos">
             <div class="ParamLabel">Citations:</div>
-            Link ciations in the article like this: <strong>[1] [12] [4]</strong>
+            <div class="ParamDesc">Link ciations in the article like this: <strong>[1] [12] [4]</strong></div>
             <div id="MetaCitations" class="Meta"></div>
             <br>
         </div>
-        <div class="ParamGroup">
+        <div class="ParamGroup" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures">
             <div class="ParamLabel">Credits:</div>
-            Credit anyone or any company found in relation to creating the article's subject.
+            <div class="ParamDesc">Credit anyone or any company found in relation to creating the article's subject.</div>
             <div id="MetaCredits" class="Meta"></div>
             <br>
         </div>
-        <div class="ParamGroup">
-            <div class="ParamLabel">Tags:</div>
-            Articles generate tags based on parameters and linked articles. Here you can force tags onto the page, such
+        <div class="ParamGroup"  data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures, Photos, Videos, Reviews">
+            <div class="ParamLabel" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures, Photos, Videos, User">Tags:</div>
+            <div class="ParamDesc" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures, Photos, Videos, User">Articles generate tags based on parameters and linked articles. Here you can force tags onto the page, such
             as <strong>Chuck E. Cheese</strong> or <strong>ShowBiz Pizza Place</strong>. Video and Photo pages should have as many forced tags as
-            possible describing them. Tags are the titles of other articles.
+            possible describing them. Tags are the titles of other articles.</div>
+            <div class="ParamLabel" data-types="Reviews">Article Being Reviewed:</div>
+            <div class="ParamDesc" data-types="Reviews">Put in the title of the article being reviewed if it isn't already added.</div>
             <div id="MetaTags" class="Meta"></div>
             <br>
         </div>
         <div class="ParamGroup">
-            <div class="ParamLabel">Operation Dates:</div>
-            When did the subject of the article begin and end?
-            Start: <div id="MetaStartDate" class="Meta"></div>
-            End: <div id="MetaEndDate" class="Meta"></div>
+            <div class="ParamLabel" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures">Operation Dates:</div>
+            <div class="ParamDesc" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures">When did the subject of the article begin and end?</div>
+            <div class="ParamLabel" data-types="Photos, Videos">Date:</div>
+            <div class="ParamDesc" data-types="Photos, Videos">The date this was taken at.</div>
+            <div class="ParamDesc" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures">Start:</div><div class="Param" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures, Photos, Videos"><div id="MetaStartDate" class="Meta"></div></div>
+            <div class="ParamDesc" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures">End:</div><div class="Param" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Costumed Characters, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Corporate Documents, Promotional Material, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures"><div id="MetaEndDate" class="Meta"></div></div>
+            <br>
+        </div>
+        <div class="ParamGroup" data-types="Locations,Cancelled Locations">
+            <div class="ParamLabel">Coordinates:</div>
+            <div class="ParamDesc">The latitude and longitude of the location, e.g. <strong>43.61742062</strong> and <strong>-116.2605726</strong>.</div>
+            <div id="MetaLatLong" class="Meta"></div>
             <br>
         </div>
         <div class="ParamGroup" data-types="Locations,Cancelled Locations">
             <div class="ParamLabel">Remodels & Initiatives:</div>
-            Changes to a location and when they took place.
+            <div class="ParamDesc">Changes to a location and when they took place.</div>
             <div id="MetaRemodels" class="Meta"></div>
             <br>
         </div>
         <div class="ParamGroup" data-types="Locations,Cancelled Locations">
             <div class="ParamLabel">Franchisees:</div>
-            If a location was franchised, who took stake and when.
+            <div class="ParamDesc">If a location was franchised, who took stake and when.</div>
             <div id="MetaFranchisees" class="Meta"></div>
             <br>
         </div>
         <div class="ParamGroup" data-types="Locations,Cancelled Locations">
             <div class="ParamLabel">Animatronics:</div>
-            Animatronics found at the location, note their current wherabouts in the notes section if possible.
+            <div class="ParamDesc">Animatronics found at the location, note their current wherabouts in the notes section if possible.</div>
             <div id="MetaAnimatronics" class="Meta"></div>
             <br>
         </div>
         <div class="ParamGroup" data-types="Locations,Cancelled Locations">
             <div class="ParamLabel">Stages:</div>
-            What animatronic stages were present at the location?
+            <div class="ParamDesc">What animatronic stages were present at the location?</div>
             <div id="MetaStages" class="Meta"></div>
             <br>
         </div>
         <div class="ParamGroup" data-types="Locations,Cancelled Locations">
             <div class="ParamLabel">Attractions:</div>
-            Arcades, games, attractions, and other such found in locations. Note anything in particular about the game.
+            <div class="ParamDesc">Arcades, games, attractions, and other such found in locations. Note anything in particular about the game.</div>
             <div id="MetaAttractions" class="Meta"></div>
         </div>
         <div class="ParamGroup" data-types="Showtapes">
             <div class="ParamLabel">Showtape Formats:</div>
-            What formats were a showtape released on?
+            <div class="ParamDesc">What formats were a showtape released on?</div>
             <div id="MetaShowtapeFormats" class="Meta"></div>
             <br>
             <br>
         </div>
-
     </div>
     <div id="EditRawBlock">
         <button id="ButtonContent">content.md</button>
@@ -212,6 +243,8 @@
     This is done automatically when the submission is made under your forum account. Please don't manually add yourself to the contributors list.
     <h3>Why do some articles have an orange banner, and when I go to edit them the text isn't there?'</h3>
     These are articles deemed unfit to edit from but still worth presenting to read. It is reccomended you start over and your submission will override the original text. If you still need a convenient way to see the original text, click the <strong>Edit Raw</strong> tab and it will be listed under <strong>old.md</strong>
+    <h3>I don't understand what I put in the Thumbnail text box</h3>
+    It wants the <strong>Title</strong> of any photo that exists on the website. This is not the filename, as all photos on the site are simply <strong>photo.avif</strong>. Everything on the site is treated like an article. You get the title by clicking on an image to show it on its own page. The title *usually* is something like <strong>024290k23e32e.avif</strong>, but you may not see a .avif extension, or the title is just a description of the photo. Whatever the case, that yellow text is what you paste in, and if is valid should have that photo appear in the editor.
     <br><br><br>
   </div>
 
