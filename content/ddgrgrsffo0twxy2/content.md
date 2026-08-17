@@ -1,0 +1,1 @@
+Photo of the head mech for Nellie of the Nile during development at CEI.In the early stages she was supposed to have ear movements however these were removed during the sculpting of the mask.

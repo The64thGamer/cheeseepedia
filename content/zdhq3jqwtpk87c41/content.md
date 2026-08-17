@@ -1,0 +1,1 @@
+Full body photo of the Prototype Mijjin in march of 1991

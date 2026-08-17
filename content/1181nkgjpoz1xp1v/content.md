@@ -1,0 +1,1 @@
+Photo of Nellie of the Nile's mask being sculpted by Creative Engineering artist Nancy.Next to the sculpt a sketch of it can be seen.

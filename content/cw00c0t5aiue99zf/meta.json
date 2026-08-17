@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1993-09-20",
   "endDate": "",
-  
   "remodels": [],
   "stages": [
     {
@@ -18,14 +17,35 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "SkyTubes",
+      "s": "1994-00-00",
+      "e": "0000-00-00",
+      "desc": "[Phase 1 (1994)]-era. Seen in a 1994 store tour."
+    },
+    {
+      "n": "Chuck E. Cheese's Memory Match",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1994 store tour."
+    },
+    {
+      "n": "Super Kixx",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1994 store tour."
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "40.51850932",
     "-74.36560448"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Front-Row-Joe"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "YMpY8rVBuQi8juU8UCVr.avif",
   "type": "Locations",

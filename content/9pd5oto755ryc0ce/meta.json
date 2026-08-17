@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1990-11-20",
   "endDate": "",
-  
   "remodels": [],
   "stages": [
     {
@@ -28,14 +27,311 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Air Hockey",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from 1992."
+    },
+    {
+      "n": "Chuck E.'s Basketball",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from 1992."
+    },
+    {
+      "n": "G-LOC: Air Battle",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from 1992."
+    },
+    {
+      "n": "Ticket Blaster",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2018 and 2022."
+    },
+    {
+      "n": "Alley Roller Classic",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "5 machines side by side. Seen in footage from every year between 2018 and 2021."
+    },
+    {
+      "n": "Big Bass Wheel",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2018 and 2021."
+    },
+    {
+      "n": "Chill Out Ice Cream Machine",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2018 and 2021."
+    },
+    {
+      "n": "Milk Jug Toss",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2018 and 2021."
+    },
+    {
+      "n": "NFL 2 Minute Drill",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2018 and 2021."
+    },
+    {
+      "n": "The Simpsons Kooky Carnival",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2018 and 2021."
+    },
+    {
+      "n": "Slam-A-Winner",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2018 and 2021."
+    },
+    {
+      "n": "SpongeBob SquarePants Pineapple Arcade",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2018 and 2021."
+    },
+    {
+      "n": "Terminator Salvation",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "32 inch cabinet. Seen in footage from every year between 2018 and 2021."
+    },
+    {
+      "n": "Deadstorm Pirates",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Smaller, upright cabinet. Seen in footage from every year between 2018 and 2020."
+    },
+    {
+      "n": "Operation Skill Game",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2018 and 2020."
+    },
+    {
+      "n": "Astro Invasion",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2018, 2019, and 2021."
+    },
+    {
+      "n": "Big Win Super Spin",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2018, 2019, and 2021."
+    },
+    {
+      "n": "Deep Sea Treasures",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2018, 2019, and 2021."
+    },
+    {
+      "n": "Treasure Quest",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2018, 2019, and 2021."
+    },
+    {
+      "n": "Winter X Games SnoCross",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2018, 2019, and 2021."
+    },
+    {
+      "n": "Chuck E. Cheese's Sketch Book",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2018, 2020, and 2021."
+    },
+    {
+      "n": "Harpoon Lagoon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2018, 2020, and 2021."
+    },
+    {
+      "n": "SpongeBob SquarePants Bikini Bottom Bowling",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2018, 2020, and 2021."
+    },
+    {
+      "n": "NBA Hoop Troop",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2018 and 2021."
+    },
+    {
+      "n": "Comet Catcher",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 2018 store tour."
+    },
+    {
+      "n": "Eiffel Tower",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 2018 store tour."
+    },
+    {
+      "n": "Knock Out Punch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 2018 store tour."
+    },
+    {
+      "n": "NBA Hoops",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "2 cabinets side by side. Seen in a 2018 store tour."
+    },
+    {
+      "n": "Sonic Spinner",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 2018 store tour."
+    },
+    {
+      "n": "Chuck E.'s Rubble Bubble",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2019 and 2021."
+    },
+    {
+      "n": "Deep Freeze",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2019 and 2021."
+    },
+    {
+      "n": "Frogger (ICE)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2019 and 2021."
+    },
+    {
+      "n": "Full Tilt",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2019 and 2021."
+    },
+    {
+      "n": "NBA GameTime",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "2 cabinets side by side. Seen in footage from every year between 2019 and 2021."
+    },
+    {
+      "n": "Teenage Mutant Ninja Turtles (Raw Thrills)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from every year between 2019 and 2021."
+    },
+    {
+      "n": "Ski Racer",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2019 and 2020."
+    },
+    {
+      "n": "SpongeBob SquarePants: Order Up!",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2019 and 2020."
+    },
+    {
+      "n": "Ticket Muncher",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2019 and 2020."
+    },
+    {
+      "n": "Fruit Ninja FX",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2019 and 2021."
+    },
+    {
+      "n": "Quik Drop",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2019 and 2021."
+    },
+    {
+      "n": "The Price is Right Plinko",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 2019 store tour."
+    },
+    {
+      "n": "Stack-It",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 2019 store tour."
+    },
+    {
+      "n": "Angry Birds Arcade",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2020 and 2021."
+    },
+    {
+      "n": "Cars",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2020 and 2021."
+    },
+    {
+      "n": "Hungry Froggy",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2020 and 2021."
+    },
+    {
+      "n": "Panning for Gold",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in store tours from 2020 and 2021."
+    },
+    {
+      "n": "Let's Go Jungle! Lost in the Island of Spice",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Smaller, upright cabinet. Seen in a 2020 store tour."
+    },
+    {
+      "n": "Subway Surfers",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 2020 store tour."
+    },
+    {
+      "n": "Birthday Party",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 2021 store tour."
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "33.58039417",
     "-84.38279328"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Front-Row-Joe"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "AkiycK0123w4Iiv0gOnq.avif",
   "type": "Locations",

@@ -1,0 +1,1 @@
+The fiberglass master mold for Nellie of the Nile's mask
