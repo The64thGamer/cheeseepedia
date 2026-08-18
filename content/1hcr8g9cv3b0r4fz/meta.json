@@ -1,0 +1,44 @@
+{
+  "title": "Spirit Halloween Freddy Fazbear (Animatronic)",
+  "type": "Animatronics",
+  "pageThumbnailFile": "",
+  "citations": [
+    "https://hauntedattractionnetwork.com/spirit-halloween-freddy-fazbear-animatronic/",
+    "https://www.spirithalloween.com/content.jsp?pageName=freddy"
+  ],
+  "tags": [
+    "Five Nights at Freddy's"
+  ],
+  "startDate": "2026-08-00",
+  "endDate": "",
+  "recommend": false,
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "credits": [
+    {
+      "role": "Production",
+      "n": "Jinhua PartyTime Latex Art and Crafts Factory"
+    },
+    {
+      "role": "Distribution",
+      "n": "Spirit Halloween"
+    }
+  ],
+  "stages": [],
+  "remodels": [],
+  "franchisees": [],
+  "animatronics": [],
+  "attractions": [],
+  "showtapeFormats": [],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/details/freddy-fazbear-fnaf",
+      "label": "Installation Guide"
+    }
+  ],
+  "contributors": [
+    "sudo-trans-pony"
+  ]
+}

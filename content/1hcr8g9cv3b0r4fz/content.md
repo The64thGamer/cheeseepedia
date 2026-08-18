@@ -1,0 +1,1 @@
+The ***Spirit Halloween Freddy Fazbear*** is an animatronic released exclusively to [Spirit Halloween] stores in August of 2026.

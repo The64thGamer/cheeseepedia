@@ -18,7 +18,6 @@ export async function initStats(app) {
 
   body.querySelector('.ArticleLoading')?.remove();
 
-  // ── Tab bar ────────────────────────────────────────────────────────────────
   const tabBar = document.createElement('div');
   tabBar.className = 'ArticleHeaderBtns';
   tabBar.style.marginBottom = '1rem';
@@ -41,14 +40,12 @@ export async function initStats(app) {
     return btn;
   };
 
-  // ── Citations tab ──────────────────────────────────────────────────────────
   const citBtn = makeTab(`Citations (${links.length.toLocaleString()})`, () => {
     const wrap = document.createElement('div');
     buildCitations(wrap, links);
     return wrap;
   });
 
-  // ── Downloads tab ──────────────────────────────────────────────────────────
   makeTab(`Downloads (${downloads.length.toLocaleString()})`, () => {
     const wrap = document.createElement('div');
     wrap.className = 'DownloadsList';
@@ -59,12 +56,17 @@ export async function initStats(app) {
       a.href = dl.url; a.target = '_blank'; a.rel = 'noopener';
       a.textContent = dl.label || dl.url;
       item.appendChild(a);
+      if(dl.pageTitle) {
+        const page = document.createElement('span');
+        page.className = 'DownloadsItemPage';
+        page.textContent = ` - ${dl.pageTitle}`;
+        item.appendChild(page);
+      }
       wrap.appendChild(item);
     });
     return wrap;
   });
 
-  // ── Contributors tab ────────────────────────────────────────────────────────
   makeTab(`Contributors (${sortedContribs.length.toLocaleString()})`, () => {
     const wrap = document.createElement('div');
     wrap.className = 'ContributorsList';

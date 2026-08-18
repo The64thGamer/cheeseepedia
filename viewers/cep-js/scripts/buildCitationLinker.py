@@ -65,6 +65,7 @@ def main():
                 if d: all_domains.add(d)
 
         # Download links
+        page_title = (meta.get('title') or '').strip() or folder.name
         for dl in (meta.get('downloadLinks') or []):
             if not isinstance(dl, dict): continue
             url   = (dl.get('url') or '').strip()
@@ -73,7 +74,12 @@ def main():
             key = url
             if key not in seen_downloads:
                 seen_downloads.add(key)
-                all_downloads.append({'url': url, 'label': label or url})
+                all_downloads.append({
+                    'url': url,
+                    'label': label or url,
+                    'page': folder.name,
+                    'pageTitle': page_title,
+                })
 
     # Skip domains with existing file or previously failed
     todo = sorted(d for d in all_domains
