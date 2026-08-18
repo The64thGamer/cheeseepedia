@@ -21,7 +21,7 @@ In 2021 an extended clip of the theme would be put in the [Creative Engineering 
 
 In 2023 another Premium Video would show Aaron playing the full Moonrocker's tape on the original stage before its disassembly for the move out of the [Orlando, FL (47 W Jefferson St)]. This would be the first reveal of the other songs and skits, alongside confirmation that the show was swapped out for a Rock-afire center stage during the IAPPA event. Despite the momentous release, this would not be widely leaked.
 
-On January 18, 2024, the third segment would be played at ***Gulliver's Kingdom ***with custom programming from a digital rip of the showtape audio. This would then be posted online as the first major leak of the majority of the showtape.[1] This same audio of the third segment would then be uploaded to YouTube by an unknown user on January 24th.[2] The first two skits have still only been heard through the phone recording used in the Premium Video.
+On January 18, 2024, the third segment would be played at ***Gulliver's Kingdom*** with custom programming from a digital rip of the showtape audio. This would then be posted online as the first major leak of the majority of the showtape.[1] This same audio of the third segment would then be uploaded to YouTube by an unknown user on January 24th.[2] The first two skits have still only been heard through the phone recording used in the Premium Video.
 
 ## Show List
 

@@ -5,6 +5,7 @@ from collections import defaultdict
 
 CONTENT_DIR = "content"
 OUT_DIR     = os.path.join(os.path.dirname(__file__), "..", "compiled-json/search")
+ID_MAP_FILE = os.path.join(OUT_DIR, "_id_map.json")
 EXCERPT_LEN = 150
 MIN_TRI_FREQ = 2
 
@@ -37,6 +38,16 @@ def trigrams(s):
 def extract_name(val):
     if isinstance(val, dict): return str(val.get('n','')).strip()
     return str(val).split('|',1)[0].strip()
+
+def load_id_map():
+    p = Path(ID_MAP_FILE)
+    if not p.exists(): return {}
+    try: return json.loads(p.read_text(encoding='utf-8'))
+    except Exception: return {}
+
+def save_id_map(id_map):
+    with open(ID_MAP_FILE, 'w', encoding='utf-8') as f:
+        json.dump(id_map, f, ensure_ascii=False, separators=(',', ':'))
 
 def mod_time(folder):
     times = [f.stat().st_mtime for f in (folder/'meta.json', folder/'content.md') if f.exists()]
@@ -87,13 +98,22 @@ def build():
             t = fm.get('title','')
             if t: photo_map[t] = folder.name
 
-    docs, tag_idx, tri_idx = [], defaultdict(list), defaultdict(list)
-    tag_canon = {}  
+    id_map = load_id_map()
+    next_id = (max(id_map.values()) + 1) if id_map else 0
 
-    doc_id = 0
+    docs_by_id, tag_idx, tri_idx = {}, defaultdict(list), defaultdict(list)
+    tag_canon = {}
+
     for folder in sorted(folders):
         fm, body, mt = read_article(folder)
         if fm is None: continue
+        name = folder.name
+        if name in id_map:
+            doc_id = id_map[name]
+        else:
+            doc_id = next_id
+            id_map[name] = doc_id
+            next_id += 1
         title = fm.get('title', folder.name)
         tp    = fm.get('type','')
         contribs = fm.get('contributors',[])
@@ -104,7 +124,7 @@ def build():
         if (tp or '').lower()!='photos':
             thumb = fm.get('pageThumbnailFile','')
             if thumb and thumb in photo_map: doc['img'] = photo_map[thumb]
-        docs.append(doc)
+        docs_by_id[doc_id] = doc
         seen_this_doc = set()
         for tag in extract_tags(fm) + extract_wiki_link_tags(body):
             key = tag.lower()
@@ -117,7 +137,17 @@ def build():
             ' '.join(str(v) for v in (fm.get('contributors') or [])),
             clean_body(body)])
         for tri in trigrams(fuzzy): tri_idx[tri].append(doc_id)
-        doc_id += 1
+
+    current_names = {f.name for f in folders}
+    id_map = {k: v for k, v in id_map.items() if k in current_names}
+    os.makedirs(OUT_DIR, exist_ok=True)
+    save_id_map(id_map)
+
+    max_id = max(docs_by_id.keys(), default=-1)
+    docs = [docs_by_id.get(i) for i in range(max_id + 1)]
+
+    for lst in tag_idx.values(): lst.sort()
+    for lst in tri_idx.values(): lst.sort()
 
     tri_idx = {k:v for k,v in tri_idx.items() if len(v)>=MIN_TRI_FREQ}
     shards  = defaultdict(dict)
