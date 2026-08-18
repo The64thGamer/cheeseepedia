@@ -79,22 +79,14 @@ function timeAgo(unixSeconds){
   return new Date(unixSeconds*1000).toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'});
 }
 
-/**
- * Renders a small meta bar showing last updated time and view count below the article title.
- * Appends into .ArticleMetaBar if present, otherwise inserts after #ArticleTitle.
- */
+
 export async function renderArticleMeta(app, articleId){
   const [docs, views] = await Promise.all([getSearchDocs(), getViews()]);
   const doc   = docs.find(d => d.p === articleId);
   const mt    = doc?.mt || 0;
   const count = views[articleId] ?? 0;
 
-  // Remove any existing bar first to prevent duplicates on re-render
-  app.querySelectorAll('.ArticleMetaBar').forEach(el => el.remove());
-
-  const bar = document.createElement('div');
-  bar.id = 'ArticleMetaBar';
-  bar.className = 'ArticleMetaBar';
+  const bar = app.querySelector('#ArticleMetaBar');
 
   if(mt){
     const updated = document.createElement('span');
@@ -109,7 +101,6 @@ export async function renderArticleMeta(app, articleId){
   bar.appendChild(viewEl);
 
   const header = app.querySelector('.ArticleHeader');
-  if(header) header.insertAdjacentElement('afterend', bar);
 }
 
 // ── Markdown renderer ─────────────────────────────────────────────────────────

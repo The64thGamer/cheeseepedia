@@ -221,8 +221,6 @@ export async function loadFolder(articleId) {
   const isNew = !(await pageExists(articleId));
   const folder = isNew ? randomId() : articleId;
 
-  // Read these before the URL is rewritten below, since ?tag= and ?type=
-  // are only meant to seed a brand new page and shouldn't stick around.
   const params = new URLSearchParams(location.search);
   const tagParam = params.get('tag');
   const typeParam = params.get('type');
@@ -238,9 +236,6 @@ export async function loadFolder(articleId) {
   currentFolder = folder;
   scratch = {};
   firstValidFile = null;
-  // There's no directory-listing endpoint, so any gallery images already
-  // saved on an existing page can't be auto-discovered here - only ones
-  // added this session (or restored via Reupload Edits below) are tracked.
   galleryFiles = [];
 
   await loadSuggestions();

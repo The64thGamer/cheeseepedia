@@ -7,13 +7,11 @@ import { renderQuickTags } from '/viewers/cep-js/js/QuickTags.js';
 import { renderSalesTab } from '/viewers/cep-js/js/Sales.js';
 import { renderInventoriesTab } from '/viewers/cep-js/js/InventoriesTab.js';
 import { renderArticleMeta } from '/viewers/cep-js/js/ArticleUtils.js';
-// ── Caches ────────────────────────────────────────────────────────────────────
 let LINKER = null, CONTRIBUTORS = null, RELATED = null;
 const getLinker = async () => LINKER ||= await fetch('/viewers/cep-js/compiled-json/ArticleLinker.json').then(r => r.ok ? r.json() : {}).catch(() => ({}));
 const getContribs = async () => CONTRIBUTORS ||= await fetch('/viewers/cep-js/compiled-json/contributors.json').then(r => r.json()).catch(() => []);
 const getRelated = async () => RELATED ||= await fetch('/viewers/cep-js/compiled-json/related.json').then(r => r.ok ? r.json() : {}).catch(() => ({}));
 
-// ── Date utils ────────────────────────────────────────────────────────────────
 const MNAMES = ['', 'Jan. ', 'Feb. ', 'Mar. ', 'Apr. ', 'May ', 'Jun. ', 'Jul. ', 'Aug. ', 'Sep. ', 'Oct. ', 'Nov. ', 'Dec.'];
 function fmtDate(d) {
   if (!d || d === '0000-00-00' || !d.trim()) return '???';
@@ -30,7 +28,6 @@ function fmtDateRange(s, e) {
 }
 const esc = s => s ? String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;') : '';
 
-// ── Tag extraction (mirrors build script extract_tags + extract_wiki_link_tags) ──
 const DICT_TAG_FIELDS = ['remodels', 'stages', 'animatronics', 'franchisees', 'attractions', 'credits'];
 const STRING_TAG_FIELDS = ['tags', 'pages', 'page'];
 function extractName(val) { return typeof val === 'object' && val !== null ? String(val.n || '').trim() : String(val).split('|')[0].trim(); }
@@ -63,7 +60,6 @@ function buildArticleTags(fm, md) {
 }
 
 
-// ── Markdown ──────────────────────────────────────────────────────────────────
 async function renderMarkdown(md) {
   if (!md) return '';
   const idx = await getLinker(), blocks = [];
@@ -104,7 +100,6 @@ async function renderMarkdown(md) {
   return html;
 }
 
-// ── Infobox ───────────────────────────────────────────────────────────────────
 function buildInfobox(meta, linker) {
   if (!meta) return '';
   const parts = [];
@@ -222,7 +217,6 @@ function parseLists(text, blocks) {
   return out.join('\n');
 }
 
-// ── Inventory section ─────────────────────────────────────────────────────────
 function renderInventorySection(meta, linker) {
   const wrap = document.createElement('div');
   wrap.className = 'InventoryWrap';
@@ -256,7 +250,6 @@ function renderInventorySection(meta, linker) {
   return wrap;
 }
 
-// ── Section config ────────────────────────────────────────────────────────────
 const SECTION_RENDERERS = {
   photos: doc => renderPhotoCard(doc),
   videos: doc => renderVideoCard(doc),
@@ -265,9 +258,7 @@ const SECTION_RENDERERS = {
 };
 const SECTION_LABELS = { photos: 'Gallery', videos: 'Videos', reviews: 'Reviews', transcriptions: 'Transcriptions' };
 
-// ── Main ──────────────────────────────────────────────────────────────────────
 export async function loadArticle(app, articleId, addTag) {
-  // Expose addTag globally so editor exit can restore the page
   window.__CEP_ADD_TAG = addTag;
   if (articleId) fetch(`/track?p=${encodeURIComponent(articleId)}`).catch(() => { });
   const body = app.querySelector('#ArticleBody');
@@ -333,7 +324,6 @@ export async function loadArticle(app, articleId, addTag) {
     }
   }
 
-  // Infobox
   const linker = await getLinker();
   const isPhoto = (meta.type || '').toLowerCase() === 'photos';
   const thumbFolder = isPhoto ? articleId : (meta.pageThumbnailFile ? linker[meta.pageThumbnailFile] : null);
@@ -345,7 +335,6 @@ export async function loadArticle(app, articleId, addTag) {
   }
   infobox.insertAdjacentHTML('beforeend', buildInfobox(meta, linker));
 
-  // Article body renderer
   async function showArticle() {
     showInbox(true);
     body.innerHTML = '';
@@ -367,7 +356,6 @@ export async function loadArticle(app, articleId, addTag) {
     }
   }
 
-  // Section buttons
   const related = await getRelated();
   const sections = related[articleId] || {};
   const hasAnySections = Object.values(sections).some(v => v?.length);
@@ -439,7 +427,7 @@ export async function loadArticle(app, articleId, addTag) {
     });
 
     const editBtn=document.createElement('button');
-    editBtn.className='PinButton';editBtn.textContent='Edit Page (Beta)';
+    editBtn.className='PinButton';editBtn.textContent='Edit Page';
     editBtn.addEventListener('click',()=>{
       const url=new URL(window.location.href);
       url.searchParams.set('v','cep-editor');
@@ -447,13 +435,28 @@ export async function loadArticle(app, articleId, addTag) {
     });
     btnBar.appendChild(editBtn);
 
+    const addReviewBtn=document.createElement('button');
+    addReviewBtn.className='PinButton';addReviewBtn.textContent='Add Review';
+    addReviewBtn.addEventListener('click',()=>{
+      const url=new URL(window.location.href);
+      url.searchParams.set('v','cep-editor');
+      url.searchParams.delete('');
+      url.searchParams.set('type','Review');
+      url.searchParams.set('tag',articleId);
+      window.location.href=url.toString();
+    });
+    btnBar.appendChild(addReviewBtn);
+
     if (articleBtn) setActive(articleBtn);
   }
 
   if (header) {
     header.querySelector('.PinButton[data-pin]')?.remove();
     const pinBtn = document.createElement('button');
-    pinBtn.className = 'PinButton'; pinBtn.textContent = '📌'; pinBtn.dataset.pin = '1';
+    pinBtn.className = 'PinButton'; 
+    pinBtn.textContent = '📌'; 
+    pinBtn.dataset.pin = '1';
+    pinBtn.id = "PinArticle"
     const pins = () => JSON.parse(localStorage.getItem('Pins') || '[]');
     const setPinned = pinned => { pinBtn.classList.toggle('PinButtonActive', pinned); pinBtn.title = pinned ? 'Unpin article' : 'Pin article'; };
     setPinned(pins().includes(articleId));
@@ -462,7 +465,7 @@ export async function loadArticle(app, articleId, addTag) {
       if (idx === -1) p.push(articleId); else p.splice(idx, 1);
       localStorage.setItem('Pins', JSON.stringify(p)); setPinned(idx === -1);
     });
-    header.appendChild(pinBtn);
+    btnBar.appendChild(pinBtn);
   }
 
   await showArticle();

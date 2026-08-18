@@ -1401,16 +1401,17 @@ sup a:hover {
 .ArticleTitle {
   font-family: var(--font-display);
   color: var(--primary);
-  margin-top: 0;
-  margin-bottom: 1.5rem;
+  margin-bottom:0em;
+  margin-top:0.25em;
   font-size: 1.75rem;
-  flex: 1;
 }
-
 
 .ArticleHeader {
   border-bottom: 0.25rem solid var(--dark);
   padding-bottom: .25rem;
+}
+
+.ArticleHeaderMeta{
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -1422,9 +1423,7 @@ sup a:hover {
   display: flex;
   gap: 1rem;
   font-size: 0.8rem;
-color: color-mix(in srgb, var(--text) 30%, transparent);
-  margin-bottom: 2rem;
-  margin-top: -2rem;
+  color: color-mix(in srgb, var(--text) 30%, transparent);
 }
 
 .PinButton {
@@ -1455,7 +1454,14 @@ color: color-mix(in srgb, var(--text) 30%, transparent);
   background: var(--primary);
 }
 
-/* ── User page header ─────────────────────────────────────────────────────── */
+#PinArticle{
+  background-color: var(--background);
+}
+
+#PinArticle:hover{
+  background-color: var(--primary);
+}
+
 .UserHeader {
   position: relative;
   overflow: hidden;
