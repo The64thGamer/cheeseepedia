@@ -1,0 +1,1 @@
+The Tux Chuck Walkaround in front of the stage at Parkersburg WV in February of 1996
