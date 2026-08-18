@@ -1,7 +1,17 @@
 {
   "title": "t78i900g0qy2omx2.avif",
   "type": "Photos",
-  "tags": ["San Jose, CA (370 S Winchester Blvd)"],
+  "tags": [
+    "San Jose, CA (370 S Winchester Blvd)",
+    "Astron Belt"
+  ],
   "startDate": "1984-02-01",
-  "citations": [""]
+  "citations": [],
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "contributors": [
+    "sudo-trans-pony"
+  ]
 }
