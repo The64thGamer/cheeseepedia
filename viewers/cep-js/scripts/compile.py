@@ -13,11 +13,12 @@ import buildMapPins
 import buildLocationInventoryLinker
 import buildRelated
 import buildParamHinter
-import 
+import buildYouTubePages
 
 def main():
     print("Start (CEP-JS)")
     discourseFetchNews.main()
+    buildYouTubePages.main()
     buildSearch.main()
     buildArticleLinker.main()
     buildCitationLinker.main()
