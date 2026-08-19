@@ -149,7 +149,8 @@
         "They call me The Bomb Thief, uh",
         "Originator of The Goongalar (really)",
         "Honey you mean Helpules",
-        "Rule 6: Don't touch Freddy."
+        "Rule 6: Don't touch Freddy.",
+        "Please shout out the contributors if you're doing research for a video!"
     ];
 
     const dateSpecificPhrases = {

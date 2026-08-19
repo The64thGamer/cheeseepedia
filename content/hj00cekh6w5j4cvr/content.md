@@ -1,10 +1,10 @@
-The ***Nellie of the Nile (Animatronic)*** was a never completed animatronic character set to be built by [Creative Engineering] in 1983 for the never fully built show [The Jungle Juke Band]
+The ***Hippo (Animatronic)***, officially known as Nellie (of the Nile) was an never completed animatronic character set to be built by [Creative Engineering] in 1983 for the never fully built show [The Jungle Juke Band] 
 
 # History
 
 In 1983 [Creative Engineering] advertised in that years brochure their "Shows now available for quick delivery".One of which was the [The Jungle Juke Band] which Nellie of the Nile was a part of. [1] She ended up being the only character that would have any sort of progress on her done.Judging by her size and instrument of choice and [Creative Engineering] 's other efforts of selling their unused [Rock-afire Explosion] animatronics, [6] she''s thought to have been planned as a partial retrofit of the [Fatz Geronimo (Animatronic)] notably with a diffrent headframe with longer mouth lever mounts,a very large mouth lever,and initially at least ear levers.It's believed from photos that her mouth lever was a modified [Uncle Klunk (Animatronic)] mouth lever with a longer bar where the plate attaches.Possibly explaining the exitance of the rare [longer 1 1/2 inch version](https://archive.org/details/rock-afire-explosion-uncle-klunk-mouth-lever-measurements/Uncle%20Klunk%20Mouth%20lever%20007.png) of the mouth lever.
 
-[Creative Engineering] artist Nancy would sculpt the character's mask, [2] notably removing the ear mech in favour of smaller static ears.This is as far the charcater (and presumably the rest of the show)ever got.
+[Creative Engineering] artist Nancy would sculpt the character's mask, [2] notably removing the ear mech in favour of smaller static ears.This is as far the charcater (and presumably the rest of the show)ever got. 
 
 A plug of this sclupt was sold on eBay in early 2025 for 1000$ [4] and was bough by "georgeebonilla" [3]
 

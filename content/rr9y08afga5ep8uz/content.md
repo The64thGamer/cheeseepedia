@@ -1,0 +1,1 @@
+A family celebrating a birthday party in front of the stage at Parkersburg WV in February of 1996

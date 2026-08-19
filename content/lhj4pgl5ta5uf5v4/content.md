@@ -1,0 +1,1 @@
+The Walkaround at Parkersburg WV in December of 1994.Acording to a former employee [3] the store got this Walkaround in 1994

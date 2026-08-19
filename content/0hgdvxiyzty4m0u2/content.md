@@ -1,0 +1,1 @@
+Jasper at Parkersburg WV with his Billy Bob guitar in December of 1994

@@ -1,0 +1,1 @@
+A father and daughter in front of stage left at Parkersburg WV in February of 1996

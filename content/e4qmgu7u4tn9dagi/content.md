@@ -1,0 +1,1 @@
+A Chuck E Live show being preformed at Parkersburg WV in Febrary of 1996 showing the walkaround part of center stage and stage right

@@ -1,0 +1,1 @@
+The arcade at at Parkersburg WV showing an orange and red double Whac-A-Munch unit in February of 1996

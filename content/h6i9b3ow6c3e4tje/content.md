@@ -1,0 +1,1 @@
+Center stage and stage left with a bit of stage right at Parkersburg WV in February of 1996

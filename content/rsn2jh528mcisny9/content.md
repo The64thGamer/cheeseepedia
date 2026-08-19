@@ -1,0 +1,1 @@
+Stage Left at Parkersburg WV in December of 1994
