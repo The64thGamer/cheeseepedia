@@ -8,29 +8,50 @@ OUT_DIR     = os.path.join(os.path.dirname(__file__), "..", "compiled-json")
 AVATAR_DIR  = os.path.join(OUT_DIR, "avatars")
 OUT_JSON    = os.path.join(OUT_DIR, "contributors.json")
 DISCOURSE   = "https://forum.cheeseepedia.org"
-HEADERS     = {'User-Agent': 'Mozilla/5.0'}
-safename    = lambda n: re.sub(r'[^\w\-.]', '_', n) + '.jpg'
-req         = lambda u: urllib.request.Request(u, headers=HEADERS)
-fetch       = lambda u: json.loads(urllib.request.urlopen(req(u), timeout=10).read())
-
-TIERS = [
-    (1000, 123),  # The Giant Rat That Makes All of the Rules
-    (750,  122),  # CEC Master
-    (500,  121),  # Phase IV
-    (300,  120),  # Super Chuck
-    (150,  119),  # Guest Star
-    (100,  118),  # Historian
-    (75,   117),  # Article Wizard
-    (50,   116),  # Wiki Wanderer
-    (25,   115),  # Store Tourist
-    (10,   114),  # Jumpscare Fodder
-    (5,    113),  # 5 Edits at Wiki
-    (2,    112),  # Toddler Zone
-    (1,    111),  # Haha, One!
-]
 
 API_KEY  = os.environ.get('DISCOURSE_API_KEY')
 API_USER = os.environ.get('DISCOURSE_API_USERNAME', 'system')
+
+HEADERS = {'User-Agent': 'Mozilla/5.0'}
+if API_KEY:
+    HEADERS['Api-Key'] = API_KEY
+    HEADERS['Api-Username'] = API_USER
+
+safename = lambda n: re.sub(r'[^\w\-.]', '_', n) + '.jpg'
+req      = lambda u: urllib.request.Request(u, headers=HEADERS)
+fetch    = lambda u: json.loads(urllib.request.urlopen(req(u), timeout=10).read())
+
+TIERS = [
+    (1000, 123),
+    (750,  122),
+    (500,  121),
+    (300,  120),
+    (150,  119),
+    (100,  118),
+    (75,   117),
+    (50,   116),
+    (25,   115),
+    (10,   114),
+    (5,    113),
+    (2,    112),
+    (1,    111),
+]
+
+
+def _get_with_retry(url, max_retries=6):
+    delay = 2
+    for attempt in range(1, max_retries + 1):
+        try:
+            return json.loads(urllib.request.urlopen(req(url), timeout=15).read())
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < max_retries:
+                retry_after = e.headers.get('Retry-After')
+                wait = float(retry_after) if retry_after else delay
+                print(f"    ! rate limited, waiting {wait:.0f}s (attempt {attempt}/{max_retries})...")
+                time.sleep(wait)
+                delay *= 2
+                continue
+            raise
 
 
 def get_discourse():
@@ -44,6 +65,27 @@ def get_discourse():
         if not data.get('meta', {}).get('load_more_directory_items'): break
         page += 1
     return users
+
+
+def get_admin_users():
+    if not API_KEY:
+        return None
+    all_users, page = [], 0
+    while True:
+        try:
+            batch = _get_with_retry(f"{DISCOURSE}/admin/users/list/active.json?page={page}")
+        except Exception as e:
+            print(f"  ! admin users list request failed on page {page}: {e}")
+            return None
+        if not batch:
+            break
+        all_users.extend(batch)
+        if len(batch) < 100:
+            break
+        page += 1
+        time.sleep(0.2)
+    return all_users
+
 
 def get_contribs():
     c = {}
@@ -61,6 +103,7 @@ def get_contribs():
             c[name]['articles'].append(folder.name)
     return c
 
+
 def dl_avatar(u):
     t = u.get('avatar_template')
     if not t: return
@@ -72,23 +115,18 @@ def dl_avatar(u):
     except Exception: pass
 
 
-# --- Badge awarding -----------------------------------------------------
-
 def get_owned_badge_ids(username):
-    """Return the set of badge IDs a user already has, via the endpoint that
-    returns a user's FULL badge list (not the 3-badge-limited activity one)."""
     try:
         data = fetch(f"{DISCOURSE}/user-badges/{urllib.parse.quote(username)}.json")
     except Exception as e:
         print(f"    ! could not fetch existing badges for {username}: {e}")
-        return None  # None = unknown, caller should skip to be safe
+        return None
 
     owned = set()
     for ub in data.get('user_badges', []):
         bid = ub.get('badge_id')
         if bid is not None:
             owned.add(bid)
-    # fallback in case the shape differs on this Discourse version
     if not owned:
         for b in data.get('badges', []):
             bid = b.get('id')
@@ -103,10 +141,7 @@ def grant_badge(username, badge_id):
         f"{DISCOURSE}/user_badges",
         data=body,
         method='POST',
-        headers={**HEADERS,
-                 'Api-Key': API_KEY,
-                 'Api-Username': API_USER,
-                 'Content-Type': 'application/x-www-form-urlencoded'},
+        headers={**HEADERS, 'Content-Type': 'application/x-www-form-urlencoded'},
     )
     with urllib.request.urlopen(r, timeout=10) as resp:
         return json.loads(resp.read())
@@ -129,7 +164,7 @@ def award_badges(out, dry_run=False):
 
         owned = get_owned_badge_ids(username)
         if owned is None:
-            continue  # couldn't check — skip rather than risk duplicate grants
+            continue
 
         missing = [(t, bid) for t, bid in owed if bid not in owned]
         if not missing:
@@ -144,7 +179,7 @@ def award_badges(out, dry_run=False):
                 print(f"  [{i}/{len(candidates)}] granted badge {bid} (>= {threshold}) to {username}")
                 granted_total += 1
                 owned.add(bid)
-                time.sleep(0.3)  # be polite to the forum
+                time.sleep(0.3)
             except urllib.error.HTTPError as ex:
                 print(f"    ! failed to grant badge {bid} to {username}: HTTP {ex.code} {ex.read()[:200]}")
             except Exception as ex:
@@ -159,8 +194,26 @@ def main():
     skip_badges = '--no-badges' in sys.argv
 
     os.makedirs(AVATAR_DIR, exist_ok=True)
-    print("Fetching Discourse..."); users = get_discourse()
-    print(f"  {len(users)} users")
+
+    print("Fetching Discourse users...")
+    users = get_admin_users()
+    if users is not None:
+        print(f"  {len(users)} users (live admin API)")
+        try:
+            directory_users = get_discourse()
+            pc_by_username = {u.get('username', '').lower(): u.get('post_count', 0)
+                               for u in directory_users if u.get('username')}
+            for u in users:
+                un = (u.get('username') or '').lower()
+                if un in pc_by_username:
+                    u['post_count'] = pc_by_username[un]
+        except Exception as e:
+            print(f"  ! could not enrich admin user list with post counts from directory: {e}")
+    else:
+        print("  no usable admin API key — falling back to public directory dump")
+        users = get_discourse()
+        print(f"  {len(users)} users")
+
     print("Scanning contributors..."); contribs = get_contribs()
     print(f"  {len(contribs)} contributors")
 

@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1982-11-26",
   "endDate": "1985-07-29",
-  
   "remodels": [],
   "stages": [
     {
@@ -12,19 +11,78 @@
       "e": "1985-07-29"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "Calibre Corporation",
+      "s": "1982-11-26",
+      "e": "1985-07-29"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
     "42.9032251",
     "-78.7841007"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "Caprino, Mariann. 'Restaurant Offers Computer Time as Part of Menu.' The Buffalo News, November 15, 1982. newspapers.com/article/the-buffalo-news-new-hartford-utica-pt/141183105",
+    "Bisco, Jim. 'Nightlife: One for the Kiddies.' The Buffalo News, December 3, 1982. newspapers.com/article/the-buffalo-news-one-for-the-kiddies/163128396",
+    "Caprino, Mariann. 'WNYers Like Pizza Topped with Fun.' The Buffalo News, April 22, 1984. newspapers.com/article/the-buffalo-news-cheektowaga/110758544",
+    "Schroeder, Richard. 'Chuck E. Cheese Shuts Area Outlet.' The Buffalo News, July 31, 1985. newspapers.com/article/the-buffalo-news/112258886",
+    "Schroeder, Richard. 'Chuck E. Cheese Lost Money Here.' The Buffalo News, August 2, 1985. newspapers.com/articles/the-buffalo-news-new-hartford-utica-pt/141183653"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "Oui8rvDiJ6ZbILlNDNaD.avif",
   "type": "Locations",
   "tags": [
-    "Pizza Time Theatre"
+    "Pizza Time Theatre",
+    "Balcony Stage"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1982-11-26",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1982-11-26",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1982-11-26",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1982-11-26",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1982-11-26",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1982-11-26",
+      "e": "1985-07-29"
+    }
   ]
 }

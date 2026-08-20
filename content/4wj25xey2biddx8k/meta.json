@@ -1,41 +1,145 @@
 {
-  "title": "Penfield / Rochester, NY (1614 Penfield Rd)",
+  "title": "Penfield, NY (1614 Penfield Rd)",
   "storeNumber": "",
   "startDate": "1982-03-17",
   "endDate": "1996-09-16",
-  
   "remodels": [],
   "stages": [
     {
       "n": "Balcony Stage",
       "s": "1982-03-17",
-      "e": "0000-00-00"
+      "e": "1989-00-00"
     },
     {
       "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1989-00-00",
+      "e": "1992-00-00"
     },
     {
       "n": "2-Stage",
       "s": "1992-00-00",
-      "e": "1996-09-00",
+      "e": "1996-09-16",
       "desc": "One of four 2-Stages installed in New York. One of the first 2-Stages installed."
     }
   ],
-  "franchisees": [],
-  "attractions": [],
+  "franchisees": [
+    {
+      "n": "Pizza Concepts, Inc.",
+      "s": "1982-03-17",
+      "e": "0000-00-00"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Chuck E. Cheese Roll",
+      "desc": "Currently owned by an unknown individual.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "43.13422202",
     "-77.49553443"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "Byczkowski, John J. 'New Mouse in Town: Fast-Growing Restaurant Chain Expanding Upstate.' Democrat and Chronicle, February 16, 1982. newspapers.com/article/democrat-and-chronicle/118716768",
+    "Smith, Andy. 'Pizza Theater: Newest Hot Spot for the Family.' Democrat and Chronicle, April 11, 1982. newspapers.com/article/democrat-and-chronicle/32520650",
+    "Smith, Andy. 'Pizza Theater: Newest Entertainment Spot for Youngsters.' Democrat and Chronicle, April 11, 1982. newspapers.com/article/democrat-and-chronicle/32426978",
+    "'Upgrading the Cheese.' Democrat and Chronicle, June 26, 1994. newspapers.com/article/democrat-and-chronicle/32410445",
+    "'Chuck E. Cheese Closes.' Democrat and Chronicle, September 17, 1996. newspapers.com/article/democrat-and-chronicle-chuck-e-cheese-p/152507793",
+    "'Down but Not Out.' Democrat and Chronicle, September 22, 1996. newspapers.com/article/democrat-and-chronicle/32410445"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
-    "Pizza Time Theatre"
+    "Pizza Time Theatre",
+    "Chuck E. Cheese",
+    "Balcony Stage",
+    "Chuck E.'s House Facade",
+    "2-Stage"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
+      "l": "",
+      "s": "1982-03-17",
+      "e": "1996-09-16"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
+      "l": "",
+      "s": "1982-03-17",
+      "e": "1996-09-16"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
+      "l": "",
+      "s": "1982-03-17",
+      "e": "1996-09-16"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
+      "l": "",
+      "s": "1982-03-17",
+      "e": "1996-09-16"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
+      "l": "",
+      "s": "1982-03-17",
+      "e": "1996-09-16"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade.",
+      "l": "",
+      "s": "1982-03-17",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "desc": "",
+      "l": "",
+      "s": "1982-03-17",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "John / Woodie Bowzer (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "1996-09-16"
+    },
+    {
+      "n": "Paul (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "1996-09-16"
+    },
+    {
+      "n": "George (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "1996-09-16"
+    },
+    {
+      "n": "Ringo (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "1996-09-16"
+    }
   ]
 }
