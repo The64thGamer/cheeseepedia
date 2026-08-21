@@ -83,7 +83,7 @@ export async function loadNewsCards(app) {
   const cardHtml = cardTemplateRes.ok ? await cardTemplateRes.text() : '';
   const allDocs  = docsRes.ok         ? await docsRes.json()         : [];
   // Build lookup map by page id for fast enrichment
-  const docMap = Object.fromEntries(allDocs.map(d => [d.p, d]));
+  const docMap = Object.fromEntries(allDocs.filter(Boolean).map(d => [d.p, d]));
 
   // Enrich a stats item {p,t,m} with full doc fields for card renderers
   const enrich = item => {

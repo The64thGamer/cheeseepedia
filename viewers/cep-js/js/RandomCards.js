@@ -9,10 +9,11 @@ export async function loadRandomCards(app) {
   const docs = await fetch('/viewers/cep-js/compiled-json/search/docs.json')
     .then(r=>r.json()).catch(()=>[]);
 
-  const pool = docs.filter(d =>
+    const pool = docs.filter(d =>
+    d &&
     d.e && d.e.trim() &&
     !EXCLUDE_TYPES.has((d.tp||'').toLowerCase())
-  );
+    );
 
   if (!pool.length) return;
 
