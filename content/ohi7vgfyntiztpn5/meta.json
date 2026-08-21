@@ -1,9 +1,8 @@
 {
-  "title": "Syracuse (Mattydale), NY (2803 Brewerton Rd)",
+  "title": "Mattydale, NY (2803 Brewerton Rd)",
   "storeNumber": "",
   "startDate": "1982-08-00",
   "endDate": "1996-11-00",
-  
   "remodels": [],
   "stages": [
     {
@@ -30,7 +29,9 @@
     "-76.1468624"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",

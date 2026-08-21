@@ -2,14 +2,13 @@
   "title": "Schenectady, NY (2330 Watt St)",
   "storeNumber": "",
   "startDate": "1983-06-00",
-  "endDate": "1985-07-00",
-  
+  "endDate": "1985-07-29",
   "remodels": [],
   "stages": [
     {
       "n": "Balcony Stage",
       "s": "1983-06-00",
-      "e": "1985-07-00"
+      "e": "1985-07-29"
     }
   ],
   "franchisees": [],
@@ -20,11 +19,66 @@
     "-73.9184603"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
-    "Pizza Time Theatre"
+    "Pizza Time Theatre",
+    "Balcony Stage",
+    "Schenectady, NY (2330 Watt St)"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-07-29"
+    }
   ]
 }

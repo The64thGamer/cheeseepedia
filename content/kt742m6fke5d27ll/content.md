@@ -1,4 +1,4 @@
-The ***Chet Faddikins (Animatronic)*** was an animatronic character built by [Creative Engineering] for the [Bear Country Jubilee] which was sold to Morey's Piers and Americana Amusement Park. He is most likely a parody of country rock guitarist, Chet Atkins.
+The ***Chet Fattykins (Animatronic)*** was an animatronic character built by [Creative Engineering] for the [Bear Country Jubilee] which was sold to Morey's Piers and Americana Amusement Park. He is most likely a parody of country rock guitarist, Chet Atkins.
 
 ## History
 

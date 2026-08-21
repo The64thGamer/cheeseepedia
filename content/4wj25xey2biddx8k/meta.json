@@ -8,12 +8,14 @@
     {
       "n": "Balcony Stage",
       "s": "1982-03-17",
-      "e": "1989-00-00"
+      "e": "1989-00-00",
+      "desc": "Opened with the [Harmony Howlette II (Balcony Stage Theme)]"
     },
     {
       "n": "Chuck E.'s House Facade",
       "s": "1989-00-00",
-      "e": "1992-00-00"
+      "e": "1992-00-00",
+      "desc": "Did not receive a porch or the [Singing Flowers (Cyberamic)]"
     },
     {
       "n": "2-Stage",
@@ -32,7 +34,7 @@
   "attractions": [
     {
       "n": "Chuck E. Cheese Roll",
-      "desc": "Currently owned by an unknown individual.",
+      "desc": "Auctioned off on ebay,currently owned by an unknown individual.",
       "s": "0000-00-00",
       "e": "0000-00-00"
     }
@@ -43,15 +45,16 @@
     "-77.49553443"
   ],
   "citations": [
-    "Byczkowski, John J. 'New Mouse in Town: Fast-Growing Restaurant Chain Expanding Upstate.' Democrat and Chronicle, February 16, 1982. newspapers.com/article/democrat-and-chronicle/118716768",
-    "Smith, Andy. 'Pizza Theater: Newest Hot Spot for the Family.' Democrat and Chronicle, April 11, 1982. newspapers.com/article/democrat-and-chronicle/32520650",
-    "Smith, Andy. 'Pizza Theater: Newest Entertainment Spot for Youngsters.' Democrat and Chronicle, April 11, 1982. newspapers.com/article/democrat-and-chronicle/32426978",
-    "'Upgrading the Cheese.' Democrat and Chronicle, June 26, 1994. newspapers.com/article/democrat-and-chronicle/32410445",
-    "'Chuck E. Cheese Closes.' Democrat and Chronicle, September 17, 1996. newspapers.com/article/democrat-and-chronicle-chuck-e-cheese-p/152507793",
-    "'Down but Not Out.' Democrat and Chronicle, September 22, 1996. newspapers.com/article/democrat-and-chronicle/32410445"
+    "https://www.newspapers.com/article/democrat-and-chronicle/118716768/",
+    "https://www.newspapers.com/article/democrat-and-chronicle/32520650/",
+    "https://www.newspapers.com/article/democrat-and-chronicle/32426978/",
+    "https://www.newspapers.com/article/democrat-and-chronicle/32410445/",
+    "https://www.newspapers.com/article/democrat-and-chronicle-chuck-e-cheese-p/152507793/",
+    "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes2-4.pdf"
   ],
   "contributors": [
-    "ThatRockHistorian76"
+    "ThatRockHistorian76",
+    "TutorialTimeYt"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
@@ -101,45 +104,52 @@
     },
     {
       "n": "Warblettes (Cyberamic)",
-      "desc": "Removed upon installation of Chuck E.'s House Facade.",
+      "desc": "Removed upon installation of Chuck E.'s House Facade.Current whereabouts unknown",
       "l": "",
       "s": "1982-03-17",
       "e": "1989-00-00"
     },
     {
       "n": "The King / King Kat (Lounge)",
-      "desc": "",
+      "desc": "Unknown",
       "l": "",
       "s": "1982-03-17",
       "e": "0000-00-00"
     },
     {
       "n": "John / Woodie Bowzer (Cyberamic)",
-      "desc": "",
+      "desc": "Unknown",
       "l": "",
       "s": "0000-00-00",
       "e": "1996-09-16"
     },
     {
       "n": "Paul (Cyberamic)",
-      "desc": "",
+      "desc": "Unknown",
       "l": "",
       "s": "0000-00-00",
       "e": "1996-09-16"
     },
     {
       "n": "George (Cyberamic)",
-      "desc": "",
+      "desc": "Unknown",
       "l": "",
       "s": "0000-00-00",
       "e": "1996-09-16"
     },
     {
       "n": "Ringo (Cyberamic)",
-      "desc": "",
+      "desc": "Unknown",
       "l": "",
       "s": "0000-00-00",
       "e": "1996-09-16"
+    },
+    {
+      "n": "Band Board (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade.Current whereabouts unknown",
+      "l": "",
+      "s": "1982-00-00",
+      "e": "1989-00-00"
     }
   ]
 }

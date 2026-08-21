@@ -1,9 +1,8 @@
 {
-  "title": "Greece / Rochester, NY (3160 W Ridge Rd)",
+  "title": "Greece, NY (3160 W Ridge Rd)",
   "storeNumber": "",
   "startDate": "1983-03-15",
   "endDate": "1996-11-00",
-  
   "remodels": [],
   "stages": [
     {
@@ -29,12 +28,71 @@
     "43.21057997",
     "-77.71419658"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "'You Old Houn' Dog.' Democrat and Chronicle, December 22, 1996. newspapers.com/article/democrat-and-chronicle-greece-rocheste/67716363"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
-  "pageThumbnailFile": "",
+  "pageThumbnailFile": "PTT Greece, NY.avif",
   "type": "Locations",
   "tags": [
-    "Pizza Time Theatre"
+    "Pizza Time Theatre",
+    "Chuck E. Cheese's",
+    "Balcony Stage",
+    "2-Stage",
+    "Greece, NY (3160 W Ridge Rd)"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-03-15",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-03-15",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-03-15",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-03-15",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-03-15",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade.",
+      "l": "",
+      "s": "1983-03-15",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "desc": "",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
   ]
 }

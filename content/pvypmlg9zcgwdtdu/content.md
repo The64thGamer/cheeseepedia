@@ -1,0 +1,1 @@
+The Pasqually, Mr. Munch, and Chuck E. Cheese walkarounds at [Penfield, NY (1614 Penfield Rd)].

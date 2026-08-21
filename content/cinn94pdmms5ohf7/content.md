@@ -1,0 +1,1 @@
+Parkersburg WV's exterior with their checkerless SPT remodel exterior and an odd chuck sign in December of 1994

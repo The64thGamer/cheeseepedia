@@ -1,0 +1,1 @@
+***Schenectady, NY (2330 Watt St)*** was a Chuck E. Cheese's Pizza Time Theatre that opened in June 1983 with a Balcony Stage and closed on July 29, 1985, with a Balcony Stage.

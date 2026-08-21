@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1983-03-15",
   "endDate": "1988-00-00",
-  
   "remodels": [],
   "stages": [
     {
@@ -12,19 +11,107 @@
       "e": "1988-00-00"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "Family Restaurant Concepts, Inc.",
+      "s": "1983-03-15",
+      "e": "0000-00-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
     "42.9970045",
     "-78.8213181"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "'Showbiz Pizza Place to Open in Amherst.' The Buffalo News, March 14, 1983. newspapers.com/article/the-buffalo-news-amherst-is-march-15th/110759056",
+    "'Now You Can Have Your Own Personal Conversation with Billy Bob.' The Buffalo News, March 15, 1985. newspapers.com/article/the-buffalo-news-talking-billy-bob/164192980",
+    "'Showbiz Welcomes Former Chuck E. Cheese Fans.' The Buffalo News, August 2, 1985. newspapers.com/article/the-buffalo-news/149344838",
+    "'Managers: Major Magic's All-Star Pizza Revue (Formerly Showbiz Pizza Place).' The Buffalo News, February 28, 1988. newspapers.com/article/the-buffalo-news-amherst-and-west-seneca/110850841",
+    "https://www.facebook.com/majormagic/videos/heres-major-magics-in-amherst-ny-1990/10153269829364841/"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
-  "pageThumbnailFile": "",
+  "pageThumbnailFile": "Showbiz Pizza Place Amherst NY 1984-85.avif",
   "type": "Locations",
   "tags": [
-    "ShowBiz Pizza Place"
+    "ShowBiz Pizza Place",
+    "Classic Stage",
+    "Major Magic's All-Star Pizza Revue"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "desc": "",
+      "l": "7-82 1-23",
+      "s": "1983-03-15",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "desc": "",
+      "l": "7-82 2-23",
+      "s": "1983-03-15",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "desc": "",
+      "l": "7-82 3-23",
+      "s": "1983-03-15",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "desc": "",
+      "l": "7-82 4-23",
+      "s": "1983-03-15",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "desc": "",
+      "l": "7-82 5-23",
+      "s": "1983-03-15",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "desc": "",
+      "l": "7-82 6-23",
+      "s": "1983-03-15",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "desc": "",
+      "l": "7-82 7-23",
+      "s": "1983-03-15",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "desc": "",
+      "l": "7-82 8-23",
+      "s": "1983-03-15",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "desc": "",
+      "l": "7-82 10-23",
+      "s": "1983-03-15",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "desc": "",
+      "l": "7-82 11-23",
+      "s": "1983-03-15",
+      "e": "1988-00-00"
+    }
   ]
 }

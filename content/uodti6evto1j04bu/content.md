@@ -1,1 +1,0 @@
-Mitsuru Sugaya at Winchester.

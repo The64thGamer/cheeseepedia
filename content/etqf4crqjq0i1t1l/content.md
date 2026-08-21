@@ -1,0 +1,1 @@
+The top half of Mr. Marvelous's early Mijjin mech showing his articulated hands.This could indicate he's the same bot as the Mijjin Prototype as production of Mijjins with hands had long stopped by 1994

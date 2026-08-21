@@ -1,0 +1,1 @@
+The Mr. Munch, Chuck E. Cheese, and Jasper T. Jowls walkarounds at [Penfield, NY (1614 Penfield Rd)].

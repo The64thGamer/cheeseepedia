@@ -2,7 +2,11 @@
   "title": "Choo Choo (Animatronic)",
   "type": "Animatronics",
   "tags": [
-    "ShowBiz Pizza Place"
+    "ShowBiz Pizza Place",
+    "Rock-afire Explosion",
+    "Creative Engineering",
+    "Animatronics",
+    "Choo Choo (Animatronic)"
   ],
   "startDate": "1980-00-00",
   "endDate": "0000-00-00",
@@ -13,9 +17,22 @@
     "Anonymous",
     "Yes-?!214",
     "sudo trans --pony",
-    "CECMentor"
+    "CECMentor",
+    "TutorialTimeYt"
   ],
-  "citations": [],
+  "citations": [
+    "https://archive.org/details/1980-jax-rae-scans/32EC76B4-2D54-4B77-87CE-923DC984F96D.jpeg",
+    "https://archive.org/details/1981-rock-afire-postcard",
+    "https://archive.org/details/concept-unification-installation-manual/page/32/mode/2up",
+    "https://archive.org/details/concept-unification-installation-manual/page/45/mode/2up",
+    "https://archive.org/details/rock-afire-explosion-service-manual/page/n23/mode/2up",
+    "https://youtu.be/A0XizuR8_uQ?si=p-Aj8VMa9be-8BkL&t=117",
+    "https://www.instagram.com/grizzlymountainbear/p/CpAU7FiIf64/"
+  ],
   "manufacturer": "Creative Engineering",
-  "pageThumbnailFile": "t3obLf8UDosMfUiKz6If.avif"
+  "pageThumbnailFile": "t3obLf8UDosMfUiKz6If.avif",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

@@ -1,0 +1,1 @@
+Local article on Penfield NY shortly after opening
