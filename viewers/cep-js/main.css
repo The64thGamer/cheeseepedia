@@ -1757,34 +1757,6 @@ sup a:hover {
 .ProseMirror{
   color:var(--text);
 }
-/* ── Editor bottom bar ────────────────────────────────────────────────────── */
-.EditorBar {
-  position: fixed;
-  bottom: 1rem;
-  right: 1rem;
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-  z-index: 9000;
-  flex-direction: row-reverse;
-}
-
-.EditorBarBtn {
-  padding: 0.4rem 0.75rem;
-  border-radius: 0.5rem;
-  border: 0.125rem solid var(--dark);
-  cursor: pointer;
-  font-size: 0.9rem;
-  background: var(--secondary);
-  color: var(--text);
-  transition: background 0.15s;
-  white-space: nowrap;
-}
-.EditorBarBtn:hover   { background: var(--primary); }
-.EditorBarBtn:disabled{ opacity: 0.45; cursor: default; }
-
-.EditorToggleBtn { font-size: 1.1rem; padding: 0.4rem 0.6rem; }
-.EditorSaveBtn   { background: var(--primary); font-weight: bold; }
 
 .SettingsColorPicker,.SettingsSelect{
   margin-left: 1rem;

@@ -9,13 +9,13 @@
       "n": "Balcony Stage",
       "s": "1982-03-17",
       "e": "1989-00-00",
-      "desc": "Opened with the [Harmony Howlette II (Balcony Stage Theme)]"
+      "desc": "Opened with the [Harmony Howlette II (Balcony Stage Theme)]."
     },
     {
       "n": "Chuck E.'s House Facade",
       "s": "1989-00-00",
       "e": "1992-00-00",
-      "desc": "Did not receive a porch or the [Singing Flowers (Cyberamic)]"
+      "desc": "Did not receive a porch or the [Singing Flowers (Cyberamic)]."
     },
     {
       "n": "2-Stage",
@@ -34,7 +34,7 @@
   "attractions": [
     {
       "n": "Chuck E. Cheese Roll",
-      "desc": "Auctioned off on ebay,currently owned by an unknown individual.",
+      "desc": "Auctioned off on eBay, currently owned by an unknown individual.",
       "s": "0000-00-00",
       "e": "0000-00-00"
     }
@@ -104,7 +104,7 @@
     },
     {
       "n": "Warblettes (Cyberamic)",
-      "desc": "Removed upon installation of Chuck E.'s House Facade.Current whereabouts unknown",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
       "l": "",
       "s": "1982-03-17",
       "e": "1989-00-00"
@@ -146,9 +146,16 @@
     },
     {
       "n": "Band Board (Cyberamic)",
-      "desc": "Removed upon installation of Chuck E.'s House Facade.Current whereabouts unknown",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
       "l": "",
-      "s": "1982-00-00",
+      "s": "1982-03-17",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1982-03-17",
       "e": "1989-00-00"
     }
   ]

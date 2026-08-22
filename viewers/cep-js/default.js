@@ -110,12 +110,8 @@ export async function render(params, app) {
   loadSplashText(app);
   window.dispatchEvent(new CustomEvent('cep-render-done', { detail: { app } }));
 
-  const { initEditor } = await import('./js/Editor.js');
   let articleContent = '';
   if (articleId) {
     try { const r = await fetch(`/content/${articleId}/content.md`); if (r.ok) articleContent = await r.text(); } catch {}
   }
-  initEditor(app, articleId || null,
-    articleType ? await fetch(`/content/${articleId}/meta.json`).then(r=>r.ok?r.json():{}).catch(()=>({})) : {},
-    articleContent, isNewArticle);
 }
