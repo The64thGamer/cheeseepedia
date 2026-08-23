@@ -20,6 +20,10 @@
     {
       "n": "Connie Nelson",
       "role": "Voice of Helen Henny"
+    },
+    {
+      "role": "Programmer",
+      "n": "Joe Conti"
     }
   ],
   "citations": [
@@ -28,5 +32,12 @@
   "type": "Showtapes",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "showtapeFormats": [
+    "Cyberamics Reel"
   ]
 }

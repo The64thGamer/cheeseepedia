@@ -1,0 +1,1 @@
+Panchito's outfit being adjusted.

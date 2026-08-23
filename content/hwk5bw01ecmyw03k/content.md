@@ -91,7 +91,7 @@ After the [Awesome Adventure Machine] concept failed, the one animatronic show c
 | [Spokane, WA (10007 N Nevada St)]                  | 075 | 2199        |
 | [Jonesboro, GA (335 Upper Riverdale Rd)]           | 077 | 2199        |
 | Batavia, IL (511 N Randall Rd)                                       | 078 | 2199        |
-| [Rochester, NY (1000 Hylan Dr)]                    | 084 | 2199        |
+| [Henrietta, NY (1000 Hylan Dr)]                    | 084 | 2199        |
 | [Buffalo, NY (4408 Milestrip Rd)]                  | 085 | 2199        |
 | [Norfolk, VA (920 N Military Hwy)]                 | 087 | 4599        |
 | Norcross, GA (5019 Jimmy Carter Blvd)                                | 088 | 4599        |

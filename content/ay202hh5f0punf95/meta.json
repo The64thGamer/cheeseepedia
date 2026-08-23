@@ -9,9 +9,12 @@
   "endDate": "2002-11-00",
   "contributors": [
     "sudo trans --pony",
-    "Ceclife13"
+    "Ceclife13",
+    "Alemir19"
   ],
-  "citations": [],
+  "citations": [
+    "https://youtu.be/MueJ7oZR0IQ?si=-tS2_tQMOefsah98"
+  ],
   "credits": [
     "Duncan Brannan - Voice of Chuck E. Cheese",
     "Stephanie Nadolny - Voice of Helen Henny",
@@ -24,5 +27,9 @@
     "C&R SVHS (Post-93)",
     "3-Stage SVHS (Post-93)"
   ],
-  "downloadLinks": []
+  "downloadLinks": [],
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

@@ -3,17 +3,27 @@
   "storeNumber": "",
   "startDate": "1983-04-26",
   "endDate": "1996-02-00",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1989-00-00"
+    }
+  ],
   "stages": [
     {
       "n": "Balcony Stage",
       "s": "1983-04-26",
-      "e": "0000-00-00"
+      "e": "1989-00-00"
     },
     {
       "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
+      "s": "1989-00-00",
+      "e": "1994-00-00"
+    },
+    {
+      "n": "???",
+      "desc": "",
+      "s": "1994-00-00",
       "e": "1996-02-00"
     }
   ],
@@ -24,12 +34,74 @@
     "34.41982052",
     "-118.5443682"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "https://www.newspapers.com/article/the-signal-valencia-ptt-opened-on-april/160200086/",
+    "https://preview.redd.it/all-of-the-cec-locations-that-were-once-pizza-time-theater-v0-msgi7x0kzbqe1.jpg?width=960&format=pjpg&auto=webp&s=695ace52fbd5de627e148eaeafa230def8c23e2c",
+    "https://docs.google.com/presentation/d/1NTBso9y9dMToFtRnSVSZFp22-CtRTphwU0tBmYrcJYU/edit?slide=id.g2e82a97b357_0_155#slide=id.g2e82a97b357_0_155",
+    "https://www.newspapers.com/article/the-los-angeles-times-valencia-ptt-aucti/32794718/",
+    "https://www.newspapers.com/article/the-signal-valencia-c-stage/32796075/",
+    "https://www.youtube.com/watch?v=CZb7Wn6hmEQ",
+    "https://www.yelp.com/biz/hometown-buffet-santa-clarita",
+    "https://www.facebook.com/DressOnADime/"
+  ],
+  "contributors": [
+    "HeyItzGabriel"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Unknown",
+      "l": "N/A",
+      "s": "1983-04-26",
+      "e": "1996-02-00"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Unknown",
+      "l": "N/A",
+      "s": "1983-04-26",
+      "e": "1996-02-00"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Unknown",
+      "l": "N/A",
+      "s": "1983-04-26",
+      "e": "1996-02-00"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Unknown",
+      "l": "N/A",
+      "s": "1983-04-26",
+      "e": "1996-02-00"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Unknown",
+      "l": "N/A",
+      "s": "1983-04-26",
+      "e": "1996-02-00"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Unknown",
+      "l": "N/A",
+      "s": "1983-04-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "desc": "Unknown",
+      "l": "N/A",
+      "s": "1983-04-26",
+      "e": "0000-00-00"
+    }
   ]
 }

@@ -1,14 +1,20 @@
 {
-  "title": "Rochester, NY (1000 Hylan Dr)",
+  "title": "Henrietta, NY (1000 Hylan Dr)",
   "storeNumber": "",
   "startDate": "2001-06-30",
-  "endDate": "",
-  
-  "remodels": [],
+  "endDate": "2020-06-25",
+  "remodels": [
+    {
+      "n": "Phase 3 (2000)",
+      "s": "2001-06-30"
+    }
+  ],
   "stages": [
     {
       "n": "Studio C Alpha",
-      "s": "2001-06-30"
+      "s": "2001-06-30",
+      "e": "2020-06-25",
+      "desc": "32-movement bot."
     }
   ],
   "franchisees": [],
@@ -19,11 +25,24 @@
     "-77.63033008"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
-    "Chuck E. Cheese's"
+    "Chuck E. Cheese's",
+    "Henrietta, NY (1000 Hylan Drive)",
+    "Studio C Alpha"
+  ],
+  "animatronics": [
+    {
+      "n": "(Chuck E. Cheese 32m (Animatronic)",
+      "desc": "",
+      "l": "084",
+      "s": "2001-06-30",
+      "e": "2020-06-25"
+    }
   ]
 }

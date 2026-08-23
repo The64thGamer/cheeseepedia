@@ -1,0 +1,1 @@
+The [Mickey Mouse Revue] being programmed before the opening of Walt Disney World.

@@ -1,0 +1,1 @@
+The exterior of [Henrietta, NY (1000 Hylan Dr)].

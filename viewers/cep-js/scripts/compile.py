@@ -14,11 +14,13 @@ import buildLocationInventoryLinker
 import buildRelated
 import buildParamHinter
 import buildYouTubePages
+import buildLowPhotos
 
 def main():
     print("Start (CEP-JS)")
     discourseFetchNews.main()
     buildYouTubePages.main()
+    buildLowPhotos.main()
     buildSearch.main()
     buildArticleLinker.main()
     buildCitationLinker.main()
