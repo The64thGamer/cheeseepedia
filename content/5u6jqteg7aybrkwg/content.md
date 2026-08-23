@@ -1,0 +1,1 @@
+Footage of the Penfield, NY Chuck E Cheese's Pizza Time Theater showing part of the arcade and the Beach Bowzers playing segment 2 and 3 of the Beach Bowzers Cabaret Tape

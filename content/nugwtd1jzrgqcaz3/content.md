@@ -1,0 +1,1 @@
+The C stage at the Penfield, NY Chuck E. Cheese's Pizza Time Theatre playing segment 3 of the CEC Future Showtape

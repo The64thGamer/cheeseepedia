@@ -2,23 +2,32 @@ The ***Mijjin Prototype (Mijjin)*** was an animatronic character built by [Creat
 
 ## History
 
-In the early 90's [Creative Engineering] was in a dire state.Togheter with them spiltting off from Showbiz Pizza Time.Inc,their attempts to sell of their 80 spare Rock-afire Explosion shows mostly failing,and their other failed ventures made the company start a new initiative to reinvent [2] their flagship show [The Rock-afire Explosion](https://cheeseepedia.org/?v=cep-js&amp;=w4vtcv03ctirl55h) .
+In the early 90's [Creative Engineering] was in a dire state.Togheter with them splitting off from Showbiz Pizza Time.Inc,their attempts to sell of their 80 spare Rock-afire Explosion shows mostly failing,and their other failed ventures made the company start a new initiative to reinvent [2] their flagship show [The Rock-afire Explosion](https://cheeseepedia.org/?v=cep-js&=w4vtcv03ctirl55h) .
 
-Around 1991 [Creative Engineering] employee Charles Lanusse,who had previosly worked for another animatronic company called Minimation,used his knowledge from working there to create a new style of animatronic inspired by Minimation's smaller bots,which [Aaron Fechter](https://en.wikipedia.org/wiki/Aaron_Fechter) would be nicknamed [Mijjins] .The Mijjin Prototype would be the first of these characters,built in march of 1991. [1]
+Around 1991 [Creative Engineering] employee Charles Lanusse,who had previously worked for another animatronic company called Minimation,used his knowledge from working there to create a new style of animatronic inspired by Minimation's smaller bots,which [Aaron Fechter](https://en.wikipedia.org/wiki/Aaron_Fechter) would nickname [Mijjins] .The Mijjin Prototype would be the first of these characters,built in march of 1991. [1]
+The bot resembles a middle aged man with a mustache.The played the [Mijjin Prototype Showtape] which was solely made up of lip syncing to the song [How To Dance by the Bingoboys](https://www.youtube.com/watch?v=s5wLPr_XYos&list=RDs5wLPr_XYos&start_radio=1)
 
-It's unknown what happened to the bot after his initial tests.
+Sometime in late 1991-early 1992 around the time [The Mijjins] was being built,the bot was given a few new cosmetics,such as a new mask that would also be used on [Mijjin #5] and the [Max (Mijjin)] .His original overall starps were also removed. [5] The showtape used by the bot was also reprogrammed.The audio stayed the same. 
 
-## Design
+It's unknown exactly what happened to the bot after these initial tests,but since it was one of the only two known Mijjins to get finger mech along with the [Mijjinator (Mijjin)] ,and knowing the Mijjinator was dismantled there's a very high chance the headless Mijjin mech that currently resides at Randyland IS the Prototype Mijjin. [6] If this is the case the bot is currently missing it's original head,valves,most of the tubing, and right thumb,It's original hip,thigh and upper knee joints were also replaced at some point with standard Mijjin parts
+
+## Designs
+
+### ***1991***
 
 The character seems to be a middle aged man with long curly blonde hair,a sharp upwards pointing nose,a cleft chin,very large ears,brown eyebrows,and a brown mustache made of painted on or sculpted on lines.His eye color appears to be brown but the quality of the video makes it hard to tell for certain.His outfit is made up of a plain white collared open-front long sleeve shirt,blue and black striped overalls with straps that use the same fabric [3] as the later version of the shorts [4] used on the [Beach Bear (Animatronic)] and a pair of white sneakers.His hands do not have any cosmetics on.
 
+### ***1992***
+
+He shares the same mask sculpt as [Mijjin #5] and the [Max (Mijjin)] with a very defined chin and jawline His eye color appears to be brown but the quality of the video makes it hard to tell for certain.His outfit is made up of a plain white collared open-front long sleeve shirt,blue and black striped overalls and a pair of white sneakers.His hands do not have any cosmetics on.
+
 ## Mechanical Difference
 
-Compared to the later [Mijjins] not much is known about this character's mech,though it's likely similar to the mechs of the bots from the show [The Mijjins] .The most notable difference visible from the outside is the character's hand mech,with him having poseable fingers,being only one of 2 Mijjin bots to have this feature,with the only other being The [Mijjinator (Mijjin)]
+The Mijjin Prototype's mech is relatively similar to the standard Mijjin mechs sharing most if not all the molded parts.with some of the Major differences being the resin parts being made out of a brown prototyping resin [Creative Engineering] used on many early Mijjins,with a few exceptions such as the joints on the knees and thighs which seem to have been replaced with standard Mijjin parts at some point.The universal joint is also a casted resin part instead of the steal joint on the final bots.The most notable difference is the addition of a 4 fingered hand mech.This bot was one of only 2 Mijjins with any kind of mech in the fingers and the only to use the brown resin,as the [Mijjinator (Mijjin)] used a clear pink plastic instead.The bot also uses **Chicago Cylinder Corp** and **Fabco Air Inc.** cylinders,instead the standard **Creative Engineering** and **Fabco Air Inc.** branded cylinders used on standard Mijjins [6]
 
 ## Movements
 
-The bot appears to have 26 movements [1] ,his eye and eyelid movements are controlled by servos.It's unknown what control system the bot used.
+The bot appears to have 35 movements [1] ,his eye and eyelid movements are controlled by servos.It's unknown what control system the bot used.
 
 | Movements |
 | --------- |
@@ -48,3 +57,11 @@ The bot appears to have 26 movements [1] ,his eye and eyelid movements are contr
 | Eyes Up |
 | Lids Close |
 | Lids Open |
+| Left Thumb |
+| Left Index Finger |
+| Left Middle Finger |
+| Left Pinky Finger |
+| Right Thumb |
+| Right Index Finger |
+| Right Middle Finger |
+| Right Pinky Finger |

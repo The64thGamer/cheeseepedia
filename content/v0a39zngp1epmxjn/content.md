@@ -1,4 +1,4 @@
-The ***Country Bear Jamboree*** is an elaborate Audio-Animatronic show produced by Walt Disney Imagineering that first appeared upon the opening of Walt Disney World on October 1, 1971, and was later added to Disneyland and Tokyo Disneyland. The show consists of 5 stages, 22 characters (18 of whom are bears), and 25 A-100 figures in one theater, Grizzly Hall.
+The ***Country Bear Jamboree*** is an elaborate Audio-Animatronic show produced by Walt Disney Imagineering that first appeared upon the opening of Walt Disney World on October 1, 1971, and was later added to Disneyland and Tokyo Disneyland. The show consists of 5 stages, 22 characters (18 of whom are bears), and 25 A-100 figures in one theater.
 
 ## Background
 

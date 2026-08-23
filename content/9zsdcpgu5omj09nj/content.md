@@ -1,0 +1,1 @@
+Birthday Party at the Penfield, NY Pizza Time Theater showing off their C-Stage playing the Dancing in the Street Birthday segment form the CEC Dance Showtape

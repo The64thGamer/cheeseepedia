@@ -1,0 +1,1 @@
+Henry being programmed by Imagineers with a DACS controller at Walt Disney World before opening.

@@ -1,0 +1,1 @@
+The Prototype Mijjin with new cosmetics on in late 1991- early 1992

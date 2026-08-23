@@ -1,0 +1,1 @@
+The Mold room at CEi with the Clown's box wraped visible and second gen Mitzi
