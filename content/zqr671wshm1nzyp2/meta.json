@@ -1,9 +1,7 @@
 {
   "title": "Birthday Star '95",
   "type": "Live Shows",
-  "tags": [
-    "Chuck E. Cheese's"
-  ],
+  "tags": [],
   "startDate": "1995-04-00",
   "endDate": "2001-12-00",
   "contributors": [
@@ -51,13 +49,13 @@
     "C&R SVHS (Post-93)",
     "3-Stage SVHS (Post-93)"
   ],
-  "citations": [
-    "https://archive.org/download/1993-diagnostics-005/Birthday%201995%203-Stage.iso"
-  ],
+  "citations": [],
   "mediaDuration": "3:16",
   "pageThumbnailFile": "P8dnqD3xAGlbjOhQphLi.avif",
-  "latitudeLongitude": [
-    "",
-    ""
+  "downloadLinks": [
+    {
+      "url": "Birthday 1995 3-Stage.iso",
+      "label": ""
+    }
   ]
 }
