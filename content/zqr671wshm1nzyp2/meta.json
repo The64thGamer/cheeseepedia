@@ -44,6 +44,10 @@
     {
       "n": "Jeff Palmer",
       "role": "Producer, Director"
+    },
+    {
+      "n": "",
+      "role": ""
     }
   ],
   "showtapeFormats": [
@@ -51,13 +55,13 @@
     "C&R SVHS (Post-93)",
     "3-Stage SVHS (Post-93)"
   ],
-  "citations": [
-    "https://archive.org/download/1993-diagnostics-005/Birthday%201995%203-Stage.iso"
-  ],
+  "citations": [],
   "mediaDuration": "3:16",
   "pageThumbnailFile": "P8dnqD3xAGlbjOhQphLi.avif",
-  "latitudeLongitude": [
-    "",
-    ""
+  "downloadLinks": [
+    {
+      "url": " https://archive.org/download/1993-diagnostics-005/Birthday%201995%203-Stage.iso",
+      "label": ""
+    }
   ]
 }
