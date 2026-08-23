@@ -13,7 +13,8 @@
     "Ceclife13",
     "Rileypaulson",
     "RedaCEC",
-    "CEC Tinley"
+    "CEC Tinley",
+    "Alemir19"
   ],
   "credits": [
     {
@@ -52,5 +53,11 @@
   ],
   "citations": [],
   "mediaDuration": "3:16",
-  "pageThumbnailFile": "P8dnqD3xAGlbjOhQphLi.avif"
+  "pageThumbnailFile": "P8dnqD3xAGlbjOhQphLi.avif",
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/1993-diagnostics-005/Birthday%201995%203-Stage.iso",
+      "label": ""
+    }
+  ]
 }
