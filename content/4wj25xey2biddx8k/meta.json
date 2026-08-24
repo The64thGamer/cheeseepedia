@@ -3,7 +3,28 @@
   "storeNumber": "",
   "startDate": "1982-03-17",
   "endDate": "1996-09-16",
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-03-17"
+    },
+    {
+      "n": "PTT 1981 Exterior Update",
+      "s": "1982-03-17"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1988-00-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "1994-03-00"
+    }
+  ],
   "stages": [
     {
       "n": "Balcony Stage",

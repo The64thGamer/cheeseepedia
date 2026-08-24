@@ -22,7 +22,44 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Pop It for Gold",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pink Panther Jewel Heist",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Milk Jug Toss",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s Glider Riders",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Ticket Blaster",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "City Bus Tours",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "41.8447028",

@@ -76,7 +76,7 @@ Note: Contains only confirmed installations, and may not be in order.
 | [Raleigh, NC (3501-131 Capital Blvd)]               | August 2022           | 2021 Model           |
 | Vancouver, WA (7721 NE Vancouver Plaza Dr)                                  | August 2022           | 2021 Model           |
 | Vestal, NY (3901 Vestal Pkwy E)                                             | August 2022           | 2021 Model           |
-| [Buffalo, NY (4408 Milestrip Rd)]                   | August 2022           | 2021 Model           |
+| [Hamburg, NY (4408 Milestrip Rd)]                   | August 2022           | 2021 Model           |
 | Dallas, TX (Redbird) (7110 S Westmoreland Rd)                               | August 2022           | 2021 Model           |
 | Texarkana, TX (2400 Richmond Rd Suite 99)                                   | August 2022           | 2021 Model           |
 | [Canton, MI (42001 Ford Rd)]                        | August 2022           | 2021 Model           |

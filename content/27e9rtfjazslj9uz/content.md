@@ -43,7 +43,7 @@ Initially, locations that were eligible for this remodel got one of three packag
 - Novi, MI (44275 Twelve Mile Rd)
 - Littleton, CO (7510 Parkway Dr)
 - [Tacoma, WA (4911 Tacoma Mall Blvd)]
-- [Buffalo, NY (4408 Milestrip Rd)]
+- [Hamburg, NY (4408 Milestrip Rd)]
 - [Chicago, IL (1830 W Fullerton Ave)]
 - [Garden Grove, CA (13101 Harbor Blvd)]
 - [Edison, NJ (1120 Route 1)]
@@ -259,10 +259,10 @@ Initially, locations that were eligible for this remodel got one of three packag
 
 - [Bronx, NY (1816 E Gun Hill Rd)]
 - [Bronx, NY (700 Exterior St)]
-- [Buffalo, NY (4408 Milestrip Rd)]
+- [Hamburg, NY (4408 Milestrip Rd)]
 - [Brooklyn, NY (139 Flatbush Ave)]
 - [Flushing, NY (40-24 College Point Blvd)]
-- [Buffalo, NY (4408 Milestrip Rd)]
+- [Hamburg, NY (4408 Milestrip Rd)]
 - [Hicksville, NY (Delco Plaza 11-15 Hanover Place)]
 - [Howard Beach, NY (133-35 79th St)]
 - Latham, NY (601 Troy Schenectady Rd)

@@ -1,35 +1,610 @@
 {
-  "title": "Buffalo, NY (4408 Milestrip Rd)",
+  "title": "Hamburg, NY (4408 Milestrip Rd)",
   "storeNumber": "",
   "startDate": "2000-05-31",
   "endDate": "",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "Phase 3 (2000)",
+      "s": "2000-05-31"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2009-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-08-03"
+    }
+  ],
   "stages": [
     {
       "n": "Studio C Alpha",
       "s": "2000-05-31",
-      "e": "0000-00-00"
+      "e": "2022-08-03",
+      "desc": "32-movement bot."
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2022-08-00",
-      "desc": "2021 Model"
+      "s": "2022-08-03",
+      "desc": "2021 model.",
+      "e": ""
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Space Invaders Frenzy",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s Fun Photos Photo Booth",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Super Bikes 3",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Big Win Super Spin",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Water Blast",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Drop It Drop It",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Full Tilt",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Grand Piano Keys",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Paw Patrol",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Space Warp 66",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Rescue Hero",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Tippin' Bloks",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Avengers Coin Pusher",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pop It for Gold",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Redhot",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Sketch Book",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Plants Vs. Zombies",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Ice Age",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Doodle Jump",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Flying Tickets",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Tower Crane",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Teeter Totter Castle",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Hoop It Up",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Air Hockey",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Deadstorm Pirates",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Super Monkey Ball",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Free Fallin'",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Dinosaur Catcher",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Slam-A-Winner",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "ICE Cube Crane",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Ticket Blaster",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Rockin & Rollin",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Sonic Blast Ball",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Monopoly Roll N' Go",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Barrel of Monkeys",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Deal or No Deal",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Nitro Trucks",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Harpoon Lagoon",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Luigi's Mansion Arcade",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Fast & Furious Super Cars",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Spongebob Pineapple Arcade",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Launch Code",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Gold Fishin'",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2 Minute Drill",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Alley Roller Classic",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Hoops",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Robin Hood",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Down the Clown",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Milk Jug Toss",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "CEC Street Hoops",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Side Show",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Motion Theater",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Dicey Jump",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Bop 2 Win",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Fruit Ninja FX",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Let's Go Jungle! Lost in the Island of Spice",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Terminator Salvation",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "The Price is Right Shell Game",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pigs Might Fly",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "H2Overdrive",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Batman",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Operation",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Bigfoot Crush",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "SpongeBob Order Up",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Spydero",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Car Tuned Racing",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Hit Music",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Color Photo Ride (Rockstar 2019)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s Glider Rider",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Bike Rally",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chameleon Paradize",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Duo Drive",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Saucer",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Jett Rider",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "NBA Hoops Jr.",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Puppy Jump",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Astro Invasion",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Magix Floor",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "SpongeBob SquarePants Bikini Bottom Bowling",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Dog Pounder",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Knock Out Punch",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Stuart Little",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Gallopers Carousel",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Winner Wheel",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Winners' Toggle",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Birthday Party",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Wonder Land",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "The Simpsons Kooky Carnival",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Roll for Gold 2",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "The Price is Right Coin Pusher",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "42.78960392",
     "-78.81577598"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "DmpohDdQBRKXjYAbMg_s.avif",
   "type": "Locations",
   "tags": [
-    "Chuck E. Cheese's"
+    "Chuck E. Cheese's",
+    "Hamburg, NY (4408 Milestrip Rd)",
+    "Studio C Alpha"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 32m (Animatronic)",
+      "desc": "85th 32m bot ever produced. Current whereabouts unknown.",
+      "l": "085",
+      "s": "2000-05-31",
+      "e": "2022-08-03"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "desc": "Owned by a private collector.",
+      "l": "",
+      "s": "2000-05-31",
+      "e": "2022-08-03"
+    }
   ]
 }

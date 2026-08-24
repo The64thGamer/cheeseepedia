@@ -1,4 +1,4 @@
-***CEC Dance** was released for *Chuck E. Cheese's* locations in September 1988.
+***CEC Dance*** was a showtape released for [Chuck E. Cheese's] locations in September 1988.
 
 ## SVHS Show List:
 
