@@ -1,7 +1,7 @@
 {
   "title": "Chuck E. Cheese 32m (Animatronic)",
   "startDate": "1997-00-00",
-  "endDate": "0000-00-00",
+  "endDate": "2001-00-00",
   "pageThumbnailFile": "W972pdZkOB__ypEbG6AZ.avif",
   "contributors": [
     "CECBowlingGreen",
@@ -21,13 +21,19 @@
     "Pasquallytheplumber",
     "ThatBoiCydalan",
     "AstridMascotFan2005",
-    "randomguyfan22-maker"
+    "randomguyfan22-maker",
+    "ThatRockHistorian76"
   ],
   "citations": [
     "<a href=\"https://www.micechat.com/170277-animatronic-life-build-better-animatronic-chuck-e-cheese/\">https://www.micechat.com/170277-animatronic-life-build-better-animatronic-chuck-e-cheese/</a>"
   ],
   "type": "Animatronics",
   "tags": [
-    "Chuck E. Cheese's"
+    "Chuck E. Cheese's",
+    "Chuck E. Cheese 32m (Animatronic)"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

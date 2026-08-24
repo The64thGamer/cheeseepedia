@@ -9,7 +9,7 @@
     4. [Little Darlin'](https://en.wikipedia.org/wiki/Little_Darlin%27)
 2. Segment 2
     1. [Willie and the Hand Jive](https://en.wikipedia.org/wiki/Willie_and_the_Hand_Jive)
-    2. [Rockin' Robin](https://en.wikipedia.org/wiki/Rockin%27_Robin_(song))    
+    2. [Rockin' Robin](https://en.wikipedia.org/wiki/Rockin%27_Robin_(song))
     3. [Kansas City](https://en.wikipedia.org/wiki/Kansas_City_(Leiber_and_Stoller_song))
     4. [Charlie Brown](https://en.wikipedia.org/wiki/Charlie_Brown_(The_Coasters_song))
 3. Segment 3
@@ -20,7 +20,7 @@
     1. [Big Girls Don't Cry](https://en.wikipedia.org/wiki/Big_Girls_Don%27t_Cry_(The_Four_Seasons_song))
     2. [Duke of Earl](https://en.wikipedia.org/wiki/Duke_of_Earl)
     3. [Hey! Baby](https://en.wikipedia.org/wiki/Hey!_Baby)
-5. Segment 1
+5. Segment 5
     1. History of Rock and Roll Part 2
         1. 1965 Songs Medley
             1. [Help!](https://en.wikipedia.org/wiki/Help!_(song))

@@ -1,19 +1,18 @@
 {
   "title": "Riverside, CA (4033 Chicago Ave)",
   "storeNumber": "",
-  "startDate": "1981-00-00",
+  "startDate": "1982-02-00",
   "endDate": "1996-04-00",
-  
   "remodels": [],
   "stages": [
     {
       "n": "Balcony Stage",
       "s": "1981-00-00",
-      "e": "0000-00-00"
+      "e": "1989-00-00"
     },
     {
       "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
+      "s": "1989-00-00",
       "e": "1996-04-00"
     }
   ],
@@ -25,7 +24,9 @@
     "-117.3505469"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "HeyItzGabriel"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",

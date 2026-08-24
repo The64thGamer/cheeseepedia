@@ -10,13 +10,15 @@ In his design for Americana Amusement Park, he wore a blue vest with yellow flow
 
 ## Movements
 
-Due to lack of footage or photos of internals, movements can only be inferred. All that is known is that he along with the rest of the bots in the show had very limited movement.
-
-- Mouth
-- Head turn
-- Head up
-- Left eyelid raise
-- Right eyelid raise
-- Eye cross
-- Strum
-- Body lean
+| Movement | Valve Number |
+| -------- | ------------ |
+| Mouth | Unknown |
+| Left Ear | Unknown |
+| Right Ear | Unknown |
+| Head Up #1 | Unknown |
+| Head Up #2 | Unknown |
+| Head Turn | Unknown |
+| Body Tip | Unknown |
+| Leg Kick | Unknown |
+| Bass Rock | Unknown |
+| Bass Pluck | Unknown |

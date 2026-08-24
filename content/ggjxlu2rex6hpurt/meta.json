@@ -1,5 +1,5 @@
 {
-  "title": "New Hartford, NY (8555 Seneca Turnpike)",
+  "title": "New Hartford Utica, NY (8555 Seneca Turnpike)",
   "storeNumber": "",
   "startDate": "1982-12-16",
   "endDate": "1985-07-29",
@@ -8,24 +8,140 @@
     {
       "n": "Balcony Stage",
       "s": "1982-12-16",
+      "e": "1985-07-29",
+      "desc": "Was painted red and yellow/gold just like many of the other NY stores!"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Pizza Concepts, Inc.",
+      "s": "1982-03-17",
+      "e": "0000-00-00"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Chuck E. Cheese Carousel",
+      "desc": "Was fully operational at Enchanted Forest Water Safari.In 2005 the Rats were removed from the platform and repainted into the 3 blind mice for a photo opportunity.They still reside at the park today!",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Chuck E. Cheese's Cartoon Time Theatre",
+      "desc": "Exact date of installation Unknown",
+      "s": "1982-00-00",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Dragon's Lair",
+      "desc": "Exact date of installation Unknown",
+      "s": "1983-00-00",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Ball Crawl",
+      "desc": "Had the standard yellow soft play structure with the black netting",
+      "s": "1982-12-16",
       "e": "1985-07-29"
     }
   ],
-  "franchisees": [],
-  "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
     "43.0802761",
     "-75.3186754"
   ],
-  "citations": [],
+  "citations": [
+    "https://www.newspapers.com/article/democrat-and-chronicle/118716768/",
+    "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-2.pdf",
+    "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-3.pdf",
+    "https://bigfrog104.com/take-a-peek-inside-pinz-a-new-playground-for-adults-in-sangertown-square-mall/",
+    "https://youtu.be/kP8WS_asoyE?si=Wpl0SsERhjoPOO9N&t=1068",
+    "https://www.youtube.com/watch?v=0d6kNvQlYXs",
+    "https://www.reddit.com/r/Utica/comments/1hdqh1j/looking_for_pictures_of_an_old_chuck_e_cheese/?solution=aa6f1b08b75fb992aa6f1b08b75fb992&js_challenge=1&token=7afd7253fec22262ff1c52b1703fe9ec3d0b4c30041297d7f2394493d6c68a74&jsc_orig_r=",
+    "https://www.reddit.com/r/chuckecheese/comments/1osr4gc/pictures_from_the_new_hartfordutica_sangertown/",
+    "https://www.reddit.com/r/chuckecheese/comments/1gdtoxp/syracusemattydalesalina_ny_ptt/?utm_source=embedv2&utm_medium=post_embed&utm_content=whitespace",
+    "https://www.youtube.com/watch?v=7pDKP9tbq00"
+  ],
   "contributors": [
-    "ThatRockHistorian76"
+    "ThatRockHistorian76",
+    "TutorialTimeYt"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "QbfLf1KGpvGVTXsE7YAN.avif",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Taken by the techs at the Albany CEC.Current whereabouts are unknown.",
+      "l": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Taken by the techs at the Albany CEC.Current whereabouts are unknown.",
+      "l": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Owned by Felix_CmZ",
+      "l": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Taken by the techs at the Albany CEC.Current whereabouts are unknown.",
+      "l": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Taken by the techs at the Albany CEC.Current whereabouts are unknown.",
+      "l": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Formerly owned by Felix_CmZ.Sold to a private collector.",
+      "l": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "desc": "Taken by the techs at the Albany CEC.Current whereabouts are unknown.",
+      "l": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "desc": "On display at the Enchanted Forest Water Safari.Not operational.Lights periodically still turned on.",
+      "l": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "desc": "On display at the Enchanted Forest Water Safari.Not operational.",
+      "l": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "The King / King Kat (Cyberamic)",
+      "desc": "Formerly at the Enchanted Forest Water Safari.Current whereabouts are unknown.",
+      "l": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    }
   ]
 }

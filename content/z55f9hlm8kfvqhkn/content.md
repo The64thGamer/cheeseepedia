@@ -10,16 +10,17 @@ In his design at Americana Amusement Park, he wore a black bowler hat and yellow
 
 ## Movements
 
-Due to lack of footage or photos of internals, movements can only be inferred. All that is known is that he along with the rest of the bots in the show had very limited movement.
-
-- Mouth
-- Left eyelid
-- Right eyelid
-- Head left
-- Head right
-- Head up
-- Head down
-- Left elbow
-- Right elbow
-- Left arm twist
-- Right arm twist
+| Movement | Valve Number |
+| -------- | ------------ |
+| Mouth | Internal |
+| Left Ear | Unknown |
+| Right Ear | Unknown |
+| Left Eyelid | Unknown |
+| Right Eyelid | Unknown |
+| Eyes Cross | Unknown |
+| Head Up | Unknown |
+| Right Arm Twist | Unknown |
+| Right Elbow | Unknown |
+| Body Lean | Unknown |
+| Foot Tap | Unknown |
+| Head Motor | N/A |

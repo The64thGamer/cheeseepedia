@@ -10,15 +10,15 @@ In his design for Americana Amusement Park, he wore a a collar and black bowtie.
 
 ## Movements
 
-Due to his mech being reused for the Hard Luck Bears, we have a better idea of his movements than the others. There still may be some differences however.
-
-- Mouth
-- Head left
-- Head up
-- Left eyelid raise
-- Right eyelid raise
-- Body turn
-- Left arm raise
-- Right arm raise
-- Left elbow
-- Right elbow
+| Movement | Valve Number |
+| -------- | ------------ |
+| Mouth | Internal |
+| Left Eyelid | Unknown |
+| Right Eyelid | Unknown |
+| Eyes Left | Unknown |
+| Head Tip | Unknown |
+| Head Turn | Unknown |
+| Arm Forward L | Unknown |
+| Arm Forward R | Unknown |
+| Body Turn | Unknown |
+| Body Lean | Unknown |

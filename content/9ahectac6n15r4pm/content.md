@@ -1,0 +1,1 @@
+Utica's Chuck and Munch Walkarounds at a Saint Patrick's day parade

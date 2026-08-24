@@ -1,9 +1,8 @@
 {
-  "title": "Albany, NY (1440 Central Ave)",
+  "title": "Colonie, NY (1440 Central Ave)",
   "storeNumber": "",
   "startDate": "1982-00-00",
   "endDate": "1995-09-10",
-  
   "remodels": [],
   "stages": [
     {
@@ -30,7 +29,9 @@
     "-73.83162073"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",

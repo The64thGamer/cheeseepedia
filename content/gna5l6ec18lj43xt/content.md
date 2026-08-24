@@ -1,1 +1,1 @@
-The Balcony Stage With Cheese Crawl at the Penfield, NY Chuck E. Cheese's Pizza Time Theatre
+The Balcony Stage at the Penfield, NY Chuck E. Cheese's Pizza Time Theatre

@@ -1,0 +1,1 @@
+Utica's Chuck Walkaround with the standard red vest and a black ptt trucker cap

@@ -3,8 +3,16 @@
   "storeNumber": "",
   "startDate": "1993-06-14",
   "endDate": "2020-06-25",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-06-14"
+    },
+    {
+      "n": "CEC 2013 Update Program",
+      "s": "2012-00-00"
+    }
+  ],
   "stages": [
     {
       "n": "1-Stage",
@@ -19,12 +27,53 @@
     "42.97663107",
     "-78.78617488"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "https://www.wkbw.com/news/will-drinkers-soon-be-cut-off-at-chuck-e-cheese"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "8R1gqMitSvkjqfsGljSU.avif",
   "type": "Locations",
   "tags": [
-    "Chuck E. Cheese's"
+    "Chuck E. Cheese's",
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Head frame owned by a private collector.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    }
   ]
 }

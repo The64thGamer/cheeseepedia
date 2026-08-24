@@ -1,0 +1,1 @@
+Footage of the 2-Stage at [Greece, NY (3160 W Ridge Rd)].

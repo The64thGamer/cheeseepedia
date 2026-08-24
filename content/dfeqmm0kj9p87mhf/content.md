@@ -10,19 +10,21 @@ Wolfman is a gray wolf holding a microphone and is the host of the show. He wore
 
 ## Movements
 
-- Mouth
-- Head left
-- Head right
-- Head up
-- Head down
-- Left ear
-- Right ear
-- Left eyelid
-- Right eyelid
-- Eyes left
-- Body lean
-- Mic tilt
-- Left arm raise
-- Left arm elbow
-- Left arm twist
-- Tail
+| Movement | Valve Number |
+| -------- | ------------ |
+| Mouth | 1 |
+| Eyes Left | 2 |
+| Left Eyelid | 3 |
+| Right Eyelid | 4 |
+| Left Ear | 5 |
+| Right Ear | 6 |
+| Head Up #1 | 7 |
+| Head Up #2 | 8 |
+| Head Turn | 9 |
+| Arm Raise | 10 |
+| Arm Twist | 11 |
+| Elbow | 12 |
+| Microphone | 13 |
+| Body Lean | 14 |
+| Body Twist | 15 |
+| Tail | 16 |

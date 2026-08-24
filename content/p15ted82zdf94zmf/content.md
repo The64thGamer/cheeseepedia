@@ -10,14 +10,17 @@ Dingo is a dog that plays the drums. He wore a jacket with varying colors depend
 
 ## Movements
 
-- Mouth
-- Head left
-- Head right
-- Head up
-- Left eyelid raise
-- Right eyelid raise
-- Left ear
-- Right ear
-- Left arm
-- Right arm
-- Body lean
+| Movements 1978 IAAPA | Movements Post 1978 IAAPA |
+| -------------------- | ------------------------- |
+| Mouth | Mouth |
+| Left Eyelid | Left Eyelid |
+| Right Eyelid | Right Eyelid |
+| Left Ear | Left Ear |
+| Right Ear | Right Ear |
+| Head Left | Head Left |
+| Head Right | Head Right |
+| Head Up | Head Up |
+| Left Elbow | Left Elbow |
+| Right Elbow | Right Elbow |
+| Body Tip Left | Body Lean |
+| Body Tip Right |  |

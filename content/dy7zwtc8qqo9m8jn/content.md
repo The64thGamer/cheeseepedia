@@ -20,12 +20,12 @@ Maynard is an Elf wearing a pair of sunglasses,a green long sleeve shirt,a green
 
 The animatronic has 7 movements [2]
 
-| Movement | Valve number | 1977 control system bit | 1979 control system bit |
-| -------- | ------------ | ----------------------- | ----------------------- |
-| Mouth | Unknown | Unknown | Unknown |
-| Head Turn Left | Unknown | Unknown | Unknown |
-| Head Tilt Right | Unknown | Unknown | Unknown |
-| Body Tilt | Unknown | Unknown | Unknown |
-| Bass Tilt | Unknown | Unknown | Unknown |
-| Left hand | Unknown | Unknown | Unknown |
-| Foot tap | Unknown | Unknown | Unknown |
+| Movement | Valve number | 1979 Biphase Controller bit |
+| -------- | ------------ | --------------------------- |
+| Mouth | Unknown | Unknown |
+| Head Turn Left | Unknown | Unknown |
+| Head Tilt Right | Unknown | Unknown |
+| Body Tilt | Unknown | Unknown |
+| Bass Tilt | Unknown | Unknown |
+| Left hand | Unknown | Unknown |
+| Foot tap | Unknown | Unknown |

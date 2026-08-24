@@ -1,4 +1,4 @@
-***Henrietta, NY (1000 Hylan Drive)*** was a Chuck E. Cheese's located within Jay Scutti Plaza. that opened on June 30, 2001, with a Studio C Alpha and closed on June 25, 2020 with a Studio C Alpha.
+***Henrietta, NY (1000 Hylan Drive)*** was a Chuck E. Cheese's located within Jay Scutti Plaza that opened on June 30, 2001, with a Studio C Alpha and closed on June 25, 2020 with a Studio C Alpha.
 
 ## History
 

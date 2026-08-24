@@ -1,0 +1,1 @@
+The Rock-afire Explosion performing at [Amherst, NY (1551 Niagara Falls Blvd)].

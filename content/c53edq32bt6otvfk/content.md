@@ -20,17 +20,17 @@ Rudy is an anthropomorphic reindeer in black Tuxedo with no pants,a white unders
 
 The animatronic has 12 movements [1]
 
-| Movement | Valve number | 1977 control system bit | 1979 control system bit |
-| -------- | ------------ | ----------------------- | ----------------------- |
-| Mouth | Unknown | Unknown | Unknown |
-| Left Ear | Unknown | Unknown | Unknown |
-| Right Ear | Unknown | Unknown | Unknown |
-| Left Eyelid | Unknown | Unknown | Unknown |
-| Right Eyelid | Unknown | Unknown | Unknown |
-| Head Left | Unknown | Unknown | Unknown |
-| Head Up | Unknown | Unknown | Unknown |
-| Body Turn Left | Unknown | Unknown | Unknown |
-| Body Lean | Unknown | Unknown | Unknown |
-| Right Arm Twist | Unknown | Unknown | Unknown |
-| Right Elbow | Unknown | Unknown | Unknown |
-| Microphone Tilt | Unknown | Unknown | Unknown |
+| Movement | Valve number | 1979 Biphase Controller bit |
+| -------- | ------------ | --------------------------- |
+| Mouth | Unknown | Unknown |
+| Left Ear | Unknown | Unknown |
+| Right Ear | Unknown | Unknown |
+| Left Eyelid | Unknown | Unknown |
+| Right Eyelid | Unknown | Unknown |
+| Head Left | Unknown | Unknown |
+| Head Up | Unknown | Unknown |
+| Body Turn Left | Unknown | Unknown |
+| Body Lean | Unknown | Unknown |
+| Right Arm Twist | Unknown | Unknown |
+| Right Elbow | Unknown | Unknown |
+| Microphone Tilt | Unknown | Unknown |

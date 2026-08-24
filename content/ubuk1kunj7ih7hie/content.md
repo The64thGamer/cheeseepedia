@@ -1,0 +1,1 @@
+1989 footage of [Bridgeville, PA (1025 Washington Pike)], featuring the store's Balcony Stage.
