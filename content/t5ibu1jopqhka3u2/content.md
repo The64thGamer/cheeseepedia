@@ -1,1 +1,1 @@
-What's belived to be the Mijjin Prototype's mech at Randyland
+What's believed to be one of the human Mijjin's mech from The Mijjins at Randyland

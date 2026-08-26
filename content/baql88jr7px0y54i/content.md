@@ -1,1 +1,0 @@
-Utica's Munch Walkaround in front of the order counter and kitchen entrance in the early-mid 80's

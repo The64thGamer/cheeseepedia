@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1983-08-00",
   "endDate": "1996-11-24",
-  
   "remodels": [],
   "stages": [
     {
@@ -14,6 +13,12 @@
     {
       "n": "Chuck E.'s House Facade",
       "s": "0000-00-00",
+      "e": "1993-00-00"
+    },
+    {
+      "n": "2-Stage?",
+      "desc": "Rumored to have been installed, but unconfirmed.",
+      "s": "1993-00-00",
       "e": "1996-11-24"
     }
   ],
@@ -25,7 +30,9 @@
     "-79.94306888"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "HeyItzGabriel"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "FJ0CNrt2Lgd5ZIAGd0rZ.avif",
   "type": "Locations",
