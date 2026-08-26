@@ -26,16 +26,16 @@ The bot has 11 movements.On the outside of the bot only 10 of the valves are vis
 
 While each movement has it's own valve certain movements on the show run off of the same bit meaning they'd be synced up.However it's not clear which of these movements were synced as the show's [Bit Chart] as of now is unknown.
 
-| Movement | Valve | 1978 Tone Controller Bit | Grey Box Controller Bit |
-| -------- | ----- | ------------------------ | ----------------------- |
-| Mouth | 1 | unknown | unknown |
-| Eyes Left | unknown | unknown | unknown |
-| Eyes Right | unknown | unknown | unknown |
-| Left Eyelid Raise | unknown | unknown | unknown |
-| Right Eyelid Raise | unknown | unknown | unknown |
-| Head Tilt Left | unknown | unknown | unknown |
-| Head Up | unknown | unknown | unknown |
-| Body Tilt Right | unknown | unknown | unknown |
-| Strum Hand | unknown | unknown | unknown |
-| Slide Hand | unknown | unknown | unknown |
-| Foot Tap | unknown | unknown | unknown |
+| Movement | Valve | Biphase Controller Bit |
+| -------- | ----- | ---------------------- |
+| Mouth | Internal | unknown |
+| Eyes Left | unknown | unknown |
+| Eyes Right | unknown | unknown |
+| Left Eyelid Raise | unknown | unknown |
+| Right Eyelid Raise | unknown | unknown |
+| Head Tilt Left | unknown | unknown |
+| Head Up | unknown | unknown |
+| Body Tilt Right | unknown | unknown |
+| Strum Hand | unknown | unknown |
+| Slide Hand | unknown | unknown |
+| Foot Tap | unknown | unknown |

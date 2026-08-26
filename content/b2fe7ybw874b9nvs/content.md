@@ -1,0 +1,1 @@
+The Chuck E. Cheese walkaround at [New Hartford, NY (8555 Seneca Tpke)].

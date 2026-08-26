@@ -5,6 +5,14 @@
   "endDate": "",
   "remodels": [
     {
+      "n": "Phase 3 (2000)",
+      "s": "2003-07-05"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2003-00-00"
+    },
+    {
       "n": "CEC 2.0 Remodel Program",
       "s": "2018-00-00"
     }
@@ -13,24 +21,32 @@
     {
       "n": "Studio C Beta",
       "s": "2003-07-05",
-      "e": "2018-00-00"
+      "e": "2018-00-00",
+      "desc": "16-movement bot."
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2018-00-00",
+      "e": "",
+      "desc": "Earlier installation."
+    },
+    {
+      "n": "Video Wall",
+      "desc": "",
+      "s": "2025-00-00",
       "e": ""
     }
   ],
   "franchisees": [],
   "attractions": [
     {
-      "n": "Pop It for Gold",
+      "n": "Chuck E.'s Glider Rider",
       "desc": "",
       "s": "0000-00-00",
       "e": "0000-00-00"
     },
     {
-      "n": "Pink Panther Jewel Heist",
+      "n": "City Bus Tours",
       "desc": "",
       "s": "0000-00-00",
       "e": "0000-00-00"
@@ -42,19 +58,19 @@
       "e": "0000-00-00"
     },
     {
-      "n": "Chuck E.'s Glider Riders",
+      "n": "Pink Panther Jewel Heist",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pop It for Gold",
       "desc": "",
       "s": "0000-00-00",
       "e": "0000-00-00"
     },
     {
       "n": "Ticket Blaster",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "City Bus Tours",
       "desc": "",
       "s": "0000-00-00",
       "e": "0000-00-00"
@@ -74,5 +90,14 @@
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "2003-07-05",
+      "e": "2018-00-00"
+    }
   ]
 }

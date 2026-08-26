@@ -1,5 +1,4 @@
-***Queenie / Mini Mozzarella* was an animatronic created for the [Wolf Pack 5] show and debuted at the 1978 IAAPA.
-She uses the same mask mold as [Grandma Bear (Animatronic)]/Beatrice from the [Bear Country Jubilee] and a nearly identical mech as Mama Grandbags from the [Hard Luck Bears].**
+***Queenie / Mini Mozzarella* was an animatronic created for the [Wolf Pack 5] show and debuted at the 1978 IAAPA.She uses the same mask mold as [Grandma Bear (Animatronic)]/Beatrice from the [Bear Country Jubilee] and a nearly identical mech as Mama Grandbags from the [Hard Luck Bears].**
 
 ## History
 
@@ -11,18 +10,24 @@ Queenie is a red fox positioned on the far right of the stage. At the 1978 IAAPA
 
 ## Movements
 
-- Mouth
-- Head left
-- Head right
-- Head up
-- Eyes right (Only on original 1978 model)
-- Left ear
-- Right ear
-- Body Lean
-- Torso right
-- Left arm raise
-- Left elbow
-- Left wrist
-- Right arm raise
-- Right elbow
-- Right wrist
+| Movements 1978 IAAPA | Movements Post 1978 IAAPA | Valve Number Post 1978 IAAPA |
+| -------------------- | ------------------------- | ---------------------------- |
+| Mouth | Mouth | 1 |
+| Left Eyelid | Left Eyelid | 2 |
+| Right Eyelid | Right Eyelid | 3 |
+| Left Ear | Left Ear | 4 |
+| Right Ear | Right Ear | 5 |
+| Eyes Turn | Head Up | 6 |
+| Head Up | Head Left | 7 |
+| Head Left | Head Right | 8 |
+| Head Right | Left Arm Raise | 9 |
+| Left Arm Raise | Right Arm Raise | 10 |
+| Right Arm Raise | Left Elbow | 11 |
+| Left Elbow | Right Elbow | 12 |
+| Right Elbow | Left Wrist | 13 |
+| Left Wrist | Right Wrist | 14 |
+| Right Wrist | Body Lean | 15 |
+| Body Tip | Body Twist | 16 |
+| Body Twist |  |  |
+
+

@@ -10,13 +10,11 @@ In his design for Americana Amusement Park, he wore a top hat, collar, black bow
 
 ## Movements
 
-Due to lack of footage or photos of internals, movements can only be inferred. All that is known is that he along with the rest of the bots in the show had very limited movement.
-
-- Mouth
-- Left eyelid
-- Right eyelid
-- Head left
-- Head right
-- Head up
-- Left elbow
-- Right elbow
+| Movement | Valve Number |
+| -------- | ------------ |
+| Mouth | Internal |
+| Head Up | Unknown |
+| Right Arm Swing | Unknown |
+| Right Elbow | Unknown |
+| Left Wrist | Unknown |
+| Head Turn Motor | N/A |

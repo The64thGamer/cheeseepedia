@@ -1,0 +1,1 @@
+The King at [New Hartford, NY (8555 Seneca Tpke)] after the neon sign had finally been installed.

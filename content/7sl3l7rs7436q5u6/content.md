@@ -6,7 +6,7 @@ The Pizza Time Theatre at the Thruway Mall in Cheektowaga, New York opened on No
 
 ## Closure and Fate of the Animatronics
 
-After being open for almost three years, the Cheektowaga PTT closed on July 29, 1985, without giving any prior notice to its employees. Although the location closed during Pizza Time Theatre's period of major financial issues, the Cheektowaga store's demise was largely a local competition problem, as it was a competitor to the nearby Showbiz Pizza Place stores in Amherst and West Seneca, both of which were rather successful and inhibited the gain of steady profits [5]. [New Hartford Utica, NY (8555 Seneca Turnpike)] and [Schenectady, NY (2330 Watt St)] closed the same day due to financial underperformance.
+After being open for almost three years, the Cheektowaga PTT closed on July 29, 1985, without giving any prior notice to its employees. Although the location closed during Pizza Time Theatre's period of major financial issues, the Cheektowaga store's demise was largely a local competition problem, as it was a competitor to the nearby Showbiz Pizza Place stores in Amherst and West Seneca, both of which were rather successful and inhibited the gain of steady profits [5]. [New Hartford, NY (8555 Seneca Turnpike)] and [Schenectady, NY (2330 Watt St)] closed the same day due to financial underperformance.
 
 Cheektowaga's animatronics were sold at auction, but their current whereabouts are unknown. The closure of this store led to the nonexistence of a single Chuck E. Cheese's location in the Buffalo area until [Amherst, NY (4994 Harlem Rd)] opened in June 1993.
 

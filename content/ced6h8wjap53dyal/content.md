@@ -1,0 +1,1 @@
+The Mr. Munch walkaround at [New Hartford, NY (8555 Seneca Tpke)].

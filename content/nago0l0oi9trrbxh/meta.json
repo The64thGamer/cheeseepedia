@@ -2,19 +2,29 @@
   "title": "Olathe, KS (15225 W 134th St)",
   "storeNumber": "",
   "startDate": "2002-11-04",
-  "endDate": "",
-  
-  "remodels": [],
+  "endDate": "2026-04-04",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2002-11-04"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2017-12-07"
+    }
+  ],
   "stages": [
     {
       "n": "Studio C Beta",
       "s": "2002-11-04",
-      "e": "0000-00-00"
+      "e": "2017-08-00",
+      "desc": "Featured 32m"
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2017-00-00",
-      "desc": "2017 Model"
+      "s": "2017-08-00",
+      "desc": "2017 Model",
+      "e": "2026-04-04"
     }
   ],
   "franchisees": [],
@@ -24,12 +34,29 @@
     "38.88407787",
     "-94.76288313"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "https://www.newspapers.com/article/olathe-news/102562796/",
+    "https://www.instagram.com/p/gWoOTHFd4d/",
+    "https://www.instagram.com/p/BNVMNtrBOSo/",
+    "https://www.instagram.com/p/BX0kky8FMRo/",
+    "https://www.instagram.com/p/BZB5XfAFp45/?img_index=1",
+    "https://www.instagram.com/p/BZMbXW2lUwv/?img_index=1",
+    "https://www.instagram.com/p/BZWOqZMFSgg/?img_index=1",
+    "https://www.instagram.com/p/BaIrxKbApte/",
+    "https://www.instagram.com/p/BZFODaUlGjw/",
+    "https://www.facebook.com/watch/?v=689701211221974&rdid=mnBxMRPGH9AgQyd5",
+    "https://www.instagram.com/p/DRXsOQOkiCt/",
+    "https://www.newspapers.com/article/the-kansas-city-star-olathe-closing/204542034/"
+  ],
+  "contributors": [
+    "CyberSnout"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
-  ]
+  ],
+  "credits": [],
+  "animatronics": []
 }

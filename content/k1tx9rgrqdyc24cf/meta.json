@@ -1,5 +1,5 @@
 {
-  "title": "Fats Gorilla (Animatronic)",
+  "title": "Fats Abdomino (Animatronic)",
   "type": "Animatronics",
   "tags": [
     "Creative Engineering"
@@ -7,9 +7,14 @@
   "startDate": "1978-00-00",
   "endDate": "0000-00-00",
   "contributors": [
-    "FileFickle"
+    "FileFickle",
+    "GallaRM"
   ],
   "citations": [],
   "manufacturer": "Creative Engineering",
-  "pageThumbnailFile": "aG3wIE3aJAO0Q72_CVyz.avif"
+  "pageThumbnailFile": "aG3wIE3aJAO0Q72_CVyz.avif",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

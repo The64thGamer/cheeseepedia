@@ -3,7 +3,24 @@
   "storeNumber": "",
   "startDate": "1983-03-15",
   "endDate": "1996-11-00",
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-03-15"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1988-00-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "1994-03-00"
+    }
+  ],
   "stages": [
     {
       "n": "Balcony Stage",
@@ -41,8 +58,7 @@
     "Pizza Time Theatre",
     "Chuck E. Cheese's",
     "Balcony Stage",
-    "2-Stage",
-    "Greece, NY (3160 W Ridge Rd)"
+    "2-Stage"
   ],
   "animatronics": [
     {
@@ -90,9 +106,9 @@
     {
       "n": "The King / King Kat (Lounge)",
       "desc": "",
-      "l": "",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "l": "Auctioned off. Current whereabouts unknown.",
+      "s": "1983-03-15",
+      "e": "1996-11-00"
     }
   ]
 }

@@ -6,18 +6,21 @@ TODO
 
 ## Design
 
-Beach Bear is a gray polar bear that plays an electric guitar. He wore a lei and swim trunks with varying colors depending on location.
+Beach Bear is a gray polar bear that plays an electric guitar. He wore a lei and swim trunks with varying colors depending on location. His cosmetic design would be reused with little changes for [Beach Bear (Animatronic)]
 
 ## Movements
 
-- Mouth
-- Head left
-- Head right
-- Head up
-- Left eyelid raise
-- Right eyelid raise
-- Eye cross
-- Strum
-- Fret slide
-- Guitar raise
-- Foot tap
+| Movement | Valve Number |
+| -------- | ------------ |
+| Mouth | 1 |
+| Eyes Cross | 2 |
+| Left Eyelid | 3 |
+| Right Eyelid | 4 |
+| Head Up | 5 |
+| Head Left | 6 |
+| Head Right | 7 |
+| Body Lean | 8 |
+| Guitar Slide | 9 |
+| Guitar Strum | 10 |
+| Body Lean | 11 |
+| Foot Tap | 12 |
