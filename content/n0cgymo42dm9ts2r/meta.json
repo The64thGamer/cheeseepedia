@@ -3,18 +3,38 @@
   "storeNumber": "",
   "startDate": "1998-12-10",
   "endDate": "",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "Phase 3 (1997)",
+      "s": "1998-12-10"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-07-01"
+    }
+  ],
   "stages": [
     {
       "n": "Studio C Alpha",
       "s": "1998-12-10",
-      "e": "0000-00-00"
+      "e": "2024-07-01",
+      "desc": "32-movement bot."
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2024-07-03",
-      "desc": "2021 Model"
+      "s": "2024-07-01",
+      "desc": "2021 model.",
+      "e": ""
+    },
+    {
+      "n": "Video Wall",
+      "desc": "2021 model.",
+      "s": "2024-07-01",
+      "e": ""
     }
   ],
   "franchisees": [],
@@ -25,11 +45,43 @@
     "-73.30828538"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
-  "pageThumbnailFile": "zGCmRd4Sn8WXI_tgLsMZ.avif",
+  "pageThumbnailFile": "XS3HfBnxftDII8hojjXK.avif",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 32m (Animatronic)",
+      "desc": "19th 32m bot ever produced. Removed and destroyed.",
+      "l": "019",
+      "s": "1998-12-10",
+      "e": "2024-07-01"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "desc": "Taken by corporate.",
+      "l": "",
+      "s": "1998-12-10",
+      "e": "2024-07-01"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "desc": "Taken by corporate.",
+      "l": "",
+      "s": "1998-12-10",
+      "e": "2024-07-01"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "desc": "Taken by corporate.",
+      "l": "",
+      "s": "1998-12-10",
+      "e": "2024-07-01"
+    }
   ]
 }

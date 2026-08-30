@@ -3,18 +3,32 @@
   "storeNumber": "",
   "startDate": "2000-01-07",
   "endDate": "",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "Phase 3 (2000)",
+      "s": "2000-01-07"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2006-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-08-00"
+    }
+  ],
   "stages": [
     {
       "n": "Studio C Alpha",
       "s": "2000-01-07",
-      "e": "0000-00-00"
+      "e": "2023-08-00",
+      "desc": "32-movement bot."
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2023-08-00",
-      "desc": "2019 Model"
+      "desc": "2019 model.",
+      "e": ""
     }
   ],
   "franchisees": [],
@@ -218,11 +232,22 @@
     "-73.91557878"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "GSi_H_DLzrCQZo3ZIs8G.avif",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 32m (Animatronic)",
+      "desc": "52nd 32m bot ever produced.",
+      "l": "052",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
   ]
 }

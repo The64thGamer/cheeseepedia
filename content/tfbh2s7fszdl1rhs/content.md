@@ -1,4 +1,4 @@
-***Hamburg, NY (4408 Milestrip Rd), Store #516*** (also known as ***Buffalo*** or, erroneously, ***Orchard Park***) is a Chuck E. Cheese's that opened on May 31, 2000, with a [Studio C Alpha](/?v=cep-js&=y3u8rr4k5280egzq). This location was previously one of the three former Discovery Zone locations in the Buffalo area. The store expanded between 2009-2011 and received the 2.0 remodel in 2022.
+***Hamburg, NY (4408 Milestrip Rd)***, Store #516 (also known as ***Buffalo*** or, erroneously, ***Orchard Park***), is a corporate-owned Chuck E. Cheese's that opened on May 31, 2000, with a [Studio C Alpha](/?v=cep-js&=y3u8rr4k5280egzq). This location was previously one of the three former Discovery Zone locations in the Buffalo area. The store expanded between 2009-2011 and received the 2.0 remodel in 2022. This location should not be confused with [Buffalo, NY (2638 Delaware Ave)], which is a Chuck E. Cheese that opened on November 22, 2024, with a [Chuck E. Live Stage (Dance Floor)] and is still open.
 
 ## History
 
@@ -8,7 +8,7 @@ Milestrip Road's Discovery Zone would open its doors in January of 1994. This lo
 
 ### Re-Opening as a Chuck E. Cheese's
 
-The Hamburg Chuck E. Cheese's opened on May 31st, 2000, taking over nearly 75% of the former Discovery Zone space, with the remaining portion being taken over by a kids clothing department store.
+The Hamburg Chuck E. Cheese's opened on May 31, 2000, taking over nearly 75% of the former Discovery Zone space, with the remaining portion being taken over by a kids clothing department store.
 
 ### Late 2010s expansion/remodel
 

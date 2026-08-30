@@ -1,41 +1,24 @@
-The **Sun Animatronic** (Also the Building Animatronic) is a figure created by Creative Engineering Inc. for ShowBiz Pizza Place locations from 1980-1983. It is a very simple figure, as its only movements are raising from behind the backdrop and opening its mouth. During [Concept Unification], Sun was retrofitted into Building.
+The **Sun Animatronic** was an animatronic prop character built by [Creative Engineering] featured on the [Rock-afire Explosion] stage.It is a very simple figure that is located behind the tree/bush backdrop on the left side of center stage behind Dook.
+
+## History
+
+The first Sun animatronic debuted on august 14th 1981 at the [Jacksonville, FL (9820 Atlantic Blvd)] store.This version of the sun used a mask known as the ''beta'' sun,which was sculpted by Dave Thomas.It had some noticeable differences compared to the standard mask,with it having smaller,more circular hungover looking eyes with lopsided eyelids,thinner smile creases and sculpted on dimples.Early beta masks also had long eyelashes,though CEI often went back and forth on either using pieces of black fur or large fake eyelashes, [1] with the first bot at Jacksonville using the fur. [2] These early masks also had more detailed and intricate shading and differently painted lips.Over time certain elements would stop being added to these beta masks,most notably the eyelashes started to be just painted on,the dimples stopped being painted in and the lips were painted on bigger. [3] This mask would be used until the October 1981 batch.
+
+In the January 1982 batch,a new sculpt for the sun mask would be introduced.This sculpt had more almond shaped eyes,thicker smile creases,no dimples sculpted on,and just overall a much friendlier(though still hungover) appearance.Despite this some,of the suns from this batch,such as the one at the [Colorado Springs, CO (5156 N Academy Blvd)] location still used the early beta paint job,with the dimples painted on and thick shading around the outside.It's unknown why this was done.This was quickly corrected and the sun's final paint job started being used.
+
+Sun animatronics would continue to be produced up until 1983. The January batch would be the last used inside ShowBiz Pizza restaurants, and would be kept and stored for future openings, while [Creative Engineering] would continue to produce bots until June. Now with a surplus of bots, these would need to be sold to other family entertainment centers.
+
+During [Concept Unification] process,The Sun would be converted to The Building. [4] currently the only publicly operating building is located at the [Charlotte, NC (7701 Pineville-Matthews Rd)] location
+
+## Design
+
+The Sun is a yellow sun with a mouth and blue eyes,it has large red lips,a big red nose and red cheeks.
 
 ## Movements
 
-The Sun features 2 movements, being its head raise, and mouth. The raise mechanism has a spring within the pole attaching the Sun to the raise block, this allows for a bouncing effect.
+The Sun features 2 movements.His airlines are connected to the props valve bank [5]
 
-| Movement |
-|----------|
-| Mouth    |
-| Raise Up |
-
-It is notable that early Sun mechanisms used to have a body turn, however this was never programmed, and after the initial production batch the body turn was removed. This movement is mentioned on early movement lists and is installed on David Ferguson's Sun animatronic.
-
-## Current Sun Animatronics
-
-| Place                                            | Address                                                     | Availability                               | Condition        |
-|--------------------------------------------------|-------------------------------------------------------------|--------------------------------------------|------------------|
-| [Billy Bob's Wonderland] | 5 Cracker Barrel Dr, Barboursville, WV 25504                | Public                                     | Operational.     |
-| Creative Engineering, Inc.                       | 116 Shriners Club Rd, Pomona Park, FL 32112                 | Privately owned, need contact for viewing. | Operational.     |
-| Smitty's Super Service Station                   | 1545 MS-48 E, Sandy Hook, MS 39478                          | Privately owned, need contact for viewing. | Operational.     |
-| Volo Museum                                      | 27582 Volo Village Rd, Volo, IL 60073                       | Public                                     | Operational.     |
-| David Ferguson                                   | Pendleton, IN                                               | Privately owned                            | Operational.     |
-| John Zerwas                                      | Minneapolis, MN                                             | Privately owned                            | Operational.     |
-| Jack Turner                                      | Independence, MO                                            | Privately owned                            | Operational.     |
-| Andrew Lantka                                    | Morris, IL                                                  | Privately owned                            | Operational.     |
-| 'Mike'                                           | Unknown, MO                                                 | Privately owned                            | Operational.     |
-| Chris Giffen                                     | York, PA                                                    | Privately owned                            | Operational.     |
-| Brian Aiken                                      | Orlando, FL                                                 | Privately owned                            | Operational.     |
-| Finn                                             | Bellingham, WA                                              | Privately owned                            | Operational.     |
-| DreamFactory                                     | Weierwiesstrasse 8, 9113 Degersheim, Switzerland            | Public                                     | Operational.     |
-| Wolmi Theme Park                                 | 81 Wolmimunhwa-ro, Gaho-dong, Jung-gu, Incheon, South Korea | Public                                     | Non-functioning. |
-| Gulliver's Kingdom                               | Temple Walk, Matlock Bath DE4 3PG, United Kingdom           | Public                                     | Operational.     |
-| Gulliver's World                                 | Shackleton Cl, Old Hall, Warrington WA5 9YZ, United Kingdom | Under Restoration.                         | Non-functioning. |
-| Gulliver's Land                                  | Livingstone Dr, Milton Keynes MK15 0DT, United Kingdom      | Planned Restoration.                       |                  |
-
-## Current Building Animatronic
-
-|                 |                                                                      |
-|-----------------|----------------------------------------------------------------------|
-| Place           | Address                                                              |
-| Chuck E. Cheese | [Charlotte, NC (7701 Pineville-Matthews Rd)] |
+| Movement | Valve | Bit | Grey Box Drawer |
+| -------- | ----- | --- | --------------- |
+| Mouth | 1 | 38 | Top |
+| Raise Up | 2 | 39 | Top |

@@ -2,39 +2,126 @@
   "title": "Bridgeville, PA (1025 Washington Pike)",
   "storeNumber": "",
   "startDate": "1983-02-17",
-  "endDate": "2002-00-00",
-  
+  "endDate": "2002-10-00",
   "remodels": [],
   "stages": [
     {
       "n": "Balcony Stage",
       "s": "1983-02-17",
-      "e": "0000-00-00"
+      "e": "1989-00-00"
     },
     {
       "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1989-00-00",
+      "e": "1992-00-00"
     },
     {
       "n": "2-Stage",
       "s": "1992-00-00",
-      "e": "2002-00-00"
+      "e": "2002-10-00"
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "SkyTubes",
+      "desc": "",
+      "s": "1998-00-00",
+      "e": "2002-10-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "40.36444672",
     "-80.11325788"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "ziojPIB3XWH8z9vSYsTc.avif",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-02-17",
+      "e": "2002-10-00"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-02-17",
+      "e": "2002-10-00"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-02-17",
+      "e": "2002-10-00"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-02-17",
+      "e": "2002-10-00"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-02-17",
+      "e": "2002-10-00"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-02-17",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-02-17",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-02-17",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Chuck flag owned by Corey of Iron Blast Game Zone.",
+      "l": "",
+      "s": "1983-02-17",
+      "e": "2002-10-00"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "desc": "Added upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1989-00-00",
+      "e": "1992-00-00"
+    },
+    {
+      "n": "Wink (Animatronic)",
+      "desc": "Added upon installation of 2-Stage. Current whereabouts unknown.",
+      "l": "",
+      "s": "1992-00-00",
+      "e": "2002-10-00"
+    }
   ]
 }

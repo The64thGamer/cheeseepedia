@@ -1,0 +1,5 @@
+***Syracuse, NY (3023 Erie Blvd)***, Store #526, is a corporate-owned Chuck E. Cheese that opened on December 27, 2002, with a [Studio C Beta](/?v=cep-js&=6hnst5z70q7xekh9) and is still open to this day with the [CEC 2.0 Remodel Program](/?v=cep-js&=27e9rtfjazslj9uz). This store should not be confused with [Mattydale, NY (2803 Brewerton Rd)], which was a Chuck E. Cheese's Pizza Time Theatre that opened in August 1982 with a Balcony Stage and closed in November 1996 with a 2-Stage, and was sometimes known as "Syracuse."
+
+## History
+
+The Syracuse Chuck E. Cheese's opened on December 27, 2002, with [Phase 3 (2000)] and a Studio C Beta with a [Chuck E. Cheese 16m (Animatronic)]. Syracuse would keep its Phase 3 look for almost 17 years. On January 24, 2019, the store received the 2.0 remodel, where it was given a 2019-model Dance Floor. Syracuse remains like this.

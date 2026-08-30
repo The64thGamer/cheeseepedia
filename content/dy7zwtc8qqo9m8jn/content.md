@@ -14,18 +14,18 @@ The original [Creative Engineering] bots would be placed into the park's storage
 
 ## Design
 
-Maynard is an Elf wearing a pair of sunglasses,a green long sleeve shirt,a green pair of pants,a red pair of shorts held up by 2 red criss cross suspenders,a red vest with white fur accents,a pair of red pointy shoes with silver bells on the tips,and a red santa hat.
+Maynard is an Elf wearing a pair of sunglasses,a green long sleeve shirt,a green pair of pants,a red pair of shorts held up by 2 red criss cross suspenders,a red vest with white fur accents,a pair of red pointy shoes with silver bells on the tips,and a red Santa hat.
 
 ## Movements
 
 The animatronic has 7 movements [2]
 
-| Movement | Valve number | 1979 Biphase Controller bit |
-| -------- | ------------ | --------------------------- |
-| Mouth | Unknown | Unknown |
-| Head Turn Left | Unknown | Unknown |
-| Head Tilt Right | Unknown | Unknown |
-| Body Tilt | Unknown | Unknown |
-| Bass Tilt | Unknown | Unknown |
-| Left hand | Unknown | Unknown |
-| Foot tap | Unknown | Unknown |
+| Movement | Valve number | 1977 Tone Decoder Controller Bit | 1979 Tone Decoder Controller Bit |
+| -------- | ------------ | -------------------------------- | -------------------------------- |
+| Mouth | Unknown | Unknown | Unknown |
+| Head Turn Left | Unknown | Unknown | Unknown |
+| Head Tilt Right | Unknown | Unknown | Unknown |
+| Body Tilt | Unknown | Unknown | Unknown |
+| Bass Tilt | Unknown | Unknown | Unknown |
+| Left hand | Unknown | Unknown | Unknown |
+| Foot tap | Unknown | Unknown | Unknown |

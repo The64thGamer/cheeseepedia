@@ -14,7 +14,7 @@ The original [Creative Engineering] bots would be placed into the park's storage
 
 ## Design
 
-As his name implies he is an elf parody of [Elton John](https://ro.wikipedia.org/wiki/Elton_John).He is an Elf wearing a pair of green eccentric glasses,a green long sleeve shirt,a green pair of pants,a red pair of shorts held up by 2 red criss cross suspenders,a red vest with white fur accents,a pair of red pointy shoes with silver bells on the tips,and a red santa hat.
+As his name implies he is an elf parody of [Elton John](https://ro.wikipedia.org/wiki/Elton_John).He is an Elf wearing a pair of green eccentric glasses,a green long sleeve shirt,a green pair of pants,a red pair of shorts held up by 2 red criss cross suspenders,a red vest with white fur accents,a pair of red pointy shoes with silver bells on the tips,and a red Santa hat.
 
 ## Movements
 
@@ -29,5 +29,3 @@ The animatronic has 7 movements [2]
 | Right Leg Kick | Unknown | Unknown |
 | Left Hand | Unknown | Unknown |
 | Right Hand | Unknown | Unknown |
-
-

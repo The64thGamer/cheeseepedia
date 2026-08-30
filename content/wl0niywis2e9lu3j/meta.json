@@ -7,11 +7,18 @@
     "dame0824"
   ],
   "type": "Showtapes",
-  "endDate": "0000-00-00",
+  "endDate": "2026-04-26",
   "pageThumbnailFile": "Spring2026.avif",
   "downloadLinks": [],
   "tags": [
     "Chuck E. Cheese's"
   ],
-  "citations": []
+  "citations": [],
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "showtapeFormats": [
+    "CEC Stage Legacy Navori"
+  ]
 }

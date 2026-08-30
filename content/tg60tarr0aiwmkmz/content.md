@@ -1,0 +1,5 @@
+***Long Island City, NY (3419 48th St)***, Store #513 (also known as ***Queens***) is a corporate-owned Chuck E. Cheese's that opened on January 7, 2000, with a Studio C Alpha and is still open with the 2.0 remodel. It is one of four stores located on Long Island. 
+
+## History
+
+The Long Island City Chuck E. Cheese's opened on January 7, 2000, with [Phase 3 (2000)] and a [Studio C Alpha] with a [Chuck E. Cheese 32m (Animatronic)]. When the store opened, Chuck sported his Late Night Tuxedo, which was replaced in the mid-2000s for his Cool Chuck attire. Around 2006 or 2007, the store would receive the [CEC 2000's Remodel Program](/?v=cep-js&=gwji4ow3ao6sc3zq), keeping the store's exterior as is. In 2012, Chuck received his Avenger outfit. His Avenger cap was removed in September 2013, and not long after, he would receive his Rockstar outfit. In 2016, the store remodeled once again, the store's exterior still remaining untouched. The outdoor sign with Chuck pointing to the parking lot occasionally fell off, warranting its replacement with a clipart version in 2022; this sign was removed during Long Island City's 2.0 remodel in August 2023.

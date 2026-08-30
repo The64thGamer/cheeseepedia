@@ -9,11 +9,12 @@
     "Elfen John",
     "Jingle Bell Jamboree"
   ],
-  "pageThumbnailFile": "",
+  "pageThumbnailFile": "pvxg1d9v40huiz3e",
   "startDate": "1977-00-00",
   "endDate": "2006-00-00",
   "contributors": [
-    "GallaRM"
+    "GallaRM",
+    "TutorialTimeYt"
   ],
   "citations": [
     "https://www.showbizpizza.com/info/promo/cei/cei_1977promo.pdf",
@@ -21,5 +22,9 @@
     "https://www.youtube.com/watch?v=gXRLC910FQA",
     "https://www.showbizpizza.com/events/12daysofdata/index.html",
     "https://www.instagram.com/p/CEgu7b2HDWb"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

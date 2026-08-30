@@ -1,18 +1,27 @@
 {
-  "title": "Satchemo (Animatronic)",
+  "title": "Satchmo (Animatronic)",
   "startDate": "1977-00-00",
-  "endDate": "0000-00-00",
-  "pageThumbnailFile": "",
+  "endDate": "2006-00-00",
+  "pageThumbnailFile": "wrk8723gwk1wsl01",
   "contributors": [
-    "Kathydra"
+    "Kathydra",
+    "TutorialTimeYt"
   ],
   "citations": [
-    "<a href=\"https://www.youtube.com/watch?v=P_xrIayIsV8\">The Jingle Bell Jamboree 1977</a>",
-    "<a href=\"https://www.showbizpizza.com/events/index.html\">https://www.showbizpizza.com/events/index.html</a>",
-    "<a href=\"https://www.youtube.com/watch?v=gXRLC910FQA\">Santa Claus Revue 2006</a>"
+    "https://www.showbizpizza.com/info/promo/cei/cei_1977promo.pdf",
+    "https://www.youtube.com/watch?v=P_xrIayIsV8",
+    "https://www.youtube.com/watch?v=gXRLC910FQA",
+    "https://www.showbizpizza.com/events/12daysofdata/index.html",
+    "https://www.instagram.com/p/CEgu7b2HDWb"
   ],
   "type": "Animatronics",
   "tags": [
-    "Creative Engineering"
+    "Creative Engineering",
+    "Jingle Bell Jamboree",
+    "Santa's Village"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

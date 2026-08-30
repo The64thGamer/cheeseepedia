@@ -1,0 +1,1 @@
+The exterior of [Greece, NY (3130 W Ridge Rd)]. Taken by ThatRockHistorian76.

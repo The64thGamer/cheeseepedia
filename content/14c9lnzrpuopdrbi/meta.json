@@ -3,35 +3,62 @@
   "storeNumber": "",
   "startDate": "1983-06-07",
   "endDate": "1996-11-17",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-06-07"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1989-00-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-00-00"
+    }
+  ],
   "stages": [
     {
       "n": "Balcony Stage",
       "s": "1983-06-07",
-      "e": "0000-00-00"
+      "e": "1989-00-00"
     },
     {
       "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1989-00-00",
+      "e": "1993-00-00"
     },
     {
       "n": "2-Stage",
-      "s": "1992-00-00",
-      "e": "1996-09-00",
-      "desc": "Possibly sent to Virginia Beach, VA (2699 Lishelle Place)"
+      "s": "1993-00-00",
+      "e": "1996-11-17",
+      "desc": "Possibly sent to [Virginia Beach, VA (2699 Lishelle Place)]."
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Fantasy Forest",
+      "desc": "",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Cheese Crawl",
+      "desc": "",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "42.12217817",
     "-75.96433658"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "8Wa1zc63mW7VX3q489i6.avif",
   "type": "Locations",

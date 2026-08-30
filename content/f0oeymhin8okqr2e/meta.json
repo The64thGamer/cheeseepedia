@@ -31,9 +31,9 @@
       "desc": "Earlier installation."
     },
     {
-      "n": "Video Wall",
+      "n": "Jumbo Video Wall (Jumbotron)",
       "desc": "",
-      "s": "2025-00-00",
+      "s": "2021-00-00",
       "e": ""
     }
   ],
@@ -73,6 +73,12 @@
       "n": "Ticket Blaster",
       "desc": "",
       "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Trampoline Zone",
+      "desc": "",
+      "s": "2024-00-00",
       "e": "0000-00-00"
     }
   ],

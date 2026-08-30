@@ -2,14 +2,27 @@
   "title": "Antioch (Animatronic)",
   "type": "Animatronics",
   "tags": [
-    "ShowBiz Pizza Place"
+    "ShowBiz Pizza Place",
+    "Creative Engineering",
+    "Rock-afire Explosion"
   ],
   "startDate": "1980-00-00",
   "endDate": "0000-00-00",
   "contributors": [
-    "CECMentor"
+    "CECMentor",
+    "TutorialTimeYt"
   ],
-  "citations": [],
+  "citations": [
+    "https://www.youtube.com/watch?v=gf73b_1rDAE",
+    "https://www.youtube.com/watch?v=NCDdwKUAHvM",
+    "https://youtu.be/XUCqqr6APtg?si=aRIkLSGs3Dah67rV&t=136",
+    "https://www.youtube.com/watch?v=eEBoRlNUpks",
+    "https://archive.org/details/concept-unification-installation-manual/page/36/mode/2up"
+  ],
   "pageThumbnailFile": "oJIDCoV3L0pfQN9NSSwx.avif",
-  "manufacturer": "Creative Engineering"
+  "manufacturer": "Creative Engineering",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }
