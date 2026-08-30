@@ -1,0 +1,1 @@
+The exterior of [Henrietta, NY (1000 Hylan Dr)] post-closure. Photo credit: Big Chuck on Google.

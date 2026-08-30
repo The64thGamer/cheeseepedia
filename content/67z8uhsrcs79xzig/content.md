@@ -1,0 +1,1 @@
+The [Phase 3 (2000)] exterior of [Greece, NY (3130 W Ridge Rd)].

@@ -1,6 +1,14 @@
 {
   "endDate": "",
-  "citations": [],
+  "citations": [
+    "https://www.showbizpizza.com/photos/rae/cei_artwork/art01.jpg",
+    "https://www.showbizpizza.com/rae/characters/billybob.html#cite",
+    "https://archive.org/details/1980-jax-rae-scans/CC006843-27C0-4165-94FC-BD9C9EFD8B6F.jpeg",
+    "https://www.youtube.com/watch?v=L40-h9hAbiA",
+    "https://archive.org/details/concept-unification-installation-manual/page/7/mode/2up",
+    "https://www.instagram.com/ceiparts/p/C9PO7a1RSpD/",
+    "https://archive.org/details/rock-afire-explosion-service-manual/page/n21/mode/2up"
+  ],
   "startDate": "1980-00-00",
   "manufacturer": "Creative Engineering",
   "title": "Billy Bob (Animatronic)",
@@ -9,11 +17,19 @@
     "Livelycheese",
     "Stripes",
     "Kathydra",
-    "Anonymous"
+    "Anonymous",
+    "TutorialTimeYt"
   ],
   "type": "Animatronics",
   "pageThumbnailFile": "aS9HrFnwFpSUb3f1nnvc.avif",
   "tags": [
-    "ShowBiz Pizza Place"
-  ]
+    "ShowBiz Pizza Place",
+    "Creative Engineering",
+    "Rock-afire Explosion"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "credits": []
 }

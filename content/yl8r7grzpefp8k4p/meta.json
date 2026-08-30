@@ -3,27 +3,55 @@
   "storeNumber": "",
   "startDate": "1983-08-00",
   "endDate": "1996-11-24",
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-08-00"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1989-00-00"
+    }
+  ],
   "stages": [
     {
       "n": "Balcony Stage",
       "s": "1983-08-00",
-      "e": "0000-00-00"
+      "e": "1989-00-00"
     },
     {
       "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
+      "s": "1989-00-00",
       "e": "1993-00-00"
     },
     {
       "n": "2-Stage?",
       "desc": "Rumored to have been installed, but unconfirmed.",
-      "s": "1993-00-00",
+      "s": "0000-00-00",
       "e": "1996-11-24"
     }
   ],
-  "franchisees": [],
-  "attractions": [],
+  "franchisees": [
+    {
+      "n": "McKnight Family Centers",
+      "s": "1983-08-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Cheese E. Street",
+      "desc": "One of two in Pennsylvania.",
+      "s": "1983-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Tinker Towers",
+      "desc": "",
+      "s": "1983-08-00",
+      "e": "1989-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "40.34673172",
@@ -31,12 +59,99 @@
   ],
   "citations": [],
   "contributors": [
-    "HeyItzGabriel"
+    "HeyItzGabriel",
+    "ThatRockHistorian76"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "FJ0CNrt2Lgd5ZIAGd0rZ.avif",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-08-00",
+      "e": "1996-11-24"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-08-00",
+      "e": "1996-11-24"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-08-00",
+      "e": "1996-11-24"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-08-00",
+      "e": "1996-11-24"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-08-00",
+      "e": "1996-11-24"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-08-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-08-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-08-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-08-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "The King / King Kat (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-08-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "desc": "Added upon installation of Chuck E.'s House Facade.",
+      "l": "",
+      "s": "1989-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Wink (Animatronic)?",
+      "desc": "Would have been added upon installation of 2-Stage. If this was the case, its current whereabouts are unknown.",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
   ]
 }

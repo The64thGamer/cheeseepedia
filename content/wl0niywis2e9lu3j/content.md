@@ -1,9 +1,9 @@
-**Chuck E. Cheese Legacy Spring 2026 Show** was released on March 2, 2026.
+**Chuck E. Cheese Legacy Spring 2026 Show** was released on March 2, 2026 & played until April 26 2026
 
-## Showlist 04/22 Update:
+## Showlist 04/22 update 
 
 1. Intermission 1
-    1. Paris & Pups-Starkle On
+    1. Harlem Globetrotters-Ways We Celebrate 
     2. Chuck E. Cheese - 'Stay Positive'
     3. Dippin' Dots Promo
     4. Chuck E. & Friends - 'Do Re Mi'
@@ -36,7 +36,8 @@
 3. Me & My Friends (Legacy Navori)
 4. Spring Break Break Dance (Legacy Navori)
 
-## Fireables 04/22 Update:
+
+## Fireables 04/22 Update 
 
 1. Helen & Bella B. - 'Baliando' (2022) (Legacy Navori)
 2. Chuck E. Cheese - 'Dancin' Kitten' (Legacy Navori)
@@ -103,7 +104,7 @@
 11. Chuck E. & Friends - 'Because We’re Friends' (2025) (Legacy Navori)
 12. Chuck E. & Friends - 'Barbara The Barnyard Barber' (Legacy Navori)
 
-## Showlist 03/14 Update:
+## Showlist 03/14 & 03/24 Update:
 
 1. Intermission 1
 2. Paris & Pups - 'Starkle On!'
@@ -134,14 +135,14 @@
     3. Bella B. - ‘¡A Divertinos!’
     4. KIDZ BOP Kids - 'Tears' (ASL)
 
-## Lives 03/14 Update:
+## Lives 03/14 & 3/24 Update:
 
 1. Chuck E. Cheese Birthday Extravaganza (Legacy Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Legacy Navori)
 3. Me & My Friends (Legacy Navori)
 4. Spring Break Break Dance (Legacy Navori)
 
-## Fireables 03/14 Update:
+## Fireables 03/14 & 4/24 Update:
 
 1. Helen & Bella B. - 'Baliando' (2022) (Legacy Navori)
 2. Chuck E. Cheese - 'Dancin' Kitten' (Legacy Navori)
@@ -275,4 +276,4 @@
 2. 03/14 Update - Dippin' Dots Promo is added.
 3. 3/22-Paris & Pups-Starkle On Removal
 4. 3/24-Paris & Pups-Starkle On added back (same schedule as 3/14)
-5. Chuck E & Friends-“Bubble Bubble Pop” moved to after Kidzbop Kids-ASL “Golden”
+5. 4/24-Chuck E & Friends-“Bubble Bubble Pop” moved to after Kidzbop Kids-ASL “Golden”

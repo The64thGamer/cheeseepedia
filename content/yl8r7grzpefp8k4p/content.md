@@ -1,0 +1,9 @@
+***West Mifflin, PA (2260 Lebanon Church Rd)*** was a Chuck E. Cheese's Pizza Time Theatre that opened in August 1983 as a franchise location with a [Balcony Stage] and closed on November 24, 1996, with a [2-Stage]. The store was located in a freestanding building in the Greenbrier Shopping Center and was about 16 minutes away from the Kennywood Amusement Park. When this store received the 1988 remodel, it had a unique logo on the road sign (the "Chuck E. Cheese's Pizza" lettering was the same as every other store opening at the time) that was also featured on the exterior of the [Harrisburg, PA (3883 Union Deposit Rd)](/?v=cep-js&=171ytxy54pzatt8e) store and the road sign of the [Bridgeville, PA (1025 Washington Pike)](/?v=cep-js&=64jti3f8sl7tpj23) location.
+
+## History
+
+The West Mifflin Pizza Time Theatre opened in August 1983 in the Greenbrier Shopping Center. The store was franchised by McKnight Family Centers, and opened with the Cabaret room, The King, playgrounds like the Tinker Towers, and a Balcony Stage. Additionally, West Mifflin was one of two stores in Pennsylvania to receive [Cheese E. Street], the other being [Norristown, PA (2834 Dekalb Pike)]. In 1989/90, the store received the 1988 remodel, which removed the Tinker Towers and saw the Balcony Stage retrofitted into a [Chuck E.'s House Facade]. The store is rumored to have received a [2-Stage] sometime after 1991, but this is unconfirmed.
+
+### Closure & Future Occupants
+
+On November 24, 1996, the West Mifflin Chuck E. Cheese's permanently closed due to unknown reasons. Following its closure, the building became a gym, which also eventually closed. The building stood for 39 years until demolition began in late 2022. Since October 2023, a new building has stood on the site, which houses a Discount Tire.

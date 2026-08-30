@@ -1,5 +1,4 @@
 {
-  
   "title": "Scottsdale, AZ (8890 E Indian Bend Rd)",
   "startDate": "1999-09-00",
   "endDate": "2009-00-00",
@@ -40,7 +39,7 @@
       "n": "Skee Ball",
       "s": "0000-00-00",
       "e": "2009-00-00",
-      "desc": "6 Units, Sent to Goodyear, AZ."
+      "desc": "6 Units"
     },
     {
       "n": "Penalty Shoot Out",
@@ -70,7 +69,8 @@
     {
       "n": "Tik Tak Clock",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "Sent to Goodyear, AZ."
     },
     {
       "n": "Amutec Turbo Car",
@@ -95,7 +95,8 @@
     {
       "n": "Fetch The Vet",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "Sent to Goodyear, AZ."
     },
     {
       "n": "Toddler Zone",

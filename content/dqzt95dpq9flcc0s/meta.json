@@ -1,9 +1,8 @@
 {
-  "title": "East Norriton / Norristown, PA (2834 Dekalb Pike)",
+  "title": "Norristown, PA (2834 Dekalb Pike) \"East Norriton\"",
   "storeNumber": "",
   "startDate": "1983-06-00",
   "endDate": "1985-00-00",
-  
   "remodels": [],
   "stages": [
     {
@@ -13,18 +12,85 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Cheese E. Street",
+      "desc": "One of two in Pennsylvania.",
+      "s": "1983-06-00",
+      "e": "1985-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "40.1296956",
     "-75.3244548"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Either Harmony Howlette or Madame Oink upon opening, Helen Henny by August 1983. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Rainbow variant. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-06-00",
+      "e": "1985-00-00"
+    }
   ]
 }

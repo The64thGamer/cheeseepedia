@@ -1,4 +1,4 @@
-**Chuck E. Cheese Spring 2026 Show** was released on March 2, 2026.
+**Chuck E. Cheese Spring 2026 Show** was released on March 2, 2026 & way played until April 26 2026
 
 ## Showlist Update 4/24
 
@@ -31,36 +31,35 @@
 
 ## Showlist Update 3/22
 
-1. 
-    1. Harlem Globetrotters - 'Ways We Celebrate'
-    2. Chuck E. Cheese - 'Stay Positive'
-    3. Dippin' Dots Promo
-    4. Chuck E. & Friends - 'Do Re Mi'
-    5. KIDZ BOP Kids - 'Golden' (ASL)
-    6. Bella B. & Chuck E. - 'Bella's Garden'
-    7. Jasper T. Jowls - 'This Friendship Ain't No Accident'
-    8. Chuck E. & Friends - 'Water Buffalo' (ASL)
-    9. Helen Henny - 'Disco Dancing Dinosaur Party'
-    10. Chuck E. & Helen - 'I Dare You Not to Laugh'
-    11. KIDZ BOP Kids - 'DeBÍ TiRAR MáS FOToS'
-    12. Chuck E. & Friends - 'Barbara The Barnyard Barber'
-    13. Chuck E. & Friends - 'Chuck E.'s Middle Name'
-    14. KIDZ BOP Kids - 'Manchild' (ASL)
-    15. Chuck E. & Friends - 'Bubble Bubble Pop'
-    16. Jasper T. Jowls - 'That's A Deal'
-    17. Bella B. & Helen - 'Bailando'
-    18. KIDZ BOP Kids - 'Ordinary' (ASL)
-    19. Bella B. - ‘¡A Divertinos!’
-    20. KIDZ BOP Kids - 'Tears' (ASL)
+1. Harlem Globetrotters - 'Ways We Celebrate'
+    1. Chuck E. Cheese - 'Stay Positive'
+    2. Dippin' Dots Promo
+    3. Chuck E. & Friends - 'Do Re Mi'
+    4. KIDZ BOP Kids - 'Golden' (ASL)
+    5. Bella B. & Chuck E. - 'Bella's Garden'
+    6. Jasper T. Jowls - 'This Friendship Ain't No Accident'
+    7. Chuck E. & Friends - 'Water Buffalo' (ASL)
+    8. Helen Henny - 'Disco Dancing Dinosaur Party'
+    9. Chuck E. & Helen - 'I Dare You Not to Laugh'
+    10. KIDZ BOP Kids - 'DeBÍ TiRAR MáS FOToS'
+    11. Chuck E. & Friends - 'Barbara The Barnyard Barber'
+    12. Chuck E. & Friends - 'Chuck E.'s Middle Name'
+    13. KIDZ BOP Kids - 'Manchild' (ASL)
+    14. Chuck E. & Friends - 'Bubble Bubble Pop'
+    15. Jasper T. Jowls - 'That's A Deal'
+    16. Bella B. & Helen - 'Bailando'
+    17. KIDZ BOP Kids - 'Ordinary' (ASL)
+    18. Bella B. - ‘¡A Divertinos!’
+    19. KIDZ BOP Kids - 'Tears' (ASL)
 
-## Lives 03/24 Update:
+## Lives 03/22 Update:
 
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)
 3. Me & My Friends (Media Navori)
 4. Spring Break Break Dance (Media Navori)
 
-## Showlist 03/14 Update:
+## Showlist 03/14 & 3/24 Update:
 
 1. Intermission 1
 2. Paris & Pups: Paris Hilton - 'STARKLE ON!'
@@ -85,7 +84,7 @@
     19. Bella B. - ‘¡A Divertinos!’
     20. KIDZ BOP Kids -Tears (ASL)
 
-## Lives 03/14 Update:
+## Lives 03/14 & 3/24 Update:
 
 1. Chuck E. Cheese Birthday Extravaganza (Media Navori)
 2. Chuck E. Cheese Birthday Extravaganza Spanish (Media Navori)

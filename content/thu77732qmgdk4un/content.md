@@ -1,0 +1,1 @@
+A birthday party at [Commack, NY (6137 Jericho Turnpike)]. The [Balcony Stage] with Helen Henny is in the background.

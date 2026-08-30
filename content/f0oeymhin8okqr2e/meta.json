@@ -14,19 +14,19 @@
     },
     {
       "n": "CEC 2.0 Remodel Program",
-      "s": "2018-00-00"
+      "s": "2018-10-03"
     }
   ],
   "stages": [
     {
       "n": "Studio C Beta",
       "s": "2003-07-05",
-      "e": "2018-00-00",
+      "e": "2018-10-03",
       "desc": "16-movement bot."
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2018-00-00",
+      "s": "2018-10-03",
       "e": "",
       "desc": "Earlier installation."
     },
@@ -40,46 +40,76 @@
   "franchisees": [],
   "attractions": [
     {
+      "n": "Alley Roller Classic",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": ""
+    },
+    {
+      "n": "CEC Photo Ride",
+      "desc": "Avenger era, slightly rethemed and repainted for the Rockstar era.",
+      "s": "0000-00-00",
+      "e": ""
+    },
+    {
       "n": "Chuck E.'s Glider Rider",
       "desc": "",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": ""
     },
     {
       "n": "City Bus Tours",
       "desc": "",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": ""
+    },
+    {
+      "n": "Frogger (ICE)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "Milk Jug Toss",
       "desc": "",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": ""
     },
     {
-      "n": "Pink Panther Jewel Heist",
+      "n": "NBA Hoop Troop",
       "desc": "",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": ""
     },
     {
       "n": "Pop It for Gold",
       "desc": "",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": ""
+    },
+    {
+      "n": "Sea Wolf (2008)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": ""
+    },
+    {
+      "n": "Snow Day!",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "Ticket Blaster",
       "desc": "",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": ""
     },
     {
       "n": "Trampoline Zone",
       "desc": "",
       "s": "2024-00-00",
-      "e": "0000-00-00"
+      "e": ""
     }
   ],
   "sqft": "",
@@ -92,7 +122,7 @@
     "ThatRockHistorian76"
   ],
   "downloadLinks": [],
-  "pageThumbnailFile": "",
+  "pageThumbnailFile": "jqq13w9z8bkl9y4p",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
@@ -103,7 +133,7 @@
       "desc": "Current whereabouts unknown.",
       "l": "",
       "s": "2003-07-05",
-      "e": "2018-00-00"
+      "e": "2018-10-03"
     }
   ]
 }

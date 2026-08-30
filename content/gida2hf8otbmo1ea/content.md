@@ -1,0 +1,1 @@
+The [Studio C Beta] at [Greece, NY (3130 W Ridge Rd)]. Photo Credit: Megan Salvemini on Google.

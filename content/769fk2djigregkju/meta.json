@@ -2,7 +2,10 @@
   "title": "Moon (Animatronic)",
   "type": "Animatronics",
   "tags": [
-    "ShowBiz Pizza Place"
+    "ShowBiz Pizza Place",
+    "Creative Engineering",
+    "Rock-afire Explosion",
+    "Concept Unification Stage"
   ],
   "startDate": "1980-00-00",
   "endDate": "0000-00-00",
@@ -14,9 +17,22 @@
     "CEC Tinley",
     "CyberSnout",
     "CECMentor",
-    "AstridMascotFan2005"
+    "AstridMascotFan2005",
+    "TutorialTimeYt"
   ],
-  "citations": [],
+  "citations": [
+    "https://archive.org/details/1981-rock-afire-postcard",
+    "https://www.instagram.com/showbizpizzakid/p/DV9EaSeETEq/?img_index=2",
+    "https://www.instagram.com/renstercec/p/DTUAYZwjb_k/?img_index=2",
+    "https://archive.org/details/concept-unification-installation-manual/page/45/mode/2up",
+    "https://archive.org/details/rock-afire-explosion-service-manual/page/n23/mode/2up",
+    "https://www.showbizpizza.com/info/documents/cei/cei_looneyretrofit.pdf",
+    "https://www.worthpoint.com/worthopedia/showbiz-pizza-place-moon-robot-lunar-1837980414"
+  ],
   "manufacturer": "Creative Engineering",
-  "pageThumbnailFile": "7EQm2t_6YPFJ2aX_ePjy.avif"
+  "pageThumbnailFile": "7EQm2t_6YPFJ2aX_ePjy.avif",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

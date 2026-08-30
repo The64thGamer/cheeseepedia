@@ -2,7 +2,7 @@
 
 ## History
 
-The Johnson City Pizza Time Theatre opened on June 7, 1983, with the [PTT Standard Layout] and a Balcony Stage, a Cabaret, and the Fantasy Forest arcade. The store's Balcony Stage had a Cheese Crawl. In 1989, the store received the [SPT 1980's Remodel Program], and the Balcony Stage was retrofitted into a [Chuck E.'s House Facade]. Interestingly, the store kept the PTT signage for the rest of its operation. Johnson City would receive the [SPT 1990's Remodel Program] around 1993, and replaced the Chuck E.'s House Facade with a 2-Stage.
+The Johnson City Pizza Time Theatre opened on June 7, 1983, with the [PTT Standard Layout] and a Balcony Stage, a Cabaret, and the Fantasy Forest arcade. At some point in its first year, Johnson City received [Cheese E. Street], and was one of only two stores in New York to have it, the other being [Cheektowaga, NY (Thruway Mall)]. The store's Balcony Stage had a Cheese Crawl. In 1989, the store received the [SPT 1980's Remodel Program], and the Balcony Stage was retrofitted into a [Chuck E.'s House Facade]. Interestingly, the store kept the PTT signage for the rest of its operation. Johnson City would receive the [SPT 1990's Remodel Program] around 1993, and replaced the Chuck E.'s House Facade with a 2-Stage.
 
 ## Closure
 

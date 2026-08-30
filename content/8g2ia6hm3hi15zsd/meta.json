@@ -10,10 +10,28 @@
     "Kathydra",
     "TutorialTimeYt"
   ],
-  "citations": [],
+  "citations": [
+    "https://www.showbizpizza.com/photos/rae/cei_artwork/art01.jpg",
+    "https://www.youtube.com/watch?v=2uLCxt5Iz08",
+    "https://dn710202.ca.archive.org/0/items/1980-jax-rae-scans/F36906A8-C34B-4674-92DF-3C1C07C80680.jpeg",
+    "https://www.showbizpizza.com/info/promo/spp/spp_80franchise-rae.pdf",
+    "https://www.instagram.com/p/DVnE68Bjnxi/?img_index=2",
+    "https://www.youtube.com/watch?v=L40-h9hAbiA",
+    "https://www.youtube.com/watch?v=zBCU1vjLdGs",
+    "https://archive.org/details/concept-unification-installation-manual/page/9/mode/2up",
+    "https://archive.org/details/concept-unification-installation-manual/page/24/mode/2up",
+    "https://archive.org/details/rock-afire-explosion-service-manual/page/n23/mode/2up",
+    "https://www.showbizpizza.com/info/documents/cei/cei_looneyretrofit.pdf"
+  ],
   "manufacturer": "Creative Engineering",
   "type": "Animatronics",
   "tags": [
-    "ShowBiz Pizza Place"
+    "ShowBiz Pizza Place",
+    "Creative Engineering",
+    "Rock-afire Explosion"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

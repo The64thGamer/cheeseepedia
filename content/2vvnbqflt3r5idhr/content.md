@@ -1,0 +1,1 @@
+A birthday party at [Colonie, NY (1440 Central Ave)].

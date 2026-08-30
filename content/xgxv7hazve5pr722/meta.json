@@ -6,7 +6,8 @@
   "contributors": [
     "sudo trans --pony",
     "Ceclife13",
-    "CyCGM"
+    "CyCGM",
+    "sudo-trans-pony"
   ],
   "citations": [
     "https://youtu.be/Xfk9e0scyY4"
@@ -68,7 +69,7 @@
     },
     {
       "url": "https://archive.org/download/3stage_dvd_signals/September%202006%203-Stage-005.iso",
-      "label": "Studio C DVD ISO"
+      "label": "3-Stage DVD ISO"
     }
   ],
   "type": "Showtapes",
