@@ -1,0 +1,1 @@
+Stage left of the NRAE stage at the 1994 IAAPA showing Beach Bear and Window Looney Bird

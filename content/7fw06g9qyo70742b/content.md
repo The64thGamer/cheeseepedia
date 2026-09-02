@@ -1,0 +1,1 @@
+A birthday party in front of the [Balcony Stage] at [Northridge, CA (8425 Reseda Blvd)], which is decorated for Christmas.

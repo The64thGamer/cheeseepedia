@@ -1,0 +1,1 @@
+Photo at the 1994 iaapa showing most of the Nrae stagewith the karaoke and show selector,plus the Nrae Billy Bob and Fatz walkarounds

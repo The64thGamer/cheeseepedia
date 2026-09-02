@@ -27,7 +27,5 @@ Queenie is a red fox positioned on the far right of the stage. At the 1978 IAAPA
 | Right Elbow | Left Wrist | 13 |
 | Left Wrist | Right Wrist | 14 |
 | Right Wrist | Body Lean | 15 |
-| Body Tip | Body Twist | 16 |
+| Body lean | Body Twist | 16 |
 | Body Twist |  |  |
-
-

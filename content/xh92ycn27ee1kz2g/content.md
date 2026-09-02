@@ -1,0 +1,1 @@
+The NRAE Mitzi Walkaround displayed at the 1994 IAAPA behind Fatz

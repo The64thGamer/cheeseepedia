@@ -22,17 +22,17 @@ As his name implies he is an elf parody of [Elvis Presley](https://ro.wikipedia.
 
 The animatronic has 12 movements,not counting his raising from under the trapdoor.
 
-| Movement | Valve number | 1979 Biphase Controller Bit |
-| -------- | ------------ | --------------------------- |
-| Mouth | Unknown | Unknown |
-| Left Eyelid Raise | Unknown | Unknown |
-| Right Eyelid Raise | Unknown | Unknown |
-| Eye Turn Left | Unknown | Unknown |
-| Head Turn Left | Unknown | Unknown |
-| Head Turn Right | Unknown | Unknown |
-| Head Up | Unknown | Unknown |
-| Left Arm Raise | Unknown | Unknown |
-| Left Elbow | Unknown | Unknown |
-| Right Arm Raise | Unknown | Unknown |
-| Body Tilt | Unknown | Unknown |
-| Right Foot Tap | Unknown | Unknown |
+| Movement | Valve number | 1977 Tone Decoder Controller Bit | 1979 Tone Decoder Controller Bit |
+| -------- | ------------ | -------------------------------- | -------------------------------- |
+| Mouth | Unknown | Unknown | Unknown |
+| Left Eyelid Raise | Unknown | Unknown | Unknown |
+| Right Eyelid Raise | Unknown | Unknown | Unknown |
+| Eye Turn Left | Unknown | Unknown | Unknown |
+| Head Turn Left | Unknown | Unknown | Unknown |
+| Head Turn Right | Unknown | Unknown | Unknown |
+| Head Up | Unknown | Unknown | Unknown |
+| Left Arm Raise | Unknown | Unknown | Unknown |
+| Left Elbow | Unknown | Unknown | Unknown |
+| Right Arm Raise | Unknown | Unknown | Unknown |
+| Body Tilt | Unknown | Unknown | Unknown |
+| Right Foot Tap | Unknown | Unknown | Unknown |

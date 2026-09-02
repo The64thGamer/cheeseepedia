@@ -1,0 +1,1 @@
+The Chuck walkaround in front of the [Balcony Stage] at [West Mifflin, PA (2260 Lebanon Church Rd)].

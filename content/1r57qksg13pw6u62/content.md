@@ -1,0 +1,11 @@
+***Toledo, OH (5455 Airport Hwy)***, Store #554, was a corporate-owned Chuck E. Cheese's that opened on September 6, 1993, with a [1-Stage](https://cheeseepedia.org/?v=cep-js&=3wydhjb2shf35i6p) and closed on August 31, 2026. It still exists as of today, in good condition except for a few mechanical issues. Currently running Legacy Showtapes. This store is notable for being featured in a 2011 video where a Chuck E walkaround's head fell off during a Cupid Shuffle live show. This location should not be confused with [Toledo, OH (5077 Monroe St)], which is a Chuck E. Cheese's that opened on the same day with a 1-Stage and is still open with the 2.0 remodel.
+
+## History
+
+The Toledo (Airport) Chuck E. Cheese's opened on September 6, 1993, with a 1-Stage. The store opened on the exact same day as Toledo, OH (5077 Monroe St), which also opened with a 1-Stage.
+
+On October 17, 2011, a video taken at the Toledo store was posted to YouTube, in which the Chuck walkaround's head fell off during a Cupid Shuffle live show [1]. The video went viral.
+
+Toledo (Airport) was one of few stores outside of the Legacy locations that did not receive the 2.0 remodel. Following the removal of all other 1-Stages, with the exception of [Hicksville, NY (11 Hanover Pl)], Toledo's 1-Stage became the last in Ohio, and the last non-Legacy 1-Stage in North America. The store also became the last in Ohio to house Munch's Make Believe Band, and the last non-Legacy store to house it in the United States after the closure of [Huntington Beach, CA (15511 Edwards St)] on September 21, 2025. From 2024 to 2025, Toledo's stage, like all other remaining non-Legacy stages, was put into random movements and no longer played shows until ShowBizPizza.com visited the location and met the store's show tech [2]. From then on, the Toledo 1-Stage played Legacy shows [3], despite not being a Legacy store.
+
+On August 31, 2026, after almost 33 years of operation, the Toledo (Airport) Chuck E. Cheese's permanently closed. As a result, Hicksville now houses the last 1-Stage, and Munch's Make Believe Band has gone extinct outside of the Legacy locations. Additionally, there are now no CEC locations with animatronics in Ohio.

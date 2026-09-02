@@ -1,0 +1,1 @@
+The NRAE stage at Creative Engineering's booth at the 1994 IAAPA

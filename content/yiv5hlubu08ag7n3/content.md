@@ -1,0 +1,1 @@
+Newspaper advertisement for the [Burnaby, British Columbia, Canada (9898 Gatineau Pl)] Pizza Time Theatre.

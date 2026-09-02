@@ -2,13 +2,14 @@
   "title": "Toledo, OH (5455 Airport Hwy)",
   "storeNumber": "",
   "startDate": "1993-09-06",
-  "endDate": "",
-  
+  "endDate": "2026-08-31",
   "remodels": [],
   "stages": [
     {
       "n": "1-Stage",
-      "s": "1993-09-06"
+      "s": "1993-09-06",
+      "e": "2026-08-31",
+      "desc": "In store for almost 33 years. Last 1-Stage in Ohio, and last non-Legacy 1-Stage in the United States until closure."
     }
   ],
   "franchisees": [],
@@ -18,12 +19,62 @@
     "41.61359542",
     "-83.67071508"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "https://youtu.be/XfOafywsfXQ",
+    "https://www.youtube.com/shorts/CAyOR5az-so",
+    "https://youtu.be/Vr4tZkGoz\\_c?si=xzTRZ3uML3EDq-Aq"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1993-09-06",
+      "e": "2026-08-31"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1993-09-06",
+      "e": "2026-08-31"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1993-09-06",
+      "e": "2026-08-31"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1993-09-06",
+      "e": "2026-08-31"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1993-09-06",
+      "e": "2026-08-31"
+    },
+    {
+      "n": "Wink (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1993-09-06",
+      "e": "2026-08-31"
+    }
   ]
 }

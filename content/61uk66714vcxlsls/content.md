@@ -1,0 +1,1 @@
+All Shook Up Karaoke being played on the NRAE at the 1994 IAAPA

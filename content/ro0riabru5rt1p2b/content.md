@@ -20,12 +20,12 @@ As his name implies he is an elf parody of [Elton John](https://ro.wikipedia.org
 
 The animatronic has 7 movements [2]
 
-| Movement | Valve number | 1979 Biphase Controller bit |
-| -------- | ------------ | --------------------------- |
-| Nose | Unknown | Unknown |
-| Head Turn Left | Unknown | Unknown |
-| Body Lean | Unknown | Unknown |
-| Left Leg Kick | Unknown | Unknown |
-| Right Leg Kick | Unknown | Unknown |
-| Left Hand | Unknown | Unknown |
-| Right Hand | Unknown | Unknown |
+| Movement | Valve number | 1977 Tone Decoder Controller Bit | 1979 Tone Decoder Controller Bit |
+| -------- | ------------ | -------------------------------- | -------------------------------- |
+| Nose | Unknown | Unknown | Unknown |
+| Head Turn Left | Unknown | Unknown | Unknown |
+| Body Lean | Unknown | Unknown | Unknown |
+| Left Leg Kick | Unknown | Unknown | Unknown |
+| Right Leg Kick | Unknown | Unknown | Unknown |
+| Left Hand | Unknown | Unknown | Unknown |
+| Right Hand | Unknown | Unknown | Unknown |

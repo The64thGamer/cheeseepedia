@@ -3,48 +3,176 @@
   "storeNumber": "",
   "startDate": "1983-03-00",
   "endDate": "",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-03-00"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1988-00-00"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "1995-00-00"
+    },
+    {
+      "n": "Phase 2 (1997)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2005-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-12-00"
+    }
+  ],
   "stages": [
     {
       "n": "Balcony Stage",
       "s": "1983-03-00",
-      "e": "0000-00-00"
+      "e": "1988-00-00"
     },
     {
       "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1988-00-00",
+      "e": "1995-00-00"
     },
     {
       "n": "2-Stage",
       "s": "1995-00-00",
       "e": "2005-00-00",
-      "desc": "One of 4 installed in Florida. Replaced by Studio C Beta 16M."
+      "desc": "Show area relocated after removal."
     },
     {
       "n": "Studio C Beta",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "2005-00-00",
+      "e": "2022-12-00",
+      "desc": "16-movement bot. Last 16m Beta in Florida until removal."
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "0000-00-00"
+      "s": "2022-12-00",
+      "e": "",
+      "desc": "2021 model."
+    },
+    {
+      "n": "Video Wall",
+      "desc": "",
+      "s": "2022-12-00",
+      "e": ""
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "SkyTubes",
+      "desc": "Added in the Phase 2 (1997) remodel.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "27.78184637",
     "-82.71494533"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "t2Dl99fZ7YgGFs00xN5F.avif",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Removed upon installation of Studio C Beta. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-03-00",
+      "e": "2005-00-00"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Removed upon installation of Studio C Beta. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-03-00",
+      "e": "2005-00-00"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Removed upon installation of Studio C Beta. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-03-00",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Removed upon installation of Studio C Beta. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-03-00",
+      "e": "2005-00-00"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Removed upon installation of Studio C Beta. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-03-00",
+      "e": "2005-00-00"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-03-00",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-03-00",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-03-00",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "The King / King Kat (Cyberamic)",
+      "desc": "Removed in the Phase 1 (1994) remodel. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-03-00",
+      "e": "1995-00-00"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "desc": "Added upon installation of Chuck E.'s House Facade. Removed upon installation of 2-Stage. Current whereabouts unknown.",
+      "l": "",
+      "s": "1988-00-00",
+      "e": "1995-00-00"
+    },
+    {
+      "n": "Wink (Animatronic)",
+      "desc": "Added upon installation of 2-Stage. Removed upon installation of Studio C Beta. Current whereabouts unknown.",
+      "l": "",
+      "s": "1995-00-00",
+      "e": "2005-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "desc": "Added upon installation of Studio C Beta. Removed in 2.0 remodel and subsequently destroyed.",
+      "l": "",
+      "s": "2005-00-00",
+      "e": "2022-12-00"
+    }
   ]
 }

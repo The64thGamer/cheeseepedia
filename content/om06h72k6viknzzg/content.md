@@ -1,0 +1,1 @@
+The [Balcony Stage] at [West Mifflin, PA (2260 Lebanon Church Rd)] with the [Broadway (Balcony Stage Theme)] decorated for Christmas.

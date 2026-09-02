@@ -1,0 +1,1 @@
+The [Chuck E.'s House Facade] and part of the showroom at [Willowdale, Ontario, Canada (2452 Sheppard Ave)].

@@ -1,0 +1,1 @@
+Aaron Fechter singing All Shook Up on the Karaoke with the NRAE at the 1994 IAAPA

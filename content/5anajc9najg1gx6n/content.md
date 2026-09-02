@@ -1,0 +1,1 @@
+The [Balcony Stage] at [Northridge, CA (8425 Reseda Blvd)] with a hodge-podge of theming, with the Broadway background partially covered by a black rain curtain and Chuck donning his Country outfit.

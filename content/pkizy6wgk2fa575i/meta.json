@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1984-02-00",
   "endDate": "1987-04-26",
-  
   "remodels": [],
   "stages": [
     {
@@ -20,11 +19,71 @@
     "-74.00120358"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "1987-04-26"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "1987-04-26"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "1987-04-26"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "1987-04-26"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "1987-04-26"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "1987-04-26"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "1987-04-26"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "1987-04-26"
+    }
   ]
 }

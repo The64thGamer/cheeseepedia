@@ -87,7 +87,7 @@ This stage kept the same concept as the Balcony Stage; however, it was now theme
 | [Brookfield, WI (2435 N 124th St)] | One of two installed in Wisconsin. Replaced with a 1-Stage with a Turntable in 1994. Closed and relocated in 1997 to [Brookfield, WI (19125 W Blue Mound Rd)] with a [Studio C Alpha]. | 1989/1990 | 1994 |
 | [Milwaukee, WI (2701 S Chase Ave)] | One of two installed in Wisconsin. Replaced with a 1-Stage with a Turntable in 1994. | 1990 | 1994 |
 | [Brampton, Ontario, Canada (50 Kennedy Rd)] | One of five installed in Canada. Closed in 1991. | 1989/1990 | 1991 |
-| [Burnaby, British Columbia, Canada (9898 Government Pl)] | One of five installed in Canada. Closed sometime in 1995. Later converted into Jolly Genie's Pizza & Playpark (The stage itself was repainted pink, yellow, and teal with the removal of the animatronics) with an unknown closing date. | 1990 | 1995 |
+| [Burnaby, British Columbia, Canada (9898 Gatineau Pl)] | One of five installed in Canada. Closed sometime in 1995. Later converted into Jolly Genie's Pizza & Playpark (The stage itself was repainted pink, yellow, and teal with the removal of the animatronics) with an unknown closing date. | 1990 | 1995 |
 | [Burlington, Ontario, Canada (3345 Harvester Rd)] | One of the five installed in Canada. Closed on October 27th, 1991 | 1989/1990 | October 1991 |
 | [Downsview, North York, Ontario, Canada (2200 Jane St)] | One of the five installed in Canada. Closed in 1991. | 1989/1990 | 1991 |
 | [Willowdale, Ontario, Canada (2452 Sheppard Ave)] | One of five installed in Canada. Replaced with a 2-Stage in 1993/1994. Had a rope of lights around Jasper's banjo. | 1989/1990 | 1993/1994 |

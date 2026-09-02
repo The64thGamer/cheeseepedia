@@ -1,0 +1,1 @@
+The [Balcony Stage] at [Escondido, CA (1411 Valley Pkwy)] with the [Tunnel of Love (Balcony Stage Theme)] featuring Madame Oink.

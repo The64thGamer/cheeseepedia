@@ -1,0 +1,1 @@
+Photo form the 1994 IAAPA showing the NRAE BIlly Bob and Fatz walkarouns next to the side of the NRAE stage, with CEI shirts hung on the wall

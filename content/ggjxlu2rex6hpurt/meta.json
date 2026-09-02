@@ -9,7 +9,7 @@
       "n": "Balcony Stage",
       "s": "1982-12-16",
       "e": "1985-07-29",
-      "desc": "Was painted red and yellow/gold just like many of the other NY stores!"
+      "desc": "Was painted red and yellow/gold just like many of the other NY stores."
     }
   ],
   "franchisees": [
@@ -21,27 +21,27 @@
   ],
   "attractions": [
     {
+      "n": "Ball Crawl",
+      "desc": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
       "n": "Chuck E. Cheese Carousel",
       "desc": "Was fully operational at Enchanted Forest Water Safari. In 2005, the Chucks were removed from the platform and repainted into the 3 Blind Mice for a photo opportunity. They still reside at the park today.",
-      "s": "1982-12-16",
+      "s": "1982-00-00",
       "e": "1985-07-29"
     },
     {
       "n": "Chuck E. Cheese's Cartoon Time Theatre",
       "desc": "",
-      "s": "1982-00-00",
+      "s": "1982-12-16",
       "e": "1985-07-29"
     },
     {
       "n": "Dragon's Lair",
       "desc": "",
       "s": "1983-00-00",
-      "e": "1985-07-29"
-    },
-    {
-      "n": "Ball Crawl",
-      "desc": "",
-      "s": "1982-12-16",
       "e": "1985-07-29"
     }
   ],
@@ -117,28 +117,28 @@
     },
     {
       "n": "Drum Board (Cyberamic)",
-      "desc": "Taken by the techs at the Albany CEC.Current whereabouts are unknown.",
+      "desc": "Taken by the techs at the Colonie PTT. Current whereabouts are unknown.",
       "l": "",
       "s": "1982-12-16",
       "e": "1985-07-29"
     },
     {
       "n": "Applause Board (Cyberamic)",
-      "desc": "On display at the Enchanted Forest Water Safari.Not operational.Lights periodically still turned on.",
+      "desc": "On display at Enchanted Forest Water Safari. Not operational. Lights still periodically turned on.",
       "l": "",
       "s": "1982-12-16",
       "e": "1985-07-29"
     },
     {
       "n": "Flag Wavers (Cyberamic)",
-      "desc": "On display at the Enchanted Forest Water Safari.Not operational.",
+      "desc": "On display at Enchanted Forest Water Safari. Not operational.",
       "l": "",
       "s": "1982-12-16",
       "e": "1985-07-29"
     },
     {
       "n": "The King / King Kat (Cyberamic)",
-      "desc": "Formerly at the Enchanted Forest Water Safari.Current whereabouts are unknown.",
+      "desc": "Formerly at Enchanted Forest Water Safari. Current whereabouts are unknown.",
       "l": "",
       "s": "1982-12-16",
       "e": "1985-07-29"

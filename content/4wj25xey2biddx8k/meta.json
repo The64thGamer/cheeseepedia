@@ -54,6 +54,18 @@
   ],
   "attractions": [
     {
+      "n": "Cheese Crawl",
+      "desc": "Seen in 1980s footage. Removed upon installation of Chuck E.'s House Facade.",
+      "s": "1982-03-17",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese Carousel",
+      "desc": "Seen in 1992 footage.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
       "n": "Chuck E. Cheese Roll",
       "desc": "Auctioned off on eBay, currently owned by an unknown individual.",
       "s": "0000-00-00",
@@ -90,7 +102,7 @@
   "animatronics": [
     {
       "n": "Chuck E. Cheese (Cyberamic)",
-      "desc": "Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
+      "desc": "Derby removed in the late 1980s. Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
       "l": "",
       "s": "1982-03-17",
       "e": "1996-09-16"
@@ -125,7 +137,7 @@
     },
     {
       "n": "Warblettes (Cyberamic)",
-      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "desc": "Black variant. Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
       "l": "",
       "s": "1982-03-17",
       "e": "1989-00-00"

@@ -1,0 +1,1 @@
+A man singing All Shook Up with the Karaoke with the NRAE stage at the 1994 IAAPA

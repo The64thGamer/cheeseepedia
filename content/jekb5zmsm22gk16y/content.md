@@ -1,0 +1,1 @@
+Mr. Munch at [Burnaby, British Columbia, Canada (9898 Gatineau Pl)] sporting his [Back to School (Balcony Stage Theme)] outfit.

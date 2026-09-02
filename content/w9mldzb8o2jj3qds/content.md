@@ -1,0 +1,1 @@
+A birthday party in front of the [Balcony Stage] at [St. Petersburg, FL (1024 58th St)].

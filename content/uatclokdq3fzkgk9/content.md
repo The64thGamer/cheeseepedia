@@ -1,0 +1,1 @@
+Photo from the 1994 IAAPA showing stage right of the Nrae,with Dook and Dook's Junk Yard,part of center stage showing Fatz,the speakers,the show selector and the Nrae Billy Bob and Fatz walkarounds

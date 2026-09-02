@@ -1,0 +1,1 @@
+***Burnaby, British Columbia, Canada (9898 Gatineau Pl)*** was a Chuck E Cheese's Pizza Time Theatre that opened on December 8, 1983, with a [Balcony Stage] and closed in 1995 with a Chuck E.'s House Facade. The store was located in a 2-story building.

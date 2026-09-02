@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1981-12-00",
   "endDate": "",
-  
   "remodels": [],
   "stages": [
     {
@@ -59,7 +58,9 @@
     "-121.8307109"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "QTDW1xMwVW2X7qnLMt2f.avif",
   "type": "Locations",
