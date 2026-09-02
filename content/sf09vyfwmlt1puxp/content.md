@@ -2,7 +2,7 @@
 
 ## History
 
-In 1981, PTT opened their first Charlie Cheese's in [Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)] with a [Portrait / Shelf Stage]. The name was changed from Chuck to Charlie due to Chuck meaning 'throw up' in Australian. The Cavil Location closed in 1982. Another location opened the same year in [Carina, Queensland, Australia] with a [Cyberamics Balcony Stage]. The location closed around 1984 to 1986, making Charlie Cheese's defunct.
+In 1981, PTT opened their first Charlie Cheese's in [Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)] with a [Cyberamics Portrait Shelf]. The name was changed from Chuck to Charlie due to Chuck meaning 'throw up' in Australian. The Cavil Location closed in 1982. Another location opened the same year in [Carina, Queensland, Australia] with a [Cyberamics Balcony Stage]. The location closed around 1984 to 1986, making Charlie Cheese's defunct.
 
 ## Merchandise
 

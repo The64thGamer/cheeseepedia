@@ -16,7 +16,8 @@
     "Tux Chuck",
     "PizzaEntertainment",
     "CECMentor",
-    "Caydenpedia"
+    "Caydenpedia",
+    "ThatRockHistorian76"
   ],
   "citations": [
     "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf"
@@ -27,8 +28,12 @@
   ],
   "credits": [
     {
-      "n": "Manufacturer (Kooser Rd. Prototype)",
-      "role": "Pete's Woodworking Inc."
+      "n": "Pete's Woodworking Inc.",
+      "role": "manufacturer of the Kooser prototype"
     }
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

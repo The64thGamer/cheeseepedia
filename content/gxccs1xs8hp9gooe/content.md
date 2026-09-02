@@ -48,7 +48,7 @@ On September 14th, 1985, the Huntington Beach Jaycees would hold a children's fi
 
 ## 1990's - 2010's
 
-Some time between 1987 to 1991 (likely within the range of 1989-1990), the store would convert from a [Portrait / Shelf Stage] to [Chuck E.'s House Facade].[28][29] Some time in the 1990's the store would receive a [2-Stage], the [SPT 1990's Remodel Program], and a drop ceiling. The stage would also be moved from the left showroom wall, where it previously was as the C-Stage, to the back wall. It is unclear if this happened before, during, or after the 2-Stage conversion. Some time after 2003 the store would also receive the [CEC 2000's Remodel Program].[34]
+Some time between 1987 to 1991 (likely within the range of 1989-1990), the store would convert from a [Cyberamics Portrait Shelf] to [Chuck E.'s House Facade].[28][29] Some time in the 1990's the store would receive a [2-Stage], the [SPT 1990's Remodel Program], and a drop ceiling. The stage would also be moved from the left showroom wall, where it previously was as the C-Stage, to the back wall. It is unclear if this happened before, during, or after the 2-Stage conversion. Some time after 2003 the store would also receive the [CEC 2000's Remodel Program].[34]
 
 ## 2020's & Closure
 

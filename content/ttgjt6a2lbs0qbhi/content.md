@@ -1,0 +1,1 @@
+The [Cyberamics Portrait Shelf] at [Hayward, CA (24253 Hesperian Blvd)] with the [Broadway (Balcony Stage Theme)].

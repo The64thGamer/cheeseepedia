@@ -1,5 +1,5 @@
 {
-  "title": "Portrait / Shelf Stage",
+  "title": "Cyberamics Portrait Shelf",
   "startDate": "1979-05-00",
   "endDate": "2001-00-00",
   "pageThumbnailFile": "RwtgV0kmTMjVGKYoOEbn.avif",
@@ -21,7 +21,8 @@
     "SuperCreamPiper2008",
     "PizzaEntertainment",
     "Midwestretail",
-    "CyberSnout"
+    "CyberSnout",
+    "ThatRockHistorian76"
   ],
   "citations": [
     "https://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes-1980.pdf",
@@ -34,5 +35,9 @@
   "type": "Stage Variations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

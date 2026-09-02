@@ -1,4 +1,4 @@
-***Concord, CA (1975 Diamond Blvd, Building D-100)*** was the third *Pizza Time Theatre* location that opened sometime within the week of May 28th - June 3rd of 1979 with a [Portrait / Shelf Stage] and two floors, which closed in January of 1994 with an unknown stage.[4]
+***Concord, CA (1975 Diamond Blvd, Building D-100)*** was the third *Pizza Time Theatre* location that opened sometime within the week of May 28th - June 3rd of 1979 with a [Cyberamics Portrait Shelf] and two floors, which closed in January of 1994 with an unknown stage.[4]
 
 ## History
 
