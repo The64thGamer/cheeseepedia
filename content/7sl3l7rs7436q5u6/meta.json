@@ -3,7 +3,12 @@
   "storeNumber": "",
   "startDate": "1982-11-26",
   "endDate": "1985-07-29",
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-11-26"
+    }
+  ],
   "stages": [
     {
       "n": "Balcony Stage",
@@ -51,7 +56,7 @@
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
-      "desc": "Sold at auction.",
+      "desc": "Either Harmony Howlette or Madame Oink upon opening, Helen Henny by 1984. Sold at auction.",
       "l": "",
       "s": "1982-11-26",
       "e": "1985-07-29"

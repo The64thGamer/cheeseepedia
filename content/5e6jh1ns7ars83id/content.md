@@ -1,0 +1,1 @@
+Early concept for the theming of Pizza Time Theatre in Summer of 1976 drawn by Roger Hector after hearing ideas by Nolan Bushnell.

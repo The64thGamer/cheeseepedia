@@ -8,7 +8,7 @@ In the January 1982 batch,a new sculpt for the sun mask would be introduced.This
 
 Sun animatronics would continue to be produced up until 1983. The January batch would be the last used inside ShowBiz Pizza restaurants, and would be kept and stored for future openings, while [Creative Engineering] would continue to produce bots until June. Now with a surplus of bots, these would need to be sold to other family entertainment centers.
 
-During [Concept Unification] process,The Sun would be converted to The Building. [4] currently the only publicly operating building is located at the [Charlotte, NC (7701 Pineville-Matthews Rd)] location
+During [Concept Unification] process,The Sun would be converted to The Building. [4] 
 
 ## Design
 
@@ -22,3 +22,9 @@ The Sun features 2 movements.His airlines are connected to the props valve bank 
 | -------- | ----- | --- | --------------- |
 | Mouth | 1 | 38 | Top |
 | Raise Up | 2 | 39 | Top |
+
+It's important to note that early Sun mechanisms used to have a body turn,however this movement was never programmed and the valve it would've run on (valve nr.3) had it's ports plugged.After the initial production batch the body turn was removed.When the dual pressure valve was introduced valve nr.3 would be reused for it. [5]
+
+| Beta Unused Movement | Valve | Bit | Grey Box Drawer |
+| -------------------- | ----- | --- | --------------- |
+| Body Turn | 3 | 40 | Top |

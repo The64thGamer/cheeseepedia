@@ -1,0 +1,1 @@
+Article from *The Buffalo News* talking about the [Cheektowaga, NY (Thruway Mall)] Pizza Time Theatre, and the [Amherst, NY (1551 Niagara Falls Blvd)] and [West Seneca, NY (3525 Seneca St)] Showbiz Pizza Places.

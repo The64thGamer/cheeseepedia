@@ -7,7 +7,8 @@
   "startDate": "1977-05-17",
   "endDate": "1985-05-31",
   "contributors": [
-    "sudo trans --pony"
+    "sudo trans --pony",
+    "sudo-trans-pony"
   ],
   "citations": [
     "https://www.ataricompendium.com/archives/interviews/jerry_donaldson/interview_jerry_donaldson.html",
@@ -54,7 +55,12 @@
     "https://archive.org/details/pizza-time-theatre-winchester-blueprints/3-17-1977%20Winch",
     "https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=1235797&dbid=0&repo=CNB&searchid=4dbc461d-bd8e-4523-b558-8fa240af1495",
     "https://www.newspapers.com/image/1222942554/?clipping_id=179779746&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjEyMjI5NDI1NTQsImlhdCI6MTc2MzM4OTY4OCwiZXhwIjoxNzYzNDc2MDg4fQ.KVwLDqY9LisgSk7HAwWbRLe-O7V7Y5LdfJiutElrXfI",
-    "https://youtu.be/Ix5so7ytxe8"
+    "https://youtu.be/Ix5so7ytxe8",
+    "https://forum.cheeseepedia.org/t/lost-1976-80s-roger-hector-concept-art-coming-to-auction-october-5th-27th/477/13"
   ],
-  "pageThumbnailFile": "AK1gcob301d1C8__YLdA.avif"
+  "pageThumbnailFile": "AK1gcob301d1C8__YLdA.avif",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

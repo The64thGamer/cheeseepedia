@@ -10,7 +10,8 @@
     "CyCGM",
     "RedaCEC",
     "Cy's Junk at School",
-    "Ceclife13"
+    "Ceclife13",
+    "dame0824"
   ],
   "credits": [
     {
@@ -43,11 +44,11 @@
     },
     {
       "n": "Matt Daniel",
-      "role": "Production Manager, Voice of Helen Henny's Hollywood Announcer, Singer (Kitten in the Kitchen)"
+      "role": "Production Manager,Singer Of Kitten In The Kitchen Wearin Mittens,Voice of Hard Hat Hank & Nigel The Sasquatch "
     },
     {
       "n": "Michael Hill",
-      "role": "Studio Coordinator, Studio C Programmer, Voice of Nigel the Sasquatch"
+      "role": "Studio C Programmer"
     },
     {
       "n": "Donovan Marcelle",
@@ -67,5 +68,9 @@
   "type": "Showtapes",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }
