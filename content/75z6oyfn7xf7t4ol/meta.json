@@ -8,7 +8,13 @@
     "sudo trans --pony",
     "Lelmaster",
     "Stripes",
-    "Anonymous"
+    "Anonymous",
+    "sudo-trans-pony"
   ],
-  "pageThumbnailFile": "CEPLogo.avif"
+  "pageThumbnailFile": "CEPLogo.avif",
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "startDate": "2022-07-14"
 }

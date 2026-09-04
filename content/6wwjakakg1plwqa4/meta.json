@@ -3,8 +3,20 @@
   "storeNumber": "",
   "startDate": "1996-00-00",
   "endDate": "2014-00-00",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2011-09-00"
+    },
+    {
+      "n": "Phase 3 (2000)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "0000-00-00"
+    }
+  ],
   "stages": [
     {
       "n": "1-Stage",
@@ -19,12 +31,74 @@
     "40.55879427",
     "-111.8919721"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "Correspondance with All Star Bowling over their phoneline",
+    "https://www.loopnet.com/property/10535-s-state-st-sandy-ut-84070/49035-28181510570000/",
+    "https://youtu.be/9AQTyNYsy2w",
+    "https://youtu.be/\\_pRrpYCtNAo",
+    "https://youtu.be/8L3KZ7gZf\\_A",
+    "https://youtu.be/5HSeQVUvLn4 ",
+    "https://youtu.be/KBM4hO4yuGE",
+    "https://www.newspapers.com/image/612955723/?match=1&terms=%2210535%22chuck%20e%20cheese&search-id=e89d0652-5e48-4bf9-b85e-ab4aa9ec6eab&search-rank=9",
+    "https://www.newspapers.com/article/the-salt-lake-tribune-sandy-ut-is-summer/59188651/",
+    "https://www.newspapers.com/search/results/?date-end=2004&date-start=1996&keyword=%2210535%22chuck+e+cheese&region=us-ut",
+    "https://www.newspapers.com/image/688977503/?match=2&terms=%2210535%22chuck%20e%20cheese&search-id=e89d0652-5e48-4bf9-b85e-ab4aa9ec6eab&search-rank=2",
+    "https://www.newspapers.com/image/689109057/?match=7&terms=%2210535%22chuck%20e%20cheese&search-id=e89d0652-5e48-4bf9-b85e-ab4aa9ec6eab&search-rank=1",
+    "https://www.newspapers.com/article/the-salt-lake-tribune/202284329/",
+    "https://youtu.be/cTUXX66sjuI",
+    "https://www.youtube.com/watch?v=kFxMPbOitHU&pp=ygUwY2h1Y2sgZSBjaGVlc2UgYWxsIHN0YXIgYm93bGluZyBzYW5kIHl1dGFoIHRvdXly"
+  ],
+  "contributors": [
+    "sudo-trans-pony"
+  ],
   "downloadLinks": [],
-  "pageThumbnailFile": "THqy6s3DgzI0C22DecfI.avif",
+  "pageThumbnailFile": "3A15Ccsuae1TTAbLUbwW.avif",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Now unknown.      ",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Now unknown.      ",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Guitar later sent to [Billings, MT (100 24th St)]. Now unknown, guitar at [ShowBiz Pizza Time Distribution Center (Topeka, KS)].",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Now unknown.      ",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Wink (Animatronic)",
+      "desc": "Sent to [Orem, UT (40 E Center St)]. Now unknown.  ",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
   ]
 }

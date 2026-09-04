@@ -1,4 +1,4 @@
-***Cheese-E-Pedia***, (formerly Decode-Document-Digitize Wiki, Chuck E. Encyclopedia, and Chuck E. Pedia) is an open-source animatronics wikipedia that launched on July 14th, 2022, now running through the Hugo static-site generation platform.
+***Cheese-E-Pedia***, (formerly Decode-Document-Digitize Wiki, Chuck E. Encyclopedia, and Chuck E. Pedia) is an open-source animatronics wikipedia that launched on July 14th, 2022 on Miraheze through Mediawiki, now running through a static Single Page Application system.
 
 Cheese-E-Pedia's goal is to archive everything that has happened in the 50+ year timespan of every major FEC animatronics company. No topic, item, or idea will be left undocumented, and every piece of data in the public's hands will be preserved and archived. Every item is believed to deserve its own page to allow community members to delve into a topic as much as they would like, promoting community involvement from the wide range of enthusiasts and fans. Its information is free to copy and re-host (Under CC BY-SA 4.0).
 
@@ -26,7 +26,11 @@ On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate di
 
 In late December 2025 to January 2026, the site would recieve many CSS changes, homepage graphs, and a new search engine. Throughout February the site would test using the GitHub API to do in-site editing and finally get rid of Decap, which would succeed near the end of the month. Tests would also begin for an alternate
 
-On March 22nd the entire site would be overhauled and rewritten from scratch to remove Hugo and DecapCMS entirely in favor of being a Single Page Application with future potential 'viewers' of the same content, one being Theory Web. Theory Web is planned as a Five Nights at Freddy's variant of the site only showing FNaF articles and in a format as to write and share 'Theory' pages, which will not be seen in default CEP.
+On March 22nd the entire site would be overhauled and rewritten from scratch to remove Hugo and DecapCMS entirely in favor of being a Single Page Application with future potential 'viewers' of the same content, one being Theory Web. Theory Web was planned as a Five Nights at Freddy's variant of the site only showing FNaF articles and in a format as to write and share 'Theory' pages, which would not be seen in default CEP.
+
+On March 30th the CEP Discord Server would transfer ownership and be discontinued as an official CEP gathering space. Throughout the Summer contributions would dry up and no progress would be made to the site. Eventually the Theory Web portion of the site would also be discontinued. On July 12th the old article content from the September 2025 wipe would be restored.
+
+On July 14th the site would begin work on another rework of the editing system, going for a submission system that would use the CEP Forums Discourse API alongside commits to the server of the site for local manual merging. On August 16th the editor would become available for testing, with testing going smooth throughout the month. The new editor would replace the GitHub system by the end of the month, and contribution count would go back up significantly.
 
 ### Changes Timeline
 
@@ -146,6 +150,13 @@ On March 22nd the entire site would be overhauled and rewritten from scratch to 
 * **January 25th-** Certain showtape articles are upgraded to support show playback with timestamps.
 * **February 3rd-** The wiki moves from DigitalOcean to a VPS due to high costs and no space. The site now doesn't auto-compile when a new commit is merged, and must be updated manually.
 * **February 3rd-** Users are overhauled to include new rank names, consistent displaying of users, and integration with the forums.
+* **March 30th-** Ownership of the CEP Discord Server is transferred, with the server no longer being an official CEP gathering place. Support and work is moved fully to the forums.
+* **July 12th-** Old Locations content from the September 2025 wipe is restored with a new warning banner for inaccuracy.
+* **July 14th-** A fix is made for a contribution made months prior that broke the 'ShowBiz Pizza Place' tag, and adjustments were made to reduce further breakage. The beginnings of the forums-based CEP editor would also start.
+* **July 18th-** A large portion of the forums-editor is set up and working, only pertaining to making local edits, with no submission button
+* **August 16th-** The forums-based editor begins accepting commits. More changes are made to the edit page. The ability to create new pages is added. Users are now granted badges on the forum in relation to the ranks seen on user page.
+* **August 18th-** More badges are added to the forums for various things, alongside default badges being reskinned to a CEC/SPP/FNaF theme.
+* **August 30th-** The wiki hits 300 unique contributors
 
 ## History of CEC Information Before CEP
 

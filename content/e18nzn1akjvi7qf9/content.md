@@ -1,0 +1,1 @@
+Photos of the remaining Chuck E. Cheese items at All-Star Bowling

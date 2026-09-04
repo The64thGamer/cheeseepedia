@@ -4,12 +4,17 @@
   "tags": [
     "ShowBiz Pizza Place"
   ],
-  "startDate": "",
-  "endDate": "",
+  "startDate": "0000-00-00",
+  "endDate": "0000-00-00",
   "contributors": [
     "sudo trans --pony",
-    "Ls2018"
+    "Ls2018",
+    "sudo-trans-pony"
   ],
   "citations": [],
-  "pageThumbnailFile": "96H5WMmTo_5RMqhy_dYi.avif"
+  "pageThumbnailFile": "96H5WMmTo_5RMqhy_dYi.avif",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

@@ -36,7 +36,7 @@
 
 #### Mid-Late 1974
 
-* Sometime before the November 1974 IAAPA convention\, he would set the codename for his arcade restaurant project to be 'Coyote Pizza'\.\[1\]\[2\]
+* Sometime before the November 1974 IAAPA convention\, Nolan would set the codename for his arcade restaurant project to be 'Coyote Pizza'\.\[1\]\[2\]
 
 #### November
 
