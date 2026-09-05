@@ -1,9 +1,9 @@
 **Chuck E. Cheese Legacy Spring 2026 Show** was released on March 2, 2026 & played until April 26 2026
 
-## Showlist 04/22 update 
+## Showlist 04/22 update
 
 1. Intermission 1
-    1. Harlem Globetrotters-Ways We Celebrate 
+    1. Harlem Globetrotters-Ways We Celebrate
     2. Chuck E. Cheese - 'Stay Positive'
     3. Dippin' Dots Promo
     4. Chuck E. & Friends - 'Do Re Mi'
@@ -36,8 +36,7 @@
 3. Me & My Friends (Legacy Navori)
 4. Spring Break Break Dance (Legacy Navori)
 
-
-## Fireables 04/22 Update 
+## Fireables 04/22 Update
 
 1. Helen & Bella B. - 'Baliando' (2022) (Legacy Navori)
 2. Chuck E. Cheese - 'Dancin' Kitten' (Legacy Navori)
@@ -142,7 +141,7 @@
 3. Me & My Friends (Legacy Navori)
 4. Spring Break Break Dance (Legacy Navori)
 
-## Fireables 03/14 & 4/24 Update:
+## Fireables 03/14 & 03/24 Update:
 
 1. Helen & Bella B. - 'Baliando' (2022) (Legacy Navori)
 2. Chuck E. Cheese - 'Dancin' Kitten' (Legacy Navori)

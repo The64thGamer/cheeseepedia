@@ -1,0 +1,1 @@
+The [SkyTubes], [Chuck E.'s Fun Photos Photo Booth], and [Studio C Beta] at [Middletown, NY (8 Orange Plaza Ln)]. Original poster: Rob Duran.

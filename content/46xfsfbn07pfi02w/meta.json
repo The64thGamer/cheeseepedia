@@ -1,5 +1,5 @@
 {
-  "title": "Willie Rabbit (Animatronic)",
+  "title": "Willie Wabbit (Animatronic)",
   "type": "Animatronics",
   "tags": [
     "Creative Engineering",
@@ -23,5 +23,9 @@
   "citations": [],
   "pageThumbnailFile": "Willie_The_Rabbit_thing.avif",
   "unitsProduced": "1",
-  "manufacturer": "Creative Engineering"
+  "manufacturer": "Creative Engineering",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

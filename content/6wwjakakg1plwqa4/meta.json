@@ -46,7 +46,8 @@
     "https://www.newspapers.com/image/689109057/?match=7&terms=%2210535%22chuck%20e%20cheese&search-id=e89d0652-5e48-4bf9-b85e-ab4aa9ec6eab&search-rank=1",
     "https://www.newspapers.com/article/the-salt-lake-tribune/202284329/",
     "https://youtu.be/cTUXX66sjuI",
-    "https://www.youtube.com/watch?v=kFxMPbOitHU&pp=ygUwY2h1Y2sgZSBjaGVlc2UgYWxsIHN0YXIgYm93bGluZyBzYW5kIHl1dGFoIHRvdXly"
+    "https://www.youtube.com/watch?v=kFxMPbOitHU&pp=ygUwY2h1Y2sgZSBjaGVlc2UgYWxsIHN0YXIgYm93bGluZyBzYW5kIHl1dGFoIHRvdXly",
+    "https://archive.org/details/final_output_202609"
   ],
   "contributors": [
     "sudo-trans-pony"
@@ -62,43 +63,43 @@
       "n": "Chuck E. Cheese (Cyberamic)",
       "desc": "Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Now unknown.      ",
       "l": "",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1996-00-00",
+      "e": "2014-00-00"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "desc": "Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Now unknown.      ",
       "l": "",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1996-00-00",
+      "e": "2014-00-00"
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "desc": "",
       "l": "",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1996-00-00",
+      "e": "2014-00-00"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "desc": "Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Guitar later sent to [Billings, MT (100 24th St)]. Now unknown, guitar at [ShowBiz Pizza Time Distribution Center (Topeka, KS)].",
       "l": "",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1996-00-00",
+      "e": "2014-00-00"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "desc": "Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Now unknown.      ",
       "l": "",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1996-00-00",
+      "e": "2014-00-00"
     },
     {
       "n": "Wink (Animatronic)",
       "desc": "Sent to [Orem, UT (40 E Center St)]. Now unknown.  ",
       "l": "",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1996-00-00",
+      "e": "2014-00-00"
     }
   ]
 }
