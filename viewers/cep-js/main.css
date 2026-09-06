@@ -883,6 +883,93 @@ sup {
   padding: .5rem 0;
   justify-content: center;
 }
+.SteamCommentBody {
+  background: #1b2838;
+  border: 1px solid #2a475e;
+  color: #acb2b8;
+  font-family: Motiva Sans, Arial, Helvetica, sans-serif;
+  padding: 16px;
+  margin-bottom: 12px;
+  border-radius: 2px;
+  width:100%;
+}
+
+.SteamPostBox {
+  background: #121a21;
+  border: 1px solid #2a475e;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.SteamAvatar {
+  width: 36px;
+  height: 36px;
+  background: #2a475e;
+  border-radius: 2px;
+  float: left;
+  margin-right: 12px;
+  background-size: cover;
+  background-position: center;
+}
+
+.SteamPostContent {
+  overflow: hidden;
+}
+
+.PostHeaderMeta, .CommentHeaderMeta, .SteamCommentHeader {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+  font-size: 13px;
+  color: #8f98a0;
+}
+
+.PostAuthor, .CommentQuoteAuthor {
+  font-weight: bold;
+}
+
+.PostDeleted, .CommentDeleted {
+  background: #3b1c1c;
+  color: #ff4d4d;
+  padding: 2px 6px;
+  font-size: 11px;
+  border-radius: 2px;
+}
+
+.PostTitle {
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: normal;
+  margin: 0 0 6px 0;
+}
+
+.PostSubject, .CommentSubject {
+  color: #c1c1c1;
+  font-size: 14px;
+  line-height: 1.5;
+  word-break: break-word;
+}
+
+.CommentQuote {
+  background: #1b2838;
+  border-left: 3px solid #4d90fe;
+  margin: 6px 0;
+  padding: 8px 12px;
+  color: #8f98a0;
+  font-size: 13px;
+}
+
+.SteamCommentHeader a {
+  color: #66c0f4;
+  text-decoration: none;
+}
+
+.SteamCommentHeader a:hover {
+  text-decoration: underline;
+}
 
 .s-gallery {
   display: flex;

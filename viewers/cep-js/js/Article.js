@@ -251,12 +251,13 @@ function renderInventorySection(meta, linker) {
 }
 
 const SECTION_RENDERERS = {
-  photos: doc => renderPhotoCard(doc),
-  videos: doc => renderVideoCard(doc),
-  reviews: doc => renderReviewCard(doc),
-  transcriptions: async doc => { const { renderTranscript } = await import('./TranscriptArticle.js'); return renderTranscript(doc); },
+  'photos': doc => renderPhotoCard(doc),
+  'videos': doc => renderVideoCard(doc),
+  'reviews': doc => renderReviewCard(doc),
+  'transcriptions': async doc => { const { renderTranscript } = await import('./TranscriptArticle.js'); return renderTranscript(doc); },
+  'steam comment': async doc => { const { renderSteamComment } = await import('./SteamCommentArticle.js'); return renderSteamComment(doc); }
 };
-const SECTION_LABELS = { photos: 'Gallery', videos: 'Videos', reviews: 'Reviews', transcriptions: 'Transcriptions' };
+const SECTION_LABELS = { 'photos': 'Gallery', 'videos': 'Videos', 'reviews': 'Reviews', 'transcriptions': 'Transcriptions','steam comment': 'Steam Comment'};
 
 export async function loadArticle(app, articleId, addTag) {
   window.__CEP_ADD_TAG = addTag;
@@ -300,6 +301,10 @@ export async function loadArticle(app, articleId, addTag) {
   if (typeKey === 'transcriptions') {
     const { loadTranscriptArticle } = await import('./TranscriptArticle.js');
     return loadTranscriptArticle(app, articleId, meta, md, addTag);
+  }
+  if (typeKey === 'steam comment') {
+    const { loadSteamCommentArticle } = await import('./SteamCommentArticle.js');
+    return loadSteamCommentArticle(app, articleId, meta, md, addTag);
   }
   if (typeKey === 'user') {
     const { loadUserArticle } = await import('./UserArticle.js');

@@ -11,7 +11,7 @@
   "postSubject": "PLZ IT WOULD BE AWESOME!! ANYONE WITH ME!!",
   "postTime": "2014-10-29 21:36:00 UTC",
   "commentQuote": "",
-  "commentQuoteAuhtor": "",
+  "commentQuoteAuthor": "",
   "commentSubject": "@Tereus, I actually spent more time trying to port it to Windows Phone than anywhere else. Windows Phone has an issue that limits the size of individual texture map objects. Since FNaF is basically one large texture map (the room), it only worked after reducing the image quality so much that the game was unrecognizable. I've removed the games from the Windows Phone store because of their poor quality. Microsoft has been made aware of the issue.",
   "commentTime": "",
   "citations": [

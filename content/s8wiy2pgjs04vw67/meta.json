@@ -1,5 +1,5 @@
 {
-  "title": "Revised Road Show 2008",
+  "title": "Road Show 2008 Version 2",
   "type": "Live Shows",
   "tags": [
     "Chuck E. Cheese's"
@@ -7,5 +7,11 @@
   "pageThumbnailFile": "",
   "startDate": "2008-07-01",
   "endDate": "2008-11-00",
-  "contributors": []
+  "contributors": [
+    "Ceclife13"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

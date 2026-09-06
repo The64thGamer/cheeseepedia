@@ -57,11 +57,11 @@ Birthday Star 2001 is a modernized update of Birthday Star '95 and builds on the
 | 2001 | [CEC Roadshow July 2001]        |
 | 2002 | [CEC Roadshow January 2002]     |
 | 2002 | [CEC Roadshow April 2002]       |
-| 2005 | [Road Show 2005]                |
+| 2005 | [Generic Road Show 2005]                |
 | 2006 | [Road Show 2006]                |
 | 2007 | [Road Show 2007]                |
 | 2008 | [Road Show 2008]                |
-| 2008 | [Revised Road Show 2008]        |
+| 2008 | [Road Show 2008 Version 2]        |
 | 2009 | [Road Show Generic CD]          |
 | 2010 | [Road Show 2010]                |
 | 2011 | [Road Show 2011]                |

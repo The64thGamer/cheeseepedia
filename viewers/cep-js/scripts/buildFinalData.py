@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 
 CONTENT_DIR = "content"
 OUT = os.path.join(os.path.dirname(__file__), "..", "compiled-json", "ExtraStatistics.json")
-EXCLUDE = {"reviews","photos","videos","transcriptions"}
+EXCLUDE = {"reviews","photos","videos","transcriptions","steam comment"}
 
 now = lambda: datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
 ts  = lambda t: datetime.fromtimestamp(t,tz=timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')

@@ -27,11 +27,11 @@ Stores would receive the following items with their initial road show package:
 | [CEC Roadshow April 2002]               | [April 2002 Show]                       |     | April     | 2002 |
 | [Road Show 2004]                        | [Chuck E. Cheese April 2004 Show]       |     | April     | 2004 |
 | [Super Chuck Road Show]                 | [Super Chuck Summer Show 2005]          |     | July      | 2005 |
-| [Road Show 2005]                        | [September 2005 Show]                   |     | September | 2005 |
+| [Generic Road Show 2005]                        | [September 2005 Show]                   |     | September | 2005 |
 | [Road Show 2006]                        | [January 2006 Show]                     |     | January   | 2006 |
 | [Road Show 2007]                        | [January 2007]                          |     | January   | 2007 |
 | [Road Show 2008]                        | [Holiday 2007]                          |     | December  | 2007 |
-| [Revised Road Show 2008]                | [Summer 2008 Show]                      |     | July      | 2008 |
+| [Road Show 2008 Version 2]                | [Summer 2008 Show]                      |     | July      | 2008 |
 | [Road Show Generic CD]                  | [Chuck E's Holiday Party 2008]          |     | December  | 2008 |
 | [Road Show 2010]                        | [January 2010 Show]                     |     | January   | 2010 |
 | [Road Show 2011]                        | [Holiday Party 2010 Show]               |     | December  | 2010 |

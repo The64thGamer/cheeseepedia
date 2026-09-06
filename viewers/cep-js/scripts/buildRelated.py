@@ -8,7 +8,7 @@ OUT_DIR     = os.path.join(os.path.dirname(__file__), "..", "compiled-json")
 OUT_FILE    = os.path.join(OUT_DIR, "related.json")
 LINKER_FILE = os.path.join(OUT_DIR, "ArticleLinker.json")
 
-RELATED_TYPES = {'photos', 'videos', 'reviews', 'transcriptions'}
+RELATED_TYPES = {'photos', 'videos', 'reviews', 'transcriptions', 'steam comment'}
 
 def main():
     if not os.path.exists(LINKER_FILE):
@@ -18,7 +18,7 @@ def main():
     linker = json.loads(open(LINKER_FILE, encoding='utf-8').read())
     linker_lower = {k.lower(): v for k, v in linker.items()}
 
-    related = defaultdict(lambda: {'photos':[], 'videos':[], 'reviews':[], 'transcriptions':[]})
+    related = defaultdict(lambda: {'photos':[], 'videos':[], 'reviews':[], 'transcriptions':[], 'steam comment':[]})
 
     folders = [f for f in Path(CONTENT_DIR).iterdir() if f.is_dir()]
     print(f"Scanning {len(folders)} folders...")
@@ -52,6 +52,8 @@ def main():
                         entry['e'] = ''
                 else:
                     entry['e'] = ''
+            elif tp == 'steam comment':
+                entry['de'] = ""
 
             related[article_id][tp].append(entry)
             matched += 1

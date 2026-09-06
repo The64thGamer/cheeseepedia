@@ -1,4 +1,4 @@
-***'Old MacDonald'*** was a road show which was first released in September 2005 on the [Road Show 2005] CD and featured a cover of the song ‘Old MacDonald’. In January 2007, it would be released for Studio C and Existing Stages along with a choreography video. It would stop being included in showtapes after April 2009, and wouldn’t return until 2010. It would continue to be included on Road Show CDs after its introduction, with the final to include it being [Road Show 2012], which could play until December 31, 2013. It would be replaced in January 2013 with [Old MacDonald 2013]
+***'Old MacDonald'*** was a road show which was first released in September 2005 on the [Generic Road Show 2005] CD and featured a cover of the song ‘Old MacDonald’. In January 2007, it would be released for Studio C and Existing Stages along with a choreography video. It would stop being included in showtapes after April 2009, and wouldn’t return until 2010. It would continue to be included on Road Show CDs after its introduction, with the final to include it being [Road Show 2012], which could play until December 31, 2013. It would be replaced in January 2013 with [Old MacDonald 2013]
 
 ## Summary
 The video for this live show was reused from the previous cover of ‘Old MacDonald’ in [Environment ‘92]. The video was re-edited in 2010 to remove all footage featuring Old MacDonald himself, as well as parts where the wrong animal sounds were shown with the wrong animal. 
@@ -7,11 +7,11 @@ The video for this live show was reused from the previous cover of ‘Old MacDon
 
 | Release Year | CD                                         |
 | ------------ | ------------------------------------------------ |
-| 2005         | [Road Show 2005]                  |
+| 2005         | [Generic Road Show 2005]                  |
 | 2006         | [Road Show 2006]                  |
 | 2007         | [Road Show 2007]                  |
 | 2008         | [Road Show 2008]                  |
-| 2008         | [Revised Road Show 2008]                  |
+| 2008         | [Road Show 2008 Version 2]                  |
 | 2009         | [Road Show Generic CD]                  |
 | 2010         | [Road Show 2010]                  |
 | 2011         | [Road Show 2011]                  |
