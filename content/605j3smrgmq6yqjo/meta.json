@@ -1,0 +1,23 @@
+{
+  "title": "605j3smrgmq6yqjo",
+  "type": "Steam Comment",
+  "tags": [
+    "Scott Cawthon Steam Profile",
+    "Five Nights at Freddy's"
+  ],
+  "startDate": "",
+  "postTitle": "I NEED FNAF ON MA WINDOWS PHONE",
+  "postAuthor": "76561198091980528",
+  "postSubject": "PLZ IT WOULD BE AWESOME!! ANYONE WITH ME!!",
+  "postTime": "Oct 29, 2014 @ 9:36pm",
+  "commentQuote": "",
+  "commentQuoteAuhtor": "",
+  "commentSubject": "@Tereus, I actually spent more time trying to port it to Windows Phone than anywhere else. Windows Phone has an issue that limits the size of individual texture map objects. Since FNaF is basically one large texture map (the room), it only worked after reducing the image quality so much that the game was unrecognizable. I've removed the games from the Windows Phone store because of their poor quality. Microsoft has been made aware of the issue.",
+  "commentTime": "",
+  "citations": [
+    "http://steamcommunity.com/app/319510/discussions/0/620695877132502286/",
+    "http://steamcommunity.com/app/319510/discussions/0/620695877132502286/#c624076851326414705",
+    "https://web.archive.org/web/20150302051012/http://steamcommunity.com:80/profiles/76561197999919255/posthistory"
+  ],
+  "deleted": false
+}

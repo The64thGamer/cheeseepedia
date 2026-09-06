@@ -1,0 +1,23 @@
+{
+  "title": "olljujy0a694oxnj",
+  "type": "Steam Comment",
+  "tags": [
+    "Scott Cawthon Steam Profile",
+    "Ultimate Custom Night"
+  ],
+  "startDate": "2018-08-19",
+  "postTitle": "MCafee Antivirus Issues for running Ultimate Custom Night! (Originally created by PhantomCube08!)",
+  "postAuthor": "76561198259064782",
+  "postSubject": "This has been a major issue for a LOT of people attempting to run Ultimate Custom Night. The long and short of it is, there's a file inside the game that behaves similarly to (but isn't really) a virus, and as such it gets quarantined by MCafee. Rest assured that the file is completely harmless and your antivirus is blocking it due to an error in the system. To fix this issue, please refer to the steps below!Oh, and one more thing.If another antivirus is giving you the same issue, and you know how to fix the problem, feel free to post your solution in the comments below! I'll be happy to add it to the thread like I did with ShadowMan's article!To restore the file to it's proper location, go into McAfee LiveSafe.Then, click on the cog in the top right corner of the screen.Click 'quarantined items'.Select the file that says 'GameOverlay.log' or 'GameOverlayRenderer.log' (Not quite sure which, but you'll know it when you see it), and click 'Restore'. This will enable UCN to run, but it doesn't help with keeping MCafee from quarantining the file I mentioned earlier.Next, click on the cog in the top right of the screen and select 'Real-Time Scanning'. You should see where it says 'excluded files'. Keep this window open.Now, open Steam and go to your library. Right click on Ultimate Custom Night.Click 'Properties', then 'Local files', and then 'Browse Local Files'.Right click on Ultimate Custom Night.exe and copy it.Go back to the Mcafee real time scanning window you left open.Click 'Excluded Files', and then click 'Add File'.In the file name search bar that pops up, paste the Ultimate Custom Night.exe you copied.Next, hit 'Open'. This will exclude Ultimate Custom Night from being scanned by McAfee.All done!Helpful Community ArticlesShadowMan24Hello! For anyone not using Mcafee, I switched to Ad Aware anti-virus - this was a bad decision, as it basically does not have a file exclusion system. After hours of trying various methods and solution however, I managed to install my game by excluding the 'downloading' and 'common' files through scans on Windows defender. There's a whole tab for it, so it's easy. I basically spent a day realising my malware protection software on my PC was completely screwed, with various inactive programs, expired subscriptions, etc. :/ It's amazing my PC's okay, to be honest. XDTL, DR: Use WINDOWS DEFENDER instead of McAfee or whatever you have. Go to the 'SETTINGS' tab, then 'EXCLUDED FILETYPE AND LOCATIONS' - from there browse and add files to be excluded from scans. that way, anything in there (in this case, UCN in the steamapps files) will be safe from being mistaken for a virus.Phew, it's been a long day (realises it's 4:28 AM). Got there in the end. Hope ths helps! ^o^`NeonWolf GamingYeah, I had this problem with almost all of the FNaF games and from what I've found out, it's something to do with the McAfee virus protection programs. For some reason, it quarentines the game's executable file which is what causes the game to constantly crash. I'd just suggest using something other than McAfee lol.Carlinhos-Soriano12Hello! In my case it is the same thing, but it is another antivirus that I have, it is the IObit Malware Fighter, when I started to install the UCN, my antivirus warned that the UCN was not safe.",
+  "postTime": "",
+  "commentQuote": "",
+  "commentQuoteAuhtor": "",
+  "commentSubject": "I really appreciate this thread being created. I was really confused seeing so many crash comments lately. I don't know why this is getting flagged by anti-virus programs so often now. It didn't seem like it was this way at launch.",
+  "commentTime": "Aug 19 @ 4:51pm",
+  "citations": [
+    "https://steamcommunity.com/app/871720/discussions/0/1743343017624354092/",
+    "https://steamcommunity.com/app/871720/discussions/0/1743343017624354092/#c1733210552660992181",
+    "https://web.archive.org/web/20181114100830/https://steamcommunity.com/profiles/76561197999919255/posthistory/"
+  ],
+  "deleted": true
+}
