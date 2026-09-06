@@ -3,9 +3,10 @@
   "type": "Steam Comment",
   "tags": [
     "Scott Cawthon Steam Profile",
-    "Five Nights at Freddy's 3"
+    "Five Nights at Freddy's",
+    "Five Nights at Freddy's 3 (Game)"
   ],
-  "startDate": "0000-00-00",
+  "startDate": "2015-10-11",
   "postTitle": "good afternoon scott",
   "postAuthor": "spooky",
   "postSubject": "",
@@ -19,5 +20,8 @@
     "http://steamcommunity.com/app/354140/discussions/0/487870763310739758/#c487870763311314556",
     "https://web.archive.org/web/20151011183411/http://steamcommunity.com:80/profiles/76561197999919255/posthistory"
   ],
-  "deleted": true
+  "deleted": true,
+  "contributors": [
+    "sudo-trans-pony"
+  ]
 }

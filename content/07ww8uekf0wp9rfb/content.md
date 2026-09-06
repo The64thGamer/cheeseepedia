@@ -1,1 +1,1 @@
-Willie Rabbit Presumably being made at The CEI Office, Unknown year.
+Color photo of Willie Wabbit from the back at the original CEI Office during development showing off his mech,hosing,his circular base and what's presumed ton be a valve bank in said base

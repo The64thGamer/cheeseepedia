@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1992-08-25",
   "endDate": "",
-  
   "remodels": [],
   "stages": [
     {
@@ -19,14 +18,53 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Chuck E. Cheese's Memory Match",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in photographs from the 1990s."
+    },
+    {
+      "n": "Jurassic Park",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from the 1990s."
+    },
+    {
+      "n": "Moto Frenzy",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in photographs from the 1990s."
+    },
+    {
+      "n": "Munch Mouth",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in photographs from the 1990s."
+    },
+    {
+      "n": "Skee Ball",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in photographs from the 1990s."
+    },
+    {
+      "n": "Skytubes",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from the 1990s."
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "39.94025142",
     "-75.02085048"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Front-Row-Joe"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "vt72cneFjYY02yr6ztYa.avif",
   "type": "Locations",

@@ -1,0 +1,1 @@
+The ***Scott Cawthon Steam Profile*** was the Steam account used to publish [The Desolate Hope] and the [Five Nights at Freddy's] series up to [Ultimate Custom Night], being used from May 5th, 2015 to May 17th, 2019. Future games would be published on Gamejolt or under the Steam accounts of other companies Scott collaborated with.

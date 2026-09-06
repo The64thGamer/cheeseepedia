@@ -7,7 +7,7 @@
   "startDate": "1983-00-00",
   "endDate": "1987-00-00",
   "contributors": [
-    "sudo trans --pony",
+    "sudo-trans-pony",
     "BigCDataFinder",
     "sudo-trans-pony"
   ],

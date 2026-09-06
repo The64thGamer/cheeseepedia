@@ -1,1 +1,1 @@
-Color photo of Willie Rabbit at the CEI Office, Unknown year.
+Color photo of Willie Wabbit at the original CEI Office during development

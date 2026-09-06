@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1982-03-24",
   "endDate": "2013-05-12",
-  
   "remodels": [],
   "stages": [
     {
@@ -19,14 +18,131 @@
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Up and Down",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from 1996."
+    },
+    {
+      "n": "Skytubes",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in footage from 2001 and 2008."
+    },
+    {
+      "n": "Chatty Chuck E.",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from 2005."
+    },
+    {
+      "n": "Chuck E. Cheese's Hightops",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from 2005."
+    },
+    {
+      "n": "Alley Roller Classic",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "At least 5 cabinets. Seen in pictures and video from 2008."
+    },
+    {
+      "n": "Buzzy Buzzy Bee",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from 2008."
+    },
+    {
+      "n": "Chuck E.'s All Star Hoops",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in pictures and video from 2008."
+    },
+    {
+      "n": "Chuck E's Rubble Bubble",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from 2008."
+    },
+    {
+      "n": "Chuck E. Cheese's Kiddie Coaster",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in pictures from 2008."
+    },
+    {
+      "n": "Chuck E. Cheese's Pow-Air Play",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a photograph from 2008."
+    },
+    {
+      "n": "Chuck E. Cheese's Sketch Book",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in pictures from 2008."
+    },
+    {
+      "n": "Country Acres",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in pictures from 2008."
+    },
+    {
+      "n": "Dunk N' Alien!",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in pictures and video from 2008."
+    },
+    {
+      "n": "Ken Chuck E. Derby",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in pictures and video from 2008."
+    },
+    {
+      "n": "Mario Kart Arcade GP 2",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "2 cabinets. Seen in a video from 2008."
+    },
+    {
+      "n": "RollerCoaster Tycoon (Pinball)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a video from 2008."
+    },
+    {
+      "n": "The Simpsons Kooky Carnival",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a video from 2008."
+    },
+    {
+      "n": "Ticket Troopers",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in pictures and video from 2008."
+    },
+    {
+      "n": "Wonder Wheel",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a video from 2008."
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "30.22536162",
     "-97.76983753"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Front-Row-Joe"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "pRlzaz7M0iiCDfiuCJOY.avif",
   "type": "Locations",

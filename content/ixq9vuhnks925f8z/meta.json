@@ -25,7 +25,7 @@
   "startDate": "1990-09-00",
   "endDate": "1990-12-00",
   "contributors": [
-    "sudo trans --pony",
+    "sudo-trans-pony",
     "DerekCat",
     "CyberSnout",
     "Montfortdog",

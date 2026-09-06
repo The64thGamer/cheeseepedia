@@ -3,9 +3,10 @@
   "type": "Steam Comment",
   "tags": [
     "Scott Cawthon Steam Profile",
-    "Five Nights at Freddy's 4"
+    "Five Nights at Freddy's 4",
+    "Five Nights at Freddy's"
   ],
-  "startDate": "0000-00-00",
+  "startDate": "2016-05-05",
   "postTitle": "Random question for scott",
   "postAuthor": "76561198090386001",
   "postSubject": "I wonder who scott is voting for.",
@@ -19,5 +20,8 @@
     "http://steamcommunity.com/app/388090/discussions/0/364040797993013342/#c364040797993808103",
     "https://web.archive.org/web/20160505001702/http://steamcommunity.com/profiles/76561197999919255/posthistory/"
   ],
-  "deleted": true
+  "deleted": true,
+  "contributors": [
+    "sudo-trans-pony"
+  ]
 }

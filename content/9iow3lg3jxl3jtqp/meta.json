@@ -3,9 +3,10 @@
   "type": "Steam Comment",
   "tags": [
     "Scott Cawthon Steam Profile",
-    "Five Nights at Freddy's"
+    "Five Nights at Freddy's",
+    "Five Nights at Freddy's (Game)"
   ],
-  "startDate": "",
+  "startDate": "2014-07-13",
   "postTitle": "More videos",
   "postAuthor": "",
   "postSubject": "",
@@ -19,5 +20,8 @@
     "http://steamcommunity.com/workshop/filedetails/discussion/270684111/522730702139794610/#c45350791590457999",
     "https://web.archive.org/web/20141130151931/http://steamcommunity.com:80/profiles/76561197999919255/posthistory"
   ],
-  "deleted": true
+  "deleted": true,
+  "contributors": [
+    "sudo-trans-pony"
+  ]
 }

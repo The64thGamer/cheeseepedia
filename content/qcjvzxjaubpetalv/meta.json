@@ -1,17 +1,31 @@
 {
   "title": "Scott Cawthon Steam Profile",
   "type": "Social Media and Websites",
-  "pageThumbnailFile": "",
+  "pageThumbnailFile": "8j0o8574qyee8et6",
   "downloadLinks": [],
-  "citations": [],
-  "tags": [],
-  "startDate": "0000-00-00",
-  "endDate": "0000-00-00",
-  "recommend": false,
-  "latitudeLongitude": [
-    "",
-    ""
+  "citations": [
+    "https://youtu.be/6jxY3S_6SlI",
+    "https://steamdb.info/developer/Scott+Cawthon/",
+    "https://youtu.be/MDyKnB1J3WE",
+    "https://youtu.be/HO2zRcBjMvw",
+    "https://youtu.be/TWhRctcuR_E",
+    "https://youtu.be/U1jjKYYulHA",
+    "https://youtu.be/pmO9SWCSQMk",
+    "https://youtu.be/IbF03Jxt1CQ",
+    "https://youtu.be/Hj0J5TmC9JM",
+    "https://youtu.be/JoBEfi3Xdso",
+    "https://youtu.be/S8B4plobJQg",
+    "https://youtu.be/7mXdqaySW6c",
+    "https://youtu.be/88kLRmLGCPM",
+    "https://youtu.be/FfxqE8gPklw",
+    "https://www.youtube.com/watch?v=utp3j8retn8"
+    ],
+  "tags": [
+    "Five Nights at Freddy's"
   ],
+  "startDate": "2014-05-05",
+  "endDate": "2019-05-17",
+  "recommend": false,
   "credits": [],
   "stages": [],
   "remodels": [],
