@@ -75,7 +75,7 @@ def write_json(data, path):
 
 
 def run_solid_build():
-    project_root = os.path.join(os.path.dirname(__file__), "..")
+    project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
     print("Running: npm run build:solid")
     result = subprocess.run(
         ["npm", "run", "build:solid"],
