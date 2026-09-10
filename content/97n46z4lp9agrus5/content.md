@@ -23,4 +23,4 @@ Madam Oink had short white hair, hazel eyes, a green dress, a white necklace, a 
 * Right Arm Up
 * Right Elbow
 
-https://www.showbizpizza.com/ptp/characters/madameoink\_winchester.jpg
+https://www.showbizpizza.com/ptp/characters/madameoink_winchester.jpg

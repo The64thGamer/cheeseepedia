@@ -8,7 +8,7 @@ Don’t you tell a single soul what I’m gonna say
 
 Christmas Eve is coming soon, now you dear old man.
 
-Whisper what you’ll bring to me, tell me if you can.\
+Whisper what you’ll bring to me, tell me if you can.
 
 **Jasper T. Jowls:**
 

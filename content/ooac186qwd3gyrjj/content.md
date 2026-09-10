@@ -24,9 +24,9 @@ Multiple pieces from the tape are known to be cut from the final ShowBiz release
 * [Tears of a Clown](https://en.wikipedia.org/wiki/The_Tears_of_a_Clown)
 * [The Curley Shuffle](https://en.wikipedia.org/wiki/The_Curly_Shuffle)
 * [Sideshow Medley](https://www.youtube.com/watch?v=ni25zH9oBzs)
-    1\. Come Inside \(Intro\)
-    2\. Little Egypt
-    3\. The Fat Man
-    4\. Museum Song
-    5\. Come Inside \(Outro\)
+    1. Come Inside (Intro)
+    2. Little Egypt
+    3. The Fat Man
+    4. Museum Song
+    5. Come Inside (Outro)
 * [Bigtop Medley](https://www.youtube.com/watch?v=6rryB24ad8c&t)

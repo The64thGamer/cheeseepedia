@@ -6,9 +6,9 @@ The **Show Computer** manages all functions of the show. It is comprised of a st
 
 ### Expansion cards
 
-* **Modem** \- Connected to a telephone line\, along with the phone in the rack\. Used during the laserdisc show era to download the control data\, believed to be unused currently\.
-* **Transmitter Card** \- Primary external show control interface\. Handles all character valve control and some ancillary functions\. Discussed in additional detail its own section below\.
-* **8-port RS-232 Serial Card** \- Interfaces with additional external show hardware\. This is broken out to eight DB\-25 connectors\, which lead to the following components:
+* **Modem** - Connected to a telephone line, along with the phone in the rack. Used during the laserdisc show era to download the control data, believed to be unused currently.
+* **Transmitter Card** - Primary external show control interface. Handles all character valve control and some ancillary functions. Discussed in additional detail its own section below.
+* **8-port RS-232 Serial Card** - Interfaces with additional external show hardware. This is broken out to eight DB-25 connectors, which lead to the following components:
 * Manager Terminal
 * A/V switcher
 * VDP 1

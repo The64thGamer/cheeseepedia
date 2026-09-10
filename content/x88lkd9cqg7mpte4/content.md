@@ -21,6 +21,6 @@ In 2018 once CEC Entertainment began rolling out their 2.0 remodel, a piece of s
 Jasper T. Jowls nameplate is no different to all the other Winchester nameplates with the exception of Helen Hennys nameplate, the design showcasing a rounded wooden base with the text 'JASPER T. JOWLS' surrounded by a thin yellow border.
 In late 1979, Pizza Time Theatre Incorporated would place '© PIZZA TIME THEATRE INC 1978' on the lower half of the nameplate in white small text, and it is most possible that Jasper T. Jowls nameplate received the copyright text below his nameplate as well.
 
-1. https://www.showbizpizza.com/info/promo/ptt/ptt\_79franchise.pdf
-2. https://www.showbizpizza.com/info/promo/ptt/ptt\_1977winchesterphotos.pdf
+1. https://www.showbizpizza.com/info/promo/ptt/ptt_79franchise.pdf
+2. https://www.showbizpizza.com/info/promo/ptt/ptt_1977winchesterphotos.pdf
 3. https://youtu.be/ucg8MujPDQA

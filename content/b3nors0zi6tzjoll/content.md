@@ -1,4 +1,4 @@
-The ***Cyberamic Sheet Metal Head***, Part #000-0044-\_\_, is an A36 carbon steel frame that holds Cyberamic heads together, alongside mounting any facial or neck movements.(4)
+The ***Cyberamic Sheet Metal Head***, Part #000-0044-__, is an A36 carbon steel frame that holds Cyberamic heads together, alongside mounting any facial or neck movements.(4)
 
 ## Variants
 

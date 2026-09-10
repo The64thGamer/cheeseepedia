@@ -59,4 +59,4 @@ Not much info is available, but they were likely similar to Fifi La Mue from The
 | [Link](https://www.youtube.com/watch?v=Sq1FScQd_ks) | A full St. Louis River Revue show | ~1986        |
 | [Link](https://youtu.be/2YxWKFEvf64)                | A demo for the Pre-Show           | Unknown      |
 
-https://youtu.be/b\_L3v3LnhPk?t=242
+https://youtu.be/b_L3v3LnhPk?t=242

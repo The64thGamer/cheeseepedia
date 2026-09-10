@@ -49,20 +49,20 @@ There are two custom code versions designed for special applications:
 | Switch setting !! Name !! # of bits   |
 |---------------------------------------|
 |                                       |
-| 00000 \|\| Disable bitstripper \|\| 0 |
-| 00001 \|\| Rolfe and Earl \|\| 22     |
-| 00010 \|\| Dook \|\| 17               |
-| 00011 \|\| Fatz \|\| 16               |
-| 00100 \|\| Organ and Sign \|\| 14     |
-| 00101 \|\| Spots \|\| 8               |
-| 00110 \|\| Curtains \|\| 6            |
-| 00111 \|\| Spots and Curtains \|\| 14 |
-| 01000 \|\| Props \|\| 8               |
-| 01001 \|\| Beach Bear \|\| 16         |
-| 01010 \|\| Looney Bird \|\| 6         |
-| 01011 \|\| Mitzi \|\| 19              |
-| 01100 \|\| Billy Bob \|\| 20          |
-| 01101 \|\| Floods \|\| 12             |
-| 01110 \|\| Specials \|\| 3            |
-| 01111 \|\| Stage lights \|\| 19       |
-| 1xxxx \|\| Future use \|\| -          |
+| 00000 || Disable bitstripper || 0 |
+| 00001 || Rolfe and Earl || 22     |
+| 00010 || Dook || 17               |
+| 00011 || Fatz || 16               |
+| 00100 || Organ and Sign || 14     |
+| 00101 || Spots || 8               |
+| 00110 || Curtains || 6            |
+| 00111 || Spots and Curtains || 14 |
+| 01000 || Props || 8               |
+| 01001 || Beach Bear || 16         |
+| 01010 || Looney Bird || 6         |
+| 01011 || Mitzi || 19              |
+| 01100 || Billy Bob || 20          |
+| 01101 || Floods || 12             |
+| 01110 || Specials || 3            |
+| 01111 || Stage lights || 19       |
+| 1xxxx || Future use || -          |

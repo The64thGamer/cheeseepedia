@@ -1,4 +1,4 @@
-**\*\*Dolli Dimples:\*\***
+****Dolli Dimples:****
 
 <br>
 **Now that I’m here fancy face, why don’t you tell me about my future, since I know all about my past. And while you’re at it why don’t you sing along with my song!**
@@ -7,7 +7,7 @@
 **(Song: California Here I Come)**
 
 <br>
-**\*\*Dolli Dimples:(Singing)\*\***
+****Dolli Dimples:(Singing)****
 
 <br>
 **California, here I come**
@@ -34,13 +34,13 @@
 **California, here I come**
 
 <br>
-**\*\*Dolli Dimples:\*\***
+****Dolli Dimples:****
 
 <br>
 **You know, for a long time I was ashamed of the way I lived. But rather then reform, I got over being ashamed.** 
 
 <br>
-**\*\*Dolli Dimples:(Singing)\*\***
+****Dolli Dimples:(Singing)****
 
 <br>
 **San Francisco open your golden gates** 
@@ -67,7 +67,7 @@
 **I’m coming home to go roaming no more** 
 
 <br>
-**\*\*Dolli Dimples:\*\***
+****Dolli Dimples:****
 
 <br>
 **Be seeing you later pretty ones**

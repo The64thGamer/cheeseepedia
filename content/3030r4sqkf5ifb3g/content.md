@@ -53,8 +53,8 @@ The left side of the keyboard contains three rows of 7 buttons, called ***Progra
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | RECORD | SEQ. | TIMER |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | AUTO VOX | DUAL FUNC |  |
 
-**Start** \- Starts the Tape deck and show
-**Stop** \- Stops the Tape deck and show
+**Start** - Starts the Tape deck and show
+**Stop** - Stops the Tape deck and show
 **Rewind -** Stops the show and puts the tape deck in Rewind
 
 ##### **Record** 

@@ -26,6 +26,6 @@ The design of the Small-Town Studio C Prototype was interesting, as there was no
 
 | Location                           | Address           | Opening             | Closing Date | Removed     | Replaced With                                                     |
 |------------------------------------|-------------------|---------------------|--------------|-------------|-------------------------------------------------------------------|
-| Waco, Texas, United States         | 5106 West Waco Dr | June 24th, 2002     | Still Open   | 2003        | Small-town Studio C\|Small-Town Studio C V1 (Dance Floor in 2022) |
-| Lake Jackson, Texas, United States | 100 West Hwy 332  | October 22nd, 2002  | Still Open   | 2005 / 2006 | Small-town Studio C\|Small-Town Studio C V3                       |
-| Dover, Delaware, United States     | 1275 N DuPont Hwy | December 27th, 2002 | Still Open   | 2005        | Small-town Studio C\|Small-Town Studio C V3                       |
+| Waco, Texas, United States         | 5106 West Waco Dr | June 24th, 2002     | Still Open   | 2003        | Small-town Studio C|Small-Town Studio C V1 (Dance Floor in 2022) |
+| Lake Jackson, Texas, United States | 100 West Hwy 332  | October 22nd, 2002  | Still Open   | 2005 / 2006 | Small-town Studio C|Small-Town Studio C V3                       |
+| Dover, Delaware, United States     | 1275 N DuPont Hwy | December 27th, 2002 | Still Open   | 2005        | Small-town Studio C|Small-Town Studio C V3                       |

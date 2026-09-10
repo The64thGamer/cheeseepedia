@@ -25,7 +25,7 @@ Oddly, the CEC showtape release for October 1988 is absent, which would have syn
 | [ShowBiz Pizza Program 11] | [SPP Summertime Showtape]         | [CEC Summertime]            |
 | [ShowBiz Pizza Program 12] | [SPP Grammy - Summertime]         | CEC Grammy Awards                                   |
 | [ShowBiz Pizza Program 13] | [SPP September 1988 Show]         | [CEC Dance Showtape]        |
-| [ShowBiz Pizza Program 14] | [SPP Dance - Grammy]              | \---                                                |
+| [ShowBiz Pizza Program 14] | [SPP Dance - Grammy]              | ---                                                |
 | [ShowBiz Pizza Program 15] | SPP Homely for Christmas                                  | [CEC Home for the Holidays] |
 | [ShowBiz Pizza Program 16] | SPP Bach to Rock / Dance Contest                          | CEC Fractured Classics                              |
 | [ShowBiz Pizza Program 17] | SPP Best of 1988                                          | CEC Kiddie Songs                                    |

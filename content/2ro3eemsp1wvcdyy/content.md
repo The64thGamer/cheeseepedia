@@ -50,4 +50,4 @@ Sioux Falls, SD (1912 W 41st St)
 - One of the Rockin Rollie's band members was present at the auction in 2008 for Gigglebee's closing.(4)
 - The music for the show was taped over music from the band Sharon, Lois &amp; Bram. (5)
 
-https://www.newspapers.com/image/351074199/?match=1&amp;clipping\_id=148088831 https://www.newspapers.com/image/239995037/?match=1&amp;terms="Rockin%20Rollie%27s"&amp;clipping\_id=53007505
+https://www.newspapers.com/image/351074199/?match=1&amp;clipping_id=148088831 https://www.newspapers.com/image/239995037/?match=1&amp;terms="Rockin%20Rollie%27s"&amp;clipping_id=53007505

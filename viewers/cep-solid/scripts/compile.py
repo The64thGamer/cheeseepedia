@@ -8,7 +8,7 @@ OUT_ID_TO_TITLE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/f
 
 
 def main():
-    check_no_backslashes()
+    remove_backslashes()
     title_to_id = build_title_to_id_map()
     id_to_title = build_id_to_title_map(title_to_id)
 
@@ -20,12 +20,12 @@ def main():
 
     run_solid_build()
 
-def check_no_backslashes():
+def remove_backslashes():
     content_path = Path(CONTENT_DIR)
     if not content_path.exists():
         return
 
-    found_errors = False
+    modified_count = 0
     for folder in content_path.iterdir():
         if not folder.is_dir():
             continue
@@ -36,13 +36,15 @@ def check_no_backslashes():
         try:
             content = md_file.read_text(encoding="utf-8")
             if "\\" in content:
-                print(f"Error: Backslash '\\' found in {md_file}", file=sys.stderr)
-                found_errors = True
+                cleaned_content = content.replace("\\", "")
+                md_file.write_text(cleaned_content, encoding="utf-8")
+                print(f"Removed backslashes from: {md_file}")
+                modified_count += 1
         except Exception as e:
-            print(f"Error reading {md_file}: {e}", file=sys.stderr)
+            print(f"Error processing {md_file}: {e}", file=sys.stderr)
 
-    if found_errors:
-        sys.exit(1)
+    if modified_count > 0:
+        print(f"Cleaned backslashes in {modified_count} content.md file(s).")
 
 def build_title_to_id_map():
     index = {}

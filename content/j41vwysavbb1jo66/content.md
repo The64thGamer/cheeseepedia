@@ -57,7 +57,7 @@ When Chuck V2 was saved by Jul Kamen and moved into her house, the bot was given
 
 ## Parts
 
-\|\-\|Mechanisms=
+|-|Mechanisms=
 ---
 
 Eyelid Assembly=
@@ -68,13 +68,13 @@ The two single-acting cylinders that control the eyelids would be bolted into th
 
 * 
 
-\}\}\|\-\|Hardware=\|\-\|Shells\, Guards\, & Covers=
+}}|-|Hardware=|-|Shells, Guards, & Covers=
 ---
 
 Upper Chest Shell=
 ---
 
-Lower Chest Shell=\}\}\|\-\|Cosmetics=
+Lower Chest Shell=}}|-|Cosmetics=
 ---
 
 Teeth=

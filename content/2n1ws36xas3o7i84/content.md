@@ -17,8 +17,8 @@
 ### 1970-1971
 
 * Nolan would begin dreaming of owning an establishment featuring games and food.[29] He would plan for the entertainment center to serve pizza as it was an easy food to produce that couldn't be screwed up as long as the ingredients were good.[1]
-* Nolan would visit the Redwood City *Pizza and Pipes* and discover there was desire for entertainment alongside food\, as seen by their organist playing throughout the day\.\[1\]\[30\]
-* He would make a trip to *Disney Land* and would be inspired by the animatronics of the Enchanted Tiki Room\. He would settle on the restaurant's entertainment to be animatronic shows\. Nolan would plan to build these computerized characters in his garage\- and have the business franchised out to various locations\.\[6\]\[1\]\[8\]
+* Nolan would visit the Redwood City *Pizza and Pipes* and discover there was desire for entertainment alongside food, as seen by their organist playing throughout the day.[1][30]
+* He would make a trip to *Disney Land* and would be inspired by the animatronics of the Enchanted Tiki Room. He would settle on the restaurant's entertainment to be animatronic shows. Nolan would plan to build these computerized characters in his garage- and have the business franchised out to various locations.[6][1][8]
 
 ### 1974
 
@@ -28,20 +28,20 @@
 
 #### April
 
-* In April\, Lloyd Warman would become Vice President of Operations\, and set on creating \[Atari Family Game Center\]\. Sometime after this two centers would open in the Oakridge Mall San Jose\, CA \(925 Blossom Hill Rd\)\|\(925 Blossom Hill Rd\) and Orange Mall Orange\, CA \(1500 East Village Way\)\|\(1500 East Village Way\)\.\[32\]\[1\]\[33\]
+* In April, Lloyd Warman would become Vice President of Operations, and set on creating [Atari Family Game Center]. Sometime after this two centers would open in the Oakridge Mall San Jose, CA (925 Blossom Hill Rd)|(925 Blossom Hill Rd) and Orange Mall Orange, CA (1500 East Village Way)|(1500 East Village Way).[32][1][33]
 
 #### May
 
-* On the 31st, the third [Atari Family Game Center] would open at the *BayFair Center Mall* San Leandro\, CA \(E\. 14th St\. at 155th Ave\.\)\|\(E\. 14th St\. at 155th Ave\.\)\[2\]
+* On the 31st, the third [Atari Family Game Center] would open at the *BayFair Center Mall* San Leandro, CA (E. 14th St. at 155th Ave.)|(E. 14th St. at 155th Ave.)[2]
 
 #### Mid-Late 1974
 
-* Sometime before the November 1974 IAAPA convention\, Nolan would set the codename for his arcade restaurant project to be 'Coyote Pizza'\.\[1\]\[2\]
+* Sometime before the November 1974 IAAPA convention, Nolan would set the codename for his arcade restaurant project to be 'Coyote Pizza'.[1][2]
 
 #### November
 
 * Just before the November IAAPA show, it would be stated Nolan's Coyote Pizza idea would be close to being greenlit for development at Atari.[1]
-* Nolan attends the *56th Annual IAAPA Convention.* At the event he would purchase a \[Rick Rat Walkaround\] from a costuming company to be shipped to the Atari offices later\. Nolan would believe this costume to be of a coyote\.\[34\]\[3\] It is unconfirmed if Nolan had seen a different costume to the one he was eventually shipped\, as other variants of the costume didn't have the rat tail or buck teeth\- also being referred to by their owners as a coyote\.\[4\]
+* Nolan attends the *56th Annual IAAPA Convention.* At the event he would purchase a [Rick Rat Walkaround] from a costuming company to be shipped to the Atari offices later. Nolan would believe this costume to be of a coyote.[34][3] It is unconfirmed if Nolan had seen a different costume to the one he was eventually shipped, as other variants of the costume didn't have the rat tail or buck teeth- also being referred to by their owners as a coyote.[4]
 
 #### Winter
 
@@ -61,7 +61,7 @@
 
 #### January
 
-* In January, Atari would start its *Consumer Division* for development of the Atari VCS\, moving its employees to the newly constructed \[Sunnyvale\, CA \(155 Moffett Park Drive\)\] and \[Sunnyvale\, CA \(1195 Borregas Avenue\)\]\.\[7\]\[4\]
+* In January, Atari would start its *Consumer Division* for development of the Atari VCS, moving its employees to the newly constructed [Sunnyvale, CA (155 Moffett Park Drive)] and [Sunnyvale, CA (1195 Borregas Avenue)].[7][4]
 
 #### May
 
@@ -91,7 +91,7 @@
 #### August
 
 * On the 2nd, a set of building plans for the first restaurant would be written. The restaurant would be labeled as 'The Big Cheese', and as a 'Pizza Cabaret'.[11]
-* Sometime in August, Gene Landrum would quit his job at National Semiconductor to work fully at Atari.[3] Atari opens the *Restaurant Operating Division* of the company to pursue the restaurant concept, Gene Landrum is appointed as General Manager of the division and President of the *Atari Consumer Division*\.\[12\]\[2\] By this point Gene begins searching for a 6\,000 square foot building to house the first location\.\[39\]
+* Sometime in August, Gene Landrum would quit his job at National Semiconductor to work fully at Atari.[3] Atari opens the *Restaurant Operating Division* of the company to pursue the restaurant concept, Gene Landrum is appointed as General Manager of the division and President of the *Atari Consumer Division*.[12][2] By this point Gene begins searching for a 6,000 square foot building to house the first location.[39]
 
 #### Late 1976 (or early 1977)
 
@@ -100,7 +100,7 @@
 
 #### September
 
-* On the 7th Nolan Bushnell sells Atari to Warner Communications for $28\,000\,000\.\[14\] Nolan stays as head of the company\, but signs a 5 year non\-compete agreement\. Warner also signs to invest $120\,000\,000 into Atari\, which Nolan is permitted to use for his restaurant concept\.\[15\]\[1\]
+* On the 7th Nolan Bushnell sells Atari to Warner Communications for $28,000,000.[14] Nolan stays as head of the company, but signs a 5 year non-compete agreement. Warner also signs to invest $120,000,000 into Atari, which Nolan is permitted to use for his restaurant concept.[15][1]
 
 #### October
 
@@ -147,7 +147,7 @@
 
 #### Mid-Late 1977
 
-* Sometime after the opening of the first store while Nolan Bushnell was on a trip to Europe\, Gene Landrum would put up a sign stating nobody under \(claimed either as 16 or 18\) was permitted in without a parent\. This was due to sentiments around the time that arcade and pinball hangouts would attract drug users and 'bad people'\, which Gene wanted the location to be perceived as a restaurant\. Once Nolan had came back to California\, he ordered Gene to take down the sign for being a silly rule\, which Gene declined\. Nolan would later come back a \(claimed as either a week or 2 weeks\) later realizing it was a good idea and that Gene was a genious\, but forced the sign to be changed to anyone under 14\.\[21\]\[45\]
+* Sometime after the opening of the first store while Nolan Bushnell was on a trip to Europe, Gene Landrum would put up a sign stating nobody under (claimed either as 16 or 18) was permitted in without a parent. This was due to sentiments around the time that arcade and pinball hangouts would attract drug users and 'bad people', which Gene wanted the location to be perceived as a restaurant. Once Nolan had came back to California, he ordered Gene to take down the sign for being a silly rule, which Gene declined. Nolan would later come back a (claimed as either a week or 2 weeks) later realizing it was a good idea and that Gene was a genious, but forced the sign to be changed to anyone under 14.[21][45]
 * Gene Landrum noted as meeting with a Warner executive that had a Harvard MBA at the location, and on the topic of the walkaround he mentioned it cost $5,000 for Fantasy Forest to produce, to which the executive exclaims Gene is nuts and that isn't economically viable. [45]
 * Before the first manager's firing, Gene Landrum would arrive one day and ask a customer from Menlo Park what they thought of the location. The customer would note the games were great and his daughter loved it, but that the menus noted the [Winchester Chuck Walkaround] would come out every 20 minutes to greet guests- and they had already been there an hour and a half, and his daughter wanted to shake Chuck's hand. Gene would confront the manager and threaten him to go put on the costume himself, to which he "...almost fainted and threw up on me...". The manager would state "...two kids (employees) didn't show up tonight, do you want to get the pizza out or that stupid costume?". Gene would say the customer "...passed 60 pizza stores to get here. He didn't drive 40 miles for your pizza."
 
@@ -176,7 +176,7 @@
 #### November
 
 * On the 17th, 13 different copyright filings would be submitted. These would be 'Chuck E. Cheese's theme', 'How will I know?', 'Roots in the country', 'Endlessly awake, part 1', 'Chuck E. Cheese (token)', 'Chuck E. Cheese's Pizza Time Theatre (long sign)', 'Chuck E. Cheese's Pizza Time Theatre (regular sign)', 'Chuck E. Cheese (in frame)', 'Chuck E. Cheese (standing)', 'Crusty the cat (three full views)', 'Crusty the cat (two head views)', 'Billy Banjo Boggs', 'Pasqually', 'Singing magpies'.[25]
-* On the 29th\, the copyright for 'Mister Munch' and The Mopsy Sisters would be filed\.\[26\]\[27\]
+* On the 29th, the copyright for 'Mister Munch' and The Mopsy Sisters would be filed.[26][27]
 
 ### 1979
 

@@ -2,7 +2,7 @@ The ***Chuck E. Cheese 32m Animatronic*** is an animatronic figure created by Ga
 
 ## History
 
-After the \[Awesome Adventure Machine\] concept failed\, the one animatronic show concept was still being considered\. Soon enough\, ShowBiz reached out to a few manufactures one being Creative Presentations\. But being unable to help ShowBiz\, they suggested that they contacted Garner Holt\. \(1\) In 1997\, Garner Holt built their first batch of 32 function Chuck E\. Cheese animatronics\, the first appearance being on October 3rd\, 1997 for an invite only event at the \[ShowBiz Pizza Time Corporate Office\] and a handful of locations\. In February 1998 Chuck E\. was unveiled at the 1998 CEC General Managers Las Vegas Convention \(Event\)\|General Managers Convention\. 160 of these Chuck E\. Animatronics were placed in locations by the year 2000 and later ended production in 2001\, only finishing one batch that year\.
+After the [Awesome Adventure Machine] concept failed, the one animatronic show concept was still being considered. Soon enough, ShowBiz reached out to a few manufactures one being Creative Presentations. But being unable to help ShowBiz, they suggested that they contacted Garner Holt. (1) In 1997, Garner Holt built their first batch of 32 function Chuck E. Cheese animatronics, the first appearance being on October 3rd, 1997 for an invite only event at the [ShowBiz Pizza Time Corporate Office] and a handful of locations. In February 1998 Chuck E. was unveiled at the 1998 CEC General Managers Las Vegas Convention (Event)|General Managers Convention. 160 of these Chuck E. Animatronics were placed in locations by the year 2000 and later ended production in 2001, only finishing one batch that year.
 
 ## Internals
 
@@ -143,10 +143,10 @@ After the \[Awesome Adventure Machine\] concept failed\, the one animatronic sho
 
 ## Stages Used In
 
-* Studio C \(1997\)\|Studio C Alpha: Installed from 1997\-2002\, 2012\, 2015\. 3 left as of October 2025
-* Studio C Prototype\|Studio C Alpha/Beta Mix: Installed from 2000\-2001\. None left as of October 2022
+* Studio C (1997)|Studio C Alpha: Installed from 1997-2002, 2012, 2015. 3 left as of October 2025
+* Studio C Prototype|Studio C Alpha/Beta Mix: Installed from 2000-2001. None left as of October 2022
 * [Studio C Beta], 32m: Installed from 2000-2003, 2009, 2019. 1 left as of August 2024
-* \[Circles of Light\]: Installed from 2012\, 2013\, 2015\. None left as of November 2024
+* [Circles of Light]: Installed from 2012, 2013, 2015. None left as of November 2024
 
 ## Trivia
 

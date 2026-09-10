@@ -2,7 +2,7 @@
 
 ## Summary
 
-The show consisted of \[Piano Sally \(Animatronic\)\] performing songs on a piano\. They have an 8 hour showtape consisting of playing the piano and singing\.\[5\]\[1\]
+The show consisted of [Piano Sally (Animatronic)] performing songs on a piano. They have an 8 hour showtape consisting of playing the piano and singing.[5][1]
 The entire show sells from $22,000 - $30,000- depending on which piano is used for the event. The only pianos currently known are an upright piano and a grand piano, but its claimed any Pianocorder piano was compatible with Sally.[4] In 1984 the lowest-end option would reduce in price to $21,000.[1]
 Showtapes were on Ampex 10-inch reels and consisted of 3 tracks: One for Pianocorder signals, another for Sally's voice track, and a third track for the animatronic [Data].
 

@@ -55,4 +55,4 @@ According to the SPT Franchise News #30 'Entertainment News' section this Family
 | ----- | -------- | ------ | ---- |
 | Foghorn Leghorn | 'Henhouse Henery' | 7:00 | Copyrighted |
 | Family Vision | 'Dot Derby' | 1:42 | https://www.youtube.com/watch?v=5DCmbwnnEas |
-| Michael Martin Murphy | 'A Long Line Of Love' | 4:19 | https://www.youtube.com/watch?v=xhdEF-\_0fq4 |
+| Michael Martin Murphy | 'A Long Line Of Love' | 4:19 | https://www.youtube.com/watch?v=xhdEF-_0fq4 |

@@ -28,6 +28,6 @@ The original prototype of the doll had a different face sculpt, with his lower j
 |---------------------------------------------|------------------------------------------------------|
 | https://www.youtube.com/watch?v=3q2KTeq62Uw | 1985 Demo of the prototype                           |
 | https://www.youtube.com/watch?v=nN5plJzjrig | Rock &amp; Roll Stage                                |
-| https://www.youtube.com/watch?v=d5e-iNF8pRs | 'Poo on You' (Parody of F\*ck You) sung by Billy Bob |
+| https://www.youtube.com/watch?v=d5e-iNF8pRs | 'Poo on You' (Parody of F*ck You) sung by Billy Bob |
 | https://www.youtube.com/watch?v=INYM-E1JaAM | Aaron Fetcher's auction video describing the doll    |
 |                                             |                                                      |

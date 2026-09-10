@@ -9,7 +9,7 @@ This file type contains control data for show segments. TODO more info on overal
 | A    | Set analog value                      | AV     | Channel is 1-indexed           |
 | M    | CCF subroutine call                   | MVVV   |                                |
 | R    | Random movement enable                |        |                                |
-| K    | CCF karaoke subroutine call           | K      | Example: K139THIS\_IS\_A\_TEST |
+| K    | CCF karaoke subroutine call           | K      | Example: K139THIS/_IS/_A/_TEST |
 | C    | Clear all analog and digital channels |        |                                |
 | E    | TODO...                               |        |                                |
 | S    | TODO...                               |        |                                |

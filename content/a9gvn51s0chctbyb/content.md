@@ -35,7 +35,7 @@ The show was a part of the [1990-1992 APS Floppy Cases], being split across two 
 
 #### Floppy Disk Label
 
-The labels on the two floppies the files appear in states .APS files BEACH BOWZERS #1 #1 of 2 disks SONGS #1-8 recorded 10-90 animated 3-91 (total of 10 songs) \*RDMVIDMV.ROA disc #91-4 BOWZERS #2 .APS files (2 of 2 disks) SONGS #9-10 BIRTHDAY STAR FILES for C&amp;R and ROAD STAGES * BDAYSTAR.* = original BSTARMOD.* = added Mouths/lights w/chorus \*TVINTRO.HLF TVINTRO.3ST disk #91-5
+The labels on the two floppies the files appear in states .APS files BEACH BOWZERS #1 #1 of 2 disks SONGS #1-8 recorded 10-90 animated 3-91 (total of 10 songs) *RDMVIDMV.ROA disc #91-4 BOWZERS #2 .APS files (2 of 2 disks) SONGS #9-10 BIRTHDAY STAR FILES for C&amp;R and ROAD STAGES * BDAYSTAR.* = original BSTARMOD.* = added Mouths/lights w/chorus *TVINTRO.HLF TVINTRO.3ST disk #91-5
 
 #### Files
 

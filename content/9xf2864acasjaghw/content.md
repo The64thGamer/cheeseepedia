@@ -184,7 +184,7 @@
     2. 'We Wish You A Merry Christmas'
     3. 'Dreidel Song'
 2. **Intermission 1**
-    4\. CEC TV ID \- 'Marx Bros'
+    4. CEC TV ID - 'Marx Bros'
 3. **Segment 1**
     1. 'Chuck E.'s Place'
     2. 'Up On The Housetop'

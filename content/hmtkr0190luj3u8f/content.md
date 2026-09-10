@@ -2,7 +2,7 @@
 
 ## History
 
-Play-N-Place was developed by Bill Caldwell, a special projects construction worker, and Steve Lippert, an architect. Together they designed the units to fit into Pizza Time Theatres. The designers of the project, Paul Mestemacher, Bill Stephenson, Tom Rogers, and Carl Wesenberg drew up plans for individual stores. In 1983, the concept was only a year old. Though, several changes had been made to the design to hold the line on cost and maintenance. Newer units were structured around use of high-density foam rather than wood at the time. It made cost 30% lower. They became prefabricated so it reduced construction time. Centers that contained a Play-N-Place said that it had become one of their most popular attractions. Lawton, Oklahoma stated that in their first 30 weeks of operations they had made $50,840 in Play-N-Place revenue. [ptt\_pizzatimes3-2.pdf (showbizpizza.com)](http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-2.pdf)
+Play-N-Place was developed by Bill Caldwell, a special projects construction worker, and Steve Lippert, an architect. Together they designed the units to fit into Pizza Time Theatres. The designers of the project, Paul Mestemacher, Bill Stephenson, Tom Rogers, and Carl Wesenberg drew up plans for individual stores. In 1983, the concept was only a year old. Though, several changes had been made to the design to hold the line on cost and maintenance. Newer units were structured around use of high-density foam rather than wood at the time. It made cost 30% lower. They became prefabricated so it reduced construction time. Centers that contained a Play-N-Place said that it had become one of their most popular attractions. Lawton, Oklahoma stated that in their first 30 weeks of operations they had made $50,840 in Play-N-Place revenue. [ptt_pizzatimes3-2.pdf (showbizpizza.com)](http://showbizpizza.com/info/documents/ptt/ptt_pizzatimes3-2.pdf)
 
 ## Attraction
 
@@ -32,7 +32,7 @@ Various pieces were placed into the room for surveillance, and safety.
 
 ### Access
 
-Requirements included being under 54 inches tall. (4 1/2 feet.) You had to have tokens in order to enter as well. [ptt\_gamesexaminer1-2.pdf (showbizpizza.com)](http://showbizpizza.com/info/documents/ptt/ptt_gamesexaminer1-2.pdf)
+Requirements included being under 54 inches tall. (4 1/2 feet.) You had to have tokens in order to enter as well. [ptt_gamesexaminer1-2.pdf (showbizpizza.com)](http://showbizpizza.com/info/documents/ptt/ptt_gamesexaminer1-2.pdf)
 
 ### Dimensions
 

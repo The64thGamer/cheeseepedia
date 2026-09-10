@@ -1,4 +1,4 @@
-***The King / King Kat [Cyberamics]*** were animatronics of The King produced by [Pizza Time Theatre] from June 1981 to 1983. The bots were controlled using the [Cyberamic Control System]. Some bots would be retrofitted from The King into King Kat from 1983 to 1985. The bots would be placed in a location's Lounge / Cabaret roomhttps://www.showbizpizza.com/info/documents/ptt/ptt\_pizzatimes1-2.pdf.
+***The King / King Kat [Cyberamics]*** were animatronics of The King produced by [Pizza Time Theatre] from June 1981 to 1983. The bots were controlled using the [Cyberamic Control System]. Some bots would be retrofitted from The King into King Kat from 1983 to 1985. The bots would be placed in a location's Lounge / Cabaret roomhttps://www.showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-2.pdf.
 
 ## History
 

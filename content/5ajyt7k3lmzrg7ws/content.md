@@ -50,14 +50,14 @@ All characters are voiced in the game, commenting briefly on the player's action
 All *arom* ROMs contain a string leftover from the toolset used to create them.
 
 ```
-C:\SOUND\TOOLS\MAKEROM.EXE
+C:SOUNDTOOLSMAKEROM.EXE
 cheese.spc
 ```
 
 *prog.102* contains system information
 
 ```
-MAD MAX Sound\Novelty Game Operating System
+MAD MAX SoundNovelty Game Operating System
 rev. 2.0
 2-18-92
 ```
@@ -141,7 +141,7 @@ OFF
 Service     :
 ON
 OFF
-Ticket Opto : \
+Ticket Opto : 
 ON
 OFF
 Volume Up   :
@@ -193,7 +193,7 @@ No MatchesTickets :
 Coins Per Credit
 COINS PER CREDIT = 0 FOR FREE PLAY
 FREE PLAY DISABLES TICKET DISPENSER
-Ticket Payouts \
+Ticket Payouts 
 CreditsEvery
 CycleEvery 2
 CyclesEvery 3
@@ -202,7 +202,7 @@ CyclesNever
 Attract Mode Sounds
 Attract Mode Sounds
 Sound Volume
-Ticket Payouts \
+Ticket Payouts 
 CreditsGame
 TimeCurtain
 Mode

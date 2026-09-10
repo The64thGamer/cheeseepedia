@@ -102,7 +102,7 @@ The show was a part of the [1990-1992 APS Floppy Cases], being the second tape k
 
 #### Floppy Disk Labels
 
-XMAS 1 .ATL .ROA APS files XMAS 2 .ATL .ROA XMAS 3 .ATL .ROA 10-90 #90\_8 A Road Show lighting XMAS 4 .ATL .ROA APS files LIVE90#1.ROA ('BDAY WAVE.ATL' is visible on the third line, but whited out) 10-90 #90-8 B Road Show lighting 'JAN 91' #1 .APS files 'JAN 91' #2 'JAN 91' #3 BDAYWAVE -> ROAD STAGE <- January, 1991 Show 10 11-90 #90-10
+XMAS 1 .ATL .ROA APS files XMAS 2 .ATL .ROA XMAS 3 .ATL .ROA 10-90 #90_8 A Road Show lighting XMAS 4 .ATL .ROA APS files LIVE90#1.ROA ('BDAY WAVE.ATL' is visible on the third line, but whited out) 10-90 #90-8 B Road Show lighting 'JAN 91' #1 .APS files 'JAN 91' #2 'JAN 91' #3 BDAYWAVE -> ROAD STAGE <- January, 1991 Show 10 11-90 #90-10
 
 #### Floppy Alteration
 

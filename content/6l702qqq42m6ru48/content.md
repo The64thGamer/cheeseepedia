@@ -1,5 +1,5 @@
 The ***Balcony Stage*** (known internally as ***The Stage***) was a Cyberamics stage type used at [Pizza Time Theatre] locations as a replacement for the [Cyberamics Portrait Shelf], and was installed from 1980 to 1986.
-The stage debuted at \[San Jose\, CA \(1371 Kooser Rd\)\] \[1\] in May of 1980\, and went extinct in 1993 at \[Edmonton\, Alberta\, Canada \(9271 34th Ave\)\]\. From 1988 to 1989\, most Balcony Stages would be retrofitted into \[Chuck E's House Facade\]\.
+The stage debuted at [San Jose, CA (1371 Kooser Rd)] [1] in May of 1980, and went extinct in 1993 at [Edmonton, Alberta, Canada (9271 34th Ave)]. From 1988 to 1989, most Balcony Stages would be retrofitted into [Chuck E's House Facade].
 
 ## History
 

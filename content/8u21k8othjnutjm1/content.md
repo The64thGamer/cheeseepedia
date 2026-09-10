@@ -62,7 +62,7 @@ The ***July 1993 Show*** was the segmented show that played during the summer of
 
 ## Production
 
-This show was originally going to be released May of 1993, but was delayed to July.https://youtu.be/teR6WipX\_5s
+This show was originally going to be released May of 1993, but was delayed to July.https://youtu.be/teR6WipX_5s
 
 ### Cut Song
 

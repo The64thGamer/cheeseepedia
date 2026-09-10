@@ -1,4 +1,4 @@
-The ***WKMG Creative Engineering Spot* is a 1976 Orlando, Florida news segment for *CBS/WKMG-TV News 6***\*,at the time called **CBS/WDBO-TV News 6**\* **[1] discussing Creative Engineering's [Willie Wabbit (Animatronic)] and the [Headless Ghost (Animatronic)] which at the time of the recording hadn't been shipped to the client yet [2]**
+The ***WKMG Creative Engineering Spot* is a 1976 Orlando, Florida news segment for *CBS/WKMG-TV News 6****,at the time called **CBS/WDBO-TV News 6*** **[1] discussing Creative Engineering's [Willie Wabbit (Animatronic)] and the [Headless Ghost (Animatronic)] which at the time of the recording hadn't been shipped to the client yet [2]**
 
 ## Transcript
 
@@ -14,7 +14,7 @@ The segment is narrated by three newscasters,2 male,one female,alongside Aaron F
 > **[Whimsical Music starts playing and then gets abruptly cut by a camera switch]**
 > **Aaron Fechter:** He's got a computer inside. The computer selects from various numbers, of.., messages, which he is capable of producing- and... so it's pretty random, you never know what he's gonna say next.
 > **Cindy Betz:** And you never know what Aaron is going to create next. He says he's going to build a female rabbit, we...glose (close) down the rabbit division and let nature take it's course
-> **Willie Wabbit(while Cindy Betz is saying her last line):**(unintelligible) \*chuckles\*
+> **Willie Wabbit(while Cindy Betz is saying her last line):**(unintelligible) *chuckles*
 > **[Camera Cut]**
 > **Willie Wabbit(while Cindy Betz is saying her last line):** between you and the wizard, and much more (unintelligible)
 > **[Loud air compressor noises with chatter being heard in the background]**

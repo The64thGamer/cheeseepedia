@@ -27,12 +27,12 @@ The company is most well known for its creation of the [Rock-afire Explosion] fo
 ### 1977
 
 * At an Unknown Date, the first Friendly Freddy is produced by CEI.[8]
-* At an Unknown Date\, multiple Head only animatronics and a Dracula Animatronic are produced\. These Bots and Friendly Freddy would appear at the 1977 IAAPA Expo\.\[9\] \[10\]
+* At an Unknown Date, multiple Head only animatronics and a Dracula Animatronic are produced. These Bots and Friendly Freddy would appear at the 1977 IAAPA Expo.[9] [10]
 * Creative Engineering is tasked by Santa's Village in New Hampshire to produce a Show. The show is later called the 'Santa Clause Revue'.[8]
 * Creative Engineering begins work on the [Bear Country Jubilee].[8]
 * At an Unknown Date, CEI creates a Promotional Pamphlet to Sell and Showcase Shows produced, featuring the first use of 'Electronimation'.[8]
 * CEI prepares to Install all shows by or around Spring of 1978.[8]
-* At an Unknown Date\, CEI installs or ships The \[Jingle Bell Jamboree\] to Santa's Village\.\[11\] \[15\]
+* At an Unknown Date, CEI installs or ships The [Jingle Bell Jamboree] to Santa's Village.[11] [15]
 
 ### 1978
 
@@ -45,12 +45,12 @@ The company is most well known for its creation of the [Rock-afire Explosion] fo
 
 #### November 1979
 
-* At the November 1979 IAAPA Expo\, CEI showcases the 79' Wolf Pack 5\.\[13\] \[15\]
+* At the November 1979 IAAPA Expo, CEI showcases the 79' Wolf Pack 5.[13] [15]
 
 #### Unknown
 
 * At an Unknown Date, CEI builds the First Hard Luck Bears and 79' Wolf Pack 5.
-* At an Unknown Date\, CEI sells a Wolf Pack 5 to King's Dominion in Virginia for their Lost World Area\.\[14\] \[15\]
+* At an Unknown Date, CEI sells a Wolf Pack 5 to King's Dominion in Virginia for their Lost World Area.[14] [15]
 * At an Unknown Date, CEI sells a Wolf Pack 5 to La Ronde in Montreal Canada for their 'Man and His World' Exhibition.[15]
 * At an Unknown Date, CEI sells a Custom Show containing The Wolfman, Fats, and Friendly Freddy to Gaslight Village in New York.[15]
 * At an Unknown Date, CEI sells a Wolf Pack 5 to Italpark in Bueno Aires, Argentina.[15]

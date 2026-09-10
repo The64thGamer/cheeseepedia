@@ -117,6 +117,6 @@ On March 6th of 2015, Aaron Fechter retrieved them from storage. An amusement pa
 | [Wolf Pack 5 ShowBiz Tape] |  | March | 1980 | [CEI 4-Track Reel] |
 | [Wolfman Showtape] |  | March | 1980 | [CEI 4-Track Reel] |
 | **Wolf Skit 1-3** |  |  | 1980's | [CEI 4-Track Reel] |
-| Wolf 1\-3\|**Wolf 1-3** |  |  | 1980's | [CEI 4-Track Reel] |
+| Wolf 1-3|**Wolf 1-3** |  |  | 1980's | [CEI 4-Track Reel] |
 
 Some custom showtapes existed for the various parks the Wolf Pack 5 was sold to, but these have not been preserved or discovered as of the time of this writing.

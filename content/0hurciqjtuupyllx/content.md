@@ -1,4 +1,4 @@
-\*\*Havin' A Party\*\* was a live show that was available from September 1992 through December 2000. In January 2001 the show would be rerecorded with the current voice cast and new TV visuals. 
+**Havin' A Party** was a live show that was available from September 1992 through December 2000. In January 2001 the show would be rerecorded with the current voice cast and new TV visuals. 
 
 ## Summary
 
@@ -24,7 +24,7 @@ All three segments’ files were last updated between March 20, 1992, and March 
 
 ## Live Show Trivia:
 
-\* The instrumental for 'Havin' A Party' is reused from 'Treat ‘Em Like You Wanna Be Treated' from Friends 91. 
-\* Chuck E.'s Place first debuted in Friends 91. It would be reused in the Land of 1,000 Dances live show. 
-\* Footage from 2:23 onwards is reused from the Land of 1,000 Dances live show.
-\* When reused for Studio C, the footage is cropped to transform the footage from 4:3 to 16:9.
+* The instrumental for 'Havin' A Party' is reused from 'Treat ‘Em Like You Wanna Be Treated' from Friends 91. 
+* Chuck E.'s Place first debuted in Friends 91. It would be reused in the Land of 1,000 Dances live show. 
+* Footage from 2:23 onwards is reused from the Land of 1,000 Dances live show.
+* When reused for Studio C, the footage is cropped to transform the footage from 4:3 to 16:9.

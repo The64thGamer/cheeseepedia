@@ -1,10 +1,10 @@
-**\*\*Dolli Dimples:\*\***
+****Dolli Dimples:****
 
 **These next tunes are dedicated to three of my favorite things, namely anyone who’s long, tall, and Texan.** 
 
 **(Song: Deep in the Heart of Texas)**
 
-**\*\*Dolli DImples:(Singing)\*\***
+****Dolli DImples:(Singing)****
 
 **The stars at night, are big and bright,**
 
@@ -22,13 +22,13 @@
 
 **deep in the heart of Texas.**
 
-**\*\*Dolli Dimples:\*\***
+****Dolli Dimples:****
 
 **This next song is for my second husband Eugene who used to ride with the Texas Rangers.** 
 
-**\*\*[Song: Long Tall Texan]\*\***
+****[Song: Long Tall Texan]****
 
-**\*\*Dolli Dimple:(Singing)\*\***
+****Dolli Dimple:(Singing)****
 
 **Well, He’s a long tall Texan, he wears a ten-gallon hat**
 
@@ -38,11 +38,11 @@
 
 **“Ohh is you the law?”**
 
-**\*\*Dolli Dimples:\*\***
+****Dolli Dimples:****
 
 **You know he is.** 
 
-**\*\*Dolli Dimples:(Singing)\*\***
+****Dolli Dimples:(Singing)****
 
 **The eyes of Texas are upon you** 
 
@@ -52,11 +52,11 @@
 
 **You cannot get away**
 
-**\*\*Dolli DImples:\*\***
+****Dolli DImples:****
 
 **If those eyes look like yours mister I wouldn’t want to get away**
 
-**\*\*Dolli Dimples:(Singing)\*\***
+****Dolli Dimples:(Singing)****
 
 **Do not think you can escape them** 
 
@@ -66,6 +66,6 @@
 
 **Till Gabriel blows his horn**
 
-**\*\*Dolli Dimples:\*\***
+****Dolli Dimples:****
 
 **Well, if you liked what I did then, let’s plan on doing it again later. See ya.**

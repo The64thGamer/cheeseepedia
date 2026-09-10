@@ -18,20 +18,20 @@ The Drum Board was part of Character Card 6, which was dedicated to both it and 
 |-----------|----------|--------------------|----------------|
 | 81        | 0        | Cowbell            | Audsel 1       |
 | 82        | 1        | Large Block        | Audsel 2       |
-| 83        | 2        | Medium Block       | \-             |
-| 84        | 3        | Tambourine         | \-             |
-| 85        | 4        | Bass               | \-             |
-| 86        | 5        | Snare              | \-             |
-| 87        | 6        | Triangle           | \-             |
+| 83        | 2        | Medium Block       | -             |
+| 84        | 3        | Tambourine         | -             |
+| 85        | 4        | Bass               | -             |
+| 86        | 5        | Snare              | -             |
+| 87        | 6        | Triangle           | -             |
 | 88        | 7        | Cymbal             | Video Select 1 |
 | 89        | 8        | Large Pan          | Video Select 2 |
-| 90        | 9        | Medium Pan         | \-             |
-| 91        | 10       | Small Pan          | \-             |
-| 92        | 11       | Clapper Razzle     | \-             |
-| 93        | 12       | Clap               | \-             |
-| 94        | 13       | Elephant           | \-             |
-| 95        | 14       | \-                 | \-             |
-| 96        | 15       | \-                 | \-             |
+| 90        | 9        | Medium Pan         | -             |
+| 91        | 10       | Small Pan          | -             |
+| 92        | 11       | Clapper Razzle     | -             |
+| 93        | 12       | Clap               | -             |
+| 94        | 13       | Elephant           | -             |
+| 95        | 14       | -                 | -             |
+| 96        | 15       | -                 | -             |
 
 ## Instruments
 

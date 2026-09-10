@@ -27,16 +27,16 @@ Due to the ongoing nature of the Creative Engineering Premium Service, and per t
 | New Rock-afire Show! **Oh Nancy!** Advanced Premium Subscriber                            | 1         | July      | 2017 |
 | Brian's Huge Mask Order                                                                   | 1         | July      | 2017 |
 | Fireworks on the Jefferson Roof                                                           | 8         | July      | 2017 |
-| Jack Milinak's Tour \** Part III                                                          | 9         | July      | 2017 |
-| **Austin and Bill** Bear-A-Dise \** Fatz Song                                             | 11        | July      | 2017 |
+| Jack Milinak's Tour ** Part III                                                          | 9         | July      | 2017 |
+| **Austin and Bill** Bear-A-Dise ** Fatz Song                                             | 11        | July      | 2017 |
 | Brian's Huge Mask Order-Part II                                                           | 21        | July      | 2017 |
 | Brian's Huge Mask Order-Part II-remix                                                     | 21        | July      | 2017 |
 | Behind the Scenes-Taking a Late night Walk                                                | 22        | July      | 2017 |
-| Bear-A-Dise Restoration \** Part XXI                                                      | 27        | July      | 2017 |
+| Bear-A-Dise Restoration ** Part XXI                                                      | 27        | July      | 2017 |
 | Grouchy Inventor Fixes a Power Supply                                                     | 29        | July      | 2017 |
-| Bear-A-Dise Restoration \** Part XXII                                                     | 31        | July      | 2017 |
+| Bear-A-Dise Restoration ** Part XXII                                                     | 31        | July      | 2017 |
 | First thing to do after long break                                                        | 1         | August    | 2017 |
-| Bear-A-Dise Restoration \** Part XXIV                                                     | 2         | August    | 2017 |
+| Bear-A-Dise Restoration ** Part XXIV                                                     | 2         | August    | 2017 |
 | Making Rolfe's Feet For Mike                                                              | 10        | August    | 2017 |
 | Sneak Preview of Bear-A-Dise Work                                                         | 23        | August    | 2017 |
 | Bear-A-Dise Bids Creative Engineering Adieu- Part I                                       | 24        | August    | 2017 |
@@ -57,19 +57,19 @@ Due to the ongoing nature of the Creative Engineering Premium Service, and per t
 | Billy Bob fur and New Walkaround Find                                                     | 30        | April     | 2018 |
 | Kansas City RAE **Part V** Getting To Work                                                | 1         | May       | 2018 |
 | Kansas City RAE **Part VI** The Organ and Mitzi                                           | 2         | May       | 2018 |
-| Kansas City RAE \** Part VII                                                              | 3         | May       | 2018 |
+| Kansas City RAE ** Part VII                                                              | 3         | May       | 2018 |
 | My Mom's Drapes Problem                                                                   | 3         | May       | 2018 |
 | Huge Decision Forced On Me                                                                | 5         | May       | 2018 |
 | Kansas City RAE **Part VIII** Fatz' Valves                                                | 7         | May       | 2018 |
-| Time Machine Series \** Episode #01                                                       | 7         | May       | 2018 |
-| Beach Report \** 5-7-2018- I Am Not Retiring!                                             | 8         | May       | 2018 |
+| Time Machine Series ** Episode #01                                                       | 7         | May       | 2018 |
+| Beach Report ** 5-7-2018- I Am Not Retiring!                                             | 8         | May       | 2018 |
 | Orlando Science Center Visit                                                              | 12        | May       | 2018 |
 | The Destroyed Klunk Saga                                                                  | 20        | May       | 2018 |
 | The Destroyed Klunk Saga                                                                  | 20        | May       | 2018 |
-| \*\*J-Fatz and Fall Out Boy- 'Stay Frosty Royal Milk Tea' Revealed                        | 21        | May       | 2018 |
+| **J-Fatz and Fall Out Boy- 'Stay Frosty Royal Milk Tea' Revealed                        | 21        | May       | 2018 |
 | Measuring and Showing Costume Technicals                                                  | 29        | May       | 2018 |
 | Pouring Out Some Really Big Molds                                                         | 3         | June      | 2018 |
-| Historic Visit \** J-Cob Meets J-Fatz                                                     | 9         | June      | 2018 |
+| Historic Visit ** J-Cob Meets J-Fatz                                                     | 9         | June      | 2018 |
 | J-Fatz Might or Might not have a beard                                                    | 14        | June      | 2018 |
 | Revealing the J-Fatz Mask To Tim                                                          | 20        | June      | 2018 |
 | The Original Piano Recording of Kerry's Waltz                                             | 21        | June      | 2018 |
@@ -88,32 +88,32 @@ Due to the ongoing nature of the Creative Engineering Premium Service, and per t
 | Deadpool Rehearsal Part I- Hey guys! It's Me! Aaron!                                      | 14        | August    | 2018 |
 | All's Cool- I'm Working My Way Back To You Babe                                           | 17        | August    | 2018 |
 | Deadpool Rehearsal Part II                                                                | 20        | August    | 2018 |
-| Deadpool Rehearsal \** Part III                                                           | 23        | August    | 2018 |
+| Deadpool Rehearsal ** Part III                                                           | 23        | August    | 2018 |
 | Deadpool Rehearsal Part IV- Used and Abused                                               | 28        | August    | 2018 |
 | Giving Ignorance Its Just Deserts                                                         | 29        | August    | 2018 |
 | Premium Video Renewal Mania!                                                              | 9         | September | 2018 |
 | Another Flat Tire! Who Will Win This Time?                                                | 10        | September | 2018 |
 | My Personal Visit To Kansas City Rock-afire Bar                                           | 13        | September | 2018 |
-| Deadpoop V \** Syncing Their Data to Mine                                                 | 24        | September | 2018 |
+| Deadpoop V ** Syncing Their Data to Mine                                                 | 24        | September | 2018 |
 | Deadpoop Part VI- The show for Fox execs who are all young girls                          | 2         | October   | 2018 |
-| Deadpool VII \** The Trip To San Diego                                                    | 4         | October   | 2018 |
+| Deadpool VII ** The Trip To San Diego                                                    | 4         | October   | 2018 |
 | Quick Update Now That I'm Home and Trying To Get caught Up                                | 14        | October   | 2018 |
-| Deadpool X \** No Running!                                                                | 11        | November  | 2018 |
-| Jack's Weekend at Creative Engineering \** Part II                                        | 18        | February  | 2019 |
-| Jack's Weekend at CEI \** Part III                                                        | 18        | February  | 2019 |
-| Jack's Weekend at CEI \** Part IV                                                         | 19        | February  | 2019 |
-| RARE! \*\*- Part I of the 1992 Demo Tape * Raw Footage                                    | 28        | January   | 2021 |
-| Demo Tape -\*- Raw Footage * Beat It * Fatz                                               | 5         | February  | 2021 |
-| Huge Announcement \*-\*\** The Future Of Animatronics * Part I                            | 30        | March     | 2021 |
-| Part I \*---- The Epic Ice Breaker 3000 * Mark Rober's Creative Engineering Course        | 10        | April     | 2021 |
-| Part II \*----- The Epic Ice Breaker 3000! * Mark Rober's Creative Engineering Course     | 14        | April     | 2021 |
+| Deadpool X ** No Running!                                                                | 11        | November  | 2018 |
+| Jack's Weekend at Creative Engineering ** Part II                                        | 18        | February  | 2019 |
+| Jack's Weekend at CEI ** Part III                                                        | 18        | February  | 2019 |
+| Jack's Weekend at CEI ** Part IV                                                         | 19        | February  | 2019 |
+| RARE! **- Part I of the 1992 Demo Tape * Raw Footage                                    | 28        | January   | 2021 |
+| Demo Tape -*- Raw Footage * Beat It * Fatz                                               | 5         | February  | 2021 |
+| Huge Announcement *-*** The Future Of Animatronics * Part I                            | 30        | March     | 2021 |
+| Part I *---- The Epic Ice Breaker 3000 * Mark Rober's Creative Engineering Course        | 10        | April     | 2021 |
+| Part II *----- The Epic Ice Breaker 3000! * Mark Rober's Creative Engineering Course     | 14        | April     | 2021 |
 | Customer Service For A Layton Bit Stripper                                                | 19        | April     | 2021 |
-| Part III \*----- The Epic Ice Breaker 3000! * Mark Rober's Creative Engineering Course 32 | 20        | April     | 2021 |
+| Part III *----- The Epic Ice Breaker 3000! * Mark Rober's Creative Engineering Course 32 | 20        | April     | 2021 |
 | Status Of My Arduino Experiments                                                          | 21        | April     | 2021 |
 | MST3K (Mystery Science Theater 3000) RAE Performance                                      | 10        | May       | 2021 |
 | Inspiration                                                                               | 17        | May       | 2021 |
 | Secret Project Announced * Plastic Sample Material                                        | 26        | May       | 2021 |
-| Lauren's \*----- Rock-afire® Birthday Surprise                                            | 26        | May       | 2021 |
+| Lauren's *----- Rock-afire® Birthday Surprise                                            | 26        | May       | 2021 |
 | New CEI Team Member Kris Nicholson Pianist                                                | 9         | June      | 2021 |
 | Celebrating Aubrey, William, Gabi, Ben, Candy, and Chris Tonight                          | 10        | June      | 2021 |
 | Apology To William and Aubrey                                                             | 10        | June      | 2021 |
@@ -133,7 +133,7 @@ Due to the ongoing nature of the Creative Engineering Premium Service, and per t
 | Delivering Ben's Characters * Part III                                                    | 8         | August    | 2021 |
 | Super Tours '21 * Part I * 7/20/2021 to 7/21/2021                                         | 11        | August    | 2021 |
 | Super Tours '21 Part II 7 22 2021 to 7 25 2021 Tour 8                                     | 11        | August    | 2021 |
-| Layton's Fabulous Reverse Programmer -\*\*- BREAKTHROUGH!!                                | 11        | August    | 2021 |
+| Layton's Fabulous Reverse Programmer -**- BREAKTHROUGH!!                                | 11        | August    | 2021 |
 | Premium Channel Bits and Pieces- August 13, 2021                                          | 13        | August    | 2021 |
 | Delivering Ben's Characters * Part IV                                                     | 19        | August    | 2021 |
 | Super Tours '21 Part III * Tours 9 thru 13                                                | 27        | August    | 2021 |
@@ -200,7 +200,7 @@ Due to the ongoing nature of the Creative Engineering Premium Service, and per t
 | Day 35 of The Move * 5/1/2022 * Building The Lift v1.0                                    | 13        | May       | 2022 |
 | Day 36 and 37 of The Move * 5/2 and 5/3/2022 * Will Cylinders Work?                       | 14        | May       | 2022 |
 | Day 38 of The Move * 5/4/2022 * Will an Air Motor Lift The Crate?                         | 14        | May       | 2022 |
-| Day 39 of The Move \*5/5/2022 * Failure and Success!!                                     | 16        | May       | 2022 |
+| Day 39 of The Move *5/5/2022 * Failure and Success!!                                     | 16        | May       | 2022 |
 | Looney Bird's Marketing Video from May 1997                                               | 25        | May       | 2022 |
 | A Walk Around Lake Eola For My Mom                                                        | 31        | May       | 2022 |
 | Day 40 of The Move * 05/06/2022 * Putting On The Feet of the PSS3K                        | 5         | June      | 2022 |
@@ -276,26 +276,26 @@ Due to the ongoing nature of the Creative Engineering Premium Service, and per t
 | Logan Just Made Piano Billybob Wave Bye Bye!                                              | 2         | January   | 2025 |
 | Piano Billybob Demo By Hunter Logan Gives Again!                                          | 3         | January   | 2025 |
 | Hunter's Latest Experiment * Hurricane Repair Status                                      | 18        | January   | 2025 |
-| \* Unpacking The New Dook Dolls * Jan. 19th 2025                                          | 19        | January   | 2025 |
+| * Unpacking The New Dook Dolls * Jan. 19th 2025                                          | 19        | January   | 2025 |
 | XMAS Eve 2022-Costumes Moved To Trailer* 1-2-2025                                         | 26/td> | January   | 2025 |
 | Bear-A-Dise 33 Making A Playback Board Test Tape To Solve Bear-A-Dise Problems            | 26        | January   | 2025 |
-| \* Justin Ishmael Announces Release Of New Rock-afire Album                               | 6         | February  | 2025 |
+| * Justin Ishmael Announces Release Of New Rock-afire Album                               | 6         | February  | 2025 |
 | Secret hatch Discovered In Floor At Jefferson St * 1-4-23                                 | 7         | February  | 2025 |
-| \* Packing Up The New RAE Big Wheel * 1-4-2023                                            | 10        | February  | 2025 |
-| \* Experiment To Stop The Dogs From Barking                                               | 15        | February  | 2025 |
-| \* Preparing For Our Recording Session                                                    | 18        | February  | 2025 |
+| * Packing Up The New RAE Big Wheel * 1-4-2023                                            | 10        | February  | 2025 |
+| * Experiment To Stop The Dogs From Barking                                               | 15        | February  | 2025 |
+| * Preparing For Our Recording Session                                                    | 18        | February  | 2025 |
 | Willie Nelson's Legendary Live Performance 2-22-25                                        | 26        | February  | 2025 |
 | Return to the Jefferson Building 3-12-2025                                                | 13        | March     | 2025 |
-| \* Shooter's Recording Session * Part I * Volo Show tape                                  | 23        | March     | 2025 |
-| \* Shooter's Recording Session * Part II * Volo Show Tape                                 | 1         | April     | 2025 |
-| \* Shooter's Recording Session * Part III * Volo Show tape                                | 6         | April     | 2025 |
+| * Shooter's Recording Session * Part I * Volo Show tape                                  | 23        | March     | 2025 |
+| * Shooter's Recording Session * Part II * Volo Show Tape                                 | 1         | April     | 2025 |
+| * Shooter's Recording Session * Part III * Volo Show tape                                | 6         | April     | 2025 |
 | Dylan Visits Aaron At The Gulf Of America! April 15th 2025                                | 20        | April     | 2025 |
 | KJ's Tour Of The Museum * 4-8-2025                                                        | 4         | May       | 2025 |
-| \* I Got The Best Kind Of Cancer You Can Get!                                             | 6         | May       | 2025 |
-| \* Face Cancer Surgery* Part II                                                           | 9         | May       | 2025 |
-| \* Mixing The Volo Instrumental Tracks* 5-18-2025                                         | 18        | May       | 2025 |
-| \* Pre-Memorial Day Sunday At The Beach                                                   | 25        | May       | 2025 |
-| \* Unusual Unboxing Of Our New Album                                                      | 4         | June      | 2025 |
-| \* Practice Tape For Character Voices                                                     | 15        | June      | 2025 |
-| \* Finn's Very Own Beach Bear Animatronic and His Great Adventure!                        | 22        | June      | 2025 |
-| \* New Dook Voice Auditions                                                               | 26        | June      | 2025 |
+| * I Got The Best Kind Of Cancer You Can Get!                                             | 6         | May       | 2025 |
+| * Face Cancer Surgery* Part II                                                           | 9         | May       | 2025 |
+| * Mixing The Volo Instrumental Tracks* 5-18-2025                                         | 18        | May       | 2025 |
+| * Pre-Memorial Day Sunday At The Beach                                                   | 25        | May       | 2025 |
+| * Unusual Unboxing Of Our New Album                                                      | 4         | June      | 2025 |
+| * Practice Tape For Character Voices                                                     | 15        | June      | 2025 |
+| * Finn's Very Own Beach Bear Animatronic and His Great Adventure!                        | 22        | June      | 2025 |
+| * New Dook Voice Auditions                                                               | 26        | June      | 2025 |

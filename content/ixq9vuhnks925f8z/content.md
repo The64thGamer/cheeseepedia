@@ -114,8 +114,8 @@ All three segments' files were last updated on October 10, 1990, a month after t
 
 | File Name | Size (bytes) | Modified Date         | Header Time | Header Title 1          | Header Title 2                 |
 |-----------|--------------|-----------------------|-------------|-------------------------|--------------------------------|
-| sept1.sho | 430,592      | 10/10/1990 9:33:00 AM | 7:00        | 'WHAT A WONDERFUL LIFE' | Awful Furry\\'SEPTEMBER        |
-| sept2.sho | 430,592      | 10/10/1990 9:01:56 AM | 7:00        | 'SURFIN' BIRD'          | Silliest Songs\\'OYE MI CANTO' |
+| sept1.sho | 430,592      | 10/10/1990 9:33:00 AM | 7:00        | 'WHAT A WONDERFUL LIFE' | Awful Furry//'SEPTEMBER        |
+| sept2.sho | 430,592      | 10/10/1990 9:01:56 AM | 7:00        | 'SURFIN' BIRD'          | Silliest Songs//'OYE MI CANTO' |
 | sept3.sho | 430,592      | 10/10/1990 8:43:02 AM | 7:00        | 'RHYTHM OF THE NIGHT'   | Pasq. Am. Hr./'SHOUT'          |
 
 
