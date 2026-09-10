@@ -1,0 +1,20 @@
+{
+  "name": "cheeseepedia",
+  "version": "1.0.0",
+  "description": "![image](viewers/cep-js/assets/Logos/CEPLogo.avif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:solid": "npm run build --prefix viewers/cep-solid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The64thGamer/cheeseepedia.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/The64thGamer/cheeseepedia/issues"
+  },
+  "homepage": "https://github.com/The64thGamer/cheeseepedia#readme"
+}

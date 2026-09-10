@@ -1,7 +1,8 @@
 const params = new URLSearchParams(window.location.search);
 const viewerMap = { 
   'cep-js': 'cep-js/default', 
-  'cep-editor': 'cep-editor/default' 
+  'cep-editor': 'cep-editor/default',
+  'cep-solid': 'cep-solid/default',
 };
 
 if (params.has('payload') && !params.has('v')) params.set('v', 'cep-editor');
