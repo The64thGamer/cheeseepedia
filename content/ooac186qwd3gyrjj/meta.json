@@ -13,7 +13,8 @@
     "https://youtu.be/SCzbQrM4Gx0",
     "https://youtu.be/_o9bhXWo01g",
     "https://www.youtube.com/watch?v=ni25zH9oBzs",
-    "https://www.youtube.com/watch?v=6rryB24ad8c&t"
+    "https://www.youtube.com/watch?v=6rryB24ad8c&t",
+    "https://www.youtube.com/watch?v=TAEkKKEj65w"
   ],
   "showtapeFormats": [
     "CEI 4-Track Reel"
@@ -24,5 +25,9 @@
   "type": "Showtapes",
   "tags": [
     "ShowBiz Pizza Place"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

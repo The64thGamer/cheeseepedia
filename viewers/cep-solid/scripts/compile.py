@@ -8,6 +8,7 @@ OUT_ID_TO_TITLE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/f
 
 
 def main():
+    check_no_backslashes()
     title_to_id = build_title_to_id_map()
     id_to_title = build_id_to_title_map(title_to_id)
 
@@ -19,9 +20,31 @@ def main():
 
     run_solid_build()
 
+def check_no_backslashes():
+    content_path = Path(CONTENT_DIR)
+    if not content_path.exists():
+        return
+
+    found_errors = False
+    for folder in content_path.iterdir():
+        if not folder.is_dir():
+            continue
+        md_file = folder / "content.md"
+        if not md_file.exists():
+            continue
+
+        try:
+            content = md_file.read_text(encoding="utf-8")
+            if "\\" in content:
+                print(f"Error: Backslash '\\' found in {md_file}", file=sys.stderr)
+                found_errors = True
+        except Exception as e:
+            print(f"Error reading {md_file}: {e}", file=sys.stderr)
+
+    if found_errors:
+        sys.exit(1)
 
 def build_title_to_id_map():
-    """Scan content folders and build { title: folder_id }."""
     index = {}
     for folder in Path(CONTENT_DIR).iterdir():
         if not folder.is_dir():
@@ -40,7 +63,6 @@ def build_title_to_id_map():
 
 
 def build_id_to_title_map(title_to_id):
-    """Flip { title: id } into { id: title }."""
     return {folder_id: title for title, folder_id in title_to_id.items()}
 
 

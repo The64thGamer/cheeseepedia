@@ -4,7 +4,7 @@
 
 1. Intermission 1
     1. Dippin Dots & Chuck E.’s Cookie Crunch
-    2. KIDZ BOP Kids - ‘Manchild’
+    2. KIDZ BOP Kids - ASL ‘Manchild’
     3. Harlem Globetrotters - ‘Way We Celebrate’
     4. Blippi - ‘Use Your Imagination’
     5. Chuck E. Cheese - 'Fly Munch Fly'
@@ -38,12 +38,11 @@
 3. Chuck E.’s Yuletide Slide (A Chuck E. Cheese Christmas Special Endcard) (Media Navori)
 4. Chuck E.’s Winner Wonder Dance (A Chuck E. Cheese Christmas Special Endcard) (Media Navori)
 
-
 ## Show List 12/24 Update:
 
 1. Intermission 1
     1. Dippin Dots & Chuck E.’s Cookie Crunch
-    2. KIDZ BOP Kids - ‘Manchild’
+    2. KIDZ BOP Kids - ‘Manchild’(ASL)
     3. Harlem Globetrotters - ‘Way We Celebrate’
     4. Blippi - ‘Use Your Imagination’
     5. A Chuck E. Cheese Christmas Trailer
@@ -88,7 +87,7 @@
     2. Harlem Globetrotters - ‘Way We Celebrate’
     3. Blippi - ‘Use Your Imagination’
     4. A Chuck E. Cheese Christmas Trailer
-    5. KIDZ BOP Kids - ‘Manchild’
+    5. KIDZ BOP Kids - ASL ‘Manchild’
     6. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     7. Chuck E. Cheese - 'Fly Munch Fly'
     8. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -130,7 +129,7 @@
     2. Harlem Globetrotters - ‘Way We Celebrate’
     3. Blippi - ‘Use Your Imagination’
     4. A Chuck E. Cheese Christmas Trailer
-    5. KIDZ BOP Kids - ‘Manchild’
+    5. KIDZ BOP Kids - ASL ‘Manchild’
     6. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     7. Chuck E. Cheese - 'Fly Munch Fly'
     8. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -173,7 +172,7 @@
     2. Harlem Globetrotters - ‘Way We Celebrate’
     3. Blippi - ‘Use Your Imagination’
     4. A Chuck E. Cheese Christmas Trailer
-    5. KIDZ BOP Kids - ‘Manchild’
+    5. KIDZ BOP Kids - ASL ‘Manchild’
     6. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     7. Chuck E. Cheese - 'Fly Munch Fly'
     8. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -215,7 +214,7 @@
     1. Dippin Dots & Chuck E.’s Cookie Crunch
     2. Harlem Globetrotters - ‘Way We Celebrate’
     3. Blippi - ‘Use Your Imagination’
-    4. KIDZ BOP Kids - ‘Manchild’
+    4. KIDZ BOP Kids - ASL ‘Manchild’
     5. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     6. Chuck E. Cheese - 'Fly Munch Fly'
     7. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -258,7 +257,7 @@
     2. Paris & Pups Episode 11: Cupcake Tower for Thanksliving!
     3. Harlem Globetrotters - ‘Way We Celebrate’
     4. Blippi - ‘Use Your Imagination’
-    5. KIDZ BOP Kids - ‘Manchild’
+    5. KIDZ BOP Kids - ASL ‘Manchild’
     6. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     7. Chuck E. Cheese - 'Fly Munch Fly'
     8. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -302,7 +301,7 @@
     3. Harlem Globetrotters - ‘Way We Celebrate’
     4. Blippi - ‘Use Your Imagination’
     5. A Chuck E. Cheese Christmas Trailer
-    6. KIDZ BOP Kids - ‘Manchild’
+    6. KIDZ BOP Kids -ASL ‘Manchild’
     7. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     8. Chuck E. Cheese - 'Fly Munch Fly'
     9. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -345,7 +344,7 @@
     3. Harlem Globetrotters - ‘Way We Celebrate’
     4. Blippi - ‘Use Your Imagination’
     5. A Chuck E. Cheese Christmas Trailer
-    6. KIDZ BOP Kids - ‘Manchild’
+    6. KIDZ BOP Kids -ASL ‘Manchild’
     7. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     8. Chuck E. Cheese - 'Fly Munch Fly'
     9. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -387,7 +386,7 @@
     3. Harlem Globetrotters - ‘Way We Celebrate’
     4. Blippi - ‘Use Your Imagination’
     5. A Chuck E. Cheese Christmas Trailer
-    6. KIDZ BOP Kids - ‘Manchild’
+    6. KIDZ BOP Kids -ASL ‘Manchild’
     7. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     8. Chuck E. Cheese - 'Fly Munch Fly'
     9. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -427,7 +426,7 @@
     2. Paris & Pups Episode 11: Cupcake Tower for Thanksliving!
     3. Harlem Globetrotters - ‘Way We Celebrate’
     4. A Chuck E. Cheese Christmas Trailer
-    5. KIDZ BOP Kids - ‘Manchild’
+    5. KIDZ BOP Kids - ASL ‘Manchild’
     6. Blippi - ‘Use Your Imagination’
     7. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     8. Chuck E. Cheese - 'Fly Munch Fly'
@@ -469,7 +468,7 @@
     2. Paris & Pups Episode 11: Cupcake Tower for Thanksliving!
     3. Harlem Globetrotters - ‘Way We Celebrate’
     4. A Chuck E. Cheese Christmas Trailer
-    5. KIDZ BOP Kids - ‘Manchild’
+    5. KIDZ BOP Kids - ASL ‘Manchild’
     6. Blippi - ‘Use Your Imagination’
     7. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     8. Chuck E. Cheese - 'Fly Munch Fly'
@@ -517,7 +516,7 @@
     4. A Chuck E. Cheese Christmas Trailer
     5. Chuck E. Cheese Adventure World Trailer
     6. Blippi - ‘Use Your Imagination’
-    7. KIDZ BOP Kids - ‘Manchild’
+    7. KIDZ BOP Kids - ASL ‘Manchild’
     8. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     9. Chuck E. Cheese - 'Fly Munch Fly'
     10. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -562,7 +561,7 @@
     2. Paris & Pups Episode 11: Cupcake Tower for Thanksliving!
     3. Harlem Globetrotters - ‘Way We Celebrate’
     4. Blippi - ‘Use Your Imagination’
-    5. KIDZ BOP Kids - ‘Manchild’
+    5. KIDZ BOP Kids -ASL ‘Manchild’
     6. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     7. Chuck E. Cheese - 'Fly Munch Fly'
     8. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -607,7 +606,7 @@
     1. Dippin Dots & Chuck E.’s Cookie Crunch
     2. Harlem Globetrotters - ‘Way We Celebrate’
     3. Blippi - ‘Use Your Imagination’
-    4. KIDZ BOP Kids - ‘Manchild’
+    4. KIDZ BOP Kids -ASL ‘Manchild’
     5. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     6. Chuck E. Cheese - 'Fly Munch Fly'
     7. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -652,7 +651,7 @@
     1. Dippin Dots & Chuck E.’s Cookie Crunch
     2. Harlem Globetrotters - ‘Way We Celebrate’
     3. Blippi - ‘Use Your Imagination’
-    4. KIDZ BOP Kids - ‘Manchild’
+    4. KIDZ BOP Kids -ASL ‘Manchild’
     5. Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special)
     6. Chuck E. Cheese - 'Fly Munch Fly'
     7. Chuck E., Jingle & Jangle - 'Holiday Traditions'
@@ -696,10 +695,10 @@
 1. 11/04 Update - A Chuck E. Cheese Christmas Special Endcard is added to the end of all live shows.
 2. 11/07 Update - Paris & Pups Episode 11: Cupcake Tower for Thanksliving! is added.
 3. 11/08 Update - A Chuck E. Cheese Christmas Trailer and Chuck E. Cheese Adventure World Trailer are added.
-4. 11/10 Update - KIDZ BOP Kids - ‘Manchild’ and Blippi - ‘Use Your Imagination’ are swapped and Chuck E. Cheese Adventure World Trailer is removed.
+4. 11/10 Update - KIDZ BOP Kids -ASL ‘Manchild’ and Blippi - ‘Use Your Imagination’ are swapped and Chuck E. Cheese Adventure World Trailer is removed.
 5. 11/11 Update - OneRepublic - 'Dear Santa', Leslie Odom Jr. - 'Snow', Olaf - 'That Time of Year', and The Temptations - 'Rudolph the Red-Nosed Reindeer' is removed.
 6. 11/14 Update - Staring Contest with Chuck E. added during Live Show countdowns.
-7. 11/17 Update - Blippi - ‘Use Your Imagination’, KIDZ BOP Kids - ‘Manchild’ and A Chuck E. Cheese Christmas Trailer are swapped around. Sia - 'Santa's Coming for Us' is removed.
+7. 11/17 Update - Blippi - ‘Use Your Imagination’, KIDZ BOP Kids - ASL ‘Manchild’ and A Chuck E. Cheese Christmas Trailer are swapped around. Sia - 'Santa's Coming for Us' is removed.
 8. 11/20 Update - A Chuck E. Cheese Christmas - 'What Would We Do Without Christmas' is added.
 9. 11/21 Update - KidzBop Live - The Concert Movie Trailer is added.
 10. 11/28 Update - A Chuck E. Cheese Christmas - 'Robot Christmas Banana', 'COMING SOON' for A Chuck E. Cheese Christmas Special is replaced with 'NOW STREAMING'. This was shown on Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special), A Chuck E. Cheese Christmas - 'Robot Christmas Banana', and A Chuck E. Cheese Christmas - 'What Would We Do Without Christmas'. and A Chuck E. Cheese Christmas Trailer is removed.
@@ -707,5 +706,5 @@
 12. 12/09 - A Chuck E. Cheese Christmas Trailer is re-added.
 13. 12/17 Update - Chuck E. & Friends - 'Cookies for Santa' is replaced with Chuck E. & Friends - 'Cookies for Santa' (ASL)
 14. 12/19 Update - KIDZ BOP - 'Santa Claus Is Coming to Town' after Chuck E. & Helen - 'Merry Christmastime is removed
-15. 12/24 Update - KIDZ BOP Kids - ‘Manchild’ is moved to after Dippin Dots & Chuck E.’s Cookie Crunch
+15. 12/24 Update - KIDZ BOP Kids -ASL ‘Manchild’ is moved to after Dippin Dots & Chuck E.’s Cookie Crunch
 16. 12/28 Update - A Chuck E. Cheese Christmas Official Trailer, Chuck E. & Friends - ‘Easy Dance’ (Cartoon Special),A Chuck E. Cheese Christmas - ‘Robot Christmas Banana’, A Chuck E. Cheese Christmas - ‘What Would We Do Without Christmas’ are removed.

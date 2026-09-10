@@ -1,0 +1,122 @@
+{
+  "title": "Amherst, NY (4994 Harlem Rd)",
+  "type": "Locations",
+  "pageThumbnailFile": "8R1gqMitSvkjqfsGljSU.avif",
+  "downloadLinks": [],
+  "citations": [
+    "https://www.newspapers.com/article/the-buffalo-news/110852233/",
+    "https://www.newspapers.com/article/the-buffalo-news-chuck-e-cheese-buffa/200429287/?_gl=1*1e1su23*_up*MQ..&gclid=fbdbfcb451e51c5e5614962a9bfd3ee0&gclsrc=3p.ds",
+    "https://www.newspapers.com/article/the-buffalo-news/110849789/",
+    "https://buffalonews.com/news/local/crime-courts/if-the-fight-at-chuck-e-cheeses-sounded-familiar-theres-good-reason-for-that/article_273052e6-d7fb-5cdf-8cb4-70ab1ee0f11c.html",
+    "https://www.wkbw.com/news/brawl-erupts-inside-amherst-chuck-e-cheese",
+    "https://www.wkbw.com/news/game-over-for-chuck-e-cheeses-in-amherst"
+  ],
+  "tags": [],
+  "startDate": "1993-06-14",
+  "endDate": "2020-06-25",
+  "recommend": false,
+  "latitudeLongitude": [
+    "42.977881",
+    "-78.784757"
+  ],
+  "credits": [],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "desc": "Kept curtains until closure.",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    }
+  ],
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-06-14"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "1994-00-00"
+    },
+    {
+      "n": "Phase 3 (2000)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2005-00-00"
+    },
+    {
+      "n": "CEC 2013 Update Program",
+      "s": "2013-00-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Family Entertainment Centers",
+      "s": "1993-06-14",
+      "e": "0000-00-00"
+    }
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Originally sported tuxedo outfit. Destroyed.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Destroyed.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Kept hat until closure. Destroyed.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Destroyed.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Head frame owned by Retromelon and has since been restored back into a full Cyberamic. Otherwise destroyed.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    },
+    {
+      "n": "Wink (Animatronic)",
+      "desc": "Destroyed.",
+      "l": "",
+      "s": "1993-06-14",
+      "e": "2020-06-25"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Chill Out Ice Cream Machine",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "SkyTubes",
+      "desc": "",
+      "s": "1994-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "showtapeFormats": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ]
+}

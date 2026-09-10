@@ -1,0 +1,1 @@
+The [Phase 3 (2000)] exterior of [Amherst, NY (4994 Harlem Rd)].

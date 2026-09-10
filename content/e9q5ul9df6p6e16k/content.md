@@ -1,0 +1,1 @@
+The updated and final exterior of the [Amherst, NY (4994 Harlem Rd)] Chuck E. Cheese's.

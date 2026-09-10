@@ -6,17 +6,17 @@ The **Show Computer** manages all functions of the show. It is comprised of a st
 
 ### Expansion cards
 
-- **Modem** - Connected to a telephone line, along with the phone in the rack. Used during the laserdisc show era to download the control data, believed to be unused currently.
-- **Transmitter Card** - Primary external show control interface. Handles all character valve control and some ancillary functions. Discussed in additional detail its own section below.
-- **8-port RS-232 Serial Card** - Interfaces with additional external show hardware. This is broken out to eight DB-25 connectors, which lead to the following components:
-- Manager Terminal
-- A/V switcher
-- VDP 1
-- VDP 2
-- VDP 3
-- Unused
-- Karaoke controller
-- Fire alarm system (in some locations)
+* **Modem** \- Connected to a telephone line\, along with the phone in the rack\. Used during the laserdisc show era to download the control data\, believed to be unused currently\.
+* **Transmitter Card** \- Primary external show control interface\. Handles all character valve control and some ancillary functions\. Discussed in additional detail its own section below\.
+* **8-port RS-232 Serial Card** \- Interfaces with additional external show hardware\. This is broken out to eight DB\-25 connectors\, which lead to the following components:
+* Manager Terminal
+* A/V switcher
+* VDP 1
+* VDP 2
+* VDP 3
+* VDP 4
+* Karaoke controller
+* Fire alarm system (In certain locations)
 
 ## Transmitter Card
 
@@ -30,19 +30,20 @@ The Studio C system contains two **DTUs**, used to control air valves on the cha
 
 The **CPU Card** is a standardized 68HC11-based microcontroller module used in several Studio C systems. The module itself is a generic design, and a socketed EPROM contains the program specific for the hardware in which it is installed. It connects to the host system through two large pin headers which presumably expose most of the system bus. An on-board RS-232 port is available via a modular connector.
 
-|                |                        |                                       |
-|----------------|------------------------|---------------------------------------|
-| **MCU**        | MC68HC11F1CFN4 @ 16MHz |                                       |
-| **ROM**        | Socketed 27C256 EPROM  | AT27C256R OTP variant apparently used |
-| **RAM**        | 1KByte                 | Internal to MCU                       |
-| **EEPROM**     | 512 bytes              | Internal to MCU                       |
-| **Interfaces** | RS-232, raw system bus |                                       |
+|  |  |  |
+| --- | --- | --- |
+| **MCU** | MC68HC11F1CFN4 @ 16MHz |  |
+| **ROM** | Socketed 27C256 EPROM | AT27C256R OTP variant apparently used |
+| **RAM** | 1KByte | Internal to MCU |
+| **EEPROM** | 512 bytes | Internal to MCU |
+| **Interfaces** | RS-232, raw system bus |  |
 
 The CPU Card is used in the Transmitter Card, COP Controller, and DTUs. Early versions of the module require manually jumper pins 2-3 on JP6 for use in a COP Controller. This jumper can be left in place for use in other hardware. The jumper's actual function is unknown.
 
 ## Manager Terminal
 
 The **Manager Terminal** is an off-the-shelf Beijer Electronics QTERM-K65 series terminal and is the primary interface for controlling the animatronic show. Located on a wall in the manager's office, it allows the show to be started and stopped, birthday names entered, and other administrative functions such as show volume adjustment. As this is essentially a 'dumb' terminal, it is driven by software on the Show Computer via a 57600-baud 8-N-1 RS-232 serial link. The panel on which the Manager Terminal is mounted also holds a microphone for paging and announcement purposes, connected back to the rest of the show's audio system.
+There is an older version of the **Manager Terminal** that was discontinued in January 1999. It's unknown what model terminal was used before then. All stores that hadn't upgraded to the new QTERM-K65 series terminal would be forced to upgrade with the release of **[August 1999]**.
 
 ## COP Controller
 

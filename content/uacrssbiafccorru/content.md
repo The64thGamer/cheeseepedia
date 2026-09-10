@@ -1,0 +1,1 @@
+A collection of a Buffalo family's home videos from 1994. The Amherst CEC segment starts at 0:45:23 and ends at 0:49:30. Original poster: LuJo 87.

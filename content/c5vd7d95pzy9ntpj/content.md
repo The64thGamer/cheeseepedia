@@ -55,7 +55,7 @@
 * Happy and You Know It
 * Chuck E. Swing (Studio C)
 
-**Birthday Break**: April 2005 show logo with music set to a 1 or 2 minute countdown which would then lead into the Birthday show.
+**Birthday Break**: April 2005 show logo with music set to a 1 or 2 minute countdown, which would then lead into the Birthday show.
 
 ## Production
 
@@ -78,4 +78,3 @@ REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
 * The countdowns are reused from [September 2002 Show], 'Skateboarding' is reused from [January 2005 Show], 'Drawing Chuck E.' is reused from [August 1999], VeggieTales - 'His Cheeseburger' is reused from [September 2001 Show] and 'Will Frye The Nutrition Guy' is reused from [Studio C Premiere].
 * Munch was originally going to sing 'Baby I Need Your Loving', which is still alluded to in the dialogue both leading into and coming out of the song.
 * ‘Old MacDonald’ and ‘Go Santa Go’ appear on the Studio C DVDs but could not be played.
-* Matt Daniel wrote the script for this show.
