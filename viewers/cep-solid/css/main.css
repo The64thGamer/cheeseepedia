@@ -28,6 +28,10 @@ body {
   word-wrap: anywhere;
 }
 
+.content{
+  min-height: 15em;
+}
+
 h1,
 h2,
 h3,
