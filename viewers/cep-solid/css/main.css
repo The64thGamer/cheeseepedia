@@ -1,0 +1,240 @@
+html {
+  background-color: var(--distant);
+  font-family: var(--font-body);
+}
+
+body {
+  color: var(--text);
+  background-color: var(--background);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 65rem;
+  min-width: 30rem;
+  border-color: var(--primary);
+  border-style: solid;
+  border-width: 3rem;
+  border-radius: 8rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  outline-color: var(--text);
+  outline-width: 1.5rem;
+  outline-style: solid;
+  box-shadow: 0 0 0 2rem var(--dark), inset 0 0 0 0.5rem var(--dark);
+  text-wrap: pretty;
+  word-wrap: anywhere;
+}
+
+h1,
+h2,
+h3,
+strong em, 
+strong
+{
+  color: var(--primary);
+}
+
+h4 {
+  color: var(--secondary);
+}
+
+.BadLink {
+  color: var(--bad-link);
+}
+
+a {
+  color: var(--good-link);
+  text-decoration: none;
+}
+
+.infobox {
+  float: right;
+  clear: right;
+  width: 20rem;
+  margin: 0 0 1rem 1.5rem;
+  border: 0.125rem solid var(--dark);
+  border-radius: .75rem;
+  overflow: hidden;
+  background: var(--primary);
+  color: var(--dark);
+}
+
+.infobox strong{
+  color: var(--dark)
+}
+
+.infobox table {
+  word-wrap: break-word;
+  table-layout: fixed;
+  padding: 1rem;
+}
+
+.infobox table td:first-child {
+  text-align: left;
+  white-space: nowrap;
+  padding-right: 16px; 
+  width: 1%; 
+}
+
+.infobox table td:last-child {
+  text-align: right;
+  width: 99%;
+}
+
+.infobox-thumbnail {
+  width: 100%;
+  background-color: var(--background);
+}
+
+.infobox-thumbnail img {
+  width: 100%;
+  display: block;
+}
+
+.infobox-list {
+  margin: .4rem .5rem;
+  border-radius: .45rem;
+  background: var(--dark);
+  overflow: hidden;
+  padding: 1rem;
+  color: var(--text)
+}
+
+.infobox-list strong{
+  color: var(--primary)
+}
+
+.emoji{
+  display: inline;
+  margin-left: 0.5rem;
+  font-family: var(--font-emoji);
+}
+
+
+.Card {
+  border-radius: 1rem;
+  min-width: 12.5rem;
+  max-width: 12.5rem;
+  transition: transform 0.15s ease;
+  border-color: var(--dark);
+  border-style: solid;
+  border-width: .25rem;
+  box-shadow: 0 0 0 0.25rem var(--secondary);
+  overflow: hidden;
+}
+
+.Card:hover {
+  box-shadow: 0 0 0 0.25rem var(--good-link);
+  transform: translateY(-0.25rem);
+}
+
+.Card img {
+  transition: transform 0.15s ease;
+}
+
+.Card:hover img {
+  transform: scale(1.1);
+}
+
+.CardLink {
+  mask-image: linear-gradient(to right, black 0%, black 90%, transparent 100%);
+  white-space: nowrap;
+  overflow: hidden;
+  font-family: var(--font-display);
+}
+
+.CardText {
+  color: color-mix(in srgb, var(--text) 30%, transparent);
+  font-size: 0.8rem;
+}
+
+.CardText strong {
+  color: var(--primary);
+}
+
+.CardLink span {
+  display: inline-block;
+  padding-right: 2rem;
+  transform: translateX(0);
+  transition: none;
+}
+
+.Card:hover span {
+  transition: transform 2s linear;
+  transform: translateX(-75%);
+}
+
+.CardTextArea {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.CardImage {
+  height: 8rem;
+  overflow: hidden;
+  background-color: color-mix(in srgb, var(--text) 30%, transparent);
+  color: var(--background);
+}
+
+.CardImage a {
+  color: var(--background);
+}
+
+.CardImageExcerpt {
+  margin: 1.5rem;
+  display: block;
+  transform: translateY(0);
+  transition: none;
+  white-space: wrap;
+  overflow: hidden;
+}
+
+.CardImageExcerpt:hover {
+  transition: transform 2s linear;
+  transform: translateY(-50%);
+}
+
+.CardImageEmpty {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  align-items: center;
+  justify-items: center;
+  height: 100%;
+  text-decoration: none;
+}
+
+.CardImageEmpty svg {
+  fill: var(--background);
+  width: 3rem;
+  height: 3rem;
+  align-self: end;
+}
+
+.CardImageEmpty p {
+  align-self: start;
+  font-size: .75rem;
+  color: var(--background);
+  padding-bottom: .25rem;
+}
+
+.CardImage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.Carousel {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.5rem;
+  padding-bottom: 1.5rem;
+  scroll-behavior: smooth;
+  white-space: nowrap;
+}

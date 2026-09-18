@@ -11,7 +11,7 @@ Using this for random stuff.
   [Whitehall, PA (1000 Lehigh Valley Mall)]    1-Stage            July 2023       
   [Lynnwood, WA (3717 196th St Suite 100)]     3-Stage            July 2023       
   [Bell, CA (5089 E Florence Ave)]             2-Stage            November 2023   Being used for parts at Northridge.
-  [Sun Valley, CA (8375 Laurel Canyon Blvd)]   Road Stage         November 2023   Being used for parts at Northridge.
+  [Sun Valley, CA (8357 Laurel Canyon Blvd)]   Road Stage         November 2023   Being used for parts at Northridge.
   [Tinley Park, IL (16090 S Harlem Ave)]       2-Stage            November 2023   
   [Pasadena, CA (3737 E Foothill Blvd)]        2-Stage            February 2024   Being used for parts at Northridge.
   [West Hills, CA (22940 Van Owen St)]         Road Stage         February 2024   Being used for parts at Northridge.

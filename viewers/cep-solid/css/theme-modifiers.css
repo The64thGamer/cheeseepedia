@@ -1,0 +1,173 @@
+
+[data-wide] .Logo img{
+  width:80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+[data-theme="italy"] body{
+  outline-width: 0rem;
+  border-width: 4.5rem;
+  box-shadow: 0 0 0 0.5rem var(--dark), inset 0 0 0 0.5rem var(--dark);
+}
+
+[data-wide] body{
+  max-width: 80rem;
+}
+
+[data-editor] body{
+  background-color: var(--edit-background);
+}
+
+[data-theme="funnet"] {
+  background-image: url(/viewers/cep-js/assets/Logos/funnet.avif);
+  background-size: 20rem;
+  image-rendering: crisp-edges;
+}
+
+[data-theme="missingno"] {
+  image-rendering: crisp-edges;
+}
+[data-theme="missingno"] * {
+	font-size: 1rem !important;
+	border-radius: 0rem !important;
+	background: var(--background) !important;
+}
+
+[data-theme="missingno"] body {
+  border-color: var(--background);
+}
+
+[data-theme="missingno"] .Card,[data-theme="missingno"] .PinButton,[data-theme="missingno"] .s-input-row {
+  border-radius: 0rem;
+}
+
+
+[data-theme="fnaf"] body {
+  outline-style: none;
+  box-shadow: none;
+  border-width: 0.5rem;
+  border-radius: 0rem;
+  border-color: var(--text);
+}
+
+
+[data-theme="fnaf"] * {
+  border-radius: 0rem;
+  border-color: var(--text);
+}
+
+
+[data-theme="funnet"] body {
+  outline-style: none;
+  box-shadow: none;
+  border-width: 0rem;
+  border-radius: 0rem;
+  background-color: transparent;
+}
+
+[data-theme="classic"] body {
+  outline-style: none;
+  box-shadow: none;
+  border: none;
+}
+
+[data-theme="classic"] h1 {
+  color:var(--text);
+  font-family: 'Linux Libertine','Georgia','Times',serif;
+}
+
+[data-theme="funnet"] h1,
+[data-theme="funnet"] h2,
+[data-theme="funnet"] h3{
+  color:var(--distant)
+}
+
+
+[data-theme="classic"] .s-qtag-btn {
+  color:var(--text);
+  background-color:var(--dark);
+  border-radius: 0rem;
+}
+
+[data-theme="funnet"] .s-qtag-btn {
+  color:var(--text);
+  background-color: var(--distant);
+  border-color: var(--blue);
+  font-family: var(--font-body);
+
+}
+[data-theme="funnet"] .s-input {
+  color:var(--text);
+  font-family: var(--font-body);
+}
+
+[data-theme="funnet"] .s-input::placeholder {
+  color:var(--text);
+  font-family: var(--font-body);
+}
+
+[data-theme="classic"] .FlavorText {
+	border: 0.125rem solid var(--text);
+	padding: 0.5rem;
+	border-left-color: var(--primary);
+	border-left-width: 0.75rem;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+[data-theme="funnet"] .Logo {
+  width:100%;
+}
+
+[data-theme="missingno"] .Logo {
+  display: none;
+}
+
+
+[data-width="wide"] .Logo img {
+  width: 80%;
+  margin-left: auto;
+  margin-right:auto;
+  display:block;
+}
+
+[data-theme="funnet"] .FlavorText strong {
+  color: var(--blue);
+}
+
+[data-theme="classic"] h2,h3,h4 {
+  color:var(--deep-white)
+}
+
+[data-width="wide"] body {
+  max-width: 80rem;
+}
+[data-theme="classic"] hr {
+  border: 0.05125rem solid var(--text);
+}
+
+[data-theme="classic"] .SplashText {
+  margin-top:2rem;
+  margin-bottom:-3rem;
+}
+
+[data-theme="fnaf"] .SplashText {
+  margin-top:2rem;
+  margin-bottom:-3rem;
+  color:var(--aqua)
+}
+
+[data-editor] .ArticleHeader {
+  border-bottom-color: var(--primary);
+}
+
+[data-editor] #ArticleTitle {
+  opacity: 0.6;
+}
+
+[data-editor] .RelatedTags,
+[data-editor] .ArticleContributors {
+  display: none;
+}

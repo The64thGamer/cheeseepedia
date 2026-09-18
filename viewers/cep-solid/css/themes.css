@@ -1,0 +1,166 @@
+:root {
+  --background: #233355;
+  --edit-background: #234555ff;
+  --good-link: #39A481;
+  --text: #dbd1b1;
+  --primary: #e0961f;
+  --secondary: #D44A02;
+  --bad-link: #D44A02;
+  --distant: #993b08;
+  --dark: #2c2422;
+  --font-body: "Aleo";
+  --font-display: "RockoFLF";
+  --font-emoji: "MutantStandard";
+}
+
+[data-theme="dark"] {
+  --background: #000c26;
+  --edit-background: #001e26ff;
+  --good-link: #24795D;
+  --text: #ccc5ab;
+  --primary: #ac7318;
+  --secondary: #8C3000;
+  --bad-link: #8C3000;
+  --distant: #000000;
+  --dark: #000000;
+}
+
+[data-theme="light"] {
+  --background: #fff;
+  --edit-background: #fff;
+  --good-link: #3b6bbf;
+  --text: #2f2e2a;
+  --primary: #959595;
+  --secondary: #646464;
+  --bad-link: #646464;
+  --distant: #fff;
+  --dark: #c4c4c4;
+}
+
+[data-theme="classic"] {
+  --background: #1e2c4c;
+  --edit-background: #1e354cff;
+  --good-link: #96e1ff;
+  --text: #FFF;
+  --primary: #4070D0;
+  --secondary: #121d34;
+  --bad-link: #d73333;
+  --distant: #1e2c4c;
+  --dark: #121d34;
+  --font-display: "sans-serif";
+  --font-body: "sans-serif";
+}
+
+[data-theme="funnet"] {
+  --background: #006bad;
+  --edit-background: #ad4200ff;
+  --good-link: #3333ff;
+  --text: #000000ff;
+  --primary: #cccc66;
+  --secondary: #ffef08;
+  --bad-link: #ff0033;
+  --distant: #b594bd;
+  --dark: #d94d04;
+  --font-display: "Sylvar";
+  --font-body: "helvetica";
+}
+
+[data-theme="showbiz"] {
+  --background: #201f1f;
+  --edit-background: #292723ff;
+  --good-link: #A66332;
+  --text: #dbd1b1;
+  --primary: #d2c72a;
+  --secondary: #d29400;
+  --bad-link: #df221c;
+  --distant: #df221c;
+  --dark: #171515;
+}
+
+[data-theme="fnaf"] {
+  --background: #101010ff;
+  --edit-background: #2rgba(39, 35, 41, 1)
+  --good-link: #acce18ff;
+  --text: #c6c6c6;
+  --primary: #4a4a4aff;
+  --secondary: #2a2a2aff;
+  --bad-link: #cd0000ff;
+  --distant: #000;
+  --dark: #000;
+  --font-display: "Stalker";
+}
+
+[data-theme="italy"] {
+  --background: #6D1A1F;
+  --edit-background: #892d4aff;
+  --good-link: #009047;
+  --text: #d9d7d1;
+  --primary: #d9d7d1;
+  --secondary: #CD2F3A;
+  --bad-link: #CD2F3A;
+  --distant: #009047;
+  --dark: #2f1515;
+}
+
+[data-theme="winter"] {
+  --background: #1c3d4d;
+  --edit-background: #26584dff;
+  --good-link: #47AEB3;
+  --text: #ccc;
+  --primary: #3c8636;
+  --secondary: #376A3C;
+  --bad-link: #ce293aff;
+  --distant: #4a7e86;
+  --dark: #1a1e37;
+}
+
+[data-theme="halloween"] {
+  --background: #0e0611;
+  --edit-background: #2f1010ff;
+  --good-link: #CE2929;
+  --text: #f2de73;
+  --primary: #9f5620;
+  --secondary: #DF7426;
+  --bad-link: #a20606ff;
+  --distant: #24172f;
+  --dark: #220902;
+  --font-display: "Unutterable";
+}
+
+[data-theme="pride"] {
+  --background: #7d0c4c;
+  --edit-background: #881c7fff;
+  --good-link: #ff7fc4;
+  --text: #dbd1b1;
+  --primary: #e38d59;
+  --secondary: #de2d1e;
+  --bad-link: #de2d1e;
+  --distant: #b33227;
+  --dark: #2c2422;
+}
+
+[data-theme="anniversary"] {
+  --background: #404040;
+  --edit-background: #505050ff;
+  --good-link: #888;
+  --text: #d9d9d9;
+  --primary: #a2a2a2;
+  --secondary: #686868;
+  --bad-link: #464646ff;
+  --distant: #2f2f2f;
+  --dark: #222;
+}
+
+[data-theme="missingno"] {
+  --background: #d8ddd3ff;
+  --edit-background: #f7d77c;
+  --good-link: #48a75a;
+  --text: #151716ff;
+  --primary: #f7b68d;
+  --secondary: #85749d;
+  --bad-link: #f7d77c;
+  --distant: #d8ddd3ff;
+  --dark: #151716ff;
+  --font-display: "RBYGSC";
+  --font-body: "RBYGSC";
+}

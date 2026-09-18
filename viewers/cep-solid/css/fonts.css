@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Aleo";
+  src: url('/viewers/cep-js/assets/Fonts/Aleo-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "RockoFLF";
+  src: url('/viewers/cep-js/assets/Fonts/RockoFLF-Bold.ttf') format('truetype');
+  unicode-range: U+0000-024F;
+}
+
+@font-face {
+  font-family: "RockoFLF";
+  src: url('/viewers/cep-js/assets/Fonts/jf-openhuninn-2.1.ttf') format('truetype');
+  unicode-range: U+3000-9FFF, U+F900-FAFF, U+FE30-FE4F, U+FF00-FFEF, U+20000-2A6DF;
+}
+
+@font-face {
+  font-family: "RBYGSC";
+  src: url('/viewers/cep-js/assets/Fonts/PKMN RBYGSC.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "MutantStandard";
+  src: url('/viewers/cep-js/assets/Fonts/MutantStandardEmoji-GLYF-COLR-0.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Stalker";
+  src: url('/viewers/cep-js/assets/Fonts/stalker1.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Sylvar";
+  src: url('/viewers/cep-js/assets/Fonts/Sylvar.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: "Octobre";
+  src: url('/viewers/cep-js/assets/Fonts/Octobre-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: "Unutterable";
+  src: url('/viewers/cep-js/assets/Fonts/Unutterable.ttf') format('truetype');
+}

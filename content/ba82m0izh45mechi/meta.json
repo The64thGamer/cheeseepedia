@@ -3,8 +3,12 @@
   "storeNumber": "",
   "startDate": "1980-12-18",
   "endDate": "1986-00-00",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1980-12-18"
+    }
+  ],
   "stages": [
     {
       "n": "Balcony Stage",
@@ -12,7 +16,13 @@
       "e": "1986-00-00"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "Mike Illitch",
+      "s": "1980-12-18",
+      "e": "1986-00-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
@@ -20,11 +30,60 @@
     "-83.39083648"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "cecfan13"
+  ],
   "downloadLinks": [],
-  "pageThumbnailFile": "Westland_1982.avif",
+  "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
-    "Pizza Time Theatre"
+    "Pizza Time Theatre",
+    "1980",
+    "Michigan"
+  ],
+  "credits": [],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1980-12-18",
+      "e": "1986-00-00"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1980-12-18",
+      "e": "1986-00-00"
+    },
+    {
+      "n": "Jasper T Jowls (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1980-12-18",
+      "e": "1986-00-00"
+    },
+    {
+      "n": "Mr Munch (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1980-12-18",
+      "e": "1986-00-00"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1980-12-18",
+      "e": "1986-00-00"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1980-12-18",
+      "e": "1986-00-00"
+    }
   ]
 }

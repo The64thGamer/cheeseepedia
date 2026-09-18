@@ -118,7 +118,7 @@ Initially, locations that were eligible for this remodel got one of three packag
 - [Santee, CA (275 Town Center Pkwy)]
 - Stevenson Ranch, CA (25955 The Old Rd)
 - [Stockton, CA (6436 Pacific Ave)]
-- [Sun Valley, CA (8375 Laurel Canyon Blvd)]
+- [Sun Valley, CA (8357 Laurel Canyon Blvd)]
 - Thousand Oaks, CA (130 W Hillcrest Dr)
 - [Torrance, CA (2821 Pacific Coast Hwy)]
 - [Torrance, CA (16920 Prairie Ave)]

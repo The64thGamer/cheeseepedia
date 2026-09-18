@@ -40,7 +40,7 @@ This stage kept the same concept as the Balcony Stage; however, it was now theme
 | [Santa Maria, CA (2875 Santa Maria Way)] | One of the many installed in California. Closed in Summer 1995. | 1989/1990 | Summer 1995 |
 | [Salinas, CA (957 N Main St)] | One of the many installed in California. Closed sometime in August 1995. | 1989/1990 | August 1995 |
 | [Stockton, CA (4555 N Pershing Ave)] | One of many installed in California. Replaced by a 2-Stage in 1993. | 1989/1990 | 1993 |
-| [Sun Valley, CA (8375 Laurel Canyon Blvd)] | One of many installed in California. Closed in 1992 and relocated [Sun Valley, CA (8375 Laurel Canyon Blvd)] with a Road Stage. | 1989/1990 | 1992 |
+| [Sun Valley, CA (8357 Laurel Canyon Blvd)] | One of many installed in California. Closed in 1992 and relocated [Sun Valley, CA (8357 Laurel Canyon Blvd)] with a Road Stage. | 1989/1990 | 1992 |
 | [Torrance, CA (16920 Prairie Ave)] | First Chuck E's House Facade ever installed. Had a unique design specific to this store that was also featured at Bell which had No 'C' on the lattice. Replaced by a 2-Stage in around 1995/1996. | 1988 | 1995/1996 |
 | [Tracy, CA (775 W Clover Rd)] | One of many installed in California. Featured in 'CEC Live Highlight Film 1992' back in September 1992. Closed sometime in 1995. | 1989/1990 | 1995 |
 | [Valencia, CA (23154 Valencia Blvd)] | One of many installed in California. Replaced with an unknown stage in August 1994. | 1989 | August 1994 |

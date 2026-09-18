@@ -40,7 +40,7 @@ The Cyberamics Portrait Shelf, similar to the Kooser show, would be placed along
 | [La Habra, CA (901 Harbor Blvd)] | May 1980 | December 11th, 1984 |
 | [Ogden, UT (3155 Harrison Blvd)](6) | May 17, 1980 | 1991 |
 | [Sunnyvale, CA (1247 W El Camino Real)] | summer 1980 | 1984 |
-| [Sun Valley, CA (8375 Laurel Canyon Blvd)] | July 1980 | 1981/1982 |
+| [Sun Valley, CA (8357 Laurel Canyon Blvd)] | July 1980 | 1981/1982 |
 | [Fresno, CA (5384 N Blackstone Ave)] | July/August 1980 | May 1985 |
 | [Tucson, AZ (5534 E 22nd St)] | July 15, 1980 | 1987 |
 | [Covina, CA (601 Azusa Ave)] | August 1980 | 1981/1982 |

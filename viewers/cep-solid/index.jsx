@@ -5,5 +5,6 @@ import App from './src/App';
 export async function render(params, el) {
   const path = params.get('');
   const meta = await fetchMeta(path);
-  solidRender(() => App(meta), el);
+  const app = await App(meta);
+  solidRender(() => app, el);
 }

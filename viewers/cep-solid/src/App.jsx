@@ -1,27 +1,22 @@
-import { createResource, Show, For } from 'solid-js';
-import { fetchImage, fetchFolderIDFromTitle, fetchMeta } from './GlobalFunctions';
+import { renderArticle, renderRandomCards } from './Renderers';
 
-function App(meta) {
-  const [data] = createResource(async () => {
-    const folderID = await fetchFolderIDFromTitle(meta.pageThumbnailFile);
-    const thumbnailUrl = await fetchImage(folderID);
-
-    return { thumbnailUrl };
-  });
-
+async function App(meta) {
+  const final = await renderArticle(meta);
+  const random = await renderRandomCards()
   return (
-    <Show when={!data.loading} fallback={<div>Loading…</div>}>
-      <>
-        <link rel="icon" href="/viewers/cep-js/assets/Logos/favicon-cep.ico"></link>
-        <link rel="stylesheet" href="/viewers/cep-js/main.css"></link>
-        <h1 class="article-title">{meta.title}</h1>
-        <div class="infobox">
-          <div class="infobox-thumbnail">{data().thumbnailUrl}</div>
-          <div class="infobox-date">{meta.startDate}</div>
-        </div>
-      </>
-    </Show>
+    <>
+      <link rel="icon" href="/viewers/cep-js/assets/Logos/favicon-cep.ico" />
+      <link rel="stylesheet" href="/viewers/cep-solid/css/themes.css" />
+      <link rel="stylesheet" href="/viewers/cep-solid/css/main.css" />
+      <link rel="stylesheet" href="/viewers/cep-solid/css/extra.css" />
+      <link rel="stylesheet" href="/viewers/cep-solid/css/fonts.css" />
+      <link rel="stylesheet" href="/viewers/cep-solid/css/mobile-modifiers.css" />
+      <link rel="stylesheet" href="/viewers/cep-solid/css/theme-modifiers.css" />
+      {final}
+      {random}
+    </>
   );
 }
+
 
 export default App;

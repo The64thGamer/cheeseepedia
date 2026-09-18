@@ -203,7 +203,7 @@ Note: Contains only confirmed installations, and may not be in order.
 | [Bell, CA (5089 E Florence Ave)]                    | October 2023          | 2021 Model           |
 | [Kensington, MD (5238 Nicholson Ln)]                | November 2023         | 2021 Model           |
 | [National City, CA (1143 Highland Ave)]             | November 2023         | 2021 Model           |
-| [Sun Valley, CA (8375 Laurel Canyon Blvd)]          | November 2023         | 2021 Model           |
+| [Sun Valley, CA (8357 Laurel Canyon Blvd)]          | November 2023         | 2021 Model           |
 | [Tinley Park, IL (16090 S Harlem Ave)]              | November 29th, 2023   | 2021 Model           |
 | [Covina, CA (601 Azusa Ave)]                        | December 2023         | 2021 Model           |
 | [Laguna Hills, CA (26538-H Moulton Pkwy)]           | December 2023         | 2021 Model           |

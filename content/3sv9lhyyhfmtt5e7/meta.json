@@ -1,9 +1,8 @@
 {
-  "title": "Sun Valley, CA (8375 Laurel Canyon Blvd)",
+  "title": "Sun Valley, CA (8357 Laurel Canyon Blvd)",
   "storeNumber": "",
   "startDate": "1980-07-00",
   "endDate": "1992-00-00",
-  
   "remodels": [],
   "stages": [
     {
@@ -26,7 +25,9 @@
     "-118.3997938"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "CECR995"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "a9Aso1eJdg7DvIk0zuzr.avif",
   "type": "Locations",

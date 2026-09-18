@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/The64thGamer/cheeseepedia/issues"
   },
-  "homepage": "https://github.com/The64thGamer/cheeseepedia#readme"
+  "homepage": "https://github.com/The64thGamer/cheeseepedia#readme",
+  "dependencies": {
+    "marked": "^18.0.12"
+  }
 }

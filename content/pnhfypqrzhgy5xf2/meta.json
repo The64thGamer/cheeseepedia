@@ -1,14 +1,15 @@
 {
   "title": "Harmony II - 'Harmony's Hoedown'",
   "startDate": "1981-00-00",
-  "endDate": "0000-00-00",
+  "endDate": "1983-00-00",
   "pageThumbnailFile": "",
   "contributors": [
     "Luigigamin212",
     "Ceclife13"
   ],
   "citations": [
-    "https://www.youtube.com/playlist?list=PLTXoj5l850hHrD3deCjTufocK4hCKTH3L"
+    "https://www.youtube.com/playlist?list=PLTXoj5l850hHrD3deCjTufocK4hCKTH3L",
+    "https://showbizpizza.com/info/documents/ptt/ptt_pizzatimes1-3.pdf"
   ],
   "showtapeFormats": [
     "Cyberamics Reel"
@@ -24,7 +25,7 @@
     },
     {
       "n": "Fritz Heilbron",
-      "role": "Voice of Mr. Munch"
+      "role": "Producer, Voice of Mr. Munch"
     },
     {
       "n": "Scott Paulin",
@@ -33,10 +34,30 @@
     {
       "n": "Joe Spano",
       "role": "Voice of Pasqually the Chef"
+    },
+    {
+      "role": "Writer",
+      "n": "Robert Allen Black"
+    },
+    {
+      "role": "Director of Entertainment, Animator",
+      "n": "Mike Hatcher"
+    },
+    {
+      "role": "Animator",
+      "n": "James Barnes"
+    },
+    {
+      "role": "Set Designer",
+      "n": "Randy Nelson"
     }
   ],
   "type": "Showtapes",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

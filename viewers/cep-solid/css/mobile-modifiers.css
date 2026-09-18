@@ -1,0 +1,22 @@
+@media (max-aspect-ratio: 1/1) {
+    body{
+    border-style: none;
+    outline-style: none;
+    box-shadow: none;
+    border-radius: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+    max-width: auto;
+    min-width: auto;
+  }
+
+  .Logo img{
+    margin-bottom: 0rem;
+  }
+
+  .s-input-row{
+    padding: 1rem;
+  }
+}
