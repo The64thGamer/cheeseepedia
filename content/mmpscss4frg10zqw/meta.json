@@ -3,18 +3,17 @@
   "storeNumber": "",
   "startDate": "1981-09-00",
   "endDate": "",
-  
   "remodels": [],
   "stages": [
     {
       "n": "Balcony Stage",
       "s": "1981-09-00",
-      "e": "0000-00-00"
+      "e": "1989-00-00"
     },
     {
       "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1989-00-00",
+      "e": "1993-00-00"
     },
     {
       "n": "2-Stage",
@@ -30,7 +29,9 @@
     "-118.5379601"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "CECR995"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "y032n9cfdlefdrsz.avif",
   "type": "Locations",

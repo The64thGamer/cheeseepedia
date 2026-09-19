@@ -11,7 +11,11 @@
     "https://www.wkbw.com/news/brawl-erupts-inside-amherst-chuck-e-cheese",
     "https://www.wkbw.com/news/game-over-for-chuck-e-cheeses-in-amherst"
   ],
-  "tags": [],
+  "tags": [
+    "Chuck E. Cheese's",
+    "Amherst, NY (4994 Harlem Rd)",
+    "1-Stage"
+  ],
   "startDate": "1993-06-14",
   "endDate": "2020-06-25",
   "recommend": false,
@@ -103,9 +107,15 @@
   ],
   "attractions": [
     {
-      "n": "Chill Out Ice Cream Machine",
+      "n": "Barrel of Monkeys",
       "desc": "",
       "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chill Out Ice Cream Machine",
+      "desc": "",
+      "s": "1994-00-00",
       "e": "0000-00-00"
     },
     {

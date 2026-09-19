@@ -25,17 +25,18 @@
     "-78.8213181"
   ],
   "citations": [
-    "'Showbiz Pizza Place to Open in Amherst.' The Buffalo News, March 14, 1983. newspapers.com/article/the-buffalo-news-amherst-is-march-15th/110759056",
-    "'Now You Can Have Your Own Personal Conversation with Billy Bob.' The Buffalo News, March 15, 1985. newspapers.com/article/the-buffalo-news-talking-billy-bob/164192980",
-    "'Showbiz Welcomes Former Chuck E. Cheese Fans.' The Buffalo News, August 2, 1985. newspapers.com/article/the-buffalo-news/149344838",
-    "'Managers: Major Magic's All-Star Pizza Revue (Formerly Showbiz Pizza Place).' The Buffalo News, February 28, 1988. newspapers.com/article/the-buffalo-news-amherst-and-west-seneca/110850841",
+    "https://www.newspapers.com/article/the-buffalo-news-amherst-is-march-15th/110759056",
+    "https://www.newspapers.com/article/the-buffalo-news-talking-billy-bob/164192980",
+    "https://www.newspapers.com/article/the-buffalo-news/149344838",
+    "https://www.newspapers.com/image/876576409/?clipping_id=133277549&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg3NjU3NjQwOSwiaWF0IjoxNjk3MDUxNzY2LCJleHAiOjE2OTcxMzgxNjZ9.IkeaTHC2_3s6_5567vQj5M1sZfOTg42pjzEoIb6UM54",
+    "https://www.newspapers.com/article/the-buffalo-news-amherst-and-west-seneca/110850841",
     "https://www.facebook.com/majormagic/videos/heres-major-magics-in-amherst-ny-1990/10153269829364841/"
   ],
   "contributors": [
     "ThatRockHistorian76"
   ],
   "downloadLinks": [],
-  "pageThumbnailFile": "Showbiz Pizza Place Amherst NY 1984-85.avif",
+  "pageThumbnailFile": "w74drisojbspjyhi",
   "type": "Locations",
   "tags": [
     "ShowBiz Pizza Place",
@@ -112,6 +113,13 @@
       "l": "7-82 11-23",
       "s": "1983-03-15",
       "e": "1988-00-00"
+    },
+    {
+      "n": "Uncle Klunk (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "0000-00-00",
+      "e": "1985-00-00"
     }
   ]
 }

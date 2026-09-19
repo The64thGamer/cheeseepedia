@@ -1,20 +1,24 @@
 {
   "title": "Sun Valley, CA (8357 Laurel Canyon Blvd)",
   "storeNumber": "",
-  "startDate": "1980-07-00",
+  "startDate": "1980-07-07",
   "endDate": "1992-00-00",
   "remodels": [],
   "stages": [
     {
-      "n": "Road Stage",
-      "s": "1992-00-00",
-      "e": "2023-11-05"
+      "n": "Portrait Stage",
+      "s": "1980-07-07",
+      "e": "1981-00-00"
     },
     {
-      "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2023-11-00",
-      "e": "1992-00-00",
-      "desc": "2019 Model"
+      "n": "Balcony Stage",
+      "s": "1981-00-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade",
+      "s": "1989-00-00",
+      "e": "1992-07-00"
     }
   ],
   "franchisees": [],

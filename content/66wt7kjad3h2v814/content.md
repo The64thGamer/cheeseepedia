@@ -1,0 +1,1 @@
+Advertisement from *The Buffalo News* advertising the opening of the [Amherst, NY (1551 Niagara Falls Blvd)] and [West Seneca, NY (3525 Seneca St)] Showbiz Pizza Places.

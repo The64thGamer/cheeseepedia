@@ -1,35 +1,117 @@
 {
   "title": "Erie, PA (7200 Peach St)",
   "storeNumber": "",
-  "startDate": "1992-00-00",
+  "startDate": "1992-07-00",
   "endDate": "",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1992-07-00"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-10-00"
+    }
+  ],
   "stages": [
     {
       "n": "2-Stage",
       "s": "1992-07-00",
       "e": "2023-10-00",
-      "desc": "Last 2-Stage in the state. Replaced by Dance Floor + Video Wall."
+      "desc": "Last 2-Stage in the state until removal."
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "0000-00-00"
+      "s": "2023-10-00",
+      "e": ""
+    },
+    {
+      "n": "Video Wall",
+      "desc": "",
+      "s": "2023-10-00",
+      "e": ""
     }
   ],
   "franchisees": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "SkyTubes",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Toddler Zone",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "2020-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "42.04958312",
     "-80.09422148"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "YttITpQk31xt2N9O_JFL.avif",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Originally donned tuxedo, later sported Cool shirt. Current whereabouts unknown.",
+      "l": "",
+      "s": "1992-07-00",
+      "e": "2023-10-00"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1992-07-00",
+      "e": "2023-10-00"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1992-07-00",
+      "e": "2023-10-00"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1992-07-00",
+      "e": "2023-10-00"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1992-07-00",
+      "e": "2023-10-00"
+    },
+    {
+      "n": "Wink (Animatronic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1992-07-00",
+      "e": "2023-10-00"
+    }
   ]
 }
