@@ -1,0 +1,1 @@
+TOUR: Paducah, Kentucky Chuck E. Cheese (Former ShowBiz Pizza)

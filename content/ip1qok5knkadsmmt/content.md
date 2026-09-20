@@ -1,0 +1,1 @@
+I Visit The Last CU-1 Stage Left on Earth! At CEC Springfield, IL

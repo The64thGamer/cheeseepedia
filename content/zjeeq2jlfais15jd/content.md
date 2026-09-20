@@ -1,0 +1,1 @@
+What If Legacy Stores Were Done Properly?

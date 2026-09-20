@@ -1,0 +1,34 @@
+{
+  "title": "Volo, IL (27582 Volo Village Rd)",
+  "type": "Locations",
+  "pageThumbnailFile": "",
+  "downloadLinks": [],
+  "citations": [],
+  "tags": [
+    "Creative Engineering"
+  ],
+  "startDate": "0000-00-00",
+  "endDate": "",
+  "recommend": false,
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "credits": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": ""
+    }
+  ],
+  "remodels": [],
+  "franchisees": [],
+  "animatronics": [],
+  "attractions": [],
+  "showtapeFormats": [],
+  "contributors": [
+    "sudo-trans-pony"
+  ]
+}

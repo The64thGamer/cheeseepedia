@@ -1,0 +1,1 @@
+I Attend The Grand Re-Opening Of CEC Retro Store In Springfield, IL To See The Last CU-1 Stage!

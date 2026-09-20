@@ -1,0 +1,1 @@
+Checking Out The CEC 1Stage In Amarillo, TX!

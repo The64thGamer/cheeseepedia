@@ -1,0 +1,1 @@
+I Stop To See The Studio C Beta Stage At The CEC In Ellisville MO And Now Its GONE!

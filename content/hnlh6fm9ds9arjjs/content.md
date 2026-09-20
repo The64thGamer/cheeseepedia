@@ -1,0 +1,1 @@
+Visiting Chuck E. Cheese's New...Mall Arcade? | Fun Spot Trumbull

@@ -1,0 +1,1 @@
+07-17-2022 I Check Out CEC's In Tupelo, MS and Jackson, TN | First Time Seeing Studio C Cappa Stage!

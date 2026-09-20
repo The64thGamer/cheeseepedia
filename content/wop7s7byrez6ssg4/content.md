@@ -1,0 +1,1 @@
+Visiting the Takoma Park, MD Chuck E. Cheese Mid-Remodel
