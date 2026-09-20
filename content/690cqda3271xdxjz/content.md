@@ -1,0 +1,1 @@
+TOUR: Springfield, IL Chuck E. Cheese Legacy Store (Rare Animatronics!)

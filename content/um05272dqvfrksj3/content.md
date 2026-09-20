@@ -1,0 +1,1 @@
+TOUR: Hicksville, NY Chuck E. Cheese Legacy Store (1-Stage)

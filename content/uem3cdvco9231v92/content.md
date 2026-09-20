@@ -1,0 +1,1 @@
+TOUR: Wichita, KS Chuck E. Cheese (Animatronic Reveal Part 1)

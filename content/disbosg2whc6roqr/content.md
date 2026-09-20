@@ -1,0 +1,1 @@
+I FINALLY See Studio C Perform at Chuck E. Cheese! - Caguas, Puerto Rico UPDATE

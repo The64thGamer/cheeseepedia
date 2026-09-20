@@ -1,0 +1,1 @@
+Chuck E. Cheese Ice Cream Factory! - Hempstead, NY Chuck E. Summary
