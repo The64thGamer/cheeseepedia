@@ -10,6 +10,7 @@ const TOAST_CSS = 'https://uicdn.toast.com/editor/latest/toastui-editor.min.css'
 const TOAST_JS  = 'https://uicdn.toast.com/editor/latest/toastui-editor-all.min.js';
 const JSZIP_JS  = 'https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js';
 const SUGGESTIONS_URL = '/viewers/cep-js/compiled-json/Suggestions.json';
+const TITLE_MAP_URL = '/viewers/cep-solid/compiled-json/titleToFolderIDMap.json';
 const RELATED_URL = '/viewers/cep-js/compiled-json/related.json';
 const SUBMIT_URL = '/submit';
 const LOGIN_URL = '/viewers/cep-editor/Login.html';
@@ -20,7 +21,7 @@ const META_MAP = {
   pageThumbnailFile:  { type: 'line',     el: 'MetaThumbnail' },
   downloadLinks:      { type: 'list',     el: 'MetaDownloads' },
   citations:          { type: 'list',     el: 'MetaCitations' },
-  tags:               { type: 'list',     el: 'MetaTags' },
+  tags:               { type: 'list',     el: 'MetaTags', suggestions: 'tags' },
   startDate:          { type: 'date',     el: 'MetaStartDate' },
   endDate:            { type: 'date',     el: 'MetaEndDate' },
   recommend:          { type: 'boolean',  el: 'MetaRecommend' },
@@ -87,6 +88,7 @@ let firstValidFile = null;
 let metaData = {};
 let SUGGESTIONS = {};
 let suggestionsLoaded = false;
+let titlesLoaded = false;
 let RELATED = [];
 let relatedLoaded = false;
 // Filenames of extra gallery images added this session, kept separate from
@@ -102,6 +104,19 @@ async function loadSuggestions() {
     suggestionsLoaded = true;
   } catch (err) {
     console.warn('Failed to load suggestions:', err);
+  }
+}
+
+async function loadTitles() {
+  if (titlesLoaded) return;
+  try {
+    const res = await fetch(TITLE_MAP_URL);
+    if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+    const map = await res.json();
+    SUGGESTIONS.tags = Object.keys(map).filter(k => !/^https?:\/\//i.test(k) && !/\.avif$/i.test(k));
+    titlesLoaded = true;
+  } catch (err) {
+    console.warn('Failed to load title map:', err);
   }
 }
 
@@ -239,6 +254,7 @@ export async function loadFolder(articleId) {
   galleryFiles = [];
 
   await loadSuggestions();
+  await loadTitles();
 
   if (isNew) {
     scratch['content.md'] = '';
@@ -426,7 +442,16 @@ function attachSuggestions(input, list) {
 
   const render = () => {
     const q = input.value.trim().toLowerCase();
-    matches = q ? list.filter(s => s.toLowerCase().includes(q)).slice(0, 8) : [];
+    matches = [];
+    if (q) {
+      const scored = [];
+      for (const s of list) {
+        const idx = s.toLowerCase().indexOf(q);
+        if (idx >= 0) scored.push([idx === 0 ? 0 : 1, s.length, s]);
+      }
+      scored.sort((a, b) => a[0] - b[0] || a[1] - b[1]);
+      matches = scored.slice(0, 8).map(x => x[2]);
+    }
     box.innerHTML = '';
     if (!matches.length) { box.style.display = 'none'; return; }
     matches.forEach((s, i) => {
