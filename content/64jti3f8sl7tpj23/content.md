@@ -2,7 +2,7 @@
 
 ## History
 
-The Bridgeville Pizza Time Theatre opened its doors on February 17, 1983, with a Balcony Stage. It was originally a franchise-owned Pizza Time Theatre location owned by the McKnight Family Fun Corporation. In 1989 or 1990, Bridgeville received the 1988 remodel and its Balcony Stage was retrofitted into a [Chuck E.'s House Facade]. In 1992, the Chuck E.'s House Facade was replaced by a 2-Stage. In 1998, SkyTubes were added to the store.
+The Bridgeville Pizza Time Theatre opened its doors on February 17, 1983, with a Balcony Stage. It was originally a franchise-owned Pizza Time Theatre location owned by McKnight Family Centers. In 1989 or 1990, Bridgeville received the [SPT 1980's Remodel Program] and its Balcony Stage was retrofitted into a [Chuck E.'s House Facade]. In 1992, the Chuck E.'s House Facade was replaced by a 2-Stage. In 1998, SkyTubes were added to the store.
 
 ### Relocation
 

@@ -8,6 +8,7 @@ OUT_DIR     = os.path.join(os.path.dirname(__file__), "..", "compiled-json/searc
 ID_MAP_FILE = os.path.join(OUT_DIR, "_id_map.json")
 EXCERPT_LEN = 150
 MIN_TRI_FREQ = 2
+BODY_FILES = ('content.md', 'old.md')
 
 WIKI_LINK_RE = re.compile(r'\{\{<?\s*wiki-link\s+["\']?([^"\'}\s]+)["\']?[^>]*>?\s*\}\}', re.IGNORECASE)
 CITE_RE      = re.compile(r'\{\{<?\s*cite\s+[^>]*>?\s*\}\}', re.IGNORECASE)
@@ -50,16 +51,25 @@ def save_id_map(id_map):
         json.dump(id_map, f, ensure_ascii=False, separators=(',', ':'))
 
 def mod_time(folder):
-    times = [f.stat().st_mtime for f in (folder/'meta.json', folder/'content.md') if f.exists()]
+    files = [folder/'meta.json'] + [folder/n for n in BODY_FILES]
+    times = [f.stat().st_mtime for f in files if f.exists()]
     return max(times) if times else 0
+
+def read_body(folder):
+    for name in BODY_FILES:
+        p = folder/name
+        if p.exists():
+            text = p.read_text(encoding='utf-8')
+            if text.strip():
+                return text
+    return ''
 
 def read_article(folder):
     mp = folder/'meta.json'
     if not mp.exists(): return None, None, 0
     try: fm = json.loads(mp.read_text(encoding='utf-8'))
     except Exception: return None, None, 0
-    body = (folder/'content.md').read_text(encoding='utf-8') if (folder/'content.md').exists() else ''
-    return fm, body, mod_time(folder)
+    return fm, read_body(folder), mod_time(folder)
 
 def extract_wiki_link_tags(body):
     tags = []

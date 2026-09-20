@@ -1,0 +1,1 @@
+Various arcade games at [Jackson, TN (2021 North Highland Ave)], taken some time before it closed.

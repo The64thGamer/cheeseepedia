@@ -29,8 +29,8 @@
     },
     {
       "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1989-00-00",
+      "e": "1992-00-00"
     },
     {
       "n": "2-Stage",
@@ -40,6 +40,12 @@
   ],
   "franchisees": [],
   "attractions": [
+    {
+      "n": "Cheese Crawl",
+      "desc": "",
+      "s": "1983-03-15",
+      "e": "0000-00-00"
+    },
     {
       "n": "Chuck E. Cheese Carousel",
       "desc": "Seen in 1987 footage.",

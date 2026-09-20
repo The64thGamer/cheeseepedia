@@ -3,7 +3,16 @@
   "storeNumber": "",
   "startDate": "1983-02-17",
   "endDate": "2002-10-00",
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-02-17"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1988-00-00"
+    }
+  ],
   "stages": [
     {
       "n": "Balcony Stage",
@@ -21,7 +30,13 @@
       "e": "2002-10-00"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "McKnight Family Centers",
+      "s": "1983-02-17",
+      "e": "0000-00-00"
+    }
+  ],
   "attractions": [
     {
       "n": "SkyTubes",
