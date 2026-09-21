@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1980-05-00",
   "endDate": "1984-00-00",
-  
   "remodels": [],
   "stages": [
     {
@@ -19,8 +18,19 @@
     "33.93900302",
     "-117.9344119"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "https://www.newspapers.com/article/the-los-angeles-times-california-ptt-sal/32792267/",
+    "https://www.newspapers.com/article/the-los-angeles-times-ptt-1980-manager-a/40535563/",
+    "https://www.newspapers.com/article/the-los-angeles-times/56695285/",
+    "https://www.newspapers.com/article/the-los-angeles-times/183696156/",
+    "https://archive.org/details/the-pizza-times-newsletters/1979%20The%20Pizza%20Times%201-1/mode/2up?q=la+habra",
+    "https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/mode/2up?q=la+habra",
+    "https://archive.org/details/the-pizza-times-newsletters/1981%20The%20Pizza%20Times%201-1/page/n3/mode/2up?q=huntington",
+    "https://www.newspapers.com/article/the-los-angeles-times/183696156/"
+  ],
+  "contributors": [
+    "sudo-trans-pony"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "rfys3rrnts7290nk.avif",
   "type": "Locations",

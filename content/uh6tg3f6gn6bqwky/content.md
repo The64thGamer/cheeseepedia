@@ -1,0 +1,1 @@
+An advertisement for "Chuck E. Street" ([Cheese E. Street]) at [Johnson City, NY (365 Harry L Drive)] from *Press and Sun-Bulletin*.

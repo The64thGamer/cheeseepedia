@@ -1,14 +1,19 @@
 {
-  "title": "Buffalo, NY (2638 Delaware Ave)",
+  "title": "Buffalo (North Buffalo), NY (2638 Delaware Ave)",
   "storeNumber": "",
   "startDate": "2024-11-22",
   "endDate": "",
-  
-  "remodels": [],
+  "remodels": [
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-11-22"
+    }
+  ],
   "stages": [
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2024-11-22"
+      "s": "2024-11-22",
+      "e": ""
     }
   ],
   "franchisees": [],
@@ -19,7 +24,9 @@
     "-78.8703299"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",

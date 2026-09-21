@@ -70,7 +70,7 @@ CEC operates family entertainment centers focused on live entertainment, birthda
 
 - On the 1st, Mark Kupferman would tease the upcoming Ninja Run concept to be coming to a few U.S. stores.[16]
 - On the 11th, CEC would make a post to its stores confirming that the Nanuet, NY location would be a '100% retro store', which would include 'retro nights'. The retro nights wouldn't be explained, but said they would focus around the early 2000's era of CEC.[5][5]
-- On the 12th, CEC would announce the Ninja Run, being a test addon to the Trampoline Zone. The announced test store would be [Grand Prairie, TX (2760 W I-20)], but the [Medford, OR (293 E Barnett Rd)], [Buffalo, NY (2638 Delaware Ave)] and an unnamed Colorado location would also be rumored to receive it.[5][20]
+- On the 12th, CEC would announce the Ninja Run, being a test addon to the Trampoline Zone. The announced test store would be [Grand Prairie, TX (2760 W I-20)], but the [Medford, OR (293 E Barnett Rd)], [Buffalo (North Buffalo), NY (2638 Delaware Ave)] and an unnamed Colorado location would also be rumored to receive it.[5][20]
 - On the 16th, the first Ninja Run would be confirmed to open at the Grand Prairie, TX store.[21]
 - On the 18th, a [Looney Bird (Animatronic)] animatronic was sent to the Charlotte Pineville-Matthews location from the [ShowBiz Pizza Time Distribution Center (Topeka, KS)] for installation. This animatronic was previously from the [Laurel, MD (936 Fairlawn Ave)] store and had been sitting in the warehouse for 2 years and 10 days.[5]
 - On June 26th, *Blank Tag Co.* would produce a set of CEC stickers featuring Avenger era artwork with new colors and shading.[23]

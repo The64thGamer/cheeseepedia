@@ -1,0 +1,1 @@
+The Chuck walkaround at [Schenectady, NY (2330 Watt St)].

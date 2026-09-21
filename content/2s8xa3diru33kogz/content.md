@@ -4,7 +4,7 @@
 
 ### Pre-Opening
 
-Prior to becoming a Chuck E. Cheese's, the space in which the Amherst store would be located was originally a grocery store. [2] Starting on June 1, 1993, people could apply in-person for a job at the location. [1]
+Prior to becoming a Chuck E. Cheese's, the space in which the Amherst store would be located was originally a grocery store. [3] Starting on June 1, 1993, people could apply in-person for a job at the location. [1]
 
 ### Opening and Early Years
 

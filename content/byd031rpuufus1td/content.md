@@ -1,0 +1,1 @@
+The Munch walkaround in front of the [Balcony Stage] at [Schenectady, NY (2330 Watt St)], which has the [Broadway (Balcony Stage Theme)] backdrop and costumes for the [Bandstand (Balcony Stage Theme)].

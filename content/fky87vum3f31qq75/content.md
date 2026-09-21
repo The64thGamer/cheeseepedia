@@ -1,0 +1,1 @@
+An advertisement for the opening of [Amherst, NY (4994 Harlem Rd)] from *The Buffalo News*.

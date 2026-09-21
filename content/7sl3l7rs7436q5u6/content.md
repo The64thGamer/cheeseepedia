@@ -2,9 +2,15 @@
 
 ## History
 
-The Pizza Time Theatre at the Thruway Mall in Cheektowaga, New York opened on November 26, 1982, with either Harmony Howlette or Madame Oink as the Guest Star. Cheektowaga was one of eight New York locations operated by Rochester-based Pizza Concepts, Inc., and was franchised by Worthington, Ohio-based Calibre Corporation. Cheese E. Street was installed in the store a short time after opening, but the exact timing of this is unknown. By 1984, the store had Helen Henny.
+### Pre-Opening
 
-## Closure and Fate of the Animatronics
+The first mention of the Cheektowaga PTT was in an article published in *The Buffalo News* on November 15, 1982, which mentioned the opening date of the store and also highlighted the construction of [New Hartford, NY (8555 Seneca Turnpike)]. [1]
+
+### Years of Operation
+
+The Pizza Time Theatre at the Thruway Mall in Cheektowaga, New York opened on November 26, 1982, [1] with either Harmony Howlette or Madame Oink as the Guest Star. Cheektowaga was one of eight New York locations operated by Rochester-based Pizza Concepts, Inc., and was franchised by Worthington, Ohio-based Calibre Corporation. Cheese E. Street was installed in the store a short time after opening. By 1984, the store had Helen Henny.
+
+### Closure and Fate of the Animatronics
 
 After being open for almost three years, the Cheektowaga PTT closed on July 29, 1985, without giving any prior notice to its employees. Although the location closed during Pizza Time Theatre's period of major financial issues, the Cheektowaga store's demise was largely a local competition problem, as it was a competitor to the nearby Showbiz Pizza Place stores in Amherst and West Seneca, both of which were rather successful and inhibited the gain of steady profits [5]. [New Hartford, NY (8555 Seneca Turnpike)] and [Schenectady, NY (2330 Watt St)] closed the same day due to financial underperformance.
 
