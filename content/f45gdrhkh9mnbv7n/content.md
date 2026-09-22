@@ -1,0 +1,1 @@
+Chuck E. Cheese's - Colerain, OH 3-Stage + Game Room (1998 & 2000)

@@ -50,10 +50,16 @@
   ],
   "attractions": [
     {
-      "n": "Cheese Crawl",
-      "desc": "Seen in 1989 footage. Removed upon installation of Chuck E.'s House Facade.",
+      "n": "Ball Pit",
+      "desc": "",
       "s": "1982-03-17",
-      "e": "1989-00-00"
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Cheese Crawl",
+      "desc": "Seen in 1989 footage.",
+      "s": "1982-03-17",
+      "e": "0000-00-00"
     },
     {
       "n": "Chuck E. Cheese Carousel",
@@ -63,7 +69,7 @@
     },
     {
       "n": "Chuck E. Cheese Roll",
-      "desc": "Auctioned off on eBay, currently owned by an unknown individual.",
+      "desc": "Auctioned off on eBay. Currently owned by an unknown individual.",
       "s": "0000-00-00",
       "e": "0000-00-00"
     }

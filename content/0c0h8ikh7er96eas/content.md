@@ -1,0 +1,5 @@
+***Crater Corner / Rockaria*** is a virtual animatronic band created in February of 2025 by FuntownFollies that was backed through GoFundMe, releasing through the simulator [RetroMation] until its completion on February 7th, 2026.[2][6]
+
+## History
+
+Crater Corner's design would first be drafted in 2019.[7] The GoFundMe for the project would release on February 10th, 2025 with a goal of $600.[4] The release was set to contain a full "copyright-free" show for fans to program and animate in [RetroMation], with complete concept art of the show seen on the backing page. 'Crater Corner' would be the fictional restaurant, with 'Rockaria' being the name of its animatronic band.[2] By February 18th, the project would already surpass $470, and would reach past its goal shortly after.[2][5] Updates for Retromation containing the show would release to backers on April 21st, May 30th, and August 13th of 2025.[8] The full release would come publicly on February 7th, 2026.[6]

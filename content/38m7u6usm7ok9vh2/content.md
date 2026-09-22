@@ -7,12 +7,12 @@ The attraction would only be installed at a certain number of locations. (N/A is
 * [Milwaukee, WI (2701 S Chase Ave)] - April 1983
 * [San Jose, CA (1371 Kooser Rd)] - April 22, 1983
 * [Danvers, MA (139 Endicott St)] - April 24, 1983
-* East Norriton / Norristown, PA (2834 Dekalb Pike) - June 1983
+* [Norristown (East Norriton), PA (2834 Dekalb Pike)] - June 1983
 * [West Mifflin, PA (2260 Lebanon Church Rd)] - August 1983
 * [Cheektowaga, NY (Thruway Mall)] - N/A
 * [Johnson City, NY (365 Harry L Dr)] - N/A
 * [Singapore, Marine Parade (Parkway Parade, 80 Marine Parade Road, #01-35)] - N/A
-* Kowloon, Hong Kong, China - N/A
+* [Kowloon / Tsim Sha Tsui East, Hong Kong, China (96 Granville Rd.)] - N/A
 
 ## Layout
 
