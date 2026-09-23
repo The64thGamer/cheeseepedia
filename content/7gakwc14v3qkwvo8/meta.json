@@ -1,0 +1,22 @@
+{
+  "title": "El Paso, TX (12120 Montana Ave Suite A)",
+  "startDate": "0000-00-00",
+  "endDate": "",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Peter Piper Pizza 2.0 Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "31.8064554",
+    "-106.2642240"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Peter Piper Pizza"
+  ]
+}

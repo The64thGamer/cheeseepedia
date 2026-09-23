@@ -1,0 +1,22 @@
+{
+  "title": "Phoenix, AZ (4105 N 51st Ave Suite #111)",
+  "startDate": "0000-00-00",
+  "endDate": "",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Peter Piper Pizza 2.0 Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "33.4964218",
+    "-112.1672843"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Peter Piper Pizza"
+  ]
+}

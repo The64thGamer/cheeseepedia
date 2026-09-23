@@ -1,0 +1,22 @@
+{
+  "title": "Peoria, AZ (6821 W Peoria Ave Suite 149)",
+  "startDate": "0000-00-00",
+  "endDate": "",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Peter Piper Pizza 2.0 Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "33.5804846",
+    "-112.2063030"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Peter Piper Pizza"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "National City, CA (3007 Highland Blvd Ste 112)",
+  "startDate": "0000-00-00",
+  "endDate": "",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Peter Piper Pizza 2.0 Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "32.6583842",
+    "-117.0906166"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Peter Piper Pizza"
+  ]
+}
