@@ -1,0 +1,22 @@
+{
+  "title": "Southfield, MI (26215 Greenfield Rd)",
+  "startDate": "0000-00-00",
+  "endDate": "0000-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "42.4833363",
+    "-83.2023900"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

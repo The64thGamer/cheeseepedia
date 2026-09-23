@@ -1,0 +1,22 @@
+{
+  "title": "Flint, MI (5038 Miller Rd)",
+  "startDate": "1993-12-00",
+  "endDate": "0000-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "43.0045355",
+    "-83.7058882"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

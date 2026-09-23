@@ -1,0 +1,22 @@
+{
+  "title": "Roseville, MI (26280 Eastgate Blvd)",
+  "startDate": "0000-00-00",
+  "endDate": "0000-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "42.4896254",
+    "-82.9395134"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

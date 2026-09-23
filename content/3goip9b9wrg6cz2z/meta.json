@@ -1,0 +1,22 @@
+{
+  "title": "Westland, MI (34520 Ford Rd)",
+  "startDate": "0000-00-00",
+  "endDate": "0000-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "42.3260803",
+    "-83.3816251"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

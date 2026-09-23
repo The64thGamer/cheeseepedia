@@ -1,0 +1,22 @@
+{
+  "title": "Saginaw, MI (2262 Tittabawassee Rd)",
+  "startDate": "0000-00-00",
+  "endDate": "1995-09-18",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "43.4799924",
+    "-83.9614540"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

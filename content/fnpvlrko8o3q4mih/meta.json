@@ -1,0 +1,22 @@
+{
+  "title": "Southgate, MI (13591 Eureka Rd)",
+  "startDate": "0000-00-00",
+  "endDate": "0000-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "42.1981469",
+    "-83.1891567"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}
