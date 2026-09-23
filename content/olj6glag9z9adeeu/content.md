@@ -1,0 +1,1 @@
+Chuck E  Cheese's - Ellisville, MO 1-Stage + Gameroom Overview (2000)
