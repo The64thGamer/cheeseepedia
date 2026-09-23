@@ -1,0 +1,1 @@
+Chuck E. Cheese - Sammy the Skateboarding Skeleton (Florence, Ky)

@@ -1,0 +1,1 @@
+Chuck E. Cheese - I Didn't Need to be Afraid (Bridgewater, NJ)

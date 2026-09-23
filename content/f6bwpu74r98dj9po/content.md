@@ -1,0 +1,1 @@
+Chuck E. Cheese - Akron, OH Showroom Tour

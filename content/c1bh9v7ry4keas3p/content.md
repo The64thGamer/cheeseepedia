@@ -1,0 +1,1 @@
+Chuck E. Cheese - Fargo, ND Showroom Tour

@@ -1,0 +1,1 @@
+Chuck E's Magical Holiday Celebration (December 1996-1997)

@@ -1,0 +1,1 @@
+Chuck E. Cheese - Orange, CT Store Tour

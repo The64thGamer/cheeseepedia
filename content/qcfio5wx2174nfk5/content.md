@@ -1,0 +1,1 @@
+Chuck E. Cheese - Dog Days of Summer (Poughkeepsie, NY)

@@ -1,0 +1,1 @@
+Chuck E. Cheese - 2-Stage Show Removed (Florence, Ky) April 19, 1982 - March 31, 2022

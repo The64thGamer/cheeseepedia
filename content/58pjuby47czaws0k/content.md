@@ -1,0 +1,1 @@
+Chuck E. Cheese - Whitehall, PA Store Tour

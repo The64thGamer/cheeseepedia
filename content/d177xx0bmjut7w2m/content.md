@@ -1,0 +1,1 @@
+Chuck E. Cheese - Barbara the Barnyard Barber (Florence, Ky)

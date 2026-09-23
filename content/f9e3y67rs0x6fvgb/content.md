@@ -1,0 +1,1 @@
+Chuck E. Cheese - La Mesa, CA Store Tour

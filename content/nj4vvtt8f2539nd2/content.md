@@ -1,0 +1,1 @@
+Chuck E. Cheese - Lend a Helping Hand (Colerain, OH)

@@ -1,0 +1,1 @@
+Chuck E. Cheese - West Islip, NY Store Tour

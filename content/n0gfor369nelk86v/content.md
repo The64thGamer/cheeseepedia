@@ -1,0 +1,1 @@
+Chuck E. Cheese - Halloween Night (Hicksville, NY)
