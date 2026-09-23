@@ -1,0 +1,22 @@
+{
+  "title": "El Paso, TX (6640 Montana Ave)",
+  "startDate": "0000-00-00",
+  "endDate": "0000-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Peter Piper Pizza 2.0 Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "31.7885314",
+    "-106.3968075"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Peter Piper Pizza"
+  ]
+}
