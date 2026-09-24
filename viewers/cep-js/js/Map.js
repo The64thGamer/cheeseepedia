@@ -1,9 +1,26 @@
-
 const PINS_URL    = '/viewers/cep-js/compiled-json/map_pins.json';
 const ICON_BASE   = '/viewers/cep-js/assets/Map Markers/';
 const LEAFLET_CSS = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
 const LEAFLET_JS  = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
-const PIN_FILES = { ptt:'ptt.png', spp:'spp.png', cec:'cec.png', other:'other.png' };
+
+const PIN_FILES = {
+  ptt:               'other.png',
+  spp:               'other.png',
+  cec:               'other.png',
+  cec2:              'IngramDrive.avif',
+  cec2000s:          'IDrive.avif',
+  spt80s_ptt:        'other.png',
+  spt80s_spp:        'other.png',
+  spt90s:            'Spokane.avif',
+  ppp2:              'PeterPiperPizza.avif',
+  funspotarcade:     'other.png',
+  dz:                'DiscoveryZone.avif',
+  charliecheese:     'other.png',
+  cecadventureworld: 'other.png',
+  chuckemouse:       'other.png',
+  chucksarcade2025:  'other.png',
+  other:             'other.png',
+};
 
 function loadLeaflet() {
   return new Promise((resolve, reject) => {
@@ -21,23 +38,17 @@ function loadLeaflet() {
   });
 }
 
-// Pin type is date-driven:
-//   ShowBiz Pizza Place → SPP before cuDate, CEC on/after
-//   Pizza Time Theatre or Chuck E. Cheese's → PTT before Oct 1984, CEC on/after
-//   anything else → other
-const PTT_CEC_CUTOVER = new Date('1984-10-01').getTime();
-
-function resolvePinType(loc, currentDate) {
-  const tags = loc.tags || [];
-  const ts   = currentDate.getTime();
-
-  if(tags.includes("ShowBiz Pizza Place")) {
-    return ts >= loc._cu ? 'cec' : 'spp';
-  }
-  if(tags.includes("Pizza Time Theatre") || tags.includes("Chuck E. Cheese's")) {
-    return ts >= PTT_CEC_CUTOVER ? 'cec' : 'ptt';
-  }
-  return 'other';
+function injectPinStyles() {
+  if(document.querySelector('#MapPinIconStyle')) return;
+  const style = document.createElement('style');
+  style.id = 'MapPinIconStyle';
+  style.textContent = `
+    .MapPinIcon {
+      transition: transform 0.15s ease;
+      transform-origin: bottom center;
+    }
+  `;
+  document.head.appendChild(style);
 }
 
 function getDayOfYear(date) {
@@ -49,11 +60,30 @@ function isLeapYear(y) {
   return new Date(y, 1, 29).getDate() === 29;
 }
 
+function resolvePinType(loc, ts) {
+  const eras = loc._eras;
+  if(!eras || !eras.length) return 'other';
+  let active = null;
+  for(let i = 0; i < eras.length; i++) {
+    if(eras[i]._ts <= ts) active = eras[i];
+    else break;
+  }
+  return active ? active.pin : 'other';
+}
+
+function setIconHoverScale(marker, scaling) {
+  const el = marker.getElement && marker.getElement();
+  if(!el) return;
+  const current = el.style.transform || '';
+  const base = current.replace(/\s*scale\([^)]*\)\s*$/, '').trim();
+  el.style.transform = scaling ? `${base} scale(2.5)`.trim() : base;
+}
+
 export async function initMap(container) {
   await loadLeaflet();
+  injectPinStyles();
   const L = window.L;
 
-  // ── DOM ───────────────────────────────────────────────────────────────────
   container.innerHTML = '';
   container.style.cssText = 'display:flex;flex-direction:column;height:100%;';
 
@@ -74,12 +104,6 @@ export async function initMap(container) {
       <input type="range" id="MapDaySlider" min="1" max="365" style="flex:1">
       <input type="date" id="MapDatePicker" style="flex-shrink:0;margin-left:0.75em">
     </div>
-    <div class="MapPinLegend">
-      <span><img src="${ICON_BASE}ptt.png" width="20"> Pizza Time Theatre</span>
-      <span><img src="${ICON_BASE}spp.png" width="20"> ShowBiz Pizza Place</span>
-      <span><img src="${ICON_BASE}cec.png" width="20"> Chuck E. Cheese's</span>
-      <span><img src="${ICON_BASE}other.png" width="20"> Other</span>
-    </div>
   `;
   container.appendChild(controlsEl);
 
@@ -88,40 +112,34 @@ export async function initMap(container) {
   const datePicker  = controlsEl.querySelector('#MapDatePicker');
   const dateDisplay = controlsEl.querySelector('#MapDateDisplay');
 
-  // ── Leaflet ───────────────────────────────────────────────────────────────
-  const map = L.map(mapEl).setView([38, -96], 4); // Default to continental US
+  const map = L.map(mapEl).setView([38, -96], 4);
   L.tileLayer(
     'https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}',
     { minZoom: 1, maxZoom: 16, attribution: 'Tiles © Esri' }
   ).addTo(map);
 
-  // Pre-build icon objects
   const icons = Object.fromEntries(
     Object.entries(PIN_FILES).map(([k, f]) => [k, L.icon({
       iconUrl: ICON_BASE + f,
       iconSize: [48, 48], iconAnchor: [24, 48], popupAnchor: [0, -48],
+      className: 'MapPinIcon',
     })])
   );
 
-  // ── Data ──────────────────────────────────────────────────────────────────
   let locations = [];
   try {
     const r = await fetch(PINS_URL);
     if(r.ok) locations = (await r.json()).locations || [];
   } catch(e) { console.error('MapView: failed to load map_pins.json', e); }
 
-  // Pre-parse dates once so we're not parsing strings every render frame
   locations.forEach(loc => {
     loc._start = new Date(loc.startDate).getTime();
     loc._end   = new Date(loc.endDate).getTime();
-    loc._cu    = new Date(loc.cuDate).getTime();
+    loc._eras  = (loc.eras || []).map(e => ({ pin: e.pin, _ts: new Date(e.s).getTime() }));
   });
 
-  // ── Delta rendering ───────────────────────────────────────────────────────
-  // Only add/remove markers that cross the visibility boundary each frame.
-  // Markers are created once and reused; only icon swaps happen mid-life.
   const markerCache = new Array(locations.length).fill(null);
-  const visible     = new Set(); // indices currently on the map
+  const visible     = new Set();
   const layerGroup  = L.layerGroup().addTo(map);
 
   function renderMarkers(currentDate) {
@@ -133,14 +151,20 @@ export async function initMap(container) {
       const isShown    = visible.has(i);
 
       if(shouldShow) {
-        // Ensure marker exists
         if(!markerCache[i]) {
           markerCache[i] = L.marker(loc.coords)
             .bindPopup(`<a href="/?v=cep-js&=${encodeURIComponent(loc.p)}">${loc.title}</a>`);
           markerCache[i]._pinType = null;
+          markerCache[i].on('mouseover', () => {
+            markerCache[i].setZIndexOffset(1000);
+            setIconHoverScale(markerCache[i], true);
+          });
+          markerCache[i].on('mouseout', () => {
+            markerCache[i].setZIndexOffset(0);
+            setIconHoverScale(markerCache[i], false);
+          });
         }
-        // Update icon only if pin type has changed
-        const pinType = resolvePinType(loc, currentDate);
+        const pinType = resolvePinType(loc, ts);
         if(markerCache[i]._pinType !== pinType) {
           markerCache[i].setIcon(icons[pinType]);
           markerCache[i]._pinType = pinType;
@@ -155,7 +179,6 @@ export async function initMap(container) {
     toAdd.forEach(i    => { layerGroup.addLayer(markerCache[i]);    visible.add(i);    });
   }
 
-  // ── Date helpers ──────────────────────────────────────────────────────────
   function sliderToDate() {
     const y = parseInt(yearSlider.value);
     const d = parseInt(daySlider.value);
@@ -178,7 +201,6 @@ export async function initMap(container) {
     if(parseInt(daySlider.value) > max) daySlider.value = max;
   }
 
-  // Throttle renders to one per animation frame
   let rafId = null;
   function scheduleRender() {
     if(rafId) return;
@@ -190,7 +212,6 @@ export async function initMap(container) {
     });
   }
 
-  // ── Events ────────────────────────────────────────────────────────────────
   yearSlider.addEventListener('input', () => { syncDaySliderMax(); scheduleRender(); });
   daySlider.addEventListener('input', scheduleRender);
   datePicker.addEventListener('change', () => {
@@ -201,7 +222,6 @@ export async function initMap(container) {
     scheduleRender();
   });
 
-  // ── Init to today ─────────────────────────────────────────────────────────
   const today = new Date();
   yearSlider.value = today.getFullYear();
   syncDaySliderMax();

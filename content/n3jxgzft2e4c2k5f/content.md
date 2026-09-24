@@ -1,0 +1,1 @@
+Visiting Dead Retail Locations in Columbus, Indiana!

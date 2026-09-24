@@ -1,0 +1,1 @@
+Update: Chuck E’s Funhouse Photo Booth is Working!

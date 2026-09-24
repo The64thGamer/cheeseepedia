@@ -1,0 +1,19 @@
+***Defender*** is an arcade scrolling shooter video game originally released in February 1981. One of the most popular arcade video games of the 1980s, it is the first game in the *Defender* series, followed by *Stargate*.
+
+## History
+
+### Development
+
+*Defender* was developed by Williams Electronics, a company famous for their pinball machines. Given that Williams was a pinball company, the arcade video game path was a shift from the usual productions of the company, and was their first attempt at creating an original video game, since their first video game was merely a clone of *Pong*. *Defender* was inspired by games such as *Space Invaders* and *Asteroids*, and, like those games, was set in space. The game began development in October 1979. Eugene Jarvis, head of the project and a designer and programmer of the game, named the game after a 1960s sitcom called *The Defenders*, which was about attorneys; he claimed that he used this name so that the actions in the game could be justified. Fellow Williams employee Larry DeMar also helped design and program the game. Sam Dicker and Paul Dussault also helped with programming. Steve Ritchie was the advisor for the project. [1] 
+
+### Release, Popularity, and Significance in the Industry
+
+After having been shown off for the first time at the Amusement & Music Operaters Association (AMOA) trade show in September 1980, *Defender* was first released in February 1981 in Japan by Taito. The game was released by Williams Electronics, its developer, in March 1981 in North America, and in late 1981 in Europe. Though *Defender* was not the first video game of the scrolling shooter genre, it was the first of the genre to feature horizontal scrolling rather than vertical scrolling. Additionally, it brought higher difficulty and greater need for skill to video games. The game was a massive success upon release, selling over 55,000 units and earning over $1 billion, and was ranked the second highest-grossing arcade game of 1981 in the US just below [Pac-Man] by the *Cash Box* and *RePlay* charts. Although it enjoyed great popularity in the United States, *Defender* was not as popular in Japan, being tied with *Turbo* and *Galaxian* as the eighteenth highest-grossing video game of 1981 there. [1]
+
+*Defender* was a staple at many arcade chains such as Chuck E. Cheese's Pizza Time Theatre and ShowBiz Pizza Place. The [Redwood City, CA (380 Convention Way)] Pizza Time Theatre had several *Defender* cabinets side-by-side.
+
+## Gameplay
+
+*Defender* takes place on an unnamed planet. Players control a spaceship that flies either to the right or to the left, and are given three ships and three "smart bombs" (weapons that destroy any and all visible enemies) at the start. The elevation of the ship can be controlled by a joystick, and the five weapons that the spaceship can use are controlled by five buttons. There is also a "hyperspace" button that, when pressed, sends the ship to a random, potentially dangerous, location. Every 10,000 points, an extra ship and smart bomb is awarded to the player, though the amount of points needed for this to happen can be adjusted. A player's ship is lost upon collision with enemies or enemy projectiles, or when a hyperspace jump goes wrong. [1]
+
+The object of the game is to defeat alien invaders on the planet while simultaneously keeping astronauts on land from being abducted. Destroying the aliens allows the player to advance to the next level. Enemies known as "landers" attempt to capture humans and carry them to the top of the screen, where they become mutants. Humans can be freed if their captor is shot. If the player fails to protect the astronauts on land, then the planet will explode and be overrun by waves of mutants. If these mutant waves are defeated, the planet is restored. [1]

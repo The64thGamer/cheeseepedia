@@ -1,0 +1,1 @@
+The ***PTT Logo White Paper Cup*** was a paper soda fountain cup given to birthday parties and customers at [Pizza Time Theatre] for an unknown period.

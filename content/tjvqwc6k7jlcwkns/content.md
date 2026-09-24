@@ -1,0 +1,1 @@
+The ***PTT Happy Birthday Tablecloth*** was a tablecloth adorned onto birthday party tables during an unknown period at [Pizza Time Theatre] locations.

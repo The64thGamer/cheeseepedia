@@ -56,7 +56,7 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 | 10-80 #-9              | style='vertical-align:bottom; text-align:left;' | [Arvada, CO (9301 Ralston Rd)]                    |
 | 10-80 #-10             | style='vertical-align:bottom; text-align:left;' |[Bloomingdale, IL (132 E Lake St)]                 |
 | 10-80 #-11             | style='vertical-align:bottom; text-align:left;' | Omaha, NE (2531 S 133rd Plaza)                                            |
-| 10-80 #-12             | style='vertical-align:bottom; text-align:left;' |[San Antonio, TX (6874 Ingram Rd)]                 |
+| 10-80 #-12             | style='vertical-align:bottom; text-align:left;' |[San Antonio, TX (6874 Ingram Dr)]                 |
 | 1-81 #-2               | style='vertical-align:bottom; text-align:left;' |[Milwaukee, WI (7401 Good Hope Rd)]                |
 | 1-81 #-3               | style='vertical-align:bottom; text-align:left;' | [Metairie, LA (7000 Veterans Blvd)]               |
 | 1-81 #-4               | style='vertical-align:bottom; text-align:left;' |[Houston, TX (2220 FM 1960)]                       |

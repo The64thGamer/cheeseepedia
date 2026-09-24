@@ -1,0 +1,1 @@
+I Show My Personal Vintage Chuck E Cheese Collection!

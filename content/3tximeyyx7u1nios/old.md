@@ -1,4 +1,4 @@
-***3601 Silverside Rd*** was a *ShowBiz Pizza Place* that opened on March 3, 1983, with a [Classic Stage], and closed as a *Chuck E. Cheese's* on October 12, 2020. This location received [Concept Unification] in the early 1990's and replaced the 3-Stage with a [Circles of Light] from [San Antonio, TX (6874 Ingram Rd)] in 2017. This location reopened as a *Chuck E. Cheese* on October 2, 2022, with a [Chuck E Live Stage (Dance Floor)] + [Video Wall], which is still open to this day.
+***3601 Silverside Rd*** was a *ShowBiz Pizza Place* that opened on March 3, 1983, with a [Classic Stage], and closed as a *Chuck E. Cheese's* on October 12, 2020. This location received [Concept Unification] in the early 1990's and replaced the 3-Stage with a [Circles of Light] from [San Antonio, TX (6874 Ingram Dr)] in 2017. This location reopened as a *Chuck E. Cheese* on October 2, 2022, with a [Chuck E Live Stage (Dance Floor)] + [Video Wall], which is still open to this day.
 
 ## History
 
@@ -12,7 +12,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 |---------------------------------------------------------------------------------------------------|----------------|----------------|-----------------------------------------------------------------|
 | [Classic Stage]                                                           | February 1983  | 1991-92        | Only ShowBiz in Delaware                                        |
 | [Concept Unification Stage]                                               | 1991-92        | September 2017 | Only 3-Stage in Delaware until removal.                         |
-| [Circles of Light]                                                        | September 2017 | October 2020   | From [San Antonio, TX (6874 Ingram Rd)] |
+| [Circles of Light]                                                        | September 2017 | October 2020   | From [San Antonio, TX (6874 Ingram Dr)] |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | September 2022 | Still In Use   | 2021 Model. First 2.0 in Delaware.                              |
 
 ## Animatronics

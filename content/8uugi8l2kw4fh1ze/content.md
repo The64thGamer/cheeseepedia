@@ -1,1 +1,1 @@
-[[Artifact Shelves]] and updated showroom booths with planters.
+[Artifact Shelves] and updated showroom booths with planters.

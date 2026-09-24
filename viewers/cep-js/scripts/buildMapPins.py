@@ -1,12 +1,4 @@
 #!/usr/bin/env python3
-"""
-buildMapPins.py
-Scans content/ for Locations pages with latitudeLongitude and writes
-compiled-json/map_pins.json for the JS map viewer.
-
-cuDate is sourced from the remodels array entry where n == "Concept Unification".
-Falls back to 1992-01-01 if not found.
-"""
 import json, os, calendar, datetime
 from pathlib import Path
 
@@ -14,7 +6,23 @@ CONTENT_DIR = "content"
 OUT_DIR     = os.path.join(os.path.dirname(__file__), "..", "compiled-json")
 OUT_FILE    = os.path.join(OUT_DIR, "map_pins.json")
 
-CU_DEFAULT = "1992-01-01"
+REMODEL_PIN_MAP = {
+    "PTT Standard Layout": "ptt",
+    "SPP Standard Layout": "spp",
+    "Concept Unification": "cec",
+    "CEC 2.0 Remodel Program": "cec2",
+    "CEC 2000's Remodel Program": "cec2000s",
+    "SPT 1990's Remodel Program": "spt90s",
+    "Discovery Zone Standard Layout": "dz",
+    "Peter Piper Pizza 2.0 Remodel Program": "ppp2",
+    "Fun Spot Arcade Standard Layout": "funspotarcade",
+    "Charlie Cheese's Standard Layout": "charliecheese",
+    "CEC Adventure World Standard Layout": "cecadventureworld",
+    "Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園) Standard Layout": "chuckemouse",
+    "2025 Chuck's Arcade Remodel": "chucksarcade2025",
+}
+
+TRACKED_REMODELS = set(REMODEL_PIN_MAP.keys()) | {"SPT 1980's Remodel Program"}
 
 def normalize_date(s, kind="start"):
     if not s or not isinstance(s, str): return None
@@ -42,22 +50,42 @@ def normalize_date(s, kind="start"):
     except Exception:
         return None
 
-def find_cu_date(remodels):
-    """Scan remodels array for Concept Unification entry and return its normalized date."""
-    if not remodels or not isinstance(remodels, list):
-        return None
-    for item in remodels:
-        if not isinstance(item, dict): continue
-        if (item.get('n') or '').strip() == 'Concept Unification':
-            return normalize_date(item.get('s', ''), kind='cu')
-    return None
+def build_eras(remodels):
+    raw = []
+    if remodels and isinstance(remodels, list):
+        for item in remodels:
+            if not isinstance(item, dict): continue
+            name = (item.get('n') or '').strip()
+            if name not in TRACKED_REMODELS: continue
+            date = normalize_date(item.get('s', ''), kind='cu')
+            if not date: continue
+            raw.append({'n': name, 's': date})
+    raw.sort(key=lambda e: e['s'])
+
+    eras = []
+    last_ptt_spp = None
+    for item in raw:
+        name = item['n']
+        if name == "SPT 1980's Remodel Program":
+            if last_ptt_spp == 'ptt':
+                pin = 'spt80s_ptt'
+            elif last_ptt_spp == 'spp':
+                pin = 'spt80s_spp'
+            else:
+                pin = 'other'
+        else:
+            pin = REMODEL_PIN_MAP.get(name, 'other')
+            if pin in ('ptt', 'spp'):
+                last_ptt_spp = pin
+        eras.append({'s': item['s'], 'pin': pin})
+    return eras
 
 def main():
     folders = [f for f in Path(CONTENT_DIR).iterdir() if f.is_dir()]
     print(f"Scanning {len(folders)} folders...")
 
     locations = []
-    cu_from_remodels = 0
+    locations_with_eras = 0
 
     for folder in folders:
         mp = folder / 'meta.json'
@@ -80,27 +108,20 @@ def main():
         if abs(lat) < 1e-9 and abs(lon) < 1e-9:
             continue
 
-        tags = meta.get('tags') or []
-        if isinstance(tags, str): tags = [tags]
-
         start = normalize_date(meta.get('startDate', ''), 'start') or '1970-01-01'
         end   = normalize_date(meta.get('endDate', ''),   'end')   or '9999-12-31'
 
-        # Prefer Concept Unification date from remodels over cuDate field
-        cu = find_cu_date(meta.get('remodels'))
-        if cu:
-            cu_from_remodels += 1
-        else:
-            cu = normalize_date(meta.get('cuDate', ''), 'cu') or CU_DEFAULT
+        eras = build_eras(meta.get('remodels'))
+        if eras:
+            locations_with_eras += 1
 
         locations.append({
             'title':     meta.get('title', folder.name),
             'p':         folder.name,
-            'tags':      tags,
             'coords':    [lat, lon],
             'startDate': start,
             'endDate':   end,
-            'cuDate':    cu,
+            'eras':      eras,
         })
 
     os.makedirs(OUT_DIR, exist_ok=True)
@@ -108,7 +129,7 @@ def main():
         json.dumps({'locations': locations}, ensure_ascii=False, separators=(',', ':'))
     )
     print(f"map_pins.json — {len(locations)} locations written")
-    print(f"  cuDate from remodels: {cu_from_remodels}, from cuDate/default: {len(locations)-cu_from_remodels}")
+    print(f"  locations with tracked eras: {locations_with_eras}")
 
 def run(): main()
 if __name__ == '__main__': main()

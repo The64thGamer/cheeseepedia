@@ -1,1 +1,1 @@
-[[Studio C Beta]] Stage (May 2021)
+[Studio C Beta] Stage (May 2021)

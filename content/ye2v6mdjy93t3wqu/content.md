@@ -1,1 +1,1 @@
-Construction of [[Ninja Run]] courses (August 12, 2024)
+Construction of [Ninja Run] courses (August 12, 2024)

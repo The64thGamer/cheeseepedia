@@ -1,0 +1,1 @@
+The ***PTT Happy Birthday Napkins*** were a set of napkins given out at birthday parties at [Pizza Time Theatre] during an unknown period.

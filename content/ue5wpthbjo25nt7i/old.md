@@ -2,7 +2,7 @@
 
 ## Stages
 
-This location originally opened on March 24th, 1982, with the [Classic Stage] stage. Not much information is known about its stage when it was a ShowBiz Pizza Place, Around 1991/1992, this location underwent [Concept Unification], converting the stage into a Munch's Make-Believe Band stage. It would undergo a few changes over the years. One of the highlights of this stage which made it unique was that Pasqually's drum had a black background instead of the usual white color. On May 12th, 2013, after this store's closure, all 5 of the main bots were sent to the [San Antonio, TX (6874 Ingram Rd)] location before the stage was replaced with a Circle of Lights stage in 2014.
+This location originally opened on March 24th, 1982, with the [Classic Stage] stage. Not much information is known about its stage when it was a ShowBiz Pizza Place, Around 1991/1992, this location underwent [Concept Unification], converting the stage into a Munch's Make-Believe Band stage. It would undergo a few changes over the years. One of the highlights of this stage which made it unique was that Pasqually's drum had a black background instead of the usual white color. On May 12th, 2013, after this store's closure, all 5 of the main bots were sent to the [San Antonio, TX (6874 Ingram Dr)] location before the stage was replaced with a Circle of Lights stage in 2014.
 
 ## History
 
@@ -25,11 +25,11 @@ This location opened on March 24th, 1982, as a ShowBiz Pizza Place with the [Cla
 
 | Character                                                                 | Serial     | Status                                                                                                                                                     |
 |---------------------------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-81 1-12  | Sent to [San Antonio, TX (6874 Ingram Rd)], Status Unknown                                                                         |
-| [Dook Larue (Animatronic)]                        | 7-81 2-12  | Sent to [San Antonio, TX (6874 Ingram Rd)], Owned by a private collector                                                           |
-| [Fatz Geronimo (Animatronic)]                     | 7-81 3-12  | Sent to [San Antonio, TX (6874 Ingram Rd)], Status Unknown                                                                         |
-| [Beach Bear (Animatronic)]                        | 7-81 4-12  | Sent to [San Antonio, TX (6874 Ingram Rd)], Owned by a private collector                                                           |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-81 5-12  | Sent to [San Antonio, TX (6874 Ingram Rd)], Owned by a private collector                                                           |
+| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-81 1-12  | Sent to [San Antonio, TX (6874 Ingram Dr)], Status Unknown                                                                         |
+| [Dook Larue (Animatronic)]                        | 7-81 2-12  | Sent to [San Antonio, TX (6874 Ingram Dr)], Owned by a private collector                                                           |
+| [Fatz Geronimo (Animatronic)]                     | 7-81 3-12  | Sent to [San Antonio, TX (6874 Ingram Dr)], Status Unknown                                                                         |
+| [Beach Bear (Animatronic)]                        | 7-81 4-12  | Sent to [San Antonio, TX (6874 Ingram Dr)], Owned by a private collector                                                           |
+| [Mitzi Mozzarella (Animatronic)]                  | 7-81 5-12  | Sent to [San Antonio, TX (6874 Ingram Dr)], Owned by a private collector                                                           |
 | [Billy Bob (Animatronic)]                         | 7-81 6-12  | Unknown/Destroyed                                                                                                                                          |
 | [Looney Bird (Animatronic)]                       | 7-81 7-12  | Unknown                                                                                                                                                    |
 | [Choo Choo (Animatronic)]                         | 7-81 8-12  | Unknown                                                                                                                                                    |

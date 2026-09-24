@@ -1,1 +1,1 @@
-Prop Characters ([[Wink]], Unknown location)
+Prop Characters ([Wink], Unknown location)

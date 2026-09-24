@@ -1,1 +1,1 @@
-The store's [[Cyberamics]] in 1980.
+The store's [Cyberamics] in 1980.

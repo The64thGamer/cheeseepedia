@@ -1,0 +1,1 @@
+The ***PTT Happy Birthday Paper Plate*** were a set of plates given out at birthday parties at [Pizza Time Theatre] during an unknown period.

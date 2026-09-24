@@ -55,4 +55,4 @@ Three stores in Ohio did not get ads until July 30th but still continued on to A
 
 [Myrtle Beach, SC (615 Lake Arrowhead Rd)] is known to have kept Klunk's camera prop after switching back to Rolfe. However, it is unknown which wave they installed Klunk at.[18]
 [Fargo, ND (1202 Nodak Dr)] has testimony from its General Manager that Klunk was brought in and later used as a Santa.
-[[Note: Citations on this page are scrambled and need to be reassigned]]
+[Note: Citations on this page are scrambled and need to be reassigned]

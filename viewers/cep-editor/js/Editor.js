@@ -526,13 +526,13 @@ function buildDateField(container, value, onChange) {
   const [y, m, d] = (isPresent ? '0000-00-00' : (value || '0000-00-00')).split('-');
   const currentYear = new Date().getFullYear();
 
-  const years = [['PRESENT', 'Present'], ['0000', 'Unknown']];
+  const years = ['PRESENT', 'Present'], ['0000', 'Unknown'];
   for (let yr = 1900; yr <= currentYear + 1; yr++) years.push([String(yr), yr]);
 
-  const months = [['00', 'Unknown']];
+  const months = ['00', 'Unknown'];
   MONTHS.forEach((name, i) => months.push([String(i + 1).padStart(2, '0'), name]));
 
-  const days = [['00', 'Unknown']];
+  const days = ['00', 'Unknown'];
   for (let dd = 1; dd <= 31; dd++) days.push([String(dd).padStart(2, '0'), dd]);
 
   const yearSel = makeSelect(years, isPresent ? 'PRESENT' : y);
