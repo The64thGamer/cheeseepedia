@@ -2,7 +2,7 @@
 
 ## History
 
-Charlotte opened with either Harmony Howlette or Madame Oink as their guest star. Charlotte would later get Helen Henny, who stayed until Charlotte permanently closed. This was one of two Pizza Time Theatres in the Carolinas, the other being in [Raleigh, NC (4339 Falls of Neuse Rd)]. After Charlotte closed in October 1984, the store was auctioned off like most PTTs. The building it was located in was reoccupied by an unknown tenant; the building was then demolished for a highway expansion sometime in 2002. As of June 2023, the highway expansion still sits on the site of the plot of land where the PTT once sat.
+Charlotte opened with either Harmony Howlette or Madame Oink as their guest star. Charlotte would later get Helen Henny, who stayed until Charlotte permanently closed. This was one of two Pizza Time Theatres in the Carolinas, the other being in [Raleigh, NC (4339 Falls of the Neuse Rd)]. After Charlotte closed in October 1984, the store was auctioned off like most PTTs. The building it was located in was reoccupied by an unknown tenant; the building was then demolished for a highway expansion sometime in 2002. As of June 2023, the highway expansion still sits on the site of the plot of land where the PTT once sat.
 
 ## Stages
 

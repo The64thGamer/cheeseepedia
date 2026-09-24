@@ -4,15 +4,42 @@
   "startDate": "1980-05-22",
   "citations": [
     "https://pacman.com/en/history",
-    "https://www.worldradiohistory.com/Archive-All-Music/Cash-Box/80s/1980/CB-1980-11-22.pdf",
-    "https://pacman.holenet.info/#Chapter_4"
+    "https://en.wikipedia.org/wiki/Pac-Man"
   ],
   "tags": [
     "Pizza Time Theatre",
-    "ShowBiz Pizza Place"
+    "ShowBiz Pizza Place",
+    "Pac-Man"
   ],
-  "credits": [],
+  "credits": [
+    {
+      "role": "artist",
+      "n": "Hiroshi Ono"
+    },
+    {
+      "role": "composer",
+      "n": "Toshio Kai"
+    },
+    {
+      "role": "composer, programmer",
+      "n": "Shigeo Funaki"
+    },
+    {
+      "role": "designer",
+      "n": "T\u014dru Iwatani"
+    },
+    {
+      "role": "programmer",
+      "n": "Shigeichi Ishimura"
+    }
+  ],
   "contributors": [
-    "Front-Row-Joe"
-  ]
+    "Front-Row-Joe",
+    "ThatRockHistorian76"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "type": "Video Games"
 }

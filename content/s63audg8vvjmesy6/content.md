@@ -1,0 +1,1 @@
+The original Jasper T. Jowl's General Store sign
