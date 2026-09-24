@@ -4,6 +4,17 @@
   "tags": [
     "Pizza Time Theatre"
   ],
+  "latitudeLongitude": [
+    "28.0544127",
+    "-82.4332177"
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-05-05",
+      "e": "1983-00-00"
+    }
+  ],
   "sqft":"12,000",
   "pageThumbnailFile": "",
   "startDate": "1981-05-05",
