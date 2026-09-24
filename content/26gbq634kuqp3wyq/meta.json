@@ -1,122 +1,127 @@
 {
-  "title": "West Seneca, NY (3525 Seneca St)",
-  "storeNumber": "",
-  "startDate": "1983-04-01",
-  "endDate": "1988-00-00",
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Classic Stage",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "42.8295349",
-    "-78.7724935"
-  ],
-  "citations": [
-    "https://www.newspapers.com/article/the-buffalo-news-showbiz-pizza-place-ope/120690950/",
-    "https://www.newspapers.com/article/the-buffalo-news/149344838",
-    "https://www.newspapers.com/image/876576409/?clipping_id=133277549&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg3NjU3NjQwOSwiaWF0IjoxNjk3MDUxNzY2LCJleHAiOjE2OTcxMzgxNjZ9.IkeaTHC2_3s6_5567vQj5M1sZfOTg42pjzEoIb6UM54",
-    "https://www.newspapers.com/article/the-buffalo-news-amherst-and-west-seneca/110850841"
-  ],
-  "contributors": [
-    "ThatRockHistorian76"
-  ],
-  "downloadLinks": [],
-  "pageThumbnailFile": "mroxsji0p5rlgo31",
-  "type": "Locations",
-  "tags": [
-    "ShowBiz Pizza Place"
-  ],
-  "animatronics": [
-    {
-      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Dook Larue (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Fatz Geronimo (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Beach Bear (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Mitzi Mozzarella (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Billy Bob (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Looney Bird (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Sun (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Moon (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Choo Choo (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Antioch (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "1983-04-01",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Uncle Klunk (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "0000-00-00",
-      "e": "1985-00-00"
-    }
-  ]
+    "title": "West Seneca, NY (3525 Seneca St)",
+    "storeNumber": "",
+    "startDate": "1983-04-01",
+    "endDate": "1988-00-00",
+    "remodels": [
+        {
+            "n": "SPP Standard Layout",
+            "s": "1983-04-01"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Classic Stage",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "42.8295349",
+        "-78.7724935"
+    ],
+    "citations": [
+        "https://www.newspapers.com/article/the-buffalo-news-showbiz-pizza-place-ope/120690950/",
+        "https://www.newspapers.com/article/the-buffalo-news/149344838",
+        "https://www.newspapers.com/image/876576409/?clipping_id=133277549&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg3NjU3NjQwOSwiaWF0IjoxNjk3MDUxNzY2LCJleHAiOjE2OTcxMzgxNjZ9.IkeaTHC2_3s6_5567vQj5M1sZfOTg42pjzEoIb6UM54",
+        "https://www.newspapers.com/article/the-buffalo-news-amherst-and-west-seneca/110850841"
+    ],
+    "contributors": [
+        "ThatRockHistorian76"
+    ],
+    "downloadLinks": [],
+    "pageThumbnailFile": "mroxsji0p5rlgo31",
+    "type": "Locations",
+    "tags": [
+        "ShowBiz Pizza Place"
+    ],
+    "animatronics": [
+        {
+            "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Dook Larue (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Fatz Geronimo (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Beach Bear (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Mitzi Mozzarella (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Billy Bob (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Looney Bird (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Sun (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Moon (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Choo Choo (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Antioch (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "1983-04-01",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Uncle Klunk (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "0000-00-00",
+            "e": "1985-00-00"
+        }
+    ]
 }

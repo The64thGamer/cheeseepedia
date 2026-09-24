@@ -1,43 +1,48 @@
 {
-  "title": "Colonie, NY (1440 Central Ave)",
-  "storeNumber": "",
-  "startDate": "1982-12-27",
-  "endDate": "1995-09-10",
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1982-12-27",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "2-Stage",
-      "s": "0000-00-00",
-      "e": "1995-09-10"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "42.70342992",
-    "-73.83162073"
-  ],
-  "citations": [],
-  "contributors": [
-    "ThatRockHistorian76",
-    "HeyItzGabriel"
-  ],
-  "downloadLinks": [],
-  "pageThumbnailFile": "ah27oe3h23avcfoa",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre",
-    "Chuck E. Cheese's"
-  ]
+    "title": "Colonie, NY (1440 Central Ave)",
+    "storeNumber": "",
+    "startDate": "1982-12-27",
+    "endDate": "1995-09-10",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1982-12-27"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1982-12-27",
+            "e": "0000-00-00"
+        },
+        {
+            "n": "Chuck E.'s House Facade",
+            "s": "0000-00-00",
+            "e": "0000-00-00"
+        },
+        {
+            "n": "2-Stage",
+            "s": "0000-00-00",
+            "e": "1995-09-10"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "42.70342992",
+        "-73.83162073"
+    ],
+    "citations": [],
+    "contributors": [
+        "ThatRockHistorian76",
+        "HeyItzGabriel"
+    ],
+    "downloadLinks": [],
+    "pageThumbnailFile": "ah27oe3h23avcfoa",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre",
+        "Chuck E. Cheese's"
+    ]
 }

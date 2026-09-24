@@ -1,30 +1,34 @@
 {
-  "title": "Cullman, AL (210 2nd Ave)",
-  "storeNumber": "",
-  "startDate": "1983-06-01",
-  "endDate": "1986-04-00",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Classic Stage",
-      "s": "1983-06-01",
-      "e": "1986-04-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "34.1771547",
-    "-86.8415109"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "ShowBiz Pizza Place"
-  ]
+    "title": "Cullman, AL (210 2nd Ave)",
+    "storeNumber": "",
+    "startDate": "1983-06-01",
+    "endDate": "1986-04-00",
+    "remodels": [
+        {
+            "n": "SPP Standard Layout",
+            "s": "1983-06-01"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Classic Stage",
+            "s": "1983-06-01",
+            "e": "1986-04-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "34.1771547",
+        "-86.8415109"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "ShowBiz Pizza Place"
+    ]
 }

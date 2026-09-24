@@ -1,41 +1,46 @@
 {
-  "title": "Sun Valley, CA (8357 Laurel Canyon Blvd)",
-  "storeNumber": "",
-  "startDate": "1980-07-07",
-  "endDate": "1992-00-00",
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Portrait Stage",
-      "s": "1980-07-07",
-      "e": "1981-00-00"
-    },
-    {
-      "n": "Balcony Stage",
-      "s": "1981-00-00",
-      "e": "1989-00-00"
-    },
-    {
-      "n": "Chuck E.'s House Facade",
-      "s": "1989-00-00",
-      "e": "1992-07-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "34.22203132",
-    "-118.3997938"
-  ],
-  "citations": [],
-  "contributors": [
-    "CECR995"
-  ],
-  "downloadLinks": [],
-  "pageThumbnailFile": "a9Aso1eJdg7DvIk0zuzr.avif",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre"
-  ]
+    "title": "Sun Valley, CA (8357 Laurel Canyon Blvd)",
+    "storeNumber": "",
+    "startDate": "1980-07-07",
+    "endDate": "1992-00-00",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1981-00-00"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Portrait Stage",
+            "s": "1980-07-07",
+            "e": "1981-00-00"
+        },
+        {
+            "n": "Balcony Stage",
+            "s": "1981-00-00",
+            "e": "1989-00-00"
+        },
+        {
+            "n": "Chuck E.'s House Facade",
+            "s": "1989-00-00",
+            "e": "1992-07-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "34.22203132",
+        "-118.3997938"
+    ],
+    "citations": [],
+    "contributors": [
+        "CECR995"
+    ],
+    "downloadLinks": [],
+    "pageThumbnailFile": "a9Aso1eJdg7DvIk0zuzr.avif",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre"
+    ]
 }

@@ -1,125 +1,130 @@
 {
-  "title": "Amherst, NY (1551 Niagara Falls Blvd)",
-  "storeNumber": "",
-  "startDate": "1983-03-15",
-  "endDate": "1988-00-00",
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Classic Stage",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    }
-  ],
-  "franchisees": [
-    {
-      "n": "Family Restaurant Concepts, Inc.",
-      "s": "1983-03-15",
-      "e": "0000-00-00"
-    }
-  ],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "42.9970045",
-    "-78.8213181"
-  ],
-  "citations": [
-    "https://www.newspapers.com/article/the-buffalo-news-amherst-is-march-15th/110759056",
-    "https://www.newspapers.com/article/the-buffalo-news-talking-billy-bob/164192980",
-    "https://www.newspapers.com/article/the-buffalo-news/149344838",
-    "https://www.newspapers.com/image/876576409/?clipping_id=133277549&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg3NjU3NjQwOSwiaWF0IjoxNjk3MDUxNzY2LCJleHAiOjE2OTcxMzgxNjZ9.IkeaTHC2_3s6_5567vQj5M1sZfOTg42pjzEoIb6UM54",
-    "https://www.newspapers.com/article/the-buffalo-news-amherst-and-west-seneca/110850841",
-    "https://www.facebook.com/majormagic/videos/heres-major-magics-in-amherst-ny-1990/10153269829364841/"
-  ],
-  "contributors": [
-    "ThatRockHistorian76"
-  ],
-  "downloadLinks": [],
-  "pageThumbnailFile": "w74drisojbspjyhi",
-  "type": "Locations",
-  "tags": [
-    "ShowBiz Pizza Place",
-    "Classic Stage",
-    "Major Magic's All-Star Pizza Revue"
-  ],
-  "animatronics": [
-    {
-      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
-      "desc": "",
-      "l": "7-82 1-23",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Dook Larue (Animatronic)",
-      "desc": "",
-      "l": "7-82 2-23",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Fatz Geronimo (Animatronic)",
-      "desc": "",
-      "l": "7-82 3-23",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Beach Bear (Animatronic)",
-      "desc": "",
-      "l": "7-82 4-23",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Mitzi Mozzarella (Animatronic)",
-      "desc": "",
-      "l": "7-82 5-23",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Billy Bob (Animatronic)",
-      "desc": "",
-      "l": "7-82 6-23",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Looney Bird (Animatronic)",
-      "desc": "",
-      "l": "7-82 7-23",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Choo Choo (Animatronic)",
-      "desc": "",
-      "l": "7-82 8-23",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Sun (Animatronic)",
-      "desc": "",
-      "l": "7-82 10-23",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Moon (Animatronic)",
-      "desc": "",
-      "l": "7-82 11-23",
-      "s": "1983-03-15",
-      "e": "1988-00-00"
-    },
-    {
-      "n": "Uncle Klunk (Animatronic)",
-      "desc": "",
-      "l": "",
-      "s": "0000-00-00",
-      "e": "1985-00-00"
-    }
-  ]
+    "title": "Amherst, NY (1551 Niagara Falls Blvd)",
+    "storeNumber": "",
+    "startDate": "1983-03-15",
+    "endDate": "1988-00-00",
+    "remodels": [
+        {
+            "n": "SPP Standard Layout",
+            "s": "1983-03-15"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Classic Stage",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        }
+    ],
+    "franchisees": [
+        {
+            "n": "Family Restaurant Concepts, Inc.",
+            "s": "1983-03-15",
+            "e": "0000-00-00"
+        }
+    ],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "42.9970045",
+        "-78.8213181"
+    ],
+    "citations": [
+        "https://www.newspapers.com/article/the-buffalo-news-amherst-is-march-15th/110759056",
+        "https://www.newspapers.com/article/the-buffalo-news-talking-billy-bob/164192980",
+        "https://www.newspapers.com/article/the-buffalo-news/149344838",
+        "https://www.newspapers.com/image/876576409/?clipping_id=133277549&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjg3NjU3NjQwOSwiaWF0IjoxNjk3MDUxNzY2LCJleHAiOjE2OTcxMzgxNjZ9.IkeaTHC2_3s6_5567vQj5M1sZfOTg42pjzEoIb6UM54",
+        "https://www.newspapers.com/article/the-buffalo-news-amherst-and-west-seneca/110850841",
+        "https://www.facebook.com/majormagic/videos/heres-major-magics-in-amherst-ny-1990/10153269829364841/"
+    ],
+    "contributors": [
+        "ThatRockHistorian76"
+    ],
+    "downloadLinks": [],
+    "pageThumbnailFile": "w74drisojbspjyhi",
+    "type": "Locations",
+    "tags": [
+        "ShowBiz Pizza Place",
+        "Classic Stage",
+        "Major Magic's All-Star Pizza Revue"
+    ],
+    "animatronics": [
+        {
+            "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+            "desc": "",
+            "l": "7-82 1-23",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Dook Larue (Animatronic)",
+            "desc": "",
+            "l": "7-82 2-23",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Fatz Geronimo (Animatronic)",
+            "desc": "",
+            "l": "7-82 3-23",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Beach Bear (Animatronic)",
+            "desc": "",
+            "l": "7-82 4-23",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Mitzi Mozzarella (Animatronic)",
+            "desc": "",
+            "l": "7-82 5-23",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Billy Bob (Animatronic)",
+            "desc": "",
+            "l": "7-82 6-23",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Looney Bird (Animatronic)",
+            "desc": "",
+            "l": "7-82 7-23",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Choo Choo (Animatronic)",
+            "desc": "",
+            "l": "7-82 8-23",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Sun (Animatronic)",
+            "desc": "",
+            "l": "7-82 10-23",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Moon (Animatronic)",
+            "desc": "",
+            "l": "7-82 11-23",
+            "s": "1983-03-15",
+            "e": "1988-00-00"
+        },
+        {
+            "n": "Uncle Klunk (Animatronic)",
+            "desc": "",
+            "l": "",
+            "s": "0000-00-00",
+            "e": "1985-00-00"
+        }
+    ]
 }

@@ -1,31 +1,35 @@
 {
-  "title": "Dallas, TX (8021 Walnut Hill Lane)",
-  "storeNumber": "",
-  "startDate": "1981-12-00",
-  "endDate": "0000-00-00",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1981-12-00",
-      "e": "1983-00-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "32.7755679",
-    "-96.7955954"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre",
-    "Zapp's Bar & Grill"
-  ]
+    "title": "Dallas, TX (8021 Walnut Hill Lane)",
+    "storeNumber": "",
+    "startDate": "1981-12-00",
+    "endDate": "0000-00-00",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1981-12-00"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1981-12-00",
+            "e": "1983-00-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "32.7755679",
+        "-96.7955954"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre",
+        "Zapp's Bar & Grill"
+    ]
 }

@@ -1,36 +1,41 @@
 {
-  "title": "Riverside, CA (4033 Chicago Ave)",
-  "storeNumber": "",
-  "startDate": "1982-02-00",
-  "endDate": "1996-04-00",
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1981-00-00",
-      "e": "1989-00-00"
-    },
-    {
-      "n": "Chuck E.'s House Facade",
-      "s": "1989-00-00",
-      "e": "1996-04-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "33.97181327",
-    "-117.3505469"
-  ],
-  "citations": [],
-  "contributors": [
-    "HeyItzGabriel"
-  ],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre"
-  ]
+    "title": "Riverside, CA (4033 Chicago Ave)",
+    "storeNumber": "",
+    "startDate": "1982-02-00",
+    "endDate": "1996-04-00",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1981-00-00"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1981-00-00",
+            "e": "1989-00-00"
+        },
+        {
+            "n": "Chuck E.'s House Facade",
+            "s": "1989-00-00",
+            "e": "1996-04-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "33.97181327",
+        "-117.3505469"
+    ],
+    "citations": [],
+    "contributors": [
+        "HeyItzGabriel"
+    ],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre"
+    ]
 }

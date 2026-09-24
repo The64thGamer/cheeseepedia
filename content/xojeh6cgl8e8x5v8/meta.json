@@ -1,30 +1,34 @@
 {
-  "title": "Lynnwood, WA (3815 196th St)",
-  "storeNumber": "",
-  "startDate": "1982-10-01",
-  "endDate": "1986-00-00",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Classic Stage",
-      "s": "1982-10-01",
-      "e": "1986-00-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "47.8221428",
-    "-122.2848444"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "ShowBiz Pizza Place"
-  ]
+    "title": "Lynnwood, WA (3815 196th St)",
+    "storeNumber": "",
+    "startDate": "1982-10-01",
+    "endDate": "1986-00-00",
+    "remodels": [
+        {
+            "n": "SPP Standard Layout",
+            "s": "1982-10-01"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Classic Stage",
+            "s": "1982-10-01",
+            "e": "1986-00-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "47.8221428",
+        "-122.2848444"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "ShowBiz Pizza Place"
+    ]
 }

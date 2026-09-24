@@ -1,30 +1,34 @@
 {
-  "title": "Metairie, LA (1845 Airline Hwy)",
-  "storeNumber": "",
-  "startDate": "1982-10-00",
-  "endDate": "1986-00-00",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1982-10-00",
-      "e": "1986-00-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "0",
-    "0"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre"
-  ]
+    "title": "Metairie, LA (1845 Airline Hwy)",
+    "storeNumber": "",
+    "startDate": "1982-10-00",
+    "endDate": "1986-00-00",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1982-10-00"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1982-10-00",
+            "e": "1986-00-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "0",
+        "0"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre"
+    ]
 }

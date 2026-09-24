@@ -1,58 +1,62 @@
 {
-  "title": "Chico, CA (966 East Ave)",
-  "storeNumber": "",
-  "startDate": "1982-07-00",
-  "endDate": "2011-01-11",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1982-07-00",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "Chuck E.'s House Facade",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "2-Stage",
-      "s": "0000-00-00",
-      "e": "2011-01-00",
-      "desc": "One of many installed in California."
-    }
-  ],
-  "franchisees": [],
-  "attractions": [
-    {
-      "n": "Chuck E. Cheese's Circus",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "desc": "Was stripped of CEC branding at one point."
-    },
-    {
-      "n": "Fantasy Forest",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "Wheel of Fortune (ICE redemption game)",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
-    }
-  ],
-  "sqft": "",
-  "latitudeLongitude": [
-    "39.76008477",
-    "-121.8430586"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "kaY8UrgSIgTiG23eJCud.avif",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre"
-  ]
+    "title": "Chico, CA (966 East Ave)",
+    "storeNumber": "",
+    "startDate": "1982-07-00",
+    "endDate": "2011-01-11",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1982-07-00"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1982-07-00",
+            "e": "0000-00-00"
+        },
+        {
+            "n": "Chuck E.'s House Facade",
+            "s": "0000-00-00",
+            "e": "0000-00-00"
+        },
+        {
+            "n": "2-Stage",
+            "s": "0000-00-00",
+            "e": "2011-01-00",
+            "desc": "One of many installed in California."
+        }
+    ],
+    "franchisees": [],
+    "attractions": [
+        {
+            "n": "Chuck E. Cheese's Circus",
+            "s": "0000-00-00",
+            "e": "0000-00-00",
+            "desc": "Was stripped of CEC branding at one point."
+        },
+        {
+            "n": "Fantasy Forest",
+            "s": "0000-00-00",
+            "e": "0000-00-00"
+        },
+        {
+            "n": "Wheel of Fortune (ICE redemption game)",
+            "s": "0000-00-00",
+            "e": "0000-00-00"
+        }
+    ],
+    "sqft": "",
+    "latitudeLongitude": [
+        "39.76008477",
+        "-121.8430586"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "kaY8UrgSIgTiG23eJCud.avif",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre"
+    ]
 }

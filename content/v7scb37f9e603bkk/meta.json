@@ -1,30 +1,34 @@
 {
-  "title": "Pompano Beach, FL (4601 N Federal Hwy)",
-  "storeNumber": "",
-  "startDate": "1982-09-00",
-  "endDate": "1984-02-19",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1982-09-00",
-      "e": "1984-02-19"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "26.2098211",
-    "-80.1073511"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre"
-  ]
+    "title": "Pompano Beach, FL (4601 N Federal Hwy)",
+    "storeNumber": "",
+    "startDate": "1982-09-00",
+    "endDate": "1984-02-19",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1982-09-00"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1982-09-00",
+            "e": "1984-02-19"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "26.2098211",
+        "-80.1073511"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre"
+    ]
 }

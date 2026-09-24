@@ -1,30 +1,34 @@
 {
-  "title": "Pearl City, HI (98-1258 Kaahumanu St)",
-  "storeNumber": "",
-  "startDate": "1982-08-07",
-  "endDate": "1989-00-00",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1982-08-07",
-      "e": "1989-00-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "21.38812992",
-    "-157.9555308"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre"
-  ]
+    "title": "Pearl City, HI (98-1258 Kaahumanu St)",
+    "storeNumber": "",
+    "startDate": "1982-08-07",
+    "endDate": "1989-00-00",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1982-08-07"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1982-08-07",
+            "e": "1989-00-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "21.38812992",
+        "-157.9555308"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre"
+    ]
 }

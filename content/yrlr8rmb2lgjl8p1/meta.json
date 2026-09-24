@@ -1,30 +1,34 @@
 {
-  "title": "Seef Mall, Bahrain",
-  "storeNumber": "",
-  "startDate": "2021-10-30",
-  "endDate": "2023-12-02",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2021-10-30",
-      "e": "2023-12-02"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "26.23135892",
-    "50.53512427"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Seef Mall, Bahrain",
+    "storeNumber": "",
+    "startDate": "2021-10-30",
+    "endDate": "2023-12-02",
+    "remodels": [
+        {
+            "n": "CEC 2.0 Remodel Program",
+            "s": "2021-10-30"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Chuck E. Live Stage (Dance Floor)",
+            "s": "2021-10-30",
+            "e": "2023-12-02"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "26.23135892",
+        "50.53512427"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

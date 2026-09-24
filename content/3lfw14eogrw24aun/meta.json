@@ -1,43 +1,47 @@
 {
-  "title": "Reno, NV (651 E Moana Lane)",
-  "storeNumber": "",
-  "startDate": "1982-12-00",
-  "endDate": "1986-00-00",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1982-12-00",
-      "e": "1983-00-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [
-    {
-      "n": "Video Jukebox",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "desc": "Mentioned in November of 1984."
-    }
-  ],
-  "sqft": "",
-  "latitudeLongitude": [
-    "39.49228977",
-    "-119.7896316"
-  ],
-  "citations": [
-    "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-grand-o/201604204/",
-    "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-opening/201604189/",
-    "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-comedy/201604249/",
-    "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-closed/201604291/",
-    "Lost citation from an older version of the page."
+    "title": "Reno, NV (651 E Moana Lane)",
+    "storeNumber": "",
+    "startDate": "1982-12-00",
+    "endDate": "1986-00-00",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1982-12-00"
+        }
     ],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "00MuNtasmcP53SY4y8uA.avif",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre"
-  ]
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1982-12-00",
+            "e": "1983-00-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [
+        {
+            "n": "Video Jukebox",
+            "s": "0000-00-00",
+            "e": "0000-00-00",
+            "desc": "Mentioned in November of 1984."
+        }
+    ],
+    "sqft": "",
+    "latitudeLongitude": [
+        "39.49228977",
+        "-119.7896316"
+    ],
+    "citations": [
+        "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-grand-o/201604204/",
+        "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-opening/201604189/",
+        "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-comedy/201604249/",
+        "https://www.newspapers.com/article/reno-gazette-journal-zapps-reno-closed/201604291/",
+        "Lost citation from an older version of the page."
+    ],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "00MuNtasmcP53SY4y8uA.avif",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre"
+    ]
 }

@@ -1,55 +1,60 @@
 {
-  "title": "Edison, NJ (1120 Route 1)",
-  "storeNumber": "",
-  "startDate": "1993-09-20",
-  "endDate": "",
-  "remodels": [],
-  "stages": [
-    {
-      "n": "1-Stage",
-      "s": "1993-09-20",
-      "e": "2022-10-04"
-    },
-    {
-      "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2022-10-04",
-      "desc": "2021 Model"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [
-    {
-      "n": "SkyTubes",
-      "s": "1994-00-00",
-      "e": "0000-00-00",
-      "desc": "Phase 1 (1994) -era. Seen in a 1994 store tour."
-    },
-    {
-      "n": "Chuck E. Cheese's Memory Match",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "desc": "Seen in a 1994 store tour."
-    },
-    {
-      "n": "Super Kixx",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "desc": "Seen in a 1994 store tour."
-    }
-  ],
-  "sqft": "",
-  "latitudeLongitude": [
-    "40.51850932",
-    "-74.36560448"
-  ],
-  "citations": [],
-  "contributors": [
-    "Front-Row-Joe"
-  ],
-  "downloadLinks": [],
-  "pageThumbnailFile": "YMpY8rVBuQi8juU8UCVr.avif",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Edison, NJ (1120 Route 1)",
+    "storeNumber": "",
+    "startDate": "1993-09-20",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2.0 Remodel Program",
+            "s": "2022-10-04"
+        }
+    ],
+    "stages": [
+        {
+            "n": "1-Stage",
+            "s": "1993-09-20",
+            "e": "2022-10-04"
+        },
+        {
+            "n": "Chuck E. Live Stage (Dance Floor)",
+            "s": "2022-10-04",
+            "desc": "2021 Model"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [
+        {
+            "n": "SkyTubes",
+            "s": "1994-00-00",
+            "e": "0000-00-00",
+            "desc": "Phase 1 (1994) -era. Seen in a 1994 store tour."
+        },
+        {
+            "n": "Chuck E. Cheese's Memory Match",
+            "s": "0000-00-00",
+            "e": "0000-00-00",
+            "desc": "Seen in a 1994 store tour."
+        },
+        {
+            "n": "Super Kixx",
+            "s": "0000-00-00",
+            "e": "0000-00-00",
+            "desc": "Seen in a 1994 store tour."
+        }
+    ],
+    "sqft": "",
+    "latitudeLongitude": [
+        "40.51850932",
+        "-74.36560448"
+    ],
+    "citations": [],
+    "contributors": [
+        "Front-Row-Joe"
+    ],
+    "downloadLinks": [],
+    "pageThumbnailFile": "YMpY8rVBuQi8juU8UCVr.avif",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

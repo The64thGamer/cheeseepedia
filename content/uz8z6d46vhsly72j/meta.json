@@ -1,30 +1,34 @@
 {
-  "title": "Jackson, MI (1050 W Argyle St)",
-  "storeNumber": "",
-  "startDate": "1982-11-23",
-  "endDate": "1986-00-00",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Classic Stage",
-      "s": "1982-11-23",
-      "e": "1986-00-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "42.2634451",
-    "-84.4260237"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "ShowBiz Pizza Place"
-  ]
+    "title": "Jackson, MI (1050 W Argyle St)",
+    "storeNumber": "",
+    "startDate": "1982-11-23",
+    "endDate": "1986-00-00",
+    "remodels": [
+        {
+            "n": "SPP Standard Layout",
+            "s": "1982-11-23"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Classic Stage",
+            "s": "1982-11-23",
+            "e": "1986-00-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "42.2634451",
+        "-84.4260237"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "ShowBiz Pizza Place"
+    ]
 }

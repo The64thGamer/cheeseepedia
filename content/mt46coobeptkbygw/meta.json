@@ -1,37 +1,42 @@
 {
-  "title": "White Settlement, TX (7750 Scott St)",
-  "storeNumber": "",
-  "startDate": "1982-12-29",
-  "endDate": "2020-06-25",
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Classic Stage",
-      "s": "1982-12-29",
-      "e": "1985-00-00"
-    },
-    {
-      "n": "Chuck E.'s House",
-      "desc": "",
-      "s": "1987-08-06",
-      "e": "2020-06-25"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "32.73987237",
-    "-97.45031443"
-  ],
-  "citations": [],
-  "contributors": [
-    "CMFYT"
-  ],
-  "downloadLinks": [],
-  "pageThumbnailFile": "pNNRyC2kaWMOWqsCbjzE.avif",
-  "type": "Locations",
-  "tags": [
-    "ShowBiz Pizza Place"
-  ]
+    "title": "White Settlement, TX (7750 Scott St)",
+    "storeNumber": "",
+    "startDate": "1982-12-29",
+    "endDate": "2020-06-25",
+    "remodels": [
+        {
+            "n": "SPP Standard Layout",
+            "s": "1982-12-29"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Classic Stage",
+            "s": "1982-12-29",
+            "e": "1985-00-00"
+        },
+        {
+            "n": "Chuck E.'s House",
+            "desc": "",
+            "s": "1987-08-06",
+            "e": "2020-06-25"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "32.73987237",
+        "-97.45031443"
+    ],
+    "citations": [],
+    "contributors": [
+        "CMFYT"
+    ],
+    "downloadLinks": [],
+    "pageThumbnailFile": "pNNRyC2kaWMOWqsCbjzE.avif",
+    "type": "Locations",
+    "tags": [
+        "ShowBiz Pizza Place"
+    ]
 }

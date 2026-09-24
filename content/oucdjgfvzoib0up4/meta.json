@@ -1,30 +1,34 @@
 {
-  "title": "Bloomington, MN (7989 Southtown Dr)",
-  "storeNumber": "",
-  "startDate": "1981-10-20",
-  "endDate": "1985-12-00",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Classic Stage",
-      "s": "1981-10-20",
-      "e": "1985-12-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "44.8596068",
-    "-93.3244656"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "ShowBiz Pizza Place"
-  ]
+    "title": "Bloomington, MN (7989 Southtown Dr)",
+    "storeNumber": "",
+    "startDate": "1981-10-20",
+    "endDate": "1985-12-00",
+    "remodels": [
+        {
+            "n": "SPP Standard Layout",
+            "s": "1981-10-20"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Classic Stage",
+            "s": "1981-10-20",
+            "e": "1985-12-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "44.8596068",
+        "-93.3244656"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "ShowBiz Pizza Place"
+    ]
 }

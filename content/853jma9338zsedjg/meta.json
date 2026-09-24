@@ -1,30 +1,34 @@
 {
-  "title": "Albuquerque, NM (11016 Montgomery Blvd)",
-  "storeNumber": "",
-  "startDate": "1982-12-30",
-  "endDate": "1986-03-00",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Classic Stage",
-      "s": "1982-12-30",
-      "e": "1986-03-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "35.1297933",
-    "-106.4890257"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "ShowBiz Pizza Place"
-  ]
+    "title": "Albuquerque, NM (11016 Montgomery Blvd)",
+    "storeNumber": "",
+    "startDate": "1982-12-30",
+    "endDate": "1986-03-00",
+    "remodels": [
+        {
+            "n": "SPP Standard Layout",
+            "s": "1982-12-30"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Classic Stage",
+            "s": "1982-12-30",
+            "e": "1986-03-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "35.1297933",
+        "-106.4890257"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "ShowBiz Pizza Place"
+    ]
 }

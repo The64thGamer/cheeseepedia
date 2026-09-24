@@ -1,30 +1,34 @@
 {
-  "title": "McAllen, TX (2700 N 10th St)",
-  "storeNumber": "",
-  "startDate": "1982-12-00",
-  "endDate": "1984-11-14",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1982-12-00",
-      "e": "1984-11-14"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "26.2274749",
-    "-98.2258493"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre"
-  ]
+    "title": "McAllen, TX (2700 N 10th St)",
+    "storeNumber": "",
+    "startDate": "1982-12-00",
+    "endDate": "1984-11-14",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1982-12-00"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1982-12-00",
+            "e": "1984-11-14"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "26.2274749",
+        "-98.2258493"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre"
+    ]
 }

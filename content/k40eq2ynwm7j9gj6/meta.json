@@ -1,35 +1,39 @@
 {
-  "title": "East Hanover, NJ (145 Route 10)",
-  "storeNumber": "",
-  "startDate": "1994-10-31",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "1-Stage",
-      "s": "1994-10-31",
-      "e": "2022-10-00"
-    },
-    {
-      "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2022-10-00",
-      "desc": "2021 Model"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "40.80761202",
-    "-74.38357373"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "YQ6nLxe7DBZXs8xRH7EO.avif",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "East Hanover, NJ (145 Route 10)",
+    "storeNumber": "",
+    "startDate": "1994-10-31",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2.0 Remodel Program",
+            "s": "2022-10-00"
+        }
+    ],
+    "stages": [
+        {
+            "n": "1-Stage",
+            "s": "1994-10-31",
+            "e": "2022-10-00"
+        },
+        {
+            "n": "Chuck E. Live Stage (Dance Floor)",
+            "s": "2022-10-00",
+            "desc": "2021 Model"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "40.80761202",
+        "-74.38357373"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "YQ6nLxe7DBZXs8xRH7EO.avif",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

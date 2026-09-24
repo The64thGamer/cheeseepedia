@@ -1,30 +1,34 @@
 {
-  "title": "York, PA (351 Loucks Rd)",
-  "storeNumber": "",
-  "startDate": "1983-08-23",
-  "endDate": "1984-02-19",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1983-08-23",
-      "e": "1984-02-19"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "39.98364392",
-    "-76.74072568"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "X5aBaDGWGwDScwn82SvH.avif",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre"
-  ]
+    "title": "York, PA (351 Loucks Rd)",
+    "storeNumber": "",
+    "startDate": "1983-08-23",
+    "endDate": "1984-02-19",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1983-08-23"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1983-08-23",
+            "e": "1984-02-19"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "39.98364392",
+        "-76.74072568"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "X5aBaDGWGwDScwn82SvH.avif",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre"
+    ]
 }

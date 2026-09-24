@@ -1,41 +1,46 @@
 {
-  "title": "Mattydale, NY (2803 Brewerton Rd)",
-  "storeNumber": "",
-  "startDate": "1982-08-00",
-  "endDate": "1996-11-00",
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Balcony Stage",
-      "s": "1982-08-00",
-      "e": "1989-00-00"
-    },
-    {
-      "n": "Chuck E.'s House Facade",
-      "s": "1989-00-00",
-      "e": "1992-00-00"
-    },
-    {
-      "n": "2-Stage",
-      "s": "1992-00-00",
-      "e": "1996-11-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "43.1059124",
-    "-76.1468624"
-  ],
-  "citations": [],
-  "contributors": [
-    "ThatRockHistorian76"
-  ],
-  "downloadLinks": [],
-  "pageThumbnailFile": "9yif0lojbmytd0le",
-  "type": "Locations",
-  "tags": [
-    "Pizza Time Theatre"
-  ]
+    "title": "Mattydale, NY (2803 Brewerton Rd)",
+    "storeNumber": "",
+    "startDate": "1982-08-00",
+    "endDate": "1996-11-00",
+    "remodels": [
+        {
+            "n": "PTT Standard Layout",
+            "s": "1982-08-00"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Balcony Stage",
+            "s": "1982-08-00",
+            "e": "1989-00-00"
+        },
+        {
+            "n": "Chuck E.'s House Facade",
+            "s": "1989-00-00",
+            "e": "1992-00-00"
+        },
+        {
+            "n": "2-Stage",
+            "s": "1992-00-00",
+            "e": "1996-11-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "43.1059124",
+        "-76.1468624"
+    ],
+    "citations": [],
+    "contributors": [
+        "ThatRockHistorian76"
+    ],
+    "downloadLinks": [],
+    "pageThumbnailFile": "9yif0lojbmytd0le",
+    "type": "Locations",
+    "tags": [
+        "Pizza Time Theatre"
+    ]
 }
