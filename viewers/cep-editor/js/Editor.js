@@ -529,11 +529,11 @@ function buildDateField(container, value, onChange) {
 const years = [['PRESENT', 'Present'], ['0000', 'Unknown']];
 for (let yr = 1900; yr <= currentYear + 1; yr++) years.push([String(yr), yr]);
 
-  const months = ['00', 'Unknown'];
-  MONTHS.forEach((name, i) => months.push([String(i + 1).padStart(2, '0'), name]));
+const months = [['00', 'Unknown']];
+MONTHS.forEach((name, i) => months.push([String(i + 1).padStart(2, '0'), name]));
 
-  const days = ['00', 'Unknown'];
-  for (let dd = 1; dd <= 31; dd++) days.push([String(dd).padStart(2, '0'), dd]);
+const days = [['00', 'Unknown']];
+for (let dd = 1; dd <= 31; dd++) days.push([String(dd).padStart(2, '0'), dd]);
 
   const yearSel = makeSelect(years, isPresent ? 'PRESENT' : y);
   const monthSel = makeSelect(months, m);
