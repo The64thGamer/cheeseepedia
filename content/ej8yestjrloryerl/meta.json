@@ -1,14 +1,20 @@
 {
-  "title": "Lewisville, TX (1960 S Stemmons Fwy)",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ],
-  "startDate": "2001-10-01",
-  "endDate": "2008-02-17",
-  "storeNumber": "1",
-  "pageThumbnailFile": "3cTItIQ96S7cgcrnUIfC.avif",
-  "contributors": [
-    "sudo-trans-pony"
-  ]
+    "title": "Lewisville, TX (1960 S Stemmons Fwy)",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ],
+    "startDate": "2001-10-01",
+    "endDate": "2008-02-17",
+    "storeNumber": "1",
+    "pageThumbnailFile": "3cTItIQ96S7cgcrnUIfC.avif",
+    "contributors": [
+        "sudo-trans-pony"
+    ],
+    "remodels": [
+        {
+            "n": "SPT 1990's Remodel Program",
+            "s": "2001-10-01"
+        }
+    ]
 }

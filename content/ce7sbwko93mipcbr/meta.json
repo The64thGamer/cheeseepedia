@@ -1,16 +1,22 @@
 {
-  "title": "Midwest City, OK (1425 Gateway Plaza)",
-  "startDate": "1984-00-00",
-  "endDate": "0000-00-00",
-  "contributors": [
-    "Luigigamin212"
-  ],
-  "latitudeLongitude": [
-    "35.4509402",
-    "-97.4052586"
-  ],
-  "type": "Locations",
-  "tags": [
-    "Peter Piper Pizza"
-  ]
+    "title": "Midwest City, OK (1425 Gateway Plaza)",
+    "startDate": "1984-00-00",
+    "endDate": "0000-00-00",
+    "contributors": [
+        "Luigigamin212"
+    ],
+    "latitudeLongitude": [
+        "35.4509402",
+        "-97.4052586"
+    ],
+    "type": "Locations",
+    "tags": [
+        "Peter Piper Pizza"
+    ],
+    "remodels": [
+        {
+            "n": "Peter Piper Pizza Standard Layout",
+            "s": "1984-00-00"
+        }
+    ]
 }

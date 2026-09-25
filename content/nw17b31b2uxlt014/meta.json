@@ -1,16 +1,22 @@
 {
-  "title": "Las Vegas, NV (560 South Decatur Boulevard)",
-  "startDate": "2001-00-00",
-  "endDate": "2009-00-00",
-  "contributors": [
-    "Luigigamin212"
-  ],
-  "latitudeLongitude": [
-    "36.1649706",
-    "-115.2087895"
-  ],
-  "type": "Locations",
-  "tags": [
-    "Peter Piper Pizza"
-  ]
+    "title": "Las Vegas, NV (560 South Decatur Boulevard)",
+    "startDate": "2001-00-00",
+    "endDate": "2009-00-00",
+    "contributors": [
+        "Luigigamin212"
+    ],
+    "latitudeLongitude": [
+        "36.1649706",
+        "-115.2087895"
+    ],
+    "type": "Locations",
+    "tags": [
+        "Peter Piper Pizza"
+    ],
+    "remodels": [
+        {
+            "n": "Peter Piper Pizza Standard Layout",
+            "s": "2001-00-00"
+        }
+    ]
 }

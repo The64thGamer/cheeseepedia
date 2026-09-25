@@ -1,29 +1,33 @@
 {
-  "title": "Riyadh (Al Madinah), Saudi Arabia",
-  "storeNumber": "",
-  "startDate": "2014-12-23",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2014-12-23"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "23.4637540",
-    "40.8169965"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Riyadh (Al Madinah), Saudi Arabia",
+    "storeNumber": "",
+    "startDate": "2014-12-23",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2014-12-23"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2014-12-23"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "23.4637540",
+        "40.8169965"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

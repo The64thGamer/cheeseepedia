@@ -1,26 +1,30 @@
 {
-  "title": "Irving, TX (1707 Market Pl Blvd 200)",
-  "storeNumber": "",
-  "startDate": "2015-07-00",
-  "endDate": "2026-06-00",
-  
-  "remodels": [],
-  "stages": [],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "32.920617",
-    "-96.969959"
-  ],
-  "citations": [],
-  "contributors": [
-    "sudo-trans-pony"
-  ],
-  "downloadLinks": [],
-  "pageThumbnailFile": "Boig0fjJ8j51Gv4AhiGx.avif",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Irving, TX (1707 Market Pl Blvd 200)",
+    "storeNumber": "",
+    "startDate": "2015-07-00",
+    "endDate": "2026-06-00",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2015-07-00"
+        }
+    ],
+    "stages": [],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "32.920617",
+        "-96.969959"
+    ],
+    "citations": [],
+    "contributors": [
+        "sudo-trans-pony"
+    ],
+    "downloadLinks": [],
+    "pageThumbnailFile": "Boig0fjJ8j51Gv4AhiGx.avif",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

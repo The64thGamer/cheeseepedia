@@ -1,29 +1,33 @@
 {
-  "title": "Sumter, SC (1121 Broad St)",
-  "storeNumber": "",
-  "startDate": "2004-08-05",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Studio C Cappa",
-      "s": "2004-08-05"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "33.9539526",
-    "-80.3742432"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Sumter, SC (1121 Broad St)",
+    "storeNumber": "",
+    "startDate": "2004-08-05",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2004-08-05"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Studio C Cappa",
+            "s": "2004-08-05"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "33.9539526",
+        "-80.3742432"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

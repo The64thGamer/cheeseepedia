@@ -1,29 +1,33 @@
 {
-  "title": "Woodbury, MN (445 Commerce Dr)",
-  "storeNumber": "",
-  "startDate": "2014-04-14",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2014-04-14"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "44.9417359",
-    "-92.9034403"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Woodbury, MN (445 Commerce Dr)",
+    "storeNumber": "",
+    "startDate": "2014-04-14",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2014-04-14"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2014-04-14"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "44.9417359",
+        "-92.9034403"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

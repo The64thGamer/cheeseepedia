@@ -1,29 +1,33 @@
 {
-  "title": "South Edmonton, Alberta, Canada (9863 19th Ave)",
-  "storeNumber": "",
-  "startDate": "2003-07-29",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Studio C Beta",
-      "s": "2003-07-29"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "0",
-    "0"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "South Edmonton, Alberta, Canada (9863 19th Ave)",
+    "storeNumber": "",
+    "startDate": "2003-07-29",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2003-07-29"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Studio C Beta",
+            "s": "2003-07-29"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "0",
+        "0"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

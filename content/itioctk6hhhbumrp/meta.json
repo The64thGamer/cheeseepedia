@@ -1,22 +1,26 @@
 {
-  "title": "Las Vegas, NV (6081 S Eastern Ave)",
-  "startDate": "2016-12-00",
-  "endDate": "2021-00-00",
-  "contributors": [
-    "Luigigamin212"
-  ],
-  "remodels": [
-    {
-      "n": "Peter Piper Pizza 2.0 Remodel Program",
-      "s": "0000-00-00"
-    }
-  ],
-  "latitudeLongitude": [
-    "36.0798252",
-    "-115.1194717"
-  ],
-  "type": "Locations",
-  "tags": [
-    "Peter Piper Pizza"
-  ]
+    "title": "Las Vegas, NV (6081 S Eastern Ave)",
+    "startDate": "2016-12-00",
+    "endDate": "2021-00-00",
+    "contributors": [
+        "Luigigamin212"
+    ],
+    "remodels": [
+        {
+            "n": "Peter Piper Pizza 2.0 Remodel Program",
+            "s": "2016-12-00"
+        },
+        {
+            "n": "Peter Piper Pizza 2.0 Remodel Program",
+            "s": "0000-00-00"
+        }
+    ],
+    "latitudeLongitude": [
+        "36.0798252",
+        "-115.1194717"
+    ],
+    "type": "Locations",
+    "tags": [
+        "Peter Piper Pizza"
+    ]
 }

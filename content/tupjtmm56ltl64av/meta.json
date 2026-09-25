@@ -1,24 +1,28 @@
 {
-  "title": "Mall Multiplaza, El Salvador",
-  "storeNumber": "",
-  "startDate": "2021-04-13",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "13.6795108",
-    "-89.2483987"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Mall Multiplaza, El Salvador",
+    "storeNumber": "",
+    "startDate": "2021-04-13",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2.0 Remodel Program",
+            "s": "2021-04-13"
+        }
+    ],
+    "stages": [],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "13.6795108",
+        "-89.2483987"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

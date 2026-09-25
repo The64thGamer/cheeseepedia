@@ -1,34 +1,38 @@
 {
-  "title": "Riyadh (Exit 5/King Abdul Aziz), Saudi Arabia",
-  "storeNumber": "",
-  "startDate": "2013-11-16",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2013-11-16",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "Circles of Light",
-      "s": "0000-00-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "0",
-    "0"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Riyadh (Exit 5/King Abdul Aziz), Saudi Arabia",
+    "storeNumber": "",
+    "startDate": "2013-11-16",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2013-11-16"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2013-11-16",
+            "e": "0000-00-00"
+        },
+        {
+            "n": "Circles of Light",
+            "s": "0000-00-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "0",
+        "0"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

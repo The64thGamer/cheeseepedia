@@ -1,29 +1,33 @@
 {
-  "title": "San Agustin, Mexico",
-  "storeNumber": "",
-  "startDate": "2012-03-06",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Studio C Beta",
-      "s": "2012-03-06"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "31.5063814",
-    "-106.2694105"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "4PBxkmlDislOFiL_2EOV.avif",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "San Agustin, Mexico",
+    "storeNumber": "",
+    "startDate": "2012-03-06",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2012-03-06"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Studio C Beta",
+            "s": "2012-03-06"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "31.5063814",
+        "-106.2694105"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "4PBxkmlDislOFiL_2EOV.avif",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

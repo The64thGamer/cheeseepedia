@@ -1,29 +1,33 @@
 {
-  "title": "Saltillo, Mexico",
-  "storeNumber": "",
-  "startDate": "2016-06-27",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2016-06-27"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "25.4230425",
-    "-100.9927509"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Saltillo, Mexico",
+    "storeNumber": "",
+    "startDate": "2016-06-27",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2016-06-27"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2016-06-27"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "25.4230425",
+        "-100.9927509"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

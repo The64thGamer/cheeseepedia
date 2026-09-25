@@ -1,22 +1,26 @@
 {
-  "title": "Kentwood, MI (4070 28th St SE)",
-  "startDate": "1997-00-00",
-  "endDate": "0000-00-00",
-  "contributors": [
-    "Luigigamin212"
-  ],
-  "remodels": [
-    {
-      "n": "Discovery Zone Standard Layout",
-      "s": "0000-00-00"
-    }
-  ],
-  "latitudeLongitude": [
-    "42.9124595",
-    "-85.5660496"
-  ],
-  "type": "Locations",
-  "tags": [
-    "Discovery Zone"
-  ]
+    "title": "Kentwood, MI (4070 28th St SE)",
+    "startDate": "1997-00-00",
+    "endDate": "0000-00-00",
+    "contributors": [
+        "Luigigamin212"
+    ],
+    "remodels": [
+        {
+            "n": "Discovery Zone Standard Layout",
+            "s": "1997-00-00"
+        },
+        {
+            "n": "Discovery Zone Standard Layout",
+            "s": "0000-00-00"
+        }
+    ],
+    "latitudeLongitude": [
+        "42.9124595",
+        "-85.5660496"
+    ],
+    "type": "Locations",
+    "tags": [
+        "Discovery Zone"
+    ]
 }

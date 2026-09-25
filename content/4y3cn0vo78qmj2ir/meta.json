@@ -1,29 +1,33 @@
 {
-  "title": "Metepec, Mexico",
-  "storeNumber": "",
-  "startDate": "2016-12-16",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2016-12-16"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "19.2511338",
-    "-99.5937281"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Metepec, Mexico",
+    "storeNumber": "",
+    "startDate": "2016-12-16",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2016-12-16"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2016-12-16"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "19.2511338",
+        "-99.5937281"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

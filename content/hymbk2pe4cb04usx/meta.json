@@ -1,29 +1,33 @@
 {
-  "title": "La Serena, Chile",
-  "storeNumber": "",
-  "startDate": "2015-02-26",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2015-02-26"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "-29.905253120876058",
-    "-71.25780015980521"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "La Serena, Chile",
+    "storeNumber": "",
+    "startDate": "2015-02-26",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2015-02-26"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2015-02-26"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "-29.905253120876058",
+        "-71.25780015980521"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

@@ -1,29 +1,33 @@
 {
-  "title": "Oasis Coyoacan, Mexico",
-  "storeNumber": "",
-  "startDate": "2015-10-13",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2015-10-13"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "19.3451573",
-    "-99.1789862"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Oasis Coyoacan, Mexico",
+    "storeNumber": "",
+    "startDate": "2015-10-13",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2015-10-13"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2015-10-13"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "19.3451573",
+        "-99.1789862"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

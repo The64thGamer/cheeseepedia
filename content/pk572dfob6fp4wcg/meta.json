@@ -1,30 +1,34 @@
 {
-  "title": "Parque Interlomas, Mexico",
-  "storeNumber": "",
-  "startDate": "2015-09-02",
-  "endDate": "2019-11-15",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2015-09-02",
-      "e": "2019-11-15"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "19.3957691",
-    "-99.2883899"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Parque Interlomas, Mexico",
+    "storeNumber": "",
+    "startDate": "2015-09-02",
+    "endDate": "2019-11-15",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2015-09-02"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2015-09-02",
+            "e": "2019-11-15"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "19.3957691",
+        "-99.2883899"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

@@ -1,34 +1,38 @@
 {
-  "title": "Weslaco, TX (725 E Expressway 83)",
-  "storeNumber": "",
-  "startDate": "2012-10-16",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2012-10-16",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "Circles of Light",
-      "s": "0000-00-00"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "26.1723285",
-    "-97.9835217"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Weslaco, TX (725 E Expressway 83)",
+    "storeNumber": "",
+    "startDate": "2012-10-16",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2012-10-16"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2012-10-16",
+            "e": "0000-00-00"
+        },
+        {
+            "n": "Circles of Light",
+            "s": "0000-00-00"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "26.1723285",
+        "-97.9835217"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

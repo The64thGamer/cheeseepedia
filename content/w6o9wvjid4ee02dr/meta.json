@@ -1,29 +1,33 @@
 {
-  "title": "Patio Santa Fe, Mexico",
-  "storeNumber": "",
-  "startDate": "2013-12-10",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2013-12-10"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "19.3772092",
-    "-99.2545267"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Patio Santa Fe, Mexico",
+    "storeNumber": "",
+    "startDate": "2013-12-10",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2013-12-10"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2013-12-10"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "19.3772092",
+        "-99.2545267"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

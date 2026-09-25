@@ -4,20 +4,20 @@ const LEAFLET_CSS = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
 const LEAFLET_JS  = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
 
 const PIN_FILES = {
-  ptt:               'other.png',
-  spp:               'other.png',
-  cec:               'other.png',
+  ptt:               'ptt.png',
+  spp:               'spp.png',
+  cec:               'cec.png',
   cec2:              'IngramDrive.avif',
   cec2000s:          'IDrive.avif',
-  spt80s_ptt:        'other.png',
-  spt80s_spp:        'other.png',
+  spt80s_ptt:        'cec.png',
+  spt80s_spp:        'spp.png',
   spt90s:            'Spokane.avif',
   ppp2:              'PeterPiperPizza.avif',
   funspotarcade:     'other.png',
   dz:                'DiscoveryZone.avif',
-  charliecheese:     'other.png',
+  charliecheese:     'ptt.png',
   cecadventureworld: 'other.png',
-  chuckemouse:       'other.png',
+  chuckemouse:       'ptt.png',
   chucksarcade2025:  'other.png',
   other:             'other.png',
 };

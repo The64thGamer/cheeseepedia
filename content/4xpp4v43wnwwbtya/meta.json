@@ -1,29 +1,33 @@
 {
-  "title": "Naperville, IL (506 South Route 59)",
-  "storeNumber": "",
-  "startDate": "2015-03-09",
-  "endDate": "",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Circles of Light",
-      "s": "2015-03-09"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [],
-  "sqft": "",
-  "latitudeLongitude": [
-    "0",
-    "0"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "NpoggWRXqjhrmEtZ4nXs.avif",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Naperville, IL (506 South Route 59)",
+    "storeNumber": "",
+    "startDate": "2015-03-09",
+    "endDate": "",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2015-03-09"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Circles of Light",
+            "s": "2015-03-09"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [],
+    "sqft": "",
+    "latitudeLongitude": [
+        "0",
+        "0"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "NpoggWRXqjhrmEtZ4nXs.avif",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }

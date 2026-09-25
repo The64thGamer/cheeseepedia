@@ -1,51 +1,55 @@
 {
-  "title": "Layton, UT (450 North Main St)",
-  "storeNumber": "",
-  "startDate": "2008-09-00",
-  "endDate": "2020-06-02",
-  
-  "remodels": [],
-  "stages": [
-    {
-      "n": "Studio C Beta",
-      "s": "2008-09-00",
-      "e": "2020-06-02"
-    }
-  ],
-  "franchisees": [],
-  "attractions": [
-    {
-      "n": "Chuck E. Cheese's Sketch Book",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "The Great Ticket Carnival",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "Skytubes",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
-    },
-    {
-      "n": "Tik Tak",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
-    }
-  ],
-  "sqft": "",
-  "latitudeLongitude": [
-    "41.06564377",
-    "-111.972663"
-  ],
-  "citations": [],
-  "contributors": [],
-  "downloadLinks": [],
-  "pageThumbnailFile": "rE789UgiqrSAVtcNCqFq.avif",
-  "type": "Locations",
-  "tags": [
-    "Chuck E. Cheese's"
-  ]
+    "title": "Layton, UT (450 North Main St)",
+    "storeNumber": "",
+    "startDate": "2008-09-00",
+    "endDate": "2020-06-02",
+    "remodels": [
+        {
+            "n": "CEC 2000's Remodel Program",
+            "s": "2008-09-00"
+        }
+    ],
+    "stages": [
+        {
+            "n": "Studio C Beta",
+            "s": "2008-09-00",
+            "e": "2020-06-02"
+        }
+    ],
+    "franchisees": [],
+    "attractions": [
+        {
+            "n": "Chuck E. Cheese's Sketch Book",
+            "s": "0000-00-00",
+            "e": "0000-00-00"
+        },
+        {
+            "n": "The Great Ticket Carnival",
+            "s": "0000-00-00",
+            "e": "0000-00-00"
+        },
+        {
+            "n": "Skytubes",
+            "s": "0000-00-00",
+            "e": "0000-00-00"
+        },
+        {
+            "n": "Tik Tak",
+            "s": "0000-00-00",
+            "e": "0000-00-00"
+        }
+    ],
+    "sqft": "",
+    "latitudeLongitude": [
+        "41.06564377",
+        "-111.972663"
+    ],
+    "citations": [],
+    "contributors": [],
+    "downloadLinks": [],
+    "pageThumbnailFile": "rE789UgiqrSAVtcNCqFq.avif",
+    "type": "Locations",
+    "tags": [
+        "Chuck E. Cheese's"
+    ]
 }
