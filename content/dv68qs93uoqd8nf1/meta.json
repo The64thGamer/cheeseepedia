@@ -1,0 +1,22 @@
+{
+  "title": "Cheektowaga, NY (3755 Union Rd)",
+  "startDate": "1994-01-00",
+  "endDate": "1999-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "1994-01-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "42.9159410",
+    "-78.7541130"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

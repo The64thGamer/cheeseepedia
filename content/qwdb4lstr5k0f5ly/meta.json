@@ -1,0 +1,22 @@
+{
+  "title": "Paramus, NJ (NJ-17)",
+  "startDate": "1996-00-00",
+  "endDate": "1999-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "1996-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "40.9658987",
+    "-74.0772857"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Amherst, NY (5435 Sheridan Drive)",
+  "startDate": "0000-00-00",
+  "endDate": "1999-06-30",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "42.9784316",
+    "-78.7318306"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

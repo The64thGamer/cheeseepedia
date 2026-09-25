@@ -1,0 +1,22 @@
+{
+  "title": "East Brunswick, NJ (300 NJ-18 N)",
+  "startDate": "1994-00-00",
+  "endDate": "2000-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "1994-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "40.4559340",
+    "-74.4000127"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}
