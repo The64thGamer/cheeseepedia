@@ -1,31 +1,5 @@
-***7200 Peach St, Store #536*** is a *Chuck E. Cheese's Pizza*/*Chuck E. Cheese's* that opened in July 1992 which is still open to this day. This location is located in the Summit Towne Center.
+***Erie, PA (7200 Peach St)***, Store #536, is a corporate-owned Chuck E. Cheese's located within Summit Towne Centerthat opened in July 1992 with a [2-Stage] and is still open to this day with the 2.0 remodel.
 
 ## History
 
-### CEC (July 1992-Present)
-
-Erie had its grand opening as a Franchised location in July 1992, and was built as part of the shopping center it was in. This store opened with the 1988 remodel and game package, with the stage being the 2-Stage. The oldest known footage of the store was a tape for employee's that summited footage of various live performances (The store was featured alongside [Wilmington, NC (4389 Oleander Dr)], [San Jose, CA (2445 Fontaine Rd)], [Albuquerque, NM (4418 Wyoming Blvd)], [Mesa, AZ (856 S Alma School Rd)], [Dothan, AL (3400 Ross Clark Circle)], [Harrisburg, PA (3883 Union Deposit Rd)], [Tallahassee, FL (2810 Sharer Rd)], [Merced, CA (721 W Olive Ave)], &amp; [Tracy, CA (775 W Clover Rd)]) which showed footage of the 2-Stage when it was brand new; with no curtains and early 90's masks &amp; cosmetics. Around the late 90's, Erie received the 1993 Remodel, getting new signage with Coach Chuck in a star cap, removing older decor for newer decor, removed the Blue and White awnings, and replacing the ball pit with SkyTubes and the Toddler Zone. On June 17th, 2002, Erie would be bought out by Corporate alongside [Bridgeville, PA (1025 Washington Pike)] &amp; [Monroeville, PA (3800 William Penn Hwy)]. Erie would remain like this until 2006-2007 when they would receive the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing older decor for newer decor, &amp; removed the Showroom Walls. In around 2012-2013, the exterior awning was replaced and they removed the rest of their showroom walls. The Skytubes was removed not long after that. The Toddler Zone was then removed during the COVID-19 Pandemic. In October 2023, the location received the 2.0 remodel, with the 2-stage being removed. Currently, as of November 2023, the store still has the 2.0 update with the dance floor and video wall.
-
-## Animatronics
-
-| Animatronic                                                                                  | Manufacturing Date | Whereabouts | Notes                     |
-|----------------------------------------------------------------------------------------------|--------------------|-------------|---------------------------|
-| [Chuck E. Cheese (Cyberamic)](https://cheeseepedia.org/wiki/Chuck_E_Cheese_%28Cyberamic%29)  | 1992               | Unknown     | Had the Cool Chuck shirt. |
-| [Guest Star Helen Henny (Cyberamic)]                                 | 1992               | Unknown     |                           |
-| [Mr Munch (Cyberamic)]                                               | 1992               | Unknown     |                           |
-| [Jasper T. Jowls (Cyberamic)](https://cheeseepedia.org/wiki/Jasper_T._Jowls_%28Cyberamic%29) | 1992               | Unknown     |                           |
-| [Pasqually (Cyberamic)]                                              | 1992               | Unknown     |                           |
-| [Wink (Cyberamic)]                                                   | 1992               | Unknown     |                           |
-
-## Stages
-
-When this store opened in 1992, they had a 2-Stage. The stage was removed in October 2023.
-
-| Stage                                            | Installed             | Removed       | Notes                                   |
-|--------------------------------------------------|-----------------------|---------------|-----------------------------------------|
-| [2-Stage](https://cheeseepedia.org/wiki/2-Stage) | July 1992             | October 2023  | 7/8 2 Stages installed in Pennsylvania. |
-| Dance Floor + VIdeo Wall                         | October-Novemebr 2023 | Still in Use. |                                         |
-
-## Videos
-
-N/A
+The Erie Chuck E. Cheese's opened in July 1992 with the [SPT 1980's Remodel Program] and a 2-Stage. The oldest known footage of the store was a tape for employees that included footage of various live performances; in the tape, Erie was featured alongside [Wilmington, NC (4389 Oleander Dr)](/?v=cep-js&=4i02eene1q80pu17), [San Jose (Tully), CA (2445 Fontaine Rd)], [Albuquerque, NM (4418 Wyoming Blvd)](/?v=cep-js&=6vgy9rknh6xznch0), [Mesa, AZ (856 S Alma School Rd)], [Dothan, AL (3400 Ross Clark Circle)](/?v=cep-js&=kvy0y2626vxi0qsm), [Harrisburg, PA (3883 Union Deposit Rd)](/?v=cep-js&=171ytxy54pzatt8e), [Tallahassee, FL (2810 Sharer Rd)](/?v=cep-js&=hq3zs4jii0ez53m5), [Merced, CA (721 W Olive Ave)](/?v=cep-js&=oveslldow3pe8i5v), [Tracy, CA (775 W Clover Rd)](/?v=cep-js&=vij4t1rmqgl90kbj). The Erie footage showed its 2-Stage when it was brand new, lacking curtains and the characters having early '90s masks and cosmetics. In the late 1990's, Erie received [Phase 1 (1994)], during which its ball pit was replaced by SkyTubes and the Toddler Zone was added. On June 17, 2002, Erie was bought out by Corporate alongside [Bridgeville, PA (1025 Washington Pike)](/?v=cep-js&=64jti3f8sl7tpj23) and [Monroeville, PA (3800 William Penn Hwy)](/?v=cep-js&=ywpd01zvtzwz42j0). Erie received the [CEC 2000's Remodel Program] in 2006 or 2007, which saw the removal of most of the showroom walls. In 2012 or 2013, the exterior awning was replaced and the rest of the showroom walls were removed, and not long after this, the SkyTubes were removed. During the COVID-19 pandemic, the Toddler Zone was removed. In October 2023, Erie received the 2.0 remodel, and its the 2-Stage was removed for the Dance Floor.

@@ -1,17 +1,9 @@
-***8949 Bay Pkwy*** was a Chuck E. Cheese's Pizza Time Theatre that opened in February 1984 (day unknown) and closed on April 26, 1987 with a Balcony Stage. This was the last Chuck E. Cheese's Pizza Time Theatre to open in New York, as later locations opened as just *Chuck E. Cheese's*. This location is not to be confused with [Brooklyn, NY (139 Flatbush Ave)], which opened on July 22, 2004 with a Studio C Beta, 16M and is still open to this day with the 2.0 remodel.
-
-## Stages
-
-Brooklyn opened with a Balcony Stage, which remained up until the store's closure in 1987. Not much is known about it.
-
-| Stage         | Installed     | Removed    | Notes                         |
-|---------------|---------------|------------|-------------------------------|
-| Balcony Stage | February 1984 | April 1987 | Last PTT to open in New York. |
+***Brooklyn, NY (8949 Bay Pkwy)*** was a Chuck E. Cheese's Pizza Time Theatre located in Caesar's Bay Shopping Center in the Bensonhurst neighborhood that opened in February 1984 with a [Balcony Stage] and closed on April 26, 1987. This was the last Chuck E. Cheese's with Pizza Time Theatre branding to open in New York, as later locations opened as just Chuck E. Cheese's. This location is not to be confused with [Brooklyn, NY (139 Flatbush Ave)](/?v=cep-js&=sq46u40d36fk7gub), which opened on July 22, 2004, with a [Studio C Beta] and is still open to this day with the 2.0 remodel.
 
 ## History
 
-Brooklyn's PTT opened in February 1984 (day unknown) in the Ceasar's Bay Shopping Center, and had a Balcony Stage. Sadly, not much info is known about this location, and few photos exist, but likely no videos. The location closed on April 26, 1987 for unknown reasons, but may be parking problems or leasing issues. As of July 2023, the location is now Bob's Discount Furniture and Mattress Store, just like the [New London, CT (389 N Frontage Rd)] store.
+The Brooklyn Pizza Time Theatre opened in February 1984 with a Balcony Stage. Brooklyn would be the last CEC with Pizza Time Theatre branding to open in New York, as, starting with [Levittown, NY (3046 Hempstead Turnpike)], all others would open simply as Chuck E. Cheese's going forward.
 
-## Animatronics
+### Closure
 
-TODO
+On April 26, 1987, the Brooklyn Pizza Time Theatre closed possibly due to leasing or parking issues, but otherwise due to unknown reasons. The site is now Bob's Discount Furniture and Mattress Store.

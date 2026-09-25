@@ -1,35 +1,13 @@
-***1025 Washington Pike*** was a *Pizza Time Theatre/Chuck E. Cheese* that opened on February 17, 1983, as a franchised *Pizza Time Theatre* with a Balcony Stage Show and closed in October 2002 with the 2-Stage. It was located in the Chartiers Valley Shopping Center. This store relocated to the [Bridgeville, PA (1035 Washington Pike)] which is still open to this day.
+***Bridgeville, PA (1025 Washington Pike)*** was a Chuck E. Cheese's Pizza Time Theatre located within Chartiers Valley Shopping Center that opened on February 17, 1983, with a [Balcony Stage] and closed in October 2002 with a [2-Stage]. The store relocated to the [Bridgeville, PA (1035 Washington Pike)](/?v=cep-js&=8fl0p9mvidn6zoxd), which is still open to this day.
 
 ## History
 
-Bridgeville opened its doors on February 17th, 1983, with a Balcony Stage. It was originally a franchise-owned Pizza Time Theatre location owned by the McKinght Family Fun Corporation. In 1989/1990, Bridgeville would receive the 1988 remodel and removed older decor for newer decor, an exterior change, and the removal of the Balcony Stage for Chuck E.'s House Facade. In 1992, Bridgeville would receive a minor remodel, this time another change to the exterior, older decor removed for newer ones, and Chuck E.'s House Facade being removed for the 2-Stage. In the 1998, they would receive yet another remodel, which changed the exterior again, and added SkyTubes. Bridgeville remained like this until 2002 when they relocated. After they relocated, Bridgeville was abandoned for a year or two until they became a pet store, but it was short lived as it closed somewhere between 2015. After the pet store was abandoned, it became a Fine Wine &amp; Good Sprits in 2017. As of September 2023, Fine Wine &amp; Good Sprits is still in the space.
+The Bridgeville Pizza Time Theatre opened its doors on February 17, 1983, with a Balcony Stage. It was originally a franchise-owned Pizza Time Theatre location owned by McKnight Family Centers. In 1989 or 1990, Bridgeville received the [SPT 1980's Remodel Program] and its Balcony Stage was retrofitted into a [Chuck E.'s House Facade]. In 1992, the Chuck E.'s House Facade was replaced by a 2-Stage. In 1998, SkyTubes were added to the store.
 
-## Stages
+### Relocation
 
-When Bridgeville opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Unfortunately, there are not many videos and no photos to exist of Bridgeville back then. Sometime between the Late 80's, they installed [Chuck E's House Facade], otherwise known as the C-Stage. This location would get a 2-Stage installed in 1992. In 2002, Bridgeville relocated to their current location which destroyed their 2-Stage.
+In October 2002, the Bridgeville Chuck E. Cheese's relocated to the current store, located in the same plaza. For a year or two, the space was vacant until a pet store moved in. In 2015, the pet store closed, and in 2017, the current tenant, Fine Wine & Good Spirits, moved in.
 
-| Stage                                              | Installed     | Removed   | Notes                                           |
-|----------------------------------------------------|---------------|-----------|-------------------------------------------------|
-| [Cyberamics Balcony Stage] | February 1983 | 1989/1990 | 3rd Pizza Time Theatre to open in Pennsylvania. |
-| [Chuck E's House Facade]   | 1989/1990     | 1992      | One of 4 installed in Pennsylvania.             |
-| [2-Stage]                  | 1992          | 2002      | One of 7/8 installed in Pennsylvania.           |
+### Fate of the Animatronics
 
-## Animatronics
-
-| Character                                                    | Serial Number | Status              |
-|--------------------------------------------------------------|---------------|---------------------|
-| Chuck E Cheese (Cyberamic)                                   | Unknown       | Unknown / Destroyed |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Unknown / Destroyed |
-| [Mr Munch (Cyberamic)]               | Unknown       | Unknown / Destroyed |
-| [Jasper T Jowls (Cyberamic)]         | Unknown       | Unknown / Destroyed |
-| [Pasqually (Cyberamic)]              | Unknown       | Unknown / Destroyed |
-| [Warblettes (Cyberamic)]             | Unknown       | Unknown / Destroyed |
-| Waving Flags (Cyberamic)                                     | Unknown       | Unknown / Destroyed |
-| [Applause Board (Cyberamic)]         | Unknown       | Unknown / Destroyed |
-| [Drum Board (Cyberamic)]             | Unknown       | Unknown / Destroyed |
-| [Singing Flowers (Cyberamic)]        | Unknown       | Unknown / Destroyed |
-| [Wink (Cyberamic)]                   | Unknown       | Unknown / Destroyed |
-
-## Videos
-
-TODO
+One of Bridgeville's Flag Wavers, a Chuck flag, is owned by Corey of Iron Blast Game Zone. The whereabouts of all the other Bridgeville animatronics are unknown.

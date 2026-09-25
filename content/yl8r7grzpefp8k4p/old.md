@@ -1,41 +1,9 @@
-***2260 Lebanon Church Rd*** was a Chuck E. Cheese that opened in August 1983, as a franchise location with a Balcony Stage and closed on November 24th, 1996, with a 2-Stage. It was located in a freestanding building in the Greenbrier Shopping Center and was about 16 minutes away from the Kennywood Amusement Park. When this store received the 1988 remodel, it had a unique logo on the road sign (The 'Chuck E. Cheese's Pizza' lettering was the same as every other store opening at the time) that was also featured on the exterior of the [Harrisburg, PA (3883 Union Deposit Rd)] &amp; the road sign of the [Bridgeville, PA (1025 Washington Pike)] location.
+***West Mifflin, PA (2260 Lebanon Church Rd)*** was a Chuck E. Cheese's Pizza Time Theatre that opened in August 1983 as a franchise location with a [Balcony Stage] and closed on November 24, 1996, with a [2-Stage]. The store was located in a freestanding building in the Greenbrier Shopping Center and was about 16 minutes away from the Kennywood Amusement Park. When this store received the 1988 remodel, it had a unique logo on the road sign (the "Chuck E. Cheese's Pizza" lettering was the same as every other store opening at the time) that was also featured on the exterior of the [Harrisburg, PA (3883 Union Deposit Rd)](/?v=cep-js&=171ytxy54pzatt8e) store and the road sign of the [Bridgeville, PA (1025 Washington Pike)](/?v=cep-js&=64jti3f8sl7tpj23) location.
 
 ## History
 
-West Mifflin opened in August 1983 in a freestanding building in the Greenbrier Shopping Center as a franchised-owned location. West Mifflin opened with the Cabaret room, The King, Waving Flags, some other playgrounds like the Tinker Towers, and the Balcony Stage. West Mifflin then received the 1988 remodel in 1989-1990 removing PTT decor for newer decor, removing Tinker Towers and other playground, and converting the Balcony Stage for Chuck E.'s House Facade, otherwise known as the C-Stage. West Mifflin received the 2-Stage around the early 90's. West Mifflin would remain like this until November 24th, 1996 when they would close for unknown reasons. After it closed, West Mifflin became a gym which closed at some point. The building stayed standing for 39 years until it started demolition in Late 2022. Currently, as of October 2023, a new building was built on the former site of the CEC, and is now a Discount Tire.
+The West Mifflin Pizza Time Theatre opened in August 1983 in the Greenbrier Shopping Center. The store was franchised by McKnight Family Centers, and opened with the Cabaret room, The King, playgrounds like the Tinker Towers, and a Balcony Stage. Additionally, West Mifflin was one of two stores in Pennsylvania to receive [Cheese E. Street], the other being [Norristown, PA (2834 Dekalb Pike)]. In 1989/90, the store received the 1988 remodel, which removed the Tinker Towers and saw the Balcony Stage retrofitted into a [Chuck E.'s House Facade]. The store is rumored to have received a [2-Stage] sometime after 1991, but this is unconfirmed.
 
-## Stages
+### Closure & Future Occupants
 
-Originally, this store housed a Balcony Stage with Helen Henny. In 1989-1990, the Balcony Stage was converted into Chuck E.'s House Facade. In the early 1990's, the location received the 2-Stage. It closed on November 24th, 1996.
-
-| Stage                                              | Installed           | Removed       | Notes                                              |
-|----------------------------------------------------|---------------------|---------------|----------------------------------------------------|
-| [Cyberamics Balcony Stage] | August 1983         | 1989-1990     | One of 9 Balcony Stages in Pennsylvania.           |
-| [Chuck E's House Facade]   | 1989-1990           | Early 90's    | One of 4 Chuck E.'s House Facades in Pennsylvania. |
-| [2-Stage]                  | Sometime after 1991 | November 1996 | One of 8 2-Stages installed in Pennsylvania.       |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Serial | Status             |
-|--------------------------------------------------------------|--------------------|--------|--------------------|
-| Chuck E Cheese (Cyberamic)                                   | 1983               | N/A    | Unknown/Destroyed. |
-| [Guest Star Helen Henny (Cyberamic)] | 1983               | N/A    | Unknown/Destroyed. |
-| [Mr Munch (Cyberamic)]               | 1983               | N/A    | Unknown/Destroyed. |
-| [Jasper T Jowls (Cyberamic)]         | 1983               | N/A    | Unknown/Destroyed. |
-| [Pasqually (Cyberamic)]              | 1983               | N/A    | Unknown/Destroyed. |
-| [Warblettes (Cyberamic)]             | 1983               | N/A    | Unknown/Destroyed. |
-| Waving Flags (Cyberamic)                                     | 1983               | N/A    | Unknown/Destroyed. |
-| [Applause Board (Cyberamic)]         | 1983               | N/A    | Unknown/Destroyed. |
-| [Drum Board (Cyberamic)]             | 1983               | N/A    | Unknown/Destroyed. |
-| [Singing Flowers (Cyberamic)]        | 1989/1990          | N/A    | Unknown/Destroyed. |
-| [The King King Kat (Lounge)]         | 1983               | N/A    | Unknown/Destroyed. |
-| [Wink (Cyberamic)]                   | 1990's             | N/A    | Unknown/Destroyed. |
-
-## Videos
-
-| Link                                        | Description            | Filming Date | Publish Date   |
-|---------------------------------------------|------------------------|--------------|----------------|
-| https://www.youtube.com/watch?v=Bm4WLB4Zo98 | West Miffin's C Stage. | 1991         | March 15, 2020 |
-|                                             |                        |              |                |
-|                                             |                        |              |                |
-|                                             |                        |              |                |
+On November 24, 1996, the West Mifflin Chuck E. Cheese's permanently closed due to unknown reasons. Following its closure, the building became a gym, which also eventually closed. The building stood for 39 years until demolition began in late 2022. Since October 2023, a new building has stood on the site, which houses a Discount Tire.

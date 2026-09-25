@@ -1,6 +1,1 @@
-***2803 Brewerton Rd*, was a Chuck E. Cheese's Pizza Time Theater that opened in August 1983 (day unknown), with a [Cyberamics Balcony Stage] and closed in November 1996 (day unknown), as a Chuck E. Cheese's with a [2-Stage].
-This location should not be confused with the [Syracuse, NY (3023 Erie Blvd)] location, which opened on December 27th, 2002 with a [Studio C Beta], and is still open to this day with the 2.0 remodel.**
-
-## History
-
-TODO
+***Mattydale, NY (2803 Brewerton Rd)*** (also known as ***Syracuse*** or ***Salina***) was a Chuck E. Cheese's Pizza Time Theater that opened in August 1982 with a Balcony Stage and closed in November 1996 with a [2-Stage](/?v=cep-js&=jh46j8lmmhexvsq9). This location should not be confused with [Syracuse, NY (3023 Erie Blvd)](/?v=cep-js&=7yk7qdjgo3j71a2y), which opened on December 27, 2002, with a [Studio C Beta](/?v=cep-js&=6hnst5z70q7xekh9), and is still open with the 2.0 remodel.

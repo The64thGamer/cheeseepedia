@@ -1,1 +1,1 @@
-I do almost all the transcripts pretty much. Goes by the same username on discord. 
+I do almost all the transcripts pretty much. Also found all of the Peter Piper and Discovery Zone locations found on this wiki. 
