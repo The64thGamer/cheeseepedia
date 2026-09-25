@@ -526,8 +526,8 @@ function buildDateField(container, value, onChange) {
   const [y, m, d] = (isPresent ? '0000-00-00' : (value || '0000-00-00')).split('-');
   const currentYear = new Date().getFullYear();
 
-  const years = ['PRESENT', 'Present'], ['0000', 'Unknown'];
-  for (let yr = 1900; yr <= currentYear + 1; yr++) years.push([String(yr), yr]);
+const years = [['PRESENT', 'Present'], ['0000', 'Unknown']];
+for (let yr = 1900; yr <= currentYear + 1; yr++) years.push([String(yr), yr]);
 
   const months = ['00', 'Unknown'];
   MONTHS.forEach((name, i) => months.push([String(i + 1).padStart(2, '0'), name]));
