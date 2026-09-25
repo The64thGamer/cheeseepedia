@@ -27,14 +27,12 @@
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2024-07-01",
-      "desc": "2021 model.",
-      "e": ""
+      "desc": "2021 model."
     },
     {
       "n": "Video Wall",
       "desc": "2021 model.",
-      "s": "2024-07-01",
-      "e": ""
+      "s": "2024-07-01"
     }
   ],
   "franchisees": [],
@@ -65,21 +63,18 @@
     {
       "n": "Bird (Animatronic)",
       "desc": "Taken by corporate.",
-      "l": "",
       "s": "1998-12-10",
       "e": "2024-07-01"
     },
     {
       "n": "Pizza Time Clock (Animatronic)",
       "desc": "Taken by corporate.",
-      "l": "",
       "s": "1998-12-10",
       "e": "2024-07-01"
     },
     {
       "n": "Pizza Phone (Animatronic)",
       "desc": "Taken by corporate.",
-      "l": "",
       "s": "1998-12-10",
       "e": "2024-07-01"
     }

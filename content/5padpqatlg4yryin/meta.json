@@ -30,27 +30,22 @@
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2023-10-00",
-      "e": ""
+      "s": "2023-10-00"
     },
     {
       "n": "Video Wall",
-      "desc": "",
-      "s": "2023-10-00",
-      "e": ""
+      "s": "2023-10-00"
     }
   ],
   "franchisees": [],
   "attractions": [
     {
       "n": "SkyTubes",
-      "desc": "",
       "s": "0000-00-00",
       "e": "0000-00-00"
     },
     {
       "n": "Toddler Zone",
-      "desc": "",
       "s": "0000-00-00",
       "e": "2020-00-00"
     }
@@ -74,42 +69,36 @@
     {
       "n": "Chuck E. Cheese (Cyberamic)",
       "desc": "Originally donned tuxedo, later sported Cool shirt. Current whereabouts unknown.",
-      "l": "",
       "s": "1992-07-00",
       "e": "2023-10-00"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "1992-07-00",
       "e": "2023-10-00"
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "1992-07-00",
       "e": "2023-10-00"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "1992-07-00",
       "e": "2023-10-00"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "1992-07-00",
       "e": "2023-10-00"
     },
     {
       "n": "Wink (Animatronic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "1992-07-00",
       "e": "2023-10-00"
     }

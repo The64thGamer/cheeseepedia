@@ -27,89 +27,63 @@
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2018-10-03",
-      "e": "",
       "desc": "Earlier installation."
     },
     {
       "n": "Jumbo Video Wall (Jumbotron)",
-      "desc": "",
-      "s": "2021-00-00",
-      "e": ""
+      "s": "2021-00-00"
     }
   ],
   "franchisees": [],
   "attractions": [
     {
       "n": "Alley Roller Classic",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "CEC Photo Ride",
       "desc": "Avenger era, slightly rethemed and repainted for the Rockstar era.",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "Chuck E.'s Glider Rider",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "City Bus Tours",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "Frogger (ICE)",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "Milk Jug Toss",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "NBA Hoop Troop",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "Pop It for Gold",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "Sea Wolf (2008)",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "Snow Day!",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "Ticket Blaster",
-      "desc": "",
-      "s": "0000-00-00",
-      "e": ""
+      "s": "0000-00-00"
     },
     {
       "n": "Trampoline Zone",
-      "desc": "",
-      "s": "2024-00-00",
-      "e": ""
+      "s": "2024-00-00"
     }
   ],
   "sqft": "",
@@ -131,7 +105,6 @@
     {
       "n": "Chuck E. Cheese 16m (Animatronic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "2003-07-05",
       "e": "2018-10-03"
     }

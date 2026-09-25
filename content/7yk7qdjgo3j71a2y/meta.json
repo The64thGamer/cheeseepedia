@@ -22,7 +22,6 @@
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2019-01-24",
-      "e": "",
       "desc": "2019 model."
     }
   ],
@@ -30,13 +29,11 @@
   "attractions": [
     {
       "n": "Superhero Playground",
-      "desc": "",
       "s": "0000-00-00",
       "e": "0000-00-00"
     },
     {
       "n": "Trampoline Zone",
-      "desc": "",
       "s": "0000-00-00",
       "e": "0000-00-00"
     }
@@ -60,7 +57,6 @@
     {
       "n": "Chuck E. Cheese 16m (Animatronic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "2002-12-27",
       "e": "2019-01-24"
     }

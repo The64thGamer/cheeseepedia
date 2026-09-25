@@ -1,95 +1,87 @@
 {
-    "title": "Levittown, NY (3046 Hempstead Turnpike)",
-    "storeNumber": "",
-    "startDate": "1985-01-00",
-    "endDate": "1989-00-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1985-01-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1985-01-00",
-            "e": "1989-00-00",
-            "desc": "Fourth-to-last ever installed."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.72292857",
-        "-73.52448833"
-    ],
-    "citations": [],
-    "contributors": [
-        "ThatRockHistorian76"
-    ],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ],
-    "animatronics": [
-        {
-            "n": "Chuck E. Cheese (Cyberamic)",
-            "desc": "Current whereabouts unknown.",
-            "l": "",
-            "s": "1985-01-00",
-            "e": "1989-00-00"
-        },
-        {
-            "n": "Guest Star / Helen Henny (Cyberamic)",
-            "desc": "Current whereabouts unknown.",
-            "l": "",
-            "s": "1985-01-00",
-            "e": "1989-00-00"
-        },
-        {
-            "n": "Mr. Munch (Cyberamic)",
-            "desc": "Current whereabouts unknown.",
-            "l": "",
-            "s": "1985-01-00",
-            "e": "1989-00-00"
-        },
-        {
-            "n": "Jasper T. Jowls (Cyberamic)",
-            "desc": "Current whereabouts unknown.",
-            "l": "",
-            "s": "1985-01-00",
-            "e": "1989-00-00"
-        },
-        {
-            "n": "Pasqually (Cyberamic)",
-            "desc": "Current whereabouts unknown.",
-            "l": "",
-            "s": "1985-01-00",
-            "e": "1989-00-00"
-        },
-        {
-            "n": "Warblettes (Cyberamic)",
-            "desc": "Current whereabouts unknown.",
-            "l": "",
-            "s": "1985-01-00",
-            "e": "1989-00-00"
-        },
-        {
-            "n": "Applause Board (Cyberamic)",
-            "desc": "Current whereabouts unknown.",
-            "l": "",
-            "s": "1985-01-00",
-            "e": "1989-00-00"
-        },
-        {
-            "n": "Flag Wavers (Cyberamic)",
-            "desc": "Current whereabouts unknown.",
-            "l": "",
-            "s": "1985-01-00",
-            "e": "1989-00-00"
-        }
-    ]
+  "title": "Levittown, NY (3046 Hempstead Turnpike)",
+  "storeNumber": "",
+  "startDate": "1985-01-00",
+  "endDate": "1989-00-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1985-01-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1985-01-00",
+      "e": "1989-00-00",
+      "desc": "Fourth-to-last ever installed."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.72292857",
+    "-73.52448833"
+  ],
+  "citations": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "s": "1985-01-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "s": "1985-01-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "s": "1985-01-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "s": "1985-01-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "s": "1985-01-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "s": "1985-01-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "s": "1985-01-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "s": "1985-01-00",
+      "e": "1989-00-00"
+    }
+  ]
 }

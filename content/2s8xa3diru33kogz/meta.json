@@ -65,42 +65,36 @@
     {
       "n": "Chuck E. Cheese (Cyberamic)",
       "desc": "Originally sported tuxedo outfit. Destroyed.",
-      "l": "",
       "s": "1993-06-14",
       "e": "2020-06-25"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "desc": "Destroyed.",
-      "l": "",
       "s": "1993-06-14",
       "e": "2020-06-25"
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "desc": "Kept hat until closure. Destroyed.",
-      "l": "",
       "s": "1993-06-14",
       "e": "2020-06-25"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "desc": "Destroyed.",
-      "l": "",
       "s": "1993-06-14",
       "e": "2020-06-25"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "desc": "Head frame owned by Retromelon and has since been restored back into a full Cyberamic. Otherwise destroyed.",
-      "l": "",
       "s": "1993-06-14",
       "e": "2020-06-25"
     },
     {
       "n": "Wink (Animatronic)",
       "desc": "Destroyed.",
-      "l": "",
       "s": "1993-06-14",
       "e": "2020-06-25"
     }
@@ -108,19 +102,16 @@
   "attractions": [
     {
       "n": "Barrel of Monkeys",
-      "desc": "",
       "s": "0000-00-00",
       "e": "0000-00-00"
     },
     {
       "n": "Chill Out Ice Cream Machine",
-      "desc": "",
       "s": "1994-00-00",
       "e": "0000-00-00"
     },
     {
       "n": "SkyTubes",
-      "desc": "",
       "s": "1994-00-00",
       "e": "0000-00-00"
     }

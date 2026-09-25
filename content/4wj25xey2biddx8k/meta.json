@@ -51,7 +51,6 @@
   "attractions": [
     {
       "n": "Ball Pit",
-      "desc": "",
       "s": "1982-03-17",
       "e": "0000-00-00"
     },
@@ -105,91 +104,78 @@
     {
       "n": "Chuck E. Cheese (Cyberamic)",
       "desc": "Derby removed in the late 1980s. Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
-      "l": "",
       "s": "1982-03-17",
       "e": "1996-09-16"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "desc": "Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
-      "l": "",
       "s": "1982-03-17",
       "e": "1996-09-16"
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "desc": "Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
-      "l": "",
       "s": "1982-03-17",
       "e": "1996-09-16"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "desc": "Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
-      "l": "",
       "s": "1982-03-17",
       "e": "1996-09-16"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "desc": "Auctioned off. Later used at Plaza Oeste, Chile and Lo Barnechea, Chile. Currently in storage.",
-      "l": "",
       "s": "1982-03-17",
       "e": "1996-09-16"
     },
     {
       "n": "Warblettes (Cyberamic)",
       "desc": "Black variant. Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
-      "l": "",
       "s": "1982-03-17",
       "e": "1989-00-00"
     },
     {
       "n": "The King / King Kat (Lounge)",
       "desc": "Unknown",
-      "l": "",
       "s": "1982-03-17",
       "e": "0000-00-00"
     },
     {
       "n": "John / Woodie Bowzer (Cyberamic)",
       "desc": "Unknown",
-      "l": "",
       "s": "0000-00-00",
       "e": "1996-09-16"
     },
     {
       "n": "Paul (Cyberamic)",
       "desc": "Unknown",
-      "l": "",
       "s": "0000-00-00",
       "e": "1996-09-16"
     },
     {
       "n": "George (Cyberamic)",
       "desc": "Unknown",
-      "l": "",
       "s": "0000-00-00",
       "e": "1996-09-16"
     },
     {
       "n": "Ringo (Cyberamic)",
       "desc": "Unknown",
-      "l": "",
       "s": "0000-00-00",
       "e": "1996-09-16"
     },
     {
       "n": "Band Board (Cyberamic)",
       "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
-      "l": "",
       "s": "1982-03-17",
       "e": "1989-00-00"
     },
     {
       "n": "Flag Wavers (Cyberamic)",
       "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
-      "l": "",
       "s": "1982-03-17",
       "e": "1989-00-00"
     }

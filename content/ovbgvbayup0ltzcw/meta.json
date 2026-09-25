@@ -1,39 +1,37 @@
 {
-    "title": "Volo, IL (27582 Volo Village Rd)",
-    "type": "Locations",
-    "pageThumbnailFile": "",
-    "downloadLinks": [],
-    "citations": [],
-    "tags": [
-        "Creative Engineering"
-    ],
-    "startDate": "0000-00-00",
-    "endDate": "",
-    "recommend": false,
-    "latitudeLongitude": [
-        "",
-        ""
-    ],
-    "credits": [],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "desc": "",
-            "s": "0000-00-00",
-            "e": ""
-        }
-    ],
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "animatronics": [],
-    "attractions": [],
-    "showtapeFormats": [],
-    "contributors": [
-        "sudo-trans-pony"
-    ]
+  "title": "Volo, IL (27582 Volo Village Rd)",
+  "type": "Locations",
+  "pageThumbnailFile": "",
+  "downloadLinks": [],
+  "citations": [],
+  "tags": [
+    "Creative Engineering"
+  ],
+  "startDate": "0000-00-00",
+  "endDate": "",
+  "recommend": false,
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "credits": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "0000-00-00"
+    }
+  ],
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "animatronics": [],
+  "attractions": [],
+  "showtapeFormats": [],
+  "contributors": [
+    "sudo-trans-pony"
+  ]
 }

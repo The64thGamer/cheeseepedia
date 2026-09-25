@@ -42,7 +42,6 @@
   "attractions": [
     {
       "n": "Cheese Crawl",
-      "desc": "",
       "s": "1983-03-15",
       "e": "0000-00-00"
     },
@@ -77,49 +76,42 @@
     {
       "n": "Chuck E. Cheese (Cyberamic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "1983-03-15",
       "e": "1996-11-00"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "1983-03-15",
       "e": "1996-11-00"
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "1983-03-15",
       "e": "1996-11-00"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "1983-03-15",
       "e": "1996-11-00"
     },
     {
       "n": "Pasqually (Cyberamic)",
       "desc": "Current whereabouts unknown.",
-      "l": "",
       "s": "1983-03-15",
       "e": "1996-11-00"
     },
     {
       "n": "Warblettes (Cyberamic)",
       "desc": "Removed upon installation of Chuck E.'s House Facade.",
-      "l": "",
       "s": "1983-03-15",
       "e": "0000-00-00"
     },
     {
       "n": "The King / King Kat (Lounge)",
       "desc": "Auctioned off. Current whereabouts unknown.",
-      "l": "",
       "s": "1983-03-15",
       "e": "1996-11-00"
     }
