@@ -1,0 +1,22 @@
+{
+  "title": "Newport Crossing, VA (403 Oriana Rd)",
+  "startDate": "1994-06-26",
+  "endDate": "1999-06-24",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "1994-06-26"
+    }
+  ],
+  "latitudeLongitude": [
+    "36.9856071",
+    "-76.4236681"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

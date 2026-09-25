@@ -1,0 +1,22 @@
+{
+  "title": "Canton, OH (4321 Whipple Ave NW)",
+  "startDate": "0000-00-00",
+  "endDate": "0000-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "40.8466436",
+    "-81.4251987"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

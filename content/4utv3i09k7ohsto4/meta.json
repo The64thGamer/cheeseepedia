@@ -1,0 +1,22 @@
+{
+  "title": "Windsor Square, TN (192 N Seven Oaks Dr)",
+  "startDate": "1993-00-00",
+  "endDate": "1995-12-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "1993-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "35.9114627",
+    "-84.0987434"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Cincinnati, OH (4601 Eastgate Blvd Suite 715)",
+  "startDate": "2020-02-07",
+  "endDate": "2025-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "2020-02-07"
+    }
+  ],
+  "latitudeLongitude": [
+    "39.1032669",
+    "-84.2777458"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

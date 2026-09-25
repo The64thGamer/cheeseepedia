@@ -1,0 +1,22 @@
+{
+  "title": "Chattanooga, TN (2020 Gunbarrel Rd Suite 178)",
+  "startDate": "1993-00-00",
+  "endDate": "1996-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "1993-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "35.0312051",
+    "-85.1507555"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}
