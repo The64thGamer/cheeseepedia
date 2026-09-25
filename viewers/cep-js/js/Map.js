@@ -5,12 +5,11 @@ const LEAFLET_JS  = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
 
 const PIN_FILES = {
   ptt:               'ptt.png',
-  spp:               'spp.png',
-  cec:               'cec.png',
+  spp:               'Montfort.avif',
   cec2:              'IngramDrive.avif',
   cec2000s:          'IDrive.avif',
-  spt80s_ptt:        'cec.png',
-  spt80s_spp:        'spp.png',
+  spt80s_ptt:        'Justiss.avif',
+  spt80s_spp:        'ShowbizIdkStore.avif',
   spt90s:            'Spokane.avif',
   ppp2:              'PeterPiperPizza.avif',
   funspotarcade:     'other.png',

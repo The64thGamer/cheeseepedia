@@ -9,7 +9,6 @@ OUT_FILE    = os.path.join(OUT_DIR, "map_pins.json")
 REMODEL_PIN_MAP = {
     "PTT Standard Layout": "ptt",
     "SPP Standard Layout": "spp",
-    "Concept Unification": "cec",
     "CEC 2.0 Remodel Program": "cec2",
     "CEC 2000's Remodel Program": "cec2000s",
     "SPT 1990's Remodel Program": "spt90s",
@@ -22,7 +21,10 @@ REMODEL_PIN_MAP = {
     "2025 Chuck's Arcade Remodel": "chucksarcade2025",
 }
 
-TRACKED_REMODELS = set(REMODEL_PIN_MAP.keys()) | {"SPT 1980's Remodel Program"}
+TRACKED_REMODELS = set(REMODEL_PIN_MAP.keys()) | {
+    "SPT 1980's Remodel Program",
+    "Concept Unification",
+}
 
 def normalize_date(s, kind="start"):
     if not s or not isinstance(s, str): return None
@@ -57,14 +59,18 @@ def build_eras(remodels):
             if not isinstance(item, dict): continue
             name = (item.get('n') or '').strip()
             if name not in TRACKED_REMODELS: continue
-            date = normalize_date(item.get('s', ''), kind='cu')
+            raw_s = (item.get('s') or '').strip()
+            if name == "Concept Unification" and raw_s == '0000-00-00':
+                date = '1992-01-01'
+            else:
+                date = normalize_date(raw_s, kind='cu')
             if not date: continue
             raw.append({'n': name, 's': date})
     raw.sort(key=lambda e: e['s'])
 
     eras = []
     last_ptt_spp = None
-    for item in raw:
+    for idx, item in enumerate(raw):
         name = item['n']
         if name == "SPT 1980's Remodel Program":
             if last_ptt_spp == 'ptt':
@@ -73,6 +79,15 @@ def build_eras(remodels):
                 pin = 'spt80s_spp'
             else:
                 pin = 'other'
+        elif name == "Concept Unification":
+            if last_ptt_spp == 'spp':
+                last_ptt_spp = 'ptt'
+                has_future_80s = any(
+                    r['n'] == "SPT 1980's Remodel Program" for r in raw[idx + 1:]
+                )
+                if not has_future_80s:
+                    eras.append({'s': item['s'], 'pin': 'spt80s_ptt'})
+            continue
         else:
             pin = REMODEL_PIN_MAP.get(name, 'other')
             if pin in ('ptt', 'spp'):
