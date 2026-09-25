@@ -1,9 +1,13 @@
 {
     "title": "Manassas, VA (7730 Streamwalk Lane)",
     "storeNumber": "",
-    "startDate": "2000-03-23",
+    "startDate": "0000-00-00",
     "endDate": "",
     "remodels": [
+        {
+            "n": "Discovery Zone Standard Layout",
+            "s": "0000-00-00"
+        },
         {
             "n": "SPT 1990's Remodel Program",
             "s": "2000-03-23"
@@ -28,8 +32,8 @@
     "attractions": [],
     "sqft": "",
     "latitudeLongitude": [
-        "0",
-        "0"
+        "38.7958277",
+        "-77.5202392"
     ],
     "citations": [],
     "contributors": [],
@@ -37,6 +41,7 @@
     "pageThumbnailFile": "KGUnCr9w2ByBnMLHtdOO.avif",
     "type": "Locations",
     "tags": [
-        "Chuck E. Cheese's"
+        "Chuck E. Cheese's",
+        "Discovery Zone"
     ]
 }

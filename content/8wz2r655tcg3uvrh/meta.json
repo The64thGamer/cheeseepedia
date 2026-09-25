@@ -1,9 +1,13 @@
 {
     "title": "Kennesaw, GA (824 Earnest W Barrett Pkwy)",
     "storeNumber": "",
-    "startDate": "1999-11-19",
+    "startDate": "0000-00-00",
     "endDate": "",
     "remodels": [
+        {
+            "n": "Discovery Zone Standard Layout",
+            "s": "0000-00-00"
+        },
         {
             "n": "SPT 1990's Remodel Program",
             "s": "1999-11-19"
@@ -37,6 +41,7 @@
     "pageThumbnailFile": "SBSPJF_CEC_KENNESAWGA.avif",
     "type": "Locations",
     "tags": [
-        "Chuck E. Cheese's"
+        "Chuck E. Cheese's",
+        "Discovery Zone"
     ]
 }
