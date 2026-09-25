@@ -1,0 +1,22 @@
+{
+  "title": "Jacksonville, FL (10740 Atlantic Blvd)",
+  "startDate": "0000-00-00",
+  "endDate": "1999-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "30.3244685",
+    "-81.5096920"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

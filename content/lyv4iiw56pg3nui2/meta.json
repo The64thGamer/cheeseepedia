@@ -1,0 +1,22 @@
+{
+  "title": "Westmont, IL (6230 S Cass Ave)",
+  "startDate": "1994-00-00",
+  "endDate": "1998-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "1994-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "41.7757306",
+    "-87.9747116"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

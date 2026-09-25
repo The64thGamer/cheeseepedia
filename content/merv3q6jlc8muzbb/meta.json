@@ -1,0 +1,22 @@
+{
+  "title": "Darien, IL (7511 Lemont Rd)",
+  "startDate": "1993-00-00",
+  "endDate": "1994-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "1993-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "41.7357740",
+    "-88.0117045"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

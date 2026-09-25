@@ -1,0 +1,22 @@
+{
+  "title": "Chicago, IL (2331 Surry Rd)",
+  "startDate": "1996-00-00",
+  "endDate": "2001-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "1996-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "41.8958413",
+    "-87.6356943"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}

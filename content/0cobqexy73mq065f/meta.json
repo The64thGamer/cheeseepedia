@@ -1,0 +1,22 @@
+{
+  "title": "Villa Park, IL (154 W Roosevelt Rd)",
+  "startDate": "0000-00-00",
+  "endDate": "1996-00-00",
+  "contributors": [
+    "Luigigamin212"
+  ],
+  "remodels": [
+    {
+      "n": "Discovery Zone Standard Layout",
+      "s": "0000-00-00"
+    }
+  ],
+  "latitudeLongitude": [
+    "41.8604904",
+    "-87.9772924"
+  ],
+  "type": "Locations",
+  "tags": [
+    "Discovery Zone"
+  ]
+}
