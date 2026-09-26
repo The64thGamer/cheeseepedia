@@ -1,0 +1,1 @@
+The Jingle Bell Jamboree center stage around early 1988 [1]

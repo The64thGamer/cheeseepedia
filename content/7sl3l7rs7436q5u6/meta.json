@@ -31,10 +31,9 @@
   ],
   "citations": [
     "https://www.newspapers.com/article/the-buffalo-news-new-hartford-utica-pt/141183105",
+    "https://cheeseepedia.org/?v=cep-js&=5mwuq357re6wdmhm",
     "https://www.newspapers.com/article/the-buffalo-news-one-for-the-kiddies/163128396",
-    "https://www.newspapers.com/article/the-buffalo-news-cheektowaga/110758544",
-    "https://www.newspapers.com/article/the-buffalo-news/112258886",
-    "https://www.newspapers.com/articles/the-buffalo-news-new-hartford-utica-pt/141183653"
+    "https://cheeseepedia.org/?v=cep-js&=oi7eyvq1p9ia48df"
   ],
   "contributors": [
     "ThatRockHistorian76"
@@ -55,7 +54,7 @@
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
-      "desc": "Either Harmony Howlette or Madame Oink upon opening, Helen Henny by 1984. Sold at auction.",
+      "desc": "Originally Harmony Howlette upon opening, Helen Henny by 1984. Sold at auction.",
       "s": "1982-11-26",
       "e": "1985-07-29"
     },
@@ -80,6 +79,13 @@
     {
       "n": "Warblettes (Cyberamic)",
       "desc": "Sold at auction.",
+      "s": "1982-11-26",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "desc": "Sold at auction. Current whereabouts unknown.",
+      "l": "",
       "s": "1982-11-26",
       "e": "1985-07-29"
     }
