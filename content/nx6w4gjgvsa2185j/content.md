@@ -1,0 +1,1 @@
+Charleston, SC Chuck E. Cheese's Store Tour "Smile"

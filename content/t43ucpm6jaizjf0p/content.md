@@ -1,0 +1,1 @@
+Redding, CA Chuck E. Cheese Store Tour

@@ -1,0 +1,1 @@
+Clips n’ Pics from Chuck E. Cheese Huntsville AL | Oct. 2, 2021

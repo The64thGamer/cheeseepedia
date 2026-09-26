@@ -1,0 +1,1 @@
+A Short Tour of Hialeah, FL - Chuck E. Cheese's

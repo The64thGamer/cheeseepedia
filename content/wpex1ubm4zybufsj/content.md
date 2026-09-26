@@ -1,0 +1,1 @@
+September 2012 Segment 3 - Chuck E. Cheese's West Orlando

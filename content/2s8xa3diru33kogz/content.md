@@ -1,4 +1,4 @@
-***Amherst, NY (4994 Harlem Rd)*** was a Chuck E. Cheese's located within Sheridan Harlem Plaza that opened on June 14, 1993, with a [1-Stage] and closed on June 25, 2020, due to the bankruptcy. This location should not be confused with [Amherst, NY (1551 Niagara Falls Blvd)], which was a Showbiz Pizza Place that opened on March 15, 1983, with a [Classic Stage] and closed in January or February 1988.
+***Amherst, NY (4994 Harlem Rd)*** was a Chuck E. Cheese's located within Sheridan Harlem Plaza that opened on June 14, 1993, with a 1-Stage and closed on June 25, 2020, due to the bankruptcy. This location should not be confused with [Amherst, NY (1551 Niagara Falls Blvd)], which was a Showbiz Pizza Place that opened on March 15, 1983, with a Classic Stage and closed in January or February 1988.
 
 ## History
 
@@ -8,9 +8,7 @@ Prior to becoming a Chuck E. Cheese's, the space in which the Amherst store woul
 
 ### Opening and Early Years
 
-The Amherst Chuck E. Cheese's opened on June 14, 1993, at 4:00pm [2] with the [SPT 1990's Remodel Program] and a 1-Stage. The store was owned and operated by Family Entertainment Centers of Milwaukee, Wisconsin, and the time of its opening, it employed about 100 employees. [3] The Amherst store was the first CEC in the Buffalo area since the closure of the [Cheektowaga, NY (Thruway Mall)] Pizza Time Theatre on July 29, 1985, the second to ever open in the area, and the second CEC to open in New York during the 1990s, following [Patchogue, NY (121 Sunrise Hwy)]. By 1994, the store had received [Phase 1 (1994)].
-
-Sometime in the early 2000s, the store received [Phase 3 (2000)]. Its final interior remodel occurred around 2005, when it received the [CEC 2000's Remodel Program]. In 2013, the store received its second and final exterior iteration, that being the [CEC 2013 Update Program].
+The Amherst Chuck E. Cheese's opened on June 14, 1993, at 4:00pm [2] with a 1-Stage. The store was owned and operated by Family Entertainment Centers of Milwaukee, Wisconsin, and the time of its opening, it employed about 100 employees. [3] The Amherst store was the first CEC in the Buffalo area since the closure of the [Cheektowaga, NY (Thruway Mall)] Pizza Time Theatre on July 29, 1985, the second to ever open in the area, and the second CEC to open in New York during the 1990s.
 
 ### 2015-2018 Incidents
 

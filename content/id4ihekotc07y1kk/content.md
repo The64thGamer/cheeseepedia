@@ -1,0 +1,1 @@
+"Laughter is the Best Medicine" - East Orlando Chuck E. Cheese's

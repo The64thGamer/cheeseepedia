@@ -1,0 +1,1 @@
+Larger Than Life (Left) Best of 2003 Studio C

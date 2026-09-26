@@ -1,0 +1,1 @@
+Jingle Bell Jamboree full stage color shot from a Promo on brochure

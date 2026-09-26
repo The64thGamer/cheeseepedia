@@ -2,10 +2,23 @@
   "title": "Santa Claus (Jingle Bell Jamboree Animatronic)",
   "type": "Animatronics",
   "tags": [
-    "Creative Engineering"
+    "Creative Engineering",
+    "Jingle Bell Jamboree",
+    "Santa's Village (Jefferson, New Hampshire)"
   ],
-  "pageThumbnailFile": "",
-  "startDate": "",
-  "endDate": "0000-00-00",
-  "contributors": []
+  "pageThumbnailFile": "01kit4smekcp79cm",
+  "startDate": "1977-00-00",
+  "endDate": "2006-00-00",
+  "contributors": [
+    "TutorialTimeYt"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "citations": [
+    "https://www.youtube.com/watch?v=P_xrIayIsV8",
+    "https://www.showbizpizza.com/events/12daysofdata/index.html",
+    "https://www.instagram.com/p/CEgu7b2HDWb/"
+  ]
 }
