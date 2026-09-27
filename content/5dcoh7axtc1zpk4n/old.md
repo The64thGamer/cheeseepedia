@@ -42,7 +42,7 @@ Durham opened up with a Mini Unit 1-Stage, and was the last of its kind, sportin
 
 | Animatronic                                                  | Serial No. | Whereabouts | Notes                         |
 |--------------------------------------------------------------|------------|-------------|-------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 2030       | In-store    | Eyelids are stuck at the top  |
+| [Chuck E. Cheese (Cyberamic)]      | 2030       | In-store    | Eyelids are stuck at the top  |
 | [Guest Star / Helen Henny (Cyberamic)] | N/A        | In-store    | Missing eyelids               |
 | [Mr. Munch (Cyberamic)]               | N/A        | In-store    | Low mouth flows               |
 | [Jasper T. Jowls (Cyberamic)]         | N/A        | In-store    | Eyelids stay up during shows. |

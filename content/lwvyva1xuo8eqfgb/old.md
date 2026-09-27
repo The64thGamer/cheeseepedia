@@ -27,13 +27,13 @@ When this store opened, they would have a [Cyberamics Balcony Stage], which woul
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts       | Notes |
 |--------------------------------------------------------------|--------------------|-------------------|-------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1984               | Unknown/Destroyed |       |
+| [Chuck E. Cheese (Cyberamic)]      | 1984               | Unknown/Destroyed |       |
 | [Guest Star / Helen Henny (Cyberamic)] | 1982               | Unknown/Destroyed |       |
 | [Mr. Munch (Cyberamic)]               | 1984               | Unknown/Destroyed |       |
 | [Jasper T. Jowls (Cyberamic)]         | 1984               | Unknown/Destroyed |       |
 | [Pasqually (Cyberamic)]              | 1984               | Unknown/Destroyed |       |
 | [Warblettes (Cyberamic)]             | 1984               | Unknown/Destroyed |       |
-| Waving Flags (Cyberamic)                                     | 1984               | Unknown/Destroyed |       |
+| [Flag Wavers (Cyberamic)]                                     | 1984               | Unknown/Destroyed |       |
 | [Applause Board (Cyberamic)]         | 1984               | Unknown/Destroyed |       |
 | [Drum Board (Cyberamic)]             | 1984               | Unknown/Destroyed |       |
 

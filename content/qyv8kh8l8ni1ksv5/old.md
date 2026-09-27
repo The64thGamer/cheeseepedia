@@ -16,11 +16,11 @@ Beaumont opened with either Harmony Howlette or Madame Oink. They also had The K
 |--------------------------------------------------------------|--------------------|-------------|
 | [Mr. Munch (Cyberamic)]               | 1981/1982          | Unknown.    |
 | [Jasper T. Jowls (Cyberamic)]         | 1981/1982          | Unknown.    |
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981/1982          | Unknown.    |
+| [Chuck E. Cheese (Cyberamic)]      | 1981/1982          | Unknown.    |
 | [Guest Star / Helen Henny (Cyberamic)] | 1981/1982          | Unknown.    |
 | [Pasqually (Cyberamic)]              | 1981/1982          | Unknown.    |
 | [Warblettes (Cyberamic)]             | 1981/1982          | Unknown.    |
-| Waving Flags (Cyberamic)                                     | 1981/1982          | Unknown.    |
+| [Flag Wavers (Cyberamic)]                                     | 1981/1982          | Unknown.    |
 | [Applause Board (Cyberamic)]         | 1981/1982          | Unknown.    |
 | [Drum Board (Cyberamic)]             | 1981/1982          | Unknown.    |
 | [The King King Kat (Lounge)]         | 1981/1982          | Unknown.    |

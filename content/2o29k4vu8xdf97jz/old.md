@@ -20,11 +20,11 @@ The store would open in Summer of 1980, being franchised by Roy Taylor and Scott
 |--------------------------------------------------------------|-------------|
 | [Mr. Munch (Cyberamic)]               | Unknown     |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown     |
 | [Warblettes (Cyberamic)]             | Unknown     |
-| Waving Flags (Cyberamic)                                     | Unknown     |
+| [Flag Wavers (Cyberamic)]                                     | Unknown     |
 | [Applause Board (Cyberamic)]         | Unknown     |
 | [Drum Board (Cyberamic)]             | Unknown     |
 | [The King King Kat (Lounge)]         | Unknown     |

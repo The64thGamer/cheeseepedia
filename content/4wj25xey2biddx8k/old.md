@@ -18,7 +18,7 @@ Penfield opened on March 17, 1982, as Pizza Time Theatre with a Balcony Stage It
 
 | Animatronic                                                  | Manufacturing Date  | Whereabouts                                                                   |                                                                               |
 |--------------------------------------------------------------|---------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | February 1, 1982(1) | Currently at [santiago-las-condeslo-barnechea-chile/] |                                                                               |
+| [Chuck E. Cheese (Cyberamic)]      | February 1, 1982(1) | Currently at [santiago-las-condeslo-barnechea-chile/] |                                                                               |
 | [Guest Star / Helen Henny (Cyberamic)] | 1981-1982           | Currently at [santiago-las-condeslo-barnechea-chile/] |                                                                               |
 | [Mr. Munch (Cyberamic)]               | 1981-1982           | Currently at [santiago-las-condeslo-barnechea-chile/] |                                                                               |
 | [Jasper T. Jowls (Cyberamic)]         | 1981-1982           | Not working                                                                   | Currently at [santiago-las-condeslo-barnechea-chile/] |

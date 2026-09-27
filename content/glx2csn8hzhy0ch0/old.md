@@ -18,7 +18,7 @@ Originally, Mississauga (Dixie) featured a Road Stage which they still have to t
 
 | Animatronic                                | Serial Number | Whereabouts          |
 |--------------------------------------------|---------------|----------------------|
-| Chuck E. Cheese (Cyberamic)                | N/A           | Moved to Willowdale. |
+| [Chuck E. Cheese (Cyberamic)]                | N/A           | Moved to Willowdale. |
 | Pasqually (Cyberamic)                      | N/A           | Moved to Willowdale. |
 | Mr. Munch (Cyberamic)                      | N/A           | Moved to Willowdale. |
 | Jasper T. Jowls (Cyberamic)                | N/A           | Moved to Willowdale. |

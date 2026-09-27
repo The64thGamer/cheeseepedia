@@ -37,7 +37,7 @@ The building would remain vacant again for a few years until it became a bank. T
 | [Jasper T. Jowls (Cyberamic)] (Banjoe)               | 1983               | Unknown                                     |
 | [Pasqually (Cyberamic)] (Sergeant Pepperoni)        | 1983               | Unknown                                     |
 | [Warblettes (Cyberamic)]                            | 1983               | Owned by the American Treasure Tour Museum. |
-| Clapper Board (Cyberamic)                                                   | 1983               | Unknown                                     |
+| [Clapper Board (Cyberamic)]                                                   | 1983               | Unknown                                     |
 | [Drum Board (Cyberamic)]                            | 1983               | Unknown                                     |
 | [Flag Wavers (Cyberamic)]                           | 1983               | Unknown                                     |
 

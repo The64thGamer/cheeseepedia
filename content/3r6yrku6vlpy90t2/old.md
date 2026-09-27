@@ -23,8 +23,8 @@ When Corpus Christi opened, it housed a Balcony Stage like the other Pizza Time 
 | [Pasqually (Cyberamic)]              | Unknown            | Destroyed                                                                |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown / Destroyed                                                      |
 | [Singing Flowers (Cyberamic)]        | Unknown            | Unknown / Destroyed                                                      |
-| Waving Flags (Cyberamic)                                     | Unknown            | Owned by [Matt the Franchize](https://www.youtube.com/@MattTheFranchize) |
-| Clapper Board (Cyberamic)                                    | Unknown            | Unknown / Destroyed                                                      |
+| [Flag Wavers (Cyberamic)]                                     | Unknown            | Owned by [Matt the Franchize](https://www.youtube.com/@MattTheFranchize) |
+| [Clapper Board (Cyberamic)]                                    | Unknown            | Unknown / Destroyed                                                      |
 | Band Board (Cyberamic)                                       | Unknown            | Unknown / Destroyed                                                      |
 | [The King King Kat (Lounge)]         | Unknown            | Unknown / Destroyed                                                      |
 | [Chuck E Cheese 16m (Animatronic)]   | 2003               | Destroyed                                                                |

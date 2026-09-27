@@ -12,13 +12,13 @@ The location originally started as a Country Boy Market store, before being remo
 
 | Character                                                    | Serial Number | Status            |
 |--------------------------------------------------------------|---------------|-------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown       | Unknown/Destroyed |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Unknown/Destroyed |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown/Destroyed |
 | [Mr. Munch (Cyberamic)]               | Unknown       | Unknown/Destroyed |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown/Destroyed |
 | [Pasqually (Cyberamic)]              | Unknown       | Unknown/Destroyed |
 | [Warblettes (Cyberamic)]             | Unknown       | Unknown/Destroyed |
-| Waving Flags (Cyberamic)                                     | Unknown       | Unknown/Destroyed |
+| [Flag Wavers (Cyberamic)]                                     | Unknown       | Unknown/Destroyed |
 | [Applause Board (Cyberamic)]         | Unknown       | Unknown/Destroyed |
 | [Drum Board (Cyberamic)]             | Unknown       | Unknown/Destroyed |
 | [Dolli Dimples (Cabaret)]            | Unknown       | Unknown/Destroyed |

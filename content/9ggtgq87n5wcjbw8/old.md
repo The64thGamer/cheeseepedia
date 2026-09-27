@@ -17,11 +17,11 @@ El Cajon would open sometime in May 1982 (Date Unknown) in the former Kmart Food
 |--------------------------------------------------------------|-------------|
 | [Mr. Munch (Cyberamic)]               | Unknown.    |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown.    |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown.    |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown.    |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown.    |
 | [Pasqually (Cyberamic)]              | Unknown.    |
 | [Warblettes (Cyberamic)]             | Unknown.    |
-| Waving Flags (Cyberamic)                                     | Unknown.    |
+| [Flag Wavers (Cyberamic)]                                     | Unknown.    |
 | [Applause Board (Cyberamic)]         | Unknown.    |
 | [Drum Board (Cyberamic)]             | Unknown.    |
 | [Singing Flowers (Cyberamic)]        | Unknown.    |

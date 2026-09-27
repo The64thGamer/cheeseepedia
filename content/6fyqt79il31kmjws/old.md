@@ -19,13 +19,13 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 
 | Animatronic                                                  | Serial Number | Whereabouts       |
 |--------------------------------------------------------------|---------------|-------------------|
-| Chuck E. Cheese (Cyberamic)                                   | N/A           | Destroyed         |
+| [Chuck E. Cheese (Cyberamic)]                                   | N/A           | Destroyed         |
 | [Guest Star / Helen Henny (Cyberamic)] | N/A           | Destroyed         |
 | [Mr. Munch (Cyberamic)]               | N/A           | Destroyed         |
 | [Jasper T. Jowls (Cyberamic)]         | N/A           | Destroyed         |
 | [Pasqually (Cyberamic)]              | N/A           | Destroyed         |
 | [Warblettes (Cyberamic)]             | N/A           | Unknown/Destroyed |
-| Waving Flags (Cyberamic)                                     | N/A           | Unknown/Destroyed |
+| [Flag Wavers (Cyberamic)]                                     | N/A           | Unknown/Destroyed |
 | [Applause Board (Cyberamic)]         | N/A           | Unknown/Destroyed |
 | [Drum Board (Cyberamic)]             | N/A           | Unknown/Destroyed |
 | [Singing Flowers (Cyberamic)]        | N/A           | Unknown/Destroyed |

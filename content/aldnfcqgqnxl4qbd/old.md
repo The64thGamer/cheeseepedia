@@ -16,14 +16,14 @@ Citrus Heights opened with a Portrait Stage, but we only have one photo showing 
 
 | Animatronic                                                  | Serial Number | Installed     | Removed      | Whereabouts               | Notes                                                                        |
 |--------------------------------------------------------------|---------------|---------------|--------------|---------------------------|------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
 | [Pasqually (Cyberamic)]              | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
 | [Mr. Munch (Cyberamic)]               | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. | Originally had Sally Sashay Cosmetics.                                       |
 | [Warblettes (Cyberamic)]             | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
-| Waving Flags (Cyberamic)                                     | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
-| Clapper Board (Cyberamic)                                    | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
+| [Flag Wavers (Cyberamic)]                                     | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
+| [Clapper Board (Cyberamic)]                                    | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
 | [Drum Board (Cyberamic)]             | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. |                                                                              |
 | [Dolli Dimples (Cabaret)]            | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction  |                                                                              |
 | [Helen Henny (Lounge)]               | Unknown       | December 1979 | January 1985 | Unknown. Sold In Auction. | [Huntington Beach, CA (15511 Edwards St)] Confirmed. |

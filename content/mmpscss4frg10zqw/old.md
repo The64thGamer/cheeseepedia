@@ -97,19 +97,19 @@ On July 25, 2023 Northridge would start its [CEC 2.0 Remodel Program]. It was or
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                                     |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981               | Destroyed / Replaced with Lancaster, CA’s.                                                                                      |
+| [Chuck E. Cheese (Cyberamic)]      | 1981               | Destroyed / Replaced with Lancaster, CA’s.                                                                                      |
 | [Guest Star / Helen Henny (Cyberamic)] | 1981               | Destroyed / Replaced with Lancaster, CA’s.                                                                                      |
 | [Mr. Munch (Cyberamic)]               | 1981               | Destroyed / Replaced with Lancaster, CA’s.                                                                                      |
 | [Jasper T. Jowls (Cyberamic)]         | 1981               | Destroyed / Replaced with Lancaster, CA’s.                                                                                      |
 | [Pasqually (Cyberamic)]              | 1981               | Destroyed / Replaced with Lancaster, CA’s.                                                                                      |
 | [Warblettes (Cyberamic)]             | 1981               | Unknown.                                                                                                                        |
-| Waving Flags (Cyberamic)                                     | 1981               | Unknown.                                                                                                                        |
+| [Flag Wavers (Cyberamic)]                                     | 1981               | Unknown.                                                                                                                        |
 | [Applause Board (Cyberamic)]         | 1981               | Unknown.                                                                                                                        |
 | [Drum Board (Cyberamic)]             | Unknown            | Unknown.                                                                                                                        |
 | [Singing Flowers (Cyberamic)]        | Unknown            | Unknown.                                                                                                                        |
 | [Dolli Dimples (Cabaret)]            | 1981               | Unknown.                                                                                                                        |
 | [The King King Kat (Lounge)]         | 1981               | Unknown.                                                                                                                        |
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1992               | In store. Originally from Lancaster, CA.                                                                                        |
+| [Chuck E. Cheese (Cyberamic)]      | 1992               | In store. Originally from Lancaster, CA.                                                                                        |
 | [Guest Star / Helen Henny (Cyberamic)] | 1992               | In store. Originally from Lancaster, CA.                                                                                        |
 | [Mr. Munch (Cyberamic)]               | 1992               | In store. Originally from Lancaster, CA.                                                                                        |
 | [Jasper T. Jowls (Cyberamic)]         | 1992               | In store. Originally from Lancaster, CA. Currently wearing [West Hills, CA (22940 Van Owen St)]'s mask. |

@@ -15,7 +15,7 @@ Philadelphia on Snyder Ave opened on September 15th, 1992 with a [2-Stage] (A de
 
 | Animatronic                                                  | Manufacturing date | Status     |
 |--------------------------------------------------------------|--------------------|------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1992               | Destroyed. |
+| [Chuck E. Cheese (Cyberamic)]      | 1992               | Destroyed. |
 | [Guest Star / Helen Henny (Cyberamic)] | 1992               | Destroyed. |
 | [Mr. Munch (Cyberamic)]               | 1992               | Destroyed. |
 | [Jasper T. Jowls (Cyberamic)]         | 1992               | Destroyed. |

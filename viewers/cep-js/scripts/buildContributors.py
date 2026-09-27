@@ -9,8 +9,8 @@ AVATAR_DIR  = os.path.join(OUT_DIR, "avatars")
 OUT_JSON    = os.path.join(OUT_DIR, "contributors.json")
 DISCOURSE   = "https://forum.cheeseepedia.org"
 
-API_KEY  = os.environ.get('DISCOURSE_API_KEY')
-API_USER = os.environ.get('DISCOURSE_API_USERNAME', 'system')
+API_KEY  = (os.environ.get('DISCOURSE_API_KEY') or '').strip()
+API_USER = (os.environ.get('DISCOURSE_API_USERNAME') or 'system').strip()
 
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
 if API_KEY:

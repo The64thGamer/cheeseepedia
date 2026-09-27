@@ -24,7 +24,7 @@ TODO
 
 | Animatronic                                                  | Manufacturing Date | Status  |
 |--------------------------------------------------------------|--------------------|---------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1991               | Unknown |
+| [Chuck E. Cheese (Cyberamic)]      | 1991               | Unknown |
 | [Guest Star / Helen Henny (Cyberamic)] | 1991               | Unknown |
 | [Mr. Munch (Cyberamic)]               | 1991               | Unknown |
 | [Jasper T. Jowls (Cyberamic)]         | 1991               | Unknown |

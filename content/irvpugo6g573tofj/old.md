@@ -17,11 +17,11 @@ This location opened as a Pizza Time Theater in August 1983 and then closed in 1
 |--------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------------------------------|
 | [Mr. Munch (Cyberamic)]               | Unknown       | Retrofitted, currently at Gillian's Wonderland Pier. Mask from [The King King Kat (Lounge)]. |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown       | Retrofitted, currently at Gillian's Wonderland Pier.                                                                 |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown       | Retrofitted, currently at Gillian's Wonderland Pier. Head presumably from a spare Pasqually Cyberamic.               |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Retrofitted, currently at Gillian's Wonderland Pier. Head presumably from a spare Pasqually Cyberamic.               |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Retrofitted, currently at Gillian's Wonderland Pier.                                                                 |
 | [Pasqually (Cyberamic)]              | Unknown       | Retrofitted, currently at Gillian's Wonderland Pier.                                                                 |
 | [Warblettes (Cyberamic)]             | Unknown       | Unknown                                                                                                              |
-| Clapper Board (Cyberamic)                                    | Unknown       | Unknown                                                                                                              |
+| [Clapper Board (Cyberamic)]                                    | Unknown       | Unknown                                                                                                              |
 | [The King King Kat (Lounge)]         | Unknown       | Mask used for Zach Periwinkles/Gillian's                                                                             |
 
 ## Videos

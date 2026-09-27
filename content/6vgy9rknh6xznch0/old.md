@@ -80,13 +80,13 @@ Albuquerque (Wyoming) opened with the Balcony Stage in October 1981. Unfortunate
 
 | Character                                                    | Serial   | Status            |
 |--------------------------------------------------------------|----------|-------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown. | Destroyed         |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown. | Destroyed         |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown. | Destroyed         |
 | [Mr. Munch (Cyberamic)]               | Unknown. | Destroyed         |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown. | Destroyed         |
 | [Pasqually (Cyberamic)]              | Unknown. | Destroyed         |
 | [Warblettes (Cyberamic)]             | Unknown. | Unknown/Destroyed |
-| Waving Flags (Cyberamic)                                     | Unknown. | Unknown/Destroyed |
+| [Flag Wavers (Cyberamic)]                                     | Unknown. | Unknown/Destroyed |
 | [Applause Board (Cyberamic)]         | Unknown. | Unknown/Destroyed |
 | [Drum Board (Cyberamic)]             | Unknown. | Unknown/Destroyed |
 | [Singing Flowers (Cyberamic)]        | N/A      | Unknown/Destroyed |

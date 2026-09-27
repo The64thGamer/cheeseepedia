@@ -18,7 +18,7 @@ During the closure, all animatronic mechs were thrown into the Cognex trash comp
 
 | Animatronics                                                 | Manufacturing Date | Status                                   |
 |--------------------------------------------------------------|--------------------|------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1991-1992          | Thrown into a trash compactor, destroyed |
+| [Chuck E. Cheese (Cyberamic)]      | 1991-1992          | Thrown into a trash compactor, destroyed |
 | [Guest Star / Helen Henny (Cyberamic)] | 1991-1992          | Thrown into a trash compactor, destroyed |
 | [Mr. Munch (Cyberamic)]               | 1991-1992          | Thrown into a trash compactor, destroyed |
 | [Jasper T. Jowls (Cyberamic)]         | 1991-1992          | Thrown into a trash compactor, destroyed |

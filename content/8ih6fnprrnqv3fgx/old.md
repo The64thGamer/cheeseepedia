@@ -68,13 +68,13 @@ The Kooser Road Pizza Time Theatre was the first and potentially last Chuck E. C
 | Kooser Mopsey Sisters (Animatronic)                                 | 1978               | Unknown                       |
 | [Kooser Flag Wavers (Animatronic)]          | 1978               | Unknown                       |
 | Kooser Applause Board (Animatronic)                                 | 1978               | Unknown                       |
-| Chuck E. Cheese (Cyberamic)                                          | 1980               | Destroyed                     |
+| [Chuck E. Cheese (Cyberamic)]                                          | 1980               | Destroyed                     |
 | [Guest Star / Helen Henny (Cyberamic)]        | 1980               | Destroyed, Parts sold on eBay |
 | [Mr. Munch (Cyberamic)]                      | 1980               | Sold on eBay                  |
 | [Jasper T. Jowls (Cyberamic)]                | 1980               | Destroyed                     |
 | [Pasqually (Cyberamic)]                     | 1980               | Destroyed                     |
 | [Warblettes (Cyberamic)]                    | 1980               | Unknown                       |
-| Waving Flags (Cyberamic)                                            | 1980               | Unknown                       |
+| [Flag Wavers (Cyberamic)]                                            | 1980               | Unknown                       |
 | [Applause Board (Cyberamic)]                | 1980               | Unknown                       |
 | [Drum Board (Cyberamic)]                    | 1980               | Unknown                       |
 | [Singing Flowers (Cyberamic)]               | N/A                | Unknown                       |

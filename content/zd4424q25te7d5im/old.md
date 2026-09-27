@@ -18,13 +18,13 @@ Alexandria opened on September 20th, 1982, with the Balcony Stage. Alexandria th
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                             |
 |--------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981-1982          | Unknown. Replaced with [Herndon, VA (2465 Centreville Rd)] bot. |
+| [Chuck E. Cheese (Cyberamic)]      | 1981-1982          | Unknown. Replaced with [Herndon, VA (2465 Centreville Rd)] bot. |
 | [Guest Star / Helen Henny (Cyberamic)] | 1981-1982          | Unknown. Replaced with [Herndon, VA (2465 Centreville Rd)] bot. |
 | [Mr. Munch (Cyberamic)]               | 1981-1982          | Unknown. Replaced with [Herndon, VA (2465 Centreville Rd)] bot. |
 | [Jasper T. Jowls (Cyberamic)]         | 1981-1982          | Unknown. Replaced with [Herndon, VA (2465 Centreville Rd)] bot. |
 | [Pasqually (Cyberamic)]              | 1981-1982          | Unknown. Replaced with [Herndon, VA (2465 Centreville Rd)] bot. |
 | [Warblettes (Cyberamic)]             | 1981-1982          | Unknown/Destroyed.                                                                      |
-| Waving Flags (Cyberamic)                                     | 1981-1982          | Unknown/Destroyed.                                                                      |
+| [Flag Wavers (Cyberamic)]                                     | 1981-1982          | Unknown/Destroyed.                                                                      |
 | [Applause Board (Cyberamic)]         | 1981-1982          | Unknown/Destroyed.                                                                      |
 | [Drum Board (Cyberamic)]             | 1981-1982          | Unknown/Destroyed.                                                                      |
 | [Singing Flowers (Cyberamic)]        | 1981-1982          | Unknown/Destroyed.                                                                      |

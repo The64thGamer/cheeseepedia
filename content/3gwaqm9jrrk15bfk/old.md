@@ -8,7 +8,7 @@ Stevenson Ranch opened on March 4, 1998 with a 1-Stage. The 1-Stage would remain
 
 | Animatronic                                                  | Whereabouts                                                               |
 |--------------------------------------------------------------|---------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel. |
+| [Chuck E. Cheese (Cyberamic)]      | Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel. |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel. |
 | [Mr. Munch (Cyberamic)]               | Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel. |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel. |

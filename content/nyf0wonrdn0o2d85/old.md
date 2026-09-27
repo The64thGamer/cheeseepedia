@@ -12,7 +12,7 @@ When Stafford opened, it housed a 2-Stage like the other locations that opened a
 
 | Character                                                    | Manufacturing Date | Status                                           |
 |--------------------------------------------------------------|--------------------|--------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Destroyed.                                       |
+| [Chuck E. Cheese (Cyberamic)]      | Unknown            | Destroyed.                                       |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Destroyed. Remains owned by a Private Collector. |
 | [Mr. Munch (Cyberamic)]               | Unknown            | Destroyed.                                       |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown            | Destroyed.                                       |

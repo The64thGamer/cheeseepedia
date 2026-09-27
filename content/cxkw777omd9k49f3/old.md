@@ -16,13 +16,13 @@ Daytona Beach opened in January 1982 with a Balcony Stage and the 1981 remodel. 
 
 | Animatronic                                                        | Serial / Manufacturing Date | Whereabouts                              |
 |--------------------------------------------------------------------|-----------------------------|------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                         | 1981                        | Auctioned, owned by a private collector. |
+| [Chuck E. Cheese (Cyberamic)]                                         | 1981                        | Auctioned, owned by a private collector. |
 | [Guest Star / Helen Henny (Cyberamic)]       | 1981                        | Auctioned, owned by a private collector. |
 | [Mr. Munch (Cyberamic)]                     | 1981                        | Auctioned, owned by a private collector. |
 | [Jasper T. Jowls (Cyberamic)]               | 1981                        | Auctioned, owned by a private collector. |
 | [Pasqually (Cyberamic)]                    | 1981                        | Auctioned, owned by a private collector. |
 | [Warblettes (Cyberamic)]                   | 1981                        | Auctioned, owned by a private collector. |
-| Waving Flags (Cyberamic)                                           | 1981                        | Auctioned, owned by a private collector. |
+| [Flag Wavers (Cyberamic)]                                           | 1981                        | Auctioned, owned by a private collector. |
 | [Applause Board (Cyberamic)]               | 1981                        | Auctioned, owned by a private collector. |
 | [Drum Board (Cyberamic)]                   | 1981                        | Auctioned, owned by a private collector. |
 | [Dolli Dimples (Cabaret)]                  | 1981                        | Auctioned, owned by a private collector. |

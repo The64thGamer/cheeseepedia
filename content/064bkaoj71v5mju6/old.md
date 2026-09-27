@@ -21,7 +21,7 @@ Sometime between 1989 and 1990, the location installed the short-lived [Chuck E'
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown / Destroyed.                                  |
 | [Singing Flowers (Cyberamic)]        | Unknown            | Unknown / Destroyed.                                  |
 | [Flag Wavers (Cyberamic)]            | Unknown            | Unknown / Destroyed.                                  |
-| Clapper Board (Cyberamic)                                    | Unknown            | Unknown / Destroyed.                                  |
+| [Clapper Board (Cyberamic)]                                    | Unknown            | Unknown / Destroyed.                                  |
 | [Drum Board (Cyberamic)]             | Unknown            | Unknown / Destroyed.                                  |
 | [The King King Kat (Lounge)]         | Unknown            | Unknown / Destroyed.                                  |
 

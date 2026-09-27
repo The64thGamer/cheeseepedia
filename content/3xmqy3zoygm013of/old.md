@@ -99,7 +99,7 @@ Union opened with a Balcony Stage and The Beagles. Many recall 'The King' also b
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown       | Used for Parts / Destroyed, arms owned by a Private Collector       |
 | [Wink (Cyberamic)]                   | 1992?              | Unknown       | Unknown / Destroyed                                                 |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown       | Unknown / Destroyed                                                 |
-| Waving Flags (Cyberamic)                                     | Unknown            | Unknown       | Unknown / Destroyed                                                 |
+| [Flag Wavers (Cyberamic)]                                     | Unknown            | Unknown       | Unknown / Destroyed                                                 |
 | [Applause Board (Cyberamic)]         | Unknown            | Unknown       | Unknown / Destroyed                                                 |
 | [Drum Board (Cyberamic)]             | Unknown            | Unknown       | Unknown / Destroyed                                                 |
 | [Singing Flowers (Cyberamic)]        | Unknown            | Unknown       | Unknown / Destroyed                                                 |

@@ -23,7 +23,7 @@ The store would have most likely opened with Helen Henny as a guest star, and a 
 | [Jasper T. Jowls (Cyberamic)]         | Unknown / Destroyed |
 | [Pasqually (Cyberamic)]              | Unknown / Destroyed |
 | [Warblettes (Cyberamic)]             | Unknown / Destroyed |
-| Waving Flags (Cyberamic)                                     | Unknown / Destroyed |
+| [Flag Wavers (Cyberamic)]                                     | Unknown / Destroyed |
 | [Applause Board (Cyberamic)]         | Unknown / Destroyed |
 | [Drum Board (Cyberamic)]             | Unknown / Destroyed |
 | [Singing Flowers (Cyberamic)]        | Unknown / Destroyed |

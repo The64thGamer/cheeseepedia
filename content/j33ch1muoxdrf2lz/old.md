@@ -28,7 +28,7 @@ In 2012, a live performance based cafe named 'Paris Cafe' would open in the form
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                       |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Retrofitted in 1994                                                                               |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Retrofitted in 1994                                                                               |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Retrofitted in 1994                                                                               |
 | [Mr. Munch (Cyberamic)]               | Unknown            | Retrofitted in 1994                                                                               |
 | [Pasqually (Cyberamic)]              | Unknown            | Retrofitted in 1994                                                                               |

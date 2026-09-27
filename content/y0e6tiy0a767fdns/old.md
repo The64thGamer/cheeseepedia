@@ -16,7 +16,7 @@ This location opened up on August 31st, 1991, as one of two Road Stages installe
 
 | Animatronic                                                  | Manufacturing Date | Status                                                                        | whereabouts   |
 |--------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------|---------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1980s              | Reused at [Calgary, Alberta, Canada (2770 32nd Ave)]. | saved in 2003 |
+| [Chuck E. Cheese (Cyberamic)]      | 1980s              | Reused at [Calgary, Alberta, Canada (2770 32nd Ave)]. | saved in 2003 |
 | [Guest Star / Helen Henny (Cyberamic)] | 1980's             | Reused at [Calgary, Alberta, Canada (2770 32nd Ave)]. | saved in 2003 |
 | [Mr. Munch (Cyberamic)]               | 1980s              | Reused at [Calgary, Alberta, Canada (2770 32nd Ave)]. | saved in 2003 |
 | [Jasper T. Jowls (Cyberamic)]         | 1980s              | Reused at [Calgary, Alberta, Canada (2770 32nd Ave)]. | saved in 2003 |

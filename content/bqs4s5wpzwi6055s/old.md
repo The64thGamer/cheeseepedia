@@ -33,7 +33,7 @@ Originally when the store opened, they had a [Cyberamics Balcony Stage], sometim
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                           |
 |--------------------------------------------------------------|--------------------|-------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | ???                | Destroyed                                             |
+| [Chuck E. Cheese (Cyberamic)]                                   | ???                | Destroyed                                             |
 | [Guest Star / Helen Henny (Cyberamic)] | ???                | Destroyed                                             |
 | [Mr. Munch (Cyberamic)]               | ???                | Unknown                                               |
 | [Jasper T. Jowls (Cyberamic)]         | ???                | Unknown. PTT Jasper mask owned by a private collector |

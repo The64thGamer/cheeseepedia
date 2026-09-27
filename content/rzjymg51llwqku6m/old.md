@@ -23,7 +23,7 @@ Burlington opened with the Balcony Stage in October 1981. In 1989/1990 they remo
 | [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown |
-| Waving Flags (Cyberamic)                                     | Unknown            | Unknown |
+| [Flag Wavers (Cyberamic)]                                     | Unknown            | Unknown |
 | [Applause Board (Cyberamic)]         | Unknown            | Unknown |
 | [Drum Board (Cyberamic)]             | Unknown            | Unknown |
 | [Singing Flowers (Cyberamic)]        | Unknown            | Unknown |

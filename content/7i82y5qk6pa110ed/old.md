@@ -20,14 +20,14 @@ St. Petersburg opened with the Balcony Stage in March 1983. In 1988-1989, St. Pe
 
 | Character                                                    | Manufacturing Date | Status               |
 |--------------------------------------------------------------|--------------------|----------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Unknown / Destroyed. |
+| [Chuck E. Cheese (Cyberamic)]      | Unknown            | Unknown / Destroyed. |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown / Destroyed. |
 | [Mr. Munch (Cyberamic)]               | Unknown            | Unknown / Destroyed. |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown / Destroyed. |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown / Destroyed. |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown / Destroyed. |
-| Waving Flags (Cyberamic)                                     | Unknown            | Unknown / Destroyed. |
-| Clapper Board (Cyberamic)                                    | Unknown            | Unknown / Destroyed. |
+| [Flag Wavers (Cyberamic)]                                     | Unknown            | Unknown / Destroyed. |
+| [Clapper Board (Cyberamic)]                                    | Unknown            | Unknown / Destroyed. |
 | [Singing Flowers (Cyberamic)]        | Unknown            | Unknown / Destroyed. |
 | [The King King Kat (Lounge)]         | Unknown            | Unknown / Destroyed. |
 | [Wink]                               | Unknown            | Unknown / Destroyed. |

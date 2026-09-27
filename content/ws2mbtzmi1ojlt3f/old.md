@@ -40,7 +40,7 @@ On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                              |
 |--------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | 1992/1993          | Sent to [National City, CA (1143 Highland Ave)], then destroyed. |
+| [Chuck E. Cheese (Cyberamic)]                                   | 1992/1993          | Sent to [National City, CA (1143 Highland Ave)], then destroyed. |
 | [Guest Star / Helen Henny (Cyberamic)] | 1992/1993          | Sent to National City, then destroyed.                                                   |
 | [Mr. Munch (Cyberamic)]               | 1992/1993          | Sent to National City, then destroyed.                                                   |
 | [Jasper T. Jowls (Cyberamic)]         | 1992/1993          | Sent to National City, then destroyed.                                                   |

@@ -23,7 +23,7 @@ This location opened up on June 16th 1992 with A 2 Stage show and the 1988 Remod
 
 | Animatronic                                                  | Manufacturing date | Status     |
 |--------------------------------------------------------------|--------------------|------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1992               | Destroyed. |
+| [Chuck E. Cheese (Cyberamic)]      | 1992               | Destroyed. |
 | [Guest Star / Helen Henny (Cyberamic)] | 1992               | Destroyed. |
 | [Mr. Munch (Cyberamic)]               | 1992               | Destroyed. |
 | [Jasper T. Jowls (Cyberamic)]         | 1992               | Destroyed. |

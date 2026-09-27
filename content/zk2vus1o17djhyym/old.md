@@ -27,11 +27,11 @@ Tacoma opened in November 1983 near the Tacoma Mall with a Balcony Stage and as 
 |--------------------------------------------------------------|-----------------------------|-------------------|
 | [Mr. Munch (Cyberamic)]               | Unknown                     | Unknown/Destroyed |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown                     | Unknown/Destroyed |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown                     | Unknown/Destroyed |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown                     | Unknown/Destroyed |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown                     | Unknown/Destroyed |
 | [Pasqually (Cyberamic)]              | Unknown                     | Unknown/Destroyed |
 | [Warblettes (Cyberamic)]             | Unknown                     | Unknown           |
-| Waving Flags (Cyberamic)                                     | Unknown                     | Unknown           |
+| [Flag Wavers (Cyberamic)]                                     | Unknown                     | Unknown           |
 | [Applause Board (Cyberamic)]         | Unknown                     | Unknown           |
 | [Drum Board (Cyberamic)]             | Unknown                     | Unknown           |
 | [Singing Flowers (Cyberamic)]        | Unknown                     | Unknown           |

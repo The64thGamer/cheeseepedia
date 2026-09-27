@@ -19,14 +19,14 @@ Originally, Sacramento (Arden) had a Balcony Stage when it first opened in Febru
 
 | Animatronic                                                  | Serial Code | Condition | Whereabouts                           |
 |--------------------------------------------------------------|-------------|-----------|---------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A         |           | Owned by Firecat\_p                   |
+| [Chuck E. Cheese (Cyberamic)]      | N/A         |           | Owned by Firecat\_p                   |
 | [Guest Star / Helen Henny (Cyberamic)] | N/A         |           | Owned by Firecat\_p                   |
 | [Mr. Munch (Cyberamic)]               | N/A         |           | Owned by Firecat\_P /Wayfinder\_triko |
 | [Jasper T. Jowls (Cyberamic)]         | N/A         |           | Owned by Firecat\_P                   |
 | [Pasqually (Cyberamic)]              | N/A         |           | Owned by Firecat\_P                   |
 | [Warblettes (Cyberamic)]             | N/A         | N/A       | Unknown/Destroyed                     |
-| Waving Flags (Cyberamic)                                     | N/A         | N/A       | Unknown/Destroyed                     |
-| Clapper Board (Cyberamic)                                    | N/A         | N/A       | Unknown/Destroyed                     |
+| [Flag Wavers (Cyberamic)]                                     | N/A         | N/A       | Unknown/Destroyed                     |
+| [Clapper Board (Cyberamic)]                                    | N/A         | N/A       | Unknown/Destroyed                     |
 | [Singing Flowers (Cyberamic)]        | N/A         | N/A       | Unknown/Destroyed                     |
 | [The King King Kat (Lounge)]         | N/A         | N/A       | Unknown/Destroyed                     |
 | [Wink]                               | N/A         |           | Unknown/Destroyed                     |

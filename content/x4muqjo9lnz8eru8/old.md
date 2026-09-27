@@ -19,7 +19,7 @@ Originally, the store opened with a Rocker Stage, which they had until the Mid 1
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                            |
 |--------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | January 1982       | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
+| [Chuck E. Cheese (Cyberamic)]      | January 1982       | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Guest Star / Helen Henny (Cyberamic)] | January 13, 1982   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Mr. Munch (Cyberamic)]               | January 1982       | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Jasper T. Jowls (Cyberamic)]         | January 1982       | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |

@@ -58,13 +58,13 @@ Chico opened July 1982 as a Pizza Time Theatre, and making it out through PTT's 
 
 | Animatronic                                                                                                     | Manufacturing Date | Installed | Removed                | Whereabouts  |
 |-----------------------------------------------------------------------------------------------------------------|--------------------|-----------|------------------------|--------------|
-| Chuck E. Cheese (Cyberamic)                                                                                      | 1981/1982          | 1982      | 2011                   | Destroyed    |
+| [Chuck E. Cheese (Cyberamic)]                                                                                      | 1981/1982          | 1982      | 2011                   | Destroyed    |
 | [Guest Star / Helen Henny (Cyberamic)]                                                    | 1981/1982          | 1982      | 2011                   | Destroyed    |
 | [Mr. Munch (Cyberamic)] / [Dog (Mr Munch Retrofit)]              | 1981/1982          | 1982      | 2011 / 2012            | Unknown/Sold |
 | [Jasper T. Jowls (Cyberamic)] / [Lion (Jasper T Jowls Retrofit)] | 1981/1982          | 1982      | 2011 / 2012            | Unknown/Sold |
 | [Pasqually (Cyberamic)] / [Cow (Pasqually Retrofit)]            | 1981/1982          | 1982      | 2011 / 2012            | Unknown/Sold |
 | [Warblettes (Cyberamic)]                                                                | ???                | 1982      | 1988                   | Unknown      |
-| Waving Flags (Cyberamic)                                                                                        | ???                | 1982      | 1988 / 1993            | Unknown      |
+| [Flag Wavers (Cyberamic)]                                                                                        | ???                | 1982      | 1988 / 1993            | Unknown      |
 | [Applause Board (Cyberamic)]                                                            | ???                | 1982      | 1988                   | Unknown      |
 | [Drum Board (Cyberamic)]                                                                | ???                | 1982      | 1988                   | Unknown      |
 | [The King King Kat (Lounge)]                                                            | ???                | 1982      | Late 80's / Early 90's | Unknown      |

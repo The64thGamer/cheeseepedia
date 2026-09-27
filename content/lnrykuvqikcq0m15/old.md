@@ -36,7 +36,7 @@ A photo of this location's stage that was originally taken by the Chicago Tribun
 
 | Animatronic                 | Serial  | Whereabouts                                                                                                            | Notes |
 |-----------------------------|---------|------------------------------------------------------------------------------------------------------------------------|-------|
-| Chuck E. Cheese (Cyberamic)  | 1304    | Destroyed. Entire head and valves sent to [Tinley Park, IL (16090 S Harlem Ave)].              |       |
+| [Chuck E. Cheese (Cyberamic)]  | 1304    | Destroyed. Entire head and valves sent to [Tinley Park, IL (16090 S Harlem Ave)].              |       |
 | Helen Henny (Cyberamic)     | Unknown | Destroyed. Entire head sent to [Milwaukee, WI (2701 S Chase Ave)]. Valves sent to Tinley Park. |       |
 | Mr. Munch (Cyberamic)       | Unknown | Destroyed.                                                                                                             |       |
 | Jasper T. Jowls (Cyberamic) | 1326    | Destroyed. Entire head sent to Milwaukee. Shirt, jeans, and shoes sent to Tinley Park.                                 |       |

@@ -18,7 +18,7 @@ Covina opened its doors in August 1980 (day unknown) with the [Cyberamics Portra
 
 | Animatronic                                | Serial Number | Whereabouts       |
 |--------------------------------------------|---------------|-------------------|
-| Chuck E. Cheese (Cyberamic)                | N/A           | Destroyed         |
+| [Chuck E. Cheese (Cyberamic)]                | N/A           | Destroyed         |
 | Pasqually (Cyberamic)                      | N/A           | Destroyed         |
 | Mr. Munch (Cyberamic)                      | N/A           | Destroyed         |
 | Jasper T. Jowls (Cyberamic)                | N/A           | Destroyed         |

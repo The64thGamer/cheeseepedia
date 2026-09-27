@@ -134,13 +134,13 @@ Brandon was always prone to having crime happen in their location. In 2015 and 2
 
 | Animatronic                                                        | Serial / Manufacturing Date | Whereabouts              |
 |--------------------------------------------------------------------|-----------------------------|--------------------------|
-| Chuck E. Cheese (Cyberamic)                                         | 1981                        | Destroyed                |
+| [Chuck E. Cheese (Cyberamic)]                                         | 1981                        | Destroyed                |
 | [Guest Star / Helen Henny (Cyberamic)]       | 1981                        | Destroyed                |
 | [Mr. Munch (Cyberamic)]                     | 1981                        | Destroyed                |
 | [Jasper T. Jowls (Cyberamic)]               | 1981                        | Destroyed                |
 | [Pasqually (Cyberamic)]                    | 1981                        | Destroyed                |
 | [Warblettes (Cyberamic)]                   | 1981                        | Unknown                  |
-| Waving Flags (Cyberamic)                                           | 1981                        | Unknown                  |
+| [Flag Wavers (Cyberamic)]                                           | 1981                        | Unknown                  |
 | [Applause Board (Cyberamic)]               | 1981                        | Unknown                  |
 | [Drum Board (Cyberamic)]                   | 1981                        | Unknown                  |
 | [Singing Flowers (Cyberamic)]              | 1989/1990                   | Unknown                  |

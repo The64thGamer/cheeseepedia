@@ -26,13 +26,13 @@ It happened around the Late 90's when they removed old decor and added new decor
 
 | Character                                                    | Serial  | Status                        |
 |--------------------------------------------------------------|---------|-------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown | Owned by a Private Collector. |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown | Owned by a Private Collector. |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown | Unknown/Destroyed.            |
 | [Mr. Munch (Cyberamic)]               | Unknown | Owned by a Private Collector. |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown | Unknown/Destroyed             |
 | [Pasqually (Cyberamic)]              | Unknown | Owned by a Private Collector. |
 | [Warblettes (Cyberamic)]             | N/A     | Unknown/Destroyed             |
-| Waving Flags (Cyberamic)                                     | N/A     | Unknown/Destroyed             |
+| [Flag Wavers (Cyberamic)]                                     | N/A     | Unknown/Destroyed             |
 | [Applause Board (Cyberamic)]         | N/A     | Unknown/Destroyed             |
 | [Drum Board (Cyberamic)]             | N/A     | Unknown/Destroyed             |
 | [Singing Flowers (Cyberamic)]        | N/A     | Unknown/Destroyed             |

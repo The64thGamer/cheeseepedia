@@ -17,7 +17,7 @@ Murrieta hosted its grand opening on November 1, 1993 with the 1992 update to th
 
 | Animatronic                                                  | Serial Number | Whereabouts                      |
 |--------------------------------------------------------------|---------------|----------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown       | Used for parts, later destroyed. |
+| [Chuck E. Cheese (Cyberamic)]      | Unknown       | Used for parts, later destroyed. |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Used for parts, now unknown.     |
 | [Mr. Munch (Cyberamic)]               | Unknown       | Used for parts, now unknown.     |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown       | Used for parts, now unknown.     |

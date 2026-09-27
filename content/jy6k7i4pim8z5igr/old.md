@@ -19,8 +19,8 @@ Danvers originally featured the Balcony Stage much like every PTT at this point,
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                         |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982/1983          | Sent to Fall River, MA, later retrofitted, now unknown.             |
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 5/17/1982          | Unknown. Originally from an unknown PTT.                            |
+| [Chuck E. Cheese (Cyberamic)]      | 1982/1983          | Sent to Fall River, MA, later retrofitted, now unknown.             |
+| [Chuck E. Cheese (Cyberamic)]      | 5/17/1982          | Unknown. Originally from an unknown PTT.                            |
 | [Guest Star / Helen Henny (Cyberamic)] | 1982/1983          | Sent to Fall River, MA, later retrofitted, now unknown.             |
 | [Guest Star / Helen Henny (Cyberamic)] | 1983               | Owned by Tyler Lead. Originally from an unknown PTT.                |
 | [Mr. Munch (Cyberamic)]               | 1982/1983          | Sent to Fall River, MA, later retrofitted, now unknown.             |
@@ -30,7 +30,7 @@ Danvers originally featured the Balcony Stage much like every PTT at this point,
 | [Pasqually (Cyberamic)]              | 1982/1983          | Sent to Fall River, MA, later retrofitted, now unknown.             |
 | [Pasqually (Cyberamic)]              | 5/1/1982           | Owned by Tyler Lead. Originally from an unknown PTT.                |
 | [Warblettes (Cyberamic)]             | Unknown            | Sent to Fall River, now unknown.                                    |
-| Waving Flags (Cyberamic)                                     | 1982/1983          | Unknown                                                             |
+| [Flag Wavers (Cyberamic)]                                     | 1982/1983          | Unknown                                                             |
 | [Applause Board (Cyberamic)]         | 1982/1983          | Unknown                                                             |
 | [Drum Board (Cyberamic)]             | 1982/1983          | Unknown                                                             |
 | [Singing Flowers (Cyberamic)]        | 1988               | Destroyed, one mask owned by a private collector.                   |

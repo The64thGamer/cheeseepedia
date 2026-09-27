@@ -15,7 +15,7 @@ This location opened in August 1990 with Chuck E's House, also known as the Rock
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                  |
 |--------------------------------------------------------------|--------------------|------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A                | Unknown.                     |
+| [Chuck E. Cheese (Cyberamic)]      | N/A                | Unknown.                     |
 | [Guest Star / Helen Henny (Cyberamic)] | N/A                | Owned by a Private Collector |
 | [Mr. Munch (Cyberamic)]               | N/A                | Owned by a Private Collector |
 | [Jasper T. Jowls (Cyberamic)]         | N/A                | Owned by a Private Collector |

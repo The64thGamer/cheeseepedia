@@ -17,7 +17,7 @@ Originally, Topeka featured a Road Stage. Like all Road Stages when they first o
 
 | Animatronic                                | Serial | Whereabouts |
 |--------------------------------------------|--------|-------------|
-| Chuck E. Cheese (Cyberamic)                | N/A    | Destroyed.  |
+| [Chuck E. Cheese (Cyberamic)]                | N/A    | Destroyed.  |
 | Helen Henny (Cyberamic)                    | N/A    | Destroyed.  |
 | Mr. Munch (Cyberamic)                      | N/A    | Destroyed.  |
 | Jasper T. Jowls (Cyberamic)                | N/A    | Destroyed.  |

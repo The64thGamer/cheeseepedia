@@ -17,7 +17,7 @@ Originally, Winnipeg featured Chuck E.'s House, as all other Chuck E. Cheese loc
 
 | Animatronic                                                  | Whereabouts |
 |--------------------------------------------------------------|-------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
 | [Mr. Munch (Cyberamic)]               | Unknown     |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown     |

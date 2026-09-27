@@ -42,7 +42,7 @@ Their Chuck E.'s House lasted up to early 1994, when it would be replaced for th
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                |
 |--------------------------------------------------------------|--------------------|----------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | 1980s?             | Owned by private collector |
+| [Chuck E. Cheese (Cyberamic)]                                   | 1980s?             | Owned by private collector |
 | [Guest Star / Helen Henny (Cyberamic)] | 1980s?             | Owned by private collector |
 | [Mr. Munch (Cyberamic)]               | 1980s?             | Owned by private collector |
 | [Jasper T. Jowls (Cyberamic)]         | 1980s?             | Owned by private collector |

@@ -38,7 +38,7 @@ Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatre
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Unknown     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown     |
 | [Mr. Munch (Cyberamic)]               | Unknown            | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown     |

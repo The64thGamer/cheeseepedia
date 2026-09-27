@@ -90,7 +90,7 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 
 | Animatronic                                                  | Manufacturing Date | Status                                                                                 |
 |--------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A                | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
+| [Chuck E. Cheese (Cyberamic)]      | N/A                | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Guest Star / Helen Henny (Cyberamic)] | N/A                | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Mr. Munch (Cyberamic)]               | N/A                | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Jasper T. Jowls (Cyberamic)]         | N/A                | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |

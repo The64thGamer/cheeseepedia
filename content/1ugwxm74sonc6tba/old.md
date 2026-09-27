@@ -20,7 +20,7 @@ Newark opened on August 5, 1997 with the [Phase 2 (1997)] remodel and a [1-Stage
 
 | Animatronic                                                  | Serial Number | Whereabouts                                                                           |
 |--------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown       | Unknown, mask sent to [Dublin, CA (7448 Amador Valley Blvd)]. |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Unknown, mask sent to [Dublin, CA (7448 Amador Valley Blvd)]. |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown                                                                               |
 | [Mr. Munch (Cyberamic)]               | Unknown       | Unknown                                                                               |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown                                                                               |

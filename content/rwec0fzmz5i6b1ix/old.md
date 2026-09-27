@@ -13,7 +13,7 @@ Southington opened with a [Cyberamics Balcony Stage] which remained until closur
 
 | Animatronics                                                 | Manufacturing Date | Status  |
 |--------------------------------------------------------------|--------------------|---------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Unknown |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Unknown |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown |
 | [Mr. Munch (Cyberamic)]               | Unknown            | Unknown |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown |

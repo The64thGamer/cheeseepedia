@@ -27,13 +27,13 @@ As previously mentioned, Milwaukee was one of the first stores to receive and op
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                   |
 |--------------------------------------------------------------|--------------------|-------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | February 1983      | Owned by a private collector. |
+| [Chuck E. Cheese (Cyberamic)]                                   | February 1983      | Owned by a private collector. |
 | [Guest Star / Helen Henny (Cyberamic)] | February 1983      | Owned by a private collector. |
 | [Mr. Munch (Cyberamic)]               | February 1983      | Owned by a private collector. |
 | [Jasper T. Jowls (Cyberamic)]         | February 1983      | Owned by a private collector. |
 | [Pasqually (Cyberamic)]              | February 1983      | Owned by a private collector. |
 | [Warblettes (Cyberamic)]             | 1983               | Unknown                       |
-| Clapper Board (Cyberamic)                                    | 1983               | Unknown                       |
+| [Clapper Board (Cyberamic)]                                    | 1983               | Unknown                       |
 | [Singing Flowers (Cyberamic)]        | 1990               | Unknown                       |
 | [The King King Kat (Lounge)]         | 1983               | Unknown                       |
 | [Wink (Cyberamic)]                   | 1993               | Destroyed                     |

@@ -26,7 +26,7 @@ Originally, the store opened with Chuck E.'s House, they would have the last PTT
 | [Mr. Munch (Cyberamic)]               | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
 | [Jasper T. Jowls (Cyberamic)]         | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
 | [Guest Star / Helen Henny (Cyberamic)] | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
+| [Chuck E. Cheese (Cyberamic)]      | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
 | [Pasqually (Cyberamic)]              | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
 | [Singing Flowers (Cyberamic)]        | 1988               | Unknown.                                                                                                                                                          |
 

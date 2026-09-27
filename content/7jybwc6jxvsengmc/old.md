@@ -4,7 +4,7 @@
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                |
 |--------------------------------------------------------------|--------------------|----------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1994               | Owned by Bullfrogs Banjo   |
+| [Chuck E. Cheese (Cyberamic)]      | 1994               | Owned by Bullfrogs Banjo   |
 | [Guest Star / Helen Henny (Cyberamic)] | 1994               | Owned by Private Collector |
 | [Mr. Munch (Cyberamic)]               | 1994               | Owned by Private Collector |
 | [Jasper T. Jowls (Cyberamic)]         | 1994               | Owned by Private Collector |

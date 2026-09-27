@@ -18,13 +18,13 @@ When Portland opened, it housed a Balcony Stage like most other Pizza Time Theat
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                                           |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982               | Owned by a Private Collector with new cosmetics. Cosmetics from store were destroyed, but they're owned by another Private Collector. |
+| [Chuck E. Cheese (Cyberamic)]      | 1982               | Owned by a Private Collector with new cosmetics. Cosmetics from store were destroyed, but they're owned by another Private Collector. |
 | [Guest Star / Helen Henny (Cyberamic)] | 1982               | Destroyed, Remains owned by LKD Animatronics and a Private Collector.                                                                 |
 | [Mr. Munch (Cyberamic)]               | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
 | [Jasper T. Jowls (Cyberamic)]         | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
 | [Pasqually (Cyberamic)]              | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
 | [Warblettes (Cyberamic)]             | 1982               | Unknown                                                                                                                               |
-| Waving Flags (Cyberamic)                                     | 1982               | Unknown                                                                                                                               |
+| [Flag Wavers (Cyberamic)]                                     | 1982               | Unknown                                                                                                                               |
 | [Applause Board (Cyberamic)]         | 1982               | Unknown                                                                                                                               |
 | [Drum Board (Cyberamic)]             | 1982               | Unknown                                                                                                                               |
 | [Singing Flowers (Cyberamic)]        | 1989/1990          | Unknown                                                                                                                               |

@@ -45,7 +45,7 @@ Identified 2001 Machines.
 |--------------------------------------------------------------|--------------------|-----------------------------------------------------|
 | [Mr. Munch (Cyberamic)]               | 1980               | Unknown                                             |
 | [Jasper T. Jowls (Cyberamic)]         | 1980               | Unknown                                             |
-| Chuck E. Cheese (Cyberamic)                                   | 1980               | Unknown                                             |
+| [Chuck E. Cheese (Cyberamic)]                                   | 1980               | Unknown                                             |
 | [Guest Star / Helen Henny (Cyberamic)] | 1980               | Unknown                                             |
 | [Pasqually (Cyberamic)]              | 1980               | Unknown                                             |
 | [Warblettes (Cyberamic)]             | 1980               | Unknown                                             |

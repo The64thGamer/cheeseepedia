@@ -30,7 +30,7 @@ Good Hope opened on June 17th, 1981 as the first ShowBiz Pizza Place in Wisconsi
 | [Sun (Animatronic)]                               | 1-81 10-2 | Sent to [Raleigh, NC (3501-131 Capital Blvd)], Now Unknown.   |
 | [Moon (Animatronic)]                              | 1-81 11-2 | Sent to [Raleigh, NC (3501-131 Capital Blvd)], Now Unknown.   |
 | [Antioch (Animatronic)]                           | N/A       | Sent to [Raleigh, NC (3501-131 Capital Blvd)], Now Destroyed. |
-| Chuck E. Cheese (Cyberamic)                                                | 1980s     | Unknown.                                                                              |
+| [Chuck E. Cheese (Cyberamic)]                                                | 1980s     | Unknown.                                                                              |
 | [Guest Star / Helen Henny (Cyberamic)]              | 1980s     | Unknown.                                                                              |
 | [Mr. Munch (Cyberamic)]                            | 1980s     | Unknown.                                                                              |
 | [Jasper T. Jowls (Cyberamic)]                      | 1980s     | Unknown.                                                                              |

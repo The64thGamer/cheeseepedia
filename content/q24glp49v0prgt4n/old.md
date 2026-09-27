@@ -22,13 +22,13 @@ Manchester opened in August 1982 with a [Cyberamics Balcony Stage], It is curren
 
 | Animatronic                                                  | Manufactuer Date | Serial  | Whereabouts                   |
 |--------------------------------------------------------------|------------------|---------|-------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981-1982        | Unknown | Unknown.                      |
+| [Chuck E. Cheese (Cyberamic)]      | 1981-1982        | Unknown | Unknown.                      |
 | [Guest Star / Helen Henny (Cyberamic)] | 1981-1982        | Unknown | Unknown.                      |
 | [Mr. Munch (Cyberamic)]               | 1981-1982        | Unknown | Unknown.                      |
 | [Jasper T. Jowls (Cyberamic)]         | 1981-1982        | Unknown | Unknown.                      |
 | [Pasqually (Cyberamic)]              | 1981-1982        | Unknown | Unknown.                      |
 | [Warblettes (Cyberamic)]             | 1981-1982        | Unknown | Unknown.                      |
-| Clapper Board (Cyberamic)                                    | 1981-1982        | Unknown | Unknown.                      |
+| [Clapper Board (Cyberamic)]                                    | 1981-1982        | Unknown | Unknown.                      |
 | [The King King Kat (Lounge)]         | 1981-1982        | Unknown | Unknown.                      |
 | [Wink (Cyberamic)]                   | Mid 1990's       | N/A     | Unknown.                      |
 | [Chuck E Cheese 16m (Animatronic)]   | 2005             | N/A     | Head destroyed, body unknown. |

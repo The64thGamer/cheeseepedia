@@ -18,7 +18,7 @@ In June of 2021, this location would replaced their Studio C Alpha with a Dance 
 
 | Animatronic                                     | Manufacturing Date | Status                        |
 |-------------------------------------------------|--------------------|-------------------------------|
-| Chuck E. Cheese (Cyberamic)                      | N/A                | Unknown                       |
+| [Chuck E. Cheese (Cyberamic)]                      | N/A                | Unknown                       |
 | Guest Star / Helen Henny (Cyberamic)              | N/A                | Unknown                       |
 | Mr. Munch (Cyberamic)                            | N/A                | Unknown                       |
 | Jasper T. Jowls (Cyberamic)                      | N/A                | Unknown                       |

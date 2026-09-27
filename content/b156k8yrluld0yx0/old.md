@@ -39,7 +39,7 @@ Children's rides also incluuded: Covered Wagon, Noah's Ark, Bulldozer, Motorcycl
 
 | Animatronic                                                  | Serial | Whereabouts                                          |
 |--------------------------------------------------------------|--------|------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | ???    | Sold at Auction in 1986, unknown current wearabouts. |
+| [Chuck E. Cheese (Cyberamic)]                                   | ???    | Sold at Auction in 1986, unknown current wearabouts. |
 | [Guest Star / Helen Henny (Cyberamic)] | ???    | Sold at Auction in 1986, unknown current wearabouts. |
 | [Mr. Munch (Cyberamic)]               | ???    | Sold at Auction in 1986, unknown current wearabouts. |
 | [Pasqually (Cyberamic)]              | ???    | Sold at Auction in 1986, unknown current wearabouts. |

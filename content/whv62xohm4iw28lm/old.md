@@ -25,7 +25,7 @@ Originally when Ventura opened, they had a Balcony Stage, as all other Pizza Tim
 | [Jasper T. Jowls (Cyberamic)]         | N/A           | Unknown           |
 | [Pasqually (Cyberamic)]              | N/A           | Unknown           |
 | [Warblettes (Cyberamic)]             | N/A           | Unknown/Destroyed |
-| Clapper Board (Cyberamic)                                    | N/A           | Unknown/Destroyed |
+| [Clapper Board (Cyberamic)]                                    | N/A           | Unknown/Destroyed |
 | [Singing Flowers (Cyberamic)]        | N/A           | Unknown/Destroyed |
 | [Dolli Dimples (Cabaret)]            | N/A           | Unknown/Destroyed |
 | [The King King Kat (Lounge)]         | N/A           | Unknown/Destroyed |

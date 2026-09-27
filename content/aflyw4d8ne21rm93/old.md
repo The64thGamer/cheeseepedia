@@ -18,11 +18,11 @@ Loves Park opened and closed with a Balcony Stage. When Loves Park relocated to 
 |--------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
 | [Mr. Munch (Cyberamic)]               | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
 | [Jasper T. Jowls (Cyberamic)]         | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
+| [Chuck E. Cheese (Cyberamic)]      | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
 | [Guest Star / Helen Henny (Cyberamic)] | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
 | [Pasqually (Cyberamic)]              | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
 | [Warblettes (Cyberamic)]             | 1981               | Unknown.                                                                 |
-| Waving Flags (Cyberamic)                                     | 1981               | Unknown.                                                                 |
+| [Flag Wavers (Cyberamic)]                                     | 1981               | Unknown.                                                                 |
 | [Applause Board (Cyberamic)]         | 1981               | Unknown.                                                                 |
 | [Drum Board (Cyberamic)]             | 1981               | Unknown.                                                                 |
 | [The King King Kat (Lounge)]         | 1981               | Unknown.                                                                 |

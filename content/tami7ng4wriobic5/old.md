@@ -22,7 +22,7 @@ According to another Fall River local, Malerie Rosa, not much was changed in ter
 
 | Animatronic                                                  | Manufacturing Date | **Whereabouts** | Notes                                                                                         |
 |--------------------------------------------------------------|--------------------|-----------------|-----------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Unknown         | Originally from [Danvers, MA (139 Endicott St)]. Retrofitted in 1991. |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Unknown         | Originally from [Danvers, MA (139 Endicott St)]. Retrofitted in 1991. |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown         | Originally from [Danvers, MA (139 Endicott St)]. Retrofitted in 1991. |
 | [Mr. Munch (Cyberamic)]               | Unknown            | Unknown         | Originally from [Danvers, MA (139 Endicott St)]. Retrofitted in 1991. |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown         | Originally from [Danvers, MA (139 Endicott St)]. Retrofitted in 1991. |
@@ -30,7 +30,7 @@ According to another Fall River local, Malerie Rosa, not much was changed in ter
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown         | Originally from [Danvers, MA (139 Endicott St)].                      |
 | [Applause Board (Cyberamic)]         | 1982-1983          | Unknown         | Originally from [Danvers, MA (139 Endicott St)].                      |
 | [Drum Board (Cyberamic)]             | 1982-1983          | Unknown         | Originally from [Danvers, MA (139 Endicott St)].                      |
-| Waving Flags (Cyberamic)                                     | 1982-1983          | Unknown         | Originally from [Danvers, MA (139 Endicott St)].                      |
+| [Flag Wavers (Cyberamic)]                                     | 1982-1983          | Unknown         | Originally from [Danvers, MA (139 Endicott St)].                      |
 | Harry Hound (W.O.O.F. Animatronic)                           | 1982-1989          | Unknown         |                                                                                               |
 | Purrscilla Purr (W.O.O.F. Animatronic)                       | 1982-1989          | Unknown         |                                                                                               |
 | Big Bear (W.O.O.F. Animatronic)                              | 1982-1989          | Unknown         |                                                                                               |

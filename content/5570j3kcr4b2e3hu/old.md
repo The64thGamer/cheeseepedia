@@ -12,7 +12,7 @@ Columbus (Columbus Square) opened its doors in 1982 with a Balcony Stage show an
 
 | Character                         | Serial | Status                        |
 |-----------------------------------|--------|-------------------------------|
-| Chuck E. Cheese (Cyberamic)       | N/A    | Retrofitted in December 1991. |
+| [Chuck E. Cheese (Cyberamic)]       | N/A    | Retrofitted in December 1991. |
 | Pasqually (Cyberamic)             | N/A    | Retrofitted in December 1991. |
 | Mr. Munch (Cyberamic)             | N/A    | Retrofitted in December 1991. |
 | Jasper T. Jowls (Cyberamic)       | N/A    | Retrofitted in December 1991. |

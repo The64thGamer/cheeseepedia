@@ -16,7 +16,7 @@ This Chuck E. Cheese's remodeled for the first time in 2004 during the 2003 'Coo
 
 | Animatronic                                                  | Serial Number | Whereabouts       |
 |--------------------------------------------------------------|---------------|-------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown       | Unknown           |
+| [Chuck E. Cheese (Cyberamic)]      | Unknown       | Unknown           |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown           |
 | [Mr. Munch (Cyberamic)]               | Unknown       | Unknown           |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown           |

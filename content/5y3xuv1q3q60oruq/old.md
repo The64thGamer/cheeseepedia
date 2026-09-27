@@ -19,13 +19,13 @@ Bell opened with the Balcony Stage in 1982. Fortunately, there are a lot of phot
 
 | Character                                                    | Manufacturing Date | Status   |
 |--------------------------------------------------------------|--------------------|----------|
-| Chuck E. Cheese (Cyberamic)                                   | 1981/1982          | Unknown. |
+| [Chuck E. Cheese (Cyberamic)]                                   | 1981/1982          | Unknown. |
 | [Guest Star / Helen Henny (Cyberamic)] | 1981/1982          | Unknown. |
 | [Mr. Munch (Cyberamic)]               | 1981/1982          | Unknown. |
 | [Jasper T. Jowls (Cyberamic)]         | 1981/1982          | Unknown. |
 | [Pasqually (Cyberamic)]              | 1981/1982          | Unknown. |
 | [Warblettes (Cyberamic)]             | 1981/1982          | Unknown. |
-| Waving Flags (Cyberamic)                                     | 1981/1982          | Unknown. |
+| [Flag Wavers (Cyberamic)]                                     | 1981/1982          | Unknown. |
 | [Applause Board (Cyberamic)]         | 1981/1982          | Unknown. |
 | [Drum Board (Cyberamic)]             | 1981/1982          | Unknown. |
 | [Singing Flowers (Cyberamic)]        | 1981/1982          | Unknown. |

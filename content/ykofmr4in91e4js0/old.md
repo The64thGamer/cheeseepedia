@@ -24,13 +24,13 @@ When Hampton opened, it housed a Balcony Stage like the other Pizza Time Theatre
 
 | Character                                                    | Serial Number | Status                                |
 |--------------------------------------------------------------|---------------|---------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown       | Later at Florence, KY, then Destroyed |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Later at Florence, KY, then Destroyed |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Later at Florence, KY, then Destroyed |
 | [Mr. Munch (Cyberamic)]               | Unknown       | Later at Florence, KY, then Destroyed |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown       | Later at Florence, KY, then Destroyed |
 | [Pasqually (Cyberamic)]              | Unknown       | Later at Florence, KY, then Destroyed |
 | [Warblettes (Cyberamic)]             | Unknown       | Unknown / Destroyed                   |
-| Waving Flags (Cyberamic)                                     | Unknown       | Unknown / Destroyed                   |
+| [Flag Wavers (Cyberamic)]                                     | Unknown       | Unknown / Destroyed                   |
 | [Applause Board (Cyberamic)]         | Unknown       | Unknown / Destroyed                   |
 | [Drum Board (Cyberamic)]             | Unknown       | Unknown / Destroyed                   |
 | [Singing Flowers (Cyberamic)]        | N/A           | Unknown / Destroyed                   |

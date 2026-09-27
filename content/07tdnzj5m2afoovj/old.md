@@ -18,7 +18,7 @@ This location opened in 1982 with a square foot of 12,000. The restaurant itself
 |                                                              |                    |                   |
 |--------------------------------------------------------------|--------------------|-------------------|
 | Animatronics                                                 | Manufacturing Date | Status            |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Unknown/Destroyed |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Unknown/Destroyed |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown/Destroyed |
 | [Mr. Munch (Cyberamic)]               | Unknown            | Unknown/Destroyed |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown/Destroyed |

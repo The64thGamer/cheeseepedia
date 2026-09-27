@@ -18,10 +18,10 @@ The location would sit vacant for a period of time before becoming part of a Wal
 |--------------------------------------------------------------|---------------|-------------|
 | [Mr. Munch (Cyberamic)]               | Unknown       | Unknown     |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown     |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown       | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Unknown     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown       | Unknown     |
 | [Warblettes (Cyberamic)]             | Unknown       | Unknown     |
-| Waving Flags (Cyberamic)                                     | Unknown       | Unknown     |
+| [Flag Wavers (Cyberamic)]                                     | Unknown       | Unknown     |
 | [Applause Board (Cyberamic)]         | Unknown       | Unknown     |
 | [Drum Board (Cyberamic)]             | Unknown       | Unknown     |

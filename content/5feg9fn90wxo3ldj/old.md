@@ -27,7 +27,7 @@ W.I.P
 
 | Animatronics                                                 | Manufacturing Date | Status            |
 |--------------------------------------------------------------|--------------------|-------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1994               | Destroyed         |
+| [Chuck E. Cheese (Cyberamic)]      | 1994               | Destroyed         |
 | [Guest Star / Helen Henny (Cyberamic)] | 1994               | In Store.         |
 | [Mr. Munch (Cyberamic)]               | 1994               | In Store.         |
 | [Jasper T. Jowls (Cyberamic)]         | 1994               | In Store.         |

@@ -20,7 +20,7 @@ After it's closure as CEC, it would then become part of a Best Buy store which o
 
 | Animatronics                                                 | Manufacturing Date | Status            |
 |--------------------------------------------------------------|--------------------|-------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1992-1993          | Unknown/Destroyed |
+| [Chuck E. Cheese (Cyberamic)]      | 1992-1993          | Unknown/Destroyed |
 | [Guest Star / Helen Henny (Cyberamic)] | 1992-1993          | Unknown/Destroyed |
 | [Mr. Munch (Cyberamic)]               | 1992-1993          | Unknown/Destroyed |
 | [Jasper T. Jowls (Cyberamic)]         | 1992-1993          | Unknown/Destroyed |

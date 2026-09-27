@@ -18,11 +18,11 @@ Bradenton opened and closed with a Balcony Stage.
 |--------------------------------------------------------------|--------------------|-----------------------------------------|
 | [Mr. Munch (Cyberamic)]               | 1981               | Sold at auction, current status unknown |
 | [Jasper T. Jowls (Cyberamic)]         | 1981               | Sold at auction, current status unknown |
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981               | Sold at auction, current status unknown |
+| [Chuck E. Cheese (Cyberamic)]      | 1981               | Sold at auction, current status unknown |
 | [Guest Star / Helen Henny (Cyberamic)] | 1981               | Sold at auction, current status unknown |
 | [Pasqually (Cyberamic)]              | 1981               | Sold at auction, current status unknown |
 | [Warblettes (Cyberamic)]             | 1981               | Sold at auction, current status unknown |
-| Waving Flags (Cyberamic)                                     | 1981               | Sold at auction, current status unknown |
+| [Flag Wavers (Cyberamic)]                                     | 1981               | Sold at auction, current status unknown |
 | [Applause Board (Cyberamic)]         | 1981               | Sold at auction, current status unknown |
 | [Drum Board (Cyberamic)]             | 1981               | Sold at auction, current status unknown |
 | [The King King Kat (Lounge)]         | 1981               | Sold at auction, current status unknown |

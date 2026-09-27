@@ -16,10 +16,10 @@ San Diego (El Cajon Blvd) would open in March 1981 (Date Unknown) as the first C
 |--------------------------------------------------------------|-------------|
 | [Mr. Munch (Cyberamic)]               | Unknown     |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown     |
 | [Warblettes (Cyberamic)]             | Unknown     |
-| Waving Flags (Cyberamic)                                     | Unknown     |
+| [Flag Wavers (Cyberamic)]                                     | Unknown     |
 | [Applause Board (Cyberamic)]         | Unknown     |
 | [Drum Board (Cyberamic)]             | Unknown     |

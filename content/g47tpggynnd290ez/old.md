@@ -18,13 +18,13 @@ San Bernardino opened with the Balcony Stage in December 1981. Unfortunately, th
 
 | Character                                                    | Serial | Status                                                  |
 |--------------------------------------------------------------|--------|---------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | N/A    | Unknown/Destroyed.                                      |
+| [Chuck E. Cheese (Cyberamic)]                                   | N/A    | Unknown/Destroyed.                                      |
 | [Guest Star / Helen Henny (Cyberamic)] | N/A    | Owned by a private collector.                           |
 | [Mr. Munch (Cyberamic)]               | N/A    | Unknown/Destroyed. Valves owned by a private collector. |
 | [Jasper T. Jowls (Cyberamic)]         | N/A    | Owned by a private collector.                           |
 | [Pasqually (Cyberamic)]              | N/A    | Owned by a private collector.                           |
 | [Warblettes (Cyberamic)]             | N/A    | Unknown/Destroyed.                                      |
-| Waving Flags (Cyberamic)                                     | N/A    | Unknown/Destroyed.                                      |
+| [Flag Wavers (Cyberamic)]                                     | N/A    | Unknown/Destroyed.                                      |
 | [Applause Board (Cyberamic)]         | N/A    | Unknown/Destroyed.                                      |
 | [Drum Board (Cyberamic)]             | N/A    | Unknown/Destroyed.                                      |
 | [Singing Flowers (Cyberamic)]        | N/A    | Unknown/Destroyed.                                      |

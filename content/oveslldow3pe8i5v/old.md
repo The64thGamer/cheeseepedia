@@ -16,13 +16,13 @@ Merced's location would open on April 18th, 1983 as a corporate store with Madam
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                    |
 |--------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982/1983          | Sent to [Chesapeake, VA (1528 Sam's Circle)], now at SPT Distribution. |
+| [Chuck E. Cheese (Cyberamic)]      | 1982/1983          | Sent to [Chesapeake, VA (1528 Sam's Circle)], now at SPT Distribution. |
 | [Guest Star / Helen Henny (Cyberamic)] | 1982/1983          | Sent to [Chesapeake, VA (1528 Sam's Circle)], now at SPT Distribution. |
 | [Mr. Munch (Cyberamic)]               | 1982/1983          | Sent to [Chesapeake, VA (1528 Sam's Circle)], now at SPT Distribution. |
 | [Jasper T. Jowls (Cyberamic)]         | 1982/1983          | Sent to [Chesapeake, VA (1528 Sam's Circle)], now at SPT Distribution. |
 | [Pasqually (Cyberamic)]              | 1982/1983          | Sent to [Chesapeake, VA (1528 Sam's Circle)], now at SPT Distribution. |
 | [Warblettes (Cyberamic)]             | 1982/1983          | Unknown.                                                                                       |
-| Waving Flags (Cyberamic)                                     | 1982/1983          | Unknown.                                                                                       |
+| [Flag Wavers (Cyberamic)]                                     | 1982/1983          | Unknown.                                                                                       |
 | [Applause Board (Cyberamic)]         | 1982/1983          | Unknown.                                                                                       |
 | [Drum Board (Cyberamic)]             | 1982/1983          | Unknown.                                                                                       |
 | [Singing Flowers (Cyberamic)]        | 1982/1983          | Unknown.                                                                                       |

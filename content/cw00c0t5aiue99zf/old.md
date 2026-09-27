@@ -17,7 +17,7 @@ The store had a 1-stage upon opening until its removal on October 5, 2022, after
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                  |
 |--------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Cyberamic mech including original cosmetics owned by a private collector/former cast member. |
+| [Chuck E. Cheese (Cyberamic)]      | 1993               | Cyberamic mech including original cosmetics owned by a private collector/former cast member. |
 | [Guest Star / Helen Henny (Cyberamic)] | 1993               | Cyberamic mech owned by a private collector.                                                 |
 | [Mr. Munch (Cyberamic)]               | 1993               | Cyberamic mech including some original cosmetics owned by a private collector.               |
 | [Jasper T. Jowls (Cyberamic)]         | 1993               | Cyberamic mech owned by a private collector.                                                 |

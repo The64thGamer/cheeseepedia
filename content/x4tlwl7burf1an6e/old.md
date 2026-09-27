@@ -19,7 +19,7 @@ The location's first major known renovation was in 2005, when the showroom was s
 
 | Animatronic                                                  | Serial  | Whereabouts |
 |--------------------------------------------------------------|---------|-------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown | Unknown     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown | Unknown     |
 | [Mr. Munch (Cyberamic)]               | Unknown | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown | Unknown     |

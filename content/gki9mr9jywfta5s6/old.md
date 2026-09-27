@@ -10,11 +10,11 @@ Sparks opened on December 20th, 1979 in the *Greenbrae Center* with a Portrait S
 |--------------------------------------------------------------|-------------|
 | [Mr. Munch (Cyberamic)]               | Unknown     |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown     |
 | [Warblettes (Cyberamic)]             | Unknown     |
-| Waving Flags (Cyberamic)                                     | Unknown     |
+| [Flag Wavers (Cyberamic)]                                     | Unknown     |
 | [Applause Board (Cyberamic)]         | Unknown     |
 | [Drum Board (Cyberamic)]             | Unknown     |
 | [Dolli Dimples (Cabaret)]            | Unknown     |

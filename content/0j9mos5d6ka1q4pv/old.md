@@ -12,7 +12,7 @@ This store opened in the Oakland Pointe Center on September 20th, 1993 with a 1-
 
 | Animatronic                                                  | Serial | Whereabouts       |
 |--------------------------------------------------------------|--------|-------------------|
-| Chuck E. Cheese (Cyberamic)                                   | ???    | Unknown/Destroyed |
+| [Chuck E. Cheese (Cyberamic)]                                   | ???    | Unknown/Destroyed |
 | [Guest Star / Helen Henny (Cyberamic)] | ???    | Unknown/Destroyed |
 | [Mr. Munch (Cyberamic)]               | ???    | Unknown/Destroyed |
 | [Jasper T. Jowls (Cyberamic)]         | ???    | Unknown/Destroyed |

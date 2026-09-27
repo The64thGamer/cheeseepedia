@@ -55,7 +55,7 @@ On August 8, 2016, the store permanently closed. In 2018 the interior was comple
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                   |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Destroyed                                                                                                     |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Destroyed                                                                                                     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Destroyed, hand frame owned by collector                                                                      |
 | [Mr. Munch (Cyberamic)]               | Unknown            | Destroyed; mask sent to [Glen Burnie, MD (6637 Governor Ritchie Hwy)], then destroyed |
 | [Pasqually (Cyberamic)]              | Unknown            | Destroyed                                                                                                     |

@@ -18,10 +18,10 @@ Unfortunately, there is no documentation on this store other than select adverti
 |--------------------------------------------------------------|-------------|
 | [Mr. Munch (Cyberamic)]               | Unknown     |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown     |
 | [Warblettes (Cyberamic)]             | Unknown     |
-| Waving Flags (Cyberamic)                                     | Unknown     |
+| [Flag Wavers (Cyberamic)]                                     | Unknown     |
 | [Applause Board (Cyberamic)]         | Unknown     |
 | [Drum Board (Cyberamic)]             | Unknown     |

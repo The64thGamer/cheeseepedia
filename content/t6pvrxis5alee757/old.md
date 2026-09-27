@@ -17,7 +17,7 @@ Sometime around 2009-2010, Chuck E. would get the Avenger hat and shirt. The hat
 
 | Animatronic                                                  | Manufacturing Date | Status                                                   |
 |--------------------------------------------------------------|--------------------|----------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Some parts, including snout, owned by Private Collector. |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Some parts, including snout, owned by Private Collector. |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown                                                  |
 | [Mr. Munch (Cyberamic)]               | Unknown            | Unknown                                                  |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown                                                  |

@@ -15,7 +15,7 @@ Warwick opened in the Bald Hill Plaza as a relocation to the [Warwick, RI (1960 
 
 | Animatronic                                                  | Serial         | Manufactuer Date | Whereabouts  |
 |--------------------------------------------------------------|----------------|------------------|--------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown        | August 18, 1981  | Retrofitted. |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown        | August 18, 1981  | Retrofitted. |
 | [Guest Star / Helen Henny (Cyberamic)] | 02-0309, REV B | 1981             | Retrofitted. |
 | [Mr. Munch (Cyberamic)]               | Unknown        | 1981             | Retrofitted. |
 | [Jasper T. Jowls (Cyberamic)]         | 02-0305, REV B | Fall 1981        | Retrofitted. |

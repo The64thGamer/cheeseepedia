@@ -16,7 +16,7 @@ Orange opened June 16th, 1992 in the Edwards Plaza Shopping Center. They opened 
 
 | Animatronics                                                 | Manufacturing Date | Serial Number | Status                                                                                                                                        |
 |--------------------------------------------------------------|--------------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1991-1992          | Unknown       | Destroyed.                                                                                                                                    |
+| [Chuck E. Cheese (Cyberamic)]      | 1991-1992          | Unknown       | Destroyed.                                                                                                                                    |
 | [Guest Star / Helen Henny (Cyberamic)] | 1991-1992          | Unknown       | Destroyed.                                                                                                                                    |
 | [Mr. Munch (Cyberamic)]               | 1991-1992          | Unknown       | Destroyed.                                                                                                                                    |
 | [Jasper T. Jowls (Cyberamic)]         | 1991-1992          | Unknown       | Destroyed.                                                                                                                                    |

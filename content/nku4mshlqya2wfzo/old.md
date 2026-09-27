@@ -16,7 +16,7 @@ The location would open with a Balcony Stage. It is unknown what features this b
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]      | Unknown            | Unknown     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown     |
 | [Mr. Munch (Cyberamic)]               | Unknown            | Unknown     |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown     |

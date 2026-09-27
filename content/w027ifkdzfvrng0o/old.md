@@ -19,7 +19,7 @@ Originally, Ellisville had a Rocker Stage. In 1994, they would receive the 1-Sta
 
 | Animatronic                        | Serial Code | Whereabouts                                                       |
 |------------------------------------|-------------|-------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)        | 1980s       | Unknown/Destroyed.                                                |
+| [Chuck E. Cheese (Cyberamic)]        | 1980s       | Unknown/Destroyed.                                                |
 | Helen Henny (Cyberamic)            | 1980s       | Unknown/Destroyed. Bracelet/corsage sent to Fairview Heights, IL. |
 | Mr. Munch (Cyberamic)              | 1980s       | Unknown/Destroyed.                                                |
 | Jasper T. Jowls (Cyberamic)        | 1980s       | Unknown/Destroyed. Mask sent to Fairview Heights, IL.             |

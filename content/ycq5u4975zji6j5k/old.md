@@ -18,7 +18,7 @@ Originally, when this store opened it featured Chuck in his tuxedo suit. It was 
 
 | Animatronic                                                  | Serial Number | Whereabouts                                                                            |
 |--------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A           | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
+| [Chuck E. Cheese (Cyberamic)]      | N/A           | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Guest Star / Helen Henny (Cyberamic)] | N/A           | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Mr. Munch (Cyberamic)]               | N/A           | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Jasper T. Jowls (Cyberamic)]         | N/A           | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |

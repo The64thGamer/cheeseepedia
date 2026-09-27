@@ -10,10 +10,10 @@ The store would open on July 15th, 1980 in the *County Fair Shopping Center* wit
 |--------------------------------------------------------------|-------------|
 | [Mr. Munch (Cyberamic)]               | Unknown     |
 | [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown     |
 | [Warblettes (Cyberamic)]             | Unknown     |
-| Waving Flags (Cyberamic)                                     | Unknown     |
+| [Flag Wavers (Cyberamic)]                                     | Unknown     |
 | [Applause Board (Cyberamic)]         | Unknown     |
 | [Drum Board (Cyberamic)]             | Unknown     |

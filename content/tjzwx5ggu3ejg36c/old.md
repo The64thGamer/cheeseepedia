@@ -21,7 +21,7 @@ TODO
 | [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown |
-| Waving Flags (Cyberamic)                                     | Unknown            | Unknown |
+| [Flag Wavers (Cyberamic)]                                     | Unknown            | Unknown |
 | [Applause Board (Cyberamic)]         | Unknown            | Unknown |
 | [Drum Board (Cyberamic)]             | Unknown            | Unknown |
 

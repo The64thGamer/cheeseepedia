@@ -21,8 +21,8 @@ TODO
 
 | Animatronic                                                  | Serial Number | Whereabouts                                                                                  |
 |--------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------|
-| Chuck E. Cheese (Cyberamic)                                   | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
-| Chuck E. Cheese (Cyberamic)                                   | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
+| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
 | [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
 | [Mr. Munch (Cyberamic)]               | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
@@ -32,7 +32,7 @@ TODO
 | [Pasqually (Cyberamic)]              | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
 | [Pasqually (Cyberamic)]              | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
 | [Warblettes (Cyberamic)]             | Unknown       | Unknown/Destroyed                                                                            |
-| Waving Flags (Cyberamic)                                     | Unknown       | Unknown                                                                                      |
+| [Flag Wavers (Cyberamic)]                                     | Unknown       | Unknown                                                                                      |
 | [Applause Board (Cyberamic)]         | Unknown       | Unknown/Destroyed                                                                            |
 | [Drum Board (Cyberamic)]             | Unknown       | Unknown/Destroyed                                                                            |
 | [Singing Flowers (Cyberamic)]        | Unknown       | Unknown/Destroyed                                                                            |

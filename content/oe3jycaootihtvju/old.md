@@ -31,7 +31,7 @@ At first, Fairview Heights had a RAE stage, as it was a ShowBiz at the time. Aro
 | [Moon (Animatronic)]                                                | ?-8? 10-? | Unknown / Destroyed.                                                             |
 | [Antioch (Animatronic)]                                             | N/A       | Unknown / Destroyed.                                                             |
 | [Wink]                                                              | N/A       | Owned by a private collector.                                                    |
-| Chuck E. Cheese (Cyberamic)                                                                  | N/A       | Originally from Waukegan, IL. Destroyed, cosmetics owned by a private collector. |
+| [Chuck E. Cheese (Cyberamic)]                                                                  | N/A       | Originally from Waukegan, IL. Destroyed, cosmetics owned by a private collector. |
 | [Guest Star / Helen Henny (Cyberamic)]                                | N/A       | Originally from Waukegan, IL. Destroyed, cosmetics owned by a private collector. |
 | [Mr. Munch (Cyberamic)]                                              | N/A       | Originally from Waukegan, IL. Destroyed, cosmetics owned by a private collector. |
 | [Jasper T. Jowls (Cyberamic)]                                        | N/A       | Originally from Waukegan, IL. Owned by a private collector.                      |
