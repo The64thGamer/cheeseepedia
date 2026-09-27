@@ -1,0 +1,1 @@
+Americana 1984 Great American Picnic ad mentioning the BCJ and showing Chet artwork

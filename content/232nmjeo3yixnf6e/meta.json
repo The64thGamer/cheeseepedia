@@ -1,18 +1,32 @@
 {
-  "title": "Grandma Bear (Animatronic)",
+  "title": "Beatrice (Animatronic)",
   "type": "Animatronics",
   "tags": [
-    "Creative Engineering"
+    "Creative Engineering",
+    "Bear Country Jubilee",
+    "Tone Decoder Control System"
   ],
   "startDate": "1978-00-00",
-  "endDate": "0000-00-00",
+  "endDate": "1993-00-00",
   "contributors": [
-    "FileFickle"
+    "FileFickle",
+    "TutorialTimeYt"
   ],
   "citations": [
-    "https://youtu.be/0l6-6ewuY70?si=GX_FAUIVmPuayYyv&t=1545"
+    "https://youtu.be/0l6-6ewuY70?si=GX_FAUIVmPuayYyv&t=1545",
+    "https://books.google.ro/books?id=Qh4DAAAAMBAJ&q=cincinnati+parks&pg=PA70&redir_esc=y#v=onepage&q=cincinnati%20parks&f=false",
+    "https://showbizpizza.com/info/promo/cei/cei_1977promo.pdf",
+    "https://www.instagram.com/p/DOQ_QNijhuE?img_index=1",
+    "https://www.instagram.com/p/DOQ_QNijhuE?img_index=7",
+    "https://youtu.be/kLMRKaF31ko?si=jydh7EBv-qYjyKXd&t=476",
+    "https://www.youtube.com/watch?v=L40-h9hAbiA&t=126s",
+    "https://www.youtube.com/watch?v=mzgGaXe3TP8"
   ],
   "manufacturer": "Creative Engineering",
-  "pageThumbnailFile": "X7QXhwDhmMwuLodRddau.avif",
-  "unitsProduced": "2"
+  "pageThumbnailFile": "dwuKoyoIr8IU6zO6m3e5.avif",
+  "unitsProduced": "2",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

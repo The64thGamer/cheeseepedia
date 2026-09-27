@@ -13,22 +13,65 @@
     {
       "n": "Balcony Stage",
       "s": "1984-02-00",
-      "e": "1987-04-26"
+      "e": "1987-04-26",
+      "desc": "Had two sets of Warblettes, one on either side."
     }
   ],
-  "franchisees": [],
-  "attractions": [],
+  "franchisees": [
+    {
+      "n": "Jeries Kharman",
+      "s": "1984-02-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Ball Crawl",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Cheese Crawl",
+      "desc": "",
+      "s": "1984-02-00",
+      "e": "1987-04-26"
+    },
+    {
+      "n": "Chuck E. Cheese Roll",
+      "desc": "",
+      "s": "1984-02-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Dragon's Lair",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Sweetlicks",
+      "desc": "Whac-a-Mole type game.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "40.59181912",
     "-74.00120358"
   ],
-  "citations": [],
+  "citations": [
+    "https://cheeseepedia.org/?v=cep-js&=zpccpdhod78ib9n7",
+    "https://cheeseepedia.org/?v=cep-js&=5svkxmz03wkrxpzi",
+    "https://cheeseepedia.org/?v=cep-js&=4vwsxlrl4j9tj3zi",
+    "https://m.youtube.com/watch?v=EIKWUM-CN3A&ra=m"
+  ],
   "contributors": [
     "ThatRockHistorian76"
   ],
   "downloadLinks": [],
-  "pageThumbnailFile": "",
+  "pageThumbnailFile": "zpccpdhod78ib9n7.avif",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
@@ -66,7 +109,7 @@
     },
     {
       "n": "Warblettes (Cyberamic)",
-      "desc": "Current whereabouts unknown.",
+      "desc": "Rainbow variant. Two sets, one located on either side of the Balcony Stage. Current whereabouts unknown.",
       "s": "1984-02-00",
       "e": "1987-04-26"
     },
@@ -81,6 +124,34 @@
       "desc": "Current whereabouts unknown.",
       "s": "1984-02-00",
       "e": "1987-04-26"
+    },
+    {
+      "n": "John / Woodie Bowzer (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Paul (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "George (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Ringo (Cyberamic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1984-02-00",
+      "e": "0000-00-00"
     }
   ]
 }

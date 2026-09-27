@@ -1,0 +1,1 @@
+Americana BCJ newspaper article from 1980 describing price of the show and the showtape (likley the HLB version)

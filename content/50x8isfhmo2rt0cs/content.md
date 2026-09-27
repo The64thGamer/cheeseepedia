@@ -1,0 +1,1 @@
+Americana BCJ newspaper arcticle near the opening in 1978

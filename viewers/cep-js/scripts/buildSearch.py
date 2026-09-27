@@ -10,7 +10,7 @@ EXCERPT_LEN = 150
 MIN_TRI_FREQ = 2
 BODY_FILES = ('content.md', 'old.md')
 
-WIKI_LINK_RE = re.compile(r'\{\{<?\s*wiki-link\s+["\']?([^"\'}\s]+)["\']?[^>]*>?\s*\}\}', re.IGNORECASE)
+WIKI_LINK_RE = re.compile(r'''\{\{<?\s*wiki-link\s+(?:"([^"]+)"|'([^']+)'|([^\s}]+))[^>]*>?\s*\}\}''', re.IGNORECASE)
 CITE_RE      = re.compile(r'\{\{<?\s*cite\s+[^>]*>?\s*\}\}', re.IGNORECASE)
 MD_RE        = re.compile(r'[*_`#>\[\]!]')
 BRACKET_RE   = re.compile(r'\[([^\]]+)\]')
@@ -19,12 +19,13 @@ _multispace  = re.compile(r'\s+')
 
 DICT_TAG_FIELDS   = ('remodels','stages','animatronics','franchisees','attractions','credits')
 STRING_TAG_FIELDS = ('tags','pages','page')
+NO_TITLE_TAG_TYPES = {'videos','photos','reviews','theories','steam comments'}
 
 def normalize(s): return _multispace.sub(' ', _nonword.sub(' ', s.lower())).strip()
 
 def clean_body(s):
     s = CITE_RE.sub('', s)
-    s = WIKI_LINK_RE.sub(lambda m: m.group(1), s)
+    s = WIKI_LINK_RE.sub(lambda m: m.group(1) or m.group(2) or m.group(3) or '', s)
     s = MD_RE.sub(' ', s)
     return _multispace.sub(' ', s).strip()
 
@@ -32,9 +33,24 @@ def excerpt(s):
     s = clean_body(s)[:EXCERPT_LEN*2].strip()
     return (s[:EXCERPT_LEN].rsplit(' ',1)[0]+'…') if len(s)>EXCERPT_LEN else s
 
+BODY_WEIGHT_FLOOR = 0.25
+
+def weighted_trigrams(s, decay=False):
+    s = normalize(s)
+    if not s: return {}
+    padded = f'  {s}  '
+    n = len(padded)
+    span = max(n - 2, 1)
+    out = {}
+    for i in range(n - 2):
+        tri = padded[i:i+3]
+        if not tri.strip(): continue
+        w = 1.0 - (1.0 - BODY_WEIGHT_FLOOR) * (i / span) if decay else 1.0
+        if tri not in out or w > out[tri]: out[tri] = w
+    return out
+
 def trigrams(s):
-    s = normalize(s); padded = f'  {s}  '
-    return {padded[i:i+3] for i in range(len(padded)-2) if padded[i:i+3].strip()}
+    return set(weighted_trigrams(s).keys())
 
 def extract_name(val):
     if isinstance(val, dict): return str(val.get('n','')).strip()
@@ -91,7 +107,8 @@ def extract_tags(fm):
         for item in (val if isinstance(val,list) else [val]): push(str(item).split('|',1)[0].strip())
     push(fm.get('type',''))
     for c in (fm.get('credits') or []): push(str(c).split('|',1)[0].strip())
-    push(fm.get('title',''))
+    if (fm.get('type','') or '').strip().lower() not in NO_TITLE_TAG_TYPES:
+        push(fm.get('title',''))
     date = fm.get('startDate','')
     year = date.split('-')[0] if date and date!='0000-00-00' else ''
     push(year if (year and year!='0000') else 'Unknown Year')
@@ -142,11 +159,14 @@ def build():
             seen_this_doc.add(key)
             canon = tag_canon.setdefault(key, tag)
             tag_idx[canon].append(doc_id)
-        fuzzy = ' '.join([title, tp, fm.get('startDate',''),
+        header = ' '.join([title, tp, fm.get('startDate',''),
             ' '.join(str(v) for v in (fm.get('tags') or [])),
-            ' '.join(str(v) for v in (fm.get('contributors') or [])),
-            clean_body(body)])
-        for tri in trigrams(fuzzy): tri_idx[tri].append(doc_id)
+            ' '.join(str(v) for v in (fm.get('contributors') or []))])
+        doc_tri_weights = weighted_trigrams(header, decay=False)
+        for tri, w in weighted_trigrams(clean_body(body), decay=True).items():
+            if tri not in doc_tri_weights or w > doc_tri_weights[tri]:
+                doc_tri_weights[tri] = w
+        for tri, w in doc_tri_weights.items(): tri_idx[tri].append((doc_id, w))
 
     current_names = {f.name for f in folders}
     id_map = {k: v for k, v in id_map.items() if k in current_names}
@@ -157,11 +177,11 @@ def build():
     docs = [docs_by_id.get(i) for i in range(max_id + 1)]
 
     for lst in tag_idx.values(): lst.sort()
-    for lst in tri_idx.values(): lst.sort()
 
-    tri_idx = {k:v for k,v in tri_idx.items() if len(v)>=MIN_TRI_FREQ}
+    tri_idx = {tri:{str(i):round(wgt,2) for i,wgt in sorted(entries)}
+               for tri,entries in tri_idx.items() if len(entries)>=MIN_TRI_FREQ}
     shards  = defaultdict(dict)
-    for tri,ids in tri_idx.items(): shards[tri[0] if tri[0].isalpha() else '_'][tri] = ids
+    for tri,weights in tri_idx.items(): shards[tri[0] if tri[0].isalpha() else '_'][tri] = weights
 
     os.makedirs(OUT_DIR, exist_ok=True)
     def w(n, o):

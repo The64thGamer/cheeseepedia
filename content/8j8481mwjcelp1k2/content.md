@@ -1,4 +1,4 @@
-***Queenie / Mini Mozzarella* was an animatronic created for the [Wolf Pack 5] show and debuted at the 1978 IAAPA.She uses the same mask mold as [Grandma Bear (Animatronic)]/Beatrice from the [Bear Country Jubilee] and a nearly identical mech as Mama Grandbags from the [Hard Luck Bears].**
+***Queenie / Mini Mozzarella* was an animatronic created for the [Wolf Pack 5] show and debuted at the 1978 IAAPA.She uses the same mask mold as [Beatrice (Animatronic)]/Beatrice from the [Bear Country Jubilee] and a nearly identical mech as Mama Grandbags from the [Hard Luck Bears].**
 
 ## History
 

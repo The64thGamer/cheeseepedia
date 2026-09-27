@@ -25,7 +25,7 @@
     {
       "n": "Balcony Stage",
       "s": "1983-03-15",
-      "e": "0000-00-00"
+      "e": "1989-00-00"
     },
     {
       "n": "Chuck E.'s House Facade",
@@ -38,26 +38,46 @@
       "e": "1996-11-00"
     }
   ],
-  "franchisees": [],
-  "attractions": [
+  "franchisees": [
     {
-      "n": "Cheese Crawl",
+      "n": "Pizza Concepts, Inc.",
       "s": "1983-03-15",
       "e": "0000-00-00"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Ball Crawl",
+      "s": "1983-03-15",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Cheese Crawl",
+      "desc": "",
+      "s": "1983-03-15",
+      "e": "1989-00-00"
     },
     {
       "n": "Chuck E. Cheese Carousel",
       "desc": "Seen in 1987 footage.",
       "s": "0000-00-00",
       "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s Choo Choo",
+      "desc": "Train ride.",
+      "s": "1983-03-15",
+      "e": "0000-00-00"
     }
   ],
-  "sqft": "",
+  "sqft": "22,000 (17,312 used)",
   "latitudeLongitude": [
     "43.21057997",
     "-77.71419658"
   ],
   "citations": [
+    "https://cheeseepedia.org/?v=cep-js&=sqyg61xr2b9lx0b6",
+    "https://cheeseepedia.org/?v=cep-js&=lg6tx0xbfxu8m7dw",
     "newspapers.com/article/democrat-and-chronicle-greece-rocheste/67716363"
   ],
   "contributors": [
@@ -70,6 +90,7 @@
     "Pizza Time Theatre",
     "Chuck E. Cheese's",
     "Balcony Stage",
+    "Chuck E.'s House Facade",
     "2-Stage"
   ],
   "animatronics": [

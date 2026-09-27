@@ -1,0 +1,1 @@
+Americana's Beatrice when she was at CEI Black and white photo
