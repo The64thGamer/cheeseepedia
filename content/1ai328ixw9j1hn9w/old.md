@@ -12,10 +12,10 @@ Winter Park opened on January 26th, 1981, with a [Cyberamics Balcony Stage]. Bar
 
 | Animatronic                                                  | Manufacture Date | Whereabouts                                                            |
 |--------------------------------------------------------------|------------------|------------------------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | 1980             | Unknown                                                                |
-| [Guest Star Helen Henny (Cyberamic)] | 1980             | Was Madame Oink, then Harmony Howlette, then Madame Oink again, Unkown |
-| [Mr Munch (Cyberamic)]               | 1980             | Unknown                                                                |
-| [Jasper T Jowls (Cyberamic)]         | 1980             | Unknown                                                                |
+| [Chuck E. Cheese (Cyberamic)]         | 1980             | Unknown                                                                |
+| [Guest Star / Helen Henny (Cyberamic)] | 1980             | Was Madame Oink, then Harmony Howlette, then Madame Oink again, Unkown |
+| [Mr. Munch (Cyberamic)]               | 1980             | Unknown                                                                |
+| [Jasper T. Jowls (Cyberamic)]         | 1980             | Unknown                                                                |
 | [Pasqually (Cyberamic)]              | 1980             | Unknown                                                                |
 | [Warblettes (Cyberamic)]             | 1980             | Unknown                                                                |
 | [Applause Board (Cyberamic)]         | 1980             | Unknown                                                                |

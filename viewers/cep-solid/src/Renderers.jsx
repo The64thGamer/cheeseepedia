@@ -1,5 +1,5 @@
 import { createResource, Show } from 'solid-js';
-import { fetchImage, fetchMeta, fetchFolderIDFromTitle,fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld } from './GlobalFunctions';
+import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle,fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld } from './GlobalFunctions';
 import { marked } from 'marked';
 import { loadFolderIDToTitleMap, loadViewsMap }  from './GlobalJsonCache'
 
@@ -60,8 +60,13 @@ export async function renderArticle(meta){
 }
 
 export async function renderStandardCard(meta) {
-    const pageThumbnail = await fetchThumbnailWLinkToArticle(meta);
+    let pageThumbnail = await fetchThumbnailWLinkToArticle(meta);
+    if (!pageThumbnail) {
+      pageThumbnail = await fetchCardExcerpt(meta);
+    }
+
     const link = await fetchFolderIDFromTitle(meta.title)
+    const viewsMap = await loadViewsMap();
 
     return (
     <div class="Card">
@@ -74,6 +79,7 @@ export async function renderStandardCard(meta) {
         </div>
         <div class="CardText">
             <strong>{convertStartDate(meta.startDate)} – {convertEndDate(meta.endDate)}</strong>
+            {" "}👁{viewsMap[link]}
         </div>
         </div>
     </div>
@@ -81,7 +87,7 @@ export async function renderStandardCard(meta) {
 }
 
 export async function renderRandomCards() {
-  const EXCLUDE_TYPES = new Set(['photos', 'videos', 'reviews', 'user', 'meta', 'transcriptions']);
+  const EXCLUDE_TYPES = new Set(['photos', 'videos', 'reviews', 'user','steam comments','theories', 'meta', 'transcriptions']);
 
   const folderIDToTitleMap = await loadFolderIDToTitleMap();
   const allIDs = Object.keys(folderIDToTitleMap);
@@ -91,7 +97,7 @@ export async function renderRandomCards() {
   const picked = [];
   const usedIndices = new Set();
   let attempts = 0;
-  const maxAttempts = allIDs.length * 3;
+  const maxAttempts = allIDs.length;
 
   while (picked.length < 10 && usedIndices.size < allIDs.length && attempts < maxAttempts) {
     attempts++;
@@ -101,7 +107,7 @@ export async function renderRandomCards() {
 
     const id = allIDs[idx];
     const m = await fetchMeta(id).catch(() => null);
-    if (m && !EXCLUDE_TYPES.has((m.type || '').toLowerCase())) {
+    if (m && !EXCLUDE_TYPES.has((m.type || '').toLowerCase()) && viewsMap[id] > 20) {
       picked.push({ id, meta: m });
     }
   }

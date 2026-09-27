@@ -19,10 +19,10 @@ Originally when Ventura opened, they had a Balcony Stage, as all other Pizza Tim
 
 | Animatronic                                                  | Serial Number | Whereabouts       |
 |--------------------------------------------------------------|---------------|-------------------|
-| [Chuck E Cheese (Cyberamic)]         | N/A           | Unknown           |
-| [Guest Star Helen Henny (Cyberamic)] | N/A           | Unknown           |
-| [Mr Munch (Cyberamic)]               | N/A           | Unknown           |
-| [Jasper T Jowls (Cyberamic)]         | N/A           | Unknown           |
+| [Chuck E. Cheese (Cyberamic)]         | N/A           | Unknown           |
+| [Guest Star / Helen Henny (Cyberamic)] | N/A           | Unknown           |
+| [Mr. Munch (Cyberamic)]               | N/A           | Unknown           |
+| [Jasper T. Jowls (Cyberamic)]         | N/A           | Unknown           |
 | [Pasqually (Cyberamic)]              | N/A           | Unknown           |
 | [Warblettes (Cyberamic)]             | N/A           | Unknown/Destroyed |
 | Clapper Board (Cyberamic)                                    | N/A           | Unknown/Destroyed |

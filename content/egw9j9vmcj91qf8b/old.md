@@ -15,10 +15,10 @@ TODO
 
 | Animatronic                                                  | Whereabouts          |
 |--------------------------------------------------------------|----------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Retrofitted in 1991. |
-| [Guest Star Helen Henny (Cyberamic)] | Retrofitted in 1991. |
-| [Mr Munch (Cyberamic)]               | Retrofitted in 1991. |
-| [Jasper T Jowls (Cyberamic)]         | Retrofitted in 1991. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Retrofitted in 1991. |
+| [Guest Star / Helen Henny (Cyberamic)] | Retrofitted in 1991. |
+| [Mr. Munch (Cyberamic)]               | Retrofitted in 1991. |
+| [Jasper T. Jowls (Cyberamic)]         | Retrofitted in 1991. |
 | [Pasqually (Cyberamic)]              | Retrofitted in 1991. |
 | Marc (Chuck E. Cheese Retrofit)                              | Unknown              |
 | Rita (Helen Henny Retrofit)                                  | Unknown.             |

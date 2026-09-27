@@ -20,10 +20,10 @@ Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hard
 
 | Character                                                    | Manufacturing Date | Status                                   |
 |--------------------------------------------------------------|--------------------|------------------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | Unknown            | Destroyed, Body Shell listed on OfferUp. |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Owned by a private collector.            |
-| [Mr Munch (Cyberamic)]               | Unknown            | Unknown                                  |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Owned by a private collector.            |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Destroyed, Body Shell listed on OfferUp. |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Owned by a private collector.            |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown                                  |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Owned by a private collector.            |
 | [Pasqually (Cyberamic)]              | Unknown            | Owned by a private collector.            |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown                                  |
 | Waving Flags (Cyberamic)                                     | Unknown            | Unknown                                  |

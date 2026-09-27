@@ -17,10 +17,10 @@ Waldorf opened on March 24, 1992 with a test 1-Stage. Their 1-Stage was similar 
 
 | Character                                                    | Serial Number | Status                                                                                          |
 |--------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | N/A           | Unknown/Destroyed.                                                                              |
-| [Guest Star Helen Henny (Cyberamic)] | N/A           | Unknown/Destroyed.                                                                              |
-| [Mr Munch (Cyberamic)]               | N/A           | Unknown/Destroyed.                                                                              |
-| [Jasper T Jowls (Cyberamic)]         | N/A           | Unknown/Destroyed.                                                                              |
+| [Chuck E. Cheese (Cyberamic)]         | N/A           | Unknown/Destroyed.                                                                              |
+| [Guest Star / Helen Henny (Cyberamic)] | N/A           | Unknown/Destroyed.                                                                              |
+| [Mr. Munch (Cyberamic)]               | N/A           | Unknown/Destroyed.                                                                              |
+| [Jasper T. Jowls (Cyberamic)]         | N/A           | Unknown/Destroyed.                                                                              |
 | [Pasqually (Cyberamic)]              | N/A           | Unknown/Destroyed.                                                                              |
 | [Wink (Cyberamic)]                   | N/A           | Unknown/Destroyed.                                                                              |
 | [Chuck E Cheese 32m (Animatronic)]   | 109           | Sent to new [Waldorf, MD (3241 Plaza Way)] store. Removed in Late 2023. |

@@ -23,9 +23,9 @@ Bellevue opened sometime in or around February 1996 (day unknown). with a [1-Sta
 
 | Animatronic                                                  | Serial Number | Whereabouts                                                                              |
 |--------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown       | Unknown. Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]. |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Unknown. Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]. |
-| [Mr Munch (Cyberamic)]               | Unknown       | Unknown. Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]. |
-| [Jasper T Jowls (Cyberamic)]         | Unknown       | Unknown. Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]. |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown       | Unknown. Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]. |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown. Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]. |
+| [Mr. Munch (Cyberamic)]               | Unknown       | Unknown. Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]. |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown. Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]. |
 | [Pasqually (Cyberamic)]              | Unknown       | Unknown. Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]. |
 | [Wink (Cyberamic)]                   | Unknown       | Unknown. Rumored to be from [Milwaukee, WI (7401 Good Hope Rd)]. |

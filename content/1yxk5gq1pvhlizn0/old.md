@@ -24,10 +24,10 @@ Identified Machines [Chuck E Cheese's Super Shot] Chuck E. Cheese's Photo Ride (
 
 | Animatronic                                                  | Manufacturing Date | Serial Number | Status                                                                       |
 |--------------------------------------------------------------|--------------------|---------------|------------------------------------------------------------------------------|
-| [Mr Munch (Cyberamic)]               | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [Jasper T Jowls (Cyberamic)]         | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [Guest Star Helen Henny (Cyberamic)] | 1982               | Unknown       | Unknown/Destroyed.                                                           |
+| [Mr. Munch (Cyberamic)]               | 1982               | Unknown       | Unknown/Destroyed.                                                           |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982               | Unknown       | Unknown/Destroyed.                                                           |
+| [Jasper T. Jowls (Cyberamic)]         | 1982               | Unknown       | Unknown/Destroyed.                                                           |
+| [Guest Star / Helen Henny (Cyberamic)] | 1982               | Unknown       | Unknown/Destroyed.                                                           |
 | [Pasqually (Cyberamic)]              | 1982               | Unknown       | Unknown/Destroyed.                                                           |
 | [Warblettes (Cyberamic)]             | 1982               | Unknown       | Unknown/Destroyed.                                                           |
 | Waving Flags (Cyberamic)                                     | 1982               | Unknown       | Unknown/Destroyed.                                                           |

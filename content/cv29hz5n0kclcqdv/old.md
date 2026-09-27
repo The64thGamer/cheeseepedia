@@ -15,10 +15,10 @@ West Palm Beach opened on December 18th, 1990, with one of three (Excluding Corp
 
 | Animatronic                                                  | Manufacturer Date | Whereabouts | Notes                                        |
 |--------------------------------------------------------------|-------------------|-------------|----------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown           | Unknown.    | Removed after a Hurricane.                   |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown           | Unknown.    | Removed after a Hurricane.                   |
-| [Mr Munch (Cyberamic)]               | Unknown           | Unknown.    | Removed after a Hurricane.                   |
-| [Jasper T Jowls (Cyberamic)]         | Unknown           | Unknown.    | Removed after a Hurricane.                   |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown           | Unknown.    | Removed after a Hurricane.                   |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown           | Unknown.    | Removed after a Hurricane.                   |
+| [Mr. Munch (Cyberamic)]               | Unknown           | Unknown.    | Removed after a Hurricane.                   |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown           | Unknown.    | Removed after a Hurricane.                   |
 | [Pasqually (Cyberamic)]              | Unknown           | Unknown.    | Removed after a Hurricane.                   |
 | [Wink (Cyberamic)]                   | 1991/1992         | Unknown.    | Added when converted to finalized Road Stage |
 

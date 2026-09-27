@@ -31,10 +31,10 @@ The building would remain vacant again for a few years until it became a bank. T
 
 | Animatronics                                                                | Manufacturing Date | Status                                      |
 |-----------------------------------------------------------------------------|--------------------|---------------------------------------------|
-| [Chuck E Cheese (Cyberamic)] (Ted E. Bear)          | 1983               | Unknown                                     |
-| [Guest Star Helen Henny (Cyberamic)] (Polly Parton) | 1983               | Unknown                                     |
-| [Mr Munch (Cyberamic)] (Corporal Crunch)            | 1983               | Unknown                                     |
-| [Jasper T Jowls (Cyberamic)] (Banjoe)               | 1983               | Unknown                                     |
+| [Chuck E. Cheese (Cyberamic)] (Ted E. Bear)          | 1983               | Unknown                                     |
+| [Guest Star / Helen Henny (Cyberamic)] (Polly Parton) | 1983               | Unknown                                     |
+| [Mr. Munch (Cyberamic)] (Corporal Crunch)            | 1983               | Unknown                                     |
+| [Jasper T. Jowls (Cyberamic)] (Banjoe)               | 1983               | Unknown                                     |
 | [Pasqually (Cyberamic)] (Sergeant Pepperoni)        | 1983               | Unknown                                     |
 | [Warblettes (Cyberamic)]                            | 1983               | Owned by the American Treasure Tour Museum. |
 | Clapper Board (Cyberamic)                                                   | 1983               | Unknown                                     |

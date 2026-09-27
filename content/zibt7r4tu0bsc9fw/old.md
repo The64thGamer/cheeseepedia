@@ -16,11 +16,11 @@ Maple Heights opened sometime in November 1980 with a Portrait Stage, and was th
 
 | Animatronic                                                  | Serial Number | Installed     | Removed   | Whereabouts              | Notes                         |
 |--------------------------------------------------------------|---------------|---------------|-----------|--------------------------|-------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
-| [Jasper T Jowls (Cyberamic)]         | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
 | [Pasqually (Cyberamic)]              | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction | Used Door Opening Mechanisms. |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction | Used Madame Oink Cosmetics.   |
-| [Mr Munch (Cyberamic)]               | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction | Used Madame Oink Cosmetics.   |
+| [Mr. Munch (Cyberamic)]               | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
 | [Warblettes (Cyberamic)]             | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
 | Waving Flags (Cyberamic)                                     | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |
 | [Applause Board (Cyberamic)]         | Unknown       | November 1980 | June 1985 | Unknown, Sold In Auction |                               |

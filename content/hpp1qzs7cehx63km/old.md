@@ -14,10 +14,10 @@ Waterbury opened on September 29, 1992 in Mattatuck Plaza with a 2-Stage with th
 
 | Animatronics                                                 | Manufacturing Date | Status                        |
 |--------------------------------------------------------------|--------------------|-------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1992               | Owned by a Private Collector. |
-| [Guest Star Helen Henny (Cyberamic)] | 1992               | Owned by a Private Collector. |
-| [Mr Munch (Cyberamic)]               | 1992               | Owned by a Private Collector. |
-| [Jasper T Jowls (Cyberamic)]         | 1992               | Owned by a Private Collector. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1992               | Owned by a Private Collector. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1992               | Owned by a Private Collector. |
+| [Mr. Munch (Cyberamic)]               | 1992               | Owned by a Private Collector. |
+| [Jasper T. Jowls (Cyberamic)]         | 1992               | Owned by a Private Collector. |
 | [Pasqually (Cyberamic)]              | 1992               | Owned by a Private Collector. |
 | [Wink (Cyberamic)]                   | 1992               | Unknown                       |
 

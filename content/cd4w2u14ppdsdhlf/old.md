@@ -12,9 +12,9 @@ The store would open in May of 1979 at the *Willows Shopping Center* with its ma
 
 | Animatronic                                                  | Whereabouts |
 |--------------------------------------------------------------|-------------|
-| Chuck E Cheese (Cyberamic)                                   | Unknown     |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown     |
-| [Mr Munch (Cyberamic)]               | Unknown     |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown     |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
+| [Mr. Munch (Cyberamic)]               | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown     |
-| [Jasper T Jowls (Cyberamic)]         | Unknown     |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown     |
 | [Dolli Dimples (Cabaret)]            | Unknown     |

@@ -17,10 +17,10 @@ Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. The 
 
 | Animatronic                                                  | Manufacturing Date | Status                                                                               |
 |--------------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | N/A                | Destroyed, Parts sold/listed on eBay                                                 |
-| [Guest Star Helen Henny (Cyberamic)] | N/A                | Destroyed                                                                            |
-| [Mr Munch (Cyberamic)]               | N/A                | Destroyed, Listed/sold parts on eBay. Teeth owned by MunchTimeStudios.               |
-| [Jasper T Jowls (Cyberamic)]         | N/A                | Destoryed. Mask sent to [Northridge, CA (8425 Reseda Blvd)]. |
+| [Chuck E. Cheese (Cyberamic)]         | N/A                | Destroyed, Parts sold/listed on eBay                                                 |
+| [Guest Star / Helen Henny (Cyberamic)] | N/A                | Destroyed                                                                            |
+| [Mr. Munch (Cyberamic)]               | N/A                | Destroyed, Listed/sold parts on eBay. Teeth owned by MunchTimeStudios.               |
+| [Jasper T. Jowls (Cyberamic)]         | N/A                | Destoryed. Mask sent to [Northridge, CA (8425 Reseda Blvd)]. |
 | [Pasqually (Cyberamic)]              | N/A                | Destroyed, Listed/sold parts on eBay                                                 |
 | [Wink (Cyberamic)]                   | N/A                | Destroyed                                                                            |
 

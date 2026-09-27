@@ -18,10 +18,10 @@ Lowell would be the first 1-Stage to have a blank brick wall for Pasqually, as t
 
 | Animatronic                                                  | Manufacturing date | Status                                             |
 |--------------------------------------------------------------|--------------------|----------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Top half replaced with Worcester, MA's. Destroyed. |
-| [Guest Star Helen Henny (Cyberamic)] | 1993               | Top half replaced with Worcester, MA's. Destroyed. |
-| [Mr Munch (Cyberamic)]               | 1993               | Destroyed.                                         |
-| [Jasper T Jowls (Cyberamic)]         | 1993               | Top half replaced with Worcester, MA's. Destroyed. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Top half replaced with Worcester, MA's. Destroyed. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1993               | Top half replaced with Worcester, MA's. Destroyed. |
+| [Mr. Munch (Cyberamic)]               | 1993               | Destroyed.                                         |
+| [Jasper T. Jowls (Cyberamic)]         | 1993               | Top half replaced with Worcester, MA's. Destroyed. |
 | [Pasqually (Cyberamic)]              | 1993               | Destroyed.                                         |
 | [Wink (Cyberamic)]                   | 1993               | Destroyed.                                         |
 

@@ -27,10 +27,10 @@ The location would hold a closing auction on February 8, 1986, at 10AM.(0) The a
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                 |
 |--------------------------------------------------------------|--------------------|-----------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981               | Owned by 80's Girl /Kobun37 |
-| [Guest Star Helen Henny (Cyberamic)] | 1981               | Owned by Damon E. Breland   |
-| [Mr Munch (Cyberamic)]               | 1981               | Owned by Damon E. Breland   |
-| [Jasper T Jowls (Cyberamic)]         | 1981               | Owned by Damon E. Breland   |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981               | Owned by 80's Girl /Kobun37 |
+| [Guest Star / Helen Henny (Cyberamic)] | 1981               | Owned by Damon E. Breland   |
+| [Mr. Munch (Cyberamic)]               | 1981               | Owned by Damon E. Breland   |
+| [Jasper T. Jowls (Cyberamic)]         | 1981               | Owned by Damon E. Breland   |
 | [Pasqually (Cyberamic)]              | 1981               | Owned by Damon E. Breland   |
 | [Drum Board (Cyberamic)]             | 1981               | Owned by Damon E. Breland   |
 | [Applause Board (Cyberamic)]         | 1981               | Owned by Damon E. Breland   |

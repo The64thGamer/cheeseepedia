@@ -18,10 +18,10 @@ Like all 2-Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. In 2001
 
 | Animatronic                                                  | Manufacturing Date | Serial   | Status             |
 |--------------------------------------------------------------|--------------------|----------|--------------------|
-| Chuck E Cheese (Cyberamic)                                   | 1992               | Unknown. | Unknown/Destroyed. |
-| [Guest Star Helen Henny (Cyberamic)] | 1992               | Unknown. | Unknown/Destroyed. |
-| [Mr Munch (Cyberamic)]               | 1992               | Unknown. | Unknown/Destroyed. |
-| [Jasper T Jowls (Cyberamic)]         | 1992               | Unknown. | Unknown/Destroyed. |
+| Chuck E. Cheese (Cyberamic)                                   | 1992               | Unknown. | Unknown/Destroyed. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1992               | Unknown. | Unknown/Destroyed. |
+| [Mr. Munch (Cyberamic)]               | 1992               | Unknown. | Unknown/Destroyed. |
+| [Jasper T. Jowls (Cyberamic)]         | 1992               | Unknown. | Unknown/Destroyed. |
 | [Pasqually (Cyberamic)]              | 1992               | Unknown. | Unknown/Destroyed. |
 | [Wink (Cyberamic)]                   | 1992               | Unknown. | Unknown/Destroyed. |
 | [Chuck E Cheese 32m (Animatronic)]   | 2001               | 127      | Destroyed/Saved.   |

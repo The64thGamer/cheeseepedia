@@ -17,10 +17,10 @@ Fairbanks opened in January 1986 (day unknown) with a Balcony Stage. This would 
 | Animatronics                                                 | Production Date | Whereabouts |
 |--------------------------------------------------------------|-----------------|-------------|
 | [Warblettes (Cyberamic)]             | Unknown         | Unknown     |
-| [Mr Munch (Cyberamic)]               | Unknown         | Unknown     |
-| [Jasper T Jowls (Cyberamic)]         | Unknown         | Unknown     |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown         | Unknown     |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown         | Unknown     |
+| [Mr. Munch (Cyberamic)]               | Unknown         | Unknown     |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown         | Unknown     |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown         | Unknown     |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown         | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown         | Unknown     |
 | Waving Flags (Cyberamic)                                     | Unknown         | Unknown     |
 | [Applause Board (Cyberamic)]         | Unknown         | Unknown     |

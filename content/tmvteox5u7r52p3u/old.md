@@ -21,9 +21,9 @@ The Towson Location opened sometime around August 1993 with the [1-Stage] (One o
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                      |
 |--------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
-| [Guest Star Helen Henny (Cyberamic)] | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
-| [Mr Munch (Cyberamic)]               | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
-| [Jasper T Jowls (Cyberamic)]         | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
+| Chuck E. Cheese (Cyberamic)                                   | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
+| [Mr. Munch (Cyberamic)]               | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
+| [Jasper T. Jowls (Cyberamic)]         | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
 | [Pasqually (Cyberamic)]              | 1992-1993          | Sent to [Baltimore, MD (8354 Eastern Ave)], now unknown. |
 | [Wink (Cyberamic)]                   | 1992-1993          | Unknown                                                                          |

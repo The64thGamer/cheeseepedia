@@ -82,10 +82,10 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 
 | Animatronic                                                  | Serial Number | Whereabouts |
 |--------------------------------------------------------------|---------------|-------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown       | Unknown     |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Unknown     |
-| [Mr Munch (Cyberamic)]               | Unknown       | Unknown     |
-| [Jasper T Jowls (Cyberamic)]         | Unknown       | Unknown     |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown       | Unknown     |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown     |
+| [Mr. Munch (Cyberamic)]               | Unknown       | Unknown     |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown       | Unknown     |
 | [Chuck E Cheese 16m (Animatronic)]   | N/A           | Unknown     |
 | [Pizza Time Clock (Animatronic)]     | N/A           | Unknown     |

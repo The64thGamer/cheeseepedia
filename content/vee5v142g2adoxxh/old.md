@@ -65,10 +65,10 @@ W.I.P
 
 | Animatronic                                                  | Manufacturing Date | Status     |
 |--------------------------------------------------------------|--------------------|------------|
-| [Chuck E Cheese (Cyberamic)]         | 1980s              | Destroyed. |
-| [Guest Star Helen Henny (Cyberamic)] | 1980s              | Destroyed. |
-| [Mr Munch (Cyberamic)]               | 1980s              | Destroyed. |
-| [Jasper T Jowls (Cyberamic)]         | 1980s              | Destroyed. |
+| [Chuck E. Cheese (Cyberamic)]         | 1980s              | Destroyed. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1980s              | Destroyed. |
+| [Mr. Munch (Cyberamic)]               | 1980s              | Destroyed. |
+| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Destroyed. |
 | [Pasqually (Cyberamic)]              | 1980s              | Destroyed. |
 | [Wink (Cyberamic)]                   | 1990s              | Destroyed. |
 

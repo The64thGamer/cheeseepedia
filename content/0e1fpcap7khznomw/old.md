@@ -31,10 +31,10 @@ Like all ShowBiz Pizzas at the time, the store opened with the Rock-Afire Explos
 | [Sun (Animatronic)]                               | N/A                | Unknown/Destroyed. |
 | [Moon (Animatronic)]                              | N/A                | Unknown/Destroyed. |
 | [Antioch (Animatronic)]                           | N/A                | Unknown/Destroyed. |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                   | N/A                | Unknown            |
-| [Guest Star Helen Henny (Cyberamic)]              | N/A                | Unknown            |
-| [Mr Munch (Cyberamic)]                            | N/A                | Unknown            |
-| [Jasper T Jowls (Cyberamic)]                      | N/A                | Unknown            |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                   | N/A                | Unknown            |
+| [Guest Star / Helen Henny (Cyberamic)]              | N/A                | Unknown            |
+| [Mr. Munch (Cyberamic)]                            | N/A                | Unknown            |
+| [Jasper T. Jowls (Cyberamic)]                      | N/A                | Unknown            |
 | [Pasqually (Cyberamic)]                           | N/A                | Unknown            |
 | [Wink (Cyberamic)]                                | N/A                | Unknown            |
 

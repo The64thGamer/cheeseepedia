@@ -27,10 +27,10 @@ The characters would be sent to [West Hills, CA (22940 Van Owen St)] following t
 
 | Animatronic                                                  | Whereabouts                                                                                            |
 |--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Destroyed. Head mech, jaw, and feet owned by a private collector.                                      |
-| [Guest Star Helen Henny (Cyberamic)] | Destroyed. Mask and dress owned by a private collector.                                                |
-| [Mr Munch (Cyberamic)]               | Destroyed. Mask and body fur owned by a private collector.                                             |
-| [Jasper T Jowls (Cyberamic)]         | Destroyed. Mask sent to [Garden Grove, CA (13101 Harbor Blvd)], now destroyed. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Destroyed. Head mech, jaw, and feet owned by a private collector.                                      |
+| [Guest Star / Helen Henny (Cyberamic)] | Destroyed. Mask and dress owned by a private collector.                                                |
+| [Mr. Munch (Cyberamic)]               | Destroyed. Mask and body fur owned by a private collector.                                             |
+| [Jasper T. Jowls (Cyberamic)]         | Destroyed. Mask sent to [Garden Grove, CA (13101 Harbor Blvd)], now destroyed. |
 | [Pasqually (Cyberamic)]              | Destroyed. Mask sent to [Garden Grove, CA (13101 Harbor Blvd)], now destroyed. |
 | [Warblettes (Cyberamic)]             | Unknown/Destroyed                                                                                      |
 | Waving Flags (Cyberamic)                                     | Unknown/Destroyed                                                                                      |

@@ -1,4 +1,5 @@
 import { loadTitleToFolderIDMap } from './GlobalJsonCache';
+import { marked } from 'marked';
 
 const MNAMES=['','Jan. ','Feb. ','Mar. ','Apr. ','May ','Jun. ','Jul. ','Aug. ','Sep. ','Oct. ','Nov. ','Dec.'];
 
@@ -70,6 +71,7 @@ export function convertEndDate(date) {
   if (monthName) return `${monthName} ${year}`;
   return String(year);
 }
+
 export async function fetchImage(folderID) {
   if (!folderID) return null;
 
@@ -91,6 +93,51 @@ export async function fetchImage(folderID) {
         loading="lazy"
         class=""
       />
+    </a>
+  );
+}
+
+function decodeEntities(str) {
+  const el = document.createElement("textarea");
+  el.innerHTML = str;
+  return el.value;
+}
+
+export async function fetchCardExcerpt(meta, maxLength = 160) {
+  const folderID = await fetchFolderIDFromTitle(meta.title);
+  if (!folderID) return(
+    <a href={getFolderPath(folderID)} class="CardImageExcerpt">
+      Error?
+    </a>
+  );
+
+  const contentMD = (await fetchContent(folderID)) || (await fetchOld(folderID));
+  if (!contentMD) return(
+    <a href={getFolderPath(folderID)} class="CardImageExcerpt">
+      No Article Content. Come write some!
+    </a>
+  );
+
+  const plainText = decodeEntities(contentMD)
+    .split("[").join("")
+    .split("]").join("")
+    .split("#").join("")
+    .replace(/\s+/g, " ")
+    .trim();
+
+  if (!plainText) return(
+    <a href={getFolderPath(folderID)} class="CardImageExcerpt">
+      No Article Content. Come write some!
+    </a>
+  );
+
+  const excerpt = plainText.length <= maxLength
+    ? plainText
+    : `${plainText.slice(0, plainText.slice(0, maxLength).lastIndexOf(" "))}…`;
+
+  return (
+    <a href={getFolderPath(folderID)} class="CardImageExcerpt">
+      {excerpt}
     </a>
   );
 }

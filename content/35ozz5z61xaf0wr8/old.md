@@ -21,14 +21,14 @@ TODO
 
 | Animatronic                                                  | Serial Number | Whereabouts                                                                                  |
 |--------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
-| Chuck E Cheese (Cyberamic)                                   | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
-| [Mr Munch (Cyberamic)]               | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
-| [Mr Munch (Cyberamic)]               | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
-| [Jasper T Jowls (Cyberamic)]         | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
-| [Jasper T Jowls (Cyberamic)]         | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
+| [Mr. Munch (Cyberamic)]               | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
+| [Mr. Munch (Cyberamic)]               | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
 | [Pasqually (Cyberamic)]              | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
 | [Pasqually (Cyberamic)]              | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
 | [Warblettes (Cyberamic)]             | Unknown       | Unknown/Destroyed                                                                            |

@@ -25,10 +25,10 @@ Starting in around April 2022, the Knoxville CEC would start it's 2017 2.0 Remod
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                   |
 |--------------------------------------------------------------|--------------------|-------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Owned by a Private Collector. |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Owned by a Private Collector. |
-| [Mr Munch (Cyberamic)]               | Unknown            | Owned by a Private Collector. |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Owned by a Private Collector. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Owned by a Private Collector. |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Owned by a Private Collector. |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Owned by a Private Collector. |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Owned by a Private Collector. |
 | [Pasqually (Cyberamic)]              | Unknown            | Owned by a Private Collector. |
 | [Wink (Cyberamic)]                   | Unknown            | Owned by a Private Collector. |
 

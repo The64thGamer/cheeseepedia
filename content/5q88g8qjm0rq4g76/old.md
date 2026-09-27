@@ -20,10 +20,10 @@ On October 21, 1984, the store would be selected to be auctioned off as part of 
 
 | Animatronic                                                  | Serial Number | Whereabouts |
 |--------------------------------------------------------------|---------------|-------------|
-| [Mr Munch (Cyberamic)]               | Unknown       | Unknown     |
-| [Jasper T Jowls (Cyberamic)]         | Unknown       | Unknown     |
-| Chuck E Cheese (Cyberamic)                                   | Unknown       | Unknown     |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Unknown     |
+| [Mr. Munch (Cyberamic)]               | Unknown       | Unknown     |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown     |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown       | Unknown     |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown       | Unknown     |
 | [Warblettes (Cyberamic)]             | Unknown       | Unknown     |
 | Waving Flags (Cyberamic)                                     | Unknown       | Unknown     |

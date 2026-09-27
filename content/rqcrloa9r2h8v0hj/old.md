@@ -10,10 +10,10 @@
 
 | Animatronic                                                  | Manufacturer Date | Serial  | Whereabouts                                                                   |
 |--------------------------------------------------------------|-------------------|---------|-------------------------------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | 1992/1993         | Unknown | Sent to [Northridge, CA (8425 Reseda Blvd)] location. |
-| [Guest Star Helen Henny (Cyberamic)] | 1992/1993         | Unknown | Sent to [Northridge, CA (8425 Reseda Blvd)] location. |
-| [Mr Munch (Cyberamic)]               | 1992/1993         | Unknown | Sent to [Northridge, CA (8425 Reseda Blvd)] location. |
-| [Jasper T Jowls (Cyberamic)]         | 1992/1993         | Unknown | Sent to [Northridge, CA (8425 Reseda Blvd)] location. |
+| [Chuck E. Cheese (Cyberamic)]         | 1992/1993         | Unknown | Sent to [Northridge, CA (8425 Reseda Blvd)] location. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1992/1993         | Unknown | Sent to [Northridge, CA (8425 Reseda Blvd)] location. |
+| [Mr. Munch (Cyberamic)]               | 1992/1993         | Unknown | Sent to [Northridge, CA (8425 Reseda Blvd)] location. |
+| [Jasper T. Jowls (Cyberamic)]         | 1992/1993         | Unknown | Sent to [Northridge, CA (8425 Reseda Blvd)] location. |
 | [Pasqually (Cyberamic)]              | 1992/1993         | Unknown | Sent to [Northridge, CA (8425 Reseda Blvd)] location. |
 | [Wink (Cyberamic)]                   | 1992/1993         | Unknown | Unknown/Destroyed                                                             |
 

@@ -21,10 +21,10 @@ Akron opened as CEC on October 25 1993 with a 1-Stage. The store kept two Pizza 
 
 | Animatronic                                                  | Manufactured | Status                                                   |
 |--------------------------------------------------------------|--------------|----------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993         | Removed July 2022, Remains owned by a private collector. |
-| [Guest Star Helen Henny (Cyberamic)] | 1993         | Removed July 2022, Remains owned by a private collector. |
-| [Mr Munch (Cyberamic)]               | 1993         | Removed July 2022, Remains owned by a private collector. |
-| [Jasper T Jowls (Cyberamic)]         | 1993         | Removed July 2022, Remains owned by a private collector. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993         | Removed July 2022, Remains owned by a private collector. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1993         | Removed July 2022, Remains owned by a private collector. |
+| [Mr. Munch (Cyberamic)]               | 1993         | Removed July 2022, Remains owned by a private collector. |
+| [Jasper T. Jowls (Cyberamic)]         | 1993         | Removed July 2022, Remains owned by a private collector. |
 | [Pasqually (Cyberamic)]              | 1993         | Removed July 2022, Remains owned by a private collector. |
 | [Wink (Cyberamic)]                   | 1993         | Removed July 2022, Unknown                               |
 

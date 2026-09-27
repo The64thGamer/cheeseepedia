@@ -100,9 +100,9 @@ The current Pasadena location opened on October 14, 1993 with the [2-Stage] and 
 
 | Animatronic                                                  | Serial | Whereabouts                                                         |
 |--------------------------------------------------------------|--------|---------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| [Guest Star Helen Henny (Cyberamic)] | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| [Mr Munch (Cyberamic)]               | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| [Jasper T Jowls (Cyberamic)]         | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
+| Chuck E. Cheese (Cyberamic)                                   | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
+| [Guest Star / Helen Henny (Cyberamic)] | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
+| [Mr. Munch (Cyberamic)]               | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
+| [Jasper T. Jowls (Cyberamic)]         | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
 | [Pasqually (Cyberamic)]              | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
 | [Wink (Cyberamic)]                   | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |

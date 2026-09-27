@@ -14,12 +14,12 @@ Abilene opened on November 23, 1981, with a [Cyberamics Balcony Stage]. It was l
 
 ## Animatronics
 
-| [Chuck E Cheese (Cyberamic)]         |   |   |   |
+| [Chuck E. Cheese (Cyberamic)]         |   |   |   |
 |--------------------------------------------------------------|---|---|---|
 |                                                              |   |   |   |
-| [Mr Munch (Cyberamic)]               |   |   |   |
-| [Jasper T Jowls (Cyberamic)]         |   |   |   |
-| [Guest Star Helen Henny (Cyberamic)] |   |   |   |
+| [Mr. Munch (Cyberamic)]               |   |   |   |
+| [Jasper T. Jowls (Cyberamic)]         |   |   |   |
+| [Guest Star / Helen Henny (Cyberamic)] |   |   |   |
 | [Pasqually (Cyberamic)]              |   |   |   |
 | [Warblettes (Cyberamic)]             |   |   |   |
 | [Flag Wavers (Cyberamic)]            |   |   |   |

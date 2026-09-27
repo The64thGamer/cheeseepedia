@@ -28,10 +28,10 @@ In 2012, a live performance based cafe named 'Paris Cafe' would open in the form
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                       |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | Unknown            | Retrofitted in 1994                                                                               |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Retrofitted in 1994                                                                               |
-| [Mr Munch (Cyberamic)]               | Unknown            | Retrofitted in 1994                                                                               |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Retrofitted in 1994                                                                               |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Retrofitted in 1994                                                                               |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Retrofitted in 1994                                                                               |
 | [Pasqually (Cyberamic)]              | Unknown            | Retrofitted in 1994                                                                               |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Retrofitted in 1994, now owned by [Matt the Franchize](https://www.youtube.com/@MattTheFranchize) |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Retrofitted in 1994, now owned by [Matt the Franchize](https://www.youtube.com/@MattTheFranchize) |
 | [Dolli Dimples (Cabaret)]            | Unknown            | Mask used for Mr Munch when retrofitted                                                           |
 | The King                                                     | Unknown            | Unknown                                                                                           |

@@ -17,10 +17,10 @@ Wichita premiered with a Road Stage, as did other CEC locations between 1990 and
 
 | Animatronic                                                  | Serial | Whereabouts                                   |
 |--------------------------------------------------------------|--------|-----------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | 1980s  | Owned by a Private Collector                  |
-| [Guest Star Helen Henny (Cyberamic)] | 1980s  | Owned by a Private Collector                  |
-| [Mr Munch (Cyberamic)]               | 1980s  | Owned by a Private Collector/Wayfinder\_triko |
-| [Jasper T Jowls (Cyberamic)]         | 1980s  | Owned by a Private Collector                  |
+| [Chuck E. Cheese (Cyberamic)]         | 1980s  | Owned by a Private Collector                  |
+| [Guest Star / Helen Henny (Cyberamic)] | 1980s  | Owned by a Private Collector                  |
+| [Mr. Munch (Cyberamic)]               | 1980s  | Owned by a Private Collector/Wayfinder\_triko |
+| [Jasper T. Jowls (Cyberamic)]         | 1980s  | Owned by a Private Collector                  |
 | [Pasqually (Cyberamic)]              | 1980s  | Owned by a Private Collector                  |
 | [Wink (Cyberamic)]                   | 1991   | Unknown/Destroyed                             |
 

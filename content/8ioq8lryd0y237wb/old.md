@@ -103,10 +103,10 @@ Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a [S
 
 | Animatronic                                                  | Serial  | Whereabouts                    |
 |--------------------------------------------------------------|---------|--------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | Unknown | Used for parts at Brandon, FL. |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown | Used for parts at Brandon, FL. |
-| [Mr Munch (Cyberamic)]               | Unknown | Used for parts at Brandon, FL. |
-| [Jasper T Jowls (Cyberamic)]         | Unknown | Used for parts at Brandon, FL. |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown | Used for parts at Brandon, FL. |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown | Used for parts at Brandon, FL. |
+| [Mr. Munch (Cyberamic)]               | Unknown | Used for parts at Brandon, FL. |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown | Used for parts at Brandon, FL. |
 | [Pasqually (Cyberamic)]              | Unknown | Used for parts at Brandon, FL. |
 | \|[Chuck E Cheese 32m (Animatronic)] | 114     | Destroyed                      |
 

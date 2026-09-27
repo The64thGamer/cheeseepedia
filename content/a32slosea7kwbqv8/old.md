@@ -14,10 +14,10 @@ New London opened on May 16th, 1994, as a Chuck E. Cheese's Pizza with a 1-Stage
 
 | Animatronic                                                  | Manufacturer Date | Serial  | Whereabouts                                                                                            |
 |--------------------------------------------------------------|-------------------|---------|--------------------------------------------------------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | 1993/1994         | Unknown | Unknown.                                                                                               |
-| [Guest Star Helen Henny (Cyberamic)] | 1993/1994         | Unknown | Unknown. Mask sent to [Manchester, CT (82 Buckland St)].                       |
-| [Mr Munch (Cyberamic)]               | 1993/1994         | Unknown | Unknown.                                                                                               |
-| [Jasper T Jowls (Cyberamic)]         | 1993/1994         | Unknown | Unknown. Mask sent to [North Dartmouth, MA (412-418 State Rd)], now destroyed. |
+| [Chuck E. Cheese (Cyberamic)]         | 1993/1994         | Unknown | Unknown.                                                                                               |
+| [Guest Star / Helen Henny (Cyberamic)] | 1993/1994         | Unknown | Unknown. Mask sent to [Manchester, CT (82 Buckland St)].                       |
+| [Mr. Munch (Cyberamic)]               | 1993/1994         | Unknown | Unknown.                                                                                               |
+| [Jasper T. Jowls (Cyberamic)]         | 1993/1994         | Unknown | Unknown. Mask sent to [North Dartmouth, MA (412-418 State Rd)], now destroyed. |
 | [Pasqually (Cyberamic)]              | 1993/1994         | Unknown | Unknown.                                                                                               |
 | [Wink (Cyberamic)]                   | 1993/1994         | N/A     | Destroyed.                                                                                             |
 

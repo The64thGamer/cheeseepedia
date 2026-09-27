@@ -13,10 +13,10 @@ The store originally opened with the Balcony Stage as shown on the November 1st,
 |                                                              |                        |                                                                                                               |
 |--------------------------------------------------------------|------------------------|---------------------------------------------------------------------------------------------------------------|
 | **Animatronic**                                              | **Manufacturing Date** | **Whereabouts**                                                                                               |
-| [Chuck E Cheese (Cyberamic)]         | Unknown                | Destroyed                                                                                                     |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown                | Destroyed, hand frame owned by collector                                                                      |
-| [Mr Munch (Cyberamic)]               | Unknown                | Destroyed, mask sent to [Glen Burnie, MD (6637 Governor Ritchie Hwy)], then destroyed |
-| [Jasper T Jowls (Cyberamic)]         | Unknown                | Destroyed                                                                                                     |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown                | Destroyed                                                                                                     |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown                | Destroyed, hand frame owned by collector                                                                      |
+| [Mr. Munch (Cyberamic)]               | Unknown                | Destroyed, mask sent to [Glen Burnie, MD (6637 Governor Ritchie Hwy)], then destroyed |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown                | Destroyed                                                                                                     |
 | [Pasqually (Cyberamic)]              | Unknown                | Destroyed                                                                                                     |
 | [Warblettes (Cyberamic)]             | Unknown                | Unknown, likely destroyed                                                                                     |
 | [Flag Wavers (Cyberamic)]            | Unknown                | Unknown, likely destroyed                                                                                     |
@@ -55,11 +55,11 @@ On August 8, 2016, the store permanently closed. In 2018 the interior was comple
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                   |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | Unknown            | Destroyed                                                                                                     |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Destroyed, hand frame owned by collector                                                                      |
-| [Mr Munch (Cyberamic)]               | Unknown            | Destroyed; mask sent to [Glen Burnie, MD (6637 Governor Ritchie Hwy)], then destroyed |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Destroyed                                                                                                     |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Destroyed, hand frame owned by collector                                                                      |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Destroyed; mask sent to [Glen Burnie, MD (6637 Governor Ritchie Hwy)], then destroyed |
 | [Pasqually (Cyberamic)]              | Unknown            | Destroyed                                                                                                     |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Destroyed                                                                                                     |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Destroyed                                                                                                     |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown                                                                                                       |
 | [Flag Wavers (Cyberamic)]            | Unknown            | Unknown                                                                                                       |
 | [Applause Board (Cyberamic)]         | Unknown            | Unknown                                                                                                       |

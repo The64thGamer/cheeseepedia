@@ -17,10 +17,10 @@ Originally, the store opened with Chuck E.'s House which was one of two installe
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts     | Notes                                                                                                                                 |
 |--------------------------------------------------------------|--------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
-| [Guest Star Helen Henny (Cyberamic)] | 1980's             | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
-| [Mr Munch (Cyberamic)]               | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
-| [Jasper T Jowls (Cyberamic)]         | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1980's             | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
+| [Mr. Munch (Cyberamic)]               | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
+| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
 | [Pasqually (Cyberamic)]              | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
 
 ## Videos

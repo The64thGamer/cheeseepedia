@@ -29,10 +29,10 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | [Sun (Animatronic)]                               | 4-82 10-15    | Unknown.    |
 | [Moon (Animatronic)]                              | 4-82 11-15    | Unknown.    |
 | [Antioch (Animatronic)]                           | N/A           | Unknown.    |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                   | Unknown       | Destroyed.  |
-| [Guest Star Helen Henny (Cyberamic)]              | Unknown       | Destroyed.  |
-| [Mr Munch (Cyberamic)]                            | Unknown       | Destroyed.  |
-| [Jasper T Jowls (Cyberamic)]                      | Unknown       | Destroyed.  |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                   | Unknown       | Destroyed.  |
+| [Guest Star / Helen Henny (Cyberamic)]              | Unknown       | Destroyed.  |
+| [Mr. Munch (Cyberamic)]                            | Unknown       | Destroyed.  |
+| [Jasper T. Jowls (Cyberamic)]                      | Unknown       | Destroyed.  |
 | [Pasqually (Cyberamic)]                           | Unknown       | Destroyed.  |
 | [Singing Flowers (Cyberamic)]                     | Unknown       | Unknown.    |
 | [Wink (Cyberamic)]                                | Unknown       | Destroyed.  |

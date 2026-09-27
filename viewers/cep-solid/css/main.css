@@ -133,6 +133,7 @@ a {
 .Card:hover {
   box-shadow: 0 0 0 0.25rem var(--good-link);
   transform: translateY(-0.25rem);
+  will-change: transform;
 }
 
 .Card img {
@@ -144,10 +145,21 @@ a {
 }
 
 .CardLink {
-  mask-image: linear-gradient(to right, black 0%, black 90%, transparent 100%);
+  position: relative;
   white-space: nowrap;
   overflow: hidden;
   font-family: var(--font-display);
+}
+
+.CardLink::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 2rem;
+  background: linear-gradient(to right, transparent, var(--background) 80%);
+  pointer-events: none;
 }
 
 .CardText {
@@ -164,11 +176,13 @@ a {
   padding-right: 2rem;
   transform: translateX(0);
   transition: none;
+  will-change: auto;
 }
 
 .Card:hover span {
   transition: transform 2s linear;
   transform: translateX(-75%);
+  will-change: transform;
 }
 
 .CardTextArea {
@@ -196,10 +210,11 @@ a {
   transition: none;
   white-space: wrap;
   overflow: hidden;
+  transform: translateY(0);
+  transition: transform 2s linear;
 }
 
 .CardImageExcerpt:hover {
-  transition: transform 2s linear;
   transform: translateY(-50%);
 }
 
@@ -241,4 +256,5 @@ a {
   padding-bottom: 1.5rem;
   scroll-behavior: smooth;
   white-space: nowrap;
+  will-change: scroll-position;
 }

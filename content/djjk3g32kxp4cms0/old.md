@@ -34,9 +34,9 @@ Chino was Supposed to open in mid 1987 as a ShowBiz Pizza Place with SPP Phase 1
 | [Sun (Animatronic)]                               | N/A                |                    | Never Installed                                                      |
 | [Moon (Animatronic)]                              | N/A                |                    | Never Installed                                                      |
 | [Antioch (Animatronic)]                           | N/A                |                    | Never Installed                                                      |
-| [Chuck E Cheese (Cyberamic)]                      | December 30th 1988 | November 18th 2022 | Destroyed/Remains owned by mutiple YouTubers and private collectors. |
-| [Guest Star Helen Henny (Cyberamic)]              | December 30th 1988 | November 18th 2022 | Destroyed/Remains owned by mutiple YouTubers and private collectors. |
-| [Mr Munch (Cyberamic)]                            | December 30th 1988 | November 18th 2022 | Destroyed/Remains owned by Mutiple YouTubers And private collectors  |
-| [Jasper T Jowls (Cyberamic)]                      | December 30th 1988 | November 18th 2022 | Destroyed/Remains owned by mutiple YouTubers and private collectors. |
+| [Chuck E. Cheese (Cyberamic)]                      | December 30th 1988 | November 18th 2022 | Destroyed/Remains owned by mutiple YouTubers and private collectors. |
+| [Guest Star / Helen Henny (Cyberamic)]              | December 30th 1988 | November 18th 2022 | Destroyed/Remains owned by mutiple YouTubers and private collectors. |
+| [Mr. Munch (Cyberamic)]                            | December 30th 1988 | November 18th 2022 | Destroyed/Remains owned by Mutiple YouTubers And private collectors  |
+| [Jasper T. Jowls (Cyberamic)]                      | December 30th 1988 | November 18th 2022 | Destroyed/Remains owned by mutiple YouTubers and private collectors. |
 | [Pasqually (Cyberamic)]                           | December 30th 1988 | November 18th 2022 | Destroyed/Remains owned by mutiple YouTubers private collectors.     |
 | [Wink (Cyberamic)]                                | May 1994           | November 18th 2022 | Owned by CecFan15 On Youtube                                         |

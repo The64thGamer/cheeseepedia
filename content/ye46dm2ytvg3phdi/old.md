@@ -15,10 +15,10 @@ San Bruno opened on May 30, 1994 with the SPT 1992/1993 Remodel Program and [1-S
 
 | Animatronic                                                  | Serial | Whereabouts       |
 |--------------------------------------------------------------|--------|-------------------|
-| Chuck E Cheese (Cyberamic)                                   | N/A    | Unknown/Destroyed |
-| [Guest Star Helen Henny (Cyberamic)] | N/A    | Unknown/Destroyed |
-| [Mr Munch (Cyberamic)]               | N/A    | Unknown/Destroyed |
-| [Jasper T Jowls (Cyberamic)]         | N/A    | Unknown/Destroyed |
+| Chuck E. Cheese (Cyberamic)                                   | N/A    | Unknown/Destroyed |
+| [Guest Star / Helen Henny (Cyberamic)] | N/A    | Unknown/Destroyed |
+| [Mr. Munch (Cyberamic)]               | N/A    | Unknown/Destroyed |
+| [Jasper T. Jowls (Cyberamic)]         | N/A    | Unknown/Destroyed |
 | [Pasqually (Cyberamic)]              | N/A    | Unknown/Destroyed |
 |                                                              |        |                   |
 

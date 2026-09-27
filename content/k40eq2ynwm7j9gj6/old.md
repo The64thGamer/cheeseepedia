@@ -15,8 +15,8 @@ The building East Hanover occupies was built in 1993 as a two floor multi-store 
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                       |
 |--------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Owned by a private collector. Fur and ear portion of mask at [Edison, NJ (1120 Route 1)]. |
-| [Guest Star Helen Henny (Cyberamic)] | 1993               | Owned by a private collector. Cosmetics at [Edison, NJ (1120 Route 1)].                   |
-| [Mr Munch (Cyberamic)]               | 1993               | Destroyed. Remains owned by private collector.                                                                    |
-| [Jasper T Jowls (Cyberamic)]         | 1993               | Destroyed. Remains owned by private collector. Mask at [Edison, NJ (1120 Route 1)].       |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Owned by a private collector. Fur and ear portion of mask at [Edison, NJ (1120 Route 1)]. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1993               | Owned by a private collector. Cosmetics at [Edison, NJ (1120 Route 1)].                   |
+| [Mr. Munch (Cyberamic)]               | 1993               | Destroyed. Remains owned by private collector.                                                                    |
+| [Jasper T. Jowls (Cyberamic)]         | 1993               | Destroyed. Remains owned by private collector. Mask at [Edison, NJ (1120 Route 1)].       |
 | [Pasqually (Cyberamic)]              | 1993               | Destroyed. Remains owned by private collector. Drum set at [Edison, NJ (1120 Route 1)].   |

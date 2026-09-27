@@ -16,10 +16,10 @@ Loves Park opened and closed with a Balcony Stage. When Loves Park relocated to 
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                              |
 |--------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| [Mr Munch (Cyberamic)]               | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
-| [Jasper T Jowls (Cyberamic)]         | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
-| [Guest Star Helen Henny (Cyberamic)] | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
+| [Mr. Munch (Cyberamic)]               | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
+| [Jasper T. Jowls (Cyberamic)]         | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
+| [Guest Star / Helen Henny (Cyberamic)] | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
 | [Pasqually (Cyberamic)]              | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
 | [Warblettes (Cyberamic)]             | 1981               | Unknown.                                                                 |
 | Waving Flags (Cyberamic)                                     | 1981               | Unknown.                                                                 |

@@ -14,9 +14,9 @@ When they were opened, they only had a [Cyberamics Balcony Stage]. After closure
 |                                                              |                    |         |
 |--------------------------------------------------------------|--------------------|---------|
 | Animatronics                                                 | Manufacturing Date | Status  |
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown |
-| [Mr Munch (Cyberamic)]               | Unknown            | Unknown |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown |

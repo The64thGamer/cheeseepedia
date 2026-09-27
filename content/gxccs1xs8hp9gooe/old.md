@@ -19,9 +19,9 @@ Huntington Beach opened with the Portrait Stage in October 1979. Unfortunately, 
 | Character                                                    | Manufacturing Date | Status    |
 |--------------------------------------------------------------|--------------------|-----------|
 | Chuck E. Cheese (Cyberamic)                                  | Unknown            | In Store. |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | In Store. |
-| [Mr Munch (Cyberamic)]               | Unknown            | In Store. |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | In Store. |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | In Store. |
+| [Mr. Munch (Cyberamic)]               | Unknown            | In Store. |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | In Store. |
 | [Pasqually (Cyberamic)]              | Unknown            | In Store. |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown   |
 | Waving Flags (Cyberamic)                                     | Unknown            | Unknown   |

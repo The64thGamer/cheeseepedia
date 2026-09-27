@@ -12,10 +12,10 @@ Originally when the store opened, they had a 1-Stage, which also had a turntable
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts        |
 |--------------------------------------------------------------|--------------------|--------------------|
-| Chuck E Cheese (Cyberamic)                                   | 1993/1994          | Sent to corporate. |
-| [Guest Star Helen Henny (Cyberamic)] | 1993/1994          | Sent to corporate. |
-| [Mr Munch (Cyberamic)]               | 1993/1994          | Sent to corporate. |
-| [Jasper T Jowls (Cyberamic)]         | 1993/1994          | Sent to corporate. |
+| Chuck E. Cheese (Cyberamic)                                   | 1993/1994          | Sent to corporate. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1993/1994          | Sent to corporate. |
+| [Mr. Munch (Cyberamic)]               | 1993/1994          | Sent to corporate. |
+| [Jasper T. Jowls (Cyberamic)]         | 1993/1994          | Sent to corporate. |
 | [Pasqually (Cyberamic)]              | 1993/1994          | Sent to corporate. |
 | Wink (Animatronic)\|Wink (Cyberamic)                         | 1993/1994          | Unknown/Destroyed  |
 

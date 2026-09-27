@@ -8,9 +8,6 @@ import {
 import { renderQuickTags } from '/viewers/cep-js/js/QuickTags.js';
 import { timeAgo } from '/viewers/cep-js/js/TimeRecency.js';
 
-export function initSearch(app) {
-return (async () => {
-
 const BASE = '/viewers/cep-js/compiled-json/search';
 
 const TABS = [
@@ -35,6 +32,9 @@ const QUICK_TAGS_LIST = [
   "Walt Disney Imagineering","Five Nights at Freddy's","Transcriptions",
   "Unknown Year","User","Meta"
 ];
+
+export function initSearch(app) {
+return (async () => {
 
 let DOCS=[], TAGS={}, ALL_TAG_KEYS=[], VIEWS={};
 const TRI_CACHE={};

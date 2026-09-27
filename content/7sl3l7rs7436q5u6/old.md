@@ -14,10 +14,10 @@ Cheektowaga opened on November 26th, 1982, in the Thruway Mall with [Cyberamics 
 
 | Animatronic                                                  | Whereabouts                             |
 |--------------------------------------------------------------|-----------------------------------------|
-| [Mr Munch (Cyberamic)]               | Sold at auction, current status unknown |
-| [Jasper T Jowls (Cyberamic)]         | Sold at auction, current status unknown |
-| Chuck E Cheese (Cyberamic)                                   | Sold at auction, current status unknown |
-| [Guest Star Helen Henny (Cyberamic)] | Sold at auction, current status unknown |
+| [Mr. Munch (Cyberamic)]               | Sold at auction, current status unknown |
+| [Jasper T. Jowls (Cyberamic)]         | Sold at auction, current status unknown |
+| Chuck E. Cheese (Cyberamic)                                   | Sold at auction, current status unknown |
+| [Guest Star / Helen Henny (Cyberamic)] | Sold at auction, current status unknown |
 | [Pasqually (Cyberamic)]              | Sold at auction, current status unknown |
 | [Warblettes (Cyberamic)]             | Sold at auction, current status unknown |
 | Waving Flags (Cyberamic)                                     | Sold at auction, current status unknown |

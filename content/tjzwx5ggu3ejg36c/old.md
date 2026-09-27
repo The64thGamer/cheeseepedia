@@ -16,10 +16,10 @@ TODO
 | Character                                                    | Manufacturing Date | Status  |
 |--------------------------------------------------------------|--------------------|---------|
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown |
-| [Mr Munch (Cyberamic)]               | Unknown            | Unknown |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown |
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown |
 | Waving Flags (Cyberamic)                                     | Unknown            | Unknown |
 | [Applause Board (Cyberamic)]         | Unknown            | Unknown |

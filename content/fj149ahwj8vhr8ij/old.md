@@ -26,10 +26,10 @@ When Paramus (221 South Dr) opened, the store housed a 1-Stage (One of six insta
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Unknown.    |
-| [Guest Star Helen Henny (Cyberamic)] | 1993               | Unknown.    |
-| [Mr Munch (Cyberamic)]               | 1993               | Unknown.    |
-| [Jasper T Jowls (Cyberamic)]         | 1993               | Unknown.    |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Unknown.    |
+| [Guest Star / Helen Henny (Cyberamic)] | 1993               | Unknown.    |
+| [Mr. Munch (Cyberamic)]               | 1993               | Unknown.    |
+| [Jasper T. Jowls (Cyberamic)]         | 1993               | Unknown.    |
 | [Pasqually (Cyberamic)]              | 1993               | Unknown.    |
 | [Wink]                               | 1993               | Unknown.    |
 

@@ -18,10 +18,10 @@ The store received the [CEC 2000's Remodel Program] around mid-May of 2007. In M
 
 | Animatronic                                                  | Manufacturing date                                        | Status            |
 |--------------------------------------------------------------|-----------------------------------------------------------|-------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Owned by a private collector                              |                   |
-| [Guest Star Helen Henny (Cyberamic)] | Owned by a private collector                              |                   |
-| [Mr Munch (Cyberamic)]               | Various parts owned by Wayfinder\_triko/Private collector |                   |
-| [Jasper T Jowls (Cyberamic)]         | Owned by a private collector                              |                   |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Owned by a private collector                              |                   |
+| [Guest Star / Helen Henny (Cyberamic)] | Owned by a private collector                              |                   |
+| [Mr. Munch (Cyberamic)]               | Various parts owned by Wayfinder\_triko/Private collector |                   |
+| [Jasper T. Jowls (Cyberamic)]         | Owned by a private collector                              |                   |
 | [Pasqually (Cyberamic)]              | Owned by a private collector                              |                   |
 | [Wink (Cyberamic)]                   | 1991                                                      | Unknown/Destroyed |
 

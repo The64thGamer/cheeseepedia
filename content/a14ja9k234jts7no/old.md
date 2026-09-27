@@ -18,10 +18,10 @@ Riverside opened in 1981/1982 with a [Cyberamics Balcony Stage] and was in an un
 
 | Animatronic                                                  | Serial Number | Whereabouts                                                                                                                                                                         |
 |--------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Mr Munch (Cyberamic)]               | Unknown       | Sent to [Sandy, UT (10535 So State St)] and then used for parts at [Orem, UT (40 E Center St)]. Rest of bot unknown.                |
-| [Jasper T Jowls (Cyberamic)]         | Unknown       | Sent to [Sandy, UT (10535 So State St)] and then used for parts at [Orem, UT (40 E Center St)]. Rest of bot unknown.                |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown       | Sent to [Sandy, UT (10535 So State St)] and then used for parts at [Orem, UT (40 E Center St)]. Rest of bot unknown.                |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Sent to [Sandy, UT (10535 So State St)] and then used for parts at [Orem, UT (40 E Center St)]. Rest of bot unknown.                |
+| [Mr. Munch (Cyberamic)]               | Unknown       | Sent to [Sandy, UT (10535 So State St)] and then used for parts at [Orem, UT (40 E Center St)]. Rest of bot unknown.                |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Sent to [Sandy, UT (10535 So State St)] and then used for parts at [Orem, UT (40 E Center St)]. Rest of bot unknown.                |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown       | Sent to [Sandy, UT (10535 So State St)] and then used for parts at [Orem, UT (40 E Center St)]. Rest of bot unknown.                |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Sent to [Sandy, UT (10535 So State St)] and then used for parts at [Orem, UT (40 E Center St)]. Rest of bot unknown.                |
 | [Pasqually (Cyberamic)]              | Unknown       | Sent to [Sandy, UT (10535 So State St)] and then used for parts at [Orem, UT (40 E Center St)]. Rest of bot unknown.                |
 | [Warblettes (Cyberamic)]             | Unknown       | Unknown                                                                                                                                                                             |
 | Waving Flags (Cyberamic)                                     | Unknown       | Unknown                                                                                                                                                                             |

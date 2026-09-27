@@ -18,10 +18,10 @@ Marc's Funtime would end up closing before 2003, with the original plaza being d
 
 | Animatronic                                                  | Manufactuer Date | Status                          |
 |--------------------------------------------------------------|------------------|---------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981             | Retrofitted, 1986               |
-| [Guest Star Helen Henny (Cyberamic)] | 1981             | Retrofitted, 1986               |
-| [Mr Munch (Cyberamic)]               | 1981             | Retrofitted, 1986               |
-| [Jasper T Jowls (Cyberamic)]         | 1981             | Retrofitted, 1986               |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981             | Retrofitted, 1986               |
+| [Guest Star / Helen Henny (Cyberamic)] | 1981             | Retrofitted, 1986               |
+| [Mr. Munch (Cyberamic)]               | 1981             | Retrofitted, 1986               |
+| [Jasper T. Jowls (Cyberamic)]         | 1981             | Retrofitted, 1986               |
 | [Pasqually (Cyberamic)]              | 1981             | Retrofitted, 1986               |
 | [Wink (Cyberamic)]                   | Unknown          | Kept on Display, Destroyed 2016 |
 | Clapper Board                                                | 1981             | Removed 2000's, Unknown         |

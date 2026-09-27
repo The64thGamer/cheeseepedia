@@ -12,10 +12,10 @@ Sometime between 1989 and 1990, the location installed the short-lived [Chuck E'
 
 | Character                                                    | Manufacturing Date | Status                                                |
 |--------------------------------------------------------------|--------------------|-------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | Destroyed. Feet and Ear owned by Michael Armenta.     |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Destroyed.                                            |
-| [Mr Munch (Cyberamic)]               | Unknown            | Destroyed. Remains owned by Private Collector.        |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Destroyed. Remains owned by Private Collector.        |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Destroyed. Feet and Ear owned by Michael Armenta.     |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Destroyed.                                            |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Destroyed. Remains owned by Private Collector.        |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Destroyed. Remains owned by Private Collector.        |
 | [Pasqually (Cyberamic)]              | Unknown            | Destroyed. Brim of Chef Hat owned by Michael Armenta. |
 | [Wink (Cyberamic)]                   | N/A                | Destroyed. Remains owned by Private Collector.        |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown / Destroyed.                                  |

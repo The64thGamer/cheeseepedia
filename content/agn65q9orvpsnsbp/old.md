@@ -15,10 +15,10 @@ Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a [2-Stage
 
 | Animatronic                                                  | Manufacturing Date | Serial Number | Whereabouts                   |
 |--------------------------------------------------------------|--------------------|---------------|-------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | 1992-1993          | Unknown       | Destroyed                     |
-| [Guest Star Helen Henny (Cyberamic)] | 1992-1993          | Unknown       | Destroyed                     |
-| [Mr Munch (Cyberamic)]               | 1992-1993          | Unknown       | Destroyed                     |
-| [Jasper T Jowls (Cyberamic)]         | 1992-1993          | Unknown       | Destroyed                     |
+| Chuck E. Cheese (Cyberamic)                                   | 1992-1993          | Unknown       | Destroyed                     |
+| [Guest Star / Helen Henny (Cyberamic)] | 1992-1993          | Unknown       | Destroyed                     |
+| [Mr. Munch (Cyberamic)]               | 1992-1993          | Unknown       | Destroyed                     |
+| [Jasper T. Jowls (Cyberamic)]         | 1992-1993          | Unknown       | Destroyed                     |
 | [Pasqually (Cyberamic)]              | 1992-1993          | Unknown       | Destroyed                     |
 | [Wink (Cyberamic)]                   | 1992-1993          | N/A           | Owned by a Private Collector. |
 

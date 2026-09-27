@@ -22,9 +22,9 @@ Roseville opened on April 22nd, 1991, in the Gratiot Center with the Road Stage 
 
 | Animatronic                                                  | Manufacturing date | Status                                                                           |
 |--------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1980s              | Destroyed.                                                                       |
-| [Guest Star Helen Henny (Cyberamic)] | 1980s              | Destroyed. Mask sent to [Toledo, OH (5455 Airport Hwy)]. |
-| [Mr Munch (Cyberamic)]               | 1980s              | Destroyed.                                                                       |
-| [Jasper T Jowls (Cyberamic)]         | 1980s              | Destroyed.                                                                       |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1980s              | Destroyed.                                                                       |
+| [Guest Star / Helen Henny (Cyberamic)] | 1980s              | Destroyed. Mask sent to [Toledo, OH (5455 Airport Hwy)]. |
+| [Mr. Munch (Cyberamic)]               | 1980s              | Destroyed.                                                                       |
+| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Destroyed.                                                                       |
 | [Pasqually (Cyberamic)]              | 1980s              | Destroyed.                                                                       |
 | [Wink]                               | 1991               | Destroyed.                                                                       |

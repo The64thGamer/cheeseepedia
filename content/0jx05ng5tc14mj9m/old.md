@@ -32,10 +32,10 @@ Originally, Virginia Beach featured a Rock-Afire Explosion, as all other ShowBiz
 | [Moon (Animatronic)]                              | ?-8? 11-?? | Unknown.                                                                                           |
 | [Antioch (Animatronic)]                           | N/A        | Unknown.                                                                                           |
 | [Wink]                                            | N/A        | Unknown.                                                                                           |
-| Chuck E Cheese (Cyberamic)                                                | Unknown    | Destroyed. Possibly from the [Johnson City, NY (365 Harry L Dr)] location. |
-| [Guest Star Helen Henny (Cyberamic)]              | Unknown    | Destroyed. Possibly from the [Johnson City, NY (365 Harry L Dr)] location. |
-| [Mr Munch (Cyberamic)]                            | Unknown    | Destroyed. Possibly from the [Johnson City, NY (365 Harry L Dr)] location. |
-| [Jasper T Jowls (Cyberamic)]                      | Unknown    | Destroyed. Possibly from the [Johnson City, NY (365 Harry L Dr)] location. |
+| Chuck E. Cheese (Cyberamic)                                                | Unknown    | Destroyed. Possibly from the [Johnson City, NY (365 Harry L Dr)] location. |
+| [Guest Star / Helen Henny (Cyberamic)]              | Unknown    | Destroyed. Possibly from the [Johnson City, NY (365 Harry L Dr)] location. |
+| [Mr. Munch (Cyberamic)]                            | Unknown    | Destroyed. Possibly from the [Johnson City, NY (365 Harry L Dr)] location. |
+| [Jasper T. Jowls (Cyberamic)]                      | Unknown    | Destroyed. Possibly from the [Johnson City, NY (365 Harry L Dr)] location. |
 | [Pasqually (Cyberamic)]                           | Unknown    | Destroyed. Possibly from the [Johnson City, NY (365 Harry L Dr)] location. |
 | [Wink (Cyberamic)]                                | N/A        | Destroyed. Possibly from the [Johnson City, NY (365 Harry L Dr)] location. |
 

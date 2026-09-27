@@ -10,10 +10,10 @@ According to a Youtube comment, Rancho Cucamonga was Robbed before opening its d
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown.           | Destroyed.  |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown.           | Destroyed.  |
-| [Mr Munch (Cyberamic)]               | Unknown.           | Destroyed.  |
-| [Jasper T Jowls (Cyberamic)]         | Unknown.           | Destroyed.  |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown.           | Destroyed.  |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown.           | Destroyed.  |
+| [Mr. Munch (Cyberamic)]               | Unknown.           | Destroyed.  |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown.           | Destroyed.  |
 | [Pasqually (Cyberamic)]              | Unknown.           | Destroyed.  |
 | [Singing Flowers (Cyberamic)]        | Unknown.           | Destroyed.  |
 | [Wink (Cyberamic)]                   | Unknown.           | Destroyed.  |

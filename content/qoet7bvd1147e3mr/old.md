@@ -14,10 +14,10 @@ Charlotte opened with either Harmony Howlette or Madame Oink as their guest star
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                    |
 |--------------------------------------------------------------|--------------------|------------------------------------------------|
-| [Mr Munch (Cyberamic)]               | 1981/1982          | Sold at auction, current status unknown        |
-| [Jasper T Jowls (Cyberamic)]         | 1981/1982          | Sold at auction, Owned by a private collector. |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981/1982          | Sold at auction, current status unknown        |
-| [Guest Star Helen Henny (Cyberamic)] | 1981/1982          | Sold at auction, current status unknown        |
+| [Mr. Munch (Cyberamic)]               | 1981/1982          | Sold at auction, current status unknown        |
+| [Jasper T. Jowls (Cyberamic)]         | 1981/1982          | Sold at auction, Owned by a private collector. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981/1982          | Sold at auction, current status unknown        |
+| [Guest Star / Helen Henny (Cyberamic)] | 1981/1982          | Sold at auction, current status unknown        |
 | [Pasqually (Cyberamic)]              | 1981/1982          | Sold at auction, current status unknown        |
 | [Warblettes (Cyberamic)]             | 1981/1982          | Sold at auction, current status unknown        |
 | [Flag Wavers (Cyberamic)]            | 1981/1982          | Sold at auction, current status unknown        |

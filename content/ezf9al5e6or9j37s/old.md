@@ -74,10 +74,10 @@ Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. Up a
 
 | Animatronic                                                  | Manufacturing Date | Status     |
 |--------------------------------------------------------------|--------------------|------------|
-| [Chuck E Cheese (Cyberamic)]         | N/A                | Destroyed. |
-| [Guest Star Helen Henny (Cyberamic)] | N/A                | Destroyed. |
-| [Mr Munch (Cyberamic)]               | N/A                | Destroyed. |
-| [Jasper T Jowls (Cyberamic)]         | N/A                | Destroyed. |
+| [Chuck E. Cheese (Cyberamic)]         | N/A                | Destroyed. |
+| [Guest Star / Helen Henny (Cyberamic)] | N/A                | Destroyed. |
+| [Mr. Munch (Cyberamic)]               | N/A                | Destroyed. |
+| [Jasper T. Jowls (Cyberamic)]         | N/A                | Destroyed. |
 | [Pasqually (Cyberamic)]              | N/A                | Destroyed. |
 | [Wink (Cyberamic)]                   | N/A                | Destroyed. |
 

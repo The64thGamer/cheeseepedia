@@ -17,10 +17,10 @@ The store would have most likely opened with Helen Henny as a guest star, and a 
 
 | Character                                                    | Status              |
 |--------------------------------------------------------------|---------------------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown / Destroyed |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown / Destroyed |
-| [Mr Munch (Cyberamic)]               | Unknown / Destroyed |
-| [Jasper T Jowls (Cyberamic)]         | Unknown / Destroyed |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown / Destroyed |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown / Destroyed |
+| [Mr. Munch (Cyberamic)]               | Unknown / Destroyed |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown / Destroyed |
 | [Pasqually (Cyberamic)]              | Unknown / Destroyed |
 | [Warblettes (Cyberamic)]             | Unknown / Destroyed |
 | Waving Flags (Cyberamic)                                     | Unknown / Destroyed |

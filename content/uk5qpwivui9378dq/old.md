@@ -18,10 +18,10 @@ When Canton first opened, the location opened with [Chuck E's House] which was t
 
 | Animatronic                                                  | Manufacturing date | Status   |
 |--------------------------------------------------------------|--------------------|----------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1980s              | Unknown. |
-| [Guest Star Helen Henny (Cyberamic)] | 1980s              | Unknown. |
-| [Mr Munch (Cyberamic)]               | 1980s              | Unknown. |
-| [Jasper T Jowls (Cyberamic)]         | 1980s              | Unknown. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1980s              | Unknown. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1980s              | Unknown. |
+| [Mr. Munch (Cyberamic)]               | 1980s              | Unknown. |
+| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Unknown. |
 | [Pasqually (Cyberamic)]              | 1980s              | Unknown. |
 | [Singing Flowers (Cyberamic)]        | 1988               | Unknown. |
 | [Wink (Cyberamic)]                   | 1993/1994          | Unknown. |

@@ -14,9 +14,9 @@ Orange opened with a [Cyberamics Balcony Stage] which remained until closure. Th
 |                                                              |                    |                                              |
 |--------------------------------------------------------------|--------------------|----------------------------------------------|
 | Animatronics                                                 | Manufacturing Date | Status                                       |
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | Sold at auction, current whereabouts unknown |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Sold at auction, current whereabouts unknown |
-| [Mr Munch (Cyberamic)]               | Unknown            | Sold at auction, current whereabouts unknown |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Sold at auction, current whereabouts unknown |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Sold at auction, current whereabouts unknown |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Sold at auction, current whereabouts unknown |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Sold at auction, current whereabouts unknown |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Sold at auction, current whereabouts unknown |
 | [Pasqually (Cyberamic)]              | Unknown            | Sold at auction, current whereabouts unknown |
 | [Warblettes (Cyberamic)]             | Unknown            | Sold at auction, current whereabouts unknown |

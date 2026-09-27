@@ -43,10 +43,10 @@ Identified 2001 Machines.
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                         |
 |--------------------------------------------------------------|--------------------|-----------------------------------------------------|
-| [Mr Munch (Cyberamic)]               | 1980               | Unknown                                             |
-| [Jasper T Jowls (Cyberamic)]         | 1980               | Unknown                                             |
-| Chuck E Cheese (Cyberamic)                                   | 1980               | Unknown                                             |
-| [Guest Star Helen Henny (Cyberamic)] | 1980               | Unknown                                             |
+| [Mr. Munch (Cyberamic)]               | 1980               | Unknown                                             |
+| [Jasper T. Jowls (Cyberamic)]         | 1980               | Unknown                                             |
+| Chuck E. Cheese (Cyberamic)                                   | 1980               | Unknown                                             |
+| [Guest Star / Helen Henny (Cyberamic)] | 1980               | Unknown                                             |
 | [Pasqually (Cyberamic)]              | 1980               | Unknown                                             |
 | [Warblettes (Cyberamic)]             | 1980               | Unknown                                             |
 | [Applause Board (Cyberamic)]         | 1980               | Unknown                                             |

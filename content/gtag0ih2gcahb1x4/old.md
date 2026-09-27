@@ -41,9 +41,9 @@ On June 10th, 2024, the store would begin its [CEC 2.0 Remodel Program]. The sto
 
 | Animatronic                                                  | Serial   | Whereabouts |
 |--------------------------------------------------------------|----------|-------------|
-| Chuck E Cheese (Cyberamic)                                   | Unknown. | In store.   |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown. | In store.   |
-| [Mr Munch (Cyberamic)]               | 1361\.   | In store.   |
-| [Jasper T Jowls (Cyberamic)]         | 1422\.   | In store.   |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown. | In store.   |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown. | In store.   |
+| [Mr. Munch (Cyberamic)]               | 1361\.   | In store.   |
+| [Jasper T. Jowls (Cyberamic)]         | 1422\.   | In store.   |
 | [Pasqually (Cyberamic)]              | Unknown. | In store.   |
 | [Wink (Cyberamic)]                   | Unknown. | In store.   |

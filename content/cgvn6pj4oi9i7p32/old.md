@@ -20,10 +20,10 @@ The Bowling Green PTT opened with the [Cyberamics Balcony Stage], as every PTT h
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                  |
 |--------------------------------------------------------------|--------------------|----------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown (Destroyed or In Private Collection) |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown (Destroyed or In Private Collection) |
-| [Mr Munch (Cyberamic)]               | Unknown            | Unknown (Destroyed or In Private Collection) |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown (Destroyed or In Private Collection) |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown (Destroyed or In Private Collection) |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown (Destroyed or In Private Collection) |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown (Destroyed or In Private Collection) |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown (Destroyed or In Private Collection) |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown (Destroyed or In Private Collection) |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown (Destroyed or In Private Collection) |
 | [The King King Kat (Lounge)]         | Unknown            | Unknown (Destroyed or In Private Collection) |

@@ -19,10 +19,10 @@ Originally, when this store opened, they had a Balcony Stage. Sometime between 1
 
 | Character                                                    | Manufacturing Date | Status                                                                                                                   |
 |--------------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | 1981               | Privately owned. Entire head sent to Milwaukee. Mask from [Melrose Park, IL (1315 W North Ave)]. |
-| [Guest Star Helen Henny (Cyberamic)] | 1981               | Privately owned. Mask from [Melrose Park, IL (1315 W North Ave)].                                |
-| [Mr Munch (Cyberamic)]               | July 1981          | Privately owned. Valves sent to Milwaukee.                                                                               |
-| [Jasper T Jowls (Cyberamic)]         | 1981               | Privately owned. Valves sent to Milwaukee.                                                                               |
+| Chuck E. Cheese (Cyberamic)                                   | 1981               | Privately owned. Entire head sent to Milwaukee. Mask from [Melrose Park, IL (1315 W North Ave)]. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1981               | Privately owned. Mask from [Melrose Park, IL (1315 W North Ave)].                                |
+| [Mr. Munch (Cyberamic)]               | July 1981          | Privately owned. Valves sent to Milwaukee.                                                                               |
+| [Jasper T. Jowls (Cyberamic)]         | 1981               | Privately owned. Valves sent to Milwaukee.                                                                               |
 | [Pasqually (Cyberamic)]              | 1981               | Privately owned. Mask from [Streamwood, IL (990 S Barrington Rd)].                               |
 | [Warblettes (Cyberamic)]             | 1981               | Unknown / Destroyed.                                                                                                     |
 | [Singing Flowers (Cyberamic)]        | Unknown            | Unknown / Destroyed.                                                                                                     |

@@ -17,10 +17,10 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 
 | Animatronic                                                  | Manufacturing Date | Status                                                                                                                                                    |
 |--------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A                | Destroyed, Owned by a private collector                                                                                                                   |
-| [Guest Star Helen Henny (Cyberamic)] | N/A                | Sent to [Sun Valley, CA (8375 Laurel Canyon Blvd)], now at [Northridge, CA (8425 Reseda Blvd)] for parts. |
-| [Mr Munch (Cyberamic)]               | N/A                | Destroyed, Owned by a private collector                                                                                                                   |
-| [Jasper T Jowls (Cyberamic)]         | N/A                | Destroyed, Owned by a private collector                                                                                                                   |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A                | Destroyed, Owned by a private collector                                                                                                                   |
+| [Guest Star / Helen Henny (Cyberamic)] | N/A                | Sent to [Sun Valley, CA (8375 Laurel Canyon Blvd)], now at [Northridge, CA (8425 Reseda Blvd)] for parts. |
+| [Mr. Munch (Cyberamic)]               | N/A                | Destroyed, Owned by a private collector                                                                                                                   |
+| [Jasper T. Jowls (Cyberamic)]         | N/A                | Destroyed, Owned by a private collector                                                                                                                   |
 | [Pasqually (Cyberamic)]              | N/A                | Destroyed, Owned by a private collector                                                                                                                   |
 | [Wink (Cyberamic)]                   | 1991               | Destroyed/Unknown                                                                                                                                         |
 

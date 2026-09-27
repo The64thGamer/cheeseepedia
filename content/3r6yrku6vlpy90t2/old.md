@@ -16,10 +16,10 @@ When Corpus Christi opened, it housed a Balcony Stage like the other Pizza Time 
 
 | Character                                                    | Manufacturing Date | Status                                                                   |
 |--------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | Destroyed                                                                |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Destroyed                                                                |
-| [Mr Munch (Cyberamic)]               | Unknown            | Destroyed                                                                |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Destroyed                                                                |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Destroyed                                                                |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Destroyed                                                                |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Destroyed                                                                |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Destroyed                                                                |
 | [Pasqually (Cyberamic)]              | Unknown            | Destroyed                                                                |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown / Destroyed                                                      |
 | [Singing Flowers (Cyberamic)]        | Unknown            | Unknown / Destroyed                                                      |

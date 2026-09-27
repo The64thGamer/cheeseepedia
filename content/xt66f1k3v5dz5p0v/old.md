@@ -17,10 +17,10 @@ On May 27th, 2025, it was announced that the last Road Stage at [Mississauga, On
 
 | Animatronic                                                  | Manufacturing Date | Status    |
 |--------------------------------------------------------------|--------------------|-----------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | In store. |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | In store. |
-| [Mr Munch (Cyberamic)]               | Unknown            | In store. |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | In store. |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | In store. |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | In store. |
+| [Mr. Munch (Cyberamic)]               | Unknown            | In store. |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | In store. |
 | [Pasqually (Cyberamic)]              | Unknown            | In store. |
 | [Wink (Cyberamic)]                   | Unknown            | In store. |
 

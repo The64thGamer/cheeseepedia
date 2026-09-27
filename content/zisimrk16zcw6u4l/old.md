@@ -14,10 +14,10 @@ San Diego (El Cajon Blvd) would open in March 1981 (Date Unknown) as the first C
 
 | Animatronic                                                  | Whereabouts |
 |--------------------------------------------------------------|-------------|
-| [Mr Munch (Cyberamic)]               | Unknown     |
-| [Jasper T Jowls (Cyberamic)]         | Unknown     |
-| Chuck E Cheese (Cyberamic)                                   | Unknown     |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown     |
+| [Mr. Munch (Cyberamic)]               | Unknown     |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown     |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown     |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown     |
 | [Warblettes (Cyberamic)]             | Unknown     |
 | Waving Flags (Cyberamic)                                     | Unknown     |

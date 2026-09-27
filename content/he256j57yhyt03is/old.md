@@ -17,10 +17,10 @@ Attleboro opened with a [1-Stage]. Around 2003, A sprinkler room, up &amp; down 
 
 | Animatronic                                                  | Manufacturing date | Status                                                      |
 |--------------------------------------------------------------|--------------------|-------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Unknown/Destroyed.                                          |
-| [Guest Star Helen Henny (Cyberamic)] | 1993               | Destroyed. Mask replaced by 2009.                           |
-| [Mr Munch (Cyberamic)]               | 1993               | Destroyed.                                                  |
-| [Jasper T Jowls (Cyberamic)]         | 1993               | Destroyed. Mask replaced with Newington NH's in April 2018. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Unknown/Destroyed.                                          |
+| [Guest Star / Helen Henny (Cyberamic)] | 1993               | Destroyed. Mask replaced by 2009.                           |
+| [Mr. Munch (Cyberamic)]               | 1993               | Destroyed.                                                  |
+| [Jasper T. Jowls (Cyberamic)]         | 1993               | Destroyed. Mask replaced with Newington NH's in April 2018. |
 | [Pasqually (Cyberamic)]              | 1993               | Destroyed. Mask replaced by 2009.                           |
 | [Wink]                               | 1993               | Destroyed.                                                  |
 

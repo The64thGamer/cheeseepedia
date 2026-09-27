@@ -15,10 +15,10 @@ Upon its opening, the location along with Hicksville was featured in a CEC Speci
 
 | Animatronic                                                  | Manufacturing date | Status                                         |
 |--------------------------------------------------------------|--------------------|------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Destroyed/Remains owned by a Private Collector |
-| [Guest Star Helen Henny (Cyberamic)] | 1993               | Destroyed/Remains owned by Private Collector   |
-| [Mr Munch (Cyberamic)]               | 1993               | Destroyed/Remains owned by Private Collector   |
-| [Jasper T Jowls (Cyberamic)]         | 1993               | Destroyed                                      |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1993               | Destroyed/Remains owned by a Private Collector |
+| [Guest Star / Helen Henny (Cyberamic)] | 1993               | Destroyed/Remains owned by Private Collector   |
+| [Mr. Munch (Cyberamic)]               | 1993               | Destroyed/Remains owned by Private Collector   |
+| [Jasper T. Jowls (Cyberamic)]         | 1993               | Destroyed                                      |
 | [Pasqually (Cyberamic)]              | 1993               | Destroyed/Remains owned by Private Collector   |
 | [Wink (Cyberamic)]                   | 1993               | Destroyed/Remains owned by Private Collector   |
 

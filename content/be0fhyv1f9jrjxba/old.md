@@ -16,10 +16,10 @@ Middletown opened as part of the Middletown Marketplace strip center in July 199
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Destroyed   |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Destroyed   |
-| [Mr Munch (Cyberamic)]               | Unknown            | Destroyed   |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Destroyed   |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Destroyed   |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Destroyed   |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Destroyed   |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Destroyed   |
 | [Pasqually (Cyberamic)]              | Unknown            | Destroyed   |
 
 ## Arcade Machines

@@ -14,10 +14,10 @@ Waterbury opened with a [Cyberamics Balcony Stage] which stayed until closure. T
 |                                                              |                    |         |
 |--------------------------------------------------------------|--------------------|---------|
 | Animatronics                                                 | Manufacturing Date | Status  |
-| Chuck E Cheese (Cyberamic)                                   | Unknown            | Unknown |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown |
-| [Mr Munch (Cyberamic)]               | Unknown            | Unknown |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown            | Unknown |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown |
 

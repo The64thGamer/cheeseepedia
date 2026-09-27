@@ -20,10 +20,10 @@ TODO: Add a list of every confirmed arcade &amp; ride used at the store.
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts | Notes                   |
 |--------------------------------------------------------------|--------------------|-------------|-------------------------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown     |                         |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown     | Madame Oink Cosmetics.  |
-| [Mr Munch (Cyberamic)]               | Unknown            | Unknown     |                         |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown     |                         |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown     |                         |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown     | Madame Oink Cosmetics.  |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown     |                         |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown     |                         |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown     | Had Portrait Mechanics. |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown     |                         |
 | [Dolli Dimples (Cabaret)]            | Unknown            | Unknown     |                         |

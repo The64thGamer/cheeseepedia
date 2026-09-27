@@ -30,10 +30,10 @@ Originally when the store opened, they had a [Rock-afire Explosion], which was t
 | [Moon (Animatronic)]                              | 10-82 11-4 | Destroyed.                                                                        |
 | [Antioch (Animatronic)]                           | N/A        | Destroyed.                                                                        |
 | [Wink]                                            | N/A        | Destroyed.                                                                        |
-| Chuck E Cheese (Cyberamic)                                                | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
-| [Guest Star Helen Henny (Cyberamic)]              | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
-| [Mr Munch (Cyberamic)]                            | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
-| [Jasper T Jowls (Cyberamic)]                      | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
+| Chuck E. Cheese (Cyberamic)                                                | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
+| [Guest Star / Helen Henny (Cyberamic)]              | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
+| [Mr. Munch (Cyberamic)]                            | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
+| [Jasper T. Jowls (Cyberamic)]                      | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
 | [Pasqually (Cyberamic)]                           | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
 
 ## Videos

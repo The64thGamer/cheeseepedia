@@ -14,10 +14,10 @@ Burlington opened in an unnamed plaza on August 4th, 1992; two weeks before [Wor
 
 | Animatronics                                                 | Manufacturing Date | Status                                                                            |
 |--------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1991-1992          | Sent to [Springfield, MA (1716 Boston Rd)], now Destroyed |
-| [Guest Star Helen Henny (Cyberamic)] | 1991-1992          | Sent to [Springfield, MA (1716 Boston Rd)], now Destroyed |
-| [Mr Munch (Cyberamic)]               | 1991-1992          | Sent to [Springfield, MA (1716 Boston Rd)], now Destroyed |
-| [Jasper T Jowls (Cyberamic)]         | 1991-1992          | Sent to [Springfield, MA (1716 Boston Rd)], now Destroyed |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1991-1992          | Sent to [Springfield, MA (1716 Boston Rd)], now Destroyed |
+| [Guest Star / Helen Henny (Cyberamic)] | 1991-1992          | Sent to [Springfield, MA (1716 Boston Rd)], now Destroyed |
+| [Mr. Munch (Cyberamic)]               | 1991-1992          | Sent to [Springfield, MA (1716 Boston Rd)], now Destroyed |
+| [Jasper T. Jowls (Cyberamic)]         | 1991-1992          | Sent to [Springfield, MA (1716 Boston Rd)], now Destroyed |
 | [Pasqually (Cyberamic)]              | 1991-1992          | Sent to [Springfield, MA (1716 Boston Rd)], now Destroyed |
 | [Wink (Cyberamic)]                   | 1991-1992          | Destroyed                                                                         |
 

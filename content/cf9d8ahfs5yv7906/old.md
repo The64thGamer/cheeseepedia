@@ -18,9 +18,9 @@ Originally when the store opened, they featured a Balcony Stage. Edmonton's Balc
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown     |
-| [Mr Munch (Cyberamic)]               | Unknown            | Unknown     |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown     |
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown     |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown     |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown     |
 | Guest Star/ Helen Henny (Cyberamic)\|Helen Henny (Cyberamic) | Unknown            | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown     |
 

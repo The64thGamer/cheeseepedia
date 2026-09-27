@@ -8,9 +8,9 @@ Tempe opened in 1981 and was a regular PTT. It had Harmony Howlette, Madame Oink
 
 | Animatronics                                                   | Manufacturing Date | Whereabouts     |
 |----------------------------------------------------------------|--------------------|-----------------|
-| [Chuck E Cheese (Cyberamic)]           | N/A                | Sent to Mexico. |
-| [Guest Star Helen Henny (Cyberamic)]   | N/A                | Sent to Mexico. |
-| [Mr Munch (Cyberamic)]                 | N/A                | Sent to Mexico. |
-| [Jasper T Jowls (Cyberamic)]           | N/A                | Sent to Mexico. |
+| [Chuck E. Cheese (Cyberamic)]           | N/A                | Sent to Mexico. |
+| [Guest Star / Helen Henny (Cyberamic)]   | N/A                | Sent to Mexico. |
+| [Mr. Munch (Cyberamic)]                 | N/A                | Sent to Mexico. |
+| [Jasper T. Jowls (Cyberamic)]           | N/A                | Sent to Mexico. |
 | [Pasqually (Cyberamic)]                | N/A                | Sent to Mexico. |
 | [The Beagles / Beach Bowzers (Lounge)] | N/A                | Unkown.         |

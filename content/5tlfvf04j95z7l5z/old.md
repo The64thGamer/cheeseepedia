@@ -17,10 +17,10 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 
 | Animatronic                                                  | Manufacturing Date | Serial Number | Status                                                |
 |--------------------------------------------------------------|--------------------|---------------|-------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | 1992               | Unknown       | Destroyed.https://www.youtube.com/watch?v=8yVK9Q7cADw |
-| [Guest Star Helen Henny (Cyberamic)] | 1992               | 1032          | Destroyed.(0)                                         |
-| [Mr Munch (Cyberamic)]               | 1992               | 1051          | Destroyed.(0)                                         |
-| [Jasper T Jowls (Cyberamic)]         | 1992               | 1079          | Owned by a private collector.                         |
+| [Chuck E. Cheese (Cyberamic)]         | 1992               | Unknown       | Destroyed.https://www.youtube.com/watch?v=8yVK9Q7cADw |
+| [Guest Star / Helen Henny (Cyberamic)] | 1992               | 1032          | Destroyed.(0)                                         |
+| [Mr. Munch (Cyberamic)]               | 1992               | 1051          | Destroyed.(0)                                         |
+| [Jasper T. Jowls (Cyberamic)]         | 1992               | 1079          | Owned by a private collector.                         |
 | [Pasqually (Cyberamic)]              | 1992               | Unknown       | Destroyed.(0)                                         |
 | [Wink (Cyberamic)]                   | 1992               | N/A           | Destroyed.(0)                                         |
 

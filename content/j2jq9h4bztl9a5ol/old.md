@@ -16,10 +16,10 @@ Skokie opened on August 20, 1991, with one of two Road Stages in Illinois, the o
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                        |
 |--------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1980s              | Owned by a Private Collector. Snout and jaw sent to Chicago Fullerton, later sent to Tinley Park.  |
-| [Guest Star Helen Henny (Cyberamic)] | 1980s              | Owned by a Private Collector. Mask, jaw, and back head sent to Chicago Fullerton, later Milwaukee. |
-| [Mr Munch (Cyberamic)]               | 1980s              | Owned by a Private Collector. Jaw and hands sent to Chicago Fullerton, destroyed.                  |
-| [Jasper T Jowls (Cyberamic)]         | 1980s              | Owned by a Private Collector. Mask, hat, and shirt sent to Chicago Fullerton, later Milwaukee.     |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1980s              | Owned by a Private Collector. Snout and jaw sent to Chicago Fullerton, later sent to Tinley Park.  |
+| [Guest Star / Helen Henny (Cyberamic)] | 1980s              | Owned by a Private Collector. Mask, jaw, and back head sent to Chicago Fullerton, later Milwaukee. |
+| [Mr. Munch (Cyberamic)]               | 1980s              | Owned by a Private Collector. Jaw and hands sent to Chicago Fullerton, destroyed.                  |
+| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Owned by a Private Collector. Mask, hat, and shirt sent to Chicago Fullerton, later Milwaukee.     |
 | [Pasqually (Cyberamic)]              | 1980s              | Owned by a Private Collector. Hands shipped to Chicago Fullerton, destroyed.                       |
 | [Wink (Cyberamic)]                   | 1991               | Owned by a Private Collector.                                                                      |
 

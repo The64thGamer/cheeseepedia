@@ -21,9 +21,9 @@ This store had the first final [Chuck E's House] and the second overall and woul
 
 | Animatronic                                             | Manufacturing Date | Whereabouts |
 |---------------------------------------------------------|--------------------|-------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic) | 1987               | Unknown     |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic) | 1987               | Unknown     |
 | Helen Henny (Cyberamic)\|Helen Henny (Cyberamic)        | 1987               | Unknown     |
-| [Mr Munch (Cyberamic)]          | 1987               | Unknown     |
-| [Jasper T Jowls (Cyberamic)]    | 1987               | Unknown     |
+| [Mr. Munch (Cyberamic)]          | 1987               | Unknown     |
+| [Jasper T. Jowls (Cyberamic)]    | 1987               | Unknown     |
 | [Pasqually (Cyberamic)]         | 1987               | Unknown     |
 | [Singing Flowers (Cyberamic)]   | 1987               | Unknown     |

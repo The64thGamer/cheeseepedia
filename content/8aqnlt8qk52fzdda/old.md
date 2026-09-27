@@ -11,8 +11,8 @@
 
 | Character                                                    | Manufacturer Date | Status     |
 |--------------------------------------------------------------|-------------------|------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981/1982         | Destroyed. |
-| [Guest Star Helen Henny (Cyberamic)] | 1981/1982         | Destroyed. |
-| [Mr Munch (Cyberamic)]               | 1981/1982         | Destroyed. |
-| [Jasper T Jowls (Cyberamic)]         | 1981/1982         | Destroyed. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981/1982         | Destroyed. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1981/1982         | Destroyed. |
+| [Mr. Munch (Cyberamic)]               | 1981/1982         | Destroyed. |
+| [Jasper T. Jowls (Cyberamic)]         | 1981/1982         | Destroyed. |
 | [Pasqually (Cyberamic)]              | 1981/1982         | Destroyed. |

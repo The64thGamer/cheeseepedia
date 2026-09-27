@@ -18,10 +18,10 @@ The store would open in Summer of 1980, being franchised by Roy Taylor and Scott
 
 | Animatronic                                                  | Whereabouts |
 |--------------------------------------------------------------|-------------|
-| [Mr Munch (Cyberamic)]               | Unknown     |
-| [Jasper T Jowls (Cyberamic)]         | Unknown     |
-| Chuck E Cheese (Cyberamic)                                   | Unknown     |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown     |
+| [Mr. Munch (Cyberamic)]               | Unknown     |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown     |
+| Chuck E. Cheese (Cyberamic)                                   | Unknown     |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown     |
 | [Warblettes (Cyberamic)]             | Unknown     |
 | Waving Flags (Cyberamic)                                     | Unknown     |

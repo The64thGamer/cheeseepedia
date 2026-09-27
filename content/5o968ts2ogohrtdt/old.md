@@ -24,9 +24,9 @@ Norwalk opened on October 29th, 1991, as a corporate-owned location in the Fires
 
 | Animatronic                                                  | Manufacturing Date | Status                                              |
 |--------------------------------------------------------------|--------------------|-----------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | N/A                | Unknown/Destroyed                                   |
-| [Guest Star Helen Henny (Cyberamic)] | N/A                | Unknown/Destroyed                                   |
-| [Mr Munch (Cyberamic)]               | N/A                | Unknown/Destroyed                                   |
-| [Jasper T Jowls (Cyberamic)]         | N/A                | Destroyed, mask remains owned by CTTRobotics.(1)    |
+| [Chuck E. Cheese (Cyberamic)]         | N/A                | Unknown/Destroyed                                   |
+| [Guest Star / Helen Henny (Cyberamic)] | N/A                | Unknown/Destroyed                                   |
+| [Mr. Munch (Cyberamic)]               | N/A                | Unknown/Destroyed                                   |
+| [Jasper T. Jowls (Cyberamic)]         | N/A                | Destroyed, mask remains owned by CTTRobotics.(1)    |
 | [Pasqually (Cyberamic)]              | N/A                | Unknown/Destroyed                                   |
 | [Wink (Cyberamic)]                   | N/A                | Destroyed. Remains salvaged by a private collector. |

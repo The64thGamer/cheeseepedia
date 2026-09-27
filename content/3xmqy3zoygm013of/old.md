@@ -92,10 +92,10 @@ Union opened with a Balcony Stage and The Beagles. Many recall 'The King' also b
 
 | Character                                                    | Manufacturing Date | Serial Number | Status                                                              |
 |--------------------------------------------------------------|--------------------|---------------|---------------------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown       | Used for Parts / Destroyed                                          |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown       | Used for Parts / Destroyed, head frame owned by a Private Collector |
-| [Mr Munch (Cyberamic)]               | Unknown            | Unknown       | Used for Parts / Destroyed                                          |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown       | Used for Parts / Destroyed, head frame owned by a Private Collector |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown       | Used for Parts / Destroyed                                          |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown       | Used for Parts / Destroyed, head frame owned by a Private Collector |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown       | Used for Parts / Destroyed                                          |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown       | Used for Parts / Destroyed, head frame owned by a Private Collector |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown       | Used for Parts / Destroyed, arms owned by a Private Collector       |
 | [Wink (Cyberamic)]                   | 1992?              | Unknown       | Unknown / Destroyed                                                 |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown       | Unknown / Destroyed                                                 |

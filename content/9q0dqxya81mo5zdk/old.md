@@ -17,10 +17,10 @@ The store opened with a 2-Stage. They kept their 2-Stage up until March 2018 whe
 
 | Animatronic                                                  | Serial    | Condition | Whereabouts |
 |--------------------------------------------------------------|-----------|-----------|-------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown   | Poor      | Destroyed.  |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown   | Poor      | Destroyed.  |
-| [Mr Munch (Cyberamic)]               | Unknown   | Horrible  | Destroyed.  |
-| [Jasper T Jowls (Cyberamic)]         | Unknown   | Okay      | Destroyed.  |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown   | Poor      | Destroyed.  |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown   | Poor      | Destroyed.  |
+| [Mr. Munch (Cyberamic)]               | Unknown   | Horrible  | Destroyed.  |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown   | Okay      | Destroyed.  |
 | [Pasqually (Cyberamic)]              | Unknown   | Horrible  | Destroyed.  |
 | [Wink (Cyberamic)]                   | 1992-1993 | N/A       | Destroyed.  |
 

@@ -21,10 +21,10 @@ Eastgate opened on June 17, 1990 it was a franchise store owned by 'Bernstein Re
 
 | Animatronic                                                  | Serial / Manufacturing Date | Whereabouts                                     |
 |--------------------------------------------------------------|-----------------------------|-------------------------------------------------|
-| [Mr Munch (Cyberamic)]               | Unknown                     | Destroyed                                       |
-| [Jasper T Jowls (Cyberamic)]         | Unknown                     | Destroyed                                       |
-| [Chuck E Cheese (Cyberamic)]         | Unknown                     | Destroyed                                       |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown                     | Destroyed                                       |
+| [Mr. Munch (Cyberamic)]               | Unknown                     | Destroyed                                       |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown                     | Destroyed                                       |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown                     | Destroyed                                       |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown                     | Destroyed                                       |
 | [Pasqually (Cyberamic)]              | Unknown                     | Destroyed                                       |
 | [Chuck E Cheese 16m (Animatronic)]   | 1106                        | Destroyed; Remains owned by a Private Collector |
 

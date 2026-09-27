@@ -17,9 +17,9 @@ Springfield opened on January 10, 1994 with the 1992 interior stylings from the 
 
 | Animatronics                                                 | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown            | Unknown     |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Unknown     |
-| [Mr Munch (Cyberamic)]               | Unknown            | Unknown     |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Unknown     |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown     |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown     |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown     |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown     |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown     |
 | [Wink (Cyberamic)]                   | Unknown            | Unknown     |

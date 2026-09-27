@@ -17,10 +17,10 @@ Chesapeake (Sam's Circle) would open in December 1996 with the 2-Stage from the 
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                                                                     |
 |--------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
-| [Guest Star Helen Henny (Cyberamic)] | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
-| [Mr Munch (Cyberamic)]               | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
-| [Jasper T Jowls (Cyberamic)]         | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
+| [Mr. Munch (Cyberamic)]               | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
+| [Jasper T. Jowls (Cyberamic)]         | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
 | [Pasqually (Cyberamic)]              | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
 | [Wink (Cyberamic)]                   | 1992               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
 

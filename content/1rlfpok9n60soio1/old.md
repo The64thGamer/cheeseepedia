@@ -24,10 +24,10 @@ Like all Rocker Stages at the time, Chuck wore his PTT outfit. The stage was rep
 
 | Animatronic                                                  | Manufacturing Date | Serial Number | Status    |
 |--------------------------------------------------------------|--------------------|---------------|-----------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A                | Unknown       | Destroyed |
-| [Guest Star Helen Henny (Cyberamic)] | N/A                | Unknown       | Destroyed |
-| [Mr Munch (Cyberamic)]               | N/A                | Unknown       | Destroyed |
-| [Jasper T Jowls (Cyberamic)]         | N/A                | Unknown       | Destroyed |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | N/A                | Unknown       | Destroyed |
+| [Guest Star / Helen Henny (Cyberamic)] | N/A                | Unknown       | Destroyed |
+| [Mr. Munch (Cyberamic)]               | N/A                | Unknown       | Destroyed |
+| [Jasper T. Jowls (Cyberamic)]         | N/A                | Unknown       | Destroyed |
 | [Pasqually (Cyberamic)]              | N/A                | Unknown       | Destroyed |
 | [Singing Flowers (Cyberamic)]        | 1990               | Unknown       | Unknown   |
 | Wink(Cyberamic)                                              | 1993               | Unknown       | Destroyed |

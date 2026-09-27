@@ -292,9 +292,9 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                   |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)                                   | 1991               | Owned by a Private Collector.                                                                                 |
-| [Guest Star Helen Henny (Cyberamic)] | 1991               | Owned by a Private Collector.                                                                                 |
-| [Mr Munch (Cyberamic)]               | 1991               | Owned by a Private Collector.                                                                                 |
-| [Jasper T Jowls (Cyberamic)]         | 1991/1993          | Original Bot unknown, replaced with bot from Lakeland, FL (3558 US Hwy 98), now owned by a Private Collector. |
+| Chuck E. Cheese (Cyberamic)                                   | 1991               | Owned by a Private Collector.                                                                                 |
+| [Guest Star / Helen Henny (Cyberamic)] | 1991               | Owned by a Private Collector.                                                                                 |
+| [Mr. Munch (Cyberamic)]               | 1991               | Owned by a Private Collector.                                                                                 |
+| [Jasper T. Jowls (Cyberamic)]         | 1991/1993          | Original Bot unknown, replaced with bot from Lakeland, FL (3558 US Hwy 98), now owned by a Private Collector. |
 | [Pasqually (Cyberamic)]              | 1991               | Owned by a Private Collector.                                                                                 |
 | Wink (Animatronic)\|Wink (Cyberamic)                         | 1991               | Owned by a Private Collector.                                                                                 |

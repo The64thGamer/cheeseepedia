@@ -51,9 +51,9 @@ This location closed permanently on July 23rd, 2023, after 32 years in operation
 | [Moon (Animatronic)]                              | 1-82 11-17 | Removed, now destroyed.                                                                |
 | [Antioch (Animatronic)]                           | N/A        | Destroyed during Concept Unification.                                                  |
 | [Wink]                                            | N/A        | Replaced with [Wink (Cyberamic)], now destroyed.               |
-| Chuck E Cheese (Cyberamic)                                                | Unknown.   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Guest Star Helen Henny (Cyberamic)]              | Unknown.   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Mr Munch (Cyberamic)]                            | Unknown.   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Jasper T Jowls (Cyberamic)]                      | Unknown.   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
+| Chuck E. Cheese (Cyberamic)                                                | Unknown.   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
+| [Guest Star / Helen Henny (Cyberamic)]              | Unknown.   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
+| [Mr. Munch (Cyberamic)]                            | Unknown.   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
+| [Jasper T. Jowls (Cyberamic)]                      | Unknown.   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Pasqually (Cyberamic)]                           | Unknown.   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 | [Wink (Cyberamic)]                                | N/A        | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |

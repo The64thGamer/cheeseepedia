@@ -20,10 +20,10 @@ After Waukegan closed in January 1997, their show was excluded from the auction.
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                           |
 |--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
-| [Guest Star Helen Henny (Cyberamic)] | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
-| [Mr Munch (Cyberamic)]               | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
-| [Jasper T Jowls (Cyberamic)]         | 1982/1983          | Sent to Fairview Heights. Removed in 2019, owned by a collector.                      |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
+| [Mr. Munch (Cyberamic)]               | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
+| [Jasper T. Jowls (Cyberamic)]         | 1982/1983          | Sent to Fairview Heights. Removed in 2019, owned by a collector.                      |
 | [Pasqually (Cyberamic)]              | 1982/1983          | Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector. |
 | [Warblettes (Cyberamic)]             | 1982/1983          | Unknown.                                                                              |
 | Waving Flags (Cyberamic)                                     | 1982/1983          | Unknown.                                                                              |

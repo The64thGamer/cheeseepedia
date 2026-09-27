@@ -21,9 +21,9 @@ TODO
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                 |
 |--------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------|
-| [Chuck E Cheese (Cyberamic)]         | 1983?              | Unknown/Destroyed. Mask sent to [West Allis, WI (2990 South 108th Ave)].            |
-| [Guest Star Helen Henny (Cyberamic)] | 1980s              | Unknown/Destroyed. Mask sent to [West Allis, WI (2990 South 108th Ave)].            |
-| [Mr Munch (Cyberamic)]               | 1980s              | Unknown/Destroyed.                                                                                          |
-| [Jasper T Jowls (Cyberamic)]         | 1980s              | Unknown/Destroyed. Eyelids seen at [Tinley Park, IL (16090 S Harlem Ave)] as parts. |
+| [Chuck E. Cheese (Cyberamic)]         | 1983?              | Unknown/Destroyed. Mask sent to [West Allis, WI (2990 South 108th Ave)].            |
+| [Guest Star / Helen Henny (Cyberamic)] | 1980s              | Unknown/Destroyed. Mask sent to [West Allis, WI (2990 South 108th Ave)].            |
+| [Mr. Munch (Cyberamic)]               | 1980s              | Unknown/Destroyed.                                                                                          |
+| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Unknown/Destroyed. Eyelids seen at [Tinley Park, IL (16090 S Harlem Ave)] as parts. |
 | [Pasqually (Cyberamic)]              | 1980s              | Unknown/Destroyed.                                                                                          |
 | [Wink (Cyberamic)]                   | 1991               | Unknown/Destroyed.                                                                                          |

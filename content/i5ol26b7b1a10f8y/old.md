@@ -15,10 +15,10 @@ Worcester opened on August 18th, 1992 in Southwest Commons. The location origina
 
 | Animatronics                                                 | Manufacturing Date | Status                                                          |
 |--------------------------------------------------------------|--------------------|-----------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1991-1992          | Top half sent to Lowell, now destroyed.                         |
-| [Guest Star Helen Henny (Cyberamic)] | 1991-1992          | Top half sent to Lowell, now destroyed.                         |
-| [Mr Munch (Cyberamic)]               | 1991-1992          | Unknown/Destroyed                                               |
-| [Jasper T Jowls (Cyberamic)]         | 1991-1992          | Top half sent to Lowell, now destroyed.                         |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1991-1992          | Top half sent to Lowell, now destroyed.                         |
+| [Guest Star / Helen Henny (Cyberamic)] | 1991-1992          | Top half sent to Lowell, now destroyed.                         |
+| [Mr. Munch (Cyberamic)]               | 1991-1992          | Unknown/Destroyed                                               |
+| [Jasper T. Jowls (Cyberamic)]         | 1991-1992          | Top half sent to Lowell, now destroyed.                         |
 | [Pasqually (Cyberamic)]              | 1991-1992          | Unknown/Destroyed. Mask sent to North Dartmouth, now destroyed. |
 | Wink                                                         | 1991-1992          | Unknown/Destroyed                                               |
 

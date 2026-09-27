@@ -17,10 +17,10 @@ Originally, when the store opened in March 1993, they had a 2-Stage like every o
 
 | Character                                                    | Manufacturer Date | Status     |
 |--------------------------------------------------------------|-------------------|------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1992/1993         | Destroyed. |
-| [Guest Star Helen Henny (Cyberamic)] | 1992/1993         | Destroyed. |
-| [Mr Munch (Cyberamic)]               | 1992/1993         | Destroyed. |
-| [Jasper T Jowls (Cyberamic)]         | 1992/1993         | Destroyed. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1992/1993         | Destroyed. |
+| [Guest Star / Helen Henny (Cyberamic)] | 1992/1993         | Destroyed. |
+| [Mr. Munch (Cyberamic)]               | 1992/1993         | Destroyed. |
+| [Jasper T. Jowls (Cyberamic)]         | 1992/1993         | Destroyed. |
 | [Pasqually (Cyberamic)]              | 1992/1993         | Destroyed. |
 | [Wink (Cyberamic)]                   | 1992/1993         | Destroyed. |
 

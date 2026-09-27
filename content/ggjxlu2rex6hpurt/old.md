@@ -18,8 +18,8 @@ Operations winded down in 1985 due to poor sales amidst the company's filing for
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
-| Chuck E Cheese (Cyberamic)                                   |                    | Destroyed   |
-| [Guest Star Helen Henny (Cyberamic)] |                    | Destroyed   |
-| [Mr Munch (Cyberamic)]               |                    | Destroyed   |
+| Chuck E. Cheese (Cyberamic)                                   |                    | Destroyed   |
+| [Guest Star / Helen Henny (Cyberamic)] |                    | Destroyed   |
+| [Mr. Munch (Cyberamic)]               |                    | Destroyed   |
 | [Pasqually (Cyberamic)]              |                    | Destroyed   |
-| [Jasper T Jowls (Cyberamic)]         |                    | Destroyed   |
+| [Jasper T. Jowls (Cyberamic)]         |                    | Destroyed   |

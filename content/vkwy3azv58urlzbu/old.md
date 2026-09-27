@@ -16,10 +16,10 @@ Spokane opened on April 14th, 1983, as part of the center it was in and was fran
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts                                                                               |
 |--------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------|
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
-| [Mr Munch (Cyberamic)]               | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
-| [Jasper T Jowls (Cyberamic)]         | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
+| [Mr. Munch (Cyberamic)]               | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
 | [Pasqually (Cyberamic)]              | Unknown            | Sent to the now closed, [Lynnwood, WA (3717 196th St Suite 100)]. |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown                                                                                   |
 | Waving Flags (Cyberamic)                                     | N/A                | Unknown                                                                                   |

@@ -82,9 +82,9 @@ Around February 1985, Winchester would close permanently for unknown reasons, ho
 | [Winchester Pizza Time Orchestra (Animatronic)] | Unknown            | Unknown.                                                     |
 | [Winchester Flag Wavers (Animatronic)]          | Unknown            | Unknown.                                                     |
 | [Winchester Applause Board (Animatronic)]       | Unknown            | Unknown.                                                     |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                 | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| [Jasper T Jowls (Cyberamic)]                    | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| [Mr Munch (Cyberamic)]                          | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                 | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
+| [Jasper T. Jowls (Cyberamic)]                    | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
+| [Mr. Munch (Cyberamic)]                          | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
 | [Pasqually (Cyberamic)]                         | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
-| [Guest Star Helen Henny (Cyberamic)]            | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
+| [Guest Star / Helen Henny (Cyberamic)]            | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |
 | [Warblettes (Cyberamic)]                        | Unknown            | Sold off in the store's auction. Current wareabouts unknown. |

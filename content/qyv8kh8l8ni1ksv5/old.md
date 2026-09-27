@@ -14,10 +14,10 @@ Beaumont opened with either Harmony Howlette or Madame Oink. They also had The K
 
 | Animatronic                                                  | Manufacturing Date | Whereabouts |
 |--------------------------------------------------------------|--------------------|-------------|
-| [Mr Munch (Cyberamic)]               | 1981/1982          | Unknown.    |
-| [Jasper T Jowls (Cyberamic)]         | 1981/1982          | Unknown.    |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981/1982          | Unknown.    |
-| [Guest Star Helen Henny (Cyberamic)] | 1981/1982          | Unknown.    |
+| [Mr. Munch (Cyberamic)]               | 1981/1982          | Unknown.    |
+| [Jasper T. Jowls (Cyberamic)]         | 1981/1982          | Unknown.    |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)      | 1981/1982          | Unknown.    |
+| [Guest Star / Helen Henny (Cyberamic)] | 1981/1982          | Unknown.    |
 | [Pasqually (Cyberamic)]              | 1981/1982          | Unknown.    |
 | [Warblettes (Cyberamic)]             | 1981/1982          | Unknown.    |
 | Waving Flags (Cyberamic)                                     | 1981/1982          | Unknown.    |

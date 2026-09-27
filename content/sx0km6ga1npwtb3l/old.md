@@ -80,9 +80,9 @@ On August 12, 2024, Sharonville would begin its 'Entertainment Upgrade' througho
 | [Moon (Animatronic)]                              | 4-81 11-5 | Unknown/Destroyed                      |
 | [Antioch (Animatronic)]                           | N/A       | Unknown/Destroyed                      |
 | [Uncle Klunk (Animatronic)]                       | N/A       | Unknown/Destroyed                      |
-| Chuck E Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                   | Unknown   | Parts sent to Florence. Now destroyed. |
-| [Guest Star Helen Henny (Cyberamic)]              | Unknown   | Parts sent to Florence. Now destroyed. |
-| [Mr Munch (Cyberamic)]                            | Unknown   | Parts sent to Florence. Now destroyed. |
-| [Jasper T Jowls (Cyberamic)]                      | Unknown   | Parts sent to Florence. Now destroyed. |
+| Chuck E. Cheese (Cyberamic)\|Chuck E. Cheese (Cyberamic)                   | Unknown   | Parts sent to Florence. Now destroyed. |
+| [Guest Star / Helen Henny (Cyberamic)]              | Unknown   | Parts sent to Florence. Now destroyed. |
+| [Mr. Munch (Cyberamic)]                            | Unknown   | Parts sent to Florence. Now destroyed. |
+| [Jasper T. Jowls (Cyberamic)]                      | Unknown   | Parts sent to Florence. Now destroyed. |
 | [Pasqually (Cyberamic)]                           | Unknown   | Parts sent to Florence. Now destroyed. |
 | [Wink (Cyberamic)]                                | N/A       | Unknown/Destroyed                      |

@@ -12,10 +12,10 @@ Simi Valley opened its doors on October 20, 1980, in a shopping center adjacent 
 
   Animatronic                                                  Manufacturing Date   Status/Whereabouts
   ------------------------------------------------------------ -------------------- --------------------
-  [Mr Munch (Cyberamic)]                 1980                 Unknown
-  [Jasper T Jowls (Cyberamic)]           1980                 Unknown
-  [Chuck E Cheese (Cyberamic)]        1980                 Head mech possibly popped up on Ebay in July 2025. Rest unknown.
-  [Guest Star Helen Henny (Cyberamic)]   1980                 Unknown
+  [Mr. Munch (Cyberamic)]                 1980                 Unknown
+  [Jasper T. Jowls (Cyberamic)]           1980                 Unknown
+  [Chuck E. Cheese (Cyberamic)]        1980                 Head mech possibly popped up on Ebay in July 2025. Rest unknown.
+  [Guest Star / Helen Henny (Cyberamic)]   1980                 Unknown
   [Pasqually (Cyberamic)]                1980                 Unknown
   [Warblettes (Cyberamic)]               1980                 Unknown
   [Applause Board (Cyberamic)]           1980                 Unknown

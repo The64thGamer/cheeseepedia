@@ -26,9 +26,9 @@ TODO
 
 | Animatronic                                                  | Serial Number | Whereabouts |
 |--------------------------------------------------------------|---------------|-------------|
-| [Chuck E Cheese (Cyberamic)]         | Unknown       | Destroyed   |
-| [Guest Star Helen Henny (Cyberamic)] | Unknown       | Destroyed   |
-| [Mr Munch (Cyberamic)]               | Unknown       | Destroyed   |
-| [Jasper T Jowls (Cyberamic)]         | Unknown       | Destroyed   |
+| [Chuck E. Cheese (Cyberamic)]         | Unknown       | Destroyed   |
+| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Destroyed   |
+| [Mr. Munch (Cyberamic)]               | Unknown       | Destroyed   |
+| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Destroyed   |
 | [Pasqually (Cyberamic)]              | Unknown       | Destroyed   |
 | [Wink (Cyberamic)]                   | N/A           | Destroyed   |
