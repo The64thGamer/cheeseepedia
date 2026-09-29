@@ -1,43 +1,72 @@
 {
-    "title": "Brooklyn, NY (139 Flatbush Ave)",
-    "storeNumber": "",
-    "startDate": "2004-07-22",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2004-07-22"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-03-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2004-07-22",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-03-00",
-            "desc": "2019 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.68328167",
-        "-73.97824813"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "UKrguoTXMTaaqOLESQl1.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Brooklyn, NY (139 Flatbush Ave)",
+  "storeNumber": "522",
+  "startDate": "2004-07-22",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2004-07-22"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-03-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2004-07-22",
+      "e": "2023-03-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-03-00",
+      "desc": "2019 model.",
+      "e": ""
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "SkyTubes",
+      "desc": "Replaced by Trampoline Zone.",
+      "s": "0000-00-00",
+      "e": "2023-03-00"
+    },
+    {
+      "n": "Trampoline Zone",
+      "desc": "First Trampoline Zone installed. Replaced the SkyTubes.",
+      "s": "2023-03-00",
+      "e": ""
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.68328167",
+    "-73.97824813"
+  ],
+  "citations": [
+    "https://www.youtube.com/watch?v=HNc%5C_BauFihs&t=214s",
+    "https://www.youtube.com/watch?v=jzFEeyKwbJc",
+    "https://www.youtube.com/watch?v=mr4xq-W54d8"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "UKrguoTXMTaaqOLESQl1.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "2004-07-22",
+      "e": "2023-03-00"
+    }
+  ]
 }

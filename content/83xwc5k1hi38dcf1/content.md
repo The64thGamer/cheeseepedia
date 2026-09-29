@@ -1,0 +1,1 @@
+A hiring ad for the [Henrietta, NY (3400 W Henrietta Rd)] Gadgets restaurant.

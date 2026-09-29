@@ -1,0 +1,1 @@
+The Bugs Bunny, Porky Pig, Yosemite Sam, and Pepe Le Pew animatronics being installed at [Henrietta, NY (3400 W Henrietta Rd)].

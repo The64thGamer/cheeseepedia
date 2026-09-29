@@ -1,0 +1,5 @@
+***Brooklyn, NY (139 Flatbush Ave)***, Store #522, is a Chuck E. Cheese's located in the Atlantic Terminal Mall that opened on July 22, 2004, with a Studio C Beta and is still open today with the 2.0 remodel.
+
+## History
+
+The Brooklyn Chuck E. Cheese's opened on July 22, 2004, on the second floor of the Atlantic Terminal Mall with unique signage specific to the store, and was also one of the few locations to have the signage of Chuck E. pointing towards the entrance, which was later retrofitted to have Rockstar Chuck's head. The Brooklyn CEC failed a health inspection in June 2006, causing the store to temporarily close after being shut down by the health department. They were re-inspected a week later and cleared to reopened. By 2011, Brooklyn had placed a rope barrier onto its Studio C Beta to prevent kids from tampering with the animatronic [1]; this was replaced by a Circles of Light barrier in 2014. In March 2023, Brooklyn received the 2.0 remodel, replacing its Studio C Beta with a 2019-model Dance Floor, as well as receiving the first Trampoline Zone, which replaced the SkyTubes [2][3].

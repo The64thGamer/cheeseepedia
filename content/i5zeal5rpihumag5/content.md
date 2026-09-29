@@ -1,0 +1,1 @@
+The Sammy Sands animatronic at [Henrietta, NY (3400 W Henrietta Rd)].
