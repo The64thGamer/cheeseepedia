@@ -178,7 +178,7 @@ async function getViews() {
   if (!_views) _views = await fetch('/viewers/cep-js/compiled-json/views.json').then(r=>r.ok?r.json():{}).catch(()=>({}));
   return _views;
 }
-export function fmtViews(n) { return ' '+(n??0)+' view'+((n??0)===1?'':'s'); }
+export function fmtViews(n) { return ' 👁 ' + (n ?? 0); }
 
 /** Appends a view-count span to the .CardText or .s-item-meta element inside `el`. */
 export function injectViewCount(el, path, selector='.CardText') {

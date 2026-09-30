@@ -1,9 +1,14 @@
-import { createResource, Show } from 'solid-js';
-import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle,fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld } from './GlobalFunctions';
+import { createResource, createSignal, Show, For } from 'solid-js';
+import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks } from './GlobalFunctions';
 import { marked } from 'marked';
 import { loadFolderIDToTitleMap, loadViewsMap }  from './GlobalJsonCache'
+import { fetchLocationMap } from './GlobalFunctions';
 
-export async function renderArticle(meta){
+const EXCLUDE = new Set(['photos','videos','reviews','user','steam comments','theories','meta','transcriptions']);
+const MAX_RANDOM_CARDS = 15;
+const MAX_RANDOM_CARDS_VIEWCOUNT = 20;
+
+export function renderArticle(meta){
     switch (meta.type) {
     case "Animatronics":
     case "Animatronic Shows":
@@ -69,7 +74,7 @@ export async function renderStandardCard(meta) {
     const viewsMap = await loadViewsMap();
 
     return (
-    <div class="Card">
+    <div class="Card fade-in">
         <div class="CardImage">{pageThumbnail}</div>
         <div class="CardTextArea">
         <div class="CardLink">
@@ -86,97 +91,98 @@ export async function renderStandardCard(meta) {
     );
 }
 
-export async function renderRandomCards() {
-  const EXCLUDE_TYPES = new Set(['photos', 'videos', 'reviews', 'user','steam comments','theories', 'meta', 'transcriptions']);
+export function renderRandomCards() {
+  const [entries, setEntries] = createSignal([]); 
+  const [loaded, setLoaded] = createSignal(false);
 
-  const folderIDToTitleMap = await loadFolderIDToTitleMap();
-  const allIDs = Object.keys(folderIDToTitleMap);
+  (async () => {
+    const [idMap, viewsMap] = await Promise.all([
+      loadFolderIDToTitleMap(),
+      loadViewsMap(),
+    ]);
 
-  const viewsMap = await loadViewsMap();
+    const ids = Object.keys(idMap).sort(() => Math.random() - 0.5);
+    let count = 0;
 
-  const picked = [];
-  const usedIndices = new Set();
-  let attempts = 0;
-  const maxAttempts = allIDs.length;
+    for (let i = 0; i < ids.length && count < MAX_RANDOM_CARDS; i += 20) {
+      await Promise.all(
+        ids.slice(i, i + 20).map(async (id) => {
+          if (count >= MAX_RANDOM_CARDS || !(viewsMap[id] > MAX_RANDOM_CARDS_VIEWCOUNT)) return;
+          const m = await fetchMeta(id).catch(() => null);
+          if (!m || EXCLUDE.has((m.type || '').toLowerCase()) || count >= MAX_RANDOM_CARDS) return;
+          count++;
 
-  while (picked.length < 10 && usedIndices.size < allIDs.length && attempts < maxAttempts) {
-    attempts++;
-    const idx = Math.floor(Math.random() * allIDs.length);
-    if (usedIndices.has(idx)) continue;
-    usedIndices.add(idx);
+          const card = await renderStandardCard(m);
+          const views = viewsMap[id];
 
-    const id = allIDs[idx];
-    const m = await fetchMeta(id).catch(() => null);
-    if (m && !EXCLUDE_TYPES.has((m.type || '').toLowerCase()) && viewsMap[id] > 20) {
-      picked.push({ id, meta: m });
+          setEntries((prev) => {
+            const next = [...prev, { views, card }];
+            next.sort((a, b) => b.views - a.views); 
+            return next;
+          });
+        })
+      );
     }
-  }
-
-  picked.sort((a, b) => (viewsMap[b.id] ?? 0) - (viewsMap[a.id] ?? 0));
-
-  const cards = await Promise.all(picked.map(({ meta }) => renderStandardCard(meta)));
+    setLoaded(true);
+  })();
 
   return (
     <>
-        <h2>Random Articles</h2>
-        <div id="RandomCards" class="Carousel">
-        <For each={cards}>
-            {(card) => card}
-        </For>
-        </div>
+      <h2>Random Articles</h2>
+      <div id="RandomCards" class="Carousel">
+        <For each={entries()}>{(e) => e.card}</For>
+        <Show when={!loaded() && entries().length === 0}>
+          <div>Loading…</div>
+        </Show>
+      </div>
     </>
   );
 }
 
-export async function renderStandardArticle(meta){
-    const [data] = createResource(async () => {
-    const thumbnailFolderID = await fetchFolderIDFromTitle(meta.pageThumbnailFile);
-    const folderID = await fetchFolderIDFromTitle(meta.title);
+export function renderStandardArticle(meta) {
+  const [thumb] = createResource(async () =>
+    fetchImage(await fetchFolderIDFromTitle(meta.pageThumbnailFile))
+  );
 
-    const pageThumbnailFile = await fetchImage(thumbnailFolderID);
-    const contentMD = await fetchContent(folderID);
-    const oldMD = await fetchOld(folderID);
+  const [map] = createResource(() => fetchLocationMap(meta));
 
-    return { pageThumbnailFile, contentMD,oldMD };
+  const [content] = createResource(async () => {
+    const id = await fetchFolderIDFromTitle(meta.title);
+    const [md, old] = await Promise.all([
+      fetchContent(id).catch(() => ''),
+      fetchOld(id).catch(() => ''),
+    ]);
+    return {
+      md: await resolveBracketLinks(md),
+      old: await resolveBracketLinks(old),
+    };
   });
 
   return (
-    <Show when={!data.loading} fallback={<div>Loading…</div>}>
-      <>
-        <h1 class="article-title">{meta.title}</h1>
-        <div class="infobox">
-          <div class="infobox-thumbnail">{data().pageThumbnailFile}</div>
+    <>
+      <h1 class="article-title">{meta.title}</h1>
+      <div class="ArticleBody">
+        <div class="infobox fade-in">
+          <div class="infobox-thumbnail">
+            <Show when={!thumb.loading && thumb()}>{thumb()}</Show>
+          </div>
           <table>
             <tbody>
               <tr>
+                <td><strong>Operated</strong></td>
                 <td>
-                  <strong>Operated</strong>
-                </td>
-                <td>
-                    {convertStartDate(meta.startDate)}<div class="emoji">🚧</div><br/>{convertEndDate(meta.endDate)}<div class="emoji">☠️</div>
+                  {convertStartDate(meta.startDate)}<div class="emoji">🚧</div><br />
+                  {convertEndDate(meta.endDate)}<div class="emoji">☠️</div>
                 </td>
               </tr>
-
               <Show when={meta.sqft}>
                 <tr>
-                  <td>
-                    <strong>Floorspace</strong>
-                  </td>
-                  <td>
-                      {meta.sqft}ft<sup>2</sup><div class="emoji">📐</div>
-                  </td>
+                  <td><strong>Floorspace</strong></td>
+                  <td>{meta.sqft}ft<sup>2</sup><div class="emoji">📐</div></td>
                 </tr>
               </Show>
-
-              <Show when={meta.latitudeLongitude?.[0] && meta.latitudeLongitude?.[1]}>
-                <tr>
-                  <td>
-                    <strong>Location</strong>
-                  </td>
-                  <td>
-                      {meta.latitudeLongitude[0]}°<div class="emoji">🗺️</div><br/>{meta.latitudeLongitude[1]}°
-                  </td>
-                </tr>
+              <Show when={!map.loading && map()}>
+                <tr><td colspan="2">{map()}</td></tr>
               </Show>
             </tbody>
           </table>
@@ -185,20 +191,29 @@ export async function renderStandardArticle(meta){
               <strong>Credits:</strong>
               <ul>
                 <For each={meta.credits}>
-                  {(credit) => <li><strong>{credit.role}:</strong> {credit.n}</li>}
+                  {(c) => <li><strong>{c.role}:</strong> {c.n}</li>}
                 </For>
               </ul>
             </div>
           </Show>
         </div>
-        <div class="content">
-            <Show when={!data().contentMD && data().oldMD}>
-                <div class="OldWarning">The following article content is unsourced, in an old formatting, and needs to be rewritten. Any new text added to the page will hide this previous content.</div>
+
+        <div class="content fade-in">
+          <Show when={!content.loading} fallback={<div>Loading…</div>}>
+            <Show
+              when={content()?.md || content()?.old}
+              fallback={<div class="NoContent fade-in">No article content. Come write some!</div>}
+            >
+              <Show when={!content().md && content().old}>
+                <div class="OldWarning">
+                  The following article content is unsourced, in an old formatting, and needs to be rewritten. Any new text added to the page will hide this previous content.
+                </div>
+              </Show>
+              <div class="fade-in" innerHTML={marked.parse(content().md || content().old)} />
             </Show>
-            <div innerHTML={marked.parse(data().contentMD || data().oldMD || "")}/>
+          </Show>
         </div>
-        
-      </>
-    </Show>
+      </div>
+    </>
   );
 }

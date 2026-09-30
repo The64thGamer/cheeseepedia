@@ -15,10 +15,19 @@
     "https://archive.is/78kBE",
     "https://youtu.be/m_kDoEMmf0c"
   ],
-  "credits": [
-    "sudo trans --pony - Developer",
-    "Himitsu - Playback Optimization",
-    "RayStarKitty - NRAE Room Art"
+"credits": [
+    {
+      "n": "sudo trans --pony",
+      "role": "Developer"
+    },
+    {
+      "n": "Himitsu",
+      "role": "Playback Optimization"
+    },
+    {
+      "n": "RayStarKitty",
+      "role": "NRAE Room Art"
+    }
   ],
   "downloadLinks": [
     {

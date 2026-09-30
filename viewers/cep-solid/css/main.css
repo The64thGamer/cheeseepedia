@@ -88,6 +88,67 @@ a {
   width: 99%;
 }
 
+.ArticleBody .infobox table {
+  width: auto;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  font-size: inherit;
+  border-collapse: separate;
+}
+
+.ArticleBody .infobox tbody tr:nth-child(odd),
+.ArticleBody .infobox tbody tr:nth-child(even),
+.ArticleBody .infobox tbody tr:hover {
+  background: none;
+}
+
+.ArticleBody .infobox td {
+  padding: 0;
+  border-top: none;
+}
+
+.ArticleBody table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .9rem;
+  margin: 1rem 0;
+  border: 0.125rem solid var(--dark);
+  border-radius: .5rem;
+  overflow: hidden;
+}
+
+.ArticleBody thead tr {
+  background: var(--primary);
+  color: var(--dark);
+  font-family: var(--font-display);
+  text-align: left;
+}
+
+.ArticleBody th {
+  padding: .5rem .75rem;
+  font-weight: normal;
+  letter-spacing: .02em;
+}
+
+.ArticleBody td {
+  padding: .4rem .75rem;
+  border-top: 1px solid color-mix(in srgb, var(--distant) 40%, transparent);
+  vertical-align: top;
+}
+
+.ArticleBody tbody tr:nth-child(odd) {
+  background: color-mix(in srgb, var(--dark) 30%, transparent);
+}
+
+.ArticleBody tbody tr:nth-child(even) {
+  background: color-mix(in srgb, var(--dark) 15%, transparent);
+}
+
+.ArticleBody tbody tr:hover {
+  background: color-mix(in srgb, var(--primary) 15%, transparent);
+}
+
 .infobox-thumbnail {
   width: 100%;
   background-color: var(--background);
@@ -257,4 +318,54 @@ a {
   scroll-behavior: smooth;
   white-space: nowrap;
   will-change: scroll-position;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: none; }
+}
+
+.fade-in {
+  animation: fadeIn 0.4s ease-out backwards;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .fade-in { animation: none; }
+}
+
+@media (max-aspect-ratio: 1/1) {
+    body{
+    border-style: none;
+    outline-style: none;
+    box-shadow: none;
+    border-radius: 0rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+    max-width: auto;
+    min-width: auto;
+  }
+
+  .ArticleBody table{
+    width: 100vw;
+    margin-left: calc(-50vw + 50%);
+    margin-right: calc(-50vw + 50%);
+    max-width: 100vw;
+    display: block;
+    overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  }
+
+  .ArticleBody th, .ArticleBody td {
+  white-space: nowrap;
+  }
+
+  .Logo img{
+    margin-bottom: 0rem;
+  }
+
+  .s-input-row{
+    padding: 1rem;
+  }
 }

@@ -1,8 +1,6 @@
 import { renderArticle, renderRandomCards } from './Renderers';
 
-async function App(meta) {
-  const final = await renderArticle(meta);
-  const random = await renderRandomCards()
+function App(meta) {
   return (
     <>
       <link rel="icon" href="/viewers/cep-js/assets/Logos/favicon-cep.ico" />
@@ -12,11 +10,10 @@ async function App(meta) {
       <link rel="stylesheet" href="/viewers/cep-solid/css/fonts.css" />
       <link rel="stylesheet" href="/viewers/cep-solid/css/mobile-modifiers.css" />
       <link rel="stylesheet" href="/viewers/cep-solid/css/theme-modifiers.css" />
-      {final}
-      {random}
+      {renderArticle(meta)}
+      {renderRandomCards()}
     </>
   );
 }
-
 
 export default App;

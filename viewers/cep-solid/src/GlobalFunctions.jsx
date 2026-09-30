@@ -1,6 +1,8 @@
 import { loadTitleToFolderIDMap } from './GlobalJsonCache';
 import { marked } from 'marked';
+import { createMap, loadPins } from './MapRenderer';
 
+const MAP_TYPES = new Set(['locations', 'cancelled locations']);
 const MNAMES=['','Jan. ','Feb. ','Mar. ','Apr. ','May ','Jun. ','Jul. ','Aug. ','Sep. ','Oct. ','Nov. ','Dec.'];
 
 export async function fetchMeta(folderID) {
@@ -170,3 +172,79 @@ export async function fetchThumbnailWLinkToArticle(meta) {
     </a>
   );
 }
+
+function mapContainer(setup) {
+  return (
+    <div
+      class="MapContainer fade-in"
+      ref={(el) => {
+        const start = () => (el.isConnected ? setup(el) : requestAnimationFrame(start));
+        requestAnimationFrame(start);
+      }}
+    />
+  );
+}
+
+export async function resolveBracketLinks(md) {
+  const parts = md.split(/(```[\s\S]*?```|`[^`\n]*`)/);
+
+  const processed = await Promise.all(
+    parts.map(async (part, i) => {
+      if (i % 2) return part;
+
+      const re = /(?<![\]\\])\[([^\[\]\n]+)\](?![(\[:])/g;
+      const matches = [...part.matchAll(re)];
+
+      const replacements = await Promise.all(
+        matches.map(async (m) => {
+          const text = m[1].trim();
+          if (!text || /^[xX]$/.test(text)) return m[0]; 
+
+          if (/^\d+$/.test(text)) return `<sup><a href="#cite-${text}">(${text})</a></sup>`;
+
+          const id = await fetchFolderIDFromTitle(text);
+          if (!id) return `<div class="BadLink">${text}</div>`;        
+          return `[${text}](${getFolderPath(id)})`;
+        })
+      );
+
+      let out = '';
+      let last = 0;
+      matches.forEach((m, j) => {
+        out += part.slice(last, m.index) + replacements[j];
+        last = m.index + m[0].length;
+      });
+      return out + part.slice(last);
+    })
+  );
+
+  return processed.join('');
+}
+
+export async function fetchLocationMap(meta) {
+  if (!MAP_TYPES.has((meta?.type || '').toLowerCase())) return null;
+
+  const folderID = await fetchFolderIDFromTitle(meta?.title);
+  if (!folderID) return null;
+
+  const loc = (await loadPins()).find((l) => l.p === folderID);
+  if (!loc) return null;
+
+  return mapContainer((el) => createMap(el, [loc], { single: true }));
+}
+ 
+export async function fetchMapForIDs(ids) {
+  const wanted = new Set(ids);
+  const locs = (await loadPins()).filter((l) => wanted.has(l.p));
+  if (!locs.length) return null;
+ 
+  return mapContainer((el) => createMap(el, locs, { fit: true }));
+}
+ 
+export async function fetchMapAll() {
+  const locs = await loadPins();
+  if (!locs.length) return null;
+ 
+  return mapContainer((el) => createMap(el, locs));
+}
+ 

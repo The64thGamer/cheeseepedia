@@ -137,7 +137,9 @@
   color: var(--blue);
 }
 
-[data-theme="classic"] h2,h3,h4 {
+[data-theme="classic"] h2,
+[data-theme="classic"] h3,
+[data-theme="classic"] h4 {
   color:var(--deep-white)
 }
 
