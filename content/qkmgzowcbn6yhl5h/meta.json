@@ -1,0 +1,55 @@
+{
+  "title": "Henrietta, NY (3400 W Henrietta Rd)",
+  "type": "Locations",
+  "pageThumbnailFile": "6lrknutf2i7d1yt9",
+  "downloadLinks": [],
+  "citations": [
+    "https://www.newspapers.com/article/democrat-and-chronicle-rochester/61548069/",
+    "https://www.newspapers.com/article/democrat-and-chronicle-gadgets-10-minute/56062016/",
+    "https://www.newspapers.com/article/democrat-and-chronicle-for-the-boar/58472618/",
+    "https://www.newspapers.com/article/democrat-and-chronicle-gadgets-virgin/54403425/",
+    "https://www.newspapers.com/article/democrat-and-chronicle-gadgets-closing-1/141756461/",
+    "https://www.newspapers.com/article/democrat-and-chronicle-gadgets-restauran/141756271/"
+  ],
+  "tags": [
+    "Gadgets",
+    "The Looney Tunes Revue"
+  ],
+  "startDate": "1983-05-04",
+  "endDate": "1985-01-27",
+  "recommend": false,
+  "latitudeLongitude": [
+    "43.08585",
+    "-77.63655"
+  ],
+  "credits": [],
+  "stages": [
+    {
+      "n": "The Looney Tunes Revue",
+      "desc": "5th show produced. Fate unknown.",
+      "s": "1983-05-04",
+      "e": "1985-01-27"
+    }
+  ],
+  "remodels": [],
+  "franchisees": [
+    {
+      "n": "Leisure Development Corporation",
+      "s": "1983-05-04",
+      "e": "1985-01-27"
+    }
+  ],
+  "animatronics": [],
+  "attractions": [
+    {
+      "n": "Dragon's Lair",
+      "desc": "Documented in a newspaper article. https://www.newspapers.com/article/democrat-and-chronicle-gadgets-dragons/54401685/",
+      "s": "1983-08-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "showtapeFormats": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ]
+}

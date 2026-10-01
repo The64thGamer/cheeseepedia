@@ -881,7 +881,7 @@ sup {
 .CardWrap {
   display: flex;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap: 0.5rem;
   padding: .5rem 0;
   justify-content: center;
 }
@@ -1070,12 +1070,12 @@ sup {
 .PhotoCard {
   display: flex;
   flex-direction: column;
-  width: 200px;
+  width: 12rem;
 }
 
 .PhotoCardImage img {
   width: 100%;
-  height: 140px;
+  height: 10rem;
   object-fit: cover;
   border-radius: .5rem;
 }
@@ -2025,12 +2025,17 @@ sup a:hover {
     min-width: auto;
   }
 
+  .infobox{
+    width: 100%;
+    margin: 0;
+  }
+
   .ArticleBody table{
     width: 100vw;
     margin-left: calc(-50vw + 50%);
     margin-right: calc(-50vw + 50%);
     max-width: 100vw;
-    display: block;
+    display: table-cell;
     overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   }

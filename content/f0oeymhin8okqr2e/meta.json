@@ -38,58 +38,70 @@
   "attractions": [
     {
       "n": "Alley Roller Classic",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "CEC Photo Ride",
       "desc": "Avenger era, slightly rethemed and repainted for the Rockstar era.",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "Chuck E.'s Glider Rider",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "City Bus Tours",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "Frogger (ICE)",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "Milk Jug Toss",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "NBA Hoop Troop",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "Pop It for Gold",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "Sea Wolf (2008)",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "Snow Day!",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "Ticket Blaster",
-      "s": "0000-00-00"
+      "s": "0000-00-00",
+      "e": ""
     },
     {
       "n": "Trampoline Zone",
-      "s": "2024-00-00"
+      "s": "2024-00-00",
+      "e": ""
     }
   ],
   "sqft": "",
   "latitudeLongitude": [
-    "41.8447028",
-    "-74.4114991"
+    "43.212059",
+    "77.712137"
   ],
   "citations": [],
   "contributors": [

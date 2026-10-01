@@ -203,7 +203,7 @@ export async function resolveBracketLinks(md) {
           if (/^\d+$/.test(text)) return `<sup><a href="#cite-${text}">(${text})</a></sup>`;
 
           const id = await fetchFolderIDFromTitle(text);
-          if (!id) return `<div class="BadLink">${text}</div>`;        
+          if (!id) return `<span class="BadLink">${text}</span>`;        
           return `[${text}](${getFolderPath(id)})`;
         })
       );

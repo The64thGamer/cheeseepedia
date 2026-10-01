@@ -1,4 +1,4 @@
-import { renderArticle, renderRandomCards } from './Renderers';
+import { renderHeader, renderArticle, renderRandomCards, renderFooter } from './Renderers';
 
 function App(meta) {
   return (
@@ -10,8 +10,10 @@ function App(meta) {
       <link rel="stylesheet" href="/viewers/cep-solid/css/fonts.css" />
       <link rel="stylesheet" href="/viewers/cep-solid/css/mobile-modifiers.css" />
       <link rel="stylesheet" href="/viewers/cep-solid/css/theme-modifiers.css" />
+      {renderHeader()}
       {renderArticle(meta)}
       {renderRandomCards()}
+      {renderFooter()}
     </>
   );
 }

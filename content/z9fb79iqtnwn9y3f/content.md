@@ -1,0 +1,1 @@
+A newspaper advertisement from *Newsday (Nassau Edition)* detailing the Great Escape vacation offer for Pan Am available at the [Westbury, NY (737 Merrick Ave)] Gadgets restaurant.
