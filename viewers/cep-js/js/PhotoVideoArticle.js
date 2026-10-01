@@ -60,8 +60,8 @@ export async function loadPhotoVideoArticle(app, articleId, meta, md, addTag) {
   body.appendChild(wrap);
 
   if (isVideo) {
-    // Primary embed from meta.title (the URL)
-    const primaryUrl = meta.title || '';
+    // Primary embed from meta.pageThumbnailVideo (the URL)
+    const primaryUrl = meta.pageThumbnailVideo || '';
     if (primaryUrl && /^https?:\/\//.test(primaryUrl)) {
       wrap.appendChild(embedVideo(primaryUrl));
     }

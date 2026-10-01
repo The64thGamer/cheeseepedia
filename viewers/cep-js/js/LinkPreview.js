@@ -25,6 +25,15 @@ function fmtRange(start, end) {
   const e=fmtDate(end); return e?s+' - '+e:s;
 }
 
+function videoThumbSrc(url) {
+  if (!url) return '';
+  const yt=url.match(/(?:youtube\.com\/(?:watch\?(?:.*&)?v=|shorts\/|embed\/|live\/)|youtu\.be\/)([\w-]+)/);
+  if (yt) return `https://img.youtube.com/vi/${yt[1]}/mqdefault.jpg`;
+  const ar=url.match(/archive\.org\/(?:details|embed)\/([^/?#\s]+)/);
+  if (ar) return `https://archive.org/services/img/${ar[1]}`;
+  return '';
+}
+
 function excerptText(md, len=150) {
   if (!md) return '';
   const clean=md.replace(/\{\{[^}]+\}\}/g,'').replace(/[*_`#>\[\]!]/g,' ').replace(/\s+/g,' ').trim();
@@ -88,7 +97,16 @@ async function showPreview(articleId, anchorEl) {
   const isPhoto=(meta.type||'').toLowerCase()==='photos';
   const thumbFolder=isPhoto?articleId:(thumbTitle?linker[thumbTitle]:null);
 
-  if (thumbFolder) {
+  const isVideo=(meta.type||'').toLowerCase()==='videos';
+  const videoThumb=isVideo?videoThumbSrc(meta.pageThumbnailVideo):'';
+
+  if (videoThumb) {
+    imgDiv.innerHTML='';
+    const img=document.createElement('img');
+    img.src=videoThumb; img.alt=meta.title||''; img.style.width='100%';
+    img.onerror=()=>{imgDiv.style.display='none';};
+    imgDiv.appendChild(img);
+  } else if (thumbFolder) {
     imgDiv.innerHTML='';
     imgDiv.appendChild(ProgressiveImage(thumbFolder, meta.title||''));
   } else {

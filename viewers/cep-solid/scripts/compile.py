@@ -9,7 +9,7 @@ OUT_TITLE_TO_ID = os.path.join(os.path.dirname(__file__), "..", "compiled-json/t
 OUT_ID_TO_TITLE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/folderIDToTitleMap.json")
 OUT_MAP_PINS    = os.path.join(os.path.dirname(__file__), "..", "compiled-json/map_pins.json")
 OUT_TYPE_TO_IDS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/typeToIDList.json")
-THUMB_FIELD = "pageThumbnailLink"
+THUMB_FIELD = "pageThumbnailVideo"
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
 
 
@@ -375,9 +375,14 @@ def process_video_articles():
         if have_ytdlp and not md.exists():
             print(f"Fetching transcript: {folder.name}")
             text = fetch_transcript(url)
-            if text is not None:
-                md.write_text(text, encoding="utf-8")
-                print(f"  wrote content.md ({len(text)} chars)" if text else "  no transcript, wrote empty content.md")
+            if text is None:
+                print("  transcript fetch errored, wrote empty content.md")
+                text = ""
+            md.write_text(text, encoding="utf-8")
+            if text:
+                print(f"  wrote content.md ({len(text)} chars)")
+            elif text == "":
+                print("  wrote empty content.md")
 
         photo = folder / "photo.avif"
         if not photo.exists():

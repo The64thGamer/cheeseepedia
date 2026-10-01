@@ -72,7 +72,7 @@ def main():
     all_folders = [f for f in content_root.iterdir() if f.is_dir()]
     existing_folder_names = {f.name for f in all_folders}
 
-    # Pass 1: build video_id -> existing folder registry (from any page whose title is a YT video URL)
+    # Pass 1: build video_id -> existing folder registry (from any Videos page whose pageThumbnailVideo is a YT video URL)
     existing_video_pages = {}  # video_id -> Path (folder)
     page_meta_cache = {}  # folder name -> meta dict (so we don't re-read files)
 
@@ -82,9 +82,9 @@ def main():
             continue
         page_meta_cache[folder.name] = meta
 
-        title = meta.get("title")
-        if isinstance(title, str):
-            vid = extract_video_id(title)
+        if (meta.get("type") or "").lower() == "videos":
+            thumb_video = meta.get("pageThumbnailVideo")
+            vid = extract_video_id(thumb_video) if isinstance(thumb_video, str) else None
             if vid:
                 if vid in existing_video_pages and existing_video_pages[vid].name != folder.name:
                     print(f"WARNING: video {vid} has multiple existing pages: "
@@ -156,12 +156,12 @@ def main():
             existing_folder_names.add(folder_id)
             new_folder = content_root / folder_id
             new_folder.mkdir(parents=True, exist_ok=False)
-            (new_folder / "content.md").write_text("", encoding="utf-8")
 
             new_meta = {
-                "title": canonical_url(vid),
+                "title": canonical_url(vid),  # placeholder - replace with the real video title
                 "type": "Videos",
                 "tags": sorted(citing_titles),
+                "pageThumbnailVideo": canonical_url(vid),
             }
             (new_folder / "meta.json").write_text(
                 json.dumps(new_meta, ensure_ascii=False, indent=2), encoding="utf-8"

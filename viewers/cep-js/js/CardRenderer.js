@@ -50,12 +50,15 @@ export function cardImageHTML(doc, href) {
 
 export function videoThumbSrc(url) {
   if (!url) return '';
-  const yt=url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&\s]+)/);
+  const yt=url.match(/(?:youtube\.com\/(?:watch\?(?:.*&)?v=|shorts\/|embed\/|live\/)|youtu\.be\/)([\w-]+)/);
   if (yt) return `https://img.youtube.com/vi/${yt[1]}/mqdefault.jpg`;
   const ar=url.match(/archive\.org\/(?:details|embed)\/([^/?#\s]+)/);
   if (ar) return `https://archive.org/services/img/${ar[1]}`;
   return '';
 }
+
+// Video URL now lives in pageThumbnailVideo (expected in search docs as `tv`); title is doc.t
+const videoUrl = doc => doc.tv || doc.pageThumbnailVideo || '';
 
 // ── Article renderers ─────────────────────────────────────────────────────────
 export function renderArticleCard(doc) {
@@ -128,35 +131,34 @@ export function renderPhotoList(doc) {
   el.appendChild(a); return el;
 }
 
+// Video image: article's own photo.avif (or its doc.img folder) first, then the video's remote thumbnail
+function videoImgHTML(doc, href) {
+  const primary='/content/'+esc(doc.img||doc.p)+'/photo.avif';
+  const fb=videoThumbSrc(videoUrl(doc));
+  return `<a href="${esc(href)}"><img src="${primary}" ${fb?`data-fb="${esc(fb)}" `:''}alt="${esc(doc.t)}" loading="lazy" onerror="if(this.dataset.fb){this.src=this.dataset.fb;delete this.dataset.fb}else{this.style.display='none'}"></a>`;
+}
+
 // ── Video renderers ───────────────────────────────────────────────────────────
 export function renderVideoCard(doc) {
   const el=document.createElement('div'); el.className='Card';
-  const href=permalink(doc.p), thumb=videoThumbSrc(doc.t);
-  const imgHTML=thumb
-    ?`<a href="${esc(href)}"><img src="${esc(thumb)}" alt="Video" loading="lazy" onerror="this.style.display='none'"></a>`
-    :`<a href="${esc(href)}" class="CardImageEmpty"><span class="CardEmptyIcon"></span><p>Empty Page</p></a>`;
+  const href=permalink(doc.p), imgHTML=videoImgHTML(doc,href);
   el.innerHTML=`<div class="CardImage">${imgHTML}</div>
     <div class="CardTextArea">
-      <div class="CardLink"><span><a href="${esc(href)}">${esc(doc.e||doc.t)}</a></span></div>
+      <div class="CardLink"><span><a href="${esc(href)}">${esc(doc.t||doc.p)}</a></span></div>
       <div class="CardText"><strong>${esc(fmtDate(doc.d))}</strong></div>
     </div>`;
-  if (!thumb) injectEmptySvg(el);
   injectViewCount(el, doc.p);
   return el;
 }
 
 export function renderVideoCompact(doc) {
   const el=document.createElement('div'); el.className='CompactCard';
-  const href=permalink(doc.p), thumb=videoThumbSrc(doc.t);
-  const imgHTML=thumb
-    ?`<a href="${esc(href)}"><img src="${esc(thumb)}" alt="Video" loading="lazy" onerror="this.style.display='none'"></a>`
-    :`<a href="${esc(href)}" class="CardImageEmpty"><span class="CardEmptyIcon"></span></a>`;
+  const href=permalink(doc.p), imgHTML=videoImgHTML(doc,href);
   el.innerHTML=`<div class="CardImage">${imgHTML}</div>
     <div class="CardTextArea">
-      <div class="CardLink"><a href="${esc(href)}">${esc(doc.e||doc.t)}</a></div>
+      <div class="CardLink"><a href="${esc(href)}">${esc(doc.t||doc.p)}</a></div>
       <div class="CardText"><strong>${esc(fmtDate(doc.d))}</strong></div>
     </div>`;
-  if (!thumb) injectEmptySvg(el);
   injectViewCount(el, doc.p);
   return el;
 }
@@ -165,7 +167,7 @@ export function renderVideoList(doc) {
   const el=document.createElement('div'); el.className='s-item';
   const href=permalink(doc.p);
   el.innerHTML=`<div class="s-item-body">
-    <div class="s-item-title"><a href="${esc(href)}">${esc(doc.e||doc.t)}</a></div>
+    <div class="s-item-title"><a href="${esc(href)}">${esc(doc.t||doc.p)}</a></div>
     ${doc.d?`<div class="s-item-meta">${esc(fmtDate(doc.d))}</div>`:''}
   </div>`;
   injectViewCount(el, doc.p, '.s-item-meta');
