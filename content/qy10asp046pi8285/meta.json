@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=rJPHMZYdViY",
+  "title": "Chuck E. Cheese - Chuck E.'s Middle Name (Annapolis, MD)",
   "type": "Videos",
   "tags": [
     "Annapolis, MD (2333-A Forest Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2026-04-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=rJPHMZYdViY"
 }

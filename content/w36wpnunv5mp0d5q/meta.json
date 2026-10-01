@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=3eawZNRmuUE",
+  "title": "Do The Chuck E. - Chuck E. LIVE!",
   "type": "Videos",
   "tags": [
     "Chuck E. Cheese's"
@@ -7,5 +7,6 @@
   "startDate": "2020-10-05",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=3eawZNRmuUE"
 }

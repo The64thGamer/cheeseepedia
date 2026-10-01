@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=MNPGv8Qe6gw",
+  "title": "Chuck E. Cheese's - Charlie Chorebot (3-Stage)",
   "type": "Videos",
   "tags": [
     "Chuck E's Jukebox Jam Show",
@@ -8,5 +8,6 @@
   "startDate": "2025-09-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=MNPGv8Qe6gw"
 }

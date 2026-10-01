@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=KCllxnR_XBA",
+  "title": "Let's Play Some Games - Sunrise, FL Chuck E. Cheese's",
   "type": "Videos",
   "tags": [
     "Sunrise, FL (8099 W Oakland Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2015-12-26",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=KCllxnR_XBA"
 }

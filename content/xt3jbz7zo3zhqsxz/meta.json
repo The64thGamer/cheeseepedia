@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ejvGjJgQTTQ",
+  "title": "Chuck E. Cheese - Wyomissing, PA Store Tour",
   "type": "Videos",
   "tags": [
     "Wyomissing, PA (2721 N Meridian Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2022-04-23",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ejvGjJgQTTQ"
 }

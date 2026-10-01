@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=p97plQegnoc",
+  "title": "Ballgame (Spring Training ‘93)",
   "type": "Videos",
   "tags": [
     "Spring Training",
@@ -8,5 +8,6 @@
   "startDate": "2020-02-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=p97plQegnoc"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=0JNyIjY4fzA",
+  "title": "Chuck E. Cheese - Lend a Helping Hand (Cherry Hill, NJ)",
   "type": "Videos",
   "tags": [
     "Cherry Hill, NJ (2100 Rt 38)"
@@ -7,5 +7,6 @@
   "startDate": "2023-08-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=0JNyIjY4fzA"
 }

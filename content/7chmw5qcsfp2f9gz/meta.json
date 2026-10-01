@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=oeZnzY2LXRw",
+  "title": "Chuck E. Cheese - Rainy Day (Eastgate, OH)",
   "type": "Videos",
   "tags": [
     "Cincinnati, OH (4394 Eastgate Square Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2018-04-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=oeZnzY2LXRw"
 }

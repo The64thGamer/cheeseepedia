@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=io3bIOuY9Sc",
+  "title": "Chuck E. Cheese - Holiday Medley (Knoxville, TN)",
   "type": "Videos",
   "tags": [
     "Knoxville, TN (8225 Kingston Pike)"
@@ -7,5 +7,6 @@
   "startDate": "2023-11-11",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=io3bIOuY9Sc"
 }

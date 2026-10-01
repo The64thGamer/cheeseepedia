@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=6r6ipf6oV68",
+  "title": "The history of Colerain CEC in 60 Seconds",
   "type": "Videos",
   "tags": [
     "Cincinnati, OH (8801 Colerain Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2021-11-11",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=6r6ipf6oV68"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=CWxn_Uqj5dw",
+  "title": "Chuck E. Cheese - Out of This World (Laurel, MD)",
   "type": "Videos",
   "tags": [
     "Laurel, MD (936 Fairlawn Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2025-06-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=CWxn_Uqj5dw"
 }

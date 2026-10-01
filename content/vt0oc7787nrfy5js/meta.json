@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=XvcLN6LLuQI",
+  "title": "Chuck E. Cheese - Jasper's Country Classic (Springfield, IL)",
   "type": "Videos",
   "tags": [
     "Springfield, IL (2369 McArthur Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2024-01-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=XvcLN6LLuQI"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=wLIn9i6NPKQ",
+  "title": "Chuck E. Live - Me and My Friends (Tampa, FL)",
   "type": "Videos",
   "tags": [
     "Tampa, FL (14308 Dale Mabry Hwy)"
@@ -7,5 +7,6 @@
   "startDate": "2017-04-29",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=wLIn9i6NPKQ"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=xRdvZ74-w7Y",
+  "title": "Chuck E. Cheese - Do the Roll (Florence, Ky)",
   "type": "Videos",
   "tags": [
     "Florence, KY (7635 Mall Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2018-03-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=xRdvZ74-w7Y"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=kCwhUhrJ0Y8",
+  "title": "Chuck E Cheese - Rockford Store Tour",
   "type": "Videos",
   "tags": [
     "Rockford, IL (3600 E State St)"
@@ -7,5 +7,6 @@
   "startDate": "2020-04-04",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=kCwhUhrJ0Y8"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=QRJhSIL9zZY",
+  "title": "Chuck E. Cheese - Lend a Helping Hand (Novi, MI)",
   "type": "Videos",
   "tags": [
     "Novi, MI (44275 Twelve Mile Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-04-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=QRJhSIL9zZY"
 }

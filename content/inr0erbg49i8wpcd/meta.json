@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=05wRfxV4deo",
+  "title": "Chuck E. Cheese - Nice Enough (Miamisburg, OH)",
   "type": "Videos",
   "tags": [
     "Miamisburg, OH (30 Prestige Place)"
@@ -7,5 +7,6 @@
   "startDate": "2019-02-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=05wRfxV4deo"
 }

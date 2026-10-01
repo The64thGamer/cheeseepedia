@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=gWoYYa1FnBk",
+  "title": "Chuck E. Cheese - DJ Munch Mashup (RM 3-Stage)",
   "type": "Videos",
   "tags": [
     "RetroMation"
@@ -7,5 +7,6 @@
   "startDate": "2026-02-04",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=gWoYYa1FnBk"
 }

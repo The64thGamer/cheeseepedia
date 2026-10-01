@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=LVFMphNisMw",
+  "title": "Chuck E. Cheese - Chuck E. World (Murfreesburo, TN)",
   "type": "Videos",
   "tags": [
     "Murfreesboro, TN (1720 Old Fort Pkwy)"
@@ -7,5 +7,6 @@
   "startDate": "2021-03-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=LVFMphNisMw"
 }

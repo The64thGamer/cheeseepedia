@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=E-OlVCAg9Io",
+  "title": "Chuck E. Cheese - Chuck E. World (Princeton, NJ)",
   "type": "Videos",
   "tags": [
     "Princeton, NJ (520 Nassau Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-02-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=E-OlVCAg9Io"
 }

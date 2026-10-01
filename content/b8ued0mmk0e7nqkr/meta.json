@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=6hgpyYwOypQ",
+  "title": "Chuck E. Cheese - Out Of This World (Sharonville, OH)",
   "type": "Videos",
   "tags": [
     "Sharonville, OH (1429 E Kemper Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-09-08",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=6hgpyYwOypQ"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=AZXcPpNPMHU",
+  "title": "Chuck E. Cheese 3-Stage Tour | Huntsville AL | 12/19/22",
   "type": "Videos",
   "tags": [
     "Huntsville, AL (1220 Jordan Lane)"
@@ -7,5 +7,6 @@
   "startDate": "2022-12-20",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=AZXcPpNPMHU"
 }

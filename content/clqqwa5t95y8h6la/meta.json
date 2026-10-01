@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=uQlJhQYRmKw",
+  "title": "Pizza Time Theatre - Broadway Today",
   "type": "Videos",
   "tags": [
     "RetroMation",
@@ -8,5 +8,6 @@
   "startDate": "2024-03-08",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=uQlJhQYRmKw"
 }

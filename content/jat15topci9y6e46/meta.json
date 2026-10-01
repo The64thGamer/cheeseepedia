@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=3wIkn3cl_s0",
+  "title": "Chuck E. Cheese - It's Gotta Be Halloween (Deptford, NJ)",
   "type": "Videos",
   "tags": [
     "Deptford, NJ (1500 Almonesson Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-10-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=3wIkn3cl_s0"
 }

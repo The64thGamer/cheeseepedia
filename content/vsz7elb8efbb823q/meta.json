@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=FRqj_MlY0n8",
+  "title": "Chuck E. Cheese - Jasper's Country Classic (Springfield, OH)",
   "type": "Videos",
   "tags": [
     "Springfield, OH (2345 Valley Loop Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2018-06-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=FRqj_MlY0n8"
 }

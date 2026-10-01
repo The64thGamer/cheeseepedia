@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=fQm9V2VeYhQ",
+  "title": "Las Vegas (Nellis Blvd.) - Chuck E. Cheese's Store Tour",
   "type": "Videos",
   "tags": [
     "Las Vegas, NV (350 N Nellis Blvd Suite 100)"
@@ -7,5 +7,6 @@
   "startDate": "2018-09-20",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=fQm9V2VeYhQ"
 }

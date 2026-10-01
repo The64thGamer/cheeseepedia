@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=V7U8H-O0HgM",
+  "title": "1977 Chuck E Cheese's Theme Song",
   "type": "Videos",
   "tags": [
     "Sharonville, OH (1429 E Kemper Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2017-06-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=V7U8H-O0HgM"
 }

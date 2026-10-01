@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=PfKx_PtzsJM",
+  "title": "Chuck E Cheese - Out Of This World (Wilmington, NC)",
   "type": "Videos",
   "tags": [
     "Wilmington, NC (4389 Oleander Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2018-08-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=PfKx_PtzsJM"
 }

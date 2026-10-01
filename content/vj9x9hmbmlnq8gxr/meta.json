@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=bnch6cOx7lw",
+  "title": "Chuck E. Cheese - Crochet All Day (Deptford, NJ)",
   "type": "Videos",
   "tags": [
     "Deptford, NJ (1500 Almonesson Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-04-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=bnch6cOx7lw"
 }

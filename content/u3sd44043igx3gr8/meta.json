@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=SRF_VC-IYyc",
+  "title": "Chuck E Cheese - Up Close & Personal with Madison, TN!",
   "type": "Videos",
   "tags": [
     "Madison, TN (2070 Gallatin Pike)"
@@ -7,5 +7,6 @@
   "startDate": "2021-05-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=SRF_VC-IYyc"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=qvNpqLqKZvg",
+  "title": "Chuck E. Cheese - All I Want for Christmas is Snow (Springfield, OH)",
   "type": "Videos",
   "tags": [
     "Springfield, OH (2345 Valley Loop Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-12-07",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=qvNpqLqKZvg"
 }

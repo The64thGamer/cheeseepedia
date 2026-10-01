@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=wk6FjbyKJjk",
+  "title": "Chuck E. Cheese - DJ Munch (Florence, Ky)",
   "type": "Videos",
   "tags": [
     "Florence, KY (7635 Mall Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-01-09",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=wk6FjbyKJjk"
 }

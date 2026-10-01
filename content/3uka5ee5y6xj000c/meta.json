@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=VddczbPZPXY",
+  "title": "Sharonville Chuck E Cheese Digital Tour",
   "type": "Videos",
   "tags": [
     "Sharonville, OH (1429 E Kemper Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2017-05-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=VddczbPZPXY"
 }

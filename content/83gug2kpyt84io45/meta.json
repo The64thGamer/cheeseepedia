@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ivbHDIRNquA",
+  "title": "Chuck E. Cheese - Nothing Like A Walk (Sharonville, OH)",
   "type": "Videos",
   "tags": [
     "Sharonville, OH (1429 E Kemper Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2017-09-20",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ivbHDIRNquA"
 }

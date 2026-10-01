@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=1c3ieVCZw5Y",
+  "title": "Chuck E. Cheese - Song of Summer (Huntington Beach, CA 1)",
   "type": "Videos",
   "tags": [
     "Huntington Beach, CA (15511 Edwards St)"
@@ -7,5 +7,6 @@
   "startDate": "2026-07-15",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=1c3ieVCZw5Y"
 }

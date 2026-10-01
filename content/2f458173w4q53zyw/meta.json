@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=Qf9ajfLCvXw",
+  "title": "Chuck E. Cheese - Because We're Friends (Chandler, AZ)",
   "type": "Videos",
   "tags": [
     "Chandler, AZ (2977 West Frye Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2022-01-31",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=Qf9ajfLCvXw"
 }

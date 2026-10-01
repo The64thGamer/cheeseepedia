@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=1I9sAWHqs-E",
+  "title": "Chuck E. Cheese - Play All You Can Play (Bridgewater, NJ)",
   "type": "Videos",
   "tags": [
     "Bridgewater, NJ (600 Promenade Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-09-14",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=1I9sAWHqs-E"
 }

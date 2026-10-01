@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=sijgwEawKO4",
+  "title": "Chuck E. Cheese - Chuck E. World (Miamisburg, OH)",
   "type": "Videos",
   "tags": [
     "Miamisburg, OH (30 Prestige Place)"
@@ -7,5 +7,6 @@
   "startDate": "2020-07-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=sijgwEawKO4"
 }

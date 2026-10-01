@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=wuw4UUSCZvg",
+  "title": "Chuck E. Cheese - Jasper's Country Classic (Sharonville, OH)",
   "type": "Videos",
   "tags": [
     "Sharonville, OH (1429 E Kemper Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2018-08-22",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=wuw4UUSCZvg"
 }

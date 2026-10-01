@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=6FFmVudU8Lw",
+  "title": "Marvin's Marvelous Mechanical Museum Pizza Time Theatre Items",
   "type": "Videos",
   "tags": [
     "Pizza Time Theatre"
@@ -7,5 +7,6 @@
   "startDate": "2019-05-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=6FFmVudU8Lw"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=2uyIOX0CjNk",
+  "title": "Chuck E. Cheese - Lend a Helping Hand (Colerain, OH)",
   "type": "Videos",
   "tags": [
     "Cincinnati, OH (8801 Colerain Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2019-02-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=2uyIOX0CjNk"
 }

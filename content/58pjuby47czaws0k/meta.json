@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=5VDsJnI3OTM",
+  "title": "Chuck E. Cheese - Whitehall, PA Store Tour",
   "type": "Videos",
   "tags": [
     "Whitehall, PA (1000 Lehigh Valley Mall)"
@@ -7,5 +7,6 @@
   "startDate": "2024-04-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=5VDsJnI3OTM"
 }

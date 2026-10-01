@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=UvLudnbfniY",
+  "title": "Chuck E. Cheese - The Tail of Jasper T. (West Hills, CA)",
   "type": "Videos",
   "tags": [
     "West Hills, CA (22940 Van Owen St)"
@@ -7,5 +7,6 @@
   "startDate": "2024-05-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=UvLudnbfniY"
 }

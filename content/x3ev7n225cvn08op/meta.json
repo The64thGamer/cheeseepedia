@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=b6vFNXprkCY",
+  "title": "Chuck E. Cheese's Huntsville Store Tour",
   "type": "Videos",
   "tags": [
     "Huntsville, AL (1220 Jordan Lane)"
@@ -7,5 +7,6 @@
   "startDate": "2018-12-28",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=b6vFNXprkCY"
 }

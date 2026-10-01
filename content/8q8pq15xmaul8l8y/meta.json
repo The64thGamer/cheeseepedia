@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ipU8UlVpO2Y",
+  "title": "Chuck E. Cheese - Barbara the Barnyard Barber (Parma, OH)",
   "type": "Videos",
   "tags": [
     "Parma, OH (7601 W Ridgewood Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2026-05-03",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ipU8UlVpO2Y"
 }

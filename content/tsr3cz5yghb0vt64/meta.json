@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=i4FXxQv7pig",
+  "title": "Chuck E. Cheese - Dream Big (Milwaukee, WI)",
   "type": "Videos",
   "tags": [
     "Milwaukee, WI (2701 S Chase Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2025-05-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=i4FXxQv7pig"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=2rzVJf2lDpg",
+  "title": "Chuck E. Cheese - The Tail of Jasper T. (Miamisburg, OH)",
   "type": "Videos",
   "tags": [
     "Miamisburg, OH (30 Prestige Place)"
@@ -7,5 +7,6 @@
   "startDate": "2019-03-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=2rzVJf2lDpg"
 }

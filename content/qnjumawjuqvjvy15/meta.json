@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=tJfoxHBE8xU",
+  "title": "Chuck E. Cheese - Jasper's Country Classic (Altoona, PA)",
   "type": "Videos",
   "tags": [
     "Altoona, PA (3415 Pleasant Valley Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2026-06-20",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=tJfoxHBE8xU"
 }

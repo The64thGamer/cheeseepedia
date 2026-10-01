@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=3SqHIimzsaQ",
+  "title": "Chuck E. Cheese's Lewisville Store Tour",
   "type": "Videos",
   "tags": [
     "Lewisville, TX (2402 S Stemmons Fwy)"
@@ -7,5 +7,6 @@
   "startDate": "2017-03-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=3SqHIimzsaQ"
 }

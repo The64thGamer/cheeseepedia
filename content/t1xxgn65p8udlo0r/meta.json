@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=1zSyngiD7p0",
+  "title": "Chuck E. Cheese - Holiday Fiesta (Huntsville, AL)",
   "type": "Videos",
   "tags": [
     "Huntsville, AL (1220 Jordan Lane)"
@@ -7,5 +7,6 @@
   "startDate": "2023-11-29",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=1zSyngiD7p0"
 }

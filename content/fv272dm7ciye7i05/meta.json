@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ITugVHpxY0c",
+  "title": "Chuck E. Cheese - Cookies for Santa (Springfield, OH)",
   "type": "Videos",
   "tags": [
     "Springfield, OH (2345 Valley Loop Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-11-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ITugVHpxY0c"
 }

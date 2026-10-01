@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=96zbpiN-GgI",
+  "title": "Chuck E. Cheese - Nice Enough (Levittown, PA)",
   "type": "Videos",
   "tags": [
     "Levittown, PA (1283 E Lincoln Hwy)"
@@ -7,5 +7,6 @@
   "startDate": "2019-02-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=96zbpiN-GgI"
 }

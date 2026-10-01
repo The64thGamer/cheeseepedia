@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=a1MIr1_kbww",
+  "title": "Chuck E. Cheese - El Rey Guitarrista (Mentor, OH)",
   "type": "Videos",
   "tags": [
     "Mentor, OH (8000 Plaza Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-09-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=a1MIr1_kbww"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=LboYzSEA_jo",
+  "title": "Chuck E. Cheese - Let's Have a Party (Northridge, CA)",
   "type": "Videos",
   "tags": [
     "Northridge, CA (8425 Reseda Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-07-08",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=LboYzSEA_jo"
 }

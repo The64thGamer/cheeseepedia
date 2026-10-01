@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=BkjPYEu_DOQ",
+  "title": "Chuck E. Cheese - Beach Party Bash (Spartanburg, SC)",
   "type": "Videos",
   "tags": [
     "Spartanburg, SC (660 Spartan Blvd #250)"
@@ -7,5 +7,6 @@
   "startDate": "2021-06-16",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=BkjPYEu_DOQ"
 }

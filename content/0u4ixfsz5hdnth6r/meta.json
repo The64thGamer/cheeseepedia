@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=2wOD6nQttxE",
+  "title": "Crater Corner - Eat It",
   "type": "Videos",
   "tags": [
     "Crater Corner / Rockaria"
@@ -7,5 +7,6 @@
   "startDate": "2025-06-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=2wOD6nQttxE"
 }

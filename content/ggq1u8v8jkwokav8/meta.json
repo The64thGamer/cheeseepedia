@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=VhZiyCx_X8U",
+  "title": "Chuck E. Cheese - Game On! (Crystal Lake, IL)",
   "type": "Videos",
   "tags": [
     "Crystal Lake, IL (4725 Northwest Hwy)"
@@ -7,5 +7,6 @@
   "startDate": "2020-05-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=VhZiyCx_X8U"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=G6okT_ioGdM",
+  "title": "Chuck E. Cheese - Gamin' Time (Northridge, CA)",
   "type": "Videos",
   "tags": [
     "Northridge, CA (8425 Reseda Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-07-05",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=G6okT_ioGdM"
 }

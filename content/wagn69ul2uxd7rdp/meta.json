@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=nVnyxwOBx7U",
+  "title": "April 2012 Show Segment 1",
   "type": "Videos",
   "tags": [
     "Spring 2012 Show",
@@ -8,5 +8,6 @@
   "startDate": "2012-06-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=nVnyxwOBx7U"
 }

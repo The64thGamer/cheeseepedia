@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=0avJ1F3nsTw",
+  "title": "Chuck E. Cheese - Studio C Console Overview (Bridgewater, NJ)",
   "type": "Videos",
   "tags": [
     "Bridgewater, NJ (600 Promenade Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-09-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=0avJ1F3nsTw"
 }

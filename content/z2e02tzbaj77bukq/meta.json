@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=tbxzSi_CoFk",
+  "title": "Chuck E. Cheese - Let's Be Friends (Edison, NJ)",
   "type": "Videos",
   "tags": [
     "Edison, NJ (1120 Route 1)"
@@ -7,5 +7,6 @@
   "startDate": "2021-06-09",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=tbxzSi_CoFk"
 }

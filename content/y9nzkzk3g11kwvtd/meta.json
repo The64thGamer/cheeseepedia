@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=aHi3YB0ddeg",
+  "title": "BillyCon: The Fandom Speaks",
   "type": "Videos",
   "tags": [
     "Billycon IV"
@@ -7,5 +7,6 @@
   "startDate": "2024-07-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=aHi3YB0ddeg"
 }

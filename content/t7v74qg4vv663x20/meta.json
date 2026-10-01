@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=YT17ERbNWAc",
+  "title": "Chuck E. Cheese - Out Of This World (Florence, Ky)",
   "type": "Videos",
   "tags": [
     "Florence, KY (7635 Mall Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2020-07-04",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=YT17ERbNWAc"
 }

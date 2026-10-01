@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=r1LcF35ot1s",
+  "title": "Chuck E. Cheese - Zorp-Ah-Glorp-Dor-Bah Is Coming Tonight (Union, NJ)",
   "type": "Videos",
   "tags": [
     "Union, NJ (2700 US 22)"
@@ -7,5 +7,6 @@
   "startDate": "2019-11-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=r1LcF35ot1s"
 }

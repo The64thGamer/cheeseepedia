@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=SoYUvJIPInE",
+  "title": "May 2011 Show Segment 3",
   "type": "Videos",
   "tags": [
     "May 2011 Show",
@@ -8,5 +8,6 @@
   "startDate": "2011-05-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=SoYUvJIPInE"
 }

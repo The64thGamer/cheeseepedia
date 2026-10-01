@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=NgTS51VkFf8",
+  "title": "Chuck E. Cheese - It's Gotta Be Halloween (Eastgate, OH)",
   "type": "Videos",
   "tags": [
     "Cincinnati, OH (4394 Eastgate Square Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2021-10-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=NgTS51VkFf8"
 }

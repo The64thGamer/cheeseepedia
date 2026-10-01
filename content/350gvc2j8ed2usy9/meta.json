@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=7K79cVQkA0I",
+  "title": "Chuck E. Cheese - Let's Be Friends (Poughkeepsie, NY)",
   "type": "Videos",
   "tags": [
     "Poughkeepsie, NY (1895 South Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-05-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=7K79cVQkA0I"
 }

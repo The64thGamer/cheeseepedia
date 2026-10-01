@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=yYiZ-I7XFlc",
+  "title": "Takin' Care of Business",
   "type": "Videos",
   "tags": [
     "Taking Care of Business Live Demo"
@@ -7,5 +7,6 @@
   "startDate": "2015-01-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=yYiZ-I7XFlc"
 }

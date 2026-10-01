@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ST3dn_rmQYA",
+  "title": "Chuck E. Cheese - In The Future (Annapolis, MD)",
   "type": "Videos",
   "tags": [
     "Annapolis, MD (2333-A Forest Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2026-01-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ST3dn_rmQYA"
 }

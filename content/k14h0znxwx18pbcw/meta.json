@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=1pVHvFKFxAA",
+  "title": "Chuck E. Cheese's - Rockin' Robot (Phoenix, AZ)",
   "type": "Videos",
   "tags": [
     "Phoenix, AZ (8039 North 35th Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2021-05-15",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=1pVHvFKFxAA"
 }

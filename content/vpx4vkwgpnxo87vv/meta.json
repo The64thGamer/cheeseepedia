@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=0NOt2GC1Xhg",
+  "title": "Chuck E. Cheese - Lend a Helping Hand (Miamisburg, OH)",
   "type": "Videos",
   "tags": [
     "Miamisburg, OH (30 Prestige Place)"
@@ -7,5 +7,6 @@
   "startDate": "2019-01-26",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=0NOt2GC1Xhg"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=Qf9z0Yulu1k",
+  "title": "Chuck E. Cheese - Barbara the Barnyard Barber (Mentor, OH)",
   "type": "Videos",
   "tags": [
     "Mentor, OH (8000 Plaza Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-09-16",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=Qf9z0Yulu1k"
 }

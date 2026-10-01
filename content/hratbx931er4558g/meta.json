@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=J25_y0DyYxU",
+  "title": "Chuck E. Cheese - In The Future (Northridge, CA)",
   "type": "Videos",
   "tags": [
     "Northridge, CA (8425 Reseda Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-07-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=J25_y0DyYxU"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=dZVtIAkZA9Q",
+  "title": "Chuck E. Live at DerpyCon 2025 - ''Land of 1000 Dances''",
   "type": "Videos",
   "tags": [
     "Chuck E. Cheese's",
@@ -8,5 +8,6 @@
   "startDate": "2025-11-03",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=dZVtIAkZA9Q"
 }

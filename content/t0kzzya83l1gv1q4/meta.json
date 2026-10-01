@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=YrwjuzuPpOo",
+  "title": "Chuck E. Cheese - Zorp-Ah-Glorp-Dor-Bah Is Coming Tonight (Springfield, PA)",
   "type": "Videos",
   "tags": [
     "Springfield, PA (371 Baltimore Pike)"
@@ -7,5 +7,6 @@
   "startDate": "2024-11-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=YrwjuzuPpOo"
 }

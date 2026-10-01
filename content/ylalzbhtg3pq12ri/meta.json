@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=BEjy4S560OA",
+  "title": "Chuck E. Cheese - The Tail of Jasper T. (Princeton, NJ)",
   "type": "Videos",
   "tags": [
     "Princeton, NJ (520 Nassau Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-03-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=BEjy4S560OA"
 }

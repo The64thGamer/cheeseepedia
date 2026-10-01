@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=eMjS9z6Vs64",
+  "title": "Chuck E. Cheese - Holiday Fiesta (Knoxville, TN)",
   "type": "Videos",
   "tags": [
     "Knoxville, TN (8225 Kingston Pike)"
@@ -7,5 +7,6 @@
   "startDate": "2022-12-03",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=eMjS9z6Vs64"
 }

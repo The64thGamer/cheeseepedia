@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=5yvBm3dSS_w",
+  "title": "Chuck E. Cheese's - Out Of This World (Hicksville, NY)",
   "type": "Videos",
   "tags": [
     "Hicksville, NY (Delco Plaza 11-15 Hanover Place)"
@@ -7,5 +7,6 @@
   "startDate": "2022-11-07",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=5yvBm3dSS_w"
 }

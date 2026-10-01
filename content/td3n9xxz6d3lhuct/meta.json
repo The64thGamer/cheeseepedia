@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=lGAfirlE7q8",
+  "title": "Chuck E. Cheese - Song Title (Toledo Airport, OH)",
   "type": "Videos",
   "tags": [
     "Toledo, OH (5455 Airport Hwy)"
@@ -7,5 +7,6 @@
   "startDate": "2026-09-05",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=lGAfirlE7q8"
 }

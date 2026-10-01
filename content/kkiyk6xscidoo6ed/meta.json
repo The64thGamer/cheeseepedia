@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=3rzzW4YCaMs",
+  "title": "Chuck E. Cheese - Sammy The Skateboarding Skeleton (Princeton, NJ)",
   "type": "Videos",
   "tags": [
     "Princeton, NJ (520 Nassau Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-09-08",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=3rzzW4YCaMs"
 }

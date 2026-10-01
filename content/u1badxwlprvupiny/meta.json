@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=jILa3mkcSao",
+  "title": "Chuck E. Cheese - Studio C Fail (Hampton, VA)",
   "type": "Videos",
   "tags": [
     "Hampton, VA (5 Towne Centre Way)"
@@ -7,5 +7,6 @@
   "startDate": "2022-07-16",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=jILa3mkcSao"
 }

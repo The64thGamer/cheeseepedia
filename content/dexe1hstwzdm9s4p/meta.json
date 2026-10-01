@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=Fn8U4_m1kUQ",
+  "title": "Chuck E. Cheese - Haunted House Party (Deptford, NJ)",
   "type": "Videos",
   "tags": [
     "Deptford, NJ (1500 Almonesson Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-10-31",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=Fn8U4_m1kUQ"
 }

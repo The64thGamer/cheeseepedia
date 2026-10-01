@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=orVj_AV4DRU",
+  "title": "Chuck E. Cheese's Pizza - Havin' A Party (3-Stage)",
   "type": "Videos",
   "tags": [
     "Havin' A Party",
@@ -8,5 +8,6 @@
   "startDate": "2025-09-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=orVj_AV4DRU"
 }

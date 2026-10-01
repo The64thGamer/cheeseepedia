@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=UQ8EswrskIc",
+  "title": "Chuck E. Cheese - Lend a Helping Hand (Covina, CA)",
   "type": "Videos",
   "tags": [
     "Covina, CA (601 Azusa Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2026-03-14",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=UQ8EswrskIc"
 }

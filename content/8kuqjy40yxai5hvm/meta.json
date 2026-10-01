@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=mRV-MWS4QkY",
+  "title": "CEC's Back Room",
   "type": "Videos",
   "tags": [
     "Columbus, OH (4284 Macsway Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2011-04-20",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=mRV-MWS4QkY"
 }

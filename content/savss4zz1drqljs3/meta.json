@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=jS9e5WGuygA",
+  "title": "Up Close and Personal with Rolfe DeWolfe",
   "type": "Videos",
   "tags": [
     "Orlando, FL (47 W Jefferson St)"
@@ -7,5 +7,6 @@
   "startDate": "2015-04-16",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=jS9e5WGuygA"
 }

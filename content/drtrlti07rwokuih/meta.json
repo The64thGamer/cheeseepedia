@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=H7l_w5AqKJ8",
+  "title": "Chuck E. Cheese - Springfield, PA Store Tour",
   "type": "Videos",
   "tags": [
     "Springfield, PA (371 Baltimore Pike)"
@@ -7,5 +7,6 @@
   "startDate": "2021-11-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=H7l_w5AqKJ8"
 }

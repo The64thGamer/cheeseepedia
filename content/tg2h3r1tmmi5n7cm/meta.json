@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=9g7rBKWxg2s",
+  "title": "TOUR: Atlanta, Georgia (Cumberland Blvd) Chuck E. Cheese",
   "type": "Videos",
   "tags": [
     "Atlanta, GA (2990 Cumberland Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2025-03-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=9g7rBKWxg2s"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=nL8tkeuIfOY",
+  "title": "Chuck E. Cheese - Out Of This World (Bridgewater, NJ)",
   "type": "Videos",
   "tags": [
     "Bridgewater, NJ (600 Promenade Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-09-11",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=nL8tkeuIfOY"
 }

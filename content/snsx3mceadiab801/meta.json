@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=PRT4km6PX58",
+  "title": "Chuck E. Cheese - Rockin' Robot (Bridgewater, NJ)",
   "type": "Videos",
   "tags": [
     "Bridgewater, NJ (600 Promenade Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-09-05",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=PRT4km6PX58"
 }

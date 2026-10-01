@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=U1imKEWlbJs",
+  "title": "Chuck E. Cheese - Every Boy Every Girl (Phoenix, AZ)",
   "type": "Videos",
   "tags": [
     "Phoenix, AZ (8039 North 35th Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-10-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=U1imKEWlbJs"
 }

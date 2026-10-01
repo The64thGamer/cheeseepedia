@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=U6T1hs_RVFc",
+  "title": "Chuck E. Cheese - Out Of This World (Tucson, AZ)",
   "type": "Videos",
   "tags": [
     "Tucson, AZ (6125 E Speedway Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2022-06-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=U6T1hs_RVFc"
 }

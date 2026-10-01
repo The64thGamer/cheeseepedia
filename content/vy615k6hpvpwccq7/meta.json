@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ucqxegaCV_Y",
+  "title": "Chuck E. Cheese - Out Of This World (Long Island City, NY)",
   "type": "Videos",
   "tags": [
     "Long Island City, NY (3419 48th St)"
@@ -7,5 +7,6 @@
   "startDate": "2022-10-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ucqxegaCV_Y"
 }

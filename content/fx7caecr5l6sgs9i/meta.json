@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=GQHvasoXxUM",
+  "title": "Chuck E. Cheese - Play All You Can Play (Milwaukee, WI)",
   "type": "Videos",
   "tags": [
     "Milwaukee, WI (2701 S Chase Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2024-02-07",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=GQHvasoXxUM"
 }

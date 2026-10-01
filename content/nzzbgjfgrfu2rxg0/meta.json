@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=o8NjCivsO0M",
+  "title": "January 2011 Show Segment 1",
   "type": "Videos",
   "tags": [
     "January 2011 Show",
@@ -8,5 +8,6 @@
   "startDate": "2011-04-22",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=o8NjCivsO0M"
 }

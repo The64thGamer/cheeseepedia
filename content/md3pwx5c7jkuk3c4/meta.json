@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=JSjpEUfWPb0",
+  "title": "Chuck E. Cheese - Chuck E 's Middle Name (Springfield, OH)",
   "type": "Videos",
   "tags": [
     "Springfield, OH (2345 Valley Loop Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-04-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=JSjpEUfWPb0"
 }

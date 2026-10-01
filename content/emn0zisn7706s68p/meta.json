@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=nz2fZC_KrPQ",
+  "title": "The History of Chuck E. Cheese in Mentor, Ohio",
   "type": "Videos",
   "tags": [
     "Mentor, OH (8000 Plaza Blvd)",
@@ -8,5 +8,6 @@
   "startDate": "2025-04-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=nz2fZC_KrPQ"
 }

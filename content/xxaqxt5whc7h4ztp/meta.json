@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=eEZpYrb_s7Q",
+  "title": "Chuck E. Cheese - Dream Big (Miamisburg, OH)",
   "type": "Videos",
   "tags": [
     "Miamisburg, OH (30 Prestige Place)"
@@ -7,5 +7,6 @@
   "startDate": "2018-07-07",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=eEZpYrb_s7Q"
 }

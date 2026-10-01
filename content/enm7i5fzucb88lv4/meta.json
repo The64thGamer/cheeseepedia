@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=jrZ8uQb8Igo",
+  "title": "Chuck E. Cheese - Fun (Miamisburg, OH)",
   "type": "Videos",
   "tags": [
     "Miamisburg, OH (30 Prestige Place)"
@@ -7,5 +7,6 @@
   "startDate": "2018-06-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=jrZ8uQb8Igo"
 }

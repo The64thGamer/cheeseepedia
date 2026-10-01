@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=C6m4R0ZIxTo",
+  "title": "Chuck E. Cheese - Chuck E Cha Cha (Orange, CT)",
   "type": "Videos",
   "tags": [
     "Chuck E. Cha Cha",
@@ -8,5 +8,6 @@
   "startDate": "2025-04-26",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=C6m4R0ZIxTo"
 }

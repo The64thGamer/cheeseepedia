@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=FLyDjjvsl5Q",
+  "title": "Beach Bear - Ballroom Dancing",
   "type": "Videos",
   "tags": [
     "Beach Bear (Animatronic)"
@@ -7,5 +7,6 @@
   "startDate": "2025-10-05",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=FLyDjjvsl5Q"
 }

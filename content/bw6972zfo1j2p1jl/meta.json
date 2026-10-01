@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=UR4s2dj2X-A",
+  "title": "Chuck E. Cheese - Let's Be Friends (Springfield, OH)",
   "type": "Videos",
   "tags": [
     "Springfield, OH (2345 Valley Loop Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2022-07-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=UR4s2dj2X-A"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=33OoDBBV9b0",
+  "title": "Chuck E. Cheese's - 1990's (Sharonville, OH)",
   "type": "Videos",
   "tags": [
     "Sharonville, OH (1429 E Kemper Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2017-04-26",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=33OoDBBV9b0"
 }

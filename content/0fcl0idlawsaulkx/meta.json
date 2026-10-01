@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=Y9edtlaAZeQ",
+  "title": "Chuck E. Cheese's - Do the Chuck E. (RM 2-Stage)",
   "type": "Videos",
   "tags": [
     "RetroMation",
@@ -8,5 +8,6 @@
   "startDate": "2026-07-03",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=Y9edtlaAZeQ"
 }

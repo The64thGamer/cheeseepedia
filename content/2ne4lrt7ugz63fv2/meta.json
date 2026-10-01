@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=SZ2Fm5wpmuY",
+  "title": "BillyCon VI: Come Meet Your Favorite YouTubers!",
   "type": "Videos",
   "tags": [
     "BillyCon VI"
@@ -7,5 +7,6 @@
   "startDate": "2026-05-07",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=SZ2Fm5wpmuY"
 }

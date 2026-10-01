@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=b9ueK3HAuAM",
+  "title": "Chuck E. Cheese - The Holiday Party (North Charleston, SC)",
   "type": "Videos",
   "tags": [
     "North Charleston, SC (7258 Rivers Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2025-11-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=b9ueK3HAuAM"
 }

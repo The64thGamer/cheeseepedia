@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=O5d13MiY4fM",
+  "title": "Chuck E. Cheese - I Dare You Not To Laugh (Edison, NJ)",
   "type": "Videos",
   "tags": [
     "Edison, NJ (1120 Route 1)"
@@ -7,5 +7,6 @@
   "startDate": "2021-06-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=O5d13MiY4fM"
 }

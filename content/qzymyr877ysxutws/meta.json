@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=gMYC_ikuvjU",
+  "title": "Billy Bob Sings ''Puff the Magic Dragon'' at Billy Bob's Wonderland",
   "type": "Videos",
   "tags": [
     "Billy Bob's Wonderland"
@@ -7,5 +7,6 @@
   "startDate": "2024-08-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=gMYC_ikuvjU"
 }

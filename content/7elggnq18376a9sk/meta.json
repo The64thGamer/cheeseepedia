@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=fTcTKCb2KLM",
+  "title": "Chuck E. Cheese - My Family (Florence, Ky)",
   "type": "Videos",
   "tags": [
     "Florence, KY (7635 Mall Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2020-07-08",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=fTcTKCb2KLM"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=gYNHSr7S_Ws",
+  "title": "Chuck E. Cheese - Chuck E. Cha Cha (Bridgewater, NJ)",
   "type": "Videos",
   "tags": [
     "Bridgewater, NJ (600 Promenade Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2024-04-19",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=gYNHSr7S_Ws"
 }

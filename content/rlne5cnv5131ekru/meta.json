@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=VwElFcXUtlM",
+  "title": "Billy Bob's Wonderland - 10 Years Ago (Summer 2015)",
   "type": "Videos",
   "tags": [
     "Billy Bob's Wonderland"
@@ -7,5 +7,6 @@
   "startDate": "2025-07-09",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=VwElFcXUtlM"
 }

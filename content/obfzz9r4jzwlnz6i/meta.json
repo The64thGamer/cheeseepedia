@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=7pRQLNrMC9U",
+  "title": "Pizzacam at Huntsville's 3-Stage",
   "type": "Videos",
   "tags": [
     "Huntsville, AL (1220 Jordan Lane)"
@@ -7,5 +7,6 @@
   "startDate": "2019-04-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=7pRQLNrMC9U"
 }

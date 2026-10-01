@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=xCKH68RRdag",
+  "title": "Chuck E. Cheese - Chuck E.'s Place Mashup (Eastgate, OH)",
   "type": "Videos",
   "tags": [
     "Cincinnati, OH (4394 Eastgate Square Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2017-11-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=xCKH68RRdag"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ITQLK-ahXCw",
+  "title": "Rock Afire Explosion - Gloria (Billy Con VI)",
   "type": "Videos",
   "tags": [
     "BillyCon VI"
@@ -7,5 +7,6 @@
   "startDate": "2026-07-29",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ITQLK-ahXCw"
 }

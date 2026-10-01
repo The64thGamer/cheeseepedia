@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=k1WNFbtRE_Y",
+  "title": "Chuck E. Cheese - Holiday Medley w/ Chuck E. World signals (Hampton, VA)",
   "type": "Videos",
   "tags": [
     "Hampton, VA (5 Towne Centre Way)"
@@ -7,5 +7,6 @@
   "startDate": "2023-12-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=k1WNFbtRE_Y"
 }

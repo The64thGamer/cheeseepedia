@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=tGksMqAwymg",
+  "title": "Chuck E Cheese's in Princeton - A Celebration of 20 Years",
   "type": "Videos",
   "tags": [
     "Princeton, NJ (520 Nassau Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-10-20",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=tGksMqAwymg"
 }

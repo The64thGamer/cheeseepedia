@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=vsok2lwo4DA",
+  "title": "Chuck E. Cheese - Pumpkin Patch (Deptford, NJ)",
   "type": "Videos",
   "tags": [
     "Deptford, NJ (1500 Almonesson Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-10-21",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=vsok2lwo4DA"
 }

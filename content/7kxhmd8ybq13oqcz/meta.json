@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=wsNxv33Rf6w",
+  "title": "Livin’ in the Sunlight performed by the S.S Beagle (Retromation)",
   "type": "Videos",
   "tags": [
     "RetroMation",
@@ -8,5 +8,6 @@
   "startDate": "2025-02-11",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=wsNxv33Rf6w"
 }

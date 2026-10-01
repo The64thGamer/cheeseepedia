@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=28H6UV_yQwA",
+  "title": "Chuck E. Cheese - Fargo, ND Showroom Tour",
   "type": "Videos",
   "tags": [
     "Fargo, ND (1202 Nodak Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2023-01-07",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=28H6UV_yQwA"
 }

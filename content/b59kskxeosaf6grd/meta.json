@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=Pq6Q1gHdfTk",
+  "title": "Chuck E. Cheese - Play All You Can Play (Altoona, PA)",
   "type": "Videos",
   "tags": [
     "Altoona, PA (3415 Pleasant Valley Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2024-03-09",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=Pq6Q1gHdfTk"
 }

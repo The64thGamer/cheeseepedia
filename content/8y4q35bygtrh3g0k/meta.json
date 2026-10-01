@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=tILrzC_hPfM",
+  "title": "Play All You Can Play - Chuck E. Cheese's East Orlando",
   "type": "Videos",
   "tags": [
     "Orlando (East), FL (449 N Alafaya Trail)"
@@ -7,5 +7,6 @@
   "startDate": "2019-07-22",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=tILrzC_hPfM"
 }

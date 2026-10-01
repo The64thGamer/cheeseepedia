@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=uWbAaLwDb8M",
+  "title": "Chuck E Cheese - Let's Have A Party (Miamisburg OH)",
   "type": "Videos",
   "tags": [
     "Miamisburg, OH (30 Prestige Place)"
@@ -7,5 +7,6 @@
   "startDate": "2018-01-03",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=uWbAaLwDb8M"
 }

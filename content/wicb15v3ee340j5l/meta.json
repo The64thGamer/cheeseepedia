@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=7Kik1Wfch-I",
+  "title": "Chuck E Cheese - The Tail of Jasper T. (Northridge, CA)",
   "type": "Videos",
   "tags": [
     "Northridge, CA (8425 Reseda Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-07-19",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=7Kik1Wfch-I"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=7B8AMFuY8c8",
+  "title": "Chuck E. Cheese - Altoona, PA Store Tour",
   "type": "Videos",
   "tags": [
     "Altoona, PA (3415 Pleasant Valley Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-01-28",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=7B8AMFuY8c8"
 }

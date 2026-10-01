@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=QtSyavTdlT0",
+  "title": "Chuck E. Cheese - My Family (Greenwood, IN)",
   "type": "Videos",
   "tags": [
     "Indianapolis (Greenwood), IN (8804 US 31)"
@@ -7,5 +7,6 @@
   "startDate": "2019-07-31",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=QtSyavTdlT0"
 }

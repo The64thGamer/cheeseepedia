@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=7LTI_slH_Rc",
+  "title": "Chuck E. Cheese - Me & My Friends (Northridge, CA)",
   "type": "Videos",
   "tags": [
     "Northridge, CA (8425 Reseda Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-07-26",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=7LTI_slH_Rc"
 }

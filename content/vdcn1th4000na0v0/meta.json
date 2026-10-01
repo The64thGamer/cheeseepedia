@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=DBcmP9AO0sE",
+  "title": "In The Future - Chuck E. Cheese's West Melbourne",
   "type": "Videos",
   "tags": [
     "West Melbourne, FL (2250 Coastal Lane)"
@@ -7,5 +7,6 @@
   "startDate": "2016-06-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=DBcmP9AO0sE"
 }

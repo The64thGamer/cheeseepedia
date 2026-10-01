@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=NeF2GEJcGK4",
+  "title": "Chuck E. Cheese - Chuck E.'s Middle Name (Springfield, IL)",
   "type": "Videos",
   "tags": [
     "Springfield, IL (2369 McArthur Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2024-01-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=NeF2GEJcGK4"
 }

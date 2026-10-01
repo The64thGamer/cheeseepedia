@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=KIFNZoOWAZw",
+  "title": "Chuck E. Cheese - Together We Got It (Phoenix, AZ)",
   "type": "Videos",
   "tags": [
     "Phoenix, AZ (8039 North 35th Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-01-03",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=KIFNZoOWAZw"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=QwY21cAz4cE",
+  "title": "Chuck E. Cheese - Up Close & Personal with Snyder's 2 Stage",
   "type": "Videos",
   "tags": [
     "Philadelphia, PA (9 Snyder Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2021-03-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=QwY21cAz4cE"
 }

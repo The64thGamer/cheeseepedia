@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=wiNrkogKOhE",
+  "title": "Chuck E. Cheese - The Tail of Jasper T. (Bayamon, PR)",
   "type": "Videos",
   "tags": [
     "Bayamon, Puerto Rico (Rexville Town Center)"
@@ -7,5 +7,6 @@
   "startDate": "2021-02-21",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=wiNrkogKOhE"
 }

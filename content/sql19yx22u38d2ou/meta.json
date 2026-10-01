@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=wcrxh9CAXFo",
+  "title": "Chuck E. Cheese - Jasper's Country Classic (Pineville, NC)",
   "type": "Videos",
   "tags": [
     "Charlotte, NC (7701 Pineville-Matthews Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2026-01-31",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=wcrxh9CAXFo"
 }

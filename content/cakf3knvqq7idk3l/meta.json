@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=EWhjAwlphBY",
+  "title": "Chuck E. Cheese - Nobody There (Tinley Park, IL)",
   "type": "Videos",
   "tags": [
     "Tinley Park, IL (16090 S Harlem Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2021-10-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=EWhjAwlphBY"
 }

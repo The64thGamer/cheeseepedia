@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ozqRouywBDw",
+  "title": "Chuck E. Cheese - Play All You Can Play (West Des Monies, IA)",
   "type": "Videos",
   "tags": [
     "West Des Moines, IA (1431 22nd St)"
@@ -7,5 +7,6 @@
   "startDate": "2023-08-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ozqRouywBDw"
 }

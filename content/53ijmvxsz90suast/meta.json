@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=awsZwCAzcr4",
+  "title": "Chuck E. Cheese - Show Errors (Greenwood, IN)",
   "type": "Videos",
   "tags": [
     "Indianapolis (Greenwood), IN (8804 US 31)"
@@ -7,5 +7,6 @@
   "startDate": "2026-08-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=awsZwCAzcr4"
 }

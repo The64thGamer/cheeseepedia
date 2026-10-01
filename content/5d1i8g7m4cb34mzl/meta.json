@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=rWZjEsPz9ro",
+  "title": "Chuck E. Cheese - Let's Have A Party (Sharonville, OH)",
   "type": "Videos",
   "tags": [
     "Sharonville, OH (1429 E Kemper Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2017-07-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=rWZjEsPz9ro"
 }

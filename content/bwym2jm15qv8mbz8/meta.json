@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=sI3eqf4sP4o",
+  "title": "Chuck E. Cheese - Ticket Muncher Princeton, NJ",
   "type": "Videos",
   "tags": [
     "Princeton, NJ (520 Nassau Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2020-09-29",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=sI3eqf4sP4o"
 }

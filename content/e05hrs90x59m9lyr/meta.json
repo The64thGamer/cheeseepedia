@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=MnsPdT2nNHU",
+  "title": "Chuck E. Cheese - Out of This World (Princeton, NJ)",
   "type": "Videos",
   "tags": [
     "Princeton, NJ (520 Nassau Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2022-06-15",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=MnsPdT2nNHU"
 }

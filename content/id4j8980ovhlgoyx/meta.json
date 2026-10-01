@@ -1,5 +1,5 @@
 {
-  "title": "Scott Cawthon FNaF Gameplay",
+  "title": "<h2>Video Details</h2> Title: '' Five Nights at Freddy's Gameplay '' Description: ''Gameplay video from the upcoming game Five Nights at Freddy's!''",
   "startDate": "2014-08-08",
   "contributors": [
     "sudo-trans-pony"
@@ -30,5 +30,6 @@
     "West Hall",
     "Cupcake"
   ],
-  "type": "Videos"
+  "type": "Videos",
+  "pageThumbnailVideo": "Scott Cawthon FNaF Gameplay"
 }

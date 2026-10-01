@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=Trw6dJqGnKs",
+  "title": "Chuck E. Cheese's - Keep Drummin' (RM 3-Stage)",
   "type": "Videos",
   "tags": [
     "RetroMation",
@@ -8,5 +8,6 @@
   "startDate": "2026-02-11",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=Trw6dJqGnKs"
 }

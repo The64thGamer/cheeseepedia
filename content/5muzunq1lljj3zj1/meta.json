@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=uIIJnsCoZGA",
+  "title": "Chuck E. Cheese - Lend a Helping Hand (Sun Valley, CA)",
   "type": "Videos",
   "tags": [
     "Sun Valley, CA (8357 Laurel Canyon Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2024-07-08",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=uIIJnsCoZGA"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=f977YqDYlUw",
+  "title": "TOUR: Valley Stream, NY Chuck E. Cheese (New 2.0 Build)",
   "type": "Videos",
   "tags": [
     "Valley Stream, NY (750 Sunrise Hwy Suite 105)"
@@ -7,5 +7,6 @@
   "startDate": "2026-01-20",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=f977YqDYlUw"
 }

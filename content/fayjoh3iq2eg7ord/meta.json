@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=IvpGi5QEMl8",
+  "title": "Chuck E. Cheese - Out of This World (Edison, NJ)",
   "type": "Videos",
   "tags": [
     "Edison, NJ (1120 Route 1)"
@@ -7,5 +7,6 @@
   "startDate": "2022-08-03",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=IvpGi5QEMl8"
 }

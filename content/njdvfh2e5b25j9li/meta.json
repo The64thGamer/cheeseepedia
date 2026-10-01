@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=n0cFxVyiV7c",
+  "title": "Chuck E. Cheese - Friendship Never Ends (Phoenix, AZ)",
   "type": "Videos",
   "tags": [
     "Phoenix, AZ (8039 North 35th Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2021-07-26",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=n0cFxVyiV7c"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=JW5290svNF8",
+  "title": "Chuck E. Cheese - Let's Be Friends (Princeton, NJ)",
   "type": "Videos",
   "tags": [
     "Princeton, NJ (520 Nassau Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2022-06-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=JW5290svNF8"
 }

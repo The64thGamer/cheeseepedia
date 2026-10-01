@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=4zQna2p07Dc",
+  "title": "Chuck E. Cheese - Keep Drummin' (Springfield, IL)",
   "type": "Videos",
   "tags": [
     "Springfield, IL (2369 McArthur Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2025-03-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=4zQna2p07Dc"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=4kGpvWJcTnE",
+  "title": "Chuck E. Cheese - Bootastic Dance (Princeton, NJ)",
   "type": "Videos",
   "tags": [
     "Princeton, NJ (520 Nassau Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-09-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=4kGpvWJcTnE"
 }

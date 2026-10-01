@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=VZW7PAZHEBM",
+  "title": "Chuck E. Cheese - Disco Dancing Dinosaur Party (Rockford, IL)",
   "type": "Videos",
   "tags": [
     "Rockford, IL (3600 E State St)"
@@ -7,5 +7,6 @@
   "startDate": "2020-03-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=VZW7PAZHEBM"
 }

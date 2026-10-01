@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=mGR5KsOJbWg",
+  "title": "August 1999 Show - Studio C (Ultrawide | 60fps | 3 Feeds)",
   "type": "Videos",
   "tags": [
     "August 1999"
@@ -7,5 +7,6 @@
   "startDate": "2025-04-11",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=mGR5KsOJbWg"
 }

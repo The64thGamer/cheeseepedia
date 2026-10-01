@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=XBhp3cAddxI",
+  "title": "Chuck E. Cheese - Game On! (Wyomissing,PA)",
   "type": "Videos",
   "tags": [
     "Wyomissing, PA (2721 N Meridian Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2025-02-15",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=XBhp3cAddxI"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=J_OZckJZV4I",
+  "title": "Chuck E. Cheese - Holiday Fiesta (Florence, Ky)",
   "type": "Videos",
   "tags": [
     "Florence, KY (7635 Mall Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-11-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=J_OZckJZV4I"
 }

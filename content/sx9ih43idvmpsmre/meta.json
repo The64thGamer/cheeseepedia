@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=-CKCHQb7WX0",
+  "title": "Chuck E. Cheese - Down the Road (Springfield, OH)",
   "type": "Videos",
   "tags": [
     "Springfield, OH (2345 Valley Loop Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2022-06-22",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=-CKCHQb7WX0"
 }

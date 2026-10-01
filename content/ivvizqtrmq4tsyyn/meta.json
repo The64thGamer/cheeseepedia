@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=lUpgfnArPWw",
+  "title": "Chuck E. Cheese - Laughter is the best Medience (Columbus Macsway, OH)",
   "type": "Videos",
   "tags": [
     "Columbus, OH (4284 Macsway Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2020-03-04",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=lUpgfnArPWw"
 }

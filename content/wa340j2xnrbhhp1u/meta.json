@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=Y4BcdJRR0iE",
+  "title": "Hip Mouse",
   "type": "Videos",
   "tags": [
     "Tampa, FL (14308 Dale Mabry Hwy)",
@@ -8,5 +8,6 @@
   "startDate": "2020-07-16",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=Y4BcdJRR0iE"
 }

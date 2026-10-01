@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=qVE58upU4kQ",
+  "title": "Chuck E. Cheese - Keep Drummin' (Laurel MD)",
   "type": "Videos",
   "tags": [
     "Laurel, MD (936 Fairlawn Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-06-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=qVE58upU4kQ"
 }

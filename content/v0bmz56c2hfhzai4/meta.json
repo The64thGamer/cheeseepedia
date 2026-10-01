@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=YOk2lvhnXic",
+  "title": "Chuck E. Cheese - Chasing Me a Truck (Toledo Airport, OH)",
   "type": "Videos",
   "tags": [
     "Toledo, OH (5455 Airport Hwy)"
@@ -7,5 +7,6 @@
   "startDate": "2026-09-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=YOk2lvhnXic"
 }

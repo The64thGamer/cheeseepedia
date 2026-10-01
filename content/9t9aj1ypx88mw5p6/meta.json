@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=3viyPSGySNI",
+  "title": "Chuck E. Cheese - Jasper's Country Classic (Miamisburg, OH)",
   "type": "Videos",
   "tags": [
     "Miamisburg, OH (30 Prestige Place)"
@@ -7,5 +7,6 @@
   "startDate": "2018-06-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=3viyPSGySNI"
 }

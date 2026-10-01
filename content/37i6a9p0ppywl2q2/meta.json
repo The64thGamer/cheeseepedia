@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=fmX89ujoau8",
+  "title": "My Family - Huntsville, AL Chuck E. Cheese's",
   "type": "Videos",
   "tags": [
     "Huntsville, AL (1220 Jordan Lane)"
@@ -7,5 +7,6 @@
   "startDate": "2019-08-28",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=fmX89ujoau8"
 }

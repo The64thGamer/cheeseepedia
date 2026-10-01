@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=2FEEiz1_vMc",
+  "title": "Chuck E Cheese - Merry Christmastime (North Bergen, NJ)",
   "type": "Videos",
   "tags": [
     "North Bergen, NJ (8101 Tonelle Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2021-12-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=2FEEiz1_vMc"
 }

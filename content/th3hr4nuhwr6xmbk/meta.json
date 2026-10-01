@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=kVNlDtfeikk",
+  "title": "Chuck E. Cheese - Ocala, FL Store Tour",
   "type": "Videos",
   "tags": [
     "Ocala, FL (2463 SW 27th Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-01-05",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=kVNlDtfeikk"
 }

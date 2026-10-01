@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=vNceZdtlfag",
+  "title": "Chuck E Cheese - If Everyone Were Chuck E. (Springfield, OH)",
   "type": "Videos",
   "tags": [
     "Springfield, OH (2345 Valley Loop Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2017-11-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=vNceZdtlfag"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=IXHY5srcvtI",
+  "title": "Chuck E. Cheese - Fun! (Spartanburg, SC)",
   "type": "Videos",
   "tags": [
     "Spartanburg, SC (660 Spartan Blvd #250)"
@@ -7,5 +7,6 @@
   "startDate": "2021-06-19",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=IXHY5srcvtI"
 }

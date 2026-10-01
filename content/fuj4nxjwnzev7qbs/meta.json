@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=3ZTfF81y2C0",
+  "title": "Chuck E. Cheese - I Didn't Need To Be Afraid (Sharonville, OH)",
   "type": "Videos",
   "tags": [
     "Sharonville, OH (1429 E Kemper Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2018-11-03",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=3ZTfF81y2C0"
 }

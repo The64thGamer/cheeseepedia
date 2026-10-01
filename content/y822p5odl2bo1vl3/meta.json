@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=9TmDer9XvSw",
+  "title": "Chuck E. Cheese - Your Birthdays Are Special (Wilmington, NC)",
   "type": "Videos",
   "tags": [
     "Wilmington, NC (4389 Oleander Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2018-07-21",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=9TmDer9XvSw"
 }

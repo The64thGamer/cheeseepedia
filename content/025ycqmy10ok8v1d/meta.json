@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=G5kVtJBKrAo",
+  "title": "Chuck E. Cheese - Rockin' Robot (Avon, IN)",
   "type": "Videos",
   "tags": [
     "Avon, IN (9931 E US Hwy 36)"
@@ -7,5 +7,6 @@
   "startDate": "2026-05-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=G5kVtJBKrAo"
 }

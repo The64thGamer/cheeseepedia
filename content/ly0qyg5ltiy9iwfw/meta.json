@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=b76sk5FaEAs",
+  "title": "Chuck E. Cheese - Mentor, OH Store Tour",
   "type": "Videos",
   "tags": [
     "Mentor, OH (8000 Plaza Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-09-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=b76sk5FaEAs"
 }

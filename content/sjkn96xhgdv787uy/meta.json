@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=K9pZa0rjxYY",
+  "title": "Chuck E. Cheese - Game On! (Eastgate, OH)",
   "type": "Videos",
   "tags": [
     "Cincinnati, OH (4394 Eastgate Square Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2020-01-15",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=K9pZa0rjxYY"
 }

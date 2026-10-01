@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=2ETCJvwUsnM",
+  "title": "TOUR: Henderson, Nevada Chuck E. Cheese",
   "type": "Videos",
   "tags": [
     "Henderson, NV (1521 W Sunset Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2025-06-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=2ETCJvwUsnM"
 }

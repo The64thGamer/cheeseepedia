@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=_S-b9C2uUgk",
+  "title": "Chuck E. Cheese - Zorp-Ah-Glorp Dor-Bah Is Coming Tonight (Deptford, NJ)",
   "type": "Videos",
   "tags": [
     "Deptford, NJ (1500 Almonesson Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2020-12-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=_S-b9C2uUgk"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=qyFWE77E-ew",
+  "title": "Chuck E. Cheese - Jasper's Country Classic (Colerain, OH)",
   "type": "Videos",
   "tags": [
     "Cincinnati, OH (8801 Colerain Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2018-09-05",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=qyFWE77E-ew"
 }

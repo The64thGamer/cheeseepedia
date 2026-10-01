@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=liW9RQOaLh8",
+  "title": "A Short Tour of Hialeah, FL - Chuck E. Cheese's",
   "type": "Videos",
   "tags": [
     "Hialeah, FL (3805 W 20th Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2015-07-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=liW9RQOaLh8"
 }

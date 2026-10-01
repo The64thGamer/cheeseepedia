@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=1Gm5TUENG0U",
+  "title": "Chuck E. Cheese - Keep Drummin' (Mentor, OH)",
   "type": "Videos",
   "tags": [
     "Mentor, OH (8000 Plaza Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-09-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=1Gm5TUENG0U"
 }

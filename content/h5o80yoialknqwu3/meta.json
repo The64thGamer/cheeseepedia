@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=kx-ioSrv13g",
+  "title": "Chuck E. Cheese's - Keep Drummin' (Colerain, OH)",
   "type": "Videos",
   "tags": [
     "Cincinnati, OH (8801 Colerain Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-07-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=kx-ioSrv13g"
 }

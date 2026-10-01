@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=Q7P25hdLnU4",
+  "title": "Chuck E. Cheese - El Rey Guitarrista (West Des Monies, IA)",
   "type": "Videos",
   "tags": [
     "West Des Moines, IA (1431 22nd St)"
@@ -7,5 +7,6 @@
   "startDate": "2024-01-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=Q7P25hdLnU4"
 }

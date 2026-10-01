@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=IrjQBgXA1qM",
+  "title": "Chuck E. Cheese - Out Of This World (Colerain, OH)",
   "type": "Videos",
   "tags": [
     "Cincinnati, OH (8801 Colerain Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2019-08-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=IrjQBgXA1qM"
 }

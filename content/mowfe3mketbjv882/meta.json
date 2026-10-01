@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=6MnXKULKHDg",
+  "title": "Let's Dance",
   "type": "Videos",
   "tags": [
     "Chuck E's Variety Show - Best of 1999",
@@ -8,5 +8,6 @@
   "startDate": "2020-07-19",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=6MnXKULKHDg"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=nUpXumT5tes",
+  "title": "Chuck E. Cheese - Together We've Got It (Cherry Hill, NJ)",
   "type": "Videos",
   "tags": [
     "Cherry Hill, NJ (2100 Rt 38)"
@@ -7,5 +7,6 @@
   "startDate": "2022-03-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=nUpXumT5tes"
 }

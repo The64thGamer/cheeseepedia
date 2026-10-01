@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=aNCXy2lskZ0",
+  "title": "Chuck E. Cheese - Dog Days of Summer (Warrington, PA)",
   "type": "Videos",
   "tags": [
     "Warrington, PA (1661 Easton Rd B-2)"
@@ -7,5 +7,6 @@
   "startDate": "2026-06-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=aNCXy2lskZ0"
 }

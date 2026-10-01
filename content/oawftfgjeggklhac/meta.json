@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=VCjsuvQjOxM",
+  "title": "Chuck E. Cheese's - In The Future (Road Stage)",
   "type": "Videos",
   "tags": [
     "RetroMation",
@@ -8,5 +8,6 @@
   "startDate": "2025-02-19",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=VCjsuvQjOxM"
 }

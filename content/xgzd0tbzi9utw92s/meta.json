@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=V4-xpWzdrjI",
+  "title": "Chuck E. Cheese - I Didn't Need To Be Afraid (Princeton, NJ)",
   "type": "Videos",
   "tags": [
     "Princeton, NJ (520 Nassau Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-09-11",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=V4-xpWzdrjI"
 }

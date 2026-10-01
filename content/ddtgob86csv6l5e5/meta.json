@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=SaYCRTdfpGk",
+  "title": "Chuck E. Cheese - Jasper's Country Classic (North Bergen, NJ)",
   "type": "Videos",
   "tags": [
     "North Bergen, NJ (8101 Tonelle Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-05-28",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=SaYCRTdfpGk"
 }

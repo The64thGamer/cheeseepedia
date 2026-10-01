@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=nytxn_fmehc",
+  "title": "A newscast on the [Westbury, NY (737 Merrick Ave)] Gadgets restaurant, featuring Sammy Sands and The Looney Tunes Revue.",
   "type": "Videos",
   "pageThumbnailFile": "",
   "downloadLinks": [],
@@ -27,5 +27,6 @@
   "showtapeFormats": [],
   "contributors": [
     "ThatRockHistorian76"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=nytxn_fmehc"
 }

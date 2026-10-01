@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=vGxrqAavHDk",
+  "title": "Chuck E. Cheese - Trick or Treat (Sharonville, OH)",
   "type": "Videos",
   "tags": [
     "Sharonville, OH (1429 E Kemper Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-10-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=vGxrqAavHDk"
 }

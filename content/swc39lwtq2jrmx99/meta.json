@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=FjYFYSNMssQ",
+  "title": "Best of CEC TV 2008 Segment 1 (Go To Chuck E. Cheese)",
   "type": "Videos",
   "tags": [
     "Best of CEC TV 2008",
@@ -8,5 +8,6 @@
   "startDate": "2024-10-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=FjYFYSNMssQ"
 }

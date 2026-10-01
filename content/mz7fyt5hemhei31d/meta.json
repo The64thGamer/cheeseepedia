@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=VJj4veFzkLs",
+  "title": "Chuck E. Cheese - Another Chuck E Day (Florence, KY)",
   "type": "Videos",
   "tags": [
     "Florence, KY (7635 Mall Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2018-03-14",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=VJj4veFzkLs"
 }

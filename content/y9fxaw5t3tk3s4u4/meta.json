@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=zjHCw32c-T0",
+  "title": "Chuck E. Cheese - Do Re Mi (Annapolis, MD)",
   "type": "Videos",
   "tags": [
     "Annapolis, MD (2333-A Forest Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2024-03-23",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=zjHCw32c-T0"
 }

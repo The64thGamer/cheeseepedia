@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=XtJMrPscLcA",
+  "title": "Chuck E. Cheese - Crochet All Day (Altoona, PA)",
   "type": "Videos",
   "tags": [
     "Altoona, PA (3415 Pleasant Valley Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2022-11-05",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=XtJMrPscLcA"
 }

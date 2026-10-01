@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=DT6sJd3mb_s",
+  "title": "Chuck E Cheese - Keep Drummin' (North Bergen, NJ)",
   "type": "Videos",
   "tags": [
     "North Bergen, NJ (8101 Tonelle Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-05-04",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=DT6sJd3mb_s"
 }

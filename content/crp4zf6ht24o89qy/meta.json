@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=vvBkzNzfqiY",
+  "title": "Chuck E. Cheese - Gamin' Time (Lansing, MI)",
   "type": "Videos",
   "tags": [
     "Lansing, MI (5451 L West Saginaw Hwy)"
@@ -7,5 +7,6 @@
   "startDate": "2023-06-22",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=vvBkzNzfqiY"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=LBdFnstM7jA",
+  "title": "Interview with Aaron Fechter",
   "type": "Videos",
   "tags": [
     "Orlando, FL (47 W Jefferson St)",
@@ -8,5 +8,6 @@
   "startDate": "2015-05-26",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=LBdFnstM7jA"
 }

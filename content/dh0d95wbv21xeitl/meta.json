@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=wqgUDXIqm7g",
+  "title": "Chuck E. Cheese's - Chuck E.'s Rockin' Rhymes Segment 3 (RM 3-Stage)",
   "type": "Videos",
   "tags": [
     "Chuck E's Rockin' Rhymes",
@@ -8,5 +8,6 @@
   "startDate": "2026-05-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=wqgUDXIqm7g"
 }

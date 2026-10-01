@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=PCvwRWnI5q0",
+  "title": "Chuck E. Cheese - It's Gotta Be Halloween (Hicksville, NY)",
   "type": "Videos",
   "tags": [
     "Hicksville, NY (Delco Plaza 11-15 Hanover Place)"
@@ -7,5 +7,6 @@
   "startDate": "2024-09-07",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=PCvwRWnI5q0"
 }

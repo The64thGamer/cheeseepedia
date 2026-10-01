@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ZoG3Z3jb_hc",
+  "title": "Chuck E. Cheese's - Snowman (Phoenix, AZ)",
   "type": "Videos",
   "tags": [
     "Phoenix, AZ (8039 North 35th Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-11-14",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ZoG3Z3jb_hc"
 }

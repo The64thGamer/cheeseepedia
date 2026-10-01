@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=1Lgcn3PwrOo",
+  "title": "Chuck E. Cheese - Zorp-Ah-Glorp Dor-Bah Is Coming Tonight (Springfield, OH)",
   "type": "Videos",
   "tags": [
     "Springfield, OH (2345 Valley Loop Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2019-12-14",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=1Lgcn3PwrOo"
 }

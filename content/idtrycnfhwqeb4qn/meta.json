@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=6gZdiJyO4pQ",
+  "title": "Chuck E. Cheese - Share the Joy (Miamisburg, OH)",
   "type": "Videos",
   "tags": [
     "Miamisburg, OH (30 Prestige Place)"
@@ -7,5 +7,6 @@
   "startDate": "2020-12-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=6gZdiJyO4pQ"
 }

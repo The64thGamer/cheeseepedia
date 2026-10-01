@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=0_zR3uUiGCY",
+  "title": "Crater Corner - Bop It",
   "type": "Videos",
   "tags": [
     "Crater Corner / Rockaria"
@@ -7,5 +7,6 @@
   "startDate": "2025-11-24",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=0_zR3uUiGCY"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ziOQLrOB50s",
+  "title": "My Jasper Performs ''Dog Days of Summer''",
   "type": "Videos",
   "tags": [
     "Jasper T. Jowls (Cyberamic)"
@@ -7,5 +7,6 @@
   "startDate": "2026-06-29",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ziOQLrOB50s"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=TjzUKIdVuY0",
+  "title": "Chuck E. March",
   "type": "Videos",
   "tags": [
     "Chuck E. March",
@@ -8,5 +8,6 @@
   "startDate": "2020-06-23",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=TjzUKIdVuY0"
 }

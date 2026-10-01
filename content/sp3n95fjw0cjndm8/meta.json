@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=XiPLlzBr8B8",
+  "title": "The History of Chuck E. Cheese in Jackson, Mississippi",
   "type": "Videos",
   "tags": [
     "Jackson, MS (5465 I-55)"
@@ -7,5 +7,6 @@
   "startDate": "2025-07-04",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=XiPLlzBr8B8"
 }

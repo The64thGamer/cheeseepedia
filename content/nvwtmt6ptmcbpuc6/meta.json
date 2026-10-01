@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=1V-u6wvBR30",
+  "title": "Chuck E. Cheese - Jasper's Country Classic (Laurel, MD)",
   "type": "Videos",
   "tags": [
     "Laurel, MD (936 Fairlawn Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-02-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=1V-u6wvBR30"
 }

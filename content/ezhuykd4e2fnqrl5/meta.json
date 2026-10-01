@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=nLO9p3Ytew0",
+  "title": "Chuck E. Cheese - El Rey Guitarrista (Laurel, MD)",
   "type": "Videos",
   "tags": [
     "Laurel, MD (936 Fairlawn Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-01-26",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=nLO9p3Ytew0"
 }

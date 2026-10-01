@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=x9tL87ooA_Q",
+  "title": "Chuck E. Cheese's - Let's Play Some Games for the Holidays (Colerain, OH)",
   "type": "Videos",
   "tags": [
     "Cincinnati, OH (8801 Colerain Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2020-11-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=x9tL87ooA_Q"
 }

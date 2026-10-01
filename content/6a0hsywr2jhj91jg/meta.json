@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=2d8q_4y8hL4",
+  "title": "Chuck E. Cheese - It's the 70s (Wyomissing, PA)",
   "type": "Videos",
   "tags": [
     "Wyomissing, PA (2721 N Meridian Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2023-05-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=2d8q_4y8hL4"
 }

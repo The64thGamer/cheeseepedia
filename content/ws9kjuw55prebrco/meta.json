@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=YTIIuJNiEwg",
+  "title": "Chuck E. Cheese - Wilmington Random Movements V2",
   "type": "Videos",
   "tags": [
     "Wilmington, NC (4389 Oleander Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2019-07-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=YTIIuJNiEwg"
 }

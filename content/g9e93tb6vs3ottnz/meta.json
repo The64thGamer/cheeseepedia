@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=SnjszOWevTE",
+  "title": "Chuck E. Cheese - Milwaukee, WI, Store Tour",
   "type": "Videos",
   "tags": [
     "Milwaukee, WI (2701 S Chase Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2023-02-22",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=SnjszOWevTE"
 }

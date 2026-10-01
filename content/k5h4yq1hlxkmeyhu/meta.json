@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=msT61XwfMeA",
+  "title": "Pizza Time Theatre - Chuck E. Cheese Live!",
   "type": "Videos",
   "tags": [
     "Chuck E. Cheese Live",
@@ -8,5 +8,6 @@
   "startDate": "2026-07-08",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=msT61XwfMeA"
 }

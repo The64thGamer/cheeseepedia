@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ej3-0OlEXuY",
+  "title": "Chuck E. Cheese - Play All You Can Play (Laurel, MD)",
   "type": "Videos",
   "tags": [
     "Laurel, MD (936 Fairlawn Ave)"
@@ -7,5 +7,6 @@
   "startDate": "2022-01-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ej3-0OlEXuY"
 }

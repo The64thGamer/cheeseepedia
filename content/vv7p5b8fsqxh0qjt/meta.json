@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=BDvYYYpJrVo",
+  "title": "Rockin' Robot - South Austin, TX Chuck E. Cheese's",
   "type": "Videos",
   "tags": [
     "Austin, TX (9811 S I-35)"
@@ -7,5 +7,6 @@
   "startDate": "2019-08-28",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=BDvYYYpJrVo"
 }

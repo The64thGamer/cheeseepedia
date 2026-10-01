@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=NL3frF0F5o4",
+  "title": "Chuck E. Cheese - Let's Have a Party (Florence, Ky)",
   "type": "Videos",
   "tags": [
     "Florence, KY (7635 Mall Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2021-01-23",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=NL3frF0F5o4"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=62VPnRhcyBA",
+  "title": "TV Jones Diagnostics - Crater Corner",
   "type": "Videos",
   "tags": [
     "Crater Corner / Rockaria",
@@ -8,5 +8,6 @@
   "startDate": "2025-03-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=62VPnRhcyBA"
 }

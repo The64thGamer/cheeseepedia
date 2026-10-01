@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=5_Eq6mkyBiY",
+  "title": "Blue Screen Intro",
   "type": "Videos",
   "tags": [
     "Orlando (West), FL (7456 West Colonial Dr)"
@@ -7,5 +7,6 @@
   "startDate": "2025-11-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=5_Eq6mkyBiY"
 }

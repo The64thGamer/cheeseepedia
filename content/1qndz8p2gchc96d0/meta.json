@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ciRsg9XbHos",
+  "title": "America LIVE ‘99",
   "type": "Videos",
   "tags": [
     "Tampa, FL (14308 Dale Mabry Hwy)",
@@ -8,5 +8,6 @@
   "startDate": "2020-06-23",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ciRsg9XbHos"
 }

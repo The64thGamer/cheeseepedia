@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=JbzmjkwMuuE",
+  "title": "Chuck E. Cheese's - How Sweet It Is (September 2001 Show)",
   "type": "Videos",
   "tags": [
     "September 2001 Show"
@@ -7,5 +7,6 @@
   "startDate": "2024-10-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=JbzmjkwMuuE"
 }

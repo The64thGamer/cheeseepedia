@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=83ZHxBXOnkM",
+  "title": "TOUR: Deptford, New Jersey Chuck E. Cheese",
   "type": "Videos",
   "tags": [
     "Deptford, NJ (1500 Almonesson Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2025-09-08",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=83ZHxBXOnkM"
 }

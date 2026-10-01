@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=Td9ZHX8WGnE",
+  "title": "Chuck E. Cheese - Some of I Love Sparkles! (Hicksville, NY)",
   "type": "Videos",
   "tags": [
     "Hicksville, NY (Delco Plaza 11-15 Hanover Place)"
@@ -7,5 +7,6 @@
   "startDate": "2024-07-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=Td9ZHX8WGnE"
 }

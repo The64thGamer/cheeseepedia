@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=gxeVbmVsfrs",
+  "title": "Chuck E. Cheese - Join the Party (Princeton, NJ)",
   "type": "Videos",
   "tags": [
     "Princeton, NJ (520 Nassau Park Blvd)"
@@ -7,5 +7,6 @@
   "startDate": "2022-06-04",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=gxeVbmVsfrs"
 }

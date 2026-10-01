@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=uskuNjxY85Y",
+  "title": "Chuck E. Cheese - Fun (Sharonville, OH)",
   "type": "Videos",
   "tags": [
     "Sharonville, OH (1429 E Kemper Rd)"
@@ -7,5 +7,6 @@
   "startDate": "2018-05-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=uskuNjxY85Y"
 }

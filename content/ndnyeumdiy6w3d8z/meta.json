@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=GEVSvUr2twk",
+  "title": "Chuck E. Cheese - It's the 70s (Akron, OH)",
   "type": "Videos",
   "tags": [
     "Akron, OH (2779 West Market St)"
@@ -7,5 +7,6 @@
   "startDate": "2022-04-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=GEVSvUr2twk"
 }

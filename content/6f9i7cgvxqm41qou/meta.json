@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=SFzQzgW5gdU",
+  "title": "Chuck E. Cheese - Rockin' Robot, Fun For All, Dancin' Kitten (Hicksville, NY)",
   "type": "Videos",
   "tags": [
     "Hicksville, NY (Delco Plaza 11-15 Hanover Place)"
@@ -7,5 +7,6 @@
   "startDate": "2024-07-23",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=SFzQzgW5gdU"
 }

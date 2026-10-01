@@ -1,5 +1,5 @@
 {
-  "title": "https://www.youtube.com/watch?v=ykTN1YRPZeM",
+  "title": "Chuck E. Cheese - Halloween Night (Hicksville, NY)",
   "type": "Videos",
   "tags": [
     "Hicksville, NY (Delco Plaza 11-15 Hanover Place)"
@@ -7,5 +7,6 @@
   "startDate": "2024-09-21",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=ykTN1YRPZeM"
 }
