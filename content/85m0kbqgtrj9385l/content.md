@@ -1,0 +1,13 @@
+[0:38] [Music]
+[0:38] [Applause]
+[0:40] [Music]
+[1:28] [Music]
+[1:28] oh oh
+[2:26] [Music]
+[2:26] [Applause]
+[2:30] [Music]
+[2:33] [Applause]
+[2:35] [Music]
+[2:35] [Applause]
+[2:40] [Music]
+[2:40] [Applause]

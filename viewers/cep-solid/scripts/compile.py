@@ -261,37 +261,62 @@ def youtube_id(url):
 
 
 def vtt_to_text(vtt):
-    lines = []
-    for line in vtt.splitlines():
-        line = line.strip()
-        if not line or "-->" in line or line.startswith(("WEBVTT", "Kind:", "Language:", "NOTE")):
+    out, prev = [], set()
+    for block in re.split(r"\n\s*\n", vtt.replace("\r", "")):
+        lines = block.strip().split("\n")
+        idx = next((i for i, l in enumerate(lines) if "-->" in l), None)
+        if idx is None:
             continue
-        line = html.unescape(re.sub(r"<[^>]+>", "", line)).strip()
-        if line and (not lines or lines[-1] != line):
-            lines.append(line)
-    text = re.sub(r"[\x00-\x1f\x7f]+", " ", " ".join(lines)).replace("\\", "")
-    return re.sub(r"\s+", " ", text).strip()
-
+        m = re.match(r"(?:(\d+):)?(\d+):(\d+)", lines[idx].strip())
+        if not m:
+            continue
+        h, mi, s = int(m.group(1) or 0), int(m.group(2)), int(m.group(3))
+        ts = f"{h}:{mi:02}:{s:02}" if h else f"{mi}:{s:02}"
+        cur = []
+        for l in lines[idx + 1:]:
+            l = html.unescape(re.sub(r"<[^>]+>", "", l))
+            l = re.sub(r"\s+", " ", re.sub(r"[\x00-\x1f\x7f]+", " ", l.replace("\\", ""))).strip()
+            if l:
+                cur.append(l)
+        out.extend(f"[{ts}] {l}" for l in cur if l not in prev)
+        prev = set(cur)
+    return "\n".join(out)
 
 def fetch_transcript(url):
     with tempfile.TemporaryDirectory() as tmp:
         try:
             r = subprocess.run(
-                ["yt-dlp", "--skip-download", "--no-playlist", "--write-subs", "--write-auto-subs",
-                 "--sub-langs", "en.*", "--sub-format", "vtt", "-o", os.path.join(tmp, "%(id)s"), url],
+                ["yt-dlp", "--skip-download", "--no-playlist", "--write-info-json",
+                 "--write-subs", "--write-auto-subs", "--sub-langs", "en.*", "--sub-format", "vtt",
+                 "-o", os.path.join(tmp, "%(id)s"), url],
                 capture_output=True, text=True, timeout=180,
             )
         except Exception as e:
             print(f"  yt-dlp error: {e}", file=sys.stderr)
             return None
+        err = r.stderr.strip().splitlines()
         if r.returncode != 0:
-            err = r.stderr.strip().splitlines()
             print(f"  yt-dlp failed: {err[-1] if err else r.returncode}", file=sys.stderr)
             return None
+
+        infos = list(Path(tmp).glob("*.info.json"))
+        if not infos:
+            print("  no video info returned, will retry next time", file=sys.stderr)
+            return None
+        try:
+            info = json.loads(infos[0].read_text(encoding="utf-8"))
+        except Exception:
+            return None
+
+        tracks = list((info.get("subtitles") or {}).keys()) + list((info.get("automatic_captions") or {}).keys())
+        if not any(t.lower().startswith("en") for t in tracks):
+            return ""
+
         files = sorted(Path(tmp).glob("*.vtt"), key=lambda p: len(p.name))
-        return vtt_to_text(files[0].read_text(encoding="utf-8", errors="replace")) if files else ""
-
-
+        if not files:
+            print(f"  subtitles exist but download failed: {err[-1] if err else 'unknown'}", file=sys.stderr)
+            return None
+        return vtt_to_text(files[0].read_text(encoding="utf-8", errors="replace"))
 def download_thumbnail(vid, dest):
     try:
         from PIL import Image
@@ -311,14 +336,25 @@ def download_thumbnail(vid, dest):
             print(f"  thumbnail '{name}' failed: {e}", file=sys.stderr)
     return None
 
+def find_video_url(meta):
+    v = meta.get(THUMB_FIELD)
+    if isinstance(v, str) and v.strip():
+        return v.strip()
+    for val in meta.values():
+        if isinstance(val, str) and re.match(r"https?://", val.strip()) and youtube_id(val):
+            return val.strip()
+    return ""
+
 
 def process_video_articles():
     if not Path(CONTENT_DIR).exists():
+        print(f"Content dir '{CONTENT_DIR}' not found, skipping videos", file=sys.stderr)
         return
     have_ytdlp = shutil.which("yt-dlp") is not None
     if not have_ytdlp:
         print("yt-dlp not found on PATH, skipping video transcripts", file=sys.stderr)
 
+    videos = with_url = 0
     for folder in sorted(Path(CONTENT_DIR).iterdir()):
         meta_path = folder / "meta.json"
         if not folder.is_dir() or not meta_path.exists():
@@ -327,9 +363,13 @@ def process_video_articles():
             meta = json.loads(meta_path.read_text(encoding="utf-8"))
         except Exception:
             continue
-        url = (meta.get(THUMB_FIELD) or "").strip()
-        if (meta.get("type") or "").strip().lower() != "videos" or not url:
+        if (meta.get("type") or "").strip().lower() != "videos":
             continue
+        videos += 1
+        url = find_video_url(meta)
+        if not url:
+            continue
+        with_url += 1
 
         md = folder / "content.md"
         if have_ytdlp and not md.exists():
@@ -348,6 +388,8 @@ def process_video_articles():
             print(f"Fetching thumbnail: {folder.name}")
             used = download_thumbnail(vid, photo)
             print(f"  saved photo.avif ({used})" if used else "  all thumbnail sizes failed")
+
+    print(f"Video articles: {videos} found, {with_url} with a YouTube URL")
 
 def run_solid_build():
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))

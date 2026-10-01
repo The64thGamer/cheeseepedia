@@ -1,0 +1,13 @@
+[1:05] [Music]
+[1:05] [Applause]
+[1:07] [Music]
+[1:11] [Applause]
+[5:44] [Music]
+[5:44] you
+[7:23] [Music]
+[7:23] [Applause]
+[7:24] [Music]
+[8:33] [Applause]
+[8:34] [Music]
+[8:41] [Applause]
+[8:44] [Music]
