@@ -1,1 +1,0 @@
-I See An Awesome Old Speedee McD's Sign And A CEC Studio C Cappa Stage In Muncie, IN

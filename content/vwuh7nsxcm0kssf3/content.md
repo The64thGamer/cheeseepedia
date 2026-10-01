@@ -1,1 +1,0 @@
-Testing EVERY 2026 Spirit Halloween Animatronic (I Bought One!)

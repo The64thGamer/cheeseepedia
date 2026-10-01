@@ -1,1 +1,0 @@
-"Dog Days of Summer" - Northridge, CA Chuck E. Cheese 2-Stage

@@ -1,1 +1,0 @@
-I Return To The CEC In Visalia, CA To See How The Store Looks After The Remodel & The New Ninja Run!

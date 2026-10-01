@@ -1,1 +1,0 @@
-(OUTDATED) The History of Showbiz Pizza Place & Chuck E. Cheese in Lynchburg, Virginia

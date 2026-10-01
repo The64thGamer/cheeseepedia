@@ -1,1 +1,0 @@
-TOUR: Springfield, PA Chuck E. Cheese (Circles of Light)

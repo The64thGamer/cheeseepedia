@@ -1,1 +1,0 @@
-TOUR: Irving, Texas Chuck E. Cheese (Corporate's Test Location)

@@ -1,1 +1,0 @@
-Chuck E's Middle Name - Chuck E. Cheese's West Orlando

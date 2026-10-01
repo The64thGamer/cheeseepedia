@@ -1,1 +1,0 @@
-I Finally Visit The Chuck E Cheese In Hicksville NY To See Their 1 Stage!

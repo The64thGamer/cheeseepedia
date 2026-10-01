@@ -1,1 +1,0 @@
-The History of Showbiz Pizza Place & Chuck E. Cheese in White Settlement, Texas

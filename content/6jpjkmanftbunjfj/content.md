@@ -1,1 +1,0 @@
-Chuck E's Place 2017 - Chuck E  Cheese's Tampa Carrollwood

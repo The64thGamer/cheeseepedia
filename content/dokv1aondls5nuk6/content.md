@@ -1,1 +1,0 @@
-Holiday Medley - 3-Stage Charleston, SC Chuck E. Cheese's

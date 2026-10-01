@@ -1,1 +1,0 @@
-Chuck E. Cheese - Wilmington, NC Store Tour

@@ -1,1 +1,0 @@
-TOUR: Muncie, IN Chuck E. Cheese (Rare Retro Features!)

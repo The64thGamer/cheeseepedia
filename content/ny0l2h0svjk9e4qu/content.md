@@ -1,1 +1,0 @@
-Merry Christmastime 2016 - East Orlando Chuck E. Cheese's

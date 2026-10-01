@@ -1,1 +1,0 @@
-CLOSED DOWN- Chuck E. Cheese Columbus OH June 2020

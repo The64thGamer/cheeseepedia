@@ -1,1 +1,0 @@
-TOUR: Whitby, Ontario Chuck E. Cheese | Last Studio C Alpha in Canada

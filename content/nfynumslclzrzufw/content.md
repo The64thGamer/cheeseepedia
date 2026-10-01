@@ -1,1 +1,0 @@
-The (Updated) History of Showbiz Pizza Place in Lynchburg, Virginia

@@ -1,1 +1,0 @@
-So, I'm Getting a Dook/Pasqually.

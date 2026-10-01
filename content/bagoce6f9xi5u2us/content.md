@@ -1,1 +1,0 @@
-Chuck E. Cheese - Studio C Console Overview (Bridgewater, NJ)

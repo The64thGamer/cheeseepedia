@@ -1,1 +1,0 @@
-Rock Afire Explosion - Snippet of the Liberty Show (Billy Con VI)

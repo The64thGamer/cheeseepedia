@@ -1,1 +1,0 @@
-Garland, TX (W. Centerville) Chuck E. Cheese's Store Tour

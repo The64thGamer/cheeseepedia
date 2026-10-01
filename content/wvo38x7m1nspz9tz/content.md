@@ -1,1 +1,0 @@
-Mitzi Mozzarella and Helen Henny speed paint *REDRAW*

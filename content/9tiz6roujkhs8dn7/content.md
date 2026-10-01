@@ -1,1 +1,0 @@
-Chuck E  Cheese - Jacksonville, FL Atlantic Blvd Store Tour

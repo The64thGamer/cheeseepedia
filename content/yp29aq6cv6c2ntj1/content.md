@@ -1,1 +1,0 @@
-Chuck E. Cheese - Nice Enough (Novi, MI)

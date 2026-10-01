@@ -1,1 +1,0 @@
-TOUR: Las Vegas, NV (Serene) Chuck E. Cheese

@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Holiday Party 08 Segment 1 (3-Stage)

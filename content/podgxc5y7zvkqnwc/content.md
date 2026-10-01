@@ -1,1 +1,0 @@
-Tour of Huntington Beach.

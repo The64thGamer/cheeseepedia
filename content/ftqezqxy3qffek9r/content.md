@@ -1,1 +1,0 @@
-"Song of Summer" - Huntington Beach, CA Chuck E. Cheese 2-Stage

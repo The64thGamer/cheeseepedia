@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Merry Christmastime (Colerain, OH)

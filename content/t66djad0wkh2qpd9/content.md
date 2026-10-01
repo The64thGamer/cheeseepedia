@@ -1,1 +1,0 @@
-TOUR: Paramus, New Jersey Chuck E. Cheese

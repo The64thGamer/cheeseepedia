@@ -1,1 +1,0 @@
-Happy Dance - Tampa FL Chuck E. Cheese's

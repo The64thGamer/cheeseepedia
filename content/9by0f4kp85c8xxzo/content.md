@@ -1,1 +1,0 @@
-I Visited the Last Chuck E. Cheese Road Stage on Earth

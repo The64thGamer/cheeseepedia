@@ -1,1 +1,0 @@
-Chuck E. Cheese - West Des Monies Store Tour

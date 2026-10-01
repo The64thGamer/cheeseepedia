@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Out Of This World (Hicksville, NY)

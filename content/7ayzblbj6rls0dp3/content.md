@@ -1,1 +1,0 @@
-"It's the 70s" - Northridge, CA Chuck E. Cheese 2-Stage

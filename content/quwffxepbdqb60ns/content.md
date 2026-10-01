@@ -1,1 +1,0 @@
-Chuck E. Cheese's - September 2001 Segment 1

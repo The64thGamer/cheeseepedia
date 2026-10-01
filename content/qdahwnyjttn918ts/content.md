@@ -1,1 +1,0 @@
-A newscast on the [Westbury, NY (737 Merrick Ave)] Gadgets restaurant, featuring Sammy Sands and The Looney Tunes Revue.

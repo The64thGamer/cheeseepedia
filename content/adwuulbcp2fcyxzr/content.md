@@ -1,1 +1,0 @@
-Chuck E. Cheese - Columbus Macsway, A Year After Closing

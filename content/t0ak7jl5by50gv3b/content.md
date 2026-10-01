@@ -1,1 +1,0 @@
-The History of Chuck E. Cheese in San Jose, California

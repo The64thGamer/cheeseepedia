@@ -1,1 +1,0 @@
-Working For a Living (Sept. 1992) Segment 3

@@ -1,1 +1,0 @@
-Jonesboro, GA - Chuck E. Cheese's Store Tour

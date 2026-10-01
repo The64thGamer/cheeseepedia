@@ -1,1 +1,0 @@
-A Quick Look at Creative Engineering Before it's Demolished

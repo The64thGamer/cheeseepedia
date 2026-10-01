@@ -1,1 +1,0 @@
-TOUR: Parma, OH Chuck E. Cheese (RARE 90s Showroom & Retro Features!)

@@ -1,1 +1,0 @@
-TOUR: Spokane Valley, Washington Chuck E. Cheese

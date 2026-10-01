@@ -1,1 +1,0 @@
-Halloween Night (Close Up) - East Orlando Chuck E. Cheese's

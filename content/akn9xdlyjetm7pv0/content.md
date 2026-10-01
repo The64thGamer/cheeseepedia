@@ -1,1 +1,0 @@
-"Laughter is the Best Medicine" - Tampa Carrollwood Chuck E. Cheese's 2-Stage

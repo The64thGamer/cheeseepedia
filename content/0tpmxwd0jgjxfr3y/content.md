@@ -1,1 +1,0 @@
-Sept. '92 Show (Mailman/Railroad)

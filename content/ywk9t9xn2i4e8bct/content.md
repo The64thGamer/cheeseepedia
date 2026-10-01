@@ -1,1 +1,0 @@
-I Visit The CEC Studio C stage In Joplin Missouri!

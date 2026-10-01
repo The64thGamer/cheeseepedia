@@ -1,1 +1,0 @@
-TOUR: Charlotte, NC (Albermarle Rd) Chuck E. Cheese

@@ -1,1 +1,0 @@
-TOUR: Burbank, CA Chuck E. Cheese (After Remodel)

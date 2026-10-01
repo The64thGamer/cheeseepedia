@@ -1,1 +1,0 @@
-Chuck E. Cheese - Waterbury, CT Two Years After Closing

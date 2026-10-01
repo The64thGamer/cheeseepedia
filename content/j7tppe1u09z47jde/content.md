@@ -1,1 +1,0 @@
-Chuck E. Cheese - The Holiday Party (Huntsville, AL)

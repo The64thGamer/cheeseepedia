@@ -1,1 +1,0 @@
-"Another Chuck E. Day" - Northridge, CA Chuck E. Cheese 2-Stage

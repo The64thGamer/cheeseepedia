@@ -1,1 +1,0 @@
-Chuck E. Cheese - Let's Have A Party (Florence, KY)

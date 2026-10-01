@@ -1,1 +1,0 @@
-TOUR: Fairview Heights, Illinois Chuck E. Cheese

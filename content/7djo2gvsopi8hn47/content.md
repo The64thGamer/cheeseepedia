@@ -1,1 +1,0 @@
-Me & My Friends - Helen, Chuck, and Jasper at East Orlando

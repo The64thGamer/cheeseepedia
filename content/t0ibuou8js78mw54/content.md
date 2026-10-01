@@ -1,1 +1,0 @@
-I Visit The CEC In Vaughan Ontario To See A Studio C Beta Stage for Day 2 Of 8 Days Of Cheese

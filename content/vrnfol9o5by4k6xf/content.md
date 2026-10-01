@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Dancin' Kitten (2-Stage)

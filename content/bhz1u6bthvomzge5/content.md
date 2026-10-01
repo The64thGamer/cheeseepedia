@@ -1,1 +1,0 @@
-Out of This World - West Orlando Chuck E. Cheese's

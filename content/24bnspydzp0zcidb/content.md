@@ -1,1 +1,0 @@
-The C stage at the Penfield, NY Chuck E. Cheese's Pizza Time Theatre playing the CEC Christmas '90 showtape

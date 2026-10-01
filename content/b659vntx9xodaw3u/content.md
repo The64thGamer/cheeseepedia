@@ -1,1 +1,0 @@
-Chuck E. Cheese - Chuck E ’s Boo-Tastic Dance (Bridgewater, NJ)

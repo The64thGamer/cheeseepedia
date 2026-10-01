@@ -1,1 +1,0 @@
-Chuck E. Cheese - Merry Christmastime (Florence, Ky)

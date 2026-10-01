@@ -1,1 +1,0 @@
-TOUR: Concord, North Carolina Chuck E. Cheese

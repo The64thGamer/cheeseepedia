@@ -1,1 +1,0 @@
-TOUR: Hialeah, Florida Chuck E. Cheese

@@ -1,1 +1,0 @@
-Chuck E. Cheese - It's the 70s (Wyomissing, PA)

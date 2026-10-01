@@ -1,1 +1,0 @@
-January 2012 Show Segment 2

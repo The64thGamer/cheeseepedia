@@ -1,1 +1,0 @@
-The Rock-afire Explosion: Ricky Skaggs Medley (Ft. Santa Klunk)

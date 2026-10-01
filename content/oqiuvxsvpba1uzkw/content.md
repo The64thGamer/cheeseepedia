@@ -1,1 +1,0 @@
-Pre-Opening Adventure World footage by Justin Lee

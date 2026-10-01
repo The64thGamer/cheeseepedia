@@ -1,1 +1,0 @@
-Chuck E. Cheese - Barbara the Barnyard Barber (Springfield, IL)

@@ -1,1 +1,0 @@
-Chuck E. Cheese - Keep Drummin' (Springfield, IL)

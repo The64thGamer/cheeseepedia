@@ -1,1 +1,0 @@
-TOUR: Dale City, Virginia Chuck E. Cheese

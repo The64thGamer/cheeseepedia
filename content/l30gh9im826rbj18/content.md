@@ -1,1 +1,0 @@
-TOUR: Fairfax, VA Chuck E. Cheese (Former ShowBiz Pizza)

@@ -1,1 +1,0 @@
-I Return To See The 1 Stage At Toledo's CEC! Happy 48th Birthday To Charles Entertainment Cheese!

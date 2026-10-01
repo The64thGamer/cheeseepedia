@@ -1,1 +1,0 @@
-I Spent My 31st Birthday at Chuck E. Cheese (Toledo, OH)

@@ -1,1 +1,0 @@
-I Attend Throwback Thursday at the Retro Chuck E. Cheese in Nanuet

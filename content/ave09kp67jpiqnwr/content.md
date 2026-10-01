@@ -1,1 +1,0 @@
-A Fan Sent Me This MASSIVE Nostalgic Chuck E Cheese Loot Crate!

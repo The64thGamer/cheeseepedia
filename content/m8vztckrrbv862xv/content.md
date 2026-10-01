@@ -1,1 +1,0 @@
-I Visit The Site Of The 1st McDonald's & Museum In San Bernardino, CA!

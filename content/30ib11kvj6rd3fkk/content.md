@@ -1,1 +1,0 @@
-TOUR: Dickson City, PA (Scranton) Chuck E. Cheese

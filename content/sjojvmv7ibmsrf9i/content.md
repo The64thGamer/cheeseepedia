@@ -1,1 +1,0 @@
-Ranking Every Chuck E. Cheese & Rock-afire Explosion Character (2K Subscriber Special)

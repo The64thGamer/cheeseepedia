@@ -1,1 +1,0 @@
-Chuck E. Cheese - Another Chuck E. Day (Sharonville, OH)

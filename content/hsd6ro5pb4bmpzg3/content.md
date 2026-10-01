@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Charlie Chorebot (2-Stage)

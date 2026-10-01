@@ -1,1 +1,0 @@
-Chuck E. Cheese's Iconic Logo: The Untold Story

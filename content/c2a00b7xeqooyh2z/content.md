@@ -1,1 +1,0 @@
-I Return To Toledo Chuck E Cheese To See Some Hidden Vintage Artifacts!

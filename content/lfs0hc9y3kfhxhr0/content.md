@@ -1,1 +1,0 @@
-Merry Christmas! I Go To CEC Mentor OH, See A Private Collection And Start My CEC Art Collection!

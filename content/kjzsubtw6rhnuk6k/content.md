@@ -1,1 +1,0 @@
-TOUR: Patchogue, New York Chuck E. Cheese

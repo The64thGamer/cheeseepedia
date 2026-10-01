@@ -1,1 +1,0 @@
-Helen's Birthday - Chuck E. Cheese's Hialeah, FL

@@ -1,1 +1,0 @@
-I Return To Redwood City, CA For My 124th CEC Visit!

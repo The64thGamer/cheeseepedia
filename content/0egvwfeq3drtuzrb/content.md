@@ -1,1 +1,0 @@
-TOUR: Rockwall, Texas Chuck E. Cheese

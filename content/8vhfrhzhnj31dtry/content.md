@@ -1,1 +1,0 @@
-I Visit The Ventura CA Chuck E. Cheese To See Their 2 Stage!

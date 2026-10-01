@@ -1,1 +1,0 @@
-Chuck E.  Live at DerpyCon 2025 - "Land of 1000 Dances"

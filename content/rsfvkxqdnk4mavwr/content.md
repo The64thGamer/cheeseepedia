@@ -1,1 +1,0 @@
-Chuck E. Cheese - What Do You Get a Sasquatch for Christmas (North Bergen, NJ)

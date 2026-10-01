@@ -1,1 +1,0 @@
-Chuck E. Cheese  - Ves Al Ratoncito (Orange, CT)

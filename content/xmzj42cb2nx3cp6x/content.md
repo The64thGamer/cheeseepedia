@@ -1,1 +1,0 @@
-TOUR: Fort Worth, Texas (Hulen) Chuck E. Cheese

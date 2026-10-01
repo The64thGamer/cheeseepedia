@@ -1,1 +1,0 @@
-Jasper’s Country Classic - Chuck E. Cheese Studio C in Jackson, MS | 9/18/22

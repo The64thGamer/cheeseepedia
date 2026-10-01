@@ -1,1 +1,0 @@
-TOUR: West Orlando, Florida Chuck E. Cheese (Now CLOSED)

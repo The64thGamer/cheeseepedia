@@ -1,1 +1,0 @@
-I Check Out The Studio C Alpha Stage at the St. Charles, MO. Chuck E. Cheese!

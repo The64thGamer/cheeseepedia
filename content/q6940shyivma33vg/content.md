@@ -1,1 +1,0 @@
-I Attended BillyCon 2024 To See The Rockafire Explosion!

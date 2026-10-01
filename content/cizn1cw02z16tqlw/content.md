@@ -1,1 +1,0 @@
-Chuck E. Cheese - Out of This World (Whitehall, PA) *STAGE  REMOVED*

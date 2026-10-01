@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Happy Dance Halloween (2-Stage)

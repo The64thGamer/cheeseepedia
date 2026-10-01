@@ -1,1 +1,0 @@
-TOUR: Rocky Mount, NC Chuck E. Cheese

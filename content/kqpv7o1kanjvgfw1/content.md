@@ -1,1 +1,0 @@
-I Return To The CEC In Hicksville, NY To Check On Legacy Store #3 Amid Their Remodel

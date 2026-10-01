@@ -1,1 +1,0 @@
-Maniac - Chuck E. Cheese’s Fall 2014 Show Segment 4 Tampa Carrollwood

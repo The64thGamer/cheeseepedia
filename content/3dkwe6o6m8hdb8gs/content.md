@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Holiday Party 1999 Segment 2 (3-Stage)

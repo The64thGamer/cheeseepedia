@@ -1,1 +1,0 @@
-Let's Be Friends - West Melbourne, FL Galaxy Stage

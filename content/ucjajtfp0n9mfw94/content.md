@@ -1,1 +1,0 @@
-The History of the Worst Chuck E. Cheese - Danbury, Connecticut

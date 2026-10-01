@@ -1,1 +1,0 @@
-Billings, MT Chuck E. Cheese's Store Tour

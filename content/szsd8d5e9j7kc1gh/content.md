@@ -1,1 +1,0 @@
-September 2012 Segment 1 (Don’t You Forget About Me, You Spin Me Right Round) Close Up

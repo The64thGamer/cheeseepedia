@@ -1,1 +1,0 @@
-Highway 40 Blues/King of the Road - Bubba and the Badland Band

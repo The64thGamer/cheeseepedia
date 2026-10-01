@@ -1,1 +1,0 @@
-Love Story, Pizza Oven - Chuck E. Cheese’s April 2012 Show, Segment 3

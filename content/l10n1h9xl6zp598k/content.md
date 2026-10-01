@@ -1,1 +1,0 @@
-Chuck E.'s Place - September 1990 Segment 1

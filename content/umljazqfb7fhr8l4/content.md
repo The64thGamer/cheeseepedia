@@ -1,1 +1,0 @@
-San Jose CEC Behind The Scenes Tour Part 2

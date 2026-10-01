@@ -1,1 +1,0 @@
-Chuck E. Cheese - Jasper's Country Classic (Parma, OH)

@@ -1,1 +1,0 @@
-Paper or Plastic (Right) Best of CEC TV 2003 Studio C

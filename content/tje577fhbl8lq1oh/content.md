@@ -1,1 +1,0 @@
-Rockafire Explosion - Michael Jackson Tribute at the Volo Museum!

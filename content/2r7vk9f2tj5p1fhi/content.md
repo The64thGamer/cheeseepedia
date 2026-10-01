@@ -1,1 +1,0 @@
-I Visit The CEC In Spartanburg SC To See The Studio C Alpha Stage

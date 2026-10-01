@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Happy Dance (Sharonville, OH)

@@ -1,1 +1,0 @@
-Chuck E. Cheese - Birthday Star Spectacular (Sharonville, OH)

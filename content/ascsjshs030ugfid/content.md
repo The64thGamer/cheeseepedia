@@ -1,1 +1,0 @@
-Rolfe & Earl Update: Christmas Costumes + Senior Medley Performance

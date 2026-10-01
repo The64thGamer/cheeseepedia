@@ -1,1 +1,0 @@
-The History of Chuck E. Cheese & Showbiz Pizza in Richmond, Virginia

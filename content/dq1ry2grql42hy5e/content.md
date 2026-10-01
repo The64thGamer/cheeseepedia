@@ -1,1 +1,0 @@
-I Go See The Aftermath Of The 2.0 Remodel In Rockford IL. And Then See The 1Stage At CEC Milwaukee!

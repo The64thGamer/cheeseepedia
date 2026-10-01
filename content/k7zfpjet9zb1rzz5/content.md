@@ -1,1 +1,0 @@
-Chuck E. Cheese - The Tail of Jasper T. (RM 1-Stage)

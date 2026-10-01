@@ -1,1 +1,0 @@
-My Buddy Tendo Visits A CEC For 1st Time! We Check Out 2 Stages!

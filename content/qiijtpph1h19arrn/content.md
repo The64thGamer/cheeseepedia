@@ -1,1 +1,0 @@
-Chuck E. Cheese - Retro Zone Tour (Pineville, NC)

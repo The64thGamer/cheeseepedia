@@ -1,1 +1,0 @@
-January 2006 Showtape Video (Studio C)

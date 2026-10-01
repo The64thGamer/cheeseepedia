@@ -1,1 +1,0 @@
-Chuck E. Cheese LIVE! - Winner Wonder Dance at Raleigh, NC

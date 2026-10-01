@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Summer 2007 Segment 2 (3-Stage)

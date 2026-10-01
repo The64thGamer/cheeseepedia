@@ -1,1 +1,0 @@
-TOUR: Tupelo, MS Chuck E. Cheese (Unique Franchise Store!)

@@ -1,1 +1,0 @@
-Man & Dog Show Update - New Changes at the Promenade!

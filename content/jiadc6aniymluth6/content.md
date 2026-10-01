@@ -1,1 +1,0 @@
-Everybody Have Fun Tonight, Camouflage - Chuck E. Cheese’s April 2012 Show, Segment 2

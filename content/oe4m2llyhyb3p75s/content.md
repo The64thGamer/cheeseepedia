@@ -1,1 +1,0 @@
-Chuck E. Cheese's Winston-Salem 2013 Footage

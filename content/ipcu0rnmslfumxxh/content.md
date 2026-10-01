@@ -1,1 +1,0 @@
-I See The Last Studio C Beta Stage Left In Indiana!

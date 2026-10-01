@@ -1,1 +1,0 @@
-Chuck E. Cheese - Jaspers Country Classic (Milwaukee, WI)

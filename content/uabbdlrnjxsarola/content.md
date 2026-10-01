@@ -1,1 +1,0 @@
-I FINALLY Return To The Volo To See The Rock afire Explosion!

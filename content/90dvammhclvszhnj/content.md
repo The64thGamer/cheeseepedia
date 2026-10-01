@@ -1,1 +1,0 @@
-TOUR: Carson, CA Chuck E. Cheese | Circles of Light

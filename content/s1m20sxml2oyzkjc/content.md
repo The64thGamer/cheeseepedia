@@ -1,1 +1,0 @@
-Chuck E. Cheese - Up Close with the Last Prototype 1-Stage (Soldano, OH)

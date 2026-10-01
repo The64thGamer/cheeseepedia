@@ -1,1 +1,0 @@
-My Trip to Looney Bird's - June 1998

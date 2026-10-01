@@ -1,1 +1,0 @@
-Chuck E Cheese characters breaking the fourth wall for over 7 minutes straight

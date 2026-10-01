@@ -1,1 +1,0 @@
-"Every Boy, Every Girl" - Northridge, CA Chuck E. Cheese 2-Stage

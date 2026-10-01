@@ -1,1 +1,0 @@
-"Lend A Helping Hand" - Chuck E. Cheese's Billings, MT

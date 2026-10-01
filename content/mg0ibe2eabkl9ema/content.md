@@ -1,1 +1,0 @@
-TOUR: Princeton, New Jersey Chuck E. Cheese

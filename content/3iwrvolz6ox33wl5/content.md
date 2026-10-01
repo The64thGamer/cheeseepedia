@@ -1,1 +1,0 @@
-Behind The Stage in Tampa Carrollwood

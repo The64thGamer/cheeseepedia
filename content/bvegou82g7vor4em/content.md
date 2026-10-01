@@ -1,1 +1,0 @@
-Another Chuck E Day - Full 2-Stage Version - Tampa, FL

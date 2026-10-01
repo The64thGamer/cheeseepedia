@@ -1,1 +1,0 @@
-May '92 Segment 3 (Diagnostics) Chuck E. Cheese's Tampa, FL

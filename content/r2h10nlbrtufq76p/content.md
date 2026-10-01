@@ -1,1 +1,0 @@
-TOUR: NEW Buffalo, NY Chuck E. Cheese (Delaware Ave 2.0 Build)

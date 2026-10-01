@@ -1,1 +1,0 @@
-Rock Afire Explosion - Middle of the Night

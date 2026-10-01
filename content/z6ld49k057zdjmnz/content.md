@@ -1,1 +1,0 @@
-Chuck E. Cheese  - Chuck E  Cha Cha (Orange, CT)

@@ -1,1 +1,0 @@
-Jungle Jim's - Holiday Update!

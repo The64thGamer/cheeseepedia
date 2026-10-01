@@ -1,1 +1,0 @@
-Me & My Friends - Northridge, CA Chuck E. Cheese's

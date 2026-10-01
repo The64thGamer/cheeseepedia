@@ -1,1 +1,0 @@
-Chuck E. Cheese's West Melbourne, FL Store Tour

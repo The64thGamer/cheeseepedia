@@ -1,1 +1,0 @@
-Jasper T. Jowls - September 1990 Segment 3

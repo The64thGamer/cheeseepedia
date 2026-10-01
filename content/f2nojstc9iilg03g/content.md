@@ -1,1 +1,0 @@
-The Christmas that Almost Wasn't (1983)

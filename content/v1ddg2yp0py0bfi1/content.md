@@ -1,1 +1,0 @@
-I Visit Jasper's Dog Den And See Some Of The New Rock-afire Explosion Perform!

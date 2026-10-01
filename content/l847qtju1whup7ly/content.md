@@ -1,1 +1,0 @@
-I Visit The Last Two Chuck E Cheese's With Animatronics Left In Indiana!

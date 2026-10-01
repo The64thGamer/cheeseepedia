@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Chuck E's Jukebox Jam Show Segment 7 (Playroom 3-Stage)

@@ -1,1 +1,0 @@
-Birthday 2015 - Pensacola, FL Chuck E. Cheese's

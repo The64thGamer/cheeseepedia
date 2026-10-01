@@ -1,1 +1,0 @@
-I Check Out The Studio C Beta Stage At CEC In Elk Grove, CA

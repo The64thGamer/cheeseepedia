@@ -1,1 +1,0 @@
-Chuck E. Cheese - Fun For All (Colerain, OH)

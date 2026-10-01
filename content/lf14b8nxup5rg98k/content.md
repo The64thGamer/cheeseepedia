@@ -1,1 +1,0 @@
-The History of Showbiz Pizza & Chuck E. Cheese in Cedar Rapids, Iowa

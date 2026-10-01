@@ -1,1 +1,0 @@
-Down the Road - Chuck E. Cheese's Pineville, NC

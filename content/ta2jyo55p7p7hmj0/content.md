@@ -1,1 +1,0 @@
-A short store tour of [Austin, TX (502 W Ben White Blvd)], framed as a bar review as an April Fools' Day joke.[1]

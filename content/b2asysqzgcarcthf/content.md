@@ -1,1 +1,0 @@
-Halloween Night (Wide View) - East Orlando Chuck E. Cheese's

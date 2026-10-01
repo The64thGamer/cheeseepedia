@@ -1,1 +1,0 @@
-Chuck E. Cheese Springfield Ohio Store Tour- June 2020

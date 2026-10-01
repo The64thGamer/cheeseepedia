@@ -1,1 +1,0 @@
-Chuck E. Cheese 3 Stage Visits Collection 2: Almost 1 and a 1/2 Hours!

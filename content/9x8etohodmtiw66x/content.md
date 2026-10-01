@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Northridge, CA Store Tour

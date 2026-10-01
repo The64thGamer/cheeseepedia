@@ -1,1 +1,0 @@
-TOUR: Revisiting the South Toledo, OH Chuck E. Cheese 1-Stage! (Now CLOSED)

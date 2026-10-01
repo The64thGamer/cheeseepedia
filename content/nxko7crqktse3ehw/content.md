@@ -1,1 +1,0 @@
-Chuck E. Cheese - Happy Birthday Helen (Miamisburg, OH)

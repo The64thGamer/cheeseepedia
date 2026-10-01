@@ -1,1 +1,0 @@
-A Close Look at the 2-Stage - Tampa, FL

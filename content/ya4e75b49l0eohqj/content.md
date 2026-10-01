@@ -1,1 +1,0 @@
-I See An Incredibly Rare Collection of Chuck E Cheese/Showbiz Pizza Items!

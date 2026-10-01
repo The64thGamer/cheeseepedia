@@ -1,1 +1,0 @@
-Unboxing the YouTooz Classic Chuck E. Cheese Plush!

@@ -1,1 +1,0 @@
-TOUR: Latham, New York Chuck E. Cheese

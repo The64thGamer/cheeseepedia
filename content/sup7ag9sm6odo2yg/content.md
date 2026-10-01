@@ -1,1 +1,0 @@
-"Costume Party" - Chuck E. Cheese's Tampa Carrollwood

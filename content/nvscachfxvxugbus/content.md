@@ -1,1 +1,0 @@
-I Attend Chuck E. Cheese's First Ever "Fun Passholder Night"

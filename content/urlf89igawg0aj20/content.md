@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Holiday Party 1999 (Studio C Segments)

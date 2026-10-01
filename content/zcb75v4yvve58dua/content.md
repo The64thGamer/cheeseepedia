@@ -1,1 +1,0 @@
-Chuck E. Cheese - Dream Big (Colerain, OH)

@@ -1,1 +1,0 @@
-Pasqually without his mask (undergoing repair)

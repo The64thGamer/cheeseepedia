@@ -1,1 +1,0 @@
-Chuck E. Cheese - Me & My Friends (Parma, OH)

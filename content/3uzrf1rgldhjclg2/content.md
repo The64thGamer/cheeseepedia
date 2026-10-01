@@ -1,1 +1,0 @@
-Together We've Got It - Canton, MI Chuck E  Cheese's

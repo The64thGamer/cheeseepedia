@@ -1,1 +1,0 @@
-TOUR: Saginaw, MI Chuck E. Cheese (Former ShowBiz Pizza)

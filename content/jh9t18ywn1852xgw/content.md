@@ -1,1 +1,0 @@
-I Visit the New Liquor Store in the Wyomissing, PA Chuck E. Cheese

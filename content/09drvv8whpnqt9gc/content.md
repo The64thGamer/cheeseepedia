@@ -1,1 +1,0 @@
-I Check Out The Studio C Alpha Stage At The CEC In North Canton, OH

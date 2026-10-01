@@ -1,1 +1,0 @@
-Chuck E. Cheese's - The 1970's (Sharonville, OH)

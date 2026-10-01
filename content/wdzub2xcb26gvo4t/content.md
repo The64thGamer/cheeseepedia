@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Helen's Birthdays (Sharonville, OH)

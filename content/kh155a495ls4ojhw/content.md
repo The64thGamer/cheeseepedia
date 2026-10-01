@@ -1,1 +1,0 @@
-Foxy Colleen in Irish Stew | Showbiz Replay

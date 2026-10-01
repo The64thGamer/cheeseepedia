@@ -1,1 +1,0 @@
-I Found VINTAGE Chuck E. Cheese Collectibles At This Hidden Thrift Shop!

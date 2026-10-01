@@ -1,1 +1,0 @@
-Them Bones 2015 (Pirate Version) - Chuck E. Cheese's East Orlando, FL

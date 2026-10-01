@@ -1,1 +1,0 @@
-I Sit Down With Peeler & Rose, CEC Artist Legends, To Talk About The Amazing Puppets They've Built

@@ -1,1 +1,0 @@
-I FINALLY Return To The Chuck E Cheese Legacy Store in Pineville, North Carolina!

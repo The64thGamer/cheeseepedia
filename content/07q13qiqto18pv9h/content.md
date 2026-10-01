@@ -1,1 +1,0 @@
-Chuck E. Cheese - Giant Armadillo Named, Phil & Another Chuck E. Day (Pineville, NC)

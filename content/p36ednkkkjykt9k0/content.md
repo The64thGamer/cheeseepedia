@@ -1,1 +1,0 @@
-Chuck E. Cheese - Sharonville's Grand Reopening & Store Tour 12/12/19

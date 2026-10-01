@@ -1,1 +1,0 @@
-Rock Afire Explosion - After hours

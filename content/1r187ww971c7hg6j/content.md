@@ -1,1 +1,0 @@
-I Visit The Chuck E Cheese's Pizza In La Mesa, CA For My 97th Stage Visit!

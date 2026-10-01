@@ -1,1 +1,0 @@
-Country Bear Jamboree - Full Show (2012 Re-edit)

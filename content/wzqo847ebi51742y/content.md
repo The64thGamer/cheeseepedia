@@ -1,1 +1,0 @@
-Best of CEC TV 2008 Segment 6 (Chuck E’s Place)

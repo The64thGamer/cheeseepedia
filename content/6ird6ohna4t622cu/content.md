@@ -1,1 +1,0 @@
-"Celebration" - Rockafire Explosion Concert at BillyCon 2025!

@@ -1,1 +1,0 @@
-TOUR: Poughkeepsie, New York Chuck E. Cheese

@@ -1,1 +1,0 @@
-Chuck E.'s June 1998 Show

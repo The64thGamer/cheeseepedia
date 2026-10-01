@@ -1,1 +1,0 @@
-Chuck E. Cheese's - 1980's (Sharonville, OH)

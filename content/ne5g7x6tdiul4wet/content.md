@@ -1,1 +1,0 @@
-TOUR: Now CLOSED Annapolis, MD Chuck E. Cheese (Early 2025)

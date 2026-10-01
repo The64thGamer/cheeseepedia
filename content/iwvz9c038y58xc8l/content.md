@@ -1,1 +1,0 @@
-Chuck E. Cheese - The Windowsill (North Charleston, SC)

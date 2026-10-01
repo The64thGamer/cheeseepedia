@@ -1,1 +1,0 @@
-BillyCon VI: Come Meet Your Favorite YouTubers!

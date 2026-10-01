@@ -1,1 +1,0 @@
-TOUR: Mays Landing, New Jersey Chuck E. Cheese

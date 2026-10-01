@@ -1,1 +1,0 @@
-America Sings - Daniel and the Dixie Diggers

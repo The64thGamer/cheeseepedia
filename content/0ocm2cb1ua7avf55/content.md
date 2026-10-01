@@ -1,1 +1,0 @@
-Chuck E. Cheese's - America (Summer 2003)

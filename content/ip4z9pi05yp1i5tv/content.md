@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Spring 2013 Segment 2 (Take a Walk)

@@ -1,1 +1,0 @@
-Winner Wonder Dance - West Orlando Chuck E. Cheese's

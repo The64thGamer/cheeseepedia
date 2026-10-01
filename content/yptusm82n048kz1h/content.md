@@ -1,1 +1,0 @@
-Tour of Sterling Heights, MI.

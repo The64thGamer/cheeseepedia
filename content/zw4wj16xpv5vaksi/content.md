@@ -1,1 +1,0 @@
-Emptying Out A Chuck E. Cheese's After it Closed

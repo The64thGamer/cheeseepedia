@@ -1,1 +1,0 @@
-Baltimore, MD (Catonsville) Chuck E. Cheese Store Tour

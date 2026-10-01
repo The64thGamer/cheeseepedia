@@ -1,1 +1,0 @@
-The Clown Animatronic being unearthed in 2015

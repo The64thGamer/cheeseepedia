@@ -1,1 +1,0 @@
-360 Camera Tour of Sterling Heights, MI.

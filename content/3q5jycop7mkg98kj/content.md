@@ -1,1 +1,0 @@
-Update On The Closed Washington St Chuck E Cheese Location in Indianapolis!

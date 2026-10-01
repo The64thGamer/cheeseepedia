@@ -1,1 +1,0 @@
-Chuck E. Cheese - Play All You Can Play (Rockford,IL)

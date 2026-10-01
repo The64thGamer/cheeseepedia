@@ -1,1 +1,0 @@
-TOUR: Deptford, New Jersey Chuck E. Cheese

@@ -1,1 +1,0 @@
-Chuck E. Cheese - Cheese Pizza Is Pure Delight (Warwick, VT)

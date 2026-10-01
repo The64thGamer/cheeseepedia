@@ -1,1 +1,0 @@
-Summer 2012 Segment 3 (Going On a Picnic, BBQ) Close Up

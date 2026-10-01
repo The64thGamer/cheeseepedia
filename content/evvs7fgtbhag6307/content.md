@@ -1,1 +1,0 @@
-Grapevine, TX Chuck E. Cheese's Store Tour - "Keep on Smiling"

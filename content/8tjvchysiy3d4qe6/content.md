@@ -1,1 +1,0 @@
-My Journey To 100 Chuck E. Cheese Stages Visited

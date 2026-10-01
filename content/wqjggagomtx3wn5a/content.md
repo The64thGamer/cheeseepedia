@@ -1,1 +1,0 @@
-It's Gotta Be Halloween (Close Up) East Orlando, FL

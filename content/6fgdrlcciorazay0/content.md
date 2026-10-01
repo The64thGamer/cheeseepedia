@@ -1,1 +1,0 @@
-Chuck E. Cheese - Lend A Helping Hand (Sharonville, OH)

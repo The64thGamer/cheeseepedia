@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Studio "C" Interactive Diagnostics 2 (1998)

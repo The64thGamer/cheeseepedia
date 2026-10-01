@@ -1,1 +1,0 @@
-May 1992 Segment 3 - Chuck E. Cheese's Hialeah, FL

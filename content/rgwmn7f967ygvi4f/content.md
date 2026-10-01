@@ -1,1 +1,0 @@
-Chuck E. Cheese - Haunted House Party (Deptford, NJ)

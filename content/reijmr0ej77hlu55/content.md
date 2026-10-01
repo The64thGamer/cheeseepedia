@@ -1,1 +1,0 @@
-Friendship Never Ends - Chuck E. Cheese's - Hialeah, FL

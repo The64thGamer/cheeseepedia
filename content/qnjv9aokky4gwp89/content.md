@@ -1,1 +1,0 @@
-Chuck E. Cheese - Game On! (Toledo Airport, OH)

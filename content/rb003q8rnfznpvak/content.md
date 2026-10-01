@@ -1,1 +1,0 @@
-Chuck E. Cheese - Holiday Fiesta (Chesapeake Peek Trail, VA)

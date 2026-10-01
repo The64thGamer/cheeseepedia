@@ -1,1 +1,0 @@
-Halloween Night (Right Angle) - Chuck E. Cheese's East Orlando

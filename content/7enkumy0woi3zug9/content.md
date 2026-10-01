@@ -1,1 +1,0 @@
-Chuck E. Cheese - Greenwood IN Clips and Pictures!

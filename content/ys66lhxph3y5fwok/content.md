@@ -1,1 +1,0 @@
-Chuck E. Cheese - Howl-O-Ween (Landgrove, Vt)

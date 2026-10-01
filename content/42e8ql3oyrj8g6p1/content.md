@@ -1,1 +1,0 @@
-Best of CEC TV 2003 Segment 3 (Opposite Day)

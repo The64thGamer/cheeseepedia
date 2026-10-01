@@ -1,1 +1,0 @@
-TOUR: Texarkana, Texas Mall Chuck E. Cheese

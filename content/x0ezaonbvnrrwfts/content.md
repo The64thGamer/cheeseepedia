@@ -1,1 +1,0 @@
-Chuck E. Cheese - Easy Dance (Sharonville, OH)

@@ -1,1 +1,0 @@
-"Pumpkins in My Pockets" performance at Huntington Beach.

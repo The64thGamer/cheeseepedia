@@ -1,1 +1,0 @@
-The History of Reading, PA's Many Animatronic Restaurants

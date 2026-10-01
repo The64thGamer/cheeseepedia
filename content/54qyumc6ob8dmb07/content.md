@@ -1,1 +1,0 @@
-I Return To The Chuck E Cheese's In Bellevue WA To See Their 1 Stage

@@ -1,1 +1,0 @@
-Rainy Day - Chuck E. Cheese's East Orlando

@@ -1,1 +1,0 @@
-I Visit A Studio C Beta Store In Indianapolis, IN

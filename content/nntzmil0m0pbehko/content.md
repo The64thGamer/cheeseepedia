@@ -1,1 +1,0 @@
-Footage of Kansas City CEC Throwback Thursday Show

@@ -1,1 +1,0 @@
-I Visit The Abandoned Chuck E Cheese's In Bellevue, WA And Talk About Their 1 Stage

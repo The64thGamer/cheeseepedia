@@ -1,1 +1,0 @@
-TOUR: York, Pennsylvania Chuck E. Cheese (Former ShowBiz Pizza)

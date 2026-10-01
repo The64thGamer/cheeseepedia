@@ -1,1 +1,0 @@
-I Attend Anime Dallas, Visit The Reunion Tower And Watch Billy Bob Perform At Fun!

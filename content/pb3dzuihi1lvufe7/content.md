@@ -1,1 +1,0 @@
-Chuck E. Cheese - Union, NJ Store Tour

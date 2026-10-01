@@ -1,1 +1,0 @@
-Chuck E. Cheese - Cedar Falls, IA Store Tour (Mid-Remodel)

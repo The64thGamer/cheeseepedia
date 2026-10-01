@@ -1,1 +1,0 @@
-Chuck E  Cheese's in Princeton - A Celebration of 20 Years

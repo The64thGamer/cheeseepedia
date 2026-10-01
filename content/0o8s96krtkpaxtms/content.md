@@ -1,1 +1,0 @@
-Chuck E. Cheese - Happy Dance with Munch! (Princeton, NJ)

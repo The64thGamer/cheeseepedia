@@ -1,1 +1,0 @@
-Chuck E  Cheese's - Party Place (Phoenix, AZ)

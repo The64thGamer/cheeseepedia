@@ -1,1 +1,0 @@
-Chuck E. Cheese & Gang Perform On The 3 Stage At Huntsville, AL CEC | April 2022 | Birthday Song!

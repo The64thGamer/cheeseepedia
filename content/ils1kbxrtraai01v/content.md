@@ -1,1 +1,0 @@
-Cowboy's Life - Chuck E. Cheese's East Orlando

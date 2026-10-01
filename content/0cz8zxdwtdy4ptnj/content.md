@@ -1,1 +1,0 @@
-Chuck E. Cheese - Holiday Medley 2015 (Eastgate, OH)

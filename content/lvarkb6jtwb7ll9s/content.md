@@ -1,1 +1,0 @@
-Tampa 2-Stage - Before and After (2015-2017)

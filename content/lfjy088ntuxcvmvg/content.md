@@ -1,1 +1,0 @@
-Billy Con Is 1 Week Away, I Hope To See You There! July 11-13 Billy Bobs Wonderland

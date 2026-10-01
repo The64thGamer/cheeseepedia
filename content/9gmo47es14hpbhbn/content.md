@@ -1,1 +1,0 @@
-"Chuck E.'s Place" - Pineville, NC Legacy Store 3-Stage (4K)

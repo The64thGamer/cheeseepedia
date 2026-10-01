@@ -1,1 +1,0 @@
-January 2012 Segment 1 “First Impression, Imagine Nation” (Roving Camera)

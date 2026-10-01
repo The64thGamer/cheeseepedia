@@ -1,1 +1,0 @@
-TOUR: Roseville, Michigan Chuck E. Cheese

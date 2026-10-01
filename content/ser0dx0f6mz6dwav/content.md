@@ -1,1 +1,0 @@
-Footage of [Colonie, NY (1440 Central Ave)]. Beginning is rather comical.

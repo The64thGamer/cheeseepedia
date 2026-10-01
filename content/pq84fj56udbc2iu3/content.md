@@ -1,1 +1,0 @@
-Chuck E. Cheese - Murfreesburo, TN Store Tour

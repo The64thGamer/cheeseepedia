@@ -1,1 +1,0 @@
-TOUR: Lawton, Oklahoma Chuck E. Cheese (Circles of Light)

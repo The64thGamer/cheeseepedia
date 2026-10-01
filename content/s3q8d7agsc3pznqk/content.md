@@ -1,1 +1,0 @@
-"Another Chuck E. Day" - Hicksville Chuck E. Cheese 1-Stage

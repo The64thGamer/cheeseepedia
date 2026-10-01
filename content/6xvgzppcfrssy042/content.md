@@ -1,1 +1,0 @@
-Just Be Yourself! - East Orlando Chuck E. Cheese's

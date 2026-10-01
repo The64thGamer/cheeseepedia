@@ -1,1 +1,0 @@
-Chuck E. Cheese - If Everyone Were Chuck E. (Phoenix, AZ)

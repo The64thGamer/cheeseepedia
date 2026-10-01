@@ -1,1 +1,0 @@
-Chuck E. Cheese's Pizza - Working For A Living Segment 1 (3-Stage)

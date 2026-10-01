@@ -1,1 +1,0 @@
-The History of Elvis at Jungle Jim's

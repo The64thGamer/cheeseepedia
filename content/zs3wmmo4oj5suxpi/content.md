@@ -1,1 +1,0 @@
-ONE LAST Surprise Announcement For BillyCon 6!

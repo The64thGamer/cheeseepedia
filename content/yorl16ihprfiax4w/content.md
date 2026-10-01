@@ -1,1 +1,0 @@
-The Reveal of My Fully Restored Original Chuck E. Cheese Animatronic!

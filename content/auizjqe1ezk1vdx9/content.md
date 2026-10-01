@@ -1,1 +1,0 @@
-I Visit New Jersey's 2-Story Chuck E. Cheese! - East Hanover Tour

@@ -1,1 +1,0 @@
-I Travel To Springfield, IL To See The Legacy Chuck E Cheese Store After Remodel

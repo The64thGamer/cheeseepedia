@@ -1,1 +1,0 @@
-Chuck E. Cheese 3-Stage Tour in Pineville, NC | 6/16/23

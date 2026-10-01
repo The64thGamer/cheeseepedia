@@ -1,1 +1,0 @@
-Dept. 18 Studio Tour - Chuck E. Cheese's Home Office

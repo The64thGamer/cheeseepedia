@@ -1,1 +1,0 @@
-A back-to-school commercial for [Cheektowaga, NY (Thruway Mall)] included in a PTT commercial compilation. Starts at 2:29 and ends at 2:58. Original poster: TheMiamiChuck.

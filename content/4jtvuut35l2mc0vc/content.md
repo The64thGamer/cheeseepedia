@@ -1,1 +1,0 @@
-TOUR: Overland Park, KS Chuck E. Cheese (The 4th Ever ShowBiz Pizza)

@@ -1,1 +1,0 @@
-BillyCon: The Fandom Speaks

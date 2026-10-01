@@ -1,1 +1,0 @@
-Crater Corner - Halloween-Lo-Ween (Full Stage)

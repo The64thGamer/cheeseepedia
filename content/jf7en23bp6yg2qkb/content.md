@@ -1,1 +1,0 @@
-Explanation of Whac-A-Munch machines at RandyLand, including internals.

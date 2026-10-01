@@ -1,1 +1,0 @@
-My Goodbye Visit to the Last Retro Chuck E. Cheese in Maryland

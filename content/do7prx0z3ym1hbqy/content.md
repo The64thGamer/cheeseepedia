@@ -1,1 +1,0 @@
-Chuck E’s Place/Every Boy Every Girl - Northridge, CA Chuck E. Cheese Grand Reopening

@@ -1,1 +1,0 @@
-Chuck E. Cheese's Pizza - American Pride Segment 3

@@ -1,1 +1,0 @@
-"Lend a Helping Hand" - Chuck E. Cheese's East Orlando

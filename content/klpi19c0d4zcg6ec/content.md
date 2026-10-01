@@ -1,1 +1,0 @@
-Chuck E. Cheese - Wilmington, NC One Year Later

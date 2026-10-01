@@ -1,1 +1,0 @@
-I Visit the Chuck E. Cheese Where Caillou Got Grounded

@@ -1,1 +1,0 @@
-Store tour at the final day of Huntington Beach.

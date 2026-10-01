@@ -1,1 +1,0 @@
-I Return To Chuck E Cheese's In Vaughn Ontario To See Their Studio C Stage

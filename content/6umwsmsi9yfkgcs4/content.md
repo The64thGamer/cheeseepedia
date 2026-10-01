@@ -1,1 +1,0 @@
-Your Birthdays Are Special (Tux Chuck) -  Chuck E. Cheese's East Orlando

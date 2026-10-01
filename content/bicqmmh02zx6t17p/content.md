@@ -1,1 +1,0 @@
-I Check Out Chucks Arcade In Victor NY!

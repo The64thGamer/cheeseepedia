@@ -1,1 +1,0 @@
-Footage of Kansas City Chuck E. Cheese's

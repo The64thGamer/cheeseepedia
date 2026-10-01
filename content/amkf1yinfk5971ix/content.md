@@ -1,1 +1,0 @@
-Together We've Got It - Tampa 2-Stage

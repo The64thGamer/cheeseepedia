@@ -1,1 +1,0 @@
-I Visit My 98th CEC Stage In San Diego, CA and See Their 2 Stage For The 1st Time!

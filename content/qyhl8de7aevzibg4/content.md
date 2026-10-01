@@ -1,1 +1,0 @@
-TOUR: Wilmington, DE Chuck E. Cheese (Former ShowBiz Pizza)

@@ -1,1 +1,0 @@
-Chuck E. Cheese - Stay Positive (West Islip, NY)

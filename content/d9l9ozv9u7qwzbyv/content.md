@@ -1,1 +1,0 @@
-Chuck E. Cheese - Spooky Dance (Sharonville, OH)

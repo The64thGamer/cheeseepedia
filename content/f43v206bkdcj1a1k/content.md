@@ -1,1 +1,0 @@
-Ticket to the Moon (ELO) - Crater Corner

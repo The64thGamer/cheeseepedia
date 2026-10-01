@@ -1,1 +1,0 @@
-TOUR: Fort Wayne, Indiana Chuck E. Cheese (Former ShowBiz Pizza)

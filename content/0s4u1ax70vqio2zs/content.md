@@ -1,1 +1,0 @@
-TOUR: Cerritos, California Chuck E. Cheese

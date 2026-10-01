@@ -1,1 +1,0 @@
-Chuck E. Cheese - Chuck E.'s Middle Name (West Des Monies, IA)

@@ -1,1 +1,0 @@
-Chuck E. Cheese's - 2000's (Sharonville, OH)

@@ -1,1 +1,0 @@
-Chuck E. Cheese - Rainy Day (Eastgate, OH)

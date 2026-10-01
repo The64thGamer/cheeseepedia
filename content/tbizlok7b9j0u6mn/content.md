@@ -1,1 +1,0 @@
-Inside One of the Last 2000s Era Chuck E. Cheese's Before it Closes

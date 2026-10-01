@@ -1,1 +1,0 @@
-Chuck E. Cheese - Colerain, OH 5 Years After Closing

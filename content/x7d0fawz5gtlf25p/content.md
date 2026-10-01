@@ -1,1 +1,0 @@
-A Fond Farewell To The Chuck E Cheese In Arlington Texas

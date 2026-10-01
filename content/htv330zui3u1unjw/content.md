@@ -1,1 +1,0 @@
-"Dog Days of Summer" - Hicksville Chuck E. Cheese 1-Stage

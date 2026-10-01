@@ -1,1 +1,0 @@
-I Visit The CEC In Whitby Ontario For My 122nd Stage Visit!

@@ -1,1 +1,0 @@
-Out of This World - Tampa Carrollwood Chuck E. Cheese's 2-Stage

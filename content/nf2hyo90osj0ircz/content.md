@@ -1,1 +1,0 @@
-A Close Look at the Road Stage - Hialeah, FL

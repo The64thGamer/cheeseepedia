@@ -1,1 +1,0 @@
-Dumpster Diving A Closed Chuck E Cheese in Lexington, Kentucky

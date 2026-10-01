@@ -1,1 +1,0 @@
-Up Close and Personal with the Rock-afire Explosion - Billy Bob's Stage

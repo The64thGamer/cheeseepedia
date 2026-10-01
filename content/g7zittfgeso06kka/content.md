@@ -1,1 +1,0 @@
-Visiting Dead Retail Locations In Muncie, Indiana!

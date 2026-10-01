@@ -1,1 +1,0 @@
-The History Of Chuck E. Cheese's Pizza Time Theatre In Memphis, TN

@@ -1,1 +1,0 @@
-Chuck E. Cheese - Birthday 2016 (Florence, KY)

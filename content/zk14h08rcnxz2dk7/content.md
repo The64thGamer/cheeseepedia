@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Holiday Medley 2016 (Colerain, OH)

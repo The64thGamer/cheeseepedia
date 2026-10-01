@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Colerain 2015 Store Tour

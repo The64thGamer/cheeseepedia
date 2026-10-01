@@ -1,1 +1,0 @@
-I Attend BillyCon VI 2026 - Day 2 [Saturday]

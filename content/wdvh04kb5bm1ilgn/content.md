@@ -1,1 +1,0 @@
-Chuck E's Holiday Party (Holiday 1999 Show) Studio C

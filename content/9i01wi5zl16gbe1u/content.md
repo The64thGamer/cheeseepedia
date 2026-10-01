@@ -1,1 +1,0 @@
-Chuck E Cheese Columbus Ohio 2006- Showroom and 3-Stage

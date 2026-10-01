@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Fun For All (Sharonville, OH)

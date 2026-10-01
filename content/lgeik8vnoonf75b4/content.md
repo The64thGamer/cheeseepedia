@@ -1,1 +1,0 @@
-TOUR: Topeka, Kansas Chuck E. Cheese (Now CLOSED)

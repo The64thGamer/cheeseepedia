@@ -1,1 +1,0 @@
-Smile America Hong Kong Ad meantioning the Taikoo Shing location, but unconfirmed which is shown.

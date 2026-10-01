@@ -1,1 +1,0 @@
-Crater Corner - "Birdhouse In Your Soul" (Lincoln County, NV)

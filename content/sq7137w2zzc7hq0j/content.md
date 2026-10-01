@@ -1,1 +1,0 @@
-TOUR: Las Vegas, NV (Nellis Blvd) Chuck E. Cheese

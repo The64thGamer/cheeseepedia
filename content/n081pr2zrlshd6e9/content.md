@@ -1,1 +1,0 @@
-Chuck E. Cheese - Bailando (Florence, KY)

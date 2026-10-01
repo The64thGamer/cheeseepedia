@@ -1,1 +1,0 @@
-TOUR: Lansing, Michigan Chuck E. Cheese

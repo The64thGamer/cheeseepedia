@@ -1,1 +1,0 @@
-BillyCon VI Promo - Don't Miss Out On BillyCon 6!

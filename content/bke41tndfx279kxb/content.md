@@ -1,1 +1,0 @@
-Chuck E. Cheese - Holiday Medley (Springfield, PA)

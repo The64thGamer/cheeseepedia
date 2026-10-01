@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Jasper's Summertime (Summer 2007)

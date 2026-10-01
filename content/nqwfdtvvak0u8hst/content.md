@@ -1,1 +1,0 @@
-Crater Corner - The King of Wishful Thinking

@@ -1,1 +1,0 @@
-"Chasin' Me a Truck" - Pineville, NC Chuck E. Cheese 3-Stage (4K Multi-cam)

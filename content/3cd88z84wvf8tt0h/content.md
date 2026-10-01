@@ -1,1 +1,0 @@
-Chuck E. Cheese - Parts of January 2014 Segment 2 (Colerain, OH)

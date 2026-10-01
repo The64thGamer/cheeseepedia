@@ -1,1 +1,0 @@
-Chuck E. Cheese - El Rey Guitarrista (Florence, Ky)

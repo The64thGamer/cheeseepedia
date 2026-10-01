@@ -1,1 +1,0 @@
-Chuck E. Cheese - Laughter is the best Medicine (Colerain, OH)

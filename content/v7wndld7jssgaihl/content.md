@@ -1,1 +1,0 @@
-I Return To Sacramento Chuck E. Cheese And Visit The 2 Stage!

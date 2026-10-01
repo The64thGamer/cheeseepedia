@@ -1,1 +1,0 @@
-TOUR: Northridge, CA Chuck E. Cheese Legacy Store | 2-Stage

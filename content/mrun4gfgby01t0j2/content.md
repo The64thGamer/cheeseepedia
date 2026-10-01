@@ -1,1 +1,0 @@
-Chuck E. Cheese - Merry Christmastime 2016 (Springfield, OH)

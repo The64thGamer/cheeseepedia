@@ -1,1 +1,0 @@
-The Premiere of Chuck E.'s Awesome Adventure Machine (August 1996 Segment 1 AAM)

@@ -1,1 +1,0 @@
-"Lend A Helping Hand" - Chuck E. Cheese's Tampa 2-Stage (Full Shot Version)

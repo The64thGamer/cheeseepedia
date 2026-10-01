@@ -1,1 +1,0 @@
-Birthday Medley (original cover) || Crater Corner (Rockaria)

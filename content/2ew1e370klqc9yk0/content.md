@@ -1,1 +1,0 @@
-Rockin' Robot (Tripod Version) - Chuck E. Cheese's East Orlando

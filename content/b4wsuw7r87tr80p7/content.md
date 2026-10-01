@@ -1,1 +1,0 @@
-I Got Turned Away From 3 Different CEC's For Filming In The Greater Los Angeles Area.

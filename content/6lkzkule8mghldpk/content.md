@@ -1,1 +1,0 @@
-I Explore An Abandoned Chuck E Cheese in Columbus, IN

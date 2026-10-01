@@ -1,1 +1,0 @@
-The History of ShowBiz Pizza Place & Chuck E. Cheese in Arlington, Texas (Ft. @MattTheFranchize)

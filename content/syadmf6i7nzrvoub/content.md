@@ -1,1 +1,0 @@
-Checking Out Chucks Arcade In Tulsa, OK!

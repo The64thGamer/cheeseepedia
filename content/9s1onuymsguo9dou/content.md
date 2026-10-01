@@ -1,1 +1,0 @@
-Footage of the store after closure.

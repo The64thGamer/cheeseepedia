@@ -1,1 +1,0 @@
-Chuck E. Cheese - What Do You Get A Sasquatch for Christmas (Mays Landing, NJ)

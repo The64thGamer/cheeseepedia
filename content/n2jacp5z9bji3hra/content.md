@@ -1,1 +1,0 @@
-I Return To The CEC In Springfield MO To See The 2.0 Remodel

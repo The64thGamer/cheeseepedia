@@ -1,1 +1,0 @@
-I Visit The Best Looking Road Stage In Existence! And It Has A One Of A Kind Feature!

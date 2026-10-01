@@ -1,1 +1,0 @@
-Best of CEC TV 2008 Segment 7 (Just Being Me, First Impression) Close Up

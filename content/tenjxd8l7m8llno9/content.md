@@ -1,1 +1,0 @@
-Seeing The Dixie Diggers Perform At Huckleberry Junction Playhouse Theater!

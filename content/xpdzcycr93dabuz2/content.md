@@ -1,1 +1,0 @@
-Saying Goodbye to Toledo Chuck E. Cheese (One of the Last 1-Stage Cyberamics)

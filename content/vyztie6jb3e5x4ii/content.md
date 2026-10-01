@@ -1,1 +1,0 @@
-Jacksonville Avenues Chuck E. Cheese's Store Tour

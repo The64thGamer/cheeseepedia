@@ -1,1 +1,0 @@
-"Me & My Friends" - Hicksville, NY Chuck E. Cheese 1-Stage

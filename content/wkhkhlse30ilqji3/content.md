@@ -1,1 +1,0 @@
-I Visit My 83rd CEC In Dothan AL To See A Studio C Cappa Stage for Day 6 Of 8 Days Of Cheese

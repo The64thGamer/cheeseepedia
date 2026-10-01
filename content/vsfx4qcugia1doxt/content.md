@@ -1,1 +1,0 @@
-I Check Out The Hicksville Chuck E Cheese Legacy Store In New York!

@@ -1,1 +1,0 @@
-Store Tour- Chuck E. Cheese's Columbus OH, 2011 (HD Reupload)

@@ -1,1 +1,0 @@
-I See A 1 Of A Kind Chuck E. Cheese's Studio C Beta Stage In Chicago For My 86th CEC Stage Visit!

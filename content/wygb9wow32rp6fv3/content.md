@@ -1,1 +1,0 @@
-TOUR: Roanoke, Virginia Chuck E. Cheese (Former ShowBiz Pizza)

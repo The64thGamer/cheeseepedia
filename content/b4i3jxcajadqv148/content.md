@@ -1,1 +1,0 @@
-I Visit The Studio C Beta Stage At The CEC In Charleston WV

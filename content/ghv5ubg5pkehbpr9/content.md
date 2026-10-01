@@ -1,1 +1,0 @@
-Chuck E. Cheese - Holiday Medley (West Orlando, FL)

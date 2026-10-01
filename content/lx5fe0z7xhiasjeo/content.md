@@ -1,1 +1,0 @@
-"Jasper's Snowman" - Pineville, NC Chuck E. Cheese 3-Stage

@@ -1,1 +1,0 @@
-TOUR: Buffalo, NY Flagship Chuck E. Cheese (Unique Feature)

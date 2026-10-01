@@ -1,1 +1,0 @@
-I Visit my 121st CEC for the 1st time to see their Cappa stage! Sumter, SC

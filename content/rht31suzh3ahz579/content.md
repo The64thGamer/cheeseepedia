@@ -1,1 +1,0 @@
-Seeing the NEW Animatronic at Nanuet's Chuck E. Cheese Retro Store!

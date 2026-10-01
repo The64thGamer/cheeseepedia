@@ -1,1 +1,0 @@
-TOUR: Henderson, Nevada Chuck E. Cheese

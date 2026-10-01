@@ -1,1 +1,0 @@
-TOUR: Plano, TX Chuck E. Cheese (Film Set & The 1st Dance Floor)

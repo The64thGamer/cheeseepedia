@@ -1,1 +1,0 @@
-Rolfe & Earl Diagnostics Test

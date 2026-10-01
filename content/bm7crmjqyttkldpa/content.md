@@ -1,1 +1,0 @@
-Chuck E. Cheese - Chuck E 's Yuletide Slide (North Charleston, SC)

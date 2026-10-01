@@ -1,1 +1,0 @@
-Chuck E. Cheese's - First Quarter 2014 Show Segment 1 (3-Stage)

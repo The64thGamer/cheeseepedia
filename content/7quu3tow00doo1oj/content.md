@@ -1,1 +1,0 @@
-[Greece, NY (3160 W Ridge Rd)] in January 1987, featuring the store's [Balcony Stage].

@@ -1,1 +1,0 @@
-I Visit The Abandoned Chuck E. Cheese's In Amarillo Texas!

@@ -1,1 +1,0 @@
-I Return To Chuck E. Cheese In Amarillo, TX To See Their 1 Stage

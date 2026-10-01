@@ -1,1 +1,0 @@
-Birthday at Huntington Beach, showing off a Cyberamics Balcony stage and arcade machines.

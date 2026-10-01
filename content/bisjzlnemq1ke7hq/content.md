@@ -1,1 +1,0 @@
-Chuck E. Cheese - Altoona, PA Store Tour

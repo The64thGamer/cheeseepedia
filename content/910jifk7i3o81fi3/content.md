@@ -1,1 +1,0 @@
-Chuck E. Cheese's - September 2004 Segment 2 (3-Stage)

@@ -1,1 +1,0 @@
-The Fun Continues at BillyCon 6! (Rockafire, CEC, Animatronic Convention - Part 2)

@@ -1,1 +1,0 @@
-One of the human Mijjins's mech from [The Mijjins] currently at Randyland

@@ -1,1 +1,0 @@
-Chuck E. Cheese - Princeton NJ Store Tour

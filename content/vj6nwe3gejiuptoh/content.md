@@ -1,1 +1,0 @@
-I Found VINTAGE Chuck E Cheese Signage At The Antique Mall!

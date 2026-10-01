@@ -1,1 +1,0 @@
-"Crocodile Rock" - Chuck E. Cheese's January 2013 Show Segment 3

@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Rockin' Robot (Phoenix, AZ)

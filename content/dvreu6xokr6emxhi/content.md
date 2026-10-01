@@ -1,1 +1,0 @@
-One Of The Rarest Stages at Chuck E. Cheese In Springfield Illinois! Believed To Be Haunted!

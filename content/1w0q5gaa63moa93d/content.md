@@ -1,1 +1,0 @@
-I Return To The CEC Legacy Store In Nanuet, NY To See What Changes They've Made!

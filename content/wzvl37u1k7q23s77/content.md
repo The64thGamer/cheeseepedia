@@ -1,1 +1,0 @@
-"It's The 70's" - East Orlando Chuck E. Cheese's

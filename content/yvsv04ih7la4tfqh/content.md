@@ -1,1 +1,0 @@
-Chuck E. Cheese - Crochet All Day (Northridge, CA)

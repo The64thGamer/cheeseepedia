@@ -1,1 +1,0 @@
-Chuck E. Cheese - Lend a Helping Hand (Springfield, OH)

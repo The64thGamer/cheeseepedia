@@ -1,1 +1,0 @@
-TOUR: Wyomissing, PA Chuck E. Cheese (Now CLOSED)

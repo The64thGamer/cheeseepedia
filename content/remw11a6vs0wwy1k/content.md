@@ -1,1 +1,0 @@
-I Visit Fun Spot Arcade: CEC Entertainment's Brand New Prototype Arcade In Trumbull CT!

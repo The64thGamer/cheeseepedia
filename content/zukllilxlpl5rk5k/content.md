@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Purple Planet Point Of View (Sharonville, OH)

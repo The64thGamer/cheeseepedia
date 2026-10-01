@@ -1,1 +1,0 @@
-Grand Prairie, TX Chuck E. Cheese's Store Tour

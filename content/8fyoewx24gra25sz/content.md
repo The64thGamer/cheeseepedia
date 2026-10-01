@@ -1,1 +1,0 @@
-The History of ShowBiz Pizza & Chuck E. Cheese in Norcross, Georgia

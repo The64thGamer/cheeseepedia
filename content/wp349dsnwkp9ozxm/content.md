@@ -1,1 +1,0 @@
-I Visit The Last Chuck E. Animatronic Left In Kansas City!

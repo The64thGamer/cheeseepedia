@@ -1,1 +1,0 @@
-I Stop And See A Studio C Beta Store In Everett, Massachusetts

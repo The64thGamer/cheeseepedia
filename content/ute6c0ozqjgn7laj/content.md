@@ -1,1 +1,0 @@
-Summer 2012 Segment 4 (Good Old Summertime, SPF) Close Up

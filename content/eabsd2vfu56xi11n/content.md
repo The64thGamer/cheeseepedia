@@ -1,1 +1,0 @@
-Kennesaw, Georgia Chuck E. Cheese Store Tour

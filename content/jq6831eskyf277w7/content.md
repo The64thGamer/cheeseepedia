@@ -1,1 +1,0 @@
-Visiting Chuck E Cheese in Spokane Wa

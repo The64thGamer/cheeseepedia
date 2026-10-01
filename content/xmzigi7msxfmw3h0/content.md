@@ -1,1 +1,0 @@
-TOUR: Fayetteville, NC Chuck E. Cheese (Ninja Run & Pogo Jump!)

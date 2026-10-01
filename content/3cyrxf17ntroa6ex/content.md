@@ -1,1 +1,0 @@
-Chuck E. Cheese's - Chuck E.'s Place 1991 audio (Sharonville, OH)

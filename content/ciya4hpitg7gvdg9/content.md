@@ -1,1 +1,0 @@
-Corn & Butter - "Tiptoe through the Tulips"

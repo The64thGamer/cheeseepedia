@@ -1,1 +1,0 @@
-Little Red Riding Hood - Crater Corner

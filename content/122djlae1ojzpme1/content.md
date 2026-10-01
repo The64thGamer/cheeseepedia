@@ -1,1 +1,0 @@
-Chuck E. Cheese - Most Perfect Day (Northridge, CA)

@@ -1,1 +1,0 @@
-Chuck E. Cheese - Sammy the Skateboarding Skeleton (Edison, NJ)

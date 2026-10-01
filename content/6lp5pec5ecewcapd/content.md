@@ -1,1 +1,0 @@
-Jasper T. Jowls - Arizona

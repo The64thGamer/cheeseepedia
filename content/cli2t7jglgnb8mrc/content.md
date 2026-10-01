@@ -1,1 +1,0 @@
-Chuck E. Cheese - Cat-Sitting (Florence, Ky)

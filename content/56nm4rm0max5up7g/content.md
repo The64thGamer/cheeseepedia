@@ -1,1 +1,0 @@
-TOUR: Pineville, NC Chuck E. Cheese Legacy Store | 3-Stage & Retro Room

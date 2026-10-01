@@ -1,1 +1,0 @@
-Chuck E. Cheese - Your Birthdays Are Special (Plaza Oeste, Chile) (Third to last performance)

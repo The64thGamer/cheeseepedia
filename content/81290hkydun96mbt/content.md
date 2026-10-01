@@ -1,1 +1,0 @@
-TOUR: West Palm Beach, FL Chuck E. Cheese | Circles of Light

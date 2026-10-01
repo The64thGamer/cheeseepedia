@@ -1,1 +1,0 @@
-Jasper's "Arizona" - Huntington Beach, CA Chuck E. Cheese 2-Stage

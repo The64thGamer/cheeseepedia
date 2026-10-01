@@ -1,1 +1,0 @@
-Another Chuck E. Day - East Orlando Chuck E. Cheese's

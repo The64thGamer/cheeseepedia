@@ -1,1 +1,0 @@
-Chuck E. Cheese - Together We've Got It (Wyomissing, PA)

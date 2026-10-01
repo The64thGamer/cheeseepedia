@@ -1,1 +1,0 @@
-Chuck E  Cheese - Be Yourself (Florence, Ky)

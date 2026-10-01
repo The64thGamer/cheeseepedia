@@ -1,1 +1,0 @@
-TOUR: Springfield, Ohio Chuck E. Cheese (Former ShowBiz Pizza)
