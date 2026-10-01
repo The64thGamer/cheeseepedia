@@ -1,6 +1,7 @@
 let titleToFolderIDMap = null;
 let FolderIDToTitleMap = null;
 let ViewsMap = null;
+let TypeToIDList = null;
 
 export async function loadTitleToFolderIDMap() {
   if (!titleToFolderIDMap) {
@@ -24,4 +25,12 @@ export async function loadViewsMap() {
     ViewsMap = await res.json();
   }
   return ViewsMap;
+}
+
+export async function loadTypeToIDList() {
+  if (!TypeToIDList) {
+    const res = await fetch('/viewers/cep-solid/compiled-json/typeToIDList.json');
+    TypeToIDList = await res.json();
+  }
+  return TypeToIDList;
 }

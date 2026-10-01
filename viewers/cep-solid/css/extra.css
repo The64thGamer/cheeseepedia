@@ -1067,6 +1067,7 @@ sup a:hover {
   background-color: var(--background);
   flex-shrink: 0;
   font-family: var(--font-body);
+  background: var(--secondary);
 }
 
 .ArticleHeaderBtns .PinButton {

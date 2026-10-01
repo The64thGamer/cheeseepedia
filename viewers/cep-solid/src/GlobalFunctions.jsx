@@ -145,10 +145,22 @@ export async function fetchCardExcerpt(meta, maxLength = 160) {
 }
 
 export async function fetchThumbnailWLinkToArticle(meta) {
-  if (!meta?.pageThumbnailFile) return null;
+  const link = await fetchFolderIDFromTitle(meta.title);
+  if (!link) return null;
 
-  const link = await fetchFolderIDFromTitle(meta.title)
-  const thumbnailFolderID = await fetchFolderIDFromTitle(meta.pageThumbnailFile);
+  let thumbnailFolderID = null;
+
+  if (meta?.pageThumbnailFile) {
+    thumbnailFolderID = await fetchFolderIDFromTitle(meta.pageThumbnailFile);
+  } else {
+    const hasOwnPhoto = await new Promise((resolve) => {
+      const probe = new Image();
+      probe.onload = () => resolve(true);
+      probe.onerror = () => resolve(false);
+      probe.src = `/content/${link}/photo.avif`;
+    });
+    if (hasOwnPhoto) thumbnailFolderID = link;
+  }
   if (!thumbnailFolderID) return null;
 
   return (

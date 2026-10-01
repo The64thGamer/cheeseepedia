@@ -6,6 +6,7 @@ CONTENT_DIR = "content"
 OUT_TITLE_TO_ID = os.path.join(os.path.dirname(__file__), "..", "compiled-json/titleToFolderIDMap.json")
 OUT_ID_TO_TITLE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/folderIDToTitleMap.json")
 OUT_MAP_PINS    = os.path.join(os.path.dirname(__file__), "..", "compiled-json/map_pins.json")
+OUT_TYPE_TO_IDS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/typeToIDList.json")
 
 REMODEL_PIN_MAP = {
     "PTT Standard Layout": "0",
@@ -36,12 +37,15 @@ def main():
     remove_backslashes()
     title_to_id = build_title_to_id_map()
     id_to_title = build_id_to_title_map(title_to_id)
-
+    type_to_ids = build_type_to_ids()
+    
+    write_json(type_to_ids, OUT_TYPE_TO_IDS)
     write_json(title_to_id, OUT_TITLE_TO_ID)
     write_json(id_to_title, OUT_ID_TO_TITLE)
 
     print(f'Wrote {len(title_to_id)} titles -> {OUT_TITLE_TO_ID}')
     print(f'Wrote {len(id_to_title)} ids -> {OUT_ID_TO_TITLE}')
+    print(f'Wrote {len(type_to_ids)} types -> {OUT_TYPE_TO_IDS}')
 
     build_map_pins()
 
@@ -92,6 +96,27 @@ def build_title_to_id_map():
             continue
     return index
 
+
+def build_type_to_ids():
+    by_type = {}
+    for folder in Path(CONTENT_DIR).iterdir():
+        if not folder.is_dir():
+            continue
+        meta = folder / 'meta.json'
+        if not meta.exists():
+            continue
+        try:
+            fm = json.loads(meta.read_text(encoding='utf-8'))
+        except Exception:
+            continue
+        t = (fm.get('type') or '').strip().lower()
+        if not t:
+            continue
+        by_type.setdefault(t, []).append(folder.name)
+
+    for ids in by_type.values():
+        ids.sort()
+    return dict(sorted(by_type.items()))
 
 def build_id_to_title_map(title_to_id):
     return {folder_id: title for title, folder_id in title_to_id.items()}

@@ -1,12 +1,17 @@
-import { createResource, createSignal, Show, For } from 'solid-js';
+import { createResource, createSignal, createEffect, untrack, Show, For } from 'solid-js';
 import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks } from './GlobalFunctions';
 import { marked } from 'marked';
-import { loadFolderIDToTitleMap, loadViewsMap }  from './GlobalJsonCache'
+import { loadFolderIDToTitleMap,loadTypeToIDList, loadViewsMap }  from './GlobalJsonCache'
 import { fetchLocationMap } from './GlobalFunctions';
 
 const EXCLUDE = new Set(['photos','videos','reviews','user','steam comments','theories','meta','transcriptions']);
+const TABS = {
+  Articles: (t) => !EXCLUDE.has(t),
+  Photos:   (t) => t === 'photos',
+  Videos:   (t) => t === 'videos',
+  Reviews:  (t) => t === 'reviews',
+};
 const MAX_RANDOM_CARDS = 15;
-const MAX_RANDOM_CARDS_VIEWCOUNT = 20;
 
 export function renderArticle(meta){
     switch (meta.type) {
@@ -65,30 +70,49 @@ export function renderArticle(meta){
 }
 
 export async function renderStandardCard(meta) {
-    let pageThumbnail = await fetchThumbnailWLinkToArticle(meta);
-    if (!pageThumbnail) {
-      pageThumbnail = await fetchCardExcerpt(meta);
-    }
+  const link = await fetchFolderIDFromTitle(meta.title);
+  const type = (meta.type || '').toLowerCase();
+  const typeClass = type.replace(/s$/, '').replace(/[^a-z0-9]+/g, '-'); 
 
-    const link = await fetchFolderIDFromTitle(meta.title)
-    const viewsMap = await loadViewsMap();
+  let pageThumbnail = await fetchThumbnailWLinkToArticle(meta);
+  if (!pageThumbnail) {
+    pageThumbnail = await fetchCardExcerpt(meta);
+  }
 
-    return (
-    <div class="Card fade-in">
-        <div class="CardImage">{pageThumbnail}</div>
-        <div class="CardTextArea">
+  const viewsMap = await loadViewsMap();
+
+  let label = meta.title;
+  if (type === 'photos') {
+    try {
+      const res = await fetch(`/content/${link}/content.md`);
+      const isHtml = (res.headers.get('content-type') || '').includes('text/html');
+      if (res.ok && !isHtml) {
+        const text = (await res.text()).trim();
+        if (text) label = text;
+      }
+    } catch {}
+  }
+
+  return (
+    <div class={`Card fade-in${typeClass ? ` type-${typeClass}` : ''}`}>
+      <div class="CardImage">{pageThumbnail}</div>
+      <div class="CardTextArea">
         <div class="CardLink">
-            <span>
-            <a href={getFolderPath(link)}>{meta.title}</a>
-            </span>
+          <span>
+            <a href={getFolderPath(link)}>{label}</a>
+          </span>
         </div>
         <div class="CardText">
-            <strong>{convertStartDate(meta.startDate)} – {convertEndDate(meta.endDate)}</strong>
-            {" "}👁{viewsMap[link]}
+          <strong>
+            {EXCLUDE.has(type)
+              ? convertStartDate(meta.startDate)
+              : <>{convertStartDate(meta.startDate)} – {convertEndDate(meta.endDate)}</>}
+          </strong>
+          {" "}👁{viewsMap[link]}
         </div>
-        </div>
+      </div>
     </div>
-    );
+  );
 }
 
 export function renderFooter(){
@@ -121,48 +145,84 @@ export function renderHeader(){
 }
 
 
+
 export function renderRandomCards() {
-  const [entries, setEntries] = createSignal([]); 
-  const [loaded, setLoaded] = createSignal(false);
+  const [tab, setTab] = createSignal('Articles');
 
-  (async () => {
-    const [idMap, viewsMap] = await Promise.all([
-      loadFolderIDToTitleMap(),
-      loadViewsMap(),
-    ]);
+  const state = {};
+  for (const name of Object.keys(TABS)) {
+    const [entries, setEntries] = createSignal([]);
+    const [loaded, setLoaded] = createSignal(false);
+    state[name] = { entries, setEntries, loaded, setLoaded, started: false };
+  }
+  const current = () => state[tab()];
 
-    const ids = Object.keys(idMap).sort(() => Math.random() - 0.5);
+    let dataPromise;
+  const getData = () =>
+    (dataPromise ??= Promise.all([loadTypeToIDList(), loadViewsMap()]));
+
+  async function load(name) {
+    const s = state[name];
+    if (s.started) return;
+    s.started = true;
+
+    const matches = TABS[name];
+    const [typeMap, viewsMap] = await getData();
+
+    const ids = Object.entries(typeMap)
+      .filter(([type]) => matches(type))
+      .flatMap(([, list]) => list)
+      .sort(() => Math.random() - 0.5);
+
     let count = 0;
 
     for (let i = 0; i < ids.length && count < MAX_RANDOM_CARDS; i += 20) {
       await Promise.all(
         ids.slice(i, i + 20).map(async (id) => {
-          if (count >= MAX_RANDOM_CARDS || !(viewsMap[id] > MAX_RANDOM_CARDS_VIEWCOUNT)) return;
+          if (count >= MAX_RANDOM_CARDS) return;
+
           const m = await fetchMeta(id).catch(() => null);
-          if (!m || EXCLUDE.has((m.type || '').toLowerCase()) || count >= MAX_RANDOM_CARDS) return;
+          if (!m || count >= MAX_RANDOM_CARDS) return;
           count++;
 
           const card = await renderStandardCard(m);
           const views = viewsMap[id];
 
-          setEntries((prev) => {
+          s.setEntries((prev) => {
             const next = [...prev, { views, card }];
-            next.sort((a, b) => b.views - a.views); 
+            next.sort((a, b) => b.views - a.views);
             return next;
           });
         })
       );
     }
-    setLoaded(true);
-  })();
+    s.setLoaded(true);
+  }
+
+  createEffect(() => {
+    const t = tab();
+    untrack(() => load(t));
+  });
 
   return (
     <>
-      <h2>Random Articles</h2>
+      <h2>Random {tab()}</h2>
+      <div>
+        <For each={Object.keys(TABS)}>
+          {(name) => (
+            <button type="button" class="PinButton" onClick={() => setTab(name)}>
+              {name}
+            </button>
+          )}
+        </For>
+      </div>
       <div id="RandomCards" class="Carousel">
-        <For each={entries()}>{(e) => e.card}</For>
-        <Show when={!loaded() && entries().length === 0}>
+        <For each={current().entries()}>{(e) => e.card}</For>
+        <Show when={!current().loaded() && current().entries().length === 0}>
           <div>Loading…</div>
+        </Show>
+        <Show when={current().loaded() && current().entries().length === 0}>
+          <div>Nothing found.</div>
         </Show>
       </div>
     </>
