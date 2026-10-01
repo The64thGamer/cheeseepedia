@@ -82,7 +82,7 @@ function timeAgo(unixSeconds){
 
 export async function renderArticleMeta(app, articleId){
   const [docs, views] = await Promise.all([getSearchDocs(), getViews()]);
-  const doc   = docs.find(d => d.p === articleId);
+  const doc = docs.find(d => d && d.p === articleId);
   const mt    = doc?.mt || 0;
   const count = views[articleId] ?? 0;
 

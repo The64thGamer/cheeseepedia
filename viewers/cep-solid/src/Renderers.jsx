@@ -108,14 +108,13 @@ export function renderHeader(){
     <>
     <div class="Header">
       <div class="SplashText" id="SpashText">. . .</div>
-      <a href="/" class="Logo">
-      </a>
+      <a href="/" class="Logo"></a>
       <div class="FlavorText">
-      Now at <strong><span id="StatArticles">????</span></strong> articles contributed by <strong><span id="StatContributors">???</span></strong> users.
-      <br/>
-              Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
-          </div>
-          <div class="Search"></div>
+        Now at <strong><span id="StatArticles">????</span></strong> articles contributed by <strong><span id="StatContributors">???</span></strong> users.
+        <br/>
+        Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
+      </div>
+      <div class="Search"></div>
     </div>
     </>
   )
