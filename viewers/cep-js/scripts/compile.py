@@ -19,7 +19,7 @@ import buildLowPhotos
 def main():
     print("Start (CEP-JS)")
     discourseFetchNews.main()
-    buildYouTubePages.main()
+    #buildYouTubePages.main()
     buildLowPhotos.main()
     buildSearch.main()
     buildArticleLinker.main()
