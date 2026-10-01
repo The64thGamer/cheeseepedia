@@ -1,9 +1,17 @@
-[0:05] [Applause]
-[0:05] [Music]
-[0:07] [Applause]
-[1:58] [Applause]
-[1:58] [Music]
-[2:26] [Music]
-[2:26] [Applause]
-[2:38] [Music]
-[2:38] [Applause]
+{0:05} {Applause}
+
+{0:05} {Music}
+
+{0:07} {Applause}
+
+{1:58} {Applause}
+
+{1:58} {Music}
+
+{2:26} {Music}
+
+{2:26} {Applause}
+
+{2:38} {Music}
+
+{2:38} {Applause}

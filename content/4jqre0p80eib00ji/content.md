@@ -1,11 +1,21 @@
-[0:01] [Music]
-[0:01] foreign
-[0:02] [Music]
-[0:43] [Applause]
-[0:43] foreign
-[0:49] [Applause]
-[0:49] [Music]
-[0:50] [Applause]
-[1:13] [Music]
-[1:13] [Applause]
-[1:15] [Music]
+{0:01} {Music}
+
+{0:01} foreign
+
+{0:02} {Music}
+
+{0:43} {Applause}
+
+{0:43} foreign
+
+{0:49} {Applause}
+
+{0:49} {Music}
+
+{0:50} {Applause}
+
+{1:13} {Music}
+
+{1:13} {Applause}
+
+{1:15} {Music}

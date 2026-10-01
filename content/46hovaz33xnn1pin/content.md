@@ -1,2 +1,3 @@
-[3:43] [Applause]
-[3:43] [Music]
+{3:43} {Applause}
+
+{3:43} {Music}

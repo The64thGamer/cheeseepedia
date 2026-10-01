@@ -1,25 +1,49 @@
-[0:32] [Music]
-[0:32] so
-[0:52] [Applause]
-[0:52] [Music]
-[1:05] [Applause]
-[1:08] [Music]
-[1:45] so
-[1:45] [Music]
-[1:56] [Applause]
-[1:59] [Music]
-[2:14] [Applause]
-[2:14] [Music]
-[2:21] [Applause]
-[2:21] [Music]
-[2:35] so
-[2:35] [Music]
-[3:05] um
-[4:05] [Music]
-[4:05] [Applause]
-[4:26] [Music]
-[4:26] [Applause]
-[4:36] [Music]
-[4:36] [Applause]
-[4:40] [Music]
-[4:44] you
+{0:32} {Music}
+
+{0:32} so
+
+{0:52} {Applause}
+
+{0:52} {Music}
+
+{1:05} {Applause}
+
+{1:08} {Music}
+
+{1:45} so
+
+{1:45} {Music}
+
+{1:56} {Applause}
+
+{1:59} {Music}
+
+{2:14} {Applause}
+
+{2:14} {Music}
+
+{2:21} {Applause}
+
+{2:21} {Music}
+
+{2:35} so
+
+{2:35} {Music}
+
+{3:05} um
+
+{4:05} {Music}
+
+{4:05} {Applause}
+
+{4:26} {Music}
+
+{4:26} {Applause}
+
+{4:36} {Music}
+
+{4:36} {Applause}
+
+{4:40} {Music}
+
+{4:44} you

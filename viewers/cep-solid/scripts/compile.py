@@ -278,9 +278,9 @@ def vtt_to_text(vtt):
             l = re.sub(r"\s+", " ", re.sub(r"[\x00-\x1f\x7f]+", " ", l.replace("\\", ""))).strip()
             if l:
                 cur.append(l)
-        out.extend(f"[{ts}] {l}" for l in cur if l not in prev)
+        out.extend(f"{{{ts}}} {l}" for l in cur if l not in prev)
         prev = set(cur)
-    return "\n".join(out)
+    return "\n\n".join(out)
 
 def fetch_transcript(url):
     with tempfile.TemporaryDirectory() as tmp:
