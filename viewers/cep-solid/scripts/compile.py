@@ -1,12 +1,17 @@
 #!/usr/bin/env python3
 import json, os, subprocess, sys, calendar, datetime
 from pathlib import Path
+import re, shutil, tempfile, html, io
+import urllib.request, urllib.error
 
 CONTENT_DIR = "content"
 OUT_TITLE_TO_ID = os.path.join(os.path.dirname(__file__), "..", "compiled-json/titleToFolderIDMap.json")
 OUT_ID_TO_TITLE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/folderIDToTitleMap.json")
 OUT_MAP_PINS    = os.path.join(os.path.dirname(__file__), "..", "compiled-json/map_pins.json")
 OUT_TYPE_TO_IDS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/typeToIDList.json")
+THUMB_FIELD = "pageThumbnailLink"
+THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
+
 
 REMODEL_PIN_MAP = {
     "PTT Standard Layout": "0",
@@ -34,6 +39,7 @@ TRACKED_REMODELS = set(REMODEL_PIN_MAP.keys()) | {
 
 
 def main():
+    process_video_articles()
     remove_backslashes()
     title_to_id = build_title_to_id_map()
     id_to_title = build_id_to_title_map(title_to_id)
@@ -249,6 +255,99 @@ def build_map_pins():
     print(f"mapPins.json — {len(locations)} locations written")
     print(f"  locations with tracked remodels: {locations_with_remodels}")
 
+def youtube_id(url):
+    m = re.search(r"(?:youtu\.be/|[?&]v=|/shorts/|/embed/|/live/)([A-Za-z0-9_-]{11})", url or "")
+    return m.group(1) if m else None
+
+
+def vtt_to_text(vtt):
+    lines = []
+    for line in vtt.splitlines():
+        line = line.strip()
+        if not line or "-->" in line or line.startswith(("WEBVTT", "Kind:", "Language:", "NOTE")):
+            continue
+        line = html.unescape(re.sub(r"<[^>]+>", "", line)).strip()
+        if line and (not lines or lines[-1] != line):
+            lines.append(line)
+    text = re.sub(r"[\x00-\x1f\x7f]+", " ", " ".join(lines)).replace("\\", "")
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def fetch_transcript(url):
+    with tempfile.TemporaryDirectory() as tmp:
+        try:
+            r = subprocess.run(
+                ["yt-dlp", "--skip-download", "--no-playlist", "--write-subs", "--write-auto-subs",
+                 "--sub-langs", "en.*", "--sub-format", "vtt", "-o", os.path.join(tmp, "%(id)s"), url],
+                capture_output=True, text=True, timeout=180,
+            )
+        except Exception as e:
+            print(f"  yt-dlp error: {e}", file=sys.stderr)
+            return None
+        if r.returncode != 0:
+            err = r.stderr.strip().splitlines()
+            print(f"  yt-dlp failed: {err[-1] if err else r.returncode}", file=sys.stderr)
+            return None
+        files = sorted(Path(tmp).glob("*.vtt"), key=lambda p: len(p.name))
+        return vtt_to_text(files[0].read_text(encoding="utf-8", errors="replace")) if files else ""
+
+
+def download_thumbnail(vid, dest):
+    try:
+        from PIL import Image
+    except ImportError:
+        print("  Pillow is not installed (pip install pillow)", file=sys.stderr)
+        return None
+    for name in THUMB_CANDIDATES:
+        try:
+            req = urllib.request.Request(f"https://i.ytimg.com/vi/{vid}/{name}.jpg", headers={"User-Agent": "Mozilla/5.0"})
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = resp.read()
+            if len(data) < 1000:
+                continue
+            Image.open(io.BytesIO(data)).convert("RGB").save(dest, "AVIF", quality=60)
+            return name
+        except (urllib.error.URLError, OSError, ValueError, KeyError) as e:
+            print(f"  thumbnail '{name}' failed: {e}", file=sys.stderr)
+    return None
+
+
+def process_video_articles():
+    if not Path(CONTENT_DIR).exists():
+        return
+    have_ytdlp = shutil.which("yt-dlp") is not None
+    if not have_ytdlp:
+        print("yt-dlp not found on PATH, skipping video transcripts", file=sys.stderr)
+
+    for folder in sorted(Path(CONTENT_DIR).iterdir()):
+        meta_path = folder / "meta.json"
+        if not folder.is_dir() or not meta_path.exists():
+            continue
+        try:
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        url = (meta.get(THUMB_FIELD) or "").strip()
+        if (meta.get("type") or "").strip().lower() != "videos" or not url:
+            continue
+
+        md = folder / "content.md"
+        if have_ytdlp and not md.exists():
+            print(f"Fetching transcript: {folder.name}")
+            text = fetch_transcript(url)
+            if text is not None:
+                md.write_text(text, encoding="utf-8")
+                print(f"  wrote content.md ({len(text)} chars)" if text else "  no transcript, wrote empty content.md")
+
+        photo = folder / "photo.avif"
+        if not photo.exists():
+            vid = youtube_id(url)
+            if not vid:
+                print(f"[warn] {folder.name}: no video ID in {url}", file=sys.stderr)
+                continue
+            print(f"Fetching thumbnail: {folder.name}")
+            used = download_thumbnail(vid, photo)
+            print(f"  saved photo.avif ({used})" if used else "  all thumbnail sizes failed")
 
 def run_solid_build():
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
