@@ -32,26 +32,39 @@
       "n": "2-Stage",
       "s": "1993-00-00",
       "e": "1996-11-17",
-      "desc": "Possibly sent to [Virginia Beach, VA (2699 Lishelle Place)]."
+      "desc": ""
     }
   ],
   "franchisees": [],
   "attractions": [
     {
-      "n": "Cheese Crawl",
-      "desc": "Removed upon installation of Chuck E.'s House Facade.",
+      "n": "Ball Crawl",
+      "desc": "",
       "s": "1983-06-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Cheese Crawl",
+      "desc": "",
+      "s": "1983-00-00",
       "e": "1989-00-00"
     },
     {
       "n": "Cheese E. Street",
-      "desc": "One of two in New York.",
-      "s": "1983-00-00",
-      "e": "0000-00-00"
+      "s": "1983-06-07",
+      "e": "0000-00-00",
+      "desc": "One of two in New York."
     },
     {
       "n": "Fantasy Forest",
-      "s": "1983-06-07",
+      "desc": "",
+      "s": "1984-04-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Jasper's General Store",
+      "desc": "",
+      "s": "1983-06-17",
       "e": "0000-00-00"
     }
   ],
@@ -61,6 +74,7 @@
     "-75.96433658"
   ],
   "citations": [
+    "https://cheeseepedia.org/?v=cep-js&=7uuht7hbsqir3y00",
     "https://www.newspapers.com/article/press-and-sun-bulletin-cheese-e-street/113617182/"
   ],
   "contributors": [
@@ -70,7 +84,11 @@
   "pageThumbnailFile": "8Wa1zc63mW7VX3q489i6.avif",
   "type": "Locations",
   "tags": [
-    "Pizza Time Theatre"
+    "Pizza Time Theatre",
+    "Chuck E. Cheese's",
+    "Balcony Stage",
+    "Chuck E.'s House Facade",
+    "2-Stage"
   ],
   "animatronics": [
     {
@@ -126,6 +144,34 @@
       "desc": "Added upon installation of 2-Stage. Current whereabouts unknown.",
       "s": "1993-00-00",
       "e": "1996-11-17"
+    },
+    {
+      "n": "John / Woodie Bowzer (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Paul (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "George (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Ringo (Cyberamic)",
+      "desc": "",
+      "l": "",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
     }
   ]
 }

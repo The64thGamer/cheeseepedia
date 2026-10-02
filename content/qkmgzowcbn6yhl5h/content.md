@@ -4,7 +4,7 @@
 
 ### Opening
 
-The Henrietta Gadgets opened on May 4, 1983, at 11:00am at The Marketplace Mall, and was located next to Sears. Like all Gadgets restaurants, the Henrietta restaurant was owned and operated by Leisure Development Corporation, a subsidiary of Warner Communications, and was the fifth of eleven Gadgets restaurants to ever open. The restaurant employed around 125 employees at the time of its opening. [1]
+The Henrietta Gadgets opened on May 4, 1983, at 11:00am at The Marketplace Mall, and was located next to Sears. Like all Gadgets restaurants, the Henrietta restaurant was owned and operated by Leisure Development Corporation, a subsidiary of Warner Communications, and was the fifth of twelve Gadgets restaurants to ever open. The restaurant employed around 125 employees at the time of its opening. [1]
 
 ### Years of Operation
 

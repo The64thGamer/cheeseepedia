@@ -12,6 +12,21 @@ OUT_TYPE_TO_IDS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/t
 THUMB_FIELD = "pageThumbnailVideo"
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
 
+USE_COLOR = sys.stdout.isatty() and "NO_COLOR" not in os.environ
+if USE_COLOR and os.name == "nt":
+    os.system("")
+
+
+def color(text, code):
+    return f"\033[{code}m{text}\033[0m" if USE_COLOR else text
+
+
+def green(t): return color(t, "32")
+def yellow(t): return color(t, "33")
+def red(t): return color(t, "31")
+def cyan(t): return color(t, "36")
+def dim(t): return color(t, "2")
+
 
 REMODEL_PIN_MAP = {
     "PTT Standard Layout": "0",
@@ -38,8 +53,19 @@ TRACKED_REMODELS = set(REMODEL_PIN_MAP.keys()) | {
 }
 
 
+def ask_skip_videos():
+    try:
+        answer = input(yellow("Skip checking video thumbnails/transcripts? [y/N] ")).strip().lower()
+    except EOFError:
+        return False
+    return answer in ("y", "yes")
+
+
 def main():
-    process_video_articles()
+    if ask_skip_videos():
+        print(yellow("Skipping video thumbnails/transcripts"))
+    else:
+        process_video_articles()
     remove_backslashes()
     title_to_id = build_title_to_id_map()
     id_to_title = build_id_to_title_map(title_to_id)
@@ -49,9 +75,9 @@ def main():
     write_json(title_to_id, OUT_TITLE_TO_ID)
     write_json(id_to_title, OUT_ID_TO_TITLE)
 
-    print(f'Wrote {len(title_to_id)} titles -> {OUT_TITLE_TO_ID}')
-    print(f'Wrote {len(id_to_title)} ids -> {OUT_ID_TO_TITLE}')
-    print(f'Wrote {len(type_to_ids)} types -> {OUT_TYPE_TO_IDS}')
+    print(green(f'Wrote {len(title_to_id)} titles -> {OUT_TITLE_TO_ID}'))
+    print(green(f'Wrote {len(id_to_title)} ids -> {OUT_ID_TO_TITLE}'))
+    print(green(f'Wrote {len(type_to_ids)} types -> {OUT_TYPE_TO_IDS}'))
 
     build_map_pins()
 
@@ -76,13 +102,13 @@ def remove_backslashes():
             if "\\" in content:
                 cleaned_content = content.replace("\\", "")
                 md_file.write_text(cleaned_content, encoding="utf-8")
-                print(f"Removed backslashes from: {md_file}")
+                print(yellow(f"Removed backslashes from: {md_file}"))
                 modified_count += 1
         except Exception as e:
-            print(f"Error processing {md_file}: {e}", file=sys.stderr)
+            print(red(f"Error processing {md_file}: {e}"), file=sys.stderr)
 
     if modified_count > 0:
-        print(f"Cleaned backslashes in {modified_count} content.md file(s).")
+        print(green(f"Cleaned backslashes in {modified_count} content.md file(s)."))
 
 
 def build_title_to_id_map():
@@ -207,7 +233,7 @@ def build_remodels(remodels):
 
 def build_map_pins():
     folders = [f for f in Path(CONTENT_DIR).iterdir() if f.is_dir()]
-    print(f"Scanning {len(folders)} folders for map pins...")
+    print(cyan(f"Scanning {len(folders)} folders for map pins..."))
 
     locations = []
     locations_with_remodels = 0
@@ -252,8 +278,8 @@ def build_map_pins():
     with open(OUT_MAP_PINS, 'w', encoding='utf-8') as f:
         json.dump({'locations': locations}, f, ensure_ascii=False, separators=(',', ':'))
 
-    print(f"mapPins.json — {len(locations)} locations written")
-    print(f"  locations with tracked remodels: {locations_with_remodels}")
+    print(green(f"mapPins.json — {len(locations)} locations written"))
+    print(dim(f"  locations with tracked remodels: {locations_with_remodels}"))
 
 def youtube_id(url):
     m = re.search(r"(?:youtu\.be/|[?&]v=|/shorts/|/embed/|/live/)([A-Za-z0-9_-]{11})", url or "")
@@ -292,16 +318,16 @@ def fetch_transcript(url):
                 capture_output=True, text=True, timeout=180,
             )
         except Exception as e:
-            print(f"  yt-dlp error: {e}", file=sys.stderr)
+            print(red(f"  yt-dlp error: {e}"), file=sys.stderr)
             return None
         err = r.stderr.strip().splitlines()
         if r.returncode != 0:
-            print(f"  yt-dlp failed: {err[-1] if err else r.returncode}", file=sys.stderr)
+            print(red(f"  yt-dlp failed: {err[-1] if err else r.returncode}"), file=sys.stderr)
             return None
 
         infos = list(Path(tmp).glob("*.info.json"))
         if not infos:
-            print("  no video info returned, will retry next time", file=sys.stderr)
+            print(red("  no video info returned, will retry next time"), file=sys.stderr)
             return None
         try:
             info = json.loads(infos[0].read_text(encoding="utf-8"))
@@ -314,14 +340,14 @@ def fetch_transcript(url):
 
         files = sorted(Path(tmp).glob("*.vtt"), key=lambda p: len(p.name))
         if not files:
-            print(f"  subtitles exist but download failed: {err[-1] if err else 'unknown'}", file=sys.stderr)
+            print(red(f"  subtitles exist but download failed: {err[-1] if err else 'unknown'}"), file=sys.stderr)
             return None
         return vtt_to_text(files[0].read_text(encoding="utf-8", errors="replace"))
 def download_thumbnail(vid, dest):
     try:
         from PIL import Image
     except ImportError:
-        print("  Pillow is not installed (pip install pillow)", file=sys.stderr)
+        print(red("  Pillow is not installed (pip install pillow)"), file=sys.stderr)
         return None
     for name in THUMB_CANDIDATES:
         try:
@@ -333,7 +359,7 @@ def download_thumbnail(vid, dest):
             Image.open(io.BytesIO(data)).convert("RGB").save(dest, "AVIF", quality=60)
             return name
         except (urllib.error.URLError, OSError, ValueError, KeyError) as e:
-            print(f"  thumbnail '{name}' failed: {e}", file=sys.stderr)
+            print(yellow(f"  thumbnail '{name}' failed: {e}"), file=sys.stderr)
     return None
 
 def find_video_url(meta):
@@ -348,11 +374,11 @@ def find_video_url(meta):
 
 def process_video_articles():
     if not Path(CONTENT_DIR).exists():
-        print(f"Content dir '{CONTENT_DIR}' not found, skipping videos", file=sys.stderr)
+        print(yellow(f"Content dir '{CONTENT_DIR}' not found, skipping videos"), file=sys.stderr)
         return
     have_ytdlp = shutil.which("yt-dlp") is not None
     if not have_ytdlp:
-        print("yt-dlp not found on PATH, skipping video transcripts", file=sys.stderr)
+        print(yellow("yt-dlp not found on PATH, skipping video transcripts"), file=sys.stderr)
 
     videos = with_url = 0
     for folder in sorted(Path(CONTENT_DIR).iterdir()):
@@ -373,39 +399,39 @@ def process_video_articles():
 
         md = folder / "content.md"
         if have_ytdlp and not md.exists():
-            print(f"Fetching transcript: {folder.name}")
+            print(cyan(f"Fetching transcript: {folder.name}"))
             text = fetch_transcript(url)
             if text is None:
-                print("  transcript fetch errored, wrote empty content.md")
+                print(red("  transcript fetch errored, wrote empty content.md"))
                 text = ""
             md.write_text(text, encoding="utf-8")
             if text:
-                print(f"  wrote content.md ({len(text)} chars)")
+                print(green(f"  wrote content.md ({len(text)} chars)"))
             elif text == "":
-                print("  wrote empty content.md")
+                print(yellow("  wrote empty content.md"))
 
         photo = folder / "photo.avif"
         if not photo.exists():
             vid = youtube_id(url)
             if not vid:
-                print(f"[warn] {folder.name}: no video ID in {url}", file=sys.stderr)
+                print(yellow(f"[warn] {folder.name}: no video ID in {url}"), file=sys.stderr)
                 continue
-            print(f"Fetching thumbnail: {folder.name}")
+            print(cyan(f"Fetching thumbnail: {folder.name}"))
             used = download_thumbnail(vid, photo)
-            print(f"  saved photo.avif ({used})" if used else "  all thumbnail sizes failed")
+            print(green(f"  saved photo.avif ({used})") if used else red("  all thumbnail sizes failed"))
 
-    print(f"Video articles: {videos} found, {with_url} with a YouTube URL")
+    print(green(f"Video articles: {videos} found, {with_url} with a YouTube URL"))
 
 def run_solid_build():
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-    print("Running: npm run build:solid")
+    print(cyan("Running: npm run build:solid"))
     result = subprocess.run(
         ["npm", "run", "build:solid"],
         cwd=project_root,
         shell=(os.name == "nt"),
     )
     if result.returncode != 0:
-        print(f"npm run build:solid failed with exit code {result.returncode}", file=sys.stderr)
+        print(red(f"npm run build:solid failed with exit code {result.returncode}"), file=sys.stderr)
         sys.exit(result.returncode)
 
 
