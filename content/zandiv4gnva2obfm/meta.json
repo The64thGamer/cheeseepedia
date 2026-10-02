@@ -1,7 +1,16 @@
 {
   "title": "zandiv4gnva2obfm.avif",
   "type": "Photos",
-  "tags": ["Pizza Time Theatre"],
+  "tags": [
+    "Pizza Time Theatre",
+    "Edmonton, Alberta, Canada (9271 34th Ave)"
+  ],
   "startDate": "0000-00-00",
-  "citations": ["https://archive.org/search?query=creator%3A%22PTT1977%22"]
+  "citations": [
+    "https://archive.org/search?query=creator%3A%22PTT1977%22",
+    "https://www.reddit.com/r/chuckecheese/comments/1frvra0/comment/lrsmbcs/?force-legacy-sct=1"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ]
 }

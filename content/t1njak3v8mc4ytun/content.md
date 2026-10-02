@@ -1,1 +1,0 @@
-Jasper walkaround on balcony of the arcade, with a rare 4-unit Whac-A-Munch in the back.

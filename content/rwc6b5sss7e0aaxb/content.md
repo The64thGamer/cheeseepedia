@@ -1,1 +1,0 @@
-Penfield's Balcony stage with the Propless Bandstand stage and partial outfits

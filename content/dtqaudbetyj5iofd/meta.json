@@ -1,7 +1,19 @@
 {
   "title": "dtqaudbetyj5iofd.avif",
   "type": "Photos",
-  "tags": ["Pizza Time Theatre"],
+  "tags": [
+    "Pizza Time Theatre",
+    "Penfield, NY (1614 Penfield Rd)",
+    "The Beagles / Beach Bowzers (Lounge)",
+    "Chuck 1991 (Costume Head)",
+    "Chuck Tux 91 (Costume Outfit)",
+    "Chuck Fur Paw Gloves (Costume Accessory)"
+  ],
   "startDate": "0000-00-00",
-  "citations": ["https://archive.org/search?query=creator%3A%22PTT1977%22"]
+  "citations": [
+    "https://archive.org/search?query=creator%3A%22PTT1977%22"
+  ],
+  "contributors": [
+    "TutorialTimeYt"
+  ]
 }

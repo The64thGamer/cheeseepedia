@@ -1,7 +1,14 @@
 {
   "title": "o34b89pupwh3e4lu.avif",
   "type": "Photos",
-  "tags": ["Zapp's Bar & Grill", "Wolfman Zapp (Cyberamic)"],
+  "tags": [
+    "Zapp's Bar & Grill",
+    "Wolfman Zapp (Cyberamic)",
+    "Cupertino, CA (975 S De Anza Blvd)"
+  ],
   "startDate": "0000-00-00",
-  "citations": [""]
+  "citations": [
+    "",
+    "https://archive.org/search?query=creator%3A%22PTT1977%22"
+  ]
 }

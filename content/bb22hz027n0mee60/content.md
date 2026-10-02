@@ -1,1 +1,0 @@
-Penfield's Tux Chuck walkaround in front of the Beach Bowzers

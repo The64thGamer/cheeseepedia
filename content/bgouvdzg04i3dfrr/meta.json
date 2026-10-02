@@ -3,8 +3,13 @@
   "type": "Photos",
   "pageThumbnailFile": "",
   "downloadLinks": [],
-  "citations": [],
-  "tags": [],
+  "citations": [
+    "https://archive.org/search?query=creator%3A%22PTT1977%22",
+    "https://www.reddit.com/r/chuckecheese/comments/1fru38m/daily_location_posts_14_is_syracuse_ny_5_is/"
+  ],
+  "tags": [
+    "Mattydale, NY (2803 Brewerton Rd)"
+  ],
   "startDate": "1982-00-00",
   "endDate": "0000-00-00",
   "recommend": false,

@@ -1,1 +1,0 @@
-The Chuck E. Cheese Roll skeeball machine from [Penfield, NY (1614 Penfield Rd)].

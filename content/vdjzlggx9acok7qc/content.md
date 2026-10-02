@@ -1,1 +1,0 @@
-Another photo of Brandon.

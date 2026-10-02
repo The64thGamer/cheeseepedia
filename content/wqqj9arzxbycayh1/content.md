@@ -1,1 +1,0 @@
-Knoebels Amusement Resort

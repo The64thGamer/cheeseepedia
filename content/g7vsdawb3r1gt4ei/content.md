@@ -1,1 +1,0 @@
-Milwaukee's Balcony Stage.

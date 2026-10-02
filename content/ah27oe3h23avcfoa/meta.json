@@ -3,7 +3,9 @@
   "type": "Photos",
   "pageThumbnailFile": "",
   "downloadLinks": [],
-  "citations": [],
+  "citations": [
+    "https://archive.org/search?query=creator%3A%22PTT1977%22"
+  ],
   "tags": [
     "Colonie, NY (1440 Central Ave)"
   ],

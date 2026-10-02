@@ -1,1 +1,0 @@
-The [Balcony Stage] at [Mattydale, NY (2803 Brewerton Rd)] with the [Tunnel of Love (Balcony Stage Theme)] featuring Madame Oink.

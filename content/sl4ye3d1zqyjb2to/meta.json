@@ -3,10 +3,16 @@
   "type": "Photos",
   "tags": [
     "Pizza Time Theatre",
-    "Chuck E. Cheese Roll"
+    "Chuck E. Cheese Roll",
+    "Penfield, NY (1614 Penfield Rd)",
+    "Chuck E. Cheese's"
   ],
   "startDate": "0000-00-00",
   "citations": [
-    "worthpoint"
+    "worthpoint",
+    "https://www.reddit.com/r/chuckecheese/comments/1m12cr0/rochester_ny_1614_penfield_rd/"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
   ]
 }

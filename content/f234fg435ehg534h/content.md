@@ -1,1 +1,0 @@
-Penfield's Chuck,Jasper,Munch and Pasqually walkarounds in front of Cheese E street

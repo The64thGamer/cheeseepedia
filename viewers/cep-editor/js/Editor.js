@@ -19,6 +19,7 @@ const META_MAP = {
   title:              { type: 'line',     el: 'MetaTitle' },
   type:               { type: 'dropdown', el: 'MetaType' },
   pageThumbnailFile:  { type: 'line',     el: 'MetaThumbnail' },
+  pageThumbnailVideo: { type: 'line',     el: 'MetaVideoLink' },
   downloadLinks:      { type: 'list',     el: 'MetaDownloads' },
   citations:          { type: 'list',     el: 'MetaCitations' },
   tags:               { type: 'list',     el: 'MetaTags', suggestions: 'tags' },
@@ -91,8 +92,6 @@ let suggestionsLoaded = false;
 let titlesLoaded = false;
 let RELATED = [];
 let relatedLoaded = false;
-// Filenames of extra gallery images added this session, kept separate from
-// FILE_MAP since these use their own real filenames instead of photo.avif.
 let galleryFiles = [];
 
 async function loadSuggestions() {
@@ -363,6 +362,8 @@ function applyTypeVisibility() {
     const list = el.dataset.types.split(',').map(t => t.trim().toLowerCase());
     el.style.display = list.includes(type) ? '' : 'none';
   });
+  const titleEl = document.getElementById('MetaTitle');
+  if (titleEl) titleEl.style.display = type === 'videos' ? 'none' : '';
 }
 
 async function updateThumbnailPreview() {
@@ -390,6 +391,13 @@ async function updateThumbnailPreview() {
 
 function initMetaFields() {
   loadMetaData();
+
+  if ((metaData.type || '').toLowerCase() === 'videos' && !metaData.pageThumbnailVideo
+      && /^https?:\/\//i.test((metaData.title || '').trim())) {
+    metaData.pageThumbnailVideo = metaData.title.trim();
+    metaData.title = '';
+    saveMetaData();
+  }
   for (const [key, cfg] of Object.entries(META_MAP)) {
     RENDERERS[cfg.type](key, cfg);
     if (cfg.break) applyBreak(document.getElementById(cfg.el));
@@ -619,7 +627,6 @@ function renderPairField(key, cfg) {
   if (!container) return;
   container.innerHTML = '';
 
-  // Always exactly 2 entries - this is a restricted array, not a general list.
   const existing = Array.isArray(metaData[key]) ? metaData[key] : [];
   const pair = [existing[0] || '', existing[1] || ''];
   metaData[key] = pair;

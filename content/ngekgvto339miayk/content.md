@@ -1,1 +1,0 @@
-The King at [Mattydale, NY (2803 Brewerton Rd)].

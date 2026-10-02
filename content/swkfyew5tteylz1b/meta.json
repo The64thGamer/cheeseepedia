@@ -1,7 +1,16 @@
 {
   "title": "swkfyew5tteylz1b.avif",
   "type": "Photos",
-  "tags": ["Pizza Time Theatre"],
+  "tags": [
+    "Pizza Time Theatre",
+    "St. Petersburg, FL (1024 58th St)"
+  ],
   "startDate": "0000-00-00",
-  "citations": ["https://archive.org/search?query=creator%3A%22PTT1977%22"]
+  "citations": [
+    "https://archive.org/search?query=creator%3A%22PTT1977%22",
+    "https://www.reddit.com/r/chuckecheese/comments/1frtx54/daily_location_posts_17_is_santa_maria_ca_812_is/?solution=a682f6877531756ca682f6877531756c&js_challenge=1&token=7afd7253fec22262ff1c52b1703fe9ecbcdb1cbbb037e19f79e09bd4aa10db96&jsc_orig_r="
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ]
 }

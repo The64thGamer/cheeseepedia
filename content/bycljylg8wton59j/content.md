@@ -1,1 +1,0 @@
-The Balcony Stage at [Mattydale, NY (2803 Brewerton Rd)].

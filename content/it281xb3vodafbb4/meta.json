@@ -68,6 +68,12 @@
       "desc": "Train ride.",
       "s": "1983-03-15",
       "e": "0000-00-00"
+    },
+    {
+      "n": "Jasper's General Store",
+      "desc": "Sign owned by Eric Vasquez, owner of Eric's Retro Arcade in Spencerport, NY.",
+      "s": "1983-03-15",
+      "e": "0000-00-00"
     }
   ],
   "sqft": "22,000 (17,312 used)",

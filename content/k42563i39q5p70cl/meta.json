@@ -1,7 +1,15 @@
 {
   "title": "k42563i39q5p70cl.avif",
   "type": "Photos",
-  "tags": ["Tucson, AZ (8616 E Broadway Blvd)"],
+  "tags": [
+    "Tucson, AZ (8616 E Broadway Blvd)",
+    "Tucson, AZ (5534 E 22nd St)"
+  ],
   "startDate": "0000-00-00",
-  "citations": ["https://archive.org/search?query=creator%3A%22PTT1977%22"]
+  "citations": [
+    "https://archive.org/search?query=creator%3A%22PTT1977%22"
+  ],
+  "contributors": [
+    "sudo-trans-pony"
+  ]
 }

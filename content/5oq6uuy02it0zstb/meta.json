@@ -2,10 +2,15 @@
   "title": "5oq6uuy02it0zstb.avif",
   "type": "Photos",
   "tags": [
-    "Las Vegas, NV (4750 Vegas Dr)"
+    "Las Vegas, NV (4750 Vegas Dr)",
+    "Fullerton, CA (1841 W Orangethorpe Ave)"
   ],
   "startDate": "0000-00-00",
   "citations": [
-    "https://archive.org/search?query=creator%3A%22PTT1977%22"
+    "https://archive.org/search?query=creator%3A%22PTT1977%22",
+    "https://archive.org/details/@leg_arm"
+  ],
+  "contributors": [
+    "sudo-trans-pony"
   ]
 }

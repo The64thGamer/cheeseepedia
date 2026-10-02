@@ -1,0 +1,1 @@
+Jasper and Chuck dressed for the [Bandstand (Balcony Stage Theme)] at [Schenectady, NY (2330 Watt St)].

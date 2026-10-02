@@ -1,1 +1,0 @@
-Victorville's exterior.

@@ -1,10 +1,10 @@
-***Henrietta, NY (3400 W Henrietta Rd)*** was a Gadgets located at The Marketplace Mall that opened on May 4, 1983, with The Looney Tunes Revue and closed on January 27, 1985.
+***Henrietta, NY (3400 W Henrietta Rd)*** was a Gadgets located at The Marketplace Mall that opened on May 4, 1983, with The Looney Tunes Revue and closed on January 27, 1985. This location should not be confused with [Henrietta, NY (1000 Hylan Dr)], which was a Chuck E. Cheese's that opened on June 30, 2001, and closed on June 25, 2020.
 
 ## History
 
 ### Opening
 
-The Henrietta Gadgets opened on May 4, 1983, at 11:00am at The Marketplace Mall, and was located next to Sears. Like all Gadgets restaurants, the Henrietta restaurant was owned and operated by Leisure Development Corporation, a subsidiary of Warner Communications, and was the fifth of twelve Gadgets restaurants to ever open. The restaurant employed around 125 employees at the time of its opening. [1]
+The Henrietta Gadgets opened on May 4, 1983, at 11:00am at The Marketplace Mall, and was located next to Sears. Like all Gadgets restaurants, the Henrietta restaurant was owned and operated by Leisure Development Corporation, a subsidiary of Warner Communications, and was the fifth of thirteen Gadgets restaurants to ever open. The restaurant employed around 125 employees at the time of its opening. [1]
 
 ### Years of Operation
 

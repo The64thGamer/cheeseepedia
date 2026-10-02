@@ -1,0 +1,48 @@
+{
+  "title": "Westbury, NY (737 Merrick Ave)",
+  "type": "Locations",
+  "pageThumbnailFile": "z9fb79iqtnwn9y3f",
+  "downloadLinks": [],
+  "citations": [],
+  "tags": [
+    "Gadgets",
+    "The Looney Tunes Revue"
+  ],
+  "startDate": "1982-00-00",
+  "endDate": "1984-00-00",
+  "recommend": false,
+  "latitudeLongitude": [
+    "40.7419404",
+    "-73.5861285"
+  ],
+  "credits": [],
+  "stages": [
+    {
+      "n": "The Looney Tunes Revue",
+      "desc": "",
+      "s": "1982-00-00",
+      "e": "1984-00-00"
+    }
+  ],
+  "remodels": [],
+  "franchisees": [
+    {
+      "n": "Leisure Development Corporation",
+      "s": "1982-00-00",
+      "e": "1984-00-00"
+    }
+  ],
+  "animatronics": [],
+  "attractions": [
+    {
+      "n": "Dragon's Lair",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "showtapeFormats": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ]
+}

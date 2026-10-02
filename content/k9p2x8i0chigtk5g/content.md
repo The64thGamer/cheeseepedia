@@ -1,1 +1,0 @@
-Winchester Jasper Promo Photo

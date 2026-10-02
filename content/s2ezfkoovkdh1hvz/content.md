@@ -1,1 +1,0 @@
-Chico's balcony stage

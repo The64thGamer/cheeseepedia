@@ -1,1 +1,0 @@
-A Chuck walkaround outside of the future [Northridge, CA (8425 Reseda Blvd)] store.

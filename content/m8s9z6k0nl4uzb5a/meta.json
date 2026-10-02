@@ -3,9 +3,29 @@
   "type": "Photos",
   "pageThumbnailFile": "",
   "downloadLinks": [],
-  "citations": [],
+  "citations": [
+    "https://archive.org/search?query=creator%3A%22PTT1977%22"
+  ],
   "tags": [
-    "Penfield, NY (1614 Penfield Rd)"
+    "Penfield, NY (1614 Penfield Rd)",
+    "Chuck 1982 (Costume Head)",
+    "Mr, Munch 1982 (Costume Head)",
+    "Jasper 1982 (Costume Head)",
+    "Pasqually 1982 (Costume Head)",
+    "Mr. Munch Body Fur (Costume Accessory)",
+    "Mr. Munch Fur Gloves (Costume Accessory)",
+    "Chuck Vest 2 (Costume Outfit)",
+    "Chuck Body Fur (Costume Outfit)",
+    "Chuck Fur Paw Gloves (Costume Accessory)",
+    "Jasper Fur Gloves (Costume Accessory)",
+    "Jasper Blue Plaid Shirt (Costume Accessory)",
+    "Jasper Overalls (Costume Accessory)",
+    "Pasqually Small Gingham Shirt (Costume Outfit)",
+    "Pasqually Apron (Costume Accessory)",
+    "Pasqually Scarf (Costume Accessory)",
+    "Pasqually Pants (Costume Accessory)",
+    "Cheese E. Street",
+    "Pizza Time Theatre"
   ],
   "startDate": "1984-04-00",
   "endDate": "0000-00-00",
@@ -22,6 +42,7 @@
   "attractions": [],
   "showtapeFormats": [],
   "contributors": [
-    "ThatRockHistorian76"
+    "ThatRockHistorian76",
+    "TutorialTimeYt"
   ]
 }

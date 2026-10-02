@@ -1,1 +1,0 @@
-The [Balcony Stage] at [Burnaby, British Columbia, Canada (9898 Gatineau Pl)] with the [CEC Working/Summertime] show theme.

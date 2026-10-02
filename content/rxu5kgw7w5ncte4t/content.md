@@ -1,0 +1,1 @@
+A birthday party with the Chuck walkaround in front of the [Balcony Stage] at [Northridge, CA (8425 Reseda Blvd)], which is themed to the [CEC Working/Summertime] show.

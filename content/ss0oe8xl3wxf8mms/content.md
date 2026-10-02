@@ -1,1 +1,0 @@
-The [Chuck E.'s House Facade] at [San Antonio (Walzem), TX (8220 Windsor Cross)] decorated for Christmas, with a sign reading "Seasons Greetings."

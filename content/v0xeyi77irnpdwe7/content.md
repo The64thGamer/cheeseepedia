@@ -1,0 +1,1 @@
+The [Balcony Stage] at [Norristown, PA (2834 Dekalb Pike)] with the [Bandstand (Balcony Stage Theme)] and a live band playing in front of it.

@@ -1,1 +1,0 @@
-Pasqually at [Burnaby, British Columbia, Canada (9898 Gatineau Pl)] wearing his [Back to School (Balcony Stage Theme)] outfit.

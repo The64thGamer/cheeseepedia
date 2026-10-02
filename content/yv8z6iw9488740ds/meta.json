@@ -1,7 +1,13 @@
 {
   "title": "yv8z6iw9488740ds.avif",
   "type": "Photos",
-  "tags": ["Pizza Time Theatre"],
+  "tags": [
+    "Pizza Time Theatre",
+    "Pleasanton, CA (5572 Springdale Ave)",
+    "The Beagles / Beach Bowzers (Lounge)"
+  ],
   "startDate": "0000-00-00",
-  "citations": ["https://archive.org/search?query=creator%3A%22PTT1977%22"]
+  "citations": [
+    "https://archive.org/search?query=creator%3A%22PTT1977%22"
+  ]
 }

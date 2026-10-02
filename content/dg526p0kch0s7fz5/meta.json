@@ -2,10 +2,17 @@
   "title": "dg526p0kch0s7fz5.avif",
   "type": "Photos",
   "tags": [
-    "Akron, OH (1984 Brittain Rd)"
+    "Akron, OH (1984 Brittain Rd)",
+    "Maple Heights, OH (5376 Northfield Rd)",
+    "North Olmsted, OH (23333 Lorain Rd)",
+    "Mentor, OH (7900 Plaza Blvd #170a)",
+    "Middleburg Heights, OH (6920 W 130th St)"
   ],
   "startDate": "0000-00-00",
   "citations": [
     "https://archive.org/search?query=creator%3A%22PTT1977%22"
+  ],
+  "contributors": [
+    "sudo-trans-pony"
   ]
 }

@@ -1,1 +1,0 @@
-The showroom at [St. Petersburg, FL (1024 58th St)] with the [Balcony Stage] decorated for Christmas.

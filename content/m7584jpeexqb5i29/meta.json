@@ -3,7 +3,9 @@
   "type": "Photos",
   "pageThumbnailFile": "",
   "downloadLinks": [],
-  "citations": [],
+  "citations": [
+    "https://archive.org/search?query=creator%3A%22PTT1977%22"
+  ],
   "tags": [
     "Penfield, NY (1614 Penfield Rd)",
     "Broadway (Balcony Stage Theme)",

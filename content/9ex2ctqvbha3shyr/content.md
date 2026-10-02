@@ -1,1 +1,0 @@
-Penfield technician job ad

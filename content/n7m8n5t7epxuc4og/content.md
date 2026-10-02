@@ -1,1 +1,0 @@
-The [Balcony Stage] at [San Jose (Tully), CA (2445 Fontaine Rd)] decorated for Christmas.

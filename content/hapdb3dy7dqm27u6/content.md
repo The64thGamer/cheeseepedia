@@ -1,1 +1,0 @@
-Helen Henny at [Burnaby, British Columbia, Canada (9898 Gatineau Pl)] donning her [Back to School (Balcony Stage Theme)] outfit.

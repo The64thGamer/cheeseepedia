@@ -1,1 +1,0 @@
-The Balcony Stage at [Greece, NY (3160 W Ridge Rd)] with the Dance theme.

@@ -3,6 +3,8 @@ import json, os, subprocess, sys, calendar, datetime
 from pathlib import Path
 import re, shutil, tempfile, html, io
 import urllib.request, urllib.error
+from concurrent.futures import ThreadPoolExecutor
+from itertools import zip_longest
 
 CONTENT_DIR = "content"
 OUT_TITLE_TO_ID = os.path.join(os.path.dirname(__file__), "..", "compiled-json/titleToFolderIDMap.json")
@@ -11,6 +13,8 @@ OUT_MAP_PINS    = os.path.join(os.path.dirname(__file__), "..", "compiled-json/m
 OUT_TYPE_TO_IDS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/typeToIDList.json")
 THUMB_FIELD = "pageThumbnailVideo"
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
+PHOTO_SIM_BITS = 16
+PHOTO_HASH_CACHE = os.path.join(os.path.dirname(__file__), ".photo_hashes.json")
 
 USE_COLOR = sys.stdout.isatty() and "NO_COLOR" not in os.environ
 if USE_COLOR and os.name == "nt":
@@ -53,19 +57,19 @@ TRACKED_REMODELS = set(REMODEL_PIN_MAP.keys()) | {
 }
 
 
-def ask_skip_videos():
+def ask(question):
     try:
-        answer = input(yellow("Skip checking video thumbnails/transcripts? [y/N] ")).strip().lower()
+        return input(yellow(f"{question} [y/N] ")).strip().lower() in ("y", "yes")
     except EOFError:
         return False
-    return answer in ("y", "yes")
 
 
 def main():
-    if ask_skip_videos():
-        print(yellow("Skipping video thumbnails/transcripts"))
-    else:
+    if ask("Scrape Video Thumbnails/Transcripts"):
         process_video_articles()
+    if ask("Scan for duplicate articles"):
+        dedupe_videos()
+        dedupe_photos()
     remove_backslashes()
     title_to_id = build_title_to_id_map()
     id_to_title = build_id_to_title_map(title_to_id)
@@ -421,6 +425,152 @@ def process_video_articles():
             print(green(f"  saved photo.avif ({used})") if used else red("  all thumbnail sizes failed"))
 
     print(green(f"Video articles: {videos} found, {with_url} with a YouTube URL"))
+
+def read_meta(folder):
+    try:
+        return json.loads((folder / "meta.json").read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def has_md(folder):
+    md = folder / "content.md"
+    return md.is_file() and md.stat().st_size > 0
+
+
+def merge_lists(metas, key):
+    out, seen = [], set()
+    for m in metas:
+        for x in (m.get(key) if isinstance(m.get(key), list) else []):
+            s = json.dumps(x, sort_keys=True)
+            if s not in seen:
+                seen.add(s)
+                out.append(x)
+    return out
+
+
+def merge_articles(keep, others):
+    raw = (keep / "meta.json").read_text(encoding="utf-8")
+    km = json.loads(raw)
+    metas = [km] + [read_meta(o) for o in others]
+    for k in ("tags", "contributors", "citations"):
+        merged = merge_lists(metas, k)
+        if merged:
+            km[k] = merged
+    start = next((m["startDate"] for m in metas if m.get("startDate")), None)
+    if start:
+        km["startDate"] = start
+    if not has_md(keep):
+        src = next((o for o in others if has_md(o)), None)
+        if src:
+            shutil.copy(src / "content.md", keep / "content.md")
+    (keep / "meta.json").write_text(json.dumps(km, ensure_ascii=False, indent=2 if "\n" in raw.strip() else None), encoding="utf-8")
+    for o in others:
+        shutil.rmtree(o)
+
+
+def video_key(s):
+    s = (s or "").strip()
+    return (youtube_id(s) or s) if re.match(r"https?://", s) else None
+
+
+def dedupe_videos():
+    groups, seen = {}, set()
+    for f in sorted(Path(CONTENT_DIR).iterdir()):
+        m = read_meta(f) if f.is_dir() else {}
+        if (m.get("type") or "").strip().lower() != "videos":
+            continue
+        for k in {video_key(find_video_url(m)), video_key(m.get("title"))} - {None}:
+            groups.setdefault(k, set()).add(f)
+    for k, g in groups.items():
+        g = sorted(f for f in g if f.exists())
+        if len(g) < 2 or tuple(g) in seen:
+            continue
+        seen.add(tuple(g))
+        keep = min(g, key=lambda f: (video_key(read_meta(f).get("title")) is not None, not has_md(f), f.name))
+        print(cyan(f"Duplicate video {k}:"))
+        for f in g:
+            print(dim(f"  {f.name}  {read_meta(f).get('title', '')}"))
+        if ask(f"Keep {keep.name} and merge the other {len(g) - 1}?"):
+            merge_articles(keep, [f for f in g if f != keep])
+            print(green(f"Merged into {keep.name}"))
+
+
+def photo_hash(path):
+    from PIL import Image
+    try:
+        px = Image.open(path).convert("L").resize((17, 16), Image.BOX).tobytes()
+    except Exception:
+        return None
+    bits = 0
+    for i in range(272):
+        if i % 17 < 16:
+            bits = bits << 1 | (px[i] > px[i + 1])
+    return bits
+
+
+def photo_hashes(folders):
+    try:
+        with open(PHOTO_HASH_CACHE, encoding="utf-8") as fh:
+            cache = json.load(fh)
+    except Exception:
+        cache = {}
+    stamp = lambda f: (f / "photo.avif").stat().st_mtime_ns
+    todo = [f for f in folders if cache.get(f.name, [None])[0] != stamp(f)]
+    with ThreadPoolExecutor(os.cpu_count() or 4) as ex:
+        for i, (f, h) in enumerate(zip(todo, ex.map(lambda f: photo_hash(f / "photo.avif"), todo)), 1):
+            if h is not None:
+                cache[f.name] = [stamp(f), f"{h:x}"]
+            print(cyan(f"\rHashing photos {i}/{len(todo)}"), end="", flush=True)
+    if todo:
+        print()
+        write_json(cache, PHOTO_HASH_CACHE)
+    return {f: int(cache[f.name][1], 16) for f in folders if f.name in cache}
+
+
+def block_rows(path, w):
+    from PIL import Image
+    im = Image.open(path).convert("RGB")
+    im.thumbnail((w, w))
+    px = im.load()
+    return ["".join("\033[38;2;%d;%d;%dm\033[48;2;%d;%d;%dm▀" % (*px[x, y], *px[x, y + 1]) for x in range(im.width)) + "\033[0m" + " " * (w - im.width) for y in range(0, im.height - 1, 2)]
+
+
+def show_photos(folders):
+    w = min(36, (shutil.get_terminal_size().columns - 2) // len(folders))
+    for row in zip_longest(*[block_rows(f / "photo.avif", w) for f in folders], fillvalue=" " * w):
+        print("  ".join(row))
+    for f in folders:
+        m = read_meta(f)
+        print(dim(f"  {f.name}  {m.get('title', '')}  start={m.get('startDate') or '-'}  md={'y' if has_md(f) else 'n'}  {(f / 'photo.avif').stat().st_size // 1024}KB"))
+
+
+def dedupe_photos():
+    try:
+        import PIL
+    except ImportError:
+        print(red("Pillow is not installed (pip install pillow)"), file=sys.stderr)
+        return
+    folders = [f for f in sorted(Path(CONTENT_DIR).iterdir()) if f.is_dir() and (f / "photo.avif").exists() and (read_meta(f).get("type") or "").strip().lower().startswith("photo")]
+    print(cyan(f"Hashing {len(folders)} photos..."))
+    hashes = photo_hashes(folders)
+    fs, hs = list(hashes), list(hashes.values())
+    pairs = []
+    for i, a in enumerate(hs):
+        pairs += [(d, fs[i], fs[j]) for j in range(i + 1, len(hs)) if (d := (a ^ hs[j]).bit_count()) <= PHOTO_SIM_BITS]
+    print(cyan(f"Found {len(pairs)} similar photo pair(s)"))
+    for d, a, b in sorted(pairs):
+        if not (a.exists() and b.exists()):
+            continue
+        keep = max((a, b), key=lambda f: (f / "photo.avif").stat().st_size)
+        auto = (a / "photo.avif").stat().st_size == (b / "photo.avif").stat().st_size
+        if not auto:
+            print(cyan(f"Similar photos ({d} bits apart):"))
+            show_photos([a, b])
+        if auto or ask(f"Merge into {keep.name} (larger file)?"):
+            merge_articles(keep, [f for f in (a, b) if f != keep])
+            print(green(f"Auto-merged {b.name if keep == a else a.name} into {keep.name} (identical file size)" if auto else f"Merged into {keep.name}"))
+
 
 def run_solid_build():
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))

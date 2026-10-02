@@ -1,7 +1,13 @@
 {
   "title": "9jtsmud2673cdt32.avif",
   "type": "Photos",
-  "tags": ["San Jose, CA (370 S Winchester Blvd)"],
+  "tags": [
+    "San Jose, CA (370 S Winchester Blvd)",
+    "San Jose, CA (1371 Kooser Rd)"
+  ],
   "startDate": "1979-07-22",
-  "citations": [""]
+  "citations": [
+    "",
+    "https://archive.org/search?query=creator%3A%22PTT1977%22"
+  ]
 }

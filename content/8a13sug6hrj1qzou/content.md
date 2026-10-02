@@ -1,1 +1,0 @@
-The Chuck walkaround at [Edmonton, Alberta, Canada (9271 34th Ave)].
