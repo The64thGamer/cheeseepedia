@@ -1070,6 +1070,10 @@ sup a:hover {
   background: var(--secondary);
 }
 
+.PinButton.active{
+  background: var(--primary);
+}
+
 .ArticleHeaderBtns .PinButton {
   background: var(--secondary);
 }

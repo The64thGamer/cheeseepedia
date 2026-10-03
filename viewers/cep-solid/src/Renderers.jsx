@@ -1,8 +1,8 @@
-import { createResource, createSignal, createEffect, untrack, Show, For } from 'solid-js';
+import { createResource, createSignal, createEffect, untrack, Show, For,Switch, Match } from 'solid-js';
 import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks } from './GlobalFunctions';
 import { marked } from 'marked';
 import { loadFolderIDToTitleMap,loadTypeToIDList, loadViewsMap }  from './GlobalJsonCache'
-import { fetchLocationMap } from './GlobalFunctions';
+import { fetchLocationMap, loadKey, saveKey} from './GlobalFunctions';
 
 const EXCLUDE = new Set(['photos','videos','reviews','user','steam comments','theories','meta','transcriptions']);
 const TABS = {
@@ -60,10 +60,10 @@ export function renderArticle(meta){
     case "Meta":
     case "Store Fixtures":
     case "Reviews":
-    case "Videos":
     case "Steam Comments":
       return renderStandardArticle(meta);
-
+    case "Videos":
+      return renderVideoArticle(meta);
     default:
       return renderStandardArticle(meta);
     }
@@ -93,16 +93,18 @@ export async function renderStandardCard(meta) {
     } catch {}
   }
 
+  const t = typeClass ? ` type-${typeClass}` : '';
+
   return (
-    <div class={`Card fade-in${typeClass ? ` type-${typeClass}` : ''}`}>
-      <div class="CardImage">{pageThumbnail}</div>
-      <div class="CardTextArea">
-        <div class="CardLink">
+    <div class={`Card fade-in${t}`}>
+      <div class={`CardImage${t}`}>{pageThumbnail}</div>
+      <div class={`CardTextArea${t}`}>
+        <div class={`CardLink${t}`}>
           <span>
             <a href={getFolderPath(link)}>{label}</a>
           </span>
         </div>
-        <div class="CardText">
+        <div class={`CardText${t}`}>
           <strong>
             {EXCLUDE.has(type)
               ? convertStartDate(meta.startDate)
@@ -147,7 +149,9 @@ export function renderHeader(){
 
 
 export function renderRandomCards() {
-  const [tab, setTab] = createSignal('Articles');
+  const [tab, setTab] = createSignal(
+  loadKey('sRandomTab', 'Articles', (v) => Object.hasOwn(TABS, v))
+  );
 
   const state = {};
   for (const name of Object.keys(TABS)) {
@@ -199,18 +203,27 @@ export function renderRandomCards() {
     s.setLoaded(true);
   }
 
+  
+
   createEffect(() => {
     const t = tab();
+    saveKey('sRandomTab', t);
     untrack(() => load(t));
   });
 
   return (
     <>
-      <h2>Random {tab()}</h2>
+      <h2>Cheese-E-Shuffle</h2>
       <div>
         <For each={Object.keys(TABS)}>
           {(name) => (
-            <button type="button" class="PinButton" onClick={() => setTab(name)}>
+            <button
+              type="button"
+              class="PinButton"
+              classList={{ active: tab() === name }}
+              aria-pressed={tab() === name}
+              onClick={() => setTab(name)}
+            >
               {name}
             </button>
           )}
@@ -239,6 +252,124 @@ function InfoboxList(props) {
         </ul>
       </div>
     </Show>
+  );
+}
+
+
+
+function getEmbed(rawUrl) {
+  if (!rawUrl) return null;
+
+  let url;
+  try {
+    url = new URL(rawUrl.trim());
+  } catch {
+    return null;
+  }
+  if (!/^https?:$/.test(url.protocol)) return null;
+
+  const host = url.hostname.replace(/^www\./, '');
+  const parts = url.pathname.split('/').filter(Boolean);
+  if (host === 'youtu.be' && parts[0]) {
+    return { kind: 'iframe', src: `https://www.youtube-nocookie.com/embed/${parts[0]}` };
+  }
+  if (host.endsWith('youtube.com')) {
+    let id = url.searchParams.get('v');
+    if (!id && ['embed', 'shorts', 'live'].includes(parts[0])) id = parts[1];
+    if (id) return { kind: 'iframe', src: `https://www.youtube-nocookie.com/embed/${id}` };
+  }
+  if (host === 'vimeo.com' || host === 'player.vimeo.com') {
+    const id = parts.find((p) => /^\d+$/.test(p));
+    if (id) return { kind: 'iframe', src: `https://player.vimeo.com/video/${id}` };
+  }
+  if (host === 'archive.org' && ['details', 'embed'].includes(parts[0]) && parts[1]) {
+    return { kind: 'iframe', src: `https://archive.org/embed/${parts[1]}` };
+  }
+  if (host === 'dailymotion.com' && parts[0] === 'video' && parts[1]) {
+    return { kind: 'iframe', src: `https://www.dailymotion.com/embed/video/${parts[1]}` };
+  }
+  if (host === 'dai.ly' && parts[0]) {
+    return { kind: 'iframe', src: `https://www.dailymotion.com/embed/video/${parts[0]}` };
+  }
+  if (host === 'streamable.com' && parts[0]) {
+    const id = parts[0] === 'e' ? parts[1] : parts[0];
+    if (id) return { kind: 'iframe', src: `https://streamable.com/e/${id}` };
+  }
+  return { kind: 'link', src: url.href };
+}
+
+function VideoEmbed(props) {
+  const embed = () => getEmbed(props.url);
+
+  return (
+    <Show when={embed()}>
+      <div class="VideoEmbed fade-in">
+        <Switch>
+          <Match when={embed().kind === 'iframe'}>
+            <iframe
+              src={embed().src}
+              title="Video"
+              loading="lazy"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+              allowfullscreen
+              referrerpolicy="strict-origin-when-cross-origin"
+            />
+          </Match>
+          <Match when={embed().kind === 'video'}>
+            <video src={embed().src} controls preload="metadata" />
+          </Match>
+          <Match when={embed().kind === 'link'}>
+            <a class="VideoLink" href={embed().src} target="_blank" rel="noopener noreferrer">
+              {embed().src}
+            </a>
+          </Match>
+        </Switch>
+      </div>
+    </Show>
+  );
+}
+
+export function renderVideoArticle(meta) {
+  const [thumb] = createResource(async () =>
+    fetchImage(await fetchFolderIDFromTitle(meta.pageThumbnailFile))
+  );
+
+  const [map] = createResource(() => fetchLocationMap(meta));
+
+  const [content] = createResource(async () => {
+    const id = await fetchFolderIDFromTitle(meta.title);
+    const [md, old] = await Promise.all([
+      fetchContent(id).catch(() => ''),
+      fetchOld(id).catch(() => ''),
+    ]);
+    return {
+      md: await resolveBracketLinks(md),
+      old: await resolveBracketLinks(old),
+    };
+  });
+
+  return (
+    <>
+      <h1 class="article-title">{meta.title}</h1>
+      <div class="ArticleBody type-video">
+        <VideoEmbed url={meta.pageThumbnailVideo} />
+        <div class="content fade-in type-video">
+          <Show when={!content.loading} fallback={<div>Loading…</div>}>
+            <Show
+              when={content()?.md || content()?.old}
+              fallback={<div class="NoContent fade-in">No transcription provided by source.</div>}
+            >
+              <Show when={!content().md && content().old}>
+                <div class="OldWarning">
+                  The following article content is unsourced, in an old formatting, and needs to be rewritten. Any new text added to the page will hide this previous content.
+                </div>
+              </Show>
+              <div class="fade-in" innerHTML={marked.parse(content().md || content().old)} />
+            </Show>
+          </Show>
+        </div>
+      </div>
+    </>
   );
 }
 

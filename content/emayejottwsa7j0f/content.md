@@ -1,0 +1,1 @@
+***Fort Lauderdale, FL (1550 N Federal Hwy)*** was a Gadgets that opened in April 1984 with The Looney Tunes Revue and closed later that year. This location should not be confused with [Fort Lauderdale, FL (7053 W Broward Blvd)], which was a ShowBiz Pizza Place that opened on December 23, 1981, and closed on January 8, 1984.

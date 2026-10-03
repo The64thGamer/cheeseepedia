@@ -144,6 +144,26 @@ export async function fetchCardExcerpt(meta, maxLength = 160) {
   );
 }
 
+export function loadKey(key, fallback = null, validate) {
+  try {
+    const raw = localStorage.getItem(key);
+    if (raw === null) return fallback;
+    const value = typeof fallback === 'string' ? raw : JSON.parse(raw);
+    return validate && !validate(value) ? fallback : value;
+  } catch {
+    return fallback; 
+  }
+}
+
+export function saveKey(key, value) {
+  try {
+    localStorage.setItem(key, typeof value === 'string' ? value : JSON.stringify(value));
+    return true;
+  } catch {
+    return false; 
+  }
+}
+
 export async function fetchThumbnailWLinkToArticle(meta) {
   const link = await fetchFolderIDFromTitle(meta.title);
   if (!link) return null;

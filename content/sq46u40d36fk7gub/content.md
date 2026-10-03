@@ -1,4 +1,4 @@
-***Brooklyn, NY (139 Flatbush Ave)***, Store #522, is a Chuck E. Cheese's located in the Atlantic Terminal Mall that opened on July 22, 2004, with a Studio C Beta and is still open today with the 2.0 remodel.
+***Brooklyn, NY (139 Flatbush Ave)***, Store #522, is a Chuck E. Cheese's located in the Atlantic Terminal Mall that opened on July 22, 2004, with a Studio C Beta and is still open today with the 2.0 remodel. This store should not be confused with [Brooklyn, NY (8949 Bay Pkwy)], which was a Pizza Time Theatre that opened in February 1984 with a Balcony Stage and closed on April 26, 1987.
 
 ## History
 

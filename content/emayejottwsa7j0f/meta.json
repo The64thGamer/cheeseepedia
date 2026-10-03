@@ -1,0 +1,42 @@
+{
+  "title": "Fort Lauderdale, FL (1550 N Federal Hwy)",
+  "type": "Locations",
+  "pageThumbnailFile": "",
+  "downloadLinks": [],
+  "citations": [],
+  "tags": [
+    "Gadgets",
+    "The Looney Tunes Revue"
+  ],
+  "startDate": "1984-04-00",
+  "endDate": "1984-00-00",
+  "recommend": false,
+  "sqft": "11,000",
+  "latitudeLongitude": [
+    "26.5405539",
+    "-80.0566749"
+  ],
+  "credits": [],
+  "stages": [
+    {
+      "n": "The Looney Tunes Revue",
+      "desc": "",
+      "s": "1984-04-00",
+      "e": "1984-00-00"
+    }
+  ],
+  "remodels": [],
+  "franchisees": [
+    {
+      "n": "Leisure Development Corporation",
+      "s": "1984-04-00",
+      "e": "1984-00-00"
+    }
+  ],
+  "animatronics": [],
+  "attractions": [],
+  "showtapeFormats": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ]
+}

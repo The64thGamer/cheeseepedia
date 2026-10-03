@@ -1,0 +1,1 @@
+Segment 2 of the Holiday Party 2010 show being performed at [Nanuet, NY (250 W Rte 59)].

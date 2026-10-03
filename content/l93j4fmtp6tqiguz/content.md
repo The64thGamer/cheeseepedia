@@ -1,0 +1,1 @@
+***Latham, NY (601 Troy Schenectady Rd)*** is a Chuck E. Cheese's that opened on April 5, 1999, with a Studio C Alpha and is still open with the 2.0 remodel.

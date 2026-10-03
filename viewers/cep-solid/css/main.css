@@ -32,6 +32,12 @@ body {
   min-height: 15em;
 }
 
+.content.type-video {
+  min-height: 0;
+  max-height: 15rem;
+  overflow-y: auto;
+}
+
 h1,
 h2,
 h3,
@@ -189,8 +195,28 @@ a {
   padding:1rem;
 }
 
+.VideoEmbed {
+  width: 100%;
+  margin: auto;
+  margin-bottom: 1rem;
+}
+
+.VideoEmbed iframe,
+.VideoEmbed video {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+  border-radius: 0.5rem;
+}
+
+.VideoLink {
+  word-break: break-all;
+}
 
 .Card {
+  display: flex;
+  flex-direction: column;
   border-radius: 1rem;
   min-width: 12.5rem;
   max-width: 12.5rem;
@@ -202,10 +228,32 @@ a {
   overflow: hidden;
 }
 
+.Card.type-video{
+  min-width: 14.25rem;
+  max-width: 14.25rem;
+}
+
+.Card.type-photo{
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
+  min-width:12rem;
+  max-width:12rem;
+}
+
+.CardImage.type-photo{
+  height: 10rem;
+}
+
 .Card:hover {
   box-shadow: 0 0 0 0.25rem var(--good-link);
   transform: translateY(-0.25rem);
   will-change: transform;
+}
+
+
+.Card.type-photo:hover {
+  box-shadow: none;
 }
 
 .Card img {
@@ -221,6 +269,32 @@ a {
   white-space: nowrap;
   overflow: hidden;
   font-family: var(--font-display);
+}
+
+.CardLink.type-photo {
+  white-space: normal;
+  overflow: visible;
+}
+
+.CardLink.type-photo::after {
+  display: none;
+}
+
+.CardLink.type-photo span {
+  display: inline; 
+  padding-right: 0;
+}
+
+.CardLink.type-photo a {
+  color: color-mix(in srgb, var(--text) 30%, transparent);
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+.Card.type-photo:hover .CardLink span {
+  transform: none;
+  transition: none;
 }
 
 .CardLink::after {
@@ -256,14 +330,19 @@ a {
   transform: translateX(-75%);
   will-change: transform;
 }
-
 .CardTextArea {
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   margin-left: 0.5rem;
   margin-right: 0.5rem;
 }
 
+.CardText {
+  margin-top: auto;
+}
 .CardImage {
   height: 8rem;
   overflow: hidden;
@@ -321,6 +400,7 @@ a {
 
 .Carousel {
   display: flex;
+  align-items: stretch;
   gap: 1rem;
   overflow-x: auto;
   overflow-y: hidden;

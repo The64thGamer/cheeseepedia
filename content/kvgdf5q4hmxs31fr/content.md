@@ -1,0 +1,1 @@
+Segment 8 of the September 2010 show being performed at [Nanuet, NY (250 W Rte 59)].
