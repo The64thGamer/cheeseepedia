@@ -1,0 +1,1 @@
+Chuck E Cheese - Funnins Day - Poughkeepsie, NY

@@ -1,0 +1,1 @@
+Chuck E Cheese - Nothing Like A Walk - Poughkeepsie, NY

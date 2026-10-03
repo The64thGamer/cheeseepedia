@@ -1,0 +1,1 @@
+Chuck E Cheese Store Tour: Poughkeepsie, NY (September 2024)

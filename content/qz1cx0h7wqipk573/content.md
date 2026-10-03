@@ -1,0 +1,1 @@
+“Sammy The Skateboarding Skeleton” - Chuck E Cheese Poughkeepsie, NY

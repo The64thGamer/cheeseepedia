@@ -1,0 +1,1 @@
+TOUR: Chuck E Cheese Poughkeepsie, NY  (September 2025)

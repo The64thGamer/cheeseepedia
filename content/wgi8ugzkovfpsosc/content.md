@@ -1,0 +1,1 @@
+Chuck E Cheese - What Do You Get a Sasquatch For Christmas? - Poughkeepsie, NY

@@ -1,0 +1,1 @@
+TOUR: Chuck E. Cheese Wichita, Kansas
