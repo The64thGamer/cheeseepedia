@@ -1,10 +1,57 @@
 #!/usr/bin/env python3
 import json, os, subprocess, sys, calendar, datetime
 from pathlib import Path
-import re, shutil, tempfile, html, io
+import re, shutil, tempfile, html, io, heapq, secrets, string
 import urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor
 from itertools import zip_longest
+from prompt_toolkit import PromptSession
+from prompt_toolkit.completion import Completer, Completion
+from prompt_toolkit.formatted_text import ANSI
+from yt_dlp import YoutubeDL
+
+#This list of channels is not an endorsement of any listed.
+#They are simply semi-popular channels that post mostly
+#CEC/RAE/animatronic centric videos that are worth tagging
+#for pages to use as citations or further exploration by
+#the reader. Channels may be added or removed over time.
+CHANNELS = [
+    "@therockafire",
+    "@CECNewYork",
+    "@ChuckEEntertainment",
+    "@chuckecheese",
+    "@RetroPizzaFan",
+    "@brianhagan",
+    "@FreddyTrap",
+    "@GSully",
+    "@TheTNTMuffin",
+    "@setsstreetseats",
+    "@LiamsExplorations",
+    "@conceptcheeseentertainment",
+    "@CEtalkshow",
+    "@ManAndDogFan",
+    "@TayJayProductions",
+    "@CECFlorida",
+    "@michael-armenta",
+    "@ShowbizPizzaPlaceAnimatronics",
+    "@circuspizzafan",
+    "@CECWorld",
+    "@showbizpizza",
+    "@showbizpizzacom",
+    "@ThatColumbusGuyy",
+    "@connorleschinsky",
+    "@chimeramanticore",
+    "@RetrofittedReality",
+    "@RockafireAudio",
+    "@PasqAnimatronics",
+    "@BullFrogsBanjo",
+    "@funtownfollies6313",
+    "@ItzaRob",
+    "@NathanSpies",
+    ]
+CHANNEL_TABS = ["videos"]
+OLDEST_FIRST = False
+CONTRIBUTOR = "sudo-trans-pony"
 
 CONTENT_DIR = "content"
 OUT_TITLE_TO_ID = os.path.join(os.path.dirname(__file__), "..", "compiled-json/titleToFolderIDMap.json")
@@ -15,6 +62,11 @@ THUMB_FIELD = "pageThumbnailVideo"
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
 PHOTO_SIM_BITS = 16
 PHOTO_HASH_CACHE = os.path.join(os.path.dirname(__file__), ".photo_hashes.json")
+OUT_REJECTED = os.path.join(os.path.dirname(__file__), "..", "compiled-json/rejected_videos.json")
+MEDIA_TYPES = {"Photos", "Videos"}
+ID_ALPHABET = string.ascii_lowercase + string.digits
+PREFETCH = 3
+MAX_SUGGESTIONS = 8
 
 USE_COLOR = sys.stdout.isatty() and "NO_COLOR" not in os.environ
 if USE_COLOR and os.name == "nt":
@@ -65,6 +117,8 @@ def ask(question):
 
 
 def main():
+    if ask("Add New Fandom Videos"):
+        add_fandom_videos()
     if ask("Scrape Video Thumbnails/Transcripts"):
         process_video_articles()
     if ask("Scan for duplicate articles"):
@@ -570,6 +624,233 @@ def dedupe_photos():
         if auto or ask(f"Merge into {keep.name} (larger file)?"):
             merge_articles(keep, [f for f in (a, b) if f != keep])
             print(green(f"Auto-merged {b.name if keep == a else a.name} into {keep.name} (identical file size)" if auto else f"Merged into {keep.name}"))
+
+
+def sanitize_title(title):
+    for q in ('"', "\u201c", "\u201d", "\u201e", "\u201f"):
+        title = title.replace(q, "''")
+    title = re.sub(r"[\x00-\x1f\x7f]", " ", title.replace("\\", ""))
+    return re.sub(r"\s+", " ", title).strip()
+
+
+def load_site_data():
+    titles, video_ids, media_titles = set(), set(), set()
+    for folder in Path(CONTENT_DIR).iterdir():
+        meta = read_meta(folder) if folder.is_dir() else {}
+        title = meta.get("title")
+        if isinstance(title, str) and title:
+            titles.add(title)
+            if meta.get("type") in MEDIA_TYPES:
+                media_titles.add(title)
+        for candidate in (meta.get(THUMB_FIELD), title):
+            vid = youtube_id(candidate.replace("\\", "")) if isinstance(candidate, str) else None
+            if vid:
+                video_ids.add(vid)
+    return titles, video_ids, media_titles
+
+
+def load_rejected():
+    try:
+        with open(OUT_REJECTED, encoding="utf-8") as f:
+            return set(json.load(f))
+    except Exception:
+        return set()
+
+
+def save_rejected(rejected):
+    write_json(sorted(rejected), OUT_REJECTED)
+
+
+def matches_pattern(title, patterns):
+    lowered = (title or "").lower()
+    return any(p.lower() in lowered for p in patterns)
+
+
+def list_channel_videos(handle):
+    videos = {}
+    options = {"quiet": True, "no_warnings": True, "extract_flat": True, "skip_download": True}
+    with YoutubeDL(options) as ydl:
+        for tab in CHANNEL_TABS:
+            try:
+                info = ydl.extract_info(f"https://www.youtube.com/{handle}/{tab}", download=False)
+            except Exception as e:
+                print(red(f"Could not read the '{tab}' tab: {e}"))
+                continue
+            for entry in (info or {}).get("entries") or []:
+                vid = entry.get("id")
+                if vid and len(vid) == 11:
+                    videos.setdefault(vid, entry.get("title") or "")
+    return videos
+
+
+def fetch_details(vid):
+    options = {"quiet": True, "no_warnings": True, "skip_download": True, "ignore_no_formats_error": True}
+    try:
+        with YoutubeDL(options) as ydl:
+            info = ydl.extract_info(f"https://www.youtube.com/watch?v={vid}", download=False)
+    except Exception as e:
+        return {"id": vid, "error": str(e)}
+    raw = info.get("upload_date") or info.get("release_date") or ""
+    return {
+        "id": vid,
+        "title": info.get("title") or "",
+        "description": info.get("description") or "",
+        "date": f"{raw[:4]}-{raw[4:6]}-{raw[6:8]}" if len(raw) == 8 else "0000-00-00",
+        "duration": info.get("duration_string") or "",
+    }
+
+
+class TagCompleter(Completer):
+    def __init__(self, tags):
+        self.pairs = [(t.lower(), t) for t in tags]
+
+    def get_completions(self, document, complete_event):
+        text = document.text
+        q = text.strip().lower()
+        if not q or text.startswith(("/", "!")):
+            return
+        scored = [(0 if lower.startswith(q) else 1, len(t), t) for lower, t in self.pairs if q in lower]
+        for _, _, t in heapq.nsmallest(MAX_SUGGESTIONS, scored):
+            yield Completion(t, start_position=-len(text))
+
+
+def ask_tags(session, completer, tag_lookup):
+    tags = []
+    while True:
+        text = session.prompt(ANSI(yellow(f"tag {len(tags) + 1}> ")), completer=completer, complete_while_typing=True).strip()
+        if text in ("/reject", "/skip", "/quit"):
+            return text[1:], tags
+        if text.lower().startswith("/autoreject"):
+            pattern = text[len("/autoreject"):].strip()
+            if pattern:
+                return "autoreject", [pattern]
+            print(red("  Usage: /autoreject <text>"))
+            continue
+        if text == "/undo":
+            if tags:
+                print(dim(f"  Removed: {tags.pop()}"))
+            continue
+        if not text:
+            if tags or session.prompt(ANSI(yellow("  No tags. Save anyway? [y/N] "))).strip().lower().startswith("y"):
+                return "save", tags
+            continue
+        tag = text[1:].strip() if text.startswith("!") else tag_lookup.get(text.lower())
+        if not tag:
+            print(red("  No article with that title. Pick a suggestion, or prefix with ! to add it anyway."))
+        elif tag in tags:
+            print(yellow("  Already added."))
+        else:
+            tags.append(tag)
+            print(green("  Tags: " + " | ".join(tags)))
+
+
+def show_video(index, total, d):
+    print(cyan("\n" + "=" * 80))
+    print(green(f"[{index}/{total}] {d['title']}"))
+    print(cyan(f"https://www.youtube.com/watch?v={d['id']}"))
+    print(dim(f"Uploaded: {d['date']}    Length: {d['duration'] or 'unknown'}"))
+    print(dim("-" * 80))
+    print(d["description"].strip() or dim("(no description)"))
+    print(dim("-" * 80))
+    print(dim("Empty line = save.  /reject  /skip  /undo  /quit  /autoreject <text>"))
+
+
+def save_video(d, tags, site_titles):
+    while True:
+        folder = Path(CONTENT_DIR) / "".join(secrets.choice(ID_ALPHABET) for _ in range(16))
+        if not folder.exists():
+            break
+    folder.mkdir(parents=True)
+    url = f"https://www.youtube.com/watch?v={d['id']}"
+    title = sanitize_title(d["title"]) or folder.name
+    if title.lower() in {t.lower() for t in site_titles}:
+        title = f"{title} ({d['id']})"
+    site_titles.add(title)
+    meta = {
+        "title": title,
+        "type": "Videos",
+        "pageThumbnailVideo": url,
+        "citations": [url],
+        "tags": tags,
+        "startDate": d["date"],
+        "contributors": [CONTRIBUTOR],
+    }
+    (folder / "meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+    return folder.name
+
+
+def add_fandom_videos():
+    if not Path(CONTENT_DIR).is_dir():
+        print(red(f"Content dir '{CONTENT_DIR}' not found"), file=sys.stderr)
+        return
+    site_titles, existing, media_titles = load_site_data()
+    tag_titles = sorted(t for t in site_titles if not re.match(r"https?://", t, re.I) and not t.lower().endswith(".avif") and t not in media_titles)
+    tag_lookup = {t.lower(): t for t in tag_titles}
+    completer = TagCompleter(tag_titles)
+    rejected = load_rejected()
+    patterns = []
+    session = PromptSession()
+    executor = ThreadPoolExecutor(max_workers=PREFETCH)
+    saved = auto_rejected = 0
+
+    try:
+        for handle in CHANNELS:
+            print(cyan(f"Listing {handle}..."))
+            listing = list_channel_videos(handle)
+            pending = [v for v in listing if v not in existing and v not in rejected]
+            print(green(f"{handle}: {len(listing)} videos, {len(pending)} to review"))
+            if OLDEST_FIRST:
+                pending.reverse()
+            futures = {}
+
+            for i, vid in enumerate(pending):
+                if vid in rejected:
+                    continue
+                if matches_pattern(listing[vid], patterns):
+                    rejected.add(vid)
+                    save_rejected(rejected)
+                    auto_rejected += 1
+                    continue
+
+                for nxt in pending[i:i + PREFETCH]:
+                    if nxt not in futures and nxt not in rejected and not matches_pattern(listing[nxt], patterns):
+                        futures[nxt] = executor.submit(fetch_details, nxt)
+
+                details = futures.pop(vid).result()
+                if "error" in details:
+                    print(red(f"\n[{i + 1}/{len(pending)}] Could not load {vid}: {details['error']}"))
+                    continue
+                if matches_pattern(details["title"], patterns):
+                    rejected.add(vid)
+                    save_rejected(rejected)
+                    auto_rejected += 1
+                    print(yellow(f"\n[{i + 1}/{len(pending)}] Auto-rejected: {details['title']}"))
+                    continue
+
+                show_video(i + 1, len(pending), details)
+                action, tags = ask_tags(session, completer, tag_lookup)
+
+                if action == "quit":
+                    return
+                if action == "skip":
+                    continue
+                if action == "autoreject":
+                    patterns.append(tags[0])
+                    action = "reject"
+                if action == "reject":
+                    rejected.add(vid)
+                    save_rejected(rejected)
+                    print(yellow("  Rejected."))
+                    continue
+
+                print(green(f"  Saved to {CONTENT_DIR}/{save_video(details, tags, site_titles)}"))
+                existing.add(vid)
+                saved += 1
+    except (KeyboardInterrupt, EOFError):
+        print(yellow("\nStopped."))
+    finally:
+        executor.shutdown(wait=False, cancel_futures=True)
+        print(green(f"Fandom videos: {saved} created, {auto_rejected} auto-rejected by title"))
 
 
 def run_solid_build():

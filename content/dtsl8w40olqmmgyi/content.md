@@ -1,0 +1,1 @@
+***Chandler, AZ (2770 E Germann Rd)*** is a [Chuck E. Cheese Adventure World] that opened on October 1st, 2026.[1]

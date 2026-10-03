@@ -1,0 +1,42 @@
+{
+  "title": "Chandler, AZ (2770 E Germann Rd)",
+  "type": "Locations",
+  "pageThumbnailFile": "",
+  "pageThumbnailVideo": "",
+  "downloadLinks": [],
+  "citations": [
+    "https://www.yourvalley.net/stories/adventure-world-chuck-e-cheese-concept-to-open-in-chandler-on-oct-1,724491"
+  ],
+  "tags": [
+    "Chuck E. Cheese Adventure World"
+  ],
+  "startDate": "2026-10-01",
+  "endDate": "",
+  "recommend": false,
+  "latitudeLongitude": [
+    "33.2794201",
+    "-111.7932176"
+  ],
+  "credits": [],
+  "stages": [
+    {
+      "n": "Video Wall",
+      "desc": "",
+      "s": "2026-10-01",
+      "e": "0000-00-00"
+    }
+  ],
+  "remodels": [
+    {
+      "n": "CEC Adventure World Standard Layout",
+      "s": "2026-10-01"
+    }
+  ],
+  "franchisees": [],
+  "animatronics": [],
+  "attractions": [],
+  "showtapeFormats": [],
+  "contributors": [
+    "sudo-trans-pony"
+  ]
+}
