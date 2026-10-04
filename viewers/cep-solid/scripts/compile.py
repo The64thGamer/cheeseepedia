@@ -61,6 +61,9 @@ CHANNELS = [
     "@funtownfollies6313",
     "@ItzaRob",
     "@NathanSpies",
+    "@ChuckECheeseArabic",
+    "@ChuckECheeseEspañol",
+    "@WatootsiJenkins"
     ]
 CHANNEL_TABS = ["videos"]
 OLDEST_FIRST = False

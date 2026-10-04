@@ -150,7 +150,10 @@
         "Originator of The Goongalar (really)",
         "Honey you mean Helpules",
         "Rule 6: Don't touch Freddy.",
-        "Please shout out the contributors if you're doing research for a video!"
+        "Please shout out the contributors if you're doing research for a video!",
+        "Toy Chica is William Afton",
+        "FNaF: Making more money than CEC since 2014.",
+        "We were here before Adventure World became the new 2.0"
     ];
 
     const dateSpecificPhrases = {
