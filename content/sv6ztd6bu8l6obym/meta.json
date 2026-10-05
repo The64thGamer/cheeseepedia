@@ -1,53 +1,194 @@
 {
-    "title": "York, PA (2801 E Market St)",
-    "storeNumber": "",
-    "startDate": "1983-03-04",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-00-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2018-09-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1983-03-04"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1983-03-04",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage",
-            "s": "1991-00-00",
-            "e": "2018-09-00",
-            "desc": "One of 3 3-Stages in Pennsylvania to get Concept Unification."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2018-09-00",
-            "desc": "2017 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "39.97645047",
-        "-76.67319193"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "DX8OSOoW_MRQNWfi5chg.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "York, PA (2801 E Market St)",
+  "storeNumber": "965",
+  "startDate": "1983-02-28",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1983-03-04"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-07-00"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1990-08-00"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "0000-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-02-28",
+      "e": "1991-00-00",
+      "desc": "Underwent Concept Unification around 1991."
+    },
+    {
+      "n": "Concept Unification Stage",
+      "s": "1990-08-00",
+      "e": "2018-09-00",
+      "desc": ""
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2018-09-00",
+      "desc": "2017 model.",
+      "e": ""
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Family Restaurant Concepts, Inc.",
+      "s": "1983-02-28",
+      "e": "1989-10-19"
+    },
+    {
+      "n": "McBiz Corporation",
+      "s": "1989-11-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Berzerk",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "BurgerTime",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Tron",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "SkyTubes",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "sqft": "22,000 (about 10,000 used)",
+  "latitudeLongitude": [
+    "39.97645047",
+    "-76.67319193"
+  ],
+  "citations": [
+    "https://m.youtube.com/watch?v=vUkNfE10x1Q&ra=m",
+    "https://cecuniversity.miraheze.org/wiki/York,_PA_(2801_E_Market_St)",
+    "https://www.newspapers.com/article/york-daily-record-york-spp-approved/177970324/",
+    "https://www.newspapers.com/article/york-daily-record/38961899/",
+    "https://www.newspapers.com/article/the-york-dispatch-york-spp-july-1990-for/177978423/"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "DX8OSOoW_MRQNWfi5chg.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place",
+    "Classic Stage",
+    "The Rock-afire Explosion",
+    "Concept Unification",
+    "Concept Unification Stage",
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "7-82 1-22",
+      "s": "1983-02-28",
+      "e": "2018-09-00"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "7-82 2-22",
+      "s": "1983-02-28",
+      "e": "2018-09-00"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "7-82 3-22",
+      "s": "1983-02-28",
+      "e": "2018-09-00"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "7-82 4-22",
+      "s": "1983-02-28",
+      "e": "2018-09-00"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "7-82 5-22",
+      "s": "1983-02-28",
+      "e": "2018-09-00"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "desc": "Removed during Concept Unification. Fate unknown.",
+      "l": "7-82 6-22",
+      "s": "1983-02-28",
+      "e": "1990-08-00"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "desc": "Fate unknown.",
+      "l": "7-82 7-22",
+      "s": "1983-02-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "desc": "Fate unknown.",
+      "l": "7-82 8-22",
+      "s": "1983-02-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "desc": "Fate unknown.",
+      "l": "7-82 10-22",
+      "s": "1983-02-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "desc": "Fate unknown.",
+      "l": "7-82 11-22",
+      "s": "1983-02-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "desc": "Removed during Concept Unification. Fate unknown.",
+      "l": "",
+      "s": "1983-02-28",
+      "e": "1990-08-00"
+    },
+    {
+      "n": "Wink (Animatronic)",
+      "desc": "Current whereabouts unknown.",
+      "l": "",
+      "s": "1990-08-00",
+      "e": "2018-09-00"
+    }
+  ]
 }
