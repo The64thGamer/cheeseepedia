@@ -1,0 +1,1 @@
+***Orange, CT (260 Bull Hill Ln)*** was a Pizza Time Theatre that opened in May 1983 with a Balcony Stage and closed in 1985. It was one of the last remaining Pizza Time Theatres in Connecticut by the time it closed.

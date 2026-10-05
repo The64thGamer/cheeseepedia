@@ -6,9 +6,18 @@ const MAP_TYPES = new Set(['locations', 'cancelled locations']);
 const MNAMES=['','Jan. ','Feb. ','Mar. ','Apr. ','May ','Jun. ','Jul. ','Aug. ','Sep. ','Oct. ','Nov. ','Dec.'];
 
 export async function fetchMeta(folderID) {
-  const res = await fetch(`/content/${folderID}/meta.json`);
-  if (!res.ok) throw new Error(`meta.json not found for "${folderID}"`);
-  return res.json();
+  if (!folderID) return { type: 'home' };
+
+  try {
+    const res = await fetch(`/content/${folderID}/meta.json`);
+    const type = res.headers.get('content-type') || '';
+    if (!res.ok || !type.includes('json')) {
+      return { type: 'notfound', folderID };
+    }
+    return { type: 'article', folderID, ...(await res.json()) };
+  } catch {
+    return { type: 'notfound', folderID };
+  }
 }
 
 export async function fetchContent(folderID) {
@@ -163,7 +172,6 @@ export function saveKey(key, value) {
     return false; 
   }
 }
-
 export async function fetchThumbnailWLinkToArticle(meta) {
   const link = await fetchFolderIDFromTitle(meta.title);
   if (!link) return null;
@@ -183,6 +191,16 @@ export async function fetchThumbnailWLinkToArticle(meta) {
   }
   if (!thumbnailFolderID) return null;
 
+  let altText = '';
+  const [md, old] = await Promise.all([
+    fetchContent(link).catch(() => ''),
+    fetchOld(link).catch(() => ''),
+  ]);
+  const source = await resolveBracketLinks(md || old || '');
+  altText = (
+    new DOMParser().parseFromString(marked.parse(source), 'text/html').body.textContent || ''
+  ).trim();
+
   return (
     <a href={getFolderPath(link)}>
       <img
@@ -197,12 +215,20 @@ export async function fetchThumbnailWLinkToArticle(meta) {
           img.onerror = () => (img.src = full);
           img.src = low;
         }}
-        alt=""
+        alt={altText}
         loading="lazy"
         class=""
       />
     </a>
   );
+}
+
+export function formatDiscourseDate(iso) {
+  return new Date(iso).toLocaleDateString(undefined, {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+  });
 }
 
 function mapContainer(setup) {

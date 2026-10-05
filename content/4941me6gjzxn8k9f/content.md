@@ -1,0 +1,1 @@
+A newspaper ad for the auctions at the New Hartford, NY, Schenectady, NY, and Cheektowaga, NY Pizza Time Theatre's

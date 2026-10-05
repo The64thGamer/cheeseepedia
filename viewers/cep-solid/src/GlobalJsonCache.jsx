@@ -2,6 +2,25 @@ let titleToFolderIDMap = null;
 let FolderIDToTitleMap = null;
 let ViewsMap = null;
 let TypeToIDList = null;
+let DiscourseNews = null;
+let RecentFanVideos = null;
+let RecentOfficialVideos = null;
+
+export async function loadRecentFanVideos() {
+  if (!RecentFanVideos) {
+    const res = await fetch('/viewers/cep-solid/compiled-json/recentfanvideos.json');
+    RecentFanVideos = await res.json();
+  }
+  return RecentFanVideos;
+}
+
+export async function loadRecentOfficialVideos() {
+  if (!RecentOfficialVideos) {
+    const res = await fetch('/viewers/cep-solid/compiled-json/recentofficialvideos.json');
+    RecentOfficialVideos = await res.json();
+  }
+  return RecentOfficialVideos;
+}
 
 export async function loadTitleToFolderIDMap() {
   if (!titleToFolderIDMap) {
@@ -33,4 +52,12 @@ export async function loadTypeToIDList() {
     TypeToIDList = await res.json();
   }
   return TypeToIDList;
+}
+
+export async function loadNews() {
+  if (!DiscourseNews) {
+    const res = await fetch('/viewers/cep-js/compiled-json/DiscourseNews.json');
+    DiscourseNews = await res.json();
+  }
+  return DiscourseNews;
 }

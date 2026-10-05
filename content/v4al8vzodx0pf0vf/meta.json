@@ -5,7 +5,7 @@
     "Creative Engineering",
     "Jingle Bell Jamboree",
     "Elfis (Animatronic)",
-    "Satchemo (Animatronic)",
+    "Satchmo (Animatronic)",
     "Maynard(Animatronic)",
     "Elfen John (Animatronic)",
     "Foot Tapping Rabbit (Animatronic)",
@@ -17,5 +17,9 @@
   "pageThumbnailFile": "",
   "contributors": [
     "TutorialTimeYt"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

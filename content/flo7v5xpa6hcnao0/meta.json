@@ -1,34 +1,80 @@
 {
-    "title": "Orange, CT (260 Bull Hill Lane)",
-    "storeNumber": "",
-    "startDate": "1983-05-00",
-    "endDate": "1985-00-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1983-05-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1983-05-00",
-            "e": "1985-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.27162472",
-        "-72.99135508"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "cPhBucmr7v44aUfteway.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Orange, CT (260 Bull Hill Lane)",
+  "storeNumber": "",
+  "startDate": "1983-05-00",
+  "endDate": "1985-00-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-05-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-05-00",
+      "e": "1985-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.27162472",
+    "-72.99135508"
+  ],
+  "citations": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "cPhBucmr7v44aUfteway.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "desc": "Sold at auction. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-05-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "desc": "Sold at auction. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-05-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "desc": "Sold at auction. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-05-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "Sold at auction. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-05-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "desc": "Sold at auction. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-05-00",
+      "e": "1985-00-00"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "desc": "Rainbow variant. Sold at auction. Current whereabouts unknown.",
+      "l": "",
+      "s": "1983-05-00",
+      "e": "1985-00-00"
+    }
+  ]
 }

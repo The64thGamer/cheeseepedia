@@ -1,0 +1,42 @@
+{
+  "title": "Victor, NY (7979 Pittsford-Victor Rd, Space 108)",
+  "type": "Locations",
+  "pageThumbnailFile": "",
+  "pageThumbnailVideo": "",
+  "downloadLinks": [],
+  "citations": [],
+  "tags": [
+    "Chuck's Arcade",
+    "Victor, NY (7979 Pittsford-Victor Rd, Space 108)"
+  ],
+  "startDate": "0000-00-00",
+  "endDate": "0000-00-00",
+  "recommend": false,
+  "latitudeLongitude": [
+    "43.0292894",
+    "-77.4447506"
+  ],
+  "credits": [],
+  "stages": [],
+  "remodels": [
+    {
+      "n": "2025 Chuck's Arcade Remodel",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "animatronics": [
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "desc": "From Rockford, IL. On display in the right front window. Static and in a waving pose.",
+      "l": "",
+      "s": "2024-10-00",
+      "e": ""
+    }
+  ],
+  "attractions": [],
+  "showtapeFormats": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ]
+}

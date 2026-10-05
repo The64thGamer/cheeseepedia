@@ -2,7 +2,7 @@
 import json, os, subprocess, sys, calendar, datetime
 from pathlib import Path
 import re, shutil, tempfile, html, io, heapq, secrets, string
-import urllib.request, urllib.error
+import urllib.request, urllib.error, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 from itertools import zip_longest
 from prompt_toolkit import PromptSession
@@ -10,23 +10,29 @@ from prompt_toolkit.completion import Completer, Completion
 from prompt_toolkit.formatted_text import ANSI
 from yt_dlp import YoutubeDL
 
+OFFICIAL_CHANNELS = [
+    "@chuckecheese",
+    "@fanprograms",
+    "@therockafire",
+    "@ChuckECheeseArabic",
+    "@ChuckECheeseEspañol",
+    "@Rockafiremovie",
+    "@animdude"
+]
+
 #This list of channels is not an endorsement of any listed.
 #They are simply semi-popular channels that post mostly
 #CEC/RAE/animatronic centric videos that are worth tagging
 #for pages to use as citations or further exploration by
 #the reader. Channels may be added or removed over time.
-CHANNELS = [
-    "@therockafire",
-    "@fanprograms",
+FAN_CHANNELS = [
+    "@ChuckEEntertainment",
     "@dooklarue",
-    "@Rockafiremovie",
     "@christhrash9124",
     "@chuckaround",
     "@MattTheFranchize",
-    "@ChuckE.CheesesIllinois"
+    "@ChuckE.CheesesIllinois",
     "@CECNewYork",
-    "@ChuckEEntertainment",
-    "@chuckecheese",
     "@RetroPizzaFan",
     "@brianhagan",
     "@FreddyTrap",
@@ -61,10 +67,14 @@ CHANNELS = [
     "@funtownfollies6313",
     "@ItzaRob",
     "@NathanSpies",
-    "@ChuckECheeseArabic",
-    "@ChuckECheeseEspañol",
-    "@WatootsiJenkins"
-    ]
+    "@WatootsiJenkins",
+    "@GallaRM",
+    "@animatronicswarehouse",
+    "@Dawko",
+    "@JonnyBlox1"
+]
+CHANNELS = OFFICIAL_CHANNELS + FAN_CHANNELS
+OFFICIAL_HANDLES = {h.lower() for h in OFFICIAL_CHANNELS}
 CHANNEL_TABS = ["videos"]
 OLDEST_FIRST = False
 CONTRIBUTOR = "sudo-trans-pony"
@@ -74,6 +84,9 @@ OUT_TITLE_TO_ID = os.path.join(os.path.dirname(__file__), "..", "compiled-json/t
 OUT_ID_TO_TITLE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/folderIDToTitleMap.json")
 OUT_MAP_PINS    = os.path.join(os.path.dirname(__file__), "..", "compiled-json/map_pins.json")
 OUT_TYPE_TO_IDS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/typeToIDList.json")
+OUT_RECENT_FAN_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentfanvideos.json")
+OUT_RECENT_OFFICIAL_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentofficialvideos.json")
+RECENT_VIDEOS_COUNT = 15
 THUMB_FIELD = "pageThumbnailVideo"
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
 PHOTO_SIM_BITS = 16
@@ -140,6 +153,7 @@ def main():
     if ask("Scan for duplicate articles"):
         dedupe_videos()
         dedupe_photos()
+    fill_video_channel_handles()
     remove_backslashes()
     title_to_id = build_title_to_id_map()
     id_to_title = build_id_to_title_map(title_to_id)
@@ -148,10 +162,16 @@ def main():
     write_json(type_to_ids, OUT_TYPE_TO_IDS)
     write_json(title_to_id, OUT_TITLE_TO_ID)
     write_json(id_to_title, OUT_ID_TO_TITLE)
+    recent_fan = build_recent_videos(False)
+    recent_official = build_recent_videos(True)
+    write_json(recent_fan, OUT_RECENT_FAN_VIDEOS)
+    write_json(recent_official, OUT_RECENT_OFFICIAL_VIDEOS)
 
     print(green(f'Wrote {len(title_to_id)} titles -> {OUT_TITLE_TO_ID}'))
     print(green(f'Wrote {len(id_to_title)} ids -> {OUT_ID_TO_TITLE}'))
     print(green(f'Wrote {len(type_to_ids)} types -> {OUT_TYPE_TO_IDS}'))
+    print(green(f'Wrote {len(recent_fan)} recent fan videos -> {OUT_RECENT_FAN_VIDEOS}'))
+    print(green(f'Wrote {len(recent_official)} recent official videos -> {OUT_RECENT_OFFICIAL_VIDEOS}'))
 
     build_map_pins()
 
@@ -223,6 +243,70 @@ def build_type_to_ids():
     for ids in by_type.values():
         ids.sort()
     return dict(sorted(by_type.items()))
+
+def is_official(meta):
+    handle = urllib.parse.unquote(meta.get('videoChannelHandle') or '').strip().lower()
+    return handle in OFFICIAL_HANDLES
+
+
+def build_recent_videos(official):
+    videos = []
+    for folder in Path(CONTENT_DIR).iterdir():
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if (meta.get('type') or '').strip().lower() != 'videos':
+            continue
+        if is_official(meta) != official:
+            continue
+        date = meta.get('startDate') or ''
+        if not date or date.startswith('0000'):
+            continue
+        videos.append((date, folder.name))
+    videos.sort(reverse=True)
+    return [name for _, name in videos[:RECENT_VIDEOS_COUNT]]
+
+
+def fetch_channel_handle(vid):
+    options = {"quiet": True, "no_warnings": True, "skip_download": True, "ignore_no_formats_error": True}
+    try:
+        with YoutubeDL(options) as ydl:
+            info = ydl.extract_info(f"https://www.youtube.com/watch?v={vid}", download=False)
+    except Exception as e:
+        print(red(f"  Could not read {vid}: {e}"))
+        return None
+    handle = info.get("uploader_id") or ""
+    if not handle.startswith("@"):
+        m = re.search(r"/(@[^/?#]+)", info.get("uploader_url") or info.get("channel_url") or "")
+        handle = m.group(1) if m else ""
+    return urllib.parse.unquote(handle)
+
+
+def fill_video_channel_handles():
+    todo = []
+    for folder in sorted(Path(CONTENT_DIR).iterdir()):
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if (meta.get("type") or "").strip().lower() != "videos" or "videoChannelHandle" in meta:
+            continue
+        vid = youtube_id(find_video_url(meta))
+        if vid:
+            todo.append((folder, meta, vid))
+    print(cyan(f"{len(todo)} videos missing a channel handle"))
+    if not todo:
+        return
+    filled = 0
+    with ThreadPoolExecutor(max_workers=PREFETCH) as executor:
+        for (folder, meta, vid), handle in zip(todo, executor.map(lambda t: fetch_channel_handle(t[2]), todo)):
+            if handle is None:
+                continue
+            meta["videoChannelHandle"] = handle
+            (folder / "meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+            filled += 1
+            print(green(f"  {folder.name}: {handle or '(none)'}"))
+    print(green(f"Channel handles: {filled} filled, {len(todo) - filled} failed"))
+
 
 def build_id_to_title_map(title_to_id):
     return {folder_id: title for title, folder_id in title_to_id.items()}
@@ -811,6 +895,8 @@ def add_fandom_videos():
 
     try:
         for handle in CHANNELS:
+            if ask(f"Skip {handle}"):
+                continue
             print(cyan(f"Listing {handle}..."))
             listing = list_channel_videos(handle)
             pending = [v for v in listing if v not in existing and v not in rejected]

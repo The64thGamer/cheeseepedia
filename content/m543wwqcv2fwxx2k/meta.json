@@ -1,34 +1,58 @@
 {
-    "title": "Danbury, CT (20 Backus Ave)",
-    "storeNumber": "",
-    "startDate": "2010-03-01",
-    "endDate": "2013-08-24",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2010-03-01"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2010-03-01",
-            "e": "2013-08-24"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.37391222",
-        "-73.48644378"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Danbury, CT (20 Backus Ave)",
+  "storeNumber": "3231",
+  "startDate": "2010-03-01",
+  "endDate": "2013-08-24",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2010-03-01"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2010-03-01",
+      "e": "2013-08-24",
+      "desc": ""
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.37391222",
+    "-73.48644378"
+  ],
+  "citations": [
+    "https://www.youtube.com/watch?v=XG0rLFdntYQ",
+    "https://www.youtube.com/watch?v=VvZ-6q7Mn9s",
+    "https://www.youtube.com/watch?v=aqSpp6G3374",
+    "https://www.youtube.com/watch?v=ULnuxXuk1po"
+  ],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "desc": "Known for being neglected and terribly deteriorated. Sent to Wilmington, NC, after closure, but went unused and was destroyed following the store's closure.",
+      "l": "",
+      "s": "2010-03-01",
+      "e": "2013-08-24"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "desc": "Sent to Wilmington, NC, after closure. Went unused, but was saved by a private collector following the store's closure.",
+      "l": "",
+      "s": "2010-03-01",
+      "e": "2013-08-24"
+    }
+  ]
 }

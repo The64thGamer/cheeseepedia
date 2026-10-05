@@ -1,0 +1,1 @@
+A group of kids at a birthday in front of the Balcony stage at the Penfield, NY location during Christmas time. Pasqually is visible in the background.

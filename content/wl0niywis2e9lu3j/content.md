@@ -48,7 +48,7 @@
 8. Chuck E. & Friends - 'Most Perfect Day' (Legacy Navori)
 9. Chuck E. & Friends - 'Rainy Day' (Legacy Navori)
 10. Jasper T. Jowls - 'The Tail of Jasper T.' (Legacy Navori)
-11. Chuck E. & Friends - 'Because We’re Friends' (2025) (Legacy Navori)
+11. Chuck E. & Friends - 'Because We’re Friends' (2022) (Legacy Navori)
 12. Chuck E. & Friends - 'Barbara The Barnyard Barber' (Legacy Navori)
 
 ## Showlist 03/22 Update:
@@ -100,7 +100,7 @@
 8. Chuck E. & Friends - 'Most Perfect Day' (Legacy Navori)
 9. Chuck E. & Friends - 'Rainy Day' (Legacy Navori)
 10. Jasper T. Jowls - 'The Tail of Jasper T.' (Legacy Navori)
-11. Chuck E. & Friends - 'Because We’re Friends' (2025) (Legacy Navori)
+11. Chuck E. & Friends - 'Because We’re Friends' (2022) (Legacy Navori)
 12. Chuck E. & Friends - 'Barbara The Barnyard Barber' (Legacy Navori)
 
 ## Showlist 03/14 & 03/24 Update:
@@ -153,7 +153,7 @@
 8. Chuck E. & Friends - 'Most Perfect Day' (Legacy Navori)
 9. Chuck E. & Friends - 'Rainy Day' (Legacy Navori)
 10. Jasper T. Jowls - 'The Tail of Jasper T.' (Legacy Navori)
-11. Chuck E. & Friends - 'Because We’re Friends' (2025) (Legacy Navori)
+11. Chuck E. & Friends - 'Because We’re Friends' (2022) (Legacy Navori)
 12. Chuck E. & Friends - 'Barbara The Barnyard Barber' (Legacy Navori)
 
 ## Showlist 03/03 Update:
@@ -258,7 +258,7 @@
 
 1. Helen & Bella B. - 'Baliando' (2018) (Legacy Navori)
 2. Chuck E. Cheese - 'Dancin' Kitten' (Legacy Navori)
-3. Chuck E. & Friends - 'Friendship Never Ends' (2025) (Legacy Navori)
+3. Chuck E. & Friends - 'Friendship Never Ends' (2022) (Legacy Navori)
 4. Chuck E. & Friends - 'Fun!' (Legacy Navori)
 5. Helen Henny - 'Gamin' Time' (Legacy Navori)
 6. Chuck E. & Friends - 'In The Future' (Legacy Navori)
@@ -266,7 +266,7 @@
 8. Chuck E. & Friends - 'Most Perfect Day' (Legacy Navori)
 9. Chuck E. & Friends - 'Rainy Day' (Legacy Navori)
 10. Jasper T. Jowls - 'The Tail of Jasper T.' (Legacy Navori)
-11. Chuck E. & Friends - 'Because We’re Friends' (2025) (Legacy Navori)
+11. Chuck E. & Friends - 'Because We’re Friends' (2022) (Legacy Navori)
 12. Chuck E. & Friends - 'Barbara The Barnyard Barber' (Legacy Navori)
 
 ## Trivia:

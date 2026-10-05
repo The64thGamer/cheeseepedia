@@ -1,0 +1,1 @@
+Article announcing the closure of the New Hartford, NY store the day before

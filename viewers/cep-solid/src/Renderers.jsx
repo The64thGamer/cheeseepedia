@@ -1,8 +1,9 @@
 import { createResource, createSignal, createEffect, untrack, Show, For,Switch, Match } from 'solid-js';
 import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks } from './GlobalFunctions';
 import { marked } from 'marked';
-import { loadFolderIDToTitleMap,loadTypeToIDList, loadViewsMap }  from './GlobalJsonCache'
-import { fetchLocationMap, loadKey, saveKey} from './GlobalFunctions';
+import { loadFolderIDToTitleMap,loadTypeToIDList, loadViewsMap, loadNews, loadRecentFanVideos,loadRecentOfficialVideos }  from './GlobalJsonCache'
+import { fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll} from './GlobalFunctions';
+import { Search } from './Search';
 
 const EXCLUDE = new Set(['photos','videos','reviews','user','steam comments','theories','meta','transcriptions']);
 const TABS = {
@@ -12,9 +13,21 @@ const TABS = {
   Reviews:  (t) => t === 'reviews',
 };
 const MAX_RANDOM_CARDS = 15;
+const LOGOS = {
+    standard: 'CEPLogo.avif', dark: 'LogoDark.avif', light: 'LogoLight.avif',
+    classic: 'LogoClassic.avif', funnet: 'LogoFunNet.avif', showbiz: 'LogoShowBiz.avif',
+    fnaf: 'LogoFNaF.avif', italy: 'LogoPasqually.avif', winter: 'LogoWinter.avif',
+    halloween: 'LogoHalloween.avif', pride: 'LogoPride.avif', anniversary: 'LogoAnniversary.avif',
+  };
 
 export function renderArticle(meta){
-    switch (meta.type) {
+
+  if (meta.type === 'home') 
+    return renderHome();
+  if (meta.type === 'notfound') 
+    return renderNotFound(meta.folderID);
+
+  switch (meta.type) {
     case "Animatronics":
     case "Animatronic Shows":
     case "Animatronic Parts":
@@ -64,9 +77,33 @@ export function renderArticle(meta){
       return renderStandardArticle(meta);
     case "Videos":
       return renderVideoArticle(meta);
+    case "Photos":
+      return renderPhotoArticle(meta);
     default:
       return renderStandardArticle(meta);
     }
+}
+
+export function renderManualCard({ link, thumbnailSrc, title, dateText, views}) {
+  return (
+    <div class={`Card fade-in`}>
+      <div class={`CardImage`}>
+        <a href={link}>
+          <img src={thumbnailSrc} alt={title} loading="lazy" />
+        </a>
+      </div>
+      <div class={`CardTextArea`}>
+        <div class={`CardLink`}>
+          <span>
+            <a href={link}>{title}</a>
+          </span>
+        </div>
+        <div class={`CardText`}>
+          <strong>{dateText}</strong> 👁{views}
+        </div>
+      </div>
+    </div>
+  );
 }
 
 export async function renderStandardCard(meta) {
@@ -117,6 +154,164 @@ export async function renderStandardCard(meta) {
   );
 }
 
+export async function renderStandardCompact(meta) {
+  const link = await fetchFolderIDFromTitle(meta.title);
+  const type = (meta.type || '').toLowerCase();
+  const typeClass = type.replace(/s$/, '').replace(/[^a-z0-9]+/g, '-'); 
+
+  let pageThumbnail = await fetchThumbnailWLinkToArticle(meta);
+  if (!pageThumbnail) {
+    pageThumbnail = await fetchCardExcerpt(meta);
+  }
+
+  const viewsMap = await loadViewsMap();
+
+  let label = meta.title;
+  if (type === 'photos') {
+    try {
+      const res = await fetch(`/content/${link}/content.md`);
+      const isHtml = (res.headers.get('content-type') || '').includes('text/html');
+      if (res.ok && !isHtml) {
+        const text = (await res.text()).trim();
+        if (text) label = text;
+      }
+    } catch {}
+  }
+
+  const t = typeClass ? ` type-${typeClass}` : '';
+
+  return (
+    <div class={`Card fade-in${t}`}>
+      <div class={`CardImage${t}`}>{pageThumbnail}</div>
+      <div class={`CardTextArea${t}`}>
+        <div class={`CardLink${t}`}>
+          <span>
+            <a href={getFolderPath(link)}>{label}</a>
+          </span>
+        </div>
+        <div class={`CardText${t}`}>
+          <strong>
+            {EXCLUDE.has(type)
+              ? convertStartDate(meta.startDate)
+              : <>{convertStartDate(meta.startDate)} – {convertEndDate(meta.endDate)}</>}
+          </strong>
+          {" "}👁{viewsMap[link]}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export async function renderStandardList(meta) {
+  const link = await fetchFolderIDFromTitle(meta.title);
+  const type = (meta.type || '').toLowerCase();
+  const typeClass = type.replace(/s$/, '').replace(/[^a-z0-9]+/g, '-'); 
+
+  let pageThumbnail = await fetchThumbnailWLinkToArticle(meta);
+  if (!pageThumbnail) {
+    pageThumbnail = await fetchCardExcerpt(meta);
+  }
+
+  const viewsMap = await loadViewsMap();
+
+  let label = meta.title;
+  if (type === 'photos') {
+    try {
+      const res = await fetch(`/content/${link}/content.md`);
+      const isHtml = (res.headers.get('content-type') || '').includes('text/html');
+      if (res.ok && !isHtml) {
+        const text = (await res.text()).trim();
+        if (text) label = text;
+      }
+    } catch {}
+  }
+
+  const t = typeClass ? ` type-${typeClass}` : '';
+
+  return (
+    <div class={`Card fade-in${t}`}>
+      <div class={`CardImage${t}`}>{pageThumbnail}</div>
+      <div class={`CardTextArea${t}`}>
+        <div class={`CardLink${t}`}>
+          <span>
+            <a href={getFolderPath(link)}>{label}</a>
+          </span>
+        </div>
+        <div class={`CardText${t}`}>
+          <strong>
+            {EXCLUDE.has(type)
+              ? convertStartDate(meta.startDate)
+              : <>{convertStartDate(meta.startDate)} – {convertEndDate(meta.endDate)}</>}
+          </strong>
+          {" "}👁{viewsMap[link]}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+export function renderNotFound(){
+  return(
+    <>
+    <div class="404">
+      You've found an article that doesn't exist yet! Click the logo to head back home.
+    </div>
+    </>
+  )
+}
+
+async function loadVideoCards(loader) {
+  const ids = await loader();
+  const metas = await Promise.all(ids.map((id) => fetchMeta(id).catch(() => null)));
+  return Promise.all(metas.filter(Boolean).map((m) => renderStandardCard(m)));
+}
+
+export function renderHome() {
+  const [news] = createResource(loadNews);
+  const [map] = createResource(fetchMapAll);
+  const [officialVideos] = createResource(() => loadVideoCards(loadRecentOfficialVideos));
+  const [fanVideos] = createResource(() => loadVideoCards(loadRecentFanVideos));
+
+  return (
+    <>
+      <div class="Homepage">
+        <center>
+          Welcome to Cheese-E-Pedia! This unofficial wiki is the archive for all things animatronics!
+          <br />
+          Use the search above to explore our site! Something not listed here? Help contribute or <a href="/?v=cep-editor">create a new page!</a>
+        </center>
+
+        <h2>News</h2>
+        <div class="Carousel">
+          <For each={news() || []}>
+            {(item) =>
+              renderManualCard({
+                link: item.url,
+                thumbnailSrc: item.image_url,
+                title: item.title,
+                dateText: formatDiscourseDate(item.created_at),
+                views: item.views,
+              })
+            }
+          </For>
+        </div>
+        <div class="Carousel">
+          <For each={officialVideos() || []}>{(card) => card}</For>
+        </div>
+
+        <h2>Wiki</h2>
+        <Show when={!map.loading && map()}>
+          {map()}
+        </Show>
+        <h2>Community</h2>
+        <div class="Carousel">
+          <For each={fanVideos() || []}>{(card) => card}</For>
+        </div>
+      </div>
+    </>
+  );
+}
+
 export function renderFooter(){
   return(
     <>
@@ -129,24 +324,39 @@ export function renderFooter(){
   )
 }
 
-export function renderHeader(){
-  return(
+export function renderHeader() {
+  let file = LOGOS.standard;
+  try {
+    const t = localStorage.getItem('cep-theme') || 'standard';
+    const c = JSON.parse(localStorage.getItem('cep-theme-custom') || 'null');
+    file = (t === 'custom' && c?.['--logo']) ? c['--logo'] : (LOGOS[t] || LOGOS.standard);
+  } catch {}
+
+  return (
     <>
-    <div class="Header">
-      <div class="SplashText" id="SpashText">. . .</div>
-      <a href="/" class="Logo"></a>
-      <div class="FlavorText">
-        Now at <strong><span id="StatArticles">????</span></strong> articles contributed by <strong><span id="StatContributors">???</span></strong> users.
-        <br/>
-        Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
+      <div class="Header">
+        <div class="SplashText" id="SpashText">. . .</div>
+        <a href="/?v=cep-solid" class="Logo">
+          <img src={'/viewers/cep-js/assets/Logos/' + file} alt="Cheesepedia" />
+        </a>
+        <div class="FlavorText">
+          Now at <strong><span id="StatArticles">????</span></strong> articles contributed by <strong><span id="StatContributors">???</span></strong> users.
+          <br />
+          Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
+        </div>
+        <div class="Search"><Search /></div>
       </div>
-      <div class="Search"></div>
-    </div>
     </>
-  )
+  );
 }
 
-
+function shuffle(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
 
 export function renderRandomCards() {
   const [tab, setTab] = createSignal(
@@ -173,25 +383,29 @@ export function renderRandomCards() {
     const matches = TABS[name];
     const [typeMap, viewsMap] = await getData();
 
-    const ids = Object.entries(typeMap)
-      .filter(([type]) => matches(type))
-      .flatMap(([, list]) => list)
-      .sort(() => Math.random() - 0.5);
-
+    const ids = shuffle(
+    Object.entries(typeMap)
+    .filter(([type]) => matches(type))
+    .flatMap(([, list]) => list)
+    );
     let count = 0;
 
     for (let i = 0; i < ids.length && count < MAX_RANDOM_CARDS; i += 20) {
+      const metas = await Promise.all(
+        ids.slice(i, i + 20).map((id) => fetchMeta(id).catch(() => null))
+      );
+
+      const picked = [];
+      for (let k = 0; k < metas.length && count < MAX_RANDOM_CARDS; k++) {
+        if (!metas[k]) continue;
+        picked.push({ id: ids[i + k], meta: metas[k] });
+        count++;
+      }
+
       await Promise.all(
-        ids.slice(i, i + 20).map(async (id) => {
-          if (count >= MAX_RANDOM_CARDS) return;
-
-          const m = await fetchMeta(id).catch(() => null);
-          if (!m || count >= MAX_RANDOM_CARDS) return;
-          count++;
-
-          const card = await renderStandardCard(m);
+        picked.map(async ({ id, meta }) => {
+          const card = await renderStandardCard(meta);
           const views = viewsMap[id];
-
           s.setEntries((prev) => {
             const next = [...prev, { views, card }];
             next.sort((a, b) => b.views - a.views);
@@ -354,10 +568,54 @@ export function renderVideoArticle(meta) {
       <div class="ArticleBody type-video">
         <VideoEmbed url={meta.pageThumbnailVideo} />
         <div class="content fade-in type-video">
+          <h2>Video Transcription</h2>
           <Show when={!content.loading} fallback={<div>Loading…</div>}>
             <Show
               when={content()?.md || content()?.old}
               fallback={<div class="NoContent fade-in">No transcription provided by source.</div>}
+            >
+              <Show when={!content().md && content().old}>
+                <div class="OldWarning">
+                  The following article content is unsourced, in an old formatting, and needs to be rewritten. Any new text added to the page will hide this previous content.
+                </div>
+              </Show>
+              <div class="fade-in" innerHTML={marked.parse(content().md || content().old)} />
+            </Show>
+          </Show>
+        </div>
+      </div>
+    </>
+  );
+}
+
+export function renderPhotoArticle(meta) {
+  const [photo] = createResource(() => fetchThumbnailWLinkToArticle(meta));
+
+  const [content] = createResource(async () => {
+    const id = await fetchFolderIDFromTitle(meta.title);
+    const [md, old] = await Promise.all([
+      fetchContent(id).catch(() => ''),
+      fetchOld(id).catch(() => ''),
+    ]);
+    return {
+      md: await resolveBracketLinks(md),
+      old: await resolveBracketLinks(old),
+    };
+  });
+
+  return (
+    <>
+      <h1 class="article-title">{meta.title}</h1>
+      <div class="ArticleBody type-photo">
+        <div class="ArticlePhoto fade-in type-photo">
+          <Show when={!photo.loading && photo()}>{photo()}</Show>
+        </div>
+        <div class="content fade-in type-photo">
+          <h2>Image Description</h2>
+          <Show when={!content.loading} fallback={<div>Loading…</div>}>
+            <Show
+              when={content()?.md || content()?.old}
+              fallback={<div class="NoContent fade-in">No description provided. Help write one for accessibility.</div>}
             >
               <Show when={!content().md && content().old}>
                 <div class="OldWarning">

@@ -1,6 +1,6 @@
 {
   "title": "Syracuse, NY (3023 Erie Blvd)",
-  "storeNumber": "",
+  "storeNumber": "526",
   "startDate": "2002-12-27",
   "endDate": "",
   "remodels": [
@@ -22,7 +22,8 @@
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2019-01-24",
-      "desc": "2019 model."
+      "desc": "2019 model.",
+      "e": ""
     }
   ],
   "franchisees": [],

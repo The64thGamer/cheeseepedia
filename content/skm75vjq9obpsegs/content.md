@@ -1,0 +1,1 @@
+The Balcony stage at the Penfield, NY location with the Christmas Balcony Stage theme

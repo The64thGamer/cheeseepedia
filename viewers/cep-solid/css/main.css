@@ -38,6 +38,16 @@ body {
   overflow-y: auto;
 }
 
+
+.content.type-photo {
+  min-height: 0;
+}
+
+.ArticlePhoto img{
+  width: 100%;
+  height: auto;
+}
+
 h1,
 h2,
 h3,
@@ -311,6 +321,8 @@ a {
 .CardText {
   color: color-mix(in srgb, var(--text) 30%, transparent);
   font-size: 0.8rem;
+  overflow: hidden;
+  white-space: nowrap;
 }
 
 .CardText strong {

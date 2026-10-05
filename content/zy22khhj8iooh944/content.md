@@ -1,0 +1,1 @@
+A set of photos from Christmas time of 1990 at the Penfield, NY store

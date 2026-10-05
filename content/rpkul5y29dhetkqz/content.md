@@ -1,0 +1,1 @@
+A girl at the Penfield, NY location celebrating her birthday

@@ -1,0 +1,1 @@
+Utica's Chuck Walkaround with some kids in a unique outfit

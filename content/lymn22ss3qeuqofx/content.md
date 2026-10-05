@@ -1,0 +1,1 @@
+First mention of the store showing a photo of Stephen F. Sammons with a Chuck walkaround

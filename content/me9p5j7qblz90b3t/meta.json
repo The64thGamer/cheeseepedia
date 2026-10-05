@@ -10,7 +10,7 @@
     "Chuck E. Cheese's"
   ],
   "startDate": "2026-09-28",
-  "endDate": "",
+  "endDate": "2026-11-01",
   "credits": [],
   "stages": [],
   "remodels": [],
@@ -22,5 +22,9 @@
   ],
   "contributors": [
     "dame0824"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

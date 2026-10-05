@@ -1,0 +1,1 @@
+***Victor, NY (7979 Pittsford-Victor Rd, Space 108)*** is a Chuck's Arcade located in Eastview Mall that opened in October 2024.

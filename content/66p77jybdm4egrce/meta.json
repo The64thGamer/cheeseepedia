@@ -6,13 +6,18 @@
     "Pizza Time Theatre",
     "Balcony Stage",
     "Propless Bandstand (Balcony Stage Theme)",
-    "Cyberamics"
+    "Cyberamics",
+    "Country (Balcony Stage Theme)"
   ],
-  "startDate": "0000-00-00",
+  "startDate": "1984-12-00",
   "citations": [
     "https://archive.org/search?query=creator%3A%22PTT1977%22"
   ],
   "contributors": [
     "TutorialTimeYt"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

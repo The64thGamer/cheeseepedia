@@ -1,1 +1,1 @@
-Penfield's Balcony stage with the Propless Bandstand stage and partial outfits
+Penfield's Balcony stage with a former Propless Bandstand stage which was converted into a Country stage

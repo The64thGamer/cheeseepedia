@@ -1,0 +1,1 @@
+A newspaper article from the day before the opening of the New Hartford, NY location with a photo of the Chuck walkaround on the 14th during the invite only party

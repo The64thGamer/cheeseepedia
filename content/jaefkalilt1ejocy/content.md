@@ -1,1 +1,1 @@
-Penfield Balcony stage with Broadway Helen stage
+Penfield Balcony stage with Broadway Helen

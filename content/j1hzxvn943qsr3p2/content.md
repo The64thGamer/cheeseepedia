@@ -1,1 +1,0 @@
-This is a test article! [It's Me Hallucination (Left)]
