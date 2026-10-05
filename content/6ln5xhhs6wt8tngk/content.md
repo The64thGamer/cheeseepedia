@@ -1,0 +1,1 @@
+Exterior of Miltipas during its "Charity Opening". A crowd stands around the exterior which has a "Grand Opening" banner under the logo. A limo and a band are seen next to the crowd.

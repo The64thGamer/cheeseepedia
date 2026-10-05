@@ -1,0 +1,1 @@
+***Lake Jackson, TX (100 West Hwy 332)*** was a [Chuck E. Cheese's] that opened on October 22nd, 2002 as part of a initiative for small markets[3], which closed on October 4, 2026.[1][2]

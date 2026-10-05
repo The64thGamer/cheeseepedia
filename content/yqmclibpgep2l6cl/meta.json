@@ -1,33 +1,42 @@
 {
-    "title": "Lake Jackson, TX (100 West Hwy 332)",
-    "storeNumber": "",
-    "startDate": "2002-10-22",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2002-10-22"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Cappa",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "0",
-        "0"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Lake Jackson, TX (100 West Hwy 332)",
+  "storeNumber": "",
+  "startDate": "2002-10-22",
+  "endDate": "2026-10-05",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2002-10-22"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "desc": "",
+      "s": "2002-10-20",
+      "e": "2026-10-05"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "29.0501094",
+    "-95.4588227"
+  ],
+  "citations": [
+    "https://www.reddit.com/r/chuckecheese/comments/1wxuywq/lake_jackson_tx_closed/",
+    "https://www.reddit.com/r/chuckecheese/comments/1w24kvj/comment/pdh3la6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
+    "https://dn721502.ca.archive.org/0/items/showbizpizza.com-website-archive-2021/info/documents/cec/cec_annualreport2002.pdf"
+  ],
+  "contributors": [
+    "sudo-trans-pony"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": []
 }
