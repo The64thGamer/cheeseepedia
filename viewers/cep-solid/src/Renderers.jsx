@@ -1,7 +1,7 @@
 import { createResource, createSignal, createEffect, untrack, Show, For,Switch, Match } from 'solid-js';
 import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks } from './GlobalFunctions';
 import { marked } from 'marked';
-import { loadFolderIDToTitleMap,loadTypeToIDList, loadViewsMap, loadNews, loadRecentFanVideos,loadRecentOfficialVideos }  from './GlobalJsonCache'
+import { loadFolderIDToTitleMap,loadTypeToIDList, loadViewsMap, loadDiscourseNews,loadDiscourseRecent, loadRecentFanVideos,loadRecentOfficialVideos }  from './GlobalJsonCache'
 import { fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll} from './GlobalFunctions';
 import { Search } from './Search';
 
@@ -84,13 +84,17 @@ export function renderArticle(meta){
     }
 }
 
-export function renderManualCard({ link, thumbnailSrc, title, dateText, views}) {
+export function renderManualCard({ link, thumbnailSrc, title, dateText, views, excerpt = title }) {
   return (
     <div class={`Card fade-in`}>
       <div class={`CardImage`}>
-        <a href={link}>
-          <img src={thumbnailSrc} alt={title} loading="lazy" />
-        </a>
+        {thumbnailSrc ? (
+          <a href={link}>
+            <img src={thumbnailSrc} alt={title} loading="lazy" />
+          </a>
+        ) : (
+          <a class="CardImageExcerpt" href={link}>{excerpt}</a>
+        )}
       </div>
       <div class={`CardTextArea`}>
         <div class={`CardLink`}>
@@ -267,7 +271,8 @@ async function loadVideoCards(loader) {
 }
 
 export function renderHome() {
-  const [news] = createResource(loadNews);
+  const [news] = createResource(loadDiscourseNews);
+  const [recent] = createResource(loadDiscourseRecent);
   const [map] = createResource(fetchMapAll);
   const [officialVideos] = createResource(() => loadVideoCards(loadRecentOfficialVideos));
   const [fanVideos] = createResource(() => loadVideoCards(loadRecentFanVideos));
@@ -282,36 +287,82 @@ export function renderHome() {
         </center>
 
         <h2>News</h2>
-        <div class="Carousel">
-          <For each={news() || []}>
-            {(item) =>
-              renderManualCard({
-                link: item.url,
-                thumbnailSrc: item.image_url,
-                title: item.title,
-                dateText: formatDiscourseDate(item.created_at),
-                views: item.views,
-              })
-            }
-          </For>
-        </div>
-        <div class="Carousel">
-          <For each={officialVideos() || []}>{(card) => card}</For>
-        </div>
+        <Tabs
+          tabs={[
+            {
+              name: 'The News',
+              content: () => (
+                <div class="Carousel">
+                  <For each={news() || []}>
+                    {(item) =>
+                      renderManualCard({
+                        link: item.url,
+                        thumbnailSrc: item.image_url,
+                        title: item.title,
+                        dateText: formatDiscourseDate(item.created_at),
+                        views: item.views,
+                      })
+                    }
+                  </For>
+                </div>
+              ),
+            },
+            {
+              name: 'Official Videos',
+              content: () => (
+                <div class="Carousel">
+                  <For each={officialVideos() || []}>{(card) => card}</For>
+                </div>
+              ),
+            },
+          ]}
+        />
 
         <h2>Wiki</h2>
-        <Show when={!map.loading && map()}>
-          {map()}
-        </Show>
+        <Tabs
+          tabs={[
+            {
+              name: 'Map',
+              content: () => <Show when={!map.loading && map()}>{map()}</Show>,
+            },
+          ]}
+        />
+
         <h2>Community</h2>
-        <div class="Carousel">
-          <For each={fanVideos() || []}>{(card) => card}</For>
-        </div>
+        <Tabs
+          tabs={[
+            {
+              name: 'Fan Videos',
+              content: () => (
+                <div class="Carousel">
+                  <For each={fanVideos() || []}>{(card) => card}</For>
+                </div>
+              ),
+            },
+            {
+              name: 'New Posts',
+              content: () => (
+                <div class="Carousel">
+                  <For each={recent() || []}>
+                    {(item) =>
+                      renderManualCard({
+                        link: item.url,
+                        thumbnailSrc: item.image_url,
+                        title: item.title,
+                        dateText: formatDiscourseDate(item.created_at),
+                        views: item.views,
+                      })
+                    }
+                  </For>
+                </div>
+              ),
+            }
+          ]}
+        />
       </div>
     </>
   );
 }
-
 export function renderFooter(){
   return(
     <>
@@ -346,6 +397,37 @@ export function renderHeader() {
         </div>
         <div class="Search"><Search /></div>
       </div>
+    </>
+  );
+}
+
+function Tabs(props) {
+  const [active, setActive] = createSignal(props.tabs[0].name);
+
+  return (
+    <>
+      <div>
+        <For each={props.tabs}>
+          {(t) => (
+            <button
+              type="button"
+              class="PinButton"
+              classList={{ active: active() === t.name }}
+              aria-pressed={active() === t.name}
+              onClick={() => setActive(t.name)}
+            >
+              {t.name}
+            </button>
+          )}
+        </For>
+      </div>
+      <For each={props.tabs}>
+        {(t) => (
+          <div class="TabPanel" style={{ display: active() === t.name ? '' : 'none' }}>
+            {t.content()}
+          </div>
+        )}
+      </For>
     </>
   );
 }

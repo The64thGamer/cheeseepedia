@@ -71,7 +71,7 @@ FAN_CHANNELS = [
     "@GallaRM",
     "@animatronicswarehouse",
     "@Dawko",
-    "@JonnyBlox1"
+    "@JonnyBlox"
 ]
 CHANNELS = OFFICIAL_CHANNELS + FAN_CHANNELS
 OFFICIAL_HANDLES = {h.lower() for h in OFFICIAL_CHANNELS}
@@ -439,9 +439,28 @@ def build_map_pins():
     print(green(f"mapPins.json — {len(locations)} locations written"))
     print(dim(f"  locations with tracked remodels: {locations_with_remodels}"))
 
+YT_ID_RE = re.compile(r"(?:youtu\.be/|[?&]v=|/(?:shorts|embed|live|v|e)/)([A-Za-z0-9_-]{11})")
+
+
 def youtube_id(url):
-    m = re.search(r"(?:youtu\.be/|[?&]v=|/shorts/|/embed/|/live/)([A-Za-z0-9_-]{11})", url or "")
+    """Video ID from any YouTube URL shape (watch, m., music., youtu.be, shorts, embed, live,
+    extra params, backslash-escaped, %-encoded, or HTML-escaped &amp;)."""
+    if not isinstance(url, str):
+        return None
+    s = html.unescape(urllib.parse.unquote(url.replace("\\", "")))
+    m = YT_ID_RE.search(s)
     return m.group(1) if m else None
+
+
+def iter_strings(value):
+    if isinstance(value, str):
+        yield value
+    elif isinstance(value, dict):
+        for v in value.values():
+            yield from iter_strings(v)
+    elif isinstance(value, (list, tuple)):
+        for v in value:
+            yield from iter_strings(v)
 
 
 def vtt_to_text(vtt):
@@ -582,7 +601,7 @@ def process_video_articles():
 
 def read_meta(folder):
     try:
-        return json.loads((folder / "meta.json").read_text(encoding="utf-8"))
+        return json.loads((folder / "meta.json").read_text(encoding="utf-8-sig"))
     except Exception:
         return {}
 
@@ -733,19 +752,149 @@ def sanitize_title(title):
     return re.sub(r"\s+", " ", title).strip()
 
 
+def repair_json_text(raw):
+    """Best-effort repair of a malformed JSON document. Returns the parsed object, or None."""
+    raw = raw.lstrip("\ufeff")
+    try:
+        return json.loads(raw, strict=False)
+    except Exception:
+        pass
+
+    def next_sig(i):
+        while i < len(raw) and raw[i] in " \t\r\n":
+            i += 1
+        return i
+
+    def closes_string(i):
+        """raw[i] is a quote inside a string; decide whether it ends the string."""
+        j = next_sig(i + 1)
+        if j >= len(raw):
+            return True
+        c = raw[j]
+        if c in ":}]":
+            return True
+        if c == ",":
+            k = next_sig(j + 1)
+            if k >= len(raw):
+                return True
+            return raw[k] in '"{[}]-0123456789' or raw.startswith(("true", "false", "null"), k)
+        return False
+
+    out, i, in_str, n = [], 0, False, len(raw)
+    while i < n:
+        c = raw[i]
+        if in_str:
+            if c == "\\":
+                nxt = raw[i + 1] if i + 1 < n else ""
+                if nxt in '"\\/bfnrt':
+                    out.append(c + nxt)
+                    i += 2
+                    continue
+                if nxt == "u" and re.fullmatch(r"[0-9a-fA-F]{4}", raw[i + 2:i + 6]):
+                    out.append(raw[i:i + 6])
+                    i += 6
+                    continue
+                i += 1  # invalid escape: drop the backslash
+                continue
+            if c == '"':
+                if closes_string(i):
+                    in_str = False
+                    out.append(c)
+                else:
+                    out.append("''")  # stray inner quote, same convention as sanitize_title
+                i += 1
+                continue
+            if ord(c) < 0x20:
+                out.append(" ")
+                i += 1
+                continue
+            out.append(c)
+            i += 1
+            continue
+        if c == '"':
+            in_str = True
+            out.append(c)
+        elif c == ",":
+            k = next_sig(i + 1)
+            if k < n and raw[k] in "}]":
+                pass  # trailing comma
+            else:
+                out.append(c)
+        else:
+            out.append(c)
+        i += 1
+    try:
+        return json.loads("".join(out))
+    except Exception:
+        return None
+
+
+def repair_meta_file(folder):
+    """Repair folder/meta.json in place. Returns the parsed meta, or None if it couldn't be fixed."""
+    path = folder / "meta.json"
+    try:
+        raw = path.read_text(encoding="utf-8-sig")
+    except Exception:
+        return None
+    meta = repair_json_text(raw)
+    if not isinstance(meta, dict):
+        return None
+    indent = 2 if "\n" in raw.strip() else None
+    path.write_text(json.dumps(meta, ensure_ascii=False, indent=indent), encoding="utf-8")
+    return meta
+
+
 def load_site_data():
-    titles, video_ids, media_titles = set(), set(), set()
+    titles, video_ids, media_titles, unreadable = set(), set(), set(), []
     for folder in Path(CONTENT_DIR).iterdir():
-        meta = read_meta(folder) if folder.is_dir() else {}
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if not meta:
+            if (folder / "meta.json").exists():
+                unreadable.append(folder.name)
+            continue
         title = meta.get("title")
         if isinstance(title, str) and title:
             titles.add(title)
             if meta.get("type") in MEDIA_TYPES:
                 media_titles.add(title)
-        for candidate in (meta.get(THUMB_FIELD), title):
-            vid = youtube_id(candidate.replace("\\", "")) if isinstance(candidate, str) else None
-            if vid:
-                video_ids.add(vid)
+        sources = [meta.get(THUMB_FIELD), title]
+        if (meta.get("type") or "").strip().lower() == "videos":
+            sources.append(meta)  # citations or any other URL field on a video page
+        for source in sources:
+            for text in iter_strings(source):
+                vid = youtube_id(text)
+                if vid:
+                    video_ids.add(vid)
+    if unreadable:
+        fixed, failed = 0, []
+        for name in unreadable:
+            folder = Path(CONTENT_DIR) / name
+            meta = repair_meta_file(folder)
+            if meta is None:
+                failed.append(name)
+                continue
+            fixed += 1
+            title = meta.get("title")
+            if isinstance(title, str) and title:
+                titles.add(title)
+                if meta.get("type") in MEDIA_TYPES:
+                    media_titles.add(title)
+            sources = [meta.get(THUMB_FIELD), title]
+            if (meta.get("type") or "").strip().lower() == "videos":
+                sources.append(meta)
+            for source in sources:
+                for text in iter_strings(source):
+                    vid = youtube_id(text)
+                    if vid:
+                        video_ids.add(vid)
+        if fixed:
+            print(green(f"Repaired {fixed} malformed meta.json file(s)"))
+        if failed:
+            print(red(f"Warning: {len(failed)} meta.json file(s) could not be repaired, so their videos can't be deduped:"))
+            for name in failed[:10]:
+                print(red(f"  {name}"))
     return titles, video_ids, media_titles
 
 
@@ -891,16 +1040,32 @@ def add_fandom_videos():
     patterns = []
     session = PromptSession()
     executor = ThreadPoolExecutor(max_workers=PREFETCH)
+    listing_pool = ThreadPoolExecutor(max_workers=2)
+    listings = {}
     saved = auto_rejected = 0
 
     try:
-        for handle in CHANNELS:
+        for n, handle in enumerate(CHANNELS):
+            for h in CHANNELS[n:n + 2]:  # list the next channel while you review this one
+                if h not in listings:
+                    listings[h] = listing_pool.submit(list_channel_videos, h)
+            print(cyan(f"Listing {handle}..."))
+            listing = listings.pop(handle).result()
+
+            in_wiki = sum(v in existing for v in listing)
+            candidates = [v for v in listing if v not in existing and v not in rejected]
+            auto = {v for v in candidates if matches_pattern(listing[v], patterns)}
+            pending = [v for v in candidates if v not in auto]
+            if auto:
+                rejected.update(auto)
+                save_rejected(rejected)
+                auto_rejected += len(auto)
+            print(green(f"{handle}: {len(listing)} videos, {in_wiki} in wiki, {len(auto)} auto-rejected, {len(pending)} to review"))
+            if not pending:
+                print(dim(f"{handle}: nothing new, skipping"))
+                continue
             if ask(f"Skip {handle}"):
                 continue
-            print(cyan(f"Listing {handle}..."))
-            listing = list_channel_videos(handle)
-            pending = [v for v in listing if v not in existing and v not in rejected]
-            print(green(f"{handle}: {len(listing)} videos, {len(pending)} to review"))
             if OLDEST_FIRST:
                 pending.reverse()
             futures = {}
@@ -952,6 +1117,7 @@ def add_fandom_videos():
         print(yellow("\nStopped."))
     finally:
         executor.shutdown(wait=False, cancel_futures=True)
+        listing_pool.shutdown(wait=False, cancel_futures=True)
         print(green(f"Fandom videos: {saved} created, {auto_rejected} auto-rejected by title"))
 
 

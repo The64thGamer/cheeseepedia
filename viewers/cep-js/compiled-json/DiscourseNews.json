@@ -1,43 +1,50 @@
 [
   {
+    "title": "Lake Jackson, TX (100 West Hwy 332) is Closed!",
+    "image_url": "/viewers/cep-js/compiled-json/images/519.jpg",
+    "views": 10,
+    "created_at": "2026-10-05T23:09:45.542Z",
+    "url": "https://forum.cheeseepedia.org/t/lake-jackson-tx-100-west-hwy-332-is-closed/519"
+  },
+  {
     "title": "PTT Characters up for vote on YouTooz Community",
     "image_url": "/viewers/cep-js/compiled-json/images/515.jpg",
-    "views": 103,
+    "views": 107,
     "created_at": "2026-10-02T22:26:18.838Z",
     "url": "https://forum.cheeseepedia.org/t/ptt-characters-up-for-vote-on-youtooz-community/515"
   },
   {
     "title": "Fargo, ND Adventure World opening on October 7th",
     "image_url": "/viewers/cep-js/compiled-json/images/512.jpg",
-    "views": 179,
+    "views": 186,
     "created_at": "2026-09-28T00:27:11.614Z",
     "url": "https://forum.cheeseepedia.org/t/fargo-nd-adventure-world-opening-on-october-7th/512"
   },
   {
     "title": "Bootacular Show Starts on Monday 9/28/26",
     "image_url": "/viewers/cep-js/compiled-json/images/510.jpg",
-    "views": 190,
+    "views": 192,
     "created_at": "2026-09-26T02:57:58.645Z",
     "url": "https://forum.cheeseepedia.org/t/bootacular-show-starts-on-monday-9-28-26/510"
   },
   {
     "title": "CEC Arcade Auction in Billings, MT, October 10th",
     "image_url": "/viewers/cep-js/compiled-json/images/501.jpg",
-    "views": 260,
+    "views": 264,
     "created_at": "2026-09-20T08:45:16.660Z",
     "url": "https://forum.cheeseepedia.org/t/cec-arcade-auction-in-billings-mt-october-10th/501"
   },
   {
     "title": "CEC Slop Enters the Arcade",
     "image_url": "/viewers/cep-js/compiled-json/images/495.jpg",
-    "views": 300,
+    "views": 302,
     "created_at": "2026-09-16T02:09:53.072Z",
     "url": "https://forum.cheeseepedia.org/t/cec-slop-enters-the-arcade/495"
   },
   {
     "title": "First Adventure World Conversion Soon",
     "image_url": "/viewers/cep-js/compiled-json/images/490.jpg",
-    "views": 480,
+    "views": 481,
     "created_at": "2026-09-10T10:37:38.053Z",
     "url": "https://forum.cheeseepedia.org/t/first-adventure-world-conversion-soon/490"
   },
@@ -72,14 +79,14 @@
   {
     "title": "Toledo, OH Closes September 1st",
     "image_url": "/viewers/cep-js/compiled-json/images/448.jpg",
-    "views": 347,
+    "views": 348,
     "created_at": "2026-08-16T01:08:10.803Z",
     "url": "https://forum.cheeseepedia.org/t/toledo-oh-closes-september-1st/448"
   },
   {
     "title": "Real Freddy Fazbear's Pizza coming to American Dream Mall",
     "image_url": "/viewers/cep-js/compiled-json/images/444.jpg",
-    "views": 422,
+    "views": 423,
     "created_at": "2026-08-08T23:21:51.669Z",
     "url": "https://forum.cheeseepedia.org/t/real-freddy-fazbears-pizza-coming-to-american-dream-mall/444"
   },
@@ -128,7 +135,7 @@
   {
     "title": "New Union, NJ August 1994 Footage!",
     "image_url": "/viewers/cep-js/compiled-json/images/396.jpg",
-    "views": 452,
+    "views": 453,
     "created_at": "2026-06-03T11:51:43.651Z",
     "url": "https://forum.cheeseepedia.org/t/new-union-nj-august-1994-footage/396"
   },
@@ -177,7 +184,7 @@
   {
     "title": "Abilene, TX Closing April 4th!",
     "image_url": "/viewers/cep-js/compiled-json/images/346.jpg",
-    "views": 537,
+    "views": 538,
     "created_at": "2026-03-22T02:20:10.651Z",
     "url": "https://forum.cheeseepedia.org/t/abilene-tx-closing-april-4th/346"
   },
@@ -191,7 +198,7 @@
   {
     "title": "Salisbury MD closing on April 4th",
     "image_url": "/viewers/cep-js/compiled-json/images/325.jpg",
-    "views": 886,
+    "views": 887,
     "created_at": "2026-03-10T19:01:28.915Z",
     "url": "https://forum.cheeseepedia.org/t/salisbury-md-closing-on-april-4th/325"
   },
@@ -201,12 +208,5 @@
     "views": 796,
     "created_at": "2026-03-07T22:47:01.184Z",
     "url": "https://forum.cheeseepedia.org/t/adventure-world-2-set-for-fargo-nd/320"
-  },
-  {
-    "title": "Gene Landrum's Archive Reveals New Characters & Details!",
-    "image_url": "/viewers/cep-js/compiled-json/images/319.jpg",
-    "views": 1199,
-    "created_at": "2026-03-07T06:48:20.812Z",
-    "url": "https://forum.cheeseepedia.org/t/gene-landrums-archive-reveals-new-characters-details/319"
   }
 ]

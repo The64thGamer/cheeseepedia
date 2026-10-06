@@ -3,6 +3,7 @@ let FolderIDToTitleMap = null;
 let ViewsMap = null;
 let TypeToIDList = null;
 let DiscourseNews = null;
+let DiscourseRecent = null;
 let RecentFanVideos = null;
 let RecentOfficialVideos = null;
 
@@ -54,10 +55,18 @@ export async function loadTypeToIDList() {
   return TypeToIDList;
 }
 
-export async function loadNews() {
+export async function loadDiscourseNews() {
   if (!DiscourseNews) {
     const res = await fetch('/viewers/cep-js/compiled-json/DiscourseNews.json');
     DiscourseNews = await res.json();
   }
   return DiscourseNews;
+}
+
+export async function loadDiscourseRecent() {
+  if (!DiscourseRecent) {
+    const res = await fetch('/viewers/cep-js/compiled-json/DiscourseRecent.json');
+    DiscourseRecent = await res.json();
+  }
+  return DiscourseRecent;
 }
