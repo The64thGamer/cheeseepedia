@@ -3679,7 +3679,7 @@ function ca(e) {
 }
 function la(e) {
 	let [t] = w(async () => cr(await Y(e.pageThumbnailFile))), [n] = w(() => _r(e)), [r] = w(async () => {
-		let t = await Y(e.title), [n, r] = await Promise.all([ir(t).catch(() => ""), ar(t).catch(() => "")]);
+		let t = e.folderID ?? await Y(e.title?.trim()), [n, r] = await Promise.all([ir(t).catch(() => ""), ar(t).catch(() => "")]);
 		return {
 			md: await gr(n),
 			old: await gr(r)
@@ -3727,7 +3727,7 @@ function la(e) {
 }
 function ua(e) {
 	let [t] = w(() => pr(e)), [n] = w(async () => {
-		let t = await Y(e.title), [n, r] = await Promise.all([ir(t).catch(() => ""), ar(t).catch(() => "")]);
+		let t = e.folderID ?? await Y(e.title?.trim()), [n, r] = await Promise.all([ir(t).catch(() => ""), ar(t).catch(() => "")]);
 		return {
 			md: await gr(n),
 			old: await gr(r)
@@ -3780,7 +3780,7 @@ function ua(e) {
 }
 function da(e) {
 	let [t] = w(async () => cr(await Y(e.pageThumbnailFile))), [n] = w(() => _r(e)), [r] = w(async () => {
-		let t = await Y(e.title), [n, r] = await Promise.all([ir(t).catch(() => ""), ar(t).catch(() => "")]);
+		let t = e.folderID ?? await Y(e.title?.trim()), [n, r] = await Promise.all([ir(t).catch(() => ""), ar(t).catch(() => "")]);
 		return {
 			md: await gr(n),
 			old: await gr(r)

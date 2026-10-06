@@ -633,7 +633,7 @@ export function renderVideoArticle(meta) {
   const [map] = createResource(() => fetchLocationMap(meta));
 
   const [content] = createResource(async () => {
-    const id = await fetchFolderIDFromTitle(meta.title);
+    const id = meta.folderID ?? await fetchFolderIDFromTitle(meta.title?.trim());
     const [md, old] = await Promise.all([
       fetchContent(id).catch(() => ''),
       fetchOld(id).catch(() => ''),
@@ -674,7 +674,7 @@ export function renderPhotoArticle(meta) {
   const [photo] = createResource(() => fetchThumbnailWLinkToArticle(meta));
 
   const [content] = createResource(async () => {
-    const id = await fetchFolderIDFromTitle(meta.title);
+    const id = meta.folderID ?? await fetchFolderIDFromTitle(meta.title?.trim());
     const [md, old] = await Promise.all([
       fetchContent(id).catch(() => ''),
       fetchOld(id).catch(() => ''),
@@ -721,7 +721,7 @@ export function renderStandardArticle(meta) {
   const [map] = createResource(() => fetchLocationMap(meta));
 
   const [content] = createResource(async () => {
-    const id = await fetchFolderIDFromTitle(meta.title);
+    const id = meta.folderID ?? await fetchFolderIDFromTitle(meta.title?.trim());
     const [md, old] = await Promise.all([
       fetchContent(id).catch(() => ''),
       fetchOld(id).catch(() => ''),
