@@ -1,1 +1,1 @@
-The top half of what possibly is the Prototype Mijjin's mech showing his articulated hands.
+The top half of what's believed to be one of the human Mijjin's mech from The Mijjins at Randyland showing his articulated hands.

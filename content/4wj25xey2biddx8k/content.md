@@ -1,4 +1,4 @@
-***Penfield, NY (1614 Penfield Rd)*** was a Chuck E. Cheese's Pizza Time Theatre that opened on March 17, 1982, with a Balcony Stage and closed on September 16, 1996, with a 2-Stage.
+***Penfield, NY (1614 Penfield Rd)*** was a Chuck E. Cheese's Pizza Time Theatre located within Penn Valley Plaza that opened on March 17, 1982, with a Balcony Stage and closed on September 16, 1996, with a 2-Stage.
 
 ## Pre-Opening
 

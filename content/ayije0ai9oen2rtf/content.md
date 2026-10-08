@@ -1,0 +1,1 @@
+Envelope congratulating Chuck E. Cheese on the opening of a new store lists TST, Taikoo Shing, and Aberdeen

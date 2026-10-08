@@ -12,7 +12,7 @@ The York Showbiz Pizza Place soft-opened on February 28, 1983 [1], but officiall
 
 ### Brief Closure
 
-On October 13, 1989, the restaurant closed to do its franchisee filing for bankruptcy. In November, McBiz Corporation purchased the store, and it reopened on December 6. [1]
+On October 19, 1989, the restaurant closed due to its franchisee filing for bankruptcy. In November, McBiz Corporation purchased the store, and it reopened on December 6. [1]
 
 ### Concept Unification
 

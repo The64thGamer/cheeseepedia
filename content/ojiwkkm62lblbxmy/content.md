@@ -1,8 +1,8 @@
-The ***Crow (Animatronic)*** was an animatronic character built by [Creative Engineering] around 1992 and would first be displayed publicly at the [CEI 1995 IAAPA Show (Event)] which took place between November 15th and 18th [1]
+The ***Crow (Animatronic)*** was an animatronic character built by [Creative Engineering] around 1985 for the [Wizard of Oz] show [8] and would also later be used at the [CEI 1995 IAAPA Show (Event)] which took place between November 15th and 18th [1]
 
 ## History
 
-The Crow was built around early 1992 [6] It's unknown exactly why or for what.
+The Crow was built alongside the rest of the [Wizard of Oz] show around 1985 and would reside on a blue fence occasionally cawing.The Crow would remain around [Creative Engineering] over the years,being visible in 1992 [6] It's unknown if it was used for anything during this time
 
 The Crow was taken to the 1995 IAAPA Expo which took place between the 15th and 18th of November [2] proven by the [New Rock-afire Explosion] stage at the convention with it being introduced in 1995. [3]
 

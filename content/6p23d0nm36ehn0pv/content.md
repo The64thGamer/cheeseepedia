@@ -1,4 +1,4 @@
-The Billy Bob Animatronic was one of the main [Classic Stage] animatronics produced by Creative Engineering Inc. The animatronic would first be developed in April of 1980, before debuting at the [Jacksonville, FL (9820 Atlantic Blvd)] on August 14th of that year.
+The ***Billy Bob Animatronic*** was one of the main [Classic Stage] animatronics produced by Creative Engineering Inc. The animatronic would first be developed in April of 1980, before debuting at the [Jacksonville, FL (9820 Atlantic Blvd)] on August 14th of that year.
 
 ## History
 
