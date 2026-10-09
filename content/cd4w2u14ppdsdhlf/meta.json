@@ -3,7 +3,6 @@
   "storeNumber": "3",
   "startDate": "1979-05-00",
   "endDate": "1994-01-00",
-  
   "remodels": [
     {
       "n": "PTT Standard Layout",
@@ -531,5 +530,25 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "fixtures": [
+    {
+      "n": "Order Food Here (PTT Signage)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pick-Up Food (PTT Signage)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "PTT Pizza Sizes (PTT Fixture)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
   ]
 }

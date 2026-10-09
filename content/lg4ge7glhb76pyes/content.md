@@ -664,7 +664,7 @@
 
 {15:16} of Ages along with Lady gwi these
 
-{15:19} colorfully costumed characters perform
+{15:19} colorfully Walkarounds perform
 
 {15:21} with an original flare unless you want
 

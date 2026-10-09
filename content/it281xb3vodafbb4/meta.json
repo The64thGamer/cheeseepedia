@@ -70,7 +70,7 @@
       "e": "0000-00-00"
     },
     {
-      "n": "Jasper's General Store",
+      "n": "Jasper T. Jowls' General Store",
       "desc": "Sign owned by Eric Vasquez, owner of Eric's Retro Arcade in Spencerport, NY.",
       "s": "1983-03-15",
       "e": "0000-00-00"
@@ -141,6 +141,62 @@
       "desc": "Auctioned off. Current whereabouts unknown.",
       "s": "1983-03-15",
       "e": "1996-11-00"
+    }
+  ],
+  "fixtures": [
+    {
+      "n": "PTT Chuck E. Cheese Name Sign",
+      "desc": "",
+      "s": "1983-03-15",
+      "e": "1987-01-00"
+    },
+    {
+      "n": "PTT Madame Oink Name Sign",
+      "desc": "Replaced by the Helen Henny name sign.",
+      "s": "1983-03-15",
+      "e": "1983-08-00"
+    },
+    {
+      "n": "PTT Helen Henny Name Sign",
+      "desc": "",
+      "s": "1983-08-00",
+      "e": "1987-01-00"
+    },
+    {
+      "n": "PTT Mr. Munch Name Sign",
+      "desc": "",
+      "s": "1983-03-15",
+      "e": "1987-01-00"
+    },
+    {
+      "n": "PTT Jasper T. Jowls Name Sign (1980)",
+      "desc": "",
+      "s": "1983-03-15",
+      "e": "1987-01-00"
+    },
+    {
+      "n": "PTT Pasqually Name Sign",
+      "desc": "",
+      "s": "1983-03-15",
+      "e": "1987-01-00"
+    },
+    {
+      "n": "PTT Warblettes Name Sign",
+      "desc": "",
+      "s": "1983-03-15",
+      "e": "1987-01-00"
+    },
+    {
+      "n": "PTT Lounge Sign: The King (1981)",
+      "desc": "",
+      "s": "1983-03-17",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "PTT Jasper T. Jowls' General Store Sign (1981)",
+      "desc": "Owned by Eric Vasquez of Eric's Retro Arcade in Spencerport, NY.",
+      "s": "1983-03-15",
+      "e": "0000-00-00"
     }
   ]
 }

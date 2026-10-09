@@ -2586,7 +2586,7 @@ var yr = /*#__PURE__*/ L("<div class=s-no-results>No results"), br = /*#__PURE__
 		label: "Reviews",
 		types: ["Reviews"]
 	}
-], Mr = /* @__PURE__ */ "Pizza Time Theatre,ShowBiz Pizza Place,Chuck E. Cheese's,2026,1977,Locations,Showtapes,Animatronic Shows,Stage Variations,Animatronics,Animatronic Parts,Animatronic Preservation,Costumed Characters,Retrofits,History,Cancelled Locations,Remodels and Initiatives,Arcades and Attractions,Store Fixtures,Companies/Brands,Characters,Events,Animatronic Control Systems,Other Systems,Simulators,Programming Systems,Commercials,News Footage,Company Media,Movies,Puppets,Live Shows,ShowBiz Pizza Programs,Showtape Formats,Family Vision,Corporate Documents,Documents,Promotional Material,Social Media and Websites,Ad Vehicles,In-Store Merchandise,Products,Menu Items,Tickets,Tokens,Employee Wear,Video Games,Sally Corporation,Jim Henson's Creature Shop,Walt Disney Imagineering,Five Nights at Freddy's,Transcriptions,Unknown Year,User,Meta".split(","), Nr = {
+], Mr = /* @__PURE__ */ "Pizza Time Theatre,ShowBiz Pizza Place,Chuck E. Cheese's,2026,1977,Locations,Showtapes,Animatronic Shows,Stage Variations,Animatronics,Animatronic Parts,Animatronic Preservation,Walkarounds,Retrofits,History,Cancelled Locations,Remodels and Initiatives,Arcades and Attractions,Store Fixtures,Companies/Brands,Characters,Events,Animatronic Control Systems,Other Systems,Simulators,Programming Systems,Commercials,News Footage,Company Media,Movies,Puppets,Live Shows,ShowBiz Pizza Programs,Showtape Formats,Family Vision,Corporate Documents,Documents,Promotional Material,Social Media and Websites,Ad Vehicles,In-Store Merchandise,Products,Menu Items,Tickets,Tokens,Employee Wear,Video Games,Sally Corporation,Jim Henson's Creature Shop,Walt Disney Imagineering,Five Nights at Freddy's,Transcriptions,Unknown Year,User,Meta".split(","), Nr = {
 	card: Yi,
 	compact: Xi,
 	list: Zi
@@ -2601,7 +2601,7 @@ var yr = /*#__PURE__*/ L("<div class=s-no-results>No results"), br = /*#__PURE__
 	"Animatronic Parts": "#4a7bd1",
 	"Animatronic Preservation": "#4a7bd1",
 	"Stage Variations": "#4a7bd1",
-	"Costumed Characters": "#4a7bd1",
+	Walkarounds: "#4a7bd1",
 	Characters: "#2e8857ff",
 	Retrofits: "#4a7bd1",
 	"Remodels and Initiatives": "#c26827ff",
@@ -2652,7 +2652,7 @@ var yr = /*#__PURE__*/ L("<div class=s-no-results>No results"), br = /*#__PURE__
 	"Animatronic Parts": "factory.svg",
 	"Animatronic Preservation": "wrench.svg",
 	"Stage Variations": "speaker.svg",
-	"Costumed Characters": "back_of_hand_hoof_d1.svg",
+	Walkarounds: "back_of_hand_hoof_d1.svg",
 	Characters: "thumbs_up_paw.svg",
 	Locations: "world_map.svg",
 	"Cancelled Locations": "bomb.svg",
@@ -3216,7 +3216,7 @@ function qi(e) {
 		case "Animatronic Parts":
 		case "Animatronic Preservation":
 		case "Stage Variations":
-		case "Costumed Characters":
+		case "Walkarounds":
 		case "Characters":
 		case "Locations":
 		case "Cancelled Locations":

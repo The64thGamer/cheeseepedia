@@ -20,7 +20,7 @@ const TABS = [
 const QUICK_TAGS_LIST = [
   "Pizza Time Theatre","ShowBiz Pizza Place","Chuck E. Cheese's",
   "2026","1977","Locations","Showtapes","Animatronic Shows","Stage Variations",
-  "Animatronics","Animatronic Parts","Animatronic Preservation","Costumed Characters",
+  "Animatronics","Animatronic Parts","Animatronic Preservation","Walkarounds",
   "Retrofits","History","Cancelled Locations","Remodels and Initiatives",
   "Arcades and Attractions","Store Fixtures","Companies/Brands","Characters",
   "Events","Animatronic Control Systems","Other Systems","Simulators",

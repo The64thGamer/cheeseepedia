@@ -179,5 +179,19 @@
       "s": "1983-06-07",
       "e": "0000-00-00"
     }
+  ],
+  "fixtures": [
+    {
+      "n": "Fantasy Forest (PTT Signage)",
+      "desc": "",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Jasper T. Jowls General Store (PTT Signage)",
+      "desc": "",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
+    }
   ]
 }

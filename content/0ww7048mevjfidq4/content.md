@@ -1,4 +1,4 @@
-These are steps for proper cleaning and preservation of :Category:Costumed Characters|Costumed Character parts.
+These are steps for proper cleaning and preservation of :Category:Walkarounds|Costumed Character parts.
 
 ## Fabrics
 

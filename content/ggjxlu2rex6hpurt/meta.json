@@ -136,5 +136,55 @@
       "s": "1982-12-16",
       "e": "1985-07-29"
     }
+  ],
+  "fixtures": [
+    {
+      "n": "PTT Chuck E. Cheese Name Sign",
+      "desc": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "PTT Madame Oink Name Sign",
+      "desc": "Replaced by the Helen Henny name sign.",
+      "s": "1982-12-16",
+      "e": "1983-08-00"
+    },
+    {
+      "n": "PTT Helen Henny Name Sign",
+      "desc": "",
+      "s": "1983-08-00",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "PTT Mr. Munch Name Sign",
+      "desc": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "PTT Jasper T. Jowls Name Sign (1980)",
+      "desc": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "PTT Pasqually Name Sign",
+      "desc": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "PTT Warblettes Name Sign",
+      "desc": "",
+      "s": "1982-12-16",
+      "e": "1985-07-29"
+    },
+    {
+      "n": "PTT The King Name Sign",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
   ]
 }

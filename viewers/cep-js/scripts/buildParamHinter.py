@@ -5,7 +5,7 @@ from pathlib import Path
 CONTENT_DIR = "content"
 OUT = os.path.join(os.path.dirname(__file__), "..", "compiled-json", "Suggestions.json")
 
-OBJECT_KEYS = ["remodels", "stages", "franchisees", "animatronics", "attractions", "credits", "fixtures"]
+OBJECT_KEYS = ["remodels", "stages", "franchisees", "animatronics", "attractions", "credits", "fixtures", "walkarounds"]
 STRING_KEYS = ["showtapeFormats"]
 
 TYPE_MAP = {
@@ -14,6 +14,7 @@ TYPE_MAP = {
     "attractions": "Arcades and Attractions",
     "stages": "Stage Variations",
     "fixtures": "Store Fixtures",
+    "walkarounds": "Walkarounds",
 }
 
 def main():

@@ -179,5 +179,49 @@
       "s": "1982-03-17",
       "e": "1989-00-00"
     }
+  ],
+  "fixtures": [
+    {
+      "n": "PTT Chuck E. Cheese Name Sign",
+      "desc": "",
+      "s": "1982-03-17",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "PTT Harmony Howlette Name Sign (1981)",
+      "desc": "Replaced by the Helen Henny name sign.",
+      "s": "1982-03-17",
+      "e": "1983-08-00"
+    },
+    {
+      "n": "PTT Helen Henny Name Sign",
+      "desc": "Replaced the Harmony Howlette name sign. Appears to have been in all-caps at one point.",
+      "s": "1983-08-00",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "PTT Mr. Munch Name Sign",
+      "desc": "",
+      "s": "1982-03-17",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "PTT Jasper T. Jowls Name Sign (1980)",
+      "desc": "",
+      "s": "1982-03-17",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "PTT Pasqually Name Sign",
+      "desc": "",
+      "s": "1982-03-17",
+      "e": "1989-00-00"
+    },
+    {
+      "n": "PTT Warblettes Name Sign",
+      "desc": "Removed with the Warblettes upon installation of Chuck E.'s House Facade.",
+      "s": "1982-03-17",
+      "e": "1989-00-00"
+    }
   ]
 }

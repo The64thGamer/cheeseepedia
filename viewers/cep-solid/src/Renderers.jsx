@@ -33,7 +33,7 @@ export function renderArticle(meta){
     case "Animatronic Parts":
     case "Animatronic Preservation":
     case "Stage Variations":
-    case "Costumed Characters":
+    case "Walkarounds":
     case "Characters":
     case "Locations":
     case "Cancelled Locations":

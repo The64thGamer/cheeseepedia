@@ -4,7 +4,7 @@
 
 TODO: All bookings only found for California, still need to find all bookings across the US.
 
-The ideas for the company would be started by Harold Goldbrandsen and Tom Frosting in late 1969 to early 1970 as a side project while they were working as promotion counselors and radio advertising executives. Harold already had experience with costumed characters working for a PR firm in 1966.[2] They would spend two years discussing and planning out their first attraction set to feature as a travelling show to various malls. They would pitch this initial idea to mall promotion executives, who gave them the confidence to start work on their first show. They would quit their jobs to begin full time work in the company, securing their [Victorville, CA (15367 Tamarack Unit B)].[1]
+The ideas for the company would be started by Harold Goldbrandsen and Tom Frosting in late 1969 to early 1970 as a side project while they were working as promotion counselors and radio advertising executives. Harold already had experience with Walkarounds working for a PR firm in 1966.[2] They would spend two years discussing and planning out their first attraction set to feature as a travelling show to various malls. They would pitch this initial idea to mall promotion executives, who gave them the confidence to start work on their first show. They would quit their jobs to begin full time work in the company, securing their [Victorville, CA (15367 Tamarack Unit B)].[1]
 
 ### Alice Through the Looking Glass
 
