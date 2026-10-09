@@ -36,6 +36,7 @@ const FIELD_LABELS = {
   stages:       'Stages',
   remodels:     'Remodels & Initiatives',
   attractions:  'Attractions',
+  fixtures:  'Fixtures',
 };
 
 export async function renderInventoriesTab(articleTitle, linker, articleType) {

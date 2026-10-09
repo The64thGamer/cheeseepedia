@@ -5,7 +5,7 @@ from pathlib import Path
 CONTENT_DIR = "content"
 OUT = os.path.join(os.path.dirname(__file__), "..", "compiled-json", "Suggestions.json")
 
-OBJECT_KEYS = ["remodels", "stages", "franchisees", "animatronics", "attractions", "credits"]
+OBJECT_KEYS = ["remodels", "stages", "franchisees", "animatronics", "attractions", "credits", "fixtures"]
 STRING_KEYS = ["showtapeFormats"]
 
 def main():

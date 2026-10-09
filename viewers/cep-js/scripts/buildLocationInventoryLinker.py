@@ -7,7 +7,7 @@ CONTENT_DIR = "content"
 OUT_DIR     = os.path.join(os.path.dirname(__file__), "..", "compiled-json")
 OUT_FILE    = os.path.join(OUT_DIR, "inventoryIndex.json")
 
-FIELDS = ('stages', 'remodels', 'animatronics', 'attractions')
+FIELDS = ('stages', 'remodels', 'animatronics', 'attractions', 'fixtures')
 
 def main():
     folders = [f for f in Path(CONTENT_DIR).iterdir() if f.is_dir()]

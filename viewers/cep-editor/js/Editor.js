@@ -68,6 +68,15 @@ const META_MAP = {
       { key: 'e',    label: 'End',         type: 'date' },
     ],
   },
+  fixtures: {
+    type: 'objectList', el: 'MetaFixtures',
+    fields: [
+      { key: 'n',    label: 'Name',        type: 'line', suggestions: 'fixtures' },
+      { key: 'desc', label: 'Notes', type: 'line' },
+      { key: 's',    label: 'Start',       type: 'date', break: true },
+      { key: 'e',    label: 'End',         type: 'date' },
+    ],
+  },
   attractions: {
     type: 'objectList', el: 'MetaAttractions',
     fields: [
