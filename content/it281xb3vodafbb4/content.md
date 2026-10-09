@@ -16,4 +16,4 @@ In November 1996, the Greece Chuck E. Cheese's permanently closed. The portion o
 
 ### Fate of the Animatronics
 
-On November 26, an auction of Greece's assets was held on-site, where all equipment, appliances, games, and animatronics from the store, notably the King, were auctioned off [3]. The King was purchased by a local fun center. His current whereabouts are unknown. The current whereabouts of the rest of the Cyberamics are also unknown.
+On November 26, an auction of Greece's assets was held on-site, where all equipment, appliances, games, and animatronics from the store, notably the King, were auctioned off [3]. The King was purchased by Munchers Family Fun Center of Irondequoit, NY [4]. Sometime in the late 1990s or early 2000s, Munchers closed, and the King's current whereabouts are unknown. The current whereabouts of the rest of the Cyberamics are also unknown.

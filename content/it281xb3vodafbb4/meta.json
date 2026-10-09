@@ -74,6 +74,96 @@
       "desc": "Sign owned by Eric Vasquez, owner of Eric's Retro Arcade in Spencerport, NY.",
       "s": "1983-03-15",
       "e": "0000-00-00"
+    },
+    {
+      "n": "Baby Pac Man",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Whac-A-Munch",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Can-Alley",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Hungry Hippos",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "X-Men",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Pac-Man",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Ms. Pac-Man",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Galaga",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Super Pac-Man",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Out Run",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Centipede",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Pole Position",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-09-00"
+    },
+    {
+      "n": "The Simpsons",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Donkey Kong",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
+    },
+    {
+      "n": "Teenage Mutant Ninja Turtles",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "1996-11-00"
     }
   ],
   "sqft": "17,312",
@@ -84,7 +174,8 @@
   "citations": [
     "https://cheeseepedia.org/?v=cep-js&=sqyg61xr2b9lx0b6",
     "https://cheeseepedia.org/?v=cep-js&=lg6tx0xbfxu8m7dw",
-    "newspapers.com/article/democrat-and-chronicle-greece-rocheste/67716363"
+    "https://newspapers.com/article/democrat-and-chronicle-greece-rocheste/67716363",
+    "https://www.newspapers.com/article/democrat-and-chronicle/207944760/"
   ],
   "contributors": [
     "ThatRockHistorian76"

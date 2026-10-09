@@ -2,8 +2,14 @@
 
 ## History
 
-The Greece Chuck E. Cheese's opened on July 5, 2003, with [Phase 3 (2000)] and a Studio C Beta with a [Chuck E. Cheese 16m (Animatronic)]. The store opened in the same plaza where the original Greece location was located. Not long after opening, the store received the [CEC 2000's Remodel Program]. The store would remain like this until October 3, 2018, when it would receive the [CEC 2.0 Remodel Program], which removed the Studio C Beta and its 16m bot and replaced it with a [Chuck E. Live Stage (Dance Floor)]. This store was the third to receive the 2.0 remodel in New York and one of the first twelve stores in the chain to do so. Greece received a Jumbo Video Wall in 2021. In 2024, it received the Trampoline Zone.
+### Pre-Opening
 
-## Present Day
+Around 2002, CEC began planning to build and open a new store in Greece. [1]
+
+### Opening and Early Years
+
+The Greece Chuck E. Cheese's opened on July 5, 2003, with [Phase 3 (2000)] and a Studio C Beta with a [Chuck E. Cheese 16m (Animatronic)]. The 11,316 square-foot [1] store opened in the same plaza where the original Greece location was located. Not long after opening, the store received the [CEC 2000's Remodel Program]. The store would remain like this until October 3, 2018, when it would receive the [CEC 2.0 Remodel Program], which removed the Studio C Beta and its 16m bot and replaced it with a [Chuck E. Live Stage (Dance Floor)]. This store was the third to receive the 2.0 remodel in New York and one of the first twelve stores in the chain to do so. Greece received a Jumbo Video Wall in 2021. In 2024, it received the Trampoline Zone.
+
+### Present Day
 
 The Greece store remains open with the 2.0 remodel. Since the closure of Henrietta, it is currently the only Chuck E. Cheese's in the Rochester area.

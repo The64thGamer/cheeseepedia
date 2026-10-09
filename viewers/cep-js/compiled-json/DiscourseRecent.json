@@ -1,8 +1,16 @@
 [
   {
+    "title": "Santa Rosa's Balcony Stage",
+    "image_url": "/viewers/cep-js/compiled-json/images/526.jpg",
+    "views": 7,
+    "created_at": "2026-10-09T21:45:54.008Z",
+    "url": "https://forum.cheeseepedia.org/t/santa-rosas-balcony-stage/526",
+    "category_id": 7
+  },
+  {
     "title": "Electronic Theatre Restaurants Corp Predecessor",
     "image_url": "/viewers/cep-js/compiled-json/images/525.jpg",
-    "views": 26,
+    "views": 28,
     "created_at": "2026-10-08T20:02:18.035Z",
     "url": "https://forum.cheeseepedia.org/t/electronic-theatre-restaurants-corp-predecessor/525",
     "category_id": 7
@@ -10,7 +18,7 @@
   {
     "title": "Hong kong wanting to upload picture but can't",
     "image_url": "/viewers/cep-js/compiled-json/images/521.jpg",
-    "views": 49,
+    "views": 54,
     "created_at": "2026-10-07T16:05:10.831Z",
     "url": "https://forum.cheeseepedia.org/t/hong-kong-wanting-to-upload-picture-but-cant/521",
     "category_id": 6
@@ -82,7 +90,7 @@
   {
     "title": "Should I program a custom Van Halen medley on the Rock-afire in RetroMation?",
     "image_url": null,
-    "views": 25,
+    "views": 26,
     "created_at": "2026-09-22T20:54:42.071Z",
     "url": "https://forum.cheeseepedia.org/t/should-i-program-a-custom-van-halen-medley-on-the-rock-afire-in-retromation/506",
     "category_id": 8
@@ -130,7 +138,7 @@
   {
     "title": "Making a chuck e cheese card deck- AKA, I NEED IDEAS!",
     "image_url": null,
-    "views": 144,
+    "views": 145,
     "created_at": "2026-09-19T00:58:12.226Z",
     "url": "https://forum.cheeseepedia.org/t/making-a-chuck-e-cheese-card-deck-aka-i-need-ideas/498",
     "category_id": 8
@@ -165,14 +173,6 @@
     "views": 98,
     "created_at": "2026-09-13T12:03:30.757Z",
     "url": "https://forum.cheeseepedia.org/t/new-footage-of-the-americana-bear-country-jubilee-theater-in-1987/493",
-    "category_id": 7
-  },
-  {
-    "title": "You know what time it is! ANOTHER UPDATE ON MY MOTHER GOOSE!",
-    "image_url": "/viewers/cep-js/compiled-json/images/492.jpg",
-    "views": 73,
-    "created_at": "2026-09-11T22:01:30.745Z",
-    "url": "https://forum.cheeseepedia.org/t/you-know-what-time-it-is-another-update-on-my-mother-goose/492",
     "category_id": 7
   }
 ]

@@ -284,6 +284,8 @@ export function renderHome() {
           Welcome to Cheese-E-Pedia! This unofficial wiki is the archive for all things animatronics!
           <br />
           Use the search above to explore our site! Something not listed here? Help contribute or <a href="/?v=cep-editor">create a new page!</a>
+          <br/>
+          IMPORTANT! You're using a test version of the site, <a href="/?v=cep-js">click here</a> to return to the default viewer!
         </center>
 
         <h2>News</h2>

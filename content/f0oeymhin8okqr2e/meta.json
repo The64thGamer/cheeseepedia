@@ -1,6 +1,6 @@
 {
   "title": "Greece, NY (3130 W Ridge Rd)",
-  "storeNumber": "",
+  "storeNumber": "517",
   "startDate": "2003-07-05",
   "endDate": "",
   "remodels": [
@@ -98,12 +98,14 @@
       "e": ""
     }
   ],
-  "sqft": "",
+  "sqft": "11,316",
   "latitudeLongitude": [
     "43.212936",
     "-77.7121309"
   ],
-  "citations": [],
+  "citations": [
+    "https://www.newspapers.com/article/democrat-and-chronicle/207945465/"
+  ],
   "contributors": [
     "ThatRockHistorian76"
   ],
@@ -119,6 +121,21 @@
       "desc": "Current whereabouts unknown.",
       "s": "2003-07-05",
       "e": "2018-10-03"
+    }
+  ],
+  "walkarounds": [],
+  "fixtures": [
+    {
+      "n": "'Chuck E. Cheese's' - 'Cool Chuck' Logo (CEC Exterior Signage)",
+      "desc": "",
+      "s": "2005-00-00",
+      "e": "2018-10-03"
+    },
+    {
+      "n": "'Chuck E. Cheese' - Modern Logo (CEC Exterior Signage)",
+      "desc": "",
+      "s": "2018-10-03",
+      "e": ""
     }
   ]
 }
