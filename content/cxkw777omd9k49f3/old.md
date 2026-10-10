@@ -26,6 +26,6 @@ Daytona Beach opened in January 1982 with a Balcony Stage and the 1981 remodel. 
 | [Applause Board (Cyberamic)]               | 1981                        | Auctioned, owned by a private collector. |
 | [Drum Board (Cyberamic)]                   | 1981                        | Auctioned, owned by a private collector. |
 | [Dolli Dimples (Cabaret)]                  | 1981                        | Auctioned, owned by a private collector. |
-| [The King King Kat (Lounge)]               | 1981                        | Auctioned, now at the Volo Auto Museum.  |
+| [The King / King Kat (Lounge)]               | 1981                        | Auctioned, now at the Volo Auto Museum.  |
 | [Four Little Shavers (Ice Cream Emporium)] | 1981                        | Auctioned, now at the Volo Auto Museum.  |
 |                                                                    |                             |                                          |

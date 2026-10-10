@@ -2,11 +2,11 @@
 
 ## Stages
 
-Costa Mesa opened for the first time in 1981 with a [Cyberamics Balcony Stage], and then closed in 1984. Chuck E. Cheese would be absent from Costa Mesa until 1993, when it opened in a new spot with a [2-Stage]. In 1999, the 2nd location would close when the new store opened, removing the [2-Stage] and tearing down the building for Home Depot and other stores. The new store would open with a Studio C (1997)|Studio C Alpha, which would be removed around February 2024 during the store's 2.0 Remodel.
+Costa Mesa opened for the first time in 1981 with a [Balcony Stage], and then closed in 1984. Chuck E. Cheese would be absent from Costa Mesa until 1993, when it opened in a new spot with a [2-Stage]. In 1999, the 2nd location would close when the new store opened, removing the [2-Stage] and tearing down the building for Home Depot and other stores. The new store would open with a Studio C (1997)|Studio C Alpha, which would be removed around February 2024 during the store's 2.0 Remodel.
 
 | Stage                                                                                             | Installed      | Removed       | Notes                                                             |
 |---------------------------------------------------------------------------------------------------|----------------|---------------|-------------------------------------------------------------------|
-| [Cyberamics Balcony Stage]                                                | 1981           | 1984          | One of many installed in California. Building Demolished in 2000. |
+| [Balcony Stage]                                                | 1981           | 1984          | One of many installed in California. Building Demolished in 2000. |
 | [2-Stage]                                                                 | January 1993   | 1999          | One of many installed in California. Building Demolished in 2000. |
 | Studio C (1997)\|Studio C Alpha                                                                   | September 1999 | February 2024 | Moved to a new building in in 1999 due to plaza redevelopment.    |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | February 2024  | Still In Use  | 2021 Model.                                                       |

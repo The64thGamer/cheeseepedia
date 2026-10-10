@@ -8,8 +8,8 @@ Modesto opened on May 18, 1981, as a Pizza Time Theatre with the new and not ful
 
 | Stage                                                                                             | Installed    | Removed      |
 |---------------------------------------------------------------------------------------------------|--------------|--------------|
-| [Cyberamics Balcony Stage]                                                | May 1981     | 1989/1990    |
-| [Chuck E's House Facade]                                                  | 1989/1990    | Mid 1990's   |
+| [Balcony Stage]                                                | May 1981     | 1989/1990    |
+| [Chuck E.'s House Facade]                                                  | 1989/1990    | Mid 1990's   |
 | [2-Stage]                                                                 | Mid 1990's   | October 2023 |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | October 2023 | Still in Use |
 

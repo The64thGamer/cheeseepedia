@@ -1,4 +1,4 @@
-***2541-43 El Camino Real*** is a Chuck E. Cheese's that opened on December 28, 1999, and is still open today with a Studio C (1997)|Studio C Alpha. This location is not to be confused with [Redwood City, CA (380 Convention Way)], which opened in August 1981 (day unknown) and closed in February 1986 (day unknown) with a [Cyberamics Balcony Stage] and two stories. Notably, while having 2.0 signs, they do not have anything 2.0 in the interior.
+***2541-43 El Camino Real*** is a Chuck E. Cheese's that opened on December 28, 1999, and is still open today with a Studio C (1997)|Studio C Alpha. This location is not to be confused with [Redwood City, CA (380 Convention Way)], which opened in August 1981 (day unknown) and closed in February 1986 (day unknown) with a [Balcony Stage] and two stories. Notably, while having 2.0 signs, they do not have anything 2.0 in the interior.
 
 ## Stages
 

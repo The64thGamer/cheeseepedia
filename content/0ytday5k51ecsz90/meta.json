@@ -14,7 +14,7 @@
       "n": "Studio C Alpha",
       "s": "2001-06-30",
       "e": "2020-06-25",
-      "desc": "32-movement bot."
+      "desc": "32-movement bot. Remained intact without the bot after closure until the space became Boot Barn."
     }
   ],
   "franchisees": [],
@@ -29,18 +29,33 @@
     "ThatRockHistorian76"
   ],
   "downloadLinks": [],
-  "pageThumbnailFile": "",
+  "pageThumbnailFile": "9suthrdeogqbxjlh",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's",
-    "Henrietta, NY (1000 Hylan Drive)",
+    "Henrietta, NY (1000 Hylan Dr)",
     "Studio C Alpha"
   ],
   "animatronics": [
     {
-      "n": "(Chuck E. Cheese 32m (Animatronic)",
+      "n": "Chuck E. Cheese 32m (Animatronic)",
       "l": "084",
       "s": "2001-06-30",
+      "e": "2020-06-25",
+      "desc": "84th 32m bot ever produced. Current whereabouts unknown."
+    }
+  ],
+  "fixtures": [
+    {
+      "n": "'Chuck E. Cheese's' - 'Cool Chuck' Logo (CEC Exterior Signage)",
+      "desc": "",
+      "s": "2003-00-00",
+      "e": "2012-00-00"
+    },
+    {
+      "n": "'Chuck E. Cheese's' - Rockstar Logo (CEC Exterior Signage)",
+      "desc": "",
+      "s": "2012-00-00",
       "e": "2020-06-25"
     }
   ]

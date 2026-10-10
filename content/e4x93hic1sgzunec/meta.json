@@ -4,10 +4,17 @@
   "tags": [
     "Beatrice (Animatronic)",
     "Billy Bob (Animatronic)",
-    "Chet Faddikins (Animatronic)",
+    "Buddy Crash (Animatronic)",
     "Chet Fattykins (Animatronic)",
     "Looney Bird (Animatronic)"
   ],
   "pageThumbnailVideo": "https://youtu.be/L40-h9hAbiA",
-  "videoChannelHandle": "@therockafire"
+  "videoChannelHandle": "@therockafire",
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "contributors": [
+    "TutorialTimeYt"
+  ]
 }

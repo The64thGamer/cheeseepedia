@@ -2,7 +2,7 @@
 
 ## Stages
 
-The store would open with a [Cyberamics Portrait Shelf Stage], alongside [The King King Kat (Lounge)] in the lounge area.(1)
+The store would open with a [Cyberamics Portrait Shelf Stage], alongside [The King / King Kat (Lounge)] in the lounge area.(1)
 
 ## History
 
@@ -27,7 +27,7 @@ The store would open in Summer of 1980, being franchised by Roy Taylor and Scott
 | [Flag Wavers (Cyberamic)]                                     | Unknown     |
 | [Applause Board (Cyberamic)]         | Unknown     |
 | [Drum Board (Cyberamic)]             | Unknown     |
-| [The King King Kat (Lounge)]         | Unknown     |
+| [The King / King Kat (Lounge)]         | Unknown     |
 
 ## Walkarounds
 

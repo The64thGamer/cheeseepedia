@@ -6,7 +6,7 @@ This location first opened as a Chuck E. Cheese’s Pizza Time Theatre with a Ba
 
 | Stage                                              | Installed | Removed | Notes |
 |----------------------------------------------------|-----------|---------|-------|
-| [Cyberamics Balcony Stage] | 1983      | 1985    |       |
+| [Balcony Stage] | 1983      | 1985    |       |
 | [Classic Stage]            | 1985-7    | 2000    |       |
 
 ## Animatronics

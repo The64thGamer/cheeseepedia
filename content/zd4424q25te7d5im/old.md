@@ -1,4 +1,4 @@
-***6303 Richmond Hwy, Store #72*** was a *Chuck E. Cheese's Pizza Time Theatre* that opened on September 20, 1982, with a [Cyberamics Balcony Stage] and closed between November and December 2009 (day unknown), with a [2-Stage]. It was originally located next to a Kmart which opened on March 22nd, 1973, and closed in 1988 (Day and month unknown) when it was relocated to 7704 Richmond Hwy.(1) Alexandria was also located in the Kings Crossing Shopping Center.
+***6303 Richmond Hwy, Store #72*** was a *Chuck E. Cheese's Pizza Time Theatre* that opened on September 20, 1982, with a [Balcony Stage] and closed between November and December 2009 (day unknown), with a [2-Stage]. It was originally located next to a Kmart which opened on March 22nd, 1973, and closed in 1988 (Day and month unknown) when it was relocated to 7704 Richmond Hwy.(1) Alexandria was also located in the Kings Crossing Shopping Center.
 
 ## Stages
 
@@ -6,8 +6,8 @@ Originally, this location opened with the Balcony Stage. Sadly there are rarely 
 
 | Stage                                              | Installed      | Removed                  | Notes                                                       |
 |----------------------------------------------------|----------------|--------------------------|-------------------------------------------------------------|
-| [Cyberamics Balcony Stage] | September 1982 | 1989-1990                | 7th Pizza Time Theatre to open in Virginia                  |
-| [Chuck E's House Facade]   | 1989-1990      | 1992-1993                | One of two installed in Virginia.                           |
+| [Balcony Stage] | September 1982 | 1989-1990                | 7th Pizza Time Theatre to open in Virginia                  |
+| [Chuck E.'s House Facade]   | 1989-1990      | 1992-1993                | One of two installed in Virginia.                           |
 | [2-Stage]                  | 1992-1993      | November - December 2009 | One of six installed in Virginia. 4th to last in the state. |
 
 ## History
@@ -29,7 +29,7 @@ Alexandria opened on September 20th, 1982, with the Balcony Stage. Alexandria th
 | [Drum Board (Cyberamic)]             | 1981-1982          | Unknown/Destroyed.                                                                      |
 | [Singing Flowers (Cyberamic)]        | 1981-1982          | Unknown/Destroyed.                                                                      |
 | [Dolli Dimples (Cabaret)]            | 1981-1982          | Unknown/Destroyed.                                                                      |
-| [The King King Kat (Lounge)]         | 1981-1982          | Unknown/Destroyed.                                                                      |
+| [The King / King Kat (Lounge)]         | 1981-1982          | Unknown/Destroyed.                                                                      |
 | [Wink]                               | 1992-1993          | Unknown/ Destroyed.                                                                     |
 
 ## Videos

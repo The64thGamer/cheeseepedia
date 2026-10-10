@@ -1,4 +1,4 @@
-***Metarie, LA (7000 Veterans Memorial Blvd),*** ***Store #716*** was a *ShowBiz Pizza/Chuck E. Cheese* that opened on June 24, 1981 as a corporate *ShowBiz Pizza Place* with a [Classic Stage] and closed on March 17, 2024 with a [Studio C Alpha] stage. This is not to be confused with the Metairie, LA (1845 Airline Hwy) Pizza Time Theatre location which opened in October 1982 and closed in 1986 with a [Cyberamics Balcony Stage].
+***Metarie, LA (7000 Veterans Memorial Blvd),*** ***Store #716*** was a *ShowBiz Pizza/Chuck E. Cheese* that opened on June 24, 1981 as a corporate *ShowBiz Pizza Place* with a [Classic Stage] and closed on March 17, 2024 with a [Studio C Alpha] stage. This is not to be confused with the Metairie, LA (1845 Airline Hwy) Pizza Time Theatre location which opened in October 1982 and closed in 1986 with a [Balcony Stage].
 
 ## History
 

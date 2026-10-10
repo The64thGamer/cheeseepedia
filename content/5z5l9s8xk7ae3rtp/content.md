@@ -1,4 +1,4 @@
-**Kooser Jasper T. Jowls** was the upgraded [Winchester Jasper T. Jowls (Animatronic)] used at the opening of the [San Jose, CA (1371 Kooser Rd)] Pizza Time Theatre in December 1978. It was used until May 1980, when the Portrait Show would be replaced by the [Cyberamics Balcony Stage]
+**Kooser Jasper T. Jowls** was the upgraded [Winchester Jasper T. Jowls (Animatronic)] used at the opening of the [San Jose, CA (1371 Kooser Rd)] Pizza Time Theatre in December 1978. It was used until May 1980, when the Portrait Show would be replaced by the [Balcony Stage]
 
 ## History
 

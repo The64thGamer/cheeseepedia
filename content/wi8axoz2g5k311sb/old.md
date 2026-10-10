@@ -1,4 +1,4 @@
-***2990 South 108th Ave, Store #843*** is a *Chuck E. Cheese* that opened in December 1981 (day not found) as a franchised *Pizza Time Theatre* with a [Cyberamics Balcony Stage]. It is located in the Southtown Shopping Center.
+***2990 South 108th Ave, Store #843*** is a *Chuck E. Cheese* that opened in December 1981 (day not found) as a franchised *Pizza Time Theatre* with a [Balcony Stage]. It is located in the Southtown Shopping Center.
 
 ## History
 
@@ -29,7 +29,7 @@ Originally, when this store opened, they had a Balcony Stage. Sometime between 1
 | [Flag Wavers (Cyberamic)]                                     | 1981               | Unknown / Destroyed.                                                                                                     |
 | [Applause Board (Cyberamic)]         | 1981               | Unknown / Destroyed                                                                                                      |
 | [Drum Board (Cyberamic)]             | Unknown            | Unknown / Destroyed                                                                                                      |
-| [The King King Kat (Lounge)]         | 1981               | Unknown / Destroyed                                                                                                      |
+| [The King / King Kat (Lounge)]         | 1981               | Unknown / Destroyed                                                                                                      |
 | [Wink]                               | 1993               | Destroyed.                                                                                                               |
 
 ## Videos

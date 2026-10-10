@@ -7,11 +7,11 @@ When the location first opened, the Balcony Stage was installed in the main dini
 |                                                    |           |         |
 |----------------------------------------------------|-----------|---------|
 | Stage                                              | Installed | Removed |
-| [Cyberamics Balcony Stage] | 1982      | 1984    |
+| [Balcony Stage] | 1982      | 1984    |
 
 ## History
 
-This location opened in 1982 with a square foot of 12,000. The restaurant itself was 4 miles away from the [Aurora, CO (12293 E Iliff Ave)]. (Which was a ShowBiz Pizza Place at the time.) When it first opened, the store had the Balcony Stage with Madame Oink and [The King King Kat (Lounge)]. (But could have had The Beagles.) In 1983, Madame Oink would be replaced by Helen Henny. In 1984, the location was permanently closed for unknown reasons. After it was closed, an auction was heled where everything was sold off. As of May 2024, the building is a Family Dollar and Washtime Laundry.
+This location opened in 1982 with a square foot of 12,000. The restaurant itself was 4 miles away from the [Aurora, CO (12293 E Iliff Ave)]. (Which was a ShowBiz Pizza Place at the time.) When it first opened, the store had the Balcony Stage with Madame Oink and [The King / King Kat (Lounge)]. (But could have had The Beagles.) In 1983, Madame Oink would be replaced by Helen Henny. In 1984, the location was permanently closed for unknown reasons. After it was closed, an auction was heled where everything was sold off. As of May 2024, the building is a Family Dollar and Washtime Laundry.
 
 ## Animatronics
 

@@ -1,4 +1,4 @@
-***650 Wolcott St, Store #463*** was a *[Chuck E Cheese's]* that opened on September 29, 1992 with a 2-Stage, which closed on June 25, 2020. This location should not be confused with [Waterbury, CT (983 Wolcott St)] which was a Pizza Time Theatre location that opened in April 1982 and closed in 1984 with the [Cyberamics Balcony Stage], that location was the first Chuck E. Cheese's location opened in the New England region.
+***650 Wolcott St, Store #463*** was a *[Chuck E Cheese's]* that opened on September 29, 1992 with a 2-Stage, which closed on June 25, 2020. This location should not be confused with [Waterbury, CT (983 Wolcott St)] which was a Pizza Time Theatre location that opened in April 1982 and closed in 1984 with the [Balcony Stage], that location was the first Chuck E. Cheese's location opened in the New England region.
 
 ## History
 

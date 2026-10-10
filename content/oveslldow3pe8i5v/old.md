@@ -8,8 +8,8 @@ Merced's location would open on April 18th, 1983 as a corporate store with Madam
 
 | Stage                                              | Installed  | Removed    | Notes                                                                                                                                  |
 |----------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| [Cyberamics Balcony Stage] | April 1983 | 1989       | One of many installed in California.                                                                                                   |
-| [Chuck E's House Facade]   | 1989       | April 1992 | One of many installed in California.                                                                                                   |
+| [Balcony Stage] | April 1983 | 1989       | One of many installed in California.                                                                                                   |
+| [Chuck E.'s House Facade]   | 1989       | April 1992 | One of many installed in California.                                                                                                   |
 | [2-Stage]                  | April 1992 | 1995       | One of many installed in California. 3rd 2-Stage installed. Show sent to [Chesapeake, VA (1528 Sam's Circle)]. |
 
 ## Animatronics

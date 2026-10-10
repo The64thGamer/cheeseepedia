@@ -6,7 +6,7 @@ Bloomfield opened with a Balcony Stage, which the store would have until its 198
 
 | Stage                                              | Installed   | Removed     | Notes                                                            |
 |----------------------------------------------------|-------------|-------------|------------------------------------------------------------------|
-| [Cyberamics Balcony Stage] | August 1983 | August 1984 | 5th Chuck E. Cheese's location in Connecticut.                   |
+| [Balcony Stage] | August 1983 | August 1984 | 5th Chuck E. Cheese's location in Connecticut.                   |
 | Retrofitted Balcony                                | 1984/1985   | July 1987   | Retrofitted during it's time as Banjoe's Family Pizza Playhouse. |
 
 ## History

@@ -1,4 +1,4 @@
-**2530 Scottsville Rd** was a Chuck E. Cheese's Pizza Time Theatre that opened on April 17, 1984 with a [Cyberamics Balcony Stage] which closed around April-May 1986. This location was the last Pizza Time Theatre opened in Kentucky, and the shortest-lived CEC in Kentucky as well. This location should not be confused with [Bowling Green, KY (2625 Scottsville Rd)], which is the current CEC in Bowling Green.
+**2530 Scottsville Rd** was a Chuck E. Cheese's Pizza Time Theatre that opened on April 17, 1984 with a [Balcony Stage] which closed around April-May 1986. This location was the last Pizza Time Theatre opened in Kentucky, and the shortest-lived CEC in Kentucky as well. This location should not be confused with [Bowling Green, KY (2625 Scottsville Rd)], which is the current CEC in Bowling Green.
 
 ## History
 
@@ -10,11 +10,11 @@ As of 2022, the former Pizza Time Theatre in Bowling Green is now a RE/MAX Real 
 
 ## Stages
 
-The Bowling Green PTT opened with the [Cyberamics Balcony Stage], as every PTT had (except for the few early PTT's between 1977-1980) they never got another stage since the store closed in 1986. There are no public photos of the Bowling Green Pizza Time Theatre except for one single black and white photo of The King (shown above).
+The Bowling Green PTT opened with the [Balcony Stage], as every PTT had (except for the few early PTT's between 1977-1980) they never got another stage since the store closed in 1986. There are no public photos of the Bowling Green Pizza Time Theatre except for one single black and white photo of The King (shown above).
 
 | Stage                                              | Installed  | Removed        | Fate                                        |
 |----------------------------------------------------|------------|----------------|---------------------------------------------|
-| [Cyberamics Balcony Stage] | April 1984 | April-May 1986 | Auctioned Off; Unknown what happened after. |
+| [Balcony Stage] | April 1984 | April-May 1986 | Auctioned Off; Unknown what happened after. |
 
 ## Animatronics
 
@@ -26,6 +26,6 @@ The Bowling Green PTT opened with the [Cyberamics Balcony Stage], as every PTT h
 | [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown (Destroyed or In Private Collection) |
 | [Pasqually (Cyberamic)]              | Unknown            | Unknown (Destroyed or In Private Collection) |
 | [Warblettes (Cyberamic)]             | Unknown            | Unknown (Destroyed or In Private Collection) |
-| [The King King Kat (Lounge)]         | Unknown            | Unknown (Destroyed or In Private Collection) |
+| [The King / King Kat (Lounge)]         | Unknown            | Unknown (Destroyed or In Private Collection) |
 
 File:BGPTTNewspaper.jpeg|Opening Ad. File:BowlingGreenPTTAuctionAd.jpg|Auction Ad. File:2530ScottsvilleRoadStreetViewMay2008.png|Google Street View of the 'Old Hickory Building' in May 2008. File:2530ScottsvilleRoadStreetView2019.png|Google Street View of the 'Old Hickory Building' in July 2019.

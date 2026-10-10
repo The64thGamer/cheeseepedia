@@ -1,4 +1,4 @@
-***9898 Government Place*** or ***9898 Gatineau Place*** was a Chuck E Cheese's Pizza Time Theater that opened in December 1983 (day unknown) with a [Cyberamics Balcony Stage] and closed in 1995 (month and day unknown) with [Chuck E's House Facade]. It was in a 2-story building.
+***9898 Government Place*** or ***9898 Gatineau Place*** was a Chuck E Cheese's Pizza Time Theater that opened in December 1983 (day unknown) with a [Balcony Stage] and closed in 1995 (month and day unknown) with [Chuck E.'s House Facade]. It was in a 2-story building.
 
 ## History
 

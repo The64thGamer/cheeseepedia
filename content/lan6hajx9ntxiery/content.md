@@ -45,9 +45,9 @@ The bot features 8 movements in total.
 | Name | First Installed | Last Removed | Notes |
 | ---- | --------------- | ------------ | ----- |
 | [Cyberamics Portrait Shelf Stage] | 1979, [Concord, CA (1975 Diamond Blvd)] | 2001, [Lake Forest, CA (24416 Muirlands Blvd)] | Also installed in the [Winchester PTT Show] In 1981. |
-| [Cyberamics Balcony Stage] | 1980, [San Jose, CA (1371 Kooser Rd)] | 1993, [Edmonton, Alberta, Canada (9271 34th Ave)] |  |
+| [Balcony Stage] | 1980, [San Jose, CA (1371 Kooser Rd)] | 1993, [Edmonton, Alberta, Canada (9271 34th Ave)] |  |
 | [Chuck E's House] | 1987, [Arlington, TX (2216 S Fielder Rd)] | 2022, [Rockford, IL (3600 E State St)] | Only ShowBiz Stage to use the Cyberamic Chuck bots. First Stage to use a Legged Chuck Bot. |
-| [Chuck E's House Facade] | 1989, [Anchorage, AK (308 E Northern Lights Blvd)] | 2003, [Tacoma, WA (4911 Tacoma Mall Blvd)] | Last Half bodied Chuck Cyber. |
+| [Chuck E.'s House Facade] | 1989, [Anchorage, AK (308 E Northern Lights Blvd)] | 2003, [Tacoma, WA (4911 Tacoma Mall Blvd)] | Last Half bodied Chuck Cyber. |
 | [Road Stage] | 1990, [Jonesboro, GA (335 Upper Riverdale Rd)] | 2025, [Mississauga, Ontario, Canada (4141 Dixie Rd)] | Final stage type to feature half body Cyberamics. |
 | [2-Stage] | 1992, [White Settlement, TX (7750 Scott St)] | Still Used |  |
 | [1-Stage] | 1992, [Waldorf, MD (2928 Festival Way)] | Still Used |  |

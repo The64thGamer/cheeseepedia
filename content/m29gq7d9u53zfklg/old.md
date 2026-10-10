@@ -1,4 +1,4 @@
-***1639 Rt 23, Store #489*** is a Chuck E. Cheese that opened on April 20, 1992, with a Road Stage and is still open to this day. It is located in the Brentwood Plaza Shopping Center. This is not to be confused with the Wayne, NJ (29 NJ-23) Pizza Time Theatre which opened on October 18th, 1982, and closed in 1986 with a [Cyberamics Balcony Stage].
+***1639 Rt 23, Store #489*** is a Chuck E. Cheese that opened on April 20, 1992, with a Road Stage and is still open to this day. It is located in the Brentwood Plaza Shopping Center. This is not to be confused with the Wayne, NJ (29 NJ-23) Pizza Time Theatre which opened on October 18th, 1982, and closed in 1986 with a [Balcony Stage].
 
 ## History
 

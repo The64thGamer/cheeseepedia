@@ -1,4 +1,4 @@
-***6301 Richmond Hwy, Store #75*** is a *Chuck E. Cheese's* that opened on November 20, 2010 with a [Studio C Beta] and is still open today with the 2.0 remodel. This store is the relocation of [Alexandria, VA (6303 Richmond Hwy)], which opened on September 20, 1982 with a [Cyberamics Balcony Stage] and closed between November and December 2009 with a [2-Stage].
+***6301 Richmond Hwy, Store #75*** is a *Chuck E. Cheese's* that opened on November 20, 2010 with a [Studio C Beta] and is still open today with the 2.0 remodel. This store is the relocation of [Alexandria, VA (6303 Richmond Hwy)], which opened on September 20, 1982 with a [Balcony Stage] and closed between November and December 2009 with a [2-Stage].
 
 ## Stages
 

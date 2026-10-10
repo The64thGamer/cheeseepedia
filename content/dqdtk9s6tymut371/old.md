@@ -6,8 +6,8 @@ Waukegan opened with a Balcony Stage. In 1989-1990, they received a C Stage. In 
 
 | Stage                                              | Installed  | Removed      | Notes                                                                                                     |
 |----------------------------------------------------|------------|--------------|-----------------------------------------------------------------------------------------------------------|
-| [Cyberamics Balcony Stage] | Early 1983 | 1989/1990    | One of many installed in Illinois.                                                                        |
-| [Chuck E's House Facade]   | 1989/1990  | 1994         | One of three installed in Illinois.                                                                       |
+| [Balcony Stage] | Early 1983 | 1989/1990    | One of many installed in Illinois.                                                                        |
+| [Chuck E.'s House Facade]   | 1989/1990  | 1994         | One of three installed in Illinois.                                                                       |
 | [2-Stage]                  | 1994       | January 1997 | One of five 2-Stages installed in Illinois. Show sent to Fairview Heights to be converted into a 1-Stage. |
 
 ## History
@@ -30,5 +30,5 @@ After Waukegan closed in January 1997, their show was excluded from the auction.
 | [Applause Board (Cyberamic)]         | 1982/1983          | Unknown.                                                                              |
 | [Drum Board (Cyberamic)]             | 1982/1983          | Unknown.                                                                              |
 | [Singing Flowers (Cyberamic)]        | 1989/1990          | Unknown.                                                                              |
-| [The King King Kat (Lounge)]         | 1982/1983          | Unknown.                                                                              |
+| [The King / King Kat (Lounge)]         | 1982/1983          | Unknown.                                                                              |
 | [Wink (Cyberamic)]                   | 1994               | Unknown.                                                                              |

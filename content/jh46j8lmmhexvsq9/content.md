@@ -2,7 +2,7 @@ The ***2-Stage*** is a stage format found at [Chuck E. Cheese's] locations that 
 
 ## History
 
-The 2-Stage was created in 1992 to unify all [Chuck E's House Facade] and [Road Stage] locations to one setup and to be consistent with [Concept Unification] and the company's future plans. The first 2-Stage was installed at the [White Settlement, TX (7750 Scott St)] location in February 1992. After that, it would go on to be installed in approximately 100 CEC locations across the United States, Canada, Chile, and Guatemala.
+The 2-Stage was created in 1992 to unify all [Chuck E.'s House Facade] and [Road Stage] locations to one setup and to be consistent with [Concept Unification] and the company's future plans. The first 2-Stage was installed at the [White Settlement, TX (7750 Scott St)] location in February 1992. After that, it would go on to be installed in approximately 100 CEC locations across the United States, Canada, Chile, and Guatemala.
 
 ## Design
 

@@ -1,4 +1,4 @@
-The ***Kooser Flag Wavers ***was an animatronic created by [Fantasy Forest] in Late 1978 for the [Pizza Time Theatre] on [San Jose, CA (1371 Kooser Rd)]. The Bot was a collection of waving flags moving on one animatronic system.The Bot was used until Kooser got the first [Cyberamics Balcony Stage] in May 1980.
+The ***Kooser Flag Wavers ***was an animatronic created by [Fantasy Forest] in Late 1978 for the [Pizza Time Theatre] on [San Jose, CA (1371 Kooser Rd)]. The Bot was a collection of waving flags moving on one animatronic system.The Bot was used until Kooser got the first [Balcony Stage] in May 1980.
 
 ## History
 

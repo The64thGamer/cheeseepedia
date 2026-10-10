@@ -1,4 +1,4 @@
-***8300 Marbach Rd*** was a *Chuck E. Cheese's Pizza Time Theatre* that opened in 1983 and closed in February 1984 with a [Cyberamics Balcony Stage].
+***8300 Marbach Rd*** was a *Chuck E. Cheese's Pizza Time Theatre* that opened in 1983 and closed in February 1984 with a [Balcony Stage].
 
 ## Stage
 
@@ -6,7 +6,7 @@ The location had a Balcony Stage, any further documentation is unknown.
 
 | Stage                                              | Installed | Removed       | Notes                                                |
 |----------------------------------------------------|-----------|---------------|------------------------------------------------------|
-| [Cyberamics Balcony Stage] | 1983      | February 1984 | Whereabouts Unknown. One of many installed in Texas. |
+| [Balcony Stage] | 1983      | February 1984 | Whereabouts Unknown. One of many installed in Texas. |
 
 ## History
 

@@ -10,8 +10,8 @@ Albuquerque (Wyoming) opened with the Balcony Stage in October 1981. Unfortunate
 
 | Stage                                                                                             | Installed      | Removed        | Notes                             |
 |---------------------------------------------------------------------------------------------------|----------------|----------------|-----------------------------------|
-| [Cyberamics Balcony Stage]                                                | October 1981   | 1989/1990      | Only PTT in New Mexico.           |
-| [Chuck E's House Facade]                                                  | 1989/1990      | 1993/1994      | Only one installed in New Mexico. |
+| [Balcony Stage]                                                | October 1981   | 1989/1990      | Only PTT in New Mexico.           |
+| [Chuck E.'s House Facade]                                                  | 1989/1990      | 1993/1994      | Only one installed in New Mexico. |
 | [2-Stage]                                                                 | 1993/1994      | September 2022 | Only one installed in New Mexico. |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | September 2022 | Still in use   | 2021 Model.                       |
 

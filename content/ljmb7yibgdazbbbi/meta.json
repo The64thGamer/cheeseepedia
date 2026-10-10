@@ -11,9 +11,16 @@
     "Pierre (Animatronic)",
     "Queenie / Mini Mozzarella (Animatronic)",
     "Waldo (Animatronic)",
-    "Chet Faddikins (Animatronic)",
+    "Chet Fattykins (Animatronic)",
     "Grandma Bear (Animatronic)"
   ],
   "pageThumbnailVideo": "https://youtu.be/0l6-6ewuY70",
-  "videoChannelHandle": "@TheCarpetbagger"
+  "videoChannelHandle": "@TheCarpetbagger",
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "contributors": [
+    "TutorialTimeYt"
+  ]
 }

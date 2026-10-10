@@ -1,4 +1,4 @@
-***3345 Harvester Rd*** was a Chuck E. Cheese's Pizza Time Theatre|Chuck E. Cheese's *Pizza Time Theatre* that opened on October 15, 1981, with a Balcony Stage, which closed on October 27, 1991 with [Chuck E's House Facade]. Burlington was the second PTT store to open outside of the United States, after [Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)], which opened in March 1981. Burlington was also the first PTT/CEC to open in Canada, of which 10 CECs currently exist in the country.
+***3345 Harvester Rd*** was a Chuck E. Cheese's Pizza Time Theatre|Chuck E. Cheese's *Pizza Time Theatre* that opened on October 15, 1981, with a Balcony Stage, which closed on October 27, 1991 with [Chuck E.'s House Facade]. Burlington was the second PTT store to open outside of the United States, after [Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)], which opened in March 1981. Burlington was also the first PTT/CEC to open in Canada, of which 10 CECs currently exist in the country.
 
 ## History
 

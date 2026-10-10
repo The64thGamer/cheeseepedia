@@ -2,7 +2,7 @@
 
 ## Stages
 
-This location debuted with a [Cyberamics Balcony Stage], one of two in the state, the other being in [Biloxi, MS (4550 W Beach Blvd)] This location also had the Beagles as a lounge act when they were a Pizza Time Theatre, it is unknown when this act was removed. Sometime around 1990, the stage was retrofitted with the [Chuck E's House Facade], and throughout the 1990s, most of the cosmetics would be replaced with updated variants. This would also be one of the final locations to have the façade installation as CEC pushed Studio C (1997)|Studio C to new stores in the late 1990s. In around March 1999, the former Balcony Stage would be demolished, and Studio C would be installed in an empty wall next to the former stage area. In 1999, their C-Stage was replaced by Studio C (1997)|Studio C which remained at the store until relocation. The Chuck E. Cheese animatronic on this Studio C kept its original Late-Night inspired outfit until its relocation in June 2009.
+This location debuted with a [Balcony Stage], one of two in the state, the other being in [Biloxi, MS (4550 W Beach Blvd)] This location also had the Beagles as a lounge act when they were a Pizza Time Theatre, it is unknown when this act was removed. Sometime around 1990, the stage was retrofitted with the [Chuck E.'s House Facade], and throughout the 1990s, most of the cosmetics would be replaced with updated variants. This would also be one of the final locations to have the façade installation as CEC pushed Studio C (1997)|Studio C to new stores in the late 1990s. In around March 1999, the former Balcony Stage would be demolished, and Studio C would be installed in an empty wall next to the former stage area. In 1999, their C-Stage was replaced by Studio C (1997)|Studio C which remained at the store until relocation. The Chuck E. Cheese animatronic on this Studio C kept its original Late-Night inspired outfit until its relocation in June 2009.
 
 ## History
 
@@ -33,7 +33,7 @@ Identified Machines [Chuck E Cheese's Super Shot] Chuck E. Cheese's Photo Ride (
 | [Flag Wavers (Cyberamic)]                                     | 1982               | Unknown       | Unknown/Destroyed.                                                           |
 | [Applause Board (Cyberamic)]         | 1982               | Unknown       | Unknown/Destroyed.                                                           |
 | Beagles / Beach Bowsers (Lounge)                             | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [The King King Kat (Lounge)]         | 1982               | Unknown       | Unknown/Destroyed.                                                           |
+| [The King / King Kat (Lounge)]         | 1982               | Unknown       | Unknown/Destroyed.                                                           |
 | [Chuck E Cheese 32m (Animatronic)]   | Unknown            | Unknown       | Relocated to [Jackson, MS (6352 Ridgewood Court Rd)] |
 | [Bird (Animatronic)]                 | Unknown            | N/A           | Unknown/Destroyed.                                                           |
 | [Pizza Phone (Animatronic)]          | Unknown            | N/A           | Unknown/Destroyed.                                                           |

@@ -6,8 +6,8 @@ Diamond Bar opened sometime in 1983 with a Balcony Stage(1). Diamond Bar would h
 
 | Stage                                              | Installed  | Removed    |
 |----------------------------------------------------|------------|------------|
-| [Cyberamics Balcony Stage] | 1983       | 1989/1990  |
-| [Chuck E's House Facade]   | 1989/1990  | Mid 1990's |
+| [Balcony Stage] | 1983       | 1989/1990  |
+| [Chuck E.'s House Facade]   | 1989/1990  | Mid 1990's |
 | [1-Stage]                  | Mid 1990's | April 2020 |
 
 ## Animatronics
@@ -24,5 +24,5 @@ Diamond Bar opened sometime in 1983 with a Balcony Stage(1). Diamond Bar would h
 | [Applause Board (Cyberamic)]         | Unknown            | Unknown.                                     |
 | [Drum Board (Cyberamic)]             | Unknown            | Unknown.                                     |
 | [Singing Flowers (Cyberamic)]        | Unknown            | Unknown.                                     |
-| [The King King Kat (Lounge)]         | Unknown            | Unknown.                                     |
+| [The King / King Kat (Lounge)]         | Unknown            | Unknown.                                     |
 | [Wink (Cyberamic)]                   | Mid 1990's         | Owned by [}}">CEC1988](%7B%7B%3C%20ref)   |

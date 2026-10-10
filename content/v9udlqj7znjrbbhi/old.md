@@ -22,4 +22,4 @@ Simi Valley opened its doors on October 20, 1980, in a shopping center adjacent 
   [Drum Board (Cyberamic)]               1980                 Unknown
   [Flag Wavers (Cyberamic)]              1980                 Unknown
   [The Beagles Beach Bowzers (Lounge)]   1980                 Unknown
-  [The King King Kat (Lounge)]           1980                 Unknown
+  [The King / King Kat (Lounge)]           1980                 Unknown

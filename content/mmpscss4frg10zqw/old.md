@@ -1,4 +1,4 @@
-***Northridge, CA (8425 Reseda Blvd, Store #451)*** was a Chuck E. Cheese's Pizza Time Theatre that opened in September 1981(1) with a [Cyberamics Balcony Stage], which is still open to this day. The location is officially deemed the Munch's Make Believe Band Residency (Now called CEC Legacy Location) with plans for it to be a permanent home for its [2-Stage] and 'all legacy Chuck E. Cheese nostalgia'(2). The Store was originally going to be the permanent home of CEC animatronics, but in March 2024, CEC went back on this(3).
+***Northridge, CA (8425 Reseda Blvd, Store #451)*** was a Chuck E. Cheese's Pizza Time Theatre that opened in September 1981(1) with a [Balcony Stage], which is still open to this day. The location is officially deemed the Munch's Make Believe Band Residency (Now called CEC Legacy Location) with plans for it to be a permanent home for its [2-Stage] and 'all legacy Chuck E. Cheese nostalgia'(2). The Store was originally going to be the permanent home of CEC animatronics, but in March 2024, CEC went back on this(3).
 
 ## Stages
 
@@ -6,8 +6,8 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 
 | Stage                                                      | Installed      | Removed      |
 |------------------------------------------------------------|----------------|--------------|
-| [Cyberamics Balcony Stage]         | September 1981 | 1989-1990    |
-| [Chuck E's House Facade]           | 1989-1990      | 1993         |
+| [Balcony Stage]         | September 1981 | 1989-1990    |
+| [Chuck E.'s House Facade]           | 1989-1990      | 1993         |
 | [2-Stage]                          | 1993           | Still in Use |
 | [Chuck E Live Stage (Dance Floor)] | August 2023    | Still in Use |
 | [Video Wall]                       | September 2023 | Still in Use |
@@ -108,7 +108,7 @@ On July 25, 2023 Northridge would start its [CEC 2.0 Remodel Program]. It was or
 | [Drum Board (Cyberamic)]             | Unknown            | Unknown.                                                                                                                        |
 | [Singing Flowers (Cyberamic)]        | Unknown            | Unknown.                                                                                                                        |
 | [Dolli Dimples (Cabaret)]            | 1981               | Unknown.                                                                                                                        |
-| [The King King Kat (Lounge)]         | 1981               | Unknown.                                                                                                                        |
+| [The King / King Kat (Lounge)]         | 1981               | Unknown.                                                                                                                        |
 | [Chuck E. Cheese (Cyberamic)]      | 1992               | In store. Originally from Lancaster, CA.                                                                                        |
 | [Guest Star / Helen Henny (Cyberamic)] | 1992               | In store. Originally from Lancaster, CA.                                                                                        |
 | [Mr. Munch (Cyberamic)]               | 1992               | In store. Originally from Lancaster, CA.                                                                                        |

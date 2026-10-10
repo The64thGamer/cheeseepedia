@@ -8,7 +8,7 @@ Charlotte opened with either Harmony Howlette or Madame Oink as their guest star
 
 | Stage                                              | Installed  | Removed      | Notes                         |
 |----------------------------------------------------|------------|--------------|-------------------------------|
-| [Cyberamics Balcony Stage] | March 1982 | October 1984 | Animatronics sold at auction. |
+| [Balcony Stage] | March 1982 | October 1984 | Animatronics sold at auction. |
 
 ## Animatronics
 

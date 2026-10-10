@@ -10,7 +10,7 @@ Bradenton opened and closed with a Balcony Stage.
 
 | Stage                                              | Installed    | Removed   | Notes                         |
 |----------------------------------------------------|--------------|-----------|-------------------------------|
-| [Cyberamics Balcony Stage] | October 1981 | June 1984 | Animatronics sold at auction. |
+| [Balcony Stage] | October 1981 | June 1984 | Animatronics sold at auction. |
 
 ## Animatronics
 
@@ -25,4 +25,4 @@ Bradenton opened and closed with a Balcony Stage.
 | [Flag Wavers (Cyberamic)]                                     | 1981               | Sold at auction, current status unknown |
 | [Applause Board (Cyberamic)]         | 1981               | Sold at auction, current status unknown |
 | [Drum Board (Cyberamic)]             | 1981               | Sold at auction, current status unknown |
-| [The King King Kat (Lounge)]         | 1981               | Sold at auction, current status unknown |
+| [The King / King Kat (Lounge)]         | 1981               | Sold at auction, current status unknown |

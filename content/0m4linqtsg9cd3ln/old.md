@@ -1,4 +1,4 @@
-***Hialeah, FL (500 W 49th St)*** was a *Pizza Time Theatre* that opened on December 20, 1982 with a [Cyberamics Balcony Stage], which closed around 1985-1986.
+***Hialeah, FL (500 W 49th St)*** was a *Pizza Time Theatre* that opened on December 20, 1982 with a [Balcony Stage], which closed around 1985-1986.
 
 ## History
 

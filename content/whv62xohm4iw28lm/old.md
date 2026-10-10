@@ -10,8 +10,8 @@ Originally when Ventura opened, they had a Balcony Stage, as all other Pizza Tim
 
 | Stage                                                      | Installed         | Removed           | Notes                                                      |
 |------------------------------------------------------------|-------------------|-------------------|------------------------------------------------------------|
-| [Cyberamics Balcony Stage]         | Fall 1983         | Late 1980's       | Opening Date Unknown. One of many installed in California. |
-| [Chuck E's House Facade]           | Late 1980's       | 1996/1997         | One of many installed in California                        |
+| [Balcony Stage]         | Fall 1983         | Late 1980's       | Opening Date Unknown. One of many installed in California. |
+| [Chuck E.'s House Facade]           | Late 1980's       | 1996/1997         | One of many installed in California                        |
 | [2-Stage]                          | 1996/1997         | October 1st, 2023 | One of many installed in California                        |
 | [Chuck E Live Stage (Dance Floor)] | October 1st, 2023 | Still In Use      |                                                            |
 
@@ -28,5 +28,5 @@ Originally when Ventura opened, they had a Balcony Stage, as all other Pizza Tim
 | [Clapper Board (Cyberamic)]                                    | N/A           | Unknown/Destroyed |
 | [Singing Flowers (Cyberamic)]        | N/A           | Unknown/Destroyed |
 | [Dolli Dimples (Cabaret)]            | N/A           | Unknown/Destroyed |
-| [The King King Kat (Lounge)]         | N/A           | Unknown/Destroyed |
+| [The King / King Kat (Lounge)]         | N/A           | Unknown/Destroyed |
 | [Wink (Cyberamic)]                   | N/A           | In store.         |

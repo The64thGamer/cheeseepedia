@@ -11,7 +11,7 @@ Huntington Beach opened with the Portrait Stage in October 1979. Unfortunately, 
 | Stage                                            | Installed    | Removed      | Notes                                                                                                                        |
 |--------------------------------------------------|--------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
 | Cyberamics Portrait Stage\|Portrait Stage        | October 1979 | 1989/1990    | Oldest CEC in the world. Formerly, [San Jose, CA (1371 Kooser Rd)] until their closure in June 2020. |
-| [Chuck E's House Facade] | 1989/1990    | Mid 90's     | One of many installed in California. Only known Shelf to Chuck E.'s House Facade conversion.                                 |
+| [Chuck E.'s House Facade] | 1989/1990    | Mid 90's     | One of many installed in California. Only known Shelf to Chuck E.'s House Facade conversion.                                 |
 | [2-Stage]                | Mid 90's     | Still in use | One of many installed in California. One of two 2-Stage's operating in California.                                           |
 
 ## Animatronics

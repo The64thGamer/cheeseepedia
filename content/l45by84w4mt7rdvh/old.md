@@ -1,4 +1,4 @@
-***82 Boston Post Rd, Store #468*** is a *Chuck E. Cheese's Pizza*/*Chuck E. Cheese's*/*Chuck E. Cheese* in Orange, Connecticut that opened June 16, 1992. It is located in the Edwards Plaza Shopping Center. This location should not be confused with [Orange, CT (260 Bull Hill Lane)] which was a Pizza Time Theatre location that opened in May 1983 and closed in 1985 with the [Cyberamics Balcony Stage], this was one of the last Pizza Time Theatre locations in Connecticut alongside [New Britain, CT (222 E Main St)].
+***82 Boston Post Rd, Store #468*** is a *Chuck E. Cheese's Pizza*/*Chuck E. Cheese's*/*Chuck E. Cheese* in Orange, Connecticut that opened June 16, 1992. It is located in the Edwards Plaza Shopping Center. This location should not be confused with [Orange, CT (260 Bull Hill Lane)] which was a Pizza Time Theatre location that opened in May 1983 and closed in 1985 with the [Balcony Stage], this was one of the last Pizza Time Theatre locations in Connecticut alongside [New Britain, CT (222 E Main St)].
 
 ## History
 

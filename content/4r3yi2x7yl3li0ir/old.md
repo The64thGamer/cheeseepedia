@@ -8,8 +8,8 @@ Newington opened in August 1983 as a franchise-owned Pizza Time Theatre location
 
 | Stage                                              | Installed   | Removed    | Notes                                         |
 |----------------------------------------------------|-------------|------------|-----------------------------------------------|
-| [Cyberamics Balcony Stage] | August 1983 | 1989       | One of 2 Balcony Stages in New Hampshire.     |
-| [Chuck E's House Facade]   | 1989        | 1996       | One of 2 C-Stages installed in New Hampshire. |
+| [Balcony Stage] | August 1983 | 1989       | One of 2 Balcony Stages in New Hampshire.     |
+| [Chuck E.'s House Facade]   | 1989        | 1996       | One of 2 C-Stages installed in New Hampshire. |
 | [2-Stage]                  | 1996        | March 2018 | One of 2 2-Stages in New Hampshire.           |
 
 ## Animatronics
@@ -27,7 +27,7 @@ Newington opened in August 1983 as a franchise-owned Pizza Time Theatre location
 | [Clapper Board (Cyberamic)]                                    | ?                  | Unknown       | Unknown/Destroyed.                                                                                                                                                                                                |
 | [Dolli Dimples I]                    | ?                  | Unknown       | Unknown/Destroyed                                                                                                                                                                                                 |
 | [The Beagles Beach Bowzers (Lounge)] | ?                  | Unknown       | Sent to [Danvers, MA (139 Endicott St)] in 1989, then Unknown/Destroyed                                                                                                                   |
-| [The King King Kat (Lounge)]         | ?                  | Unknown       | Originally from [Danvers, MA (139 Endicott St)], Unknown/Destroyed.                                                                                                                       |
+| [The King / King Kat (Lounge)]         | ?                  | Unknown       | Originally from [Danvers, MA (139 Endicott St)], Unknown/Destroyed.                                                                                                                       |
 
 [2002](https://www.showbizpizza.com/photos/cec/nh_newington/index.html)
 

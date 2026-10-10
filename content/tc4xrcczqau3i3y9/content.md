@@ -1,4 +1,4 @@
-***Kooser Mr. Munch* is an animatronic seen at the opening of the [San Jose, CA (1371 Kooser Rd)] Pizza Time Theater. He would be used until Kooser upgraded to the [Cyberamics Balcony Stage] in May 1980.**
+***Kooser Mr. Munch* is an animatronic seen at the opening of the [San Jose, CA (1371 Kooser Rd)] Pizza Time Theater. He would be used until Kooser upgraded to the [Balcony Stage] in May 1980.**
 
 ## History
 

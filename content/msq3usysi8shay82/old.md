@@ -2,12 +2,12 @@
 
 ## Stages
 
-The Chico, CA location opened with a [Cyberamics Balcony Stage] with Harmony Howlette, Madame Oink, and Helen Henny guest stars over the course of its decade run. Chico would also house The King for a period of time, it is unknown when the character was removed. At some point after 1988, the show was converted into the [Chuck E's House Facade] then finally converted into a [2-Stage] in 1993. It is unknown whether the location received any technical attention to their show whatsoever nearing its final years, the characters were in such a decrepit condition to a point where little to any movement was noticeable from the show. As a result of the franchise losing the rights to use the CEC name for the location in 2011, the characters' internal mechanisms were removed, and have three of the animatronics retrofitted to generic animals with suits. After the location's second closure, the animatronics would possibly end up being sold for $100.(1)
+The Chico, CA location opened with a [Balcony Stage] with Harmony Howlette, Madame Oink, and Helen Henny guest stars over the course of its decade run. Chico would also house The King for a period of time, it is unknown when the character was removed. At some point after 1988, the show was converted into the [Chuck E.'s House Facade] then finally converted into a [2-Stage] in 1993. It is unknown whether the location received any technical attention to their show whatsoever nearing its final years, the characters were in such a decrepit condition to a point where little to any movement was noticeable from the show. As a result of the franchise losing the rights to use the CEC name for the location in 2011, the characters' internal mechanisms were removed, and have three of the animatronics retrofitted to generic animals with suits. After the location's second closure, the animatronics would possibly end up being sold for $100.(1)
 
 | Stage                                            | Installed | Removed      |
 |--------------------------------------------------|-----------|--------------|
 | Balcony Stage                                    | July 1982 | 1988         |
-| [Chuck E's House Facade] | 1988      | 1993         |
+| [Chuck E.'s House Facade] | 1988      | 1993         |
 | 2-Stage                                          | 1993      | January 2011 |
 
 ## History
@@ -67,6 +67,6 @@ Chico opened July 1982 as a Pizza Time Theatre, and making it out through PTT's 
 | [Flag Wavers (Cyberamic)]                                                                                        | ???                | 1982      | 1988 / 1993            | Unknown      |
 | [Applause Board (Cyberamic)]                                                            | ???                | 1982      | 1988                   | Unknown      |
 | [Drum Board (Cyberamic)]                                                                | ???                | 1982      | 1988                   | Unknown      |
-| [The King King Kat (Lounge)]                                                            | ???                | 1982      | Late 80's / Early 90's | Unknown      |
+| [The King / King Kat (Lounge)]                                                            | ???                | 1982      | Late 80's / Early 90's | Unknown      |
 | [Singing Flowers (Cyberamic)]                                                           | 1989/1990          | 1988      | 1993                   | Unknown      |
 | [Wink (Cyberamic)]                                                                      | 1990's             | 1993      | 2011                   | Unknown      |

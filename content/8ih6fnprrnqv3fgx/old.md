@@ -2,14 +2,14 @@
 
 ## Stages
 
-The store opened with the Kooser PTT Show until it would be replaced by The Showboat in April 1980. In 1981, the stage would be replaced by a [Cyberamics Balcony Stage]. The stage would eventually be converted into a [Chuck E's House Facade] during their 1988 Remodel, and would finally be converted into a [2-Stage].
+The store opened with the Kooser PTT Show until it would be replaced by The Showboat in April 1980. In 1981, the stage would be replaced by a [Balcony Stage]. The stage would eventually be converted into a [Chuck E.'s House Facade] during their 1988 Remodel, and would finally be converted into a [2-Stage].
 
 | Stage                                              | Installed        | Removed       | Notes |
 |----------------------------------------------------|------------------|---------------|-------|
 | [Kooser PTT Show]          | December 2, 1978 | May 1980      |       |
 | Showboat Stage                                     | April 1980       | 1981          |       |
-| [Cyberamics Balcony Stage] | 1981             | 1988-1989     |       |
-| [Chuck E's House Facade]   | 1988-1989        | 1993          |       |
+| [Balcony Stage] | 1981             | 1988-1989     |       |
+| [Chuck E.'s House Facade]   | 1988-1989        | 1993          |       |
 | [2-Stage]                  | 1993             | June 25, 2020 |       |
 
 ## History

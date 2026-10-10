@@ -1,4 +1,4 @@
-**905 44th Ave W, Store #720** is a *Chuck E. Cheese’s* that opened on March 3rd, 1999, with a Studio C Alpha, which is still open to this day. This is not to be confused with the Pizza Time Theatre on [Bradenton, FL (4420 14th St)] which opened in October 1981 and closed on June 16th, 1984 with a [Cyberamics Balcony Stage] and the ShowBiz Pizza Place on [Bradenton, FL (415 Cortez Rd)] which opened on March 25th, 1982, and closed in 1985/1986 (Unknown Day &amp; Month) with the [Classic Stage].
+**905 44th Ave W, Store #720** is a *Chuck E. Cheese’s* that opened on March 3rd, 1999, with a Studio C Alpha, which is still open to this day. This is not to be confused with the Pizza Time Theatre on [Bradenton, FL (4420 14th St)] which opened in October 1981 and closed on June 16th, 1984 with a [Balcony Stage] and the ShowBiz Pizza Place on [Bradenton, FL (415 Cortez Rd)] which opened on March 25th, 1982, and closed in 1985/1986 (Unknown Day &amp; Month) with the [Classic Stage].
 
 ## History
 

@@ -3,9 +3,16 @@
   "type": "Videos",
   "tags": [
     "Beatrice (Animatronic)",
-    "Chet Fattykins (Animatronic)",
-    "Chet Faddikins (Animatronic)"
+    "Buddy Crash (Animatronic)",
+    "Chet Fattykins (Animatronic)"
   ],
   "pageThumbnailVideo": "https://youtu.be/kLMRKaF31ko",
-  "videoChannelHandle": "@setsstreetseats"
+  "videoChannelHandle": "@setsstreetseats",
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "contributors": [
+    "TutorialTimeYt"
+  ]
 }

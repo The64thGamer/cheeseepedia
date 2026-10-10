@@ -10,7 +10,7 @@ Loves Park opened and closed with a Balcony Stage. When Loves Park relocated to 
 
 | Stage                                              | Installed     | Removed      | Notes                                                                                          |
 |----------------------------------------------------|---------------|--------------|------------------------------------------------------------------------------------------------|
-| [Cyberamics Balcony Stage] | November 1981 | October 1988 | Animatronics taken to be used at Rockford for their [Chuck E's House]. |
+| [Balcony Stage] | November 1981 | October 1988 | Animatronics taken to be used at Rockford for their [Chuck E's House]. |
 
 ## Animatronics
 
@@ -25,7 +25,7 @@ Loves Park opened and closed with a Balcony Stage. When Loves Park relocated to 
 | [Flag Wavers (Cyberamic)]                                     | 1981               | Unknown.                                                                 |
 | [Applause Board (Cyberamic)]         | 1981               | Unknown.                                                                 |
 | [Drum Board (Cyberamic)]             | 1981               | Unknown.                                                                 |
-| [The King King Kat (Lounge)]         | 1981               | Unknown.                                                                 |
+| [The King / King Kat (Lounge)]         | 1981               | Unknown.                                                                 |
 
 ## Videos
 

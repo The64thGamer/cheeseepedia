@@ -6,11 +6,11 @@ Prior to the opening of Penfield, the University of Rochester invested $1.2 mill
 
 ## History
 
-The Penfield Pizza Time Theatre opened on March 17, 1982, as the first ever Chuck E. Cheese's location in the state of New York. Additionally, Penfield was the 100th CEC ever opened [6]. The store opened with a [Balcony Stage] with the [Harmony Howlette II (Balcony Stage Theme)] featuring Harmony Howlette as the Guest Star [3] and with The King as the Lounge act. [2] Following the opening of [Greece, NY (3160 W Ridge Rd)] on March 15, 1983, the Penfield store became one of two locations in the Rochester suburbs. Sometime in the 1980s, Penfield received the Beach Bowzers. In 1989, Penfield's Balcony Stage was retrofitted into a Chuck E.'s House Facade, which remained until 1992, when the store's third and final stage, a 2-Stage, was installed. The Penfield 2-Stage was one of the first to be installed in the chain. In June 1994, the store changed and lowered all its prices. [4]
+The Penfield Pizza Time Theatre opened on March 17, 1982, as the first ever Chuck E. Cheese's location in the state of New York. Additionally, Penfield was the 100th CEC ever opened [7]. The store opened with a [Balcony Stage] with the [Harmony Howlette II (Balcony Stage Theme)] featuring Harmony Howlette as the Guest Star [4] and with The King as the Lounge act [3]. There were seven managers for the Penfield restaurant, one of them being Bob Facciponte, and three people owned it: John Gray III, Bill McLaughlin, and Steve Sammons [2]. Following the opening of [Greece, NY (3160 W Ridge Rd)] on March 15, 1983, the Penfield store became one of two locations in the Rochester suburbs. Sometime in the 1980s, Penfield received the Beach Bowzers. In 1989, Penfield's Balcony Stage was retrofitted into a Chuck E.'s House Facade, which remained until 1992, when the store's third and final stage, a 2-Stage, was installed. The Penfield 2-Stage was one of the first to be installed in the chain. In June 1994, the store changed and lowered all its prices [5].
 
 ## Closure
 
-On September 16, 1996, the Penfield Chuck E. Cheese's permanently closed partially as a result of management not wanting to renew the lease [5] but otherwise due to unknown reasons. The site is now United States Postal Service and Advance Auto Parts.
+On September 16, 1996, the Penfield Chuck E. Cheese's permanently closed partially as a result of management not wanting to renew the lease [6] but otherwise due to unknown reasons. The site is now United States Postal Service and Advance Auto Parts.
 
 ## Fate of the Animatronics
 

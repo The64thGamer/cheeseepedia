@@ -1,8 +1,8 @@
-***New Hartford / Utica, NY (8555 Seneca Turnpike)*** was a *Pizza Time Theatre* that opened on December 16, 1982 with a [Cyberamics Balcony Stage], which closed on July 29, 1985. The location was a franchise-owned location operated by Pizza Concepts, Ltd. based in Rochester, NY.
+***New Hartford / Utica, NY (8555 Seneca Turnpike)*** was a *Pizza Time Theatre* that opened on December 16, 1982 with a [Balcony Stage], which closed on July 29, 1985. The location was a franchise-owned location operated by Pizza Concepts, Ltd. based in Rochester, NY.
 
 ## Stages
 
-The location had a [Cyberamics Balcony Stage].
+The location had a [Balcony Stage].
 
 ## History
 

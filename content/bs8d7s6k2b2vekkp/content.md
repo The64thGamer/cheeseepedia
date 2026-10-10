@@ -1,4 +1,4 @@
-The ***Kooser PTT Show*** (also known as The ***Kooser Portrait / Shelf Stage &amp; Kooser Lounge Area***) was a show format used at the second *[Pizza Time Theatre]* on [San Jose, CA (1371 Kooser Rd)] from December 1978 up until its replacement by the first [Cyberamics Balcony Stage] in May 1980. The show was the last non-[Cyberamics] Show produced by PTT.
+The ***Kooser PTT Show*** (also known as The ***Kooser Portrait / Shelf Stage &amp; Kooser Lounge Area***) was a show format used at the second *[Pizza Time Theatre]* on [San Jose, CA (1371 Kooser Rd)] from December 1978 up until its replacement by the first [Balcony Stage] in May 1980. The show was the last non-[Cyberamics] Show produced by PTT.
 
 ## History
 

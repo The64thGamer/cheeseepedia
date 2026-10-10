@@ -1,4 +1,4 @@
-***Aurora, CO (14005 E Exposition Ave), Store #710*** is a Chuck E. Cheese that opened on November 2nd, 1999, with Studio C (1997)|Studio C. This store is not to be confused with the former store on [Aurora, CO (12293 E Iliff Ave)], most notable for being the site of the 1993 Aurora shooting, that closed on April 20th, 1994, with a 3-Stage and also shouldn't be confused with [Aurora, CO (634 Peoria St)] which opened in 1982 and closed in 1984 with a [Cyberamics Balcony Stage]. The location itself is located in the Aurora City Square shopping center.
+***Aurora, CO (14005 E Exposition Ave), Store #710*** is a Chuck E. Cheese that opened on November 2nd, 1999, with Studio C (1997)|Studio C. This store is not to be confused with the former store on [Aurora, CO (12293 E Iliff Ave)], most notable for being the site of the 1993 Aurora shooting, that closed on April 20th, 1994, with a 3-Stage and also shouldn't be confused with [Aurora, CO (634 Peoria St)] which opened in 1982 and closed in 1984 with a [Balcony Stage]. The location itself is located in the Aurora City Square shopping center.
 
 ## Stages
 

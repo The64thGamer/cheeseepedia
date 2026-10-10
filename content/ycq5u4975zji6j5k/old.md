@@ -1,4 +1,4 @@
-***8000 Plaza Blvd, Store #743*** is a Chuck E. Cheese that opened on July 20, 1998, with a 1-Stage and is still open to this day. This location should not be confused with [Mentor, OH (7900 Plaza Blvd)] #170a, which opened in June 1982 with a [Cyberamics Balcony Stage] and was purchased in December 1991 with a C-Stage|C-Stage.Their C-Stage was then retrofitted in 1991 and later got destroyed in 1996.
+***8000 Plaza Blvd, Store #743*** is a Chuck E. Cheese that opened on July 20, 1998, with a 1-Stage and is still open to this day. This location should not be confused with [Mentor, OH (7900 Plaza Blvd)] #170a, which opened in June 1982 with a [Balcony Stage] and was purchased in December 1991 with a C-Stage|C-Stage.Their C-Stage was then retrofitted in 1991 and later got destroyed in 1996.
 
 ## History
 

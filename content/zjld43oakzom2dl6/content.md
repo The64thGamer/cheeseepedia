@@ -1,4 +1,4 @@
-The ***Kooser Chuck E. Cheese Animatronic ***was an animatronic created by [Fantasy Forest] in Fall of 1978 for the second [Pizza Time Theatre] on [San Jose, CA (1371 Kooser Rd)]. The bot was programmed using [SongCode] & it's [Big C's Cyberamics Center] and was controlled using the [Cyberamic Control System].The bot was used up until Kooser got the first [Cyberamics Balcony Stage] in May 1980.
+The ***Kooser Chuck E. Cheese Animatronic ***was an animatronic created by [Fantasy Forest] in Fall of 1978 for the second [Pizza Time Theatre] on [San Jose, CA (1371 Kooser Rd)]. The bot was programmed using [SongCode] & it's [Big C's Cyberamics Center] and was controlled using the [Cyberamic Control System].The bot was used up until Kooser got the first [Balcony Stage] in May 1980.
 
 ## History
 

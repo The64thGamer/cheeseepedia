@@ -2,7 +2,7 @@
 
 ## Stages
 
-The store would open with a [Cyberamics Portrait Shelf Stage] that lasted throughout the store's run. It also had a lounge with [The King King Kat (Lounge)] and a Cabaret with [Dolli Dimples (Cabaret)].(1)(2)
+The store would open with a [Cyberamics Portrait Shelf Stage] that lasted throughout the store's run. It also had a lounge with [The King / King Kat (Lounge)] and a Cabaret with [Dolli Dimples (Cabaret)].(1)(2)
 
 ## History
 
@@ -22,4 +22,4 @@ The location originally started as a Country Boy Market store, before being remo
 | [Applause Board (Cyberamic)]         | Unknown       | Unknown/Destroyed |
 | [Drum Board (Cyberamic)]             | Unknown       | Unknown/Destroyed |
 | [Dolli Dimples (Cabaret)]            | Unknown       | Unknown/Destroyed |
-| [The King King Kat (Lounge)]         | Unknown       | Unknown/Destroyed |
+| [The King / King Kat (Lounge)]         | Unknown       | Unknown/Destroyed |

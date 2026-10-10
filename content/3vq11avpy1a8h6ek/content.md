@@ -1,4 +1,4 @@
-***Kooser Helen Henny* was a Guest Star animatronic featured at the [San Jose, CA (1371 Kooser Rd)] Pizza Time Theatre. She was alternated with other guest stars until 1980, when Kooser would upgrade to the [Cyberamics Balcony Stage]**
+***Kooser Helen Henny* was a Guest Star animatronic featured at the [San Jose, CA (1371 Kooser Rd)] Pizza Time Theatre. She was alternated with other guest stars until 1980, when Kooser would upgrade to the [Balcony Stage]**
 
 ## History
 

@@ -6,7 +6,7 @@ Garden Grove (Harbor) opened its doors in November 1981 with a Balcony Stage. It
 
 ## Stages
 
-Sometime between 1989 and 1990, the location installed the short-lived [Chuck E's House Facade]. In the Early 90's, the C Stage was removed for the 2-Stage, with this being its last animatronic show. During their 2.0 remodel in August 2022, the 2-Stage was removed with everything destroyed during store hours. All Six of the Cyberamics were left out in the open near an exit in the showroom and trashed later that night.
+Sometime between 1989 and 1990, the location installed the short-lived [Chuck E.'s House Facade]. In the Early 90's, the C Stage was removed for the 2-Stage, with this being its last animatronic show. During their 2.0 remodel in August 2022, the 2-Stage was removed with everything destroyed during store hours. All Six of the Cyberamics were left out in the open near an exit in the showroom and trashed later that night.
 
 ## Animatronics
 
@@ -23,6 +23,6 @@ Sometime between 1989 and 1990, the location installed the short-lived [Chuck E'
 | [Flag Wavers (Cyberamic)]            | Unknown            | Unknown / Destroyed.                                  |
 | [Clapper Board (Cyberamic)]                                    | Unknown            | Unknown / Destroyed.                                  |
 | [Drum Board (Cyberamic)]             | Unknown            | Unknown / Destroyed.                                  |
-| [The King King Kat (Lounge)]         | Unknown            | Unknown / Destroyed.                                  |
+| [The King / King Kat (Lounge)]         | Unknown            | Unknown / Destroyed.                                  |
 
 ## Videos

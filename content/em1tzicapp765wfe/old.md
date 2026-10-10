@@ -1,4 +1,4 @@
-***290 E 4th St*** was a *Chuck E. Cheese's* that opened on November 4, 2013 and closed in June 2020 (day unknown) with a botless [Circles of Light]. This is not to be confused with Long Beach, CA (4706 Los Coyotes Diagonal), which opened in 1980 (month and day unknown) and closed in 1984 (month and day unknown) with presumably a [Cyberamics Balcony Stage].
+***290 E 4th St*** was a *Chuck E. Cheese's* that opened on November 4, 2013 and closed in June 2020 (day unknown) with a botless [Circles of Light]. This is not to be confused with Long Beach, CA (4706 Los Coyotes Diagonal), which opened in 1980 (month and day unknown) and closed in 1984 (month and day unknown) with presumably a [Balcony Stage].
 
 ## Stage
 

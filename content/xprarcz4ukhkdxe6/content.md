@@ -1,0 +1,1 @@
+***Dundalk, MD (8354 Eastern Ave)*** (also known as ***Essex***) was a Chuck E. Cheese's located at Diamond Point Plaza that opened on August 6, 1991, with a Road Stage and closed on October 28, 2018, with a 2-Stage.

@@ -1,4 +1,4 @@
-**2655 Oak Valley Dr, Store #334** was a Chuck E. Cheese's that opened on November 2, 2000 with a Studio C Alpha, which closed on December 2, 2020. This location received the 16M Chuck E. animatronic from the Muskegon, Michigan store in June 2020, essentially turning it into a Studio C Alpha, 16M. Also, this location should not be confused with Ann Arbor, MI (2196 W Stadium Blvd) which was a Pizza Time Theatre location that opened on December 30, 1981 with the [Cyberamics Balcony Stage] and closed in 1985 with the Family Album.
+**2655 Oak Valley Dr, Store #334** was a Chuck E. Cheese's that opened on November 2, 2000 with a Studio C Alpha, which closed on December 2, 2020. This location received the 16M Chuck E. animatronic from the Muskegon, Michigan store in June 2020, essentially turning it into a Studio C Alpha, 16M. Also, this location should not be confused with Ann Arbor, MI (2196 W Stadium Blvd) which was a Pizza Time Theatre location that opened on December 30, 1981 with the [Balcony Stage] and closed in 1985 with the Family Album.
 
 ## History
 

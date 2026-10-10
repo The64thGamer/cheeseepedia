@@ -1027,6 +1027,8 @@ sup {
   border: 0.125rem solid var(--dark);
   border-radius: .5rem;
   overflow: hidden;
+  display: table-cell;
+  veword-wrap: break-word;
 }
 
 .ArticleBody thead tr {
@@ -2035,9 +2037,9 @@ sup a:hover {
     margin-left: calc(-50vw + 50%);
     margin-right: calc(-50vw + 50%);
     max-width: 100vw;
-    display: table-cell;
+    display: block;
     overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
+    -webkit-overflow-scrolling: touch;
   }
 
   .ArticleBody th, .ArticleBody td {

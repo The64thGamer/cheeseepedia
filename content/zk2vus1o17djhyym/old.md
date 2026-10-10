@@ -6,8 +6,8 @@ They originally had a Balcony Stage when first opening, but later in the 1989/19
 
 | Stage                                                                   | Installed     | Removed      | Notes                                                                             |
 |-------------------------------------------------------------------------|---------------|--------------|-----------------------------------------------------------------------------------|
-| [Cyberamics Balcony Stage]                      | November 1983 | 1989/1990    | One of eight Pizza Time Theatres in Washington State.                             |
-| [Chuck E's House Facade]                        | 1989/1990     | 2003         | One of three installed in Washington State. Last C-Stage to exist.                |
+| [Balcony Stage]                      | November 1983 | 1989/1990    | One of eight Pizza Time Theatres in Washington State.                             |
+| [Chuck E.'s House Facade]                        | 1989/1990     | 2003         | One of three installed in Washington State. Last C-Stage to exist.                |
 | [Studio C Beta]                                 | 2003          | June 2022    | One of five Studio C Betas installed in Washington State (one of four 16M betas). |
 | [Chuck E Live Stage (Dance Floor)] + Video Wall | June 2022     | Still In Use | Second Dance Floor installed in Washington state. 2021 Model.                     |
 

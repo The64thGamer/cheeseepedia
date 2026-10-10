@@ -1,4 +1,4 @@
-***Atlanta, GA (2963-A Cobb Pkwy)* was a [Pizza Time Theatre] that opened in September 4th, 1982 with a [Cyberamics Balcony Stage], which closed later in 1984.<sup>(1)</sup>https://www.newspapers.com/article/the-atlanta-constitution/39075919/<sup>(2)</sup>**
+***Atlanta, GA (2963-A Cobb Pkwy)* was a [Pizza Time Theatre] that opened in September 4th, 1982 with a [Balcony Stage], which closed later in 1984.<sup>(1)</sup>https://www.newspapers.com/article/the-atlanta-constitution/39075919/<sup>(2)</sup>**
 
 ## History
 

@@ -1,4 +1,4 @@
-**San Antonio, TX (8507 McCullough Ave)** was a *Chuck E. Cheese's Pizza Time Theatre* that opened in August 1981 and closed in 1984 with a [Cyberamics Balcony Stage]. First Pizza Time Theatre in San Antonio.
+**San Antonio, TX (8507 McCullough Ave)** was a *Chuck E. Cheese's Pizza Time Theatre* that opened in August 1981 and closed in 1984 with a [Balcony Stage]. First Pizza Time Theatre in San Antonio.
 
 ## Stage
 
@@ -6,7 +6,7 @@ The location had a Balcony Stage, any further documentation is unknown.
 
 | Stage                                              | Installed   | Removed | Notes                                                |
 |----------------------------------------------------|-------------|---------|------------------------------------------------------|
-| [Cyberamics Balcony Stage] | August 1981 | 1984    | Whereabouts Unknown. One of many installed in Texas. |
+| [Balcony Stage] | August 1981 | 1984    | Whereabouts Unknown. One of many installed in Texas. |
 
 ## History
 

@@ -1,4 +1,4 @@
-***2770 32nd Ave*** was a pizza time theatre that opened on August 18, 1988, with Chuck E.'s House. The store closed in around October 2003 with a used Road Stage. This location is a relocation of the Calgary, Alberta, Canada (3320 20th Ave) Pizza Time Theatre which opened in August 1983 and closed in August 1988 with a [Cyberamics Balcony Stage]. It's also not to be confused with the [Calgary, Alberta, Canada (2612 32nd St)] location that opened on August 15, 2006, which still operates today with a Studio C Beta [Chuck E Cheese 16m (Animatronic)].
+***2770 32nd Ave*** was a pizza time theatre that opened on August 18, 1988, with Chuck E.'s House. The store closed in around October 2003 with a used Road Stage. This location is a relocation of the Calgary, Alberta, Canada (3320 20th Ave) Pizza Time Theatre which opened in August 1983 and closed in August 1988 with a [Balcony Stage]. It's also not to be confused with the [Calgary, Alberta, Canada (2612 32nd St)] location that opened on August 15, 2006, which still operates today with a Studio C Beta [Chuck E Cheese 16m (Animatronic)].
 
 ## History
 

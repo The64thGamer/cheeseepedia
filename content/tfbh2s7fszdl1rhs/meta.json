@@ -1,6 +1,6 @@
 {
   "title": "Hamburg, NY (4408 Milestrip Rd)",
-  "storeNumber": "",
+  "storeNumber": "516",
   "startDate": "2000-05-31",
   "endDate": "",
   "remodels": [
@@ -27,7 +27,8 @@
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2022-08-03",
-      "desc": "2021 model."
+      "desc": "2021 model.",
+      "e": ""
     }
   ],
   "franchisees": [],
@@ -483,12 +484,19 @@
       "e": "0000-00-00"
     }
   ],
-  "sqft": "",
+  "sqft": "18,000 (originally 13,400)",
   "latitudeLongitude": [
     "42.78960392",
     "-78.81577598"
   ],
-  "citations": [],
+  "citations": [
+    "https://www.newspapers.com/article/the-buffalo-news/207945292/",
+    "https://m.youtube.com/watch?v=zb5N2CRTouY&pp=ygUZY2h1Y2sgZSBjaGVlc2UgaGFtYnVyZyBueQ%3D%3D&ra=m",
+    "https://m.youtube.com/watch?v=_6KizB1j_ho&pp=ygUZY2h1Y2sgZSBjaGVlc2UgaGFtYnVyZyBueQ%3D%3D&ra=m",
+    "https://m.youtube.com/watch?v=vH3ndNyv9Uc&pp=ygUZY2h1Y2sgZSBjaGVlc2UgaGFtYnVyZyBueQ%3D%3D&ra=m",
+    "https://m.youtube.com/watch?v=c42-TUciaGQ&pp=ygUZY2h1Y2sgZSBjaGVlc2UgaGFtYnVyZyBuedIHCQk3DAGHKiGM7w%3D%3D&ra=m",
+    "https://m.youtube.com/watch?v=BBYC6xIpgSY&pp=ygUZY2h1Y2sgZSBjaGVlc2UgaGFtYnVyZyBueQ%3D%3D&ra=m"
+  ],
   "contributors": [
     "ThatRockHistorian76",
     "Front-Row-Joe"
@@ -515,5 +523,7 @@
       "s": "2000-05-31",
       "e": "2022-08-03"
     }
-  ]
+  ],
+  "fixtures": [],
+  "walkarounds": []
 }

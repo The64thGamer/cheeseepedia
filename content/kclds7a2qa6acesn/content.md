@@ -1,1 +1,1 @@
-Friendly Freddy animatronic in the Opera House Window
+Choo Choo animatronic in the Opera House Window

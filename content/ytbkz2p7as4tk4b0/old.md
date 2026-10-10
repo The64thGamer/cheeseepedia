@@ -6,8 +6,8 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 
 | Stage                                                                                             | Installed | Removed      | Notes                                                            |
 |---------------------------------------------------------------------------------------------------|-----------|--------------|------------------------------------------------------------------|
-| [Cyberamics Balcony Stage]                                                | 1982      | 1989/1990    | 1st and last CEC in Alaska.                                      |
-| [Chuck E's House Facade]                                                  | 1989/1990 | 1993/1994    | First C Stage, Only one in Alaska.                               |
+| [Balcony Stage]                                                | 1982      | 1989/1990    | 1st and last CEC in Alaska.                                      |
+| [Chuck E.'s House Facade]                                                  | 1989/1990 | 1993/1994    | First C Stage, Only one in Alaska.                               |
 | [2-Stage]                                                                 | 1993/1994 | 2006         | Only one installed in the state. Kept Flag Wavers until removal. |
 | [Studio C Beta], 16M                                                      | 2006      | July 2022    | Only one installed in the state.                                 |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | July 2022 | Still In Use | 2021 Model.                                                      |
@@ -39,7 +39,7 @@ TODO
 | [Applause Board (Cyberamic)]         | Unknown       | Unknown/Destroyed |
 | [Drum Board (Cyberamic)]             | Unknown       | Unknown/Destroyed |
 | [Singing Flowers (Cyberamic)]        | Unknown       | Unknown/Destroyed |
-| [The King King Kat (Lounge)]         | Unknown       | Unknown/Destroyed |
+| [The King / King Kat (Lounge)]         | Unknown       | Unknown/Destroyed |
 | [Wink]                               | N/A           | Unknown/Destroyed |
 | [Chuck E Cheese 16m (Animatronic)]   | N/A           | Destroyed         |
 | [Pizza Time Clock (Animatronic)]     | N/A           | Destroyed         |

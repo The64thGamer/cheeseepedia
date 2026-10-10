@@ -1,4 +1,4 @@
-***5270 Randolph Road, Store #531*** was a [Chuck E Cheese's] that opened on August 20, 2002 with a [Studio C Beta] and closed on October 29th, 2023 This is not to be confused with the [Rockville, MD (855 Rockville Pike)] Pizza Time Theatre which opened in May 1981 and closed in 1985 with a [Cyberamics Balcony Stage].
+***5270 Randolph Road, Store #531*** was a [Chuck E Cheese's] that opened on August 20, 2002 with a [Studio C Beta] and closed on October 29th, 2023 This is not to be confused with the [Rockville, MD (855 Rockville Pike)] Pizza Time Theatre which opened in May 1981 and closed in 1985 with a [Balcony Stage].
 
 ## History
 

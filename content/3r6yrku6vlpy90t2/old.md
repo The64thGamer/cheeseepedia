@@ -10,7 +10,7 @@ On August 25, 2017, the Corpus Christi location was struck by Hurricane Harvey. 
 
 ## Stages
 
-When Corpus Christi opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Sometime between 1989 and 1990, they installed Chuck E.’s House Facade, otherwise known as the [Chuck E's House Facade]. This store also received a unique porch area in front of the characters for live performances. This location would also manage to get one of the last 2-Stages installed, being installed in November 1996, three years after the newer [1-Stage] concept was introduced. In 2003 the 2-Stage was replaced with the Studio C concept. This store received Studio C Beta, a newer take on the concept. This Studio C Show was later removed in October 2022 when they received the 2.0 remodel and removed their Studio C show for the Dance Floor and Video Wall.
+When Corpus Christi opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Sometime between 1989 and 1990, they installed Chuck E.’s House Facade, otherwise known as the [Chuck E.'s House Facade]. This store also received a unique porch area in front of the characters for live performances. This location would also manage to get one of the last 2-Stages installed, being installed in November 1996, three years after the newer [1-Stage] concept was introduced. In 2003 the 2-Stage was replaced with the Studio C concept. This store received Studio C Beta, a newer take on the concept. This Studio C Show was later removed in October 2022 when they received the 2.0 remodel and removed their Studio C show for the Dance Floor and Video Wall.
 
 ## Animatronics
 
@@ -26,7 +26,7 @@ When Corpus Christi opened, it housed a Balcony Stage like the other Pizza Time 
 | [Flag Wavers (Cyberamic)]                                     | Unknown            | Owned by [Matt the Franchize](https://www.youtube.com/@MattTheFranchize) |
 | [Clapper Board (Cyberamic)]                                    | Unknown            | Unknown / Destroyed                                                      |
 | Band Board (Cyberamic)                                       | Unknown            | Unknown / Destroyed                                                      |
-| [The King King Kat (Lounge)]         | Unknown            | Unknown / Destroyed                                                      |
+| [The King / King Kat (Lounge)]         | Unknown            | Unknown / Destroyed                                                      |
 | [Chuck E Cheese 16m (Animatronic)]   | 2003               | Destroyed                                                                |
 | [Pizza Time Clock (Animatronic)]     | 2003               | Destroyed                                                                |
 

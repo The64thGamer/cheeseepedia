@@ -3,10 +3,17 @@
   "type": "Videos",
   "tags": [
     "Beatrice (Animatronic)",
+    "Buddy Crash (Animatronic)",
     "Buford Buffalo (Animatronic)",
-    "Chet Fattykins (Animatronic)",
-    "Chet Faddikins (Animatronic)"
+    "Chet Fattykins (Animatronic)"
   ],
   "pageThumbnailVideo": "https://youtu.be/mzgGaXe3TP8",
-  "videoChannelHandle": "@Hardluckbearsfan1979"
+  "videoChannelHandle": "@Hardluckbearsfan1979",
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "contributors": [
+    "TutorialTimeYt"
+  ]
 }

@@ -1,4 +1,4 @@
-**Kooser Pasqually** was the upgraded [Winchester Pasqually (Animatronic)] used at the opening of the [San Jose, CA (1371 Kooser Rd)] Pizza Time Theatre in December 1978. It was used until May 1980, when the Portrait Show would be replaced by the [Cyberamics Balcony Stage]
+**Kooser Pasqually** was the upgraded [Winchester Pasqually (Animatronic)] used at the opening of the [San Jose, CA (1371 Kooser Rd)] Pizza Time Theatre in December 1978. It was used until May 1980, when the Portrait Show would be replaced by the [Balcony Stage]
 
 ## History
 

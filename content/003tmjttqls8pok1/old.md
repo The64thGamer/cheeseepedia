@@ -1,4 +1,4 @@
-***6255 Fairview Ave, Store #959*** was a franchised *ShowBiz Pizza Place* that opened on July 7, 1983 with a Rock-Afire Explosion. This location received CU in around 1991, and would have the 3-Stage until they received the 2.0 remodel in August 2022. This location should not be confused with the Boise, ID (10296 W Fairview Ave) Pizza Time Theatre which opened in January 1982 &amp; closed in February 1985 with a [Cyberamics Balcony Stage].
+***6255 Fairview Ave, Store #959*** was a franchised *ShowBiz Pizza Place* that opened on July 7, 1983 with a Rock-Afire Explosion. This location received CU in around 1991, and would have the 3-Stage until they received the 2.0 remodel in August 2022. This location should not be confused with the Boise, ID (10296 W Fairview Ave) Pizza Time Theatre which opened in January 1982 &amp; closed in February 1985 with a [Balcony Stage].
 
 ## History
 

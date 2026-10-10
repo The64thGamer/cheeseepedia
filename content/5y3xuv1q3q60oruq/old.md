@@ -10,8 +10,8 @@ Bell opened with the Balcony Stage in 1982. Fortunately, there are a lot of phot
 
 | Stage                                                                                             | Installed    | Removed      | Notes                                                                                                                                       |
 |---------------------------------------------------------------------------------------------------|--------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| [Cyberamics Balcony Stage]                                                | 1982         | 1989/1990    | One of many in Caifornia.                                                                                                                   |
-| [Chuck E's House Facade]                                                  | 1989/1990    | 1993/1994    | One of many in Caifornia. Looked identical to the one installed at the [Torrance, CA (16920 Prairie Ave)] location. |
+| [Balcony Stage]                                                | 1982         | 1989/1990    | One of many in Caifornia.                                                                                                                   |
+| [Chuck E.'s House Facade]                                                  | 1989/1990    | 1993/1994    | One of many in Caifornia. Looked identical to the one installed at the [Torrance, CA (16920 Prairie Ave)] location. |
 | [2-Stage]                                                                 | 1993/1994    | October 2023 | One of many installed in California.                                                                                                        |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | October 2023 | Still in Use | One of many installed in California.                                                                                                        |
 
@@ -29,7 +29,7 @@ Bell opened with the Balcony Stage in 1982. Fortunately, there are a lot of phot
 | [Applause Board (Cyberamic)]         | 1981/1982          | Unknown. |
 | [Drum Board (Cyberamic)]             | 1981/1982          | Unknown. |
 | [Singing Flowers (Cyberamic)]        | 1981/1982          | Unknown. |
-| [The King King Kat (Lounge)]         | 1981/1982          | Unknown. |
+| [The King / King Kat (Lounge)]         | 1981/1982          | Unknown. |
 | [Wink (Cyberamic)]                   | 1981/1982          | Unknown. |
 
 [2007](https://www.showbizpizza.com/photos/cec/ca_bell/index.html)

@@ -1,4 +1,4 @@
-***Florence, Ky (7635 Mall Rd) #212/112*** originally opened on April 19, 1982 as a Pizza Time Theater with a [Cyberamics Balcony Stage].(1) and is currently a Chuck E. Cheese with a [Chuck E Live Stage (Dance Floor)]. The Florence, KY Pizza Time Theatre opened as a franchise under the Bernstein Restaurant Group. The location was sold to corporate on August 25, 2008.
+***Florence, Ky (7635 Mall Rd) #212/112*** originally opened on April 19, 1982 as a Pizza Time Theater with a [Balcony Stage].(1) and is currently a Chuck E. Cheese with a [Chuck E Live Stage (Dance Floor)]. The Florence, KY Pizza Time Theatre opened as a franchise under the Bernstein Restaurant Group. The location was sold to corporate on August 25, 2008.
 
 ## Stages
 
@@ -16,7 +16,7 @@ In late 2017, the stage's old lightbulbs were replaced with LEDs, the TV was rep
 
 | Stage                                                      | Debuted        | Removed        |
 |------------------------------------------------------------|----------------|----------------|
-| [Cyberamics Balcony Stage]         | April 19, 1982 | 1988-1989      |
+| [Balcony Stage]         | April 19, 1982 | 1988-1989      |
 | [Chuck E's House]                  | 1988-1989      | 2002-2003      |
 | [2-Stage]                          | 2002-2003      | March 31, 2022 |
 | [Chuck E Live Stage (Dance Floor)] | March 31, 2022 | Still In Use   |
@@ -72,7 +72,7 @@ On March 14, 2022, Florence would begin its [CEC 2.0 Remodel Program]. This woul
 | [Drum Board (Cyberamic)]             | 1982                        | Unknown/Destroyed.                                                                                                                                               |
 | [Flag Wavers (Cyberamic)]            | 1982                        | Unknown/Destroyed.                                                                                                                                               |
 | [Singing Flowers (Cyberamic)]        | Late 1980's                 | Unknown/Destroyed.                                                                                                                                               |
-| \|[The King King Kat (Lounge)]       | 1982                        | Unknown/Destroyed.                                                                                                                                               |
+| \|[The King / King Kat (Lounge)]       | 1982                        | Unknown/Destroyed.                                                                                                                                               |
 | [Chuck E. Cheese (Cyberamic)]        | February 1982               | Privately Owned. Originally from [Hampton, VA (4027 W Mercury Blvd)]. Removed in March 2022.                                             |
 | [Guest Star / Helen Henny (Cyberamic)] | February 1982               | Privately Owned. Originally from [Hampton, VA (4027 W Mercury Blvd)]. Removed in March 2022.                                             |
 | [Mr. Munch (Cyberamic)]               | February 1982               | Privately Ownedd. Originally from [Hampton, VA (4027 W Mercury Blvd)]. Removed in March 2022.                                            |

@@ -10,8 +10,8 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 
 | Stage                                                                                             | Installed       | Removed         | Notes                                                                                                                                     |
 |---------------------------------------------------------------------------------------------------|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| [Cyberamics Balcony Stage]                                                | 1983            | 1989/1990       | One of many in Caifornia.                                                                                                                 |
-| [Chuck E's House Facade]                                                  | 1989/1990       | Mid-Late 1990's | One of many in Caifornia. Looked identical to the one installed at the [Bell, CA (5089 E Florence Ave)] location. |
+| [Balcony Stage]                                                | 1983            | 1989/1990       | One of many in Caifornia.                                                                                                                 |
+| [Chuck E.'s House Facade]                                                  | 1989/1990       | Mid-Late 1990's | One of many in Caifornia. Looked identical to the one installed at the [Bell, CA (5089 E Florence Ave)] location. |
 | [2-Stage]                                                                 | Mid-Late 1990's | January 2023    | One of many in Caifornia.                                                                                                                 |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | January 2023    | Still In Use    | 2019 Model                                                                                                                                |
 
@@ -30,7 +30,7 @@ Originally when the store opened, they had a Balcony Stage, as all other Pizza T
 | [Drum Board (Cyberamic)]             | N/A           | Unknown/Destroyed |
 | [Singing Flowers (Cyberamic)]        | N/A           | Unknown/Destroyed |
 | [Dolli Dimples (Cabaret)]            | N/A           | Unknown/Destroyed |
-| [The King King Kat (Lounge)]         | N/A           | Unknown/Destroyed |
+| [The King / King Kat (Lounge)]         | N/A           | Unknown/Destroyed |
 | [Wink (Cyberamic)]                   | N/A           | Destroyed         |
 
 ## Videos

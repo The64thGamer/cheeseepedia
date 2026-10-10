@@ -8,8 +8,8 @@ Spokane opened on April 14th, 1983, as part of the center it was in and was fran
 
 | Stage                                              | Installed  | Removed    | Notes                                                                                                                                                                                         |
 |----------------------------------------------------|------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Cyberamics Balcony Stage] | April 1983 | 1989/1990  | Possibly the 8th Pizza Time Theatre to open in Washington State.                                                                                                                              |
-| [Chuck E's House Facade]   | 1989/1990  | 1993/1994  | One of three installed in Washington State.                                                                                                                                                   |
+| [Balcony Stage] | April 1983 | 1989/1990  | Possibly the 8th Pizza Time Theatre to open in Washington State.                                                                                                                              |
+| [Chuck E.'s House Facade]   | 1989/1990  | 1993/1994  | One of three installed in Washington State.                                                                                                                                                   |
 | [2-Stage]                  | 1993/1994  | March 2000 | Only one Installed in Washington State. Sent to [Lynnwood, WA (3717 196th St Suite 100)] to be converted into one of two [Cyberamic 3-Stage]. |
 
 ## Animatronics

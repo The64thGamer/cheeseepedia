@@ -1,13 +1,13 @@
-***516 N Frederick Ave, Store #401*** was a *Chuck E. Cheese's Pizza Time Theatre* that opened in March 1983 (day unknown) with a [Cyberamics Balcony Stage] and closed in June 2020 (day unknown) with a [Studio C Beta], 16m.
+***516 N Frederick Ave, Store #401*** was a *Chuck E. Cheese's Pizza Time Theatre* that opened in March 1983 (day unknown) with a [Balcony Stage] and closed in June 2020 (day unknown) with a [Studio C Beta], 16m.
 
 ## Stages
 
-Gaithersburg had a Balcony Stage at first. However, not much documentation exists on the stage. It is currently unknown if they had [Chuck E's House Facade], but it is likely they did. They later got a [Road Stage] in 1991/1992. It didn't last long as well, because they received a [2-Stage] in the Mid '90s. They later received a [Studio C Beta], 16m during the 2005 remodel. It lasted up until the 2020 closure.
+Gaithersburg had a Balcony Stage at first. However, not much documentation exists on the stage. It is currently unknown if they had [Chuck E.'s House Facade], but it is likely they did. They later got a [Road Stage] in 1991/1992. It didn't last long as well, because they received a [2-Stage] in the Mid '90s. They later received a [Studio C Beta], 16m during the 2005 remodel. It lasted up until the 2020 closure.
 
 | Stage                                              | Installed  | Removed   |
 |----------------------------------------------------|------------|-----------|
-| [Cyberamics Balcony Stage] | March 1983 | 1989/1990 |
-| [Chuck E's House Facade]   | 1989/1990  | 1991/1992 |
+| [Balcony Stage] | March 1983 | 1989/1990 |
+| [Chuck E.'s House Facade]   | 1989/1990  | 1991/1992 |
 | [Road Stage]    | 1991/1992  | 1994/1995 |
 | [2-Stage]                  | 1994/1995  | Late 2005 |
 | [Studio C Beta], 16m       | Late 2005  | June 2020 |

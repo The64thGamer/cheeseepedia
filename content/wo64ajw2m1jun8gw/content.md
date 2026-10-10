@@ -180,7 +180,7 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 | 4-82 #-24              | style='vertical-align:bottom; text-align:left;' |[Lincoln, NE (221 N 66th St)]                      |
 | 4-82 #-15              | style='vertical-align:bottom; text-align:left;' |[White Settlement, TX (7750 Scott St)]             |
 | 7-82 #-7               | style='vertical-align:bottom; text-align:left;' |Albuquerque, NM (11016 Montgomery Blvd)                                    |
-| **???**                | style='vertical-align:bottom; text-align:left;' |[Parkersburg, WV (3500 Murdoch Ave)]               |
+| **???**                | style='vertical-align:bottom; text-align:left;' |[Parkersburg, WV (210 Lakeview Center)]               |
 | **???**                | style='vertical-align:bottom; text-align:left;' |[Montclair, CA (5060 E Montclair Plaza Lane)]      |
 | **???**                | style='vertical-align:bottom; text-align:left;' |Portage, MI (6700 S Westnedge Ave)                                         |
 | 7-82 #-10              | style='vertical-align:bottom; text-align:left;' |[Springfield, OH (2345 Valley Loop Rd)]            |

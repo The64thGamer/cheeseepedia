@@ -1,4 +1,4 @@
-***2701 S Chase Ave, Store #842*** is a *[Chuck E Cheese's]* that opened in April 1983 as a *[Pizza Time Theatre]* with a [Cyberamics Balcony Stage]. Milwaukee was the third PTT to open in the state. It was one of the select few stores that got the [Cheese E. Street] concept and was also the last store to feature it as it was removed more than ten years after the location opened in 1995. Milwaukee is still open today with the 2.0 Remodel. Strangely, it is located in the corporate headquarters of an unrelated company called UMOS, Inc. which is in the former Kmart that closed in 2003 and originally opened on November 21st, 1971.
+***2701 S Chase Ave, Store #842*** is a *[Chuck E Cheese's]* that opened in April 1983 as a *[Pizza Time Theatre]* with a [Balcony Stage]. Milwaukee was the third PTT to open in the state. It was one of the select few stores that got the [Cheese E. Street] concept and was also the last store to feature it as it was removed more than ten years after the location opened in 1995. Milwaukee is still open today with the 2.0 Remodel. Strangely, it is located in the corporate headquarters of an unrelated company called UMOS, Inc. which is in the former Kmart that closed in 2003 and originally opened on November 21st, 1971.
 
 ## Stages
 
@@ -6,8 +6,8 @@ Milwaukee opened with the Balcony Stage and featured the Cheese Crawl underneath
 
 | Stage                                                                                             | Installed   | Removed           |
 |---------------------------------------------------------------------------------------------------|-------------|-------------------|
-| [Cyberamics Balcony Stage]                                                | April 1983  | 1990              |
-| [Chuck E's House Facade]                                                  | 1990        | 1994              |
+| [Balcony Stage]                                                | April 1983  | 1990              |
+| [Chuck E.'s House Facade]                                                  | 1990        | 1994              |
 | [1-Stage]                                                                 | 1994        | August 18th, 2024 |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | August 2024 | Still in use.     |
 
@@ -35,5 +35,5 @@ As previously mentioned, Milwaukee was one of the first stores to receive and op
 | [Warblettes (Cyberamic)]             | 1983               | Unknown                       |
 | [Clapper Board (Cyberamic)]                                    | 1983               | Unknown                       |
 | [Singing Flowers (Cyberamic)]        | 1990               | Unknown                       |
-| [The King King Kat (Lounge)]         | 1983               | Unknown                       |
+| [The King / King Kat (Lounge)]         | 1983               | Unknown                       |
 | [Wink (Cyberamic)]                   | 1993               | Destroyed                     |

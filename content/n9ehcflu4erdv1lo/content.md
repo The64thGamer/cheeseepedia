@@ -8,7 +8,7 @@ The Cyberamics Portrait Shelf was first created in May 1979 for the opening of [
 
 ### Chuck E. Cheese's
 
-By 1987, almost all Portrait Shelves had been removed, except for Concord, CA, [Huntington Beach, CA (15511 Edwards St)], [Tucson, AZ (5534 E 22nd St)], [Ogden, UT (3155 Harrison Blvd)], [Hayward, CA (24253 Hesperian Blvd)], and Lake Forest, CA. By 1990, only two Shelves remained, those being at Ogden, UT and Lake Forest, CA. In its last few years, Ogden's show was shut off, making Lake Forest's the last functioning one. Lake Forest's had also been modified into a [Chuck E's House Facade] and Shelf hybrid with the stage looking more like a late 1980 Shelf setup but with C-Stage decor, making Ogden's the last full Portrait Shelf remaining. Sometime in 1991, Ogden would close, making Lake Forest the very last location with a Shelf. The stage remained at Lake Forest until 2001, when the location permanently closed.
+By 1987, almost all Portrait Shelves had been removed, except for Concord, CA, [Huntington Beach, CA (15511 Edwards St)], [Tucson, AZ (5534 E 22nd St)], [Ogden, UT (3155 Harrison Blvd)], [Hayward, CA (24253 Hesperian Blvd)], and Lake Forest, CA. By 1990, only two Shelves remained, those being at Ogden, UT and Lake Forest, CA. In its last few years, Ogden's show was shut off, making Lake Forest's the last functioning one. Lake Forest's had also been modified into a [Chuck E.'s House Facade] and Shelf hybrid with the stage looking more like a late 1980 Shelf setup but with C-Stage decor, making Ogden's the last full Portrait Shelf remaining. Sometime in 1991, Ogden would close, making Lake Forest the very last location with a Shelf. The stage remained at Lake Forest until 2001, when the location permanently closed.
 
 ## Design
 

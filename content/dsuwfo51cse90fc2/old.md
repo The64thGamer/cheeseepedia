@@ -2,7 +2,7 @@
 
 ## Stages
 
-This location, opening in 1981, became one of the last Pizza Time Theaters to debut with a shelf show. During the 1980s SPT remodels process, the characters were moved closer together and given custom-made staging. This created a stage that resembles a hybrid between the existing shelf show and [Chuck E's House Facade]. Shortly after the changeover, the final cosmetic change documented would be the changing of Helen's red sequin dress to the black and purple standard dress. This store would also end up being the final occasion a Bandstand vest or Applause Board would be utilized in store. During the 1990s the showroom became increasingly more decorated, receiving large screen CRTs, custom-made lighting props, merry-go-round horse statues on display, and colorful flags over the retired Flag Wavers' mechanisms.
+This location, opening in 1981, became one of the last Pizza Time Theaters to debut with a shelf show. During the 1980s SPT remodels process, the characters were moved closer together and given custom-made staging. This created a stage that resembles a hybrid between the existing shelf show and [Chuck E.'s House Facade]. Shortly after the changeover, the final cosmetic change documented would be the changing of Helen's red sequin dress to the black and purple standard dress. This store would also end up being the final occasion a Bandstand vest or Applause Board would be utilized in store. During the 1990s the showroom became increasingly more decorated, receiving large screen CRTs, custom-made lighting props, merry-go-round horse statues on display, and colorful flags over the retired Flag Wavers' mechanisms.
 
 ### Lounge Acts
 
@@ -53,4 +53,4 @@ Identified 2001 Machines.
 | [Drum Board (Cyberamic)]             | 1980               | Unknown                                             |
 | [Flag Wavers (Cyberamic)]            | 1980               | Unknown                                             |
 | [The Beagles Beach Bowzers (Lounge)] | Unknown            | Unknown                                             |
-| [The King King Kat (Lounge)]         | Unknown            | Privately owned by the location's final technician. |
+| [The King / King Kat (Lounge)]         | Unknown            | Privately owned by the location's final technician. |

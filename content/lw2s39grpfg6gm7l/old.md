@@ -4,7 +4,7 @@
 
 ### Pizza Time Theater
 
-The Middleburg Heights Pizza Time Theatre opened in May 1981 with a [Cyberamics Balcony Stage] Unfortunately there is one photo of it but no videos exist of this location as a PTT. The location would end up closing in 1986.
+The Middleburg Heights Pizza Time Theatre opened in May 1981 with a [Balcony Stage] Unfortunately there is one photo of it but no videos exist of this location as a PTT. The location would end up closing in 1986.
 
 ### Marc's Funtime
 

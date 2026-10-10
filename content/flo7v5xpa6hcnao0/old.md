@@ -2,12 +2,12 @@
 
 ## Stage
 
-Orange opened with a [Cyberamics Balcony Stage] which remained until closure. The animatronics were sold at auction and their current whereabouts are unknown.
+Orange opened with a [Balcony Stage] which remained until closure. The animatronics were sold at auction and their current whereabouts are unknown.
 
 |                                                    |           |         |
 |----------------------------------------------------|-----------|---------|
 | Stage                                              | Installed | Removed |
-| [Cyberamics Balcony Stage] | May 1983  | 1985    |
+| [Balcony Stage] | May 1983  | 1985    |
 
 ## Animatronics
 

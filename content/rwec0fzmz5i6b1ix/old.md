@@ -2,12 +2,12 @@
 
 ## Stages
 
-Southington opened with a [Cyberamics Balcony Stage] which remained until closure. The animatronics were either destroyed, Sent to another location or placed in storage.
+Southington opened with a [Balcony Stage] which remained until closure. The animatronics were either destroyed, Sent to another location or placed in storage.
 
 |                                                    |           |         |
 |----------------------------------------------------|-----------|---------|
 | Stage                                              | Installed | Removed |
-| [Cyberamics Balcony Stage] | July 1983 | 1985    |
+| [Balcony Stage] | July 1983 | 1985    |
 
 ## Animatronics
 
