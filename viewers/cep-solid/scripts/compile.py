@@ -975,6 +975,12 @@ def ask_tags(session, completer, tag_lookup):
                 return "autoreject", [pattern]
             print(red("  Usage: /autoreject <text>"))
             continue
+        if text.lower().startswith("/autoaccept"):
+            pattern = text[len("/autoaccept"):].strip()
+            if pattern:
+                return "autoaccept", [pattern]
+            print(red("  Usage: /autoaccept <text>"))
+            continue
         if text == "/undo":
             if tags:
                 print(dim(f"  Removed: {tags.pop()}"))
@@ -1001,8 +1007,7 @@ def show_video(index, total, d):
     print(dim("-" * 80))
     print(d["description"].strip() or dim("(no description)"))
     print(dim("-" * 80))
-    print(dim("Empty line = save.  /reject  /skip  /undo  /quit  /autoreject <text>"))
-
+    print(dim("Empty line = save.  /reject  /skip  /undo  /quit  /autoreject <text>  /autoaccept <text>"))
 
 def save_video(d, tags, site_titles):
     while True:
@@ -1037,30 +1042,26 @@ def add_fandom_videos():
     tag_lookup = {t.lower(): t for t in tag_titles}
     completer = TagCompleter(tag_titles)
     rejected = load_rejected()
-    patterns = []
     session = PromptSession()
     executor = ThreadPoolExecutor(max_workers=PREFETCH)
     listing_pool = ThreadPoolExecutor(max_workers=2)
     listings = {}
-    saved = auto_rejected = 0
+    saved = auto_rejected = auto_accepted = 0
 
     try:
         for n, handle in enumerate(CHANNELS):
-            for h in CHANNELS[n:n + 2]:  # list the next channel while you review this one
+            for h in CHANNELS[n:n + 2]:
                 if h not in listings:
                     listings[h] = listing_pool.submit(list_channel_videos, h)
             print(cyan(f"Listing {handle}..."))
             listing = listings.pop(handle).result()
 
+            reject_patterns = []
+            accept_patterns = []
+
             in_wiki = sum(v in existing for v in listing)
-            candidates = [v for v in listing if v not in existing and v not in rejected]
-            auto = {v for v in candidates if matches_pattern(listing[v], patterns)}
-            pending = [v for v in candidates if v not in auto]
-            if auto:
-                rejected.update(auto)
-                save_rejected(rejected)
-                auto_rejected += len(auto)
-            print(green(f"{handle}: {len(listing)} videos, {in_wiki} in wiki, {len(auto)} auto-rejected, {len(pending)} to review"))
+            pending = [v for v in listing if v not in existing and v not in rejected]
+            print(green(f"{handle}: {len(listing)} videos, {in_wiki} in wiki, {len(pending)} to review"))
             if not pending:
                 print(dim(f"{handle}: nothing new, skipping"))
                 continue
@@ -1073,25 +1074,28 @@ def add_fandom_videos():
             for i, vid in enumerate(pending):
                 if vid in rejected:
                     continue
-                if matches_pattern(listing[vid], patterns):
-                    rejected.add(vid)
-                    save_rejected(rejected)
+                if matches_pattern(listing[vid], reject_patterns):
                     auto_rejected += 1
                     continue
 
                 for nxt in pending[i:i + PREFETCH]:
-                    if nxt not in futures and nxt not in rejected and not matches_pattern(listing[nxt], patterns):
+                    if nxt not in futures and nxt not in rejected and not matches_pattern(listing[nxt], reject_patterns):
                         futures[nxt] = executor.submit(fetch_details, nxt)
 
                 details = futures.pop(vid).result()
                 if "error" in details:
                     print(red(f"\n[{i + 1}/{len(pending)}] Could not load {vid}: {details['error']}"))
                     continue
-                if matches_pattern(details["title"], patterns):
-                    rejected.add(vid)
-                    save_rejected(rejected)
+                if matches_pattern(details["title"], reject_patterns):
                     auto_rejected += 1
                     print(yellow(f"\n[{i + 1}/{len(pending)}] Auto-rejected: {details['title']}"))
+                    continue
+                if matches_pattern(details["title"], accept_patterns):
+                    print(green(f"\n[{i + 1}/{len(pending)}] Auto-accepted: {details['title']}"))
+                    print(green(f"  Saved to {CONTENT_DIR}/{save_video(details, [], site_titles)}"))
+                    existing.add(vid)
+                    saved += 1
+                    auto_accepted += 1
                     continue
 
                 show_video(i + 1, len(pending), details)
@@ -1102,13 +1106,19 @@ def add_fandom_videos():
                 if action == "skip":
                     continue
                 if action == "autoreject":
-                    patterns.append(tags[0])
-                    action = "reject"
+                    reject_patterns.append(tags[0])
+                    auto_rejected += 1
+                    print(yellow(f"  Auto-rejecting '{tags[0]}' for {handle} only."))
+                    continue
                 if action == "reject":
                     rejected.add(vid)
                     save_rejected(rejected)
                     print(yellow("  Rejected."))
                     continue
+                if action == "autoaccept":
+                    accept_patterns.append(tags[0])
+                    tags = []
+                    print(green(f"  Auto-accepting '{accept_patterns[-1]}' for {handle} only."))
 
                 print(green(f"  Saved to {CONTENT_DIR}/{save_video(details, tags, site_titles)}"))
                 existing.add(vid)
@@ -1118,8 +1128,8 @@ def add_fandom_videos():
     finally:
         executor.shutdown(wait=False, cancel_futures=True)
         listing_pool.shutdown(wait=False, cancel_futures=True)
-        print(green(f"Fandom videos: {saved} created, {auto_rejected} auto-rejected by title"))
-
+        print(green(f"Fandom videos: {saved} created ({auto_accepted} auto-accepted), {auto_rejected} auto-rejected by title"))
+        
 
 def run_solid_build():
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
