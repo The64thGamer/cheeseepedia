@@ -962,6 +962,24 @@ class TagCompleter(Completer):
         for _, _, t in heapq.nsmallest(MAX_SUGGESTIONS, scored):
             yield Completion(t, start_position=-len(text))
 
+def ask_default_tags(session, completer, tag_lookup):
+    tags = []
+    while True:
+        text = session.prompt(ANSI(yellow(f"default tag {len(tags) + 1}> ")), completer=completer, complete_while_typing=True).strip()
+        if not text:
+            return tags
+        if text == "/undo":
+            if tags:
+                print(dim(f"  Removed: {tags.pop()}"))
+            continue
+        tag = text[1:].strip() if text.startswith("!") else tag_lookup.get(text.lower())
+        if not tag:
+            print(red("  No article with that title. Pick a suggestion, or prefix with ! to add it anyway."))
+        elif tag in tags:
+            print(yellow("  Already added."))
+        else:
+            tags.append(tag)
+            print(green("  Default tags: " + " | ".join(tags)))
 
 def ask_tags(session, completer, tag_lookup):
     tags = []
@@ -1057,7 +1075,7 @@ def add_fandom_videos():
             listing = listings.pop(handle).result()
 
             reject_patterns = []
-            accept_patterns = []
+            accept_rules = []
 
             in_wiki = sum(v in existing for v in listing)
             pending = [v for v in listing if v not in existing and v not in rejected]
@@ -1090,9 +1108,10 @@ def add_fandom_videos():
                     auto_rejected += 1
                     print(yellow(f"\n[{i + 1}/{len(pending)}] Auto-rejected: {details['title']}"))
                     continue
-                if matches_pattern(details["title"], accept_patterns):
+                rule_tags = next((t for p, t in accept_rules if matches_pattern(details["title"], [p])), None)
+                if rule_tags is not None:
                     print(green(f"\n[{i + 1}/{len(pending)}] Auto-accepted: {details['title']}"))
-                    print(green(f"  Saved to {CONTENT_DIR}/{save_video(details, [], site_titles)}"))
+                    print(green(f"  Saved to {CONTENT_DIR}/{save_video(details, list(rule_tags), site_titles)}"))
                     existing.add(vid)
                     saved += 1
                     auto_accepted += 1
@@ -1116,9 +1135,12 @@ def add_fandom_videos():
                     print(yellow("  Rejected."))
                     continue
                 if action == "autoaccept":
-                    accept_patterns.append(tags[0])
-                    tags = []
-                    print(green(f"  Auto-accepting '{accept_patterns[-1]}' for {handle} only."))
+                    pattern = tags[0]
+                    print(cyan(f"  Default tags for '{pattern}' (empty line to finish):"))
+                    default_tags = ask_default_tags(session, completer, tag_lookup)
+                    accept_rules.append((pattern, default_tags))
+                    tags = list(default_tags)
+                    print(green(f"  Auto-accepting '{pattern}' for {handle} only with tags: {' | '.join(default_tags) or '(none)'}"))
 
                 print(green(f"  Saved to {CONTENT_DIR}/{save_video(details, tags, site_titles)}"))
                 existing.add(vid)
@@ -1129,7 +1151,6 @@ def add_fandom_videos():
         executor.shutdown(wait=False, cancel_futures=True)
         listing_pool.shutdown(wait=False, cancel_futures=True)
         print(green(f"Fandom videos: {saved} created ({auto_accepted} auto-accepted), {auto_rejected} auto-rejected by title"))
-        
 
 def run_solid_build():
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
