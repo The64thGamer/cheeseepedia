@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Stage                                                                                             | Installed     | Removed       | Notes                                                                                           |
 |---------------------------------------------------------------------------------------------------|---------------|---------------|-------------------------------------------------------------------------------------------------|
 | [Classic Stage]                                                           | February 1981 | 1991          | 10th ShowBiz Pizza Store, 1st to open in Louisiana.                                             |
-| [Concept Unification Stage]                                               | 1991          | March 7, 2023 | One of 5 ShowBiz stores in Louisiana to undergo Concept Unification. Last 3-Stage in Louisiana. |
+| [Concept Unification Stage (3-Stage)]                                               | 1991          | March 7, 2023 | One of 5 ShowBiz stores in Louisiana to undergo Concept Unification. Last 3-Stage in Louisiana. |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | March 7, 2023 | Still In Use. | 2021 Model.                                                                                     |
 
 ## Animatronics

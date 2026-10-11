@@ -6,11 +6,11 @@ This place was originally Bullwinkle’s Family Food N’ Fun Restaurant that op
 
 ## Stages
 
-This location opened up on August 31st, 1991, as one of two Road Stages installed in Canada (The other is [Mississauga, Ontario, Canada (4141 Dixie Rd)], which is still operating as of December 2022). This store would remain open for almost 3 years until it closed sometime in 1994. After closure, the stage would be removed and installed at the [Calgary, Alberta, Canada (2770 32nd Ave)] to replace the store's [Chuck E's House] and remained there until its closure in October 2003.
+This location opened up on August 31st, 1991, as one of two Road Stages installed in Canada (The other is [Mississauga, Ontario, Canada (4141 Dixie Rd)], which is still operating as of December 2022). This store would remain open for almost 3 years until it closed sometime in 1994. After closure, the stage would be removed and installed at the [Calgary, Alberta, Canada (2770 32nd Ave)] to replace the store's [Chuck E.'s House (Rocker Stage)] and remained there until its closure in October 2003.
 
 | Stage                                           | Installed   | Removed | Notes                                                                                                                                                                                     |
 |-------------------------------------------------|-------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Road Stage] | August 1991 | 1994    | One of two Road Stages installed in Canada. Later reinstalled at [Calgary, Alberta, Canada (2770 32nd Ave)] to replace [Chuck E's House]. |
+| [Road Stage] | August 1991 | 1994    | One of two Road Stages installed in Canada. Later reinstalled at [Calgary, Alberta, Canada (2770 32nd Ave)] to replace [Chuck E.'s House (Rocker Stage)]. |
 
 ## Animatronics
 

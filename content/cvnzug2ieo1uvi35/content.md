@@ -18,7 +18,7 @@ The bot features 8-9 movements in total.
 | Head Turn Left                                                     |
 | Left Arm                                                           |
 | Right Arm                                                          |
-| Door (Used in [Cyberamics Portrait Shelf Stage]) |
+| Door (Used in [Portrait / Shelf Stage]) |
 
 ## Stages Used In
 

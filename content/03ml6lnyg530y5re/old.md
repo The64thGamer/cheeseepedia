@@ -7,7 +7,7 @@ Lynnwood opened with a Rock-afire Explosion stage which was possibly used at the
 | Stage                                               | Installed   | Removed     |
 |-----------------------------------------------------|-------------|-------------|
 | [Classic Stage]             | August 1986 | Early 1990s |
-| [Concept Unification Stage] | Early 1990s | 2000        |
+| [Concept Unification Stage (3-Stage)] | Early 1990s | 2000        |
 | [Cyberamic 3-Stage]         | 2000        | July 2023   |
 
 ## History

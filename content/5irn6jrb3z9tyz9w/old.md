@@ -11,7 +11,7 @@ Garland opened with the Rock afire Explosion in November 1982. Unfortunately, th
 | Stage                                               | Installed     | Removed       | Notes |
 |-----------------------------------------------------|---------------|---------------|-------|
 | [Classic Stage]             | November 1982 | 1991          |       |
-| [Concept Unification Stage] | 1991          | 1999-2000     |       |
+| [Concept Unification Stage (3-Stage)] | 1991          | 1999-2000     |       |
 | Studio C Alpha                                      | 1999-2000     | November 2021 |       |
 | Dance Floor                                         | November 2021 | Still in use  |       |
 
@@ -40,4 +40,4 @@ Garland opened with the Rock afire Explosion in November 1982. Unfortunately, th
 
 | Link                                 | Description                                                                                    | Filming Date |
 |--------------------------------------|------------------------------------------------------------------------------------------------|--------------|
-| [Link](https://youtu.be/dEZSY737gbY) | Footage of the store's [Concept Unification Stage] and arcade in 1991. | June 1991    |
+| [Link](https://youtu.be/dEZSY737gbY) | Footage of the store's [Concept Unification Stage (3-Stage)] and arcade in 1991. | June 1991    |

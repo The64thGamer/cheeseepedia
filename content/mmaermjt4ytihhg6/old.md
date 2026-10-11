@@ -21,7 +21,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In around 199
 | Stage                                               | Installed | Removed    | Notes                                                                 |
 |-----------------------------------------------------|-----------|------------|-----------------------------------------------------------------------|
 | [Classic Stage]             | July 1983 | 1991       | 11th ShowBiz Pizza store in California                                |
-| [Concept Unification Stage] | 1991      | March 2006 | One of 8 ShowBiz stores in California to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991      | March 2006 | One of 8 ShowBiz stores in California to undergo Concept Unification. |
 
 ## Animatronics
 

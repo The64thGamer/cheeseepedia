@@ -1,4 +1,4 @@
-The ***Winchester Crusty the Cat V2*** ***Animatronic*** was an animatronic created by [Fantasy Forest] for [Pizza Time Theatre] in Summer 1978 based on the character, Crusty the Cat. The bot was a replacement of the [Winchester Crusty the Cat V1 (Animatronic)] used at [San Jose, CA (370 S Winchester Blvd)]. It used the [Winchester Control System] for store movement &amp; [Winchester Hardware Setup] for programming. The bot was used until Winchester replaced their [Winchester PTT Show] for a [Cyberamics Portrait Shelf Stage] in 1981.
+The ***Winchester Crusty the Cat V2*** ***Animatronic*** was an animatronic created by [Fantasy Forest] for [Pizza Time Theatre] in Summer 1978 based on the character, Crusty the Cat. The bot was a replacement of the [Winchester Crusty the Cat V1 (Animatronic)] used at [San Jose, CA (370 S Winchester Blvd)]. It used the [Winchester Control System] for store movement &amp; [Winchester Hardware Setup] for programming. The bot was used until Winchester replaced their [Winchester PTT Show] for a [Portrait / Shelf Stage] in 1981.
 
 ## History
 

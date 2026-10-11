@@ -1,4 +1,4 @@
-***3250 Chicagoland Circle, Store #678*** is a *Chuck E. Cheese* that opened on January 29th, 2007, with a [Studio C Beta], 16m. They received the 2.0 remodel in Early 2020. It is a freestanding building, unlike the previous location which was located next to a Kmart. This is not to be confused with the [Joliet, IL (1965 W Jefferson St)] location which opened on July 13, 1983, with the [Classic Stage] and closed in January 2007 with a [Concept Unification Stage].
+***3250 Chicagoland Circle, Store #678*** is a *Chuck E. Cheese* that opened on January 29th, 2007, with a [Studio C Beta], 16m. They received the 2.0 remodel in Early 2020. It is a freestanding building, unlike the previous location which was located next to a Kmart. This is not to be confused with the [Joliet, IL (1965 W Jefferson St)] location which opened on July 13, 1983, with the [Classic Stage] and closed in January 2007 with a [Concept Unification Stage (3-Stage)].
 
 ## History
 

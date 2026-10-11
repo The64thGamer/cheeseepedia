@@ -11,7 +11,7 @@ Memphis (Hickory Hill) opened with the Rock afire Explosion in April 1982. Unfor
 | Stage                                               | Installed   | Removed      | Notes                                                                |
 |-----------------------------------------------------|-------------|--------------|----------------------------------------------------------------------|
 | [Classic Stage]             | August 1982 | 1991         | 3rd ShowBiz Pizza Store in Tennessee.                                |
-| [Concept Unification Stage] | 1991        | October 2020 | Underwent Concept Unification like every other ShowBiz in Tennessee. |
+| [Concept Unification Stage (3-Stage)] | 1991        | October 2020 | Underwent Concept Unification like every other ShowBiz in Tennessee. |
 
 ## Animatronics
 

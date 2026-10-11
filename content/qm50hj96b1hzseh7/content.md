@@ -1,0 +1,1 @@
+***Kokomo, IN (1919 South Reed Rd)***, Store #341, is a corporate-owned Chuck E. Cheese's that opened on April 6, 2004, with a Studio C Cappa and is still open.

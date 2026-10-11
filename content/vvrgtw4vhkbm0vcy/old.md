@@ -1,4 +1,4 @@
-***14637 Memorial Drive, Store #731*** was a *ShowBiz Pizza Place* that opened on August 26th, 1981 with a [Classic Stage], and closed as a *Chuck E Cheese's* on October 24th, 2012 with a [Concept Unification Stage]. It relocated to the [Houston, TX (12523 Westheimer Rd)] store.
+***14637 Memorial Drive, Store #731*** was a *ShowBiz Pizza Place* that opened on August 26th, 1981 with a [Classic Stage], and closed as a *Chuck E Cheese's* on October 24th, 2012 with a [Concept Unification Stage (3-Stage)]. It relocated to the [Houston, TX (12523 Westheimer Rd)] store.
 
 ## History
 
@@ -17,7 +17,7 @@ Originally when the store opened, they had a Rock-afire Explosion, as all other 
 | Stage                                               | Installed   | Removed      | Notes                                                                                            |
 |-----------------------------------------------------|-------------|--------------|--------------------------------------------------------------------------------------------------|
 | [Classic Stage]             | August 1981 | Around 1991  | 4th ShowBiz Pizza Place store to open in Texas.                                                  |
-| [Concept Unification Stage] | Around 1991 | October 2012 | One of 17 ShowBiz stores in Texas to undergo Concept Unification. Had Cyberamic Pasqually hands. |
+| [Concept Unification Stage (3-Stage)] | Around 1991 | October 2012 | One of 17 ShowBiz stores in Texas to undergo Concept Unification. Had Cyberamic Pasqually hands. |
 
 ## Animatronics
 

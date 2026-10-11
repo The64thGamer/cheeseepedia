@@ -38,6 +38,6 @@ The Road Stage was the only programming of Birthday Extravaganza to be included 
 
 ## Trivia
 - A Demo of the song was uploaded onto YouTube on January 31, 2017 by user "Pizzacam3" [1]
-- Birthday Extravaganza was programmed onto [SPP Concept Unification Premiere] being the only Pre-CU show to be played for the [Concept Unification Stage].
+- Birthday Extravaganza was programmed onto [SPP Concept Unification Premiere] being the only Pre-CU show to be played for the [Concept Unification Stage (3-Stage)].
 
 

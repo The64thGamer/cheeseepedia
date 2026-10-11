@@ -1,4 +1,4 @@
-***16090 S Harlem Ave, Store #58*** was a *ShowBiz Pizza* that opened on January 31, 1989, with [Chuck E's House], which is still open to this day as a *Chuck E. Cheese*.
+***16090 S Harlem Ave, Store #58*** was a *ShowBiz Pizza* that opened on January 31, 1989, with [Chuck E.'s House (Rocker Stage)], which is still open to this day as a *Chuck E. Cheese*.
 
 ## History
 
@@ -10,7 +10,7 @@ Originally, the store opened with a Rocker Stage, which they had until the Mid 1
 
 | Stage                                                      | Installed           | Removed              | Notes                                                                                                               |
 |------------------------------------------------------------|---------------------|----------------------|---------------------------------------------------------------------------------------------------------------------|
-| [Chuck E's House]                  | January 1989        | 1994                 | One of three Chuck E.’s Houses installed. Animatronics from an unknown Pizza Time Theatre that opened in 1982/1983. |
+| [Chuck E.'s House (Rocker Stage)]                  | January 1989        | 1994                 | One of three Chuck E.’s Houses installed. Animatronics from an unknown Pizza Time Theatre that opened in 1982/1983. |
 | [2-Stage]                          | 1994                | November 26, 2023(1) | One of five 2-Stages installed in Illinois. Last Cyberamic show and the last 2- Stage in Illinois.                  |
 | [Chuck E Live Stage (Dance Floor)] | November 2023       | Still In Use         | 2021 model.                                                                                                         |
 | [Video Wall]                       | November 29th, 2023 | Still In Use         |                                                                                                                     |

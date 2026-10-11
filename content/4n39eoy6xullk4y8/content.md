@@ -24,7 +24,7 @@ In February or March of 1985, the store would host the 'Stars of Tomorrow Talent
 
 At some point the store would recieve the [PTT 1981 Exterior Update], being seen at the earliest in 1987. The store would also recieve the [SPT 1980's Remodel Program] some time between then and 1993, where the main sign would stay from the PTT era, but current branding signage would be installed above the main entrance.[14]
 
-A photo shows the store with [Chuck E.'s House Facade] at an unknown time, likely installed between 1989-1990.
+A photo shows the store with [Chuck E.'s House Facade (C-Stage)] at an unknown time, likely installed between 1989-1990.
 
 ### 1990's & Closing
 

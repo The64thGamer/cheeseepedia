@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Stage                                               | Installed       | Removed      | Notes                                                                                                                                                                                  |
 |-----------------------------------------------------|-----------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Classic Stage]             | July 1984       | 1991         | Reused show from an unknown ShowBiz Pizza Place that opened in 1982. 4th ShowBiz Store to open in North Carolina. One of four ShowBiz locations in state to open after SPP/CEC Merger. |
-| [Concept Unification Stage] | 1991            | October 2020 | Second-to-last complete 3-Stage. The last complete 3-Stage is located at the [Charlotte, NC (7701 Pineville-Matthews Rd)] location.                            |
+| [Concept Unification Stage (3-Stage)] | 1991            | October 2020 | Second-to-last complete 3-Stage. The last complete 3-Stage is located at the [Charlotte, NC (7701 Pineville-Matthews Rd)] location.                            |
 | [Studio C Beta]             | Never Installed | October 2020 | From [Danbury, CT (20 Backus Ave)] which was closed in 2013, never installed and later trashed after closure.                                                  |
 
 ## Animatronics

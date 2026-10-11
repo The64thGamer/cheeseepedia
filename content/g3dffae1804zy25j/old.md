@@ -11,7 +11,7 @@ Laurel opened with the Rock afire Explosion in October 1982. Unfortunately, ther
 | Stage                                                                   | Installed    | Removed      | Notes                           |
 |-------------------------------------------------------------------------|--------------|--------------|---------------------------------|
 | [Classic Stage]                                 | October 1982 | 1991         | Only ShowBiz Pizza in Maryland. |
-| [Concept Unification Stage]                     | 1991         | June 2022    | Collected by SPT Distribution   |
+| [Concept Unification Stage (3-Stage)]                     | 1991         | June 2022    | Collected by SPT Distribution   |
 | [Chuck E Live Stage (Dance Floor)] + Video Wall | June 2022    | Still in Use | 2021 Model.                     |
 
 ## Animatronics

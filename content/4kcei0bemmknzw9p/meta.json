@@ -1,42 +1,79 @@
 {
-    "title": "Pittsburgh, PA (20 McIntyre Square Dr)",
-    "storeNumber": "",
-    "startDate": "2001-05-22",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2001-05-22"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "0000-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2001-05-22",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.55021977",
-        "-80.01955373"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "tzs58eP0GopyDzUPX8_X.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Pittsburgh, PA (20 McIntyre Square Dr)",
+  "storeNumber": "544",
+  "startDate": "2001-05-22",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2001-05-22"
+    },
+    {
+      "n": "CEC 2015 Update Program",
+      "s": "2015-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-06-17"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2001-05-22",
+      "e": "2024-06-17",
+      "desc": ""
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-06-17",
+      "e": ""
+    },
+    {
+      "n": "Video Wall",
+      "desc": "",
+      "s": "2024-06-17",
+      "e": ""
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.55021977",
+    "-80.01955373"
+  ],
+  "citations": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "tzs58eP0GopyDzUPX8_X.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 32/16m Hybrid (Animatronic)",
+      "desc": "Originally a full 32m bot with the Late Night outfit. Head replaced with a 16m head from the Leominster, MA bot between October and December 2021.",
+      "l": "",
+      "s": "2001-05-22",
+      "e": "2024-06-17"
+    }
+  ],
+  "fixtures": [
+    {
+      "n": "'Chuck E. Cheese's' - Rockstar Logo (CEC Exterior Signage)",
+      "desc": "",
+      "s": "2015-00-00",
+      "e": "2024-06-17"
+    },
+    {
+      "n": "'Chuck E. Cheese' - Modern Logo (CEC Exterior Signage)",
+      "desc": "",
+      "s": "2024-06-17",
+      "e": ""
+    }
+  ]
 }

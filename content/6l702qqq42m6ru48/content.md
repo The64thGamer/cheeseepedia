@@ -1,5 +1,5 @@
-The ***Balcony Stage*** (known internally as ***The Stage***) was a Cyberamics stage type used at [Pizza Time Theatre] locations as a replacement for the [Cyberamics Portrait Shelf], and was installed from 1980 to 1986.
-The stage debuted at [San Jose, CA (1371 Kooser Rd)] [1] in May of 1980, and went extinct in 1993 at [Edmonton, Alberta, Canada (9271 34th Ave)]. From 1988 to 1989, most Balcony Stages would be retrofitted into [Chuck E.'s House Facade].
+The ***Balcony Stage*** (known internally as ***The Stage***) was a Cyberamics stage type used at [Pizza Time Theatre] locations as a replacement for the [Portrait / Shelf Stage], and was installed from 1980 to 1986.
+The stage debuted at [San Jose, CA (1371 Kooser Rd)] [1] in May of 1980, and went extinct in 1993 at [Edmonton, Alberta, Canada (9271 34th Ave)]. From 1988 to 1989, most Balcony Stages would be retrofitted into [Chuck E.'s House Facade (C-Stage)].
 
 ## History
 
@@ -16,12 +16,12 @@ The "Irish Stew" and [Around the World (Balcony Stage Theme)] showtapes would ha
 
 #### ShowBiz Pizza Time/Chuck E. Cheese's
 
-After [ShowBiz Pizza Place] bought out PTT in 1985, they would continue to open Pizza Time Theatre locations with Balcony Stages until January 1986, with the last PTT location being [Fairbanks, AK (600 Old Steese Hwy)]. In 1987, [Arlington, TX (2216 S Fielder Rd)] would replace their Balcony Stage with a [Chuck E's House], or "Rocker State." All locations forward would open with a Rocker Stage and several existing locations also switched to Rocker Stages. In 1988, ShowBiz corporate would set up Chuck E.'s House Facades to replace the fronts and backdrops of the Balcony Stage to make them look like a house.
+After [ShowBiz Pizza Place] bought out PTT in 1985, they would continue to open Pizza Time Theatre locations with Balcony Stages until January 1986, with the last PTT location being [Fairbanks, AK (600 Old Steese Hwy)]. In 1987, [Arlington, TX (2216 S Fielder Rd)] would replace their Balcony Stage with a [Chuck E.'s House (Rocker Stage)], or "Rocker State." All locations forward would open with a Rocker Stage and several existing locations also switched to Rocker Stages. In 1988, ShowBiz corporate would set up Chuck E.'s House Facade (C-Stage)s to replace the fronts and backdrops of the Balcony Stage to make them look like a house.
 The last Balcony Stage would be located at Edmonton, Alberta, Canada, which was replaced in 1993 for a [2-Stage]. Since then, the Balcony Stage has appeared as a cameo in a few modern era CEC Shows, mostly as a flashback.
 
 ### Similar Stage Types
 
-The stage at [Lake Forest, CA (24416 Muirlands Blvd)] would be hybrid between a Cyberamics Portrait Shelf, a Balcony Stage, and a Chuck E.'s House Facade, with the stage being removed with the locations closure in 2001. The aforementioned Kids World stage was a version of the Balcony Stage with different features. Unfortunately, the Kids World stage was destroyed in a fire.
+The stage at [Lake Forest, CA (24416 Muirlands Blvd)] would be hybrid between a Portrait / Shelf Stage, a Balcony Stage, and a Chuck E.'s House Facade (C-Stage), with the stage being removed with the locations closure in 2001. The aforementioned Kids World stage was a version of the Balcony Stage with different features. Unfortunately, the Kids World stage was destroyed in a fire.
 
 ## Design
 
@@ -33,7 +33,7 @@ Mr. Munch's Magic Madhouse was an area placed under The Bird Stage. The area had
 
 #### Cheese Crawl
 
-The Cheese Crawl was an area placed under the stage, and had 2 entrances. The area originally larger and had several holes to look through, though later variants had no holes, sometimes windows, and was generally smaller and more like a tube. The Cheese Crawl was removed in Chuck E.'s House Facade stages. The area was the first area exclusive to Balcony Stages.
+The Cheese Crawl was an area placed under the stage, and had 2 entrances. The area originally larger and had several holes to look through, though later variants had no holes, sometimes windows, and was generally smaller and more like a tube. The Cheese Crawl was removed in Chuck E.'s House Facade (C-Stage) stages. The area was the first area exclusive to Balcony Stages.
 
 ### Changes/Variants
 

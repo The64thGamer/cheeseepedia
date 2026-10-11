@@ -11,7 +11,7 @@ Originally, Colorado Springs featured a Rock-Afire Explosion, as all other ShowB
 | Stage                                                                                             | Installed        | Removed          | Notes                                                                                        |
 |---------------------------------------------------------------------------------------------------|------------------|------------------|----------------------------------------------------------------------------------------------|
 | [Classic Stage]                                                           | August 1982      | 1991/1992        | 7th and last ShowBiz Pizza to open in Colorado.                                              |
-| [Concept Unification Stage]                                               | 1991/1992        | 3rd Quarter 2001 | One of 5 ShowBiz Stores in Colorado to undergo Concept Unification.                          |
+| [Concept Unification Stage (3-Stage)]                                               | 1991/1992        | 3rd Quarter 2001 | One of 5 ShowBiz Stores in Colorado to undergo Concept Unification.                          |
 | [Studio C Beta], 32m                                                      | 3rd Quarter 2001 | September 2022   | Only Studio C Beta 32m in Colorado. Relocated to an expanded part of the store in 2006-2007. |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | September 2022   | Still In Use     | 2021 Model. Relocated back to original spot.                                                 |
 

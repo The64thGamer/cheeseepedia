@@ -1,4 +1,4 @@
-***105 W Prospect Rd, Store #865 (1)*** was a *ShowBiz Pizza Place* that opened on February 9, 1982, with a [Classic Stage], and closed as a *Chuck E. Cheese's* on April 13th, 2020, with a [Concept Unification Stage].
+***105 W Prospect Rd, Store #865 (1)*** was a *ShowBiz Pizza Place* that opened on February 9, 1982, with a [Classic Stage], and closed as a *Chuck E. Cheese's* on April 13th, 2020, with a [Concept Unification Stage (3-Stage)].
 
 ## History
 
@@ -19,7 +19,7 @@ Fort Collins originally had the Classic Stage featuring the Rock-afire Explosion
 | Stage                                               | Installed        | Removed                                  | Notes  |
 |-----------------------------------------------------|------------------|------------------------------------------|--------|
 | [Classic Stage]             | February 9, 1982 | 1991                                     | To do. |
-| [Concept Unification Stage] | 1991             | April 13, 2020, Last 3-Stage in Colorado | To do. |
+| [Concept Unification Stage (3-Stage)] | 1991             | April 13, 2020, Last 3-Stage in Colorado | To do. |
 
 ## Animatronics
 

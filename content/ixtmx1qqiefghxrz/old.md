@@ -7,7 +7,7 @@ Originally when the store opened, they had a Rock-afire Explosion, as all other 
 | Stage                                               | Installed | Removed       | Notes                                                             |
 |-----------------------------------------------------|-----------|---------------|-------------------------------------------------------------------|
 | [Classic Stage]             | June 1982 | 1991          | 11th ShowBiz Pizza store to open in Texas.                        |
-| [Concept Unification Stage] | 1991      | February 2007 | One of 17 ShowBiz stores in Texas to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991      | February 2007 | One of 17 ShowBiz stores in Texas to undergo Concept Unification. |
 
 ## History
 

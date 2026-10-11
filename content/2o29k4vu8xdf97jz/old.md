@@ -1,8 +1,8 @@
-***Sunnyvale, CA (1247 W El Camino Real)*** was a *Pizza Time Theatre* that opened in late 1980 with a [Cyberamics Portrait Shelf Stage], which closed in 1984.https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/mode/2up?q=sunnyvale The store was one of the two locations to feature the [Chuck E Cheese's Computer Learning Center].
+***Sunnyvale, CA (1247 W El Camino Real)*** was a *Pizza Time Theatre* that opened in late 1980 with a [Portrait / Shelf Stage], which closed in 1984.https://archive.org/details/the-pizza-times-newsletters/1980%20The%20Pizza%20Times%202-1/mode/2up?q=sunnyvale The store was one of the two locations to feature the [Chuck E Cheese's Computer Learning Center].
 
 ## Stages
 
-The store would open with a [Cyberamics Portrait Shelf Stage], alongside [The King / King Kat (Lounge)] in the lounge area.(1)
+The store would open with a [Portrait / Shelf Stage], alongside [The King / King Kat (Lounge)] in the lounge area.(1)
 
 ## History
 

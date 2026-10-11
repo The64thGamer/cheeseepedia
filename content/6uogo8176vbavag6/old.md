@@ -7,7 +7,7 @@ When this location first opened in 1980, it would feature the first Rock-A-Fire 
 | Stage                                               | Installed     | Removed       |
 |-----------------------------------------------------|---------------|---------------|
 | [Classic Stage]             | August 1980   | 1991          |
-| [Concept Unification Stage] | 1991          | 1999          |
+| [Concept Unification Stage (3-Stage)] | 1991          | 1999          |
 | [Studio C Alpha]            | 1999          | November 2022 |
 | Dance Floor + Video Wall                            | November 2022 | Still in Use. |
 

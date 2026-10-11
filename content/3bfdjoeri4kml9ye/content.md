@@ -574,7 +574,7 @@
 
 {9:02} characters
 
-{9:03} the concept unification stage would be
+{9:03} the Concept Unification Stage (3-Stage) would be
 
 {9:04} targeted specifically with most of them
 

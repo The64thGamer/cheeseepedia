@@ -9,7 +9,7 @@ St. Charles opened its doors on October 27th, 1982 with the Rock-Afire Explosion
 | Stage                                                                   | Installed    | Removed      | Notes                                                                        |
 |-------------------------------------------------------------------------|--------------|--------------|------------------------------------------------------------------------------|
 | [Classic Stage]                                 | October 1982 | 1991-1992    | 8th ShowBiz Pizza store to opne in Missouri.                                 |
-| [Concept Unification Stage]                     | 1991-1992    | 2000         | One of five ShowBiz Pizza stores in Missouri to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]                     | 1991-1992    | 2000         | One of five ShowBiz Pizza stores in Missouri to undergo Concept Unification. |
 | Studio C (1997)\|Studio C Alpha                                         | 2000         | October 2022 | Last Studio C Alpha &amp; 32m show in Missouri.                              |
 | [Chuck E Live Stage (Dance Floor)] + Video Wall | October 2022 | Still In Use | 2021 Model. First 2021 2.0 Store in Missouri.                                |
 

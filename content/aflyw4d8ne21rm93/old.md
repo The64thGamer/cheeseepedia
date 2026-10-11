@@ -10,7 +10,7 @@ Loves Park opened and closed with a Balcony Stage. When Loves Park relocated to 
 
 | Stage                                              | Installed     | Removed      | Notes                                                                                          |
 |----------------------------------------------------|---------------|--------------|------------------------------------------------------------------------------------------------|
-| [Balcony Stage] | November 1981 | October 1988 | Animatronics taken to be used at Rockford for their [Chuck E's House]. |
+| [Balcony Stage] | November 1981 | October 1988 | Animatronics taken to be used at Rockford for their [Chuck E.'s House (Rocker Stage)]. |
 
 ## Animatronics
 

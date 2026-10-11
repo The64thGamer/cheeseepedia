@@ -11,7 +11,7 @@ Originally, Flint featured a Rock-afire Explosion, as all other ShowBiz location
 | Stage                                               | Installed     | Removed   | Notes                                                                     |
 |-----------------------------------------------------|---------------|-----------|---------------------------------------------------------------------------|
 | [Classic Stage]             | December 1982 | 1991      | 7th ShowBiz Pizza to open in Michigan.                                    |
-| [Concept Unification Stage] | 1991          | June 2020 | One of 6 ShowBiz Pizza stores in Michigan to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991          | June 2020 | One of 6 ShowBiz Pizza stores in Michigan to undergo Concept Unification. |
 
 ## Animatronics
 

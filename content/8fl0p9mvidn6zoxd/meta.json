@@ -1,29 +1,38 @@
 {
   "title": "Bridgeville, PA (1035 Washington Pike)",
-  "storeNumber": "",
+  "storeNumber": "535",
   "startDate": "2002-00-00",
   "endDate": "",
   "remodels": [
     {
       "n": "Phase 3 (2000)",
-      "s": "2002-00-00"
+      "s": "2002-10-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2011-00-00"
+    },
+    {
+      "n": "CEC 2015 Update Program",
+      "s": "2017-00-00"
     },
     {
       "n": "CEC 2.0 Remodel Program",
-      "s": "2022-10-05"
+      "s": "2022-09-22"
     }
   ],
   "stages": [
     {
       "n": "Studio C Beta",
-      "s": "2002-00-00",
+      "s": "2002-10-00",
       "e": "2022-10-05",
       "desc": "32-movement bot."
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2022-10-05",
-      "desc": "2021 model."
+      "desc": "2021 model.",
+      "e": ""
     }
   ],
   "franchisees": [],
@@ -200,7 +209,7 @@
     "Front-Row-Joe"
   ],
   "downloadLinks": [],
-  "pageThumbnailFile": "uP3TmpXf2RD3wp8ihKiD.avif",
+  "pageThumbnailFile": "2RmkY06oiXcVjDqhTDZf.avif",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
@@ -208,10 +217,10 @@
   "animatronics": [
     {
       "n": "Chuck E. Cheese 32m (Animatronic)",
-      "desc": "Semi-destroyed, remaining parts split between two private collectors.",
+      "desc": "170th 32m bot ever produced. Semi-destroyed, remaining parts split between two private collectors.",
       "l": "170",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "2002-10-00",
+      "e": "2022-10-05"
     }
   ]
 }

@@ -2,12 +2,12 @@
 
 ## Stages
 
-Originally when the store opened, they had a Balcony Stage, as all other Pizza Time Theatres had. They would have the Balcony Stage for several years, until the late 80's or early 90's, when they would convert to Chuck E.'s House Facade, they would have it for a very short time, when in 1993, they would convert to a 2-Stage. Only major cosmetical changes to happen prior to 2011 was the replacement of the tuxedo with Cool Chuck sometime during the 2000s. In 2011, the [Lancaster, CA (44650 Valley Central Way)] location would relocate and with that, all of their animatronics would be sent to Northridge to replace their original 1981 PTT Cyberamics. They now have 1990s Cyberamics which are much sturdier than the originals and having cosmetics in much better shape. Despite Northridge getting the 2.0 remodel the stage's TV would be replaced by August 15th, 2023 and was also kept to become the 'permanent home of the Chuck E. Cheese animatronic gang'. Chuck E's outfit would be replaced with the Rockstar shirt on October 26th the same year, followed by the stage receiving lift curtains from [Huntington Beach, CA (15511 Edwards St)] on November 5th.
+Originally when the store opened, they had a Balcony Stage, as all other Pizza Time Theatres had. They would have the Balcony Stage for several years, until the late 80's or early 90's, when they would convert to Chuck E.'s House Facade (C-Stage), they would have it for a very short time, when in 1993, they would convert to a 2-Stage. Only major cosmetical changes to happen prior to 2011 was the replacement of the tuxedo with Cool Chuck sometime during the 2000s. In 2011, the [Lancaster, CA (44650 Valley Central Way)] location would relocate and with that, all of their animatronics would be sent to Northridge to replace their original 1981 PTT Cyberamics. They now have 1990s Cyberamics which are much sturdier than the originals and having cosmetics in much better shape. Despite Northridge getting the 2.0 remodel the stage's TV would be replaced by August 15th, 2023 and was also kept to become the 'permanent home of the Chuck E. Cheese animatronic gang'. Chuck E's outfit would be replaced with the Rockstar shirt on October 26th the same year, followed by the stage receiving lift curtains from [Huntington Beach, CA (15511 Edwards St)] on November 5th.
 
 | Stage                                                      | Installed      | Removed      |
 |------------------------------------------------------------|----------------|--------------|
 | [Balcony Stage]         | September 1981 | 1989-1990    |
-| [Chuck E.'s House Facade]           | 1989-1990      | 1993         |
+| [Chuck E.'s House Facade (C-Stage)]           | 1989-1990      | 1993         |
 | [2-Stage]                          | 1993           | Still in Use |
 | [Chuck E Live Stage (Dance Floor)] | August 2023    | Still in Use |
 | [Video Wall]                       | September 2023 | Still in Use |

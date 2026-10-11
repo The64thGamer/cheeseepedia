@@ -1,8 +1,8 @@
-***12293 E Iliff Ave*** was a *ShowBiz Pizza Place* which opened on January 28, 1981 with a [Classic Stage], and closed on April 20, 1994, as a *Chuck E. Cheese's Pizza* with a [Concept Unification Stage]. This location is widely recognized as the location of the 1993 Aurora, Colorado shooting(1), which ultimately led to the location's closure in 1994. The store itself was located in the Iliff Commons Shopping Center. (When it first opened, the shopping plaza it was in was called the London Square Shopping Center.)
+***12293 E Iliff Ave*** was a *ShowBiz Pizza Place* which opened on January 28, 1981 with a [Classic Stage], and closed on April 20, 1994, as a *Chuck E. Cheese's Pizza* with a [Concept Unification Stage (3-Stage)]. This location is widely recognized as the location of the 1993 Aurora, Colorado shooting(1), which ultimately led to the location's closure in 1994. The store itself was located in the Iliff Commons Shopping Center. (When it first opened, the shopping plaza it was in was called the London Square Shopping Center.)
 
 ## Stages
 
-The location opened with a [Classic Stage] show; then received the ShowBiz Pizza Campground upgrade in the late '80s.(2) The stage show was converted into the [Concept Unification Stage] between 1991 and 1992 and remained intact until the store's closure.
+The location opened with a [Classic Stage] show; then received the ShowBiz Pizza Campground upgrade in the late '80s.(2) The stage show was converted into the [Concept Unification Stage (3-Stage)] between 1991 and 1992 and remained intact until the store's closure.
 
 ## History
 

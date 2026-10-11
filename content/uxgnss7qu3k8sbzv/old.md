@@ -1,4 +1,4 @@
-***7809 N Blackstone Ave, Store #364*** is a Chuck E. Cheese's in Fresno, California. The store is located in a freestanding building in the Villaggio Shopping Center. This is not to be confused with the *Pizza Time Theatre* on [Fresno, CA (5384 N Blackstone Ave)] which opened in July/August 1980 and closed in May 1985 with a [Cyberamics Portrait Shelf Stage] which was in an unnamed Shopping Center 9 minutes away.
+***7809 N Blackstone Ave, Store #364*** is a Chuck E. Cheese's in Fresno, California. The store is located in a freestanding building in the Villaggio Shopping Center. This is not to be confused with the *Pizza Time Theatre* on [Fresno, CA (5384 N Blackstone Ave)] which opened in July/August 1980 and closed in May 1985 with a [Portrait / Shelf Stage] which was in an unnamed Shopping Center 9 minutes away.
 
 ## History
 

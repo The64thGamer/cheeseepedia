@@ -11,7 +11,7 @@ Originally, Grand Rapids featured a Rock-Afire Explosion, as all other ShowBiz l
 | Stage                                                                                             | Installed | Removed   | Notes                                                                     |
 |---------------------------------------------------------------------------------------------------|-----------|-----------|---------------------------------------------------------------------------|
 | [Classic Stage]                                                           | June 1983 | 1991      | Possibily the 12th and last ShowBiz to open in Michigan.                  |
-| [Concept Unification Stage]                                               | 1991      | 1999/2000 | One of 6 ShowBiz Pizza Stores in Michigan to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]                                               | 1991      | 1999/2000 | One of 6 ShowBiz Pizza Stores in Michigan to undergo Concept Unification. |
 | Studio C (1997)\|Studio C Alpha                                                                   | 1999/2000 | July 2023 | One of 6 Studio C Alphas installed in Michigan.                           |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | July 2023 | In Use    |                                                                           |
 

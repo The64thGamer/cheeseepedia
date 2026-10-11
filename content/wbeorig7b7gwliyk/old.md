@@ -2,7 +2,7 @@
 
 ## History
 
-Winnipeg opened its doors on April 30th, 1990, as the ninth Chuck E. Cheese store in Canada. Unfortunately, there is hardly any documentation of Winnipeg. In 1991, In the early-mid 90's, Winnipeg underwent a minor remodel removing some decor for newer decor and replacing the [Chuck E's House] for the [1-Stage]. Around 1997 or 1998, the location received the [SPT 1990's Remodel Program] removing older 90's decor, adding newer decor, another exterior change, and SkyTubes. Around July 2001, the location closed for unknown reasons, most likely due to lease or parking issues. After closure, the store became multiple businesses with the red awning still up until 2008-2009 when it was removed, and the entire building was re-painted. Currently, as of 2024, the location is still standing although taken up by a spa.
+Winnipeg opened its doors on April 30th, 1990, as the ninth Chuck E. Cheese store in Canada. Unfortunately, there is hardly any documentation of Winnipeg. In 1991, In the early-mid 90's, Winnipeg underwent a minor remodel removing some decor for newer decor and replacing the [Chuck E.'s House (Rocker Stage)] for the [1-Stage]. Around 1997 or 1998, the location received the [SPT 1990's Remodel Program] removing older 90's decor, adding newer decor, another exterior change, and SkyTubes. Around July 2001, the location closed for unknown reasons, most likely due to lease or parking issues. After closure, the store became multiple businesses with the red awning still up until 2008-2009 when it was removed, and the entire building was re-painted. Currently, as of 2024, the location is still standing although taken up by a spa.
 
 ## Stages
 
@@ -10,7 +10,7 @@ Originally, Winnipeg featured Chuck E.'s House, as all other Chuck E. Cheese loc
 
 | Stage                                     | Installed  | Removed   | Notes                                  |
 |-------------------------------------------|------------|-----------|----------------------------------------|
-| [Chuck E's House] | April 1990 | Mid-90's  | 9th Chuck E. Cheese to open in Canada. |
+| [Chuck E.'s House (Rocker Stage)] | April 1990 | Mid-90's  | 9th Chuck E. Cheese to open in Canada. |
 | [1-Stage]         | Mid-90's   | July 2001 | Only 1-Stage in Canada.                |
 
 ## Animatronics

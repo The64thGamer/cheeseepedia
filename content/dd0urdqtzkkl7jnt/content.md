@@ -1,4 +1,4 @@
-These one of a kind animatronic Birds were created exclusively for the [Irving, TX (3903 W Airport Fwy)] for use on their [Chuck E's House] stage. The manufacturer is unknown.
+These one of a kind animatronic Birds were created exclusively for the [Irving, TX (3903 W Airport Fwy)] for use on their [Chuck E.'s House (Rocker Stage)] stage. The manufacturer is unknown.
 
 ## Movement Rosetta
 

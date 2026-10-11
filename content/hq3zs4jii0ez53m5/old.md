@@ -6,7 +6,7 @@ Tallahassee was allegedly supposed to open with a Road Stage, however it ended u
 
 | Stage                                                      | Installed   | Removed     | Notes                                                                                    |
 |------------------------------------------------------------|-------------|-------------|------------------------------------------------------------------------------------------|
-| [Concept Unification Stage]        | April 1992  | May 5, 2024 | Last 3-Stage and Last MMBB Stage in Florida. Stage was in poor condition before removal. |
+| [Concept Unification Stage (3-Stage)]        | April 1992  | May 5, 2024 | Last 3-Stage and Last MMBB Stage in Florida. Stage was in poor condition before removal. |
 | [Chuck E Live Stage (Dance Floor)] | May 7, 2024 | In Use      |                                                                                          |
 | [Video Wall]                       | May 8, 2024 | In Use      |                                                                                          |
 

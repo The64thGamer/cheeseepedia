@@ -8,7 +8,7 @@ Shortly after opening, the [Classic Stage] was minorly updated to have a customi
 |---------------------------------------------------------------|------------------|------------------|
 | [Classic Stage]                       | January 1983     | Sometime in 1989 |
 | [Concept Unification Prototype Stage] | Sometime in 1989 | June 1990        |
-| [Concept Unification Stage]           | June 1990        | August 1996      |
+| [Concept Unification Stage (3-Stage)]           | June 1990        | August 1996      |
 | [Awesome Adventure Machine]           | August 1996      | 1997/1998        |
 | [Studio C Alpha]                      | 1997/1998        | December 2001    |
 

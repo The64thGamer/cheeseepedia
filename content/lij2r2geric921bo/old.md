@@ -11,7 +11,7 @@ Fort Wayne opened with the Rock afire Explosion in May 1982. Unfortunately, ther
 | Stage                                                                                             | Installed     | Removed       | Notes                                                                      |
 |---------------------------------------------------------------------------------------------------|---------------|---------------|----------------------------------------------------------------------------|
 | [Classic Stage]                                                           | May 1982      | 1991 or 1992  | Third ShowBiz Pizza store to open in Indiana                               |
-| [Concept Unification Stage]                                               | 1991 or 1992  | December 1998 | One of 7 ShowBiz Pizza stores in Indiana to receive Concept Unification.   |
+| [Concept Unification Stage (3-Stage)]                                               | 1991 or 1992  | December 1998 | One of 7 ShowBiz Pizza stores in Indiana to receive Concept Unification.   |
 | Studio C (1997)\|Studio C Alpha                                                                   | December 1998 | October 2022  | One of 4 Studio C Alphas installed in Indiana. Last 32m show in the state. |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | October 2022  | Still In Use  | 2021 Model.                                                                |
 

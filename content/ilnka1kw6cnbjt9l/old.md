@@ -11,7 +11,7 @@ Originally, Fairfax featured a Rock-Afire Explosion, as were all the other ShowB
 | Stage                                                                   | Installed     | Removed      | Notes                                    |
 |-------------------------------------------------------------------------|---------------|--------------|------------------------------------------|
 | [Classic Stage]                                 | December 1983 | 1991/1992    | 4th ShowBiz to open in Virginia.         |
-| [Concept Unification Stage]                     | 1991/1992     | 2000         | One of 5 to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]                     | 1991/1992     | 2000         | One of 5 to undergo Concept Unification. |
 | Studio C (1997)\|Studio C Alpha                                         | 2000          | October 2018 | One of 5 installed in Virginia.          |
 | [Chuck E Live Stage (Dance Floor)] + Video Wall | October 2018  | Still In Use | 2017 Model.                              |
 

@@ -7,7 +7,7 @@ North Richland Hills opened with the Rock afire Explosion in April 1982. Unfortu
 | Stage                                               | Installed  | Removed       |
 |-----------------------------------------------------|------------|---------------|
 | [Classic Stage]             | April 1982 | 1991          |
-| [Concept Unification Stage] | 1991       | 2000          |
+| [Concept Unification Stage (3-Stage)] | 1991       | 2000          |
 | Studio C (1997)\|Studio C Alpha                     | 2000       | May 2023      |
 | Dance Floor + Video Wall                            | May 2023   | Still in Use. |
 

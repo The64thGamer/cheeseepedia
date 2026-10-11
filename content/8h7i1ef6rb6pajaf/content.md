@@ -8,7 +8,7 @@ Moon is most commonly depicted with a masculine posh voice courtesy of Burt Wils
 
 ### Present Day
 
-Moon was occasionally used as an announcer on the [Concept Unification Stage]. As of 2024, Moon is used for female backing vocals for Chuck E. Cheese songs. Original parts for Moon would start to be reproduced by Creative Engineering's new employees in 2023.
+Moon was occasionally used as an announcer on the [Concept Unification Stage (3-Stage)]. As of 2024, Moon is used for female backing vocals for Chuck E. Cheese songs. Original parts for Moon would start to be reproduced by Creative Engineering's new employees in 2023.
 
 ## Animatronics
 

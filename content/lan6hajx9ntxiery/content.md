@@ -8,7 +8,7 @@ The animatronics were first developed by PTT Inc. as a replacement for the Origi
 
 ### Pizza Time Theatre
 
-in the Late 1980's.]] In 1979, The first Cyberamic Chuck E. Cheese was installed at the Pizza Time Theatre in [Concord, CA (1975 Diamond Blvd)] on a [Cyberamics Portrait Shelf Stage], with several more bots following. Early Chuck Cyberamics, such as the one at [Sacramento , CA (7020 Stockton Blvd)], had cosmetics more reminiscent of prototype iterations of the character seen at [San Jose, CA (370 S Winchester Blvd)] and [San Jose, CA (1371 Kooser Rd)]. In 1979, Fantasy Forest would produce a Cyberamic Chuck Costume. In early to mid 1980, due to Nolan Bushnell's commitment to The Great American Smoke-Out, all existing & future Cyberamic Chuck bots would have their Cigars removed. In May 1980, A Cyberamic Chuck bot was placed on the Balcony Stage of the Pizza Time Theatre on [San Jose, CA (1371 Kooser Rd)](1). In 1983, a [The King / King Kat (Lounge)]-styled Cyberamic Chuck E. Cheese, Known as [Half-A-Chuck (Cyberamic)], was built as a prototype. It was later given to the Foothill College Electronics Museum in San Jose, California. In November of that same year, PTT would cease it's manufacturing of bots and operate its Cyberamics division as a maintenance facility only. At an unknown time Pre-Merger, A PTT location replaced their Chuck costume's head with a Cyber Chuck head.
+in the Late 1980's.]] In 1979, The first Cyberamic Chuck E. Cheese was installed at the Pizza Time Theatre in [Concord, CA (1975 Diamond Blvd)] on a [Portrait / Shelf Stage], with several more bots following. Early Chuck Cyberamics, such as the one at [Sacramento , CA (7020 Stockton Blvd)], had cosmetics more reminiscent of prototype iterations of the character seen at [San Jose, CA (370 S Winchester Blvd)] and [San Jose, CA (1371 Kooser Rd)]. In 1979, Fantasy Forest would produce a Cyberamic Chuck Costume. In early to mid 1980, due to Nolan Bushnell's commitment to The Great American Smoke-Out, all existing & future Cyberamic Chuck bots would have their Cigars removed. In May 1980, A Cyberamic Chuck bot was placed on the Balcony Stage of the Pizza Time Theatre on [San Jose, CA (1371 Kooser Rd)](1). In 1983, a [The King / King Kat (Lounge)]-styled Cyberamic Chuck E. Cheese, Known as [Half-A-Chuck (Cyberamic)], was built as a prototype. It was later given to the Foothill College Electronics Museum in San Jose, California. In November of that same year, PTT would cease it's manufacturing of bots and operate its Cyberamics division as a maintenance facility only. At an unknown time Pre-Merger, A PTT location replaced their Chuck costume's head with a Cyber Chuck head.
 
 ### Chuck E. Cheese's
 
@@ -44,10 +44,10 @@ The bot features 8 movements in total.
 
 | Name | First Installed | Last Removed | Notes |
 | ---- | --------------- | ------------ | ----- |
-| [Cyberamics Portrait Shelf Stage] | 1979, [Concord, CA (1975 Diamond Blvd)] | 2001, [Lake Forest, CA (24416 Muirlands Blvd)] | Also installed in the [Winchester PTT Show] In 1981. |
+| [Portrait / Shelf Stage] | 1979, [Concord, CA (1975 Diamond Blvd)] | 2001, [Lake Forest, CA (24416 Muirlands Blvd)] | Also installed in the [Winchester PTT Show] In 1981. |
 | [Balcony Stage] | 1980, [San Jose, CA (1371 Kooser Rd)] | 1993, [Edmonton, Alberta, Canada (9271 34th Ave)] |  |
-| [Chuck E's House] | 1987, [Arlington, TX (2216 S Fielder Rd)] | 2022, [Rockford, IL (3600 E State St)] | Only ShowBiz Stage to use the Cyberamic Chuck bots. First Stage to use a Legged Chuck Bot. |
-| [Chuck E.'s House Facade] | 1989, [Anchorage, AK (308 E Northern Lights Blvd)] | 2003, [Tacoma, WA (4911 Tacoma Mall Blvd)] | Last Half bodied Chuck Cyber. |
+| [Chuck E.'s House (Rocker Stage)] | 1987, [Arlington, TX (2216 S Fielder Rd)] | 2022, [Rockford, IL (3600 E State St)] | Only ShowBiz Stage to use the Cyberamic Chuck bots. First Stage to use a Legged Chuck Bot. |
+| [Chuck E.'s House Facade (C-Stage)] | 1989, [Anchorage, AK (308 E Northern Lights Blvd)] | 2003, [Tacoma, WA (4911 Tacoma Mall Blvd)] | Last Half bodied Chuck Cyber. |
 | [Road Stage] | 1990, [Jonesboro, GA (335 Upper Riverdale Rd)] | 2025, [Mississauga, Ontario, Canada (4141 Dixie Rd)] | Final stage type to feature half body Cyberamics. |
 | [2-Stage] | 1992, [White Settlement, TX (7750 Scott St)] | Still Used |  |
 | [1-Stage] | 1992, [Waldorf, MD (2928 Festival Way)] | Still Used |  |

@@ -2,7 +2,7 @@
 
 ## History
 
-The Colonie Pizza Time Theatre opened on December 27, 1982, with a Balcony Stage with the World of Music theme and Madame Oink. The store was one of the first five Pizza Time Theatre locations to open in the state of New York. In 1989, the store received a Chuck E.'s House Facade. In 1992/1993, the store would replace the Chuck E.'s House Facade with a 2-Stage.
+The Colonie Pizza Time Theatre opened on December 27, 1982, with a Balcony Stage with the World of Music theme and Madame Oink. The store was one of the first five Pizza Time Theatre locations to open in the state of New York. In 1989, the store received a Chuck E.'s House Facade (C-Stage). In 1992/1993, the store would replace the Chuck E.'s House Facade (C-Stage) with a 2-Stage.
 
 ## Closure
 

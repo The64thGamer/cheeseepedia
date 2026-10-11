@@ -1,4 +1,4 @@
-***18701 E 39th St*** is a *Chuck E. Cheese's* that opened on May 2012 (day unknown) and is still open today with a [Chuck E Live Stage (Dance Floor)] + [Video Wall] and the 2.0 remodel. This was the relocation of [Independence, MO (4039 S Noland Rd)], which opened on October 14, 1980 as a ShowBiz Pizza, and closed in May 2012 (day unknown) with a [Concept Unification Stage].
+***18701 E 39th St*** is a *Chuck E. Cheese's* that opened on May 2012 (day unknown) and is still open today with a [Chuck E Live Stage (Dance Floor)] + [Video Wall] and the 2.0 remodel. This was the relocation of [Independence, MO (4039 S Noland Rd)], which opened on October 14, 1980 as a ShowBiz Pizza, and closed in May 2012 (day unknown) with a [Concept Unification Stage (3-Stage)].
 
 ## Stages
 

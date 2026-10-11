@@ -2,14 +2,14 @@
 
 ## History
 
-Richland would open on September 30th, 1982 as of 8 Pizza Time Theatres in Washington State. Like most other Pizza Time Theatres, Richland would have a Balcony Stage. it's unknown what Cabaret Characters Richland had as there are no photos or videos of Richland as a Pizza Time Theatre. In 1989, Richland would receive the 1988 Update of the 1986 SPT Remodel Program which involved removing the Balcony Stage for one of three [Chuck E.'s House Facade] installed in the state. They would have that stage for almost 2 years until sometime in Early-Mid 1991 when it was converted into the state's only Road Stage. The store would then receive an update to the 1990s Major Remodel in the Mid 1990's. At some point, the dim lights were removed for bright florescent lighting. In 2014-2015, the store would have some of it's walls painted in the colors of the 2015 Remodel. The store would remain this way until September 9, 2018 when the store would be permanently closed for good and would then relocate to [Kennewick, WA (6340 W Rio Grande Ave)] as Washington State's very first 2.0 store. After closure, it would later temporarily turn into a voting center.
+Richland would open on September 30th, 1982 as of 8 Pizza Time Theatres in Washington State. Like most other Pizza Time Theatres, Richland would have a Balcony Stage. it's unknown what Cabaret Characters Richland had as there are no photos or videos of Richland as a Pizza Time Theatre. In 1989, Richland would receive the 1988 Update of the 1986 SPT Remodel Program which involved removing the Balcony Stage for one of three [Chuck E.'s House Facade (C-Stage)] installed in the state. They would have that stage for almost 2 years until sometime in Early-Mid 1991 when it was converted into the state's only Road Stage. The store would then receive an update to the 1990s Major Remodel in the Mid 1990's. At some point, the dim lights were removed for bright florescent lighting. In 2014-2015, the store would have some of it's walls painted in the colors of the 2015 Remodel. The store would remain this way until September 9, 2018 when the store would be permanently closed for good and would then relocate to [Kennewick, WA (6340 W Rio Grande Ave)] as Washington State's very first 2.0 store. After closure, it would later temporarily turn into a voting center.
 
 ## Stages
 
 | Stage                                              | Installed      | Removed        | Notes                                                                            |
 |----------------------------------------------------|----------------|----------------|----------------------------------------------------------------------------------|
 | [Balcony Stage] | September 1982 | 1989           | One of 8 Pizza Time Theatre to open in the state.                                |
-| [Chuck E.'s House Facade]   | 1989           | Early-Mid 1991 | One of three installed in Washington.                                            |
+| [Chuck E.'s House Facade (C-Stage)]   | 1989           | Early-Mid 1991 | One of three installed in Washington.                                            |
 | [Road Stage]    | Early-Mid 1991 | September 2018 | Only one installed in Washington State. Last Road Stage with Tuxedo &amp; Derby. |
 
 ## Animatronics

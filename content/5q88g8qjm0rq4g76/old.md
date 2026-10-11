@@ -1,8 +1,8 @@
-***901 Harbor Blvd*** (now ***1111 S. Harbor Blvd***) was a *Chuck E. Cheese's Pizza Time Theatre* that opened in May 1980 and closed in December 1984 with a [Cyberamics Portrait Shelf Stage].https://www.newspapers.com/article/the-los-angeles-times-california-ptt-sal/32792267/ This was the 10th CEC ever opened.
+***901 Harbor Blvd*** (now ***1111 S. Harbor Blvd***) was a *Chuck E. Cheese's Pizza Time Theatre* that opened in May 1980 and closed in December 1984 with a [Portrait / Shelf Stage].https://www.newspapers.com/article/the-los-angeles-times-california-ptt-sal/32792267/ This was the 10th CEC ever opened.
 
 ## Stage
 
-La Habra opened with a [Cyberamics Portrait Shelf Stage]. However, further documentation is unknown.
+La Habra opened with a [Portrait / Shelf Stage]. However, further documentation is unknown.
 
 ## History
 
@@ -10,7 +10,7 @@ Pizza Time Theatre would announce in December of 1979 a La Habra store opening i
 
 ### Opening
 
-La Habra opened in May of 1980 with a [Cyberamics Portrait Shelf Stage], and was the 10th PTT to open.(3)(1) By May of 1981 La Habra would join with the Huntington Beach, Fullerton, and Garden Grove stores for two sports promotions. One would be sponsoring alongside the Long Beach store the California Surfs soccer team's MVP award, and the other was hosting a softball league called the 'Pizza Leagues'. La Habra's team would be the champions of the league.(5)
+La Habra opened in May of 1980 with a [Portrait / Shelf Stage], and was the 10th PTT to open.(3)(1) By May of 1981 La Habra would join with the Huntington Beach, Fullerton, and Garden Grove stores for two sports promotions. One would be sponsoring alongside the Long Beach store the California Surfs soccer team's MVP award, and the other was hosting a softball league called the 'Pizza Leagues'. La Habra's team would be the champions of the league.(5)
 
 ### Closing
 

@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-afire Explosion, as all other 
 | Stage                                               | Installed    | Removed      | Notes                                                                     |
 |-----------------------------------------------------|--------------|--------------|---------------------------------------------------------------------------|
 | [Classic Stage]             | October 1982 | 1991         | 2nd ShowBiz Pizza Store in Michigan.                                      |
-| [Concept Unification Stage] | 1991         | 1999         | One of 6 ShowBiz Pizza Stores in Michigan to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991         | 1999         | One of 6 ShowBiz Pizza Stores in Michigan to undergo Concept Unification. |
 | Studio C (1997)\|Studio C Alpha                     | 1999         | August 2019  | One of 6 Studio C Alphas installed in Michigan.                           |
 | Dance Floor                                         | August 2019  | Still in use | 2019 Model.                                                               |
 

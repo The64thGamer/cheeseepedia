@@ -11,7 +11,7 @@ Originally, Sacramento (Arden) had a Balcony Stage when it first opened in Febru
 | Stage                                              | Installed             | Removed          | Notes                                |
 |----------------------------------------------------|-----------------------|------------------|--------------------------------------|
 | [Balcony Stage] | February 1982         | Late 80's        | One of many installed in California. |
-| [Chuck E.'s House Facade]   | Late 80's             | Early 90's       | One of many installed in California. |
+| [Chuck E.'s House Facade (C-Stage)]   | Late 80's             | Early 90's       | One of many installed in California. |
 | [2-Stage]                  | Early 90's            | January 22, 2024 | One of many installed in California. |
 | Dance Floor + Video Wall                           | January-February 2024 | Still in use.    |                                      |
 

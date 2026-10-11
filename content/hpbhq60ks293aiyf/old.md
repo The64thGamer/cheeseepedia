@@ -1,11 +1,11 @@
-***Pasadena, CA (3765 E Foothill Blvd)*** was a *ShowBiz Pizza Place* which opened on December 15, 1982 with a [Classic Stage], and closed in October 1993, as a *Chuck E. Cheese's Pizza* with a [Concept Unification Stage]. The store relocated to [Pasadena, CA (3737 E Foothill Blvd)], which is still open to this day. This location is known for being the last ShowBiz Pizza location to undergo [Concept Unification].
+***Pasadena, CA (3765 E Foothill Blvd)*** was a *ShowBiz Pizza Place* which opened on December 15, 1982 with a [Classic Stage], and closed in October 1993, as a *Chuck E. Cheese's Pizza* with a [Concept Unification Stage (3-Stage)]. The store relocated to [Pasadena, CA (3737 E Foothill Blvd)], which is still open to this day. This location is known for being the last ShowBiz Pizza location to undergo [Concept Unification].
 
 ## Stages
 
 | Stages                                              | Installed     | Removed      | Notes                                                                                                                                                               |
 |-----------------------------------------------------|---------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Classic Stage]             | December 1982 | March 1993   | Second ShowBiz Pizza in California.                                                                                                                                 |
-| [Concept Unification Stage] | March 1993    | October 1993 | One of 9 ShowBiz Pizza stores in California to undergo Concept Unification. Last ShowBiz to convert into a Chuck E Cheese. One of the first 3-Stages to be removed. |
+| [Concept Unification Stage (3-Stage)] | March 1993    | October 1993 | One of 9 ShowBiz Pizza stores in California to undergo Concept Unification. Last ShowBiz to convert into a Chuck E Cheese. One of the first 3-Stages to be removed. |
 
 ## Animatronics
 

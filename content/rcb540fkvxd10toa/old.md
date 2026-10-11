@@ -11,7 +11,7 @@ Davenport opened with the Rock-afire Explosion in February 1981. Unfortunately, 
 | Stage                                                      | Installed      | Removed        | Notes                               |
 |------------------------------------------------------------|----------------|----------------|-------------------------------------|
 | [Classic Stage]                    | February 1981  | April 1991     | Second ShowBiz Pizza Place in Iowa. |
-| [Concept Unification Stage]        | April 1991     | September 2019 |                                     |
+| [Concept Unification Stage (3-Stage)]        | April 1991     | September 2019 |                                     |
 | [Chuck E Live Stage (Dance Floor)] | September 2019 | April 2024     | 2019 Model. First 2.0 in Iowa.      |
 
 ## Animatronics

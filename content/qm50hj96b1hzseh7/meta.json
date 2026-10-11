@@ -1,33 +1,57 @@
 {
-    "title": "Kokomo, IN (1919 South Reed Rd)",
-    "storeNumber": "",
-    "startDate": "2004-04-06",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2004-04-06"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Cappa",
-            "s": "2004-04-06"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.46334952",
-        "-86.10999288"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "Kokomo2018.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Kokomo, IN (1919 South Reed Rd)",
+  "storeNumber": "341",
+  "startDate": "2004-04-06",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Phase 3 (2000)",
+      "s": "2004-04-06"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2007-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "s": "2004-04-06",
+      "e": "",
+      "desc": "16-movement bot."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "SkyTubes",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "2018-00-00"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.46334952",
+    "-86.10999288"
+  ],
+  "citations": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Kokomo2018.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "desc": "Avenger cap removed in 2013. Programming discontinued in 2022.",
+      "l": "",
+      "s": "2004-04-06",
+      "e": ""
+    }
+  ]
 }

@@ -29,7 +29,7 @@
       "desc": "Opened with Harmony Howlette II (Balcony Stage Theme)."
     },
     {
-      "n": "Chuck E.'s House Facade",
+      "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "1989-00-00",
       "e": "1992-00-00",
       "desc": "Did not receive a porch or the Singing Flowers (Cyberamic)."
@@ -98,7 +98,7 @@
     "Pizza Time Theatre",
     "Chuck E. Cheese",
     "Balcony Stage",
-    "Chuck E.'s House Facade",
+    "Chuck E.'s House Facade (C-Stage)",
     "2-Stage"
   ],
   "animatronics": [
@@ -134,7 +134,7 @@
     },
     {
       "n": "Warblettes (Cyberamic)",
-      "desc": "Black variant. Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "desc": "Black variant. Removed upon installation of Chuck E.'s House Facade (C-Stage). Current whereabouts unknown.",
       "s": "1982-03-17",
       "e": "1989-00-00"
     },
@@ -170,13 +170,13 @@
     },
     {
       "n": "Band Board (Cyberamic)",
-      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "desc": "Removed upon installation of Chuck E.'s House Facade (C-Stage). Current whereabouts unknown.",
       "s": "1982-03-17",
       "e": "1989-00-00"
     },
     {
       "n": "Flag Wavers (Cyberamic)",
-      "desc": "Removed upon installation of Chuck E.'s House Facade. Current whereabouts unknown.",
+      "desc": "Removed upon installation of Chuck E.'s House Facade (C-Stage). Current whereabouts unknown.",
       "s": "1982-03-17",
       "e": "1989-00-00"
     }
@@ -220,7 +220,7 @@
     },
     {
       "n": "PTT Warblettes Name Sign",
-      "desc": "Removed with the Warblettes upon installation of Chuck E.'s House Facade.",
+      "desc": "Removed with the Warblettes upon installation of Chuck E.'s House Facade (C-Stage).",
       "s": "1982-03-17",
       "e": "1989-00-00"
     }

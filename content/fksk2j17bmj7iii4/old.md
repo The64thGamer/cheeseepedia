@@ -11,7 +11,7 @@ Originally, Atlanta featured a Rock-Afire Explosion, as all other ShowBiz locati
 | Stage                                                                                             | Installed     | Removed       | Notes                                                                 |
 |---------------------------------------------------------------------------------------------------|---------------|---------------|-----------------------------------------------------------------------|
 | [Classic Stage]                                                           | August 1982   | 1991/1992     | 7th ShowBiz Pizza Store to open in Georgia.                           |
-| [Concept Unification Stage]                                               | 1991/1992     | 1999/2000     | One of six ShowBiz Stores in Georgia to undergo Concept Unification.  |
+| [Concept Unification Stage (3-Stage)]                                               | 1991/1992     | 1999/2000     | One of six ShowBiz Stores in Georgia to undergo Concept Unification.  |
 | Studio C (1997)\|Studio C Alpha                                                                   | 1999/2000     | February 2023 | One of 8 Studio C Alphas installed in Georgia. Last one in the state. |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | February 2023 | Still In Use  | 2021 Model.                                                           |
 

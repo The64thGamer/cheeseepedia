@@ -1,7 +1,7 @@
 Welcome to Cheese-E-Pedia! This introduction article will help you get started with the basics to venture into our tons of articles.
 
 
-The ***[Rock-afire Explosion]*** was an animatronic band created by [Creative Engineering] for [ShowBiz Pizza Place] restaurants in August of 1980, which continued at its locations until 1992- where they were retrofitted with [Chuck E. Cheese's] characters as the new [Concept Unification Stage]. The Rock-afire also appeared at family entertainment centers starting in the late 80's, and continue to be at various centres to this day.
+The ***[Rock-afire Explosion]*** was an animatronic band created by [Creative Engineering] for [ShowBiz Pizza Place] restaurants in August of 1980, which continued at its locations until 1992- where they were retrofitted with [Chuck E. Cheese's] characters as the new [Concept Unification Stage (3-Stage)]. The Rock-afire also appeared at family entertainment centers starting in the late 80's, and continue to be at various centres to this day.
 
 ## Characters / Animatronics
 

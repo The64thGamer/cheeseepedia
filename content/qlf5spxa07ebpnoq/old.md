@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Stage                                               | Installed    | Removed   | Notes                                                                  |
 |-----------------------------------------------------|--------------|-----------|------------------------------------------------------------------------|
 | [Classic Stage]             | January 1986 | 1991-1992 | All Eight ShowBiz locations in Tennessee was converted to stage below. |
-| [Concept Unification Stage] | 1991-1992    | 2001      | One of eight Tennessee locations to get Concept Unification.           |
+| [Concept Unification Stage (3-Stage)] | 1991-1992    | 2001      | One of eight Tennessee locations to get Concept Unification.           |
 |                                                     |              |           |                                                                        |
 
 ## Animatronics

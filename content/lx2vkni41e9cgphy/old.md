@@ -1,4 +1,4 @@
-***Richardson, TX (1235 E Belt Line Rd)*** ***Store #594***(1) was a *ShowBiz Pizza Place* which opened on April 29, 1982 with a [Classic Stage], and closed in November 2006 (day unknown) as a *Chuck E. Cheese's* with a [Concept Unification Stage]. They would then relocate to [Garland, TX (4992 State Hwy 190)]. This is not to be confused with the Richardson, TX (525 W Arapaho Rd) Pizza Time Theatre which opened in October 1981 and closed in 1983.
+***Richardson, TX (1235 E Belt Line Rd)*** ***Store #594***(1) was a *ShowBiz Pizza Place* which opened on April 29, 1982 with a [Classic Stage], and closed in November 2006 (day unknown) as a *Chuck E. Cheese's* with a [Concept Unification Stage (3-Stage)]. They would then relocate to [Garland, TX (4992 State Hwy 190)]. This is not to be confused with the Richardson, TX (525 W Arapaho Rd) Pizza Time Theatre which opened in October 1981 and closed in 1983.
 
 ## History
 
@@ -9,7 +9,7 @@ Richardson opened its doors on April 29th, 1982, with a Rock-Afire Explosion and
 | Stage                                               | Installed  | Removed       | Notes                                                                   |
 |-----------------------------------------------------|------------|---------------|-------------------------------------------------------------------------|
 | [Classic Stage]             | April 1982 | 1991          | 9th ShowBiz Pizza store to open in Texas.                               |
-| [Concept Unification Stage] | 1991       | November 2006 | One of 17 ShowBiz Pizza stores in Texas to receive Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991       | November 2006 | One of 17 ShowBiz Pizza stores in Texas to receive Concept Unification. |
 
 ## Animatronics
 

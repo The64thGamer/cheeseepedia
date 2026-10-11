@@ -1,4 +1,4 @@
-***2726 NE Vivion Rd***, ***Store #82***(1) was a *[Chuck E Cheese's]* that opened as the first *[ShowBiz Pizza Place]* on March 2nd, 1980https://www.showbizpizza.com/info/documents/spp/spp\_memos\_80.pdf(2), and closed in Spring 2007 as a *Chuck E. Cheese's* with a [Concept Unification Stage]. It is commonly referred to by fans as 'Antioch.' This location is not to be confused with the [Kansas City, MO (9196 N Skyview Ave)], which opened on August 4, 2008 and is still open today with the 2.0 remodel.
+***2726 NE Vivion Rd***, ***Store #82***(1) was a *[Chuck E Cheese's]* that opened as the first *[ShowBiz Pizza Place]* on March 2nd, 1980https://www.showbizpizza.com/info/documents/spp/spp\_memos\_80.pdf(2), and closed in Spring 2007 as a *Chuck E. Cheese's* with a [Concept Unification Stage (3-Stage)]. It is commonly referred to by fans as 'Antioch.' This location is not to be confused with the [Kansas City, MO (9196 N Skyview Ave)], which opened on August 4, 2008 and is still open today with the 2.0 remodel.
 
 ## History
 
@@ -13,7 +13,7 @@ Originally when the store first opened as a ShowBiz Pizza Place, they had the [W
 | [Wolf Pack 5](0)(3)(4)         | March 1980  | 1981        |
 | [Wolfman Showtape] Disco Room? | March 1980? | 1981?       |
 | [Classic Stage]                | 1981        | 1991/1992   |
-| [Concept Unification Stage](5) | 1991/1992   | Spring 2007 |
+| [Concept Unification Stage (3-Stage)](5) | 1991/1992   | Spring 2007 |
 
 ## Animatronics
 

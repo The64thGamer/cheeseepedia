@@ -1,8 +1,8 @@
-Chuck E.'s House Facade' (C-Stage)' was a prefabricated false front which, when applied over an existing [Balcony Stage], transforms it into a house.(1)
+Chuck E.'s House Facade (C-Stage)' (C-Stage)' was a prefabricated false front which, when applied over an existing [Balcony Stage], transforms it into a house.(1)
 
 ## History
 
-'Chuck E.’s House Facade' debuted at the [Torrance, CA (16920 Prairie Ave)] location in the fall of 1988 and went extinct in 2003 when the [Tacoma, WA (4911 Tacoma Mall Blvd)] location replaced the facade for Studio C. The Facade would end up becoming the last stage created with the Pizza Time Players positioning-- as the next stage to be produced, the [Concept Unification Stage], introduced Munch's Make-Believe Band.
+'Chuck E.’s House Facade' debuted at the [Torrance, CA (16920 Prairie Ave)] location in the fall of 1988 and went extinct in 2003 when the [Tacoma, WA (4911 Tacoma Mall Blvd)] location replaced the facade for Studio C. The Facade would end up becoming the last stage created with the Pizza Time Players positioning-- as the next stage to be produced, the [Concept Unification Stage (3-Stage)], introduced Munch's Make-Believe Band.
 
 ## Design
 
@@ -41,7 +41,7 @@ This stage kept the same concept as the Balcony Stage; however, it was now theme
 | [Salinas, CA (957 N Main St)] | One of the many installed in California. Closed sometime in August 1995. | 1989/1990 | August 1995 |
 | [Stockton, CA (4555 N Pershing Ave)] | One of many installed in California. Replaced by a 2-Stage in 1993. | 1989/1990 | 1993 |
 | [Sun Valley, CA (8357 Laurel Canyon Blvd)] | One of many installed in California. Closed in 1992 and relocated [Sun Valley, CA (8357 Laurel Canyon Blvd)] with a Road Stage. | 1989/1990 | 1992 |
-| [Torrance, CA (16920 Prairie Ave)] | First Chuck E's House Facade ever installed. Had a unique design specific to this store that was also featured at Bell which had No 'C' on the lattice. Replaced by a 2-Stage in around 1995/1996. | 1988 | 1995/1996 |
+| [Torrance, CA (16920 Prairie Ave)] | First Chuck E.'s House Facade (C-Stage) ever installed. Had a unique design specific to this store that was also featured at Bell which had No 'C' on the lattice. Replaced by a 2-Stage in around 1995/1996. | 1988 | 1995/1996 |
 | [Tracy, CA (775 W Clover Rd)] | One of many installed in California. Featured in 'CEC Live Highlight Film 1992' back in September 1992. Closed sometime in 1995. | 1989/1990 | 1995 |
 | [Valencia, CA (23154 Valencia Blvd)] | One of many installed in California. Replaced with an unknown stage in August 1994. | 1989 | August 1994 |
 | [Ventura, CA (4714 Telephone Rd)] | One of the many installed in California. Replaced by a 2-Stage around 1996/1997. | 1988/1989 | 1996/1997 |
@@ -53,7 +53,7 @@ This stage kept the same concept as the Balcony Stage; however, it was now theme
 | [Waukegan, IL (2211 Grand Ave)] | One of three installed in Illinois. Converted into a 2-Stage in around 1994. Closed January 1997. Show sent to [Fairview Heights, IL (10850 Lincoln Trail)]. | 1989/1990 | 1994 |
 | [Louisville, KY (5743 Preston Hwy)] | 3rd to last C-Stage in existence. One of two installed in Kentucky. Received Early 90s Helen cosmetics in 1991/1992. No 'C' on the lattice. Closed sometime in November 1997. | 1989/1990 | November 1997 |
 | [Louisville, KY (5000 Shelbyville Rd)] | One of two installed in Kentucky. Closed on December 1st, 1991. | 1989 | 1991 |
-| [Fall River, MA (35 Mariano Bishop Blvd)] | Only C-Stage in Massachusetts, one of three in New England. Closed in March/April 1991. Animatronics were originally from the [Danvers, MA (139 Endicott St)] location. The newest location to get the Chuck E's House Facade (C-Stage). | 1989/1990 | March/April 1991. |
+| [Fall River, MA (35 Mariano Bishop Blvd)] | Only C-Stage in Massachusetts, one of three in New England. Closed in March/April 1991. Animatronics were originally from the [Danvers, MA (139 Endicott St)] location. The newest location to get the Chuck E.'s House Facade (C-Stage) (C-Stage). | 1989/1990 | March/April 1991. |
 | [Silver Spring, MD (13807 Outlet Dr)] | One of two or only one installed in Maryland. Replaced with a 2-Stage in 1993/1994. Closed on August 8, 2016, for unknown reasons. | 1989 | 1994 |
 | [St Cloud, MN (3333 W Division St)] | One of two or only one installed in Minnesota. Closed in April 1992. | 1989/1990 | April 1992 |
 | [Jackson, MS (5465 I-55)] | Received 90s cosmetics at some point until removal. Only one that was installed in Mississippi. Replaced with a [Studio C Alpha] in around March 1999. Relocated to [Jackson, MS (6352 Ridgewood Court Rd)] in Summer 2009 with a Studio C Beta reusing the [Chuck E. Cheese 32m (Animatronic)]. | 1989/1990 | Around March 1999 |
@@ -71,7 +71,7 @@ This stage kept the same concept as the Balcony Stage; however, it was now theme
 | [Columbus, OH (5842 Columbus Square)] | One of five installed in Ohio. Closed in November 1991. Later Marc's Fun Time Pizza Palace. | 1989/1990 | November 1991 |
 | [Mentor, OH (7900 Plaza Blvd)] | One of five installed in Ohio. Closed in November 1991. Later Marc's Fun Time Pizza Palace. | 1989/1990 | November 1991 |
 | [North Olmsted, OH (23333 Lorain Rd)] | One of five installed in Ohio. Closed in November 1991. Later Marc's Fun Time Pizza Palace. | 1989/1990 | November 1991 |
-| [Portland, OR (9120 SE Powell Blvd)] | The only C-Stage that was installed in Oregon (As the other two had [Chuck E's House] instead). Received Early 90s Helen cosmetics in 1991/1992. Had Balcony Stage Character Nameplates. Replaced by a 2-Stage in 1993/1994. Had unique character name tags specific to this store. Closed October 12, 2020. | 1989/1990 | 1993/1994 |
+| [Portland, OR (9120 SE Powell Blvd)] | The only C-Stage that was installed in Oregon (As the other two had [Chuck E.'s House (Rocker Stage)] instead). Received Early 90s Helen cosmetics in 1991/1992. Had Balcony Stage Character Nameplates. Replaced by a 2-Stage in 1993/1994. Had unique character name tags specific to this store. Closed October 12, 2020. | 1989/1990 | 1993/1994 |
 | [Bridgeville, PA (1025 Washington Pike)] | One of four installed in Pennsylvania. Replaced with a 2-Stage in 1992/1993. Relocated to [Bridgeville, PA (1035 Washington Pike)] with a Studio C Beta|Studio C in 2002 | 1989/1990 | 1992/1993 |
 | [Monroeville, PA (3813 William Penn Hwy)] | One of four installed in Pennsylvania. Closed and relocated [Monroeville, PA (3800 William Penn Hwy)] in March 1993 with a 2-Stage | 1989/1990 | March 1993 |
 | [Philadelphia, PA (9175 Roosevelt Blvd)] | One of four installed in Pennsylvania. Replaced with a 2-Stage in possibly the Mid-1990s. | 1989/1990 | Mid 1990's |
@@ -80,10 +80,10 @@ This stage kept the same concept as the Balcony Stage; however, it was now theme
 | [San Antonio, TX (8220 Windsor Cross)] | Replaced in 1992 for first or second 2-Stage. Closed in December 2005 and relocated to [Selma, TX (14565 IH 35 North)]. | 1989 | February 1992 |
 | San Antonio, TX (238 W Military Dr) | One of three installed in Texas. Replaced with a 2-Stage in 1995/1996. | 1989/1990 | 1995/1996 |
 | [Alexandria, VA (6303 Richmond Hwy)] | One of two installed in Virginia. Replaced with a 2-Stage in 1993/1994. Closed in 2009. | 1989/1990 | 1993/1994 |
-| [Hampton, VA (4027 W Mercury Blvd)] | One of two installed in Virginia. Replaced with a 2-Stage in 1992/1993. Animatronics later shipped to [Florence, KY (7635 Mall Rd)] to replace their [Chuck E's House] with a 2-Stage, destroyed when they received 2.0 in March 2022. | 1989/1990 | 1993 |
+| [Hampton, VA (4027 W Mercury Blvd)] | One of two installed in Virginia. Replaced with a 2-Stage in 1992/1993. Animatronics later shipped to [Florence, KY (7635 Mall Rd)] to replace their [Chuck E.'s House (Rocker Stage)] with a 2-Stage, destroyed when they received 2.0 in March 2022. | 1989/1990 | 1993 |
 | [Richland, WA (2610 N Columbia Center Blvd)] | One of three installed in Washington. Replaced by a Road Stage in 1991. Closed on September 9, 2018, and then relocated to [Kennewick, WA (6340 W Rio Grande Ave)] as a 2.0 store which opened on October 1, 2018. | 1989/1990 | 1991 |
 | [Spokane, WA (2301 W Wellesley Ave)] | One of three installed in Washington. Replaced by a 2-Stage in the Mid-1990s. Relocated to [Spokane, WA (10007 N Nevada St)] in March 2000 with a [Studio C Alpha]. Cyberamics were relocated to [Lynnwood, WA (3717 196th St Suite 100)] to replace their 3-Stage Animatronics. | 1989/1990 | Mid 1990's |
-| [Tacoma, WA (4911 Tacoma Mall Blvd)] | One of three installed in Washington. High Celling Height. Received some 90s cosmetics like Chuck E's Tuxedo & Derby (The only one to do so) & Helen's cosmetics by 1992. Last Chuck E.'s House Facade. Replaced in 2003 for Studio C. Received 2.0 in June 2022. | 1989/1990 | 2003 |
+| [Tacoma, WA (4911 Tacoma Mall Blvd)] | One of three installed in Washington. High Celling Height. Received some 90s cosmetics like Chuck E's Tuxedo & Derby (The only one to do so) & Helen's cosmetics by 1992. Last Chuck E.'s House Facade (C-Stage). Replaced in 2003 for Studio C. Received 2.0 in June 2022. | 1989/1990 | 2003 |
 | [Brookfield, WI (2435 N 124th St)] | One of two installed in Wisconsin. Replaced with a 1-Stage with a Turntable in 1994. Closed and relocated in 1997 to [Brookfield, WI (19125 W Blue Mound Rd)] with a [Studio C Alpha]. | 1989/1990 | 1994 |
 | [Milwaukee, WI (2701 S Chase Ave)] | One of two installed in Wisconsin. Replaced with a 1-Stage with a Turntable in 1994. | 1990 | 1994 |
 | [Brampton, Ontario, Canada (50 Kennedy Rd)] | One of five installed in Canada. Closed in 1991. | 1989/1990 | 1991 |

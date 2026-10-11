@@ -28,7 +28,7 @@
       "e": "1989-00-00"
     },
     {
-      "n": "Chuck E.'s House Facade",
+      "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "1989-00-00",
       "e": "1992-00-00"
     },
@@ -187,7 +187,7 @@
     "Pizza Time Theatre",
     "Chuck E. Cheese's",
     "Balcony Stage",
-    "Chuck E.'s House Facade",
+    "Chuck E.'s House Facade (C-Stage)",
     "2-Stage"
   ],
   "animatronics": [
@@ -223,7 +223,7 @@
     },
     {
       "n": "Warblettes (Cyberamic)",
-      "desc": "Removed upon installation of Chuck E.'s House Facade.",
+      "desc": "Removed upon installation of Chuck E.'s House Facade (C-Stage).",
       "s": "1983-03-15",
       "e": "0000-00-00"
     },

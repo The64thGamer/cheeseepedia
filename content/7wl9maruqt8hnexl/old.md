@@ -11,7 +11,7 @@ Originally, Southgate featured a Rock-Afire Explosion, as all other ShowBiz loca
 | Stage                                                      | Installed   | Removed      | Notes                                                                     |
 |------------------------------------------------------------|-------------|--------------|---------------------------------------------------------------------------|
 | [Classic Stage]                    | June 1982   | 1991         | 1st ShowBiz store to open in Michigan.                                    |
-| [Concept Unification Stage]        | 1991        | August 2019  | One of 6 ShowBiz Pizza Stores in Michigan to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]        | 1991        | August 2019  | One of 6 ShowBiz Pizza Stores in Michigan to undergo Concept Unification. |
 | [Chuck E Live Stage (Dance Floor)] | August 2019 | Still In Use | 3rd 2.0 in Michigan. 2019 Model.                                          |
 
 ## Animatronics

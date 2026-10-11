@@ -1,4 +1,4 @@
-***34 Tunnel Rd*** was a *ShowBiz Pizza Place* in Asheville, North Carolina. The store opened on July 20, 1984, with a [Classic Stage], and closed on March 15, 1996, as a *Chuck E. Cheese's* with a [Concept Unification Stage]. This is not to be confused with the Asheville, NC (104 River Hills Rd)|current location. which opened on May 6th, 2004 with a [Studio C Cappa].
+***34 Tunnel Rd*** was a *ShowBiz Pizza Place* in Asheville, North Carolina. The store opened on July 20, 1984, with a [Classic Stage], and closed on March 15, 1996, as a *Chuck E. Cheese's* with a [Concept Unification Stage (3-Stage)]. This is not to be confused with the Asheville, NC (104 River Hills Rd)|current location. which opened on May 6th, 2004 with a [Studio C Cappa].
 
 ## History
 
@@ -11,7 +11,7 @@ Originally, Asheville featured a Rock-Afire Explosion, as all other ShowBiz loca
 | Stage                                               | Installed | Removed    | Notes                                                                    |
 |-----------------------------------------------------|-----------|------------|--------------------------------------------------------------------------|
 | [Classic Stage]             | July 1984 | 1991/1992  | 3rd ShowBiz to open in North Carolina.                                   |
-| [Concept Unification Stage] | 1991/1992 | March 1996 | One of Six North Carolina ShowBiz Stores to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991/1992 | March 1996 | One of Six North Carolina ShowBiz Stores to undergo Concept Unification. |
 
 ## Animatronics
 

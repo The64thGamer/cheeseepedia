@@ -8,7 +8,7 @@ Burlington opened in an unnamed plaza on August 4th, 1992; two weeks before [Wor
 
 | Stage                             | Installed   | Removed   | Notes                                                                                                                                                                                                                                                                                 |
 |-----------------------------------|-------------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [2-Stage] | August 1992 | July 2017 | One of Five installed in Massachusetts. Parts of the store's show sent to [Springfield, MA (1716 Boston Rd)] to convert their [Concept Unification Stage] into one of two [Cyberamic 3-Stage], now Destroyed. |
+| [2-Stage] | August 1992 | July 2017 | One of Five installed in Massachusetts. Parts of the store's show sent to [Springfield, MA (1716 Boston Rd)] to convert their [Concept Unification Stage (3-Stage)] into one of two [Cyberamic 3-Stage], now Destroyed. |
 
 ## Animatronics
 

@@ -11,7 +11,7 @@ Englewood opened with the Rock afire Explosion in July 1981. Unfortunately, ther
 | Stage                                                                                             | Installed     | Removed       | Notes                                                  |
 |---------------------------------------------------------------------------------------------------|---------------|---------------|--------------------------------------------------------|
 | [Classic Stage]                                                           | July 1981     | 1991 or 1992  | 3rd ShowBiz Pizza in Colorado.                         |
-| [Concept Unification Stage]                                               | 1991 or 1992  | Early 2000    | One of 5 Colorado locations to get Concept Unification |
+| [Concept Unification Stage (3-Stage)]                                               | 1991 or 1992  | Early 2000    | One of 5 Colorado locations to get Concept Unification |
 | Studio C (1997)\|Studio C Alpha                                                                   | Early 2000    | November 2022 | Formerly last animatronic show in Colorado.            |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | November 2022 | Still in use  | 2021 Model.                                            |
 

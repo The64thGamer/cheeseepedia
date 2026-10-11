@@ -2,7 +2,7 @@
 
 ## Stages
 
-Levittown opened with a Balcony Stage. Like most short lived CECs, info on this stage is very scarce, but they did not receive the Chuck E.'s House Facade upgrade, as they closed in 1989. This location had the 4th last Balcony ever installed, as CEC would take a break from opening stores in 1986.
+Levittown opened with a Balcony Stage. Like most short lived CECs, info on this stage is very scarce, but they did not receive the Chuck E.'s House Facade (C-Stage) upgrade, as they closed in 1989. This location had the 4th last Balcony ever installed, as CEC would take a break from opening stores in 1986.
 
 | Stage         | Installed    | Removed | Notes                                |
 |---------------|--------------|---------|--------------------------------------|

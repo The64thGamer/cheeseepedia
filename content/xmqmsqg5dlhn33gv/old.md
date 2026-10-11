@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 | Stage                                               | Installed     | Removed       | Notes                                                                                           |
 |-----------------------------------------------------|---------------|---------------|-------------------------------------------------------------------------------------------------|
 | [Classic Stage]             | November 1981 | 1991-1992     | 1st ShowBiz Store to open in Indiana.                                                           |
-| [Concept Unification Stage] | 1991-1992     | December 2011 | One of 7 ShowBiz stores in Indiana to get Concept Unification. Third to last 3-Stage in Indiana |
+| [Concept Unification Stage (3-Stage)] | 1991-1992     | December 2011 | One of 7 ShowBiz stores in Indiana to get Concept Unification. Third to last 3-Stage in Indiana |
 
 ## Animatronics
 

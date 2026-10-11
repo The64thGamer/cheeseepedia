@@ -11,7 +11,7 @@ Originally the store had a Rock-Afire Explosion show, as all other ShowBiz store
 | Stage                                                      | Installed      | Removed        | Notes                                                                                                        |
 |------------------------------------------------------------|----------------|----------------|--------------------------------------------------------------------------------------------------------------|
 | [Classic Stage]                    | December 1982  | September 1992 | First ShowBiz Pizza store in Kentucky. All Three ShowBiz locations in Kentucky was converted to stage below. |
-| [Concept Unification Stage]        | September 1992 | Fall 2018      | One of three Kentucky ShowBiz pizza stores to under Concept Unification. Last 3-Stage in Kentucky.           |
+| [Concept Unification Stage (3-Stage)]        | September 1992 | Fall 2018      | One of three Kentucky ShowBiz pizza stores to under Concept Unification. Last 3-Stage in Kentucky.           |
 | [Chuck E Live Stage (Dance Floor)] | Fall 2018      | Still In Use   | 2017 Model. First 2.0 in Kentucky.                                                                           |
 
 ## Arcade Machines

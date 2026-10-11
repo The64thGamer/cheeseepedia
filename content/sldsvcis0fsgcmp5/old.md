@@ -1,5 +1,5 @@
 ***2521 W Airport Fwy* was a *Pizza Time Theatre* that opened in 1983 (month and day unknown) and closed in November 1984 (day unknown) with a [Balcony Stage].
-This is not to be confused with [Irving, TX (3903 W Airport Fwy)], which opened as a *ShowBiz Pizza* on September 27, 1988 with [Chuck E's House], and is still open today as a *Chuck E. Cheese* with the 2.0 remodel.**
+This is not to be confused with [Irving, TX (3903 W Airport Fwy)], which opened as a *ShowBiz Pizza* on September 27, 1988 with [Chuck E.'s House (Rocker Stage)], and is still open today as a *Chuck E. Cheese* with the 2.0 remodel.**
 
 ## Stage
 

@@ -2,7 +2,7 @@
 
 ## History
 
-The West Mifflin Pizza Time Theatre opened in August 1983 in the Greenbrier Shopping Center. The store was franchised by McKnight Family Centers, and opened with the Cabaret room, The King, playgrounds like the Tinker Towers, and a Balcony Stage. Additionally, West Mifflin was one of two stores in Pennsylvania to receive [Cheese E. Street], the other being [Norristown, PA (2834 Dekalb Pike)]. In 1989/90, the store received the 1988 remodel, which removed the Tinker Towers and saw the Balcony Stage retrofitted into a [Chuck E.'s House Facade]. The store is rumored to have received a [2-Stage] sometime after 1991, but this is unconfirmed.
+The West Mifflin Pizza Time Theatre opened in August 1983 in the Greenbrier Shopping Center. The store was franchised by McKnight Family Centers, and opened with the Cabaret room, The King, playgrounds like the Tinker Towers, and a Balcony Stage. Additionally, West Mifflin was one of two stores in Pennsylvania to receive [Cheese E. Street], the other being [Norristown, PA (2834 Dekalb Pike)]. In 1989/90, the store received the 1988 remodel, which removed the Tinker Towers and saw the Balcony Stage retrofitted into a [Chuck E.'s House Facade (C-Stage)]. The store is rumored to have received a [2-Stage] sometime after 1991, but this is unconfirmed.
 
 ### Closure & Future Occupants
 

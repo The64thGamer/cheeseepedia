@@ -7,7 +7,7 @@ Waukegan opened with a Balcony Stage. In 1989-1990, they received a C Stage. In 
 | Stage                                              | Installed  | Removed      | Notes                                                                                                     |
 |----------------------------------------------------|------------|--------------|-----------------------------------------------------------------------------------------------------------|
 | [Balcony Stage] | Early 1983 | 1989/1990    | One of many installed in Illinois.                                                                        |
-| [Chuck E.'s House Facade]   | 1989/1990  | 1994         | One of three installed in Illinois.                                                                       |
+| [Chuck E.'s House Facade (C-Stage)]   | 1989/1990  | 1994         | One of three installed in Illinois.                                                                       |
 | [2-Stage]                  | 1994       | January 1997 | One of five 2-Stages installed in Illinois. Show sent to Fairview Heights to be converted into a 1-Stage. |
 
 ## History

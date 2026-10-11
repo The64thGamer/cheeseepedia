@@ -25,7 +25,7 @@ Originally, Roanoke featured a Rock-Afire Explosion, as all other ShowBiz locati
 | Stage                                                                   | Installed   | Removed      | Notes                                       |
 |-------------------------------------------------------------------------|-------------|--------------|---------------------------------------------|
 | [Classic Stage]                                 | June 1983   | 1991         | 1st ShowBiz to open in Virginia.            |
-| [Concept Unification Stage]                     | 1991        | August 2022  | One of five to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]                     | 1991        | August 2022  | One of five to undergo Concept Unification. |
 | [Chuck E Live Stage (Dance Floor)] + Video Wall | August 2022 | Still In Use | 2021 Model.                                 |
 
 ## Animatronics

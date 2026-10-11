@@ -2,7 +2,7 @@ Using this for random stuff.
 
   Location                                                           Stage              Collected       Notes
   ------------------------------------------------------------------ ------------------ --------------- -------------------------------------
-  [Rockford, IL (3600 E State St)]             Chuck E's House   June 2022       
+  [Rockford, IL (3600 E State St)]             Chuck E.'s House   June 2022       
   [Laurel, MD (936 Fairlawn Ave)]              3-Stage            June 2022       
   [Arlington, TX (2216 S Fielder Rd)]          2-Stage            November 2022   
   [La Mirada, CA (15100 Rosecrans Ave)]        Road Stage         November 2022   

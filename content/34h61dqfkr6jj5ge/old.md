@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Stage                                                      | Installed      | Removed        | Notes                                                             |
 |------------------------------------------------------------|----------------|----------------|-------------------------------------------------------------------|
 | [Classic Stage]                    | September 1982 | September 1991 | 17th ShowBiz Pizza Place store in Texas.                          |
-| [Concept Unification Stage]        | September 1991 | Early 2020     | One of 17 ShowBiz stores in Texas to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]        | September 1991 | Early 2020     | One of 17 ShowBiz stores in Texas to undergo Concept Unification. |
 | [Chuck E Live Stage (Dance Floor)] | Early 2020     | Still in use   | 2019 Model. One of 7 locations to remodel to 2.0 in 2020.         |
 
 ## Animatronics

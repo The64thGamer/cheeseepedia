@@ -7,7 +7,7 @@ Originally, La Crosse featured a Rock-Afire Explosion, as all other ShowBiz loca
 | Stage                                                                                             | Installed     | Removed      |
 |---------------------------------------------------------------------------------------------------|---------------|--------------|
 | [Classic Stage]                                                           | December 1982 | 1991         |
-| [Concept Unification Stage]                                               | 1991          | June 2022    |
+| [Concept Unification Stage (3-Stage)]                                               | 1991          | June 2022    |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | June 2022     | Still in Use |
 
 ## History

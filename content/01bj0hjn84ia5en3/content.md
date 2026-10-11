@@ -28,7 +28,7 @@ Between 1988 and 1990 Lexington would recieve the [SPT 1980's Remodel Program] a
 
 McAlpin's Health-tex fall playwear had a photoshot at the Lexington ShowBiz in August 1990. [22]
 
-In November 1991 Lexington's [Rock-afire Explosion] would under go [Concept Unification] becoming the [Concept Unification Stage]. [24]
+In November 1991 Lexington's [Rock-afire Explosion] would under go [Concept Unification] becoming the [Concept Unification Stage (3-Stage)]. [24]
 
 During Spring 1993 Lexington would undergo the [SPT 1990's Remodel Program]. In May 1993 fixtures would be sold at auction such as "Glass Entrance Doors - 4 Total Glass Front Display Cases, Laminated Table Tops, Stainless Steel Salad Bar Pan, Upholstered Booths 2' x 4' Flurorescent Ceiling Lights, Restroom Toliet Partions". All items could be seen through May 9th and would need to be picked up by May 14th. [23]
 
@@ -46,7 +46,7 @@ By Summer 2004 All animatronics would have their latex masks replaced with plast
 
 Between January 2002 and Fall 2005 the Derby on the Animatronic Chuck E. Cheese would be replaced by his Cool Chuck hat. [32]
 
-In 2006 CEC Entertainment appealed "for an administrative review to transfer 65 square feet of unused signage to allow to be placed on a front wall elevation that already has one permitted wall sign, in a Highway Service Business (B-3) zone, on property located 1543 East New Circle Road (Council District 7)". [26] Between 2006 and 2007 Lexington's Chuck E. Cheese's would recieve the [CEC 2000's Remodel Program] and would replace its [Concept Unification Stage] with the [Studio C Beta]. [27]
+In 2006 CEC Entertainment appealed "for an administrative review to transfer 65 square feet of unused signage to allow to be placed on a front wall elevation that already has one permitted wall sign, in a Highway Service Business (B-3) zone, on property located 1543 East New Circle Road (Council District 7)". [26] Between 2006 and 2007 Lexington's Chuck E. Cheese's would recieve the [CEC 2000's Remodel Program] and would replace its [Concept Unification Stage (3-Stage)] with the [Studio C Beta]. [27]
 
 By October 2008 the [Chuck E. Cheese 16m (Animatronic)] would have its Cool Chuck shirt and shorts replaced with the Avenger Chuck shirt and shorts. [30]
 ### 2010's

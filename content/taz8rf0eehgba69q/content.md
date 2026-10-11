@@ -1,4 +1,4 @@
-The **CU Beta 16m** was a stage format found two [Chuck E. Cheese's] locations in the state of Illinois in the United States that converted their [Concept Unification Stage] in 2020. The stage consisted of a [Studio C Beta], 16m setup but on a 3-Stage platform. It was the most recent CEC animatronic stage to come out, despite it not being an official stage type.
+The **CU Beta 16m** was a stage format found two [Chuck E. Cheese's] locations in the state of Illinois in the United States that converted their [Concept Unification Stage (3-Stage)] in 2020. The stage consisted of a [Studio C Beta], 16m setup but on a 3-Stage platform. It was the most recent CEC animatronic stage to come out, despite it not being an official stage type.
 
 ## History
 
@@ -10,7 +10,7 @@ This is one of the only stage shows in CEC to not have a proper identifier given
 
 ## Design
 
-The design for both CU Beta 16m stages are different for [Darien, IL (7409 Cass Ave)] and [Chicago, IL (5030 S Kedzie Ave)] but the consistent design is re-using the 3-Stages from the [Concept Unification Stage] Stage Left and Right would be completely emptied of all branding of the former stage with it then either being blocked off by curtains or having random things installed to fill the space. Center stage would have the 16m bot installed in the center with the Beta Spiral installed behind the animatronic. To the left and right of Beta Swirl would be the Beta TV Light fixtures. Some stores kept the three stage buildings and planters from the [Concept Unification Stage] or had them completely removed leaving only the beta themed props. The spotlight would be reusing the guitar spot light with the ceiling floods being the same ones from the center stage.
+The design for both CU Beta 16m stages are different for [Darien, IL (7409 Cass Ave)] and [Chicago, IL (5030 S Kedzie Ave)] but the consistent design is re-using the 3-Stages from the [Concept Unification Stage (3-Stage)] Stage Left and Right would be completely emptied of all branding of the former stage with it then either being blocked off by curtains or having random things installed to fill the space. Center stage would have the 16m bot installed in the center with the Beta Spiral installed behind the animatronic. To the left and right of Beta Swirl would be the Beta TV Light fixtures. Some stores kept the three stage buildings and planters from the [Concept Unification Stage (3-Stage)] or had them completely removed leaving only the beta themed props. The spotlight would be reusing the guitar spot light with the ceiling floods being the same ones from the center stage.
 
 ## Design Gallery
 

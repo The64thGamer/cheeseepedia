@@ -7,7 +7,7 @@ The store opened with the Rock Afire Explosion on November 25, 1981, then starte
 | Stage                                                                   | Installed     | Removed      | Notes                                                                 |
 |-------------------------------------------------------------------------|---------------|--------------|-----------------------------------------------------------------------|
 | [Classic Stage]                                 | November 1981 | 1991-1992    | 3rd ShowBiz to open in Ohio.                                          |
-| [Concept Unification Stage]                     | 1991-1992     | 2001         | One of Four ShowBiz locations in Ohio to receive Concept unification. |
+| [Concept Unification Stage (3-Stage)]                     | 1991-1992     | 2001         | One of Four ShowBiz locations in Ohio to receive Concept unification. |
 | Studio C Beta, 32m                                                      | 2001          | October 2022 | Black walls still exist backstage in the technical room.              |
 | [Chuck E Live Stage (Dance Floor)] + Video Wall | October 2022  | Still In Use | 2021 Model                                                            |
 

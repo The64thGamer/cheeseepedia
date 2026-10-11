@@ -7,7 +7,7 @@ Milwaukee opened with the Balcony Stage and featured the Cheese Crawl underneath
 | Stage                                                                                             | Installed   | Removed           |
 |---------------------------------------------------------------------------------------------------|-------------|-------------------|
 | [Balcony Stage]                                                | April 1983  | 1990              |
-| [Chuck E.'s House Facade]                                                  | 1990        | 1994              |
+| [Chuck E.'s House Facade (C-Stage)]                                                  | 1990        | 1994              |
 | [1-Stage]                                                                 | 1994        | August 18th, 2024 |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | August 2024 | Still in use.     |
 

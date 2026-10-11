@@ -4,9 +4,9 @@
 
 The store opened with the [Classic Stage] with Madame Oink being the first guest star playing [Around the World with Madam Oink] also featured The King / King Kat (Cyberamic)|The King in the Lounge both debuting on April 19, 1982(2). The location would then receive Harmony Howlette in 1982(3) and finally [Helen Henny] in 1983.
 
-Between 1988-1989 Florence would receive the [Chuck E's House]; Around this time the The King / King Kat (Cyberamic)|The King would also be removed. in 2000 Helen would receive brand new cosmetics replacing her Pizza Time Theatre look for the newer 90s Cosmetics. The animatronic flowers would also be removed around this time(4)(5).
+Between 1988-1989 Florence would receive the [Chuck E.'s House (Rocker Stage)]; Around this time the The King / King Kat (Cyberamic)|The King would also be removed. in 2000 Helen would receive brand new cosmetics replacing her Pizza Time Theatre look for the newer 90s Cosmetics. The animatronic flowers would also be removed around this time(4)(5).
 
-Between 2002-2003 Florence would replace the [Chuck E's House] with [2-Stage] from [Hampton, VA (4027 W Mercury Blvd)].https://www.instagram.com/p/Cb-4\_qpPOAK/ Hampton, VA was owned by Family Entertainment Centers of Virginia, Inc(6), which relocated in May 2002(7). The Wink and MMBB Curtains were not installed most likely due to damage during shipping.
+Between 2002-2003 Florence would replace the [Chuck E.'s House (Rocker Stage)] with [2-Stage] from [Hampton, VA (4027 W Mercury Blvd)].https://www.instagram.com/p/Cb-4\_qpPOAK/ Hampton, VA was owned by Family Entertainment Centers of Virginia, Inc(6), which relocated in May 2002(7). The Wink and MMBB Curtains were not installed most likely due to damage during shipping.
 
 Despite curtains being disabled in 2005 Florence would continue to use them for live shows and birthdays. In 2007 Florence would replace the Tuxedo on Chuck E. Cheese for the 'Cool Chuck' attire. Around this time the TV Shell would be removed. (8)
 
@@ -17,7 +17,7 @@ In late 2017, the stage's old lightbulbs were replaced with LEDs, the TV was rep
 | Stage                                                      | Debuted        | Removed        |
 |------------------------------------------------------------|----------------|----------------|
 | [Balcony Stage]         | April 19, 1982 | 1988-1989      |
-| [Chuck E's House]                  | 1988-1989      | 2002-2003      |
+| [Chuck E.'s House (Rocker Stage)]                  | 1988-1989      | 2002-2003      |
 | [2-Stage]                          | 2002-2003      | March 31, 2022 |
 | [Chuck E Live Stage (Dance Floor)] | March 31, 2022 | Still In Use   |
 | [Video Wall]                       | April 2022     | Still In Use   |

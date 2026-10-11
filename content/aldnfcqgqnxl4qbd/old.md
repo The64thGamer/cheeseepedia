@@ -1,4 +1,4 @@
-***7614 Greenback Lane*** was a Chuck E. Cheese's Pizza Time Theatre that opened on December 26, 1979https://www.newspapers.com/image/621236015 and closed in January 1985https://www.newspapers.com/image/622575854 with a [Cyberamics Portrait Shelf Stage]https://www.showbizpizza.com/info/documents/ptt/ptt\_pizzatimes-1979.pdf. This was the 8th PTT ever opened. This location is not to be confused with [Citrus Heights, CA (6251 Sunrise Blvd)], which is a Chuck E. Cheese that opened as a [ShowBiz Pizza Place] &amp; is still open today with the [CEC 2.0 Remodel Program] &amp; a [Chuck E Live Stage (Dance Floor)].
+***7614 Greenback Lane*** was a Chuck E. Cheese's Pizza Time Theatre that opened on December 26, 1979https://www.newspapers.com/image/621236015 and closed in January 1985https://www.newspapers.com/image/622575854 with a [Portrait / Shelf Stage]https://www.showbizpizza.com/info/documents/ptt/ptt\_pizzatimes-1979.pdf. This was the 8th PTT ever opened. This location is not to be confused with [Citrus Heights, CA (6251 Sunrise Blvd)], which is a Chuck E. Cheese that opened as a [ShowBiz Pizza Place] &amp; is still open today with the [CEC 2.0 Remodel Program] &amp; a [Chuck E Live Stage (Dance Floor)].
 
 ## Stages
 
@@ -6,7 +6,7 @@ Citrus Heights opened with a Portrait Stage, but we only have one photo showing 
 
 | Stage                                                        | Installed     | Removed      | Notes                                     |
 |--------------------------------------------------------------|---------------|--------------|-------------------------------------------|
-| [Cyberamics Portrait Shelf Stage](0) | December 1979 | January 1985 | 8th Chuck E. Cheese location ever opened. |
+| [Portrait / Shelf Stage](0) | December 1979 | January 1985 | 8th Chuck E. Cheese location ever opened. |
 
 ## History
 

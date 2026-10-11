@@ -11,7 +11,7 @@ Originally, Austin (Burnet) featured a Rock-Afire Explosion, as all other ShowBi
 | Stage                                               | Intalled     | Removed      | Notes                                                                |
 |-----------------------------------------------------|--------------|--------------|----------------------------------------------------------------------|
 | [Classic Stage]             | January 1982 | 1991         | 5th ShowBiz Pizza store to open in Texas.                            |
-| [Concept Unification Stage] | 1991         | October 2006 | One of 17 ShowBiz locations in Texas to receive Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991         | October 2006 | One of 17 ShowBiz locations in Texas to receive Concept Unification. |
 
 ## Arcade Machines
 

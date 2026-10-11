@@ -14,7 +14,7 @@ Pizza Time Theatre Pasqually cyberamics feature these movements.
 | Eye Turn Left                                                      |
 | Eyelids                                                            |
 | Arms                                                               |
-| Door (Used in [Cyberamics Portrait Shelf Stage]) |
+| Door (Used in [Portrait / Shelf Stage]) |
 
 Pasqually cyberamics made for later stages feature these movements.
 

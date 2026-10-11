@@ -1,1 +1,1 @@
-The [Chuck E.'s House Facade] at [West Mifflin, PA (2260 Lebanon Church Rd)].
+The [Chuck E.'s House Facade (C-Stage)] at [West Mifflin, PA (2260 Lebanon Church Rd)].

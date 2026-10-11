@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Stage                                                                                              | Installed   | Removed      | Notes                                      |
 |----------------------------------------------------------------------------------------------------|-------------|--------------|--------------------------------------------|
 | [Classic Stage]                                                            | July 1983   | Around 1991  | Only ShowBiz Pizza store to open in Idaho. |
-| [Concept Unification Stage]                                                | Around 1991 | August 2022  | Last CEC in Idaho.                         |
+| [Concept Unification Stage (3-Stage)]                                                | Around 1991 | August 2022  | Last CEC in Idaho.                         |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall]. | August 2022 | Still In Use | 2021 Model.                                |
 
 ## Animatronics

@@ -1,0 +1,1 @@
+***Bridgeville, PA (1035 Washington Pike)***, Store #535, is a corporate-owned Chuck E. Cheese's located in Chartiers Valley Shopping Center that opened in October 2002 with a Studio C Beta and still open with the 2.0 remodel. The store is the relocation of [Bridgeville, PA (1025 Washington Pike)](/?v=cep-js&=64jti3f8sl7tpj23), which it should not be confused with.

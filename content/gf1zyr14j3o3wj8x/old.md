@@ -7,7 +7,7 @@ Originally, Arlington Heights featured a Rock-Afire Explosion, as all other Show
 | Stage                                               | Installed    | Removed          | Notes                                                                      |
 |-----------------------------------------------------|--------------|------------------|----------------------------------------------------------------------------|
 | [Classic Stage]             | October 1981 | 1991             | 3rd ShowBiz Pizza store to open in Illinois.                               |
-| [Concept Unification Stage] | 1991         | Late 1998        | One of 10 ShowBiz Pizza stores in Illinois to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991         | Late 1998        | One of 10 ShowBiz Pizza stores in Illinois to undergo Concept Unification. |
 | Studio C (1997)\|Studio C Alpha                     | Late 1998    | December 6, 2015 | One of four installed in Illinois. First Studio C in the State.            |
 
 ## History

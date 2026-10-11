@@ -1,4 +1,4 @@
-***4992 State Hwy 190, Store #584*** is a *Chuck E. Cheese's* location running from November 15, 2006, to current day. This store is the relocation of [Richardson, TX (1235 E Belt Line Rd)] which opened as a *ShowBiz Pizza Place* with a [Classic Stage] and closed as a *Chuck E. Cheese's* with a [Concept Unification Stage] earlier in the month.
+***4992 State Hwy 190, Store #584*** is a *Chuck E. Cheese's* location running from November 15, 2006, to current day. This store is the relocation of [Richardson, TX (1235 E Belt Line Rd)] which opened as a *ShowBiz Pizza Place* with a [Classic Stage] and closed as a *Chuck E. Cheese's* with a [Concept Unification Stage (3-Stage)] earlier in the month.
 
 ## Stages
 

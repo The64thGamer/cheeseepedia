@@ -5,7 +5,7 @@
 | Stage                                                 | Installed     | Removed      | Notes                                                                                                                                                                    |
 |-------------------------------------------------------|---------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Classic Stage]               | April 1982    | 1991         | 4th ShowBiz Pizza store to open in Illinois.                                                                                                                             |
-| [Concept Unification Stage]   | 1991          | Early 2011   | One of 10 ShowBiz stores in Illinois to undergo Concept Unification.                                                                                                     |
+| [Concept Unification Stage (3-Stage)]   | 1991          | Early 2011   | One of 10 ShowBiz stores in Illinois to undergo Concept Unification.                                                                                                     |
 | [Concept Unification 1-Stage] | Early 2011    | Still in Use | One of three installed in-store. Last CU 1-Stage in existence. Last Creative Engineering bots in the state and region. Will be kept in-store throughout the 2.0 remodel. |
 | Dance Floor                                           | June 15, 2024 | Still in Use | 2019 Model.                                                                                                                                                              |
 

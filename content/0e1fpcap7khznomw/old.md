@@ -11,7 +11,7 @@ Like all ShowBiz Pizzas at the time, the store opened with the Rock-Afire Explos
 | Stage                                                                                             | Installed    | Removed          |
 |---------------------------------------------------------------------------------------------------|--------------|------------------|
 | [Classic Stage]                                                           | 1983         | 1988-1989        |
-| [Chuck E's House]                                                         | 1988-1989    | 1991-1992        |
+| [Chuck E.'s House (Rocker Stage)]                                                         | 1988-1989    | 1991-1992        |
 | [Road Stage]                                                   | 1991-1992    | 2015             |
 | [1-Stage]                                                                 | 2015         | January 22, 2024 |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | January 2024 | Still in Use     |

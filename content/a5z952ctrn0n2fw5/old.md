@@ -1,4 +1,4 @@
-***4445 SW 110th Ave*** was a *Chuck E. Cheese's Pizza* that opened in September 1990 with the [Chuck E's House] stage and closed in August 2002. This location later closed and relocated to [Beaverton, OR (4145 SW 110th Ave)] with a [Studio C Beta].
+***4445 SW 110th Ave*** was a *Chuck E. Cheese's Pizza* that opened in September 1990 with the [Chuck E.'s House (Rocker Stage)] stage and closed in August 2002. This location later closed and relocated to [Beaverton, OR (4145 SW 110th Ave)] with a [Studio C Beta].
 
 ## Stage
 
@@ -6,7 +6,7 @@ Beaverton's only stage was Chuck E.'s House. The location of the animatronic cha
 
 | Stage                                     | Installed      | Removed      | Notes                            |
 |-------------------------------------------|----------------|--------------|----------------------------------|
-| [Chuck E's House] | September 1990 | January 2003 | Last Rocker installed in Oregon. |
+| [Chuck E.'s House (Rocker Stage)] | September 1990 | January 2003 | Last Rocker installed in Oregon. |
 
 ## History
 

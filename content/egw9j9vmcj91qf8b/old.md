@@ -1,4 +1,4 @@
-***813 Boardman Poland Rd*** is a Chuck E. Cheese's Pizza Time Theater that opened in October 1982, with a [Cyberamics Balcony Stage] and was purchased in December 1991 with a [Chuck E's House Facade].
+***813 Boardman Poland Rd*** is a Chuck E. Cheese's Pizza Time Theater that opened in October 1982, with a [Balcony Stage] and was purchased in December 1991 with a [Chuck E.'s House Facade (C-Stage)].
 
 ## History
 
@@ -9,7 +9,7 @@ TODO
 | Stage                   | Installed    | Removed       | Notes                              |
 |-------------------------|--------------|---------------|------------------------------------|
 | Balcony Stage           | October 1982 | 1989/1990     | One of the many installed in Ohio. |
-| Chuck E.'s House Facade | 1989/1990    | December 1991 | One of 5 installed in Ohio.        |
+| Chuck E.'s House Facade (C-Stage) | 1989/1990    | December 1991 | One of 5 installed in Ohio.        |
 
 ## Animatronics
 

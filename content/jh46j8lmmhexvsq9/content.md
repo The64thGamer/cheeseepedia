@@ -2,7 +2,7 @@ The ***2-Stage*** is a stage format found at [Chuck E. Cheese's] locations that 
 
 ## History
 
-The 2-Stage was created in 1992 to unify all [Chuck E.'s House Facade] and [Road Stage] locations to one setup and to be consistent with [Concept Unification] and the company's future plans. The first 2-Stage was installed at the [White Settlement, TX (7750 Scott St)] location in February 1992. After that, it would go on to be installed in approximately 100 CEC locations across the United States, Canada, Chile, and Guatemala.
+The 2-Stage was created in 1992 to unify all [Chuck E.'s House Facade (C-Stage)] and [Road Stage] locations to one setup and to be consistent with [Concept Unification] and the company's future plans. The first 2-Stage was installed at the [White Settlement, TX (7750 Scott St)] location in February 1992. After that, it would go on to be installed in approximately 100 CEC locations across the United States, Canada, Chile, and Guatemala.
 
 ## Design
 
@@ -10,7 +10,7 @@ The 2-Stage has had multiple different design variations.
 
 ### Prototypes
 
-[White Settlement, TX (7750 Scott St)] 2-Stage had 3-Stage buildings and Jasper's can, a solid blue valance, and a [Road Stage] Munch organ. [San Antonio, TX (8220 Windsor Cross)] and [Merced, CA (721 W Olive Ave)] (Later at [Chesapeake, VA (1528 Sam's Circle)]) 2-Stages, like White Settlement, also had [Concept Unification Stage] buildings. Chuck also stood on top of a red platform. [Herndon, VA (2465 Centreville Rd)] 2-Stage had unique buildings that no other 2-Stage had.
+[White Settlement, TX (7750 Scott St)] 2-Stage had 3-Stage buildings and Jasper's can, a solid blue valance, and a [Road Stage] Munch organ. [San Antonio, TX (8220 Windsor Cross)] and [Merced, CA (721 W Olive Ave)] (Later at [Chesapeake, VA (1528 Sam's Circle)]) 2-Stages, like White Settlement, also had [Concept Unification Stage (3-Stage)] buildings. Chuck also stood on top of a red platform. [Herndon, VA (2465 Centreville Rd)] 2-Stage had unique buildings that no other 2-Stage had.
 
 ### Standard
 

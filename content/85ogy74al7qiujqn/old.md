@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Stage                                                      | Installed      | Removed        | Notes                                                                                                                |
 |------------------------------------------------------------|----------------|----------------|----------------------------------------------------------------------------------------------------------------------|
 | [Classic Stage]                    | October 1982   | 1991           | 4th ShowBiz Pizza store to open in Tennessee. All Eight ShowBiz locations in Tennessee was converted to stage below. |
-| [Concept Unification Stage]        | 1991           | 2006-2007      | One of eight Tennessee locations to get Concept Unification.                                                         |
+| [Concept Unification Stage (3-Stage)]        | 1991           | 2006-2007      | One of eight Tennessee locations to get Concept Unification.                                                         |
 | [Studio C Beta], 16m               | 2006-2007      | September 2019 | Only Beta 16m in Tennessee                                                                                           |
 | [Chuck E Live Stage (Dance Floor)] | September 2019 | Still in use   | 2019 Model.                                                                                                          |
 | Video Wall                                                 | 2021-2023      | Still in use   |                                                                                                                      |

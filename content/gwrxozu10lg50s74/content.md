@@ -1,5 +1,5 @@
 The ***C&R SVHS (Pre-93)*** format is a physical showtape medium holding the [Biphase Cyberstar Data Format] that lasted from May 1988 to May 1993.
-The format is used for two specific [Cyberamics] stages, that being [Chuck E.'s House Facade] and [Chuck E.'s House], hence the 'C&R'. The 'Pre-93' refers to it being of the original showtape format for Cyberstar before a switch to a new format in May of 1993 with the release of [Best of CEC TV 1993].
+The format is used for two specific [Cyberamics] stages, that being [Chuck E.'s House Facade (C-Stage)] and [Chuck E.'s House (Rocker Stage)], hence the 'C&R'. The 'Pre-93' refers to it being of the original showtape format for Cyberstar before a switch to a new format in May of 1993 with the release of [Best of CEC TV 1993].
 
 ## Format
 

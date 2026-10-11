@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 | Stage                                                      | Installed      | Removed      | Notes                                                                           |
 |------------------------------------------------------------|----------------|--------------|---------------------------------------------------------------------------------|
 | [Classic Stage]                    | September 1980 | 1991-1992    | First ShowBiz Pizza in Kansas.                                                  |
-| [Concept Unification Stage]        | 1991-1992      | 2000         | One of two Kansas locations to receive Concept Unification.                     |
+| [Concept Unification Stage (3-Stage)]        | 1991-1992      | 2000         | One of two Kansas locations to receive Concept Unification.                     |
 | Studio C Beta                                              | 2000           | 2017         | Only animatronic show in Overland Park. One of first five Studio C Beta stages. |
 | [Chuck E Live Stage (Dance Floor)] | 2017           | Still in Use | 2019 Model. Only remaining ShowBiz Pizza in Kansas. First of the 7 2.0's.       |
 

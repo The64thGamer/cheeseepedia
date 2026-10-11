@@ -2,7 +2,7 @@
 
 ## History
 
-Valencia opened on April 26, 1983, as a *Pizza Time Theatre* with a Balcony Stage.[1] It was a franchised location, and was locally owned and operated.[2] Unfortunately, very little documentation exists on this location. Due to it's location next to a Kmart location, it is rumored the building was originally a Kmart Foods store, but though this remains unconfirmed.[3] In 1989, the store would be remodeled as part of the [SPT 1980's Remodel Program], with the Balcony Stage being replaced by a [Chuck E.'s House Facade]. The Pizza Time Theatre name would be retained.[5]
+Valencia opened on April 26, 1983, as a *Pizza Time Theatre* with a Balcony Stage.[1] It was a franchised location, and was locally owned and operated.[2] Unfortunately, very little documentation exists on this location. Due to it's location next to a Kmart location, it is rumored the building was originally a Kmart Foods store, but though this remains unconfirmed.[3] In 1989, the store would be remodeled as part of the [SPT 1980's Remodel Program], with the Balcony Stage being replaced by a [Chuck E.'s House Facade (C-Stage)]. The Pizza Time Theatre name would be retained.[5]
 
 ### 1990's
 

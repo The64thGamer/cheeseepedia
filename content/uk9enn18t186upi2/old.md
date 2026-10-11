@@ -11,7 +11,7 @@ Originally, Green Bay featured a Rock-afire Explosion, as all other ShowBiz loca
 | Stage                                                                                             | Installed      | Removed        | Notes                                                  |
 |---------------------------------------------------------------------------------------------------|----------------|----------------|--------------------------------------------------------|
 | [Classic Stage]                                                           | October 1982   | 1991           | 4th ShowBiz to open in Wisconsin.                      |
-| [Concept Unification Stage]                                               | 1991           | Fall 2000      | One of three to undergo Concept Unification.           |
+| [Concept Unification Stage (3-Stage)]                                               | 1991           | Fall 2000      | One of three to undergo Concept Unification.           |
 | Studio C Beta, 32m                                                                                | Fall 2000      | September 2021 | One of first 5 Betas installed. Only one in Wisconsin. |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | September 2021 | Still In Use   | 2021 Model.                                            |
 

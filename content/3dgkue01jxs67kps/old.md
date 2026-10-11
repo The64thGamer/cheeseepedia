@@ -11,7 +11,7 @@ Madison opened with the Rock afire Explosion in July 1982. Unfortunately, there 
 | Stage                                                      | Installed   | Removed        | Notes                                                                          |
 |------------------------------------------------------------|-------------|----------------|--------------------------------------------------------------------------------|
 | [Classic Stage]                    | July 1982   | August 1991    | 3rd ShowBiz to open in Wisconsin.                                              |
-| [Concept Unification Stage]        | August 1991 | July 7th, 2021 | One of three ShowBiz Pizza stores in Wisconsin to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]        | August 1991 | July 7th, 2021 | One of three ShowBiz Pizza stores in Wisconsin to undergo Concept Unification. |
 | [Chuck E Live Stage (Dance Floor)] | August 2021 | Still in use   | 2021 Model.                                                                    |
 
 ## Animatronics

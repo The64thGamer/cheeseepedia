@@ -1,4 +1,4 @@
-***Houston, TX (17780 Tomball Pkwy), Store #585***, otherwise referred to as ***Willowbrook***, is a *Chuck E. Cheese's* that opened on November 10, 2006 with a [Studio C Beta] stage. This store is a possible relocation of [Houston, TX (6760 Antoine Dr)], which opened in July 1981 as a *ShowBiz Pizza Place* and closed in September 2006 with a [Concept Unification Stage].
+***Houston, TX (17780 Tomball Pkwy), Store #585***, otherwise referred to as ***Willowbrook***, is a *Chuck E. Cheese's* that opened on November 10, 2006 with a [Studio C Beta] stage. This store is a possible relocation of [Houston, TX (6760 Antoine Dr)], which opened in July 1981 as a *ShowBiz Pizza Place* and closed in September 2006 with a [Concept Unification Stage (3-Stage)].
 
 ## Stages
 

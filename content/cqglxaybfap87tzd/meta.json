@@ -1,7 +1,7 @@
 {
   "title": "Columbus, OH (2578 S Hamilton Rd)",
   "storeNumber": "",
-  "startDate": "1982-04-00",
+  "startDate": "1982-00-00",
   "endDate": "1987-02-00",
   "remodels": [
     {
@@ -16,13 +16,7 @@
       "e": "1987-02-00"
     }
   ],
-  "franchisees": [
-    {
-      "n": "Electronic Theatre Resturants, Inc.",
-      "s": "1982-04-00",
-      "e": "0000-00-00"
-    }
-  ],
+  "franchisees": [],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
@@ -34,7 +28,7 @@
     "Getretrofit"
   ],
   "downloadLinks": [],
-  "pageThumbnailFile": "",
+  "pageThumbnailFile": "ug3owvg4rc8u9dfu.avif",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"

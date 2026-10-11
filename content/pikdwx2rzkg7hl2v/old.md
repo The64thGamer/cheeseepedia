@@ -11,7 +11,7 @@ Metairie opened with the Rock afire Explosion in June 1981. Unfortunately, there
 | Stage                                               | Installed    | Removed      | Notes                                                                                                                     |
 |-----------------------------------------------------|--------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
 | [Classic Stage]             | June 1981    | 1991 or 1992 | 2nd ShowBiz in Louisiana.                                                                                                 |
-| [Concept Unification Stage] | 1991 or 1992 | 2000         | One of 5 ShowBiz stores in Louisiana to undergo Concept Unification. One of 8 stores to get the Cheerleader Helen outfit. |
+| [Concept Unification Stage (3-Stage)] | 1991 or 1992 | 2000         | One of 5 ShowBiz stores in Louisiana to undergo Concept Unification. One of 8 stores to get the Cheerleader Helen outfit. |
 | Studio C (1997)\|Studio C Alpha                     | 2000         | March 2024   | One of two Studio C Alphas installed in the state. Last one in Louisiana.                                                 |
 
 ## Animatronics

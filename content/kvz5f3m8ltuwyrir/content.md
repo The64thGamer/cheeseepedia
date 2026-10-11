@@ -14,7 +14,7 @@ Hi, I'm CECBowlingGreen / Brennan, I am fan of Chuck E. Cheese and have been for
 
 ## Favorite Stage
 
-1.  [Concept Unification Stage]
+1.  [Concept Unification Stage (3-Stage)]
 2.  [Studio C Beta]
 3.  [Studio C Cappa]
 4.  [Studio C Alpha]
@@ -25,7 +25,7 @@ Hi, I'm CECBowlingGreen / Brennan, I am fan of Chuck E. Cheese and have been for
 
 ## All Chuck E. Cheese Stages I Have Seen And Their Totals
 
-- [Concept Unification Stage] (2)
+- [Concept Unification Stage (3-Stage)] (2)
 - [1-Stage] (1)
 - [Studio C Alpha] (3)
 - Studio C Alpha Beta Mix|Studio C Alpha/Beta Mix (1)

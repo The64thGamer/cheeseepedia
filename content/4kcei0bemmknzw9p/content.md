@@ -1,0 +1,1 @@
+***Pittsburgh, PA (20 McIntyre Square Dr)***, Store #544, is a Chuck E. Cheese's that opened on May 22, 2001, with a Studio C Beta and is still open with the 2.0 remodel.

@@ -11,7 +11,7 @@ Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would und
 | Stage                                                      | Installed          | Removed            | Notes                                                             |
 |------------------------------------------------------------|--------------------|--------------------|-------------------------------------------------------------------|
 | [Classic Stage]                    | March 1983         | Early 1991         | 7th ShowBiz store to open in California.                          |
-| [Concept Unification Stage]        | Early 1991         | 2000               | One of 9 ShowBiz stores in California to get Concept Unification. |
+| [Concept Unification Stage (3-Stage)]        | Early 1991         | 2000               | One of 9 ShowBiz stores in California to get Concept Unification. |
 | [Studio C Alpha]                   | December 1998      | Late February 2024 |                                                                   |
 | [Chuck E Live Stage (Dance Floor)] | Late February 2024 | In Use             | 2019 Model                                                        |
 | [Video Wall]                       | Late February 2024 | In Use             | 2021 Model                                                        |

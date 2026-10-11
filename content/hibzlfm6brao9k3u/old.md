@@ -9,7 +9,7 @@ Altamonte Springs opened its doors on March 25th, 1981 with the RockAfire Explos
 | Stage                                                                   | Installed     | Removed       |
 |-------------------------------------------------------------------------|---------------|---------------|
 | [Classic Stage]                                 | March 1981    | 1990          |
-| [Concept Unification Stage]                     | 1990          | 1998          |
+| [Concept Unification Stage (3-Stage)]                     | 1990          | 1998          |
 | [Studio C Alpha]                                | 1998          | November 2022 |
 | [Chuck E Live Stage (Dance Floor)] + Video Wall | November 2022 | Still In Use  |
 

@@ -11,7 +11,7 @@ Memphis (Austin Peay) originally featured a Rock-Afire Explosion, as all other S
 | Stage                                               | Installed   | Removed      | Notes                                                                |
 |-----------------------------------------------------|-------------|--------------|----------------------------------------------------------------------|
 | [Classic Stage]             | August 1983 | 1991         | 7th ShowBiz Pizza Store in Tennessee.                                |
-| [Concept Unification Stage] | 1991        | October 2020 | Underwent Concept Unification like every other ShowBiz in Tennessee. |
+| [Concept Unification Stage (3-Stage)] | 1991        | October 2020 | Underwent Concept Unification like every other ShowBiz in Tennessee. |
 
 ## Animatronics
 

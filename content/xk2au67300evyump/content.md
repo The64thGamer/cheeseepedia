@@ -24,7 +24,7 @@ The floppy disk is labeled as "BIRTHDAY STAR FILES for C&R and ROAD STAGES" '*BD
 
 ## APS Files
 All two segments’ files were last updated between March 20, 1991, and March 22, 1991, being finalized roughly 2 months before its planned release. Birthday '91
-was never programmed for [Concept Unification Stage].
+was never programmed for [Concept Unification Stage (3-Stage)].
 
 | File Name    | Size (bytes) | Modified Date          | Header Time | Header Title 1                    | Header Title 2                   |
 | ------------ | ------------ | ---------------------- | ----------- | --------------------------------- | -------------------------------- |

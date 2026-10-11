@@ -2,14 +2,14 @@
 
 ## Stages
 
-Brookfield opened with a Balcony Stage in August 1982, and was replaced by Chuck E.'s House Facade. In 1994, it was replaced with a 1-Stage with a turntable. It remained like this until the 1997 closure.
+Brookfield opened with a Balcony Stage in August 1982, and was replaced by Chuck E.'s House Facade (C-Stage). In 1994, it was replaced with a 1-Stage with a turntable. It remained like this until the 1997 closure.
 
 | Stage                   | Installed   | Removed       | Notes                            |
 |-------------------------|-------------|---------------|----------------------------------|
 | Balcony Stage           | August 1982 | 1989/1990     | One of 3 installed in Wisconsin. |
-| Chuck E.'s House Facade | 1989/1990   | 1994          | One of 2 installed in Wisconsin. |
+| Chuck E.'s House Facade (C-Stage) | 1989/1990   | 1994          | One of 2 installed in Wisconsin. |
 | 1-Stage                 | 1994        | December 1997 | One of 3 installed in Wisconsin. |
 
 ## History
 
-Brookfield's Pizza Time Theatre opened in August 1982 (day unknown) with a Balcony Stage. Unfortunately, information on Brookfield's PTT is very scarce. In 1989/1990, they received the 1988 remodel, which involved removing all PTT decor for SPT decor, added awnings above the counters, added checkers inside and outside of the store, and replaced the Balcony Stage with Chuck E.'s House Facade. Brookfield remained like this until 1994, when they replaced Chuck E.'s House Facade for a 1-Stage with a turntable. For unknown reasons, around December 1997 (day unknown), the location shut its doors and relocated. As of April 2025, the original building exterior was gutted and replaced by an unnamed business that would close and sit abandoned(1)
+Brookfield's Pizza Time Theatre opened in August 1982 (day unknown) with a Balcony Stage. Unfortunately, information on Brookfield's PTT is very scarce. In 1989/1990, they received the 1988 remodel, which involved removing all PTT decor for SPT decor, added awnings above the counters, added checkers inside and outside of the store, and replaced the Balcony Stage with Chuck E.'s House Facade (C-Stage). Brookfield remained like this until 1994, when they replaced Chuck E.'s House Facade (C-Stage) for a 1-Stage with a turntable. For unknown reasons, around December 1997 (day unknown), the location shut its doors and relocated. As of April 2025, the original building exterior was gutted and replaced by an unnamed business that would close and sit abandoned(1)

@@ -19,7 +19,7 @@ After the store closed, the building would stay vacant for a while until it was 
 | Stage                                               | Installed  | Removed | Notes                                                       |
 |-----------------------------------------------------|------------|---------|-------------------------------------------------------------|
 | [Classic Stage]             | 1983       | 1991    | 1st ShowBiz Pizza store to open in West Virginia.           |
-| [Concept Unification Stage] | March 1991 | 1998    | Only West Virginia location to receive Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | March 1991 | 1998    | Only West Virginia location to receive Concept Unification. |
 
 ## Animatronics
 

@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Stage                                                      | Installed  | Removed      | Notes                                                                       |
 |------------------------------------------------------------|------------|--------------|-----------------------------------------------------------------------------|
 | [Classic Stage]                    | March 1983 | 1991         | 8th ShowBiz Pizza to open in California.                                    |
-| [Concept Unification Stage]        | 1991       | 2000         | One of 8 ShowBiz Pizzas in California to receive Concept Unification.       |
+| [Concept Unification Stage (3-Stage)]        | 1991       | 2000         | One of 8 ShowBiz Pizzas in California to receive Concept Unification.       |
 | Studio C (1997)\|Studio C Alpha                            | 2000       | Early 2020   | One of many installed in California. One of 7 locations to get 2.0 in 2020. |
 | [Chuck E Live Stage (Dance Floor)] | Early 2020 | Still in Use | 2019 Model. Installed on the back wall.                                     |
 

@@ -1,0 +1,1 @@
+***York, PA (351 Loucks Rd)*** was a Pizza Time Theatre that opened on August 23, 1983, with a Balcony Stage and closed on February 19, 1984. This location is not to be confused with [York, PA (2801 E Market St)](/?v=cep-js&=sv6ztd6bu8l6obym), which opened on February 28, 1983, as a ShowBiz Pizza Place, and is still open today as a Chuck E. Cheese with the 2.0 remodel.

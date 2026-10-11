@@ -25,7 +25,7 @@ Originally, Fresno featured a Rock-Afire Explosion, as all other ShowBiz locatio
 | Stage                                                      | Installed     | Removed       | Notes                                                                       |
 |------------------------------------------------------------|---------------|---------------|-----------------------------------------------------------------------------|
 | [Classic Stage]                    | July 1983     | 1991-1992     | 10th ShowBiz Pizza store to open in California.                             |
-| [Concept Unification Stage]        | 1991-1992     | 2000          | One of 9 ShowBiz Pizza stores in California to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]        | 1991-1992     | 2000          | One of 9 ShowBiz Pizza stores in California to undergo Concept Unification. |
 | Studio C (1997)\|Studio C Alpha                            | 2000          | February 2024 | Located on the same wall as the former 3-Stage.                             |
 | [Chuck E Live Stage (Dance Floor)] | February 2024 | Still In Use  | 2021 Model                                                                  |
 | [Video Wall]                       | February 2024 | Still In Use  | 2021 Model                                                                  |

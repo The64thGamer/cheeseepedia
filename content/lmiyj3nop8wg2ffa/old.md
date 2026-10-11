@@ -1,14 +1,14 @@
-**Levittown, PA (1283 E Lincoln Hwy)** was a Chuck E. Cheese's that opened on August 7, 1990, with [Chuck E's House], and closed on August 25, 2020, with a [1-Stage].
+**Levittown, PA (1283 E Lincoln Hwy)** was a Chuck E. Cheese's that opened on August 7, 1990, with [Chuck E.'s House (Rocker Stage)], and closed on August 25, 2020, with a [1-Stage].
 
 ## History
 
-This location opened in August 1990 with Chuck E's House, also known as the Rocker Stage. Levittown was actually one of the last ten locations to open with the Rocker Stage after Concept Unification began rolling out in ShowBiz Pizza Place locations in June 1990 and before the Road Stage began installation in November 1990. Between 1993 or 1994, the Rocker Stage was replaced by the [1-Stage], whose installations were in full swing by 1993. Between May 2007 and November 2008, Levittown received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative remodel, removing showroom walls, replacing Parody Posters with [CEC 2000's Remodel Program] artwork, and replacing older wall decor for newer wall decor, installing fluorescent lighting, and diminishing the Skytubes. They kept this remodel and the stage until August 25, 2020, when they closed permanently possibly due to corporate financial troubles after the bankruptcy caused by the COVID-19 pandemic. The former location is now an Aspen Dental as of 2022. Since then, Levittown is left without a Chuck E. Cheese, and it's unknown if they will ever return to the city with a new store in the future.
+This location opened in August 1990 with Chuck E.'s House, also known as the Rocker Stage. Levittown was actually one of the last ten locations to open with the Rocker Stage after Concept Unification began rolling out in ShowBiz Pizza Place locations in June 1990 and before the Road Stage began installation in November 1990. Between 1993 or 1994, the Rocker Stage was replaced by the [1-Stage], whose installations were in full swing by 1993. Between May 2007 and November 2008, Levittown received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative remodel, removing showroom walls, replacing Parody Posters with [CEC 2000's Remodel Program] artwork, and replacing older wall decor for newer wall decor, installing fluorescent lighting, and diminishing the Skytubes. They kept this remodel and the stage until August 25, 2020, when they closed permanently possibly due to corporate financial troubles after the bankruptcy caused by the COVID-19 pandemic. The former location is now an Aspen Dental as of 2022. Since then, Levittown is left without a Chuck E. Cheese, and it's unknown if they will ever return to the city with a new store in the future.
 
 ## Stages
 
 | Stage                                     | Installed   | Removed     |
 |-------------------------------------------|-------------|-------------|
-| [Chuck E's House] | August 1990 | 1993-1994   |
+| [Chuck E.'s House (Rocker Stage)] | August 1990 | 1993-1994   |
 | [1-Stage]         | 1993-1994   | August 2020 |
 
 ## Animatronics

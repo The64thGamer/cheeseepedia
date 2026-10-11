@@ -9,7 +9,7 @@ Newington opened in August 1983 as a franchise-owned Pizza Time Theatre location
 | Stage                                              | Installed   | Removed    | Notes                                         |
 |----------------------------------------------------|-------------|------------|-----------------------------------------------|
 | [Balcony Stage] | August 1983 | 1989       | One of 2 Balcony Stages in New Hampshire.     |
-| [Chuck E.'s House Facade]   | 1989        | 1996       | One of 2 C-Stages installed in New Hampshire. |
+| [Chuck E.'s House Facade (C-Stage)]   | 1989        | 1996       | One of 2 C-Stages installed in New Hampshire. |
 | [2-Stage]                  | 1996        | March 2018 | One of 2 2-Stages in New Hampshire.           |
 
 ## Animatronics

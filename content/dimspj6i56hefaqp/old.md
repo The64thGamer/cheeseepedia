@@ -11,7 +11,7 @@ Originally, Montgomery featured a Rock-afire Explosion, as all other ShowBiz loc
 | Stage                                               | Installed      | Removed     | Notes                                                                    |
 |-----------------------------------------------------|----------------|-------------|--------------------------------------------------------------------------|
 | [Classic Stage]             | September 1982 | 1991        | 4th ShowBiz Pizza store to open in Alabama.                              |
-| [Concept Unification Stage] | 1991           | August 2013 | One of 7 ShowBiz Pizza stores in Alabama to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991           | August 2013 | One of 7 ShowBiz Pizza stores in Alabama to undergo Concept Unification. |
 
 ## Animatronics
 
@@ -36,9 +36,9 @@ Originally, Montgomery featured a Rock-afire Explosion, as all other ShowBiz loc
 
 | Link                                                                          | Description                                                                                                                   | Filming Date       |
 |-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| [Link](https://youtu.be/FNmGmXdKbmA&t=2066s)                                  | Footage of the gameroom and [Concept Unification Stage]. Includes *Chuck E. Shuffle 1994* performance | February 8th, 1997 |
+| [Link](https://youtu.be/FNmGmXdKbmA&t=2066s)                                  | Footage of the gameroom and [Concept Unification Stage (3-Stage)]. Includes *Chuck E. Shuffle 1994* performance | February 8th, 1997 |
 | [Link](https://youtu.be/_ExnAOse1dc)                                          | Birthday Star 1992                                                                                                            | August 15th, 1998  |
-| [Link](https://youtu.be/6yADkAE0GDI)                                          | Small clip of the [Concept Unification Stage]                                                         | August 15th, 1998  |
+| [Link](https://youtu.be/6yADkAE0GDI)                                          | Small clip of the [Concept Unification Stage (3-Stage)]                                                         | August 15th, 1998  |
 | [Link](https://www.flickr.com/photos/63946722@N03/5825867141/in/photostream/) | Store Tour                                                                                                                    | January-April 2011 |
 | [Link](https://www.flickr.com/photos/63946722@N03/5826417823/in/photostream/) | Clip of Segment 2 of the [January 2011 Show] being performed on the store's stage.                    | January-April 2011 |
 

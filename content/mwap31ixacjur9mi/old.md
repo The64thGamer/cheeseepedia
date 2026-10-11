@@ -1,4 +1,4 @@
-***Arvada, CO (9301 Ralston Rd), Store #717*** was a *ShowBiz Pizza Place* that opened on March 31st, 1981 with a [Classic Stage], and closed as a *Chuck E. Cheese's* on September 20th, 2017 with a [Concept Unification Stage].
+***Arvada, CO (9301 Ralston Rd), Store #717*** was a *ShowBiz Pizza Place* that opened on March 31st, 1981 with a [Classic Stage], and closed as a *Chuck E. Cheese's* on September 20th, 2017 with a [Concept Unification Stage (3-Stage)].
 
 ## Stages
 

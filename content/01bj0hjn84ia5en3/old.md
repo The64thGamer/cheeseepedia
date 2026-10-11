@@ -6,12 +6,12 @@ Lexington opened on December 1st, 1983 as the second ShowBiz Pizza Place in Kent
 
 ## Stages
 
-Originally, Lexington had a Rock-Afire Explosion, as all other ShowBiz Pizza Place's did, they would have it for a few years, until sometime in 1991, when they would undergo a process known as Concept Unification, this was to replace the RAE with the Chuck E. Cheese characters. They would have the [Concept Unification Stage] until either 2006 or 2007, when they would replace it with a [Studio C Beta], 16m, this was the first and only [Studio C Beta] in Kentucky, as Louisville has a [Studio C Alpha], and Bowling Green had a [Studio C Cappa]. They would have the Beta until 2019, when they would undergo the 2.0 remodel, replacing the Studio C Beta with a [Chuck E Live Stage (Dance Floor)]. They were the second 2.0 in the state, after [Paducah, KY (5141 Hinkleville Rd)], which received 2.0 in 2018. Lexington would be the most recent 2.0 in Kentucky until March of 2022, when [Florence, KY (7635 Mall Rd)] would receive 2.0, and then [Bowling Green, KY (2625 Scottsville Rd)] received it in June of 2022, making Louisville the last non-2.0 store in Kentucky.
+Originally, Lexington had a Rock-Afire Explosion, as all other ShowBiz Pizza Place's did, they would have it for a few years, until sometime in 1991, when they would undergo a process known as Concept Unification, this was to replace the RAE with the Chuck E. Cheese characters. They would have the [Concept Unification Stage (3-Stage)] until either 2006 or 2007, when they would replace it with a [Studio C Beta], 16m, this was the first and only [Studio C Beta] in Kentucky, as Louisville has a [Studio C Alpha], and Bowling Green had a [Studio C Cappa]. They would have the Beta until 2019, when they would undergo the 2.0 remodel, replacing the Studio C Beta with a [Chuck E Live Stage (Dance Floor)]. They were the second 2.0 in the state, after [Paducah, KY (5141 Hinkleville Rd)], which received 2.0 in 2018. Lexington would be the most recent 2.0 in Kentucky until March of 2022, when [Florence, KY (7635 Mall Rd)] would receive 2.0, and then [Bowling Green, KY (2625 Scottsville Rd)] received it in June of 2022, making Louisville the last non-2.0 store in Kentucky.
 
 | Stage                                                      | Installed     | Removed      |
 |------------------------------------------------------------|---------------|--------------|
 | [Classic Stage]                    | November 1983 | 1991         |
-| [Concept Unification Stage]        | 1991          | 2006 or 2007 |
+| [Concept Unification Stage (3-Stage)]        | 1991          | 2006 or 2007 |
 | [Studio C Beta]                    | 2006 or 2007  | 2019         |
 | [Chuck E Live Stage (Dance Floor)] | 2019          | Still In Use |
 

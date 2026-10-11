@@ -7,7 +7,7 @@ Orlando opened with the Rock afire Explosion in July 1981. Unfortunately, there 
 | Stage                                               | Installed      | Removed        |
 |-----------------------------------------------------|----------------|----------------|
 | [Classic Stage]             | July 1981      | 1991/1992      |
-| [Concept Unification Stage] | Fall 1989      | 1998           |
+| [Concept Unification Stage (3-Stage)] | Fall 1989      | 1998           |
 | [Studio C Alpha]            | 1998           | September 2021 |
 | Dance Floor + Video Wall                            | September 2021 | Still in use.  |
 

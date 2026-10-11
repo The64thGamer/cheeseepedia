@@ -2,12 +2,12 @@
 
 ## Stages
 
-The store opened with a Rock-afire Explosion [Classic Stage]. During [Concept Unification Installation Manual] the existing show was converted into a [Concept Unification Stage] / 3-Stage show. It is currently unknown as to when the store got Concept Unification, but it is rumored to be around 1992 due to the color of the valance above the stage. Throughout its history as a 3-Stage, the store borrowed parts and props from closed locations in [Cincinnati, OH (8801 Colerain Ave)] and [Columbus, OH (4284 Macsway Ave)]. The stage show started removed during the location's 2.0 Remodel at 8:52am on August 10, 2022. This 3-Stage was the last one to exist in Ohio. According to fandom members familiar with the location, the 3-Stage was disposed of behind the store. The fate of the show is unknown, as it was sitting idly in the dumpster for up to a week afterwards.
+The store opened with a Rock-afire Explosion [Classic Stage]. During [Concept Unification Installation Manual] the existing show was converted into a [Concept Unification Stage (3-Stage)] / 3-Stage show. It is currently unknown as to when the store got Concept Unification, but it is rumored to be around 1992 due to the color of the valance above the stage. Throughout its history as a 3-Stage, the store borrowed parts and props from closed locations in [Cincinnati, OH (8801 Colerain Ave)] and [Columbus, OH (4284 Macsway Ave)]. The stage show started removed during the location's 2.0 Remodel at 8:52am on August 10, 2022. This 3-Stage was the last one to exist in Ohio. According to fandom members familiar with the location, the 3-Stage was disposed of behind the store. The fate of the show is unknown, as it was sitting idly in the dumpster for up to a week afterwards.
 
 | Stage                                               | Installed             | Removed       |
 |-----------------------------------------------------|-----------------------|---------------|
 | [Rock-afire Explosion]      | January 1983          | Early 90s     |
-| [Concept Unification Stage] | Early 90s             | August 2022   |
+| [Concept Unification Stage (3-Stage)] | Early 90s             | August 2022   |
 | Dance Floor + Video Wall                            | August-September 2022 | Still in use. |
 
 ## History

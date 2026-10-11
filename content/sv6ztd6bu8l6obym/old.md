@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Stage                                                      | Installed      | Removed        | Notes                                                           |
 |------------------------------------------------------------|----------------|----------------|-----------------------------------------------------------------|
 | [Classic Stage]                    | March 1983     | Around 1991    | One of six ShowBiz locations to open in Pennsylvania.           |
-| [Concept Unification Stage]        | Around 1991    | September 2018 | One of three Pennsylvania locations to get Concept Unification. |
+| [Concept Unification Stage (3-Stage)]        | Around 1991    | September 2018 | One of three Pennsylvania locations to get Concept Unification. |
 | [Chuck E Live Stage (Dance Floor)] | September 2018 | Still In Use   | 2017 Model                                                      |
 
 ## Animatronics

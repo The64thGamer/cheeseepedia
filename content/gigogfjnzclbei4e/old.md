@@ -2,11 +2,11 @@
 
 ## Stage
 
-Cavill opened with one of the last [Cyberamics Portrait Shelf Stage] with the Stage having balcony elements, decor, &amp; a Cheese Crawl. Cavill also opened with Dolli DImples as their one &amp; only Cabaret act.
+Cavill opened with one of the last [Portrait / Shelf Stage] with the Stage having balcony elements, decor, &amp; a Cheese Crawl. Cavill also opened with Dolli DImples as their one &amp; only Cabaret act.
 
 | Name                                                      | Installed  | Removed | Notes                          |
 |-----------------------------------------------------------|------------|---------|--------------------------------|
-| [Cyberamics Portrait Shelf Stage] | March 1981 | 1982    | Balcony &amp; Portrait Hybrid. |
+| [Portrait / Shelf Stage] | March 1981 | 1982    | Balcony &amp; Portrait Hybrid. |
 
 ## History
 

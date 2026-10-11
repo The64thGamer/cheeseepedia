@@ -1,4 +1,4 @@
-***Irving, TX (3903 W Airport Fwy), Store #81*** is a *Chuck E. Cheese's* that opened in 1988 under the name ShowBiz Pizza with [Chuck E's House]. This location is featured in training material, advertisements, and is one of the several test sites for new attractions. The interior shots for Chuck E. Cheese in the Galaxy 5000 and Closing Time intermission were also filmed at this location.
+***Irving, TX (3903 W Airport Fwy), Store #81*** is a *Chuck E. Cheese's* that opened in 1988 under the name ShowBiz Pizza with [Chuck E.'s House (Rocker Stage)]. This location is featured in training material, advertisements, and is one of the several test sites for new attractions. The interior shots for Chuck E. Cheese in the Galaxy 5000 and Closing Time intermission were also filmed at this location.
 
 ## Stages
 
@@ -6,7 +6,7 @@ Their Chuck E.'s House lasted up to early 1994, when it would be replaced for th
 
 | Stage                                     | Installed     | Removed               |
 |-------------------------------------------|---------------|-----------------------|
-| [Chuck E's House] | 1988          | Early 1994            |
+| [Chuck E.'s House (Rocker Stage)] | 1988          | Early 1994            |
 | [1-Stage]         | 1994          | October-November 2019 |
 | Dance Floor                               | November 2019 | Still in use.         |
 | Video Wall                                | 2021          | Still in use.         |

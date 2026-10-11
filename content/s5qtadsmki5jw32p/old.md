@@ -9,7 +9,7 @@ Oak Lawn opened its doors on January 19th, 1983 with the Rock-Afire Explosion sh
 | Stage                                               | Installed    | Removed       | Notes                                                                      |
 |-----------------------------------------------------|--------------|---------------|----------------------------------------------------------------------------|
 | [Classic Stage]             | January 1983 | 1991          | 9th ShowBiz Pizza store to open in Illinois.                               |
-| [Concept Unification Stage] | 1991         | July 2006     | One of 10 ShowBiz Pizza stores in Illinois to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991         | July 2006     | One of 10 ShowBiz Pizza stores in Illinois to undergo Concept Unification. |
 | [Studio C Beta], 16m        | July 2006    | November 2017 | One of 6 Studio C Beta installations in Illinois.                          |
 
 ## Animatronics

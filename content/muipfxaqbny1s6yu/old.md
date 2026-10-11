@@ -7,7 +7,7 @@ Billings opened with the Rock afire Explosion in 1984. Unfortunately, there are 
 | Stage                                               | Installed    | Removed       | Notes                                                                                     |
 |-----------------------------------------------------|--------------|---------------|-------------------------------------------------------------------------------------------|
 | [Classic Stage]             | August 1984  | 1991 or 1992  | Only ShowBiz in Montana.                                                                  |
-| [Concept Unification Stage] | 1991 or 1992 | July 28, 2024 | One of 2 remaining Concept Unification stages before removal. Last 3 stage to be removed. |
+| [Concept Unification Stage (3-Stage)] | 1991 or 1992 | July 28, 2024 | One of 2 remaining Concept Unification Stage (3-Stage)s before removal. Last 3 stage to be removed. |
 | Dance Floor                                         | August 2024  | Still in use  |                                                                                           |
 | Video Wall                                          | August 2024  | Still in use  |                                                                                           |
 

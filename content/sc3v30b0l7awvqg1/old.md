@@ -11,7 +11,7 @@ Originally, Omaha featured a Rock-Afire Explosion, as all other ShowBiz location
 | Stage                                               | Intalled   | Removed     | Notes                                                                     |
 |-----------------------------------------------------|------------|-------------|---------------------------------------------------------------------------|
 | [Classic Stage]             | June 1982  | 1991        | 3rd and last ShowBiz Pizza store to open in Nebraska.                     |
-| [Concept Unification Stage] | 1991       | April 2022  | One of 2 ShowBiz locations in Nebraska to receive Concept Unification.    |
+| [Concept Unification Stage (3-Stage)] | 1991       | April 2022  | One of 2 ShowBiz locations in Nebraska to receive Concept Unification.    |
 | Dance Floor + Video Wall                            | April 2022 | Stil in use | Only 2.0 in Nebraska as it is the only Chuck E. Cheese left in the state. |
 
 ## Animatronics

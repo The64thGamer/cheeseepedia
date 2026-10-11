@@ -11,7 +11,7 @@ Westmoreland (Redbird) opened with the Rock afire Explosion in September 1982. F
 | Stage                                                                                             | Installed      | Removed      | Notes                                                        |
 |---------------------------------------------------------------------------------------------------|----------------|--------------|--------------------------------------------------------------|
 | [Classic Stage]                                                           | September 1982 | 1991         | 100th ShowBiz Pizza store opened. 16th to open in the state. |
-| [Concept Unification Stage]                                               | 1991           | August 2022  | Formerly the last 3-Stage in Texas.                          |
+| [Concept Unification Stage (3-Stage)]                                               | 1991           | August 2022  | Formerly the last 3-Stage in Texas.                          |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | August 2022    | Still in use | 2021 Model.                                                  |
 
 ## Animatronics

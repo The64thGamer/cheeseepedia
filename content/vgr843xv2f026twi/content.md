@@ -2,7 +2,7 @@
 
 ## History
 
-The Wink debuted with the Concept Unification retrofit in 1990.[4] The ribbons next to the Chuck E. head originally read 'In Pizza We Trust' but complaints were given about the phrase regarding religion and the actual phrase 'In God We Trust' so existing winks with this phrase were retrofitted just to have red and white ribbons covering up the offending phrase starting in 1992. [5] Some stores did not cover 'In Pizza We Trust' with the red and white ribbons. Starting in 1992 CEC would produce a smaller variant of the wink which would most commonly be installed on 2-Stages and 1-Stages. Winks reused on the Concept Unification Stage In 2023 the wink would appear on the promotional poster for Northridge, CA Legacy Grand Re-Opening featuring the red and white stripes.[6] Then in 2024, the wink would again appear on the promotional poster for Charlotte, North Carolina (Pineville) featuring the 'In Pizza We Trust' text instead of the red and white ribbon design. [7] This would be the first time CEC would ever reference the 'In Pizza We Trust' text since 1992.
+The Wink debuted with the Concept Unification retrofit in 1990.[4] The ribbons next to the Chuck E. head originally read 'In Pizza We Trust' but complaints were given about the phrase regarding religion and the actual phrase 'In God We Trust' so existing winks with this phrase were retrofitted just to have red and white ribbons covering up the offending phrase starting in 1992. [5] Some stores did not cover 'In Pizza We Trust' with the red and white ribbons. Starting in 1992 CEC would produce a smaller variant of the wink which would most commonly be installed on 2-Stages and 1-Stages. Winks reused on the Concept Unification Stage (3-Stage) In 2023 the wink would appear on the promotional poster for Northridge, CA Legacy Grand Re-Opening featuring the red and white stripes.[6] Then in 2024, the wink would again appear on the promotional poster for Charlotte, North Carolina (Pineville) featuring the 'In Pizza We Trust' text instead of the red and white ribbon design. [7] This would be the first time CEC would ever reference the 'In Pizza We Trust' text since 1992.
 
 ## Design
 
@@ -24,7 +24,7 @@ The figure features 1 movement in total.
 
 | Movement                         | Bit # |
 | -------------------------------- | ----- |
-| Wink (Concept Unification Stage) | 49    |
+| Wink (Concept Unification Stage (3-Stage)) | 49    |
 | Wink (CEC Stages)                | 10    |
 
 ## Stages Used In (Including stage relocation)

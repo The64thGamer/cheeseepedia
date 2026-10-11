@@ -9,7 +9,7 @@ Lincoln opened its doors on December 29th, 1982 as the last of three ShowBiz Piz
 | Stage                                               | Installed     | Removed      |
 |-----------------------------------------------------|---------------|--------------|
 | [Classic Stage]             | December 1982 | January 1992 |
-| [Concept Unification Stage] | January 1992  | June 2020    |
+| [Concept Unification Stage (3-Stage)] | January 1992  | June 2020    |
 
 ## Animatronics
 

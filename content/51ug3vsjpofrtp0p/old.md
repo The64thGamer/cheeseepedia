@@ -25,7 +25,7 @@ Originally, Bakersfield featured a Rock-Afire Explosion, as all other ShowBiz lo
 | Stage                                                      | Installed     | Removed      | Notes                                                                       |
 |------------------------------------------------------------|---------------|--------------|-----------------------------------------------------------------------------|
 | [Classic Stage]                    | November 1982 | 1991-1992    | 2nd ShowBiz Pizza store to open in California.                              |
-| [Concept Unification Stage]        | 1991-1992     | 1998         | One of 9 ShowBiz Pizza stores in California to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]        | 1991-1992     | 1998         | One of 9 ShowBiz Pizza stores in California to undergo Concept Unification. |
 | Studio C (1997)\|Studio C Alpha                            | 1998          | June 2019    | One of the first Studio Cs installed in California.                         |
 | [Chuck E Live Stage (Dance Floor)] | June 2019     | Still In Use | 2019 Model.                                                                 |
 

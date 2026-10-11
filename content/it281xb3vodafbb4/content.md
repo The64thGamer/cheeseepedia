@@ -8,7 +8,7 @@ Two Guys Plaza was built in 1966, and its original major anchor was the departme
 
 ### Years of Operation
 
-The Greece Pizza Time Theatre opened on March 15, 1983. Its opening made it the second Pizza Time Theatre in the Rochester area after [Penfield, NY (1614 Penfield Rd)], as well as the sixth in New York. Greece's Balcony Stage opened with the [Tunnel of Love (Balcony Stage Theme)] that featured Madame Oink. Greece also opened with The King, who remained in the store for its entire lifetime. In 1989, the store's Balcony Stage was retrofitted into a Chuck E.'s House Facade, and in 1992, the store received its final stage, a 2-Stage.
+The Greece Pizza Time Theatre opened on March 15, 1983. Its opening made it the second Pizza Time Theatre in the Rochester area after [Penfield, NY (1614 Penfield Rd)], as well as the sixth in New York. Greece's Balcony Stage opened with the [Tunnel of Love (Balcony Stage Theme)] that featured Madame Oink. Greece also opened with The King, who remained in the store for its entire lifetime. In 1989, the store's Balcony Stage was retrofitted into a Chuck E.'s House Facade (C-Stage), and in 1992, the store received its final stage, a 2-Stage.
 
 ### Closure
 

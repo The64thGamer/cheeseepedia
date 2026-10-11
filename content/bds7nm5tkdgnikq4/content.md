@@ -51,11 +51,11 @@ As stores grew past the initial two locations, the cast would begin to be toned 
 
 The merging of the brands would have ShowBiz attempt to cross-promote the restaurants by having [Billy Bob] and [Chuck E. Cheese] interact in various forms. More info on the ShowBiz cast in the [Intro to the Rock-afire Explosion]. 
 
-[Chuck E.'s House] and later [Chuck E.'s House Facade] would begin replacing the [Balcony Stage], setting the characters inside a Folk Victorian style home. The Warblettes would also be replaced by the [Singing Flowers] going forward.
+[Chuck E.'s House (Rocker Stage)] and later [Chuck E.'s House Facade (C-Stage)] would begin replacing the [Balcony Stage], setting the characters inside a Folk Victorian style home. The Warblettes would also be replaced by the [Singing Flowers] going forward.
 
 ### Concept Unification
 
-As the conflict between ShowBiz and Creative Engineering would result in them losing the Rock-afire license, [Concept Unification] would begin replacing all of [The Rock-afire Explosion] with the [Concept Unification Stage] and its retrofits of the characters from June of 1990 to 1992. With this would come new changes to the character designs, notably [Helen Henny] changing to appeal to the young girls that ShowBiz's [Mitzi Mozzarella] suited prior. Chuck also changed from the long worn red and yellow vest to a tuxedo. The stage would change into a more urban setting, alongside there being a new set of prop characters to sing background vocals:
+As the conflict between ShowBiz and Creative Engineering would result in them losing the Rock-afire license, [Concept Unification] would begin replacing all of [The Rock-afire Explosion] with the [Concept Unification Stage (3-Stage)] and its retrofits of the characters from June of 1990 to 1992. With this would come new changes to the character designs, notably [Helen Henny] changing to appeal to the young girls that ShowBiz's [Mitzi Mozzarella] suited prior. Chuck also changed from the long worn red and yellow vest to a tuxedo. The stage would change into a more urban setting, alongside there being a new set of prop characters to sing background vocals:
 
 * [Pizza Cam] was a blue living camera replacing [Looney Bird], with his snout being a lens pointed at the audience.
 * [Moon] carried over unchanged from the [Classic Stage].

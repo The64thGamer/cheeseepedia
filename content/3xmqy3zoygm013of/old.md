@@ -18,12 +18,12 @@ Due to the COVID-19 pandemic and CEC falling into bankruptcy in 2020, talks on o
 
 ## Stages
 
-Union opened with a Balcony Stage and The Beagles. Many recall 'The King' also being at this location. They received [Chuck E.'s House Facade] stage around 1989 and switched to a 2-Stage in 1992. After undergoing the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, they installed a Studio C Beta removing the animatronics that performed at the location for 20 years since opening. The Beta was saved by private collectors following the store's closure in November 2019.
+Union opened with a Balcony Stage and The Beagles. Many recall 'The King' also being at this location. They received [Chuck E.'s House Facade (C-Stage)] stage around 1989 and switched to a 2-Stage in 1992. After undergoing the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, they installed a Studio C Beta removing the animatronics that performed at the location for 20 years since opening. The Beta was saved by private collectors following the store's closure in November 2019.
 
 | Stage                                              | Installed   | Removed       | Notes                                                                                                              |
 |----------------------------------------------------|-------------|---------------|--------------------------------------------------------------------------------------------------------------------|
 | [Balcony Stage] | August 1984 | 1989          | One of three Balcony Stages installed in New Jersey.                                                               |
-| [Chuck E.'s House Facade]   | 1989        | 1992          | Only Chuck E.'s House Facade that was installed in New Jersey.                                                     |
+| [Chuck E.'s House Facade (C-Stage)]   | 1989        | 1992          | Only Chuck E.'s House Facade (C-Stage) that was installed in New Jersey.                                                     |
 | [2-Stage]                  | 1992        | Early 2005    | One of three 2-Stages installed in New Jersey.                                                                     |
 | [Studio C Beta]            | Early 2005  | November 2019 | One of three 16m Betas installed in New Jersey. One of four Betas installed in New Jersey (Mays Landing is a 32m). |
 

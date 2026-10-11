@@ -5,7 +5,7 @@
 | Stage                                               | Installed     | Removed      | Notes                                                                                                                                                                                                                   |
 |-----------------------------------------------------|---------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Classic Stage]             | November 1983 | 1991/1992    | 5th SPP to open in Pennsylvania.                                                                                                                                                                                        |
-| [Concept Unification Stage] | 1991/1992     | May 13, 2024 | Last 3-Stage in Pennsylvania and the Northeast United States before removal. Second-to-last 3 stage to be removed (the last being [Billings, MT (100 24th St)]). Stage was in decent condition. |
+| [Concept Unification Stage (3-Stage)] | 1991/1992     | May 13, 2024 | Last 3-Stage in Pennsylvania and the Northeast United States before removal. Second-to-last 3 stage to be removed (the last being [Billings, MT (100 24th St)]). Stage was in decent condition. |
 | Dance Floor + Video Wall                            | May 2024      | Still in use |                                                                                                                                                                                                                         |
 
 ## History

@@ -1,4 +1,4 @@
-***519 Richards Drive*** was a ShowBiz Pizza Place/Chuck E. Cheese which opened on August 18, 1983 as a corporate store with a Rock-Afire Explosion, and closed in 1993 (month and day unknown) with a [Concept Unification Stage] This location received Concept Unification somewhere in 1991, then closed in 1993 making it the 3rd shortest lived Chuck E. Cheese after Concept Unification.
+***519 Richards Drive*** was a ShowBiz Pizza Place/Chuck E. Cheese which opened on August 18, 1983 as a corporate store with a Rock-Afire Explosion, and closed in 1993 (month and day unknown) with a [Concept Unification Stage (3-Stage)] This location received Concept Unification somewhere in 1991, then closed in 1993 making it the 3rd shortest lived Chuck E. Cheese after Concept Unification.
 
 ## History
 

@@ -1,4 +1,4 @@
-***Tucson, AZ (5534 E 22nd St)*** was a *Pizza Time Theatre* in Tucson, Arizona that opened in July 15, 1980 with a [Cyberamics Portrait Shelf Stage]. This is not to be confused with the [Tucson, AZ (8616 E Broadway Blvd)] Pizza Time Theatre that opened on May 4th, 1981 and closed in 1983 with a [Balcony Stage]. This is also not to be confused with the [Tucson, AZ (6130 E Speedway Blvd)] location which opened in April 1995 with a [1-Stage] and was relocated to [Tucson, AZ (6125 E Speedway Blvd)] in October 2014 with a [Circles of Light] and still operates to this day.
+***Tucson, AZ (5534 E 22nd St)*** was a *Pizza Time Theatre* in Tucson, Arizona that opened in July 15, 1980 with a [Portrait / Shelf Stage]. This is not to be confused with the [Tucson, AZ (8616 E Broadway Blvd)] Pizza Time Theatre that opened on May 4th, 1981 and closed in 1983 with a [Balcony Stage]. This is also not to be confused with the [Tucson, AZ (6130 E Speedway Blvd)] location which opened in April 1995 with a [1-Stage] and was relocated to [Tucson, AZ (6125 E Speedway Blvd)] in October 2014 with a [Circles of Light] and still operates to this day.
 
 ## History
 

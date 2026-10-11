@@ -8,7 +8,7 @@ The Johnson City Pizza Time Theatre opened on June 7, 1983, as the 247th Pizza T
 
 ### Years of Operation
 
-By April 1984, Johnson City had received Cheese E. Street (advertised as "Chuck E. Street" [2]) and was one of only two stores in New York to have it, the other being [Cheektowaga, NY (Thruway Mall)](/?v=cep-js&=7sl3l7rs7436q5u6). Notably, the store kept the PTT signage for the rest of its operation. In 1989, the store's Balcony Stage was retrofitted into a Chuck E.'s House Facade, which was replaced by a 2-Stage in around 1993.
+By April 1984, Johnson City had received Cheese E. Street (advertised as "Chuck E. Street" [2]) and was one of only two stores in New York to have it, the other being [Cheektowaga, NY (Thruway Mall)](/?v=cep-js&=7sl3l7rs7436q5u6). Notably, the store kept the PTT signage for the rest of its operation. In 1989, the store's Balcony Stage was retrofitted into a Chuck E.'s House Facade (C-Stage), which was replaced by a 2-Stage in around 1993.
 
 ### Closure
 

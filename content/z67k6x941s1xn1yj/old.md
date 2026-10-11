@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1991 or 19
 | Stage                                                      | Installed      | Removed      | Notes                                                                                   |
 |------------------------------------------------------------|----------------|--------------|-----------------------------------------------------------------------------------------|
 | [Classic Stage]                    | September 1982 | 1991         | 5th ShowBiz store to open in Indiana.                                                   |
-| [Concept Unification Stage]        | 1991           | July 2019    | One of 7 ShowBiz stores in Indiana to get Concept Unification. Caught fire in Mid 2018. |
+| [Concept Unification Stage (3-Stage)]        | 1991           | July 2019    | One of 7 ShowBiz stores in Indiana to get Concept Unification. Caught fire in Mid 2018. |
 | [Chuck E Live Stage (Dance Floor)] | July 2019      | Still In Use | 2019 Model.                                                                             |
 
 ## Animatronics

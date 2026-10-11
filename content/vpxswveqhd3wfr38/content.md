@@ -11,7 +11,7 @@ As with other ShowBiz Pizza Place stores at the time, Pineville opened with a Ro
 
 ## 1990's
 
-Pineville received [Concept Unification] in 1991, converting their Rock-afire Classic Stage into a [Concept Unification Stage] with Munch's Make Believe Band. In January 1993, Adventure Restaurant Corporation closed the Pineville location after 10 years of ownership. A few weeks later, Showbiz Pizza Time, Inc. acquired Pineville, reopening and rebranding it as "Chuck E. Cheese's Pizza" that same month (Pineville had previously operated under the ShowBiz Pizza name, even after Concept Unification). [3]
+Pineville received [Concept Unification] in 1991, converting their Rock-afire Classic Stage into a [Concept Unification Stage (3-Stage)] with Munch's Make Believe Band. In January 1993, Adventure Restaurant Corporation closed the Pineville location after 10 years of ownership. A few weeks later, Showbiz Pizza Time, Inc. acquired Pineville, reopening and rebranding it as "Chuck E. Cheese's Pizza" that same month (Pineville had previously operated under the ShowBiz Pizza name, even after Concept Unification). [3]
 
 Between 1993 and 1996, the location received the [SPT 1990's Remodel Program] with a modified exterior featuring "Thumb Chuck", the Obstotron play structure, and other fixtures of the remodel.
 

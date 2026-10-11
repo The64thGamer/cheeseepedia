@@ -15,7 +15,7 @@ Also here's a countdown tier list of my Top 10 Least/Most Favorite current CEC S
 4. [Road Stage] (the half-bodied bots give me 1980s Pizza Time Theatre vibes, in a good way)
 3. [Studio C Alpha] (a nice looking late night themed stage)
 2. [1-Stage] (well layed out and has been at my 2nd local store since 1994, and that rhymes)
-1. [Concept Unification Stage] (was at my local store until August 2022)
+1. [Concept Unification Stage (3-Stage)] (was at my local store until August 2022)
 I also have my own Chuck E. Cheese collection, consisting of cups from Durham, Sketch Book photos, and an official CEC Funko Pop. I've been a CEC fan since 2021 and a community member since early 2023. I also have a YouTube channel, Cheddar Chuck E. That's where I post my Chuck E. Cheese / ShowBiz Pizza videos. Here's a link to it: https://www.youtube.com/@showbizcheesenc3956
 That's it for my personal page, cya.
 

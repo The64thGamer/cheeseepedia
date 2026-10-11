@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Stage                                                                                             | Installed     | Removed       | Notes                                       |
 |---------------------------------------------------------------------------------------------------|---------------|---------------|---------------------------------------------|
 | [Classic Stage]                                                           | October 1983  | November 1990 | One of three ShowBiz locations in Arizona.  |
-| [Concept Unification Stage]                                               | November 1990 | January 2023  | Oldest 3-Stage from 2001 until 2.0 remodel. |
+| [Concept Unification Stage (3-Stage)]                                               | November 1990 | January 2023  | Oldest 3-Stage from 2001 until 2.0 remodel. |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | January 2023  | Still In Use  | 2021 Model. First 2.0 in Arizona.           |
 
 ## Animatronics

@@ -7,7 +7,7 @@ Originally, when the store opened on June 27, 1983, they had a Rock-Afire Explos
 | Stage                                                                                             | Installed     | Removed       | Notes                                                                |
 |---------------------------------------------------------------------------------------------------|---------------|---------------|----------------------------------------------------------------------|
 | [Classic Stage]                                                           | June 1983     | 1991 or 1992  | 5th ShowBiz Pizza store to open in Louisiana.                        |
-| [Concept Unification Stage]                                               | 1991 or 1992  | April 2009    | One of 5 ShowBiz stores in Louisiana to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]                                               | 1991 or 1992  | April 2009    | One of 5 ShowBiz stores in Louisiana to undergo Concept Unification. |
 | Small-Town Studio C\|Studio C Cappa                                                               | April 2009    | February 2022 | Last Cappa to ever be installed.                                     |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | February 2022 | Still in Use  | 2021 Model.                                                          |
 

@@ -2,14 +2,14 @@
 
 ## History
 
-Spokane opened on April 14th, 1983, as part of the center it was in and was franchised. Spokane received the 1986 SPT Remodel Program|1988 Remodel in around 1989/1990 which included the conversion from Balcony Stage to Chuck E.'s House Facade, the removal of PTT decor for newer decor, and the addition of the Blue and White awnings above the salad bar and checkers across and outside the store. Spokane would have Chuck E.'s House Facade until around 1993/1994 when they would receive the 1993 Remodel which involved converting Chuck E.'s House Facade into a [2-Stage], the removal of older decor for newer decor, and the Blue and White awnings removed. In March 2000, the location relocated to [Spokane, WA (10007 N Nevada St)] as a decision made by the franchise owners. Currently, as of April 2023, the location is now part of a Walmart.
+Spokane opened on April 14th, 1983, as part of the center it was in and was franchised. Spokane received the 1986 SPT Remodel Program|1988 Remodel in around 1989/1990 which included the conversion from Balcony Stage to Chuck E.'s House Facade (C-Stage), the removal of PTT decor for newer decor, and the addition of the Blue and White awnings above the salad bar and checkers across and outside the store. Spokane would have Chuck E.'s House Facade (C-Stage) until around 1993/1994 when they would receive the 1993 Remodel which involved converting Chuck E.'s House Facade (C-Stage) into a [2-Stage], the removal of older decor for newer decor, and the Blue and White awnings removed. In March 2000, the location relocated to [Spokane, WA (10007 N Nevada St)] as a decision made by the franchise owners. Currently, as of April 2023, the location is now part of a Walmart.
 
 ## Stages
 
 | Stage                                              | Installed  | Removed    | Notes                                                                                                                                                                                         |
 |----------------------------------------------------|------------|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Balcony Stage] | April 1983 | 1989/1990  | Possibly the 8th Pizza Time Theatre to open in Washington State.                                                                                                                              |
-| [Chuck E.'s House Facade]   | 1989/1990  | 1993/1994  | One of three installed in Washington State.                                                                                                                                                   |
+| [Chuck E.'s House Facade (C-Stage)]   | 1989/1990  | 1993/1994  | One of three installed in Washington State.                                                                                                                                                   |
 | [2-Stage]                  | 1993/1994  | March 2000 | Only one Installed in Washington State. Sent to [Lynnwood, WA (3717 196th St Suite 100)] to be converted into one of two [Cyberamic 3-Stage]. |
 
 ## Animatronics

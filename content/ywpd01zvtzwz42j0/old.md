@@ -1,4 +1,4 @@
-***3800 William Penn Hwy, Store #537*** was a Chuck E. Cheese that opened in March 1993 (day not found) with a 2-Stage, and closed on March 30, 2024.(1) It should not be confused with the [Monroeville, PA (3813 William Penn Hwy)] which was just across the street and opened in the Holiday Center Shopping Mall opened 11 years prior in March 1982 with a Balcony Stage and relocated to this store in March 1993 with Chuck E.'s House Facade and was also the first CEC to open in Pennsylvania.
+***3800 William Penn Hwy, Store #537*** was a Chuck E. Cheese that opened in March 1993 (day not found) with a 2-Stage, and closed on March 30, 2024.(1) It should not be confused with the [Monroeville, PA (3813 William Penn Hwy)] which was just across the street and opened in the Holiday Center Shopping Mall opened 11 years prior in March 1982 with a Balcony Stage and relocated to this store in March 1993 with Chuck E.'s House Facade (C-Stage) and was also the first CEC to open in Pennsylvania.
 
 ## History
 

@@ -1,1 +1,1 @@
-The [Chuck E.'s House Facade] at [San Antonio (Walzem), TX (8220 Windsor Cross)].
+The [Chuck E.'s House Facade (C-Stage)] at [San Antonio (Walzem), TX (8220 Windsor Cross)].

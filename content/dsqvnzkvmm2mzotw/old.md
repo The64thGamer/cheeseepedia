@@ -12,7 +12,7 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the 
 |---------------------------------------------------------------------------------------------------|--------------------|--------------------|--------------------------------------------------------------------|
 | [Classic Stage]                                                           | July 1982          | October 13th, 1991 | 6th ShowBiz Pizza store in Georgia.                                |
 | [Yogi Bear Stage]                                                         | 1987               | 1987/1988          | One of 3 ShowBiz Pizzas to receive this test stage.                |
-| [Concept Unification Stage]                                               | October 13th, 1991 | April 25th, 2023   | One of 6 ShowBiz stores in Georgia to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)]                                               | October 13th, 1991 | April 25th, 2023   | One of 6 ShowBiz stores in Georgia to undergo Concept Unification. |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | April 25th, 2023   | Still In Use.      | 2021 Model.                                                        |
 
 ## Arcade Machines

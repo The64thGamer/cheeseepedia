@@ -1,7 +1,15 @@
 {
   "type": "Photos",
   "pageThumbnailFile": "",
-  "tags": [],
+  "tags": [
+    "Creative Engineering",
+    "Jingle Bell Jamboree",
+    "Elfis (Animatronic)",
+    "Maynard(Animatronic)",
+    "Satchmo (Animatronic)",
+    "Elfen John (Animatronic)",
+    "Head Bobbing  Cat (Animatronic)"
+  ],
   "startDate": "0000-00-00",
   "contributors": [
     "TutorialTimeYt"

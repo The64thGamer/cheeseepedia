@@ -11,7 +11,7 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Stage                                                                                             | Installed    | Removed      | Notes                                                                        |
 |---------------------------------------------------------------------------------------------------|--------------|--------------|------------------------------------------------------------------------------|
 | [Classic Stage]                                                           | January 1982 | 1991         | 3rd ShowBiz Pizza store to open in Oklahoma.                                 |
-| [Concept Unification Stage]                                               | 1991         | 2006         | One of three ShowBiz Pizza stores in Oklahoma to receive Concept Unification |
+| [Concept Unification Stage (3-Stage)]                                               | 1991         | 2006         | One of three ShowBiz Pizza stores in Oklahoma to receive Concept Unification |
 | [Studio C Beta], 16m                                                      | 2006         | Fall 2021    | Last Studio C in Oklahoma                                                    |
 | [Chuck E Live Stage (Dance Floor)] + [Video Wall] | Fall 2021    | Still in use | 2021 Model.                                                                  |
 

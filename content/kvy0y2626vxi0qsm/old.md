@@ -11,7 +11,7 @@ Originally, Dothan featured a Rock-afire Explosion, as all other ShowBiz locatio
 | Stage                                               | Installed | Removed        | Notes                                                                |
 |-----------------------------------------------------|-----------|----------------|----------------------------------------------------------------------|
 | [Classic Stage]             | 1984      | 1991/1992      | 8th or 9th ShowBiz Pizza Place in Alabama.                           |
-| [Concept Unification Stage] | 1991/1992 | April 22, 1998 | One of seven in the state of Alabama to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991/1992 | April 22, 1998 | One of seven in the state of Alabama to undergo Concept Unification. |
 
 ## Animatronics
 

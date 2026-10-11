@@ -11,7 +11,7 @@ Fargo opened with the Rock afire Explosion in 1984. Unfortunately, there are har
 | Stage                                                                   | Installed     | Removed       | Notes                                                                 |
 |-------------------------------------------------------------------------|---------------|---------------|-----------------------------------------------------------------------|
 | [Classic Stage]                                 | February 1984 | October 1991  | Only ShowBiz in North Dakota.                                         |
-| [Concept Unification Stage]                     | October 1991  | December 2022 | Only 3-Stage in North Dakota.                                         |
+| [Concept Unification Stage (3-Stage)]                     | October 1991  | December 2022 | Only 3-Stage in North Dakota.                                         |
 | [Chuck E Live Stage (Dance Floor)] + Video Wall | December 2022 | March 2024    | Received 2.0 shortly after being bought out by Corporate. 2021 Model. |
 
 ## Animatronics

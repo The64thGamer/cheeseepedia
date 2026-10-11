@@ -7,7 +7,7 @@ Originally when the store opened, they had a Rock-afire Explosion, as all other 
 | Stage                                                      | Installed    | Removed      | Notes                                                                        |
 |------------------------------------------------------------|--------------|--------------|------------------------------------------------------------------------------|
 | [Classic Stage]                    | October 1983 | 1991-1992    | 3rd ShowBiz store to open in Arkansas.                                       |
-| [Concept Unification Stage]        | 1991-1992    | August 2019  | All four ShowBiz locations in Arkansas got Concept Unification.              |
+| [Concept Unification Stage (3-Stage)]        | 1991-1992    | August 2019  | All four ShowBiz locations in Arkansas got Concept Unification.              |
 | [Chuck E Live Stage (Dance Floor)] | August 2019  | Still In Use | 2019 Model. Second 2.0 in Arkansas, Last MMBB Stage of any kind in Arkansas. |
 
 ## History

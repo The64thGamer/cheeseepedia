@@ -1,4 +1,4 @@
-The ***Concept Unification Stage*** (Also known as the ***3-Stage***) is a stage created as part of [Concept Unification] as a retrofit of all [Rock-afire Explosion] shows that replaced all cosmetics with Chuck E. Cheese cosmetics.
+The ***Concept Unification Stage (3-Stage)*** (Also known as the ***3-Stage***) is a stage created as part of [Concept Unification] as a retrofit of all [Rock-afire Explosion] shows that replaced all cosmetics with Chuck E. Cheese cosmetics.
 
 ## History
 

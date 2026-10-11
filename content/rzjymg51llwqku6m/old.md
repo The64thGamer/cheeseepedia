@@ -1,4 +1,4 @@
-***3345 Harvester Rd*** was a Chuck E. Cheese's Pizza Time Theatre|Chuck E. Cheese's *Pizza Time Theatre* that opened on October 15, 1981, with a Balcony Stage, which closed on October 27, 1991 with [Chuck E.'s House Facade]. Burlington was the second PTT store to open outside of the United States, after [Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)], which opened in March 1981. Burlington was also the first PTT/CEC to open in Canada, of which 10 CECs currently exist in the country.
+***3345 Harvester Rd*** was a Chuck E. Cheese's Pizza Time Theatre|Chuck E. Cheese's *Pizza Time Theatre* that opened on October 15, 1981, with a Balcony Stage, which closed on October 27, 1991 with [Chuck E.'s House Facade (C-Stage)]. Burlington was the second PTT store to open outside of the United States, after [Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)], which opened in March 1981. Burlington was also the first PTT/CEC to open in Canada, of which 10 CECs currently exist in the country.
 
 ## History
 
@@ -6,12 +6,12 @@ Burlington opened on October 15th 1981 as the second international location and 
 
 ## Stages
 
-Burlington opened with the Balcony Stage in October 1981. In 1989/1990 they removed the Balcony Stage for a Chuck E.'s House Facade. Unfortunately, there are some photos but no videos to exist of Burlington.
+Burlington opened with the Balcony Stage in October 1981. In 1989/1990 they removed the Balcony Stage for a Chuck E.'s House Facade (C-Stage). Unfortunately, there are some photos but no videos to exist of Burlington.
 
 | Stage                   | Installed    | Removed      | Notes                             |
 |-------------------------|--------------|--------------|-----------------------------------|
 | Balcony Stage           | October 1981 | 1989/1990    | First Chuck E. Cheese in Canada.  |
-| Chuck E.'s House Facade | 1989/1990    | October 1991 | One of the 3 installed in Canada. |
+| Chuck E.'s House Facade (C-Stage) | 1989/1990    | October 1991 | One of the 3 installed in Canada. |
 
 ## Animatronics
 

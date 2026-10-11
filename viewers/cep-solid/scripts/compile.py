@@ -123,7 +123,7 @@ REMODEL_PIN_MAP = {
     "Peter Piper Pizza 2.0 Remodel Program": "6",
     "Fun Spot Arcade Standard Layout": "7",
     "Charlie Cheese's Standard Layout": "8",
-    "CEC Adventure World Standard Layout": "9",
+    "CEC Adventure World Remodel Program": "9",
     "Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園) Standard Layout": "a",
     "2025 Chuck's Arcade Remodel": "b",
 }

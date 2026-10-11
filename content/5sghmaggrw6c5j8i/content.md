@@ -10,7 +10,7 @@ The *Legacy Locations* were created as an official response to the backlash from
 | [Northridge, CA (8425 Reseda Blvd)]                 | [2-Stage]                     | November 10, 2023   |
 | [Nanuet, NY (250 West Route 59)]                    | [Studio C Beta]               | July 18, 2024   |
 | [Springfield, IL (2369 McArthur Ave)]               | [Concept Unification 1-Stage] | July 25, 2024   |
-| [Charlotte, NC (7701 Pineville-Matthews Rd)]        | [Concept Unification Stage]   | July 26, 2024   |
+| [Charlotte, NC (7701 Pineville-Matthews Rd)]        | [Concept Unification Stage (3-Stage)]   | July 26, 2024   |
 | [Hicksville, NY (Delco Plaza 11-15 Hanover Place)]  | [1-Stage]                     | July 19, 2024   |
 | [Willowdale, Ontario, Canada (2452 Sheppard Ave)]   | [Road Stage]                  | July 24, 2025   |
 

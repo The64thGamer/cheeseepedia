@@ -11,7 +11,7 @@ Naperville opened with the Rock afire Explosion in April 1983. Unfortunately, th
 | Stage                                               | Installed  | Removed    | Notes                                                                      |
 |-----------------------------------------------------|------------|------------|----------------------------------------------------------------------------|
 | [Classic Stage]             | April 1983 | 1991       | 11th ShowBiz Pizza Store to open in Illinois.                              |
-| [Concept Unification Stage] | 1991       | 2000       | One of 10 ShowBiz Pizza stores in Illinois to undergo Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991       | 2000       | One of 10 ShowBiz Pizza stores in Illinois to undergo Concept Unification. |
 | Studio C (1997)\|Studio C Alpha                     | 2000       | March 2015 | One of 4 Alphas in Illinois.                                               |
 
 ## Animatronics

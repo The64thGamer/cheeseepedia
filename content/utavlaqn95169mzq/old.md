@@ -18,7 +18,7 @@ In 2020, during the store closure, the stage would be demolished during closure,
 | Stage                                               | Installed    | Removed   | Notes:                                                                                             |
 |-----------------------------------------------------|--------------|-----------|----------------------------------------------------------------------------------------------------|
 | [Classic Stage]             | January 1982 | 1991-1992 | 4th ShowBiz to open in Ohio.                                                                       |
-| [Concept Unification Stage] | 1991-1992    | June 2020 | One of Four ShowBiz locations in Ohio to receive Concept Unification. 2nd to last 3-Stage in Ohio. |
+| [Concept Unification Stage (3-Stage)] | 1991-1992    | June 2020 | One of Four ShowBiz locations in Ohio to receive Concept Unification. 2nd to last 3-Stage in Ohio. |
 
 ## Animatronics
 

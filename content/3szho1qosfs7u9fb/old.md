@@ -11,7 +11,7 @@ Originally, Fayetteville featured a Rock-Afire Explosion, as all other ShowBiz l
 | Stage                                               | Intalled     | Removed        | Notes                                                                  |
 |-----------------------------------------------------|--------------|----------------|------------------------------------------------------------------------|
 | [Classic Stage]             | October 1982 | 1991           | First ShowBiz Pizza store to open in Arkansas.                         |
-| [Concept Unification Stage] | 1991         | September 2010 | One of 4 ShowBiz locations in Arkansas to receive Concept Unification. |
+| [Concept Unification Stage (3-Stage)] | 1991         | September 2010 | One of 4 ShowBiz locations in Arkansas to receive Concept Unification. |
 
 ## Animatronics
 

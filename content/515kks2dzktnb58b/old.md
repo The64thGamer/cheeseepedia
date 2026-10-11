@@ -49,7 +49,7 @@ After the store closed, it would remain vacant for a short period until it was f
 | Stage                                               | Installed | Removed      | Notes                                                                                                                                                                                                                                                          |
 |-----------------------------------------------------|-----------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Classic Stage]             | 1983      | 1991-1992    | 12th ShowBiz Pizza store to open in Florida.                                                                                                                                                                                                                   |
-| [Concept Unification Stage] | 1991      | January 2005 | One of 7 ShowBiz Pizza stores in Florida to undergo Concept Unification (Tallahassee opened with [Midfield, AL (34 Phillips Dr)]'s Rock-afire Explosion and was converted at the location). Tuxedo Chuck and Latex Munch would remain. |
+| [Concept Unification Stage (3-Stage)] | 1991      | January 2005 | One of 7 ShowBiz Pizza stores in Florida to undergo Concept Unification (Tallahassee opened with [Midfield, AL (34 Phillips Dr)]'s Rock-afire Explosion and was converted at the location). Tuxedo Chuck and Latex Munch would remain. |
 
 ## Animatronics
 

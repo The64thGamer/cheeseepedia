@@ -1,4 +1,4 @@
-***8225 Kingston Pike, Store #55*** was a Chuck E. Cheese's that opened on March 23rd, 1998, with a 1-Stage which is still open today. This location received the 2.0 remodel in April of 2022, and in around early May, the stage was removed. This is not to be confused with [Knoxville, TN (7522 Kingston Pike)] that opened on August 23rd, 1982, with a [Classic Stage] and closed in Summer 1997 with the [Concept Unification Stage].
+***8225 Kingston Pike, Store #55*** was a Chuck E. Cheese's that opened on March 23rd, 1998, with a 1-Stage which is still open today. This location received the 2.0 remodel in April of 2022, and in around early May, the stage was removed. This is not to be confused with [Knoxville, TN (7522 Kingston Pike)] that opened on August 23rd, 1982, with a [Classic Stage] and closed in Summer 1997 with the [Concept Unification Stage (3-Stage)].
 
 ## History
 

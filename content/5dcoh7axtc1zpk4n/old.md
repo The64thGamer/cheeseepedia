@@ -1,4 +1,4 @@
-***3724 Mayfair St, Store #380*** is a Chuck E. Cheese location in Durham, North Carolina. The store opened on March 7, 1994, with a [1-Stage]. It is the last Mini Unit variant of the 1-stage, and also the last location to have a full exterior with original 90s checkers. It is also the last CEC location in the [Triangle](https://en.wikipedia.org/wiki/Research_Triangle) to have animatronics, after the [Raleigh, NC (3501-131 Capital Blvd)] location in Raleigh removed their [Concept Unification Stage] for the [CEC 2.0 Remodel Program] on August 31, 2022.
+***3724 Mayfair St, Store #380*** is a Chuck E. Cheese location in Durham, North Carolina. The store opened on March 7, 1994, with a [1-Stage]. It is the last Mini Unit variant of the 1-stage, and also the last location to have a full exterior with original 90s checkers. It is also the last CEC location in the [Triangle](https://en.wikipedia.org/wiki/Research_Triangle) to have animatronics, after the [Raleigh, NC (3501-131 Capital Blvd)] location in Raleigh removed their [Concept Unification Stage (3-Stage)] for the [CEC 2.0 Remodel Program] on August 31, 2022.
 
 ## History
 

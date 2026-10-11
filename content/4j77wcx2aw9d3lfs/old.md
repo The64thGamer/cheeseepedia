@@ -1,4 +1,4 @@
-***12790 Amargosa Rd, Store #750*** is a Chuck E. Cheese's that opened on December 14, 1999, with a Studio C (1997)|Studio C Alpha and is still open today with the 2.0 remodel. This store is not to be confused with [Victorville, CA (15405 Park Ave)], which opened on October 5, 1982, with a [Balcony Stage] and closed in June 1993 (day unknown) with [Chuck E.'s House Facade].
+***12790 Amargosa Rd, Store #750*** is a Chuck E. Cheese's that opened on December 14, 1999, with a Studio C (1997)|Studio C Alpha and is still open today with the 2.0 remodel. This store is not to be confused with [Victorville, CA (15405 Park Ave)], which opened on October 5, 1982, with a [Balcony Stage] and closed in June 1993 (day unknown) with [Chuck E.'s House Facade (C-Stage)].
 
 ## Stages
 
