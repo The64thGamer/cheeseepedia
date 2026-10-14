@@ -350,7 +350,7 @@ Initially, locations that were eligible for this remodel got one of three packag
 - [Hampton, VA (5 Towne Centre Way)]
 - [Manassas, VA (7730 Stream Walk Ln)]
 - [Richmond, VA (9030 Broad St)]
-- [Richmond, VA (10430 Midlothian Turnpike)]
+- [Richmond, VA (10430 Midlothian Tpke)]
 - [Roanoke, VA (4059 Electric Rd)]
 - [Sterling, VA (21025 Dulles Town Circle)]
 - [Virginia Beach, VA (2699 Lishelle Place)]

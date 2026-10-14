@@ -286,4 +286,4 @@ Product Number on back of tree prop.Some props have a sticker placed on them den
 | **???**                | style='vertical-align:bottom; text-align:left;' |Seattle, WA (3605 34th St South)                                           |
 | 1-81 #-2               | style='vertical-align:bottom; text-align:left;' |Raleigh, NC (3501-131 Capitol Blvd)                                        |
 | **???**                | style='vertical-align:bottom; text-align:left;' |[Fort Smith, AR (1200 S Waldron Rd)]               |
-| 4-82 #-23              | style='vertical-align:bottom; text-align:left;' |[Richmond, VA (10430 Midlothian Turnpike)]         |
+| 4-82 #-23              | style='vertical-align:bottom; text-align:left;' |[Richmond, VA (10430 Midlothian Tpke)]         |

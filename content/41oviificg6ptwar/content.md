@@ -119,7 +119,7 @@ Note: Contains only confirmed installations, and may not be in order.
 | [Hampton, VA (5 Towne Centre Way)]                  | December 2022         | 2021 Model           |
 | Sherman, TX (3808 US 75 North)                                              | December 2022         | 2021 Model           |
 | [Torrance, CA (16920 Prairie Ave)]                  | January 2023          | 2021 Model           |
-| [Richmond, VA (10430 Midlothian Turnpike)]          | January 2023          | 2021 Model           |
+| [Richmond, VA (10430 Midlothian Tpke)]          | January 2023          | 2021 Model           |
 | [Valencia, CA (25955 North The Old Rd)]             | January 2023          | 2021 Model           |
 | Hickory, NC (2032 Catawba Valley Blvd SE)                                   | January 2023          | 2021 Model           |
 | Denton, TX (341 I-35E)                                                      | January 2023          | 2021 Model           |

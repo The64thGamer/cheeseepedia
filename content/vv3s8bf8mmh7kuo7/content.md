@@ -13,7 +13,7 @@ This variation was essentially a repaint of the cloud backdrop covering center a
 There are still other possible locations to potentially have gotten it, but these are the only ones with available proof.
 
 - Surfside Beach, SC (900 US-17 BUS)|Surfside Beach, SC
-- [Richmond, VA (10430 Midlothian Turnpike)]
+- [Richmond, VA (10430 Midlothian Tpke)]
 - [Virginia Beach, VA (2699 Lishelle Place)]
 - [Charlotte, NC (7701 Pineville-Matthews Rd)]
 - [Panama City, FL (4432 US-98)]

@@ -1,5 +1,5 @@
-The ***Balcony Stage*** (known internally as ***The Stage***) was a Cyberamics stage type used at [Pizza Time Theatre] locations as a replacement for the [Portrait / Shelf Stage], and was installed from 1980 to 1986.
-The stage debuted at [San Jose, CA (1371 Kooser Rd)] [1] in May of 1980, and went extinct in 1993 at [Edmonton, Alberta, Canada (9271 34th Ave)]. From 1988 to 1989, most Balcony Stages would be retrofitted into [Chuck E.'s House Facade (C-Stage)].
+The ***Balcony Stage***, known internally as ***The Stage***, was a Cyberamics stage type used at Pizza Time Theatre locations as a replacement for the [Portrait / Shelf Stage], and was installed from 1980 to 1986.
+The stage debuted at [San Jose, CA (1371 Kooser Rd)] [1] in May 1980, and went extinct in 1993 at [Edmonton, Alberta, Canada (9271 34th Ave)]. From 1988 to 1989, most Balcony Stages would be retrofitted into [Chuck E.'s House Facade (C-Stage)].
 
 ## History
 
@@ -7,7 +7,7 @@ The stage debuted at [San Jose, CA (1371 Kooser Rd)] [1] in May of 1980, and wen
 
 In early 1980, after the openings of [Sparks, NV (530 Greenbrae Dr)] and [Citrus Heights, CA (7614 Greenback Lane)], Pizza Time Theatre wanted to create a more standardized Portrait Stage. The final outcome would be replacing the [Kooser PTT Show] with a new stage called "Showboat."
 
-The Showboat stage, which had Foxy Colleen as the Guest Star, was placed in Kooser's showroom in May 1980. The stage turned out to be a success and would later be installed at [Arlington, TX (2216 S Fielder Rd)] when the store opened in October 1980. Arlington's Balcony had Madame Oink instead of Foxy Colleen and the showtape upon opening was either Madame Oink II or [Around the World with Madam Oink]. Arlington's Balcony was also more like the later Balcony Stages, with the characters being lower down and a [Cheese Crawl] underneath the stage.
+The Showboat stage, which had Foxy Colleen as the Guest Star, was placed in Kooser's showroom in May 1980. The stage turned out to be a success and would later be installed at [Arlington, TX (2216 S Fielder Rd)] when the store opened in October 1980, making it the first to open with the stage [2]. Arlington's Balcony had Madame Oink instead of Foxy Colleen and the showtape upon opening was either Madame Oink II or [Around the World with Madam Oink]. Arlington's Balcony was also more like the later Balcony Stages, with the characters being lower down and a Cheese Crawl underneath the stage.
 Most locations still opened with a Portrait Shelf until December 1980. The Balcony Stage was installed at all PTT locations afterwards.
 
 #### Later Balcony Stages
@@ -16,7 +16,7 @@ The "Irish Stew" and [Around the World (Balcony Stage Theme)] showtapes would ha
 
 #### ShowBiz Pizza Time/Chuck E. Cheese's
 
-After [ShowBiz Pizza Place] bought out PTT in 1985, they would continue to open Pizza Time Theatre locations with Balcony Stages until January 1986, with the last PTT location being [Fairbanks, AK (600 Old Steese Hwy)]. In 1987, [Arlington, TX (2216 S Fielder Rd)] would replace their Balcony Stage with a [Chuck E.'s House (Rocker Stage)], or "Rocker State." All locations forward would open with a Rocker Stage and several existing locations also switched to Rocker Stages. In 1988, ShowBiz corporate would set up Chuck E.'s House Facade (C-Stage)s to replace the fronts and backdrops of the Balcony Stage to make them look like a house.
+After ShowBiz Pizza Place bought out PTT in 1985, they would continue to open Pizza Time Theatre locations with Balcony Stages until January 1986, with the last PTT location being [Fairbanks, AK (600 Old Steese Hwy)]. In 1987, [Arlington, TX (2216 S Fielder Rd)] would replace their Balcony Stage with a [Chuck E.'s House (Rocker Stage)], or "Rocker Stage." All locations forward would open with a Rocker Stage and several existing locations also switched to Rocker Stages. In 1988, ShowBiz corporate would set up Chuck E.'s House Facade (C-Stage)s to replace the fronts and backdrops of the Balcony Stage to make them look like a house.
 The last Balcony Stage would be located at Edmonton, Alberta, Canada, which was replaced in 1993 for a [2-Stage]. Since then, the Balcony Stage has appeared as a cameo in a few modern era CEC Shows, mostly as a flashback.
 
 ### Similar Stage Types

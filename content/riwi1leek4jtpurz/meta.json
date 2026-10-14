@@ -1,53 +1,161 @@
 {
-    "title": "Richmond, VA (10430 Midlothian Turnpike)",
-    "storeNumber": "",
-    "startDate": "1990-05-01",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1992-00-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-01-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1990-05-01"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1990-05-01",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1992-00-00",
-            "e": "2023-01-00",
-            "desc": "One of 5 3-Stages in Virginia to receive Concept Unification. Formerly last in Virginia from August 2022 until stage removal in January 2023. 10th-to-last 3-Stage until stage removal. Show rumored to have came from Park Ridge, IL (678 N Northwest Hwy), later Surfside Beach, SC (900 US-17 BUS)/Surfside Beach, SC."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-01-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "37.50710342",
-        "-77.59033978"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "KAjoglaX7_jV6umNYARq.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Richmond, VA (10430 Midlothian Tpke)",
+  "storeNumber": "",
+  "startDate": "1990-05-01",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1990-05-01"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1992-00-00"
+    },
+    {
+      "n": "Phase 1 (1994)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Phase 2 (1993)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Phase 3 (1997)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2005-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-01-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1990-05-01",
+      "e": "1992-00-00",
+      "desc": "Originally from Park Ridge, IL. Sent to Surfside Beach, SC after Park Ridge's closure. Sent to Richmond after Surfside Beach's closure."
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1992-00-00",
+      "e": "2023-01-00",
+      "desc": "10th-to-last 3-Stage until removal."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-01-00",
+      "desc": "2021 model.",
+      "e": ""
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.50710342",
+    "-77.59033978"
+  ],
+  "citations": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "KAjoglaX7_jV6umNYARq.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place",
+    "Chuck E. Cheese's",
+    "Chuck E. Cheese"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "desc": "Fate unknown.",
+      "l": "4-82 1-23",
+      "s": "1990-05-01",
+      "e": "2023-01-00"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "desc": "Fate unknown.",
+      "l": "4-82 2-23",
+      "s": "1990-05-01",
+      "e": "2023-01-00"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "desc": "Fate unknown.",
+      "l": "4-82 3-23",
+      "s": "1990-05-01",
+      "e": "2023-01-00"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "desc": "Fate unknown.",
+      "l": "4-82 4-23",
+      "s": "1990-05-01",
+      "e": "2023-01-00"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "desc": "Fate unknown.",
+      "l": "4-82 5-23",
+      "s": "1990-05-01",
+      "e": "2023-01-00"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "desc": "Removed during Concept Unification. Fate unknown.",
+      "l": "4-82 6-23",
+      "s": "1990-05-01",
+      "e": "1992-00-00"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "desc": "Repaired by Connor Leschinsky in 2017, but removed shortly afterward due to the Tol-O-Matic cylinder not being able to be repaired. Mech sent to corporate. Box, camera housing, and mask owned by a private collector.",
+      "l": "4-82 7-23",
+      "s": "1990-05-01",
+      "e": "2017-00-00"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "desc": "Fate unknown.",
+      "l": "4-82 8-23",
+      "s": "1990-05-01",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "desc": "Owned by a private collector.",
+      "l": "4-82 10-23",
+      "s": "1990-05-01",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "desc": "Destroyed.",
+      "l": "4-82 11-23",
+      "s": "1990-05-01",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "desc": "Removed during Concept Unification. Destroyed.",
+      "l": "",
+      "s": "1990-05-01",
+      "e": "1992-00-00"
+    },
+    {
+      "n": "Wink (Animatronic)",
+      "desc": "Owned by the store's technician.",
+      "l": "",
+      "s": "1990-05-01",
+      "e": "2023-01-00"
+    }
+  ]
 }

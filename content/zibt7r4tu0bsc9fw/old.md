@@ -1,4 +1,4 @@
-***5376 Northfield Rd*** was a *[Pizza Time Theatre]* that opened in November 1980 with a [Portrait / Shelf Stage], and closed in June 1985(1).
+***5376 Northfield Rd*** was a *[Pizza Time Theatre]* that opened in November 1980 with a [Cyberamics Portrait Shelf Stage], and closed in June 1985(1).
 
 ## Stages
 
@@ -6,7 +6,7 @@ The Main Stage was most likely always a portrait stage while Dolli Dimples was s
 
 | Name                                                      | Installed         | Removed   | Notes                                                                               |
 |-----------------------------------------------------------|-------------------|-----------|-------------------------------------------------------------------------------------|
-| [Portrait / Shelf Stage] | **November 1980** | 1985/1986 | First PTT in Ohio. First Portrait Stage in Ohio. Had Madame Oink as the guest star. |
+| [Cyberamics Portrait Shelf Stage] | **November 1980** | 1985/1986 | First PTT in Ohio. First Portrait Stage in Ohio. Had Madame Oink as the guest star. |
 
 ## History
 

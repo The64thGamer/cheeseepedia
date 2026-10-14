@@ -1,0 +1,46 @@
+{
+  "title": "Rosedale, MD (6400 Rossville Blvd)",
+  "type": "Locations",
+  "pageThumbnailFile": "",
+  "pageThumbnailVideo": "",
+  "downloadLinks": [],
+  "citations": [
+    "https://www.newspapers.com/article/the-baltimore-sun/208207506/",
+    "https://www.newspapers.com/article/the-baltimore-sun/208207578/",
+    "https://www.newspapers.com/article/the-evening-sun/208207135/"
+  ],
+  "tags": [
+    "Towson, MD (6400 Rossville Blvd)",
+    "The Looney Tunes Revue"
+  ],
+  "startDate": "1983-01-25",
+  "endDate": "1985-00-00",
+  "recommend": false,
+  "latitudeLongitude": [
+    "39.3402453",
+    "-76.4867961"
+  ],
+  "credits": [],
+  "stages": [
+    {
+      "n": "The Looney Tunes Revue",
+      "desc": "",
+      "s": "1983-01-25",
+      "e": "1985-00-00"
+    }
+  ],
+  "remodels": [],
+  "franchisees": [
+    {
+      "n": "Leisure Development Corporation",
+      "s": "1983-01-25",
+      "e": "1985-00-00"
+    }
+  ],
+  "animatronics": [],
+  "attractions": [],
+  "showtapeFormats": [],
+  "contributors": [
+    "ThatRockHistorian76"
+  ]
+}
