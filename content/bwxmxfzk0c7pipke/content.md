@@ -1,0 +1,1 @@
+The exterior of [Warwick, RI (1960 Post Rd)].

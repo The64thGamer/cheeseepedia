@@ -1,0 +1,1 @@
+The exterior of [Levittown, NY (3046 Hempstead Turnpike)].

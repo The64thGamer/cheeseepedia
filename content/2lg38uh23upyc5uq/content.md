@@ -1,0 +1,1 @@
+The exterior of [Penfield, NY (1614 Penfield Rd)]. This shot was featured in the 1983/84 Penfield High School yearbook.

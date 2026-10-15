@@ -28,7 +28,62 @@
       "e": "0000-00-00"
     }
   ],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Buck Rogers: Planet of Zoom",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Cheese Crawl",
+      "desc": "",
+      "s": "1982-06-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Dig Dug",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Donkey Kong",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Fantasy Forest",
+      "desc": "",
+      "s": "1982-06-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Galaga",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Ms. Pac-Man",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Spy Hunter",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Zaxxon",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "41.6569990",
@@ -36,7 +91,8 @@
   ],
   "citations": [],
   "contributors": [
-    "Getretrofit"
+    "Getretrofit",
+    "ThatRockHistorian76"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "e3b43pnsojrjjxru.avif",

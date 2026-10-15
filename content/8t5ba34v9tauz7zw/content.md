@@ -1,0 +1,1 @@
+The [Chuck E. Cheese 16m (Animatronic)] at [North Olmsted, OH (26104 Great Northern Shopping)].

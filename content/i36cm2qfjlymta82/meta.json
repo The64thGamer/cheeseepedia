@@ -1,7 +1,7 @@
 {
   "title": "Clawson / Troy, MI (1241 E 14 Mile Rd)",
   "storeNumber": "",
-  "startDate": "1982-02-00",
+  "startDate": "1982-02-17",
   "endDate": "1986-00-00",
   "remodels": [
     {
@@ -10,13 +10,7 @@
     }
   ],
   "stages": [],
-  "franchisees": [
-    {
-      "n": "Little Caesars Enterprises, Inc.",
-      "s": "1982-02-00",
-      "e": "0000-00-00"
-    }
-  ],
+  "franchisees": [],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
@@ -32,5 +26,6 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
-  ]
+  ],
+  "animatronics": []
 }

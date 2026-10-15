@@ -4,7 +4,7 @@
 
 ### Opening & Years of Operation
 
-The Rosedale Gadgets opened on January 25, 1983. At the time of its opening, the restaurant's general manager was Bob Scott [1]. The restaurant was the fourth of thirteen Gadgets to ever open, and enjoyed great local success when it did; the Looney Tunes Revue in particular was well-received by kids and adults alike, one hostess remarking, "Kids love it. They [adults] are kind of surprised. But they like it. I'm surprised how many of the adults say, 'Let me sit near the show'" [2].
+The Rosedale Gadgets opened on January 25, 1983. At the time of its opening, the restaurant's general manager was Bob Scott [1]. The restaurant was the fourth of thirteen Gadgets to ever open, and enjoyed great local success when it did; the Looney Tunes Revue in particular was well-received by kids and adults alike, one hostess remarking, "Kids love it. They (adults) are kind of surprised. But they like it. I'm surprised how many of the adults say, 'Let me sit near the show'" [2].
 
 ### Closure
 

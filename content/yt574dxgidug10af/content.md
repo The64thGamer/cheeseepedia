@@ -1,0 +1,1 @@
+The exterior sign of [Monroeville, PA (3813 William Penn Hwy)].

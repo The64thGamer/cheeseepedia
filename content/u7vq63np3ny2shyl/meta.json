@@ -1,34 +1,42 @@
 {
-    "title": "Chicago, IL (7300 W Foster Ave)",
-    "storeNumber": "",
-    "startDate": "1983-00-00",
-    "endDate": "1986-00-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1983-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1983-00-00",
-            "e": "1986-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.9758218",
-        "-87.8096052"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Chicago, IL (7300 W Foster Ave)",
+  "storeNumber": "",
+  "startDate": "1983-02-17",
+  "endDate": "1986-00-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-02-17",
+      "e": "1986-00-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Little Caesars Enterprises, Inc.",
+      "s": "1982-02-17",
+      "e": "0000-00-00"
+    }
+  ],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.9758218",
+    "-87.8096052"
+  ],
+  "citations": [],
+  "contributors": [
+    "Getretrofit"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
 }

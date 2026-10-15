@@ -1,0 +1,1 @@
+The exterior of [York, PA (351 Loucks Rd)].

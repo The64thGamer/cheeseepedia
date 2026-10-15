@@ -1,0 +1,1 @@
+The exterior of [Waukegan, IL (2211 Grand Ave)].

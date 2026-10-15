@@ -1,0 +1,1 @@
+An advertisement for places of entertainment in the Panorama neighborhood of Penfield, NY, including the [Penfield, NY (1614 Penfield Rd)] Pizza Time Theatre.
