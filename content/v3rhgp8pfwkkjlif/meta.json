@@ -1,34 +1,36 @@
 {
-    "title": "Jacksonville, FL (5721 Beach Blvd)",
-    "storeNumber": "",
-    "startDate": "1981-00-00",
-    "endDate": "1984-00-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1981-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1981-00-00",
-            "e": "1984-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "30.2934954",
-        "-81.6048905"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Jacksonville, FL (5721 Beach Blvd)",
+  "storeNumber": "",
+  "startDate": "1981-05-30",
+  "endDate": "1984-10-12",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1981-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-05-30",
+      "e": "1984-10-12"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.2934954",
+    "-81.6048905"
+  ],
+  "citations": [],
+  "contributors": [
+    "Getretrofit"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
 }
