@@ -16,7 +16,13 @@
       "e": "1985-07-29"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "Pizza Concepts, Inc.",
+      "s": "1983-06-00",
+      "e": "0000-00-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
@@ -25,7 +31,8 @@
   ],
   "citations": [],
   "contributors": [
-    "ThatRockHistorian76"
+    "ThatRockHistorian76",
+    "Getretrofit"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "6l7chhtmp3eqyx5r",

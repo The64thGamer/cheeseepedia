@@ -1,34 +1,42 @@
 {
-    "title": "Fresno, CA (5384 N Blackstone Ave)",
-    "storeNumber": "",
-    "startDate": "1980-07-00",
-    "endDate": "1985-05-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1980-07-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Portrait / Shelf Stage",
-            "s": "1980-07-00",
-            "e": "1985-05-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "36.81391242",
-        "-119.7905421"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "1UOfzoRd8U5J6DESU7Xa.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Fresno, CA (5384 N Blackstone Ave)",
+  "storeNumber": "",
+  "startDate": "1980-08-00",
+  "endDate": "1985-05-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1980-07-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Portrait / Shelf Stage",
+      "s": "1980-07-00",
+      "e": "1985-05-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Prime Time Ventures, Inc.",
+      "s": "1980-08-00",
+      "e": "1983-06-02"
+    }
+  ],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.81391242",
+    "-119.7905421"
+  ],
+  "citations": [],
+  "contributors": [
+    "Getretrofit"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "1UOfzoRd8U5J6DESU7Xa.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
 }

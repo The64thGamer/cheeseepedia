@@ -1,34 +1,42 @@
 {
-    "title": "Bakersfield, CA (3420 Ming Ave)",
-    "storeNumber": "",
-    "startDate": "1981-12-00",
-    "endDate": "1986-03-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1981-12-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1981-12-00",
-            "e": "1986-03-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "35.33818912",
-        "-119.041382"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "4z86YVxYTUFA8YxZKHGl.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Bakersfield, CA (3420 Ming Ave)",
+  "storeNumber": "",
+  "startDate": "1981-12-00",
+  "endDate": "1986-03-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1981-12-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-12-00",
+      "e": "1986-03-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Prime Time Ventures, Inc.",
+      "s": "1981-00-00",
+      "e": "1983-06-02"
+    }
+  ],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "35.33818912",
+    "-119.041382"
+  ],
+  "citations": [],
+  "contributors": [
+    "Getretrofit"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "5jvgpfvl5dq5tdrs.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
 }

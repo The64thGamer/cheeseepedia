@@ -35,7 +35,13 @@
       "desc": ""
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "Pizza Concepts, Inc.",
+      "s": "1983-06-07",
+      "e": "0000-00-00"
+    }
+  ],
   "attractions": [
     {
       "n": "Ball Crawl",
@@ -84,7 +90,8 @@
     "https://www.newspapers.com/article/press-and-sun-bulletin-cheese-e-street/113617182/"
   ],
   "contributors": [
-    "ThatRockHistorian76"
+    "ThatRockHistorian76",
+    "Getretrofit"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "9orv37hcp3tzr0td.avif",

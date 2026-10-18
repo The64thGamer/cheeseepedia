@@ -8,7 +8,8 @@
   "endDate": "0000-00-00",
   "contributors": [
     "sudo-trans-pony",
-    "RockafireFan123"
+    "RockafireFan123",
+    "Ceclife13"
   ],
   "citations": [
     "http://www.showbizpizza.com/review/rae/1984_senior.html"
@@ -20,5 +21,31 @@
     "CREATIVE ENGINEERING SENIOR CITIZEN SHOWTAPE 041984",
     "CREATIVE ENGINEERING SENIOR CITIZEN SHOWTAPE REVISED 042684"
   ],
-  "pageThumbnailFile": "09uregj04itg.avif"
+  "pageThumbnailFile": "09uregj04itg.avif",
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "credits": [
+    {
+      "role": "Voice of Billy Bob, Looney Bird, Rolfe DeWolfe and Earl Schmerle",
+      "n": "Aaron Fechter"
+    },
+    {
+      "role": "Voice of Fatz Geronimo, Sun, Moon, and Antioch, Songwriter ('Mardi Gras City')",
+      "n": "Burt Wilson"
+    },
+    {
+      "role": "Voice of Beach Bear",
+      "n": "Rick Bailey"
+    },
+    {
+      "role": "Voice of Dook LaRue",
+      "n": "Duke Chauppetta"
+    },
+    {
+      "role": "Voice of Mitzi Mozzarella",
+      "n": "Shalisa Sloan"
+    }
+  ]
 }

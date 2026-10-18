@@ -1,4 +1,4 @@
-***Houston, TX (6760 Antoine Dr)* (Store #734)** was a *Chuck E. Cheese's* location that opened on July 15, 1981 as a *ShowBiz Pizza Place* with a [Classic Stage], and closed as a *Chuck E. Cheese's* with a [Concept Unification Stage (3-Stage)] in September 2006.[9]
+***Houston, TX (6760 Antoine Dr)*** was a *Chuck E. Cheese's* location that opened on July 15, 1981 as a *ShowBiz Pizza Place* with a [Classic Stage], and closed as a *Chuck E. Cheese's* with a [Concept Unification Stage (3-Stage)] in September 2006.[9]
 
 ## History
 
