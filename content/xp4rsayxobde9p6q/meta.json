@@ -1,34 +1,36 @@
 {
-    "title": "New Britain, CT (222 E Main St)",
-    "storeNumber": "",
-    "startDate": "1983-07-00",
-    "endDate": "1985-00-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1983-07-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1983-07-00",
-            "e": "1985-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.66909842",
-        "-72.78204813"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "New Britain, CT (222 E Main St)",
+  "storeNumber": "",
+  "startDate": "1983-08-03",
+  "endDate": "1985-11-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-08-03"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-08-03",
+      "e": "1985-11-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.66909842",
+    "-72.78204813"
+  ],
+  "citations": [],
+  "contributors": [
+    "Getretrofit"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
 }

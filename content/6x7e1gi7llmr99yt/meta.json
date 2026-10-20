@@ -1,28 +1,37 @@
 {
-    "title": "Killeen, TX (1001 E. Hwy 190)",
-    "storeNumber": "",
-    "startDate": "1982-00-00",
-    "endDate": "1985-00-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1982-00-00"
-        }
-    ],
-    "stages": [],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "0",
-        "0"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Killeen, TX (1001 E. Hwy 190)",
+  "storeNumber": "",
+  "startDate": "1982-12-00",
+  "endDate": "1985-00-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-12-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "desc": "",
+      "s": "1982-12-00",
+      "e": "1985-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "0",
+    "0"
+  ],
+  "citations": [],
+  "contributors": [
+    "Getretrofit"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "zjt5st667kobkon0.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
 }
